@@ -1,0 +1,2030 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 13_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: Passo Estratégico de Português
+---
+
+# Passo Estratégico de Português
+
+Aula 09
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+                                             19 de Maio de 2023
+
+---
+
+   Carlos Roberto Correa
+   Aula 09
+
+1 - Apresentação 
+2 - Importância do Assunto - Análise Estatística 
+  3.1 - Informações Explícitas e Implícitas 
+  3.2 - Pressupostos Textuais 
+  3.3 - Informações Subentendidas 
+  3.4 Condições de Textualidade 
+  3.5 Tipologia Textual 
+  3.6 Tipos de Discursos 
+4 - Reescrita de frases 
+  4.1 Palavras e Locuções 
+  4.2 Significação das Palavras 
+  4.2.1 Sinônimos 
+  4.2.2 Antônimos 
+  4.2.3 Uso de termos anafóricos 
+  4.2.4 Polissemia 
+  4.2.5 Homônimos 
+  4.2.6 Parônimos 
+  4.3 Demais recursos para retextualização 
+  4.4 Expressões que causam dúvidas 
+5 – Aposta estratégica 
+6 - Questões-chave de revisão 
+7 – Lista de questões comentadas 
+8 - Revisão estratégica 
+  8.1 Perguntas 
+  8.2 Perguntas e respostas 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                            1
+          www.estrategiaconcursos.com.br                                                                                                                  43
+                                               
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+1 - APRESENTAÇÃO
+Realizar provas de concursos públicos é uma missão que exige muita interpretação. Todas as
+questões (objetivas e discursivas), de todas as disciplinas, dependem de boa interpretação para
+serem resolvidas. A interpretação é essencial para se compreender o que de fato o examinador quer!
+Percebemos, ao longo da nossa trajetória profissional, que muitos alunos erram questões por não
+terem sabido interpretar corretamente os enunciados da prova, conquanto soubessem o assunto.
+Entender o que se pede é o ponto de partida para fazer boas provas!
+Devido à complexidade da Língua Portuguesa, temos de ter certos cuidados ao interpretar textos.
+Nosso intuito é minimizar os aspectos subjetivos de interpretação para desenvolvermos análises
+técnicas e aprofundadas. Vamos lá?
+
+
+Prof. Carlos Roberto
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                         2
+        www.estrategiaconcursos.com.br                                                               43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+2 - IMPORTÂNCIA DO ASSUNTO - ANÁLISE ESTATÍSTICA
+              Percentual de incidência em concursos similares (FGV)
+                             Interpretação de textos.                               34,98%
+       Classes de palavras; Formação e estrutura das palavras.                      14,43%
+                                    Linguagem.                                      3,96%
+                       Ortografia, Acentuação e Crase.                              3,27%
+                                Tipologia Textual.                                  3,11%
+                                    Pontuação.                                      2,90%
+                             Colocação pronominal.                                  2,61%
+                                Termos da oração.                                   2,14%
+               Concordância verbal, nominal e vozes verbais.                        1,92%
+            Relação de coordenação e subordinação das orações.                      1,35%
+                          Palavras “se”, “que” e “como”.                            1,19%
+                           Regência nominal e verbal.                               1,06%
+
+
+Interpretar é entender o que está escrito no texto. Para falar em interpretação textual é fundamental
+saber o que é texto. A palavra texto é originada do latim textum e significa tecido, ou seja, um texto
+é um tecido de ideias, por isso, um texto escrito não é apenas uma enumeração de frases e de
+orações, mas um conjunto de informações conectadas entre si que estabelecem a coesão e a
+coerência textual.
+
+3.1 - INFORMAÇÕES EXPLÍCITAS E IMPLÍCITAS
+
+Muitos candidatos se perguntam como melhorar sua capacidade de interpretação dos textos.
+Primeiramente, é preciso ter em mente que um texto é formado por informações explícitas e
+implícitas. As informações explícitas são aquelas manifestadas pelo autor no próprio texto. As
+informações implícitas não são manifestadas pelo autor no texto, mas podem ser subentendidas.
+Muitas vezes, para efetuarmos uma leitura eficiente, é preciso ir além do que foi dito, ou seja, ler
+nas entrelinhas.
+A partir de elementos presentes no texto, é possível ao leitor recuperar as informações implícitas,
+para que possa, efetivamente, chegar à produção de sentido. Por isso, o leitor precisa estabelecer
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             3
+        www.estrategiaconcursos.com.br                                                                   43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+relações dos mais diversos tipos do texto e o contexto, de forma a interpretar adequadamente o
+enunciado.
+Veja este exemplo:
+            Carlos começou a estudar neste mês para concursos públicos.
+A informação explícita é “Carlos começou a estudar neste mês para concursos públicos.” Entretanto,
+há uma informação implícita: “Carlos não estava estudando para concursos antes”.
+Agora, veja este outro exemplo:
+     Felizmente, Carlos começou a estudar neste mês para concursos públicos.
+A informação explícita é “Carlos começou a estudar neste mês para concursos públicos.” Entretanto,
+o advérbio “Felizmente” indica que há uma interpretação positiva sobre o fato de Carlos iniciar seus
+estudos para concursos públicos. Essa é a informação implícita!
+Percebe-se, pois, que podemos inferir informações a partir de um texto. Fazer uma inferência
+significa concluir alguma coisa a partir de outra já conhecida. Em provas de concursos públicos, fazer
+inferências é uma habilidade fundamental para a interpretação adequada dos textos e dos
+enunciados.
+
+3.2 - PRESSUPOSTOS TEXTUAIS
+
+Há de se considerar, também, os pressupostos textuais. Uma informação é considerada pressuposta
+quando um enunciado depende dela para fazer sentido.
+Veja este exemplo:
+            Quando Carlos retomará os estudos para concursos públicos?
+Esse enunciado só faz sentido se considerarmos que Carlos estava estudando, mas suspendeu sua
+preparação, ao menos temporariamente – essa é a informação pressuposta. Caso Carlos se encontre
+em ritmo constante de estudos, o pressuposto não é válido, o que torna o enunciado sem sentido.
+Repare que as informações pressupostas estão marcadas mediante palavras e expressões presentes
+no próprio enunciado e resultam de um raciocínio lógico. Portanto, no enunciado “Carlos ainda não
+voltou a estudar”, a palavra “ainda” indica que a volta de Carlos aos estudos é dada como certa pelo
+falante.
+
+3.3 - INFORMAÇÕES SUBENTENDIDAS
+
+Ao contrário das informações pressupostas, as informações subentendidas não são marcadas no
+próprio enunciado, são apenas sugeridas, ou seja, podem ser entendidas como insinuações.
+O uso de subentendidos faz com que o enunciador se esconda atrás de uma afirmação, pois não
+quer se comprometer com ela. Por isso, dizemos que os subentendidos são de responsabilidade do
+receptor, enquanto os pressupostos são partilhados por enunciadores e receptores.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             4
+        www.estrategiaconcursos.com.br                                                                   43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Em nosso cotidiano, somos cercados por informações subentendidas. A publicidade, por exemplo,
+parte de hábitos e pensamentos da sociedade para criar subentendidos.
+Veja este exemplo:
+                            Carlos busca o caminho da aprovação!
+Uma simples e curta frase declarativa, interpretada adequadamente, desencadeia uma série de
+relações entre ela e o leitor, a partir de uma informação explícita de que Carlos busca uma forma de
+ser aprovado. Estabelecidas essas relações, o leitor encontra outros sentidos além do que foi
+explicitado.
+A primeira dessas relações, que se estabelece entre texto e contexto, leva à compreensão de que,
+para ser aprovado, é preciso ter uma estratégia de estudos, sentido oculto em “caminho da
+aprovação”.
+A segunda, linguística por natureza, requer que o leitor reconheça o valor do artigo definido o: ele
+permite entender que o caminho existe, que é um preciso e determinado caminho, que só ele
+conduzirá à aprovação.
+A terceira, ainda no âmbito da linguagem, está centrada no significado de busca. Quem busca é
+porque perdeu ou porque nunca teve.
+
+3.4 CONDIÇÕES DE TEXTUALIDADE
+
+Para que uma sequência de enunciados seja reconhecida como texto, é preciso que ela forme um
+todo significativo, nas circunstancias de uso em que os enunciados ocorrem. É sobre as condições
+de textualidade, ou seja, aquelas que permitem que você avalie a qualidade do que lê e do que
+escreve.
+A primeira dessas condições é alcançada com a coerência, isto é, o fator responsável pela unidade
+de sentido; a segunda é a coesão, que permite a harmoniosa articulação entre os diferentes
+constituintes do texto.
+A coerência ou conectividade conceitual é a interdependência semântica entre os elementos
+constituintes de um texto, isto é, a relação entre as partes desse texto e que resulta em unidade de
+sentido. A coerência decorre da continuidade do sentido, do compromisso entre as partes que
+formam a macroestrutura (estrutura semântica global do texto) e está ligada à compreensão,
+possibilidade de Interpretação do que dizemos, escrevemos, ouvimos ou lemos.
+Para que a coerência se realize, há três propriedades fundamentais – continuidade ou repetição, não
+contradição e progressão.
+A coesão pode ser entendida como o modo pelo qual frases ou partes delas se combinam para
+assegurar o desenvolvimento textual, ou seja, é o modo como as palavras estão ligadas entre si,
+dentro de uma sequência, a fim de criar uma relação semântica entre um elemento do texto e outro
+elemento que é fundamental para sua interpretação.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           5
+        www.estrategiaconcursos.com.br                                                                 43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+A coesão – isto é, a articulação – será eficaz quando estabelecer não apenas a ligação de uma ideia
+a outra, mas também que tipo de relação específica se institui a partir desse recurso. A coesão é
+marcada linguisticamente quando, para isso, empregamos nomes, conjunções, pronomes relativos,
+preposições, advérbios, locuções adverbiais, elementos de transição adequados.
+
+3.5 TIPOLOGIA TEXTUAL
+
+Refere-se fundamentalmente ao tipo de texto e à sua estrutura e apresentação. As classificações
+mais cobradas em concurso são: a narração, a descrição e a dissertação.
+1. Narração - Modalidade em que um narrador conta um fato, real ou fictício, que ocorreu num
+determinado tempo e lugar. Há uma relação de anterioridade e posterioridade. O tempo verbal
+predominante é o passado. É o tipo predominante nos gêneros: conto, fábula, crônica, romance,
+novela, depoimento, piada, relato, etc.
+2. Descrição – Texto no qual se faz um retrato por escrito de um lugar, uma pessoa, um animal ou
+um objeto. A classe de palavras mais utilizada nessa produção é o adjetivo, pela sua função
+caracterizadora. Não há relação de anterioridade e posterioridade. Tem predominância em gêneros
+como: cardápio, folheto turístico, anúncio classificado, etc.
+3. Dissertação – Texto por meio do qual se desenvolve, explica-se, discorre-se sobre determinado
+assunto. Dependendo do objetivo do autor, pode ter caráter expositivo ou argumentativo.
+Importante fazer a distinção entre tipo e gênero textuais. O tipo textual é o conjunto de
+características de um texto, onde os principais são os listados acima. Por sua vez, o gênero textual
+seria uma espécie do tipo textual. Por exemplo, um texto narrativo (tipo) pode ser uma crônica, um
+romance, um depoimento etc. (gêneros).
+
+3.6 TIPOS DE DISCURSOS
+
+Discurso Direto – o narrador dá uma pausa na sua narração e passa a citar fielmente a fala do
+personagem. O objetivo é transmitir autenticidade, afastando o leitor da responsabilidade pelo que
+é dito. Tem como principais características:
+• Utilização de verbos como falar, responder, perguntar, indagar, declarar, exclamar, entre outros;
+• Utilização dos sinais de pontuação – travessão, exclamação, interrogação, dois pontos, aspas;
+• Inserção do discurso no meio do texto;
+Exemplos:
+  João me perguntou: – Carlos, você irá à aula?
+  Carlos foi enfático: João, não adianta insistir, porque não sairei hoje.
+  A aluna afirmou: “Preciso estudar muito para a prova.”
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           6
+        www.estrategiaconcursos.com.br                                                                 43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Discurso Indireto – o narrador da história interfere na fala do personagem, proferindo suas palavras.
+Aqui, não encontramos as palavras do personagem. Tem como principais características:
+   • O discurso é narrado em 3ª pessoa;
+   • Algumas vezes, são utilizados verbos de elocução, tais como, falar, responder, perguntar,
+     indagar, declarar, exclamar. Porém, não há utilização do travessão, pois, geralmente, as
+     orações são subordinadas, ou seja, dependem de outras orações. Por esse motivo, é comum
+     o uso de conjunções.
+Exemplos:
+  João perguntou se eu irei à aula hoje.
+  Carlos esclareceu que não sairá hoje!
+  A aluna afirmou que precisava estudar muito para a prova.
+Discurso Indireto Livre - consiste na mescla dos discursos. Simultaneamente à fala do narrador,
+também se faz presente a fala do personagem. O discurso indireto livre mantém a expressividade
+do discurso direto, contudo, simultaneamente, conserva as transposições de pronomes, verbos e
+advérbios típicos do discurso indireto. Tem como principais características:
+   • Não há marcas que indiquem a separação da fala do narrador da fala do personagem, como
+       verbos de elocução, sinais de pontuação e as conjunções que aparecem nos discursos direto
+       e indireto.
+   • Conforme o desenvolvimento da narração, as falas dos personagens surgem
+       espontaneamente na 1ª pessoa do discurso do narrador, que se encontra na 3ª pessoa.
+   • O narrador é onisciente de todas as falas, sentimentos, reações e pensamentos do
+       personagem.
+  Carlos recebeu a notícia de que passou no concurso. Maravilha, consegui
+  realizar meu sonho!
+
+
+4 - REESCRITA DE FRASES
+Paráfrase é a reescrita de frases, a qual ocorre quando há mudança da forma de um texto, sem que
+ocorra a alteração de seu significado.
+Dessa forma, para que o texto construído por meio da paráfrase seja considerado correto, é
+necessário o respeito tanto à correção redacional (aspectos gramaticais) quanto ao sentido do texto
+originalmente apresentado (aspectos semânticos).
+Assim, para resolver uma questão que envolve reescrita de trechos de um texto, é preciso averiguar
+os aspectos gramaticais (pontuação, elementos coesivos, ortografia, emprego de pronomes,
+concordância, colocação pronominal, regência, etc.) e os aspectos semânticos (significação de
+palavras, alteração de sentido, etc.).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            7
+        www.estrategiaconcursos.com.br                                                                  43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+                                                                               Ex.: Pontuação, ortografia,
+                                              Aspectos                          concordância, elementos
+                                                                                  coesivos, emprego de
+                                             gramaticais                          pronomes, colocação
+                                                                                     pronominal, etc.
+    Paráfrase
+                                              Aspectos                         Significação de palavras,
+                                                                               alteração de sentido, etc.
+                                             Semânticos
+
+A substituição de palavras ou trechos de texto ocorre no processo de reescrita. Porém, é
+imprescindível averiguar se tal substituição não altera o significado e o sentido do texto original.
+Diversos recursos podem ser utilizados para parafrasear um texto. Vejamos, a seguir, os mais
+recorrentes.
+
+4.1 PALAVRAS E LOCUÇÕES
+
+É possível observar que, em alguns casos, uma única palavra pode substituir uma locução, sem que
+haja alteração de significado ou incorreção gramatical.
+  Exemplo:
+  Ana tinha escolhido o concurso que queria prestar quando conheceu José.
+  Ana escolhera o concurso que queria prestar quando conheceu José.
+Observe que, em ambas as formas, há um fato ocorrido antes (tinha escolhido/escolhera) do fato já
+consumado (conheceu José).
+Nesse exemplo, portanto, utilizando o pretérito mais-que-perfeito, substituímos uma expressão por
+uma palavra.
+  Os professores estão buscando a melhor maneira de transmitir conhecimento
+  aos alunos.
+  Os professores buscam a melhor maneira de transmitir conhecimento aos
+  alunos.
+Ambas as frases têm sentido atemporal, ou seja, expressam ações perenes, que não têm fim. A
+expressão “estão buscando” é substituída pela palavra “buscam”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 8
+        www.estrategiaconcursos.com.br                                                                       43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+4.2 SIGNIFICAÇÃO DAS PALAVRAS
+
+A fim de verificar a significação das palavras, é importante revisar os sinônimos, antônimos,
+polissemia, homônimos e parônimos.
+
+4.2.1 SINÔNIMOS
+
+Os sinônimos são palavras que possuem escrita diferente e significação idêntica ou semelhante.
+
+
+  belo – bonito                         antítese – oposição                    chefia – comando
+  semelhante - análogo                  investigar – pesquisar                 cara – rosto
+  automóvel – carro                     jogar – arremessar                     pegar - apanhar
+  plácida – serena                      carrasco - algoz                       caro - oneroso
+
+
+É muito importante destacar a importância de compreender o significado contextual para verificar
+se a substituição possui validade.
+
+Veja o seguinte exemplo:
+
+
+  Meu time não vai jogar amanhã. (Nesse caso, jogar não é sinônimo de arremessar.)
+
+4.2.2 ANTÔNIMOS
+
+Os antônimos são palavras que possuem sentidos diametralmente opostos.
+
+
+  belo – feio                           antítese – tese                  chefe - subordinado
+  semelhante - diferente                cara - barata                    jogar - apanhar
+  fraco - forte                         triste - feliz                   sabedoria- ignorância
+  inteligência - burrice                quente - frio                    saboroso - detestável
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       9
+        www.estrategiaconcursos.com.br                                                             43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+4.2.3 USO DE TERMOS ANAFÓRICOS
+
+Usar termos anafóricos significa fazer remissão a um ou mais termos já mencionados no texto.
+
+
+  O aluno e o professor adquirem conhecimento. O aluno o adquire estudando. O
+  professor o adquire lecionando.
+  O aluno e o professor adquirem conhecimento. Aquele o adquire estudando;
+  este, lecionando.
+
+4.2.4 POLISSEMIA
+
+A polissemia ocorre quando o vocábulo tem mais de um significado, o qual só pode ser
+compreendido quando analisamos o contexto no qual fora empregado, ou seja, a polissemia ocorre
+quando o mesmo vocábulo apresenta diferentes significados, dependendo da situação em que for
+utilizado.
+A existência de significados diversos pode depender da afinidade etimológica da palavra, do seu uso
+metafórico e do contexto no qual é apresentada. Em tal contexto a palavra será monossêmica, ou
+seja, terá um único significado.
+
+Exemplos:
+
+
+  O curso foi muito caro para você não fazer os exercícios. (caro= oneroso)
+  Meu caro, estude e conhecerá a vitória. (caro= prezado)
+  A carteira estava cheia de dinheiro. (carteira= objeto pessoal para guardar dinheiro e
+  documentos)
+  Sentei na última carteira no dia da prova. (carteira= móvel que composto por uma
+  cadeira e pequena mesa, utilizado em sala de aula)
+  Finalmente recebi minha carteira da Ordem dos Advogados. (carteira=
+  documento)
+  Preciso diversificar minha carteira de investimentos. (carteira= grupo de ativos de
+  um investidor)
+  O banco de sangue precisa de sua doação. (local onde se conserva material orgânico)
+  Sentado naquele banco, concluiu que poderia doar sangue. (banco= tamborete)
+  De lá, avistava o banco no rio. (banco= ilhota de aluvião no meio de um rio)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                      10
+        www.estrategiaconcursos.com.br                                                                43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+  Tudo isso ocorreu depois que saí do banco e vi que dinheiro não compra saúde.
+  (banco= estabelecimento financeiro)
+  Banco minhas contas, mas de nada adianta o dinheiro sem a solidariedade.
+  (banco= sustento, pago)
+
+4.2.5 HOMÔNIMOS
+
+Os homônimos são palavras que possuem a mesma pronúncia (e em alguns casos, a mesma grafia),
+todavia possuem diferentes significados.
+Observe a tabela a seguir apresentada:
+
+
+      HOMÔNIMOS PERFEITOS                      GRAFIA                    SOM    SIGNIFICADO
+
+                                                IGUAL                   IGUAL    DIFERENTE
+
+     Exemplos:
+     Viva São Miguel! (são= santo)
+     Eles são muito religiosos. (são = verbo ser)
+     A procissão acabou e ele chegou ao destino são e salvo. (são= com saúde)
+
+
+     Ele era uma pedra. (pedra= forte)
+     Não deixe que as pedras no seu caminho o derrote. (pedras= problemas)
+     Estou com uma pedra no rim direito. (pedra= cálculo renal)
+     Pare de atirar pedras nos carros! (pedra= rocha)
+
+
+     Adoro comer manga verde com sal. (manga= fruta)
+     Gosto daquela blusa com uma só manga. (manga= parte da vestimenta que cobre
+     parcialmente o corpo)
+
+
+      PALAVRAS HOMÓFONAS                       GRAFIA                    SOM    SIGNIFICADO
+
+                                             DIFERENTE                  IGUAL    DIFERENTE
+
+     Exemplos:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                  11
+        www.estrategiaconcursos.com.br                                                         43
+                                    
+
+
+---
+
+Carlos Roberto Correa
+Aula 09
+
+   Mandei o carro para o conserto. (conserto= reparo)
+   O concerto é inédito no Brasil. (concerto= espetáculo musical)
+
+
+   Tenho algumas habilidades domésticas: sei cozer, mas na hora de coser
+   peço ajuda à minha mãe. (cozer= cozinhar; coser= costurar)
+   Decidi ser candidato quando trabalhei pela primeira vez em uma seção
+   eleitoral. (seção= repartição)
+
+
+   Depois da cessão de meus bens, restou apenas o meu salário. (cessão= doação)
+   Não perco uma sessão da Câmara, desde que fui eleito. (sessão= reunião)
+
+    PALAVRAS HOMÓGRAFAS                      GRAFIA                    SOM      SIGNIFICADO
+
+                                              IGUAL                DIFERENTE     DIFERENTE
+
+   Exemplos:
+   Gosto de comer brigadeiro de colher. (colher= utensílio de cozinha)
+   Você só irá colher aquilo que plantar. (colher= verbo)
+
+
+   O começo da dieta foi o período mais difícil. (começo= início)
+   Mas quando começo uma coisa, não desisto até atingir meus objetivos.
+   (começo= verbo)
+
+
+                             É comum a confusão entre polissemia e homonímia. A polissemia ocorre
+                             quando a mesma palavra possui diversos significados.
+                             A homonímia ocorre quando há duas ou mais palavras com origens e
+                             significados distintos, porém com a mesma grafia e som.
+                             Como vimos nos exemplos: em "manga" há homonímia. Não se trata de
+                             polissemia, pois os diversos significados da palavra manga têm origens
+                             diferentes; em "carteira" há polissemia. Letra pode significar o elemento
+                             básico do alfabeto, o texto de uma canção ou a caligrafia de um
+                             determinado indivíduo. Neste caso, os diferentes significados estão
+                             interligados porque remetem para o mesmo conceito, o da escrita.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                           12
+      www.estrategiaconcursos.com.br                                                                     43
+                                  
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+4.2.6 PARÔNIMOS
+
+Os parônimos são as palavras que possuem diferentes significados, porém com grafia e som
+parecidos.
+  O prazo foi dilatado depois que a fraude do aluno foi delatada. (dilatado=
+  ampliado; delatado= denunciado)
+  O dirigente foi muito diligente ao receber a encomenda do cliente. (dirigente=
+  quem gere; diligente= eficiente; aplicado)
+  As pessoas que são a favor de descriminar o uso da maconha se sentem
+  discriminadas no Brasil. (descriminar= descriminalizar; discriminadas= segregadas)
+  Depois que o problema no casamento emergiu, ele não mais imergiu no lago
+  aos fins de semana. (emergiu= surgiu; imergiu= mergulhou)
+  O aumento do índice pluvial naquela semana impediu a utilização do
+  transporte fluvial. (pluvial= de chuvas; fluvial= de rio)
+  É notório o aumento do tráfico de drogas no período em que o tráfego aéreo é
+  mais intenso. (tráfico= comércio clandestino; tráfego= trânsito)
+
+
+                               A polissemia e a ambiguidade são muito relevantes para a interpretação
+                               de um texto!
+                               Isso porque determinado período ou trecho de um texto pode ser
+                               ambíguo, possuindo mais de uma interpretação.
+                               Tal ambiguidade pode ser marcada, por exemplo, pela colocação
+                               específica de uma palavra em uma frase.
+                               Ex.: Biscoitos frescos vendem mais. (Os biscoitos vendem mais
+                               porque são frescos ou são frescos porque vendem mais?)
+                               De maneira análoga, quando ocorre a polissemia, o leitor pode ser
+                               induzido a fazer mais do que uma interpretação. Por isso, saber o
+                               contexto no qual a oração foi proferida é fundamental para interpretá-la
+                               corretamente.
+
+4.3 DEMAIS RECURSOS PARA RETEXTUALIZAÇÃO
+
+Vimos, até agora, vários recursos que podem ser utilizados com o intuito de parafrasear um texto.
+Retextualizar é produzir um novo texto partindo de um ou de mais de um textos-base. Dependendo
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          13
+        www.estrategiaconcursos.com.br                                                                  43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+da finalidade da transformação proposta, o nível de linguagem pode ser alterado pela
+retextualização (linguagem informal e formal).
+
+
+TROCA DE TERMO NOMINAL POR VERBAL, E VICE-VERSA
+  É necessário que todos visualizem as mensagens de texto enviadas pelo chefe.
+  (termo verbal)
+  É necessária a visualização das mensagens do chefe. (termo nominal)
+  É proibida a entrada com animais na drogaria. (termo nominal)
+  É proibido entrar com animais na drogaria. (termo verbal)
+
+
+VOZES VERBAIS
+A voz ativa ocorre quando o sujeito é o agente.
+A voz passiva ocorre quando o sujeito é paciente, ou seja, é o receptor da ação do verbo.
+  Eu fiz aquele bolo que você achou delicioso. (voz ativa)
+  Aquele bolo delicioso foi feito por mim. (voz passiva)
+Caso o sujeito seja indeterminado (verbo na 3ª pessoa do plural sem o sujeito expresso na frase),
+haverá duas alterações possíveis.
+  Roubaram uma motocicleta. (voz ativa)
+  Uma motocicleta foi roubada. (voz passiva analítica)
+  Roubou-se uma motocicleta. (voz passiva sintética)
+
+
+TRANSFORMAÇÃO DA VOZ ATIVA PARA A VOZ PASSIVA
+A voz passiva é dividida em voz passiva analítica ou voz passiva sintética.
+Nota-se que apenas os verbos transitivos diretos, que possuem como complemento verbal objetos
+diretos, podem expressar a voz passiva.
+Na voz passiva analítica, temos:
+Verbo auxiliar (geralmente o verbo ser + particípio do verbo principal).
+  O professor rasgou o livro. (voz ativa)
+  O livro foi rasgado pelo professor. (voz passiva)
+  Ele faz aquele bolo gostoso. (voz ativa)
+  Aquele bolo gostoso é feito por ele. (voz passiva)
+  Ela usará todos os recursos para desenvolver a pesquisa. (voz ativa)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                    14
+        www.estrategiaconcursos.com.br                                                              43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+  Todos os recursos serão utilizados por ela para desenvolver a pesquisa (voz
+  passiva)
+
+
+  Nota-se que a variação de tempo é determinada pelo verbo auxiliar (SER), pois o particípio é
+                                         invariável.
+
+
+  Ele não faz as questões mais complexas. (voz ativa)
+  As questões mais complexas não são feitas por ele. (voz passiva)
+
+
+                                            Verbo auxiliar Particípio
+  Ele não fez as questões mais complexas. (voz ativa)
+  As questões mais complexas não foram feitas por ele. (voz passiva)
+
+
+                                           Verbo auxiliar Particípio
+  Ele não fará as questões mais complexas. (voz ativa)
+  As questões mais complexas não serão feitas por ele. (voz passiva)
+
+
+                                             Verbo auxiliar Particípio
+
+Na voz passiva sintética: o verbo aparece na 3ª pessoa, seguido da partícula apassivadora “se”.
+  Estipulou-se um horário para a entrega da prova.
+  Descobre-se a sabedoria de um homem pelos livros que ele lê.
+
+
+ORAÇÃO REDUZIDA E ORAÇÃO DESENVOLVIDA
+As orações subordinadas podem ser reduzidas ou desenvolvidas.
+De fato, não há mudança de sentido quando ocorre a substituição de uma pela outra.
+
+
+  Ao terminar a corrida, todos ganharão uma medalha.
+
+
+  Oração reduzida de infinitivo
+  Quando terminarem a corrida, todos ganharão uma medalha.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                      15
+        www.estrategiaconcursos.com.br                                                            43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+       Oração desenvolvida
+
+
+  Os fiscais viram um atleta chegando sem tênis.
+
+
+                                    Oração reduzida de gerúndio
+  Os fiscais viram um atleta que chegava sem tênis.
+
+
+                                         Oração desenvolvida
+  Terminada a corrida, todos ganharam uma medalha.
+
+
+   Oração reduzida de particípio
+  Assim que terminou a corrida, todos ganharam uma medalha.
+
+
+      Oração desenvolvida
+
+DUPLA REGÊNCIA
+Há verbos que exigem a presença da preposição, enquanto outros não a exigem. Atenção ao fato
+de que a regência pode influenciar no significado de um verbo.
+
+
+  Aspiro ao cargo de enólogo, no qual aspirarei muitos vinhos famosos.
+
+
+    Aspirar      (transitivo indireto: desejar)                Aspirar (transitivo direto: inspirar o ar)
+                  Preposição obrigatória
+  Assistimos ao jogo de futebol.
+  Assistir (transitivo indireto: ver, presenciar)
+                      Preposiçãoobrigatória
+  Este gramado assiste ao time adversário.
+   Assistir (transitivo indireto:   caber, pertencer)
+                                      Preposição obrigatória
+                                                                           O verbo assistir pode ser
+  O médico esportivo assiste os jogadores.
+  Assistir (transitivo direto: atender; dar assistência)          transitivo direto ou indireto
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                16
+        www.estrategiaconcursos.com.br                                                                      43
+                                      
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+  O médico esportivo assiste aos jogadores.
+  Assistir (transitivo indireto: atender;   dar assistência)
+                              Preposição obrigatória
+
+Como vimos no exemplo anterior, há alguns verbos que, de acordo com a mudança de transitividade,
+têm o sentido alterado.
+
+
+OMISSÃO DE TERMOS FACILMENTE SUBENTENDIDOS (ELIPSE).
+A elipse é a omissão de termo subtendido em oração.
+  Eles queriam que o edital fosse publicado logo.
+  Queriam que o edital fosse publicado logo.
+  Elipse do sujeito (eles)
+
+TROCA DE DISCURSO
+Vamos ver agora, por meio de exemplos, a troca de discurso direto para o discurso indireto.
+
+                DISCURSO DIRETO                                         DISCURSO INDIRETO
+  Vou estudar bem o conteúdo desta                      Ele disse que vai estudar bem o conteúdo
+  aula.                                                 desta aula. (sujeito na 3ª pessoa)
+  (sujeito na 1ª pessoa)
+  Não estudei o suficiente na aula                      Ele disse que não tinha estudado o suficiente
+  passada. (pretérito perfeito)                         na aula passada. (pretérito mais que perfeito)
+
+  Sou o candidato mais bem                              Ele disse que era o candidato mais bem
+  preparado para o concurso. (presente)                 preparado para o concurso. (pretérito imperfeito)
+
+  Prepare uma festa para comemorar!                     Pediu que preparassem uma festa para
+  (modo imperativo)                                     comemorar. (modo subjuntivo)
+
+TROCA DE LOCUÇÕES POR PALAVRAS E VICE-VERSA:
+Ela tem um rosto de anjo.
+Ela tem um rosto angelical.
+As crianças da cidade não conhecem os animais da fazenda.
+As crianças urbanas não conhecem os animais rurais.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                17
+        www.estrategiaconcursos.com.br                                                                      43
+                                      
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Importante destacar que, na reescrita de um trecho do texto ou de uma oração, diversos recursos
+podem ser utilizados ao mesmo tempo. Além dos recursos aqui abordados, há outros menos
+recorrentes ou que podem surgir no cotidiano.
+Em questões de prova, LEIA com muita atenção o trecho e suas possíveis paráfrases.
+Caso haja alteração de sentido, a reescritura não pode ser considerada uma paráfrase.
+Por isso, TENHA EM MENTE QUE:
+1) A mudança de posição dos termos ou expressões pode alterar totalmente o sentido de um texto.
+Encontrei certos professores que gostam de videoaulas.
+(certos = pronome indefinido que significa “uns”)
+Encontrei professores certos que gostam de videoaulas.
+
+(certos = adjetivo que significa “decididos”).
+
+Tenha muita atenção com a pontuação na reescrita de orações. A alteração de pontuação pode
+mudar o sentido.
+O aluno inteligente chegou meia hora antes do início da prova.
+
+(inteligente= adjunto adnominal que indica característica restritiva do sujeito “aluno”, ou seja, é um
+adjetivo que expressa característica inerente ao sujeito)
+O aluno, inteligente, chegou meia hora antes do início da prova.
+
+(Aqui as vírgulas demonstram que o adjetivo “inteligente” possui valor transitório. É o chamado
+predicativo do sujeito deslocado e dentro de um predicado verbo-nominal).
+
+4.4 EXPRESSÕES QUE CAUSAM DÚVIDAS
+
+ACERCA DE/ A CERCA DE/ CERCA DE/ HÁ CERCA DE
+Acerca de é locução prepositiva equivalente a sobre, a respeito de:
+    ▪   Já tenho informações acerca da taxa de juros;
+    ▪   A discussão acerca da legalidade da posse do ministro será no âmbito do
+        Supremo Tribunal Federal.
+A cerca de indica distância ou tempo futuro aproximado:
+    ▪   Os manifestantes estão a cerca de dois quilômetros deste quarteirão;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                         18
+        www.estrategiaconcursos.com.br                                                                   43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+    ▪   O ciclista desistiu da prova a cerca de dez quilômetros da linha de chegada;
+    ▪   De hoje a cerca de um mês, estudarei com contumácia para concursos
+        públicos.
+Cerca de corresponde a próximo de, perto de, quase, aproximadamente:
+    ▪   Cerca de cinco mil manifestantes protestaram contra o governo;
+    ▪   A instituição financeira teve cerca de cinquenta fraudes comprovadas no
+        exercício anterior.
+Há cerca de corresponde a faz aproximadamente (tempo decorrido):
+    ▪   Há cerca de três anos, a lei foi promulgada;
+    ▪   Há cerca de seis meses, o Banco Central mantém a taxa de juros alta;
+                                                       ==219a34==
+
+ADVÉRBIOS TERMINADOS EM “MENTE”
+Quando há mais de um advérbio terminado em mente na oração, usa-se o sufixo apenas no último,
+ficando os demais na forma original do adjetivo ou no feminino, quando houver:
+   ▪    O auditor agiu ilegal, fraudulenta e injustamente;
+   ▪    O diretor da instituição respondeu as indagações dos inspetores calma,
+        tranquila e prudentemente.
+Quando se quer dar ênfase às circunstâncias, costuma-se omitir a conjunção e pôr o sufixo em todos
+os advérbios:
+   ▪    O auditor agiu fraudulentamente, injustamente, ilegalmente.
+
+
+A FIM DE / A FIM DE QUE / AFIM
+A locução prepositiva a fim de e a locução conjuntiva a fim de que são usadas para indicar propósito,
+intenção, finalidade:
+   ▪    O agente fiscalizador aplicou a penalidade a fim de suspender as práticas
+        ilícitas na instituição financeira;
+   ▪    Solicitei a documentação a fim de embasar o parecer;
+   ▪    Poupamos durante a vida a fim de que possamos dar maior conforto aos
+        nossos filhos.
+O adjetivo afim é usado para significar parecido, semelhante ou para exprimir relação de parentesco:
+   ▪    Durante a preparação                  para                  concursos públicos, estudamos   diversas
+        disciplinas afins;
+   ▪    A cultura brasileira não tem nada afim com a do povo japonês;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               19
+        www.estrategiaconcursos.com.br                                                                         43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+   ▪   Os parentes afins também foram lembrados em seu discurso de aniversário.
+
+
+AFORA / A FORA
+Afora pode significar “para o lado de fora”, “além de”, “exceto”, “em frente”:
+            ▪   Os deputado fugiu porta afora com a mala de dinheiro (para o lado de
+                fora);
+            ▪   O diretor abordou diversos temas, afora instituições não bancárias
+                (além de);
+            ▪   No dia da posse dos diretores, compareceram todas as chefias, afora
+                (exceto, à exceção de) a presidência;
+            ▪   Continuarei estudando pela vida afora (em frente).
+A fora é expressão somente usada em oposição a dentro:
+            ▪ Os policiais revistaram a empresa de dentro a fora.
+
+
+A MAIOR / A MENOR
+A expressão a maior significa em excesso, a mais, além do devido:
+            ▪   As multas pagas a maior pela instituição financeira serão restituídas;
+            ▪   Apresentaram-se documentos a maior do que fora solicitado pelos
+                auditores.
+A menor significa a menos, em quantidade inferior:
+            ▪   Preparou slides a menor do que lhe fora solicitado para a reunião;
+            ▪   Os impostos foram cobrados a menor pelo fiscal de tributos.
+
+
+À MEDIDA QUE / NA MEDIDA EM QUE
+A locução conjuntiva à medida que, de caráter proporcional, é usada com o sentido de à proporção
+que, conforme (verbo indicativo):
+            ▪   À medida que a taxa de juros subia, a inflação era controlada;
+            ▪   À medida que o Banco Central aumenta a fiscalização, o Sistema
+                Financeiro Nacional torna-se mais estável.
+A locução na medida em que pode ser usada com valor condicional, causal e proporcional:
+
+
+            ▪   Só é possível utilizar a inteligência na medida em que ela exista
+                (condicional);
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                   20
+        www.estrategiaconcursos.com.br                                                             43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+            ▪   Aprender línguas estrangeiras é útil na medida em que possamos
+                praticá-las constantemente (condicional);
+            ▪   Na medida em que não houve tempo para que finalizássemos o trabalho,
+                vamos solicitar a prorrogação do prazo (causal);
+            ▪   Na medida em que há leis, não se pode agir com arbitrariedade (causal);
+            ▪   Na medida em que os alunos estudam, os resultados aparecem
+                gradativamente (proporcional).
+
+
+ANTE / ANTI
+Ante como preposição nunca vem acompanhado da preposição a (jamais ante à, ante ao):
+            ▪   Ficou nervoso ante a chefia;
+            ▪   Não disse toda a verdade ante o juiz.
+Ante como prefixo significa anterioridade, e anti, ação contrária. Ligam-se por hífen somente a
+palavras iniciadas por h ou pelas vogais e e i respectivamente. Se antecederem palavras iniciadas por
+r ou s, essas consoantes são dobradas:
+Ante-histórico, anti-horário, ante-estreia, anti-ibérico, anterrosto, antirroubo, antessocrático,
+antissemita, anteprojeto, antidemocrático.
+
+
+ANTES DE / ANTES QUE
+A locução prepositiva antes de (tempo anterior) precede palavras ou orações reduzidas:
+            ▪   Antes da palestra, os bombeiros vistoriaram o auditório;
+            ▪   Antes de sair, apague as luzes da sala de reunião;
+            ▪   Antes de contratar os novos funcionários, os gerentes fizeram
+                prolongada entrevista;
+            ▪   Antes de assinar o cheque, verificou-se se o cliente era bom pagador.
+A locução conjuntiva antes que (antevisão, prioridade no tempo) é usada para encabeçar orações
+desenvolvidas com o verbo no subjuntivo:
+            ▪   Antes que os presos se confrontem, é melhor separá-los;
+            ▪   Chame a polícia antes que o banco seja assaltado.
+
+
+AO ANO / POR ANO
+Quando em referência a taxas de juros, deve-se usar a expressão ao ano, bem como outras similares
+(ao dia, ao mês):
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        21
+        www.estrategiaconcursos.com.br                                                                  43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+            ▪   Paguei juros de 9% ao ano no financiamento do meu apartamento;
+            ▪   Pagarei juros de 3,5% ao mês no empréstimo bancário.
+Nos demais casos, usam-se por ano, por mês, por dia:
+            ▪   Os analistas do Banco Central faziam inspeções quatro vezes por ano;
+            ▪   Teremos quatro aulas por mês;
+            ▪   A ginástica laboral será, no mínimo, uma vez por dia.
+
+
+AO ENCONTRO DE / DE ENCONTRO A
+Ao encontro de significa em procura de, na direção de ou indica situação favorável:
+            ▪   A mãe foi ao encontro da filha;
+            ▪   Suas ideias de gestão vieram ao encontro das minhas.
+De encontro a significa contra, em oposição a:
+            ▪   O aumento da taxa de juros foi de encontro ao anseio da sociedade;
+            ▪   As propostas do governo vão de encontro ao desejo dos cidadãos.
+
+
+AO INVÉS DE / EM VEZ DE
+Usa-se ao invés de para indicar ideias antônimas (contrárias); significa, pois, ao contrário de:
+            ▪   Ao invés de fazer sol, como disse a previsão do tempo, choveu;
+            ▪   Ao invés de entrar na agência bancária, saiu;
+            ▪   Ao invés de emagrecer, engordou.
+Em vez de significa em lugar de:
+            ▪   Em vez de chamar a atenção do funcionário, o gerente preferiu ajudá-
+                lo;
+            ▪   Em vez de ir à reunião, a supervisora teve de cuidar do filho.
+
+
+Em vez de também pode significar ao contrário de, ao inverso de:
+            ▪   Em vez de ficar feliz, demonstrou tons de tristeza;
+            ▪   Em vez de acelerar, freou.
+Se estiver em dúvida com relação a qual expressão usar, use sempre em vez de.
+
+
+AONDE / ONDE
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       22
+        www.estrategiaconcursos.com.br                                                             43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Usa-se aonde com verbos que expressam movimento. Tem o valor de a que lugar, para que lugar:
+            ▪   Aonde iremos chegar com essa crise econômica?
+            ▪   Os policiais não sabem aonde foram os bandidos.
+Emprega-se onde para indicar lugar fixo. Tem o valor de em que lugar:
+            ▪   Onde encontro os dados bancários?
+            ▪   Sei exatamente onde deixei os documentos.
+
+
+AO NÍVEL DE / EM NÍVEL DE / EM NÍVEL
+A expressão ao nível de deve ser utilizada quando significar à altura de:
+            ▪   Sua declaração o colocou ao nível dos ignorantes;
+            ▪   Salvador localiza-se ao nível do mar.
+As expressões em nível / em nível de significam na instância, na esfera, no âmbito, no grau de e são
+empregadas quando se sabe que há diferentes níveis de uma escala:
+            ▪   Em nível administrativo (na instância), o servidor poderá sofrer
+                punições;
+            ▪   Em nível estadual (no âmbito), não há leis que disciplinem essa matéria;
+            ▪   O futuro da taxa de juros será discutido em nível de (no âmbito)
+                diretoria;
+            ▪ Os novos concursados prestarão serviços em nível de (em grau de)
+                excelência.
+
+
+AO TEMPO QUE
+Trata-se de uma locução conjuntiva temporal que significa na mesma ocasião que, quando:
+            ▪   Agradeço o atencioso convite, ao tempo que lhe envio cumprimentos;
+            ▪   Aguardo o recebimento do ofício, ao tempo que começarei a redigir a
+                resposta.
+
+
+A PAR DE / AO PAR (DE)
+A par de significa ao lado um do outro, ciente:
+            ▪   A par dessa resolução, o regimento interno da instituição bancária
+                também prevê as responsabilidades dos diretores;
+            ▪   O gerente está a par do problema?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       23
+        www.estrategiaconcursos.com.br                                                                 43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Ao par (de) é utilizada para indicar equivalência cambial:
+            ▪   Houve apreciação deixando o real ao par do dólar;
+            ▪   Elevou a moeda deixando o câmbio ao par.
+
+
+A PARTIR DE
+Essa locução significa a começar de e só deve ser usada quando se referir ao início de uma ação
+progressiva:
+            ▪   Ela iniciará as apresentações a partir de janeiro;
+            ▪   O prazo para impetração do recurso começará a partir de segunda-
+                feira;
+            ▪   A lei vigorará a partir de amanhã (certo, pois a lei vigorará a partir
+                de amanhã por um prazo que se estenderá no tempo).
+É inadmissível o uso da expressão em construções como estas:
+            ▪ A lei entrará em vigor a partir de amanhã (errado, pois a lei entra em vigor
+              em um único dia);
+            ▪ O curso terá início a partir da próxima semana (errado, pois o início ocorrerá
+              em um dado momento, e não de forma contínua).
+
+
+A PRINCÍPIO / EM PRINCÍPIO
+A princípio significa na fase inicial, inicialmente:
+            ▪   A princípio, faremos uma análise dos controles internos;
+            ▪   A princípio, é necessário conferir o caixa da instituição.
+Em princípio significa de maneira geral, antes de qualquer consideração, em tese:
+            ▪   Em princípio, não encontramos                         irregularidades        na   instituição
+                financeira em análise;
+            ▪   Em princípio, não               podemos         aplicar        multa   sem   comprovar     a
+                irregularidade.
+
+
+AQUELE DE / AQUELES DE
+Aquele de exige o verbo no singular:
+            ▪   Aquele de nós que saiu primeiro não estava se sentindo bem;
+            ▪   Aquele de vocês que solicitou participação no curso será dispensado do
+                trabalho;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                24
+        www.estrategiaconcursos.com.br                                                                          43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+            ▪   Aquele dentre os escriturários que não atingir a meta fará hora extra.
+Aqueles de exige que o verbo concorde com a palavra que o persegue:
+            ▪   Aqueles de nós que trabalhamos no feriado teremos dias de folga;
+            ▪   Aqueles dentre           os novos empregados que se destacarem serão
+                promovidos.
+Entretanto, há uma tendência moderna de deixar o verbo sempre na terceira
+pessoa do plural:
+            ▪   Aqueles de nós que foram trabalhar serão recompensados;
+            ▪   Aqueles de vós que estudaram passarão no próximo concurso.
+
+
+A TEMPO / HÁ TEMPO
+A tempo significa no momento oportuno, dentro do prazo, em boa hora:
+            ▪   Chegamos ao jogo do Brasil a tempo de ouvir o hino nacional;
+            ▪   Aplicamos o dinheiro a tempo de conseguirmos bons rendimentos.
+Há tempo indica tempo decorrido e pode ser substituído por faz tempo:
+            ▪   Esta agência bancária possui o mesmo gerente há tempo;
+            ▪   O Banco não contrata novos escriturários há tempo.
+
+
+ATRAVÉS DE
+Essa locução deve ser usada para significar de um lado para outro, ao longo de:
+            ▪   Um feixe de luz passou através da fechadura da porta;
+            ▪   A bala perdida passou através da janela;
+            ▪   Através dos anos, ele adquiriu muita experiência no trabalho;
+
+
+Deve-se evitar, pois, seu uso com o sentido de por intermédio de, por meio de, mediante:
+            ▪   Conseguimos as informações através do site (inadequado);
+            ▪   Obtivemos proteção através da equipe de segurança (inadequado).
+
+
+BASTANTE
+Como advérbio, bastante acompanha verbos, advérbios e adjetivos. Nesses casos, é invariável e
+significa muito, satisfatoriamente, de maneira acima da média:
+            ▪   Estudamos bastante para o concurso e fomos aprovados;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                25
+        www.estrategiaconcursos.com.br                                                          43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+             ▪   Na prova discursiva, deve-se escrever bastante bem para conseguir
+                 uma boa pontuação;
+             ▪   Para defender sua opinião, a pessoa ficou bastante irritada.
+Como adjetivo, bastante acompanha substantivo e é variável. Significa suficiente, satisfatório,
+numeroso, abundante:
+             ▪   Separamos informações bastantes para fazermos o trabalho;
+             ▪   Assistimos a aulas bastantes para esclarecer o assunto.
+Como pronome indefinido, também acompanha o substantivo e é variável. Significa muito:
+             ▪   A supervisora dedica bastantes horas ao trabalho;
+             ▪   Ele comeu bastantes docinhos na festa de aniversário.
+
+
+BEM COMO
+A concordância do verbo com o sujeito composto ligado por bem como pode ser feita de duas
+formas:
+            i.   No singular, quando se quer destacar o primeiro elemento:
+             ▪   O presidente, bem como os ministros, emitiu parecer favorável;
+             ▪   O diretor, bem como os funcionários, assistiu ao vídeo educativo.
+        ii.      No plural, retiram-se as vírgulas para atribuir a mesma importância aos dois
+                 elementos:
+             ▪   O presidente bem como os ministros emitiram parecer favorável;
+             ▪ O diretor bem como os funcionários assistiram ao vídeo educativo.
+
+
+TRATA-SE DE
+A dúvida aqui é se a construção admite plural. Não confunda a voz passiva pronominal com o sujeito
+indeterminado pela partícula “se”.
+             ▪   Encaminham-se provas com gabarito. (certo)
+             ▪   As provas com gabarito são encaminhadas. (certo)
+Por sua vez:
+             ▪   Trata-se de provas com gabarito. (certo. Não admite variação)
+             ▪   Tratam-se de provas com gabarito. (errado)
+
+
+A DISTÂNCIA
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                     26
+        www.estrategiaconcursos.com.br                                                               43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Atenção! Você deve utilizar “à distância” quando a distância estiver determinada. Caso não esteja,
+esqueça a crase e utilize “a distância”. Simples assim!
+Exemplos:
+            ▪   Moro à distância de 100 metros da escola. (certo)
+            ▪   Já eu, estudo a distancia. E a distancia, tudo é mais difícil. (certo)
+
+5 – APOSTA ESTRATÉGICA
+No que diz respeito ao assunto interpretação de textos, não temos como definir qual tipo de questão será
+cobrada porque isso dependerá dos textos que serão colocados na prova. Isso quer dizer que um sem-
+número de questões de interpretação pode surgir a partir de determinado texto.
+Mas podemos treinar focando em analisar as informações explícitas e as inferências, conforme vemos na
+página 3.
+Os tipos de texto que geram mais questões objetivas são a narração, levando em consideração também o
+tipo de discurso, e a descrição. Então fiquem atentos aqui.
+Costumam ocorrer também algumas questões voltadas para a reescrita, ou seja, questões em que se pede
+para comparar um determinado trecho retirado do texto com outros dispostos nas alternativas. Então,
+lembre-se dos aspectos que devem ser avaliados na reescrita.
+
+6 - QUESTÕES-CHAVE DE REVISÃO
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+Uma reportagem de um jornal carioca sobre a área da saúde pública no nosso país traz o seguinte texto:
+
+“ Baixa vacinação contra sarampo ameaça Sudeste. Com o número de casos saltando em média 50% em
+um ano no mundo, o sarampo registrou o primeiro surto no Brasil em 2019, no Pará. A maior preocupação
+do Ministério da Saúde é o baixo índice de vacinação contra a doença: 49%. Se não atingir 95%, o sarampo
+pode passar a outras regiões, como a Sudeste”.
+
+Sobre a estruturação e a significação desse texto, a única afirmativa INADEQUADA é:
+a) a classificação de “baixa” para a vacinação aparece justificada no texto;
+b) o destaque dado ao Sudeste se justifica pelo fato de o jornal estar nessa região;
+c) a intenção do texto é a de aumentar a vacinação no país;
+d) a argumentação do texto se apoia na intimidação do público leitor;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             27
+        www.estrategiaconcursos.com.br                                                                     43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+e) o segmento “o primeiro surto no Brasil” se refere ao maior surto de sarampo ocorrido no país.
+
+
+Questão 02
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+A respeito de algumas tragédias que afetam o nosso país, o jornal O Globo, de 16/02/2019, fez uma
+reportagem a que deu o título “Por que o Brasil repete as suas tragédias”.
+
+Pelo título dado a essa reportagem, o leitor pode concluir que o texto deve:
+a) mostrar o desprezo das autoridades pelo ambiente natural;
+b) atribuir as culpas das últimas ocorrências;
+c) indicar as consequências dos desastres naturais;
+d) enumerar as tragédias ocorridas;
+e) responder à pergunta do título.
+
+
+Questão 03
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+Uma revista de Educação mostrava o seguinte segmento:
+
+“Os modelos pedagógicos de nossas escolas ainda são muito mais direcionados ao ensino teórico para
+passar no funil do vestibular, obrigando os alunos a decorar fórmulas matemáticas, afluentes de rios ou a
+morfologia dos insetos para ter depois seus conhecimentos testados e avaliados por notas que não
+diferenciam as vocações ou interesses individuais. É uma avaliação cruel, que prioriza a inteligência da
+decoreba ao invés da inteligência criativa”.
+
+
+Entre as ideias defendidas no texto, a única que NÃO está presente é:
+a) a criatividade deve ser priorizada nos modelos pedagógicos;
+b) as notas dadas às provas não visam aos interesses pessoais;
+c) o ensino teórico é uma decorrência dos exames vestibulares;
+d) os exames vestibulares não avaliam com critérios válidos;
+e) alguns tópicos tradicionais do ensino são inúteis nos exames vestibulares.
+
+
+Questão 04
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            28
+        www.estrategiaconcursos.com.br                                                                      43
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+FGV - Analista de Planejamento,                   Infraestrutura     e    Obras   Públicas   Municipais   (Pref.
+Salvador)/Arquitetura/2019
+
+
+Uma redação apresentou o seguinte fragmento de texto:
+
+
+“Solidariedade não faz bem apenas para quem ajuda, mas também para quem a pratica. E isso, agora, está
+comprovado cientificamente: um estudo realizado nos EUA por um neurocientista brasileiro revela que a boa
+ação ativa uma região cerebral que proporciona uma sensação de prazer e bem-estar comparada aos atos de
+comer chocolate, ganhar dinheiro e fazer sexo.”
+
+
+Sobre esse fragmento textual, assinale a afirmativa incorreta.
+a) O assunto do texto é a solidariedade.
+b) O ponto de vista sob o qual é tratado o assunto se refere a benefícios trazidos pela prática da
+solidariedade.
+c) A tese apresentada é a de que a prática da solidariedade auxilia quem a realiza e quem a recebe.
+d) Um argumento apresentado é de base científica, apoiado em estudo de um neurocientista.
+e) Um argumento é de caráter pessoal, ao expressar bem-estar no ato de comer, ganhar dinheiro e fazer
+sexo.
+
+
+Questão 05
+FGV - Analista de Planejamento, Infraestrutura e Obras Públicas Municipais (Pref.
+Salvador)/Arquitetura/2019
+
+
+Uma editora paulista, sob o título “Da semente ao livro”, publicou o texto a seguir.
+
+
+“Plantar florestas. A madeira que serve de matéria-prima para nosso papel vem de plantio renovável, ou seja,
+não é fruto de desmatamento. Essa prática gera milhares de empregos para agricultores e ajuda a recuperar
+áreas ambientais degradadas.”
+
+
+Esse texto publicitário pretende
+a) mostrar a perfeita organização da empresa.
+b) criar uma imagem positiva da empresa na população.
+c) indicar a razão do sucesso profissional da empresa.
+d) demonstrar que a proteção ambiental é uma exigência legal.
+e) destacar os prejuízos do desmatamento.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                   29
+        www.estrategiaconcursos.com.br                                                                             43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Questão 06
+FGV - Técnico de Enfermagem do Trabalho (Pref. Salvador)/2019
+
+
+O ex-presidente Kennedy disse, certa vez, que “A paz mundial, como a paz em uma comunidade, não
+necessita que cada um ame o seu vizinho – mas que vivam com mútua tolerância, submetendo suas disputas a
+um acordo justo e pacífico”.
+
+
+Sobre a estruturação desse pensamento, assinale a afirmativa inadequada.
+a) “como a paz em uma comunidade” mostra uma comparação entre duas circunstâncias de paz.
+b) “não necessita que cada um ame o seu vizinho” contraria um pensamento bastante corrente.
+c) “mas que vivam com mútua tolerância” indica uma oposição à frase anterior.
+d) “submetendo suas disputas a um acordo justo e pacífico” faz uma alusão a grandes organismos
+internacionais.
+e) “não necessita que cada um ame seu vizinho” refere-se exclusivamente à última paz citada.
+
+
+Questão 07
+FGV - Professor (Pref. Salvador)/História/2019
+
+
+“A banalização das artes e da literatura, o triunfo do jornalismo sensacionalista e a frivolidade da política são
+sintomas de um mal maior que afeta a sociedade contemporânea: a ideia temerária de converter em bem
+supremo nossa natural propensão a nos divertirmos”.
+                                                                  Mário Vargas Llosa, A civilização do espetáculo.
+
+Assinale a opção em que se indica corretamente uma inferência desse pequeno texto de apresentação de
+um livro.
+a) O jornalismo sensacionalista é uma das causas do mal maior citado a seguir.
+b) A propensão à diversão traz bastantes problemas aos seres humanos.
+c) A banalização das artes e a frivolidade da política indicam a presença de um mal maior.
+d) As artes e a literatura têm sido prejudicadas pelo sensacionalismo e pela frivolidade presentes em outras
+áreas.
+e) A sociedade contemporânea é marcada pela procura insistente por diversão.
+
+
+Questão 08
+FGV - Técnico Judiciário (TJ CE)/Judiciária/2019
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                     30
+        www.estrategiaconcursos.com.br                                                                               43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Um célebre crítico disse certa vez sobre um político: “Era um deputado conservador. Seu único programa
+político era conservar sua cadeira na Câmara”.
+
+
+O humor dessa frase está no(a):
+a) crítica ao apego exagerado ao cargo;
+b) pobreza da ação política do deputado;
+c) fato de ser conservador num momento de renovação;
+d) circunstância de seu programa político ter um só item;
+e) sentido inesperado dado ao termo “conservador”.
+
+
+Questão 09
+FGV - Professor (Pref. Salvador)/História/2019
+
+
+“A solução para a questão da violência no Brasil envolve os mais diversos setores da sociedade, não só a
+segurança pública e um judiciário eficiente, mas também demanda com urgência, profundidade e extensão a
+melhoria do sistema educacional, de saúde, habitacional, oportunidades de emprego, dentre outros fatores.”
+
+Considerando-se o texto de uma redação de caráter dissertativo-argumentativo padrão, o fragmento acima
+corresponde à
+a) exposição da tese inicial.
+b) citação de argumentos.
+c) conclusão do texto.
+d) alusão a textos de autoridade.
+e) indicação do tema a ser tratado.
+
+
+Questão 10
+FGV - Analista de Planejamento,                   Infraestrutura     e    Obras   Públicas   Municipais   (Pref
+Salvador)/Arquitetura/2019
+
+
+Analise a charge a seguir.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  31
+        www.estrategiaconcursos.com.br                                                                            43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Assinale a opção que indica uma manchete adequada a seu conteúdo.
+a) Balas perdidas matam crianças nas escolas.
+b) A educação é uma arma contra a violência.
+c) Todos contra a liberação das armas.
+d) Estudantes reagem com violência contra os cortes.
+e) Escolas públicas em perigo.
+
+7 – LISTA DE QUESTÕES COMENTADAS
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+Uma reportagem de um jornal carioca sobre a área da saúde pública no nosso país traz o seguinte texto:
+
+“ Baixa vacinação contra sarampo ameaça Sudeste. Com o número de casos saltando em média 50% em
+um ano no mundo, o sarampo registrou o primeiro surto no Brasil em 2019, no Pará. A maior preocupação
+do Ministério da Saúde é o baixo índice de vacinação contra a doença: 49%. Se não atingir 95%, o sarampo
+pode passar a outras regiões, como a Sudeste”.
+
+Sobre a estruturação e a significação desse texto, a única afirmativa INADEQUADA é:
+a) a classificação de “baixa” para a vacinação aparece justificada no texto;
+b) o destaque dado ao Sudeste se justifica pelo fato de o jornal estar nessa região;
+c) a intenção do texto é a de aumentar a vacinação no país;
+d) a argumentação do texto se apoia na intimidação do público leitor;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             32
+        www.estrategiaconcursos.com.br                                                                     43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+e) o segmento “o primeiro surto no Brasil” se refere ao maior surto de sarampo ocorrido no país.
+Comentário:
+Analisando as alternativas em busca da que está inadequada em relação ao texto, temos:
+A - a classificação de “baixa” para a vacinação aparece justificada no texto;
+Correta – o termo “baixa” se refere ao “baixo índice de vacinação”, como confirmamos no trecho “A maior
+preocupação do Ministério da Saúde é o baixo índice de vacinação contra a doença”.
+B - o destaque dado ao Sudeste se justifica pelo fato de o jornal estar nessa região;
+Correta – no trecho “Uma reportagem de um jornal carioca sobre a área da saúde pública no nosso país traz
+o seguinte texto”, é afirmado que a reportagem é de um jornal carioca. Considerando que o adjetivo pátrio
+“carioca” é dado a pessoas que vivem na região do Rio de Janeiro e que tal estado é localizado na região
+Sudeste, podemos concluir que o destaque ao termo “Sudeste” se dá porque o jornal é dessa região.
+C - a intenção do texto é a de aumentar a vacinação no país;
+Correta – por citar o baixo índice de vacinação e salientar a probabilidade de surto no país, podemos concluir
+que o texto tem como intuito o aumento da vacinação.
+D - a argumentação do texto se apoia na intimidação do público leitor;
+Correta – com a afirmação de que o surto pode chegar ao Sudeste, que é a região de distribuição do jornal,
+a intenção é intimidar o leitor para que readote a vacinação.
+E - o segmento “o primeiro surto no Brasil” se refere ao maior surto de sarampo ocorrido no país.
+INCORRETA – tal conclusão seria hiperinterpretação. O trecho “o sarampo registrou o primeiro surto no
+Brasil em 2019” aponta que neste ano de 2019 é o primeiro surto registrado. Não podemos, portanto,
+concluir que se trata do maior surto ocorrido no país.
+Gabarito: E
+
+
+Questão 02
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+A respeito de algumas tragédias que afetam o nosso país, o jornal O Globo, de 16/02/2019, fez uma
+reportagem a que deu o título “Por que o Brasil repete as suas tragédias”.
+
+Pelo título dado a essa reportagem, o leitor pode concluir que o texto deve:
+a) mostrar o desprezo das autoridades pelo ambiente natural;
+b) atribuir as culpas das últimas ocorrências;
+c) indicar as consequências dos desastres naturais;
+d) enumerar as tragédias ocorridas;
+e) responder à pergunta do título.
+Comentário:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 33
+        www.estrategiaconcursos.com.br                                                                           43
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Interpretando o título, vemos que o “Por que”, dessa forma (separado e sem acento), é o empregado em
+perguntas, sendo assim, e sabendo que se há uma pergunta no título, ela deve ser respondida no texto em
+questão, a opção que afirma o que concluímos é a letra E.
+Gabarito: E
+
+
+Questão 03
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+Uma revista de Educação mostrava o seguinte segmento:
+
+“Os modelos pedagógicos de nossas escolas ainda são muito mais direcionados ao ensino teórico para
+passar no funil do vestibular, obrigando os alunos a decorar fórmulas matemáticas, afluentes de rios ou a
+morfologia dos insetos para ter depois seus conhecimentos testados e avaliados por notas que não
+diferenciam as vocações ou interesses individuais. É uma avaliação cruel, que prioriza a inteligência da
+decoreba ao invés da inteligência criativa”.
+
+
+Entre as ideias defendidas no texto, a única que NÃO está presente é:
+a) a criatividade deve ser priorizada nos modelos pedagógicos;
+b) as notas dadas às provas não visam aos interesses pessoais;
+c) o ensino teórico é uma decorrência dos exames vestibulares;
+d) os exames vestibulares não avaliam com critérios válidos;
+e) alguns tópicos tradicionais do ensino são inúteis nos exames vestibulares.
+Comentário:
+Analisando as alternativas em busca da que não se sustenta no texto, temos:
+A - a criatividade deve ser priorizada nos modelos pedagógicos;
+Correta – o trecho “É uma avaliação cruel, que prioriza a inteligência da decoreba ao invés da inteligência
+criativa”, confirma tal ponto de vista por parte do autor.
+B - as notas dadas às provas não visam aos interesses pessoais;
+Correta – há suporte para tal afirmação no trecho “obrigando os alunos a decorar fórmulas matemáticas (...)
+para ter depois seus conhecimentos testados e avaliados por notas que não diferenciam as vocações ou
+interesses individuais”.
+C - o ensino teórico é uma decorrência dos exames vestibulares;
+Correta – no início do texto, no trecho “Os modelos pedagógicos de nossas escolas ainda são muito mais
+direcionados ao ensino teórico para passar no funil do vestibular”, confirmamos tal afirmação.
+D - os exames vestibulares não avaliam com critérios válidos;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              34
+        www.estrategiaconcursos.com.br                                                                        43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Correta – segundo o texto, para o autor, trata-se de uma “avaliação cruel” a avaliação do vestibular porque
+“prioriza a inteligência da decoreba ao invés da inteligência criativa”.
+E - alguns tópicos tradicionais do ensino são inúteis nos exames vestibulares.
+INCORRETA – tal afirmação extrapola o que foi dito no texto. Não há respaldo para dizer que os tópicos
+tradicionais são inúteis. O que vemos é a afirmação de que tais tópicos não priorizam a inteligência criativa.
+Gabarito: E
+
+
+Questão 04
+FGV - Analista de Planejamento,                   Infraestrutura     e    Obras   Públicas   Municipais   (Pref.
+Salvador)/Arquitetura/2019
+
+
+Uma redação apresentou o seguinte fragmento de texto:
+
+
+“Solidariedade não faz bem apenas para quem ajuda, mas também para quem a pratica. E isso, agora, está
+comprovado cientificamente: um estudo realizado nos EUA por um neurocientista brasileiro revela que a boa
+ação ativa uma região cerebral que proporciona uma sensação de prazer e bem-estar comparada aos atos de
+comer chocolate, ganhar dinheiro e fazer sexo.”
+
+
+Sobre esse fragmento textual, assinale a afirmativa incorreta.
+a) O assunto do texto é a solidariedade.
+b) O ponto de vista sob o qual é tratado o assunto se refere a benefícios trazidos pela prática da
+solidariedade.
+c) A tese apresentada é a de que a prática da solidariedade auxilia quem a realiza e quem a recebe.
+d) Um argumento apresentado é de base científica, apoiado em estudo de um neurocientista.
+e) Um argumento é de caráter pessoal, ao expressar bem-estar no ato de comer, ganhar dinheiro e fazer
+sexo.
+Comentário:
+Dentre as alternativas, aquela que contém uma afirmação incorreta é a letra E, isso porque nela é dito que
+a afirmação de bem-estar nos quesitos citados é de caráter pessoal quando, no contexto, trata-se de uma
+afirmação de cunho científico.
+Nas demais alternativas, temos:
+A – correta - o texto tem a palavra “solidariedade” já no seu início e permanece discorrendo sobre o assunto.
+B – correta – o texto versa sobre os benefícios da solidariedade e, ainda, apresenta informações científicas que
+os comprovam.
+C – correta – o autor se baseia no trecho “Solidariedade não faz bem apenas para quem ajuda, mas também
+para quem a pratica” como tese para desenvolver o texto.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    35
+        www.estrategiaconcursos.com.br                                                                             43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+D – correta – o que podemos confirmar no trecho “um estudo realizado nos EUA por um neurocientista brasileiro
+revela que a boa ação ativa uma região cerebral que proporciona uma sensação de prazer e bem-estar“.
+Gabarito: E
+
+
+Questão 05
+FGV - Analista de Planejamento, Infraestrutura e Obras Públicas Municipais (Pref.
+Salvador)/Arquitetura/2019
+
+
+Uma editora paulista, sob o título “Da semente ao livro”, publicou o texto a seguir.
+
+
+“Plantar florestas. A madeira que serve de matéria-prima para nosso papel vem de plantio renovável, ou seja,
+não é fruto de desmatamento. Essa prática gera milhares de empregos para agricultores e ajuda a recuperar
+áreas ambientais degradadas.”
+
+
+Esse texto publicitário pretende
+a) mostrar a perfeita organização da empresa.
+b) criar uma imagem positiva da empresa na população.
+c) indicar a razão do sucesso profissional da empresa.
+d) demonstrar que a proteção ambiental é uma exigência legal.
+e) destacar os prejuízos do desmatamento.
+Comentário:
+O texto informa que o papel utilizado na editora é de madeira de plantio renovável e que esse plantio gera
+muitos empregos além de contribuir com a preservação do meio ambiente. Como o enunciado diz, trata-se
+de um texto publicitário e, como tal, tem como intuito vender um produto, o qual, no caso, é a imagem
+positiva de uma empresa: a editora paulista que publicou o texto. Então, dentre as alternativas, a que
+confirma o que concluímos é a letra B.
+Gabarito: B
+
+
+Questão 06
+FGV - Técnico de Enfermagem do Trabalho (Pref. Salvador)/2019
+
+
+O ex-presidente Kennedy disse, certa vez, que “A paz mundial, como a paz em uma comunidade, não
+necessita que cada um ame o seu vizinho – mas que vivam com mútua tolerância, submetendo suas disputas a
+um acordo justo e pacífico”.
+
+
+Sobre a estruturação desse pensamento, assinale a afirmativa inadequada.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                36
+        www.estrategiaconcursos.com.br                                                                          43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+a) “como a paz em uma comunidade” mostra uma comparação entre duas circunstâncias de paz.
+b) “não necessita que cada um ame o seu vizinho” contraria um pensamento bastante corrente.
+c) “mas que vivam com mútua tolerância” indica uma oposição à frase anterior.
+d) “submetendo suas disputas a um acordo justo e pacífico” faz uma alusão a grandes organismos
+internacionais.
+e) “não necessita que cada um ame seu vizinho” refere-se exclusivamente à última paz citada.
+Comentário:
+Analisando as alternativas, temos:
+A - “como a paz em uma comunidade” mostra uma comparação entre duas circunstâncias de paz.
+Correta – no trecho “A paz mundial, como a paz em uma comunidade, não necessita que cada um ame o seu
+vizinho”, é feita uma comparação entre paz mundial e paz entre vizinhos.
+B - “não necessita que cada um ame o seu vizinho” contraria um pensamento bastante corrente.
+Correta – pode-se dizer que se trata de um pressuposto para a boa convivência que os vizinhos se amem,
+mas o autor contraria esse pensamento quando afirma que o importante é que “vivam com mútua tolerância,
+submetendo suas disputas a um acordo justo e pacífico”.
+C - “mas que vivam com mútua tolerância” indica uma oposição à frase anterior.
+Correta – a conjunção “mas” é adversativa e, como tal, insere na oração que inicia ideia oposta à que consta
+na oração anterior.
+D - “submetendo suas disputas a um acordo justo e pacífico” faz uma alusão a grandes organismos
+internacionais.
+Correta – além de se referir a vizinhos de casa, o autor faz uma alusão a nações vizinhas, “organismos
+internacionais” que também devem submeter os diferentes pontos de vista a acordos pacíficos e justos.
+E - “não necessita que cada um ame seu vizinho” refere-se exclusivamente à última paz citada.
+INCORRETA – na verdade, no contexto, como vimos, o trecho faz referência não só à paz entre vizinhos,
+pessoas que moram em casas próximos, mas à paz mundial, entre países, pessoas, comunidades etc., em
+que cada um deve tolerar e respeitar o outro.
+Gabarito: E
+
+
+Questão 07
+FGV - Professor (Pref. Salvador)/História/2019
+
+
+“A banalização das artes e da literatura, o triunfo do jornalismo sensacionalista e a frivolidade da política são
+sintomas de um mal maior que afeta a sociedade contemporânea: a ideia temerária de converter em bem
+supremo nossa natural propensão a nos divertirmos”.
+                                                                  Mário Vargas Llosa, A civilização do espetáculo.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                     37
+        www.estrategiaconcursos.com.br                                                                               43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+Assinale a opção em que se indica corretamente uma inferência desse pequeno texto de apresentação de
+um livro.
+a) O jornalismo sensacionalista é uma das causas do mal maior citado a seguir.
+b) A propensão à diversão traz bastantes problemas aos seres humanos.
+c) A banalização das artes e a frivolidade da política indicam a presença de um mal maior.
+d) As artes e a literatura têm sido prejudicadas pelo sensacionalismo e pela frivolidade presentes em outras
+áreas.
+e) A sociedade contemporânea é marcada pela procura insistente por diversão.
+Comentário:
+Uma “inferência” é algo que se pode concluir a partir da leitura de um texto ou de outras situações.
+Busquemos, então, a alternativa que apresenta uma inferência correta sobre o texto.
+A - O jornalismo sensacionalista é uma das causas do mal maior citado a seguir.
+Incorreta – segundo o texto, o “triunfo do jornalismo sensacionalista”, não esse tipo de jornalismo em si, é
+mais um sintoma, ou seja, é uma consequência do mal maior.
+B - A propensão à diversão traz bastantes problemas aos seres humanos.
+Incorreta – essa interpretação extrapola o que é dito no texto, no qual consta que a ideia de fazer com que
+a diversão seja maior que qualquer outro aspecto na vida (bem supremo) é que o mal maior.
+C - A banalização das artes e a frivolidade da política indicam a presença de um mal maior.
+CORRETA – tais quesitos, segundo o texto, são sintomas do mal maior.
+D - As artes e a literatura têm sido prejudicadas pelo sensacionalismo e pela frivolidade presentes em outras
+áreas.
+Incorreta – no trecho “A banalização das artes e da literatura, o triunfo do jornalismo sensacionalista e a
+frivolidade da política são sintomas de um mal maior”, vemos que a afirmação está extrapolando o que é dito,
+pois não há informação de que a arte e a literatura estejam sendo prejudicadas.
+E - A sociedade contemporânea é marcada pela procura insistente por diversão.
+Incorreta – tal afirmação é também uma hiperinterpretação do que foi dito no texto. Não podemos afirmar
+que a sociedade é marcada pela procura por diversão. O texto diz que a ideia de converter tudo em diversão
+é que é um mal que afeta a sociedade.
+Gabarito: C
+
+
+Questão 08
+FGV - Técnico Judiciário (TJ CE)/Judiciária/2019
+
+
+Um célebre crítico disse certa vez sobre um político: “Era um deputado conservador. Seu único programa
+político era conservar sua cadeira na Câmara”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                38
+        www.estrategiaconcursos.com.br                                                                          43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+O humor dessa frase está no(a):
+a) crítica ao apego exagerado ao cargo;
+b) pobreza da ação política do deputado;
+c) fato de ser conservador num momento de renovação;
+d) circunstância de seu programa político ter um só item;
+e) sentido inesperado dado ao termo “conservador”.
+Comentário:
+O texto faz uma ironia empregando diferentes sentidos da palavra “conservador”. No contexto político, ser
+conservador é ser mantenedor do tradicional, é não aceitar bem certas inovações. Porém, no contexto, o
+crítico empregou a palavra em relação ao deputado com o sentido de a sua única preocupação ser querer
+manter seu cargo na carreira política. Vejamos, então, as alternativas:
+A - crítica ao apego exagerado ao cargo;
+Incorreta – é feita uma crítica implícita em relação à aspiração do político de conservar seu cargo, mas não
+consta no texto ideia de exagero.
+B - pobreza da ação política do deputado;
+Incorreta – não há suporte para a ideia de pobreza da ação do deputado.
+C - fato de ser conservador num momento de renovação;
+Incorreta – não e citada nenhuma informação sobre renovação no texto.
+D - circunstância de seu programa político ter um só item;
+Incorreta – é citada tal circunstância, mas o foco do humor está nos sentidos da palavra “conservador”.
+E - sentido inesperado dado ao termo “conservador”.
+CORRETA - o sentido esperado era que o político quisesse manter o tradicionalismo.
+Gabarito: E
+
+
+Questão 09
+FGV - Professor (Pref. Salvador)/História/2019
+
+
+“A solução para a questão da violência no Brasil envolve os mais diversos setores da sociedade, não só a
+segurança pública e um judiciário eficiente, mas também demanda com urgência, profundidade e extensão a
+melhoria do sistema educacional, de saúde, habitacional, oportunidades de emprego, dentre outros fatores.”
+
+Considerando-se o texto de uma redação de caráter dissertativo-argumentativo padrão, o fragmento acima
+corresponde à
+a) exposição da tese inicial.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               39
+        www.estrategiaconcursos.com.br                                                                         43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+b) citação de argumentos.
+c) conclusão do texto.
+d) alusão a textos de autoridade.
+e) indicação do tema a ser tratado.
+Comentário:
+Conforme consta no enunciado, o texto é fragmento de um texto dissertativo-argumentativo. Esse gênero
+textual é estruturado com introdução (com tema e tese a ser defendida), argumentos (que deverão
+convencer o leitor sobre a tese defendida) e conclusão (com a apresentação de uma solução para a
+problemática trazida pelo tema e o desfecho do texto). Observando o fragmento do texto e nos baseando
+no que acabamos de relembrar sobre textos argumentativos, podemos concluir que se trata da conclusão
+do texto, pois o fragmento inicia com a expressão “A solução”. Além disso, são apresentadas sugestões de
+formas de resolver o problema cujo tema gira em torno da violência no Brasil.
+Gabarito: C
+
+
+Questão 10
+FGV - Analista de Planejamento,                   Infraestrutura     e    Obras   Públicas   Municipais   (Pref
+Salvador)/Arquitetura/2019
+
+
+Analise a charge a seguir.
+
+Assinale a opção que indica uma manchete adequada a seu conteúdo.
+a) Balas perdidas matam crianças nas escolas.
+b) A educação é uma arma contra a violência.
+c) Todos contra a liberação das armas.
+d) Estudantes reagem com violência contra os cortes.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  40
+        www.estrategiaconcursos.com.br                                                                            43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+e) Escolas públicas em perigo.
+Comentário:
+As charges costumam trazer imagens aliadas a textos, cujo teor, no geral, é de cunho crítico social. No caso
+em análise não há texto. Mas, ao analisarmos a imagem, vemos vários lápis cercando uma munição de arma
+de fogo que está com os braços levantados como se estivesse demonstrando rendição. Os lápis podem estar
+fazendo alusão a escolas ou a estudantes e a bala pode remeter a armas de fogo ou violência.
+Analisando as alternativas, temos:
+A - Balas perdidas matam crianças nas escolas.
+Incorreta – há a imagem de uma bala de revólver, mas não há nada que leve à ideia de que se trate de bala
+perdida.
+B - A educação é uma arma contra a violência.
+CORRETA – essa é a tradução da imagem. Os lápis rementem à ideia de educação e a bala remete à ideia
+de violência.
+C - Todos contra a liberação das armas.
+Incorreta – não há respaldo para a ideia de liberação das armas na imagem, vemos, pelo contrário, a bala
+sendo cercada.
+D - Estudantes reagem com violência contra os cortes.
+Incorreta – os lápis podem fazer alusão a estudantes, mas não há imagem que remeta aos cortes.
+E - Escolas públicas em perigo.
+Incorreta – o que vemos na imagem é uma bala de arma de fogo cercada por lápis, portanto, se imaginarmos
+os lápis como sendo escolas, quem está ameaçado são as armas de fogo.
+Gabarito: B
+
+8 - REVISÃO ESTRATÉGICA
+
+8.1 PERGUNTAS
+
+1. Sabe-se que um texto é formado por informações implícitas e explícitas. Diante disso, explique as
+expressões "ler nas entrelinhas" e "fazer inferências".
+2. O que são as condições de textualidade? E como isso ocorre?
+3. Conceitue coerência e especifique suas propriedades fundamentais.
+4. Conceitue coesão e cite alguns elementos de coesão.
+5. Diferencie tipo textual e gênero textual.
+6. Quais os tipos textuais mais cobrados em provas na atualidade?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               41
+        www.estrategiaconcursos.com.br                                                                         43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+7. Muitas vezes o texto narrativo é montado com conversas entre os personagens. Essas conversas, a
+depender da forma como são estruturadas no texto, são chamadas de discursos. Quais tipos de
+discurso podemos encontrar em textos?
+8. Cite pelo menos 3 ferramentas que podem ser utilizadas na reescrita de textos.
+9. O que é parafrasear?
+10. Como se dá a substituição de um termo nominal por um verbal. Dê um exemplo.
+
+8.2 PERGUNTAS E RESPOSTAS
+
+
+1. Sabe-se que um texto é formado por informações implícitas e explícitas. Diante disso, explique as
+expressões "ler nas entrelinhas" e "fazer inferências".
+Saber ler nas entrelinhas e fazer inferências, ambas as expressões têm o mesmo significado, é a mesma
+coisa que saber identificar as informações implícitas em um texto. Para que isso seja possível, o leitor precisa
+estabelecer relações dos mais diversos tipos no texto e entender o contexto.
+
+
+2. O que são as condições de textualidade? E como isso ocorre?
+São aquelas que permitem que redator avalie a qualidade do que lê e do que escreve. As condições de
+textualidade são medidas com base na coerência e na coesão textuais.
+
+
+3. Conceitue coerência e especifique suas propriedades fundamentais.
+Também chamada de conectividade textual, a coerência é a interdependência semântica entre os
+elementos constituintes de um texto, ou seja, é a relação que deve existir entre as partes desse texto e que
+resulta em uma unidade de sentido. Para que a coerência se realize, suas propriedades fundamentais são
+continuidade ou repetição, não contradição e progressão
+
+
+4. Conceitue coesão e cite alguns elementos de coesão.
+Pode ser entendida como o modo pelo qual frases ou partes delas se combinam para criar uma relação
+semântica entre os elementos do texto. Alguns elementos de coesão são: conjunções, pronomes relativos,
+preposições e advérbios.
+
+
+5. Diferencie tipo textual e gênero textual.
+Tipo textual é medido pelo conjunto de características de um texto. Já gênero textual é uma espécie, uma
+vertente do tipo textual. Então, tipo textual é mais abrangente que gênero textual, o que significa dizer que
+um mesmo texto pode ser classificado quanto a sua tipologia e quanto a seu gênero, exemplo: dissertação
+(tipo) dissertação-argumentativa (gênero).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                   42
+        www.estrategiaconcursos.com.br                                                                             43
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 09
+
+6. Quais os tipos textuais mais cobrados em provas na atualidade?
+Narração, dissertação, descrição.
+
+
+7. Muitas vezes o texto narrativo é montado com conversas entre os personagens. Essas conversas, a
+depender da forma como são estruturadas no texto, são chamadas de discursos. Quais tipos de
+discurso podemos encontrar em textos?
+Discurso direto, discurso indireto e discurso indireto livre.
+
+
+8. Cite pelo menos 3 ferramentas que podem ser utilizadas na reescrita de textos.
+Para reescrever um determinada texto, preservando o seu conteúdo, é possível lançar mão de alguns
+recursos da língua portuguesa, entre eles estão: a sinonímia, a polissemia, a paráfrase e a substituição de
+termo nominal por um termo verbal (e vice-versa).
+
+
+9. O que é parafrasear?
+Parafrasear é reescrever um texto com outras palavras preservando seu conteúdo.
+
+
+10. Como se dá a substituição de um termo nominal por um verbal. Dê um exemplo.
+Substituir um elemento nominal no texto por um verbal é substituir um substantivo (e o artigo que o
+acompanhe, caso haja) por um verbo equivalente, ou seja, de mesmo valor semântico, como podemos ver
+em 'É importante avaliar os cavalos minuciosamente.', período que pode ser substituído por 'É importante
+que a avaliação dos cavalos seja minuciosa'.
+
+
+Pessoal, chegamos ao final desta aula. Façam uma boa revisão dos conceitos vistos hoje para
+gabaritarem as provas de Língua Portuguesa.
+Na próxima aula, continuaremos avançando gradativamente, de modo a visitar cada tópico cobrado
+pela banca examinadora. Estejam atentos aos percentuais estatísticos de cobrança para
+direcionarem seus estudos, ok?
+Forte abraço!
+
+Prof. Carlos Roberto
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              43
+        www.estrategiaconcursos.com.br                                                                        43
+                                    
+
+
+---
+
+---

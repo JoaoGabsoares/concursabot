@@ -1,0 +1,1345 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 16_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '16'
+titulo_aula: IMPOSTOS DOS MUNICÍPIOS
+artigos_citados:
+- Art. 10.
+- Art. 3º
+- Art. 4º
+- Art. 8-A
+- "art.\n         8º-A"
+- art. 155
+- art. 6º
+- art. 8-A
+sumulas_citadas:
+- Súmula Vinculante 31
+---
+
+# IMPOSTOS DOS MUNICÍPIOS
+
+---
+
+---
+
+Prof Fábio Dutra
+
+       @proffabiodutra               Fábio Dutra      ProfFabioDutraConcurso
+                                                      s
+
+                 
+
+
+---
+
+IMPOSTOS DOS MUNICÍPIOS
+ISS – PARTE 1
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+  ISS
+
+Direito Tributário
+Prof. Fábio Dutra                                         @ProfFabioDutra
+                     
+
+
+---
+
+  ISS
+ ❑ Fato Gerador: prestação de serviços constantes da lista anexa, ainda
+   que esses não se constituam como atividade preponderante do
+   prestador.
+
+
+        Exemplo:
+        1.05 – Licenciamento ou cessão de direito de uso de programas de
+        computação.
+        1.06 – Assessoria e consultoria em informática.
+        1.07 – Suporte técnico em informática, inclusive instalação, conﬁguração e
+        manutenção de programas de computação e bancos de dados.
+        1.08 – Planejamento, confecção, manutenção e atualização de páginas
+        eletrônicas.
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+ ❑ “O Imposto Sobre Serviços de Qualquer Natureza - ISSQN incide
+   sobre a prestação de serviço de transporte que comece e termine no
+   território de um único Município, ainda que, por uma questão de
+   traçado de ruas, o veículo transportador acabe perpassando, em
+   alguns trechos do percurso, pelos lindes de outro Município, o que
+   não retira a natureza estritamente municipal do contrato de transporte
+   celebrado entre o prestador e o tomador do serviço.” (STJ, REsp
+   783.022/MG)
+
+Direito Tributário
+Prof. Fábio Dutra                                                  @ProfFabioDutra
+                           
+
+
+---
+
+  ISS
+ ❑ O imposto incide também sobre o serviço proveniente do exterior do
+   País ou cuja prestação se tenha iniciado no exterior do País.
+
+ ❑ A incidência do imposto não depende da denominação dada ao
+   serviço prestado.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                              @ProfFabioDutra
+                         
+
+
+---
+
+  ISS
+   ❑ O ICMS incidirá sobre o valor total da operação, quando mercadorias
+     forem fornecidas com serviços não compreendidos na competência
+     tributária dos Municípios; (CF/88, art. 155, § 2º, IX, “b”)
+
+   ❑ Ressalvadas as exceções expressas na lista anexa, os serviços nela
+     mencionados não ﬁcam sujeitos ao Imposto Sobre Operações
+     Relativas à Circulação de Mercadorias e Prestações de Serviços de
+     Transporte Interestadual e Intermunicipal e de Comunicação – ICMS,
+     ainda que sua prestação envolva fornecimento de mercadorias. (LC
+     116/03, art. 1º, § 2º)
+Direito Tributário
+Prof. Fábio Dutra                                                 @ProfFabioDutra
+                           
+
+
+---
+
+  ISS
+          ❑ Memorize:
+
+          ❑ Serviço não previsto na LC 116/03:
+
+
+          ❑ Serviço previsto na LC 116/03:
+
+
+          ❑ Serviço previsto na LC 116/03, com ressalva:
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+          ❑ Exemplos de serviços previstos na LC 116/03, com ressalva:
+
+          ❑ 7.05 – Reparação, conservação e reforma de edifícios, estradas,
+            pontes, portos e congêneres (exceto o fornecimento de
+            mercadorias produzidas pelo prestador dos serviços, fora do local
+            da prestação dos serviços, que ﬁca sujeito ao ICMS).
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+          ❑ Exemplos de serviços previstos na LC 116/03, com ressalva:
+
+          ❑ 14.01 – Lubriﬁcação, limpeza, lustração, revisão, carga e recarga,
+            conserto, restauração, blindagem, manutenção e conservação de
+            máquinas, veículos, aparelhos, equipamentos, motores, elevadores
+            ou de qualquer objeto (exceto peças e partes empregadas, que
+            ﬁcam sujeitas ao ICMS).
+
+          ❑ 14.03 – Recondicionamento de motores (exceto peças e partes
+            empregadas, que ﬁcam sujeitas ao ICMS).
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+ ❑ O ISS incide ainda sobre os serviços prestados mediante a utilização
+   de bens e serviços públicos explorados economicamente mediante
+   autorização, permissão ou concessão, com o pagamento de tarifa,
+   preço ou pedágio pelo usuário ﬁnal do serviço.
+
+ ❑ O ISS não incide sobre operações as exportações de serviços para o
+   exterior do País;
+Direito Tributário
+Prof. Fábio Dutra                                                @ProfFabioDutra
+                          
+
+
+---
+
+  ISS
+ ❑ O ISS não incide prestação de serviços em relação de emprego, dos
+   trabalhadores avulsos, dos diretores e membros de conselho
+   consultivo ou de conselho ﬁscal de sociedades e fundações, bem
+   como dos sócios-gerentes e dos gerentes-delegados;
+
+ ❑ O ISS não incide sobre o valor intermediado no mercado de títulos e
+   valores mobiliários, o valor dos depósitos bancários e sobre as
+   operações de crédito.
+Direito Tributário
+Prof. Fábio Dutra                                               @ProfFabioDutra
+                          
+
+
+---
+
+  ISS                                                              Professor Fábio Dutra
+
+❑ Majoração/Redução de Alíquotas 🡪 Aplica-se o princípio da
+  legalidade.
+
+       ❑ Instituição/Majoração:
+       ❑ Aplica-se o princípio da anterioridade anual.
+       ❑ Aplica-se o princípio da anterioridade nonagesimal.
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+ ❑ Base de cálculo: preço do serviço.
+
+ ❑ Contribuinte: prestador do serviço.
+
+Direito Tributário
+Prof. Fábio Dutra                                               @ProfFabioDutra
+                           
+
+
+---
+
+  ISS
+
+       Súmula Vinculante 31 - É inconstitucional a incidência do Imposto
+       sobre Serviços de Qualquer Natureza – ISS sobre operações de
+       locação de bens móveis.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+
+       Súmula STJ 156 – A prestação de serviço de composição gráﬁca,
+       personalizada e sob encomenda, ainda que envolva fornecimento
+       de mercadorias, esta sujeita, apenas, ao ISS.
+
+Direito Tributário
+Prof. Fábio Dutra                                                @ProfFabioDutra
+                            
+
+
+---
+
+  ISS
+
+       Súmula STF 656 - É inconstitucional a lei que estabelece alíquotas
+       progressivas para o imposto de transmissão inter vivos de bens
+       imóveis - ITBI com base no valor venal do imóvel.
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                              
+
+
+---
+
+---
+
+---
+
+IMPOSTOS DOS MUNICÍPIOS
+ISS – PARTE 2
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+---
+
+  ISS
+ ❑ O serviço considera-se prestado, e o imposto, devido, no local do
+   estabelecimento prestador ou, na falta do estabelecimento, no local
+   do domicílio do prestador, com exceções.
+
+Direito Tributário
+Prof. Fábio Dutra                                               @ProfFabioDutra
+                          
+
+
+---
+
+  ISS
+ ❑ Art. 4º Considera-se estabelecimento prestador o local onde o
+   contribuinte desenvolva a atividade de prestar serviços, de modo
+   permanente ou temporário, e que conﬁgure unidade econômica ou
+   proﬁssional, sendo irrelevantes para caracterizá-lo as denominações de
+   sede, ﬁlial, agência, posto de atendimento, sucursal, escritório de
+   representação ou contato ou quaisquer outras que venham a ser
+   utilizadas.
+
+Direito Tributário
+Prof. Fábio Dutra                                                  @ProfFabioDutra
+                           
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ I – do estabelecimento do tomador ou intermediário do serviço ou, na
+            falta de estabelecimento, onde ele estiver domiciliado, na hipótese do
+            § 1o do art. 1o desta Lei Complementar;
+
+
+          ❑ Obs.: serviço proveniente do exterior do País ou cuja prestação se
+            tenha iniciado no exterior do País.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ II – da instalação dos andaimes, palcos, coberturas e outras estruturas,
+            no caso dos serviços descritos no subitem 3.05 da lista anexa;
+
+          ❑ Obs.: 3.05 – Cessão de andaimes, palcos, coberturas e outras
+            estruturas de uso temporário.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                  
+
+
+---
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ III – da execução da obra, no caso dos serviços descritos no subitem
+            7.02 e 7.19 da lista anexa;
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑       7.02 – Execução, por administração, empreitada ou subempreitada, de
+                obras de construção civil, hidráulica ou elétrica e de outras obras
+                semelhantes, inclusive sondagem, perfuração de poços, escavação,
+                drenagem e irrigação, terraplanagem, pavimentação, concretagem e a
+                instalação e montagem de produtos, peças e equipamentos (exceto o
+                fornecimento de mercadorias produzidas pelo prestador de serviços fora
+                do local da prestação dos serviços, que ﬁca sujeito ao ICMS).
+
+        ❑       7.19 – Acompanhamento e ﬁscalização da execução de obras de
+                engenharia, arquitetura e urbanismo.
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                     
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ IV – da demolição, no caso dos serviços descritos no subitem 7.04 da
+            lista anexa;
+
+          ❑ Obs.: 7.04 – Demolição.
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+       ❑ Exceções em que o imposto considera-se devido em local diverso
+         do estabelecimento do prestador. Será devido no local:
+
+          ❑ V – das ediﬁcações em geral, estradas, pontes, portos e congêneres,
+            no caso dos serviços descritos no subitem 7.05 da lista anexa;
+
+           ❑ Obs.: 7.05 – Reparação, conservação e reforma de edifícios,
+                   estradas, pontes, portos e congêneres (exceto o fornecimento de
+                   mercadorias produzidas pelo prestador dos serviços, fora do local
+Direito Tributário
+                   da prestação dos serviços, que ﬁca sujeito ao ICMS).
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ VI – da execução da varrição, coleta, remoção, incineração,
+            tratamento, reciclagem, separação e destinação ﬁnal de lixo, rejeitos e
+            outros resíduos quaisquer, no caso dos serviços descritos no subitem
+            7.09 da lista anexa;
+
+          ❑ Obs.: 7.09 – Varrição, coleta, remoção, incineração, tratamento,
+            reciclagem, separação e destinação ﬁnal de lixo, rejeitos e outros
+            resíduos quaisquer.
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                  
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ VII – da execução da limpeza, manutenção e conservação de vias e
+            logradouros públicos, imóveis, chaminés, piscinas, parques, jardins e
+            congêneres, no caso dos serviços descritos no subitem 7.10 da lista
+            anexa;
+
+          ❑ Obs.: 7.10 – Limpeza, manutenção e conservação de vias e
+            logradouros públicos, imóveis, chaminés, piscinas, parques, jardins
+            e congêneres.
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ VIII – da execução da decoração e jardinagem, do corte e poda de
+            árvores, no caso dos serviços descritos no subitem 7.11 da lista anexa;
+
+          ❑ Obs.: 7.11 – Decoração e jardinagem, inclusive corte e poda de
+            árvores.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                  
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ IX – do controle e tratamento do eﬂuente de qualquer natureza e de
+            agentes físicos, químicos e biológicos, no caso dos serviços descritos
+            no subitem 7.12 da lista anexa;
+
+          ❑ Obs.: 7.12 – Controle e tratamento de eﬂuentes de qualquer
+            natureza e de agentes físicos, químicos e biológicos.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XII - do ﬂorestamento, reﬂorestamento, semeadura, adubação,
+            reparação de solo, plantio, silagem, colheita, corte, descascamento
+            de árvores, silvicultura, exploração ﬂorestal e serviços congêneres
+            indissociáveis da formação, manutenção e colheita de ﬂorestas para
+            quaisquer ﬁns e por quaisquer meios; (Redação dada pela Lei
+            Complementar nº 157, de 2016)
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XIII – da execução dos serviços de escoramento, contenção de
+            encostas e congêneres, no caso dos serviços descritos no subitem
+            7.17 da lista anexa;
+
+          ❑ Obs.: 7.17 – Escoramento, contenção de encostas e serviços
+            congêneres.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                               
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XIV – da limpeza e dragagem, no caso dos serviços descritos no
+            subitem 7.18 da lista anexa;
+
+          ❑ Obs.: 7.18 – Limpeza e dragagem de rios, portos, canais, baías,
+            lagos, lagoas, represas, açudes e congêneres.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                               
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XV – onde o bem estiver guardado ou estacionado, no caso dos
+            serviços descritos no subitem 11.01 da lista anexa;
+
+          ❑ Obs.: 11.01 – Guarda e estacionamento de veículos terrestres
+            automotores, de aeronaves e de embarcações.
+
+Direito Tributário
+Prof. Fábio Dutra                                                  @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XVI - dos bens, dos semoventes ou do domicílio das pessoas vigiados,
+            segurados ou monitorados, no caso dos serviços descritos no subitem
+            11.02 da lista anexa; (Redação dada pela Lei Complementar nº 157,
+            de 2016)
+
+          ❑ Obs.: 11.02 - Vigilância, segurança ou monitoramento de bens,
+            pessoas e semoventes. (Redação dada pela Lei Complementar nº
+            157, de 2016)
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XVII – do armazenamento, depósito, carga, descarga, arrumação e
+            guarda do bem, no caso dos serviços descritos no subitem 11.04 da
+            lista anexa;
+
+          ❑ Obs.: 11.04 – Armazenamento, depósito, carga, descarga,
+            arrumação e guarda de bens de qualquer espécie.
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XVIII – da execução dos serviços de diversão, lazer, entretenimento e
+            congêneres, no caso dos serviços descritos nos subitens do item 12,
+            exceto o 12.13, da lista anexa;
+
+          ❑ Obs.: 12.13 – Produção, mediante ou sem encomenda prévia, de
+            eventos, espetáculos, entrevistas, shows, ballet, danças, desﬁles,
+            bailes, teatros, óperas, concertos, recitais, festivais e congêneres.
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XIX - do Município onde está sendo executado o transporte, no caso
+            dos serviços descritos pelo item 16 da lista anexa; (Redação dada pela
+            Lei Complementar nº 157, de 2016)
+
+          ❑ Obs.: 16 – Serviços de transporte de natureza municipal.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XX – do estabelecimento do tomador da mão-de-obra ou, na falta de
+            estabelecimento, onde ele estiver domiciliado, no caso dos serviços
+            descritos pelo subitem 17.05 da lista anexa;
+
+          ❑ Obs.: 17.05 – Fornecimento de mão-de-obra, mesmo em caráter
+            temporário, inclusive de empregados ou trabalhadores, avulsos ou
+            temporários, contratados pelo prestador de serviço.
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XXI – da feira, exposição, congresso ou congênere a que se referir o
+            planejamento, organização e administração, no caso dos serviços
+            descritos pelo subitem 17.10 da lista anexa;
+
+          ❑ Obs.: 17.10 – Planejamento, organização e administração de
+            feiras, exposições, congressos e congêneres.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XXII – do porto, aeroporto, ferroporto, terminal rodoviário, ferroviário
+            ou metroviário, no caso dos serviços descritos pelo item 20 da lista
+            anexa.
+
+          ❑ Obs.: 20 – Serviços portuários, aeroportuários, ferroportuários, de
+            terminais rodoviários, ferroviários e metroviários.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                  
+
+
+---
+
+  ISS
+        ❑ No caso dos serviços a que se refere o subitem 3.04 da lista anexa,
+          considera-se ocorrido o fato gerador e devido o imposto em cada
+          Município em cujo território haja extensão de ferrovia, rodovia,
+          postes, cabos, dutos e condutos de qualquer natureza, objetos de
+          locação, sublocação, arrendamento, direito de passagem ou
+          permissão de uso, compartilhado ou não.
+
+        ❑ Obs.: 3.04 – Locação, sublocação, arrendamento, direito de
+          passagem ou permissão de uso, compartilhado ou não, de ferrovia,
+          rodovia, postes, cabos, dutos e condutos de qualquer natureza.
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                               
+
+
+---
+
+  ISS
+        ❑ No caso dos serviços a que se refere o subitem 22.01 da lista
+          anexa, considera-se ocorrido o fato gerador e devido o imposto em
+          cada Município em cujo território haja extensão de rodovia
+          explorada.
+
+
+        ❑ Obs.: 22.01 – Serviços de exploração de rodovia mediante
+          cobrança de preço ou pedágio dos usuários, envolvendo execução
+          de serviços de conservação, manutenção, melhoramentos para
+          adequação de capacidade e segurança de trânsito, operação,
+          monitoração, assistência aos usuários e outros serviços deﬁnidos
+          em contratos, atos de concessão ou de permissão ou em
+          normas oﬁciais.
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+        ❑ Considera-se ocorrido o fato gerador do imposto no local do
+          estabelecimento prestador nos serviços executados em águas
+          marítimas, excetuados os serviços descritos no subitem 20.01.
+
+        ❑ Obs.: 20.01 – Serviços portuários, ferroportuários, utilização de
+          porto, movimentação de passageiros, reboque de embarcações,
+          rebocador escoteiro, atracação, desatracação, serviços de
+          praticagem, capatazia, armazenagem de qualquer natureza,
+          serviços acessórios, movimentação de mercadorias, serviços de
+          apoio marítimo, de movimentação ao largo, serviços de armadores,
+          estiva, conferência, logística e congêneres.
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                              
+
+
+---
+
+---
+
+IMPOSTOS DOS MUNICÍPIOS
+ISS – PARTE 3
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+  ISS
+        ❑ Exceções em que o imposto considera-se devido em local diverso
+          do estabelecimento do prestador. Será devido no local:
+
+          ❑ XXIII - do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e
+            5.09; (Incluído pela Lei Complementar nº 157, de 2016)
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+          ❑ 4.22 – Planos de medicina de grupo ou individual e convênios para
+            prestação de assistência médica, hospitalar, odontológica e
+            congêneres. (Vide Lei Complementar nº 175, de 2020)
+
+
+          ❑ 4.23 – Outros planos de saúde que se cumpram através de
+            serviços de terceiros contratados, credenciados, cooperados ou
+            apenas pagos pelo operador do plano mediante indicação do
+            beneﬁciário. (Vide Lei Complementar nº 175, de 2020)
+
+          ❑ 5.09 – Planos de atendimento e assistência médico-veterinária.
+            (Vide Lei Complementar nº 175, de 2020)
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+       ❑ Exceções em que o imposto considera-se devido em local diverso
+         do estabelecimento do prestador. Será devido no local:
+
+          ❑ XXIV - do domicílio do tomador do serviço no caso dos serviços
+            prestados pelas administradoras de cartão de crédito ou débito e
+            demais descritos no subitem 15.01; (Incluído pela Lei Complementar
+            nº 157, de 2016)
+
+           ❑ Obs.: 15.01 – Administração de fundos quaisquer, de consórcio,
+                   de cartão de crédito ou débito e congêneres, de carteira de
+                   clientes, de cheques pré-datados e congêneres.    (Vide Lei
+Direito Tributário
+                   Complementar nº 175, de 2020)
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+       ❑ Exceções em que o imposto considera-se devido em local diverso
+         do estabelecimento do prestador. Será devido no local:
+
+          ❑ XXV - do domicílio do tomador do serviço do subitem 15.09.
+
+           ❑ Obs.: 15.09 – Arrendamento mercantil (leasing) de quaisquer bens,
+                   inclusive cessão de direitos e obrigações, substituição de garantia,
+                   alteração, cancelamento e registro de contrato, e demais serviços
+                   relacionados ao arrendamento mercantil (leasing). (Vide Lei
+Direito Tributário
+                   Complementar nº 175, de 2020)
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+
+
+        Resumindo, a LC 175/2020 estabeleceu que o ISS será devido no Município
+        do tomador dos serviços de “planos de saúde” e “atividades ﬁnanceiras”.
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+        ❑ Serviços de Planos de Saúde:
+
+        ❑ No caso dos serviços de planos de saúde ou de medicina e
+          congêneres, referidos nos subitens 4.22 e 4.23 da lista de serviços
+          anexa a esta Lei Complementar, o tomador do serviço é a pessoa
+          física beneﬁciária vinculada à operadora por meio de convênio ou
+          contrato de plano de saúde individual, familiar, coletivo empresarial
+          ou coletivo por adesão.
+
+        ❑ Nos casos em que houver dependentes vinculados ao titular do
+          plano, será considerado apenas o domicílio do titular para ﬁns do
+          disposto no § 6º deste artigo.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+        ❑ Serviços de Administração de Cartões Crédito/Débito:
+
+
+        ❑ No caso dos serviços de administração de cartão de crédito ou
+          débito e congêneres, referidos no subitem 15.01 da lista de
+          serviços anexa a esta Lei Complementar, prestados diretamente aos
+          portadores de cartões de crédito ou débito e congêneres, o
+          tomador é o primeiro titular do cartão.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+        ❑ Serviços de Administração de Cartões Crédito/Débito:
+        ❑ O local do estabelecimento credenciado é considerado o domicílio
+          do tomador dos demais serviços referidos no subitem 15.01 da lista
+          de serviços anexa a esta Lei Complementar relativos às
+          transferências realizadas por meio de cartão de crédito ou débito,
+          ou a eles conexos, que sejam prestados ao tomador, direta ou
+          indiretamente, por:
+
+        ❑ I - bandeiras;
+
+        ❑ II - credenciadoras; ou
+
+        ❑ III - emissoras de cartões de crédito e débito.
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+        ❑ No caso dos serviços de administração de carteira de valores
+          mobiliários e dos serviços de administração e gestão de fundos e
+          clubes de investimento, referidos no subitem 15.01 da lista de
+          serviços anexa a esta Lei Complementar, o tomador é o cotista.
+
+        ❑ No caso dos serviços de administração de consórcios, o tomador
+          de serviço é o consorciado.
+
+        ❑ No caso dos serviços de arrendamento mercantil, o tomador do
+          serviço é o arrendatário, pessoa física ou a unidade beneﬁciária da
+          pessoa jurídica, domiciliado no País, e, no caso de arrendatário não
+          domiciliado no País, o tomador é o beneﬁciário do serviço no País.
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                               
+
+
+---
+
+  ISS
+ ❑ Agora, imagine a situação de uma grande empresa de plano de saúde, ou de
+   uma instituição ﬁnanceira que trabalhe com arrendamento mercantil: se em tais
+   casos o ISS será devido no Município do tomador, e considerando que o
+   tomador é a pessoa física, cliente, como a empresa poderá cumprir com suas
+   obrigações tributárias em centenas, ou milhares de Municípios distintos ao
+   mesmo tempo?
+
+ ❑ A LC 175/2020 também estabeleceu a padronização das declarações que o
+   contribuinte (prestador do serviço) deverá apresentar, de forma eletrônica,
+   estabelecendo também a data limite para a apresentação não só da
+   declaração, mas também do próprio pagamento do ISS. O objetivo é
+   uniformizar o procedimento para reduzir o tremendo custo operacional para
+   cumprir suas obrigações tributárias.
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                             
+
+
+---
+
+  ISS
+
+                                            Para Esclarecer:
+           No Direito Tributário, temos os seguintes conceitos:
+           - Obrigações Tributárias Principais: são obrigações de pagar.
+           - Obrigações Tributárias Acessórias: são as demais obrigações perante o
+           Fisco, que não possuem como objeto o "pagamento".
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                    
+
+
+---
+
+  ISS
+        ❑ Padrão Nacional de Obrigação Acessória do ISS
+
+        ❑ O ISSQN devido em razão desses serviços será apurado pelo
+          contribuinte e declarado por meio de sistema eletrônico de padrão
+          uniﬁcado em todo o território nacional.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+        ❑ Padrão Nacional de Obrigação Acessória do ISS
+
+        ❑ Como é o próprio contribuinte que irá desenvolver o sistema, este
+          deverá franquear aos Municípios e ao Distrito Federal acesso
+          mensal e gratuito ao sistema eletrônico de padrão uniﬁcado
+          utilizado para cumprimento da obrigação acessória padronizada.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+        ❑ Padrão Nacional de Obrigação Acessória do ISS
+
+        ❑ A LC 175/2020 previu que cabe aos Municípios e ao Distrito
+          Federal fornecer as seguintes informações diretamente no sistema
+          eletrônico do contribuinte, conforme deﬁnições do CGOA:
+
+        ❑ I - alíquotas, conforme o período de vigência, aplicadas aos
+          serviços já citados;
+
+        ❑ II - arquivos da legislação vigente no Município ou no Distrito
+          Federal que versem sobre os serviços já citados;
+
+        ❑ III - dados do domicílio bancário para recebimento do ISSQN.
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                               
+
+
+---
+
+  ISS
+        ❑ Padrão Nacional de Obrigação Acessória do ISS
+
+            ❑ Grave esses prazos:
+
+
+            ❑ Prazo para Declarar Informações 🡪 25º dia do mês seguinte ao de
+              ocorrência dos fatos geradores
+            ❑ Prazo para Pagar o ISS 🡪 15º dia do mês seguinte ao de ocorrência
+              dos fatos geradores
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                    
+
+
+---
+
+  ISS
+        ❑ Padrão Nacional de Obrigação Acessória do ISS
+
+ ❑       O comprovante da transferência bancária emitido segundo as regras do
+         Sistema de Pagamentos Brasileiro (SPB) é documento hábil para comprovar o
+         pagamento do ISSQN.
+
+ ❑       É vedada a atribuição, a terceira pessoa, de responsabilidade pelo crédito
+         tributário relativa a tais serviços, permanecendo a responsabilidade exclusiva
+         do contribuinte.
+
+Direito Tributário
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                   
+
+
+---
+
+  ISS
+        ❑ Padrão Nacional de Obrigação Acessória do ISS
+
+ ❑       Gestão da padronização: Comitê Gestor das Obrigações Acessórias do ISSQN
+         (CGOA)
+
+ ❑       O CGOA será composto de 10 membros, representando as regiões Sul,
+         Sudeste, Centro-Oeste, Nordeste e Norte do Brasil, da seguinte forma:
+
+ ❑       I - 1 representante de Município capital ou do Distrito Federal por região;
+
+ ❑       II - 1 representante de Município não capital por região.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                   
+
+
+---
+
+  ISS
+        ❑ Padrão Nacional de Obrigação Acessória do ISS
+
+ ❑       Gestão da padronização: Comitê Gestor das Obrigações Acessórias do ISSQN
+         (CGOA)
+
+
+ ❑       O CGOA elaborará seu regimento interno mediante resolução;
+
+ ❑       A LC 175/2020 também instituiu o Grupo Técnico do Comitê Gestor das
+         Obrigações Acessórias do ISSQN (GTCGOA), que auxiliará o CGOA e terá a
+         participação de representantes dos contribuintes dos serviços citados.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+---
+
+IMPOSTOS DOS MUNICÍPIOS
+ISS – PARTE 4
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+  ISS
+        ❑ Cabe à lei complementar:
+
+  I - ﬁxar as suas alíquotas máximas e mínimas;
+
+
+  II - excluir da sua incidência exportações de serviços para o exterior.
+
+
+  III – regular a forma e as condições como isenções, incentivos e benefícios
+  ﬁscais serão concedidos e revogados.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                             
+
+
+---
+
+  ISS
+        ❑ LC 116/2003:
+
+        ❑ Alíquota máxima do ISS: 5%
+
+
+        ❑ Alíquota mínima do ISS: 2%
+
+Direito Tributário
+Prof. Fábio Dutra                                                 @ProfFabioDutra
+                             
+
+
+---
+
+  ISS
+ ❑ LC 116/2003: salvo exceções, não pode haver concessão de qualquer
+   benefício ﬁscal que reduza, direta ou indiretamente, em carga
+         tributária menor que a decorrente da aplicação da alíquota mínima
+         de 2%. (art. 8-A, caput)
+
+Direito Tributário
+Prof. Fábio Dutra                                                  @ProfFabioDutra
+                              
+
+
+---
+
+  ISS
+         ❑ Exceções permissão para concessão de incentivos ﬁscais (art. 8-A, §
+           1º):
+
+  ❑       7.02 – Execução, por administração, empreitada ou subempreitada, de obras
+          de construção civil, hidráulica ou elétrica e de outras obras semelhantes (...)
+          (exceto o fornecimento de mercadorias produzidas pelo prestador de serviços
+          fora do local da prestação dos serviços, que ﬁca sujeito ao ICMS).
+
+
+  ❑       7.05 – Reparação, conservação e reforma de edifícios, estradas, pontes, portos
+          e congêneres (exceto o fornecimento de mercadorias produzidas pelo
+          prestador dos serviços, fora do local da prestação dos serviços, que ﬁca sujeito
+          ao ICMS).
+Direito Tributário
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                   
+
+
+---
+
+  ISS
+         ❑ Exceções permissão para concessão de incentivos incentivos ﬁscais
+           (art. 8-A, § 1º):
+
+  ❑       16.01 - Serviços de transporte coletivo municipal rodoviário, metroviário,
+          ferroviário e aquaviário de passageiros.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+ ❑       É nula a lei ou o ato do Município ou do Distrito Federal que não respeite as
+         disposições relativas à alíquota mínima previstas neste artigo no caso de
+         serviço prestado a tomador ou intermediário localizado em Município diverso
+         daquele onde está localizado o prestador do serviço. (Art. 8-A, § 2º)
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                  
+
+
+---
+
+  ISS
+
+                      Prestador          Município Y
+
+                         1
+
+                     Clientes do                2
+                      Prestador                            Prestador
+
+
+                      Município Y                           Município X
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                             
+
+
+---
+
+  ISS
+ ❑       A nulidade gera, para o prestador do serviço, perante o Município ou o Distrito
+         Federal que não respeitar as disposições deste artigo, o direito à restituição do
+         valor efetivamente pago do Imposto sobre Serviços de Qualquer Natureza
+         calculado sob a égide da lei nula. (Art. 8-A, § 3º)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                   
+
+
+---
+
+  ISS
+ ❑       § 4o Na hipótese de descumprimento do disposto no caput ou no § 1º, ambos
+         do art. 8º-A desta Lei Complementar, o imposto será devido no local do
+         estabelecimento do tomador ou intermediário do serviço ou, na falta de
+         estabelecimento, onde ele estiver domiciliado. (Art. 3º, § 4º)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                
+
+
+---
+
+  ISS
+ ❑       É considerado responsável a pessoa jurídica tomadora ou intermediária de
+         serviços, ainda que imune ou isenta, na hipótese de descumprimento do art.
+         8º-A (Art. 6º, § 2º, III)
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+ ❑       Síntese:
+
+ ❑       É o caso do prestador com estabelecimento no Município Y (alíquota regular) que migra
+         seu estabelecimento para o Município X (alíquota irregular, abaixo de 2%) para
+         continuar prestando serviços aos seus clientes no Município Y.
+
+ ❑       Afinal, como vimos, regra geral, o imposto é devido no Município do estabelecimento
+         do prestador do serviço.
+
+ ❑       Neste caso, a lei do Município X (alíquota irregular) será considerada nula, e o prestador
+         do serviço fará jus à restituição do valor efetivamente pago do ISS calculado sob a
+         égide da lei nula.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                         @ProfFabioDutra
+                                      
+
+
+---
+
+  ISS
+ ❑       Síntese:
+
+ ❑ Dessa forma, o prestador do serviço recebe de volta o que pagou com base em lei
+   considerada nula, e o valor do ISS passa a ser devido no local do estabelecimento do
+   tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver
+   domiciliado, isto é, no Município Y.
+
+ ❑ Quem pagará esse imposto? O tomador do serviço, ainda que seja pessoa jurídica imune
+   ou isenta, nos termos do art. 6º, § 2º, III, da LC 116/03.
+
+ ❑ Quem aplicar o benefício irregular ainda estará sujeito às sanções da lei de improbidade
+   administrativa (Lei 8429, atualizada pela Lei 14230/2021).
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                 
+
+
+---
+
+  ISS
+                                              Seção II
+                 Dos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário
+
+ ❑       Art. 10. Constitui ato de improbidade administrativa que causa lesão ao erário
+         qualquer ação ou omissão dolosa, que enseje, efetiva e comprovadamente,
+         perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos
+         bens ou haveres das entidades referidas no art. 1º desta Lei, e notadamente:
+         (Redação dada pela Lei nº 14.230, de 2021)
+          (...)
+ ❑       XXII - conceder, aplicar ou manter benefício ﬁnanceiro ou tributário contrário ao
+         que dispõem o caput e o § 1º do art. 8º-A da Lei Complementar nº 116, de 31
+         de julho de 2003.       (Incluído pela Lei nº 14.230, de 2021)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                       
+
+
+---
+
+---
+
+OBRIGADO
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+---

@@ -1,0 +1,252 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 16_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '16'
+titulo_aula: GESTÃO DE PESSOAS                           DEFINIÇÃO GERAL                                               GESTÃO
+  DE PESSOAS É
+---
+
+# GESTÃO DE PESSOAS                           DEFINIÇÃO GERAL                                               GESTÃO DE PESSOAS É
+
+GESTÃO DE PESSOAS                           DEFINIÇÃO GERAL                                               GESTÃO DE PESSOAS É
+¹ BASEADO ESPECIALMENTE NAS IDEIAS DE CHIAVENATO, IDALBERTO. GESTÃO DE PESSOAS: O NOVO
+
+                                                                                                                                     ❑ UM CONJUNTO DE POLÍTICAS E PRÁTICAS, QUE BUSCA CONCILIAR AS EXPECTATIVAS ENTRE A
+   PAPEL DOS RECURSOS HUMANOS NAS ORGANIZAÇÕES, 4ª EDIÇÃO. BARUERI, MANOLE: 2014. P.11
+
+                                                                                                                                       ORGANIZAÇÃO E AS PESSOAS.
+                                                                                                                                     ❑ ORIENTA O COMPORTAMENTO DOS INDIVÍDUOS, COM O OBJETIVO DE QUE AS PESSOAS COLABOREM DE
+                                                                                                                                       MANEIRA EFICAZ COM A ORGANIZAÇÃO.
+                                                                                                                                     ❑ GERA VANTAGENS COMPETITIVAS, NO INTUITO QUE OS OBJETIVOS ORGANIZACIONAIS E INDIVIDUAIS
+                                                                                                OBJETIVOS DA GP                        SEJAM ALCANÇADOS.
+
+                                                                                                 (CHIAVENATO)¹
+                                                                                         ❑ AUXILIAR A ORGANIZAÇÃO A ALCANÇAR                  ADMINISTRAÇÃO DE RECURSOS HUMANOS (ARH) X GESTÃO DE PESSOAS (GP)
+                                                                                           SEUS OBJETIVOS.
+                                                                                                                                     TECNICAMENTE EXISTE UMA DIFERENÇA ENTRE OS TERMOS “ADMINISTRAÇÃO DE RECURSOS HUMANOS” E
+                                                                                         ❑ AJUDAR A ORGANIZAÇÃO A REALIZAR A         “GESTÃO DE PESSOAS”.
+                                                                                           SUA MISSÃO.
+                                                                                                                                                                              AS CARACTERÍSTICAS DA ARH SÃO
+                                                                                         ❑ PROPORCIONAR MAIOR COMPETITIVIDADE
+                                                                                           À ORGANIZAÇÃO.                            ❑ RELACIONADA A ASPECTOS COMO MANUTENÇÃO DA CULTURA ORGANIZACIONAL, INTROVERSÃO E
+                                                                                                                                       ISOLAMENTO.
+                                                                                         ❑ PROPORCIONAR       COMPETÊNCIAS      À
+                                                                                           ORGANIZAÇÃO.                              ❑ ÊNFASE NA EFICIÊNCIA INTERNA E NA ROTINA BUROCRATIZADA.
+                                                                                         ❑ AUMENTAR A SATISFAÇÃO E A MOTIVAÇÃO       ❑ TEM UMA VISÃO VOLTADA PARA O PASSADO E PRESENTE.
+                                                                                           DOS INDIVÍDUOS NO TRABALHO.
+                                                                                                                                                                              AS CARACTERÍSTICAS DA GP SÃO
+                                                                                                                                     ❑ RELACIONADA A ASPECTOS COMO MUDANÇA CULTURAL, INOVAÇÃO, EXTROVERSÃO E VISÃO
+                                                                                         OBS: MUITAS VEZES A BANCA UTILIZA ESSES 2     ESTRATÉGICA.
+                                                                                         TERMOS (ARH E GP) COMO SINÔNIMOS.
+                                                                                         OUTRAS VEZES, A BANCA COBRA A               ❑ ÊNFASE NA EFICÁCIA ORGANIZACIONAL E NA ADMINISTRAÇÃO PARTICIPATIVA.
+                                                                                         DIFERENCIAÇÃO ENTRE ESSES CONCEITOS.        ❑ TEM UMA VISÃO VOLTADA PARA O FUTURO.
+                                                                                         (ATENÇÃO!!)
+                                                                                                                                                                                                                 ADMINISTRAÇÃO PÚBLICA
+                                                                                                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+É UM CONJUNTO INTEGRADO DE ATIVIDADES DE ESPECIALISTAS E
+GESTORES      NO     SENTIDO      DE    PROPORCIONAR          COMPETÊNCIAS             E
+                                                                                                                  PROCESSOS DE GESTÃO DE PESSOAS
+COMPETITIVIDADE À ORGANIZAÇÃO².                                                                                           (CHIAVENATO)
+
+
+              AGREGAR PESSOAS (PROVISÃO / SUPRIMENTO)                                                                        EXISTEM 6 PROCESSOS BÁSICOS DE GP
+❑ UTILIZADOS PARA INCLUIR NOVAS PESSOAS NA EMPRESA.
+❑ ENVOLVE O RECRUTAMENTO E SELEÇÃO DE PESSOAS.
+
+                                APLICAR PESSOAS                                                                                       MANTER PESSOAS
+❑ INCLUEM DESENHO ORGANIZACIONAL E DESENHO DE CARGOS, ANÁLISE E                                               ❑ UTILIZADOS PARA CRIAR CONDIÇÕES AMBIENTAIS E PSICOLÓGICAS
+  DESCRIÇÃO DE CARGOS, ORIENTAÇÃO DAS PESSOAS E AVALIAÇÃO DO                                                    SATISFATÓRIAS PARA AS ATIVIDADES DAS PESSOAS.
+  DESEMPENHO.
+                                                                                                              ❑ INCLUEM    ADMINISTRAÇÃO DA CULTURA ORGANIZACIONAL,      CLIMA,
+                                                                                                                DISCIPLINA, HIGIENE, SEGURANÇA E QUALIDADE DE VIDA.
+                            RECOMPENSAR PESSOAS
+❑ UTILIZADOS   PARA INCENTIVAR AS PESSOAS                     E   SATISFAZER        SUAS                                      MONITORAR PESSOAS (CONTROLE)
+   NECESSIDADES INDIVIDUAIS MAIS ELEVADAS.
+                                                                                                              ❑ UTILIZADOS   PARA ACOMPANHAR E CONTROLAR AS ATIVIDADES DAS
+❑ INCLUEM RECOMPENSAS, REMUNERAÇÃO E BENEFÍCIOS, E SERVIÇOS SOCIAIS.                                            PESSOAS E VERIFICAR RESULTADOS.
+                                                                                                              ❑ INCLUEM BANCO DE DADOS E SISTEMAS DE INFORMAÇÕES GERENCIAIS.
+                            DESENVOLVER PESSOAS
+❑ UTILIZADOS PARA CAPACITAR E INCREMENTAR O DESENVOLVIMENTO
+  PROFISSIONAL E PESSOAL DAS PESSOAS.
+❑ ENVOLVEM TREINAMENTO E DESENVOLVIMENTO DAS PESSOAS, GESTÃO DO
+  CONHECIMENTO E GESTÃO DE COMPETÊNCIAS.
+
+² CHIAVENATO, IDALBERTO. GESTÃO DE PESSOAS: O NOVO PAPEL DOS RECURSOS HUMANOS NAS ORGANIZAÇÕES, 4ª EDIÇÃO. BARUERI, MANOLE: 2014. PP.13-14                 ADMINISTRAÇÃO PÚBLICA
+                                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+               ³ CHIAVENATO, IDALBERTO. GESTÃO DE PESSOAS: O NOVO PAPEL DOS RECURSOS HUMANOS NAS ORGANIZAÇÕES, 4ª EDIÇÃO. BARUERI, MANOLE: 2014. P.25
+
+                                                                EXERCEM COMANDO DIRETO SOBRE OS EMPREGADOS DA EMPRESA (AUTORIDADE HIERÁRQUICA).
+
+                                                                                                         SÃO CONSIDERADAS AS ATIVIDADES PRINCIPAIS DA EMPRESA.
+
+                                            DESEMPENHAM ATIVIDADES QUE ESTÃO RELACIONADAS COM AS ATIVIDADES-FIM DA EMPRESA (FUNÇÕES DE LINHA).
+
+
+                 ❑ CUIDAR DA SUA EQUIPE DE COLABORADORES.
+                 ❑ TOMAR DECISÕES SOBRE SUBORDINADOS.
+                 ❑ EXECUTA AS AÇÕES DE RH.
+                                                                                         CARACTERÍSTICAS³
+                 ❑ CUMPRE METAS DE RH.
+                 ❑ ALCANÇA RESULTADOS DE RH.
+                 ❑ CUIDAR DA TÁTICA E DAS OPERAÇÕES.
+
+COM O PASSAR DO TEMPO, FOI OCORRENDO A DESCENTRALIZAÇÃO DESSAS ATIVIDADES AO
+GESTOR DE LINHA, ACARRETANDO NOS ESTUDOS SOBRE LINHA X STAFF.
+
+NO PASSADO, A MAIOR PARTE DAS ATIVIDADES DE GESTÃO DE PESSOAS FICAVA CENTRALIZADA                                          RESPONSABILIDADE DE LINHA
+NO DEPARTAMENTO DE RH (DECIDIA SOBRE QUEM CONTRATAR, PROMOVER, ETC).
+                                                                                                                               (GESTOR DE LINHA)
+
+    RESPONSABILIDADE DE LINHA X FUNÇÃO DE STAFF
+                                                                                                                                                        ADMINISTRAÇÃO PÚBLICA
+                                                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+            ³ CHIAVENATO, IDALBERTO. GESTÃO DE PESSOAS: O NOVO PAPEL DOS RECURSOS HUMANOS NAS ORGANIZAÇÕES, 4ª EDIÇÃO. BARUERI, MANOLE: 2014. P.25
+
+NÃO EXERCEM AUTORIDADE HIERÁRQUICA SOBRE OS FUNCIONÁRIOS DA EMPRESA (ÓRGÃOS MERAMENTE CONSULTIVOS).
+
+                        DESEMPENHAM ATIVIDADES QUE ESTÃO RELACIONADAS ÀS MEIO DA EMPRESA (FUNÇÕES DE STAFF).
+
+                                                          TRATAM-SE DAS ATIVIDADES DE ASSESSORIA (OU DE SUPORTE) DA EMPRESA.
+
+          ❑CUIDAR DAS POLÍTICAS DE RH.
+          ❑PRESTAR ASSESSORIA E SUPORTE.
+          ❑DAR CONSULTORIA INTERNA DE RH.                                                                                        FUNÇÃO DE STAFF
+                                                                               CARACTERÍSTICAS³
+          ❑PROPORCIONAR SERVIÇOS DE RH.                                                                                           (ÓRGÃO DE RH)
+          ❑DAR ORIENTAÇÃO DE RH.
+          ❑CUIDAR DA ESTRATÉGIA DE RH.
+
+   RESPONSABILIDADE DE LINHA X FUNÇÃO DE STAFF
+                                                                                                                                                     ADMINISTRAÇÃO PÚBLICA
+                                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+                            PLANEJAMENTO E ESTRATÉGIAS DE GESTÃO DE PESSOAS
+
+NÍVEIS DE ATUAÇÃO DA GESTÃO DE PESSOAS (SOBRAL E PECI)4
+                                          ❑ RELACIONADO À DEFINIÇÃO DE POLÍTICAS E ESTRATÉGIAS DE RECURSOS HUMANOS.
+                                          ❑ BUSCA GERAR VANTAGENS COMPETITIVAS PARA A ORGANIZAÇÃO.
+     NÍVEL ESTRATÉGICO                    ❑ GARANTIR O COMPROMETIMENTO E A SATISFAÇÃO DOS FUNCIONÁRIOS.
+                                          ❑ MELHORAR CONDIÇÕES DE TRABALHO, DE MOTIVAÇÃO E DE LIDERANÇA.
+                                          ❑ RESPONSABILIDADE DOS GESTORES DE CÚPULA (ADMINISTRADORES DO TOPO).
+
+                                          ❑ RELACIONADO AO CONJUNTO DE ATIVIDADES TÉCNICAS (RECRUTAMENTO E SELEÇÃO, TREINAMENTO E DESENVOLVIMENTO).
+         NÍVEL TÁTICO                     ❑ ATIVIDADES FUNDAMENTAIS PARA GARANTIR O SUCESSO DAS POLÍTICAS DE RH.
+                                          ❑ RESPONSABILIDADE DOS GERENTES DE NÍVEL TÁTICO.
+
+                                          ❑ RELACIONADA À ROTINA DO DIA A DIA DA ORGANIZAÇÃO (ARQUIVOS DE PESSOAL, GESTÃO DE CONTRATOS, PROCESSAMENTO DE
+    NÍVEL OPERACIONAL                       SALÁRIOS).
+                                          ❑ RESPONSABILIDADE DOS SUPERVISORES
+
+
+ESTRATÉGIA CONSERVADORA (DEFENSIVA) X ESTRATÉGIA PROSPECTIVA (OFENSIVA)
+  A ESTRATÉGIA DE RECURSOS HUMANOS DEVE ESTAR ALINHADA AOS OBJETIVOS E ESTRATÉGIAS ORGANIZACIONAIS.
+
+                                                               ❑ ESTRATÉGIA CONSERVADORA E DEFENSIVA.
+  EXISTEM 2 TIPOS DE ESTRATÉGIA ORGANIZACIONAL:
+                                                               ❑ ESTRATÉGIA PROSPECTIVA E OFENSIVA.
+
+  CHIAVENATO REÚNE AS PRINCIPAIS CARACTERÍSTICAS E COMPORTAMENTOS DESSAS 2 ESTRATÉGIAS:
+
+  4 SOBRAL, FILIPE, PECI, ALKETA. ADMINISTRAÇÃO: TEORIA E PRÁTICA NO CONTEXTO BRASILEIRO / SÃO PAULO: PEARSON PRENTICE HALL, 2008. P.331   ADMINISTRAÇÃO PÚBLICA
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+PLANEJAMENTO E ESTRATÉGIAS DE GESTÃO DE PESSOAS
+
+                                                                                                                       ESTRATÉGIA CONSERVADORA (DEFENSIVA)
+                                                                                                                                       X
+                                                                                                                        ESTRATÉGIA PROSPECTIVA (OFENSIVA)
+                                                                                                                            CHIAVENATO REÚNE AS PRINCIPAIS CARACTERÍSTICAS E
+                                                                                                                            COMPORTAMENTOS DESSAS 2 ESTRATÉGIAS:
+
+                                      DOS RECURSOS HUMANOS NAS ORGANIZAÇÕES, 4ª EDIÇÃO. BARUERI, MANOLE: 2014. P. 70
+                                       FONTE: ADAPTADO DE CHIAVENATO, IDALBERTO. GESTÃO DE PESSOAS: O NOVO PAPEL
+                                                                                                                                                      ADMINISTRAÇÃO PÚBLICA
+                                                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+            TEORIA DO EQUILÍBRIO ORGANIZACIONAL (RECIPROCIDADE ORGANIZACIONAL)
+ESTA TEORIA AFIRMA QUE A ORGANIZAÇÃO É UM SISTEMA QUE RECEBE                                                                    INCENTIVOS OU ALICIENTES
+CONTRIBUIÇÕES DE DIVERSOS PARTICIPANTES E, EM CONTRAPARTIDA,
+                                                                                                          SÃO PAGAMENTOS QUE A ORGANIZAÇÃO FAZ AOS SEUS PARTICIPANTES.
+OFERECE INCENTIVOS AOS MESMOS.
+                                                                                                                                UTILIDADE DOS INCENTIVOS
+ASSIM,   O SUCESSO ORGANIZACIONAL DEPENDE DE UMA ADEQUADA
+                                                                                                         A UTILIDADE DE CADA INCENTIVO É SUBJETIVA PARA CADA INDIVÍDUO E
+RELAÇÃO DE TROCA (RELAÇÃO DE RECIPROCIDADE) ENTRE A ORGANIZAÇÃO
+                                                                                                         DEPENDE DE SUAS NECESSIDADES PESSOAIS.
+E SEUS PARTICIPANTES.
+                                                                                                                                        CONTRIBUIÇÕES
+ALGUNS CONCEITOS RELACIONADOS AO EQUILÍBRIO ORGANIZACIONAL SÃO                                           SÃO OS “PAGAMENTOS” QUE CADA PARTICIPANTE EFETUA PARA A
+                                                                                                         ORGANIZAÇÃO (TRABALHO, DEDICAÇÃO, ESFORÇO, DESEMPENHO, ETC.).
+A RELAÇÃO DE TROCA ENTRE OS PARTICIPANTES OCORRE DA SEGUINTE
+FORMA.                                                                                                                       UTILIDADE DAS CONTRIBUIÇÕES
+                                                                                                         TRATA-SE DO QUANTO AS CONTRIBUIÇÕES DE CADA PARTICIPANTE
+                                                                                                         CONTRIBUEM PARA QUE A ORGANIZAÇÃO ALCANCE SEUS OBJETIVOS.
+
+                                                                                                                                                           ADMINISTRAÇÃO PÚBLICA
+             FONTE: CHIAVENATO, IDALBERTO. INTRODUÇÃO À TEORIA GERAL DA ADMINISTRAÇÃO      , 9ª EDIÇÃO. BARUERI, MANOLE: 2014. P.349.
+                                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                      GESTÃO DE PESSOAS NO SETOR PÚBLICO
+
+
+                                          A LEGISLAÇÃO QUE REGULA AS RELAÇÕES DE TRABALHO NO SETOR PÚBLICO TEM UM
+                                       CARÁTER PROTECIONISTA (PROTEGE O SERVIDOR) E INIBIDOR DO ESPÍRITO EMPREENDEDOR.
+
+
+                                                  ALGUMAS DIFICULDADES NAS POLÍTICAS DE RH DO SETOR PÚBLICO SÃO5:
+                                     ❑ LIMITAÇÕES E RIGIDEZ IMPOSTAS PELA LEGISLAÇÃO.
+                                     ❑ APLICAÇÃO INDISCRIMINADA DA ESTABILIDADE PARA O CONJUNTO DOS SERVIDORES PÚBLICOS CIVIS.
+                                     ❑ INSTITUCIONALIZAÇÃO DO REGIME JURÍDICO ÚNICO, UNIFORMIZANDO O TRATAMENTO DE TODOS OS
+                                       SERVIDORES DA ADMINISTRAÇÃO DIRETA E INDIRETA.
+                                     ❑ CONCURSOS PÚBLICOS REALIZADOS SEM QUALQUER REGULARIDADE E SEM AVALIAÇÃO PERIÓDICA DA
+                                       NECESSIDADE DE QUADROS.
+                                     ❑ FALTA DE UM SISTEMA DE INCENTIVOS PARA O PROFISSIONAL.
+
+
+                                         ALGUMAS TENDÊNCIAS DA GESTÃO DE PESSOAS NO SETOR PÚBLICO SÃO AS SEGUINTES:
+                                     ❑ FORTALECIMENTO DA AVALIAÇÃO DE DESEMPENHO.
+                                     ❑ CRIAÇÃO DE INCENTIVOS PARA AUMENTAR O DESEMPENHO DOS SERVIDORES (AVALIAÇÕES DE
+                                       DESEMPENHO ASSOCIADAS A GRATIFICAÇÕES).
+                                     ❑ PARTICIPAÇÃO DOS SERVIDORES NOS PROCESSOS DECISÓRIOS ORGANIZACIONAIS.
+                                     ❑ ESTABELECIMENTO DE ATRIBUIÇÕES AMPLAS PARA OS CARGOS E CARREIRAS.
+                                     ❑ FLEXIBILIDADE ÀS CARREIRAS, POSSIBILITANDO QUE O SERVIDOR POSSA ATUAR EM DIFERENTES ÓRGÃOS.
+
+5 PARTE BASEADO EM BRESSER PEREIRA, LUIZ CARLOS. PLANO DIRETOR DA REFORMA DO ESTADO. BRASÍLIA, PRESIDÊNCIA DA REPÚBLICA: 1995.
+                                                                                                                                     ADMINISTRAÇÃO PÚBLICA
+                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---

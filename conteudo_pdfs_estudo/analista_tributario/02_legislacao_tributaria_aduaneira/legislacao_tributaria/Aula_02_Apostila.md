@@ -1,0 +1,1341 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 02_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Legislação Tributária
+artigos_citados:
+- Art. 24
+- Art. 44.
+- art. 11
+- art. 18.
+- art. 24
+- art. 3º
+- art. 44
+- art. 4º
+---
+
+# Legislação Tributária
+
+Aula 01
+                          Receita Federal (Analista Tributário)
+                                        Legislação Tributária
+
+                                                        Autor:
+                                                  Fábio Dutra
+
+                                          20 de Outubro de 2024
+
+---
+
+      Fábio Dutra
+      Aula 01
+
+                                                                                     Índice
+1) Contribuintes do IPI
+
+
+2) Questões Comentadas - IPI - Parte II
+
+
+3) Lista de Questões - IPI Parte II
+
+                Receita Federal (Analista Tributário) Legislação Tributária                                                                                                               2
+                www.estrategiaconcursos.com.br                                                                                                                                           29
+
+                                                             
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+                                        CONTRIBUINTES
+O contribuinte é também denominado sujeito passivo direto, ou seja, a pessoa que tem relação pessoa e
+direta com a situação que constitua o respectivo fato gerador da obrigação tributária.
+
+No caso do IPI, o RIPI previu como contribuintes as seguintes pessoas:
+
+       Art. 24. São obrigados ao pagamento do imposto como contribuinte:
+
+       I - o importador, em relação ao fato gerador decorrente do desembaraço aduaneiro de produto de
+       procedência estrangeira;
+
+       II - o industrial, em relação ao fato gerador decorrente da saída de produto que industrializar em
+       seu estabelecimento, bem como quanto aos demais fatos geradores decorrentes de atos que
+       praticar;
+
+       III - o estabelecimento equiparado a industrial, quanto ao fato gerador relativo aos produtos que
+       dele saírem, bem como quanto aos demais fatos geradores decorrentes de atos que praticar; e
+
+       IV - os que consumirem ou utilizarem em outra finalidade, ou remeterem a pessoas que não sejam
+       empresas jornalísticas ou editoras, o papel destinado à impressão de livros, jornais e periódicos,
+       quando alcançado pela imunidade prevista no inciso I do art. 18.
+
+Imagino que muitas dúvidas tenham surgido neste momento. Estou certo? Vamos estudar cada contribuinte
+separadamente!
+
+Entretanto, não podemos nos aprofundar sem, antes, conhecer o princípio da autonomia dos
+estabelecimentos:
+
+       Art. 24 - (...):
+
+       Parágrafo único. Considera-se contribuinte autônomo qualquer estabelecimento de importador,
+       industrial ou comerciante, em relação a cada fato gerador que decorra de ato que praticar.
+
+         Isso significa que os diversos estabelecimentos de uma mesma pessoa jurídica são autônomos,
+possuindo domicílio fiscal próprio, e devendo cumprir obrigações acessórias – como escrituração de livros
+fiscais, por exemplo – independentemente dos demais.
+
+        Nessa esteira, quando uma fábrica remete seus produtos para beneficiamento em outro
+estabelecimento, ainda que pertencente à mesma pessoa jurídica, ocorre o fato gerador do IPI, tendo em
+vista o princípio da autonomia dos estabelecimentos.
+
+        Observação: No caso citado, embora ocorra o fato gerador, na prática não há pagamento
+        de imposto, pois o contribuinte pode se valer do instituto da suspensão, a ser estudado em
+        momento específico.
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    3
+        www.estrategiaconcursos.com.br                                                                29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Importador
+
+O importador é tanto a pessoa física como a pessoa jurídica que promove a entrada de mercadorias
+estrangeiras no território nacional. É quem registra a Declaração de Importação (DI), promovendo o
+desembaraço aduaneiro, sendo este o fato gerador do IPI, como se verá em momento apropriado.
+
+Não há necessidade de haver operação de industrialização neste caso, bastando que os produtos
+importados sejam industrializados.
+
+A respeito da incidência do IPI na importação, havia muita discussão judicial a respeito da importação de
+veículos por pessoa física, quando destinado a seu uso próprio. Sobre esta situação, o STJ já chegou a se
+posicionar no sentido de que não haveria incidência do imposto, haja vista que o fato gerador do IPI constitui
+operação de natureza mercantil ou assemelhada, o que não ocorreria neste caso.
+
+Contudo, em fevereiro de 2016 o STF encerrou o julgamento do RE 723.651/RS, decidindo que é legítima a
+incidência do IPI na importação de automóveis por pessoas físicas para uso próprio. A decisão foi tomada
+com repercussão geral e é muito relevante para fins de concurso público, já que, como vimos, o STJ e até
+mesmo o próprio STF, já decidiu em sentido contrário.
+
+O raciocínio da decisão leva em consideração que a cobrança do IPI na importação dos veículos não afronta
+o princípio da não cumulatividade nem implica bitributação. A manutenção de sua incidência, por outro lado,
+preserva o princípio da isonomia, uma vez que promove igualdade de condições tributárias entre o fabricante
+nacional, já sujeito ao imposto em território nacional, e o fornecedor estrangeiro.
+
+Na ocasião, o STF teve a oportunidade de julgar a modulação dos efeitos dessa decisão para apenas alcançar
+casos futuros. Contudo, a modulação foi rejeitada e isso significa que a decisão tomada pelos Ministros da
+Suprema Corte alcançará as operações de importação de veículos pelas pessoas físicas realizadas antes da
+decisão do STF.
+
+Um detalhe bastante interessante é o fato de o importador praticar dois fatos geradores. O primeiro ocorre
+com o desembaraço aduaneiro, ao promover a entrada dos produtos industrializados estrangeiros no
+território nacional. O segundo fato gerador ocorre quando esses produtos saírem do estabelecimento do
+importador, que, neste caso, será um estabelecimento equiparado a industrial.
+
+        Observação: Guarde a sua dúvida para as próximas páginas, pois tudo isso será explicado
+        de forma mais detalhada, quando estudarmos os estabelecimentos equiparados a
+        industriais. Ok? Por ora, apenas tenha em mente que o importador pratica dois fatos
+        geradores.
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                        4
+        www.estrategiaconcursos.com.br                                                                     29
+
+                                     
+
+
+---
+
+    Fábio Dutra
+    Aula 01
+
+Pessoas que descumprem a condição de utilização do papel
+imune
+
+Nós aprendemos na aula anterior que a imunidade dos livros, por exemplo, é absoluta, ou seja, sendo livro,
+há imunidade do IPI. No entanto, no que se refere ao papel, este só estará imune se for utilizado na impressão
+dos livros, jornais ou periódicos. Há, portanto, uma condição.
+
+Nessa linha, se o papel é utilizado na impressão dos livros, jornais ou periódicos, não há qualquer incidência
+de IPI sobre ele. Contudo, se houver descumprimento da referida condição, incide o IPI. Havendo incidência,
+deve existir um sujeito passivo, na condição de contribuinte, para arcar com o tributo. São eles:
+
+•    A empresa que tinha por finalidade a impressão de livro, jornal ou periódico, mas que acabou utilizando
+     o papel para outros fins;
+•    A empresa fabricante, importadora ou distribuidora do papel imune quando o remete a outra empresa
+     que não seja jornalística ou editora.
+
+Observe que, se a empresa fabricante, importadora ou distribuidora do papel o encaminha para uma
+empresa jornalística, por exemplo, com a finalidade de que seja utilizado para impressão de livro, jornal ou
+periódico, ela cumpriu o seu papel. Portanto, se posteriormente o papel tiver outra finalidade, quem se
+torna contribuinte é o adquirente.
+
+Diferentemente, caso a fabricante, importadora ou distribuidora remeta o papel imune para uma empresa
+que não seja jornalística ou editora, é aquela (quem fez a remessa) que se torna contribuinte do IPI.
+
+
+Estabelecimentos Industriais
+
+      O que vem a ser um estabelecimento industrial, colega concurseiro? Ora, estabelecimento industrial
+é quem executa alguma operação de industrialização.
+
+         Nesse sentido, o art. 8º do RIPI dispõe o seguinte:
+
+         Art. 8º - Estabelecimento industrial é o que executa qualquer das operações referidas no art. 4º
+         (operações de industrialização), de que resulte produto tributado, ainda que de alíquota zero ou
+         isento.
+
+Lembre-se de que estão dentro do campo de incidência do IPI os produtos tributados, ainda que de alíquota
+zero ou isentos.
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                      5
+          www.estrategiaconcursos.com.br                                                                   29
+
+                                       
+
+
+---
+
+    Fábio Dutra
+    Aula 01
+
+Portanto, fazendo uma associação aos conceitos vistos na aula passada, podemos dizer que é
+estabelecimento industrial aquele que executa operação que modifique a natureza, o funcionamento, o
+acabamento, a apresentação ou a finalidade do produto, ou o aperfeiçoe para consumo, tal como a
+transformação, o beneficiamento, a montagem, o acondicionamento ou reacondicionamento e a renovação
+ou recondicionamento (RIPI, art. 4º).
+
+Ademais, podemos dizer que também é considerado estabelecimento industrial o que execute operações
+de industrialização, ainda que estas sejam incompletas, parciais ou intermediárias (RIPI, art. 3º).
+
+Para fins de prova, é importante que nos cerquemos de todos os conceitos e definições estabelecidos pelo
+RIPI, dado que, em provas de legislação tributária, a tendência é a cobrança da sua literalidade. Nesse rumo,
+o RIPI estabeleceu que as expressões “fábrica” e “fabricante” são equivalentes a estabelecimento
+industrial. Mas o que vem a ser “estabelecimento”?
+
+A expressão “estabelecimento”, em sua delimitação, diz respeito ao prédio em que são exercidas atividades
+geradoras de obrigações, nele compreendidos, unicamente, as dependências internas, galpões e áreas
+contínuas muradas, cercadas ou por outra forma isoladas, em que sejam, normalmente, executadas
+operações industriais, comerciais ou de outra natureza.
+
+
+Conceitos essenciais para o estudo dos estabelecimentos
+equiparados a industrial
+
+Antes de iniciarmos o estudo dos estabelecimentos equiparados a industrial, um dos temas mais importantes
+e detalhados da aula de hoje, vamos nos preparar para isso, ou seja, aprender alguns conceitos básicos.
+
+Faz-se necessário conhecer as definições dadas pelo RIPI dos estabelecimentos atacadistas e varejistas:
+
+São atacadistas os estabelecimentos que efetuarem vendas:
+
+•    De bens de produção, exceto a particulares em quantidade que não exceda a normalmente destinada ao
+     seu próprio uso;
+•    De bens de consumo, em quantidade superior àquela normalmente destinada a uso próprio do
+     adquirente; e
+•    A revendedores;
+
+São varejistas os estabelecimentos que efetuarem vendas:
+
+•    Diretas a consumidor, ainda que realize vendas por atacado esporadicamente, considerando-se
+     esporádicas as vendas por atacado quando, no mesmo semestre civil, o seu valor não exceder a vinte por
+     cento do total das vendas realizadas.
+
+Vamos entender melhor tudo isso!
+
+Nem sempre quem comercializa bens de produção é considerado atacadista. É o caso do estabelecimento
+que comercializa tais bens a particulares em quantidade que não exceda a normalmente destinada ao uso
+próprio.
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                     6
+          www.estrategiaconcursos.com.br                                                                  29
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Semelhantemente, nem sempre quem comercializa bens de consumo é considerado varejista, pois se a
+comercialização for feita em quantidade superior àquela normalmente destinada ao uso próprio do
+adquirente, configura-se típica operação de estabelecimento atacadista.
+
+        Observação: Se você ficou em dúvida do que vem a ser “bens de produção”, saiba que o
+        RIPI trouxe a definição.
+
+        Além disso, consideram-se bens de produção (RIPI, art. 610):
+
+        •As matérias-primas;
+
+        •Os produtos intermediários, inclusive os que, embora não integrando o produto final,
+        sejam consumidos ou utilizados no processo industrial;
+
+        •Os produtos destinados a embalagem e acondicionamento;
+
+        •As ferramentas, empregadas no processo industrial, exceto as manuais; e
+
+        As máquinas, instrumentos, aparelhos e equipamentos, inclusive suas peças, partes e
+        outros componentes, que se destinem a emprego no processo industrial.
+
+Dando continuidade, se o estabelecimento varejista realizar vendas por atacado, isso não o descaracteriza
+da condição de varejista, desde que as vendas sejam feitas esporadicamente. E o que isso quer dizer? Do
+total de vendas realizadas no semestre, no máximo 20% pode ser feito por atacado. Se as vendas por
+atacado excederem tal limite, configura-se estabelecimento atacadista.
+
+O mais importante desse tópico é saber que tanto o atacadista como o varejista podem figurar como
+estabelecimento equiparado a industrial!
+
+
+Estabelecimentos Equiparados a Industrial
+
+Nós já vimos o conceito de operação industrial. Também estudamos que o estabelecimento industrial é o
+que executa qualquer das operações definidas como sendo industrialização. E o que equiparado a industrial?
+
+Se o estabelecimento industrial executa operações de industrialização, obviamente o equiparado a industrial
+não as executa, pois, nesse caso, seria industrial e não apenas equiparado a ele.
+
+“Quer dizer que mesmo não executando operação de industrialização o equiparado a industrial é contribuinte
+do IPI”? Sim, e isso você deve ter na “ponta da língua”. Ademais, o fato de se tornar contribuinte faz com
+que o estabelecimento fique obrigado ao cumprimento das obrigações tributárias, sejam elas acessórias
+ou principais.
+
+Ademais, fique atento, pois a equiparação a industrial não é uma mera arbitrariedade do legislador, pois essa
+previsão encontra guarida no texto do CTN, ao dizer que o contribuinte do IPI é “o industrial ou quem a ele
+a lei equiparar”.
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                       7
+        www.estrategiaconcursos.com.br                                                                    29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Neste momento, é mister que você guarde que a equiparação pode ocorrer por determinação da lei ou por
+opção do próprio estabelecimento.
+
+A equiparação a industrial ocorre por determinação legal ou por opção do próprio industrial.
+
+         Observação: Mais adiante será esclarecido o porquê de uma pessoa desejar se equiparado
+         a industrial e, por consequência, se tornar contribuinte do IPI.
+
+Desse modo, primeiramente vamos tratar dos casos de equiparação por determinação legal, estudando,
+posteriormente, os casos em que tal equiparação ocorre por opção.
+
+Hipóteses de equiparação a industrial por determinação legal
+
+De agora em diante, vamos estudar as hipóteses em que ocorre compulsoriamente a equiparação do
+estabelecimento a industrial, estando previstas no art. 9º e 10 do RIPI.
+
+1. Estabelecimentos importadores e suas filiais (RIPI, art. 9º, I e II)
+
+Você se lembra quando eu disse que os importadores praticam dois fatos geradores? Pois bem, esta é a hora
+de elucidarmos de uma vez todas dúvidas que possam ter surgidos a respeito desse assunto.
+
+Primeiramente, ocorre o fato gerador com o desembaraço aduaneiro, ao promover a entrada dos produtos
+industrializados estrangeiros no território nacional. Neste caso, o importador foi eleito contribuinte, pelo
+simples fato de ser “importador” (RIPI, art. 24, I).
+
+Além disso, quando os produtos industrializados importados saírem do estabelecimento do importador,
+ocorrerá outro fato gerador, fazendo com que o importador, por ficção legal, seja equiparado a um
+estabelecimento industrial (RIPI, art. 24, III).
+
+Grosso modo, você pode memorizar os dois momentos em que o importador paga IPI da seguinte forma:
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                       8
+        www.estrategiaconcursos.com.br                                                                   29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+➔ Entrada no País;
+➔ Saída do estabelecimento do importador.
+
+Atente-se para o fato de que nem todo importador é equiparado a industrial. A título de exemplo, quando
+uma indústria importa uma nova máquina do exterior, para integrar o seu ativo, não há equiparação, tendo
+em vista que só ocorre um fato gerador: o desembaraço aduaneiro.
+
+Você até poderia questionar o porquê da ocorrência desse fato gerador, se o importador não executou
+nenhuma operação de industrialização. Contudo, lembre-se de que, se ele tivesse industrializado, seria
+industrial, e não a este equiparado.
+
+        Observação: Veremos posteriormente que o importador não é duplamente onerado, em
+        função do princípio da não cumulatividade. Sendo assim, o que foi pago na importação será
+                                                         ==219a34==
+
+        descontado no montante total devido na saída do seu estabelecimento. Trata-se do
+        mecanismo dos créditos e débitos.
+
+O que estudamos até o momento neste tópico diz respeito à importação efetuada pelo estabelecimento
+importador, sendo este o estabelecimento receptor dos produtos importados. No entanto, pode ocorrer de
+o importador promover a importação, remetendo os produtos industrializados estrangeiros diretamente
+à filial da mesma empresa.
+
+Assim, quando a filial da mesma firma do estabelecimento importador, seja varejista ou atacadista, recebe
+os produtos diretamente da repartição aduaneira que efetuou o desembaraço aduaneiro, equipara-se a
+industrial e é contribuinte do IPI em relação à saída dos produtos industrializados do seu estabelecimento.
+
+2. Importação por encomenda ou por conta e ordem de terceiros (RIPI, art. 9º, IX)
+
+Dando continuidade aos casos de equiparação ao industrial, relativos à importação de produtos
+industrializados, são equiparados os estabelecimentos comerciantes, atacadistas ou varejistas, que
+adquirirem produtos de procedência estrangeira, importados por encomenda ou por sua conta e ordem,
+por intermédio de pessoa jurídica importadora.
+
+Isso significa que o estabelecimento atacadista ou varejista que, em condições normais não seria
+contribuinte do IPI, torna-se sujeito passivo por se equiparar ao estabelecimento industrial, já que há uma
+importação por encomenda ou por sua conta e ordem.
+
+Ocorre, então, uma importação, havendo incidência de IPI sobre o desembaraço aduaneiro. Posteriormente,
+ocorre nova incidência do IPI, quando os produtos saem do estabelecimento do importador, com destino ao
+comerciante. Até este ponto, houve duas incidências do IPI sobre o importador.
+
+Quando a mercadoria sai do estabelecimento do comerciante, atacadista ou varejista, como dissemos,
+ocorre novo fato gerador do IPI, fazendo com que o comerciante seja equiparado a industrial, ou seja,
+contribuinte do IPI.
+
+Ficou difícil de entender? Vamos visualizar:
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      9
+        www.estrategiaconcursos.com.br                                                                  29
+
+                                     
+
+
+---
+
+    Fábio Dutra
+    Aula 01
+
+                      FATO GERADOR 1                      FATO GERADOR 2         FATO GERADOR 3
+
+                                                     SAÍDA DO                   SAÍDA DO
+              DESEMBARAÇO
+                                                 ESTABELECIMENTO            ESTABELECIMENTO
+               ADUANEIRO
+                                                  DO IMPORTADOR             DO COMERCIANTE
+
+Presume-se por conta e ordem de terceiro a operação de comércio exterior realizada (RIPI, art. 9º, § 2º):
+
+•    Mediante utilização de recursos de terceiro; ou
+•    Em desacordo com os requisitos e condições estabelecidos pela Secretaria da Receita Federal do Brasil.
+
+Diferentemente, o conceito de importação por encomenda traduz-se na importação realizada com recursos
+próprios da pessoa jurídica importadora que adquira mercadorias no exterior para revenda a
+encomendante predeterminado, participando ou não o encomendante das operações comerciais relativas à
+aquisição dos produtos no exterior (RIPI, art. 9º, § 3º).
+
+Em suma, a diferença básica entre os dois tipos de importação é que, na importação por conta e ordem de
+terceiro, este é o importador de fato, sendo dele os recursos utilizados na importação. Por outro lado, na
+importação por encomenda, utilizam-se os recursos próprios da pessoa jurídica importadora.
+
+Para concluir esta modalidade de equiparação, pergunta-se: qual é a semelhança mais marcante entre a
+importação por conta e ordem e a realizada por encomenda? Ora, em ambos os casos, o comerciante
+atacadista ou varejista se torna equiparado a industrial.
+
+Por fim, faz-se necessário conhecer as incumbências da Receita Federal, em relação a essa hipótese de
+equiparação a industrial (RIPI, art. 9º, § 1º):
+
+I - deverá estabelecer requisitos e condições para a atuação de pessoa jurídica importadora:
+
+a) por conta e ordem de terceiro; ou
+
+b) que adquira mercadorias no exterior para revenda a encomendante predeterminado; e
+
+II - poderá exigir prestação de garantia como condição para a entrega de mercadorias, quando o valor das
+importações for incompatível com o capital social ou o patrimônio líquido do importador ou encomendante
+predeterminado ou, no caso de importação por conta e ordem, do adquirente.
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                       10
+          www.estrategiaconcursos.com.br                                                                    29
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+3. Encomendantes no mercado interno (RIPI, art. 9º, IV)
+
+Não é somente o encomendante de produtos industrializados importados que se torna equiparado a
+industrial. Há também equiparação quando os estabelecimentos comerciais de produtos cuja
+industrialização tenha sido realizada por outro estabelecimento da mesma firma ou de terceiro, mediante
+remessa, por eles efetuada, de matérias-primas, produtos intermediários, embalagens, recipientes,
+moldes, matrizes ou modelos.
+
+Em termos mais simples, o comerciante atacadista ou varejista remete os insumos a um estabelecimento
+industrial, que pode ser tanto da mesma firma ou de terceiros, a fim de que este efetue a operação de
+industrialização por encomenda. Posteriormente, os produtos industrializados retornam ao estabelecimento
+do comerciante, que, ao dar saída a estes, será equiparado a industrial, havendo incidência de IPI.
+
+         Observação: Na saída do estabelecimento industrial, com destino ao encomendante,
+         também há incidência de IPI. Ou seja, entregou a encomenda, paga IPI.
+
+         Lembre-se sempre de que os estabelecimentos industriais são contribuintes do IPI.
+
+4. Encomenda de industrialização de bebidas, líquidos alcoólicos e vinagres (RIPI, art. 9º, V)
+
+Não é necessário se preocupar em decorar esta hipótese de equiparação, haja vista ser quase a mesma
+situação comentada no item anterior, com o detalhe de que, em se tratando de industrialização de bebidas,
+líquidos alcoólicos e vinagres (Capítulo 22 da TIPI), não há necessidade de remessa de insumos, para se
+caracterizar a equiparação a industrial.
+
+Além disso, no tocante aos produtos previstos no Capítulo 22 da TIPI, a marca ou o nome fantasia da bebida
+pode ser de propriedade de qualquer pessoa, ou seja, do encomendante, de terceiro ou até mesmo do
+próprio executor da encomenda.
+
+Se uma questão de prova mencionar a industrialização por encomenda de bebidas e citar alguma restrição
+em relação à marca ou nome fantasia, estará errada.
+
+5. Filial atacadista (RIPI, art. 9º, III)
+
+De acordo com o RIPI, são equiparados ao estabelecimento industrial as filiais e demais estabelecimentos
+que exercerem o comércio de produtos importados, industrializados ou mandados industrializar por outro
+estabelecimento da mesma firma, salvo se aqueles operarem exclusivamente na venda a varejo e não
+estiverem enquadrados na hipótese do inciso II, do art. 9º.
+
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                   11
+         www.estrategiaconcursos.com.br                                                                29
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+O dispositivo determina que aqueles estabelecimentos comerciais de produtos que foram importados, ou
+industrializados ou até mesmo industrializados por encomenda por outro estabelecimento da mesma firma,
+ou seja, por uma filial, devem ser equiparados a industrial.
+
+Se o estabelecimento comerciante for exclusivamente varejista, não haverá equiparação! Guarde isso!
+
+O aluno mais atento poderia imaginar: se o varejista não é equiparado, poderia haver uma fraude na
+operação entre os estabelecimentos da mesma firma. Como assim? Exemplo: o estabelecimento Alfa
+importa notebooks e encaminha para Beta (outro estabelecimento da mesma firma) revendê-los no varejo.
+Como pertencem à mesma firma, poderia haver uma operação entre eles (Alfa → Beta) por valor simbólico,
+recolhendo IPI praticamente nulo, já que Beta não iria recolher IPI nas operações no varejo.
+
+É possível que isso aconteça? Não! Você acha mesmo que o legislador abriria essa brecha?
+
+Estudaremos na próxima aula que o RIPI criou o denominado valor tributável mínimo, que determina, em
+linhas gerais, uma base de cálculo mínima, sobre a qual irá incidir o IPI, ainda que a operação de fato tenha
+ocorrido por valor inferior. No caso em tela, dispõe o art. 195, II, do RIPI, que o valor tributável (base de
+cálculo) não poderá ser inferior a 90% do preço de venda aos consumidores, não inferior ao preço corrente
+no mercado atacadista da praça do remetente, quando o produto for remetido a outro estabelecimento da
+mesma empresa, desde que o destinatário opere exclusivamente na venda a varejo. Ficou bem claro, certo?
+
+Por último deve ser destacado que o varejista que se encontre na situação prevista no art. 9º, II, do RIPI, não
+está excepcionado da equiparação. Ora, esse varejista é aquele que recebeu os produtos diretamente da
+repartição aduaneira que efetuou o desembaraço aduaneiro, estudado no primeiro item. Note que ele já é
+equiparado a industrial, sendo apenas corroborado no presente item.
+
+6. Atacadista de pérolas, pedras e metais preciosos (RIPI, art. 9º, VI)
+
+Também são equiparados a industrial os estabelecimentos comerciais atacadistas dos produtos classificados
+nas posições 71.01 a 71.16 da TIPI, que representam, resumidamente, as pérolas, pedras e metais preciosos
+e suas obras.
+
+Observe que, nesse caso, não há qualquer previsão de que o atacadista pertença à mesma firma. Sendo
+assim, qualquer estabelecimento comercial atacadista dos produtos supracitados são equiparados a
+industrial.
+
+7. Atacadista de bebidas quentes (RIPI, art. 9º, VII)
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                         12
+        www.estrategiaconcursos.com.br                                                                      29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Foi prevista equiparação a industrial aos estabelecimentos atacadistas e cooperativas de produtores que
+derem saída a bebidas alcoólicas e demais produtos, de produção nacional, classificados nas Posições 22.04,
+22.05, 22.06 e 22.08 da TIPI e acondicionados em recipientes de capacidade superior ao limite máximo
+permitido para venda a varejo, com destino aos seguintes estabelecimentos:
+
+a) industriais que utilizarem os produtos mencionados como matéria-prima ou produto intermediário na
+fabricação de bebidas;
+
+b) atacadistas e cooperativas de produtores; ou
+
+c) engarrafadores dos mesmos produtos;
+
+        Observação:
+
+        Posição 22.04: Vinhos;
+
+        Posição 22.05: Vermutes e outros vinhos;
+
+        Posição 22.06: Bebidas fermentadas
+
+        Posição 22.08: Aguardentes, Uísques, Rum, Vodcas, Licores etc.
+
+Assim, veja que os estabelecimentos atacadistas bem como a cooperativa de produtores recebem a bebida
+dos seus respectivos produtores, tornando-se equiparados quanto à saída que promoverem de seus
+estabelecimentos.
+
+Mas existe uma condição! Os atacadistas e as cooperativas somente serão equiparados a industriais, se os
+referidos produtos estiverem acondicionados em recipientes de capacidade superior ao limite máximo
+permitido para venda a varejo. Isso significa que ainda existirá um outro processo de industrialização
+(acondicionamento) antes de as bebidas serem revendidas ao consumidor final! Concorda?
+
+O que seria um recipiente com capacidade superior ao limite máximo permitido para venda a varejo?
+
+De acordo com o art. 339, do RIPI, as bebidas do Capítulo 22 da TIPI somente poderão ser remetidas ao
+comércio varejista, expostas à venda ou vendidas no varejo, acondicionadas em recipientes de capacidade
+máxima de um litro.
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     13
+        www.estrategiaconcursos.com.br                                                                  29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Satisfeitos os requisitos estudados, ocorrerá o fato gerador do IPI, tendo como contribuinte os
+estabelecimentos atacadistas. Contudo, o imposto fica suspenso por conta do art. 44 do RIPI:
+
+       Art. 44. As bebidas alcoólicas e demais produtos de produção nacional, classificados nas Posições
+       22.04, 22.05, 2206.00 e 22.08 da TIPI, acondicionados em recipientes de capacidade superior ao limite
+       máximo permitido para venda a varejo, sairão obrigatoriamente com suspensão do imposto dos
+       respectivos estabelecimentos produtores, dos estabelecimentos atacadistas e das cooperativas de
+       produtores, quando destinados aos seguintes estabelecimentos (Lei no 9.493, de 1997, arts. 3º e 4º):
+
+       I - industriais que utilizem os produtos mencionados no caput como matéria-prima ou produto
+       intermediário na fabricação de bebidas;
+
+       II - atacadistas e cooperativas de produtores; e
+
+       III - engarrafadores dos mesmos produtos.
+
+       Veja que esta situação
+
+A referida suspensão implica não recolhimento do imposto quando da saída desses produtos dos
+estabelecimentos citados acima! Veja que não foram citados apenas os atacadistas e as cooperativas, mas
+também os produtores que remeteram os produtos àqueles.
+
+Ficou difícil de entender? Vamos visualizar:
+
+                                   Suspensão de IPI                       Suspensão de IPI
+
+                                                                                   ESTABELECIMENTOS
+            PRODUTORES DE                         ATACADISTAS E
+                                                                                   CITADOS NO ART. 44
+               BEBIDAS                            COOPERATIVAS
+                                                                                        DO RIPI
+
+        Observação: O tema “suspensão de IPI” será estudado em outro momento do curso. Por
+        ora, memorize que não há recolhimento nas hipóteses de suspensão de IPI.
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      14
+        www.estrategiaconcursos.com.br                                                                   29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Recentemente, a Lei 13.241/2015 promoveu alterações no regime de tributação das bebidas quentes, o qual
+será estudado em momento oportuno.
+
+8. Atacadista de produtos de beleza importados (RIPI, art. 9º, VIII)
+
+O RIPI equiparou a industrial o atacadista de produtos de beleza (perfumes, produtos de beleza e
+maquiagens, xampus, produtos de higiene bucal etc.) importados, adquiridos de estabelecimentos
+importadores. Veja que o atacadista não se confunde com o importador, pois este já é equiparado a
+industrial, conforme estudamos no primeiro item.
+
+Como decorrência disso, o IPI incide em três momentos distintos:
+
+1 – Por ocasião do desembaraço aduaneiro;
+
+2 – Pela saída dos produtos do estabelecimento do importador;
+
+3 – Pela saída dos produtos do estabelecimento do atacadista.
+
+9. Atacadista de automóveis (RIPI, art. 9º, X)
+
+É equiparado ao estabelecimento industrial o atacadista de automóveis, aplicando-se, inclusive, ao
+estabelecimento fabricante de tais produtos, em relação aos que forem produzidos por outro fabricante,
+ainda que domiciliado no exterior, que os revender (RIPI, art. 9º, § 4º).
+
+Em relação às concessionárias, em regra, não são consideradas atacadistas e, portanto, não são equiparadas
+a industrial. Contudo, se as vendas no atacado excederem 20% do total de vendas no semestre civil, a
+concessionária passa a se caracterizar como atacadista e, consequentemente, como equiparada a industrial.
+
+É possível que as concessionárias de automóveis sejam equiparadas a industrial.
+
+Destaque-se que também se equipara a estabelecimento industrial a empresa comercial atacadista
+adquirente dos produtos classificados nas Posições 87.01 a 87.05 da TIPI (tratores, automóveis de
+passageiros etc.), industrializados por encomenda por conta e ordem de pessoa jurídica domiciliada no
+exterior, da qual é controlada direta ou indiretamente
+
+10. Atacadista de produtos específicos, em operação realizada entre pessoas interligadas (RIPI, art. 10)
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                        15
+        www.estrategiaconcursos.com.br                                                                     29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+São equiparados a estabelecimento industrial os estabelecimentos atacadistas que adquirirem os produtos
+relacionados no Anexo III da Lei no 7.798, de 10 de julho de 1989, de estabelecimentos industriais ou dos
+estabelecimentos equiparados a industriais de que tratam os incisos I a V do art. 9º (importador, filial que
+recebe diretamente da repartição aduaneira, filial atacadista ou encomendante).
+
+A equiparação que estamos estudando aplica-se nas hipóteses em que o adquirente e o remetente dos
+produtos sejam empresas controladoras ou controladas, coligadas, interligadas ou interdependentes. Ora,
+é justamente quando há ligação entre as empresas que surge a possibilidade de manobras com o objetivo
+de reduzir a arrecadação tributária.
+
+Da relação de estabelecida no Anexo III da citada lei poderão, mediante decreto, ser excluídos produtos ou
+grupo de produtos cuja permanência se torne irrelevante para arrecadação do imposto, ou incluídos outros
+cuja alíquota seja igual ou superior a 15%.
+
+        Observação: A lista do Anexo III da Lei 7.798/89 pode ser alterada por decreto e, de fato,
+        foi alterada pelo Decreto 8.393/2015. Dentre os produtos incluídos nessa equiparação
+        estão os produtos de beleza. Mas não se confunde com o art. 9°, VIII, já estudado, pois
+        naquele caso a equiparação é específica para importação e o rol de produtos é bastante
+        amplo.
+
+Ou seja, é possível excluir os produtos definidos na lista ou acrescentar outro, desde que a alíquota do IPI
+seja igual ou superior a 15% para os produtos que serão incluídos.
+
+11. Industrial que revende bens de produção (RIPI, art. 9º, § 6º)
+
+Imagino que, se você tiver prestado atenção nessa hipótese de equiparação, deve ter achado no mínimo
+estranho um estabelecimento industrial ser equiparado a industrial. Mas é bastante simples de entender!
+Vejamos o que estabelece o art. 9º, § 6º:
+
+   § 6º - Os estabelecimentos industriais quando derem saída a matéria-prima, produto intermediário e
+   material de embalagem, adquiridos de terceiros, com destino a outros estabelecimentos, para
+   industrialização ou revenda, serão considerados estabelecimentos comerciais de bens de produção e
+   obrigatoriamente equiparados a estabelecimento industrial em relação a essas operações.
+
+As palavras-chave desse dispositivo são “adquiridos de terceiros”. Ou seja, embora o estabelecimento
+industrial execute operações de industrialização, ele pode também adquirir bens de produção (já definimos
+esse conceito, correto?), sem executar qualquer industrialização, e revendê-los a outros estabelecimentos.
+
+Note bem que a equiparação a industrial ocorre porque o estabelecimento industrial, em relação aos bens
+de produção revendidos, é considerado estabelecimento comercial de bens de produção, e por esse motivo
+fica equiparado a estabelecimento industrial, unicamente em relação a essas operações.
+
+Quando eu disse “unicamente”, é porque o estabelecimento continua sendo industrial, em relação às
+operações de industrialização que ele realiza. Contudo, no que se refere à revenda de bens de produção, é
+considerado estabelecimento equiparado a industrial.
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      16
+        www.estrategiaconcursos.com.br                                                                   29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+É possível que um estabelecimento seja “industrial” e “equiparado a industrial”.
+
+                                                                          ESTABELECIMENTO
+                                      INDUSTRIALIZAÇÃO
+                                                                             INDSUTRIAL
+
+   ESTABELECIMENTO
+      INDSUTRIAL
+
+                                      REVENDA DE BENS                     ESTABELECIMENTO
+                                      DE PRODUÇÃO DE                        EQUIPARADO A
+                                         TERCEIROS                           INDUSTRIAL
+
+12. Distribuição de águas, cervejas e refrigerantes (RIPI, art. 9º, XI, XII, XIII, XIV e XV - revogados do RIPI, e
+    substituídos pelos incisos XVI, XVII e XVIII)
+
+Há diversas hipóteses de equiparação a industrial, relativas às bebidas frias, como água, cerveja e
+refrigerante. Elas foram disciplinadas no art. 9º, XI a XV do RIPI, e serão abordadas em outro momento, pois
+possuem certas peculiaridades que não nos convém estudá-las agora.
+
+         Observação: O tratamento deste assunto sofreu alterações, em virtude da publicação da
+         Lei 13.097/2015, regulamentada pelo Decreto 8.442/2015. Sendo assim, os incisos XI a XV
+         do art. 9° não mais são aplicáveis à tributação das bebidas frias. Por isso, foram revogados
+         do RIPI pelo Decreto 10668/21, e incluídos os incisos XVI, XVII e XVIII. Essas considerações
+         serão vistas em momento oportuno.
+
+Hipóteses de equiparação a industrial por opção
+
+Quando determinado estabelecimento é equiparado a industrial, como vimos, torna-se contribuinte do IPI.
+Portanto, o mais natural é que a legislação tributária determine as situações em que os estabelecimentos
+obrigatoriamente se sujeitam à equiparação e, consequentemente, ao pagamento de IPI. Afinal de contas,
+você de imaginar que ninguém se propõe a pagar impostos por vontade própria, não é mesmo?
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                            17
+        www.estrategiaconcursos.com.br                                                                         29
+
+                                     
+
+
+---
+
+    Fábio Dutra
+    Aula 01
+
+Curiosamente, há previsão de equiparação a industrial por opção. Ou seja, permite-se que os
+estabelecimentos tornem-se contribuintes por vontade própria, sem qualquer imposição legal.
+
+Nessa linha, vejamos os estabelecimentos que podem se tornar equiparados a industrial por opção:
+
+•    Os estabelecimentos comerciais que derem saída a bens de produção, para estabelecimentos industriais
+     ou revendedores;
+•    As cooperativas que se dedicarem à venda em comum de bens de produção, recebidos de seus associados
+     para comercialização.
+
+Você deve se lembrar do que aprendemos acerca do princípio da não cumulatividade que permite que o
+montante de IPI cobrado em operação anterior pode ser compensado na operação subsequente.
+
+Pois bem, com base nisso, os citados estabelecimentos podem optar por sofrer a tributação, a fim de
+possibilitar que os adquirentes dos seus produtos se creditem do valor por eles pago. Se tal opção não
+fosse possível, os seus clientes poderiam optar por adquirir produtos de outros fornecedores.
+
+Destaque-se que tal opção é feita mediante alteração dos dados cadastrais do estabelecimento, no CNPJ,
+para sua inclusão como contribuinte do IPI. O mesmo se pode dizer em relação à desistência da
+equiparação.
+
+Permite-se desistir da equiparação, não sendo, portanto, irretratável.
+
+Por fim, é interessante ressaltar que, ao optar pela equiparação, o contribuinte não fica obrigado apenas ao
+cumprimento da obrigação tributária principal (pagamento do IPI), mas também das obrigações
+acessórias, até a formalização da desistência.
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                    18
+          www.estrategiaconcursos.com.br                                                                 29
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+                             QUESTÕES COMENTADAS
+1.QUESTÃO INÉDITA/2019
+Somente o importador pessoa jurídica contribui com o IPI, ao promover o desembaraço aduaneiro.
+
+Comentário: Seja pessoa física ou jurídica, o desembaraço aduaneiro constitui fato gerador do IPI, sendo o
+importador o contribuinte.
+
+Gabarito: Errada
+
+2.QUESTÃO INÉDITA/2019
+As filiais e demais estabelecimentos que exercerem o comércio de produtos importados, industrializados ou
+mandados industrializar por outro estabelecimento da mesma firma são, via de regra, equiparadas a
+industrial.
+
+Comentário: A questão apresenta a regra geral, que é a equiparação.
+
+Gabarito: Correta
+
+3.QUESTÃO INÉDITA/2019
+A equiparação a estabelecimento industrial somente ocorre por imposição legal.
+
+Comentário: Existem estabelecimentos que se tornam equiparados a industrial por opção, nos termos do
+art. 11, do RIPI.
+
+Gabarito: Errada
+
+4.QUESTÃO INÉDITA/2019
+Equiparam-se a estabelecimento industrial os estabelecimentos importadores de produtos de procedência
+estrangeira, ainda que não deem saída a esses produtos.
+
+Comentário: O art. 9º, I, do RIPI, determina a equiparação dos estabelecimentos importadores de produtos
+de procedência estrangeira quando derem saída a esses produtos. Se tais estabelecimentos não dão saída
+aos produtos importados, figuram como contribuinte, na qualidade de importador, em relação ao fato
+gerador ocorrido com o desembaraço aduaneiro dos referido produtos.
+
+Gabarito: Errada
+
+5.QUESTÃO INÉDITA/2019
+Equiparam-se a estabelecimento industrial os estabelecimentos exclusivamente varejistas que receberem,
+para comercialização, diretamente da repartição que os liberou, produtos importados por outro
+estabelecimento da mesma firma.
+
+Comentário: O art. 9º, II, do RIPI, determina a equiparação a estabelecimento industrial dos
+estabelecimentos, ainda que varejistas, que receberem, para comercialização, diretamente da repartição
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    19
+        www.estrategiaconcursos.com.br                                                                 29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+que os liberou, produtos importados por outro estabelecimento da mesma firma. Logo, ainda que o
+estabelecimento seja exclusivamente varejista, será equiparado a industrial.
+
+Gabarito: Correta
+
+6.QUESTÃO INÉDITA/2019
+Se o estabelecimento comercial “A” encomenda uma industrialização ao estabelecimento industrial “B”,
+remetendo a este matérias-primas necessárias à fabricação dos produtos, pode-se afirmar que o
+estabelecimento comercial “A” é equiparado a industrial.
+
+Comentário: Trata-se do art. 9º, IV, do RIPI, que prevê a equiparação dos estabelecimentos comerciais de
+produtos cuja industrialização tenha sido realizada por outro estabelecimento da mesma firma ou de
+terceiro, mediante a remessa, por eles efetuada, de matérias-primas, produtos intermediários, embalagens,
+recipientes, moldes, matrizes ou modelos.
+
+Gabarito: Correta
+
+7.QUESTÃO INÉDITA/2019
+O estabelecimento “Y” importa computadores, sofrendo a incidência do IPI, por ocasião do desembaraço
+aduaneiro. Posteriormente, esta empresa remete seus produtos a outro estabelecimento “Z”, da mesma
+firma, para revendê-los aos consumidores no varejo. Diante da situação apresentada, o estabelecimento “Z”
+não é equiparado a industrial.
+
+Comentário: A questão aborda a regra contida no art. 9º, III, do RIPI, prevendo o caso de equiparação das
+filiais e demais estabelecimentos que exercerem o comércio de produtos importados, industrializados ou
+mandados industrializar por outro estabelecimento da mesma firma, salvo se aqueles operarem
+exclusivamente na venda a varejo. Como neste caso o estabelecimento “Z” é varejista e não recebeu os
+produtos importados diretamente da repartição que os liberou (RIPI, art. 9º, II), não há que se falar em
+equiparação. Questão correta.
+
+Gabarito: Correta
+
+8.QUESTÃO INÉDITA/2019
+De acordo com o Decreto 7.212/2010 (Regulamento do IPI), considera-se sujeito passivo do IPI, na qualidade
+de contribuinte os seguintes, exceto:
+a) O importador, em relação ao fato gerador decorrente do desembaraço aduaneiro de produto de
+procedência estrangeira;
+b) O industrial, em relação ao fato gerador decorrente da saída de produto que industrializar em seu
+estabelecimento, bem como quanto aos demais fatos geradores decorrentes de atos que praticar;
+c) O estabelecimento equiparado a industrial, quanto ao fato gerador relativo aos produtos que dele saírem,
+bem como quanto aos demais fatos geradores decorrentes de atos que praticar;
+d) O transportador, em relação aos produtos tributados que transportar, desacompanhados da
+documentação comprobatória de sua procedência;
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     20
+        www.estrategiaconcursos.com.br                                                                  29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+e) Os que consumirem ou utilizarem em outra finalidade, ou remeterem a pessoas que não sejam empresas
+jornalísticas ou editoras, o papel destinado à impressão de livros, jornais e periódicos, quando alcançado
+pela imunidade prevista no inciso I do art. 18 do RIPI.
+
+Comentário:
+
+Alternativa A: Trata-se de contribuinte, conforme previsão no art. 24, I, do RIPI. Item correto.
+
+Alternativa B: Trata-se de contribuinte, conforme previsão no art. 24, II, do RIPI. Item correto.
+
+Alternativa C: Trata-se de contribuinte, conforme previsão no art. 24, III, do RIPI. Item correto.
+
+Alternativa D: O transportador, no caso apresentado, é obrigado ao pagamento do IPI como responsável, de
+acordo com o art. 25, I, do RIPI. Item errado.
+                                                         ==219a34==
+
+Alternativa E: Trata-se de contribuinte, conforme previsão no art. 24, IV, do RIPI. Item correto.
+
+Gabarito: Letra D
+
+9.ESAF/TRF/2003
+Para ser caracterizado como tal, o estabelecimento industrial deve
+a) estar estabelecido em local apropriado, ou seja, na área industrial do município.
+b) exercer uma, ou mais, das operações a seguir: transformação, beneficiamento, montagem,
+acondicionamento ou reacondicionamento e renovação ou restauração, e que destas operações resulte
+produto tributado, ainda que de alíquota zero.
+c) revender produtos industrializados por terceiros, na condição de estabelecimento atacadista.
+d) somente elaborar produtos com alíquota do IPI superior a 0% (zero por cento).
+e) importar produtos industrializados diretamente do exterior e dê saída a tais produtos.
+
+Comentário:
+
+Alternativa A: Estabelecimento industrial é o que executa qualquer das operações de industrialização. Como
+a localização das instalações é irrelevante para caracterizar certa operação como industrialização (art. 4º,
+parágrafo único), não é necessário que o estabelecimento esteja localizado em local apropriado. Item errado.
+
+Alternativa B: É exatamente o que diz o art. 8º do RIPI. Item correto.
+
+Alternativa C: Essa alternativa não se caracteriza como estabelecimento industrial, nem como equiparado.
+Item errado.
+
+Alternativa D: Segundo o disposto no art. 8º, estabelecimento industrial é que realiza operação de
+industrialização, da qual resulte produto tributado, ainda que de alíquota zero ou isento. Item errado.
+
+Alternativa E: Na realidade, quem importa produtos industrializados e dá saída a tais produtos é considerado
+estabelecimento equiparado a industrial. Item errado.
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      21
+        www.estrategiaconcursos.com.br                                                                   29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Gabarito: Letra B
+
+10.ESAF/TRF/2000
+Não se considera estabelecimento industrial o que executa operações de que resulte produto tributado,
+quando a alíquota for zero.
+
+Comentário: O único erro da questão foi inserir o “não” em seu início. Na verdade, considera-se
+estabelecimento industrial o que executa operações de que resulte produto tributado, quando a alíquota for
+zero.
+
+Gabarito: Errada
+
+11.ESAF/TRF/2000
+Não se equiparam a estabelecimento industrial os estabelecimentos importadores de produtos de
+procedência estrangeira, que dêem saída a esses produtos, se não realizam qualquer operação que
+modifique a natureza, o funcionamento, o acabamento, a apresentação ou a finalidade do produto, ou o
+aperfeiçoe para consumo.
+
+Comentário: Não seria nem mesmo necessário decorar essa hipótese de estabelecimento equiparado a
+industrial. Observe que no final da assertiva, há uma condição de que, se os estabelecimentos não realizam
+qualquer operação de industrialização, não podem ser equiparados a industrial. Ora, se realizassem
+industrialização seriam estabelecimentos industriais, e não equiparados a eles.
+
+Gabarito: Errada
+
+12.ESAF/TRF/2000
+Não se considera industrialização o preparo de produtos alimentares, não acondicionados em embalagem
+de apresentação.
+
+Comentário: O preparo de produtos alimentares, não acondicionados em embalagem de apresentação, é
+uma das operações excluídas do conceito de industrialização.
+
+Gabarito: Correta
+
+13.ESAF/TRF/2002-1
+Relativamente às cooperativas, constituídas nos termos da Lei nº 5.764, de 16 de dezembro de 1971, que se
+dedicarem a venda em comum dos bens de produção, recebidos de seus associados para comercialização, a
+legislação sobre produtos industrializados as considera estabelecimentos:
+a) equiparados à Industrial.
+b) Industriais
+c) Equiparados a importadores.
+d) Equiparados à Industrial, por opção.
+e) Comerciais.
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                   22
+         www.estrategiaconcursos.com.br                                                                29
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Comentário: Há estabelecimentos que são equiparados a industriais por força do disposto no RIPI. Há
+também aqueles que não são contribuintes do IPI, mas podem optar por se tornarem equiparados a
+industriais, como é o caso das cooperativas que se dedicarem a venda em comum dos bens de produção,
+recebidos de seus associados para comercialização. A resposta, portanto, é a Letra D.
+
+Gabarito: Letra D
+
+14.ESAF/ATRFB/2012
+São equiparados aos estabelecimentos industriais para fins de incidência do Imposto sobre Produtos
+Industrializados os estabelecimentos que comercializam produtos cuja industrialização tenha sido realizada
+por outro estabelecimento da mesma firma ou de terceiro, mediante a remessa, por eles efetuada, de
+matérias-primas, produtos intermediários, embalagens, recipientes, moldes, matrizes ou modelos.
+
+Comentário: Conforme prevê o art. 9º, IV, do RIPI, são equiparados aos estabelecimentos industriais os
+estabelecimentos comerciais de produtos cuja industrialização tenha sido realizada por outro
+estabelecimento da mesma firma ou de terceiro, mediante a remessa, por eles efetuada, de matérias-primas,
+produtos intermediários, embalagens, recipientes, moldes, matrizes ou modelos.
+
+Gabarito: Correta
+
+15.ESAF/ATRFB/2012
+São equiparados aos estabelecimentos industriais para fins de incidência do Imposto sobre Produtos
+Industrializados os estabelecimentos, ainda que varejistas, que receberem, para comercialização,
+diretamente da repartição que os liberou, produtos importados por outro estabelecimento da mesma firma.
+
+Comentário: De acordo com o art. 9º, II, do RIPI, os estabelecimentos, ainda que varejistas, que receberem,
+para comercialização, diretamente da repartição que os liberou, produtos importados por outro
+estabelecimento da mesma firma, são equiparados aos estabelecimentos industriais.
+
+Gabarito: Correta
+
+16.ESAF/ATRFB/2012
+São equiparados aos estabelecimentos industriais para fins de incidência do Imposto sobre Produtos
+Industrializados os estabelecimentos atacadistas e cooperativas de produtores que derem saída a bebidas
+alcoólicas.
+
+Comentário: Segundo o disposto no art. 9º, VII, os estabelecimentos atacadistas e cooperativas de
+produtores que derem saída a bebidas alcoólicas são equiparados aos estabelecimentos industriais. Esta
+questão, na realidade, está incompleta, já que o referido dispositivo estabelece algumas condicionantes para
+o enquadramento desses estabelecimentos como equiparados a industrial. Mesmo assim, a banca
+considerou correta.
+
+Gabarito: Correta
+
+17.QUESTÃO INÉDITA/2019
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      23
+        www.estrategiaconcursos.com.br                                                                   29
+
+                                     
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Em função do princípio da autonomia dos estabelecimentos, pode-se dizer que é considerado contribuinte
+autônomo qualquer estabelecimento de importador, industrial ou comerciante, em relação a cada fato
+gerador que decorra de ato que praticar.
+
+Comentário: De acordo com o art. 24, par. único, do RIPI, considera-se contribuinte autônomo qualquer
+estabelecimento de importador, industrial ou comerciante, em relação a cada fato gerador que decorra de
+ato que praticar. Trata-se do princípio da autonomia dos estabelecimentos.
+
+Gabarito: Correta
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                 24
+        www.estrategiaconcursos.com.br                                                              29
+
+                                     
+
+
+---
+
+     Fábio Dutra
+     Aula 01
+
+                   LISTA DAS QUESTÕES COMENTADAS
+1.                 QUESTÃO INÉDITA/2019
+Somente o importador pessoa jurídica contribui com o IPI, ao promover o desembaraço aduaneiro.
+
+
+2.                 QUESTÃO INÉDITA/2019
+As filiais e demais estabelecimentos que exercerem o comércio de produtos importados, industrializados ou
+mandados industrializar por outro estabelecimento da mesma firma são, via de regra, equiparadas a
+industrial.
+
+
+3.                 QUESTÃO INÉDITA/2019
+A equiparação a estabelecimento industrial somente ocorre por imposição legal.
+
+
+4.                 QUESTÃO INÉDITA/2019
+Equiparam-se a estabelecimento industrial os estabelecimentos importadores de produtos de procedência
+estrangeira, ainda que não deem saída a esses produtos.
+
+
+5.                 QUESTÃO INÉDITA/2019
+Equiparam-se a estabelecimento industrial os estabelecimentos exclusivamente varejistas que receberem,
+para comercialização, diretamente da repartição que os liberou, produtos importados por outro
+estabelecimento da mesma firma.
+
+
+6.                 QUESTÃO INÉDITA/2019
+Se o estabelecimento comercial “A” encomenda uma industrialização ao estabelecimento industrial “B”,
+remetendo a este matérias-primas necessárias à fabricação dos produtos, pode-se afirmar que o
+estabelecimento comercial “A” é equiparado a industrial.
+
+
+7.                 QUESTÃO INÉDITA/2019
+O estabelecimento “Y” importa computadores, sofrendo a incidência do IPI, por ocasião do desembaraço
+aduaneiro. Posteriormente, esta empresa remete seus produtos a outro estabelecimento “Z”, da mesma
+firma, para revendê-los aos consumidores no varejo. Diante da situação apresentada, o estabelecimento “Z”
+não é equiparado a industrial.
+
+8.                 QUESTÃO INÉDITA/2019
+
+           Receita Federal (Analista Tributário) Legislação Tributária                                25
+           www.estrategiaconcursos.com.br                                                             29
+
+                                        
+
+
+---
+
+     Fábio Dutra
+     Aula 01
+
+De acordo com o Decreto 7.212/2010 (Regulamento do IPI), considera-se sujeito passivo do IPI, na qualidade
+de contribuinte os seguintes, exceto:
+a) O importador, em relação ao fato gerador decorrente do desembaraço aduaneiro de produto de
+procedência estrangeira;
+b) O industrial, em relação ao fato gerador decorrente da saída de produto que industrializar em seu
+estabelecimento, bem como quanto aos demais fatos geradores decorrentes de atos que praticar;
+c) O estabelecimento equiparado a industrial, quanto ao fato gerador relativo aos produtos que dele saírem,
+bem como quanto aos demais fatos geradores decorrentes de atos que praticar;
+d) O transportador, em relação aos produtos tributados que transportar, desacompanhados da
+documentação comprobatória de sua procedência;
+e) Os que consumirem ou utilizarem em outra finalidade, ou remeterem a pessoas que não sejam empresas
+jornalísticas ou editoras, o papel destinado à impressão de livros, jornais e periódicos, quando alcançado
+pela imunidade prevista no inciso I do art. 18 do RIPI.     ==219a34==
+
+9.                 ESAF/TRF/2003
+Para ser caracterizado como tal, o estabelecimento industrial deve
+a) estar estabelecido em local apropriado, ou seja, na área industrial do município.
+b) exercer uma, ou mais, das operações a seguir: transformação, beneficiamento, montagem,
+acondicionamento ou reacondicionamento e renovação ou restauração, e que destas operações resulte
+produto tributado, ainda que de alíquota zero.
+c) revender produtos industrializados por terceiros, na condição de estabelecimento atacadista.
+d) somente elaborar produtos com alíquota do IPI superior a 0% (zero por cento).
+e) importar produtos industrializados diretamente do exterior e dê saída a tais produtos.
+
+
+10.                ESAF/TRF/2000
+Não se considera estabelecimento industrial o que executa operações de que resulte produto tributado,
+quando a alíquota for zero.
+
+
+11.                ESAF/TRF/2000
+Não se equiparam a estabelecimento industrial os estabelecimentos importadores de produtos de
+procedência estrangeira, que dêem saída a esses produtos, se não realizam qualquer operação que
+modifique a natureza, o funcionamento, o acabamento, a apresentação ou a finalidade do produto, ou o
+aperfeiçoe para consumo.
+
+
+12.                ESAF/TRF/2000
+Não se considera industrialização o preparo de produtos alimentares, não acondicionados em embalagem
+de apresentação.
+13.                ESAF/TRF/2002-1
+
+
+           Receita Federal (Analista Tributário) Legislação Tributária                                  26
+           www.estrategiaconcursos.com.br                                                               29
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 01
+
+Relativamente às cooperativas, constituídas nos termos da Lei nº 5.764, de 16 de dezembro de 1971, que se
+dedicarem a venda em comum dos bens de produção, recebidos de seus associados para comercialização, a
+legislação sobre produtos industrializados as considera estabelecimentos:
+a) equiparados à Industrial.
+b) Industriais
+c) Equiparados a importadores.
+d) Equiparados à Industrial, por opção.
+e) Comerciais.
+
+
+14.              ESAF/ATRFB/2012
+São equiparados aos estabelecimentos industriais para fins de incidência do Imposto sobre Produtos
+Industrializados os estabelecimentos que comercializam produtos cuja industrialização tenha sido realizada
+por outro estabelecimento da mesma firma ou de terceiro, mediante a remessa, por eles efetuada, de
+matérias-primas, produtos intermediários, embalagens, recipientes, moldes, matrizes ou modelos.
+
+
+15.              ESAF/ATRFB/2012
+São equiparados aos estabelecimentos industriais para fins de incidência do Imposto sobre Produtos
+Industrializados os estabelecimentos, ainda que varejistas, que receberem, para comercialização,
+diretamente da repartição que os liberou, produtos importados por outro estabelecimento da mesma firma.
+
+
+16.              ESAF/ATRFB/2012
+São equiparados aos estabelecimentos industriais para fins de incidência do Imposto sobre Produtos
+Industrializados os estabelecimentos atacadistas e cooperativas de produtores que derem saída a bebidas
+alcoólicas.
+
+17.              QUESTÃO INÉDITA/2019
+Em função do princípio da autonomia dos estabelecimentos, pode-se dizer que é considerado contribuinte
+autônomo qualquer estabelecimento de importador, industrial ou comerciante, em relação a cada fato
+gerador que decorra de ato que praticar.
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                   27
+         www.estrategiaconcursos.com.br                                                                29
+
+                                      
+
+
+---
+
+Fábio Dutra
+Aula 01
+
+          GABARITO DAS QUESTÕES COMENTADAS
+
+ 1.   E                                     7. C                        13. D
+ 2.   C                                     8. D                        14. C
+ 3.   E                                     9. B                        15. C
+ 4.   E                                     10. E                       16. C
+ 5.   C                                     11. E                       17. C
+ 6.   C                                     12. C
+
+      Receita Federal (Analista Tributário) Legislação Tributária               28
+      www.estrategiaconcursos.com.br                                            29
+
+                                   
+
+
+---
+
+---

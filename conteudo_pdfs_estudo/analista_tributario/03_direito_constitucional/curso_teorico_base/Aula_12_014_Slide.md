@@ -1,0 +1,485 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 12_014_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: '@nelmafontana'
+artigos_citados:
+- Art. 48.
+- Art. 49.
+- Art. 51.
+- Art. 68.
+- Art. 70.
+- Art. 73.
+- Art. 74.
+- Art. 75.
+---
+
+# @nelmafontana
+
+Professora Nelma Fontana
+
+                 @nelmafontana
+  
+
+
+---
+
+Processo Legislativo
+
+     
+
+
+---
+
+8. Processo Legislativo Especial – Lei Delegada
+
+Art. 68. As leis delegadas serão elaboradas pelo Presidente da República, que
+deverá solicitar a delegação ao Congresso Nacional.
+
+                            
+
+
+---
+
+§ 2º A delegação ao Presidente da República terá a forma de resolução do
+Congresso Nacional, que especificará seu conteúdo e os termos de seu
+exercício.
+§ 3º Se a resolução determinar a apreciação do projeto pelo Congresso
+Nacional, este a fará em votação única, vedada qualquer emenda.
+
+                         
+
+
+---
+
+8.1. Vedações materiais
+
+§ 1º Não serão objeto de delegação os atos de competência exclusiva do
+Congresso Nacional, os de competência privativa da Câmara dos Deputados ou
+do Senado Federal, a matéria reservada à lei complementar, nem a legislação
+sobre:
+I - organização do Poder Judiciário e do Ministério Público, a carreira e a
+garantia de seus membros;
+II - nacionalidade, cidadania, direitos individuais, políticos e eleitorais;
+III - planos plurianuais, diretrizes orçamentárias e orçamentos.
+
+                          
+
+
+---
+
+9. Processo Legislativo Especial – Decretos Legislativos e Resoluções
+
+                            
+
+
+---
+
+Art. 48. Cabe ao Congresso Nacional, com a sanção do Presidente da República,
+não exigida esta para o especificado nos arts. 49, 51 e 52, dispor sobre todas as
+matérias de competência da União, especialmente sobre:
+I - sistema tributário, arrecadação e distribuição de rendas;
+
+Art. 49. É da competência exclusiva do Congresso Nacional:
+I - resolver definitivamente sobre tratados, acordos ou atos internacionais que
+acarretem encargos ou compromissos gravosos ao patrimônio nacional;
+
+                            
+
+
+---
+
+Art. 51. Compete privativamente à Câmara dos Deputados:
+I - autorizar, por dois terços de seus membros, a instauração de processo contra
+o Presidente e o Vice-Presidente da República e os Ministros de Estado;
+
+Art. 52. Compete privativamente ao Senado Federal:
+I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes
+de responsabilidade, bem como os Ministros de Estado e os Comandantes da
+Marinha, do Exército e da Aeronáutica nos crimes da mesma natureza conexos
+com aqueles;
+
+                            
+
+
+---
+
+---
+
+1. (2024/FUNDATEC/Câmara de Venâncio Aires – RS/Procurador) A não
+apreciação de Medida Provisória pelo Congresso Nacional no prazo de 60 dias
+implicará a:
+A) Perda de eficácia do ato normativo desde a sua edição.
+B) Perda de eficácia do ato normativo a partir dos 60 dias de sua edição.
+C) Sua prorrogação por mais 60 dias.
+D) Aprovação implícita, com a sua conversão em lei.
+E) Rejeição tácita do ato normativo.
+
+                          
+
+
+---
+
+2. (2024/Instituto Consulplan/Câmara de Maria da Fé – MG/Procurador) A
+medida provisória tem seu processo legislativo previsto na Constituição
+Federal. Sobre o tema, analise as afirmativas a seguir.
+I. A medida provisória é um instrumento com força de lei, adotado pelo
+presidente da República, em casos de relevância e urgência para o país. Produz
+efeitos após lida no Plenário da comissão mista do Congresso Nacional.
+II. É vedada a reedição, na mesma sessão legislativa, de MP que tenha sido
+rejeitada ou que tenha perdido sua eficácia por decurso de prazo.
+III. Caso a Medida Provisória seja aprovada sem alteração pela Câmara ou pelo
+Senado, ela é promulgada pelo Congresso Nacional, sem exigência de sanção
+presidencial.
+IV. O prazo ordinário de vigência da medida provisória é de sessenta dias,
+contados da sua publicação, suspendendo-se durante os períodos de recesso
+do Congresso Nacional.
+                           
+
+
+---
+
+À luz da Carta Magna, está correto o que se afirma apenas em
+A) I e IV.
+B) II e III.
+C) I, II e III.
+D) II, III e IV.
+
+                           
+
+
+---
+
+3. (2024/FGV/ENAM) Considere que o Presidente da República tenha editado
+medida provisória que, ultrapassado o prazo constitucional, perde sua eficácia
+por não ter sido convertida em lei.
+Em tal situação, as relações jurídicas dela decorrentes deverão ser disciplinadas
+pelo(a)
+A) Câmara dos Deputados, por meio de decreto executivo.
+B) Congresso Nacional, por meio de resolução.
+C) Senado Federal, por meio de decreto legislativo.
+D) Congresso Nacional, por meio de decreto legislativo.
+E) Presidente da República, no exercício do poder regulamentar, por meio de
+decreto executivo.
+
+                            
+
+
+---
+
+4. (2024/CESPE/CEBRASPE/MPE-TO/Técnico Ministerial) Compete ao Senado
+Federal, no prazo fixado por lei complementar, editar decreto legislativo que
+discipline as relações jurídicas decorrentes da não conversão de medida
+provisória em lei.
+
+                           
+
+
+---
+
+5. (2024/CESPE/CEBRASPE/CAU-BR/Analista) Caso o presidente da República
+solicite urgência para apreciação de projeto de lei de sua autoria, que já tramita
+no Poder Legislativo, a proposta passará a ter prioridade, com redução de
+prazos e precedência na pauta em relação aos projetos em tramitação
+ordinária.
+
+                             
+
+
+---
+
+6. (2024/CESPE/CEBRASPE/CAU-BR/Analista) O prazo constitucional para o
+presidente da República sancionar ou vetar um projeto de lei, total ou
+parcialmente, é de trinta dias úteis contados da data do recebimento, após esse
+prazo, o silêncio do presidente da República importará sanção.
+
+                           
+
+
+---
+
+7. (2024/CESPE/CEBRASPE/CAU-BR/Analista) O veto do presidente da República
+é apreciado em sessão conjunta pela Câmara dos Deputados e pelo Senado
+Federal.
+
+                          
+
+
+---
+
+8. (2024/CESPE/CEBRASPE/CAU-BR/Analista) Considere-se que uma Proposta
+de Emenda à Constituição (PEC) visando extinguir o Supremo Tribunal Federal e
+contendo 3/5 de assinaturas de parlamentares tenha sido apresentada à
+Comissão de Constituição e Justiça. Nessa situação, a proposta não poderá ser
+objeto de deliberação do colegiado por violar a Constituição Federal de 1988.
+
+                           
+
+
+---
+
+9. (2024/CESPE/CEBRASPE/CAU-BR/Analista) Os projetos de lei propostos pelo
+presidente da República iniciam-se no Senado Federal.
+
+                          
+
+
+---
+
+10. (2024/Quadrix/CREFITO - 8ª Região (PR)/Fiscal Terapeuta Ocupacional) A
+edição de leis delegadas pelo presidente da República não afronta o princípio
+da separação dos poderes.
+
+                           
+
+
+---
+
+11. (2024/FGV/AL-SC/Analista Legislativo) O Governador do Estado Alfa
+apresentou projeto de lei alterando o regime jurídico dos servidores públicos
+estaduais, em que aumentava a gratificação de desempenho de R$500,00 para
+R$600,00; estendia essa gratificação para os ocupantes do cargo XX; e ainda
+aumentava os dias de fruição da licença nojo, de um para dois dias. Maria,
+Deputada Estadual, durante a tramitação do projeto, apresentou emendas com
+o objetivo de:
+I. aumentar o valor da gratificação de desempenho para R$700,00, tendo
+indicado a respectiva fonte de custeio;
+II. estender a gratificação aos ocupantes dos cargos YY e WW; e
+III. amentar o período da licença nojo, de um para três dias.
+
+                           
+
+
+---
+
+À luz dos balizamentos estabelecidos pela Constituição Federal de 1988, é
+correto afirmar que
+A) todas apresentam conformidade constitucional.
+B) nenhuma apresenta conformidade constitucional.
+C) apenas a emenda III apresenta conformidade constitucional.
+D) apenas as emendas I e II apresentam conformidade constitucional.
+E) apenas as emendas II e III apresentam conformidade constitucional.
+
+                         
+
+
+---
+
+12. (2024/FGV/AL-SC/Analista Legislativo) Maria, pesquisadora na área de
+legística, realizou uma análise preliminar dos tipos de procedimento legislativo
+e possíveis distinções que apresentam entre si. Ao fim de suas reflexões,
+concluiu que:
+I – tanto o procedimento normal como o especial se identificam em relação à
+fase de deliberação executiva;
+II – o procedimento sumário se distingue do ordinário por ter prazo para
+terminar; e
+III – todos os procedimentos se identificam em relação às características da fase
+introdutória.
+
+                            
+
+
+---
+
+À luz do entendimento sedimentado nessa seara, em relação às conclusões de
+Maria, é correto afirmar que
+A) todas estão certas.
+B) apenas a conclusão I está certa.
+C) apenas a conclusão II está certa.
+D) apenas as conclusões I e III estão certas.
+E) apenas as conclusões II e III estão certas.
+
+                          
+
+
+---
+
+13. (2024/FGV/AL-SC/Analista Legislativo) O Procurador-Geral de Justiça do
+Ministério Público do Estado Alfa encaminhou projeto de lei complementar à
+Assembleia Legislativa, visando à criação de 10 (dez) cargos de Promotor de
+Justiça Substituto, com o que buscava suprir deficiências da carreira.
+Ao analisar a proposição, um grupo de Deputados Estaduais apresentou
+emenda aditiva visando a alterar a entrância das Promotorias de Justiça
+localizadas nas Comarcas Alfa, Beta e Gama.
+À luz dessa narrativa, é correto afirmar que
+A) na medida em que acarreta aumento de despesa na estruturação dos cargos
+púbicos, o projeto deveria ser apresentado pelo Chefe do Poder Executivo.
+B) como se trata de proposição de iniciativa privativa do Ministério Público, é
+vedada a apresentação de emendas, quaisquer que sejam elas.
+
+
+                           
+
+
+---
+
+C) como não há aumento de despesa na emenda apresentada pelos Deputados
+Estaduais, ela apresenta conformidade constitucional.
+D) em proposições de iniciativa privativa, como é o caso da narrativa, somente
+é permitida a apresentação de emendas de redação.
+E) como a emenda subscrita pelos Deputados Estaduais inova em relação ao
+objeto da proposição, ela não poderia ser apresentada.
+
+                           
+
+
+---
+
+14. (2024/FGV/Câmara de Fortaleza – CE/Consultor) Um grupo de cento e
+setenta e um Deputados Federais apresentou proposta de emenda à
+Constituição, em um momento conturbado do país, no qual duas, das cinco
+regiões, estavam com a paz social afetada em razão de grave instabilidade
+institucional. O objeto da proposta era o aperfeiçoamento da sistemática de
+precatórios, que foi tratada de modo linear nos distintos níveis federativos,
+observadas as peculiaridades afetas ao valor a ser pago e aos credores. A
+proposta veio a ser aprovada em cada Casa do Congresso Nacional, em dois
+turnos, obtendo quarenta e nove votos no Senado Federal e trezentos e sete
+votos na Câmara dos Deputados. Ao final, foi promulgada a Emenda
+Constitucional nº X.
+
+                           
+
+
+---
+
+À luz da sistemática constitucional, é correto afirmar que o processo legislativo
+que culminou com a referida Emenda Constitucional
+A) é compatível com a Constituição da República, não apresentando qualquer
+vício.
+B) afrontou um limite circunstancial de reforma constitucional.
+C) afrontou um limite material de reforma constitucional.
+D) afrontou o quórum de aprovação.
+E) apresentou vício de iniciativa.
+
+                            
+
+
+---
+
+15. (2024/FGV/Câmara de Fortaleza – CE/Consultor) O órgão competente do
+Poder Legislativo aprovou o projeto de lei nº X e o encaminhou para sanção do
+Chefe do Poder Executivo. Dos dez artigos que integram o projeto de lei, foram
+vetados cinco. O Chefe do Poder Executivo, após se inteirar com um assessor
+em relação ao procedimento que deveria adotar, concluiu corretamente, à luz
+da Constituição da República, que
+A) deve aguardar a apreciação dos vetos pelo Poder Legislativo para promulgar
+a lei, o que decorre do princípio da unidade da lei.
+B) a parte incontroversa do projeto de lei deve ser promulgada, mesmo antes
+da manutenção ou da rejeição do veto pelo Poder Legislativo.
+
+                           
+
+
+---
+
+C) a possibilidade de se retratar do veto até o início de sua apreciação pelo
+Poder Legislativo impede a promulgação da lei, com os preceitos não vetados,
+até este momento.
+D) como a promulgação ocorre em momento anterior à sanção, que atua como
+condição suspensiva a cargo do Chefe do Poder Executivo, a parte
+incontroversa da lei deve ser promulgada.
+E) caso o veto seja derrubado, a promulgação passa a ser de competência do
+Presidente da Casa Legislativa competente, logo, o Chefe do Poder Executivo
+não pode promulgar a parte incontroversa.
+
+                           
+
+
+---
+
+---
+
+Da fiscalização contábil, financeira e orçamentária
+
+                 
+
+
+---
+
+1. Controle Externo no âmbito da União
+
+Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e
+patrimonial da União e das entidades da administração direta e indireta,
+quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e
+renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle
+externo, e pelo sistema de controle interno de cada Poder.
+
+Parágrafo único. Prestará contas qualquer pessoa física ou jurídica, pública ou
+privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e
+valores públicos ou pelos quais a União responda, ou que, em nome desta,
+assuma obrigações de natureza pecuniária.
+                            
+
+
+---
+
+2. Controle Externo no âmbito dos estados, Distrito Federal e municípios
+
+
+Art. 75. As normas estabelecidas nesta seção aplicam-se, no que couber, à
+organização, composição e fiscalização dos Tribunais de Contas dos Estados e
+do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos
+Municípios.
+
+Parágrafo único. As Constituições estaduais disporão sobre os Tribunais de
+Contas respectivos, que serão integrados por sete Conselheiros.
+
+                           
+
+
+---
+
+---
+
+3. Controle Interno
+
+
+Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma
+integrada, sistema de controle interno com a finalidade de:
+I - avaliar o cumprimento das metas previstas no plano plurianual, a execução
+dos programas de governo e dos orçamentos da União;
+II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência,
+da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da
+administração federal, bem como da aplicação de recursos públicos por
+entidades de direito privado;
+III - exercer o controle das operações de crédito, avais e garantias, bem como
+dos direitos e haveres da União;
+IV - apoiar o controle externo no exercício de sua missão institucional.
+                             
+
+
+---
+
+4. Composição do TCU
+
+
+Art. 73. O Tribunal de Contas da União, integrado por nove Ministros, tem sede
+no Distrito Federal, quadro próprio de pessoal e jurisdição em todo o território
+nacional, exercendo, no que couber, as atribuições previstas no art. 96.
+
+                            
+
+
+---
+
+§ 1º Os Ministros do Tribunal de Contas da União serão nomeados dentre
+brasileiros que satisfaçam os seguintes requisitos:
+I - mais de trinta e cinco e menos de setenta anos de idade;
+II - idoneidade moral e reputação ilibada;
+III - notórios conhecimentos jurídicos, contábeis, econômicos e financeiros ou
+de administração pública;
+IV - mais de dez anos de exercício de função ou de efetiva atividade profissional
+que exija os conhecimentos mencionados no inciso anterior.
+
+                            
+
+
+---

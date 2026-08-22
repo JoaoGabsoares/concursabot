@@ -1,0 +1,287 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 17_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: QUESTÕES INÉDITAS
+artigos_citados:
+- art. 195
+---
+
+# QUESTÕES INÉDITAS
+
+QUESTÕES INÉDITAS
+EC 132/2023
+
+                                               Prof. Fábio Dutra
+
+          
+
+
+---
+
+Questões Inéditas EC 132/2023
+106. Considerando as alterações introduzidas pela Emenda Constitucional nº 132/2023 na
+Constituição Federal, assinale a alternativa correta sobre o Imposto sobre Bens e Serviços (IBS).
+A) O IBS será instituído por lei ordinária de cada ente federativo, permitindo alíquotas
+diferenciadas entre os Estados e Municípios.
+B) O IBS incidirá cumulativamente em cada etapa da cadeia produtiva, sem possibilidade de
+compensação de créditos.
+C) As exportações serão tributadas pelo IBS, garantindo igualdade de tratamento entre o
+mercado interno e externo.
+D) O IBS terá legislação única e uniforme em todo o território nacional, com alíquotas fixadas por
+cada ente federativo.
+E) O IBS integrará sua própria base de cálculo e a dos demais tributos sobre ele incidentes.
+Gabarito: D
+Prof. Fábio Dutra
+Direito Tributário                                                                         @ProfFabioDutra
+                                    
+
+
+---
+
+Questões Inéditas EC 132/2023
+107. Sobre a Emenda Constitucional nº 132/2023 e as novas disposições sobre a CBS,
+prevista no art. 195, V, da CF, assinale a alternativa errada.
+A) A contribuição sobre bens e serviços será não cumulativa.
+B) A contribuição sobre bens e serviços integrará sua própria base de cálculo, mas poderá
+integrar a de outros tributos.
+C) A alíquota da contribuição sobre bens e serviços será fixada por lei ordinária.
+D) A contribuição sobre bens e serviços não incidirá sobre operações de exportação.
+E) Aplica-se à contribuição sobre bens e serviços o disposto sobre não cumulatividade do
+IBS.
+Gabarito: B
+
+
+Prof. Fábio Dutra
+Direito Tributário                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+Questões Inéditas EC 132/2023
+108. De acordo com as novas disposições constitucionais introduzidas pela Emenda
+Constitucional nº 132/2023, assinale a alternativa correta sobre o Fundo Nacional de
+Desenvolvimento Regional.
+A) O Fundo será constituído exclusivamente por recursos dos Estados e do Distrito Federal.
+B) O objetivo do Fundo é reduzir as desigualdades regionais e sociais, mediante entrega de
+recursos da União aos Estados e ao Distrito Federal.
+C) Os recursos do Fundo poderão ser utilizados livremente pelos Estados, sem necessidade
+de priorização de projetos específicos.
+D) A aplicação dos recursos não precisa considerar critérios de sustentabilidade ambiental.
+E) O Fundo destina-se apenas ao financiamento de projetos de infraestrutura urbana.
+Gabarito: B
+Prof. Fábio Dutra
+Direito Tributário                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+Questões Inéditas EC 132/2023
+109. Considerando as alterações na Constituição Federal promovidas pela Emenda
+Constitucional nº 132/2023, julgue as assertivas abaixo e assinale a sequência correta.
+I. A contribuição para custeio do serviço de iluminação pública poderá ser utilizada para financiar
+sistemas de monitoramento para segurança e preservação de logradouros públicos.
+II. A imunidade tributária prevista para entidades religiosas estende-se às suas organizações
+assistenciais e beneficentes.
+III. O Imposto sobre Bens e Serviços não incidirá sobre prestações de serviço de comunicação nas
+modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita.
+a) V, V, F b) V, F, V c) F, V, V d) V, V, V e) F, F, V
+Gabarito: D
+
+Prof. Fábio Dutra
+Direito Tributário                                                                         @ProfFabioDutra
+                                     
+
+
+---
+
+Questões Inéditas EC 132/2023
+110. Assinale a alternativa incorreta acerca do imposto seletivo previsto na Emenda
+Constitucional nº 132/2023.
+A) O imposto seletivo incidirá uma única vez sobre o bem ou serviço.
+B) Não integrará sua própria base de cálculo.
+C) Poderá ter o mesmo fato gerador e base de cálculo de outros tributos.
+D) Incidirá sobre operações com energia elétrica e telecomunicações.
+E) As alíquotas serão fixadas em lei ordinária e poderão ser específicas ou ad valorem.
+Gabarito: D
+
+Prof. Fábio Dutra
+Direito Tributário                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+Questões Inéditas EC 132/2023
+111. Com base na Emenda Constitucional nº 132/2023, sobre o Imposto sobre Transmissão
+Causa Mortis e Doação (ITCMD), é correto afirmar que:
+A) Compete ao Estado onde está localizado o doador proceder à cobrança do ITCMD, no
+caso de bem imóvel.
+B) O ITCMD poderá ser progressivo em razão do valor do quinhão ou da doação.
+C) Não incidirá sobre transmissões e doações para instituições sem fins lucrativos de
+relevância pública e social.
+D) Não incidirá sobre a transmissão de bens localizados no exterior.
+E) O ITCMD poderá ser instituído por meio de lei ordinária municipal.
+Gabarito: C
+
+
+Prof. Fábio Dutra
+Direito Tributário                                                             @ProfFabioDutra
+                                  
+
+
+---
+
+Questões Inéditas EC 132/2023
+112. Sobre a responsabilidade do Comitê Gestor do Imposto sobre Bens e Serviços, de
+acordo com a Emenda Constitucional nº 132/2023, assinale a alternativa correta.
+A) O Comitê Gestor será composto exclusivamente por representantes da União.
+B) Terá competência para arrecadar o IBS e distribuir o produto da arrecadação entre os
+entes federativos.
+C) Poderá editar regulamentos individualizados para cada Estado e Município.
+D) Não possui independência técnica, administrativa, orçamentária e financeira.
+E) Suas deliberações não dependem de aprovação conjunta dos Estados e Municípios.
+Gabarito: B
+
+Prof. Fábio Dutra
+Direito Tributário                                                                @ProfFabioDutra
+                                 
+
+
+---
+
+Questões Inéditas EC 132/2023
+113. Com base nas alterações constitucionais promovidas pela Emenda Constitucional nº
+132/2023, assinale a alternativa incorreta sobre o Imposto sobre a Propriedade de Veículos
+Automotores (IPVA).
+A) O IPVA poderá ter alíquotas diferenciadas em função do tipo e do valor do veículo.
+B) Não incidirá sobre aeronaves agrícolas e de operadores certificados para prestar serviços
+aéreos a terceiros.
+C) O IPVA não poderá ser progressivo em razão do valor do veículo.
+D) Incidirá sobre veículos automotores terrestres, aquáticos e aéreos.
+E) Compete aos Estados e ao Distrito Federal instituir o IPVA.
+Gabarito: C
+
+
+Prof. Fábio Dutra
+Direito Tributário                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+Questões Inéditas EC 132/2023
+114. A respeito das imunidades tributárias após a Emenda Constitucional nº 132/2023,
+assinale a alternativa correta.
+A) A imunidade das entidades religiosas não se estende às suas organizações assistenciais e
+beneficentes.
+B) A empresa pública prestadora de serviço postal não goza de imunidade tributária.
+C) A vedação de instituir impostos sobre patrimônio, renda ou serviços dos entes
+federativos não se estende às autarquias.
+D) As imunidades não se aplicam aos tributos incidentes sobre serviços de
+telecomunicações.
+E) Os institutos científicos e tecnológicos sem fins lucrativos gozam de imunidade tributária
+em relação ao ITCMD.
+Gabarito: E
+Prof. Fábio Dutra
+Direito Tributário                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+Questões Inéditas EC 132/2023
+115. Considerando a Emenda Constitucional nº 132/2023, assinale a alternativa correta sobre
+o tratamento tributário das microempresas e empresas de pequeno porte.
+A) As microempresas e empresas de pequeno porte não poderão optar por recolher o IBS
+fora do Simples Nacional.
+B) A lei complementar definirá tratamento diferenciado e favorecido para essas empresas,
+inclusive regimes especiais do IBS.
+C) O tratamento diferenciado previsto na Constituição não abrange as contribuições sociais.
+D) Ao optar pela inclusão do IBS no Simples, a empresa poderá apropriar créditos do IBS
+normalmente.
+E) As parcelas do IBS relativas às microempresas serão cobradas pelo regime comum de
+tributação.
+Gabarito: B
+Prof. Fábio Dutra
+Direito Tributário                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+Questões Inéditas EC 132/2023
+116. No que tange ao imposto seletivo instituído pela Emenda Constitucional nº 132/2023,
+julgue as assertivas abaixo e assinale a sequência correta.
+I. O imposto seletivo não incidirá sobre as exportações.
+II. As alíquotas do imposto seletivo serão fixadas em lei complementar.
+III. O imposto seletivo incidirá uma única vez sobre o bem ou serviço.
+a) V, F, V
+b) F, V, F
+c) V, F, F
+d) V, V, V
+e) F, F, V
+Gabarito: A
+Prof. Fábio Dutra
+Direito Tributário                                                               @ProfFabioDutra
+                                  
+
+
+---
+
+Questões Inéditas EC 132/2023
+117. Com base na Emenda Constitucional nº 132/2023, sobre a incidência do Imposto
+sobre a Propriedade Predial e Territorial Urbana (IPTU), assinale a alternativa correta.
+A) A base de cálculo do IPTU poderá ser atualizada pelo Poder Executivo, conforme
+critérios estabelecidos em lei municipal.
+B) O IPTU não poderá ter alíquotas diferenciadas em função da localização e do uso do
+imóvel.
+C) A competência para instituir o IPTU é dos Estados.
+D) O IPTU incide apenas sobre todo imóvel urbano.
+E) A progressividade do IPTU em razão do valor do imóvel é vedada.
+Gabarito: A
+
+
+Prof. Fábio Dutra
+Direito Tributário                                                               @ProfFabioDutra
+                                 
+
+
+---
+
+Questões Inéditas EC 132/2023
+119. Considerando a Emenda Constitucional nº 132/2023, julgue as assertivas abaixo e
+assinale a sequência correta.
+I. O Comitê Gestor do IBS terá independência técnica, administrativa, orçamentária e
+financeira.
+II. As deliberações do Comitê Gestor serão aprovadas com maioria simples dos votos.
+III. O controle externo do Comitê Gestor será exercido pela União.
+a) V, F, F b) V, V, F c) V, F, V d) F, V, V
+e) F, F, F
+Gabarito: A
+
+Prof. Fábio Dutra
+Direito Tributário                                                                @ProfFabioDutra
+                                    
+
+
+---
+
+---
+
+---
+
+---
+
+---

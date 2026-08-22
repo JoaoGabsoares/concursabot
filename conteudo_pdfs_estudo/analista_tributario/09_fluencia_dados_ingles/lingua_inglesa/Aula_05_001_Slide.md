@@ -1,0 +1,308 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 05_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Língua Espanhola
+---
+
+# Língua Espanhola
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+                          PRESENTE SIMPLES
+
+
+                                                                  Prof. Adolfo Sá (vídeos)
+                                                                             @adolfo.sa.9
+                                                                  Prof. Ena Smith (pdfs)
+Língua Espanhola
+Prof. Adinoél Sebastião
+                             
+
+
+---
+
+PRESENTE SIMPLES
+                       SIMPLE PRESENT
+
+                                                                  ADVÉRBIOS
+          ESTRUTURA            VERBO AUXILIAR
+                                                                  (frequência)
+      SUJEITO + BASE - FORM          DO / DOES                 Always, never, often
+
+                          
+
+
+---
+
+PRESENTE SIMPLES
+                   SIMPLE PRESENT
+                       I work.
+                     Eu trabalho.
+
+               I work in a Bank.
+          Eu trabalho em um banco.
+
+                     
+
+
+---
+
+PRESENTE SIMPLES
+                   SIMPLE PRESENT
+                     You/we/they work.
+              Vocês/nós/eles (a)(s) trabalham.
+            We work when the baby is sleeping.
+      Nós trabalhamos quando o bebê está dormindo.
+               You work very well together.
+            Vocês trabalham muito bem juntos.
+            They work best when you are here.
+       Eles trabalham melhor quando você está aqui.
+                      
+
+
+---
+
+PRESENTE SIMPLES
+  SIMPLE PRESENT – 3ª PESSOA SINGULAR
+                       He/she/it works.
+                     Ele/Ela/isto trabalha.
+   The bank teller works from nine to five on Tuesdays and
+                         Thursdays.
+  O caixa bancário trabalha das nove às cinco nas Terças e
+                          Quintas.
+                   She works in a gas station.
+           Ela trabalha em um posto de gasolina.
+       Look at the watch. It works but it is losing time.
+                       
+
+
+---
+
+PRESENTE SIMPLES
+  SIMPLE PRESENT – 3ª PESSOA SINGULAR
+   a) verbos que terminam em s, ss, sh, ch, x
+   US House passes natural gas pipeline permitting reform
+   bill. (www.ogj.com)
+   Câmara dos Deputados dos EUA aprova gasoduto de gás
+   natural permitindo projeto de lei de reforma.
+   He usually watches TV after eating dinner.
+   Ele usualmente assiste TV depois do jantar.
+   My next-door neighbor washes his new car every evening.
+   Meu vizinho de porta lava o novo carro dele a cada
+                      
+
+
+---
+
+PRESENTE SIMPLES
+  SIMPLE PRESENT – 3ª PESSOA SINGULAR
+   B) Também é acrescentado –es nos verbos to go e to do
+   David goes to work by subway.
+   Davi vai para o trabalho de trem.
+    My daughter does her homework every afternoon before
+   dinner.
+   Minha filha faz o dever de casa dela toda tarde antes do
+   jantar.
+   The sun goes up and the sun goes down.
+   O sol se levanta e o sol se põe.
+                      
+
+
+---
+
+PRESENTE SIMPLES
+    SIMPLE PRESENT – 3ª PESSOA SINGULAR
+  C) Para verbos que terminam com a consoante y, existe uma regra simples. É
+                        retirado o y e coloca-se o –ies.
+Pedro studies English and tries to learn it on Tuesdays.
+Pedro estuda Inglês e tenta o aprender nas Terças.
+My sister carries a briefcase to work every day and she relies on me to help her.
+Minha irmã leva uma maleta para o trabalho todos os dias e ela se confia em mim
+para ajudá-la.
+ Because the student applies herself, she can meet the requirements of the
+course.
+Visto que a estudante esforça-se, ela é capaz de atender as exigências do curso.
+If she hurries, she will get here on time because she worries with us.
+                               
+
+
+---
+
+PRESENTE SIMPLES
+  SIMPLE PRESENT – 3ª PESSOA SINGULAR
+   D) A exceção final é o verbo to have, como ele é irregular, se
+   transforma em has na terceira pessoa do Presente Simples e no
+   Present Perfect.
+
+
+   He has a lot of work to do.
+   Ele tem muito trabalho a fazer.
+   She has never been to France.
+   Ela nunca esteve na França.
+
+                          
+
+
+---
+
+PRESENTE SIMPLES
+      SIMPLE PRESENT – INTERROGATIVA
+Are they at home now?
+Eles/Elas estão em casa agora?
+
+
+Is there a teacher in the classroom?
+Há um professor na sala de aula?
+
+                       
+
+
+---
+
+PRESENTE SIMPLES
+      SIMPLE PRESENT – INTERROGATIVA
+
+Does he usually watch TV after eating dinner?
+Ele usualmente assiste TV depois do jantar?
+
+
+Do they work best when you are here?
+Eles trabalham melhor quando você está aqui?
+
+                      
+
+
+---
+
+PRESENTE SIMPLES
+          SIMPLE PRESENT – NEGATIVA
+
+My next-door neighbor does not wash his new car every
+evening.
+Meu vizinho de porta não lava o novo carro dele a cada
+noitinha.
+
+
+I do not work at the café on the corner.
+Eu não trabalho no café da esquina.
+
+                       
+
+
+---
+
+PRESENTE SIMPLES
+
+                SIMPLE PRESENT - USOS
+   a) rotina:
+               Every Monday he goes to an ATM.
+        Toda Segunda-feira ele vai a um caixa eletrônico.
+   b) confirmação de algo que é uma verdade:
+                It usually snows here in December.
+              Geralmente neva aqui em Dezembro.
+   c) falar sobre o futuro:
+                      The train leaves at 3:00.
+                     O trem parte às 3 horas.
+
+                      
+
+
+---
+
+PRESENTE SIMPLES
+ SIMPLE PRESENT - Verbo To Be (Ser, estar)
+                            I am a teacher.
+                       Eu sou uma professora.
+                         You are my student.
+                        Você é meu aluno (a).
+                           He/She/It is here.
+                        Ele/Ela/Isso está aqui.
+                          We are champions.
+                       Nós somos campeões.
+                              You are kind.
+                         Vocês são amáveis.
+                       They are at home now.
+                   Eles/Elas estão em casa agora.
+                        
+
+
+---
+
+PRESENTE SIMPLES
+ SIMPLE PRESENT - There Be (haver, existir)
+
+            There is a teacher in the classroom.
+             Há um professor na sala de aula.
+
+
+       There are many students in this school today.
+           Há muitos alunos nessa escola hoje.
+
+                     
+
+
+---
+
+PRESENTE SIMPLES
+      SIMPLE PRESENT - INTERROGATIVA
+
+Are they at home now?
+Eles/Elas estão em casa agora?
+
+
+Is there a teacher in the classroom?
+Há um professor na sala de aula?
+
+                       
+
+
+---
+
+PRESENTE SIMPLES
+          SIMPLE PRESENT - NEGATIVA
+
+They are not at home now.
+Eles/Elas não estão em casa agora.
+
+
+There is not a teacher in the classroom.
+Não há um professor na sala de aula.
+
+                       
+
+
+---
+
+OBRIGADO!
+                                         Prof. Adolfo Sá
+                                                   @adolfo.sa.9
+
+
+    
+
+
+---
+
+---

@@ -1,0 +1,288 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 04_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '04'
+titulo_aula: CRIADA COM O INTUITO DE REGULAMENTAR O DIREITO CONSTITUCIONAL DE
+---
+
+# CRIADA COM O INTUITO DE REGULAMENTAR O DIREITO CONSTITUCIONAL DE
+
+CRIADA COM O INTUITO DE REGULAMENTAR O DIREITO CONSTITUCIONAL DE
+LEI DE ACESSO À INFORMAÇÃO (LAI)                           ACESSO À INFORMAÇÃO.
+
+                                                                                    SÃO DADOS, PROCESSADOS OU NÃO.
+       CONCEITOS IMPORTANTES                                     INFORMAÇÃO
+                                                                                    UTILIZADOS PARA       PRODUÇÃO     E    TRANSMISSÃO    DE
+                                                                                    CONHECIMENTO.
+
+                 INFORMAÇÃO    QUE   TENHA
+                                                                                    É UMA UNIDADE DE REGISTRO DE INFORMAÇÕES (QUALQUER
+                 SIDO PRODUZIDA, EXPEDIDA,                       DOCUMENTO
+                                                                                    SUPORTE OU FORMATO).
+AUTENTICIDADE    RECEBIDA OU MODIFICADA
+                 POR DETERMINADO INDIVÍDUO,
+                                                                                   É AQUELA SUBMETIDA TEMPORARIAMENTE À RESTRIÇÃO.
+                 EQUIPAMENTO OU SISTEMA.                         INFORMAÇÃO
+                                                                   SIGILOSA        IMPRESCINDIBILIDADE PARA A SEGURANÇA DA SOCIEDADE E DO
+                                                                                   ESTADO.
+                 INFORMAÇÃO            NÃO
+                 MODIFICADA,      INCLUSIVE                      INFORMAÇÃO         RELACIONADA      À   PESSOA   NATURAL   IDENTIFICADA   OU
+ INTEGRIDADE
+                 QUANTO À ORIGEM, TRÂNSITO                         PESSOAL          IDENTIFICÁVEL.
+                 E DESTINO.
+
+                                                              TRATAMENTO DA         CONJUNTO DE AÇÕES REFERENTES À PRODUÇÃO, RECEPÇÃO,
+                 INFORMAÇÃO COLETADA NA                        INFORMAÇÃO           CLASSIFICAÇÃO, UTILIZAÇÃO, ACESSO, ETC.
+
+                 FONTE, COM O MÁXIMO DE
+PRIMARIEDADE
+                 DETALHAMENTO POSSÍVEL, SEM                                         INFORMAÇÃO QUE PODE SER CONHECIDA E UTILIZADA POR
+                                                              DISPONIBILIDADE
+                 MODIFICAÇÕES.                                                      INDIVÍDUOS, EQUIPAMENTOS OU SISTEMAS AUTORIZADOS.
+
+                                                                                                                      ADMINISTRAÇÃO PÚBLICA
+                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+LEI DE ACESSO À INFORMAÇÃO (LAI)                                                                           DIRETRIZES DA LAI
+                                                                        ❑ OBSERVÂNCIA DA PUBLICIDADE COMO PRECEITO GERAL E DO SIGILO COMO
+                                                                          EXCEÇÃO.
+                                                                        ❑ DIVULGAÇÃO DE INFORMAÇÕES DE INTERESSE PÚBLICO, INDEPENDENTEMENTE DE
+                                                                          SOLICITAÇÕES.
+             ABRANGÊNCIA DA LAI
+                                                                        ❑ UTILIZAÇÃO DE MEIOS DE COMUNICAÇÃO VIABILIZADOS PELA TECNOLOGIA DA
+❑ TODOS OS ÓRGÃOS E ENTIDADES PÚBLICAS DOS PODERES                        INFORMAÇÃO.
+  EXECUTIVO, LEGISLATIVO E JUDICIÁRIO DA UNIÃO, DOS
+                                                                        ❑ FOMENTO               AO   DESENVOLVIMENTO   DA   CULTURA   DE   TRANSPARÊNCIA   NA
+  ESTADOS, DO DISTRITO FEDERAL E DOS MUNICÍPIOS.
+                                                                               ADMINISTRAÇÃO PÚBLICA.
+❑ TRIBUNAIS DE CONTAS E MINISTÉRIO PÚBLICO.
+                                                                        ❑ DESENVOLVIMENTO DO CONTROLE SOCIAL DA ADMINISTRAÇÃO PÚBLICA.
+❑ ENTIDADES PRIVADAS SEM FINS LUCRATIVOS QUE RECEBEM
+  RECURSOS PÚBLICOS.
+
+                                                                        QUALQUER PESSOA (A LEI NÃO DIZ CIDADÃO), NATURAL OU JURÍDICA, PODE SOLICITAR
+        SOLICITANTES DE INFORMAÇÃO                                      INFORMAÇÕES AOS ÓRGÃOS E ENTIDADES PÚBLICAS, ATRAVÉS DE QUALQUER MEIO
+                                                                        LEGÍTIMO, DEVENDO O PEDIDO CONTER:
+
+                                                                           •     A IDENTIFICAÇÃO DO REQUERENTE E
+A LEI VEDA QUAISQUER EXIGÊNCIAS RELATIVAS AOS MOTIVOS                      •     A ESPECIFICAÇÃO DA INFORMAÇÃO.
+QUE ENSEJARAM A      SOLICITAÇÃO   DE   INFORMAÇÕES   DE
+INTERESSE PÚBLICO.
+
+
+                                                                                                                                             ADMINISTRAÇÃO PÚBLICA
+                                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                   EXCEÇÕES À RESTRIÇÃO DE ACESSO À INFORMAÇÃO
+                                                                      ❑ INFORMAÇÕES E DOCUMENTOS SOBRE CONDUTAS QUE IMPLIQUEM VIOLAÇÃO DE
+                                                                        VIOLAÇÃO DOS DIREITOS HUMANOS, PRATICADAS POR AGENTES PÚBLICOS OU A
+ LEI DE ACESSO À INFORMAÇÃO (LAI)                                       MANDO DE AUTORIDADES PÚBLICAS (NÃO PODEM SER OBJETO DE RESTRIÇÃO).
+                                                                      ❑ INFORMAÇÕES QUE FOREM NECESSÁRIAS À TUTELA JUDICIAL OU ADMINISTRATIVA
+                                                                        DE DIREITOS FUNDAMENTAIS (NÃO PODEM SER NEGADAS).
+
+
+    SERÁ RESTRITO O ACESSO AOS DADOS                                             CLASSIFICAÇÃO DO GRAU DE SIGILO DA INFORMAÇÃO
+                  RELACIONADOS
+                                                                                                       ULTRASSECRETA
+❑ À DEFESA OU SOBERANIA NACIONAL.                                     ❑ PRAZO DE 25 ANOS.
+❑ À INTEGRIDADE DO TERRITÓRIO NACIONAL.                               ❑ PRORROGÁVEL 1 VEZ, POR IGUAL PERÍODO.
+❑ À VIDA, SEGURANÇA OU SAÚDE DA POPULAÇÃO.                            ❑ CLASSIFICADA PELO PRESIDENTE E VICE-PRESIDENTE, MINISTROS DE ESTADO,
+❑ À ESTABILIDADE FINANCEIRA, ECONÔMICA OU MONETÁRIA                     COMANDANTES DA MARINHA, DO EXÉRCITO E DA AERONÁUTICA, CHEFES DE
+  DO PAÍS.                                                              MISSÕES DIPLOMÁTICAS E CONSULARES PERMANENTES NO EXTERIOR.
+❑ ÀS NEGOCIAÇÕES OU RELAÇÕES INTERNACIONAIS.
+                                                                                                      ❑ PRAZO DE 15 ANOS.
+❑ ÀS INFORMAÇÕES FORNECIDAS EM CARÁTER SIGILOSO POR
+                                                                                                      ❑ SEM PRORROGAÇÕES.
+  OUTROS ESTADOS E ORGANISMOS INTERNACIONAIS.                                       SECRETA
+                                                                                                      ❑ CLASSIFICADA PELAS AUTORIDADES ANTERIORES E
+❑ AOS PLANOS E OPERAÇÕES ESTRATÉGICOS DAS FORÇAS
+                                                                                  RESERVADA             TITULARES MÁXIMOS DA ADMINISTRAÇÃO INDIRETA.
+  ARMADAS.
+❑ AOS PROJETOS DE PESQUISA E DESENVOLVIMENTO                                   ❑ PRAZO DE 5 ANOS.
+  CIENTÍFICO OU TECNOLÓGICO.
+                                                                               ❑ SEM PRORROGAÇÕES.
+❑ ÀS INSTITUIÇÕES OU ALTAS AUTORIDADES NACIONAIS OU                            ❑ CLASSIFICADA PELAS AUTORIDADES ANTERIORES E AS QUE EXERÇAM FUNÇÃO
+  ESTRANGEIRAS E SEUS FAMILIARES.
+                                                                                 DE DIREÇÃO, COMANDO OU CHEFIA (DAS 101.5).
+❑ ÀS    ATIVIDADES   DE   INTELIGÊNCIA,  INVESTIGAÇÃO,
+                                                                               ❑ AS INFORMAÇÕES QUE PUDEREM COLOCAR EM RISCO A SEGURANÇA DO
+  FISCALIZAÇÃO E REPRESSÃO DE INFRAÇÕES.
+                                                                                 PRESIDENTE DA REPÚBLICA, DO VICE-PRESIDENTE DA REPÚBLICA, OU DE SEUS
+❑ ÀS HIPÓTESES LEGAIS DE SIGILO OU SEGREDO DE JUSTIÇA.                           RESPECTIVOS CÔNJUGES E FILHOS, SERÃO CLASSIFICADAS COMO RESERVADAS.
+❑ AO SEGREDO INDUSTRIAL POR EXPLORAÇÃO DE ATIVIDADE
+                                                                                                                                     ADMINISTRAÇÃO PÚBLICA
+  ECONÔMICA.
+                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                     O TRATAMENTO DAS INFORMAÇÕES PESSOAIS DEVE SER FEITO DE FORMA TRANSPARENTE E
+                                                                     COM RESPEITO À INTIMIDADE, VIDA PRIVADA, HONRA E IMAGEM DAS PESSOAS.
+
+ LEI DE ACESSO À INFORMAÇÃO (LAI)
+                                                                     COM O CONSENTIMENTO DA PESSOA A QUE A INFORMAÇÃO SE REFERE, A INFORMAÇÃO
+                                                                     PESSOAL PODERÁ SER DIVULGADA E ACESSADA POR OUTRAS PESSOAS.
+
+                                                                                                                        ❑ À INTIMIDADE.
+
+DURANTE UM PRAZO MÁXIMO DE 100 ANOS, SOMENTE OS AGENTES PÚBLICOS LEGALMENTE AUTORIZADOS, BEM                            ❑ À VIDA PRIVADA.
+COMO AS PESSOAS A QUE AS INFORMAÇÕES SE REFEREM, PODERÃO TER ACESSO A INFORMAÇÕES PESSOAIS RELATIVAS:                   ❑ À HONRA.
+                                                                                                                        ❑ À IMAGEM.
+EXISTEM ALGUNS CASOS EM QUE PODE SER DISPENSADO O CONSENTIMENTO:
+❑ PREVENÇÃO E DIAGNÓSTICO MÉDICO, QUANDO A PESSOA ESTIVER FÍSICA OU LEGALMENTE INCAPAZ, E PARA UTILIZAÇÃO ÚNICA E EXCLUSIVAMENTE PARA O
+  TRATAMENTO MÉDICO.
+
+❑ PESQUISA E ESTATÍSTICA CIENTÍFICA DE EVIDENTE INTERESSE PÚBLICO, PRESERVANDO A IDENTIFICAÇÃO DAS PESSOAS A QUEM SE REFERIR.
+❑ CUMPRIMENTO DE ORDEM JUDICIAL.                                                      ❑ IMPOR SIGILO À INFORMAÇÃO PARA OBTER PROVEITO PESSOAL OU DE TERCEIRO,
+❑ DEFESA DE DIREITOS HUMANOS.                                                               OU PARA FINS DE OCULTAÇÃO DE ATO ILEGAL COMETIDO POR SI OU POR
+                                                                                            OUTREM.
+❑ PROTEÇÃO DE INTERESSE PÚBLICO, GERAL OU PREPONDERANTE.
+                                                                                      ❑ OCULTAR DA REVISÃO DE AUTORIDADE SUPERIOR COMPETENTE INFORMAÇÃO
+                                                                                        SIGILOSA PARA BENEFICIAR A SI OU A OUTREM, OU EM PREJUÍZO DE TERCEIROS.
+ CONDUTAS CONSIDERADAS ILÍCITAS NO ÂMBITO DA LAI
+                                                                                      ❑ DESTRUIR OU SUBTRAIR, POR QUALQUER MEIO, DOCUMENTOS CONCERNENTES
+❑ RECUSAR-SE A FORNECER INFORMAÇÃO REQUERIDA, NOS TERMOS DA LAI.                            A POSSÍVEIS VIOLAÇÕES DE DIREITOS HUMANOS POR PARTE DE AGENTES DO
+❑ RETARDAR DELIBERADAMENTE O FORNECIMENTO DA INFORMAÇÃO.                                    ESTADO.
+
+❑ FORNECER A INFORMAÇÃO INTENCIONALMENTE DE FORMA INCORRETA, INCOMPLETA OU IMPRECISA.
+❑ UTILIZAR INDEVIDAMENTE, BEM COMO SUBTRAIR, DESTRUIR, INUTILIZAR, DESFIGURAR, ALTERAR OU OCULTAR, TOTAL OU
+  PARCIALMENTE, INFORMAÇÃO QUE SE ENCONTRE SOB SUA GUARDA OU A QUE TENHA ACESSO OU CONHECIMENTO.
+
+❑ AGIR COM DOLO OU MÁ-FÉ NA ANÁLISE DAS SOLICITAÇÕES DE ACESSO À INFORMAÇÃO.                                                                 ADMINISTRAÇÃO PÚBLICA
+                                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                    ATENÇÃO!! AS CONDUTAS ILÍCITAS PREVISTAS NA LAI PODEM ENSEJAR A
+LEI DE ACESSO À INFORMAÇÃO (LAI)                                    RESPONSABILIDADE DO AGENTE PÚBLICO OU MILITAR.
+
+ATENÇÃO!! ESSAS PENALIDADES PODEM SER APLICADAS
+TANTO ÀS PESSOAS FÍSICAS COMO TAMBÉM ÀS ENTIDADES
+PRIVADAS   (PESSOAS JURÍDICA DE DIREITO PRIVADO) EM
+FUNÇÃO DE INFORMAÇÕES QUE DETIVERAM EM RAZÃO DE
+VÍNCULO COM O PODER PÚBLICO.
+
+
+                                                          ❑ ADVERTÊNCIA.
+                                                          ❑ MULTA.
+                                                          ❑ RESCISÃO DO VÍNCULO COM O PODER PÚBLICO.
+                    SANÇÕES NO ÂMBITO DA LAI              ❑ SUSPENSÃO TEMPORÁRIA DE PARTICIPAR EM LICITAÇÃO E IMPEDIMENTO DE CONTRATAR
+                                                            (PRAZO NÃO SUPERIOR A 2 ANOS).
+                                                          ❑ DECLARAÇÃO DE INIDONEIDADE PARA LICITAR OU CONTRATAR COM A ADMINISTRAÇÃO
+                                                            PÚBLICA.
+
+                                                                                                                       ADMINISTRAÇÃO PÚBLICA
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+TRANSPARÊNCIA ATIVA X PASSIVA                                                    TRANSPARÊNCIA ATIVA
+                                                                          ❑INICIATIVA PRÓPRIA.
+                                                                          ❑INDEPENDE DE PEDIDO OU SOLICITAÇÃO.
+                                                                          ❑PORTAIS DA TRANSPARÊNCIA.
+
+
+       TRANSPARÊNCIA PASSIVA
+❑PROVOCADA.
+❑DEPENDE DE PEDIDO OU SOLICITAÇÃO.
+❑SERVIÇO DE INFORMAÇÃO AO CIDADÃO.
+
+                                                                                                       ADMINISTRAÇÃO PÚBLICA
+                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+ TRANSPARÊNCIA NO CONTEXTO DA LRF
+
+                  INSTRUMENTOS
+❑OS PLANOS, ORÇAMENTOS E LEIS DE DIRETRIZES ORÇAMENTÁRIAS.
+❑AS PRESTAÇÕES DE CONTAS E O RESPECTIVO PARECER PRÉVIO.
+❑O RELATÓRIO RESUMIDO DA EXECUÇÃO ORÇAMENTÁRIA (RREO).
+❑O RELATÓRIO DE GESTÃO FISCAL (RGF).
+❑AS VERSÕES SIMPLIFICADAS DESSES DOCUMENTOS.
+❑INCENTIVO À PARTICIPAÇÃO POPULAR E REALIZAÇÃO DE AUDIÊNCIAS PÚBLICAS.
+❑ACOMPANHAMENTO DA SOCIEDADE, EM TEMPO REAL, DE INFORMAÇÕES PORMENORIZADAS SOBRE A
+ EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA.
+❑ADOÇÃO DO SISTEMA INTEGRADO DE ADMINISTRAÇÃO FINANCEIRA.
+                                                                            ADMINISTRAÇÃO PÚBLICA
+                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+PORTAL DA TRANSPARÊNCIA                                 DEFINIÇÃO: TRATA-SE DE UM SITE DE ACESSO LIVRE, ONDE SE PODE ENCONTRAR
+  (GOVERNO FEDERAL)                                     INFORMAÇÕES SOBRE COMO O DINHEIRO PÚBLICO É UTILIZADO (CONTROLE SOCIAL).
+
+
+                                                        ❑ ORÇAMENTO ANUAL.
+                                                        ❑ RECEITAS PÚBLICAS.
+                                                        ❑ DESPESAS PÚBLICAS.
+                                                        ❑ RECURSOS FEDERAIS TRANSFERIDOS PARA OUTROS ENTES DA FEDERAÇÃO.
+                                                        ❑ GASTOS POR CARTÃO DE PAGAMENTO.
+                                                        ❑ ÁREAS DE ATUAÇÃO DO GOVERNO.
+                                                        ❑ PROGRAMAS DE GOVERNO.
+                                                        ❑ BENEFÍCIOS AOS CIDADÃOS.
+
+INFORMAÇÕES DISPONIBILIZADAS NO PORTAL                  ❑ PROGRAMAS E AÇÕES ORÇAMENTÁRIAS.
+         DA TRANSPARÊNCIA                               ❑ EMENDAS PARLAMENTARES
+                                                        ❑ ÓRGÃOS DO GOVERNO.
+                                                        ❑ SERVIDORES PÚBLICOS.
+                                                        ❑ VIAGENS A SERVIÇO.
+                                                        ❑ IMÓVEIS FUNCIONAIS.
+                                                        ❑ LICITAÇÕES.
+                                                        ❑ CONTRATAÇÕES.
+                                                        ❑ CONVÊNIOS E OUTROS ACORDOS.
+                                                        ❑ SANÇÕES.                                             ADMINISTRAÇÃO PÚBLICA
+                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                         É UMA INICIATIVA INTERNACIONAL QUE PRETENDE DIFUNDIR E
+         GOVERNO ABERTO
+                                                                                         INCENTIVAR      GLOBALMENTE   PRÁTICAS   GOVERNAMENTAIS
+(OPEN GOVERNMENT PARTNERSHIP – OGP)                                                      RELACIONADAS:
+                                                                                         ❑ À TRANSPARÊNCIA DOS GOVERNOS,
+                                                                                         ❑ AO ACESSO À INFORMAÇÃO PÚBLICA E
+                                                                                         ❑ À PARTICIPAÇÃO SOCIAL.
+
+                                       O GOVERNO ABERTO POSSUI 4 PRINCÍPIOS:
+                                       ❑ TRANSPARÊNCIA.
+                                       ❑ PRESTAÇÃO                DE                     CONTAS
+                                         (ACCOUNTABILITY).
+                                       ❑ PARTICIPAÇÃO CIDADÃ.
+                                       ❑ TECNOLOGIA E INOVAÇÃO.
+
+     O GOVERNO ABERTO POSSUI 4 OBJETIVOS:
+     ❑ AUMENTAR       A   DISPONIBILIDADE   DE
+       INFORMAÇÕES.
+
+     ❑ IMPLEMENTAR OS PADRÕES MAIS ALTOS
+       DE INTEGRIDADE PROFISSIONAL.
+
+     ❑ APOIAR A PARTICIPAÇÃO SOCIAL.
+     ❑ AMPLIAR    O       ACESSO   A    NOVAS
+       TECNOLOGIAS.                                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---

@@ -1,0 +1,7280 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 01_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Índice
+artigos_citados:
+- Art. 1º
+- Art. 201.
+- Art. 40.
+- 'art.
+
+  194'
+- 'art.
+
+  203'
+- art. 2
+- art. 203
+- art.195
+---
+
+# Índice
+
+Índice
+1)  Introdução ao Curso - Receita Federal (FGV)
+
+
+)  Conceito, Organização e Princípios Constitucionais da Seguridade Social                                                                                                                   7
+
+3)  Questões                                                                                                                                                                                71
+)  Resumo                                                                                                                                                                                181
+..............................................................................................................................................................................................
+
+)  Considerações Finais                                                                                                                                                                  185
+
+
+---
+
+INTRODUÇÃO E ROTEIRO DA AULA
+Olá Pessoal! É com imensa satisfação que iniciamos nosso Curso de Direito
+Previdenciário para o concurso da Receita Federal do Brasil - RFB.
+Meu nome é Rubens Maurício. Sou Auditor-Fiscal da Receita Federal do Brasil,
+Professor de Direito Previdenciário, Coach do Estratégia Concursos e Analista do
+Passo Estratégico.
+Nesta minha trajetória de concursos públicos, fui aprovado e nomeado para os
+seguintes cargos:
+  • Técnico Judiciário do TRT/2ª Região;
+  • Agente de Fiscalização Judiciária do TJ/SP;
+  • Oficial de Justiça do 2º TAC/SP;
+  • Analista-Tributário da Receita Federal do Brasil;
+  • Auditor-Fiscal da Previdência Social;
+  • Auditor-Fiscal da Receita Federal do Brasil (cargo atual).
+Após todos esses anos de convivência ao lado de alunos e grandes amigos
+concursandos, aprovados nos mais diversos concursos públicos por todo o país,
+pude somar experiências pessoais e agregá-las às experiências compartilhadas
+pelos demais colegas. E são estes ensinamentos que buscarei transmitir-lhes
+durante nosso curso.
+Mais do que ensinar o mapa da mina de Direito Previdenciário, buscarei utilizar
+minha experiência como mentor de concursos para auxiliá-los na organização e
+metodologia dos estudos. Buscaremos, juntos, alcançar sua aprovação em
+concursos públicos, com foco não apenas naquilo que deve ser feito, mas também
+no “como” deve ser feito.
+O presente Curso de Direito Previdenciário será “diagramado", para melhor
+fixação dos conceitos, buscando ser, ao mesmo tempo, profundo e objetivo nas
+abordagens, focado em conceitos, palavras-chave e fixação do conteúdo mais
+cobrado em prova, nos termos dos respectivos programas contidos dos últimos
+editais. Nosso objetivo será único: gabaritarmos as provas de Direito
+Previdenciário, por meio do estudo de uma teoria focada em resultado e uma
+grande quantidade de questões cuidadosamente comentadas.
+
+
+---
+
+As vantagens de estudar por um curso em PDF é que as atualizações serão
+constantes e permanentes, sempre que houver qualquer alteração na legislação
+previdenciária ou mudança de entendimento dos tribunais (alteração
+jurisprudencial).
+Além disso, o material é feito na medida certa do seu edital e da sua prova, evitando
+que você estude mais ou menos do que necessário.
+Outrossim, teremos questões comentadas dentro de cada tópico do material, bem
+como uma lista consolidada das questões comentadas ao final de cada PDF.
+O conteúdo será tratado com foco na banca escolhida para o concurso (Fundação
+Getúlio Vargas – FGV),      contemplando questões comentadas de Direito
+Previdenciário dos últimos concursos da FGV. Contudo, como não há muitas
+questões de concursos anteriores da FGV na nossa disciplina, iremos comentar,
+também, questões de outras bancas, além de questões inéditas e atualizadas.
+Ademais, apresentaremos resumos ao final das aulas. Algumas aulas parecerão
+longas, em virtude do grande número de páginas. Contudo, trata-se de aulas
+rápidas, agradáveis e fáceis de estudar. O tamanho do material decorre,
+principalmente, da existência de diversos diagramas dentro de cada assunto, com
+o objetivo de facilitar sua retenção. Além disso, uma boa parte do material está
+ocupada por questões comentadas, questionário de revisão e resumos. Ou seja,
+mesmo as aulas mais longas não serão cansativas, pois possuem muito conteúdo
+visual e exercícios.
+Por fim, iremos disponibilizar na área do aluno os slides utilizados nas videoaulas e
+os resumos de cada assunto.
+Temos também um fórum de dúvidas, para ajuda a sanar suas dúvidas em relação
+ao conteúdo estudado. Contudo, o fórum deve ser utilizado com cautela e
+sabedoria. Antes de postar uma pergunta no fórum, recomendo que termine de ler
+a aula, pois grande parte das dúvidas são esclarecidas dentro do próprio material.
+Também recomendo que, antes de postar uma nova pergunta, veja se sua dúvida
+já não foi esclarecida anteriormente em outra pergunta já respondida.
+Vamos juntos em busca da sua preparação em alta performance e de sua
+aprovação. Conte comigo!
+
+
+---
+
+PREPARANDO-SE PARA ESTUDAR
+                           ✓   Prepare seu ambiente de estudo.
+                           ✓   Desligue o celular.
+                           ✓   Saia da internet.
+                           ✓   Iluminação adequada.
+A maneira mais eficaz e eficiente para ser aprovado em concursos públicos passa,
+necessariamente, por algumas etapas relacionadas com seu planejamento
+estratégico de preparação. O presente material tentará ajudá-lo na caminhada por
+cada uma destas etapas, buscando levá-lo rapidamente à aprovação.
+As etapas de preparação necessárias até sua aprovação, em resumo, são:
+         • Captação da informação;
+         • Aprofundamento do conhecimento;
+         • Memorização;
+         • Fixação.
+
+A captação da informação ocorre através do estudo do conteúdo teórico, onde
+podemos obter o conhecimento dos assuntos cobrados em prova de forma geral e
+contextualizada.
+O aprofundamento do conhecimento ocorre com o detalhamento de cada um dos
+assuntos estudados dentro da disciplina, bem como o estudo dos textos legais
+comentados, apresentação de exemplos, análise da jurisprudência, permitindo ao
+aluno não apenas conhecer a matéria, mas entender e aprofundar seu conteúdo.
+A memorização ocorrerá por meio de revisões sistemáticas, destaque de palavras-
+chave, diagramas, quadros comparativos, dicas e macetes. Para ajudá-los também
+nesta etapa, apresentarei, durante nossas aulas, diversos diagramas para melhor
+retenção de conteúdo, bem como um resumo organizado em tópicos, apresentado
+ao final de cada aula, contendo os pontos mais importantes da matéria estudada.
+A fixação ocorrerá com a resolução de exercícios de provas anteriores e simulados
+com questões inéditas. Cada questão será cuidadosamente comentada pelo
+professor, permitindo ao aluno conhecer como a matéria é cobrada, qual o
+entendimento da banca, além de treinar a resolução e fixar os conceitos estudados.
+Traremos, outrossim, “questionários de revisão”, para consolidar, ainda mais, os
+conceitos básicos da disciplina.
+
+
+---
+
+   Antes de iniciarmos o nosso curso, vamos a alguns AVISOS IMPORTANTES:
+
+  1) Com o objetivo de otimizar os seus estudos, você encontrará, em nossa plataforma
+      (Área do aluno), alguns recursos que irão auxiliar bastante a sua aprendizagem, tais
+      como “Resumos”, “Slides” e “Mapas Mentais” dos conteúdos mais importantes do
+      curso. Essas ferramentas de aprendizagem irão te auxiliar a perceber quias tópicos
+      da matéria você precisa dominar, que você não pode ir para a prova sem ler.
+
+  2) Em nossa Plataforma, procure pela Trilha Estratégica e Monitoria da sua respectiva
+      área/concurso alvo. A Trilha Estratégica é elaborada pela nossa equipe do
+      Coaching. Ela irá te indicar qual é exatamente o melhor caminho a ser seguido em
+      seus estudos e vai te ajudar a responder as seguintes perguntas:
+         •   Qual a melhor ordem para estudar as aulas? Quais são os assuntos mais
+             importantes?
+         •   Qual a melhor ordem de estudo das diferentes matérias? Por onde eu
+             começo?
+         •   “Estou sem tempo e o concurso está próximo!” Posso estudar apenas
+             algumas partes do curso? O que priorizar?
+         •   O que fazer a cada sessão de estudo? Quais assuntos revisar e quando devo
+             revisá-los?
+         •   A quais questões deve ser dada prioridade? Quais simulados devo resolver?
+         •   Quais são os trechos mais importantes da legislação?
+
+  3) Procure, nas instruções iniciais da “Monitoria”, pelo Link da nossa “Comunidade de
+      Alunos” no Telegram da sua área / concurso alvo. Essa comunidade é exclusiva para
+      os nossos assinantes e será utilizada para orientá-los melhor sobre a utilização da
+      nossa Trilha Estratégica. As melhores dúvidas apresentadas nas transmissões da
+      “Monitoria” também serão respondidas na nossa Comunidade de Alunos do
+      Telegram.
+
+(*) O Telegram foi escolhido por ser a única plataforma que preserva a intimidade dos
+assinantes e que, além disso, tem recursos tecnológicos compatíveis com os objetivos da
+nossa Comunidade de Alunos.
+
+
+---
+
+SEGURIDADE SOCIAL - CONCEITUAÇÃO
+
+3.1. CONCEITUAÇÃO
+
+Iniciaremos conceituando a Seguridade Social, conceito este que nos é dado pela
+própria Constituição Federal, em seu art. 194, conforme segue:
+    “Art. 194. A Seguridade Social compreende um conjunto integrado de ações de iniciativa
+    dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde,
+    à previdência e à assistência social.”
+
+
+Podemos dizer, portanto, que a Seguridade Social é gênero, dos quais são espécies
+Saúde, Assistência Social e Previdência Social.
+
+    Art. 194
+     CF/88
+
+          A Seguridade                                          Poderes Públicos
+        Social compreende                      de
+           um conjunto                     iniciativa
+            integrado                         dos
+             de ações                                                Sociedade
+
+
+                                destinados a assegurar os
+                                   direitos relativos a
+
+
+                                          Assistência                 Previdência
+                Saúde
+                                            Social                       Social
+
+O conceito constitucional da Seguridade Social não costuma causar quaisquer
+dificuldades de interpretação ou de memorização ao candidato. No entanto, muita
+
+
+---
+
+atenção às palavras-chave destacadas abaixo, pois não são raras questões de
+provas abordando tais assuntos:
+   • As ações destinadas a assegurar os direitos relativos à Saúde, Assistência
+     Social e Previdência Social são ações integradas.
+   • As ações destinadas a assegurar os direitos relativos à Saúde, Assistência
+     Social e Previdência Social são de iniciativa dos “Poderes Públicos” e da
+     “Sociedade”.
+Vejamos as principais características das espécies que compõe a Seguridade Social:
+
+SAÚDE
+
+Destinatários: A saúde é direito de todos e dever do Estado. Assim sendo, os
+serviços públicos de saúde no Brasil se destinam a todos, sejam pobres ou ricos,
+necessitados ou abastados.
+Contribuição: Os serviços públicos de saúde são gratuitos, independendo,
+portanto, de qualquer contribuição para a Seguridade Social.
+A saúde será garantida mediante políticas sociais e econômicas que visem:
+   • à redução do risco de doença e de outros agravos;
+   • acesso universal e igualitário às ações e serviços para sua promoção,
+     proteção e recuperação.
+
+
+São de relevância pública as ações e serviços de saúde, cabendo ao Poder Público
+dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle,
+devendo sua execução ser feita:
+   • diretamente
+   • através de terceiros
+   • por pessoa física ou jurídica de direito privado.
+
+
+As ações e serviços públicos de saúde integram uma rede regionalizada e
+hierarquizada e constituem um sistema único, organizado de acordo com as
+seguintes diretrizes:
+
+
+---
+
+   • descentralização, com direção única em cada esfera de governo;
+   • atendimento integral, com prioridade para as atividades preventivas, sem
+     prejuízo dos serviços assistenciais;
+   • participação da comunidade.
+
+
+O sistema único de saúde será financiado com recursos do orçamento:
+   • da Seguridade Social;
+   • da União;
+   • dos Estados;
+   • do Distrito Federal;
+   • dos Municípios;
+   • outras fontes.
+
+A assistência à saúde é livre à iniciativa privada.
+As instituições privadas poderão participar de forma complementar do sistema
+único de saúde, segundo diretrizes deste, mediante contrato de direito público ou
+convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos.
+É vedada a destinação de recursos públicos para auxílios ou subvenções às
+instituições privadas com fins lucrativos.
+É vedada a participação direta ou indireta de empresas ou capitais estrangeiros na
+assistência à saúde no País, salvo nos casos previstos em lei.
+
+Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei:
+   • controlar e fiscalizar procedimentos, produtos e substâncias de interesse para
+     a saúde e participar da produção de medicamentos, equipamentos,
+     imunobiológicos, hemoderivados e outros insumos;
+   • executar as ações de vigilância sanitária e epidemiológica, bem como as de
+     saúde do trabalhador;
+   • ordenar a formação de recursos humanos na área de saúde;
+   • participar da formulação da política e da execução das ações de saneamento
+     básico;
+
+
+---
+
+   • incrementar, em sua área de atuação, o desenvolvimento científico e
+     tecnológico e a inovação;
+   • fiscalizar e inspecionar alimentos, compreendido o controle de seu teor
+     nutricional, bem como bebidas e águas para consumo humano;
+   • participar do controle e fiscalização da produção, transporte, guarda e
+     utilização de substâncias e produtos psicoativos, tóxicos e radioativos;
+   • colaborar na proteção do meio ambiente, nele compreendido o do trabalho.
+
+ASSISTÊNCIA SOCIAL
+
+Destinatários: A Assistência Social, conforme disposto no art. 203 da Constituição
+Federal, será prestada a quem dela necessitar. Assim sendo, a Assistência Social no
+Brasil não se destina a todos, mas apenas às pessoas necessitadas.
+Contribuição: O art. 203 da CF também determina que a Assistência Social, assim
+como os serviços públicos de saúde, será prestada independentemente de
+contribuição à Seguridade Social.
+Objetivos da Assistência Social:
+       • a proteção à família, à maternidade, à infância, à adolescência e à
+         velhice;
+       • o amparo às crianças e adolescentes carentes;
+       • a promoção da integração ao mercado de trabalho;
+       • a habilitação e reabilitação das pessoas portadoras de deficiência e a
+         promoção de sua integração à vida comunitária;
+       • a garantia de um salário-mínimo de benefício mensal à pessoa portadora
+         de deficiência e ao idoso que comprovem não possuir meios de prover
+         à própria manutenção ou de tê-la provida por sua família, conforme
+         dispuser a lei; e
+       • a redução da vulnerabilidade socioeconômica de famílias em situação
+         de pobreza ou de extrema pobreza.
+
+
+---
+
+As ações governamentais na área da assistência social serão realizadas com
+recursos do orçamento:
+        • da seguridade social;
+        • de outras fontes.
+
+
+Tais ações, na área de assistência social, serão organizadas com base nas seguintes
+diretrizes:
+        • descentralização político-administrativa, cabendo a coordenação e as
+          normas gerais à esfera federal e a coordenação e a execução dos
+          respectivos programas às esferas estadual e municipal, bem como a
+          entidades beneficentes e de assistência social;
+        • participação da população, por meio de organizações representativas,
+          na formulação das políticas e no controle das ações em todos os níveis.
+
+PREVIDÊNCIA SOCIAL
+
+Destinatários: A Previdência Social será destinada aos beneficiários, que são as
+pessoas que recebem ou possam vir a receber as prestações previdenciárias
+(benefícios e/ou serviços). Os beneficiários se dividem em segurados e
+dependentes.
+
+
+Contribuição: Nos termos do Art. 201 da Constituição Federal, a Previdência Social
+será organizada sob a forma de regime geral, de caráter contributivo e de filiação
+obrigatória. Assim sendo, apenas os segurados que contribuam para a Previdência
+Social, bem como seus dependentes, poderão fazer jus às prestações
+previdenciárias (benefícios e/ou serviços). Ademais, toda pessoa física que exerça
+alguma atividade remunerada será, obrigatoriamente, filiada ao Regime Geral de
+Previdência Social, exceto se esta atividade gerar filiação obrigatória a Regime
+Próprio de Previdência.
+Como vimos, a previdência social será organizada sob a forma de regime geral, de
+caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+
+
+---
+
+       • cobertura dos eventos de incapacidade temporária ou permanente para
+         o trabalho e idade avançada;
+       • proteção à maternidade, especialmente à gestante;
+       • proteção ao trabalhador em situação de desemprego involuntário;
+       • salário-família e auxílio-reclusão para os dependentes dos segurados de
+         baixa renda;
+       • pensão por morte do segurado, homem ou mulher, ao cônjuge ou
+         companheiro e dependentes.
+
+    Equilíbrio financeiro é a garantia de equivalência entre as receitas
+    auferidas e as obrigações do regime previdenciário em cada exercício
+    financeiro.
+    Equilíbrio atuarial é a garantia de equivalência, a valor presente, entre o
+    fluxo das receitas estimadas e das obrigações projetadas, apuradas a
+    longo prazo.
+
+Outrossim, relaciono abaixo outras importantes disposições constitucionais
+aplicáveis à Previdência Social, que poderão ser objeto de prova, as quais serão
+detalhadas durante o nosso curso:
+  • É vedada a adoção de requisitos e critérios diferenciados para a concessão
+    de benefícios, ressalvada, nos termos de lei complementar, a possibilidade
+    de previsão de idade e tempo de contribuição distintos da regra geral para
+    concessão de aposentadoria exclusivamente em favor dos segurados:
+        o com deficiência, previamente submetidos a avaliação biopsicossocial
+          realizada por equipe multiprofissional e interdisciplinar;
+        o cujas atividades sejam exercidas com efetiva exposição a agentes
+          químicos, físicos e biológicos prejudiciais à saúde, ou associação desses
+          agentes, vedada a caracterização por categoria profissional ou
+          ocupação.
+  • As receitas dos Estados, do Distrito Federal e dos Municípios destinadas à
+    seguridade social constarão dos respectivos orçamentos, não integrando o
+    orçamento da União.
+
+
+---
+
+• A proposta de orçamento da seguridade social será elaborada de forma
+  integrada pelos órgãos responsáveis pela saúde, previdência social e
+  assistência social, tendo em vista as metas e prioridades estabelecidas na lei
+  de diretrizes orçamentárias,       assegurada a cada área a gestão de seus
+  recursos.
+• Nenhum benefício que substitua o salário de contribuição ou o rendimento
+  do trabalho do segurado terá valor mensal inferior ao salário mínimo.
+• É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter
+  permanente, o valor real, conforme critérios definidos em lei.
+• A lei definirá os critérios de transferência de recursos para o sistema único de
+  saúde e ações de assistência social da União para os Estados, o Distrito
+  Federal e os Municípios, e dos Estados para os Municípios, observada a
+  respectiva contrapartida de recursos.
+• São vedados a moratória e o parcelamento em prazo superior a 60 (sessenta)
+  meses e, na forma de lei complementar, a remissão e a anistia das
+  contribuições sociais a seguir:
+           o contribuição social do empregador, da empresa e da entidade a
+             ela equiparada na forma da lei, incidentes sobre folha de salários
+             e demais rendimentos do trabalho pagos ou creditados, a
+             qualquer título, à pessoa física que lhe preste serviço, mesmo sem
+             vínculo empregatício;
+           o   Contribuição social do trabalhador e dos demais segurados da
+               previdência social.
+• A lei definirá os setores de atividade econômica para os quais as
+  contribuições sociais do empregador, da empresa e da entidade a ela
+  equiparada na forma da lei, incidentes sobre a receita ou o faturamento, bem
+  como a contribuição social do importador de bens ou serviços do exterior,
+  ou de quem a lei a ele equiparar, serão não-cumulativas.
+• O segurado somente terá reconhecida como tempo de contribuição ao
+  Regime Geral de Previdência Social a competência cuja contribuição seja
+  igual ou superior à contribuição mínima mensal exigida para sua categoria,
+  assegurado o agrupamento de contribuições.
+
+
+---
+
+                        Seguridade
+                          Social
+
+                         Assistência             Previdência
+     Saúde
+                           Social                   Social
+
+ direito de todos       direito dos que            direito dos
+e dever do estado        necessitarem             beneficiários
+                                               (segurados/dependentes)
+
+   independe              independe                  caráter
+       de                     de                  contributivo
+  contribuição           contribuição            e compulsório
+
+     Vejamos como tais assuntos já foram cobrados em prova:
+
+
+---
+
+(FCC - Juiz Do Trabalho - TRT 1ª Região – 2012)
+A seguridade social compreende um conjunto integrado de ações:
+a) De iniciativa da sociedade, reguladas pelos Poderes Públicos, destinadas a assegurar os direitos
+relativos a saúde, previdência e assistência social.
+b) Exclusivas dos Poderes Públicos, destinadas a prover, quando materialmente possível, os direitos
+relativos a saúde, previdência e assistência social.
+c) Exclusivas dos Poderes Públicos, destinadas a assegurar os direitos relativos a saúde, previdência
+e assistência social.
+d) De iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos a
+saúde, previdência e assistência social.
+e) De iniciativa dos Poderes Públicos e da sociedade, destinadas a prover, quando materialmente
+possível, os direitos relativos a saúde, previdência e assistência social.
+
+
+COMENTÁRIOS
+Nesta questão o examinador cobra os seus conhecimentos a respeito da literalidade do artigo 194
+da Constituição Federal, o qual em seu caput dispõe da seguinte forma:
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da Sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+
+
+Antes de analisarmos as assertivas, lembremos que o examinador pede pela alternativa CORRETA.
+
+
+a) De iniciativa da sociedade, reguladas pelos Poderes Públicos, destinadas a assegurar os direitos
+relativos a saúde, previdência e assistência social.
+Esta alternativa limita a competência no que tange as iniciativas das ações que compreendem a
+Seguridade Social exclusivamente à Sociedade, o que, conforme vimos no caput do artigo
+supracitado, também pode partir do Poder Público. Portanto, esta opção está INCORRETA.
+
+
+b) Exclusivas dos Poderes Públicos, destinadas a prover, quando materialmente possível, os direitos
+relativos a saúde, previdência e assistência social.
+Ora, conforme também dispõe o art. 194 da CF/88 não há uma exclusividade de competência no
+que tange o provimento das ações da Seguridade Social por parte do Poder Público.
+Aqui, vale uma dica “fora do tópico”: fique atento, sempre que o examinador apresentar opções
+com máximas, tais como, “exclusivamente”, “unicamente”, “somente”, etc... Em geral essas
+alternativas costumam apresentar erros.
+Bom, no caso, conforme dissemos, a alternativa está INCORRETA.
+
+
+---
+
+c) Exclusivas dos Poderes Públicos, destinadas a assegurar os direitos relativos a saúde, previdência
+e assistência social.
+Aqui o examinador tenta confundir o candidato, praticamente repetindo a alternativa anterior,
+alterando apenas alguns elementos da assertiva. Contudo, pela mesma explicação que demos
+acima, esta alternativa também está INCORRETA.
+
+
+d) De iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos a
+saúde, previdência e assistência social.
+Está é a alternativa CORRETA, pois como podemos observar, ela literalmente “copia e cola” o texto
+do art. 194 (caput), apresentado na CF/88.
+
+
+e) De iniciativa dos Poderes Públicos e da sociedade, destinadas a prover, quando materialmente
+possível, os direitos relativos a saúde, previdência e assistência social.
+Esta alternativa, embora apresente corretamente a competência no que tange as iniciativas das
+ações da Seguridade Social, termina por condicionar a implementação das ações a uma suposta
+materialidade, algo que, não está previsto no comando constitucional supracitado. Portanto,
+alternativa INCORRETA.
+
+
+Gabarito: D
+
+
+(FCC - Procurador De Contas – TCE/CE - 2015)
+Nos termos previstos na Constituição da República Federativa do Brasil, a Seguridade Social
+compreende um conjunto de ações
+a) integradas e de iniciativa exclusiva do Poder Público Federal e da sociedade, com destinação de
+garantia de direitos da previdência social, da saúde, da assistência social, da educação, cultura e
+desporto.
+b) independentes e centralizadas, de iniciativa privativa dos Poderes Públicos, visando
+exclusivamente à garantia de direitos relativos à previdência social.
+c) integradas de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+relativos à saúde, à previdência e à assistência social.
+d) descentralizadas e concorrentes, de iniciativa privativa da União e dos Estados Membros, com
+objetivo de assegurar direitos relativos exclusivamente às áreas de previdência e assistência social.
+e) integradas e de iniciativa privativa dos Poderes Públicos com destinação à garantia de direitos da
+previdência social, da saúde, da assistência social, da educação, cultura e desporto.
+
+COMENTÁRIOS:
+Essa questão busca testar seus conhecimentos sobre o conceito Seguridade Social e pede que você
+assinale a alternativa CORRETA.
+
+
+---
+
+a) integradas e de iniciativa exclusiva do Poder Público Federal e da sociedade, com destinação de
+garantia de direitos da previdência social, da saúde, da assistência social, da educação, cultura e
+desporto.
+Essa alternativa é incorreta, pois apesar de ser uma iniciativa integrada, não é exclusiva do Poder
+Público Federal e não tem nenhuma relação com os três itens citados (educação, cultura e
+desporto). Basta conferir no art. 194 da Constituição Federal.
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+Alternativa INCORRETA.
+
+b) independentes e centralizadas, de iniciativa privativa dos Poderes Públicos, visando
+exclusivamente à garantia de direitos relativos à previdência social.
+Está incorreta, pois não é independente, nem centralizada, nem da iniciativa privativa e não visa
+exclusivamente à garantia de direitos relativos à previdência social. Note que é muito comum o
+examinador trocar algumas palavras para tentar confundir o candidato. Por exemplo, trocar
+“integrado” por “centralizado”. Fique atento e, sempre que puder, releia o texto puro da lei.
+Alternativa INCORRETA.
+
+c) integradas de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+relativos à saúde, à previdência e à assistência social.
+Repetindo o art. 194 da CF/88:
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+Como podemos ver no referido art. 194, essa alternativa é a correta, pois a seguridade social
+engloba direitos à saúde, assistência social e previdência, sendo os dois primeiros direitos
+garantidos ao cidadão sem nenhum tipo de contribuição. Alternativa CORRETA.
+
+d) descentralizadas e concorrentes, de iniciativa privativa da União e dos Estados Membros, com
+objetivo de assegurar direitos relativos exclusivamente às áreas de previdência e assistência social.
+Conforme já visto em alternativas anteriores a seguridade social, não é de iniciativa privativa e nem
+tem o objetivo de assegurar direitos relativos exclusivamente às áreas de previdência e assistência
+social. Alternativa INCORRETA.
+
+e) integradas e de iniciativa privativa dos Poderes Públicos com destinação à garantia de direitos da
+previdência social, da saúde, da assistência social, da educação, cultura e desporto.
+Mais uma vez, como já visto anteriormente a seguridade social não é de iniciativa privativa e não
+tem relação com educação, cultura e desporto. Alternativa INCORRETA
+
+
+Gabarito: C
+
+
+---
+
+(CESPE - Defensor Público do Distrito Federal/2013)
+Julgue o item a seguir, relativos à seguridade social e o acidente do trabalho.
+Nos termos da CF, a seguridade social compreende um conjunto integrado de ações de iniciativa
+dos poderes públicos e da sociedade destinadas a assegurar, exclusivamente, os direitos relativos à
+previdência e à assistência social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa questão é INCORRETA, pois seguridade social abrange três áreas que são saúde, assistência
+social e previdência.
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+Cuidado com palavras como “exclusivamente”, “somente”, “unicamente” e afins....É comum o
+examinador selecionar uma alternativa que até estaria correta e torná-la incorreta, apenas
+inserindo uma dessas palavras.
+
+
+Gabarito ERRADO
+
+(CESPE - Analista Legislativo (CAM DEP)/Área XXI/Consultor Legislativo/2014)
+Acerca da seguridade social, julgue o item que se segue.
+A previdência e a assistência social organizam-se com base em regime de caráter contributivo, razão
+pela qual somente serão prestadas aos segurados adimplentes com suas obrigações,
+diferentemente do direito à saúde, cujo atendimento independe de prévia contribuição por parte
+do beneficiário.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa assertiva está ERRADA, pois a assistência social e a saúde independem de qualquer tipo de
+contribuição. Dentro da Seguridade Social, o regime de caráter contributivo é encontrado apenas
+na Previdência Social.
+O benefício de assistência social será prestado, a quem dela necessitar, independentemente de
+contribuição à seguridade social, conforme prevê o caput do art. 203, da Constituição Federal.
+
+
+---
+
+Art. 203. A assistência social será prestada a quem dela necessitar, independentemente de
+contribuição à seguridade social, e tem por objetivos:
+(...)
+Já a saúde é um direito de todos e dever do Estado, conforme consta no art. 196 da Constituição
+Federal.
+Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e
+econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e
+igualitário às ações e serviços para sua promoção, proteção e recuperação.
+
+
+Gabarito: ERRADO.
+
+(CESPE - Técnico do Seguro Social/2016)
+No que se refere à seguridade social no Brasil, julgue o item seguinte.
+A CF define seguridade social como um conjunto integrado de ações de iniciativa dos poderes
+públicos e da sociedade destinadas a assegurar direitos relativos à saúde, à previdência e à
+assistência social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa está CORRETA. Mais uma vez o examinador exige o conhecimento sobre o Art. 194
+da Constituição Federal, bastando ler o caput artigo para encontrar a resposta da questão.
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+
+
+Gabarito: CERTO.
+
+(CESPE - Analista de Gestão Educacional (SEDF)/Direito e Legislação/2017)
+Julgue o próximo item, acerca do conceito e das fontes de custeio da seguridade social.
+A seguridade social representa um conjunto de benefícios prestados pelo poder público ao
+trabalhador e aos membros de sua família, independentemente de contribuição.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+A afirmativa está INCORRETA, pois somente saúde e assistência social são independentes de
+qualquer contribuição. A Previdência Social exige contribuição prévia.
+Ademais, a Seguridade Social não representa apenas um conjunto de benefícios. A Seguridade Social
+compreende um conjunto integrado de ações, benefícios e serviços. Novamente o examinador exige
+seus conhecimentos sobre o art. 194 da Constituição Federal. Muita atenção às palavras utilizadas
+pelo legislador.
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+
+
+Gabarito: ERRADO.
+
+(CESPE - Auditor de Controle Externo (TCE-PE)/Auditoria de Contas Públicas/2017)
+Acerca do conceito e dos princípios da seguridade social no Brasil, julgue o item que se segue. A
+seguridade social representa um conjunto integrado de ações direcionadas à proteção exclusiva de
+trabalhadores que mantêm vínculo contributivo com algum órgão de assistência previdenciária.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Podemos responder essa afirmativa com base em 4 artigos da Constituição Federal art. 196, art. 201
+e art. 203, conforme podemos conferir:
+Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e
+econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e
+igualitário às ações e serviços para sua promoção, proteção e recuperação.
+(...)
+Art. 201. A previdência social será organizada sob a forma de regime geral, de caráter contributivo
+e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e
+atenderá, nos termos da lei, a
+(...)
+Art. 203. A assistência social será prestada a quem dela necessitar, independentemente de
+contribuição à seguridade social, e tem por objetivos:(...)
+
+
+---
+
+Através da releitura desses artigos, podemos concluir que apenas a previdência social exige
+contribuição prévia. A Saúde e a Assistência Social serão oferecidas pela Seguridade Social
+independentemente de qualquer vínculo contributivo.
+
+
+Gabarito: ERRADA.
+
+(ESAF - Analista Tributário da Receita Federal do Brasil/2009)
+A Constituição Federal de 1988 deu novo tratamento à Previdência Social no Brasil em relação às
+constituições pretéritas. O conceito de Seguridade Social colocado no Título da Ordem Social
+constitui em um novo paradigma constitucional à medida que:
+a) a Previdência Social é vista como um direito social independente e não relacionado à Assistência
+Social.
+b) a Previdência Social é vista como um subsistema da Saúde.
+c) a Previdência Social é vista como um serviço a ser prestado de forma integrada com a Assistência
+Social e a Saúde.
+d) Assistência Social e Previdência Social são conceitos jurídicos idênticos.
+e) Saúde e Assistência Social são direitos sociais organizados da mesma maneira e com a mesma
+finalidade.
+
+
+COMENTÁRIOS:
+O enunciado pede que assinalemos a ASSERTIVA CORRETA.
+A resolução da presente questão tem por base o art. 194 da Constituição Federal, cujo texto
+transcrevemos a seguir:
+
+
+“Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.”
+
+
+Podemos afirmar, portanto, que a Seguridade Social é gênero, dos quais são espécies a Saúde, a
+Previdência Social e a Assistência Social.
+Tomando por base o texto constitucional citado, vamos à análise de cada alternativa:
+
+
+a) a Previdência Social é vista como um direito social independente e não relacionado à Assistência
+Social. (ERRADA).
+
+
+---
+
+Não procede a afirmação da presente assertiva, pois nos termos do art. 194 da CF/88, a Saúde, a
+Previdência e a Assistência Social terão seus direitos assegurados por meio de ações INTEGRADAS,
+não sendo a Previdência Social, portanto, um direito social independente e não relacionado com a
+Assistência Social.
+
+
+b) a Previdência Social é vista como um subsistema da Saúde. (ERRADA).
+Não procede a afirmação da presente assertiva, pois nos termos do art. 194 da CF/88, a Previdência
+Social, bem como a Assistência Social e a Saúde, são subsistemas da Seguridade Social. Como vimos,
+a Seguridade Social é Gênero, dos quais são espécies a Saúde, a Previdência Social e a Assistência
+Social.
+
+
+c) a Previdência Social é vista como um serviço a ser prestado de forma integrada com a Assistência
+Social e a Saúde. (CORRETA).
+Conforme disposto no art. 194 da CF/88, a Saúde, a Previdência e a Assistência Social terão seus
+direitos assegurados por meio de ações INTEGRADAS, exatamente como disposto na presente
+assertiva.
+
+
+d) Assistência Social e Previdência Social são conceitos jurídicos idênticos. (ERRADA).
+Não procede a afirmação da presente assertiva. Apesar das ações da Seguridade Social ser
+integradas, visando assegurar os direitos relativos à Saúde, à Previdência e à Assistência social, cada
+uma das espécies que compõe a Seguridade Social tem conceito jurídico próprio, conforme segue:
+A Saúde é um direito de todos e dever do Estado, cujas disposições gerais estão disciplinadas pelos
+artigos 196 a 200 da CF/88.
+A Previdência Social será organizada sob a forma de regime geral, de caráter contributivo e de
+filiação obrigatória, e tem suas disposições gerais disciplinadas pelos artigos 201 e 202 da CF/88.
+A Assistência Social será prestada a quem dela necessitar, independentemente de contribuição,
+cujas disposições gerais estão disciplinadas também na CF/88, nos artigos 203 e 204.
+
+
+e) Saúde e Assistência Social são direitos sociais organizados da mesma maneira e com a mesma
+finalidade. (ERRADA).
+Não procede a afirmação da presente assertiva. Como já visto exaustivamente na solução das
+assertivas anteriores, a Saúde e a Assistência Social (bem como a Previdência Social) são direitos
+sociais que possuem finalidades e conceitos jurídicos distintos. Não obstante, terão os seus direitos
+assegurados através de ações integradas da Seguridade Social. O fato de a Seguridade Social realizar
+ações integradas não deve criar uma interpretação equivocada de que haverá necessidade de que
+tais direitos sociais sejam organizados da mesma maneira e com a mesma finalidade.
+
+
+Gabarito: C
+
+
+---
+
+(ESAF - Auditor Fiscal da Receita Federal do Brasil/2009)
+À luz da Organização da Seguridade Social definida na Constituição Federal, julgue os itens abaixo:
+I. Previdência Social, Educação e Assistência Social são partes da Seguridade Social;
+II. a Saúde possui abrangência universal, sendo qualquer pessoa por ela amparada;
+III. a Previdência Social pode ser dada gratuitamente à população rural carente;
+IV. a Assistência Social, por meio de sistema único e centralizado no poder central federal, pode ser
+dada a todos os contribuintes individuais da Previdência Social.
+O número de itens errados é:
+a) zero
+b) um
+c) dois
+d) três
+e) quatro
+
+
+COMENTÁRIOS:
+O enunciado pede que assinalemos a QUANTIDADE DE ITENS ERRADOS.
+Vamos à análise de cada um dos itens:
+Item I: Previdência Social, Educação e Assistência Social são partes da Seguridade Social. (ERRADO).
+Assertiva incorreta, pois nos termos do art. 194 da CF/88, os direitos assegurados através da
+Seguridade Social são aqueles relativos a Saúde, Previdência Social e Assistência Social. Assim sendo,
+podemos afirmar que a Seguridade Social é gênero, dos quais são espécies a Saúde, a Previdência e
+a Assistência Social. A educação, portanto, não faz parte do rol de direitos assegurados pela
+Seguridade Social.
+
+
+Item II: a Saúde possui abrangência universal, sendo qualquer pessoa por ela amparada. (CORRETO).
+Assertiva correta. Nos termos do art. 196 da CF/88, a Saúde é direito de todos e dever do Estado,
+possuindo, portando, abrangência universal e sendo qualquer pessoa por ela amparada.
+
+
+Item III: a Previdência Social pode ser dada gratuitamente à população rural carente. (ERRADO).
+Assertiva incorreta, pois nos termos do art. 201 da CF/88, a Previdência Social será organizada sob
+a forma de regime geral, de caráter contributivo e de filiação obrigatória, não podendo, portanto,
+ser oferecida gratuitamente à população urbana ou rural, ainda que carente.
+
+
+---
+
+Item IV: a Assistência Social, por meio de sistema único e centralizado no poder central federal,
+pode ser dada a todos os contribuintes individuais da Previdência Social. (ERRADO).
+Assertiva incorreta. Nos termos do art. 203 da CF/88, a Assistência Social será prestada a quem dela
+necessitar, independentemente de contribuição. Assim sendo, não são todas as pessoas por ela
+amparadas, mas apenas os necessitados. Ademais, as ações governamentais na área da assistência
+social serão organizadas de forma descentralizada, nos termos do art. 204, I, da CF/88.
+Após analisarmos os itens acima, podemos afirmar que 3 (três) itens estão incorretos.
+
+
+Gabarito: D
+
+(ESAF - Auditor Fiscal da Receita Federal do Brasil/2009)
+Maria Clara, empregada doméstica com deficiência física, e Antônio José, empresário dirigente de
+multinacional sediada no Brasil, desejam contribuir para o Regime Geral de Previdência Social e com
+isso gozar de todos os benefícios e serviços prestados pela Seguridade Social.
+De acordo com a situação-problema apresentada acima, é correto afirmar que:
+a) Maria Clara e Antônio José podem participar da Assistência Social.
+b) só Antônio José pode participar da Previdência Social.
+c) só Antônio José pode participar de benefícios previdenciários.
+d) Maria Clara pode usufruir dos serviços de Saúde pública em razão da sua deficiência física.
+e) Maria Clara e Antônio José podem participar da Previdência Social.
+
+
+COMENTÁRIOS:
+
+
+Informações preliminares da questão: O enunciado pede que assinalemos a ASSERTIVA CORRETA.
+Preliminarmente, vamos mencionar as principais características de cada um dos direitos
+assegurados através da Seguridade Social:
+Saúde: é um direito de todos e dever do Estado, cujas disposições gerais estão disciplinadas pelos
+artigos 196 a 200 da CF/88.
+Previdência Social: será organizada sob a forma de regime geral, de caráter contributivo e de filiação
+obrigatória, e tem suas disposições gerais disciplinadas pelos artigos 201 e 202 da CF/88.
+Assistência Social: será prestada a quem dela necessitar, independentemente de contribuição,
+cujas disposições gerais estão disciplinadas também na CF/88, nos artigos 203 e 204.
+
+
+Vamos agora à análise de cada alternativa:
+
+
+---
+
+a) Maria Clara e Antônio José podem participar da Assistência Social. (ERRADA).
+Assertiva incorreta. Nos termos do art. 203 da CF/88, a Assistência Social será prestada a quem dela
+necessitar, independentemente de contribuição. Assim sendo, não são todas as pessoas por ela
+amparadas, mas apenas os necessitados. Desta forma, podemos concluir que Antônio José, por ser
+empresário dirigente de multinacional, por certo não será amparado pelos programas de Assistência
+Social.
+
+
+b) só Antônio José pode participar da Previdência Social. (ERRADA).
+Assertiva incorreta, pois nos termos do art. 201 da CF/88, a Previdência Social será organizada sob
+a forma de regime geral, de caráter contributivo e de filiação obrigatória. Na situação apresentada,
+não apenas Antônio José, mas também Maria Clara, devem necessariamente participar da
+Previdência Social, pois ambos exercem atividades que os enquadram como segurados obrigatórios
+do Regime Geral de Previdência Social.
+
+
+c) só Antônio José pode participar de benefícios previdenciários. (ERRADA).
+Assertiva incorreta. Conforme mencionado na assertiva anterior, não apenas Antônio José, mas
+também Maria Clara, são segurados obrigatórios do Regime Geral de Previdência Social. Desta
+forma, ambos podem participar dos benefícios previdenciários.
+
+
+d) Maria Clara pode usufruir dos serviços de Saúde pública em razão da sua deficiência física.
+(ERRADA).
+Não procede integralmente a afirmação da presente assertiva. Nos termos do art. 196 da CF/88, a
+Saúde é direito de todos e dever do Estado, possuindo, portando, abrangência universal e sendo
+qualquer pessoa por ela amparada. Desta forma, Maria Clara pode usufruir dos serviços de Saúde
+pública, mas não em razão de sua deficiência física, como afirma a assertiva, pois o direito a saúde
+independe de sua condição de deficiente.
+
+
+e) Maria Clara e Antônio José podem participar da Previdência Social. (CORRETA).
+Assertiva correta. Na situação apresentada, Antônio José e Maria Clara podem participar da
+Previdência Social. Fazendo uma análise mais criteriosa, Antônio José e Maria Clara não apenas
+podem, mas devem necessariamente participar da Previdência Social, pois ambos exercem
+atividades que os enquadram como segurados obrigatórios do Regime Geral de Previdência Social.
+Por fim, quem deve participar da Previdência Social, por certo pode fazê-lo.
+
+
+Gabarito: E
+
+
+---
+
+(ADAPTADA / INÉDITA)
+No âmbito da Seguridade Social, com sede na Constituição Federal/88 (art. 194), podemos afirmar
+que a seguridade social compreende um conjunto integrado de ações dos Poderes Públicos e da
+sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência, à vida e à assistência
+social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. A Seguridade Social compreende um conjunto integrado de ações de iniciativa dos
+Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência
+e à assistência social, conforme disposto no caput do art. 194 da CF/88. A “vida” não faz parte das
+ações da Seguridade Social.
+
+
+Gabarito: ERRADO
+
+(ADAPTADA / INÉDITA)
+Previdência Social, Saúde e Assistência Social são partes da Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. Tal afirmação está em consonância com o conceito constitucional da Seguridade Social
+previsto no art. 194 da CF, pois a Previdência Social, a Saúde e Assistência Social são as três partes
+que compõe a Seguridade Social.
+Gabarito: CERTO
+
+(ADAPTADA / INÉDITA)
+A saúde exige contribuição prévia.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+
+
+---
+
+ERRADA. A saúde é direito de todos e dever do Estado. Assim sendo, os serviços públicos de saúde
+no Brasil se destinam a todos e independem de qualquer contribuição para a Seguridade Social.
+
+
+Gabarito: ERRADO
+
+(ADAPTADA / INÉDITA)
+A assistência social possui abrangência universal, sendo qualquer pessoa por ela amparada.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. A Assistência Social, conforme disposto no art. 203 da Constituição Federal, será prestada
+a quem dela necessitar. Assim sendo, a Assistência Social no Brasil não se destina a todos, mas
+apenas às pessoas necessitadas.
+
+
+Gabarito: ERRADO
+
+(ADAPTADA / INÉDITA)
+Lucas, menor carente, de 13 anos, e Bruno, empresário bem-sucedido, de 21 anos, desejam
+participar de programas assistenciais e de saúde pública. De acordo com a situação-problema
+apresentada, é correto afirmar que Lucas e Bruno podem participar da Saúde.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. Como já vimos, os serviços públicos de saúde no Brasil se destinam a todos, sejam pobres
+ou ricos, necessitados ou abastados.
+
+
+Gabarito: CERTO
+
+
+---
+
+(ADAPTADA / INÉDITA)
+À luz dos dispositivos constitucionais referentes à Seguridade Social, julgue o item a seguir: A
+Seguridade Social pode compreender ações de iniciativa da sociedade.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A Seguridade Social compreende um conjunto integrado de ações de iniciativa dos
+Poderes Públicos e da sociedade, conforme disposto no caput do art. 194 da CF/88. Portanto, a
+Seguridade Social pode compreender ações de iniciativa da sociedade.
+
+
+Gabarito: CERTO
+
+(ADAPTADA / INÉDITA)
+A Constituição Federal de 1988 deu novo tratamento à Previdência Social no Brasil em relação às
+constituições pretéritas. O conceito de Seguridade Social colocado no Título da Ordem Social
+constitui em um novo paradigma constitucional à medida que a Previdência Social é vista como um
+serviço a ser prestado de forma integrada com a Assistência Social e a Saúde.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A Previdência Social é vista como um serviço a ser prestado de forma integrada com a
+Assistência Social e a Saúde, conforme podemos observar pela leitura do caput do art. 194 da CF/88,
+haja vista tratar-se de um conjunto integrado de ações.
+
+
+Gabarito: CERTO
+
+
+---
+
+ORGANIZAÇÃO E PRINCÍPIOS CONSTITUCIONAIS
+
+Os princípios específicos da Seguridade Social encontram-se elencados no
+parágrafo único do art. 194 da Constituição Federal. Além desses princípios,
+aplicam-se à Seguridade Social, também, alguns princípios gerais, tais como
+solidariedade, legalidade e igualdade.
+O parágrafo único do art. 194 da CF/88 não utiliza o termo “princípios”. Em seu
+lugar, o legislador constituinte preferiu usar o termo “objetivos”. Para fins de prova,
+as bancas de concursos às vezes utilizam o termo “princípios”, outras vezes
+preferem utilizar o termo “objetivos”. Assim sendo, considere-as como sinônimos
+para efeito de provas de concursos.
+Uma importante informação que devemos extrair do caput do Art. 194 da
+Constituição Federal e memorizar para provas de concursos é:
+• A Seguridade Social será organizada apenas pelo “Poder Público”.
+
+          Art. 194
+      § único – CF/88
+                                                                 nos
+                                                               termos
+                                            Poder               da lei
+                Compete ao                 Público
+
+                            organizar a seguridade social
+
+                   com base nos seguintes objetivos/princípios:
+
+             Vejamos como tais assuntos já foram cobrados em prova:
+
+
+---
+
+(ADAPTADA / INÉDITA)
+À luz dos dispositivos constitucionais referentes à Seguridade Social, julgue o item a seguir: Compete
+ao Poder Público organizar a Seguridade Social nos termos da lei.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A organização da Seguridade social cabe ao Poder Público, conforme disposto no
+parágrafo único do art. 194 da CF/88.
+
+
+Gabarito: CERTO
+
+Universalidade da Cobertura e do Atendimento
+
+O princípio da universalidade da cobertura e do atendimento está elencado no art.
+194, § único, I da CF/88. Trata-se, na verdade, de dois princípios em um. Para
+melhor entendimento, vamos dividi-lo em duas partes: a universalidade da
+cobertura e a universalidade do atendimento.
+
+
+   • Universalidade da Cobertura: a proteção social oferecida pela Seguridade
+     Social deve alcançar todos os riscos sociais (infortúnios), aos quais quaisquer
+     pessoas estão sujeitas, e que possam levá-las a uma condição de
+     necessidade, tais como: maternidade, velhice, doença, acidente, invalidez,
+     reclusão e morte.
+   • Universalidade do Atendimento: Visa tornar a Seguridade Social acessível a
+     todas as pessoas, sejam nacionais ou estrangeiras.
+
+
+Para evitar dúvidas acerca da aplicação desses princípios nas três áreas que
+compõe a Seguridade Social, vamos explicá-las individualmente:
+
+
+Saúde: Em relação à saúde, esses princípios são aplicados sem ressalva, pois, como
+vimos, qualquer pessoa pode ter acesso a tais serviços, independente de
+contribuição.
+
+
+---
+
+Assistência Social: Em relação à assistência social, todos aqueles que se enquadrem
+na condição de necessitados, terão acesso.
+Previdência Social: Em relação à previdência social, todos, desde que contribuam,
+podem participar do sistema. Eis o problema: e se determinada pessoa não exerce
+atividade remunerada que o enquadre como segurado obrigatório, como ter o
+amparo universal da Previdência Social? Para responder esta pergunta e atender
+ao princípio constitucional da Universalidade do Atendimento, foi criada, no
+Regime Geral de Previdência Social – RGPS, a figura do segurado facultativo, que
+poderá ter cobertura previdenciária mesmo sem exercer atividade remunerada,
+desde que contribua volitivamente (por livre e espontânea vontade) para o sistema.
+Vejamos a seguir o diagrama com o resumo das informações mais importantes
+sobre o princípio da universalidade da cobertura e do atendimento:
+
+         Art. 194
+    § Único, I – CF/88
+
+                         Universalidade da cobertura e do atendimento
+
+
+                                 Universalidade da Cobertura – todas as
+                               contingências sociais que gerem necessidade
+                                 de proteção social (maternidade, velhice,
+                               doença, acidente, invalidez, reclusão e morte)
+                               deverão ser cobertas pela Seguridade Social.
+
+
+                                Universalidade do Atendimento – todas as
+                                       pessoas serão indistintamente
+                                     acolhidas pela Seguridade Social.
+
+               Vejamos como tais assuntos já foram cobrados em prova:
+
+
+---
+
+(CESPE - Técnico do Seguro Social/2016)
+No que se refere à seguridade social no Brasil, julgue o item seguinte.
+De acordo com o princípio da universalidade da seguridade social, os estrangeiros no Brasil poderão
+receber atendimento da seguridade social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está CORRETA. O princípio da universalidade é o primeiro do art. 194 da Constituição
+Federal sobre o assunto, e assim dispõe:
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com
+base nos seguintes objetivos:
+I - universalidade da cobertura e do atendimento; (...)
+O princípio da universalidade do atendimento tem por objetivo tornar a Seguridade acessível a
+todas as pessoas residentes no país, inclusive estrangeiras. Especificamente em relação à saúde,
+não há qualquer restrição. Assim sendo, até mesmo um estrangeiro que esteja passando férias no
+Brasil e não tenha direito a cobertura previdenciária nem assistencial, ainda assim terá direito a
+saúde.
+E apesar de só ser atendido por um dos pilares da seguridade social, o estrangeiro no Brasil poderá
+ser atendido.
+
+
+Gabarito: CERTO.
+
+(CESPE - Analista Técnico-Administrativo (DPU)/2016)
+A respeito da conceituação, dos princípios e das disposições constitucionais acerca da seguridade
+social, julgue o seguinte item.
+O princípio constitucional da universalidade da cobertura e do atendimento implica no
+entendimento de que o Estado deve prover, por meio da seguridade social, gratuitamente e
+independentemente de contribuição, assistência social, saúde e previdência a todos que necessitam
+desses benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+A afirmativa está ERRADA, pois assistência social e saúde realmente são gratuitos e independem de
+qualquer contribuição, sendo que a saúde é um direito de todos e a assistência social é direito
+daqueles que necessitem. No entanto, conforme estudamos, com a previdência é diferente.
+Previdência necessita sim de contribuição, possuindo caráter contributivo e obrigatório.
+
+
+Gabarito: ERRADO
+
+(CESPE - Técnico do Seguro Social/2016)
+Com base no disposto no Decreto n.º 3.048/1999, que aprovou o regulamento da previdência social,
+julgue o item subsecutivo.
+A universalidade da cobertura e do atendimento inclui-se entre os princípios que regem as ações
+dos poderes públicos e da sociedade destinadas a assegurar o direito relativo à saúde, à previdência
+e à assistência social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está CORRETA, para confirmar isso basta consultar o art. .1º do Decreto n.º 3.048/1999,
+que reproduz o que já está previsto no texto constitucional:
+Art. 1º A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes
+públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à previdência e à
+assistência social.
+Parágrafo único. A seguridade social obedecerá aos seguintes princípios e diretrizes:
+I - universalidade da cobertura e do atendimento; (....).
+
+
+Gabarito: CERTO.
+
+(CESPE - Analista do Seguro Social/2016)
+Com relação ao RGPS, julgue o item que se segue.
+ O RGPS tem como princípio a universalidade de cobertura, o que significa que os segurados
+vinculados a esse regime e seus dependentes têm direito aos mesmos benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+Parte dessa afirmativa está correta, quando o examinador diz que o RGPS tem como princípio a
+universalidade de cobertura. No entanto, quando ele diz que isso significa que os segurados
+vinculados a esse regime e seus dependentes têm direitos aos mesmos benefícios e serviços, isso
+está incorreto e pode ser observado ao longo de diversos dispositivos legais que regem o tema. Em
+nossas próximas aulas estudaremos os benefícios dos segurados e dos dependentes, onde
+poderemos perceber que segurados e dependentes não terão direito aos mesmos benefícios e
+serviços.
+
+
+Gabarito: ERRADO.
+
+(CESPE - Analista do Seguro Social/2016)
+Com referência à CF e às políticas de seguridade, julgue o item subsecutivo.
+Na organização da seguridade social, o objetivo da universalidade da cobertura e do atendimento
+diz respeito, mais diretamente, à política de previdência social, dada a superação de sua lógica
+securitária.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa está incorreta, pois: a) universalidade da cobertura, também chamado
+universalidade objetiva, significa que todos os riscos e contingências a que podem estar sujeitas as
+pessoas residentes no território nacional devem ser cobertos pelo sistema; b) universalidade do
+atendimento, também chamado universalidade subjetiva, significa que todas as pessoas residentes
+no território nacional devem ser atendidas pelo sistema.
+Por fim, importante destacarmos ainda que a previdência social atende a quem contribui, a
+assistência social atende aos necessitados, sem depender de contribuição e a saúde atende a todos.
+
+
+Gabarito: ERRADO
+
+(ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no seguinte
+objetivo: universalidade da cobertura e do atendimento.
+Certo ( )
+
+
+---
+
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A presente alternativa reproduz fielmente o disposto no inciso I, do parágrafo único, do
+art. 194 da CF/88.
+Segundo a universalidade da cobertura, a proteção social oferecida pela Seguridade Social deve
+alcançar todos os riscos sociais (infortúnios), aos quais quaisquer pessoas estão sujeitas, e que
+possam levá-las a uma condição de necessidade.
+A universalidade do atendimento, por sua vez, visa tornar a Seguridade Social acessível a todas as
+pessoas.
+
+
+Gabarito: CERTO.
+
+(ADAPTADA / INÉDITA)
+Quanto aos princípios constitucionais da Seguridade Social, é correto afirmar que a universalidade
+da cobertura e do atendimento significa a cobertura de todos os riscos, chamados riscos sociais, que
+podem atingir as pessoas que vivem em sociedade e que todos os residentes e domiciliados no
+território nacional - brasileiros e estrangeiros – devem ser atendidos pelo Sistema de Seguridade
+Social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. O enunciado da questão reproduz fielmente o conceito doutrinário referente ao princípio
+da universalidade da cobertura e do atendimento, respectivamente.
+
+
+Gabarito: CERTO.
+
+Uniformidade e Equivalência dos Benefícios e Serviços às Populações Urbanas e
+Rurais
+
+O princípio da Uniformidade e Equivalência dos Benefícios e Serviços às
+Populações Urbanas e Rurais está elencado no art. 194, § único, II da CF/88. Assim
+como o princípio anterior, vamos estudá-lo em duas partes: primeiro a
+uniformidade dos benefícios e serviços às populações urbanas e rurais; em seguida,
+
+
+---
+
+estudaremos a equivalência dos benefícios e serviços às populações urbanas e
+rurais.
+  • Uniformidade: Refere-se à igualdade quanto aos eventos a serem cobertos
+    para as populações urbanas e rurais. Assim sendo, diante das mesmas
+    contingências (maternidade, morte, velhice, doença, etc.) a cobertura deverá
+    se entender tanto a população urbana como rural.
+  • Equivalência: Refere-se ao valor pecuniário dos benefícios ou qualidade da
+    prestação dos serviços, em relação às populações urbanas e rurais. Não quer
+    dizer que os valores têm que ser idênticos. Quer dizer que, se as pessoas
+    estiverem na mesma condição, não poderá haver diferenciação, devendo tais
+    prestações ser, portanto, equivalentes.
+
+ATENÇÃO: Esse é o único dos princípios relacionados no parágrafo único do art.
+194 da Constituição Federal onde são mencionadas as “populações urbanas e
+rurais”. As provas de concursos costumam inserir esses termos “urbanos” e “rurais”
+em conjunto com outros princípios da Seguridade Social, para confundir o
+candidato, tornando, portando, errada a questão. Por exemplo: Pode ocorrer de a
+questão afirmar que um dos princípios da Seguridade Social é o princípio da
+Universalidade da Cobertura e do Atendimento às populações urbanas e rurais.
+Como acabamos de ver, tal assertiva deve ser considerada errada pelo candidato,
+pois, segundo o art. 194, parágrafo único, inciso I, da Constituição Federal, o
+princípio da Universalidade da Cobertura e do Atendimento não cita as populações
+urbanas e rurais em seu enunciado.
+
+
+Portanto, não esqueçam: O único dos princípios relacionados no parágrafo único
+do art. 194 da Constituição Federal que menciona as “populações urbanas e rurais”
+é o princípio da uniformidade e equivalência dos benefícios e serviços às
+populações urbanas e rurais.
+Vejamos a seguir o diagrama com o resumo das informações mais importantes
+sobre o princípio da uniformidade e equivalência dos benefícios e serviços às
+populações urbanas e rurais:
+
+
+---
+
+      Art. 194
+ § único, II – CF/88
+
+                       Uniformidade e equivalência dos benefícios
+                        e serviços às populações urbanas e rurais
+
+                           Uniformidade – todas as contingências sociais que
+                                 gerem necessidade de proteção social
+                           (maternidade, velhice, doença, acidente, invalidez,
+                             reclusão e morte) serão cobertas tanto para as
+                                populações urbanas como para as rurais.
+
+                              Equivalência – refere-se ao aspecto pecuniário
+                               dos benefícios ou à qualidade dos serviços.
+
+                Vejamos como tais assuntos já foram cobrados em prova:
+
+CESPE - Técnico do Seguro Social/2016
+Com base no disposto na Lei n.º 8.213/1991, que trata dos planos de benefícios da previdência
+social e dá outras providências, julgue o item seguinte.
+Os princípios que regem a previdência social incluem a uniformidade e a equivalência dos benefícios
+e serviços prestados às populações urbanas e rurais.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está CORRETA, nos termos do art. 2 da lei n.º 8.213/1991, pois a uniformidade e a
+equivalência dos serviços prestados e dos benefícios das populações urbanas e rurais é um dos
+princípios da previdência social.
+Art. 2º A Previdência Social rege-se pelos seguintes princípios e objetivos: [...]
+II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais; (...)
+Gabarito: CERTO.
+
+
+---
+
+(ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no seguinte
+objetivo: prevalência dos benefícios e serviços às populações rurais.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Não podemos falar em prevalência dos benefícios e serviços às populações rurais, pois
+contraria frontalmente o disposto no inciso II, do parágrafo único, do art. 194 da CF/88, que
+determina como sendo um dos objetivo da Seguridade Social a “uniformidade e equivalência dos
+benefícios e serviços às populações urbanas e rurais”, e não a prevalência de tais prestações às
+populações rurais, como afirma erroneamente o enunciado.
+A uniformidade mencionada refere-se à igualdade quanto aos eventos a serem cobertos para as
+populações urbanas e rurais.
+A equivalência, no entanto, refere-se ao valor pecuniário dos benefícios ou qualidade da prestação
+dos serviços, em relação às populações urbanas e rurais, devendo tais prestações ser equivalentes.
+
+
+O único dos princípios constitucionais da Seguridade Social que menciona os “trabalhadores
+urbanos e rurais” é o princípio da uniformidade e equivalência dos benefícios e serviços às
+populações urbanas e rurais. Além disso, a mencionada uniformidade e equivalência se referem
+não apenas aos benefícios, mas também aos serviços prestados.
+
+
+Gabarito: ERRADO
+
+Seletividade e Distributividade na Prestação dos Benefícios e Serviços
+
+O princípio da Seletividade e Distributividade na Prestação dos Benefícios e
+Serviços está elencado no art. 194, § único, III da CF/88. Assim como os princípios
+anteriores, vamos estudá-lo em duas partes: primeiro a seletividade na prestação
+dos benefícios e serviços; em seguida, estudaremos a distributividade na prestação
+dos benefícios e serviços.
+   • Seletividade: Impõe ao legislador a delimitação do rol de prestações,
+     devendo definir, na lei orçamentária, onde aplicar os limitados recursos,
+     dentro das ilimitadas demandas da sociedade, levando-se em conta as
+     prestações sociais de maior relevância para o bem-estar, a justiça social e as
+     possibilidades econômico-financeiras do sistema.
+
+
+---
+
+   • Distributividade: Tem por objetivo diminuir as desigualdades sociais,
+     buscando melhor distribuição de renda, direcionando a atuação do sistema
+     protetivo às pessoas com maior necessidade. Como exemplo de
+     distributividade podemos citar a assistência social, que é concedida apenas
+     quem dela necessitar. Também podemos citar o auxílio-reclusão e o salário-
+     família, concedidos não a todos os segurados, mas apenas aos segurados de
+     baixa renda.
+     Vejamos a seguir o diagrama com o resumo das informações mais importantes
+sobre o princípio da seletividade e distributividade na prestação dos benefícios e
+serviços:
+
+                 Art. 194
+            § único, III – CF/88
+
+                                    Seletividade e distributividade na
+                                   prestação dos benefícios e serviços
+
+
+                                   Seletividade – delimitação do rol de prestações
+                                      que são mantidos pela Seguridade Social.
+
+
+                                   Distributividade – nem todos os segurados terão
+                                   direito a todas as prestações que o sistema pode
+                                       fornecer. haverá atendimento distintivo e
+                                            prioritário aos mais necessitados.
+
+                   Vejamos como tais assuntos já foram cobrados em prova:
+
+(ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no seguinte
+objetivo: seletividade e distributividade na prestação dos benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+
+
+---
+
+CORRETA. A presente alternativa reproduz a literalidade do inciso III, do parágrafo único, do art.
+194 da CF/88.
+A seletividade impõe ao legislador a delimitação do rol de prestações, devendo definir, na lei
+orçamentária, onde aplicar os limitados recursos, dentro das ilimitadas demandas da sociedade,
+levando-se em conta as prestações sociais de maior relevância e as possibilidades econômico-
+financeiras do sistema.
+A distributividade, por sua vez, tem por objetivo diminuir as desigualdades sociais, buscando
+melhor distribuição de renda, direcionando a atuação do sistema protetivo às pessoas com maior
+necessidade. Como exemplo de distributividade podemos citar a assistência social, que é concedida
+apenas quem dela necessitar. Também podemos citar o auxílio-reclusão e o salário-família,
+concedidos não a todos os segurados, mas apenas aos segurados de baixa renda.
+
+
+Gabarito: CERTO.
+
+(ADAPTADA / INÉDITA)
+Podemos afirmar, com relação aos objetivos constitucionais da Seguridade Social, a seletividade na
+prestação dos benefícios e serviços às populações urbanas e rurais.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. O princípio da Seletividade na Prestação dos Benefícios e Serviços está previsto no art.
+194, § único, inciso III da CF/88, mas não faz nenhuma referência às populações urbanas e rurais.
+
+
+Gabarito: ERRADO
+
+Irredutibilidade do valor dos benefícios
+
+O princípio da Irredutibilidade do Valor dos Benefícios está elencado no art. 194, §
+único, IV da CF/88.
+Tal princípio, quando aplicado aos benefícios da Previdência Social, segundo
+entendimento emanado pelo art. 201, §4º da CF/88, bem como pelo art. 1º,
+parágrafo único, inciso IV, do Regulamento da Previdência Social – RPS, aprovado
+pelo Decreto 3.048/99, busca manter o valor real do benefício, ou seja, manter o
+poder aquisitivo do benefício para que o mesmo não seja corroído com a inflação
+do período, conforme podemos observar abaixo:
+
+
+---
+
+    Constituição Federal/1988
+
+    Art. 201. (...)
+
+    § 4º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter
+    permanente, o valor real, conforme critérios definidos em lei.
+
+    Regulamento da Previdência Social – RPS (Decreto º 3.048/99)
+
+    Art. 1º A seguridade social compreende um conjunto integrado de ações de iniciativa dos
+    poderes públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à
+    previdência e à assistência social.
+
+             Parágrafo único. A seguridade social obedecerá aos seguintes princípios e diretrizes:
+    (...)
+
+            IV - irredutibilidade do valor dos benefícios, de forma a preservar-lhe o poder aquisitivo;
+
+            (...)
+
+    Exemplo: Se o valor do benefício previdenciário for de R$ 2.000,00 e a
+    inflação medida no período for de 10%, o mesmo deverá, segundo
+    entendimento do RPS, aumentar para, no mínimo, R$ 2.200,00,
+    mantendo-se seu valor real. Se o aumento foi para R$ 2.199,99 ou menos,
+    houve redução do benefício previdenciário, pois o reajuste não manteve
+    seu poder aquisitivo, considerando a inflação de 10%.
+
+Ocorre, porém, que conforme entendimento do Supremo Tribunal Federal – STF,
+tal princípio constitucional, quando aplicável à Seguridade Social, visa apenas
+proteger o valor nominal do benefício, uma vez que o valor real do benefício
+previdenciário já está protegido pelo art. 201, §4º da CF/88, acima transcrito.
+Contudo, tal regra vale apenas para os benefícios da Seguridade Social (exceto
+para os benefícios previdenciários). Desta forma, podemos concluir que os
+benefícios da Assistência Social e da Saúde terão apenas seu valor nominal
+protegido, sem a necessidade de preservar o valor real.
+
+
+---
+
+    Obs: Valor nominal é o valor numérico original, sem levar em conta
+    qualquer reajuste pela inflação do período.
+
+    Exemplo: Se o valor do benefício de Seguridade Social (exceto o
+    benefício previdenciário) for de R$2.000,00, o mesmo deverá, segundo a
+    CF/88 e entendimento do STF, ser mantido, no mínimo, em seu valor
+    nominal, que é R$ 2.000,00. Apenas se o valor for reduzido para R$
+    1.999,99 ou menos, considerar-se-á violado o princípio em comento.
+
+Assim sendo, apresentamos abaixo uma regra prática para você sempre acertar
+esta questão na prova:
+
+
+  1) Se a banca perguntar especificamente sobre benefícios da Previdência Social
+     (ou benefícios previdenciários):
+       • Segundo a CF/88 e a legislação previdenciária: garantia da manutenção
+          do VALOR REAL;
+       • Segundo a jurisprudência (STF): garantia da manutenção do VALOR
+          REAL.
+
+  2) Se a banca perguntar genericamente sobre benefícios da Seguridade Social
+     (sem especificar qual a área da Seguridade Social):
+       • Segundo a CF/88: garantia da manutenção apenas do VALOR
+          NOMINAL;
+       • Segundo a jurisprudência (STF): garantia da manutenção apenas do
+          VALOR NOMINAL.
+
+  3) Se a banca perguntar especificamente sobre benefícios da Assistência Social
+     ou da Saúde:
+      • Segundo a lei: garantia do VALOR NOMINAL;
+      • Segundo a jurisprudência: garantia do VALOR NOMINAL.
+
+
+---
+
+Ou seja, podemos afirmar que a Assistência Social e a Saúde não têm a obrigação
+constitucional ou legal de reajustar seus benefícios pelo índice oficial de inflação,
+para garantir a preservação de seu valor. Busca-se garantir nestes casos, somente
+a manutenção do valor nominal destes benefícios. A Previdência Social, no entanto,
+é a única obrigada a reajustar seus benefícios para preservar-lhes, em caráter
+permanente, o valor real, conforme critérios definidos em lei.
+
+ATENÇÃO: A irredutibilidade refere-se tão somente ao valor dos “benefícios”, e
+não ao valor dos “serviços”. Apenas os benefícios têm caráter pecuniário e
+poderiam, indevidamente, se sujeitar a eventual redução.
+
+
+Por fim, cabe-nos fazer uma última pergunta sobre o tema:
+- Se houver índice NEGATIVO de correção monetária (deflação)?
+Para responder esta pergunta, temos que trazer a EMENTA do Recurso Especial
+(Resp) nº 1.265.580/RS, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 18/4/12,
+conforme segue:
+
+
+    PROCESSUAL CIVIL E ECONÔMICO. EXECUÇÃO DE SENTENÇA QUE DETERMINOU
+    CORREÇÃO MONETÁRIA PELO IGP-M. ÍNDICES DE DEFLAÇÃO. APLICABILIDADE,
+    PRESERVANDO-SE O VALOR NOMINAL DA OBRIGAÇÃO.
+
+    1. A correção monetária nada mais é do que um mecanismo de manutenção do poder
+    aquisitivo da moeda, não devendo representar, consequentemente, por si só, nem um
+    “plus” nem um “minus” em sua substância. Corrigir o valor nominal da obrigação
+    representa, portanto, manter, no tempo, o seu poder de compra original, alterado pelas
+    oscilações inflacionárias positivas e negativas ocorridas no período. Atualizar a obrigação
+    levando em conta apenas oscilações positivas importaria distorcer a realidade econômica
+    produzindo um resultado que não representa a simples manutenção do primitivo poder
+    aquisitivo, mas um indevido acréscimo no valor real. Nessa linha, estabelece o Manual de
+    Orientação de Procedimento de Cálculos aprovado pelo Conselho da Justiça Federal que,
+    não havendo decisão judicial em contrário, 'os índices negativos de correção monetária
+    (deflação) serão considerados no cálculo de atualização', com a ressalva de que, se, no
+
+
+---
+
+    cálculo final, 'a atualização implicar redução do principal, deve prevalecer o valor nominal'
+    (Corte Especial, REsp 1.265.580/RS, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 18/4/12).
+
+    2. Recurso Especial Provido.
+
+Ou seja, os índices negativos de correção monetária (deflação) devem ser
+computados em todos os meses do ano para se apurar o índice final do período
+(em regra, de janeiro a dezembro). Contudo, se o resultado final do período for
+negativo, implicando em redução do valor principal, tal valor deve ser mantido, ou
+seja, em casos de cálculos que resultariam em redução de valor, deve prevalecer o
+valor nominal, ou seja, não haverá redução no valor do benefício, mesmo que o
+índice real fique negativo.
+
+
+Vejamos o exemplo a seguir, para facilitar o entendimento:
+            Valor hipotético do benefício previdenciário: R$ 2.000,00
+
+                  COMPETÊNCIA                         ÍNDICE FICTÍCIO DE
+                                                         CORREÇÃO
+                      01/2020:                             +2,00%
+
+                      02/2020:                                +1,00%
+
+                      03/2020:                                -4,00%
+
+                      04/2020:                                -2,00%
+
+                      05/2020:                               + 1,50%
+
+                      06/2020:                                +1,00%
+
+                      07/2020:                               + 2,50%
+
+                      08/2020:                                - 3,50%
+
+                      09/2020:                                -3,00%
+
+                      10/2020:                                -1,00%
+
+                      11/2020:                                +2,00%
+
+                      12/2020:                                -1,50%
+
+                 TOTAL NO ANO                                -5,00%
+
+
+---
+
+Neste caso, como o cálculo final resultou num índice de -5,00% (deflação), o
+benefício não sofrerá redução, pois em caso de deflação, fica garantido o valor
+nominal de R$ 2.000,00 (valor hipotético, utilizado no exemplo).
+Caso o índice tivesse ficado em, por exemplo, +3,00%, o benefício previdenciário
+teria que ter um reajuste mínimo de 3,00%, para garantir seu valor real (manutenção
+do poder aquisitivo de compra), passando de R$2.000,00 para R$ 2.060,00.
+
+      Obs: Os benefícios previdenciários sempre terão o valor nominal
+      garantido em caso de deflação no cálculo final do período, para evitar
+      que haja redução no valor do benefício previdenciário por conta do índice
+      negativo de correção apurado ao final do período considerado.
+
+      Art. 194
+ § único, IV – CF/88
+
+                            Irredutibilidade do valor dos benefícios
+
+
+                              Dica prática para prova:
+           Se a questão            Constituição Federal: veda apenas a redução do
+          for referente à         valor nominal dos benefícios de seguridade social.
+          Seguridade                Jurisprudência (SFT): veda apenas a redução do
+            Social                valor nominal dos benefícios de seguridade social.
+
+                                Constituição Federal e legislação previdenciária: veda a
+                                 redução do valor real dos benefícios previdenciários.
+           Se a questão
+          for referente à        Jurisprudência (STF): veda a redução do valor real dos
+          Previdência                         benefícios previdenciários.
+             Social
+                               Jurisprudência (STJ): veda a redução do valor nominal dos
+                                    benefícios previdenciários em caso de deflação.
+
+
+---
+
+               Vejamos como tais assuntos já foram cobrados em prova:
+
+(CESPE - Advogado da União/2015)
+No que diz respeito à seguridade social, julgue o item a seguir.
+ Conforme a jurisprudência do STF, a irredutibilidade do valor dos benefícios é garantida
+constitucionalmente, seja para assegurar o valor nominal, seja para assegurar o valor real dos
+benefícios, independentemente dos critérios de reajuste fixados pelo legislador ordinário.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa que cobra o seu conhecimento sobre a jurisprudência do STF, está ERRADA, pois não
+é independente dos critérios de reajuste fixados pelo legislador ordinário. Para não deixar dúvidas,
+vejamos a elucidação da Suprema Corte:
+
+
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. BENEFÍCIOS PREVIDENCIÁRIOS. REVISÃO.
+ARTIGO 201, § 4º, DA CB/88. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+1. Este Tribunal fixou entendimento no sentido de que o disposto no artigo 201, § 4º, da Constituição
+do Brasil, assegura a revisão dos benefícios previdenciários conforme critérios definidos em lei, ou
+seja, compete ao legislador ordinário definir as diretrizes para conservação do valor real do
+benefício. Precedentes. 2. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa
+indireta à Constituição do Brasil. 3. Agravo regimental a que se nega provimento.
+(STF – AI 668.444-AgR – Relator Ministro EROS GRAU – Segunda Turma – Julgamento em 13.11.2007
+– Publicação em 07.12.2007)
+(DESTAQUES NOSSOS)
+
+
+Ou seja, segundo o STF quem deverá garantir a conservação do valor real do benefício é a lei. A
+Constituição Federal, segundo entendimento do STF, garante apenas a manutenção do seu valor
+nominal.
+
+
+Gabarito: ERRADO
+
+
+---
+
+(ADAPTADA / INÉDITA) – Compete ao Poder Público, nos termos da lei, organizar a seguridade
+social, com base no seguinte objetivo: irredutibilidade do valor dos benefícios.
+Certo ( )
+Errado ( )
+COMENTÁRIOS:
+CORRETA. A presente alternativa reproduz a literalidade do inciso IV, do parágrafo único, do art.
+194 da CF/88. Mas muita atenção: a irredutibilidade refere-se ao valor dos “benefícios”. Já houve
+diversas provas em que a questão era apresentada, para confundir o candidato, afirmando
+indevidamente que um dos objetivos da Seguridade Social é a irredutibilidade do valor dos
+“serviços”.
+
+
+Gabarito: CERTO.
+
+(ADAPTADA / INÉDITA)
+Podemos afirmar, com relação aos objetivos constitucionais da Seguridade Social, a irredutibilidade
+do valor dos serviços.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. O correto seria Irredutibilidade do Valor dos Benefícios, conforme disposto no art. 194, §
+único, inciso IV da Constituição Federal. Não há previsão para Irredutibilidade do Valor dos Serviços,
+pois os serviços não têm valor pecuniário e não podem, portanto, ter seus valores reduzidos ou
+aumentados.
+
+
+Gabarito: ERRADO
+
+(ADAPTADA / INÉDITA)
+Segundo a organização e princípios constitucionais da Seguridade Social, podemos afirmar que o
+valor dos benefícios pode ser diminuído gradativamente.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+
+
+---
+
+ERRADA. Um dos objetivos da Seguridade Social proíbe a diminuição do valor dos benefícios,
+conforme disposto no art. 194, § único, inciso IV da Constituição Federal, que dispõe sobre a
+Irredutibilidade do Valor dos Benefícios.
+
+
+Gabarito: ERRADO
+
+(ADAPTADA / INÉDITA)
+Quanto aos princípios constitucionais da Seguridade Social, é correto afirmar que o princípio da
+irredutibilidade do valor dos benefícios, segundo a orientação do Supremo Tribunal Federal,
+significa a irredutibilidade do valor real, protegendo-os do fenômeno inflacionário.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Conforme entendimento do Supremo Tribunal Federal – STF, tal princípio visa apenas
+proteger o valor nominal do benefício, uma vez que o valor real já está protegido pelo art. 201, §4º
+da CF/88.
+
+
+Gabarito: ERRADO
+
+Equidade na Forma de Participação no Custeio
+
+O princípio da Equidade na Forma de Participação no Custeio está elencado no
+art. 194, § único, V da CF/88. Tal princípio busca a observância dos critérios de
+justiça e igualdade, e consiste em tratar igualmente os iguais e desigualmente os
+desiguais, na medida de suas desigualdades. Estabelece, também, que a
+contribuição para o sistema será determinada de acordo com a capacidade
+econômica de cada contribuinte, ou seja, quem tem maior capacidade contributiva
+deverá contribuir com mais; quem tem menor capacidade, com menos.
+
+
+---
+
+    Exemplo: É com base neste princípio que se estabelece, por exemplo,
+    uma tabela de contribuição progressiva para os segurados empregados,
+    trabalhadores avulsos e empregados domésticos, determinando que a
+    contribuição dos citados segurados seja calculada mediante a aplicação
+    da correspondente alíquota sobre o salário de contribuição mensal (7,5%,
+    9%, 12% e 14%). Também pelo princípio da equidade pôde o legislador
+    cobrar maiores alíquotas das instituições financeiras (22,5%), se
+    comparadas às empresas em geral (20%). Também haverá uma
+    contribuição simplificada e favorecida para as microempresas e empresas
+    de pequeno porte, etc.
+
+Vejamos a seguir o diagrama com o resumo das informações mais importantes
+sobre esse princípio:
+
+
+      Art. 194
+ § único, V – CF/88
+
+
+                      Equidade na forma de participação no custeio
+
+
+                                Deve-se tratar igualmente os iguais
+                                  e desigualmente os desiguais.
+
+
+                             Quem tem maior capacidade contributiva
+                                irá contribuir com mais; quem tem
+                             menor capacidade, contribuirá com menos.
+
+              Vejamos como tais assuntos já foram cobrados em prova:
+
+
+---
+
+(CESPE - Especialista em Assistência Penitenciária/Serviço Social/2015)
+Com referência à política social e legislação social, julgue o item subsequente.
+Os objetivos da seguridade social, embasados em ações de discriminação positiva, visam alcançar a
+universalidade da cobertura e do atendimento e a equidade na forma de participação dos
+segurados.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A questão aborda regras da seguridade social, tratando especificamente da Previdência Social.
+A assertiva está CORRETA, apesar de o examinador ter buscado rebuscar m pouco a linguagem,
+quando do uso da expressão “ações de discriminação positiva”. Para verificar isso basta
+consultarmos o art.194 da Constituição Federal:
+
+
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com
+base nos seguintes objetivos:
+I - universalidade da cobertura e do atendimento;
+II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais;
+III - seletividade e distributividade na prestação dos benefícios e serviços;
+IV - irredutibilidade do valor dos benefícios;
+V - equidade na forma de participação no custeio;
+VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis especificadas
+para cada área, as receitas e as despesas vinculadas a ações de saúde, previdência e assistência
+social, preservando o caráter contributivo da previdência social;
+VII - caráter democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos
+colegiados.
+
+
+Gabarito: CERTO.
+
+
+---
+
+(ESAF - Analista Tributário da Receita Federal do Brasil/Geral/2012)
+Assinale a opção incorreta.
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base nos seguintes
+objetivos:
+a) universalidade da cobertura e do atendimento, de modo.
+b) prevalência dos benefícios e serviços às populações rurais.
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+d) irredutibilidade do valor dos benefícios.
+e) equidade na forma de participação no custeio.
+
+
+COMENTÁRIOS:
+O enunciado pede que assinalemos a ASSERTIVA INCORRETA.
+A resolução da presente questão tem por base o parágrafo único e respectivos incisos do art. 194
+da Constituição Federal, cujo texto reproduzimos a seguir:
+“Art. 194. ...
+Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com
+base nos seguintes objetivos:
+I - universalidade da cobertura e do atendimento;
+II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais;
+III - seletividade e distributividade na prestação dos benefícios e serviços;
+IV - irredutibilidade do valor dos benefícios;
+V - equidade na forma de participação no custeio;
+ VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis especificadas
+para cada área, as receitas e as despesas vinculadas a ações de saúde, previdência e assistência
+social, preservando o caráter contributivo da previdência social;
+VII - caráter democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos
+colegiados.”
+
+
+Tais objetivos são também denominados, tanto pela doutrina como pelas bancas de concursos,
+como princípios constitucionais específicos da Seguridade Social. Tais princípios também são
+reproduzidos no parágrafo único do Art. 1º da Lei nº 8.212/91.
+
+
+Tomando por base o texto constitucional citado, vamos à análise de cada alternativa:
+
+
+---
+
+a) universalidade da cobertura e do atendimento, de modo. (ASSERTIVA CORRETA).
+A presente alternativa reproduz o disposto no inciso I, do parágrafo único, do art. 194 da CF/88.
+Outrossim, a banca reconheceu o erro tipográfico consistente em adição da expressão “de modo”,
+ao final da presente alternativa, o que, segundo ela, não prejudica o quesito nem torna a opção
+juridicamente incorreta. A banca afirmou que, do ponto de vista jurídico, tanto faz se a expressão
+esteja presente, como ausente.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+b) prevalência dos benefícios e serviços às populações rurais. (ASSERTIVA ERRADA).
+Não podemos falar em prevalência dos benefícios e serviços às populações rurais, pois contraria
+frontalmente o disposto no inciso II, do parágrafo único, do art. 194 da CF/88. O correto seria
+“uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais”.
+Como o enunciado pede para assinalarmos a opção incorreta, essa será a alternativa a ser
+assinalada.
+
+
+c) seletividade e distributividade na prestação dos benefícios e serviços. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso III, do parágrafo único, do art. 194 da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+d) Irredutibilidade do valor dos benefícios. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso IV, do parágrafo único, do art. 194 da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+e) equidade na forma de participação no custeio. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso V, do parágrafo único, do art. 194 da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+Gabarito: B
+
+
+---
+
+(ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no seguinte
+objetivo: equidade na forma de participação no custeio.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A presente alternativa reproduz a literalidade do inciso V, do parágrafo único, do art. 194
+da CF/88. Tal princípio busca, como já estudamos, a observância dos critérios de justiça e igualdade,
+e consiste em tratar igualmente os iguais e desigualmente os desiguais, na medida de suas
+desigualdades. Estabelece, também, que a contribuição para o sistema será determinada de acordo
+com a capacidade econômica de cada contribuinte, ou seja, quem tem maior capacidade
+contributiva deverá contribuir com mais; quem tem menor capacidade, com menos.
+
+
+Gabarito: CERTO.
+
+(ADAPTADA / INÉDITA)
+Podemos afirmar que está previsto na CF/88, com relação aos objetivos constitucionais da
+Seguridade Social, a equidade na cobertura.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. O correto seria Equidade na Forma de Participação no Custeio, conforme disposto no art.
+194, § único, inciso V da CF/88. Não há previsão para equidade na cobertura, conforme afirma o
+enunciado da questão.
+Gabarito: ERRADO.
+
+Diversidade da Base de Financiamento
+
+O princípio da Diversidade da Base de Financiamento está elencado no art. 194, §
+único, VI da CF/88. O citado princípio busca garantir a arrecadação de
+contribuições, de modo que a base de financiamento da seguridade social seja a
+mais variada possível, tendo diversas fontes de custeio. Dessa forma, haverá maior
+
+
+---
+
+segurança para o sistema, pois caso haja dificuldades na arrecadação de
+contribuições de determinada fonte, haverá outras para lhe suprir a falta.
+A própria CF/88, em seu art. 195, elenca, com base no princípio da diversidade da
+base de financiamento, as contribuições sociais para a Seguridade Social:
+
+
+                            Art. 195
+                              CF
+                                       Contribuições
+                                          Sociais
+
+
+           empregador           trabalhador            receita de
+                                                                          importador ou
+            empresa               e demais            concurso de
+                                                                            equiparado
+           equiparada            segurados            prognósticos
+
+            folha de salários
+                                             receita
+                e demais
+                                               ou                           lucro
+          rendimentos pagos
+                                          faturamento
+             a pessoa física
+
+
+Cabe ressaltar a possibilidade de que sejam criadas contribuições sociais além das
+citadas, tendo em vista a competência residual da União em relação às
+contribuições sociais, prevista no art. 195, §4º da CF/88. Tal assunto será estudado
+detalhadamente na próxima aula.
+
+                                             Lei
+                                         Complementar
+        Art. 195,
+         §4º CF                   A lei poderá instituir outras
+                          fontes destinadas a garantir a manutenção
+                              ou expansão da Seguridade Social
+
+                    a União             novas contribuições para a seguridade social
+                    poderá                     (Contribuições Sociais Residuais)
+                    instituir
+                                                          condições
+                  mediante
+                     lei                   não                inovar            inovar
+                complementar            cumulativas        fato gerador     base de cálculo
+
+
+---
+
+O texto constitucional ainda destaca a necessidade de se identificar, em rubricas
+contábeis específicas para cada área, as receitas e despesas vinculadas a ações de
+saúde, previdência e assistência social, preservando o caráter contributivo da
+previdência social. Em outras palavras, deve haver a especificação em cada receita
+ou despesa da seguridade social da área para a qual ela está sendo destinada.
+
+
+Vejamos a seguir o diagrama com o resumo das informações mais importantes
+sobre o princípio da diversidade da base de financiamento:
+
+           Art. 194
+      § único, VI – CF/88
+
+
+                                    Diversidade da base de financiamento.
+
+
+                            Compete ao Poder Público, nos termos da lei, organizar a seguridade
+                            social, com base na Diversidade da Base de Financiamento,
+                            identificando-se, em rubricas contábeis específicas para cada área,
+                            as receitas e as despesas vinculadas a ações de saúde, previdência e
+                            assistência social, preservado o caráter contributivo da previdência
+                            social.
+
+                                      Visa assegurar, de diversas formas, os direitos
+                                         à Saúde, Previdência e Assistência Social.
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+(ESAF - Analista Tributário da Receita Federal do Brasil/2009)
+Tendo em vista os princípios e diretrizes da Seguridade Social, nos termos do texto da Constituição
+Federal e da legislação de custeio previdenciária, assinale a opção incorreta.
+a) Diversidade da base de financiamento.
+
+
+---
+
+b) Universalidade da cobertura e do atendimento.
+c) Equidade na forma de participação no custeio.
+d) Irredutibilidade do valor dos benefícios e serviços.
+e) Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+COMENTÁRIOS:
+O enunciado pede que assinalemos a ASSERTIVA INCORRETA.
+
+
+A resolução da presente questão tem por base o parágrafo único e respectivos incisos do art. 194
+da Constituição Federal, cujo texto reproduzimos a seguir:
+“Art. 194. ...
+Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com
+base nos seguintes objetivos:
+I - universalidade da cobertura e do atendimento;
+II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais;
+III - seletividade e distributividade na prestação dos benefícios e serviços;
+IV - irredutibilidade do valor dos benefícios;
+V - equidade na forma de participação no custeio;
+VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis especificadas
+para cada área, as receitas e as despesas vinculadas a ações de saúde, previdência e assistência
+social, preservando o caráter contributivo da previdência social;
+VII - caráter democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos
+colegiados.”
+
+
+Tais objetivos são também denominados, tanto pela doutrina como pelas bancas de concursos,
+como princípios constitucionais específicos da Seguridade Social.
+Tomando por base o texto constitucional citado, vamos à análise de cada alternativa:
+
+
+a) Diversidade da base de financiamento. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso VI, do parágrafo único, do art. 194 da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+b) Universalidade da cobertura e do atendimento. (ASSERTIVA CORRETA).
+
+
+---
+
+A presente alternativa reproduz a literalidade do inciso I, do parágrafo único, do art. 194 da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+c) Equidade na forma de participação no custeio. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso V, do parágrafo único, do art. 194 da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+d) Irredutibilidade do valor dos benefícios e serviços. (ASSERTIVA ERRADA).
+Como podemos observar na leitura atenta do inciso IV, do parágrafo único, do art. 194 da CF/88, a
+irredutibilidade aplica-se apenas aos benefícios. Os benefícios são prestações dotadas de conteúdo
+pecuniário, como, por exemplo, uma aposentadoria ou um auxílio doença. Os serviços, por sua vez,
+não possuem natureza pecuniária. Assim sendo, não há previsão para a irredutibilidade do valor dos
+serviços. Como o enunciado pede para assinalarmos a opção incorreta, essa será a alternativa a ser
+assinalada.
+
+e) Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+(ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso II, do parágrafo único, do art. 194 da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+Gabarito: D.
+
+(ADAPTADA / INÉDITA)
+Com relação aos objetivos constitucionais da Seguridade Social, encontra-se a Universalidade da
+base de financiamento.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Conforme disposto no art. 194, § único, inciso I da Constituição Federal, o correto seria
+Universalidade da Cobertura e do Atendimento. Também estaria correto se a assertiva afirmasse
+Diversidade da Base de Financiamento, conforme disposto no art. 194, § único, inciso VI da
+Constituição Federal. Universalidade da Base de Financiamento, como trazido pela questão, não
+existe na CF/88.
+Gabarito: ERRADO.
+
+
+---
+
+(ADAPTADA / INÉDITA)
+A Constituição Federal, no seu art. 194, parágrafo único, elenca os objetivos da Seguridade Social.
+Entre os quais, está correto a unicidade da base de financiamento.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Entre os objetivos da Seguridade Social, elencados no art. 194, § único da CF/88, não se
+encontra a unicidade da base de financiamento. O correto seria afirmar a previsão da diversidade
+da base de financiamento, conforme disposto no art. 194, § único, inciso VI da Constituição Federal.
+
+
+Gabarito: ERRADO.
+
+Caráter Democrático e Descentralizado da Administração, Mediante Gestão
+Quadripartite, com Participação dos Trabalhadores, dos Empregadores, dos
+Aposentados e do Governo nos Órgãos Colegiados.
+Tal princípio está elencado no art. 194, § único, VII da CF/88. Assegura a
+participação da sociedade na gestão da Seguridade Social, ou seja, deixa de ser
+administrada exclusividade do Poder Público, e passa a ser compartilhada com
+integrantes da sociedade civil, tendo, portanto, caráter democrático e
+descentralizado, mediante gestão quadripartite, com participação dos
+trabalhadores, empregadores, aposentados e do próprio governo, em órgãos de
+deliberação colegiados.
+
+     Exemplo: O Conselho Nacional de Previdência Social – CNPS, por
+     exemplo, é um órgão superior de deliberação colegiada, tendo como
+     objetivo precípuo o estabelecimento do caráter democrático e
+     descentralizado da gestão administrativa e que, entre outras atribuições,
+     deverá estabelecer diretrizes gerais e apreciar as decisões de políticas
+     aplicáveis à Previdência Social. O CNPS será composto por 6
+     representantes do governo federal e 9 representantes da sociedade civil,
+     dos quais 3 representam os aposentados e pensionistas, 3 representam
+     os trabalhadores e outros 3 representam os empregadores.
+
+
+---
+
+Vejamos, a seguir, o diagrama com o resumo das informações mais importantes
+sobre o caráter democrático e descentralizado da administração da Seguridade
+Social, mediante gestão quadripartite, com participação dos trabalhadores, dos
+empregadores, dos aposentados e do governo nos órgãos colegiados:
+
+           Art. 194
+     § único, VII – CF/88               democrático
+                                                                    da
+                            Caráter                            administração
+                                       descentralizado
+
+
+                                      trabalhadores
+             mediante                 empregadores
+              gestão                                           nos órgãos
+            quadripartite              aposentados             colegiados
+
+                                         governo
+
+Temos aqui importantes informações que podemos extrair deste princípio, as quais
+deverão ser memorizadas pelo candidato, acerca da Seguridade Social:
+ •   Caráter democrático e descentralizado da administração.
+ •   Gestão quadripartite.
+ •   Gestão com participação dos trabalhadores, empregadores, aposentados e
+     do governo.
+ •   Participação por meio de Órgãos Colegiados
+
+                Vejamos como tais assuntos já foram cobrados em prova:
+
+
+---
+
+ (CESPE - Analista Judiciário (TRT 10ª Região) / Judiciária / "Sem Especialidade"/2013 (e mais 1
+concurso)
+Com base nas disposições emanadas do direito previdenciário, julgue o item abaixo.
+O princípio do caráter democrático da administração da seguridade social preconiza que sua gestão
+será quadripartite, com a participação da União, dos estados, dos municípios e do Distrito Federal.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa está INCORRETA, pois a gestão quadripartite da Seguridade Social, nos termos da
+CF/88, é composta por
+- Trabalhadores;
+- Empregadores;
+- Aposentados;
+- Governo.
+Assim sendo a primeira parte da afirmativa está correta, conforme o inciso VII do parágrafo único,
+do Art 194 da Constituição Federal, que assim dispõe:
+Art. 194. (...)
+Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com
+base nos seguintes objetivos:[…]
+VII – caráter democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos
+colegiados.
+
+
+Gabarito: ERRADO.
+
+CESPE - Defensor Público do Distrito Federal/2013
+Julgue o item a seguir, relativo à seguridade social e a acidente do trabalho.
+Entre os objetivos em que se baseia a organização da seguridade social no Brasil inclui-se o caráter
+democrático e descentralizado da administração, mediante gestão tripartite, com participação dos
+trabalhadores, dos empregadores e do governo nos órgãos colegiados.
+Certo ( )
+
+
+---
+
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa, novamente testa o seu conhecimento sobre o art., 194 da Constituição Federal.
+Conforme o inciso VII do parágrafo único, do referido artigo, podemos concluir que a assertiva está
+errada, poia a gestão da Seguridade Social é quadripartite, a não tripartite, com a participação dos
+trabalhadores, empregadores, aposentados e do Governo em órgãos colegiados.
+Art. 194. (...) Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade
+social, com base nos seguintes objetivos: […]
+VII – caráter democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos
+colegiados.
+Gabarito: ERRADO
+
+(FCC - Auditor – TCE/CE - 2015)
+Em relação às disposições legais sobre organização e princípios da Seguridade Social previstos na
+Constituição da República Federativa do Brasil, é correto afirmar:
+a) Uma das diretrizes da Previdência Social é o seu caráter centralizado, com direção única em cada
+esfera de governo.
+b) As ações e serviços públicos de Saúde integram uma rede regionalizada e hierarquizada e
+constituem um sistema único.
+c) A assistência social será prestada a quem dela necessitar, com natureza facultativa, solidária e
+contributiva.
+d) A promoção da integração ao mercado de trabalho é um dos objetivos expressos da Previdência
+Social.
+e) Em razão da diversidade da base de financiamento, não há uniformidade e equivalência entre os
+benefícios às populações urbanas e rurais.
+
+
+COMENTÁRIOS:
+Essa questão pede para que você selecione a alternativa CORRETA e testa os seus conhecimentos
+sobre seguridade social (conceituação geral), conforme diversos artigos da CF/88, os quais
+exploraremos abaixo, conforme as alternativas.
+Analisemos as assertivas:
+
+
+a) Uma das diretrizes da Previdência Social é o seu caráter centralizado, com direção única em cada
+esfera de governo.
+
+
+---
+
+Para quem já estudou um pouco o texto constitucional, a palavra “centralizado” já salta aos olhos,
+não é? Ora, essa alternativa está incorreta, pois a Seguridade Social, que abrange saúde, assistência
+social e previdência, pelo artigo 194 da Constituição Federal, possui caráter descentralizado.
+Art. 194 ...
+VII - caráter democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos
+colegiados.
+Alternativa INCORRETA.
+
+
+b) As ações e serviços públicos de Saúde integram uma rede regionalizada e hierarquizada e
+constituem um sistema único.
+Conforme consta no Art. 198 da Constituição Federal, podemos concluir que essa alternativa é a
+CORRETA, senão vejamos:
+Art. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e
+constituem um sistema único, organizado de acordo com as seguintes diretrizes:
+I - descentralização, com direção única em cada esfera de governo;
+II - atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços
+assistenciais;
+III - participação da comunidade.
+Portanto, alternativa CORRETA
+
+
+c) A assistência social será prestada a quem dela necessitar, com natureza facultativa, solidária e
+contributiva.
+Aqui, o examinador tentou confundir o candidato misturando alguns conceitos de “assistência
+social” com de “previdência social”. Contudo, essa alternativa está claramente incorreta, pois
+assistência social, assim como a saúde, são independentes de qualquer contribuição, conforme
+podemos verificar logo no caput do art. 203, abaixo reproduzido em sua integra:
+Art. 203. A assistência social será prestada a quem dela necessitar, independentemente de
+contribuição à seguridade social, e tem por objetivos:
+I - a proteção à família, à maternidade, à infância, à adolescência e à velhice;
+II - o amparo às crianças e adolescentes carentes;
+III - a promoção da integração ao mercado de trabalho;
+IV - a habilitação e reabilitação das pessoas portadoras de deficiência e a promoção de sua
+integração à vida comunitária;
+V - a garantia de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao
+idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por
+sua família, conforme dispuser a lei.
+
+
+---
+
+Portanto, alternativa INCORRETA.
+
+
+d) A promoção da integração ao mercado de trabalho é um dos objetivos expressos da Previdência
+Social.
+Essa alternativa também está INCORRETA, pois promoção e integração ao mercado de trabalho é
+um dos objetivos da assistência social e não da previdência social. Mais uma vez, o examinador tenta
+confundir o candidato misturando conceitos de “Previdência” com “Assistência”. Bom a esta altura
+já deu para você perceber que esse tipo de pegadinha é muito comum. Portanto, fique atento.
+Alternativa INCORRETA.
+
+
+e) Em razão da diversidade da base de financiamento, não há uniformidade e equivalência entre os
+benefícios às populações urbanas e rurais.
+Essa alternativa está incorreta, pois conforme previsto no inciso II, parágrafo único, do art. 194 da
+Constituição Federal, um dos objetivos da Seguridade Social é a equivalências de direito entre os
+benefícios e serviços das populações urbanas e rurais. Tal fato não tem nada que ver com a
+diversidade da base de financiamento.
+Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes
+Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à
+assistência social.
+Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com
+base nos seguintes objetivos:
+(...)
+II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais;
+Portanto, Alternativa INCORRETA
+
+
+Gabarito: B
+
+(ADAPTADA / INÉDITA)
+Nos termos da CF/88, no seu art. 194, parágrafo único, inciso VII, a gestão da Seguridade Social
+ocorre de forma descentralizada, monocrática e quadripartite.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+
+
+---
+
+ERRADA. Nos termos da CF/88, no seu art. 194, parágrafo único, inciso VII, a gestão da Seguridade
+Social ocorre de forma descentralizada, democrática e quadripartite. A assertiva está errada por
+afirmar que a gestão ocorre de forma monocrática.
+
+
+Gabarito: ERRADO
+
+(ADAPTADA / INÉDITA)
+Segundo a organização e princípios constitucionais da Seguridade Social, podemos afirmar que a
+gestão da Seguridade Social é ato privativo do Poder Público.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Nos termos da CF/88, no seu art. 194, parágrafo único, inciso VII, a gestão da Seguridade
+Social dar-se-á de forma quadripartite, com participação dos trabalhadores, empregadores,
+aposentados e do próprio governo nos órgãos colegiados, não sendo, portanto, ato privativo do
+poder público.
+
+
+Gabarito: ERRADO
+
+Solidariedade
+
+O princípio da Solidariedade está elencado no art. 3º, I da CF/88, que assim dispõe:
+      “Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil: I - construir
+     uma sociedade livre, justa e solidária;”
+
+O citado princípio busca reduzir as desigualdades sociais, permitindo que alguns
+contribuam mais para o sistema, enquanto outros contribuam menos, de acordo
+com suas condições financeiras e demais características individuais previstas em lei.
+Vale a regra de quem contribui não o faz para si, mas para toda a sociedade. Não
+se trata de um regime de capitalização, onde cada segurado contribui para uma
+conta vinculada em seu nome e para seu próprio benefício. A solidariedade é uma
+
+
+---
+
+contribuição para o sistema, não apenas visando o seu próprio direito, mas sim
+visando o bem comum, ou seja, o direito de toda a coletividade.
+
+     Exemplo: Imaginemos um trabalhador que, ao final do seu primeiro dia
+     de trabalho, saiu para comemorar o novo emprego com os amigos. Ficou
+     embriagado e imprudentemente voltou dirigindo para casa. No trajeto,
+     sofreu um acidente e ficou definitivamente incapaz para o trabalho.
+     Independentemente da natureza ou da causa do acidente, o empregado
+     acidentado terá direito de se aposentar por invalidez, mesmo sem ter
+     ainda qualquer contribuição recolhida para o sistema.
+
+    Vejamos a seguir o diagrama com o resumo das informações mais importantes
+sobre esse princípio:
+
+                                         Solidariedade
+
+
+                       Impede a adoção de um sistema de capitalização
+                          pura na previdência social. quem contribui
+                        não o faz para si, mas para toda a sociedade.
+
+                         É esse princípio que permite um segurado ser
+                         aposentado por invalidez em seu primeiro dia
+                          de trabalho, sem ter qualquer contribuição
+                                    recolhida para o sistema.
+
+               Vejamos como tais assuntos já foram cobrados em prova:
+
+(ESAF - Auditor Fiscal da Receita Federal do Brasil/2014)
+Sobre o princípio constitucional da solidariedade, próprio do direito previdenciário, julgue os itens
+a seguir, classificando-os como certos ou errados. Em seguida, assinale a opção correta.
+
+
+---
+
+I. A solidariedade é a justificativa elementar para a compulsoriedade do sistema previdenciário, pois
+os trabalhadores são coagidos a contribuir em razão da cotização individual ser necessária para a
+manutenção de toda a rede protetiva, e não para a tutela do indivíduo, isoladamente considerado.
+II. A solidariedade é pressuposto para a ação cooperativa da sociedade, sendo essa condição
+fundamental para a materialização do bem-estar social, com a necessária redução das
+desigualdades sociais.
+III. É a solidariedade que justifica a cobrança de contribuições pelo aposentado que volta a trabalhar.
+IV. A solidariedade impede a adoção de um sistema de capitalização pura em todos os segmentos
+da previdência social.
+a) Apenas I está correta.
+b) Apenas I e II estão corretas.
+c) Apenas I, II e III estão corretas.
+d) Apenas II e III estão corretas.
+e) Todos os itens estão corretos.
+
+
+COMENTÁRIOS:
+Com base na nossa introdução teórica, já temos condições de analisar as assertivas da questão:
+
+
+I – A Previdência Social possui caráter contributivo e compulsório. Assim sendo, os trabalhadores
+são coagidos a contribuir em razão da cotização individual ser necessária para a manutenção de
+toda a rede protetiva. (ASSERTIVA CORRETA).
+
+
+II - A solidariedade é sim um pressuposto para a ação cooperativa da sociedade, pois a contribuição
+não pertence a quem contribuiu, mas sim a todo e qualquer beneficiário do sistema. Tal princípio
+constitucional é medida necessária para a redução das desigualdades sociais, pois o mais afortunado
+contribui com mais e o mais carente, em regra, é quem mais utiliza os benefícios do sistema, apesar
+de contribuir com menos. (ASSERTIVA CORRETA).
+
+
+III - A solidariedade justifica a cobrança de contribuições pelo aposentado que volta a trabalhar,
+pois, como já sabemos, quem contribui não o faz para si, mas sim para toda a sociedade. (ASSERTIVA
+CORRETA).
+
+
+IV - Atualmente, são duas as formas existentes para gerar os recursos que se transformarão em
+benefícios no sistema previdenciário: o Regime de Repartição e o Regime de Capitalização.
+Especificamente em relação à Previdência Social, a solidariedade, como já vimos, realmente impede
+a adoção de um sistema de capitalização pura, como encontramos nos regimes de previdência
+complementar privado. Nos segmentos da previdência social, a contribuição deverá,
+obrigatoriamente, respeitar o princípio constitucional da solidariedade, onde a contribuição é
+
+
+---
+
+direcionada para o sistema, não apenas visando o seu próprio direito, mas sim visando o bem
+comum, ou seja, o direito de toda a coletividade. (ASSERTIVA CORRETA).
+
+
+Conforme apresentamos acima, todos os itens estão corretos.
+
+
+Gabarito : E
+
+Anterioridade Nonagesimal ou Mitigada
+
+O princípio da Anterioridade Nonagesimal ou Mitigada está previsto no art. 195,
+§6º da CF/88, que assim dispõe:
+     Art. 195. (...) “§6º As contribuições sociais de que trata este artigo só poderão ser exigidas
+     após decorridos noventa dias da data da publicação da lei que as houver instituído ou
+     modificado, não se lhes aplicando o disposto no art. 150, III, "b"”
+
+Trata-se de um princípio que tem por objetivo proteger o contribuinte do fator
+surpresa, para que ele possa, durante o prazo de 90 dias, ajustar seu planejamento
+financeiro e readequar seu orçamento, preparando-o para o aumento da carga
+tributária, visando o efetivo pagamento de tais contribuições.
+
+    As modificações incidentes nas contribuições sociais para Seguridade Social,
+mencionadas no art.195, §6º da CF/88, são apenas modificações que possam
+repercutir negativamente no patrimônio do contribuinte, ou seja, essa
+“modificação” deverá ser interpretada apenas como “instituição” ou “majoração”,
+conforme entendimento do próprio STF.
+
+
+Em relação às contribuições para a Seguridade Social, basta que se respeite o prazo
+de 90 dias contados da publicação da lei que houver instituído ou modificado
+(majorado) a contribuição social, não havendo necessidade de se respeitar o
+“princípio da anterioridade” previsto no art. 150, III, “b” da CF/88.
+
+
+---
+
+       Exemplo: Caso seja publicada uma lei aumentando a alíquota de
+       contribuição social em abril de um determinado ano, não há a
+       necessidade de o poder público esperar até o primeiro dia do exercício
+       seguinte (ano calendário seguinte) para efetuar a cobrança utilizando-se
+       das novas alíquotas, bastando respeitar, tão somente, o lapso temporal
+       de 90 (noventa) dias da data da publicação da lei que majorou a
+       respectiva contribuição social.
+
+                                                  NÃO
+                         JÁ PODE                  PRECISA
+                         COBRAR                   ESPERAR
+
+PUBLICAÇÃO DA           APÓS 90             01/01/2020
+ LEI (15/04/2020)        DIAS
+
+  Vejamos a seguir o diagrama com o resumo das informações mais importantes
+  sobre esse princípio:
+
+                                                           para a
+            Art. 195,                                    Seguridade
+             §6º CF                                        Social
+                    As contribuições sociais
+
+                                               após decorridos
+                                                   90 dias
+
+                    só poderão       da data da publicação da lei que
+                        ser         as houver instituído ou modificado*
+                     exigidas
+                                             não lhes aplicando o
+                                          princípio da anterioridade
+                                    (anterioridade do exercício financeiro)
+
+
+---
+
+               Vejamos como tais assuntos já foram cobrados em prova:
+
+(FCC - Procurador Autárquico – MANAUSPREV - 2015)
+A seguridade social será financiada mediante recursos provenientes dos poderes públicos e de
+algumas contribuições sociais de particulares. Sobre estas últimas, após a criação por lei, somente
+poderão ser exigidas:
+a) após decorridos 120 dias.
+b) no dia seguinte da sua criação.
+c) no exercício financeiro seguinte ao ano da criação.
+d) após decorridos 45 dias.
+e) após decorridos 90 dias.
+
+
+COMENTÁRIOS:
+Essa questão busca ver se você tem conhecimentos sobre o art. 195 da CF/88, que a pesar de um
+pouco longo, é de suma importância para o candidato. Para analisar as alternativas, vamos rever o
+referido artigo em seu caput e, especificamente, seu § 6º:
+Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos
+termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito
+Federal e dos Municípios, e das seguintes contribuições sociais:
+[…]
+§ 6º As contribuições sociais de que trata este artigo só poderão ser exigidas após decorridos
+noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes
+aplicando o disposto no art. 150, III, "b".
+Como podemos ver, o § 6º estabelece que as contribuições sociais só poderão ser exigidas após
+decorridos 90 dias da publicação da lei, portanto, sem dúvidas, conhecendo o dispositivo legal,
+podemos marcar o “x” na alternativa E.
+
+
+Gabarito: E
+
+
+---
+
+QUADRO DE PALAVRAS-CHAVE
+
+                           poder público
+       Iniciativa
+                            sociedade
+
+
+     Organização           poder público
+
+                           trabalhadores
+    Administração          empregadores
+      (Gestão)             aposentados
+                             governo
+
+
+---
+
+QUESTÕES COMENTADAS
+
+                 Lista dos exercícios para consolidação do conhecimento
+
+1.    (CESPE – Analista Portuário – EMAP – 2018)
+O sistema de seguridade social compreende um conjunto de ações de iniciativa exclusiva
+dos poderes públicos, que se destinam à garantia de saúde, previdência e assistência à
+sociedade.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A questão envolve o assunto mais cobrado pelas bancas na disciplina de direito
+previdenciário: princípios e objetivos da Seguridade Social. Para respondermos, devemos
+conhecer o art. 194 da Constituição Federal, o qual deve estar “no sangue”:
+             Art. 194. A seguridade social compreende um conjunto integrado de ações de
+            iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os
+            direitos relativos à saúde, à previdência e à assistência social.
+            Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+            seguridade social, com base nos seguintes objetivos:
+
+
+Pelo caput do artigo 194 vemos que a seguridade social não é um conjunto de ações
+exclusivas dos poderes públicos, mas sim um conjunto integrado de ações tanto do
+poder público como da sociedade, tornando a assertiva ERRADA.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+2.      (CESPE – Analista Judiciário STM – Serviço Social – 2018)
+A previdência social e a assistência social visam assegurar aos seus beneficiários meios
+indispensáveis de manutenção, por motivo de incapacidade, idade avançada, tempo de
+serviço, desemprego involuntário, encargos de família e reclusão ou morte daqueles de
+quem dependiam economicamente.
+     Certo ( )
+     Errado ( )
+
+
+     COMENTÁRIOS:
+Vejamos a literalidade da Lei 8.212/91:
+
+
+        Art. 3º A Previdência Social tem por fim assegurar aos seus beneficiários meios
+        indispensáveis de manutenção, por motivo de incapacidade, idade avançada,
+        tempo de serviço, desemprego involuntário, encargos de família e reclusão ou
+        morte daqueles de quem dependiam economicamente.
+        (...)
+        Art. 4º A Assistência Social é a política social que provê o atendimento das
+        necessidades básicas, traduzidas em proteção à família, à maternidade, à
+        infância, à adolescência, à velhice e à pessoa portadora de deficiência,
+        independentemente de contribuição à Seguridade Social.
+
+
+Vejam que o enunciado atribuiu incorretamente à assistência social a definição a
+Previdência Social.
+
+
+Gabarito: ERRADA.
+
+
+3.      (CESPE – Analista Judiciário – STM – 2018)
+Acerca da Lei n.º 8.212/1991, que dispõe sobre a seguridade social, julgue o item a seguir.
+A previdência social e a assistência social visam assegurar aos seus beneficiários meios
+indispensáveis de manutenção, por motivo de incapacidade, idade avançada, tempo de
+serviço, desemprego involuntário, encargos de família e reclusão ou morte daqueles de
+quem dependiam economicamente.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+A questão tenta misturar os conceitos entre as áreas de Seguridade Social. Vejamos as
+definições da Lei 8.212/91:
+
+
+     Art. 3º A Previdência Social tem por fim assegurar aos seus beneficiários meios
+     indispensáveis de manutenção, por motivo de incapacidade, idade avançada, tempo
+     de serviço, desemprego involuntário, encargos de família e reclusão ou morte
+     daqueles de quem dependiam economicamente.
+     Art. 4º A Assistência Social é a política social que provê o atendimento das
+     necessidades básicas, traduzidas em proteção à família, à maternidade, à infância, à
+     adolescência, à velhice e à pessoa portadora de deficiência, independentemente de
+     contribuição à Seguridade Social.
+     (grifos nossos)
+
+
+Quem visa assegurar aos seus beneficiários meios indispensáveis de manutenção, por
+motivo de incapacidade, idade avançada, tempo de serviço, desemprego involuntário,
+encargos de família e reclusão ou morte daqueles de quem dependiam economicamente
+é somente a previdência social, e não a previdência social e a assistência social como
+afirmado.
+
+
+Gabarito: ERRADA.
+
+
+4.    (CESPE – Analista Judiciário STM – Serviço Social – 2018)
+Acerca da Lei n.º 8.212/1991, que dispõe sobre a seguridade social, julgue o item a seguir.
+Os princípios e diretrizes da seguridade social incluem a participação da iniciativa privada
+na assistência à área da saúde, desde que obedecidos os preceitos constitucionais.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Para respondermos à questão, devemos recorrer à Lei 8.212/91, que elenca princípios
+aplicáveis especificamente à Saúde, um dos sistemas da Seguridade Social.
+
+
+---
+
+     Art. 2º A Saúde é direito de todos e dever do Estado, garantido mediante políticas
+     sociais e econômicas que visem à redução do risco de doença e de outros agravos e
+     ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e
+     recuperação.
+     (...)
+     f) participação da iniciativa privada na assistência à saúde, obedecidos os preceitos
+     constitucionais.
+
+
+A questão está conforme o texto legal, ou seja, empresas privadas podem prestar
+serviços na área da Saúde, como por exemplo temos os hospitais particulares,
+entretanto, devem ser observados os princípios constitucionais.
+
+
+Gabarito: CERTO.
+
+5.     (CESPE- Analista Judiciário – PGE PE – 2019)
+Acerca da seguridade social, julgue o item seguinte.
+O princípio da universalidade de cobertura da seguridade social assegura a concessão de
+todos os benefícios e serviços a todas as pessoas que deles necessitarem,
+independentemente de contribuição.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A questão aborda o princípio da universalidade da cobertura e do atendimento, previsto
+no artigo 194 da Constituição Federal:
+     Art. 194. A seguridade social compreende um conjunto integrado de ações de
+     iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+     relativos à saúde, à previdência e à assistência social.
+     Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+     seguridade social, com base nos seguintes objetivos:
+     I - universalidade da cobertura e do atendimento; (...)
+
+
+Entretanto, para respondermos à questão, não precisamos conhecer apenas o texto
+
+
+---
+
+constitucional, devemos ir além. Veja que o enunciado afirma que o princípio da
+universalidade da cobertura da seguridade social assegura a concessão de todos os
+benefícios e serviços às pessoas que deles necessitarem, independentemente de
+contribuição. Isso é verdade?
+Devemos nos lembrar que a seguridade social é formada pela saúde, previdência e
+assistência social. O princípio da universalidade da cobertura e do atendimento tem por
+objetivo atender a todos, indistintamente, inclusive estrangeiros de passagem pelo
+país. O princípio tem maior aplicação na Saúde, uma vez que esta é devida a todos. A
+Previdência Social é devida a quem com ela contribuir e a Assistência Social é devida a
+quem dela necessitar. Como a previdência social é devida a quem com ela contribuir,
+não é correto afirmar que haverá a concessão de todos os benefícios da seguridade
+social sem contribuição, concordam? Ninguém receberá uma aposentadoria por idade,
+por exemplo, sem o tempo mínimo de contribuição. Então, a afirmação do enunciado
+está totalmente equivocada.
+
+
+Gabarito: ERRADO.
+
+
+6.     (CESPE – Analista Judiciário – STJ – 2018)
+Com relação à organização e aos princípios do sistema de seguridade social brasileiro,
+julgue o item a seguir.
+ O princípio da seletividade e distributividade na prestação de benefícios e serviços está
+relacionado à seleção dos riscos sociais e à extensão da proteção patrocinada pelo Estado
+a todas as pessoas.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Apesar de a demanda da sociedade ser alta, os recursos públicos são limitados, não
+havendo a possibilidade de se cobrir todos os riscos sociais a todas as pessoas, cabendo
+ao legislador delimitar a extensão da proteção oferecida pela seguridade social.
+O princípio da seletividade diz respeito a quais contingências sociais serão cobertas pela
+seguridade social e o princípio da distributividade está relacionado com a seleção das
+pessoas que serão atendidas por cada prestação.
+A questão está correta ao afirmar que o princípio à seleção dos riscos sociais, mas está
+incorreta ao relacionar o princípio com a extensão da proteção do Estado a todas as
+
+
+---
+
+pessoas, uma vez que a distributividade prega, justamente, a delimitação do rol de
+pessoas atendidas, tornando a questão errada.
+
+
+Gabarito: ERRADO.
+
+
+7.    (CESPE – Analista Judiciário STJ- 2018)
+O princípio da seletividade e distributividade na prestação de benefícios e serviços está
+relacionado à seleção dos riscos sociais e à extensão da proteção patrocinada pelo Estado
+a todas as pessoas.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Vejamos os princípios da seletividade e distributividade a ser observados na organização
+da seguridade social:
+A seletividade impõe ao legislador a delimitação do rol de prestações que serão
+prestadas pela Seguridade Social, selecionando os riscos e contingências que serão
+atendidos dentro das possibilidades do financeiras do Poder Público.
+A distributividade, por sua vez, tem por objetivo diminuir as desigualdades sociais,
+buscando melhor distribuição de renda, direcionando a atuação do sistema protetivo às
+pessoas                   com                    maior                     necessidade.
+A questão está correta ao afirmar que o princípio da seletividade e distributividade na
+prestação de benefícios e serviços está relacionado à seleção dos riscos sociais e à
+extensão da proteção patrocinada pelo Estado. Entretanto, existe um erro no fim da
+assertiva ao afirmar que a prestação será a todas as pessoas. O princípio da
+distributividade informa que as prestações serão destinadas às pessoas com maior
+necessidade. Não haverá a cobertura a todas as pessoas, de acordo com este princípio.
+O princípio que prega que as prestações serão destinadas a todas as pessoas é o princípio
+da Universalidade da Cobertura e do Atendimento.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+8.    (CESPE – Procurador Municipal – Prefeitura Boa Vista – 2019)
+A respeito de princípios constitucionais relativos à seguridade social, julgue o item a
+seguir.
+O princípio da diversidade da base de financiamento é imprescindível para a manutenção
+da saúde financeira e atuarial do sistema de seguridade social, uma vez que reduz o risco
+de desequilíbrio do orçamento direto e indireto desse sistema.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Para respondermos à questão, vamos primeiro entender o que ela diz, já que temos muitas
+palavras difíceis no enunciado, concordam? Vamos começar pelo artigo 201 da CF:
+     Art. 201. A previdência social será organizada sob a forma de regime geral, de caráter
+     contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio
+     financeiro e atuarial, e atenderá, nos termos da lei, a (...)
+     (grifos nossos)
+
+
+Sabemos que a previdência social possui caráter contributivo, e o texto da CF diz que
+deve ser mantido o equilíbrio financeiro e atuarial. De forma bem simplificada, o equilíbrio
+financeiro e atuarial representa a “saúde”do sistema previdenciário, ou seja, as despesas
+são iguais ou menores que as receitas e o sistema possui condições financeiras de manter
+os benefícios previdenciários.
+
+
+Entre os princípios elencados no art. 194 da Constituição Federal, o que mais diz razão ao
+equilíbrio financeiro e atuarial é o princípio da diversidade da base de financimento. Tal
+princípio visa garantir fontes variadas de custeio para a seguridade social, buscando a
+obtenção de recursos para sustentabilidade do sistema.
+      CF. Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos: (...)
+      VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis
+      específicas para cada área, as receitas e as despesas vinculadas a ações de saúde,
+      previdência e assistência social, preservado o caráter contributivo da previdência
+      social;
+
+
+---
+
+Que já estudou finanças pessoais, com certeza já ouviu os analistas financeiros falarem
+que não devemos manter nossos investimentos em um ativo só, que devemos
+diversificar. O mesmo acontece com o financiamento da seguridade social, ou seja, não
+pode se confiar em apenas uma fonte de financiamento, pois se houver qualquer
+problema nessa fonte, ocorre um desequilíbrio no sistema.
+Por tudo o exposto, a questão estão CORRETA.
+
+
+Gabarito: CERTO.
+
+
+9.    (CESPE – Analista Judiciário STM – Serviço Social – 2018)
+Acerca da Lei n.º 8.212/1991, que dispõe sobre a seguridade social, julgue o item a seguir.
+Constitui princípio e diretriz da seguridade social o caráter democrático e descentralizado
+da gestão administrativa, com a participação de membros da comunidade, entre os quais,
+os empresários.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+O enunciado orienta que devemos responder a questão conforme a Lei 8.212/91.
+Portanto, vejamos o seu texto:
+     Art. 1º A Seguridade Social compreende um conjunto integrado de ações de
+     iniciativa dos poderes públicos e da sociedade, destinado a assegurar o direito
+     relativo à saúde, à previdência e à assistência social.
+     (...)
+      Parágrafo único. A Seguridade Social obedecerá aos seguintes princípios e
+     diretrizes:
+     (...)
+     g) caráter democrático e descentralizado da gestão administrativa com a participação
+     da comunidade, em especial de trabalhadores, empresários e aposentados.
+     (grifos nossos)
+
+
+Conforme o texto da Lei, o enunciado está correto ao afirmar que os empresários
+participam da gestão administrativa da seguridade social por meio dos órgãos
+
+
+---
+
+descentralizados. Vamos também nos lembrar que o texto da CF prevê o caráter
+democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo
+nos órgãos colegiados.
+
+
+Gabarito: CERTA.
+
+
+10.    (CESPE – Procurador do Município de Manaus – 2018)
+Constitui objetivo da seguridade social manter o caráter democrático e descentralizado
+da administração, mediante gestão tripartite, com participação dos trabalhadores e
+empregadores e do Estado.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A assertiva está errada ao afirmar que a gestão da seguridade social será tripartite.
+Conforme o texto constitucional, entre os princípios da seguridade social está o caráter
+democrático e descentralizado da administração, mediante gestão quadripartite, com
+participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos
+órgãos colegiados.
+
+
+Gabarito: ERRADA.
+
+
+11.    (CESPE – Auditor Estadual – TCM BA – 2018)
+O princípio da seguridade social que estabelece a proporcionalidade da contribuição
+social para o sistema conforme a condição financeira dos seus contribuintes denomina-se
+a) universalidade da cobertura e do atendimento.
+b) seletividade e distributividade.
+c) equidade na forma de participação do custeio.
+d) diversidade da base de financiamento.
+e) uniformidade e equivalência de benefícios.
+
+
+COMENTÁRIOS:
+
+
+---
+
+a) universalidade da cobertura e do atendimento.
+O princípio da universalidade da cobertura preconiza que a proteção oferecida pela
+seguridade social deve alcançar todos os riscos sociais. O principio da universalidade do
+atendimento visa a estender a proteção social a todas as pessoas, independente de
+nacionalidade ou outros fatores. Portanto, o princípio não tem relação com o enunciado.
+Alternativa INCORRETA.
+
+
+b) seletividade e distributividade.
+Apesar de a demanda da sociedade ser alta, os recursos públicos são limitados, não
+havendo a possibilidade de se cobrir todos os riscos sociais a todas as pessoas, cabendo
+ao legislador delimitar a extensão da proteção oferecida pela seguridade social.
+O princípio da seletividade diz respeito a quais contingências sociais serão cobertas pela
+seguridade social e o princípio da distributividade está relacionado com as pessoas que
+serão atendidas pelas prestações. Portanto, o princípio não tem relação com o
+apresentado no enunciado. Alternativa ERRADA.
+
+
+c) equidade na forma de participação do custeio.
+Este princípio estabelece que a contribuição será determinada de acordo com a
+capacidade econômica do contribuinte. Esse é o princípio tratado no enunciado.
+Alternativa CORRETA.
+
+
+d) diversidade da base de financiamento.
+O princípio da diversidade da base de financiamento busca garantir fontes variadas para
+custeio da seguridade social, de forma a garantir o equilíbrio financeiro do sistema.
+Alternativa ERRADA.
+
+
+e) uniformidade e equivalência de benefícios.
+A uniformidade preconiza que a seguridade social deve oferecer cobertura aos mesmos
+riscos sociais a todos, em outras palavras, a proteção à doença, maternidade, morte,
+invalidez e idade avançada deve ser oferecida tanto à população urbana quanto à
+população rural. Já a equivalência se refere ao valor pecuniário dos benefícios oferecidos.
+O valor não deverá necessariamente ser igual, mas deverá ser equivalente. Não é o
+princípio tratado no enunciado. Alternativa INCORRETA.
+
+
+Gabarito: C.
+
+
+---
+
+12.      (CESPE-Procurador do Estado de Pernambuco – 2018)
+Conforme a doutrina, o princípio previdenciário que representa o sistema de repartição
+da seguridade social e garante a prestação de benefícios e serviços
+independentemente do aporte individual das contribuições sociais é o princípio da
+  a)     Uniformidade da base de financiamento.
+  b) Seletividade e distributividade na prestação de benefícios e serviços.
+  c)     Solidariedade.
+  d) Equidade na forma de participação do custeio.
+  e) Diversidade da base de financiamento.
+
+
+      COMENTÁRIOS:
+  Esta questão aborda os princípios da Seguridade Social e pede que assinalemos a
+  alternativa CORRETA.
+
+
+      a) Uniformidade da base de financiamento.
+  Não existe o princípio com o nome de uniformidade da base de financiamento.
+  Temos o princípio da uniformidade e equivalência dos benefícios e serviços às
+  populações urbanas e rurais e o princípio diversidade da base de financiamento.
+  Alternativa INCORRETA.
+
+
+      b) Seletividade e distributividade na prestação de benefícios e serviços.
+      A seletividade impõe ao legislador a delimitação do rol de prestações que serão
+      prestadas pela Seguridade Social, selecionando os riscos e contingências que serão
+      atendidos dentro das possibilidades do financeiras do Poder Público.
+      A distributividade, por sua vez, tem por objetivo diminuir as desigualdades sociais,
+      buscando melhor distribuição de renda, direcionando a atuação do sistema protetivo
+      às pessoas com maior necessidade.
+      Dessa forma, o princípio não se relaciona com o enunciado. Alternativa INCORRETA.
+
+
+      c) Solidariedade.
+  O princípio da solidariedade preconiza que a contribuição feita a Previdência Social
+  não será sempre revertida em benefício próprio, mas será destinada a garantir a
+
+
+---
+
+  sustentabilidade do sistema. É esse o princípio que garante a prestação de benefícios
+  e serviços independentemente do aporte individual das contribuições sociais.
+  Além disso, o princípio da solidariedade é fundamental para a manutenção dos
+  sistemas previdenciários de Repartição Simples, em que os pagamentos dos
+  benefícios em manutenção são financiados pelos pagamentos dos contribuintes do
+  sistema.
+  Portanto, este é o princípio mencionado no enunciado. Alternativa CORRETA.
+
+
+      d) Equidade na forma de participação do custeio.
+  O princípio da equidade na forma de participação no custeio preconiza,
+  basicamente, que a contribuição para o sistema será de acordo com a capacidade
+  econômica do contribuinte. Basicamente, “quem pode mais, paga mais”. Alternativa
+  INCORRETA.
+      e) Diversidade da base de financiamento.
+  O princípio da diversidade da base de financiamento preconiza que as fontes de
+  financiamento da Seguridade Social serão diversas, com a participação de toda a
+  sociedade, de forma que seja possível manter o equilíbrio financeiro do sistema.
+  Alternativa INCORRETA.
+
+
+Gabarito: C
+
+
+13.      (CESPE – Auditor de Contas Públicas – TCE PB – 2018 - ADAPTADA)
+De acordo com a CF, o RGPS é
+a) organizado para garantir a proteção à maternidade, compreendida esta apenas como
+a exercida pela mãe gestante.
+b) garantidor do reajustamento dos benefícios previdenciários apenas para preservar-lhes
+o valor nominal.
+c) de filiação obrigatória, mas sem caráter contributivo.
+d) organizado para atender, entre outros, à cobertura de eventos como doenças, invalidez
+e morte, mas não o desemprego involuntário.
+e) garantidor de pelo menos um salário mínimo quando do pagamento de benefícios
+substitutivos do salário de contribuição ou de rendimento do trabalho.
+
+
+---
+
+COMENTÁRIOS:
+O enunciado da questão nos direcionada para encontrarmos a alternativa correta
+conforme o texto constitucional. Vamos analisar cada alternativa:
+a) organizado para garantir a proteção à maternidade, compreendida esta apenas como
+a exercida pela mãe gestante.
+      CF. Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+      (...)
+      II - proteção à maternidade, especialmente à gestante;
+
+
+No âmbito do RGPS, é garantida a proteção a maternidade e especialmente à gestante,
+mas, ao contrário do que afirma o enunciado, a proteção não é apenas à mãe gestante. O
+benefício de salário-maternidade, por exemplo, também é garantido aos adotantes.
+Alternativa ERRADA.
+
+
+b) garantidor do reajustamento dos benefícios previdenciários apenas para preservar-lhes
+o valor nominal.
+      CF. Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+      (...)
+      § 4º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter
+      permanente, o valor real, conforme critérios definidos em lei.
+      (grifos nossos)
+Para os benefícios PREVIDENCIÁRIOS, a CF garante o reajustamento para preservação do
+valor real, e não só o nominal. Alternativa ERRADA.
+
+
+c) de filiação obrigatória, mas sem caráter contributivo.
+      CF. Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+      (...)
+      (grifos nossos)
+
+
+---
+
+Ao contrário do que o enunciado afirma, o RGPS possui caráter contributivo. Portanto, a
+alternativa está ERRADA.
+
+
+d) organizado para atender, entre outros, à cobertura de eventos como incapacidade
+temporária ou permanente para o trabalho e idade avançada, mas não o desemprego
+involuntário.
+      CF. Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+      (...)
+      I - cobertura dos eventos de incapacidade temporária ou permanente para o
+      trabalho e idade avança;
+      (...)
+      III - proteção ao trabalhador em situação de desemprego involuntário;
+      (grifos nossos)
+
+
+A Constituição Federal prevê que o RGPS garantirá proteção ao trabalhador em situação
+de desemprego involuntário. Alternativa ERRADA.
+
+
+e) garantidor de pelo menos um salário mínimo quando do pagamento de benefícios
+substitutivos do salário de contribuição ou de rendimento do trabalho.
+      CF. Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+      (...)
+      § 2º Nenhum benefício que substitua o salário de contribuição ou o rendimento do
+      trabalho do segurado terá valor mensal inferior ao salário mínimo.
+
+
+Realmente, os benefícios que substituem o salário do trabalhador não poderão ter valor
+inferior ao mínimo. Alternativa CORRETA.
+
+
+Gabarito: E.
+
+
+---
+
+14.   (CESPE – Procurador do Município de Manaus – 2018)
+Julgue o próximo item, relativo à organização, aos princípios e ao custeio da seguridade
+social.
+Por força da regra da contrapartida, os benefícios e serviços da seguridade social somente
+poderão ser criados, majorados ou estendidos se existente a correspondente fonte de
+custeio total.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+De acordo com o § 5 do art. 195 da Constituição Federal, nenhum benefício ou serviço da
+Seguridade Social poderá ser criado, majorado ou estendido sem a correspondente fonte
+de custeio total. Esse é o chamado princípio da contrapartida.
+
+
+Gabarito: CERTA.
+
+
+15.   (FCC – Consultor Legislativo – CL DF – 2018)
+A mudança no tratamento da questão social pela Constituição Federal de 1988 consagrou,
+em relação à Seguridade Social, o princípio basilar de
+a) extensão da cobertura aos segmentos até então desprotegidos na sociedade.
+b) cobertura do contribuinte direto.
+c) sustentação orçamentária com enfoque na folha de pagamento do contribuinte.
+d) assegurar assistência médica aos trabalhadores do mercado formal.
+e) exclusão de cobertura contra riscos sociais.
+
+
+COMENTÁRIOS:
+A questão envolve conhecimentos dos princípios da Seguridade Social e pede para que
+assinalemos a alternativa correta. Vejamos cada alternativa:
+
+
+a) extensão da cobertura aos segmentos até então desprotegidos na sociedade.
+A alternativa aborda o princípio da universalidade da cobertura e do atendimento,
+previsto no artigo 194 da Constituição Federal:
+
+
+---
+
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      I - universalidade da cobertura e do atendimento; (...)
+
+
+O princípio da universalidade da cobertura e do atendimetno tem por objetivo atender a
+todos, indistintamente, inclusive estrangeiros de passagem pelo país. O princípio tem
+maior aplicação na Saúde, uma vez que esta é devida a todos. A Previdência Social é
+devida a quem com ela contribuir e a Assistência Social é devida a quem dela necessitar.
+Portanto, dado o princípio da universalidade da cobertura e do atendimento, é possível
+se fafirmar que houve a extensão da cobertura aos segmentos até então desprotegidos
+pela                                                                       sociedade.
+Alternativa CORRETA.
+
+
+b) cobertura do contribuinte direto.
+Vejamos o rol dos princípios da Seguridade Social previstos no art. 194 da Constituição
+Federal:
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      I - universalidade da cobertura e do atendimento;
+      II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+      rurais;
+      III - seletividade e distributividade na prestação dos benefícios e serviços;
+      IV - irredutibilidade do valor dos benefícios;
+      V - eqüidade na forma de participação no custeio;
+      VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis
+      específicas para cada área, as receitas e as despesas vinculadas a ações de saúde,
+      previdência e assistência social, preservado o caráter contributivo da previdência
+      social;
+
+
+---
+
+      VII - caráter democrático e descentralizado da administração, mediante gestão
+      quadripartite, com participação dos trabalhadores, dos empregadores, dos
+      aposentados e do Governo nos órgãos colegiados.
+
+
+Nenhum dos princípios acima está relacionado com o enunciado da alternativa.
+Alternativa INCORRETA.
+
+
+c) sustentação orçamentária com enfoque na folha de pagamento do contribuinte.
+
+Entre os princípios elencados no art. 194 da Constituição Federal, temos o da diversidade
+da base de financimento. Tal princípio visa garantir fontes variadas dde custeio da
+seguridade social, buscando a obtenção de recursos financeiros para sustentabilidade do
+sistema.
+Ao contrário da afirmativa, não há enfoque na folha de pagamento do contribuinte para
+sustentação orçamentária.
+Alternativa INCORRETA.
+
+
+d) assegurar assistência médica aos trabalhadores do mercado formal.
+Obtemos a resposta ao ler o artigo 196 da Constituição Federal:
+      Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante
+      políticas sociais e econômicas que visem à redução do risco de doença e de outros
+      agravos e ao acesso universal e igualitário às ações e serviços para sua promoção,
+      proteção e recuperação.
+
+
+A saúde é direito de todos, e não apenas dos trabalhadores do mercado formal.
+Alternativa INCORRETA.
+
+
+e) exclusão de cobertura contra riscos sociais.
+Conforme comentário da alternativa “a”, está entre os objetivos da seguridade social a
+universalidade da cobertura e do atendimento, portanto, não haverá exclusão de
+cobertura contra riscos sociais.
+Alternativa INCORRETA.
+
+
+Gabarito: A
+
+
+---
+
+16.     ( FCC – Analista Previdenciário – SEGEP – MA – 2018)
+Tendo em vista que os princípios são a base do sistema jurídico e revelam a finalidade a
+ser perseguida pelos aplicadores da lei, considere:
+
+
+I. São aplicáveis ao sistema da seguridade social os princípios da igualdade, da legalidade
+e da solidariedade social, todos eles subordinados ao princípio da dignidade da pessoa
+humana.
+
+
+II. A universalidade da cobertura e do atendimento, a uniformidade e equivalência dos
+benefícios e serviços às populações urbanas e rurais e a equidade na forma de participação
+no custeio, entre outros, são considerados princípios constitucionais próprios da
+seguridade social.
+
+
+III. Caráter democrático e descentralização da Administração, mediante gestão tripartite,
+com participação dos trabalhadores, dos empregadores e do governo nos órgãos
+colegiados, também é considerado um princípio constitucional da seguridade social.
+
+
+a) II e III, apenas.
+b) I, II e III.
+c) I e II, apenas.
+d) I, apenas.
+e) III, apenas.
+
+
+COMENTÁRIOS:
+Vamos analisar as proposições:
+I – Os princípios da igualdade, da legalidade e da solidariedade, apesar de não estarem
+positivados no texto constitucional no rol de princípios aplicáveis à seguridade social, são
+por ela observados, todos eles subordinados ao princípio da dignidade da pessoa humana.
+Este último é um princípio fundamental da República Federativa do Brasil, e tem a função
+de garantir que os cidadão tenham seus direito respeitados pelo Estado. (ASSERTIVA
+CORRETA).
+
+
+II – Validamos a assertiva pela literalidade do texto da Constituição Federal:
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+
+
+---
+
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      I - universalidade da cobertura e do atendimento;
+      II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+      rurais;
+      III - seletividade e distributividade na prestação dos benefícios e serviços;
+      IV - irredutibilidade do valor dos benefícios;
+      V - eqüidade na forma de participação no custeio;
+      VI - diversidade da base de financiamento;
+      VII - caráter democrático e descentralizado da administração, mediante gestão
+      quadripartite, com participação dos trabalhadores, dos empregadores, dos
+      aposentados       e      do     Governo       nos      órgãos      colegiados.
+      (grifos nossos)
+
+
+Portanto, todos os princípios mencionados são aplicáveis à seguridade social. (ASSERTIVA
+CORRETA).
+III – Pelo inciso VII do art. 194 da Constituição Federal transcrito acima podemos ver que
+a gestão da seguridade social é quadripartite e não tripartite como afirma a questão.
+(ASSERTIVA INCORRETA).
+
+
+Gabarito: C.
+
+
+17.    (FCC – Auditor Público Externo – TCE – RS – 2018)
+O princípio constitucional que diz respeito aos aspectos objetivos, às contingências que
+irão ser cobertas, bem como aquele que tomará por base o aspecto pecuniário ou do
+atendimento dos serviços, que não serão necessariamente iguais, mas correspondentes,
+na medida do possível, dependendo do tempo de contribuição, coeficiente de cálculo,
+sexo, idade, é o da
+
+
+a) universalidade da cobertura e do atendimento.
+b) uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+d) equidade na forma de participação no custeio.
+
+
+---
+
+e) diversidade da base de financiamento.
+
+
+COMENTÁRIOS:
+
+
+a) universalidade da cobertura e do atendimento.
+O princípio da universalidade da cobertura preconiza que a proteção oferecida pela
+seguridade social deve alcançar todos os riscos sociais. O princípio da universalidade do
+atendimento visa a estender a proteção social a todas as pessoas, independente de
+nacionalidade ou outros fatores. Portanto, o princípio não tem relação com o enunciado.
+Alternativa INCORRETA.
+
+
+b) uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+A uniformidade preconiza que a seguridade social deve oferecer cobertura aos mesmos
+riscos sociais a todos, em outras palavras, a proteção à doença, maternidade, morte,
+invalidez e idade avançada deve ser oferecida tanto à população urbana quanto à
+população rural.
+Já a equivalência se refere ao valor pecuniário dos benefícios oferecidos. O valor não
+deverá necessariamente ser igual, mas deverá ser equivalente.
+No enunciado, ao se fazer menção do aspecto objetivo, está se referindo o princípio da
+uniformidade, ou seja, aos eventos que serão cobertos. Além disso, o enunciado trata
+corretamente do princípio da equivalência dos benefícios. Portanto, esse é o nosso
+gabarito.
+Alternativa CORRETA.
+
+
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+Apesar de a demanda da sociedade ser alta, os recursos públicos são limitados, não
+havendo a possibilidade de se cobrir todos os riscos sociais a todas as pessoas, cabendo
+ao legislador delimitar a extensão da proteção oferecida pela seguridade social.
+O princípio da seletividade diz respeito a quais contingências sociais serão cobertas pela
+seguridade social e o princípio da distributividade está relacionado com as pessoas que
+serão atendidas pelas prestações.
+Portanto, o princípio não tem relação com o apresentado no enunciado.
+Alternativa ERRADA.
+
+
+---
+
+d) equidade na forma de participação no custeio.
+Este princípio estabelece que a contribuição será determinada de acordo com a
+capacidade econômica do contribuinte.
+Alternativa ERRADA.
+
+
+e) diversidade da base de financiamento.
+O princípio da diversidade da base de financiamento busca garantir fontes variadas para
+custeio da seguridade social, de forma a garantir o equilíbrio financeiro do sistema.
+Alternativa ERRADA.
+
+
+Gabarito: B
+
+
+18.   (FCC – PROCURADOR DO ESTADO DO AMAPÁ – 2018)
+Quanto ao conceito, princípios e organização da seguridade social, conforme previsão
+na                                Constituição                                Federal,
+a) a diversidade da base de financiamento e a irredutibilidade do valor dos benefícios
+são objetivos a serem alcançados pelo poder público na organização da seguridade
+social.
+b) a gestão administrativa deve ser tripartite, com participação dos trabalhadores, dos
+empregadores e do Governo nos órgãos colegiados.
+c) a seguridade social está assentada no binômio que engloba o conjunto de ações de
+iniciativa do poder público e da sociedade, destinado a assegurar direitos restritos à
+previdência e à assistência social.
+d) a universalidade do atendimento não se constitui em objetivo da seguridade social,
+na medida em que o seguro social fornece proteção apenas para certas categorias de
+pessoas não amparando toda a sociedade.
+e) a uniformidade dos benefícios significa que o valor da renda mensal dos benefícios
+deve ser igual, e não equivalente, entre populações urbanas e rurais.
+
+COMENTÁRIOS:
+
+Para respondermos à questão devemos conhecer as disposições expressas no art. 194
+
+
+---
+
+da Constituição Federal relativas à organização da Seguridade Social. Vamos ver item
+a item.
+a) a diversidade da base de financiamento e a irredutibilidade do valor dos benefícios
+são objetivos a serem alcançados pelo poder público na organização da seguridade
+social.
+De cara temos o nosso gabarito. De fato a diversidade da base de financiamento e a
+irredutibilidade do valor dos benefícios são objetivos a serem alcançados na
+organização da Seguridade Social. Vejamos o texto constitucional:
+
+
+    Art. 194. A seguridade social compreende um conjunto integrado de ações de
+    iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+    relativos à saúde, à previdência e à assistência social.
+
+
+    Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+    seguridade social, com base nos seguintes objetivos:
+    (...)
+    IV - irredutibilidade do valor dos benefícios;
+    (...)
+    VI - diversidade da base de financiamento;
+
+Alternativa CORRETA.
+
+
+b) a gestão administrativa deve ser tripartite, com participação dos trabalhadores, dos
+empregadores e do Governo nos órgãos colegiados.
+Ao contrário do que diz a questão, a gestão da seguridade social não é tripartite, mas
+sim quadripartite. Além dos trabalhadores, empregadores e do Governo, também
+fazem parte da gestão os aposentados.
+
+
+      CF, art. 194
+      (...)
+      VII - caráter democrático e descentralizado da administração, mediante gestão
+      quadripartite, com participação dos trabalhadores, dos empregadores, dos
+      aposentados e do Governo nos órgãos colegiados.
+
+
+---
+
+      (grifos nossos)
+
+
+Alternativa INCORRETA.
+
+
+ c) a seguridade social está assentada no binômio que engloba o conjunto de ações de
+iniciativa do poder público e da sociedade, destinado a assegurar direitos restritos à
+previdência e à assistência social.
+A seguridade social é formada não só pela previdência social e assistência social, mas
+também pela saúde. Vejamos a previsão constitucional:
+
+
+    Art. 194. A seguridade social compreende um conjunto integrado de ações de
+    iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+    relativos à saúde, à previdência e à assistência social.
+
+
+Alternativa INCORRETA.
+
+
+d) a universalidade do atendimento não se constitui em objetivo da seguridade social,
+na medida em que o seguro social fornece proteção apenas para certas categorias de
+pessoas não amparando toda a sociedade.
+A alternativa está incorreta uma vez que entre os objetivos da seguridade social se
+encontra a universalidade da cobertura e do atendimento.
+
+
+    Art. 194. A seguridade social compreende um conjunto integrado de ações de
+    iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+    relativos à saúde, à previdência e à assistência social.
+
+
+    Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+    seguridade social, com base nos seguintes objetivos:
+    I - universalidade da cobertura e do atendimento;
+
+
+Alternativa INCORRETA.
+
+
+---
+
+e) a uniformidade dos benefícios significa que o valor da renda mensal dos benefícios
+deve ser igual, e não equivalente, entre populações urbanas e rurais.
+A previsão constitucional é que os benefícios e serviços às populações urbanas e rurais
+serão uniformes e equivalentes, não necessariamente iguais.
+
+
+       Art. 194. A seguridade social compreende um conjunto integrado de ações de
+       iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+       relativos à saúde, à previdência e à assistência social.
+        Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+       seguridade social, com base nos seguintes objetivos:
+       (...)
+       II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+       rurais;
+
+
+Alternativa INCORRETA.
+
+
+Gabarito: A
+
+19.      (FCC- Técnico Previdenciário – SEGEP MA – 2018)
+Considere:
+
+
+I. acesso universal e igualitário.
+II. descentralização, com direção única em cada esfera de governo.
+III. universalidade de participação nos planos previdenciários, mediante contribuição.
+IV. previdência complementar facultativa, custeada por contribuição adicional.
+
+
+De acordo com a Lei nº 8.212/91, a organização da Previdência Social obedecerá
+determinados princípios e diretrizes, entre eles os indicados APENAS em
+
+
+a) II, III e IV.
+b) I e II.
+
+
+---
+
+c) I, II e III.
+d) III e IV.
+e) I, III e IV.
+
+
+COMENTÁRIOS:
+Os princípios e diretrizes obedecidos na organização da previdência social estão previstos
+no artigo 3º da Lei 8.213, vamos conhecê-lo na íntegra:
+
+
+       Art. 3º A Previdência Social tem por fim assegurar aos seus beneficiários meios
+       indispensáveis de manutenção, por motivo de incapacidade, idade avançada, tempo
+       de serviço, desemprego involuntário, encargos de família e reclusão ou morte
+       daqueles de quem dependiam economicamente.
+       Parágrafo único. A organização da Previdência Social obedecerá aos seguintes
+       princípios e diretrizes:
+       a) universalidade de participação nos planos previdenciários, mediante contribuição;
+       b) valor da renda mensal dos benefícios, substitutos do salário-de-contribuição ou do
+       rendimento do trabalho do segurado, não inferior ao do salário mínimo;
+       c) cálculo dos benefícios considerando-se os salários-de-contribuição, corrigidos
+       monetariamente;
+       d) preservação do valor real dos benefícios;
+       e) previdência complementar facultativa, custeada por contribuição adicional.
+       (grifos nossos)
+
+
+Os destaques no artigo 3º da Lei 8.213/91 mostram que os itens III e IV são os corretos,
+sendo a alternativa D o nosso gabarito. Para fixação, vamos ver os erros dos demais itens:
+
+
+I. acesso universal e igualitário.
+
+
+       Lei 8.212/91
+          Art. 2º A Saúde é direito de todos e dever do Estado, garantido mediante políticas
+          sociais e econômicas que visem à redução do risco de doença e de outros agravos
+          e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção
+          e recuperação.
+
+
+---
+
+       Parágrafo único. As atividades de saúde são de relevância pública e sua organização
+       obedecerá aos seguintes princípios e diretrizes:
+       a)     acesso universal e igualitário;
+       (...)
+       c) descentralização, com direção única em cada esfera de governo;
+
+
+O acesso universal e igualitário é princípio aplicável a saúde e não à previdência social.
+(Item INCORRETO).
+
+
+II. descentralização, com direção única em cada esfera de governo.
+
+
+A descentralização, com direção única em cada esfera de governo é princípio aplicável a
+saúde e não à previdência social. (Item INCORRETO).
+
+
+Gabarito: D
+
+
+20.    (Inédita)
+Cícero recebe o benefício de aposentadoria por invalidez. De acordo com o princípio da
+irredutibilidade do valor do benefício e com as disposições da legislação previdenciária, o
+valor do seu benefício deverá ser reajustado, anualmente, na mesma data do reajuste do
+salário mínimo, com base no Sistema Especial de Liquidação e Custódia.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Vejamos a literalidade do Decreto 3.048:
+      Art. 40. É assegurado o reajustamento dos benefícios para preservar-lhes, em
+      caráter permanente, o valor real da data de sua concessão
+      (...)
+      § 1o Os valores dos benefícios em manutenção serão reajustados, anualmente,
+      na mesma data do reajuste do salário mínimo, pro rata, de acordo com suas
+      respectivas datas de início ou do último reajustamento, com base no Índice
+      Nacional de Preços ao Consumidor - INPC, apurado pela Fundação Instituto
+      Brasileiro de Geografia e Estatística - IBGE.
+
+
+---
+
+      (...)
+
+
+Portanto, os benefícios serão reajustados de acordo com o Índice Nacional de Preços ao
+Consumidor (INPC) e não de acordo com o Sistema Especial de Liquidação e Custódia
+(SELIC).
+
+
+Gabarito: ERRADA.
+
+
+21.     (Inédita)
+Adália é maior de 65 anos e é beneficiária do Benefício Assistencial ao Idoso (BPC- LOAS).
+De acordo com a jurisprudência do STF, seu benefício deverá ser reajustado anualmente
+de forma que seja mantido o seu valor real.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+
+
+O princípio da irredutibilidade do valor dos benefícios está previsto no art. 194 da
+Constituição Federal:
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+       Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      (...)
+      IV - irredutibilidade do valor dos benefícios (…)
+De acordo com a jurisprudência consolidada do STF, o princípio da irredutibilidade do
+valor dos benefícios, quando aplicado à Seguridade Social, visa a garantir a
+irredutibilidade do valor nominal dos benefícios, e não do valor real.
+Como o Benefício Assistencial ao Idoso é um benefício da Assistência Social, deverá ser
+garantido o seu valor nominal, e não o real.
+
+
+Gabarito: ERRADA.
+
+
+---
+
+22.   (Inédita)
+Acerca dos princípios da seguridade social, podemos afirmar que equidade na forma de
+participação do custeio e isonomia são conceitos que se confundem.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A questão afirma que os princípios da equidade na forma de participação do custeio e da
+isonomia se confundem, o que está incorreto.
+O princípio da isonomia significa, tratar igualmente os iguais e desigualmente os iguais,
+na medida de suas desigualdades. Seria algo aproximado com o princípio da igualdade.
+O princípio da equidade na forma de participação no custeio, apesar de ter semelhanças,
+não é o princípio da isonomia propriamente dito.
+Na participação do custeio da previdência social, poderemos ter, por exemplo, alíquotas
+diferenciadas para empresas em razão da atividade econômica, do porte da empresa, da
+utilização intensiva de mão-de-obra ou da condição estrutural do mercado de trabalho
+(CF, art. 195, §9º). Desta forma, poderemos ter a situação de duas empresas na mesma
+condição de igualdade em relação a faturamento, por exemplo, pagando contribuições
+sociais diferenciadas.
+
+
+Gabarito: ERRADA.
+
+
+23.   (Inédita)
+O princípio da solidariedade é um dos princípios que dão suporte para que o Regime
+Geral de Previdência Social possa ser organizado em Regime de Repartição Simples.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+O Regime Geral de Previdência Social é organizado na forma de Repartição Simples, ou
+seja, os pagamentos dos benefícios em manutenção são financiados pelos pagamentos
+dos contribuintes do sistema. É diferente do Regime de Capitalização em que cada
+segurado financia o seu próprio benefício, ou seja, o próprio trabalhador deverá contribuir
+com o montante exatamente necessário para financiamento de seu benefício.
+
+
+---
+
+Para que o Regime Geral de Previdência Social se sustente como Regime de Repartição
+Simples, é fundamental o princípio da Solidariedade, que em uma de suas vertentes
+preconiza que a contribuição feita a Previdência Social não será sempre revertida em
+benefício próprio, mas será destinada a garantir a sustentabilidade do sistema.
+
+
+Gabarito: CORRETA.
+
+
+24.   (Inédita)
+O princípio da distributividade impõe ao legislador a seleção dos riscos e contingências a
+serem atendidos pela Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A seletividade impõe ao legislador a delimitação do rol de prestações que serão prestadas
+pela Seguridade Social, selecionando os riscos e contingências que serão atendidos
+dentro das possibilidades financeiras do Poder Público.
+A distributividade, por sua vez, tem por objetivo diminuir as desigualdades sociais,
+buscando melhor distribuição de renda, direcionando a atuação do sistema protetivo às
+pessoas com maior necessidade.
+
+
+Desta forma, o princípio que impõe a seleção dos riscos e contingências a serem cobertos
+pela Seguridade Social é o princípio da seletividade, e não da distributividade.
+
+
+Gabarito: ERRADO.
+
+
+25.   (Inédita)
+Tendo por base as disposições constitucionais sobre a ordem social, é possível afirmar que
+a uniformidade dos benefícios e serviços às populações urbanas e rurais está entre os
+objetivos da Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+Entre os princípios que regem a organização da Seguridade Social, se encontra o princípio
+da uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+Vejamos o texto constitucional:
+       Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+       Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+       seguridade social, com base nos seguintes objetivos:
+       (...)
+       II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+       rurais;
+
+
+O fato de a questão não ter mencionado por completo o nome do princípio e ter
+mencionado somente uniformidade dos benefícios às populações urbanas e rurais não a
+torna incorreta. Para a banca CESPE, o fato de a questão estar incompleta não a torna
+incorreta. Portanto, a assertiva está correta.
+
+
+A uniformidade refere-se às contingências a serem cobertas para as populações urbanas
+e rurais. Os mesmos benefícios devem ser oferecidos a ambas as populações.
+
+
+Gabarito: CERTA.
+
+26.    (Inédita)
+Dada a extensão da proteção social a ser garantida pelo Estado no âmbito da seguridade
+social, o princípio da diversidade da base de financiamento tem por objetivo garantir a
+arrecadação de contribuições, por meio de variadas fontes de custeio.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+
+
+---
+
+Entre os princípios elencados no art. 194 da Constituição Federal, temos o da diversidade
+da base de financiamento. Tal princípio visa garantir fontes variadas de custeio da
+seguridade social, buscando a obtenção de recursos financeiros para sustentabilidade do
+sistema. Dessa forma, a assertiva está correta.
+
+
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis
+      específicas para cada área, as receitas e as despesas vinculadas a ações de saúde,
+      previdência e assistência social, preservado o caráter contributivo da previdência
+      social;
+
+
+Gabarito: CERTO.
+
+
+27.   (Inédita)
+Cabe ao legislador delimitar a extensão da proteção oferecida pela seguridade social em
+razão do princípio constitucional da seletividade e distributividade na prestação dos
+benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Apesar de a demanda da sociedade ser alta, os recursos públicos são limitados, não
+havendo a possibilidade de se cobrir todos os riscos sociais a todas as pessoas, cabendo
+ao legislador delimitar a extensão da proteção oferecida pela seguridade social.
+O princípio da seletividade diz respeito a quais contingências sociais serão cobertas pela
+seguridade social e o princípio da distributividade está relacionado com as pessoas que
+serão atendidas pelas prestações.
+O enunciado da questão está perfeito.
+
+
+Gabarito: CERTA.
+
+
+---
+
+28.   (Inédita)
+Dado o princípio da equidade na forma de participação do custeio, podemos afirmar que
+as contribuições sociais devidas ao sistema da seguridade social são iguais para todos os
+trabalhadores.
+Certo ( )
+Errado ( )
+COMENTÁRIOS:
+A assertiva está incorreta, uma vez que o princípio da equidade na forma de participação
+do custeio, apesar de não se confundir com, guarda relação com o princípio da isonomia.
+O princípio da isonomia significa, tratar igualmente os iguais e desigualmente os iguais,
+na medida de suas desigualdades. Simplificando, seria “quem pode mais paga mais, quem
+pode menos paga menos”.
+As contribuições devidas pelos trabalhadores seguem esse princípio, como podemos ver
+pelas contribuições dos segurados empregados, por exemplo, cujas alíquotas de
+contribuição são maiores para os segurados que recebem mais. Além disso, podemos citar
+as alíquotas diferenciadas para os microempreendedores individuais e segurados
+facultativos de baixa renda, cujo objetivo é fazer a inclusão previdenciária daqueles que
+possuem menor capacidade contributiva, possibilitando que eles contribuam com
+alíquotas diferenciadas.
+
+
+Gabarito: ERRADO.
+
+
+29.   (Inédita)
+O princípio constitucional aplicável à Seguridade Social da universalidade da cobertura e
+do atendimento é observado sem ressalvas na assistência social, uma vez que esta está
+disponível a todos que dela necessitarem.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Questão abordando os princípios constitucionais da Seguridade Social, um dos temas mais
+tratados nas provas de direito previdenciário.
+O princípio da universalidade da cobertura preconiza que a proteção oferecida pela
+seguridade social deve alcançar todos os riscos sociais. O princípio da universalidade do
+
+
+---
+
+atendimento visa a estender a proteção social a todas as pessoas, independente de
+nacionalidade ou outros fatores.
+Dentro dos subsistemas da Seguridade Social, o princípio da universalidade da cobertura
+e do atendimento é mais visível na Saúde, uma vez que esta está disponível a todos,
+inclusive aos estrangeiros que estejam apenas de passagem pelo território nacional.
+A universalidade da cobertura e do atendimento não é aplicada sem ressalvas para a
+assistência social, uma vez que ela está restrita aos necessitados, não sendo extensível a
+todas as pessoas.
+
+
+Gabarito: ERRADO.
+
+
+30.   (Inédita)
+Acerca dos princípios constitucionais da Previdência Social é correto afirmar que é
+assegurado reajustamento dos benefícios para preservar-lhes, em caráter permanente, o
+valor nominal, conforme critérios definidos em lei.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+      CF/88
+      Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+      (...)
+      § 4º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter
+      permanente, o valor real, conforme critérios definidos em lei.
+      (grifos nossos)
+
+
+Para os benefícios da previdência social, a Constituição Federal garante a manutenção do
+valor real, e não somente do valor nominal.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+31.   (Inédita)
+Sobre os princípios e objetivos da seguridade social, assinale a alternativa que apresenta
+um princípio específico da previdência social.
+a)    Universalidade da cobertura e do atendimento.
+b)    Equidade na forma de participação do custeio.
+c)    Descentralização, com direção única em cada esfera de governo.
+d)     A habilitação e reabilitação das pessoas portadoras de deficiência e a promoção de
+sua integração à vida comunitária.
+e)    valor da renda mensal dos benefícios substitutos do salário-de-contribuição ou do
+rendimento do trabalho do segurado não inferior ao do salário-mínimo.
+
+
+COMENTÁTIOS:
+A Seguridade Social é um conjunto integrado de ações do poder público e da sociedade
+destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.
+Devemos ficar atentos porque a legislação previdenciária apresenta os princípios que são
+aplicáveis à Seguridade Social e outros princípios que se aplicam a cada uma de suas áreas.
+Nessa questão específica, devemos encontrar os princípios que se aplicam
+especificamente à previdência social.
+
+
+a)    Universalidade da cobertura e do atendimento.
+Vejamos o texto constitucional:
+       Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      I - universalidade da cobertura e do atendimento;
+A universalidade da cobertura e do atendimento é um princípio da seguridade social.
+Apesar de também ser aplicável à previdência social, ele não é específico dela. Alternativa
+ERRADA.
+
+
+b)    Equidade na forma de participação do custeio.
+      CF/88
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+
+
+---
+
+       iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+       relativos à saúde, à previdência e à assistência social.
+       Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+       seguridade social, com base nos seguintes objetivos:
+       (...)
+       V - eqüidade na forma de participação no custeio;
+Novamente, a equidade na forma de participação do custeio é um princípio da seguridade
+social. Apesar de também ser aplicável à previdência social, ele não é específico dela.
+Alternativa ERRADA.
+
+
+c)     Descentralização, com direção única em cada esfera de governo.
+Este princípio foi previsto no texto constitucional para a saúde:
+       Art. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e
+       hierarquizada e constituem um sistema único, organizado de acordo com as
+       seguintes diretrizes:
+       I - descentralização, com direção única em cada esfera de governo;
+Como procuramos um princípio da previdência social, a alternativa está ERRADA.
+
+
+d)     A habilitação e reabilitação das pessoas portadoras de deficiência e a promoção de
+sua integração à vida comunitária.
+Este princípio foi previsto no texto constitucional para a assistência social:
+       Art. 203. A assistência social será prestada a quem dela necessitar,
+       independentemente de contribuição à seguridade social, e tem por objetivos:
+       (...)
+       IV - a habilitação e reabilitação das pessoas portadoras de deficiência e a promoção
+       de sua integração à vida comunitária;
+Como procuramos um princípio da previdência social, a alternativa está ERRADA.
+
+
+e)    valor da renda mensal dos benefícios substitutos do salário-de-contribuição ou do
+rendimento do trabalho do segurado não inferior ao do salário-mínimo.
+
+
+Encontramos este princípio no texto da Lei 8.212/91:
+
+
+---
+
+      Art. 3º A Previdência Social tem por fim assegurar aos seus beneficiários meios
+      indispensáveis de manutenção, por motivo de incapacidade, idade avançada,
+      tempo de serviço, desemprego involuntário, encargos de família e reclusão ou
+      morte daqueles de quem dependiam economicamente.
+      Parágrafo único. A organização da Previdência Social obedecerá aos seguintes
+      princípios                             e                                diretrizes:
+      (...)
+      b) valor da renda mensal dos benefícios, substitutos do salário-de-contribuição ou
+      do rendimento do trabalho do segurado, não inferior ao do salário-mínimo;
+      (grifos nossos)
+Alternativa CORRETA.
+
+
+Gabarito: E.
+
+32.   (Inédita)
+A Seguridade Social possui um princípio cujo objetivo é a manutenção da saúde financeira
+e atuarial do sistema, uma vez que reduz o risco de desequilíbrio orçamentário. Também
+há um princípio que estabelece a proporcionalidade da contribuição social para o sistema
+conforme a condição financeira de seus contribuintes. Os dois princípios mencionados são
+respectivamente:
+a)    Equidade na forma de participação do custeio / seletividade e distributividade.
+b)     Diversidade da base de financiamento / equidade na forma de participação do
+custeio.
+c)    Seletividade e distributividade / diversidade e distributividade.
+d)    Universalidade da cobertura e do atendimento / equidade na forma de participação
+do custeio.
+e)    Uniformidade e equivalência de benefícios / Seletividade e distributividade.
+
+
+COMENTÁTIOS:
+Para essa questão, devemos identificar quais são os princípios apresentados e encontrar
+a alternativa que os mostre na sequência do enunciado. Para comentá-la, vamos separar
+os princípios em 1 e 2.
+
+
+---
+
+Princípio 1: Princípio cujo objetivo é a manutenção da saúde financeira e atuarial do
+sistema, uma vez que reduz o risco de desequilíbrio orçamentário.
+Vejamos o artigo 201 da CF:
+      Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a (...)
+      (grifos nossos)
+
+
+Sabemos que a previdência social possui caráter contributivo, e o texto da CF diz que
+deve ser mantido o equilíbrio financeiro e atuarial. De forma bem simplificada, o equilíbrio
+financeiro e atuarial representa a “saúde”do sistema previdenciário, ou seja, as despesas
+são iguais ou menores que as receitas e o sistema possui condições financeiras de manter
+os benefícios previdenciários.
+Entre os princípios elencados no art. 194 da Constituição Federal, o que mais diz razão ao
+equilíbrio financeiro e atuarial é o princípio da diversidade da base de financiamento. Tal
+princípio visa garantir fontes variadas de custeio para a seguridade social, buscando a
+obtenção de recursos para sustentabilidade do sistema.
+      CF. Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos: (...)
+      VI - diversidade da base de financiamento, identificando-se, em rubricas contábeis
+      específicas para cada área, as receitas e as despesas vinculadas a ações de saúde,
+      previdência e assistência social, preservado o caráter contributivo da previdência
+      social;
+
+
+Que já estudou finanças pessoais, com certeza já ouviu os analistas financeiros falarem
+que não devemos manter nossos investimentos em um ativo só, que devemos
+diversificar. O mesmo acontece com o financiamento da seguridade social, ou seja, não
+pode se confiar em apenas uma fonte de financiamento, pois se houver qualquer
+problema nessa fonte, ocorre um desequilíbrio no sistema.
+
+
+Princípio 2: Princípio que estabelece a proporcionalidade da contribuição social para o
+sistema conforme a condição financeira de seus contribuintes.
+
+
+---
+
+O princípio da equidade na forma de participação no custeio é o que estabelece que a
+contribuição será determinada de acordo com a capacidade econômica do contribuinte.
+A sequência correta é: diversidade da base de financiamento / equidade na forma de
+participação do custeio, conforme alternativa “b”.
+
+
+Gabarito: B.
+
+33.   (Inédita)
+Entre as situações práticas descritas abaixo, assinale aquela em que podemos observar a
+aplicação do princípio da universalidade da cobertura e do atendimento.
+a)     Leonardo é empregado doméstico e recebe 1 salário mínimo e, junto a esse salário,
+ele recebe uma cota de salário família, por possuir um filho de 5 anos.
+b)     Carlos é idoso, maior de 65 anos, e por não possui meios de prover sua própria
+manutenção ou de tê-la provida por sua família ele recebe o benefício assistencial ao
+idoso.
+c)     Josh é um americano que veio ao Brasil para conhecer o carnaval do Rio de Janeiro
+e, durante as festividades, veio a ter uma insolação, precisando de atendimento em um
+hospital do SUS.
+d)    Luiz foi condenado a reclusão em regime fechado em decorrência de crime de
+homicídio e seus dependentes passaram a receber auxílio-reclusão.
+e)       Ricardo, preocupado com as notícias em torno do futuro da previdência social no
+Brasil, resolveu aderir a um plano de previdência complementar oferecido aos funcionários
+da empresa em que ele trabalha.
+COMENTÁTIOS:
+Essa questão exige que saibamos aplicar o princípio da universalidade da cobertura e do
+atendimento na prática. Primeiramente, vamos entender o princípio.
+O princípio da universalidade da cobertura e do atendimento tem por objetivo atender a
+todos, indistintamente, inclusive estrangeiros de passagem pelo país. O princípio tem
+maior aplicação na Saúde, uma vez que esta é devida a todos. A Previdência Social é
+devida a quem com ela contribuir e a Assistência Social é devida a quem dela necessitar.
+
+
+a)     Leonardo é empregado doméstico e recebe 1 salário mínimo e, junto a esse salário,
+ele recebe uma cota de salário família, por possuir um filho de 5 anos.
+
+
+---
+
+A questão mostra um segurado recebendo um benefício da previdência social, que é o
+salário família. Com essa informação, já podemos descartá-la, uma vez que a previdência
+social não é exemplo de aplicação do princípio da universalidade da cobertura e do
+atendimento, por não estar disponível a todos, mas apenas aos que com ela contribuírem.
+Indo além, o benefício de salário família não está disponível a todos os segurados da
+previdência social, mas apenas àqueles segurados que sejam de baixa renda. Esse caso
+prático na verdade exemplifica o princípio da seletividade e distributividade, o qual impõe
+ao legislador a seleção dos riscos a serem cobertos pela seguridade social, e das pessoas
+a serem beneficiadas. Alternativa ERRADA.
+
+
+b)     Carlos é idoso, maior de 65 anos, e por não possui meios de prover sua própria
+manutenção ou de tê-la provida por sua família ele recebe o benefício assistencial ao
+idoso.
+O benefício assistencial é um benefício previsto aos idosos ou pessoas com deficiência
+que não possuam os meios de prover sua própria manutenção ou de tê-la provida por sua
+família, sendo um benefício da área de assistência social. Portanto, esse não é um exemplo
+da aplicação do princípio da universalidade da cobertura e do atendimento, uma vez que
+a assistência social não está disponível a todos, mas a quem dela necessitar. Alternativa
+ERRADA.
+
+
+c)     Josh é um americano que veio ao Brasil para conhecer o carnaval do Rio de Janeiro
+e, durante as festividades, veio a ter uma insolação, precisando de atendimento em um
+hospital do SUS.
+Como explicamos, a saúde é o maior exemplo da aplicação do princípio da universalidade
+da cobertura e do atendimento, uma vez que ela está disponível a todos indistintamente,
+mesmo para os estrangeiros que estejam de passagem pelo território nacional. Portanto,
+o caso narrado se encaixa perfeitamente na explicação. Alternativa CORRETA.
+
+
+d)    Luiz foi condenado a reclusão em regime fechado em decorrência de crime de
+homicídio e seus dependentes passaram a receber auxílio-reclusão.
+Novamente, conforme a letra “a”, a questão apresenta um benefício da previdência social,
+o auxílio-reclusão. E, da mesma forma que o salário-família, o auxílio-reclusão não está
+disponível a todos, mas somente para os dependentes dos segurados de baixa-renda.
+Portanto, esse caso também é exemplo da aplicação do princípio da seletividade e
+distributividade e não da universalidade da cobertura e do atendimento. Alternativa
+ERRADA.
+
+
+---
+
+e)       Ricardo, preocupado com as notícias em torno do futuro da previdência social no
+Brasil, resolveu aderir a um plano de previdência complementar oferecido aos funcionários
+da empresa em que ele trabalha.
+Se o Regime Geral de Previdência Social já não é exemplo da aplicação do princípio da
+universalidade da cobertura e do atendimento, uma vez que a previdência social está
+disponível apenas para aqueles que obrigatoriamente (em regra) contribuírem, imagine só
+o regime de previdência complementar, que é um plano facultativo para aqueles que
+desejam complementar a renda de sua aposentadoria. Alternativa ERRADA.
+
+
+Gabarito: C.
+
+34.   (Inédita)
+Dentre as descrições a seguir, assinale àquela que corresponde ao princípio da
+seletividade e distributividade.
+a)    Tal princípio prevê que para que haja ampliação do rol de cobertura dos benefícios
+da seguridade social, é necessário que se crie primeiro a fonte de custeio total.
+b)      Tal princípio disciplina que seguridade social deverá ter cobertura ampla,
+abrangendo todos os riscos sociais e todas as pessoas devem ser cobertas pelo sistema,
+inclusive os estrangeiros de passagem pelo território nacional.
+c)     Dada a limitação de recursos dos cofres públicos, tal princípio é direcionado ao
+legislador, a fim de que ele selecione as contingências que devem ser priorizadas pelo
+sistema da seguridade social, e selecione aqueles que serão abrangidos pelos benefícios
+e serviços.
+d)     Tendo como objetivo o equilíbrio financeiro do sistema, tal princípio prevê que as
+fontes de custeio da seguridade social devem ser variadas.
+e)     Buscando a justiça social, por meio do princípio da isonomia, tal princípio prevê que
+a participação no custeio da seguridade social se dará conforme a capacidade econômica
+do contribuinte.
+
+
+COMENTÁTIOS:
+O enunciado pede para que encontremos a alternativa que descreve o princípio da
+seletividade e distributividade.
+
+
+---
+
+A seletividade impõe ao legislador a delimitação do rol de prestações que serão prestadas
+pela Seguridade Social, selecionando os riscos e contingências que serão atendidos
+dentro das possibilidades financeiras do Poder Público.
+A distributividade, por sua vez, tem por objetivo diminuir as desigualdades sociais,
+buscando melhor distribuição de renda, direcionando a atuação do sistema protetivo às
+pessoas com maior necessidade.
+
+
+A alternativa que explica o princípio da seletividade e distributividade é a “c”, nosso
+gabarito:
+c) Dada a limitação de recursos dos cofres públicos, tal princípio é direcionado ao
+legislador, a fim de que ele selecione as contingências que devem ser priorizadas pelo
+sistema da seguridade social, e selecione aqueles que serão abrangidos pelos benefícios
+e serviços.
+
+
+Vejamos os erros das demais:
+a)    Tal princípio prevê que para que haja ampliação do rol de cobertura dos benefícios
+da seguridade social, é necessário que se crie primeiro a fonte de custeio total.
+Esse é o princípio da preexistência do custeio, previsto no § 5º do art. 196 da Constituição
+Federal.
+      Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta
+      e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da
+      União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes
+      contribuições sociais:
+      (...)
+      § 5º Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado
+      ou estendido sem a correspondente fonte de custeio total.
+Alternativa ERRADA.
+
+
+b)      Tal princípio disciplina que seguridade social deverá ter cobertura ampla,
+abrangendo todos os riscos sociais e todas as pessoas devem ser cobertas pelo sistema,
+inclusive os estrangeiros de passagem pelo território nacional.
+O princípio descrito é o da universalidade da cobertura e do atendimento. Alternativa
+ERRADA.
+
+
+---
+
+d)    Tendo como objetivo o equilíbrio financeiro do sistema, tal princípio prevê que as
+      fontes de custeio da seguridade social devem ser variadas.
+
+
+O princípio descrito é o da diversidade da base de financiamento. Alternativa ERRADA.
+
+
+e) Buscando a justiça social, por meio do princípio da isonomia, tal princípio prevê que a
+participação no custeio da seguridade social se dará conforme a capacidade econômica
+do contribuinte.
+
+
+O princípio descrito é o da equidade na forma de participação do custeio. Alternativa
+ERRADA.
+
+
+Gabarito: C.
+
+
+35.    (Inédita)
+O princípio constitucional que está relacionado com a busca do equilíbrio financeiro da
+Seguridade Social, dando maior segurança ao sistema, de modo que as fontes de custeio
+não estejam concentradas em uma única fonte, é o da
+a) universalidade da cobertura e do atendimento.
+b) uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+d) equidade na forma de participação no custeio.
+e) diversidade da base de financiamento.
+
+
+COMENTÁRIOS:
+
+
+a) universalidade da cobertura e do atendimento.
+O princípio da universalidade da cobertura preconiza que a proteção oferecida pela
+seguridade social deve alcançar todos os riscos sociais. O princípio da universalidade do
+atendimento visa a estender a proteção social a todas as pessoas, independente de
+nacionalidade ou outros fatores. Portanto, o princípio não tem relação com o enunciado.
+Alternativa INCORRETA.
+
+
+---
+
+b) uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+A uniformidade preconiza que a seguridade social deve oferecer cobertura aos mesmos
+riscos sociais a todos, em outras palavras, a proteção à doença, maternidade, morte,
+invalidez e idade avançada deve ser oferecida tanto à população urbana quanto à
+população rural.
+Já a equivalência se refere ao valor pecuniário dos benefícios oferecidos. O valor não
+deverá necessariamente ser igual, mas deverá ser equivalente.
+Pela explicação, podemos ver que o princípio não se relaciona com o enunciado.
+Alternativa ERRADA.
+
+
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+Apesar de a demanda da sociedade ser alta, os recursos públicos são limitados, não
+havendo a possibilidade de se cobrir todos os riscos sociais a todas as pessoas, cabendo
+ao legislador delimitar a extensão da proteção oferecida pela seguridade social.
+O princípio da seletividade diz respeito a quais contingências sociais serão cobertas pela
+seguridade social e o princípio da distributividade está relacionado com as pessoas que
+serão atendidas pelas prestações.
+Portanto, o princípio não tem relação com o apresentado no enunciado.
+Alternativa ERRADA.
+
+
+d) equidade na forma de participação no custeio.
+Este princípio estabelece que a contribuição será determinada de acordo com a
+capacidade econômica do contribuinte.
+Alternativa ERRADA.
+
+
+e) diversidade da base de financiamento.
+O princípio da diversidade da base de financiamento busca garantir fontes variadas para
+custeio da seguridade social, de forma a garantir o equilíbrio financeiro do sistema.
+É exatamente o princípio tratado no enunciado. Alternativa CERTA.
+
+
+Gabarito: E
+
+
+---
+
+36.   (Inédita)
+Entre os princípios aplicáveis à Seguridade Social, aquele que é destinado ao legislador,
+de forma que ele delimite o rol de prestações que serão prestadas pela Seguridade Social,
+selecionando os riscos e contingências que serão atendidos dentro das possibilidades
+financeiras do Poder Público é o princípio da
+a)    Diversidade da base de financiamento.
+b)    Seletividade e distributividade na prestação de benefícios e serviços.
+c)    Equidade na forma de participação do custeio.
+d)    Universalidade da cobertura e do atendimento
+e)    Solidariedade.
+
+
+COMENTÁRIOS:
+
+
+a)    Diversidade da base de financiamento.
+O princípio da diversidade da base de financiamento busca garantir fontes variadas para
+custeio da seguridade social, de forma a garantir o equilíbrio financeiro do sistema.
+Alternativa ERRADA.
+
+
+b)    Seletividade e distributividade na prestação de benefícios e serviços.
+A seletividade é sim o princípio que impõe ao legislador a delimitação do rol de prestações
+que serão prestadas pela Seguridade Social, selecionando os riscos e contingências que
+serão atendidos dentro das possibilidades financeiras do Poder Público.
+A distributividade, por sua vez, tem por objetivo diminuir as desigualdades sociais,
+buscando melhor distribuição de renda, direcionando a atuação do sistema protetivo às
+pessoas com maior necessidade.
+Portanto, esse é o nosso gabarito. Alternativa CORRETA.
+
+
+c)    Equidade na forma de participação do custeio.
+O princípio da equidade na forma de participação no custeio preconiza, basicamente, que
+a contribuição para o sistema será de acordo com a capacidade econômica do
+contribuinte. Basicamente, “quem pode mais, paga mais”. Alternativa INCORRETA.
+
+
+d)    Universalidade da cobertura e do atendimento.
+
+
+---
+
+O princípio da universalidade da cobertura preconiza que a proteção oferecida pela
+seguridade social deve alcançar todos os riscos sociais. O principio da universalidade do
+atendimento visa a estender a proteção social a todas as pessoas, independente de
+nacionalidade ou outros fatores. Alternativa INCORRETA.
+
+
+e)     Solidariedade.
+O princípio da solidariedade preconiza que a contribuição feita a Previdência Social não
+será sempre revertida em benefício próprio, mas será destinada a garantir a
+sustentabilidade do sistema. É esse o princípio que garante a prestação de benefícios e
+serviços independentemente do aporte individual das contribuições sociais.
+Além disso, o princípio da solidariedade é fundamental para a manutenção dos sistemas
+previdenciários de Repartição Simples, em que os pagamentos dos benefícios em
+manutenção são financiados pelos pagamentos dos contribuintes do sistema.
+O princípio não se relaciona com o enunciado. Alternativa ERRADA.
+
+
+Gabarito: B
+
+                             Exercícios estudados nesta aula
+
+37.   (FCC - Juiz Do Trabalho - TRT 1ª Região – 2012)
+A seguridade social compreende um conjunto integrado de ações:
+a) De iniciativa da sociedade, reguladas pelos Poderes Públicos, destinadas a assegurar
+os direitos relativos a saúde, previdência e assistência social.
+b) Exclusivas dos Poderes Públicos, destinadas a prover, quando materialmente possível,
+os direitos relativos a saúde, previdência e assistência social.
+c) Exclusivas dos Poderes Públicos, destinadas a assegurar os direitos relativos a saúde,
+previdência e assistência social.
+d) De iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+relativos a saúde, previdência e assistência social.
+e) De iniciativa dos Poderes Públicos e da sociedade, destinadas a prover, quando
+materialmente possível, os direitos relativos a saúde, previdência e assistência social.
+
+
+---
+
+COMENTÁRIOS
+Nesta questão o examinador cobra os seus conhecimentos a respeito da literalidade do
+artigo 194 da Constituição Federal, o qual em seu caput dispõe da seguinte forma:
+     Art. 194. A seguridade social compreende um conjunto integrado de ações de
+     iniciativa dos Poderes Públicos e da Sociedade, destinadas a assegurar os direitos
+     relativos à saúde, à previdência e à assistência social.
+
+
+Antes de analisarmos as assertivas, lembremos que o examinador pede pela alternativa
+CORRETA.
+
+
+a) De iniciativa da sociedade, reguladas pelos Poderes Públicos, destinadas a assegurar os
+direitos relativos a saúde, previdência e assistência social.
+Esta alternativa limita a competência no que tange as iniciativas das ações que
+compreendem a Seguridade Social exclusivamente à Sociedade, o que, conforme vimos
+no caput do artigo supracitado, também pode partir do Poder Público. Portanto, esta
+opção está INCORRETA.
+
+
+b) Exclusivas dos Poderes Públicos, destinadas a prover, quando materialmente possível,
+os direitos relativos a saúde, previdência e assistência social.
+Ora, conforme também dispõe o art. 194 da CF/88 não há uma exclusividade de
+competência no que tange o provimento das ações da Seguridade Social por parte do
+Poder Público.
+Aqui, vale uma dica “fora do tópico”: fique atento, sempre que o examinador apresentar
+opções com máximas, tais como, “exclusivamente”, “unicamente”, “somente”, etc... Em
+geral essas alternativas costumam apresentar erros.
+Bom, no caso, conforme dissemos, a alternativa está INCORRETA.
+
+
+c) Exclusivas dos Poderes Públicos, destinadas a assegurar os direitos relativos a saúde,
+previdência e assistência social.
+Aqui o examinador tenta confundir o candidato, praticamente repetindo a alternativa
+anterior, alterando apenas alguns elementos da assertiva. Contudo, pela mesma
+explicação que demos acima, esta alternativa também está INCORRETA.
+
+
+---
+
+d) De iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+relativos a saúde, previdência e assistência social.
+Está é a alternativa CORRETA, pois como podemos observar, ela literalmente “copia e
+cola” o texto do art. 194 (caput), apresentado na CF/88.
+
+
+e) De iniciativa dos Poderes Públicos e da sociedade, destinadas a prover, quando
+materialmente possível, os direitos relativos a saúde, previdência e assistência social.
+Esta alternativa, embora apresente corretamente a competência no que tange as
+iniciativas das ações da Seguridade Social, termina por condicionar a implementação das
+ações a uma suposta materialidade, algo que, não está previsto no comando constitucional
+supracitado. Portanto, alternativa INCORRETA.
+
+
+Gabarito: D
+
+
+38.   (FCC - Procurador De Contas – TCE/CE - 2015)
+Nos termos previstos na Constituição da República Federativa do Brasil, a Seguridade
+Social compreende um conjunto de ações
+a) integradas e de iniciativa exclusiva do Poder Público Federal e da sociedade, com
+destinação de garantia de direitos da previdência social, da saúde, da assistência social,
+da educação, cultura e desporto.
+b) independentes e centralizadas, de iniciativa privativa dos Poderes Públicos, visando
+exclusivamente à garantia de direitos relativos à previdência social.
+c) integradas de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os
+direitos relativos à saúde, à previdência e à assistência social.
+d) descentralizadas e concorrentes, de iniciativa privativa da União e dos Estados
+Membros, com objetivo de assegurar direitos relativos exclusivamente às áreas de
+previdência e assistência social.
+e) integradas e de iniciativa privativa dos Poderes Públicos com destinação à garantia de
+direitos da previdência social, da saúde, da assistência social, da educação, cultura e
+desporto.
+
+
+COMENTÁRIOS:
+Essa questão busca testar seus conhecimentos sobre o conceito Seguridade Social e pede
+que você assinale a alternativa CORRETA.
+
+
+---
+
+a) integradas e de iniciativa exclusiva do Poder Público Federal e da sociedade, com
+destinação de garantia de direitos da previdência social, da saúde, da assistência social,
+da educação, cultura e desporto.
+Essa alternativa é incorreta, pois apesar de ser uma iniciativa integrada, não é exclusiva do
+Poder Público Federal e não tem nenhuma relação com os três itens citados (educação,
+cultura e desporto). Basta conferir no art. 194 da Constituição Federal.
+     Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos
+     Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à
+     previdência e à assistência social.
+
+     Alternativa INCORRETA.
+
+
+b) independentes e centralizadas, de iniciativa privativa dos Poderes Públicos, visando
+exclusivamente à garantia de direitos relativos à previdência social.
+Está incorreta, pois não é independente, nem centralizada, nem da iniciativa privativa e
+não visa exclusivamente à garantia de direitos relativos à previdência social. Note que é
+muito comum o examinador trocar algumas palavras para tentar confundir o candidato.
+Por exemplo, trocar “integrado” por “centralizado”. Fique atento e, sempre que puder,
+releia o texto puro da lei. Alternativa INCORRETA.
+
+c) integradas de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os
+direitos relativos à saúde, à previdência e à assistência social.
+Repetindo o art. 194 da CF/88:
+     Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos
+     Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à
+     previdência e à assistência social.
+
+Como podemos ver no referido art. 194, essa alternativa é a correta, pois a seguridade
+social engloba direitos à saúde, assistência social e previdência, sendo os dois primeiros
+direitos garantidos ao cidadão sem nenhum tipo de contribuição. Alternativa CORRETA.
+
+d) descentralizadas e concorrentes, de iniciativa privativa da União e dos Estados
+Membros, com objetivo de assegurar direitos relativos exclusivamente às áreas de
+previdência e assistência social.
+Conforme já visto em alternativas anteriores a seguridade social, não é de iniciativa
+privativa e nem tem o objetivo de assegurar direitos relativos exclusivamente às áreas de
+previdência e assistência social. Alternativa INCORRETA.
+
+
+---
+
+e) integradas e de iniciativa privativa dos Poderes Públicos com destinação à garantia de
+direitos da previdência social, da saúde, da assistência social, da educação, cultura e
+desporto.
+Mais uma vez, como já visto anteriormente a seguridade social não é de iniciativa privativa
+e não tem relação com educação, cultura e desporto. Alternativa INCORRETA
+
+
+Gabarito: C
+
+
+39.    (CESPE - Defensor Público do Distrito Federal/2013)
+Julgue o item a seguir, relativos à seguridade social e o acidente do trabalho.
+Nos termos da CF, a seguridade social compreende um conjunto integrado de ações de
+iniciativa dos poderes públicos e da sociedade destinadas a assegurar, exclusivamente, os
+direitos relativos à previdência e à assistência social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa questão é INCORRETA, pois seguridade social abrange três áreas que são saúde,
+assistência social e previdência.
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de iniciativa dos
+      Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à
+      previdência e à assistência social.
+
+Cuidado com palavras como “exclusivamente”, “somente”, “unicamente” e afins....É
+comum o examinador selecionar uma alternativa que até estaria correta e torná-la
+incorreta, apenas inserindo uma dessas palavras.
+
+
+Gabarito ERRADO
+
+
+40.    (CESPE - Analista Legislativo (CAM DEP)/Área XXI/Consultor Legislativo/2014)
+Acerca da seguridade social, julgue o item que se segue.
+A previdência e a assistência social organizam-se com base em regime de caráter
+contributivo, razão pela qual somente serão prestadas aos segurados adimplentes com
+
+
+---
+
+suas obrigações, diferentemente do direito à saúde, cujo atendimento independe de
+prévia contribuição por parte do beneficiário.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa assertiva está ERRADA, pois a assistência social e a saúde independem de qualquer
+tipo de contribuição. Dentro da Seguridade Social, o regime de caráter contributivo é
+encontrado apenas na Previdência Social.
+O benefício de assistência social será prestado, a quem dela necessitar,
+independentemente de contribuição à seguridade social, conforme prevê o caput do art.
+203, da Constituição Federal.
+      Art. 203. A assistência social será prestada a quem dela necessitar, independentemente de
+      contribuição à seguridade social, e tem por objetivos:
+
+      (...)
+
+Já a saúde é um direito de todos e dever do Estado, conforme consta no art. 196 da
+Constituição Federal.
+      Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais
+      e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso
+      universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
+
+Gabarito: ERRADO.
+
+
+41.     (CESPE - Técnico do Seguro Social/2016)
+No que se refere à seguridade social no Brasil, julgue o item seguinte.
+A CF define seguridade social como um conjunto integrado de ações de iniciativa dos
+poderes públicos e da sociedade destinadas a assegurar direitos relativos à saúde, à
+previdência e à assistência social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+
+
+---
+
+Essa afirmativa está CORRETA. Mais uma vez o examinador exige o conhecimento sobre
+o Art. 194 da Constituição Federal, bastando ler o caput artigo para encontrar a resposta
+da questão.
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+Gabarito: CERTO.
+
+
+42.    (CESPE - Analista de Gestão Educacional (SEDF)/Direito e Legislação/2017)
+Julgue o próximo item, acerca do conceito e das fontes de custeio da seguridade social.
+A seguridade social representa um conjunto de benefícios prestados pelo poder público
+ao trabalhador e aos membros de sua família, independentemente de contribuição.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está INCORRETA, pois somente saúde e assistência social são independentes
+de qualquer contribuição. A Previdência Social exige contribuição prévia.
+Ademais, a Seguridade Social não representa apenas um conjunto de benefícios. A
+Seguridade Social compreende um conjunto integrado de ações, benefícios e serviços.
+Novamente o examinador exige seus conhecimentos sobre o art. 194 da Constituição
+Federal. Muita atenção às palavras utilizadas pelo legislador.
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+Gabarito: ERRADO.
+
+
+43.    (CESPE - Auditor de Controle Externo (TCE-PE)/Auditoria de Contas Públicas/2017)
+Acerca do conceito e dos princípios da seguridade social no Brasil, julgue o item que se
+segue. A seguridade social representa um conjunto integrado de ações direcionadas à
+proteção exclusiva de trabalhadores que mantêm vínculo contributivo com algum órgão
+de assistência previdenciária.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+Podemos responder essa afirmativa com base em 4 artigos da Constituição Federal art.
+196, art. 201 e art. 203, conforme podemos conferir:
+      Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas
+      sociais e econômicas que visem à redução do risco de doença e de outros agravos
+      e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção
+      e recuperação.(...)
+      Art. 201. A previdência social será organizada sob a forma de regime geral, de
+      caráter contributivo e de filiação obrigatória, observados critérios que preservem o
+      equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a (...)
+      Art. 203. A assistência social será prestada a quem dela necessitar,
+      independentemente de contribuição à seguridade social, e tem por objetivos: (...)
+Através da releitura desses artigos, podemos concluir que apenas a previdência social
+exige contribuição prévia. A Saúde e a Assistência Social serão oferecidas pela Seguridade
+Social independentemente de qualquer vínculo contributivo.
+
+
+Gabarito: ERRADA.
+
+44.    (ESAF - Analista Tributário da Receita Federal do Brasil/2009)
+A Constituição Federal de 1988 deu novo tratamento à Previdência Social no Brasil em
+relação às constituições pretéritas. O conceito de Seguridade Social colocado no Título da
+Ordem Social constitui em um novo paradigma constitucional à medida que:
+a) a Previdência Social é vista como um direito social independente e não relacionado à
+Assistência Social.
+b) a Previdência Social é vista como um subsistema da Saúde.
+c) a Previdência Social é vista como um serviço a ser prestado de forma integrada com a
+Assistência Social e a Saúde.
+d) Assistência Social e Previdência Social são conceitos jurídicos idênticos.
+e) Saúde e Assistência Social são direitos sociais organizados da mesma maneira e com a
+mesma finalidade.
+
+
+---
+
+COMENTÁRIOS:
+O enunciado pede que assinalemos a ASSERTIVA CORRETA.
+A resolução da presente questão tem por base o art. 194 da Constituição Federal, cujo
+texto transcrevemos a seguir:
+     “Art. 194. A seguridade social compreende um conjunto integrado de ações de
+     iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+     relativos à saúde, à previdência e à assistência social.”
+     Podemos afirmar, portanto, que a Seguridade Social é gênero, dos quais são
+     espécies a Saúde, a Previdência Social e a Assistência Social.
+
+
+Tomando por base o texto constitucional citado, vamos à análise de cada alternativa:
+
+
+a) a Previdência Social é vista como um direito social independente e não relacionado à
+Assistência Social. (ERRADA).
+Não procede a afirmação da presente assertiva, pois nos termos do art. 194 da CF/88, a
+Saúde, a Previdência e a Assistência Social terão seus direitos assegurados por meio de
+ações INTEGRADAS, não sendo a Previdência Social, portanto, um direito social
+independente e não relacionado com a Assistência Social.
+
+
+b) a Previdência Social é vista como um subsistema da Saúde. (ERRADA).
+Não procede a afirmação da presente assertiva, pois nos termos do art. 194 da CF/88, a
+Previdência Social, bem como a Assistência Social e a Saúde, são subsistemas da
+Seguridade Social. Como vimos, a Seguridade Social é Gênero, dos quais são espécies a
+Saúde, a Previdência Social e a Assistência Social.
+
+
+c) a Previdência Social é vista como um serviço a ser prestado de forma integrada com a
+Assistência Social e a Saúde. (CORRETA).
+Conforme disposto no art. 194 da CF/88, a Saúde, a Previdência e a Assistência Social
+terão seus direitos assegurados por meio de ações INTEGRADAS, exatamente como
+disposto na presente assertiva.
+
+
+d) Assistência Social e Previdência Social são conceitos jurídicos idênticos. (ERRADA).
+Não procede a afirmação da presente assertiva. Apesar das ações da Seguridade Social
+ser integradas, visando assegurar os direitos relativos à Saúde, à Previdência e à
+
+
+---
+
+Assistência social, cada uma das espécies que compõe a Seguridade Social tem conceito
+jurídico próprio, conforme segue:
+A Saúde é um direito de todos e dever do Estado, cujas disposições gerais estão
+disciplinadas pelos artigos 196 a 200 da CF/88.
+A Previdência Social será organizada sob a forma de regime geral, de caráter contributivo
+e de filiação obrigatória, e tem suas disposições gerais disciplinadas pelos artigos 201 e
+202 da CF/88.
+A Assistência Social será prestada a quem dela necessitar, independentemente de
+contribuição, cujas disposições gerais estão disciplinadas também na CF/88, nos artigos
+203 e 204.
+
+
+e) Saúde e Assistência Social são direitos sociais organizados da mesma maneira e com a
+mesma finalidade. (ERRADA).
+Não procede a afirmação da presente assertiva. Como já visto exaustivamente na solução
+das assertivas anteriores, a Saúde e a Assistência Social (bem como a Previdência Social)
+são direitos sociais que possuem finalidades e conceitos jurídicos distintos. Não obstante,
+terão os seus direitos assegurados através de ações integradas da Seguridade Social. O
+fato de a Seguridade Social realizar ações integradas não deve criar uma interpretação
+equivocada de que haverá necessidade de que tais direitos sociais sejam organizados da
+mesma maneira e com a mesma finalidade.
+
+
+Gabarito: C
+
+
+45.   (ESAF - Auditor Fiscal da Receita Federal do Brasil/2009)
+À luz da Organização da Seguridade Social definida na Constituição Federal, julgue os
+itens abaixo:
+I. Previdência Social, Educação e Assistência Social são partes da Seguridade Social;
+II. a Saúde possui abrangência universal, sendo qualquer pessoa por ela amparada;
+III. a Previdência Social pode ser dada gratuitamente à população rural carente;
+IV. a Assistência Social, por meio de sistema único e centralizado no poder central federal,
+pode ser dada a todos os contribuintes individuais da Previdência Social.
+
+
+O número de itens errados é:
+a) zero
+
+
+---
+
+b) um
+c) dois
+d) três
+e) quatro
+
+
+COMENTÁRIOS:
+O enunciado pede que assinalemos a QUANTIDADE DE ITENS ERRADOS.
+Vamos à análise de cada um dos itens:
+Item I: Previdência Social, Educação e Assistência Social são partes da Seguridade Social.
+(ERRADO).
+Assertiva incorreta, pois nos termos do art. 194 da CF/88, os direitos assegurados através
+da Seguridade Social são aqueles relativos a Saúde, Previdência Social e Assistência Social.
+Assim sendo, podemos afirmar que a Seguridade Social é gênero, dos quais são espécies
+a Saúde, a Previdência e a Assistência Social. A educação, portanto, não faz parte do rol
+de direitos assegurados pela Seguridade Social.
+
+
+Item II: a Saúde possui abrangência universal, sendo qualquer pessoa por ela amparada.
+(CORRETO).
+Assertiva correta. Nos termos do art. 196 da CF/88, a Saúde é direito de todos e dever do
+Estado, possuindo, portando, abrangência universal e sendo qualquer pessoa por ela
+amparada.
+
+
+Item III: a Previdência Social pode ser dada gratuitamente à população rural carente.
+(ERRADO).
+Assertiva incorreta, pois nos termos do art. 201 da CF/88, a Previdência Social será
+organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória,
+não podendo, portanto, ser oferecida gratuitamente à população urbana ou rural, ainda
+que carente.
+
+
+Item IV: a Assistência Social, por meio de sistema único e centralizado no poder central
+federal, pode ser dada a todos os contribuintes individuais da Previdência Social.
+(ERRADO).
+Assertiva incorreta. Nos termos do art. 203 da CF/88, a Assistência Social será prestada a
+quem dela necessitar, independentemente de contribuição. Assim sendo, não são todas
+
+
+---
+
+as pessoas por ela amparadas, mas apenas os necessitados. Ademais, as ações
+governamentais na área da assistência social serão organizadas de forma descentralizada,
+nos termos do art. 204, I, da CF/88.
+Após analisarmos os itens acima, podemos afirmar que 3 (três) itens estão incorretos.
+
+
+Gabarito: D
+
+
+46.   (ESAF - Auditor Fiscal da Receita Federal do Brasil/2009)
+Maria Clara, empregada doméstica com deficiência física, e Antônio José, empresário
+dirigente de multinacional sediada no Brasil, desejam contribuir para o Regime Geral de
+Previdência Social e com isso gozar de todos os benefícios e serviços prestados pela
+Seguridade Social.
+De acordo com a situação-problema apresentada acima, é correto afirmar que:
+a) Maria Clara e Antônio José podem participar da Assistência Social.
+b) só Antônio José pode participar da Previdência Social.
+c) só Antônio José pode participar de benefícios previdenciários.
+d) Maria Clara pode usufruir dos serviços de Saúde pública em razão da sua deficiência
+física.
+e) Maria Clara e Antônio José podem participar da Previdência Social.
+
+
+COMENTÁRIOS:
+Informações preliminares da questão: O enunciado pede que assinalemos a ASSERTIVA
+CORRETA.
+Preliminarmente, vamos mencionar as principais características de cada um dos direitos
+assegurados através da Seguridade Social:
+Saúde: é um direito de todos e dever do Estado, cujas disposições gerais estão
+disciplinadas pelos artigos 196 a 200 da CF/88.
+Previdência Social: será organizada sob a forma de regime geral, de caráter contributivo
+e de filiação obrigatória, e tem suas disposições gerais disciplinadas pelos artigos 201 e
+202 da CF/88.
+Assistência Social: será prestada a quem dela necessitar, independentemente de
+contribuição, cujas disposições gerais estão disciplinadas também na CF/88, nos artigos
+203 e 204.
+Vamos agora à análise de cada alternativa:
+
+
+---
+
+a) Maria Clara e Antônio José podem participar da Assistência Social. (ERRADA).
+Assertiva incorreta. Nos termos do art. 203 da CF/88, a Assistência Social será prestada a
+quem dela necessitar, independentemente de contribuição. Assim sendo, não são todas
+as pessoas por ela amparadas, mas apenas os necessitados. Desta forma, podemos
+concluir que Antônio José, por ser empresário dirigente de multinacional, por certo não
+será amparado pelos programas de Assistência Social.
+
+b) só Antônio José pode participar da Previdência Social. (ERRADA).
+Assertiva incorreta, pois nos termos do art. 201 da CF/88, a Previdência Social será
+organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória.
+Na situação apresentada, não apenas Antônio José, mas também Maria Clara, devem
+necessariamente participar da Previdência Social, pois ambos exercem atividades que os
+enquadram como segurados obrigatórios do Regime Geral de Previdência Social.
+
+c) só Antônio José pode participar de benefícios previdenciários. (ERRADA).
+Assertiva incorreta. Conforme mencionado na assertiva anterior, não apenas Antônio José,
+mas também Maria Clara, são segurados obrigatórios do Regime Geral de Previdência
+Social. Desta forma, ambos podem participar dos benefícios previdenciários.
+
+d) Maria Clara pode usufruir dos serviços de Saúde pública em razão da sua deficiência
+física. (ERRADA).
+Não procede integralmente a afirmação da presente assertiva. Nos termos do art. 196 da
+CF/88, a Saúde é direito de todos e dever do Estado, possuindo, portando, abrangência
+universal e sendo qualquer pessoa por ela amparada. Desta forma, Maria Clara pode
+usufruir dos serviços de Saúde pública, mas não em razão de sua deficiência física, como
+afirma a assertiva, pois o direito a saúde independe de sua condição de deficiente.
+
+e) Maria Clara e Antônio José podem participar da Previdência Social. (CORRETA).
+Assertiva correta. Na situação apresentada, Antônio José e Maria Clara podem participar
+da Previdência Social. Fazendo uma análise mais criteriosa, Antônio José e Maria Clara
+não apenas podem, mas devem necessariamente participar da Previdência Social, pois
+ambos exercem atividades que os enquadram como segurados obrigatórios do Regime
+Geral de Previdência Social. Por fim, quem deve participar da Previdência Social, por certo
+pode fazê-lo.
+
+
+Gabarito: E
+
+
+---
+
+47.   (ADAPTADA / INÉDITA)
+No âmbito da Seguridade Social, com sede na Constituição Federal/88 (art. 194),
+podemos afirmar que a seguridade social compreende um conjunto integrado de ações
+dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde,
+à previdência, à vida e à assistência social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. A Seguridade Social compreende um conjunto integrado de ações de iniciativa
+dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde,
+à previdência e à assistência social, conforme disposto no caput do art. 194 da CF/88. A
+“vida” não faz parte das ações da Seguridade Social.
+
+
+Gabarito: ERRADO
+48.   (ADAPTADA / INÉDITA)
+Previdência Social, Saúde e Assistência Social são partes da Seguridade Social.
+Certo ( )
+Errado ( )
+
+COMENTÁRIOS:
+CORRETA. Tal afirmação está em consonância com o conceito constitucional da
+Seguridade Social previsto no art. 194 da CF, pois a Previdência Social, a Saúde e
+Assistência Social são as três partes que compõe a Seguridade Social.
+
+Gabarito: CERTO
+
+
+49.   (ADAPTADA / INÉDITA)
+A saúde exige contribuição prévia.
+Certo ( )
+Errado ( )
+
+COMENTÁRIOS:
+
+
+---
+
+ERRADA. A saúde é direito de todos e dever do Estado. Assim sendo, os serviços públicos
+de saúde no Brasil se destinam a todos e independem de qualquer contribuição para a
+Seguridade Social.
+
+
+Gabarito: ERRADO
+
+
+50.   (ADAPTADA / INÉDITA)
+A assistência social possui abrangência universal, sendo qualquer pessoa por ela
+amparada.
+Certo ( )
+Errado ( )
+
+COMENTÁRIOS:
+ERRADA. A Assistência Social, conforme disposto no art. 203 da Constituição Federal, será
+prestada a quem dela necessitar. Assim sendo, a Assistência Social no Brasil não se destina
+a todos, mas apenas às pessoas necessitadas.
+
+Gabarito: ERRADO
+51.   (ADAPTADA / INÉDITA)
+Lucas, menor carente, de 13 anos, e Bruno, empresário bem-sucedido, de 21 anos,
+desejam participar de programas assistenciais e de saúde pública. De acordo com a
+situação-problema apresentada, é correto afirmar que Lucas e Bruno podem participar da
+Saúde.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. Como já vimos, os serviços públicos de saúde no Brasil se destinam a todos,
+sejam pobres ou ricos, necessitados ou abastados.
+
+
+Gabarito: CERTO
+
+
+---
+
+52.   (ADAPTADA / INÉDITA)
+À luz dos dispositivos constitucionais referentes à Seguridade Social, julgue o item a
+seguir: A Seguridade Social pode compreender ações de iniciativa da sociedade.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A Seguridade Social compreende um conjunto integrado de ações de iniciativa
+dos Poderes Públicos e da sociedade, conforme disposto no caput do art. 194 da CF/88.
+Portanto, a Seguridade Social pode compreender ações de iniciativa da sociedade.
+
+
+Gabarito: CERTO
+
+
+53.   (ADAPTADA / INÉDITA)
+A Constituição Federal de 1988 deu novo tratamento à Previdência Social no Brasil em
+relação às constituições pretéritas. O conceito de Seguridade Social colocado no Título da
+Ordem Social constitui em um novo paradigma constitucional à medida que a Previdência
+Social é vista como um serviço a ser prestado de forma integrada com a Assistência Social
+e a Saúde.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A Previdência Social é vista como um serviço a ser prestado de forma integrada
+com a Assistência Social e a Saúde, conforme podemos observar pela leitura do caput do
+art. 194 da CF/88, haja vista tratar-se de um conjunto integrado de ações.
+
+
+Gabarito: CERTO
+
+
+54.   (ADAPTADA / INÉDITA)
+À luz dos dispositivos constitucionais referentes à Seguridade Social, julgue o item a
+seguir: Compete ao Poder Público organizar a Seguridade Social nos termos da lei.
+Certo ( )
+
+
+---
+
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A organização da Seguridade social cabe ao Poder Público, conforme disposto
+no parágrafo único do art. 194 da CF/88.
+
+
+Gabarito: CERTO
+
+
+55.    (CESPE - Técnico do Seguro Social/2016)
+No que se refere à seguridade social no Brasil, julgue o item seguinte.
+De acordo com o princípio da universalidade da seguridade social, os estrangeiros no
+Brasil poderão receber atendimento da seguridade social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está CORRETA. O princípio da universalidade é o primeiro do art. 194 da
+Constituição Federal sobre o assunto, e assim dispõe:
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      I - universalidade da cobertura e do atendimento; (...)
+O princípio da universalidade do atendimento tem por objetivo tornar a Seguridade
+acessível a todas as pessoas residentes no país, inclusive estrangeiras. Especificamente em
+relação à saúde, não há qualquer restrição. Assim sendo, até mesmo um estrangeiro que
+esteja passando férias no Brasil e não tenha direito a cobertura previdenciária nem
+assistencial, ainda assim terá direito a saúde.
+E apesar de só ser atendido por um dos pilares da seguridade social, o estrangeiro no
+Brasil poderá ser atendido.
+
+
+Gabarito: CERTO.
+
+
+---
+
+56.   (CESPE - Analista Técnico-Administrativo (DPU)/2016)
+A respeito da conceituação, dos princípios e das disposições constitucionais acerca da
+seguridade social, julgue o seguinte item.
+O princípio constitucional da universalidade da cobertura e do atendimento implica no
+entendimento de que o Estado deve prover, por meio da seguridade social, gratuitamente
+e independentemente de contribuição, assistência social, saúde e previdência a todos que
+necessitam desses benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está ERRADA, pois assistência social e saúde realmente são gratuitos e
+independem de qualquer contribuição, sendo que a saúde é um direito de todos e a
+assistência social é direito daqueles que necessitem. No entanto, conforme estudamos,
+com a previdência é diferente. Previdência necessita sim de contribuição, possuindo
+caráter contributivo e obrigatório.
+
+
+Gabarito: ERRADO
+
+57.   (CESPE - Técnico do Seguro Social/2016)
+Com base no disposto no Decreto n.º 3.048/1999, que aprovou o regulamento da
+previdência social, julgue o item subsecutivo.
+ A universalidade da cobertura e do atendimento inclui-se entre os princípios que regem
+as ações dos poderes públicos e da sociedade destinadas a assegurar o direito relativo à
+saúde, à previdência e à assistência social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está CORRETA, para confirmar isso basta consultar o art. .1º do Decreto n.º
+3.048/1999, que reproduz o que já está previsto no texto constitucional:
+
+
+---
+
+      Art. 1º A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos poderes públicos e da sociedade, destinado a assegurar o direito
+      relativo à saúde, à previdência e à assistência social.
+      Parágrafo único.      A seguridade social obedecerá aos seguintes princípios e
+      diretrizes:
+      I - universalidade da cobertura e do atendimento;
+      (....).
+
+
+Gabarito: CERTO.
+
+
+58.     (CESPE - Analista do Seguro Social/2016)
+Com relação ao RGPS, julgue o item que se segue.
+ O RGPS tem como princípio a universalidade de cobertura, o que significa que os
+segurados vinculados a esse regime e seus dependentes têm direito aos mesmos
+benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Parte dessa afirmativa está correta, quando o examinador diz que o RGPS tem como
+princípio a universalidade de cobertura. No entanto, quando ele diz que isso significa que
+os segurados vinculados a esse regime e seus dependentes têm direitos aos mesmos
+benefícios e serviços, isso está incorreto e pode ser observado ao longo de diversos
+dispositivos legais que regem o tema. Em nossas próximas aulas estudaremos os
+benefícios dos segurados e dos dependentes, onde poderemos perceber que segurados
+e dependentes não terão direito aos mesmos benefícios e serviços.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+59.   (CESPE - Analista do Seguro Social/2016)
+Com referência à CF e às políticas de seguridade, julgue o item subsecutivo.
+Na organização da seguridade social, o objetivo da universalidade da cobertura e do
+atendimento diz respeito, mais diretamente, à política de previdência social, dada a
+superação de sua lógica securitária.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa está incorreta, pois: a) universalidade da cobertura, também chamado
+universalidade objetiva, significa que todos os riscos e contingências a que podem estar
+sujeitas as pessoas residentes no território nacional devem ser cobertos pelo sistema; b)
+universalidade do atendimento, também chamado universalidade subjetiva, significa que
+todas as pessoas residentes no território nacional devem ser atendidas pelo sistema.
+Por fim, importante destacarmos ainda que a previdência social atende a quem contribui,
+a assistência social atende aos necessitados, sem depender de contribuição e a saúde
+atende a todos.
+
+
+Gabarito: ERRADO
+
+
+60.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: universalidade da cobertura e do atendimento.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A presente alternativa reproduz fielmente o disposto no inciso I, do parágrafo
+único, do art. 194 da CF/88.
+Segundo a universalidade da cobertura, a proteção social oferecida pela Seguridade
+Social deve alcançar todos os riscos sociais (infortúnios), aos quais quaisquer pessoas estão
+sujeitas, e que possam levá-las a uma condição de necessidade.
+
+
+---
+
+A universalidade do atendimento, por sua vez, visa tornar a Seguridade Social acessível a
+todas as pessoas.
+
+
+Gabarito: CERTO.
+
+
+61.    (ADAPTADA / INÉDITA)
+Quanto aos princípios constitucionais da Seguridade Social, é correto afirmar que a
+universalidade da cobertura e do atendimento significa a cobertura de todos os riscos,
+chamados riscos sociais, que podem atingir as pessoas que vivem em sociedade e que
+todos os residentes e domiciliados no território nacional - brasileiros e estrangeiros –
+devem ser atendidos pelo Sistema de Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. O enunciado da questão reproduz fielmente o conceito doutrinário referente
+ao princípio da universalidade da cobertura e do atendimento, respectivamente.
+
+
+Gabarito: CERTO.
+
+
+62.    (ADAPTADA / INÉDITA) – CESPE - Técnico do Seguro Social/2016
+Com base no disposto na Lei n.º 8.213/1991, que trata dos planos de benefícios da
+previdência social e dá outras providências, julgue o item seguinte.
+Os princípios que regem a previdência social incluem a uniformidade e a equivalência dos
+benefícios e serviços prestados às populações urbanas e rurais.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+A afirmativa está CORRETA, nos termos do art. 2 da lei n.º 8.213/1991, pois a uniformidade
+e a equivalência dos serviços prestados e dos benefícios das populações urbanas e rurais
+é um dos princípios da previdência social.
+      Art. 2º A Previdência Social rege-se pelos seguintes princípios e objetivos: [...]
+
+
+---
+
+      II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+      rurais;
+      (...)
+
+
+Gabarito: CERTO.
+
+63.     (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: prevalência dos benefícios e serviços às populações rurais.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Não podemos falar em prevalência dos benefícios e serviços às populações
+rurais, pois contraria frontalmente o disposto no inciso II, do parágrafo único, do art. 194
+da CF/88, que determina como sendo um dos objetivo da Seguridade Social a
+“uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais”, e
+não a prevalência de tais prestações às populações rurais, como afirma erroneamente o
+enunciado.
+A uniformidade mencionada refere-se à igualdade quanto aos eventos a serem cobertos
+para as populações urbanas e rurais.
+A equivalência, no entanto, refere-se ao valor pecuniário dos benefícios ou qualidade da
+prestação dos serviços, em relação às populações urbanas e rurais, devendo tais
+prestações ser equivalentes.
+O único dos princípios constitucionais da Seguridade Social que menciona os
+“trabalhadores urbanos e rurais” é o princípio da uniformidade e equivalência dos
+benefícios e serviços às populações urbanas e rurais. Além disso, a mencionada
+uniformidade e equivalência se referem não apenas aos benefícios, mas também aos
+serviços prestados.
+
+
+Gabarito: ERRADO
+
+
+---
+
+64.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: seletividade e distributividade na prestação dos benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A presente alternativa reproduz a literalidade do inciso III, do parágrafo único,
+do art. 194 da CF/88.
+A seletividade impõe ao legislador a delimitação do rol de prestações, devendo definir,
+na lei orçamentária, onde aplicar os limitados recursos, dentro das ilimitadas demandas da
+sociedade, levando-se em conta as prestações sociais de maior relevância e as
+possibilidades econômico-financeiras do sistema.
+A distributividade, por sua vez, tem por objetivo diminuir as desigualdades sociais,
+buscando melhor distribuição de renda, direcionando a atuação do sistema protetivo às
+pessoas com maior necessidade. Como exemplo de distributividade podemos citar a
+assistência social, que é concedida apenas quem dela necessitar. Também podemos citar
+o auxílio-reclusão e o salário-família, concedidos não a todos os segurados, mas apenas
+aos segurados de baixa renda.
+
+
+Gabarito: CERTO.
+
+
+65.   (ADAPTADA / INÉDITA)
+Podemos afirmar, com relação aos objetivos constitucionais da Seguridade Social, a
+seletividade na prestação dos benefícios e serviços às populações urbanas e rurais.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. O princípio da Seletividade na Prestação dos Benefícios e Serviços está previsto
+no art. 194, § único, inciso III da CF/88, mas não faz nenhuma referência às populações
+urbanas e rurais.
+Gabarito: ERRADO
+
+
+---
+
+66.    (CESPE - Advogado da União/2015)
+No que diz respeito à seguridade social, julgue o item a seguir.
+Conforme a jurisprudência do STF, a irredutibilidade do valor dos benefícios é garantida
+constitucionalmente, seja para assegurar o valor nominal, seja para assegurar o valor real
+dos benefícios, independentemente dos critérios de reajuste fixados pelo legislador
+ordinário.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa que cobra o seu conhecimento sobre a jurisprudência do STF, está
+ERRADA, pois não é independente dos critérios de reajuste fixados pelo legislador
+ordinário. Para não deixar dúvidas, vejamos a elucidação da Suprema Corte:
+      "AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. BENEFÍCIOS
+      PREVIDENCIÁRIOS. REVISÃO. ARTIGO 201, § 4º, DA CB/88. MATÉRIA
+      INFRACONSTITUCIONAL. OFENSA REFLEXA.
+      1. Este Tribunal fixou entendimento no sentido de que o disposto no artigo 201, §
+      4º, da Constituição do Brasil, assegura a revisão dos benefícios previdenciários
+      conforme critérios definidos em lei, ou seja, compete ao legislador ordinário definir
+      as diretrizes para conservação do valor real do benefício. Precedentes. 2.
+      Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à
+      Constituição do Brasil. 3. Agravo regimental a que se nega provimento.
+      (STF – AI 668.444-AgR – Relator Ministro EROS GRAU – Segunda Turma –
+      Julgamento em 13.11.2007 – Publicação em 07.12.2007)
+      (DESTAQUES NOSSOS)
+
+
+Ou seja, segundo o STF quem deverá garantir a conservação do valor real do benefício é
+a lei. A Constituição Federal, segundo entendimento do STF, garante apenas a
+manutenção do seu valor nominal.
+
+
+Gabarito: ERRADO
+
+
+---
+
+67.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: irredutibilidade do valor dos benefícios.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A presente alternativa reproduz a literalidade do inciso IV, do parágrafo único,
+do art. 194 da CF/88. Mas muita atenção: a irredutibilidade refere-se somente ao valor
+dos “benefícios”. Já houve diversas provas em que a questão era apresentada, para
+confundir o candidato, afirmando que um dos objetivos da Seguridade Social é a
+irredutibilidade do valor dos “serviços”.
+
+
+Gabarito: CERTO.
+
+
+68.   (ADAPTADA / INÉDITA)
+Podemos afirmar, com relação aos objetivos constitucionais da Seguridade Social, a
+irredutibilidade do valor dos serviços.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. O correto seria Irredutibilidade do Valor dos Benefícios, conforme disposto no
+art. 194, § único, inciso IV da Constituição Federal. Não há previsão para Irredutibilidade
+do Valor dos Serviços, pois os serviços não têm valor pecuniário e não podem, portanto,
+ter seus valores reduzidos ou aumentados.
+
+
+Gabarito: ERRADO
+
+
+69.   (ADAPTADA / INÉDITA)
+Segundo a organização e princípios constitucionais da Seguridade Social, podemos
+afirmar que o valor dos benefícios pode ser diminuído gradativamente.
+Certo ( )
+
+
+---
+
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Um dos objetivos da Seguridade Social proíbe a diminuição do valor dos
+benefícios, conforme disposto no art. 194, § único, inciso IV da Constituição Federal, que
+dispõe sobre a Irredutibilidade do Valor dos Benefícios.
+
+
+Gabarito: ERRADO
+
+
+70.   (ADAPTADA / INÉDITA)
+Quanto aos princípios constitucionais da Seguridade Social, é correto afirmar que o
+princípio da irredutibilidade do valor dos benefícios, segundo a orientação do Supremo
+Tribunal Federal, significa a irredutibilidade do valor real, protegendo-os do fenômeno
+inflacionário.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Conforme entendimento do Supremo Tribunal Federal – STF, tal princípio visa
+apenas proteger o valor nominal do benefício, uma vez que o valor real já está protegido
+pelo art. 201, §4º da CF/88.
+
+
+Gabarito: ERRADO
+
+71.    (ADAPTADA / INÉDITA) – (CESPE - Especialista em Assistência Penitenciária/Serviço
+Social/2015)
+Com referência à política social e legislação social, julgue o item subsequente.
+Os objetivos da seguridade social, embasados em ações de discriminação positiva, visam
+alcançar a universalidade da cobertura e do atendimento e a equidade na forma de
+participação dos segurados.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+A questão aborda regras da seguridade social, tratando especificamente da Previdência
+Social.
+A assertiva está CORRETA, apesar de o examinador ter buscado rebuscar m pouco a
+linguagem, quando do uso da expressão “ações de discriminação positiva”. Para verificar
+isso basta consultarmos o art.194 da Constituição Federal:
+      Art. 194. A seguridade social compreende um conjunto integrado de ações de
+      iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+      relativos à saúde, à previdência e à assistência social.
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos:
+      I - universalidade da cobertura e do atendimento;
+      II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+      rurais;
+      III - seletividade e distributividade na prestação dos benefícios e serviços;
+      IV - irredutibilidade do valor dos benefícios;
+      V - equidade na forma de participação no custeio;
+      VI - diversidade da base de financiamento;
+      VII - caráter democrático e descentralizado da administração, mediante gestão
+      quadripartite, com participação dos trabalhadores, dos empregadores, dos
+      aposentados e do Governo nos órgãos colegiados.
+
+
+Gabarito: CERTO.
+
+
+72.    (ESAF - Analista Tributário da Receita Federal do Brasil/Geral/2012)
+Assinale a opção incorreta.
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base
+nos seguintes objetivos:
+a) universalidade da cobertura e do atendimento, de modo.
+b) prevalência dos benefícios e serviços às populações rurais.
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+
+
+---
+
+d) irredutibilidade do valor dos benefícios.
+e) equidade na forma de participação no custeio.
+
+
+COMENTÁRIOS:
+O enunciado pede que assinalemos a ASSERTIVA INCORRETA.
+A resolução da presente questão tem por base o parágrafo único e respectivos incisos do
+art. 194 da Constituição Federal, cujo texto reproduzimos a seguir:
+
+
+     “Art. 194. ...
+     Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+     seguridade social, com base nos seguintes objetivos:
+     I - universalidade da cobertura e do atendimento;
+     II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+     rurais;
+     III - seletividade e distributividade na prestação dos benefícios e serviços;
+     IV - irredutibilidade do valor dos benefícios;
+     V - equidade na forma de participação no custeio;
+     VI - diversidade da base de financiamento;
+     VII - caráter democrático e descentralizado da administração, mediante gestão
+     quadripartite, com participação dos trabalhadores, dos empregadores, dos
+     aposentados e do Governo nos órgãos colegiados.”
+
+
+Tais objetivos são também denominados, tanto pela doutrina como pelas bancas de
+concursos, como princípios constitucionais específicos da Seguridade Social. Tais
+princípios também são reproduzidos no parágrafo único do Art. 1º da Lei nº 8.212/91.
+Tomando por base o texto constitucional citado, vamos à análise de cada alternativa:
+
+
+a) universalidade da cobertura e do atendimento, de modo. (ASSERTIVA CORRETA).
+A presente alternativa reproduz o disposto no inciso I, do parágrafo único, do art. 194 da
+CF/88. Outrossim, a banca reconheceu o erro tipográfico consistente em adição da
+expressão “de modo”, ao final da presente alternativa, o que, segundo ela, não prejudica
+o quesito nem torna a opção juridicamente incorreta. A banca afirmou que, do ponto de
+vista jurídico, tanto faz se a expressão esteja presente, como ausente.
+
+
+---
+
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+b) prevalência dos benefícios e serviços às populações rurais. (ASSERTIVA ERRADA).
+Não podemos falar em prevalência dos benefícios e serviços às populações rurais, pois
+contraria frontalmente o disposto no inciso II, do parágrafo único, do art. 194 da CF/88.
+O correto seria “uniformidade e equivalência dos benefícios e serviços às populações
+urbanas e rurais”.
+Como o enunciado pede para assinalarmos a opção incorreta, essa será a alternativa a ser
+assinalada.
+
+
+c) seletividade e distributividade na prestação dos benefícios e serviços. (ASSERTIVA
+CORRETA).
+A presente alternativa reproduz a literalidade do inciso III, do parágrafo único, do art. 194
+da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+d) Irredutibilidade do valor dos benefícios. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso IV, do parágrafo único, do art. 194
+da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+e) equidade na forma de participação no custeio. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso V, do parágrafo único, do art. 194
+da CF/88.
+Como o enunciado pede para assinalarmos a opção incorreta, não podemos assinalar esta
+alternativa.
+
+
+Gabarito: B
+
+
+---
+
+73.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: equidade na forma de participação no custeio.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+CORRETA. A presente alternativa reproduz a literalidade do inciso V, do parágrafo único,
+do art. 194 da CF/88. Tal princípio busca, como já estudamos, a observância dos critérios
+de justiça e igualdade, e consiste em tratar igualmente os iguais e desigualmente os
+desiguais, na medida de suas desigualdades. Estabelece, também, que a contribuição para
+o sistema será determinada de acordo com a capacidade econômica de cada contribuinte,
+ou seja, quem tem maior capacidade contributiva deverá contribuir com mais; quem tem
+menor capacidade, com menos.
+
+
+Gabarito: CERTO.
+
+
+74.   (ADAPTADA / INÉDITA)
+Podemos afirmar que está previsto na CF/88, com relação aos objetivos constitucionais da
+Seguridade Social, a equidade na cobertura.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. O correto seria Equidade na Forma de Participação no Custeio, conforme
+disposto no art. 194, § único, inciso V da CF/88. Não há previsão para equidade na
+cobertura, conforme afirma o enunciado da questão.
+
+
+Gabarito: ERRADO.
+
+
+75.   (ESAF - Analista Tributário da Receita Federal do Brasil/2009)
+Tendo em vista os princípios e diretrizes da Seguridade Social, nos termos do texto da
+Constituição Federal e da legislação de custeio previdenciária, assinale a opção incorreta.
+a) Diversidade da base de financiamento.
+
+
+---
+
+b) Universalidade da cobertura e do atendimento.
+c) Equidade na forma de participação no custeio.
+d) Irredutibilidade do valor dos benefícios e serviços.
+e) Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+
+
+COMENTÁRIOS:
+O enunciado pede que assinalemos a ASSERTIVA INCORRETA.
+
+
+A resolução da presente questão tem por base o parágrafo único e respectivos incisos do
+art. 194 da Constituição Federal, cujo texto reproduzimos a seguir:
+     “Art. 194. ...
+     Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+     seguridade social, com base nos seguintes objetivos:
+     I - universalidade da cobertura e do atendimento;
+     II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+     rurais;
+     III - seletividade e distributividade na prestação dos benefícios e serviços;
+     IV - irredutibilidade do valor dos benefícios;
+     V - equidade na forma de participação no custeio;
+     VI - diversidade da base de financiamento;
+     VII - caráter democrático e descentralizado da administração, mediante gestão
+     quadripartite, com participação dos trabalhadores, dos empregadores, dos
+     aposentados e do Governo nos órgãos colegiados.”
+
+
+Tais objetivos são também denominados, tanto pela doutrina como pelas bancas de
+concursos, como princípios constitucionais específicos da Seguridade Social.
+Tomando por base o texto constitucional citado, vamos à análise de cada alternativa:
+
+
+a) Diversidade da base de financiamento. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso VI, do parágrafo único, do art. 194
+da CF/88. Como o enunciado pede para assinalarmos a opção incorreta, não podemos
+assinalar esta alternativa.
+
+
+---
+
+b) Universalidade da cobertura e do atendimento. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso I, do parágrafo único, do art. 194
+da CF/88. Como o enunciado pede para assinalarmos a opção incorreta, não podemos
+assinalar esta alternativa.
+
+
+c) Equidade na forma de participação no custeio. (ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso V, do parágrafo único, do art. 194
+da CF/88. Como o enunciado pede para assinalarmos a opção incorreta, não podemos
+assinalar esta alternativa.
+
+
+d) Irredutibilidade do valor dos benefícios e serviços. (ASSERTIVA ERRADA).
+Como podemos observar na leitura atenta do inciso IV, do parágrafo único, do art. 194 da
+CF/88, a irredutibilidade aplica-se apenas aos benefícios. Os benefícios são prestações
+dotadas de conteúdo pecuniário, como, por exemplo, uma aposentadoria ou um auxílio
+doença. Os serviços, por sua vez, não possuem natureza pecuniária. Assim sendo, não há
+previsão para a irredutibilidade do valor dos serviços. Como o enunciado pede para
+assinalarmos a opção incorreta, essa será a alternativa a ser assinalada.
+
+
+e) Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+(ASSERTIVA CORRETA).
+A presente alternativa reproduz a literalidade do inciso II, do parágrafo único, do art. 194
+da CF/88. Como o enunciado pede para assinalarmos a opção incorreta, não podemos
+assinalar esta alternativa.
+
+
+Gabarito: D.
+
+76.   (ADAPTADA / INÉDITA)
+Com relação aos objetivos constitucionais da Seguridade Social, encontra-se a
+Universalidade da base de financiamento.
+Certo ( )
+Errado ( )
+
+
+---
+
+COMENTÁRIOS:
+ERRADA. Conforme disposto no art. 194, § único, inciso I da Constituição Federal, o
+correto seria Universalidade da Cobertura e do Atendimento. Também estaria correto se
+a assertiva afirmasse Diversidade da Base de Financiamento, conforme disposto no art.
+194, § único, inciso VI da Constituição Federal. Universalidade da Base de Financiamento,
+como trazido pela questão, não existe na CF/88.
+
+
+Gabarito: ERRADO.
+
+
+77.    (ADAPTADA / INÉDITA)
+A Constituição Federal, no seu art. 194, parágrafo único, elenca os objetivos da
+Seguridade Social. Entre os quais, está correto a unicidade da base de financiamento.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Entre os objetivos da Seguridade Social, elencados no art. 194, § único da
+CF/88, não se encontra a unicidade da base de financiamento. O correto seria afirmar a
+previsão da diversidade da base de financiamento, conforme disposto no art. 194, § único,
+inciso VI da Constituição Federal.
+
+Gabarito: ERRADO.
+
+
+78.    (CESPE - Analista Judiciário (TRT 10ª Região) / Judiciária / "Sem Especialidade"/2013 (e
+mais 1 concurso)
+Com base nas disposições emanadas do direito previdenciário, julgue o item abaixo.
+O princípio do caráter democrático da administração da seguridade social preconiza que
+sua gestão será quadripartite, com a participação da União, dos estados, dos municípios
+e do Distrito Federal.
+Certo ( )
+Errado ( )
+
+COMENTÁRIOS:
+
+
+---
+
+Essa afirmativa está INCORRETA, pois a gestão quadripartite da Seguridade Social, nos
+termos da CF/88, é composta por
+      •    Trabalhadores;
+      •    Empregadores;
+      •    Aposentados;
+      •    Governo.
+Assim sendo a primeira parte da afirmativa está correta, conforme o inciso VII do parágrafo
+único, do Art 194 da Constituição Federal, que assim dispõe:
+          Art. 194. (...)
+          Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+          seguridade social, com base nos seguintes objetivos: […]
+          VII – caráter democrático e descentralizado da administração, mediante gestão
+          quadripartite, com participação dos trabalhadores, dos empregadores, dos
+          aposentados e do Governo nos órgãos colegiados.
+
+Gabarito: ERRADO.
+
+
+79.        (CESPE - Defensor Público do Distrito Federal/2013)
+Julgue o item a seguir, relativo à seguridade social e a acidente do trabalho.
+Entre os objetivos em que se baseia a organização da seguridade social no Brasil inclui-se
+o caráter democrático e descentralizado da administração, mediante gestão tripartite,
+com participação dos trabalhadores, dos empregadores e do governo nos órgãos
+colegiados.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+Essa afirmativa, novamente testa o seu conhecimento sobre o art., 194 da Constituição
+Federal. Conforme o inciso VII do parágrafo único, do referido artigo, podemos concluir
+que a assertiva está errada, poia a gestão da Seguridade Social é quadripartite, a não
+tripartite, com a participação dos trabalhadores, empregadores, aposentados e do
+Governo em órgãos colegiados.
+          Art. 194. (...)
+
+
+---
+
+      Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+      seguridade social, com base nos seguintes objetivos: […]
+      VII – caráter democrático e descentralizado da administração, mediante gestão
+      quadripartite, com participação dos trabalhadores, dos empregadores, dos
+      aposentados e do Governo nos órgãos colegiados.
+
+
+Gabarito: ERRADO
+
+
+80.    (FCC - Auditor – TCE/CE - 2015)
+Em relação às disposições legais sobre organização e princípios da Seguridade Social
+previstos na Constituição da República Federativa do Brasil, é correto afirmar:
+a) Uma das diretrizes da Previdência Social é o seu caráter centralizado, com direção única
+em cada esfera de governo.
+b) As ações e serviços públicos de Saúde integram uma rede regionalizada e hierarquizada
+e constituem um sistema único.
+c) A assistência social será prestada a quem dela necessitar, com natureza facultativa,
+solidária e contributiva.
+d) A promoção da integração ao mercado de trabalho é um dos objetivos expressos da
+Previdência Social.
+e) Em razão da diversidade da base de financiamento, não há uniformidade e equivalência
+entre os benefícios às populações urbanas e rurais.
+
+
+COMENTÁRIOS:
+Essa questão pede para que você selecione a alternativa CORRETA e testa os seus
+conhecimentos sobre seguridade social (conceituação geral), conforme diversos artigos
+da CF/88, os quais exploraremos abaixo, conforme as alternativas.
+Analisemos as assertivas:
+
+
+a) Uma das diretrizes da Previdência Social é o seu caráter centralizado, com direção única
+em cada esfera de governo.
+Para quem já estudou um pouco o texto constitucional, a palavra “centralizado” já salta
+aos olhos, não é? Ora, essa alternativa está incorreta, pois a Seguridade Social, que
+abrange saúde, assistência social e previdência, pelo artigo 194 da Constituição Federal,
+possui caráter descentralizado.
+
+
+---
+
+     Art. 194 ...
+     VII - caráter democrático e descentralizado da administração, mediante gestão
+     quadripartite, com participação dos trabalhadores, dos empregadores, dos
+     aposentados e do Governo nos órgãos colegiados.
+Alternativa INCORRETA.
+
+
+b) As ações e serviços públicos de Saúde integram uma rede regionalizada e hierarquizada
+e constituem um sistema único.
+Conforme consta no Art. 198 da Constituição Federal, podemos concluir que essa
+alternativa é a CORRETA, senão vejamos:
+     Art. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e
+     hierarquizada e constituem um sistema único, organizado de acordo com as
+     seguintes diretrizes:
+     I - descentralização, com direção única em cada esfera de governo;
+     II - atendimento integral, com prioridade para as atividades preventivas, sem prejuízo
+     dos serviços assistenciais;
+     III - participação da comunidade.
+Portanto, alternativa CORRETA
+
+
+c) A assistência social será prestada a quem dela necessitar, com natureza facultativa,
+solidária e contributiva.
+Aqui, o examinador tentou confundir o candidato misturando alguns conceitos de
+“assistência social” com de “previdência social”. Contudo, essa alternativa está
+claramente incorreta, pois assistência social, assim como a saúde, são independentes de
+qualquer contribuição, conforme podemos verificar logo no caput do art. 203, abaixo
+reproduzido em sua integra:
+     Art. 203. A assistência social será prestada a quem dela necessitar,
+     independentemente de contribuição à seguridade social, e tem por objetivos:
+     I - a proteção à família, à maternidade, à infância, à adolescência e à velhice;
+     II - o amparo às crianças e adolescentes carentes;
+     III - a promoção da integração ao mercado de trabalho;
+     IV - a habilitação e reabilitação das pessoas portadoras de deficiência e a promoção
+     de sua integração à vida comunitária;
+
+
+---
+
+     V - a garantia de um salário mínimo de benefício mensal à pessoa portadora de
+     deficiência e ao idoso que comprovem não possuir meios de prover à própria
+     manutenção ou de tê-la provida por sua família, conforme dispuser a lei; e
+     VI - a redução da vulnerabilidade socioeconômica de famílias em situação de
+     pobreza ou de extrema pobreza
+Portanto, alternativa INCORRETA.
+
+
+d) A promoção da integração ao mercado de trabalho é um dos objetivos expressos da
+Previdência Social.
+Essa alternativa também está INCORRETA, pois promoção e integração ao mercado de
+trabalho é um dos objetivos da assistência social e não da previdência social. Mais uma
+vez, o examinador tenta confundir o candidato misturando conceitos de “Previdência”
+com “Assistência”. Bom a esta altura já deu para você perceber que esse tipo de
+pegadinha é muito comum. Portanto, fique atento.
+Alternativa INCORRETA.
+
+
+e) Em razão da diversidade da base de financiamento, não há uniformidade e equivalência
+entre os benefícios às populações urbanas e rurais.
+Essa alternativa está incorreta, pois conforme previsto no inciso II, parágrafo único, do art.
+194 da Constituição Federal, um dos objetivos da Seguridade Social é a equivalências de
+direito entre os benefícios e serviços das populações urbanas e rurais. Tal fato não tem
+nada que ver com a diversidade da base de financiamento.
+     Art. 194. A seguridade social compreende um conjunto integrado de ações de
+     iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+     relativos à saúde, à previdência e à assistência social.
+     Parágrafo único. Compete ao Poder Público, nos termos da lei, organizar a
+     seguridade social, com base nos seguintes objetivos: (...)
+     II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+     rurais;
+Portanto, Alternativa INCORRETA
+Gabarito: B
+
+
+---
+
+81.   (ADAPTADA / INÉDITA)
+Nos termos da CF/88, no seu art. 194, parágrafo único, inciso VII, a gestão da Seguridade
+Social ocorre de forma descentralizada, monocrática e quadripartite.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Nos termos da CF/88, no seu art. 194, parágrafo único, inciso VII, a gestão da
+Seguridade Social ocorre de forma descentralizada, democrática e quadripartite. A
+assertiva está errada por afirmar que a gestão ocorre de forma monocrática.
+
+
+Gabarito: ERRADO
+
+
+82.   (ADAPTADA / INÉDITA)
+Segundo a organização e princípios constitucionais da Seguridade Social, podemos
+afirmar que a gestão da Seguridade Social é ato privativo do Poder Público.
+Certo ( )
+Errado ( )
+
+
+COMENTÁRIOS:
+ERRADA. Nos termos da CF/88, no seu art. 194, parágrafo único, inciso VII, a gestão da
+Seguridade Social dar-se-á de forma quadripartite, com participação dos trabalhadores,
+empregadores, aposentados e do próprio governo nos órgãos colegiados, não sendo,
+portanto, ato privativo do poder público.
+
+
+Gabarito: ERRADO
+
+
+83.   (ESAF - Auditor Fiscal da Receita Federal do Brasil/2014)
+Sobre o princípio constitucional da solidariedade, próprio do direito previdenciário, julgue
+os itens a seguir, classificando-os como certos ou errados. Em seguida, assinale a opção
+correta.
+I. A solidariedade é a justificativa elementar para a compulsoriedade do sistema
+previdenciário, pois os trabalhadores são coagidos a contribuir em razão da cotização
+
+
+---
+
+individual ser necessária para a manutenção de toda a rede protetiva, e não para a tutela
+do indivíduo, isoladamente considerado.
+II. A solidariedade é pressuposto para a ação cooperativa da sociedade, sendo essa
+condição fundamental para a materialização do bem-estar social, com a necessária
+redução das desigualdades sociais.
+III. É a solidariedade que justifica a cobrança de contribuições pelo aposentado que volta
+a trabalhar.
+IV. A solidariedade impede a adoção de um sistema de capitalização pura em todos os
+segmentos da previdência social.
+a) Apenas I está correta.
+b) Apenas I e II estão corretas.
+c) Apenas I, II e III estão corretas.
+d) Apenas II e III estão corretas.
+e) Todos os itens estão corretos.
+
+
+COMENTÁRIOS:
+Com base na nossa introdução teórica, já temos condições de analisar as assertivas da
+questão:
+
+
+I – A Previdência Social possui caráter contributivo e compulsório. Assim sendo, os
+trabalhadores são coagidos a contribuir em razão da cotização individual ser necessária
+para a manutenção de toda a rede protetiva. (ASSERTIVA CORRETA).
+
+
+II - A solidariedade é sim um pressuposto para a ação cooperativa da sociedade, pois a
+contribuição não pertence a quem contribuiu, mas sim a todo e qualquer beneficiário do
+sistema. Tal princípio constitucional é medida necessária para a redução das
+desigualdades sociais, pois o mais afortunado contribui com mais e o mais carente, em
+regra, é quem mais utiliza os benefícios do sistema, apesar de contribuir com menos.
+(ASSERTIVA CORRETA).
+
+
+III - A solidariedade justifica a cobrança de contribuições pelo aposentado que volta a
+trabalhar, pois, como já sabemos, quem contribui não o faz para si, mas sim para toda a
+sociedade. (ASSERTIVA CORRETA).
+
+
+---
+
+IV - Atualmente, são duas as formas existentes para gerar os recursos que se transformarão
+em benefícios no sistema previdenciário: o Regime de Repartição e o Regime de
+Capitalização. Especificamente em relação à Previdência Social, a solidariedade, como já
+vimos, realmente impede a adoção de um sistema de capitalização pura, como
+encontramos nos regimes de previdência complementar privado. Nos segmentos da
+previdência social, a contribuição deverá, obrigatoriamente, respeitar o princípio
+constitucional da solidariedade, onde a contribuição é direcionada para o sistema, não
+apenas visando o seu próprio direito, mas sim visando o bem comum, ou seja, o direito de
+toda a coletividade. (ASSERTIVA CORRETA).
+
+
+Conforme apresentamos acima, todos os itens estão corretos.
+
+
+Gabarito : E
+
+
+84.    (FCC - Procurador Autárquico – MANAUSPREV - 2015)
+A seguridade social será financiada mediante recursos provenientes dos poderes públicos
+e de algumas contribuições sociais de particulares. Sobre estas últimas, após a criação por
+lei, somente poderão ser exigidas:
+a) após decorridos 120 dias.
+b) no dia seguinte da sua criação.
+c) no exercício financeiro seguinte ao ano da criação.
+d) após decorridos 45 dias.
+e) após decorridos 90 dias.
+
+
+COMENTÁRIOS:
+Essa questão busca ver se você tem conhecimentos sobre o art. 195 da CF/88, que a pesar
+de um pouco longo, é de suma importância para o candidato. Para analisar as alternativas,
+vamos rever o referido artigo em seu caput e, especificamente, seu § 6º:
+      Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta
+      e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da
+      União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes
+      contribuições sociais:
+      […]
+
+
+---
+
+     § 6º As contribuições sociais de que trata este artigo só poderão ser exigidas após
+     decorridos noventa dias da data da publicação da lei que as houver instituído ou
+     modificado, não se lhes aplicando o disposto no art. 150, III, "b".
+Como podemos ver, o § 6º estabelece que as contribuições sociais só poderão ser exigidas
+após decorridos 90 dias da publicação da lei, portanto, sem dúvidas, conhecendo o
+dispositivo legal, podemos marcar o “x” na alternativa E.
+
+
+Gabarito: E
+
+
+---
+
+LISTA DAS QUESTÕES
+
+1. (CESPE – Analista Portuário – EMAP – 2018)
+O sistema de seguridade social compreende um conjunto de ações de iniciativa exclusiva
+dos poderes públicos, que se destinam à garantia de saúde, previdência e assistência à
+sociedade.
+Certo ( )
+Errado ( )
+
+
+2.    (CESPE – Analista Judiciário STM – Serviço Social – 2018)
+A previdência social e a assistência social visam assegurar aos seus beneficiários meios
+indispensáveis de manutenção, por motivo de incapacidade, idade avançada, tempo de
+serviço, desemprego involuntário, encargos de família e reclusão ou morte daqueles de
+quem dependiam economicamente.
+Certo ( )
+Errado ( )
+
+
+3.    (CESPE – Analista Judiciário – STM – 2018)
+Acerca da Lei n.º 8.212/1991, que dispõe sobre a seguridade social, julgue o item a seguir.
+A previdência social e a assistência social visam assegurar aos seus beneficiários meios
+indispensáveis de manutenção, por motivo de incapacidade, idade avançada, tempo de
+serviço, desemprego involuntário, encargos de família e reclusão ou morte daqueles de
+quem dependiam economicamente.
+Certo ( )
+Errado ( )
+
+
+4.    (CESPE – Analista Judiciário STM – Serviço Social – 2018)
+Acerca da Lei n.º 8.212/1991, que dispõe sobre a seguridade social, julgue o item a seguir.
+Os princípios e diretrizes da seguridade social incluem a participação da iniciativa privada
+na assistência à área da saúde, desde que obedecidos os preceitos constitucionais.
+Certo ( )
+Errado ( )
+
+
+---
+
+5.    (CESPE- Analista Judiciário – PGE PE – 2019)
+Acerca da seguridade social, julgue o item seguinte.
+O princípio da universalidade de cobertura da seguridade social assegura a concessão de
+todos os benefícios e serviços a todas as pessoas que deles necessitarem,
+independentemente de contribuição.
+Certo ( )
+Errado ( )
+
+
+6.     (CESPE – Analista Judiciário – STJ – 2018)
+Com relação à organização e aos princípios do sistema de seguridade social brasileiro,
+julgue o item a seguir.
+ O princípio da seletividade e distributividade na prestação de benefícios e serviços está
+relacionado à seleção dos riscos sociais e à extensão da proteção patrocinada pelo Estado
+a todas as pessoas.
+Certo ( )
+Errado ( )
+
+
+7.    (CESPE – Analista Judiciário STJ- 2018)
+O princípio da seletividade e distributividade na prestação de benefícios e serviços está
+relacionado à seleção dos riscos sociais e à extensão da proteção patrocinada pelo Estado
+a todas as pessoas.
+Certo ( )
+Errado ( )
+
+
+8.    (CESPE – Procurador Municipal – Prefeitura Boa Vista – 2019)
+A respeito de princípios constitucionais relativos à seguridade social, julgue o item a
+seguir.
+O princípio da diversidade da base de financiamento é imprescindível para a manutenção
+da saúde financeira e atuarial do sistema de seguridade social, uma vez que reduz o risco
+de desequilíbrio do orçamento direto e indireto desse sistema.
+Certo ( )
+Errado ( )
+
+
+---
+
+9.        (CESPE – Analista Judiciário STM – Serviço Social – 2018)
+Acerca da Lei n.º 8.212/1991, que dispõe sobre a seguridade social, julgue o item a seguir.
+Constitui princípio e diretriz da seguridade social o caráter democrático e descentralizado
+da gestão administrativa, com a participação de membros da comunidade, entre os quais,
+os empresários.
+Certo ( )
+Errado ( )
+
+10.       (CESPE – Procurador do Município de Manaus – 2018)
+Constitui objetivo da seguridade social manter o caráter democrático e descentralizado
+da administração, mediante gestão tripartite, com participação dos trabalhadores e
+empregadores e do Estado.
+Certo ( )
+Errado ( )
+
+
+11.       (CESPE – Auditor Estadual – TCM BA – 2018)
+O princípio da seguridade social que estabelece a proporcionalidade da contribuição
+social para o sistema conforme a condição financeira dos seus contribuintes denomina-se
+a) universalidade da cobertura e do atendimento.
+b) seletividade e distributividade.
+c) equidade na forma de participação do custeio.
+d) diversidade da base de financiamento.
+e) uniformidade e equivalência de benefícios.
+
+12.       (CESPE-Procurador do Estado de Pernambuco – 2018)
+Conforme a doutrina, o princípio previdenciário que representa o sistema de repartição
+da seguridade social e garante a prestação de benefícios e serviços
+independentemente do aporte individual das contribuições sociais é o princípio da
+     a) Uniformidade da base de financiamento.
+     b) Seletividade e distributividade na prestação de benefícios e serviços.
+     c)   Solidariedade.
+     d) Equidade na forma de participação do custeio.
+     e) Diversidade da base de financiamento.
+
+
+---
+
+13.   (CESPE – Auditor de Contas Públicas – TCE PB – 2018 - ADAPTADA)
+De acordo com a CF, o RGPS é
+a) organizado para garantir a proteção à maternidade, compreendida esta apenas como
+a exercida pela mãe gestante.
+b) garantidor do reajustamento dos benefícios previdenciários apenas para preservar-lhes
+o valor nominal.
+c) de filiação obrigatória, mas sem caráter contributivo.
+d) organizado para atender, entre outros, à cobertura de eventos como doenças, invalidez
+e morte, mas não o desemprego involuntário.
+e) garantidor de pelo menos um salário mínimo quando do pagamento de benefícios
+substitutivos do salário de contribuição ou de rendimento do trabalho.
+
+
+14.   (CESPE – Procurador do Município de Manaus – 2018)
+Julgue o próximo item, relativo à organização, aos princípios e ao custeio da seguridade
+social.
+Por força da regra da contrapartida, os benefícios e serviços da seguridade social somente
+poderão ser criados, majorados ou estendidos se existente a correspondente fonte de
+custeio total.
+Certo ( )
+Errado ( )
+
+
+15.   (FCC – Consultor Legislativo – CL DF – 2018)
+A mudança no tratamento da questão social pela Constituição Federal de 1988 consagrou,
+em relação à Seguridade Social, o princípio basilar de
+a) extensão da cobertura aos segmentos até então desprotegidos na sociedade.
+b) cobertura do contribuinte direto.
+c) sustentação orçamentária com enfoque na folha de pagamento do contribuinte.
+d) assegurar assistência médica aos trabalhadores do mercado formal.
+e) exclusão de cobertura contra riscos sociais.
+
+
+16.   ( FCC – Analista Previdenciário – SEGEP – MA – 2018)
+Tendo em vista que os princípios são a base do sistema jurídico e revelam a finalidade a
+ser perseguida pelos aplicadores da lei, considere:
+
+
+---
+
+I. São aplicáveis ao sistema da seguridade social os princípios da igualdade, da legalidade
+e da solidariedade social, todos eles subordinados ao princípio da dignidade da pessoa
+humana.
+
+
+II. A universalidade da cobertura e do atendimento, a uniformidade e equivalência dos
+benefícios e serviços às populações urbanas e rurais e a equidade na forma de participação
+no custeio, entre outros, são considerados princípios constitucionais próprios da
+seguridade social.
+
+
+III. Caráter democrático e descentralização da Administração, mediante gestão tripartite,
+com participação dos trabalhadores, dos empregadores e do governo nos órgãos
+colegiados, também é considerado um princípio constitucional da seguridade social.
+
+
+a) II e III, apenas.
+b) I, II e III.
+c) I e II, apenas.
+d) I, apenas.
+e) III, apenas.
+
+
+17.     (FCC – Auditor Público Externo – TCE – RS – 2018)
+O princípio constitucional que diz respeito aos aspectos objetivos, às contingências que
+irão ser cobertas, bem como aquele que tomará por base o aspecto pecuniário ou do
+atendimento dos serviços, que não serão necessariamente iguais, mas correspondentes,
+na medida do possível, dependendo do tempo de contribuição, coeficiente de cálculo,
+sexo, idade, é o da
+a) universalidade da cobertura e do atendimento.
+b) uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+d) equidade na forma de participação no custeio.
+e) diversidade da base de financiamento.
+
+
+---
+
+18.       (FCC – PROCURADOR DO ESTADO DO AMAPÁ – 2018)
+Quanto ao conceito, princípios e organização da seguridade social, conforme previsão
+na Constituição Federal,
+a) a diversidade da base de financiamento e a irredutibilidade do valor dos benefícios
+são objetivos a serem alcançados pelo poder público na organização da seguridade
+social.
+b) a gestão administrativa deve ser tripartite, com participação dos trabalhadores, dos
+empregadores e do Governo nos órgãos colegiados.
+c) a seguridade social está assentada no binômio que engloba o conjunto de ações de
+iniciativa do poder público e da sociedade, destinado a assegurar direitos restritos à
+previdência e à assistência social.
+d) a universalidade do atendimento não se constitui em objetivo da seguridade social,
+na medida em que o seguro social fornece proteção apenas para certas categorias de
+pessoas não amparando toda a sociedade.
+e) a uniformidade dos benefícios significa que o valor da renda mensal dos benefícios
+deve ser igual, e não equivalente, entre populações urbanas e rurais.
+
+
+19.       (FCC- Técnico Previdenciário – SEGEP MA – 2018)
+Considere:
+I. acesso universal e igualitário.
+II. descentralização, com direção única em cada esfera de governo.
+III. universalidade de participação nos planos previdenciários, mediante contribuição.
+IV. previdência complementar facultativa, custeada por contribuição adicional.
+
+
+De acordo com a Lei nº 8.212/91, a organização da Previdência Social obedecerá
+determinados princípios e diretrizes, entre eles os indicados APENAS em
+
+
+a) II, III e IV.
+b) I e II.
+c) I, II e III.
+d) III e IV.
+e) I, III e IV.
+
+
+---
+
+20.   (Inédita)
+Cícero recebe o benefício de aposentadoria por invalidez. De acordo com o princípio da
+irredutibilidade do valor do benefício e com as disposições da legislação previdenciária, o
+valor do seu benefício deverá ser reajustado, anualmente, na mesma data do reajuste do
+salário mínimo, com base no Sistema Especial de Liquidação e Custódia.
+Certo ( )
+Errado ( )
+
+
+21.   (Inédita)
+Adália é maior de 65 anos e é beneficiária do Benefício Assistencial ao Idoso (BPC- LOAS).
+De acordo com a jurisprudência do STF, seu benefício deverá ser reajustado anualmente
+de forma que seja mantido o seu valor real.
+Certo ( )
+Errado ( )
+
+
+22.   (Inédita)
+Acerca dos princípios da seguridade social, podemos afirmar que equidade na forma de
+participação do custeio e isonomia são conceitos que se confundem.
+Certo ( )
+Errado ( )
+
+
+23.   (Inédita)
+O princípio da solidariedade é um dos princípios que dão suporte para que o Regime
+Geral de Previdência Social possa ser organizado em Regime de Repartição Simples.
+Certo ( )
+Errado ( )
+
+
+24.   (Inédita)
+O princípio da distributividade impõe ao legislador a seleção dos riscos e contingências a
+serem atendidos pela Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+---
+
+25.   (Inédita)
+Tendo por base as disposições constitucionais sobre a ordem social, é possível afirmar que
+a uniformidade dos benefícios e serviços às populações urbanas e rurais está entre os
+objetivos da Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+26.   (Inédita)
+Dada a extensão da proteção social a ser garantida pelo Estado no âmbito da seguridade
+social, o princípio da diversidade da base de financiamento tem por objetivo garantir a
+arrecadação de contribuições, por meio de variadas fontes de custeio.
+
+
+27.   (Inédita)
+Cabe ao legislador delimitar a extensão da proteção oferecida pela seguridade social em
+razão do princípio constitucional da seletividade e distributividade na prestação dos
+benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+28.   (Inédita)
+Dado o princípio da equidade na forma de participação do custeio, podemos afirmar que
+as contribuições sociais devidas ao sistema da seguridade social são iguais para todos os
+trabalhadores.
+Certo ( )
+Errado ( )
+
+
+29.   (Inédita)
+O princípio constitucional aplicável à Seguridade Social da universalidade da cobertura e
+do atendimento é observado sem ressalvas na assistência social, uma vez que esta está
+disponível a todos que dela necessitarem.
+Certo ( )
+Errado ( )
+
+
+---
+
+30.     (Inédita)
+Acerca dos princípios constitucionais da Previdência Social é correto afirmar que é
+assegurado reajustamento dos benefícios para preservar-lhes, em caráter permanente, o
+valor nominal, conforme critérios definidos em lei.
+Certo ( )
+Errado ( )
+
+
+31.     (Inédita)
+Sobre os princípios e objetivos da seguridade social, assinale a alternativa que apresenta
+um princípio específico da previdência social.
+a) Universalidade da cobertura e do atendimento.
+b) Equidade na forma de participação do custeio.
+c)    Descentralização, com direção única em cada esfera de governo.
+d) A habilitação e reabilitação das pessoas portadoras de deficiência e a promoção de
+   sua integração à vida comunitária.
+e) valor da renda mensal dos benefícios substitutos do salário-de-contribuição ou do
+   rendimento do trabalho do segurado não inferior ao do salário mínimo.
+
+
+32.     (Inédita)
+A Seguridade Social possui um princípio cujo objetivo é a manutenção da saúde financeira
+e atuarial do sistema, uma vez que reduz o risco de desequilíbrio orçamentário. Também
+há um princípio que estabelece a proporcionalidade da contribuição social para o sistema
+conforme a condição financeira de seus contribuintes. Os dois princípios mencionados são
+respectivamente:
+a) Equidade na forma de participação do custeio / seletividade e distributividade.
+b) Diversidade da base de financiamento / equidade na forma de participação do custeio.
+c)    Seletividade e distributividade / diversidade e distributividade.
+d) Universalidade da cobertura e do atendimento / equidade na forma de participação
+   do custeio.
+e) Uniformidade e equivalência de benefícios / Seletividade e distributividade.
+
+
+---
+
+33.     (Inédita)
+Entre as situações práticas descritas abaixo, assinale aquela em que podemos observar a
+aplicação do princípio da universalidade da cobertura e do atendimento.
+a) Leonardo é empregado doméstico e recebe 1 salário mínimo e, junto a esse salário,
+   ele recebe uma cota de salário família, por possuir um filho de 5 anos.
+b) Carlos é idoso, maior de 65 anos, e por não possui meios de prover sua própria
+   manutenção ou de tê-la provida por sua família ele recebe o benefício assistencial ao
+   idoso.
+c)    Josh é um americano que veio ao Brasil para conhecer o carnaval do Rio de Janeiro e,
+      durante as festividades, veio a ter uma insolação, precisando de atendimento em um
+      hospital do SUS.
+d) Luiz foi condenado a reclusão em regime fechado em decorrência de crime de
+   homicídio e seus dependentes passaram a receber auxílio-reclusão.
+e)     Ricardo, preocupado com as notícias em torno do futuro da previdência social no
+      Brasil, resolveu aderir a um plano de previdência complementar oferecido aos
+      funcionários da empresa em que ele trabalha.
+
+
+34.     (Inédita)
+Dentre as descrições a seguir, assinale àquela que corresponde ao princípio da
+seletividade e distributividade.
+a) Tal princípio prevê que para que haja ampliação do rol de cobertura dos benefícios da
+   seguridade social, é necessário que se crie primeiro a fonte de custeio total.
+b) Tal princípio disciplina que seguridade social deverá ter cobertura ampla, abrangendo
+   todos os riscos sociais e todas as pessoas devem ser cobertas pelo sistema, inclusive
+   os estrangeiros de passagem pelo território nacional.
+c)    Dada a limitação de recursos dos cofres públicos, tal princípio é direcionado ao
+      legislador, a fim de que ele selecione as contingências que devem ser priorizadas pelo
+      sistema da seguridade social, e selecione aqueles que serão abrangidos pelos
+      benefícios e serviços.
+d) Tendo como objetivo o equilíbrio financeiro do sistema, tal princípio prevê que as
+   fontes de custeio da seguridade social devem ser variadas.
+e) Buscando a justiça social, por meio do princípio da isonomia, tal princípio prevê que a
+   participação no custeio da seguridade social se dará conforme a capacidade
+   econômica do contribuinte.
+
+
+---
+
+35.     (Inédita)
+O princípio constitucional que está relacionado com a busca do equilíbrio financeiro da
+Seguridade Social, dando maior segurança ao sistema, de modo que as fontes de custeio
+não estejam concentradas em uma única fonte, é o da
+a)    universalidade da cobertura e do atendimento.
+b)    uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+c)    seletividade e distributividade na prestação dos benefícios e serviços.
+d)    equidade na forma de participação no custeio.
+e)    diversidade da base de financiamento.
+
+
+36.     (Inédita)
+Entre os princípios aplicáveis à Seguridade Social, aquele que é destinado ao legislador,
+de forma que ele delimite o rol de prestações que serão prestadas pela Seguridade Social,
+selecionando os riscos e contingências que serão atendidos dentro das possibilidades
+financeiras do Poder Público é o princípio da
+a)    Diversidade da base de financiamento.
+b)    Seletividade e distributividade na prestação de benefícios e serviços.
+c)    Equidade na forma de participação do custeio.
+d)    Universalidade da cobertura e do atendimento
+e)    Solidariedade.
+
+                               Exercícios estudados nesta aula
+
+37.     (FCC - Juiz Do Trabalho - TRT 1ª Região – 2012)
+A seguridade social compreende um conjunto integrado de ações:
+a) De iniciativa da sociedade, reguladas pelos Poderes Públicos, destinadas a assegurar
+os direitos relativos a saúde, previdência e assistência social.
+b) Exclusivas dos Poderes Públicos, destinadas a prover, quando materialmente possível,
+os direitos relativos a saúde, previdência e assistência social.
+c) Exclusivas dos Poderes Públicos, destinadas a assegurar os direitos relativos a saúde,
+previdência e assistência social.
+
+
+---
+
+d) De iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos
+relativos a saúde, previdência e assistência social.
+e) De iniciativa dos Poderes Públicos e da sociedade, destinadas a prover, quando
+materialmente possível, os direitos relativos a saúde, previdência e assistência social.
+
+
+38.   (FCC - Procurador De Contas – TCE/CE - 2015)
+Nos termos previstos na Constituição da República Federativa do Brasil, a Seguridade
+Social compreende um conjunto de ações
+a) integradas e de iniciativa exclusiva do Poder Público Federal e da sociedade, com
+destinação de garantia de direitos da previdência social, da saúde, da assistência social,
+da educação, cultura e desporto.
+b) independentes e centralizadas, de iniciativa privativa dos Poderes Públicos, visando
+exclusivamente à garantia de direitos relativos à previdência social.
+c) integradas de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os
+direitos relativos à saúde, à previdência e à assistência social.
+d) descentralizadas e concorrentes, de iniciativa privativa da União e dos Estados
+Membros, com objetivo de assegurar direitos relativos exclusivamente às áreas de
+previdência e assistência social.
+e) integradas e de iniciativa privativa dos Poderes Públicos com destinação à garantia de
+direitos da previdência social, da saúde, da assistência social, da educação, cultura e
+desporto.
+
+
+39.   (CESPE - Defensor Público do Distrito Federal/2013)
+Julgue o item a seguir, relativos à seguridade social e o acidente do trabalho.
+Nos termos da CF, a seguridade social compreende um conjunto integrado de ações de
+iniciativa dos poderes públicos e da sociedade destinadas a assegurar, exclusivamente, os
+direitos relativos à previdência e à assistência social.
+Certo ( )
+Errado ( )
+
+
+40.   (CESPE - Analista Legislativo (CAM DEP)/Área XXI/Consultor Legislativo/2014)
+Acerca da seguridade social, julgue o item que se segue.
+A previdência e a assistência social organizam-se com base em regime de caráter
+contributivo, razão pela qual somente serão prestadas aos segurados adimplentes com
+
+
+---
+
+suas obrigações, diferentemente do direito à saúde, cujo atendimento independe de
+prévia contribuição por parte do beneficiário.
+Certo ( )
+Errado ( )
+
+
+41.   (CESPE - Técnico do Seguro Social/2016)
+No que se refere à seguridade social no Brasil, julgue o item seguinte.
+A CF define seguridade social como um conjunto integrado de ações de iniciativa dos
+poderes públicos e da sociedade destinadas a assegurar direitos relativos à saúde, à
+previdência e à assistência social.
+Certo ( )
+Errado ( )
+
+
+42.   (CESPE - Analista de Gestão Educacional (SEDF)/Direito e Legislação/2017)
+Julgue o próximo item, acerca do conceito e das fontes de custeio da seguridade social.
+A seguridade social representa um conjunto de benefícios prestados pelo poder público
+ao trabalhador e aos membros de sua família, independentemente de contribuição.
+Certo ( )
+Errado ( )
+
+
+43.   (CESPE - Auditor de Controle Externo (TCE-PE)/Auditoria de Contas Públicas/2017)
+Acerca do conceito e dos princípios da seguridade social no Brasil, julgue o item que se
+segue. A seguridade social representa um conjunto integrado de ações direcionadas à
+proteção exclusiva de trabalhadores que mantêm vínculo contributivo com algum órgão
+de assistência previdenciária.
+Certo ( )
+Errado ( )
+
+
+44.   (ESAF - Analista Tributário da Receita Federal do Brasil/2009)
+A Constituição Federal de 1988 deu novo tratamento à Previdência Social no Brasil em
+relação às constituições pretéritas. O conceito de Seguridade Social colocado no Título da
+Ordem Social constitui em um novo paradigma constitucional à medida que:
+
+
+---
+
+a) a Previdência Social é vista como um direito social independente e não relacionado à
+Assistência Social.
+b) a Previdência Social é vista como um subsistema da Saúde.
+c) a Previdência Social é vista como um serviço a ser prestado de forma integrada com a
+Assistência Social e a Saúde.
+d) Assistência Social e Previdência Social são conceitos jurídicos idênticos.
+e) Saúde e Assistência Social são direitos sociais organizados da mesma maneira e com a
+mesma finalidade.
+
+
+45.       (ESAF - Auditor Fiscal da Receita Federal do Brasil/2009)
+À luz da Organização da Seguridade Social definida na Constituição Federal, julgue os
+itens abaixo:
+I. Previdência Social, Educação e Assistência Social são partes da Seguridade Social;
+II. a Saúde possui abrangência universal, sendo qualquer pessoa por ela amparada;
+III. a Previdência Social pode ser dada gratuitamente à população rural carente;
+IV. a Assistência Social, por meio de sistema único e centralizado no poder central federal,
+pode ser dada a todos os contribuintes individuais da Previdência Social.
+
+
+O número de itens errados é:
+a) zero
+b) um
+c) dois
+d) três
+e) quatro
+
+
+46.       (ESAF - Auditor Fiscal da Receita Federal do Brasil/2009)
+Maria Clara, empregada doméstica com deficiência física, e Antônio José, empresário
+dirigente de multinacional sediada no Brasil, desejam contribuir para o Regime Geral de
+Previdência Social e com isso gozar de todos os benefícios e serviços prestados pela
+Seguridade Social.
+De acordo com a situação-problema apresentada acima, é correto afirmar que:
+a) Maria Clara e Antônio José podem participar da Assistência Social.
+
+
+---
+
+b) só Antônio José pode participar da Previdência Social.
+c) só Antônio José pode participar de benefícios previdenciários.
+d) Maria Clara pode usufruir dos serviços de Saúde pública em razão da sua deficiência
+física.
+e) Maria Clara e Antônio José podem participar da Previdência Social.
+
+47.   (ADAPTADA / INÉDITA)
+No âmbito da Seguridade Social, com sede na Constituição Federal/88 (art. 194),
+podemos afirmar que a seguridade social compreende um conjunto integrado de ações
+dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde,
+à previdência, à vida e à assistência social.
+Certo ( )
+Errado ( )
+
+
+48.   (ADAPTADA / INÉDITA)
+Previdência Social, Saúde e Assistência Social são partes da Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+49.   (ADAPTADA / INÉDITA)
+A saúde exige contribuição prévia.
+Certo ( )
+Errado ( )
+
+
+50.   (ADAPTADA / INÉDITA)
+A assistência social possui abrangência universal, sendo qualquer pessoa por ela
+amparada.
+Certo ( )
+Errado ( )
+
+
+---
+
+51.   (ADAPTADA / INÉDITA)
+Lucas, menor carente, de 13 anos, e Bruno, empresário bem-sucedido, de 21 anos,
+desejam participar de programas assistenciais e de saúde pública. De acordo com a
+situação-problema apresentada, é correto afirmar que Lucas e Bruno podem participar da
+Saúde.
+Certo ( )
+Errado ( )
+
+
+52.   (ADAPTADA / INÉDITA)
+À luz dos dispositivos constitucionais referentes à Seguridade Social, julgue o item a
+seguir: A Seguridade Social pode compreender ações de iniciativa da sociedade.
+Certo ( )
+Errado ( )
+
+53.   (ADAPTADA / INÉDITA)
+A Constituição Federal de 1988 deu novo tratamento à Previdência Social no Brasil em
+relação às constituições pretéritas. O conceito de Seguridade Social colocado no Título da
+Ordem Social constitui em um novo paradigma constitucional à medida que a Previdência
+Social é vista como um serviço a ser prestado de forma integrada com a Assistência Social
+e a Saúde.
+Certo ( )
+Errado ( )
+
+
+54.    (ADAPTADA / INÉDITA)
+À luz dos dispositivos constitucionais referentes à Seguridade Social, julgue o item a
+seguir: Compete ao Poder Público organizar a Seguridade Social nos termos da lei.
+Certo ( )
+Errado ( )
+
+
+---
+
+55.   (CESPE - Técnico do Seguro Social/2016)
+No que se refere à seguridade social no Brasil, julgue o item seguinte.
+De acordo com o princípio da universalidade da seguridade social, os estrangeiros no
+Brasil poderão receber atendimento da seguridade social.
+Certo ( )
+Errado ( )
+
+
+56.   (CESPE - Analista Técnico-Administrativo (DPU)/2016)
+A respeito da conceituação, dos princípios e das disposições constitucionais acerca da
+seguridade social, julgue o seguinte item.
+O princípio constitucional da universalidade da cobertura e do atendimento implica no
+entendimento de que o Estado deve prover, por meio da seguridade social, gratuitamente
+e independentemente de contribuição, assistência social, saúde e previdência a todos que
+necessitam desses benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+57.   (CESPE - Técnico do Seguro Social/2016)
+Com base no disposto no Decreto n.º 3.048/1999, que aprovou o regulamento da
+previdência social, julgue o item subsecutivo.
+ A universalidade da cobertura e do atendimento inclui-se entre os princípios que regem
+as ações dos poderes públicos e da sociedade destinadas a assegurar o direito relativo à
+saúde, à previdência e à assistência social.
+Certo ( )
+Errado ( )
+
+
+58.   (CESPE - Analista do Seguro Social/2016)
+Com relação ao RGPS, julgue o item que se segue.
+ O RGPS tem como princípio a universalidade de cobertura, o que significa que os
+segurados vinculados a esse regime e seus dependentes têm direito aos mesmos
+benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+---
+
+59.   (CESPE - Analista do Seguro Social/2016)
+Com referência à CF e às políticas de seguridade, julgue o item subsecutivo.
+Na organização da seguridade social, o objetivo da universalidade da cobertura e do
+atendimento diz respeito, mais diretamente, à política de previdência social, dada a
+superação de sua lógica securitária.
+Certo ( )
+Errado ( )
+
+
+60.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: universalidade da cobertura e do atendimento.
+Certo ( )
+Errado ( )
+
+
+61.   (ADAPTADA / INÉDITA)
+Quanto aos princípios constitucionais da Seguridade Social, é correto afirmar que a
+universalidade da cobertura e do atendimento significa a cobertura de todos os riscos,
+chamados riscos sociais, que podem atingir as pessoas que vivem em sociedade e que
+todos os residentes e domiciliados no território nacional - brasileiros e estrangeiros –
+devem ser atendidos pelo Sistema de Seguridade Social.
+Certo ( )
+Errado ( )
+
+
+62.   (ADAPTADA / INÉDITA) – CESPE - Técnico do Seguro Social/2016
+Com base no disposto na Lei n.º 8.213/1991, que trata dos planos de benefícios da
+previdência social e dá outras providências, julgue o item seguinte.
+Os princípios que regem a previdência social incluem a uniformidade e a equivalência dos
+benefícios e serviços prestados às populações urbanas e rurais.
+Certo ( )
+Errado ( )
+
+
+---
+
+63.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: prevalência dos benefícios e serviços às populações rurais.
+Certo ( )
+Errado ( )
+
+
+64.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: seletividade e distributividade na prestação dos benefícios e serviços.
+Certo ( )
+Errado ( )
+
+
+65.   (ADAPTADA / INÉDITA)
+Podemos afirmar, com relação aos objetivos constitucionais da Seguridade Social, a
+seletividade na prestação dos benefícios e serviços às populações urbanas e rurais.
+Certo ( )
+Errado ( )
+
+
+66.   (CESPE - Advogado da União/2015)
+No que diz respeito à seguridade social, julgue o item a seguir.
+Conforme a jurisprudência do STF, a irredutibilidade do valor dos benefícios é garantida
+constitucionalmente, seja para assegurar o valor nominal, seja para assegurar o valor real
+dos benefícios, independentemente dos critérios de reajuste fixados pelo legislador
+ordinário.
+Certo ( )
+Errado ( )
+
+
+67.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: irredutibilidade do valor dos benefícios.
+Certo ( )
+Errado ( )
+
+
+---
+
+68.   (ADAPTADA / INÉDITA)
+Podemos afirmar, com relação aos objetivos constitucionais da Seguridade Social, a
+irredutibilidade do valor dos serviços.
+Certo ( )
+Errado ( )
+
+
+69.   (ADAPTADA / INÉDITA)
+Segundo a organização e princípios constitucionais da Seguridade Social, podemos
+afirmar que o valor dos benefícios pode ser diminuído gradativamente.
+Certo ( )
+Errado ( )
+
+
+70.   (ADAPTADA / INÉDITA)
+Quanto aos princípios constitucionais da Seguridade Social, é correto afirmar que o
+princípio da irredutibilidade do valor dos benefícios, segundo a orientação do Supremo
+Tribunal Federal, significa a irredutibilidade do valor real, protegendo-os do fenômeno
+inflacionário.
+Certo ( )
+Errado ( )
+
+
+71.    (ADAPTADA / INÉDITA) – (CESPE - Especialista em Assistência Penitenciária/Serviço
+Social/2015)
+Com referência à política social e legislação social, julgue o item subsequente.
+Os objetivos da seguridade social, embasados em ações de discriminação positiva, visam
+alcançar a universalidade da cobertura e do atendimento e a equidade na forma de
+participação dos segurados.
+Certo ( )
+Errado ( )
+
+
+72.   (ESAF - Analista Tributário da Receita Federal do Brasil/Geral/2012)
+Assinale a opção incorreta.
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base
+nos seguintes objetivos:
+
+
+---
+
+a) universalidade da cobertura e do atendimento, de modo.
+b) prevalência dos benefícios e serviços às populações rurais.
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+d) irredutibilidade do valor dos benefícios.
+e) equidade na forma de participação no custeio.
+
+
+73.   (ADAPTADA / INÉDITA)
+Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no
+seguinte objetivo: equidade na forma de participação no custeio.
+Certo ( )
+Errado ( )
+
+
+74.   (ADAPTADA / INÉDITA)
+Podemos afirmar que está previsto na CF/88, com relação aos objetivos constitucionais da
+Seguridade Social, a equidade na cobertura.
+Certo ( )
+Errado ( )
+
+
+75.   (ESAF - Analista Tributário da Receita Federal do Brasil/2009)
+Tendo em vista os princípios e diretrizes da Seguridade Social, nos termos do texto da
+Constituição Federal e da legislação de custeio previdenciária, assinale a opção incorreta.
+a) Diversidade da base de financiamento.
+b) Universalidade da cobertura e do atendimento.
+c) Equidade na forma de participação no custeio.
+d) Irredutibilidade do valor dos benefícios e serviços.
+e) Uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais.
+
+
+76.   (ADAPTADA / INÉDITA)
+Com relação aos objetivos constitucionais da Seguridade Social, encontra-se a
+Universalidade da base de financiamento.
+Certo ( )
+Errado ( )
+
+
+---
+
+77.    (ADAPTADA / INÉDITA)
+A Constituição Federal, no seu art. 194, parágrafo único, elenca os objetivos da
+Seguridade Social. Entre os quais, está correto a unicidade da base de financiamento.
+Certo ( )
+Errado ( )
+
+
+78.    (CESPE - Analista Judiciário (TRT 10ª Região) / Judiciária / "Sem Especialidade"/2013 (e
+mais 1 concurso)
+Com base nas disposições emanadas do direito previdenciário, julgue o item abaixo.
+O princípio do caráter democrático da administração da seguridade social preconiza que
+sua gestão será quadripartite, com a participação da União, dos estados, dos municípios
+e do Distrito Federal.
+Certo ( )
+Errado ( )
+
+
+79.    (CESPE - Defensor Público do Distrito Federal/2013)
+Julgue o item a seguir, relativo à seguridade social e a acidente do trabalho.
+Entre os objetivos em que se baseia a organização da seguridade social no Brasil inclui-se
+o caráter democrático e descentralizado da administração, mediante gestão tripartite,
+com participação dos trabalhadores, dos empregadores e do governo nos órgãos
+colegiados.
+Certo ( )
+Errado ( )
+
+
+80.    (FCC - Auditor – TCE/CE - 2015)
+Em relação às disposições legais sobre organização e princípios da Seguridade Social
+previstos na Constituição da República Federativa do Brasil, é correto afirmar:
+a) Uma das diretrizes da Previdência Social é o seu caráter centralizado, com direção única
+em cada esfera de governo.
+b) As ações e serviços públicos de Saúde integram uma rede regionalizada e hierarquizada
+e constituem um sistema único.
+c) A assistência social será prestada a quem dela necessitar, com natureza facultativa,
+solidária e contributiva.
+
+
+---
+
+d) A promoção da integração ao mercado de trabalho é um dos objetivos expressos da
+Previdência Social.
+e) Em razão da diversidade da base de financiamento, não há uniformidade e equivalência
+entre os benefícios às populações urbanas e rurais.
+
+
+81.   (ADAPTADA / INÉDITA)
+Nos termos da CF/88, no seu art. 194, parágrafo único, inciso VII, a gestão da Seguridade
+Social ocorre de forma descentralizada, monocrática e quadripartite.
+Certo ( )
+Errado ( )
+
+
+82.   (ADAPTADA / INÉDITA)
+Segundo a organização e princípios constitucionais da Seguridade Social, podemos
+afirmar que a gestão da Seguridade Social é ato privativo do Poder Público.
+Certo ( )
+Errado ( )
+
+
+83.   (ESAF - Auditor Fiscal da Receita Federal do Brasil/2014)
+Sobre o princípio constitucional da solidariedade, próprio do direito previdenciário, julgue
+os itens a seguir, classificando-os como certos ou errados. Em seguida, assinale a opção
+correta.
+I. A solidariedade é a justificativa elementar para a compulsoriedade do sistema
+previdenciário, pois os trabalhadores são coagidos a contribuir em razão da cotização
+individual ser necessária para a manutenção de toda a rede protetiva, e não para a tutela
+do indivíduo, isoladamente considerado.
+II. A solidariedade é pressuposto para a ação cooperativa da sociedade, sendo essa
+condição fundamental para a materialização do bem-estar social, com a necessária
+redução das desigualdades sociais.
+III. É a solidariedade que justifica a cobrança de contribuições pelo aposentado que volta
+a trabalhar.
+IV. A solidariedade impede a adoção de um sistema de capitalização pura em todos os
+segmentos da previdência social.
+a) Apenas I está correta.
+
+
+---
+
+b) Apenas I e II estão corretas.
+c) Apenas I, II e III estão corretas.
+d) Apenas II e III estão corretas.
+e) Todos os itens estão corretos.
+
+
+84.    (FCC - Procurador Autárquico – MANAUSPREV - 2015)
+A seguridade social será financiada mediante recursos provenientes dos poderes públicos
+e de algumas contribuições sociais de particulares. Sobre estas últimas, após a criação por
+lei, somente poderão ser exigidas:
+a) após decorridos 120 dias.
+b) no dia seguinte da sua criação.
+c) no exercício financeiro seguinte ao ano da criação.
+d) após decorridos 45 dias.
+e) após decorridos 90 dias.
+
+
+---
+
+GABARITO GERAL
+
+   1 – ERRADO    2 – ERRADO    3 – ERRADO    4 – CERTO
+
+   5 – ERRADO    6 – ERRADO    7 – ERRADO    8 – CERTO
+
+   9 – CERTO     10 – ERRADO   11 – C        12 – C
+
+   13 – E        14 – CERTO    15 – A        16 – C
+
+   17 – B        18 – A        19 – D        20 – ERRADO
+
+   21 – ERRADO   22 – ERRADO   23 – CERTO    24 – ERRADO
+
+   25 – CERTO    26 – CERTO    27 – CERTO    28 – ERRADO
+
+   29 – ERRADO   30 – ERRADO   31 – E        32 – B
+
+   33 – C        34 – C        35 – E        36 – B
+
+   37 – D        38 – C        39 – ERRADO   40 – ERRADO
+
+   41 – CERTO    42 – ERRADO   43 – ERRADO   44 – C
+
+   45 – D        46 – E        47 – ERRADO   48 – CERTO
+
+   49 – ERRADO   50 – ERRADO   51 – CERTO    52 – CERTO
+
+   53 – CERTO    54 – CERTO    55 – CERTO    56 – ERRADO
+
+   57 – CERTO    58 – ERRADO   59 – ERRADO   60 – CERTO
+
+   61 – CERTO    62 – CERTO    63 – ERRADO   64 – CERTO
+
+   65 – ERRADO   66 – ERRADO   67 – CERTO    68 – ERRADO
+
+   69 – ERRADO   70 – ERRADO   71 – CERTO    72 – B
+
+   73 – CERTO    74 – ERRADO   75 – D        76 – ERRADO
+
+   77 – ERRADO   78 – ERRADO   79 – ERRADO   80 – B
+
+   81 – ERRADO   82 – ERRADO   83 – E        84 – E
+
+
+---
+
+RESUMO DA AULA
+
+✓ Podemos dizer que a Seguridade Social é gênero, dos quais são espécies
+   Saúde, Assistência Social e Previdência Social.
+
+
+✓ As ações destinadas a assegurar os direitos relativos à Saúde, Assistência Social
+   e Previdência Social são ações integradas.
+
+
+✓ As ações destinadas a assegurar os direitos relativos à Saúde, Assistência Social
+   e Previdência Social são de iniciativa dos “Poderes Públicos” e da “Sociedade”.
+
+
+✓ Saúde se destina a todos. Tem caráter não contributivo.
+
+
+✓ Assistência Social se destina aos necessitados. Tem caráter não contributivo.
+
+
+✓ Previdência Social se destina apenas aos beneficiários (segurado +
+   dependente). Tem caráter contributivo e compulsório.
+
+
+✓ A Seguridade Social será organizada apenas pelo “Poder Público”.
+
+
+✓ A Seguridade Social terá assegurado o caráter democrático e descentralizado
+   da   administração,   mediante     gestão    quadripartite   (participação   dos
+   trabalhadores, empregadores, aposentados e governo nos órgãos colegiados).
+
+
+✓ A Saúde é um direito de todos e possui caráter não-contributivo.
+
+
+---
+
+✓ A Assistência Social será prestada apenas aos necessitados e possui caráter não-
+   contributivo.
+
+
+✓ A Previdência Social será destinada apenas aos segurados e seus dependentes
+   e terá caráter contributivo e de filiação obrigatória.
+
+
+✓ Devemos memorizar a literalidade de todos os objetivos (princípios
+   constitucionais) da Seguridade Social – art. 194, § único da CF/88, pois são
+   frequentemente exigidos em provas da banca.
+
+
+        ✓ Universalidade da Cobertura: a proteção social oferecida pela
+            Seguridade Social deve alcançar todos os riscos sociais (infortúnios),
+            aos quais quaisquer pessoas estão sujeitas, e que possam levá-las a
+            uma condição de necessidade, tais como: maternidade, velhice,
+            doença, acidente, invalidez, reclusão e morte.
+
+
+        ✓ Universalidade do Atendimento: Visa tornar a Seguridade Social
+            acessível a todas as pessoas, sejam nacionais ou estrangeiras
+
+
+        ✓ Uniformidade: Refere-se à igualdade quanto aos eventos a serem
+            cobertos para as populações urbanas e rurais. Assim sendo, diante das
+            mesmas contingências (maternidade, morte, velhice, doença, etc.) a
+            cobertura deverá se entender tanto a trabalhadores urbanos como
+            rurais.
+
+
+        ✓ Equivalência: Refere ao valor pecuniário dos benefícios ou qualidade
+            da prestação dos serviços, em relação às populações urbanas e rurais.
+            Não quer dizer que os valores têm que ser idênticos. Quer dizer que,
+            se as pessoas estiverem na mesma condição, não poderá haver
+            diferenciação, devendo tais prestações ser, portanto, equivalentes.
+
+
+---
+
+✓ Seletividade: Impõe ao legislador a delimitação do rol de prestações,
+   devendo definir, na lei orçamentária, onde aplicar os limitados
+   recursos, dentro das ilimitadas demandas da sociedade, levando-se em
+   conta as prestações sociais de maior relevância para o bem-estar, a
+   justiça social e as possibilidades econômico-financeiras do sistema.
+
+
+✓ Distributividade: Tem por objetivo diminuir as desigualdades sociais,
+   buscando melhor distribuição de renda, direcionando a atuação do
+   sistema protetivo às pessoas com maior necessidade.
+
+
+✓ Irredutibilidade do valor dos Benefícios:
+
+
+  Especificamente sobre benefícios da Previdência Social (ou
+  previdenciários):
+     • Segundo a CF/88 e a legislação previdenciária: garantia da
+        manutenção do VALOR REAL;
+     • Segundo a jurisprudência (STF): garantia da manutenção do
+        VALOR REAL.
+     • Segundo a jurisprudência (STF): garantia da manutenção do
+        VALOR NOMINAL, em caso de deflação.
+
+  Genericamente sobre benefícios da Seguridade Social (sem especificar
+  qual a área da Seguridade Social):
+    • Segundo a CF/88: garantia da manutenção apenas do VALOR
+        NOMINAL;
+    • Segundo a jurisprudência (STF): garantia da manutenção apenas
+        do VALOR NOMINAL.
+
+  Especificamente sobre benefícios da Assistência Social ou da Saúde:
+     • Segundo a lei: garantia do VALOR NOMINAL;
+     • Segundo a jurisprudência: garantia do VALOR NOMINAL.
+
+✓ Equidade na Forma de Participação no Custeio: Tal princípio busca a
+  observância dos critérios de justiça e igualdade, e consiste em tratar
+
+
+---
+
+           igualmente os iguais e desigualmente os desiguais, na medida de suas
+           desigualdades. Estabelece, também, que a contribuição para o sistema
+           será determinada de acordo com a capacidade econômica de cada
+           contribuinte.
+
+        ✓ Diversidade da Base de Financiamento, identificando-se, em rubricas
+          contábeis específicas para cada área, as receitas e as despesas
+          vinculadas a ações de saúde, previdência e assistência social,
+          preservando o caráter contributivo da previdência social: busca
+          garantir a arrecadação de contribuições, de modo que a base de
+          financiamento da seguridade social seja a mais variada possível, tendo
+          diversas fontes de custeio. Dessa forma, haverá maior segurança para
+          o sistema.
+
+        ✓ Caráter democrático e descentralizado da administração, mediante
+          gestão quadripartite, com participação dos trabalhadores, dos
+          empregadores, dos aposentados e do governo nos órgãos colegiados:
+          princípio assegura a participação da sociedade na gestão da
+          Seguridade Social, ou seja, deixa de ser administrada exclusividade do
+          Poder Público, e passa a ser compartilhada com integrantes da
+          sociedade civil, tendo, portanto, caráter democrático e
+          descentralizado, mediante gestão quadripartite, com participação dos
+          trabalhadores, empregadores, aposentados e do próprio governo, em
+          órgãos de deliberação colegiados.
+
+        ✓ Solidariedade: busca reduzir as desigualdades sociais, permitindo que
+          alguns contribuam mais para o sistema, enquanto outros contribuam
+          menos, de acordo com suas condições financeiras e demais
+          características individuais previstas em lei.
+
+✓ As contribuições sociais para a Seguridade Social só poderão ser exigidas após
+  decorridos noventa dias da data da publicação da lei que as houver instituído
+  ou modificado (aumentado), não se lhes aplicando o princípio da anterioridade
+  do exercício financeiro.
+
+
+---
+
+CONSIDERAÇÕES FINAIS DA AULA
+                  Muito bem, pessoal! Finalizamos nossa “aula zero”
+                  (demonstrativa). Para ter acesso às demais aulas deste curso
+                  (caso já não seja aluno) será necessário ser assinante do
+                  Estratégia Concursos ou adquirir este curso, disponível no site:
+                  www.estrategiaconcursos.com.br
+
+
+Utilizaremos, em todas as aulas do nosso curso, a metodologia adotada nesta aula
+demonstrativa, apresentando a parte teórica da matéria (segundo a doutrina e a
+jurisprudência adotadas pelas bancas), destacando as palavras-chave e
+apresentando exemplos, sempre que for oportuno e necessário, bem como
+apresentando questões de provas anteriores para demonstrar como tais assuntos
+são cobrados pela banca. Em seguida, memorizaremos o conteúdo por meio de
+diagramas e fixaremos por meio de exercícios comentados, exercícios de fixação e
+questionário de revisão. Por fim, apresentaremos, em todas as aulas, um resumo
+dos principais pontos estudados e explicações detalhadas em nossas videoaulas
+que acompanham o presente curso.
+
+
+Por fim, se você quiser receber dicas de Direito Previdenciário, conteúdo gratuito
+e atualizações de legislação, siga-me nas redes sociais abaixo (não se esqueça de
+habilitar as notificações no Instagram e Youtube, para você ser informado sempre
+que eu postar uma novidade por lá):
+
+              @profrubensmauricio
+
+
+               Prof. Rubens Maurício
+
+
+               t.me/previdenciariodiagramado
+
+
+                 Um grande abraço e que Deus te abençoe.
+                            Até a próxima aula!!!
+
+
+---

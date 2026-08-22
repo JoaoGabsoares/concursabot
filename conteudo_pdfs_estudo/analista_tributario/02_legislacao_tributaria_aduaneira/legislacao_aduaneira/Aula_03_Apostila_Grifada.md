@@ -1,0 +1,5438 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 03_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: Índice
+artigos_citados:
+- Art. 233.
+- Art. 254.
+- "art.\n        71"
+- art. 254
+- art. 2º
+- art. 70
+- art. 7º
+- art.177
+---
+
+# Índice
+
+Índice
+1)  Imposto de Exportação
+
+
+)  Imposto sobre Produtos Industrializados                                                                                                                                                   9
+
+3)  PIS-Importação e COFINS-Importação                                                                                                                                                      26
+)  CIDE-Combustíveis                                                                                                                                                                       47
+..............................................................................................................................................................................................
+
+)  Taxa de Utilização do SISCOMEX                                                                                                                                                          51
+
+6)  Incentivos Fiscais à Exportação                                                                                                                                                         55
+..............................................................................................................................................................................................
+
+)  Questões Comentadas- Imposto de Exportação - Multibancas                                                                                                                                69
+
+8)  Questões Comentadas - Imposto sobre Produtos Industrializados - Multibancas                                                                                                             83
+)  Questões Comentadas - PIS-Importação e COFINS-Importação - Multibancas                                                                                                                  91
+..............................................................................................................................................................................................
+
+)   Questões Comentadas - CIDE-Combustíveis - Multibancas                                                                                                                               104
+
+11)   Questões Comentadas - Taxa de Utilização do SISCOMEX - Multibancas                                                                                                                  109
+)   Questões Comentadas - Incentivos fiscais à exportação - Multibancas                                                                                                                 111
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Imposto de Exportação - Multibancas                                                                                                                             116
+
+14)   Lista de Questões - Imposto sobre Produtos Industrializados - Multibancas                                                                                                           124
+)   Lista de Questões - PIS_PASEP-Importação e COFINS-Importação - Multibancas                                                                                                          129
+..............................................................................................................................................................................................
+
+)   Lista de Questões - CIDE-Combustíveis - Multibancas                                                                                                                                 137
+
+17)   Lista de Questões - Taxa de Utilização do SISCOMEX - Multibancas                                                                                                                    140
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Incentivos fiscais à exportação - Multibancas                                                                                                                   142
+
+
+---
+
+                       IMPOSTO DE EXPORTAÇÃO (IE)
+
+Introdução
+
+O imposto de exportação tem finalidade eminentemente extrafiscal, servindo como mecanismo
+de controle governamental sobre o comércio exterior. No Brasil, a atual política comercial tem
+sido direcionada para o incentivo às exportações, motivo pelo qual estas são desoneradas de
+tributos, inclusive do imposto de exportação. Com efeito, o imposto de exportação possui alíquota
+zero para a quase totalidade da pauta exportadora brasileira.
+
+Para o analista mais desavisado, pode parecer um absurdo que o governo faça incidir o imposto
+de exportação sobre suas vendas ao exterior. No entanto, tal política pode se prestar a objetivos
+diversos. Veja só: imagine que o preço internacional do arroz tenha se elevado em virtude da
+escassez de oferta resultante de enchentes ocorridas no Sudeste Asiático. Ora, os exportadores
+brasileiros poderão ficar tentados a vender todo o estoque de arroz, o que geraria um
+desabastecimento interno. Para evitar tal situação, o governo poderá impor um imposto de
+exportação sobre as vendas de arroz ao exterior.
+
+Em razão de sua natureza extrafiscal, o art. 153, § 1º, da CF/88 determina que é facultado ao
+Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas do
+imposto de exportação. Dessa forma, pode-se afirmar que o imposto de exportação não obedece
+ao princípio da legalidade quanto à alteração de alíquotas.
+
+Atualmente, é a CAMEX quem define as alíquotas do imposto de exportação. Nos termos do
+Regulamento Aduaneiro, a CAMEX é responsável por relacionar as mercadorias sujeitas ao
+imposto de exportação. Isso nos permite afirmar que o imposto de exportação é excepcional, pois
+somente os produtos relacionados pela CAMEX estarão a ele sujeitos.
+
+A competência da CAMEX para fixar as alíquotas do imposto de importação e do imposto de
+exportação já foi, inclusive, reconhecida pelo Supremo Tribunal Federal no RE 570.680/RS.
+
+       TRIBUTÁRIO. IMPOSTO DE EXPORTAÇÃO. ALTERAÇÃO DE ALÍQUOTA. ART.
+       153, §1º, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA PRIVATIVA DO
+       PRESIDENTE DA REPÚBLICA NÃO CONFIGURADA. ATRIBUIÇÃO DEFERIDA À
+
+
+---
+
+       CAMEX. CONSTITUCIONALIDADE. FACULDADE DISCRICIONÁRIA CUJOS
+       LIMITES  ENCONTRAM-SE    ESTABELECIDOS EM     LEI. RECURSO
+       EXTRAORDINÁRIO DESPROVIDO.
+
+       I- É compatível com a Carta Magna a norma infraconstitucional que atribui a órgão
+       integrante do Poder Executivo da União a faculdade de estabelecer as alíquotas
+       do Imposto de Exportação.
+
+       II - Competência que não é privativa do Presidente da República.
+
+       III - Inocorrência de ofensa aos arts. 84, IV e parágrafo único, e 153, § 1º, da
+       Constituição Federal ou ao princípio de reserva legal. Precedentes.
+
+       IV - Faculdade discricionária atribuída à Câmara de Comércio Exterior - CAMEX,
+       que se circunscreve ao disposto no Decreto-Lei 1.578/1977 e às demais normas
+       regulamentares.
+
+       V - Recurso extraordinário conhecido e desprovido.
+
+Segundo o art. 215 do R/A, a alíquota do imposto de exportação será de 30%, podendo ser
+aumentada ou reduzida pelo Poder Executivo. Entretanto, na hipótese de elevação da alíquota,
+essa não poderá ultrapassar 150% (alíquota máxima do imposto de exportação). Trata-se de limite
+estabelecido em lei, que deve ser observado pela CAMEX ao manejar a alíquota do imposto.
+
+O imposto de exportação também excepciona os princípios da anterioridade e da noventena,
+resultando daí que qualquer alteração de alíquotas produzirá efeitos imediatos. Destaque-se que
+o lançamento do imposto de exportação, à semelhança do que ocorre para o imposto de
+importação, é feito por homologação.
+
+
+Fato gerador
+
+O imposto de exportação é tributo da competência da União, cujo fato gerador é a saída da
+mercadoria do território nacional. Segundo o art. 212 do R/A, o imposto de exportação incide
+sobre mercadoria nacional ou nacionalizada destinada ao exterior. Destaque-se que é considerada
+mercadoria nacionalizada aquela que foi importada a título definitivo.
+
+
+---
+
+Segundo o Regulamento Aduaneiro, para efeito de cálculo do imposto de exportação, considera-
+se ocorrido o fato gerador na data do registro de exportação no SISCOMEX.1
+
+Cabe destacar, entretanto, que, em julho de 2018, o registro de exportação (RE) e a declaração
+de exportação (DE) foram extintos, tendo sido substituídos pela DU-E (Declaração Única de
+Exportação). Assim, o nosso entendimento é o de que se deve considerar ocorrido o fato gerador
+na data do registro da DU-E.
+
+O imposto de exportação será, portanto, calculado com base na alíquota vigente na data do
+registro da DU-E, mesmo que, na data da efetiva saída da mercadoria do território nacional, a
+alíquota em vigor seja outra.
+
+O fato gerador do imposto de importação considera-se ocorrido na data de registro da DI.
+
+O fato gerador do imposto de exportação considera-se ocorrido na data de registro da DU-E.
+
+
+Base de cálculo, alíquota e pagamento
+
+O valor aduaneiro é utilizado como base de cálculo apenas para o imposto de importação.
+Segundo o art. 214 do R/A, a base de cálculo do I.E é o preço normal que a mercadoria, ou sua
+similar, alcançaria, ao tempo da exportação, em uma venda em condições de livre concorrência
+no mercado internacional, observadas as normas expedidas pela Câmara de Comércio Exterior.
+Por ser esse um conceito muito subjetivo, a legislação prevê que o preço à vista do produto, FOB
+ou posto na fronteira, é indicativo do preço normal2.
+
+1
+ O Registro de Exportação (RE) era o documento utilizado no controle administrativo das exportações, reunindo informações de
+natureza comercial, financeira, cambial e fiscal que caracterizam a operação de exportação de uma mercadoria. Em julho de 2018,
+o RE (Registro de Exportação) e a DE (Declaração de Exportação) foram substituídos pela DU-E (Declaração Única de Exportação).
+
+2
+  Valor FOB é o preço da mercadoria a bordo do navio no porto de embarque. Em outras palavras, é o preço da mercadoria
+excluído o frete e o seguro internacional.
+
+
+---
+
+Se o preço da mercadoria for de difícil apuração ou for suscetível de oscilações bruscas no
+mercado internacional, a CAMEX fixará critérios específicos ou estabelecerá pauta de valor
+mínimo, para apuração da base de cálculo.
+
+Segundo o art. 214, § 2o, do R/A, para efeito de determinação da base de cálculo do imposto, o
+preço de venda das mercadorias exportadas não poderá ser inferior ao seu custo de aquisição ou
+de produção, acrescido dos impostos e das contribuições incidentes e da margem de lucro de
+15% (quinze por cento) sobre a soma dos custos, mais impostos e contribuições. Assim, se o custo
+de produção de uma mercadoria for R$ 850,00 e os impostos e contribuições somarem R$ 150,00,
+o preço de venda da mercadoria, para fins de apuração da base de cálculo do IE, não poderá ser
+inferior a R$ 1.150,00 (custo de produção + impostos/contribuições + margem de lucro de 15%).
+
+Atualmente, essa regra pode parecer sem muita utilidade, uma vez que nossas exportações são
+praticamente todas desoneradas do imposto de exportação (recebem alíquota zero). No entanto,
+seu objetivo é evitar o subfaturamento nas exportações, caso estas sejam tributadas, por razões
+extrafiscais, pelo imposto de exportação.
+
+Conforme já comentamos, o R/A prevê que a alíquota do imposto de exportação será de 30%,
+podendo a CAMEX reduzi-la ou aumentá-la. Entretanto, ao aumentar a alíquota, a CAMEX deverá
+observar o limite máximo de 150%.
+
+O pagamento será realizado na forma e no prazo fixados pelo Ministro da Fazenda que poderá
+determinar sua exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser
+exportada. Atualmente, o prazo é de quinze dias, contados da data do registro da DU-E.
+
+É possível que, em função do destino da mercadoria a ser exportada, seja dispensada a cobrança
+do imposto de exportação. Assim, a CAMEX poderá estabelecer que o imposto de exportação
+não será cobrado quando a mercadoria tiver certos destinos.
+
+
+Sujeito ativo
+
+Segundo o art. 153, inciso II, da CR/88, compete à União instituir o imposto sobre a exportação,
+para o exterior, de produtos nacionais ou nacionalizados.
+
+Portanto, o sujeito ativo do imposto de exportação é a União.
+
+
+---
+
+Sujeito passivo: contribuinte
+
+O contribuinte do imposto de exportação é o exportador, assim considerada qualquer pessoa que
+promova a saída de mercadoria do território aduaneiro.
+
+(Exame Despachante Aduaneiro-2012) Para efeito de cálculo do imposto de exportação,
+considera-se ocorrido o fato gerador na data da saída da mercadoria do território aduaneiro.
+
+Comentários
+
+Segundo o Regulamento Aduaneiro, o fato gerador do Imposto de Exportação considera-se
+ocorrido na data do registro de exportação (RE). Cabe destacar, entretanto, que, em julho de
+2018, o registro de exportação (RE) e a declaração de exportação (DE) foram substituídos pela
+DU-E (Declaração Única de Exportação). Em nosso entendimento, considera-se ocorrido o fato
+gerador do Imposto de Exportação na data do registro da DU-E.
+
+Gabarito: errada
+
+(Exame Despachante Aduaneiro-2012) O imposto de exportação incide somente sobre
+mercadoria nacionalizada destinada ao exterior.
+
+Comentários
+
+O Imposto de Exportação também incide sobre mercadoria nacional destinada ao exterior.
+
+Gabarito: errada
+
+(Exame Despachante Aduaneiro-2012) A base de cálculo do imposto de exportação é o valor
+aduaneiro, segundo definição do art. VII do GATT.
+
+Comentários
+
+A base de cálculo do Imposto de Exportação é o preço normal. O valor aduaneiro é base de
+cálculo do Imposto de Importação quando a alíquota for ad valorem.
+
+
+---
+
+Gabarito: errada
+
+
+---
+
+         IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS
+
+Introdução:
+
+O imposto sobre produtos industrializados (IPI) tem natureza predominantemente extrafiscal,
+embora, nos últimos anos, tenha ganhado relevância sua finalidade arrecadatória (fiscal). A
+extrafiscalidade do IPI resta evidente quando se percebe que este tem sido utilizado pelo governo
+brasileiro como instrumento de política de comércio exterior.
+
+Em função de sua natureza extrafiscal, o IPI não obedece ao princípio da anterioridade tampouco
+ao princípio da legalidade no tocante à alteração de alíquotas. Assim, suas alíquotas podem ser
+alteradas por ato do Poder Executivo, atendidas as condições e os limites estabelecidos em lei.
+Adicionalmente, não é necessário que a majoração da alíquota do IPI espere o próximo exercício
+financeiro para produzir seus efeitos.
+
+O IPI obedece, todavia, ao princípio da noventena (anterioridade nonagesimal). Isso quer dizer
+que a majoração da alíquota desse tributo, apesar de não necessitar aguardar pelo próximo
+exercício financeiro para produzir seus efeitos, deve esperar 90 dias. O legislador constituinte
+conferiu ao contribuinte uma garantia, ainda que mínima, contra a surpresa de uma exação que
+lhe seja onerosa.
+
+As alíquotas do I.I. e do I.E. são alteradas pela CAMEX.
+
+As alíquotas do IPI, todavia, são alteradas por decreto do Presidente da República.
+
+Assim, apesar de incidir sobre as operações de comércio exterior, as alíquotas do IPI não são
+alteradas pela CAMEX.
+
+
+Fato gerador
+
+O fato gerador do imposto sobre produtos industrializados, na importação, é o desembaraço
+aduaneiro de produto de procedência estrangeira. O desembaraço aduaneiro é o ato pelo qual é
+
+
+---
+
+registrada a conclusão da conferência aduaneira; é o momento em que o AFRFB libera a
+mercadoria importada para efetivo ingresso no território aduaneiro.
+
+Embora o fato gerador do IPI ocorra somente por ocasião do desembaraço aduaneiro, o
+recolhimento tributário é feito no momento do registro da Declaração de Importação (DI), que
+marca o início do despacho de importação. Assim, o recolhimento tributário será feito em
+momento anterior à ocorrência do fato gerador do IPI vinculado à importação, o que pode dar
+origem a algumas situações inusitadas.
+
+Suponha por exemplo que, no dia 15/04/2017, um importador registre uma DI que ampara a
+importação de geladeiras. O desembaraço aduaneiro, no entanto, somente vem a ocorrer no dia
+30/04/2017. Agora vem o problema!
+
+Na data do registro da DI (15/04/2017), a alíquota do IPI era de 30%; já na data do desembaraço
+aduaneiro (30/04/2017), a alíquota do IPI era de 10%. O recolhimento tributário, nessa situação,
+foi feito com base na alíquota vigente na data do registro da DI (30%). No entanto, como sabemos
+a partir de nossos estudos de Direito Tributário, a alíquota aplicável deveria ser aquela vigente na
+data da ocorrência do fato gerador (10%).
+
+Resta claro que, nessa situação, caberá restituição ao importador do valor pago a maior. O inverso
+também poderia acontecer, dando ensejo a uma cobrança complementar a ser efetuada pelo
+Fisco.
+
+Destaque-se que a possibilidade de o recolhimento tributário ser efetuado antes da ocorrência do
+fato gerador tem amparo no art. 150, § 7.º, da CF/88, que dispõe o seguinte:
+
+        Art. 150 (...)
+
+        § 7.º A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de
+        responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva
+        ocorrer posteriormente, assegurada a imediata e preferencial restituição da
+        quantia paga, caso não se realize o fato gerador presumido lei poderá atribuir a
+        sujeito passivo de obrigação tributária a condição de responsável pelo pagamento
+        de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente,
+        assegurada a imediata e preferencial restituição da quantia paga, caso não se
+        realize o fato gerador presumido
+
+Trata-se do que a doutrina chama de fato gerador presumido. No momento do registro da
+Declaração de Importação (DI), o fato gerador do IPI (desembaraço aduaneiro) ainda não ocorreu,
+mas, desde já, é efetuado o recolhimento tributário. Presume-se, nessa situação, que o
+desembaraço aduaneiro (fato gerador do IPI) irá ocorrer posteriormente.
+
+
+---
+
+A legislação aduaneira prevê, ainda, outra hipótese de fato gerador presumido do IPI, de natureza
+diversa à do art. 150, 7º, da CF/88. Ele ocorrerá no caso de extravio de mercadoria verificado pela
+autoridade fiscal, à semelhança do que prevê a legislação do Imposto de Importação.
+
+Segundo o art. 238, 1º, do R/A, considera-se ocorrido o desembaraço aduaneiro de mercadoria
+que constar como importada e cujo extravio for verificado pela autoridade fiscal, inclusive na
+hipótese de mercadoria sob regime suspensivo de tributação.
+
+Suponha que o importador registre uma DI amparando a importação de 100 geladeiras. No curso
+do despacho aduaneiro, o AFRFB verifica que há apenas 80 geladeiras (as outras 20 foram
+extraviadas). O importador fará jus à restituição dos tributos que incidiram sobre as 20 geladeiras
+extraviadas, mas a autoridade aduaneira irá exigi-los do responsável pelo extravio (transportador
+ou depositário). Percebe-se que, nesse caso, presume-se que as mercadorias extraviadas sofreram
+desembaraço aduaneiro (o que, na prática, não aconteceu em razão do extravio). Trata-se,
+portanto, de uma ficção legal.
+
+Detalhe importante é o que a legislação prevê acerca do extravio de mercadorias a granel.1 As
+diferenças percentuais dessas mercadorias, apuradas no curso do despacho aduaneiro, não serão
+consideradas para efeitos de exigência do imposto, até o limite de 1%. Na hipótese de diferença
+percentual superior a esse limite, será exigido o imposto somente em relação ao que exceder a
+1%.
+
+O campo de incidência do IPI abrange apenas os produtos industrializados, assim considerados
+aqueles que resultem de operação definida como industrialização pelo Regulamento do IPI (RIPI),
+mesmo que incompleta, parcial ou intermediária. As operações de industrialização estão previstas
+no art. 4º do RIPI, abaixo transcrito. Isso aí vocês vão estudar em detalhes no curso de Legislação
+Tributária!
+
+          Art. 4o Caracteriza industrialização qualquer operação que modifique a natureza,
+          o funcionamento, o acabamento, a apresentação ou a finalidade do produto, ou
+          o aperfeiçoe para consumo, tal como:
+
+          I - a que, exercida sobre matérias-primas ou produtos intermediários, importe na
+          obtenção de espécie nova (transformação);
+
+1
+ Mercadorias a granel são aquelas transportadas em seu estado bruto, não sendo embaladas ou encaixotadas. Existem os granéis
+sólidos (como o café, a soja, o trigo, dentre outros) e os granéis líquidos (petróleo, gasolina, suco de laranja, etc).
+
+
+---
+
+      II - a que importe em modificar, aperfeiçoar ou, de qualquer forma, alterar o
+      funcionamento, a utilização, o acabamento ou a aparência do produto
+      (beneficiamento);
+
+      III - a que consista na reunião de produtos, peças ou partes e de que resulte um
+      novo produto ou unidade autônoma, ainda que sob a mesma classificação fiscal
+      (montagem);
+
+      IV - a que importe em alterar a apresentação do produto, pela colocação da
+      embalagem, ainda que em substituição da original, salvo quando a embalagem
+      colocada se destine apenas ao transporte da mercadoria (acondicionamento ou
+      reacondicionamento); ou
+
+      V - a que, exercida sobre produto usado ou parte remanescente de produto
+      deteriorado ou inutilizado, renove ou restaure o produto para utilização
+      (renovação ou recondicionamento).
+
+      Parágrafo único. São irrelevantes, para caracterizar a operação como
+      industrialização, o processo utilizado para obtenção do produto e a localização e
+      condições das instalações ou equipamentos empregados.
+
+Vejamos, agora, situações em que não ocorre o fato gerador do imposto sobre produtos
+industrializados!
+
+      Art. 238. O fato gerador do imposto, na importação, é o desembaraço aduaneiro
+      de produto de procedência estrangeira
+
+      § 1o Para efeito do disposto no caput, considera-se ocorrido o desembaraço
+      aduaneiro da mercadoria que constar como importada e cujo extravio tenha sido
+      verificado pela autoridade fiscal, inclusive na hipótese de mercadoria sob regime
+      suspensivo de tributação.
+
+      § 2o Não constitui fato gerador do imposto o desembaraço aduaneiro de produtos
+      nacionais, ou nacionalizados nos termos do disposto no § 1º do art. 212, que
+      retornem ao País:
+
+      I - nas hipóteses previstas nos incisos I a V do art. 70; e
+
+      II - aos quais tenha sido aplicado o regime aduaneiro especial de exportação
+      temporária, ainda que descumprido o regime.
+
+
+---
+
+O art. 238, § 2º, inciso I, do R/A, faz menção ao art. 70 para tratar das situações em que não ocorre
+o fato gerador do imposto sobre produtos industrializados. Recorde-se que o art. 70 do R/A
+relaciona as hipóteses em que, para fins de incidência do imposto de Imposto de Importação, as
+mercadorias são consideradas não-estrangeiras. Vejamos o art. 70 do R/A:
+
+        Art. 70. Considera-se estrangeira, para fins de incidência do imposto, a mercadoria
+        nacional ou nacionalizada exportada, que retorne ao País, salvo se:
+
+        I - enviada em consignação e não vendida no prazo autorizado;
+
+        II - devolvida por motivo de defeito técnico, para reparo ou para substituição;
+
+        III - por motivo de modificações na sistemática de importação por parte do país
+        importador;
+
+        IV - por motivo de guerra ou de calamidade pública; ou
+
+        V - por outros fatores alheios à vontade do exportador.
+
+        Parágrafo único. Serão ainda considerados estrangeiros, para os fins previstos no
+        caput, os equipamentos, as máquinas, os veículos, os aparelhos e os instrumentos,
+        bem como as partes, as peças, os acessórios e os componentes, de fabricação
+        nacional, adquiridos no mercado interno pelas empresas nacionais de engenharia,
+        e exportados para a execução de obras contratadas no exterior, na hipótese de
+        retornarem ao País.
+
+É importante tomar cuidado com a forma diferenciada pela qual o Regulamento Aduaneiro trata
+as situações de “não-tributação” do Imposto de Importação e as do Imposto sobre Produtos
+Industrializados!
+
+      a) Para fins de incidência do imposto de importação, o art. 70 relaciona situações em que
+         a mercadoria é considerada não estrangeira.
+
+      b) O mesmo art. 70, no que diz respeito ao imposto sobre produtos industrializados (IPI),
+         relaciona situações de não ocorrência do fato gerador.
+
+As duas são situações de não tributação!
+
+
+---
+
+No entanto, se o R/A dissesse que, para fins de IPI, as mercadorias do art. 70 seriam consideradas
+não-estrangeiras, poderia haver dúvidas sobre a incidência do IPI.
+
+Explico: o fato gerador do IPI, na importação, é o desembaraço aduaneiro de mercadoria de
+procedência estrangeira. Mercadoria procedente do exterior é aquela que vem do exterior; não
+é, necessariamente, uma mercadoria de origem estrangeira (produzida no exterior). Ora, se o IPI
+incide sobre mercadorias de procedência estrangeira, isso significa que basta que ela venha do
+exterior para que ocorra a incidência. Haveria incidência até mesmo sobre uma mercadoria não-
+estrangeira (nacional) vindo do exterior! Em razão disso, para evitar polêmicas, decidiu-se tratar
+as hipóteses do art. 70, para fins de IPI, como situações de não ocorrência do fato gerador.
+
+O art. 238, § 2º, inciso II, do R/A, relaciona mais uma hipótese de não ocorrência do fato gerador
+do IPI. Trata-se do retorno de exportação temporária (reimportação), ainda que descumprido o
+regime, situação que também é tratada como hipótese de não-ocorrência do fato gerador do
+Imposto de Importação.
+
+
+Incidência
+
+O Imposto sobre Produtos Industrializados (IPI), na importação, incide sobre produtos
+industrializados de procedência estrangeira. Segundo o art. 2º do RIPI, o imposto incide sobre
+produtos industrializados, nacionais e estrangeiros, obedecidas as especificações constantes da
+Tabela de Incidência do Imposto sobre Produtos Industrializados – TIPI. O campo de incidência
+do IPI abrange todos os produtos com alíquota, ainda que zero, relacionados na TIPI 2. Ficam
+excluídos do campo de incidência do IPI apenas os produtos que, na TIPI, possuem a notação NT
+(não-tributado)3.
+
+Vejamos, agora, as situações de não-incidência do imposto sobre produtos industrializados!
+
+2
+ A TIPI é uma tabela semelhante à Nomenclatura Comum do MERCOSUL (NCM), que relaciona produtos, seus códigos numéricos
+e respectivas alíquotas.
+
+3
+ Os produtos que aparecem na TIPI com a notação NT estão fora do campo de incidência do IPI. Veja: apesar de estarem na TIPI,
+esses produtos estão fora do campo de incidência do IPI.
+
+
+---
+
+        Art. 237 - O imposto de que trata este Título, na importação, incide sobre
+        produtos industrializados de procedência estrangeira.
+
+        § 1o O imposto não incide sobre:
+
+        I - os produtos chegados ao País nas hipóteses previstas nos incisos I e II do art.
+        71, que tenham sido desembaraçados; e
+
+        II - as embarcações referidas no inciso V do art. 71
+
+Como é possível verificar, o art. 237, § 1º, do R/A, nos remeteu ao art. 71 para tratar das hipóteses
+de não-incidência.
+
+        Art. 71. O imposto não incide sobre:
+
+        I - mercadoria estrangeira que, corretamente descrita nos documentos de
+        transporte, chegar ao País por erro inequívoco ou comprovado de expedição, e
+        que for redestinada ou devolvida para o exterior;
+
+        II - mercadoria estrangeira idêntica, em igual quantidade e valor, e que se destine
+        a reposição de outra anteriormente importada que se tenha revelado, após o
+        desembaraço aduaneiro, defeituosa ou imprestável para o fim a que se destinava,
+        desde que observada a regulamentação editada pelo Ministério da Fazenda;
+
+        III - mercadoria estrangeira que tenha sido objeto da pena de perdimento, exceto
+        na hipótese em que não seja localizada, tenha sido consumida ou revendida;
+
+        IV - mercadoria estrangeira devolvida para o exterior antes do registro da
+        declaração de importação, observada a regulamentação editada pelo Ministério
+        da Fazenda;
+
+        V - embarcações construídas no Brasil e transferidas por matriz de empresa
+        brasileira de navegação para subsidiária integral no exterior, que retornem ao
+        registro brasileiro, como propriedade da mesma empresa nacional de origem;
+
+        VI - mercadoria estrangeira destruída, sob controle aduaneiro, sem ônus para a
+        Fazenda Nacional, antes de desembaraçada; e
+
+        VII - mercadoria estrangeira em trânsito aduaneiro de passagem, acidentalmente
+        destruída.
+
+Fiz uma marcação acima nas três hipóteses de não-incidência do IPI!
+
+
+---
+
+O inciso I se refere à situação em que a mercadoria estrangeira não estava prevista para vir ao
+Brasil, mas, por um erro inequívoco ou comprovado de expedição, acabou chegando ao País. Ela
+será, então, redestinada (enviada para outro destino) ou devolvida, não havendo incidência do IPI.
+
+O inciso II, por sua vez, se aplica ao caso de substituição de mercadorias. Nessa situação, foi
+importada uma mercadoria que, após o desembaraço, se revelou defeituosa ou imprestável para
+o fim ao qual se destinava. Esta é, então, devolvida ao exterior e, em seu lugar, vem uma nova,
+sobre a qual não incidirá o IPI.
+
+O inciso V, por último, versa sobre o retorno de embarcações ao registro brasileiro. Nesse caso, a
+embarcação foi construída no Brasil e transferida por uma empresa brasileira de navegação a uma
+subsidiária no exterior. A embarcação, posteriormente, retorna ao Brasil, não sofrendo a incidência
+do IPI. Para isso, ela deverá retornar como propriedade da mesma pessoa jurídica nacional de
+origem
+
+Já sei o que vocês devem estar perguntando:
+
+“Professor, e qual o tratamento tributário, em termos de IPI, para as situações dos incisos III, IV,
+VI e VII?”
+
+Excelente pergunta, meu amigo! Vejamos:
+
+      a) Art. 71, inciso III: A aplicação da pena perdimento no curso do despacho aduaneiro de
+         importação impede que seja promovido o desembaraço aduaneiro (liberação) da carga.
+         Por conseguinte, não ocorre o fato gerador do imposto, de modo que a mercadoria que
+         foi objeto da pena de perdimento não sofrerá incidência do IPI. Entretanto, se o produto
+         não for localizado, tiver sido consumido ou revendido, a Aduana não terá como aplicar
+         a pena de perdimento, pelo que haverá cobrança do imposto (além de cobrança de
+         multa em valor equivalente ao valor aduaneiro da mercadoria).
+
+      b) Art. 71, inciso IV: A mercadoria estrangeira devolvida para o exterior antes do registro
+         da DI não sofreu desembaraço aduaneiro, logo não ocorreu o fato gerador do IPI.
+
+      c) Art. 71, inciso VI: A mercadoria estrangeira avariada ou que se revelou imprestável para
+         os fins aos quais se destinava é destruída antes do desembaraço aduaneiro. Logo, se
+         não há desembaraço aduaneiro, não há fato gerador do IPI.
+
+
+---
+
+      d) Art. 71, inciso VII: O IPI incidirá sobre mercadoria estrangeira acidentalmente destruída
+         em trânsito aduaneiro de passagem. Com efeito, a mercadoria sofreu desembaraço
+         aduaneiro e não há qualquer dispositivo legal excluindo a incidência.
+
+       Uma questão que gerava polêmicas era a respeito da cobrança de IPI na
+       importação de veículos por pessoa física para uso próprio. Durante algum tempo,
+       STF e STJ vinham entendendo que não haveria a incidência de IPI nessa situação.
+
+       Entretanto, no RE 723.651, o STF modificou seu entendimento, firmando a tese
+       de que “incide o IPI em importação de veículos automotores por pessoa natural,
+       ainda que não desempenhe atividade empresarial, e o faça para uso próprio”.
+
+       Segundo a Corte:
+
+       A cobrança de IPI na importação de veículos por pessoa física não implica em
+       bitributação. Isso porque o IPI somente incidirá uma única vez, por ocasião do
+       desembaraço aduaneiro. Caso a pessoa física que realizou a importação decida
+       revender o veículo, não haverá nova incidência de IPI.
+
+       O princípio da não-cumulatividade, aplicável ao IPI, não pode servir como
+       argumento para afastar a incidência desse tributo na importação. Admitir esse
+       argumento seria equivalente a criar uma isenção tributária sem previsão legal.
+
+       O princípio da isonomia impõe a cobrança do IPI na importação de veículos por
+       pessoa física. Ora, se na venda de um veículo feita por um fabricante nacional
+       ocorre a incidência do IPI, nada mais natural que esse tributo seja cobrado nas
+       importações, sob pena de se conferir vantagem ao exportador estrangeiro.
+
+
+Base de cálculo e alíquotas
+
+A base de cálculo do IPI, na importação, é o valor aduaneiro acrescido do montante referente ao
+imposto de importação e aos encargos cambiais. O imposto será recolhido automaticamente
+quando registrada a Declaração de Importação.
+
+
+---
+
+O cálculo do imposto se faz mediante aplicação das alíquotas constantes da TIPI (Tabela de
+Incidência do Imposto sobre Produtos Industrializados, atualmente aprovada pelo Decreto nº
+11.158/22).
+
+
+Sujeitos ativo e passivo
+
+O sujeito ativo do IPI é a União, conforme art. 153, inciso IV, da CR/88, que atribui competência a
+esse ente federativo para instituir o Imposto sobre Produtos Industrializados. O contribuinte
+(sujeito passivo) do IPI vinculado à importação é o próprio importador.
+
+
+Isenções:
+
+O art. 245 do R/A trata das isenções, nas importações, do Imposto sobre Produtos
+Industrializados.
+
+        Art. 245. São isentas do imposto as importações:
+
+        I - a que se refere o inciso I e as alíneas “b” a “o” e “q” a “u” do inciso II do art.
+        136, desde que satisfeitos os requisitos e condições exigidos para a concessão do
+        beneficio análogo relativo ao imposto de importação; e
+
+        II - de bens a que se apliquem os regimes de tributação:
+
+        a) simplificada, a que se refere o art. 99; e
+
+        b) especial, a que se refere o art. 101.
+
+São diversos os casos de isenção do IPI na importação, os quais relacionamos abaixo (são muitos,
+mas não se assuste!)
+
+      a) Importações realizadas pela União, pelos Estados, pelo Distrito Federal, pelos
+         Territórios, pelos Municípios e pelas respectivas autarquias.
+
+      b) Importações realizadas pelos partidos políticos e pelas instituições de educação ou de
+         assistência social.
+
+      c) Importações realizadas pelas missões diplomáticas e repartições consulares de caráter
+         permanente e pelos respectivos integrantes.
+
+
+---
+
+d) Importações realizadas pelas representações de organismos internacionais de caráter
+   permanente, inclusive os de âmbito regional, dos quais o Brasil seja membro, e pelos
+   respectivos integrantes.
+
+e) Importações realizadas pelas instituições científicas e tecnológicas.
+
+f) Amostras e remessas postais internacionais, sem valor comercial.
+
+g) Remessas postais e encomendas aéreas internacionais, destinadas a pessoa física.
+
+h) Bagagem de viajantes procedentes do exterior ou da Zona Franca de Manaus.
+
+i) Bens adquiridos em loja franca, no País.
+
+j) Bens trazidos do exterior, no comércio característico das cidades situadas nas fronteiras
+   terrestres.
+
+k) Bens importados sob o regime aduaneiro especial de drawback, na modalidade isenção.
+
+l) Gêneros alimentícios de primeira necessidade, fertilizantes e defensivos para aplicação
+   na agricultura ou na pecuária, bem como matérias-primas para sua produção no País,
+   importados ao amparo do art. 4o da Lei no 3.244, de 1957, com a redação dada pelo
+   art. 7o do Decreto-Lei no 63, de 21 de novembro de 1966.
+
+m) Partes, peças e componentes, destinados ao reparo, revisão e manutenção de
+   aeronaves e de embarcações.
+
+n) Medicamentos destinados ao tratamento de aidéticos, e instrumental científico
+   destinado à pesquisa da síndrome da deficiência imunológica adquirida.
+
+o) Bens importados pelas áreas de livre comércio.
+
+p) Importações efetuadas para a Zona Franca de Manaus e para a Amazônia Ocidental.
+
+q) Mercadorias estrangeiras vendidas por entidades beneficentes em feiras, bazares e
+   eventos semelhantes, desde que recebidas em doação de representações diplomáticas
+   estrangeiras sediadas no País.
+
+r) Mercadorias destinadas a consumo no recinto de congressos, de feiras, de exposições
+   internacionais e de outros eventos internacionais assemelhados.
+
+s) Partes, peças e componentes, importados, destinados ao emprego na conservação,
+   modernização e conversão de embarcações registradas no Registro Especial Brasileiro.
+
+t) Bens destinados a coletores eletrônicos de votos.
+
+
+---
+
+      u) Bens recebidos como premiação em evento cultural, científico ou esportivo oficial,
+         realizado no exterior, ou para serem consumidos, distribuídos ou utilizados em evento
+         esportivo oficial realizado no País.
+
+      v) Bens importados por desportistas, desde que tenham sido utilizados por estes em
+         evento esportivo oficial e recebidos em doação de entidade de prática desportiva
+         estrangeira ou da promotora ou patrocinadora do evento.
+
+      w) Equipamentos e materiais destinados, exclusivamente, a treinamento e preparação de
+         atletas e equipes brasileiras para competições desportivas em jogos olímpicos,
+         paraolímpicos, pan-americanos, Parapan-americanos e mundiais
+
+Há, ainda, duas outras situações que merecem Comentários
+
+      a) Os bens integrantes de remessas postais internacionais aos quais seja aplicado o Regime
+         de Tributação Simplificada sofrerão a incidência do imposto de importação a 60% e
+         receberão isenção do IPI.
+
+      b) Os bens integrantes de bagagem aos quais seja aplicado o Regime de Tributação
+         Especial sofrerão a incidência do imposto de importação a uma alíquota de 50% e
+         receberão isenção do IPI.
+
+Segundo o art. 243 do R/A, as isenções do IPI, salvo expressa disposição em lei, referem-se ao
+produto e não ao contribuinte ou ao adquirente. Dessa forma, em regra, as isenções de IPI
+possuem natureza objetiva. Entretanto, na lista de isenções que apresentamos anteriormente,
+pudemos perceber diversas hipóteses de isenções subjetivas (vinculadas à natureza do
+importador).
+
+Se a isenção estiver condicionada à destinação do produto e a este for dado destino diverso do
+previsto, estará o responsável pelo fato sujeito ao pagamento do imposto, dos juros de mora e da
+penalidade cabível, como se a isenção não existisse.
+
+
+Imunidades
+
+As imunidades são hipóteses de não incidência constitucionalmente qualificadas. Assim, todas as
+imunidades têm expressa previsão constitucional.
+
+Caso seja cobrado no edital de sua prova, o professor irá abordar as hipóteses de imunidade do
+IPI, as quais, de forma bem didática, estão relacionadas no art. 18 do Decreto nº 7.212/2010.
+
+       Art. 18. São imunes da incidência do imposto:
+
+
+---
+
+       I - os livros, jornais, periódicos e o papel destinado à sua impressão
+
+       II - os produtos industrializados destinados ao exterior
+
+       III - o ouro, quando definido em lei como ativo financeiro ou instrumento cambial;
+       e
+
+       IV - a energia elétrica, derivados de petróleo, combustíveis e minerais do País.
+
+Entretanto, no curso de Legislação Aduaneira, interessa-nos estudar apenas as imunidades do IPI
+vinculado à importação. Vamos nos valer, então, do texto do Regulamento Aduaneiro e da
+Constituição Federal de 1988.
+
+Vocês se lembram de quanto tratamos das imunidades do Imposto de Importação? Aqui a
+problemática é exatamente a mesma!
+
+O Regulamento Aduaneiro relaciona apenas uma imunidade do IPI, prevista no art. 245-A. É o
+caso da imunidade cultural, que proíbe os entes federativos de instituir impostos sobre livros,
+jornais, periódicos e o papel destinado à sua impressão.
+
+       Art. 245-A. São imunes do imposto as importações de livros, jornais e periódicos
+       e do papel destinado a sua impressão, observado o disposto no art. 211-B.
+
+Em que pese a literalidade do Regulamento Aduaneiro ter feito menção a apenas esse caso de
+imunidade do IPI na importação, nós sabemos que, conforme entendimento doutrinário e
+jurisprudencial, há outras situações em que é cabível falar-se em imunidade.
+
+      a) Art. 150, inciso VI, alínea “a”: É vedado aos entes federativos (União, Estados, Distrito
+         Federal e Municípios) instituir impostos sobre o patrimônio, renda ou serviços, uns dos
+         outros. Trata-se da conhecida imunidade tributária recíproca.
+
+      b) Art. 150, inciso VI, alínea “c”: É vedado aos entes federativos (União, Estados, Distrito
+         Federal e Municípios) instituir impostos sobre o patrimônio, renda ou serviços dos
+         partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores,
+         das instituições de educação e de assistência social, sem fins lucrativos, atendidos os
+         requisitos da lei.
+
+
+---
+
+      c) Art. 150, § 2º: A imunidade tributária recíproca é extensiva às autarquias e às fundações
+         instituídas e mantidas pelo Poder Público, no que se refere ao patrimônio, à renda e aos
+         serviços, vinculados a suas finalidades essenciais ou às delas decorrentes.
+
+Vou dizer novamente!
+
+      a) Se a questão cobrar a literalidade da norma, você deve dizer que as importações
+         realizadas pelos entes federativos e suas autarquias, partidos políticos e instituições de
+         educação ou de assistência social são hipóteses de isenção do IPI.
+
+      b) Se a questão cobrar um entendimento jurisprudencial ou doutrinário, você pode assumir
+         que trata-se de hipóteses de imunidade do IPI.
+
+      c) O edital da RFB falou em imunidades (no plural) do Imposto sobre Produtos
+         Industrializados, o que nos leva a crer que é adotado um entendimento mais amplo do
+         que a mera literalidade do Regulamento Aduaneiro. Se se falasse em imunidade (no
+         singular) do IPI, restaria claro que a referência seria apenas à imunidade na importação
+         de livros, jornais e periódicos e do papel destinado a sua impressão (única imunidade
+         prevista na literalidade do R/A).
+
+
+Suspensão do pagamento do IPI
+
+Há situações em que a importação é realizada com a suspensão do pagamento do IPI. Elas estão
+previstas no art. 246 e art. 247 do R/A.
+
+O art. 246 do R/A teve como objetivo estimular a produção nacional de equipamentos
+autopropulsados como tratores, bulldozers, máquinas e aparelhos de uso agrícola (colheitadeiras,
+semeadeiras), etc. Os componentes, chassis, acessórios, partes e peças desses equipamentos são
+desembaraçados com suspensão do IPI, quando importados diretamente, por encomenda ou por
+conta e ordem de estabelecimento industrial. Destaque-se que esses produtos importados com
+suspensão do IPI deverão ser usados no processo produtivo dos equipamentos autopropulsados
+em questão. A lógica é: importar insumos com suspensão do IPI para produzir, no País, esses
+equipamentos.
+
+       Art. 246. Serão desembaraçados com suspensão do pagamento do imposto os
+       componentes, chassis, carroçarias, acessórios, partes e peças dos produtos
+       autopropulsados classificados nas posições 84.29, 84.32, 84.33, 87.01 a 87.06 e
+
+
+---
+
+        87.11, da Nomenclatura Comum do Mercosul, quando importados diretamente
+        por estabelecimento industrial.
+
+        § 1º A suspensão de que trata o caput é condicionada a que o produto seja
+        destinado a emprego pelo estabelecimento industrial adquirente
+
+        I - na produção de componentes, chassis, carroçarias, acessórios, partes ou peças
+        dos produtos autopropulsados relacionados nos Anexos I e II da Lei no 10.485, de
+        2002; ou
+
+        II - na montagem dos produtos autopropulsados classificados nas posições 84.29,
+        84.32, 84.33, 87.01, 87.02, 87.03, 87.05, 87.06 e 87.11, e nos códigos 8704.10.00,
+        8704.2 e 8704.3, da Nomenclatura Comum do Mercosul.
+
+        § 2º O disposto neste artigo aplica-se, também, à empresa comercial atacadista
+        adquirente dos produtos resultantes da industrialização por encomenda a que se
+        refere o art. 427
+
+O art. 247, por sua vez, visa conceder incentivos fiscais a alguns setores específicos, quais sejam:
+i) setor exportador; ii) setor agropecuário; iii) fabricantes de máquinas e equipamentos
+autopropulsados (bens previstos no art.246); e iv) fabricantes de partes e peças para aeronaves e
+aparelhos espaciais.
+
+E como funciona esse incentivo fiscal?
+
+As pessoas jurídicas preponderantemente exportadoras e as empresas fabricantes dos
+equipamentos acima mencionados poderão importar insumos (matérias-primas, produtos
+intermediários e materiais de embalagens) com suspensão do pagamento do IPI.
+
+        Art. 247. Serão desembaraçados com suspensão do pagamento do imposto,
+        ainda, as matérias-primas, os produtos intermediários e os materiais de
+        embalagem, importados diretamente por pessoas jurídicas preponderantemente
+        exportadoras ou por estabelecimento industrial fabricante preponderantemente:
+
+        I - dos produtos classificados nos Capítulos 2, 3, 4, 7, 8, 9, 10, 11, 12, 15, 16, 17,
+        18, 19, 20, 23 (exceto códigos 2309.10.00 e 2309.90.30 e Ex-01 no código
+        2309.90.90), 28, 29, 30, 31 e 64, e nas posições 21.01 a 2105.00, 2209.00.00 e
+
+
+---
+
+       2501.00 da Nomenclatura Comum do Mercosul, inclusive daqueles a que
+       corresponde a notação NT (não-tributados);
+
+       II - dos bens referidos no art. 246;
+
+       III - das partes e peças destinadas a estabelecimento industrial fabricante de
+       produto classificado no Capítulo 88 da Nomenclatura Comum do Mercosul; e
+
+Por fim, ressalte-se que se for dado destino diverso do previsto ao produto beneficiado com
+suspensão, o responsável estará sujeito ao pagamento do imposto, dos juros de mora e da
+penalidade cabível.
+
+(AFRFB – 2014) O fato gerador do Imposto sobre Produtos Industrializados, na importação, é o
+desembaraço aduaneiro de produto de procedência estrangeira.
+
+Comentários
+
+É isso mesmo! O fato gerador do IPI, na importação, é o desembaraço aduaneiro.
+
+Gabarito: certa
+
+(Questão Inédita) A base de cálculo do Imposto sobre Produtos Industrializados (IPI) é o valor
+aduaneiro acrescido do Imposto de Importação e do valor do próprio IPI.
+
+Comentários
+
+A base de cálculo do IPI é o valor aduaneiro acrescido do Imposto de Importação e dos encargos
+cambiais. O IPI não integra sua própria base de cálculo.
+
+Gabarito: errada
+
+(Questão Inédita) São isentas de IPI as importações de bens aos quais se apliquem os regimes de
+tributação especial e simplificada.
+
+Comentários
+
+
+---
+
+O Regime de Tributação Especial é o que se aplica à bagagem de viajantes; o Regime de
+Tributação Simplificada, por sua vez, se aplica a bens integrantes de remessas postais
+internacionais. Nessas duas situações, haverá isenção de IPI.
+
+Gabarito: certa
+
+
+---
+
+    PIS/PASEP-IMPORTAÇÃO E COFINS-IMPORTAÇÃO:
+
+Incidência
+
+A Lei nº 10.865/2004 instituiu as contribuições para o PIS/PASEP-Importação e a COFINS-
+Importação. Embora tenham o nome quase idêntico às contribuições para o PIS/PASEP e a
+COFINS, são tributos diversos. Nesse sentido, o PIS/PASEP e a COFINS são tributos internos, não
+incidindo sobre as operações de importação. Incidem sobre a importação o PIS/PASEP-
+Importação e a COFINS-Importação.
+
+
+                                                            Tributos internos
+
+
+               PIS/PASEP e COFINS
+
+                                                    Não incidem sobre as operações de
+                                                               importação
+
+             PIS/PASEP-Importação e
+                                                       Incidem sobre a importação
+               COFINS-Importação
+
+
+Vejamos o que dizem os arts. 249 e 250 do R/A:
+
+       Art. 249. A importação de produtos estrangeiros está sujeita ao pagamento da
+       contribuição para o PIS/PASEP-Importação e da COFINS-Importação
+
+       Parágrafo único. Consideram-se estrangeiros, para efeito de incidência da
+       contribuição para o PIS/PASEP-Importação e da COFINS-Importação, os bens
+       referidos no art. 70.
+
+       Art. 250. A contribuição para o PIS/PASEP-Importação e a COFINS-Importação
+       não incidem sobre os bens a que se referem os incisos I a IV, VI e VII do art. 71 e
+       os incisos I e II do art. 74, bem como, observado o disposto no art. 257, sobre os
+       bens importados pelas entidades beneficentes de assistência social, nos termos
+       do § 7º do art. 195 da Constituição.
+
+
+---
+
+Como se percebe, há situações em que não há incidência do PIS/PASEP-Importação e a COFINS-
+Importação.
+
+O art. 70 é aquele que nós vimos quando estudamos o Imposto de Importação. São as situações
+em que uma mercadoria nacional ou nacionalizada é exportada, mas retorna ao Brasil, não
+chegando a se desnacionalizar. Logo, não incidirá o PIS/PASEP-Importação e a COFINS-
+Importação, em virtude de a mercadoria não ser estrangeira. Transcrevo, novamente, para que
+você se recorde, o art. 70:
+
+       Art. 70. Considera-se estrangeira, para fins de incidência do imposto, a mercadoria
+       nacional ou nacionalizada exportada, que retorne ao País, salvo se:
+
+       I - enviada em consignação e não vendida no prazo autorizado;
+
+       II - devolvida por motivo de defeito técnico, para reparo ou para substituição;
+
+       III - por motivo de modificações na sistemática de importação por parte do país
+       importador;
+
+       IV - por motivo de guerra ou de calamidade pública; ou
+
+       V - por outros fatores alheios à vontade do exportador.
+
+       Parágrafo único. Serão ainda considerados estrangeiros, para os fins previstos no
+       caput, os equipamentos, as máquinas, os veículos, os aparelhos e os instrumentos,
+       bem como as partes, as peças, os acessórios e os componentes, de fabricação
+       nacional, adquiridos no mercado interno pelas empresas nacionais de engenharia,
+       e exportados para a execução de obras contratadas no exterior, na hipótese de
+       retornarem ao País.
+
+O art. 71 do R/A, por sua vez, também se aplica ao Imposto de Importação, definindo hipóteses
+de não incidência do I.I. sobre mercadorias estrangeiras. E, como pudemos ver, ele também vale
+para o PIS/PASEP-Importação e a COFINS-Importação.
+
+       Art. 71. O imposto não incide sobre:
+
+       I – mercadoria estrangeira que, corretamente descrita nos documentos de
+       transporte, chegar ao País por erro inequívoco ou comprovado de expedição, e
+       que for redestinada ou devolvida para o exterior;
+
+       II – mercadoria estrangeira idêntica, em igual quantidade e valor, e que se destine
+       a reposição de outra anteriormente importada que se tenha revelado, após o
+
+
+---
+
+       desembaraço aduaneiro, defeituosa ou imprestável para o fim a que se destinava,
+       desde que observada a regulamentação editada pelo Ministério da Fazenda;
+
+       III – mercadoria estrangeira que tenha sido objeto da pena de perdimento, exceto
+       na hipótese em que não seja localizada, tenha sido consumida ou revendida;
+
+       IV – mercadoria estrangeira devolvida para o exterior antes do registro da
+       declaração de importação, observada a regulamentação editada pelo Ministério
+       da Fazenda;
+
+       V – embarcações construídas no Brasil e transferidas por matriz de empresa
+       brasileira de navegação para subsidiária integral no exterior, que retornem ao
+       registro brasileiro, como propriedade da mesma empresa nacional de origem;
+
+       VI – mercadoria estrangeira destruída, sob controle aduaneiro, sem ônus para a
+       Fazenda Nacional, antes de desembaraçada; e
+
+       VII – mercadoria estrangeira em trânsito aduaneiro de passagem, acidentalmente
+       destruída.
+
+Convém destacar que, muito embora o artigo 250 do R/A estenda à contribuição para o PIS-
+PASEP-Importação e à COFINS-Importação apenas as hipóteses de não incidência do Imposto de
+Importação previstas pelos incisos I a IV, VI e VII, do artigo 71 do R/A, a situação a que alude o
+inciso V do mesmo artigo 71 do R/A é contemplada com redução a zero das alíquotas das
+contribuições pelo artigo 4º, inciso II, do Decreto nº 5.171/04.
+
+       Art. 4º Ficam reduzidas a zero as alíquotas da Contribuição para o PIS/PASEP-
+       Importação e da COFINS-Importação nas operações de importação de:
+
+       (...)
+
+       II - embarcações construídas no Brasil e transferidas por matriz de empresa
+       brasileira de navegação para subsidiária integral no exterior, que retornem ao País
+       como propriedade da mesma empresa nacional de origem, quando a embarcação
+       for registrada no Registro Especial Brasileiro;
+
+O art. 74 do R/A, que define hipóteses de não-ocorrência do fato gerador do imposto de
+importação, também se aplica ao PIS/PASEP-Importação e COFINS-Importação. No entanto, na
+inteligência do Regulamento Aduaneiro, está-se tratando de hipóteses de não incidência (e não
+situações de não ocorrência do fato gerador!) do PIS/PASEP-Importação e COFINS-Importação.
+Aproveitemos para recordar o art. 74 do R/A:
+
+
+---
+
+       Art. 74. Não constitui fato gerador do imposto a entrada no território aduaneiro:
+
+       I - do pescado capturado fora das águas territoriais do País, por empresa localizada
+       no seu território, desde que satisfeitas as exigências que regulam a atividade
+       pesqueira; e
+
+       II - de mercadoria à qual tenha sido aplicado o regime de exportação temporária,
+       ainda que descumprido o regime.
+
+Por último, o artigo 250 do R/A traz, ainda, como hipótese de não incidência do PIS-Importação e
+da COFINS-Importação, uma verdadeira imunidade (hipótese de não incidência
+constitucionalmente estabelecida), prevista pelo artigo 195, §7º, da Constituição da República,
+referente às importações concretizadas por entidades beneficentes de assistência social. Nesse
+caso, no entanto, como se trata de um benefício fiscal de caráter subjetivo, a transferência da
+propriedade ou a cessão de uso dos bens obriga ao prévio pagamento das contribuições,
+conforme estipula o artigo 257 do R/A.
+
+
+Fato gerador
+
+O fato gerador das contribuições para o PIS/PASEP-Importação e COFINS-Importação é a entrada
+de bens estrangeiros no território aduaneiro. Presume-se a entrada no território aduaneiro e,
+portanto, a ocorrência do fato gerador, para os bens que constem como tendo sido importados e
+cujo extravio tenha sido verificado pela autoridade aduaneira.
+
+                     Fato Gerador
+                                                            entrada     de      bens
+                                                           estrangeiros no território
+              PIS/PASEP-Importação e                       aduaneiro.
+                COFINS-Importação
+
+Não se aplica tal regra às malas / remessas postais internacionais e à mercadoria importada a
+granel que, por sua natureza ou condições de manuseio na descarga, esteja sujeita a quebra ou a
+decréscimo, desde que o extravio não seja superior a um por cento. Na hipótese de quebra ou
+decréscimo em percentual superior a esse limite, serão exigidas a contribuição para o PIS/PASEP-
+Importação e a COFINS-Importação somente em relação ao que exceder a 1%.
+
+
+---
+
+O momento exato em que se considera que a mercadoria adentrou o território aduaneiro e,
+portanto, ocorreu o fato gerador das contribuições para o PIS/PASEP-Importação e COFINS-
+Importação é definido pelo art. 252 do R/A:
+
+        Art. 252. Para efeito de cálculo da contribuição para o PIS/PASEP-Importação e
+        da COFINS-Importação, considera-se ocorrido o fato gerador:
+
+        I - na data do registro da declaração de importação de bens submetidos a
+        despacho para consumo;
+
+        II - no dia do lançamento do correspondente crédito tributário, quando se tratar
+        de bens constantes de manifesto ou de outras declarações de efeito equivalente,
+        cujo extravio tenha sido verificado pela autoridade aduaneira; e
+
+        III - na data do vencimento do prazo de permanência dos bens em recinto
+        alfandegado, se iniciado o respectivo despacho aduaneiro antes de aplicada a
+        pena de perdimento, na hipótese a que se refere o inciso XXI do art. 689.
+
+        Parágrafo único. O disposto no inciso I aplica-se, inclusive, no caso de despacho
+        para consumo de bens importados sob regime suspensivo de tributação do
+        imposto de importação.
+
+No caso de bens nacionalizados (submetidos a despacho para consumo), o fato gerador considera-
+se ocorrido na data de registro da DI. No caso de extravio de mercadoria verificado pela
+autoridade aduaneira, o fato gerador considera-se ocorrido na data do lançamento do crédito
+tributário. Por último, pode-se considerar ocorrido o fato gerador na data do vencimento do prazo
+de permanência em recinto alfandegado. Isso acontecerá quando, antes de ser aplicada a pena
+de perdimento (em virtude de a mercadoria ter sido abandonada), o importador iniciar o despacho
+aduaneiro de importação.
+
+Vale destacar que, conforme a Lei nº 10.865/2004, as contribuições para o PIS/PASEP-Importação
+e a COFINS-Importação também incidem sobre as importações de serviços. Os serviços em
+questão são aqueles provenientes do exterior prestados por pessoa física ou pessoa jurídica
+residente ou domiciliada no exterior, nas seguintes hipóteses: i) executados no País; ii) executados
+no exterior, cujo resultado se verifique no País.
+
+No caso de importação de serviços, o fato gerador será o pagamento, o crédito, a entrega, o
+emprego ou a remessa de valores a residentes ou domiciliados no exterior como contraprestação
+por serviço prestado. O momento temporal exato em que ocorrerá o fato gerador será a data do
+pagamento, crédito, entrega, emprego ou remessa de valores.
+
+
+---
+
+Base de cálculo, alíquotas e pagamento
+
+A base de cálculo do PIS/PASEP – Importação e da COFINS-Importação foi, ao longo de muitos
+anos, objeto de enorme controvérsia doutrinária e jurisprudencial. O problema advém do art. 149,
+inciso III, alínea “a” da CR/88, que determina que as contribuições sociais, cuja competência para
+instituição é exclusiva da União, terão como base de cálculo, na importação, o valor aduaneiro.
+Veja:
+
+        Art. 149. Compete exclusivamente à União instituir contribuições sociais, de
+        intervenção no domínio econômico e de interesse das categorias profissionais ou
+        econômicas, como instrumento de sua atuação nas respectivas áreas, observado
+        o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, §
+        6º, relativamente às contribuições a que alude o dispositivo.
+
+        ...
+
+        III - poderão ter alíquotas:
+
+        a) ad valorem, tendo por base o faturamento, a receita bruta ou o valor da
+        operação e, no caso de importação, o valor aduaneiro.
+
+Olha só que interessante! A CR/88 menciona o termo “valor aduaneiro”, mas não o define. E onde
+está a definição de valor aduaneiro?
+
+A definição de valor aduaneiro está prevista no Acordo sobre a Implementação do art. VII do
+GATT, o denominado Acordo de Valoração Aduaneira (AVA), que, por ter sido regularmente
+internalizado em nosso ordenamento jurídico interno, tem status de lei ordinária. O valor
+aduaneiro é a base de cálculo do Imposto de Importação. Detalhe: segundo o AVA, no cálculo do
+valor aduaneiro, não entram quaisquer tributos internos.
+
+A expressão “valor aduaneiro” tem um sentido técnico inequívoco, já utilizado pela legislação
+tributária para definir a base de cálculo do Imposto de Importação. Desde o Decreto-Lei nº 37/66,
+já está previsto que o valor aduaneiro seria apurado em conformidade com o Acordo de Valoração
+Aduaneira.
+
+Apesar disso, a Lei nº 10.865/2004, ao dispor sobre a base de cálculo do PIS/PASEP-Importação
+e COFINS-Importação, tentou contornar a determinação constitucional, dispondo que, para os
+efeitos daquela lei, o valor aduaneiro deveria ser entendido como o valor que servir ou que serviria
+de base para o cálculo do Imposto de Importação, acrescido do ICMS e do valor das próprias
+contribuições.
+
+
+---
+
+O art. 253, do R/A, seguindo a Lei nº 10.865/2004, dispôs o seguinte:
+
+       Art. 253. A base de cálculo da contribuição para o PIS/PASEP-Importação e da
+       COFINS-Importação é o valor aduaneiro, assim entendido o valor que servir ou
+       que serviria de base para o cálculo do imposto de importação, acrescido do valor
+       do ICMS incidente no desembaraço aduaneiro e do valor das próprias
+       contribuições.
+
+       § 1o O ICMS incidente comporá a base de cálculo das contribuições, mesmo que
+       tenha seu recolhimento diferido.
+
+       § 2o Para efeito do disposto no § 1o, não se inclui a parcela a que se refere a alínea
+       “e” do inciso V do art. 13 da Lei Complementar no 87, de 13 de setembro de 1996.
+
+Como já se disse, o conceito de “valor aduaneiro” encontra previsão no Acordo de Valoração
+Aduaneira (OMC) e os tributos internos não o integram. Quando o legislador constituinte dispôs
+que as contribuições sociais teriam como base de cálculo, na importação, o valor aduaneiro, ele o
+fez considerando o sentido técnico inequívoco desse termo, apurado segundo as regras do
+Acordo de Valoração Aduaneira.
+
+Seguindo essa lógica, no dia 21/03/2013, o STF decidiu, no RE 559.937/RS pela
+inconstitucionalidade da inclusão do ICMS e do PIS/PASEP-Importação e COFINS-Importação na
+base de cálculo do PIS/PASEP-Importação e COFINS-Importação. Essa é uma decisão
+importantíssima do STF, mas que somente se aplicava àquele caso concreto, ou seja, não vinculava
+a Administração Pública. Transcrevemos, a seguir, trecho dessa importante decisão do STF:
+
+       “A Lei 10.865/04, ao instituir o PIS/PASEP-Importação e a COFINS-Importação,
+       não alargou propriamente o conceito de valor aduaneiro, de modo que passasse
+       a abranger, para fins de apuração de tais contribuições, outras grandezas nele não
+       contidas. O que fez foi desconsiderar a imposição constitucional de que as
+       contribuições sociais sobre a importação que tenham alíquota ad valorem sejam
+       calculadas com base no valor aduaneiro, extrapolando a norma do art. 149, § 2º,
+       III, a, da Constituição Federal.”
+
+Com o objetivo de conferir segurança jurídica às operações de importação e, ao mesmo tempo,
+ratificar o entendimento do STF, foi publicada, em 09 de outubro de 2013, a Lei nº 12.865/2013,
+que alterou a base de cálculo do PIS/PASEP-Importação e COFINS-Importação. Agora não há
+mais dúvida: a base de cálculo do PIS/PASEP-Importação e da COFINS-Importação é o valor
+aduaneiro.
+
+
+---
+
+       O art. 253, do Regulamento Aduaneiro, está desatualizado, a partir da
+       promulgação da Lei nº 12.865/2013, de modo que o seu comando deve ser
+       desconsiderado para fins de prova.
+
+O entendimento do STF está, agora, plenamente compatível com o que diz a lei. A base de cálculo
+do PIS/PASEP-Importação e da COFINS-Importação não inclui o ICMS, tampouco o valor dessas
+próprias contribuições. A base de cálculo do PIS/PASEP-Importação e da COFINS-Importação é o
+valor aduaneiro.
+
+Há previsão para a redução da base de cálculo do PIS/PASEP-Importação e COFINS-Importação
+em duas situações:
+
+      a) Redução de 30,2%, no caso de importação, para revenda, de caminhões chassi com
+         carga útil igual ou superior a mil e oitocentos quilogramas e caminhão monobloco com
+         carga útil igual ou superior a mil e quinhentos quilogramas, classificados na posição
+         87.04 da TIPI, observadas as especificações estabelecidas pela Secretaria da Receita
+         Federal do Brasil; e
+
+      b) Redução de 48,10%, no caso de importação, para revenda, de máquinas e veículos
+         classificados nos seguintes códigos e posições da TIPI: 84.29, 8432.40.00, 8432.80.00,
+         8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 8702.10.00 Ex 02, 8702.90.90 Ex 02,
+         8704.10.00, 87.05 e 8706.00.10 Ex 01 (somente os destinados aos produtos classificados
+         nos Ex 02 dos códigos 8702.10.00 e 8702.90.90).
+
+Em regra, as alíquotas previstas em lei para o cálculo das contribuições para o PIS/PASEP-
+Importação e COFINS-Importação são, respectivamente, 2,1% e 9,65%. Detalhe: há várias
+exceções a essa regra, que fogem ao objetivo do nosso curso! Cabe ressaltar, por último, que as
+contribuições para o PIS/PASEP-Importação e a COFINS-Importação serão pagas na data do
+registro da declaração de importação.
+
+       As alíquotas do PIS/PASEP-Importação e COFINS-Importação citadas são
+       resultado do aumento promovido pela Lei nº 13.137/2015.
+
+
+---
+
+        O objetivo desse aumento foi restabelecer a equivalência entre a carga tributária
+        incidente sobre o produto estrangeiro e a que onera o produto nacional, tendo
+        em vista a exclusão, da base de cálculo do PIS/PASEP-Importação e COFINS-
+        Importação, das parcelas referentes ao ICMS e dessas próprias contribuições.
+
+
+Sujeito ativo
+
+Segundo o art. 149, da CR/88, compete exclusivamente à União instituir contribuições sociais, de
+intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas,
+como instrumento de sua atuação nas respectivas áreas.
+
+No exercício de sua competência tributária, foi editada a Lei nº 10.865/2004, que instituiu as
+contribuições sociais para o PIS/PASEP-Importação e COFINS-Importação. O sujeito ativo é,
+portanto, a União.
+
+
+Sujeito passivo
+
+O art. 254 do R/A relaciona os contribuintes do PIS/PASEP-Importação e COFINS-Importação.
+Destaco a semelhança entre esse dispositivo e o que versa sobre os contribuintes do Imposto de
+Importação.
+
+        Art. 254. É contribuinte da contribuição para o PIS/PASEP-Importação e da
+        COFINS-Importação:
+
+        I - o importador, assim considerada qualquer pessoa que promova a entrada de
+        bens estrangeiros no território aduaneiro;
+
+        II - o destinatário de remessa postal internacional indicado pelo respectivo
+        remetente; e
+
+        III - o adquirente de mercadoria entrepostada.
+
+Além desses contribuintes, chamo a sua atenção para duas outras situações, não relacionadas no
+R/A, mas previstas na Lei nº 10.865/2004: i) a pessoa física ou jurídica contratante de serviços de
+residente ou domiciliado no exterior; ii) o beneficiário do serviço, na hipótese em que o
+contratante também seja residente ou domiciliado no exterior.
+
+O art. 255 do R/A, por sua vez, faz menção aos responsáveis solidários pela PIS/PASEP-Importação
+e COFINS-Importação.
+
+
+---
+
+       Art. 255. São responsáveis solidários:
+
+       I - o depositário, assim considerada qualquer pessoa incumbida da custódia de
+       bem sob controle aduaneiro; e
+
+       II - o transportador, quando transportar bens procedentes do exterior ou sob
+       controle aduaneiro, inclusive em percurso interno;
+
+       III - o representante, no País, do transportador estrangeiro;
+
+       IV - o expedidor, o operador de transporte multimodal ou qualquer subcontratado
+       para a realização do transporte multimodal; e
+
+       V - o adquirente de bens estrangeiros, no caso de importação realizada por sua
+       conta e ordem, por intermédio de pessoa jurídica importadora.
+
+Mais um detalhe! Para efeito do Imposto de Importação, o depositário e o transportador são
+responsáveis. No que diz respeito ao PIS/PASEP-Importação e COFINS-Importação, os dois são
+responsáveis solidários.
+
+
+Isenções
+
+As isenções da contribuição para o PIS/PASEP-Importação e da COFINS-Importação estão
+previstas no art. 256 do R/A. Novamente, cabe ressaltar que existem isenções subjetivas
+(concedidas em razão da natureza da pessoa importadora) e isenções objetivas (concedidas em
+razão da natureza do bem, isto é, vinculadas à destinação dos bens). As isenções subjetivas são as
+relacionadas no art. 256, inciso I; as isenções objetivas são as previstas no inciso II. Vejamos:
+
+       Art. 256. São isentas da contribuição para o PIS/PASEP-Importação e da COFINS-
+       Importação:
+
+       I - as importações realizadas:
+
+       a) pela União, Estados, Distrito Federal e Municípios, suas autarquias e fundações
+       instituídas e mantidas pelo poder público;
+
+       b) pelas missões diplomáticas e repartições consulares de caráter permanente e
+       pelos respectivos integrantes;
+
+
+---
+
+c) pelas representações de organismos internacionais de caráter permanente,
+inclusive os de âmbito regional, dos quais o Brasil seja membro, e pelos
+respectivos integrantes;
+
+II - as hipóteses de:
+
+a) amostras sem valor comercial;
+
+b) remessas postais e encomendas aéreas internacionais a que se aplique o regime
+de tributação simplificada ou destinadas a pessoa física;
+
+c) bagagem de viajantes procedentes do exterior;
+
+d) bens adquiridos em loja franca no País;
+
+e) bens trazidos do exterior, no comércio característico das cidades situadas nas
+fronteiras terrestres, destinados à subsistência da unidade familiar de residentes
+nas cidades fronteiriças brasileiras;
+
+f) bens importados sob o regime aduaneiro especial de drawback, na modalidade
+de isenção;
+
+g) objetos de arte, classificados nas posições 97.01, 97.02, 97.03 e 97.06 da
+Nomenclatura Comum do Mercosul, recebidos em doação, por museus instituídos
+e mantidos pelo poder público ou por outras entidades culturais reconhecidas
+como de utilidade pública;
+
+h) máquinas, equipamentos, aparelhos e instrumentos, e suas partes e peças de
+reposição, acessórios, matérias-primas e produtos intermediários, importados por
+instituições científicas e tecnológicas e por cientistas e pesquisadores, conforme o
+disposto nos arts. 147 e 148;
+
+i) bens recebidos em decorrência de evento cultural, científico ou esportivo oficial,
+realizado no exterior, ou para serem consumidos, distribuídos ou utilizados em
+evento esportivo oficial realizado no País; e
+
+j) bens importados por desportistas, desde que tenham sido utilizados por estes
+em evento esportivo oficial e recebidos em doação de entidade de prática
+desportiva estrangeira ou da promotora ou patrocinadora do evento
+
+
+---
+
+Quando a isenção for vinculada à qualidade do importador (isenção subjetiva), a transferência de
+propriedade ou a cessão de uso dos bens, a qualquer título, obriga ao prévio pagamento da
+contribuição para o PIS/PASEP-Importação e da COFINS-Importação.
+
+Lembrem-se que as contribuições não incidem, ainda, sobre as importações realizadas por
+entidades beneficentes de assistência social, na medida em que se trata de hipótese de imunidade
+do PIS/PASEP-Importação e COFINS-Importação estabelecida pelo artigo 195, § 7º, da CR/88,
+como já vimos.
+
+
+Suspensão do Pagamento / Redução de Alíquotas (Programas
+Específicos e seu regramento)
+
+Nesse tópico, vamos abordar diversos regimes de tributação diferenciados relativos ao
+PIS/PASEP-Importação e COFINS-Importação. Desde já, chamo a atenção de vocês para o
+seguinte: alguns deles fazem menção à suspensão do pagamento dessas contribuições; outros, se
+referem à imposição de alíquota zero.
+
+Outro ponto importante, que não podemos deixar de lado, é o de que esses programas
+específicos que serão abordados neste tópico não são regimes aduaneiros especiais. Trata-se
+apenas de regimes de tributação diferenciados para o PIS/PASEP-Importação e COFINS-
+Importação.
+
+Destaco, ainda, que, no final de 2012, tivemos algumas alterações da legislação que revogaram
+tacitamente alguns dispositivos do Decreto nº 6759/2009, cuja redação, entretanto, não foi
+alterada.
+
+Além      disso,    o    Programa    de      Apoio     ao    Desenvolvimento        Tecnológico
+da Indústria de Equipamentos para TV Digital – PATVD, continua disciplinado nos artigos 284/285
+do Regulamento Aduaneiro, mas o programa não está mais vigente por força do disposto no
+artigo 66 da Lei nº 11.484/07.
+
+Portanto, nesse ponto de nosso curso, esqueçam o Regulamento Aduaneiro e levem em
+consideração apenas o conteúdo da aula.
+
+Regime Especial de Tributação para a Plataforma de Exportação de
+Serviços de Tecnologia da Informação (REPES)
+
+O REPES foi instituído pela Lei nº 11.196/2005 e tem como objetivo estimular o desenvolvimento
+dos serviços de tecnologia da informação no Brasil, com foco na exportação.
+
+
+---
+
+O REPES é o regime que permite a importação de bens novos destinados ao desenvolvimento,
+no País, de software e de serviços de tecnologia da informação, quando importados diretamente
+pelo beneficiário do regime para incorporação ao seu ativo imobilizado, com suspensão do
+pagamento da contribuição para o PIS/PASEP-Importação e da COFINS-Importação. Aplica-se
+também suspensão do pagamento do IPI para a importação de bem, sem similar nacional,
+efetuada diretamente pelo beneficiário do REPES para a incorporação ao seu ativo imobilizado.
+
+É beneficiária do REPES a pessoa jurídica que exerça preponderantemente as atividades de
+desenvolvimento de software ou de prestação de serviços de tecnologia da informação, e que,
+por ocasião da sua opção pelo regime, assuma compromisso de exportação igual ou superior a
+50% de sua receita bruta anual de venda de bens e serviços.
+
+                                           Suspensão de PIS/PASEP-Importação e
+                                             COFINS-Importação (tecnologia da
+                                                       informação)
+
+                     REPES
+                                          Suspensão de IPI vinculado à importação,
+                                            desde que não exista similar nacional
+
+
+                  Compromisso de
+                 exportação: 50% da
+               receita bruta de bens e
+                       serviços
+
+Regime Especial de Aquisição de Bens de Capital para Empresas
+Exportadoras (RECAP)
+
+O RECAP também foi instituído pela Lei nº 11.196/2005, tendo como objetivo desonerar do
+PIS/PASEP-Importação e COFINS-Importação a compra de máquinas e equipamentos que farão
+parte do ativo imobilizado das empresas que se dedicam, fundamentalmente, à exportação.
+Assim, ele estimula a compra de bens de capital, os quais são utilizados na produção de bens
+exportáveis.
+
+O RECAP é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+equipamentos, novos, relacionados em ato normativo específico, quando importados diretamente
+pelo beneficiário do regime para incorporação ao seu ativo imobilizado, com suspensão do
+pagamento da contribuição para o PIS/PASEP-Importação e da COFINS-Importação.
+
+
+---
+
+É beneficiária do RECAP a pessoa jurídica preponderantemente exportadora, assim considerada,
+aquela cuja receita bruta decorrente de exportação para o exterior, no ano-calendário
+imediatamente anterior à adesão ao regime, houver sido igual ou superior a 50% de sua receita
+bruta total de venda de bens e serviços no período e que assuma compromisso de manter esse
+percentual de exportação durante o período de 2 anos.
+
+Importa ressaltar que o benefício de suspensão aqui tratado pode ser usufruído apenas nas
+importações realizadas no período de 3 anos contados da data de adesão ao RECAP.
+
+
+                                            Suspensão de PIS/PASEP-Importação e
+            RECAP                           COFINS-Importação (ativo imobilizado)
+
+         Compromisso de
+        exportação: 50% da
+      receita bruta de bens e
+              serviços
+
+
+Pessoa Jurídica Preponderantemente Exportadora
+
+A pessoa jurídica preponderantemente exportadora, assim considerada aquela cuja receita bruta
+decorrente de exportação para o exterior, no ano-calendário imediatamente anterior ao da
+aquisição, houver sido igual ou superior a 50% de sua receita bruta total de venda de bens e
+serviços no mesmo período, após excluídos os impostos e contribuições incidentes sobre a venda,
+poderá importar com suspensão do pagamento da contribuição para o PIS/PASEP-Importação e
+da COFINS-Importação matérias-primas, produtos intermediários e materiais de embalagem.
+
+Quando estudamos sobre o IPI, vimos que as pessoas jurídicas preponderantemente exportadoras
+também fazem jus à suspensão de IPI na importação de matérias-primas, produtos intermediários
+e materiais de embalagem.
+
+
+---
+
+                                     Suspensão de PIS/PASEP-Importação e
+                                         COFINS-Importação (insumos)
+                 PJ
+         preponderantemente
+             exportadora
+                                          Suspensão de IPI vinculado à
+                                                 importação
+
+
+           Compromisso de
+          exportação: 50% da
+         receita bruta de bens
+               e serviços
+
+
+Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de
+Semicondutores (PADIS)
+
+O PADIS é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+equipamentos para incorporação ao ativo imobilizado do beneficiário, destinados às atividades
+relacionadas à pesquisa, desenvolvimento e inovação na indústria de semicondutores, com
+redução a zero por cento das alíquotas da contribuição para o PIS/PASEP-Importação e da
+COFINS-Importação. Essa redução de alíquotas também alcança ferramentas computacionais e
+insumos.
+
+No PADIS, também haverá redução a zero da alíquota do IPI vinculado à importação. Há, ainda, a
+possibilidade de redução a zero da alíquota do Imposto de Importação, conforme condições e
+prazos a serem definidos em ato do Poder Executivo (artigo 282, §5º, do R/A).
+
+Atualmente, aliás, vigora o Decreto nº 10.615/21, que, em seu artigo 2º, inciso IV, estabelece a
+redução a zero da alíquota do Imposto de Importação incidente sobre a matéria-prima e insumos
+importados por pessoa jurídica habilitada no PADIS, e sobre máquinas, aparelhos, instrumentos,
+equipamentos e ferramentas computacionais, destinados à incorporação ao seu ativo imobilizado,
+desde que destinados às atividades de pesquisa, desenvolvimento e inovação e, ainda, desde que
+observados alguns outros requisitos estabelecidos no referido diploma normativo.
+
+
+---
+
+                                                                PIS/PASEP-
+                                                                Importação
+
+
+                                                            COFINS-Importação
+                   PADIS
+                                        Alíquota zero de
+              (semicondutores)                                      IPI
+
+
+                                                                     II
+
+                                                              (eventualmente)
+
+Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura
+- REIDI
+
+O REIDI é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+equipamentos, novos, e de materiais de construção, quando importados diretamente pelo
+beneficiário do regime para utilização ou incorporação em obras de infraestrutura destinadas ao
+ativo imobilizado, com suspensão da contribuição para o PIS/PASEP-Importação e da COFINS-
+Importação.
+
+É beneficiária do REIDI a pessoa jurídica que tenha projeto aprovado para implantação de obras
+de infraestrutura nos setores de transportes, portos, energia, saneamento básico e irrigação. O
+benefício poderá ser usufruído nas importações realizadas no período de 5 (cinco) anos, contados
+da data de aprovação do projeto de infraestrutura.
+
+Regime Especial Tributário para a Indústria de Defesa (RETID):
+
+O Regime Especial Tributário para a Indústria de Defesa (RETID) foi instituído pela Lei nº
+12.598/2012, tendo como objetivo estimular a indústria nacional de defesa.
+
+Segundo o art. 9º, da Lei nº 12.598/2012, as empresas beneficiárias do RETID irão usufruir de
+suspensão tributária na importação e aquisições no mercado interno dos bens de defesa nacional.
+A suspensão tributária abrange os seguintes tributos: PIS/PASEP, COFINS, PIS/PASEP-
+Importação, COFINS-Importação e IPI.
+
+E quem são os beneficiários do RETID?
+
+Os beneficiários do RETID são:
+
+      a) a Empresa Estratégica de Defesa (EED) que produza ou desenvolva bens de defesa
+         nacional definidos em ato do Poder Executivo ou preste os serviços referidos no art. 10
+
+
+---
+
+          (serviços de tecnologia industrial básica, projetos, pesquisa, desenvolvimento e
+          inovação tecnológica, assistência técnica e transferência de tecnologia) empregados na
+          manutenção, conservação, modernização, reparo, revisão, conversão e industrialização
+          dos referidos bens;
+
+      b) a pessoa jurídica que produza ou desenvolva partes, peças, ferramentais, componentes,
+         equipamentos, sistemas, subsistemas, insumos e matérias-primas a serem empregados
+         na produção ou desenvolvimento dos bens referidos no inciso I do caput; e
+
+      c) a pessoa jurídica que preste os serviços referidos no art. 10 (serviços de tecnologia
+         industrial básica, projetos, pesquisa, desenvolvimento e inovação tecnológica,
+         assistência técnica e transferência de tecnologia) a serem empregados como insumos
+         na produção ou desenvolvimento dos bens de defesa nacional.
+
+        A Lei nº 12.598/2012 estabelece que as pessoas jurídicas optantes pelo SIMPLES
+        Nacional não poderão se habilitar ao RETID.
+
+Vale a pena destacar que nos dois últimos casos (alíneas “b” e “c” supra), somente poderão ser
+habilitadas as pessoas jurídicas que forem preponderantemente fornecedoras para Empresas
+Estratégicas de Defesa (EED). Para ser considerada preponderantemente fornecedora, a empresa
+deverá ter 70% da sua receita total da venda de bens e serviços decorrente do somatório das
+vendas: i) para Empresas Estratégicas de Defesa; ii) para pessoas jurídicas fabricantes de bens de
+defesa nacional; iii) de exportação e; iv) para o Ministério da Defesa e suas entidades vinculadas.
+
+Quando uma empresa beneficiária do RETID vende um bem de defesa nacional para a União, para
+uso privativo das Forças Armadas, haverá os seguintes benefícios: i) alíquota zero de PIS/PASEP e
+COFINS e; ii) isenção de IPI.
+
+Acetona Destinada à Elaboração de Defensivos Agropecuários
+
+A importação de acetona classificada no código 2914.11.00 da Nomenclatura Comum do
+Mercosul será efetuada com suspensão do pagamento da contribuição para o PIS/PASEP-
+Importação e da COFINS-Importação.
+
+
+---
+
+Navegação de Cabotagem e de Apoio Portuário e Marítimo
+
+Será efetuada com suspensão do pagamento da contribuição para o PIS/PASEP-Importação e da
+COFINS-Importação, nos termos e condições fixados pela Secretaria Especial da Receita Federal
+do Brasil, a importação de:
+
+      a) óleo combustível, tipo bunker, MF - Marine Fuel, classificado no código 2710.19.22 da
+         Nomenclatura Comum do Mercosul;
+
+      b) óleo combustível, tipo bunker, MGO - Marine Gás Oil, classificado no código 2710.19.21
+         da Nomenclatura Comum do Mercosul; e
+
+      c) óleo combustível, tipo bunker, ODM - Óleo Diesel Marítimo, classificado no código
+         2710.19.21 da Nomenclatura Comum do Mercosul.
+
+A suspensão acima mencionada somente se aplica quando os produtos forem importados por
+pessoa jurídica previamente habilitada e destinados à navegação de cabotagem e de apoio
+portuário e marítimo.
+
+Zona Franca de Manaus:
+
+Mais à frente em nosso curso, teremos a oportunidade de estudar em detalhes sobre a Zona
+Franca de Manaus quando tratarmos dos regimes aduaneiros aplicados em áreas especiais. Nesse
+momento, nos interessa apenas o tratamento tributário relativo ao PIS/PASEP-Importação e
+COFINS-Importação, que, no caso da ZFM, pode ser resumido em dois pontos:
+
+      a) Suspensão do pagamento das contribuições para o PIS/PASEP-Importação e COFINS-
+         Importação, na importação de bens a serem empregados, pelo importador, na
+         elaboração de matérias-primas, produtos intermediários e materiais de embalagem
+         destinados a emprego em processo de industrialização por estabelecimentos ali
+         instalados, consoante projeto aprovado pelo Conselho de Administração da
+         Superintendência da Zona Franca de Manaus.
+
+      b) Suspensão do pagamento das contribuições para o PIS/PASEP-Importação e COFINS-
+         Importação na importação de matérias-primas, produtos intermediários e materiais de
+         embalagem para emprego em processo de industrialização por estabelecimentos
+         industriais instalados na Zona Franca de Manaus e consoante projetos aprovados pelo
+         Conselho de Administração da Superintendência da Zona Franca de Manaus.
+
+      c) Suspensão do pagamento das contribuições para o PIS/PASEP-Importação e COFINS-
+         Importação na importação de máquinas, aparelhos, instrumentos e equipamentos
+         (relacionados no Decreto nº 5.691/06), novos, para incorporação ao ativo imobilizado
+
+
+---
+
+          da pessoa jurídica importadora estabelecida na Zona Franca de Manaus, desde que os
+          bens sejam utilizados para a produção de matérias-primas, produtos intermediários e
+          materiais de embalagem destinados ao emprego em processo de industrialização por
+          pessoa jurídica que esteja instalada na Zona Franca de Manaus e que possua projeto
+          aprovado pelo Conselho de Administração da Superintendência da Zona Franca de
+          Manaus. Neste caso, a suspensão se converte em alíquota zero após dezoito meses da
+          incorporação do bem ao ativo imobilizado.
+
+
+PIS e COFINS na importação de cigarros
+
+Como já mencionamos, muito embora tenham o nome quase idêntico às contribuições para o PIS
+e para a COFINS, o PIS-Importação e a COFINS-Importação são tributos diversos. O PIS e a
+COFINS são tributos internos, que incidem sobre o faturamento do contribuinte, ao passo que o
+PIS -Importação e a COFINS-Importação incidem sobre as operações de importação.
+
+Dessa forma, o recolhimento do PIS-Importação e da COFINS-Importação nas operações de
+importação de uma determinada empresa não prejudica a exigência do PIS e da COFINS
+incidentes sobre o faturamento desse contribuinte.
+
+Quanto à importação de cigarros, mais especificamente, além da incidência do PIS-Importação e
+da COFINS-Importação na operação de importação, e da exigência do PIS e da COFINS incidentes
+sobre o faturamento da empresa, o importador figura, ainda, como substituto tributário dos
+varejistas que comercializarão os cigarros no mercado interno no que diz respeito às contribuições
+para o PIS e para a COFINS.
+
+Com efeito, em conformidade com o disposto no artigo 295 do Regulamento Aduaneiro, o
+importador deve suportar o recolhimento do PIS e da COFINS, inclusive na condição de
+contribuinte substituto dos varejistas, já por ocasião do registro da declaração de importação no
+SISCOMEX.
+
+Trata-se de hipótese de substituição tributária progressiva (ou “para frente”), autorizada pelo
+artigo 150, §7º, da Constituição da República, em que a lei estabelece a antecipação do
+recolhimento do tributo cujo fato gerador se espera que ocorra apenas em momento futuro – fato
+gerador presumido, com base de cálculo presumida.
+
+No caso em tela, o fato gerador presumido, com base de cálculo presumida, diz respeito ao
+faturamento registrado com a venda dos cigarros importados.
+
+Vale destacar, porém, que o mesmo artigo 150, §7º, da Constituição da República assegura a
+restituição da quantia antecipadamente recolhida, caso não se realize o fato gerador presumido.
+Ou seja, se o varejista comprovar que não foi possível concretizar a venda do cigarro importado,
+
+
+---
+
+isso significa que o fato gerador presumido não ocorreu, de modo que o tributo recolhido
+antecipadamente deve ser restituído.
+
+Ainda nessa linha, o Supremo Tribunal Federal reconheceu, adicionalmente, em 2020, após muita
+controvérsia, que se o fato gerador for realizado, porém com base de cálculo inferior à presumida,
+é também devida a restituição da diferença nas contribuições para o PIS e para a COFINS
+recolhidas antecipadamente.
+
+Nesse sentido, por ocasião do julgamento do Recurso Extraordinário nº 596.832, com repercussão
+geral (tema 228), foi fixada a seguinte tese: É devida a restituição da diferença das contribuições
+para o Programa de Integração Social - PIS e para o Financiamento da Seguridade Social - Cofins
+recolhidas a mais, no regime de substituição tributária, se a base de cálculo efetiva das operações
+for inferior à presumida.
+
+(AFRFB-2012) A entrada de bens estrangeiros no território nacional é fato gerador da
+Contribuição para o PIS/PASEP-Importação e da COFINS-Importação. Consideram-se entrados
+no território nacional os bens que constem como tendo sido importados e cujo extravio venha a
+ser apurado pela administração aduaneira, exceto quanto às malas e às remessas postais
+internacionais e à mercadoria importada a granel que, por sua natureza ou condições de manuseio
+na descarga, esteja sujeita a quebra ou a decréscimo, desde que o extravio não seja superior a
+três por cento.
+
+Comentários
+
+O fato gerador das contribuições para o PIS/PASEP-Importação e COFINS-Importação é a entrada
+de bens estrangeiros no território aduaneiro, considerando-se este ocorrido no caso de extravio
+de mercadorias. Tal regra não se aplica às malas e às remessas postais internacionais e à
+mercadoria importada a granel que, por sua natureza ou condições de manuseio na descarga,
+esteja sujeita a quebra ou a decréscimo, desde que o extravio não seja superior a um por cento.
+
+Gabarito: errada
+
+(Questão Inédita) A base de cálculo das contribuições para o PIS/PASEP-Importação e COFINS-
+Importação é o valor aduaneiro acrescido do Imposto de Importação.
+
+
+---
+
+Comentários
+
+A base de cálculo do PIS/PASEP-Importação e da COFINS-Importação é o valor aduaneiro.
+
+Gabarito: errada
+
+(Questão Inédita) O fato gerador da contribuição para o PIS/PASEP-Importação e da COFINS-
+Importação é o desembaraço aduaneiro.
+
+Comentários
+
+O fato gerador das contribuições PIS/PASEP-Importação e COFINS-Importação é a entrada de
+bens estrangeiros no território aduaneiro. Considera-se ocorrido o fato gerador na data do
+registro da DI, no caso de bens submetidos a despacho para consumo.
+
+Gabarito: errada
+
+
+---
+
+                              CIDE-COMBUSTÍVEIS:
+
+Introdução
+
+A CIDE-Combustíveis é uma contribuição de intervenção no domínio econômico, de competência
+da União. Sua instituição está prevista no próprio texto constitucional, cujo art.177, § 4º, dispõe
+que a lei que instituir contribuição de intervenção no domínio econômico relativa às atividades de
+importação ou comercialização de petróleo e seus derivados, gás natural e seus derivados e álcool
+combustível deverá atender certos requisitos.
+
+Mas quais são esses requisitos previstos pelo texto constitucional?
+
+O primeiro deles se refere à alíquota dessas contribuições. Segundo a CR/88, a alíquota da
+contribuição poderá ser: i) diferenciada por produto ou uso e; ii) reduzida e restabelecida por ato
+do Poder Executivo, sem obedecer ao princípio da anterioridade.
+
+Vamos explicar um pouco sobre esse segundo dispositivo. Suponha que uma lei fixe a alíquota da
+CIDE-Combustíveis em 20% para determinado derivado de petróleo. A redução dessa alíquota
+para 10% poderá ser feita por meio de decreto do Poder Executivo e sem obedecer ao princípio
+da anterioridade. Da mesma forma, o restabelecimento dessa alíquota de 10% para 20% poderá
+ser feito mediante decreto e sem observar a anterioridade. No entanto, no nosso exemplo,
+somente uma lei será capaz de elevar a alíquota da CIDE-Combustíveis acima de 20%. E vale
+destacar: nesse caso, a lei deverá obedecer ao princípio da anterioridade.
+
+O segundo requisito previsto no texto constitucional para a CIDE-Combustíveis diz respeito à
+destinação dos recursos arrecadados. Segundo a CR/88, os recursos da CIDE-Combustíveis serão
+destinados: i) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás
+natural e seus derivados e derivados de petróleo; ii) ao financiamento de projetos ambientais
+relacionados com a indústria do petróleo e do gás; iii) ao financiamento de programas de
+infraestrutura de transportes.
+
+
+Incidência e fato gerador
+
+A CIDE-Combustíveis incide sobre a importação e comercialização de petróleo e seus derivados,
+gás natural e seus derivados e álcool etílico combustível. O art. 299 do R/A dispõe sobre o fato
+gerador da CIDE-Combustíveis nas operações de importação:
+
+        Art. 299. A CIDE-Combustíveis tem como fato gerador as operações de
+        importação de:
+
+
+---
+
+          I - gasolinas e suas correntes;
+
+          II - diesel e suas correntes;
+
+          III - querosene de aviação e outros querosenes;
+
+          IV - óleos combustíveis (fuel-oil);
+
+          V - gás liquefeito de petróleo, inclusive o derivado de gás natural e de nafta; e
+
+          VI - álcool etílico combustível.
+
+          Parágrafo único. Para os efeitos dos incisos I e II, consideram-se correntes os
+          hidrocarbonetos líquidos derivados de petróleo e os hidrocarbonetos líquidos
+          derivados de gás natural utilizados em mistura mecânica para a produção de
+          gasolinas ou de diesel, de conformidade com as normas estabelecidas pela
+          Agência Nacional do Petróleo, Gás Natural e Biocombustíveis.
+
+
+Alíquotas, base de cálculo e pagamento
+
+A CIDE-Combustíveis será calculada pela aplicação de alíquotas específicas1 (R$ 100,00 por metro
+cúbico de gasolina, por exemplo, conforme artigo 1º, inciso I, do Decreto nº 5.060/04).
+
+Isso quer dizer que a base de cálculo dessa contribuição será, nos termos do art. 302 do R/A, a
+unidade de medida estabelecida, correspondendo, portanto, à quantidade comercializada do
+produto.
+
+O pagamento da CIDE-Combustíveis será efetuado na data do registro da Declaração de
+Importação.
+
+
+Sujeitos ativo e passivo
+
+O sujeito ativo do tributo é a União, nos termos do artigo 149, da Constituição da República, que
+estabelece a competência exclusiva da União para a instituição de contribuições de intervenção
+no domínio econômico.
+
+1
+ Os tributos podem ter dois tipos de alíquotas: i) alíquota ad valorem ( 35%, 20%, etc) e; ii) alíquota específica (R$2,00/kg,
+R$5,00/m3)
+
+
+---
+
+Quanto ao sujeito passivo, na importação, é contribuinte da CIDE-Combustíveis o importador,
+pessoa física ou jurídica, dos combustíveis líquidos relacionados no art. 299 (gasolina e suas
+correntes; diesel e suas correntes; querosene de aviação e outros querosenes; óleos combustíveis;
+gás liquefeito de petróleo, inclusive o derivado de gás natural e de nafta e; álcool etílico
+combustível).
+
+Nas operações de comercialização no mercado interno, são contribuintes da CIDE-Combustíveis
+o produtor e o formulador dos combustíveis objeto da incidência dessa contribuição.
+
+O adquirente de mercadoria de procedência estrangeira, no caso de importação realizada por sua
+conta e ordem, por intermédio de pessoa jurídica importadora, será responsável solidário pelo
+pagamento da CIDE-Combustíveis.
+
+(Questão Inédita) A alíquota da CIDE-Combustíveis poderá ser reduzida ou aumentada por ato
+do Poder Executivo, sem obedecer ao princípio da anterioridade.
+
+Comentários
+
+Pegadinha! A alíquota da CIDE-Combustíveis poderá ser reduzida ou restabelecida por ato do
+Poder Executivo.
+
+Gabarito: errada
+
+(Questão Inédita) A CIDE-Combustíveis tem como fato gerador as operações de importação de
+gasolinas e suas correntes; diesel e suas correntes; querosene de aviação e outros querosenes;
+óleos combustíveis (fuel-oil); gás liquefeito de petróleo, inclusive o derivado de gás natural e de
+nafta; e álcool etílico combustível.
+
+Comentários
+
+Exatamente o que prevê o art. 299, do R/A.
+
+Gabarito: certa
+
+(Questão Inédita) O pagamento da CIDE-Combustíveis será efetuado na data do desembaraço
+aduaneiro.
+
+
+---
+
+Comentários
+
+O pagamento da CIDE-Combustíveis será efetuado na data de registro da DI.
+
+Gabarito: errada
+
+
+---
+
+                                   TAXA SISCOMEX:
+A utilização do Sistema Integrado de Comércio Exterior - SISCOMEX para o registro de operações
+de importação rende ensejo, ainda, à cobrança de uma taxa, instituída pela Lei nº 9.716/98.
+
+Com efeito, de acordo com o artigo 3º, §1º, da Lei nº 9.716/98, no momento em que é efetuado
+o registro de uma declaração de importação no sistema, passa a ser devido o recolhimento da
+Taxa de Utilização do Sistema Integrado de Comércio Exterior - SISCOMEX. Vale destacar que a
+taxa não incide sobre a utilização do sistema para registro de exportações.
+
+O sujeito ativo da exação é a União, de acordo com os artigos 22, inciso VIII, 145, inciso II, e 237,
+da Constituição da República, ao passo que a administração e arrecadação do tributo compete à
+Secretaria Especial da Receita Federal do Brasil, conforme artigo 3º, caput, da Lei nº 9.716/98.
+
+A lei não indica expressamente quem é o sujeito passivo da taxa. Sem embargo, como é o
+importador que pratica o fato gerador, utilizando o sistema para registrar a declaração de
+importação, entende-se que o sujeito passivo é exatamente o importador. O pagamento ocorre,
+também, automaticamente, mediante débito em conta, no momento do registro da declaração
+de importação no sistema.
+
+A base de cálculo da taxa corresponde ao número de declarações de importação e de adições às
+declarações, e a alíquota é específica. Nos termos do artigo 3º, §1º, incisos I e II, da Lei nº 9.716/98,
+a taxa deve ser calculada à razão de R$ 30,00 (trinta reais) por declaração de importação e R$
+10,00 (dez reais) para cada adição de mercadorias à declaração de importação, respeitados os
+limites estabelecidos em ato da Secretaria da Receita Federal. Esses limites estão fixados em
+consonância com o número de adições no artigo 13, inciso II, alíneas "a" a "f", da Instrução
+Normativa SRF nº 680/06.
+
+Apesar de serem esses os valores estipulados na lei, o artigo 3º, §2º, da mesma Lei nº 9.716/98,
+autoriza expressamente o Ministro de Estado da Fazenda (atual Ministro da Economia) a reajustar
+anualmente as alíquotas da taxa, em consonância com a variação dos custos de operação e dos
+investimentos no SISCOMEX.
+
+Valendo-se dessa autorização, em 24 de maio de 2011 foi editada a Instrução Normativa RFB nº
+1.158, por meio da qual as alíquotas aplicáveis foram reajustadas, passando a incidir à razão de R$
+185,00 (cento e oitenta e cinco reais) por declaração de importação e R$ 29,50 (vinte e nove reais
+e cinquenta centavos) para cada adição de mercadoria à declaração de importação, observados
+os limites estabelecidos de acordo com o número de adições.
+
+
+---
+
+Esse reajuste foi afastado pelo Supremo Tribunal Federal, no entanto, por ocasião do julgamento
+do RE 1.095.001-SC, com repercussão geral, na medida em que a delegação legislativa promovida
+pelo artigo 3º, §2º, da Lei nº 9.716/98, não fixou parâmetros suficientes para delimitar o reajuste
+possível da taxa pelo Poder Executivo, caracterizando, assim, violação ao princípio da legalidade
+tributária.
+
+A mesma decisão reconheceu expressamente, porém, que o julgamento não teria por efeito a
+invalidade da Taxa SICOMEX, tampouco impediria que o Poder Executivo atualizasse os valores
+inicialmente estabelecidos na lei em conformidade com os índices oficiais de inflação. Confiram a
+ementa do julgado:
+
+        AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TAXA SISCOMEX.
+        MAJORAÇÃO. PORTARIA. DELEGAÇÃO. ARTIGO 3º, § 2º, LEI Nº 9.716/98.
+        AUSÊNCIA DE BALIZAS MÍNIMAS DEFINIDAS EM LEI. PRINCÍPIO DA
+        LEGALIDADE. VIOLAÇÃO. ATUALIZAÇÃO. ÍNDICES OFICIAIS. POSSIBILIDADE.
+        1. A jurisprudência do Supremo Tribunal Federal tem acompanhado um
+        movimento de maior flexibilização do Princípio da Legalidade em matéria de
+        delegação legislativa, desde que o legislador estabeleça o desenho mínimo que
+        evite o arbítrio. 2. Diante dos parâmetros já traçados na jurisprudência da Corte,
+        a delegação contida no art. 3º, § 2º, da Lei nº 9.716/98 restou incompleta ou
+        defeituosa, pois o legislador não estabeleceu o desenho mínimo que evitasse o
+        arbítrio fiscal. 3. Esse entendimento não conduz a invalidade da taxa SISCOMEX,
+        tampouco impede que o Poder Executivo atualize os valores previamente fixados
+        na lei, de acordo com os índices oficiais, conforme amplamente aceito na
+        jurisprudência da Corte. 4. Agravo regimental não provido. 5. Não se aplica ao
+        caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo
+        Código de Processo Civil, uma vez que não houve o arbitramento de honorários
+        sucumbenciais. (RE 1.095.001-SC, DJE 28/05/2018)
+
+Assim, na esteira da decisão acima transcrita, foi editada a Instrução Normativa RFB nº 2.024, de
+28 de abril de 2021, que alterou o artigo 13 da Instrução Normativa SRF nº 680/06, reajustando
+as alíquotas da Taxa SISCOMEX em consonância com índices oficiais de inflação.
+
+Atualmente, portanto, a taxa é calculada à razão de R$ 115,67 (cento e quinze reais e sessenta e
+sete centavos) por declaração de importação, e R$ 38,56 (trinta e oito reais e cinquenta e seis
+centavos) para cada adição de mercadoria, observados os limites estabelecidos de acordo com o
+número de adições.
+
+        Art. 13. A taxa de utilização do Siscomex será devida no ato do registro da DI ou
+        da Duimp à razão de:
+
+
+---
+
+       I - R$ 115,67 (cento e quinze reais e sessenta e sete centavos) por DI ou Duimp;
+
+       II - R$ 38,56 (trinta e oito reais e cinquenta e seis centavos) para cada adição de
+       mercadoria à DI ou Duimp, observados os seguintes limites:
+
+       a) até a 2ª adição - R$ 38,56 (trinta e oito reais e cinquenta e seis centavos);
+
+       b) da 3ª à 5ª - R$ 30,85 (trinta reais e oitenta e cinco centavos);
+
+       c) da 6ª à 10ª - R$ 23,14 (vinte e três reais e quatorze centavos);
+
+       d) da 11ª à 20ª - R$ 15,42 (quinze reais e quarenta e dois centavos);
+
+       e) da 21ª à 50ª - R$ 7,71 (sete reais e setenta e um centavos); e
+
+       f) a partir da 51ª - R$ 3,86 (três reais e oitenta e seis centavos).
+
+O produto da arrecadação da Taxa SISCOMEX fica vinculado ao FUNDAF (Fundo Especial de
+Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização), conforme artigo 3º, §4º, da
+Lei nº 9.716/98.
+
+Vale destacar, por fim, que se aplicam à cobrança da Taxa SISCOMEX as normas referentes ao
+Imposto de Importação, por força do disposto no artigo 3º, §3º, da Lei nº 9.716/98.
+
+(Questão Inédita) A utilização SISCOMEX para o registro de uma operação, seja de importação
+ou de exportação, rende ensejo à cobrança da Taxa de Utilização do Sistema Integrado de
+Comércio Exterior.
+
+Comentários
+
+De acordo com o artigo 3º, §1º, da Lei nº 9.716/98, a Taxa de Utilização do SISCOMEX é devida
+pela utilização do sistema para o registro de declarações de importação. A taxa não incide sobre
+a utilização do SISCOMEX para o registro de exportações.
+
+Gabarito: errada
+
+(Questão Inédita) A base de cálculo da Taxa SISCOMEX equivale ao valor aduaneiro da operação.
+
+
+---
+
+Comentários
+
+A base de cálculo da Taxa SISCOMEX corresponde ao número de declarações de importação e
+de adições.
+
+Gabarito: errada
+
+(Questão Inédita) O Supremo Tribunal Federal reconheceu a possibilidade de reajuste da Taxa
+SISCOMEX por ato do Poder Executivo, desde que respeitados os índices oficiais de inflação.
+
+Comentários
+
+No âmbito do RE 1.095.001-SC, o STF, muito embora tenha afastado a majoração promovida pela
+IN RFB 1.158/11, reconheceu a possibilidade de o Poder Executivo reajustar as alíquotas da Taxa
+SISCOMEX de acordo com os índices oficiais de inflação.
+
+Gabarito: certa
+
+
+---
+
+                   INCENTIVOS FISCAIS À EXPORTAÇÃO:
+
+Imunidade de ICMS
+
+O ICMS é tributo de competência dos Estados e do Distrito Federal. Segundo o art. 155, inciso X,
+alínea “a” da CR/88, o ICMS não incidirá sobre operações que destinem mercadorias para o
+exterior, nem sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o
+aproveitamento do montante do imposto cobrado nas operações e prestações anteriores.
+
+Analisando esse dispositivo, é possível perceber a existência de um duplo benefício fiscal de ICMS
+na exportação.
+
+O primeiro se refere à não incidência de ICMS sobre as exportações de bens e serviços. Destaque-
+se que, como trata-se de não-incidência constitucionalmente qualificada (prevista no texto
+constitucional), diz-se que há imunidade de ICMS na exportação de bens e serviços.
+
+O segundo se refere à manutenção e ao aproveitamento do montante do imposto cobrado nas
+operações e prestações anteriores. Conforme você já estudou em Direito Tributário, o ICMS é um
+tributo que deve obedecer à técnica de tributação denominada não-cumulatividade, que visa
+evitar a tributação “em cascata”.
+
+Mas como isso funciona?
+
+Imagine uma empresa A que venda uma mercadoria à empresa B por R$ 1000,00, incidindo sobre
+a operação um ICMS de 10%. Em seguida, a empresa B vende a mesma mercadoria à empresa C
+por R$ 1500,00. A empresa C, por sua vez, exporta a mercadoria por R$ 2500,00. Se, em cada
+operação, incidisse o ICMS sobre o valor total da venda, teríamos um recolhimento tributário
+altíssimo. Veja:
+
+      a) Venda de A para B = R$ 1.000,00 – ICMS: 10% (R$100,00)
+
+      b) Venda de B para C = R$ 1.500,00 – ICMS: 10% (R$ 150,00)
+
+      c) Exportação realizada por C = Imunidade de ICMS
+
+
+---
+
+O recolhimento tributário teria sido de R$ 250,00 (R$ 100,00 + R$ 150,00). Mas não é assim que
+acontece! Existe um sistema de créditos e débitos que evita essa tributação “em cascata”.
+
+Uma figura irá nos ilustrar bem como isso funciona!
+
+  Venda = R$ 1.000,00              Venda = R$ 1.500,00                   Exportação    =       R$
+                                                                         2.500,00
+
+    Empresa A                         Empresa B                         Empresa C
+
+           Débito = R$                       Crédito = R$                       Crédito = R$
+          100,00                            100,00                            150,00
+          Recolhimento =                    Débito = R$                       Recolhimento =
+          R$ 100,00                         150,00                            zero
+                                            Recolhimento =
+                                            R$ 50,00
+
+
+Na venda de A para B, haverá o recolhimento de R$ 100,00 a título de ICMS. Ou seja, há um
+débito de R$ 100,00 de ICMS na empresa A e, em contrapartida, um crédito de R$ 100,00 na
+empresa B. A empresa B, ao vender o produto para a empresa C, recolherá apenas R$ 50,00.
+Embora o valor da operação seja de R$ 1500,00 e, portanto, uma alíquota de ICMS a 10% resulte
+no montante de R$ 150,00, ela possui um crédito anterior de R$ 100,00. Logo, ela irá recolher o
+ICMS apenas em relação à diferença.
+
+Havendo o débito de R$ 150,00 na empresa B, isso gera, em contrapartida, um crédito de R$
+150,00 de ICMS na empresa C. A empresa C, por sua vez, ao exportar a mercadoria, terá
+imunidade, mas manterá o crédito de ICMS de R$ 150,00, o qual poderá ser, futuramente, objeto
+de pleito de restituição ou de compensação tributária.
+
+Dessa forma, pode-se dizer que, além de fazer jus à imunidade tributária, a empresa terá direito à
+manutenção e aproveitamento do montante do imposto cobrado nas operações e prestações
+anteriores.
+
+
+---
+
+Imunidade do Imposto sobre Produtos Industrializados (IPI)
+
+Segundo o art. 153, §3º, inciso III, da CR/88, o imposto sobre produtos industrializados não incidirá
+sobre produtos industrializados destinados ao exterior. Mais uma vez, levando-se em consideração
+que se trata de uma não-incidência constitucionalmente qualificada, é possível afirmar que a Carta
+Magna prevê imunidade do IPI na exportação de produtos industrializados.
+
+O art. 1º, inciso II, da Lei nº 8.402/92 garante, ainda, a manutenção e utilização do crédito do IPI
+relativo aos insumos empregados na industrialização de produtos exportados, tendo em vista o
+regime de não-cumulatividade a que se sujeita o tributo.
+
+
+Imunidade das contribuições sociais e de intervenção no
+domínio econômico
+
+O art. 149, § 2º, inciso I, dispõe que as contribuições sociais e as contribuições de intervenção no
+domínio econômico não incidirão sobre as receitas decorrentes de exportação. Tal dispositivo
+constitucional garante a imunidade de PIS/PASEP, COFINS e CIDE-Combustíveis na exportação.
+
+Como já dissemos anteriormente, as contribuições para o PIS/PASEP e a COFINS são, em regra,
+apuradas pela técnica da não-cumulatividade. Existe, portanto, um sistema de créditos e débitos
+para a apuração desses tributos. Além de exportar com imunidade de PIS/PASEP e COFINS, as
+empresas farão jus à manutenção do crédito relativo às operações anteriores.
+
+Não incidência de PIS/PASEP e COFINS nos créditos de ICMS cedidos a
+terceiros (RE 606.107/RS)
+
+Continuando o assunto, há um duplo benefício fiscal para o ICMS nas exportações de mercadorias.
+Além de existir imunidade de ICMS nas exportações, ocorre a manutenção do crédito relativo às
+operações anteriores.
+
+Agora, pense em uma empresa que apenas realiza exportações, não vendendo suas mercadorias
+no mercado interno. Essa empresa ficará com muitos créditos de ICMS acumulados e, ao mesmo
+tempo, não terá débitos de ICMS para compensar os créditos que possui. Ela não conseguirá
+utilizar seus créditos de ICMS.
+
+A Lei Complementar nº 87/96 (Lei Kandir) estabeleceu, então, que as empresas exportadoras
+poderão transferir os créditos de ICMS relativos às operações anteriores para outras empresas
+dentro do mesmo Estado. Na prática, essa transferência de créditos de ICMS será feita na forma
+de uma venda. Uma empresa vai comprar créditos de ICMS para que possa compensar os débitos
+de ICMS que possua.
+
+
+---
+
+A questão que surge é a seguinte: esses créditos de ICMS transferidos estão sujeitos à incidência
+de PIS/PASEP e COFINS? Esses créditos estão incluídos no conceito de faturamento?
+
+Hoje, esses valores estão, inequivocamente, excluídos da base de cálculo do PIS/PASEP e da
+COFINS (artigo 27, inciso IX, da Instrução Normativa RFB nº 1.911/19). No entanto, até a
+publicação da Lei nº 11.945/2009, o entendimento do Fisco era o de que haveria incidência dessas
+contribuições (PIS/PASEP e COFINS) sobre os créditos de ICMS recebidos.
+
+Os contribuintes recorreram ao STF com o objetivo de excluir esses créditos de ICMS da base de
+cálculo do PIS/PASEP e COFINS. O STF decidiu, então, no âmbito do RE 606.107-RS, o seguinte:
+
+        “O art. 155, § 2º, X, “a”, da CF – cuja finalidade é o incentivo às exportações,
+        desonerando as mercadorias nacionais do seu ônus econômico, de modo a
+        permitir que as empresas brasileiras exportem produtos, e não tributos -, imuniza
+        as operações de exportação e assegura “a manutenção e o aproveitamento do
+        montante do imposto cobrado nas operações e prestações anteriores”. Não
+        incidem, pois, a COFINS e a contribuição ao PIS sobre os créditos de ICMS
+        cedidos a terceiros, sob pena de frontal violação do preceito constitucional.”
+
+O STF se posicionou, portanto, a favor dos contribuintes, excluindo os créditos de ICMS da base
+de cálculo do PIS/PASEP e da COFINS. Dessa forma, o “aproveitamento dos créditos de ICMS
+por ocasião da saída imune para o exterior não gera receita tributável”.
+
+Não incidência de PIS/PASEP e COFINS sobre as variações cambiais ativas
+
+De início, precisamos explicar o que são variações cambiais ativas.
+
+Uma das peculiaridades das operações de comércio exterior é a de que, por envolver empresas
+de diferentes países, há necessidade de celebração de um contrato de câmbio. Suponha uma
+exportação brasileira para os EUA. A empresa brasileira quer receber em “reais” e a empresa
+americana tem “dólares” para efetuar o pagamento. A empresa americana terá que celebrar um
+contrato de câmbio com um banco; por meio desse contrato, ela entregará dólares e receberá
+reais, com os quais será feito o pagamento da empresa brasileira.
+
+A empresa brasileira combina com a empresa americana o valor de US$ 100.000,00. No dia em
+que eles combinam o preço e o contrato de câmbio é fechado, a cotação está em US$ 1,00= R$
+4,30. Todavia, no dia em que o dinheiro é repassado à empresa brasileira, a cotação está em US$
+1,00 =R$ 4,80. Com a cotação inicial do dólar (US$1,00= R$4,30), o valor a ser recebido seria R$
+430.000,00. Todavia, com a mudança da taxa de câmbio, a empresa recebeu R$ 480.000,00.
+Percebam que a empresa brasileira R$ 50.000,00 a mais do que o esperado. Essa receita adicional
+é o que se chama de variação cambial ativa.
+
+
+---
+
+Conforme já estudamos, as receitas decorrentes de exportações estão imunes à incidência de
+PIS/PASEP e COFINS; em outras palavras, há imunidade de PIS/PASEP e COFINS na exportação.
+A pergunta que se faz, então, é a seguinte: as variações cambiais ativas estão sujeitas à incidência
+de PIS/PASEP e COFINS?
+
+A controvérsia chegou ao STF, que decidiu, em recurso extraordinário, que é inconstitucional a
+incidência da contribuição ao PIS e da COFINS sobre a receita decorrente da variação cambial
+positiva obtida nas operações de exportação de produtos. Assim, a Corte Suprema reconheceu
+que as variações cambiais ativas estão imunes ao PIS/PASEP e COFINS. Reproduzo, abaixo,
+ementa do julgado do STF (RE 627.815-PR):
+
+        RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE.
+        HERMENÊUTICA. CONTRIBUIÇÃO AO PIS E COFINS. NÃO INCIDÊNCIA.
+        TELEOLOGIA DA NORMA. VARIAÇÃO CAMBIAL POSITIVA. OPERAÇÃO DE
+        EXPORTAÇÃO.
+
+        I - Esta Suprema Corte, nas inúmeras oportunidades em que debatida a questão
+        da hermenêutica constitucional aplicada ao tema das imunidades, adotou a
+        interpretação teleológica do instituto, a emprestar-lhe abrangência maior, com
+        escopo de assegurar à norma supralegal máxima efetividade.
+
+        II - O contrato de câmbio constitui negócio inerente à exportação, diretamente
+        associado aos negócios realizados em moeda estrangeira. Consubstancia etapa
+        inafastável do processo de exportação de bens e serviços, pois todas as transações
+        com residentes no exterior pressupõem a efetivação de uma operação cambial,
+        consistente na troca de moedas.
+
+        III – O legislador constituinte - ao contemplar na redação do art. 149, § 2º, I, da
+        Lei Maior as “receitas decorrentes de exportação” - conferiu maior amplitude à
+        desoneração constitucional, suprimindo do alcance da competência impositiva
+        federal todas as receitas que resultem da exportação, que nela encontrem a sua
+        causa, representando consequências financeiras do negócio jurídico de compra e
+        venda internacional. A intenção plasmada na Carta Política é a de desonerar as
+        exportações por completo, a fim de que as empresas brasileiras não sejam
+        coagidas a exportarem os tributos que, de outra forma, onerariam as operações
+        de exportação, quer de modo direto, quer indireto.
+
+        IV - Consideram-se receitas decorrentes de exportação as receitas das variações
+        cambiais ativas, a atrair a aplicação da regra de imunidade e afastar a incidência
+        da contribuição ao PIS e da COFINS.
+
+
+---
+
+       V - Assenta esta Suprema Corte, ao exame do leading case, a tese da
+       inconstitucionalidade da incidência da contribuição ao PIS e da COFINS sobre a
+       receita decorrente da variação cambial positiva obtida nas operações de
+       exportação de produtos.
+
+       VI - Ausência de afronta aos arts. 149, § 2º, I, e 150, § 6º, da Constituição Federal.
+       Recurso extraordinário conhecido e não provido, aplicando-se aos recursos
+       sobrestados, que versem sobre o tema decidido, o art. 543-B, § 3º, do CPC.
+
+
+Crédito Presumido de IPI
+
+A contribuição para o PIS/PASEP e a COFINS são, em regra, não-cumulativas. Na apuração do
+montante devido, aplica-se, então, um sistema de créditos e débitos, semelhante ao que
+estudamos ao tratar do ICMS. Na exportação, além de receber imunidade de PIS/PASEP e
+COFINS, a empresa ainda fará jus à manutenção do crédito relativo às operações anteriores. Aqui
+se percebe uma regra semelhante àquela constitucionalmente prevista para o ICMS (art. 155,
+inciso X, alínea “a” da CR/88.)
+
+Há, entretanto, alguns setores aos quais não se aplica a técnica da não-cumulatividade para a
+apuração do PIS/PASEP e da COFINS. Nesses casos, a apuração das contribuições será feita de
+forma cumulativa, o que quer dizer que não existirá um sistema de créditos e débitos.
+
+Me diga agora: seria ou não justo que esses setores, além da imunidade de PIS/PASEP e COFINS
+na exportação, recebessem algum crédito?
+
+Ora, os setores em que se apuram essas contribuições pela não-cumulatividade recebem
+imunidade e, ainda, fica assegurada a manutenção do crédito. Os setores abrangidos pela
+cumulatividade também deveriam fazer jus aos mesmos benefícios. No entanto, estes não têm
+como receber um crédito de PIS/PASEP e COFINS, afinal não há, nesses setores específicos, um
+sistema de créditos e débitos. Qual a solução?
+
+A solução foi conceder um crédito presumido de IPI a título de ressarcimento das contribuições
+para o PIS/PASEP e COFINS.
+
+
+---
+
+Segundo o art.1º da Lei nº 9.363/96, a empresa produtora e exportadora de mercadorias nacionais
+fará jus a crédito presumido de IPI, como ressarcimento das contribuições para o PIS/PASEP e
+COFINS incidentes sobre as respectivas aquisições, no mercado interno, de matérias-primas,
+produtos intermediários e material de embalagem, para utilização no processo produtivo. Isso
+também se aplica nos casos de venda a empresa comercial exportadora com o fim específico de
+exportação.
+
+A base de cálculo do crédito presumido será determinada mediante a aplicação, sobre o valor
+total das aquisições de matérias-primas, produtos intermediários e material de embalagem, do
+percentual correspondente à relação entre a receita de exportação e a receita operacional bruta
+do produtor exportador. Sobre essa base de cálculo, incidirá a alíquota de 5,37% para determinar-
+se o valor do crédito presumido.
+
+Difícil demais a redação desse dispositivo, não é mesmo? Um exemplo para ajudar!
+
+Suponha que uma empresa tenha uma receita de exportação de R$ 200.000,00 e uma receita
+operacional bruta de R$ 400.000,00. Logo, o percentual correspondente à relação entre a receita
+de exportação e a receita operacional bruta será de 50% (R$ 200.000,00 / R$ 400.000,00). Esse
+percentual (50%) será aplicado sobre o valor total das aquisições de matérias-primas, produtos
+intermediários e material de embalagem. Imaginando que o valor total das aquisições foi de R$
+300.000,00, teremos o montante de R$ 150.000,00 como resultado da aplicação do percentual de
+50%.
+
+Pronto! Temos a base de cálculo do crédito presumido. Agora, é necessário apenas fazer incidir
+sobre essa base de cálculo a alíquota de 5,37%, conforme previsto na lei. Fazendo os cálculos
+(150.000 X 5,37%), teremos um crédito presumido de R$ 8.055,00.
+
+
+Drawback
+
+O drawback é um regime aduaneiro especial que consiste em importante incentivo à exportação.
+Em linhas gerais, o drawback consiste na desoneração de insumos importados que serão usados
+na produção de mercadorias exportadas ou a exportar.
+
+Exemplificando! Uma empresa fabricante de veículos importa pneus, rodas, motor, caixa de
+cambio e peças automotivas diversas. Todos esses bens entram no país com suspensão do
+imposto de importação e outros tributos federais, sendo utilizados na produção de um automóvel
+
+
+---
+
+a ser exportado. Veja: a importação dos insumos foi desonerada, mas condicionada a uma
+posterior exportação.
+
+
+                                           desoneração de insumos importados utilizados
+               Drawback                     na produção de mercadorias exportadas ou a
+                                                             exportar
+
+Empresas Comerciais Exportadoras
+
+A exportação é atividade que demanda conhecimentos altamente especializados acerca de
+procedimentos aduaneiros e comerciais, características dos mercados estrangeiros, modalidades
+de pagamentos internacionais, contratação de transporte e seguro internacionais, dentre outros.
+É nesse contexto que surgem as empresas comerciais exportadoras (trading companies),
+responsáveis por fazer a intermediação entre produtores brasileiros e importadores estrangeiros.
+
+As empresas comerciais exportadoras foram criadas, assim, com o objetivo de estimular as
+exportações brasileiras, facilitando o acesso de nossos produtos ao mercado internacional. Para
+viabilizar as operações dessas empresas, o governo lhes concedeu um tratamento diferenciado.
+
+De início, cabe destacar que são consideradas empresas comerciais exportadoras aquelas que
+cumpram os seguintes requisitos:
+
+           a) estar registrada no registro especial na Secretaria de Comércio Exterior e
+              na Secretaria da Receita Federal do Brasil, de acordo com as normas
+              aprovadas pelos Ministros de Estado do Desenvolvimento, Indústria e
+              Comércio Exterior e da Fazenda, respectivamente (atualmente, o Ministério
+              da Economia engloba as duas pastas);
+
+           b) estar constituída sob a forma de sociedade por ações, devendo ser
+              nominativas as ações com direito a voto; e
+
+           c) possuir capital mínimo fixado pelo Conselho Monetário Nacional.
+
+Mas como a empresa comercial exportadora faz a intermediação entre produtores nacionais e
+importadores estrangeiros?
+
+Vejamos o que dispõem os art. 228 e 230 do R/A:
+
+
+---
+
+         Art. 228. As operações decorrentes de compra de mercadorias no mercado
+         interno, quando realizadas por empresa comercial exportadora, para o fim
+         específico de exportação, terão o tratamento previsto nesta Seção.
+
+         Parágrafo único. Consideram-se destinadas ao fim específico de exportação as
+         mercadorias que forem diretamente remetidas do estabelecimento do produtor-
+         vendedor para:
+
+         I - embarque de exportação, por conta e ordem da empresa comercial
+         exportadora; ou
+
+         II - depósito sob o regime extraordinário de entreposto aduaneiro na exportação.
+
+         ...
+
+         Art. 230. São assegurados ao produtor-vendedor, nas operações de que trata o
+         art. 228, os benefícios fiscais concedidos por lei para incentivo à exportação.
+
+Ao analisar os dispositivos supracitados, verifica-se que a venda a empresa comercial exportadora
+é equiparada à exportação. Nesse sentido, o produtor-vendedor (aquele que vende à empresa
+comercial exportadora) fará jus, no momento da venda, aos benefícios fiscais à exportação
+(imunidade de ICMS, imunidade de IPI, etc). A venda a empresa comercial exportadora poderá,
+inclusive, servir como forma de honrar o compromisso de exportação do drawback.
+
+
+Exportação Ficta
+
+A exportação ficta consiste em operação comercial em que a mercadoria é considerada exportada,
+para todos os efeitos fiscais e cambiais, sem que tenha saído do território aduaneiro.
+
+Imagine, por exemplo, que será feita a importação de uma máquina ao amparo do regime de
+admissão temporária1 para que ela seja consertada no Brasil. Para consertar a máquina, serão
+necessárias várias partes/peças, não é mesmo?
+
+O que pode ser feito, nessa situação, é a exportação ficta das partes e peças, a fim de que sejam
+incorporadas na máquina de propriedade do comprador estrangeiro que será devolvida ao
+exterior. Perceba: as partes e peças serão exportadas fictamente, uma vez que serão empregadas
+
+1
+ A admissão temporária é o regime aduaneiro especial que permite a importação de bens que devam permanecer no País durante
+prazo fixado, com suspensão de tributos.
+
+
+---
+
+no reparo da máquina em território nacional. Apesar de não saírem do território nacional, elas são
+consideradas exportadas, o que nos permite inferir que farão jus aos benefícios fiscais
+normalmente aplicáveis a uma exportação.
+
+As hipóteses de exportação ficta estão relacionadas no art. 233 do R/A:
+
+       Art. 233. A exportação de produtos nacionais sem que tenha ocorrido sua saída
+       do território aduaneiro somente será admitida, produzindo todos os efeitos fiscais
+       e cambiais, quando o pagamento for efetivado em moeda nacional ou estrangeira
+       de livre conversibilidade e o produto exportado seja:
+
+       I - totalmente incorporado a bem que se encontre no País, de propriedade do
+       comprador estrangeiro, inclusive em regime de admissão temporária sob a
+       responsabilidade de terceiro;
+
+       II - entregue a órgão da administração direta, autárquica ou fundacional da União,
+       dos Estados, do Distrito Federal ou dos Municípios, em cumprimento de contrato
+       decorrente de licitação internacional;
+
+       III - entregue, em consignação, a empresa nacional autorizada a operar o regime
+       de loja franca;
+
+       IV - entregue, no País, a subsidiária ou coligada, para distribuição sob a forma de
+       brinde a fornecedores e clientes;
+
+       V - entregue a terceiro, no País, em substituição de produto anteriormente
+       exportado e que tenha se mostrado, após o despacho aduaneiro de importação,
+       defeituoso ou imprestável para o fim a que se destinava;
+
+       VI - entregue, no País, a missão diplomática, repartição consular de caráter
+       permanente ou organismo internacional de que o Brasil seja membro, ou a seu
+       integrante, estrangeiro;
+
+       VII - entregue, no País, para ser incorporado a plataforma destinada à pesquisa e
+       lavra de jazidas de petróleo e gás natural em construção ou conversão contratada
+       por empresa sediada no exterior, ou a seus módulos; ou
+
+       VIII - utilizado exclusivamente nas atividades de pesquisa ou lavra de jazidas de
+       petróleo e gás natural, quando vendida a empresa sediada no exterior e conforme
+       definido em legislação específica, ainda que se faça por terceiro sediado no País.
+
+
+---
+
+        § 1o Nas operações de exportação sem saída do produto do território nacional,
+        com pagamento a prazo, os efeitos fiscais e cambiais, quando reconhecidos pela
+        legislação vigente, serão produzidos no momento da contratação, sob condição
+        resolutória, aperfeiçoando-se pelo recebimento integral em moeda nacional ou
+        estrangeira de livre conversibilidade
+
+        § 2o As operações previstas no caput estarão sujeitas ao cumprimento de
+        obrigações e formalidades de natureza administrativa e fiscal, conforme
+        estabelecido em ato normativo da Secretaria da Receita Federal do Brasil
+
+Por último, cabe destacar que será considerada exportada, para todos os efeitos fiscais, creditícios
+e cambiais, a mercadoria nacional admitida no regime aduaneiro especial de Depósito
+Alfandegado Certificado (DAC).
+
+
+Considerações sobre o SIMPLES Nacional
+
+O SIMPLES Nacional consiste em um regime de tratamento diferenciado e favorecido concedido
+às microempresas e empresas de pequeno porte no âmbito da União, Estados, Distrito Federal e
+Municípios. É regulado pela Lei Complementar nº 123/2006, que define, atualmente,
+microempresas e empresas de pequeno porte da seguinte forma:
+
+      a) microempresa: aquela que aufira, em cada ano-calendário, receita bruta igual ou inferior
+         a R$ 360.000,00.
+
+      b) empresa de pequeno porte: aquela que aufira, em cada ano-calendário, receita bruta
+         superior a R$ 360.000,00 e igual ou inferior a R$ 4.800.000,00.
+
+Mas como é concedido esse tratamento diferenciado e favorecido?
+
+O SIMPLES permite que as microempresas e empresas de pequeno porte recolham, mensalmente,
+mediante documento único de arrecadação, os seguintes impostos e contribuições: i) Imposto de
+Renda; ii) Imposto sobre Produtos Industrializados (IPI); iii) Contribuição Social sobre o Lucro
+Líquido (CSLL); iv) COFINS; v) PIS/PASEP; vi) Contribuição patronal; vii) ICMS e; viii) ISS.
+
+Bem, pessoal, o objetivo aqui era só dar uma noção básica do que é o SIMPLES Nacional. O mais
+importante, neste nosso curso, é saber como o regime interage com o comércio exterior. Nesse
+sentido:
+
+
+---
+
+      a) Na importação: A regra é que os tributos incidentes sobre as importações (Imposto de
+         Importação, PIS/PASEP-Importação, COFINS-Importação, IPI vinculado à importação e
+         ICMS vinculado à importação, Taxa SISCOMEX, Taxa MERCANTE) sejam cobrados
+         normalmente nas importações realizadas pelas empresas optantes pelo SIMPLES
+         Nacional. Há isenção, no entanto, para as contribuições de intervenção no domínio
+         econômico (AFRMM e CIDE-combustíveis), conforme artigo 13, §3º, da Lei
+         Complementar nº 123/06.
+
+      b) Na exportação: Aqui temos duas observações importantes!
+
+          ● As receitas decorrentes de exportação de mercadorias para o exterior, inclusive as
+            vendas realizadas por meio de empresa comercial exportadora ou de sociedade de
+            propósito específico, devem ser segregadas pelo contribuinte, para fins de redução
+            do montante a ser recolhido a título de tributo no âmbito do SIMPLES Nacional.
+
+          ● O Imposto de Exportação (IE), quando existir, incidirá normalmente nas exportações
+            realizadas pelas empresas optantes pelo SIMPLES Nacional.
+
+
+Reintegra
+
+A Lei nº 13.043/2014 “ressuscitou” o chamado REINTEGRA, que é um incentivo fiscal às
+exportações.
+
+Um dos grandes problemas que afeta a competitividade das exportações brasileiras é a existência
+de resíduos tributários (acúmulo de créditos não compensados) ao longo da cadeia de produção,
+o que contraria a política brasileira de não exportar tributos. Esses resíduos tributários existem em
+razão da complexidade do sistema tributário brasileiro, em que, por exemplo, um mesmo tributo
+se submete aos regimes de cumulatividade e não-cumulatividade (dependendo do setor).
+
+Com o objetivo de compensar a existência desses resíduos tributários e, assim, obter a total
+desoneração das exportações brasileiras, foi criado o REINTEGRA.
+
+O REINTEGRA é o Regime Especial de Reintegração de Valores Tributários para Empresas
+Exportadoras, tendo sido criado com o objetivo de reintegrar valores referentes a custos
+tributários residuais existentes nas cadeias de produção. No âmbito do Reintegra, a pessoa jurídica
+produtora que efetue exportação de certos bens manufaturados no País poderá apurar valor para
+fins de ressarcir parcial ou integralmente o resíduo tributário federal existente na sua cadeia de
+produção.
+
+Esse valor será apurado pela aplicação de um percentual definido pelo Poder Executivo sobre a
+receita decorrente de exportação de bens produzidos pela pessoa jurídica exportadora.
+
+
+---
+
+Segundo a Lei nº 13.043/2014, o Poder Executivo poderá fixar percentual entre 0,1% e 3%,
+admitindo-se diferenciação por bem. Atualmente, está em vigor o Decreto nº 8.415/2015, que
+fixou, inicialmente, o percentual de 3% para todos os setores e atividades. Assim, se a empresa
+obteve uma receita decorrente de exportação de R$ 1.000.000,00, ela irá apurar um valor de R$
+30.000,00 pela aplicação do REINTEGRA. Desses valores apurados, 17,84% se referem a créditos
+de PIS/PASEP e 82,16% a créditos de COFINS.
+
+        O Decreto nº 8.415/2015, foi modificado pelo Decreto nº 9.393/2018, pelo que, a
+        partir de 1º de junho de 2018, o percentual apurado passou a ser de 0,1%. Pode-
+        se dizer, portanto, que os valores apurados ao amparo do REINTEGRA tiveram
+        uma redução substancial.
+
+Mas como esse valor apurado poderá ser utilizado?
+
+A pessoa jurídica poderá utilizar o valor apurado de duas formas diferentes:
+
+           a) Efetuar compensação com débitos próprios relativos               a   tributos
+              administrados pela Secretaria da Receita Federal do Brasil.
+
+           b) Ressarcimento em espécie.
+
+É importante destacar que a apuração de crédito ao amparo do REINTEGRA não ocorrerá para
+todo e qualquer bem. De forma alguma!
+
+A apuração de crédito nos termos do Reintegra somente será permitida na exportação de bem
+que, cumulativamente, cumpra os seguintes requisitos: i) tenha sido industrializado no País; ii)
+esteja classificado em código da TIPI e relacionado no Anexo ao Decreto nº 8.415/2015 e; iii) tenha
+custo total de insumos importados não superior ao limite percentual do preço de exportação
+estabelecido no Anexo ao Decreto nº 8.415/2015.
+
+A reintegração de valores ao amparo do REINTEGRA não se aplica às empresas comerciais
+exportadoras (ECE). A não aplicação do REINTEGRA às empresas comerciais exportadoras é algo
+que se explica com certa tranquilidade. A elas o REINTEGRA não se aplica em razão de a venda a
+uma empresa comercial exportadora (ECE) já ser considerada exportação. Assim, a empresa que
+vender mercadorias a uma ECE é que fará jus à reintegração de valores.
+
+
+---
+
+(Questão Inédita) O ICMS não incidirá sobre operações que destinem mercadorias para o exterior,
+nem sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o
+aproveitamento do montante do imposto cobrado nas operações e prestações anteriores.
+
+Comentários
+
+É exatamente o que dispõe o art. 155, inciso X, alínea “a” da CR/88. Há um duplo benefício fiscal:
+imunidade de ICMS na exportação e manutenção e aproveitamento do crédito relativo às
+operações anteriores
+
+Gabarito: certa
+
+(Questão Inédita) As contribuições sociais e as contribuições de intervenção no domínio
+econômico não incidirão sobre as receitas decorrentes de exportação. No entanto, ao contrário
+do que ocorre em relação ao ICMS, não é assegurada a manutenção e o aproveitamento dos
+créditos relativos às operações anteriores.
+
+Comentários
+
+Assim como no caso do ICMS, é assegurada a manutenção e aproveitamento dos créditos relativos
+às operações anteriores para essas contribuições.
+
+Gabarito: errada
+
+(Questão Inédita) O Imposto sobre Produtos Industrializados não incidirá sobre produtos
+industrializados destinados ao exterior.
+
+Comentários
+
+De fato, há imunidade de IPI na exportação, conforme artigo 153, §3º, inciso III, da Constituição
+da República.
+
+Gabarito: certa
+
+
+---
+
+                            QUESTÕES COMENTADAS
+
+Imposto de Exportação
+
+1. (Prefeitura de São João da Ponte/MG - 2021) A respeito do princípio da anterioridade, em
+   sede de Direito Tributário, julgue o item a seguir.
+
+   O imposto de importação e o imposto de exportação são dois exemplos de tributos que
+   podem ser cobrados a partir da própria data de publicação da lei que os institui, o que os torna
+   exceções tanto ao princípio da anterioridade anual quanto ao da nonagesimal.
+
+Comentários
+
+O Imposto de Importação e o Imposto de Exportação excepcionam as anterioridades de exercício
+financeiro e nonagesimal, conforme previsto pelo artigo 150, §1º, da Constituição da República.
+
+Gabarito: certa
+
+2. (Petrobrás - 2018) No Brasil, a definição das alíquotas de impostos incidentes sobre produtos
+   exportados é da alçada da
+
+a) Secretaria de Comércio Exterior (SECEX)
+
+b) Secretaria de Política Econômica, do Ministério da Fazenda
+
+c) Câmara de Comércio Exterior (CAMEX)
+
+d) Diplomacia Econômica, Comercial e Financeira, do Ministério das Relações Exteriores
+
+e) Agência Brasileira de Promoção de Exportações e Investimentos (APEX-Brasil)
+
+Comentários
+
+A alíquota base do Imposto de Exportação é de 30%, mas a CAMEX pode reduzi-la ou aumentá-
+la para atender aos objetivos da política cambial e do comércio exterior (artigo 215 do
+
+
+---
+
+Regulamento Aduaneiro). Vale lembrar, sem embargo, que, no caso de aumento, deve ser
+respeitada a alíquota máxima de 150%.
+
+Gabarito: letra C
+
+3. (AFRF-2002.2-adaptada) O preço normal determinado legalmente para apuração da base de
+   cálculo do imposto de exportação corresponde:
+
+  a) ao preço da mercadoria, ou seu similar fixado periodicamente pela Câmara de Comércio
+  Exterior em pauta de valor mínimo vigente ao tempo da exportação.
+
+  b) ao valor externo da mercadoria, identificado como o preço com que a mesma ou similar é
+  normalmente oferecida à venda no mercado atacadista do país, somado às despesas para
+  sua colocação no ponto de saída (porto, aeroporto ou fronteira terrestre), deduzidos, quando
+  for o caso, os impostos exigíveis para consumo interno e recuperáveis pela exportação.
+
+  c) ao preço que a mercadoria, ou seu similar, alcançaria ao tempo da exportação, em uma
+  venda em condições de livre concorrência no mercado internacional, observadas as normas
+  expedidas pela Câmara de Comércio Exterior.
+
+  d) ao valor de transação, ou seja, o preço efetivamente pago ou a ser pago pelo comprador
+  no exterior.
+
+  e) ao preço nunca inferior a um preço de referência fixado pela Secretaria de Comércio
+  Exterior para a mercadoria a ser exportada sendo o parâmetro utilizado para sua aceitação
+  no SISCOMEX.
+
+Comentários
+
+Segundo o art. 214, a base de cálculo do Imposto de Exportação é o preço normal que a
+mercadoria, ou sua similar, alcançaria, ao tempo da exportação, em uma venda em condições de
+livre concorrência no mercado internacional, observadas as normas expedidas pela Câmara de
+Comércio Exterior. Logo, a resposta é a letra C.
+
+Gabarito: letra C
+
+
+---
+
+4. (TRF-2002.1) O pagamento do Imposto de Exportação será realizado na forma e momento
+   fixados pelo:
+
+  a) Ministro do Desenvolvimento, Indústria e Comércio Exterior, que poderá determinar sua
+  exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser exportada.
+
+  b) Ministro da Fazenda, que poderá determinar sua exigibilidade antes da efetiva saída do
+  território aduaneiro da mercadoria a ser exportada.
+
+  c) Secretário-Executivo da Câmara de Comércio Exterior-CAMEX, que poderá determinar
+  sua exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser
+  exportada.
+
+  d) Diretor do Departamento de Comércio Exterior, da Secretaria do Comércio Exterior do
+  Ministério do Desenvolvimento, Indústria e Comércio Exterior, que poderá determinar sua
+  exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser exportada.
+
+  e) Presidente do Banco Central do Brasil, que poderá determinar sua exigibilidade antes da
+  efetiva saída do território aduaneiro da mercadoria a ser exportada.
+
+Comentários
+
+Questão bem direta! Segundo o art. 216 do R/A, o pagamento do imposto de exportação será
+realizado na forma e no prazo fixados pelo Ministro de Estado da Fazenda, que poderá determinar
+sua exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser exportada.
+Logo, a resposta é a letra B.
+
+Gabarito: letra B
+
+5. (TRF-2003) Assinale a opção correta.
+
+  a) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+  relacionadas em lei complementar, tendo como fato gerador sua saída do território
+  aduaneiro, que se considera ocorrida na data de registro da exportação no Siscomex; sua
+  base de cálculo é o preço normal ou o preço apurado segundo critérios específicos fixados
+  ou pauta de valor mínimo estabelecida pela CAMEX (Câmara de Comércio Exterior); a
+
+
+---
+
+  alíquota é de 30%, podendo ser elevada, pela CAMEX, para até 150%; o prazo de pagamento
+  é fixado pelo Ministro da Fazenda.
+
+  b) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+  relacionadas pela CAMEX, tendo como fato gerador sua saída do território aduaneiro, que
+  se considera ocorrida na data de registro da exportação no Siscomex; sua base de cálculo é
+  o preço normal ou o preço apurado segundo critérios específicos fixados ou pauta de valor
+  mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser elevada, pela CAMEX,
+  para até 150%; o prazo de pagamento é fixado pela CAMEX.
+
+  c) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+  relacionadas pela CAMEX, tendo como fato gerador sua saída do território aduaneiro, que
+  se considera ocorrida na data de registro da exportação no Siscomex; sua base de cálculo é
+  o preço normal ou o preço apurado segundo critérios específicos fixados ou pauta de valor
+  mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser elevada, pelo Ministro
+  da Fazenda, para até 150%; o prazo de pagamento é fixado pela CAMEX.
+
+  d) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+  relacionadas pela CAMEX, tendo como fato gerador sua saída do território aduaneiro, que
+  se considera ocorrida na data de registro da exportação no Siscomex; sua base de cálculo é
+  o preço normal ou o preço apurado segundo critérios específicos fixados ou pauta de valor
+  mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser elevada, pela CAMEX,
+  para até 150%; o prazo de pagamento é fixado pelo Ministro da Fazenda.
+
+  e) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+  relacionadas em lei complementar, tendo como fato gerador sua saída do território
+  aduaneiro, que se considera ocorrida na data de registro da exportação no Siscomex; sua
+  base de cálculo é o preço normal ou o preço apurado segundo critérios específicos fixados
+  ou pauta de valor mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser
+  elevada, pela CAMEX, para até 150%; o prazo de pagamento é fixado pelo Ministro da
+  Fazenda, ad referendum da CAMEX.
+
+Comentários
+
+Questão com assertivas bem grandes! A resposta era a letra D, que traz várias informações
+corretas:
+
+
+---
+
+      a) O imposto de exportação incide sobre mercadorias nacionais ou nacionalizadas,
+         relacionadas pela CAMEX. (letras A e E erradas)
+
+      b) O fato gerador do I.E. é a saída de mercadoria do território nacional.
+
+      c) Segundo o Regulamento Aduaneiro, o fato gerador do imposto de exportação
+         considera-se ocorrido na data do registro de exportação (RE). Cabe destacar,
+         entretanto, que, em julho de 2018, o registro de exportação (RE) e a declaração de
+         exportação (DE) foram substituídos pela DU-E (Declaração Única de Exportação). Em
+         nosso entendimento, o momento do fato gerador do imposto de exportação é a data
+         do registro da DU-E.
+
+      d) A base de cálculo do I.E é o preço normal ou o preço apurado segundo critérios
+         específicos fixados ou pauta de valor mínimo estabelecida pela CAMEX.
+
+      e) A alíquota do IE é de 30%, podendo ser reduzida ou elevada pela CAMEX. O limite
+         máximo é de 150%. (letra C errada)
+
+      f) O prazo de pagamento do imposto de exportação é definido pelo Ministro da Fazenda.
+         (letra B errada)
+
+Se vocês souberem essas informações sobre o I.E para a prova, tenham a certeza de que já estão
+bem!
+
+Gabarito: letra D
+
+6. (TRF-2002.1) As normas legais e regulamentares que dispõem sobre o Imposto de Exportação
+   prescrevem que:
+
+  a) o Imposto de Exportação incide sobre mercadoria nacional ou nacionalizada destinada ao
+  exterior.
+
+  b) a base de cálculo do Imposto de Exportação é o preço normal que a mercadoria, ou seu
+  similar, alcançaria ao tempo de uma exportação, em uma venda em condições de livre
+  concorrência no mercado internacional, observadas as normas expedidas pelo Conselho de
+  Política Aduaneira do Ministério da Fazenda.
+
+
+---
+
+  c) poderá o Ministro do Desenvolvimento, Indústria e Comércio Exterior reduzir ou elevar a
+  alíquota para atender aos objetivos da política cambial e do comércio exterior.
+
+  d) considera-se ocorrido o fato gerador do Imposto de Exportação na data do efetivo
+  embarque, devidamente comprovada pela exibição do conhecimento de transporte.
+
+  e) Na administração do Imposto de Exportação aplicar-se-ão supletivamente as normas que
+  regulam a administração.
+
+Comentários
+
+Letra A: correta. De fato, o Imposto de Exportação incide sobre mercadoria nacional ou
+nacionalizada destinada ao exterior.
+
+Letra B: errada. As normas que devem ser observadas para a determinação da base de cálculo do
+Imposto de Exportação são expedidas pela CAMEX.
+
+Letra C: errada. As alíquotas do Imposto de Exportação podem ser elevadas ou reduzidas pela
+CAMEX.
+
+Letra D: errada. Segundo o Regulamento Aduaneiro, o fato gerador do imposto de exportação
+considera-se ocorrido na data do registro de exportação (RE). Cabe destacar, entretanto, que, em
+julho de 2018, o registro de exportação (RE) e a declaração de exportação (DE) foram substituídos
+pela DU-E (Declaração Única de Exportação). Em nosso entendimento, o momento do fato
+gerador do imposto de exportação é a data do registro da DU-E.
+
+Letra E: errada. Normas que regulam a administração? Ficou estranho isso aí, não foi? Creio que
+o examinador quis confundir o candidato com o que dispõe o art. 235 do R/A, segundo o qual
+aplica-se, subsidiariamente, ao Imposto de Exportação, no que couber, a legislação relativa ao
+Imposto de Importação.
+
+Gabarito: letra A
+
+7. (ACE-2012) A respeito do Imposto sobre Exportações, é correto afirmar que:
+
+
+---
+
+  a) incide sobre mercadoria nacional ou nacionalizada destinada ao exterior e tem como fato
+  gerador sua saída do território nacional.
+
+  b) incide sobre bens não essenciais exportados para consumo final e tem como fato gerador
+  o registro de exportação no Sistema Integrado de Comércio Exterior.
+
+  c) incide sobre mercadoria nacional destinada ao exterior e tem como base de cálculo o valor
+  aduaneiro do bem exportado.
+
+  d) sua alíquota está fixada em 30%, sem possibilidades de redução ou majoração, e tem
+  como base de cálculo o preço normal que a mercadoria alcançaria em uma venda em
+  condições livre de concorrência no mercado internacional.
+
+  e) incide sobre toda mercadoria destinada ao exterior a partir do território nacional e tem
+  como fato gerador a emissão da Declaração de Exportação (DE).
+
+Comentários
+
+Letra A: correta. O Imposto de Exportação incide sobre mercadoria nacional ou nacionalizada
+destinada ao exterior. Seu fato gerador é a saída da mercadoria do território nacional. Segundo o
+Regulamento Aduaneiro, o fato gerador do Imposto de Exportação considera-se ocorrido na data
+do registro de exportação (RE). Cabe destacar, entretanto, que, em julho de 2018, o registro de
+exportação (RE) e a declaração de exportação (DE) foram substituídos pela DU-E (Declaração
+Única de Exportação). Em nosso entendimento, o momento do fato gerador do Imposto de
+Exportação é a data do registro da DU-E.
+
+Letra B: errada. Não há qualquer disposição sobre incidência do Imposto de Exportação a bens
+não essenciais. Ademais, o fato gerador do I.E é a saída da mercadoria do território nacional (e
+não o registro de exportação!). Segundo o Regulamento Aduaneiro, o fato gerador do Imposto
+de Exportação considera-se ocorrido na data do registro de exportação (RE). Cabe destacar,
+entretanto, que, em julho de 2018, o registro de exportação (RE) e a declaração de exportação
+(DE) foram substituídos pela DU-E (Declaração Única de Exportação). Em nosso entendimento, o
+momento do fato gerador do imposto de exportação é a data do registro da DU-E.
+
+Letra C: errada. A base de cálculo do imposto de exportação é o preço normal (e não o valor
+aduaneiro!).
+
+
+---
+
+Letra D: errada. A alíquota do imposto de exportação é de 30%, podendo ser reduzida ou elevada
+pela CAMEX.
+
+Letra E: errada. O imposto de exportação não incide sobre todas as mercadorias destinadas ao
+exterior, mas apenas sobre as nacionais ou nacionalizadas destinadas ao exterior. O momento do
+fato gerador do imposto de exportação é a data do registro da DU-E.
+
+Gabarito: letra A
+
+8. (AFRFB-2002.2) Quanto ao imposto de exportação (IE), avalie o acerto das afirmações adiante
+   e marque com V as verdadeiras e com F as falsas; em seguida, marque a opção correta:
+
+  ( ) O imposto incide sobre mercadoria nacional ou nacionalizada destinada ao exterior.
+
+  ( ) Pelas regras vigentes, o imposto é excepcional, pois somente os produtos relacionados
+  estão a ele sujeitos.
+
+  ( ) O preço, à vista, da mercadoria, FOB ou colocada na fronteira, é indicativo do preço
+  normal, que é a base de cálculo do imposto.
+
+  a) V, V, V.
+
+  b) V, V, F.
+
+  c) V, F, F.
+
+  d) F, F, F
+
+  e) F, V, F
+
+Comentários
+
+A primeira assertiva está correta. O Imposto de Exportação incide sobre mercadoria nacional ou
+nacionalizada destinada ao exterior.
+
+
+---
+
+A segunda assertiva está correta. A CAMEX é responsável por relacionar as mercadorias sujeitas
+ao imposto. Assim, pode-se considerar que o I.E. é um imposto excepcional, pois apenas as
+mercadorias relacionadas estarão a ele sujeitos.
+
+A terceira assertiva está correta. O preço normal é o preço que a mercadoria, ou sua similar,
+alcançaria, ao tempo da exportação, em uma venda em condições de livre concorrência no
+mercado internacional. O preço à vista, em base FOB, é um indicativo do preço normal.
+
+Gabarito: letra A
+
+9. (ACE-2012) O Imposto sobre a Exportação (IE), cuja competência pertence à União, incide na
+   exportação, para o exterior, de produtos nacionais ou nacionalizados. Sobre ele é incorreto
+   afirmar que:
+
+  a) nacionais são os produtos produzidos no próprio país.
+
+  b) nacionalizados são os produtos que tenham ingressado regularmente para incorporação
+  à economia nacional, submetendo-se ao desembaraço aduaneiro, vale dizer, com a
+  respectiva tributação, sendo o caso.
+
+  c) incide também sobre operações relativas a energia elétrica, serviços de telecomunicações,
+  derivados de petróleo, combustíveis e minerais do país.
+
+  d) a exportação temporária, quando amparada em regime especial de suspensão de
+  impostos, em que não se tenha a incorporação à economia de outro país, não se sujeita à
+  sua incidência.
+
+  e) o fato gerador ocorre com a saída física do produto do país, pouco importando, portanto,
+  a data do registro da operação no Sistema Integrado de Comércio Exterior – SISCOMEX.
+
+Comentários
+
+Letra A: correta. São produtos nacionais aqueles produzidos no país.
+
+Letra B: correta. São produtos nacionalizados aqueles que tenham ingressado a título definitivo
+no território nacional. Em outras palavras, são produtos que foram regularmente incorporados à
+
+
+---
+
+economia nacional. Destaque-se que os produtos sujeitos à isenção ou imunidade, se importados
+a título definitivo, também são nacionalizados.
+
+Letra C: correta. Apenas podem incidir sobre energia elétrica, serviços de telecomunicações,
+derivados de petróleo, combustíveis e minerais do país o ICMS, o I.I. e o I.E.
+
+Letra D: correta. Mais à frente em nosso curso falaremos sobre a exportação temporária. A
+exportação temporária é feita com suspensão do imposto de exportação. Assim, não há
+recolhimento tributário relativamente ao imposto de exportação. Se a mercadoria sujeita ao
+regime de exportação temporária estiver sujeita ao Imposto de Exportação, será constituído termo
+de responsabilidade, que será baixado, por ocasião da reimportação da mercadoria no prazo
+fixado, tratando-se, pois, de hipótese de não incidência do Imposto de Exportação.
+
+Letra E: errada. Segundo o Regulamento Aduaneiro, o fato gerador do imposto de exportação
+considera-se ocorrido na data do registro de exportação (RE). Cabe destacar, entretanto, que, em
+julho de 2018, o registro de exportação (RE) e a declaração de exportação (DE) foram substituídos
+pela DU-E (Declaração Única de Exportação). Em nosso entendimento, o momento do fato
+gerador do imposto de exportação é a data do registro da DU-E.
+
+Gabarito: letra E
+
+10. (ATRFB-2012) A Câmara de Comércio Exterior, observada a legislação específica, relacionará
+    as mercadorias sujeitas ao Imposto de Exportação, mas de acordo com o art. 153, § 10 da
+    Constituição Federal, a alteração das alíquotas do imposto é de competência privativa do
+    Chefe do Poder Executivo.
+
+Comentários
+
+De fato, a CAMEX possui competência para relacionar as mercadorias sujeitas ao imposto de
+exportação, o que nos leva a afirmar que esse é um imposto excepcional (apenas incide sobre as
+mercadorias relacionadas pela CAMEX).
+
+No entanto, a alteração de alíquotas não é de competência privativa do Chefe do Poder Executivo.
+Com efeito, é a CAMEX o órgão que, atualmente, detém competência para alterar as alíquotas
+do imposto de exportação, e a constitucionalidade dessa atribuição já foi reconhecida pelo próprio
+STF.
+
+
+---
+
+Gabarito: errada
+
+11. (ATRFB-2012) Mesmo considerando a função regulatória do Imposto de Exportação, suas
+    alíquotas não poderão ser manejadas sem a observância de condições e limites estabelecidos
+    em lei em sentido estrito.
+
+Comentários
+
+Há limites para a alteração das alíquotas do imposto de exportação. Conforme estudamos, a
+alíquota máxima do I.E. é de 150%.
+
+Gabarito: certa
+
+12. (ATRFB-2012) Segundo entendimento do Supremo Tribunal Federal, é incompatível com a
+    Constituição Federal a norma infraconstitucional que atribui a órgão integrante do Poder
+    Executivo da União a faculdade de estabelecer as alíquotas do Imposto de Exportação.
+
+Comentários
+
+É compatível com a CR/88 norma infraconstitucional que atribui a órgão integrante do Poder
+Executivo da União a faculdade de estabelecer as alíquotas do Imposto de Exportação. E, de fato,
+atualmente, quem fixa as alíquotas do Imposto de Exportação é a CAMEX.
+
+Gabarito: errada
+
+13. (ATRFB-2012) O Imposto de Exportação incide sobre mercadoria nacional ou nacionalizada
+    destinada ao exterior. Considera-se nacionalizada a mercadoria estrangeira importada a título
+    definitivo.
+
+Comentários
+
+Segundo o art. 212, do R/A, o imposto de exportação incide sobre mercadoria nacional ou
+nacionalizada destinada ao exterior. Considera-se nacionalizada a mercadoria estrangeira
+importada a título definitivo.
+
+Gabarito: certa
+
+
+---
+
+14. (Questão Inédita) O imposto de exportação incide sobre mercadoria nacional ou estrangeira
+    destinada ao exterior. Seu fato gerador considera-se ocorrido na data do registro de
+    exportação.
+
+Comentários
+
+O imposto de exportação incide sobre mercadoria nacional ou nacionalizada destinada ao
+exterior.
+
+Gabarito: errada
+
+15. (Questão Inédita) A base de cálculo do Imposto de Exportação, quando a alíquota for ad
+    valorem, será o valor aduaneiro.
+
+Comentários
+
+A base de cálculo do Imposto de Exportação é o preço normal. O valor aduaneiro é a base de
+cálculo do Imposto de Importação, quando a alíquota for ad valorem.
+
+Gabarito: errada
+
+16. (Questão Inédita) A alíquota máxima para o Imposto de Exportação é de 150%.
+
+Comentários
+
+A alíquota do I.E. é de 30%, podendo ser reduzida ou aumentada pela CAMEX. No caso de
+aumento de alíquota, esta não poderá ultrapassar o limite máximo de 150%.
+
+Gabarito: certa
+
+17. (Questão Inédita) O pagamento do Imposto de Exportação será realizado na forma e no prazo
+    fixados pela CAMEX.
+
+Comentários
+
+A forma e o prazo de pagamento do imposto de exportação são fixados pelo Ministro da Fazenda
+(atual Ministro da Economia).
+
+
+---
+
+Gabarito: errada
+
+18. (Questão Inédita) O fato gerador do Imposto de Exportação considera-se ocorrido no
+    momento do desembaraço aduaneiro.
+
+Comentários
+
+Segundo o Regulamento Aduaneiro, o fato gerador do Imposto de Exportação considera-se
+ocorrido na data do registro de exportação (RE). Cabe destacar, entretanto, que, em julho de
+2018, o registro de exportação (RE) e a declaração de exportação (DE) foram substituídos pela
+DU-E (Declaração Única de Exportação). Em nosso entendimento, considera-se ocorrido o fato
+gerador do Imposto de Exportação na data do registro da DU-E.
+
+Gabarito: errada
+
+19. (Questão Inédita) O Imposto de Exportação será calculado pela aplicação da alíquota de 30%
+    sobre a base de cálculo. O Ministro da Fazenda tem competência para reduzir ou aumentar
+    essa alíquota, a fim de atender aos objetivos da política cambial e de comércio exterior.
+
+Comentários
+
+A competência para reduzir ou aumentar a alíquota do Imposto de Exportação é da CAMEX.
+
+Gabarito: errada
+
+20. (Exame Despachante Aduaneiro-2012) O imposto de exportação tem como fato gerador o
+    desembaraço aduaneiro da mercadoria exportada.
+
+Comentários
+
+O fato gerador do imposto de exportação é a saída de mercadoria do território nacional. Segundo
+o Regulamento Aduaneiro, o fato gerador do Imposto de Exportação considera-se ocorrido na
+data do registro de exportação (RE). Cabe destacar, entretanto, que, em julho de 2018, o registro
+de exportação (RE) e a declaração de exportação (DE) foram substituídos pela DU-E (Declaração
+Única de Exportação). Em nosso entendimento, considera-se ocorrido o fato gerador do Imposto
+de Exportação na data do registro da DU-E.
+
+
+---
+
+Gabarito: errada
+
+21. (Exame Despachante Aduaneiro-2012) Em caso de elevação, a alíquota do imposto de
+    exportação não poderá ser superior a cinquenta por cento.
+
+Comentários
+
+A alíquota do Imposto de Exportação não poderá ser superior a 150%.
+
+Gabarito: errada
+
+22. (Exame Despachante Aduaneiro-2012) Em determinadas situações a Câmara de Comércio
+    Exterior – CAMEX - pode definir pauta de valor mínimo para a apuração da base de cálculo do
+    imposto de exportação.
+
+Comentários
+
+Se o preço da mercadoria for de difícil apuração ou for suscetível de oscilações bruscas no
+mercado internacional, a CAMEX poderá estabelecer critérios específicos ou definir pauta de valor
+mínimo para apuração da base de cálculo do Imposto de Exportação.
+
+Gabarito: certa
+
+23. (Exame Despachante Aduaneiro-2012) É contribuinte do imposto de exportação qualquer
+    pessoa que promova a saída de mercadoria do território aduaneiro.
+
+Comentários
+
+O contribuinte do Imposto de Exportação é o exportador, assim considerada qualquer pessoa que
+promova a saída de mercadoria do território aduaneiro.
+
+Gabarito: certa
+
+
+---
+
+                          QUESTÕES COMENTADAS
+
+Impostos sobre Produtos Industrializados
+
+1. (Câmara de Marabá/PA - 2021) Segundo o Código Tributário Nacional, a natureza jurídica
+   específica do tributo é determinada pelo fato gerador da respectiva obrigação. No caso, o
+   Imposto sobre Produtos Industrializados tem como fato gerador, entre outras possibilidades,
+   o seu desembaraço aduaneiro, quando de procedência estrangeira.
+
+Comentários
+
+O desembaraço aduaneiro de produto de procedência estrangeira constitui fato gerador do IPI,
+nos termos do artigo 238 do Regulamento Aduaneiro.
+
+Gabarito: certa
+
+2. (Exame de Despachante Aduaneiro – 2015) Quanto ao Imposto sobre Produtos Industrializados
+   na Importação (IPI Importação), é correto afirmar que o fato gerador, a base de cálculo e a
+   incidência deste tributo são, respectivamente:
+
+  a) o registro da declaração de importação, o valor aduaneiro e incide sobre toda mercadoria
+  de origem estrangeira que adentre o território nacional.
+
+  b) o registro da declaração de importação, o valor aduaneiro e incide sobre as mercadorias
+  industrializadas estrangeiras que adentrem o território nacional.
+
+  c) o desembaraço da declaração de importação, o valor aduaneiro e incide sobre as
+  mercadorias industrializadas estrangeiras que adentrem o território nacional.
+
+  d) o desembaraço da declaração de importação, o valor aduaneiro acrescido do valor do
+  Imposto de Importação e incide sobre as mercadorias industrializadas estrangeiras que
+  adentrem o território nacional.
+
+
+---
+
+  e) o registro da declaração de Importação, o valor aduaneiro acrescido do valor do Imposto
+  de Importação e incide sobre as mercadorias industrializadas estrangeiras que adentrem o
+  território nacional.
+
+Comentários
+
+O fato gerador do IPI vinculado à importação é o desembaraço aduaneiro.
+
+A base de cálculo do IPI vinculado à importação é o valor aduaneiro acrescido do valor do imposto
+de importação e dos encargos cambiais.
+
+O IPI incide sobre produtos industrializados de procedência estrangeira.
+
+Gabarito: letra D
+
+3. (ACE-2002) O cálculo do valor do Imposto sobre Produtos Industrializados (IPI), quando
+   vinculado à importação, toma por base:
+
+  a) o valor que serve de base para o cálculo do Imposto de Importação, acrescido do montante
+  deste tributo e dos encargos cambiais efetivamente pagos pelo importador ou deste
+  exigíveis.
+
+  b) o valor da mercadoria, convertido em Reais, quando de sua saída do estabelecimento
+  industrial em que tenha sido processada.
+
+  c) o preço da mercadoria importada quando de sua saída do estabelecimento industrial em
+  que tenha sido processada acrescido dos custos de frete e seguro e dos encargos cambiais
+  incorridos pelo importador.
+
+  d) o valor FOB (Free on Board) da mercadoria importada.
+
+  e) o valor que servir de base para o cálculo do Imposto de Importação somado aos encargos
+  cambiais incorridos pelo importador.
+
+Comentários
+
+Pergunta bem direta: qual a base de cálculo do IPI vinculado à importação?
+
+
+---
+
+Segundo o art. 239 do R/A, a base de cálculo do IPI, na importação, é o valor que servir ou que
+serviria de base para cálculo do Imposto de Importação, por ocasião do despacho aduaneiro,
+acrescido do montante desse imposto e dos encargos cambiais efetivamente pagos pelo
+importador ou dele exigíveis. Logo, a resposta é a letra A.
+
+Gabarito: letra A
+
+4. (AFRFB-2005) O campo de incidência do Imposto sobre Produtos Industrializados abrange:
+
+  a) todos os produtos relacionados na TIPI.
+
+  b) todos os produtos relacionados na TIPI, com alíquota, mesmo os com alíquota zero.
+
+  c) todos os produtos, exceto aqueles a que corresponde a notação “Zero”.
+
+  d) todos os produtos com alíquota.
+
+  e) todos os produtos, mesmo os com alíquota zero ou com a notação NT, ainda que não
+  relacionados na TIPI.
+
+Comentários
+
+O campo de incidência do IPI abrange todos os produtos relacionados na TIPI com alíquota, ainda
+que seja alíquota zero. Logo, a resposta é a letra B.
+
+Gabarito: letra B
+
+5. (Questão Inédita) Assinale a alternativa correta acerca do IPI vinculado à importação:
+
+  a) As isenções do IPI, salvo expressa disposição em lei, referem-se ao produto e não ao
+  contribuinte ou adquirente.
+
+  b) São isentos do imposto sobre produtos industrializados as importações de livros, jornais e
+  periódicos e do papel destinado a sua impressão.
+
+  c) A base de cálculo do IPI é o valor aduaneiro acrescido do imposto de importação, do
+  próprio IPI e dos encargos cambiais efetivamente pagos pelo importador ou dele exigíveis.
+
+
+---
+
+  d) O fato gerador do IPI considera-se ocorrido na data do registro da Declaração de
+  Importação. Não é fato gerador do IPI o retorno ao País de produtos nacionais aos quais
+  tenha sido concedido o regime aduaneiro especial de exportação temporária.
+
+  e) O imposto sobre produtos industrializados incide sobre mercadoria estrangeira que,
+  corretamente descrita nos documentos de transporte, chegar ao País por erro inequívoco ou
+  comprovado de expedição, e que for redestinada ou devolvida para o exterior.
+
+Comentários
+
+Letra A: correta. Isso é exatamente o que prevê o art. 243 do R/A. Salvo expressa disposição em
+lei, as isenções do IPI referem-se ao produto e não ao contribuinte ou adquirente.
+
+Letra B: errada. As importações de livros, jornais e periódicos são imunes ao IPI.
+
+Letra C: errada. A base de cálculo do imposto, na importação, é o valor aduaneiro, acrescido do
+imposto de importação e dos encargos cambiais efetivamente pagos pelo importador ou dele
+exigíveis
+
+Letra D: errada. O fato gerador do IPI considera-se ocorrido na data do desembaraço aduaneiro.
+
+Letra E: errada. Essa é uma hipótese de não-incidência do IPI.
+
+Gabarito: letra A
+
+6. (AFRFB-2012) Não constitui fato gerador do IPI-Importação o desembaraço aduaneiro de
+   produtos nacionais que retornem ao País aos quais tenha sido aplicado o regime aduaneiro
+   especial de exportação temporária, salvo se descumprido o regime.
+
+Comentários
+
+Não constitui fato gerador do IPI vinculado à importação o retorno ao País de produtos nacionais
+aos quais tenha sido aplicado o regime de exportação temporária, ainda que descumprido o
+regime.
+
+Gabarito: errada
+
+
+---
+
+7. (Questão Inédita) O fato gerador do Imposto sobre Produtos Industrializados (IPI), na
+   importação, é o desembaraço aduaneiro de produto de procedência estrangeira. Logo, o
+   recolhimento desse tributo será procedido em momento posterior ao do registro da
+   Declaração de Importação (DI).
+
+Comentários
+
+Apesar de o fato gerador do IPI, na importação, ser o desembaraço aduaneiro, ele será recolhido
+no momento do registro da DI.
+
+Gabarito: errada
+
+8. (AFRFB-2012) Serão desembaraçados com suspensão do pagamento do IPI-Importação as
+   matérias-primas, os produtos intermediários e os materiais de embalagem, importados
+   diretamente por pessoas jurídicas preponderantemente exportadoras ou por estabelecimento
+   industrial fabricante preponderantemente das partes e peças destinadas a estabelecimento
+   industrial fabricante de produto classificado no Capítulo 88 da Nomenclatura Comum do
+   Mercosul.
+
+Comentários
+
+Questão bastante difícil! Ela nos mostra dois incentivos fiscais relativos ao IPI, os quais estão
+previstos no art. 247, caput e inciso III do R/A:
+
+a) Suspensão de IPI na importação, por pessoa jurídica preponderantemente exportadora, de
+matérias-primas, produtos intermediários e materiais de embalagem.
+
+b) Suspensão de IPI na importação de matérias-primas, produtos intermediários e materiais de
+embalagem por estabelecimento industrial fabricante preponderantemente das partes e peças
+destinadas a estabelecimento industrial fabricante de produto classificado no Capítulo 88 da
+Nomenclatura Comum do Mercosul (aeronaves e aparelhos espaciais).
+
+Por tudo o que comentamos, a questão está correta.
+
+Gabarito: certa
+
+
+---
+
+9. (Questão Inédita) As isenções do Imposto sobre Produtos Industrializados, salvo expressa
+   disposição de lei, referem-se ao contribuinte ou ao adquirente.
+
+Comentários
+
+Em regra, as isenções de IPI são objetivas, isto é, se referem ao produto.
+
+Gabarito: errada
+
+10. (Questão Inédita) O IPI vinculado à importação incide apenas sobre produtos industrializados
+    de origem estrangeira.
+
+Comentários
+
+O IPI vinculado à importação incide sobre produtos industrializados de procedência estrangeira.
+
+Gabarito: errada
+
+11. (Questão Inédita) O IPI vinculado à importação não incide sobre mercadoria estrangeira
+    idêntica, em igual quantidade e valor, e que se destine a reposição de outra anteriormente
+    importada que se tenha revelado, após o desembaraço aduaneiro, defeituosa ou imprestável
+    para o fim a que se destinava, desde que observada a regulamentação editada pelo Ministério
+    da Fazenda.
+
+Comentários
+
+De fato, essa é uma hipótese de não-incidência do IPI, prevista no art. 71, inciso II, do R/A.
+
+Gabarito: certa
+
+12. (Exame Despachante Aduaneiro-2012) Bens sujeitos à alíquota zero de imposto de importação
+    implicam a adoção de alíquota zero no imposto de produtos industrializados.
+
+Comentários
+
+
+---
+
+Não há relação entre a alíquota do imposto de importação e a alíquota de qualquer tributo. Assim,
+se a alíquota do imposto de importação for zero, não há obrigatoriedade de que a alíquota do IPI
+também seja zero.
+
+Gabarito: errada
+
+13. (Questão Inédita) Devido a sua natureza extrafiscal, o IPI não se sujeita aos princípios da
+    legalidade e da anterioridade no tocante à alteração de suas alíquotas.
+
+Comentários
+
+De fato, o IPI não se sujeita aos princípios da legalidade e da anterioridade no tocante à alteração
+de suas alíquotas, tendo em vista a sua natureza extrafiscal. Vale lembrar, no entanto, que não há
+dispensa da obrigatoriedade de respeito à noventena.
+
+Gabarito: certa
+
+14. (Questão Inédita) A aplicação da pena de perdimento no curso do despacho aduaneiro de
+    importação impede a ocorrência do fato gerador do IPI.
+
+Comentários
+
+O fato gerador do IPI vinculado à importação é o desembaraço aduaneiro do produto de
+procedência estrangeira. A aplicação da pena de perdimento sobre a carga no curso do despacho
+aduaneiro impede que os produtos sejam desembaraçados, de modo que não há ocorrência o
+fato gerador do IPI nessa hipótese.
+
+Gabarito: certa
+
+15. (Questão Inédita) O recolhimento do IPI ocorre no momento em que é registrada a declaração
+    de importação. Dessa forma, eventual modificação na alíquota do tributo verificada por
+    ocasião do desembaraço aduaneiro não gera nenhum efeito na relação jurídico-tributária.
+
+Comentários
+
+Muito embora o recolhimento do IPI seja efetuado no momento em que é registrada a declaração
+de importação, o seu fato gerador ocorre apenas por ocasião do desembaraço aduaneiro da
+
+
+---
+
+carga. Dessa forma, a alteração de alíquota verificada na data do desembaraço gera o dever de
+complementar o recolhimento, se houver majoração, ou o direito à restituição da diferença, se
+houver redução.
+
+Gabarito: errada
+
+16. (Questão Inédita) O campo de incidência do IPI não abrange os produtos relacionados com
+    alíquota zero na TIPI.
+
+Comentários
+
+Nos termos do artigo 2º, parágrafo único, do Decreto nº 7.212/10, o campo de incidência do IPI
+abrange todos os produtos com alíquota, ainda que zero, relacionados na TIPI.
+
+Gabarito: errada
+
+
+---
+
+                             QUESTÕES COMENTADAS
+
+PIS/PASEP-Importação e COFINS-Importação
+
+1. (SEFAZ/CE - 2021) O recolhimento mensal ao Simples Nacional engloba o pagamento de
+   diversos tributos, incluindo-se a Contribuição Social sobre o Lucro Líquido (CSLL) e a
+   Contribuição para o Financiamento da Seguridade Social (COFINS), ressalvado, no segundo
+   caso, o tributo incidente na importação de bens e serviços.
+
+Comentários
+
+Como vimos, os tributos sobre o comércio exterior (Imposto de Importação (II), PIS/PASEP-
+Importação, COFINS-Importação, IPI vinculado à importação e ICMS vinculado à importação)
+incidem normalmente nas importações realizadas pelas empresas optantes pelo SIMPLES
+Nacional.
+
+Gabarito: certa
+
+2. (Questão Inédita/2022) Levando-se em conta seus conhecimentos sobre tributação no
+   comércio exterior, analise os itens a seguir e atribua a letra (V) para as assertivas verdadeiras e
+   a letra (F) para as falsas. Em seguida, assinale a alternativa que indique a sequência correta.
+
+  ( ) A base de cálculo do imposto de exportação é o preço normal que a mercadoria, ou sua
+  similar, alcançaria, ao tempo da exportação, em uma venda em condições de livre
+  concorrência no mercado internacional. Se o preço da mercadoria for de difícil apuração ou
+  for suscetível de oscilações bruscas no mercado internacional, a Câmara de Comércio
+  Exterior fixará critérios específicos ou estabelecerá pauta de valor mínimo, para apuração da
+  base de cálculo.
+  ( ) O imposto de exportação será calculado pela aplicação da alíquota de trinta por cento
+  sobre a base de cálculo, podendo a CAMEX reduzir ou aumentar essa alíquota, para atender
+  aos objetivos da política cambial e do comércio exterior.
+
+
+---
+
+  ( ) O fato gerador do Imposto sobre Produtos Industrializados (IPI) na importação é o
+  desembaraço aduaneiro. Entretanto, o recolhimento do imposto será feito no momento do
+  registro da Declaração de Importação (DI).
+  ( ) O fato gerador das contribuições para o PIS/PASEP-Importação e COFINS-Importação é
+  o desembaraço aduaneiro de mercadoria importada.
+  ( ) As contribuições para o PIS/PASEP-Importação e COFINS-Importação não incidem sobre
+  o retorno ao País de bens exportados temporariamente.
+  a) VVVFV
+  b) VFVFV
+  c) FVFVV
+  d) FFVFV
+  e) VVFFV
+Comentários
+A primeira assertiva está correta. De fato, a base de cálculo do imposto de exportação é o preço
+normal (art. 214, R/A). Pode acontecer de o preço da mercadoria ser de difícil apuração ou
+suscetível de oscilações bruscas no mercado internacional. Nesse caso, a CAMEX fixará critérios
+específicos ou estabelecerá pauta de valor mínimo.
+A segunda assertiva está correta. A alíquota do imposto de exportação é de 30%. A CAMEX tem
+competência para reduzir ou aumentar essa alíquota.
+A terceira assertiva está correta. O fato gerador do IPI vinculado à importação é o desembaraço
+aduaneiro. O recolhimento desse tributo, todavia, ocorre no momento do registro da DI.
+A quarta assertiva está errada. O fato gerador do PIS/PASEP-Importação e COFINS-Importação é
+a entrada de bens estrangeiros no território aduaneiro. Ele considera-se ocorrido na data do
+registro da DI.
+A quinta assertiva está correta. O retorno de bens exportados temporariamente é hipótese de
+não-incidência das contribuições para o PIS/PASEP-Importação e COFINS-Importação.
+Gabarito: letra A
+
+3. (Exame de Despachante Aduaneiro – 2015) Sobre a contribuição para o PIS/PASEP-Importação
+   e da COFINS-Importação, assinale a opção correta.
+
+
+---
+
+  a) O fato gerador da contribuição para o PIS/ PASEP-Importação e da COFINS-Importação é
+  a entrada de bens estrangeiros no território aduaneiro.
+
+  b) Para efeito de cálculo da contribuição para o PIS/ PASEP-Importação e da COFINS-
+  Importação, considera-se ocorrido o fato gerador na data do registro da declaração de
+  importação de bens submetidos a despacho para consumo, excetuando-se o despacho para
+  consumo de bens importados sob regime suspensivo de tributação do imposto de
+  importação.
+
+  c) A contribuição para o PIS/PASEP-Importação e da COFINS-Importação serão pagas na
+  data do desembaraço da declaração de importação.
+
+  d) A base de cálculo da contribuição para o PIS/ PASEP-Importação e da COFINS-Importação
+  é o valor aduaneiro, acrescido do Imposto de Importação (II) e do Imposto sobre Produtos
+  Industrializados na Importação (IPI Importação).
+
+  e) As importações realizadas por empresas públicas são isentas da contribuição para o PIS/
+  PASEP-Importação e da COFINS-Importação.
+
+Comentários
+
+Letra A: correta. Segundo o art. 251, R/A, o fato gerador da contribuição para o PIS/PASEP-
+Importação e da COFINS-Importação é a entrada de bens estrangeiros no território aduaneiro.
+
+Letra B: errada. O fato gerador do PIS/PASEP-Importação e COFINS-Importação considera-se
+ocorrido na data do registro da DI, inclusive no caso de despacho para consumo de bens
+importados sob regime suspensivo de tributação.
+
+Letra C: errada. As contribuições para o PIS/PASEP-Importação e COFINS-Importação serão pagas
+na data do registro da DI.
+
+Letra D: errada. A base de cálculo do PIS/PASEP-Importação e da COFINS-Importação é o valor
+aduaneiro. Não são incluídos no valor aduaneiro o I.I e o IPI.
+
+Letra E: errada. Não há isenção de PIS/PASEP-Importação e COFINS-Importação para empresas
+públicas.
+
+
+---
+
+Gabarito: letra A
+
+4. (AFRFB – 2014) Recentemente, o Supremo Tribunal Federal exarou importante decisão sobre
+   a base de cálculo do PIS/ PASEP-Importação e da COFINS-Importação, conforme se verifica
+   do julgamento do Recurso Extraordinário n. 559.937/Rio Grande do Sul. De acordo com essa
+   paradigmática decisão, analise os itens a seguir e, em seguida, assinale a opção correta.
+
+  I. A referência ao “valor aduaneiro” no art. 149, § 2º, III, “a”, da Constituição Federal implicou
+  utilização de expressão com sentido técnico inequívoco, porquanto já era utilizada pela
+  legislação tributária para indicar a base de cálculo do Imposto de Importação.
+
+  II. A Lei n. 10.865, de 30 de abril de 2004, ao instituir o PIS/PASEP-Importação e a COFINS-
+  Importação, alargou, inovou, alterou o conceito de valor aduaneiro, de modo que passasse
+  a abranger, para fins de apuração de tais contribuições, outras grandezas nele não contidas.
+
+  III. O gravame das operações de importação se dá como concretização do princípio da
+  isonomia.
+
+  IV. A Corte julgou inconstitucional a seguinte parte do art. 7º, inciso I da Lei n. 10.865, de 30
+  de abril de 2004: “acrescido do valor do Imposto sobre Operações Relativas à Circulação de
+  Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e
+  de Comunicação – ICMS incidente no desembaraço aduaneiro e do valor das próprias
+  contribuições”.
+
+  a) Estão corretos somente os itens I e II.
+
+  b) Estão corretos somente os itens I e III.
+
+  c) Estão corretos somente os itens II, III e IV.
+
+  d) Estão corretos somente os itens I e IV.
+
+  e) Todos os itens estão corretos.
+
+Comentários
+
+
+---
+
+A primeira assertiva está correta. A expressão “valor aduaneiro”, que aparece na CR/88, tem um
+sentido técnico inequívoco, o qual está previsto no Acordo de Valoração Aduaneira.
+
+A segunda assertiva está errada. Segundo o STF, “a Lei 10.865/04, ao instituir o PIS/PASEP-
+Importação e a COFINS-Importação, não alargou propriamente o conceito de valor aduaneiro, de
+modo que passasse a abranger, para fins de apuração de tais contribuições, outras grandezas nele
+não contidas. O que fez foi desconsiderar a imposição constitucional de que as contribuições
+sociais sobre a importação que tenham alíquota ad valorem sejam calculadas com base no valor
+aduaneiro, extrapolando a norma do art. 149, § 2º, III, a, da Constituição Federal.”
+
+A terceira assertiva está errada. A ESAF tem a mania de pegar um julgado do STF e “brincar” com
+a literalidade. No RE nº 559.937/2013, o STF se posicionou da seguinte forma:
+
+     “O gravame das operações de importação se dá não como concretização do princípio da
+     isonomia, mas como medida de política tributária tendente a evitar que a entrada de
+     produtos desonerados tenha efeitos predatórios relativamente às empresas sediadas no País,
+     visando, assim, ao equilíbrio da balança comercial.”
+
+A quarta assertiva está correta. De fato, o STF entendeu que era inconstitucional a inclusão, na
+base de cálculo do PIS/PASEP-Importação e COFINS-Importação, do ICMS e do valor das próprias
+contribuições.
+
+Gabarito: letra D
+
+5. (ACE-2012-adaptada) Considerando a incidência da contribuição para os Programas de
+   Integração Social e de Formação do Patrimônio do Servidor Público (PIS/PASEP-Importação)
+   e Contribuição para o Financiamento da Seguridade Social (COFINS-Importação), é correto
+   afirmar que:
+
+  a) tem como fato gerador o registro da Declaração de Importação e sua base de cálculo é o
+  valor de transação da mercadoria acrescido dos encargos cambiais correspondentes.
+
+  b) tem como fato gerador o desembaraço aduaneiro do bem importado e como base de
+  cálculo o valor aduaneiro acrescido do imposto de importação e dos encargos cambiais
+  pagos pelo importador ou dele exigíveis.
+
+
+---
+
+  c) tem como fato gerador o ingresso do bem no território aduaneiro do país, e a base de
+  cálculo é o valor aduaneiro.
+
+  d) tem como fato gerador o desembaraço aduaneiro de produto de procedência estrangeira,
+  e sua base de cálculo é o valor aduaneiro acrescido do ICMS e dos encargos cambiais.
+
+  e) tem como fato gerador o registro da Declaração de Importação, e sua base de cálculo é o
+  valor aduaneiro acrescido do imposto de importação e dos encargos cambiais efetivamente
+  pagos pelo importador.
+
+Comentários
+
+A ESAF adora perguntar qual a base de cálculo dos tributos incidentes sobre o comércio exterior!
+Fique de olho nisso!
+
+O fato gerador do PIS/PASEP-Importação e COFINS-Importação é a entrada de bens estrangeiros
+no território aduaneiro. A base de cálculo é o valor aduaneiro. A resposta é a letra C.
+
+Gabarito: letra C
+
+6. (Questão Inédita) Assinale a alternativa correta sobre PIS/PASEP-Importação e da COFINS-
+   Importação:
+
+  a) São responsáveis solidários pelo PIS/PASEP-Importação o importador, o destinatário de
+  remessa postal internacional e o adquirente de mercadoria entrepostada.
+
+  b) As contribuições para o PIS/PASEP-Importação e a COFINS não incidem sobre a
+  importação de serviços.
+
+  c) As contribuições para o PIS/PASEP-Importação e a COFINS-Importação não incidem sobre
+  mercadoria estrangeira idêntica, em igual quantidade e valor, e que se destine a reposição
+  de outra anteriormente importada que se tenha revelado, após o desembaraço aduaneiro,
+  defeituosa ou imprestável para o fim a que se destinava, desde que observada a
+  regulamentação editada pelo Ministério da Fazenda.
+
+
+---
+
+  d) As mercadorias nacionais às quais foi concedido o regime de exportação temporária, ao
+  retornarem ao País, serão consideradas não-estrangeiras para fins de incidência do
+  PIS/PASEP-Importação e COFINS-Importação.
+
+  e) As importações realizadas pela União, Estados, Distrito Federal e Municípios estão sujeitas
+  à incidência do PIS/PASEP-Importação e COFINS-Importação.
+
+Comentários
+
+Letra A: errada. O importador, o destinatário de remessa postal internacional e o adquirente de
+mercadoria entrepostada são contribuintes do PIS/PASEP-Importação e da COFINS-Importação.
+
+Letra B: errada. O PIS/PASEP-Importação e a COFINS-Importação incidem, sim, sobre a
+importação de serviços.
+
+Letra C: correta. Esse é o caso de substituição de mercadorias, tratado como hipótese de não-
+incidência do PIS/PASEP-Importação e da COFINS-Importação.
+
+Letra D: errada. O retorno de mercadorias exportadas temporariamente é tratado como hipótese
+de não-incidência do PIS/PASEP-Importação e da COFINS-Importação.
+
+Letra E: errada. Na literalidade do R/A, as importações realizadas pela União, Estados, Distrito
+Federal e Municípios são isentas do PIS/PASEP-Importação e sa COFINS-Importação.
+
+Gabarito: letra C
+
+7. (Questão Inédita) Assinale a alternativa incorreta acerca do PIS/PASEP-Importação e da
+   COFINS-Importação:
+
+  a) O RECAP é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+  equipamentos, novos, relacionados em ato normativo específico, quando importados
+  diretamente pelo beneficiário do regime para incorporação ao seu ativo imobilizado, com
+  redução a zero das alíquotas para o PIS/PASEP-Importação e da COFINS-Importação.
+
+  b) O PADIS é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+  equipamentos para incorporação ao ativo imobilizado do beneficiário, destinados às
+
+
+---
+
+  atividades relacionadas à indústria de semicondutores, com redução a zero por cento das
+  alíquotas da contribuição para o PIS/PASEP-Importação e da COFINS-Importação.
+
+  c) A pessoa jurídica preponderantemente exportadora, assim considerada aquela cuja receita
+  bruta decorrente de exportação para o exterior, no ano-calendário imediatamente anterior
+  ao da aquisição, houver sido igual ou superior a 50% de sua receita bruta total de venda de
+  bens e serviços no mesmo período, após excluídos os impostos e contribuições incidentes
+  sobre a venda, poderá importar com suspensão do pagamento da contribuição para o
+  PIS/PASEP-Importação e da COFINS-Importação matérias-primas, produtos intermediários e
+  materiais de embalagem.
+
+  d) O REPES é o regime que permite a importação de bens novos destinados ao
+  desenvolvimento, no País, de software e de serviços de tecnologia da informação, quando
+  importados diretamente pelo beneficiário do regime para incorporação ao seu ativo
+  imobilizado, com suspensão do pagamento da contribuição para o PIS/PASEP-Importação e
+  da COFINS-Importação.
+
+  e) O REIDI é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+  equipamentos, novos, e de materiais de construção, quando importados diretamente pelo
+  beneficiário do regime para utilização ou incorporação em obras de infraestrutura destinadas
+  ao ativo imobilizado, com suspensão da contribuição para o PIS/PASEP-Importação e da
+  COFINS-Importação.
+
+Comentários
+
+Letra A: errada. O RECAP está previsto no art. 271, do R/A. A questão está quase certa. O erro
+foi ter mencionado “alíquota zero”. Na verdade, o RECAP dá ensejo à suspensão do PIS/PASEP-
+Importação e da COFINS-Importação.
+
+Letra B: correta. Exatamente o que prevê o art. 282, do R/A, acerca do PADIS. Guarde bem: PADIS
+é caso de redução a zero da alíquota do PIS/PASEP-Importação e da COFINS-Importação.
+
+Letra C: correta. São pessoas jurídicas preponderantemente exportadoras aquelas cuja receita
+decorrente de exportações de bens e serviços equivale a 50% da receita bruta total da venda de
+bens e serviços. Essas empresas farão jus à suspensão de PIS/PASEP-Importação e COFIN-
+Importação.
+
+
+---
+
+Letra D: correta. Exatamente o que prevê o art. 264, do R/A.
+
+Letra E: correta. Exatamente o que prevê o art. 286, do R/A.
+
+Gabarito: letra A
+
+8. (Questão Inédita) Assinale a alternativa correta acerca do PIS/PASEP-Importação e da COFINS-
+   Importação:
+
+  a) O depositário, assim considerada qualquer pessoa incumbida da custódia de bem sob
+  controle aduaneiro, é contribuinte do PIS/PASEP-Importação e da COFINS-Importação.
+
+  b) São isentas da contribuição para o PIS/PASEP-Importação e da COFINS-Importação as
+  importações de máquinas, aparelhos, instrumentos e equipamentos, novos, quando
+  destinadas ao ativo imobilizado da empresa.
+
+  c) A base de cálculo da contribuição para o PIS/PASEP-Importação e da COFINS-Importação
+  é o valor aduaneiro acrescido do valor do imposto de importação e dos encargos cambiais
+  efetivamente pagos pelo importador ou dele exigíveis.
+
+  d) Para efeito de cálculo da contribuição para o PIS/PASEP-Importação e da COFINS-
+  Importação, considera-se ocorrido o fato gerador na data do desembaraço aduaneiro.
+
+  e) O fato gerador da contribuição para o PIS/PASEP-Importação e a COFINS-Importação é a
+  entrada de bens estrangeiros no território nacional. Para efeito de ocorrência do fato
+  gerador, consideram-se entrados no território aduaneiro os bens que constem como tendo
+  sido importados e cujo extravio venha a ser apurado pela autoridade aduaneira.
+
+Comentários
+
+Letra A: errada. O depositário é responsável solidário pelo PIS/PASEP-Importação e COFINS-
+Importação.
+
+Letra B: errada. Essa hipótese de isenção não existe.
+
+Letra C: errada. A assertiva descreve a base de cálculo do IPI. A base de cálculo do PIS/PASEP-
+Importação e da COFINS-Importação é o valor aduaneiro.
+
+
+---
+
+Letra D: errada. O fato gerador do PIS/PASEP-Importação e COFINS-Importação considera-se
+ocorrido na data de registro da DI de bens submetidos a despacho para consumo.
+
+Letra E: correta. Perfeita a assertiva! O fato gerador do PIS/PASEP-Importação e da COFINS-
+Importação é a entrada de mercadoria estrangeira no território nacional. No caso de extravio da
+mercadoria, presume-se que os bens ingressaram em território aduaneiro, sendo exigível o valor
+dessas contribuições.
+
+Gabarito: letra E
+
+9. (AFRFB – 2014) O Regime Especial Tributário para a Indústria de Defesa – RETID é o que
+   permite a importação de bens de defesa nacional com suspensão da Contribuição do
+   PIS/PASEP-Importação e da COFINS-Importação, além de outros tributos, quando a
+   importação for efetuada por pessoa jurídica beneficiária do RETID. Como uma política de
+   incentivo ao desenvolvimento das empresas brasileiras na área, as pessoas jurídicas optantes
+   pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+   Microempresas e Empresas de Pequeno Porte – Simples Nacional, de que trata a Lei
+   Complementar n. 123, de 14 de dezembro de 2006, podem habilitar-se ao RETID.
+
+Comentários
+
+As empresas optantes pelo SIMPLES-Nacional não podem ser beneficiárias do RETID.
+
+Gabarito: errada
+
+10. (AFRFB-2012) Há previsão legal de suspensão da exigência da Contribuição para o PIS/PASEP-
+    Importação e da COFINS-Importação nas importações efetuadas por empresas localizadas na
+    Zona Franca de Manaus, de matérias-primas, produtos intermediários e materiais de
+    embalagem para emprego em processo de industrialização por estabelecimentos industriais
+    instalados na Zona Franca de Manaus e consoante projetos aprovados pelo Conselho de
+    Administração da Superintendência da Zona Franca de Manaus.
+
+Comentários
+
+
+---
+
+Nas importações de matérias-primas, produtos intermediários e materiais de embalagem para
+emprego em processo de industrialização por estabelecimentos industriais instalados na ZFM,
+haverá suspensão de PIS/PASEP-Importação e COFINS-Importação.
+
+Gabarito: certa
+
+11. (AFRFB-2012) O Regime Especial de Tributação para a Plataforma de Exportação de Serviços
+    de Tecnologia da Informação – REPES permite a importação de bens novos destinados ao
+    desenvolvimento, no País, de software e de serviços de tecnologia da informação, quando
+    importados diretamente pelo beneficiário do Regime para incorporação ao seu ativo
+    imobilizado, com suspensão do pagamento da Contribuição para o PIS/PASEP-Importação e
+    da COFINS-Importação.
+
+Comentários
+
+Essa é a exata descrição do REPES (Regime Especial de Tributação para a Plataforma de
+Exportação de Serviços de Tecnologia da Informação). O beneficiário do regime irá importar, com
+suspensão de PIS/PASEP-Importação e COFINS-Importação, bens novos destinados ao
+desenvolvimento, no País, de softwares e serviços de tecnologia da informação. Destaque-se que
+esses bens devem ser incorporados ao ativo imobilizado da empresa.
+
+Para ser beneficiária do REPES, a empresa deve exercer preponderantemente a atividade de
+desenvolvimento de softwares e prestação de serviços de tecnologia da informação e, além disso,
+assumir compromisso anual de exportação de 50% da receita bruta decorrente da venda de bens
+e serviços.
+
+Gabarito: certa
+
+12. (AFRFB-2012) De acordo com o art. 2º da Lei n. 11.196, de 21 de novembro de 2005, com
+    redação dada pelo art. 52 da Medida Provisória n. 563, de 3 de abril de 2012, é beneficiária
+    do Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia
+    da Informação – REPES, a pessoa jurídica que exerça preponderantemente as atividades de
+    desenvolvimento de software ou de prestação de serviços de tecnologia da informação, e que,
+    por ocasião da sua opção pelo REPES, assuma compromisso de exportação igual ou superior
+    a setenta por cento de sua receita bruta anual decorrente da venda dos referidos bens e
+    serviços.
+
+
+---
+
+Comentários
+
+No REPES, o compromisso de exportação anual é de 50% da receita bruta decorrente da venda
+de bens e serviços.
+
+Gabarito: errada
+
+13. (AFRFB-2012) O Regime Especial de Aquisição de Bens de Capital para Empresas
+    Exportadoras – RECAP permite a importação de máquinas, aparelhos, instrumentos e
+    equipamentos, novos, relacionados em ato normativo específico, quando importados
+    diretamente pelo beneficiário do regime para incorporação ao seu ativo imobilizado, com
+    suspensão do pagamento da contribuição para o PIS/PASEP-Importação e da COFINS-
+    Importação. O benefício de suspensão poderá ser usufruído nas importações realizadas no
+    período de cinco anos contados da data de adesão ao RECAP.
+
+Comentários
+
+O beneficiário do RECAP tem direito a importar, com suspensão de PIS/PASEP-Importação e
+COFINS-Importação, máquinas, aparelhos, instrumentos e equipamentos, novos, relacionados em
+ato normativo específico. Tais bens deverão integrar o ativo imobilizado da empresa beneficiária
+do RECAP.
+
+Para ser beneficiária do RECAP, a pessoa jurídica precisa ser enquadrada como empresa
+preponderantemente exportadora, assim considerada aquela que, no ano-calendário anterior à
+adesão ao regime, tenha obtido receita decorrente de exportações correspondente a 50% de sua
+receita bruta total de venda de bens e serviços. A empresa deverá, ainda, assumir o compromisso
+de manter esse percentual de exportação durante 2 anos.
+
+Até aí a questão estava bem! O problema é que o RECAP subsiste apenas pelo período de três
+anos da adesão ao regime (e não 5 anos, como fala a questão).
+
+Gabarito: errada
+
+14. (AFRFB-2012) O Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura –
+    REIDI permite a importação de máquinas, aparelhos, instrumentos e equipamentos, novos, e
+    de materiais de construção, quando importados diretamente pelo beneficiário do regime para
+
+
+---
+
+   utilização ou incorporação em obras de infraestrutura destinadas ao ativo imobilizado, com
+   redução a um por cento das alíquotas da contribuição para o PIS/PASEP-Importação e da
+   COFINS-Importação.
+
+Comentários
+
+O REIDI permite a importação de bens novos, com suspensão do PIS/PASEP-Importação e da
+COFINS-Importação, para utilização ou incorporação em obras de infraestrutura destinadas ao
+ativo imobilizado do beneficiário do regime.
+
+Gabarito: errada
+
+15. (AFRFB-2012) É beneficiária do Regime Especial de Incentivos para o Desenvolvimento da
+    Infraestrutura – REIDI somente a pessoa jurídica que tenha projeto aprovado para implantação
+    de obras de infraestrutura nos setores de transportes, portos, energia e irrigação.
+
+Comentários
+
+É beneficiária do REIDI a pessoa jurídica que tenha projeto aprovado para implantação de obras
+de infraestrutura nos setores de transportes, portos, energia, saneamento básico e irrigação. Ao
+usar a palavra “somente”, a questão ficou errada.
+
+Gabarito: errada
+
+16. (Questão Inédita) Segundo o STF, é inconstitucional a inclusão, na base de cálculo do
+    PIS/PASEP-Importação e COFINS-Importação, do ICMS e dos valores relativos a essas
+    contribuições.
+
+Comentários
+
+Perfeita a assertiva, conforme decisão proferida no RE 559.937/RS.
+
+Gabarito: certa
+
+
+---
+
+                            QUESTÕES COMENTADAS
+
+CIDE-Combustíveis
+
+1. (IPE Saúde – 2022) As contribuições sociais e de intervenção no domínio econômico não
+   incidirão sobre a importação de produtos estrangeiros ou serviços.
+
+Comentários
+
+Nos termos do artigo 149, §2º, inciso II, da Constituição da República, as contribuições sociais e
+de intervenção no domínio econômico também incidem sobre a importação de produtos
+estrangeiros ou serviços.
+
+Gabarito: errada
+
+2. (Exame de Despachante Aduaneiro – 2014) A respeito do fato gerador dos tributos incidentes
+   no comércio exterior, assinale a opção correta.
+
+  a) O imposto de exportação tem como fato gerador a saída da mercadoria da empresa
+  exportadora com destino a um recinto alfandegado de zona primária ou secundária.
+
+  b) O fato gerador da contribuição para o PIS/PASEP-Importação e da COFINS-Importação é
+  a entrega da mercadoria estrangeira ao importador ou seu representante.
+
+  c) O fato gerador do ICMS é o registro da declaração de importação da mercadoria
+  estrangeira.
+
+  d) A CIDE-Combustíveis tem como fato gerador, entre outros, as operações de exportação
+  de diesel e suas correntes.
+
+  e) O fato gerador do IPI, na importação, é o desembaraço aduaneiro de produto de
+  procedência estrangeira.
+
+Comentários
+
+
+---
+
+Letra A: errada. O fato gerador do imposto de exportação é a saída de mercadoria do território
+aduaneiro.
+
+Letra B: errada. O fato gerador das contribuições PIS/PASEP-Importação e COFINS-Importação é
+a entrada de bens estrangeiros no território aduaneiro.
+
+Letra C: errada. O fato gerador do ICMS vinculado à importação é o desembaraço aduaneiro.
+
+Letra D: errada. Há imunidade da CIDE-Combustíveis na exportação.
+
+Letra E: correta. É isso mesmo! O fato gerador do IPI vinculado à importação é o desembaraço
+aduaneiro de produto de procedência estrangeira.
+
+Gabarito: letra E
+
+3. (AFRFB – 2014) A Lei nº 10.336, de 19 de dezembro de 2001, instituiu a Cide-Combustíveis,
+   que é uma Contribuição de Intervenção no Domínio Econômico. Sobre a Cide- Combustíveis,
+   é incorreto afirmar que:
+
+  a) a Cide-Combustíveis tem como fatos geradores as operações de comercialização no
+  mercado interno e a importação de combustíveis.
+
+  b) é isenta da Cide-Combustíveis a nafta petroquímica, importada ou adquirida no mercado
+  interno, destinada à elaboração de quaisquer produtos petroquímicos.
+
+  c) são ainda isentos da Cide-Combustíveis os produtos vendidos a empresa comercial
+  exportadora com o fim específico de exportação para o exterior.
+
+  d) a Cide incide sobre álcool etílico combustível destinado a consumo no País.
+
+  e) é responsável solidário pela Cide o adquirente de mercadoria de procedência estrangeira,
+  no caso de importação realizada por sua conta e ordem, por intermédio de pessoa jurídica
+  importadora.
+
+Comentários
+
+
+---
+
+Letra A: correta. Segundo o art. 298, do Regulamento Aduaneiro, a CIDE-Combustíveis incide
+sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados,
+e álcool etílico combustível. Assim, a importação de combustíveis e a comercialização no mercado
+interno são fatos geradores da CIDE-Combustíveis.
+
+Letra B: errada. Não existe mais a isenção da CIDE-Combustíveis para a nafta petroquímica, já
+tendo sido revogada. Mesmo quando essa isenção existia, ela não se aplicava a “quaisquer
+operações” envolvendo a nafta petroquímica.
+
+Letra C: correta. É o que está previsto no art. 10, da Lei nº 10.336/2001. Os combustíveis vendidos
+para empresa comercial exportadora com o fim específico de exportação estão isentos da CIDE-
+Combustíveis. Nada mais natural, afinal, a venda para empresa comercial exportadora é
+equiparada à exportação (e você sabe que as exportações brasileiras são desoneradas.
+
+Letra D: correta. O álcool etílico combustível está, sim, no campo de incidência da CIDE-
+Combustíveis.
+
+Letra E: correta. Segundo o art. 301, do R/A, é responsável solidário pela CIDE-Combustíveis o
+adquirente de mercadoria de procedência estrangeira, no caso de importação realizada por sua
+conta e ordem, por intermédio de pessoa jurídica importadora.
+
+Gabarito: letra B
+
+4. (TRF-2003) Em relação à Contribuição de Intervenção no Domínio Econômico sobre a
+   importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e
+   álcool etílico combustível (Cide), é incorreto afirmar que:
+
+  a) as operações de importação e de comercialização no mercado interno de querosene de
+  aviação constituem fatos geradores da Cide.
+
+  b) o formulador de combustível líquido, derivados de petróleo e derivados de gás natural é
+  contribuinte da Cide.
+
+  c) a base de cálculo da Cide, na comercialização no mercado interno, é o valor da operação
+  de que decorrer a saída, do estabelecimento do contribuinte, de petróleo e seus derivados,
+  gás natural e seus derivados, e álcool etílico combustível.
+
+
+---
+
+  d) a Cide não incide sobre as receitas de exportação, para o exterior, de petróleo e seus
+  derivados, gás natural e seus derivados, e álcool etílico combustível.
+
+  e) é responsável solidário pela Cide o adquirente de mercadoria de procedência estrangeira,
+  no caso de importação realizada por sua conta e ordem, por intermédio de pessoa jurídica
+  importadora.
+
+Comentários
+
+Letra A: correta. A CIDE-Combustíveis incide sobre a importação e comercialização (venda no
+mercado interno) de petróleo e seus derivados, gás natural e seus derivados e álcool etílico
+combustível. O querosene de aviação também está no campo de incidência da CIDE-
+Combustíveis.
+
+Letra B: correta. Na importação, o contribuinte da CIDE-Combustíveis será o importador.
+Entretanto, nas operações de comercialização no mercado interno, são contribuintes da CIDE-
+Combustíveis são o produtor e o formulador dos combustíveis objeto da incidência dessa
+contribuição.
+
+Letra C: errada. A base de cálculo da CIDE-Combustíveis é a unidade de medida estabelecida
+para os produtos objeto de sua incidência.
+
+Letra D: correta. Na exportação, há imunidade da CIDE-Combustíveis.
+
+Letra E: correta. O adquirente de mercadoria de procedência estrangeira, no caso de importação
+realizada por sua conta e ordem, por intermédio de pessoa jurídica importadora, será responsável
+solidário pelo pagamento da CIDE-Combustíveis.
+
+Gabarito: letra C
+
+5. (AFRFB-2005) A Contribuição de Intervenção no Domínio Econômico incidente sobre a
+   importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e
+   álcool etílico combustível (CIDE) foi instituída pela União com a finalidade de financiamento de
+   projetos de proteção ao meio ambiente, ao consumidor, a bens e direitos de valor artístico,
+   estético, histórico, turístico e paisagístico.
+
+
+---
+
+Comentários
+
+Os recursos da CIDE-Combustíveis, dentre outras finalidades, são destinados ao financiamento de
+projetos ambientais relacionados com a indústria do petróleo e do gás.
+
+Gabarito: errada
+
+6. (Questão Inédita) A redução e restabelecimento de alíquotas da CIDE-Combustíveis pelo
+   Poder Executivo é inconstitucional.
+
+Comentários
+
+O artigo 177, §4º, inciso I, alínea “b”, da Constituição da República, traz autorização expressa para
+que as alíquotas da CIDE-Combustíveis possam ser reduzidas e restabelecidas por ato do Poder
+Executivo.
+
+Gabarito: errada
+
+
+---
+
+                           QUESTÕES COMENTADAS
+
+Taxa SISCOMEX
+
+1. (Ajudante de Despachante Aduaneiro – 2018 - adaptada) Segundo o disposto na Instrução
+   Normativa SRF n. 680, de 2 de outubro de 2006, a Taxa de Utilização do Siscomex será devida
+   no ato do registro da Declaração de Importação (DI) à razão de:
+
+  a) R$ 30,00 por DI.
+
+  b) R$ 10,00 para cada adição de mercadoria à DI, observados os limites definidos na referida
+  Instrução Normativa.
+
+  c) R$ 50,00 para cada adição de mercadoria à DI, observados os limites definidos na referida
+  Instrução Normativa.
+
+  d) R$ 50,00 por DI.
+
+  e) R$ 115,67 por DI e R$ 38,56 para cada adição de mercadoria à DI, observados os limites
+  definidos na referida Instrução Normativa.
+
+Comentários
+
+De acordo com o disposto no artigo 13, da Instrução Normativa SRF nº 680/06, com a redação
+dada pela Instrução Normativa RFB nº 2.024/21, a taxa de utilização do SISCOMEX será devida no
+ato do registro da DI ou da DUIMP à razão de R$ 115,67 (cento e quinze reais e sessenta e sete
+centavos) por DI ou DUIMP e R$ 38,56 (trinta e oito reais e cinquenta e seis centavos) para cada
+adição de mercadoria, observado os limites definidos na IN.
+
+Gabarito: letra E
+
+2. (Questão Inédita) Aplicam-se à cobrança da Taxa SISCOMEX as normas referentes ao Imposto
+   de Importação.
+
+Comentários
+
+
+---
+
+De fato, aplicam-se à cobrança da Taxa SISCOMEX as normas referentes ao Imposto de
+Importação, por força do disposto no artigo 3º, §3º, da Lei nº 9.716/98.
+
+Gabarito: certa
+
+3. (Questão Inédita) A vinculação do produto da arrecadação da Taxa SISCOMEX não pôde ser
+   estabelecida pela lei que instituiu o tributo por ser vedada pela Constituição da República.
+
+Comentários
+
+O produto da arrecadação da Taxa SISCOMEX fica vinculado ao FUNDAF, conforme artigo 3º,
+§4º, da Lei nº 9.716/98. Lembrem-se que o artigo 167, inciso IV, da Constituição da República,
+veda a vinculação da receita de impostos a órgão, fundo ou despesa.
+
+Gabarito: errada
+
+
+---
+
+                            QUESTÕES COMENTADAS
+
+Incentivos fiscais à exportação
+
+1. (Questão Inédita/2022) Assinale a alternativa correta sobre os incentivos fiscais à exportação:
+
+  a) O crédito presumido de IPI consiste na manutenção e utilização do crédito do IPI relativo
+  aos insumos empregados na industrialização de produtos exportados.
+
+  b) O ICMS não incidirá sobre operações que destinem mercadorias para o exterior, nem
+  sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o
+  aproveitamento do montante do imposto cobrado nas operações e prestações anteriores
+
+  c) O imposto de importação, o ICMS e as contribuições para PIS/PASEP-Importação e a
+  COFINS-Importação não incidem nas importações realizadas pelas empresas optantes pelo
+  SIMPLES Nacional.
+
+  d) As contribuições sociais e as contribuições de intervenção no domínio econômico incidem
+  sobre as receitas decorrentes de exportação.
+
+  e) Embora a venda de mercadorias a uma empresa comercial exportadora seja equiparada à
+  exportação, o produtor-vendedor não fará jus, nessa operação, aos incentivos fiscais
+  concedidos a uma exportação.
+
+Comentários
+
+Letra A: errada. A manutenção e utilização do crédito do IPI relativo aos insumos empregados na
+industrialização de produtos exportados está prevista na Lei nº 8.402/92, não se confundindo com
+o crédito presumido de IPI, que é outro benefício fiscal.
+
+Letra B: correta. A Constituição de 1988 garante ao ICMS um duplo benefício fiscal na exportação:
+i) imunidade de ICMS na exportação e; ii) manutenção e aproveitamento do imposto cobrado nas
+operações e prestações anteriores.
+
+Letra C: errada. O Imposto de Importação, o ICMS e as contribuições sociais para o PIS/PASEP-
+Importação e a COFINS-Importação incidem normalmente nas importações realizadas pelas
+empresas optantes pelo SIMPLES Nacional.
+
+Letra D: errada. Na exportação, existe imunidade das contribuições sociais e contribuições de
+intervenção no domínio econômico.
+
+
+---
+
+Letra E: errada. De fato, a venda a empresa comercial exportadora é equiparada à exportação, e,
+por isso, o produtor-vendedor fará jus a todos os benefícios fiscais aplicáveis a uma exportação.
+
+Gabarito: letra B
+
+2. (Questão Inédita/2022) As receitas decorrentes de exportação de mercadorias para o exterior,
+   inclusive as vendas realizadas por meio de empresa comercial exportadora ou de sociedade
+   de propósito específico, devem ser segregadas para fins de redução do montante a ser
+   recolhido na forma do SIMPLES Nacional.
+
+Comentários
+
+Perfeito. Isso é o que prevê o artigo 18, §4º-A, inciso IV, e §14, da Lei Complementar nº 123/06.
+
+Gabarito: certa
+
+3. (Questão Inédita/2022) O aproveitamento dos créditos de ICMS por ocasião da saída imune
+   para o exterior não gera receita tributável para fins de apuração da base de cálculo do PIS e
+   da COFINS.
+
+Comentários
+
+De fato, o aproveitamento dos créditos de ICMS por ocasião da saída imune para o exterior não
+gera receita tributável para fins de apuração da base de cálculo do PIS e da COFINS, conforme
+entendimento assentado no âmbito do STF por ocasião do julgamento do RE 606.107-RS.
+
+Gabarito: certa
+
+4. (Questão Inédita/2022) É inconstitucional a incidência da contribuição ao PIS e da COFINS
+   sobre a receita decorrente da variação cambial positiva obtida nas operações de exportação
+   de produtos.
+
+Comentários
+
+Nos termos do item V da ementa do julgamento do RE 627.815-PR: "Assenta esta Suprema Corte,
+ao exame do leading case, a tese da inconstitucionalidade da incidência da contribuição ao PIS e
+da COFINS sobre a receita decorrente da variação cambial positiva obtida nas operações de
+exportação de produtos".
+
+Gabarito: certa
+
+5. (SEFAZ/RR – 2021) Microempresas e empresas de pequeno porte que sejam optantes do
+   simples nacional e que realizem descarregamento de mercadoria de embarcação em porto
+
+
+---
+
+   marítimo brasileiro estão dispensadas de efetuar o pagamento do adicional ao frete para
+   renovação da marinha mercante (AFRMM).
+
+Comentários
+
+As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam
+dispensadas do pagamento do AFRMM, conforme artigo 13, §3º, da Lei Complementar nº 123/06.
+
+Gabarito: certa
+
+6. (AFRF-2003 - adaptada) Com relação aos incentivos fiscais à exportação no Brasil, é correto
+   afirmar que
+
+  a) às exportações amparadas por Registro de Exportação Simplificada (RES), Declaração
+  Simplificada de Exportação (DSE), Remessa Postal Internacional e Contrato de Câmbio
+  Simplificado, não são assegurados os mesmos incentivos fiscais concedidos às vendas
+  externas realizadas pelo sistema tradicional, tendo em vista que a simplificação, desonerando
+  as empresas dos custos administrativos, já constitui um incentivo.
+
+  b) o elenco de incentivos fiscais à exportação no Brasil contempla as empresas optantes pelo
+  SIMPLES e as mercadorias submetidas ao regime aduaneiro especial de entreposto
+  industrial.
+
+  c) a não-incidência (imunidade constitucional) do IPI sobre produtos destinados ao exterior
+  não é aplicável apenas àqueles obtidos nas operações de recondicionamento e
+  acondicionamento (embalagem de apresentação).
+
+  d) o índice de 5,37% a ser aplicado para se obter a importância a ser ressarcida sob a forma
+  de crédito fiscal presumido do IPI é calculado sobre as contribuições do PIS e COFINS
+  incidentes apenas nas aquisições de matérias-primas e produtos intermediários nacionais e
+  nacionalizados, vedado o benefício à empresa equiparada a industrial que exporte produto
+  mandado industrializar por encomenda, com a remessa por ela efetuada de insumos
+  necessários à industrialização.
+
+  e) o regime aduaneiro especial de drawback, consistindo num incentivo à exportação de
+  produtos fabricados no mercado interno (Regulamento Aduaneiro, art. 335), visa desonerar
+  o industrial exportador do IPI e demais tributos incidentes na exportação dos produtos finais
+  discriminados nos respectivos Atos Concessórios.
+
+Comentários
+
+Letra A: errada. Não há qualquer impedimento na concessão de incentivos fiscais às exportações
+nas operações elencadas pela assertiva. Destaco, apenas, que, atualmente, não existe mais o
+
+
+---
+
+Registro de Exportação Simplificada, documento este que era utilizado no controle administrativo
+das exportações.
+
+Letra B: correta. As empresas optantes pelo SIMPLES Nacional fazem jus aos incentivos fiscais à
+exportação, uma vez que as receitas decorrentes da exportação são abatidas do valor a ser
+recolhido na forma do SIMPLES Nacional.
+
+Quanto ao Regime de Entreposto Industrial (RECOF), trata-se de regime aduaneiro especial que
+beneficia a importação, sob controle aduaneiro informatizado, de mercadorias que, depois de
+submetidas a operação de industrialização, sejam destinadas à exportação (artigo 420, do R/A).
+Estudaremos o RECOF em maiores detalhes em aula posterior, ok?
+
+Letra C: errada. A imunidade de IPI se aplica a todos os produtos industrializados destinados ao
+exterior.
+
+Letra D: errada. A base de cálculo do crédito presumido será determinada mediante a aplicação,
+sobre o valor total das aquisições de matérias-primas, produtos intermediários e material de
+embalagem, do percentual correspondente à relação entre a receita de exportação e a receita
+operacional bruta do produtor exportador. Sobre essa base de cálculo, incidirá a alíquota de
+5,37% para determinar-se o valor do crédito presumido
+
+Letra E: errada. O drawback não desonera os produtos finais exportados. O drawback desonera a
+importação de bens a serem utilizados no processo produtivo de um bem a ser exportado.
+
+Gabarito: letra B
+
+7. (AFTN 1998) O crédito presumido do IPI, como ressarcimento das contribuições para o
+   PIS/PASEP e COFINS incidentes sobre as respectivas aquisições, no mercado interno, de
+   matérias-primas, produtos intermediários e material de embalagem, para utilização no
+   processo produtivo, beneficia:
+
+  a) exclusivamente a empresa produtora de mercadorias nacionais fornecidas a
+  empreendimentos de relevante interesse nacional, assim definidos em legislação específica
+
+  b) exclusivamente a empresa comercial exportadora relativamente ao IPI incidente nas
+  aquisições no mercado interno, de produtos intermediários, utilizados no processo produtivo
+  do fabricante intermediário
+
+  c) exclusivamente a empresa produtora e exportadora de mercadorias nacionais, inclusive as
+  por ela vendidas a empresa comercial exportadora com o fim específico de exportação para
+  o exterior.
+
+  d) exclusivamente a empresa produtora e exportadora de mercadorias nacionais e
+  nacionalizadas.
+
+
+---
+
+  e) conjuntamente, a empresa produtora e exportadora de mercadorias nacionais e a empresa
+  comercial exportadora adquirente de seus produtos para revenda a entreposto de
+  exportação.
+
+Comentários
+
+Questão bastante direta! O crédito presumido do IPI beneficia exclusivamente a empresa
+produtora e exportadora de mercadorias nacionais, inclusive as por ela vendidas a empresa
+comercial exportadora com o fim específico de exportação para o exterior. A resposta é a letra C.
+
+Gabarito: letra C
+
+8. (AFTN-1996) Os incentivos fiscais ao comércio exterior abrangem, entre outros, a:
+
+  a) Isenção dos impostos incidentes sobre o comércio de cargas e de passageiros.
+
+  b) Suspensão do Imposto de Renda sobre o lucro das operações de comércio exterior
+
+  c) Exoneração de impostos sobre a exportação de produtos industrializados e da
+  Contribuição para o Financiamento da Seguridade Social.
+
+  d) Eliminação dos impostos sobre a importação de bens industrializados e sobre a exportação
+  de bens primários.
+
+  e) Concessão de fundos para o financiamento de importações e exportações.
+
+Comentários
+
+Letra A: errada. Será que a ESAF estava falando mesmo em “comércio de passageiros”?
+
+Letra B: errada. Não há suspensão do imposto de renda sobre o lucro decorrente das operações
+de comércio exterior.
+
+Letra C: correta. Na exportação, há imunidade de IPI, PIS/PASEP e COFINS.
+
+Letra D: errada. Não houve eliminação de impostos sobre a importação de bens industrializados.
+
+Letra E: errada. Um fundo destinado a financiar importações não pode ser considerado incentivo
+à exportação.
+
+Gabarito: letra C
+
+
+---
+
+                                LISTA DE QUESTÕES
+
+Imposto de Exportação
+
+1. (Prefeitura de São João da Ponte/MG - 2021) A respeito do princípio da anterioridade, em
+   sede de Direito Tributário, julgue o item a seguir.
+
+   O imposto de importação e o imposto de exportação são dois exemplos de tributos que
+   podem ser cobrados a partir da própria data de publicação da lei que os institui, o que os torna
+   exceções tanto ao princípio da anterioridade anual quanto ao da nonagesimal.
+
+2. (Petrobrás - 2018) No Brasil, a definição das alíquotas de impostos incidentes sobre produtos
+   exportados é da alçada da
+
+a) Secretaria de Comércio Exterior (SECEX)
+
+b) Secretaria de Política Econômica, do Ministério da Fazenda
+
+c) Câmara de Comércio Exterior (CAMEX)
+
+d) Diplomacia Econômica, Comercial e Financeira, do Ministério das Relações Exteriores
+
+e) Agência Brasileira de Promoção de Exportações e Investimentos (APEX-Brasil)
+
+3. (AFRF-2002.2-adaptada) O preço normal determinado legalmente para apuração da base de
+   cálculo do imposto de exportação corresponde:
+
+  a) ao preço da mercadoria, ou seu similar fixado periodicamente pela Câmara de Comércio
+  Exterior em pauta de valor mínimo vigente ao tempo da exportação.
+
+  b) ao valor externo da mercadoria, identificado como o preço com que a mesma ou similar é
+  normalmente oferecida à venda no mercado atacadista do país, somado às despesas para
+  sua colocação no ponto de saída (porto, aeroporto ou fronteira terrestre), deduzidos, quando
+  for o caso, os impostos exigíveis para consumo interno e recuperáveis pela exportação.
+
+
+---
+
+  c) ao preço que a mercadoria, ou seu similar, alcançaria ao tempo da exportação, em uma
+  venda em condições de livre concorrência no mercado internacional, observadas as normas
+  expedidas pela Câmara de Comércio Exterior.
+
+  d) ao valor de transação, ou seja, o preço efetivamente pago ou a ser pago pelo comprador
+  no exterior.
+
+  e) ao preço nunca inferior a um preço de referência fixado pela Secretaria de Comércio
+  Exterior para a mercadoria a ser exportada sendo o parâmetro utilizado para sua aceitação
+  no SISCOMEX.
+
+4. (TRF-2002.1) O pagamento do Imposto de Exportação será realizado na forma e momento
+   fixados pelo:
+
+  a) Ministro do Desenvolvimento, Indústria e Comércio Exterior, que poderá determinar sua
+  exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser exportada.
+
+  b) Ministro da Fazenda, que poderá determinar sua exigibilidade antes da efetiva saída do
+  território aduaneiro da mercadoria a ser exportada.
+
+  c) Secretário-Executivo da Câmara de Comércio Exterior-CAMEX, que poderá determinar
+  sua exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser
+  exportada.
+
+  d) Diretor do Departamento de Comércio Exterior, da Secretaria do Comércio Exterior do
+  Ministério do Desenvolvimento, Indústria e Comércio Exterior, que poderá determinar sua
+  exigibilidade antes da efetiva saída do território aduaneiro da mercadoria a ser exportada.
+
+  e) Presidente do Banco Central do Brasil, que poderá determinar sua exigibilidade antes da
+  efetiva saída do território aduaneiro da mercadoria a ser exportada.
+
+5. (TRF-2003) Assinale a opção correta.
+
+  a) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+  relacionadas em lei complementar, tendo como fato gerador sua saída do território
+  aduaneiro, que se considera ocorrida na data de registro da exportação no Siscomex; sua
+
+
+---
+
+base de cálculo é o preço normal ou o preço apurado segundo critérios específicos fixados
+ou pauta de valor mínimo estabelecida pela CAMEX (Câmara de Comércio Exterior); a
+alíquota é de 30%, podendo ser elevada, pela CAMEX, para até 150%; o prazo de
+pagamento é fixado pelo Ministro da Fazenda.
+
+b) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+relacionadas pela CAMEX, tendo como fato gerador sua saída do território aduaneiro, que
+se considera ocorrida na data de registro da exportação no Siscomex; sua base de cálculo é
+o preço normal ou o preço apurado segundo critérios específicos fixados ou pauta de valor
+mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser elevada, pela CAMEX,
+para até 150%; o prazo de pagamento é fixado pela CAMEX.
+
+c) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+relacionadas pela CAMEX, tendo como fato gerador sua saída do território aduaneiro, que
+se considera ocorrida na data de registro da exportação no Siscomex; sua base de cálculo é
+o preço normal ou o preço apurado segundo critérios específicos fixados ou pauta de valor
+mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser elevada, pelo Ministro
+da Fazenda, para até 150%; o prazo de pagamento é fixado pela CAMEX.
+
+d) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+relacionadas pela CAMEX, tendo como fato gerador sua saída do território aduaneiro, que
+se considera ocorrida na data de registro da exportação no Siscomex; sua base de cálculo é
+o preço normal ou o preço apurado segundo critérios específicos fixados ou pauta de valor
+mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser elevada, pela CAMEX,
+para até 150%; o prazo de pagamento é fixado pelo Ministro da Fazenda.
+
+e) O Imposto de Exportação incide sobre mercadorias nacionais ou nacionalizadas,
+relacionadas em lei complementar, tendo como fato gerador sua saída do território
+aduaneiro, que se considera ocorrida na data de registro da exportação no Siscomex; sua
+base de cálculo é o preço normal ou o preço apurado segundo critérios específicos fixados
+ou pauta de valor mínimo estabelecida pela CAMEX; a alíquota é de 30%, podendo ser
+elevada, pela CAMEX, para até 150%; o prazo de pagamento é fixado pelo Ministro da
+Fazenda, ad referendum da CAMEX.
+
+
+---
+
+6. (TRF-2002.1) As normas legais e regulamentares que dispõem sobre o Imposto de Exportação
+   prescrevem que:
+
+  a) o Imposto de Exportação incide sobre mercadoria nacional ou nacionalizada destinada ao
+  exterior.
+
+  b) a base de cálculo do Imposto de Exportação é o preço normal que a mercadoria, ou seu
+  similar, alcançaria ao tempo de uma exportação, em uma venda em condições de livre
+  concorrência no mercado internacional, observadas as normas expedidas pelo Conselho de
+  Política Aduaneira do Ministério da Fazenda.
+
+  c) poderá o Ministro do Desenvolvimento, Indústria e Comércio Exterior reduzir ou elevar a
+  alíquota para atender aos objetivos da política cambial e do comércio exterior.
+
+  d) considera-se ocorrido o fato gerador do Imposto de Exportação na data do efetivo
+  embarque, devidamente comprovada pela exibição do conhecimento de transporte.
+
+  e) Na administração do Imposto de Exportação aplicar-se-ão supletivamente as normas que
+  regulam a administração.
+
+7. (ACE-2012) A respeito do Imposto sobre Exportações, é correto afirmar que:
+
+  a) incide sobre mercadoria nacional ou nacionalizada destinada ao exterior e tem como fato
+  gerador sua saída do território nacional.
+
+  b) incide sobre bens não essenciais exportados para consumo final e tem como fato gerador
+  o registro de exportação no Sistema Integrado de Comércio Exterior.
+
+  c) incide sobre mercadoria nacional destinada ao exterior e tem como base de cálculo o valor
+  aduaneiro do bem exportado.
+
+  d) sua alíquota está fixada em 30%, sem possibilidades de redução ou majoração, e tem
+  como base de cálculo o preço normal que a mercadoria alcançaria em uma venda em
+  condições livre de concorrência no mercado internacional.
+
+
+---
+
+  e) incide sobre toda mercadoria destinada ao exterior a partir do território nacional e tem
+  como fato gerador a emissão da Declaração de Exportação (DE).
+
+8. (AFRFB-2002.2) Quanto ao imposto de exportação (IE), avalie o acerto das afirmações adiante
+   e marque com V as verdadeiras e com F as falsas; em seguida, marque a opção correta:
+
+  ( ) O imposto incide sobre mercadoria nacional ou nacionalizada destinada ao exterior.
+
+  ( ) Pelas regras vigentes, o imposto é excepcional, pois somente os produtos relacionados
+  estão a ele sujeitos.
+
+  ( ) O preço, à vista, da mercadoria, FOB ou colocada na fronteira, é indicativo do preço
+  normal, que é a base de cálculo do imposto.
+
+  a) V, V, V.
+
+  b) V, V, F.
+
+  c) V, F, F.
+
+  d) F, F, F
+
+  e) F, V, F
+
+9. (ACE-2012) O Imposto sobre a Exportação (IE), cuja competência pertence à União, incide na
+   exportação, para o exterior, de produtos nacionais ou nacionalizados. Sobre ele é incorreto
+   afirmar que:
+
+  a) nacionais são os produtos produzidos no próprio país.
+
+  b) nacionalizados são os produtos que tenham ingressado regularmente para incorporação
+  à economia nacional, submetendo-se ao desembaraço aduaneiro, vale dizer, com a
+  respectiva tributação, sendo o caso.
+
+  c) incide também sobre operações relativas a energia elétrica, serviços de telecomunicações,
+  derivados de petróleo, combustíveis e minerais do país.
+
+
+---
+
+  d) a exportação temporária, quando amparada em regime especial de suspensão de
+  impostos, em que não se tenha a incorporação à economia de outro país, não se sujeita à
+  sua incidência.
+
+  e) o fato gerador ocorre com a saída física do produto do país, pouco importando, portanto,
+  a data do registro da operação no Sistema Integrado de Comércio Exterior – SISCOMEX.
+
+10. (ATRFB-2012) A Câmara de Comércio Exterior, observada a legislação específica, relacionará
+    as mercadorias sujeitas ao Imposto de Exportação, mas de acordo com o art. 153, § 10 da
+    Constituição Federal, a alteração das alíquotas do imposto é de competência privativa do
+    Chefe do Poder Executivo.
+
+11. (ATRFB-2012) Mesmo considerando a função regulatória do Imposto de Exportação, suas
+    alíquotas não poderão ser manejadas sem a observância de condições e limites estabelecidos
+    em lei em sentido estrito.
+
+12. (ATRFB-2012) Segundo entendimento do Supremo Tribunal Federal, é incompatível com a
+    Constituição Federal a norma infraconstitucional que atribui a órgão integrante do Poder
+    Executivo da União a faculdade de estabelecer as alíquotas do Imposto de Exportação.
+
+13. (ATRFB-2012) O Imposto de Exportação incide sobre mercadoria nacional ou nacionalizada
+    destinada ao exterior. Considera-se nacionalizada a mercadoria estrangeira importada a título
+    definitivo.
+
+14. (Questão Inédita) O imposto de exportação incide sobre mercadoria nacional ou estrangeira
+    destinada ao exterior. Seu fato gerador considera-se ocorrido na data do registro de
+    exportação.
+
+15. (Questão Inédita) A base de cálculo do Imposto de Exportação, quando a alíquota for ad
+    valorem, será o valor aduaneiro.
+
+16. (Questão Inédita) A alíquota máxima para o Imposto de Exportação é de 150%.
+
+17. (Questão Inédita) O pagamento do Imposto de Exportação será realizado na forma e no prazo
+    fixados pela CAMEX.
+
+
+---
+
+18. (Questão Inédita) O fato gerador do Imposto de Exportação considera-se ocorrido no
+    momento do desembaraço aduaneiro.
+
+19. (Questão Inédita) O Imposto de Exportação será calculado pela aplicação da alíquota de 30%
+    sobre a base de cálculo. O Ministro da Fazenda tem competência para reduzir ou aumentar
+    essa alíquota, a fim de atender aos objetivos da política cambial e de comércio exterior.
+
+20. (Exame Despachante Aduaneiro-2012) O imposto de exportação tem como fato gerador o
+    desembaraço aduaneiro da mercadoria exportada.
+
+21. (Exame Despachante Aduaneiro-2012) Em caso de elevação, a alíquota do imposto de
+    exportação não poderá ser superior a cinquenta por cento.
+
+22. (Exame Despachante Aduaneiro-2012) Em determinadas situações a Câmara de Comércio
+    Exterior – CAMEX - pode definir pauta de valor mínimo para a apuração da base de cálculo do
+    imposto de exportação.
+
+23. (Exame Despachante Aduaneiro-2012) É contribuinte do imposto de exportação qualquer
+    pessoa que promova a saída de mercadoria do território aduaneiro.
+
+
+---
+
+GABARITO
+
+Gabarito
+
+           01   02   03   04   05   06   07
+           C    C    C    B    D    A    A
+
+           08   09   10   11   12   13   14
+           A    E    E    C    E    C    E
+
+           15   16   17   18   19   20   21
+           E    C    E    E    E    E    E
+           22   23
+           C    C
+
+
+---
+
+                               LISTA DE QUESTÕES
+
+Impostos sobre Produtos Industrializados
+
+1. (Câmara de Marabá/PA - 2021) Segundo o Código Tributário Nacional, a natureza jurídica
+   específica do tributo é determinada pelo fato gerador da respectiva obrigação. No caso, o
+   Imposto sobre Produtos Industrializados tem como fato gerador, entre outras possibilidades,
+   o seu desembaraço aduaneiro, quando de procedência estrangeira.
+
+2. (Exame de Despachante Aduaneiro – 2015) Quanto ao Imposto sobre Produtos
+   Industrializados na Importação (IPI Importação), é correto afirmar que o fato gerador, a base
+   de cálculo e a incidência deste tributo são, respectivamente:
+
+  a) o registro da declaração de importação, o valor aduaneiro e incide sobre toda mercadoria
+  de origem estrangeira que adentre o território nacional.
+
+  b) o registro da declaração de importação, o valor aduaneiro e incide sobre as mercadorias
+  industrializadas estrangeiras que adentrem o território nacional.
+
+  c) o desembaraço da declaração de importação, o valor aduaneiro e incide sobre as
+  mercadorias industrializadas estrangeiras que adentrem o território nacional.
+
+  d) o desembaraço da declaração de importação, o valor aduaneiro acrescido do valor do
+  Imposto de Importação e incide sobre as mercadorias industrializadas estrangeiras que
+  adentrem o território nacional.
+
+  e) o registro da declaração de Importação, o valor aduaneiro acrescido do valor do Imposto
+  de Importação e incide sobre as mercadorias industrializadas estrangeiras que adentrem o
+  território nacional.
+
+3. (ACE-2002) O cálculo do valor do Imposto sobre Produtos Industrializados (IPI), quando
+   vinculado à importação, toma por base:
+
+
+---
+
+  a) o valor que serve de base para o cálculo do Imposto de Importação, acrescido do montante
+  deste tributo e dos encargos cambiais efetivamente pagos pelo importador ou deste
+  exigíveis.
+
+  b) o valor da mercadoria, convertido em Reais, quando de sua saída do estabelecimento
+  industrial em que tenha sido processada.
+
+  c) o preço da mercadoria importada quando de sua saída do estabelecimento industrial em
+  que tenha sido processada acrescido dos custos de frete e seguro e dos encargos cambiais
+  incorridos pelo importador.
+
+  d) o valor FOB (Free on Board) da mercadoria importada.
+
+  e) o valor que servir de base para o cálculo do Imposto de Importação somado aos encargos
+  cambiais incorridos pelo importador.
+
+4. (AFRFB-2005) O campo de incidência do Imposto sobre Produtos Industrializados abrange:
+
+  a) todos os produtos relacionados na TIPI.
+
+  b) todos os produtos relacionados na TIPI, com alíquota, mesmo os com alíquota zero.
+
+  c) todos os produtos, exceto aqueles a que corresponde a notação “Zero”.
+
+  d) todos os produtos com alíquota.
+
+  e) todos os produtos, mesmo os com alíquota zero ou com a notação NT, ainda que não
+  relacionados na TIPI.
+
+5. (Questão Inédita) Assinale a alternativa correta acerca do IPI vinculado à importação:
+
+  a) As isenções do IPI, salvo expressa disposição em lei, referem-se ao produto e não ao
+  contribuinte ou adquirente.
+
+  b) São isentos do imposto sobre produtos industrializados as importações de livros, jornais e
+  periódicos e do papel destinado a sua impressão.
+
+
+---
+
+  c) A base de cálculo do IPI é o valor aduaneiro acrescido do imposto de importação, do
+  próprio IPI e dos encargos cambiais efetivamente pagos pelo importador ou dele exigíveis.
+
+  d) O fato gerador do IPI considera-se ocorrido na data do registro da Declaração de
+  Importação. Não é fato gerador do IPI o retorno ao País de produtos nacionais aos quais
+  tenha sido concedido o regime aduaneiro especial de exportação temporária.
+
+  e) O imposto sobre produtos industrializados incide sobre mercadoria estrangeira que,
+  corretamente descrita nos documentos de transporte, chegar ao País por erro inequívoco ou
+  comprovado de expedição, e que for redestinada ou devolvida para o exterior.
+
+6. (AFRFB-2012) Não constitui fato gerador do IPI-Importação o desembaraço aduaneiro de
+   produtos nacionais que retornem ao País aos quais tenha sido aplicado o regime aduaneiro
+   especial de exportação temporária, salvo se descumprido o regime.
+
+7. (Questão Inédita) O fato gerador do Imposto sobre Produtos Industrializados (IPI), na
+   importação, é o desembaraço aduaneiro de produto de procedência estrangeira. Logo, o
+   recolhimento desse tributo será procedido em momento posterior ao do registro da
+   Declaração de Importação (DI).
+
+8. (AFRFB-2012) Serão desembaraçados com suspensão do pagamento do IPI-Importação as
+   matérias-primas, os produtos intermediários e os materiais de embalagem, importados
+   diretamente por pessoas jurídicas preponderantemente exportadoras ou por estabelecimento
+   industrial fabricante preponderantemente das partes e peças destinadas a estabelecimento
+   industrial fabricante de produto classificado no Capítulo 88 da Nomenclatura Comum do
+   Mercosul.
+
+9. (Questão Inédita) As isenções do Imposto sobre Produtos Industrializados, salvo expressa
+   disposição de lei, referem-se ao contribuinte ou ao adquirente.
+
+10. (Questão Inédita) O IPI vinculado à importação incide apenas sobre produtos industrializados
+    de origem estrangeira.
+
+11. (Questão Inédita) O IPI vinculado à importação não incide sobre mercadoria estrangeira
+    idêntica, em igual quantidade e valor, e que se destine a reposição de outra anteriormente
+
+
+---
+
+   importada que se tenha revelado, após o desembaraço aduaneiro, defeituosa ou imprestável
+   para o fim a que se destinava, desde que observada a regulamentação editada pelo Ministério
+   da Fazenda.
+
+12. (Exame Despachante Aduaneiro-2012) Bens sujeitos à alíquota zero de imposto de importação
+    implicam a adoção de alíquota zero no imposto de produtos industrializados.
+
+13. (Questão Inédita) Devido a sua natureza extrafiscal, o IPI não se sujeita aos princípios da
+    legalidade e da anterioridade no tocante à alteração de suas alíquotas.
+
+14. (Questão Inédita) A aplicação da pena de perdimento no curso do despacho aduaneiro de
+    importação impede a ocorrência do fato gerador do IPI.
+
+15. (Questão Inédita) O recolhimento do IPI ocorre no momento em que é registrada a declaração
+    de importação. Dessa forma, eventual modificação na alíquota do tributo verificada por
+    ocasião do desembaraço aduaneiro não gera nenhum efeito na relação jurídico-tributária.
+
+16. (Questão Inédita) O campo de incidência do IPI não abrange os produtos relacionados com
+    alíquota zero na TIPI.
+
+
+---
+
+GABARITO
+
+Gabarito
+
+           01   02   03   04   05
+           C    D    A    B    A
+
+           06   07   08   09   10
+
+           E    E    C    E    E
+
+           11   12   13   14   15
+
+           C    E    C    C    E
+           16
+           E
+
+
+---
+
+                                 LISTA DE QUESTÕES
+
+PIS/PASEP-Importação e COFINS-Importação
+
+1. (SEFAZ/CE - 2021) O recolhimento mensal ao Simples Nacional engloba o pagamento de
+   diversos tributos, incluindo-se a Contribuição Social sobre o Lucro Líquido (CSLL) e a
+   Contribuição para o Financiamento da Seguridade Social (COFINS), ressalvado, no segundo
+   caso, o tributo incidente na importação de bens e serviços.
+
+2. (Questão Inédita/2022) Levando-se em conta seus conhecimentos sobre tributação no
+   comércio exterior, analise os itens a seguir e atribua a letra (V) para as assertivas verdadeiras e
+   a letra (F) para as falsas. Em seguida, assinale a alternativa que indique a sequência correta.
+  ( ) A base de cálculo do imposto de exportação é o preço normal que a mercadoria, ou sua
+  similar, alcançaria, ao tempo da exportação, em uma venda em condições de livre
+  concorrência no mercado internacional. Se o preço da mercadoria for de difícil apuração ou
+  for suscetível de oscilações bruscas no mercado internacional, a Câmara de Comércio
+  Exterior fixará critérios específicos ou estabelecerá pauta de valor mínimo, para apuração da
+  base de cálculo.
+  ( ) O imposto de exportação será calculado pela aplicação da alíquota de trinta por cento
+  sobre a base de cálculo, podendo a CAMEX reduzir ou aumentar essa alíquota, para atender
+  aos objetivos da política cambial e do comércio exterior.
+  ( ) O fato gerador do Imposto sobre Produtos Industrializados (IPI) na importação é o
+  desembaraço aduaneiro. Entretanto, o recolhimento do imposto será feito no momento do
+  registro da Declaração de Importação (DI).
+  ( ) O fato gerador das contribuições para o PIS/PASEP-Importação e COFINS-Importação é
+  o desembaraço aduaneiro de mercadoria importada.
+  ( ) As contribuições para o PIS/PASEP-Importação e COFINS-Importação não incidem sobre
+  o retorno ao País de bens exportados temporariamente.
+  a) VVVFV
+  b) VFVFV
+
+
+---
+
+  c) FVFVV
+  d) FFVFV
+  e) VVFFV
+
+3. (Exame de Despachante Aduaneiro – 2015) Sobre a contribuição para o PIS/PASEP-Importação
+   e da COFINS-Importação, assinale a opção correta.
+
+  a) O fato gerador da contribuição para o PIS/ PASEP-Importação e da COFINS-Importação
+  é a entrada de bens estrangeiros no território aduaneiro.
+
+  b) Para efeito de cálculo da contribuição para o PIS/ PASEP-Importação e da COFINS-
+  Importação, considera-se ocorrido o fato gerador na data do registro da declaração de
+  importação de bens submetidos a despacho para consumo, excetuando-se o despacho para
+  consumo de bens importados sob regime suspensivo de tributação do imposto de
+  importação.
+
+  c) A contribuição para o PIS/PASEP-Importação e da COFINS-Importação serão pagas na
+  data do desembaraço da declaração de importação.
+
+  d) A base de cálculo da contribuição para o PIS/ PASEP-Importação e da COFINS-Importação
+  é o valor aduaneiro, acrescido do Imposto de Importação (II) e do Imposto sobre Produtos
+  Industrializados na Importação (IPI Importação).
+
+  e) As importações realizadas por empresas públicas são isentas da contribuição para o PIS/
+  PASEP-Importação e da COFINS-Importação.
+
+4. (AFRFB – 2014) Recentemente, o Supremo Tribunal Federal exarou importante decisão sobre
+   a base de cálculo do PIS/ PASEP-Importação e da COFINS-Importação, conforme se verifica
+   do julgamento do Recurso Extraordinário n. 559.937/Rio Grande do Sul. De acordo com essa
+   paradigmática decisão, analise os itens a seguir e, em seguida, assinale a opção correta.
+
+  I. A referência ao “valor aduaneiro” no art. 149, § 2º, III, “a”, da Constituição Federal implicou
+  utilização de expressão com sentido técnico inequívoco, porquanto já era utilizada pela
+  legislação tributária para indicar a base de cálculo do Imposto de Importação.
+
+
+---
+
+  II. A Lei n. 10.865, de 30 de abril de 2004, ao instituir o PIS/PASEP-Importação e a COFINS-
+  Importação, alargou, inovou, alterou o conceito de valor aduaneiro, de modo que passasse
+  a abranger, para fins de apuração de tais contribuições, outras grandezas nele não contidas.
+
+  III. O gravame das operações de importação se dá como concretização do princípio da
+  isonomia.
+
+  IV. A Corte julgou inconstitucional a seguinte parte do art. 7º, inciso I da Lei n. 10.865, de 30
+  de abril de 2004: “acrescido do valor do Imposto sobre Operações Relativas à Circulação de
+  Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e
+  de Comunicação – ICMS incidente no desembaraço aduaneiro e do valor das próprias
+  contribuições”.
+
+  a) Estão corretos somente os itens I e II.
+
+  b) Estão corretos somente os itens I e III.
+
+  c) Estão corretos somente os itens II, III e IV.
+
+  d) Estão corretos somente os itens I e IV.
+
+  e) Todos os itens estão corretos.
+
+5. (ACE-2012-adaptada) Considerando a incidência da contribuição para os Programas de
+   Integração Social e de Formação do Patrimônio do Servidor Público (PIS/PASEP-Importação)
+   e Contribuição para o Financiamento da Seguridade Social (COFINS-Importação), é correto
+   afirmar que:
+
+  a) tem como fato gerador o registro da Declaração de Importação e sua base de cálculo é o
+  valor de transação da mercadoria acrescido dos encargos cambiais correspondentes.
+
+  b) tem como fato gerador o desembaraço aduaneiro do bem importado e como base de
+  cálculo o valor aduaneiro acrescido do imposto de importação e dos encargos cambiais
+  pagos pelo importador ou dele exigíveis.
+
+
+---
+
+  c) tem como fato gerador o ingresso do bem no território aduaneiro do país, e a base de
+  cálculo é o valor aduaneiro.
+
+  d) tem como fato gerador o desembaraço aduaneiro de produto de procedência estrangeira,
+  e sua base de cálculo é o valor aduaneiro acrescido do ICMS e dos encargos cambiais.
+
+  e) tem como fato gerador o registro da Declaração de Importação, e sua base de cálculo é o
+  valor aduaneiro acrescido do imposto de importação e dos encargos cambiais efetivamente
+  pagos pelo importador.
+
+6. (Questão Inédita) Assinale a alternativa correta sobre PIS/PASEP-Importação e da COFINS-
+   Importação:
+
+  a) São responsáveis solidários pelo PIS/PASEP-Importação o importador, o destinatário de
+  remessa postal internacional e o adquirente de mercadoria entrepostada.
+
+  b) As contribuições para o PIS/PASEP-Importação e a COFINS não incidem sobre a
+  importação de serviços.
+
+  c) As contribuições para o PIS/PASEP-Importação e a COFINS-Importação não incidem sobre
+  mercadoria estrangeira idêntica, em igual quantidade e valor, e que se destine a reposição
+  de outra anteriormente importada que se tenha revelado, após o desembaraço aduaneiro,
+  defeituosa ou imprestável para o fim a que se destinava, desde que observada a
+  regulamentação editada pelo Ministério da Fazenda.
+
+  d) As mercadorias nacionais às quais foi concedido o regime de exportação temporária, ao
+  retornarem ao País, serão consideradas não-estrangeiras para fins de incidência do
+  PIS/PASEP-Importação e COFINS-Importação.
+
+  e) As importações realizadas pela União, Estados, Distrito Federal e Municípios estão sujeitas
+  à incidência do PIS/PASEP-Importação e COFINS-Importação.
+
+7. (Questão Inédita) Assinale a alternativa incorreta acerca do PIS/PASEP-Importação e da
+   COFINS-Importação:
+
+
+---
+
+  a) O RECAP é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+  equipamentos, novos, relacionados em ato normativo específico, quando importados
+  diretamente pelo beneficiário do regime para incorporação ao seu ativo imobilizado, com
+  redução a zero das alíquotas para o PIS/PASEP-Importação e da COFINS-Importação.
+
+  b) O PADIS é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+  equipamentos para incorporação ao ativo imobilizado do beneficiário, destinados às
+  atividades relacionadas à indústria de semicondutores, com redução a zero por cento das
+  alíquotas da contribuição para o PIS/PASEP-Importação e da COFINS-Importação.
+
+  c) A pessoa jurídica preponderantemente exportadora, assim considerada aquela cuja receita
+  bruta decorrente de exportação para o exterior, no ano-calendário imediatamente anterior
+  ao da aquisição, houver sido igual ou superior a 50% de sua receita bruta total de venda de
+  bens e serviços no mesmo período, após excluídos os impostos e contribuições incidentes
+  sobre a venda, poderá importar com suspensão do pagamento da contribuição para o
+  PIS/PASEP-Importação e da COFINS-Importação matérias-primas, produtos intermediários e
+  materiais de embalagem.
+
+  d) O REPES é o regime que permite a importação de bens novos destinados ao
+  desenvolvimento, no País, de software e de serviços de tecnologia da informação, quando
+  importados diretamente pelo beneficiário do regime para incorporação ao seu ativo
+  imobilizado, com suspensão do pagamento da contribuição para o PIS/PASEP-Importação e
+  da COFINS-Importação.
+
+  e) O REIDI é o regime que permite a importação de máquinas, aparelhos, instrumentos e
+  equipamentos, novos, e de materiais de construção, quando importados diretamente pelo
+  beneficiário do regime para utilização ou incorporação em obras de infraestrutura destinadas
+  ao ativo imobilizado, com suspensão da contribuição para o PIS/PASEP-Importação e da
+  COFINS-Importação.
+
+8. (Questão Inédita) Assinale a alternativa correta acerca do PIS/PASEP-Importação e da COFINS-
+   Importação:
+
+  a) O depositário, assim considerada qualquer pessoa incumbida da custódia de bem sob
+  controle aduaneiro, é contribuinte do PIS/PASEP-Importação e da COFINS-Importação.
+
+
+---
+
+  b) São isentas da contribuição para o PIS/PASEP-Importação e da COFINS-Importação as
+  importações de máquinas, aparelhos, instrumentos e equipamentos, novos, quando
+  destinadas ao ativo imobilizado da empresa.
+
+  c) A base de cálculo da contribuição para o PIS/PASEP-Importação e da COFINS-Importação
+  é o valor aduaneiro acrescido do valor do imposto de importação e dos encargos cambiais
+  efetivamente pagos pelo importador ou dele exigíveis.
+
+  d) Para efeito de cálculo da contribuição para o PIS/PASEP-Importação e da COFINS-
+  Importação, considera-se ocorrido o fato gerador na data do desembaraço aduaneiro.
+
+  e) O fato gerador da contribuição para o PIS/PASEP-Importação e a COFINS-Importação é a
+  entrada de bens estrangeiros no território nacional. Para efeito de ocorrência do fato
+  gerador, consideram-se entrados no território aduaneiro os bens que constem como tendo
+  sido importados e cujo extravio venha a ser apurado pela autoridade aduaneira.
+
+9. (AFRFB – 2014) O Regime Especial Tributário para a Indústria de Defesa – RETID é o que
+   permite a importação de bens de defesa nacional com suspensão da Contribuição do
+   PIS/PASEP-Importação e da COFINS-Importação, além de outros tributos, quando a
+   importação for efetuada por pessoa jurídica beneficiária do RETID. Como uma política de
+   incentivo ao desenvolvimento das empresas brasileiras na área, as pessoas jurídicas optantes
+   pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+   Microempresas e Empresas de Pequeno Porte – Simples Nacional, de que trata a Lei
+   Complementar n. 123, de 14 de dezembro de 2006, podem habilitar-se ao RETID.
+
+10. (AFRFB-2012) Há previsão legal de suspensão da exigência da Contribuição para o PIS/PASEP-
+    Importação e da COFINS-Importação nas importações efetuadas por empresas localizadas na
+    Zona Franca de Manaus, de matérias-primas, produtos intermediários e materiais de
+    embalagem para emprego em processo de industrialização por estabelecimentos industriais
+    instalados na Zona Franca de Manaus e consoante projetos aprovados pelo Conselho de
+    Administração da Superintendência da Zona Franca de Manaus.
+
+11. (AFRFB-2012) O Regime Especial de Tributação para a Plataforma de Exportação de Serviços
+    de Tecnologia da Informação – REPES permite a importação de bens novos destinados ao
+    desenvolvimento, no País, de software e de serviços de tecnologia da informação, quando
+
+
+---
+
+   importados diretamente pelo beneficiário do Regime para incorporação ao seu ativo
+   imobilizado, com suspensão do pagamento da Contribuição para o PIS/PASEP-Importação e
+   da COFINS-Importação.
+
+12. (AFRFB-2012) De acordo com o art. 2º da Lei n. 11.196, de 21 de novembro de 2005, com
+    redação dada pelo art. 52 da Medida Provisória n. 563, de 3 de abril de 2012, é beneficiária
+    do Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia
+    da Informação – REPES, a pessoa jurídica que exerça preponderantemente as atividades de
+    desenvolvimento de software ou de prestação de serviços de tecnologia da informação, e que,
+    por ocasião da sua opção pelo REPES, assuma compromisso de exportação igual ou superior
+    a setenta por cento de sua receita bruta anual decorrente da venda dos referidos bens e
+    serviços.
+
+13. (AFRFB-2012) O Regime Especial de Aquisição de Bens de Capital para Empresas
+    Exportadoras – RECAP permite a importação de máquinas, aparelhos, instrumentos e
+    equipamentos, novos, relacionados em ato normativo específico, quando importados
+    diretamente pelo beneficiário do regime para incorporação ao seu ativo imobilizado, com
+    suspensão do pagamento da contribuição para o PIS/PASEP-Importação e da COFINS-
+    Importação. O benefício de suspensão poderá ser usufruído nas importações realizadas no
+    período de cinco anos contados da data de adesão ao RECAP.
+
+14. (AFRFB-2012) O Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura –
+    REIDI permite a importação de máquinas, aparelhos, instrumentos e equipamentos, novos, e
+    de materiais de construção, quando importados diretamente pelo beneficiário do regime para
+    utilização ou incorporação em obras de infraestrutura destinadas ao ativo imobilizado, com
+    redução a um por cento das alíquotas da contribuição para o PIS/PASEP-Importação e da
+    COFINS-Importação.
+
+15. (AFRFB-2012) É beneficiária do Regime Especial de Incentivos para o Desenvolvimento da
+    Infraestrutura – REIDI somente a pessoa jurídica que tenha projeto aprovado para implantação
+    de obras de infraestrutura nos setores de transportes, portos, energia e irrigação.
+
+
+---
+
+16. (Questão Inédita) Segundo o STF, é inconstitucional a inclusão, na base de cálculo do
+    PIS/PASEP-Importação e COFINS-Importação, do ICMS e dos valores relativos a essas
+    contribuições.
+
+GABARITO
+
+Gabarito
+
+                         01       02      03       04       05
+                          C       A        A        D       C
+                         06       07      08       09       10
+                          C       A        E        E       C
+
+                         11       12      13       14       15
+                          C       E        E        E        E
+                         16
+                          C
+
+
+---
+
+                              LISTA DE QUESTÕES
+
+CIDE-Combustíveis
+
+1. (IPE Saúde – 2022) As contribuições sociais e de intervenção no domínio econômico não
+   incidirão sobre a importação de produtos estrangeiros ou serviços.
+
+2. (Exame de Despachante Aduaneiro – 2014) A respeito do fato gerador dos tributos incidentes
+   no comércio exterior, assinale a opção correta.
+
+  a) O imposto de exportação tem como fato gerador a saída da mercadoria da empresa
+  exportadora com destino a um recinto alfandegado de zona primária ou secundária.
+
+  b) O fato gerador da contribuição para o PIS/PASEP-Importação e da COFINS-Importação é
+  a entrega da mercadoria estrangeira ao importador ou seu representante.
+
+  c) O fato gerador do ICMS é o registro da declaração de importação da mercadoria
+  estrangeira.
+
+  d) A CIDE-Combustíveis tem como fato gerador, entre outros, as operações de exportação
+  de diesel e suas correntes.
+
+  e) O fato gerador do IPI, na importação, é o desembaraço aduaneiro de produto de
+  procedência estrangeira.
+
+3. (AFRFB – 2014) A Lei nº 10.336, de 19 de dezembro de 2001, instituiu a Cide-Combustíveis,
+   que é uma Contribuição de Intervenção no Domínio Econômico. Sobre a Cide- Combustíveis,
+   é incorreto afirmar que:
+
+  a) a Cide-Combustíveis tem como fatos geradores as operações de comercialização no
+  mercado interno e a importação de combustíveis.
+
+  b) é isenta da Cide-Combustíveis a nafta petroquímica, importada ou adquirida no mercado
+  interno, destinada à elaboração de quaisquer produtos petroquímicos.
+
+
+---
+
+  c) são ainda isentos da Cide-Combustíveis os produtos vendidos a empresa comercial
+  exportadora com o fim específico de exportação para o exterior.
+
+  d) a Cide incide sobre álcool etílico combustível destinado a consumo no País.
+
+  e) é responsável solidário pela Cide o adquirente de mercadoria de procedência estrangeira,
+  no caso de importação realizada por sua conta e ordem, por intermédio de pessoa jurídica
+  importadora.
+
+4. (TRF-2003) Em relação à Contribuição de Intervenção no Domínio Econômico sobre a
+   importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e
+   álcool etílico combustível (Cide), é incorreto afirmar que:
+
+  a) as operações de importação e de comercialização no mercado interno de querosene de
+  aviação constituem fatos geradores da Cide.
+
+  b) o formulador de combustível líquido, derivados de petróleo e derivados de gás natural é
+  contribuinte da Cide.
+
+  c) a base de cálculo da Cide, na comercialização no mercado interno, é o valor da operação
+  de que decorrer a saída, do estabelecimento do contribuinte, de petróleo e seus derivados,
+  gás natural e seus derivados, e álcool etílico combustível.
+
+  d) a Cide não incide sobre as receitas de exportação, para o exterior, de petróleo e seus
+  derivados, gás natural e seus derivados, e álcool etílico combustível.
+
+  e) é responsável solidário pela Cide o adquirente de mercadoria de procedência estrangeira,
+  no caso de importação realizada por sua conta e ordem, por intermédio de pessoa jurídica
+  importadora.
+
+5. (AFRFB-2005) A Contribuição de Intervenção no Domínio Econômico incidente sobre a
+   importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e
+   álcool etílico combustível (CIDE) foi instituída pela União com a finalidade de financiamento de
+   projetos de proteção ao meio ambiente, ao consumidor, a bens e direitos de valor artístico,
+   estético, histórico, turístico e paisagístico.
+
+
+---
+
+6. (Questão Inédita) A redução e restabelecimento de alíquotas da CIDE-Combustíveis pelo
+   Poder Executivo é inconstitucional.
+
+GABARITO
+
+Gabarito
+
+                     01      02       03      04       05       06
+                     E       E        B       C        E        E
+
+
+---
+
+                               LISTA DE QUESTÕES
+
+Taxa SISCOMEX
+
+1. (Ajudante de Despachante Aduaneiro – 2018 - adaptada) Segundo o disposto na Instrução
+   Normativa SRF n. 680, de 2 de outubro de 2006, a Taxa de Utilização do Siscomex será devida
+   no ato do registro da Declaração de Importação (DI) à razão de:
+
+  a) R$ 30,00 por DI.
+
+  b) R$ 10,00 para cada adição de mercadoria à DI, observados os limites definidos na referida
+  Instrução Normativa.
+
+  c) R$ 50,00 para cada adição de mercadoria à DI, observados os limites definidos na referida
+  Instrução Normativa.
+
+  d) R$ 50,00 por DI.
+
+  e) R$ 115,67 por DI e R$ 38,56 para cada adição de mercadoria à DI, observados os limites
+  definidos na referida Instrução Normativa.
+
+2. (Questão Inédita) Aplicam-se à cobrança da Taxa SISCOMEX as normas referentes ao Imposto
+   de Importação.
+
+3. (Questão Inédita) A vinculação do produto da arrecadação da Taxa SISCOMEX não pôde ser
+   estabelecida pela lei que instituiu o tributo por ser vedada pela Constituição da República.
+
+
+---
+
+GABARITO
+
+Gabarito
+
+           01   02   03
+           E    C    E
+
+
+---
+
+                                LISTA DE QUESTÕES
+Incentivos fiscais à exportação
+1. (Questão Inédita/2022) Assinale a alternativa correta sobre os incentivos fiscais à exportação:
+  a) O crédito presumido de IPI consiste na manutenção e utilização do crédito do IPI relativo
+  aos insumos empregados na industrialização de produtos exportados.
+  b) O ICMS não incidirá sobre operações que destinem mercadorias para o exterior, nem
+  sobre serviços prestados a destinatários no exterior, assegurada a manutenção e o
+  aproveitamento do montante do imposto cobrado nas operações e prestações anteriores
+  c) O imposto de importação, o ICMS e as contribuições para PIS/PASEP-Importação e a
+  COFINS-Importação não incidem nas importações realizadas pelas empresas optantes pelo
+  SIMPLES Nacional.
+  d) As contribuições sociais e as contribuições de intervenção no domínio econômico incidem
+  sobre as receitas decorrentes de exportação.
+  e) Embora a venda de mercadorias a uma empresa comercial exportadora seja equiparada à
+  exportação, o produtor-vendedor não fará jus, nessa operação, aos incentivos fiscais
+  concedidos a uma exportação.
+2. (Questão Inédita/2022) As receitas decorrentes de exportação de mercadorias para o exterior,
+   inclusive as vendas realizadas por meio de empresa comercial exportadora ou de sociedade
+   de propósito específico, devem ser segregadas para fins de redução do montante a ser
+   recolhido na forma do SIMPLES Nacional.
+3. (Questão Inédita/2022) O aproveitamento dos créditos de ICMS por ocasião da saída imune
+   para o exterior não gera receita tributável para fins de apuração da base de cálculo do PIS e
+   da COFINS.
+4. (Questão Inédita/2022) É inconstitucional a incidência da contribuição ao PIS e da COFINS
+   sobre a receita decorrente da variação cambial positiva obtida nas operações de exportação
+   de produtos.
+5. (SEFAZ/RR – 2021) Microempresas e empresas de pequeno porte que sejam optantes do
+   simples nacional e que realizem descarregamento de mercadoria de embarcação em porto
+   marítimo brasileiro estão dispensadas de efetuar o pagamento do adicional ao frete para
+   renovação da marinha mercante (AFRMM).
+6. (AFRF-2003 - adaptada) Com relação aos incentivos fiscais à exportação no Brasil, é correto
+   afirmar que
+  a) às exportações amparadas por Registro de Exportação Simplificada (RES), Declaração
+  Simplificada de Exportação (DSE), Remessa Postal Internacional e Contrato de Câmbio
+  Simplificado, não são assegurados os mesmos incentivos fiscais concedidos às vendas
+
+
+---
+
+  externas realizadas pelo sistema tradicional, tendo em vista que a simplificação, desonerando
+  as empresas dos custos administrativos, já constitui um incentivo.
+  b) o elenco de incentivos fiscais à exportação no Brasil contempla as empresas optantes pelo
+  SIMPLES e as mercadorias submetidas ao regime aduaneiro especial de entreposto
+  industrial.
+  c) a não-incidência (imunidade constitucional) do IPI sobre produtos destinados ao exterior
+  não é aplicável apenas àqueles obtidos nas operações de recondicionamento e
+  acondicionamento (embalagem de apresentação).
+  d) o índice de 5,37% a ser aplicado para se obter a importância a ser ressarcida sob a forma
+  de crédito fiscal presumido do IPI é calculado sobre as contribuições do PIS e COFINS
+  incidentes apenas nas aquisições de matérias-primas e produtos intermediários nacionais e
+  nacionalizados, vedado o benefício à empresa equiparada a industrial que exporte produto
+  mandado industrializar por encomenda, com a remessa por ela efetuada de insumos
+  necessários à industrialização.
+  e) o regime aduaneiro especial de drawback, consistindo num incentivo à exportação de
+  produtos fabricados no mercado interno (Regulamento Aduaneiro, art. 335), visa desonerar
+  o industrial exportador do IPI e demais tributos incidentes na exportação dos produtos finais
+  discriminados nos respectivos Atos Concessórios.
+7. (AFTN 1998) O crédito presumido do IPI, como ressarcimento das contribuições para o
+   PIS/PASEP e COFINS incidentes sobre as respectivas aquisições, no mercado interno, de
+   matérias-primas, produtos intermediários e material de embalagem, para utilização no
+   processo produtivo, beneficia:
+  a) exclusivamente a empresa produtora de mercadorias nacionais fornecidas a
+  empreendimentos de relevante interesse nacional, assim definidos em legislação específica
+  b) exclusivamente a empresa comercial exportadora relativamente ao IPI incidente nas
+  aquisições no mercado interno, de produtos intermediários, utilizados no processo produtivo
+  do fabricante intermediário
+  c) exclusivamente a empresa produtora e exportadora de mercadorias nacionais, inclusive as
+  por ela vendidas a empresa comercial exportadora com o fim específico de exportação para
+  o exterior.
+  d) exclusivamente a empresa produtora e exportadora de mercadorias nacionais e
+  nacionalizadas.
+  e) conjuntamente, a empresa produtora e exportadora de mercadorias nacionais e a empresa
+  comercial exportadora adquirente de seus produtos para revenda a entreposto de
+  exportação.
+8. (AFTN-1996) Os incentivos fiscais ao comércio exterior abrangem, entre outros, a:
+  a) Isenção dos impostos incidentes sobre o comércio de cargas e de passageiros.
+
+
+---
+
+ b) Suspensão do Imposto de Renda sobre o lucro das operações de comércio exterior
+ c) Exoneração de impostos sobre a exportação de produtos industrializados e da
+ Contribuição para o Financiamento da Seguridade Social.
+ d) Eliminação dos impostos sobre a importação de bens industrializados e sobre a exportação
+ de bens primários.
+ e) Concessão de fundos para o financiamento de importações e exportações.
+
+Gabarito
+
+
+            01       02       03        04       05        06       07        08
+            B        C        C         C        C         B        C         C
+
+
+---

@@ -1,0 +1,675 @@
+Impostos de Competência dos Municípios
+
+Imposto sobre Propriedade Territorial Urbana
+
+“É inconstitucional a majoração do IPTU sem edição de lei em sentido formal, vedada a atualização,
+por ato do Executivo, em percentual superior aos índices oficiais.”
+
+(STF, RE 648.245, Plenário, Rel. Min. Gilmar Mendes, Julgamento em 01/08/2013, DJE de 24/02/2014,
+com repercussão geral)
+
+Com a EC 132/2023 (Reforma Tributária), tal previsão passou a constar na CF/88:
+
+        Art.156.
+
+        (...)
+
+        §1º
+
+        (...)
+
+        III – ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios
+        estabelecidos em lei municipal.
+
+No que se refere à tributação com base em alíquotas diversas em razão da destinação do imóvel, há que se
+destacar o seguinte:
+
+EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. TRIBUTÁRIO.
+IPTU. ALÍQUOTAS DIFERENCIADAS. OFENSA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA I - A jurisprudência
+da Corte é no sentido de que não viola a Constituição Federal a fixação de alíquotas diversas do IPTU
+em razão da destinação do imóvel. Precedentes II - Agravo regimental improvido.
+
+(STF, AI 470.555/RJ, Primeira Turma, Rel. Min. Ricardo Lewandowski, Julgamento em 21/06/2007)
+
+Outra jurisprudência importante do STF a respeito do IPTU diz respeito à progressividade de alíquotas:
+
+Súmula STF 668 - É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda
+Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o
+cumprimento da função social da propriedade urbana.
+
+A EC 29/00 acrescentou dois incisos ao § 1º do art. 156 da CF/88. O primeiro diz respeito à possibilidade de
+se ter alíquotas progressivas em função do valor do imóvel. O segundo menciona a permissão para se
+estabelecer alíquotas diferentes de acordo com a localização e o uso do imóvel.
+Por conseguinte, diversas normas tributárias municipais foram consideradas inconstitucionais, por preverem
+progressividade em momento anterior à EC 29/00. Neste caso, de acordo com o STF, o IPTU nesse período
+pode ser cobrado, considerando a menor alíquota prevista na lei tributária que previa a progressividade
+(Tema 226):
+
+        Declarada inconstitucional a progressividade de alíquota tributária, é devido o tributo
+        calculado pela alíquota mínima correspondente, de acordo com a destinação do imóvel.
+        (STF, RE 602347)
+
+Por outro lado, o Plenário do STF decidiu em 11/05/2020, que são constitucionais as leis municipais
+anteriores à Emenda Constitucional n° 29/2000, que instituíram alíquotas diferenciadas de IPTU para imóveis
+edificados e não edificados, residenciais e não residenciais (Tema 523):
+
+        São constitucionais as leis municipais anteriores à Emenda Constitucional n° 29/2000, que
+        instituíram alíquotas diferenciadas de IPTU para imóveis edificados e não edificados,
+        residenciais e não residenciais. (STF, RE 666156)
+
+
+
+
+QUESTÃO INÉDITA
+A câmara de vereadores do município XY editou uma lei, em 2002, prevendo alíquotas progressivas em
+função do valor do imóvel. Nesse sentido, conforme jurisprudência do STF, a referida lei é inconstitucional.
+
+Comentário: A lei foi editada depois da EC 29/2000. Por esse motivo, a lei é considerada constitucional,
+conforme o posicionamento do STF.
+
+Gabarito: Errada
+
+Guarde também que é inconstitucional a progressividade de alíquotas do IPTU em função do número de
+imóveis do contribuinte. Sobre o assunto, vejamos o que diz a Súmula 589 do STF:
+
+Súmula STF 589 - É inconstitucional a fixação de adicional progressivo do Imposto Predial e Territorial
+Urbano em função do número de imóveis do contribuinte.
+
+
+
+
+Súmula STF 539 - É constitucional a lei do município que reduz o imposto predial urbano sobre imóvel
+ocupado pela residência do proprietário, que não possua outro.
+
+
+
+
+EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE
+A PROPRIEDADE IMÓVEL TERRITORIAL E URBANA. IPTU. PROGRESSIVIDADE. ALÍQUOTA ÚNICA.
+VARIAÇÃO DA BASE DE CÁLCULO CONFORME A ESSENCIALIDADE OU A FRIVOLIDADE DO BEM (TIPOS
+DE IMÓVEL PRECÁRIO, POPULAR, MÉDIO, FINO E LUXO). ÍNDICE PRÓPRIO PARA MENSURAR A
+CAPACIDADE CONTRIBUTIVA E DAR DIMENSÃO EXTRAFISCAL À EXAÇÃO. UTILIZAÇÃO ANTES DA EC
+29/2000. IMPOSSIBILIDADE. (...) 2. O efeito extrafiscal ou a calibração do valor do tributo de acordo
+com a capacidade contributiva não são obtidos apenas pela modulação da alíquota. O
+escalonamento da base de cálculo pode ter o mesmo efeito. 3. Ao associar o tipo de construção
+(precário, popular, médio, fino e luxo) ao escalonamento crescente da avaliação do valor venal do
+imóvel, a Lei 3.326/1996 do Município de Campo Grande passou a graduar o valor do tributo de
+acordo com índice hábil à mensuração da frivolidade ou da essencialidade do bem, além de lhe
+conferir mais matizes para definição da capacidade contributiva. Impossibilidade, nos termos do texto
+constitucional anterior à inovação trazida pela EC 29/2000. Agravo regimental ao qual se nega
+provimento.
+
+(STF, AI 583.636-AgR/MS, Segunda Turma, Min. Rel. Joaquim Barbosa, Julgamento em 06/04/2010)
+
+A base de cálculo do IPTU é o valor venal do imóvel. Contudo, para se chegar ao valor venal, vários critérios
+são utilizados pelos municípios. Um dos critérios poderia ser o tipo de construção (precário, popular, médio,
+fino e luxo). Ou seja, à medida que o padrão da construção aumente, haverá consequente escalonamento
+da base de cálculo. Como o tributo é calculado multiplicando-se a base de cálculo pela alíquota, de acordo
+com a Suprema Corte, é possível conferir progressividade ao tributo, variando a base de cálculo e mantendo
+alíquota única.
+
+Complementando este assunto, quero trazer também uma jurisprudência interessante do STF que permite
+que o Poder Executivo realize avaliação individualizada (apuração da base de cálculo do imposto), para fins
+de cobrança do IPTU, de imóvel novo não previsto na Planta Genérica de Valores:
+
+     Tema 1084 Repercussão Geral STF - É constitucional a lei municipal que delega ao Poder
+     Executivo a avaliação individualizada, para fins de cobrança do IPTU, de imóvel novo não previsto
+     na Planta Genérica de Valores, desde que fixados em lei os critérios para a avaliação técnica e
+     assegurado ao contribuinte o direito ao contraditório.
+
+
+
+
+        Sobre o que estávamos falando: a Planta Genérica de Valores (PGV) é uma ferramenta
+        definida por lei municipal que serve para determinar o valor venal dos imóveis. Ela utiliza
+        critérios como:
+
+        Localização do imóvel (se está em uma área mais valorizada ou periférica);
+
+        Uso ou destinação (residencial, comercial, industrial, etc.);
+
+        Padrão de construção (simples, médio, luxo, entre outros).
+         Com base nesses fatores, a PGV calcula o valor do metro quadrado de cada imóvel, o que
+         permite que a prefeitura determine o valor total do imóvel e, assim, aplique a alíquota do
+         IPTU (Imposto Predial e Territorial Urbano). É um instrumento essencial para garantir que
+         a tributação seja proporcional às características e à localização do imóvel.
+
+Acerca da incidência do IPTU, destacamos que o art. 32. § 1º, do CTN, previu os melhoramentos necessários
+para se considerar determinada área como zona urbana, considerando a disposição em lei municipal. De
+acordo com o referido dispositivo, para a lei municipal definir determinada área como zona urbana, é
+necessário observar o requisito mínimo da existência de melhoramentos indicados em pelo menos 2 (dois)
+dos incisos seguintes, construídos ou mantidos pelo Poder Público:
+
+I - meio-fio ou calçamento, com canalização de águas pluviais;
+
+II - abastecimento de água;
+
+III - sistema de esgotos sanitários;
+
+IV - rede de iluminação pública, com ou sem posteamento para distribuição domiciliar;
+
+V - escola primária ou posto de saúde a uma distância máxima de 3 (três) quilômetros do imóvel considerado.
+
+Ainda sobre o tema, o § 2º, do mesmo artigo, previu que a lei municipal pode considerar urbanas as áreas
+urbanizáveis, ou de expansão urbana, constantes de loteamentos aprovados pelos órgãos competentes,
+destinados à habitação, à indústria ou ao comércio, mesmo que localizados fora das zonas definidas nos
+termos do § 1º.
+
+Nessa linha, o STJ já chancelou seu entendimento na Súmula 626:
+
+Súmula STJ 626 - A incidência do IPTU sobre imóvel situado em área considerada pela
+
+lei local como urbanizável ou de expansão urbana não está condicionada à existência dos
+melhoramentos elencados no art. 32, § 1º, do CTN.
+
+Portanto, meus amigos, o STJ permite que o Município cobre o IPTU em loteamentos aprovados, mesmo
+que inexistentes os melhoramentos previstos no art. 32, § 1º, do CTN.
+
+Acrescentamos que, em questões que versem sobre a incidência do ITR/IPTU, é muito importante se ater a
+outro detalhe importantíssimo, previsto não no CTN, mas no DL 57/1966, o qual já teve a sua validade
+reconhecida pela jurisprudência e define uma regra para incidência do ITR até mesmo sobre imóveis
+localizados na zona urbana do Município, desde que seja utilizado em exploração vegetal, agrícola, pecuária
+ou agroindustrial.
+Um imóvel pode estar localizado em uma região que é definida em lei como zona urbana do Município e,
+mesmo assim, sobre ele incidir o ITR.
+
+O art. 15, do Decreto-Lei 57/66, estabelece que, ainda que o imóvel esteja localizado em área urbana do
+município, caso seja utilizado em exploração extrativa vegetal, agrícola, pecuária ou agroindustrial,
+incidirá ITR, e não IPTU.
+
+Como sabemos, ambos os impostos incidem sobre propriedade de imóveis, sendo o IPTU incidente sobre os
+bens imóveis urbanos, e o IPTU, sobre o bens imóveis rurais.
+
+Dessa forma, seguindo o disposto acima, mesmo que o imóvel esteja localizado em área definida em lei como
+zona urbana do Município, sobre ele incidirá o ITR, e não o IPTU.
+
+DICA DE PROVA: Não se preocupe, pois quando a questão de prova cobrar essa regra do DL 57/66, haverá
+indícios, como a referência à finalidade dada ao imóvel, à jurisprudência do STJ ou mesmo a referência
+expressa ao referido diploma normativo.
+
+Segue abaixo a decisão do STJ a respeito da validade do DL 57/66:
+
+TRIBUTÁRIO. IPTU. ITR. FATO GERADOR. IMÓVEL SITUADO NA ZONA URBANA. LOCALIZAÇÃO.
+DESTINAÇÃO. CTN, ART. 32. DECRETO-LEI N. 57/66. VIGÊNCIA. 1. Ao ser promulgado, o Código
+Tributário Nacional valeu-se do critério topográfico para delimitar o fato gerador do Imposto sobre a
+Propriedade Predial e Territorial Urbana (IPTU) e o Imposto sobre a Propriedade Territorial Rural (ITR):
+se o imóvel estivesse situado na zona urbana, incidiria o IPTU; se na zona rural, incidiria o ITR. 2. Antes
+mesmo da entrada em vigor do CTN, o Decreto-Lei nº 57/66 alterou esse critério, estabelecendo
+estarem sujeitos à incidência do ITR os imóveis situados na zona rural quando utilizados em
+exploração vegetal, agrícola, pecuária ou agroindustrial. 3. A jurisprudência reconheceu validade ao
+DL 57/66, o qual, assim como o CTN, passou a ter o status de lei complementar em face da
+superveniente Constituição de 1967. Assim, o critério topográfico previsto no art. 32 do CTN deve ser
+analisado em face do comando do art. 15 do DL 57/66, de modo que não incide o IPTU quando o
+imóvel situado na zona urbana receber quaisquer das destinações previstas nesse diploma legal.
+
+(STJ, REsp 492.869/PR, Primeira Turma, Min. Rel. Teori Albino Zavascki, Julgamento em 15/02/2005)
+
+O entendimento do STJ a respeito da posse do imóvel (REsp 325.489) é o de que para ser considerado
+contribuinte do IPTU, há que exercer a posse sobre o imóvel com animus domini - ou animus definitivo -, que
+quer dizer intenção de ser dono. Nesse rumo, podemos afirmar que o locatário, comodatário ou
+arrendatário de imóvel não pode ser considerado como contribuinte do IPTU:
+
+TRIBUTÁRIO - IPTU - CONTRIBUINTE - POSSUIDOR - ART. 34 DO CTN.
+1. O IPTU é imposto que tem como contribuinte o proprietário ou o possuidor por direito real que
+exerce a posse com animus definitivo - art. 34 do CTN.
+
+2. O comodatário é possuidor por relação de direito pessoal e, como tal, não é contribuinte do IPTU
+do imóvel que ocupa.
+
+3. Não sendo contribuinte o possuidor e confundindo-se, no Município, as posições de proprietário do
+imóvel e de sujeito ativo para a cobrança do IPTU, resulta indevido o tributo.
+
+4. Recurso especial improvido.
+
+(STJ, REsp 325.489/SP, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 19/11/2002)
+
+
+
+
+Destaque-se que a posse ad usucapionem, isto é, aquela que dá origem ao usucapião, é apta a gerar a
+obrigação tributária do IPTU, por estar prestes a se transformar em propriedade, havendo verdadeiro animus
+domini.
+
+Observação: Durante o curso, o candidato acaba tendo que aprender diversos termos em latim.
+Sempre que possível, facilitamos o aprendizado, mas em alguns casos, é importante conhecer os
+termos utilizados em provas! ☺
+
+Em razão dessa jurisprudência do STJ, foi editada a Súmula 614 (em maio de 2018), no sentido de que, por
+não haver relação jurídica entre a Fazenda Pública e o locatário, este não possui legitimidade ativa para
+discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado:
+
+Súmula STJ 614 - O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de
+IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos.
+
+
+
+
+Este tema relativo à condição de posse com animus domini para incidência tributária do IPTU deve ser
+considerado com muita cautela. Isso porque, a partir de 2017, o posicionamento do Supremo Tribunal
+Federal diverge do STJ.
+
+Ao julgar os Recursos Extraordinários 594.015/SP, 601.720/RJ e 434.251/RJ, o STF decidiu, em um caso
+envolvendo inaplicabilidade da imunidade recíproca a contratos de cessão do uso à empresas privadas de
+imóvel pertencente à União, que a definição do contribuinte do IPTU no art. 34, do CTN, “ou seu possuidor
+a qualquer título” não exige a posse com “animus domini”, alterando o seu clássico entendimento sobre o
+assunto.
+É evidente que, uma vez inaplicável a imunidade ao caso, e considerando que a União, proprietária do imóvel,
+já é imune de qualquer forma, a discussão repousaria sobre a empresa privada que estaria utilizando o imóvel
+público.
+
+Dica de Prova: Diante da celeuma, é improvável a cobrança do tema em prova. Se cair, vamos investigar se
+a questão exige o posicionamento do STF, que é este que acabamos de expor, ou a Súmula do STJ, que deve
+ser considerada correta também.
+
+Com base nesse raciocínio, você poderia até questionar quem seria o contribuinte em caso de contrato de
+promessa de compra e venda do imóvel. Nesse caso, o STJ foi claro:
+
+A jurisprudência desta Corte Superior é no sentido de que tanto o promitente comprador (possuidor
+a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a
+propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do
+IPTU.
+
+(STJ, REsp 1.111.202/SP, Primeira Seção, Rel. Min. Mauro Campbell Marques, Julgamento em
+10/06/2009)
+
+Isso significa que cabe ao legislador municipal eleger o sujeito passivo do IPTU, contemplando qualquer das
+situações previstas no CTN (proprietário, titular do domínio útil, ou o seu possuidor a qualquer título). Assim
+sendo, nada impede o promitente comprador e o proprietário (promitente vendedor) figurarem como
+sujeitos passivos do IPTU!
+
+Acrescentamos também que, de acordo com entendimento esposado pela Segunda Turma do STJ (REsp
+1.482.184-RS), o fato de parte de um imóvel urbano ter sido declarada como Área de Preservação
+Permanente (APP) e, além disso, sofrer restrição administrativa consistente na proibição de construir (nota
+non aedificandi) não impede a incidência de IPTU sobre toda a área do imóvel. Segundo a Corte, cuida-se
+de um ônus a ser suportado, o que não gera o cerceamento total da disposição, utilização ou alienação da
+propriedade, como ocorre, por exemplo, nas desapropriações.
+
+Imposto sobre a Transmissão de Bens Imóveis
+
+A respeito do ITBI, não há muito o que guardar. O mais relevante está mencionado no nosso curso, a seguir:
+
+“Imposto de transmissão de imóveis, inter vivos – ITBI: alíquotas progressivas: a CF não autoriza a
+progressividade das alíquotas, realizando-se o princípio da capacidade contributiva
+proporcionalmente ao preço da venda.”
+
+(STF, RE 234.105, Plenário, Rel. Min. Carlos Velloso, Julgamento em 08/04/1999)
+
+Na mesma direção, tome conhecimento da Súmula 656 do STF:
+
+Súmula STF 656 - É inconstitucional a lei que estabelece alíquotas progressivas para o imposto de
+transmissão inter vivos de bens imóveis – ITBI com base no valor venal do imóvel.
+Ademais, o mero contrato de promessa não constitui fato gerador do ITBI, sendo necessária a existência de
+registro do instrumento no cartório competente:
+
+“RECURSO EXTRAORDINÁRIO - IMPOSTO DE TRANSMISSÃO INTERVIVOS DE BENS IMÓVEIS - FATO
+GERADOR - CESSÃO DE DIREITOS. A cobrança do Imposto de Transmissão Intervivos de Bens Imóveis
+está vinculada à existência de registro do instrumento no cartório competente.”
+
+(STF, AI 646.443-AgR, Primeira Turma, Rel. Min. Marco Aurélio, Julgamento em 16/12/2008)
+
+
+
+
+Cuidado! Embora exista a Súmula 328 do STF (editada em 1963!), atualmente a competência para instituir
+imposto sobre transferência de bens imóveis a título gratuito é dos Estados (por meio do ITCMD). O ITBI, de
+competência municipal, incide sobre transmissões onerosas!
+
+Antes de finalizarmos o estudo da jurisprudência relativa ao ITBI, é de se ressaltar que, não obstante as bases
+de cálculo de ambos impostos sejam o valor venal do imóvel, o STJ já decidiu que não necessariamente tais
+valores devem ser iguais. Vejamos:
+
+“TRIBUTÁRIO. ITBI. IPTU. BASES DE CÁLCULO. VALOR VENAL. IDENTIDADE NECESSÁRIA. INEXISTÊNCIA.
+
+1. O valor venal do imóvel apurado para fins de ITBI não coincide, necessariamente, com aquele
+adotado para lançamento do IPTU.
+
+(...)
+
+(STJ,REsp 848.490/RJ, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 16/09/2008)
+
+
+
+
+Leve para a prova:
+
+→ As bases de cálculo do IPTU e do ITBI são o valor venal do imóvel. (CORRETA)
+
+→ As bases de cálculo do IPTU e do ITBI devem ser iguais. (ERRADA)
+
+
+
+
+QUESTÃO INÉDITA
+O valor venal do imóvel apurado para fins de ITBI não coincide, necessariamente, com aquele adotado para
+lançamento do IPTU.
+
+Comentário: Existe grande probabilidade de cair uma questão simples assim, copiando a literalidade da
+ementa do julgado do STJ. Neste caso, a questão está correta.
+
+Gabarito: Correta
+
+O fato gerador do ITBI abrange a transmissão "inter vivos", a qualquer título, por ato oneroso, de bens
+imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como
+cessão de direitos a sua aquisição (CF/88, art. 156, II).
+
+Insta observar também que o ITBI não incide sobre a transmissão de bens ou direitos incorporados ao
+patrimônio de pessoa jurídica em realização de capital, nem sobre a transmissão de bens ou direitos
+decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade
+preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou
+arrendamento mercantil.
+
+
+
+
+        As regras detalhadas sobre “atividade preponderante” constam no art. 37 do CTN,
+        resumido abaixo.
+
+        Atividade Preponderante: É considerada atividade preponderante quando mais de 50% da
+        receita operacional da pessoa jurídica adquirente, nos dois anos anteriores e nos dois anos
+        subsequentes à aquisição, provém de transações de venda ou locação de propriedade
+        imobiliária ou cessão de direitos de sua aquisição.
+
+        Empresas Novas ou Recentes: Se a pessoa jurídica adquirente iniciou suas atividades após
+        a aquisição ou até dois anos antes dela, a preponderância é apurada considerando os três
+        primeiros anos seguintes à aquisição.
+
+        Imposto Devido: Se confirmada a preponderância da atividade, o imposto torna-se devido
+        sobre o valor do bem ou direito na data da aquisição, conforme a lei vigente naquela data.
+
+        Transmissão Integral do Patrimônio: As regras deste artigo não se aplicam à transmissão
+        de bens ou direitos realizada juntamente com a totalidade do patrimônio da pessoa jurídica
+        alienante.
+
+Assim sendo, preste atenção: se um sócio pretende integralizar o capital social da sua empresa com um
+imóvel, não há incidência de ITBI (realização de capital). Da mesma forma, se a empresa Alfa incorpora a
+empresa Beta, todo o patrimônio de Beta é transferido para Alfa (inclusive os bens imóveis), sem incidência
+do ITBI, por haver imunidade tributária. Entendido?
+Mas vale destacar a jurisprudência do STF, no sentido da incidência do ITBI, quando o valor dos bens
+integralizados ultrapassar o limite do capital social a ser integralizado (Tema 796):
+
+        A imunidade em relação ITBI, prevista no inciso I do § 2º do art. 156 da Constituição Federal,
+        não alcança o valor dos bens que exceder o limite do capital social a ser integralizado. (STF,
+        RE 796376)
+
+
+
+
+Imposto sobre Serviços de Qualquer Natureza
+
+Vejamos, a partir de agora, o último assunto da nossa aula: o ISS! Sobre o tema, temos as seguintes
+jurisprudências:
+
+“(…) De igual maneira, é firme a orientação de que não incide o ISS sobre a atividade-meio utilizada
+na prestação do serviço, como é o caso da atividade de secretaria (anotação de recados e digitação
+de mensagens) envolvida na prestação de serviços de "radiochamada" por intermédio de pagers.”
+
+(STJ,REsp 848.490/RJ, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 16/09/2008)
+
+Atividade-meio indispensável ao alcance da atividade-fim não sofre incidência de ISS. Esse entendimento é
+pacífico no âmbito do STJ.
+
+Além disso, destaque-se que não há incidência de ISS, quando fica clara a ausência de prestação de serviços
+a terceiros:
+
+     TRIBUTÁRIO. INCORPORAÇÃO IMOBILIÁRIA. CONSTRUÇÃO FEITA PELO INCORPORADOR EM
+     TERRENO PRÓPRIO. ISS. NÃO INCIDÊNCIA. AUSÊNCIA DE PRESTAÇÃO DE SERVIÇO A TERCEIRO. 1.
+     Nos termos da jurisprudência desta Corte, não incide ISS na hipótese de construção feita pelo
+     próprio incorporador, haja vista que, se a construção é realizada por ele próprio, em terreno
+     próprio, não há falar em prestação de serviços a terceiros, mas a si próprio, o que
+     descaracteriza o fato gerador.
+
+     (STJ, AgRg REsp 1.295.814/MS, Rel. Min. Sérgio Kukina, Julgamento em 03/10/2013)
+
+Agora vamos falar sobre a incidência de ISS/ICMS sobre softwares! O entendimento atual do STF, resultado
+do julgamento das ADIs 5659 e 1945 é o de que há incidência de ISS, e não ICMS, sobre os softwares de
+computador.
+
+Vou te explicar melhor!
+
+Existem programas de computador (softwares) que são elaborados por encomenda do cliente, isto é, são
+customizados conforme as exigências do encomendante. Normalmente, em tais casos, o fornecimento do
+software ocorre mediante o licenciamento ou cessão do direito de seu uso.
+
+Existem também os softwares “prontos” ou padronizados, que são comercializados em massa, como um
+antivírus ou um software de edição de fotos e vídeos, por exemplo. Esses últimos eram conhecidos como
+“softwares de prateleira”, em uma referência ao modo como eram antigamente vendidos em prateleiras de
+estabelecimentos varejistas (em que você teria acesso ao conteúdo do programa, adquirindo um CD-ROM).
+
+E por haver essa diferença entre os dois tipos de softwares, a jurisprudência antiga do STF era a de que
+incidiria ISS sobre o fornecimento de software mediante licenciamento ou cessão do direito de uso, e ICMS
+sobre os “softwares de prateleira”.
+
+A partir de 2021, o entendimento majoritário da Suprema Corte é o de que há apenas incidência do ISS
+sobre os softwares, sejam eles padronizados ou produzidos por encomenda. Logo, não cabe a incidência
+do ICMS! Preste atenção!
+
+Esta decisão também vale para os serviços de streaming de áudio e vídeo, como Netflix, Amazon Prime,
+Spotify etc, por não haver cessão definitiva do serviço para o consumidor e por não haver mudança de
+titularidade do bem. Esta afirmação que acabamos de fazer caiu literalmente em um concurso! Atenção!
+
+Ainda sobre a relação de incidência ICMS/ISS, é relevante destacar o Tema 379 de Repercussão Geral, em
+que o STF fixou a seguinte tese (referente às farmácias de manipulação):
+
+        No tocante às farmácias de manipulação, incide o ISS sobre as operações envolvendo o
+        preparo e o fornecimento de medicamentos encomendados para posterior entrega aos
+        fregueses, em caráter pessoal, para consumo; incide o ICMS sobre os medicamentos de
+        prateleira por elas produzidos, ofertados ao público consumidor. (STF, RE 605552)
+
+
+
+
+        Softwares (padronizados ou por encomenda), inclusive streaming (Netflix, Spotfy):
+        incidência exclusiva do ISS.
+
+        Medicamentos manipulados sob encomenda: ISS
+
+        Medicamentos de prateleira: ICMS
+
+Ademais, o STF também já editou súmula vinculante, vedando a incidência do ISS sobre operações de locação
+de bens móveis:
+
+Súmula Vinculante 31 - É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza
+– ISS sobre operações de locação de bens móveis.
+
+A jurisprudência do STF se baseia no raciocínio que a mera locação de bens móveis não constitui obrigação
+de fazer, não sendo legítima, por exemplo, a incidência de ISS sobre locação de veículos ou DVDs. Ressalte-
+se, porém, que a referida súmula não exonera a incidência do ISS sobre a prestação de serviços concomitante
+à locação de bens móveis:
+“A Súmula Vinculante 31 não exonera a prestação de serviços concomitante à locação de bens móveis
+do pagamento do ISS. Se houver ao mesmo tempo locação de bem móvel e prestação de serviços, o
+ISS incide sobre o segundo fato, sem atingir o primeiro.”
+
+(STF, ARE 656.709-AgR, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento em 14/02/2012)
+
+
+
+
+Ainda sobre o ISS, cabe destacarmos que é um imposto que incide sobre serviços de qualquer natureza,
+definidos por meio de lei complementar. Trata-se de uma lista que estabelece todos os serviços tributáveis
+pelo referido imposto municipal. Quanto a essa lista, a jurisprudência do STJ é no sentido que, embora a
+Lista de Serviços seja taxativa, admite-se a interpretação dos itens lá previstos de forma extensiva para
+serviços congêneres.
+
+É interessante conhecer também a jurisprudência relevante sobre o ISS (Tema 296):
+
+        É taxativa a lista de serviços sujeitos ao ISS a que se refere o art. 156, III, da Constituição
+        Federal, admitindo-se, contudo, a incidência do tributo sobre as atividades inerentes aos
+        serviços elencados em lei em razão da interpretação extensiva. (STF, RE 784439)
+
+Embora a Lista de Serviços seja taxativa, admite-se a interpretação dos itens lá previstos de forma extensiva
+para serviços congêneres.
+
+    É relevante citar que o ISS incide sobre as atividades das operadoras de plano de saúde (Tema 581),
+apesar de, em fevereiro de 2019, o Supremo Tribunal Federal ter reconhecido que o ISS não incide sobre o
+seguro saúde, mas apenas sobre os serviços de planos de saúde:
+
+        As operadoras de planos de saúde realizam prestação de serviço sujeita ao Imposto sobre
+        Serviços de Qualquer Natureza - ISSQN, previsto no art. 156, III, da CRFB/88. (STF, RE
+        651703)
+
+Destacamos, ainda, a possibilidade de incidência do ISS sobre o leasing financeiro, conforme Tema 125 de
+Repercussão Geral:
+
+        É constitucional a incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre as
+        operações de arrendamento mercantil (leasing financeiro). (STF, RE 592905)
+
+No leasing financeiro, o arrendador é uma instituição financeira, que adquire o bem no mercado e realiza o
+contrato de leasing. Neste caso, é feita a cessão do direito de uso do bem ao arrendatário. E, ao final do
+prazo fixado no contrato, o arrendatário pode adquirir o bem por valor residual fixado na contratação do
+leasing.
+
+Uma súmula a respeito do arrendamento mercantil:
+
+     Súmula STJ 138 - O ISS incide na operação de arrendamento mercantil de coisas móveis.
+
+O STF também decidiu que é constitucional a incidência de ISS sobre contratos de franquia (franchising),
+conforme Tema 300 de Repercussão Geral:
+
+        É constitucional a incidência de Imposto sobre Serviços de Qualquer Natureza (ISS) sobre
+        contratos de franquia (franchising) (itens 10.04 e 17.08 da lista de serviços prevista no
+        Anexo da Lei Complementar 116/2003). (STF, RE 603136)
+
+Também foi julgada a constitucionalidade da incidência do ISS sobre a prestação de serviços de registros
+públicos, cartorários e notariais (Tema 688):
+
+        É constitucional a incidência do ISS sobre a prestação de serviços de registros públicos,
+        cartorários e notariais, devidamente previstos em legislação tributária municipal. (STF, RE
+        756915)
+
+Mais um tema relevante é a incidência do ISS obre serviços de distribuição e venda de bilhetes e demais
+produtos de loteria (Tema 700):
+
+        É constitucional a incidência de ISS sobre serviços de distribuição e venda de bilhetes e
+        demais produtos de loteria, bingos, cartões, pules ou cupons de apostas, sorteios e prêmios
+        (item 19 da Lista de Serviços Anexa à Lei Complementar 116/2003). Nesta situação, a base
+        de cálculo do ISS é o valor a ser remunerado pela prestação do serviço, independentemente
+        da cobrança de ingresso, não podendo corresponder ao valor total da aposta. (STF, RE
+        634764)
+
+Vejamos a Súmula 274 do STJ:
+
+     Súmula STJ 274 - O ISS incide sobre o valor dos serviços de assistência médica, incluindo-se neles
+     as refeições, os medicamentos e as diárias hospitalares.
+
+Isso significa que, além dos procedimentos médicos em si, itens como refeições fornecidas aos pacientes,
+medicamentos utilizados durante a assistência e as diárias de internação hospitalar também estão sujeitos à
+incidência do ISS. Ou seja, a base de cálculo do imposto engloba todos os serviços e insumos que compõem
+a assistência médica.
+
+Vejamos agora a Súmula 524:
+
+     Súmula STJ 524 - No tocante à base de cálculo, o ISSQN incide apenas sobre a taxa de
+     agenciamento quando o serviço prestado por sociedade empresária de trabalho temporário for
+     de intermediação, devendo, entretanto, englobar também os valores dos salários e encargos
+     sociais dos trabalhadores por ela contratados nas hipóteses de fornecimento de mão de obra.
+
+Temos também a Súmula 588:
+
+     Súmula STJ 588 - O imposto sobre serviços não incide sobre os depósitos, as comissões e taxas de
+     desconto, cobrados pelos estabelecimentos bancários.
+
+Veja, os depósitos feitos pelos clientes, assim como as comissões e as taxas de desconto cobradas pelos
+bancos em suas operações, não são consideradas prestações de serviço para fins de incidência do ISS.
+Portanto, essas atividades financeiras estão fora do escopo do imposto sobre serviços.
+
+E, por fim, quero destacar uma jurisprudência que eu já vi cair em prova:
+
+     É constitucional a inclusão do Imposto Sobre Serviços de Qualquer Natureza -ISS na base de
+     cálculo da Contribuição Previdenciária sobre a Receita Bruta – CPRB. (STF, RE 1285845)
+
+A CPRB é a contribuição previdenciária patronal, que foi prevista no art. 8º da Lei 12.546/2011, criando uma
+forma de substituição da contribuição previdenciária patronal incidente sobre as remunerações pagas pelas
+empresas de determinados setores. Assim, tais empresas ficariam sujeitas a uma contribuição sobre a sua
+receita brut (excluídos as vendas canceladas e os descontos incondicionais concedidos).
+
+Assim, o STF decidiu que a empresa não poderia abater da sua receita bruta o valor do ISS, afinal, como dito,
+É constitucional a inclusão do Imposto Sobre Serviços de Qualquer Natureza -ISS na base de cálculo da
+Contribuição Previdenciária sobre a Receita Bruta – CPRB.
+
+Sobre os serviços feitos sob encomenda, guarde o seguinte:
+
+Súmula STJ 156 – A prestação de serviço de composição gráfica, personalizada e sob encomenda, ainda
+que envolva fornecimento de mercadorias, esta sujeita, apenas, ao ISS.
+
+Na mesma linha, temos o julgado abaixo:
+
+AGRAVO REGIMENTAL. PROCESSO CIVIL. TEMPESTIVIDADE DO RECURSO ESPECIAL. OCORRÊNCIA.
+TRIBUTÁRIO. INDUSTRIALIZAÇÃO POR ENCOMENDA. BENEFICIAMENTO DE MATÉRIA-PRIMA.
+INCIDÊNCIA DO ISSQN. APLICAÇÃO DA SÚMULA 83/STJ. Verifica-se que, no caso dos autos, deve incidir
+o ISS porquanto,trata-se de serviços personalizados feitos em conformidade com o interesse
+exclusivo do cliente, distintos dos serviços destinados ao público em geral.
+
+(STJ, AgRg no AREsp 328.624/ES, Segunda Turma, Rel. Min. Humberto Martins, Julgamento
+17/09/2013)
+
+Vamos memorizar também uma importante súmula do STJ:
+
+Súmula STJ 167 - O fornecimento de concreto, por empreitada, para construção civil, preparado no
+trajeto até a obra em betoneiras acopladas a caminhões, e prestação de serviço, sujeitando-se apenas
+a incidência do ISS.
+Ainda no que concerne ao ISS, sabemos que o referido imposto incide o serviço de transporte municipal, mas
+não intermunicipal (entre dois Municípios), sendo este tributado pelo ICMS, não é verdade?
+
+Há que se atentar, no entanto, para a jurisprudência do Superior Tribunal de Justiça, quanto à incidência do
+ISS sobre o serviço de transporte de passageiros em regiões metropolitanas, quando o serviço se inicia em
+determinado Município, percorre região de outro Município vizinho, e retorna ao Município de origem:
+
+TRIBUTÁRIO. ISSQN. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE DE PASSAGEIROS QUE SE INICIA E
+TERMINA EM UM MESMO MUNICÍPIO. SERVIÇO ESTRITAMENTE MUNICIPAL. CARACTERIZAÇÃO.
+COMPETÊNCIA MUNICIPAL. ARTIGO 156, III, DA CF/1988.
+
+1. O Imposto Sobre Serviços de Qualquer Natureza - ISSQN incide sobre a prestação de serviço de
+transporte que comece e termine no território de um único Município, ainda que, por uma questão
+de traçado de ruas, o veículo transportador acabe perpassando, em alguns trechos do percurso, pelos
+lindes de outro Município, o que não retira a natureza estritamente municipal do contrato de
+transporte celebrado entre o prestador e o tomador do serviço.
+
+(...)
+
+(STJ, REsp 879.797/MG, Rel. Min. Luiz Fux, Primeira Turma, Julgamento 04/11/2008)
+
+Caro aluno(a), por hoje é só!
+
+Um abraço e até a próxima aula!
+          SÚMULAS ABORDADAS DURANTE A AULA
+Súmula STF 583: A imunidade recíproca não exonera o promitente comprador da obrigação de pagar
+imposto relativamente ao bem imóvel:
+
+Súmula STF 583 - Promitente-comprador de imóvel residencial transcrito em nome de autarquia é
+contribuinte do imposto predial territorial urbano.
+
+Súmula Vinculante 52:
+
+Súmula Vinculante 52 - Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel
+pertencente a qualquer das entidades referidas pelo art. 150, VI, “c”, da Constituição Federal, desde
+que o valor dos aluguéis seja aplicado nas atividades para as quais tais entidades foram constituídas.
+
+Súmula Vinculante 57:
+
+Súmula Vinculante 57 - A imunidade tributária constante do artigo 150, VI, d, da CF/88 aplica-se à
+importação e comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes
+exclusivamente utilizados para fixá-los, como leitores de livros eletrônicos (e-readers), ainda que
+possuam funcionalidades acessórias
+
+Súmula STF 730:
+
+Súmula STF 730 - A imunidade tributária conferida a instituições de assistência social sem fins lucrativos
+pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas de previdência social
+privada se não houver contribuição dos beneficiários.
+
+Súmula STF 657:
+
+Súmula STF 657 - A imunidade prevista no art. 150, VI, d, da CF abrange os filmes e papéis fotográficos
+necessários à publicação de jornais e periódicos.
+
+Súmula STF 659: Na CF/88, consta que, à exceção do II, IE e ICMS nenhum outro imposto poderá incidir sobre
+operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e
+minerais do País. A vedação diz respeito aos impostos, não alcançando as contribuições:
+
+Súmula STF 659 - É legítima a cobrança da COFINS, do PIS e do FINSOCIAL sobre as operações relativas
+a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do
+País.
+
+Além disso, o STF também decidiu que a exigência de renovação periódica do CEBAS não ofende o disposto
+no art. 146, II, da CF/88, que reserva à lei complementar regulação das limitações ao poder de tributar.
+

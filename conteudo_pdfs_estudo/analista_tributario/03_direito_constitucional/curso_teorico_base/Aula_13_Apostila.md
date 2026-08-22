@@ -1,0 +1,4689 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 13_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: Direito Constitucional
+artigos_citados:
+- Art. 84
+- art. 167
+- art. 167-B
+- art. 21
+- art. 22
+- art. 48
+- art. 80
+- art.84
+sumulas_citadas:
+- Súmula Vinculante nº 46
+---
+
+# Direito Constitucional
+
+Aula 12
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                           21 de Outubro de 2025
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 12
+
+                                                                                     Índice
+1) Forma de Governo e Sistema de Governo
+
+
+2) Chefia de Estado e Chefia de Governo
+
+
+3) Investidura e Posse do Presidente da República
+
+
+4) Poder Executivo - Impedimento e Vacância
+
+
+5) Poder Executivo - Substituição e Sucessão
+
+
+6) Atribuições do Presidente da República (art. 84, CF/88)
+
+
+7) Responsabilização do Presidente da República (art. 85 - 86, CF/88)
+
+
+8) Vice-Presidente e Ministros de Estado (art. 87 - art. 88, CF/88)
+
+
+9) Conselho da República e Conselho de Defesa Nacional (art. 89 - art. 91, CF/88)
+
+
+10) Questões Comentadas - Poder Executivo - FGV
+
+
+11) Lista de Questões - Poder Executivo - FGV
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           92
+
+                                                             
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+                            PODER EXECUTIVO: NORMAS GERAIS
+
+Forma de Governo: República e Monarquia
+Antes de passarmos propriamente ao estudo do Poder Executivo, é importante relembrarmos as
+principais características das duas formas fundamentais de governo: república e monarquia.
+Lembre-se que as formas de governo dizem respeito à organização das instituições que exercem
+o poder soberano do Estado e às relações entre aquelas instituições1.
+A monarquia possui as seguintes características básicas: vitaliciedade (o monarca governa
+enquanto viver ou enquanto tiver condições para fazê-lo), hereditariedade (a sucessão do
+soberano é feita pelos seus herdeiros) e irresponsabilidade (não se atribui responsabilidade
+política ao monarca). Houve um tempo em que as monarquias estavam associadas ao
+absolutismo, contexto em que não havia qualquer limitação ao poder do soberano. Todavia, do
+século XVIII em diante, houve o surgimento das monarquias constitucionais, em que incidem
+limitações jurídicas ao exercício do poder do monarca.
+A república, por sua vez, reúne as seguintes características fundamentais: temporariedade (chefe
+de governo cumpre um mandato temporário), eletividade (há eleição para a escolha do chefe de
+governo) e responsabilidade (chefe de governo deve prestar contas). A forma republicana melhor
+favorece o exercício da democracia, tendo em vista que a realização de eleições e a
+obrigatoriedade de prestação de contas são aspectos que viabilizam uma participação popular
+mais presente do que na forma de governo monárquica. Lembre-se que, etimologicamente,
+república significa "coisa pública" (res = coisa; publica = pública).
+O Brasil, como se sabe, é uma república federativa, em que sua forma de Estado é a federação e
+a sua forma de governo é a republicana.
+Como veremos mais à frente, há dois sistemas de governo: presidencialismo e parlamentarismo.
+Nosso país optou por ter um sistema de governo presidencialista.
+
+Sistema de Governo: Presidencialismo x Parlamentarismo
+O sistema de governo adotado por um Estado é o modo como se dá a relação entre os Poderes,
+notadamente entre o Poder Executivo e o Poder Legislativo. Não se confunde com forma de
+governo (que pode ser República ou Monarquia), tampouco com forma de Estado (Estado
+unitário ou Estado federal).
+Há dois sistemas de governo amplamente utilizados mundo afora: i) o presidencialismo e; ii) o
+parlamentarismo. Como exemplo de países que adotam o presidencialismo, citamos o Brasil e os
+EUA. Por outro lado, a Inglaterra é um exemplo de país que adota o parlamentarismo como
+sistema de governo.
+O presidencialismo tem suas origens nos EUA, que o adotaram como sistema de governo na
+Constituição de 1787. Possui como características principais as seguintes:
+          a) A Chefia do Poder Executivo é unipessoal ou monocrática. O Presidente da República
+          exerce a função de Chefe de Estado (representando o País em suas relações
+
+1
+    DALLARI, Dalmo de Abreu. Elementos de Teoria Geral do Estado, 28ª edição, Ed. Saraiva, São Paulo, 2009.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                                       3
+           www.estrategiaconcursos.com.br                                                                     92
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+          internacionais) e, ainda, a função de Chefe de Governo (dirigindo as políticas públicas do
+          Estado e chefiando a Administração Pública federal). Em suma, no presidencialismo, o
+          Presidente da República acumula em suas mãos todas as funções executivas.
+          b) Inexistência de vínculo entre Poder Legislativo e Poder Executivo. No presidencialismo,
+          há independência entre o Poder Legislativo e o Executivo. O Presidente pode, inclusive,
+          ser eleito sem que tenha o apoio da maioria parlamentar; é claro que, nessa situação,
+          haverá fortes prejuízos à governabilidade. Ademais, não pode o Presidente interferir no
+          mandato de Deputados e Senadores, eleitos democraticamente pelo povo.
+          c) Mandato por tempo determinado. O Presidente da República, quando eleito, já tem um
+          tempo pré-fixado durante o qual irá exercer o seu mandato. No Brasil, por exemplo, o
+          mandato do Presidente é de 4 anos, podendo haver uma reeleição. Não existe a
+          possibilidade de o Poder Legislativo, a seu bel prazer, abreviar o mandato presidencial,
+          destituindo o Presidente do cargo. No Brasil, a única possibilidade de perda do cargo de
+          Presidente por atuação do Poder Legislativo é a condenação por crime de
+                                                            ==219a34==
+
+          responsabilidade (processo de “impeachment”).
+Na grande maioria dos países que adotam o sistema presidencialista, a eleição do Presidente é
+feita pelo voto direto da população. Com isso, o candidato eleito goza de grande legitimidade
+popular, o que é percebido pela doutrina como uma das vantagens do sistema presidencialista.
+O parlamentarismo, por sua vez, tem suas origens, na Inglaterra do século XI. Suas características
+principais são as seguintes:
+          a) A Chefia do Poder Executivo é dual, pois o Chefe de Estado e o Chefe de Governo são
+          pessoas diferentes. Nas monarquias parlamentaristas, o Chefe de Estado é o monarca, ao
+          passo que o Chefe de Governo é o Primeiro-Ministro. Por outro lado, nas repúblicas
+          parlamentaristas, há o Presidente (como Chefe de Estado) e o Primeiro-Ministro (como
+          Chefe de Governo).
+          b) Interdependência entre os Poderes Executivo e Legislativo. O Primeiro Ministro e os
+          demais membros do Gabinete (Ministros) são integrantes do Parlamento e são por ele
+          nomeados. Assim, a Chefia de Governo só se mantém no poder enquanto possuir o apoio
+          do Parlamento; caso o Primeiro-Ministro perca esse apoio, poderá ser destituído pelo
+          Parlamento.
+          c) Mandato por prazo indeterminado. O Primeiro-Ministro (Chefe de Governo) ocupa o
+          cargo por tempo indeterminado, enquanto possuir o apoio do Parlamento. Destaque-se,
+          ainda, que em situações em que o povo perde a confiança no Parlamento, este também
+          pode ser dissolvido pelo Primeiro-Ministro, convocando-se eleições extraordinárias para a
+          formação de um novo Parlamento.
+A doutrina aponta que uma das vantagens do sistema parlamentarista é a existência de uma
+relação harmoniosa entre o Poder Legislativo e o Poder Executivo, que resulta em maior
+governabilidade. Esta é obtida pelo fato de que o Primeiro-Ministro e os demais membros do
+Gabinete são oriundos do Parlamento e, como tal, suas ações terão apoio do Poder Legislativo.
+Vale destacar que, no sistema parlamentarista, é possível a substituição simplificada do Governo
+(o que não é possível no presidencialismo!), o que é particularmente importante para contornar
+de forma mais eficiente situações de crise política. 2
+
+2
+    MASSON, Nathalia. Manual de Direito Constitucional. Ed. Juspodium, Salvador, 2013, pp. 731-732
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                              4
+           www.estrategiaconcursos.com.br                                                            92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+A partir do momento em que o Brasil adotou a República, o presidencialismo passou a ser o
+sistema de governo. Apenas durante o período de setembro de 1961 a janeiro de 1963,
+adotamos o parlamentarismo em nosso País.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                   5
+        www.estrategiaconcursos.com.br                                                 92
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 12
+
+                           PODER EXECUTIVO: NORMAS GERAIS
+
+Chefia de Estado e Chefia de Governo – Funções do Poder
+Executivo
+
+O Poder Executivo, assim como os demais Poderes do Estado, possui funções típicas e funções
+atípicas. A função típica do Poder Executivo é a função executiva, que abrange atividades de
+Chefia de Governo, Chefia de Estado e de Chefia da Administração Pública.1 O Poder Executivo
+é, afinal, o responsável por impulsionar e dirigir a ação estatal, seja no plano interno ou no plano
+internacional.2
+É importante pontuar que as chefias de governo e de Estado podem ser exercidas por pessoas
+diferentes. Por exemplo, na Inglaterra temos o primeiro-ministro (chefe de governo) e a rainha
+(chefe de Estado), cada qual com atribuições bem distintas entre si. No caso brasileiro, ambas as
+funções são exercidas pela mesma pessoa (Presidente da República).
+A chefia de Estado tem atribuições simbólicas e mais relacionadas a aspectos diplomáticos, na
+medida em que um Estado soberano é representado no plano internacional pelo seu respectivo
+chefe. Já a chefia de governo evidencia a formulação e a condução das políticas públicas
+internas, bem como o funcionamento das instituições e dos demais órgãos do país. Em regimes
+parlamentaristas, o chefe de governo é também o chefe do Poder Legislativo. Já em regimes
+republicanos, o chefe de governo é o chefe do Poder Executivo.
+A doutrina considera que a função executiva subdivide-se em duas: i) função de governo
+(atribuições de decisão política) e; ii) função administrativa (atribuições relacionadas à prestação
+de serviço público).3
+O Poder Executivo também exerce funções atípicas: função legislativa (quando edita medidas
+provisórias, leis delegadas e decretos autônomos) e função de julgamento (no âmbito do
+contencioso administrativo, como, por exemplo, quando decide um processo administrativo
+disciplinar). Cabe destacar que a doutrina majoritária entende que o Poder Executivo não exerce
+função jurisdicional.
+Segundo o Prof. Gilmar Mendes, a realidade política brasileira demonstra uma
+hiperpotencialização do Poder Executivo, centrado na figura do Presidente da República; nesse
+sentido, é perceptível, em nosso modelo político, a proeminência do Poder Executivo sobre os
+demais Poderes.4
+
+1
+  SILVA, José Afonso da. Curso de Direito Constitucional Positivo, 35ª edição, Ed. Malheiros, São Paulo, 2012.
+2
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 1228.
+3
+  MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet, COELHO, Inocêncio Mártires. Curso de Direito
+Constitucional, 5ª edição. São Paulo: Saraiva, 2010, pp. 935
+4
+  Op Cit. Pp. 935.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                      6
+          www.estrategiaconcursos.com.br                                                                   92
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+(PC-PI – 2018) No Presidencialismo, as funções de Chefe de Estado e Chefe de Governo
+encontram-se nas mãos de uma única pessoa, qual seja, o Presidente da República; esta forma de
+governo é a prevista na Constituição Brasileira.
+Comentários:
+No sistema de governo presidencialista, o desempenho das chefias de Estado e de Governo é
+feito pela mesma autoridade (Presidente). No entanto, o Presidencialismo é um sistema de
+governo, e não uma forma de governo. República e monarquia são exemplos de forma de
+                                                         ==219a34==
+
+governo, ao passo que presidencialismo e parlamentarismo são exemplos de sistema de
+governo. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        7
+        www.estrategiaconcursos.com.br                                                     92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+                           PODER EXECUTIVO: NORMAS GERAIS
+
+Investidura e Posse do Presidente da República
+
+Em nosso ordenamento jurídico, o Presidente da República encarna a Chefia de Estado e a
+Chefia de Governo, exercendo, portanto, todas as funções executivas. Nesse sentido, diz a
+Constituição que o Poder Executivo é exercido pelo Presidente da República, auxiliado pelos
+Ministros de Estado.
+Para que um indivíduo possa ocupar o cargo de Presidente, ele deverá cumprir os seguintes
+requisitos constitucionais:
+         a) Ser brasileiro nato (art. 12, § 3º, CF/88).
+         b) Possuir alistamento eleitoral.
+         c) Estar no pleno gozo dos direitos políticos.
+         d) Ter no mínimo 35 anos. Destaque-se que essa idade deve ser comprovada na data da
+posse.
+         e) Não se enquadrar em nenhuma das inelegibilidades previstas na Constituição.
+         f) Possuir filiação partidária.
+A eleição do Presidente e do Vice-Presidente da República é feita pelo sistema majoritário de
+dois turnos. Por esse sistema, considera-se eleito o candidato que obtiver a maioria absoluta dos
+votos válidos (não computados, portanto, os votos em branco e os nulos). Caso não obtenha essa
+maioria na primeira votação, será realizado um novo turno de votações.
+
+          Existem dois tipos de sistema majoritário:
+          1) Sistema majoritário puro (ou simples): é eleito o candidato com o maior
+          número de votos (maioria simples). Esse sistema é utilizado para a eleição dos
+          Senadores e de Prefeitos em municípios com até 200.000 eleitores.
+          2) Sistema majoritário de dois turnos: é eleito o candidato que obtém a maioria
+          absoluta dos votos válidos. A maioria absoluta é obtida quando o candidato tem
+          mais da metade dos votos válidos. Esse sistema é utilizado nas eleições do
+          Presidente, dos Governadores e de Prefeitos em municípios com mais de
+          200.000 eleitores.
+
+          Receita Federal (Analista Tributário) Direito Constitucional                         8
+          www.estrategiaconcursos.com.br                                                       92
+
+                                        
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 12
+
+E quando ocorrerão as eleições presidenciais?
+Segundo o art. 77, caput, a eleição do Presidente e do Vice-Presidente será realizada,
+simultaneamente, no primeiro domingo de outubro (em primeiro turno) e no último domingo de
+outubro (em segundo turno, se houver) do ano anterior ao do término do mandato presidencial
+vigente. Destaque-se que a eleição do Presidente importará a do Vice-Presidente com ele
+registrado; em outras palavras, ao eleger o Presidente, a população estará automaticamente
+elegendo o Vice.1
+Será considerado eleito Presidente o candidato que, registrado por partido político, obtiver a
+maioria absoluta de votos, não computados os em branco e os nulos. Assim, para se eleger no
+primeiro turno, o candidato deverá ter mais votos do que o somatório dos votos de todos os seus
+adversários; precisará, portanto, ter mais da metade dos votos válidos.
+Se a maioria absoluta não for obtida no primeiro turno, será realizado o segundo turno. Irão
+                                                           ==219a34==
+
+concorrer os dois candidatos mais votados no primeiro turno. Havendo empate em segundo
+lugar, será qualificado o mais idoso, que irá, então, disputar o segundo turno. Destaque-se que
+será considerado eleito, no segundo turno, aquele que obtiver a maioria dos votos válidos.
+Se, antes de realizado o segundo turno, ocorrer morte, desistência ou impedimento legal de
+candidato, convocar-se-á, dentre os remanescentes, o de maior votação. Cuidado! Não será
+convocado o Vice do candidato que faleceu, desistiu ou foi impedido, mas sim chamado aquele
+que ficou na terceira posição no primeiro turno. Caso ocorra empate entre os remanescentes,
+qualificar-se-á o mais idoso.
+A partir da promulgação da Emenda Constitucional nº 111, de 28 de setembro de 2021, tem-se
+que o Presidente e o Vice-Presidente da República tomarão posse em sessão conjunta do
+Congresso Nacional, em 5 de janeiro, prestando o compromisso de manter, defender e cumprir a
+Constituição, observar as leis, promover o bem geral do povo brasileiro, sustentar a união, a
+integridade e a independência do Brasil.
+Se, decorridos dez dias da data fixada para a posse, o Presidente ou o Vice-Presidente, salvo
+motivo de força maior, não tiver assumido o cargo, este será declarado vago (art. 78, parágrafo
+único). A partir desse dispositivo, é possível vislumbrarmos 6 situações diferentes:
+         a) Presidente da República e Vice-Presidente não comparecem dentro de 10 dias da data
+         fixada para posse, SEM motivo de força maior. Nesse caso, será declarada a vacância dos
+         dois cargos (Presidente e Vice). Precisarão ser realizadas novas eleições diretas, como
+         estudaremos mais à frente.
+         b) Presidente da República não comparece dentro de 10 dias da data fixada para a posse,
+         SEM motivo de força maior. Nesse caso, o Vice assumirá o cargo de Presidente e exercerá
+         o mandato inteiro sem Vice.
+
+
+1
+  Nem sempre foi assim na História brasileira. A Constituição de 1946 dispunha que o Presidente e o
+Vice-Presidente seriam eleitos separadamente. Como resultado disso, tivemos, por vezes, eleição de
+candidatos com posições políticas antagônicas, como, por exemplo, Jânio Quadros (eleito presidente em 1960)
+e João Goulart (Vice-Presidente). Quando Jânio Quadros renunciou, houve forte rejeição a João Goulart. A
+solução para o impasse político foi instaurar um sistema parlamentarista no Brasil.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                   9
+          www.estrategiaconcursos.com.br                                                                92
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+       c) Vice-Presidente não comparece dentro de 10 dias da data fixada para a posse, SEM
+       motivo de força maior. Nesse caso, o Presidente irá exercer todo o mandato sem Vice.
+       d) Presidente da República e Vice-Presidente não comparecem dentro de 10 dias da data
+       fixada para posse, COM motivo de força maior. A posse será adiada para que, após
+       cessado o motivo de força maior, eles possam assumir o cargo.
+       e) Presidente da República não comparece dentro de 10 dias da data fixada para a posse,
+       COM motivo de força maior. O Vice-Presidente toma posse e assume, interinamente, o
+       cargo de Presidente até que cesse o motivo de força maior.
+       f) Vice-Presidente não comparece dentro de 10 dias da data fixada para a posse, COM
+       motivo de força maior. O Presidente toma posse e governa sem Vice até que cesse o
+       motivo de força maior que impediu o Vice de tomar posse.
+O mandato presidencial tem a duração de 4 anos e terá início em 5 de janeiro do ano seguinte
+ao da eleição do Presidente da República. A alteração na data da posse, que antes era 1º de
+janeiro, se deu por meio da EC nº 111/2021, que modificou o caput do art. 82 da CF/88:
+
+        Art. 82. O mandato do Presidente da República é de 4 (quatro) anos e terá início
+        em 5 de janeiro do ano seguinte ao de sua eleição.
+
+Contudo, a nova data de posse somente terá efeito prático a partir das eleições de 2026. Isso
+significa que o Presidente eleito nas eleições de 2022 tomou posse em 1º de janeiro de 2023,
+sendo que o seu mandato durará até a posse de seu sucessor, em 5 de janeiro de 2027.
+É permitida a reeleição para um único período subsequente. No entanto, é plenamente possível
+que um indivíduo seja eleito para mais de 2 mandatos presidenciais, desde que não sejam
+consecutivos. O maior número de mandatos presidenciais consecutivos que alguém pode
+cumprir são dois.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        10
+        www.estrategiaconcursos.com.br                                                      92
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+                            PODER EXECUTIVO: NORMAS GERAIS
+
+Impedimento e Vacância
+
+De início, é fundamental que saibamos a diferença entre impedimento e vacância do Presidente
+da República. Impedimentos são os afastamentos temporários. É o que ocorre, por exemplo,
+quando o Presidente se afasta do País. Quando há um impedimento do Presidente, diz-se que
+haverá a sua substituição pelo Vice-Presidente.
+A vacância do cargo de Presidente da República, por sua vez, representa o afastamento definitivo
+do cargo. Ocorrerá, por exemplo, se o Presidente morrer ou se for condenado pela prática de
+crime de responsabilidade. Quando ocorre a vacância do cargo de Presidente, diz-se que o Vice
+o sucederá.
+Mas quais são as hipóteses de vacância do cargo de Presidente e Vice-Presidente? São as
+seguintes:
+          a) Não comparecimento dentro de 10 dias da data fixada para a posse, exceto por motivo
+          de força maior.
+          b) Por morte, renúncia, perda ou suspensão dos direitos políticos e perda da nacionalidade
+          brasileira.
+          c) Condenação por crime de responsabilidade, ou comum, mediante decisão do Senado
+          Federal ou do STF, respectivamente.
+          Observação: Se o Presidente for condenado por crime de responsabilidade, ele perderá o
+          cargo e ficará inabilitado por 8 anos para o exercício de função pública.
+          d) Ausência do país por mais de 15 dias sem autorização do Congresso Nacional. O
+          Presidente pode se ausentar do País por mais de 15 dias; no entanto, para isso, precisará
+          de autorização do Congresso Nacional.
+          No caso de Governadores e Vice-Governadores, a exigência de autorização de Assembleia
+          Legislativa só poderá constar da Constituição estadual se reproduzir o modelo federal, ou
+          seja, quando a ausência se der por mais de quinze dias. Assim, o STF considera
+          inconstitucional norma estadual que exige prévia licença da Assembleia Legislativa para
+          que o governador e o vice-governador possam ausentar-se do País por qualquer prazo. 1
+          Trata-se de uma aplicação do princípio da simetria. Isso porque a Corte entende que não é
+          dado à Constituição Estadual criar novas interferências de um Poder na órbita de outro
+          que não derive explícita ou implicitamente de regra ou princípio da Constituição Federal.
+          Em outras palavras, quando se trata de sistema de pesos e contrapesos, há uma
+          imperatividade do modelo federal (ADI 3046).
+
+1
+    STF, ADI 738 Rel. Min. Maurício Corrêa. 13.11.2002
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          11
+           www.estrategiaconcursos.com.br                                                        92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+                         PODER EXECUTIVO: NORMAS GERAIS
+
+Substituição e Sucessão
+
+Vejamos o que dispõem os arts. 79 e 80, CF/88:
+
+        Art. 79. Substituirá o Presidente, no caso de impedimento, e suceder-lhe-á, no de
+        vaga, o Vice-Presidente.
+        Parágrafo único. O Vice-Presidente da República, além de outras atribuições que
+        lhe forem conferidas por lei complementar, auxiliará o Presidente, sempre que
+        por ele convocado para missões especiais.
+        Art. 80. Em caso de impedimento do Presidente e do Vice-Presidente, ou
+        vacância dos respectivos cargos, serão sucessivamente chamados ao exercício da
+        Presidência o Presidente da Câmara dos Deputados, o do Senado Federal e o do
+        Supremo Tribunal Federal.
+
+Do art. 79, extrai-se que o substituto natural do Presidente da República é o Vice-Presidente, seja
+nas hipóteses de impedimento ou em caso de vacância do cargo. Dessa forma, se o Presidente
+viajar ao exterior e, portanto, afastar-se temporariamente do País, o Vice-Presidente irá assumir.
+Nessa mesma linha, caso o Presidente seja condenado por crime de responsabilidade (como
+aconteceu com o ex-Presidente Collor) e, portanto, houver a vacância do cargo, o Vice irá assumir
+a presidência.
+O art. 80 nos apresenta a linha sucessória do Presidente da República. Nos casos de
+impedimento ou vacância dos cargos de Presidente e Vice, serão chamados ao exercício da
+Presidência, na ordem: i) o Presidente da Câmara dos Deputados; ii) o Presidente do Senado
+Federal e; iii) o Presidente do STF. Destaque-se, todavia, que apenas o Vice-Presidente poderá
+suceder o Presidente em caráter definitivo; todos os outros poderão exercer a Presidência apenas
+interinamente, ou seja, em caráter temporário.
+Dessa forma, havendo vacância dos cargos de Presidente e de Vice-Presidente, serão convocadas
+novas eleições. Temos, então, o seguinte:
+       a) Se a vacância dos cargos de Presidente e Vice-Presidente ocorrer nos dois primeiros
+       anos do mandato presidencial, serão feitas eleições 90 (noventa) dias depois de aberta a
+       última vaga. Trata-se, nesse caso, de eleições diretas.
+       b) Se a vacância dos cargos de Presidente e Vice-Presidente ocorrer nos dois últimos anos
+       do mandato presidencial, a eleição para ambos os cargos será feita 30 (trinta) dias depois
+       da última vaga, pelo Congresso Nacional. Serão feitas, portanto, eleições indiretas.
+Aqueles que forem eleitos dessa maneira deverão apenas completar o mandato dos seus
+antecessores. É o que se chama de “mandato-tampão”.
+Vamos a um exemplo para deixar as coisas mais claras!
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            12
+        www.estrategiaconcursos.com.br                                                          92
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+Suponha que José Polvo assuma a Presidência da República em 2019. Em 2021, ele vem a
+falecer. Temos a vacância do cargo de Presidente. O Vice-Presidente, João Urubu, assume a
+Presidência e irá exercê-la até o final de 2022, quando o mandato chegará ao fim. No entanto,
+em janeiro de 2022, João Urubu é condenado por crime de responsabilidade e,
+consequentemente, perde o cargo de Presidente. Percebam que, na situação apresentada, houve
+vacância do cargo de Presidente e também do Vice-Presidente.
+O que irá acontecer? Sabemos que somente o Vice-Presidente pode assumir a presidência em
+caráter definitivo. Por isso, o Presidente da Câmara dos Deputados assumirá a Presidência
+temporariamente e convocará eleições indiretas, uma vez que a vacância dos dois cargos ocorreu
+nos últimos dois anos do mandato presidencial. Caso a vacância dos dois cargos tivesse ocorrido
+nos dois primeiros anos do mandato, seriam convocadas eleições diretas.
+
+
+                                                            ==219a34==
+
+O fenômeno da “dupla vacância” nas esferas estadual e municipal é objeto de controvérsia
+doutrinária. De um lado, há aqueles que defendem que, em homenagem ao princípio da
+simetria, o modelo previsto na CF/88 é de reprodução obrigatória pelas Constituições Estaduais
+e pelas Leis Orgânicas dos Municípios. Com posicionamento diverso, estão aqueles que
+defendem que os entes federativos têm autonomia para regular o fenômeno da “dupla
+vacância”.
+E como anda a jurisprudência do STF?
+O STF considera que deve ser reconhecida a autonomia dos entes federativos para disciplinar os
+procedimentos no caso de “dupla vacância”, não se aplicando o princípio da simetria para
+solucionar essa questão.1
+Em síntese, pode-se afirmar o seguinte:
+          a) Os Estados e Municípios têm autonomia para definir os procedimentos em caso de
+          “dupla vacância”.
+          b) É plenamente possível que a Constituição Estadual preveja que, no caso de dupla
+          vacância dos cargos de Governador e Vice-Governador nos últimos 2 anos do mandato,
+          serão realizadas eleições indiretas pela Assembleia Legislativa. Entendimento semelhante
+          deve ser aplicado na hipótese de vacância dos cargos de Prefeito e Vice-Prefeito.
+          c) Viola a autonomia municipal a Constituição Estadual que pretenda disciplinar a vocação
+          sucessória dos cargos de Prefeito e Vice-Prefeito.
+
+1
+    ADI 3549, Rel. Min. Carmen Lúcia, Julgamento em 17/09/2007.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         13
+           www.estrategiaconcursos.com.br                                                       92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+(TELEBRAS – 2022) Quando os cargos de presidente e de vice-presidente da República estiverem
+em vacância, serão chamados ao exercício da presidência, sucessiva e exclusivamente, os
+presidentes da Câmara dos Deputados e do Supremo Tribunal Federal.
+Comentários:
+Na ausência de presidente e vice-presidente da República, a ordem para a substituição
+presidencial é a seguinte: presidente da Câmara dos Deputados, presidente do Senado Federal e
+presidente do STF. Questão errada.
+(TCE-RJ – 2022) Caso o presidente da República faleça no início do terceiro ano do mandato e,
+por conta disso, o vice-presidente renuncie ao cargo logo em seguida, deverá ser organizada
+nova eleição direta em até noventa dias depois de aberta a última vaga.
+Comentários:
+Como a vaga surgiu nos dois últimos anos de mandato, a eleição será indireta, feita pelo
+Congresso Nacional, na forma da lei, por força do art. 81, § 1º, da Constituição Federal. Questão
+errada.
+(MPT – 2015) Vagando os cargos de Presidente e Vice-Presidente da República, nos dois últimos
+anos de mandato, far-se-á eleição indireta trinta dias depois de aberta a última vaga.
+Comentários:
+É isso mesmo. Se houver vacância dos cargos de Presidente e Vice-Presidente nos 2 (dois)
+últimos anos do mandato, haverá eleição indireta, pelo Congresso Nacional, 30 dias após aberta
+a última vaga. Questão correta.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          14
+        www.estrategiaconcursos.com.br                                                        92
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+                    ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA
+As atribuições do Presidente da República estão relacionadas no art. 84, CF/88. Trata-se de rol
+não-exaustivo, a ele competindo outras atribuições previstas no texto constitucional. Exemplo de
+competência do Presidente da República não relacionada no art. 84, CF/88 é a de editar leis
+delegadas. Para fins didáticos, podemos dividir as competências do Presidente nos seguintes
+grupos:1
+a) Direção da Administração Federal:
+O Presidente exerce a função de Chefe da Administração Pública Federal. Nessa condição, ele
+possui as seguintes competências:
+
+           Art. 84. Compete privativamente ao Presidente da República:
+           I - nomear e exonerar os Ministros de Estado;
+           II - exercer, com o auxílio dos Ministros de Estado, a direção superior da
+           administração federal;
+
+Os Ministros de Estado são nomeados e exonerados pelo Presidente da República; trata-se de
+cargos de livre nomeação e exoneração. Há que se observar apenas que os Ministros de Estado
+devem ser escolhidos entre brasileiros com mais de 21 anos e no pleno exercício dos direitos
+políticos.
+Os Ministros de Estado são os auxiliares diretos do Presidente da República e exercerão, em
+conjunto com este, a direção superior da administração federal.
+
+           IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e
+           regulamentos para sua fiel execução;
+           (...)
+           VI – dispor, mediante decreto, sobre:
+           a) organização e funcionamento da administração federal, quando não implicar
+           aumento de despesa nem criação ou extinção de órgãos públicos;
+           b) extinção de funções ou cargos públicos, quando vagos;
+
+No inciso IV, está prevista a competência do Presidente da República para expedir decretos e
+regulamentos para a fiel execução das leis. Trata-se de competência para edição dos chamados
+decretos executivos, que são atos normativos secundários (infralegais). Destaque-se que, ao
+editar esses atos, o Poder Executivo estará exercendo o poder regulamentar.
+Há uma notória distinção entre as leis e os decretos executivos. A lei pode inovar o ordenamento
+jurídico, criando direitos e obrigações; o decreto executivo não poderá fazê-lo, limitando-se a
+facilitar a execução das leis. Conforme lição de Alexandre de Moraes, essa vedação não significa
+que o regulamento deva se limitar a reproduzir o texto da lei, sob pena de inutilidade. Caberá ao
+Poder Executivo evidenciar e explicitar todas as previsões legais, decidindo a melhor forma de
+executá-las e, eventualmente, até mesmo suprindo lacunas de ordem prática ou técnica.
+1
+    A divisão nesses grupos de funções se baseia na doutrina do Prof. Gilmar Mendes.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                       15
+           www.estrategiaconcursos.com.br                                                     92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Destaque-se que a edição dos decretos executivos é competência indelegável do Presidente da
+República.
+A doutrina faz menção a um tipo específico de decreto executivo: o “regulamento autorizado”.
+Quanto à forma, este em nada se diferencia de um decreto típico do Poder Executivo; no
+entanto, quanto ao conteúdo, o “regulamento autorizado” busca complementar a lei, conforme
+expressa determinação nela contida. Ressalte-se que a lei deverá determinar precisamente os
+contornos dos decretos ou regulamentos autorizados.
+No inciso VI, está prevista a competência do Presidente da República para editar os chamados
+“decretos autônomos”, que são bem diferentes dos decretos executivos. Os decretos
+autônomos, inseridos na Constituição pela EC nº 32/2001, são atos normativos primários,
+possuindo a mesma hierarquia das leis formais. Os decretos autônomos são considerados normas
+primárias justamente por extraírem seu fundamento de validade diretamente do texto
+constitucional.
+O Presidente da República poderá dispor, mediante decreto autônomo, sobre:
+       a) organização e funcionamento da administração federal, quando não implicar aumento
+       de despesa nem criação ou extinção de órgãos públicos.
+       b) extinção de funções ou cargos públicos, quando vagos;
+Perceba que a criação ou extinção de órgão público não poderá ser objeto de decreto
+autônomo: haverá necessidade de lei formal para fazê-lo. Da mesma maneira, é necessária lei
+para tratar da organização e funcionamento de administração federal quando houver aumento de
+despesa. A extinção de funções ou cargos públicos que estiverem ocupados também depende
+de lei formal.
+Por último, cabe destacar que a edição de decretos autônomos é competência delegável do
+Presidente da República, que poderá concedê-la aos Ministros de Estado, ao Advogado-Geral da
+União ou ao Procurador-Geral da República.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                      16
+        www.estrategiaconcursos.com.br                                                    92
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+           XII - conceder indulto e comutar penas, com audiência, se necessário, dos órgãos
+           instituídos em lei;
+
+O indulto é o perdão da pena. Comutação da pena é a substituição de uma pena mais grave por
+uma pena menos grave. A concessão de indulto e comutação de penas é competência privativa
+do Presidente da República, efetuada mediante decreto executivo que, conforme a prática, é
+publicado ao final de todo ano. Cabe destacar que essa é uma competência delegável do
+Presidente da República.
+
+           XV - nomear, observado o disposto no art. 73, os Ministros do Tribunal de Contas
+           da União;
+
+O Tribunal de Contas da União (TCU) possui 9 (nove) Ministros. Desses, 2/3 são escolhidos pelo
+Congresso Nacional e 1/3 pelo Presidente da República. Aqueles que forem escolhidos pelo
+Presidente da República deverão ter seu nome previamente aprovado pelo Senado Federal,
+após o que serão nomeados. Destaque-se que, na forma do art. 84, XV, mesmo os Ministros do
+TCU escolhidos pelo Congresso Nacional, serão nomeados pelo Presidente da República.
+
+           XVII - nomear membros do Conselho da República, nos termos do art. 89, VII;
+           XVIII - convocar e presidir o Conselho da República e o Conselho de Defesa
+           Nacional;
+
+O Conselho da República é órgão superior de consulta do Presidente da República, que
+pronuncia-se, sem efeito vinculante, sobre intervenção federal, estado de defesa, estado de sítio
+e questões relevantes para a estabilidade das instituições democráticas. Dentre os integrantes do
+Conselho da República, estão 6 cidadãos brasileiros natos, com mais de 35 anos. Desses, 2 são
+nomeados pelo Presidente da República, 2 são eleitos pela Câmara dos Deputados e 2 eleitos
+pelo Senado Federal.
+O Conselho de Defesa Nacional também é órgão superior de consulta do Presidente, mas nos
+assuntos relacionados com a soberania nacional e a defesa do Estado democrático. Suas
+manifestações também não possuem efeito vinculante, mas simplesmente opinativo.
+O Presidente da República tem competência privativa para convocar e presidir o Conselho da
+República e o Conselho de Defesa Nacional. Segundo a doutrina, quando ele convoca e preside
+o Conselho da República, ele está atuando na condição de Chefe de Governo; por outro lado, ao
+convocar e presidir o Conselho de Defesa Nacional, ele estará atuando como Chefe de Estado.2
+
+           XXV - prover e extinguir os cargos públicos federais, na forma da lei;
+
+O provimento de cargos públicos é competência privativa do Presidente da República. Assim, a
+nomeação de aprovado em concurso público e a nomeação de alguém para exercer cargo em
+comissão são tarefas que cabem ao Presidente da República. Segundo o STF, a competência para
+prover cargos públicos inclui também a competência para desprover cargos públicos. Dessa
+forma, o Presidente da República detém competência para exonerar e demitir servidores
+públicos.
+A competência para prover e desprover cargos públicos (art.84,XXV, primeira parte) é delegável
+aos Ministros de Estado, ao Advogado Geral da União e ao Procurador-Geral da República.
+
+2
+    MASSON, Nathalia. Manual de Direito Constitucional. Ed. Juspodium, Salvador, 2013, pp. 749
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          17
+           www.estrategiaconcursos.com.br                                                        92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Nesse sentido, entende o STF que o presidente da República pode delegar aos ministros de
+Estado, por meio de decreto, a atribuição de demitir, no âmbito das suas respectivas pastas,
+servidores públicos federais.
+E a extinção de cargos públicos?
+A extinção de cargos públicos, quando vagos, poderá ser feito por decreto autônomo. No
+entanto, quando os cargos estiverem ocupados, a sua extinção dependerá de lei formal.
+Considerando que a edição de decretos autônomos é delegável, a extinção de cargos públicos
+vagos poderá ser delegada aos Ministros de Estado, ao Advogado Geral da União e ao
+Procurador-Geral da República. No entanto, a extinção de cargos públicos ocupados não é
+matéria delegável.
+b) Relação com o Congresso Nacional e atuação no processo legislativo:
+O Presidente da República tem importantes funções no âmbito do processo legislativo e em seu
+relacionamento com o Congresso Nacional. Vejamos:
+
+        Art. 84. Compete privativamente ao Presidente da República:
+        (...)
+        III - iniciar o processo legislativo, na forma e nos casos previstos nesta
+        Constituição;
+
+O Presidente da República pode dar início ao processo legislativo, seja apresentando projetos de
+lei de sua iniciativa privativa (art.61, § 1º), seja apresentando projetos de lei de iniciativa geral.
+Um exemplo de projeto de lei de iniciativa privativa do Presidente é o que trata do regime
+jurídico dos servidores públicos da União. Já um exemplo de projeto de lei de iniciativa geral ou
+comum é aquele que tratar de matéria tributária.
+
+        IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e
+        regulamentos para sua fiel execução;
+        V - vetar projetos de lei, total ou parcialmente;
+
+Todas essas são atribuições do Presidente da República no que diz respeito ao processo
+legislativo. Uma vez aprovado o projeto de lei, ele seguirá para sanção ou veto (total ou parcial)
+pelo Presidente da República, no prazo de 15 dias úteis.
+
+        XI - remeter mensagem e plano de governo ao Congresso Nacional por ocasião
+        da abertura da sessão legislativa, expondo a situação do País e solicitando as
+        providências que julgar necessárias;
+        (...)
+        XXIV - prestar, anualmente, ao Congresso Nacional, dentro de sessenta dias após
+        a abertura da sessão legislativa, as contas referentes ao exercício anterior;
+
+O inciso XI faz referência ao envio da mensagem presidencial e do plano de governo ao
+Congresso Nacional, por ocasião da abertura da sessão legislativa (2 de fevereiro). Por meio
+desses documentos, o Presidente irá expor a situação do Pais e solicitar ao Congresso Nacional
+as providências que julgar necessárias.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               18
+        www.estrategiaconcursos.com.br                                                             92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+O inciso XXIV faz referência à prestação de contas do Presidente da República, que deve ser
+apresentada ao Congresso Nacional dentro de 60 dias após a abertura da sessão legislativa.
+Destaque-se que compete ao Congresso Nacional julgar as contas do Presidente da República,
+com parecer prévio do TCU.
+E o que acontece se o Presidente não prestar contas ao Congresso Nacional em até 60 dias após
+a abertura da sessão legislativa?
+Nesse caso, a Câmara dos Deputados (representante do povo) irá “cobrar” do Presidente.
+Segundo o art. 51, II. CF/88, compete privativamente à Câmara dos Deputados proceder à
+tomada de contas do Presidente da República, quando não apresentadas ao Congresso Nacional
+dentro de sessenta dias após a abertura da sessão legislativa.
+
+        XXIII - enviar ao Congresso Nacional o plano plurianual, o projeto de lei de
+        diretrizes orçamentárias e as propostas de orçamento previstos nesta
+        Constituição;
+
+A iniciativa das leis orçamentárias (PPA, LDO e LOA) é privativa do Presidente da República.
+
+        XXVI - editar medidas provisórias com força de lei, nos termos do art. 62;
+
+Ao editar medidas provisórias, com força de lei, o Presidente da República desempenha função
+atípica do Poder Executivo.
+
+        XXVIII - propor ao Congresso Nacional a decretação do estado de calamidade
+        pública de âmbito nacional previsto nos arts. 167-B, 167-C, 167-D, 167-E, 167-F e
+        167-G desta Constituição.
+
+O inciso XXVIII foi incluído no texto constitucional pela Emenda nº 109/2021. Essa emenda, que
+veicula importantes aspectos pertinentes ao Direito Financeiro, teve sua edição motivada pelo
+cenário de deterioração das contas públicas causada pandemia do vírus Sars-CoV-2 e da doença
+por ele provocada (Covid-19). Essa modificação no texto constitucional vem sendo conhecida
+como "PEC Emergencial".
+Dentre outros aspectos, a Emenda possibilita a decretação de estado de calamidade pública de
+âmbito nacional pelo Congresso Nacional. Atenção: a competência para decretar o estado de
+calamidade pública é do Congresso Nacional. Cabe ao Presidente da República propor ao
+Parlamento a decretação (art. 167-B).
+Uma vez decretada a calamidade pública, uma série de regras constitucionais passam a ser
+flexibilizadas. Passa a viger um regime extraordinário fiscal, financeiro e de contratações.
+A título exemplificativo, a chamada "regra de ouro" prevista no art. 167, inciso III, fica dispensada
+de ser observada durante todo o exercício financeiro em que vigorar a calamidade pública (art.
+167-E). No mesmo sentido, podem ser adotados processos simplificados de contratação de
+pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem,
+quando possível, competição e igualdade de condições a todos os concorrentes (art. 167-C).
+Nestas últimas hipóteses, as medidas valem apenas com o propósito exclusivo de enfrentamento
+da calamidade pública e de seus efeitos, no seu período de duração.
+c) Atribuições no plano das relações internacionais (Chefia de Estado):
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              19
+        www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+O Presidente, na condição de Chefe de Estado, representa o Brasil em suas relações
+internacionais. Nesse sentido, exerce as seguintes competências:
+
+        Art. 84 - Compete privativamente ao Presidente da República:
+        (...)
+        VII - manter relações com Estados estrangeiros e acreditar seus representantes
+        diplomáticos;
+        VIII - celebrar tratados, convenções e atos internacionais, sujeitos a referendo do
+        Congresso Nacional;
+        (...)
+        XIX - declarar guerra, no caso de agressão estrangeira, autorizado pelo
+        Congresso Nacional ou referendado por ele, quando ocorrida no intervalo das
+        sessões legislativas, e, nas mesmas condições, decretar, total ou parcialmente, a
+        mobilização nacional;
+        XX - celebrar a paz, autorizado ou com o referendo do Congresso Nacional;
+        XXI - conferir condecorações e distinções honoríficas;
+        XXII - permitir, nos casos previstos em lei complementar, que forças estrangeiras
+        transitem pelo território nacional ou nele permaneçam temporariamente;
+
+Cabe dar um destaque especial à competência do Presidente para celebrar tratados
+internacionais (art.84, VIII). O Presidente da República é responsável por assinar os tratados
+(consentimento provisório) e por ratificá-los (consentimento definitivo).
+A ratificação do Presidente, todavia, depende de aprovação pelo Congresso Nacional por meio
+de decreto legislativo. Essa aprovação representa uma verdadeira autorização para que o
+Presidente ratifique o tratado. Destaque-se que a aprovação do Congresso Nacional não obriga a
+ratificação pelo Presidente; nesse sentido, considera-se que a ratificação é ato discricionário.
+Uma vez tendo sido aprovado pelo Congresso Nacional, o Presidente irá promulgar e publicar o
+tratado, por meio de decreto executivo. A partir daí, o tratado poderá produzir efeitos no plano
+interno.
+d) Atribuições concernentes à segurança interna, preservação da ordem institucional e da
+harmonia das relações federativas:
+No plano da segurança interna, preservação da ordem institucional e harmonia das relações
+federativas, são as seguintes as competências do Presidente da República:
+
+        Art. 84. Compete privativamente ao Presidente da República:
+        (...)
+        IX - decretar o estado de defesa e o estado de sítio;
+        X - decretar e executar a intervenção federal;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          20
+        www.estrategiaconcursos.com.br                                                        92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+        XIII - exercer o comando supremo das Forças Armadas, nomear os Comandantes
+        da Marinha, do Exército e da Aeronáutica, promover seus oficiais-generais e
+        nomeá-los para os cargos que lhes são privativos;
+
+O Presidente da República tem competência privativa para decretar a intervenção federal, o
+estado de sítio e o estado de defesa. Todos esses são mecanismos que buscam salvaguardar a
+ordem jurídica nos momentos de instabilidade institucional; são, por isso, institutos do sistema
+constitucional de crises. Cabe destacar que a decretação de estado de sítio depende de prévia
+autorização pelo Congresso Nacional.
+A suspensão do estado de defesa, do estado de sítio e da intervenção federal não é competência
+do Presidente da República, mas sim do Congresso Nacional. É o que dispõe o art. 49, V:
+“compete exclusivamente ao Congresso Nacional aprovar o estado de defesa e a intervenção
+federal, autorizar o estado de sítio, ou suspender qualquer uma dessas medidas”
+O comando supremo das Forças Armadas é competência do Presidente da República. Segundo a
+doutrina, não se trata de título honorífico, mas de verdadeira função de comando e direção das
+atividades do Exército, da Marinha e da Aeronáutica.
+e) Nomeação de juízes do STF e dos Tribunais Superiores:
+Para encerrar as atribuições do Presidente, destacamos suas competências no que diz respeito à
+nomeação de importantes autoridades da República.
+
+        Art. 84. Compete privativamente ao Presidente da República:
+        (...)
+        XIV - nomear, após aprovação pelo Senado Federal, os Ministros do Supremo
+        Tribunal Federal e dos Tribunais Superiores, os Governadores de Territórios, o
+        Procurador-Geral da República, o presidente e os diretores do banco central e
+        outros servidores, quando determinado em lei;
+        XVI - nomear os magistrados, nos casos previstos nesta Constituição, e o
+        Advogado-Geral da União;
+
+Competências Delegáveis do Presidente da República:
+Um dos pontos mais importantes desse assunto é saber quais são as competências delegáveis do
+Presidente da República. A resposta está no art. 84, parágrafo único.
+
+        Parágrafo único. O Presidente da República poderá delegar as atribuições
+        mencionadas nos incisos VI, XII e XXV, primeira parte, aos Ministros de Estado, ao
+        Procurador-Geral da República ou ao Advogado-Geral da União, que observarão
+        os limites traçados nas respectivas delegações.
+
+As competências delegáveis do Presidente da República são as seguintes:
+       a) Editar decretos autônomos. Recorde-se que, mediante decreto autônomo, o Presidente
+       poderá dispor sobre: i) organização e funcionamento da administração pública federal,
+       quando não implicar aumento de despesa, nem criação ou extinção de órgão público e; ii)
+       extinguir funções ou cargos públicos, quando vagos.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         21
+        www.estrategiaconcursos.com.br                                                       92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+       b) Conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos
+       em lei.
+       c) Prover e desprover cargos públicos, na forma da lei. Ressalte-se que essa é apenas a
+       primeira parte do art.84, XXV, cujo inteiro teor é o seguinte: “prover e extinguir os cargos
+       públicos federais, na forma da lei”. A extinção de cargos públicos ocupados não é
+       atribuição delegável do Presidente da República. Apenas é delegável a extinção de cargos
+       públicos vagos (que é objeto de decreto autônomo).
+
+                                                         ==219a34==
+
+(TCE-RJ – 2022) Compete ao presidente da República, mediante decreto, extinguir funções ou
+cargos públicos que estejam vagos.
+Comentários:
+Trata-se de competência privativa do Presidente da República prevista no art. 84, inciso VI, da
+CF/88. Questão correta.
+(TCE-PE – 2017) Quando um cargo público federal estiver vago, o presidente da República
+poderá extingui-lo por decreto, sendo essa competência indelegável.
+Comentários:
+O Presidente pode, mediante decreto autônomo, extinguir cargo público vago. Trata-se de
+competência delegável do Presidente da República. Questão errada.
+(TRT 8a Região – 2015) A delegação de competência funcional é uma faculdade do Presidente da
+República, nos casos permitidos na Constituição Federal, dentre eles, o de dispor, mediante
+decreto, sobre a organização e funcionamento da administração federal, inclusive sobre criação e
+extinção de órgãos públicos.
+Comentários:
+A edição de decreto autônomo é competência delegável do Presidente da República. No
+entanto, não é possível criar e extinguir órgão público por meio de decreto autônomo. Questão
+errada.
+(TRT 8a Região – 2015) Compete privativamente ao Presidente da República, nomear, após
+aprovação pelo Senado Federal, os Ministros do Supremo Tribunal Federal.
+Comentários:
+É competência privativa do Presidente da República nomear os Ministros do STF, após aprovação
+pelo Senado Federal (art. 84, XIV). Questão correta.
+(PC / DF – 2015) O presidente da República poderá delegar sua competência privativa de
+conceder indulto e comutar penas.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            22
+        www.estrategiaconcursos.com.br                                                          92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Comentários:
+É competência delegável do Presidente da República “conceder indulto e comutar penas”.
+Questão correta.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                23
+        www.estrategiaconcursos.com.br                                              92
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+               RESPONSABILIZAÇÃO DO PRESIDENTE DA REPÚBLICA
+A República tem como característica a possibilidade de responsabilização pessoal do governante
+por suas ações. É diferente da monarquia, na qual predomina a absoluta irresponsabilidade do
+rei. O ordenamento jurídico brasileiro prevê, portanto, a responsabilização do Presidente da
+República. A história recente de nosso país, inclusive, ilustra muito bem essa possibilidade. Em
+1992, ocorreu o “impeachment” do ex-Presidente Collor; em 2016, o “impeachment” da
+ex-Presidente Dilma Roussef.
+Contudo, é inegável que o Presidente da República, para exercer suas funções com
+independência, precisa possuir certas prerrogativas especiais. São as chamadas imunidades do
+Presidente, que consistem em regras especiais para sua responsabilização.
+Ao estudarmos o tema das imunidades, verificamos que estas se dividem em dois tipos:
+imunidade formal (prerrogativas relacionadas ao processo) e imunidade material (inviolabilidade
+civil e penal por palavras e opiniões). O Presidente da República possui apenas imunidades
+formais (prerrogativas relacionadas ao processo); em outras palavras, ele não possui imunidade
+material, isto é, pode ser responsabilizado civil e penalmente por suas palavras e opiniões.
+Vamos estudar, a seguir, as imunidades (formais) do Presidente da República:
+          a) Cláusula de irresponsabilidade penal relativa: Na vigência do mandato, o Presidente da
+          República só pode ser responsabilizado por atos praticados no exercício da função (in
+          officio) ou em razão dela (propter officium). Assim, durante o seu mandato, o Presidente
+          não pode ser responsabilizado por atos estranhos ao exercício da função. Diz-se, portanto,
+          que o Presidente da República tem uma relativa irresponsabilidade pela prática de atos
+          estranhos ao exercício de suas funções.
+          São também considerados atos estranhos ao exercício da função os crimes que foram
+          praticados antes do início do mandato presidencial. Assim, o Presidente da República não
+          poderá ser responsabilizado, na vigência do mandato, por crimes que praticou quando
+          ainda não era Presidente da República.
+          É importante ter em mente que essa imunidade somente se aplica às infrações de
+          natureza penal. Assim, pode haver apuração, durante o mandato do Presidente da
+          República, de sua responsabilidade civil, administrativa, fiscal ou tributária.
+          Suponha, por exemplo, que o Presidente da República se envolva em uma briga de
+          trânsito. Furioso, ele sai do carro e dispara 4 (quatro) tiros na cabeça do indivíduo que com
+          ele havia discutido. Foi um homicídio, mas que não está relacionado ao exercício da
+          função. Na vigência do mandato, o Presidente não poderá ser responsabilizado por esse
+          crime.
+          No entanto, ao contrário do que muitos pensam, isso não significa que o Presidente ficará
+          impune pela prática desse crime. Após o término do mandato, ele poderá, sim, ser
+          responsabilizado por crime que cometeu na vigência do mandato, mas que não estava
+          relacionado ao exercício da função. O STF entende que, nesse caso, haverá suspensão
+          provisória do processo e a consequente suspensão do prazo prescricional.1
+
+1
+    Inq. 672/DF. Rel. Min Celso de Mello, 16.04.1993.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                             24
+           www.estrategiaconcursos.com.br                                                           92
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+          b) Vedação à prisão cautelar: O Presidente da República somente estará sujeito à prisão
+          após sentença condenatória, nas infrações penais comuns. Não são admitidas prisões
+          cautelares (flagrante delito, prisão temporária, prisão preventiva) do Presidente da
+          República. É necessária uma sentença penal condenatória, emanada do STF (como
+          veremos mais à frente, é essa Corte que julga o Presidente nos crimes comuns).
+          Frise-se que essa prerrogativa de vedação à prisão cautelar é exclusiva do Presidente da
+          República. No entendimento do STF2, ela não pode ser estendida aos governadores dos
+          Estados. Se alguma Constituição Estadual contiver norma nesse sentido – que impede a
+          prisão do governador de Estado antes de sua condenação penal definitiva –, tal disposição
+          não se reveste de validade jurídica e, consequentemente, não pode subsistir em face de
+          sua incompatibilidade com o texto da CF/88.
+          c) Autorização da Câmara dos Deputados: Para que o Presidente da República seja
+          processado e julgado, nos crimes comuns ou de responsabilidade, há um prévio juízo de
+          admissibilidade político pela Câmara dos Deputados. Dito de outra forma, o Presidente
+          somente será processado e julgado após autorização da Câmara dos Deputados, por 2/3
+          dos seus membros, em votação nominal (aberta).
+          O juízo de admissibilidade político da Câmara dos Deputados também é exigido para a
+          instauração de processo contra o Vice-Presidente da República (em qualquer caso) e
+          contra os Ministros de Estado (nos crimes conexos com os do Presidente da República).
+
+           Para entender bem o processo de “impeachment”, precisamos estudar como
+           funciona o rito dentro da Câmara dos Deputados.
+           A primeira etapa do processo de “impeachment” é o recebimento da denúncia
+           pelo Presidente da Câmara. Uma vez protocolado o pedido de impeachment, o
+           Presidente da Câmara poderá acolher a denúncia ou arquivá-la. Nesse momento,
+           segundo o STF (ADPF 378), não há que se falar em direito à defesa prévia pelo
+           Presidente da República.
+           Isso porque, segundo a Corte, “a apresentação de defesa prévia não é uma
+           exigência do princípio constitucional da ampla defesa: ela é exceção, e não a
+           regra no processo penal. Não há, portanto, impedimento para que a primeira
+           oportunidade de apresentação de defesa no processo penal comum se dê após
+           o recebimento da denúncia. No caso dos autos, muito embora não se assegure
+           defesa previamente ao ato do Presidente da Câmara dos Deputados que inicia o
+           rito naquela Casa, colocam-se à disposição do acusado inúmeras oportunidades
+           de manifestação em ampla instrução processual. Não há, assim, violação à
+
+2
+    ADI 1.634 MC, Rel. Min. Néri da Silveira, j. 17-9-1997.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         25
+           www.estrategiaconcursos.com.br                                                       92
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+           garantia da ampla defesa e aos compromissos internacionais assumidos pelo
+           Brasil em tema de direito de defesa”.
+           Caso haja o recebimento da denúncia pelo Presidente da Casa, inicia-se a análise
+           da Câmara sobre a autorização para o processo de impeachment. A denúncia e o
+           ato de criação de comissão especial são lidos no Plenário. Os integrantes dessa
+           comissão especial deverão ser indicados pelos líderes, com representação
+           proporcional de todos os partidos presentes na Câmara. Além disso, o Presidente
+           da Câmara notifica o Presidente da República de que a denúncia foi aceita.
+           Nesse momento, o chefe do Poder Executivo pode apresentar sua defesa.
+           Após a instalação da comissão, cabe a seu relator apresentar parecer, a ser
+           discutido e votado por seus integrantes. Para aprovação, é necessário o voto
+           favorável da maioria simples dos membros da comissão. Caso aprovado, o
+           parecer segue para o Plenário.
+           No Plenário, o parecer é apreciado por votação nominal, sendo necessários os
+           votos de dois terços dos Deputados para que o processo de impeachment seja
+           autorizado. Caso esse quórum não seja atingido, o pedido de impeachment é
+           considerado rejeitado. Se aprovado, o processo seguirá para o Senado, que é
+           responsável pelo julgamento do Presidente da República pela prática de crime
+           de responsabilidade.
+
+Agora que entendemos como se dá o processo de impeachment no âmbito federal, passaremos
+à análise de como ele funciona nos Estados.
+Durante muito tempo, entendeu-se que a exigência do juízo de admissibilidade seria a única
+imunidade passível de ser estendida pelas Constituições Estaduais aos Governadores. Em outras
+palavras, era possível que a Constituição Estadual estabelecesse que o Governador somente
+poderia ser processado e julgado após juízo de admissibilidade da Assembleia Legislativa.
+Em 2017, o STF alterou o seu entendimento anterior, reconhecendo a existência de uma
+mutação constitucional. Para a Corte, condicionar a instauração de ações penais contra
+Governadores ao prévio juízo de admissibilidade da Assembleia Legislativa resultava, na prática,
+em consequências nefastas.
+Desse modo, o entendimento atual é o de que os Estados não têm competência para editar
+normas que condicionem a instauração de ação penal contra Governador, por crime comum, à
+prévia autorização da Assembleia Legislativa3. O STJ poderá receber a denúncia contra o
+Governador, instaurando a ação penal, independentemente de qualquer autorização do Poder
+Legislativo Estadual.
+Cabe destacar, ainda, que o recebimento da denúncia pelo STJ não implica em afastamento
+automático do Governador. O afastamento até pode acontecer, mas caso assim entenda
+necessário o STJ, que tem competência para decidir fundamentadamente quanto à aplicação de
+medidas cautelares.
+
+3
+    ADI 4764, ADI 4797 e ADI 4798. Rel. Min. Luís Roberto Barroso. 04.05.2017.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                       26
+           www.estrategiaconcursos.com.br                                                     92
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+           A necessidade de autorização da Câmara dos Deputados é imunidade que não
+           se estende para codenunciados que não sejam o Vice-Presidente da República
+           ou Ministros de Estado.4 Assim, aqueles investigados sem foro por prerrogativa
+           de função que praticarem crimes conexos com os do Presidente da República
+           serão processados imediatamente na 1a instância, mesmo que a Câmara dos
+           Deputados tenha rejeitado o juízo de admissibilidade político.
+           A regra é que haja o desmembramento dos processos: o Presidente da República
+           será processado e julgado pelo STF; os codenunciados sem foro por prerrogativa
+           de função, pela 1a instância da Justiça Comum.
+           Claro que se o crime conexo tiver sido praticado pelo Vice-Presidente da
+           República ou por Ministros de Estados, a responsabilização dessas autoridades
+           somente será possível caso haja autorização da Câmara dos Deputados.
+
+Agora que já estudamos as imunidades do Presidente, é importante que entendamos o processo
+de responsabilização em si.
+Há dois tipos de infrações que podem ser cometidas pelo Presidente da República: i) crimes
+comuns e; ii) crimes de responsabilidade. Os crimes comuns são as infrações penais comuns,
+tipificadas no Código Penal e em outras leis penais especiais. Já os crimes de responsabilidade
+são infrações político-administrativas cometidas no exercício do cargo.
+Nos crimes comuns, o Presidente da República é processado e julgado perante o STF, após
+autorização da Câmara dos Deputados. Assim, a denúncia ou queixa-crime é apresentada ao
+STF, mas este só poderá recebê-la após o juízo de admissibilidade político da Câmara dos
+Deputados. Assim, uma vez apresentada a denúncia ao STF, este deverá remetê-la à Câmara dos
+Deputados.
+Não se admite que o STF analise qualquer questão jurídica acerca da denúncia antes do juízo de
+admissibilidade político da Câmara dos Deputados. 5 A discussão sobre as provas que embasam
+a denúncia não deve ser realizada nesse momento, mas somente após eventual autorização da
+Câmara dos Deputados. No caso envolvendo Michel Temer, o STF se negou a apreciar, antes do
+juízo de admissibilidade da Câmara dos Deputados, a validade de acordo de colaboração
+premiada que fundamentava a denúncia.
+Após a autorização da Câmara dos Deputados, o STF poderá receber a denúncia contra o
+Presidente da República, instaurando o processo. Todavia, é possível que, mesmo após essa
+
+4
+    Inq. 4483, AgR/DF e Inq. 4327, AgR/DF, Rel. Min. Edson Fachin. Julgamento: 19.12.2017
+5
+    Inq 4483 QO/DF, Rel. Min. Edson Fachin, Julgamento: 21.09.2017
+
+           Receita Federal (Analista Tributário) Direito Constitucional                     27
+           www.estrategiaconcursos.com.br                                                   92
+
+                                         
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 12
+
+autorização, o STF decida rejeitar a denúncia e não instaurar o processo. O recebimento da
+denúncia pelo STF é, afinal, ato discricionário da Corte.
+Uma vez que seja recebida a denúncia ou queixa-crime pelo STF, o Presidente ficará suspenso
+das suas funções. Ele ficará suspenso do exercício da Presidência e só retornará às suas funções
+caso seja absolvido ao final do julgamento, ou se decorrerem mais de 180 dias sem que o
+julgamento tenha sido concluído. Assim, se o julgamento demorar muito (mais de 180 dias),
+cessará o afastamento do Presidente, sem prejuízo do regular prosseguimento do processo.
+Se o STF condenar o Presidente pela prática de crime comum, seus direitos políticos serão
+suspensos (conforme art. 15, III) e, consequentemente, ele perderá o mandato presidencial, sem
+prejuízo da sanção penal cabível.
+O STF também tem competência para julgar o Presidente da República em algumas ações civis,
+como o mandado de segurança e o “habeas data”. No caso da ação popular, entretanto, por
+falta de previsão constitucional, não é de competência da Corte Suprema o julgamento do
+                                                           ==219a34==
+
+Presidente.
+Nos crimes de responsabilidade, o Presidente da República é processado e julgado pelo Senado
+Federal, após juízo de admissibilidade político da Câmara dos Deputados. Cabe destacar que, no
+processo de impeachment, não se aplicam aos Senadores as regras de impedimento e suspeição
+previstas no Código de Processo Penal.6 Isso porque o Senado é um órgão político, não se
+submetendo por completo às rígidas normas às quais estão sujeitos os órgãos do Poder
+Judiciário.
+O art. 85, da CF/88, relaciona alguns atos do Presidente da República que configuram crimes de
+responsabilidade:
+
+          Art. 85. São crimes de responsabilidade os atos do Presidente da República que
+          atentem contra a Constituição Federal e, especialmente, contra:
+          I - a existência da União;
+          II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério
+          Público e dos Poderes constitucionais das unidades da Federação;
+          III - o exercício dos direitos políticos, individuais e sociais;
+          IV - a segurança interna do País;
+          V - a probidade na administração;
+          VI - a lei orçamentária;
+          VII - o cumprimento das leis e das decisões judiciais.
+          Parágrafo único. Esses crimes serão definidos em lei especial, que estabelecerá
+          as normas de processo e julgamento.
+
+O art. 85 define genericamente, em lista meramente exemplificativa, atos considerados crime de
+responsabilidade. É necessário lei especial, cuja edição compete privativamente à União7, para
+
+6
+ MS 21.623/DF. Rel. Min. Carlos Velloso, Julgamento em 17/12/1992.
+7
+ Súmula Vinculante nº 46: A definição dos crimes de responsabilidade e o estabelecimento das respectivas
+normas de processo e julgamento são da competência legislativa privativa da União.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                               28
+          www.estrategiaconcursos.com.br                                                             92
+
+                                        
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 12
+
+tipificar essas condutas e estabelecer normas de processo e julgamento. Atualmente, a lei que
+regula os crimes de responsabilidade é a Lei nº 1.079/50.
+
+          A definição dos crimes de responsabilidade dos Governadores e dos Prefeitos
+          também deverá ser feita por lei federal. Nos termos do art. 22, I, CF/88, a União
+          tem competência privativa para legislar sobre direito penal, incluindo-se aí os
+          crimes de responsabilidade.
+
+A denúncia por crime de responsabilidade deve ser apresentada à Câmara dos Deputados. Ela
+pode ser feita por qualquer cidadão; trata-se, portanto, de denúncia popular. Caberá, então, à
+Câmara dos Deputados realizar o juízo de admissibilidade político: a acusação será admitida ou
+rejeitada, autorizando-se ou não a realização do julgamento pelo Senado Federal. Segundo o
+STF, é assegurado ao Presidente, ainda nessa fase, o direito à ampla defesa e ao contraditório. 8
+Se a acusação for admitida pela Câmara dos Deputados (em votação nominal, por 2/3 dos seus
+membros), o processo será remetido ao Senado Federal, a fim de que este órgão processe e
+julgue o Presidente. Na ADPF 378, julgada em 17/12/2015, o STF decidiu que, no Senado,
+haverá novo juízo de admissibilidade da denúncia (por maioria simples). O Senado Federal
+possui, dessa forma, discricionariedade para decidir pela instauração ou não do processo contra
+o Presidente da República. Em outras palavras, o Senado Federal não está vinculado ao juízo de
+admissibilidade da Câmara dos Deputados.9
+Admitida a denúncia pelo Senado Federal (por maioria simples), será instaurado o processo
+contra o Presidente. O Senado Federal irá, então, atuar como verdadeiro “Tribunal político”10,
+sendo presidido pelo Presidente do STF.
+Após a instauração do processo pelo Senado Federal, o Presidente ficará suspenso de suas
+funções; ele só retornará ao exercício da presidência se absolvido ou se, decorridos 180 dias, o
+julgamento não tiver sido concluído. Nesse último caso, cessará o afastamento do Presidente,
+sem prejuízo do regular prosseguimento do processo.
+
+8
+  MS-MC-QO 21.564/DF. Rel. Min. Carlos Velloso. 27.08.1993.
+9
+  ADPF 378. Rel. Min. Luiz Edson Fachin. Julg. 17.12.2015.
+10
+   MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet, COELHO, Inocência Mártires. Curso de Direito
+Constitucional, 5ª edição. São Paulo: Saraiva, 2010, pp. 959.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                            29
+          www.estrategiaconcursos.com.br                                                          92
+
+                                        
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+           Há um detalhe que as bancas examinadoras adoram:
+           1) Nos crimes comuns, o Presidente ficará suspenso de suas funções desde o
+           recebimento da denúncia ou queixa-crime pelo STF.
+           2) Nos crimes de responsabilidade, o Presidente ficará suspenso de suas funções
+           desde a instauração do processo pelo Senado Federal.
+           O que as bancas fazem? Elas invertem as coisas, dizendo, por exemplo que o
+           Presidente fica suspenso, nos crimes de responsabilidade, desde o recebimento
+           da denúncia (ERRADO).
+
+A condenação do Presidente pelo Senado Federal depende do voto nominal (aberto) de 2/3 dos
+seus membros. Segundo o Prof. Alexandre de Moraes, “a votação ostensiva e nominal no
+julgamento dos agentes políticos é a única forma condizente com os princípios da soberania
+popular e da publicidade”.11
+Cabe destacar que, segundo o STF, não é cabível recurso contra o mérito da decisão do Senado
+Federal no processo de “impeachment”.12 Entretanto, o STF considera que, no processo
+constitucional de “impeachment”, devem ser assegurados os princípios do devido processo
+legal, dentre eles o contraditório, a ampla defesa e a fundamentação das decisões. Assim, é
+cabível controle jurisdicional quanto aos aspectos processuais (formais) no processo de
+“impeachment”.
+Uma vez condenado por crime de responsabilidade, não haverá qualquer pena privativa de
+liberdade. As penalidades aplicadas serão duas: i) perda do cargo e; ii) inabilitação, por 8 (oito)
+anos, para o exercício de função pública. Destaque-se que essa inabilitação vale para toda e
+qualquer função pública, sejam aquelas obtidas mediante aprovação em concurso público,
+cargos comissionados ou mandatos eletivos.
+Na história brasileira, há o conhecido episódio do “impeachment” do ex-presidente Fernando
+Collor de Mello. Tendo sido instaurado o processo no Senado Federal, Collor renunciou ao cargo,
+objetivando esquivar-se da penalidade de inabilitação por 8 (oito) anos para o exercício de
+função pública.
+Em tese, a renúncia paralisaria o processo de “impeachment”. O Senado Federal, todavia,
+entendeu de forma diversa e continuou o julgamento, aplicando a pena de inabilitação para o
+exercício de função pública. Chamado a apreciar a questão, o STF referendou o entendimento
+do Senado Federal e decidiu que “a renúncia ao cargo, apresentada na sessão de julgamento,
+quando já iniciado este, não paralisa o processo de impeachment”.13
+
+Réu em processo-crime x Substituição presidencial
+Conforme já estudamos, a CF/88 prevê que o Presidente da República ficará afastado de suas
+funções a partir do momento em que o STF receber denúncia contra ele pela prática de crime
+comum. Em outras palavras, quando o Presidente da República se torna réu em processo-crime,
+
+
+11
+   MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São
+Paulo Editora Atlas: 2010, pp. 1279.
+12
+   STF, MS 21.689-1/DF. Rel. Min. Carlos Velloso. 07.04.1995.
+13
+   STF, MS 21.689-1/DF. Rel. Min. Carlos Velloso. 07.04.1995.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                              30
+           www.estrategiaconcursos.com.br                                                            92
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+ele é afastado do exercício de suas funções, apenas retornando ao cargo se for absolvido ou se o
+julgamento não for concluído dentro de 180 dias.
+Diante disso, cabe-nos perguntar se a mesma regra se aplicaria àqueles que ocupam cargos da
+“linha sucessória” do Presidente da República. Em outras palavras, será que, ao se tornarem réus
+em processo penal, o Presidente da Câmara dos Deputados, o Presidente do Senado Federal e o
+Presidente do STF ficarão afastados de suas funções?
+Foi exatamente isso o que o STF examinou na ADPF nº 402. Na ocasião, foram firmados pela
+Corte os seguintes entendimentos:14
+          a) Aqueles que forem réus em processo-criminal não poderão, em hipótese alguma,
+          exercer o ofício de Presidente da República. Não será admissível, dessa forma, que réus
+          em ação penal efetivamente substituam o Presidente da República.
+          b) O fato de ser réu em processo criminal não impede que o indivíduo exerça a
+          Presidência da Câmara dos Deputados, do Senado Federal ou do STF.
+Suponha, então, que o Presidente do Senado Federal se torne réu em processo penal. Ele
+continuará exercendo a Presidência daquela Casa Legislativa, não precisando ser afastado do
+cargo. Entretanto, não poderá efetivamente substituir o Presidente da República, uma vez que
+esse ofício não pode ser exercido por réus em processo penal.
+
+(PGE / RJ – 2022) Conforme regra consagrada na CF, o presidente da República detém
+imunidade penal relativa no que se refere às infrações penais que, cometidas antes ou durante o
+exercício do mandato, não guardem relação com as funções de chefe do Poder Executivo.
+Comentários:
+Segundo o § 4º do art. 86 da CF/88, o Presidente da República, na vigência do mandato, não
+poderá ser responsabilizado por atos estranhos ao exercício de suas funções. Trata-se de
+responsabilidade penal relativa, não ocorrendo a persecutio criminis (persecução penal), ou seja,
+a denominada imunidade penal relativa. Questão correta.
+(PC / DF – 2015) Uma vez instaurado o processo por crime de responsabilidade, o presidente da
+República poderá continuar, caso haja vontade da maioria absoluta do Senado Federal, a exercer
+as suas funções.
+Comentários:
+O Presidente da República ficará suspenso de suas funções assim que for instaurado, no Senado
+Federal, o processo por crime de responsabilidade. Questão errada.
+(PC / DF – 2015) Suponha-se que o presidente da República tenha cometido crime comum
+durante o seu mandato. Nesse caso, ele deverá ser processado e julgado pelo Senado Federal.
+
+14
+     STF. Plenário. ADPF 402 MC-REF/DF, rel. Min. Marco Aurélio, julgamento em 7.12.2016
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                       31
+           www.estrategiaconcursos.com.br                                                     92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Comentários:
+Nos crimes comuns, o Presidente da República será processado e julgado pelo STF. Questão
+errada.
+(PC / GO – 2015) Durante o mandato, o presidente da República só poderá ser preso, nas
+infrações comuns, se encontrado em flagrante de crime inafiançável.
+Comentários:
+O Presidente da República somente estará sujeito à prisão após sentença condenatória, nas
+infrações penais comuns. Não são admitidas prisões cautelares (flagrante delito, prisão
+temporária, prisão preventiva) do Presidente da República. Questão errada.
+(FUNASG – 2015) O Presidente da República ficará suspenso de suas funções nos crimes de
+responsabilidade, por 180 dias, após a condenação pelo órgão competente.
+Comentários:
+Nos crimes de responsabilidade, o Presidente ficará suspenso de suas funções desde a
+instauração do processo pelo Senado Federal. Questão errada.
+(MPE / GO – 2014) O instituto do impeachment, por possuir natureza essencialmente política e
+não jurídica, não se subordina, tanto na forma – aspectos processuais – quanto no fundo – juízo
+de mérito –, a controle jurisdicional, não se mostrado crível, pois, conhecer-se de mandado de
+segurança impetrado com vista à correção de suposta ilegalidade cometida, inclusive no tocante
+à sanção aplicada pelo Senado Federal.
+Comentários:
+De fato, o impeachment tem natureza essencialmente política. Por isso, não se sujeita a controle
+jurisdicional quanto ao mérito. Entretanto, é possível o controle jurisdicional quanto aos aspectos
+formais (processuais). Questão errada.
+(MPE / GO – 2014) Conquanto lhes incumba, no processo de impeachment, o julgamento de
+crimes de responsabilidade, não se submetem os membros do Senado Federal às regras de
+impedimento e suspeição previstas no Código de Processo Penal.
+Comentários:
+É isso mesmo. Conforme já decidiu o STF, os Senadores não se submetem às regras de
+impedimento e suspeição previstas no Código de Processo Penal. Isso se deve ao fato de que o
+Senado é um órgão político, não estando, por isso, sujeito às rígidas regras aos quais se
+submetem os órgãos do Poder Judiciário. Questão correta.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            32
+        www.estrategiaconcursos.com.br                                                          92
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 12
+
+                    VICE-PRESIDENTE E MINISTROS DE ESTADO
+O Vice-Presidente é figura que tem suas origens no constitucionalismo norte-americano, tendo
+sido criado para substituir o Presidente em seus impedimentos e sucedê-lo, no caso de vacância
+do cargo. A Constituição confere ao Vice-Presidente diversas funções, que, segundo Alexandre
+de Moraes, podem ser classificadas em1:
+         a) Funções próprias ou típicas: são aquelas para as quais o cargo de Vice-Presidente foi
+         criado, sendo-lhe inerentes. Podem resultar de previsão expressa da Constituição ou de lei
+         complementar. São elas: substituição (CF, art. 79), sucessão (CF, art. 80), participação nos
+         Conselhos da República (CF, art. 89, I) e de Defesa Nacional (CF, art. 91, I), bem como as
+         eventuais atribuições estabelecidas pela lei complementar prevista no art. 79, parágrafo
+         único, da Carta Magna.
+         b) Funções impróprias: funções de auxílio ao Presidente da República, nos termos do art.
+         79 da Constituição, sempre que por ele convocado para missões especiais.
+Os Ministros de Estado, por sua vez, são os assessores diretos do Presidente da República. São
+livremente nomeáveis e exoneráveis pelo Presidente da República, sendo escolhidos dentre
+brasileiros natos ou naturalizados, maiores de vinte e um anos e no exercício dos direitos
+políticos (art. 87, “caput”, CF). O Ministro da Defesa, como você deve se lembrar,
+necessariamente deverá ser brasileiro nato.
+O art. 87, parágrafo único, da Constituição, arrola em lista exemplificativa as atribuições dos
+Ministros de Estado:
+
+          Art. 87. Os Ministros de Estado serão escolhidos dentre brasileiros maiores de
+          vinte e um anos e no exercício dos direitos políticos.
+          Parágrafo único. Compete ao Ministro de Estado, além de outras atribuições
+          estabelecidas nesta Constituição e na lei:
+          I - exercer a orientação, coordenação e supervisão dos órgãos e entidades da
+          administração federal na área de sua competência e referendar os atos e
+          decretos assinados pelo Presidente da República;
+          II - expedir instruções para a execução das leis, decretos e regulamentos;
+          III - apresentar ao Presidente da República relatório anual de sua gestão no
+          Ministério;
+          IV - praticar os atos pertinentes às atribuições que lhe forem outorgadas ou
+          delegadas pelo Presidente da República.
+
+Sobre o inciso I, vale a pena destacar a competência dos Ministros para referendar decretos
+assinados pelo Presidente da República. A doutrina se divide quanto à indispensabilidade do
+referendo ministerial para a validade do decreto presidencial. No entanto, o STF já decidiu que o
+referendo ministerial não se qualifica como requisito indispensável de validade dos decretos
+
+
+1
+ MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 1219-1220.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                   33
+          www.estrategiaconcursos.com.br                                                                 92
+
+                                        
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+presidenciais.2 Entretanto, como os Ministros são demissíveis “ad nutum” (ocupam cargo de livre
+nomeação e exoneração), o fato de não referendarem ato do Presidente irá implicar, quase que
+inevitavelmente, na perda do cargo.
+O inciso II trata da competência dos Ministros para expedir instruções para a execução das leis,
+decretos e regulamentos. Pode-se considerar que é uma espécie de poder regulamentar
+concedido aos Ministros de Estado que, embora não editem Decretos, têm competência para
+editar Portarias, que seriam o que a Constituição denomina “instruções”.
+Os incisos III e IV decorrem da subordinação direta dos Ministros ao Presidente da República. Na
+condição de auxiliares diretos do Presidente, cabe aos Ministros apresentar relatório anual de sua
+gestão e praticar os atos que a eles forem outorgados ou delegados pelo Presidente.
+
+                                                            ==219a34==
+
+Os Ministros de Estado são processados e julgados pelo STF nos crimes comuns e nos crimes de
+responsabilidade. No entanto, nos crimes de responsabilidade conexos com os do Presidente,
+eles serão processados julgados pelo Senado Federal. Assim, temos que:
+          a) Os Ministros de Estado são julgados pelo STF nos crimes comuns.
+          b) Os Ministros de Estado são julgados pelo STF nos crimes de responsabilidade
+          “autônomos”.
+          c) Os Ministros de Estado são julgados pelo Senado Federal nos crimes de
+          responsabilidade conexos com os do Presidente.
+
+2
+    STF, MS nº 22.706-1- Medida Liminar.05.02.1997.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        34
+           www.estrategiaconcursos.com.br                                                      92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+(MJSP – 2022) A CF prevê expressamente que compete ao ministro de Estado, entre outras
+atribuições, referendar os decretos assinados pelo presidente da República.
+Comentários:
+É exatamente o que prevê a parte final do art. 87, parágrafo único, inciso I, da CF/88. Questão
+correta.
+(TRT 8a Região – 2015) Compete ao Ministro de Estado, além de outras atribuições estabelecidas
+na Constituição Federal e na lei, referendar os atos e decretos assinados pelo Presidente da
+República.
+Comentários:
+Segundo o art. 87, parágrafo único, I, compete ao Ministro de Estado, além de outras atribuições
+estabelecidas nesta Constituição e na lei “exercer a orientação, coordenação e supervisão dos
+órgãos e entidades da administração federal na área de sua competência e referendar os atos e
+decretos assinados pelo Presidente da República”. Questão correta.
+(PC / GO – 2015) Os ministros de Estado serão escolhidos entre os brasileiros maiores de, no
+mínimo, 35 anos que estejam no pleno gozo de seus direitos políticos.
+Comentários:
+Os Ministros de Estado são escolhidos dentre brasileiros maiores de 21 anos. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           35
+        www.estrategiaconcursos.com.br                                                         92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ CONSELHO DA REPÚBLICA E CONSELHO DE DEFESA NACIONAL
+O Conselho da República e o Conselho de Defesa Nacional são órgãos colegiados, de natureza
+consultiva. Daí decorre o fato de eles se manifestarem, quando consultados pelo Presidente da
+República, por meio de parecer, cuja natureza é meramente opinativa.
+O Conselho da República é órgão superior de consulta do Presidente da República, com
+competência para se pronunciar sobre as seguintes questões:
+       a) Intervenção federal, estado de defesa e estado de sítio.
+       b) Questões relevantes para a estabilidade das instituições democráticas
+Os integrantes do Conselho da República são os seguintes:
+                                                         ==219a34==
+
+O Conselho de Defesa Nacional, por sua vez, é órgão de consulta do Presidente da República
+nos assuntos relacionados com a soberania nacional e a defesa do Estado democrático. Segundo
+o art. 91, § 1º, CF/88, são competências do Conselho de Defesa Nacional as seguintes:
+       a) Opinar nas hipóteses de declaração de guerra e de celebração da paz, nos termos desta
+       Constituição;
+       b) Opinar sobre a decretação do estado de defesa, do estado de sítio e da intervenção
+       federal;
+       c) Propor os critérios e condições de utilização de áreas indispensáveis à segurança do
+       território nacional e opinar sobre seu efetivo uso, especialmente na faixa de fronteira e nas
+       relacionadas com a preservação e a exploração dos recursos naturais de qualquer tipo;
+       d) Estudar, propor e acompanhar o desenvolvimento de iniciativas necessárias a garantir a
+       independência nacional e a defesa do Estado democrático.
+Os integrantes do Conselho de Defesa Nacional são os seguintes:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             36
+        www.estrategiaconcursos.com.br                                                           92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Algumas dicas para memorização:
+       a) O Vice-Presidente, o Presidente da Câmara dos Deputados, o Presidente do Senado
+       Federal e o Ministro da Justiça participam tanto do Conselho da República quanto do
+       Conselho de Defesa Nacional.
+       b) Os 6 (seis) cidadãos brasileiros natos participam apenas do Conselho da República.
+       c) O único Ministro que participa do Conselho da República é o Ministro da Justiça.
+
+(SEE-PE – 2022) Compete privativamente ao presidente da República nomear os integrantes do
+Conselho da República.
+Comentários:
+Conforme o art. 89, inciso VII, o Senado Federal e a Câmara dos Deputados devem eleger, cada
+uma, 2 brasileiros natos com mais de 35 anos para integrarem o Conselho da República. O
+Presidente da República também pode nomear 2 brasileiros nas mesmas condições. Questão
+errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           37
+        www.estrategiaconcursos.com.br                                                         92
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+                                       QUESTÕES COMENTADAS
+
+1. FGV/TCE-GO/2024
+
+O Presidente da República editou o Decreto nº X, o qual dispôs sobre o seguinte:
+
+I. extinção dos órgãos públicos Alfa e Beta, com realocação dos respectivos ocupantes, o que
+decorria da exponencial diminuição de suas atividades, fruto de alterações no ambiente social;
+
+II. extinção dos cargos em comissão de simbologia W, na medida em que vagassem;
+
+III. disciplina da organização da Administração Pública federal.
+
+Por discordar das medidas adotadas, o Partido Político Alfa, com representação no Congresso
+Nacional, consultou sua assessoria jurídica em relação à conformidade constitucional das
+medidas adotadas.
+
+A assessoria informou que é constitucional o que consta em
+
+a) I, II e III.
+
+b) I, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+e) II e III, apenas.
+
+Comentário Completo:
+
+Tema muito bacana! A abordagem da questão traz uma discussão sobre a constitucionalidade do
+Decreto nº X, editado pelo Presidente da República e envolve a análise das competências
+presidenciais em relação à organização da Administração Pública.
+
+A Constituição Federal estabelece limites claros para a atuação do Executivo, especialmente no
+que diz respeito à criação e extinção de órgãos públicos e cargos, conforme disposto no art. 87,
+inciso VI, a e b da CRFB:
+
+                            Art. 84. Compete privativamente ao Presidente da República:
+
+                            VI - dispor, mediante decreto, sobre: (Redação dada pela Emenda
+                            Constitucional nº 32, de 2001)
+
+           Receita Federal (Analista Tributário) Direito Constitucional                       38
+           www.estrategiaconcursos.com.br                                                     92
+
+                                         
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+                              a) organização e funcionamento da administração federal, quando não
+                              implicar aumento de despesa nem criação ou extinção de órgãos
+                              públicos; (Incluída pela Emenda Constitucional nº 32, de 2001)
+
+                              b) extinção de funções ou cargos públicos, quando vagos; (Incluída pela
+                              Emenda Constitucional nº 32, de 2001)
+
+O nosso gabarito é a LETRA C!
+
+(...)
+
+ITEM I extinção dos órgãos públicos Alfa e Beta, com realocação dos respectivos ocupantes, o
+que decorria da exponencial diminuição de suas atividades, fruto de alterações no ambiente
+social.
+
+INCORRETA. O Presidente não pode extinguir órgãos públicos por meio de decreto. A
+competência para essa ação requer legislação específica, conforme o artigo 84, VI, da
+Constituição, que permite ao Presidente dispor sobre a organização da administração federal
+apenas se não implicar na criação ou extinção de órgãos.
+
+ITEM II. extinção dos cargos em comissão de simbologia W, na medida em que vagassem;
+
+INCORRETA. O decreto pode extinguir apenas os cargos em comissão que estejam vagos no
+momento de sua edição, conforme o artigo 84, VI, b da Constituição e a jurisprudência do STF
+(ADI 6.186). Isso significa que a extinção deve se aplicar somente a cargos que já estão
+desocupados.
+
+ITEM III. disciplina da organização da Administração Pública federal.
+
+CORRETA. O Presidente tem a competência para organizar a administração pública, desde que
+isso não implique em aumento de despesas ou em extinção de órgãos.
+
+Gabarito: Letra C.
+
+2. FGV/CVM/2024
+
+Suponha que, para fins de organização administrativa, seja editado um decreto referente ao
+funcionamento e organização da Comissão de Valores Mobiliários, que não importará em
+aumento de despesa ou na criação e extinção dos respectivos órgãos.
+
+Além disso, imagine que, na respectiva seara de organização, a Presidência da República faça
+editar uma medida provisória que, em circunstâncias de relevância e urgência, crie uma nova
+autarquia, para o desempenho de função administrativa.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                             39
+         www.estrategiaconcursos.com.br                                                           92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Diante dessa situação hipotética, considerando as questões atinentes à organização
+administrativa e ao poder regulamentar, à luz da jurisprudência do Supremo Tribunal Federal, é
+correto afirmar que:
+
+a) ambas as normas são inconstitucionais, na medida em que a matéria atinente à criação de
+autarquia, bem como à organização e ao funcionamento de tais entidades administrativas, está
+submetida à reserva de lei;
+
+b) ambas as normas são constitucionais, pois a medida provisória foi editada nos parâmetros
+estabelecidos pela Lei Maior para a criação de autarquia, enquanto o decreto que versa sobre a
+organização e funcionamento da entidade administrativa em tais circunstâncias é considerado
+decreto autônomo;
+
+c) ambas as normas são constitucionais, considerando que versam sobre assunto relacionado à
+criação, à organização e ao funcionamento das entidades autárquicas, cujo conteúdo
+corresponde ao de decreto de execução ou regulamentar;
+
+d) apenas a medida provisória é constitucional, por atender à necessidade de reserva de lei
+estabelecida na Lei Maior, notadamente porque os decretos autônomos são expressamente
+vedados no ordenamento pátrio;
+
+e) ambas as normas são constitucionais, considerando que a viabilidade de dispor sobre as
+matérias atinentes à criação, à organização e ao funcionamento das entidades autárquicas em
+questão, por meio de medida provisória, outorga ao Poder Executivo a possibilidade de editar
+decretos autônomos acerca do tema.
+
+Comentário Completo:
+
+A questão mistura dois temas importantes e relacionados as Atribuições do Presidente da
+República: decretos autônomos e medidas provisórias.
+
+Quanto a atribuição do Presidente da República, este na qualidade de chefe de Governo, exerce
+uma função fundamental. Ele assume o papel de Chefe da Administração Pública Federal. E,
+nessa seara, possui algumas atribuições basilares para a condição do Estado, dentre elas
+podemos destacar:
+
+                         Art. 84. Compete privativamente ao Presidente da República:
+
+                         (...)
+
+                         VI – dispor, mediante decreto, sobre:
+
+                         a) organização e funcionamento da administração federal, quando não
+                         implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          40
+        www.estrategiaconcursos.com.br                                                        92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+                         b) extinção de funções ou cargos públicos, quando vagos.
+
+Assim, analisando a disposição do enunciado, podemos afirmar que é constitucional a edição de
+decreto relativo ao funcionamento e organização da Comissão de Valores Mobiliários, uma vez
+que não resultará no aumento de despesas ou na criação e extinção dos respectivos órgãos.
+
+É importante frisar que a competência para editar decreto autônomo é delegável, podendo o
+Presidente da República, delegar tal atribuição aos Ministros de Estado, ao Advogado-Geral da
+União ou ao Procurador-Geral da República, conforme disposição do parágrafo único do art. 84
+da CRFB/88.
+
+Sobre a criação de autarquia através de medida provisória, a Constituição determina em seu art.
+62, o seguinte:
+
+                         Art. 62. Em caso de relevância e urgência, o Presidente da República poderá
+                         adotar medidas provisórias, com força de lei, devendo submetê-las de
+                         imediato ao Congresso Nacional.
+
+                         § 1º É vedada a edição de medidas provisórias sobre matéria:
+
+                         I – relativa a:
+
+                         a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito
+                         eleitoral;
+
+                         b) direito penal, processual penal e processual civil;
+
+                         c) organização do Poder Judiciário e do Ministério Público, a carreira e a
+                         garantia de seus membros;
+
+                         d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos
+                         adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;
+
+                         II – que vise a detenção ou sequestro de bens, de poupança popular ou
+                         qualquer outro ativo financeiro;
+
+                         III – reservada a lei complementar;
+
+                         IV – já disciplinada em projeto de lei aprovado pelo Congresso Nacional e
+                         pendente de sanção ou veto do Presidente da República.
+
+                         (...)
+
+Perceba que o art. 62 acima descrito não faz vedação a criação de autarquia através da medida
+provisória. Ademais, a edição de medida provisória é atribuição de competência privativa do
+Presidente da República, conforme preceitua o art. 84, inciso XXVI da CRFB/88.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               41
+        www.estrategiaconcursos.com.br                                                             92
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+                          Art. 84. Compete privativamente ao Presidente da República:
+
+                          (...)
+
+                          XXVI - editar medidas provisórias com força de lei, nos termos do art. 62.
+
+É importante ressaltar que o art. 37, inciso XIX da CRFB/88 determina que a autarquia deve ser
+criada por lei específica.
+
+No entanto, analisando todo o conjunto da legislação, podemos afirmar que, apesar da
+Constituição determinar que a autarquia seja criada por lei específica, é possível que tal entidade
+seja criada por medida provisória, desde que observados os requisitos de relevância e urgência,
+uma vez que o art. 62 da CRFB/88 não veda tal hipótese.
+
+Logo, podemos identificar que o nosso gabarito é a LETRA B!
+
+(...)
+
+LETRA A. INCORRETA. A alternativa está errada, porque ambas as normas são constitucionais,
+tendo em vista que o funcionamento da administração pode ser tratado por decreto. Além disso,
+a criação de autarquia pode ser realizada através de medida provisória, desde que observada a
+relevância e urgência, de acordo com o art. 62, § 1º c/c 84 ambos da CRFB/88.
+
+LETRA B. CORRETA. É o nosso gabarito! De acordo com a CRFB/88, em seu art. 62, § 1º c/c 84,
+XXVI, ambos da CRFB/88, uma autarquia pode ser criada através de medida provisória, desde
+que observada a relevância e urgência. Além disso, de acordo com o art. 84, inciso VI, "a" da
+CRFB/88, cabe decreto autônomo para organização e funcionamento da administração federal,
+quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos. Nesse
+sentido, confira os dispositivos constitucionais:
+
+                          Art. 62. Em caso de relevância e urgência, o Presidente da República poderá
+                          adotar medidas provisórias, com força de lei, devendo submetê-las de
+                          imediato ao Congresso Nacional.
+
+                          § 1º É vedada a edição de medidas provisórias sobre matéria:
+
+                          I – relativa a:
+
+                          a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito
+                          eleitoral;
+
+                          b) direito penal, processual penal e processual civil;
+
+                          c) organização do Poder Judiciário e do Ministério Público, a carreira e a
+                          garantia de seus membros;
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                  42
+         www.estrategiaconcursos.com.br                                                                92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+                         d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos
+                         adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;
+
+                         II – que vise a detenção ou sequestro de bens, de poupança popular ou
+                         qualquer outro ativo financeiro;
+
+                         III – reservada a lei complementar;
+
+                         IV – já disciplinada em projeto de lei aprovado pelo Congresso Nacional e
+                         pendente de sanção ou veto do Presidente da República.
+
+                         (...)
+
+                         Art. 84. Compete privativamente ao Presidente da República:
+
+                         (...)
+
+                         VI – dispor, mediante decreto, sobre:
+
+                         a) organização e funcionamento da administração federal, quando não
+                         implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+
+                         b) extinção de funções ou cargos públicos, quando vagos;
+
+                         XXVI - editar medidas provisórias com força de lei, nos termos do art. 62.
+
+LETRA C. INCORRETA. A autarquia deve ser criada por lei específica. No caso em tela, foi criada
+por medida provisória, a qual ter força de lei, não havendo vedação de tal hipótese na
+Constituição, de acordo com o art. 62, § 1º c/c 84 ambos da CRFB/88.
+
+LETRA D. INCORRETA. A nossa Constituição permite a edição de decreto autônomo, o qual é
+atribuído ao Presidente da República, estando disciplinado no art. 84, inciso VI, alíneas "a" e "b"
+da CRFB/88.
+
+LETRA E. INCORRETA. A medida provisória é um instrumento constitucionalmente permitido
+para a criação de autarquias, de acordo com o art. 62, § 1º c/c 84, XXVI ambos da CRFB/88. Em
+contrapartida, os decretos autônomos são os instrumentos apropriados para abordar a
+organização e o funcionamento da administração pública federal, conforme o art. 84, inciso VI,
+"a" da CRFB/88.
+
+Gabarito: Letra B.
+
+3. (FGV/CÂMARA DOS DEPUTADOS/2023) Observe o seguinte caso hipotético: João,
+   Presidente da República foi acusado da prática de crime de responsabilidade, por incorrer em
+   condutas que alegadamente atentaram contra a segurança interna do País.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                  43
+        www.estrategiaconcursos.com.br                                                                92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Sobre a situação descrita, à luz da sistemática estabelecida na Constituição da República/88,
+assinale a afirmativa correta.
+
+a) O Chefe do Poder Executivo ficará afastado de suas funções a partir da admissão da acusação
+por dois terços da Câmara dos Deputados.
+
+b) Caso o Chefe do Poder Executivo sofra a sanção de inabilitação, terá, em sua esfera jurídica,
+restrições inferiores àquelas afetas à inelegibilidade.
+
+c) Caso o Chefe do Poder Executivo sofra a sanção de inabilitação, terá, em sua esfera jurídica,
+restrições idênticas à suspensão dos direitos políticos.
+
+d) A similitude do procedimento adotado, em relação ao julgamento por infrações penais
+comuns, restringe-se à admissão da acusação pela Câmara dos Deputados.
+
+e) A tipologia legal do ilícito que foi imputado ao Chefe do Poder Executivo alcança tanto as
+condutas praticadas em momento anterior, como em momento posterior à assunção do cargo.
+
+Comentário Completo:
+
+Meus amigos, estamos diante de uma questão que aborda o crime de responsabilidade
+cometido pelo Presidente da República.
+
+Nos moldes do art. 86, caput da CRFB/88, o Presidente da República poderá ser julgado nos
+crimes comuns perante o STF e nos crimes de responsabilidade perante o Senado Federal. Nas
+duas hipóteses,dependerá de uma autorização prévia da Câmara dos Deputados.
+
+Nos crimes de responsabilidade, o Presidente da República será processado e julgado pelo
+Senado Federal, após juízo de admissibilidade político da Câmara dos Deputados. A denúncia
+deve ser apresentada à Câmara dos Deputados. É o caso de uma denúncia popular, podendo
+qualquer cidadão vir a realizar essa denúncia.
+
+A Câmara dos Deputados precisa realizar o juízo de admissibilidade político. Trata-se de um juízo
+prévio em que admitirá ou não a instauração do processo em face do Presidente da República.
+No caso, a votação será aberta e, uma vez sendo admitida a acusação por 2/3 dos membros da
+casa legislativa, o processo será encaminhado ao Senado Federal, a fim de que este órgão possa
+processar e julgar o Presidente da República.
+
+Se o Senado admitir a denúncia realizada contra o Presidente, será instaurado um processo
+específico e o “PR” ficará suspenso de suas funções, só retornando à presidência se ele for
+absolvido ou se decorrer o prazo de 180 dias e o julgamento não tiver sido finalizado.
+
+Por outro lado, nos crimes comuns a competência do julgamento e processamento do Presidente
+da República será do Supremo Tribunal Federal. Ocorrerá a apresentação da denúncia ou
+queixa-crime perante o Supremo, mas o recebimento fica condicionado ao controle político de
+admissibilidade pela Câmara dos Deputados. Havendo a autorização, é importante entender que
+o STF não está obrigado a aceitar a denúncia/queixa. Caso ele rejeite, o processo não será
+instaurado.
+
+Contudo, se o Supremo decidir pelo recebimento, acontecerá o afastamento do Presidente por
+180 dias (art. 86, §1º, da CRFB/88), vejamos as hipóteses sobre o que é possível acontecer:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          44
+        www.estrategiaconcursos.com.br                                                        92
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+· Presidente absolvido ao final do julgamento – voltará ao exercício das suas atividades;
+
+· Decorrido mais de 180 dias sem a conclusão do julgamento – também voltará a exercer as
+atividades normalmente, mas o processo continuará até a decisão final.
+
+· Presidente condenado – será definitivamente afastado.
+
+Ao ser condenado pela prática de crime comum, além de perder o seu mandato e ter a
+suspensão dos seus direitos políticos suspensos (art. 15, III da CRFB/88), o Presidente estará
+sujeito também às sanções penais cabíveis.
+
+Podemos constatar que o nosso gabarito é a LETRA D.
+
+(...)
+
+LETRA A. INCORRETA. O Chefe do Poder Executivo, no cometimento de crime de
+responsabilidade, só ficará suspenso das suas atribuições após a instauração do processo pelo
+Senado Federal, conforme disposição do inciso II, do § 1º do art. 86 da CRFB/88. O papel da
+Câmara dos Deputados é de apenas um juízo político de admissibilidade.
+
+LETRA B.      INCORRETA. Os efeitos decorrentes da inabilitação são maiores que a da
+inelegibilidade. A inabilitação consiste no impedimento de atuação de qualquer tipo de função
+pública pelo período de 08 anos. Já a inelegibilidade gera reflexos apenas na esfera dos cargos
+eletivos.
+
+LETRA C. Nessa hipótese, os efeitos da inabilitação também são mais drásticos. Vimos na
+alternativa B, por exemplo, que a inabilitação será para qualquer tipo de função pública pelo
+período de 08 anos.
+
+LETRA D. CORRETA. É o nosso gabarito! De fato, de acordo com o caput do art. 86 da CRFB/88,
+admitida a acusação contra o Presidente da República, por 2/3 da Câmara dos Deputados, será
+ele submetido a julgamento perante o Supremo Tribunal Federal, nas infrações penais comuns,
+ou perante o Senado Federal, nos crimes de responsabilidade.
+
+LETRA E. INCORRETA. A alternativa está errada, porque crime de responsabilidade só ocorre
+durante o desempenho do cargo público. Após esse período, o indivíduo apenas será capaz de
+cometer crime comum, isto é, o crime de responsabilidade só ocorre por pessoas ocupantes de
+funções ou cargos públicos.
+
+Gabarito LETRA D.
+
+4. (FGV/CÂMARA DOS DEPUTADOS/2023) Em razão da omissão da Constituição do Estado
+   Alfa, o Presidente da Assembleia Legislativa constituiu uma comissão com o objetivo de
+   elaborar um anteprojeto de reforma da Constituição Estadual, estabelecendo a forma de
+   escolha do Governador e do Vice-Governador na hipótese de vacância de ambos os cargos
+   no último biênio do mandato.
+
+Ao fim dos trabalhos, a única tese apresentada à comissão que se mostrou compatível com os
+balizamentos estabelecidos pela Constituição da República de 1988 foi a de que
+
+         Receita Federal (Analista Tributário) Direito Constitucional                       45
+         www.estrategiaconcursos.com.br                                                     92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+a) por força do princípio da simetria, a eleição para ambos os cargos deve ser feita de forma
+direta, sendo organizada pela Justiça Eleitoral.
+
+b) por força do princípio da simetria, a eleição para ambos os cargos deve ser feita trinta dias
+depois da última vaga, pela Assembleia Legislativa, na forma da lei.
+
+c) a Constituição Estadual deve disciplinar a temática em relação ao Governador e ao
+Vice-Governador, bem como no que diz respeito aos Prefeitos e Vice-Prefeitos.
+
+d) pode ser previsto que a eleição seja feita de maneira direta ou indireta, neste último caso pela
+Assembleia Legislativa, vedada outra forma de provimento definitivo dos cargos.
+
+e) pode ser previsto que a eleição seja feita de maneira direta ou indireta, ou mesmo que a
+sucessão se dará, de maneira definitiva, pelo Presidente da Assembleia Legislativa e, na sua falta,
+pelo Presidente do Tribunal de Justiça.
+
+Comentário Completo:
+
+A questão trata sobre o Poder Executivo, em especial, abordando o tema da sucessão do Chefe
+do Poder Executivo e seu Vice.
+
+Com a vacância do cargo de Presidente, temos que o legislador constituinte permitiu somente ao
+Vice-Presidente suceder em caráter definitivo. Os demais elencados no art. 80 permanecerão no
+cargo de Chefe do Poder Executivo Federal provisoriamente (interinamente). Afinal, o art. 81
+dispõe que nessa situação (vacância dos cargos de Presidente e de Vice-Presidente) novas
+eleições serão convocadas.
+
+Nesse sentido, quando há a vacância de ambos os cargos:
+
+                         1. Nos dois primeiros anos do mandato presidencial, será realizada nova
+                         eleição 90 (noventa) dias depois de aberta a última vaga, ou seja, ocorrerá
+                         eleição direta (o povo diretamente escolherá os novos ocupantes dos
+                         cargos).
+
+                         2. Nos dois últimos anos do mandato presidencial, haverá eleição 30 (trinta)
+                         dias depois da vacância da última vaga. Contudo, nesse caso a eleição será
+                         realizada pelo Congresso Nacional.
+
+Aqui, temos a hipótese de eleição indireta, pois os novos ocupantes dos cargos serão eleitos por
+um colégio eleitoral, composto por delegados escolhidos pelo povo (de acordo com a CRFB/88
+é o Congresso Nacional).
+
+O art. 81 dispõe sobre o chamado “mandato tampão”. Aqueles que forem eleitos, apenas
+completarão o mandato dos seus antecessores.
+
+Agora, vamos conferir alguns entendimentos jurisprudenciais importantes a respeito da temática?
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              46
+        www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+Em sede de ADI 7139, o STF indicou que vagando os cargos de chefia do Poder Executivo, em
+decorrência de causas não eleitorais, compete aos Estados-Membros e aos Municípios
+deliberarem sobre o processo de escolha para substituição, sendo obrigatória a realização de
+novas eleições, de forma direta ou indireta.
+
+                          “(...) A jurisprudência desta Corte é firme no sentido de que, vagando os
+                          cargos de chefia do Poder Executivo, em decorrência de causas não
+                          eleitorais, compete aos Estados-Membros e aos Municípios deliberarem
+                          sobre o processo de escolha para substituição das aludidas funções. Nada
+                          obstante, tal espaço de conformação não é ilimitado, mostrando-se
+                          incompatível com o modelo constitucional a opção pela integral supressão
+                          de processo eleitoral. Obrigatoriedade de realização de novas eleições, de
+                          forma direta ou indireta, em observância aos princípios democrático e
+                          republicano”. (STF, ADI 7139)
+                                                          ==219a34==
+
+Outro detalhe importante! Conforme decisão do STF na ADI 1057, a Constituição Estadual pode
+estabelecer a realização de eleições indiretas caso a dupla vacância dos cargos de Governador e
+Vice-Governador venha a ocorrer nos últimos 2 anos do mandato.
+
+Na visão da Corte, “essa competência legislativa do Estado-membro decorre da capacidade de
+autogoverno que lhe outorgou a própria Constituição da República". Entende-se que tal
+regramento é aplicável aos Municípios, ou seja, na hipótese de vacância dos cargos de Prefeito e
+Vice-Prefeito.
+
+Assim, podemos afirmar que o nosso gabarito é a LETRA D!
+
+(...)
+
+LETRA A. INCORRETA. Não é obrigatório que seja feita de forma direta!
+
+LETRA B. INCORRETA. Pode ser previsto que a eleição seja feita de maneira direta ou indireta.
+
+LETRA C. INCORRETA. Segundo o STF (ADI 7139), compete aos Estados-Membros e aos
+Municípios deliberarem sobre o processo de escolha para substituição das aludidas funções.
+
+LETRA D. CORRETA. É o nosso gabarito! Conforme decisão do STF (ADI 7139 e ADI 1057), pode
+ser previsto que a eleição seja feita de maneira direta ou indireta.
+
+LETRA E. INCORRETA. Em sede de ADI 7139, o STF indicou que é inconstitucional norma
+estadual que prevê o preenchimento, de forma definitiva, dos cargos de Governador e
+Vice-Governador pelo Presidente da Assembleia Legislativa e pelo Presidente do Tribunal de
+Justiça, sucessivamente.
+
+Gabarito: Letra D.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                            47
+         www.estrategiaconcursos.com.br                                                          92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+5. (FGV/CÂMARA DOS DEPUTADOS/2023) O Presidente da República, com o objetivo de
+   aumentar a eficiência da atuação das estruturas que lhe estavam diretamente subordinadas,
+   editou o Decreto nº X, por meio do qual: (1) realocou determinados órgãos administrativos,
+   reorganizando-os no âmbito da estrutura da Presidência da República; (2) extinguiu vinte
+   cargos públicos de provimento efetivo, de denominação WW, que se encontravam vagas; (3)
+   extinguiu vinte funções de confiança, de denominação YY, não preenchidas; e (4) extinguiu
+   uma classe de determinada carreira dos servidores públicos federais. O Decreto nº X foi
+   muito criticado por determinado sindicato de servidores, que solicitou a análise por sua
+   assessoria. A assessoria concluiu corretamente, em relação às quatro medidas adotadas pelo
+   Decreto nº X, que
+
+a) todas estão em harmonia com a ordem constitucional.
+
+b) apenas as medidas 1, 2 e 3 estão em harmonia com a ordem constitucional.
+
+c) apenas as medidas 2, 3 e 4 estão em harmonia com a ordem constitucional.
+
+d) apenas as medidas 2 e 4 estão em harmonia com a ordem constitucional.
+
+e) apenas as medidas 1 e 3 estão em harmonia com a ordem constitucional.
+
+Comentário Completo:
+
+A banca cobrou o tema Atribuições do Presidente da República, previsto no art. 84 da CRFB/88.
+E, nesse contexto, a figura dos decretos autônomos:
+
+                         Art. 84. Compete privativamente ao Presidente da República:
+
+                         (...)
+
+                         VI - dispor, mediante decreto, sobre:
+
+                         a) organização e funcionamento da administração federal, quando não
+                         implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+
+                         b) extinção de funções ou cargos públicos, quando vagos.
+
+                         (...)
+
+                         Parágrafo único. O Presidente da República poderá delegar as atribuições
+                         mencionadas nos incisos VI, XII e XXV, primeira parte, aos Ministros de
+                         Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União,
+                         que observarão os limites traçados nas respectivas delegações.
+
+Para a resolução ficar mais dinâmica, vamos analisar cada medida:
+
+(1) realocou determinados órgãos administrativos, reorganizando-os no âmbito da estrutura da
+Presidência da República;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           48
+        www.estrategiaconcursos.com.br                                                         92
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+A medida buscou organizar o funcionamento da Administração Pública, sem aumento de
+despesas e sem criar ou extinguir órgãos. Assim, está em consonância com a Constituição
+Federal, nos termos do art. 84, VI, a da CRFB/88.
+
+(2) extinguiu vinte cargos públicos de provimento efetivo, de denominação WW, que se
+encontravam vagas;
+
+A extinção de cargos públicos VAGOS mediante o referido decreto autônomo é uma medida
+Constitucional, uma vez que está disposta no art. 84, VI, b da CRFB/88. Logo, a medida está em
+harmonia com a CRFB/88.
+
+(3) extinguiu vinte funções de confiança, de denominação YY, não preenchidas;
+
+Nesse caso, também é possível a extinção de funções de confiança, uma vez que estão vagas,
+conforme o art. 84, VI, b da CRFB/88. Assim, a medida está de acordo com a ordem
+Constitucional vigente.
+
+ (4) extinguiu uma classe de determinada carreira dos servidores públicos federais.
+
+Nessa hipótese, a medida está em desacordo com a Constituição, porque a extinção de uma
+classe só é possível mediante lei, não pode ser objeto de decreto.
+
+Com base em todo o exposto, o nosso gabarito é a LETRA B!
+
+(...)
+
+LETRA A. INCORRETA. A medida 04 está em desacordo com a CRFB/88, porque a extinção de
+uma classe só é possível mediante lei, não pode ser objeto de decreto.
+
+LETRA B. CORRETA. É o nosso gabarito! Apenas as medidas 1, 2 e 3 estão de acordo com o
+texto constitucional, conforme art. 84, inciso VI, alíneas a e b da CRFB/88.
+
+                          Medida 1: buscou organizar o funcionamento da Administração Pública, sem
+                          aumento de despesas e sem criar ou extinguir órgãos.
+
+                          Medida 2: extinção de cargos públicos quando VAGOS é uma medida
+                          constitucional.
+
+                          Medida 3: é possível a extinção de funções de confiança, uma vez que estão
+                          vagas.
+
+                          Medida 4: a extinção de uma classe só é possível mediante lei, não pode ser
+                          objeto de decreto. Portanto, a medida 04 viola a Constituição.
+
+LETRA C. INCORRETA. A alternativa está errada, porque a medida 1 está correta, já a 4 está
+errada.
+
+LETRA D. INCORRETA. A medida 4 está errada! Estão corretas as medidas 1, 2 e 3.
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                             49
+         www.estrategiaconcursos.com.br                                                           92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+LETRA E. INCORRETA. A alternativa está incompleta, porque a medida 2 também está correta.
+
+Gabarito: Letra B.
+
+6. (FGV/ALEMA/2023) A Constituição do Estado Alfa, com o objetivo de ampliar os níveis de
+   controle popular sobre as decisões políticas do Chefe do Poder Executivo, foi reformada e
+   passou a dispor que todas as nomeações para secretarias de governo, no âmbito do Estado
+   Alfa e dos Municípios situados em seu território, deveriam ser previamente aprovadas pelo
+   Poder Legislativo, vale dizer, pela Assembleia Legislativa ou pela Câmara Municipal, conforme
+   o caso.
+
+Ao tomar conhecimento da reforma promovida na Constituição Estadual, o Prefeito do
+Município Beta determinou que sua assessoria analisasse a compatibilidade da reforma com a
+Constituição da República, sendo-lhe corretamente informado que ela é
+
+a) constitucional, já que a Constituição Estadual é a sedes materiae para a disciplina do exercício
+do poder no âmbito estadual e municipal.
+
+b) constitucional, já que a Constituição Estadual se limita a integrar a eficácia de norma
+programática já prevista na Constituição da República.
+
+c) constitucional apenas em relação ao Estado Alfa, mas inconstitucional ao estender esse
+comando aos Municípios, isto por violar a sua autonomia.
+
+d) inconstitucional, já que a Constituição da República limita a chancela, pelo Poder Legislativo, à
+aprovação dos ocupantes dos órgãos de cúpula da Administração Indireta.
+
+e) inconstitucional, já que a reforma afronta a separação dos poderes ao estabelecer indevida
+ingerência do Poder Legislativo em atividade própria do Executivo.
+
+Comentário Completo:
+
+Pessoal, apesar de a questão trazer hipótese de Constituição Estadual, em razão do princípio da
+simetria, a solução da questão está disposta no art. 84 que dispõe sobre a competência privativa
+do Presidente da República.
+
+Vale a leitura do dispositivo:
+
+                         Art. 84. Compete privativamente ao Presidente da República:
+
+                         I - nomear e exonerar os Ministros de Estado.
+
+Dessa maneira, as Constituições dos Estados, em razão do princípio da simetria, devem seguir tal
+disposição. Portanto, a Constituição do Estado Alfa não pode dispor que as nomeações das
+secretarias do governo devem ser aprovadas pelo Poder Legislativo.
+
+Assim, concluímos que a norma é inconstitucional, uma vez que afronta a separação dos poderes,
+ao estabelecer que matéria privativa do Chefe do Executivo, passe pelo crivo do Poder
+Legislativo.
+
+Por fim, podemos afirmar que o nosso gabarito é a LETRA E!
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             50
+        www.estrategiaconcursos.com.br                                                           92
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+A seguir apresento os erros das outras opções.
+
+(...)
+
+LETRA A. INCORRETA. A Constituição Estadual não pode violar a Constituição Federal, cabendo
+a ela, observar a Carta Magna e complementar naquilo que for permitido.
+
+LETRA B. INCORRETA. A reforma na Constituição do Estado Alfa viola o princípio da separação
+dos poderes, devendo ser declarada inconstitucional.
+
+LETRA C. INCORRETA. A alternativa vai de encontro ao estabelecido na Constituição Federal,
+uma vez que há violação princípio da separação dos poderes, devendo ser declarada
+inconstitucional.
+
+ LETRA D. INCORRETA. A Constituição Federal não determina a aprovação pelo Poder
+Legislativo na nomeação ou exoneração dos seus Ministros, conforme disposição do art. 84, I da
+CRFB/88.
+
+LETRA E. CORRETA. É o nosso gabarito! A reforma na Constituição do Estado Alfa é
+inconstitucional, tendo em vista que viola a separação dos poderes, ao estabelecer a aprovação
+do Poder Legislativo em atribuição própria do Poder Executivo.
+
+Gabarito: Letra E.
+
+7.    (FGV/ALEMA/2023) Certa deputada estadual questionou Arquimedes, servidor ocupante
+do cargo de técnico de gestão administrativa da Assembleia Legislativa do Estado do Maranhão,
+acerca da extensão e limites do poder regulamentar do Governador do Estado.
+
+Considerando a situação hipotética descrita, à luz do disposto na Constituição da República e do
+entendimento do Supremo Tribunal Federal, Arquimedes deveria responder corretamente que o
+Chefe do Poder Executivo pode editar Decreto para
+
+a) dispor sobre organização e funcionamento da Administração Estadual, quando não importar
+em aumento de despesa, nem na criação ou extinção de órgãos públicos.
+
+b) criar entidades autárquicas estaduais, por se tratar de pessoas jurídicas de direito público,
+submetidas ao regime de direito administrativo.
+
+c) estabelecer normas que imponham requisitos para o acesso aos cargos públicos estaduais,
+mediante concurso público, em decorrência da natureza e complexidade de suas atribuições.
+
+d) inovar no ordenamento jurídico com relação às competências estaduais, na qualidade de
+regulamentos autônomos.
+
+e) determinar nova gratificação para os servidores estaduais, majorando, assim, a sua
+remuneração.
+
+Comentário completo:
+
+         Receita Federal (Analista Tributário) Direito Constitucional                        51
+         www.estrategiaconcursos.com.br                                                      92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+A questão cobrou o conhecimento sobre as atribuições do Chefe do Poder Executivo.
+
+De acordo com o art. 84, compete privativamente ao Presidente da República:
+
+VI – dispor, mediante decreto, sobre:
+
+a) organização e funcionamento da administração federal, quando não implicar aumento de
+despesa nem criação ou extinção de órgãos públicos;
+
+b) extinção de funções ou cargos públicos, quando vagos.
+
+Os decretos autônomos foram inseridos na Constituição Federal por meio da Emenda
+Constitucional nº 32/2001 com duas hipóteses de cabimento muito próprias (alíneas a e b):
+
+1) Como regra geral, visam organizar o funcionamento da administração pública federal. Mas,
+vale destacar que não poderemos ter decretos autônomos se tal medida implicar em aumento de
+despesa, criação ou até mesmo extinção de órgãos públicos. Para tanto, haverá necessidade de
+lei formal.
+
+2) Possibilitar a extinção de funções e cargos públicos, desde que estejam vagos. Se a hipótese
+for de cargos públicos ocupados, também precisa de lei formal.
+
+Diferentemente dos decretos executivos, os de natureza autônoma são atos normativos primários
+e possuem fundamento de validade na própria Constituição. Ainda, no plano
+hierárquico-normativo, podemos dizer que possuem a mesma hierarquia de leis formais.
+
+A Carta Magna se refere ao Poder Executivo Federal, mas em razão do princípio da simetria,
+podemos interpretar tais normas com referência aos governadores de Estado.
+
+Diante do exposto, podemos concluir que a alternativa A é a resposta correta.
+
+Letra A. CORRETA. É a previsão do art. 84, VI, a da CF/88. A Carta Magna se refere ao Poder
+Executivo Federal, mas em razão do princípio da simetria, podemos interpretar tais normas com
+referência aos governadores de Estado.
+
+                         Art. 84 (...) VI – dispor, mediante decreto, sobre:
+
+                         a) organização e funcionamento da administração federal, quando não
+                         implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+
+Letra B. INCORRETA. Segundo o art. 37, XIX da CF/88 - somente por lei específica poderá ser
+criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista
+e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.
+
+Letra C. INCORRETA. De acordo com o STF, é inconstitucional a lei que autorize o chefe do
+Poder Executivo a dispor, mediante decreto, sobre criação de cargos públicos remunerados, bem
+como os decretos que lhe deem execução (ADI 3232).
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          52
+        www.estrategiaconcursos.com.br                                                        92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+Letra D. INCORRETA. Os regulamentos devem ser editados para detalhar como as leis serão
+aplicadas. No entanto, não podem criar normas gerais e abstratas sem uma lei.
+
+Letra E. INCORRETA. Não é possível o aumento de despesa!
+
+                         Art. 84 (...) VI – dispor, mediante decreto, sobre:
+
+                         a) organização e funcionamento da administração federal, quando não
+                         implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+
+Gabarito: Letra A.
+
+8.    (FGV/ALEMA/2023) Um assessor do Presidente da República o informou a respeito do
+recebimento de relatórios de diversos Ministros de estado, apontando a existência de inúmeros
+cargos vagos em suas estruturas e pela existência de outros cargos que se encontravam
+ocupados e se mostravam desnecessários. Por tal razão, propuseram a extinção desses cargos.
+
+O assessor informou corretamente ao Presidente da República que ele, caso acolha os
+argumentos apresentados, deve
+
+a) propor ao Poder Legislativo, com base no princípio da paridade das formas, a extinção desses
+cargos, sendo demitidos os servidores estáveis que estejam ocupando os cargos extintos.
+
+b) extinguir os cargos vagos e declarar a desnecessidade dos cargos ocupados, sendo postos em
+disponibilidade, neste último caso, os servidores estáveis que os ocupem.
+
+c) propor ao Poder Legislativo a extinção dos cargos vagos e aguardar que os cargos atualmente
+ocupados fiquem vagos, para que seja proposta a sua extinção.
+
+d) declarar a desnecessidade dos cargos vagos e dos cargos ocupados, o que impedirá novas
+nomeações, até que sejam extintos pelo Poder Legislativo.
+
+e) extinguir os cargos vagos e os cargos ocupados, sendo postos em disponibilidade, neste
+último caso, todos os servidores que os ocupem.
+
+Comentário Completo:
+
+Pessoal, a questão versa sobre as Atribuições do Presidente da República, tema disposto lá no
+art. 84 da CRFB/88.
+
+Sabemos que o Presidente da República, na qualidade de chefe de Governo, exerce uma função
+fundamental. Ele assume o papel de Chefe da Administração Pública Federal. E, nessa seara,
+possui algumas atribuições basilares para a condição do Estado.
+
+Dentre essas atribuições, podemos constatar a de editar os chamados decretos autônomos, os
+quais foram inseridos através da Emenda Constitucional nº 32/2001 com duas hipóteses de
+cabimento, vejamos:
+
+                         Art. 84. Compete privativamente ao Presidente da República:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          53
+        www.estrategiaconcursos.com.br                                                        92
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+                          (...)
+
+                          VI - dispor, mediante decreto, sobre:
+
+                          a) organização e funcionamento da administração federal, quando não
+                          implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+
+                          b) extinção de funções ou cargos públicos, quando vagos;
+
+                          (...)
+
+Perceba que uma das atribuições é justamente a extinção de funções ou cargos públicos, mas o
+examinando deve ficar atento que, só é possível tal conduta, através do decreto autônomo,
+quando esse cargo estiver vago.
+
+Nesse sentido, os servidos estáveis que tiverem seu cargo extinto ou declarada a
+desnecessidade, se tornará disponível com remuneração proporcional ao tempo de serviço, até
+seu adequado aproveitamento em outro cargo, nos termos do art. 41, § 3º, confira:
+
+                          Art. 41. São estáveis após três anos de efetivo exercício os servidores
+                          nomeados para cargo de provimento efetivo em virtude de concurso
+                          público.
+                          (...)
+                          § 3º Extinto o cargo ou declarada a sua desnecessidade, o servidor estável
+                          ficará em disponibilidade, com remuneração proporcional ao tempo de
+                          serviço, até seu adequado aproveitamento em outro cargo.
+
+Portanto, podemos afirmar que, na hipótese do enunciado, o Presidente da República, deve
+declarar, através de decreto autônomo, a extinção de cargos vagos e declarar a desnecessidade
+de cargos ocupados, sendo esses últimos, postos em disponibilidade, com remuneração
+proporcional ao tempo de serviço, até que seja reaproveitado em cargo diverso.
+
+Logo, constatamos que o nosso gabarito é a LETRA B!
+
+Mas vamos a análise das demais alternativas.
+
+(...)
+
+LETRA A. INCORRETA. A demissão é uma sanção que apenas pode ser aplicada, após um
+processo disciplinar administrativo, o que não é o caso da questão.
+
+LETRA B. CORRETA. É o nosso gabarito! O Presidente da República tem competência para,
+através do decreto autônomo, declarar a extinção de função ou cargo público quando vago.
+Além disso, o servidor estável que ocupe um cargo que seja declarado desnecessário, será posto
+em disponibilidade, recebendo a remuneração de acordo com o seu tempo de serviço, até que
+seja aproveitado em cargo diverso, de acordo com o art. 41, § 3º da CRFB/88.
+
+LETRA C. INCORRETA. De acordo com o art. 84, IV, alínea b, o Presidente da República tem
+autonomia para, através de decreto autônomo, declarar a extinção de cargo ou função pública,
+quando vago.
+
+ LETRA D. INCORRETA. A extinção de função ou cargo público se dá mediante decreto
+autônomo pelo Presidente da República, conforme exaustivamente mencionado.
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                            54
+         www.estrategiaconcursos.com.br                                                          92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+LETRA E. INCORRETA. Apenas os cargos vagos que podem ser declarados extintos por meio de
+decreto, a extinção de cargos ocupados só pode ocorrer com a criação de lei formal.
+
+Gabarito: Letra B.
+
+9.     (FGV/CGU - 2022) João, deputado federal, solicitou que sua assessoria analisasse quais
+são os órgãos competentes, de acordo com a ordemconstitucional, para praticar dois atos:
+
+ 1. a extinção total das consequências de determinados crimes;
+
+ 2. o perdão da pena imposta aos condenados por certos crimes, que tenham cumprido
+ parte dela e preencham os demais requisitos exigidos.
+
+ A assessoria respondeu, corretamente, que o ato 1 é de competência do:
+
+ a)     Congresso Nacional, devendo ser veiculado em lei, o mesmo ocorrendo em relação ao
+ ato 2, com a distinção de que este último deve ser previsto em lei de iniciativa privativa do
+ presidente da República;
+
+ b)    presidente da República, sendo veiculado em decreto, ad referendum do Congresso
+ Nacional, enquanto o ato 2, embora também seja veiculado em decreto, não depende de
+ aprovação do Poder Legislativo;
+
+ c)     Congresso Nacional, devendo ser veiculado em lei, de iniciativa privativa do
+ presidente da República, enquanto o ato 2 é de competência deste último agente, que o
+ veiculará por meio de decreto;
+
+ d)     presidente da República, devendo ser veiculado em decreto, ad referendum do
+ Congresso Nacional, enquanto o ato 2 é de competência deste último órgão, sendo
+ veiculado em decreto legislativo;
+
+ e)   Congresso Nacional, devendo ser veiculado em lei, enquanto o ato 2 é de
+ competência do presidente da República, que o veiculará por meio de decreto.
+
+ Comentários:
+
+ Olha que interessante! O enunciado da questão trata sobre as competências do Poder
+ Executivo e Poder Legislativo.
+
+ Os dois atos representam a renúncia estatal do direito de punir.
+
+ O primeiro incide sobre um fato, afastando os efeitos penais da condenação. Por isso
+ estamos diante da anistia, que ocorre por meio de lei, nos moldes do XVII do art. 21 e VIII do
+ art. 48, ambos da CF/88. Então, esse ato é de competência do Congresso Nacional e
+ depende da sanção do Presidente da República.
+
+ O segundo incide sobre um conjunto de pessoas que praticaram crime comum e preenchem
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              55
+        www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ determinados requisitos. É um benefício coletivo. Por isso, estamos diante do indulto,
+ concedido mediante decreto presidencial. Isso mesmo! O indulto é instituto de competência
+ privativa do Presidente da República, conforme dispõe o XII do art. 84 da CF/88.
+
+ O gabarito é a letra E.
+
+10.   (FGV/PC-RJ - 2021) Marília, estudante de direito, tinha sérias dúvidas a respeito do sentido
+das expressões chefe de Estado e chefe de governo, principalmente ao considerar a atividade
+desempenhada pelo presidente da República como chefe da Administração Pública federal.
+Everardo, seu professor, informou-lhe, corretamente, que se tratava de atividade típica de:
+
+ a)    chefe de governo, designativo utilizado, em sistemas parlamentaristas, para indicar o
+ agente que desempenha funções próprias de primeiro-ministro;
+
+ b)    chefe de Estado, designativo utilizado, em sistemas parlamentaristas, para indicar o
+ agente que desempenha funções próprias de primeiro-ministro;
+
+ c)    chefe de governo, que costuma ser escolhido, em sistemas parlamentaristas, no
+ âmbito do órgão legislativo, e que desempenha maior número de poderes apenas
+ simbólicos;
+
+ d)      chefe de Estado, designativo utilizado, em sistemas presidencialistas e
+ parlamentaristas, para indicar o primeiro mandatário, responsável pelas principais decisões
+ políticas;
+
+ e)    chefe de Estado, designativo adotado em conjunto com o de chefe de governo
+ apenas em regimes semipresidenciais, nos quais prepondera a escolha popular do primeiro
+ mandatário.
+
+ Comentários:
+
+ Em sistemas parlamentaristas, as funções de Chefe de Estado e Chefe de Governo são
+ desempenhadas por pessoas diferentes. O Chefe de Governo é utilizado para questões
+ internas do país, como por exemplo, quando ele atua como chefe da Administração Pública
+ federal. O primeiro ministro no parlamentarismo é o chefe de governo.
+
+ O Chefe de Estado é o representante da unidade nacional e da legitimidade de um
+
+ Estado soberano. O gabarito é a letra A.
+
+11. (FGV/TCE-AM - 2021) João, ao assumir o Ministério ZZ, questionou sua assessoria a
+    respeito das atribuições que, por imposição constitucional, teria em relação ao Presidente
+    da República. Em resposta, João foi informado de que deveria:
+
+ I. referendar atos e decretos assinados pelo Chefe do Poder Executivo;
+
+ II. apresentar relatório anual;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             56
+        www.estrategiaconcursos.com.br                                                           92
+
+                                      
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+III. praticar atos concernentes às atribuições que lhe forem outorgadas ou delegadas;
+
+IV. conferir condecorações e distinções honoríficas.
+
+À luz da sistemática constitucional, estão corretas as atribuições referidas em:
+
+a) I, II, III e IV;
+
+b) II, III e IV;
+
+c) I, II e III;
+
+d) I e IV;
+
+e) I e II.
+
+Comentários:
+
+Vamos analisar cada alternativa:
+
+I     - Correta: Veja o art. 87, parágrafo único da CRFB/88: Compete ao Ministro de Estado,
+além de outras atribuições estabelecidas nesta Constituição e na lei: I - exercer a orientação,
+coordenação e supervisão dos órgãos e entidades da administração federal na área de sua
+competência e referendar os atos e decretos assinados pelo Presidente da República.
+
+II    - Correta: Leia o art. 87, parágrafo único da CRFB/88: Compete ao Ministro de Estado,
+além de outras atribuições estabelecidas nesta Constituição e na lei: III - apresentar ao
+Presidente da República relatório anual de sua gestão no Ministério;
+
+III    - Correta: Art. 87, Parágrafo único da CRFB/88: Compete ao Ministro de Estado, além
+de outras atribuições estabelecidas nesta Constituição e na lei: IV - praticar os atos
+pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Presidente da
+República.
+
+IV     - Incorreta: Art. 84 da CRFB/88: Compete privativamente ao Presidente da República:
+XXI - conferir condecorações e distinções honoríficas.
+
+O gabarito é a letra C.
+
+12.   (FGV/PM-RJ - 2021) A assessoria do Presidente da República elaborou uma minuta de
+ decreto regulamentando a Lei federal nº XX/2021, cujo objeto estava estritamente
+ relacionado à temática econômica e que deveria ser editado pelo Chefe do Poder
+ Executivo.
+
+À luz da sistemática constitucional, é correto afirmar que o Ministro de Estado da Economia
+
+a) não pode receber delegação para editar o referido decreto, mas deve referendá-lo.
+
+b) pode receber delegação para editar o referido decreto e, caso não a receba, deve
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              57
+        www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+ Equipe Direito Constitucional Estratégia Concursos
+ Aula 12
+
+   referendá-lo.
+
+ c) pode receber delegação para editar o referido decreto e, caso não a receba, pode expedir
+    instruções.
+
+ d) pode receber delegação para editar o referido decreto e, caso não a receba, deve figurar
+    como coautor.
+
+ e) não pode receber delegação para editar o referido decreto nem referendá-lo, mas pode
+    expedir instruções.
+
+ Comentários:
+
+ O Presidente da República pode delegar para Ministro, PGR ou AGU (art. 84, PU da CRFB/88):
+
+  decreto autônomo; (desde que verse sobre organização e funcionamento da administração,
+  sem aumento de despesa e sem criar ou extinguir órgãos e extinção de cargos/funções, se
+  vagos)
+I indulto;
+IIprovimento de cargo público.
+
+ Portanto, não há previsão no ordenamento jurídico brasileiro, de delegação a Ministro de
+ Decreto cujo objeto estava estritamente relacionado à temática econômica e que deveria ser
+ editado pelo Chefe do Poder Executivo.
+
+ Com base no art. 87 da CF:
+
+       Receita Federal (Analista Tributário) Direito Constitucional                           58
+       www.estrategiaconcursos.com.br                                                         92
+
+                                     
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+O gabarito é a letra A.
+
+13.   (FGV / Prefeitura de Niterói – 2018) Em relação ao Presidente da República e às suas
+ atribuições constitucionais, assinale V para a afirmativa verdadeira e F para a falsa.
+( ) No caso de infrações penais comuns, admitida a acusação contra o Presidente da República,
+por dois terços do Congresso Nacional, será ele submetido a julgamento perante o Supremo
+Tribunal Federal.
+( ) Compete ao Presidente da República a escolha dos Ministros do Tribunal de Contas da
+União.
+( ) O Presidente da República pode alterar a estrutura e extinguir órgãos públicos, desde que
+não haja aumento de despesa.
+Na ordem apresentada, as afirmativas são, respectivamente,
+a) V – F – V.
+b) F – V – F.
+c) F – F – V.
+d) V – V – F.
+e) F – F – F.
+
+Comentários:
+
+A primeira assertiva está errada. Para que o Presidente seja submetido a julgamento no caso
+de infrações penais comuns, é necessário que seja admitida a acusação contra ele por dois
+terços da Câmara dos Deputados (art. 86, “caput”, CF).
+
+A segunda assertiva está errada. Compete ao Presidente da República escolher um terço dos
+Ministros do Tribunal de Contas da União, com aprovação do Senado Federal, sendo dois
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                              59
+      www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+alternadamente dentre auditores e membros do Ministério Público junto ao Tribunal,
+indicados em lista tríplice pelo Tribunal, segundo os critérios de antiguidade e merecimento
+(art. 73, § 2º, I, CF).
+
+A terceira assertiva está errada. O Presidente da República pode dispor, mediante decreto,
+sobre a organização e funcionamento da administração federal, quando não implicar
+aumento de despesa nem criação ou extinção de órgãos públicos (art. 84, VI, “a”, CF).
+
+O gabarito é a letra E.
+
+14.   (FGV / Câmara de Salvador – 2018) Um jornal de grande circulação divulgou que
+ João, Presidente da República, teria praticado uma série de condutas ilícitas, todas
+ tecnicamente consideradas crimes de responsabilidade.
+À luz da sistemática constitucional, é correto afirmar que João, em casos como esse, deve ser
+processado e julgado:
+
+a) pelo Supremo Tribunal Federal, após autorização do Senado Federal;
+
+b) pelo Senado Federal, após autorização da Câmara dos Deputados;
+
+c) pela Câmara dos Deputados, após autorização do Senado Federal;
+
+d) pelo Supremo Tribunal Federal, após autorização da Câmara dos Deputados;
+
+e) pelo Senado Federal, após autorização do Supremo Tribunal Federal.
+
+Comentários:
+
+Nos crimes de responsabilidade, a competência para processar e julgar o Presidente da
+República é privativa do Senado Federal, após a acusação ser admitida por dois terços da
+Câmara dos Deputados. O gabarito é a letra B.
+
+15.   (FGV / TJ-AL – 2018) O Presidente da República foi acusado da prática de crime de
+ responsabilidade perante o Senado Federal. Em resposta, afirmou que a acusação não
+ poderia ser endereçada à referida Casa Legislativa.
+À luz da sistemática constitucional, a defesa apresentada pelo Presidente da República deve
+ser:
+a) acolhida, pois a acusação deveria ter sido endereçada ao Supremo Tribunal Federal.
+b) rejeitada, pois o Senado Federal deve receber a acusação para que o processo se inicie no
+   Supremo Tribunal Federal.
+c) acolhida, pois a acusação deveria ter sido endereçada ao Superior Tribunal de Justiça.
+d) rejeitada, pois o Senado Federal deve receber a acusação para que o processo se inicie na
+   Câmara dos Deputados.
+e) acolhida, pois a acusação deveria ter sido endereçada à Câmara dos Deputados.
+
+Comentários:
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                             60
+      www.estrategiaconcursos.com.br                                                           92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+A denúncia pela prática de crime de responsabilidade deverá ser apresentada à Câmara dos
+Deputados, que fará o juízo de admissibilidade político por decisão de 2/3 dos seus
+membros. Após a autorização da Câmara dos Deputados, caberá ao Senado Federal
+instaurar o processo e, na sequência, julgar o Presidente pela prática de crime de
+responsabilidade.
+
+O gabarito é a letra E.
+
+16.   (FGV/ OAB – 2018) Em determinado órgão integrante da administração pública
+ federal, vinculado ao Ministério da Fazenda, foi apurado que aproximadamente 100 (cem)
+ cargos estavam vagos. O Presidente da República, mediante decreto, delegou ao Ministro
+ da Fazenda amplos poderes para promover a reestruturação do aludido órgão público,
+ inclusive com a possibilidade de extinção dos cargos vagos.
+Sobre a hipótese, com fundamento na ordem jurídico constitucional vigente, assinale a
+afirmativa correta.
+a) Somente mediante lei em sentido formal é admitida a criação e extinção de funções e
+   cargos públicos, ainda que vagos; logo, o decreto presidencial é inconstitucional por
+   ofensa ao princípio da reserva legal.
+b) A Constituição de 1988 atribui exclusivamente ao Presidente da República a possibilidade
+   de, mediante decreto, dispor sobre a extinção de funções ou cargos públicos, não
+   admitindo que tal competência seja delegada aos Ministros de Estado.
+
+c) O referido decreto presidencial se harmoniza com o texto constitucional, uma vez que o
+   Presidente da República pode dispor, mediante decreto, sobre a extinção de funções ou
+   cargos públicos, quando vagos, sendo permitida a delegação dessa competência aos
+   Ministros de Estado.
+d) A Constituição de 1988 não permite que cargos públicos legalmente criados, ainda que
+   vagos, sejam extintos, ressalvada a excepcional hipótese de excesso de gastos
+   orçamentários com pessoal; portanto, o Decreto presidencial é inconstitucional.
+
+Comentários:
+
+A Carta Magna prevê a possibilidade de o Presidente da República dispor, mediante decreto,
+sobre (art. 84, VI, CF):
+
+Trata-se do chamado decreto autônomo, ato normativo primário (com “satus” de lei) cuja
+edição pode ser delegada ao Procurador-Geral da República, aos Ministros de Estado e ao
+Advogado-Geral da União (art. 84, parágrafo único, CF). O gabarito é a letra C.
+
+17.       (FGV/ CGM Niteroi – 2018) Em relação ao Presidente da República e às suas
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                            61
+      www.estrategiaconcursos.com.br                                                          92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+ atribuições constitucionais, assinale V para a afirmativa verdadeira e F para a falsa.
+( ) No caso de infrações penais comuns, admitida a acusação contra o Presidente da República,
+por dois terços do Congresso Nacional, será ele submetido a julgamento perante o Supremo
+Tribunal Federal.
+( ) Compete ao Presidente da República a escolha dos Ministros do Tribunal de Contas da
+União.
+( ) O Presidente da República pode alterar a estrutura e extinguir órgãos públicos, desde que
+não haja aumento de despesa.
+Na ordem apresentada, as afirmativas são, respectivamente,
+a) V – F – V.
+b) F – V – F.
+c) F – F – V.
+d) V – V – F.
+e) F – F – F.
+
+Comentários:
+
+A primeira assertiva está errada. Compete à Câmara dos Deputados admitir a acusação contra
+o Presidente
+da República, nos termos do “caput”art. 86 da Constituição:
+
+A segunda assertiva está errada. Compete ao Presidente da República a escolha de um terço
+dos Ministros do Tribunal de Contas da União (art. 73, § 2º, I, CF).
+
+A terceira assertiva está errada. A Carta Magna prevê a possibilidade de o Presidente da
+República dispor, mediante decreto, sobre (art. 84, VI, CF):
+
+O gabarito é a letra E.
+
+18.   (FGV / SEPOG-RO – 2017) O Presidente da República, após a análise de sua
+ assessoria, editou decreto extinguindo certo quantitativo de cargos públicos vagos e
+ organizando um setor da administração pública federal. Essa última medida não acarretou
+ aumento de despesa ou a criação ou extinção de órgãos públicos.
+
+      Receita Federal (Analista Tributário) Direito Constitucional                              62
+      www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+João, que vinha se preparando para diversos concursos públicos, sentiu-se prejudicado com o
+decreto e solicitou que o seu advogado procedesse à sua análise.
+À luz da narrativa acima e das competências constitucionais do Presidente da República e do
+Poder Legislativo, assinale a afirmativa correta.
+a) Ambas as matérias versadas no decreto são de competência do Poder Legislativo, não do
+   Presidente da República.
+b) O decreto somente poderia ter versado sobre a extinção de cargos públicos vagos, não
+   sobre a organização administrativa.
+c) Ambas as matérias versadas no decreto são de competência do Presidente da República.
+d) O decreto somente poderia ter versado sobre a organização administrativa, não sobre a
+   extinção de cargos públicos vagos.
+e) O decreto somente poderia incursionar nas matérias de que tratou se existisse lei delegada
+   autorizando- o.
+
+Comentários:
+
+O Presidente da República tem competência para dispor sobre algumas matérias mediante
+decreto autônomo, com força de lei. Vejamos o que dispõe o art. 84 da Constituição:
+
+      Receita Federal (Analista Tributário) Direito Constitucional                              63
+      www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+Portanto, João poderia editar decreto sobre essas duas matérias, pois ambas são de
+competência do Presidente da República. O gabarito é a letra C.
+
+19.   (FGV / TRT-SC – 2017) Certo profissional da área jurídica foi questionado sobre as
+ características do processo e do julgamento do Presidente da República pela prática de
+ crimes de responsabilidade. Em resposta, afirmou que a instauração do processo deve ser
+ autorizada pela Câmara dos Deputados, o processamento e o julgamento ficam a cargo do
+ Senado Federal, bem como que a perda da função é decidida pelo Presidente do Supremo
+ Tribunal Federal.
+À luz da sistemática constitucional, essa resposta é:
+a) totalmente incorreta, pois todas as questões envolvendo o julgamento por crimes de
+   responsabilidade devem ser decididas pelas duas Casas Legislativas em conjunto;
+b) parcialmente correta, pois a instauração do processo deve ser autorizada pelo Senado
+   Federal e o julgamento fica a cargo da Câmara dos Deputados;
+c) totalmente correta, pois a separação entre as funções estatais exige que cada fase do
+   processo de responsabilização seja dividida entre poderes distintos;
+d) parcialmente correta, pois a decisão a respeito da perda da função fica a cargo do Senado
+   Federal, que a proferirá quando do julgamento;
+e) parcialmente correta, pois a Câmara dos Deputados deve autorizar a instauração do
+   processo e, após o julgamento pelo Senado, decidir a respeito da perda da função.
+
+Comentários:
+
+No processo e julgamento do Presidente da República pela prática de crimes de
+responsabilidade, é necessário o juízo de admissibilidade político pela Câmara dos
+Deputados. Em outras palavras, a Casa Legislativa deverá autorizar que o Presidente da
+República seja processado e julgado, pelo voto de dois terços dos seus membros, em
+votação nominal (aberta).
+
+O processo e o julgamento do Chefe do Executivo por crime de responsabilidade, por sua
+vez, são de competência do Senado Federal. Essa Casa Legislativa atua como verdadeiro
+“Tribunal político”, sendo presidida pelo Presidente do STF. No processo de impeachment,
+caberá ao Senado Federal, decidir sobre a perda do cargo e sobre a inabilitação para o
+exercício da função pública.
+
+O gabarito é a letra D.
+
+20.   (FGV / TCM-SP - 2015) A respeito da escolha, da substituição e da sucessão do
+ Prefeito e do Vice- Prefeito do Município, é correto afirmar que a respectiva lei orgânica:
+a) pode disciplinar o processo de escolha dos sucessores no caso de dupla vacância dos cargos;
+b) não pode prever, em hipótese alguma, a eleição indireta para esses cargos;
+
+c) deve permanecer adstrita aos balizamentos estabelecidos pela Constituição Estadual, a
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                             64
+      www.estrategiaconcursos.com.br                                                           92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+  respeito do processo de escolha, no caso de dupla vacância dos cargos;
+d) nos Municípios com menos de 200 mil eleitores, deve definir se a eleição seguirá o sistema
+   majoritário de um ou dois turnos;
+e) pode prever a eleição indireta para esses cargos nas hipóteses previstas na Constituição
+   Estadual.
+
+Comentários:
+
+Letra A: correta. O STF considera que deve ser reconhecida a autonomia dos entes
+federativos para disciplinar os procedimentos no caso de “dupla vacância, não se aplicando
+o princípio da simetria para solucionar essa questão. Nesse sentido, entende a Corte que “a
+vocação sucessória dos cargos de prefeito e vice-prefeito põem-se no âmbito da autonomia
+política local, em caso de dupla vacância”.
+
+Letra B: errada. É plenamente possível que a Lei Orgânica estabeleça eleições indiretas em
+caso de “dupla vacância”.
+
+Letra C: errada. A “dupla vacância” é tema que se põe no âmbito da competência exclusiva
+de cada Município. Ao disciplinar essa matéria, a Constituição Estadual estaria violando a
+autonomia municipal.
+
+Letra D: errada. No caso de Municípios com menos de 200 mil eleitores, a eleição terá
+apenas um turno. Nos Municípios com mais de 200 mil eleitores, a eleição terá 2 turnos (art.
+29, II, CF/88).
+
+Letra E: errada. De fato, é possível que a Lei Orgânica preveja eleição indireta no caso de
+“dupla vacância”.
+Entretanto, não há que obedecer a Constituição Estadual. Aí é que está o erro
+
+do enunciado. O gabarito é a letra A.
+
+21.   (FGV / PROCEMPA – 2014) Eurípedes pretende candidatar-se a Presidente da
+ República e apresenta sua candidatura pelo partido B, tendo realizado campanha popular,
+ com intensa repercussão social. Após campanha de sucesso, obtém maioria absoluta dos
+ votos, sendo eleito no primeiro turno da eleição, tomando posse e cumprindo seu
+ mandato.
+Apesar do sucesso administrativo da sua gestão, Eurípedes foi surpreendido pela denúncia
+de um cidadão, ao Congresso Nacional, de que ele cometera crime de responsabilidade.
+Nesse caso, nos termos da Constituição, deve ocorrer:
+a) a rejeição liminar da denúncia do cidadão, por não ter legitimidade para o processo.
+b) a análise da acusação, e, se acatada, será examinada, em juízo de admissibilidade, pela
+   Câmara dos Deputados.
+c) a admissibilidade da acusação e o julgamento de mérito pelo Supremo Tribunal Federal.
+d) o acatamento por maioria absoluta da Câmara dos Deputados e o seu julgamento de
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                              65
+      www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+  mérito, também por maioria absoluta.
+e) a aceitação da acusação por comissão da Câmara do Deputados, e o processo será
+   encaminhado ao Senado para julgamento de mérito.
+
+Comentários:
+
+Nos crimes de responsabilidade, a denúncia é popular, ou seja, pode ser apresentada à
+Câmara dos Deputados por qualquer cidadão. Uma vez apresentada a denúncia, ela será
+analisada e, se acatada, será submetida ao juízo de admissibilidade político da Câmara dos
+Deputados.
+
+Esse juízo de admissibilidade político representa uma autorização para que o Senado Federal
+processe e julgue o Presidente da República nos crimes de responsabilidade. O gabarito é a
+letra B.
+
+22.  (FGV / TJ-AM – 2013) As alternativas a seguir apresentam atribuições do Presidente
+ da República, à exceção de uma. Assinale-a.
+a) A escolha de dois terços dos Ministros do Tribunal de Contas da União.
+b) O veto a projetos de lei de iniciativa popular.
+c) Dispor, mediante decreto, sobre a extinção de cargos públicos vagos.
+d) Decretar intervenção federal.
+e) A celebração de tratados internacionais que disponham em sentido contrário à legislação
+   vigente.
+
+Comentários:
+
+Letra A: errada. O Presidente da República irá escolher 1/3 (um terço) dos Ministros do TCU.
+Os outros 2/3 (dois terços) são escolhidos pelo Congresso Nacional.
+
+Letra B: correta. Segundo o art. 84, V, CF/88, compete ao Presidente da República vetar
+projetos de lei, total ou parcialmente.
+
+Letra C: correta. É competência do Presidente da República dispor, mediante decreto, sobre
+a extinção de cargos públicos vagos (art. 84, VI, “b”). Essa é uma das situações em que se
+utiliza o decreto autônomo.
+
+Letra D: correta. O Presidente da República tem competência para decretar e executar a
+intervenção federal (art. 84, X).
+
+Letra E: correta. É competência do Presidente da República a celebração de tratados
+internacionais, os quais estão sujeitos ao referendo do Congresso Nacional (art. 84, VIII).
+
+O gabarito é a letra A.
+
+23.   (FGV / AL-MA – 2013) Assinale a alternativa que indica a função exercida pelo
+ presidente da República, dentre as previstas no texto constitucional federal, considerada
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                            66
+      www.estrategiaconcursos.com.br                                                          92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+ como inerente à função de Chefia de Governo.
+a) Celebrar a paz, autorizado ou com o referendo do Congresso Nacional.
+b) Presidir o Conselho de Defesa Nacional.
+c) Enviar ao Congresso Nacional o plano plurianual previsto na Constituição.
+d) Manter relações com Estados estrangeiros e acreditar seus representantes diplomáticos.
+e) Celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso
+   Nacional.
+
+Comentários:
+
+Letra A: errada. Declarar a guerra e celebrar a paz são competências do Presidente na condição
+de Chefe de Estado.
+
+Letra B: errada. Presidir o Conselho de Defesa Nacional é atribuição que está relacionada à
+atuação do Presidente como Chefe de Estado.
+
+Letra C: correta. O envio ao Congresso Nacional do plano plurianual é típica função de Chefe
+de Governo.
+
+Letra D: errada. Manter relações com Estados estrangeiros e acreditar seus representantes
+diplomáticos é típica função de Chefe de Estado.
+
+Letra E: errada. A celebração de tratados é atribuição típica de Chefe
+
+de Estado. O gabarito é a letra C.
+
+24.   (FGV / SEFAZ-RJ – 2011) O presidente da república possui competência privativa para
+ praticar determinados atos. A maior parte não depende de autorização ou referendo do
+ poder legislativo. Dentre as seguintes alternativas, a que depende de autorização ou
+ referendo do congresso consiste em
+a) Declarar guerra.
+b) Decretar a intervenção federal.
+c) Exercer a chefia da administração
+d) Presidir o conselho da república.
+e) Nomear os membros do conselho da república
+
+Comentários:
+
+Dentre as alternativas acima, a única que trata de atribuição presidencial que depende de
+autorização ou referendo do Congresso Nacional é a letra A. Segundo o art. 84, XIX,
+compete ao Presidente da República “declarar guerra, no caso de agressão estrangeira,
+autorizado pelo Congresso Nacional ou referendado por ele, quando ocorrida no intervalo
+das sessões legislativas, e, nas mesmas condições, decretar, total ou parcialmente, a
+mobilização nacional”.
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                             67
+      www.estrategiaconcursos.com.br                                                           92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+O gabarito é a letra A.
+
+25.   (FGV / MPE-MS – 2013) O Presidente da República, durante entrevista coletiva,
+ agrediu, com socos e pontapés, um jornalista que fez uma pergunta relativa à ocorrência
+ de desvio de recursos em obras públicas federais, conduta atribuída a um dos Ministros de
+ Estado, filiado ao mesmo partido político do Presidente. Nesse caso,
+a) será necessário aguardar o final do mandato presidencial para dar início à persecução penal.
+b) o Presidente da República somente poderá ser submetido a julgamento após autorização
+   do Senado Federal.
+c) o Supremo Tribunal Federal é o órgão competente para proceder ao julgamento do
+   Presidente.
+d) a agressão ao jornalista configura crime de responsabilidade do Presidente da República.
+e) o Presidente da República tem imunidade em relação à prática dos crimes comuns.
+
+Comentários:
+
+O Presidente da República, na vigência do mandato, somente poderá ser responsabilizado
+por atos relacionados ao exercício da função. Na situação apresentada pela questão, o
+Presidente da República praticou, inequivocamente, um ato relacionado ao exercício da
+função, ao dar socos e pontapés no repórter. Por isso, ele poderá ser responsabilizado e,
+considerando que trata-se de crime comum, a competência para processar e julgar o
+Presidente será do STF.
+
+Letra A: errada. Não é necessário aguardar o final do mandato para que o Presidente possa ser
+processado, uma vez que trata-se de ato relacionado ao exercício da função.
+
+Letra B: errada. O Presidente somente poderá ser processado e julgado após autorização da
+Câmara dos Deputados.
+
+Letra C: correta. Nos crimes comuns, o Presidente da República é processado e julgado pelo
+STF.
+
+Letra D: errada. Crimes de responsabilidade são uma espécie de transgressão funcional do
+Presidente. No caso apresentado, trata-se de crime comum do Presidente.
+
+Letra E: errada. O Presidente da República tem imunidade penal relativa, uma vez que, na
+vigência do mandato, somente pode ser responsabilizado por atos relacionados ao exercício da
+função.
+
+26.   (FGV / MPE-MS – 2013) Uma das promessas de campanha do Presidente da República
+ era a de racionalizar a máquina administrativa. A fim de atingir esse objetivo, o Presidente
+ editou, no mesmo dia, dois decretos: pelo primeiro, atribuiu a um Ministério, já existente,
+ uma nova função, sem previsão de aumento de despesa; pelo segundo, criou um novo
+ Ministério, para coordenar a atuação dos demais. Em relação à situação apresentada,
+ assinale a afirmativa correta.
+a) O primeiro decreto é constitucional e o segundo, inconstitucional, pois a criação de
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                            68
+      www.estrategiaconcursos.com.br                                                          92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+  Ministério é matéria submetida à reserva de lei.
+b) Os dois decretos são constitucionais, pois compete ao Presidente da República dispor
+   sobre a organização e o funcionamento da Administração Pública federal.
+c) Os dois decretos são inconstitucionais, pois não subsiste, em nosso ordenamento, hipótese
+   de decreto autônomo, que inove na ordem jurídica, cabendo a tal diploma apenas a
+   regulamentação da lei.
+d) O primeiro decreto é inconstitucional, por exorbitar do poder regulamentar, e o segundo,
+   constitucional.
+e) Os dois decretos são constitucionais, pois se destinam unicamente a regulamentar as leis
+   de organização da Administração Pública Federal.
+
+Comentários:
+
+O Presidente da República pode editar decretos autônomos que tenham por objeto: i)
+organização e funcionamento da administração federal, quando não implicar aumento de
+despesa nem criação ou extinção de órgãos públicos; ii) extinção de funções ou cargos
+públicos, quando vagos.
+
+Na situação apresentada, o primeiro decreto é plenamente constitucional, pois trata da
+organização e funcionamento da administração federal e não implica em aumento de
+despesa. Por sua vez, o segundo decreto é inconstitucional, pois cria órgão público. A criação
+de órgão público (no caso, um Ministério) depende da edição de lei.
+
+Por tudo isso, a resposta é a letra A.
+
+27.  (FGV / PC-MA – 2012) Com relação à chamada responsabilidade do Presidente da
+ República, assinale a afirmativa correta.
+a) O Presidente da República pode ser responsabilizado por atos estranhos ao exercício de
+   suas funções, mesmo na vigência de seu mandato.
+b) O Presidente da República somente será submetido a julgamento após admitida a
+   acusação por dois terços dos membros do Congresso Nacional.
+c) O Presidente da República, nos crimes de responsabilidade, ficará suspenso de suas
+   funções após a instauração do processo pelo Senado Federal.
+d) O Presidente da República, durante a vigência do mandato, somente está sujeito a
+   julgamento pela prática de crimes de responsabilidade.
+e) O Presidente da República, nas infrações comuns, estará sujeito a prisão cautelar, mediante
+   autorização de dois terços dos membros da Câmara dos Deputados.
+
+Comentários:
+
+Letra A: errada. Na vigência do mandato, o Presidente somente pode ser responsabilizado por
+atos relacionados ao exercício da função.
+
+Letra B: errada. O Presidente da República somente será submetido a julgamento após
+autorização de 2/3 dos membros da Câmara dos Deputados.
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                               69
+      www.estrategiaconcursos.com.br                                                             92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+Letra C: correta. Nos crimes de responsabilizado, o Presidente ficará suspenso da função
+após a instauração do processo pelo Senado Federal. Já nos crimes comuns, o Presidente
+fica suspensão desde o recebimento da denúncia ou queixa-crime pelo STF. Em qualquer
+desses casos, se o julgamento não estiver concluído em 180 dias, cessará o afastamento do
+Presidente
+
+Letra D: errada. O Presidente também poderá ser julgado, na vigência do mandato, por crime
+comum. Basta que esse crime esteja relacionado ao exercício da função.
+
+Letra E: errada. Não é cabível prisão cautelar do Presidente. Ele só estará sujeito à prisão por
+sentença condenatória.
+
+28.   (FGV / OAB – 2012) Em caso de vacância dos cargos de Presidente da República e
+ Vice-Presidente da República no penúltimo ano de mandato:
+a) o Presidente da Câmara dos Deputados assume definitivamente o cargo.
+b) o Presidente do Senado Federal assume definitivamente o cargo.
+c) far-se-á nova eleição direta.
+d) far-se-á eleição indireta, pelo Congresso Nacional.
+
+Comentários:
+
+Se a vacância dos cargos de Presidente da República ocorrer nos dois primeiros anos do
+mandato, serão realizadas eleições diretas 90 dias após a última vaga. Por outro lado, caso a
+vacância ocorra nos dois últimos anos do mandato (como é o caso da questão!), ocorrerão
+eleições indiretas, pelo Congresso Nacional, 30 dias após a última vaga. A resposta,
+portanto, é a letra D
+
+29.   (FGV / OAB – 2011) No processo de impedimento do Presidente da República, ocorre
+ a necessidade de preenchimento de alguns requisitos. Com base nas normas
+ constitucionais, é correto afirmar que:
+a) a Câmara autoriza a instauração do processo pelo voto da maioria absoluta dos seus
+   membros.
+b) o julgamento ocorre pelo Senado Federal, cuja decisão deverá ocorrer pela maioria simples.
+c) condenado o Presidente, cumprirá sua pena privativa de liberdade em regime semiaberto.
+d) no julgamento ocorrido no Senado, funcionará como Presidente o do Supremo Tribunal
+   Federal.
+
+Comentários:
+
+Letra A: errada. A Câmara dos Deputados autoriza a instauração do processo contra o
+Presidente pelo voto de dois terços dos seus membros.
+
+Letra B: errada. Ao falar em “processo de impedimento”, o examinador está fazendo menção
+ao “impeachment” do Presidente. Portanto, trata-se do processo pela prática de crime de
+responsabilidade. Nesse caso, o julgamento será feito pelo Senado Federal, pelo voto de 2/3
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                                 70
+      www.estrategiaconcursos.com.br                                                               92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+dos membros.
+
+Letra C: errada. A condenação por crime de responsabilidade não dá ensejo ao cumprimento
+de pena privativa de liberdade. Os efeitos da condenação se limitam à perda do cargo
+público e à inabilitação, por 8 anos, para o exercício de função pública.
+
+Letra D: correta. De fato, no julgamento ocorrido no Senado, funcionará como Presidente
+dessa Casa Legislativa o Presidente do STF.
+
+30.       (FGV / TRE-PA – 2012) É atribuição constitucional do Presidente da República:
+a) dispor, mediante portaria, sobre a organização e funcionamento da administração federal,
+   quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos.
+b) suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão
+   definitiva do Supremo Tribunal Federal.
+c) nomear, em caráter privativo e sem a aprovação dos demais Poderes da República, os
+   Ministros do Supremo Tribunal Federal.
+d) autorizar operações externas de natureza financeira, de interesse da União, dos Estados,
+   do Distrito Federal, dos Territórios e dos Municípios.
+e) decretar e executar a intervenção federal.
+
+Comentários:
+
+Letra A: errada. O Presidente tem competência para dispor, mediante decreto, sobre a
+organização e funcionamento da administração federal, quando não implicar aumento de
+despesa nem criação ou extinção de órgãos públicos.
+
+Letra B: errada. Essa competência é do Senado Federal.
+
+Letra C: errada. O Presidente nomeia os Ministros do STF, mas somente mediante
+autorização prévia do Senado Federal.
+
+Letra D: errada. Trata-se de competência do Senado Federal.
+
+Letra E: correta. De fato, compete ao Presidente da República decretar e executar a
+intervenção federal.
+
+31.   (FGV / SEFAZ-RJ – 2011) No chamado crime de responsabilidade ou crime político
+ praticado por aquele que ocupa a vice-presidência da república, surge um órgão com
+ competência constitucionalmente estabelecida. Esse órgão é o(a):
+a) Supremo Tribunal Federal.
+b) Senado Federal.
+c) Câmara dos Deputados.
+d) Câmara Distrital.
+e) Senado Estadual.
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                            71
+      www.estrategiaconcursos.com.br                                                          92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+Comentários:
+
+Compete ao Senado Federal julgar o Presidente e o Vice-Presidente nos crimes de
+responsabilidade. A resposta é a letra B.
+
+32.   (FGV / SEFAZ-RJ – 2009) Assinale a alternativa que defina corretamente o poder
+ regulamentar do chefe do Executivo, seja no âmbito federal, seja no estadual.
+a) O poder regulamentar confere ao chefe do Executivo a atribuição para criar direitos e
+   obrigações, dentro de sua respectiva esfera de competência.
+b) O poder regulamentar confere ao chefe do Executivo a competência legislativa exclusiva
+   para reparar inconstitucionalidades realizadas pelo legislador ordinário.
+c) O poder regulamentar confere ao chefe do Executivo a competência para assegurar a fiel
+   execução da Constituição.
+d) O poder regulamentar é uma forma atípica de competência legislativa conferida ao chefe
+   do Executivo para suprir omissões do Poder Legislativo.
+e) O poder regulamentar confere ao chefe do Executivo a competência para assegurar a fiel
+   execução das leis, não podendo inovar o mundo jurídico.
+
+Comentários:
+
+Letra A: errada. Por meio de decreto executivo, não podem ser criados direitos e obrigações.
+
+Letra B: errada. Não cabe ao Chefe do Poder Executivo reparar inconstitucionalidade de lei.
+
+Letra C: errada. O poder regulamentar confere ao Chefe do Poder Executivo a competência
+para assegurar a
+fiel execução das leis.
+
+Letra D: errada. Pelo poder regulamentar, o Chefe do Poder Executivo não poderá suprir
+omissões legislativas. Ele não poderá, afinal, criar direitos e obrigações por meio de decreto.
+
+Letra E: correta. É exatamente essa a definição de poder regulamentar. O Chefe do Poder
+Executivo irá, por meio dos decretos, assegurar a fiel execução das leis. Não se pode, através
+de decretos, inovar o mundo jurídico.
+
+A resposta é a letra E.
+
+33.   (FGV / Senado Federal – 2008) O Presidente e o Vice-Presidente da República, nos
+ crimes de responsabilidade, serão julgados:
+a) pelo Senado Federal.
+b) pela Câmara dos Deputados.
+c) pelo Congresso Nacional.
+d) pelo Supremo Tribunal Federal.
+e) pelo Conselho da República.
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                                72
+      www.estrategiaconcursos.com.br                                                              92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+Comentários:
+
+Nos crimes de responsabilidade, o Presidente e o Vice-Presidente são julgados pelo Senado
+Federal. A resposta é a letra A.
+
+34.   (FGV / DETRAN – 2013) O servidor público Pedro, em exercício na Secretaria Estadual
+ de Transportes do Estado X, é questionado sobre a aplicação de determinada norma
+ federal incidente sobre ato a ser praticado no âmbito da sua repartição pública.
+ Pesquisando o tema, apresenta breve nota, em que indica a necessidade de
+ complementação normativa sobre o tema. Observado o enunciado, uma das competências
+ previstas para o Presidente da República, na Constituição Federal, aplicáveis ao caso,
+ consiste em:
+a) sancionar leis.
+b) vetar projetos de lei.
+c) organizar a administração.
+d) celebrar convenções.
+e) expedir regulamentos.
+
+Comentários:
+
+Compete ao Presidente da República expedir decretos e regulamentos para a fiel execução
+das leis. Assim, na situação mencionada, pode-se dizer que a lei depende de regulamentação
+para que seja aplicada; em outras palavras, caberá ao Presidente expedir regulamento para a
+sua fiel execução. A resposta é a letra E.
+
+
+35.  (FGV / PC-MA – 2012) Com relação à chamada responsabilidade do Presidente da
+ República, assinale a afirmativa correta.
+a) O Presidente da República pode ser responsabilizado por atos estranhos ao exercício de
+   suas funções, mesmo na vigência de seu mandato.
+b) O Presidente da República somente será submetido a julgamento após admitida a
+   acusação por dois terços dos membros do Congresso Nacional.
+c) O Presidente da República, nos crimes de responsabilidade, ficará suspenso de suas
+   funções após a instauração do processo pelo Senado Federal.
+d) O Presidente da República, durante a vigência do mandato, somente está sujeito a
+   julgamento pela prática de crimes de responsabilidade.
+e) O Presidente da República, nas infrações comuns, estará sujeito a prisão cautelar, mediante
+   autorização de dois terços dos membros da Câmara dos Deputados.
+
+Comentários:
+
+Letra A: errada. Na vigência do seu mandato, o Presidente somente poderá ser
+responsabilizado por atos praticados no exercício da função ou em razão dela.
+
+      Receita Federal (Analista Tributário) Direito Constitucional                               73
+      www.estrategiaconcursos.com.br                                                             92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+Letra B: errada. O Presidente somente será julgado após juízo de admissibilidade política da
+Câmara dos Deputados, por 2/3 dos membros.
+
+Letra C: correta. Nos crimes de responsabilidade, o Presidente ficará suspenso de suas
+funções após a instauração do processo pelo Senado Federal. Ele se retornará ao exercício
+da presidência se absolvido ou se, decorridos 180 dias, o julgamento não tiver sido
+concluído.
+
+Letra D: errada. O Presidente da República também poderá ser submetido a julgamento pela
+prática de crimes comuns, desde que estes estejam relacionados ao exercício de sua função.
+
+Letra E: errada. Não são admitidas prisões cautelares do Presidente da
+
+República. O gabarito é a letra C.
+
+36.   (FGV / OAB – 2014) Imagine a hipótese na qual o avião presidencial sofre um
+ acidente, vindo a vitimar o Presidente da República e seu Vice, após a conclusão do
+ terceiro ano de mandato. A partir da hipótese apresentada, assinale a afirmativa correta.
+a) O Presidente do Senado Federal assume o cargo e completa o mandato.
+b) O Presidente da Câmara dos Deputados assume o cargo e convoca eleições que
+   realizar-se-ão noventa dias depois de abertas as vagas.
+c) O Presidente do Congresso Nacional assume o cargo e completa o mandato.
+d) O Presidente da Câmara dos Deputados assume o cargo e convoca eleições que serão
+   realizadas trinta dias após a abertura das vagas, pelo Congresso Nacional, na forma da lei.
+
+Comentários:
+
+Na linha sucessória do Presidente, estão: i) o Vice-Presidente; ii) o Presidente da Câmara dos
+Deputados; iii) o Presidente do Senado e; iv) Presidente do STF. Todavia, cabe destacar que o
+único que substitui em definitivo o Presidente é o Vice-Presidente.
+
+Na situação apresentada, tanto o Presidente quanto o Vice faleceram, ou seja, houve
+vacância simultânea dos dois cargos. Ocorrendo isso, temos que nos perguntar em que
+momento ela ocorreu: nos 2 primeiros anos do mandato ou nos 2 últimos anos.
+
+Se a vacância dos cargos de Presidente e Vice-Presidente ocorrer nos dois primeiros anos do
+mandato presidencial, serão feitas eleições 90 (noventa) dias depois de aberta a última vaga.
+Trata-se, nesse caso, de eleições diretas.
+
+Se a vacância dos cargos de Presidente e Vice-Presidente ocorrer nos dois últimos anos do
+mandato presidencial, a eleição para ambos os cargos será feita 30 (trinta) dias depois da
+última vaga, pelo Congresso Nacional. Serão feitas, portanto, eleições indiretas. Essa é
+exatamente a situação apresentada pela questão, motivo pelo qual a resposta é a letra D.
+
+37.   (FGV / OAB – 2014) O Presidente da República possui uma série de competências
+ privativas, que lhe são atribuídas diretamente pela Constituição. Admite-se que algumas
+ delas possam ser delegadas ao Ministro de Estado da pasta relacionada ao tema. Dentre as
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                               74
+      www.estrategiaconcursos.com.br                                                             92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+ competências delegáveis, inclui-se:
+a) editar medidas provisórias com força de lei, nos termos do artigo 62 da Constituição.
+b) nomear, observado o disposto no artigo 73, os Ministros do Tribunal de Contas da União.
+c) prover e extinguir os cargos públicos federais, na forma da lei.
+d) iniciar o processo legislativo, na forma e nos casos previstos na Constituição.
+
+Comentários:
+
+O Presidente da República poderá delegar aos Ministros de Estado, AGU e PGR as seguintes
+atribuições:
+
+Editar decretos autônomos sobre: i) organização e funcionamento da administração pública
+federal, quando não implicar aumento de despesa, nem criação ou extinção de órgão
+público e; ii) extinção de funções ou cargos públicos, quando vagos.
+
+Conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei.
+
+Prover e desprover cargos públicos, na forma da lei. Ressalte-se que essa é apenas a primeira
+parte do art.84, XXV, cujo inteiro teor é o seguinte: “prover e extinguir os cargos públicos
+federais, na forma da lei”.
+
+A FGV deu como gabarito a letra C. Todavia, essa é uma resposta polêmica, já que a extinção
+de cargos públicos ocupados não pode ser delegada pelo Presidente da República. Apenas a
+extinção de cargos públicos vagos (que é matéria de decreto autônomo) pode ser delegada.
+
+38.  (FGV / OAB – 2011) A respeito do regime de responsabilidade do Presidente da
+ República, assinale a alternativa correta.
+
+a) O ato do Presidente da República que atenta contra o livre exercício do Poder Legislativo,
+   do Poder Judiciário, do Ministério Público e dos Poderes constitucionais das unidades da
+   Federação é considerado crime de responsabilidade.
+b) O Presidente ficará suspenso de suas funções nos crimes de responsabilidade somente
+   após a condenação pelo órgão competente.
+c) Compete ao Congresso Nacional processar e julgar o Presidente da República nos crimes
+   de responsabilidade.
+d) Só se admite acusação contra o Presidente da República por três quintos da Câmara dos
+   Deputados.
+
+Comentários:
+
+Letra A: correta. É exatamente o que dispõe o art. 85, II, CF/88. É crime de responsabilidade
+do Presidente o ato que atenta contra o livre exercício do Poder Legislativo, do Poder
+Judiciário, do Ministério Público e dos Poderes constitucionais das unidades da Federação é
+considerado crime de responsabilidade.
+
+Letra B: errada. Nos crimes de responsabilidade, o Presidente ficará suspenso de suas
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                              75
+      www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+funções após a instauração do processo pelo Senado Federal.
+
+Letra C: errada. O Senado Federal é que irá processar e julgar o Presidente da República nos
+crimes de responsabilidade.
+
+Letra D: errada. O juízo de admissibilidade da Câmara dos Deputados depende do voto de
+2/3 (dois terços) dos seus membros.
+
+O gabarito é a letra A.
+
+      Receita Federal (Analista Tributário) Direito Constitucional                             76
+      www.estrategiaconcursos.com.br                                                           92
+
+                                    
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 12
+
+                                             LISTA DE QUESTÕES
+1. FGV/TCE-GO/2024
+
+O Presidente da República editou o Decreto nº X, o qual dispôs sobre o seguinte:
+
+I. extinção dos órgãos públicos Alfa e Beta, com realocação dos respectivos ocupantes, o que
+decorria da exponencial diminuição de suas atividades, fruto de alterações no ambiente social;
+
+II. extinção dos cargos em comissão de simbologia W, na medida em que vagassem;
+
+III. disciplina da organização da Administração Pública federal.
+
+Por discordar das medidas adotadas, o Partido Político Alfa, com representação no Congresso
+Nacional, consultou sua assessoria jurídica em relação à conformidade constitucional das
+medidas adotadas.
+
+A assessoria informou que é constitucional o que consta em
+
+a) I, II e III.
+
+b) I, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+e) II e III, apenas.
+
+2. FGV/CVM/2024
+
+Suponha que, para fins de organização administrativa, seja editado um decreto referente ao
+funcionamento e organização da Comissão de Valores Mobiliários, que não importará em
+aumento de despesa ou na criação e extinção dos respectivos órgãos.
+
+Além disso, imagine que, na respectiva seara de organização, a Presidência da República faça
+editar uma medida provisória que, em circunstâncias de relevância e urgência, crie uma nova
+autarquia, para o desempenho de função administrativa.
+
+Diante dessa situação hipotética, considerando as questões atinentes à organização
+administrativa e ao poder regulamentar, à luz da jurisprudência do Supremo Tribunal Federal, é
+correto afirmar que:
+
+a) ambas as normas são inconstitucionais, na medida em que a matéria atinente à criação de
+autarquia, bem como à organização e ao funcionamento de tais entidades administrativas, está
+submetida à reserva de lei;
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                    77
+           www.estrategiaconcursos.com.br                                                  92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+b) ambas as normas são constitucionais, pois a medida provisória foi editada nos parâmetros
+estabelecidos pela Lei Maior para a criação de autarquia, enquanto o decreto que versa sobre a
+organização e funcionamento da entidade administrativa em tais circunstâncias é considerado
+decreto autônomo;
+
+c) ambas as normas são constitucionais, considerando que versam sobre assunto relacionado à
+criação, à organização e ao funcionamento das entidades autárquicas, cujo conteúdo
+corresponde ao de decreto de execução ou regulamentar;
+
+d) apenas a medida provisória é constitucional, por atender à necessidade de reserva de lei
+estabelecida na Lei Maior, notadamente porque os decretos autônomos são expressamente
+vedados no ordenamento pátrio;
+
+e) ambas as normas são constitucionais, considerando que a viabilidade de dispor sobre as
+matérias atinentes à criação, à organização e ao funcionamento das entidades autárquicas em
+questão, por meio de medida provisória, outorga ao Poder Executivo a possibilidade de editar
+decretos autônomos acerca do tema.
+
+3. (FGV/CÂMARA DOS DEPUTADOS/2023) Observe o seguinte caso hipotético: João,
+   Presidente da República foi acusado da prática de crime de responsabilidade, por incorrer em
+   condutas que alegadamente atentaram contra a segurança interna do País.
+
+Sobre a situação descrita, à luz da sistemática estabelecida na Constituição da República/88,
+assinale a afirmativa correta.
+
+a) O Chefe do Poder Executivo ficará afastado de suas funções a partir da admissão da acusação
+por dois terços da Câmara dos Deputados.
+
+b) Caso o Chefe do Poder Executivo sofra a sanção de inabilitação, terá, em sua esfera jurídica,
+restrições inferiores àquelas afetas à inelegibilidade.
+
+c) Caso o Chefe do Poder Executivo sofra a sanção de inabilitação, terá, em sua esfera jurídica,
+restrições idênticas à suspensão dos direitos políticos.
+
+d) A similitude do procedimento adotado, em relação ao julgamento por infrações penais
+comuns, restringe-se à admissão da acusação pela Câmara dos Deputados.
+
+e) A tipologia legal do ilícito que foi imputado ao Chefe do Poder Executivo alcança tanto as
+condutas praticadas em momento anterior, como em momento posterior à assunção do cargo.
+
+4. (FGV/CÂMARA DOS DEPUTADOS/2023) Em razão da omissão da Constituição do Estado
+   Alfa, o Presidente da Assembleia Legislativa constituiu uma comissão com o objetivo de
+   elaborar um anteprojeto de reforma da Constituição Estadual, estabelecendo a forma de
+   escolha do Governador e do Vice-Governador na hipótese de vacância de ambos os cargos
+   no último biênio do mandato.
+
+Ao fim dos trabalhos, a única tese apresentada à comissão que se mostrou compatível com os
+balizamentos estabelecidos pela Constituição da República de 1988 foi a de que
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         78
+        www.estrategiaconcursos.com.br                                                       92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+a) por força do princípio da simetria, a eleição para ambos os cargos deve ser feita de forma
+direta, sendo organizada pela Justiça Eleitoral.
+
+b) por força do princípio da simetria, a eleição para ambos os cargos deve ser feita trinta dias
+depois da última vaga, pela Assembleia Legislativa, na forma da lei.
+
+c) a Constituição Estadual deve disciplinar a temática em relação ao Governador e ao
+Vice-Governador, bem como no que diz respeito aos Prefeitos e Vice-Prefeitos.
+
+d) pode ser previsto que a eleição seja feita de maneira direta ou indireta, neste último caso pela
+Assembleia Legislativa, vedada outra forma de provimento definitivo dos cargos.
+
+e) pode ser previsto que a eleição seja feita de maneira direta ou indireta, ou mesmo que a
+sucessão se dará, de maneira definitiva, pelo Presidente da Assembleia Legislativa e, na sua falta,
+pelo Presidente do Tribunal de Justiça.
+
+5. (FGV/CÂMARA DOS DEPUTADOS/2023) O Presidente da República, com o objetivo de
+   aumentar a eficiência da atuação das estruturas que lhe estavam diretamente subordinadas,
+   editou o Decreto nº X, por meio do qual: (1) realocou determinados órgãos administrativos,
+   reorganizando-os no âmbito da estrutura da Presidência da República; (2) extinguiu vinte
+   cargos públicos de provimento efetivo, de denominação WW, que se encontravam vagas; (3)
+   extinguiu vinte funções de confiança, de denominação YY, não preenchidas; e (4) extinguiu
+   uma classe de determinada carreira dos servidores públicos federais. O Decreto nº X foi
+   muito criticado por determinado sindicato de servidores, que solicitou a análise por sua
+   assessoria. A assessoria concluiu corretamente, em relação às quatro medidas adotadas pelo
+   Decreto nº X, que
+
+a) todas estão em harmonia com a ordem constitucional.
+
+b) apenas as medidas 1, 2 e 3 estão em harmonia com a ordem constitucional.
+
+c) apenas as medidas 2, 3 e 4 estão em harmonia com a ordem constitucional.
+
+d) apenas as medidas 2 e 4 estão em harmonia com a ordem constitucional.
+
+e) apenas as medidas 1 e 3 estão em harmonia com a ordem constitucional.
+
+6. (FGV/ALEMA/2023) A Constituição do Estado Alfa, com o objetivo de ampliar os níveis de
+   controle popular sobre as decisões políticas do Chefe do Poder Executivo, foi reformada e
+   passou a dispor que todas as nomeações para secretarias de governo, no âmbito do Estado
+   Alfa e dos Municípios situados em seu território, deveriam ser previamente aprovadas pelo
+   Poder Legislativo, vale dizer, pela Assembleia Legislativa ou pela Câmara Municipal, conforme
+   o caso.
+
+Ao tomar conhecimento da reforma promovida na Constituição Estadual, o Prefeito do
+Município Beta determinou que sua assessoria analisasse a compatibilidade da reforma com a
+Constituição da República, sendo-lhe corretamente informado que ela é
+
+a) constitucional, já que a Constituição Estadual é a sedes materiae para a disciplina do exercício
+do poder no âmbito estadual e municipal.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            79
+        www.estrategiaconcursos.com.br                                                          92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+b) constitucional, já que a Constituição Estadual se limita a integrar a eficácia de norma
+programática já prevista na Constituição da República.
+
+c) constitucional apenas em relação ao Estado Alfa, mas inconstitucional ao estender esse
+comando aos Municípios, isto por violar a sua autonomia.
+
+d) inconstitucional, já que a Constituição da República limita a chancela, pelo Poder Legislativo, à
+aprovação dos ocupantes dos órgãos de cúpula da Administração Indireta.
+
+e) inconstitucional, já que a reforma afronta a separação dos poderes ao estabelecer indevida
+ingerência do Poder Legislativo em atividade própria do Executivo.
+
+7.    (FGV/ALEMA/2023) Certa deputada estadual questionou Arquimedes, servidor ocupante
+do cargo de técnico de gestão administrativa da Assembleia Legislativa do Estado do Maranhão,
+acerca da extensão e limites do poder regulamentar do Governador do Estado.
+
+Considerando a situação hipotética descrita, à luz do disposto na Constituição da República e do
+entendimento do Supremo Tribunal Federal, Arquimedes deveria responder corretamente que o
+Chefe do Poder Executivo pode editar Decreto para
+
+a) dispor sobre organização e funcionamento da Administração Estadual, quando não importar
+em aumento de despesa, nem na criação ou extinção de órgãos públicos.
+
+b) criar entidades autárquicas estaduais, por se tratar de pessoas jurídicas de direito público,
+submetidas ao regime de direito administrativo.
+
+c) estabelecer normas que imponham requisitos para o acesso aos cargos públicos estaduais,
+mediante concurso público, em decorrência da natureza e complexidade de suas atribuições.
+
+d) inovar no ordenamento jurídico com relação às competências estaduais, na qualidade de
+regulamentos autônomos.
+
+e) determinar nova gratificação para os servidores estaduais, majorando, assim, a sua
+remuneração.
+
+8.    (FGV/ALEMA/2023) Um assessor do Presidente da República o informou a respeito do
+recebimento de relatórios de diversos Ministros de estado, apontando a existência de inúmeros
+cargos vagos em suas estruturas e pela existência de outros cargos que se encontravam
+ocupados e se mostravam desnecessários. Por tal razão, propuseram a extinção desses cargos.
+
+O assessor informou corretamente ao Presidente da República que ele, caso acolha os
+argumentos apresentados, deve
+
+a) propor ao Poder Legislativo, com base no princípio da paridade das formas, a extinção desses
+cargos, sendo demitidos os servidores estáveis que estejam ocupando os cargos extintos.
+
+b) extinguir os cargos vagos e declarar a desnecessidade dos cargos ocupados, sendo postos em
+disponibilidade, neste último caso, os servidores estáveis que os ocupem.
+
+c) propor ao Poder Legislativo a extinção dos cargos vagos e aguardar que os cargos atualmente
+ocupados fiquem vagos, para que seja proposta a sua extinção.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             80
+        www.estrategiaconcursos.com.br                                                           92
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 12
+
+d) declarar a desnecessidade dos cargos vagos e dos cargos ocupados, o que impedirá novas
+nomeações, até que sejam extintos pelo Poder Legislativo.
+
+e) extinguir os cargos vagos e os cargos ocupados, sendo postos em disponibilidade, neste
+último caso, todos os servidores que os ocupem.
+
+9.        (FGV/CGU - 2022) João, deputado federal, solicitou que sua assessoria analisasse quais
+      são os órgãos competentes, de acordo com a ordem constitucional, para praticar dois atos:
+
+     1. a extinção total das consequências de determinados crimes;
+
+     2.     o perdão da pena imposta aos condenados por certos crimes, que tenham cumprido
+     parte dela e preencham os demais requisitos exigidos.
+
+     A assessoria respondeu, corretamente, que o ato 1 é de competência do:
+
+     a)     Congresso Nacional, devendo ser veiculado em lei, o mesmo ocorrendo em relação ao
+     ato 2, com a distinção de que este último deve ser previsto em lei de iniciativa privativa do
+     presidente da República;
+
+     b)    presidente da República, sendo veiculado em decreto, ad referendum do Congresso
+     Nacional, enquanto o ato 2, embora também seja veiculado em decreto, não depende de
+     aprovação do Poder Legislativo;
+
+     c)     Congresso Nacional, devendo ser veiculado em lei, de iniciativa privativa do
+     presidente da República, enquanto o ato 2 é de competência deste último agente, que o
+     veiculará por meio de decreto;
+
+     d)     presidente da República, devendo ser veiculado em decreto, ad referendum do
+     Congresso Nacional, enquanto o ato 2 é de competência deste último órgão, sendo
+     veiculado em decreto legislativo;
+
+     e)   Congresso Nacional, devendo ser veiculado em lei, enquanto o ato 2 é de
+     competência do presidente da República, que o veiculará por meio de decreto.
+
+10. (FGV/PC-RJ - 2021) Marília, estudante de direito, tinha sérias dúvidas a respeito do sentido
+    das expressões chefe de Estado e chefe de governo, principalmente ao considerar a
+    atividade desempenhada pelo presidente da República como chefe da Administração
+    Pública federal. Everardo, seu professor, informou-lhe, corretamente, que se tratava de
+    atividade típica de:
+
+     a)    chefe de governo, designativo utilizado, em sistemas parlamentaristas, para indicar o
+     agente que desempenha funções próprias de primeiro-ministro;
+
+     b)    chefe de Estado, designativo utilizado, em sistemas parlamentaristas, para indicar o
+     agente que desempenha funções próprias de primeiro-ministro;
+
+     c)        chefe de governo, que costuma ser escolhido, em sistemas parlamentaristas, no
+
+           Receita Federal (Analista Tributário) Direito Constitucional                              81
+           www.estrategiaconcursos.com.br                                                            92
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ âmbito do órgão legislativo, e que desempenha maior número de poderes apenas
+ simbólicos;
+
+ d)      chefe de Estado, designativo utilizado, em sistemas presidencialistas e
+ parlamentaristas, para indicar o primeiro mandatário, responsável pelas principais decisões
+ políticas;
+
+ e)    chefe de Estado, designativo adotado em conjunto com o de chefe de governo
+ apenas em regimes semipresidenciais, nos quais prepondera a escolha popular do primeiro
+ mandatário.
+
+11. (FGV/TCE-AM - 2021) João, ao assumir o Ministério ZZ, questionou sua assessoria a
+    respeito das atribuições que, por imposição constitucional, teria em relação ao Presidente
+    da República. Em resposta, João foi informado de que deveria:
+
+ I. referendar atos e decretos assinados pelo Chefe do Poder Executivo;
+
+ II. apresentar relatório anual;
+
+ III. praticar atos concernentes às atribuições que lhe forem outorgadas ou delegadas;
+
+ IV. conferir condecorações e distinções honoríficas.
+
+ À luz da sistemática constitucional, estão corretas as atribuições referidas em:
+
+ a) I, II, III e IV;
+
+ b) II, III e IV;
+
+ c) I, II e III;
+
+ d) I e IV;
+
+ e) I e II.
+
+12. (FGV/PM-RJ - 2021) A assessoria do Presidente da República elaborou uma minuta de
+    decreto regulamentando a Lei federal nº XX/2021, cujo objeto estava estritamente
+    relacionado à temática econômica e que deveria ser editado pelo Chefe do Poder
+    Executivo.
+
+ À luz da sistemática constitucional, é correto afirmar que o Ministro de Estado da Economia
+
+ a) não pode receber delegação para editar o referido decreto, mas deve referendá-lo.
+
+ b) pode receber delegação para editar o referido decreto e, caso não a receba, deve
+    referendá-lo.
+
+ c) pode receber delegação para editar o referido decreto e, caso não a receba, pode expedir
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                            82
+         www.estrategiaconcursos.com.br                                                          92
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+    instruções.
+
+ d) pode receber delegação para editar o referido decreto e, caso não a receba, deve figurar
+    como coautor.
+
+ e)    não pode receber delegação para editar o referido decreto nem referendá-lo, mas
+ pode expedir instruções.
+
+13. (FGV / Prefeitura de Niterói – 2018) Em relação ao Presidente da República e às suas
+    atribuições constitucionais, assinale V para a afirmativa verdadeira e F para a falsa.
+ ( ) No caso de infrações penais comuns, admitida a acusação contra o Presidente da República,
+ por dois terços do Congresso Nacional, será ele submetido a julgamento perante o Supremo
+ Tribunal Federal.
+ ( ) Compete ao Presidente da República a escolha dos Ministros do Tribunal de Contas da
+ União.
+ ( ) O Presidente da República pode alterar a estrutura e extinguir órgãos públicos, desde que
+ não haja aumento de despesa.
+ Na ordem apresentada, as afirmativas são, respectivamente,
+ a) V – F – V.
+ b) F – V – F.
+ c) F – F – V.
+ d) V – V – F.
+ e) F – F – F.
+14. (FGV / Câmara de Salvador – 2018) Um jornal de grande circulação divulgou que João,
+    Presidente da República, teria praticado uma série de condutas ilícitas, todas tecnicamente
+    consideradas crimes de responsabilidade.
+ À luz da sistemática constitucional, é correto afirmar que João, em casos como esse, deve ser
+ processado e julgado:
+ a) pelo Supremo Tribunal Federal, após autorização do Senado Federal;
+ b) pelo Senado Federal, após autorização da Câmara dos Deputados;
+ c) pela Câmara dos Deputados, após autorização do Senado Federal;
+ d) pelo Supremo Tribunal Federal, após autorização da Câmara dos Deputados;
+ e) pelo Senado Federal, após autorização do Supremo Tribunal Federal.
+15. (FGV / TJ-AL – 2018) O Presidente da República foi acusado da prática de crime de
+    responsabilidade perante o Senado Federal. Em resposta, afirmou que a acusação não
+    poderia ser endereçada à referida Casa Legislativa.
+ À luz da sistemática constitucional, a defesa apresentada pelo Presidente da República deve
+ ser:
+ a) acolhida, pois a acusação deveria ter sido endereçada ao Supremo Tribunal Federal.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             83
+        www.estrategiaconcursos.com.br                                                           92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ b)      rejeitada, pois o Senado Federal deve receber a acusação para que o processo se
+ inicie no Supremo Tribunal Federal.
+ c) acolhida, pois a acusação deveria ter sido endereçada ao Superior Tribunal de Justiça.
+ d)      rejeitada, pois o Senado Federal deve receber a acusação para que o processo se
+ inicie na Câmara dos Deputados.
+ e) acolhida, pois a acusação deveria ter sido endereçada à Câmara dos Deputados.
+16. (FGV/ OAB – 2018) Em determinado órgão integrante da administração pública federal,
+    vinculado ao Ministério da Fazenda, foi apurado que aproximadamente 100 (cem) cargos
+    estavam vagos. O Presidente da República, mediante decreto, delegou ao Ministro da
+    Fazenda amplos poderes para promover a reestruturação do aludido órgão público,
+    inclusive com a possibilidade de extinção dos cargos vagos.
+ Sobre a hipótese, com fundamento na ordem jurídicoconstitucional vigente, assinale a
+ afirmativa correta.
+ a)     Somente mediante lei em sentido formal é admitida a criação e extinção de funções e
+ cargos públicos, ainda que vagos; logo, o decreto presidencial é inconstitucional por ofensa
+ ao princípio da reserva legal.
+ b)    A Constituição de 1988 atribui exclusivamente ao Presidente da República a
+ possibilidade de, mediante decreto, dispor sobre a extinção de funções ou cargos públicos,
+ não admitindo que tal competência seja delegada aos Ministros de Estado.
+ c)     O referido decreto presidencial se harmoniza com o texto constitucional, uma vez que
+ o Presidente da República pode dispor, mediante decreto, sobre a extinção de funções ou
+ cargos públicos, quando vagos, sendo permitida a delegação dessa competência aos
+ Ministros de Estado.
+ d)   A Constituição de 1988 não permite que cargos públicos legalmente criados, ainda
+ que vagos, sejam extintos, ressalvada a excepcional hipótese de excesso de gastos
+ orçamentários com pessoal; portanto, o Decreto presidencial é inconstitucional.
+17. (FGV/ CGM Niteroi – 2018) Em relação ao Presidente da República e às suas atribuições
+    constitucionais, assinale V para a afirmativa verdadeira e F para a falsa.
+ ( ) No caso de infrações penais comuns, admitida a acusação contra o Presidente da República,
+ por dois terços do Congresso Nacional, será ele submetido a julgamento perante o Supremo
+ Tribunal Federal.
+ ( ) Compete ao Presidente da República a escolha dos Ministros do Tribunal de Contas da
+ União.
+ ( ) O Presidente da República pode alterar a estrutura e extinguir órgãos públicos, desde que
+ não haja aumento de despesa.
+ Na ordem apresentada, as afirmativas são, respectivamente,
+ a) V – F – V.
+ b) F – V – F.
+ c) F – F – V.
+ d) V – V – F.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             84
+        www.estrategiaconcursos.com.br                                                           92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ e) F – F – F.
+18. (FGV / SEPOG-RO – 2017) O Presidente da República, após a análise de sua assessoria,
+    editou decreto extinguindo certo quantitativo de cargos públicos vagos e organizando um
+    setor da administração pública federal. Essa última medida não acarretou aumento de
+    despesa ou a criação ou extinção de órgãos públicos.
+ João, que vinha se preparando para diversos concursos públicos, sentiu-se prejudicado com o
+ decreto e solicitou que o seu advogado procedesse à sua análise.
+ À luz da narrativa acima e das competências constitucionais do Presidente da República e do
+ Poder Legislativo, assinale a afirmativa correta.
+ a)    Ambas as matérias versadas no decreto são de competência do Poder Legislativo, não
+ do Presidente da República.
+ b)    O decreto somente poderia ter versado sobre a extinção de cargos públicos vagos,
+                                                         ==219a34==
+
+ não sobre a organização administrativa.
+ c) Ambas as matérias versadas no decreto são de competência do Presidente da República.
+ d)     O decreto somente poderia ter versado sobre a organização administrativa, não sobre
+ a extinção de cargos públicos vagos.
+ e)    O decreto somente poderia incursionar nas matérias de que tratou se existisse lei
+ delegada autorizando- o.
+19. (FGV / TRT-SC – 2017) Certo profissional da área jurídica foi questionado sobre as
+    características do processo e do julgamento do Presidente da República pela prática de
+    crimes de responsabilidade. Em resposta, afirmou que a instauração do processo deve ser
+    autorizada pela Câmara dos Deputados, o processamento e o julgamento ficam a cargo do
+    Senado Federal, bem como que a perda da função é decidida pelo Presidente do Supremo
+    Tribunal Federal.
+ À luz da sistemática constitucional, essa resposta é:
+ a)    totalmente incorreta, pois todas as questões envolvendo o julgamento por crimes de
+ responsabilidade devem ser decididas pelas duas Casas Legislativas em conjunto;
+ b)    parcialmente correta, pois a instauração do processo deve ser autorizada pelo Senado
+ Federal e o julgamento fica a cargo da Câmara dos Deputados;
+ c)    totalmente correta, pois a separação entre as funções estatais exige que cada fase do
+ processo de responsabilização seja dividida entre poderes distintos;
+ d)   parcialmente correta, pois a decisão a respeito da perda da função fica a cargo do
+ Senado Federal, que a proferirá quando do julgamento;
+ e)    parcialmente correta, pois a Câmara dos Deputados deve autorizar a instauração do
+ processo e, após o julgamento pelo Senado, decidir a respeito da perda da função.
+20. (FGV / TCM-SP - 2015) A respeito da escolha, da substituição e da sucessão do Prefeito e
+    do Vice- Prefeito do Município, é correto afirmar que a respectiva lei orgânica:
+ a) pode disciplinar o processo de escolha dos sucessores no caso de dupla vacância dos cargos;
+ b) não pode prever, em hipótese alguma, a eleição indireta para esses cargos;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           85
+        www.estrategiaconcursos.com.br                                                         92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ c)     deve permanecer adstrita aos balizamentos estabelecidos pela Constituição Estadual,
+ a respeito do processo de escolha, no caso de dupla vacância dos cargos;
+ d)    nos Municípios com menos de 200 mil eleitores, deve definir se a eleição seguirá o
+ sistema majoritário de um ou dois turnos;
+ e) pode prever a eleição indireta para esses cargos nas hipóteses previstas na Constituição
+    Estadual.
+21. (FGV / PROCEMPA – 2014) Eurípedes pretende candidatar-se a Presidente da República e
+    apresenta sua candidatura pelo partido B, tendo realizado campanha popular, com intensa
+    repercussão social. Após campanha de sucesso, obtém maioria absoluta dos votos, sendo
+    eleito no primeiro turno da eleição, tomando posse e cumprindo seu mandato.
+ Apesar do sucesso administrativo da sua gestão, Eurípedes foi surpreendido pela denúncia
+ de um cidadão, ao Congresso Nacional, de que ele cometera crime de responsabilidade.
+ Nesse caso, nos termos da Constituição, deve ocorrer:
+ a) a rejeição liminar da denúncia do cidadão, por não ter legitimidade para o processo.
+ b)    a análise da acusação, e, se acatada, será examinada, em juízo de admissibilidade,
+ pela Câmara dos Deputados.
+ c) a admissibilidade da acusação e o julgamento de mérito pelo Supremo Tribunal Federal.
+ d)o acatamento por maioria absoluta da Câmara dos Deputados e o seu julgamento de mérito,
+   também por maioria absoluta.
+ e)   a aceitação da acusação por comissão da Câmara do Deputados, e o processo será
+ encaminhado ao Senado para julgamento de mérito.
+22. (FGV / TJ-AM – 2013) As alternativas a seguir apresentam atribuições do Presidente da
+    República, à exceção de uma. Assinale-a.
+ a) A escolha de dois terços dos Ministros do Tribunal de Contas da União.
+ b) O veto a projetos de lei de iniciativa popular.
+ c) Dispor, mediante decreto, sobre a extinção de cargos públicos vagos.
+ d) Decretar intervenção federal.
+ e) A celebração de tratados internacionais que disponham em sentido contrário à legislação
+    vigente.
+23. (FGV / AL-MA – 2013) Assinale a alternativa que indica a função exercida pelo presidente
+    da República, dentre as previstas no texto constitucional federal, considerada como
+    inerente à função de Chefia de Governo.
+ a) Celebrar a paz, autorizado ou com o referendo do Congresso Nacional.
+ b) Presidir o Conselho de Defesa Nacional.
+ c) Enviar ao Congresso Nacional o plano plurianual previsto na Constituição.
+ d) Manter relações com Estados estrangeiros e acreditar seus representantes diplomáticos.
+ e) Celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso
+    Nacional.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           86
+        www.estrategiaconcursos.com.br                                                         92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+24. (FGV / SEFAZ-RJ – 2011) O presidente da república possui competência privativa para
+    praticar determinados atos. A maior parte não depende de autorização ou referendo do
+    poder legislativo. Dentre as seguintes alternativas, a que depende de autorização ou
+    referendo do congresso consiste em
+ a) Declarar guerra.
+ b) Decretar a intervenção federal.
+ c) Exercer a chefia da administração
+ d) Presidir o conselho da república.
+ e) Nomear os membros do conselho da república
+25. (FGV / MPE-MS – 2013) O Presidente da República, durante entrevista coletiva, agrediu,
+    com socos e pontapés, um jornalista que fez uma pergunta relativa à ocorrência de desvio
+    de recursos em obras públicas federais, conduta atribuída a um dos Ministros de Estado,
+    filiado ao mesmo partido político do Presidente. Nesse caso,
+ a) será necessário aguardar o final do mandato presidencial para dar início à persecução penal.
+ b)     o Presidente da República somente poderá ser submetido a julgamento após
+ autorização do Senado Federal.
+ c) o Supremo Tribunal Federal é o órgão competente para proceder ao julgamento do
+    Presidente.
+ d) a agressão ao jornalista configura crime de responsabilidade do Presidente da República.
+ e) o Presidente da República tem imunidade em relação à prática dos crimes comuns.
+
+
+26. (FGV / MPE-MS – 2013) Uma das promessas de campanha do Presidente da República era
+    a de racionalizar a máquina administrativa. A fim de atingir esse objetivo, o Presidente
+    editou, no mesmo dia, dois decretos: pelo primeiro, atribuiu a um Ministério, já existente,
+    uma nova função, sem previsão de aumento de despesa; pelo segundo, criou um novo
+    Ministério, para coordenar a atuação dos demais. Em relação à situação apresentada,
+    assinale a afirmativa correta.
+ a)     O primeiro decreto é constitucional e o segundo, inconstitucional, pois a criação de
+ Ministério é matéria submetida à reserva de lei.
+ b)    Os dois decretos são constitucionais, pois compete ao Presidente da República dispor
+ sobre a organização e o funcionamento da Administração Pública federal.
+ c)    Os dois decretos são inconstitucionais, pois não subsiste, em nosso ordenamento,
+ hipótese de decreto autônomo, que inove na ordem jurídica, cabendo a tal diploma apenas a
+ regulamentação da lei.
+ d) O primeiro decreto é inconstitucional, por exorbitar do poder regulamentar, e o segundo,
+    constitucional.
+ e)     Os dois decretos são constitucionais, pois se destinam unicamente a regulamentar as
+ leis de organização da Administração Pública Federal.
+27. (FGV / PC-MA – 2012) Com relação à chamada responsabilidade do Presidente da
+    República, assinale a afirmativa correta.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              87
+        www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ a)    O Presidente da República pode ser responsabilizado por atos estranhos ao exercício
+ de suas funções, mesmo na vigência de seu mandato.
+ b)    O Presidente da República somente será submetido a julgamento após admitida a
+ acusação por dois terços dos membros do Congresso Nacional.
+ c)    O Presidente da República, nos crimes de responsabilidade, ficará suspenso de suas
+ funções após a instauração do processo pelo Senado Federal.
+ d)    O Presidente da República, durante a vigência do mandato, somente está sujeito a
+ julgamento pela prática de crimes de responsabilidade.
+ e)   O Presidente da República, nas infrações comuns, estará sujeito a prisão cautelar,
+ mediante autorização de dois terços dos membros da Câmara dos Deputados.
+28. (FGV / OAB – 2012) Em caso de vacância dos cargos de Presidente da República e
+    Vice-Presidente da República no penúltimo ano de mandato:
+ a) o Presidente da Câmara dos Deputados assume definitivamente o cargo.
+ b) o Presidente do Senado Federal assume definitivamente o cargo.
+ c) far-se-á nova eleição direta.
+ d) far-se-á eleição indireta, pelo Congresso Nacional.
+29. (FGV / OAB – 2011) No processo de impedimento do Presidente da República, ocorre a
+    necessidade de preenchimento de alguns requisitos. Com base nas normas constitucionais,
+    é correto afirmar que:
+ a) a Câmara autoriza a instauração do processo pelo voto da maioria absoluta dos seus
+    membros.
+ b) o julgamento ocorre pelo Senado Federal, cuja decisão deverá ocorrer pela maioria simples.
+ c) condenado o Presidente, cumprirá sua pena privativa de liberdade em regime semiaberto.
+ d) no julgamento ocorrido no Senado, funcionará como Presidente o do Supremo Tribunal
+    Federal.
+30. (FGV / TRE-PA – 2012) É atribuição constitucional do Presidente da República:
+ a)     dispor, mediante portaria, sobre a organização e funcionamento da administração
+ federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos
+ públicos.
+ b)    suspender a execução, no todo ou em parte, de lei declarada inconstitucional por
+ decisão definitiva do Supremo Tribunal Federal.
+ c)     nomear, em caráter privativo e sem a aprovação dos demais Poderes da República, os
+ Ministros do Supremo Tribunal Federal.
+ d)    autorizar operações externas de natureza financeira, de interesse da União, dos
+ Estados, do Distrito Federal, dos Territórios e dos Municípios.
+ e) decretar e executar a intervenção federal.
+31. (FGV / SEFAZ-RJ – 2011) No chamado crime de responsabilidade ou crime político
+    praticado por aquele que ocupa a vice-presidência da república, surge um órgão com
+    competência constitucionalmente estabelecida. Esse órgão é o(a):
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          88
+        www.estrategiaconcursos.com.br                                                        92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ a) Supremo Tribunal Federal.
+ b) Senado Federal.
+ c) Câmara dos Deputados.
+ d) Câmara Distrital.
+ e) Senado Estadual.
+32. (FGV / SEFAZ-RJ – 2009) Assinale a alternativa que defina corretamente o poder
+    regulamentar do chefe do Executivo, seja no âmbito federal, seja no estadual.
+ a)    O poder regulamentar confere ao chefe do Executivo a atribuição para criar direitos e
+ obrigações, dentro de sua respectiva esfera de competência.
+ b)     O poder regulamentar confere ao chefe do Executivo a competência legislativa
+ exclusiva para reparar inconstitucionalidades realizadas pelo legislador ordinário.
+ c)      O poder regulamentar confere ao chefe do Executivo a competência para assegurar a
+ fiel execução da Constituição.
+ d)    O poder regulamentar é uma forma atípica de competência legislativa conferida ao
+ chefe do Executivo para suprir omissões do Poder Legislativo.
+ e)      O poder regulamentar confere ao chefe do Executivo a competência para assegurar a
+ fiel execução das leis, não podendo inovar o mundo jurídico.
+33. (FGV / Senado Federal – 2008) O Presidente e o Vice-Presidente da República, nos crimes
+    de responsabilidade, serão julgados:
+ a) pelo Senado Federal.
+ b) pela Câmara dos Deputados.
+ c) pelo Congresso Nacional.
+ d) pelo Supremo Tribunal Federal.
+ e) pelo Conselho da República.
+34. (FGV / DETRAN – 2013) O servidor público Pedro, em exercício na Secretaria Estadual de
+    Transportes do Estado X, é questionado sobre a aplicação de determinada norma federal
+    incidente sobre ato a ser praticado no âmbito da sua repartição pública. Pesquisando o
+    tema, apresenta breve nota, em que indica a necessidade de complementação normativa
+    sobre o tema. Observado o enunciado, uma das competências previstas para o Presidente
+    da República, na Constituição Federal, aplicáveis ao caso, consiste em:
+ a) sancionar leis.
+ b) vetar projetos de lei.
+ c) organizar a administração.
+ d) celebrar convenções.
+ e) expedir regulamentos.
+35. (FGV / PC-MA – 2012) Com relação à chamada responsabilidade do Presidente da
+    República, assinale a afirmativa correta.
+ a)         O Presidente da República pode ser responsabilizado por atos estranhos ao exercício
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              89
+        www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 12
+
+ de suas funções, mesmo na vigência de seu mandato.
+ b)    O Presidente da República somente será submetido a julgamento após admitida a
+ acusação por dois terços dos membros do Congresso Nacional.
+ c)    O Presidente da República, nos crimes de responsabilidade, ficará suspenso de suas
+ funções após a instauração do processo pelo Senado Federal.
+ d)    O Presidente da República, durante a vigência do mandato, somente está sujeito a
+ julgamento pela prática de crimes de responsabilidade.
+ e)   O Presidente da República, nas infrações comuns, estará sujeito a prisão cautelar,
+ mediante autorização de dois terços dos membros da Câmara dos Deputados.
+36. (FGV / OAB – 2014) Imagine a hipótese na qual o avião presidencial sofre um acidente,
+    vindo a vitimar o Presidente da República e seu Vice, após a conclusão do terceiro ano de
+    mandato. A partir da hipótese apresentada, assinale a afirmativa correta.
+ a) O Presidente do Senado Federal assume o cargo e completa o mandato.
+ b)      O Presidente da Câmara dos Deputados assume o cargo e convoca eleições que
+ realizar-se-ão noventa dias depois de abertas as vagas.
+ c) O Presidente do Congresso Nacional assume o cargo e completa o mandato.
+ d)     O Presidente da Câmara dos Deputados assume o cargo e convoca eleições que serão
+ realizadas trinta dias após a abertura das vagas, pelo Congresso Nacional, na forma da lei.
+37. (FGV / OAB – 2014) O Presidente da República possui uma série de competências
+    privativas, que lhe são atribuídas diretamente pela Constituição. Admite-se que algumas
+    delas possam ser delegadas ao Ministro de Estado da pasta relacionada ao tema. Dentre as
+    competências delegáveis, inclui-se:
+ a) editar medidas provisórias com força de lei, nos termos do artigo 62 da Constituição.
+ b) nomear, observado o disposto no artigo 73, os Ministros do Tribunal de Contas da União.
+ c) prover e extinguir os cargos públicos federais, na forma da lei.
+ d) iniciar o processo legislativo, na forma e nos casos previstos na Constituição.
+38. (FGV / OAB – 2011) A respeito do regime de responsabilidade do Presidente da República,
+    assinale a alternativa correta.
+ a)     O ato do Presidente da República que atenta contra o livre exercício do Poder
+ Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais das
+ unidades da Federação é considerado crime de responsabilidade.
+ b)    O Presidente ficará suspenso de suas funções nos crimes de responsabilidade somente
+ após a condenação pelo órgão competente.
+ c)    Compete ao Congresso Nacional processar e julgar o Presidente da República nos
+ crimes de responsabilidade.
+ d) Só se admite acusação contra o Presidente da República por três quintos da Câmara dos
+    Deputados.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            90
+        www.estrategiaconcursos.com.br                                                          92
+
+                                      
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 12
+
+                                                 GABARITO
+
+ 1. LETRA C                                                          21. LETRA B
+ 2. LETRA B                                                          22. LETRA A
+ 3. LETRA D                                                          23. LETRA C
+ 4. LETRA D
+                                                                     24. LETRA A
+ 5. LETRA B
+ 6. LETRA E                                                          25. LETRA C
+ 7. LETRA A                                                          26. LETRA A
+ 8. LETRA B                                                          27. LETRA C
+ 9. LETRA E                                                          28. LETRA D
+ 10. LETRA A                                                         29. LETRA D
+ 11. LETRA C                                                         30. LETRA E
+ 12. LETRA A                                                         31. LETRA B
+ 13. LETRA E                                                         32. LETRA E
+ 14. LETRA B                                                         33. LETRA A
+ 15. LETRA E                                                         34. LETRA E
+ 16. LETRA C                                                         35. LETRA C
+ 17. LETRA E                                                         36. LETRA D
+ 18. LETRA C                                                         37. LETRA C
+ 19. LETRA D                                                         38. LETRA A
+ 20. LETRA A
+
+      Receita Federal (Analista Tributário) Direito Constitucional                 91
+      www.estrategiaconcursos.com.br                                               92
+
+                                    
+
+
+---
+
+---

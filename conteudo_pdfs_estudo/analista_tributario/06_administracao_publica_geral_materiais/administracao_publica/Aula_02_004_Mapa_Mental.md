@@ -1,0 +1,165 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 02_004_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '02'
+titulo_aula: REFORMA ADMINISTRATIVA DE 1930
+---
+
+# REFORMA ADMINISTRATIVA DE 1930
+
+REFORMA ADMINISTRATIVA DE 1930
+
+                                                                                                      FOI BASEADA EM 3 EIXOS
+                           ❑ ELIMINAR A DESORGANIZAÇÃO ADMINISTRATIVA.
+                           ❑ COMBATER O CLIENTELISMO.                                              ❑ ADMINISTRAÇÃO PÚBLICA.
+  OBJETIVOS                ❑ COMBATER O PATRIMONIALISMO.                                           ❑ ADMINISTRAÇÃO DE PESSOAL.
+                           ❑ BUSCAR MAIOR EFICIÊNCIA NA MÁQUINA PÚBLICA.                           ❑ ADMINISTRAÇÃO DE MATERIAIS.
+
+ CRIAÇÃO DO DASP (DEPARTAMENTO                               DEFINIÇÃO: É O ÓRGÃO CENTRAL ENCARREGADO DE REALIZAR AS REFORMAS
+ADMINISTRATIVO DO SERVIÇO PÚBLICO)                           NA ERA VARGAS.
+
+                                    ❑ MODERNIZAR A ADMINISTRAÇÃO PÚBLICA.
+          OBJETIVOS:                ❑ SUPRIMIR O MODELO PATRIMONIALISTA.
+
+                                    ❑ FOI CRIADO EM 1936 (OU 1938).
+                                       ▪ ALGUMAS BANCAS CONSIDERAM 1936, ENQUANTO OUTRAS, 1938. CONSIDERE AMBOS OS ANOS
+                                         CORRETOS EM PROVAS.
+        CARACTERÍSTICAS:
+                                    ❑ FOI A PRIMEIRA TENTATIVA DE IMPLANTAR O MODELO BUROCRÁTICO NO BRASIL.
+                                    ❑ DAVA MAIOR ENFOQUE ÀS ATIVIDADES-MEIO.
+                                    ❑ INSTITUIU O CONCURSO PÚBLICO.
+
+                                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+DEFINIÇÃO: REFORMA REALIZADA DURANTE O GOVERNO JK COM O INTUITO DE REALIZAR UMA DESCENTRALIZAÇÃO ADMINISTRATIVA.
+
+
+                                             ❑ REALIZAR DESCENTRALIZAÇÃO ADMINISTRATIVA.
+                                             ❑ SUPERAR A RIGIDEZ DO MODELO BUROCRÁTICO.                OBJETIVOS
+                                             ❑ CONFERIR MAIOR EFICIÊNCIA À MÁQUINA PÚBLICA.
+
+
+                        ❑ PRIMEIRA TENTATIVA DE IMPLANTAÇÃO DO MODELO GERENCIAL NO BRASIL.
+                        ❑ CRIAÇÃO DE ENTIDADES DA ADMINISTRAÇÃO INDIRETA.
+                        ❑ DESCENTRALIZAÇÃO DAS ATIVIDADES PARA A ADMINISTRAÇÃO INDIRETA.
+                                                                                                    CARACTERÍSTICAS
+                        ❑ MAIOR CENTRALIZAÇÃO E RIGIDEZ NA ADMINISTRAÇÃO DIRETA.
+
+
+                                                                            A REFORMA DE 1967 - DECRETO-LEI N.° 200/67
+
+                                                                  ❑ PLANEJAMENTO.
+                                                                  ❑ COORDENAÇÃO.
+                                                                                                 OS SEGUINTES PRINCÍPIOS
+                                                                  ❑ DESCENTRALIZAÇÃO.
+                                                                                                SÃO EXPRESSOS NO DECRETO
+                                                                  ❑ DELEGAÇÃO DE COMPETÊNCIA.
+                                                                  ❑ CONTROLE.
+
+           ❑ INCENTIVO AO PATRIMONIALISMO POR MEIO DA CONTRATAÇÃO SEM CONCURSOS PÚBLICOS.
+           ❑ FALTA DE PREOCUPAÇÃO COM A ADMINISTRAÇÃO DIRETA.                                         DISFUNÇÕES
+           ❑ EXCESSIVA EXPANSÃO DA ADMINISTRAÇÃO INDIRETA.
+
+                                                                                                                   ADMINISTRAÇÃO PÚBLICA
+                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                    GRANDE AVANÇO NO SENTIDO DE ASSEGURAR DIREITOS E GARANTIAS FUNDAMENTAIS.
+
+     CONSTITUIÇÃO FEDERAL DE 1988
+
+                                    MAS TROUXE CONSEQUÊNCIAS NEGATIVAS PARA A GESTÃO DA ADMINISTRAÇÃO PÚBLICA.
+
+                                    ❑ CENTRALIZAÇÃO ADMINISTRATIVA E DESCENTRALIZAÇÃO POLÍTICA.
+                                    ❑ PERDA DA AUTONOMIA DO PODER EXECUTIVO PARA ESTRUTURAR ÓRGÃOS PÚBLICOS.
+                                    ❑ REDUÇÃO DA FLEXIBILIDADE E AUTONOMIA DA ADMINISTRAÇÃO INDIRETA.
+           CARACTERÍSTICAS          ❑ AUTARQUIAS E FUNDAÇÕES PASSAM A SEGUIR REGRAS BUROCRÁTICAS E RÍGIDAS.
+                                    ❑ OBRIGATORIEDADE DO REGIME JURÍDICO ÚNICO PARA OS SERVIDORES CIVIS.
+                                    ❑ CRIOU GRANDES PRIVILÉGIOS PARA SERVIDORES.
+
+O RETROCESSO ADMINISTRATIVO DE 1988
+                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+    DEFINIÇÃO: REFORMA REALIZADA DURANTE O GOVERNO FHC COM O INTUITO DE TORNAR A ADMINISTRAÇÃO PÚBLICA MAIS EFICIENTE
+    E MAIS VOLTADA PARA A CIDADANIA.
+
+    HÁ GRANDE INFLUÊNCIA DO PARADIGMA GERENCIAL.
+
+
+                        PDRAE
+                                                                                                            DIRETRIZES
+(PLANO DIRETOR DE REFORMA DO APARELHO DO ESTADO - 1995)
+
+                 REFORMA REALIZADA A PARTIR DA CF/88.                              INSTITUCIONALIZAÇÃO
+
+
+                         BUSCA AUMENTAR A EFICIÊNCIA.
+                                                                                       RACIONALIZAÇÃO
+                                    CORTE DE GASTOS.
+
+             OFERECE MAIOR AUTONOMIA AOS GESTORES.
+                               CONTROLE A POSTERIORI.                                    FLEXIBILIZAÇÃO
+                              ÊNFASE NOS RESULTADOS.
+
+          TRANSFERÊNCIA DE ATIVIDADES NÃO-EXCLUSIVAS.
+                                                                                             PUBLICIZAÇÃO
+              TERCEIRO SETOR ASSUME ESSAS ATIVIDADES.
+                                       PRIVATIZAÇÃO.
+                                      TERCEIRIZAÇÃO.                                    DESESTATIZAÇÃO
+                                DESREGULAMENTAÇÃO.                                                             ADMINISTRAÇÃO PÚBLICA
+                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                    ❑ DESCENTRALIZAÇÃO DOS SERVIÇOS SOCIAIS PARA ESTADOS E MUNICÍPIOS.
+                                    ❑ DELIMITAÇÃO MAIS PRECISA DA ÁREA DE ATUAÇÃO DO ESTADO.
+                                    ❑ DISTINÇÃO ENTRE AS ATIVIDADES DO NÚCLEO ESTRATÉGICO E AS ATIVIDADES DE SERVIÇOS.
+              OBJETIVOS             ❑ SEPARAÇÃO ENTRE A FORMULAÇÃO DE POLÍTICAS E SUA EXECUÇÃO.
+                                    ❑ MAIOR AUTONOMIA PARA AS ATIVIDADES EXECUTIVAS EXCLUSIVAS DO ESTADO.
+                                    ❑ MAIOR AUTONOMIA AINDA PARA OS SERVIÇOS SOCIAIS E CIENTÍFICOS QUE O ESTADO PRESTA.
+
+                         PDRAE                                                                         EXISTEM 4 SETORES
+ (PLANO DIRETOR DE REFORMA DO APARELHO DO ESTADO - 1995)                                            IDENTIFICADOS NO PDRAE
+
+                          ❑ ONDE AS DECISÕES ESTRATÉGICAS SÃO TOMADAS.
+                          ❑ DEFINE AS LEIS E AS POLÍTICAS PÚBLICAS.
+  NÚCLEO ESTRATÉGICO      ❑ O REGIME DE PROPRIEDADE É O PÚBLICO ESTATAL.
+                          ❑ CORRESPONDE AOS PODERES LEGISLATIVO, JUDICIÁRIO E EXECUTIVO.
+                          ❑ AO CONTRÁRIO DOS DEMAIS SETORES, DEVERIA HAVER COEXISTÊNCIA DA ADMINISTRAÇÃO BUROCRÁTICA COM A GERENCIAL.
+
+                          ❑ SETOR ONDE SÃO PRESTADOS SERVIÇOS QUE SOMENTE O ESTADO PODE REALIZAR (PODER EXTROVERSO).
+ ATIVIDADES EXCLUSIVAS    ❑ SÃO REALIZADAS AS ATIVIDADES DE FISCALIZAÇÃO, REGULAMENTAÇÃO E FOMENTO.
+                          ❑ O REGIME DE PROPRIEDADE É O PÚBLICO ESTATAL.
+
+                          ❑ NESTE SETOR OCORRE A PUBLICIZAÇÃO
+SERVIÇOS NÃO EXCLUSIVOS   ❑ SETOR ONDE O ESTADO ATUA SIMULTANEAMENTE COM OUTRAS ORGANIZAÇÕES PÚBLICAS NÃO-ESTATAIS E PRIVADAS.
+                          ❑ O REGIME DE PROPRIEDADE É O PÚBLICO NÃO-ESTATAL.
+
+                          ❑ ÁREA DE ATUAÇÃO DAS EMPRESAS.
+  PRODUÇÃO DE BENS E      ❑ CARACTERIZADA PELAS ATIVIDADES ECONÔMICAS VOLTADAS PARA O LUCRO.
+SERVIÇOS PARA O MERCADO   ❑ O REGIME DE PROPRIEDADE DEVERIA SER O PRIVADO.
+                          ❑ NESTE SETOR DEVE OCORRER A PRIVATIZAÇÃO.                                                   ADMINISTRAÇÃO PÚBLICA
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---

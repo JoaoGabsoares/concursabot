@@ -1,0 +1,623 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_012_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: TRANSPORTE E DISTRIBUIÇÃO
+---
+
+# TRANSPORTE E DISTRIBUIÇÃO
+
+---
+
+---
+
+TRANSPORTE E DISTRIBUIÇÃO
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - V
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/EBSERH HC-UFU/Analista Administrativo/2020) A modalidade de transporte
+     que tem por característica ser um transportador de longo curso e de baixa velocidade para
+     matérias-primas e para produtos manufaturados de baixo custo e que, regularmente, move
+     cargas completas é o meio:
+     a) aéreo apenas.
+     b) rodoviário.
+     c) dutoviário apenas.
+     d) aquaviário apenas.
+     e) ferroviário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/EBSERH HC-UFU/Analista Administrativo/2020) A modalidade de transporte
+     que tem por característica ser um transportador de longo curso e de baixa velocidade para
+     matérias-primas e para produtos manufaturados de baixo custo e que, regularmente, move
+     cargas completas é o meio:
+     a) aéreo apenas.
+     b) rodoviário.
+     c) dutoviário apenas.         O enunciado se refere a um modal aplicado a transportes de longas distâncias e de baixa
+                                   velocidade, indicado para matérias primas ou produtos de baixo custo. A questão pode
+     d) aquaviário apenas.         gerar alguma discussão pois as características, de modo genérico, podem se aplicar
+     e) ferroviário.               também ao transporte aquaviário, porém, como a alternativa "d" traz a restrição "apenas"
+                                   ao modal aquaviário, devemos ficar mesmo com o modal ferroviário da alternativa "e".
+     GABARITO - E                  Vejamos as principais características do modal ferroviário:
+                                            •    Transporte de longo curso (distância) e baixa velocidade.
+                                            •    Indicado para transportes de matérias-primas (carvão, madeira, produtos químicos)
+                                                 e produtos manufaturados de baixo custo (alimentos, papel e produtos florestais).
+                                            •    Grande gasto de tempo nas operações de carga e descarga.
+                                            •    O movimento ferroviário é principalmente de carga completa, a qual é mais barata
+                                                 que a fracionada.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Modais de Transporte
+       Resumo para a prova!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) Na escolha dos meios de
+     transporte, deve-se estudar todas as rotas possíveis e quais as opções mais vantajosas. Os
+     transportes rodoviário, ferroviário e dutoviário são classificados como:
+     a) um modal de transporte.
+     b) os modais de transporte.
+     c) a estrutura física nacional.
+     d) as variedades de veículos motores.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) Na escolha dos meios de
+     transporte, deve-se estudar todas as rotas possíveis e quais as opções mais vantajosas. Os
+     transportes rodoviário, ferroviário e dutoviário são classificados como:
+     a) um modal de transporte.
+     b) os modais de transporte.
+     c) a estrutura física nacional.
+     d) as variedades de veículos motores.
+     GABARITO - A
+
+
+      Os transportes rodoviário, ferroviário e dutoviário são classificados
+      como modais de transporte, ou seja, cada um deles é um modal de
+      transporte, como traz a alternativa da questão.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     03. (INSTITUTO AOCP/IBGE/Analista/2019) Analise as seguintes descrições dos modais utilizados no mercado nacional e
+     assinale a alternativa que relaciona corretamente o nome à descrição apresentada.
+     1. Apesar de ser um transporte caro, sua vantagem se dá por sua velocidade, principalmente em longas distâncias, sem
+     calcular o tempo de coleta e entrega e também o manuseio no solo. Sua vantagem em termos de perdas e danos é
+     bastante segura.
+     2. A disponibilidade e a confiabilidade são fortemente influenciadas pelas condições meteorológicas. Além de manusear
+     mercadorias a granel, esse meio de transporte também leva bens de alto valor, principalmente operadores internacionais,
+     que costumam transportar em contêineres.
+     3. É um sistema de transporte lento, de matérias-primas ou manufaturados, porém de baixo valor para longas distâncias.
+     4. É um serviço de rotas curtas de produtos acabados ou semiacabados, oferecendo entregas razoavelmente mais
+     rápidas e confiáveis de cargas parceladas. Assim, é o sistema mais competitivo no mercado de pequenas cargas.
+     5. Sua movimentação é bastante lenta, mas a lentidão é compensada pelas 24 horas por dia de trabalho sem descanso.
+     Fatores meteorológicos não são significativos, envolvendo elevado custo de capital e baixo custo operacional.
+     a) 1 – Aeroviário; 2 - Hidroviário; 3 – Rodoviário; 4 – Ferroviário; 5 – Dutoviário.
+     b) 1 – Aeroviário; 2 - Hidroviário; 3 – Ferroviário; 4 – Rodoviário; 5 – Dutoviário.
+     c) 1 – Rodoviário; 2 - Hidroviário; 3 – Ferroviário; 4 – Aeroviário; 5 – Dutoviário.
+     d) 1 – Dutoviário; 2 - Hidroviário; 3 – Ferroviário; 4 – Aeroviário; 5 – Rodoviário.
+     e) 1 – Aeroviário; 2 - Rodoviário; 3 – Ferroviário; 4 – Dutoviário; 5 – Hidroviário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Modais de Transporte
+       Resumo para a prova!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (INSTITUTO AOCP/IBGE/Analista/2019) Analise as seguintes descrições dos modais utilizados no mercado nacional e
+     assinale a alternativa que relaciona corretamente o nome à descrição apresentada.
+     1. Apesar de ser um transporte caro, sua vantagem se dá por sua velocidade, principalmente em longas distâncias, sem
+     calcular o tempo de coleta e entrega e também o manuseio no solo. Sua vantagem em termos de perdas e danos é
+     bastante segura.
+     2. A disponibilidade e a confiabilidade são fortemente influenciadas pelas condições meteorológicas. Além de manusear
+     mercadorias a granel, esse meio de transporte também leva bens de alto valor, principalmente operadores internacionais,
+     que costumam transportar em contêineres.
+     3. É um sistema de transporte lento, de matérias-primas ou manufaturados, porém de baixo valor para longas distâncias.
+     4. É um serviço de rotas curtas de produtos acabados ou semiacabados, oferecendo entregas razoavelmente mais
+     rápidas e confiáveis de cargas parceladas. Assim, é o sistema mais competitivo no mercado de pequenas cargas.
+     5. Sua movimentação é bastante lenta, mas a lentidão é compensada pelas 24 horas por dia de trabalho sem descanso.
+     Fatores meteorológicos não são significativos, envolvendo elevado custo de capital e baixo custo operacional.
+     a) 1 – Aeroviário; 2 - Hidroviário; 3 – Rodoviário; 4 – Ferroviário; 5 – Dutoviário.
+     b) 1 – Aeroviário; 2 - Hidroviário; 3 – Ferroviário; 4 – Rodoviário; 5 – Dutoviário.
+     c) 1 – Rodoviário; 2 - Hidroviário; 3 – Ferroviário; 4 – Aeroviário; 5 – Dutoviário.
+     d) 1 – Dutoviário; 2 - Hidroviário; 3 – Ferroviário; 4 – Aeroviário; 5 – Rodoviário.
+     e) 1 – Aeroviário; 2 - Rodoviário; 3 – Ferroviário; 4 – Dutoviário; 5 – Hidroviário.
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRO AC/Analista/2019) A respeito das características das modalidades de
+     transporte e da estrutura para distribuição, julgue o item. O transporte ferroviário possui
+     como desvantagem a necessidade reduzida de transbordo, embora apresente um menor
+     custo.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Ferroviário
+       Pouca flexibilidade, custo reduzido e baixa velocidade
+     ❑ O transporte ferroviário utiliza a malha ferroviária disponível no país e essa é justamente uma de suas maiores
+       limitações quando comparado ao transporte rodoviário e os milhões de quilômetros de estradas.
+
+     ❑ No transporte ferroviário a tração pode ser elétrica, a diesel ou a vapor e os vagões podem ter várias estruturas e
+       formatos com o objetivo de abrigar diferentes tipos de cargas sólidas, a granel ou líquidas.
+
+     ❑ Principais características do transporte ferroviário:
+
+       •      Custo reduzido em relação ao rodoviário pelo grande número de vagões de uma única composição.
+
+       •      Velocidade homogênea e, geralmente, mais baixa.
+
+       •      Traçado pré-fixado (ferrovias), com maior limitação que o deslocamento rodoviário.
+
+       •      Menor flexibilidade de embarque/desembarque, limitados aos terminais ferroviários.
+
+       •      Destinado a cargas de maior volume e grande peso, porém, com prazos de entrega mais amplos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRO AC/Analista/2019) A respeito das características das modalidades de
+     transporte e da estrutura para distribuição, julgue o item. O transporte ferroviário possui
+     como desvantagem a necessidade reduzida de transbordo, embora apresente um menor
+     custo.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+       Ao contrário, o transporte ferroviário apresenta alta necessidade de
+       transbordo visto que opera em circuitos limitados pela existência de
+       estradas de ferro (trilhos) e estações ferroviárias. Dessa forma, é muito
+       comum o material ser transportado até determinado local abrangido pela
+       estrada de ferro e, dali em diante, ser transbordado para o modal rodoviário
+       que vai até o destinatário usando as estradas disponíveis.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRO AC/Analista/2019) A respeito das características das modalidades de
+     transporte e da estrutura para distribuição, julgue o item. O transporte rodoviário
+     apresenta grande competitividade para o transporte de cargas dispersas e para curtas
+     distâncias.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Rodoviário
+       “Monopólio”, flexível e custos relativos elevados
+     ❑ Hoje temos praticamente um monopólio do transporte rodoviário no país. Cerca de 70% de toda a carga gerada
+       no país é transportada por este modal, enquanto as ferrovias movimentam cerca de 15%, a cabotagem próximo
+       de 10% e a aviação 1%.
+
+     ❑ É representado pelo transporte de cargas que utiliza estradas e rodovias para levar os produtos acabados do
+       depósito da empresa até o cliente que os adquiriu.
+
+     ❑ Como principais características do transporte rodoviário temos:
+
+      •      Modal mais flexível. Caminhão pode entrar ou sair do depósito da empresa e chegar até ao cliente
+             diretamente. É o chamado transporte porta a porta ou "door to door (D2D)".
+
+      •      Custos operacionais elevados. Cada veículo leva quantidade limitada de carga e requer um motorista e,
+             as vezes, um ajudante.
+
+      •      Dependência da infraestrutura disponível e impacto nos custos: condição das estradas, pagamento de
+             pedágios, combustíveis, riscos de assaltos e roubos, etc.
+
+      •      Destinado a volumes menores ou cargas com prazos de entrega relativamente curtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRO AC/Analista/2019) A respeito das características das modalidades de
+     transporte e da estrutura para distribuição, julgue o item. O transporte rodoviário
+     apresenta grande competitividade para o transporte de cargas dispersas e para curtas
+     distâncias.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+     O transporte rodoviário é mesmo sempre o mais indicado para cargas dispersas e curtas
+     distâncias justamente pela sua flexibilidade. É o modal correto, por exemplo, para
+     pequenas entregas em áreas urbanas, inacessíveis pelos demais modais. Por outro lado, é
+     um modal restrito a volumes menores e de custo relativo mais alto que alguns dos demais
+     modais. Veja a definição do modal adotado por algumas bancas: É um serviço de rotas
+     curtas de produtos acabados ou semiacabados, oferecendo entregas razoavelmente mais
+     rápidas e confiáveis de cargas parceladas. Assim, é o sistema mais competitivo no mercado
+     de pequenas cargas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     06. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Analise as
+     afirmações a seguir.
+     I. Modal de transporte lento.
+     II. Modal utilizado para o transporte de matérias-primas ou manufaturados de baixo valor.
+     III. Nesse modal, as vias de transporte são as ferrovias.
+     Marque a opção CORRETA que evidencia o modal ao qual as afirmações se referem.
+     a) Modal dutoviário.
+     b) Modal aeroviário.
+     c) Modal aquaviário.
+     d) Modal rodoviário.
+     e) Modal ferroviário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Analise as
+     afirmações a seguir.
+     I. Modal de transporte lento.
+     II. Modal utilizado para o transporte de matérias-primas ou manufaturados de baixo valor.
+     III. Nesse modal, as vias de transporte são as ferrovias.
+     Marque a opção CORRETA que evidencia o modal ao qual as afirmações se referem.
+     a) Modal dutoviário.
+     b) Modal aeroviário.        I. Modal de transporte lento -> de forma genérica é
+     c) Modal aquaviário.             uma característica dos modais aquaviário e
+                                      ferroviário.
+     d) Modal rodoviário.        II. Modal utilizado para o transporte de matérias-primas
+     e) Modal ferroviário.            ou manufaturados de baixo valor -> essa é uma
+                                      característica que se aplica especialmente ao modal
+     GABARITO - E                     ferroviário.
+                                            III. Nesse modal, as vias de transporte são as ferrovias. -
+                                                 > aqui não temos mais dúvidas que estamos falando
+                                                 do modal ferroviário...
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     07. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Analise as afirmações a
+     seguir.
+     I. Modal mais adequado para a entrega de produtos porta a porta.
+     II. Modal utilizado para o transporte de produtos acabados ou semiacabados.
+     III. Nesse modal, as vias de transporte são as rodovias.
+     Marque a opção CORRETA que evidencia o modal ao qual as afirmações se referem.
+     a) Modal dutoviário.
+     b) Modal aeroviário.
+     c) Modal aquaviário.
+     d) Modal rodoviário.
+     e) Modal ferroviário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Analise as afirmações a
+     seguir.
+     I. Modal mais adequado para a entrega de produtos porta a porta.
+     II. Modal utilizado para o transporte de produtos acabados ou semiacabados.
+     III. Nesse modal, as vias de transporte são as rodovias.
+     Marque a opção CORRETA que evidencia o modal ao qual as afirmações se referem.
+     a) Modal dutoviário.
+     b) Modal aeroviário.             I. Modal mais adequado para a entrega de produtos porta a porta. - Ao se
+                                           referir a entrega porta a porta a banca está claramente se referindo à
+     c) Modal aquaviário.                  flexibilidade do modal rodoviário. Não há como qualquer outro modal
+     d) Modal rodoviário.                  realizar esse tipo de serviço.
+     e) Modal ferroviário.            II. Modal  utilizado para o transporte de produtos acabados ou semiacabados.
+                                           - o modal rodoviário é adequado ao transporte de produtos acabados
+     GABARITO - D                          ou semi acabados e de valor agregado mais alto que matérias primas.
+                                            III. Nesse modal, as vias de transporte são as rodovias. - aqui fica ainda mais
+                                                  claro que o modal em questão é o modal rodoviário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     08. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Analise as
+     afirmações a seguir.
+     I. Modal limitado ao que pode transportar (serviços). Geralmente transporta petróleo bruto
+     e seus derivados.
+     II. A movimentação de seus produtos é bastante lenta.
+     III. Nesse modal, existem poucas interrupções para causarem variabilidade nos tempos de
+     entrega.
+     Marque a opção CORRETA que evidencia o modal ao qual as afirmações se referem.
+     a) Modal dutoviário.
+     b) Modal aeroviário.
+     c) Modal aquaviário.
+     d) Modal rodoviário.
+     e) Modal ferroviário.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Analise as
+     afirmações a seguir.
+     I. Modal limitado ao que pode transportar (serviços). Geralmente transporta petróleo bruto
+     e seus derivados.
+     II. A movimentação de seus produtos é bastante lenta.
+     III. Nesse modal, existem poucas interrupções para causarem variabilidade nos tempos de
+     entrega.
+     Marque a opção CORRETA que evidencia o modal ao qual as afirmações se referem.
+     a) Modal dutoviário.
+     b) Modal aeroviário.            I. Modal limitado ao que pode transportar (serviços). Geralmente
+                                          transporta petróleo bruto e seus derivados. - o modal mais indicado
+     c) Modal aquaviário.                 ao transporte de petróleo e seus derivados é o dutoviário.
+                                     II. A movimentação de seus produtos é bastante lenta. - o modal
+     d) Modal rodoviário.                 dutoviário de fato transporte os seus produtos em baixa velocidade
+     e) Modal ferroviário.                porém, compensada pelo trabalho ininterrupto (24/7) e pelos
+                                          grandes volumes transportados por meio dos dutos disponibilizados.
+     GABARITO - A                    III. Nesse modal, existem poucas interrupções para causarem
+                                                variabilidade nos tempos de entrega. - o modal dutoviário realmente
+                                                sofre muito pouca interferências de fatores externos, inclusive o fator
+                                                meteorológico.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Dutoviário
+       Elevado custo inicial, baixo custo operacional e confiável!
+
+     ❑ O transporte por meio de dutos ou tubos, só é indicado para certos materiais como,
+       por exemplo, o petróleo e o gás.
+     ❑ Principais características do transporte dutoviário:
+
+       •      Elevados investimentos iniciais.
+       •      Elevado custo de capital.
+       •      Baixos custos operacionais.
+       •      Indicado apenas para materiais específicos, ao contrário dos demais modais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FAU UNICENTRO/IF PR/Professor/2019) Na escolha do modal mais adequado ao
+     transporte dos produtos, é necessário estudar as rotas possíveis, verificando os modais
+     mais vantajosos em cada percurso. Deve-se considerar critérios como custo, capacidade de
+     transporte, natureza da carga, versatilidade, segurança e rapidez. Os transportes são
+     classificados de acordo com a modalidade em terrestre, aquaviário e aéreo. Referindo-se a
+     forma do transporte, é CORRETO afirmar EXCETO:
+     a) Modal ou unimodal quando envolve apenas uma modalidade.
+     b) Intermodal quando envolve mais de uma modalidade e para cada trecho/modal é
+     realizado um contrato.
+     c) Multimodal quando envolve mais de uma modalidade e regido por vários contratos.
+     d) Segmentados quando envolve diversos contratos para diversos modais.
+     e) Sucessivos quando a mercadoria, para alcançar o destino final, precisa ser
+     transbordada para prosseguimentos em veículo de mesma modalidade de transporte
+     (regido por único contrato).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Intermodalidade x
+       Multimodalidade
+       Lembre-se novamente da principal diferença entre a intermodalidade (integração
+       física) e da multimodalidade (integração física, documental e de responsabilidade no
+       transporte). Vejamos:
+
+       Intermodalidade - emissão individual de documento de transporte para cada modal,
+       bem como pela divisão de responsabilidade entre os transportadores.
+
+       Multimodalidade - emissão de apenas um documento de transporte, cobrindo o
+       trajeto total da carga, do seu ponto de origem até o ponto de destino.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FAU UNICENTRO/IF PR/Professor/2019) Na escolha do modal mais adequado ao
+     transporte dos produtos, é necessário estudar as rotas possíveis, verificando os modais
+     mais vantajosos em cada percurso. Deve-se considerar critérios como custo, capacidade de
+     transporte, natureza da carga, versatilidade, segurança e rapidez. Os transportes são
+     classificados de acordo com a modalidade em terrestre, aquaviário e aéreo. Referindo-se a
+     forma do transporte, é CORRETO afirmar EXCETO:
+     a) Modal ou unimodal quando envolve apenas uma modalidade.
+     b) Intermodal quando envolve mais de uma modalidade e para cada trecho/modal é
+     realizado um contrato.
+     c) Multimodal quando envolve mais de uma modalidade e regido por vários contratos.
+     d) Segmentados quando envolve diversos contratos para diversos modais.
+     e) Sucessivos quando a mercadoria, para alcançar o destino final, precisa ser
+     transbordada para prosseguimentos em veículo de mesma modalidade de transporte
+     (regido por único contrato).
+     GABARITO - C
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (FAPESE/UFS/Assistente em Administração/2018) O transporte aquaviário envolve
+     todos os tipos de transporte efetuado sobre a água. Incluí o transporte fluvial e lacustre
+     (aquaviário interior) e o transporte marítimo. Como pode ser dividido o transporte
+     marítimo:
+     a) Transporte marítimo de longo curso e navegação de cabotagem.
+     b) Transporte marítimo primário e transporte marítimo secundário.
+     c) Transporte interoceânico e transporte litorâneo.
+     d) Transporte de navios e transporte de embarcações de médio porte.
+     e) Transporte de grande cabotagem e transporte de pequena cabotagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Aquaviário
+       Divide-se em Marítimo, Fluvial e Lacustre
+
+     ❑ TRANSPORTE MARÍTIMO
+     ✓     Realizado por navios a motor e de grande porte. É classificado em diferentes categorias de acordo com sua
+           finalidade como a cabotagem (navegação nacional) e longo curso (internacional). Os navios utilizados para o
+           transporte dos mais diversos tipos de cargas e passageiros têm vários tamanhos e características, de acordo com
+           a necessidade da operação, da carga e dos portos onde atracam.
+     ❑ TRANSPORTE FLUVIAL
+     ✓     O transporte fluvial é realizado em rios e ainda possui utilização muito pequena no país, considerando o potencial
+           de nossas bacias hidrográficas. O grande volume transportado por esse modal refere-se a produtos agrícolas,
+           minérios, derivados de petróleo, álcool, entre outros.
+     ❑ TRANSPORTE LACUSTRE
+     ✓     O modal lacustre tem as mesmas características do fluvial, porém o transporte ocorre em lagos. O modal também
+           é muito pouco utilizado no Brasil e não possui participação relevante no cenário nacional de transporte de cargas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     10. (FAPESE/UFS/Assistente em Administração/2018) O transporte aquaviário envolve
+     todos os tipos de transporte efetuado sobre a água. Incluí o transporte fluvial e lacustre
+     (aquaviário interior) e o transporte marítimo. Como pode ser dividido o transporte
+     marítimo:
+     a) Transporte marítimo de longo curso e navegação de cabotagem.
+     b) Transporte marítimo primário e transporte marítimo secundário.
+     c) Transporte interoceânico e transporte litorâneo.
+     d) Transporte de navios e transporte de embarcações de médio porte.
+     e) Transporte de grande cabotagem e transporte de pequena cabotagem.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,253 @@
+Prof. Jhoni Zini
+
+                   https://t.me/KakashiAssinaturasBot
+ESTIMADORES
+
+
+                                                   Profº Jhoni zini
+
+
+
+
+              https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (FUNSAÚDE CE) /2021
+Planeja-se estimar o parâmetro p de uma distribuição Bernoulli a
+partir de uma amostra aleatória simples. Como sabemos, p é a
+proporção de “sucessos” na população.
+
+Avalie, então, se as afirmativas a seguir, acerca do estimador
+”proporção de sucessos na amostra”, estão corretas.
+
+I. É estimador de máxima verossimilhança.
+
+II. É estimador não tendencioso.
+
+III. É estatística suficiente.
+                             https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (FUNSAÚDE CE) /2021
+Está correto o que se afirma em
+A. I, apenas.
+B. I e II, apenas.
+C. I e III, apenas.
+D. II e III, apenas.
+E. I, II e III.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (FUNSAÚDE CE) /2021
+Uma amostra aleatória simples X1, X2, X3, de tamanho 3, de uma
+população com média µ será obtida.
+Avalie, então, se os seguintes estimadores são não-tendenciosos
+para µ:
+
+I. T1 = X1 + X2 + X3
+
+
+II. T2 = (X1 + X2 + X3)/3
+
+
+III. T3 = X1 – X2 + X3
+                            https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (FUNSAÚDE CE) /2021
+Assinale:
+A. se apenas o estimador T2 é não-tendencioso.
+B. se apenas os estimadores T1 e T2 são não-tendenciosos.
+C. se apenas os estimadores T1 e T3 são não-tendenciosos.
+D. se apenas os estimadores T2 e T3 são não-tendenciosos.
+E. se os estimadores T1, T2 e T3 são não-tendenciosos.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (ALERO)/2018
+Suponha que X 1, X 2, ..., X n seja uma amostra aleatória simples de
+uma variável aleatória populacional qualquer com média μ e
+variância finita. Considere os seguintes estimadores de μ:
+T1=X1
+
+T 2 = X 1 + X 2 + X 3 – X 4 – X 5.
+
+T 3 = (X 1 + X 2 + X 3)/3.
+
+T 4 = X 1 – X 2.
+
+T 5 = (X 1 + X 2 + X 3 + X 4 + X 5)/5.
+                             https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (ALERO)/2018
+São estimadores não tendenciosos de m:
+A. T 1 e T 2, somente.
+B. T 1, T 2 e T 3, somente.
+C. T 1, T 2, T 3 e T 5, somente.
+D. T 2, T 3, T 4 e T 5, somente.
+E. T 1, T 2, T 3, T 4 e T 5,
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (SEPOG RO)/2017
+Uma amostra aleatória simples de tamanho n de uma distribuição
+normal com média μ e variância σ2 será obtida.
+
+Se 𝑋ത e S2 são a média amostral e a variância amostral usuais, avalie
+se as seguintes afirmativas estão corretas.
+
+I. 𝑋ഥ é um estimador não tendencioso de μ.
+
+II. S2 é um estimador não tendencioso de σ2.
+
+III. 𝑋ത e S2 são independentes.
+
+                           https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (SEPOG RO)/2017
+Está correto o que se afirma em
+A. I, apenas.
+B. II, apenas.
+C. I e II, apenas.
+D. I e III, apenas.
+E. I, II e III.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA JUDICIÁRIO (TJ AL) /2018
+Para estimar um determinado parâmetro populacional, estão
+disponíveis os seguintes estimadores cujas estimativas serão obtidas
+através de uma AAS de tamanho n = 3.
+
+    1    2                                                  1    2    4
+𝜃෠ = 𝑋1 + 𝑋2 − 𝑋3                    E                  𝜃෨ = 𝑋1 + 𝑋2 + 𝑋3
+    3      3                                                  7   3   7
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA JUDICIÁRIO (TJ AL) /2018
+Sobre as alternativas disponíveis, é correto afirmar que:
+A. ambos são não tendenciosos;
+B. o estimador 𝜃෠ é mais eficiente do que 𝜃෨
+C. o estimador 𝜃෨ é mais eficiente do que 𝜃෠
+D. a variância de 𝜃෨ é menor do que a variância de 𝜃෠
+E. o estimador subestima o verdadeiro valor de θ
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+  FGV - ANALISTA (ALERO)/2018
+Suponha que X1, X2, ..., Xn seja uma amostra aleatória simples de
+uma variável aleatória populacional qualquer com média μ e
+variância finita. Considere os seguintes estimadores de μ:
+
+T 1 = X1
+
+T 2 = X1 + X2 + X3 – X4 – X5.
+
+T 3 = (X1 + X2 + X3)/3.
+
+T 4 = X1 – X2.
+
+T 5 = (X1 + X2 + X3 + X4 + X5)/5.
+                           https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (ALERO)/2018
+O estimador não tendencioso de variância uniformemente mínima de
+μé
+A. T 1.
+B. T 2.
+C. T 3.
+D. T 4.
+E. T 5.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (ALERO)/2018
+T 1 = X1                      T 2 = X1 + X2 + X3 – X4 – X5.
+
+
+
+
+T 3 = (X1 + X2 + X3)/3.     T 4 = X1 – X2.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (ALERO)/2018
+T 5 = (X1 + X2 + X3 + X4 + X5)/5.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (IBGE) /2017
+Para estimar a média de certa população μ, desconhecida, partindo
+apenas de duas observações amostrais, cogita-se o emprego de um
+dos seguintes estimadores, onde X1 e X2 representam os indivíduos
+da amostra ex ante.
+
+    2    1                                                       2    4
+𝜃෠ = 𝑋1 + 𝑋2            E                                    𝜃෨ = 𝑋1 + 𝑋2
+    3      3                                                    7    7
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+ FGV - ANALISTA (IBGE) /2017
+Sobre os estimadores, é correto afirmar que:
+A. o estimador 𝜃෨ é mais eficiente do que 𝜃;
+                                           ෠
+
+B. o estimador 𝜃෨ subestima, em média, o valor verdadeiro de μ;
+
+                        ෠ T(𝜃)
+C. a tendenciosidade de 𝜃,  ෠ é igual a ;
+
+                                        20
+                              ෨      ෨
+D. o Erro Quadrático Médio de 𝜃, EQM(𝜃), . 𝜎 2
+                                                              49
+
+                            ෨ é igual −𝜇 .
+                        ෨ T(𝜃),
+E. a tendenciosidade de 𝜃,
+                                                          7
+
+
+                         https://t.me/KakashiAssinaturasBot
+ FGV - CONSULTOR (SEFAZ ES) /2022
+Uma amostra aleatória simples de tamanho 4 de uma população
+normalmente distribuída forneceu os seguintes dados:
+
+2,1 3,8 3,1 3,0
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+ FGV - CONSULTOR (SEFAZ ES) /2022
+As estimativas de máxima verossimilhança da média e da variância
+populacionais são respectivamente
+
+A. 3,0 e 0,486.
+B. 2,8 e 0,386.
+C. 2,8 e 0,535.
+D. 3,0 e 0,544.
+E. 3,0 e 0,365.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

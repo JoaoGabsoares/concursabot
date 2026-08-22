@@ -1,0 +1,351 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 11_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: DIREITO PREVIDENCIÁRIO
+artigos_citados:
+- Art. 168-A.
+- Art. 313-A.
+- Art. 337-A.
+---
+
+# DIREITO PREVIDENCIÁRIO
+
+---
+
+---
+
+DIREITO PREVIDENCIÁRIO
+
+                                            Prof. Rubens Mauricio
+
+       
+
+
+---
+
+ Rubens Maurício
+@profrubensmauricio
+Previdenciário Diagramado
+Prof. Rubens Maurício
+
+                                                             Prof. Rubens Mauricio
+
+                        
+
+
+---
+
+QUESTÕES DE PROVAS ANTERIORES
+CRIMES CONTRA A SEGURIDADE SOCIAL
+PARTE 2
+
+                                                 Prof. Rubens Mauricio
+
+            
+
+
+---
+
+        Questões de provas anteriores
+  11. (TRT – Juiz do Trabalho – TRT 8ª Região - 2014) (Adaptada).
+  No que diz respeito à apropriação indébita previdenciária, a
+  conduta do agente que deixar de repassar à previdência social as
+  contribuições recolhidas dos contribuintes, no prazo e forma legal
+  ou convencional, é CORRETO afirmar que:
+  É extinta a punibilidade se o agente, compelido judicialmente,
+  efetua o pagamento das contribuições, importâncias ou valores e
+  presta as informações devidas à previdência e à assistência social,
+  na forma definida em lei ou regulamento, antes ou depois do
+  início da ação fiscal.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                            
+
+
+---
+
+        Questões de provas anteriores
+  Art. 168-A.(...)
+   (...)
+  § 2º É extinta a punibilidade se o agente, espontaneamente, declara,
+  confessa e efetua o pagamento das contribuições, importâncias ou
+  valores e presta as informações devidas à previdência social, na
+  forma definida em lei ou regulamento, antes do início da ação fiscal.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                             
+
+
+---
+
+        Questões de provas anteriores
+  12. (CESPE - Delegado - Polícia Federal – 2013).
+  José abriu uma pequena padaria no bairro onde reside e contratou dez
+  funcionários. Durante os primeiros seis meses de funcionamento do
+  estabelecimento comercial, José arrecadou as contribuições previdenciárias
+  de seus empregados, descontando-as das respectivas remunerações, mas
+  não recolheu esses valores aos cofres da previdência social. Com base nessa
+  situação hipotética e na legislação relativa aos crimes contra a previdência
+  social, julgue o item subsequente.
+  Se, até antes do início da ação fiscal, José confessar a dívida e efetuar
+  espontaneamente o pagamento integral dos valores devidos, prestando as
+  devidas informações ao órgão da previdência social, a punibilidade de sua
+  conduta poderá ser extinta.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                               
+
+
+---
+
+        Questões de provas anteriores
+  Art. 168-A. (...)
+  (...)
+  § 2o É extinta a punibilidade se o agente, espontaneamente, declara,
+  confessa e efetua o pagamento das contribuições, importâncias ou
+  valores e presta as informações devidas à previdência social, na forma
+  definida em lei ou regulamento, antes do início da ação fiscal.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                             
+
+
+---
+
+        Questões de provas anteriores
+  13. (CESPE - Delegado - Polícia Federal – 2013).
+  José abriu uma pequena padaria no bairro onde reside e contratou dez
+  funcionários. Durante os primeiros seis meses de funcionamento do
+  estabelecimento comercial, José arrecadou as contribuições previdenciárias
+  de seus empregados, descontando-as das respectivas remunerações, mas
+  não recolheu esses valores aos cofres da previdência social.
+  Com base nessa situação hipotética e na legislação relativa aos crimes
+  contra a previdência social, julgue o item subsequente.
+  Ainda que não tivesse descontado das remunerações de seus empregados
+  os valores relativos às contribuições previdenciárias, José responderia pela
+  prática do delito de apropriação indébita previdenciária.
+
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                               
+
+
+---
+
+        Questões de provas anteriores
+  Art. 168-A. Deixar de repassar à previdência social as contribuições
+  recolhidas dos contribuintes, no prazo e forma legal ou
+  convencional:
+  Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+  § 1º Nas mesmas penas incorre quem deixar de:
+  I – recolher, no prazo legal, contribuição ou outra importância destinada
+  à previdência social que tenha sido descontada de pagamento
+  efetuado a segurados, a terceiros ou arrecadada do público;
+  (...)
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                              
+
+
+---
+
+        Questões de provas anteriores
+  14. (VUNESP - Controlador Interno – IPRESB/ SP – 2017)
+  (Adaptada).
+  Com relação aos crimes contra a Previdência, é correto
+  afirmar que a Lei n° 9.983/2000 dispõe o seguinte:
+  As penas previstas para os crimes de apropriação indébita
+  previdenciária e de sonegação de contribuição previdenciária
+  são de reclusão, de 03 (três) a 06 (seis) anos, e multa.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                          
+
+
+---
+
+        Questões de provas anteriores
+  15. (VUNESP - Controlador Interno – IPRESB/ SP – 2017)
+  (Adaptada).
+  Com relação aos crimes contra a Previdência, é correto afirmar
+  que a Lei n° 9.983/2000 dispõe o seguinte:
+  No crime de sonegação de contribuição previdenciária, é
+  facultado ao juiz deixar de aplicar a pena ou aplicar somente a de
+  multa, se o agente for primário e de bons antecedentes, desde
+  que o valor das contribuições devidas, inclusive acessórios, seja
+  igual ou inferior àquele estabelecido pela previdência social,
+  administrativamente, como sendo o mínimo para o ajuizamento
+  de suas execuções fiscais.
+Direito Previdenciário
+Prof. Rubens Mauricio
+                           
+
+
+---
+
+        Questões de provas anteriores
+  Art. 337-A. (...)
+  (...)
+  § 2º É facultado ao juiz deixar de aplicar a pena ou aplicar somente a
+  de multa se o agente for primário e de bons antecedentes, desde que:
+  (...)
+  II – o valor das contribuições devidas, inclusive acessórios, seja igual
+  ou inferior àquele estabelecido pela previdência social,
+  administrativamente, como sendo o mínimo para o ajuizamento de
+  suas execuções fiscais.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                              
+
+
+---
+
+        Questões de provas anteriores
+  16. (TRT - Juiz do Trabalho - TRT 2ª Região – 2010)
+  (Adaptada).
+  O representante legal da empresa que, para reduzir o valor
+  das parcelas devidas à Previdência Social, omite
+  propositalmente da sua folha de pagamento o nome de vinte
+  empregados contratados:
+  Incide no crime de apropriação indébita previdenciária.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                          
+
+
+---
+
+        Questões de provas anteriores
+  Art. 337-A. Suprimir ou reduzir contribuição social
+  previdenciária e qualquer acessório, mediante as seguintes
+  condutas:
+  I - omitir de folha de pagamento da empresa ou de
+  documento de informações previsto pela legislação
+  previdenciária    segurados     empregado,     empresário,
+  trabalhador avulso ou trabalhador autônomo ou a este
+  equiparado que lhe prestem serviços;
+  (...)
+
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                          
+
+
+---
+
+        Questões de provas anteriores
+  17. (TRT - Juiz do Trabalho - TRT 2ª Região – 2010)
+  (Adaptada).
+  O representante legal da empresa que, para reduzir o valor
+  das parcelas devidas à Previdência Social, omite
+  propositalmente da sua folha de pagamento o nome de vinte
+  empregados contratados:
+  Incide no crime de sonegação de contribuição previdenciária.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                          
+
+
+---
+
+        Questões de provas anteriores
+  Sonegação de contribuição previdenciária
+  Art. 337-A. Suprimir ou reduzir contribuição social previdenciária e
+  qualquer acessório, mediante as seguintes condutas:
+  I - omitir de folha de pagamento da empresa ou de documento de
+  informações previsto pela legislação previdenciária segurados
+  empregado, empresário, trabalhador avulso ou trabalhador autônomo
+  ou a este equiparado que lhe prestem serviços;
+  (...)
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                            
+
+
+---
+
+        Questões de provas anteriores
+  18. (TRT - Juiz do Trabalho - TRT 2ª Região – 2010)
+  (Adaptada).
+  O representante legal da empresa que, para reduzir o valor
+  das parcelas devidas à Previdência Social, omite
+  propositalmente da sua folha de pagamento o nome de vinte
+  empregados contratados:
+  Incide no crime de falsificação de documento público
+  previdenciário.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                          
+
+
+---
+
+        Questões de provas anteriores
+  19. (TRT - Juiz do Trabalho - TRT 2ª Região – 2010)
+  (Adaptada).
+  O representante legal da empresa que, para reduzir o valor
+  das parcelas devidas à Previdência Social, omite
+  propositalmente da sua folha de pagamento o nome de vinte
+  empregados contratados:
+  Incide no crime de falsidade ideológica.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                          
+
+
+---
+
+        Questões de provas anteriores
+  20. (FCC- Analista Ministerial - Área Jurídica - MPE-PE–
+  2012)
+  Quanto ao crime de Inserção de Dados Falsos em Sistema de
+  Informação, é correto afirmar que a consumação independe
+  da ocorrência de efetivo prejuízo para a Administração
+  Pública.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                          
+
+
+---
+
+        Questões de provas anteriores
+  Inserção de dados falsos em sistema de informações
+  Art. 313-A. Inserir ou facilitar, o funcionário autorizado, a inserção de
+  dados falsos, alterar ou excluir indevidamente dados corretos nos
+  sistemas informatizados ou bancos de dados da Administração Pública
+  com o fim de obter vantagem indevida para si ou para outrem ou para
+  causar dano:
+  Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                              
+
+
+---

@@ -1,0 +1,6455 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 05_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Língua Inglesa
+artigos_citados:
+- 'art.
+
+
+
+  10'
+- 'art.
+
+
+
+  11'
+---
+
+# Língua Inglesa
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                                               Língua Inglesa
+
+                                                        Autor:
+                                                   Ena Smith
+
+                                             02 de Maio de 2024
+
+---
+
+      Ena Smith
+      Aula 04
+
+                                                                                     Índice
+1) Presente Simples
+
+
+2) Passado Simples
+
+
+3) Futuro Simples e com GOING TO
+
+
+4) Quantificadores e Determinantes
+
+
+5) Resumo A4 Teoria
+
+
+6) Questões Comentadas (A4) e Textos Traduzidos FGV
+
+
+7) Quadros de Vocabulários (A4) e Sinônimos FGV
+
+
+8) Lista de Questões (A4) FGV
+
+
+9) Resumo (A4) FGV
+
+                Receita Federal (Analista Tributário) Língua Inglesa                                                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                          129
+
+                                                             
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                                 P RESENTE S IMPLES
+
+Vamos começar com o Presente Simples. Ele é o termo verbal que é usado para falar sobre
+ações que são praticadas em base regular. Nós poderíamos dizer que é referente às ações que
+são rotineiras ou habituais. O tempo verbal Presente Simples também é usado para falar sobre
+coisas que são sempre verdade e às vezes até mesmo coisas que acontecerão no futuro.
+
+
+a) rotina:
+
+
+Every Monday he goes to an ATM.
+Toda Segunda-feira ele vai a um caixa eletrônico.
+
+
+b) confirmação de algo que é uma verdade:
+
+
+It usually snows here in December.
+Geralmente neva aqui em Dezembro.
+
+
+c) falar sobre o futuro:
+
+
+The train leaves at 3:00.
+O trem parte às 3 horas.
+
+        1.1. Verbos To Be (Ser, estar) e There Be (haver, existir)
+
+
+      No tempo verbal Presente Simples existe apenas uma “conjugação” com exceção dos
+verbos To Be e There Be. Esses verbos são irregulares. O verbo There Be é a palavra There +
+verbo To Be e é usado para descrever a presença de algo ou alguém não apenas no Presente
+Simples mas também em outros tempos verbais.
+
+
+I am a teacher.
+Eu sou uma professora.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              3
+        www.estrategiaconcursos.com.br                                                   129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+You are my student.
+Você é meu aluno (a).
+
+
+He/She/It is here.
+Ele/Ela/Isso está aqui.
+
+
+We are champions.
+Nós somos campeões.
+
+
+You are kind.
+Vocês são amáveis.
+
+
+They are at home now.
+Eles/Elas estão em casa agora.
+
+
+There is a teacher in the classroom.
+Há um professor na sala de aula.
+
+
+There are many students in this school today.
+Há muitos alunos nessa escola hoje.
+
+
+Nos outros verbos sempre é usada a forma base do verbo (o infinitivo menos o “to”), exceto
+para a terceira pessoa do singular, he, she e it. A terceira pessoa do singular requer um –s (em
+alguns casos excepcionais um –es ou -ies ) para serem adicionados no final do verbo. Vamos dar
+uma olhada no verbo regular to work (trabalhar):
+
+
+I work.
+Eu trabalho.
+
+
+I work in a Bank.
+Eu trabalho em um banco.
+
+          Receita Federal (Analista Tributário) Língua Inglesa                                4
+          www.estrategiaconcursos.com.br                                                     129
+
+                                       
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+He/she/it works.
+Ele/Ela/isto trabalha.
+
+
+The bank teller works from nine to five on Tuesdays and Thursdays.
+O caixa bancário trabalha das nove às cinco nas Terças e Quintas.
+
+
+She works in a gas station.
+Ela trabalha em um posto de gasolina.
+
+
+Look at the watch. It works but it is losing time.
+Olhe para o relógio. Ele trabalha mas está perdendo tempo.
+
+
+You/we/they work.
+Vocês/nós/eles (a)(s) trabalham.
+
+
+We work when the baby is sleeping.
+Nós trabalhamos quando o bebê está dormindo.
+
+
+You work very well together.
+Vocês trabalham muito bem juntos.
+
+
+They work best when you are here.
+Eles trabalham melhor quando você está aqui.
+
+
+Observe mais uma vez, que para todas as formas (I, you, we, they) é simplesmente usado a
+forma base do verbo, e apenas as formas he, she e it requerem que seja adicionado um –s.
+Agora vamos ver algumas exceções à regra do –s na terceira pessoa do singular:
+
+
+a) verbos que terminam em s, ss, sh, ch, x
+
+
+Nestes verbos é adicionado –es ao invés de um simples –s. Dê uma olhada em alguns exemplos
+de frases na terceira pessoa do singular.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            5
+        www.estrategiaconcursos.com.br                                                 129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+US House passes natural gas pipeline permitting reform bill. (www.ogj.com)
+Câmara dos Deputados dos EUA aprova gasoduto de gás natural permitindo projeto de lei de
+reforma.
+
+
+He usually watches TV after eating dinner.
+Ele usualmente assiste TV depois do jantar.
+
+
+My next-door neighbor washes his new car every evening.
+Meu vizinho de porta lava o novo carro dele a cada noitinha.
+
+                       1.2. Presente Simples na Interrogativa
+
+
+A forma interrogativa é feita de forma diferente quando se trata dos verbos To Be (ser, estar)
+e There Be (haver, existir) e dos demais verbos. Pois aqueles não precisam da ajuda de
+auxiliares.
+
+
+1.2.1. Com os verbos To Be e There Be
+
+
+Para fazer a interrogativa com os verbos to be (ser, estar) e there be (existir, haver) é só
+inverter a posição entre o verbo e o sujeito na frase para o verbo to be e colocar o verbo na
+frente da frase para o there be.
+
+
+Are they at home now?
+Eles/Elas estão em casa agora?
+
+
+Is there a teacher in the classroom?
+Há um professor na sala de aula?
+
+
+Para os demais verbos na interrogativa acrescenta-se o DO ou DOES (3ª pessoa sing.) no início
+da frase e o verbo vai para o infinitivo.
+
+
+Does he usually watch TV after eating dinner?
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                6
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Ele usualmente assiste TV depois do jantar?
+
+
+Do they work best when you are here?
+Eles trabalham melhor quando você está aqui?
+
+
+Observe que os exemplos citados acima mostram atividades rotineiras que acontecem
+repetidamente.
+
+                           1.3. Presente Simples na Negativa
+
+
+A forma negativa é feita de forma diferente quando se trata dos verbos To Be (ser, estar) e There
+Be (haver, existir) e dos demais verbos. Pois aqueles não precisam da ajuda de auxiliares.
+
+
+1.3.1. Com os verbos To Be e There Be
+
+
+Para fazer a negativa com os verbos to be (ser, estar) e there be (existir, haver) é só colocar o
+not depois do verbo, tanto para o to be como para o there be.
+
+
+They are not at home now.
+Eles/Elas não estão em casa agora.
+
+
+There is not a teacher in the classroom.
+Não há um professor na sala de aula.
+
+
+Para os demais verbos na negativa acrescenta-se o auxiliar DO ou DOES seguido do NOT e o
+verbo vai para o infinitivo.
+
+
+My next-door neighbor does not wash his new car every evening.
+Meu vizinho de porta não lava o novo carro dele a cada noitinha.
+
+
+I do not work at the café on the corner.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   7
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Eu não trabalho no café da esquina.
+
+
+1.3.2. Com os verbos to go (ir) e to do (fazer)
+
+
+Também é acrescentado –es nos verbos to go e to do quando eles estão sendo usados na
+terceira pessoa do singular do Presente Simples.
+
+
+David goes to work by subway.
+Davi vai para o trabalho de trem.
+
+
+My daughter does her homework every afternoon before dinner.
+Minha filha faz o dever de casa dela toda tarde antes do jantar.
+
+
+The sun goes up and the sun goes down.
+O sol se levanta e o sol se põe.
+
+
+1.3.3. Com verbos que terminam com a consoante y.
+
+
+Para verbos que terminam com a consoante y, existe uma regra simples. É retirado o y e coloca-
+se o –ies.
+
+
+Pedro studies English and tries to learn it on Tuesdays.
+Pedro estuda Inglês e tenta o aprender nas Terças.
+
+
+My sister carries a briefcase to work every day and she relies on me to help her.
+Minha irmã leva uma maleta para o trabalho todos os dias e ela se confia em mim para ajudá-la.
+
+
+Because the student applies herself, she can meet the requirements of the course.
+Visto que a estudante esforça-se, ela é capaz de atender as exigências do curso.
+
+
+If she hurries, she will get here on time because she worries with us.
+Se ela se apressar, ela chegará aqui a tempo porque ela se preocupa conosco.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 8
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Esta mesma regra é usada para fazer o plural dos substantivos que terminam em –s. Mas não é
+aplicada para verbos que terminam em uma vogal + y. Com exceção dos verbos acima, os
+verbos que terminam em vogal + y não são considerados irregulares. Então apenas acrescenta-
+se um –s como se faz com qualquer verbo regular.
+
+
+1.3.4. Com o verbo to have (ter)
+
+
+A exceção final é o verbo to have, como ele é irregular, se transforma em has na terceira pessoa
+do Presente Simples e no Present Perfect.
+
+
+He has a lot of work to do.                             ==219a34==
+
+Ele tem muito trabalho a fazer.
+
+
+She has never been to France.
+Ela nunca esteve na França.
+
+                                                   Exercícios
+
+(Professor da Educação Básica - Professor Regente Letras – Inglês - SEDUC-TO -
+FGV - 2023)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  9
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+The verb “refers” is in the
+
+
+(A) simple past.
+(B) present perfect.
+(C) simple present.
+(D) past continuous.
+(E) present continuous.
+
+
+Comentários:
+The verb “refers” is in the
+O verbo “refere-se” está no
+
+
+(A) simple past. – passado simples
+
+
+Errada. Esse tempo verbal é usado para indicar uma ação que aconteceu em um momento
+específico no passado. Ex: He referred to his notes during the presentation. (Ele se referiu às
+suas anotações durante a apresentação.)
+
+
+(B) present perfect. – presente perfeito
+
+
+Errada. Esse tempo verbal é usado para indicar uma ação que começou no passado e tem uma
+conexão com o presente. Ex: I have referred to this book many times. (Eu me referi a este livro
+muitas vezes.)
+
+
+(C) simple present. – presente simples
+
+
+Refers to something that's non-stop or around the clock
+Refere-se a algo que é sem parar ou 24 horas por dia
+
+
+Correta. O verbo "refere-se" na frase está no presente simples. O presente simples é usado para
+expressar uma verdade geral, uma ação habitual ou uma situação que existe agora ou sempre.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                10
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(D) past continuous. – passado contínuo
+
+
+Errada. Esse tempo verbal é usado para indicar uma ação que acontecia em um momento
+específico no passado e foi interrompida por outra ação no passado. Ex: He was referring to his
+notes when the phone rang. (Ele estava se referindo às suas anotações quando o telefone
+tocou.)
+
+
+(E) present continuous. – presente contínuo
+
+
+Errada. Esse tempo verbal se refere a uma ação que está acontecendo no momento. Ex: He is
+referring to his notes as he speaks. (Ele está se referindo às suas anotações enquanto fala.
+
+
+GABARITO: C
+
+
+Translation
+
+
+Twenty-four seven (24/7)
+Vinte e Quatro horas por dia (24/7)
+
+
+Refers to something that’s non-stop or around the clock
+Refere-se a algo que é sem parar ou 24 horas por dia
+
+
+“That grocery store is open 24/7”
+“Aquele supermercado é aberto 24 horas por dia”
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                11
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                                  P ASSADO S IMPLES
+
+O tempo verbal Simple Past (Passado Simples) é usado quando uma ação ou situação acontece
+e termina no Passado. Geralmente dizemos ou sabemos quando ela aconteceu.
+
+                                       2.1. Verbos Regulares
+
+
+A maioria dos verbos regulares recebem o acréscimo de ED ao infinitivo para formar o passado
+simples. A forma é a mesma para todas as pessoas (I, you, he, we, etc). Observe algumas
+variações das terminações dos verbos abaixo:
+
+
+Verbos terminados em E: acrescenta-se apenas -d.
+Exemplo: to free (libertar) → freed
+
+
+Vogal + y: acrescenta-se -ed.
+Exemplo: to play (jogar, brincar) → played
+
+
+consoante + y: elimina-se o y e acrescenta-se -ied.
+Exemplo: to dry (enxugar)→ dried
+
+
+consoante + vogal tônica + consoante: repete-se a consoante final e acrescenta-se -ed.
+Exemplo: to plan (planejar) → planned
+
+
+Nos demais verbos, permanece a regra de simplesmente acrescentar o sufixo -ed. Ex: to look
+(olhar) → looked (olhou), to arrive (chegar) → arrived (chegou), etc.
+
+
+He passed his exam because he studied very hard. (pass /study)
+Ele passou no seu teste porque ele estudou muito. (passar/estudar)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             12
+        www.estrategiaconcursos.com.br                                                   129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                                           MAPA MENTAL
+
+
+                                                   played
+
+                            looked                                    arrived
+
+
+                                                     ed
+                                      2.2. Verbos Irregulares
+
+
+Nos verbos irregulares, não há nenhum tipo de regra que estabeleça como será formado o
+passado. É necessário memorizar o passado de cada verbo irregular. Mas, a forma também é a
+mesma para todas as pessoas (I, you, he, we, etc).
+
+
+2.2.1. Com os verbos To Be (ser, estar) e There Be (haver, existir)
+
+
+To Be → was (1ª e 3ª pessoas do singular), were (plural e 2ª pessoa do singular)
+
+
+There Be → There was (singular), There were (plural)
+
+
+They were at home yesterday.
+Eles/Elas estavam em casa ontem.
+
+
+There was a teacher in the classroom this morning.
+Havia um professor na sala de aula esta manhã.
+
+
+2.2.2. Com os demais verbos
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           13
+        www.estrategiaconcursos.com.br                                                 129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Os demais verbos irregulares têm formas diferentes para o Passado Simples.
+
+
+To have (ter) → had; To do (fazer) → did; To eat (comer) → ate; To go (ir) → went; To come (vir,
+chegar) → came
+
+
+She got up, had a shower, got dressed, made breakfast and went to work.
+Ela se levantou, tomou banho, se vestiu, tomou o café da manhã e foi trabalhar.
+
+
+I spent all my childhood in Fortaleza. When I was a kid, we built a house by the sea and I ran
+every day on the beach.
+Eu passei toda a minha infância em Fortaleza. Quando eu era criança, nós construímos uma
+casa à beira mar e eu corria todo dia na praia.
+
+                                           MAPA MENTAL
+
+                     was                                                  were
+                                                   to be
+
+                  Veja abaixo a Lista dos Verbos Irregulares mais Comuns:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 14
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 04
+
+Presente                                 Tradução                          Passado Simples
+
+arise                                    surgir                            arose
+
+bear                                     dar à luz, tolerar, produzir      bore
+
+beat                                     bater                             beat
+
+begin                                    começar                           began
+
+bite                                     morder                            bit
+
+blow                                     soprar                            blew
+
+break                                    quebrar                           broke
+
+bring                                    trazer                            brought
+
+build                                    construir                         built
+
+buy                                      comprar                           bought
+
+catch                                    pegar                             caught
+
+choose                                   escolher                          chose
+
+come                                     vir                               came
+
+cut                                      cortar                            cut
+
+do                                       fazer                             did
+
+draw                                     desenhar                          drew
+
+drive                                    dirigir                           drove
+
+eat                                      comer                             ate
+
+fall                                     cair                              fell
+
+feed                                     alimentar, nutrir                 fed
+
+feel                                     sentir                            felt
+
+find                                     encontrar                         found
+
+fly                                      voar                              flew
+
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                15
+         www.estrategiaconcursos.com.br                                                      129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+forbid                                   proibir                           forbade
+
+get                                      conseguir                         got
+
+give                                     dar                               gave
+
+go                                       ir                                went
+
+grow                                     crescer                           grew
+
+hang                                     pendurar                          hung
+
+have                                     ter                               had
+
+hear                                     ouvir                             heard
+
+hide                                     esconder                          hid
+
+hit                                      golpear                           hit
+
+hold                                     abraçar                           held
+
+is/are/am                                ser, estar                        was, were
+
+keep                                     manter                            kept
+
+know                                     saber                             knew
+
+lay                                      pôr                               laid
+
+lead                                     guiar                             led
+
+learn                                    aprender                          learnt/learned
+
+leave                                    deixar                            left
+
+let                                      permitir                          let
+
+lie                                      deitar, mentir                    lay
+
+lose                                     perder                            lost
+
+make                                     fazer                             made
+
+meet                                     encontrar                         met
+
+pay                                      pagar                             paid
+
+
+         Receita Federal (Analista Tributário) Língua Inglesa                               16
+         www.estrategiaconcursos.com.br                                                     129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+put                                     colocar                           put
+
+read                                    ler                               read
+
+rise                                    levantar                          rose
+
+run                                     correr                            ran
+
+say                                     dizer                             said
+
+see                                     ver                               saw
+
+sell                                    vender                            sold
+
+send                                    enviar                            sent
+
+set                                     estabelecer                       set
+
+shoot                                   filmar, atirar                    shot
+
+shut                                    fechar                            shut
+
+sit                                     sentar                            sat
+
+sleep                                   dormir                            slept
+
+speak                                   falar                             spoke
+
+spend                                   gastar                            spent
+
+stand                                   levantar-se                       stood
+
+swear                                   jurar                             swore
+
+take                                    levar, pegar                      took
+
+teach                                   ensinar                           taught
+
+tell                                    contar, notar                     told
+
+think                                   pensar                            thought
+
+throw                                   arremessar                        threw
+
+understand                              entender                          understood
+
+wear                                    usar                              wore
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           17
+        www.estrategiaconcursos.com.br                                                 129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+write                                   escrever                          wrote
+
+O Simple Past também é usado para se referir a períodos acabados em determinados momentos
+de tempo. Refere-se a um passado definido.
+
+
+Assim, é muitas vezes usado com os adjuntos adverbiais de tempo, como ontem à noite (last
+night), algum tempo atrás (some time ago), em 1985, hoje cedo (earlier today), às seis horas
+desta manhã (at six o’clock), a última vez (last time), a primeira vez (first time), etc. Compare o
+seguinte:
+
+
+The first time I ate escargot was in Italy two years ago and the last time was at Helen’s last
+Thursday.
+A primeira vez que comi escargot foi na Itália há dois anos e a última vez foi na casa da Helena
+na última Quinta-feira.
+
+
+We bought that car when we moved to Brazil in 2001 and sold it last year.
+Compramos aquele carro quando nos mudamos para o Brasil em 2001 e o vendemos no ano
+passado.
+
+
+When did you last speak to her? ~ I spoke to her on the phone this afternoon.
+Quando foi a última vez que você falou com ela? ~ Eu falei com ela pelo telefone essa tarde.
+
+
+I stopped here yesterday.
+Eu parei aqui ontem.
+
+
+Em outros casos não são mencionados um momento particular ou data no tempo. Mas observa-
+se claramente que o autor está se referindo a um momento definido no passado. Ação já
+ocorrida e terminada.
+
+
+Where did you get those books? ~ I got them from the Central Library.
+Onde você conseguiu aqueles livros? ~ Eu os consegui na Biblioteca Central.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    18
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                     2.3. O Passado Simples na Interrogativa
+
+
+A forma interrogativa do tempo verbal Simple Past ou Passado Simples (Pretérito Perfeito e
+Imperfeito) é feita de forma diferente entre os verbos To Be (ser, estar) e There Be (haver,
+existir) e os demais verbos. Visto que aqueles não precisam de auxiliares.
+
+
+2.3.1. Com os verbos To Be e There Be
+
+
+Para fazer a interrogativa no Passado simples com esses verbos é só inverter a posição entre o
+sujeito e o verbo para o To Be. Com o There Be se coloca o verbo na frente da frase.
+
+
+Were they at home yesterday?
+Eles/Elas estavam em casa ontem?
+
+
+Was there a teacher in the classroom this morning?
+Havia um professor na sala de aula esta manhã?
+
+
+2.3.2. Com os demais verbos
+
+
+Para os demais verbos faz-se a interrogativa no Simple Past assim: o verbo fica no infinitivo e o
+sujeito ou pronome pessoal é precedido do auxiliar DID (passado de DO, DOES), observe a
+mudança:
+
+
+Got (afirmativa) para Did you get na interrogativa; Spoke (afirmativa) para Did you ...speak
+na interrogativa
+
+
+Did they listen to pop music at home last night? (listened na afirmativa)
+Eles ouviram música popular em casa ontem à noite?
+
+
+Did you know the Russian Navy has its own dinosaur? (knew na afirmativa)
+Você sabia que a marinha russa tem seu próprio dinossauro?
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  19
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Did he stop here last night? (stopped na afirmativa)
+Ele parou aqui ontem à noite?
+
+                         2.4. O Passado Simples na Negativa
+
+
+A forma interrogativa é feita de forma diferente entre os verbos To Be (ser, estar) e There
+Be (haver, existir) e os demais verbos. Visto que aqueles não precisam de auxiliares.
+
+
+2.4.1. Com os verbos To Be e There Be
+
+
+Com os verbos To Be e There Be a negativa faz-se sem o uso de auxiliares. Acrescenta-se o
+NOT após o verbo. Em frases afirmativas ou interrogativas.
+
+
+You were not a good friend.
+Você não foi um bom amigo.
+
+
+There wasn’t a table here yesterday.
+Não havia uma mesa aqui ontem.
+
+
+Wasn’t there a teacher in the classroom this morning?
+Não havia um professor na sala de aula esta manhã?
+
+
+2.4.2. Com os demais verbos
+
+
+Para os demais verbos faz-se a negativa do Simple Past acrescentando-se NOT depois do
+auxiliar DID, quer a frase esteja na afirmativa ou na interrogativa. O verbo fica no Infinitivo.
+
+
+You did not (didn’t) get those books. - Você não conseguiu aqueles livros.
+
+
+She didn’t have her dinner last night. - Ela não jantou ontem a noite.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 20
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                                                  Exercícios
+
+(Professor da Educação Básica - IBFC - SEC-BA - 2023)
+
+34. A gramática da língua inglesa define o Simple Past Tense (Tempo Passado Simples) como um
+“tempo verbal que é usado para falar sobre coisas que aconteceram ou existiram antes do
+presente”. Assinale a alternativa em que o Simple Past Tense esteja correto.
+
+
+a) Did Paige went to work yesterday?
+b) Phoebe thinked that Cole was ill
+c) Prudence studied music at school last year
+d) John not cooked last week
+                                                        ==219a34==
+
+e) Do John cook for us every day?
+
+
+Comentários:
+(Professor da Educação Básica - IBFC - SEC-BA - 2023)
+
+34. A gramática da língua inglesa define o Simple Past Tense (Tempo Passado Simples) como um
+“tempo verbal que é usado para falar sobre coisas que aconteceram ou existiram antes do
+presente”. Assinale a alternativa em que o Simple Past Tense esteja correto.
+
+
+a) Did Paige went to work yesterday?
+a) A Paige foi ao trabalho ontem?
+
+
+Errada. A interrogativa do Passado Simples se faz com o auxiiar DID no início da frase e o verbo
+fica no infinitivo. Então, o verbo era para ser “go” ao invés de “went”.
+
+
+b) Phoebe thinked that Cole was ill.
+b) A Phoebe pensou que o Cole estava doente.
+
+
+Errada. O verbo “think” é irregular. Portanto, seu passado é "thought", não "thinked".
+
+
+c) Prudence studied music at school last year.
+c) A Prudence estudou música na escola no ano passado.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 21
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+study => studied
+
+
+Certa. Essa é a fórmula: consoante + y: elimina-se o y e acrescenta-se -ied. Essa é a única
+alternativa em que o simple past tense está correto.
+
+
+d) John not cooked last week.
+d) O John não cozinhou na semana passada.
+
+
+Errada. A frase correta seria: John did not (didn’t) cook last week. Para o Passado simples na
+Negativa usa-se o auxiliar did + not + verbo no infinitivo.
+
+
+e) Do John cook for us every day?
+e) O John cozinha para nós todos os dias?
+
+
+Errada. O auxiliar Do é para fazer interrogativa no Presente Simples e para as pessoas no Plural.
+O John é 3a pess. do singular (he/ele). O auxiliar deveria ser Did e a frase correta seria: Did John
+cook for us every day?
+
+
+GABARITO: C
+
+
+(Professor de Ensino Fundamental II – Inglês - Prefeitura de Bombinhas - SC - 2023)
+Questão 26
+Check the alternative that presents the tense of the sentence below:
+
+
+“Pamela went to Paris last year.”
+
+
+A) Past Perfect
+B) Simple Present
+C) Present Perfect
+D) Simple Past
+
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     22
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(Professor de Ensino Fundamental II – Inglês - Prefeitura de Bombinhas - SC - 2023)
+Questão 26
+Check the alternative that presents the tense of the sentence below:
+Marque a alternativa que apresenta o tempo verbal da frase abaixo:
+
+
+“Pamela went to Paris last year.” - “Pamela foi a Paris no ano passado.”
+
+
+A) Past Perfect – Passado Perfeito
+
+
+Errada. Essa frase no Passado Perfeito seria assim: Pamela had gone to Paris last year. (Pamela
+tinha ido a Paris no ano passado.)
+
+
+B) Simple Present – Presente Simples
+
+
+Errada. Essa frase no Simple Present seria assim: Pamela goes to Paris every year. (Pamela vai a
+Paris todo ano.)
+
+
+C) Present Perfect – Presente Perfeito
+
+
+Errada. Essa frase no Present Perfect seria assim: Pamela has gone to Paris this
+year/recently/several times. (Pamela foi a Paris este ano/recentemente/muitas vezes.)
+
+
+D) Simple Past – Passado Simples
+
+
+Presente > Go (Ir) > Passado > Went (foi/foram)
+
+
+Correta. O tempo verbal simple past (passado simples) é usado para falar de uma ação que
+aconteceu em um momento específico no passado. O simple past tem a seguinte estrutura: Para
+verbos regulares, acrescenta-se -ed à forma base do verbo. Para verbos irregulares, usa-se a
+forma do passado que pode variar de acordo com o verbo. Este é o caso do verbo went (go) da
+frase analisada que é um verbo irregular.
+
+
+GABARITO: D
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 23
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+       F UTURO S IMPLES E COM O GOING TO
+
+       O tempo verbal Futuro Simples (Simple Future) usa-se para expressar eventos que ainda
+vão acontecer, estando estes situados após o ato da fala ou da escrita. É formado pelo uso do
+verbo modal ou auxiliar WILL + verbo no infinitivo sem o TO. É possível também usar o auxiliar
+Shall para expressar o futuro, seguido de verbo no infinitivo sem TO. O auxiliar Shall é mais
+usado para as primeiras pessoas (I e We). Quando usado para as demais pessoas dá ênfase à
+frase. Vejamos a seguir quais são as situações em que normalmente se utiliza o Futuro
+Simples.
+
+   3.1. Para expressar uma decisão que está sendo tomada no
+                        momento da fala
+
+
+I will give you the book right now.
+Vou te dar o livro agora.
+
+                              3.2. Para fazer uma solicitação
+
+
+Will you open the window, please?
+Você pode abrir a janela, por favor?
+
+                               3.3. Para fazer uma predição
+
+
+There will be food shortages.
+Haverá escassez de alimentos.
+
+ 3.4. Para fazer uma promessa, ameaça, aviso ou ordenar algo
+
+
+I will call the police if you don’t get away from me.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               24
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Eu chamarei a polícia se você não se afastar de mim.
+
+                                  3.5. Para fazer um convite
+
+
+Will you join us tomorrow?
+Você nos acompanhará amanhã?
+
+  3. 6. Para falar sobre acontecimentos sobre os quais não se
+                           tem certeza
+
+
+Neste caso, usa-se advérbios que indicam probabilidade, como: perhaps (talvez), maybe
+(talvez), probably (provavelmente), it’s possible/probable that... (É possível, provável que).
+
+
+It will probably rain tomorrow.
+Provavelmente vai chover amanhã.
+
+
+This will perhaps become a reality in the end of September.
+Isto talvez se tornará uma realidade no fim de Setembro.
+
+
+Maybe there will be a huge relief.
+Talvez haverá um grande alívio.
+
+
+Geralmente o Futuro Simples é acompanhado por alguns advérbios ou locuções adverbiais,
+como: Tomorrow (amanhã), soon (em breve), next month (próximo mês)/week
+(próxima semana)/year(próximo ano), in a few days (em poucos dias), in a short
+time (em pouco tempo), in hours... (em horas…)
+
+
+I hope it will be available as soon as possible.
+Espero que isto esteja pronto o mais brevemente possível.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               25
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+The list will be compiled at the beginning of next week.
+A lista será estabelecida no início da próxima semana.
+
+                          3.8. Futuro na Negativa com WILL
+
+
+Faz-se a forma negativa no Simple Future acrescentando-se NOT depois do auxiliar WILL,
+contraindo-se no formato: WILL + NOT = WON’T
+
+
+They won’t be there.
+Eles não estarão lá.
+
+
+There won’t be a huge African debt crisis tomorrow. (The Economist)
+Não haverá uma enorme crise da dívida Africana futuramente.
+
+
+It won’t rain next week.
+Não vai chover na próxima semana.
+
+                      3.9. Futuro na Interrogativa com WILL
+
+A Forma Interrogativa difere quanto ao posicionamento do Will entre o verbo There Be (haver,
+existir) e os demais verbos.
+
+
+3.9.1. Com o verbo There Be
+
+
+Faz-se a interrogativa colocando-se o Will antes do There Be.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             26
+        www.estrategiaconcursos.com.br                                                   129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Will there be an ISIS state on the trans-Israel highway? (israelnationalnews.com)
+Haverá um estado islâmico na rodovia trans-Israel?
+
+
+3.9.1. Com os demais verbos
+
+
+Para os demais verbos faz-se a forma interrogativa afirmativa no Simple Future posicionando o
+auxiliar WILL no início da frase, seguido do sujeito e em seguida do verbo:
+
+
+Will she be in your house next month?
+Ela vai está na sua casa no mês que vem?
+
+
+Will you call him now?
+Você vai ligar para ele agora?
+
+
+3.9.2. Na Interrogativa Negativa
+
+
+A forma interrogativa negativa é feita da mesma forma, acrescentando-se, porém NOT depois
+do auxiliar WILL ou fazendo a contração WILL + NOT = WON’T.
+
+
+Won’t he play tennis tomorrow?
+Ele não jogará tênis amanhã?
+
+                                      3.10. Com o GOING TO
+
+O tempo verbal Futuro com o “GOING TO“ é um modo de falarmos sobre decisões que
+tomamos antes do momento da fala. Forma-se o Futuro com o GOING TO assim: To Be
+(am/is/are) + Going To + verbo principal. e There + To Be (am/is/are) + Going To +
+Be.
+
+
+I’m going to invite Marianna over for dinner.
+Vou convidar a Mariana para jantar aqui em casa.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              27
+        www.estrategiaconcursos.com.br                                                    129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+He is going to buy house near the river.
+Ele vai comprar uma casa perto do rio.
+
+
+There is going to be peace among nations.
+Haverá paz entre as nações.
+
+                   3.11. Futuro na Negativa com o GOING TO
+
+
+A forma negativa é feita com a adição do NOT antes do GOING TO.
+
+
+I’m not going to invite Joanna over for dinner.
+Não vou convidar a Joana para jantar aqui em casa.
+
+
+He is not going to buy a house, but a cabin.
+Ele não vai comprar uma casa, mas sim uma cabana.
+
+
+There is not going to be peace among nations.
+Não haverá paz entre as nações.
+
+              3.12. Futuro na Interrogativa com o GOING TO
+
+
+Para formar perguntas, faz-se a inversão do sujeito com o verbo auxiliar no verbo To Be e no
+verbo There Be coloca-se o auxiliar na frente do there.
+
+
+Are you going to invite Joanna over for dinner?
+Você vai convidar Joana para jantar aqui em casa?
+
+
+Are there going to be any reviews?
+Haverá algum comentário?
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             28
+        www.estrategiaconcursos.com.br                                                   129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                             3.13. Predição com o GOING TO
+
+
+O GOING TO também é usado para fazer planos ou predições. Quando temos evidência de
+que algo vai ocorrer.
+
+
+The sky is dark. It’s going to rain.
+O céu está escuro. Vai chover.
+
+
+There are going to be great challenges.
+Haverá grandes desafios.
+
+                                                   EXERCÍCIOS
+
+(Analista Júnior – Ênfase: Jurídico - TBG - CESPE / CEBRASPE – 2023)
+
+Judge the following item, according to the preceding comic strip.
+
+29 In the comic strip, it is possible to find examples of sentences in the present, past and future
+tenses.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    29
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Comentários:
+
+
+Judge the following item, according to the preceding comic strip.
+Julgue os itens seguinte, de acordo com a tirinha cômica precedente.
+
+
+29 In the comic strip, it is possible to find examples of sentences in the present, past and future
+tenses.
+29 Na tirinha, é possível encontrar exemplos de frases nos tempos presente, passado e futuro.
+
+
+Seguem abaixo alguns exemplos da tirinha que apresentam frases nos três tempos verbais:
+presente, passado e futuro.
+                                                        ==219a34==
+
+• Presente: "Hey little guy!" (Ei, pequenino!), "How are you?" (Como você está?), "You're a
+chick." (Você é um pintinho.), "You have friends?" (Você tem amigos?)
+
+
+• Passado: "You showed him the internet." (Você mostrou a ele a internet.)
+
+
+• Futuro: "Where are you going?" (Para onde você está indo?), "I will love coffee!" (Vou adorar
+um café!)
+
+
+GABARITO: CERTA
+
+
+Translation
+
+
+Penguin – Hey little guy!
+Chick – Hi! How are you?
+
+
+Pinguim - Ei, pequenino!
+Pintinho - Oi! Como você está?
+
+
+Penguin – Okay! How are you?
+Chick – I feel great! It’s May. I love May.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    30
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Pinguim - Bem! E você?
+Pintinho - Eu me sinto ótimo! É maio. Eu amo maio.
+
+
+Penguin – You’re a chick. You only know May.
+Chick – Yes, but it’s beautiful. Isn’t it? The birds are singing and the sky is blue. Its amazing.
+
+
+Pinguim - Você é um pintinho. Você só conhece maio.
+Pintinho - Sim, mas é lindo. Não é? Os pássaros estão cantando e o céu está azul. É incrível.
+
+
+Penguin – You’re right. It is amazing.
+Chick – Where are you going?
+
+
+Pinguim - Você tem razão. É incrível.
+Pintinho - Para onde você está indo?
+
+
+Penguin – To see my friends.
+Chick – You have friends? You’re so lucky.
+
+
+Pinguim - Ver meus amigos.
+Pintinho - Você tem amigos? Você é tão sortudo.
+
+
+Penguin – Am I?
+Chick – Yes! Can I meet them?
+
+
+Pinguim - Sou?
+Pintinho - Sim! Posso conhecê-los?
+
+
+Penguin – I guess so.
+Chick – Woohoo.
+
+
+Pinguim - Acho que sim.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                         31
+        www.estrategiaconcursos.com.br                                                               129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Pintinho - Uhuuu.
+
+
+Penguin – Ed, Gordo, This is...er...
+Chick – Chuck. Hi!
+
+
+Pinguim - Ed, Gordo, este é...er...
+Pintinho - Chuck. Oi!
+
+
+Penguin – Would you like coffee?
+Chick – I will love coffee!
+
+
+Pinguim - Você quer café?
+Pintinho - Eu vou adorar um café!
+
+
+Penguin – You showed him the internet. Didn’t you?
+
+
+Pinguim - Você mostrou a ele a internet. Não foi?
+
+        Receita Federal (Analista Tributário) Língua Inglesa              32
+        www.estrategiaconcursos.com.br                                    129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+        Q UANTIFICADORES E D ETERMINANTES
+       Os Quantificadores (Quantifiers) são expressões usadas para indicar e fornecer
+informações a respeito da quantidade imprecisa de algo. Os Determinantes (Determiners)
+servem para determinar se uma frase indica algo específico ou em geral. Os Determinantes
+específicos estudamos no tópico dos Pronomes, pois eles são os pronomes possessivos,
+demonstrativos e o interrogativo which. As vezes as palavras fazem o papel de Determinantes e
+Quantificadores ao mesmo tempo. Eles são uma categoria de adjetivos, pronomes e artigos que
+quantificam os substantivos. Vejamos aqueles que são mais usados.
+
+     4.1. Os Quantificadores All, Every e Each; All of e Each of
+
+
+Os Quantificadores All (todo(a)(s), Every e Each (cada) indicam o número total de algo em um
+grupo. A diferença no uso deles é que o All é seguido de palavras no Plural ou de um
+substantivo incontável. O Every e o Each são seguidos de um substantivo no singular.
+
+
+All the leaves are brown. (The Economist)
+Todas as folhas estão marrons.
+
+
+Where did all the money go? (The Economist)
+Para onde foi todo o dinheiro?
+
+
+Meet The Richest Person In Every/Each State (Forbes)
+Conheça A Pessoa Mais Rica Em Cada Estado (Forbes)
+
+
+O All of (todo/a, todos/as) e Each of (cada um de) podem ser seguidos por substantivo ou
+pronome no plural.
+
+
+Protectionism can take many forms, not all of them obvious. (The Economist)
+O Protecionismo pode assumir muitas formas, nem todas elas são óbvias.
+
+
+A good state would give each of us a chance to thrive. (The Guardian)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              33
+        www.estrategiaconcursos.com.br                                                    129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Um bom estado daria a cada um de nós uma chance de prosperar.
+
+4.2. Os Quantificadores/Determinantes Both (ambos), Neither
+           (nenhum de dois) e Either (um de dois)
+
+
+Os Quantificadores/Determinantes Both (ambos), Neither (nenhum de dois) e Either (um de dois)
+são usados para se referir a duas pessoas ou coisas.
+
+
+Look both ways. (The Economist)
+Olhe para ambos os lados.
+
+
+Neither answer is wrong.
+Nenhuma das duas respostas está errada.
+
+
+Either policeman could stop them.
+Qualquer um dos dois policiais poderia detê-los.
+
+   4.3. Os Quantificadores Too, Too much, Too many, Enough
+
+
+O Quantificador Too (muito, demais) indica o grau de intensidade de algo. O Enough (o
+bastante, o suficiente) descreve a quantidade satisfatória de algo. Ambos nos dão mais
+informações sobre um adjetivo, um advérbio ou um substantivo.
+
+
+Geralmente o too é usado no meio das frases e antes de adjetivo ou advérbio para indicar algo
+negativo. Expressa algo que é mais do que o necessário ou do que se deseja.
+
+
+You’re driving too fast. – Você está dirigindo muito rápido.
+
+
+He is too tired to concentrate. – Ele está muito cansado para se concentrar.
+
+
+Mas quando se passa a frase para a negativa (not + too), o sentido passa a ser positivo.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               34
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+It’s not too cold to go for a walk in the park. – Não está frio demais/ Não está tão frio para se
+fazer uma caminhada no parque.
+
+
+How are you? Not too bad. – Como você está? Estou bem (não tão ruim assim).
+
+
+Cuidado! Para expressar algo positivo não se usa o too, mas sim o really (muito) ou very
+(muito).
+
+
+That comedian is so funny. – Esse comediante é muito engraçado.
+
+
+This English class is really good. – Essa aula de Inglês é muito boa.
+
+
+Há umas poucas exceções na linguagem coloquial. Veja um exemplo abaixo que é comum na
+linguagem falada:
+
+
+My mother is too kind. – Minha mãe é muito generosa/amável/gentil ou Minha mãe é
+boa/generosa demais.
+
+
+Obs: A palavra too quando é apenas advérbio significa “também” e não é quantificador. Nesse
+tópico estamos estudando o too como quantificador.
+
+
+O Enough (bastante, suficiente) vem depois de um adjetivo ou advérbio.
+
+
+Is it cold enough to wear a jacket? – Está frio o bastante para usar uma jaqueta?
+
+
+Os Quantificadores Too much e Too many (demais) são usados para indicar que algo está em
+uma quantidade maior do que esperado, ou seja, algo excessivo, exagerado. Sendo que o Too
+much é usado para substantivos incontáveis e o Too many para substantivos contáveis.
+
+
+There is too much pepper in this food.
+Tem pimenta demais nessa comida.
+
+
+There were too many people on the boat.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  35
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Tinha gente demais no barco.
+
+
+Observe no quadro abaixo outros exemplos dos Quantificadores mais usados, lembrando que
+alguns são contáveis, outros incontáveis e outros são ambos:
+
+                   4.4. Contáveis: Many, A Few, A Lot e Outros
+
+A large number              of    foreigners       (muitos A great number of houses (um grande
+estrangeiros)                                              número de casas)
+
+A lot of kids (muitas crianças)                                Many soldiers (muitos soldados)
+
+Many books (muitos livros)                                     A few days (poucos dias)
+
+                     4.5. Incontáveis: Much, A Little e Outros
+
+
+A bit of flour (um pouco de farinha)                           Much wine (muito vinho)
+
+A great deal of meat (muita carne)                             Much juice (muito suco)
+
+A little vinegar     (um pouco de vinagre)                     A large amount of energy (uma enorme
+                                                               quantidade de energia)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     36
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                             4.6. Contáveis e Não-Contáveis:
+
+A lack of water (falta de água)                                      A lot of governments (muitos governos)
+
+Lack of books (falta de livros)                                      Plenty of signs (muitos sinais)
+
+Most of the water (A maioria da água)                                Most homes (A maioria das casas )
+                                                        ==219a34==
+
+None/no sugar (nenhum açucar)                                        No/none student (nenhum aluno)
+
+Plenty of exercise (bastante exercício)                              Lots of knowledge/ of             books   (muito
+                                                                     conhecimento /muitos livros)
+
+Some water/visitors (algum(a) água/visitantes)                       Any help/rooms (algum(a) ajuda/salas)
+
+                                      4.7. O Duplo Negativo
+
+
+O Duplo Negativo (Double Negative) é usado às vezes na linguagem informal. No entanto,
+não está correto. Não segue as normas culta da Língua Inglesa. Geralmente são palavras
+compostas formadas com quantificadores como ANY e NO. São formadas as palavras anything,
+nothing, anybody e nobody.
+
+
+Para se dizer: “Ela não fez nada!” Não se diz She didn’t do nothing! O correto é dizer She
+didn’t do anything! ou então She did nothing! Mas, por que? Veja bem, na frase She
+didn’t do nothing nós temos duas palavras negativas o not e o nothing. Por isso que se
+chama duplo negativo.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                                      37
+        www.estrategiaconcursos.com.br                                                                            129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Para a frase está correta basta uma palavra negativa. Então, na frase She didn’t do anything!
+temos uma formação correta pois só existe uma palavra negando, que é o didn’t. Assim como
+também na frase She did nothing temos apenas uma palavra que nega que é o nothing.
+
+
+Não se diz I ain’t talked to nobody (Não tenho conversado com ninguém), mas sim I
+haven’t talked to anybody. O ain’t é usado em linguagem informal e fora dos padrões
+cultos da Língua, é uma contração que significa AM NOT, IS NOT, ARE NOT, HAVE NOT ou
+HAS NOT.
+
+
+A palavra nobody (ninguém) é negativa. Então, como já tem o not no início da frase, não
+precisa se usar outra palavra negativa. Por isso, a frase correta é I haven’t talked to anybody
+pois a palavra anybody não é negativa, então assim não fica uma dupla negativa.
+
+
+Em Inglês, a dupla negativa também pode causar interpretação errada. Em Português é
+perfeitamente normal dizer: Eles não querem nada. Vemos aí duas palavras negativas. Em
+Inglês se você disser ou escrever They don’t want nothing, o leitor vai entender que eles não
+querem o nada, ou seja, que eles não aceitam não receber nada, mas que querem alguma coisa.
+Portanto, para evitar o duplo negativo, a frase correta para “Eles não querem nada” deve ser
+They don’t want anything, pois tem apenas uma palavra negativa, que é o don’t ou então
+They want nothing, que também só tem uma palavra negativa, que é o nothing.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                38
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+Ena Smith
+Aula 04
+
+                                              R ESUMO
+
+ •   Revise o uso das terminações S, SS, SH, CH, X no Presente Simples.
+ •   Revise o uso dos auxiliares DO e DOES e o uso da terminação com Y.
+ •   Os verbos regulares recebem o acréscimo de ED ao infinitivo para formar o passado
+     simples. A forma é a mesma para todas as pessoas (I, you, he, we, etc).
+ •   Nos verbos irregulares, não há nenhum tipo de regra que estabeleça como será formado
+     o passado.
+ •   Revise a tabela dos verbos irregulares e as tabelas Quantificadores.
+     O tempo verbal Futuro Simples (Simple Future) é formado pelo uso do verbo modal ou
+                                                      ==219a34==
+
+ •
+     auxiliar WILL + verbo no infinitivo sem o TO.
+ •   Geralmente o Futuro Simples é acompanhado por alguns advérbios ou locuções
+     adverbiais, como: Tomorrow (amanhã), soon (em breve), next month (próximo
+     mês)/week (próxima semana)/year(próximo ano), in a few days (em poucos
+     dias), in a short time (em pouco tempo), in hours... (em horas…)
+ •   Forma-se o Futuro com o GOING TO assim: To Be (am/is/are) + Going To + verbo
+     principal. e There + To Be (am/is/are) + Going To + Be.
+ •   O GOING TO também é usado para fazer planos ou predições. Quando temos evidência
+     de que algo vai ocorrer.
+ •   Os Quantificadores All (todo(a)(s), Every e Each (cada) indicam o número total de algo
+     em um grupo.
+ •   Geralmente o too é usado no meio das frases e antes de adjetivo ou advérbio para indicar
+     algo negativo. Expressa algo que é mais do que o necessário ou do que se deseja.
+ •   Cuidado! Para expressar algo positivo não se usa o too, mas sim o really (muito) ou
+     very (muito).
+ •   Se usa many (muito) e few (pouco) para substantivos contáveis e much (muito) e little
+     (pouco) para incontáveis.
+ •   Dê atenção aos conectivos: anymore = não mais. = any (nenhum) + more (mais) = não
+     mais.
+
+      Receita Federal (Analista Tributário) Língua Inglesa                                39
+      www.estrategiaconcursos.com.br                                                      129
+
+                                   
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Dica da Ena: Leia primeiro as questões pois ganhará tempo, e quando for para o texto já vai
+procurar as palavras que foram citadas no enunciado. Agora vá para a página da Lista de
+Questões Apresentadas e tente resolver sozinho (a), só depois confira os gabaritos e os
+comentários das questões. Assim, você tirará mais proveito, pois perceberá onde tem que
+melhorar.
+
+                                                T EXTO 1
+Analista Legislativo – Processo Legislativo – Senado Federal – FGV
+
+
+Read text II and answer questions 01 to 04.
+Leia o texto II e responda as questões 01 a 04.
+
+
+                                                       TEXT II
+
+
+How does a lawyer snatch defeat from the jaws of victory? The answer may surprise some
+lawyers, according to research company Research One.
+
+
+In 7 years of providing specialist legal research, writing, and analysis services to lawyers
+worldwide, multi-award winning research company Research One has compiled the best
+information there is on why some lawyers lose “unlosable” cases, cases where everything points
+9 to a good outcome — law, history, policy, and basic fairness — yet the court still decides the
+other way. CEO, Troy Simpson, says the commonest mistake lawyers make is to raise every
+argument imaginable. “The fear of losing a case compels lawyers to raise every argument
+conceivable. It may seem counter-intuitive, and might contradict what you’re taught in law
+school, but raising a mishmash of legal theories in fact creates an even bigger risk for a lawyer.
+Unless you find the real point of the case and toss out the arguments that have no legs, then you
+risk diverting the court’s attention and you dilute the strength of your ‘real’ argument”, Simpson
+says.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   40
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Forgetting to look outside your area of expertise is also high on the list of ways to lose the
+unlosable case. “No lawyer can master every area of law, so lawyers compartmentalize the law
+and focus on 1 or 2 areas of expertise. But the law can’t be so neatly contained, which means you
+may miss a winning argument if it’s outside your experience”, Simpson says...
+
+
+Several deeper problems affect lawyers’ success rates, according to Research One. The first
+problem is lawyers’ shortage of time: “You may have no time to think through your argument
+properly, but deadlines push you on. So you paper over the gaps in logic and end-up presenting
+nonsense”. Second, too many lawyers work in noisy and busy environments, poorly suited to the
+work of lawyers: “It’s hard to think in the hustle and bustle of big cities. The work of a good
+thinker is quiet and unhurried.” The third problem is a lack of objectivity: “When you’re anxious
+for a particular result, you may sometimes not look as objectively at a legal problem or legal
+argument as you should”, Simpson says.
+
+
+To confront these and other problems, lawyers around the common law world are finding their
+way to a new resource that aims to reduce the risk of making potentially costly and embarrassing
+mistakes. The resource is Win More Cases: The Lawyer’s Toolkit, a groundbreaking 200-page
+step-by-step guide on solving legal problems persuasively in writing.
+(http://www.research- one.com.au/Portals/0/PressRelease_HardCopy_7.pdf)
+
+Comentário:
+01 The research company mentioned says that three main problems affect lawyers’ success, one
+of which is
+
+
+(A) lofty offices.
+(B) unfit conditions.
+(C) unlucky circumstances.
+(D) unsafe surroundings.
+(E) embarrassing spots.
+
+
+01 The research company mentioned says that three main problems affect lawyers’ success, one
+of which is
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  41
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+01 A empresa de pesquisa mencionada diz que três problemas principais afetam o sucesso dos
+advogados, um dos quais é
+
+
+(A) lofty offices. - escritórios em lofts.
+(B) unfit conditions. - condições impróprias.
+
+Second, too many lawyers work in noisy and busy environments, poorly suited to the work of
+lawyers: “It’s hard to think in the hustle and bustle of big cities. The work of a good thinker is
+quiet and unhurried.”
+Segundo, muitos advogados trabalham em ambientes barulhentos e ocupados, pouco
+adequados ao trabalho dos advogados: “É difícil pensar na agitação das grandes cidades. O
+trabalho de um bom pensador é quieto e sem pressa.
+
+
+Correta. De acordo com o segmento do texto acima, a empresa de pesquisa mencionada diz
+que um dos problemas principais que afetam o sucesso dos advogados são condições
+impróprias.
+
+
+GABARITO: B
+
+
+(C) unlucky circumstances. - circunstâncias infelizes.
+(D) unsafe surroundings. - ambiente inseguro.
+(E) embarrassing spots. - lugares embaraçosos.
+
+
+Nenhuma das outras opções A, C, D e E apresentam problemas mencionados no texto que
+afetam o sucesso dos advogados. Erradas.
+
+
+02 The expression “snatch defeat from the jaws of victory” (line1) indicates the case is ultimately
+02 A expressão “arranca a derrota das garras da vitória” (linha 1) indica que o caso é finalmente
+
+
+(A) arguable. – discutível
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     42
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(B) hopeless. – sem esperança
+(C) unaltered. - inalterado
+(D) disputed. - disputado
+(E) pending. - pendente
+
+
+A expressão idiomática “snatch defeat from the jaws of victory” (arranca a derrota das garras da
+vitória) significa perder repentinamente um caso que era muito provável que se vencesse,
+principalmente devido a erros ou mau julgamento. Essa questão foi anulada pela FGV por não
+haver nenhuma resposta correta.
+
+
+GABARITO: ANULADA
+
+
+03 In “yet the court still decide the other way” (lines 9 and 10) yet can be replaced by
+03 Em "mas o tribunal ainda decide o contrário" (linhas 9 e 10), mas pode ser substituído por
+
+
+(A) moreover. – além disso
+(B) hitherto. – até agora
+(C) until. – até
+(D) however. – entretanto
+
+
+In 7 years of providing specialist legal research, writing, and analysis services to lawyers
+worldwide, multi-award winning research company Research One has compiled the best
+information there is on why some lawyers lose “unlosable” cases, cases where everything points
+to a good outcome — law, history, policy, and basic fairness — yet/however the court still
+decides the other way.
+Em sete anos fornecendo serviços especializados de pesquisa jurídica, redação e análise a
+advogados em todo o mundo, a empresa de pesquisas premiada Research One compilou as
+melhores informações sobre o motivo pelo qual alguns advogados perdem casos "imperdíveis",
+casos em que tudo indica um bom resultado - lei, história, política e justiça básica –
+mas/entretanto o tribunal ainda decide o contrário.
+
+
+However = yet (conjunção) = mas, porém, contudo, no entanto, entretanto
+Yet (advérbio) = já, ainda
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    43
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Correta. Observe pelo contexto que o yet no texto é uma conjunção e não um advérbio.
+Portanto, ele tem como sinônimo o however. Ambos expressam uma contradição com o que foi
+dito anteriormente.
+
+
+(E) henceforth. – daqui por diante
+
+
+Os conectivos das opções A, B, C e E não têm o mesmo significado do yet no texto. Portanto,
+não servem para substituí-lo.
+
+
+GABARITO: D
+
+
+04 When the text informs that the court may decide “the other way” (line10), this means the
+decision may be
+
+
+(A) fair.
+(B) favorable.
+(C) unchanged.
+(D) unexpected.
+(E) unbiased.
+
+
+04 When the text informs that the court may decide “the other way” (line10), this means the
+decision may be
+04 Quando o texto informa que o tribunal pode decidir "o contrário" (linha 10), isso significa que
+a decisão pode ser
+
+
+(A) fair. - justa
+(B) favorable. – favorável.
+(C) unchanged. – inalterada.
+(D) unexpected. – inesperada.
+
+
+In 7 years of providing specialist legal research, writing, and analysis services to lawyers
+worldwide, multi-award winning research company Research One has compiled the best
+information there is on why some lawyers lose “unlosable” cases, cases where everything points
+
+
+            Receita Federal (Analista Tributário) Língua Inglesa                               44
+            www.estrategiaconcursos.com.br                                                     129
+
+                                         
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+to a good outcome — law, history, policy, and basic fairness — yet the court still decides the
+other way.
+Em sete anos fornecendo serviços especializados de pesquisa jurídica, redação e análise a
+advogados em todo o mundo, a empresa de pesquisas premiada Research One compilou as
+melhores informações sobre o motivo pelo qual alguns advogados perdem casos "imperdíveis",
+casos em que tudo indica um bom resultado - lei, história, política e justiça básica - mas o
+tribunal ainda decide o contrário.
+
+
+Correta. Ao dizer que o tribunal decide o contrário, o autor quis dizer que a decisão é
+inesperada, ou seja, não era a decisão que se esperava.
+
+
+(E) unbiased. – imparcial.
+
+
+As opções A, B, C e E não expressam o que diz o texto concernente à decisão. Erradas.
+
+
+GABARITO: D
+
+
+Translation
+
+
+How does a lawyer snatch defeat from the jaws of victory? The answer may surprise some
+lawyers, according to research company Research One.
+Como um advogado consegue perder um caso que já está praticamente ganho? A resposta
+pode surpreender alguns advogados, segundo a empresa de pesquisas Research One.
+
+
+In 7 years of providing specialist legal research, writing, and analysis services to lawyers
+worldwide, multi-award winning research company Research One has compiled the best
+information there is on why some lawyers lose “unlosable” cases, cases where everything points
+to a good outcome — law, history, policy, and basic fairness — yet the court still decides the
+other way.
+
+
+Em sete anos fornecendo serviços especializados de pesquisa jurídica, redação e análise a
+advogados em todo o mundo, a empresa de pesquisas premiada Research One compilou as
+melhores informações sobre o motivo pelo qual alguns advogados perdem casos "imperdíveis",
+casos em que tudo indica um bom resultado - lei, história, política e justiça básica - mas o
+tribunal ainda decide o contrário.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               45
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+CEO, Troy Simpson, says the commonest mistake lawyers make is to raise every argument
+imaginable. “The fear of losing a case compels lawyers to raise every argument conceivable. It
+may seem counter-intuitive, and might contradict what you’re taught in law school, but raising a
+mishmash of legal theories in fact creates an even bigger risk for a lawyer. Unless you find the
+real point of the case and toss out the arguments that have no legs, then you risk diverting the
+court’s attention and you dilute the strength of your ‘real’ argument”, Simpson says.
+
+
+O CEO, Troy Simpson, diz que o erro mais comum que os advogados cometem é levantar todos
+os argumentos imagináveis. “O medo de perder um caso obriga os advogados a levantar todos
+os argumentos possíveis. Pode parecer contra-intuitivo e contradizer o que você foi ensinado na
+faculdade de direito, mas criar uma mistura de teorias jurídicas na verdade cria um risco ainda
+maior para um advogado. A menos que você descubra o argumento real do caso e descarte os
+argumentos que não têm fundamento, corre o risco de desviar a atenção do tribunal e diluir a
+força do seu argumento "real", diz Simpson.
+
+
+Forgetting to look outside your area of expertise is also high on the list of ways to lose the
+unlosable case. “No lawyer can master every area of law, so lawyers compartmentalize the law
+and focus on 1 or 2 areas of expertise. But the law can’t be so neatly contained, which means you
+may miss a winning argument if it’s outside your experience”, Simpson says...
+
+
+Esquecer de olhar para além da sua área de especialização também está no topo da lista de
+maneiras de perder o caso imperdível. “Nenhum advogado pode dominar todas as áreas do
+direito; portanto, os advogados compartimentam a lei e se concentram em 1 ou 2 áreas de
+especialização. Mas não é possível delimitar [as diferentes áreas do] o direito com tanta precisão,
+o que significa que você pode perder uma causa vencedora se ela estiver fora da sua
+experiência”, diz Simpson.
+
+
+Several deeper problems affect lawyers’ success rates, according to Research One. The first
+problem is lawyers’ shortage of time: “You may have no time to think through your argument
+properly, but deadlines push you on. So you paper over the gaps in logic and end-up presenting
+nonsense”.
+
+
+Vários problemas mais sérios afetam as taxas de sucesso dos advogados, de acordo com a
+Research One. O primeiro problema é a falta de tempo dos advogados: "Você pode não ter
+tempo para refletir adequadamente sobre seu argumento, mas os prazos o pressionam. Então,
+você oculta as lacunas da lógica e acaba apresentando argumentos ilógicos ”.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    46
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Second, too many lawyers work in noisy and busy environments, poorly suited to the work of
+lawyers: “It’s hard to think in the hustle and bustle of big cities. The work of a good thinker is
+quiet and unhurried.” The third problem is a lack of objectivity: “When you’re anxious for a
+particular result, you may sometimes not look as objectively at a legal problem or legal argument
+as you should”, Simpson says.
+
+
+Segundo, muitos advogados trabalham em ambientes barulhentos e ocupados, pouco
+adequados ao trabalho dos advogados: “É difícil pensar na agitação das grandes cidades. O
+trabalho de um bom pensador é quieto e sem pressa. O terceiro problema é a falta de
+objetividade: "Quando você está ansioso por um resultado específico, às vezes pode não
+analisar objetivamente um problema ou argumento jurídico como deveria", diz Simpson.
+
+
+To confront these and other problems, lawyers around the common law world are finding their
+way to a new resource that aims to reduce the risk of making potentially costly and embarrassing
+mistakes. The resource is Win More Cases: The Lawyer’s Toolkit, a groundbreaking 200-page
+step-by-step guide on solving legal problems persuasively in writing.
+(http://www.research- one.com.au/Portals/0/PressRelease_HardCopy_7.pdf)
+
+
+Para enfrentar esses e outros problemas, advogados de todo o mundo do direito comum estão
+buscando um novo recurso que visa reduzir o risco de cometer erros potencialmente
+dispendiosos e embaraçosos. O recurso é Ganhar Mais Casos: O Kit de Ferramentas do
+Advogado, um guia inovador de 200 páginas que ensina passo a passo como resolver problemas
+jurídicos de forma persuasiva por escrito.
+
+                                                T EXTO 2
+ANALISTA LEGISLATIVO - CONTABILIDADE - SENADO FEDERAL – FGV
+
+
+Read text II and answer questions 05 to 11.
+Leia o texto II e responda as questões 05 a 11.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   47
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                                            Meet the new neighbors
+
+
+      The empty house, in a middle-class corner of southern California, is two storeys high and
+2boasts a three-car garage. Roses bloom around a kidney-shaped swimming pool, which is green
+with algae. Bill Bobbitt, a county inspector, dips a ladle into the water and brings up half a
+dozen
+6 wriggling larvae. Mosquitoes, and the West Nile virus that some of them carry, are thriving in
+California’s plunging property market.
+      West Nile virus arrived in America in 1999 and made it to California three years later. Since
+then it is known to have infected 2,300 people in the state, of whom 76 have died… In theory,
+owners are supposed to keep their properties in decent shape whether they live there or not.
+13 California has even passed a bill fining banks and mortgage companies 14 that seize
+properties and then allow pools to fester. But Mr. Bobbitt isn’t waiting for the lawyers. He has
+treated the pool in Santa Ana with oil and synthetic growth hormones, which will keep the
+mosquitoes adolescent, preventing breeding. Then he tips in a few dozen mosquito fish
+(Gambusia affinis), which begin happily munching larvae. You can buy a lot of the fish for what
+a lawyer charges per hour, and some
+21 authorities, with commendable creativity, even provide them free to help control the pests.
+(From The Economist, August 2d, 2008, p. 34)
+
+
+Comentários:
+05 The tone of the title is
+
+
+(A) tragic.
+(B) sympathetic.
+(C) ironic.
+(D) wailing.
+(E) enthusiastic.
+
+
+05 The tone of the title is
+05 O tom do título do texto é:
+
+
+(A) tragic. = trágico
+(B) sympathetic. = solidário
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     48
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) ironic. = irônico
+(D) wailing. = depressivo
+(E) enthusiastic. = entusiástico
+
+
+Este é o título do texto: Meet the new neighbors = Conheça os novos vizinhos
+
+
+Geralmente quando se fala de conhecer os novos vizinhos, está se referindo ao vizinho de porta,
+alguém que mora ao seu lado ou nas redondezas, ou seja: pessoas. E que é de costume tentar
+conhecê-los logo que alguém se muda para uma casa nova. Mas, no texto o autor fala sobre os
+mosquitos que viraram uma peste na Califórnia, e que muitos os encontraram em larvas nas
+piscinas das casas para onde se mudaram. Portanto, o autor utiliza uma ironia como crítica, um
+sarcasmo ao referir-se aos insetos como sendo os novos vizinhos.Embora o conteúdo do texto
+mostre que o fato é lamentável ou trágico, mas o enunciado está perguntando sobre o título.
+
+Figuras de Linguagem : subdivisão - Figuras de Pensamento - Ironia: é a figura que apresenta um
+termo em sentido oposto ao usual, obtendo-se, com isso, efeito crítico ou humorístico.
+Fonte: http://www.brasilescola.com/portugues/figuras-linguagem.htm
+
+GABARITO: C
+
+06 According to the text, the market for buying and selling houses in California is
+
+
+(A) dropping.
+(B) stable.
+(C) rising.
+(D) sky-rocketing.
+(E) inflated.
+
+
+06 According to the text, the market for buying and selling houses in California is
+06 Segundo o texto, o mercado de compra e venda de casas na Califórnia está
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                49
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Mosquitoes, and the West Nile virus that some of them carry, are thriving in California’s
+plunging property market.
+Os mosquitos, e o vírus do Nilo Ocidental que alguns deles carregam, estão prosperando no
+mercado imobiliário decadente da Califórnia.
+
+
+Opção A: dropping.= caindo.
+
+
+Observe abaixo os sinônimos:
+Plunging = plunge (infinitivo) = declinar, decrescer, deteriorar = dropping = drop (infinitivo)
+= cair, reduzir, diminuir;
+                                                        ==219a34==
+
+Cuidado! O verbo thrive (prosperar, crescer, adaptar-se) não se refere ao mercado imobiliário,
+mas sim aos mosquitos, são eles que prosperam enquanto as vendas de casas diminuem.Como
+você pode observar, a opção A revela com um sinônimo o mesmo conteúdo textual. Portanto,
+esta é nossa opção correta.
+
+
+Opção B: stable.= estável, que permanece firme, sólido.
+
+
+Como você pode observar no segmento acima, a prosperidade do mosquito, o seu alastramento
+fez com que o mercado imobiliário caísse. Portanto, dizer que o mesmo está estável não reflete
+o conteúdo do texto.
+
+
+Opções C, D e E: rising.= subindo.; D: sky-rocketing.= altíssimo, subir vertiginosamente; E:
+inflated = inflado, expandido a nível anormal, exagerado.;
+
+
+Estas opções refletem exatamente o oposto do que diz no segmento do texto acima e por isso
+são incorretas.
+
+
+GABARITO: A
+
+07 A kidney-shaped swimming-pool is
+
+
+(A) triangular.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                50
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(B) square.
+(C) rectangular.
+(D) trapezoid.
+(E) curved.
+
+
+07 A kidney-shaped swimming-pool is
+07 A piscina em forma de rim é
+
+
+(A) triangular = triangular.
+(B) square = quadrada.
+(C) rectangular = retangular.
+(D) trapezoid = trapezoidal.
+(E) curved = curva.
+
+
+Para acertar esta questão você precisa de duas coisas: saber o significado da palavra kidney e já
+ter visto um rim, nem que seja por foto.
+
+
+Kidney= rim; maneira de ser, temperamento (figurado).
+
+
+Esta palavra tem função substantivo concreto e abstrato. Logicamente, para saber o formato da
+piscina é adequado o seu significado concreto: rim. O formato deste órgão é curvo. Portanto, a
+opção correta é a letra E.
+
+
+GABARITO: E
+
+08 The underlined word in “wriggling larvae” (lines 5 and 6) means that the larvae are
+
+
+(A) growing
+(B) migrating
+(C) reproducing
+(D) twisting
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  51
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(E) dying
+
+
+08 The underlined word in “wriggling larvae” (lines 5 and 6) means that the larvae are
+08 A palavra sublinhada em “larvas se contorcendo” (linhas 5 e 6) significa que as larvas estão
+
+
+Bill Bobbitt, a county inspector, dips a ladle into the water and brings up half a dozen wriggling
+larvae.
+Bill Bobbitt, um inspector do condado, mergulha uma concha na água e traz meia dúzia de larvas
+se contorcendo.
+
+
+Wriggling = contorcendo-se, movimento que as larvas fazem quando saem dos ovos que
+eclodem.
+
+Opção A: growing= crescendo, desenvolvendo;
+
+
+Esta opção está incorreta pois não reflete o que o autor expressa no texto. O crescimento das
+larvas acontece no decorrer do tempo. O vocábulo sublinhado e a imagem que se vê quando as
+larvas são retiradas da piscina, não são sinônimos de crescimento.
+
+
+Opção B: migrating = migrando, migração, movimento espacial de um lugar para o outro.
+
+
+Esta opção também não reflete o que diz o texto. Dizer que as larvas estão se contorcendo, não
+tem nada a ver com o fato dos insetos migrarem.
+
+
+Opção C: reproducing = multiplicando-se, reproduzindo, gerando nova(s) vida(s).
+
+
+Isto também não é o que o vocábulo wriggling significa, como você pode observar no trecho
+acima do texto. Quando alguém retira as larvas da piscina e vê as mesmas contorcendo-se, isto
+não mostra que estão se multiplicando. Os mosquitos é que se reproduzem.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      52
+        www.estrategiaconcursos.com.br                                                            129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Opção D: twisting = retorcendo-se, curvando-se, enrolando-se, espiralando-se, contorcendo-se
+= wriggling = contorcendo-se, fazendo um movimento sinuoso, torcendo-se;
+
+
+É exatamente esta palavra que é sinônimo do vocábulo grifado e que o substitui. Portanto esta
+é nossa opção correta. Para acertar esta questão é só você por o verbo no infinitivo: to twist, e
+lembrar da dança (palavras conhecidas – uma das técnicas que vimos na aula 00) e do
+movimento que as larvas fazem.
+
+
+Dica: sempre que as opções vierem com os verbos no Presente Contínuo como esta ou qualquer
+outro tempo verbal, ponha o verbo no infinitivo, isto o ajudará a lembrar-se de algo que o levará
+ao significado do verbo.
+
+Extra Information: Estilo de dança de inícios da década de 60, introduzido por Chubby Checker
+com o seu tema "The Twist". Caracterizado por movimentos simples de torção da anca e dos
+pés, o twist atraiu a juventude pela sua simplicidade e exuberância. Sem passos específicos, esta
+nova dança dispensou o contacto físico e influenciou definitivamente o modo de dançar das
+gerações seguintes.
+Fonte: http://www.infopedia.pt/$twist
+
+Opção E: dying = morrendo.
+
+
+Esta opção expressa justamente o oposto do significado, pois o fato de que as larvas se
+contorcem é porque acabaram de nascer e não por estarem morrendo.
+
+
+GABARITO: D
+
+09 The expression “boasts a three-car garage” (line 2) reveals an attitude which is
+
+
+(A) humble.
+(B) haughty.
+(C) hopeful.
+(D) hospitable.
+(E) holy.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  53
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+09 The expression “boasts a three-car garage” (line 2) reveals an attitude which is
+09 A expressão “gaba-se de uma garagem para três carros” (linha 2) revela uma atitude que é
+
+
+The empty house, in a middle-class corner of southern California, is two storeys high and boasts
+a three-car garage.
+A casa vazia, num bairro de classe média no sul da Califórnia, tem dois andares e gaba-se de
+uma garagem para três carros.
+
+
+Nesta questão a elaboradora requer do candidato não apenas o conhecimento de vocabulário,
+mas também de interpretação.
+
+
+Opção A: humble = humilde.
+
+
+Esta opção reflete exatamente o oposto da expressão em pauta no enunciado. E ainda que você
+não lembre o que significa to boast, mas é fácil deduzir que a frase não expressa humildade.
+Portanto, esta opção é errada.
+
+
+Opção B: haughty = arrogante.
+
+
+Observe abaixo os sinónimos:
+
+
+Boast = exibir-se, glorificar-se, envaidecer-se, mostrar algo de um modo orgulhoso ou com
+ostentação; jactar-se, falar com excessivo orgulho, com ar de superioridade e arrogância. =
+haughty = arrogante, altivo, orgulhoso.
+
+
+Portanto, esta opção reflete exatamente a expressão do enunciado e por isto é a opção correta.
+
+
+Opção C: hopeful = esperançosa.
+
+
+Não existe nenhuma palavra na expressão do enunciado que indique esperança. A descrição é
+de algo que já existe. E por isso esta opção é errada.
+
+
+Opção D: hospitable = hospitaleira.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  54
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Não é pelo fato de se falar em uma casa que isto indique hospitalidade. A opção não tem nada a
+ver com a mensagem que passa a expressão citada no enunciado. Opção errada.
+
+
+Opção E: holy= santa, sagrada.
+
+
+Esta opção também não condiz com a atitude que é revelada na expressão citada no enunciado
+e portanto é errada.
+
+
+GABARITO: B
+
+10 When “mortgage companies seize properties” (lines 13 and14) this means they
+
+
+(A) take them down.
+(B) take them off.
+(C) take them away.
+(D) take them out.
+(E) take them apart.
+
+
+10 When “mortgage companies seize properties” (lines 13 and14) this means they
+10 Quando “as empresas hipotecárias apoderam-se das propriedades” (linhas 13 e 14) isto
+significa que elas
+
+
+Esta é uma questão onde a Banca explora o conhecimento do candidato sobre os verbos frasais.
+Assunto que foi visto nesta aula.
+
+
+Opção A: take them down = as derruba.
+
+
+Este verbo frasal não reflete o que diz o termo citado no enunciado, pois as empresas
+hipotecárias não derrubam as propriedades. Opção errada.
+
+
+Opção B: take them off = as abandona.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               55
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Esta opção também não está correta. Visto que o verbo frasal take them off não substitui to
+seize.
+
+
+Opção C: take them away = as apreende.
+
+
+É justamente este verbo frasal que substitui o verbo citado no enunciado, portanto esta é nossa
+opção correta; observe como são sinônimos:
+
+
+Seize = tomar posse ou ter domínio de algo de repente e forçosamente, tomar em custódia,
+capturar, confiscar, arrebatar, sequestrar, desapropriar, expropriar = take away = remover algo
+concreto ou abstrato, subtrair, deduzir, tirar algo de alguém ou de algum lugar. Capturar,
+confiscar, conseguir à força ou por habilidade, assumir o controle.
+
+
+Opção D: take them out = as remove.
+
+
+Talvez esta opção seja a que deixe o concursando em dúvida, visto que o significado deste e do
+take away são parecidos. Mas existe uma relevante diferença: take away é tomar, levar embora e
+take out é levar para fora, sair. E por isso esta opção D não substitui o sentido do verbo seize no
+enunciado. Portanto, errada.
+
+
+Opção E: take them apart = as desmonta.
+
+
+Esta opção não substitui o verbo seize, pois take them apart significa separar algo em partes e
+na linguagem informal é bater,castigar.
+
+
+GABARITO: C
+
+11 In “provide them free” (line 21) them refers to
+
+
+(A) lawyers.
+(B) larvae.
+(C) authorities.
+(D) pests.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    56
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(E) fish.
+
+11 In “provide them free” (line 21) them refers to
+11 Em “os provê grátis” (linha 21) os refere-se a
+
+
+You can buy a lot of fish for what a lawyer charges per hour, and some authorities, with
+commendable creativity, even provide them free to help control the pests.
+Você pode comprar muitos peixes pelo mesmo preço que um advogado cobra por hora, e
+algumas autoridades, com criatividade louvável até mesmo os oferecem grátis para ajudar a
+controlar as pragas.
+
+
+Opção A : lawyers = advogados.
+
+
+O narrador expressa claramente no início da frase que os advogados cobram caro e por isso é
+que ele prefere comprar os peixes para controlar as pragas. Então o them não pode se referir a
+advogados pois neste caso o texto não declara que as autoridades os providencia de graça.
+Opção errada.
+
+
+Opções B: larvae = larvas e D: pests = pragas.
+
+
+Podemos dizer que estas duas opções significam a mesma coisa pois as larvas são as pragas
+(mosquitos) logo que nascem. Além disso, o narrador ressalta que até mesmo them = eles (algo)
+são providenciados de graça por algumas autoridades, para controlar as pragas. Nesse momento
+você já descarta também estas duas opções pois este “algo” tem que ser diferente de pragas, já
+que o seu intuito é acabar com elas.
+
+
+Opção C: authorities = autoridades.
+
+
+O verbo provide é um cognato verdadeiro que significa prover, providenciar. É um verbo
+transitivo direto que tem como sujeito as autoridades. Então você já descarta a opção C. Pois
+
+            Receita Federal (Analista Tributário) Língua Inglesa                           57
+            www.estrategiaconcursos.com.br                                                 129
+
+                                         
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+estamos procurando o objeto da oração: them, e não o sujeito, o praticante da ação =
+autoridades. Opção errada.
+
+
+Opção E: fish = peixe.
+
+
+Então them refere-se aos peixes = fishes, eles são o objeto direto da frase. Algumas
+autoridades os oferecem grátis para ajudar na eliminação ou controle da praga do mosquito.
+
+
+GABARITO: E
+
+Translation
+
+
+Meet the new neighbors
+Conheça os novos vizinhos
+
+
+The empty house, in a middle-class corner of southern California, is two storeys high and boasts
+a three-car garage. Roses bloom around a kidney-shaped swimming pool, which is green with
+algae. Bill Bobbitt, a county inspector, dips a ladle into the water and brings up half a dozen
+wriggling larvae. Mosquitoes, and the West Nile virus that some of them carry, are thriving in
+California’s plunging property market.
+
+
+A casa vazia, num bairro de classe média no sul da Califórnia, tem dois andares e gaba-se de
+uma garagem para três carros. As rosas florescem em torno de uma piscina em forma de rim,
+que é verde com algas. Bill Bobbitt, um inspetor de condado, mergulha uma concha na água e
+traz meia dúzia de larvas se contorcendo. Os mosquitos e o vírus do Nilo Ocidental, que alguns
+deles carregam, estão prosperando no mercado imobiliário decadente da Califórnia.
+
+
+West Nile virus arrived in America in 1999 and made it to California three years later. Since then
+it is known to have infected 2,300 people in the state, of whom 76 have died… In theory, owners
+are supposed to keep their properties in decent shape whether they live there or not.
+
+
+O vírus do Nilo Ocidental chegou à América em 1999 e chegou à Califórnia três anos depois.
+Desde então, ele é conhecido por ter infectado 2.300 pessoas no Estado, das quais 76
+morreram. Na teoria, os proprietários devem manter suas propriedades em boa forma, quer
+morem lá ou não.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   58
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+California has even passed a bill fining banks and mortgage companies that seize properties and
+then allow pools to fester. But Mr. Bobbitt isn’t waiting for the lawyers. He has treated the pool
+in Santa Ana with oil and synthetic growth hormones, which will keep the mosquitoes adolescent,
+preventing breeding. Then he tips in a few dozen mosquito fish (Gambusia affinis), which begin
+happily munching larvae. You can buy a lot of the fish for what a lawyer charges per hour,
+and some authorities, with commendable creativity, even provide them free to help control the
+pests.
+(from The Economist, August 2d, 2008, p. 34)
+
+
+A Califórnia chegou a aprovar uma lei multando os bancos e empresas hipotecárias que
+apreendem propriedades e, em seguida, permitem que as piscinas apodreçam. Mas Bobbitt não
+está à espera dos advogados. Ele tem tratado a piscina em Santa Ana com hormônios de
+crescimento sintético e derivados de petróleo, que manterão os mosquitos adolescentes, como
+prevenção da reprodução. Em seguida ele coloca algumas dúzias de peixes-mosquito
+(Gambusia affinis), os quais começam alegremente a mastigar as larvas. Você pode comprar um
+monte de peixe pelo mesmo valor que um advogado cobra por hora, e algumas autoridades,
+com criatividade louvável, os provê grátis para ajudar a controlar as pragas.
+
+                                                T EXTO 3
+Analista de Apoio - Turismólogo - Companhia de Desenvolvimento Econômico de Minas Gerais –
+CODEMIG - FGV
+
+
+                                                       TEXT 1
+
+
+                                         Mining tourism in Ouro Preto
+
+
+Ouro Preto is surrounded by a rich and varied natural environment with waterfalls, hiking trails
+and native vegetation partially protected as state parks. Parts of these resources are used for
+tourism. Paradoxically, this ecosystem contrasts with the human occupation of the region that
+produced, after centuries, a rich history and a cultural connection to mining, its oldest economic
+activity which triggered occupation. The region has an unlimited potential for tourism, especially
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   59
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+in specific segments such as mining heritage tourism, in association or not with the existing
+ecotourism market. In fact, in Ouro Preto, tourism, history, geology and mining are often hard to
+distinguish; such is the inter-relationship between these segments.
+
+
+For centuries, a major problem of mining has been the reuse of the affected areas. Modern
+mining projects proposed solutions to this problem right from the initial stages of operation,
+which did not happen until recently. As a result, most quarries and other old mining areas that do
+not have an appropriate destination represent serious environmental problems. Mining tourism
+utilizing exhausted mines is a source of employment and income. Tourism activities may even
+contribute to the recovery of degraded areas in various ways, such as reforestation for leisure
+purposes, or their transformation into history museums where aspects of local mining are
+interpreted.
+
+
+Minas Gerais, and particularly Ouro Preto, provides the strong and rich cultural and historical
+content needed for the transformation of mining remnants into attractive tourism products,
+especially when combined with the existing cultural tourism of the region. Although mining
+tourism is explored in various parts of the world in extremely different social, economic, cultural
+and natural contexts, in Brazil it is still not a strategy readily adopted as an alternative for areas
+affected by mining activities.
+
+
+(Lohmann, G. M.; Flecha, A. C.; Knupp, M. E. C. G.; Liccardo, A. (2011). Mining tourism in Ouro
+Preto, Brazil: opportunities and challenges. In: M. V. Conlin; L. Jolliffe (eds). Mining heritage and
+tourism: a global synthesis. New York: Routledge, pp. 194-202.
+
+
+Comentários:
+12 Mark the statements below as TRUE (T) or FALSE (F) according to Text 1.
+
+
+( ) Tourism may actually be quite beneficial to some degraded mining areas.
+( ) Mining tourism has recently been promptly embraced by Brazilian regions.
+( ) Ouro Preto is attracting people because mining is one of its most recent activities.
+
+
+The correct sequence is:
+
+
+(A) F–T –T;
+(B) F –F –T;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                       60
+        www.estrategiaconcursos.com.br                                                             129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) F –T –F;
+(D) T –T – F;
+(E) T –F– F.
+
+
+12 Mark the statements below as TRUE (T) or FALSE (F) according to Text 1.
+12 Assinale as declarações abaixo com (V) VERDADEIRO ou (F) FALSO de acordo com o Texto 1.
+
+
+(T) Tourism may actually be quite beneficial to some degraded mining areas.
+(V) O Turismo pode na verdade ser de muito benefício para algumas áreas degradadas.
+
+
+Mining tourism utilizing exhausted mines is a source of employment and income. Tourism
+activities may even contribute to the recovery of degraded areas in various ways, such as
+reforestation for leisure purposes, or their transformation into history museums where aspects of
+local mining are interpreted.
+O potencial turístico da mineração utilizando minas exauridas é uma fonte de emprego e renda.
+As atividades de turismo podem até contribuir para a recuperação de áreas degradadas de
+várias maneiras, tais como reflorestamento para fins de lazer, ou sua transformação em museus
+de história, onde os aspectos da mineração local são interpretados.
+
+
+Segundo o segmento do texto acima, realmente o turismo pode beneficiar de várias formas as
+áreas degradadas. A declaração é verdadeira.
+
+
+(F) Mining tourism has recently been promptly embraced by Brazilian regions.
+(F) O potencial turístico de mineração recentemente tem sido prontamente adotado por regiões
+brasileiras.
+
+
+Although mining tourism is explored in various parts of the world in extremely different social,
+economic, cultural and natural contexts, in Brazil it is still not a strategy readily adopted as an
+alternative for areas affected by mining activities.
+Embora o potencial turístico de mineração seja explorado em várias partes do mundo em
+diferentes contextos extremamente sociais, econômicos, culturais e naturais, no Brasil ainda não
+é uma estratégia prontamente adotada como uma alternativa para áreas afetadas por atividades
+de mineração.
+
+
+A declaração reflete o oposto do que diz o texto. Portanto, é falsa.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    61
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(F) Ouro Preto is attracting people because mining is one of its most recent activities.
+(F) Ouro Preto está atraindo pessoas porque a mineração é uma das suas mais recentes
+atividades.
+
+
+Paradoxically, this ecosystem contrasts with the human occupation of the region that produced,
+after centuries, a rich history and a cultural connection to mining, its oldest economic activity
+which triggered occupation.
+Paradoxalmente, este ecossistema contrasta com a ocupação humana da região que produziu,
+depois de séculos, uma história rica e uma ligação cultural com a mineração, a sua mais antiga
+atividade econômica que foi o que causou a ocupação.
+
+
+most recent = mais recente
+oldest = mais antiga
+
+
+Se substituíssemos a expressão do enunciado pela palavra no texto, alteraria totalmente a
+compreensão para o sentido oposto, pois as palavras são antônimas, ou seja, tem significados
+opostos. A declaração é falsa.
+
+
+The correct sequence is:
+A sequência é:
+
+
+(A) F–T –T; = F – V – V;
+(B) F –F –T; = F – F – V;
+(C) F –T –F; = F – V – F;
+(D) T –T –F; = V – V – F;
+(E) T –F–F. = V – F – F;
+
+
+GABARITO: E
+
+
+13 Text 1 refers to “hiking trails” (l. 2), which are primarily intended for:
+
+
+(A) cycling;
+(B) skating;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  62
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) walking;
+(D) driving;
+(E) shooting
+
+
+13 Text 1 refers to “hiking trails” (l. 2), which are primarily intended for:
+13 O Texto 1 se refere a “trilhas para hiking” (l.2), que tem como principal propósito:
+
+
+(A) cycling; = ciclismo
+(B) skating; = patinação
+(C) walking; = caminhada
+(D) driving; = dirigir
+(E) shooting = tiro ao alvo
+
+
+Ouro Preto is surrounded by a rich and varied natural environment with waterfalls, hiking trails
+and native vegetation partially protected as state parks.
+Ouro Preto está rodeada por um ambiente natural variado e rico com cachoeiras, trilhas para
+caminhadas em terrenos acidentados e vegetação nativa parcialmente protegida como parques
+estaduais.
+
+
+Hiking trails = trilhas para caminhadas em terrenos acidentados
+Walking trails = trilhas para caminhadas em superfíces planas (asfalto, calçada, parque
+pavimentado, areia)
+
+
+When you hike, it means you are walking from a lower elevation to a higher elevation. On the
+other hand, when you walk, it means that you are only trekking a relatively smooth and flat path,
+without too many hurdles. Hiking entails a lot more effort than walking since the path in hiking
+trails is more difficult.
+http://www.differencebetween.net/miscellaneous/sports
+Quando você faz hike, isso significa que você está andando de uma elevação mais baixa para
+uma elevação mais alta. Por outro lado, quando você faz caminhadas, isso significa que você está
+apenas andando num caminho relativamente liso e plano, sem muitos obstáculos. Hiking implica
+muito mais esforço do que fazer caminhada, visto que o caminho em trilhas para hiking é mais
+difícil.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  63
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+A resposta que a FGV deu como gabarito está errada. A caminhada (walking) você faz em uma
+praia, parque, até em uma praça, ou numa trilha cimentada na cidade usando walking shoes
+(tênis para caminhada). Já o hiking é feito em trilhas por parques florestais, áreas montanhosas,
+etc. No hiking você precisa de hiking boots (botas apropriadas para hiking) e de hiking sticks
+(bastão para hiking) para fincar na terra e ter apoio ao se andar, pois se passa por córregos,
+terrenos com lama, com elevações, altos e baixos, pedras, neve, etc.
+
+
+Quando se diz: Let’s go for a walk (Vamos fazer uma caminhada) já se sabe que é uma
+caminhada normal sem esforços maiores. Ao se dizer Let’s go hiking, todo mundo já sabe que
+não é uma simples caminhada e geralmente é por um tempo maior. Quando você pratica hiking
+obviamente você caminha, mas quando você faz caminhada você não pratica hiking. Portanto,
+não é a mesma coisa. Se eu tivesse ministrado esse curso, teria dito aos alunos pra recorrer
+dessa questão. Já vi até sites de turismo traduzindo hiking como caminhada, mas não está
+correto. Concluindo: o propósito principal das trilhas para hiking é hiking!! As trilhas para
+caminhada (walking trails) são diferentes (mais fáceis), conforme já expliquei.
+
+
+GABARITO DA BANCA: C
+GABARITO PROPOSTO: ANULADA (Por não haver uma resposta correta)
+
+
+14 The opposite of the underlined word in “are often hard to distinguish” (l. 11) is:
+
+
+(A) seldom;
+(B) always;
+(C) at times;
+(D) generally;
+(E) frequently.
+
+
+14 The opposite of the underlined word in “are often hard to distinguish” (l. 11) is:
+14 O oposto da palavra grifada em “são muitas vezes difíceis de distinguir” (l.11) é:
+
+
+(A) seldom; = raramente
+
+
+In fact, in Ouro Preto, tourism, history, geology and mining are often hard to distinguish; such is
+the inter-relationship between these segments.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    64
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+De fato, em Ouro Preto, o turismo, a história, a geologia e a mineração são muitas vezes difíceis
+de distinguir; tal é a inter-relação entre estes segmentos.
+
+
+Often = muitas vezes, com frequência;
+Seldom = raramente, quase nunca;
+
+
+Se substituíssemos uma palavra pela outra no texto, alteraria totalmente a compreensão para o
+sentido oposto, pois as palavras são antônimas, ou seja, tem significados opostos. Como o
+enunciado pede o oposto, então essa é a opção correta.
+
+
+(B) always; = sempre e (D) generally;= geralmente e (E) frequently. = frequentemente
+
+
+Often = muitas vezes, frequentemente = always = sempre, com frequência = frequently =
+frequentemente = generally = geralmente;
+
+
+Se substituíssemos qualquer uma dessas palavras por aquela do texto, isso não causaria
+nenhuma alteração na interpretação, pois todas são sinônimas entre si. Visto que o enunciado
+pede o significado oposto, as opções estão erradas.
+
+
+(C) at times;= às vezes
+
+
+A expressão não é o oposto de often, pois tem um significado intermediário, nem é frequente e
+nem é raramente. Opção errada.
+
+              Dica: Memorize esses conectivos, pois eles caem aos montes em concursos.
+
+
+GABARITO: A
+
+
+15. The problem referred to in “solutions to this problem” (l. 14-15) is:
+
+
+(A) using old machinery;
+(B) cleaning the environment;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  65
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) opening new digging sites;
+(D) reclaiming damaged areas;
+(E) digging in unsuitable places
+
+
+15. The problem referred to in “solutions to this problem” (l. 14-15) is:
+15. O problema a que se refere a frase “soluções para esse problema” (l.14-15) é:
+
+
+(A) using old machinery; = usar maquinário antigo
+
+
+O texto não menciona nada sobre a utilização de maquinários antigos. Opção errada.
+
+
+(B) cleaning the environment; = a limpeza do ambiente
+
+
+O texto não menciona a limpeza do ambiente como sendo um problema. Pode ser que a
+reutilização de uma área envolve limpeza, mas não é a mesma coisa. Opção errada.
+
+
+(C) opening new digging sites; = abertura de novos locais de escavação e (E) digging in
+unsuitable places = cavar em locais inadequados
+
+
+Não se trata de escavação. Fazer escavação em locais novos ou inadequados não é o mesmo
+que reutilizar áreas afetadas. Pode ser que a reutilização de uma área envolve escavação, mas
+não é a mesma coisa. Opções erradas.
+
+
+(D) reclaiming damaged areas;= recuperar áreas degradadas
+
+
+For centuries, a major problem of mining has been the reuse of the affected areas. Modern
+mining projects proposed solutions to this problem right from the initial stages of operation,
+which did not happen until recently.
+Durante séculos, um grande problema de mineração tem sido a reutilização das áreas afetadas.
+Os projetos de mineração modernos propuseram soluções para este problema desde os
+estágios iniciais da operação, o que não aconteceu até recentemente.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               66
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Observe o contexto anterior. De que problema se estava falando? Da reutilização das áreas
+afetadas. Essa é a opção correta.
+
+
+GABARITO: D
+
+
+16. The sentence that best explains “Mining tourism utilizing exhausted mines is a source of
+employment and income.” (l.18-19) is:
+
+
+(A) wasted mines can generate jobs and money;
+(B) tourism is supported by miners and their families;
+(C) visiting wasted mines can drain the energy of tourists;
+(D) using damaged mines for tourism may be rather unsafe;
+(E) mining tourism deprives people of their work and resources
+
+
+16. The sentence that best explains “Mining tourism utilizing exhausted mines is a source of
+employment and income.” (l.18-19) is:
+16. A frase que melhor explica “O potencial turístico da mineração utilizando minas exauridas é
+uma fonte de emprego e renda”. (l-18-19) é:
+
+
+(A) wasted mines can generate jobs and money; = minas improdutivas podem gerar emprego e
+dinheiro.
+
+Mining tourism utilizing exhausted mines is a source of employment and income.
+O potencial turístico da mineração utilizando minas improdutivas é uma fonte de emprego e
+renda.
+
+
+wasted = improdutivo, inútil = exhausted = esgotado, exaurido, disipado, desgastado;
+employment = emprego = job = emprego, trabalho
+income = salário, renda = money = dinheiro, meio de vida
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                67
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+A opção expressa a mesma informação textual usando sinônimos de palavras. Essa é a opção
+correta.
+
+
+(B) tourism is supported by miners and their families; = O turismo é apoiado por mineiros e suas
+famílias;
+
+
+O texto nem se refere aos mineiros e nem às famílias deles. Errada.
+
+
+(C) visiting wasted mines can drain the energy of tourists; = visitar minas desperdiçados pode
+drenar a energia de turistas;
+
+
+Exhausted (em outros contextos) = muito cansado, exausto, fatigado;
+
+
+Não é isso que a frase do enunciado quer dizer. A palavra “exhausted” lá não significa que os
+turistas ficam exaustos. Refere-se às minas e indica inutilidade. Opção errada.
+
+
+(D) using damaged mines for tourism may be rather unsafe; = usar minas danificadas para o
+turismo pode ser muito inseguro;
+
+
+Pelo contrário, a frase indica que o uso dessas minas trazem fatores positivos. Além disso, as
+minas são preparadas para receber os turistas. Opção errada.
+
+
+(E) mining tourism deprives people of their work and resources;= o potencial turístico de
+mineração priva as pessoas de seu trabalho e recursos.
+
+
+Pelo contrário, a mineração usada no turismo gera trabalhos e recursos. Opção errada.
+
+
+GABARITO: A
+
+
+17. The phrase “As a result” (l. 16) can be replaced by:
+
+
+(A) Yet;
+(B) Hence;
+
+
+           Receita Federal (Analista Tributário) Língua Inglesa                              68
+           www.estrategiaconcursos.com.br                                                    129
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) Though;
+(D) Anyhow;
+(E) However;
+
+
+17. The phrase “As a result” (l. 16) can be replaced by:
+17. A frase “Por isso” (l.16) pode ser substituída por:
+
+
+(A) Yet; = Mas, contudo e (C) Though;= apesar de, embora (E) However;= entretanto
+
+
+Esses conectivos são sinônimos e só por isso nenhum deles poderia ser a resposta, senão daria
+recurso. Se qualquer deles fosse colocado no lugar da expressão “As a result” , deixaria o texto
+truncado e incoerente. Erradas.
+
+
+(B) Hence; = Por isso; em resultado disso;
+
+
+As a result / Hence, most quarries and other old mining areas that do not have an appropriate
+destination represent serious environmental problems.
+Por isso / Em resultado disso, a maioria das pedreiras e outras áreas de mineração antigas que
+não têm um propósito adequado representam sérios problemas ambientais.
+
+
+Ambos conectivos podem ser usados, pois tem o mesmo significado. Apenas que o hence é
+usado em textos com uma linguagem mais formal. Essa é a opção correta.
+
+
+(D) Anyhow;= de qualquer maneira
+
+
+Esse conectivo introduz uma concessão. Aquele do texto, uma conclusão. Não são sinônimos.
+Errada.
+
+
+GABARITO: B
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 69
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Translation
+
+
+Mining tourism in Ouro Preto
+Turismo de mineração em Ouro Preto
+
+
+Ouro Preto is surrounded by a rich and varied natural environment with waterfalls, hiking trails
+and native vegetation partially protected as state parks. Parts of these resources are used for
+tourism. Paradoxically, this ecosystem contrasts with the human occupation of the region that
+produced, after centuries, a rich history and a cultural connection to mining, its oldest economic
+activity which triggered occupation.
+
+
+A cidade de Ouro Preto está rodeada por um ambiente natural variado e rico com cachoeiras,
+trilhas para hiking e vegetação nativa parcialmente protegidas como parques estaduais. Parte
+destes recursos são utilizados para o turismo. Paradoxalmente, este ecossistema contrasta com a
+ocupação humana da região que produziu, depois de séculos, uma história rica e uma ligação
+cultural com a mineração, a sua mais antiga atividade econômica que foi o que causou a
+ocupação.
+
+
+The region has an unlimited potential for tourism, especially in specific segments such as mining
+heritage tourism, in association or not with the existing ecotourism market. In fact, in Ouro Preto,
+tourism, history, geology and mining are often hard to distinguish; such is the inter-relationship
+between these segments.
+
+
+A região tem um potencial ilimitado para o turismo, especialmente em segmentos específicos,
+como o potencial turístico do patrimônio de mineração, em associação ou não com o mercado
+de ecoturismo existente. De fato, em Ouro Preto, o turismo, a história, a geologia e a mineração
+são muitas vezes difíceis de distinguir; tal é a inter-relação entre estes segmentos.
+
+
+For centuries, a major problem of mining has been the reuse of the affected areas. Modern
+mining projects proposed solutions to this problem right from the initial stages of operation,
+which did not happen until recently. As a result, most quarries and other old mining areas that do
+not have an appropriate destination represent serious environmental problems.
+
+
+Durante séculos, um grande problema da mineração tem sido a reutilização das áreas afetadas.
+Os projetos de mineração modernos propuseram soluções para este problema desde os
+estágios iniciais da operação, o que não aconteceu até recentemente. Por isso, a maioria das
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     70
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+pedreiras e outras áreas de mineração antigas que não têm um propósito adequado
+representam sérios problemas ambientais.
+
+
+Mining tourism utilizing exhausted mines is a source of employment and income. Tourism
+activities may even contribute to the recovery of degraded areas in various ways, such as
+reforestation for leisure purposes, or their transformation into history museums where aspects of
+local mining are interpreted.
+
+
+O potencial turístico da mineração utilizando minas exauridas é uma fonte de emprego e renda.
+As atividades de turismo podem até contribuir para a recuperação de áreas degradadas de
+várias maneiras, tais como reflorestamento para fins de lazer, ou sua transformação em museus
+de história, onde os aspectos da mineração local são interpretados.
+
+
+Minas Gerais, and particularly Ouro Preto, provides the strong and rich cultural and historical
+content needed for the transformation of mining remnants into attractive tourism products,
+especially when combined with the existing cultural tourism of the region.
+
+
+Minas Gerais, e particularmente Ouro Preto, fornece o conteúdo cultural e histórico forte e rico
+necessário para a transformação de restos de mineração em produtos turísticos atraentes,
+especialmente quando combinado com o turismo cultural existente na região.
+
+
+Although mining tourism is explored in various parts of the world in extremely different social,
+economic, cultural and natural contexts, in Brazil it is still not a strategy readily adopted as an
+alternative for areas affected by mining activities.
+(Lohmann, G. M.; Flecha, A. C.; Knupp, M. E. C. G.; Liccardo, A. (2011). Mining tourism in Ouro
+Preto, Brazil: opportunities and challenges. In: M. V. Conlin; L. Jolliffe (eds). Mining heritage and
+tourism: a global synthesis. New York: Routledge, pp. 194-202.
+
+
+Embora o potencial turístico de mineração seja explorado em várias partes do mundo em
+diferentes contextos extremamente sociais, econômicos, culturais e naturais, no Brasil ainda não
+é uma estratégia prontamente adotada como uma alternativa para áreas afetadas por atividades
+de mineração.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      71
+        www.estrategiaconcursos.com.br                                                            129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                                                T EXTO 4
+Técnico Legislativo - Senado Federal – FGV
+
+
+Read text II and answer questions 18 to 21.
+Leia o texto II e responda às questões 18 a 21.
+
+
+                                                       TEXT II
+
+
+     If you think that there’s something oddly familiar about descriptions of social media, it may
+be that you recall some of the discussions in the 1990s about what the web would become. And
+many of its emerging manifestations are close to the idealistic imaginings from that time. A good
+way to think about social media is that all of this is actually just about human beings. Sharing
+ideas, cooperating and collaborating to create art, thinking and commerce, vigorous debate and
+discourse, finding people who might be good friends, allies and lovers – it’s what our species has
+built several civilisations on.
+    That’s why it is spreading so quickly, not because it’s great shiny, whizzy new technology, but
+because it lets us be ourselves – only more so. And it is in the “more so” that the power of this
+revolution lies. People can find information, inspiration, like-minded people, communities and
+collaborators faster than ever before. New ideas, services, business models and technologies
+emerge and evolve at dizzying speed in social media.
+(http://www.icrossing.co.uk/fileadmin/uploads/eBooks/What_is_social_media_Nov_2007.pdf)
+
+
+Comentários:
+18 The text opens with
+
+
+(A) references to the past.
+(B) outlooks for the future.
+(C) warnings to the reader.
+(D) complaints about the web.
+(E) suggestions for changes.
+
+
+18 The text opens with
+18 O texto abre com
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    72
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+If you think that there’s something oddly familiar about descriptions of social media, it may be
+that you recall some of the discussions in the 1990s about what the web would become.
+Se você acha que há algo estranhamente familiar sobre as descrições dos meios de comunicação
+social, pode ser que você se lembre de algumas das discussões na década de 1990 sobre o que
+a web se tornaria.
+
+
+Opção A: references to the past. = referências ao passado.
+
+
+Ora, o texto foi retirado de uma publicação escrita em 2007 e como acabamos de ver no
+segmento retirado do texto acima, logo no início se faz referência a discussões da década de
+1990. Então isto implica que a opção A está corretíssima.
+
+
+Opção B: outlooks for the future = perspectivas para o futuro.
+
+
+And many of its emerging manifestations are close to the idealistic imaginings from that time. A
+good way to think about social media is that all of this is actually just about human beings.
+Sharing ideas, cooperating and collaborating to create art, thinking and commerce, vigorous
+debate and discourse, finding people who might be good friends, allies and lovers – it’s what our
+species has built several civilisations on.
+E muitas das suas manifestações emergentes estão perto da imaginação idealista da época. Uma
+boa maneira de pensar sobre mídias sociais é que tudo isso é na verdade apenas sobre os seres
+humanos. Compartilhamento de ideias, cooperando e colaborando para criar arte, comércio e
+pensamento, discurso e debate vigoroso, encontrando pessoas que possam ser bons amigos,
+aliados e amantes - é sobre este alicerce que as nossas espécies têm criado várias civilizações.
+
+
+Esta opção está incorreta pois expressa totalmente o oposto do que diz o texto. Este refere-se
+ao passado e não ao futuro.
+
+
+Opção C: warnings to the reader.= avisos para o leitor; D:complaints about the web.= queixas
+sobre a rede de alcance mundial e E:suggestions for changes.= sugestões para mudanças.
+
+
+Como você pode observar no contexto acima, nem no primeiro período do texto e nem nos
+seguintes, menciona alguma manifestação do autor tal como aviso, reclamação ou sugestão. O
+que o autor expressa é sua opinião sobre a mídia, fazendo referência ao passado e dando um
+enfoque positivo ao que ela produz.Por isso estas opções estão incorretas.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  73
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+GABARITO: A
+
+
+19 According to the text, social media is spreading because it
+
+
+(A) allows fast exchanges.
+(B) helps political manifestations.
+(C) solves social problems.
+(D) creates links between people.
+(E) promotes new markets.
+
+
+19 According to the text, social media is spreading because it
+19 Segundo o texto, a mídia social está se espalhando porque
+
+
+A good way to think about social media is that all of this is actually just about human
+beings. Sharing ideas, cooperating and collaborating to create art, thinking and commerce,
+vigorous debate and discourse, finding people who might be good friends, allies and
+lovers – it’s what our species has built several civilisations on.
+Uma boa maneira de pensar sobre mídias sociais é que tudo isso é na verdade apenas
+sobre os seres humanos. Compartilhamento de ideias, cooperando e colaborando para criar
+arte, comércio e pensamento, discurso e debate vigoroso, encontrando pessoas que
+possam ser bons amigos, aliados e amantes - é sobre este alicerce que as nossas
+espécies têm criado várias civilizações.
+
+
+Opção A: allows fast exchanges =permite trocas rápidas.
+
+
+Embora seja verdade que a mídia social permite trocas rápidas, o texto nem sequer menciona
+isso como motivo do seu sucesso ou propagação, e já que você tem que escolher a opção
+“segundo o texto”, então esta está incorreta.
+
+
+Opção B: helps political manifestations = ajuda as manifestações políticas.
+
+
+O texto menciona que a mídia social coopera com a criação de ideais e debates que se pode
+subentender sejam também no campo político, mas este não é o motivo principal pelo qual a
+mídia social está se espalhando. Portanto esta não é nossa opção correta.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           74
+        www.estrategiaconcursos.com.br                                                 129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Opção C: solves social problems = resolve problemas sociais.
+
+
+No texto também não é expresso este como sendo o motivo mais relevante para a propagação
+da mídia social. Portanto, esta ainda não é nossa opção correta.
+
+
+Opção D:creates links between people = cria vínculos entre as pessoas.
+
+
+Observe que logo no primeiro período é expresso claramente que tudo o que a mídia social
+enfatiza tem ligação com as necessidades dos seres humanos. No final do parágrafo enfatiza
+novamente quando fala sobre o encontro de pessoas para serem amigos, aliados ou amantes.
+Portanto, sem sombra de dúvidas esta é a opção correta.
+
+
+Opção E: promotes new markets.= promove novos mercados.
+
+
+Também é algo que foi citado no texto como sendo um dos pontos positivos da mídia social mas
+não como sendo seu motivo principal de propagação. Opção incorreta.
+
+
+GABARITO: D
+
+
+20 The expression “like-minded people” means people who
+
+
+(A) are lovers.
+(B) tolerate each other.
+(C) live together.
+(D) love to discuss.
+(E) think in a similar way.
+
+
+20 The expression “like-minded people” means people who
+20 A expressão "pessoas like-minded" significa pessoas que
+
+
+(A) are lovers = são amantes.
+(B) tolerate each other = toleram uns aos outros.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             75
+        www.estrategiaconcursos.com.br                                                   129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) live together = vivem juntos.
+(D) love to discuss = amam discutir.
+(E) think in a similar way = pensam em uma maneira similar.
+
+
+Nesta questão a Banca quer testar o conhecimento do candidato quanto ao vocabulário.
+Observe a análise abaixo do adjetivo like-minded:
+
+
+Fazendo uma alusão às palavras separadas:
+
+
+like= como mind= mente = like-minded = da mesma mentalidade, compatível, similar, de
+acordo, harmonioso, unânime, como uma só mente, que concorda em opiniões, objetivos.
+
+
+Como você pode observar, a opção que expressa o significado corretamente é a letra E: think in
+a similar way=pensar em uma maneira similar.
+
+
+GABARITO: E
+
+
+21 The underlined expression in “evolve at dizzying speed” can be replaced by
+
+
+(A) with large steps.
+(B) at a very fast pace.
+(C) in confusing ways.
+(D) at a terribly slow rate.
+(E) in incredible manners.
+
+
+21 The underlined expression in “evolve at dizzying speed” can be replaced by
+21 A expressão sublinhada em "evoluir a uma velocidade vertiginosa" pode ser substituída por
+
+
+(A) with large steps = a passos largos.
+(B) at a very fast pace = em um ritmo muito rápido.
+(C) in confusing ways = de maneiras confusas.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               76
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(D) at a terrible slow rate = a uma medida de velocidade muito lenta.
+(E) in incredible manners = de maneiras incríveis.
+
+
+Dizzy= caracterizado por uma impulsiva pressa; muito rápido, sentir tontura ou vertigem;
+Dizzying = vertiginoso, alucinante = at a very fast pace = em um ritmo muito rápido
+
+
+Mais uma vez a Banca testa o seu conhecimento de vocabulário e sinônimos de palavras.
+Observe acima o significado dos vocábulos em questão. Observe que a opção expressa de
+forma clara o sinônimo da expressão citada no enunciado é a letra B.
+
+
+GABARITO: B
+
+
+Translation
+
+
+If you think that there’s something oddly familiar about descriptions of social media, it may be
+that you recall some of the discussions in the 1990s about what the web would become. And
+many of its emerging manifestations are close to the idealistic imaginings from that time.
+
+
+Se você acha que há algo estranhamente familiar sobre as descrições dos meios de comunicação
+social, pode ser que você se lembre de algumas das discussões na década de 1990 sobre o que
+a Rede de alcance mundial se tornaria. E muitas das suas manifestações emergentes estão perto
+das imaginações idealistas da época.
+
+
+A good way to think about social media is that all of this is actually just about human beings.
+Sharing ideas, cooperating and collaborating to create art, thinking and commerce, vigorous
+debate and discourse, finding people who might be good friends, allies and lovers – it’s what our
+species has built several civilisations on.
+
+
+Uma boa maneira de pensar sobre mídias sociais é que tudo isso é na verdade apenas sobre os
+seres humanos. Compartilhamento de ideias, cooperando e colaborando para criar a arte, o
+pensamento e comércio, discurso e debate vigoroso, encontrar pessoas que possam ser bons
+amigos, aliados e amantes - é sobre este alicerce que nossa espécie tem construído várias
+civilizações.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  77
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+That’s why it is spreading so quickly, not because it’s great shiny, whizzy new technology, but
+because it lets us be ourselves – only more so. And it is in the “more so” that the power of this
+revolution lies. People can find information, inspiration, like-minded people, communities and
+collaborators faster than ever before. New ideas, services, business models and technologies
+emerge and evolve at dizzying speed in social media.
+
+
+É por isso que está se espalhando tão rapidamente, não porque é grande e brilhante, tecnologia
+nova e impressionante, mas porque nos permite ser nós mesmos – e até mesmo “tanto mais” . E
+é no "tanto mais" que o poder dessa revolução reside. As pessoas podem encontrar
+informações, inspiração, pessoas compatíveis, comunidades e colaboradores mais rápido do que
+nunca. Novas ideias, serviços, modelos de negócios e tecnologias surgem e evoluem a um ritmo
+alucinante na mídia social.
+
+                                                T EXTO 5
+Analista Legislativo - Processo Legislativo - Senado Federal – FGV
+
+
+Read text I and answer questions 22 to 27.
+Leia o texto I e responda às questões 22 a 27.
+
+
+                                                Judicial reasoning
+
+
+       Judicial reasoning refers both to the process of thought by which a judge reaches a
+conclusion as to the appropriate result in a case, and to the written explanation of that process in
+a published judgment.
+4The latter is the principal mechanism of judicial accountability: an explanation of the reasons for
+decision is owed not only to the unsuccessful litigant, but to everyone with an interest in the
+judicial process, including other institutions of government and ultimately the public. No other
+public decision makers are under such a heavy obligation to explain the reasons for their
+decisions. Yet the specialised nature of legal discourse means that the function of public
+justification is often imperfectly realised: the explanations are designed to be understood
+primarily by other judges and by the legal profession in general.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     78
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+15While the published reasons for decision lend themselves to objective analysis, the underlying
+processes of thought involved in exploring and resolving a legal problem are so complex and
+variable that neither judges nor writers on jurisprudence have been able to reduce them to an
+adequate explanatory or prescriptive model. Ideally, the written reasons for judgment not only
+provide an accurate mirror of the underlying reasoning process, but may actually help to shape
+it: the task of reducing one’s thinking to writing is itself an aid to thinking, and sometimes a
+decisive aid.
+(http://www.win-more-cases.com/judicial-reasoning.htm)
+
+
+Comentários:
+22 According to the text, the processes of judicial reasoning cannot be
+
+
+(A) systematized.
+(B) contested.
+(C) annotated.
+(D) realized.
+(E) advocated.
+
+
+22 According to the text, the processes of judicial reasoning cannot be
+22 De acordo com o texto, os processos da fundamentação judicial não podem ser
+
+
+(A) systematized. = sistematizados
+
+
+While the published reasons for decision lend themselves to objective analysis, the underlying
+processes of thought involved in exploring and resolving a legal problem are so complex and
+variable that neither judges nor writers on jurisprudence have been able to reduce them to an
+adequate explanatory or prescriptive model.
+Embora as razões publicadas para decisão se prestem à análise objetiva, os processos
+subjacentes de convencimento envolvidos na exploração e resolução de um problema legal são
+tão complexos e variáveis que nem os juízes, nem os escritores de jurisprudência tem sido
+capazes de reduzi-los a um adequado modelo explicativo ou normativo.
+
+
+Systematize = sistematizar, organizar de acordo com um plano ou sistema = prescriptive =
+normativo, padronizado, pertinente a uma norma, modelo ou padrão;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 79
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Os processos judiciais não podem ser sistematizados, ou seja, não existe um modelo padrão,
+como se diz: “cada caso é um caso”. A opção usa um sinônimo da palavra correspondente no
+texto. Essa é a opção correta.
+
+
+(B) contested. = contestados e (E) advocated. = defendidos
+
+
+Se essas explicações desses processos devem ser dadas para o litigante que recebeu julgamento
+desfavorável ou perdão a ação, e para todos os interessados no processo judicial, então é por
+que elas podem tanto ser contestadas como defendidas. Opções erradas.
+
+
+(C) annotated. = anotados
+
+
+O texto diz que a explicação por escrito desses processos num julgamento ou decisão publicada
+é o principal mecanismo de responsabilidade judicial. Portanto, eles não apenas podem, mas
+devem ser anotados, comentados, explicados e interpretados.Opção errada.
+
+
+(D) realized. = compreendidos
+
+
+O texto diz que as decisões judiciais possuem uma linguagem jurídica compreendida pelos
+operadores da área de direito. Isto significa que pode ser compreendida, embora nem sempre
+por todos. Opção errada.
+
+
+GABARITO: A
+
+23 In relation to judicial reasoning processes, the written version may in fact
+
+
+(A) simplify them.
+(B) reverse them.
+(C) retard them.
+(D) reflect them.
+(E) hinder them.
+
+
+23 In relation to judicial reasoning processes, the written version may in fact
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              80
+        www.estrategiaconcursos.com.br                                                    129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+23 Em relação aos processos de fundamentação judicial, a versão escrita pode de fato
+
+
+(A) simplify them. = simplificá-los
+
+
+A versão não torna a fundamentação judicial descomplicada. Opção errada.
+
+
+(B) reverse them. = revertê-los e (C) retard them. = retardá-los e (E) hinder them. = escondê-los
+
+
+As três opções acima expressam o oposto do objetivo da versão escrita dos processos de
+fundamentação judicial. Não condiz que a versão seja para reverter, retardar ou até mesmo
+esconder a fundamentação. Erradas.
+
+
+(D) reflect them. = refleti-los
+
+
+Ideally, the written reasons for judgment not only provide an accurate mirror of the underlying
+reasoning process, but may actually help to shape it: the task of reducing one’s thinking to
+writing is itself an aid to thinking, and sometimes a decisive aid.
+Idealmente, as razões do julgamento que são escritas não só proporcionam um espelho
+confiável do processo inicial de conhecimento, mas podem realmente ajudar a moldá-lo: a
+tarefa de resumir o pensamento de alguém de forma escrita é em si um auxílio para pensar, e às
+vezes uma ajuda decisiva.
+
+
+Reflect = refletir = accurate mirror = espelho confiável
+
+
+A Fundamentação judicial é o conjunto de argumentos jurídicos que o juiz usa para demonstrar
+porque está decidindo daquele modo, ou seja, o convencimento dele, as razões que o levaram a
+determinada decisão. Assim como um espelho confiável reflete muito bem uma imagem, de
+modo figurado a versão escrita reflete o processo da fundamentação judicial. Essa é a opção
+correta.
+
+
+GABARITO: D
+
+
+24 The verb in “reaches a conclusion” (line 2) can be replaced by:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    81
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(A) jumps to.
+(B) abides by.
+(C) arrives at.
+(D) hands down.
+(E) dallies with.
+
+
+24 The verb in “reaches a conclusion” (line 2) can be replaced by:
+24 O verbo em “chega a uma conclusão” (linha 2) pode ser substituído por:
+
+
+(A) jumps to. = precipita-se
+
+
+jumps to a conclusion = tirar uma conclusão precipitada
+
+
+Não se trata de precipitar-se em tirar uma conclusão. A expressão não condiz com o significado
+daquela do texto. Errada.
+
+
+(B) abides by. = segue
+
+
+Não se trata de seguir ou acompanhar uma conclusão. A expressão não condiz com o significado
+daquela do texto. Errada.
+
+
+(C) arrives at. = chega a
+
+
+Arrive at = chegar a = reach = alcançar, chegar a, atingir
+
+
+Se substituirmos um verbo pelo outro, não haverá nenhuma alteração no texto, pois são
+sinônimos. Essa é a opção correta.
+
+
+(D) hands down. = pronuncia
+
+
+Hand down = pronunciar uma decisão oficial, especialmente um veredito do tribunal.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               82
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Este verbo frasal não corresponde ao significado do verbo no texto. Opção errada.
+
+
+(E) dallies with. = demora-se
+
+
+Não se trata de precipitar-se em tirar uma conclusão. O verbo da opção iria alterar a
+compreensão textual. Errada.
+
+
+GABARITO: C
+
+
+25 In “as to the appropriate result” (lines 2-3) appropriate means
+
+
+(A) astounding.
+(B) casual.
+(C) riotous.
+(D) bewildering
+(E) suitable.
+
+
+25 In “as to the appropriate result” (lines 2-3) appropriate means
+25 Em “quanto ao resultado adequado” (linhas 2-3) adequado significa
+
+
+(A) astounding. = surpreendente
+(B) casual. = eventual
+(C) riotous. = desenfreado
+(D) bewildering = desconcertante
+
+
+Nenhuma das opções acima pode substituir a palavra grifada, pois alterariam a interpretação
+textual. Trazem o significado incorreto para a palavra. Erradas.
+
+
+(E) suitable. = apropriado
+
+
+Suitable = apropriado, adequado, condizente, conveniente = appropriate = adequado,
+apropriado, oportuno
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            83
+        www.estrategiaconcursos.com.br                                                  129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+A opção expressa um sinônimo do verbo grifado. Essa é a correta.
+
+
+GABARITO: E
+
+
+26 The underlined word in “The latter is the principal mechanism” (line 4) refers to
+
+
+(A) conclusion.
+(B) explanation.
+(C) process.
+(D) result
+(E) judgment.
+
+
+26 The underlined word in “The latter is the principal mechanism” (line 4) refers to
+26 A palavra grifada em “O último é o principal mecanismo” (linha 4) se refere a
+
+
+(A) conclusion. = conclusão
+
+
+A conclusão é a parte do processo em que o juiz chega a um resultado em um caso, não é ela
+que é o principal mecanismo de responsabilidade judicial, mas sim a explicação de todo o
+processo.
+
+
+(B) explanation. = explanação
+
+
+Judicial reasoning refers both to the process of thought by which a judge reaches a conclusion as
+to the appropriate result in a case, and to the written explanation of that process in a published
+judgment. The latter is the principal mechanism of judicial accountability:
+A fundamentação judicial refere-se tanto ao processo de convencimento pelo qual um juiz chega
+a uma conclusão quanto ao resultado adequado em um caso, como também à explicação por
+escrito desse processo num julgamento ou decisão publicada. O último é o principal
+mecanismo de responsabilidade judicial:
+
+
+Você deve procurar pelo núcleo da frase e fazer a pergunta ao verbo: Quem é o principal
+mecanismo de responsabilidade judicial? É a explicação /explanação. Embora existam outras
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   84
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+palavras que a rodeiam, mas o tema da frase (explicação) é ao que latter (último) se refere.
+Essa é a opção correta.
+
+
+(C) process. = processo
+(D) result. = resultado
+(E) judgment. = julgamento
+
+
+Essas três opções expressam palavras que são complementos do núcleo da frase. Não é o
+processo, nem o resultado e nem o julgamento que são o principal mecanismo de
+responsabilidade judicial. Erradas.
+
+
+GABARITO: B
+
+
+27 When the text states that “the published reasons for decision lend themselves to objective
+analysis” (lines 15-16) this means they
+
+
+(A) allow it.
+(B) elude it.
+(C) carry it out.
+(D) exhibit it.
+(E) defy it.
+
+27 When the text states that “the published reasons for decision lend themselves to objective
+analysis” (lines 15-16) this means they
+27 Quando o texto afirma que " a exposição dos motivos da decisão se prestam à análise
+objetiva" (linhas 15-16), isto significa que eles
+
+
+(A) allow it. = a permitem
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              85
+        www.estrategiaconcursos.com.br                                                    129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Allow = permitir, contribuir = lend = prestar-se a, participar, servir
+Lend themselves = são apropriados / adequados / podem ser excelentes / adequam-se bem /
+servem muito bem;
+
+
+Dizer que a exposição dos motivos da decisão se prestam / participam / ajustam-se / servem
+/são úteis para a análise objetiva, é o mesmo que dizer que eles permitem que a análise
+aconteça. Essa é a opção correta.
+
+
+(B) elude it. = a eludem/evitam
+
+
+Esse verbo daria um sentido oposto ao texto. Errada.
+
+
+(C) carry it out. = a obedecem
+
+
+Esse verbo alteraria a interpretação do texto. Errada.
+
+
+(D) exhibit it. = a exibem
+
+
+Eles não a exibem, mas contribuem com ela. Errada.
+
+
+(E) defy it. = a desafiam
+
+
+A exposição dos motivos da decisão não desafiam a análise objetiva, o texto ficaria incoerente.
+Errada.
+
+
+GABARITO: A
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                86
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Translation
+
+
+                                                Judicial reasoning
+                                            Fundamentação Judicial
+
+
+Judicial reasoning refers both to the process of thought by which a judge reaches a conclusion as
+to the appropriate result in a case, and to the written explanation of that process in a published
+judgment. The latter is the principal mechanism of judicial accountability: an explanation of the
+reasons for decision is owed not only to the unsuccessful litigant, but to everyone with an
+interest in the judicial process, including other institutions of government and ultimately the
+public.
+
+
+A fundamentação judicial refere-se tanto ao processo de convencimento pelo qual um juiz chega
+a uma conclusão quanto ao resultado adequado em um caso, como também à explicação por
+escrito desse processo num julgamento ou decisão publicada. O último é o principal mecanismo
+de responsabilidade judicial: deve-se dar uma explicação sobre as razões da decisão não só para
+o litigante que recebeu julgamento desfavorável ou perdeu ação, mas para todos os
+interessados no processo judicial, incluindo outras instituições do governo e por fim ao público.
+
+
+No other public decision makers are under such a heavy obligation to explain the reasons for
+their decisions. Yet the specialised nature of legal discourse means that the function of public
+justification is often imperfectly realised: the explanations are designed to be understood
+primarily by other judges and by the legal profession in general.
+
+
+Não há outros julgadores públicos que estejam sujeitos a uma obrigação tão pesada de explicar
+as razões das suas decisões. No entanto, a natureza especializada do discurso jurídico denota
+que a função de justificação pública é muitas vezes imperfeitamente realizada: as explicações são
+projetadas para ser entendidas principalmente por outros juízes e pelos profissionais da área
+jurídica em geral.
+
+
+While the published reasons for decision lend themselves to objective analysis, the underlying
+processes of thought involved in exploring and resolving a legal problem are so complex and
+variable that neither judges nor writers on jurisprudence have been able to reduce them to an
+adequate explanatory or prescriptive model. Ideally, the written reasons for judgment not only
+provide an accurate mirror of the underlying reasoning process, but may actually help to shape
+it: the task of reducing one’s thinking to writing is itself an aid to thinking, and sometimes a
+decisive aid.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   87
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(http://www.win-more-cases.com/judicial-reasoning.htm)
+
+
+Embora a exposição dos motivos da decisão se prestem à análise objetiva, os processos iniciais
+de conhecimento envolvidos na exploração e resolução de um problema legal são tão
+complexos e variáveis que nem os juízes, nem os elaboradores de jurisprudência tem sido
+capazes de reduzi-los a um adequado modelo explicativo ou normativo. Idealmente, as razões
+do julgamento que são escritas não só proporcionam um espelho confiável do processo inicial de
+conhecimento, mas podem realmente ajudar a moldá-lo: a tarefa de resumir o pensamento de
+alguém de forma escrita é em si um auxílio para pensar, e às vezes uma ajuda decisiva.
+
+                                                 T EXTO 6
+Analista Tecnológico - Banco do Brasil - FGV - 2023
+
+
+Read Text I and answer questions 28 to 33.
+Leia o Texto I e responda às questões 28 a 33.
+
+
+Text I
+
+
+                                      Why We're Obsessed With the
+                                   Mind-Blowing ChatGPT AI Chatbot
+
+
+                                        Stephen Shankland Feb. 19, 2023
+
+      This artificial intelligence bot can answer questions, write essays, summarize documents
+and write software. But deep down, it doesn't know what's true.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                              88
+         www.estrategiaconcursos.com.br                                                    129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+       Even if you aren't into artificial intelligence, it's time to pay attention to ChatGPT, because
+this one is a big deal.
+       The tool, from a power player in artificial intelligence called OpenAI, lets you type natural-
+language prompts. ChatGPT then offers conversational, if somewhat stilted, responses. The bot
+remembers the thread of your dialogue, using previous questions and answers to inform its next
+responses. It derives its answers from huge volumes of information on the internet.
+       ChatGPT is a big deal. The tool seems pretty knowledgeable in areas where there's good
+training data for it to learn from. It's not omniscient or smart enough to replace all humans yet,
+but it can be creative, and its answers can sound downright authoritative. A few days after its
+launch, more than a million people were trying out ChatGPT.
+       But be careful, OpenAI warns. ChatGPT has all kinds of potential pitfalls, some easy to
+spot and some more subtle.
+       “It's a mistake to be relying on it for anything important right now,” OpenAI Chief
+Executive Sam Altman tweeted. “We have lots of work to do on robustness and truthfulness.”
+[...]
+       What is ChatGPT?
+
+       ChatGPT is an AI chatbot system that OpenAI released in November to show off and test
+what a very large, powerful AI system can accomplish. You can ask it countless questions and
+often will get an answer that's useful.
+       For example, you can ask it encyclopedia questions like, “Explain Newton's laws of
+motion.” You can tell it, "Write me a poem," and when it does, say, "Now make it more
+exciting." You ask it to write a computer program that'll show you all the different ways you can
+arrange the letters of a word.
+       Here's the catch: ChatGPT doesn't exactly know anything. It's an AI that's trained to
+recognize patterns in vast swaths of text harvested from the internet, then further trained with
+human assistance to deliver more useful, better dialog. The answers you get may sound plausible
+and even authoritative, but they might well be entirely wrong, as OpenAI warns.
+Adapted from: https://www.cnet.com/tech/computing/why-were-all-obsessed- with-the-mind-
+blowing-chatgpt-ai-chatbot/
+
+
+Comentários:
+28 Based on Text I, mark the statements below as true (T) or false (F).
+
+
+( ) The author thinks that this artificial intelligence bot launched in November should not be
+overlooked.
+( ) ChatGPT is able to keep up with conversation sequences.
+( ) According to OpenAI, the bot is fully trustworthy.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                       89
+        www.estrategiaconcursos.com.br                                                             129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+The statements are, respectively,
+
+
+(A) T – F – F.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – F – T.
+(E) F – T – F.
+
+
+28 Based on Text I, mark the statements below as true (T) or false (F).
+28 Baseado no Texto I, marque as afirmações abaixo como verdadeiras (V) ou falsas (F).
+
+
+(T) The author thinks that this artificial intelligence bot launched in November should not be
+overlooked.
+(V) O autor acha que esse bot de inteligência artificial lançado em novembro não deve ser
+ignorado.
+
+
+Essa primeira afirmação é verdadeira, pois o autor diz que "mesmo se você não se interessa por
+inteligência artificial, é hora de prestar atenção no ChatGPT, porque esse é um grande negócio".
+Isso mostra que ele considera o bot importante e relevante.
+
+
+(T) ChatGPT is able to keep up with conversation sequences.
+(V) O ChatGPT é capaz de acompanhar sequências de conversação.
+
+
+Essa afirmação também é verdadeira, pois o autor afirma que "o bot lembra o fio do seu
+diálogo, usando as perguntas e respostas anteriores para informar suas próximas respostas". Isso
+indica que o bot tem a capacidade de manter uma conversa coerente e contextualizada.
+
+
+(F) According to OpenAI, the bot is fully trustworthy.
+(F) Segundo a OpenAI, o bot é totalmente confiável.
+
+
+Essa declaração é falsa, pois o autor cita o aviso da OpenAI de que "temos muito trabalho a
+fazer em robustez e veracidade". Isso significa que o bot ainda não é totalmente confiável e
+pode ter falhas ou erros.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 90
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+The statements are, respectively,
+As declarações são, respectivamente,
+
+
+(A) T – F – F.
+(B) T – T – F. – V- V- F
+(C) F – T – T.
+(D) F – F – T.
+(E) F – T – F.
+
+
+GABARITO: B
+
+
+29 The word pretty in The tool seems pretty knowledgeable indicates
+
+
+A place.
+B manner.
+C intensity.
+D frequency.
+E appearance.
+
+
+29 The word pretty in The tool seems pretty knowledgeable indicates
+29 A palavra bastante em A ferramenta parece ser bastante informada indica
+
+
+A place. - lugar
+B manner. - maneira
+C intensity. - intensidade
+
+
+Pretty (adjetivo) = bonito, belo
+Pretty (advérbio) = bem, muito, bastante
+
+
+Correta. A palavra pretty (bastante) nesse contexto é um advérbio que pode modificar adjetivos
+ou outros advérbios para indicar o grau ou a extensão de algo. Neste caso, ela modifica o
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               91
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+adjetivo knowledgeable (informado, conhecedor, versado) para mostrar que a ferramenta tem
+um alto nível de conhecimento. Portanto, ela indica intensidade.
+
+
+D frequency. – frequência
+
+
+As outras opções não estão corretas porque pretty não indica lugar, modo, frequência ou
+aparência neste contexto.
+
+
+E appearance. – aparência
+
+
+Um dos usos mais comuns da palavra pretty é para indicar aparência. Nesse caso, a palavra é um
+adjetivo e a tradução pode ser “bonito, belo”. Mas, essa não é a forma em que é usada nesse
+texto. Errada.
+
+
+GABARITO: C
+
+
+30 The word yet in It's not omniscient or smart enough to replace all humans yet is similar in
+meaning to
+
+
+A so far.
+B since then.
+C right away.
+D hardly ever.
+E from now on.
+
+
+30 The word yet in It's not omniscient or smart enough to replace all humans yet is similar in
+meaning to
+30 A palavra ainda em Ele não é onisciente ou inteligente o suficiente para substituir todos os
+humanos ainda é similar em significado a
+
+
+A so far. - até agora.
+
+
+So far = até agora = yet (advérbio) = ainda
+Yet (conjunção) = mas, porém, contudo
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                92
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Nesse contexto, a palavra yet é um advérbio que indica tempo. Como conjunção em outros
+contextos, ela indica contraste. Neste caso, ela indica tempo e significa que algo não aconteceu
+ou não é verdade no presente, mas pode acontecer ou se tornar verdade no futuro. Por
+exemplo, "I haven't finished my homework yet" significa que eu não terminei minha lição de casa
+no momento atual, mas eu pretendo terminá-la em algum momento posterior. A expressão so
+far tem o mesmo sentido de yet nesse contexto, pois também indica que algo não se realizou ou
+não se verificou no presente, mas pode se realizar ou se verificar no futuro. Por exemplo, "I
+haven't finished my homework so far" (Eu não terminei minha lição de casa até agora) tem o
+mesmo significado da frase anterior. Portanto, essa é a opção correta.
+
+
+B since then. - desde então (a partir de um determinado momento no passado).
+C right away. – logo, imediatamente, sem demora.
+D hardly ever. – dificilmente, raramente, quase nunca.
+E from now on. - de agora em diante, a partir do presente e continuando no futuro.
+
+
+As outras opções não são similares em significado a yet, pois têm outros sentidos temporais ou
+contrastivos. Erradas.
+
+
+GABARITO: A
+
+
+31 In the final sentence, the author expresses some
+
+
+A caution.
+B distress.
+C sadness.
+D amazement.
+E cheerfulness.
+
+
+31 In the final sentence, the author expresses some
+31 Na frase final, o autor expressa alguma
+
+
+A caution – cautela, cuidado
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 93
+        www.estrategiaconcursos.com.br                                                       129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Essa é a opção correta, pois o autor usa a palavra "cuidado" para alertar os leitores sobre os
+possíveis perigos e limitações do ChatGPT. Ele também cita o aviso da OpenAI de que o bot
+ainda tem muito trabalho a fazer em termos de robustez e veracidade. Isso mostra que ele tem
+uma atitude de precaução e prudência em relação ao uso do bot. As outras opções estão
+erradas, pois não correspondem ao sentimento do autor na frase final.
+
+
+B distress – aflição
+
+
+O autor não demonstra estar angustiado e preocupado com o ChatGPT, mas sim admirado e
+curioso.
+
+
+C sadness - tristeza
+
+
+O autor não expressa nenhum sinal de desânimo ou pesar pelo ChatGPT, mas sim entusiasmo e
+interesse.
+
+
+D amazement – espanto
+
+
+O autor já mostrou sua surpresa e admiração pelo ChatGPT no início do texto, mas na frase final
+ele assume um tom mais moderado e crítico.
+
+
+E cheerfulness – alegria
+
+
+O autor não revela estar contente ou satisfeito com o ChatGPT, mas sim cauteloso e consciente.
+
+
+GABARITO: A
+
+32 In if somewhat stilted (2nd paragraph), the author thinks the responses are rather
+
+
+A evasive
+B effusive
+C accurate
+D contrived
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                94
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+E effortless.
+
+
+32 In if somewhat stilted (2nd paragraph), the author thinks the responses are rather
+32 Em se bem que um tanto forçadas (2º parágrafo), o autor acha que as respostas são um tanto
+
+
+A evasive – evasivas, que fogem ou se esquivam
+B effusive – efusivas, que demonstram entusiasmo ou emoção
+C accurate – precisas, que são exatas ou corretas
+D contrived – forçadas, artificiais
+
+
+A opção D é a correta, pois o adjetivo “stilted” significa "forçado, artificial, afetado, pouco
+natural". Portanto, o autor acha que as respostas do ChatGPT são um tanto forçadas, ou seja,
+que não soam naturais ou espontâneas.
+
+
+E effortless. - sem esforço, que são fáceis ou simples
+
+
+Ao analisar as outras opções observe que elas não correspondem ao sentido de stilted. Por
+isso, estão erradas.
+
+
+GABARITO: D
+
+
+33 The modal verb in might well be at the end of the text indicates
+
+
+A request.
+B objection.
+C necessity.
+D obligation.
+E possibility.
+
+
+33 The modal verb in might well be at the end of the text indicates
+33 O verbo modal em podem bem ser no final do texto indica
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                95
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+A request. – pedido, solicitação, desejo
+B objection – objeção; oposição, discordância
+C necessity – necessidade; algo essencial, imprescindível
+D obligation – obrigação; algo imposto, exigido
+
+
+Observe pelos seus significados que as outras opções não correspondem ao sentido do verbo
+modal might. Erradas.
+
+
+E possibility - possibilidade
+
+
+Essa é a opção correta, pois o verbo modal might expressa a ideia de possibilidade, incerteza ou
+probabilidade de algo. Neste caso, ele indica que as respostas do ChatGPT podem ser plausíveis
+e autoritárias, mas também podem ser totalmente erradas, como a OpenAI adverte.
+
+
+GABARITO: E
+
+
+Translation
+
+
+Why We're Obsessed With the Mind-Blowing ChatGPT AI Chatbot
+Por Que Estamos Obcecados Com o Incrível ChatGPT, o Chatbot de Inteligência
+Artificial
+
+
+Stephen Shankland Feb. 19, 2023
+Stephen Shankland, 19 de fevereiro de 2023
+
+
+This artificial intelligence bot can answer questions, write essays, summarize documents and
+write software. But deep down, it doesn't know what's true.
+Este bot de inteligência artificial pode responder perguntas, fazer redações, resumir documentos
+e escrever software. Mas, no fundo, ele não sabe o que é verdade.
+
+
+Even if you aren't into artificial intelligence, it's time to pay attention to ChatGPT, because this
+one is a big deal.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     96
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Mesmo se você não se interesse por inteligência artificial, é hora de prestar atenção no
+ChatGPT, porque esse é um assunto sério.
+
+
+The tool, from a power player in artificial intelligence called OpenAI, lets you type natural-
+language prompts. ChatGPT then offers conversational, if somewhat stilted, responses. The bot
+remembers the thread of your dialogue, using previous questions and answers to inform its next
+responses. It derives its answers from huge volumes of information on the internet.
+
+
+A ferramenta, de um poderoso player em inteligência artificial chamado OpenAI, permite que
+você digite comandos em linguagem natural. O ChatGPT então oferece respostas
+conversacionais, se bem que um tanto forçadas. O bot lembra o fio do seu diálogo, usando as
+perguntas e respostas anteriores para informar suas próximas respostas. Ele obtém suas
+respostas de enormes volumes de informação na internet.
+
+
+ChatGPT is a big deal. The tool seems pretty knowledgeable in areas where there's good
+training data for it to learn from. It's not omniscient or smart enough to replace all humans yet,
+but it can be creative, and its answers can sound downright authoritative. A few days after its
+launch, more than a million people were trying out ChatGPT.
+
+
+O ChatGPT é uma ferramenta muito importante. Ele parece ser bastante informado em áreas
+onde há bons dados de treinamento para ele aprender. Ele não é onisciente ou inteligente o
+suficiente para substituir todos os humanos ainda, mas pode ser criativo, e suas respostas podem
+soar autoritárias. Poucos dias após seu lançamento, mais de um milhão de pessoas estavam
+experimentando o ChatGPT.
+
+
+But be careful, OpenAI warns. ChatGPT has all kinds of potential pitfalls, some easy to spot and
+some more subtle.
+
+
+Mas tenha cuidado, alerta a OpenAI. O ChatGPT tem todos os tipos de armadilhas potenciais,
+algumas fáceis de detectar e outras mais sutis.
+
+
+“It's a mistake to be relying on it for anything important right now,” OpenAI Chief Executive Sam
+Altman tweeted. “We have lots of work to do on robustness and truthfulness.” [...]
+
+
+"É um erro confiar nele para qualquer coisa importante agora", tuitou o diretor executivo da
+OpenAI, Sam Altman. "Temos muito trabalho a fazer em robustez e veracidade". [...]
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   97
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+What is ChatGPT?
+O que é o ChatGPT?
+
+
+ChatGPT is an AI chatbot system that OpenAI released in November to show off and test what a
+very large, powerful AI system can accomplish. You can ask it countless questions and often will
+get an answer that's useful.
+
+
+O ChatGPT é um sistema de chatbot de inteligência artificial que a OpenAI lançou em novembro
+para mostrar e testar o que um sistema de inteligência artificial muito grande e poderoso pode
+realizar. Você pode fazer inúmeras perguntas e muitas vezes obterá uma resposta útil.
+
+
+For example, you can ask it encyclopedia questions like, “Explain Newton's laws of motion.” You
+can tell it, "Write me a poem," and when it does, say, "Now make it more exciting." You ask it to
+write a computer program that'll show you all the different ways you can arrange the letters of a
+word.
+
+
+Por exemplo, você pode fazer perguntas enciclopédicas como "Explique as leis do movimento
+de Newton". Você pode dizer-lhe: "Escreva-me um poema", e quando ele o fizer, dizer: "Agora
+torne-o mais emocionante". Você pode pedir-lhe para escrever um programa de computador
+que mostre todas as diferentes maneiras que você pode arranjar as letras de uma palavra.
+
+
+Here's the catch: ChatGPT doesn't exactly know anything. It's an AI that's trained to recognize
+patterns in vast swaths of text harvested from the internet, then further trained with human
+assistance to deliver more useful, better dialog. The answers you get may sound plausible and
+even authoritative, but they might well be entirely wrong, as OpenAI warns.
+Adapted from: https://www.cnet.com/tech/computing/why-were-all-obsessed- with-the-mind-
+blowing-chatgpt-ai-chatbot/
+
+
+Aqui está a pegadinha: o ChatGPT não sabe exatamente nada. Ele é uma inteligência artificial
+que é treinada para reconhecer padrões em vastas extensões de texto colhidas da internet, e
+depois treinada com a ajuda humana para fornecer diálogos mais úteis e melhores. As respostas
+que você obtém podem parecer plausíveis e até autoritárias, mas podem bem ser totalmente
+erradas, como a OpenAI adverte.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  98
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                                                 T EXTO 7
+Corpo De Bombeiros Militar Do Estado Do Rio De Janeiro - Cadete CBM-RJ – FGV -2024
+
+
+Read Text I and answer the five questions that follow it.
+Leia o Texto I e responda às cinco questões que o seguem.
+
+
+Text I
+
+
+                              Impact of Climate Change on Firefighting
+                                          Extends Beyond Wildfires
+
+
+   Global warming is often mentioned as a factor in the accelerating frequency and intensity of
+wildfires. However, there are other consequences of global warming that impact the fire service,
+including new hazards and medical emergencies, emerging training challenges, population
+migration, and technology developments.
+  Climate change is often discussed as a future event. However, the impact of wildfires is just
+the most obvious example of how climate change is already impacting the world, and fire and
+emergency personnel will be called on to mitigate the effects.
+   The most obvious and extreme impact of global warming can be seen in the increase of
+frequency and intensity of wildfires. Hotter and drier weather is extending the wildfire season
+(maybe to become year-round?). Higher temperatures, low humidity, less rainfall, and high wind
+increase the likelihood of wildfires.
+Adapted from: https://www.thebigredguide.com/insights/impact-climate-change-firefighting-
+extends-wildfires-editor-s-dispatch.1645685564.html
+
+
+Comentários:
+01 Based on Text I, mark the statements below as TRUE (T) or FALSE (F).
+
+
+I. The effects of climate change exclude wildfires.
+II. Global warming is not a current problem.
+III. The number of wildfires has been on the rise. The statements are, respectively,
+
+
+(A) F–T–F.
+
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                99
+         www.estrategiaconcursos.com.br                                                      129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(B) T–T–F.
+(C) T–F–T.
+(D) F–T–T.
+(E) F–F–T.
+
+
+01 Based on Text I, mark the statements below as TRUE (T) or FALSE (F).
+01 Com base no Texto I, marque as afirmações abaixo como VERDADEIRO (V) ou FALSO (F).
+
+
+I. The effects of climate change exclude wildfires.
+I. Os efeitos das mudanças climáticas excluem incêndios florestais.
+
+
+Falso. O texto afirma claramente que o aquecimento global é um fator que acelera a frequência
+e a intensidade dos incêndios florestais, o que significa que os incêndios florestais são, de fato,
+um dos efeitos das mudanças climáticas.
+
+
+II. Global warming is not a current problem.
+II. O aquecimento global não é um problema atual.
+
+
+Falso. O texto menciona que as mudanças climáticas são frequentemente discutidas como um
+evento futuro, mas destaca que o impacto dos incêndios florestais é um exemplo claro de como
+as mudanças climáticas já estão afetando o mundo atualmente.
+
+
+III. The number of wildfires has been on the rise.
+III. O número de incêndios florestais tem aumentado.
+
+
+Verdadeiro. O texto indica que o impacto mais óbvio e extremo do aquecimento global pode
+ser visto no aumento da frequência e intensidade dos incêndios florestais, o que implica que o
+número de incêndios florestais está em ascensão.
+
+
+The statements are, respectively,
+As afirmações são, respectivamente,
+
+
+(A) F–T–F.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    100
+        www.estrategiaconcursos.com.br                                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(B) T–T–F.
+(C) T–F–T.
+(D) F–T–T.
+(E) F–F–T. - F–F–V.
+
+
+GABARITO: E
+
+
+22 The function of the word “However” in “However, there are other consequences” (1              st
+
+paragraph) is to introduce a
+
+
+(A) concordance.
+(B) comparison.
+(C) conclusion.
+(D) contrast.
+(E) cause.
+
+
+02 The function of the word “However” in “However, there are other consequences” (1              st
+
+paragraph) is to introduce a
+02 A função da palavra "No entanto" em "No entanto, existem outras consequências" (1º
+parágrafo) é introduzir um (a)
+
+
+(A) concordance. - concordância.
+
+
+Errada. Algumas palavras em inglês frequentemente usadas para introduzir uma concordância
+são "also"(também) e "likewise". Exs: She likes to play tennis, and also enjoys swimming (Ela
+gosta de jogar tênis e também gosta de nadar); He is an excellent writer. Likewise, his sister has
+a talent for storytelling (Ele é um excelente escritor. Da mesma forma, sua irmã tem talento para
+contar histórias).
+
+
+(B) comparison. - comparação.
+
+
+Errada. Algumas palavras em inglês comumente usadas para introduzir uma comparação são
+"like"(como) e "as"(como). Ex: She sings like an angel. (Ela canta como um anjo); He is as strong
+as an ox. (Ele é forte como um boi).
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   101
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) conclusion. - conclusão.
+
+
+Errada. Alguns exemplos de palavras tipicamente usadas para introduzir uma conclusão são
+"therefore"(portanto) ou "thus" (assim, por conseguinte) .
+
+
+(D) contrast. - contraste.
+
+
+Correta. "However" é usado para introduzir um contraste ou uma oposição em relação ao que
+foi dito anteriormente. No contexto dado, "However" serve para apresentar consequências do
+aquecimento global que são diferentes das mencionadas antes (neste caso, diferentes dos
+incêndios florestais).
+
+
+(E) cause. - causa.
+
+
+Errada. "However" não indica uma relação de causa e efeito. Para isso, usaríamos palavras como
+"because"(porque) ou "since" (desde, visto que).
+
+
+GABARITO: D
+
+
+03 The opposite of “often” in “Climate change is often discussed” (2 paragraph) is
+                                                                           nd
+
+(A) much.
+(B) always.
+(C) seldom.
+(D) usually.
+(E) forever.
+
+
+03 The opposite of “often” in “Climate change is often discussed” (2 paragraph) is
+                                                                          nd
+
+03 O oposto de "frequentemente" em "As mudanças climáticas são frequentemente discutidas"
+(2º parágrafo) é:
+
+
+(A) much. - muito
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               102
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Errada. A palavra “much” é usada principalmente com substantivos incontáveis para expressar
+uma grande quantidade ou intensidade de algo. Ex: She travels much more than I do. (Ela viaja
+muito mais do que eu.)
+
+
+(B) always. - sempre
+
+
+Errada. A palavra “always” indica uma ação ou evento que ocorre em todas as ocasiões, sem
+exceção. Ex: He always eats breakfast at 7 AM. (Ele sempre toma café da manhã às 7 da manhã.)
+
+
+(C) seldom. - raramente
+
+
+Correta. A palavra “seldom” é a única que expressa um sentido oposto ao de "frequentemente".
+
+
+(D) usually. - usualmente
+
+
+Errada. Refere-se a algo que acontece na maioria das vezes, é o padrão ou comum. Ex: She
+usually works from home. (Ela usualmente trabalha de casa.)
+
+
+(E) forever. – para sempre
+
+
+Errada. A palavra “forever” refere-se a um período de tempo infinito e não tem relação direta
+com a frequência de um evento. Ex: Their love will last forever. (O amor deles durará para
+sempre.)
+
+
+GABARITO: C
+
+
+04 “Maybe” in “(maybe to become year-round?)” (3 paragraph) is similar in meaning to
+                                                               rd
+
+(A) perhaps.
+(B) already.
+(C) almost.
+(D) surely.
+(E) rather.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              103
+        www.estrategiaconcursos.com.br                                                    129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+04 “Maybe” in “(maybe to become year-round?)” (3º paragraph) is similar in meaning to
+04 A palavra "talvez" em "(talvez para se tornar o ano todo?)" (3º parágrafo) é similar em
+significado a:
+
+
+Hotter and drier weather is extending the wildfire season (maybe to become year-round?).
+O tempo mais quente e seco está prolongando a temporada de incêndios florestais (talvez para
+se tornar o ano todo?).
+
+
+(A) perhaps. - talvez
+
+
+Correta. O contexto indica que o tempo mais quente e seco pode estar (talvez) transformando a
+temporada de incêndios florestais em um evento durante todo o ano. As palavras "talvez" e
+"maybe" são usadas para expressar uma possibilidade ou incerteza.
+
+
+(B) already. – já
+
+
+Errada. Alguns        sinônimos       de        “already”      são   previously   (anteriormente),   beforehand
+(previamente).
+
+
+(C) almost. – quase.
+
+
+Errada. Alguns sinônimos de “almost” são nearly (por pouco), virtually (praticamente).
+
+
+(D) surely. - certamente
+
+
+Errada. Alguns sinônimos de “surely” são definitely (decididamente), undoubtedly (sem dúvida).
+
+
+(E) rather. – em vez de
+
+
+Errada. Um dos sinônimos de “rather” é “instead” (em vez de).
+GABARITO: A
+
+
+05 To “increase the likelihood” (3 paragraph) means to raise the
+                                           rd
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                                104
+        www.estrategiaconcursos.com.br                                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(A) impossibility.
+(B) uncertainty.
+(C) preference.
+(D) willingness.
+(E) probability.
+
+
+05 To “increase the likelihood” (3 paragraph) means to raise the
+                                         rd
+
+05 Em “aumentam a probabilidade” (parágrafo 3) significa aumentar a
+
+
+(A) impossibility. - impossibilidade
+
+
+Errada. Refere-se a algo que não pode acontecer, o que é o oposto de aumentar a
+probabilidade.
+
+
+(B) uncertainty. - incerteza
+
+
+Errada. Indica falta de certeza, o que não é sinônimo de aumentar a probabilidade.
+
+
+(C) preference. – preferência
+
+
+Errada. Relaciona-se com a escolha ou gosto por algo, não com a probabilidade de algo
+acontecer.
+(D) willingness. - vontade
+
+
+Errada. Refere-se ao desejo de fazer algo, também não relacionado com a probabilidade.
+
+
+(E) probability. - probabilidade
+
+
+Correta. Ambas as palavras expressam o conceito de aumentar as chances de que algo ocorra.
+
+
+GABARITO: E
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             105
+        www.estrategiaconcursos.com.br                                                   129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Translation
+
+
+                             Impact of Climate Change on Firefighting
+                                         Extends Beyond Wildfires
+                Impacto das Mudanças Climáticas no Combate a Incêndios
+                                   Vai Além dos Incêndios Florestais
+
+
+Global warming is often mentioned as a factor in the accelerating frequency and intensity of
+wildfires. However, there are other consequences of global warming that impact the fire service,
+including new hazards and medical emergencies, emerging training challenges, population
+migration, and technology developments.
+
+
+O aquecimento global é muitas vezes mencionado como um fator na crescente frequência e
+intensidade dos incêndios florestais. No entanto, existem outras consequências do aquecimento
+global que impactam o serviço de bombeiros, incluindo novos perigos e emergências médicas,
+necessidades de treinamento atualizadas, migração populacional e desenvolvimentos
+tecnológicos.
+
+
+Climate change is often discussed as a future event. However, the impact of wildfires is just the
+most obvious example of how climate change is already impacting the world, and fire and
+emergency personnel will be called on to mitigate the effects.
+
+
+As mudanças climáticas são frequentemente discutidas como um evento futuro. No entanto, o
+impacto dos incêndios florestais é apenas o exemplo mais óbvio de como as mudanças
+climáticas já estão impactando o mundo, e o pessoal de bombeiros e emergência será chamado
+para mitigar os efeitos.
+
+
+The most obvious and extreme impact of global warming can be seen in the increase of
+frequency and intensity of wildfires. Hotter and drier weather is extending the wildfire season
+(maybe to become year-round?). Higher temperatures, low humidity, less rainfall, and high wind
+increase the likelihood of wildfires.
+
+
+O impacto mais óbvio e extremo do aquecimento global pode ser visto no aumento da
+frequência e intensidade dos incêndios florestais. O tempo mais quente e seco está prolongando
+a temporada de incêndios florestais (talvez para se tornar o ano todo?). Temperaturas mais altas,
+baixa umidade, menos chuva e ventos fortes aumentam a probabilidade de incêndios florestais.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  106
+        www.estrategiaconcursos.com.br                                                        129
+
+                                     
+
+
+---
+
+ Ena Smith
+ Aula 04
+
+                                        V OCABULÁRIOS
+Vocabulário                                                       Tradução
+
+acknowledge                                                     reconhecer,     agradecer,          cumprimentar,
+                                                                admitir, confirmar
+
+act                                                             lei
+
+advice                                                          conselho
+
+become                                                          tornar-se, vir a ser
+
+booming                                                         crescimento repentino
+
+bring out                                                       enfatizar, trazer à tona, realçar
+
+call                                                            telefonar, chamar
+
+change                                                          mudar, mudança; trocado
+
+duty                                                            dever, obrigação, trabalho
+
+environment                                                     ambiente, meio-ambiente
+
+essay                                                           redação, dissertação
+
+figure                                                          imaginar, pensar, perceber
+
+lawyer                                                          advogado(a)
+
+leave                                                           ir embora, partir
+
+live                                                            morar
+
+meet                                                            encontrar, conhecer, satisfazer
+
+mind-blowing                                                    alucinante, de arrepiar, incrível
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                                 107
+         www.estrategiaconcursos.com.br                                                                       129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+ neighbor                                                              vizinho
+
+ oddly                                                                 estranhamente, de maneira peculiar
+
+ prejudice                                                             preconceito
+
+ reasoning                                                             raciocinar; raciocínio
+
+ researcher                                                            pesquisador
+
+ run into                                                              colidir com, dar de cara com
+
+ shift                                                                 turno, mudar, trocar
+
+ spread                                                                espalhar, divulgar
+                                                         ==219a34==
+
+ stand up for                                                          defender
+
+ surrond                                                               cercar, rodear
+
+ worldwide                                                             mundial, mundialmente
+
+Vocabulário                                                            Sinônimos
+
+achievement                                                           accomplishment
+
+acknowledge                                                           admit, accept, recognize
+
+act                                                                   law
+
+advice                                                                guidance, help, opinion
+
+become                                                                turn into
+
+booming                                                               success
+
+bring out                                                             emphasize
+
+call                                                                  shout
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                               108
+         www.estrategiaconcursos.com.br                                                                     129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+change                                                          alter
+
+duty                                                            obligation, job
+
+environment                                                     surroundings
+
+essay                                                           composition
+
+foreigner                                                       alien, immigrant
+
+lawyer                                                          attorney
+
+leave                                                           go away from
+
+live                                                            reside
+
+meet                                                            encounter, conform with
+
+mind-blowing                                                    astounding
+
+neighbor                                                        next door
+
+oddly                                                           in a peculiar way
+
+prejudice                                                       partiality
+
+reasoning                                                       thinking; thought
+
+researcher                                                      investigator
+
+run into                                                        encounter
+
+shift                                                           period of work, change
+
+spread                                                          propagate
+
+stand up for                                                    defend, advocate
+
+surround                                                        be all around
+
+worldwide                                                       global
+
+         Receita Federal (Analista Tributário) Língua Inglesa                             109
+         www.estrategiaconcursos.com.br                                                   129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+                               L ISTA DE Q UESTÕES
+Texto 1: Analista Legislativo – Processo Legislativo – Senado Federal – FGV
+
+
+Read text II and answer questions 01 to 04.
+
+
+                                                       TEXT II
+
+
+How does a lawyer snatch defeat from the jaws of victory? The answer may surprise some
+lawyers, according to research company Research One.
+
+
+In 7 years of providing specialist legal research, writing, and analysis services to lawyers
+worldwide, multi-award winning research company Research One has compiled the best
+information there is on why some lawyers lose “unlosable” cases, cases where everything points
+9 to a good outcome — law, history, policy, and basic fairness — yet the court still decides the
+other way. CEO, Troy Simpson, says the commonest mistake lawyers make is to raise every
+argument imaginable. “The fear of losing a case compels lawyers to raise every argument
+conceivable. It may seem counter-intuitive, and might contradict what you’re taught in law
+school, but raising a mishmash of legal theories in fact creates an even bigger risk for a lawyer.
+Unless you find the real point of the case and toss out the arguments that have no legs, then you
+risk diverting the court’s attention and you dilute the strength of your ‘real’ argument”, Simpson
+says.
+
+
+Forgetting to look outside your area of expertise is also high on the list of ways to lose the
+unlosable case. “No lawyer can master every area of law, so lawyers compartmentalize the law
+and focus on 1 or 2 areas of expertise. But the law can’t be so neatly contained, which means you
+may miss a winning argument if it’s outside your experience”, Simpson says...
+
+
+Several deeper problems affect lawyers’ success rates, according to Research One. The first
+problem is lawyers’ shortage of time: “You may have no time to think through your argument
+properly, but deadlines push you on. So you paper over the gaps in logic and end-up presenting
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   110
+        www.estrategiaconcursos.com.br                                                         129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+nonsense”. Second, too many lawyers work in noisy and busy environments, poorly suited to the
+work of lawyers: “It’s hard to think in the hustle and bustle of big cities. The work of a good
+thinker is quiet and unhurried.” The third problem is a lack of objectivity: “When you’re anxious
+for a particular result, you may sometimes not look as objectively at a legal problem or legal
+argument as you should”, Simpson says.
+
+
+To confront these and other problems, lawyers around the common law world are finding their
+way to a new resource that aims to reduce the risk of making potentially costly and embarrassing
+mistakes. The resource is Win More Cases: The Lawyer’s Toolkit, a groundbreaking 200-page
+step-by-step guide on solving legal problems persuasively in writing.
+(http://www.research- one.com.au/Portals/0/PressRelease_HardCopy_7.pdf)
+
+
+01 The research company mentioned says that three main problems affect lawyers’ success, one
+of which is
+
+
+(A) lofty offices.
+(B) unfit conditions.
+(C) unlucky circumstances.
+(D) unsafe surroundings.
+(E) embarrassing spots.
+
+
+02 The expression “snatch defeat from the jaws of victory” (line1) indicates the case is ultimately
+
+
+(A) arguable.
+(B) hopeless.
+(C) unaltered.
+(D) disputed.
+(E) pending.
+
+
+03 In “yet the court still decide the other way” (lines 9 and 10) yet can be replaced by
+
+
+(A) moreover.
+(B) hitherto.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     111
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(C) until.
+(D) however.
+(E) henceforth.
+
+
+04 When the text informs that the court may decide “the other way” (line10), this means the
+decision may be
+
+
+(A) fair.
+(B) favorable.
+(C) unchanged.
+(D) unexpected.
+(E) unbiased.
+
+
+Texto 2: ANALISTA LEGISLATIVO - CONTABILIDADE – SENADO FEDERAL - FGV
+
+
+                                                Meet the new neighbors
+
+
+        The empty house, in a middle-class corner of southern California,
+2 is two storeys high and boasts a three-car garage. Roses bloom around a kidney-shaped
+swimming pool, which is green with algae. Bill Bobbitt, a county inspector, dips a ladle into the
+water and brings up half a dozen
+6 wriggling larvae. Mosquitoes, and the West Nile virus that some of them carry, are thriving in
+California’s plunging property market.
+      West Nile virus arrived in America in 1999 and made it to California three years later. Since
+then it is known to have infected 2,300 people in the state, of whom 76 have died… In theory,
+owners are supposed to keep their properties in decent shape whether they live there or not.
+13 California has even passed a bill fining banks and mortgage companies 14 that seize
+properties and then allow pools to fester. But Mr. Bobbitt isn’t waiting for the lawyers. He has
+treated the pool in Santa Ana with oil and synthetic growth hormones, which will keep the
+mosquitoes adolescent, preventing breeding. Then he tips in a few dozen mosquito fish
+(Gambusia affinis), which begin happily munching larvae. You can buy a lot of the fish for what
+a lawyer charges per hour, and some
+21 authorities, with commendable creativity, even provide them free to help control the pests.
+(from The Economist, August 2d, 2008, p. 34)
+
+
+            Receita Federal (Analista Tributário) Língua Inglesa                                 112
+            www.estrategiaconcursos.com.br                                                       129
+
+                                         
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+05 The tone of the title is
+
+
+(A) tragic.
+(B) sympathetic.
+(C) ironic.
+(D) wailing.
+(E) enthusiastic.
+
+
+06 According to the text, the market for buying and selling houses in California is
+
+
+(A) dropping.
+(B) stable.
+(C) rising.
+(D) sky-rocketing.
+(E) inflated.
+
+
+07 A kidney-shaped swimming-pool is
+
+
+(A) triangular.
+(B) square.
+(C) rectangular.
+(D) trapezoid.
+(E) curved.
+
+
+08 The underlined word in “wriggling larvae” (lines 5 and 6) means that the larvae are
+
+
+(A) growing.
+(B) migrating.
+(C) reproducing.
+(D) twisting.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             113
+        www.estrategiaconcursos.com.br                                                   129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(E) dying.
+
+
+09 The expression “boasts a three-car garage” (line 2) reveals an attitude which is
+
+
+(A) humble.
+(B) haughty.
+(C) hopeful.
+(D) hospitable.
+(E) holy.
+
+
+10 When “mortgage companies seize properties” (lines 13 and14) this means they
+
+
+(A) take them down.
+(B) take them off.
+(C) take them away.
+(D) take them out.
+(E) take them apart.
+
+
+11 In “provide them free” (line 21) them refers to
+
+
+(A) lawyers.
+(B) larvae.
+(C) authorities.
+(D) pests.
+(E) fish.
+
+
+Texto 3: Analista de Apoio - Turismólogo - Companhia de Desenvolvimento Econômico de Minas
+Gerais – CODEMIG - FGV
+
+
+                                             Mining tourism in Ouro Preto
+
+            Receita Federal (Analista Tributário) Língua Inglesa                       114
+            www.estrategiaconcursos.com.br                                             129
+
+                                         
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+Ouro Preto is surrounded by a rich and varied natural environment with waterfalls, hiking trails
+and native vegetation partially protected as state parks. Parts of these resources are used for
+tourism. Paradoxically, this ecosystem contrasts with the human occupation of the region that
+produced, after centuries, a rich history and a cultural connection to mining, its oldest economic
+activity which triggered occupation. The region has an unlimited potential for tourism, especially
+in specific segments such as mining heritage tourism, in association or not with the existing
+ecotourism market. In fact, in Ouro Preto, tourism, history, geology and mining are often hard to
+distinguish; such is the inter-relationship between these segments.
+
+
+For centuries, a major problem of mining has been the reuse of the affected areas. Modern
+mining projects proposed solutions to this problem right from the initial stages of operation,
+which did not happen until recently. As a result, most quarries and other old mining areas that do
+not have an appropriate destination represent serious environmental problems. Mining tourism
+utilizing exhausted mines is a source of employment and income. Tourism activities may even
+contribute to the recovery of degraded areas in various ways, such as reforestation for leisure
+purposes, or their transformation into history museums where aspects of local mining are
+interpreted.
+
+
+Minas Gerais, and particularly Ouro Preto, provides the strong and rich cultural and historical
+content needed for the transformation of mining remnants into attractive tourism products,
+especially when combined with the existing cultural tourism of the region. Although mining
+tourism is explored in various parts of the world in extremely different social, economic, cultural
+and natural contexts, in Brazil it is still not a strategy readily adopted as an alternative for areas
+affected by mining activities.
+(Lohmann, G. M.; Flecha, A. C.; Knupp, M. E. C. G.; Liccardo, A. (2011). Mining tourism in Ouro
+Preto, Brazil: opportunities and challenges. In: M. V. Conlin; L. Jolliffe (eds). Mining heritage and
+tourism: a global synthesis. New York: Routledge, pp. 194-202.
+
+
+12 Mark the statements below as TRUE (T) or FALSE (F) according to Text 1.
+
+
+( ) Tourism may actually be quite beneficial to some degraded mining areas.
+( ) Mining tourism has recently been promptly embraced by Brazilian regions.
+( ) Ouro Preto is attracting people because mining is one of its most recent activities.
+
+
+The correct sequence is:
+
+
+(A) F–T –T;
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                       115
+        www.estrategiaconcursos.com.br                                                             129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(B) F –F –T;
+(C) F –T –F;
+(D) T –T –F;
+(E) T –F– F;
+
+
+13 Text 1 refers to “hiking trails” (l. 2), which are primarily intended for:
+
+
+(A) cycling;
+(B) skating;
+(C) walking;
+(D) driving;
+(E) shooting
+
+
+14 The opposite of the underlined word in “are often hard to distinguish” (l. 11) is:
+
+
+(A) seldom;
+(B) always;
+(C) at times;
+(D) generally;
+(E) frequently.
+
+
+15 The problem referred to in “solutions to this problem” (l. 14-15) is:
+
+
+(A) using old machinery;
+(B) cleaning the environment;
+(C) opening new digging sites;
+(D) reclaiming damaged areas;
+(E) digging in unsuitable places
+
+
+16 The sentence that best explains “Mining tourism utilizing exhausted mines is a source of
+employment and income.” (l. 18-19) is:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            116
+        www.estrategiaconcursos.com.br                                                  129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(A) wasted mines can generate jobs and money;
+(B) tourism is supported by miners and their families;
+(C) visiting wasted mines can drain the energy of tourists;
+(D) using damaged mines for tourism may be rather unsafe;
+(E) mining tourism deprives people of their work and resources
+
+
+17. The phrase “As a result” (l. 16) can be replaced by:
+
+
+(A) Yet;
+(B) Hence;
+(C) Though;
+(D) Anyhow;
+(E) However;
+
+
+Texto 04: TÉCNICO LEGISLATIVO – SENADO FEDERAL - FGV
+
+
+Read text II and answer questions 18 to 21.
+
+
+                                                          Text II
+
+
+      If you think that there’s something oddly familiar about descriptions of social media, it
+may be that you recall some of the discussions in the 1990s about what the web would become.
+And many of its emerging manifestations are close to the idealistic imaginings from that time. A
+good way to think about social media is that all of this is actually just about human beings.
+Sharing ideas, cooperating and collaborating to create art, thinking and commerce, vigorous
+debate and discourse, finding people who might be good friends, allies and lovers – it’s what our
+species has built several civilisations on.
+    That’s why it is spreading so quickly, not because it’s great shiny, whizzy new technology, but
+because it lets us be ourselves – only more so. And it is in the “more so” that the power of this
+revolution lies. People can find information, inspiration, like-minded people, communities and
+collaborators faster than ever before. New ideas, services, business models and technologies
+emerge and evolve at dizzying speed in social media.
+(http://www.icrossing.co.uk/fileadmin/uploads/eBooks/What_is_social)
+
+
+           Receita Federal (Analista Tributário) Língua Inglesa                                 117
+           www.estrategiaconcursos.com.br                                                       129
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+18 The text opens with
+
+
+(A) references to the past.
+(B) outlooks for the future.
+(C) warnings to the reader.
+(D) complaints about the web.
+(E) suggestions for changes.
+
+
+19 According to the text, social media is spreading because it
+                                                        ==219a34==
+
+(A) allows fast exchanges.
+(B) helps political manifestations.
+(C) solves social problems.
+(D) creates links between people.
+(E) promotes new markets.
+
+
+20 The expression “like-minded people” means people who
+
+
+(A) are lovers.
+(B) tolerate each other.
+(C) live together.
+(D) love to discuss.
+(E) think in a similar way.
+
+
+21 The underlined expression in “evolve at dizzying speed” can be replaced by
+
+
+(A) with large steps.
+(B) at a very fast pace.
+(C) in confusing ways.
+(D) at a terribly slow rate.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                    118
+        www.estrategiaconcursos.com.br                                          129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(E) in incredible manners.
+
+
+Texto 5: Analista Legislativo - Processo Legislativo - Senado Federal – FGV
+
+
+                                                Judicial reasoning
+
+
+       Judicial reasoning refers both to the process of thought by which a judge reaches a
+conclusion as to the appropriate result in a case, and to the written explanation of that process in
+a published judgment.
+4 The latter is the principal mechanism of judicial accountability: an explanation of the reasons
+for decision is owed not only to the unsuccessful litigant, but to everyone with an interest in the
+judicial process, including other institutions of government and ultimately the public. No other
+public decision makers are under such a heavy obligation to explain the reasons for their
+decisions. Yet the specialised nature of legal discourse means that the function of public
+justification is often imperfectly realised: the explanations are designed to be understood
+primarily by other judges and by the legal profession in general.
+15        While the published reasons for decision lend themselves to objective analysis, the
+underlying processes of thought involved in exploring and resolving a legal problem are so
+complex and variable that neither judges nor writers on jurisprudence have been able to reduce
+them to an adequate explanatory or prescriptive model. Ideally, the written reasons for judgment
+not only provide an accurate mirror of the underlying reasoning process, but may actually help to
+shape it: the task of reducing one’s thinking to writing is itself an aid to thinking, and sometimes
+a decisive aid.
+(http://www.win-more-cases.com/judicial-reasoning.htm)
+
+
+22 According to the text, the processes of judicial reasoning cannot be
+
+
+(A) systematized.
+(B) contested.
+(C) annotated.
+(D) realized.
+(E) advocated.
+
+
+23 In relation to judicial reasoning processes, the written version may in fact
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     119
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(A) simplify them.
+(B) reverse them.
+(C) retard them.
+(D) reflect them.
+(E) hinder them.
+
+
+24 The verb in “reaches a conclusion” (line 2) can be replaced by:
+
+
+(A) jumps to.
+(B) abides by.
+(C) arrives at.
+(D) hands down.
+(E) dallies with.
+
+
+25 In “as to the appropriate result” (lines 2-3) appropriate means
+
+
+(A) astounding.
+(B) casual.
+(C) riotous.
+(D) bewildering
+(E) suitable.
+
+
+26 The underlined word in “The latter is the principal mechanism” (line 4) refers to
+
+
+(A) conclusion.
+(B) explanation.
+(C) process.
+(D) result
+(E) judgment.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           120
+        www.estrategiaconcursos.com.br                                                 129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+27 When the text states that “the published reasons for decision lend themselves to objective
+analysis” (lines 15-16) this means they
+
+
+(A) allow it.
+(B) elude it.
+(C) carry it out.
+(D) exhibit it.
+(E) defy it.
+
+
+Texto 6: Analista Tecnológico - Banco do Brasil - FGV - 2023
+
+
+Read Text I and answer questions 28 to 33.
+
+
+Text I
+
+
+                                      Why We're Obsessed With the
+                                   Mind-Blowing ChatGPT AI Chatbot
+
+
+         Stephen Shankland Feb. 19, 2023 5:00 a.m. PT
+
+      This artificial intelligence bot can answer questions, write essays, summarize documents
+and write software. But deep down, it doesn't know what's true.
+
+
+       Even if you aren't into artificial intelligence, it's time to pay attention to ChatGPT, because
+this one is a big deal.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                      121
+         www.estrategiaconcursos.com.br                                                            129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+      The tool, from a power player in artificial intelligence called OpenAI, lets you type natural-
+language prompts. ChatGPT then offers conversational, if somewhat stilted, responses. The bot
+remembers the thread of your dialogue, using previous questions and answers to inform its next
+responses. It derives its answers from huge volumes of information on the internet.
+       ChatGPT is a big deal. The tool seems pretty knowledgeable in areas where there's good
+training data for it to learn from. It's not omniscient or smart enough to replace all humans yet,
+but it can be creative, and its answers can sound downright authoritative. A few days after its
+launch, more than a million people were trying out ChatGPT.
+      But be careful, OpenAI warns. ChatGPT has all kinds of potential pitfalls, some easy to
+spot and some more subtle.
+      “It's a mistake to be relying on it for anything important right now,” OpenAI Chief
+Executive Sam Altman tweeted. “We have lots of work to do on robustness and truthfulness.”
+[...]
+       What is ChatGPT?
+      ChatGPT is an AI chatbot system that OpenAI released in November to show off and test
+what a very large, powerful AI system can accomplish. You can ask it countless questions and
+often will get an answer that's useful.
+       For example, you can ask it encyclopedia questions like, “Explain Newton's laws of
+motion.” You can tell it, "Write me a poem," and when it does, say, "Now make it more
+exciting." You ask it to write a computer program that'll show you all the different ways you can
+arrange the letters of a word.
+      Here's the catch: ChatGPT doesn't exactly know anything. It's an AI that's trained to
+recognize patterns in vast swaths of text harvested from the internet, then further trained with
+human assistance to deliver more useful, better dialog. The answers you get may sound plausible
+and even authoritative, but they might well be entirely wrong, as OpenAI warns.
+Adapted from: https://www.cnet.com/tech/computing/why-were-all-obsessed- with-the-mind-
+blowing-chatgpt-ai-chatbot/
+
+
+28 Based on Text I, mark the statements below as true (T) or false (F).
+
+
+( ) The author thinks that this artificial intelligence bot launched in November should not be
+overlooked.
+( ) ChatGPT is able to keep up with conversation sequences.
+( ) According to OpenAI, the bot is fully trustworthy.
+
+
+The statements are, respectively,
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     122
+        www.estrategiaconcursos.com.br                                                           129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(A) T – F – F.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – F – T.
+(E) F – T – F.
+
+
+29 The word pretty in The tool seems pretty knowledgeable indicates
+
+
+A place.
+B manner.
+C intensity.
+D frequency.
+E appearance.
+
+
+30 The word yet in It's not omniscient or smart enough to replace all humans yet is similar in
+meaning to
+
+
+A so far.
+B since then.
+C right away.
+D hardly ever.
+E from now on.
+
+
+31 In the final sentence, the author expresses some
+
+
+A caution.
+B distress.
+C sadness.
+D amazement.
+E cheerfulness.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               123
+        www.estrategiaconcursos.com.br                                                     129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+32 In if somewhat stilted (2nd paragraph), the author thinks the responses are rather
+
+
+A evasive.
+B effusive.
+C accurate.
+D contrived.
+E effortless.
+
+
+33 The modal verb in might well be at the end of the text indicates
+
+
+A request.
+B objection.
+C necessity.
+D obligation.
+E possibility.
+
+
+Texto 7: Corpo De Bombeiros Militar Do Estado Do Rio De Janeiro - Cadete CBM-
+RJ – FGV -2024
+
+
+Read Text I and answer the five questions that follow it
+
+
+Text I
+
+
+                              Impact of Climate Change on Firefighting
+                                          Extends Beyond Wildfires
+
+
+   Global warming is often mentioned as a factor in the accelerating frequency and intensity of
+wildfires. However, there are other consequences of global warming that impact the fire service,
+including new hazards and medical emergencies, emerging training challenges, population
+migration, and technology developments.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                124
+         www.estrategiaconcursos.com.br                                                      129
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+  Climate change is often discussed as a future event. However, the impact of wildfires is just
+the most obvious example of how climate change is already impacting the world, and fire and
+emergency personnel will be called on to mitigate the effects.
+   The most obvious and extreme impact of global warming can be seen in the increase of
+frequency and intensity of wildfires. Hotter and drier weather is extending the wildfire season
+(maybe to become year-round?). Higher temperatures, low humidity, less rainfall, and high wind
+increase the likelihood of wildfires.
+Adapted from: https://www.thebigredguide.com/insights/impact-climate-change-firefighting-
+extends-wildfires-editor-s-dispatch.1645685564.html
+
+
+01 Based on Text I, mark the statements below as TRUE (T) or FALSE (F).
+
+
+I. The effects of climate change exclude wildfires.
+II. Global warming is not a current problem.
+III. The number of wildfires has been on the rise. The statements are, respectively,
+
+
+(A) F–T–F.
+(B) T–T–F.
+(C) T–F–T.
+(D) F–T–T.
+(E) F–F–T.
+
+
+02 The function of the word “However” in “However, there are other consequences” (1           st
+
+paragraph) is to introduce a
+
+
+(A) concordance.
+(B) comparison.
+(C) conclusion.
+(D) contrast.
+(E) cause.
+
+
+03 The opposite of “often” in “Climate change is often discussed” (2 paragraph) is
+                                                                          nd
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                125
+        www.estrategiaconcursos.com.br                                                      129
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 04
+
+(A) much.
+(B) always.
+(C) seldom.
+(D) usually.
+(E) forever.
+
+
+04 “Maybe” in “(maybe to become year-round?)” (3 paragraph) is similar in meaning to
+                                                               rd
+
+(A) perhaps.
+(B) already.
+(C) almost.
+(D) surely.
+(E) rather.
+
+
+05 To “increase the likelihood” (3 paragraph) means to raise the
+                                         rd
+
+(A) impossibility.
+(B) uncertainty.
+(C) preference.
+(D) willingness.
+(E) probability.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           126
+        www.estrategiaconcursos.com.br                                                 129
+
+                                     
+
+
+---
+
+Ena Smith
+Aula 04
+
+                                          G ABARITOS
+
+                       Textos                                                 Gabaritos
+
+                       Texto 1                               01-B; 02-X; 03-D; 04-D;
+
+                       Texto 2                               05-C; 06-A; 07-E; 08-D; 09-B; 10-C; 11-E;
+
+                       Texto 3                               12-E; 13-C; 14-A; 15-D; 16-A; 17-B;
+
+                       Texto 4                               18-A; 19-D; 20-E; 21-B;
+
+                       Texto 5                               22-A; 23-D; 24-C; 25-E; 26-B; 27-A;
+
+                       Texto 6                               28-B; 29-C; 30-A; 31-A; 32-D; 33-E;
+
+                       Texto 7                               01-E; 02-D; 03-C; 04-A; 05-E;
+
+      Receita Federal (Analista Tributário) Língua Inglesa                                               127
+      www.estrategiaconcursos.com.br                                                                     129
+
+                                   
+
+
+---
+
+    Ena Smith
+    Aula 04
+
+                                                  R ESUMO
+•    Dê atenção aos sinônimos: Systematize = sistematizar, organizar de acordo com um plano
+     ou sistema = prescriptive = normativo, padronizado, pertinente a uma norma, modelo ou
+     padrão;
+•    Dê atenção aos sinônimos: Arrive at = chegar a = reach = alcançar, chegar a, atingir
+•    Dê atenção à expressão: Hand down = pronunciar uma decisão oficial, especialmente um
+     veredito do tribunal.
+•    Dê atenção aos sinônimos: Suitable = apropriado, adequado, condizente, conveniente =
+     appropriate = adequado, apropriado, oportuno
+•    Dê atenção aos sinônimos: Has grown = has increased = has spread = crescer,
+     aumentar, desenvolver-se, espalhar-se, propagar-se, alargar-se
+•    Dê atenção aos sinônimos: conscious = consciente, cônscio, ciente, razoável, ajuizado,
+     ponderado = aware = consciente, cônscio, sensível, sensato, assentado
+•    Either: significa “também”. Dentre os modos em que esse conectivo é utilizado, um deles é
+     posicionar-se no final de sentenças negativas para intensificar o seu significado; que é o caso
+     do nosso segmento acima. Outros advérbios similares a ele são too e as well as, sendo
+     que o formato as well é usado sempre no final da frase.
+•    Dê atenção aos conectivos: anymore = não mais. = any (nenhum) + more (mais) = não mais.
+
+          Receita Federal (Analista Tributário) Língua Inglesa                                   128
+          www.estrategiaconcursos.com.br                                                         129
+
+                                       
+
+
+---
+
+---

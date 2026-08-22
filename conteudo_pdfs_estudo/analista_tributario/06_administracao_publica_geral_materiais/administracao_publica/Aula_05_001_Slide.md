@@ -1,0 +1,1651 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: ADMINISTRAÇÃO PÚBLICA
+artigos_citados:
+- Art. 216
+- Art. 37
+- art. 15
+- art. 16
+- art. 17
+- art. 21
+- art. 39
+- art. 7º
+---
+
+# ADMINISTRAÇÃO PÚBLICA
+
+---
+
+ADMINISTRAÇÃO PÚBLICA
+
+
+                                              Prof. Elisabete Moreira
+
+         
+
+
+---
+
+---
+
+GOVERNO ELETRÔNICO E
+GOVERNO DIGITAL
+
+                                                Prof. Elisabete Moreira
+
+           
+
+
+---
+
+Governo Eletrônico – e-Gov
+
+PDRAE enfatizava a necessidade do uso da TIC (item 8.2.9) e a
+implantação de sistemas que pudessem oferecer:
+• transparência às ações do governo;
+• disponibilização de informações gerenciais para facilitar a
+   tomada de decisão;
+• acesso fácil aos cidadãos – através da internet, de dados do
+   sistema de governo.
+
+                     
+
+
+---
+
+Principais Marcos
+
+• Gestão Interna: 1970 a 1992
+• Serviços e informações ao cidadão: 1993 a 1998
+• Entrega de Serviços via internet: a partir de 1999
+
+
+• Abril 2000: Grupo de Trabalho de Tecnologia da Informação (GTTI) –
+  inicia-se a entrega de serviços via internet
+• Outubro 2000: Comitê Executivo do Governo Eletrônico (CEGE), que
+  viria a definir as bases institucionais para a implantação do e-gov.
+• Em 2003: 8 (oito) comitês no âmbito do CEGE.
+• Em 2005: Departamento de Governo Eletrônico, substituindo o CEGE
+  na coordenação e implantação de ações integradas.
+
+                         
+
+
+---
+
+Governo Eletrônico – e-Gov
+
+Governo eletrônico é definido como o uso das TIC, em particular
+a internet, como ferramenta para levar a um melhor governo.
+
+Governo eletrônico (ou e-government, em inglês) é a forma pela
+qual o governo se utiliza da Internet e da web para ofertar
+informações e serviços governamentais aos cidadãos.
+
+                     
+
+
+---
+
+        Princípios do Governo Eletrônico
+          •       Priorização na promoção da cidadania;
+          •       Racionalização dos recursos; - redução de custos;
+          •       Indissociabilidade entre inclusão digital e governo
+                  eletrônico, enfocando o público como sujeito do processo e não
+                  apenas como destinatário;
+          •       Utilização de software livre;
+          •       Gestão do conhecimento;
+          •       Adoção de políticas, normas e padrões comuns;
+          •       Integração com outros níveis de governo e com os demais
+                  poderes – interoperabilidade (sistemas heterogêneos se
+                  comunicando).
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Objetivos do Governo Eletrônico
+
+            • Democratizar o acesso à informação (inclusão digital);
+            • Modernizar a máquina pública / minimizar a burocracia pública;
+            • Reduzir custos e melhorar a eficiência da administração pública no
+              que se refere aos seus processos internos;
+            • Aumentar a eficiência e a qualidade dos serviços públicos;
+            • Permitir maior participação popular do cidadão na gestão pública;
+            • Aumentar a transparência, o controle social e a accountability;
+            • Criar mecanismos de gestão do conhecimento;
+            • Aprimorar a Governança.
+
+
+Prof. Elisabete Moreira
+                                   
+
+
+---
+
+        Relações de TIC
+
+            • G2C (Government to Citizen/Consumer) – Governo para cidadão /
+              Consumidor: são transações que envolvem o governo e o cidadão.
+            • G2B (Government to Business) – Governo para Empresas/Negócios:
+              trata-se das transações que envolvem o governo e as empresas.
+            • G2G (Government to Government) – Governo para Governo: trata-se
+              das transações que entre o próprio governo (intragoverno).
+            • G2E (Government to Employee) – Governo para Servidor /
+              Empregado: trata-se das transações que envolvem o governo e os
+              seus servidores/empregados públicos
+
+
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+Fases do Governo Eletrônico
+
+            
+
+
+---
+
+        Do e-Gov ao Governo Digital
+             O programa e-governo visava                         O Governo Digital (2016) tem
+             a “utilização da Internet e da                      o objetivo de ampliação da
+             web para ofertar informações                        interatividade e participação
+             e serviços governamentais                           política nos processos do
+             aos cidadãos”.                                      Estado, facilitação de
+                        Nações Unidas (2001)                     navegação e acesso a portais
+             O objetivo era democratizar o                       e serviços de governo em prol
+             acesso à informação, visando                        da integração, transparência
+             ampliar o debate e a                                e atendimento às demandas
+             participação popular na                             da sociedade, cuja prestação
+             construção das políticas                            ocorra por meio eletrônico,
+             públicas (2000).                                    sem a necessidade de
+                                                                 atendimento presencial.
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+Principais Marcos Legais
+ • Decreto Nº 8.638/2016, institui a Política de Governança
+   Digital (2016-2019) na Administração pública federal;
+ • Decreto Nº 8.936/2016, institui a Plataforma de Cidadania
+   Digital e dispõe sobre a oferta dos serviços públicos digitais;
+ • Decreto Nº 9.319/2018, institui o Sistema Nacional para a
+   Transformação Digital e estabelece a estrutura de governança
+   para a implantação da Estratégia Brasileira para a
+   Transformação Digital (E-Digital).
+ • Decreto 10.332/2020 - institui a Estratégia de Governo Digital
+   para o período de 2020 a 2022, legitima e dá publicidade ao
+   plano estratégico junto a todos os órgãos da administração
+   pública e à sociedade.
+                       
+
+
+---
+
+        Estratégia de Governança Digital –
+        EGD
+         •      A EGD para o período de 2020 a 2022 está organizada em
+                princípios, 18 objetivos e iniciativas que nortearão a
+                transformação do governo por meio de tecnologias digitais.
+         •      O objetivo é oferecer políticas públicas e serviços de
+                melhor qualidade, mais simples, acessíveis a qualquer hora
+                e lugar e a um custo menor para o cidadão.
+         •      A EGD é um dos eixos temáticos do E-Digital – Estratégia
+                Brasileira para a Transformação Digital (instituída pelo Decreto
+                9319/2018.
+
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+        Estratégia de Governança Digital –
+        EGD
+      •      A Rede Nacional de Governo Digital - Rede Gov.br, de
+             natureza colaborativa e adesão voluntária, no âmbito da
+             União, dos Estados, do Distrito Federal e dos Municípios, tem a
+             finalidade de promover o intercâmbio de informações e a
+             articulação de medidas conjuntas relacionadas à expansão
+             da Estratégia de Governo Digital.
+      •      Até o fim de 2022 pretende-se oferecer digitalmente 100% dos
+             mais de 3 mil serviços da União, todos disponíveis no
+             portal gov.br.
+
+
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+        Estratégia de Governança Digital –
+        EGD
+                           Os PRINCÍPIOS EGD são:
+                             • Governo centrado no cidadão
+                             • Integrado
+                             • Inteligente
+                             • Confiável
+                             • Transparente e aberto
+                             • Eficiente
+
+                          O digital não mudará o Brasil. O digital ajudará as
+                                  pessoas, e estas mudarão o Brasil.
+
+Prof. Elisabete Moreira
+                                        
+
+
+---
+
+        Principais Realizações
+
+           • Portal Brasil: plataforma que agrega conteúdos institucionais do
+             governo federal;
+           • Portal Brasileiro de Dados Abertos: plataforma centralizada para
+             acesso a dados abertos governamentais;
+           • Portal de Serviços: sítio eletrônico oficial para a disponibilização de
+             informações e o acesso a serviços públicos;
+
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+        Principais Realizações
+         • Portal de Serviços
+           • Simplifique!: sítio eletrônico para o usuário contribir e participar do
+             processo de simplificação de serviços;
+           • Sistema de Ouvidorias do Poder Executivo Federal (e-Ouv):
+             encaminhar manifestações (denúncias, reclamações, solicitações,
+             sugestões e elogios);
+           • Sistema Eletrônico do Serviço de Informação ao Cidadão (e-SIC):
+             encaminhar e acompanhar pedidos de acesso à informação;
+           • Sistema Eletrônico de Informações (SEI): gestão de processos e
+             documentos administrativos eletrônicos;
+           • Portal Comprasnet: gestão de compras públicas;
+           • Portal da Transparência: portal de transparência ativa;
+           • Participa.br: portal para publicação e debate de políticas públicas.
+Prof. Elisabete Moreira
+                                   
+
+
+---
+
+        Modelo de EGD
+
+Prof. Elisabete Moreira
+                          
+
+
+---
+
+        Modelo de EGD
+
+Prof. Elisabete Moreira
+                          
+
+
+---
+
+        01. (FCC – DPE-SP – 2015) Em relação ao fortalecimento do governo
+        eletrônico e à adoção das Tecnologias de Informação e Comunicação
+        − TICs na Administração pública brasileira, é correto afirmar:
+        a) Na década de 1990, iniciou-se um processo de melhoria da gestão
+        interna e aumento da eficiência dos processos administrativos e
+        financeiros por meio das TICs.
+        b) Nos anos 2000, iniciou-se um processo de uso das TICs para o
+        apoio na prestação de serviços.
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        c) Na década de 1980, a entrega de alguns serviços passou a ser via
+        internet.
+        d) Até a década de 1990, as TICs ainda não tinham sido adotadas.
+        e) No final da década de 1990, a entrega de serviços via internet
+        passou a ser disponibilizada.
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        02. (FPM Concursos – CGE-MT – 2015) Considerando a temática do
+        Governo Eletrônico no Brasil, analise as seguintes assertivas:
+        I - A política de Governo Eletrônico segue um conjunto de diretrizes
+        que atuam em três frentes fundamentais: junto ao cidadão; na
+        melhoria da sua própria gestão interna; e na integração com parceiros
+        e fornecedores.
+        II – A gestão do conhecimento é um instrumento estratégico de
+        articulação e gestão das políticas públicas do Governo Eletrônico.
+        III - A inclusão digital deve ser tratada como um elemento constituinte
+        da política de Governo Eletrônico.
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        Quais estão CORRETAS?
+        a) Apenas I.
+        b) Apenas I e II.
+        c) Apenas I e III.
+        d) Apenas II e III.
+        e) I, II e III.
+
+Prof. Elisabete Moreira
+                           
+
+
+---
+
+        03. (FCC – TCE-CE – 2008) O Portal do Tribunal de Contas do Ceará
+        na Internet é um exemplo de governo eletrônico (E-Gov), por provocar
+        transformações profundas nos relacionamentos. Os relacionamentos
+        mantidos pelo Tribunal com os cidadãos e com os demais órgãos
+        governamentais denominam-se, respectivamente,
+        a) G2G e G2B.
+        b) G2B e C2G.
+        c) G2C e G2G.
+        d) B2G e C2G.
+        e) C2G e G2B.
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        04. (CESPE – SEDF – 2017) A Internet de banda larga e as redes
+        sociais facilitaram as relações entre o Estado e os seus públicos e
+        intensificaram as interações administrativas inerentes ao governo
+        eletrônico e à governança pública.
+
+                            ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        05. (CESPE – TCE-SC – 2016) A governança eletrônica por meio das
+        redes sociais, apesar de proporcionar maior participação dos
+        cidadãos nas atividades públicas, pouco auxilia a população na
+        solução e atendimento de demandas locais.
+
+                           ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                              
+
+
+---
+
+        05. (CESPE – TCE-SC – 2016) A governança eletrônica por meio das
+        redes sociais, apesar de proporcionar maior participação dos
+        cidadãos nas atividades públicas, pouco auxilia a população na
+        solução e atendimento de demandas locais.
+
+                           ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                              
+
+
+---
+
+        06. (CESPE – FUB – 2015) O Comitê Executor de Governo
+        Eletrônico Federal abriu mão da associação direta entre inclusão
+        digital e governo eletrônico, limitando o uso do software livre como
+        recurso estratégico de acessibilidade.
+
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        07. (CESPE – MEC – 2015) A política de governo eletrônico brasileira
+        (e-GOV) segue um conjunto de diretrizes que atuam em três frentes.
+        1 junto ao cidadão; 2 na melhoria da gestão interna; e 3 na integração
+        com parceiros e fornecedores.
+
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        08. (CESPE/CODEVASF/2021) Acerca de governo eletrônico,
+        transparência da administração pública, accountability, gestão por
+        resultados e gestão de redes organizacionais, julgue o item seguinte.
+
+        Os serviços relacionados ao imposto de renda de pessoa física e ao
+        Portal Empresa Simples estão entre as iniciativas de governo
+        eletrônico mais relevantes e inovadoras dos últimos anos, segundo os
+        seus gestores estratégicos.
+
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        09. (CESPE/CODEVASF/2021) Acerca de governo eletrônico,
+        transparência da administração pública, accountability, gestão por
+        resultados e gestão de redes organizacionais, julgue o item seguinte.
+
+        Uma das desvantagens do estabelecimento de redes organizacionais
+        entre órgãos públicos é o aumento dos custos inerentes ao
+        compartilhamento de experiências de desenvolvimento de soluções
+        tecnológicas.
+
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        10. (CESPE/MPE-CE/2020) A respeito de orçamento participativo,
+        governo eletrônico, gestão por resultados na produção de serviços
+        públicos e comunicação na gestão pública, julgue o item subsecutivo.
+
+        Segundo a Estratégia de Governança Digital do governo federal,
+        serviço público digital é o serviço público cuja prestação ocorre por
+        meio eletrônico, sem necessidade de atendimento presencial.
+
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        11. (CESPE/MPE-PI/2018) A respeito de organização administrativa,
+        julgue o item que segue.
+
+        Nos órgãos públicos, os avanços da tecnologia da informação
+        representam vantagens para o atendimento público ao possibilitar a
+        centralização das decisões e a descentralização dos controles sobre
+        os serviços prestados
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        12. (CESPE/TCERO/2019) Governos em todo o mundo utilizam as
+        tecnologias da informação e comunicação (TIC), em especial a
+        Internet, para serviços, transações, disponibilização de informações,
+        entre outras aplicações. No Brasil, já existem experiências em todos
+        os níveis de governo no uso das TIC para melhorar o acesso às
+        informações públicas. No que se refere ao assunto tratado, é correto
+        afirmar que, na utilização das TIC, o principal desafio para alcançar a
+        combinação ideal dos princípios de eficiência, transparência e
+        accountability consiste em
+
+Prof. Elisabete Moreira
+                                 
+
+
+---
+
+        a) estabelecer padrões de interação entre os órgãos de controle.
+        b) ampliar o acesso à Internet nos municípios brasileiros.
+        c) ampliar o número de instâncias participativas tanto no formato
+           presencial como no formato digital.
+        d) criar aplicativos de serviços que proporcionem aos cidadãos
+           maior rapidez e agilidade.
+        e) construir indicadores de transparência da gestão pública e
+           transformar essas informações em medidas compreensíveis para
+           o cidadão.
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        13. (CESPE/SEFAZ-CE/2021) Julgue o próximo item quanto a
+        governo eletrônico, planejamento, administração de pessoal e
+        processos de compras governamentais.
+
+        A instituição da Rede Nacional de Governo Digital, de natureza
+        colaborativa e adesão voluntária, é uma das estratégias do governo
+        eletrônico para o período de 2020 a 2022.
+
+                            ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+---
+
+TRANSPARÊNCIA E CONTROLE SOCIAL
+
+
+                                                Prof. Elisabete Moreira
+
+           
+
+
+---
+
+        Transparência e Controle Social
+         A transparência está relacionada à disponibilização de
+         informações e acesso aos serviços públicos por parte do
+         cidadão, permitindo o exercício da cidadania.
+         O controle social se refere à efetiva participação da sociedade
+         no acompanhamento e verificação das ações da gestão pública, na
+         formulação e execução das políticas públicas, avaliando
+         objetivos, processos e resultados.
+
+                             A transparência e o controle social permitem o
+                          exercício da cidadania, ajudando nas boas práticas de
+                                          governança pública.
+Prof. Elisabete Moreira
+                                        
+
+
+---
+
+        Transparência e Controle Social
+         A transparência estabelece que os atos do setor público devem ser
+         de domínio público, relacionando-se:
+         • À disponibilização de informações e ao acesso aos serviços
+           públicos por parte do cidadão, permitindo o exercício da cidadania;
+         • Ao princípio da publicidade (art. 5º, XXXIII; art. 37, caput ,ambos da
+           CF/88);
+         • Ao aumento da accountability;
+         • Ao exercício do controle social.
+         • Ao ataque à corrupção.
+
+
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+INSTRUMENTOS DE TRANSPARÊNCIA E
+CONTROLE SOCIAL
+• FALA.BR
+• GOVERNO ABERTO
+• PORTAL DA TRANSPARÊNCIA
+                                               Prof. Elisabete Moreira
+
+          
+
+
+---
+
+        Instrumentos de Transparência
+                   Plataforma Integrada de Ouvidoria e Acesso à Informação
+                                           (Fala.BR)
+         Para solicitar acesso ã informação, denúncias, elogios, reclamações,
+         simplifique; solicitações e sugestões.
+
+                                        Governo Aberto
+        Iniciativa internacional que pretende difundir e incentivar globalmente práticas
+        governamentais relacionadas à transparência dos governos, ao acesso à
+        informação pública e à participação social. Foi criado em 20 de setembro
+        de 2011, por 8 países “fundadores”, quais sejam: Brasil, Estados Unidos,
+        Inglaterra, África do Sul, Noruega, México, Filipinas e Indonésia.
+
+
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+        Instrumentos de Transparência
+                       Princípios do                         Objetivos do Governo Aberto
+                      Governo Aberto
+                          Transparência        Aumentar a disponibilidade de informações
+                                               sobre atividades governamentais
+              Prestação de Contas e            Implementar os padrões mais altos de
+               Responsabilização –             integridade profissional na Administração
+                  Accountability
+                 Participação Cidadã           Apoiar a participação social
+              Tecnologia e Inovação            Ampliar o acesso a novas tecnologias para
+                                               fins de abertura e prestação de contas
+
+
+Prof. Elisabete Moreira
+                                          
+
+
+---
+
+        Instrumentos de Transparência
+                                 Portal da Transparência
+
+         Criado em 2004 pela CGU, é um site de acesso livre, no qual o cidadão
+         pode encontrar informações sobre como o dinheiro público é utilizado,
+         além de assuntos relacionados à gestão pública do Brasil.
+
+           Todos os Estados da federação já criaram seus Portais da Transparência
+                          e grande parte dos Municípios também.
+
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+        Instrumentos de Transparência
+                               Portal da Transparência
+         Em 2008, novas ferramentas foram adicionadas, como :
+         • Busca integrada de dados,
+         • Integração às redes sociais,
+         • Dados alimentados do SIAFI, SIAPE
+         • Gastos com cartão de pagamento, viagens e serviços do GF (mínimo
+           04 anos após realização);
+         • Bases de imóveis funcionais;
+         • Programas do governo e benefícios sociais,
+         • Licitações, contratos, convênios (mínimo 04 anos após encerramento);
+         • Emendas parlamentares;
+         • Sanções
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+INSTRUMENTOS DE TRANSPARÊNCIA E
+CONTROLE SOCIAL
+• LC 101/2000 – LRF
+                                                Prof. Elisabete Moreira
+
+           
+
+
+---
+
+        Instrumentos de Transparência
+                                    LC 101/2000 – LRF
+
+         Será dada ampla divulgação, inclusive em meios eletrônicos de acesso
+         público de vários instrumentos.
+
+
+          A lei assegura a realização de audiências públicas, durante os processos
+          de elaboração e discussão dos planos e das leis de diretrizes
+          orçamentárias e orçamentos (art. 48, I).
+
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+        Instrumentos de Transparência
+                          PPA, LDO E LOA – art. 165
+
+                          Prestações de contas e o respectivo parecer prévio
+
+        LRF               Relatório Resumido da Execução Orçamentária – RREO, em até
+       exige              30 dias do encerramento de cada bimestre
+
+                          Relatório de Gestão Fiscal - RGF, em até 30 dias do encerramento
+                          do quadrimestre
+
+                          As versões simplificadas desses documentos.
+
+Prof. Elisabete Moreira
+                                            
+
+
+---
+
+        Instrumentos de Transparência
+                          Disponibilização da execução orçamentária e financeira, em meios
+                          eletrônicos, em tempo real, da despesa (no momento de sua
+                          realização; da receita (inclusive recursos extraordinários)
+
+                          Adoção, pelo PE da União, de Sistema Integrado de Administração
+                          Financeira.
+     LRF
+    exige                 Disponibilização pela União, Estados, DF e Municípios de
+                          informações contábeis, orçamentários e fiscais, em meio
+                          eletrônico (periodicidade estabelecida pelo órgão central da União)
+
+                          Encaminhamento pela União, Estados, DF e         Municípios ao
+                          Ministério da Fazenda de informações da dívida pública interna e
+                          externa, para registro eletrônico centralizado.
+Prof. Elisabete Moreira
+                                           
+
+
+---
+
+        Instrumentos de Transparência
+                          Utilização de Sistemas Únicos De Execução Orçamentária E
+                          Financeira, mantidos e gerenciados pelo Poder Executivo, de
+                          todos os Poderes e órgãos, incluídos autarquias, fundações públicas,
+                          empresas estatais dependentes e fundos do ente da Federação
+
+                            Disponibilização durante todo o exercício, no respectivo Poder
+     LRF
+                            Legislativo e no órgão técnico responsável pela sua elaboração
+    exige
+                            das contas apresentadas pelo Chefe do Poder Executivo.
+
+                          Prestação de contas da União contendo demonstrativos do Tesouro
+                          Nacional e das agências financeiras oficiais de fomento, incluído o
+                          BNDES.
+Prof. Elisabete Moreira
+                                            
+
+
+---
+
+---
+
+INSTRUMENTO DE TRANSPARÊNCIA E
+CONTROLE SOCIAL
+• LEI 12.527/11 - LAI
+                                                Prof. Elisabete Moreira
+
+           
+
+
+---
+
+        Instrumentos de Transparência
+                          Lei 12.527/11 – LAI e Decreto 7.724/2012
+         Regula o acesso a informações previsto na CF e estabelece que os atos
+         do setor público devem ser de domínio público.
+         Art. 5º, XXXIII – todos têm direito a receber dos órgãos públicos informações
+         de seu interesse particular, de interesse coletivo ou geral, prestadas no prazo
+         da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja
+         imprescindível à segurança da sociedade e do Estado;
+
+         Art. 37, § 3º, II – a lei disciplinará (...) o acesso dos usuários a registros
+         administrativos e a informações sobre atos de governo;
+
+         Art. 216, § 2º - cabem à administração pública, na forma da lei, a gestão da
+         documentação governamental e as providências para franquear sua consulta
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+        Abrangência
+         Toda a Administração Pública – todos os órgãos e entidades
+         públicas dos poderes Executivo, Legislativo e Judiciário (da
+         União, dos Estados, do Distrito Federal e dos Municípios), além dos
+         Tribunais de Contas e do Ministério Público.
+
+         Entidades privadas sem fins lucrativos que recebem recursos
+         públicos para realização de ações de interesse público,
+         relacionadas ao montante dos recursos públicos recebidos por
+         essas Entidades, bem como à destinação desses recursos públicos.
+
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        Diretrizes
+         I - observância da publicidade como preceito geral e do sigilo como
+         exceção;
+         II - divulgação de informações de interesse público, independentemente
+         de solicitações;
+         III - utilização de meios de comunicação viabilizados pela tecnologia da
+         informação;
+         IV - fomento ao desenvolvimento da cultura de transparência na
+         administração pública;
+         V - desenvolvimento do controle social da administração pública.
+
+             É dever do Estado garantir o direito de acesso à informação, que será
+                franqueada, mediante procedimentos objetivos e ágeis, de forma
+               transparente, clara e em linguagem de fácil compreensão (art. 5º)
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+        Diretrizes da Informação
+         • Tratamento da informação: ações referentes à produção, recepção,
+           classificação, utilização, acesso, reprodução, transporte, transmissão,
+           distribuição, arquivamento, armazenamento, eliminação, avaliação,
+           destinação ou controle da informação;
+         • Disponibilidade: qualidade da informação que pode ser conhecida e
+           utilizada por indivíduos, equipamentos ou sistemas autorizados;
+         • Autenticidade: qualidade da informação que tenha sido produzida,
+           expedida, recebida ou modificada por determinado indivíduo,
+           equipamento ou sistema;
+         • Integridade: qualidade da informação não modificada, inclusive quanto à
+           origem, trânsito e destino;
+         • Primariedade: qualidade da informação coletada na fonte, com o
+           máximo de detalhamento possível, sem modificações.
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+        Divulgação e Acesso às
+        Informações
+           É Dever dos órgãos e entidades públicas, independente de requerimento,
+           a divulgação em local de fácil acesso, de informações de interesse
+           coletivo ou geral por eles produzidas ou custodiadas, UTILIZANDO todos
+           os meios e instrumentos legítimos de que dispuserem, sendo
+           OBRIGATÓRIA A DIVULGAÇÃO EM SÍTIOS OFICIAIS da rede mundial
+           de computadores
+
+              Ressalva: os Municípios com população de até 10.000 (dez mil)
+              habitantes ficam dispensados da divulgação obrigatória na internet;
+              mantida a obrigatoriedade de divulgação, em tempo real, de
+              informações relativas à execução orçamentária e financeira, nos
+              critérios e prazos previstos no art. 73-B da Lei 101/00 (4 anos)
+Prof. Elisabete Moreira
+                                   
+
+
+---
+
+        Divulgação e Acesso às
+        Informações
+         Os sítios deverão, na forma de regulamento, atender, entre outros, aos
+         seguintes requisitos:
+
+             • conter ferramenta de pesquisa de conteúdo
+             • possibilitar a gravação de relatórios em diversos formatos eletrônicos
+             • possibilitar o acesso automatizado por sistemas externos
+             • divulgar em detalhes os formatos utilizados
+             • garantir a autenticidade e a integridade das informações
+             • manter atualizadas as informações
+             • indicar local e instruções que permitam ao interessado comunicar-se,
+               por via eletrônica ou telefônica
+             • garantir a acessibilidade de conteúdo para pessoas com deficiência
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Divulgação e Acesso às
+        Informações
+           Na divulgação das informações, deverão constar, no mínimo (art. 8, § 1º):
+
+           •      registro das competências e estrutura organizacional, endereços e
+                  telefones das respectivas unidades e horários de atendimento ao público;
+           •      registros de quaisquer repasses ou transferências de recursos
+                  financeiros;
+           •      registros das despesas;
+           •      informações concernentes a procedimentos licitatórios, inclusive os
+                  editais e resultados e todos os contratos celebrados;
+           •      dados gerais para o acompanhamento de programas, ações, projetos e
+                  obras de órgãos e entidades;
+           •      respostas a perguntas mais frequentes da sociedade..
+Prof. Elisabete Moreira
+                                        
+
+
+---
+
+        Divulgação e Acesso às
+        Informações
+           Na divulgação das informações, deverão constar, no mínimo (art. 8, § 1º):
+
+           • remuneração e subsídio recebidos por ocupante de cargo, posto,
+             graduação, função e emprego público, incluídos os auxílios, as ajudas de
+             custo, os jetons e outras vantagens pecuniárias, além dos proventos de
+             aposentadoria e das pensões daqueles servidores e empregados
+             públicos que estiverem na ativa, de maneira individualizada, conforme
+             estabelecido em ato do Ministro de Estado da Economia;
+           • contato da autoridade de monitoramento (o “responsável” por fazer
+             cumprir a LAI na instituição), telefone e correio eletrônico do Serviço de
+             Informações ao Cidadão - SIC;
+           • programas financiados pelo Fundo de Amparo ao Trabalhador - FAT
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+        Obrigações
+           Obrigação dos Órgãos e Entidades Públicas
+
+                Gerenciar as informações de forma transparente, propiciando o amplo
+                acesso e a divulgação das informações .
+
+                Proteger a informação e                   garantir         a   sua   disponibilidade,
+                autenticidade e integridade.
+
+                Proteger a informação sigilosa e a informação pessoal, observando a
+                sua disponibilidade, autenticidade, integridade e eventual restrição de
+                acesso.
+
+Prof. Elisabete Moreira
+                                      
+
+
+---
+
+        Solicitações
+           Quem pode solicitar informações?
+
+
+                Qualquer pessoa, natural ou jurídica, de qualquer meio legitimo
+
+
+                O pedido deve ter a identificação do requerente
+
+
+                O pedido deve conter a especificação da informação requerida
+
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Solicitações
+         Os órgãos e entidades devem viabilizar canais alternativos para os pedido
+         de informação por meio de seus sítios oficiais na internet (obrigatório)
+
+
+                O processo deve ser simples; a identificação do requerente não
+                pode conter exigências que inviabilizem a solicitação;
+
+                O solicitante das informações não precisa apresentar “motivos” para
+                ter acesso a informações;
+
+                O acesso deverá ser imediato à informação disponível.
+
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Solicitações
+         Não sendo possível conceder o acesso imediato, o órgão ou entidade que
+         receber o pedido deverá, em prazo não superior a 20 (vinte) dias
+         (prorrogado por mais 10 dias, mediante justificativa – sob pena de
+         medidas disciplinares.
+
+                Comunicar a data, local e modo para se realizar a consulta, efetuar a
+                reprodução ou obter a certidão;
+
+                Indicar as razões de fato ou de direito da recusa, total ou parcial,
+                permitindo acesso aos documentos da tomada de decisão.
+
+                Comunicar que não possui a informação e indicar, se for do seu
+                conhecimento, o órgão/entidade que a detém, ou, remeter o
+                requerimento a quem a detém, cientificando o interessado.
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Solicitações
+
+         Informado do extravio da informação solicitada, poderá o interessado
+         requerer à autoridade competente a imediata abertura de sindicância para
+         apurar o desaparecimento da respectiva documentação.
+
+
+                O responsável pela guarda da informação extraviada deverá, no
+                prazo de 10 (dez) dias, justificar o fato e indicar testemunhas que
+                comprovem sua alegação (§ 6º, art. 7º).
+
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Solicitações
+         A informação em formato digital, impresso, eletrônico, ou qualquer outro
+         meio de acesso universal será indicado, por escrito, desonerando a
+         Administração da obrigação de fornecimento direto, salvo se o
+         requerente não tiver meios de realizar.
+
+                O serviço de busca e fornecimento da informação é gratuito
+
+                O serviço poderá ser cobrado nas hipóteses de reprodução de
+                documentos exclusivamente no valor necessário ao ressarcimento do
+                custo dos serviços e dos materiais utilizados
+
+                Será isento aquele que em situação econômica que não lhe permita
+                fazê-lo sem prejuízo do sustento próprio ou da família.
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Recursos
+         O interessado poderá interpor recurso contra a decisão, no prazo de 10
+         (dez) dias a contar da sua ciência, no caso de indeferimento de acesso a
+         informações ou às razões da negativa do acesso, dirigido à autoridade
+         hierarquicamente superior à que exarou a decisão impugnada, que deverá
+         se manifestar no prazo de 5 (cinco) dias (art. 15)
+
+                 Poderá recorrer a CGU que deliberará no prazo de 5 (cinco) dias; se
+                 negado por essa, poderá interpor recurso à Comissão Mista de
+                 Reavaliação de Informações (art. 16)
+
+                 No indeferimento de pedido de desclassificação de documentos da
+                 AP Federal, poderá recorrer ao Ministro de Estado da área, sem
+                 prejuízo das competências da Comissão Mista de Reavaliação (art. 17).
+Prof. Elisabete Moreira
+                                      
+
+
+---
+
+     Conteúdo e Direitos às Informações
+         É direito obter acesso às seguintes informações:
+
+         I - orientação sobre os procedimentos para acesso, bem como sobre o
+         local onde poderá ser encontrada ou obtida a informação;
+         II - informação de registros ou documentos, produzidos ou acumulados por
+         órgãos/entidades, recolhidos ou não a arquivos públicos;
+         III - informação produzida ou custodiada por pessoa física ou entidade
+         privada com vínculo com órgãos/entidades, mesmo com vínculo cessado;
+         IV - informação primária, íntegra, autêntica e atualizada;
+         V - informação sobre atividades exercidas pelos órgãos/entidades,
+         inclusive as relativas à sua política, organização e serviços;
+Prof. Elisabete Moreira
+                                   
+
+
+---
+
+        Conteúdo e Direitos às Informações
+         É direito obter o acesso as seguintes informações:
+
+
+         VI - informação pertinente à administração do patrimônio público,
+         utilização de recursos públicos, licitação, contratos administrativos;
+         VII - informação relativa:
+                a) à implementação, acompanhamento e resultados dos programas,
+                projetos e ações dos órgãos e entidades públicas, bem como metas e
+                indicadores propostos;
+                b) ao resultado de inspeções, auditorias, prestações e tomadas de
+                contas realizadas pelos órgãos de controle interno e externo,
+                incluindo prestações de contas relativas a exercícios anteriores.
+Prof. Elisabete Moreira
+                                      
+
+
+---
+
+        Garantias de Acesso à Informação
+
+         Os órgãos/entidades públicas devem criar um Serviço de
+         Informações ao Cidadão (SIC) em um local que forneça condições
+         apropriadas para:
+         a) atender e orientar o público quanto ao acesso a informações;
+         b) informar sobre a tramitação de documentos nas suas
+         respectivas unidades;
+         c) protocolizar documentos e requerimentos de acesso a
+         informações.
+
+
+Prof. Elisabete Moreira
+                              
+
+
+---
+
+        Garantias de Acesso à Informação
+         No âmbito Federal, o Sistema Eletrônico de Serviço de
+         Informações ao Cidadão (e-SIC) centraliza, organiza e facilita as
+         entradas e saídas de todos os pedidos e procedimentos de
+         acesso à informação dirigidos ao Poder Executivo Federal, tanto para
+         os cidadãos quanto para a Administração Pública, permitindo
+         ainda entrar com recursos e apresentar reclamações.
+
+          Outra forma de acesso à informação ocorre através da participação
+               popular, com audiências públicas e consultas públicas,
+         instrumentos de comunicação entre a sociedade e o setor público.
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        Restrições ao Acesso à Informação
+              A CF/88 estabelece o sigilo como exceção, quando for
+              imprescindível à segurança da sociedade e do Estado, cuja
+              divulgação pode colocar em risco (ou prejudicar) a(s) / o(s):
+
+
+         • Defesa ou soberania nacional;
+         • Integridade do território nacional;
+         • Vida, segurança ou saúde da população;
+         • Estabilidade financeira, econômica ou monetária do País;
+         • Negociações ou relações internacionais;
+         • Informações sigilosas fornecidas por outros Estados e organismos
+           internacionais;
+         • Planos e operações estratégicos das Forças Armadas;
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+        Restrições ao Acesso à Informação
+              A CF/88 estabelece o sigilo como exceção, quando for
+              imprescindível à segurança da sociedade e do Estado, cuja
+              divulgação pode colocar em risco (ou prejudicar) a(s) / o(s):
+
+
+         • Projetos de pesquisa e desenvolvimento científico ou tecnológico;
+         • Instituições ou altas autoridades nacionais ou estrangeiras e seus
+           familiares;
+         • Atividades de inteligência, investigação, fiscalização, e repressão de
+           infrações;
+         • Hipóteses legais de sigilo ou segredo de justiça;
+         • Segredo industrial por exploração de atividade econômica.
+
+Prof. Elisabete Moreira
+                                   
+
+
+---
+
+        Exceções à Restrição de Acesso à
+        Informação
+         Informações e documentos que versem
+                                                                      Não poderão
+         sobre condutas que impliquem violação
+                                                                      ser objeto de
+         dos direitos humanos, praticadas por
+                                                                      restrição de
+         agentes públicos ou a mando de
+                                                                         acesso
+         autoridades publicas
+
+         Informações que forem
+         necessárias à tutela judicial ou                             Não poderão
+         administrativa de direitos                                   ser negadas
+         fundamentais (art. 21)
+Prof. Elisabete Moreira
+                                 
+
+
+---
+
+        Classificação do Grau de Sigilo
+              Tipo de       Prazo     Prorrogação                         Autoridades competentes para
+            informação     máximo                                                  classificar
+           Ultrassecreta   25 anos Permitida 1 (uma)                • Presidente da República;
+                                   vez, por igual                   • Vice-Presidente da República;
+                                   período, somente                 • Ministros de Estado e
+                                   feita pela                         autoridades com as mesmas
+                                   Comissão Mista                     prerrogativas;
+                                   de Reavaliação de                • Comandantes da Marinha, do
+                                   Informações                        Exército e da Aeronáutica
+                                                                      (depende de ratificação do
+                                                                      respectivo Ministro de Estado);
+                                                                    • Chefes de Missões Diplomáticas e
+                                                                      Consulares permanentes no
+                                                                      exterior (depende de ratificação do
+                                                                      respectivo Ministro de Estado)..
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Classificação do Grau de Sigilo
+              Tipo de      Prazo      Prorrogação                         Autoridades competentes para
+            informação    máximo                                                   classificar
+                Secreta   15 anos   Sem prorrogação                 • Todas as autoridades anteriores
+                                                                      e os Titulares de autarquias,
+                                                                      fundações, empresas públicas e
+                                                                      sociedades de economia mista.
+             Reservada    5 anos    Sem prorrogação                 • Todas as autoridades anteriores
+                                                                      e as Autoridades que exerçam
+                                                                      função de direção, comando ou
+                                                                      chefia, nível DAS 101.5, ou
+                                                                      superior, ou de hierarquia
+                                                                      equivalente.
+
+
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Classificação do Grau de Sigilo
+               O prazo máximo de sigilo é contado a partir da data de
+           produção da informação – e não da data de sua “classificação”.
+
+         As informações que puderem colocar em risco
+         a segurança do Presidente da República, do
+         Vice-Presidente da República, ou de seus
+                                                                       A negativa
+         respectivos    cônjuges   e   filhos,  serão
+                                                                        deve ser
+         classificadas como reservadas e ficaram sob
+                                                                     fundamentada
+         sigilo até o término do mandato em exercício
+         (mandato vigente) ou do último mandato (em
+         caso de reeleição).
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        Informações Pessoais
+           As informações pessoais relativas à intimidade, à vida privada, à honra e à
+           imagem das pessoas, terão “acesso restrito”, pelo prazo máximo de 100
+              anos (a contar da data de produção), apenas aos agentes públicos
+              legalmente autorizados e à pessoa a que essas informações se
+                                           refiram.
+
+
+           A restrição de acesso relativa à vida privada, honra e imagem de pessoa
+           não poderá ser invocada com o intuito de:
+           • prejudicar processo de apuração de irregularidades em que o titular
+              estiver envolvido;
+           • em ações voltadas para a recuperação de fatos históricos de maior
+              relevância § 4º , art. 31).
+Prof. Elisabete Moreira
+                                     
+
+
+---
+
+        Informações Pessoais
+            As informações pessoais poderão ser divulgadas, sem o consentimento
+                      da pessoa a quem a informação se refere nos casos:
+
+         Prevenção e diagnóstico médico, quando a pessoa estiver física ou
+         legalmente incapaz, e para utilização única e exclusivamente para o
+         tratamento médico
+
+        Pesquisa e estatística científica de evidente interesse público, preservando
+        a identificação das pessoas a quem se referir
+
+         Cumprimento de ordem judicial                                        Defesa de direitos humanos
+
+                          Proteção de interesse público, geral ou preponderante
+Prof. Elisabete Moreira
+                                         
+
+
+---
+
+        Condutas Ilícitas no âmbito da LAI
+                 Ensejam a responsabilidade do agente público ou militar as
+                                 seguintes condutas ilícitas:
+
+         •       recusar-se a fornecer informação requerida, nos termos da LAI;
+         •       retardar deliberadamente o fornecimento da informação;
+         •       fornecer a informação intencionalmente de forma incorreta,
+                 incompleta ou imprecisa;
+         •       utilizar indevidamente, subtrair, destruir, inutilizar, desfigurar,
+                 alterar ou ocultar, total ou parcialmente, informação que se encontre
+                 sob sua guarda ou a que tenha acesso ou conhecimento em razão do
+                 exercício das atribuições de cargo, emprego ou função pública;
+         •       agir com dolo ou má-fé na análise das solicitações de acesso à
+                 informação;
+Prof. Elisabete Moreira
+                                       
+
+
+---
+
+        Condutas Ilícitas no âmbito da LAI
+                 Ensejam a responsabilidade do agente público ou militar as
+                                 seguintes condutas ilícitas:
+
+         •       divulgar ou permitir a divulgação ou acessar ou permitir acesso
+                 indevido à informação sigilosa ou informação pessoal;
+         •       impor sigilo à informação para obter proveito pessoal ou de terceiro,
+                 ou para fins de ocultação de ato ilegal cometido por si ou por outrem;
+         •       ocultar da revisão de autoridade superior competente informação
+                 sigilosa para beneficiar a si ou a outrem, ou em prejuízo de terceiros; e
+         •       destruir ou subtrair, por qualquer meio, documentos concernentes a
+                 possíveis violações de direitos humanos por parte de agentes do
+                 Estado.
+
+Prof. Elisabete Moreira
+                                        
+
+
+---
+
+        Sanções no âmbito da LAI
+
+                                       poderá ser punido, no mínimo, com
+             Agente público
+                                       suspensão
+              civil ou militar
+             que descumprir
+            propositalmente
+            as obrigações da
+                     LAI               poderá responder por improbidade
+                                       administrativa.
+
+Prof. Elisabete Moreira
+                                 
+
+
+---
+
+        Sanções no âmbito da LAI
+         Pessoas Físicas ou Entidades Privadas que detiver informações em virtude
+            de vínculo de qualquer natureza com o poder público e deixar de
+                      observar o disposto na LAI estarão sujeitas a:
+
+         •      advertência;
+         •      multa;
+         •      rescisão do vínculo com o poder público;
+         •      suspensão temporária de participar em licitação e impedimento de
+                contratar com a administração por prazo não superior a 2 (dois) anos;
+         •      declaração de inidoneidade (de competência da autoridade máxima
+                do órgão) para licitar ou contratar com a administração, até que seja
+                promovida a reabilitação perante a própria autoridade que aplicou a
+                penalidade (e decorrido o prazo da suspensão).
+Prof. Elisabete Moreira
+                                      
+
+
+---
+
+        Classificação e Desclassificação de
+        documentos
+         A classificação será reavaliada pela autoridade classificadora ou por
+         autoridade hierarquicamente superior, mediante provocação ou de
+         ofício, com vistas à sua desclassificação ou à redução do prazo de sigilo
+         (art. 29).
+
+         A autoridade máxima publicará, anualmente, em sítio na internet (art. 30):
+         • I - rol das informações que tenham sido desclassificadas nos últimos 12
+            (doze) meses;
+         • II - rol de documentos classificados em cada grau de sigilo;
+         • III - relatório estatístico contendo a quantidade de pedidos de
+            informação recebidos, atendidos e indeferidos, bem como informações
+            genéricas sobre os solicitantes.
+Prof. Elisabete Moreira
+                                  
+
+
+---
+
+        Considerações Relevantes
+         A informação considerada “parcialmente sigilosa”, deverá ser fornecida de
+         forma parcial;
+
+         Cabe a Comissão Mista de Reavaliação (no âmbito federal) poder de
+         tratamento e classificação de informações sigilosas, com competência
+         para:
+         • Requisitar esclarecimentos ou conteúdo da autoridade que classificar a
+            informação secreta ou ultrassecreta, parcial ou integral;
+         • Rever a classificação de informações ultrassecretas ou secretas, de
+            ofício ou mediante provocação de pessoa interessada;
+         • Prorrogar o prazo de sigilo de informação classificada como
+            ultrassecreta, sempre por prazo determinado, uma única vez.
+Prof. Elisabete Moreira
+                                 
+
+
+---
+
+        Considerações Relevantes
+           No prazo máximo de 02 anos, os órgãos e entidades públicas deverão
+           rever as classificações como ultrassecretas e secretas. Caso contrário, as
+           informações se tornarão automaticamente de acesso público.
+           • Enquanto não passado os dois anos, vale os termos de classificação
+              precedentes.
+
+           A revisão de ofício deverá ocorrer, no máximo, a cada 4 (quatro) anos,
+           após a reavaliação prevista de 2 anos, contado da vigência da Lei.
+           • Se não ocorrer a revisão de ofício, as informações serão
+              consideradas automaticamente de acesso público (§ 4º , art. 39).
+           • A reavaliação poderá ser revista a qualquer tempo pela Comissão, (§
+              2º, art. 39).
+
+Prof. Elisabete Moreira
+                                    
+
+
+---
+
+        Tipos de Transparência
+            TRANSPARÊNCIA ATIVA: é a atuação do poder público em liberar o
+            maior número de informações, POR INICIATIVA PRÓPRIA,
+            disponibilizando-as sem a necessidade de pedidos prévios – PORTAIS DA
+            TRANSPARÊNCIA
+
+            TRANSPARÊNCIA PASSIVA: é quando o poder público fornece
+            informações a pedido da sociedade, DE FORMA PROVOCADA –
+            SERVIÇO DE INFORMAÇÃO AO CIDADÃO (SIC).
+
+                          As Ouvidorias (serviços abertos ao cidadão para
+                          receber reivindicações, denúncias, sugestões e elogios)
+                          também são exemplos de Transparência Passiva.
+Prof. Elisabete Moreira
+                                         
+
+
+---
+
+        01. (CESPE - SEFAZ-CE - 2021) No que se refere à ética bem como
+        ao disposto na Lei de Acesso à Informação, julgue o item a seguir.
+
+        O acesso público a informação reservada, após consumado o evento
+        que definiu tal classificação, dependerá de decisão fundamentada da
+        autoridade competente.
+
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        02. (CESPE - SEFAZ-CE - 2021) No que se refere à ética bem como
+        ao disposto na Lei de Acesso à Informação, julgue o item a seguir.
+
+        Estando a informação solicitada disponível ao público em formato
+        eletrônico, o órgão público poderá apenas informar, por escrito, ao
+        solicitante o lugar e a forma pela qual ela poderá ser consultada.
+
+                              ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                                
+
+
+---
+
+        03. (CESPE - SEFAZ-CE - 2021) Com base no disposto na Lei de
+        Acesso à Informação e na Lei da Transparência, julgue o item
+        seguinte.
+
+        A Lei da Transparência prevê a liberação aos cidadãos, em tempo
+        real, de informações detalhadas sobre execução financeira.
+
+                            ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        04. (VUNESP – Prefeitura de Campinas-SP – 2019) O principal
+        objetivo do Portal da Transparência da Controladoria Geral da União
+        é ser uma ferramenta que permita ao cidadão conhecer, questionar e
+        atuar, também, como fiscal da aplicação de recursos públicos. É
+        correto afirmar que o papel da sociedade na fiscalização do Estado
+        denomina-se
+        a) política pública.
+        b) fiscalização coletiva.
+        c) controle de mídia.
+        d) controle político.
+        e) controle social.
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        05. (FGV - IBGE - 2016) A Lei de Acesso à Informação (Lei nº 12.527,
+        de 18/11/2011) aborda a importância das seções de acesso a
+        informações dos sítios dos órgãos e entidades governamentais.
+        Esses sítios são exemplo
+        do que se denomina:
+        a) neo-transparência;
+        b) poli-transparência;
+        c) multi-transparência;
+        d) transparência ativa;
+        e) transparência passiva.
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        06. (VUNESP - Prefeitura de São Paulo-SP – 2015) Governo aberto
+        é entendido como conjunto de ações articuladas de transparência,
+        participação, inovação e integridade nas políticas públicas e:
+        a) tornou-se obrigatório a partir da Lei de Acesso à Informação (Lei n°
+        12.527/2011).
+        b) o princípio da integridade diz respeito à ética no uso e na gestão
+        dos dados governamentais.
+
+Prof. Elisabete Moreira
+                                 
+
+
+---
+
+        c) incentiva investimento em tecnologia para promover participação,
+        consulta a informações e acesso a serviços.
+        d) prega que as decisões públicas devem ser realizadas via canais
+        virtuais.
+        e) suas ações dizem respeito à disponibilização de informações e não
+        à prestação de serviços.
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        07. (CESPE - SLU-DF - 2019) Julgue o item subsecutivo, tendo como
+        referência as disposições da Lei de Acesso à Informação (Lei n.º
+        12.527/2011).
+
+        No âmbito de suas competências, os órgãos públicos são obrigados a
+        divulgar, independentemente de requerimento, informações de
+        interesse coletivo ou geral por eles produzidas no respectivo sítio
+        oficial da rede mundial de computadores.
+
+                             ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        08. (CESPE - SLU-DF - 2019) Julgue o item subsecutivo, tendo como
+        referência as disposições da Lei de Acesso à Informação (Lei n.º
+        12.527/2011).
+
+        De acordo com dispositivo da Lei de Acesso à Informação, é de
+        quinze anos o prazo máximo de restrição de acesso a informações
+        classificadas como ultrassecretas.
+
+                            ( ) CERTO ( ) ERRADO
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+        09. (CESPE - SEFAZ-RS - 2018) A Lei de Acesso à Informação
+        considera como qualidade da informação não modificada:
+        a) o tratamento da informação.
+        b) a integridade.
+        c) a autenticidade.
+        d) a disponibilidade.
+        e) o documento.
+
+Prof. Elisabete Moreira
+                            
+
+
+---
+
+        10. (CESPE - SEFAZ-RS - 2018) A Lei de Acesso à Informação
+        classifica as informações que possam colocar em risco a segurança
+        dos filhos do presidente da República como
+        a) reservadas.
+        b) secretas.
+        c) ultrassecretas.
+        d) de sigilo condicionado.
+        e) indisponíveis temporariamente.
+
+Prof. Elisabete Moreira
+                               
+
+
+---
+
+---

@@ -1,0 +1,2681 @@
+                                                        Aula 08
+                          Receita Federal (Analista Tributário)
+                                     Raciocínio Lógico Matemático
+
+
+
+
+                                                             Autor:
+                                        Equipe Exatas Estratégia
+                                                       Concursos
+
+
+                                                 23 de Julho de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Exatas Estratégia Concursos
+      Aula 08
+
+
+
+
+                                                                                     Índice
+1) Orientação Espacial
+..............................................................................................................................................................................................3
+
+2) Questões Comentadas - Orientação Espacial - FGV
+..............................................................................................................................................................................................8
+
+3) Lista de Questões - Orientação Espacial - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            45
+
+
+
+
+                Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                           57
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+                                 APRESENTAÇÃO DA AULA
+Fala, pessoal!
+
+A aula de hoje será sobre orientação espacial. Esse assunto envolve raciocínios sobre posicionamento no
+espaço. Não há uma teoria específica sobre essa matéria, de modo que a resolução de questões é
+fundamental para o entendimento do assunto.
+
+Apesar de não haver teoria própria para o tópico, vamos apresentar brevemente dois conceitos que podem
+aparecer:
+
+   •   Pontos cardeais e colaterais; e
+   •   Vistas de um sólido.
+
+Vamos exibir, no início da aula, um pequeno resumo para que você tenha uma visão geral do conteúdo antes
+de iniciar o assunto.
+
+
+
+                          Conte comigo nessa caminhada =)
+
+                          Prof. Eduardo Mocellin.
+
+                                @edu.mocellin
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            3
+        www.estrategiaconcursos.com.br                                                               57
+
+                                    https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 08
+
+
+
+
+ORIENTAÇÃO ESPACIAL
+                                               Orientação Espacial
+                                            Pontos cardeais e colaterais
+
+    A direção Leste, também conhecida por Este (E), aponta para a direita. A direção Oeste aponta para a
+    esquerda.
+
+
+
+
+                                                Vistas de um sólido
+
+    Uma vista de um sólido é a projeção do sólido em um plano.
+
+
+
+
+       Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                  4
+       www.estrategiaconcursos.com.br                                                                      57
+
+                                   https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Pontos cardeais e colaterais
+
+Um conhecimento necessário para resolver algumas questões é a direção dos pontos cardeais: Norte (N),
+Sul (S), Leste (L) e Oeste (O).
+
+Observe que a direção Leste, também conhecida por Este (E), aponta para a direita. A direção Oeste aponta
+para a esquerda.
+
+Os pontos colaterais são aqueles que se situam entre os pontos cardeais. São eles: Nordeste (NE), Sudeste
+(SE), Noroeste (NO) e Sudoeste (SO).
+
+
+
+                                                       ==219a34==
+
+
+
+
+Uma observação importante quanto aos pontos cardeais e colaterais é os ângulos em que as direções
+Sul−Norte, Oeste−Leste, Sudoeste−Nordeste e Sudeste−Noroeste formam entre si:
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             5
+        www.estrategiaconcursos.com.br                                                                57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Vistas de um sólido
+
+Um mesmo sólido pode parecer diferente a depender da localização de quem está observando. Observe o
+cilindro abaixo:
+
+
+
+
+Note que, se colocarmos um observador na vista lateral esquerda, ele verá um retângulo.
+
+
+
+
+Por outro lado, se colocarmos o observador na vista superior, ele verá uma circunferência.
+
+
+
+
+Uma vista de um sólido, portanto, nada mais é do que a projeção do sólido em um plano.
+Observe agora o sólido em azul na figura a seguir. Nele estão indicadas as perspectivas pelas quais serão
+obtidas a vista frontal, a vista superior e a vista lateral direita.
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                  6
+        www.estrategiaconcursos.com.br                                                                      57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+As vistas obtidas por meio dessas perspectivas são as seguintes:
+
+
+
+
+Pessoal, em termos de parte teórica ficamos por aqui. Vamos aos exercícios!
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático    7
+        www.estrategiaconcursos.com.br                                        57
+
+                                    https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+
+                          QUESTÕES COMENTADAS – FGV
+
+Orientação espacial
+
+ (FGV/ALESC/2024) Cinco carros (V, W, X, Y e Z) disputam uma corrida em um autódromo. Dada a largada,
+no final da primeira volta a ordem dos carros era V – W – X – Y – Z.
+Durante a corrida ocorreram, em sequência, as seguintes ultrapassagens:
+    •   O 3o fez uma ultrapassagem;
+    •   O 5o fez duas ultrapassagens;
+    •   O 3o fez duas ultrapassagens;
+    •   O 4o fez duas ultrapassagens.
+Depois disso, nenhuma outra ultrapassagem ocorreu e a corrida terminou.
+Portanto, o único carro que chegou na mesma posição de partida foi:
+a) V.
+b) W.
+c) X.
+d) Y.
+e) Z.
+
+Comentários:
+
+Para resolver essa questão, vamos acompanhar as mudanças de posição dos carros a cada ultrapassagem.
+Inicialmente, temos o seguinte esquema:
+
+                                             𝑉 − 𝑊 − 𝑋 − 𝑌 − 𝑍
+
+    •   O 3o fez uma ultrapassagem.
+
+Isso significa que o carro X ultrapassou o carro W, ficando assim:
+
+                                             𝑉 − 𝑋 − 𝑊 − 𝑌 − 𝑍
+
+    •   O 5º fez duas ultrapassagens.
+
+Isso significa que o carro Z ultrapassou os carros Y e W, ficando assim:
+
+                                             𝑉 − 𝑋 − 𝑍 − 𝑊 − 𝑌
+
+    •   O 3º fez duas ultrapassagens:
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        8
+         www.estrategiaconcursos.com.br                                                           57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Isso significa que o carro Z ultrapassou os carros X e V, ficando assim:
+
+                                            𝑍 − 𝑉 − 𝑋 − 𝑊 − 𝑌
+
+   •   O 4º fez duas ultrapassagens.
+
+Isso significa que o carro W ultrapassou os carros X e V, ficando assim:
+
+                                            𝑍 − 𝑊 − 𝑉 − 𝑋 − 𝑌
+
+Essa foi a ordem final da corrida, pois nenhuma outra ultrapassagem ocorreu. Comparando com a ordem
+inicial, vemos que o único carro que chegou na mesma posição de partida foi o carro W, que permaneceu
+em 2º lugar.
+
+Gabarito: Letra B.
+
+
+
+  (FGV/ALE TO/2024) Marcelo está parado de frente para uma das paredes de uma sala quadrada. Nesta
+posição, ele está a 1m e 20cm da parede que se encontra à sua direita e a 1m e 70cm da parede que está
+às suas costas.
+Ele, então, se desloca paralelamente às paredes da sala sendo 40cm para a frente e 80cm para a direita.
+Nessa nova posição, ele passou a distar 1m e 90cm da parede que antes estava à sua esquerda.
+Desprezando-se as dimensões de Marcelo, a sua atual distância à parede que, antes dos movimentos,
+estava à sua frente, é
+a) 20cm.
+b) 30cm.
+c) 40cm.
+d) 50cm.
+e) 60cm.
+
+Comentários:
+
+Considere que a sala quadrada apresenta lado de comprimento 𝑙.
+
+Sabendo-se que 1m = 100cm, vamos representar todas as medidas do problema em centímetros, para
+facilitar a resolução.
+
+Inicialmente, Marcelo está a 120cm (1m e 20cm) da parede que se encontra à sua direita e a 170cm (1m e
+70cm) da parede que está às suas costas. Temos a seguinte representação:
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           9
+        www.estrategiaconcursos.com.br                                                              57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Na sequência, ele se desloca 40cm para a frente. Logo, a distância de Marcelo com relação à parede que
+estava às suas costas passou a ser 170cm + 40cm = 210cm.
+
+
+
+
+Além disso, Marcelo se deslocou 80cm para a direita. Logo, a distância de Marcelo com relação à parede
+que estava à sua direita passou a ser 120cm – 80cm = 40cm.
+
+
+
+
+Segundo o enunciado, na nova posição, Marcelo passou a distar 190cm (1m e 90cm) da parede que antes
+estava à sua esquerda:
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         10
+        www.estrategiaconcursos.com.br                                                             57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Portanto, o lado da sala quadrada é 𝒍 = 190cm + 40cm = 230cm.
+
+
+
+
+Logo, a atual distância de Marcelo à parede que, antes dos movimentos, estava à sua frente, é 𝒍−210cm =
+230cm−210cm = 20cm.
+
+
+
+
+Gabarito: Letra A.
+
+
+
+  (FGV/CMSP/2024) Ana, Beto, Carla, Danilo e Elisa participaram de uma corrida com outros 5
+participantes. Ana chegou 4 posições atrás de Carla. Carla chegou uma posição à frente de Beto. Danilo
+chegou 4 posições atrás de Elisa e Elisa chegou 2 posições atrás de Beto.
+Ana chegou na 6ª posição.
+Nesse caso, é correto afirmar que
+a) Ana chegou atrás de Danilo.
+b) Beto chegou na 2ª posição.
+c) Carla chegou na 1ª posição.
+d) Danilo chegou na 9ª posição.
+e) Elisa chegou na 7ª posição.
+
+Comentários:
+
+Vamos inserir Ana (A), Beto (B), Carla (C), Danilo (D) e Elisa (E) em um esquema, considerando que a pessoa
+mais à esquerda está na primeira posição.
+
+Note que na corrida temos um total de 10 participantes, sendo cinco deles Ana (A), Beto (B), Carla (C), Danilo
+(D) e Elisa (E).
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                 11
+        www.estrategiaconcursos.com.br                                                                     57
+
+                                    https://t.me/KakashiAssinaturasBot
+    Equipe Exatas Estratégia Concursos
+    Aula 08
+
+
+
+                     (⬚)
+                     ⏟ − (⬚)
+                         ⏟ − (⬚)
+                             ⏟ − (⬚)
+                                 ⏟ − (⬚)
+                                     ⏟ − (⬚)
+                                         ⏟ − (⬚)
+                                             ⏟ − (⬚)
+                                                 ⏟ − (⬚)
+                                                     ⏟ − (⬚)
+                                                         ⏟
+                       1º      2º      3º      4º      5º       6º      7º      8º    9º    10º
+
+Sabemos que Ana chegou na 6ª posição:
+
+                      (⬚)
+                      ⏟ − (⬚)
+                          ⏟ − (⬚)
+                              ⏟ − (⬚)
+                                  ⏟ − (⬚)
+                                      ⏟ − (𝐴)
+                                          ⏟ − (⬚)
+                                              ⏟ − (⬚)
+                                                  ⏟ − (⬚)
+                                                      ⏟ − (⬚)
+                                                          ⏟
+                       1º      2º        3º     4º      5º     6º      7º       8º    9º    10º
+
+Além disso, Ana chegou 4 posições atrás de Carla. Logo, Carla chegou em 2º:
+
+                      (⬚)
+                      ⏟ − (𝐶)
+                          ⏟ − (⬚)
+                              ⏟ − (⬚)
+                                  ⏟ − (⬚)
+                                      ⏟ − (𝐴)
+                                          ⏟ − (⬚)
+                                              ⏟ − (⬚)
+                                                  ⏟ − (⬚)
+                                                      ⏟ − (⬚)
+                                                          ⏟
+                        1º     2º      3º      4º      5º      6º      7º      8º    9º    10º
+
+Carla chegou uma posição à frente de Beto. Logo, Beto chegou em 3º:
+
+                       (⬚)
+                       ⏟ − (𝐶)
+                           ⏟ − (𝐵)
+                               ⏟ − (⬚)
+                                   ⏟ − (⬚)
+                                       ⏟ − (𝐴)
+                                           ⏟ − (⬚)
+                                               ⏟ − (⬚)
+                                                   ⏟ − (⬚)
+                                                       ⏟ − (⬚)
+                                                           ⏟
+                        1º      2º     3º      4º      5º      6º      7º      8º    9º    10º
+
+Elisa chegou 2 posições atrás de Beto. Logo, Elisa chegou em 5º:
+
+                       (⬚)
+                       ⏟ − (𝐶)
+                           ⏟ − (𝐵)
+                               ⏟ − (⬚)
+                                   ⏟ − (𝐸)
+                                       ⏟ − (𝐴)
+                                           ⏟ − (⬚)
+                                               ⏟ − (⬚)
+                                                   ⏟ − (⬚)
+                                                       ⏟ − (⬚)
+                                                           ⏟
+                        1º      2º       3º    4º      5º     6º      7º       8º    9º    10º
+
+Danilo chegou 4 posições atrás de Elisa. Logo, Danilo chegou em 9º:
+
+                       (⬚)
+                       ⏟ − (𝐶)
+                           ⏟ − (𝐵)
+                               ⏟ − (⬚)
+                                   ⏟ − (𝐸)
+                                       ⏟ − (𝐴)
+                                           ⏟ − (⬚)
+                                               ⏟ − (⬚)
+                                                   ⏟ − (𝐷)
+                                                       ⏟ − (⬚)
+                                                           ⏟
+                         1º     2º       3º     4º     5º      6º     7º       8º    9º    10º
+
+Portanto, é correto afirmar que Danilo chegou na 9ª posição.
+
+Gabarito: Letra C.
+
+
+
+    (FGV/PMSJC/2024) Cinco pessoas, A, B, C, D, E, formaram uma fila. Sabe-se que:
+•  A tem como vizinhos D e E.
+•  Nem E nem C são vizinhos de B.
+•  D não é o 4º da fila.
+Nesse caso, é correto concluir que
+a) A é a segunda pessoa da fila.
+b) B é a última pessoa da fila.
+c) C é a terceira pessoa da fila.
+d) D é a primeira pessoa da fila.
+e) E é a quarta pessoa da fila.
+
+Comentários:
+
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      12
+          www.estrategiaconcursos.com.br                                                          57
+
+                                      https://t.me/KakashiAssinaturasBot
+    Equipe Exatas Estratégia Concursos
+    Aula 08
+
+
+
+Vamos inserir as pessoas em um esquema, considerando que a pessoa mais à esquerda é a primeira da fila.
+
+•    A tem como vizinhos D e E.
+
+A partir dessa informação, temos as seguintes possibilidades de esquema:
+
+                                             𝑫 − 𝑨 − 𝑬 ou 𝑬 − 𝑨 − 𝑫
+
+•    Nem E nem C são vizinhos de B.
+
+Com base nessa informação, ficamos com as seguintes possibilidades para inserir 𝐵 e 𝐶:
+
+                                   𝑩 − 𝑫 − 𝑨 − 𝑬 − 𝑪 ou 𝑪 − 𝑬 − 𝑨 − 𝑫 − 𝑩
+
+•    D não é o 4º da fila.
+
+Nesse caso, eliminamos a seguinte possibilidade, em que D é o 4º da fila:
+
+                                                 𝑪−𝑬−𝑨−𝑫
+                                                       ⏟ −𝑩
+                                                                𝟒º
+
+Ficamos com a seguinte ordenação:
+
+                                                 𝑩−𝑫−𝑨−𝑬−𝑪
+
+Nesse caso, é correto concluir que E é a quarta pessoa da fila.
+
+Gabarito: Letra E.
+
+
+
+ (FGV/CMSP/2024) Um estacionamento possui uma fila de 100 vagas, uma ao lado da outra, numeradas
+de 1 a 100. Em certo momento várias vagas estão ocupadas e João chega para estacionar seu carro.
+João diz ao atendente:
+– Gostaria de uma vaga que não tivesse carro estacionado ao lado.
+O atendente verifica o mapa do estacionamento e diz:
+– Impossível atendê-lo. No momento, qualquer vaga vazia terá, pelo menos, um carro já estacionado ao
+lado.
+No mínimo, o número de vagas do estacionamento já ocupadas é
+a) 33.
+b) 34.
+c) 40.
+d) 49.
+e) 50.
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         13
+          www.estrategiaconcursos.com.br                                                             57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Comentários:
+
+Considere a seguinte ilustração das 100 vagas de estacionamento:
+
+                           (⬚)
+                           ⏟ − (⬚)
+                               ⏟ − (⬚)
+                                   ⏟ − (⬚)
+                                       ⏟ − ⋯ − (⬚)
+                                               ⏟ − (⬚)
+                                                   ⏟ − (⬚)
+                                                       ⏟ − (⬚)
+                                                           ⏟
+                            1      2         3      4              97       98   99   100
+
+Queremos minimizar o número de vagas ocupadas de modo que não seja possível estacionar sem que haja
+um carro estacionado ao lado. Em outras palavras, queremos maximizar o número de vagas vazias de modo
+que não seja possível estacionar sem que haja um carro estacionado ao lado.
+
+Inicialmente, vamos observar os extremos do estacionamento. Caso o primeiro carro estacionado esteja na
+vaga 3 e o último carro esteja na vaga 98, seria possível estacionar o carro na vaga 1 ou na vaga 100:
+
+                (⬚)
+                ⏟         − (⬚)
+                            ⏟ − (𝑿)
+                                ⏟ − (⬚)
+                                    ⏟ − (⬚)
+                                        ⏟ − ⋯ − (⬚)
+                                                ⏟ − (⬚)
+                                                    ⏟ − (𝑿)
+                                                        ⏟ − (⬚)
+                                                            ⏟−                                (⬚)
+                                                                                              ⏟
+                  𝟏         2      3         4      5              96       97   98   99      𝟏𝟎𝟎
+              𝐒𝐞𝐦 𝐜𝐚𝐫𝐫𝐨                                                                     𝐒𝐞𝐦 𝐜𝐚𝐫𝐫𝐨
+               𝐚𝐨 𝐥𝐚𝐝𝐨                                                                       𝐚𝐨 𝐥𝐚𝐝𝐨
+
+
+Logo, de modo a maximizar o número de vagas vazias de modo que não seja possível estacionar sem que
+haja um carro estacionado ao lado, o primeiro carro deve estar na posição 2 e o último carro deve estar na
+posição 99.
+
+                (⬚)
+                ⏟         − (𝑿)
+                            ⏟ − (⬚)
+                                ⏟ − (⬚)
+                                    ⏟ − (⬚)
+                                        ⏟ − ⋯ − (⬚)
+                                                ⏟ − (⬚)
+                                                    ⏟ − (⬚)
+                                                        ⏟ − (𝑿)
+                                                            ⏟−                                (⬚)
+                                                                                              ⏟
+                  𝟏         2      3         4      5              96       97   98   99      𝟏𝟎𝟎
+              𝐂𝐨𝐦 𝐜𝐚𝐫𝐫𝐨                                                                     𝐂𝐨𝐦 𝐜𝐚𝐫𝐫𝐨
+               𝐚𝐨 𝐥𝐚𝐝𝐨                                                                       𝐚𝐨 𝐥𝐚𝐝𝐨
+
+
+Note que, entre a vaga 2 e a vaga 99, restam 100−4 = 96 vagas para serem preenchidas ou não com carros.
+
+                (⬚)
+                ⏟         − (𝑿)
+                            ⏟ − (⬚)
+                                ⏟ − (⬚)
+                                    ⏟ − (⬚)
+                                        ⏟ − ⋯ − (⬚)
+                                                ⏟ − (⬚)
+                                                    ⏟ − (⬚)
+                                                        ⏟ − (𝑿)
+                                                            ⏟−                                (⬚)
+                                                                                              ⏟
+                  𝟏          2  ⏟3   4   5       96  97  98  99                               𝟏𝟎𝟎
+              𝐂𝐨𝐦 𝐜𝐚𝐫𝐫𝐨                                                                     𝐂𝐨𝐦 𝐜𝐚𝐫𝐫𝐨
+                                                        𝟗𝟔 𝐯𝐚𝐠𝐚𝐬
+               𝐚𝐨 𝐥𝐚𝐝𝐨                                                                       𝐚𝐨 𝐥𝐚𝐝𝐨
+
+
+Para maximizar o número de vagas vazias de modo que não seja possível estacionar sem que haja um carro
+estacionado ao lado, essas vagas restantes devem ser preenchidas na seguinte sequência: duas vagas vazias,
+uma com carro, duas vazias, uma com carro, etc.
+
+    (⬚)
+    ⏟         − (𝑿)
+                ⏟ − (⬚)
+                    ⏟ − (⬚)
+                        ⏟ − (𝑿)
+                            ⏟ − (⬚)
+                                ⏟ − (⬚)
+                                    ⏟ − (𝑿)
+                                        ⏟ − (⬚)
+                                            ⏟ − (⬚)
+                                                ⏟ − (𝑿)
+                                                    ⏟ − ⋯ − (𝑿)
+                                                            ⏟−                                            (⬚)
+                                                                                                          ⏟
+      𝟏          2  ⏟3   4   5   6   7   8   9   10  11      99                                           𝟏𝟎𝟎
+  𝐂𝐨𝐦 𝐜𝐚𝐫𝐫𝐨                                                                                             𝐂𝐨𝐦 𝐜𝐚𝐫𝐫𝐨
+                                                        𝟗𝟔 𝐯𝐚𝐠𝐚𝐬
+   𝐚𝐨 𝐥𝐚𝐝𝐨                                                                                               𝐚𝐨 𝐥𝐚𝐝𝐨
+
+Portanto, dentre as 96 vagas restantes, teremos 1 carro a cada 3 vagas. Logo, o número de vagas com carro
+nessas 96 vagas é 96÷3 = 32 carros.
+Considerando os carros das vagas 2 e 99, o número mínimo de vagas do estacionamento já ocupadas é:
+                                                    32 + 2 = 34
+
+Gabarito: Letra B.
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                          14
+        www.estrategiaconcursos.com.br                                                                              57
+
+                                       https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+
+  (FGV/PMSJC/2024) No parque municipal de uma cidade há exatamente 5 bebedouros identificados com
+as letras A, B, C, D e E e 8 caminhos interligando-os da seguinte forma:
+
+    •    o caminho 1 liga A e B;
+    •    o caminho 2 liga A e C;
+    •    os caminhos 3 e 4, distintos, ligam A e D;
+    •    o caminho 5 liga B e D;
+    •    o caminho 6 liga C e D;
+    •    o caminho 7 liga C e E;
+    •    o caminho 8 liga D e E.
+
+Um percurso é qualquer sequência de caminhos escolhidos entre esses 8 existentes, não importando se
+há ou não repetição de caminho. Ordenações distintas de caminhos implicam percursos distintos. Assim,
+(1 – 5) e (5 – 1) são percursos diferentes formados pelos mesmos 2 caminhos.
+O número total de percursos, formados por exatamente 3 caminhos, que começam no bebedouro B e
+terminam no bebedouro C é igual a
+a) 5.
+b) 6.
+c) 8.
+d) 9.
+e) 10.
+
+Comentários:
+
+Podemos representar os cinco bebedouros (de A até E) e os oito caminhos conforme o seguinte esquema:
+
+
+
+
+Devemos percorrer exatamente 3 caminhos para sair de B e chegar em C. Note que:
+
+    •    O primeiro caminho, saindo de B, deve ser o caminho 1 ou o caminho 5; e
+    •    O último caminho, chegando em C, deve ser o caminho 2, o caminho 6 ou o caminho 7.
+
+Vejamos os possíveis percursos:
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                       15
+          www.estrategiaconcursos.com.br                                                           57
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+    •    Se o primeiro caminho for o 1, note que:
+             o Não podemos chegar em C pelo caminho 2 percorrendo exatamente 3 caminhos.
+             o Podemos chegar em C pelo caminho 6 percorrendo 3 caminhos por meio dos seguintes
+                 percursos: (1−3−6) e (1−4−6);
+             o Não podemos chegar em C pelo caminho 7 percorrendo exatamente 3 caminhos.
+    •    Se o primeiro caminho for o 5, note que:
+             o Podemos chegar em C pelo caminho 2 percorrendo 3 caminhos por meio dos seguintes
+                 percursos: (5−3−2) e (5−4−2);
+             o Não podemos chegar em C pelo caminho 6 percorrendo exatamente 3 caminhos.
+             o Podemos chegar em C pelo caminho 7 percorrendo 3 caminhos por meio do seguinte
+                 percurso: (5−8−7);
+
+Logo, temos 5 percursos formados por exatamente 3 caminhos, que começam no bebedouro B e terminam
+no bebedouro C:
+
+                                  (1−3−6) ; (1−4−6) ; (5−3−2) ; (5−4−2) ; (5−8−7)
+
+Gabarito: Letra A.
+
+
+  (FGV/SEFAZ AM/2022) Em uma sala de reuniões há uma mesa circular com cadeiras em volta. Nessa sala
+estão Abel, Daniel e Rafael que esperam Pedro, um amigo comum. Um dos três presentes diz:
+“Vamos nos sentar de forma a deixar para Pedro apenas um lugar que não tenha um de nós como vizinho.”
+Para cumprir o que foi dito, o número máximo de cadeiras em volta dessa mesa deve ser
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+e) 10.
+
+Comentários:
+
+É necessário deixar apenas um lugar que não tenha algum dos amigos como vizinho. Isso significa que
+precisamos deixar três cadeiras livres consecutivas.
+
+Vamos supor que essas três cadeiras livres consecutivas são limitadas de cada lado por Abel e Daniel. Temos
+a seguinte representação:
+
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             16
+         www.estrategiaconcursos.com.br                                                                 57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Vamos agora inserir na mesa Rafael. Devemos inserir o número máximo de cadeiras entre Abel e Rafael e
+entre Daniel e Rafael de modo que, entre as cadeiras inseridas, não seja possível ter uma cadeira em que
+Pedro poderia sentar sem ter um dos três amigos como vizinho.
+
+Consequentemente, deverá haver duas cadeiras entre Abel e Rafael e duas cadeiras entre Daniel e Rafael.
+
+
+
+
+Portanto, o número máximo de cadeiras que respeita as condições do enunciado é 10.
+
+Note que, se inserirmos uma cadeira extra em qualquer lugar da mesa, haverá um lugar a mais que Pedro
+poderia sentar sem ter um dos três amigos como vizinho. Exemplo:
+
+
+
+
+Gabarito: Letra E.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           17
+        www.estrategiaconcursos.com.br                                                               57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+  (FGV/SEFAZ ES/2022) Na espera pela abertura de um posto de saúde há uma fila com 30 pessoas, entre
+as quais Gilda e Laura.
+Sabe-se que:
+– Gilda está na frente de Laura e há três pessoas entre elas.
+– O número de pessoas que estão atrás de Gilda é o dobro do número de pessoas que estão à frente de
+Laura.
+A posição de Laura na fila é a
+a) 7ª.
+b) 8ª.
+c) 12ª.
+d) 15ª.
+e) 19ª.
+
+Comentários:
+
+Vamos resolver o problema inserindo os dados do enunciado em um esquema.
+
+                          "Gilda está na frente de Laura e há três pessoas entre elas."
+
+Representando Gilda pela letra G e Laura pela letra L, considerando que a fila tem seu início na esquerda,
+temos a seguinte representação:
+
+                                           … − 𝐺 − (3 pessoas) − 𝐿 − …
+
+ "O número de pessoas que estão atrás de Gilda é o dobro do número de pessoas que estão à frente de
+                                              Laura."
+
+Considere que temos 𝑥 pessoas na frente de Gilda e 𝑦 pessoas atrás de Laura. Temos a seguinte
+representação:
+
+                              (𝒙 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑮 − (𝟑 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑳 − (𝒚 𝐩𝐞𝐬𝐬𝐨𝐚𝐬)
+
+Temos 30 pessoas na fila. Considerando Gilda e Laura, temos que:
+
+                                               𝑥 + 1 + 3 + 1 + 𝑦 = 30
+
+                                                   𝑥 + 𝑦 + 5 = 30
+
+                                                      𝒙 + 𝒚 = 𝟐𝟓
+
+Note que o número de pessoas que estão atrás de Gilda, considerando a Laura, é 𝑦 + 4:
+
+                                (𝑥 pessoas) − 𝐺 − ⏟
+                                                  (3 pessoas) − 𝐿 − (𝑦 pessoas)
+                                                             Pessoas atrás de Gilda:
+                                                                      𝑦+4
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           18
+          www.estrategiaconcursos.com.br                                                               57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Além disso, o número de pessoas que estão à frente de Laura, considerando a Gilda, é 𝑥 + 4:
+
+                              (𝑥
+                              ⏟ pessoas) − 𝐺 − (3 pessoas) − 𝐿 − (𝑦 pessoas)
+                                   Pessoas à frente de Laura:
+                                              𝑥+4
+
+Como o número de pessoas que estão atrás de Gilda é o dobro do número de pessoas que estão à frente
+de Laura, temos a seguinte equação:
+
+                                             𝑦+4
+                                             ⏟            =𝟐×       (𝑥 + 4)
+                                                                    ⏟
+                                          Pessoas atrás         Pessoas à frente
+                                            de Gilda               de Laura
+
+Portanto:
+
+                                                     𝑦 + 4 = 2𝑥 + 8
+
+                                                       𝒚 = 𝟐𝒙 + 𝟒
+
+Substituindo esse valor de 𝑦 em 𝒙 + 𝒚 = 𝟐𝟓, temos:
+
+                                                    𝑥 + (2𝑥 + 4) = 25
+
+                                                      3𝑥 + 4 = 25
+
+                                                          3𝑥 = 21
+
+                                                           𝒙=𝟕
+
+Apesar de não ser necessário para resolver o problema, podemos obter o valor de 𝑦:
+
+                                                       𝑦 = 2𝑥 + 4
+
+                                                      𝑦 =2×7+4
+
+                                                          𝒚 = 𝟏𝟖
+
+Precisamos obter a posição de Laura na fila. Como 𝑥 = 7, existem 11 pessoas na frente dela, de modo que
+ela é a 12ª pessoa da fila.
+
+                       (𝟕 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑮 − (𝟑 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) −
+                       ⏟                                                ⏟
+                                                                        𝑳        − (𝟏𝟖 𝐩𝐞𝐬𝐬𝐨𝐚𝐬)
+                                       𝟏𝟏 𝐩𝐞𝐬𝐬𝐨𝐚𝐬                   𝟏𝟐ª 𝐩𝐞𝐬𝐬𝐨𝐚
+
+
+Gabarito: Letra C.
+
+
+
+  (FGV/SEJUSP-MG/2022) Sobre uma reta, a partir de um ponto inicial, uma pessoa faz a seguinte
+sequência de movimentos: 1 passo para frente, 2 para trás, 3 para frente, 4 para trás, e assim por diante.
+O último movimento dessa pessoa foi de 29 passos para frente.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             19
+        www.estrategiaconcursos.com.br                                                                 57
+
+                                    https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+A distância em passos que essa pessoa está do ponto inicial é
+a) 17.
+b) 14.
+c) 16.
+d) 13.
+e) 15.
+
+Comentários:
+
+Considere que todo passo para frente percorre uma distância positiva e que todo o passo para trás percorre
+uma distância negativa.
+
+Perceba que, a cada dois movimentos, a pessoa acaba por andar um passo para trás:
+
+    •    1o e 2o movimentos: +1 − 2 = −𝟏 passo (1 passo para trás);
+    •    3o e 4o movimentos: +3 − 4 = −𝟏 passo (1 passo para trás);
+    •    5o e 6o movimentos: +5 − 6 = −𝟏 passo (1 passo para trás);
+    •    Etc.
+
+Até o 28o movimento, temos 14 conjuntos de dois movimentos. Logo, o saldo de passos para trás até o 28o
+movimento é:
+
+                            14 × (−1 passo) = −𝟏𝟒 𝐩𝐚𝐬𝐬𝐨𝐬 (14 passos para trás)
+
+Ao realizar o 29o movimento, a pessoa andou 29 passos para frente. Logo, considerando todos os 29
+movimentos, a distância em passos que essa pessoa está do ponto inicial é:
+
+                                29 − 14 = +𝟏𝟓 𝐩𝐚𝐬𝐬𝐨𝐬 (15 passos para frente)
+
+Gabarito: Letra E.
+
+
+   (FGV/TRT-PB/2022) Carlos e Alberto estão em uma fila. Carlos está na frente de Alberto, mas há 3
+pessoas entre eles. Há 7 pessoas depois de Alberto e a pessoa que está imediatamente à frente de Alberto
+ocupa o centro da fila.
+O número de pessoas que estão à frente de Carlos é
+a) 4.
+b) 5.
+c) 6.
+d) 7.
+e) 8.
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            20
+         www.estrategiaconcursos.com.br                                                                57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Comentários:
+
+Vamos representar as informações do enunciado em um esquema, considerando que a ordem da fila é da
+esquerda para a direita.
+
+   "Carlos e Alberto estão em uma fila. Carlos está na frente de Alberto, mas há 3 pessoas entre eles."
+
+Representando Carlos pela letra C e Alberto pela letra A, temos o seguinte esquema:
+
+                                               C − (3 pessoas) − A
+
+                                       "Há 7 pessoas depois de Alberto..."
+
+Ficamos com o seguinte esquema:
+
+                                       C − (3 pessoas) − A − (7 pessoas)
+
+            "...e a pessoa que está imediatamente à frente de Alberto ocupa o centro da fila."
+
+Vamos representar a pessoa que está imediatamente à frente de Alberto pela letra P, desmembrando as
+três pessoas que estão entre Carlos e Alberto.
+
+                                      (2 pessoas) − P − A − (7 pessoas)
+                                    C−⏟
+                                             3 pessoas
+
+
+Considere, ainda, que temos 𝑥 pessoas na frente de Carlos:
+
+                           (𝑥 pessoas) − C − (𝟐 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝐏 − A − (7 pessoas)
+
+Como a pessoa P ocupa o centro da fila, o número de pessoas antes dela é igual ao número de pessoas depois
+dela.
+
+                          (𝑥 pessoas) − C − (𝟐 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝐏 − ⏟
+                          ⏟                                   A − (7 pessoas)
+                                 x+3 pessoas antes de P                8 pessoas depois de P
+
+
+Logo, temos que:
+
+                                                     𝑥+3=8
+
+                                                          𝑥=5
+
+Portanto, existem x = 5 pessoas antes de Carlos na fila.
+
+Gabarito: Letra B.
+
+
+
+   (FGV/TRT MA/2022) Cinco pessoas formam uma fila. Essa fila será modificada com a seguinte sequência
+de trocas de posição: o 2º com o 4º, o 1º com o 3º, o 2º com o 5º e o 1º com o 4º.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                21
+        www.estrategiaconcursos.com.br                                                                    57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+A pessoa que estava no 3º lugar na fila inicial estará, na fila final, no
+a) 1º lugar.
+b) 2º lugar.
+c) 3º lugar.
+d) 4º lugar.
+e) 5º lugar.
+
+Comentários:
+
+Vamos identificar a primeira pessoa da fila inicial por 𝑃1, a segunda pessoa da fila inicial por 𝑃2, e assim
+sucessivamente, até a quinta pessoa da fila inicial.
+
+Temos o seguinte esquema da fila inicial, sendo o primeiro colocado mais à direita:
+
+                                             𝑃5 − 𝑃4 − 𝑃3 − 𝑃2 − 𝑃1
+
+A partir desse esquema, vamos realizar as trocas.
+
+                                                Trocar o 2º com o 4º
+
+Nesse caso, devemos trocar 𝑃2 com 𝑃4. Ficamos com o seguinte esquema:
+
+                                             𝑃5 − 𝑃2 − 𝑃3 − 𝑃4 − 𝑃1
+
+                                                Trocar o 1º com o 3º
+
+Nesse caso, devemos trocar 𝑃1 com 𝑃3. Ficamos com o seguinte esquema:
+
+                                             𝑃5 − 𝑃2 − 𝑃1 − 𝑃4 − 𝑃3
+
+                                                Trocar o 2º com o 5º
+
+Veja que o segundo colocado na fila é o 𝑃4, e o quinto colocado é o 𝑃5. Trocando de posição, ficamos com
+o seguinte esquema:
+
+                                             𝑃4 − 𝑃2 − 𝑃1 − 𝑃5 − 𝑃3
+
+                                                Trocar o 1º com o 4º
+
+Veja que o primeiro colocado na fila é o 𝑃3, e o quarto colocado é o 𝑃2. Trocando de posição, ficamos com
+o seguinte esquema:
+
+                                             𝑃4 − 𝑃3 − 𝑃1 − 𝑃5 − 𝑃2
+
+Perceba que a pessoa que estava no 3º lugar na fila inicial estará, na fila final, no 4º lugar.
+
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              22
+         www.estrategiaconcursos.com.br                                                                  57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+                                           𝑃4 − 𝑃3
+                                                ⏟ − 𝑃1 − 𝑃5 − 𝑃2
+                                                 4º lugar
+
+
+O gabarito, portanto, é letra D.
+
+Gabarito: Letra D.
+
+
+
+  (FGV/TRT MA/2022) Cinco amigos, A, B, C, D e E, marcaram um encontro em data e hora determinados,
+mas todos chegaram em horários diferentes.
+Sabe-se que
+• A chegou depois de B.
+• C chegou antes de A.                                  ==219a34==
+
+
+
+
+• Quando D chegou, C já estava, mas B não.
+• Quando E chegou somente 2 amigos já haviam chegado.
+É correto concluir que
+a) A não foi o último a chegar.
+b) E chegou antes de D.
+c) C foi o 2º a chegar.
+d) D chegou depois de B.
+e) B foi o 4º a chegar.
+
+Comentários:
+
+A partir das informações apresentadas, vamos inserir os cinco amigos em um esquema de modo a
+representar as suas posições relativas.
+
+• A chegou depois de B.
+
+Considerando que quem chegou antes está representado à esquerda, temos a seguinte representação:
+
+                                                        𝐵−𝐴
+
+• C chegou antes de A.
+
+Nesse caso, devemos representar o C antes do A. Ocorre que essa representação pode ocorrer de duas
+formas, pois nesse momento não sabemos se o C chegou antes do B ou não:
+
+                                           𝑪−𝐵−𝐴                     ou   𝐵−𝑪−𝐴
+
+• Quando D chegou, C já estava, mas B não.
+
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        23
+         www.estrategiaconcursos.com.br                                                            57
+
+                                     https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+Veja que, com essa informação, temos a garantia de que C chegou antes de B. Logo, a representação correta
+referente à situação anterior é:
+
+                                                     𝑪−𝐵−𝐴
+
+Podemos agora inserir D no nosso esquema. Quando D chegou, C já estava no local e B não estava. Logo, D
+chegou em uma colocação depois de C e antes de B. Temos a seguinte representação:
+
+                                                   𝐶−𝐷−𝐵−𝐴
+
+• Quando E chegou somente 2 amigos já haviam chegado.
+
+Nesse caso, E deve ser representado como o terceiro que chegou. Ficamos com a seguinte representação:
+
+                                                𝐶−E−𝐷−𝐵−𝐴
+
+Veja que essa representação obedece a todas as condições do enunciado sendo, portanto, a ordem de
+chegada correta. Logo, é correto concluir que B foi o 4º a chegar.
+
+                                              𝐶−E−𝐷−            𝐵
+                                                                ⏟     −𝐴
+                                                              4º a
+                                                             chegar
+
+
+Gabarito: Letra E.
+
+
+
+   (FGV/SEJUSP-MG/2022) A figura a seguir mostra 11 pontos numerados sobre uma circunferência.
+
+
+
+
+Percorrendo a circunferência no sentido anti-horário 9 desses pontos serão apagados de acordo com a
+seguinte regra: “Após um ponto ser apagado, pule dois pontos (ainda não apagados) e apague o seguinte”.
+Comece apagando o ponto de número 3 e siga a regra.
+A soma dos números dos dois últimos pontos que não foram apagados é
+a) 9.
+b) 10.
+c) 11.
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           24
+         www.estrategiaconcursos.com.br                                                               57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+d) 12.
+e) 13.
+
+Comentários:
+
+Pessoal, essa questão não tem mistério. Após apagar o número 3, devemos seguir no sentido anti-horário
+pulando dois pontos e apagando o seguinte.
+
+Inicialmente, apagamos o número 3.
+
+
+
+
+Seguindo o sentido anti-horário, pulamos os números 4 e 5 e apagamos o 6:
+
+
+
+
+Na sequência, pulamos os números 7 e 8 e apagamos o 9:
+
+
+
+
+Depois, pulamos os números 10 e 11 e apagamos o 1:
+
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        25
+         www.estrategiaconcursos.com.br                                                            57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Seguindo com o raciocínio, pulamos os números 2 e 4 e apagamos o 5:
+
+
+
+
+Depois, pulamos os números 7 e 8 e apagamos o 10:
+
+
+
+
+Na sequência, pulamos os números 11 e 2 e apagamos o 4:
+
+
+
+
+Depois, pulamos os números 7 e 8 e apagamos o 11:
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático   26
+        www.estrategiaconcursos.com.br                                       57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Por fim, pulamos os números 2 e 7 e apagamos o número 8:
+
+
+
+
+A soma dos números dos dois últimos pontos que não foram apagados é:
+
+                                                     7+2=9
+
+Gabarito: Letra A.
+
+
+   (FGV/SEJUSP-MG/2022) Uma cidade possui 3 unidades prisionais chamadas de A, B e C. As distâncias
+rodoviárias em quilômetros para ir de uma das unidades (linha da matriz) a qualquer outra (coluna da
+matriz) estão na matriz abaixo. Observa-se que, entre duas unidades quaisquer, as distâncias de ida e de
+volta são diferentes pois os caminhos são diferentes.
+
+
+
+
+Um diretor pretende vistoriar as três unidades começando em uma delas e, em seguida, visitando as outras
+duas e terminando na terceira.
+A menor distância que ele poderá percorrer é de
+a) 10 km.
+b) 11 km.
+c) 12 km.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           27
+        www.estrategiaconcursos.com.br                                                               57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+d) 13 km.
+e) 14 km
+
+Comentários:
+
+Note que as três unidades prisionais podem ser vistoriadas de 6 maneiras distintas. Utilizando os dados do
+problema, temos as seguintes distâncias totais:
+
+
+
+                                               4 𝑘𝑚    10 𝑘𝑚
+                                              ⏞ 𝐵 →
+                                            𝐴 →   ⏞ 𝐶 − 14𝑘𝑚
+                                               7 𝑘𝑚    6 𝑘𝑚
+                                               ⏞ 𝐶 →
+                                             𝐴 →   ⏞ 𝐵 − 13𝑘𝑚
+                                               5 𝑘𝑚    7 𝑘𝑚
+                                               ⏞ 𝐴 →
+                                             𝐵 →   ⏞ 𝐶 − 12𝑘𝑚
+                                               10 km   8 𝑘𝑚
+                                               ⏞ 𝐶 →
+                                             𝐵 →   ⏞ 𝐴 − 18𝑘𝑚
+                                                8 𝑘𝑚   4𝑘𝑚
+                                               ⏞ 𝐴 →
+                                             𝐶 →   ⏞ 𝐵 − 12𝑘𝑚
+                                               6 𝑘𝑚    5 𝑘𝑚
+                                               ⏞ 𝐵 →
+                                             𝐶 →   ⏞ 𝐴 – 𝟏𝟏𝒌𝒎
+
+Portanto, a menor distância que o diretor poderá percorrer é de 11km, fato que ocorre ao vistoriar as
+unidades na ordem 𝐶 → 𝐵 → 𝐴.
+
+Gabarito: Letra B.
+
+
+   (FGV/MPE GO/2022) João foi a pé de sua casa até a casa de Maria. Para isso, ele caminhou duas quadras
+para o norte (N), uma quadra para o leste (L), mais uma quadra para o norte (N) e, finalmente, duas
+quadras para oeste (O). O caminho percorrido por João pode ser representado por: NNLNOO.
+João voltou para casa percorrendo o mesmo caminho em sentido contrário.
+Usando o mesmo tipo de representação (use S para representar sul, se necessário), o caminho de volta
+para casa de João é representado por
+a) SSOSLL.
+b) OONLNN.
+c) OOSLSS.
+d) LLNLNN.
+e) LLSOSS.
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             28
+        www.estrategiaconcursos.com.br                                                                 57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+A sequência percorrida por João até a casa de Maria é NNLNOO. Para retornar à origem percorrendo o
+mesmo caminho:
+
+   •   A última quadra para o Oeste deve ser para o Leste (L);
+   •   A penúltima quadra para o Oeste deve ser para o Leste (L);
+   •   A antepenúltima quadra para o Norte deve ser para o Sul (S);
+   •   O movimento original para o Leste deve ser para o Oeste (O);
+   •   Os dois primeiros movimentos originalmente para o Norte devem ser para o Sul (SS).
+
+Ficamos com a seguinte sequência de movimentos: LLSOSS. O gabarito, portanto, é Letra E.
+
+Graficamente, temos a seguinte representação da ida da casa de João para a casa de Maria.
+
+
+
+
+Note que a volta seguindo o mesmo caminho em sentido contrário deverá ser LLSOSS:
+
+
+
+
+Gabarito: Letra E.
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                     29
+        www.estrategiaconcursos.com.br                                                         57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+   (FGV/PM AM/2022) Uma fila para vacinação se formou no posto de saúde e nela estão Sílvio e Mário.
+A fila tem 42 pessoas, Sílvio está na frente de Mario e há 4 pessoas entre eles. Sabe-se que o número de
+pessoas que estão atrás de Mário é o dobro do número de pessoas que estão à frente de Sílvio.
+O lugar que Mário ocupa na fila é o:
+a) 13º.
+b) 16º.
+c) 17º.
+d) 18º.
+e) 19º.
+
+Comentários:
+
+Vamos resolver o problema inserindo os dados do enunciado em um esquema.
+
+                           " Sílvio está na frente de Mario e há 4 pessoas entre eles."
+
+Representando Sílvio pela letra S e Mário pela letra M, considerando que a fila tem seu início na esquerda,
+temos a seguinte representação:
+
+                                          … − 𝑆 − (4 pessoas) − 𝑀 − …
+
+ " O número de pessoas que estão atrás de Mário é o dobro do número de pessoas que estão à frente de
+                                               Sílvio."
+
+Considere que temos 𝑥 pessoas na frente de Sílvio e 𝑦 pessoas atrás de Mário. Temos a seguinte
+representação:
+
+                              (𝒙 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑺 − (𝟒 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑴 − (𝒚 𝐩𝐞𝐬𝐬𝐨𝐚𝐬)
+
+Temos 42 pessoas na fila. Considerando Sílvio e Mário, temos que:
+
+                                               𝑥 + 1 + 4 + 1 + 𝑦 = 42
+
+                                                    𝑥 + 𝑦 + 6 = 42
+
+                                                      𝒙 + 𝒚 = 𝟑𝟔
+
+Como o número de pessoas que estão atrás de Mário é o dobro do número de pessoas que estão à frente
+de Sílvio, temos a seguinte equação:
+
+                                                𝑦
+                                                ⏟         =𝟐×          ⏟
+                                                                       𝑥
+                                          Pessoas atrás         Pessoas à frente
+                                            de Mário               de Sílvio
+
+
+Portanto:
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            30
+          www.estrategiaconcursos.com.br                                                                57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+                                                        𝒚 = 𝟐𝒙
+
+Substituindo esse valor de 𝑦 em 𝒙 + 𝒚 = 𝟑𝟔, temos:
+
+                                                     𝑥 + 2𝑥 = 36
+
+                                                        3𝑥 = 36
+
+                                                        𝒙 = 𝟏𝟐
+
+Apesar de não ser necessário para resolver o problema, podemos obter o valor de 𝑦:
+
+                                                        𝑦 = 2𝑥
+
+                                                        𝑦 = 24
+
+Precisamos obter a posição de Mário na fila. Como 𝑥 = 12, existem 17 pessoas na frente dele, de modo que
+ele é a 18ª pessoa da fila.
+
+                        (𝟏𝟐
+                        ⏟ 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑺 − (𝟒 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) −                 𝑴
+                                                                       ⏟        − (𝟐𝟒 𝐩𝐞𝐬𝐬𝐨𝐚𝐬)
+                                       𝟏𝟕 𝐩𝐞𝐬𝐬𝐨𝐚𝐬                  𝟏𝟖ª 𝐩𝐞𝐬𝐬𝐨𝐚
+
+
+Gabarito: Letra D.
+
+
+
+    (FGV/MPE GO/2022) Renata, Sara e Tânia estão, nessa ordem, em uma fila. Sabe-se que há 10 pessoas
+na frente de Renata, 8 pessoas entre Renata e Sara e 7 pessoas depois de Tânia. Sabe-se ainda que Sara
+está no centro da fila.
+O lugar que Tânia ocupa nessa fila é o
+a) 30º.
+b) 31º.
+c) 32º.
+d) 33º.
+e) 34º.
+
+Comentários:
+
+Vamos resolver o problema inserindo os dados do enunciado em um esquema.
+
+                            "Renata, Sara e Tânia estão, nessa ordem, em uma fila."
+
+Representando Renata pela letra R, Sara pela letra S e Tânia pela letra T, considerando que a fila tem seu
+início na esquerda, temos a seguinte representação:
+
+                                           …− 𝑅 − … − 𝑆 − … − 𝑇 − …
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           31
+          www.estrategiaconcursos.com.br                                                               57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+  "Sabe-se que há 10 pessoas na frente de Renata, 8 pessoas entre Renata e Sara e 7 pessoas depois de
+                                               Tânia"
+
+Temos a seguinte representação:
+
+                      (10 pessoas) − 𝑅 − (8 pessoas) − 𝑆 − … − 𝑇 − (7 pessoas)
+
+                               "Sabe-se ainda que Sara está no centro da fila."
+
+Não sabemos, nesse momento, quantas pessoas há entre Sara e Tânia. Considere que entre elas há 𝑥
+pessoas.
+
+                 (10 pessoas) − 𝑅 − (8 pessoas) − 𝑆 − (𝑥 pessoas) − 𝑇 − (7 pessoas)
+
+Como Sara está no centro da fila, o número de pessoas que estão na frente dela é igual ao número de pessoas
+que estão atrás dela.
+
+                 (10 pessoas) − 𝑅 − (8 pessoas) − 𝑆 − ⏟
+                 ⏟                                    (𝑥 pessoas) − 𝑇 − (7 pessoas)
+                               19 pessoas                                    𝑥+8 𝑝𝑒𝑠𝑠𝑜𝑎𝑠
+
+
+Portanto:
+
+                                                    19 = 𝑥 + 8
+
+                                                    𝑥 = 19 − 8
+
+                                                      𝑥 = 11
+
+Agora que temos o valor de 𝑥, podemos representar a fila da seguinte maneira:
+
+             (𝟏𝟎 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑹 − (𝟖 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑺 − (𝟏𝟏 𝐩𝐞𝐬𝐬𝐨𝐚𝐬) − 𝑻 − (𝟕 𝐩𝐞𝐬𝐬𝐨𝐚𝐬)
+
+Note que existem 31 pessoas na frente de Tânia:
+
+                                            10 + 1 + 8 + 1 + 11 = 31
+
+Portanto, o lugar que Tânia ocupa nessa fila é o 32º.
+
+            (10 pessoas) − 𝑅 − (8 pessoas) − 𝑆 − (11 pessoas) −
+            ⏟                                                                     ⏟
+                                                                                  𝑇        − (7 pessoas)
+                                       31 pessoas                             32º lugar
+
+
+Gabarito: Letra C.
+
+
+
+    (FGV/MPE GO/2022) Cinco amigas, Ana, Bia, Carol, Deise e Elisa, foram ao cinema e sentaram-se em
+cinco cadeiras consecutivas.
+Passados 5 minutos, Ana trocou de lugar com Deise e Carol trocou de lugar com Elisa.
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                 32
+        www.estrategiaconcursos.com.br                                                                     57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Passados mais 5 minutos, Bia trocou de lugar com Ana e Deise trocou de lugar com Elisa.
+Após essas trocas, a ordem delas era: Ana, Elisa, Bia, Carol e Deise (AEBCD).
+Representando cada uma delas pela letra inicial do respectivo nome, a ordem inicial em que elas estavam
+sentadas foi
+a) BCAED.
+b) DCBEA.
+c) DAEBC.
+d) EABDC.
+e) BADEC.
+
+Comentários:
+
+Para obter a ordem inicial em que as cinco amigas estavam sentadas, devemos partir da ordem final e
+desfazer as operações descritas no enunciado.
+
+A posição final das amigas era:
+
+                                                    A E B C D
+
+
+
+Para chegar nessa posição final, Bia trocou de lugar com Ana e Deise trocou de lugar com Elisa. Logo, a
+posição anterior era:
+
+                                                    B D A C E
+
+Para chegar nessa posição intermediária, Ana trocou de lugar com Deise e Carol trocou de lugar com Elisa.
+Logo, a posição inicial era:
+
+                                                    B A D E C
+
+Gabarito: Letra E.
+
+
+
+   (FGV/FunSaúde CE/2021) As pessoas A, B, C, D, E, F estão sentadas em volta da mesa hexagonal abaixo.
+
+
+
+
+Sabe-se que:
+• B tem F à sua esquerda.
+• C não é oposto a F e tem A à sua direita.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            33
+        www.estrategiaconcursos.com.br                                                                57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+• D e A são opostos.
+É correto afirmar que:
+a) C e D são opostos.
+b) E está à esquerda de C.
+c) B está à direita de D.
+d) F e D são vizinhos.
+e) A está à esquerda de E.
+
+Comentários:
+
+Vamos inserir as posições de A, B, C, D, E e F na mesa.
+
+                                            " B tem F à sua esquerda."
+
+Podemos inserir B em qualquer lugar da mesa para criarmos um referencial. Após isso, inserirmos F, que está
+à esquerda de B.
+
+
+
+
+                                   " C não é oposto a F e tem A à sua direita."
+
+Para que C não seja oposto a F e tenha A à sua direita, temos a seguinte configuração possível para C e A:
+
+
+
+
+                                               " D e A são opostos."
+
+Logo, temos a seguinte localização para D:
+
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              34
+         www.estrategiaconcursos.com.br                                                                  57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Como resta apenas um lugar, E deve ocupar a posição remanescente:
+
+
+
+
+Portanto, é correto concluir que E está à esquerda de C.
+
+
+
+
+Gabarito: Letra B.
+
+
+
+   (FGV/PM CE/2021) Um fazendeiro plantou ao longo de uma das margens da estrada reta, que vai do
+portão de sua fazenda até a sua casa, vários coqueiros.
+Os coqueiros foram plantados em grupos de 6 coqueiros igualmente espaçados. A distância do portão ao
+primeiro coqueiro é de 10 metros e a distância entre o sexto coqueiro de um grupo e o primeiro coqueiro
+do grupo seguinte é o dobro da distância entre coqueiros consecutivos de um mesmo grupo.
+A distância do portão da fazenda ao quarto coqueiro é de 28 metros.
+A distância do terceiro ao décimo coqueiro, em metros, é
+a) 48.
+b) 49.
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         35
+         www.estrategiaconcursos.com.br                                                             57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+c) 54.
+d) 56.
+e) 60.
+
+Comentários:
+
+Considere que a distância entre dois coqueiros de um mesmo grupo é 𝑥. Nesse caso, a distância entre dois
+grupos é 2𝑥.
+
+Considerando que a letra P representa o portão da fazenda, temos a seguinte representação de dois grupos
+de coqueiros:
+
+
+
+
+A distância do portão da fazenda ao quarto coqueiro é 28 metros. Logo:
+
+                                                   10 + 3𝑥 = 28
+                                                       3𝑥 = 18
+                                                       𝑥 = 6𝑚
+
+Observando o esquema desenhado, nota-se que a distância do terceiro ao décimo coqueiro é 8𝑥.
+
+
+
+
+Logo, a distância procurada é:
+                                                   8 × 6𝑚 = 48𝑚
+
+Gabarito: Letra A.
+
+
+
+   (FGV/Pref. Salvador/2019) Suponha que você, a partir de um ponto inicial, desloque-se 3 metros para
+o norte; a seguir, 4 metros para o oeste; e, finalmente, 5 metros para o sul.
+Em relação ao ponto inicial, sua posição final está
+a) 4 metros a oeste e 2 metros ao sul.
+b) 3 metros a oeste e 3 metros ao sul.
+c) 2 metros a leste e 3 metros ao sul.
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          36
+         www.estrategiaconcursos.com.br                                                              57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+d) 4 metros a leste e 2 metros ao sul.
+e) 3 metros a leste e 3 metros ao norte.
+
+Comentários:
+
+Vamos dividir o problema em dois:
+   •   Direção Sul−Norte; e
+   •   Direção Oeste−Leste.
+
+
+
+
+Para a direção Sul−Norte, temos os seguintes deslocamentos:
+   •   Norte: 3 m
+   •   Sul: −5 m
+   •   Deslocamento líquido na direção Sul-Norte: 3 − 5 = −2 m (2 m para o Sul)
+
+Para a direção Oeste-Leste, temos os seguintes deslocamentos:
+
+   •   Leste: 0 m
+   •   Oeste: −4 m,
+   •   Deslocamento líquido na direção Oeste-Leste: 0 − 4 = − 4m (4 m para o Oeste)
+
+Portanto, a posição final será 4 metros a oeste e 2 metros ao sul.
+
+Gabarito: Letra A.
+
+
+
+   (FGV/Pref. Salvador/2019) Sílvio, Robson e Túlio estão em uma fila, nessa ordem, ou seja, Robson está
+atrás de Sílvio e Túlio está atrás de Robson.
+Sabe-se que:
+• Robson está no meio da fila, ou seja, há tantas pessoas na frente dele como atrás dele.
+• Há 7 pessoas entre Sílvio e Robson.
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           37
+        www.estrategiaconcursos.com.br                                                               57
+
+                                    https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+• Há 10 pessoas entre Robson e Túlio.
+• Sílvio é o 12º da fila.
+Nessa fila, o número de pessoas atrás de Túlio é
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+e) 10.
+
+Comentários:
+
+Para resolver o problema, vamos inserir as informações fornecidas em um esquema.
+
+    •    Robson (R) está atrás de Sílvio (S) e Túlio (T) está atrás de Robson (R).
+
+Sabemos a posição relativa entre Sílvio, Túlio e Robson, porém não sabemos quantas pessoas estão na
+frente de Sílvio, quantas estão entre Sílvio e Robson, quantas estão entre Robson e Túlio e quantas estão
+atrás de Túlio.
+
+Considerando que a frente da fila está na direita, temos a seguinte representação:
+
+                                             ? −𝐓−? −𝐑−? −𝐒−?
+
+    •    Há 7 pessoas entre Sílvio (S) e Robson (R).
+
+                                           ? −𝐓−? −𝐑 − 𝟕 − 𝐒−?
+
+    •    Há 10 pessoas entre Robson (R) e Túlio (T).
+
+                                         ? − 𝐓 − 𝟏𝟎 − 𝐑 − 𝟕 − 𝐒 − ?
+
+    •    Sílvio (S) é o 12º da fila.
+
+Nesse caso, temos 11 pessoas na frente de Sílvio.
+
+                                        ? − 𝐓 − 𝟏𝟎 − 𝐑 – 𝟕 − 𝐒 − 𝟏𝟏
+
+
+    •    Robson (R) está no meio da fila, ou seja, há tantas pessoas na frente dele como atrás dele,
+
+Temos 19 pessoas na frente de Robson:
+
+                                              7 + 1 (Sílvio) + 11 = 19
+
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           38
+          www.estrategiaconcursos.com.br                                                               57
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Logo, devemos ter 19 pessoas atrás de Robson, dentre as quais as 10 pessoas entre Túlio e Robson e o próprio
+Túlio. Isso significa que devemos adicionar 8 pessoas atrás de Túlio:
+
+                                                   19 − 10 − 1 = 8
+
+                                        𝟖 − 𝐓 − 𝟏𝟎 − 𝐑 – ⏟
+                                        ⏟                𝟕 − 𝐒 − 𝟏𝟏
+                                           𝟏𝟗 𝐩𝐞𝐬𝐬𝐨𝐚𝐬                𝟏𝟗 𝐩𝐞𝐬𝐬𝐨𝐚𝐬
+
+
+Portanto, temos 8 pessoas atrás de Túlio.
+
+Gabarito: Letra C.
+
+
+
+    (FGV/Pref. Salvador/2019) Em uma fila de 8 soldados, Pedro é o 5º dessa fila. O sargento modificou a
+fila colocando, entre cada dois soldados consecutivos, um novo soldado. Essa segunda fila foi ainda
+modificada, pois o sargento colocou, entre cada dois soldados consecutivos, um novo soldado.
+A posição de Pedro na terceira fila é
+a) 14º.
+b) 15º.
+c) 16º.
+d) 17º.
+e) 18º.
+
+Comentários:
+
+Vamos resolver o problema com um passo de cada vez.
+
+                               "Em uma fila de 8 soldados, Pedro é o 5º dessa fila."
+
+Nesse caso, temos 4 soldados (S) antes de Pedro (P) e 3 soldados (S) depois dele.
+
+                                         𝐒 −𝐒 −𝐒 −𝐒 −𝐏 −⏟
+                                         ⏟              𝐒 −𝐒−𝐒
+                                          𝟒 𝐬𝐨𝐥𝐝𝐚𝐝𝐨𝐬 𝐚𝐧𝐭𝐞𝐬            𝟑 𝐝𝐞𝐩𝐨𝐢𝐬
+
+
+Note que a questão, ao final, pergunta pela posição de Pedro. Portanto, precisamos saber somente quantas
+pessoas estarão à sua frente, de modo que vamos ignorar, a partir de agora, quantas pessoas estarão
+depois de Pedro na fila.
+
+   "O sargento modificou a fila colocando, entre cada dois soldados consecutivos, um novo soldado."
+
+Com essa nova informação, a fila até a posição de Pedro pode ser representada da seguinte maneira, sendo
+𝑁1 a representação dos novos soldados:
+
+                                    𝐒 − 𝐍𝟏 − 𝐒 − 𝐍𝟏 − 𝐒 − 𝐍𝟏 − 𝐒 − 𝐍𝟏 − 𝐏
+                                    ⏟
+                                                  𝟖 𝐬𝐨𝐥𝐝𝐚𝐝𝐨𝐬 𝐚𝐧𝐭𝐞𝐬
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             39
+          www.estrategiaconcursos.com.br                                                                 57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+"Essa segunda fila foi ainda modificada, pois o sargento colocou, entre cada dois soldados consecutivos,
+                                           um novo soldado."
+
+Com a segunda modificação, a fila até a posição de Pedro pode ser representada da seguinte maneira, sendo
+𝑁2 a representação dos soldados acrescidos nessa etapa:
+
+          𝐒 − 𝐍𝟐 − 𝐍𝟏 − 𝐍𝟐 − 𝐒 − 𝐍𝟐 − 𝐍𝟏 − 𝐍𝟐 − 𝐒 − 𝐍𝟐 − 𝐍𝟏 − 𝐍𝟐 − 𝐒 − 𝐍𝟐 − 𝐍𝟏 − 𝐍𝟐 − 𝐏
+          ⏟
+                                                 𝟏𝟔 𝐬𝐨𝐥𝐝𝐚𝐝𝐨𝐬 𝐚𝐧𝐭𝐞𝐬
+
+Observe que teremos 16 soldados à frente de Pedro, de modo que a sua posição na fila será 17º.
+
+Gabarito: Letra D.
+
+
+
+    (FGV/Pref. Salvador/2019) A figura abaixo mostra, à esquerda, uma malha triangular onde cada
+triângulo tem lado de 1 unidade de comprimento e onde um ponto A está assinalado. À direita, as letras
+M, N, P, Q, R e S mostram direções e sentido de 6 movimentos possíveis, cada um de 1 unidade.
+
+
+
+
+A partir do ponto A foi feita a seguinte sequência de movimentos: MNNMPQQ, chegando-se ao ponto B.
+A sequência de movimentos que, partindo de B chega-se ao ponto A, é
+a) RRR.
+b) RSR.
+c) SSS.
+d) SSR.
+e) RSS.
+
+Comentários:
+
+Vamos obter o ponto B para, em seguida, verificar qual alternativa chega-se ao ponto A partindo de B.
+
+Obtenção do ponto B por meio dos movimentos MNNMPQQ:
+
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            40
+          www.estrategiaconcursos.com.br                                                                57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+A sequência RRR da alternativa A não leva do ponto B ao ponto A.
+
+
+
+
+Por outro lado, a sequência RSR da alternativa B nos leva do ponto B ao ponto A. Este é o gabarito.
+
+
+
+
+Gabarito: Letra B.
+
+
+
+   (FGV/Pref. Angra/2019) As crianças Ana, Bia, Célia, Dulce e Ester formam, nessa ordem, uma fila. Ana
+é a primeira e Ester é a última.
+Três alterações em sequência foram feitas na fila:
+• Ana saiu de seu lugar e ficou entre Célia e Dulce.
+• Bia e Dulce trocaram de lugar.
+• Ester saiu do seu lugar e ficou entre Ana e Célia.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            41
+        www.estrategiaconcursos.com.br                                                                57
+
+                                    https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+Depois dessas alterações é correto afirmar que
+a) Célia é a 3ª da fila.
+b) Bia está imediatamente à frente de Ester.
+c) Dulce é a última da fila.
+d) Ester está imediatamente atrás de Ana.
+e) Ana é a 4ª da fila.
+
+Comentários:
+
+Para resolver o problema, vamos inserir as informações fornecidas em um esquema na sequência em que
+elas são mostradas.
+
+    •   As crianças Ana, Bia, Célia, Dulce e Ester formam, nessa ordem, uma fila. Ana é a primeira e Ester é a
+        última.
+
+                                            E −D −C −B −              ⏟
+                                                                      A
+                                                                  Primeira
+
+
+    •   Ana saiu de seu lugar e ficou entre Célia e Dulce.
+
+                                               E −D −𝐀 −C −B
+
+    •   Bia e Dulce trocaram de lugar.
+
+                                               E −𝐁 −A −C −𝐃
+
+    •   Ester saiu do seu lugar e ficou entre Ana e Célia.
+
+                                               B −A −𝐄 −C −D
+
+Depois dessas alterações é correto afirmar que Ana é a 4ª da fila.
+
+                                             B −      ⏟
+                                                      A         −E−C−D
+                                                   4ª da fila
+
+Gabarito: Letra E.
+
+
+
+   (FGV/Pref. Angra/2019) As pessoas A, B, C, D, E e F estão sentadas em volta de uma mesa hexagonal
+regular, como a figura a seguir.
+
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                42
+         www.estrategiaconcursos.com.br                                                                    57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+Sabe-se que:
+• E está ao lado de A.
+• B está imediatamente à esquerda de D e tem C à sua frente.
+• F não está oposto a A.
+É correto concluir que
+a) D está imediatamente à direita de F.
+b) E está oposto a D.
+c) B está imediatamente à esquerda de E.
+d) A e D são vizinhos.
+e) F está oposto a E.
+
+Comentários:
+
+Vamos inserir as posições de A, B, C, D, E e F na mesa.
+
+                         "B está imediatamente à esquerda de D e tem C à sua frente."
+
+Podemos inserir B em qualquer lugar da mesa para criarmos um referencial. Após isso, inserirmos D, que
+tem B à sua esquerda, e inserimos C, que está à frente de B.
+
+
+
+
+                                              "E está ao lado de A."
+
+Note que, com essa informação, A e E não podem estar entre C e D. Nesse caso, a última pessoa que resta
+(F) deve estar entre C e D.
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          43
+        www.estrategiaconcursos.com.br                                                              57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+                                             "F não está oposto a A."
+
+Como F não está oposto a A, resta-nos uma única configuração possível.
+
+
+
+
+Portanto, é correto concluir que F está oposto a E.
+
+Gabarito: Letra E.
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático   44
+        www.estrategiaconcursos.com.br                                       57
+
+                                    https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+
+                                LISTA DE QUESTÕES – FGV
+
+Orientação espacial
+
+ (FGV/ALESC/2024) Cinco carros (V, W, X, Y e Z) disputam uma corrida em um autódromo. Dada a largada,
+no final da primeira volta a ordem dos carros era V – W – X – Y – Z.
+Durante a corrida ocorreram, em sequência, as seguintes ultrapassagens:
+    •   O 3o fez uma ultrapassagem;
+    •   O 5o fez duas ultrapassagens;
+    •   O 3o fez duas ultrapassagens;
+    •   O 4o fez duas ultrapassagens.
+Depois disso, nenhuma outra ultrapassagem ocorreu e a corrida terminou.
+Portanto, o único carro que chegou na mesma posição de partida foi:
+a) V.
+b) W.
+c) X.
+d) Y.
+e) Z.
+
+
+  (FGV/ALE TO/2024) Marcelo está parado de frente para uma das paredes de uma sala quadrada. Nesta
+posição, ele está a 1m e 20cm da parede que se encontra à sua direita e a 1m e 70cm da parede que está
+às suas costas.
+Ele, então, se desloca paralelamente às paredes da sala sendo 40cm para a frente e 80cm para a direita.
+Nessa nova posição, ele passou a distar 1m e 90cm da parede que antes estava à sua esquerda.
+Desprezando-se as dimensões de Marcelo, a sua atual distância à parede que, antes dos movimentos,
+estava à sua frente, é
+a) 20cm.
+b) 30cm.
+c) 40cm.
+d) 50cm.
+e) 60cm.
+
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         45
+         www.estrategiaconcursos.com.br                                                             57
+
+                                     https://t.me/KakashiAssinaturasBot
+    Equipe Exatas Estratégia Concursos
+    Aula 08
+
+
+
+
+    (FGV/CMSP/2024) Ana, Beto, Carla, Danilo e Elisa participaram de uma corrida com outros 5
+participantes. Ana chegou 4 posições atrás de Carla. Carla chegou uma posição à frente de Beto. Danilo
+chegou 4 posições atrás de Elisa e Elisa chegou 2 posições atrás de Beto.
+Ana chegou na 6ª posição.
+Nesse caso, é correto afirmar que
+a) Ana chegou atrás de Danilo.
+b) Beto chegou na 2ª posição.
+c) Carla chegou na 1ª posição.
+d) Danilo chegou na 9ª posição.
+e) Elisa chegou na 7ª posição.
+
+
+    (FGV/PMSJC/2024) Cinco pessoas, A, B, C, D, E, formaram uma fila. Sabe-se que:
+•  A tem como vizinhos D e E.
+•  Nem E nem C são vizinhos de B.
+•  D não é o 4º da fila.
+Nesse caso, é correto concluir que
+a) A é a segunda pessoa da fila.
+b) B é a última pessoa da fila.
+c) C é a terceira pessoa da fila.
+d) D é a primeira pessoa da fila.
+e) E é a quarta pessoa da fila.
+
+
+ (FGV/CMSP/2024) Um estacionamento possui uma fila de 100 vagas, uma ao lado da outra, numeradas
+de 1 a 100. Em certo momento várias vagas estão ocupadas e João chega para estacionar seu carro.
+João diz ao atendente:
+– Gostaria de uma vaga que não tivesse carro estacionado ao lado.
+O atendente verifica o mapa do estacionamento e diz:
+– Impossível atendê-lo. No momento, qualquer vaga vazia terá, pelo menos, um carro já estacionado ao
+lado.
+No mínimo, o número de vagas do estacionamento já ocupadas é
+a) 33.
+b) 34.
+c) 40.
+d) 49.
+e) 50.
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                       46
+          www.estrategiaconcursos.com.br                                                           57
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+
+  (FGV/PMSJC/2024) No parque municipal de uma cidade há exatamente 5 bebedouros identificados com
+as letras A, B, C, D e E e 8 caminhos interligando-os da seguinte forma:
+
+    •    o caminho 1 liga A e B;
+    •    o caminho 2 liga A e C;
+    •    os caminhos 3 e 4, distintos, ligam A e D;
+    •    o caminho 5 liga B e D;
+    •    o caminho 6 liga C e D;
+    •    o caminho 7 liga C e E;
+    •    o caminho 8 liga D e E.
+
+Um percurso é qualquer sequência de caminhos escolhidos entre esses 8 existentes, não importando se
+há ou não repetição de caminho. Ordenações distintas de caminhos implicam percursos distintos. Assim,
+(1 – 5) e (5 – 1) são percursos diferentes formados pelos mesmos 2 caminhos.
+O número total de percursos, formados por exatamente 3 caminhos, que começam no bebedouro B e
+terminam no bebedouro C é igual a
+a) 5.
+b) 6.
+c) 8.
+d) 9.
+e) 10.
+
+
+  (FGV/SEFAZ AM/2022) Em uma sala de reuniões há uma mesa circular com cadeiras em volta. Nessa sala
+estão Abel, Daniel e Rafael que esperam Pedro, um amigo comum. Um dos três presentes diz:
+“Vamos nos sentar de forma a deixar para Pedro apenas um lugar que não tenha um de nós como vizinho.”
+Para cumprir o que foi dito, o número máximo de cadeiras em volta dessa mesa deve ser
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+e) 10.
+
+
+  (FGV/SEFAZ ES/2022) Na espera pela abertura de um posto de saúde há uma fila com 30 pessoas, entre
+as quais Gilda e Laura.
+Sabe-se que:
+– Gilda está na frente de Laura e há três pessoas entre elas.
+– O número de pessoas que estão atrás de Gilda é o dobro do número de pessoas que estão à frente de
+Laura.
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      47
+          www.estrategiaconcursos.com.br                                                          57
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+A posição de Laura na fila é a
+a) 7ª.
+b) 8ª.
+c) 12ª.
+d) 15ª.
+e) 19ª.
+
+
+  (FGV/SEJUSP-MG/2022) Sobre uma reta, a partir de um ponto inicial, uma pessoa faz a seguinte
+sequência de movimentos: 1 passo para frente, 2 para trás, 3 para frente, 4 para trás, e assim por diante.
+O último movimento dessa pessoa foi de 29 passos para frente.
+A distância em passos que essa pessoa está do ponto inicial é
+a) 17.
+b) 14.
+c) 16.
+d) 13.
+e) 15.
+
+
+   (FGV/TRT-PB/2022) Carlos e Alberto estão em uma fila. Carlos está na frente de Alberto, mas há 3
+pessoas entre eles. Há 7 pessoas depois de Alberto e a pessoa que está imediatamente à frente de Alberto
+ocupa o centro da fila.
+O número de pessoas que estão à frente de Carlos é
+a) 4.
+b) 5.
+c) 6.
+d) 7.
+e) 8.
+
+
+   (FGV/TRT MA/2022) Cinco pessoas formam uma fila. Essa fila será modificada com a seguinte sequência
+de trocas de posição: o 2º com o 4º, o 1º com o 3º, o 2º com o 5º e o 1º com o 4º.
+A pessoa que estava no 3º lugar na fila inicial estará, na fila final, no
+a) 1º lugar.
+b) 2º lugar.
+c) 3º lugar.
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           48
+          www.estrategiaconcursos.com.br                                                               57
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+d) 4º lugar.
+e) 5º lugar.
+
+
+  (FGV/TRT MA/2022) Cinco amigos, A, B, C, D e E, marcaram um encontro em data e hora determinados,
+mas todos chegaram em horários diferentes.
+Sabe-se que
+• A chegou depois de B.
+• C chegou antes de A.
+• Quando D chegou, C já estava, mas B não.
+• Quando E chegou somente 2 amigos já haviam chegado.
+É correto concluir que
+a) A não foi o último a chegar.
+b) E chegou antes de D.
+c) C foi o 2º a chegar.
+d) D chegou depois de B.
+e) B foi o 4º a chegar.
+
+
+   (FGV/SEJUSP-MG/2022) A figura a seguir mostra 11 pontos numerados sobre uma circunferência.
+
+
+
+
+Percorrendo a circunferência no sentido anti-horário 9 desses pontos serão apagados de acordo com a
+seguinte regra: “Após um ponto ser apagado, pule dois pontos (ainda não apagados) e apague o seguinte”.
+Comece apagando o ponto de número 3 e siga a regra.
+A soma dos números dos dois últimos pontos que não foram apagados é
+a) 9.
+b) 10.
+c) 11.
+d) 12.
+e) 13.
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         49
+         www.estrategiaconcursos.com.br                                                             57
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+   (FGV/SEJUSP-MG/2022) Uma cidade possui 3 unidades prisionais chamadas de A, B e C. As distâncias
+rodoviárias em quilômetros para ir de uma das unidades (linha da matriz) a qualquer outra (coluna da
+matriz) estão na matriz abaixo. Observa-se que, entre duas unidades quaisquer, as distâncias de ida e de
+volta são diferentes pois os caminhos são diferentes.
+
+
+
+
+Um diretor pretende vistoriar as três unidades começando em uma delas e, em seguida, visitando as outras
+duas e terminando na terceira.
+A menor distância que ele poderá percorrer é de
+a) 10 km.
+b) 11 km.
+c) 12 km.
+d) 13 km.
+e) 14 km
+
+
+   (FGV/MPE GO/2022) João foi a pé de sua casa até a casa de Maria. Para isso, ele caminhou duas quadras
+para o norte (N), uma quadra para o leste (L), mais uma quadra para o norte (N) e, finalmente, duas
+quadras para oeste (O). O caminho percorrido por João pode ser representado por: NNLNOO.
+João voltou para casa percorrendo o mesmo caminho em sentido contrário.
+Usando o mesmo tipo de representação (use S para representar sul, se necessário), o caminho de volta
+para casa de João é representado por
+a) SSOSLL.
+b) OONLNN.
+c) OOSLSS.
+d) LLNLNN.
+e) LLSOSS.
+
+
+   (FGV/PM AM/2022) Uma fila para vacinação se formou no posto de saúde e nela estão Sílvio e Mário.
+A fila tem 42 pessoas, Sílvio está na frente de Mario e há 4 pessoas entre eles. Sabe-se que o número de
+pessoas que estão atrás de Mário é o dobro do número de pessoas que estão à frente de Sílvio.
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           50
+        www.estrategiaconcursos.com.br                                                               57
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+O lugar que Mário ocupa na fila é o:
+a) 13º.
+b) 16º.
+c) 17º.
+d) 18º.
+e) 19º.
+
+
+    (FGV/MPE GO/2022) Renata, Sara e Tânia estão, nessa ordem, em uma fila. Sabe-se que há 10 pessoas
+na frente de Renata, 8 pessoas entre Renata e Sara e 7 pessoas depois de Tânia. Sabe-se ainda que Sara
+está no centro da fila.
+O lugar que Tânia ocupa nessa fila é o
+a) 30º.
+b) 31º.
+c) 32º.
+d) 33º.
+e) 34º.
+
+
+   (FGV/MPE GO/2022) Cinco amigas, Ana, Bia, Carol, Deise e Elisa, foram ao cinema e sentaram-se em
+cinco cadeiras consecutivas.
+Passados 5 minutos, Ana trocou de lugar com Deise e Carol trocou de lugar com Elisa.
+Passados mais 5 minutos, Bia trocou de lugar com Ana e Deise trocou de lugar com Elisa.
+Após essas trocas, a ordem delas era: Ana, Elisa, Bia, Carol e Deise (AEBCD).
+Representando cada uma delas pela letra inicial do respectivo nome, a ordem inicial em que elas estavam
+sentadas foi
+a) BCAED.
+b) DCBEA.
+c) DAEBC.
+d) EABDC.
+e) BADEC.
+
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        51
+          www.estrategiaconcursos.com.br                                                            57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+    (FGV/FunSaúde CE/2021) As pessoas A, B, C, D, E, F estão sentadas em volta da mesa hexagonal abaixo.
+
+
+
+
+Sabe-se que:
+• B tem F à sua esquerda.
+• C não é oposto a F e tem A à sua direita.
+• D e A são opostos.
+É correto afirmar que:
+a) C e D são opostos.
+b) E está à esquerda de C.
+c) B está à direita de D.
+d) F e D são vizinhos.
+e) A está à esquerda de E.
+
+
+   (FGV/PM CE/2021) Um fazendeiro plantou ao longo de uma das margens da estrada reta, que vai do
+portão de sua fazenda até a sua casa, vários coqueiros.
+Os coqueiros foram plantados em grupos de 6 coqueiros igualmente espaçados. A distância do portão ao
+primeiro coqueiro é de 10 metros e a distância entre o sexto coqueiro de um grupo e o primeiro coqueiro
+do grupo seguinte é o dobro da distância entre coqueiros consecutivos de um mesmo grupo.
+A distância do portão da fazenda ao quarto coqueiro é de 28 metros.
+A distância do terceiro ao décimo coqueiro, em metros, é
+a) 48.
+b) 49.
+c) 54.
+d) 56.
+e) 60.
+
+
+   (FGV/Pref. Salvador/2019) Suponha que você, a partir de um ponto inicial, desloque-se 3 metros para
+o norte; a seguir, 4 metros para o oeste; e, finalmente, 5 metros para o sul.
+Em relação ao ponto inicial, sua posição final está
+a) 4 metros a oeste e 2 metros ao sul.
+b) 3 metros a oeste e 3 metros ao sul.
+
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          52
+         www.estrategiaconcursos.com.br                                                              57
+
+                                     https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+c) 2 metros a leste e 3 metros ao sul.
+d) 4 metros a leste e 2 metros ao sul.
+e) 3 metros a leste e 3 metros ao norte.
+
+
+   (FGV/Pref. Salvador/2019) Sílvio, Robson e Túlio estão em uma fila, nessa ordem, ou seja, Robson está
+atrás de Sílvio e Túlio está atrás de Robson.
+Sabe-se que:
+• Robson está no meio da fila, ou seja, há tantas pessoas na frente dele como atrás dele.
+• Há 7 pessoas entre Sílvio e Robson.
+• Há 10 pessoas entre Robson e Túlio.
+• Sílvio é o 12º da fila.
+Nessa fila, o número de pessoas atrás de Túlio é
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+e) 10.
+
+
+    (FGV/Pref. Salvador/2019) Em uma fila de 8 soldados, Pedro é o 5º dessa fila. O sargento modificou a
+fila colocando, entre cada dois soldados consecutivos, um novo soldado. Essa segunda fila foi ainda
+modificada, pois o sargento colocou, entre cada dois soldados consecutivos, um novo soldado.
+A posição de Pedro na terceira fila é
+a) 14º.
+b) 15º.
+c) 16º.
+d) 17º.
+e) 18º.
+
+
+    (FGV/Pref. Salvador/2019) A figura abaixo mostra, à esquerda, uma malha triangular onde cada
+triângulo tem lado de 1 unidade de comprimento e onde um ponto A está assinalado. À direita, as letras
+M, N, P, Q, R e S mostram direções e sentido de 6 movimentos possíveis, cada um de 1 unidade.
+
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         53
+          www.estrategiaconcursos.com.br                                                             57
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+
+
+
+A partir do ponto A foi feita a seguinte sequência de movimentos: MNNMPQQ, chegando-se ao ponto B.
+A sequência de movimentos que, partindo de B chega-se ao ponto A, é
+a) RRR.
+b) RSR.
+                                                         ==219a34==
+
+
+
+
+c) SSS.
+d) SSR.
+e) RSS.
+
+
+   (FGV/Pref. Angra/2019) As crianças Ana, Bia, Célia, Dulce e Ester formam, nessa ordem, uma fila. Ana
+é a primeira e Ester é a última.
+Três alterações em sequência foram feitas na fila:
+• Ana saiu de seu lugar e ficou entre Célia e Dulce.
+• Bia e Dulce trocaram de lugar.
+• Ester saiu do seu lugar e ficou entre Ana e Célia.
+Depois dessas alterações é correto afirmar que
+a) Célia é a 3ª da fila.
+b) Bia está imediatamente à frente de Ester.
+c) Dulce é a última da fila.
+d) Ester está imediatamente atrás de Ana.
+e) Ana é a 4ª da fila.
+
+
+   (FGV/Pref. Angra/2019) As pessoas A, B, C, D, E e F estão sentadas em volta de uma mesa hexagonal
+regular, como a figura a seguir.
+
+
+
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        54
+          www.estrategiaconcursos.com.br                                                            57
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+
+
+
+Sabe-se que:
+• E está ao lado de A.
+• B está imediatamente à esquerda de D e tem C à sua frente.
+• F não está oposto a A.
+É correto concluir que
+a) D está imediatamente à direita de F.
+b) E está oposto a D.
+c) B está imediatamente à esquerda de E.
+d) A e D são vizinhos.
+e) F está oposto a E.
+
+
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático   55
+        www.estrategiaconcursos.com.br                                       57
+
+                                    https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 08
+
+
+
+
+                                        GABARITO – FGV
+
+Orientação espacial
+
+ LETRA B
+ LETRA A
+ LETRA C
+ LETRA E
+ LETRA B
+ LETRA A
+ LETRA E
+ LETRA C
+ LETRA E
+  LETRA B
+  LETRA D
+  LETRA E
+  LETRA A
+  LETRA B
+  LETRA E
+  LETRA D
+  LETRA C
+  LETRA E
+  LETRA B
+  LETRA A
+  LETRA A
+  LETRA C
+  LETRA D
+  LETRA B
+  LETRA E
+  LETRA E
+
+
+
+
+       Receita Federal (Analista Tributário) Raciocínio Lógico Matemático   56
+       www.estrategiaconcursos.com.br                                       57
+
+                                   https://t.me/KakashiAssinaturasBot
+

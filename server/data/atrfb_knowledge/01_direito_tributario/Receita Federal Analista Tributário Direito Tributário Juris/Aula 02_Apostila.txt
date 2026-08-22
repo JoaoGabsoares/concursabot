@@ -1,0 +1,2209 @@
+                                                      Aula 01
+                          Receita Federal (Analista Tributário)
+                               Direito Tributário Jurisprudencial
+
+
+
+
+                                                           Autor:
+                                                    Fábio Dutra
+
+
+
+
+                                               06 de Maio de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Fábio Dutra
+      Aula 01
+
+
+
+
+                                                                                     Índice
+1) Princípios Tributários - Teoria
+..............................................................................................................................................................................................3
+
+2) DTJ - Princípios Constitucionais Tributários - Súmulas Abordadas Na Aula
+..............................................................................................................................................................................................
+                                                                                                                                                                                            28
+
+3) Questões Comentadas - Princípios Tributários
+..............................................................................................................................................................................................
+                                                                                                                                                                                            29
+
+4) Lista de Questões - Princípios Tributários
+..............................................................................................................................................................................................
+                                                                                                                                                                                            37
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                           43
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+    LIMITAÇÕES CONSTITUCIONAIS AO PODER DE
+                  TRIBUTAR
+Dando início ao nosso primeiro tópico, vamos falar um pouco sobre as limitações constitucionais ao poder
+de tributar.
+
+     “(...) 2. A Emenda Constitucional n. 3, de 17.03.1993, que, no art. 2., autorizou a União a instituir
+     o I.P.M.F., incidiu em vício de inconstitucionalidade, ao dispor, no parágrafo 2. desse dispositivo,
+     que, quanto a tal tributo, não se aplica "o art. 150, III, b e VI", da Constituição, porque, desse
+     modo, violou os seguintes princípios e normas imutáveis (somente eles, não outros): 1. - o
+     princípio da anterioridade, que e garantia individual do contribuinte (art. 5., par.2., art. 60,
+     par.4., inciso IV e art. 150, III, b da Constituição); 2. - o princípio da imunidade tributária
+     reciproca (que veda a União, aos Estados, ao Distrito Federal e aos Municípios a instituição de
+     impostos sobre o patrimônio, rendas ou serviços uns dos outros) e que e garantia da Federação
+     (art. 60, par.4., inciso I,e art. 150, VI, a, da C.F.);
+
+     (STF, Pleno, ADI 939/DF, Rel. Min. Sydney Sanches, 14/12/1993)
+
+Perceba que neste julgado o STF considerou como cláusula pétrea o princípio da anterioridade e a imunidade
+tributária recíproca. Ambos assuntos serão abordados com maior profundidade em tópico específico e na
+próxima aula, respectivamente. Por hora, é necessário que o candidato saiba da existência dessas cláusulas
+pétreas.
+
+
+
+
+O que são cláusulas pétreas?
+
+São limitações ao poder de reforma da Constituição Federal, ou seja, são regras imutáveis pela via da emenda
+constitucional. Em nosso art. 60, § 4º, da CF/88, o legislador constituinte estabeleceu que não será objeto
+de deliberação a proposta de emenda tendente a abolir, dentre outros, os direitos e garantias individuais.
+Assim sendo, tudo o que for considerado direito e garantia individual não pode ser abolido por emenda
+constitucional.
+
+Com efeito, sendo o princípio da anterioridade considerado garantia individual do contribuinte, não pode
+uma emenda constitucional criar regra que tendente a abolir a aplicabilidade do referido princípio.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             3
+        www.estrategiaconcursos.com.br                                                                       43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+                      PRINCÍPIOS CONSTITUCIONAIS
+Estudaremos, a partir de agora, os princípios constitucionais.
+
+
+Princípio da Legalidade
+
+No que se refere ao princípio da legalidade, é sabido que, quando se trata de tributo, há que se respeitar a
+estrita legalidade para sua instituição ou modificação. Isso quer dizer que se exige a edição de uma lei formal,
+tramitada no âmbito do Poder Legislativo.
+
+Com base nisso, as bancas gostam de cobrar os temas mais polêmicos, como as medidas provisórias. Por
+esse motivo, vejamos os julgados a seguir para saber tudo o que é necessário pra prova!
+
+Com a Emenda Constitucional de n° 32/2001, tivemos a expressa disposição sobre instituição ou majoração
+de impostos por meio de medidas provisórias. Contudo, há que se destacar que tal possibilidade (instituir ou
+modificar tributos) já havia sido prevista pelo STF antes mesmo da edição da referida EC, conforme vemos a
+seguir:
+
+“EMENTA: Recurso extraordinário. 2. Medida provisória. Força de lei. 3. A Medida Provisória, tendo
+força de lei, é instrumento idôneo para instituir e modificar tributos e contribuições sociais.
+Precedentes. 4. Agravo regimental a que se nega provimento.”
+
+(STF, 2ª T., AgR no AI 236.976/MG, Rel. Min. Néri da Silva, j. em 17/08/1999, DJ de 24/09/1999).
+
+No mesmo sentido, temos o seguinte:
+
+EMENTA: Agravo regimental em recurso extraordinário. 2. Aumento de alíquota da contribuição social
+sobre o lucro - CSLL. Medida provisória nº 1.807/99. Possibilidade. 3. Agravo regimental que se nega
+provimento.
+
+(STF, 2ª T., AgR no RE 422.795/CE, Rel. Min. Gilmar Mendes, j. em 30/09/2008, DJe de 21/11/2008)
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com o entendimento do Supremo Tribunal Federal, o Chefe do Poder Executivo pode se valer de
+medidas provisórias para instituição ou aumento de tributos, desde que obedecidos os requisitos
+constitucionais, pertinentes a tais atos normativos.
+
+Comentário: Vimos que a jurisprudência do STF é pacífica nesse sentido. Portanto, há a possibilidade de
+instituir ou majorar tributos por meio de medidas provisórias.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             4
+        www.estrategiaconcursos.com.br                                                                       43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Gabarito: Correta
+
+Ainda sobre as medidas provisórias, vejamos como tem sido tratado o conceito de relevância e urgência
+(requisito constitucional para edição das MPs):
+
+EMENTA: - Ação Direta de Inconstitucionalidade. Medida Provisória nº 111/89. Prisão Temporária.
+Pedido de liminar. - Os conceitos de relevância e de urgência a que se refere o artigo 62 da
+Constituição, como pressupostos para a edição de Medidas Provisórias, decorrem, em princípio, do
+Juízo discricionário de oportunidade e de valor do Presidente da República, mas admitem o controle
+judiciário quando ao excesso do poder de legislar, o que, no caso, não se evidencia de pronto. (...)
+
+(STF, Pleno, Medida Cautelar na ADI 162/DF, Rel. Min. Moreira Alves, j. em 14/12/1989, DJ de
+19/09/1997).
+
+Veja também:
+
+EMENTA: CONSTITUCIONAL. MEDIDA PROVISÓRIA: REEDIÇÃO: POSSIBILIDADE. REQUISITOS DE
+RELEVÂNCIA E URGÊNCIA. PREVIDENCIÁRIO: CONTRIBUIÇÃO DOS SERVIDORES PÚBLICOS AO PSSSP.
+MEDIDA PROVISÓRIA nº 560, de 26.7.94. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL: C.F., art. 195,
+§ 6º. I. - Reedição de medida provisória não rejeitada expressamente pelo Congresso Nacional:
+possibilidade. Precedentes do STF: ADIns 295-DF, 1.397-DF, 1.516-RO, 1.610-DF, 1.135-DF. II. -
+Requisitos de relevância e urgência: caráter político: em princípio, a sua apreciação fica por conta do
+Chefe do Executivo e do Congresso Nacional. Todavia, se uma ou outra, relevância ou urgência,
+evidenciar-se improcedente, no controle judicial, o Tribunal deverá decidir pela ilegitimidade
+constitucional da medida provisória. Precedente: ADIn 162-DF (medida liminar), Moreira Alves,
+Plenário, 14.12.89; ADIn 1.397-DF, Velloso. RDA 210/294. III. (...).
+
+(STF, 2ª T., RE 217.162/DF, Rel. Min. Carlos Velloso, j. em 14/12/1998, DJ de 26/02/1999)
+
+
+
+Vejamos como esse assunto poderia ser tratado pelas bancas examinadoras:
+
+
+
+
+QUESTÃO INÉDITA
+Os requisitos constitucionais de urgência e relevância, no que se refere à edição de medidas provisórias, não
+pode, de forma alguma, ser apurado no âmbito do Poder Judiciário, pois possuem caráter político.
+
+Comentário: Como vimos acima, apesar de terem realmente caráter político, os requisitos de urgência e
+relevância podem ser apurados pelo Poder Judiciário, na hipótese de evidente excesso de poder de legislar,
+por parte do Presidente da República.
+
+Gabarito: Errada
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           5
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Além das medidas provisórias, o Plenário do STF (RE 632265 AgR-ED/RJ) também decidiu que somente lei
+em sentido formal pode instituir o regime de recolhimento do ICMS por estimativa. Dessa forma, foi
+declarada a inconstitucionalidade dos decretos estaduais do Estado do Rio de Janeiro que dispõem sobre o
+pagamento do ICMS no âmbito do referido Estado-Membro.
+
+De acordo com o Informativo 790, no caso, discutia-se a possibilidade de se disciplinar, mediante decreto,
+forma de recolhimento de tributo diferentemente do que prevista na LC 87/1996. A Corte afirmou que,
+apesar de o fato gerador do ICMS acontecer no momento da saída do estabelecimento, a circunstância de
+ser um imposto não-cumulativo (CF, art. 155, § 2º, I) impediria a cobrança após cada operação, salvo
+excepcionalmente, conforme estatuído na LC 87/1996.
+
+Dada a relevância desta jurisprudência, transcreve-se abaixo o trecho da respectiva ementa:
+
+(...) RECURSO EXTRAORDINÁRIO – TRIBUTO – FORMA DE CÁLCULO – PRINCÍPIO DA LEGALIDADE –
+INOBSERVÂNCIA – AUDIÇÃO DA PROCURADORIA GERAL DA REPÚBLICA. Envolvido, no recurso
+extraordinário, o princípio da legalidade tributária, no que, mediante decreto, veio a ser disciplinada
+forma de recolhimento de tributo diferente da prevista em lei complementar – artigo 26 da Lei
+Complementar nº 87/96 –, cumpre aparelhar o processo para o crivo respectivo.
+
+(STF, Plenário, RE 632265 AgR-ED/RJ, Rel. Min. Marco Aurélio, Julgamento em 30/10/2012)
+
+Acrescentamos também que as bancas de concurso público, cobram também as exceções ao princípio da
+legalidade, de acordo com a jurisprudência da Suprema Corte. Veja:
+
+EMENTA: TRIBUTÁRIO. ICMS. MINAS GERAIS. DECRETOS N.ºS 30.087/89 E 32.535/91, QUE
+ANTECIPARAM O DIA DE RECOLHIMENTO DO TRIBUTO E DETERMINARAM A INCIDÊNCIA DE CORREÇÃO
+MONETÁRIA A PARTIR DE ENTÃO. ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE, DA
+ANTERIORIDADE E DA NÃO-CUMULATIVIDADE. Improcedência da alegação, tendo em vista não se
+encontrar sob o princípio da legalidade estrita e da anterioridade a fixação do vencimento da
+obrigação tributária; já se havendo assentado no STF, de outra parte, o entendimento de que a
+atualização monetária do débito de ICMS vencido não afronta o princípio da não-cumulatividade (RE
+172.394). Recurso não conhecido.
+
+(STF, 1ª T., RE 195.218/MG, Rel. Min. Ilmar Galvão, j. em 28/05/2002, DJ de 02/08/2002)
+
+
+
+
+A alteração do prazo de recolhimento do tributo pode ser feita por ato infralegal, sem ofensa ao princípio da
+legalidade!
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           6
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+A atualização do valor monetário da base de cálculo foi expressamente dispensada do princípio da
+legalidade pelo § 2° do art. 97 do CTN. Com a EC 132/2023 (Reforma Tributária), tal previsão passou a
+constar na CF/88:
+
+        Art.156.
+
+        (...)
+
+        §1º
+
+        (...)
+
+        III – ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios
+        estabelecidos em lei municipal.
+
+Nesse sentido, o STJ sumulou o seguinte entendimento:
+
+Súmula STJ 160 – É defeso, ao Município, atualizar o IPTU, mediante decreto, em percentual superior
+ao índice oficial de correção monetária.
+
+Satisfeitos tais requisitos, é possível, de acordo com o STF, complementar os conceitos abertos utilizados
+pelo legislador. Por exemplo, definiram-se por meio de atos normativos infralegais os conceitos de
+atividades preponderantes e grau de risco leve, médio e grave, que foram previstos na Lei 8212/91, e que se
+refere à contribuição para custear o SAT.
+
+EMENTA: - CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO: SEGURO DE ACIDENTE DO TRABALHO -
+SAT. (...) O fato de a lei deixar para o regulamento a complementação dos conceitos de atividade
+preponderante e grau de risco leve, médio e grave, não implica ofensa ao princípio da legalidade
+genérica, C.F., art. 5º, II, e da legalidade tributária, C.F., art. 150, I. IV. (...).
+
+(STF, Pleno, RE 343.446/SC, Rel. Min. Carlos Velloso, j. em 20/03/2003, DJ de 04/04/2003)
+
+Na mesma linha, é interessante estudarmos o caso julgado no âmbito do Recurso Extraordinário 838.284/SC.
+No caso concreto, discutiu-se a fixação do valor de uma taxa de polícia (Anotação de Responsabilidade
+Técnica – ART) por meio de ato infralegal, sendo que a norma legal definiu apenas os limites máximos para
+cobrança.
+
+Observação: A Anotação de Responsabilidade Técnica (ART) é um instrumento que visa identificar
+a responsabilidade técnica pelas obras ou serviços prestados por profissionais ou empresas, nos
+contratos de execução de serviços ou obras de engenharia, agronomia, geologia, geografia ou
+meteorologia, sendo efetuada no conselho regional de engenharia e agronomia – CREA. Neste caso,
+é cobrada uma taxa pelo CREA.
+
+Entendendo que o montante cobrado a título de taxas, diferentemente do que acontece com impostos, não
+pode variar senão em função do custo da atividade estatal, o STF decidiu que a Administração, por esta
+exercer diretamente a atividade ensejadora da taxa, tem maiores condições de estipular o custo dessa
+atividade e, por conseguinte, definir o valor da taxa a ser cobrada em cada caso.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         7
+        www.estrategiaconcursos.com.br                                                                  43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Evidentemente, o valor definido não fica ao completo arbítrio da Administração, devendo o legislador
+estabelecer um limite máximo para cobrança das taxas.
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com o STF, não é possível que ato infralegal fixe o valor de uma taxa, ainda que haja norma legal
+fixando limite máximo para cobrança da exação.
+
+Comentário: O que o STF decidiu é justamente o oposto, ou seja, é possível que ato infralegal fixe o valor de
+uma taxa, desde que haja norma legal fixando limite máximo para cobrança da exação.
+
+Gabarito: Errada
+
+
+Princípio da Isonomia
+
+Esse é um dos princípios mais fartos de jurisprudência, no estudo do Direito Tributário. Prestemos, pois, total
+atenção no que virá a seguir.
+
+Em primeiro lugar, é importante sabermos que, embora o art. 145, § 1°, da CF/88, mencione expressamente
+apenas a submissão dos impostos ao princípio da capacidade contributiva, o STF entende que tal postulado
+é extensível a outras espécies tributárias, obedecendo, claro, as singularidades de cada uma delas.
+
+Nesse sentido, temos:
+
+“IPVA. Progressividade. Todos os tributos submetem-se ao princípio da capacidade contributiva
+(precedentes), ao menos em relação a um de seus três aspectos (objetivo, subjetivo e proporcional),
+independentemente de classificação extraída de critérios puramente econômicos.”
+
+(STF, RE 406.955-AgR, Rel. Min. Joaquim Barbosa, julgamento em 4-10-2011, Segunda Turma, DJE de
+21-10-2011)
+
+
+
+
+Na hora da prova, tenha muito cuidado com assertivas literais em relação ao princípio da capacidade
+contributiva (art. 145, § 1º). SEMPRE leia as demais alternativas (se houver) antes de tomar a decisão.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             8
+        www.estrategiaconcursos.com.br                                                                      43
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 01
+
+
+
+Destaque-se que, apesar de todos os tributos se submeterem ao princípio da capacidade contributiva, isso
+ocorre de maneira distinta.
+
+Sabemos que a capacidade contributiva é aferida de várias formas, adequando-se aos diversos impostos,
+bem como aos demais tributos, aos quais se aplica o subprincípio. Uma das formas de se tributar com base
+na capacidade contributiva é a progressividade. A progressividade ocorre quando a incidência tributária é
+mais gravosa sobre aqueles que possuem maior capacidade contributiva. É o que ocorre com o Imposto de
+Renda, em que as pessoas que auferem maiores rendas contribuem com alíquotas maiores.
+
+A respeito desse assunto, o STF entendia que a progressividade somente seria aplicável aos impostos
+pessoais, já que os impostos reais não consideram as características pessoais dos contribuintes. Em relação
+a estes, a progressividade somente seria possível se houvesse norma constitucional dispondo neste
+sentido, como atualmente ocorre com o IPTU (imposto municipal) e com o ITR (imposto federal).
+
+Como prova disso, veja o que diz a súmula 656 de lavra do STF:
+
+SÚMULA STF 656 – É inconstitucional a lei que estabelece alíquotas progressivas para o imposto de
+transmissão inter vivos de bens imóveis – ITBI com base no valor venal do imóvel.
+
+Da redação da súmula, em conjunto com o entendimento que tem sido demonstrado pelo STF, percebemos
+que a Corte não admite a progressividade de alíquotas para os impostos reais, salvo quando houver
+expressa permissão do texto constitucional.  Para o STF, não é possível graduar impostos reais segundo
+a capacidade contributiva do contribuinte.
+
+Nesse contexto, o Supremo considera inconstitucional o seguinte:
+
+SÚMULA STF 668 – É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda
+Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o
+cumprimento da função social da propriedade urbana.
+
+Contudo, em 2013, o STF demonstrou estar alterando seu entendimento, ao julgar o RE 562.045,
+relativamente à progressividade das alíquotas do ITCMD, típico imposto real. Vejamos:
+
+“EMENTA: RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. LEI ESTADUAL:
+PROGRESSIVIDADE DE ALÍQUOTA DE IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO DE
+BENS E DIREITOS. CONSTITUCIONALIDADE. ART. 145, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA.
+PRINCÍPIO DA IGUALDADE MATERIAL TRIBUTÁRIA. OBSERVÂNCIA DA CAPACIDADE CONTRIBUTIVA.
+RECURSO EXTRAORDINÁRIO PROVIDO.”.
+
+(...)
+
+Transcrição parcial do voto da Min. Ellen Gracie:
+
+“Por revelar efetiva e atual capacidade contributiva inerente ao acréscimo patrimonial, o imposto
+sobre transmissão “causa mortis”, também conhecido como imposto sobre heranças ou sobre a
+sucessão, é um imposto que bem se vocaciona à tributação progressiva.”
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        9
+         www.estrategiaconcursos.com.br                                                                 43
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+(STF, RE 562.045/RS, Rel. Min. Ricardo Lewandowski, julgado em 06/02/2013, publicado em
+27/11/2013)
+
+Com a publicação da Emenda Constitucional 132/2023 (Reforma Tributária), a CF passou a exigir que o
+ITCMD seja progressivo. Senão, vejamos:
+
+        Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre: (Redação dada
+        pela Emenda Constitucional nº 3, de 1993)
+
+        I - transmissão causa mortis e doação, de quaisquer bens ou direitos;(Redação dada pela
+        Emenda Constitucional nº 3, de 1993)
+
+        (...)
+
+        § 1º O imposto previsto no inciso I: (Redação dada pela Emenda Constitucional nº 3, de
+        1993)
+
+        (...)
+
+        VI - será progressivo em razão do valor do quinhão, do legado ou da doação; (Incluído
+        pela Emenda Constitucional nº 132, de 2023)
+
+O posicionamento acima do STF continua sendo relevante, para entendermos que a Suprema Corte tem a
+sua jurisprudência seguindo essa linha.
+
+Ainda sobre a progressividade das alíquotas dos tributos, em 2016, o STF caminhou ainda mais em direção à
+progressividade das alíquotas no momento em que, ao julgar as ADIs 4697/DF e 4762/DF, foi observado pelo
+relator Min. Edson Fachin, que a progressividade deve incidir sobre todas as espécies tributárias, à luz da
+capacidade contributiva do contribuinte. De acordo com o eminente ministro, a progressividade e a
+capacidade contributiva são os fundamentos normativos do Sistema Tributário Nacional.
+
+E a jurisprudência não para por aqui! Precisamos comentar ainda o caso do ITR, que é um imposto
+semelhante ao IPTU, porém incidente sobre os imóveis rurais.
+
+A Lei 9.393/1996, que instituiu o referido imposto, estabeleceu alíquotas progressivas, considerando a área
+do imóvel e o seu grau de utilização. Ocorre que a redação original da CF/88 só estabelecia que o ITR deveria
+ter suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas, não fazendo
+qualquer referência à progressividade com base na área do imóvel, o que seria uma clara tentativa de tentar
+graduar o imposto com base na capacidade contributiva. A progressividade expressa para o ITR só foi prevista
+no texto constitucional com a EC 42/03.
+
+O STF, ao julgar o RE 1.038.357 AgR/SP, decidiu pela constitucionalidade da Lei 9.393/96, mesmo se
+considerada a redação originária da CF/88, sustentando a irrelevância da classificação do imposto como
+pessoal ou real para ser progressivo.
+
+Em suma, como comentamos, a despeito da evolução no entendimento da Suprema Corte, as súmulas
+continuam em vigor, de modo que, recomendamos considerá-las corretas, caso sejam cobradas em prova.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          10
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 01
+
+
+
+Por outro lado, se a mencionar o caso específico do ITCMD do ITR ou mencionar que a progressividade
+alcança outras espécies tributárias, também está correta.
+
+
+
+
+→ Súmulas 656 e 668 – que impedem a progressividade do ITBI e do IPTU (progressividade fiscal antes da
+EC 29/00) – ainda estão válidas e devem ser consideradas corretas.
+
+➔ O ITCMD será progressivo (EC 132/2023);
+➔ O ITR pode ser progressivo;
+➔ A progressividade pode ser utilizada em todas as espécies tributárias.
+
+
+De acordo com o eminente ministro, a progressividade e a capacidade contributiva são os fundamentos
+normativos do Sistema Tributário Nacional.
+
+“EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO
+SOBRE A PROPRIEDADE IMÓVEL TERRITORIAL E URBANA. IPTU. PROGRESSIVIDADE. ALÍQUOTA ÚNICA.
+VARIAÇÃO DA BASE DE CÁLCULO CONFORME A ESSENCIALIDADE OU A FRIVOLIDADE DO BEM (TIPOS
+DE IMÓVEL PRECÁRIO, POPULAR, MÉDIO, FINO E LUXO). ÍNDICE PRÓPRIO PARA MENSURAR A
+CAPACIDADE CONTRIBUTIVA E DAR DIMENSÃO EXTRAFISCAL À EXAÇÃO. UTILIZAÇÃO ANTES DA EC
+29/2000. IMPOSSIBILIDADE
+
+(...)
+
+O efeito extrafiscal ou a calibração do valor do tributo de acordo com a capacidade contributiva não
+são obtidos apenas pela modulação da alíquota. O escalonamento da base de cálculo pode ter o
+mesmo efeito. 3. Ao associar o tipo de construção (precário, popular, médio, fino e luxo) ao
+escalonamento crescente da avaliação do valor venal do imóvel, a Lei 3.326/1996 do Município de
+Campo Grande passou a graduar o valor do tributo de acordo com índice hábil à mensuração da
+frivolidade ou da essencialidade do bem, além de lhe conferir mais matizes para definição da
+capacidade contributiva. Impossibilidade, nos termos do texto constitucional anterior à inovação
+trazida pela EC 29/2000. Agravo regimental ao qual se nega provimento.”
+
+(STF, AI 583.636-AgR/MS, Rel. Min. Joaquim Barbosa, 06/04/2010)
+
+Em síntese, o escalonamento da base de cálculo é capaz também de gerar o efeito extrafiscal do tributo ou
+calibrar este de acordo com a capacidade contributiva.
+
+Além disso, ressalte-se que associar o tipo de construção ao escalonamento crescente do valor venal do
+imóvel significa conferir progressividade fiscal ao IPTU, sendo esta vedada antes da EC 29/2000 (Súmula
+668 do STF). No mesmo sentido, temos o AI 498.249-AgR, que não vamos citá-lo para não tornar a aula
+prolixa.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                      11
+         www.estrategiaconcursos.com.br                                                                43
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+A capacidade contributiva pode ser mensurada não só pela aplicação de diferentes alíquotas, mas também
+pelo escalonamento da base de cálculo.
+
+Ainda temos muitas outras jurisprudências relevantes para fins de concurso público, como as que vamos
+estudar a partir de agora!
+
+“EMENTA : - Isenção de IPTU, em razão da qualidade de servidor estadual do Agravante, postulada
+em desrespeito da proibição contida no art. 150, II, da Constituição Federal de 1988.”
+
+(STF, AI 157.871-AgR/RJ, Rel. Min. Octabio Gallotti, 15/09/1995)
+
+Com base no entendimento do STF, fere o princípio da isonomia a discriminação com base na função ou
+ocupação exercida.
+
+Outro tema que já foi cobrado em provas de concursos públicos é a exclusão de determinadas empresas do
+regime diferenciado e favorecido do Simples Nacional. Vamos ver o que é o Simples Nacional?
+
+Vejamos inicialmente o que estabelece o art. 179, da CF/88:
+
+Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas
+de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela
+simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação
+ou redução destas por meio de lei.
+
+Com base na norma constitucional, em 1996 foi editada a Lei 9.317/96, instituindo o Sistema Integrado de
+Pagamento de Impostos e Contribuições das microempresas e empresas de pequeno porte (SIMPLES),
+conferindo tratamento diferenciado, simplificado e favorecido às ME e EPP. Contudo, nem todos os micro e
+pequenos empresários estavam aptos a ingressarem no SIMPLES, haja vista a vedação do art. 9º, XIII, desta
+norma, impedindo as empresas de profissionais liberais (corretores, médicos, dentistas, veterinários,
+engenheiros etc.) de optarem pelo regime diferenciado.
+
+Esse foi o motivo pelo qual a Confederação Nacional das Profissões Liberais ajuizou ADI perante o STF, com
+base na justificativa de que a exclusão dessas empresas estaria ofendendo o princípio da isonomia. Da
+ementa do julgamento, podemos extrair o seguinte trecho:
+
+EMENTA: ACÃO DIRETA DE INCONSTITUCIONALIDADE. SISTEMA INTEGRADO DE PAGAMENTO DE
+IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE.
+CONFEDERAÇÃO NACIONAL DAS PROFISSÕES LIBERAIS. PERTINÊNCIA TEMÁTICA. LEGITIMIDADE ATIVA.
+PESSOAS JURÍDICAS IMPEDIDAS DE OPTAR PELO REGIME. CONSTITUCIONALIDADE. (...). 4. Não há
+ofensa ao princípio da isonomia tributária se a lei, por motivos extrafiscais, imprime tratamento
+desigual a microempresas e empresas de pequeno porte de capacidade contributiva distinta,
+afastando do regime do SIMPLES aquelas cujos sócios têm condição de disputar o mercado de
+trabalho sem assistência do Estado. Ação direta de inconstitucionalidade julgada improcedente.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             12
+        www.estrategiaconcursos.com.br                                                                       43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+(STF, Pleno, ADI 1.643/UF, Rel. Min. Maurício Corrêa, j. em 05/12/2002, DJ de 14/03/2003).
+
+O STF se manifestou no sentido de que tais profissionais têm condições de disputar o mercado de trabalho
+sem assistência do Estado, isto é, sem gozarem de tratamento favorecido, como as demais empresas. São
+profissionais com preparo científico, técnico e profissional, não sofrendo impacto causado pelas grandes
+empresas, tal como ocorre com um pequeno supermercado, por exemplo.
+
+
+
+
+A Lei 9.317/96 foi revogada pela Lei Complementar 123/2006!
+
+Com o advento da EC 42/03, incluindo a alínea “d” ao inciso III, do caput do art. 146, da CF/88, passou a ser
+exigido lei complementar para dispor sobre o tratamento diferenciado e favorecido às ME e EPP. O objetivo
+foi estabelecer que uma lei complementar nacional dispusesse sobre as normas gerais a respeito desse tema,
+visando conferir uniformidade ao tratamento diferenciado.
+
+Com isso, em 1º de Julho de 2007, ocorreu a revogação da Lei 9.317/96 pela LC 123/2006, instituindo o
+Simples Nacional. Esta lei complementar continuou excluindo os profissionais liberais da sistemática desse
+regime tributário diferenciado, com base no seu art. 17, XI.
+
+Foi apenas com a edição da LC 147/2014, responsável por diversas alterações na LC 123/2006, que ocorreu
+a efetiva revogação do inciso XI, de forma que atualmente os profissionais liberais passaram a poder optar
+pelo Simples Nacional.
+
+De qualquer modo, a jurisprudência acima pode vir a ser cobrada na sua prova, ao tratar do princípio da
+isonomia. Evidentemente, se a questão estiver versando sobre o Simples Nacional, sua resposta se pautará
+na mais recente alteração, que permite a opção de tais empresas pelo Simples Nacional.
+
+Sobre os incentivos fiscais, temos que:
+
+Ementa: Ao instituir incentivos fiscais a empresas que contratam empregados com mais de quarenta
+anos, a Assembléia Legislativa Paulista usou o caráter extrafiscal que pode ser conferido aos tributos,
+para estimular conduta por parte do contribuinte, sem violar os princípios da igualdade e da isonomia.
+
+(STF, ADI 1.276, Rel. Min. Ellen Gracie, 28/08/2002)
+
+Vejamos outra mais uma jurisprudência já cobrada em provas de concurso público sobre o princípio da
+isonomia:
+
+EMENTA: PROCESSO CIVIL. MEDIDA CAUTELAR. EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO.
+INSTITUIÇÃO FINANCEIRA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A FOLHA DE SALÁRIOS. ADICIONAL.
+§ 1º DO ART. 22 DA LEI Nº 8.212/91. A sobrecarga imposta aos bancos comerciais e às entidades
+financeiras, no tocante à contribuição previdenciária sobre a folha de salários, não fere, à primeira
+vista, o princípio da isonomia tributária, ante a expressa previsão constitucional (Emenda de Revisão
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          13
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+nº 1/94 e Emenda Constitucional nº 20/98, que inseriu o § 9º no art. 195 do Texto permanente). Liminar
+a que se nega referendo. Processo extinto.
+
+(STF, AC 1.109-MC, Rel. Min. Marco Aurélio, 31/05/2007)
+
+Sobre esse assunto, preciso que você guarde ainda o disposto no art. 195, § 9º, da CF/88: “As contribuições
+sociais previstas no inciso I do caput deste artigo poderão ter alíquotas ou bases de cálculo diferenciadas,
+em razão da atividade econômica, da utilização intensiva de mão-de-obra, do porte da empresa ou da
+condição estrutural do mercado de trabalho.” Lembrem-se que as referidas contribuições são aquelas a
+cargo do empregador.
+
+“EMENTA: (...) 1. A lei complementar estadual que isenta os membros do Ministério Público do
+pagamento de custas judiciais, notariais, cartorárias e quaisquer taxas ou emolumentos fere o
+disposto no artigo 150, inciso II, da Constituição do Brasil.”
+
+(STF, ADI 3.260, Rel. Min. Eros Grau, 29/03/2007)
+
+O dispositivo constitucional mencionado na ementa trata mais uma vez do princípio da isonomia.
+
+EMENTA: Importação de automóveis usados. - Recentemente, o Plenário desta Corte, ao julgar os RREE
+203.954 e 202.313, firmou o entendimento de que é inaceitável a orientação de que a vedação da
+importação de automóveis usados afronte o princípio constitucional da isonomia, sob a alegação de
+atuar contra as pessoas de menor capacidade econômica, porquanto, além de não haver a propalada
+discriminação, a diferença de tratamento é consentânea com os interesses fazendários nacional que o
+artigo 237 da Constituição Federal teve em mira proteger, ao investir as autoridades do Ministério da
+Fazenda no poder de fiscalizar e controlar o comércio exterior.
+
+(STF, RE 312.511, Rel. Min. Moreira Alves, 11/06/2002)
+
+Outro tema já cobrado em prova diz respeito à exclusão das operações de arrendamento mercantil do campo
+de aplicação do regime de admissão temporária, conforme a jurisprudência a seguir:
+
+Violação do princípio da isonomia (art. 150, II da Constituição), na medida em que o art. 17 da Lei
+6.099/1974 proíbe a adoção do regime de admissão temporária para as operações amparadas por
+arrendamento mercantil. Improcedência. A exclusão do arrendamento mercantil do campo de
+aplicação do regime de admissão temporária atende aos valores e objetivos já antevistos no projeto de
+lei do arrendamento mercantil, para evitar que o leasing se torne opção por excelência devido às
+virtudes tributárias e não em razão da função social e do escopo empresarial que a avença tem.
+
+(STF, RE 429.306/PR, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgado em 01/02/2011)
+
+A admissão temporária é um regime aduaneiro especial que permite a importação, com suspensão total ou
+parcial de tributos, de bens que devam permanecer no país sobre prazo fixado. Para a Lei 6.099/74, as
+operações de arrendamento mercantil não se confundem com o referido regime aduaneiro especial, estando
+sujeitas às normas gerais de importação.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         14
+        www.estrategiaconcursos.com.br                                                                   43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+O STF também se posicionou no mesmo sentido, tendo em vista que se assim não o fosse, as operações de
+arrendamento mercantil iriam se beneficiar das vantagens tributárias oferecidas pelo regime de admissão
+temporária.
+
+Por fim, destaque-se que o STF considerou inconstitucional parte da Emenda Constitucional 41/2003, pois
+esta imprimia tratamento discriminatório entre servidores públicos da União e os dos Estados, Municípios e
+do DF, no que se refere ao limite a partir do qual incidiria contribuição previdenciária sobre aposentadoria e
+pensões.
+
+Observe a seguinte ementa:
+
+EMENTAS: (...) Servidor público. Vencimentos. Proventos de aposentadoria e pensões. Sujeição à
+incidência de contribuição previdenciária. Bases de cálculo diferenciadas. Arbitrariedade. Tratamento
+discriminatório entre servidores e pensionistas da União, de um lado, e servidores e pensionistas dos
+Estados, do Distrito Federal e dos Municípios, de outro. Ofensa ao princípio constitucional da
+isonomia tributária, que é particularização do princípio fundamental da igualdade. Ação julgada
+procedente para declarar inconstitucionais as expressões “cinquenta por cento do” e “sessenta por
+cento do”, constantes do art. 4º, § único, I e II, da EC nº 41/2003. Aplicação dos arts. 145, § 1º, e 150,
+II, cc. art. 5º, caput e § 1º, e 60, § 4º, IV, da CF, com restabelecimento do caráter geral da regra do art.
+40, § 18. São inconstitucionais as expressões cinquenta por cento do e sessenta por cento do, constantes
+do § único, incisos I e II, do art. 4º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, e tal
+pronúncia restabelece o caráter geral da regra do art. 40, § 18, da Constituição da República, com a
+redação dada por essa mesma Emenda.
+
+(STF, Pleno, ADI 3.105/DF, Rel. p/ Acórdão Min. Cezar Peluso, j. em 18/08/2004, DJ de 18/02/2005).
+
+Para finalizarmos o estudo da jurisprudência relativa ao princípio da isonomia, é relevante considerar um
+ponto objeto de muito debate jurisprudencial, que é o sigilo bancário.
+
+Na segunda parte do § 1°, do art. 145, da CF/88, ao tratar do princípio da capacidade contributiva, foi dito
+que é “facultado à administração tributária, especialmente para conferir efetividade a esses objetivos,
+identificar, respeitados os direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as
+atividades econômicas do contribuinte.”
+
+Com base nesse dispositivo, a LC 105/2001 estabeleceu o seguinte:
+
+Art. 6o As autoridades e os agentes fiscais tributários da União, dos Estados, do Distrito Federal e dos
+Municípios somente poderão examinar documentos, livros e registros de instituições financeiras, inclusive os
+referentes a contas de depósitos e aplicações financeiras, quando houver processo administrativo instaurado
+ou procedimento fiscal em curso e tais exames sejam considerados indispensáveis pela autoridade
+administrativa competente.
+
+Isso significa que as autoridades e os agentes fiscais tributários, sejam eles da União, dos Estados, do DF e
+dos Municípios podem examinar as informações bancárias do contribuinte, independentemente de ordem
+judicial nesse sentido, bastando que haja processo administrativo instaurado ou procedimento fiscal em
+curso e que tais exames sejam considerados indispensáveis pela autoridade administrativa competente.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                               15
+        www.estrategiaconcursos.com.br                                                                         43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Essa previsão foi levada ao Judiciário, tendo em vista que os interesses arrecadatórios parecem suprimir os
+direitos individuais, relativos à proteção da intimidade e da vida privada das pessoas. O tema gerou forte
+controvérsia jurisprudencial.
+
+Durante anos o assunto foi debatido no Judiciário, havendo decisões favoráveis e desfavoráveis aos ditames
+da referida norma. Somente em fevereiro de 2016 o STF pôs fim às controvérsias. A Suprema Corte concluiu
+o julgamento de um conjunto de cinco processos (RE 601.314 e ADIs 2859, 2390, 2386 e 2397) que
+questionavam dispositivos da LC 105/01. Por maioria de votos, prevaleceu o entendimento de que a previsão
+da referida lei complementar não resulta em quebra de sigilo bancário, mas sim na transferência de sigilo
+da órbita bancária para a fiscal, ambas protegidas contra o acesso de terceiros. A transferência de
+informações é feita dos bancos ao Fisco, que tem o dever de preservar o sigilo dos dados, portanto não há
+ofensa à Constituição Federal.
+
+
+                                                         ==219a34==
+
+
+
+
+De acordo com a jurisprudência do STF, as autoridades fiscais podem requisitar aos bancos as informações
+financeiras dos contribuintes, sem prévia autorização judicial.
+
+Um assunto bem complexo que já foi exigido em prova é a Tese fixada no Tema 573 de Repercussão Geral
+pelo Supremo Tribunal Federal:
+
+     Tema 573 Repercussão Geral - Não viola o princípio da isonomia e o livre acesso à jurisdição a
+     restrição de ingresso no parcelamento de dívida relativa à Contribuição para Financiamento da
+     Seguridade Social - COFINS, instituída pela Portaria nº 655/93, dos contribuintes que
+     questionaram o tributo em juízo com depósito judicial dos débitos tributários.
+
+Vamos entender melhor!
+
+O que diz a Portaria nº 655/93? A Portaria estabelece que contribuintes com débitos de COFINS podem
+parcelar esses valores em até 80 prestações mensais, mas veda a inclusão no parcelamento de débitos que
+tenham sido objeto de depósito judicial.
+
+O STF, ao decidir no Tema 573, enfatizou que a diferenciação promovida pela Portaria nº 655/93 entre
+contribuintes com depósitos judiciais e aqueles sem essa garantia é legítima e não inconstitucional, dado
+que respeita os princípios constitucionais ao tratar situações desiguais de forma distinta e proporcional.
+
+Para a prova, não fique preocupado em entender todo o contexto, você perderá tempo desnecessariamente.
+Eu trouxe até você apenas o básico. Lembre-se de que essa diferenciação em razão de ação judicial com
+depósito dos débitos tributários não é inconstitucional.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        16
+        www.estrategiaconcursos.com.br                                                                  43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+Princípio da Anterioridade
+
+O princípio da anterioridade está previsto no art. 150, III, b, da CF/88. Segundo ele, é vedado cobrar tributos
+no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou os aumentou, ressalvadas
+as suas exceções. Sobre tal princípio, temos as seguintes jurisprudências:
+
+“O princípio da anterioridade da lei tributária, além de constituir limitação ao poder impositivo do
+Estado, representa um dos direitos fundamentais mais importantes outorgados pela Carta da
+República ao universo dos contribuintes. (...)”
+
+(STF, Pleno, ADI 939/DF, Voto do Min. Celso de Mello, Rel. Min. Sydney Sanches, j. em 15/12/1993, DJ
+de 18/03/1994).
+
+
+
+A interpretação conjunta dos art. 5 º, § 2º e do art. 60, § 4º, IV, ambos da CF/88, permite-nos inferir
+claramente que o princípio da anterioridade tributária é uma cláusula pétrea.
+
+Ainda sobre esse princípio, temos:
+
+Súmula Vinculante 50 - Norma legal que altera o prazo de recolhimento de obrigação tributária não se
+sujeita ao princípio da anterioridade.
+
+Observação: Esta súmula vinculante possui a mesma redação da Súmula 669 do STF. Isso significa
+que já se tratava de entendimento pacífico no STF.
+
+Além disso, há outras situações que não se submetem ao princípio da anterioridade:
+
+"EMENTA: RECURSO EXTRAORDINÁRIO - MATÉRIA TRIBUTÁRIA - SUBSTITUIÇÃO LEGAL DOS FATORES
+DE INDEXAÇÃO - ALEGADA OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO DIREITO ADQUIRIDO E DA
+ANTERIORIDADE TRIBUTÁRIA - INOCORRÊNCIA - SIMPLES ATUALIZAÇÃO MONETÁRIA QUE NÃO SE
+CONFUNDE COM MAJORAÇÃO DO TRIBUTO - RECURSO IMPROVIDO."
+
+(RE 200.844 AgR/PR, Segunda Turma, Rel. Min. Celso de Mello, Julgado em 25/06/2002)
+
+No que se refere às revogações de isenções, é interessante demonstrarmos o histórico da jurisprudência do
+STF. Nos idos de 1996, a Suprema Corte demonstrou entender que a revogação de isenção não configuraria
+majoração de tributo, não havendo porque observar o princípio da anterioridade.
+
+Contudo, recentemente, a Primeira Turma do STF alterou o seu entendimento, no sentido da necessidade
+de observância do princípio da anterioridade (anual e nonagesimal):
+
+
+
+(...) REVOGAÇÃO DE BENEFÍCIO FISCAL – PRINCÍPIO DA ANTERIORIDADE – DEVER DE OBSERVÂNCIA –
+PRECEDENTES.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            17
+        www.estrategiaconcursos.com.br                                                                      43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Promovido aumento indireto do Imposto Sobre Circulação de Mercadorias e Serviços – ICMS por meio
+da revogação de benefício fiscal, surge o dever de observância ao princípio da anterioridade, geral e
+nonagesimal, constante das alíneas “b” e “c” do inciso III do artigo 150, da Carta. Precedente – Medida
+Cautelar na Ação Direta de Inconstitucionalidade nº 2.325/DF, de minha relatoria, julgada em 23 de
+setembro de 2004. (...)
+
+(STF, RE 564.225-AgR/RS, Primeira Turma, Rel. Min. Marco Aurélio, Julgamento em 02/09/2014)
+
+Assim, atualmente o STF entende que a revogação de benefício fiscal caracteriza aumento indireto de
+tributo, atraindo a aplicação do princípio da anterioridade (anual e nonagesimal). Ademais, entende a
+Primeira Turma da Suprema Corte que o prévio conhecimento da carga tributária tem como base a
+segurança jurídica e, como conteúdo, a garantia da certeza do direito.
+
+Em tempo, chamo sua atenção para o caso específico da redução ou a extinção de desconto para pagamento
+de tributo sob determinadas condições previstas em lei, como o pagamento antecipado em parcela única,
+que, no entendimento da Suprema Corte, não pode ser equiparada à majoração do tributo, razão pela qual
+não se aplica o princípio da anterioridade tributária. O caso tratava do IPVA, e a ementa segue abaixo:
+
+EMENTA: Medida cautelar em ação direta de inconstitucionalidade. 2. Art. 3º da Lei nº 15.747, de 24
+de dezembro de 2007, do Estado do Paraná, que estabelece como data inicial de vigência da lei a data
+de sua publicação. 3. Alteração de dispositivos da Lei nº 14.260/2003, do Estado do Paraná, a qual
+dispõe sobre o Imposto sobre a Propriedade de Veículos Automotores - IPVA. 4. Alegada violação ao
+art. 150, III, alínea "c", da Constituição Federal. 5. A redução ou a extinção de desconto para
+pagamento de tributo sob determinadas condições previstas em lei, como o pagamento antecipado
+em parcela única, não pode ser equiparada à majoração do tributo em questão, no caso, o IPVA.
+Não-incidência do princípio da anterioridade tributária. 6. Vencida a tese de que a redução ou
+supressão de desconto previsto em lei implica, automática e aritmeticamente, aumento do valor do
+tributo devido. 7. Medida cautelar indeferida.
+
+
+
+(STF, Plenário, ADI 4016 MC/PR, Rel. Min. Gilmar Mendes, Julgamento em 01/08/2008)
+
+Não confunda ambos os julgados, pois o primeiro que citamos (a respeito da majoração indireta do tributo)
+diz respeito à revogação de um benefício fiscal, que se resumia a reduzir o valor da base de cálculo do ICMS.
+Caso a banca cobre algum desses temas, é muito provável que ficará claro qual linha a seguir, conforme
+nosso esquema abaixo.
+
+
+
+
+Leve isto para a sua prova:
+
+1)   A majoração indireta de tributo, levada a cabo por meio de redução de benefício fiscal, atrai a aplicação
+dos princípios da anterioridade anual e nonagesimal.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           18
+        www.estrategiaconcursos.com.br                                                                     43
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 01
+
+
+
+2)   A redução ou extinção de desconto não configura majoração do tributo, não sendo aplicável o princípio
+da anterioridade.
+
+
+Caro concurseiro(a), embora o nosso curso seja focado em jurisprudência, chamo ainda a sua atenção para
+o art. 104, III, do CTN:
+
+Art. 104. Entram em vigor no primeiro dia do exercício seguinte àquele em que ocorra a sua publicação os
+dispositivos de lei, referentes a impostos sobre o patrimônio ou a renda:
+
+        (...)
+
+III - que extinguem ou reduzem isenções, salvo se a lei dispuser de maneira mais favorável ao contribuinte,
+e observado o disposto no artigo 178.
+
+Veja que, na dicção do art. 104, III, do CTN, a revogação ou redução de isenção deve obedecer ao princípio
+da anterioridade, mas esta lei só faz essa restrição em relação aos impostos sobre o patrimônio ou renda.
+Observe que para o STF, como já foi explicado, não houve tal restrição. É recomendável ao candidato que
+procure entender qual é a fonte utilizada para elaboração da questão, lembrando-se das palavras-chave do
+art. 104, do CTN: “vigor” e “impostos sobre o patrimônio ou a renda”.
+
+Observação: O art. 178, do CTN, refere-se à revogação de isenções onerosas (concedidas por prazo
+certo e sob determinadas condições). Tais isenções são irrevogáveis. Este assunto não será estudado
+nesta aula.
+
+
+
+
+QUESTÃO INÉDITA
+Conforme entendimento do STF, promovido aumento indireto do Imposto Sobre Circulação de Mercadorias
+e Serviços – ICMS por meio da revogação de benefício fiscal, surge o dever de observância ao princípio da
+anterioridade, geral e nonagesimal.
+
+Comentário: Se esse tema for cobrado nas provas, provavelmente o será de forma literal, tal como tem feito
+a referida banca nos últimos anos. As bancas costumam cobrar a literalidade dos julgados do STF. A questão
+está correta.
+
+Gabarito: Correta
+
+Enfim, podemos dizer que não se submetem ao princípio da anterioridade:
+
+1.      Alteração do prazo para recolhimento da obrigação tributária;
+2.      Atualização monetária do tributo;
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     19
+           www.estrategiaconcursos.com.br                                                               43
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+Lembre-se de que tais casos também constituem exceções ao princípio da legalidade tributária.
+
+
+Princípio da Noventena
+
+A necessidade de se obedecer ao prazo de 90 dias para se cobrar tributos em geral somente surgiu com a EC
+42/2003. Antes disso, tal prazo era aplicável apenas às contribuições para financiamento da seguridade social
+(art. 195, § 6º, da CF/88).
+
+Sobre este princípio, vejamos as principais jurisprudências dos tribunais:
+
+TRIBUTÁRIO. ICMS. MAJORAÇÃO DE ALÍQUOTA. PRORROGAÇÃO. INAPLICABILIDADE DO PRAZO
+NONAGESIMAL (ARTIGO 150, III, C, DA CONSTITUIÇÃO FEDERAL). RECURSO EXTRAORDINÁRIO
+CONHECIDO E PROVIDO. 1. A Lei paulista 11.813/04 apenas prorrogou a cobrança do ICMS com a
+alíquota majorada de 17 para 18%, criada pela Lei paulista 11.601/2003. 2. O prazo nonagesimal
+previsto no art. 150, III, c, da Constituição Federal somente deve ser utilizado nos casos de criação ou
+majoração de tributos, não na hipótese de simples prorrogação de alíquota já aplicada
+anteriormente. 3. Recurso extraordinário conhecido e provido para possibilitar a prorrogação da
+cobrança do ICMS com a alíquota majorada.
+
+(STF, RE 584.100/SP, Tribunal Pleno, Rel. Min. Ellen Gracie, Julgado em 25/11/2009)
+
+
+
+
+“EMENTA: - (...) O inciso I do art. 3º da Lei 7.787/89 não é fruto da conversão do disposto no art. 5º,
+I, da Medida Provisória 63/89. E, assim sendo, o período de noventa dias a que se refere o disposto
+no § 6º do art. 195 da Constituição Federal se conta, quanto a ele, a partir da data da publicação da
+Lei 7.787/89, e não de 1º de setembro de 1989.
+
+(STF, Pleno, RE 169.740/PR, Rel. Min. Moreira Alves, julgado em 27/09/1995, DJ de 17/11/1995).
+
+Colega concurseiro(a), sabemos que é possível a edição de medidas provisórias para instituir ou majorar
+tributos. No entanto, estando o tributo sujeito ao princípio da noventena, a contagem desse prazo se inicia,
+via de regra, a partir da publicação da MP.
+
+Podemos dizer que a jurisprudência acima aborda a exceção, que ocorre quando há mudanças significativas
+no texto da medida provisória, fazendo com que o prazo nonagesimal se inicie com a publicação da lei de
+conversão.
+
+Observação: Não se preocupe com o texto da ementa em si, pois o único objetivo é demonstrar que
+o STF entende da forma como expusemos acima.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           20
+        www.estrategiaconcursos.com.br                                                                     43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Sobre o princípio da noventena, ainda podemos citar o seguinte julgado:
+
+Ementa: “(…) AÇÃO DIRETA DE INCONSTITUCIONALIDADE – IPI – MAJORAÇÃO DA ALÍQUOTA –
+PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL – LIMINAR – RELEVÂNCIA E RISCO CONFIGURADOS.
+Mostra-se relevante pedido de concessão de medida acauteladora objetivando afastar a
+exigibilidade da majoração do Imposto sobre Produtos Industrializados, promovida mediante
+decreto, antes de decorridos os noventa dias previstos no artigo 150, inciso III, alínea “c”, da Carta
+da República.”
+
+(STF, Pleno, ADI 4661 MC / DF, Rel. Min. Marco Aurélio, Julgado em 20/10/2011, DJe de 23/03/2012).
+
+Embora o art. 150, III, c, da CF/88 mencione que aplica-se o princípio da noventena quando a “lei” instituir
+ou majorar tributos, devemos nos lembrar que o fato de o IPI poder ser majorado por “decreto” (exceção ao
+princípio da legalidade) não inibe a necessidade de respeitar o prazo nonagesimal.
+
+
+Princípio da Irretroatividade
+
+Para facilitar a sua compreensão do posicionamento dos tribunais a respeito deste princípio, faz-se
+necessário conhecer dois importantes aspectos da hipótese de incidência tributária: o aspecto material e o
+temporal.
+
+O aspecto material se refere ao fato descrito na norma como ensejador do surgimento da obrigação
+tributária. Por exemplo, o fato de auferir rendas faz com que a pessoa se sujeite à tributação pelo Imposto
+de Renda. Já o aspecto temporal da hipótese de incidência diz respeito ao momento em que a lei considerar
+consumado o fato gerador da obrigação tributária. Por exemplo, o Imposto de Renda Pessoa Física tem o seu
+fato gerador ocorrido em 31 de dezembro de cada ano, muito embora decorra de vários fatos isolados ao
+longo do ano-calendário.
+
+Por falar do Imposto de Renda, devemos levar em consideração que se trata de um tributo complexivo, ou
+seja, é formado por um conjunto de fatos que ocorridos durante determinado período (exercício financeiro).
+
+Assim, por exemplo, no regime de tributação anual do IRPF, o imposto é apurado com base nos rendimentos
+recebidos pelo contribuinte no decorrer do exercício financeiro. O fato gerador considera-se ocorrido no dia
+31 de dezembro, embora seja constituído do conjunto de fatos isolados durante o ano. No ano seguinte, o
+contribuinte tem um prazo para entregar a declaração à Receita Federal, demonstrando a apuração do IRPF
+anual e o pagamento, se houver, do imposto.
+
+Vamos ilustrar para facilitar:
+
+                                                                              Fato Gerador
+
+                                                                                             Entrega da
+            Salário    Salário       Salário     Salário     Salário      Salário            Declaração
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          21
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+                                         Ano 2020                                         Ano 2021
+                                                                               31/12/20
+
+
+
+Você já deve estar se perguntando onde os princípios estudados neste tópico entram em toda essa
+explicação. Ora, foi necessário te fornecer toda essa explicação, para que você seja capaz de responder a
+seguinte pergunta: caso uma lei que majore o IR seja publicada no meio do ano de 2020, essa lei produziria
+efeitos sobre todo o IR apurado em 2020?
+
+Não poderia, pois se assim o fosse, a lei acabaria produzindo efeitos sobre rendimentos anteriores ao início
+da sua vigência (afinal, há rendimentos auferidos desde o início do ano 2020). Isso, por si só, já violaria o
+princípio da irretroatividade. Ademais, essa aplicação também violaria o princípio da anterioridade anual,
+pois a lei produziria efeitos sobre o fato gerador ocorrido no mesmo exercício de sua publicação, isto é,
+dentro do próprio ano 2020.
+
+Estamos explicando com detalhes essa situação, pois havia uma súmula do STF (Súmula 584), que previa que
+a lei vigente no ano da declaração do imposto de renda (2021), poderia se aplicada aos rendimentos do ano-
+base (2020). A Súmula era bastante antiga (de 1976) e não guardava mais contabilidade com a sistemática
+de apresentação de declaração de imposto de renda atual, que sempre se refere ao ano anterior, e por isso,
+violaria o princípio da anterioridade anual e também da irretroatividade.
+
+
+
+
+Atualmente, você pode considerar incorreta a questão que afirma a redação da Súmula 584, que
+foi cancelada:
+
+Súmula STF 584 – Ao imposto de renda calculado sobre os rendimentos do ano base aplica-se a lei
+vigente no exercício financeiro em que deve ser apresentada a declaração.
+
+
+
+
+Princípio do Não Confisco
+
+Inicialmente, deve-se ter em mente que o que se coíbe com este princípio é o efeito confiscatório que os
+tributos podem ter, ao onerarem desproporcionalmente o patrimônio dos contribuintes.
+
+Por esse motivo, grave que o efeito é confiscatório é subjetivo, não havendo um valor constitucional ou
+legalmente estipulado como sendo o limite para se tributar.
+
+Vejamos verificar o seguinte julgado:
+
+Ementa: "(...) A proibição constitucional do confisco em matéria tributária nada mais representa
+senão a interdição, pela Carta Política, de qualquer pretensão governamental que possa conduzir,
+no campo da fiscalidade, à injusta apropriação estatal, no todo ou em parte, do patrimônio ou dos
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          22
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+rendimentos dos contribuintes, comprometendo-lhes, pela insuportabilidade da carga tributária, o
+exercício do direito a uma existência digna, ou a prática de atividade profissional lícita ou, ainda, a
+regular satisfação de suas necessidades vitais (educação, saúde e habitação, por exemplo). A
+identificação do efeito confiscatório deve ser feita em função da totalidade da carga tributária,
+mediante verificação da capacidade de que dispõe o contribuinte - considerado o montante de sua
+riqueza (renda e capital) - para suportar e sofrer a incidência de todos os tributos que ele deverá
+pagar, dentro de determinado período, à mesma pessoa política que os houver instituído (a União
+Federal, no caso), condicionando-se, ainda, a aferição do grau de insuportabilidade econômico-
+financeira, à observância, pelo legislador, de padrões de razoabilidade destinados a neutralizar
+excessos de ordem fiscal eventualmente praticados pelo Poder Público (...)"
+
+(STF, Pleno, ADC 8 MC / DF, Rel. Min. Celso de Mello, Julgado em 13/10/1999)
+
+Além de definir o conceito do princípio do não confisco, o julgado traz ainda como deve ser identificado o
+efeito confiscatório:
+
+
+
+
+Efeito Confiscatório: É a soma de toda carga tributária a que o contribuinte esteja sujeito em relação à
+mesma pessoa política, dentro de determinado período.
+
+
+
+Faz-se necessário conhecer ainda o seguinte julgado:
+
+EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. VEDAÇÃO DO
+USO DE TRIBUTO COM EFEITO DE CONFISCO. IMPOSTO DE IMPORTAÇÃO - II. AUMENTO DE ALÍQUOTA
+DE 4% PARA 14%. DEFICIÊNCIA DO QUADRO PROBATÓRIO. IMPOSSIBILIDADE DE REABERTURA DA
+INSTRUÇÃO NO JULGAMENTO DE RECURSO EXTRAORDINÁRIO. 1. A caracterização do efeito
+confiscatório pressupõe a análise de dados concretos e de peculiaridades de cada operação ou
+situação, tomando-se em conta custos, carga tributária global, margens de lucro e condições
+pontuais do mercado e de conjuntura social e econômica (art. 150, IV da Constituição). 2. O isolado
+aumento da alíquota do tributo é insuficiente para comprovar a absorção total ou demasiada do
+produto econômico da atividade privada, de modo a torná-la inviável ou excessivamente onerosa.
+
+(STF, Segunda Turma, RE 448.432 AgR / CE, Rel. Min. Joaquim Barbosa, Julgado em 20/04/2010)
+
+No que se refere às taxas, o efeito confiscatório é analisado de uma forma distinta:
+
+Ementa: "(...) Se o valor da taxa, no entanto, ultrapassar o custo do serviço prestado ou posto à
+disposição do contribuinte, dando causa, assim, a uma situação de onerosidade excessiva, que
+descaracterize essa relação de equivalência entre os fatores referidos (o custo real do serviço, de um
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          23
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+lado, e o valor exigido do contribuinte, de outro), configurar-se-á, então, quanto a essa modalidade
+de tributo, hipótese de ofensa à cláusula vedatória inscrita no art. 150, IV, da Constituição da República.
+(...)"
+
+(STF, Pleno, ADC 2.551 MC-QO / MG, Rel. Min. Celso de Mello, Julgado em 02/04/2003)
+
+A taxa é um tributo cuja instituição tem como objetivo custear certas atividades do Estado, devendo,
+portanto, guardar relação entre seu valor e o custo de tais atividades. Caso contrário, nota-se o efeito
+confiscatório do referido tributo.
+
+Foi também considerando essa direção argumentativa que o Supremo (ADI 6211/AP, julgado em
+04/12/2019) declarou inconstitucional uma lei do Estado do Amapá que instituiu a Taxa de Controle,
+Acompanhamento e Fiscalização das Atividades de Exploração e Aproveitamento de Recursos Hídricos
+(TFRH), já que o valor do tributo cobrado era muito superior ao custo da atividade estatal a ser remunerada
+(atividade de fiscalização ou, como sabemos, poder de polícia).
+
+No que concerne às taxas judiciárias, o STF (ADI 2.078/PB) já decidiu que elas podem ter limites mínimos e
+máximos, também sendo possível a disciplina progressiva de alíquotas, somente sendo devido o
+pagamento de valores maiores para causas que envolvam considerável valor econômico.
+
+Vamos ao próximo julgado:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. §§ 2.º E 3.º DO ART. 57 DO ATO DAS
+DOSPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS DA CONSTITUIÇÃO DO ESTADO DO RIO DE JANEIRO.
+FIXAÇÃO DE VALORES MÍNIMOS PARA MULTAS PELO NÃO-RECOLHIMENTO E SONEGAÇÃO DE
+TRIBUTOS ESTADUAIS. VIOLAÇÃO AO INCISO IV DO ART. 150 DA CARTA DA REPÚBLICA. A
+desproporção entre o desrespeito à norma tributária e sua conseqüência jurídica, a multa, evidencia
+o caráter confiscatório desta, atentando contra o patrimônio do contribuinte, em contrariedade ao
+mencionado dispositivo do texto constitucional federal. Ação julgada procedente.
+
+(STF, Pleno, ADI 551/RJ, Rel. Min. Ilmar Galvão, Julgado em 24/10/2002)
+
+Deve ficar claro que, para o STF, tanto as multas moratórias (decorrentes do não recolhimento no prazo)
+como as multas punitivas estão submetidas à proibição constitucional do confisco em matéria tributária.
+Observe a seguinte ementa:
+
+EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. MULTA PUNITIVA.
+VEDAÇÃO DE TRIBUTAÇÃO CONFISCATÓRIA. ART. 3º DA LEI 8.846/94. ADI 1.075-MC/DF. EFICÁCIA
+ERGA OMNES DA MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AGRAVO
+IMPROVIDO. I - É aplicável a proibição constitucional do confisco em matéria tributária, ainda que se
+trate de multa fiscal resultante do inadimplemento pelo contribuinte de suas obrigações tributárias.
+
+(STF, Primeira Turma, AI 482.281-AgR/SP, Rel. Min. Ricardo Lewandowski, Julgamento em 30/06/2009
+
+Quanto a este tema, precisamos ressaltar a jurisprudência do STF quanto ao limite da multa em relação ao
+valor do tributo:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              24
+        www.estrategiaconcursos.com.br                                                                        43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO.
+MULTA PUNITIVA DE 120% REDUZIDA AO PATAMAR DE 100% DO VALOR DO TRIBUTO. ADEQUAÇÃO
+AOS PARÂMETROS DA CORTE.
+
+1. A multa punitiva é aplicada em situações nas quais se verifica o descumprimento voluntário da
+obrigação tributária prevista na legislação pertinente. É a sanção prevista para coibir a burla à atuação
+da Administração tributária. Nessas circunstâncias, conferindo especial destaque ao caráter
+pedagógico da sanção, deve ser reconhecida a possibilidade de aplicação da multa em percentuais mais
+rigorosos, respeitados os princípios constitucionais relativos à matéria.
+
+2. A Corte tem firmado entendimento no sentido de que o valor da obrigação principal deve funcionar
+como limitador da norma sancionatória, de modo que a abusividade revela-se nas multas arbitradas
+acima do montante de 100%. Entendimento que não se aplica às multas moratórias, que devem ficar
+circunscritas ao valor de 20%. Precedentes. 3. Agravo interno a que se nega provimento, com aplicação
+da multa prevista no art. 557, § 2º, do CPC/1973.
+
+(STF, ARE 938.538 AgR/ES, Primeira Turma, Rel. Min. Roberto Barroso, Julgamento em 30/09/2016)
+
+Ademais, em outubro de 2024, o STF decidiu unanimemente impor limite de 100% do valor do tributo para
+multas qualificadas por sonegação, fraude ou conluio, admitindo 150% apenas em caso de reincidência. Os
+ministros destacaram que sanções não podem ser excessivas a ponto de configurar confisco, seguindo a
+exigência constitucional de proporcionalidade. O caso teve a Repercussão Geral reconhecida, no Tema 863,
+no qual foi fixada a seguinte tese:
+
+     Até que seja editada lei complementar federal sobre a matéria, a multa tributária qualificada em
+     razão de sonegação, fraude ou conluio limita-se a 100% (cem por cento) do débito tributário,
+     podendo ser de até 150% (cento e cinquenta por cento) do débito tributário caso se verifique a
+     reincidência definida no art. 44, § 1º-A, da Lei nº 9.430/96, incluído pela Lei nº 14.689/23,
+     observando-se, ainda, o disposto no § 1º-C do citado artigo. (STF, Tema 863)
+
+
+
+
+         O princípio da vedação ao efeito de confisco também é aplicável às multas tributárias
+         (tanto moratórias como punitivas). No entanto, as multas não se confundem com
+         tributos (aprendemos isso na aula anterior).
+
+         Limite estabelecido pelo STF para a multa punitiva: 100% do valor do tributo
+
+         Limite para multa qualificada em caso de reincidência (por sonegação, fraude ou conluio):
+         150% do valor do tributo
+
+         Limite estabelecido pelo STF para a multa moratória: 20% do valor do tributo
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            25
+        www.estrategiaconcursos.com.br                                                                      43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+Outros Princípios Constitucionais Tributários
+
+Princípio da Uniformidade Geográfica da Tributação
+
+Tal princípio está previsto no art. 151, I, com a seguinte redação:
+
+“Art. 151. É vedado à União:
+
+I - instituir tributo que não seja uniforme em todo o território nacional ou que implique distinção ou
+preferência em relação a Estado, ao Distrito Federal ou a Município, em detrimento de outro, admitida a
+concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento sócio-econômico entre
+as diferentes regiões do País;”
+
+Sobre tal princípio, o STF assim já decidiu:
+
+RECURSO EXTRAORDINÁRIO. IPI. CONCESSÃO DE BENEFÍCIOS. ALÍQUOTAS REGIONALIZADAS. LEI
+8.393/91. DECRETO 2.501/98. ADMISSIBILIDADE. 1. Incentivos fiscais concedidos de forma genérica,
+impessoal e com fundamento em lei específica. Atendimento dos requisitos formais para sua
+implementação. 2. A Constituição na parte final do art. 151, I, admite a "concessão de incentivos
+fiscais destinados a promover o equilíbrio do desenvolvimento sócio-econômico entre as diferentes
+regiões do país". 3. A concessão de isenção é ato discricionário, por meio do qual o Poder Executivo,
+fundado em juízo de conveniência e oportunidade, implementa suas políticas fiscais e econômicas e,
+portanto, a análise de seu mérito escapa ao controle do Poder Judiciário. Precedentes: RE 149.659 e AI
+138.344-AgR. 4. Não é possível ao Poder Judiciário estender isenção a contribuintes não
+contemplados pela lei, a título de isonomia (RE 159.026). 5. Recurso extraordinário não conhecido.
+
+(STF, Primeira Turma, RE 344.331/PR, Rel. Min. Ellen Gracie, Julgado em 11/02/2003)
+
+Observação: Veja que o julgado acima se refere à concessão de benefícios fiscais relativos ao IPI,
+imposto de competência da União.
+
+Princípio da Vedação às Isenções Heterônomas
+
+Este princípio encontra guarida no art. 151, III, da CF/88. No entanto, caso o Presidente da República atue
+como Chefe de Estado, firmando tratados internacionais, estará agindo em nome da República Federativa
+do Brasil, e não da União.
+
+Observe o seguinte julgado:
+
+EMENTA: “(...) 1. A isenção de tributos estaduais prevista no Acordo Geral de Tarifas e Comércio para
+as mercadorias importadas dos países signatários quando o similar nacional tiver o mesmo benefício
+foi recepcionada pela Constituição da República de 1988. 2. O artigo 98 do Código Tributário Nacional
+"possui caráter nacional, com eficácia para a União, os Estados e os Municípios" (voto do eminente
+Ministro Ilmar Galvão). 3. No direito internacional apenas a República Federativa do Brasil tem
+competência para firmar tratados (art. 52, § 2º, da Constituição da República), dela não dispondo a
+União, os Estados-membros ou os Municípios. O Presidente da República não subscreve tratados como
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         26
+        www.estrategiaconcursos.com.br                                                                   43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Chefe de Governo, mas como Chefe de Estado, o que descaracteriza a existência de uma isenção
+heterônoma, vedada pelo art. 151, inc. III, da Constituição. 4. Recurso extraordinário conhecido e
+provido.”
+
+(STF, Pleno, RE 229.096/RS, Rel. Min. Cármen Lúcia, Julgado em 16/08/2007)
+
+
+
+
+Princípio da Liberdade de Tráfego
+
+De acordo com o texto constitucional (art. 150, V), temos que é vedado aos entes federados “estabelecer
+limitações ao tráfego de pessoas ou bens, por meio de tributos interestaduais ou intermunicipais, ressalvada
+a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público”.
+
+Amigo, perceba que o que se quis proteger com esse dispositivo foi a liberdade de tráfego das pessoas e
+seus bens dentro do território nacional, direito individual expressamente previsto no art. 5°, XV, da própria
+CF.
+
+Sobre o tema, é relevante citarmos a decisão unânime do STF, no sentido de que o pedágio cobrado pela
+utilização das vias conservadas pelo Poder Público não possui natureza tributária:
+
+Ementa: TRIBUTÁRIO E CONSTITUCIONAL. PEDÁGIO. NATUREZA JURÍDICA DE PREÇO PÚBLICO.
+DECRETO 34.417/92, DO ESTADO DO RIO GRANDE DO SUL. CONSTITUCIONALIDADE. 1. O pedágio
+cobrado pela efetiva utilização de rodovias conservadas pelo Poder Público, cuja cobrança está
+autorizada pelo inciso V, parte final, do art. 150 da Constituição de 1988, não tem natureza jurídica de
+taxa, mas sim de preço público, não estando a sua instituição, consequentemente, sujeita ao
+princípio da legalidade estrita. 2. Ação direta de inconstitucionalidade julgada improcedente.
+
+(STF, Plenário, ADI 800/RS, Rel. Min. Teori Zavascki, Julgamento em 11/06/2014)
+
+
+
+
+QUESTÃO INÉDITA
+Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito
+Federal e aos Municípios estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos
+interestaduais ou intermunicipais, inclusive a cobrança de pedágio pela utilização de vias conservadas pelo
+Poder Público.
+
+Comentário: Na verdade, a questão não trata de jurisprudência, mas apenas da literalidade da Constituição.
+O objetivo dessa questão é mostrar ao candidato que ele deve ter muito cuidado com questões que
+“parecem” transmitir exatamente o texto legal. Nessa questão, por exemplo, foi substituída a palavra
+“ressalvada” por “inclusive”. Eu espero que você não tenha errado. Caso tenha errado, não se deixe levar
+por essas pegadinhas da próxima vez, ok?
+
+Gabarito: Errada
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           27
+        www.estrategiaconcursos.com.br                                                                     43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+            SÚMULAS ABORDADAS DURANTE A AULA
+Súmula STJ 160: O STJ decidiu que não se pode atualizar IPTU por meio de ato infralegal (decreto) em
+percentual superior ao índice oficial de correção:
+
+Súmula STJ 160 – É defeso, ao Município, atualizar o IPTU, mediante decreto, em percentual superior
+ao índice oficial de correção monetária.
+
+Súmula Vinculante 50: Alteração de prazo para recolhimento de tributo não se confunde com majoração.
+Por essa razão, não se sujeita ao princípio da anterioridade:
+
+Súmula Vinculante 50 - Norma legal que altera o prazo de recolhimento de obrigação tributária não se
+sujeita ao princípio da anterioridade.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       28
+        www.estrategiaconcursos.com.br                                                                 43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+1.CEBRASPE/Auditor do Estado (CGE RJ) /2024
+
+A respeito dos princípios constitucionais tributários e das espécies tributárias, julgue o item a seguir,
+considerando o Código Tributário Nacional (CTN), a Constituição Federal de 1988 e a jurisprudência do STF.
+
+É legítimo ao estado do Rio de Janeiro estabelecer regime diferenciado de tributação exclusivamente em
+favor de operações das quais resulte a saída interna de mercadorias produzidas em estabelecimentos
+localizados naquele estado.
+
+Comentário: O art. 152 da Constituição Federal proíbe expressamente que Estados, o Distrito Federal e os
+Municípios estabeleçam diferenciações tributárias baseadas na procedência ou destino de bens e serviços.
+
+Além disso, a concessão de benefícios fiscais no âmbito do ICMS deve seguir o procedimento de convênio
+interestadual, conforme estabelecido pelo art. 155, § 2º, XII, 'g' da Constituição, a fim de evitar desequilíbrios
+no pacto federativo e guerras fiscais. A jurisprudência do STF (ADI 3984), reafirma essa interpretação,
+invalidando leis estaduais que estabelecem benefícios fiscais sem o devido convênio, por violarem os
+princípios da isonomia tributária e da não discriminação.
+
+Gabarito: Errado.
+
+2.CEBRASPE/Delegado de Polícia (PC PE) /2024
+
+Com base na jurisprudência predominante, na legislação vigente e na doutrina majoritária, julgue os itens a
+seguir.
+
+I Sujeita-se ao princípio da anterioridade a norma legal que altera o prazo de recolhimento de obrigação
+tributária.
+
+II O princípio da legalidade tributária impede a instituição de quaisquer impostos mediante medida
+provisória.
+
+III O princípio da irretroatividade veda a cobrança de tributos em relação a fatos geradores pretéritos ao
+início da vigência da lei que os houver instituído ou aumentado.
+
+IV O Estado tributa com a finalidade precípua, mas não exclusiva, de arrecadar recursos para os cofres
+públicos.
+
+Assinale a opção correta.
+
+A) Apenas os itens I e II estão certos.
+
+B) Apenas os itens I e IV estão certos.
+
+C) Apenas os itens II e III estão certos.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              29
+         www.estrategiaconcursos.com.br                                                                        43
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+D) Apenas os itens III e IV estão certos.
+
+E) Todos os itens estão certos.
+
+Comentário: Vamos tratar dos princípios tributários, conforme estabelecido pela Constituição Federal e pela
+jurisprudência do STF.
+
+Item I: A alteração do prazo de recolhimento de uma obrigação tributária não é considerada uma instituição
+ou aumento de tributo, portanto, não está sujeita ao princípio da anterioridade. Errado.
+
+Item II: O princípio da legalidade permite a instituição de impostos por medida provisória, exceto aqueles
+que exigem lei complementar, como o IGF, por exemplo. Errado.
+
+Item III: O princípio da irretroatividade (CF, art. 150, III, “a”) protege o contribuinte contra a cobrança de
+tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que os criou ou aumentou.
+Correto.
+
+Item IV: O Estado utiliza a tributação principalmente para arrecadar recursos, mas também para outros
+objetivos como intervenção econômica ou redistribuição de renda. A tributação com finalidade arrecadatória
+é conhecida como finalidade fiscal. Correto.
+
+Gabarito: Letra D.
+
+3.CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+A respeito dos princípios constitucionais tributários e das espécies tributárias, julgue o item a seguir,
+considerando o Código Tributário Nacional (CTN), a Constituição Federal de 1988 e a jurisprudência do STF.
+
+O princípio da não surpresa está inserido entre as limitações ao poder de tributar, de forma que é garantia a
+ser assegurada aos contribuintes mesmo nos casos de majoração indireta de tributo, como a revogação de
+benefício fiscal.
+
+Comentário: A aplicação do princípio da não surpresa na tributação assegura previsibilidade e estabilidade
+ao contribuinte, evitando cobranças imprevistas ou alterações abruptas que afetem negativamente sua
+capacidade financeira.
+
+A previsão na Constituição Federal, encontra-se no art. 150, III, b e c, que estabelece os princípios da
+anterioridade de exercício e da noventena, respectivamente, assegurando que os tributos não sejam
+cobrados no mesmo exercício financeiro de sua criação ou aumento, e que não sejam cobrados antes de 90
+dias da publicação da lei.
+
+Ademais, o STF possui o entendimento de que que a revogação ou redução de incentivos fiscais configura
+uma majoração indireta de tributos e, portanto, está sujeita aos princípios da anterioridade geral e
+nonagesimal para garantir o princípio da não surpresa.
+
+Gabarito: Correto.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           30
+        www.estrategiaconcursos.com.br                                                                     43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+
+4.CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+João, por não ter pagado o crédito tributário que devia, foi demandado pela fazenda pública, por meio de
+execução fiscal. Posteriormente, o contribuinte efetuou judicialmente o depósito integral, em dinheiro, do
+valor cobrado e impugnou a cobrança. No curso do processo, foi editada, pelo Poder Executivo, uma portaria
+que, embasada em determinada lei, permitiu o parcelamento dos créditos tributários relativos ao mesmo
+tributo cobrado de João, excetuando apenas os contribuintes que tivessem feito depósito judicial relativo
+aos valores dos créditos tributários cobrados. Por esse motivo, João formalizou pedido de parcelamento, o
+qual foi indeferido.
+
+A partir da situação hipotética apresentada, julgue o item seguinte com base no CTN, na Constituição Federal
+de 1988 e na jurisprudência dos tribunais superiores.
+
+A portaria editada pelo Poder Executivo conflita com o princípio da isonomia tributária, por revelar critério
+de discriminação entre os contribuintes desprovido de razoabilidade.
+                                                         ==219a34==
+
+
+
+
+Comentário: A situação apresentada questiona a validade de uma portaria que exclui contribuintes que
+realizaram depósito judicial dos valores devidos de um programa de parcelamento. O princípio da isonomia,
+conforme Art. 150, II da Constituição Federal, proíbe a instituição de tratamento desigual entre contribuintes
+em situação equivalente. Contudo, a jurisprudência dos tribunais superiores, especificamente o STF no Tema
+573, esclarece que tal diferenciação é admissível ao restringir o acesso ao parcelamento aos contribuintes
+que optaram pelo litígio judicial, não violando, assim, o princípio da isonomia ou o acesso à justiça. Logo, a
+ação da portaria não configura violação ao princípio da isonomia, já que reconhece uma diferenciação
+razoável baseada na conduta processual dos contribuintes.
+
+Gabarito: Errado.
+
+5.FGV/RFB-Auditor Fiscal/2023
+
+Lei federal instituidora do Conselho Federal de certa profissão regulamentada estatuiu que a Diretoria da
+entidade poderia fixar o valor a ser cobrado a título de anuidades a serem pagas pelos profissionais
+vinculados a tal Conselho, limitado a um teto de até R$ 500,00. Também estabeleceu que a fiscalização e a
+arrecadação de tais anuidades seriam feitas pelos próprios funcionários deste Conselho, contratados pelo
+regime da CLT.
+
+Acerca desse cenário, é correto afirmar que tal lei federal
+
+A) violou o princípio da legalidade tributária ao conferir à Diretoria deste Conselho Profissional o poder de
+fixar o valor das anuidades.
+
+B) consubstancia o fenômeno da parafiscalidade, admitido no ordenamento jurídico nacional.
+
+C) não poderia ter atribuído a tal Conselho, que não é parte da administração tributária federal, nem a
+fiscalização nem a cobrança destas anuidades.
+
+D) poderia ter atribuído a tal Conselho, apesar de não ser parte da administração tributária federal, a
+cobrança de tais anuidades, mas não sua fiscalização.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           31
+        www.estrategiaconcursos.com.br                                                                     43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+E) não poderia ter atribuído a funcionários de tal Conselho, regidos pela CLT, a fiscalização e cobrança destas
+anuidades, uma vez que não são agentes da Secretaria Especial da Receita Federal do Brasil.
+
+Comentário: Para responder esta questão, é importante se lembrar da jurisprudência do Supremo Tribunal
+Federal que permite que ato normativo infralegal fixe o valor do tributo, não ultrapassando o valor do teto
+legalmente previsto. É o caso semelhante ao da taxa pela emissão da ART.
+
+Letra A: Como vimos, há respaldo jurisprudencial para a fixação do valor por ato normativo infralegal.
+Alternativa errada.
+
+Letra B: De fato, a fixação, cobrança e arrecadação das anuidades por terceiro que não o ente instituidora
+configura o fenômeno da parafiscalidade, admitido no ordenamento jurídico nacional. Alternativa correta.
+
+Letra C: Como comentamos, a parafiscalidade presente na situação em comento é permitida
+constitucionalmente. Alternativa errada.
+
+Letra D: Tanto a arrecadação como a fiscalização poderia ser atribuída a esse Conselho, afinal, o STF já
+afirmou que Conselhos de fiscalização profissional têm natureza jurídica de autarquia. Alternativa errada.
+
+Letra E: Por tudo o que já foi comentado nesta questão, está errada. Alternativa errada.
+
+Gabarito: Letra B
+
+6.CEBRASPE/Pref Maringá-Auditor/2022
+
+A Carta Magna estipulou a competência tributária, a imunidade tributária, o alcance da norma e as limitações
+ao poder de tributar, parâmetros que devem ser respeitados pelos cidadãos e pelos entes federados. Acerca
+do tema, assinale a opção correta.
+
+a) A cobrança de pedágio pela utilização de vias conservadas pelo poder público é considerada taxa, que não
+se inclui entre as espécies de tributo.
+
+b) A União tem competência constitucional para instituir isenções de tributos da competência dos estados,
+do Distrito Federal ou dos municípios.
+
+c) A CIDE-combustíveis poderá ter alíquota específica, tendo por base a unidade de medida adotada, e terá
+que respeitar o princípio da anterioridade nonagesimal no caso de ter sua alíquota reduzida e restabelecida.
+
+d) Além do papel, a tinta destinada à impressão de livros também tem imunidade tributária de impostos.
+
+e) Os videofonogramas contendo obras musicais de artistas brasileiros ou europeus, gravados no país em
+mídia física, apenas, têm imunidade tributária de impostos.
+
+Comentário:
+
+Letra A: A cobrança de pedágio pela utilização de vias conservadas pelo poder público não é considerada
+taxa, de acordo com a jurisprudência do STF. Errada.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            32
+        www.estrategiaconcursos.com.br                                                                      43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Letra B: O art. 151, III, da CF/88 veda que a União institua isenções de tributos da competência dos estados,
+do Distrito Federal ou dos municípios. Trata-se das isenções heterônomas. Errada.
+
+Letra C: As CIDEs, assim como as contribuições sociais, podem ter alíquotas específicas ou ad valorem,
+conforme estabelece o art. 149, § 2º, da CF. Especificamente em relação a CIDE-Combustíveis, existe exceção
+quanto ao princípio da anterioridade anual no caso de ter sua alíquota reduzida e restabelecida, mas deve
+obedecer ao princípio da anterioridade nonagesimal. Correta.
+
+Letra D: Trata-se de assunto relativo às imunidades tributárias. Tal imunidade abrange os livros, jornais e
+periódicos (art. 150, VI, “d”, da CF). A jurisprudência do STF entende que a tinta destinada à impressão de
+livros não tem imunidade tributária de impostos. Errada.
+
+Letra E: A imunidade tributária abrange apenas os impostos incidentes sobre fonogramas e
+videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores
+brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou
+arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a
+laser. Errada.
+
+Gabarito: C
+
+7.FGV/Câmara dos Deputados-Consultor/2024
+
+Uma nova Instrução Normativa da Secretaria da Receita Federal do Brasil diminuiu o prazo de pagamento de
+certo tributo federal, gerando indignação entre os sujeitos passivos tributários.
+
+Diante desse cenário e à luz da jurisprudência do STF, assinale a afirmativa correta.
+
+a) A alteração de prazo de pagamento de tributo somente poderia ser feita por meio de lei.
+
+b) Somente um Decreto do Presidente da República poderia alterar o prazo de pagamento de tributo federal.
+
+c) A norma que altera o prazo de pagamento tributário não se sujeita ao princípio da anterioridade tributária.
+
+d) Embora a Instrução Normativa seja instrumento apto a alterar prazo de pagamento de tributo federal,
+deve respeitar apenas o princípio da anterioridade tributária nonagesimal.
+
+e) Embora a Instrução Normativa seja instrumento apto a alterar prazo de pagamento de tributo federal,
+deve respeitar apenas o princípio da anterioridade tributária anual.
+
+Gabarito: C
+
+Comentário:
+
+Letra A: Errada. De acordo com a jurisprudência, o prazo de pagamento de tributo não exige lei formal,
+podendo ser alterado por norma infralegal.
+
+Letra B: Errada. Não há necessidade de decreto presidencial para alterar prazo de recolhimento.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           33
+        www.estrategiaconcursos.com.br                                                                     43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+Letra C: Correta. A mudança em prazo de pagamento não cria ou majora tributo, logo não se submete ao
+princípio da anterioridade. STF entende que simples alteração de prazo de recolhimento não exige
+observância da anterioridade (Súmula Vinculante 50).
+
+Letra D: Errada. Não é preciso respeitar anterioridade nonagesimal, por não ser majoração de tributos.
+
+Letra E: Errada. Não é preciso observar a anterioridade anual, por não ser majoração de tributos.
+
+8.VUNESP/CM Orlândia-Procurador /2022
+
+A respeito das limitações constitucionais ao poder de tributar, assinale a alternativa correta.
+
+a) O princípio da legalidade tributária não impede o uso da norma tributária em branco.
+
+b) O princípio da anterioridade tributária assegura que não será realizada a cobrança de tributo sem prévia
+autorização orçamentária.
+
+c) O princípio da anterioridade nonagesimal aplica-se a qualquer modificação que altere o valor de imposto.
+
+d) O princípio do não confisco não se aplica às multas tributárias, dado o seu caráter punitivo.
+
+e) A União, com o objetivo de garantir a supremacia do interesse público, poderá conceder isenção de
+impostos estaduais e municipais.
+
+Comentário:
+
+Alternativa A: A norma em branco seria aquela que atribui a regulamentação de algum de seus aspectos a
+decreto do Poder Executivo. De fato, não há óbice a essa regulamentação, desde que o decreto não inove a
+ordem jurídica, ou seja, não extrapole o conteúdo legal. Alternativa correta.
+
+Alternativa B: Na realidade, o princípio da anterioridade tributária assegura a necessidade de se aguardar
+um prazo para que se inicie a cobrança de um tributo instituído ou majorado. Alternativa errada.
+
+Alternativa C: O princípio da anterioridade nonagesimal se aplica à instituição ou majoração tributos. Logo,
+não se trata de qualquer modificação. Alternativa errada.
+
+Alternativa D: De acordo com a jurisprudência do STF, o princípio do não confisco se aplica às multas
+tributárias, sejam elas moratórias ou punitivas. Alternativa errada.
+
+Alternativa E: O princípio da vedação às isenções heterônomas impede que isso aconteça, com fulcro no art.
+151, III, da CF. Alternativa errada.
+
+Gabarito: A
+
+9.VUNESP/CM Jundiaí-Procurador/2022
+
+No estado da Federação “Y”, o prazo do recolhimento de determinado tributo, estabelecido originalmente
+em decreto, foi alterado mediante novo decreto do Governador na sequência de um problema pontual nos
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         34
+        www.estrategiaconcursos.com.br                                                                   43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+sistemas informatizados do estado que impediu a emissão de notas fiscais pelos contribuintes do tributo
+pelo período de cerca de 10 dias. A mudança foi realizada antes do término do prazo ordinário de vencimento
+do tributo e o seu objetivo foi o de minimizar os transtornos aos contribuintes afetados pela falha técnica. A
+respeito da situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias, que
+
+a) a mudança no prazo de recolhimento do tributo não afastará os juros e multa moratórios, uma vez que
+para a aprovação de remissão tributária se faz necessária a aprovação de lei em sentido estrito.
+
+b) a modificação do prazo de recolhimento do tributo, por afetar o aspecto temporal da obrigação tributária
+é causa para incidência das regras constitucionais relativas à anterioridade anual e nonagesimal, conforme
+o tributo.
+
+c) a norma que altera o prazo de recolhimento de obrigação tributária não precisa ser veiculada mediante
+lei em sentido estrito e não se sujeita ao princípio da anterioridade.
+
+d) o decreto em questão é meramente declaratório, na medida em que o Fisco não poderia exigir dos
+contribuintes o pagamento dos créditos tributários na data usual de vencimento, após falha nos seus
+sistemas informatizados.
+
+e) a postergação do prazo de pagamento de tributo não vencido por ato do Governador, no caso, seria ilegal,
+pois se trataria de aprovação de moratória tributária, sem prévia aprovação legislativa.
+
+Comentário:
+
+Alternativa A: A mera alteração no prazo de vencimento do tributo não se caracteriza como remissão.
+Alternativa errada.
+
+Alternativa B: A alteração no prazo de vencimento do tributo não configura sua majoração, portanto, não
+se submete às regras constitucionais relativas à anterioridade anual e nonagesimal. Alternativa errada.
+
+Alternativa C: Como se sabe, da jurisprudência, a norma que altera o prazo de recolhimento de obrigação
+tributária não precisa ser veiculada mediante lei em sentido estrito e não se sujeita ao princípio da
+anterioridade. Alternativa correta.
+
+Alternativa D: Na verdade, não, porque o art. 161, do CTN, prevê que o crédito não integralmente pago no
+vencimento é acrescido de juros de mora, seja qual for o motivo determinante da falta, sem prejuízo da
+imposição das penalidades cabíveis e da aplicação de quaisquer medidas de garantia. Alternativa errada.
+
+Alternativa E: A postergação do prazo de pagamento de tributo não se caracteriza, por si só, como moratória
+tributária. Alternativa errada.
+
+Gabarito: C
+
+10.FGV/SEFIN-RO-Auditor Fiscal/2018
+A Lei Z, do estado Delta, publicada no dia 31 de dezembro de 2016, alterou, em seu Art. 1º, a data de
+recolhimento do imposto de transmissão causa mortis e doação, de quaisquer bens e direitos, e, em seu Art.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           35
+        www.estrategiaconcursos.com.br                                                                     43
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+2º, aumentou a respectiva alíquota. O Art. 3º, por sua vez, dispôs que a Lei Z entraria em vigor no dia 1º de
+janeiro de 2017.
+À luz da sistemática constitucional afeta ao sistema tributário nacional, o Art. 3º da Lei Z
+a) é totalmente inconstitucional, sob o prisma material.
+b) é totalmente constitucional, sob os prismas formal e material.
+c) é parcialmente inconstitucional, sob o prisma material, em relação à entrada em vigor do Art. 1º.
+d) é parcialmente inconstitucional, sob o prisma material, em relação à entrada em vigor do Art. 2º.
+e) é totalmente constitucional, apenas sob o prisma material.
+
+Comentário: A inconstitucionalidade do art. 3º, da Lei Z, diz respeito ao art. 2º, que aumentou a alíquota do
+ITCD, não respeitando o princípio da anterioridade nonagesimal. Quanto ao art. 1º, não há qualquer ressalva,
+tendo em vista que a alteração na data de recolhimento do imposto não configura sua majoração, razão pela
+qual o STF já decidiu ser inaplicável o princípio da anterioridade.
+
+Gabarito: Letra D
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          36
+        www.estrategiaconcursos.com.br                                                                    43
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 01
+
+
+
+
+                                          LISTA DE QUESTÕES
+1.       CEBRASPE/Auditor do Estado (CGE RJ) /2024
+
+A respeito dos princípios constitucionais tributários e das espécies tributárias, julgue o item a seguir,
+considerando o Código Tributário Nacional (CTN), a Constituição Federal de 1988 e a jurisprudência do STF.
+
+É legítimo ao estado do Rio de Janeiro estabelecer regime diferenciado de tributação exclusivamente em
+favor de operações das quais resulte a saída interna de mercadorias produzidas em estabelecimentos
+localizados naquele estado.
+
+2.       CEBRASPE/Delegado de Polícia (PC PE) /2024
+
+Com base na jurisprudência predominante, na legislação vigente e na doutrina majoritária, julgue os itens a
+seguir.
+
+I Sujeita-se ao princípio da anterioridade a norma legal que altera o prazo de recolhimento de obrigação
+tributária.
+
+II O princípio da legalidade tributária impede a instituição de quaisquer impostos mediante medida
+provisória.
+
+III O princípio da irretroatividade veda a cobrança de tributos em relação a fatos geradores pretéritos ao
+início da vigência da lei que os houver instituído ou aumentado.
+
+IV O Estado tributa com a finalidade precípua, mas não exclusiva, de arrecadar recursos para os cofres
+públicos.
+
+Assinale a opção correta.
+
+A) Apenas os itens I e II estão certos.
+
+B) Apenas os itens I e IV estão certos.
+
+C) Apenas os itens II e III estão certos.
+
+D) Apenas os itens III e IV estão certos.
+
+E) Todos os itens estão certos.
+
+3.       CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+A respeito dos princípios constitucionais tributários e das espécies tributárias, julgue o item a seguir,
+considerando o Código Tributário Nacional (CTN), a Constituição Federal de 1988 e a jurisprudência do STF.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     37
+           www.estrategiaconcursos.com.br                                                               43
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 01
+
+
+
+O princípio da não surpresa está inserido entre as limitações ao poder de tributar, de forma que é garantia a
+ser assegurada aos contribuintes mesmo nos casos de majoração indireta de tributo, como a revogação de
+benefício fiscal.
+
+4.       CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+João, por não ter pagado o crédito tributário que devia, foi demandado pela fazenda pública, por meio de
+execução fiscal. Posteriormente, o contribuinte efetuou judicialmente o depósito integral, em dinheiro, do
+valor cobrado e impugnou a cobrança. No curso do processo, foi editada, pelo Poder Executivo, uma portaria
+que, embasada em determinada lei, permitiu o parcelamento dos créditos tributários relativos ao mesmo
+tributo cobrado de João, excetuando apenas os contribuintes que tivessem feito depósito judicial relativo
+aos valores dos créditos tributários cobrados. Por esse motivo, João formalizou pedido de parcelamento, o
+qual foi indeferido.
+
+A partir da situação hipotética apresentada, julgue o item seguinte com base no CTN, na Constituição Federal
+                                                            ==219a34==
+
+
+
+
+de 1988 e na jurisprudência dos tribunais superiores.
+
+A portaria editada pelo Poder Executivo conflita com o princípio da isonomia tributária, por revelar critério
+de discriminação entre os contribuintes desprovido de razoabilidade.
+
+5.       FGV/RFB-Auditor Fiscal/2023
+
+Lei federal instituidora do Conselho Federal de certa profissão regulamentada estatuiu que a Diretoria da
+entidade poderia fixar o valor a ser cobrado a título de anuidades a serem pagas pelos profissionais
+vinculados a tal Conselho, limitado a um teto de até R$ 500,00. Também estabeleceu que a fiscalização e a
+arrecadação de tais anuidades seriam feitas pelos próprios funcionários deste Conselho, contratados pelo
+regime da CLT.
+
+Acerca desse cenário, é correto afirmar que tal lei federal
+
+A) violou o princípio da legalidade tributária ao conferir à Diretoria deste Conselho Profissional o poder de
+fixar o valor das anuidades.
+
+B) consubstancia o fenômeno da parafiscalidade, admitido no ordenamento jurídico nacional.
+
+C) não poderia ter atribuído a tal Conselho, que não é parte da administração tributária federal, nem a
+fiscalização nem a cobrança destas anuidades.
+
+D) poderia ter atribuído a tal Conselho, apesar de não ser parte da administração tributária federal, a
+cobrança de tais anuidades, mas não sua fiscalização.
+
+E) não poderia ter atribuído a funcionários de tal Conselho, regidos pela CLT, a fiscalização e cobrança destas
+anuidades, uma vez que não são agentes da Secretaria Especial da Receita Federal do Brasil.
+
+6.       CEBRASPE/Pref Maringá-Auditor/2022
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         38
+           www.estrategiaconcursos.com.br                                                                   43
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 01
+
+
+
+A Carta Magna estipulou a competência tributária, a imunidade tributária, o alcance da norma e as limitações
+ao poder de tributar, parâmetros que devem ser respeitados pelos cidadãos e pelos entes federados. Acerca
+do tema, assinale a opção correta.
+
+a) A cobrança de pedágio pela utilização de vias conservadas pelo poder público é considerada taxa, que não
+se inclui entre as espécies de tributo.
+
+b) A União tem competência constitucional para instituir isenções de tributos da competência dos estados,
+do Distrito Federal ou dos municípios.
+
+c) A CIDE-combustíveis poderá ter alíquota específica, tendo por base a unidade de medida adotada, e terá
+que respeitar o princípio da anterioridade nonagesimal no caso de ter sua alíquota reduzida e restabelecida.
+
+d) Além do papel, a tinta destinada à impressão de livros também tem imunidade tributária de impostos.
+
+e) Os videofonogramas contendo obras musicais de artistas brasileiros ou europeus, gravados no país em
+mídia física, apenas, têm imunidade tributária de impostos.
+
+7.       FGV/Câmara dos Deputados-Consultor/2024
+
+Uma nova Instrução Normativa da Secretaria da Receita Federal do Brasil diminuiu o prazo de pagamento de
+certo tributo federal, gerando indignação entre os sujeitos passivos tributários.
+
+Diante desse cenário e à luz da jurisprudência do STF, assinale a afirmativa correta.
+
+a) A alteração de prazo de pagamento de tributo somente poderia ser feita por meio de lei.
+
+b) Somente um Decreto do Presidente da República poderia alterar o prazo de pagamento de tributo federal.
+
+c) A norma que altera o prazo de pagamento tributário não se sujeita ao princípio da anterioridade tributária.
+
+d) Embora a Instrução Normativa seja instrumento apto a alterar prazo de pagamento de tributo federal,
+deve respeitar apenas o princípio da anterioridade tributária nonagesimal.
+
+e) Embora a Instrução Normativa seja instrumento apto a alterar prazo de pagamento de tributo federal,
+deve respeitar apenas o princípio da anterioridade tributária anual.
+
+8.       VUNESP/CM Orlândia-Procurador /2022
+
+A respeito das limitações constitucionais ao poder de tributar, assinale a alternativa correta.
+
+a) O princípio da legalidade tributária não impede o uso da norma tributária em branco.
+
+b) O princípio da anterioridade tributária assegura que não será realizada a cobrança de tributo sem prévia
+autorização orçamentária.
+
+c) O princípio da anterioridade nonagesimal aplica-se a qualquer modificação que altere o valor de imposto.
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        39
+           www.estrategiaconcursos.com.br                                                                  43
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 01
+
+
+
+d) O princípio do não confisco não se aplica às multas tributárias, dado o seu caráter punitivo.
+
+e) A União, com o objetivo de garantir a supremacia do interesse público, poderá conceder isenção de
+impostos estaduais e municipais.
+
+9.       VUNESP/CM Jundiaí-Procurador/2022
+
+No estado da Federação “Y”, o prazo do recolhimento de determinado tributo, estabelecido originalmente
+em decreto, foi alterado mediante novo decreto do Governador na sequência de um problema pontual nos
+sistemas informatizados do estado que impediu a emissão de notas fiscais pelos contribuintes do tributo
+pelo período de cerca de 10 dias. A mudança foi realizada antes do término do prazo ordinário de vencimento
+do tributo e o seu objetivo foi o de minimizar os transtornos aos contribuintes afetados pela falha técnica. A
+respeito da situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias, que
+
+a) a mudança no prazo de recolhimento do tributo não afastará os juros e multa moratórios, uma vez que
+para a aprovação de remissão tributária se faz necessária a aprovação de lei em sentido estrito.
+
+b) a modificação do prazo de recolhimento do tributo, por afetar o aspecto temporal da obrigação tributária
+é causa para incidência das regras constitucionais relativas à anterioridade anual e nonagesimal, conforme
+o tributo.
+
+c) a norma que altera o prazo de recolhimento de obrigação tributária não precisa ser veiculada mediante
+lei em sentido estrito e não se sujeita ao princípio da anterioridade.
+
+d) o decreto em questão é meramente declaratório, na medida em que o Fisco não poderia exigir dos
+contribuintes o pagamento dos créditos tributários na data usual de vencimento, após falha nos seus
+sistemas informatizados.
+
+e) a postergação do prazo de pagamento de tributo não vencido por ato do Governador, no caso, seria ilegal,
+pois se trataria de aprovação de moratória tributária, sem prévia aprovação legislativa.
+
+10.      FGV/SEFIN-RO-Auditor Fiscal/2018
+
+A Lei Z, do estado Delta, publicada no dia 31 de dezembro de 2016, alterou, em seu Art. 1º, a data de
+recolhimento do imposto de transmissão causa mortis e doação, de quaisquer bens e direitos, e, em seu Art.
+2º, aumentou a respectiva alíquota. O Art. 3º, por sua vez, dispôs que a Lei Z entraria em vigor no dia 1º de
+janeiro de 2017.
+
+À luz da sistemática constitucional afeta ao sistema tributário nacional, o Art. 3º da Lei Z
+
+a) é totalmente inconstitucional, sob o prisma material.
+
+b) é totalmente constitucional, sob os prismas formal e material.
+
+c) é parcialmente inconstitucional, sob o prisma material, em relação à entrada em vigor do Art. 1º.
+
+d) é parcialmente inconstitucional, sob o prisma material, em relação à entrada em vigor do Art. 2º.
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        40
+           www.estrategiaconcursos.com.br                                                                  43
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 01
+
+
+
+e) é totalmente constitucional, apenas sob o prisma material.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   41
+        www.estrategiaconcursos.com.br                                             43
+
+                                      https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 01
+
+
+
+
+                                                GABARITO
+ 1. Errado
+ 2. D
+ 3. Correto
+ 4. Errado
+ 5. B
+ 6. C
+ 7. C
+ 8. A
+ 9. C
+ 10. D
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   42
+      www.estrategiaconcursos.com.br                                             43
+
+                                    https://t.me/KakashiAssinaturasBot
+

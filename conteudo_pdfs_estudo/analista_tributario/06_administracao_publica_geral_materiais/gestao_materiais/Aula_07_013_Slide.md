@@ -1,0 +1,552 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: TRANSPORTE E DISTRIBUIÇÃO
+---
+
+# TRANSPORTE E DISTRIBUIÇÃO
+
+---
+
+---
+
+TRANSPORTE E DISTRIBUIÇÃO
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - VI
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/FITO/Analista de Gestão/2020) A primeira etapa para realizar uma gestão
+     eficiente de frotas é caracterizada por:
+     a) controlar as rotas dos veículos e identificar (ou prever) os problemas que poderão
+     ocorrer e pensar em soluções prévias.
+     b) criar planilhas com os relatórios de gastos de combustíveis para cada veículo e os
+     custos de manutenção.
+     c) organizar a manutenção dos carros da frota de maneira que sempre haja opções
+     disponíveis para o transporte.
+     d) promover treinamentos constantes com os motoristas para que aprendam a dirigir de
+     maneira segura e econômica.
+     e) realizar um diagnóstico da frota, identificando a estrutura que existe no momento
+     inicial.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/FITO/Analista de Gestão/2020) A primeira etapa para realizar uma gestão
+     eficiente de frotas é caracterizada por:
+     a) controlar as rotas dos veículos e identificar (ou prever) os problemas que poderão
+     ocorrer e pensar em soluções prévias.
+     b) criar planilhas com os relatórios de gastos de combustíveis para cada veículo e os
+     custos de manutenção.
+     c) organizar a manutenção dos carros da frota de maneira que sempre haja opções
+     disponíveis para o transporte.
+     d) promover treinamentos constantes com os motoristas para que aprendam a dirigir de
+     maneira segura e econômica.
+     e) realizar um diagnóstico da frota, identificando a estrutura que existe no momento
+     inicial.                     A primeira etapa para a estruturação de um processo que visa melhorar a gestão de algo,
+     GABARITO - E                 inclusive de frotas, geralmente é composto por um diagnóstico do problema que realiza uma
+                                            "fotografia" do momento, ou seja, estrutura disponível, ameaças, oportunidades, gargalos,
+                                            enfim, tudo que está funcionando e o que não está. Com base nisso os problemas são
+                                            mapeados e são sugeridas e implementadas soluções visando a melhoria do processo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/FITO/Analista de Gestão/2020) A realização de treinamentos com os
+     motoristas para mitigar riscos envolvendo a sua segurança e a de outros motoristas, bem
+     como para promover economias sensíveis de custo, pode ser prevista se a gestão de frotas
+     estiver acompanhando o indicador de:
+     a) tempo parado em decorrência de avarias e valor de pagamento de pedágios, por
+     veículo.
+     b) tempo parado em decorrência de avarias e taxa de indisponibilidade de cada veículo.
+     c) tempo parado em decorrência de avarias e ranking das peças substituídas com mais
+     frequência, por veículo.
+     d) quantidade de multas e quebra de veículo (práticas inadequadas), por motorista.
+     e) idade média da frota e desgaste de pneus de chuva.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/FITO/Analista de Gestão/2020) A realização de treinamentos com os
+     motoristas para mitigar riscos envolvendo a sua segurança e a de outros motoristas, bem
+     como para promover economias sensíveis de custo, pode ser prevista se a gestão de frotas
+     estiver acompanhando o indicador de:
+     a) tempo parado em decorrência de avarias e valor de pagamento de pedágios, por
+     veículo.
+     b) tempo parado em decorrência de avarias e taxa de indisponibilidade de cada veículo.
+     c) tempo parado em decorrência de avarias e ranking das peças substituídas com mais
+     frequência, por veículo.
+     d) quantidade de multas e quebra de veículo (práticas inadequadas), por motorista.
+     e) idade média da frota e desgaste de pneus de chuva.
+     GABARITO - D                           O acompanhamento da quantidade de multas e quebra de veículo (práticas
+                                                       inadequadas), por motorista permite identificar os motoristas que devem ser
+                                                       alvo de treinamento visando a segurança de todo o sistema e a redução de
+                                                       custos relativa à manutenção e conservação dos veículos. São, ambos,
+                                                       fatores que indicam a performance presente e diretamente relacionada a
+                                                       ação e decisões tomadas por cada um dos motoristas.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (CEBRASPE/PGE PE/Assistente/2019) Com relação a critérios e técnicas de
+     armazenagem, julgue o item subsequente. A finalidade da marcação dos símbolos de
+     segurança em caixas é indicar cuidados a serem tomados exclusivamente quando da
+     estocagem de produtos acabados.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (CEBRASPE/PGE PE/Assistente/2019) Com relação a critérios e técnicas de
+     armazenagem, julgue o item subsequente. A finalidade da marcação dos símbolos de
+     segurança em caixas é indicar cuidados a serem tomados exclusivamente quando da
+     estocagem de produtos acabados.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+        Os símbolos de segurança nas
+        caixas indicam cuidados a serem
+        tomados durante as atividades de
+        manuseio,      transporte      e
+        armazenamento e não só na
+        "estocagem      de      produtos
+        acabados".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/CM Mauá-SP/Almoxarife/2019) O tipo de carga unitária composto por uma
+     estrutura fabricada, regularmente, com fios de poliéster de grande resistência, que
+     suportam bastante peso e que são içados por guindaste e armazenados nos locais
+     apropriados, é:
+     a) o contêiner.
+     b) a pré-lingada.
+     c) o pallet.
+     d) a carga frigorífica ou também chamada de refrigerada.
+     e) a carga viva.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/CM Mauá-SP/Almoxarife/2019) O tipo de carga unitária composto por uma
+     estrutura fabricada, regularmente, com fios de poliéster de grande resistência, que
+     suportam bastante peso e que são içados por guindaste e armazenados nos locais
+     apropriados, é:
+     a) o contêiner.
+     b) a pré-lingada.
+     c) o pallet.
+     d) a carga frigorífica ou também chamada de refrigerada.
+     e) a carga viva.
+     GABARITO - B
+
+                         Essa é, tipicamente, a carga pré-lingada. De acordo com Rodrigues a
+                         carga pré-lingada é composta por rede especial resistente, manufaturada
+                         com fios de poliéster, nylon ou similar, adequada para unitizar
+                         mercadorias ensacadas, empacotadas ou acondicionadas de outras
+                         formas.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     05. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Atividade
+     primária da logística que envolve “[...] vários métodos para movimentarem produtos.
+     Algumas das alternativas populares são os modos rodoviário, ferroviário e aeroviário”. A
+     afirmação refere-se à Gestão do(da)(de):
+     a) pessoas.
+     b) melhoria contínua.
+     c) qualidade total.
+     d) transporte.
+     e) marketing integrado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (CETREDE/Pref. Mun. São Gonçalo do Amarante-CE/Administrador/2019) Atividade
+     primária da logística que envolve “[...] vários métodos para movimentarem produtos.
+     Algumas das alternativas populares são os modos rodoviário, ferroviário e aeroviário”. A
+     afirmação refere-se à Gestão do(da)(de):
+     a) pessoas.
+     b) melhoria contínua.
+                                         O enunciado se refere à gestão dos modais de transporte ao indicar a
+     c) qualidade total.                 movimentação de produtos que faz parte do processo logístico. Cita ainda
+     d) transporte.                      modalidades bastante cobradas em provas como a rodoviária, a ferroviária
+                                         e a aérea, faltando ainda algumas como a hidroviária, a dutoviária e, mais
+     e) marketing integrado.             recentemente, a infoviária, que já começa a ser adotada por algumas
+     GABARITO - D                        bancas (transporte de dados e outros produtos/serviços de forma virtual).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (IBADE/Pref. Mun. Seringueiras-RO/Almoxarife/2019) Trata-se de uma plataforma
+     disposta horizontalmente para carregamento, constituída de vigas, blocos ou uma simples
+     face sobre os apoios, cuja altura é compatível com a introdução dos garfos da
+     empilhadeira, e que permite o agrupamento de materiais, possibilitando o manuseio, a
+     estocagem, a movimentação e o transporte num único carregamento. Esta definição
+     refere-se a:
+     a) caixa.
+     b) prateleira.
+     c) layout.
+     d) pallet.
+     e) carrinho com rodas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (IBADE/Pref. Mun. Seringueiras-RO/Almoxarife/2019) Trata-se de uma plataforma
+     disposta horizontalmente para carregamento, constituída de vigas, blocos ou uma simples
+     face sobre os apoios, cuja altura é compatível com a introdução dos garfos da
+     empilhadeira, e que permite o agrupamento de materiais, possibilitando o manuseio, a
+     estocagem, a movimentação e o transporte num único carregamento. Esta definição
+     refere-se a:
+     a) caixa.
+     b) prateleira.
+     c) layout.
+     d) pallet.
+     e) carrinho com rodas.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Pallets
+
+                      Face Simples com 2 entradas                                        Face Dupla com 2 entradas
+
+                      Face Simples com 4 entradas                                        Face Dupla com 4 entradas
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     07. (CESGRANRIO/PETROBRAS/Profissional Superior/2018) Sr. X está buscando melhorar a operação de distribuição da
+     empresa onde trabalha. Uma das alternativas que ele está avaliando é o uso de um operador logístico, que é um:
+     a) meio de utilização de mais de um modo de transporte, para mover mercadorias até o seu destino, buscando atingir
+     a satisfação total do cliente.
+     b) fornecedor de serviços logísticos, especializado em gerenciar e executar todas ou parte das atividades logísticas nas
+     várias fases da cadeia de abastecimento de seus clientes, agregando valor aos produtos dos mesmos, com
+     competência para, no mínimo, prestar simultaneamente serviços nas três atividades básicas de: controle de estoques,
+     armazenagem e gestão de transportes.
+     c) sistema de distribuição em que os produtos são recebidos, selecionados e encaminhados para outro veículo,
+     precisando de grande exatidão quanto ao tempo de entrada e saída desses produtos, resultando na redução do
+     investimento em estoques e na otimização da utilização dos recursos de armazém.
+     d) sistema de administração da produção que determina que nada deve ser produzido, transportado ou comprado
+     antes da hora certa, reduzindo o tempo da mercadoria no depósito.
+     e) sistema integrado de gestão com foco no cliente, constituído por um conjunto de processos/procedimentos
+     organizados e integrados a um modelo de gestão de negócios, auxiliando na fidelização de cliente.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     07. (CESGRANRIO/PETROBRAS/Profissional Superior/2018) Sr. X está buscando melhorar a operação de distribuição da
+     empresa onde trabalha. Uma das alternativas que ele está avaliando é o uso de um operador logístico, que é um:
+     a) meio de utilização de mais de um modo de transporte, para mover mercadorias até o seu destino, buscando atingir
+     a satisfação total do cliente.
+     b) fornecedor de serviços logísticos, especializado em gerenciar e executar todas ou parte das atividades logísticas nas
+     várias fases da cadeia de abastecimento de seus clientes, agregando valor aos produtos dos mesmos, com
+     competência para, no mínimo, prestar simultaneamente serviços nas três atividades básicas de: controle de estoques,
+     armazenagem e gestão de transportes.
+     c) sistema de distribuição em que os produtos são recebidos, selecionados e encaminhados para outro veículo,
+     precisando de grande exatidão quanto ao tempo de entrada e saída desses produtos, resultando na redução do
+     investimento em estoques e na otimização da utilização dos recursos de armazém.
+     d) sistema de administração da produção que determina que nada deve ser produzido, transportado ou comprado
+     antes da hora certa, reduzindo o tempo da mercadoria no depósito.
+     e) sistema integrado de gestão com foco no cliente, constituído por um conjunto de processos/procedimentos
+     organizados e integrados a um modelo de gestão de negócios, auxiliando na fidelização de cliente.
+     GABARITO - B
+                                                                 Um operador logístico atua em todas as fases da cadeia de abastecimento do seu
+                                                                 cliente, gerando valor ao longo de todo o processo. Dessa forma participa de
+                                                                 grandes blocos que temos estudado na administração de materiais como a
+                                                                 armazenagem e guarda dos materiais, o controle da estocagem, o transporte e
+                                                                 movimentação interna e a distribuição externa dos materiais/produtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     08. (CESGRANRIO/PETROBRAS/Profissional Técnico/2018) Ao se modelarem as
+     instalações de uma cadeia de suprimentos, deve-se contabilizar a capacidade operacional
+     de cada uma dessas instalações. Nesse sentido, considere um centro de distribuição que
+     realiza diferentes atividades. Uma dessas atividades refere-se ao recebimento de uma
+     carga unitizada, seu fracionamento e seu encaminhamento para as docas de expedição,
+     sem que possua um endereço de armazenamento. A atividade descrita denomina-se:
+     a) Cross-docking.
+     b) Transit-point.
+     c) Milk-run.
+     d) Ovação.
+     e) Just-in-Sequence.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Cross Docking & Transit Point
+                                                                                 O cross docking é um método de distribuição, no
+                                                                                 qual a mercadoria recebida num armazém ou
+                                                                                 centro de distribuição, não é estocada, mas sim
+                                                                                 preparada para o carregamento e distribuição ou
+                                                                                 expedição a fim de ser entregue ao cliente ou
+                                                                                 consumidor imediatamente, ou, pelo menos, o
+                                                                                 mais rapidamente possível.
+                                                                                 No cross docking, quando alguém compra
+                                                                                 determinado produto em um site, ele é enviado a
+                                                                                 um centro de distribuição ou armazém que, por
+                                                                                 meio de um sistema organizado de redistribuição,
+                                                                                 o envia para o cliente.
+                                                                                 Em suma, o cross-docking é a transferência das
+                                                                                 mercadorias entregues, do ponto de
+                                                                                 recebimento, diretamente para o ponto de
+                                                                                 entrega, com tempo de estocagem limitado ou,
+                                                                                 se possível, nulo.
+                                                                                 Trabalha com múltiplos fornecedores, que
+                                                                                 atendem clientes comuns, sendo essa a maior
+                                                                                 diferença entre o cross docking e o transit point,
+                                                                                 que geralmente é um “CD sem estoque”, servindo
+                                                                                 a uma única organização.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CESGRANRIO/PETROBRAS/Profissional Técnico/2018) Ao se modelarem as
+     instalações de uma cadeia de suprimentos, deve-se contabilizar a capacidade operacional
+     de cada uma dessas instalações. Nesse sentido, considere um centro de distribuição que
+     realiza diferentes atividades. Uma dessas atividades refere-se ao recebimento de uma
+     carga unitizada, seu fracionamento e seu encaminhamento para as docas de expedição,
+     sem que possua um endereço de armazenamento. A atividade descrita denomina-se:
+     a) Cross-docking.
+     b) Transit-point.
+     c) Milk-run.
+     d) Ovação.
+     e) Just-in-Sequence.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FADESP/CM Abaetetuba-PA/Administrador/2018) A distribuição física de materiais
+     está relacionada ao processamento de pedidos, do transporte, da estocagem de produtos
+     acabados e da armazenagem dos produtos finais da empresa. Neste sentido, a distribuição
+     de materiais:
+     a) tem limitada ou nenhuma influência sobre o transporte, a estocagem e o
+     gerenciamento de estoque.
+     b) substitui as atividades de serviço aos clientes, previsão de demanda e controle de
+     estoque.
+     c) cobre todas as atividades que vão desde a saída do produto acabado da fábrica até a
+     entrega final no cliente.
+     d) é o processo de trazer de volta para a indústria os produtos com defeitos e/ou
+     rejeitados pelos clientes.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FADESP/CM Abaetetuba-PA/Administrador/2018) A distribuição física de materiais
+     está relacionada ao processamento de pedidos, do transporte, da estocagem de produtos
+     acabados e da armazenagem dos produtos finais da empresa. Neste sentido, a distribuição
+     de materiais:
+     a) tem limitada ou nenhuma influência sobre o transporte, a estocagem e o
+     gerenciamento de estoque.
+     b) substitui as atividades de serviço aos clientes, previsão de demanda e controle de
+     estoque.
+     c) cobre todas as atividades que vão desde a saída do produto acabado da fábrica até a
+     entrega final no cliente.
+     d) é o processo de trazer de volta para a indústria os produtos com defeitos e/ou
+     rejeitados pelos clientes.
+                                         A distribuição de materiais envolve todas as atividades que vão desde a saída
+     GABARITO - C                        da fábrica até a sua chegada ao cliente que o adquiriu. Todo o processo
+                                                  realizado ao longo desse percurso é chamado de distribuição.
+                                                  De acordo com Viana: “A distribuição é a atividades por meio da qual a
+                                                  empresa efetua as entregas de seus produtos, estando, por consequência,
+Administração de Materiais para Concursos
+                                                  intimamente ligada a movimentação e a transportes”.
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CRQ 4/Profissional de Suporte Técnico/2018) Quanto à distribuição de
+     materiais, julgue o item. O transporte rodoviário tem a vantagem de ter grande
+     flexibilidade operacional e baixo custo inicial de implantação.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Rodoviário
+       “Monopólio”, flexível e custos relativos elevados
+     ❑ Hoje temos praticamente um monopólio do transporte rodoviário no país. Cerca de 70% de toda a carga gerada
+       no país é transportada por este modal, enquanto as ferrovias movimentam cerca de 15%, a cabotagem próximo
+       de 10% e a aviação 1%.
+
+     ❑ É representado pelo transporte de cargas que utiliza estradas e rodovias para levar os produtos acabados do
+       depósito da empresa até o cliente que os adquiriu.
+
+     ❑ Como principais características do transporte rodoviário temos:
+
+      •      Modal mais flexível. Caminhão pode entrar ou sair do depósito da empresa e chegar até ao cliente
+             diretamente. É o chamado transporte porta a porta ou "door to door (D2D)".
+
+      •      Custos operacionais elevados. Cada veículo leva quantidade limitada de carga e requer um motorista e,
+             as vezes, um ajudante.
+
+      •      Dependência da infraestrutura disponível e impacto nos custos: condição das estradas, pagamento de
+             pedágios, combustíveis, riscos de assaltos e roubos, etc.
+
+      •      Destinado a volumes menores ou cargas com prazos de entrega relativamente curtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CRQ 4/Profissional de Suporte Técnico/2018) Quanto à distribuição de
+     materiais, julgue o item. O transporte rodoviário tem a vantagem de ter grande
+     flexibilidade operacional e baixo custo inicial de implantação.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Modais de Transporte
+       Resumo para a prova!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

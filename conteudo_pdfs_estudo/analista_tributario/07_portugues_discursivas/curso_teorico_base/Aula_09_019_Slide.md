@@ -1,0 +1,1541 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 09_019_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: PORTUGUÊS EXTENSIVO
+---
+
+# PORTUGUÊS EXTENSIVO
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                        Profª. Adriana Figueiredo
+
+                   
+
+
+---
+
+PORTUGUÊS EXTENSIVO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+                           PERÍODO COMPOSTO -
+                                miscelânea
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+01. VUNESP - TJ-SP - Psicólogo Judiciário
+
+1º PARÁGRAFO
+
+
+Dados mais recentes do IBGE (Instituto Brasileiro de Geografia e Estatística)
+apontam que a diferença na carga de trabalho entre homens e mulheres não só é
+bastante díspar como aumentou nos últimos anos.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+01. VUNESP - TJ-SP - Psicólogo Judiciário
+
+O primeiro parágrafo do texto contém um período composto por
+
+
+A) coordenação e por subordinação, sendo a segunda oração coordenada
+explicativa e a última oração adverbial conformativa.
+
+
+B) subordinação, sendo a segunda oração substantiva subjetiva e a última oração
+adverbial comparativa.
+
+
+C) subordinação e por coordenação, sendo a segunda oração substantiva
+predicativa e a última oração coordenada adversativa.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+01. VUNESP - TJ-SP - Psicólogo Judiciário
+
+D) subordinação e por coordenação, sendo a segunda oração substantiva objetiva
+direta e a última oração coordenada aditiva.
+
+
+E) coordenação, sendo a segunda oração coordenada explicativa e a última
+coordenada aditiva.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+02. FCC - 2020 - AL-AP - Assistente Legislativo
+
+Estabelece-se entre as ideias das orações Era uma exceção, mas certamente os
+outros deviam ser quase semideuses (...) relação de
+
+
+A) coordenação, articulada pelo emprego do sentido de adversidade do conectivo.
+
+B) paralelismo, efetuado pela independência entre as orações.
+
+C) subordinação, efetuada pelo sentido de oposição entre as orações.
+
+D) situação, marcadamente designada pela presença de advérbios.
+
+E) nominação, efetuada pelo emprego de substantivos.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+03. INSTITUTO AOCP - 2018 - ITEP - RN - Agente de Necrópsia
+
+Em relação ao excerto “[...] é preciso que políticas públicas e profissionais de saúde
+ajudem os idosos a prevenir/ diminuir dependências para que tenham condições
+de sair de casa com segurança [...]”, é correto afirmar que há, dentre outras, uma
+oração
+
+A) subordinada adverbial final.
+B) coordenada conclusiva.
+C) subordinada adverbial consecutiva.
+D) subordinada adverbial causal.
+E) adjetiva explicativa.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+04. INSTITUTO AOCP - Prefeitura de Pinhais - PR - Agente Municipal de
+Obras e Posturas
+Assinale a alternativa em que a oração destacada é uma subordinada substantiva.
+
+A) “Eu não tenho muito tempo porque meu professor de inglês avançado me deu
+um livro [...]”.
+
+B) “Se você ainda não leu, acho [...]”.
+
+C) “[...] acho que deve, porque é muito interessante.”.
+
+D) “O professor me disse para ler alguns capítulos de cada vez, mas eu não gosto
+de ler os livros dessa forma”.
+
+E) “Minha mãe começou a chorar, e meu pai colocou o braço em seu ombro”.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+05. CESPE / CEBRASPE - CPRM - Analista em Geociências
+
+O último período do texto é formado por um conjunto de orações que, embora
+sejam semanticamente dependentes entre si, apresentam estruturas linguísticas
+independentes, justapostas por coordenação.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. CESPE - SEDUC-AM - Professor - Língua Portuguesa
+
+O período 2 é constituído de orações subordinadas justapostas, isto é, ligadas umas
+às outras sem a presença de conjunção.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+                           ORAÇÕES REDUZIDAS
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+Orações reduzidas
+
+Apresentam o seu verbo (principal ou auxiliar, este último nas locuções verbais) no
+infinitivo, gerúndio ou particípio:
+
+Ex.: É preciso seguir em frente.
+
+Vi a menina chorando na praça.
+
+Chegada a hora, saiu rapidamente.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+                      QUESTÕES DE CONCURSO
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                 ORAÇÕES REDUZIDAS
+               SUBSTANTIVAS E ADJETIVAS
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. AOCP - EBSERH - Engenheiro Eletricista
+No período “Pegar a estrada com os filhos pequenos revelou-se uma delícia
+insuspeitada.", a oração em destaque tem função de
+
+
+A) complemento nominal.
+
+B) objeto direto
+
+C) sujeito.
+
+D) objeto indireto.
+
+E) aposto.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+08. Quadrix - 2021 - CRM-MS - Analista Administrativo
+
+
+Atendimento pediátrico por telemedicina é possível?
+
+Segundo Ana Escobar, o atendimento médico é essencialmente presencial,
+mas, devido à pandemia, o atendimento por telemedicina emergiu como uma
+possibilidade, com caráter de exceção. Agora, cabe aos Conselhos de Medicina
+discutir a regulamentação da prática.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+08. Quadrix - 2021 - CRM-MS - Analista Administrativo
+
+A oração “discutir a regulamentação da prática”, do subtítulo do texto, classifica‐se
+como subordinada
+
+
+A) substantiva subjetiva.
+
+B) substantiva objetiva direta.
+
+C) substantiva objetiva indireta.
+
+D) adjetiva restritiva.
+
+E) adverbial temporal.
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+09. AOCP - 2018 - Prefeitura de Feira de Santana - BA - Professor
+
+Assinale a alternativa em que a oração em destaque tenha função de objeto
+indireto.
+A) “Conciliar os estudos […], com 18 anos, não era viável.”.
+
+B) “Para ter mais oportunidades profissionais, porém, percebeu que era preciso
+concluir a formação.”.
+
+C) “[…] é possível manter os jovens em sua formação escolar [...]”.
+
+D) “Gostaria de ser recepcionista [...]”.
+
+E) “[…] os jovens […] correm o risco de ficar fora do mercado de trabalho.”.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+10. INSTITUTO AOCP - UFSM - Médico - Clínica Médica
+
+Em “Estão mais propensas a terem o foco desviado.”, a oração destacada exerce
+função de
+
+
+A) complemento nominal.
+
+B) sujeito.
+
+C) objeto direto.
+
+D) objeto indireto.
+
+E) predicativo.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+11. Instituto AOCP - IBC - Professor - Educação Infantil
+
+
+1.§ Pensemos na seguinte situação. Três pessoas estão em uma sala, prontas para
+devorar uma travessa de comida. E eis que chegam mais três. Será preciso deitar
+água no feijão, para dividi-lo entre os comensais. Todos comem feijão aguado. Os
+mesmos três estão ouvindo um cantor, quando irrompem mais três na sala. Mas
+agora é diferente, ninguém ouve ou vê menos pela presença dos outros. Não há do
+que privar-se, pois ninguém “come” o som e a imagem dos outros. Se continuar a
+chegar gente, acabarão todos se acotovelando e cochichos atrapalharão o deleite
+da música. Mas quantos serão, a ponto de reduzir o prazer da cantoria?
+Obviamente, isso dependerá do tamanho da sala, do formato, da acústica, do
+volume da voz e se há amplificação, entre outros fatores. Não há um número
+mágico.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+11. Instituto AOCP - IBC - Professor - Educação Infantil
+
+3.§ [...] Para os puristas, se há muitos alunos, dilui-se a interação deles com o
+professor. É um argumento sério, sempre e quando tal interação for praticada. Mas
+isso é raríssimo, qualquer que seja o tamanho da sala. Tais perplexidades atraíram
+muitos estudos, na tentativa de determinar o impacto do tamanho da sala de aula
+sobre o aprendizado. De fato, esse é um dos temas mais pesquisados, com medidas
+cuidadosas e grupos de controle. São centenas de pesquisas, tantas que não mais
+se justifica fazer outras. E o que nos dizem? Simplesmente, com a única exceção
+constituída pelos alunos pobres dos anos iniciais, não há nenhuma associação
+entre o tamanho da sala e o nível de aprendizado. Infere-se que os casos de
+interação aluno-professor são raríssimos. Desde que se possa ver e ouvir o mestre,
+pôr ou tirar alunos não afeta o rendimento. É leviano negar o que diz a avalanche
+de pesquisas. Entendamos, os resultados descrevem o coletivo das escolas.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+11. Instituto AOCP - IBC - Professor - Educação Infantil
+
+
+4.§ [...] Quantos professores por aluno há nessa escola? Desde que temos Ideb e
+Enem, o tema é irrelevante. Se o estudante aprendeu, pouco importa como
+funciona a sala de aula. Pois não é que o nosso Legislativo, com uma pauta atolada
+de problemas angustiantes, se mete a legislar sobre o número de alunos na sala de
+aula? Pela proposta em discussão, no ensino médio, não será possível ultrapassar o
+número mágico de 35. Deve ser uma cifra que, em sua infinita magnificência, Deus
+revelou aos legisladores, pois de nenhuma pesquisa saiu.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+11. Instituto AOCP - IBC - Professor - Educação Infantil
+
+Em “não será possível ultrapassar o número mágico de 35.” (4.§), a função sintática
+da oração destacada é a mesma encontrada em
+
+
+A) “...de determinar o impacto do tamanho da sala de aula...” (3.§)
+
+B) “...para devorar uma travessa de comida.” (1.§)
+
+C) “...que os casos de interação aluno-professor são raríssimos.” (3.§)
+
+D) “...a legislar sobre o número de alunos na sala de aula? (4.§)
+
+E) “...de reduzir o prazer da cantoria?” (1.§)
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+12. CONTEMAX - 2020 - Prefeitura de Alagoa Nova - PB - Agente de
+Combate as Endemias
+Assinale a alternativa abaixo em que há uma oração subordinada adjetiva
+destacada nos períodos retirados do texto:
+
+A) “Nesse cenário, seria possível fazer o equivalente à distância Rio-SP em menos
+de meia hora.” (2º parágrafo).
+
+B) “A Virgin Hyperloop não é a única empresa desenvolvendo o conceito, mas
+nenhuma transportou passageiros antes.” (2º parágrafo).
+
+C) “Ela disse que a velocidade deles foi prejudicada pelo comprimento da pista e
+pela aceleração necessária.” (3º parágrafo).
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+12. CONTEMAX - 2020 - Prefeitura de Alagoa Nova - PB - Agente de
+Combate as Endemias
+D) “(...) disse que a velocidade permitiria, em teoria, as pessoas viajarem entre os
+aeroportos de Gatwick e Heathrow, a cerca de 70 quilômetros de distância em
+Londres, em apenas quatro minutos.” (5º parágrafo).
+
+E) “Os críticos apontaram que os sistemas de viagens Hyperloop envolveriam a
+tarefa considerável de obter permissão de planejamento (...)” (7º parágrafo)
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+13. Quadrix - CONTER - Auxiliar Administrativo
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+13. Quadrix - CONTER - Auxiliar Administrativo
+O trecho do primeiro quadrinho “bombardeado por fótons de alta energia” é:
+
+A) uma oração subordinada adverbial, reduzida de particípio.
+
+B) um aposto explicativo, já que mostra a causa de Calvin ter se tornado uma
+espécie de raio-X vivo.
+
+C) um aposto especificativo, já que delimita Calvin entre tantos outros garotos que
+poderiam passar pela mesma situação.
+
+D) um vocativo longo, o que se pode comprovar, inclusive, pelo fato de aparecer
+isolado por vírgula.
+
+E) um predicativo do sujeito, o qual, por sua vez, é representado por “raio-X vivo”.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+14. INSTITUTO AOCP - 2018 - SES-DF - Médico - Pediatria
+
+Em “[...] Pais órfãos que não se negam a prestar ajuda financeira.”, a oração
+destacada é subordinada adjetiva restritiva.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                QUESTÃO ADAPTADA
+                                
+
+
+---
+
+                           ORAÇÕES REDUZIDAS
+                              ADVERBIAIS
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+15. VUNESP - TJ-SP - Técnico Judiciário
+
+Em – ... fez de tudo para sobreviver ... – a oração em destaque é
+
+
+A) subordinada adverbial final, encerrando ideia de finalidade.
+
+B) coordenada explicativa, encerrando ideia de explicação.
+
+C) subordinada adjetiva restritiva, encerrando ideia de restrição.
+
+D) coordenada adversativa, encerrando a ideia de oposição.
+
+E) subordinada adverbial consecutiva, encerrando ideia de consequência.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+16. INSTITUTO AOCP - TRT - 5ª Região (BA) - Estagiário de Nível Médio
+
+No excerto “[...] a reciprocidade é essencial para a coisa funcionar [...]”, o trecho
+destacado classifica-se como uma oração subordinada
+
+
+A) adverbial final reduzida de infinitivo.
+
+B) adjetiva explicativa.
+
+C) substantiva reduzida de particípio.
+
+D) adverbial temporal.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+17. FGV - SEFAZ-RJ - Analista de Controle Interno
+Ao analisar o progresso da humanidade, percebe-se que o desenvolvimento social
+e econômico foi possível porque o homem sistematizou formas de organização
+entre os povos. (L.18-21)
+
+A oração sublinhada no período acima tem valor
+
+A) causal.
+B) concessivo.
+C) comparativo.
+D) temporal.
+E) consecutivo.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+18. INSTITUTO AOCP - 2019 - PC-ES - Investigador
+Todas as frases que seguem apresentam oração subordinada temporal, EXCETO
+
+A) “Ao viajar, suspenda a entrega de jornais e revistas.”.
+
+B) “Quando for tirar cópias de suas chaves, escolha chaveiros que trabalhem longe
+de sua casa.”.
+
+C) “Em sua residência, ao atender um chamado, certifique-se de quem se trata.”
+
+D) “Caso haja suspeita, não estacione; ligue para a polícia e aguarde a sua
+chegada.”.
+
+E) “À noite, ao chegar em casa, observe se há pessoas suspeitas próximas à
+residência.”.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+19. VUNESP - SPTrans - Analista de Gestão Pleno
+
+Observe os trechos destacados em seus respectivos contextos:
+
+I. ... permitir que nas democracias o bom cidadão pudesse defender seus pontos de
+vista falando bem?
+
+II. Eles foram lá exercitar sua retórica, uma vez que as peças de defesa já haviam
+sido escritas e enviadas aos ministros do tribunal.
+
+III. ...o que ele deveria ler para conseguir escrever suas sentenças no alto nível que
+as circunstâncias exigiam.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+19. VUNESP - SPTrans - Analista de Gestão Pleno
+
+Esses trechos expressam, correta e respectivamente, as circunstâncias de
+
+
+A) meio, restrição e finalidade.
+
+B) modo, restrição e condição.
+
+C) meio, causa e condição.
+
+D) restrição, condição e finalidade.
+
+E) modo, causa e finalidade.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+20. VUNESP - TJ-SP - Escrevente Técnico Judiciário
+Há teorias evolucionistas que defendem que as sociedades com maior número de
+pessoas altruístas sobreviveram por mais tempo por serem mais capazes de
+manter a coesão.
+
+É correto afirmar que a frase destacada na passagem expressa, em relação à que a
+antecede, o sentido de
+
+A) tempo.
+B) adição.
+C) causa.
+D) condição.
+E) finalidade.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+21. FCC - TCE-AL - Analista de Sistemas
+
+O elemento sublinhado tem valor causal em:
+
+
+A) Os propósitos nos devolvem a autoria da vida.
+
+B) Liberdade seria, portanto, sinônimo de decisão.
+
+C) Talvez seja isso que torna tão difícil cumprir propósitos de Ano Novo.
+
+D) Sem história e sem passado, quem seríamos?
+
+E) Somos livres quando, ao agir, recomeçamos.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+22. FGV - Senado Federal - Policial Legislativo Federal
+“Em julho de 1898, temendo por sua saúde, escreveu um testamento, deixando
+para Carolina, sua esposa, entre outros bens, 7.000 contos em títulos da dívida
+pública do empréstimo nacional de 1895.” (L.8-11)
+
+No período acima, a oração destacada tem valor:
+
+A) condicional.
+B) concessivo.
+C) causal.
+D) consecutivo.
+E) conformativo.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+23. FCC - 2018 - TRT - 15ª Região (SP) - Técnico Judiciário
+Somadas a isso influências do ambiente e da própria experiência de vida de cada
+um, é possível transcender as potencialidades de apenas 30 mil genes – a
+estimativa atual do número de genes necessários para “montar” um cérebro
+humano – para montar os trilhões e trilhões de conexões entre as células nervosas,
+criando o arco-íris de possibilidades da natureza humana.
+
+No trecho acima, as orações introduzidas pelos segmentos sublinhados contêm
+respectivamente a ideia de:
+
+A) Condição − finalidade − consequência
+B) Causa − conformidade − temporalidade
+C) Concessão − finalidade − consequência
+D) Conclusão − conformidade − causa
+E) Conclusão − finalidade − causa
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                               CESPE
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+24. CESPE - TJ-DFT - Conhecimentos Básicosiciário
+
+Em “Importa destacar" (l.15), a oração “destacar" exerce função de sujeito.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+25. CESPE - TCU - Auditor Federal de Controle Externo
+
+A oração “Realizar mudanças permanentes na lei por conta de circunstâncias
+excepcionais e episódicas” (l. 23 e 24) exerce a função de complemento da forma
+verbal “recomendar” (l.25).
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+26. CESPE - MPU - Analista - Direito
+
+A oração “quinhoar desigualmente aos desiguais na medida em que se desigualam”
+(l.9-10) exerce a função de complemento indireto da forma verbal “consiste” (l.9).
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+27. CESPE - TRE-BA - Conhecimentos Gerais
+
+A oração “apertar a tecla branca” (l.5) exerce, no período em que ocorre, a função
+de complemento da forma verbal “basta”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   QUESTÃO ADAPTADA
+                                
+
+
+---
+
+28. CESPE - TJ-DFT - Conhecimentos Básicos
+
+Tendo como referência os aspectos gramaticais do texto, julgue o próximo item. A
+oração “usar a iluminação natural" (l.7) exerce a função de complemento do
+adjetivo “possível" (l.6).
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+29. CESPE - INSS - Analista do Seguro Social - Serviço Social
+
+Na linha 29, a oração introduzida pela preposição “por” remete a uma ação
+anterior ao estado descrito na oração “Estamos ansiosos”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+30. CESPE - TCE-AC - Analista de Controle Externo - Ciências Econômicas
+
+No texto, a oração “mudar a consciência das pessoas” (ℓ.15) exerce a função
+sintática de sujeito.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   QUESTÃO ADAPTADA
+                                
+
+
+---
+
+31. CESPE - TCE-PE - Conhecimentos Básicosnômicas
+
+No último período do terceiro parágrafo, o trecho “ser o desafio das democracias
+de massa para obter legitimidade”, formado por duas orações coordenadas entre
+si, exerce a função sintática de sujeito da forma verbal “parece”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+32. CESPE - TRE-MT - Conhecimentos Gerais
+
+O termo “a legítima expectativa” (L.30) e a oração “aguardar até o dia da votação”
+(L. 40 e 41) desempenham a mesma função sintática.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   QUESTÃO ADAPTADA
+                                
+
+
+---
+
+33. CESPE - TJ-DFT - Conhecimentos Básicos
+
+A oração “radicalizar a política de ampliação do acesso à justiça" (l.12) e o termo
+“consenso" (l.14) exercem a mesma função sintática nos períodos em que ocorrem.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+34. CESPE - DETRAN-DF - Auxiliar de Trânsito
+
+O trecho “divulgada pelo Ministério da Saúde” (L.4) está entre vírgulas porque
+constitui oração subordinada adjetiva explicativa.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+35. CESPE - Instituto Rio Branco - Diplomata
+
+A oração iniciada pela forma verbal “estabelecendo” (l.5) restringe a referência de
+“elo”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+36. CESPE - TRE-RS - Conhecimentos Básicos
+
+A oração “de se registrar como postulante a todos ou a alguns cargos eletivos" (l.
+13 e 14) restringe o sentido do pronome “alguém" (l. 13).
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   QUESTÃO ADAPTADA
+                                
+
+
+---
+
+37. CESPE - Câmara dos Deputados - Analista Legislativo
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+37. CESPE - Câmara dos Deputados - Analista Legislativo
+
+O fragmento “percebidos cumulativamente ou não" (l.15) é aposto e qualifica um
+sujeito composto de três núcleos: “proventos" (l.14), “pensões" (l.14) e “outra
+espécie remuneratória" (l.14-15).
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+38. CESPE - Banco do Brasil - Escriturário
+
+O desenvolvimento das ideias do texto confere à oração reduzida iniciada por
+"tendo alcançado" (L.2) um valor adjetivo, correspondente a que tem alcançado.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+39. CESPE - 2019 - PGE-PE - Analista Judiciário de Procuradoria
+
+No período em que se inserem, os trechos “para absolver o presente” (l.13) e “para
+louvar os bons tempos antigos” (l.14) exprimem finalidades.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+40. CESPE - FUNPRESP-JUD - Conhecimentos Básicos
+
+A oração “por me fazer feliz” (l.5) expressa uma ideia de finalidade.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+41. CESPE - TRF - 1ª REGIÃO - Analista Judiciário
+
+A palavra “Isoladas” (l.12) introduz uma oração reduzida que, no texto, apresenta
+valor condicional.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+42. CESPE - 2020 - TJ-PA - Analista Judiciário
+
+No período em que se insere no texto CG1A1-II, a oração “Ao coletar um dado”
+(R.14) exprime uma circunstância de modo.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                     QUESTÃO ADAPTADA
+                                  
+
+
+---
+
+43. CESPE - MME - Nível Médio - Conhecimentos Básicos
+
+No período ‘Como é simples transportá-las, os custos logísticos são baixos’ (l.39-
+40), a primeira oração expressa, em relação à segunda, circunstância de causa.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                   QUESTÃO ADAPTADA
+                                
+
+
+---
+
+44. CESPE - PRF - Policial Rodoviário Federal
+
+O gerúndio em “Buscando" (L.1) inicia uma oração subordinada que mantém com a
+principal do período um nexo de circunstância causal.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+45. CESPE - 2018 - SEFAZ-RS - Assistente Administrativo Fazendário
+
+No período em que se insere, no texto 1A1-II, a oração “por serem mais seguros de
+portar do que o dinheiro vivo” (ℓ. 33 e 34) exprime uma explicação para que as
+pessoas se sentissem mais seguras portando recibos em vez de dinheiro vivo.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+46. CESPE - 2018 - STM - Analista Judiciário - Revisão de Texto
+
+No contexto em que aparece, a oração reduzida “rompendo corporativismos e
+privilégios históricos” (ℓ. 28 e 29) possui sentido de finalidade.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+47. CESPE - 2018 - MPU - Técnico do MPU - Administração
+
+A substituição de “e suprimir” (ℓ.17) por ao suprimir não comprometeria a
+correção gramatical do período, mas alteraria seu sentido original.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+48. CESPE - FUB - Revisor de Textos
+
+No trecho: “O tom narrativo participa da mesma despretensão, despertando a
+simpatia do leitor para personagens e eventos da experiência comezinha" (l.46-48),
+a oração reduzida de gerúndio reforça a consistência semântica temporal presente
+no período.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+49. CESPE - DPU - Agente Administrativo
+
+A forma verbal “garantindo” (l.15) introduz uma oração reduzida de gerúndio de
+caráter adverbial.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+50. CESPE - TRE-MS - Analista Judiciário - Análise de Sistemas
+
+Nas linhas 11 e 12, os verbos “retroagir”, “prejudicar” e “ferir” estão coordenados
+entre si e subordinados à forma auxiliar “pode”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+             REESCRITURA COM ORAÇÕES
+                     REDUZIDAS
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                           EXERCÍCIOS DE FIXAÇÃO
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+I. Classifique as orações reduzidas em destaque e desenvolva-as:
+
+1. É urgente reconhecer a necessidade de um trabalho mais efetivo com a palavra.
+
+2. Sua palavra foi a primeira a perder o significado.
+
+3. Nada conseguindo, a mais nova fugiu.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+4. “Se dependesse de mim, teria vetado a roda por não se parecer nada com o pé.”
+
+5. “O liberalismo pensa estar defendendo o indivíduo ao negar a primazia do social
+ou ao dizer que uma sociedade é apenas um conjunto de ambições autônomas”
+
+6. Criticar as viagens internacionais do Presidente da República ou de outros
+dirigentes parece despropositado.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+7. Peço-te saíres da minha vida!
+
+8. Terminada a aula, todos se retiraram.
+
+9. Há muitos alunos estudando com afinco.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+10. Apesar de ser torcedor fanático, não vai aos estádios.
+
+11. “O Estado moderno, não obstante apresentar-se como um Estado minimalista,
+é potencialmente um Estado maximalista.”
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+                           MULTIBANCAS
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+51. FGV - 2018 - COMPESA - Analista de Gestão - Administrador
+
+“...mas já conhecem a brutal realidade dos desaventurados cuja sina é cruzar
+fronteiras para sobreviver”. Se, no mesmo segmento, substituirmos a oração
+“cruzar fronteiras” por uma forma de oração desenvolvida adequada, sua forma
+correta seria
+
+A) o cruzamento de fronteiras.
+B) o cruzarem-se as fronteiras.
+C) a cruzada das fronteiras.
+D) que cruzassem fronteiras.
+E) que cruzem fronteiras.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+52. FGV - ALERJ - Especialista Legislativo - Tecnologia da Informação
+
+“...implica poder decifrar as referências cristãs...”; a forma reduzida sublinhada fica
+convenientemente substituída por uma oração em forma desenvolvida na seguinte
+opção:
+
+A) a possibilidade de decifrar as referências cristãs;
+B) a possibilidade de decifração das referências cristãs;
+C) que se pudessem decifrar as referências cristãs;
+D) que possamos decifrar as referências cristãs;
+E) a possibilidade de que decifrássemos as referências cristãs.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+53. FGV - IBGE - Analista Censitário - Análise de Sistemas
+
+“O que pode ser feito para evitar um novo racionamento?”
+
+A oração “para evitar um novo racionamento” pode ser desenvolvida em forma de
+uma nova oração do seguinte modo:
+
+A) Para evitar-se um novo racionamento?
+B) Para que se evitasse um novo racionamento?
+C) Para que um novo racionamento fosse evitado?
+D) Para que se evite um novo racionamento?
+E) Para ser evitado um novo racionamento?
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+54. FGV - Prefeitura de Salvador - BA - Auxiliar de Serviços Gerais
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+54. FGV - Prefeitura de Salvador - BA - Auxiliar de Serviços Gerais
+
+A frase “trabalhando pesado” poderia ser reescrita de forma adequada ao texto, do
+seguinte modo:
+
+
+A) “que trabalhe pesado”.
+
+B) “que trabalhou pesado”.
+
+C) “que trabalha pesado”.
+
+D) “que trabalhará pesado”.
+
+E) “que trabalharia pesado”.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+55. CESGRANRIO - Banco do Brasil - Escriturário
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+55. CESGRANRIO - Banco do Brasil - Escriturário
+A oração “envolvendo o número” (L. 13) pode ser substituída, sem prejuízo do
+sentido original, pela seguinte oração:
+
+
+A) por envolver o número.
+
+B) que envolviam o número.
+
+C) se envolvessem o número.
+
+D) já que envolvem o número.
+
+E) quando envolveram o número.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+56. INSTITUTO AOCP - 2020 - Prefeitura de Novo Hamburgo - RS -
+Assistente Social
+Considerando que a oração em destaque classifica-se como reduzida por não
+apresentar conectivo e por apresentar um verbo em sua forma nominal, assinale a
+alternativa que apresenta um desenvolvimento dessa oração com sentido coerente
+e redação adequada. “Uma é o fato de que expressar gratidão encoraja os outros a
+continuarem sendo generosos, promovendo assim um ciclo virtuoso de bondade
+em relacionamentos.”.
+
+
+A) […] porque promove, assim, um ciclo virtuoso de bondade em relacionamentos.
+
+B) […] visto que promova, assim, um ciclo virtuoso de bondade em
+relacionamentos.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+56. INSTITUTO AOCP - 2020 - Prefeitura de Novo Hamburgo - RS -
+Assistente Social
+
+C) […] desde que promova, assim, um ciclo virtuoso de bondade em
+relacionamentos.
+
+D) […] quando promove, assim, um ciclo virtuoso de bondade em relacionamentos.
+
+E) […] se promove, assim, um ciclo virtuoso de bondade em relacionamentos.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+57. FGV - 2019 - Prefeitura de Salvador - BA - Professor
+“- Esterco – respondeu Oscar, farejando aborrecimento: - Por quê? Não lhe cheira
+bem?”
+
+A oração reduzida “farejando aborrecimento” pode ser adequadamente substituída
+por uma oração desenvolvida, na seguinte estrutura:
+
+A) “enquanto farejava aborrecimento”.
+B) “quando farejou aborrecimento”.
+C) “após farejar aborrecimento”.
+D) “sem deixar de farejar aborrecimento”.
+E) “ao farejar aborrecimento”.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+58. FCC - TJ-RJ - Analista Judiciário - Comissário da Infância e da
+Juventude
+Nascidas do povo mais humilde do Brasil, as Escolas afirmam a vocação dos
+brasileiros, de todos os brasileiros, para a grandeza.
+
+A oração grifada acima tem sentido ...... e, ao reescrevê-la com o emprego da
+conjunção adequada, a oração resultante deverá iniciar-se por ...... .
+
+As lacunas estarão corretamente preenchidas, respectivamente, por:
+
+A) final - Para que tivessem nascido
+B) temporal - Enquanto tinham nascido
+C) concessivo - Ainda que tenham nascido
+D) consecutivo - Desde que tenham nascido
+E) condicional - Caso tenham nascido
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+59. VUNESP - 2020 - Prefeitura de Morro Agudo - SP - Médico
+Cardiologista
+Considerando-se o contexto em que se encontra, a frase destacada em –
+Desenvolvida para uma chave amigo- -inimigo, nossa mente tende a rotular tudo o
+que vê – expressa a noção de
+
+A) comparação e equivale a – Sendo que se desenvolveu para uma chave amigo-
+inimigo...
+
+B) concessão e equivale a – Apesar de que se desenvolveu para uma chave amigo-
+inimigo...
+
+C) proporção e equivale a – À medida que se desenvolveu para uma chave amigo-
+inimigo...
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+59. VUNESP - 2020 - Prefeitura de Morro Agudo - SP - Médico
+Cardiologista
+
+D) conclusão e equivale a – Portanto, se desenvolveu para uma chave amigo-
+inimigo...
+
+E) causa e equivale a – Como se desenvolveu para uma chave amigo-inimigo...
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                           CESPE - MISCELÂNEA
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+60. CESPE - Instituto Rio Branco - Diplomata
+
+A oração reduzida iniciada pelo gerúndio “incluindo” (l.10) poderia ser
+corretamente substituída pela seguinte oração desenvolvida: no qual se inclui
+vários trabalhos sobre os índios.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+61. CESPE - TRT - 10ª REGIÃO (DF e TO) - Analista Judiciário
+
+Preserva-se a correção gramatical do período, embora, em alguns casos, com
+alteração de sentido, se a expressão “ao estabelecer” (L.13) for substituída, sem
+outras modificações no texto, por qualquer uma das seguintes: quando
+estabeleceu, por estabelecer, porque estabeleceu, estabelecendo.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+62. CESPE - TCE-RO - Analista de Informática
+
+A oração “Baixados os arquivos” (l.29) poderia, sem prejuízo para a correção
+gramatical do período, ser substituída por Assim que são baixados os arquivos.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+63. CESPE - TST - Analista Judiciário - Área Judiciária
+
+O valor de adjetivo do gerúndio em “podendo optar” (L.12) fica preservado se essa
+oração reduzida for substituída pela subordinada adjetiva correspondente: que
+pode optar. Essa substituição manteria a coerência e a correção gramatical do
+texto.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+64. CESPE - 2021 - IBGE - Agente de Pesquisas e Mapeamento
+
+ 2º PARAGÁGO
+
+Segundo o artigo, o maior nível educacional das mulheres e o maior acesso aos
+métodos contraceptivos acelerarão a redução das taxas de fecundidade, gerando
+um crescimento demográfico global mais lento.
+
+A coerência e a correção do texto 1A2-I seriam mantidas caso o verbo “gerando”
+(segundo parágrafo) fosse substituído por o que deve gerar.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                  QUESTÃO ADAPTADA
+                               
+
+
+---
+
+65. CESPE - MC - Todos os Cargos
+
+A forma verbal “satisfazendo” (l.6) poderia ser substituída pela expressão visto que
+satisfazem sem prejuízo sintático e semântico para o texto.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+66. CESPE - SEAD-PA - Procurador
+
+O texto permite a reescritura da oração subordinada inicial como uma desenvolvida
+iniciada por Quando delega.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   QUESTÃO ADAPTADA
+                                
+
+
+---
+
+67. CESPE - 2021 - Polícia Federal - Escrivão de Polícia Federal
+
+Sem prejuízo para o sentido original do texto, o período “Quando anoitecia, toda
+aquela vizinhança começava, ao mesmo tempo, a fazer bife, e o ar ficava cheirando
+a cebola e alho” poderia ser reescrito da seguinte maneira: Ao anoitecer, toda
+aquela vizinhança começava a fazer bife e o ar ficava cheirando à cebola e alho ao
+mesmo tempo.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+---
+
+OBRIGADA!
+                                           Professora: Adriana Figueiredo
+
+      
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                          @professoraadrianafigueiredo
+
+                https://www.youtube.com/user/professoraadrianaf
+
+                     facebook.com/prof.adriana.figueiredo
+
+
+                      
+
+
+---
+
+---

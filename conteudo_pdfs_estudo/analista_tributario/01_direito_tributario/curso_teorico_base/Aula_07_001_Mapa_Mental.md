@@ -1,0 +1,221 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 07_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '07'
+titulo_aula: RESPONSABILIDADE TRIBUTÁRIA
+---
+
+# RESPONSABILIDADE TRIBUTÁRIA
+
+RESPONSABILIDADE TRIBUTÁRIA
+                                       PRESSUPÕE LEI EM SENTIDO ESTRITO
+
+       O TERCEIRO ELEITO PELA LEI COMO RESPONSÁVEL TRIBUTÁRIO DEVE SER VINCULADO AO FATO GERADOR
+
+
+A LEI PODE EXCLUIR A RESPONSABILIDADE DO CONTRIBUINTE OU ATRIBUÍ-LA EM CARÁTER SUPLETIVO DO CUMPRIMENTO
+                                       DA OBRIGAÇÃO PELO RESPONSÁVEL
+
+
+    PODE ENGLOBAR NÃO APENAS O VALOR DEVIDO A TÍTULO DE TRIBUTO, MAS TAMBÉM AS PENAS PECUNIÁRIAS
+
+
+                                                        RESPONSABILIDADE POR SUBSTITUIÇÃO/ORIGINÁRIA
+
+                                        • O substituto tributário já é designado desde logo como
+                                          sendo o sujeito passivo da relação jurídica obrigacional.
+  ESPÉCIES:                             • A responsabilidade surge no mesmo momento da ocorrência
+                                          do fato gerador.
+
+
+                                                   RESPONSABILIDADE POR TRANSFERÊNCIA/DERIVADA
+
+• Quando da ocorrência do fato gerador, o sujeito passivo da relação é o contribuinte. Apenas
+  posteriormente, em razão de algum acontecimento previsto pela norma atributiva de
+  responsabilidade, é que alguém passa a ser responsável pelo pagamento da exação.
+                                                                                                         DIREITO TRIBUTÁRIO
+                                                                                                       ESTRATÉGIA CONCURSOS
+                                         
+
+
+---
+
+                               RESPONSABILIDADE TRIBUTÁRIA
+
+
+                                                    ESPÉCIES
+
+
+RESPONSABILIDADE POR SUBSTITUIÇÃO/ORIGINÁRIA
+
+
+                                                                 • Simultânea (comum)
+
+          ❑ SUBESPÉCIES                                          • Regressiva para trás
+
+                                                                 • Regressiva para frente
+
+RESPONSABILIDADE POR TRANSFERÊNCIA/DERIVADA
+
+                                                                 • Responsabilidade dos sucessores
+
+          ❑ SUBESPÉCIES                                          • Responsabilidade de terceiros
+
+
+                                                                 • Responsabilidade por infrações
+                                                                                                       DIREITO TRIBUTÁRIO
+                                                                                                     ESTRATÉGIA CONCURSOS
+                                          
+
+
+---
+
+             RESPONSABILIDADE POR SUBSTITUIÇÃO/ORIGINÁRIA
+
+    SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE X SUBSTITUIÇÃO TRIBUTÁRIA PARA TRÁS
+
+• Posição do responsável tributário na cadeia econômica.
+
+
+                 SUBSTITUIÇÃO TRIBUTÁRIA PARA TRÁS (REGRESSIVA)
+
+• Substituição das pessoas que estão nas etapas anteriores da cadeia de produção ou circulação de
+  mercadorias.
+• Ocorre diferimento de pagamento.
+• A pessoa que faz acontecer o fato gerador é substituída por outra que se situa em momento
+  posterior na cadeia de produção, havendo, por conseguinte, recolhimento a posteriori.
+
+
+               SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE (PROGRESSIVA)
+
+• As pessoas que estão nas etapas posteriores são substituídas pelas que ocupam posição
+  anterior na cadeia de produção e circulação de mercadorias.
+• Antecipação do pagamento dos tributos.
+• Substituto surge antes mesmo da ocorrência do fato gerador.
+• Presunção da base de cálculo e do fato gerador que ainda irão ocorrer.
+• Se o fato gerador presumido não ocorrer, é assegurada a devolução do que foi pago.
+• Base de cálculo efetiva inferior à presumida, haverá restituição da diferença.
+                                                                                                      DIREITO TRIBUTÁRIO
+                                                                                                    ESTRATÉGIA CONCURSOS
+                                    
+
+
+---
+
+                    RESPONSABILIDADE POR TRANSFERÊNCIA/DERIVADA
+                                                                                           ADQUIRENTE DE BENS IMÓVEIS
+
+                                       • Assume a responsabilidade pelo pagamento dos impostos, taxas e
+                                         contribuições de melhoria relativas ao imóvel objeto da transmissão.
+
+                                                                                     ADQUIRENTE OU REMITENTE DE BENS MÓVEIS
+     RESPONSABILIDADE DOS
+            SUCESSORES
+                                                                                             SUCESSÃO CAUSA MORTIS
+
+                                                    • Sucessor a qualquer título e o cônjuge meeiro, pelos tributos
+                                                      devidos pelo de cujus até a data da partilha ou adjudicação,
+                                                      limitada essa responsabilidade ao montante do quinhão do
+        SUCESSÃO EMPRESARIAL                          legado ou da meação;
+                                                    • Espólio, pelos tributos devidos pelo de cujus até a data da
+                                                      abertura da sucessão.
+
+• Responsabilidade da pessoa jurídica que surgiu a                        ❑      integralmente, se o alienante cessar a exploração do
+  partir de uma fusão, transformação ou                                          comércio, indústria ou atividade;
+  incorporação.
+                                                                          ❑      subsidiariamente com o alienante, se este prosseguir na
+• Responsabilidade da pessoa que adquiriu fundo                                  exploração ou iniciar dentro de seis meses a contar da data
+  de comércio ou estabelecimento comercial,                                      da alienação, nova atividade no mesmo ou em outro ramo
+  industrial ou proﬁssional, e continuou a                                       de comércio, indústria ou proﬁssão.
+  respectiva exploração:
+
+• Abrange também as multas moratórias ou punitivas referentes a fatos geradores ocorridos
+  até a data da sucessão.                                                                                                           DIREITO TRIBUTÁRIO
+                                                                                                                                  ESTRATÉGIA CONCURSOS
+                                            
+
+
+---
+
+                          RESPONSABILIDADE POR TRANSFERÊNCIA/DERIVADA
+
+
+    RESPONSABILIDADE DE TERCEIROS
+                                                                                         ATUAÇÃO REGULAR
+
+
+                                                          ❑       Impossibilidade de exigir a dívida do contribuinte;
+                                                          ❑       Colaborou de algum modo, com o não pagamento do tributo ;
+            ATUAÇÃO IRREGULAR                             ❑       Em matéria de penalidades, só se aplica às de caráter moratório;
+                                                          ❑       Responsabilidade subsidiária (apesar de o CTN falar em solidária):
+
+❑   Responsabilidade pelos terceiros que agem               • pais, pelos tributos devidos por seus ﬁlhos menores;
+    com excesso de poderes ou infração de lei,              • tutores e curadores, pelos tributos devidos por seus
+    contrato social ou estatutos.                             tutelados ou curatelados;
+❑   Responsabilidade pessoal:                               • administradores de bens de terceiros, pelos tributos devidos
+                                                              por estes;
+• as pessoas citadas na responsabilidade                    • inventariante, pelos tributos devidos pelo espólio;
+  com atuação regular;                                      • síndico e o comissário, pelos tributos devidos pela massa
+• mandatários, prepostos e empregados;                        falida ou pelo concordatário;
+• diretores, gerentes ou representantes de                  • tabeliães, escrivães e demais serventuários de ofício, pelos
+  pessoas jurídicas de direito privado.                       tributos devidos sobre os atos praticados por eles, ou
+                                                              perante eles, em razão do seu ofício;
+❑   O inadimplemento da obrigação tributária                • sócios, no caso de liquidação de sociedade de pessoas.
+    pela sociedade não gera, por si só, a
+    responsabilidade solidária do sócio-gerente.
+                                                                                                                                DIREITO TRIBUTÁRIO
+                                                                                                                              ESTRATÉGIA CONCURSOS
+                                              
+
+
+---
+
+                                           RESPONSABILIDADE POR INFRAÇÕES
+
+                 EM REGRA, INDEPENDE DA EXISTÊNCIA DE CULPA OU DOLO.
+
+                 NÃO DEPENDE DA EFETIVIDADE, EXTENSÃO OU NATUREZA DOS ATOS.
+
+                 RESPONSABILIDADE É PESSOAL DO AGENTE:
+                                                                                                 • Das pessoas referidas na responsabilidade
+                 ❑    Quanto às infrações conceituadas por lei como crimes ou                      de terceiros com atuação regular, contra
+                      contravenções, salvo quando praticadas no exercício regular de               aquelas por quem respondem;
+                      administração, mandato, função, cargo ou emprego, ou no
+                                                                                                 • Dos     mandatários,     prepostos     ou
+                      cumprimento de ordem expressa emitida por quem de direito;
+                                                                                                   empregados, contra seus mandantes,
+                 ❑    Quanto às infrações em cuja deﬁnição o dolo especíﬁco do                     preponentes ou empregadores;
+                      agente seja elementar;                                                     • Dos diretores, gerentes ou representantes
+                 ❑    Quanto às infrações que decorram direta e exclusivamente de                  de pessoas jurídicas de direito privado,
+                      dolo especíﬁco:                                                              contra estas.
+
+
+           RESPONSABILIDADE POR TRANSFERÊNCIA/DERIVADA
+                                                                                                            DENÚNCIA ESPONTÂNEA
+     O CONTRIBUINTE SE REDIME DAS INFRAÇÕES TRIBUTÁRIAS, CONFESSANDO OS ILÍCITOS E EFETUANDO O
+                 PAGAMENTO DO TRIBUTO DEVIDO, COM JUROS E CORREÇÃO MONETÁRIA.
+
+
+                            CONSEQUÊNCIA – RESPONSABILIDADE EXCLUÍDA.
+
+             O CONTRIBUINTE É LIBERADO DA IMPOSIÇÃO DE MULTAS PUNITIVAS E MORATÓRIAS.
+
+NÃO SE CONSIDERA ESPONTÂNEA A DENÚNCIA APRESENTADA APÓS O INÍCIO DE QUALQUER PROCEDIMENTO
+          ADMINISTRATIVO OU MEDIDA DE FISCALIZAÇÃO, RELACIONADOS COM A INFRAÇÃO.
+
+
+                                                                                                                              DIREITO TRIBUTÁRIO
+                                                                                                                            ESTRATÉGIA CONCURSOS
+                                                         
+
+
+---

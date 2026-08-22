@@ -1,0 +1,3164 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 02_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- "art.\n                                                                        \
+  \                       56"
+- 'art.
+
+  5º'
+- art. 21
+- art. 21.
+- art. 22
+- art. 5º
+- art. 7º
+- art.150
+sumulas_citadas:
+- Súmula 266
+- Súmula 268
+- Súmula 429
+- Súmula 632
+- Súmula Vinculante 11
+- Súmula Vinculante 45
+---
+
+# Passo Estratégico de Direito
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Constitucional
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                               06 de Maio de 2025
+
+---
+
+      Tulio Lages
+      Aula 00
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Direitos e Deveres Individuais e Coletivos - FGV
+
+
+2) Roteiro de Revisão - Direitos e Deveres Individuais e Coletivos
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           59
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            % de cobrança
+                                      Tópico
+                                                                                                 FGV
+                   Teoria geral dos direitos fundamentais                                       9,73%
+ Catálogo de direitos e deveres individuais e coletivos estabelecidos no art.
+                                                                                               56,38%
+               5º da CF/88, exceto remédios constitucionais
+ Remédios constitucionais - mandado de segurança, mandado de injunção,
+  habeas corpus, habeas data e ação popular (art. 5º, incisos LXVIII, LXIX,                    24,50%
+                      LXX, LXXI, LXXII e LXXIII da CF/88)
+               Aplicabilidade imediata (art. 5º, § 1º da CF/88)                                 0,34%
+                Enumeração aberta (art. 5º, § 2º da CF/88)                                      0,67%
+       Tratados e Convenções internacionais com força de emenda
+                                                                                                8,05%
+                    constitucional (art. 5º, § 3º da CF/88)
+            Tribunal Penal Internacional (art. 5º, § 4º da CF/88)                               0,34%
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   3
+        www.estrategiaconcursos.com.br                                                                      59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Antes de adentrar na revisão do catálogo dos direitos e deveres individuais e coletivos (art. 5º,
+caput e incisos I a LXXIX da CF/88), ponto do assunto geralmente mais explorado por todas as
+bancas, é importante relembrarmos alguns conceitos doutrinários e disposições constitucionais.
+
+Teoria geral dos direitos fundamentais
+
+- Os direitos fundamentais surgiram para proteger a liberdade do indivíduo contra a atuação
+abusiva do Estado (feição negativa). Posteriormente, evoluíram no sentido de também exigir uma
+atuação comissiva do Estado em favor do bem-estar da população (feição positiva).
+
+- Direitos fundamentais x direitos humanos:
+
+A expressão “direitos fundamentais” designa os direitos relacionados às pessoas, assim
+reconhecidos no ordenamento jurídico de cada Estado. Por estarem vinculados a determinada
+ordem jurídica, são garantidos e limitados no espaço (ou seja, onde vigora a ordem jurídica) e no
+tempo (ou seja, enquanto essa ordem jurídica estiver vigorando).
+
+Por sua vez, a expressão “direitos humanos” aponta para direitos do homem universalmente
+considerado e, por possuírem uma natureza filosófica, não possuem referência a determinado
+ordenamento jurídico ou limitação geográfica.
+
+- Principais características dos direitos fundamentais:
+
+  a) Universalidade: abrangem todos os indivíduos, de modo indiscriminado, independentemente
+  de nacionalidade, sexo, raça, credo, ideologia, convicções políticas etc.;
+
+  b) Historicidade: são fruto de conquistas acumuladas ao longo da história, desde o Cristianismo
+  até aos dias atuais;
+
+  c) Inalienabilidade: não podem ser transferidos, alienados a outrem, por não possuírem
+  conteúdo econômico-patrimonial;
+
+  d) Imprescritibilidade: não desaparecem com o decurso do tempo, podendo sempre serem
+  exercidos (não perdem sua exigibilidade pelo seu não exercício ao longo de determinado
+  período);
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional      4
+        www.estrategiaconcursos.com.br                                                        59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+  e) Irrenunciabilidade: não podem ser renunciados, dispostos, pelos seus titulares, como regra
+  (atualmente, em razão de peculiaridades de um caso concreto, admite-se a renúncia temporária
+  e excepcional a direito fundamental). Isso não impede, por outro lado, que deixem de serem
+  exercidos por seu titular;
+
+  f) Relatividade (ou limitabilidade): não possuem natureza absoluta, sendo limitados por outros
+  direitos fundamentais previstos constitucionalmente. Não podem, por exemplo, ser utilizados
+  para acobertar a prática de atividades ilícitas, ou para afastar ou diminuir a responsabilidade
+  pelo exercício de tais atividades. Além disso, os direitos fundamentais também podem ser
+  restringidos por normas infraconstitucionais, desde que haja autorização explícita na CF, - via
+  reserva legal – ou até mesmo implícita no texto constitucional;
+
+  g) Complementaridade: não devem ser interpretados isoladamente, mas como um conjunto
+  único;
+
+  h) Concorrência: são passíveis de exercício em conjunto, cumulativamente, vários deles ao
+  mesmo tempo;
+
+  i) Efetividade: a atividade do Estado deve estar voltada à efetivação dos direitos fundamentais;
+  e
+
+  j) Inviolabilidade: não podem ser afrontados, violados, inobservados pelas leis e pelos agentes
+  públicos.
+
+- Gerações de direitos fundamentais:
+
+As três gerações (ou dimensões) de direitos fundamentais classicamente identificadas pela
+doutrina:
+
+  a) Primeira geração: formada pelos direitos que caracterizam uma obrigação de não-fazer, um
+  dever de abstenção estatal aos indivíduos, já que diz respeito aos direitos que buscam restringir
+  a ação do Estado sobre os indivíduos, a fim de livrá-los da ingerência abusiva estatal. São
+  também chamados de “direitos negativos”, “liberdades negativas”, ou, ainda, de “direitos de
+  defesa”.
+
+  Os direitos de primeira geração realçam o princípio da liberdade, com foco no homem
+  individualmente considerado, consagrando direitos civis e políticos. Exemplos: direitos à vida,
+  à liberdade, à propriedade, à liberdade de expressão, à participação política e religiosa etc.
+
+  b) Segunda geração: formada precipuamente pelos direitos que caracterizam uma obrigação
+  de fazer estatal em prol da população, envolvendo o desempenho de prestações positivas por
+  parte do Estado aos indivíduos, concretizadas por meio de políticas e serviços públicos, com a
+  finalidade de proporcionar igualdade material (ou “substantiva”) e bem-estar à população. Por
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional        5
+        www.estrategiaconcursos.com.br                                                          59
+
+                                     
+
+
+---
+
+    Tulio Lages
+    Aula 00
+
+    isso, são também chamados de “direitos positivos”, “liberdades positivas”, “direitos do bem-
+    estar” ou, ainda, “direitos dos desamparados”.
+
+    Em menor escala, há direitos de segunda geração de natureza negativa, como os direitos de
+    liberdade sindical e o de liberdade de greve. Tais direitos são considerados de segunda geração
+    em razão de sua finalidade, que é a mesma das liberdades positivas: promover a igualdade
+    substantiva, por meio da intervenção estatal em defesa dos desamparados, dos
+    hipossuficientes.
+
+    Assim, os direitos de segunda geração realçam o valor-fonte igualdade, consagrando direitos
+    econômicos, sociais e culturais. Exemplos: direitos à educação, à saúde, ao trabalho, à
+    habitação, à previdência social, à assistência social etc.
+
+    c) Terceira geração: formada pelos direitos que transcendem os interesses individuais para se
+    preocupar com a coletividade, consagrando direitos transindividuais, supraindividuais, de
+    titularidade coletiva ou difusa.
+
+    Os direitos de terceira geração realçam o princípio da fraternidade (ou solidariedade),
+    consagrando os direitos difusos e os coletivos. Exemplos: direitos do consumidor, direitos ao
+    meio-ambiente ecologicamente equilibrado, ao desenvolvimento, à autodeterminação dos
+    povos etc.
+
+Além das três gerações clássicas de direitos fundamentais, são também apontadas por alguns
+doutrinadores a quarta e a quinta gerações de direitos fundamentais:
+
+    d) Quarta geração: para Paulo Bonavides, seriam os direitos relacionados à globalização –
+    direitos à democracia (direta), à informação e ao pluralismo1. Para Norberto Bobbio, seriam os
+    direitos relacionados à engenharia genética2.
+
+    e) Quinta geração: para Paulo Bonavides, seria o direito à paz3 (Karel Vasak classifica o direito à
+    paz como de terceira geração).
+
+Vale relembrar que as gerações de direitos fundamentais não substituem umas às outras: com
+efeito, os direitos da geração seguinte se acumulam com os das gerações anteriores, que
+permanecem plenamente eficazes, ou seja, uma nova geração não abandona as conquistas
+promovidas pelas dimensões anteriores.
+
+- Dimensões subjetiva e objetiva dos direitos fundamentais:
+
+1
+  P. Bonavides, Curso de direito constitucional, 25. ed., p. 569 apud Lenza, 2016, p. 1158.
+2
+  Norberto Bobbio, A era dos direitos, p. 6 apud Lenza, 2016, p. 1158.
+3
+  P. Bonavides, Curso de direito constitucional, 25. ed., p. 593 apud Lenza, 2016, p. 1159.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          6
+          www.estrategiaconcursos.com.br                                                            59
+
+                                       
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+Na perspectiva (ou “dimensão”) subjetiva, os direitos fundamentais são compreendidos como os
+direitos negativos e positivos do indivíduo, que pode obter do Estado a satisfação de seus
+interesses juridicamente protegidos.
+
+Na perspectiva objetiva, também chamada de “eficácia irradiante dos direitos fundamentais”, os
+direitos fundamentais são compreendidos como um conjunto de valores básicos da sociedade que
+direcionam e conformam a atuação do Estado (Poder Legislativo, Executivo e Judiciário) no
+sentido de assegurá-los e protegê-los.
+
+Direitos fundamentais na CF/88
+
+- O Título II da CF/88 trata dos "direitos e garantias fundamentais". Aqui, é importante relembrar
+que os "direitos fundamentais" são os bens jurídicos protegidos pela Constituição, enquanto as
+"garantias fundamentais" são os instrumentos previstos na Carta Magna para proteger aqueles
+bens.
+
+- Na CF/88, os direitos fundamentais vieram previstos em cinco grupos distintos:
+
+     a) direitos individuais e coletivos (art. 5º);
+
+     b) direitos sociais (arts. 6º a 11);
+
+     c) direitos de nacionalidade (arts. 12 e 13);
+
+     d) direitos políticos (arts. 14 a 16); e
+
+     e) direitos relacionados à existência, organização e participação dos partidos políticos (art. 17).
+
+- O princípio-matriz de todos os direitos fundamentais pode ser considerado o princípio da
+dignidade da pessoa humana4 (art. 1º, inciso III da CF/88).
+
+- Reserva legal:
+
+     a) simples x qualificada:
+
+     A reserva legal simples exige lei formal para dispor sobre determinada matéria, mas não
+     especifica qual o conteúdo ou a finalidade do ato, deixando, portanto, maior liberdade para o
+     legislador.
+
+     Já a reserva legal qualificada, além de exigir lei formal para dispor sobre determinada matéria,
+     já define, previamente, o conteúdo da lei e a finalidade do ato.
+
+4
+    Lenza, 2016, p. 1164.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          7
+           www.estrategiaconcursos.com.br                                                            59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+     b) absoluta x relativa:
+
+     Na reserva legal absoluta, a norma constitucional exige, para sua integral regulamentação, a
+     edição de lei formal, entendida como ato normativo emanado do Congresso Nacional e
+     elaborado de acordo com o processo legislativo previsto pela CF.
+
+     Já na reserva legal relativa, apesar de a Constituição também exigir lei formal, permite que tal
+     lei apenas fixe parâmetros de atuação para o órgão administrativo, que, por sua vez, poderá
+     complementá-la por ato infralegal, respeitados os limites estabelecidos pela legislação.
+
+Finalizando a revisão sobre reserva legal, vale relembrar que os direitos fundamentais não podem
+ser legalmente restringidos de maneira ilimitada, de modo que o legislador deve respeitar a
+“teoria dos limites dos limites”, segundo a qual as restrições impostas pela lei devem razoáveis,
+proporcionais, não excessivas, de modo a preservar o núcleo essencial do direito fundamental a
+ser objeto de restrição.
+
+- Eficácia vertical e horizontal dos direitos fundamentais:
+
+A eficácia vertical implica que os direitos fundamentais aplicam-se às chamadas “relações
+verticais”, que são as relações entre os particulares e o Estado.
+
+Por sua vez, a eficácia horizontal (também chamada de eficácia “privada” ou “externa”) implica
+que os direitos fundamentais também incidem nas “relações horizontais”, ou seja, nas relações
+privadas, entre particulares, nos negócios privados.
+
+No Brasil, os direitos fundamentais possuem tanto eficácia vertical, quanto eficácia horizontal.
+Inclusive, há diversos precedentes em que o STF entendeu pela aplicação dos direitos
+fundamentais às relações privadas5.
+
+- Teorias da eficácia indireta e direta de aplicação dos direitos fundamentais às relações privadas:
+
+A teoria da eficácia indireta preceitua que cabe ao legislador elencar quais direitos fundamentais
+devem ser aplicados às relações particulares.
+
+Por sua vez, a teoria da eficácia direta, que prevalece no Brasil, preceitua que os direitos
+fundamentais podem ser aplicados às relações privadas diretamente, sem necessidade de edição
+de lei intermediadora.
+
+- Não há hierarquia entre direitos fundamentais, de modo que na hipótese de conflito entre dois
+ou mais deles, o intérprete deve realizar um juízo de ponderação, fazendo uso do princípio da
+
+5
+    Lenza, 2016, p. 1165-1166.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       8
+           www.estrategiaconcursos.com.br                                                         59
+
+                                        
+
+
+---
+
+    Tulio Lages
+    Aula 00
+
+concordância prática (ou da harmonização), evitando o sacrifício total de uns em relação aos
+outros.
+
+Aplicação imediata das normas definidoras dos direitos e garantias fundamentais (art. 5º, § 1º da
+CF/88)
+
+Art. 5º, § 1º As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.
+
+- Ter "aplicação imediata" significa que essas normas “são dotadas de todos os meios e elementos
+necessários à sua pronta incidência aos fatos, situações, condutas ou comportamentos que elas
+regulam”6.
+
+É dizer: são aplicáveis desde já no limite do possível, até onde haja condições para seu
+atendimento por parte das instituições – inclusive o Poder Judiciário não pode deixar de aplicá-
+las, caso provocado em uma situação concreta nelas garantida.
+
+Por outro lado, é importante destacar que não se deve confundir “aplicação imediata” com a
+aplicabilidade imediata das normas de eficácia plena e contida.
+
+Isso porque embora grande parcela das normas que definem os direitos e garantias fundamentais
+possuam aplicabilidade imediata (notadamente as instituidoras de direitos e garantias individuais),
+há ainda uma outra parcela que depende de providências ulteriores (como a edição de uma lei
+integradora) que lhe completem a eficácia (como algumas normas que definem os direitos sociais,
+culturais e econômicos), possuindo, portanto, aplicabilidade indireta.
+
+Mesmo assim, conquanto se diferenciem em sua aplicabilidade, todas as normas definidoras de
+direitos e garantias fundamentais continuam tendo aplicação imediata, nos termos do art. 5º, § 1º
+da CF/88.
+
+Obs: preocupe-se com as informações contidas nos três parágrafos anteriores apenas caso em seu
+edital esteja previsto o conteúdo do assunto "eficácia das normas constitucionais".
+
+- Hipóteses de restrições e suspensões temporárias de direitos fundamentais admitidas
+constitucionalmente:
+
+Na vigência de estado de defesa (art. 136, § 1º, I da CF/88), é possível a imposição de restrições
+aos direitos de:
+
+    a) reunião, ainda que exercida no seio das associações;
+
+6
+ Silva, José Afonso da. Comentário Contextual à Constituição, 4. ed. São Paulo: Malheiros, 2007, p. 408 apud
+Lenza, 2016, p. 266.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               9
+          www.estrategiaconcursos.com.br                                                                 59
+
+                                       
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+  b) sigilo de correspondência;
+
+  c) sigilo de comunicação telegráfica e telefônica.
+
+Já na vigência de estado de sítio decretado em função de comoção grave de repercussão nacional
+ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa
+(arts. 137, I e 139 da CF/88), as seguintes (e únicas) medidas podem ser tomadas:
+
+  a) obrigação de permanência em localidade determinada;
+
+  b) detenção em edifício não destinado a acusados ou condenados por crimes comuns;
+
+  c) restrições relativas à inviolabilidade da correspondência, ao sigilo das comunicações, à
+  prestação de informações e à liberdade de imprensa, radiodifusão e televisão, na forma da lei
+  (não se inclui em tais restrições a difusão de pronunciamentos de parlamentares efetuados em
+  suas Casas Legislativas, desde que liberada pela respectiva Mesa);
+
+  d) suspensão da liberdade de reunião;
+
+  e) busca e apreensão em domicílio;
+
+  f) intervenção nas empresas de serviços públicos;
+
+  g) requisição de bens.
+
+Por outro lado, na vigência de estado de sítio decretado em função de declaração de estado de
+guerra ou resposta a agressão armada estrangeira (art. 137, II da CF/88), havendo necessidade,
+quaisquer direitos ou garantias fundamentais poderão ser objeto de restrição ou suspensão.
+
+Por fim, vale relembrar que apesar de as restrições e suspensões de direitos fundamentais no
+estado de defesa e no de sítio não necessitarem de autorização prévia do Poder Judiciário para
+serem efetivadas, permanece vigente em tais situações de exceção o princípio da inafastabilidade
+de jurisdição (art. 5º, inciso XXXV da CF/88), de modo que eventuais abusos na efetivação de tais
+restrições e suspensões podem ser controlados a posteriori pelo Poder Judiciário, caso provocado.
+
+Não taxatividade dos direitos fundamentais (art. 5º, § 2º da CF/88)
+
+Art. 5º, § 2º Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime
+e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil
+seja parte.
+
+- O dispositivo prevê que os direitos e garantias fundamentais expressamente na Constituição não
+constituem uma lista exaustiva.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               10
+        www.estrategiaconcursos.com.br                                                                  59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+O Brasil possui um sistema aberto (não estanque) de direitos fundamentais, sendo possível a
+existência de outros direitos fundamentais não expressamente previstos na CF/88, mas
+decorrentes dos princípios por ela adotados ou da assinatura de tratados internacionais pela
+República Federativa do Brasil, consoante o dispositivo transcrito.
+
+Logo, não é necessário que, para ser considerado fundamental, o direito seja constitucionalizado:
+o que importa é sua essência, seu conteúdo (ideia de “fundamentalidade material”).
+
+Vale relembrar, ainda, que há direitos fundamentais constitucionalmente previstos fora do art. 5º
+ou do Título II, como o direito ao meio ambiente (art. 225) e o princípio da anterioridade tributária
+(art.150, III, “b”).
+
+Tratados e convenções internacionais incorporados ao direito brasileiro (art. 5º, §§ 2º e 3º da
+CF/88)
+
+Art. 5º, § 2º Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime
+e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil
+seja parte.
+§ 3º Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa
+do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão
+equivalentes às emendas constitucionais.
+
+- Status dos tratados internacionais em que o Brasil seja parte:
+
+     a) tratados e convenções internacionais, sobre direitos humanos, aprovados em cada Casa do
+     Congresso Nacional em dois turnos por três quintos dos votos dos respectivos membros: status
+     de emenda constitucional;
+
+     b) tratados e convenções internacionais sobre direitos humanos aprovados pelo rito ordinário:
+     status de norma supralegal7: situam-se hierarquicamente logo abaixo da Constituição e acima
+     das demais normas do ordenamento jurídico, ou seja, possuem força normativa acima das leis,
+     mas abaixo da Carta Magna;
+
+     c) Tratados e convenções internacionais de que o Brasil seja parte, versando sobre outros temas
+     que não direitos humanos: status de lei ordinária.
+
+- Compete ao Presidente da República celebrar tratados e convenções internacionais (art. 84, VIII
+da CF/88) e ao Congresso Nacional referendá-los e aprová-los posteriormente (art. 49, I da CF/88).
+
+7
+    STF – RE 466.343, RE – 3149.703, dentre outros.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional            11
+           www.estrategiaconcursos.com.br                                                               59
+
+                                        
+
+
+---
+
+   Tulio Lages
+   Aula 00
+
+Obs: preocupe-se com esta última informação apenas caso em seu edital esteja previsto o
+conteúdo abordado nos dispositivos mencionados.
+
+Submissão à jurisdição de Tribunal Penal Internacional (art. 5º, § 4º da CF/88)
+
+Art. 5º, § 4º O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha
+manifestado adesão.
+
+- Atentar para o fato de que o tribunal necessariamente deve possuir natureza “penal”.
+
+- A submissão do Brasil à jurisdição de Tribunal Penal Internacional (TPI) a cuja criação tenha
+manifestado adesão também prestigia a proteção aos direitos humanos (assim como o § 3º do art.
+5º da CF/88): aqui, a ideia é que o TPI, uma Corte independente, não vinculada a nenhum país
+especificamente, julgue crimes de maior gravidade em situações excepcionais, quando, por
+exemplo, o Estado se omita ou se revele incapaz no julgamento de tais crimes.
+
+Há autores que falam, inclusive, que o acatamento de decisão judicial do TPI por parte do Brasil
+seria uma pequena flexibilização da soberania nacional em prol do fortalecimento dos direitos
+humanos.
+
+- Compete ao Presidente da República manifestar adesão à criação do TPI (art. 84, VIII da CF/88)
+e ao Congresso Nacional referendar o ato posteriormente (art. 49, I da CF/88).
+
+Obs: preocupe-se com esta última informação apenas caso em seu edital esteja previsto o
+conteúdo abordado nos dispositivos mencionados.
+
+..................................................................................................................................................
+
+Feita essa pequena revisão introdutória, passemos à revisão específica do catálogo dos direitos e
+deveres individuais e coletivos!
+
+Catálogo dos direitos e deveres individuais e coletivos – art. 5º, caput e incisos
+I a LXXIX da CF/88
+
+Direitos fundamentais básicos (caput)
+
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e
+aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança
+e à propriedade, nos termos seguintes:
+
+- São direitos fundamentais básicos: direito à vida; direito à liberdade; direito à igualdade; direito
+à segurança; e direito à propriedade.
+
+- Mnemônico para guardar o rol do dispositivo: "ProLiVIg-Se ".
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                        12
+            www.estrategiaconcursos.com.br                                                                                                           59
+
+                                                 
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+                                               Pro = propriedade;
+
+                                                  Li = liberdade;
+
+                                                      V = vida;
+
+                                                  Ig = igualdade;
+
+                                                 Se = segurança.
+
+Outra forma de memorizar o rol: pense numa figura de uma casa, de número 5, em que um casal
+de irmãos, o rapaz, tatuado e com estilo mais "despojado" e, a menina, no estilo mais "nerd",
+estão saindo da moradia após receberem, cada um, 30 reais de seus pais para gastarem em seu
+passeio.
+
+Ao mesmo tempo em que passam pela porta da residência, os jovens acenam para os policiais
+que estão passando de carro na rua em frente à casa, permanecendo na habitação um bebê aos
+cuidados de seus pais.
+
+Nesse caso:
+
+  a) o número 5 da casa representaria a quantidade de direitos a serem memorizados;
+
+  b) os irmãos saindo da casa representariam a o direito à liberdade;
+
+  c) os irmãos recebendo a mesma quantia em dinheiro representariam o direito à igualdade;
+
+  d) os policiais representariam o direito à segurança;
+
+  e) o bebê representaria o direito à vida;
+
+  f) a casa representaria o direito à propriedade.
+
+- Os estrangeiros podem ser titulares de direitos fundamentais, mesmo que não residam no país,
+ao contrário da literalidade do art. 5º, caput, conforme consenso doutrinário e jurisprudência do
+STF (HC 94.477, HC 94.016).
+
+- Há a possibilidade de que, além das pessoas naturais, as pessoas jurídicas e o próprio Estado
+sejam titulares de direitos fundamentais, apesar de inexistência de previsão constitucional
+expressa no art. 5º, caput.
+
+- O direito à vida abrange tanto a vida uterina quanto a extrauterina.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     13
+        www.estrategiaconcursos.com.br                                                        59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- O direito à vida é relativo, já que a CF/88 admite a possibilidade de pena de morte em caso de
+guerra declarada (art. 5º, inciso XLVII).
+
+Princípio da igualdade (caput e inciso I)
+
+Art. 5º, I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;
+
+- Corresponde à igualdade "na lei" e "perante a lei".
+
+A igualdade "na lei” destina-se ao legislador, para que não inclua fatores de discriminação que
+rompam com a ordem isonômica quando da formação das leis.
+
+Já a igualdade "perante a lei” destina-se aos aplicadores do direito, pressupondo a lei já
+elaborada, impõe que sua aplicação não seja subordinada a critérios que ensejem tratamento
+seletivo ou discriminatório.
+
+- Inexiste ofensa ao princípio da igualdade quando o próprio constituinte prevê casos de
+tratamento desigual (ex: art. 7º, XX, art. 12, § 3º, art. 40, art. 179, todos da CF/88).
+
+- Também não ofende o princípio da igualdade o tratamento diferenciado em razão de grupo
+social, de sexo, de profissão, de condição econômica, de idade etc., obedecido o princípio da
+razoabilidade.
+
+- O STF entende que a tese da legítima defesa da honra é inconstitucional, por contrariar os
+princípios constitucionais da dignidade da pessoa humana (art. 1º, III, da CF), da proteção à vida
+e da igualdade de gênero (art. 5º, caput, da CF)8.
+
+A tese da legítima defesa da honra era utilizada em casos de feminicídio ou agressões contra
+mulher para justificar o comportamento do acusado. O argumento era de que o assassinato ou a
+agressão eram aceitáveis quando a conduta da vítima supostamente ferisse a honra do agressor 9.
+
+Princípio da legalidade (inciso II)
+
+Art. 5º, II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei;
+
+- Aplicável tanto aos particulares quanto ao Poder Público.
+
+- Legalidade x princípio da reserva legal:
+
+8
+    STF – ADPF 779.
+9
+    https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=511556&tip=UN.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional           14
+           www.estrategiaconcursos.com.br                                                              59
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+O princípio da legalidade é mais abrangente: representa o dever geral de submissão à lei em
+sentido amplo, o que engloba a obediência qualquer ato normativo estatal. Já o princípio da
+reserva legal se baseia na imposição constitucional de que determinadas matérias sejam
+regulamentadas por lei formal.
+
+Vedação à tortura e ao tratamento desumano ou degradante (inciso III)
+
+Art. 5º, III - ninguém será submetido a tortura nem a tratamento desumano ou degradante;
+
+- Vale relembrar que a prática de tortura deverá ser considerada crime inafiançável e insuscetível
+de graça ou anistia pela lei (art. 5º, inciso XLIII da CF/8).
+
+- Precedente(s) e/ou entendimento(s) jurisprudencial(is) importante(s):
+
+                                                 JURISPRUDÊNCIA
+ “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à
+ integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade
+ por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de
+ nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do
+ Estado”10.
+
+Liberdade de expressão (incisos IV, V, IX e XIV)
+
+Art. 5º, IV - é livre a manifestação do pensamento, sendo vedado o anonimato;
+V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material,
+moral ou à imagem; (...)
+IX - é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente
+de censura ou licença; (...)
+XIV - é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao
+exercício profissional;
+
+- É assegurada a liberdade de expressão, porém é vedado o anonimato, como forma de evitar
+abusos ao exercício de tal liberdade (inciso IV).
+
+- O direito de resposta deve ser proporcional ao agravo e não exclui eventual indenização por
+dano material, moral ou à imagem (inciso V).
+
+- No direito de acesso à informação para o exercício profissional (inciso XIV), a previsão de
+resguardo do sigilo da fonte não conflita com a previsão de vedação ao anonimato prevista no
+inciso IV.
+
+10 STF – Súmula Vinculante 11.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                15
+        www.estrategiaconcursos.com.br                                                                   59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- A inviolabilidade da privacidade e da intimidade do indivíduo (inciso X), bem como a vedação ao
+racismo (inciso XLII) atuam como limites à liberdade de expressão.
+
+Liberdade de crença religiosa e convicção política e filosófica (incisos VI a VIII)
+
+Art. 5º , VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos
+cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias;
+VII - é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de
+internação coletiva;
+VIII - ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política,
+salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação
+alternativa, fixada em lei;
+
+- Na escusa de consciência (inciso VIII), há a possibilidade de perda ou suspensão de direitos
+políticos daquele que se recusa a cumprir obrigação a todos imposta ou prestação alternativa
+estabelecida em lei, em razão da regra do art. 15, inciso IV da CF/88:
+
+Art. 15. É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de: (...)
+IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. 5º, VIII;
+
+- A assistência religiosa prevista no inciso VII possui caráter privado, de incumbência dos
+representantes habilitados de cada religião (vale relembrar que o Brasil é um Estado laico).
+
+- A liberdade de crença religiosa e convicção política e filosófica estão em sintonia com a previsão
+de o Brasil ser um Estado laico (art. 19, inciso I da CF/88):
+
+Art. 19. É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+I - estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter
+com eles ou seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a
+colaboração de interesse público;
+
+Inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas (inciso X)
+
+Art.5º, X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito
+a indenização pelo dano material ou moral decorrente de sua violação;
+
+- É possível o reconhecimento de direito a indenização por dano material e moral,
+cumulativamente, decorrente de violação da intimidade, da vida privada, da honra e da imagem
+da pessoa.
+
+- Também podem ser indenizados por danos morais as pessoas jurídicas (entendimento do STF e
+do STJ).
+
+- O sigilo bancário é espécie do direito à privacidade, mas pode ser afastado excepcionalmente:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                    16
+        www.estrategiaconcursos.com.br                                                                       59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+     a) pelo Poder Judiciário;
+
+     b) pelo Ministério Público e pelo Tribunal de Contas da União, no caso de operações que
+     envolvam recursos públicos (apenas nesta hipótese!);
+
+     c) pelo Poder Legislativo Federal e pelas Comissões Parlamentares de Inquérito (federais e
+     estaduais), nos termos do art. 4º da Lei Complementar 105/2001:
+
+Art. 4º O Banco Central do Brasil e a Comissão de Valores Mobiliários, nas áreas de suas atribuições, e as
+instituições financeiras fornecerão ao Poder Legislativo Federal as informações e os documentos sigilosos
+que, fundamentadamente, se fizerem necessários ao exercício de suas respectivas competências
+constitucionais e legais.
+§ 1º As comissões parlamentares de inquérito, no exercício de sua competência constitucional e legal de
+ampla investigação, obterão as informações e documentos sigilosos de que necessitarem, diretamente das
+instituições financeiras, ou por intermédio do Banco Central do Brasil ou da Comissão de Valores
+Mobiliários.
+§ 2º As solicitações de que trata este artigo deverão ser previamente aprovadas pelo Plenário da Câmara
+dos Deputados, do Senado Federal, ou do plenário de suas respectivas comissões parlamentares de
+inquérito.
+
+       O STF entende que é extensível às CPIs estaduais o poder de determinar a quebra de sigilo
+       bancário, conforme outorgado pela Lei Complementar 105/2001 às CPIs federais, com base
+       no art. 58, § 3º da CF/8811.
+
+       As CPIs municipais, portanto, não têm competência para determinar a quebra de sigilo
+       bancário.
+
+       d) embora não se trate exatamente de "quebra" de sigilo bancário, mas de transferência para
+       o sigilo fiscal de informações que estavam protegidas pelo sigilo bancário, as autoridades e
+       agentes fiscais tributários podem examinar documentos, livros e registros de instituições
+       financeiras, desde que haja processo administrativo instaurado ou procedimento fiscal em
+       curso e que tais exames sejam considerados indispensáveis pela autoridade administrativa
+       competente12.
+
+Inviolabilidade domiciliar (inciso XI)
+
+Art. 5º, XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do
+morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por
+determinação judicial;
+
+11 STF – ACO 730/RJ.
+
+12
+     Lei Complementar 105/2001, art. 6º (declarado constitucional pelo STF, inclusive).
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional           17
+           www.estrategiaconcursos.com.br                                                              59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- O ingresso na “casa” de um indivíduo poderá ocorrer nas seguintes situações:
+
+     a) Com o consentimento do morador.
+
+     b) Sem o consentimento do morador, sob ordem judicial, apenas durante o dia. Perceba que,
+     mesmo com ordem judicial, não é possível o ingresso na casa do indivíduo durante o período
+     noturno.
+
+     c) A qualquer hora, sem consentimento do indivíduo, em caso de flagrante delito ou desastre,
+     ou, ainda, para prestar socorro.
+
+- O conceito de “casa” abrange: a) qualquer compartimento habitado; b) qualquer aposento
+ocupado de habitação coletiva; e c) qualquer compartimento privado não aberto ao público, onde
+alguém exerce profissão ou atividade pessoal13.            ==219a34==
+
+Inviolabilidade das correspondências e das comunicações (inciso XII)
+
+Art. 5º, XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das
+comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei
+estabelecer para fins de investigação criminal ou instrução processual penal;
+
+- A despeito da literalidade do dispositivo, o entendimento prevalecente é o de que não apenas
+o sigilo das comunicações telefônicas pode ser excepcionalmente violado, mas também o das
+correspondências e o das comunicações telegráficas e de dados (uma vez que não há direitos
+garantias fundamentais de caráter absoluto).
+
+Nesse sentido, por exemplo, o STF entendeu ser válida a prova obtida mediante a violação de
+encomenda postada pelo Correio, desde que haja indícios de prática de atividades ilícitas, uma
+vez que o direito ao sigilo da correspondência não é absoluto e deve ser equilibrado com o
+interesse do poder público de reprimir condutas criminosas. No caso, foi firmada a seguinte tese
+de repercussão geral14:
+
+                                                     JURISPRUDÊNCIA
+ “1. Sem autorização judicial ou fora das hipóteses legais, é ilícita a prova obtida mediante abertura de carta,
+ telegrama, pacote ou meio análogo, salvo se ocorrida em estabelecimento penitenciário, quando houver
+ fundados indícios da prática de atividades ilícitas.
+
+ 2. Em relação à abertura de encomendas postadas nos Correios, a prova somente será lícita quando houver
+ fundados indícios da prática de atividades ilícitas, formalizando-se as providências adotadas para fins de
+ controle administrativo ou judicial.”
+
+13
+     STF – HC 93.050.
+14
+     STF – RE 1116949 ED/PR.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                18
+           www.estrategiaconcursos.com.br                                                                   59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- A inviolabilidade das correspondências e das comunicações pode ser restringida, também, na
+vigência dos estados de defesa e de sítio (CF/88, arts. 136, § 1º e 139).
+
+- Requisitos que permitem a interceptação das comunicações telefônicas: a) a ordem judicial; b) a
+existência de investigação criminal ou instrução processual penal; c) lei que preveja as hipóteses e
+a forma em que esta poderá ocorrer.
+
+- Diferença entre interceptação telefônica, escuta telefônica e gravação telefônica15:
+
+Interceptação telefônica = captação de conversas telefônicas feita por terceiro (autoridade policial,
+autorizado pelo Poder Judiciário) sem o conhecimento de nenhum dos interlocutores.
+
+Escuta telefônica = captação de conversa telefônica feita por um terceiro, com o conhecimento
+de apenas um dos interlocutores.
+
+Gravação telefônica = gravação feita por um dos interlocutores do diálogo, sem o consentimento
+ou ciência do outro.
+
+Liberdade de atividade profissional (inciso XIII)
+
+Art. 5º, XIII - é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações
+profissionais que a lei estabelecer;
+
+- Inexistindo lei que estipule qualificações para o exercício de uma dada profissão, seu exercício é
+livre por parte de qualquer pessoa; existindo lei, a profissão só poderá ser exercida por aqueles
+que atenderem às qualificações nela previstas.
+
+- Uma vez que a regra é a liberdade, nem todos os ofícios ou profissões podem ser condicionadas
+ao cumprimento de condições legais para o seu exercício, devendo haver potencial lesivo na
+atividade para que se possa exigir inscrição em conselho de fiscalização profissional, sendo
+desnecessário o controle da atividade de músico, por exemplo (entendimento do STF).
+
+Também no mesmo sentido, a Suprema Corte considera inconstitucional a exigência de diploma
+para o exercício da profissão de jornalista.
+
+- Trata-se de norma de eficácia contida (preocupe-se com esta informação apenas caso em seu
+edital esteja previsto o conteúdo do assunto "eficácia das normas constitucionais").
+
+15
+     STJ – HC 161.053/SP.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          19
+           www.estrategiaconcursos.com.br                                                             59
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+Direito ao acesso à informação (inciso XIV)
+
+Art. 5º, XIV - é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando
+necessário ao exercício profissional;
+
+- O sigilo da fonte resguarda notadamente os jornalistas e não conflita com a vedação ao
+anonimato prevista no inciso IV do art. 5º da CF/88.
+
+Liberdade de locomoção (inciso XV)
+
+Art. 5º, XV - é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos
+termos da lei, nele entrar, permanecer ou dele sair com seus bens;
+
+- Tal liberdade, como prevista na CF/88, só existe em “tempo de paz”.
+
+- Abrange também os bens, não somente as pessoas.
+
+- É possível sua restrição por meio de lei.
+
+- Remédio constitucional apto a tutelar a liberdade de locomoção = habeas corpus (art. 5º, LXVIII
+da CF/88).
+
+Liberdade de reunião (inciso XVI)
+
+Art. 5º, XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público,
+independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para
+o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;
+
+- Requisitos para o exercício do direito de reunião, nos termos da CF/88:
+
+  a) ocorrer de maneira pacífica;
+
+  b) ausência de armas;
+
+  c) realização em locais abertos ao público;
+
+  d) não poderá frustrar outra reunião convocada anteriormente para o mesmo local;
+
+  e) prévio aviso à autoridade competente, sendo desnecessária autorização.
+
+- Não confundir o “prévio aviso” (necessário, nos termos da CF/88, com ressalvas, conforme
+entendimento do STF) com “autorização” (desnecessária)!
+
+- É possível a restrição ou até mesmo a suspensão da liberdade de reunião, nos casos de vigência
+de estado de defesa (CF/88, art. 136, § 1º, I, “a”) ou de sítio (CF/88, art. 139, IV).
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          20
+        www.estrategiaconcursos.com.br                                                             59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- Remédio constitucional cabível para a proteção da liberdade de reunião: mandado de segurança
+(não o habeas corpus – cuidado!).
+
+- O STF já considerou válida a realização de "Marcha da Maconha", desde que sejam atendidos
+os requisitos constitucionais e não ocorra a incitação, o incentivo ou o estímulo ao consumo de
+entorpecentes na sua realização16.
+
+Direito de associação (incisos XVII a XXI)
+
+Art. 5º, XVII - é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;
+XVIII - a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo
+vedada a interferência estatal em seu funcionamento;
+XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por
+decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
+XX - ninguém poderá ser compelido a associar-se ou a permanecer associado;
+XXI - as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus
+filiados judicial ou extrajudicialmente;
+
+- Requisitos da existência de uma associação: pluralidade de pessoas, estabilidade (ao contrário
+das reuniões, que são transitórias, esporádicas) e origem a partir de um ato de vontade.
+
+- A existência da associação independe da aquisição de personalidade jurídica.
+
+- Requisitos para a liberdade plena de associação: finalidade lícita e vedação ao caráter paramilitar.
+
+- É desnecessária autorização do poder público para a criação das associações e, na forma da lei,
+de cooperativas (veja que só é prevista lei nesse último caso, ou seja, para regular a liberdade de
+criação de cooperativas).
+
+- É vedada a interferência estatal no funcionamento das associações e das cooperativas.
+
+- Tanto a dissolução compulsória quanto a suspensão das atividades das associações só podem
+ocorrer por meio de decisão judicial, entretanto, dessas duas medidas, a mais gravosa, qual seja,
+a dissolução compulsória, exige que a decisão judicial esteja transitada em julgado (requisito mais
+difícil, portanto, que uma simples decisão judicial).
+
+- É proibido que alguém seja obrigado a se associar ou a permanecer associado.
+
+- O inciso fala "representar", o que não deve ser confundido com "substituir".
+
+- Para representar seus filiados, a associação necessita de autorização expressa daqueles.
+
+16
+     STF – ADPF 187.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          21
+           www.estrategiaconcursos.com.br                                                             59
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- A autorização não pode ser substituída por uma autorização genérica prevista em estatuto.
+
+- A representação pode ocorrer tanto na esfera judicial quanto na extrajudicial.
+
+Direito de propriedade (incisos XXII a XXVI)
+
+Art. 5º, XXII - é garantido o direito de propriedade;
+XXIII - a propriedade atenderá a sua função social;
+
+- O direito de propriedade alcança tanto bens corpóreos quanto incorpóreos.
+
+- Em que pese o inciso XXII não trazer restrições à garantia do direito de propriedade, dando a
+entender que se trata de norma de eficácia plena, trata-se de norma de eficácia contida
+(preocupe-se com esta informação apenas caso em seu edital esteja previsto o conteúdo do
+assunto "eficácia das normas constitucionais").
+
+Isso, porque tal direito pode ser restringido pelo Poder Público em razão das previsões
+constitucionais que impõem requisitos ao exercício do direito de propriedade – ex: necessidade
+de atendimento da função social da propriedade, sob pena de o proprietário sofrer sanções
+administrativas e/ou desapropriação por interesse social (arts. 5º, XXIII, 182 e 186 da CF/88) – ou
+a ele aplicam flexibilizações – ex: desapropriação por utilidade ou necessidade pública ou, ainda,
+requisição administrativa (art. 5º, XXIV e XXV da CF/88).
+
+- Regras previstas na CF/88 sobre o atendimento da função social por parte da propriedade. São
+elas:
+
+  a) Propriedade urbana (art. 182, § 2º da CF/88) – para cumprir sua função social, deve atender
+  às exigências fundamentais de ordenação da cidade expressas no plano diretor.
+
+  b) Propriedade rural (art. 186 da CF/88) – para cumprir sua função social, deve atender
+  simultaneamente, segundo critérios e graus de exigência estabelecidos em lei, aos seguintes
+  requisitos:
+
+     - aproveitamento racional e adequado;
+
+     - utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;
+
+     - observância das disposições que regulam as relações de trabalho;
+
+     - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       22
+        www.estrategiaconcursos.com.br                                                          59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+Desapropriação (inciso XXIV)
+
+Art. 5º, XXIV a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública,
+ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos
+nesta Constituição;
+
+- Hipóteses de desapropriação: a) necessidade pública, b) utilidade pública e c) interesse social.
+
+- Via de regra, a indenização decorrente da desapropriação deve ser prévia, justa e em dinheiro.
+As exceções devem estar previstas na Constituição Federal. São elas:
+
+
+                                                            Desapropriação de
+                      Desapropriação, por                   imóvel urbano não-
+                                                             edificado que não                 Desapropriação
+                    interesse social, para fins
+       ok                                                   cumpriu sua função                  confiscatória
+                       de reforma agrária
+                                                                    social                     (art. 243 da CF/88)
+                          (art. 184 da CF/88)
+                                                          (art. 182, § 4º, III da CF/88)
+
+                                                                                             Propriedades rurais e
+                                                         Solo urbano não edificado,           urbanas de qualquer
+                                                              subutilizado ou não             região do País onde
+                                                         utilizado, além das demais             forem localizadas
+                    Imóvel rural que não esteja
+    Objeto                                               condições previstas no art.           culturas ilegais de
+                   cumprindo sua função social.
+                                                                 182 da CF/88               plantas psicotrópicas ou
+                                                          (descumprindo, portanto                a exploração de
+                                                               sua função social).            trabalho escravo na
+                                                                                                   forma da lei.
+                     Prévia e justa indenização em      Títulos da dívida pública de
+                      títulos da dívida agrária com         emissão previamente
+                       cláusula de preservação do          aprovada pelo Senado
+                    valor real, resgatáveis no prazo
+                                                           Federal, com prazo de
+   Forma de          de até vinte anos, a partir do
+                                                          resgate de até dez anos,           Não há indenização.
+  Indenização       segundo ano de sua emissão, e
+                    cuja utilização será definida em
+                                                         em parcelas anuais, iguais
+                        lei. As benfeitorias úteis e    e sucessivas, assegurados o
+                     necessárias, entretanto, serão     valor real da indenização e
+                         indenizadas em dinheiro.              os juros legais.
+
+
+Requisição administrativa (inciso XXV)
+
+Art. 5º, XXV - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade
+particular, assegurada ao proprietário indenização ulterior, se houver dano;
+
+- O direito fundamental de requisição administrativa é de titularidade do Estado.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                            23
+        www.estrategiaconcursos.com.br                                                                               59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- O perigo público deve ser iminente.
+
+- Possui caráter compulsório para o particular (poder de império do Estado).
+
+- A cessão da propriedade é gratuita e só haverá indenização em caso de dano.
+
+- A requisição de bens é medida possível também na vigência de estado de sítio (art. 139, VII da
+CF/88).
+
+Impenhorabilidade da pequena propriedade rural (inciso XXVI)
+
+Art. 5º, XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não
+será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a
+lei sobre os meios de financiar o seu desenvolvimento;
+
+- A garantia é aplicável apenas à propriedade rural que seja considerada "pequena".
+
+- A definição de "pequena" deve ser prevista em lei (reserva legal).
+
+- Requisitos constitucionais para a garantia de impenhorabilidade da pequena propriedade rural:
+
+  a) deve ser trabalhada pela família; e
+
+  b) o débito deve decorrer da atividade produtiva da propriedade.
+
+- Os meios de financiar o desenvolvimento da pequena propriedade rural deverão ser dispostos
+em lei (reserva legal).
+
+Direito do autor (incisos XXVII e XXVIII)
+
+Art. 5º, XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas
+obras, transmissível aos herdeiros pelo tempo que a lei fixar;
+XXVIII - são assegurados, nos termos da lei:
+a) a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas,
+inclusive nas atividades desportivas;
+b) o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem
+aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;
+
+- O autor tem controle pleno sobre a utilização, publicação ou reprodução de suas obras, enquanto
+estiver vivo (trata-se de um direito "exclusivo").
+
+- Após a morte do autor, o direito será temporalmente limitado aos seus herdeiros (limitação
+temporal fixada em lei).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              24
+        www.estrategiaconcursos.com.br                                                                 59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- Sobre o inciso XVIII, é importante perceber que o dispositivo assegura proteções (alínea "a") e
+direito de fiscalização (alínea "b"). Assim, assegura-se:
+
+  a) Proteção:
+
+     - às participações individuais em obras coletivas;
+
+     - à reprodução da imagem e voz humanas, inclusive nas atividades desportivas.
+
+  a) Direito de fiscalização:
+
+     - Sujeitos que detêm o direito: criadores, intérpretes e respectivas representações sindicais
+     e associativas.
+
+     - Objeto a ser fiscalizado: aproveitamento econômico das obras que criarem ou de que
+     participarem os mencionados sujeitos.
+
+Direito de propriedade industrial (inciso XXIX)
+
+Art. 5º, XXIX - a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização,
+bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros
+signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;
+
+- Os autores de inventos industriais possuem privilégio temporário para sua utilização, ao contrário
+dos direitos autorais, que são assegurados ao autor de forma vitalícia (inciso XXVII).
+
+- Sobre a segunda parte do dispositivo, é importante notar que a lei deve proteger:
+
+  a) as criações industriais;
+
+  b) a propriedade das marcas;
+
+  c) os nomes de empresas;
+
+  d) outros signos distintivos.
+
+- A proteção a ser conferida deve ter em vista dois fatores:
+
+  a) o interesse social;
+
+  b) o desenvolvimento tecnológico e econômico do país.
+
+Direito de herança (incisos XXX e XXXI)
+
+Art. 5º, XXX - é garantido o direito de herança;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   25
+        www.estrategiaconcursos.com.br                                                                      59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+XXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício
+do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do "de cujus";
+
+- O direito de herança não impede a incidência de tributos sobre o valor dos bens transferidos
+(imposto sobre transmissão causa mortis – art. 155, inciso I da CF/88).
+
+- No que diz respeito à sucessão de bens de estrangeiros situados no Brasil, entre a lei brasileira
+e a lei do país do “de cujus” (falecido), aplica-se a mais favorável ao cônjuge e aos filhos brasileiros.
+
+Defesa do consumidor (inciso XXXII)
+
+Art. 5º, XXXII - o Estado promoverá, na forma da lei, a defesa do consumidor;
+
+- Norma de eficácia limitada.
+
+- A defesa do consumidor é também um princípio da ordem econômica (art. 170, V da CF/88).
+
+Direito à informação (inciso XXXIII)
+
+Art. 5º, XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular,
+ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade,
+ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;
+
+- Tal direito encontra limites no caso de informações:
+
+  a) cujo sigilo seja imprescindível à segurança da sociedade e do Estado;
+
+  b) nas informações pessoais protegidas pelo art. 5º inciso X da CF/88.
+
+- O mandado de segurança é o remédio constitucional apto a tutelar o direito à informação (não
+o habeas data).
+
+Direito de petição (inciso XXXIV, alínea “a”)
+
+Art. 5º, XXXIV - são a todos assegurados, independentemente do pagamento de taxas:
+a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;
+
+- Finalidade do direito de petição:
+
+  a) defesa de direitos;
+
+  b) manifestação contra ilegalidade ou abuso de poder.
+
+- Características do direito de petição:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               26
+        www.estrategiaconcursos.com.br                                                                  59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+  a) legitimação universal (todas as pessoas físicas – brasileiros ou estrangeiros – e pessoas
+  jurídicas são legitimadas);
+
+  b) a gratuidade ("independente do pagamento de taxas"); e
+
+  c) natureza administrativa, não-jurisdicional (pode ser exercido, inclusive, sem representação
+  por advogado).
+
+- Direito de petição x direito de postular em juízo:
+
+O primeiro é um remédio administrativo, utilizado em defesa de direitos ou contra ilegalidade ou
+abuso de poder, não necessitando de advogado para seu exercício.
+
+Já o direito de postular em juízo se presta a obter decisão judicial a respeito de uma pretensão do
+interessado, necessitando para ser exercido, via de regra, de representação por advogado, salvo
+em situações excepcionais (como é o caso do habeas corpus).
+
+- Remédio constitucional apto a tutelar o direito de petição = mandado de segurança (não o
+habeas data).
+
+Direito de certidão (inciso XXXIV, alínea “b”)
+
+Art. 5º, XXXIV - são a todos assegurados, independentemente do pagamento de taxas: (...)
+b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações
+de interesse pessoal;
+
+- O direito de certidão é garantido a "todos", "independentemente do pagamento de taxas".
+
+- Finalidade do direito de certidão:
+
+  a) defesa de direitos;
+
+  b) esclarecimento de situações de interesse pessoal.
+
+- Não é possível recorrer ao direito de certidão para a defesa de direitos ou esclarecimento de
+situações de interesse de terceiro (veja que o dispositivo fala em "interesse pessoal") – a não ser
+que o pedido seja efetuado por seu representante.
+
+- Remédio constitucional apto a tutelar o direito de certidão = mandado de segurança (não o
+habeas data).
+
+Princípio da inafastabilidade de jurisdição (inciso XXXV)
+
+Art. 5º, XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             27
+        www.estrategiaconcursos.com.br                                                                59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- Também conhecido como direito de ação ou princípio do livre acesso ao Poder Judiciário.
+
+- O princípio da inafastabilidade de jurisdição propugna que apenas o Poder Judiciário pode
+decidir de forma definitiva, fazendo coisa julgada material, estando todas as decisões
+administrativas sujeitas ao controle daquele Poder, consagrando, assim, a adoção do sistema
+inglês (ou de jurisdição uma) pela CF/88, em contraposição ao sistema francês, onde, além do
+Poder Judiciário, a própria Administração pode decidir em caráter definitivo (sistema de
+contencioso administrativo).
+
+- O princípio também garante que, em regra, o ingresso com ação junto ao Poder Judiciário não
+está condicionado ao prévio esgotamento ou, pelo menos, a utilização inicial da via administrativa
+(ou seja, inexiste jurisdição condicionada ou instância administrativa de curso forçado no Brasil).
+Exceções:
+
+  a) o ajuizamento do habeas data só é possível após a negativa ou omissão da Administração
+  Pública em relação ao pedido efetuado junto à Administração (STF – RHD 22/DF);
+
+  b) ações relativas à disciplina e às competições desportivas só serão admitidas pelo Poder
+  Judiciário pós esgotarem-se as instâncias da justiça desportiva – que possui natureza
+  administrativa (art. 217, § 1º da CF/88);
+
+  c) reclamação ao STF contra o descumprimento de Súmula Vinculante pela Administração
+  Pública só deve ser admitida após o esgotamento das vias administrativas (Lei 11.417/2006, art.
+  7, § 1º); e
+
+  d) ingresso de ação judicial contra o INSS relativo a concessão de benefício previdenciário só
+  deve ser admitido existente prévio requerimento administrativo (STF – RE 631.240/MG).
+
+- A garantia de acesso ao Poder Judiciário, consubstanciada no princípio da inafastabilidade de
+jurisdição, é aplicável à proteção de direitos em geral (privados, públicos ou transindividuais – veja
+que o dispositivo fala apenas "a direito"), mas não possui caráter absoluto, de modo que:
+
+  a) é possível que o legislador edite normas reguladoras do exercício do direito de ação, inclusive
+  prevendo restrições à concessão de tutela antecipada, obedecidos os princípios da
+  razoabilidade e da proporcionalidade nas eventuais limitações que forem impostas;
+
+  b) inexiste garantia de gratuidade universal no acesso aos tribunais;
+
+  c) inexiste, também, a obrigatoriedade de duplo grau de jurisdição (ou seja, de forma plena,
+  incondicional, absoluta) considerando que a própria CF/88 prevê casos de instância única
+  ordinária de julgamento;
+
+  d) não impede a existência de assuntos que não podem ser objeto de apreciação judicial, como
+  os atos interna corporis das Casas Legislativas e o mérito dos atos administrativos.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          28
+        www.estrategiaconcursos.com.br                                                             59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- Além disso, a garantia pode ser invocada tanto na busca de uma tutela repressiva ("lesão")
+quanto preventiva ("ameaça") por parte do Poder Judiciário.
+
+Proteção ao direito adquirido, à coisa julgada e ao ato jurídico perfeito – garantia da
+irretroatividade das leis (inciso XXXVI)
+
+Art. 5º, XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;
+
+- Direito adquirido: é o direito que se passa a ser titular após terem sido atendidos todos os
+requisitos previstos na lei vigente para sua aquisição.
+
+Se os requisitos previstos na lei só serão completamente atendidos no futuro, mesmo que de
+forma iminente, não há direito adquirido, mas apenas "expectativa de direito", que não é
+protegida pelo dispositivo.
+
+- Ato jurídico perfeito: é o ato que já foi realizado, consumado, segundo as regras previstas na lei
+que vigorava à época em que foi praticado.
+
+- Coisa julgada: é a decisão judicial que não pode mais ser objeto de recurso.
+
+- A regra do inciso XXXVI busca prestigiar a segurança jurídica, evitando que uma nova lei
+prejudique situações jurídicas consolidadas sob na vigência de leis anteriores.
+
+- A garantia de irretroatividade das leis não é absoluta: é possível a edição de leis que retroajam
+para beneficiar os indivíduos.
+
+- O termo lei “lei” deve ser entendido em sentido amplo, compreendendo quaisquer atos
+normativos infraconstitucionais (lei ordinária, lei complementar, resolução etc.) e, até mesmo, as
+emendas constitucionais.
+
+- Situações nas quais não é cabível invocar-se direito adquirido:
+
+   a) normas constitucionais originárias;
+
+   b) mudança do padrão monetário;
+
+   c) criação ou aumento de tributos;
+
+   d) mudança de regime jurídico estatutário.
+
+Princípio do juiz natural (incisos XXXVII e LIII)
+
+Art. 5º, XXXVII - não haverá juízo ou tribunal de exceção; (...)
+LIII - ninguém será processado nem sentenciado senão pela autoridade competente;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                29
+        www.estrategiaconcursos.com.br                                                                   59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- O princípio do juiz natural visa a garantir a todas as pessoas (brasileiros, estrangeiros, pessoas
+físicas ou jurídicas) uma atuação imparcial do Poder Judiciário na resolução de suas lides,
+impedindo:
+
+     a) a formação arbitrária de tribunais ou juízos de exceção, instituídos para o julgamento de um
+     caso específico ("ad hoc") e/ou após o acontecimento do caso que será objeto de apreciação
+     ("ex post facto");
+
+     b) que seja atribuída competência em desacordo com o previsto constitucionalmente.
+
+- Deve ser interpretado, portanto, de forma ampla, abrangendo a vedação à criação de juízo de
+exceção, bem como a obrigação de respeito às regras de distribuição de competências previstas
+objetivamente na CF/88.
+
+- Alcança não apenas os julgadores do Poder Judiciário, mas também os dos demais poderes,
+previstos constitucionalmente (ex: Senado Federal, no exercício de sua competência de julgar os
+crimes de responsabilidade de determinadas autoridades).
+
+Júri popular (inciso XXXVIII)
+
+Art. 5º, XXXVIII - é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados:
+a) a plenitude de defesa;
+b) o sigilo das votações;
+c) a soberania dos veredictos;
+d) a competência para o julgamento dos crimes dolosos contra a vida;
+
+- O Tribunal do Júri é um tribunal popular, composto por jurados escolhidos dentre cidadãos
+alistados, e por um juiz togado, que possui a função de presidir o Tribunal. É previsto pela CF/88
+para o julgamento dos crimes dolosos contra a vida.
+
+- Sobre a competência do Tribunal do Júri para julgamento de crimes dolosos contra a vida (alínea
+"d"):
+
+     a) não alcança detentores de foro especial por prerrogativa de função estabelecido pela CF/88;
+
+     b) em relação ao item anterior, quando o foro especial decorre não de previsão da CF/88, mas
+     (exclusivamente) de Constituição Estadual, prevalece a competência do Tribunal do Júri
+     estabelecida pela Constituição Federal17;
+
+17
+     STF – Súmula Vinculante 45.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                30
+           www.estrategiaconcursos.com.br                                                                   59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+     c) pode ser ampliada pela legislação ordinária, de modo que ao Tribunal do Júri pode ser
+     atribuída competência para o julgamento também de outros crimes (entendimento do STF).
+
+- A plenitude de defesa (alínea "a") deriva dos princípios do contraditório e da ampla defesa,
+garantindo ao acusado se valer de todos os instrumentos processuais e argumentos para se
+defender nos processos de competência do Tribunal do Júri.
+
+- A soberania dos veredictos (alínea "c") impõe que a decisão dos jurados não pode ser
+modificada, suprimida, desconsiderada ou substituída por outra proferida pelos órgãos do Poder
+Judiciário. Entretanto, isso não significa que a decisão do Tribunal do Júri não seja passível de
+recurso perante os tribunais do Poder Judiciário, especialmente quando tal decisão seja
+flagrantemente contrária às provas constantes do processo (entendimento do STF).
+
+- Os condenados por júri popular podem ser presos imediatamente após o julgamento: o
+cumprimento imediato da pena não viola o princípio da presunção de inocência (entendimento do
+STF18).
+
+Princípio da legalidade penal (inciso XXXIX)
+
+Art. 5º, XXXIX - não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;
+
+- O dispositivo trata do princípio da legalidade penal, que impõe que as normas incriminadoras
+devam estar previstas em lei, de modo que uma conduta só possa ser considerada crime e ser
+objeto de sanção caso haja uma lei já existente definindo-a como crime e prevendo a ela uma
+pena.
+
+- A "lei" prevista no dispositivo:
+
+     a) deve ser considerada em sentido estrito, ou seja, lei formal editada pelo Poder Legislativo
+     (princípio da reserva legal em matéria penal);
+
+     b) deve existir anteriormente à conduta para que esta possa ser considerada (ou não) criminosa
+     (princípio da anterioridade da lei penal).
+
+- A competência para legislar sobre Direito Penal é da União, o que impossibilita que os demais
+entes tipifiquem crimes (art. 22, inciso I da CF/88).
+
+- Não é possível que medidas provisórias definam crimes e cominem penas, em razão do
+impedimento previsto no art. 62, § 1º, I, “b” da CF/88, onde se veda a edição de medida provisória
+para tratar, dentre outros temas, de direito penal e processual penal (obs: preocupe-se com tal
+
+18
+     STF – RE 1235340. Tema 1068.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional        31
+           www.estrategiaconcursos.com.br                                                           59
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+informação apenas caso em seu edital esteja previsto o conteúdo abordado nos dispositivos
+mencionados).
+
+- As normas penais "em branco" (que dependem de complementação por outra norma, inclusive
+de outra espécie que não lei em sentido estrito) não violam o princípio da reserva legal
+(entendimento doutrinário majoritário).
+
+Princípios da irretroatividade da lei penal e da retroatividade da lei penal mais favorável (inciso XL)
+
+Art. 5º, XL - a lei penal não retroagirá, salvo para beneficiar o réu;
+
+- Derivado do princípio da anterioridade da lei penal, o princípio da irretroatividade da lei penal
+veda que a lei penal atinja fatos pretéritos ao início de sua vigência, caso prejudique o réu.
+
+- Caso a lei penal favoreça o réu, poderá retroagir, alcançando fatos anteriores ao início de sua
+vigência, possibilitando, inclusive, a descontinuidade de punições por condutas antes
+consideradas criminosas, mesmo que tenha havido o trânsito em julgado da condenação (princípio
+da retroatividade da lei penal mais favorável).
+
+- Não é possível a combinação de leis emanadas em tempos diferentes para se derivar uma regra
+mais favorável ao réu, devendo, no caso, se aplicar integralmente a regra prevista ou na lei antiga
+ou na lei nova, sob pena de alterar-se o "espírito normativo" previsto nos diplomas legais
+envolvidos (entendimento do STF).
+
+Mandados de criminalização (incisos XLI a XLIV)
+
+Art. 5º, XLI - a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais;
+XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos
+termos da lei;
+XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura , o tráfico
+ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles
+respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;
+XLIV - constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a
+ordem constitucional e o Estado Democrático;
+
+- Trata-se de normas constitucionais que limitam a atuação do legislador ao impor a criminalização
+de determinadas condutas.
+
+- Inciso XLI: norma de eficácia limitada (preocupe-se com esta informação apenas caso em seu
+edital esteja previsto o conteúdo do assunto "eficácia das normas constitucionais").
+
+- Comparação entre os mandados previstos nos incisos XLI a XLIV:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                      32
+         www.estrategiaconcursos.com.br                                                                         59
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+                                                          Prática da tortura
+                                                           Tráfico ilícito de                   Ação de grupos
+     Discriminação
+                                                       entorpecentes e drogas                  armados, civis ou
+    atentatória dos
+                          Prática do Racismo                     afins                        militares, contra a
+ direitos e liberdades
+                              (inciso XLII)                   Terrorismo                    ordem constitucional e
+     fundamentais
+                                                      Crimes hediondos (assim               o Estado Democrático
+       (inciso XLI)
+                                                          definidos em lei)                      (inciso XLIV)
+                                                             (inciso XLIII)
+                          Crime inafiançável            Crimes inafiançáveis e               Crime inafiançável e
+            -
+                           e imprescritível        insuscetíveis de graça ou anistia            imprescritível
+                          Pena de reclusão
+ Será punida pela lei                                                -                                -
+                           (não detenção!)
+                                                      Respondem pelos crimes:
+                                                            a) mandantes;
+            -                        -                      b) executores;                            -
+                                                   c) os que podendo evitá-los, se
+                                                               omitirem.
+
+- Alguns macetes que podem lhe ajudar a responder uma questão caso não se lembre do exato
+teor das condutas previstas em cada um dos incisos:
+
+  a) para memorizar quais são as condutas que constituem crimes insuscetíveis de graça ou anistia:
+
+  Observe que, de todas as condutas previstas, as únicas que são consideradas insuscetíveis de
+  graça ou anistia pela CF/88 são as previstas no inciso XLIII. Para facilitar a memorização dessa
+  informação, decore a seguinte frase mnemônica: "3T + hediondos não têm graça".
+
+            3T = a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o
+                                               terrorismo
+
+                                hediondos = os definidos como hediondos;
+
+        não tem graça = a lei considerará crimes inafiançáveis e insuscetíveis de graça ou
+                                             anistia.
+
+  Pre = prestação social alternativa.
+
+  Às vezes, só de saber que três das condutas começam com a letra "t", mesmo sem lembrar
+  exatamente de tudo, pode ser muito útil para responder uma questão ;)
+
+  b) para memorizar quais são as condutas que constituem crimes inafiançáveis:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                            33
+        www.estrategiaconcursos.com.br                                                                               59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+  Observe que, de todas as condutas previstas, apenas a mais "genérica", que é a prevista no
+  inciso XLI, não constitui crime inafiançável pela CF/88, qual seja, "qualquer discriminação
+  atentatória dos direitos e liberdades fundamentais".
+
+  Em outras palavras, todas as condutas elencadas nos mandados de criminalização, exceto a
+  prevista inciso XLI, têm em comum o fato de serem consideradas crimes inafiançáveis pela
+  Constituição.
+
+  c) para memorizar quais são as condutas que constituem crimes imprescritíveis:
+
+  Observe que para a conduta mais "genérica" (inciso XLI) e as que estão englobadas na frase
+  mnemônica "3T + hediondos não têm graça (inciso XLIII) são as que não foram previstas na CF
+  como crimes imprescritíveis. Logo, todas as demais (incisos XLII e XLIV) foram previstas como
+  crimes imprescritíveis pela Constituição.
+
+- Já que falamos em crimes insuscetíveis de graça ou anistia, convém destacar que:
+
+  a) a competência para conceder indulto e comutar penas é do Presidente da República,
+  delegável aos Ministros de Estado, ao Procurador-Geral da República e ao Advogado-Geral da
+  União (art. 84, XII e parágrafo único da CF/88).
+
+  b) para a concessão de anistia, faz-se necessária a edição de lei do Congresso Nacional (art. 48,
+  VIII da CF/88).
+
+  Obs: preocupe-se com tais informações apenas caso em seu edital esteja previsto o conteúdo
+  abordado nos dispositivos mencionados.
+
+Princípio da intransmissibilidade da pena (inciso XLV)
+
+Art. 5º, XLV - nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e
+a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles
+executadas, até o limite do valor do patrimônio transferido;
+
+- Também chamado de princípio da pessoalidade da pena, da personalização da pena ou da
+intranscendência da pena.
+
+- Garante que a pena só pode ser cumprida pelo condenado, não por terceiros – a pena é
+personalíssima.
+
+- Em decorrência de tal princípio, caso o condenado venha a falecer, extingue-se a punibilidade.
+
+Nada obstante, a obrigação de reparar o dano e a decretação do perdimento de bens podem ser
+estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio
+transferido.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       34
+        www.estrategiaconcursos.com.br                                                          59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+Princípio da individualização da pena (inciso XLVI)
+
+Art. 5º, XLVI - a lei regulará a individualização da pena e adotará, entre outras, as seguintes:
+a) privação ou restrição da liberdade;
+b) perda de bens;
+c) multa;
+d) prestação social alternativa;
+e) suspensão ou interdição de direitos;
+
+- Impõe que a lei penal deve considerar as características pessoais do infrator (ex: antecedentes
+criminais) ao regular a pena.
+
+- O dispositivo prevê rol não exaustivo ("entre outras"), de modo que a lei poderá criar novas
+penas.
+
+- Frase mnemônica para guardar o rol do dispositivo: "Priva + PerMulta + SuPre".
+
+                                 Priva = privação ou restrição da liberdade;
+
+                                              Per = perda de bens;
+
+                                                  Multa = multa;
+
+                                 Su = suspensão ou interdição de direitos;
+
+                                      Pre = prestação social alternativa.
+
+Penas inaplicáveis (inciso XLVII)
+
+Art. 5º, XLVII - não haverá penas:
+a) de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;
+b) de caráter perpétuo;
+c) de trabalhos forçados;
+d) de banimento;
+e) cruéis;
+
+
+- Notar que, em caso de guerra declarada, excepcionalmente é possível a pena de morte
+(relembrando, mais uma vez, que nem mesmo o direito à vida é absoluto!).
+
+- A pena de banimento (alínea "d") não se confunde com a expulsão de estrangeiro, que é
+admitida.
+
+- As penas de caráter perpétuo (alínea "b") também não são admitidas no âmbito das sanções
+administrativas (entendimento do STF).
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          35
+        www.estrategiaconcursos.com.br                                                             59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- Comparar as penas inadmitidas previstas no dispositivo com as penas admitidas previstas no
+inciso anterior.
+
+- Frase para ajudar a memorização do rol previsto no dispositivo: "O banimento cruel força a morte
+perpétua", de modo que:
+
+                                  banimento = de banimento (alínea "d");
+
+                                           cruel = cruéis (alínea "e");
+
+                                 força = de trabalhos forçados (alínea "c");
+
+                morte = de morte, salvo em caso de guerra declarada (alínea "a"); e
+
+                               perpétua = de caráter perpétuo (alínea "b").
+
+Execução penal individualizada (inciso XLVIII)
+
+Art. 5º, XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito,
+a idade e o sexo do apenado;
+
+- Frase mnemônica para ajudar a memorizar os fatores a serem considerados para distinguir os
+estabelecimentos em que serão cumpridas as penas: "Ida De Sexta"
+
+                                           Ida = idade do apenado;
+
+                                            De = natureza do delito;
+
+                                           Sexta = sexo do apenado.
+
+Garantia do respeito à integridade física e moral dos presos (inciso XLIX)
+
+Art. 5º, XLIX - é assegurado aos presos o respeito à integridade física e moral;
+
+- O objetivo aqui é assegurar que certos direitos fundamentais permaneçam garantidos aos
+indivíduos mesmo quando presos.
+
+Garantia de que as presidiárias tenham condições de permanecer com seus filhos durante o
+período de amamentação (inciso L)
+
+Art. 5º, L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos
+durante o período de amamentação;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             36
+        www.estrategiaconcursos.com.br                                                                59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- Trata-se de dupla garantia: ao mesmo tempo em que assegura às mães o direito à amamentação
+e ao contato com o filho, permite que a criança tenha acesso ao leite materno.
+
+Extradição (incisos LI e LII)
+
+Art. 5º, LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado
+antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins,
+na forma da lei;
+LII - não será concedida extradição de estrangeiro por crime político ou de opinião;
+
+- Extradição ativa x extradição passiva:
+
+Na extradição ativa, o Brasil solicita a outro país a entrega de um indivíduo para que seja
+processado, julgado ou punido em território nacional. Na extradição passiva ocorre o inverso: o
+Estado estrangeiro é quem solicita ao Brasil que lhe entregue o criminoso.
+
+- Extradição de brasileiros:
+
+A extradição de brasileiro nato é vedada de forma absoluta. Nada obstante, é possível a extradição
+de brasileiro naturalizado, desde que configurada uma das hipóteses previstas no inciso LI, quais
+sejam:
+
+a) prática de crime comum, praticado antes da naturalização; ou
+
+b) envolvimento em tráfico ilícito de entorpecentes e drogas afins, a qualquer tempo.
+
+Na hipótese de crime comum, só é possível a extradição do brasileiro naturalizado se o crime for
+cometido antes da naturalização. Já no caso de envolvimento em tráfico ilícito de entorpecentes,
+a extradição do brasileiro naturalizado pode acontecer mesmo que tal envolvimento se dê após a
+naturalização.
+
+Perceba, assim, que a Constituição considera mais reprovável o envolvimento em tráfico ilícito de
+entorpecentes que a prática de crime comum, já que no primeiro caso, pode ensejar extradição
+mesmo que o envolvimento ocorra após a naturalização.
+
+Para ajudar na memorização:
+
+
+                                 Hipóteses que autorizam a extradição de brasileiro naturalizado
+
+                                                                         Envolvimento em tráfico ilícito de
+      Espécie de ilícito                  Crime comum
+                                                                           entorpecentes e drogas afins
+            Período de
+                                     Antes da naturalização                        A qualquer tempo
+     ocorrência do ilícito
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                     37
+        www.estrategiaconcursos.com.br                                                                        59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- Extradição de estrangeiros:
+
+Com relação ao estrangeiro, sua extradição é permitida como regra, excetuando-se caso o
+fundamento seja a prática de crime político ou de opinião (inciso LII).
+
+Entretanto, no caso do português equiparado, aplicam-se as regras de extradição do brasileiro
+naturalizado, por força do art. 12, § 1º da CF/88 (preocupe-se com esta informação apenas caso
+em seu edital esteja previsto o conteúdo abordado no dispositivo mencionado).
+
+- Quadro-resumo:
+
+
+                                                                                              Estrangeiro
+                        Brasileiro               Brasileiro Naturalizado
+                          Nato                                                         (não vale para o português
+                                               (e português equiparado)
+                                                                                              equiparado)
+
+  Possibilidade           Não é
+                                            Regra geral, não é permitida.              Regra geral, é permitida.
+  de extradição         permitida.
+
+
+                                              a) Crime comum, antes da
+                         Não há.                     naturalização;                     Caso o fundamento seja
+    Exceções            (vedação          b) Envolvimento em tráfico ilícito               a prática de crime
+                        absoluta!)        de entorpecentes e drogas afins,               político ou de opinião.
+                                                 a qualquer tempo.
+
+- Processo de extradição:
+
+Compete ao STF processar e julgar o pedido de extradição feito por Estado estrangeiro – ou seja,
+as extradições passivas (art. 102, I, “g” da CF/88).
+
+Caso o STF defira o pedido, caberá ao Presidente da República decidir pela entrega (ou não) do
+extraditando ao Estado requerente (art. 84, VII da CF/88), não estando vinculado, portanto, à
+autorização de extradição conferida pela Corte Suprema, uma vez que se trata de ato político.
+
+Por outro lado, caso o STF negue o pedido, o Presidente da República fica impedido de entregar
+o extraditando, ficando o chefe do Poder Executivo vinculado à decisão do Supremo Tribunal.
+
+Princípio do devido processo legal – due processo of law (inciso LIV)
+
+Art. 5º, LIV - ninguém será privado da liberdade ou de seus bens sem o devido processo legal;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                          38
+        www.estrategiaconcursos.com.br                                                                             59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- O devido processo legal busca assegurar a liberdade dos indivíduos e a proteção de seus bens
+por meio de garantias processuais mínimas e julgamentos/decisões equilibrados(as).
+
+- Devido processo legal - aspecto formal x aspecto material:
+
+a) Aspecto formal (processual): devem ser asseguradas às partes garantias jurídico-processuais
+mínimas para fazer valer seus interesses e defender seus direitos.
+
+b) Aspecto material (substantivo): as decisões proferidas no âmbito do processo devem ser
+efetivamente justas, razoáveis, proporcionais, desprovidas de arbitrariedade.
+
+- Princípio da proporcionalidade e devido processo legal:
+
+Decorre do devido processo legal, em sua acepção substantiva, o princípio (não expresso,
+implícito) da proporcionalidade, um importante parâmetro de aferição da constitucionalidade das
+leis, com vistas ao impedimento de imposição de restrições abusivas, desnecessárias, inadequadas
+e desproporcionais, sendo fundamentado em três aspectos:
+
+  a) Adequação: compatibilidade entre a medida empregada e o fim vislumbrado;
+
+  b) Exigibilidade ou necessidade: a medida deve ser necessária e a que cause menos prejuízo
+  aos indivíduos;
+
+  c) Proporcionalidade em sentido estrito: as vantagens a serem alcançadas pela medida devem
+  superar as desvantagens.
+
+Garantias do contraditório e da ampla defesa (inciso LV)
+
+Art. 5º, LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados
+o contraditório e ampla defesa, com os meios e recursos a ela inerentes;
+
+- Contraditório: direito de tomar conhecimento e contradizer, refutar, argumentar em sentido
+contrário tudo o que for apresentado pela outra parte no processo.
+
+- Ampla defesa: direito de fazer uso de todos os meios de prova e recursos jurídicos disponíveis,
+inclusive calar-se e omitir-se (em razão do direito à não-incriminação), para comprovar suas
+alegações e defender seus direitos.
+
+- São corolários do princípio do devido processo legal.
+
+- Aplicam-se a processos judiciais e administrativos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 39
+        www.estrategiaconcursos.com.br                                                                    59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+O vocábulo "litigantes" deve ser interpretado de forma ampla, de modo que as referidas garantias
+não se aplicam apenas a processos de que possam resultar penalidades (a exemplo do processo
+administrativo disciplinar).
+
+Entretanto, o contraditório e a ampla defesa não precisam ser obrigatoriamente garantidos na
+fase do inquérito policial ou civil (que possuem natureza administrativa). Nada obstante, as provas
+colhidas no inquérito não podem ser os únicos elementos utilizados para fundamentar a decisão
+judicial, justamente por tais provas terem sido produzidas sem que tenham sido oportunizadas
+aquelas garantias (entendimento STF).
+
+Inadmissibilidade das provas ilícitas (inciso LVI)
+
+Art. 5º, LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos;
+
+- A inadmissibilidade é aplicável tanto em processos administrativos quanto judiciais.
+
+- Teoria dos frutos da árvore envenenada: assim como uma árvore envenenada produzirá frutos
+contaminados, uma prova obtida por meios ilícitos maculará todas que dela são derivadas, de
+modo que todas deverão ser consideradas inadmissíveis.
+
+- Excepcionalmente, é possível a admissão no processo de provas obtidas por meios ilícitos, em
+situações em que se mostra necessário garantir-se as liberdades públicas, a dignidade da pessoa
+humana e a legitima defesa.
+
+- O processo não necessariamente é invalidado integralmente caso haja prova ilícita nos autos:
+permanecem válidas as provas lícitas (e não contaminadas) nele contidas, devendo ser expurgadas
+(desconsideradas) as ilícitas e, assim, dá-se prosseguimento ao processo.
+
+Princípio da presunção da inocência (inciso LVII)
+
+Art. 5º, LVII - ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;
+
+- Decorrem da presunção da inocência:
+
+   a) o princípio do in dubio pro reo;
+
+   b) que o ônus da prova de um crime seja sempre do acusador.
+
+- O princípio da presunção da inocência não impede a realização de prisões cautelares.
+
+- Sobre a chamada "prisão em segunda instância":
+
+O entendimento atual do STF é no sentido de que não é possível a prisão após condenação em
+segunda instância como medida de execução antecipada de pena.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              40
+        www.estrategiaconcursos.com.br                                                                 59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+Identificação criminal do civilmente identificado (inciso LVIII)
+
+Art. 5º, LVIII - o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses
+previstas em lei;
+
+- Importante notar que, de forma excepcional, a lei pode trazer hipóteses de identificação criminal
+mesmo quando o indivíduo já foi identificado civilmente.
+
+Trata-se de norma de eficácia contida, portanto (preocupe-se com esta informação apenas caso
+em seu edital esteja previsto o conteúdo do assunto "eficácia das normas constitucionais").
+
+Ação penal subsidiária da pública (inciso LIX)
+
+Art. 5º, LIX - será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo
+legal;
+
+- É possível a ação privada caso aquela não seja intentada no prazo legal (ou seja, quando há
+inércia do Ministério Público).
+
+- É competência do Ministério Público promover, privativamente, a ação penal pública, na forma
+da lei (art. 129, I da CF/88).
+
+Obs: preocupe-se com tais informações apenas caso em seu edital esteja previsto o conteúdo
+abordado nos dispositivos mencionados.
+
+Publicidade dos atos processuais (inciso LX)
+
+Art. 5º, LX - a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou
+o interesse social o exigirem;
+
+- A publicidade dos atos processuais é a regra, só podendo ser restringida por lei em razão de
+apenas duas exigências: defesa da intimidade ou interesse social.
+
+Hipóteses constitucionais que possibilitam a prisão (incisos LXI e LXVI)
+
+Art. 5º, LXI - ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de
+autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar,
+definidos em lei; (...)
+LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou
+sem fiança;
+
+- Qualquer pessoa pode realizar prisão em flagrante delito, não sendo exigida ordem judicial.
+
+- Quadros para ajudar na memorização:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                41
+        www.estrategiaconcursos.com.br                                                                   59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+                                                                                               Quando a lei
+                                                                                            admitir a liberdade
+                      Flagrante delito                  Sem flagrante delito
+                                                                                            provisória, com ou
+                                                                                                sem fiança
+
+                                                  Regra geral, só pode ser preso
+                                                        por ordem escrita e
+                                                   fundamentada de autoridade
+ Possibilidade                                        judiciária competente.
+                     Pode ser preso,
+                                                                                              Não pode ser
+  de prisão do      mesmo sem ordem
+                                                 Exceções (pode prender mesmo                    preso.
+   indivíduo            judicial.
+                                                      sem ordem judicial):
+                                                       a) Transgressão militar;
+                                                  b) Crime propriamente militar.
+
+                                           Não se exige ordem judicial                 É necessária ordem
+       Não é possível prender
+                                                  para prender                        judicial para prender
+
+       Quando a lei admitir a                     a) flagrante delito;
+                                                                                      Para todos os demais
+     liberdade provisória, com                 b) transgressão militar;
+                                                                                             casos.
+           ou sem fiança.                 c) crime propriamente militar.
+
+
+- É possível a prisão administrativa, sem necessidade de prévia autorização judicial, durante os
+estados de defesa e de sítio (arts. 136, § 1º e 139 da CF/88).
+
+Obs: preocupe-se com tais informações apenas caso em seu edital esteja previsto o conteúdo
+abordado nos dispositivos mencionados.
+
+- Não é possível a prisão em flagrante do Presidentes da República (art. 86, § 3º da CF/88). Quanto
+aos congressistas e deputados estaduais, só poderão ser presos no caso de flagrante de crime
+inafiançável (arts. 53, § 2º e 27, § 1º da CF/88).
+
+Obs: preocupe-se com tais informações apenas caso em seu edital esteja previsto o conteúdo
+abordado nos dispositivos mencionados.
+
+Demais direitos dos presos (incisos LXII a LXV)
+
+Art. 5º, LXII - a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente
+ao juiz competente e à família do preso ou à pessoa por ele indicada;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                     42
+        www.estrategiaconcursos.com.br                                                                        59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+LXIII - o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe
+assegurada a assistência da família e de advogado;
+LXIV - o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial;
+LXV - a prisão ilegal será imediatamente relaxada pela autoridade judiciária;
+
+- Tais dispositivos possuem o objetivo de evitar arbitrariedades e abusos por parte da autoridade
+policial e de seus agentes.
+
+- O direito à não autoincriminação previsto no inciso LXIII (direito de permanecer em silêncio e de
+não produzir provas contra si mesmo) abrange qualquer pessoa, mesmo não presa, que, na
+condição de indiciada ou de acusado, presta depoimento perante órgãos de quaisquer dos
+Poderes.
+
+Prisão civil por dívida (inciso LXVII)
+
+Art. 5º, LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e
+inescusável de obrigação alimentícia e a do depositário infiel;
+
+- Apesar de a CF/88 autorizar a prisão civil por dívida do depositário infiel, tal espécie de prisão
+não é mais aplicável no ordenamento jurídico brasileiro em razão da ratificação, pelo Brasil, do
+Pacto Internacional dos Direitos Civis e Políticos e da Convenção Americana sobre Direito
+humanos – Pacto de San José da Costa Rica.
+
+É importante observar que não houve revogação da norma constitucional pelo tratado
+internacional, mas sim o impedimento da legislação infraconstitucional ordenar tal modalidade de
+prisão em razão do status de supralegalidade do tratado.
+
+- Portanto, a única hipótese de prisão civil por dívida admitida atualmente é a que ocorre em
+virtude do inadimplemento voluntário e inescusável de obrigação alimentícia.
+
+Veja que o inadimplemento precisa ser voluntário e inescusável.
+
+Assistência jurídica integral e gratuita (inciso LXXIV)
+
+Art. 5º, LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência
+de recursos;
+
+- Tal direito só é conferido aos que comprovarem insuficiência de recursos.
+
+- Cabe à Defensoria Pública a prestação da assistência jurídica integral e gratuita (art. 134).
+
+- A assistência gratuita compreende honorários de advogado, de perito e até o custeio de exame
+de DNA (entendimento do STF).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  43
+        www.estrategiaconcursos.com.br                                                                     59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+Indenização por erro judiciário e por manutenção da prisão por tempo superior ao fixado na
+sentença (inciso LXXV)
+
+Art. 5º, LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do
+tempo fixado na sentença;
+
+- O erro judiciário aludido diz respeito unicamente à esfera penal; já a responsabilidade do Estado
+por manutenção da prisão por tempo superior ao fixado na sentença não decorre de ato
+jurisdicional, mas sim de falha na atuação administrativa.
+
+- Como regra, a responsabilidade civil do Estado ocorre no exercício da Administração Pública (de
+qualquer dos Poderes), ao contrário das atividades legislativa e jurisdicional, em que a regra é a
+inexistência de responsabilidade civil do Estado.
+
+Gratuidade do registro civil de nascimento e da certidão de óbito (inciso LXXVI)
+
+Art. 5º, LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei:
+a) o registro civil de nascimento;
+b) a certidão de óbito;
+
+- A gratuidade só foi constitucionalmente conferida aos hipossuficientes, na forma da lei.
+
+Nada obstante, a lei não está impedida de estender tal direito a outros cidadãos que não sejam
+reconhecidamente pobres.
+
+- Notar que a gratuidade só abrange as certidões de nascimento e de óbito.
+
+Gratuidade do habeas corpus, habeas data e dos atos de exercício da cidadania (inciso LXXVII)
+
+Art. 5º, LXXVII - são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos
+necessários ao exercício da cidadania
+
+- Perceba que os demais remédios constitucionais, com exceção do habeas corpus e do habeas
+data, não estão previstos como gratuitos pela Constituição.
+
+- Os atos necessários ao exercício da cidadania serão previstos em lei (reserva legal).
+
+- Uma "pegadinha" aqui é dizer que o HC (ou HD) é gratuito apenas aos reconhecidamente
+pobres, fazendo uma confusão com o inciso imediatamente anterior (LXXVI) – não caia nessa!
+
+
+       Gratuito aos reconhecidamente pobres                                  Gratuito a todos
+                       (inciso LXXVI)                                         (inciso LXXVII)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             44
+        www.estrategiaconcursos.com.br                                                                59
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+                                                                                   a) HC;
+            a) o registro civil de nascimento;                                     b) HD;
+                  b) a certidão de óbito.                        c) atos necessários ao exercício da
+                                                                     cidadania (na forma da lei).
+
+
+Princípio da celeridade processual (inciso LXXVIII)
+
+Art. 5º, LXXVIII - a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do
+processo e os meios que garantam a celeridade de sua tramitação.
+
+- Tal princípio é aplicável tanto aos processos judiciais, quanto aos administrativos e busca evitar
+dilações indevidas e demoras excessivas na resolução de litígios por parte do Estado.
+
+Direito à proteção dos dados pessoais (inciso LXXIX)
+
+Art. 5º, LXXIX - é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos
+meios digitais.
+
+- A proteção de dados pessoais foi incluída entre os direitos e garantias fundamentais pela EC
+115/2022, que também fixou a competência privativa da União para legislar sobre proteção e
+tratamento de dados pessoais (arts. 21, inciso XXVI e 22, inciso XXX, da CF/88).
+
+Remédios constitucionais (art. 5º, incisos LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII e
+LXXVII)
+
+Habeas corpus (inciso LXVIII)
+
+Art. 5º, LXVIII - conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer
+violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
+
+- Finalidade e bem jurídico tutelado: proteger ofensa direta ou indireta à liberdade de locomoção.
+
+- Legitimação ativa: qualquer pessoa (física ou jurídica, nacional ou estrangeira), Ministério Público
+e Defensoria Pública.
+
+Pessoa jurídica não pode figurar como paciente, mas pode impetrar HC em favor de pessoas
+naturais.
+
+O HC pode ser concedido de ofício pelo juiz.
+
+- Legitimação passiva: a autoridade pública ou o particular que esteja restringindo a locomoção
+do paciente.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              45
+        www.estrategiaconcursos.com.br                                                                 59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- Natureza penal.
+
+- Ação gratuita.
+
+- É possível medida liminar em sede de HC.
+
+- Pode possuir tanto caráter repressivo quanto preventivo.
+
+- Está sujeito a foro especial por prerrogativa de função.
+
+- Não há necessidade de representação por advogado.
+
+- Sujeito a procedimento especial, rito sumário.
+
+- O STF entende que é cabível HC de natureza coletiva, estendendo-se a decisão a todos os
+pacientes que estejam na mesma situação.
+
+- Não está sujeito a prazo prescricional/decadencial19.
+
+- No caso de estado de defesa (art. 136 da CF/88) ou de estado de sítio (art. 139 da CF/88), poderá
+haver limitação (não supressão) do HC.
+
+- Não caberá HC contra punições disciplinares militares (art. 142, § 2º da CF/88).
+
+Mandados de segurança individual e coletivo (incisos LXIX e LXX)
+
+Art. 5º, LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado
+por habeas corpus ou habeas data , quando o responsável pela ilegalidade ou abuso de poder for
+autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;
+LXX - o mandado de segurança coletivo pode ser impetrado por:
+a) partido político com representação no Congresso Nacional;
+b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há
+pelo menos um ano, em defesa dos interesses de seus membros ou associados;
+
+- Finalidade e bem jurídico tutelado: proteger direito líquido e certo, não amparado por HC ou
+HD (caráter residual).
+
+No caso do MS Coletivo, o direito líquido e certo precisa ter caráter coletivo ou individual
+homogêneo (não é cabível se for direito difuso).
+
+19
+     STF – HC 88.672/SP.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       46
+           www.estrategiaconcursos.com.br                                                          59
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+O MS possui caráter residual e é cabível tanto contra atos vinculados (vide o termo “ilegalidade”
+no inciso LXIX), quanto contra atos discricionários (vide o termo “abuso de poder” no inciso LXIX).
+
+- Legitimação ativa do MS individual:
+
+  a) qualquer pessoa (física ou jurídica, nacional ou estrangeira);
+
+  b) universalidades reconhecidas em lei como detentoras de capacidade processual para seus
+  direitos;
+
+  c) certos órgãos públicos de grau superior, na defesa de suas prerrogativas e atribuições;
+
+  d) Ministério Público.
+
+- Legitimação ativa do MS coletivo:
+
+  a) partido político com representação no Congresso Nacional.
+
+  b) em defesa dos interesses de seus membros ou associados:
+
+    b1) organização sindical;
+
+    b2) entidade de classe;
+
+    b3) associação legalmente constituída e em funcionamento há pelo menos um ano.
+
+Cuidado! a exigência de um ano de constituição e funcionamento (alínea “b” do inciso LXX) é
+aplicável apenas às associações.
+
+Os legitimados ativos atuam como substitutos processuais, que não precisam de autorização
+expressa dos titulares do direito para agir.
+
+- Legitimação passiva: autoridade pública ou agente de pessoa jurídica no exercício de atribuições
+do Poder Público responsável pela ilegalidade ou pelo abuso de poder.
+
+- Natureza civil, embora possa ser utilizado em processos penais.
+
+- Não é gratuito.
+
+- É possível medida liminar em sede de MS.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       47
+        www.estrategiaconcursos.com.br                                                          59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+Vale destacar que as exceções previstas em lei20 foram declaradas inconstitucionais pelo STF
+recentemente (ADI 4296).
+
+- Pode possuir tanto caráter repressivo quanto preventivo.
+
+- Está sujeito a foro especial por prerrogativa de função.
+
+- Há necessidade de representação por advogado.
+
+- O direito de requerer MS extingue-se em 120 dias da ciência, do interessado, do ato
+impugnado21 (prazo decadencial).
+
+Inclusive o STF possui entendimento quanto à constitucionalidade da fixação de prazo por lei para
+a impetração de MS:
+
+                                                    JURISPRUDÊNCIA
+ “É constitucional lei que fixa o prazo de decadência para a impetração de mandado de segurança”22.
+
+
+- É o remédio constitucional que protege o direito de certidão.
+
+- Situações em que não é cabível MS:
+
+     a) quando se tratar de ato do qual caiba recurso administrativo com efeito suspensivo,
+     independentemente de caução23;
+
+     Nada obstante, “a existência de recurso administrativo com efeito suspensivo não impede o
+     uso do mandado de segurança contra omissão da autoridade”24.
+
+     b) quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo25;
+
+     c) quando se tratar de decisão judicial transitada em julgado26;
+
+     d) “Não cabe mandado de segurança contra lei em tese”27.
+
+20
+   Lei 12.016/2009, art. 7º, § 2º.
+21
+   Lei 12.016/2009, art. 23.
+22
+   STF – Súmula 632.
+23
+   Lei 12.016/2009, art. 5º, inciso I.
+24
+   STF – Súmula 429.
+25
+   Lei 12.016/2009, art. 5º, inciso II.
+26
+   Lei 12.016/2009, art. 5º, inciso III e STF – Súmula 268.
+27
+   STF – Súmula 266.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          48
+           www.estrategiaconcursos.com.br                                                             59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- Concedido o MS, a sentença está sujeita obrigatoriamente ao duplo grau de jurisdição28.
+
+- Os processos de mandado de segurança e os respectivos recursos terão prioridade sobre todos
+os atos judiciais, salvo habeas corpus29.
+
+- Os direitos protegidos MS coletivo podem ser30:
+
+     a) coletivos, assim entendidos os transindividuais, de natureza indivisível, de que seja titular
+     grupo ou categoria de pessoas ligadas entre si ou com a parte contrária por uma relação jurídica
+     básica;
+
+     b) individuais homogêneos, assim entendidos os decorrentes de origem comum e da atividade
+     ou situação específica da totalidade ou de parte dos associados ou membros do impetrante.
+
+- No mandado de segurança coletivo, a sentença fará coisa julgada limitadamente aos membros
+do grupo ou categoria substituídos pelo impetrante31.
+
+Mandado de injunção (inciso LXXI)
+
+Art. 5º, LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne
+inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade,
+à soberania e à cidadania;
+
+- Finalidade e bem jurídico tutelado: suprir omissão total ou parcial de norma regulamentadora
+que inviabilize o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à
+nacionalidade, à soberania e à cidadania.
+
+A norma constitucional pendente de regulamentação, portanto, deve ser de eficácia limitada
+(preocupe-se com esta informação apenas caso em seu edital esteja previsto o conteúdo do
+assunto "eficácia das normas constitucionais").
+
+O MI coletivo, especificamente, presta-se à proteção dos direitos, das liberdades e das
+prerrogativas pertencentes, indistintamente, a uma coletividade indeterminada de pessoas ou
+determinada por grupo, classe ou categoria32.
+
+- Pressupostos para o cabimento do mandado de injunção:
+
+28
+   Lei 12.016/2009, art. 14, § 1º.
+29
+   Lei 12.016/2009, art. 20, caput.
+30
+   Lei 12.016/2009, art. 21, parágrafo único.
+31
+   Lei 12.016/2009, art. 22, caput.
+32
+   Lei 13.300/2016, art. 12, parágrafo único.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              49
+           www.estrategiaconcursos.com.br                                                                 59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+a) Falta (total ou parcial) de norma que regulamente uma norma constitucional programática
+propriamente dita ou que defina princípios institutivos ou organizativos de natureza impositiva –
+ou seja, é necessária existência de um dever (não uma faculdade) estatal de produzir a norma;
+
+b) Nexo de causalidade entre a omissão do Poder Público e a impossibilidade de exercício, por
+parte do impetrante, de um direito, liberdade ou prerrogativa constitucional (inerentes à
+nacionalidade, à soberania e à cidadania;
+
+c) O decurso de prazo razoável para elaboração da norma regulamentadora, sem que tenha sido
+editada – é necessário que reste caracterizado o retardamento abusivo por parte do Estado.
+
+- Legitimação ativa: qualquer pessoa (física ou jurídica, nacional ou estrangeira).
+
+No caso de mandado de injunção coletivo33:
+
+     a) partido político;
+
+     b) organização sindical, entidade de classe ou associação constituída e em funcionamento há
+     pelo menos um ano;
+
+     c) Ministério Público;
+
+     d) Defensoria Pública.
+
+- Legitimação passiva: Poder, órgão ou autoridade com atribuição para editar a norma
+regulamentadora34.
+
+- Natureza civil.
+
+- Não é gratuito.
+
+- Não é cabível medida liminar em sede de MI35.
+
+- Está sujeito a foro especial por prerrogativa de função.
+
+- Há necessidade de representação por advogado.
+
+- Não está sujeito a prazo prescricional/decadencial.
+
+33
+   Lei 13.300/2016, art. 12, incisos I a IV.
+34
+   Lei 12.300/2016, art. 3º.
+35
+   STF – MI-MC 4.060/DF.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   50
+           www.estrategiaconcursos.com.br                                                      59
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+- Há duas correntes quanto aos efeitos da decisão em sede de MI:
+
+  a) não concretista: cabe ao Judiciário apenas reconhecer a inércia e dar ciência da omissão ao
+  órgão competente para que edite a norma regulamentadora.
+
+  b) concretista: cabe ao Judiciário não apenas reconhecer a inércia, mas também possibilitar a
+  concretização do direito (concretista geral: eficácia erga omnes; concretização individual:
+  eficácia inter partes).
+
+O STF tem adotado a corrente concretista atualmente.
+
+A lei que regula o MI adotou a corrente concretista individual (ou coletiva, no caso do MI coletivo)
+como regra geral, nos seguintes termos:
+
+Lei 13.300/2016, Art. 8º Reconhecido o estado de mora legislativa, será deferida a injunção para:
+I - determinar prazo razoável para que o impetrado promova a edição da norma regulamentadora;
+II - estabelecer as condições em que se dará o exercício dos direitos, das liberdades ou das prerrogativas
+reclamados ou, se for o caso, as condições em que poderá o interessado promover ação própria visando a
+exercê-los, caso não seja suprida a mora legislativa no prazo determinado.
+Parágrafo único. Será dispensada a determinação a que se refere o inciso I do caput quando comprovado
+que o impetrado deixou de atender, em mandado de injunção anterior, ao prazo estabelecido para a edição
+da norma.
+Art. 9º A decisão terá eficácia subjetiva limitada às partes e produzirá efeitos até o advento da norma
+regulamentadora.
+§ 1º Poderá ser conferida eficácia ultra partes ou erga omnes à decisão, quando isso for inerente ou
+indispensável ao exercício do direito, da liberdade ou da prerrogativa objeto da impetração.
+§ 2º Transitada em julgado a decisão, seus efeitos poderão ser estendidos aos casos análogos por decisão
+monocrática do relator.
+§ 3º O indeferimento do pedido por insuficiência de prova não impede a renovação da impetração fundada
+em outros elementos probatórios.
+(...)
+Art. 13. No mandado de injunção coletivo, a sentença fará coisa julgada limitadamente às pessoas
+integrantes da coletividade, do grupo, da classe ou da categoria substituídos pelo impetrante, sem prejuízo
+do disposto nos §§ 1º e 2º do art. 9º.
+
+- Situações em que não é cabível MI:
+
+  a) se já houver norma regulamentadora do direito constitucional, mesmo que esta seja
+  defeituosa;
+
+  b) se faltar norma regulamentadora de direito infraconstitucional;
+
+  c) diante da falta de regulamentação dos efeitos de medida provisória ainda não convertida em
+  lei pelo Congresso Nacional;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               51
+        www.estrategiaconcursos.com.br                                                                  59
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+     d) se não houver obrigatoriedade de regulamentação do direito constitucional, mas mera
+     faculdade do legislador.
+
+Habeas data (inciso LXXII)
+
+Art. 5º, LXXII - conceder-se-á habeas data:
+a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros
+ou bancos de dados de entidades governamentais ou de caráter público;
+b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou
+administrativo;
+
+- Finalidade e bem jurídico tutelado:
+
+     a) assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de
+     registros ou bancos de dados de entidades governamentais ou de caráter público;
+
+     b) retificar dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo.
+
+- Legitimação ativa: qualquer pessoa (física ou jurídica, nacional ou estrangeira).
+
+O HD não pode ser utilizado com a finalidade de acessar informações de terceiros (ação
+personalíssima).
+
+O HD só pode ser impetrado após o indeferimento do pedido de informações de dados pessoais,
+ou da omissão em atendê-lo.
+
+- Legitimação passiva:
+
+     a) pessoa jurídica de direito público.
+
+     b) pessoa jurídica de direito privado detentora de banco de dados de caráter público. Não cabe
+     HD quando a informação a ser acessada consta de bancos de dados de caráter privado.
+
+     Considera-se de caráter público todo registro ou banco de dados contendo informações que
+     sejam ou que possam ser transmitidas a terceiros ou que não sejam de uso privativo do órgão
+     ou entidade produtora ou depositária das informações36.
+
+- Natureza civil.
+
+- Ação gratuita.
+
+36
+     Lei 9.507/97, art. 1º, parágrafo único.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          52
+           www.estrategiaconcursos.com.br                                                             59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- Está sujeito a foro especial por prerrogativa de função.
+
+- Há necessidade de representação por advogado.
+
+- Não está sujeito a prazo prescricional/decadencial.
+
+- Os processos de HD terão prioridade sobre todos os atos judiciais, exceto HC e MS 37 (rito
+sumário).
+
+Ação popular (inciso LXXIII)
+
+Art. 5º, LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao
+patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio
+ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas
+judiciais e do ônus da sucumbência;
+
+- Finalidade e bem jurídico tutelado:
+
+Anular ato lesivo:
+
+     a) ao patrimônio público ou de entidade de que o Estado participe;
+
+     b) à moralidade administrativa;
+
+     c) ao meio ambiente; e
+
+     d) ao patrimônio histórico e cultural.
+
+Ou seja, busca-se proteger não apenas valores econômico-financeiros, mas também não
+econômicos – moralidade, meio ambiente e patrimônio histórico e cultural.
+
+- Legitimação ativa: qualquer cidadão.
+
+Cidadão = pessoa natural em pleno gozo dos direitos civis e políticos – detentor, portanto, de
+capacidade eleitoral ativa –, ou seja, não é qualquer pessoa!
+
+Assim, não podem ajuizar ação popular:
+
+     a) pessoa jurídica;
+
+     b) o Ministério Público;
+
+37
+     Lei 9507/97, art. 19, caput.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             53
+           www.estrategiaconcursos.com.br                                                                59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+     c) os inalistados (os que, mesmo podendo, não se alistaram);
+
+     d) os inalistáveis, a saber:
+
+        d1) os menores de 16 anos;
+
+        d2) os conscritos, durante o período do serviço militar obrigatório;
+
+        d3) os estrangeiros, exceto os portugueses equiparados, conforme previsto no art. 12, § 1º
+        da CF/88.
+
+- Legitimação passiva38:
+
+     a) a entidade pública ou privada lesada;
+
+     b) o agente que praticou o ato (ou firmou o contrato) impugnado, bem como aqueles que o
+     tenham autorizado, aprovado ou ratificado ou, ainda, tenham se omitido e, por isso,
+     possibilitaram a ocorrência da lesão;
+
+     c) beneficiários diretos do ato (ou contrato) impugnado.
+
+- Natureza civil.
+
+- O autor da AP fica isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-
+fé.
+
+- É cabível medida liminar em sede de AP.
+
+- Pode possuir tanto caráter repressivo quanto preventivo.
+
+- Não está sujeito a foro especial por prerrogativa de função.
+
+- Há necessidade de representação por advogado.
+
+- A sentença que julgue improcedente a ação popular está sujeita ao duplo grau de jurisdição
+obrigatório39.
+
+- Ação sujeita a prazo prescricional de 5 anos40.
+
+38
+   Lei 4.717/65, art. 6º, caput.
+39
+   Lei 4.717/65, art. 19, caput.
+40
+   Lei 4.717/65, art. 21.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   54
+           www.estrategiaconcursos.com.br                                                      59
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+- Papel do Ministério Público na AP41:
+
+O MP deve acompanhar o processo para assegurar sua regularidade (papel de "fiscal da lei" ou
+"custos legis"), cabendo-lhe apressar a produção da prova e promover a responsabilidade, civil
+ou criminal, dos que nela incidirem.
+
+Por outro lado, é vedado ao MP assumir a defesa do ato impugnado ou dos seus autores.
+
+Caso autor da AP seja omisso no processo (embora continue como parte), o MP atua em seu lugar,
+como seu substituto.
+
+Por fim, caso o autor desista da ação (deixando de ser parte no processo), o MP pode prosseguir
+como seu sucessor.
+
+- Não é cabível contra atos de conteúdo jurisdicional42, de modo que a AP pode incidir apenas
+sobre a atuação administrativa (atos administrativos, contratos administrativos, fatos
+administrativos etc.) dos Poderes (quaisquer deles), portanto
+
+41
+     Lei 4.717/65, arts. 6º, § 4º, 7º, § 1º, 9º, 16 e 19, § 2º.
+42
+     STF – AO 672-DF.
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   55
+            www.estrategiaconcursos.com.br                                                      59
+
+                                         
+
+
+---
+
+    Tulio Lages
+    Aula 00
+
+          Quadro comparativo sobre os remédios constitucionais
+
+
+                                                  Mandado de                 Mandado de
+                                                   Segurança                  Segurança
+                     Habeas Corpus                 Individual                  Coletivo            Mandado de Injunção                        Habeas Data                       Ação Popular
+
+                            (HC)                                     (MS)                                      (MI)                                 (HD)                               (AP)
+
+                                                                                                                                                                                Anular ato lesivo:
+
+                                                                                                                                                                             a) ao patrimônio público
+                                                                                                                                                                             ou de entidade de que o
+                                                                                                                                                                                 Estado participe;
+                                                                                                                                       a) assegurar o conhecimento de
+                                                                                                                                      informações relativas à pessoa do          b) à moralidade
+                                                                                                   Suprir omissão total ou parcial                                               administrativa;
+                                               Proteger direito líquido e certo, não amparado                                        impetrante, constantes de registros
+                                                                                                    de norma regulamentadora
+                                                                por HC ou HD                                                          ou bancos de dados de entidades         c) ao meio ambiente; e
+                                                                                                   que inviabilize o exercício dos
+Finalidade e bem    Proteger ofensa direta                                                                                              governamentais ou de caráter
+                                                               (caráter residual)                       direitos e liberdades                                                    d) ao patrimônio
+                    ou indireta à liberdade                                                                                                        público;
+jurídico tutelado                                                                                       constitucionais e das                                                   histórico e cultural.
+                        de locomoção.            No caso do MS Coletivo, o direito líquido e
+                                                                                                     prerrogativas inerentes à
+                                                certo precisa ter caráter coletivo ou individual                                                                                  (ou seja, busca-se
+                                                                                                   nacionalidade, à soberania e à
+                                               homogêneo (não é cabível se for direito difuso).                                       b) retificar dados, quando não se         proteger não apenas
+                                                                                                              cidadania.
+                                                                                                                                         prefira fazê-lo por processo            valores econômico-
+                                                                                                                                     sigiloso, judicial ou administrativo.   financeiros, mas também
+                                                                                                                                                                                  não econômicos –
+                                                                                                                                                                                  moralidade, meio
+                                                                                                                                                                               ambiente e patrimônio
+                                                                                                                                                                                 histórico e cultural)
+
+
+                                                                                                    Qualquer pessoa (física ou       Qualquer pessoa (física ou jurídica,
+                    Qualquer pessoa (física                                                                                                                                     Qualquer cidadão.
+Legitimação ativa                                a) qualquer pessoa          a) partido político      jurídica, nacional ou              nacional ou estrangeira).
+                    ou jurídica, nacional ou
+                                                  (física ou jurídica,      com representação             estrangeira).
+                    estrangeira), Ministério
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                                                     56
+            www.estrategiaconcursos.com.br                                                                                                                                                        59
+
+                                                                           
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+                 Público e Defensoria         nacional ou             no Congresso                                         O HD não pode ser utilizado com a        (cidadão = pessoa
+                       Pública.               estrangeira);             Nacional.                                          finalidade de acessar informações      natural em pleno gozo
+                                                                                              No caso de mandado de
+                                                                                                                           de terceiros (ação personalíssima).      dos direitos civis e
+                                           b) universalidades        b) em defesa dos            injunção coletivo:
+                                                                                                                                                                   políticos – detentor,
+                 Pessoa jurídica não      reconhecidas em lei       interesses de seus
+                                                                                                 a) partido político;                                            portanto, de capacidade
+                  pode figurar como       como detentoras de            membros ou
+                                                                                                                            O HD só pode ser impetrado após      eleitoral ativa –, ou seja,
+                 paciente, mas pode      capacidade processual          associados:            b) organização sindical,
+                                                                                                                              o indeferimento do pedido de       não é qualquer pessoa!)
+                impetrar HC em favor       para seus direitos;                                  entidade de classe ou
+                                                                     b1) organização                                       informações de dados pessoais, ou
+                 de pessoas naturais.                                                        associação constituída e em
+                                            c) certos órgãos             sindical;                                               da omissão em atendê-lo.
+                                                                                            funcionamento há pelo menos
+                                            públicos de grau
+                                                                     b2) entidade de                  um ano;
+                                         superior, na defesa de
+                   O HC pode ser                                          classe;
+                                          suas prerrogativas e                                  c) Ministério Público;
+                 concedido de ofício
+                                               atribuições;           b3) associação
+                      pelo juiz.                                                               d) Defensoria Pública.
+                                                                       legalmente
+                                          d) Ministério Público.
+                                                                     constituída e em
+                                                                    funcionamento há
+                                                                   pelo menos um ano.
+
+                                                                                                                                                                 a) a entidade pública ou
+                                                                                                                                                                      privada lesada;
+
+                                                                                                                                                                 b) o agente que praticou
+                                                                                                                                                                     o ato (ou firmou o
+                                                                                                                           Pessoa jurídica de direito público.
+                                                                                                                                                                   contrato) impugnado,
+                 A autoridade pública                                                                                       Pessoa jurídica de direito privado    bem como aqueles que
+Legitimação       ou o particular que       Autoridade pública ou agente de pessoa          Poder, órgão ou autoridade      detentora de banco de dados de         o tenham autorizado,
+                 esteja restringindo a    jurídica no exercício de atribuições do Poder     com atribuição para editar a             caráter público.             aprovado ou ratificado
+  passiva
+                    locomoção do                              Público.                       norma regulamentadora.                                                ou, ainda, tenham se
+                                                                                                                           Não cabe HD quando a informação
+                       paciente.                                                                                                                                    omitido e, por isso,
+                                                                                                                           a ser acessada consta de bancos de
+                                                                                                                                                                      possibilitaram a
+                                                                                                                                dados de caráter privado.
+                                                                                                                                                                    ocorrência da lesão;
+
+                                                                                                                                                                  c) beneficiários diretos
+                                                                                                                                                                   do ato (ou contrato)
+                                                                                                                                                                       impugnado.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                                             57
+        www.estrategiaconcursos.com.br                                                                                                                                                59
+
+                                                                   
+
+
+---
+
+     Tulio Lages
+     Aula 00
+
+                                                                   Civil.
+
+    Natureza                  Penal.                                                                         Civil.              Civil.                  Civil.
+                                                    Nada obstante, pode ser utilizado em
+                                                             processos penais.
+
+                                                                                                                                                 O autor fica isento de
+   Isenção de                                                                                                                                  custas judiciais e do ônus
+                             Gratuito.                             Não.                                      Não.             Gratuito.
+custas/gratuidade                                                                                                                               da sucumbência, salvo
+                                                                                                                                                  comprovada má-fé.
+
+Está sujeito a foro
+   especial por
+                               Sim.                                Sim.                                      Sim.                Sim.                    Não.
+ prerrogativa de
+     função?
+ Necessidade de
+ representação                 Não.                                Sim.                                      Sim.                Sim.                    Sim.
+ por advogado?
+      Prazo                                     O direito de requerer MS extingue-se em 120                                                     A ação está sujeita a
+prescricional/deca       Não está sujeito.         dias da ciência, do interessado, do ato             Não está sujeito.   Não está sujeito.   prazo prescricional de 5
+     dencial                                           impugnado (prazo decadencial).                                                                   anos.
+
+              Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                    58
+              www.estrategiaconcursos.com.br                                                                                                                       59
+
+                                                                            
+
+
+---
+
+---

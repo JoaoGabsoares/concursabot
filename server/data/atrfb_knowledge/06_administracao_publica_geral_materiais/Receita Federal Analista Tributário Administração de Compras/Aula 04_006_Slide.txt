@@ -1,0 +1,215 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+CUSTOS DOS ESTOQUES
+
+
+                                              Prof. Ricardo Campanario
+
+
+
+
+         https://t.me/KakashiAssinaturasBot
+       Custos dos Estoques
+       Há diversos custos que impactam as decisões sobre os estoques
+
+       ❑ Estoques geram uma série de custos. O mais óbvio é o custo de aquisição do próprio
+         material que será estocado porém há uma série de outros custos diretos e indiretos
+         que precisam ser considerados como os custos de armazenamento, de pedidos e,
+         inclusive, os custos da eventual falta de estoques!
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Custos dos Estoques
+       Custos de armazenamento proporcionais ao volume e tempo
+       ❑ Em relação aos custos de armazenamento, eles são proporcionais a quantidade e ao
+         tempo que um material permanece em estoque. Em linhas gerais podem ser
+         agrupados nas seguintes modalidades:
+       ✓ Custos de capital (juros e depreciação)
+       ✓ Custos com pessoal (salários, encargos sociais)
+       ✓ Custos com edificação (aluguéis, impostos, luz, conservação)
+       ✓ Custos de manutenção (deterioração, obsolescência, equipamento)
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Custos de Armazenamento
+       Parcela fixa + variável
+       ❑ Para a guarda apropriada dos estoques é necessária uma estrutura adequada que envolve
+         depósitos ou galpões, móveis, equipamentos, materiais e pessoas. Tudo o que é investido para a
+         manutenção dessa estrutura é considerado custo de estoque e varia muito pouco em função do
+         volume, portanto é considerado custo fixo.
+
+       ❑ Além disso temos custos de eventuais aluguéis de espaços, seguros, juros financeiros,
+         obsolescência do material, depreciação, deterioração, etc. Note que são vários custos embutidos
+         na atividade de armazenagem e gestão dos materiais adquiridos para a formação dos estoques.
+
+       ❑ Podemos concluir portanto que o custo de armazenagem é composto de uma parte fixa
+         (independe do volume) e outra variável (diretamente dependente do volume armazenado) e é a
+         soma de custos de capital, seguros, transportes, obsolescências e despesas diversas.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Custos do Pedido
+       Relacionado à efetivação da compra
+       ❑ O custo do pedido restringe-se basicamente a atividade de compra. Refere-se aos recursos
+         necessários para a efetivação da compra como as pessoas envolvidas, os papéis e materiais, as
+         viagens, os contatos telefônicos e todos os demais custos relacionados à transação de aquisição
+         dos materiais.
+
+       ❑ O total das despesas que compõem o custo total de pedidos é:
+       ✓ Mão de obra: para emissão e processamento
+       ✓ Material: utilizado na confecção do pedido (formulários, envelopes, impressora, etc.)
+       ✓ Custos indiretos: despesas ligadas indiretamente ao pedido (telefone, energia, departamento de
+         compras etc.)
+
+       ❑ Do ponto de vista contábil, quanto maior o pedido, mais o custo total será diluído entre todo o
+         volume adquirido, visto que o custo unitário do pedido não varia muito em função do volume
+         comprado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Custos da Falta de Estoque
+       Considerado um Custo de Oportunidade
+       ❑ Por outro lado temos os custos da falta de estoque. Este é muito mais um custo de oportunidade.
+         São componentes de custo que não podem ser calculados com grande precisão, mas que
+         ocorrem quando um pedido atrasa ou não pode ser entregue pelo fornecedor.
+
+       ❑ Um exemplo podem ser os custos para a organização em não atender uma demanda do mercado
+         por máscaras que evitam o contágio de certas moléstias no momento de uma epidemia.
+
+       ❑ Se a organização não tinha o produto em estoque naquele momento, perdeu a oportunidade. Até
+         que ela realize o pedido, o produto seja fabricado no volume desejado e entregue, os
+         concorrentes já abasteceram os clientes e consumidores e a oportunidade de receita foi perdida.
+
+       ❑ Outro exemplo é a falta de determinado remédio em um hospital. Em função desse problema de
+         planejamento o paciente não pode ser medicado em um quadro emergencial e morreu. Não há
+         nem como calcular esse custo, não é verdade?
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Custos da Falta de Estoque
+       Considerado um Custo de Oportunidade
+       ❑ O custo da falta de estoque está ligado as oportunidades perdidas, sejam elas de
+         geração de receitas ou de atendimento de demandas variadas, pela falta do material
+         necessário no momento em que era demandado.
+       ❑ Os custos de falta de estoques ou de ruptura podem ocorrer nas seguintes ocasiões:
+       ✓ Lucros cessantes: incapacidade de fornecimento e perda de lucros em função do
+         cancelamento de pedidos.
+       ✓ Custeios adicionais: resultado de fornecimentos em substituição com material de
+         terceiros.
+       ✓ Custeios do não cumprimento de prazos: multas, bloqueios de reajustes, etc.
+       ✓ Quebra da imagem: impacto na relação, no posicionamento e na imagem construída
+         pela empresa por sua atuação e performance.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (QUADRIX/CORE-PR/Fiscal Junior/2021) Os custos de pedido são diretamente proporcionais ao nível
+     de estoque médio.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (QUADRIX/CORE-PR/Fiscal Junior/2021) Os custos de pedido são diretamente proporcionais ao nível
+     de estoque médio.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (QUADRIX/CREF20SE/Assistente Administrativo/2019) Os custos de pedido aumentam na mesma
+     proporção do aumento da quantidade média de produtos no estoque.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (QUADRIX/CREF20SE/Assistente Administrativo/2019) Os custos de pedido aumentam na mesma
+     proporção do aumento da quantidade média de produtos no estoque.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (COSEAC UFF/FME Niterói/Administrador/2016) Todos os custos associados à gestão de estoques
+     costumam ocorrer em três áreas principais: manutenção de estoques, pedidos e falta. No entanto, há
+     outro tipo de custo, intangível, relacionado à perda de receitas por ter sido o capital investido em
+     estoque, deixando de ser investido em outra atividade econômica. Este custo é conhecido como:
+     a) oportunidade de ativos.
+     b) depreciação de investimentos.
+     c) imponderabilidade de risco.
+     d) depreciação contingencial.
+     e) oportunidade de capital.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (COSEAC UFF/FME Niterói/Administrador/2016) Todos os custos associados à gestão de estoques
+     costumam ocorrer em três áreas principais: manutenção de estoques, pedidos e falta. No entanto, há
+     outro tipo de custo, intangível, relacionado à perda de receitas por ter sido o capital investido em
+     estoque, deixando de ser investido em outra atividade econômica. Este custo é conhecido como:
+     a) oportunidade de ativos.
+     b) depreciação de investimentos.
+     c) imponderabilidade de risco.
+     d) depreciação contingencial.
+     e) oportunidade de capital.
+     GABARITO - E
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

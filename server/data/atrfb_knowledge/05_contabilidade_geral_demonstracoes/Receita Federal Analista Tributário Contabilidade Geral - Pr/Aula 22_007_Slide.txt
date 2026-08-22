@@ -1,0 +1,1175 @@
+ RETA FINAL TCE-BA
+CONTABILIDADE GERAL E
+     SOCIETÁRIA
+                                          Prof. Gilmar Possati
+
+
+
+     https://t.me/KakashiAssinaturasBot
+          EMENTA
+
+
+                                     Prof. Gilmar Possati
+
+
+
+https://t.me/KakashiAssinaturasBot
+Ementa
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+CPC 01 – REDUÇÃO AO VALOR
+  RECUPERÁVEL DE ATIVOS
+
+
+                                            Prof. Gilmar Possati
+
+
+
+       https://t.me/KakashiAssinaturasBot
+(FGV/ISS-RJ/2023)
+Considerando os princípios e as normas brasileiras de contabilidade emanadas pelo Conselho Federal
+de Contabilidade (CFC), para o teste de recuperabilidade de ativos não financeiros:
+a) a taxa de desconto é dependente da estrutura de capital da entidade e da forma como a entidade
+tenha financiado a aquisição do ativo;
+b) é utilizada a abordagem do fluxo de caixa esperado em que os ajustes para diversos fatores estão
+embutidos na taxa de desconto;
+c) a entidade deve usar substitutos para estimar a taxa de desconto, quando uma taxa específica de
+um ativo não estiver diretamente disponível no mercado;
+d) é utilizada a abordagem tradicional em que os diversos fatores impõem ajustes para se chegar aos
+fluxos de caixa esperados, ajustados pelo risco;
+e) a taxa de desconto deve ser a taxa, depois dos impostos, que reflita as avaliações atuais de
+mercado acerca do valor do dinheiro no tempo e riscos específicos.
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/PGM Niterói/2023)
+A perda por desvalorização (impairment) de um ágio gerado a partir de uma combinação de negócios deve ser
+alocada para reduzir o valor contábil dos ativos. Uma dessas regras diz respeito à perda por impairment e
+estabelece que:
+a) quando o seu valor recuperável excede seu valor contábil, a perda por impairment deve ser alocada ao ativo e
+reconhecida a perda no resultado;
+b) quando calculado o valor em uso para teste de impairment, as projeções de saídas de caixa devem incluir
+itens de melhoria ou aprimoramento do ativo testado;
+c) se não for praticável estimar o valor recuperável para cada ativo individualmente de uma unidade geradora de
+caixa, nenhuma ação é requerida para reconhecer a perda por desvalorização entre os ativos da unidade;
+d) se parte do ágio por expectativa de rentabilidade futura (goodwill) alocado a uma unidade geradora de caixa
+decorre de combinação de negócios ocorrida durante o período anual corrente, essa unidade deve ser testada
+depois do fim do período anual corrente;
+e) se um ativo dentro da unidade geradora de caixa indicar redução ao valor recuperável, a entidade deve testar
+primeiramente o ativo para impairment e reconhecer qualquer desvalorização para aquele ativo, antes de
+realizar o teste na unidade geradora de caixa que contém o ágio.
+
+
+ @profgilmarpossati     @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+(FGV/Receita Federal/2023)
+Em 31/12/X0, uma sociedade empresária adquiriu, à vista, um terreno para ser utilizado em
+seus negócios por R$100.000. A sociedade empresária avalia ao fim de cada período de reporte
+se há alguma indicação de que os seus ativos possam ter sofrido desvalorização. Os valores
+recuperáveis em 31/12/X1, 31/12/X2 e 31/12/X3 foram, respectivamente, de R$90.000,
+R$80.000 e R$120.000.
+Assinale a opção que indica a contabilização relacionada à recuperabilidade do terreno na
+Demonstração do Resultado do Exercício da sociedade empresária em 31/12/X3, de acordo com
+a NBC TG 01 (R4) – Redução ao Valor Recuperável de Ativos:
+a) Receita de R$20.000.
+b) Receita de R$40.000.
+c) Reversão de Despesa de R$20.000.
+d) Reversão de Despesa de R$30.000.
+e) Reversão de Despesa de R$40.000.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/Receita Federal/2023)
+Em 31/12/X0, uma sociedade empresária apresentava o seguinte balanço patrimonial:
+
+
+
+
+As vidas úteis estimadas dos móveis e dos computadores eram, respectivamente, de 10 anos e
+de 5 anos. A sociedade empresária depreciava os seus ativos imobilizados de acordo com o
+método da linha reta e não considerava valor residual.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/Receita Federal/2023)
+Em 31/12/X1, a sociedade empresária realizou um teste de recuperabilidade de seus ativos
+imobilizados. No teste, ela constatou que os móveis apresentavam valor justo de R$85.000, sendo que
+as despesas com a sua remoção eram estimadas em R$12.000, e as despesas associadas à
+reorganização do negócio após à venda eram estimadas em R$4.000. Por sua vez, o valor em uso dos
+móveis era estimado em R$70.000. Por sua vez, os computadores apresentavam valor justo de
+R$32.000, sendo que os gastos diretos incrementais para deixá-los em condição de venda eram de
+R$5.000. O valor em uso dos computadores era estimado em R$28.000.
+Assinale a opção que indica os valores contabilizados como perda por desvalorização dos móveis e dos
+computadores, respectivamente.
+a) zero e zero.
+b) R$9.000 e R$2.000.
+c) R$9.000 e R$3.000.
+d) zero e R$3.000.
+e) R$13.000 e R$2.000.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+28. As despesas com a baixa, exceto as que já foram reconhecidas como
+passivo, devem ser deduzidas ao se mensurar o valor justo líquido de
+despesas de alienação. Exemplos desses tipos de despesas são as despesas
+legais, tributos, despesas com a remoção do ativo e gastos diretos
+incrementais para deixar o ativo em condição de venda. Entretanto, as
+despesas com demissão de empregados e as associadas à redução ou
+reorganização de um negócio em seguida à baixa de um ativo não são
+despesas incrementais para baixa do ativo.
+
+
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/CGE-SC/2023)
+Em 01/01/X1, ao adquirir participação em uma sociedade empresária, uma entidade
+reconheceu ágio, que foi justificado por expectativa de rentabilidade futura (goodwill) de
+R$20.000. A entidade realiza o teste de recuperabilidade de seus ativos anualmente, de acordo
+com o Pronunciamento Técnico CPC 01 (R1) - Redução ao Valor Recuperável de Ativos. A
+entidade verificou que, em 31/12/X1 e em 31/12/X2, o valor recuperável do ágio era,
+respectivamente, de R$18.000 e de R$22.000. Em relação ao reconhecimento contábil do efeito
+do teste de recuperabilidade em 31/12/X2 na Demonstração do Resultado do Exercício da
+entidade, assinale a afirmativa correta.
+a) Receita de R$2.000.
+b) Receita de R$4.000.
+c) Reversão da despesa de R$2.000.
+d) Reversão da despesa de R$4.000.
+e) Não há reconhecimento.
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-AM/2022)
+Uma sociedade empresária tinha um terreno, utilizado em seus negócios, que estava
+contabilizado por R$100.000 em seu balanço patrimonial.
+No final do exercício, a sociedade empresária realizou uma avaliação do teste de
+recuperabilidade em seus ativos imobilizados. Ela constatou que o valor justo líquido de
+despesas diretas de venda do terreno era de R$90.000, enquanto seu valor em uso era de
+R$110.000.
+Assinale a opção que indica o impacto do teste nas contas patrimoniais da sociedade
+empresária.
+a) Aumento no ativo.
+b) Diminuição no ativo.
+c) Aumento no passivo.
+d) Diminuição no passivo.
+e) Não há impacto.
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/MPE-SC/2022)
+Uma entidade deve estabelecer controles adequados para o acompanhamento dos itens reconhecidos em seu
+patrimônio. No caso de um recurso registrado como ativo, este é considerado desvalorizado quando seu valor
+contábil excede seu valor recuperável. Essa constatação é aplicável tanto para ativos tangíveis como intangíveis. Em
+relação ao teste de redução ao valor recuperável para ativos intangíveis, à luz das normas contábeis, os responsáveis
+pela contabilidade em uma entidade devem considerar que:
+a) o teste de redução ao valor recuperável de um ativo intangível com vida útil indefinida deve ser efetuado,
+quando for exigido pela auditoria externa;
+b) em uma combinação de negócios deve-se, anualmente, efetuar o teste de redução ao valor recuperável para o
+ágio pago por expectativa de rentabilidade futura;
+c) um ativo intangível ainda não disponível para uso deve ser testado apenas quando for colocado como disponível
+para uso;
+d) um ativo intangível ainda não disponível para uso deve ser testado, no mínimo, bienalmente, devido aos prazos
+dos projetos serem de dois anos;
+e) não é necessário efetuar o teste de redução ao valor recuperável para ativos intangíveis com vida útil indefinida,
+mas apenas para aqueles com vida útil definida.
+
+
+@profgilmarpossati       @canalcontabilizando
+                                          https://t.me/KakashiAssinaturasBot
+9. A entidade deve avaliar ao fim de cada período de reporte, se há alguma
+indicação de que um ativo possa ter sofrido desvalorização. Se houver alguma
+indicação, a entidade deve estimar o valor recuperável do ativo.
+
+10. Independentemente de existir, ou não, qualquer indicação de redução ao
+valor recuperável, a entidade deve:
+(a) testar, no mínimo anualmente, a redução ao valor recuperável de um ativo
+intangível com vida útil indefinida ou de um ativo intangível ainda não
+disponível para uso, comparando o seu valor contábil com seu valor
+recuperável. [...]
+(b) testar, anualmente, o ágio pago por expectativa de rentabilidade futura
+(goodwill) em combinação de negócios.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/TRT-16/2022)
+Uma empresa operacional possui investimentos em controladas que atuam em diversos
+setores econômicos. Esta investidora está se preparando para realizar o teste da
+recuperabilidade de suas participações societárias. Assinale o investimento que tem maior
+probabilidade de reconhecimento do teste de recuperabilidade.
+a) a Cia Alfa está em fase pré-operacional.
+b) a Cia Beta não distribuiu dividendos obrigatórios nos últimos três anos.
+c) a Cia Gama comprou participação societária na Cia Penta e pagou Goodwill.
+d) a Cia Delta vendeu a participação societária na Cia Zeta.
+e) a Cia Epsilon comprou participação societária na Cia Sigma e não pagou Goodwill.
+
+
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/TRT-16/2022)
+14. Evidência proveniente de relatório interno que indique que um ativo pode ter se
+desvalorizado inclui a existência de: (a) fluxos de caixa para adquirir o ativo ou
+necessidades de caixa subsequentes para operar ou mantê-lo, que sejam
+significativamente mais elevadas do que originalmente orçadas; (b) fluxos de caixa líquidos
+realizados ou lucros ou prejuízos operacionais gerados pelo ativo, que são
+significativamente piores do que aqueles orçados; (c) queda significativa nos fluxos de
+caixa líquidos orçados ou no lucro operacional, ou aumento significativo no prejuízo
+orçado, gerados pelo ativo; ou (d) prejuízos operacionais ou saídas de caixa líquidas
+advindos do ativo, quando os números do período atual são agregados com números
+orçados para o futuro.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/TRT13/2022)
+Uma sociedade empresária tinha uma van que era utilizada para o deslocamento de seus
+funcionários. A van foi comprada em 01/01/X1 por R$200.000 e tinha vida útil avaliada em 10
+anos. A sociedade empresária não estimava valor residual e depreciava os seus ativos
+imobilizados de acordo com o método da linha reta.
+Em 31/12/X4, a sociedade empresária estimou que o valor justo líquido de despesas de venda
+da van era de R$135.000. Já o valor em uso era de R$100.000.
+Assinale a opção que indica se há necessidade de reconhecimento de uma despesa relacionada
+à perda por recuperabilidade da van e, caso, positivo, por qual valor.
+a) Sim. R$10.000.
+b) Sim. R$15.000.
+c) Sim. R$20.000.
+d) Sim. R$35.000.
+e) Não há.
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-ES/2021)
+Em 01/01/X1, a sociedade empresária Y adquiriu uma máquina por R$ 400.000. A vida útil
+estimada da máquina era de 10 anos e a depreciação é realizada pelo método linear, sendo
+considerado valor residual de zero. Os contadores da sociedade empresária Y fazem anualmente
+o teste de recuperabilidade de seus ativos imobilizados, estimando o valor justo líquido de
+despesas de venda e o valor em uso. Em relação à máquina, eles constataram que:
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-ES/2021)
+Assinale a opção que indica a depreciação acumulada da máquina, em 31/12/X5.
+a) $ 150.000
+b) R$ 170.000
+c) R$ 173.333
+d) R$ 180.000
+e) R$ 200.000
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-ES/2021)
+De acordo com o Pronunciamento Técnico CPC 01 (R1) - Redução ao Valor Recuperável de
+Ativos, ao avaliar se há indicação de que um ativo possa ter sofrido desvalorização, uma
+entidade deve considerar algumas indicações.
+Com relação a essas indicações, analise as afirmativas a seguir.
+I. Há indicações de que o valor do ativo diminuiu significativamente durante o período, mais do
+que seria de se esperar como resultado da passagem do tempo ou do uso normal.
+II. Ocorreram, durante o período, mudanças significativas com efeito adverso sobre a entidade
+ou ocorrerão em futuro próximo, no ambiente tecnológico, de mercado, econômico ou legal, no
+qual a entidade opera ou no mercado para o qual o ativo é utilizado.
+III. Há evidências provenientes de relatórios realizados pela área de controladoria, que indicam
+que o desempenho econômico de um ativo é ou será pior que o esperado.
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-ES/2021)
+Assinale a opção que indica apenas as fontes externas de informação.
+a) I, somente.                             Fontes Externas                                Fontes Internas
+                          Há indicações observáveis de que o valor do ativo Evidência disponível de obsolescência ou de
+b) II, somente.           diminuiu significativamente durante o período, dano físico de um ativo.
+c) I e II, somente.       mais do que seria de se esperar como resultado da
+                          passagem do tempo ou do uso normal.
+d) I e III, somente.      Mudanças significativas com efeito adverso sobre a Mudanças significativas, com efeito adverso
+e) II e III, somente.     entidade ocorreram ou ocorrerão, no ambiente sobre a entidade, ocorreram ou ocorrerão,
+                                 tecnológico, de mercado, econômico ou legal.         na extensão pela qual, ou na maneira na
+                                                                                      qual, um ativo é ou será utilizado*.
+                                 As taxas de juros de mercado ou outras taxas         Evidência disponível, proveniente de
+                                 aumentaram durante o período, e esses aumentos       relatório interno, que indique que o
+                                 provavelmente afetarão a taxa de desconto            desempenho econômico de um ativo é ou
+                                 utilizada no cálculo do valor em uso de um ativo e   será pior que o esperado.
+                                 diminuirão materialmente o valor recuperável do
+                                 ativo.
+                                 O valor contábil do patrimônio líquido da entidade
+                                 é maior do que o valor de suas ações no mercado.
+
+
+
+
+@profgilmarpossati       @canalcontabilizando
+                                          https://t.me/KakashiAssinaturasBot
+(FGV/Paulínia/2021)
+Em relação aos fatores que devem ser incluídos nas estimativas de fluxos de caixa futuros,
+analise as afirmativas a seguir.
+I. Projeções de entradas de caixa advindas do uso contínuo do ativo.
+II. Saídas de caixa que se referem a obrigações que já foram reconhecidas contabilmente.
+III. Entradas de caixa advindas de ativos que geram outras entradas de caixa que são, em grande
+parte, independentes das entradas de caixa do ativo sob revisão.
+IV. Projeções de saídas de caixa que são necessariamente incorridas para gerar as entradas de
+caixa advindas do uso contínuo do ativo e que podem ser diretamente atribuídas ou alocadas,
+em base consistente e razoável, ao ativo.
+As estimativas de fluxos de caixa futuros devem incluir o que se afirma em
+a) I e II, apenas.b) I e III, apenas. c) I e IV, apenas.   d) II e III, apenas.
+e) III e IV, apenas.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+39. As estimativas de fluxos de caixa futuros devem incluir:
+(a) projeções de entradas de caixa advindas do uso contínuo do ativo; (item I)
+(b) projeções de saídas de caixa que são necessariamente incorridas para gerar as entradas de
+caixa advindas do uso contínuo do ativo (incluindo as saídas de caixa para preparar o ativo para
+uso) e que podem ser diretamente atribuídas ou alocadas, em base consistente e razoável, ao
+ativo; e (item IV)
+(c) se houver, fluxos de caixa líquidos a serem recebidos (ou pagos) quando da baixa do ativo ao
+término de sua vida útil.
+
+
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+43. Para evitar dupla contagem, as estimativas de fluxos de caixa futuros não devem incluir:
+(a) entradas de caixa advindas de ativos que geram outras entradas de caixa que são, em
+grande parte, independentes das entradas de caixa do ativo sob revisão (por exemplo, ativos
+financeiros como contas a receber); e (item III)
+(b) saídas de caixa que se referem a obrigações que já foram reconhecidas como passivos (por
+exemplo, contas a pagar, passivos de planos de pensão e provisões). (item II)
+
+
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/Imbel/2021)
+A respeito da realização do teste do valor recuperável, assinale a opção que indica a situação
+em que não é necessário avaliar o valor justo líquido de despesas de venda de um ativo
+imobilizado.
+a) O valor em uso do ativo é maior do que o valor contábil.
+b) Não há preço cotado em mercado ativo para ativo idêntico.
+c) A entidade não tem a intenção de vender o ativo.
+d) A entidade estimou nova vida útil para o ativo.
+e) O ativo não é depreciado.
+
+19. Nem sempre é necessário determinar o valor justo líquido de despesas de venda de
+um ativo e seu valor em uso. Se qualquer um desses montantes exceder o valor contábil
+do ativo, este não tem desvalorização e, portanto, não é necessário estimar o outro
+valor.
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+CPC 25 – PROVISÕES, PASSIVOS
+  CONTINGENTES E ATIVOS
+       CONTINGENTES
+
+                                            Prof. Gilmar Possati
+
+
+
+       https://t.me/KakashiAssinaturasBot
+(FGV/BANESTES/2023)
+No balanço patrimonial de uma entidade, um ativo contingente
+
+a) é reconhecido no ativo circulante, uma vez que tem expectativa de realização no
+curto prazo.
+b) é reconhecido no ativo realizável a longo prazo, uma vez que tem prazo de
+realização incerto.
+c) pode ser reconhecido no ativo circulante ou no ativo realizável a longo prazo, de
+acordo com o prazo esperado de realização.
+d) não é reconhecido, uma vez que o seu valor não pode ser estimado com
+segurança.
+e) não é reconhecido, uma vez que pode tratar-se de resultado que nunca venha a
+ser realizado.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+31. A entidade não deve reconhecer um ativo contingente.
+
+32. Os ativos contingentes surgem normalmente de evento não planejado ou de outros não
+esperados que dão origem à possibilidade de entrada de benefícios econômicos para a
+entidade. Um exemplo é uma reivindicação que a entidade esteja reclamando por meio de
+processos legais, em que o desfecho seja incerto.
+
+33. Os ativos contingentes não são reconhecidos nas demonstrações contábeis, uma vez que
+pode tratar-se de resultado que nunca venha a ser realizado. Porém, quando a realização do
+ganho é praticamente certa, então o ativo relacionado não é um ativo contingente e o seu
+reconhecimento é adequado.
+
+34. O ativo contingente é divulgado, como exigido pelo item 89, quando for provável a
+entrada de benefícios econômicos.
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/BANESTES/2023)
+Uma loja vende bicicletas elétricas com garantia de dois anos. A entidade estima que se
+forem detectados defeitos maiores em todas as bicicletas, ela irá incorrer em custos de
+reparação de R$180.000. Se forem detectados defeitos menores em todas as bicicletas,
+a entidade deverá incorrer em custos de reparação de R$100.000. Em janeiro de X0, a
+loja vendeu 50 bicicletas por R$6.000 cada. No mês, foi estimado que, dessas 50, 10
+apresentariam defeitos maiores e 25, defeitos menores.
+Assinale a opção que indica a provisão para garantia contabilizada pela loja em janeiro
+de X0, relacionada à venda das 50 bicicletas.
+a) R$70.000.
+b) R$86.000.
+c) R$126.000.
+d) R$210.000.
+e) R$280.000.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/CGM-RJ/2023)
+Uma empresa foi processada por três supostas violações:
+(a) uso não autorizado de uma marca registrada e a reivindicação é de R$ 100 milhões;
+(b) não pagamento de uma gratificação a 2.000 empregados que foram demitidos, no
+montante de R$ 50 milhões; e
+(c) prejuízos ambientais causados pela deposição de resíduos no rio próximo à fábrica
+em que ambientalistas estão reivindicando danos e custos de despoluição do rio.
+
+Os advogados da empresa acreditam que nem todos os casos têm a mesma chance de
+ocorrerem e comunicou à empresa a seguinte avaliação:
+Ação 1: As chances desse processo são remotas.
+Ação 2: É provável que a empresa tenha que pagar os empregados demitidos, mas a
+melhor estimativa do montante seria de R$ 30 milhões.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+Ação 3: Não há nenhuma lei que obrigue uma entidade a pagar por tais danos, somente
+políticas ambientais da empresa e propagandas nas mídias (obrigação não formalizada),
+contudo, o valor dos danos não pode ser estimado com confiabilidade.
+Considerando as informações apresentadas, a empresa deve:
+a) divulgar em notas explicativas todas as ações, sem a necessidade de
+provisionamento de valores;
+b) provisionar a ação 2 no valor de R$ 50 milhões e divulgar em nota explicativa a ação
+3;
+c) provisionar a ação 2 no valor de R$ 50 milhões, sem a necessidade de divulgação em
+notas explicativas das ações 1 e 3;
+d) provisionar a ação 2 no valor de R$ 30 milhões, divulgar em nota explicativa a ação 3
+e para a ação 1 nenhuma divulgação é exigida;
+e) provisionar as ações 1 e 2 no valor de R$ 100 milhões e R$ 50 milhões,
+respectivamente, e para a ação 3 nenhuma divulgação é exigida.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/AGENERSA/2023)
+
+Em relação às provisões, assinale a afirmativa correta.
+
+a) Apresentam valor ou prazo incertos.
+b) Derivam de eventos que irão ocorrer.
+c) Devem ser contabilizadas no passivo circulante.
+d) Devem ser contabilizadas como redutoras do ativo.
+e) Sua existência será confirmada pela ocorrência de eventos futuros, que estão sob o
+controle da entidade.
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/PGM-Niterói/2023)
+Uma empresa apresentou as seguintes informações quanto a diversos processos
+trabalhistas similares, mas com riscos e mensurações distintos.
+
+
+
+
+Considerando-se apenas as informações apresentadas, a empresa é requerida a
+divulgar em notas explicativas uma breve descrição da natureza, as incertezas sobre o
+valor e um montante total de:
+a) R$ 178.000,00; b) R$ 350.000,00; c) R$ 378.000,00;
+d) R$ 628.000,00; e) R$ 650.000,00.
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/DPE-RS/2023)
+Uma empresa que negocia carros também possui uma oficina para manutenção dos carros
+na garantia. Ao preparar suas demonstrações contábeis, a empresa precisa verificar a
+cobertura do custo da reparação de qualquer defeito de fabricação. A experiência passada
+da entidade e as expectativas futuras indicam que, para o próximo ano:
+• 70% dos carros vendidos em um ano não terão defeito;
+• 25% dos carros vendidos em um ano terão defeitos menores;
+• 5% dos carros vendidos em um ano terão defeitos maiores.
+
+Se forem detectados defeitos menores em todos os carros vendidos, o custo será de R$
+100.000, e com defeitos maiores o custo será de R$ 300.000.
+Nesse caso, considerando as informações apresentadas, o valor esperado do custo de todas
+as reparações será de:
+a) R$ 30.000;      b) R$ 40.000; c) R$ 100.000; d) R$ 300.000;e) R$ 400.000.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/Pref. RJ/2023)
+Em 20X3, a administração de uma empresa S/A aprovou o plano de substituição de sua frota
+de caminhões, incluindo o arrendamento de 53 caminhões, seguindo a estratégia de
+acelerar a substituição de toda a frota por caminhões maiores e de próxima geração, com
+menor consumo de combustível devido à nova tecnologia do motor. A frota apresenta valor
+contábil de R$ 220 milhões. Essa alteração no uso pretendido dos ativos desencadeou uma
+revisão de impairment. Como resultado dessa revisão, a empresa identificou um valor justo
+de R$ 200 milhões, um valor em uso de R$ 180 milhões e um contrato oneroso de R$ 20
+milhões.
+A partir das informações apresentadas, a empresa deve:
+a) excluir a possibilidade de perda por impairment;
+b) considerar um ganho no montante de R$ 20 milhões;
+c) reconhecer uma provisão no passivo para o contrato oneroso;
+d) considerar o valor em uso como valor realizável líquido;
+e) reconhecer os gastos de manutenção que serão realizados imediatamente antes da
+devolução do arrendamento como despesas.
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+Contrato oneroso é um contrato em que os custos inevitáveis de satisfazer
+as obrigações do contrato excedem os benefícios econômicos que se
+esperam sejam recebidos ao longo do mesmo contrato.
+
+Se a entidade tiver um contrato oneroso, a obrigação presente de acordo
+com o contrato deve ser reconhecida e mensurada como provisão.
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/Pref. RJ/2023)
+Uma empresa construiu uma usina nuclear que foi concluída no final de 2022 a um custo de R$ 10.000.
+O valor presente estimado dos custos de desmontagem da usina e restauração do local pelos danos
+causados por sua construção ao final de sua vida útil de 25 anos é de R$ 980, que não está incluído no
+custo de construção de R$ 10.000. Além disso, haverá danos contínuos ao meio ambiente pelas
+emissões de vários poluentes ao longo da vida operacional da usina, que deverá exigir remediação nos
+próximos 25 anos, custando aproximadamente R$ 175 para cada ano de operação. A reparação
+decorrente de danos contínuos será realizada ao final da vida útil da usina. Assuma 10% de taxa de
+desconto.
+
+Nesse caso, considerando-se as informações apresentadas, a empresa deve contabilizar:
+a) uma depreciação linear da usina nuclear no valor de R$ 400;
+b) os juros da provisão de desmontagem da usina e restauração do local no valor de R$ 98 anualmente;
+c) uma provisão de desmontagem da usina e restauração do local no valor de R$ 1.155;
+d) uma provisão de desmontagem da usina e restauração do local no valor de R$ 980;
+e) uma provisão de desmontagem da usina e restauração do local no valor de R$ 175.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/PC-AM/2022)
+Uma loja foi acionada na justiça por um cliente que diz ter sido constrangido por seus
+funcionários. O cliente apresenta provas, de modo que os advogados da loja julgam que é
+provável a saída de recursos como indenização ao cliente. No entanto, apesar do esforço,
+não foi possível estimar de modo confiável o valor da obrigação.
+
+Assinale a opção correta em relação ao tratamento da causa pela loja, de acordo com o
+Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes.
+a) Divulgação como passivo contingente.
+b) Reconhecimento como contas a pagar.
+c) Reconhecimento como provisão para contingências.
+d) Reconhecimento como ajuste do patrimônio líquido.
+e) Não é requerido reconhecimento e nem divulgação.
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / SEFAZ-AM / 2022)
+
+Em relação às provisões, de acordo com o Pronunciamento Técnico CPC 25 –
+Provisões, Passivos Contingentes e Ativos Contingentes, assinale a afirmativa
+correta.
+
+a) Têm prazo ou valor incertos.
+b) Derivam de eventos que ainda irão ocorrer.
+c) Representam contas redutoras do ativo.
+d) Representam obrigações possíveis cuja existência será confirmada.
+e) Não são contabilizadas nas demonstrações contábeis, mas evidenciadas em
+notas explicativas.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / MPE-GO / 2022)
+Em 02/01/X0, uma loja foi acionada na justiça por um funcionário que reclamava R$15.000 por danos morais. A
+administração da loja julgava que a perda da causa era provável e estimava que o valor a ser pago seria de
+R$10.000. Assinale a opção que indica o lançamento contábil em 02/01/X0.
+a)
+D- Despesa operacional R$10.000
+C- Passivo contingente R$10.000
+b)
+D- Despesa operacional R$10.000
+C- Provisão para contingências R$10.000
+c)
+D- Despesa operacional R$15.000
+C- Provisão para contingências R$15.000
+d)
+D- Despesa operacional R$15.000
+C- Causa a pagar R$10.000
+C - Provisão para perdas R$5.000
+e) Não deve haver contabilização
+ @profgilmarpossati    @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FGV / SEFAZ-BA / 2022)
+A companhia aérea X faz viagens em parceria com a companhia aérea Y. Em janeiro de X0, alguns
+passageiros entraram na justiça contra elas. Os advogados das companhias julgaram que a perda
+era provável, estimando o montante de R$40.000.
+
+A Cia. X e a Cia. Y combinaram que seriam responsáveis pela obrigação de modo conjunto e
+solidário, de modo que cada uma arcaria com metade do valor.
+
+Assinale a opção que indica a contabilização do fato nas demonstrações contábeis da Cia. X.
+
+a) Passivo contingente: R$40.000
+b) Provisão para contingências: R$40.000
+c) Provisão para contingências: R$20.000 e passivo contingente: R$20.000
+d) Passivo contingente: R$20.000, apenas.
+e) Provisão para contingências: R$20.000, apenas.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+29. Quando a entidade for conjunta e solidariamente responsável por obrigação, a
+parte da obrigação que se espera que as outras partes liquidem é tratada como
+passivo contingente. A entidade reconhece a provisão para a parte da obrigação
+para a qual é provável uma saída de recursos que incorporam benefícios
+econômicos, exceto em circunstâncias extremamente raras em que nenhuma
+estimativa suficientemente confiável possa ser feita.
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / TJDFT / 2022)
+Caso I:
+No primeiro trimestre de um exercício financeiro, um ente público recebeu uma notificação de abertura
+de processo judicial, no qual foi requerida uma indenização por danos causados a um grupo empresarial
+em decorrência de erros no processamento de informações tributárias em exercícios anteriores. A
+indenização requerida foi de R$ 100.000,00. Após análise dos documentos processuais, a assessoria
+jurídica avaliou que é provável que o ente tenha que pagar a indenização, mas ainda não dispunha de
+elementos suficientes para uma mensuração confiável.
+
+Considerando os elementos apresentados no Caso I e as disposições do Pronunciamento CPC 25, em
+suas demonstrações contábeis do período em referência, o ente público deve:
+
+a) aguardar o julgamento final da ação;
+b) registrar uma reserva de contingência de R$ 100.000,00;
+c) se eximir de divulgar o caso, por falta de materialidade;
+d) tratar o caso como passivo contingente;
+e) tratar o caso como uma provisão.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / MPE-SC / 2022)
+No processo de gestão dos negócios, há cenários em que as entidades optam por fazer
+reestruturações. Tais processos incorrem em custos que têm regras específicas para
+reconhecimento da provisão associada. O Pronunciamento CPC 25 traz exemplos de eventos que
+se enquadram no conceito de reestruturação.
+
+Dentre os eventos a seguir, o que não está sujeito a essas regras, por NÃO ser um exemplo de
+reestruturação, é:
+
+a) extinção de linha de negócios;
+b) fechamento de locais de negócios de um país;
+c) intenção de venda de unidade operacional;
+d) mudanças na estrutura da administração, como a eliminação de um nível de gerência;
+e) realocação das atividades de negócios de um país ou região para outro.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+70. Exemplos de eventos que podem se enquadrar na definição de reestruturação são:
+
+(a) venda ou extinção de linha de negócios; (opção A)
+
+(b) fechamento de locais de negócios de um país ou região ou a realocação das atividades de
+negócios de um país ou região para outro; (opções B e E)
+
+(c) mudanças na estrutura da administração, por exemplo, eliminação de um nível de gerência; e
+(opção D)
+
+(d) reorganizações fundamentais que tenham efeito material na natureza e no foco das operações
+da entidade.
+
+78. Nenhuma obrigação surge pela venda de unidade operacional até que a entidade esteja
+comprometida com essa operação, ou seja, quando há um contrato firme de venda.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / SEMSA-AM / 2022)
+Uma sociedade empresária vende eletrodomésticos com uma garantia prevista na legislação,
+segundo a qual os clientes estão cobertos pelo custo da reparação de qualquer defeito de
+fabricação que se tornar evidente dentro dos dois primeiros anos após a compra. A estimativa é
+que a cada R$100.000 em vendas, 2% dos eletrodomésticos poderão apresentar defeito.
+
+Em dezembro de 2020, foram vendidos R$300.000 em eletrodomésticos, com recebimento do
+valor previsto para janeiro de 2021. Além disso, a garantia tem vigência até dezembro de 2022.
+
+A despesa com provisão para garantia deve ser reconhecida no(s) ano(s) de
+a) 2020.
+b) 2021.
+c) 2022.
+d) 2021 e 2022.
+e) 2020, 2021 e 2022.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV / SEMSA-AM / 2022)
+As contas a seguir representam estimativas e são contabilizadas no passivo de uma
+entidade, com exceção de uma. Assinale-a.
+a) Provisão para contingência.
+b) Provisão para custos de desmontagem.
+c) Provisão para créditos de liquidação duvidosa.
+d) Provisão para custos de reestruturação.
+e) Provisão para os custos de descontinuidade.
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / TJ-TO / 2022)
+O governo de uma determinada jurisdição realizou mudanças na legislação relativas à tributação do
+ICMS. Como resultado dessas mudanças, uma entidade do setor comercial precisará oferecer
+treinamento para atualização de grande número de seus empregados da área administrativa e de
+vendas para garantir a conformidade contínua com a legislação tributária. Até a data de encerramento
+do exercício, nenhum treinamento havia sido realizado.
+
+Nesse caso, de acordo com o Pronunciamento CPC 25 - Provisões, Passivos Contingentes e Ativos
+Contingentes, a entidade:
+
+a) deverá divulgar o fato em notas explicativas e registrar uma contingência;
+b) deverá reconhecer uma provisão pela melhor estimativa dos custos do treinamento;
+c) deverá reconhecer uma provisão pelo custo de cumprimento de contrato de treinamento;
+d) deverá registrar uma reserva pelo valor justo do treinamento;
+e) não deverá reconhecer nenhuma provisão.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV / TCE-TO / 2022)
+Uma empresa foi processada segundo o auto de infração exigindo ICMS em razão de suposta
+irregularidade na tomada de créditos presumidos (fato 1). A situação está aguardando prosseguimento
+do feito em segunda instância judicial. A estimativa confiável é de uma provável saída de recursos no
+valor de 2 milhões de reais. Adicionalmente, a empresa figura como parte do auto de infração lavrado
+pela Receita Federal para verificação do cumprimento de obrigações tributárias relativamente ao
+Imposto sobre Produtos Industrializados (fato 2), cuja expectativa da Administração é de perda possível
+no valor de 3 milhões de reais. Para ambos os casos, espera-se que a saída de caixa seja em 4 anos; a
+taxa de desconto é de 6%. Nesse caso, a empresa deve:
+a) contabilizar o fato 1 como provisão no passivo não circulante e divulgar o fato 2 em nota explicativa;
+b) contabilizar ambos os fatos como provisões no passivo não circulante;
+c) contabilizar ambos os fatos como provisões no passivo circulante;
+d) contabilizar o fato 1 como provisão no passivo circulante e o fato 2 como provisão no passivo não
+circulante;
+e) divulgar o fato 1 em nota explicativa e contabilizar o fato 2 como provisão no passivo não circulante.
+
+
+
+ @profgilmarpossati    @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FGV / TCE-TO / 2022)
+Durante o ano de 2022, uma empresa se envolveu em uma disputa tributária com o
+governo. Os advogados da empresa indicaram que era provável uma perda nessa disputa e
+que a empresa teria que pagar um valor entre R$ 800.000 e R$ 1.400.000 (nesse intervalo,
+nenhum valor é uma estimativa melhor que a outra). Após a emissão das demonstrações
+financeiras de 2022, o caso foi resolvido com o governo por R$ 1.200.000. Nesse caso, em
+31 de dezembro de 2022, o contador da empresa deveria ter:
+
+a) reconhecido uma provisão de R$ 800.000;
+b) reconhecido uma provisão de R$ 1.100.000;
+c) reconhecido uma provisão de R$ 1.200.000;
+d) reconhecido uma provisão de R$ 1.400.000;
+e) divulgado em nota explicativa um valor de R$ 1.200.000 devido à baixa probabilidade.
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+39. As incertezas que rodeiam o valor a ser reconhecido como provisão são tratadas por
+vários meios de acordo com as circunstâncias. Quando a provisão a ser mensurada envolve
+uma grande população de itens, a obrigação deve ser estimada ponderando-se todos os
+possíveis desfechos pelas suas probabilidades associadas. O nome para esse método
+estatístico de estimativa é “valor esperado”. Portanto, a provisão será diferente dependendo
+de a probabilidade da perda de um dado valor ser, por exemplo, de 60 por cento ou de 90
+por cento. Quando houver uma escala contínua de desfechos possíveis, e cada ponto nessa
+escala é tão provável como qualquer outro, é usado o ponto médio da escala.
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / TCE-TO / 2022)
+
+A Cia X contabilizou provisão para contingências no valor de R$200.000 em 02/01/X0. Esta
+tem relação com uma causa na justiça que tem expectativa de desfecho no longo prazo.
+O valor contábil da provisão é aumentado a cada período, decorrente do reconhecimento
+do desconto a valor presente. A contrapartida do aumento da provisão é contabilizada pela
+entidade como
+
+a) despesa operacional, na Demonstração do Resultado do Exercício.
+b) despesa financeira, na Demonstração do Resultado do Exercício.
+c) variação monetária ativa, na Demonstração do Resultado do Exercício.
+d) outras despesas operacionais, na Demonstração do Resultado do Exercício.
+e) outros resultados abrangentes, no patrimônio líquido.
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+59. As provisões devem ser reavaliadas em cada data de balanço e ajustadas para
+refletir a melhor estimativa corrente. Se já não for mais provável que será
+necessária uma saída de recursos que incorporam benefícios econômicos futuros
+para liquidar a obrigação, a provisão deve ser revertida.
+
+60. Quando for utilizado o desconto a valor presente, o valor contábil de uma
+provisão aumenta a cada período para refletir a passagem do tempo. Esse aumento
+deve ser reconhecido como uma despesa financeira.
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV / PC-AP / 2022)
+Uma loja de celulares oferece garantia a seus clientes pelo custo da reparação de defeitos de
+fabricação que se tornarem evidentes dentro de um ano a partir da compra. A loja não cobra o
+serviço de seus clientes. Em janeiro de X0, a loja vendeu 40 celulares por R$4.000 cada. A loja
+estimou que, se forem detectados defeitos maiores em todos os celulares vendidos, os custos de
+reparação são de R$120.000. Se forem detectados defeitos menores em todos os produtos
+vendidos, a entidade irá incorrer em custos de reparação de R$40.000. A loja estima que 10% dos
+celulares irão apresentar defeitos maiores e 40% irão apresentar defeitos menores, enquanto o
+restante não irá apresentar defeitos. Assinale a opção que indica a contabilização da garantia na
+Demonstração do Resultado do Exercício da loja, em 31/01/X0.
+a) Não há contabilização.
+b) R$16.000 em redução da receita.
+c) R$28.000 em redução da receita.
+d) R$16.000 em despesa operacional.
+e) R$28.000 em despesa operacional.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+ CPC 31 – ATIVO NÃO
+CIRCULANTE MANTIDO
+    PARA VENDA
+
+                                         Prof. Gilmar Possati
+
+
+
+    https://t.me/KakashiAssinaturasBot
+(FGV/PG|M Niterói/2023)
+Um segmento operacional (negócio) de uma empresa foi colocado à venda. O processo começou há um
+ano e meio, quando os ativos foram classificados como ativo não circulante mantido para venda,
+contudo, o processo ainda não acabou, pois a causa principal envolveu um fato fora do controle da
+entidade. Porém, a empresa continua comprometida com o seu plano de venda do negócio. Nesse caso,
+o CPC 31 estabelece que:
+
+a) devem-se remover os ativos da classificação de não circulante mantido para venda, pois o processo
+ultrapassou um ano a partir da data da classificação;
+b) devem-se mensurar as despesas de venda pelo valor presente, e qualquer aumento no valor
+presente das despesas de venda que resulte da passagem do tempo deve ser apresentado nos
+resultados como despesa operacional;
+c) deve-se mensurar o ativo não circulante mantido para distribuição aos sócios pelo maior valor entre
+seu valor contábil e seu valor justo diminuído das despesas de distribuição;
+d) pode-se estender o período de conclusão da venda para além de um ano e manter a classificação
+como ativo não circulante mantido para venda;
+e) deve-se depreciar o ativo não circulante classificado como mantido para venda.
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+6. A entidade deve classificar um ativo não circulante como mantido para venda se o seu
+valor
+contábil vai ser recuperado, principalmente, por meio de transação de venda em vez do uso
+contínuo.
+
+7. Para que esse seja o caso, o ativo ou o grupo de ativos mantido para venda deve estar
+disponível para venda imediata em suas condições atuais, sujeito apenas aos termos que
+sejam habituais e costumeiros para venda de tais ativos mantidos para venda. Com isso, a
+sua venda deve ser altamente provável.
+
+
+
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+8. Para que a venda seja altamente provável, o nível hierárquico de gestão apropriado deve
+estar comprometido com o plano de venda do ativo, e deve ter sido iniciado um programa
+firme para localizar um comprador e concluir o plano. Além disso, o ativo mantido para
+venda deve ser efetivamente colocado à venda por preço que seja razoável em relação ao
+seu valor justo corrente. Ainda, deve-se esperar que a venda se qualifique como concluída
+em até um ano a partir da data da classificação, com exceção do que é permitido pelo item
+9, e as ações necessárias para concluir o plano devem indicar que é improvável que possa
+haver alterações significativas no plano ou que o plano possa ser abandonado.
+
+9. Acontecimentos ou circunstâncias podem estender o período de conclusão da venda para
+além de um ano. A extensão do período durante o qual se exige que a venda seja concluída
+não impede que o ativo seja classificado como mantido para venda se o atraso for
+causado por acontecimentos ou circunstâncias fora do controle da entidade e se houver
+evidência suficiente de que a entidade continua comprometida com o seu plano de venda do
+ativo. [...]
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/TJ-RN/2023)
+Uma entidade está planejando alienar um grupo de ativos. A entidade designa esses ativos
+como um grupo para alienação. O valor contábil desses ativos imediatamente antes da
+classificação como mantidos para venda era de R$ 30 milhões. Ao serem classificados como
+mantidos para venda, os ativos foram reavaliados para R$ 22 milhões. A entidade acredita
+que custaria R$ 2 milhões para vender o grupo de ativos.
+
+Nesse caso, o valor contábil do grupo para alienação nas contas da entidade após sua
+classificação como mantida para venda é de:
+a) R$ 52 milhões;
+b) R$ 32 milhões;
+c) R$ 30 milhões;
+d) R$ 24 milhões;
+e) R$ 20 milhões.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/Receita Federal/2023)
+Uma entidade que trabalha com auditoria contábil adquiriu, em 01/01/X1, por R$700.000 à vista, um
+imóvel para ser utilizado como sede. A vida útil do imóvel era estimada em 25 anos e não era
+considerado valor residual. Além disso, a entidade depreciava os seus ativos imobilizados de acordo
+com o método da linha reta.
+Em 31/12/X3, o imóvel foi colocado para à venda. Na data, o ativo estava disponível para venda
+imediata e o nível hierárquico de gestão estava comprometido com o plano de venda do ativo, tendo
+iniciado um programa para localizar um comprador. Além disso, o valor justo do imóvel, líquido das
+despesas de venda, foi avaliado em R$720.000.
+Em 31/12/X4, o imóvel foi vendido por R$750.000 à vista.
+Assinale a opção que indica o resultado obtido com venda do imóvel, contabilizado na Demonstração do
+Resultado do Exercício da entidade em 31/12/X4.
+a) R$30.000.
+b) R$50.000.
+c) R$62.727.
+d) R$134.000.
+e) R$162.000.
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-ES/2022)
+Em 31/12/X0, uma sociedade empresária que presta serviços a terceiros, colocou à venda
+um de seus prédios por um preço considerado razoável pelo mercado. A sociedade
+empresária estava comprometida em vender o prédio e considerava provável a realização
+da venda. Ainda, ela continuava utilizando o prédio em suas atividades até encontrar um
+comprador, quando será feita a transferência para a nova localização.
+Assinale a opção que indica a classificação do prédio no balanço patrimonial da sociedade
+empresária, em 31/12/X0.
+a) Ativo não circulante mantido para venda.
+b) Ativo imobilizado.
+c) Propriedade para Investimento.
+d) Ativo realizável a longo prazo.
+e) Não deve haver reconhecimento.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-ES/2022)
+Uma entidade decide colocar à venda um terreno que antes era mantido para valorização. O
+terreno passa a ser contabilizado como ativo não circulante mantido para venda. A entidade
+obtém um compromisso firme de compra e, como resultado, o comprador impõe
+inesperadamente condições à transferência do terreno que irão estender o período exigido
+para que a venda seja concluída por mais doze meses. As ações necessárias para responder
+às condições foram tomadas e a administração espera uma solução favorável dos fatores
+que causaram o atraso.
+No balanço patrimonial, o terreno deve ser contabilizado como
+a) Ativo Imobilizado.
+b) Patrimônio Líquido.
+c) Ativo Realizável a Longo Prazo.
+d) Propriedade para Investimento.
+e) Ativo não Circulante mantido para venda.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+9. Acontecimentos ou circunstâncias podem estender o período de conclusão da venda para
+além de um ano. A extensão do período durante o qual se exige que a venda seja concluída
+não impede que o ativo seja classificado como mantido para venda se o atraso for
+causado por acontecimentos ou circunstâncias fora do controle da entidade e se houver
+evidência suficiente de que a entidade continua comprometida com o seu plano de venda
+do ativo. Esse é o caso quando os critérios do Apêndice B forem satisfeitos
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+B1. Tal como indicado no item 9, a extensão do período durante o qual se exige que a venda seja
+concluída não impossibilita que o ativo ou o grupo de ativos seja classificado como mantido para venda
+se o atraso for causado por acontecimentos ou circunstâncias fora do controle da entidade e se houver
+evidência suficiente de que a entidade continua comprometida com o seu plano de venda do ativo ou do
+grupo de ativos. Uma exceção ao requisito de um ano exposto no item 8 deve, portanto, aplicar-se a
+situações em que esses acontecimentos ou essas circunstâncias ocorram. São elas:
+[...]
+(b) a entidade obtém um compromisso firme de compra e, como resultado, o comprador ou outros
+compradores impõem inesperadamente condições à transferência do ativo não circulante
+anteriormente classificado como mantido para venda que irão estender o período exigido para que a
+venda seja concluída, e:
+
+(i) foram oportunamente tomadas as ações necessárias para responder às condições; e
+(ii) espera-se uma solução favorável dos fatores que causaram o atraso. [...]
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SENADO/2022)
+A Companhia A tem participação de 12% na Companhia B, com influência significativa. A
+participação societária está contabilizada no Balanço Patrimonial por R$30.000. Em
+01/12/X0, a administração da Cia. A decidiu vender a participação na Cia. B. O nível
+hierárquico de gestão está comprometido com o plano de venda e com a localização de um
+comprador. Ainda, é esperado que a venda seja concluída em seis meses, pelo valor de
+R$32.000.
+
+Assinale a opção que indica a contabilização da participação na Cia. B no Balanço
+Patrimonial da Cia. A em 31/12/X0 e o montante contabilizado.
+a) Investimentos / R$30.000.
+b) Ativo não Circulante mantido para venda / R$30.000.
+c) Investimentos / R$32.000.
+d) Ativo Realizável a Longo Prazo / R$32.000.
+e) Ativo não Circulante mantido para venda / R$32.000.
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/SEPOG-RO/2017)
+
+Em 31/12/2015, a Cia. Y possuía um prédio onde estava localizada a sua sede. O prédio
+estava avaliado em R$ 500.000.
+Com a mudança de diretoria, a sociedade empresária decidiu construir uma nova sede,
+comprometendo-se com o plano de venda do prédio e iniciando as ações para localizar um
+comprador. O preço pedido pelo prédio foi de R$ 480.000.
+Assinale a opção que indica onde deve ser evidenciado o prédio no balanço patrimonial da
+Cia. Y, em 31/12/2016.
+a) Ativo não Circulante Mantido para Venda.
+b) Ativo Realizável a Longo Prazo.
+c) Propriedade para Investimento.
+d) Ativo Imobilizado.
+e) Ativo Intangível.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/Paulínia/2016)
+Uma empresa possuía em seu balanço patrimonial de 31/12/2014 um terreno contabilizado
+por R$ 400.000 no Ativo Imobilizado.
+A direção da empresa decidiu, em 02/01/2015, colocar o terreno à venda, e passou a
+evidenciá-lo no Ativo não Circulante Mantido para a Venda. Na data, o valor justo do
+terreno era de R$ 350.000.
+De acordo com o Pronunciamento Técnico CPC 31 - Ativo não Circulante Mantido para a
+Venda e Operação Descontinuada, a contrapartida do reconhecimento do valor justo do
+terreno, em 02/01/2015, deve ser reconhecida como
+a) Despesa.
+b) Ajuste a Valor Presente.
+c) Patrimônio Líquido.
+d) Reserva de Capital.
+e) Redutora do Ativo.
+
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/DPE-MT/2015)
+Em 01/01/2010, uma empresa adquiriu um terreno por R$ 100.000,00. Na época, a empresa
+tinha a intenção de utilizar o terreno em suas operações durante vinte anos e vendê-lo por
+R$ 30.000,00.
+Em 31/12/2014, a empresa resolveu vender o terreno. Nesta data, o valor justo do terreno
+era de R$ 150.000,00 e a empresa estimava despesas de vendas de R$ 10.000,00.
+De acordo com o Pronunciamento Técnico CPC 31 - Ativo não Circulante mantido para
+Venda e Operação Descontinuada, em 31/12/2014 o terreno estava mensurado, no grupo
+dos Ativos não Circulantes mantidos para Venda, por
+a) R$ 82.500,00.
+b) R$ 90.000,00.
+c) R$ 100.000,00.
+d) R$ 140.000,00.
+e) R$ 150.000,00.
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/DPE-MT/2015)
+O Frigorífico Eta S.A. atua em três diferentes segmentos, que durante x1 apresentaram os
+seguintes resultados, apurados em 31/12, em milhares de reais:
+
+
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/DPE-MT/2015)
+
+Devido à baixa rentabilidade do segmento de aves, a direção do Frigorífico Eta S.A. deu início, em novembro de
+x1, a um plano para vender esse segmento de negócios, tendo iniciado um programa firme para localizar um
+comprador e concluir o plano. O segmento estava disponível para venda imediata em suas condições atuais, e
+a direção da companhia acreditava ser altamente provável que a venda estivesse concluída até o final do
+primeiro semestre de x2. Durante dezembro de x1 a direção do Frigorífico Eta S.A. passou a discutir a
+possibilidade de concentrar suas atividades apenas no segmento de suínos, devido a sua maior rentabilidade, e
+colocar à venda também o segmento de bovinos. Nas demonstrações contábeis do Frigorífico Eta S.A. relativas
+a x1, o resultado líquido das operações continuadas será apresentado por:
+a) R$ 980.000;
+b) R$ 2.100.000;
+c) R$ 2.240.000;
+d) R$ 2.940.000;
+e) R$ 3.080.000.
+
+
+
+
+ @profgilmarpossati     @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+(FGV / ISS Osasco / 2014)
+
+A empresa Semclientes possui três unidades. A primeira produz pneus, a segunda fabrica tapetes e a terceira
+produz perucas. Verificando que não há sinergia das duas primeiras unidades com a de perucas, a empresa
+colocou essa unidade a venda em X1 e entrou em contato com compradores. A venda só depende de
+advogados redigirem o contrato e deve ser finalizada no início de X2. Ao apurar o resultado do exercício de X1,
+o contador verificou que a unidade de perucas teve um lucro de R$ 125,00.
+A melhor classificação do lucro na demonstração de resultado é:
+a) resultado financeiro;
+b) resultado não operacional;
+c) resultado de operações descontinuadas;
+d) outros resultados operacionais;
+e) outros resultados abrangentes.
+
+
+
+
+ @profgilmarpossati     @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+(FGV/ALBA/2014)
+Um supermercado possui um caminhão, que é usado para entregas. O valor contábil do
+caminhão em 01/12/2012 era de R$ 10.000,00.
+Em 31/12/2012 o supermercado decidiu colocar o caminhão à venda por R$ 15.000,00. No
+ano seguinte, as condições de mercado mudaram com a redução de impostos e os preços
+dos caminhões usados diminuíram consideravelmente. No entanto, a entidade acreditou
+que as condições de mercado poderiam melhorar e não reduziu o valor pedido pelo
+caminhão.
+O caminhão foi classificado no balanço patrimonial do supermercado, em 31/12/2013,
+como:
+a) Ativo Circulante.
+b) Ativo não Circulante Realizável a Longo Prazo.
+c) Investimentos.
+d) Propriedade para Investimentos.
+e) Ativo Imobilizado.
+@profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+Prof. Gilmar Possati
+                        @profgilmarpossati
+
+
+
+                       Contabilizando
+
+
+
+                         @canalcontabilizando
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+

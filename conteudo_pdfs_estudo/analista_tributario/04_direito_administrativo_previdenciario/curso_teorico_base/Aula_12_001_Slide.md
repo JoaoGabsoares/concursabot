@@ -1,0 +1,831 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 12_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: Nova Lei de Licitações
+artigos_citados:
+- Art. 106.
+- Art. 110.
+- Art. 122.
+- Art. 124
+- Art. 138.
+- Art. 156
+- art. 121
+- art. 124
+---
+
+# Nova Lei de Licitações
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+ASPECTOS INICIAIS
+
+   
+
+
+---
+
+                         acordo voluntário de vontades
+
+                           interesses das partes são
+     Contrato                     antagônicos
+                                                                          criando direitos e
+                         produção de efeitos jurídicos                  obrigações recíprocos
+                            para ambas as partes
+                                                                        “faz lei entre as partes”
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                                               Regime predominantemente
+                          Contratos de                             de direito privado
+                         direito privado
+         Contratos da                                               (horizontalidade)
+         Administração                                         Regime predominantemente
+                           Contratos                                de direito público
+                         administrativos
+                                                                     (verticalidade)
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                          
+
+
+---
+
+                                                                  clásulas do próprio contrato
+                         regras primárias
+                                                                  preceitos de direito público
+      contratos
+    administrativos
+                                                                  princípios da teoria geral dos
+                                                                            contratos
+                         supletivamente
+
+                                                                  preceitos de direito privado
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                             
+
+
+---
+
+  CONTRATOS:
+CARACTERÍSTICAS
+
+   
+
+
+---
+
+          Co Consensual
+
+                   F       Formal
+
+                    O       Oneroso
+
+                  Co Comutativo
+
+              I          Intuitu personae
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                            
+
+
+---
+
+                         os contratos administrativos devem ser
+                               formais e escritos (em regra)
+                                                                            dispensa de licitação
+                                                                               por baixo valor
+
+                                                                          independentemente do
+   formalismo dos                                       facultativo
+                                                                          valor, para compra com
+      contratos                                                              entrega imediata e
+   administrativos       Instrumento de                                     integral (sem obrigações
+                             contrato                                              futuras)
+
+
+                                                        obrigatório            demais casos
+
+                                                                       exceção: pequenas compras
+                         contrato verbal, em regra, nulo
+                                                                           e serviços de pronto
+                              e de nenhum efeito
+                                                                         pagamento (até R$ 10 mil)
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                                                                         exceção: seguro p/
+                                                                                                  total ou
+                               parcial (regra)                           obras e serviços de
+                                                                                                  parcial
+                                                                            engenharia
+                                 limites autorizados pela Administração
+
+  subcontratação         comprovação da capacidade técnica do subcontratado
+                                                          empresas ligadas ao dirigente ou aos
+                                                                  agentes que atuaram na
+                              vedada                        licitação/fiscalização do contrato
+                         subcontratação de:
+                                                               serviços técnicos especializados
+                                                                contratados via inexigibilidade
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+CEBRASPE - 2022 - Atividades de Regulação (ANP)
+ Embora os contratos administrativos sejam celebrados intuitu personae, há possibilidade
+ de a execução de seu objeto ser subcontratada parcialmente com terceiros.
+
+   Art. 122. Na execução do contrato e sem prejuízo das responsabilidades contratuais e
+   legais, o contratado poderá subcontratar partes da obra, do serviço ou do fornecimento
+   até o limite autorizado, em cada caso, pela Administração.
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                 
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+CONTRATOS: CLÁUSULAS
+   EXORBITANTES
+
+     
+
+
+---
+
+                                                                     para melhor adequação ao
+                            modificação unilateral
+                                                                   interesse público (respeitados os
+                                do contrato
+                                                                            direitos do contratado)
+                                                                   nos casos especificados na Lei
+                             extinção unilateral
+                                                                           14.133/2021
+                           fiscalizar a execução do
+                                    contrato
+                                                                          pela inexecução total ou
+                               aplicar sanções                                parcial do ajuste
+              cláusulas
+            exorbitantes                                                         motivadas
+                                                                     risco à prestação de serviços
+                           ocupação provisória nas                              essenciais
+                               hipóteses de:                              acautelar apuração
+                                                                        administrativa de faltas
+                           exigência de garantias                              contratuais
+                            pela Administração
+                           restrições à exceção do
+Nova Lei de Licitações     contrato não cumprido
+Prof. Antonio Daud
+                                     
+
+
+---
+
+ALTERAÇÃO UNILATERAL
+    DO CONTRATO
+
+     
+
+
+---
+
+    Admitem alteração unilateral (art. 124, inc. I)           Exigem acordo entre as partes (inciso II)
+                 Qualitativas                                 substituição da garantia de execução
+    (isto é, modificação do projeto ou das especificações,
+      para melhor adequação técnica aos seus objetivos)
+
+
+                      Quantitativas                                       modificação do regime de execução da
+      (isto é, modificação do valor contratual em decorrência obra ou serviço, bem como do modo de
+     de acréscimo ou diminuição quantitativa de seu objeto,                 fornecimento, em face de verificação
+                       nos limites permitidos pela Lei)
+                                                                           técnica da inaplicabilidade dos termos
+                                                                                       contratuais originários
+                                                                           modificação da forma de pagamento,
+                                      -
+                                                                               mantido o valor inicial atualizado
+                                                                            restabelecer o equilíbrio econômico-
+                                                                        financeiro inicial do contrato, em caso de
+                                                                             força maior, caso fortuito ou fato do
+                                                                             príncipe ou em decorrência de fatos
+                                      -
+                                                                                 imprevisíveis ou previsíveis de
+                                                                               consequências incalculáveis, que
+Nova Lei de Licitações
+                                                                          inviabilizem a execução do contrato tal
+Prof. Antonio Daud
+                                                      
+                                                                                         como pactuado.
+
+
+---
+
+                                                     Regra: 25%
+
+                         Acréscimos
+                         unilaterais
+                                                       Reforma:       do valor inicial
+                                                         50%      atualizado do contrato
+
+
+           Limites p/
+           alterações    Supressões
+                                                           -25%
+                         unilaterais
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                             
+
+
+---
+
+     Alterações contratuais: detalhamento
+
+     ❑ supressão de obras, bens ou serviços: se o contratado já houver adquirido
+       os materiais e posto no local dos trabalhos, a Administração deverá pagar
+       os custos de aquisição + indenização por danos sofridos (art. 129).
+
+     ❑ Termo aditivo:
+         - formalizado e divulgado no PNCP (regra)
+         - sua formalização é condição para execução das alterações, salvo
+     necessidade de antecipação de seus efeitos (formalização em 1 mês) – art. 132
+         - dispensado se registros não caracterizarem alteração do contrato
+     (simples apostila) – art. 136
+
+     ❑ Em contratações integradas e semi-integradas: alteração do contrato é
+       excepcional !
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                 
+
+
+---
+
+CEBRASPE - 2021 - PGE-MS - Procurador do Estado
+  Na vigência de um contrato administrativo para execução de obra pública, a administração
+ promoveu alteração unilateral, afirmando interesse público, e reduziu a extensão da obra,
+ sem que essa possibilidade estivesse expressa no contrato. A empresa contratada já
+ adquirira os materiais necessários para a obra, os quais já se encontravam no local
+ destinado a esse fim.
+
+ Acerca dessa situação hipotética e das disposições da nova Lei de Licitações e Contratos
+ Administrativos (Lei n.º 14.133/2021), assinale a opção correta.
+ A Na hipótese em consideração, a alteração seria de aceitação obrigatória por parte da
+ empresa contratada, em qualquer caso, se observasse o limite de 25% do objeto
+ originalmente contratado.
+ B A alteração unilateral da extensão de obra é, em princípio, legalmente admissível, mas,
+ na situação em apreço, a administração pública deverá indenizar a empresa contratada
+ pelos materiais adquiridos.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                 
+
+
+---
+
+ C As chamadas cláusulas exorbitantes precisam estar expressas no contrato administrativo,
+ para que possam ser validamente executadas.
+ D Caso haja motivação adequada baseada em interesse público, o contratado pela
+ administração pública poderá sofrer alterações contratuais que lhe causem perda
+ patrimonial.
+ E Em casos como o descrito na situação em apreço, com base em fundamentação
+ devidamente exposta no procedimento administrativo, a administração pública poderia
+ alterar de forma unilateral a essência do objeto do contrato, desde que este se mantivesse
+ compatível com o objeto social da empresa contratada.
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                 
+
+
+---
+
+     CEBRASPE/MPE-AM – Procurador de Justiça - 2023
+
+     Quanto à alteração dos contratos administrativos, assinale a opção correta.
+     A) Em casos justificados, pode haver, ainda que sem termo aditivo, a execução de
+     prestações determinadas pela administração pública distintas das originalmente
+     contratadas.
+     B) Toda alteração de contrato administrativo, desde que decorrente de fundado
+     interesse público, resulta do poder de império da administração pública.
+     C) Toda alteração de contrato de obras e serviços de engenharia deve conduzir à
+     apuração de responsabilidade do responsável técnico e ao ressarcimento dos danos.
+     D) As alterações unilaterais dos contratos administrativos, desde que respeitado o
+     equilíbrio econômico-financeiro do ajuste, podem alcançar até 50% de acréscimos ou
+     supressões.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+     E) A possibilidade de modificação unilateral de contratos administrativos consiste em
+     inovação da Lei n.º 14.133/2021.
+
+
+     Art. 132. A formalização do termo aditivo é condição para a execução, pelo
+     contratado, das prestações determinadas pela Administração no curso da execução do
+     contrato, salvo nos casos de justificada necessidade de antecipação de seus efeitos,
+     hipótese em que a formalização deverá ocorrer no prazo máximo de 1 (um) mês.
+
+     Art. 124, § 1º Se forem decorrentes de falhas de projeto, as alterações de contratos de
+     obras e serviços de engenharia ensejarão apuração de responsabilidade do
+     responsável técnico e adoção das providências necessárias para o ressarcimento dos
+     danos causados à Administração.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+FISCALIZAÇÃO DO
+   CONTRATO
+
+   
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+      CEBRASPE (CESPE) - 2022 - Técnico da Defensoria Pública (DPE RO)
+
+     Durante a execução do contrato de TIC deve haver fiscalização por representantes da
+     administração especialmente designados, com vistas a acompanhar aspectos
+     administrativos e funcionais da contratação; nesse contexto,
+     A não é permitida a contratação de terceiros que estejam relacionadas a qualquer
+     função associada à fiscalização de contratos.
+     B não é permitida a contratação, pois é proibido haver mais de um fiscal por contrato.
+     C é permitida a contratação de terceiros para realizar e se responsabilizar inteiramente
+     por essa função.
+     D é permitida a contratação de empresa para exercer a fiscalização, desde que exerça
+     atribuição própria e exclusiva da fiscalização do contrato.
+     E é permitida a contratação de terceiros para assistir o fiscal do contrato e subsidiá-los
+     com informações pertinentes a essa atribuição.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+APLICAÇÃO DE SANÇÕES
+
+     
+
+
+---
+
+                                Advertência
+                                                                   por atraso injustificado –
+                                                                       “multa de mora”
+                                     Multas
+                                                                   por infração administrativa
+                                                                    - "multa compensatória"
+           Sanções         impedimento de licitar
+         administrativas     e contratar com a                          por até 3 anos
+                               administração
+
+                              Declaração de
+                                                                        de 3 a 6 anos
+                              inidoneidade
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                              
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+---
+
+  CEBRASPE/CNMP – Técnico - 2023
+
+  É correta a cobrança do valor de R$ 600 referente a multa decorrente de aplicação de
+  responsabilização administrativa a um fornecedor pelo descumprimento contratual de
+  contrato no valor global de R$ 110.000.
+
+
+  ( ) Certo
+  ( ) Errado
+
+      Art. 156, § 3º A sanção prevista no inciso II do caput deste artigo, calculada na forma do
+      edital ou do contrato, não poderá ser inferior a 0,5% (cinco décimos por cento) nem
+      superior a 30% (trinta por cento) do valor do contrato licitado ou celebrado com
+      contratação direta e será aplicada ao responsável por qualquer das infrações
+Nova Lei de Licitações
+      administrativas previstas no art. 155 desta Lei.
+Prof. Antonio Daud
+                                   
+
+
+---
+
+     Advertência       Multa por infração               Impedimento                        Inidoneidade
+ inexecução parcial    todas as infrações       - inexecução parcial que      - nas hipóteses ensejadoras do
+     do contrato,        administrativas             cause grave dano             impedimento, quando se
+     quando não       previstas no art. 155          - inexecução total              justificar imposição de
+justificar penalidade                             - deixar de entregar a            penalidade mais grave
+      mais grave                              documentação exigida para       - declaração ou documentação
+                                                          a licitação                            falsa
+                                                - não manter a proposta,      - fraudar a licitação ou praticar
+                                                salvo fato superveniente     ato fraudulento na execução do
+                                                          justificado                         contrato
+                                              - não celebrar o contrato ou         - comportar-se de modo
+                                                       não entregar a        inidôneo ou cometer fraude de
+                                              documentação exigida para                qualquer natureza
+                                                  a contratação, quando      - praticar atos ilícitos com vistas
+                                                         convocado                 a frustrar os objetivos da
+                                              - ensejar o retardamento da                     licitação;
+                                              execução ou da entrega do       - praticar ato lesivo previsto na
+                                                 objeto da licitação sem                Lei Anticorrupção
+                                                     motivo justificado
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+EXIGÊNCIA DE GARANTIA
+
+      
+
+
+---
+
+                                     De proposta                    1%
+
+
+                                                                           Regra geral                                 5%
+
+
+                                                                Complexidade técnica e riscos                          10%
+                                     De execução
+                                                              Obras e serv. eng. de grande vulto
+                                                                                                                       30%
+                                                                           (200 mi)
+                         Garantias
+                                                              Contratado é depositário de bens                     + o valor dos
+                                                                      da Administração                                 bens
+
+                                                           Caução em dinheiro ou em títulos da
+                                                                    dívida pública
+                                     Modalidades                                                              contratado
+                                                                        Seguro-garantia                     escolhe (regra)
+                                                                        Fiança bancária
+
+
+                                                Obras e serv.                   edital pode exigir
+                                                engenharia                       seguro-garantia
+
+                                                                                Seguradora é anuente no contrato
+
+Nova Lei de Licitações                                                          Obrigação de a seguradora assumir e
+Prof. Antonio Daud                                                                     concluir a obra (step in)
+                                           
+
+
+---
+
+     CEBRASPE - 2022 - Auditor Fiscal de Controle Externo (TCE-SC)
+
+     Se o edital de licitação exigir a prestação de garantia, o contratado poderá optar pelas
+     modalidades de caução em dinheiro, seguro-garantia ou fiança bancária, sendo vedado
+     o oferecimento de garantia de outras espécies, como títulos da dívida pública.
+
+    Art. 96. A critério da autoridade competente, em cada caso, poderá ser exigida, mediante previsão no
+    edital, prestação de garantia nas contratações de obras, serviços e fornecimentos.
+    § 1º Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+    I - caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante
+    registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e
+    avaliados por seus valores econômicos, conforme definido pelo Ministério da Economia;
+    II - seguro-garantia;
+    III - fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no
+    País pelo Banco Central do Brasil.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+OUTRAS CLÁUSULAS
+  EXORBITANTES
+
+   
+
+
+---
+
+                            evitar descontinuidade na prestação
+               Ocupação             de serviços essenciais
+               provisória   como medida acautelatória, durante a    inclusive após o fim
+                              apuração de faltas administrativas        do contrato
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                               
+
+
+---
+
+                                                                  Particular mantém regularmente a
+                             até 2 meses
+                                                                        execução do contrato
+                                                                              Particular suspende a
+                                                                                 execução até a
+       atraso no pagamento                                                      normalização dos
+                                                                  regra            pagamentos
+                                                                                       ou
+                                                                                pleiteia a extinção
+                             superior a 2                                            contratual
+                               meses                                           Calamidade, grave
+                                                                                 perturbação da
+                                                             Exceções         ordem interna, guerra
+                                                                                ou atraso causado
+                                                                                 pelo contratado
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                             
+
+
+---
+
+DURAÇÃO DOS CONTRATOS
+
+      
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+    CEBRASPE/CNMP – Analista - Tecnologia da Informação
+    e Comunicação - Suporte e Infraestrutura - 2023
+    Julgue o item a seguir conforme a Lei n.º 14.133/2021, que dispõe sobre licitações e
+    contratos na administração pública.
+    A duração dos contratos, inclusive os relativos à utilização de programas de informática,
+    ficará adstrita à vigência dos respectivos créditos orçamentários.
+
+
+    ( ) Certo
+    ( ) Errado
+
+
+   Art. 106. A Administração poderá celebrar contratos com prazo de até 5 (cinco) anos nas
+   hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes: (..)
+   § 2º Aplica-se o disposto neste artigo ao aluguel de equipamentos e à utilização de
+   programas de informática.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+     CESPE - 2022 - Procurador Judicial (Recife)
+
+     Segundo as disposições da Lei n.º 14.133/2021, o prazo máximo dos contratos que
+     impliquem a elaboração de benfeitorias permanentes que, realizadas exclusivamente a
+     expensas do contratado, serão revertidas ao patrimônio da administração pública
+     poderá ser de até
+     A 5 anos.
+                         Art. 110. Na contratação que gere receita e no contrato de
+     B 15 anos.          eficiência que gere economia para a Administração, os prazos
+                         serão de: (...)
+     C 25 anos.          II - até 35 (trinta e cinco) anos, nos contratos com investimento,
+     D 35 anos.          assim considerados aqueles que impliquem a elaboração de
+                         benfeitorias permanentes, realizadas exclusivamente a expensas
+     E 45 anos.          do contratado, que serão revertidas ao patrimônio da
+                         Administração Pública ao término do contrato.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+ENCARGOS CONTRATUAIS
+
+      
+
+
+---
+
+                            Fiscais
+
+                          Comerciais           Administração não
+                                                responde (regra)
+
+                          Trabalhista
+ Inadimplência do
+contratado quanto a
+     encargos                                                                            Administração
+                                                                         regra geral     não responde
+                              Serv.             Trabalhistas
+                                                                       se houver falha     responde
+                          contínuos c/                                                   subsidiariame
+                           dedicação                                   na fiscalização
+                                                                                              nte
+                          exclusiva de                                 Administração
+                              M/O            Previdenciários              responde
+                                                                       solidariamente
+ Nova Lei de Licitações
+ Prof. Antonio Daud
+                                  
+
+
+---
+
+     CEBRASPE (CESPE) - 2023 - Procurador do Estado (PGE RR)
+
+     Determinada agência reguladora celebrou contrato administrativo com empresa
+     prestadora de serviços contínuos em regime de dedicação exclusiva de mão de obra.
+     João, empregado da empresa contratada, alegando que algumas verbas trabalhistas não
+     foram pagas, requereu seu adimplemento à agência reguladora. Com base nessa
+     situação hipotética, julgue o item que se seguem.
+     A agência reguladora deverá responder subsidiariamente pelos encargos trabalhistas de
+     João, se comprovada falha na fiscalização do cumprimento das obrigações da empresa
+     contratada.
+
+       art. 121, § 2º Exclusivamente nas contratações de serviços contínuos com regime de
+      dedicação exclusiva de mão de obra, a Administração responderá solidariamente pelos
+      encargos previdenciários e subsidiariamente pelos encargos trabalhistas se comprovada
+      falha na fiscalização do cumprimento das obrigações do contratado.
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+  SOLUÇÃO DE
+CONTROVÉRSIAS
+ CONTRATUAIS
+
+
+  
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+EXTINÇÃO E ANULAÇÃO DO
+       CONTRATO
+
+      
+
+
+---
+
+                  unilateral                consensual                         litigiosa
+
+
+                                                                           não depende de
+                há interesse da            há interesse da
+                Administração                                                interesse da
+                                           Administração
+                                                                            Administração
+         não aplicável no caso       hipóteses:
+         de descumprimento                                             hipóteses:
+                                     • acordo
+             por parte da            • conciliação                     • judicial
+            Administração            • mediação                        • arbitral
+                                     • comitê
+        necessária autorização       necessária autorização
+            por escrito e                por escrito e
+          fundamentada da              fundamentada da                  determinação judicial
+              autoridade                   autoridade                        ou arbitral
+             competente                   competente
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+     CEBRASPE/TJ-ES - Analista Judiciário 02 – Administrativa –
+     2023
+     Quanto a licitações, a contratos administrativos e à responsabilidade civil no âmbito da
+     administração pública, julgue o item subsecutivo.
+     A extinção de um contrato administrativo poderá ser determinada por ato unilateral da
+     administração pública, ainda que ela própria tenha causado descumprimento
+     contratual.
+
+      Art. 138. A extinção do contrato poderá ser:
+
+      I - determinada por ato unilateral e escrito da Administração, exceto no caso de
+      descumprimento decorrente de sua própria conduta;
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+                         OBRIGADO
+                          @professordaud
+
+
+                          t.me/professordaud
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---

@@ -1,0 +1,3875 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 14_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Possati
+artigos_citados:
+- Art. 176.
+- Art. 188.
+- art. 176
+---
+
+# Possati
+
+Aula 13
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                       Possati
+
+                                                        Autor:
+                                               Gilmar Possati
+
+                                          24 de Outubro de 2024
+
+---
+
+      Gilmar Possati
+      Aula 13
+
+                                                                                     Índice
+1) Demonstração do Valor Adicionado (DVA) - Teoria
+
+
+2) Demonstração do Valor Adicionado (DVA)- Questões Comentadas
+
+
+3) Lista de Questões - Demonstração do Valor Adicionado (DVA)
+
+                Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                                                                          2
+                www.estrategiaconcursos.com.br                                                                                                                                           86
+
+                                                             
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                   DEMONSTRAÇÃO DO VALOR ADICIONADO
+Aspectos Introdutórios
+A Demonstração do Valor Adicionado (DVA) não era obrigatória em nosso país, até a promulgação da Lei nº
+11.638/07. Essa Lei introduziu significativas alterações na Lei nº 6.404/76, tornando a elaboração e
+divulgação da DVA obrigatória para as companhias abertas, como parte das demonstrações contábeis
+divulgadas ao final de cada exercício. Nesse sentido, as companhias fechadas estão dispensadas da
+elaboração da DVA.
+Cabe destacar que a Lei das S/A não estabelece um modelo a ser seguido pelas empresas. Apenas dispõe o
+seguinte:
+     Art. 188. As demonstrações referidas nos incisos IV e V do caput do art. 176 desta Lei indicarão, no mínimo:
+     (...)
+     II – demonstração do valor adicionado: o valor da riqueza gerada pela companhia, a sua distribuição entre os elementos
+     que contribuíram para a geração dessa riqueza, tais como empregados, financiadores, acionistas, governo e outros, bem
+     como a parcela da riqueza não distribuída.
+
+                                                                                                       Empregados
+                                                                Financiadores
+
+                                                                                                                    Governo
+                                                                    Acionistas
+
+
+Coube ao Comitê de Pronunciamentos Contábeis, por meio do CPC 09, apresentar maiores detalhes sobre a
+DVA. E, é claro, que agora vamos “detonar” com esse CPC! Antes disso, veja como essa parte introdutória já
+foi explorada em provas.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                     3
+         www.estrategiaconcursos.com.br                                                                                       86
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+(SEFAZ-AP) Uma das mudanças introduzidas pela legislação societária no Brasil foi a DVA (Demonstração
+do Valor Adicionada).
+Com relação à DVA é correto afirmar que:
+a) será obrigatória para as companhias abertas.
+b) será facultativa para as companhias abertas.
+c) será obrigatória para as companhias fechadas.
+d) será obrigatória para as companhias cujo Patrimônio Líquido seja superior a R$300.000,00.
+                                                          ==219a34==
+
+e) será obrigatória para as companhias cujo Patrimônio Líquido seja superior a R$240.000,00.
+Comentários
+Conforme acabamos de estudar, a DVA não era obrigatória em nosso país, até a promulgação da Lei n.
+11.638/07. Essa Lei introduziu significativas alterações na Lei nº 6.404/76, tornando a elaboração e
+divulgação da DVA obrigatória para as companhias abertas, como parte das demonstrações contábeis
+divulgadas ao final de cada exercício. Nesse sentido, as companhias fechadas estão dispensadas da
+elaboração da DVA.
+Veja o que dispõe o art. 176 da Lei n. 6.404/76:
+Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração mercantil da
+companhia, as seguintes demonstrações financeiras, que deverão exprimir com clareza a situação do
+patrimônio da companhia e as mutações ocorridas no exercício:
+[...]
+V – se companhia aberta, demonstração do valor adicionado. (Incluído pela Lei n. 11.638,de 2007)
+Gabarito: A
+
+Objetivo e Benefícios das Informações da DVA
+Segundo o Manual de Contabilidade Societária (FIPECAFI), a DVA tem por objetivo demonstrar o valor da
+riqueza econômica gerada pelas atividades da empresa como resultante de um esforço coletivo e sua
+distribuição entre os elementos que contribuíram para a sua criação. Desse modo, a DVA acaba por prestar
+informações a todos os agentes econômicos interessados na empresa, tais como empregados, clientes,
+fornecedores, financiadores e governo.
+Segundo o CPC 09 (item 5), a DVA deve proporcionar aos usuários das demonstrações contábeis
+informações relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas
+foram distribuídas.
+O CPC 09 destaca, ainda, que para os investidores e outros usuários, essa demonstração proporciona o
+conhecimento de informações de natureza econômica e social e oferece a possibilidade de melhor avaliação
+das atividades da entidade dentro da sociedade na qual está inserida. A decisão de recebimento por uma
+comunidade (Município, Estado e a própria Federação) de investimento pode ter nessa demonstração um
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                4
+         www.estrategiaconcursos.com.br                                                                 86
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+instrumento de extrema utilidade e com informações que, por exemplo, a demonstração de resultados por
+si só não é capaz de oferecer.
+Por fim, o CPC 09 informa que a DVA elaborada por segmento (tipo de clientes, atividades, produtos, área
+geográfica e outros) pode representar informações ainda mais valiosas no auxílio da formulação de predições
+e, enquanto não houver um pronunciamento específico do CPC sobre segmentos, sua divulgação é
+incentivada.
+Bem... já estudamos quais os objetivos e benefícios da DVA. Mas, afinal... o que significa Valor Adicionado?
+Nos termos do CPC 09,
+Valor adicionado representa a riqueza criada pela empresa, de forma geral medida pela diferença entre o
+valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor adicionado recebido em
+transferência, ou seja, produzido por terceiros e transferido à entidade.
+É claro que esse conceito é importantíssimo! Obviamente que já foi alvo de exigência, senão vejamos:
+
+(BNDES) Pode-se afirmar que valor adicionado é a(o)
+a) diferença entre o valor dos bens, serviços e utilidades vendidos por uma entidade e o respectivo valor dos
+insumos adquiridos de terceiros.
+b) diferença entre a receita gerada pela empresa e o resultado obtido antes de encargos financeiros,
+depreciação, amortização, exaustão, imposto de renda e resultados não operacionais.
+c) riqueza gerada pela empresa, representada pelo custo de oportunidade multiplicado pelo patrimônio
+líquido deduzido dos valores que transitam em resultado e não representam entrada de caixa.
+d) soma de todos os valores recebidos pela empresa, deduzidos dos impostos incidentes e dos encargos de
+depreciação, amortização e exaustão.
+e) conjunto de valores obtidos pela empresa, seja através de venda de produtos, seja através de ingressos
+de fontes diversas, deduzidos de impostos e encargos financeiros.
+Comentários
+Nos termos do CPC 09,
+Valor adicionado representa a riqueza criada pela empresa, de forma geral medida pela diferença entre o
+valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor adicionado recebido em
+transferência, ou seja, produzido por terceiros e transferido à entidade.
+Gabarito: A
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   5
+        www.estrategiaconcursos.com.br                                                                    86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Características das Informações da DVA
+Conforme dispõe o CPC 09, a DVA está fundamentada em conceitos macroeconômicos, buscando
+apresentar, eliminados os valores que representam dupla-contagem, a parcela de contribuição que a
+entidade tem na formação do Produto Interno Bruto (PIB). Essa demonstração apresenta o quanto a
+entidade agrega de valor aos insumos adquiridos de terceiros e que são vendidos ou consumidos durante
+determinado período.
+Referido Pronunciamento ressalva, contudo, que existem diferenças temporais entre os modelos contábil e
+econômico no cálculo do valor adicionado. A ciência econômica, para cálculo do PIB, baseia-se na produção,
+enquanto a contabilidade utiliza o conceito contábil da realização da receita, isto é, baseia-se no regime
+contábil de competência. Como os momentos de realização da produção e das vendas são normalmente
+diferentes, os valores calculados para o PIB por meio dos conceitos oriundos da Economia e os da
+Contabilidade são naturalmente diferentes em cada período. Essas diferenças serão tanto menores quanto
+menores forem as diferenças entre os estoques inicial e final para o período considerado. Em outras palavras,
+admitindo-se a inexistência de estoques inicial e final, os valores encontrados com a utilização de conceitos
+econômicos e contábeis convergirão.
+Nesse sentido, a riqueza gerada pela empresa, medida com utilização do conceito contábil, é assim calculada:
+                   Riqueza Gerada = Vendas – Insumos adquiridos de Terceiros – Depreciação
+Essa equação corresponde à diferença entre o valor recebido de terceiros pelas receitas menos o valor
+desembolsado a terceiros para aquisição dos insumos utilizados nesse processo. Logo, corresponde ao valor
+adicionado pela empresa.
+O Manual de Contabilidade Societária destaca que essa riqueza gerada é mostrada na DVA como se distribui
+entre o capital (juros a financiadores externos e lucro dos sócios), o trabalho (mão de obra) e o governo
+(tributos). Quando se calcula de forma agregada para o país, a parte que vai para o governo se distribui da
+mesma forma, exceto para si mesmo (tributos). Assim, quando se olha a economia como um todo, o valor
+agregado geral do país (PIB) é distribuído entre juros, lucros e salários.
+
+Importância das Informações Disponibilizadas na DVA
+As informações disponibilizadas nessa demonstração são importantes para:
+   ▪   analisar a capacidade de geração de valor e a forma de distribuição das riquezas de cada empresa;
+   ▪   permitir a análise do desempenho econômico da empresa;
+   ▪   auxiliar no cálculo do PIB e de indicadores sociais;
+   ▪   fornecer informações sobre os benefícios (remunerações) obtidos por cada um dos fatores de
+       produção (trabalhadores e financiadores – acionistas ou credores) e governo;
+   ▪   auxiliar a empresa a informar sua contribuição na formação da riqueza à região, Estado, país etc. em
+       que se encontra instalada.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   6
+        www.estrategiaconcursos.com.br                                                                    86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Modelo e Técnica de Elaboração
+A elaboração e apresentação da DVA segue as disposições estabelecidas no CPC 09, a seguir estudadas.
+Referido Pronunciamento dispõe que a distribuição da riqueza criada deve ser detalhada, minimamente, da
+seguinte forma:
+a) pessoal e encargos;
+b) impostos, taxas e contribuições;
+c) juros e aluguéis;
+d) juros sobre o capital próprio (JCP) e dividendos;
+e) lucros retidos/prejuízos do exercício.
+
+Para tanto, temos o seguinte modelo de DVA, aplicável às empresas em geral:
+                          Demonstração do Valor Adicionado – EMPRESAS EM GERAL
+                                                                                            Em milhares Em milhares
+                                     DESCRIÇÃO                                                de reais    de reais
+                                                                                               (20X1)      (20X0)
+  1 – RECEITAS
+  1.1) Vendas de mercadorias, produtos e serviços
+  1.2) Outras receitas
+  1.3) Receitas relativas à construção de ativos próprios
+  1.4) Provisão para créditos de liquidação duvidosa – Reversão /
+  (Constituição)
+  2 – INSUMOS ADQUIRIDOS DE TERCEIROS
+    (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+  2.1) Custos dos produtos, das mercadorias e dos serviços vendidos
+  2.2) Materiais, energia, serviços de terceiros e outros
+  2.3) Perda / Recuperação de valores ativos
+  2.4) Outras (especificar)
+  3 – VALOR ADICIONADO BRUTO (1-2)
+  4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO
+  5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)
+  6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA
+  6.1) Resultado de equivalência patrimonial
+  6.2) Receitas financeiras
+  6.3) Outras
+  7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)
+  8 – DISTRIBUIÇÃO DO VALOR ADICIONADO (*)
+  8.1) Pessoal
+  8.1.1 – Remuneração direta
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                             7
+         www.estrategiaconcursos.com.br                                                                               86
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                                                                           Em milhares Em milhares
+                                    DESCRIÇÃO                                                de reais    de reais
+                                                                                              (20X1)      (20X0)
+  8.1.2 – Benefícios
+  8.1.3 – F.G.T.S
+  8.2) Impostos, taxas e contribuições
+  8.2.1 – Federais
+  8.2.2 – Estaduais
+  8.2.3 – Municipais
+  8.3) Remuneração de capitais de terceiros
+  8.3.1 – Juros
+  8.3.2 – Aluguéis
+  8.3.3 – Outras
+  8.4) Remuneração de capitais próprios
+  8.4.1 – Juros sobre o capital próprio
+  8.4.2 – Dividendos
+  8.4.3 – Lucros retidos / Prejuízo do exercício
+  8.4.4 – Participação dos não-controladores nos lucros retidos (só p/
+  consolidação)
+(*) O total do item 8 deve ser exatamente igual ao item 7.
+Observe que a DVA pode ser dividida em duas partes: 1ª) evidenciação da riqueza criada pela entidade; e
+2ª) Distribuição dessa Riqueza.
+Passemos, portanto, ao estudo das informações que devem ser evidenciadas na DVA, segundo dispõe o CPC
+09.
+
+Parte I: Riqueza Criada pela Própria Entidade
+Em sua primeira parte, a DVA deve apresentar de forma detalhada a riqueza criada pela entidade. Os
+principais componentes da riqueza criada estão apresentados a seguir nos seguintes itens:
+Receitas
+Venda de mercadorias, produtos e serviços – inclui os valores dos tributos incidentes sobre essas
+receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou
+faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do
+cômputo dessas receitas.
+Outras receitas – da mesma forma que o item anterior, inclui os tributos incidentes sobre essas
+receitas. Veja o que dispõe o CPC 09:
+Outras receitas representam os valores que sejam oriundos, principalmente, de baixas por alienação
+de ativos não circulantes, tais como resultados na venda de imobilizado, de investimentos, e outras
+transações incluídas na demonstração do resultado do exercício que não configuram
+reconhecimento de transferência à entidade de riqueza criada por outras entidades. Diferentemente
+dos critérios contábeis, também incluem valores que não transitam pela demonstração do resultado,
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                             8
+        www.estrategiaconcursos.com.br                                                                               86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+como, por exemplo, aqueles relativos à construção de ativos para uso próprio da entidade e aos
+juros pagos ou creditados que tenham sido incorporados aos valores dos ativos de longo prazo
+(normalmente, imobilizados).
+Receitas relativas à construção de ativos próprios – inclui valores relativos à construção de ativos
+para uso próprio, tais como: materiais, mão de obra, aluguéis, serviços terceirizados, etc. Para evitar
+que a depreciação tenha que ser dividida dentre esses diversos componentes do ativo construído,
+os valores gastos na construção são reconhecidos como receitas na construção de ativos próprios.
+Simultaneamente, os gastos relativos a essa construção devem ser apropriados na DVA
+obedecendo-se a natureza de cada um deles.
+ Observação: aqui há uma aparente contradição, pois o CPC 09 informa que as receitas relativas à
+construção de ativos próprios estão inclusas na rubrica “outras receitas”, conforme vimos acima.
+Porém, no modelo de DVA apresentado pelo CPC 09, a rubrica “receitas relativas à construção de
+ativos próprios” vem destacada, conforme modelo apresentado anteriormente. Assim, em uma
+interpretação mais integral (extensiva) do CPC, para fins de prova leve o seguinte: as receitas
+relativas à construção de ativos próprios são consideradas outras receitas, mas são destacadas na
+DVA em rubrica própria.
+Provisão para créditos de liquidação duvidosa – Constituição/Reversão - inclui os valores relativos à
+constituição e reversão dessa provisão.
+Insumos adquiridos de terceiros
+Custo dos produtos, das mercadorias e dos serviços vendidos – inclui os valores das matérias-primas
+adquiridas junto a terceiros e contidas no custo do produto vendido, das mercadorias e dos serviços
+vendidos adquiridos de terceiros; não inclui gastos com pessoal próprio.
+Materiais, energia, serviços de terceiros e outros – inclui valores relativos às despesas originadas da
+utilização desses bens, utilidades e serviços adquiridos junto a terceiros.
+Nos valores dos custos dos produtos e mercadorias vendidos, materiais, serviços, energia, etc.
+consumidos, devem ser considerados os tributos incluídos no momento das compras (por
+exemplo, ICMS, IPI, PIS e COFINS), recuperáveis ou não. Esse procedimento é diferente das práticas
+utilizadas na demonstração do resultado.
+Perda e recuperação de valores ativos – inclui valores relativos a ajustes por avaliação a valor de
+mercado de estoques, imobilizados, investimentos, etc. Também devem ser incluídos os valores
+reconhecidos no resultado do período, tanto na constituição quanto na reversão de provisão para
+perdas por desvalorização de ativos, conforme aplicação do CPC 01 – Redução ao Valor Recuperável
+de Ativos (se no período o valor líquido for positivo, deve ser somado).
+Depreciação, amortização e exaustão
+Inclui as despesas e custos com depreciação, amortização e exaustão contabilizadas no período.
+Valor adicionado recebido em transferência
+Resultado de equivalência patrimonial – o resultado da equivalência pode representar receita ou
+despesa; se despesa, deve ser considerado como redução ou valor negativo.
+Receitas financeiras – inclui todas as receitas financeiras, inclusive as variações cambiais ativas,
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             9
+        www.estrategiaconcursos.com.br                                                               86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+independentemente de sua origem.
+Outras receitas – inclui os dividendos relativos a investimentos avaliados ao custo, aluguéis, direitos
+de franquia, etc.
+Vamos ver alguns exemplos de questões que exigem o conhecimento teórico dessa 1ª parte da DVA.
+
+(MPU) As receitas de venda de mercadorias, produtos e serviços de uma indústria devem incluir, na
+demonstração do valor adicionado, os valores dos tributos incidentes sobre as referidas receitas.
+Comentários
+Conforme estudamos:
+Venda de mercadorias, produtos e serviços – inclui os valores dos tributos incidentes sobre essas
+receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou
+faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do
+cômputo dessas receitas.
+Gabarito: Certo
+(STJ) Com relação às demonstrações contábeis de companhias abertas, julgue o item a seguir.
+Na demonstração do valor adicionado, que contempla informações relacionadas à criação e à distribuição
+de riqueza por parte de uma entidade, as receitas oriundas de aluguel devem ser classificadas como valores
+adicionados gerados pela entidade.
+Comentários
+Conforme estudamos, as receitas oriundas de aluguel devem ser classificadas como valores adicionados
+recebidos em transferência (rubrica “outras receitas”). Essas receitas, portanto, não são geradas pela
+entidade internamente, mas geradas por terceiros.
+Gabarito: Errado
+(Transpetro) A Demonstração do Valor Adicionado (DVA) é formada, basicamente, por duas partes, sendo
+que, na primeira parte, deve apresentar a riqueza criada pela entidade, incluindo, em seu detalhamento,
+a receita de vendas de mercadorias, produtos e serviços.
+As vendas de produtos pelas empresas industriais devem ser demonstradas na DVA pelo valor da(s)
+a) receita bruta ou do faturamento bruto
+b) vendas menos o ICMS e o IPI a recuperar
+c) vendas menos o ICMS a recuperar
+d) vendas menos o IPI a recuperar
+e) vendas líquidas
+Comentários
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               10
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Em sua primeira parte, a DVA deve apresentar de forma detalhada a riqueza criada pela entidade. Entre os
+principais componentes da riqueza criada estão as receitas que, por sua vez, possui como principal fonte a
+venda de mercadorias, produtos e serviços.
+Segundo o CPC 09, a venda de mercadorias, produtos e serviços inclui os valores dos tributos incidentes
+sobre essas receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou
+faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do cômputo
+dessas receitas.
+Gabarito: A
+
+Parte II: Distribuição da Riqueza
+A segunda parte da DVA deve apresentar de forma detalhada como a riqueza obtida pela entidade
+foi distribuída. Os principais componentes dessa distribuição estão apresentados a seguir:
+Pessoal – valores apropriados ao custo e ao resultado do exercício na forma de:
+   • Remuneração direta – representada pelos valores relativos a salários, 13º salário, honorários
+     da administração (inclusive os pagamentos baseados em ações), férias, comissões, horas
+     extras, participação de empregados nos resultados, etc.
+   • Benefícios – representados pelos valores relativos a assistência médica, alimentação,
+     transporte, planos de aposentadoria, etc.
+   • FGTS – representado pelos valores depositados em conta vinculada dos empregados.
+Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição social sobre o
+lucro, contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do Trabalho) que
+sejam ônus do empregador (cota patronal), bem como os demais impostos e contribuições a que
+a empresa esteja sujeita. Para os impostos compensáveis, tais como ICMS, IPI, PIS e COFINS, devem
+ser considerados apenas os valores devidos ou já recolhidos, e representam a diferença entre os
+impostos e contribuições incidentes sobre as receitas e os respectivos valores incidentes sobre os
+itens considerados como “insumos adquiridos de terceiros”.
+   • Federais – inclui os tributos devidos à União, inclusive aqueles que são repassados no todo
+     ou em parte aos Estados, Municípios, Autarquias, etc., tais como: IRPJ, CSSL, IPI, CIDE, PIS,
+     COFINS. Inclui também a contribuição sindical patronal.
+   • Estaduais – inclui os tributos devidos aos Estados, inclusive aqueles que são repassados no
+     todo ou em parte aos Municípios, Autarquias, etc., tais como o ICMS e o IPVA.
+   • Municipais – inclui os tributos devidos aos Municípios, inclusive aqueles que são repassados
+     no todo ou em parte às Autarquias, ou quaisquer outras entidades, tais como o ISS e o IPTU.
+Remuneração de capitais de terceiros - valores pagos ou creditados aos financiadores externos de
+capital.
+   • Juros – inclui as despesas financeiras, inclusive as variações cambiais passivas, relativas a
+     quaisquer tipos de empréstimos e financiamentos junto a instituições financeiras, empresas
+     do grupo ou outras formas de obtenção de recursos. Inclui os valores que tenham sido
+     capitalizados no período.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               11
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+   • Aluguéis – inclui os aluguéis (inclusive as despesas com arrendamento operacional) pagos ou
+     creditados a terceiros, inclusive os acrescidos aos ativos.
+   • Outras – inclui outras remunerações que configurem transferência de riqueza a terceiros,
+     mesmo que originadas em capital intelectual, tais como royalties, franquia, direitos autorais,
+     etc.
+Remuneração de capitais próprios - valores relativos à remuneração atribuída aos sócios e
+acionistas.
+   • Juros sobre o capital próprio (JCP) e dividendos – inclui os valores pagos ou creditados aos
+     sócios e acionistas por conta do resultado do período, ressalvando-se os valores dos JCP
+     transferidos para conta de reserva de lucros. Devem ser incluídos apenas os valores
+     distribuídos com base no resultado do próprio exercício, desconsiderando-se os dividendos
+     distribuídos com base em lucros acumulados de exercícios anteriores, uma vez que já foram
+     tratados como “lucros retidos” no exercício em que foram gerados.
+   • Lucros retidos e prejuízos do exercício – inclui os valores relativos ao lucro do exercício
+     destinados às reservas, inclusive os JCP quando tiverem esse tratamento; nos casos de
+     prejuízo, esse valor deve ser incluído com sinal negativo.
+As quantias destinadas aos sócios e acionistas na forma de JCP, independentemente de serem
+registradas como passivo (JCP a pagar) ou como reserva de lucros, devem ter o mesmo tratamento
+dado aos dividendos no que diz respeito ao exercício a que devem ser imputados.
+
+Casos Especiais: alguns exemplos
+Pessoal, o CPC 09 expõe alguns exemplos de casos especiais. Essa parte é praticamente inexplorada
+em provas. De qualquer forma, creio que alguns pontos que destacaremos abaixo podem vir a
+serem exigidos em provas. Logo, vamos descrever o disposto no CPC 09, destacando aquilo que
+entendemos ser importante, beleza? Avante!
+Depreciação de itens reavaliados ou avaliados ao valor justo (fair value)
+ A reavaliação de ativos e a avaliação de ativos ao seu valor justo provocam alterações na estrutura
+patrimonial da empresa e, por isso, normalmente requerem o registro contábil dos seus efeitos
+tributários.
+Os resultados da empresa são afetados sempre que houver a realização dos respectivos ativos
+reavaliados ou avaliados ao valor justo. Quando a realização de determinado ativo ocorrer pelo
+processo normal de depreciação, por consequência, a DVA também é afetada. Assim, no momento
+da realização da reavaliação ou da avaliação ao valor justo, deve-se incluir esse valor como
+“outras receitas” na DVA, bem como se reconhecem os respectivos tributos na linha própria de
+impostos, taxas e contribuições.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati          12
+        www.estrategiaconcursos.com.br                                                            86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Ajustes de exercícios anteriores
+Os ajustes de exercícios anteriores, decorrentes de efeitos provocados por erro imputável a
+exercício anterior ou da mudança de critérios contábeis que vinham sendo utilizados pela entidade,
+devem ser adaptados na demonstração de valor adicionado relativa ao período mais antigo
+apresentado para fins de comparação, bem como os demais valores comparativos apresentados,
+como se a nova prática contábil estivesse sempre em uso ou o erro fosse corrigido.
+Ativos construídos pela empresa para uso próprio
+A construção de ativos dentro da própria empresa para seu próprio uso é procedimento comum.
+Nessa construção diversos fatores de produção são utilizados, inclusive a contratação de recursos
+externos (por exemplo, materiais e mão-de-obra terceirizada) e a utilização de fatores internos
+como mão-de-obra, com os consequentes custos que essa contratação e utilização provocam. Para
+elaboração da DVA, essa construção equivale a produção vendida para a própria empresa, e por
+isso seu valor contábil integral precisa ser considerado como receita. A mão-de-obra própria alocada
+é considerada como distribuição dessa riqueza criada, e eventuais juros ativados e tributos também
+recebem esse mesmo tratamento. Os gastos com serviços de terceiros e materiais são apropriados
+como insumos. À medida que tais ativos entrem em operação, a geração de resultados desses ativos
+recebe tratamento idêntico aos resultados gerados por qualquer outro ativo adquirido de terceiros;
+portanto, sua depreciação também deve receber igual tratamento.
+Para evitar o desmembramento das despesas de depreciação, na elaboração da DVA, entre os
+componentes que serviram de base para o respectivo registro do ativo construído internamente
+(materiais diversos, mão-de-obra, impostos, aluguéis e juros), os valores gastos nessa construção
+devem, no período da construção, ser tratados como Receitas relativas à construção de ativos
+próprios. Da mesma forma, os componentes de seu custo devem ser alocados na DVA seguindo-se
+suas respectivas naturezas.
+Referido procedimento de reconhecimento dos valores gastos no período como outras receitas,
+além de aproximar do conceito econômico de valor adicionado, evita controles complexos
+adicionais, que podem ser custosos, durante toda a vida útil econômica do ativo.
+Distribuição de lucros relativos a exercícios anteriores
+A Demonstração do Valor Adicionado está estruturada para ser elaborada a partir da
+Demonstração do Resultado do período. Assim, há uma estreita vinculação entre essas duas
+demonstrações e essa vinculação deve servir para sustentação da consistência entre elas. Mas ela
+tem também uma interface com a Demonstração dos Lucros ou Prejuízos Acumulados na parte
+em que movimentações nesta conta dizem respeito à distribuição do resultado do exercício apurado
+na demonstração própria.
+A entidade é livre, dentro dos limites legais, para distribuir seus lucros acumulados, sejam eles
+oriundos do próprio exercício ou de exercícios anteriores. Porém, pela vinculação referida no item
+anterior, os dividendos que compõem a riqueza distribuída pela entidade devem restringir-se
+exclusivamente à parcela relativa aos resultados do próprio período. Dividendos distribuídos
+relativos a lucros de períodos anteriores não são considerados, pois já figuraram como lucros
+retidos naqueles respectivos períodos.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati          13
+        www.estrategiaconcursos.com.br                                                            86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Substituição tributária
+A legislação brasileira, por meio de dispositivos legais próprios, permite a transferência de
+responsabilidade tributária a um terceiro, desde que vinculado ao fato gerador do tributo. Essa
+transferência de responsabilidade, que pode ser total ou parcial e tem como finalidade precípua a
+garantia de recolhimento do tributo, é efetivada de duas formas: progressiva e regressiva.
+A substituição tributária progressiva ocorre com a antecipação do pagamento do tributo que só será
+devido na operação seguinte. Do ponto de vista do substituto tributário (normalmente fabricante
+ou importador), deve-se incluir o valor do “imposto antecipado” no faturamento bruto e depois
+apresentá-lo como dedução desse faturamento para se chegar à receita bruta.
+No caso da substituição tributária regressiva, por exemplo, quando o comerciante realiza operação
+com produtor rural e é responsável pelo recolhimento do tributo, podem ocorrer duas situações:
+no caso de o comerciante ter direito ao crédito na operação seguinte, quando o valor do tributo
+recolhido deve ser tratado como impostos a recuperar, na DVA o valor dos impostos incidentes
+sobre as vendas deve ser considerado pelo valor total, uma vez que foi recolhido pelo próprio
+comerciante; se o comerciante não fizer jus ao crédito do tributo, o valor recolhido deve ser tratado
+como custo dos estoques.
+                                                           ...
+Bem... creio que com o que estudamos até aqui podemos detonar as questões sobre o CPC 09.
+Vamos agora partir para a segunda parte da nossa aula: as questões comentadas. Nessa parte
+visualizaremos na prática como resolver as questões que envolvem cálculos, ou seja, as questões
+em que necessitamos estruturar a DVA. Você vai ver que não há mistério.
+Avante!
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati           14
+        www.estrategiaconcursos.com.br                                                             86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                 QUESTÕES COMENTADAS
+1. (CESPE/Analista/MPE-CE/2020) Com relação à elaboração de demonstrações contábeis de acordo com
+a legislação societária, os princípios fundamentais da contabilidade e os pronunciamentos contábeis do
+Comitê de Pronunciamentos Contábeis (CPC), julgue o próximo item.
+Valor adicionado é definido como a riqueza criada por uma empresa, sendo geralmente medido pela
+diferença entre o valor das vendas e os insumos adquiridos de terceiros, incluindo-se, também, o valor
+adicionado recebido em transferência, ou seja, aquele produzido por terceiros e transferido à entidade.
+Comentários
+Nos termos do CPC 09,
+
+     Valor adicionado representa a riqueza criada pela empresa, de forma geral medida pela
+     diferença entre o valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor
+     adicionado recebido em transferência, ou seja, produzido por terceiros e transferido à entidade.
+
+Gabarito: Certo
+2. (CESPE/Auditor Fiscal da Receita Estadual/SEFAZ-RS/2019) Informações a respeito da riqueza
+econômica gerada por uma entidade e sobre a forma de distribuição dessa riqueza podem ser obtidas
+mediante a análise do(a)
+a) balanço patrimonial.
+b) demonstração das mutações do patrimônio líquido.
+c) demonstração do resultado do exercício.
+d) demonstração dos fluxos de caixa.
+e) demonstração do valor adicionado.
+Comentários
+Questão bem tranquila! Nos termos do CPC 09,
+
+     5. A DVA deve proporcionar aos usuários das demonstrações contábeis informações relativas
+     à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram
+     distribuídas.
+
+Gabarito: E
+
+3. (CESPE/Analista Portuário/EMAP/2018) Com relação à elaboração das principais demonstrações
+contábeis previstas na normatização vigente, julgue o item seguinte.
+A demonstração do valor agregado visa apresentar, em uma perspectiva microeconômica, a contribuição da
+empresa na formação da renda nacional.
+Comentários
+Pessoal, demonstração do valor agregado é outra forma de denominação da DVA. Segundo o CPC 09,
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                15
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+     10. A DVA está fundamentada em conceitos macroeconômicos, buscando apresentar,
+     eliminados os valores que representam dupla-contagem, a parcela de contribuição que a
+     entidade tem na formação do Produto Interno Bruto (PIB). Essa demonstração apresenta o
+     quanto a entidade agrega de valor aos insumos adquiridos de terceiros e que são vendidos ou
+     consumidos durante determinado período.
+
+Observe que a DVA está fundamentada em conceitos macroeconômicos e não microeconômicos.
+
+Gabarito: Errado
+
+4. (CESPE/Analista Administrativo/Contabilidade/EBSERH/2018) Julgue o item seguinte, a respeito da
+elaboração das demonstrações contábeis segundo os pronunciamentos do CPC e a legislação vigente.
+Uma empresa que tenha adquirido insumos de terceiros para seu processo produtivo deve apresentar esses
+valores na seção da demonstração do valor adicionado destinada à demonstração da riqueza criada pela
+entidade.
+Comentários
+Em sua primeira parte, a DVA deve apresentar de forma detalhada a riqueza criada pela entidade. Entre os
+principais componentes da riqueza criada estão apresentados os insumos de terceiros.
+Gabarito: Certo
+
+5. (CESPE/Analista Judiciário/Contabilidade/STM/2018) Tendo como referência a legislação societária e os
+pronunciamentos do Comitê de Pronunciamentos Contábeis, julgue o item a seguir, relativo à elaboração
+de demonstrações contábeis.
+Na demonstração do valor adicionado, a receita com vendas e prestação de serviços deve ser apresentada
+líquida de seus efeitos tributários, uma vez que tributos não constituem receitas efetivas da empresa.
+Comentários
+Venda de mercadorias, produtos e serviços – inclui os valores dos tributos incidentes sobre essas
+receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou
+faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do
+cômputo dessas receitas.
+Gabarito: Errado
+
+6. (CESPE/Analista de Gestão Educacional/Contabilidade/SEDF/2017) Com referência à elaboração de
+demonstrações contábeis, julgue o item seguinte à luz da legislação societária, dos princípios
+fundamentais da contabilidade e dos pronunciamentos contábeis do CPC.
+O custo dos serviços de terceiros recebidos para a execução da atividade fim da entidade representa um
+valor adicionado recebido em transferência, visto ser uma riqueza criada por terceiros.
+Comentários
+Segundo o CPC 09, o valor adicionado recebido em transferência representa a riqueza que não tenha sido
+criada pela própria entidade, e sim por terceiros, e que a ela é transferida, como por exemplo receitas
+financeiras, de equivalência patrimonial, dividendos, aluguel, royalties, etc.
+Já os insumos adquiridos de terceiros abrangem:
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 16
+        www.estrategiaconcursos.com.br                                                                   86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Custo dos produtos, das mercadorias e dos serviços vendidos – inclui os valores das matérias-primas
+adquiridas junto a terceiros e contidas no custo do produto vendido, das mercadorias e dos serviços
+vendidos adquiridos de terceiros; não inclui gastos com pessoal próprio.
+Materiais, energia, serviços de terceiros e outros – inclui valores relativos às despesas originadas da
+utilização desses bens, utilidades e serviços adquiridos junto a terceiros.
+Logo, percebe-se que o custo dos serviços de terceiros recebidos para a execução da atividade fim da
+entidade representa um insumo adquirido de terceiro.
+Gabarito: Errado
+
+7. (CESPE/Contador/FUB/2015) Julgue o item a seguir, com relação aos fatos descritos e seus efeitos nas
+demonstrações contábeis, elaboradas conforme a Lei n.º 6.404/1976 (e alterações posteriores) e os
+pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis (CPC).
+O reconhecimento de amortização, depreciação e exaustão aumenta o valor adicionado líquido produzido
+pela entidade.
+Comentários
+O reconhecimento de amortização, depreciação e exaustão diminui o valor adicionado líquido produzido
+pela entidade.
+Lembre-se da estrutura:
+Valor Adicionado Bruto
+(-) Depreciação, amortização e exaustão
+(=) Valor adicionado líquido produzido pela entidade
+Gabarito: Errado
+
+8. (CESPE/Contador/FUB/2015) Na demonstração do valor adicionado, o reconhecimento de resultado
+positivo de equivalência patrimonial aumenta o valor adicionado recebido em transferência.
+Comentários
+Veja que o simples conhecimento da estrutura da DVA é suficiente para “detonar” questões sobre essa
+demonstração.
+
+      5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)
+
+      6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA
+
+      6.1) Resultado de equivalência patrimonial
+
+      6.2) Receitas financeiras
+
+      6.3) Outras
+
+      7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)
+
+Gabarito: Certo
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               17
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+9. (CESPE/Analista/Atuarial/MPU/2015) Com relação à divulgação e análise das demonstrações contábeis,
+julgue o próximo item.
+Os recursos aplicados na construção de ativos para uso da entidade correspondem a fato permutativo do
+ativo e não serão evidenciados na demonstração do valor adicionado (DVA).
+Comentários
+De fato, os recursos aplicados na construção de ativos para uso da entidade correspondem a fato
+permutativo do ativo, pois não há alteração do PL. No entanto, esses recursos são sim evidenciados
+na DVA. Segundo o CPC 09,
+Outras receitas representam os valores que sejam oriundos, principalmente, de baixas por alienação
+de ativos não circulantes, tais como resultados na venda de imobilizado, de investimentos, e outras
+transações incluídas na demonstração do resultado do exercício que não configuram
+reconhecimento de transferência à entidade de riqueza criada por outras entidades. Diferentemente
+dos critérios contábeis, também incluem valores que não transitam pela demonstração do resultado,
+como, por exemplo, aqueles relativos à construção de ativos para uso próprio da entidade e aos
+juros pagos ou creditados que tenham sido incorporados aos valores dos ativos de longo prazo
+(normalmente, imobilizados).
+Além disso, o CPC 09 destaca o seguinte:
+A construção de ativos dentro da própria empresa para seu próprio uso é procedimento comum. Nessa
+construção diversos fatores de produção são utilizados, inclusive a contratação de recursos externos (por
+exemplo, materiais e mão-de-obra terceirizada) e a utilização de fatores internos como mão-de-obra, com os
+consequentes custos que essa contratação e utilização provocam. Para elaboração da DVA, essa construção
+equivale a produção vendida para a própria empresa, e por isso seu valor contábil integral precisa ser
+considerado como receita. A mão-de-obra própria alocada é considerada como distribuição dessa riqueza
+criada, e eventuais juros ativados e tributos também recebem esse mesmo tratamento. Os gastos com
+serviços de terceiros e materiais são apropriados como insumos.
+Gabarito: Errado
+
+10. (CESPE/Analista Administrativo/Ciências Contábeis/ANTAQ/2014) Acerca da elaboração de
+demonstrações contábeis, julgue o item.
+ O valor adicionado por uma empresa é obtido pela diferença entre a receita líquida obtida e o custo dos
+insumos fornecidos por terceiros.
+Comentários
+Valor Adicionado: representa a riqueza criada pela empresa, de forma geral medida pela diferença entre o
+valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor adicionado recebido em
+transferência, ou seja, produzido por terceiros e transferido à entidade.
+Lembre-se:
+Venda de mercadorias, produtos e serviços – inclui os valores dos tributos incidentes sobre essas
+receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou
+faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do
+cômputo dessas receitas.
+Gabarito: Errado
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               18
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+A tabela a seguir reúne dados referentes à formação e distribuição de riqueza de determinada empresa nos
+exercícios de 2012 e 2013.
+
+Com base nesses dados, julgue os itens seguintes, referente à demonstração do valor adicionado.
+11. (CESPE/Especialista/Contabilidade/ANATEL/2014) O total do valor adicionado a distribuir no ano de
+2013 é igual a R$ 15.700.000.
+Elaborando a DVA de 2013, temos:
+                                       Demonstração do Valor Adicionado
+                                         DESCRIÇÃO
+       1 – RECEITAS                                                                        30.600.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                      31.100.000,00
+       1.2 Provisão para redução ao valor recuperável de contas a receber                   (500.000,00)
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                 12.700.000,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 Custo dos produtos, mercadorias e serviços vendidos                              7.800.000,00
+       2.2 Materiais, energia, serviços de terceiros e outros                               4.900.000,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                    17.900.000,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                              4.100.000,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          13.800.000,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                       1.900.000,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       15.700.000,00
+Gabarito: Certo
+
+12. (CESPE/Especialista/Contabilidade/ANATEL/2014) O total do valor adicionado líquido produzido pela
+entidade no ano de 2012 foi superior a R$ 13.000.000.
+Comentários
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   19
+        www.estrategiaconcursos.com.br                                                                     86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Elaborando a DVA de 2012, temos:
+                                       Demonstração do Valor Adicionado
+                                         DESCRIÇÃO
+       1 – RECEITAS                                                                        26.600.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                      27.000.000,00
+       1.2 Provisão para redução ao valor recuperável de contas a receber                   (400.000,00)
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                 10.900.000,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 Custo dos produtos, mercadorias e serviços vendidos                              6.700.000,00
+       2.2 Materiais, energia, serviços de terceiros e outros                               4.200.000,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                    15.700.000,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                              3.600.000,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          12.100.000,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                       1.700.000,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       13.800.000,00
+Logo, podemos observar que o total do valor adicionado líquido produzido pela entidade no ano de 2012 foi
+inferior a R$ 13.000.000.
+Gabarito: Errado
+
+13. (CESPE/Contador/CADE/2014) No que concerne a demonstrações contábeis, julgue o item seguinte.
+Na segunda parte da demonstração do valor adicionado, em que são apresentadas as destinações da riqueza
+obtida pela entidade, um dos componentes desse grupo é o pagamento de impostos, taxas e contribuições
+por parte tanto da empresa quanto a parcela retida dos empregados.
+Comentários
+Conforme estudamos:
+Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição social sobre
+o lucro, contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do Trabalho) que
+sejam ônus do empregador (cota patronal), bem como os demais impostos e contribuições a que
+a empresa esteja sujeita. Para os impostos compensáveis, tais como ICMS, IPI, PIS e COFINS, devem
+ser considerados apenas os valores devidos ou já recolhidos, e representam a diferença entre os
+impostos e contribuições incidentes sobre as receitas e os respectivos valores incidentes sobre os
+itens considerados como “insumos adquiridos de terceiros”.
+Logo, a parcela de impostos, taxas e contribuições retida dos empregados não está contida na segunda parte
+da DVA.
+Gabarito: Errado
+
+14. (CESPE/Contador/MTE/2014) Considerando a legislação vigente e os pronunciamentos do Comitê de
+Pronunciamentos Contábeis, julgue o item que se segue, relativo aos procedimentos utilizados para a
+elaboração das demonstrações contábeis.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   20
+        www.estrategiaconcursos.com.br                                                                     86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+A demonstração do valor adicionado apresenta a posição estática da empresa, integra o balanço social e visa
+demonstrar a riqueza gerada pela entidade e a sua distribuição no encerramento de determinado período.
+Comentários
+O único erro do item está em afirmar que a DVA é uma demonstração estática. Assim como a DRE, a DVA é
+uma demonstração dinâmica.
+Gabarito: Errado
+
+15. (CESPE/Especialista/Ciências Contábeis/ANTT/2013) Julgue o seguinte item, relativo às demonstrações
+contábeis previstas na Lei das Sociedades por Ações e nos pronunciamentos do CPC.
+Para fins de levantamento da demonstração de valor adicionado, o valor do FGTS deverá integrar o valor
+distribuído aos empregados (pessoal), mas o valor da cota patronal do INSS deverá integrar o montante de
+impostos, taxas e contribuições.
+Comentários
+Vamos relembrar:
+Pessoal – valores apropriados ao custo e ao resultado do exercício na forma de:
+Remuneração direta – representada pelos valores relativos a salários, 13º salário, honorários da
+administração (inclusive os pagamentos baseados em ações), férias, comissões, horas extras,
+participação de empregados nos resultados, etc.
+Benefícios – representados pelos valores relativos a assistência médica, alimentação, transporte,
+planos de aposentadoria, etc.
+FGTS – representado pelos valores depositados em conta vinculada dos empregados.
+Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição social sobre
+o lucro, contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do Trabalho) que
+sejam ônus do empregador (cota patronal), bem como os demais impostos e contribuições a que
+a empresa esteja sujeita. Para os impostos compensáveis, tais como ICMS, IPI, PIS e COFINS, devem
+ser considerados apenas os valores devidos ou já recolhidos, e representam a diferença entre os
+impostos e contribuições incidentes sobre as receitas e os respectivos valores incidentes sobre os
+itens considerados como “insumos adquiridos de terceiros”.
+Gabarito: Certo
+
+16. (CESPE/Analista Judiciário/Contabilidade/TRT17/2013) Com relação à avaliação de itens patrimoniais
+e ao levantamento das demonstrações de resultado previstas na legislação societária, julgue o item
+seguinte.
+Se uma empresa apurou, em determinado período, faturamento bruto total de R$ 300 mil, tendo gasto R$
+30 mil com IPI e R$ 50 mil com ICMS, reconhecerá, em sua DVA, na linha venda de mercadorias, produtos e
+serviços o valor de R$ 250.000.
+Comentários
+Conforme estudamos:
+Venda de mercadorias, produtos e serviços – inclui os valores dos tributos incidentes sobre essas
+receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                21
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do
+cômputo dessas receitas.
+Logo, no caso em tela, a empresa reconhecerá, em sua DVA, na linha venda de mercadorias, produtos e
+serviços o valor de R$ 300.000,00, correspondente ao faturamento bruto.
+Gabarito: Errado
+
+17. (FCC/Analista/Sanasa Campinas/2019) Considerando a Lei n° 6.404/1976 e suas alterações e as Normas
+Brasileiras de Contabilidade Técnica Geral – NBC TG 09 – Demonstração do Valor Adicionado e NBC TG 26
+(R5) – Apresentação das Demonstrações Contábeis, considere:
+I. A Demonstração do Valor Adicionado (DVA) deve ser elaborada por toda empresa constituída sob a forma
+jurídica de Sociedade por Ações.
+II. A distribuição da riqueza criada pela empresa deve ser detalhada de forma mínima entre: Pessoal e
+Encargos; Impostos, taxas e contribuições; juros e aluguéis; Juros sobre capital próprio e dividendos; e lucros
+retidos/prejuízo do exercício.
+III. A Formação de Riqueza das entidades é formada por: Receitas; Insumos adquiridos de terceiros; e valor
+adicionado recebido em transferência.
+IV. Na distribuição das riquezas os valores depositados no Fundo de Garantia por Tempo de Serviço (FGTS)
+devem ser registrados no grupo Impostos, taxas e contribuições.
+Está correto o que consta APENAS de
+a) I e II.
+b) I, III e IV.
+c) II e III.
+d) II, III e IV.
+e) III e IV.
+Comentários
+I. Errado. Segundo a Lei n. 6.404/1976,
+Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração mercantil da
+companhia, as seguintes demonstrações financeiras, que deverão exprimir com clareza a situação do
+patrimônio da companhia e as mutações ocorridas no exercício:
+V – se companhia aberta, demonstração do valor adicionado.
+Logo, observa-se que a companhia precisa ser aberta. Não são todas as S.A.
+II. Certo. Segundo o CPC 09,
+6. A distribuição da riqueza criada deve ser detalhada, minimamente, da seguinte forma: (a) pessoal e
+encargos; (b) impostos, taxas e contribuições; (c) juros e aluguéis; (d) juros sobre o capital próprio (JCP) e
+dividendos; (e) lucros retidos/prejuízos do exercício.
+III. Certo. Segundo o CPC 09,
+14. A DVA, em sua primeira parte, deve apresentar de forma detalhada a riqueza criada pela entidade.
+Os principais componentes da riqueza criada estão apresentados a seguir nos seguintes itens:
+
+               Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             22
+               www.estrategiaconcursos.com.br                                                               86
+
+                                            
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Receitas, Insumos adquiridos de terceiros e Valor adicionado recebido em transferência.
+IV. Errado. Os valores depositados no Fundo de Garantia por Tempo de Serviço (FGTS) devem ser registrados
+no grupo "Pessoal".
+Gabarito: C
+
+18. (FCC/Analista de Fomento/Contador/AFAP/2019) A Demonstração do resultado do ano de 2017 da
+empresa Só Negócios S.A. é apresentada a seguir, com os valores expressos em reais.
+
+Com base na demonstração acima e sabendo que o valor dos tributos recuperáveis referentes aos produtos
+comercializados em 2017 foi 6.750 (em reais), o valor adicionado total a distribuir pela empresa no período
+foi, em reais,
+a) 75.750.
+b) 73.750.
+c) 39.500.
+d) 67.000.
+e) 31.000
+Comentários
+Elaborando a DVA, temos:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                23
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                        120.000,00
+       1.1) Vendas de mercadorias, produtos e serviços                                     120.000,00
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                  44.250,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1) Custos dos produtos, das mercadorias e dos serviços vendidos                   44.250,00*
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                     75.750,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                               8.750,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                           67.000,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                            0,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                        67.000,00
+* 37.500 (CMV) +6.750 (tributos recuperáveis)
+Gabarito: D
+
+19. (FCC/Analista Judiciário/Contabilidade/TRE-SP/2017) A Demonstração do Valor Adicionado − DVA tem
+por objetivo evidenciar a riqueza gerada pela empresa em determinado período e a forma como foi
+distribuída. Para elaborar a sua DVA, a Cia. Aberta obteve algumas informações apresentadas abaixo.
+                                                                 (em R$)
+Receita de Vendas                                                700.000,00
+Despesa de salários                                              50.000,00
+FGTS depositado nas contas dos funcionários                      4.000,00
+ICMS incidente sobre as vendas                                   105.000,00
+ICMS incidente sobre as mercadorias vendidas adquiridas de terceiros
+                                                        30.000,00
+INSS, parte empregador                                           11.000,00
+Com base nessas informações, a riqueza distribuída na forma de impostos, taxas e contribuições foi, em
+reais,
+a) 150.000,00.
+b) 116.000,00.
+c) 120.000,00.
+d) 86.000,00.
+e) 90.000,00.
+Comentários
+A riqueza distribuída na forma de impostos foi:
+(+) ICMS s/ Vendas                                               105.000
+(-) ICMS s/ Mercadorias vendidas adquiridas de terceiros (30.000)
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                24
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+(+) INSS, parte empregador                                       11.000
+Total                                                            86.000,00
+Gabarito: D
+
+20. (FCC/Técnico Judiciário/Contabilidade/TRT-MG/2015) A parcela da riqueza obtida por uma empresa
+destinada à remuneração de Capitais de Terceiros em um determinado período é evidenciada na
+Demonstração
+a) dos Fluxos de Caixa.
+b) do Valor Adicionado.
+c) de Lucros ou Prejuízos Acumulados.
+d) do Resultado do Exercício.
+e) das Mutações do Patrimônio Líquido.
+Comentários
+Questão bem tranquila. Segundo o CPC 09, a Demonstração do Valor Adicionado (DVA) deve proporcionar
+aos usuários das demonstrações contábeis informações relativas à riqueza criada pela entidade em
+determinado período e a forma como tais riquezas foram distribuídas.
+A DVA é dividida em duas partes. Em sua primeira parte, a DVA deve apresentar de forma detalhada a riqueza
+criada pela entidade. Na segunda parte deve ser apresentada de forma detalhada como a riqueza obtida
+pela entidade foi distribuída.
+Gabarito: B
+
+21. (FCC/Analista de Controle Externo/Auditoria Governamental/TCE-CE/2015) A empresa Produtos
+Conscientes S.A. trabalha na comercialização de produtos naturais e apresentou a seguinte demonstração
+do seu resultado referente ao ano de 2014, com os valores expressos em reais:
+
+Sabe-se que, quando da aquisição dos produtos que foram vendidos em 2014, estavam incluídos no preço
+de compra tributos recuperáveis no valor de R$ 35.000,00. O valor dos tributos incidentes sobre as vendas
+do ano foi R$ 120.000,00. Com base nestas informações, o Valor Adicionado a Distribuir gerado pela Produtos
+Conscientes S.A. no ano de 2014 foi, em reais,
+a) 360.000,00.
+b) 295.000,00.
+c) 205.000.00.
+d) 240.000,00.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                25
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+e) 210.000,00.
+Comentários
+Elaborando a DVA, temos:
+                                                   Demonstração do Valor Adicionado
+                                                        DESCRIÇÃO
+          1 – RECEITAS                                                                             700.000,00
+          1.1) Vendas de mercadorias, produtos e serviços                                         700.000,00*
+          2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                      375.000,00
+            (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+          2.1) Custos dos produtos, das mercadorias e dos serviços vendidos                      375.000,00**
+          3 – VALOR ADICIONADO BRUTO (1-2)                                                         325.000,00
+          4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                                   30.000,00
+          5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                               295.000,00
+          6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                                 0,00
+          7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                            295.000,00
+* 580.000 (receita líquida) + 120.000 (tributos incidentes sobre a receita bruta)
+** 340.000 (CMV) +35.000 (tributos recuperáveis)
+Lembre-se:
+Venda de mercadorias, produtos e serviços – inclui os valores dos tributos incidentes sobre essas receitas
+(por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou faturamento bruto, mesmo
+quando na demonstração do resultado tais tributos estejam fora do cômputo dessas receitas.
+Nos valores dos custos dos produtos e mercadorias vendidos, materiais, serviços, energia, etc. consumidos,
+devem ser considerados os tributos incluídos no momento das compras (por exemplo, ICMS, IPI, PIS e
+COFINS), recuperáveis ou não. Esse procedimento é diferente das práticas utilizadas na demonstração do
+resultado.
+Gabarito: B
+
+22. (FCC/Analista/Contabilidade/CNMP/2015) A Cia. Adicionadora é uma empresa comercial e apresentou
+as seguintes informações referentes ao ano de 2013, com os valores expressos em reais:
+Receita Líquida de Vendas .000,00
+(−) Custo das Mercadorias Vendidas ................................ (170.000,00)
+(=) Lucro Bruto .000,00
+(−) Despesas operacionais
+Depreciação ................................................................... (15.000,00)
+Salários ......................................................................... (10.000,00)
+(=) Lucro antes do IR e CSLL .000,00
+(−) IR e CSLL.................................................................. (21.000,00)
+(=) Lucro Líquido .000,00
+
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    26
+            www.estrategiaconcursos.com.br                                                                      86
+
+                                                 
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+O valor dos tributos recuperáveis que estavam incluídos no valor da compra dos produtos comercializados
+no ano de 2013 foi de R$ 17.500,00, e o valor dos tributos incidentes sobre a receita bruta de vendas do ano
+totalizaram R$ 60.000,00. Com base nestas informações, o Valor Adicionado a Distribuir gerado pela Cia.
+Adicionadora no ano de 2013 foi, em reais,
+a) 105.000,00.
+b) 147.500,00.
+c) 102.500,00.
+d) 120.000.00.
+e) 162.500,00.
+Comentários
+Elaborando a DVA, temos:
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                          350.000,00
+       1.1) Vendas de mercadorias, produtos e serviços                                      350.000,00*
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                   187.500,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1) Custos dos produtos, das mercadorias e dos serviços vendidos                   187.500,00**
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                      162.500,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                                15.000,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                            147.500,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                              0,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                         147.500,00
+* 290.000 (receita líquida) + 60.000 (tributos incidentes sobre a receita bruta)
+** 170.000 (CMV) + 17.500 (tributos recuperáveis)
+Gabarito: B
+
+23. (FCC/Agente Fiscal de Rendas/SEFAZ-SP/2013) A Demonstração do Valor Adicionado (DVA) deve
+evidenciar a distribuição da riqueza gerada pela entidade. Os principais componentes dessa distribuição a
+serem evidenciados são:
+a) Pessoal; Impostos, taxas e contribuições; Insumos adquiridos de terceiros.
+b) Impostos, taxas e contribuições; Remuneração de capitais próprios e de terceiros; Valor Adicionado
+recebido em transferência.
+c) Pessoal; Impostos, taxas e contribuições; Remuneração de capitais próprios; Remuneração de capitais de
+terceiros.
+d) Pessoal; Remuneração de capitais de terceiros; Remuneração dos sócios; Receita financeira.
+e) Pessoal; Impostos, taxas e contribuições; Remuneração de capitais próprios e de terceiros; Valor
+Adicionado recebido em transferência.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  27
+        www.estrategiaconcursos.com.br                                                                    86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Comentários
+Para fixar! A segunda parte da DVA deve apresentar de forma detalhada como a riqueza obtida pela
+entidade foi distribuída. Os principais componentes dessa distribuição estão apresentados a seguir:
+Pessoal – valores apropriados ao custo e ao resultado do exercício na forma de:
+Remuneração direta – representada pelos valores relativos a salários, 13º salário, honorários da
+administração (inclusive os pagamentos baseados em ações), férias, comissões, horas extras,
+participação de empregados nos resultados, etc.
+Benefícios – representados pelos valores relativos a assistência médica, alimentação, transporte,
+planos de aposentadoria, etc.
+FGTS – representado pelos valores depositados em conta vinculada dos empregados.
+Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição social sobre o
+lucro, contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do Trabalho) que
+sejam ônus do empregador (cota patronal), bem como os demais impostos e contribuições a que
+a empresa esteja sujeita. Para os impostos compensáveis, tais como ICMS, IPI, PIS e COFINS, devem
+ser considerados apenas os valores devidos ou já recolhidos, e representam a diferença entre os
+impostos e contribuições incidentes sobre as receitas e os respectivos valores incidentes sobre os
+itens considerados como “insumos adquiridos de terceiros”.
+Federais – inclui os tributos devidos à União, inclusive aqueles que são repassados no todo ou em
+parte aos Estados, Municípios, Autarquias, etc., tais como: IRPJ, CSSL, IPI, CIDE, PIS, COFINS. Inclui
+também a contribuição sindical patronal.
+Estaduais – inclui os tributos devidos aos Estados, inclusive aqueles que são repassados no todo ou
+em parte aos Municípios, Autarquias, etc., tais como o ICMS e o IPVA.
+Municipais – inclui os tributos devidos aos Municípios, inclusive aqueles que são repassados no todo
+ou em parte às Autarquias, ou quaisquer outras entidades, tais como o ISS e o IPTU.
+Remuneração de capitais de terceiros - valores pagos ou creditados aos financiadores externos de
+capital.
+Juros – inclui as despesas financeiras, inclusive as variações cambiais passivas, relativas a quaisquer
+tipos de empréstimos e financiamentos junto a instituições financeiras, empresas do grupo ou
+outras formas de obtenção de recursos. Inclui os valores que tenham sido capitalizados no período.
+Aluguéis – inclui os aluguéis (inclusive as despesas com arrendamento operacional) pagos ou
+creditados a terceiros, inclusive os acrescidos aos ativos.
+Outras – inclui outras remunerações que configurem transferência de riqueza a terceiros, mesmo
+que originadas em capital intelectual, tais como royalties, franquia, direitos autorais, etc.
+Remuneração de capitais próprios - valores relativos à remuneração atribuída aos sócios e
+acionistas.
+Juros sobre o capital próprio (JCP) e dividendos – inclui os valores pagos ou creditados aos sócios e
+acionistas por conta do resultado do período, ressalvando-se os valores dos JCP transferidos para
+conta de reserva de lucros. Devem ser incluídos apenas os valores distribuídos com base no
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             28
+        www.estrategiaconcursos.com.br                                                               86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+resultado do próprio exercício, desconsiderando-se os dividendos distribuídos com base em lucros
+acumulados de exercícios anteriores, uma vez que já foram tratados como “lucros retidos” no
+exercício em que foram gerados.
+Lucros retidos e prejuízos do exercício – inclui os valores relativos ao lucro do exercício destinados
+às reservas, inclusive os JCP quando tiverem esse tratamento; nos casos de prejuízo, esse valor deve
+ser incluído com sinal negativo.
+As quantias destinadas aos sócios e acionistas na forma de JCP, independentemente de serem registradas
+como passivo (JCP a pagar) ou como reserva de lucros, devem ter o mesmo tratamento dado aos dividendos
+no que diz respeito ao exercício a que devem ser imputados.
+Gabarito: C
+
+24. (FCC/Agente de Fiscalização Financeira/TCE-SP/2012) Na elaboração da Demonstração do Valor
+Adicionado, de elaboração obrigatória, a partir de 1º de janeiro de 2008, para as companhias abertas,
+a) a receita financeira recebida pela entidade deve ser computada na apuração do Valor Adicionado Bruto.
+b) o valor dos insumos adquiridos pela companhia devem ser registrados pelo seu custo de aquisição total,
+sendo incluídos neste os tributos incidentes sobre a sua compra, sejam recuperáveis ou não.
+c) no cômputo do Valor Adicionado Bruto, devem ser excluídos os valores relativos à depreciação dos bens
+classificados no Ativo Imobilizado.
+d) os valores de tributos devidos pela companhia devem integrar a parcela do Valor Adicionado distribuída
+ao Governo, sem a compensação de eventuais créditos tributários classificados como tributos a recuperar.
+e) os lucros retidos pela companhia, provenientes do lucro líquido do exercício corrente, não devem figurar
+como remuneração dos sócios na destinação do Valor Adicionado a Distribuir.
+Comentários
+Vamos analisar cada uma das alternativas.
+a. Errado. A receita financeira recebida pela entidade deve ser computada como valor adicionado recebido
+em transferência, que não integra o valor adicionado bruto.
+b. Certo. Conforme estudamos, nos valores dos custos dos produtos e mercadorias vendidos,
+materiais, serviços, energia, etc. consumidos, devem ser considerados os tributos incluídos no
+momento das compras (por exemplo, ICMS, IPI, PIS e COFINS), recuperáveis ou não. Esse
+procedimento é diferente das práticas utilizadas na demonstração do resultado.
+c. Errado. A depreciação é computada após o valor adicionado bruto, quando da determinação do valor
+adicionado líquido.
+d. Errado. Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição
+social sobre o lucro, contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do
+Trabalho) que sejam ônus do empregador (cota patronal), bem como os demais impostos e
+contribuições a que a empresa esteja sujeita. Para os impostos compensáveis, tais como ICMS, IPI,
+PIS e COFINS, devem ser considerados apenas os valores devidos ou já recolhidos, e representam
+a diferença entre os impostos e contribuições incidentes sobre as receitas e os respectivos valores
+incidentes sobre os itens considerados como “insumos adquiridos de terceiros”.
+e. Errado. Os lucros retidos pela companhia, provenientes do lucro líquido do exercício corrente,
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                29
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+devem figurar como remuneração dos sócios na destinação do Valor Adicionado a Distribuir
+(Remuneração de capitais próprios - valores relativos à remuneração atribuída aos sócios e
+acionistas).
+Gabarito: B
+
+25. (FCC/Agente Fiscal de Rendas/SEFAZ-SP/2009) O valor da receita de equivalência patrimonial recebida
+pela empresa de controlada deve ser apresentada na DVA como
+a) distribuição de riqueza - remuneração do capital de terceiros.
+b) receita criada pela entidade - outras receitas.
+c) receitas não-operacionais - demais.
+d) valor adicionado recebido em transferência.
+e) distribuição de riqueza - remuneração de capital próprio.
+Comentários
+O valor da receita de equivalência patrimonial recebida pela empresa de controlada deve ser apresentada
+na DVA como valor adicionado recebido em transferência.
+Conforme estudamos, o valor adicionado recebido em transferência representa a riqueza que não tenha sido
+criada pela própria entidade, e sim por terceiros, e que a ela é transferida, como, por exemplo, receitas
+financeiras, de equivalência patrimonial, dividendos, aluguel, royalties, etc.
+Gabarito: D
+
+26. (FCC/Técnico Judiciário/TJ-AP/2009) Na Demonstração do Valor Adicionado, constituem itens de
+distribuição do valor adicionado
+a) as receitas e as despesas de aluguéis, as despesas de FGTS e os juros pagos.
+b) as despesas de juros, as reversões de provisão para crédito de liquidação duvidosa e as perdas de ativos.
+c) as despesas de depreciação do período, as receitas de juros e os resultados de equivalência patrimonial.
+d) os benefícios pagos a empregados, os juros sobre capital próprio e os lucros retidos.
+e) os gastos com serviços de terceiros, os valores relativos à construção de ativos próprios e as amortizações.
+Comentários
+Vamos analisar cada uma das alternativas.
+a. Errado. As receitas de aluguéis correspondem ao Valor Adicionado recebido em transferência.
+As despesas de aluguéis correspondem à Distribuição do Valor Adicionado – Remuneração de capitais de
+terceiros.
+As despesas de FGTS correspondem à Distribuição do Valor Adicionado – Pessoal.
+Os juros pagos correspondem à Distribuição do Valor Adicionado – Remuneração de capitais de terceiros.
+b. Errado. As despesas de juros correspondem à Distribuição do Valor Adicionado – Remuneração de capitais
+de terceiros.
+As reversões de provisão para crédito de liquidação duvidosa correspondem a Receitas.
+As perdas de ativos correspondem a Insumos Adquiridos de Terceiros.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    30
+        www.estrategiaconcursos.com.br                                                                      86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+c. Errado. As despesas de depreciação do período são evidenciadas em item próprio da DVA: Item 4 –
+Depreciação, Exaustão e Amortização.
+As receitas de juros correspondem ao Valor Adicionado recebido em transferência.
+Os resultados de equivalência patrimonial correspondem ao Valor Adicionado recebido em transferência.
+d. Certo. Todos os itens citados nessa alternativa correspondem à Distribuição do Valor Adicionado.
+e. Errado. Os gastos com serviços de terceiros correspondem a Insumos Adquiridos de Terceiros.
+Os valores relativos à construção de ativos próprios correspondem a Receitas.
+As despesas de amortização do período são evidenciadas em item próprio da DVA: Item 4 – Depreciação,
+Exaustão e Amortização.
+Gabarito: D
+
+27. (FCC/Contador/INFRAERO/2009) Em relação à Demonstração do Valor Adicionado, é correto afirmar:
+a) Nos valores dos materiais consumidos e incluídos no custo dos produtos, apresentados no grupo de
+insumos adquiridos de terceiros, devem ser considerados na aquisição apenas os tributos recuperáveis.
+b) A demonstração do valor adicionado deve ser consistente com a demonstração do resultado e conciliada
+em registros auxiliares mantidos pela entidade.
+c) No item relativo à distribuição do valor adicionado, deve constar apenas os valores pagos aos acionistas,
+a título de juros sobre o capital próprio ou dividendos.
+d) Como são demonstrações de publicação opcional não estão sujeitas a revisão de auditoria, como aquelas
+que são de caráter obrigatório, mesmo que a entidade seja uma companhia aberta.
+e) As informações contábeis contidas na Demonstração do Valor Adicionado são de responsabilidade técnica
+do Conselho de Administração da empresa.
+Comentários
+Vamos analisar cada uma das alternativas.
+a. Errado. Materiais, energia, serviços de terceiros e outros – inclui valores relativos às despesas
+originadas da utilização desses bens, utilidades e serviços adquiridos junto a terceiros.
+Nos valores dos custos dos produtos e mercadorias vendidos, materiais, serviços, energia, etc.
+consumidos, devem ser considerados os tributos incluídos no momento das compras (por exemplo,
+ICMS, IPI, PIS e COFINS), recuperáveis ou não. Esse procedimento é diferente das práticas utilizadas
+na demonstração do resultado.
+b. Certa. As informações necessárias para a elaboração da DVA são extraídas da contabilidade, especialmente
+da Demonstração do Resultado do Exercício e, portanto, há forte vinculação entre essas demonstrações.
+Assim, essa vinculação acaba servindo como meio de sustentação da consistência que deve existir entre elas.
+c. Errado. Conforme estudamos, a distribuição do valor adicionado pode ser para pessoal, governo,
+remuneração de capitais de terceiros e remuneração de capitais próprios.
+d. Errado. A DVA é obrigatória para as companhias abertas e, portanto, estão sujeitas ao crivo da auditoria
+independente.
+e. Errado. As informações contábeis contidas na DVA são de responsabilidade técnica de profissional contábil
+devidamente registrado no órgão de classe (Conselho Regional de Contabilidade).
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 31
+        www.estrategiaconcursos.com.br                                                                   86
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+Gabarito: B
+
+28. (FCC/Contador/INFRAERO/2011) Na Demonstração do Valor Adicionado,
+a) o valor das vendas de mercadorias, produtos e serviços não inclui o valor dos tributos recuperáveis.
+b) a constituição de provisão para créditos de liquidação duvidosa deve ser somada ao valor das vendas para
+determinar o valor total das receitas da entidade.
+c) as receitas financeiras auferidas pela entidade integram o cálculo da riqueza criada pela própria entidade.
+d) os impostos e contribuições não cumulativos, na distribuição do valor adicionado, devem ser calculados
+somente pelos valores devidos na operação de venda.
+e) o resultado positivo da equivalência patrimonial integra o valor adicionado transferido por terceiros para
+a entidade.
+Comentários
+Vamos analisar cada uma das alternativas.
+a. Errado. Conforme estudamos, o item Venda de mercadorias, produtos e serviços inclui os valores dos
+tributos incidentes sobre essas receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao
+ingresso bruto ou faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam
+fora do cômputo dessas receitas.
+b. Errado. A constituição da PCLD deve diminuir as receitas. Destaca-se que a reversão da PCLD deve
+somar o valor total das receitas da entidade.
+c. Errado. As receitas financeiras integram o valor adicionado recebido em transferência.
+d. Errado. Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição
+social sobre o lucro, contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do
+Trabalho) que sejam ônus do empregador (cota patronal), bem como os demais impostos e
+contribuições a que a empresa esteja sujeita. Para os impostos compensáveis, tais como ICMS, IPI,
+PIS e COFINS, devem ser considerados apenas os valores devidos ou já recolhidos, e representam
+a diferença entre os impostos e contribuições incidentes sobre as receitas e os respectivos valores
+incidentes sobre os itens considerados como “insumos adquiridos de terceiros”.
+e. Certo. O valor adicionado recebido em transferência representa a riqueza que não tenha sido criada pela
+própria entidade, e sim por terceiros, e que a ela é transferida, como, por exemplo, receitas financeiras, de
+equivalência patrimonial, dividendos, aluguel, royalties, etc.
+Gabarito: E
+
+29. (FCC/Auditor Fiscal da Receita Estadual/SEFAZ-RJ/2014) Determinada empresa comercial apresentava
+as seguintes informações referentes ao primeiro semestre de 2013:
+Receita Bruta de Vendas .............................................. R$ 500.000,00
+(-) Impostos sobre vendas ............................................ R$ 90.000,00
+(=) Receita Líquida .................................................... R$ 410.000,00
+(-) Custo das Mercadorias Vendidas .............................. R$ 220.000,00
+(=) Lucro Bruto ........................................................... R$ 190.000,00
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                32
+           www.estrategiaconcursos.com.br                                                                  86
+
+                                             
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+(-) Despesas operacionais
+       Despesa de depreciação ....................................... R$ 20.000,00
+       Despesa com salários ........................................... R$ 10.000,00
+(=) Lucro antes do IR e CSLL ........................................ R$ 160.000,00
+(-) IR e CSLL ................................................................ R$ 24.000,00
+(=) Lucro Líquido ........................................................ R$ 136.000,00
+Sabe-se que o valor dos tributos recuperáveis referentes às mercadorias comercializadas no primeiro
+semestre foi R$ 30.000,00 e, além da obrigação assumida com fornecedores, nenhum gasto adicional foi
+necessário para colocar as mercadorias em condições de serem vendidas. Com base nestas informações, o
+Valor Adicionado a Distribuir gerado pela empresa, no primeiro semestre de 2013, foi
+a) R$ 230.000,00.
+b) R$ 410.000,00.
+c) R$ 190.000,00.
+d) R$ 280.000,00.
+e) R$ 250.000,00.
+Comentários
+Pessoal, não podemos nos esquecer que na DVA o valor dos tributos recuperáveis deve ser somado ao custo
+das mercadorias vendidas.
+Elaborando a DVA, temos:
+                                                 Demonstração do Valor Adicionado
+                                                      DESCRIÇÃO
+          1 – RECEITAS                                                                        500.000,00
+          1.1) Vendas de mercadorias, produtos e serviços                                     500.000,00
+          2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                 250.000,00
+            (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+          2.1) Custos dos produtos, das mercadorias e dos serviços vendidos                   250.000,00
+          3 – VALOR ADICIONADO BRUTO (1-2)                                                    250.000,00
+          4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                              20.000,00
+          5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          230.000,00
+          6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                            0,00
+          7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       230.000,00
+Poderíamos parar por aqui. Vamos ver como ficaria a distribuição do valor adicionado.
+         8 – DISTRIBUIÇÃO DO VALOR ADICIONADO                                                 230.000,00
+         8.1) Pessoal                                                                          10.000,00
+         8.2) Impostos, taxas e contribuições                                                 84.000,00*
+         8.3) Remuneração de capitais próprios                                                136.000,00
+         8.3.1 – Lucros retidos                                                               136.000,00
+
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                33
+           www.estrategiaconcursos.com.br                                                                  86
+
+                                               
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+* 90.000,00 (impostos s/vendas) – 30.000,00 (tributos recuperáveis) + 24.000,00 (IR e CSLL)
+Gabarito: A
+
+30. (FCC/Analista Judiciário/Contabilidade/TRT20/2011) Na elaboração da Demonstração do Valor
+Adicionado (DVA) são identificados como Valor Adicionado Recebido Em Transferência:
+a) as receitas financeiras obtidas e os dividendos recebidos.
+b) os resultados na venda de imobilizados, as depreciações e as amortizações.
+c) os royalties recebidos e os insumos adquiridos de terceiros.
+d) os serviços profissionais contratados de terceiros e os aluguéis obtidos.
+e) os impostos recuperáveis e as recuperações de perdas.
+Comentários
+Na elaboração da DVA são identificados como Valor Adicionado Recebido Em Transferência:
+Resultado de equivalência patrimonial – o resultado da equivalência pode representar receita ou
+despesa; se despesa, deve ser considerado como redução ou valor negativo.
+Receitas financeiras – inclui todas as receitas financeiras, inclusive as variações cambiais ativas,
+independentemente de sua origem.
+Outras receitas – inclui os dividendos relativos a investimentos avaliados ao custo, aluguéis, direitos
+de franquia, etc.
+Gabarito: A
+
+31. (FCC/Contador/DNOCS/2010) Dados da Cia. Miramar, referentes ao exercício encerrado em
+31/12/2008, em R$:
+Custo das Mercadorias Vendidas .000,00
+Serviços adquiridos de terceiros .000,00
+Receita de dividendos .000,00
+Despesas financeiras .000,00
+Outros materiais adquiridos de terceiros .000,00
+Despesas de depreciação .000,00
+Receita de vendas .000,00
+Pagamento de mão de obra e encargos trabalhistas.000,00
+Com estas informações, o Valor Adicionado a Distribuir da companhia nesse exercício correspondeu, em R$,
+a
+a) 160.000,00.
+b) 200.000,00.
+c) 190.000,00.
+d) 170.000,00.
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati          34
+           www.estrategiaconcursos.com.br                                                            86
+
+                                             
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+e) 220.000,00.
+Comentários
+Elaborando a DVA, temos:
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                        540.000,00
+       1.1) Vendas de mercadorias, produtos e serviços                                     540.000,00
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                 340.000,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1) Custos dos produtos, das mercadorias e dos serviços vendidos                   250.000,00
+       2.2) Serviços adquiridos de terceiros                                                70.000,00
+       2.3) Outros materiais adquiridos de terceiros                                        20.000,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                    200.000,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                              40.000,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          160.000,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                       30.000,00
+       6.1) Receita de Dividendos                                                           30.000,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       190.000,00
+Com os dados disponíveis não há como evidenciar a distribuição do valor adicionado.
+Gabarito: C
+
+Ao final do exercício de 2008, a contabilidade da Cia. Misericórdia informa a relação dos saldos finais das
+contas de resultados, a seguir:
+
+32. (FCC/Contador/Infraero/2009) O valor adicionado total a distribuir corresponde a
+a) R$ 133.500,00
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                35
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+b) R$ 133.000,00
+c) R$ 142.500,00
+d) R$ 142.000,00
+e) R$ 141.500,00
+Comentários
+Vamos elaborar a DVA.
+                                       Demonstração do Valor Adicionado
+                                            DESCRIÇÃO
+       1 – RECEITAS                                                                        298.000,00
+       1.1) Vendas de mercadorias, produtos e serviços                                     300.000,00
+       1.2) Outras receitas (venda de imobilizado com prejuízo)                             (2.000,00)
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                 156.000,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1) Custos dos produtos, das mercadorias e dos serviços vendidos                   120.000,00
+       2.2) Materiais, energia, serviços de terceiros e outros                             36.000,00*
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                    142.000,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                               8.500,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          133.500,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                        8.000,00
+       6.1) Resultado de equivalência patrimonial                                            3.000,00
+       6.2) Receitas financeiras                                                             5.000,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       141.500,00
+Logo, o valor adicionado total a distribuir corresponde a R$ 141.500,00.
+* Soma das “Outras Despesas Comerciais” (23.000) com as “Outras Despesas Administrativas” (13.000).
+Observação: não confunda os impostos diretos sobre a compra (entra no CMV) com os impostos diretos
+sobre venda (estes são recursos que serão distribuídos).
+Gabarito: E
+
+33. (FCC/Contador/Infraero/2009) O valor adicionado recebido em transferência é
+a) R$ 3.000,00
+b) R$ 5.000,00
+c) R$ 8.000,00
+d) R$ 10.000,00
+e) R$ 13.000,00
+Comentários
+Conforme DVA elaborada na questão anterior, o valor adicionado recebido em transferência é R$ 8.000,00.
+Gabarito: C
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 36
+        www.estrategiaconcursos.com.br                                                                   86
+
+                                     
+
+
+---
+
+    Gilmar Possati
+    Aula 13
+
+34. (FGV/Técnico Superior Especializado/Ciências Contábeis/DPE-RJ/2014) A respeito da Demonstração
+do Valor Adicionado, o Pronunciamento Técnico CPC 09 menciona: “para os investidores e outros usuários,
+essa demonstração proporciona o conhecimento de informações de natureza econômica e social e oferece
+a possibilidade de melhor avaliação das atividades da entidade dentro da sociedade na qual está inserida”.
+O CPC 09 ainda define valor adicionado como “a riqueza criada pela empresa, de forma geral medida pela
+diferença entre o valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor adicionado
+recebido em transferência, ou seja, produzido por terceiros e transferido à entidade”.
+A alternativa que relaciona corretamente apenas componentes da distribuição do valor adicionado é
+a) remuneração direta dos empregados, FGTS, IPTU, alugueis e lucros retidos.
+b) benefícios aos empregados, remuneração de serviços de terceiros, INSS, ICMS e juros de financiamentos.
+c) folha de pagamento, tributos federais, estaduais e municipais, prestação paga de arrendamento
+financeiro, juros sobre capital próprio.
+d) remuneração dos empregados, impostos, taxas e contribuições, aquisição de mercadorias e remunerações
+de capitais próprios.
+e) folha de pagamento, tributos, juros de financiamentos, equivalência patrimonial.
+Comentários
+A segunda parte da DVA deve apresentar de forma detalhada como a riqueza obtida pela entidade foi
+distribuída. Os principais componentes dessa distribuição podem ser assim resumidos:
+✓        Pessoal: Remuneração direta, benefícios, FGTS, etc.
+✓        Impostos, Taxas, contribuições: federais, estaduais e municipais;
+✓        Remuneração de capitais de terceiros: juros, aluguéis, outras;
+✓      Remuneração do capital próprio: juros sobre o capital próprio, dividendos, lucros retidos/prejuízos
+do exercício.
+Logo, apenas a alternativa “A” descreve apenas componentes da distribuição do valor adicionado.
+Gabarito: A
+
+35. (FGV/Auditor/CGE-MA/FGV/2014) A Demonstração do Valor Adicionado deve proporcionar aos
+usuários das demonstrações contábeis informações relativas à riqueza criada pela entidade em
+determinado período e a forma como tais riquezas foram distribuídas.
+Assinale a alternativa que apresenta, na elaboração da DVA, exemplos de valor adicionado recebido em
+transferência.
+a) Aluguel recebido e reversão da provisão por crédito de liquidação duvidosa.
+b) Royalties recebidos e reconhecimento do valor justo de ativos biológicos.
+c) Dividendos recebidos e receita da venda de ativo imobilizado
+d) Juros sobre capital próprio recebidos e lucro com a venda de ativo imobilizado.
+e) Juros recebidos em aplicações financeiras e resultado de equivalência patrimonial.
+Comentários
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             37
+          www.estrategiaconcursos.com.br                                                               86
+
+                                       
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+Segundo o CPC 09, o valor adicionado recebido em transferência representa a riqueza que não tenha sido
+criada pela própria entidade, e sim por terceiros, e que a ela é transferida, como por exemplo receitas
+financeiras, de equivalência patrimonial, dividendos, aluguel, royalties, etc. Precisa ficar destacado,
+inclusive para evitar dupla-contagem em certas agregações.
+Assim, somente a alternativa “E” apresenta exemplos de valor adicionado recebido em transferência.
+Gabarito: E
+
+36. (FGV/Técnico de Nível Médio/Contabilidade/AL-BA/2014) A Cia. Laranja efetuou as seguintes
+operações durante o ano de 2013:
+Receitas financeiras .................................................... R$ 40.000,00
+Vendas de mercadorias ............................................... R$ 300.000,00
+Despesa financeira ..................................................... R$ 30.000,00
+Materiais consumidos adquiridos de terceiros .................. R$ 150.000,00
+Despesa de aluguel ..................................................... R$ 12.000,00
+Receitas de aluguel ..................................................... R$ 30.000,00
+Despesa de seguros contratados ................................... R$ 24.000,00
+Despesa de depreciação .............................................. R$ 20.000,00
+Serviços de terceiros ................................................... R$ 5.000,00
+Despesa de salários de funcionários ............................... R$ 40.000,00
+Provisão para créditos de liquidação duvidosa .................. R$ 6.000,00
+Dividendos ................................................................ R$ 40.000,00
+Juros sobre capital próprio ............................................ R$ 30.000,00
+Impostos ..................................................................... R$ 43.000,00
+Baseado nas informações acima, o valor adicionado a distribuir da Cia. Laranja, em 31/12/2013, foi
+a) R$ 135.000,00.
+b) R$ 153.000,00.
+c) R$ 165.000,00.
+d) R$ 171.000,00.
+e) R$ 189.000,00.
+Comentários
+Elaborando a primeira parte da DVA, temos:
+                                                 Demonstração do Valor Adicionado
+                                                     DESCRIÇÃO
+          1 – RECEITAS                                                                        294.000,00
+          1.1 Vendas de mercadorias, produtos e serviços                                      300.000,00
+          1.2 Provisão p/ Créditos de Liquidação Duvidosa                                      (6.000,00)
+
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 38
+           www.estrategiaconcursos.com.br                                                                   86
+
+                                               
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+                                         DESCRIÇÃO
+          2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                   179.000,00
+            (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+          2.1 Materiais Consumidos de Terceiros                                                 150.000,00
+          2.2 Serviços de Terceiros                                                               5.000,00
+          2.3 Seguros Contratados                                                                24.000,00
+          3 – VALOR ADICIONADO BRUTO (1-2)                                                      115.000,00
+          4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                                20.000,00
+          5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                             95.000,00
+          6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                         70.000,00
+          6.1 Receitas Financeiras                                                               40.000,00
+          6.2 Receitas de Aluguel                                                                30.000,00
+          7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                         165.000,00
+Gabarito: C
+
+37. (FGV/Auditor da Receita Estadual/SEFAZ-AP/2010) Com base nos dados seguintes, responda a
+questão:
+Receita de vendas de mercadoria ...............................R$ 2.500.000,00.
+Custo de mercadorias vendidas .....................................R$ 160.000,00.
+Materiais, energia e serviços de terceiros.........................R$ 220.000,00.
+Depreciação e amortização............................................R$ 120.000,00.
+Receitas financeiras......................................................R$ 355.000,00.
+Resultado de equivalência patrimonial ............................. R$ 50.000,00.
+FGTS .......................................................................... R$ 25.000,00.
+Aluguéis......................................................................R$ 15.000,00.
+Dividendos pagos...........................................................R$ 10.000,00.
+Lucros retidos ................................................................R$38.000,00.
+Remuneração direta .......................................................R$45.000,00.
+Considerando a estrutura da DVA - Demonstração do Valor Adicionado, o Valor Adicionado Líquido Produzido
+pela Entidade será de:
+a) R$ 2.000.000,00.
+b) R$ 2.475.000,00.
+c) R$ 2.513.000,00.
+d) R$ 2.120.000,00.
+e) R$ 2.173.000,00.
+Comentários
+Elaborando a primeira parte da DVA, temos:
+
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 39
+            www.estrategiaconcursos.com.br                                                                   86
+
+                                                
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+                                                  Demonstração do Valor Adicionado
+                                                       DESCRIÇÃO
+          1 – RECEITAS                                                                          2.500.000,00
+          1.1 Vendas de mercadorias, produtos e serviços                                        2.500.000,00
+          2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                     380.000,00
+            (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+          2.1 Custo dos produtos, das mercadorias e dos serviços vendidos                         160.000,00
+          2.2 Materiais, energia, serviços de terceiros e outros                                  220.000,00
+          3 – VALOR ADICIONADO BRUTO (1-2)                                                      2.120.000,00
+          4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                                 120.000,00
+          5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                            2.000.000,00
+          6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                          405.000,00
+          7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                         2.405.000,00
+Gabarito: A
+
+38. (FGV/Auditor da Receita Estadual/SEFAZ-AP/2010) Com base nos dados seguintes, responda a
+questão:
+Receita de vendas de mercadoria ...............................R$ 2.500.000,00.
+Custo de mercadorias vendidas .....................................R$ 160.000,00.
+Materiais, energia e serviços de terceiros.........................R$ 220.000,00.
+Depreciação e amortização............................................R$ 120.000,00.
+Receitas financeiras......................................................R$ 355.000,00.
+Resultado de equivalência patrimonial ............................. R$ 50.000,00.
+FGTS .......................................................................... R$ 25.000,00.
+Aluguéis......................................................................R$ 15.000,00.
+Dividendos pagos...........................................................R$ 10.000,00.
+Lucros retidos ................................................................R$38.000,00.
+Remuneração direta .......................................................R$45.000,00.
+Considerando a estrutura da DVA - Demonstração do Valor Adicionado, o Valor Adicionado Bruto será de:
+a) R$ 2.000.000,00.
+b) R$ 2.475.000,00.
+c) R$ 2.513.000,00.
+d) R$ 2.120.000,00.
+e) R$ 2.393.000,00.
+Comentários
+Elaborando a primeira parte da DVA, temos:
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   40
+            www.estrategiaconcursos.com.br                                                                     86
+
+                                                
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                        2.500.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                      2.500.000,00
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                   380.000,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 Custo dos produtos, das mercadorias e dos serviços vendidos                       160.000,00
+       2.2 Materiais, energia, serviços de terceiros e outros                                220.000,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                    2.120.000,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                               120.000,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          2.000.000,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                        405.000,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       2.405.000,00
+Gabarito: D
+
+39. (FGV/Auditor Fiscal da Receita Estadual/SEFAZ-RJ/2010) A Cia Petrópolis apresentava os seguintes
+dados para a montagem da Demonstração do Valor Adicionado em 31.12.X0:
+
+Assinale a alternativa que indique corretamente o valor adicionado a distribuir da Cia Petrópolis em 31.12.X0.
+a) R$ 310,00.
+b) R$ 510,00.
+c) R$ 620,00.
+d) R$ 650,00.
+e) R$ 760,00.
+Comentários
+A primeira medida é calcularmos o CMV. Assim, temos:
+CMV = Estoque Inicial + Compras – Estoque Final
+CMV = 0,00 + 240,00 – 0,00 = 240,00
+De posse do valor do CMV, podemos elaborar a primeira parte da DVA:
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   41
+        www.estrategiaconcursos.com.br                                                                     86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                        1.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                      1.000,00
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                   240,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 Custo dos produtos, das mercadorias e dos serviços vendidos                      240,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                     760,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                                0,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                           760,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                         0,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                        760,00
+Gabarito: E
+
+40. (FGV/Auditor Fiscal da Receita Estadual/SEFAZ-RJ/2009) A Cia. Rubi efetuou as seguintes operações
+durante o ano de 2009:
+
+Em 31.12.2009, o valor adicionado a distribuir da Cia. Rubi será de:
+a) $ 65.000.
+b) $ 68.000.
+c) $ 63.000.
+d) $ 69.000.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati              42
+        www.estrategiaconcursos.com.br                                                                86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+e) $ 72.000.
+Comentários
+Elaborando a primeira parte da DVA, temos:
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                         97.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                      100.000,00
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                  36.000,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 Consumo de materiais adquiridos de terceiros                                     20.000,00
+       2.2 Despesas de Seguros                                                               4.000,00
+       2.3 Serviços de Terceiros                                                            12.000,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                     61.000,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                               5.000,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                           56.000,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                        9.000,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                        65.000,00
+Gabarito: A
+
+41. (FGV/Contador/Ministério Público/MPE-AL/2018) Na elaboração da Demonstração do Valor
+Adicionado de uma entidade, de acordo com o Pronunciamento Técnico CPC 09 - Demonstração do Valor
+Adicionado, deve ser evidenciado como Valor Adicionado recebido em transferência,
+a) a receita com a prestação de serviços.
+b) a receita ou a despesa com equivalência patrimonial.
+c) a receita com a venda de mercadorias.
+d) a receita com a venda de ativo imobilizado.
+e) o lucro com a venda de ativo imobilizado.
+Comentários
+Para fixar!
+Valor adicionado recebido em transferência
+Resultado de equivalência patrimonial – o resultado da equivalência pode representar receita ou
+despesa; se despesa, deve ser considerado como redução ou valor negativo.
+Receitas financeiras – inclui todas as receitas financeiras, inclusive as variações cambiais ativas,
+independentemente de sua origem.
+Outras receitas – inclui os dividendos relativos a investimentos avaliados ao custo, aluguéis, direitos
+de franquia, etc.
+Gabarito: B
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                43
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+42. (FGV/Auditor Fiscal de Tributos Estaduais/SEFIN-RO/2018) A Cia. Dado apresentava o seguinte balanço
+patrimonial, em 31/12/2016.
+
+                          Ativo                                             Patrimônio Líquido
+
+    Caixa                                     100.000 Capital Social                              150.000
+    Estoques                                     50.000 Reserva de Ágio                            50.000
+    Terreno                                      80.000 Reserva de Lucros                          30.000
+
+    Ativo total                               230.000 PL total                                    230.000
+
+Em 2017, aconteceram os fatos a seguir.
+• Em 01/01, a empresa aplicou R$ 30.000 em uma aplicação financeira de longo prazo com rendimento de
+2% ao ano;
+• A empresa vendeu o terreno por R$ 70.000;
+• A empresa reconheceu receita de serviços no valor de R$ 300.000 para recebimento em 2018. A empresa
+considera perdas estimadas com crédito de liquidação duvidosa de 3%.
+• A empresa reconheceu e pagou despesas de aluguel no valor de R$ 12.000;
+• A empresa reconheceu e pagou despesas de salários no valor de R$ 30.000, sendo que R$ 20.000 para
+empregados próprios e R$ 10.000 para terceirizados;
+• A empresa reconheceu e pagou imposto sobre a renda de 34%;
+• A empresa reconheceu e pagou dividendos de 25% sobre o resultado de 2017 e dos anos anteriores, que
+não haviam sido reconhecidos.
+Sobre a divisão do valor adicionado, a distribuir em 31/12/2017, assinale a afirmativa correta.
+a) Os financiadores receberam R$ 12.600.
+b) Os sócios receberam R$ 47.034.
+c) O governo recebeu R$ 81.464.
+d) O governo recebeu R$ 92.344.
+e) Os sócios receberam R$ 165.636.
+Comentários
+Para encontrar o valor adicionado a distribuir precisamos antes verificar qual foi o resultado.
+Cálculo do Resultado
+Receita Bruta de Vendas                 300.000,00
+(-) Perdas estimadas 3%                 (9.000,00)
+(-) Prejuízo terreno                    (10.000,00)
+(-) Despesa de aluguel                  (12.000,00)
+(-) Despesa de salários                 (30.000,00)
+(+) Receitas financeiras 2%             600,00
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    44
+        www.estrategiaconcursos.com.br                                                                      86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+(=) Resultado antes do IR               239.600,00
+Aplicando a alíquota de 34% do IR encontramos o valor distribuído ao governo a título de impostos:
+239.600,00 x 34% = 81.464,00
+Veja que já encontramos o gabarito da questão. Porém, vamos analisar as demais assertivas.
+a. Errado. Os financiadores receberam o valor do aluguel de 12.000,00.
+b. Errado. Os sócios receberam o dividendo de 25% sobre o resultado líquido (lucro líquido)
+Resultado antes do IR 239.600,00
+(-) IR 34%                     (81.464,00)
+(=) Lucro Líquido              158.136,00
+Dividendos = 158.136,00 x 25% → 39.534,00
+d. Errado. O governo recebeu R$ 81.464,00 de IR.
+e. Errado. Os sócios receberam R$ 39.534,00 de dividendos.
+Gabarito: C
+
+43. (FGV/Analista Econômico-Financeiro/Gestão Contábil/BANESTES/2018) Os valores relativos aos gastos
+acumulados com a construção de ativos pela empresa para uso próprio na Demonstração do Valor
+Adicionado devem ser classificados como:
+a) ajustes que aumentam a receita;
+b) ajustes que reduzem a receita;
+c) componentes de insumos adquiridos de terceiros;
+d) retenção da riqueza criada;
+e) redução do valor adicionado a distribuir.
+Comentários
+Trata-se de exigência do item 19 do CPC 09, senão vejamos:
+
+      Ativos construídos pela empresa para uso próprio
+       19. A construção de ativos dentro da própria empresa para seu próprio uso é procedimento
+      comum. Nessa construção diversos fatores de produção são utilizados, inclusive a contratação
+      de recursos externos (por exemplo, materiais e mão-de-obra terceirizada) e a utilização de
+      fatores internos como mão-de-obra, com os consequentes custos que essa contratação e
+      utilização provocam. Para elaboração da DVA, essa construção equivale a produção vendida
+      para a própria empresa, e por isso seu valor contábil integral precisa ser considerado como
+      RECEITA. A mão-de-obra própria alocada é considerada como distribuição dessa riqueza criada,
+      e eventuais juros ativados e tributos também recebem esse mesmo tratamento. Os gastos com
+      serviços de terceiros e materiais são apropriados como insumos
+
+Gabarito: A
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             45
+        www.estrategiaconcursos.com.br                                                               86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+44. (FBC/Exame de Suficiência CFC/Bacharel/2017.2) Considerando-se apenas o disposto na NBC TG 09 –
+DEMONSTRAÇÃO DO VALOR ADICIONADO, a distribuição da riqueza criada deve ser detalhada,
+minimamente, da seguinte forma:
+a) custos com aquisição de matéria-prima de terceiros; insumos adquiridos de terceiros.
+b) materiais, energia e outros; serviços de terceiros, comissões líquidas; variação das despesas de
+comercialização diferidas; perda e recuperação de valores ativos.
+c) pessoal e encargos; impostos, taxas e contribuições; juros e aluguéis; juros sobre o capital próprio e
+dividendos; lucros retidos/prejuízos do exercício.
+d) resultado de equivalência patrimonial; receitas financeiras; outras receitas.
+Comentários
+Trata-se de exigência do item 6 do CPC 09, senão vejamos:
+6. A distribuição da riqueza criada deve ser detalhada, minimamente, da seguinte forma:
+(a) pessoal e encargos;
+(b) impostos, taxas e contribuições;
+(c) juros e aluguéis;
+(d) juros sobre o capital próprio (JCP) e dividendos;
+(e) lucros retidos/prejuízos do exercício.'
+Gabarito: C
+
+45. (FBC/Exame de Suficiência CFC/Bacharel/2015.2) Uma Sociedade Empresária apresentou os seguintes
+dados para a elaboração da Demonstração do Valor Adicionado em 2014:
+
+Considerando-se que houve apenas esses saldos e movimentações, o
+Valor Adicionado Bruto, na Demonstração do Valor Adicionado, é igual a:
+a) R$28.300,00.
+b) R$40.000,00.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             46
+         www.estrategiaconcursos.com.br                                                               86
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+c) R$70.000,00.
+d) R$110.000,00.
+Comentários
+Elaborando a DVA, temos:
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+     1 – RECEITAS                                                                          110.000,00
+     1.1 Vendas de mercadorias, produtos e serviços                                        110.000,00
+     2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                   70.000,00
+       (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+     2.1 Custos dos produtos, das mercadorias e dos serviços vendidos                      70.000,00
+     3 – VALOR ADICIONADO BRUTO (1-2)                                                      40.000,00
+     4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                               0,00
+     5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                            0,00
+     6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                        0,00
+     7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                         40.000,00
+Gabarito: B
+
+46. (FBC/Exame de Suficiência CFC/Bacharel/2013.2) Em relação às informações relativas à riqueza criada
+e sua distribuição apresentada na Demonstração do Valor Adicionado de uma empresa industrial, assinale
+a opção INCORRETA.
+a) A distribuição do valor adicionado abrange, entre outros, a remuneração direta com pessoal, benefícios,
+FGTS, imposto, taxas e contribuições federais, estaduais e municipais e a remuneração de capitais próprios,
+tais como dividendos e juros do capital próprio.
+b) A remuneração de capital de terceiros abrange, entre outros, os fornecedores, as contas a pagar, os juros
+passivos, as provisões judiciais e as reservas patrimoniais.
+c) O valor adicionado recebido em transferência abrange, entre outros, o resultado da equivalência
+patrimonial e as receitas financeiras.
+d) Os insumos adquiridos de terceiros abrangem, entre outros, os custos das matérias-primas incluídos no
+custo dos produtos vendidos, energia e serviços de terceiros.
+Comentários
+Vamos analisar as alternativas.
+a. Certa. O item refere-se à segunda parte da DVA. A segunda parte da DVA deve apresentar de forma
+detalhada como a riqueza obtida pela entidade foi distribuída. Os principais componentes dessa distribuição
+de forma resumida são os seguintes:
+Pessoal – valores apropriados ao custo e ao resultado do exercício na forma de Remuneração direta,
+Benefícios e FGTS;
+Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição social sobre o lucro,
+contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do Trabalho) que sejam ônus do
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 47
+        www.estrategiaconcursos.com.br                                                                   86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+empregador (cota patronal), bem como os demais impostos e contribuições a que a empresa esteja sujeita.
+   ✓ Federais – inclui os tributos devidos à União, inclusive aqueles que são repassados no todo ou em
+     parte aos Estados, Municípios, Autarquias, etc., tais como: IRPJ, CSSL, IPI, CIDE, PIS, COFINS. Inclui
+     também a contribuição sindical patronal.
+   ✓ Estaduais – inclui os tributos devidos aos Estados, inclusive aqueles que são repassados no todo ou
+     em parte aos Municípios, Autarquias, etc., tais como o ICMS e o IPVA.
+   ✓ Municipais – inclui os tributos devidos aos Municípios, inclusive aqueles que são repassados no todo
+     ou em parte às Autarquias, ou quaisquer outras entidades, tais como o ISS e o IPTU.
+Remuneração de capitais de terceiros - valores pagos ou creditados aos financiadores externos de capital,
+tais como Juros e Aluguéis.
+Remuneração de capitais próprios - valores relativos à remuneração atribuída aos sócios e acionistas, tais
+como Juros sobre o capital próprio (JCP) e dividendos e Lucros retidos e prejuízos do exercício
+b. Errada. É o nosso gabarito. Conforme estudamos, a Remuneração de capitais de terceiros envolve valores
+pagos ou creditados aos financiadores externos de capital.
+   ✓ Juros – inclui as despesas financeiras, inclusive as variações cambiais passivas, relativas a quaisquer
+     tipos de empréstimos e financiamentos junto a instituições financeiras, empresas do grupo ou outras
+     formas de obtenção de recursos. Inclui os valores que tenham sido capitalizados no período.
+   ✓ Aluguéis – inclui os aluguéis (inclusive as despesas com arrendamento operacional) pagos ou
+     creditados a terceiros, inclusive os acrescidos aos ativos.
+   ✓ Outras – inclui outras remunerações que configurem transferência de riqueza a terceiros, mesmo
+     que originadas em capital intelectual, tais como royalties, franquia, direitos autorais, etc.
+c. Certo. Conforme estudamos, o Valor adicionado recebido em transferência abrange:
+Resultado de equivalência patrimonial – o resultado da equivalência pode representar receita ou despesa;
+se despesa, deve ser considerado como redução ou valor negativo.
+Receitas financeiras – inclui todas as receitas financeiras, inclusive as variações cambiais ativas,
+independentemente de sua origem.
+Outras receitas – inclui os dividendos relativos a investimentos avaliados ao custo, aluguéis, direitos de
+franquia, etc.
+d. Certo. Conforme estudamos, os insumos adquiridos de terceiros abrangem:
+Custo dos produtos, das mercadorias e dos serviços vendidos – inclui os valores das matérias-primas
+adquiridas junto a terceiros e contidas no custo do produto vendido, das mercadorias e dos serviços
+vendidos adquiridos de terceiros; não inclui gastos com pessoal próprio.
+Materiais, energia, serviços de terceiros e outros – inclui valores relativos às despesas originadas da
+utilização desses bens, utilidades e serviços adquiridos junto a terceiros.
+Nos valores dos custos dos produtos e mercadorias vendidos, materiais, serviços, energia, etc. consumidos,
+devem ser considerados os tributos incluídos no momento das compras (por exemplo, ICMS, IPI, PIS e
+COFINS), recuperáveis ou não. Esse procedimento é diferente das práticas utilizadas na demonstração do
+resultado.
+Perda e recuperação de valores ativos – inclui valores relativos a ajustes por avaliação a valor de mercado
+de estoques, imobilizados, investimentos, etc. Também devem ser incluídos os valores reconhecidos no
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  48
+        www.estrategiaconcursos.com.br                                                                    86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+resultado do período, tanto na constituição quanto na reversão de provisão para perdas por desvalorização
+de ativos, conforme aplicação da NBC TG 01 – Redução ao Valor Recuperável de Ativos (se no período o
+valor líquido for positivo, deve ser somado).
+Gabarito: B
+
+47. (FBC/Exame de Suficiência CFC/Bacharel/2013.1) Uma sociedade empresária é constituída com um
+capital de R$100.000,00, totalmente integralizado em dinheiro. Após a constituição, a empresa realizou as
+seguintes transações:
+- Aquisição de mercadorias por R$50.000,00, neste valor incluído o valor de R$6.000,00, relativo ao ICMS
+recuperável.
+- Venda das mercadorias por R$90.000,00, neste valor incluído ICMS, no valor de R$15.300,00.
+- Despesas com energia do período, no valor de R$900,00.
+- PIS e COFINS incidentes sobre vendas, no valor de R$3.285,00.
+- Despesa com aluguéis, no valor de R$1.000,00.
+- Despesas com salários e FGTS, no valor de R$2.000,00.
+- Despesa com INSS, no valor de R$400,00.
+- O lucro foi destinado como se segue: 5% para reserva legal; 40% para dividendos obrigatórios; e 55% para
+lucros para deliberação da assembleia.
+Na Demonstração do Valor Adicionado, o Valor Adicionado Total a Distribuir, é de:
+a) R$45.100,00.
+b) R$44.100,00.
+c) R$39.100,00.
+d) R$38.100,00.
+Comentários
+Elaborando a DVA, temos:
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                          90.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                       90.000,00*
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                   50.900,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 Custos dos produtos, das mercadorias e dos serviços vendidos                    50.000,00**
+       2.2 Materiais, energia, serviços de terceiros e outros                                   900,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                      39.100,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                                    0,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                            39.100,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                             0,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                         39.100,00
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 49
+        www.estrategiaconcursos.com.br                                                                   86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+* O valor do ICMS, PIS e COFINS (incidentes sobre vendas) irá influenciar somente a segunda parte da DVA
+(na distribuição do valor adicionado).
+** Lembre-se que o valor dos custos deve incluir ICMS, IPI, PIS e COFINS.
+Gabarito: C
+
+48. (FBC/Exame de Suficiência CFC/Bacharel/2012.2) Assinale a opção que apresenta exemplo de valores
+que reduzem o valor adicionado bruto, por estarem incluídos nos insumos adquiridos de terceiros, na
+Demonstração do Valor Adicionado (DVA).
+a) Salários de empregados, computados no custo dos produtos vendidos. b) Estoque de matéria-prima.
+c) Despesas com serviço de representação comercial, prestada por terceiros.
+d) Aluguéis de máquinas utilizadas na produção.
+Comentários
+Vamos analisar as alternativas.
+a. Errada. Os salários dos empregados fazem parte da distribuição do valor adicionado.
+b. Errada. O estoque de matéria-prima não é evidenciado na DVA.
+c. Certa. As despesas com serviço de representação comercial, prestada por terceiros reduz o valor
+adicionado bruto e estão incluídos nos insumos adquiridos de terceiros.
+d. Errada. Os aluguéis de máquinas utilizadas na produção fazem parte da distribuição do valor adicionado.
+Gabarito: C
+
+49. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) Uma sociedade empresária apresentou os seguintes
+dados para a elaboração da Demonstração do Valor Adicionado:
+Receita Bruta de Vendas                                  R$800.000,00
+(-) Tributos sobre as Vendas                             R$136.000,00
+Receita Líquida                                          R$664.000,00
+(-) Custo das Mercadorias Vendidas                       R$498.000,00
+Lucro Bruto                                              R$166.000,00
+Despesa com Pessoal                                      R$90.000,00
+Despesa com Depreciação                                  R$8.000,00
+Despesa de Juros sobre Empréstimos                       R$3.000,00
+Resultado antes dos Tributos sobre o Lucro               R$65.000,00
+Imposto de Renda                                         R$16.250,00
+Contribuição Social                                      R$5.850,00
+Resultado do Período                                     R$42.900,00
+Informações adicionais:
+I. O custo de aquisição da mercadoria vendida foi calculado da seguinte forma:
+Valor da Mercadoria                                      R$600.000,00
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                50
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+ICMS Recuperado                                           R$102.000,00
+Custo Aquisição                                           R$498.000,00
+II. O valor da despesa com Pessoal é composto dos seguintes gastos:
+Salários, Férias e 13º Salário                            R$65.000,00
+INSS                                                      R$25.000,00
+Total                                                     R$90.000,00
+De acordo com a Demonstração do Valor Adicionado, elaborada a partir dos dados fornecidos, assinale a
+opção INCORRETA.
+a) O Valor adicionado a distribuir é R$192.000,00.
+b) O Valor adicionado a distribuir é R$294.000,00.
+c) O valor da remuneração de capital de terceiros é de R$3.000,00.
+d) O valor distribuído para pessoal é de R$65.000,00.
+Comentários
+Elaborando a DVA, temos:
+                                        Demonstração do Valor Adicionado
+                                            DESCRIÇÃO
+        1 – RECEITAS                                                                        800.000,00
+        1.1 Vendas de mercadorias, produtos e serviços                                      800.000,00
+        2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                 600.000,00
+          (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+        2.1 Custos dos produtos, das mercadorias e dos serviços vendidos                    600.000,00
+        3 – VALOR ADICIONADO BRUTO (1-2)                                                    200.000,00
+        4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                               8.000,00
+        5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          192.000,00
+        6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                            0,00
+        7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       192.000,00
+
+
+        8 – DISTRIBUIÇÃO DO VALOR ADICIONADO                                                192.000,00
+        8.1 Pessoal                                                                          65.000,00
+        8.2 Impostos, taxas e contribuições                                                  81.100,00
+        8.2.1. INSS                                                                          25.000,00
+        8.2.2. ICMS                                                                         34.000,00*
+        8.2.3. IR/CSLL                                                                       22.100,00
+        8.3 Remuneração de capitais de terceiros                                              3.000,00
+        8.3.1 Juros Passivos                                                                  3.000,00
+        8.4 Remuneração de capitais próprios                                                 42.900,00
+        8.4.1 – Lucros retidos                                                               42.900,00
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                51
+         www.estrategiaconcursos.com.br                                                                  86
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+*136.000,00 – 102.000,00
+Logo, percebe-se que somente a alternativa “B” está incorreta.
+Gabarito: B
+
+50. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) Na Demonstração do Valor Adicionado, a despesa
+com aluguel, a energia elétrica consumida no período e o resultado positivo da equivalência patrimonial
+são evidenciados, respectivamente, como:
+a) insumos adquiridos de terceiros; insumos adquiridos de terceiros e remuneração do capital próprio.
+b) insumos adquiridos de terceiros; remuneração do capital de terceiros e valor adicionado recebido em
+transferência.
+c) remuneração do capital de terceiros; insumos adquiridos de terceiros e valor adicionado recebido em
+transferência.
+d) remuneração do capital de terceiros; remuneração do capital de terceiros e remuneração do capital
+próprio.
+Comentários
+Classificando, temos:
+Despesa com aluguel = Remuneração de Capital de Terceiros
+Energia elétrica = Insumos adquiridos de terceiros
+Resultado positivo da equivalência patrimonial = Valor adicionado recebido em transferência
+Gabarito: C
+
+51. (FBC/Exame de Suficiência CFC/Bacharel/2011.1) Uma sociedade empresária adquiriu mercadorias
+para revenda por R$5.000,00, neste valor incluído ICMS de R$1.000,00. No mesmo período, revendeu toda
+a mercadoria adquirida por R$9.000,00, neste valor incluído ICMS de R$1.800,00. A sociedade empresária
+registrou, no período, despesas com representação comercial no montante de R$1.200,00 e depreciação de
+veículos de R$200,00.
+Na Demonstração do Valor Adicionado - DVA, elaborada a partir dos dados fornecidos, o valor adicionado a
+distribuir é igual a:
+a) R$1.800,00.
+b) R$2.600,00.
+c) R$3.200,00.
+d) R$4.000,00.
+Comentários
+Elaborando a primeira parte da DVA, temos:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                52
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+        1 – RECEITAS                                                                       9.000,00
+        1.1 Vendas de mercadorias, produtos e serviços                                     9.000,00
+        2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                6.200,00
+          (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+        2.1 Custos dos produtos, das mercadorias e dos serviços vendidos                   5.000,00
+        2.2. Serviços de Terceiros – Representantes Comerciais                             1.200,00
+        3 – VALOR ADICIONADO BRUTO (1-2)                                                   2.800,00
+        4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                              200,00
+        5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                         2.600,00
+        6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                         0,00
+        7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                      2.600,00
+Gabarito: B
+
+52. (CESGRANRIO/Transpetro/2018) As empresas brasileiras, em atendimento às Normas Brasileiras de
+Contabilidade e em cumprimento à Lei das sociedades por ações, devem apresentar suas informações
+patrimoniais, econômicas e financeiras nas demonstrações contábeis, determinadas pelos citados diplomas.
+Nesse contexto, uma empresa com a obrigação legal de emitir a demonstração, que representa um dos
+elementos componentes do Balanço Social e, que tem, entre seus objetivos básicos, apresentar o quanto a
+entidade agrega de valor aos insumos adquiridos, tem que elaborar a demonstração do(a.)
+a) fluxo de caixa
+b) lucro ou prejuízo acumulado
+c) mutação do patrimônio líquido
+d) resultado abrangente
+e) valor adicionado
+Comentários
+Segundo a legislação societária, a DVA calcula a riqueza gerada pela companhia, a sua distribuição entre os
+elementos que contribuíram para a geração dessa riqueza, tais como empregados, financiadores, acionistas,
+governo e outros, bem como a parcela da riqueza não distribuída.
+Observa-se que o comando da questão traz características relacionadas à DVA.
+Gabarito: E
+53. (CESGRANRIO/Petrobras/2018) Segundo o Pronunciamento Técnico CPC 09, a Demonstração do Valor
+Adicionado é formada por duas partes: a primeira, responsável por apresentar de forma detalhada a riqueza
+criada pela entidade, e a segunda, que apresenta de forma detalhada como a riqueza obtida pela entidade
+foi distribuída. Associe os principais componentes da segunda parte da DVA com as informações que
+constam em cada componente e que estão apresentadas a seguir.
+I – Pessoal
+II – Impostos, Taxas e Contribuições
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                53
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+III – Remuneração de Capital de Terceiros
+IV – Remuneração de Capital Próprio
+P - Aluguéis
+Q - Lucros Retidos
+R - Imposto de Renda de Pessoa Jurídica
+S - Energia Elétrica
+T - 13° Salário
+As associações corretas são:
+a) I - P , II - R , III - S , IV - T
+b) I - R , II - Q , III - P , IV - T
+c) I - R , II - Q , III - S , IV - T
+d) I - T , II - R , III - P , IV - Q
+e) I - T , II - R , III - S , IV - Q
+Comentários
+Pessoal – valores apropriados ao custo e ao resultado do exercício na forma de remuneração direta.
+Logo, no caso da questão temos o 13º salário que se enquadra como distribuição a pessoal. (I - T). Com isso,
+ficamos com as opções "d" e "e".
+Impostos, taxas e contribuições – valores relativos ao imposto de renda, contribuição social sobre o lucro,
+contribuições ao INSS (incluídos aqui os valores do Seguro de Acidentes do Trabalho) que sejam ônus do
+empregador, bem como os demais impostos e contribuições a que a empresa esteja sujeita.
+Logo, no caso da questão temos o IRPJ que se enquadra como distribuição ao governo. (II - R).
+Remuneração de capitais de terceiros - valores pagos ou creditados aos financiadores externos de capital.
+Logo, no caso da questão temos os aluguéis que se enquadra como distribuição ao governo. (III - P).
+Remuneração de capitais próprios - valores relativos à remuneração atribuída aos sócios e acionistas.
+Logo, no caso da questão temos os lucros retidos que se enquadra como distribuição ao governo. (IV - Q).
+
+Cabe destacar que a Energia Elétrica não entra na distribuição da riqueza (parte II). Entra como Insumos
+Adquiridos de Terceiros (parte I).
+
+Gabarito: D
+54. (CESGRANRIO/Transpetro/2018) O quadro abaixo apresenta a estrutura para elaboração da
+Demonstração do Valor Adicionado:
+
+                           1 - Receitas
+
+                           2 - Insumos adquiridos de terceiros
+
+                           3 - Valor adicionado bruto
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               54
+          www.estrategiaconcursos.com.br                                                                 86
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                         4 - Retenções
+
+                         5 -Valor adicionado líquido produzido pela entidade
+
+                         6 - Valor adicionado recebido em transferência
+
+                         7 - Valor adicionado total a distribuir
+
+                         8 - Distribuição do valor adicionado
+
+Considerando essa estrutura de itens e as orientações do CPC 09, os valores relativos a depreciações e
+amortizações devem ser
+a) apresentados como retenção de riqueza.
+b) apresentados como redutores do valor adicionado recebido em transferência.
+c) apresentados de forma adicional aos insumos adquiridos de terceiros.
+d) alocados de forma dedutiva após o item valor adicionado a distribuir.
+e) alocados apenas na DRE, pois não afetam a riqueza gerada pela entidade.
+Comentários
+Os valores relativos a depreciações e amortizações devem ser apresentados como retenção de riqueza,
+deduzindo-se seus respectivos valores do valor adicionado bruto, obtendo-se assim o valor adicionado
+líquido produzido pela entidade.
+Gabarito: A
+55. (CESGRANRIO/Petrobras/2015) A companhia K de capital aberto apresentou, em reais, as seguintes
+informações parciais retiradas de seus livros e controles contábeis:
+ Compra de mercadorias, incluindo o ICMS destacado na Nota Fiscal de 2.700,00              15.000,00
+ Dividendos recebidos de investimentos avaliados ao custo                                  1.000,00
+ Energia Elétrica                                                                          1.200,00
+ Estoque inicial e final de mercadorias                                                    0,00
+ Receitas Financeiras                                                                      2.000,00
+ Resultado positivo (ganho) de equivalência patrimonial                                    7.000,00
+ Venda de mercadorias, incluindo o ICMS destacado na Nota Fiscal de 6.300,00               35.000,00
+Considerando-se exclusivamente as informações recebidas e os dizeres do CPC 09, aprovado pela
+Deliberação CVM nº 557/2008, na elaboração da Demonstração do Valor Adicionado, o total desse valor
+recebido em transferência, em reais, é de
+a) 8.800,00
+b) 10.000,00
+c) 15.200,00
+d) 20.000,00
+e) 26.400,00
+Comentários
+Elaborando a primeira parte da DVA, temos:
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               55
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                        35.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                      35.000,00
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                 16.200,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 CMV                                                                             15.000,00
+       2.2. Energia Elétrica                                                                1.200,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                    18.800,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                                  0,00
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                          18.800,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                      10.000,00
+       6.1. Dividendos recebidos                                                            1.000,00
+       6.2. Receita financeira                                                              2.000,00
+       6.3. Resultado positivo Equivalência Patrimonial                                     7.000,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                       28.800,00
+Gabarito: B
+56. (CESGRANRIO/Auditor/CEFET-RJ/2014) De acordo com a legislação societária vigente no Brasil, as
+sociedades são obrigadas a elaborar algumas demonstrações financeiras.
+Qual demonstração financeira é obrigatória apenas para as companhias de capital aberto?
+a) Demonstração de fluxo de caixa
+b) Demonstração do valor adicionado
+c) Demonstração de resultado de exercício
+d) Demonstração de mutação de patrimônio líquido
+e) Demonstração de origens e aplicações de recursos
+Comentários
+A Demonstração do Valor Adicionado (DVA) não era obrigatória em nosso país, até a promulgação da Lei n.
+11.638/07. Essa Lei introduziu significativas alterações na Lei n. 6.404/76, tornando a elaboração e
+divulgação da DVA obrigatória para as companhias abertas, como parte das demonstrações contábeis
+divulgadas ao final de cada exercício. Nesse sentido, as companhias fechadas estão dispensadas da
+elaboração da DVA.
+Gabarito: B
+
+A companhia O apresentou a seguinte demonstração do resultado, elaborada, em reais, de acordo com as
+determinações da legislação societária, referente ao exercício findo em 31 de dezembro de 2013.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               56
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+57. (CESGRANRIO/Contador Júnior/Petrobras/2014) Considerando exclusivamente os valores
+apresentados na demonstração, a companhia O, elaborada a Demonstração do Valor Adicionado (DVA),
+apurou que o valor que ela distribuiu ao Governo, no exercício findo de 2013, em reais, foi de
+a) 265.950,00
+b) 276.750,00
+c) 279.630,00
+d) 302.130,00
+e) 312.930,00
+Comentários
+Vamos aproveitar essa questão para elaborar a DVA.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati     57
+        www.estrategiaconcursos.com.br                                                       86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                                       Demonstração do Valor Adicionado
+                                           DESCRIÇÃO
+       1 – RECEITAS                                                                         1.080.000,00
+       1.1 Vendas de mercadorias, produtos e serviços                                      1.080.000,00*
+       2 – INSUMOS ADQUIRIDOS DE TERCEIROS                                                    364.950,00
+         (inclui os valores dos impostos – ICMS, IPI, PIS e COFINS)
+       2.1 Custos dos produtos, das mercadorias e dos serviços vendidos                      344.250,00
+       2.2 Materiais, energia, serviços de terceiros e outros                                 20.700,00
+       3 – VALOR ADICIONADO BRUTO (1-2)                                                      715.050,00
+       4 – DEPRECIAÇÃO, AMORTIZAÇÃO E EXAUSTÃO                                              40.500,00**
+       5 – VALOR ADICIONADO LÍQUIDO PRODUZIDO PELA ENTIDADE (3-4)                            674.550,00
+       6 – VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA                                         58.680,00
+                                                         ==219a34==
+
+       6.1 Juros Ativos (Receitas Financeiras)                                                58.680,00
+       7 – VALOR ADICIONADO TOTAL A DISTRIBUIR (5+6)                                         733.230,00
+* Venda de mercadorias – Descontos Incondicionais (1.215.000,00 - 135.000,00)
+** Depreciação + Amortização (31.500,00 + 9.000,00)
+       8 – DISTRIBUIÇÃO DO VALOR ADICIONADO                                                  733.230,00
+       8.1 Pessoal                                                                           145.800,00
+       8.1.1 Salários                                                                        135.000,00
+       8.1.2 FGTS                                                                             10.800,00
+       8.2 Impostos, taxas e contribuições                                                   302.130,00
+       8.2.1 PIS e COFINS                                                                     22.500,00
+       8.2.2 IR/CSLL                                                                          49.050,00
+       8.2.3 INSS                                                                             36.180,00
+       8.2.4 ICMS                                                                            194.400,00
+       8.3 Remuneração de capitais de terceiros                                               89.100,00
+       8.3.1 Alugueis                                                                         67.500,00
+       8.3.2 Juros Passivos                                                                   21.600,00
+       8.4 Remuneração de capitais próprios                                                  196.200,00
+       8.4.1 – Lucros retidos                                                                196.200,00
+Gabarito: D
+
+58. (CESGRANRIO/Contador Júnior/Petrobras/2014) Considerando exclusivamente os valores
+apresentados na demonstração, a companhia O, elaborada a Demonstração do Valor Adicionado (DVA),
+apurou que o valor adicionado total a distribuir, no exercício findo de 2013, em reais, foi de
+a) 674.550,00
+b) 733.230,00
+c) 753.930,00
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   58
+        www.estrategiaconcursos.com.br                                                                     86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+d) 809.550,00
+e) 868.230,00
+Comentários
+       8 – DISTRIBUIÇÃO DO VALOR ADICIONADO                                                733.230,00
+       8.1 Pessoal                                                                         145.800,00
+       8.1.1 Salários                                                                      135.000,00
+       8.1.2 FGTS                                                                           10.800,00
+       8.2 Impostos, taxas e contribuições                                                 302.130,00
+       8.2.1 PIS e COFINS                                                                   22.500,00
+       8.2.2 IR/CSLL                                                                        49.050,00
+       8.2.3 INSS                                                                           36.180,00
+       8.2.4 ICMS                                                                          194.400,00
+       8.3 Remuneração de capitais de terceiros                                             89.100,00
+       8.3.1 Alugueis                                                                       67.500,00
+       8.3.2 Juros Passivos                                                                 21.600,00
+       8.4 Remuneração de capitais próprios                                                196.200,00
+       8.4.1 – Lucros retidos                                                              196.200,00
+Gabarito: B
+
+59. (CESGRANRIO/Profissional Básico/Ciências Contábeis/BNDES/2011) A elaboração e divulgação da
+demonstração do valor adicionado (DVA), para atender aos requisitos estabelecidos no Pronunciamento
+Técnico CPC 09 e na legislação societária, entre outros aspectos relevantes, deverá
+a) conter a variação ocorrida no capital circulante líquido.
+b) ser elaborada como base no princípio contábil da competência.
+c) ser elaborada com base no princípio contábil da atualização monetária.
+d) permitir o cálculo do Produto Interno Bruto do segmento onde atua a empresa.
+e) analisar os efeitos do valor econômico agregado sobre a liquidez da empresa.
+Comentários
+As informações para elaboração da DVA são extraídas da escrituração da entidade e, portanto, deve ser
+elaborada como base no princípio contábil da competência.
+Gabarito: B
+
+60. (CESGRANRIO/Contador Júnior/Petrobras/2014) A demonstração contábil que tem por objetivo
+evidenciar o valor da riqueza econômica gerada pelas atividades da empresa como resultante de um
+esforço coletivo e sua distribuição entre os elementos que contribuíram para sua criação é a demonstração
+denominada
+a) balanço patrimonial
+b) balanço social
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                59
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+c) lucros ou prejuízos acumulados
+d) resultado do exercício
+e) valor adicionado
+Comentários
+Segundo o Manual de Contabilidade Societária (FIPECAFI), a DVA tem por objetivo demonstrar o valor da
+riqueza econômica gerada pelas atividades da empresa como resultante de um esforço coletivo e sua
+distribuição entre os elementos que contribuíram para a sua criação. Desse modo, a DVA acaba por prestar
+informações a todos os agentes econômicos interessados na empresa, tais como empregados, clientes,
+fornecedores, financiadores e governo.
+Segundo o CPC 09, a DVA deve proporcionar aos usuários das demonstrações contábeis informações
+relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram
+distribuídas.
+Gabarito: E
+
+61. (CESGRANRIO/Contador Júnior/Transpetro/2011) Nos termos da nova redação dada à Lei nº 6.404/76
+pelas Leis nºs 11.638/07 e 11.941/09, uma das demonstrações indicará “o valor da riqueza gerada pela
+companhia e a sua distribuição entre os elementos que contribuíram para a geração dessa riqueza”.
+Este conceito está evidenciado na demonstração
+a) Valor Adicionado
+b) Resultado do Exercício
+c) Lucro ou os Prejuízos Acumulados
+d) Fluxos de Caixa
+e) Mutações do Patrimônio Líquido
+Comentários
+A DVA é a demonstração que indica o valor da riqueza gerada pela companhia e a sua distribuição entre os
+elementos que contribuíram para a geração dessa riqueza.
+Gabarito: A
+
+62. (CESGRANRIO/Analista/Contabilidade/EPE/2010) De acordo com a legislação pertinente, "o valor da
+riqueza gerada pela Companhia, a sua distribuição entre os elementos que contribuíram para a geração
+dessa riqueza, tais como empregados, financiadores, acionistas, governo e outros, bem como a parcela da
+riqueza não distribuída" serão identificados em qual demonstrativo contábil?
+a) Balanço Patrimonial.
+b) Demonstração do Resultado do Exercício.
+c) Demonstração de Lucros ou Prejuízos Acumulados.
+d) Demonstração de Origem e Aplicações de Recursos.
+e) Demonstração do Valor Adicionado.
+Comentários
+Trata-se da mesma questão anterior, com mudanças pontuais na redação. Segundo a Lei nº 6.404/76,
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             60
+        www.estrategiaconcursos.com.br                                                               86
+
+                                     
+
+
+---
+
+    Gilmar Possati
+    Aula 13
+
+Art. 188. As demonstrações referidas nos incisos IV e V do caput do art. 176 desta Lei indicarão, no mínimo:
+(...)
+II – demonstração do valor adicionado: o valor da riqueza gerada pela companhia, a sua distribuição entre
+os elementos que contribuíram para a geração dessa riqueza, tais como empregados, financiadores,
+acionistas, governo e outros, bem como a parcela da riqueza não distribuída.
+Gabarito: E
+
+Pessoal, para fechar com chave de ouro, vamos ver uma questão discursiva que exigiu conhecimentos sobre
+o CPC 09.
+63. (QUADRIX/Contador/Terracap/2017) A DVA tornou-se obrigatória no Brasil com a promulgação da Lei
+n. 11.638/2007, que alterou a Lei n. 6.404/1976 (Lei das sociedades por ações). Essa obrigatoriedade
+aplica-se às companhias abertas, juntamente com as demais demonstrações contábeis relativas ao
+encerramento de cada exercício social.
+Considerando que o texto acima tenha caráter unicamente motivador, discorra a respeito da DVA, tomando
+como referência o pronunciamento técnico CPC 09 (demonstração do valor adicionado), emitido pelo CPC.
+Em seu texto, aborde, necessariamente, os seguintes aspectos:
+• finalidade da DVA e detalhamento mínimo exigido da destinação da riqueza gerada pela entidade;
+• fundamentação macroeconômica da DVA; e
+• diferenças entre os modelos contábil e econômico no cálculo do valor adicionado.
+Extensão Máxima: 30 linhas
+Comentários
+Trata-se de questão em que o examinador solicita abordagem sobre o CPC 09 – DVA. A questão já nos fornece
+o roteiro que devemos seguir. Nesse sentido, tendo em vista o espaço de 30 linhas disponível, poderíamos
+adotar a seguinte estratégia em nossa resposta.
+1º Parágrafo – Breve introdução sobre o assunto. Podemos, para tanto, parafrasear o texto motivador.
+2º Parágrafo – Abordagem do primeiro tópico solicitado: finalidade da DVA e detalhamento mínimo exigido
+da destinação da riqueza gerada pela entidade.
+3º Parágrafo – Abordagem do segundo tópico solicitado: fundamentação macroeconômica da DVA;
+4º Parágrafo – Abordagem do terceiro tópico solicitado: diferenças entre os modelos contábil e econômico
+no cálculo do valor adicionado.
+Segue uma proposta de solução, baseado no planejamento acima descrito.
+                                                                                             Proposta de Solução
+        A Demonstração do Valor Adicionado (DVA) não era obrigatória em nosso país, até a promulgação da
+Lei n. 11.638/07. Essa Lei introduziu significativas alterações na Lei n. 6.404/76, tornando a elaboração e
+divulgação da DVA obrigatória para as companhias abertas, como parte das demonstrações contábeis
+divulgadas ao final de cada exercício.
+       Nos termos do CPC 09, a DVA deve proporcionar aos usuários das demonstrações contábeis
+informações relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas
+foram distribuídas. Para tanto, o CPC 09 dispõe que a distribuição da riqueza criada deve ser detalhada,
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   61
+          www.estrategiaconcursos.com.br                                                                     86
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+minimamente, da seguinte forma: (a) pessoal e encargos; (b) impostos, taxas e contribuições; (c) juros e
+aluguéis; (d) juros sobre o capital próprio (JCP) e dividendos; (e) lucros retidos/prejuízos do exercício.
+       Nesse contexto, observa-se que a DVA está fundamentada em conceitos macroeconômicos. Assim, a
+DVA busca apresentar, eliminados os valores que representam dupla contagem, a parcela de contribuição
+que a entidade tem na formação do Produto Interno Bruto (PIB). Essa demonstração apresenta o quanto a
+entidade agrega de valor aos insumos adquiridos de terceiros e que são vendidos ou consumidos durante
+determinado período.
+       Referido Pronunciamento ressalva, contudo, que existem diferenças temporais entre os modelos
+contábil e econômico no cálculo do valor adicionado. A ciência econômica, para cálculo do PIB, baseia-se na
+produção, enquanto a contabilidade utiliza o conceito contábil da realização da receita, isto é, baseia-se no
+regime contábil de competência. Como os momentos de realização da produção e das vendas são
+normalmente diferentes, os valores calculados para o PIB por meio dos conceitos oriundos da Economia e os
+da Contabilidade são naturalmente diferentes em cada período. Essas diferenças serão tanto menores quanto
+menores forem as diferenças entre os estoques inicial e final para o período considerado. Em outras palavras,
+admitindo-se a inexistência de estoques inicial e final, os valores encontrados com a utilização de conceitos
+econômicos e contábeis convergirão.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  62
+        www.estrategiaconcursos.com.br                                                                    86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+                      LISTA DAS QUESTÕES COMENTADAS
+1. (CESPE/Analista/MPE-CE/2020) Com relação à elaboração de demonstrações contábeis de acordo com
+a legislação societária, os princípios fundamentais da contabilidade e os pronunciamentos contábeis do
+Comitê de Pronunciamentos Contábeis (CPC), julgue o próximo item.
+Valor adicionado é definido como a riqueza criada por uma empresa, sendo geralmente medido pela
+diferença entre o valor das vendas e os insumos adquiridos de terceiros, incluindo-se, também, o valor
+adicionado recebido em transferência, ou seja, aquele produzido por terceiros e transferido à entidade.
+2. (CESPE/Auditor Fiscal da Receita Estadual/SEFAZ-RS/2019) Informações a respeito da riqueza
+econômica gerada por uma entidade e sobre a forma de distribuição dessa riqueza podem ser obtidas
+mediante a análise do(a)
+a) balanço patrimonial.
+b) demonstração das mutações do patrimônio líquido.
+c) demonstração do resultado do exercício.
+d) demonstração dos fluxos de caixa.
+e) demonstração do valor adicionado.
+3. (CESPE/Analista Portuário/EMAP/2018) Com relação à elaboração das principais demonstrações
+contábeis previstas na normatização vigente, julgue o item seguinte.
+A demonstração do valor agregado visa apresentar, em uma perspectiva microeconômica, a contribuição da
+empresa na formação da renda nacional.
+4. (CESPE/Analista Administrativo/Contabilidade/EBSERH/2018) Julgue o item seguinte, a respeito da
+elaboração das demonstrações contábeis segundo os pronunciamentos do CPC e a legislação vigente.
+Uma empresa que tenha adquirido insumos de terceiros para seu processo produtivo deve apresentar esses
+valores na seção da demonstração do valor adicionado destinada à demonstração da riqueza criada pela
+entidade.
+5. (CESPE/Analista Judiciário/Contabilidade/STM/2018) Tendo como referência a legislação societária e os
+pronunciamentos do Comitê de Pronunciamentos Contábeis, julgue o item a seguir, relativo à elaboração
+de demonstrações contábeis.
+Na demonstração do valor adicionado, a receita com vendas e prestação de serviços deve ser apresentada
+líquida de seus efeitos tributários, uma vez que tributos não constituem receitas efetivas da empresa.
+6. (CESPE/Analista de Gestão Educacional/Contabilidade/SEDF/2017) Com referência à elaboração de
+demonstrações contábeis, julgue o item seguinte à luz da legislação societária, dos princípios
+fundamentais da contabilidade e dos pronunciamentos contábeis do CPC.
+O custo dos serviços de terceiros recebidos para a execução da atividade fim da entidade representa um
+valor adicionado recebido em transferência, visto ser uma riqueza criada por terceiros.
+7. (CESPE/Contador/FUB/2015) Julgue o item a seguir, com relação aos fatos descritos e seus efeitos nas
+demonstrações contábeis, elaboradas conforme a Lei n.º 6.404/1976 (e alterações posteriores) e os
+pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis (CPC).
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 63
+        www.estrategiaconcursos.com.br                                                                   86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+O reconhecimento de amortização, depreciação e exaustão aumenta o valor adicionado líquido produzido
+pela entidade.
+8. (CESPE/Contador/FUB/2015) Na demonstração do valor adicionado, o reconhecimento de resultado
+positivo de equivalência patrimonial aumenta o valor adicionado recebido em transferência.
+9. (CESPE/Analista/Atuarial/MPU/2015) Com relação à divulgação e análise das demonstrações contábeis,
+julgue o próximo item.
+Os recursos aplicados na construção de ativos para uso da entidade correspondem a fato permutativo do
+ativo e não serão evidenciados na demonstração do valor adicionado (DVA).
+10. (CESPE/Analista Administrativo/Ciências Contábeis/ANTAQ/2014) Acerca da elaboração de
+demonstrações contábeis, julgue o item.
+ O valor adicionado por uma empresa é obtido pela diferença entre a receita líquida obtida e o custo dos
+insumos fornecidos por terceiros.
+A tabela a seguir reúne dados referentes à formação e distribuição de riqueza de determinada empresa nos
+exercícios de 2012 e 2013.
+
+Com base nesses dados, julgue os itens seguintes, referente à demonstração do valor adicionado.
+11. (CESPE/Especialista/Contabilidade/ANATEL/2014) O total do valor adicionado a distribuir no ano de
+2013 é igual a R$ 15.700.000.
+12. (CESPE/Especialista/Contabilidade/ANATEL/2014) O total do valor adicionado líquido produzido pela
+entidade no ano de 2012 foi superior a R$ 13.000.000.
+13. (CESPE/Contador/CADE/2014) No que concerne a demonstrações contábeis, julgue o item seguinte.
+Na segunda parte da demonstração do valor adicionado, em que são apresentadas as destinações da riqueza
+obtida pela entidade, um dos componentes desse grupo é o pagamento de impostos, taxas e contribuições
+por parte tanto da empresa quanto a parcela retida dos empregados.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             64
+        www.estrategiaconcursos.com.br                                                               86
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+14. (CESPE/Contador/MTE/2014) Considerando a legislação vigente e os pronunciamentos do Comitê de
+Pronunciamentos Contábeis, julgue o item que se segue, relativo aos procedimentos utilizados para a
+elaboração das demonstrações contábeis.
+A demonstração do valor adicionado apresenta a posição estática da empresa, integra o balanço social e visa
+demonstrar a riqueza gerada pela entidade e a sua distribuição no encerramento de determinado período.
+15. (CESPE/Especialista/Ciências Contábeis/ANTT/2013) Julgue o seguinte item, relativo às demonstrações
+contábeis previstas na Lei das Sociedades por Ações e nos pronunciamentos do CPC.
+Para fins de levantamento da demonstração de valor adicionado, o valor do FGTS deverá integrar o valor
+distribuído aos empregados (pessoal), mas o valor da cota patronal do INSS deverá integrar o montante de
+impostos, taxas e contribuições.
+16. (CESPE/Analista Judiciário/Contabilidade/TRT17/2013) Com relação à avaliação de itens patrimoniais
+e ao levantamento das demonstrações de resultado previstas na legislação societária, julgue o item
+seguinte.
+Se uma empresa apurou, em determinado período, faturamento bruto total de R$ 300 mil, tendo gasto R$
+30 mil com IPI e R$ 50 mil com ICMS, reconhecerá, em sua DVA, na linha venda de mercadorias, produtos e
+serviços o valor de R$ 250.000.
+17. (FCC/Analista/Sanasa Campinas/2019) Considerando a Lei n° 6.404/1976 e suas alterações e as Normas
+Brasileiras de Contabilidade Técnica Geral – NBC TG 09 – Demonstração do Valor Adicionado e NBC TG 26
+(R5) – Apresentação das Demonstrações Contábeis, considere:
+I. A Demonstração do Valor Adicionado (DVA) deve ser elaborada por toda empresa constituída sob a forma
+jurídica de Sociedade por Ações.
+II. A distribuição da riqueza criada pela empresa deve ser detalhada de forma mínima entre: Pessoal e
+Encargos; Impostos, taxas e contribuições; juros e aluguéis; Juros sobre capital próprio e dividendos; e lucros
+retidos/prejuízo do exercício.
+III. A Formação de Riqueza das entidades é formada por: Receitas; Insumos adquiridos de terceiros; e valor
+adicionado recebido em transferência.
+IV. Na distribuição das riquezas os valores depositados no Fundo de Garantia por Tempo de Serviço (FGTS)
+devem ser registrados no grupo Impostos, taxas e contribuições.
+Está correto o que consta APENAS de
+a) I e II.
+b) I, III e IV.
+c) II e III.
+d) II, III e IV.
+e) III e IV.
+18. (FCC/Analista de Fomento/Contador/AFAP/2019) A Demonstração do resultado do ano de 2017 da
+empresa Só Negócios S.A. é apresentada a seguir, com os valores expressos em reais.
+
+               Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             65
+               www.estrategiaconcursos.com.br                                                               86
+
+                                            
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Com base na demonstração acima e sabendo que o valor dos tributos recuperáveis referentes aos produtos
+comercializados em 2017 foi 6.750 (em reais), o valor adicionado total a distribuir pela empresa no período
+foi, em reais,
+a) 75.750.
+b) 73.750.
+c) 39.500.
+d) 67.000.
+e) 31.000
+19. (FCC/Analista Judiciário/Contabilidade/TRE-SP/2017) A Demonstração do Valor Adicionado − DVA tem
+por objetivo evidenciar a riqueza gerada pela empresa em determinado período e a forma como foi
+distribuída. Para elaborar a sua DVA, a Cia. Aberta obteve algumas informações apresentadas abaixo.
+                                                                 (em R$)
+Receita de Vendas                                                700.000,00
+Despesa de salários                                      50.000,00
+FGTS depositado nas contas dos funcionários                      4.000,00
+ICMS incidente sobre as vendas                                   105.000,00
+ICMS incidente sobre as mercadorias vendidas adquiridas de terceiros
+                                                30.000,00
+INSS, parte empregador                                           11.000,00
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                66
+        www.estrategiaconcursos.com.br                                                                  86
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+Com base nessas informações, a riqueza distribuída na forma de impostos, taxas e contribuições foi, em
+reais,
+a) 150.000,00.
+b) 116.000,00.
+c) 120.000,00.
+d) 86.000,00.
+e) 90.000,00.
+20. (FCC/Técnico Judiciário/Contabilidade/TRT-MG/2015) A parcela da riqueza obtida por uma empresa
+destinada à remuneração de Capitais de Terceiros em um determinado período é evidenciada na
+Demonstração
+a) dos Fluxos de Caixa.
+b) do Valor Adicionado.
+c) de Lucros ou Prejuízos Acumulados.
+d) do Resultado do Exercício.
+e) das Mutações do Patrimônio Líquido.
+21. (FCC/Analista de Controle Externo/Auditoria Governamental/TCE-CE/2015) A empresa Produtos
+Conscientes S.A. trabalha na comercialização de produtos naturais e apresentou a seguinte demonstração
+do seu resultado referente ao ano de 2014, com os valores expressos em reais:
+
+Sabe-se que, quando da aquisição dos produtos que foram vendidos em 2014, estavam incluídos no preço
+de compra tributos recuperáveis no valor de R$ 35.000,00. O valor dos tributos incidentes sobre as vendas
+do ano foi R$ 120.000,00. Com base nestas informações, o Valor Adicionado a Distribuir gerado pela Produtos
+Conscientes S.A. no ano de 2014 foi, em reais,
+a) 360.000,00.
+b) 295.000,00.
+c) 205.000.00.
+d) 240.000,00.
+e) 210.000,00.
+22. (FCC/Analista/Contabilidade/CNMP/2015) A Cia. Adicionadora é uma empresa comercial e apresentou
+as seguintes informações referentes ao ano de 2013, com os valores expressos em reais:
+Receita Líquida de Vendas .000,00
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati              67
+          www.estrategiaconcursos.com.br                                                                86
+
+                                          
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+(−) Custo das Mercadorias Vendidas ................................ (170.000,00)
+(=) Lucro Bruto .000,00
+(−) Despesas operacionais
+Depreciação ................................................................... (15.000,00)
+Salários ......................................................................... (10.000,00)
+(=) Lucro antes do IR e CSLL .000,00
+(−) IR e CSLL.................................................................. (21.000,00)
+(=) Lucro Líquido .000,00
+O valor dos tributos recuperáveis que estavam incluídos no valor da compra dos produtos comercializados
+no ano de 2013 foi de R$ 17.500,00, e o valor dos tributos incidentes sobre a receita bruta de vendas do ano
+totalizaram R$ 60.000,00. Com base nestas informações, o Valor Adicionado a Distribuir gerado pela Cia.
+Adicionadora no ano de 2013 foi, em reais,
+a) 105.000,00.
+b) 147.500,00.
+c) 102.500,00.
+d) 120.000.00.
+e) 162.500,00.
+23. (FCC/Agente Fiscal de Rendas/SEFAZ-SP/2013) A Demonstração do Valor Adicionado (DVA) deve
+evidenciar a distribuição da riqueza gerada pela entidade. Os principais componentes dessa distribuição a
+serem evidenciados são:
+a) Pessoal; Impostos, taxas e contribuições; Insumos adquiridos de terceiros.
+b) Impostos, taxas e contribuições; Remuneração de capitais próprios e de terceiros; Valor Adicionado
+recebido em transferência.
+c) Pessoal; Impostos, taxas e contribuições; Remuneração de capitais próprios; Remuneração de capitais de
+terceiros.
+d) Pessoal; Remuneração de capitais de terceiros; Remuneração dos sócios; Receita financeira.
+e) Pessoal; Impostos, taxas e contribuições; Remuneração de capitais próprios e de terceiros; Valor
+Adicionado recebido em transferência.
+24. (FCC/Agente de Fiscalização Financeira/TCE-SP/2012) Na elaboração da Demonstração do Valor
+Adicionado, de elaboração obrigatória, a partir de 1º de janeiro de 2008, para as companhias abertas,
+a) a receita financeira recebida pela entidade deve ser computada na apuração do Valor Adicionado Bruto.
+b) o valor dos insumos adquiridos pela companhia devem ser registrados pelo seu custo de aquisição total,
+sendo incluídos neste os tributos incidentes sobre a sua compra, sejam recuperáveis ou não.
+c) no cômputo do Valor Adicionado Bruto, devem ser excluídos os valores relativos à depreciação dos bens
+classificados no Ativo Imobilizado.
+d) os valores de tributos devidos pela companhia devem integrar a parcela do Valor Adicionado distribuída
+ao Governo, sem a compensação de eventuais créditos tributários classificados como tributos a recuperar.
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             68
+            www.estrategiaconcursos.com.br                                                               86
+
+                                                 
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+e) os lucros retidos pela companhia, provenientes do lucro líquido do exercício corrente, não devem figurar
+como remuneração dos sócios na destinação do Valor Adicionado a Distribuir.
+25. (FCC/Agente Fiscal de Rendas/SEFAZ-SP/2009) O valor da receita de equivalência patrimonial recebida
+pela empresa de controlada deve ser apresentada na DVA como
+a) distribuição de riqueza - remuneração do capital de terceiros.
+b) receita criada pela entidade - outras receitas.
+c) receitas não-operacionais - demais.
+d) valor adicionado recebido em transferência.
+e) distribuição de riqueza - remuneração de capital próprio.
+26. (FCC/Técnico Judiciário/TJ-AP/2009) Na Demonstração do Valor Adicionado, constituem itens de
+distribuição do valor adicionado
+a) as receitas e as despesas de aluguéis, as despesas de FGTS e os juros pagos.
+b) as despesas de juros, as reversões de provisão para crédito de liquidação duvidosa e as perdas de ativos.
+c) as despesas de depreciação do período, as receitas de juros e os resultados de equivalência patrimonial.
+d) os benefícios pagos a empregados, os juros sobre capital próprio e os lucros retidos.
+e) os gastos com serviços de terceiros, os valores relativos à construção de ativos próprios e as amortizações.
+27. (FCC/Contador/INFRAERO/2009) Em relação à Demonstração do Valor Adicionado, é correto afirmar:
+a) Nos valores dos materiais consumidos e incluídos no custo dos produtos, apresentados no grupo de
+insumos adquiridos de terceiros, devem ser considerados na aquisição apenas os tributos recuperáveis.
+b) A demonstração do valor adicionado deve ser consistente com a demonstração do resultado e conciliada
+em registros auxiliares mantidos pela entidade.
+c) No item relativo à distribuição do valor adicionado, deve constar apenas os valores pagos aos acionistas,
+a título de juros sobre o capital próprio ou dividendos.
+d) Como são demonstrações de publicação opcional não estão sujeitas a revisão de auditoria, como aquelas
+que são de caráter obrigatório, mesmo que a entidade seja uma companhia aberta.
+e) As informações contábeis contidas na Demonstração do Valor Adicionado são de responsabilidade técnica
+do Conselho de Administração da empresa.
+28. (FCC/Contador/INFRAERO/2011) Na Demonstração do Valor Adicionado,
+a) o valor das vendas de mercadorias, produtos e serviços não inclui o valor dos tributos recuperáveis.
+b) a constituição de provisão para créditos de liquidação duvidosa deve ser somada ao valor das vendas para
+determinar o valor total das receitas da entidade.
+c) as receitas financeiras auferidas pela entidade integram o cálculo da riqueza criada pela própria entidade.
+d) os impostos e contribuições não cumulativos, na distribuição do valor adicionado, devem ser calculados
+somente pelos valores devidos na operação de venda.
+e) o resultado positivo da equivalência patrimonial integra o valor adicionado transferido por terceiros para
+a entidade.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    69
+        www.estrategiaconcursos.com.br                                                                      86
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+29. (FCC/Auditor Fiscal da Receita Estadual/SEFAZ-RJ/2014) Determinada empresa comercial apresentava
+as seguintes informações referentes ao primeiro semestre de 2013:
+Receita Bruta de Vendas .............................................. R$ 500.000,00
+(-) Impostos sobre vendas ............................................ R$ 90.000,00
+(=) Receita Líquida .................................................... R$ 410.000,00
+(-) Custo das Mercadorias Vendidas .............................. R$ 220.000,00
+(=) Lucro Bruto ........................................................... R$ 190.000,00
+(-) Despesas operacionais
+       Despesa de depreciação ....................................... R$ 20.000,00
+       Despesa com salários ........................................... R$ 10.000,00
+(=) Lucro antes do IR e CSLL ........................................ R$ 160.000,00
+(-) IR e CSLL ................................................................ R$ 24.000,00
+(=) Lucro Líquido ........................................................ R$ 136.000,00
+Sabe-se que o valor dos tributos recuperáveis referentes às mercadorias comercializadas no primeiro
+semestre foi R$ 30.000,00 e, além da obrigação assumida com fornecedores, nenhum gasto adicional foi
+necessário para colocar as mercadorias em condições de serem vendidas. Com base nestas informações, o
+Valor Adicionado a Distribuir gerado pela empresa, no primeiro semestre de 2013, foi
+a) R$ 230.000,00.
+b) R$ 410.000,00.
+c) R$ 190.000,00.
+d) R$ 280.000,00.
+e) R$ 250.000,00.
+30. (FCC/Analista Judiciário/Contabilidade/TRT20/2011) Na elaboração da Demonstração do Valor
+Adicionado (DVA) são identificados como Valor Adicionado Recebido Em Transferência:
+a) as receitas financeiras obtidas e os dividendos recebidos.
+b) os resultados na venda de imobilizados, as depreciações e as amortizações.
+c) os royalties recebidos e os insumos adquiridos de terceiros.
+d) os serviços profissionais contratados de terceiros e os aluguéis obtidos.
+e) os impostos recuperáveis e as recuperações de perdas.
+31. (FCC/Contador/DNOCS/2010) Dados da Cia. Miramar, referentes ao exercício encerrado em
+31/12/2008, em R$:
+Custo das Mercadorias Vendidas .000,00
+Serviços adquiridos de terceiros .000,00
+Receita de dividendos .000,00
+Despesas financeiras .000,00
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati       70
+           www.estrategiaconcursos.com.br                                                         86
+
+                                               
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+Outros materiais adquiridos de terceiros .000,00
+Despesas de depreciação .000,00
+Receita de vendas .000,00
+Pagamento de mão de obra e encargos trabalhistas.000,00
+Com estas informações, o Valor Adicionado a Distribuir da companhia nesse exercício correspondeu, em R$,
+a
+a) 160.000,00.
+b) 200.000,00.
+c) 190.000,00.
+d) 170.000,00.
+e) 220.000,00.
+Ao final do exercício de 2008, a contabilidade da Cia. Misericórdia informa a relação dos saldos finais das
+contas de resultados, a seguir:
+
+32. (FCC/Contador/Infraero/2009) O valor adicionado total a distribuir corresponde a
+a) R$ 133.500,00
+b) R$ 133.000,00
+c) R$ 142.500,00
+d) R$ 142.000,00
+e) R$ 141.500,00
+33. (FCC/Contador/Infraero/2009) O valor adicionado recebido em transferência é
+a) R$ 3.000,00
+b) R$ 5.000,00
+c) R$ 8.000,00
+
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             71
+           www.estrategiaconcursos.com.br                                                               86
+
+                                             
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+d) R$ 10.000,00
+e) R$ 13.000,00
+34. (FGV/Técnico Superior Especializado/Ciências Contábeis/DPE-RJ/2014) A respeito da Demonstração
+do Valor Adicionado, o Pronunciamento Técnico CPC 09 menciona: “para os investidores e outros usuários,
+essa demonstração proporciona o conhecimento de informações de natureza econômica e social e oferece
+a possibilidade de melhor avaliação das atividades da entidade dentro da sociedade na qual está inserida”.
+O CPC 09 ainda define valor adicionado como “a riqueza criada pela empresa, de forma geral medida pela
+diferença entre o valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor adicionado
+recebido em transferência, ou seja, produzido por terceiros e transferido à entidade”.
+A alternativa que relaciona corretamente apenas componentes da distribuição do valor adicionado é
+a) remuneração direta dos empregados, FGTS, IPTU, alugueis e lucros retidos.
+b) benefícios aos empregados, remuneração de serviços de terceiros, INSS, ICMS e juros de financiamentos.
+c) folha de pagamento, tributos federais, estaduais e municipais, prestação paga de arrendamento
+financeiro, juros sobre capital próprio.
+d) remuneração dos empregados, impostos, taxas e contribuições, aquisição de mercadorias e remunerações
+de capitais próprios.
+e) folha de pagamento, tributos, juros de financiamentos, equivalência patrimonial.
+35. (FGV/Auditor/CGE-MA/FGV/2014) A Demonstração do Valor Adicionado deve proporcionar aos
+usuários das demonstrações contábeis informações relativas à riqueza criada pela entidade em
+determinado período e a forma como tais riquezas foram distribuídas.
+Assinale a alternativa que apresenta, na elaboração da DVA, exemplos de valor adicionado recebido em
+transferência.
+a) Aluguel recebido e reversão da provisão por crédito de liquidação duvidosa.
+b) Royalties recebidos e reconhecimento do valor justo de ativos biológicos.
+c) Dividendos recebidos e receita da venda de ativo imobilizado
+d) Juros sobre capital próprio recebidos e lucro com a venda de ativo imobilizado.
+e) Juros recebidos em aplicações financeiras e resultado de equivalência patrimonial.
+36. (FGV/Técnico de Nível Médio/Contabilidade/AL-BA/2014) A Cia. Laranja efetuou as seguintes
+operações durante o ano de 2013:
+Receitas financeiras .................................................... R$ 40.000,00
+Vendas de mercadorias ............................................... R$ 300.000,00
+Despesa financeira ..................................................... R$ 30.000,00
+Materiais consumidos adquiridos de terceiros .................. R$ 150.000,00
+Despesa de aluguel ..................................................... R$ 12.000,00
+Receitas de aluguel ..................................................... R$ 30.000,00
+Despesa de seguros contratados ................................... R$ 24.000,00
+Despesa de depreciação .............................................. R$ 20.000,00
+
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati            72
+           www.estrategiaconcursos.com.br                                                              86
+
+                                            
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+Serviços de terceiros ................................................... R$ 5.000,00
+Despesa de salários de funcionários ............................... R$ 40.000,00
+Provisão para créditos de liquidação duvidosa .................. R$ 6.000,00
+Dividendos ................................................................ R$ 40.000,00
+Juros sobre capital próprio ............................................ R$ 30.000,00
+Impostos ..................................................................... R$ 43.000,00
+Baseado nas informações acima, o valor adicionado a distribuir da Cia. Laranja, em 31/12/2013, foi
+a) R$ 135.000,00.
+b) R$ 153.000,00.
+c) R$ 165.000,00.
+d) R$ 171.000,00.
+e) R$ 189.000,00.
+37. (FGV/Auditor da Receita Estadual/SEFAZ-AP/2010) Com base nos dados seguintes, responda a
+questão:
+Receita de vendas de mercadoria ...............................R$ 2.500.000,00.
+Custo de mercadorias vendidas .....................................R$ 160.000,00.
+Materiais, energia e serviços de terceiros.........................R$ 220.000,00.
+Depreciação e amortização............................................R$ 120.000,00.
+Receitas financeiras......................................................R$ 355.000,00.
+Resultado de equivalência patrimonial ............................. R$ 50.000,00.
+FGTS .......................................................................... R$ 25.000,00.
+Aluguéis......................................................................R$ 15.000,00.
+Dividendos pagos...........................................................R$ 10.000,00.
+Lucros retidos ................................................................R$38.000,00.
+Remuneração direta .......................................................R$45.000,00.
+Considerando a estrutura da DVA - Demonstração do Valor Adicionado, o Valor Adicionado Líquido Produzido
+pela Entidade será de:
+a) R$ 2.000.000,00.
+b) R$ 2.475.000,00.
+c) R$ 2.513.000,00.
+d) R$ 2.120.000,00.
+e) R$ 2.173.000,00.
+38. (FGV/Auditor da Receita Estadual/SEFAZ-AP/2010) Com base nos dados seguintes, responda a
+questão:
+Receita de vendas de mercadoria ...............................R$ 2.500.000,00.
+
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati         73
+            www.estrategiaconcursos.com.br                                                           86
+
+                                                
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+Custo de mercadorias vendidas .....................................R$ 160.000,00.
+Materiais, energia e serviços de terceiros.........................R$ 220.000,00.
+Depreciação e amortização............................................R$ 120.000,00.
+Receitas financeiras......................................................R$ 355.000,00.
+Resultado de equivalência patrimonial ............................. R$ 50.000,00.
+FGTS .......................................................................... R$ 25.000,00.
+Aluguéis......................................................................R$ 15.000,00.
+Dividendos pagos...........................................................R$ 10.000,00.
+Lucros retidos ................................................................R$38.000,00.
+Remuneração direta .......................................................R$45.000,00.
+Considerando a estrutura da DVA - Demonstração do Valor Adicionado, o Valor Adicionado Bruto será de:
+a) R$ 2.000.000,00.
+b) R$ 2.475.000,00.
+c) R$ 2.513.000,00.
+d) R$ 2.120.000,00.
+e) R$ 2.393.000,00.
+39. (FGV/Auditor Fiscal da Receita Estadual/SEFAZ-RJ/2010) A Cia Petrópolis apresentava os seguintes
+dados para a montagem da Demonstração do Valor Adicionado em 31.12.X0:
+
+Assinale a alternativa que indique corretamente o valor adicionado a distribuir da Cia Petrópolis em 31.12.X0.
+a) R$ 310,00.
+b) R$ 510,00.
+c) R$ 620,00.
+d) R$ 650,00.
+e) R$ 760,00.
+40. (FGV/Auditor Fiscal da Receita Estadual/SEFAZ-RJ/2009) A Cia. Rubi efetuou as seguintes operações
+durante o ano de 2009:
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               74
+            www.estrategiaconcursos.com.br                                                                 86
+
+                                                
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Em 31.12.2009, o valor adicionado a distribuir da Cia. Rubi será de:
+a) $ 65.000.
+b) $ 68.000.
+c) $ 63.000.
+d) $ 69.000.
+e) $ 72.000.
+41. (FGV/Contador/Ministério Público/MPE-AL/2018) Na elaboração da Demonstração do Valor
+Adicionado de uma entidade, de acordo com o Pronunciamento Técnico CPC 09 - Demonstração do Valor
+Adicionado, deve ser evidenciado como Valor Adicionado recebido em transferência,
+a) a receita com a prestação de serviços.
+b) a receita ou a despesa com equivalência patrimonial.
+c) a receita com a venda de mercadorias.
+d) a receita com a venda de ativo imobilizado.
+e) o lucro com a venda de ativo imobilizado.
+42. (FGV/Auditor Fiscal de Tributos Estaduais/SEFIN-RO/2018) A Cia. Dado apresentava o seguinte balanço
+patrimonial, em 31/12/2016.
+
+                          Ativo                                             Patrimônio Líquido
+
+    Caixa                                     100.000 Capital Social                             150.000
+    Estoques                                    50.000 Reserva de Ágio                            50.000
+    Terreno                                     80.000 Reserva de Lucros                          30.000
+
+    Ativo total                               230.000 PL total                                   230.000
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   75
+        www.estrategiaconcursos.com.br                                                                     86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Em 2017, aconteceram os fatos a seguir.
+• Em 01/01, a empresa aplicou R$ 30.000 em uma aplicação financeira de longo prazo com rendimento de
+2% ao ano;
+• A empresa vendeu o terreno por R$ 70.000;
+• A empresa reconheceu receita de serviços no valor de R$ 300.000 para recebimento em 2018. A empresa
+considera perdas estimadas com crédito de liquidação duvidosa de 3%.
+• A empresa reconheceu e pagou despesas de aluguel no valor de R$ 12.000;
+• A empresa reconheceu e pagou despesas de salários no valor de R$ 30.000, sendo que R$ 20.000 para
+empregados próprios e R$ 10.000 para terceirizados;
+• A empresa reconheceu e pagou imposto sobre a renda de 34%;
+• A empresa reconheceu e pagou dividendos de 25% sobre o resultado de 2017 e dos anos anteriores, que
+não haviam sido reconhecidos.
+Sobre a divisão do valor adicionado, a distribuir em 31/12/2017, assinale a afirmativa correta.
+a) Os financiadores receberam R$ 12.600.
+b) Os sócios receberam R$ 47.034.
+c) O governo recebeu R$ 81.464.
+d) O governo recebeu R$ 92.344.
+e) Os sócios receberam R$ 165.636.
+43. (FGV/Analista Econômico-Financeiro/Gestão Contábil/BANESTES/2018) Os valores relativos aos gastos
+acumulados com a construção de ativos pela empresa para uso próprio na Demonstração do Valor
+Adicionado devem ser classificados como:
+a) ajustes que aumentam a receita;
+b) ajustes que reduzem a receita;
+c) componentes de insumos adquiridos de terceiros;
+d) retenção da riqueza criada;
+e) redução do valor adicionado a distribuir.
+44. (FBC/Exame de Suficiência CFC/Bacharel/2017.2) Considerando-se apenas o disposto na NBC TG 09 –
+DEMONSTRAÇÃO DO VALOR ADICIONADO, a distribuição da riqueza criada deve ser detalhada,
+minimamente, da seguinte forma:
+a) custos com aquisição de matéria-prima de terceiros; insumos adquiridos de terceiros.
+b) materiais, energia e outros; serviços de terceiros, comissões líquidas; variação das despesas de
+comercialização diferidas; perda e recuperação de valores ativos.
+c) pessoal e encargos; impostos, taxas e contribuições; juros e aluguéis; juros sobre o capital próprio e
+dividendos; lucros retidos/prejuízos do exercício.
+d) resultado de equivalência patrimonial; receitas financeiras; outras receitas.
+45. (FBC/Exame de Suficiência CFC/Bacharel/2015.2) Uma Sociedade Empresária apresentou os seguintes
+dados para a elaboração da Demonstração do Valor Adicionado em 2014:
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati              76
+        www.estrategiaconcursos.com.br                                                                86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Considerando-se que houve apenas esses saldos e movimentações, o
+Valor Adicionado Bruto, na Demonstração do Valor Adicionado, é igual a:
+a) R$28.300,00.
+b) R$40.000,00.
+c) R$70.000,00.
+d) R$110.000,00.
+46. (FBC/Exame de Suficiência CFC/Bacharel/2013.2) Em relação às informações relativas à riqueza criada
+e sua distribuição apresentada na Demonstração do Valor Adicionado de uma empresa industrial, assinale
+a opção INCORRETA.
+a) A distribuição do valor adicionado abrange, entre outros, a remuneração direta com pessoal, benefícios,
+FGTS, imposto, taxas e contribuições federais, estaduais e municipais e a remuneração de capitais próprios,
+tais como dividendos e juros do capital próprio.
+b) A remuneração de capital de terceiros abrange, entre outros, os fornecedores, as contas a pagar, os juros
+passivos, as provisões judiciais e as reservas patrimoniais.
+c) O valor adicionado recebido em transferência abrange, entre outros, o resultado da equivalência
+patrimonial e as receitas financeiras.
+d) Os insumos adquiridos de terceiros abrangem, entre outros, os custos das matérias-primas incluídos no
+custo dos produtos vendidos, energia e serviços de terceiros.
+47. (FBC/Exame de Suficiência CFC/Bacharel/2013.1) Uma sociedade empresária é constituída com um
+capital de R$100.000,00, totalmente integralizado em dinheiro. Após a constituição, a empresa realizou as
+seguintes transações:
+- Aquisição de mercadorias por R$50.000,00, neste valor incluído o valor de R$6.000,00, relativo ao ICMS
+recuperável.
+- Venda das mercadorias por R$90.000,00, neste valor incluído ICMS, no valor de R$15.300,00.
+- Despesas com energia do período, no valor de R$900,00.
+- PIS e COFINS incidentes sobre vendas, no valor de R$3.285,00.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 77
+        www.estrategiaconcursos.com.br                                                                   86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+- Despesa com aluguéis, no valor de R$1.000,00.
+- Despesas com salários e FGTS, no valor de R$2.000,00.
+- Despesa com INSS, no valor de R$400,00.
+- O lucro foi destinado como se segue: 5% para reserva legal; 40% para dividendos obrigatórios; e 55% para
+lucros para deliberação da assembleia.
+Na Demonstração do Valor Adicionado, o Valor Adicionado Total a Distribuir, é de:
+a) R$45.100,00.
+b) R$44.100,00.
+c) R$39.100,00.
+d) R$38.100,00.
+48. (FBC/Exame de Suficiência CFC/Bacharel/2012.2) Assinale a opção que apresenta exemplo de valores
+                                                         ==219a34==
+
+que reduzem o valor adicionado bruto, por estarem incluídos nos insumos adquiridos de terceiros, na
+Demonstração do Valor Adicionado (DVA).
+a) Salários de empregados, computados no custo dos produtos vendidos. b) Estoque de matéria-prima.
+c) Despesas com serviço de representação comercial, prestada por terceiros.
+d) Aluguéis de máquinas utilizadas na produção.
+49. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) Uma sociedade empresária apresentou os seguintes
+dados para a elaboração da Demonstração do Valor Adicionado:
+Receita Bruta de Vendas                                  R$800.000,00
+(-) Tributos sobre as Vendas                             R$136.000,00
+Receita Líquida                                          R$664.000,00
+(-) Custo das Mercadorias Vendidas                       R$498.000,00
+Lucro Bruto                                              R$166.000,00
+Despesa com Pessoal                                      R$90.000,00
+Despesa com Depreciação                                  R$8.000,00
+Despesa de Juros sobre Empréstimos                       R$3.000,00
+Resultado antes dos Tributos sobre o Lucro               R$65.000,00
+Imposto de Renda                                         R$16.250,00
+Contribuição Social                                      R$5.850,00
+Resultado do Período                                     R$42.900,00
+Informações adicionais:
+I. O custo de aquisição da mercadoria vendida foi calculado da seguinte forma:
+Valor da Mercadoria                                      R$600.000,00
+ICMS Recuperado                                          R$102.000,00
+Custo Aquisição                                          R$498.000,00
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               78
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+II. O valor da despesa com Pessoal é composto dos seguintes gastos:
+Salários, Férias e 13º Salário                            R$65.000,00
+INSS                                                      R$25.000,00
+Total                                                     R$90.000,00
+De acordo com a Demonstração do Valor Adicionado, elaborada a partir dos dados fornecidos, assinale a
+opção INCORRETA.
+a) O Valor adicionado a distribuir é R$192.000,00.
+b) O Valor adicionado a distribuir é R$294.000,00.
+c) O valor da remuneração de capital de terceiros é de R$3.000,00.
+d) O valor distribuído para pessoal é de R$65.000,00.
+50. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) Na Demonstração do Valor Adicionado, a despesa
+com aluguel, a energia elétrica consumida no período e o resultado positivo da equivalência patrimonial
+são evidenciados, respectivamente, como:
+a) insumos adquiridos de terceiros; insumos adquiridos de terceiros e remuneração do capital próprio.
+b) insumos adquiridos de terceiros; remuneração do capital de terceiros e valor adicionado recebido em
+transferência.
+c) remuneração do capital de terceiros; insumos adquiridos de terceiros e valor adicionado recebido em
+transferência.
+d) remuneração do capital de terceiros; remuneração do capital de terceiros e remuneração do capital
+próprio.
+51. (FBC/Exame de Suficiência CFC/Bacharel/2011.1) Uma sociedade empresária adquiriu mercadorias
+para revenda por R$5.000,00, neste valor incluído ICMS de R$1.000,00. No mesmo período, revendeu toda
+a mercadoria adquirida por R$9.000,00, neste valor incluído ICMS de R$1.800,00. A sociedade empresária
+registrou, no período, despesas com representação comercial no montante de R$1.200,00 e depreciação de
+veículos de R$200,00.
+Na Demonstração do Valor Adicionado - DVA, elaborada a partir dos dados fornecidos, o valor adicionado a
+distribuir é igual a:
+a) R$1.800,00.
+b) R$2.600,00.
+c) R$3.200,00.
+d) R$4.000,00.
+52. (CESGRANRIO/Transpetro/2018) As empresas brasileiras, em atendimento às Normas Brasileiras de
+Contabilidade e em cumprimento à Lei das sociedades por ações, devem apresentar suas informações
+patrimoniais, econômicas e financeiras nas demonstrações contábeis, determinadas pelos citados diplomas.
+Nesse contexto, uma empresa com a obrigação legal de emitir a demonstração, que representa um dos
+elementos componentes do Balanço Social e, que tem, entre seus objetivos básicos, apresentar o quanto a
+entidade agrega de valor aos insumos adquiridos, tem que elaborar a demonstração do(a.)
+a) fluxo de caixa
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               79
+         www.estrategiaconcursos.com.br                                                                 86
+
+                                      
+
+
+---
+
+   Gilmar Possati
+   Aula 13
+
+b) lucro ou prejuízo acumulado
+c) mutação do patrimônio líquido
+d) resultado abrangente
+e) valor adicionado
+53. (CESGRANRIO/Petrobras/2018) Segundo o Pronunciamento Técnico CPC 09, a Demonstração do Valor
+Adicionado é formada por duas partes: a primeira, responsável por apresentar de forma detalhada a riqueza
+criada pela entidade, e a segunda, que apresenta de forma detalhada como a riqueza obtida pela entidade
+foi distribuída. Associe os principais componentes da segunda parte da DVA com as informações que
+constam em cada componente e que estão apresentadas a seguir.
+I – Pessoal
+II – Impostos, Taxas e Contribuições
+III – Remuneração de Capital de Terceiros
+IV – Remuneração de Capital Próprio
+P - Aluguéis
+Q - Lucros Retidos
+R - Imposto de Renda de Pessoa Jurídica
+S - Energia Elétrica
+T - 13° Salário
+As associações corretas são:
+a) I - P , II - R , III - S , IV - T
+b) I - R , II - Q , III - P , IV - T
+c) I - R , II - Q , III - S , IV - T
+d) I - T , II - R , III - P , IV - Q
+e) I - T , II - R , III - S , IV - Q
+54. (CESGRANRIO/Transpetro/2018) O quadro abaixo apresenta a estrutura para elaboração da
+Demonstração do Valor Adicionado:
+                           1 - Receitas
+                           2 - Insumos adquiridos de terceiros
+                           3 - Valor adicionado bruto
+                           4 - Retenções
+                           5 -Valor adicionado líquido produzido pela entidade
+                           6 - Valor adicionado recebido em transferência
+                           7 - Valor adicionado total a distribuir
+                           8 - Distribuição do valor adicionado
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati            80
+          www.estrategiaconcursos.com.br                                                              86
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+Considerando essa estrutura de itens e as orientações do CPC 09, os valores relativos a depreciações e
+amortizações devem ser
+a) apresentados como retenção de riqueza.
+b) apresentados como redutores do valor adicionado recebido em transferência.
+c) apresentados de forma adicional aos insumos adquiridos de terceiros.
+d) alocados de forma dedutiva após o item valor adicionado a distribuir.
+e) alocados apenas na DRE, pois não afetam a riqueza gerada pela entidade.
+55. (CESGRANRIO/Petrobras/2015) A companhia K de capital aberto apresentou, em reais, as seguintes
+informações parciais retiradas de seus livros e controles contábeis:
+ Compra de mercadorias, incluindo o ICMS destacado na Nota Fiscal de 2.700,00              15.000,00
+ Dividendos recebidos de investimentos avaliados ao custo                                  1.000,00
+ Energia Elétrica                                                                          1.200,00
+ Estoque inicial e final de mercadorias                                                    0,00
+ Receitas Financeiras                                                                      2.000,00
+ Resultado positivo (ganho) de equivalência patrimonial                                    7.000,00
+ Venda de mercadorias, incluindo o ICMS destacado na Nota Fiscal de 6.300,00               35.000,00
+Considerando-se exclusivamente as informações recebidas e os dizeres do CPC 09, aprovado pela
+Deliberação CVM nº 557/2008, na elaboração da Demonstração do Valor Adicionado, o total desse valor
+recebido em transferência, em reais, é de
+a) 8.800,00
+b) 10.000,00
+c) 15.200,00
+d) 20.000,00
+e) 26.400,00
+56. (CESGRANRIO/Auditor/CEFET-RJ/2014) De acordo com a legislação societária vigente no Brasil, as
+sociedades são obrigadas a elaborar algumas demonstrações financeiras.
+Qual demonstração financeira é obrigatória apenas para as companhias de capital aberto?
+a) Demonstração de fluxo de caixa
+b) Demonstração do valor adicionado
+c) Demonstração de resultado de exercício
+d) Demonstração de mutação de patrimônio líquido
+e) Demonstração de origens e aplicações de recursos
+A companhia O apresentou a seguinte demonstração do resultado, elaborada, em reais, de acordo com as
+determinações da legislação societária, referente ao exercício findo em 31 de dezembro de 2013.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               81
+        www.estrategiaconcursos.com.br                                                                 86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+57. (CESGRANRIO/Contador Júnior/Petrobras/2014) Considerando exclusivamente os valores
+apresentados na demonstração, a companhia O, elaborada a Demonstração do Valor Adicionado (DVA),
+apurou que o valor que ela distribuiu ao Governo, no exercício findo de 2013, em reais, foi de
+a) 265.950,00
+b) 276.750,00
+c) 279.630,00
+d) 302.130,00
+e) 312.930,00
+58. (CESGRANRIO/Contador Júnior/Petrobras/2014) Considerando exclusivamente os valores
+apresentados na demonstração, a companhia O, elaborada a Demonstração do Valor Adicionado (DVA),
+apurou que o valor adicionado total a distribuir, no exercício findo de 2013, em reais, foi de
+a) 674.550,00
+b) 733.230,00
+c) 753.930,00
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati     82
+        www.estrategiaconcursos.com.br                                                       86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+d) 809.550,00
+e) 868.230,00
+59. (CESGRANRIO/Profissional Básico/Ciências Contábeis/BNDES/2011) A elaboração e divulgação da
+demonstração do valor adicionado (DVA), para atender aos requisitos estabelecidos no Pronunciamento
+Técnico CPC 09 e na legislação societária, entre outros aspectos relevantes, deverá
+a) conter a variação ocorrida no capital circulante líquido.
+b) ser elaborada como base no princípio contábil da competência.
+c) ser elaborada com base no princípio contábil da atualização monetária.
+d) permitir o cálculo do Produto Interno Bruto do segmento onde atua a empresa.
+e) analisar os efeitos do valor econômico agregado sobre a liquidez da empresa.
+60. (CESGRANRIO/Contador Júnior/Petrobras/2014) A demonstração contábil que tem por objetivo
+evidenciar o valor da riqueza econômica gerada pelas atividades da empresa como resultante de um
+esforço coletivo e sua distribuição entre os elementos que contribuíram para sua criação é a demonstração
+denominada
+a) balanço patrimonial
+b) balanço social
+c) lucros ou prejuízos acumulados
+d) resultado do exercício
+e) valor adicionado
+61. (CESGRANRIO/Contador Júnior/Transpetro/2011) Nos termos da nova redação dada à Lei nº 6.404/76
+pelas Leis nºs 11.638/07 e 11.941/09, uma das demonstrações indicará “o valor da riqueza gerada pela
+companhia e a sua distribuição entre os elementos que contribuíram para a geração dessa riqueza”.
+Este conceito está evidenciado na demonstração
+a) Valor Adicionado
+b) Resultado do Exercício
+c) Lucro ou os Prejuízos Acumulados
+d) Fluxos de Caixa
+e) Mutações do Patrimônio Líquido
+62. (CESGRANRIO/Analista/Contabilidade/EPE/2010) De acordo com a legislação pertinente, "o valor da
+riqueza gerada pela Companhia, a sua distribuição entre os elementos que contribuíram para a geração
+dessa riqueza, tais como empregados, financiadores, acionistas, governo e outros, bem como a parcela da
+riqueza não distribuída" serão identificados em qual demonstrativo contábil?
+a) Balanço Patrimonial.
+b) Demonstração do Resultado do Exercício.
+c) Demonstração de Lucros ou Prejuízos Acumulados.
+d) Demonstração de Origem e Aplicações de Recursos.
+e) Demonstração do Valor Adicionado.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati              83
+        www.estrategiaconcursos.com.br                                                                86
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 13
+
+63. (QUADRIX/Contador/Terracap/2017) A DVA tornou-se obrigatória no Brasil com a promulgação da Lei
+n.º 11.638/2007, que alterou a Lei n.º 6.404/1976 (Lei das sociedades por ações). Essa obrigatoriedade
+aplica-se às companhias abertas, juntamente com as demais demonstrações contábeis relativas ao
+encerramento de cada exercício social.
+Considerando que o texto acima tenha caráter unicamente motivador, discorra a respeito da DVA, tomando
+como referência o pronunciamento técnico CPC 09 (demonstração do valor adicionado), emitido pelo CPC.
+Em seu texto, aborde, necessariamente, os seguintes aspectos:
+• finalidade da DVA e detalhamento mínimo exigido da destinação da riqueza gerada pela entidade;
+• fundamentação macroeconômica da DVA; e
+• diferenças entre os modelos contábil e econômico no cálculo do valor adicionado.
+Extensão Máxima: 30 linhas
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati           84
+        www.estrategiaconcursos.com.br                                                             86
+
+                                     
+
+
+---
+
+Gilmar Possati
+Aula 13
+
+                                                  GABARITO
+
+          1.      2.       3.       4.        5.       6.       7.       8.       9.     10.   11.
+          C       E        E        C         E        E        E        C        E      E     C
+          12.     13.      14.      15.       16.      17.      18.      19.      20.    21.   22.
+          E       E        E        C         E        C        D        D        B      B     B
+          23.     24.      25.      26.       27.      28.      29.      30.      31.    32.   33.
+          C       B        D        D         B        E        A        A        C      E     C
+          34.     35.      36.      37.       38.      39.      40.      41.      42.    43.   44.
+          A       E        C        A         D        E        A        B        C      A     C
+          45.     46.      47.      48.       49.      50.      51.      52.      53.    54.   55.
+          B       B        C        C         B        C        B        E        D      A     B
+          56.     57.      58.      59.       60.      61.      62.      63.
+          B       D        B        B         E        A        E        X
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               85
+      www.estrategiaconcursos.com.br                                                                 86
+
+                                   
+
+
+---
+
+---

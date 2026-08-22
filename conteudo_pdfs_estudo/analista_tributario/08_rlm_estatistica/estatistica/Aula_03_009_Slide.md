@@ -1,0 +1,134 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 03_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: QUESTÕES FGV 2024
+---
+
+# QUESTÕES FGV 2024
+
+QUESTÕES FGV 2024
+MEDIANA
+
+          
+
+
+---
+
+FGV - 2024 - AUDITOR DE CONTROLE EXTERNO (TCE-PA)
+A amostra de idades a seguir foi obtida:
+
+
+20 35 23 54 46 22 41 50 38 40 35 18 32 29 31 56 37
+
+
+A mediana dessas idades é igual a
+
+A. 34
+B. 35
+C. 36
+D. 37
+E. 38
+
+                                     
+
+
+---
+
+FGV - 2024 - ANALISTA EM GESTÃO MUNICIPAL (PREF SJC)
+Segundo dados do IBGE, o IPCA mensal registrou os seguintes valores entre janeiro e julho de
+2023 (em %):
+
+ jan/23          0,53
+ fev/23          0,84
+ mar/23          0,71
+ abr/23          0,61
+ mai/23          0,23
+ jun/23          -0,08
+ jul/23          0,12
+Considerando esse período, a mediana e a amplitude (em %) foram iguais, respectivamente, a
+A. 0,42 e 0,76.
+B. 0,53 e 0,76.
+C. 0,53 e 0,92.
+D. 0,53 e 0,485.
+E. 0,57 e 0,84.
+                                    
+
+
+---
+
+FGV - 2024 - PROFESSOR (PREF CARAGUATATUBA)
+Quatro atletas disputam uma prova de salto ornamental. Cada um deles tem direito a dar 4
+saltos. Cada salto recebe nota de 0 a 10. Vence a prova o atleta cujo conjunto de notas tiver a
+maior mediana. Em caso de empate, vence aquele cujo conjunto de notas tiver o menor
+desvio padrão.
+
+Na tabela a seguir, pode-se ver as notas obtidas em cada salto pelos atletas.
+
+ Atleta A       7,5         8,5            7,5                      7,0
+
+ Atleta B       7,0         9,5            6,0                      8,5
+
+ Atleta C       7,5         7,5            7,5                      7,5
+
+ Atleta D       6,5         2,0           10,0                      9,0
+
+
+                                      
+
+
+---
+
+ FGV - 2024 - PROFESSOR (PREF CARAGUATATUBA)
+
+Atleta A       7,5        8,5         7,5                      7,0
+
+Atleta B       7,0        9,5         6,0                      8,5
+
+Atleta C       7,5        7,5         7,5                      7,5
+
+Atleta D       6,5        2,0        10,0                      9,0
+
+Nessa competição, o atleta vencedor e o atleta que ficou em 2º foram, respectivamente,
+
+A. A e B.
+B. B e D.
+C. C e A.
+D. D e C.
+E. B e C.
+                                    
+
+
+---
+
+FGV - 2024 - AUXILIAR TÉCNICO (TCE-PA)
+O professor deu as seguintes notas numa prova de matemática de uma pequena turma de 7
+alunos:
+
+A mediana dessas notas foi igual a
+
+A. 4,2
+B. 5,5
+C. 6,5
+D. 6,6
+E. 6,7
+                                     
+
+
+---
+
+OBRIGADO
+
+     
+
+
+---

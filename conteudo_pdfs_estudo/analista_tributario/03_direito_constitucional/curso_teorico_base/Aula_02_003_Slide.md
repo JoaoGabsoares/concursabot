@@ -1,0 +1,370 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 02_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 97.
+---
+
+# DIREITO CONSTITUCIONAL
+
+DIREITO CONSTITUCIONAL
+
+                                          Profª. Nelma Fontana
+
+     
+
+
+---
+
+Professora Nelma Fontana
+
+                 @nelmafontana
+  
+
+
+---
+
+Hermenêutica Constitucional
+
+       
+
+
+---
+
+Princípios de interpretação da Constituição
+
+             
+
+
+---
+
+O Princípio da Supremacia da Constituição
+
+O princípio da supremacia da Constituição garante o reconhecimento do texto
+constitucional como norma hierarquicamente superior sobre todas as demais
+normas jurídicas. Sendo assim, toda interpretação jurídica deve iniciar-se pela
+Constituição, pois constitui o fundamento de validade de todo o ordenamento
+jurídico.
+
+                              
+
+
+---
+
+Princípio da força normativa da constituição
+
+O princípio da força normativa da Constituição, na lição de Konrad Hesse,
+assevera que os aplicadores da Constituição, na solução dos problemas
+jurídico-constitucionais, devem dar preferência àqueles pontos de vista que se
+ajustam historicamente ao sentido das normas constitucionais, para lhe conferir
+maior eficácia.
+
+                             
+
+
+---
+
+Princípio da presunção da constitucionalidade das leis
+
+O princípio da presunção de constitucionalidade das leis assegura o trabalho do
+legislador e a separação dos poderes. Tendo a lei sido promulgada e publicada, o
+intérprete deverá tentar extrair, sempre que possível, a sua validade, só
+declarando a sua inconstitucionalidade quando esta for flagrante e incontestável.
+
+Art. 97. Somente pelo voto da maioria absoluta de seus membros ou dos
+membros do respectivo órgão especial poderão os tribunais declarar a
+inconstitucionalidade de lei ou ato normativo do Poder Público.
+                             
+
+
+---
+
+---
+
+Princípio da interpretação conforme a Constituição
+
+Os aplicadores da Constituição, em face de normas infraconstitucionais de
+múltiplos significados, escolhem o sentido que as torne constitucionais, e não
+aquele que resulte na sua declaração de inconstitucionalidade.
+
+                            
+
+
+---
+
+Princípio da unidade da constituição
+
+∙ Não há hierarquia entre as normas constitucionais;
+∙ Uma norma constitucional complementa outra;
+∙ Não existe contradição entre as normas constitucionais.
+
+                             
+
+
+---
+
+Princípio da concordância prática ou da harmonização
+
+O princípio da concordância prática orienta o hermeneuta a agir diante de uma
+colisão entre valores constitucionais, para que nenhum desses valores seja
+prejudicado. Assim, a interpretação das normas constitucionais deve permitir a
+harmonização de todos os dispositivos, de forma a buscar a interpretação que não
+sacrifique inteiramente um deles, mas antes, os harmonize.
+
+                             
+
+
+---
+
+Princípio da correção funcional (ou conformidade funcional, ou exatidão
+funcional, ou justeza)
+
+O órgão encarregado da interpretação da norma constitucional não pode chegar a
+um resultado que subverta ou perturbe o esquema organizatório-funcional
+constitucionalmente estabelecido.
+
+                            
+
+
+---
+
+Princípio do efeito integrador
+
+O princípio do efeito integrador, corolário do princípio da unidade e oriundo da
+interpretação sistemática, estabelece que, na interpretação das normas, para
+resolução dos problemas jurídico-constitucionais, o intérprete deve levar em
+conta a relação Estado-sociedade, a fim de dar primazia aos critérios
+favorecedores da integração política e social, bem como ao reforço da unidade
+política.
+
+                             
+
+
+---
+
+Princípio da máxima efetividade (eficiência ou interpretação efetiva)
+
+O princípio da máxima efetividade, decorrente do princípio da força normativa,
+orienta os intérpretes da Constituição a buscarem a maior proximidade possível
+do texto da Lei Maior, sem lhe alterar o sentido ou conteúdo.
+
+                             
+
+
+---
+
+Princípio da proporcionalidade (ou razoabilidade)
+
+O princípio da razoabilidade (ou da proporcionalidade) tem base na teoria de Karl
+Larenz, para o qual a razoabilidade consubstancia uma pauta de natureza
+axiológica que emana diretamente das ideias de justiça, equidade, bom senso,
+prudência, moderação, justa medida, proibição de excesso. Precede e condiciona
+a aplicação da lei, inclusive a Constituição, de forma a aplicar, ao caso concreto, a
+decisão mais justa e equilibrada.
+
+                              
+
+
+---
+
+Princípio da reserva do possível
+
+Regula a possibilidade e a extensão da atuação estatal no que se refere à
+efetivação de alguns direitos sociais e fundamentais, tais como o direito à saúde,
+condicionando a prestação do Estado à existência de recursos públicos
+disponíveis.
+
+                             
+
+
+---
+
+Princípio do mínimo existencial
+
+A doutrina do mínimo existencial se desenvolve com o objetivo
+de identificar um conjunto de direitos sociais mínimos destinados a
+assegurar as condições indispensáveis à subsistência da pessoa e ao
+exercício de suas liberdades.
+
+                             
+
+
+---
+
+Estado de Coisas Inconstitucional
+
+Para a caracterização do estado de coisas inconstitucional deve ser
+constatada violação a direitos e garantias fundamentais de uma ampla
+parcela de população, em situação em que evidenciada falha estrutural
+sistêmica de autoridades e entidades na execução e na condução de
+políticas públicas.
+
+                             
+
+
+---
+
+Teoria dos Poderes Implícitos
+
+Quando a Constituição confere uma competência a um órgão, implicitamente
+também confere os poderes necessários à execução dessa competência.
+
+                                
+
+
+---
+
+---
+
+(2023/CESPE/CEBRASPE/PGM – SP/Procurador do Município) Quanto ao conceito,
+à classificação e a interpretação das normas constitucionais, assinale a opção
+correta.
+A) Uma norma materialmente constitucional pode ser não escrita.
+B) O fato de uma norma constitucional atribuir certo poder geral a um órgão não
+pressupõe que ela haja atribuído outros poderes necessários à realização daquele.
+C) As normas constitucionais caracterizam-se por não terem exequibilidade
+imediata.
+D) Na interpretação das normas constitucionais originárias, deve-se considerar a
+hierarquia entre as normas materialmente constitucionais e as formalmente
+constitucionais.
+E) O intérprete da Constituição deve privilegiar o método gramatical ou literal, a
+fim de evitar interpretações contraditórias do texto constitucional.
+
+                             
+
+
+---
+
+(2023/FUNDATEC/Prefeitura de Dom Pedrito – RS/Procurador) Pedro Lenza, em
+sua obra Direito Constitucional (Editora SaraivaJur, 26ª edição, 2022), ao tratar
+dos princípios que orientam a interpretação das normas constitucionais, explica
+que “a Constituição deve ser sempre interpretada em sua globalidade, como um
+todo, e, assim, as aparentes antinomias deverão ser afastadas”. O doutrinador
+está se referindo ao princípio da:
+A) Unidade da Constituição.
+B) Máxima efetividade.
+C) Concordância prática ou harmonização..
+D) Força normativa da Constituição.
+E) Interpretação conforme a Constituição.
+
+                             
+
+
+---
+
+(2023/CESPE/CEBRASPE/AGU/Procurador Federal) No campo da hermenêutica
+constitucional, a via de interpretação que orienta os intérpretes a buscar a maior
+concretude possível das normas constitucionais, sem lhes alterar o conteúdo,
+corresponde ao princípio da
+A) concordância prática ou da harmonização.
+B) razoabilidade.
+C) proporcionalidade.
+D) máxima efetividade.
+E) interpretação conforme a Constituição.
+
+                             
+
+
+---
+
+(2022/Quadrix/CRA-SC/Advogado) O princípio segundo o qual não se deve
+considerar uma norma da Constituição fora do sistema em que esta se integra
+denomina-se princípio da
+A) força normativa da Constituição.
+B) eficácia integradora.
+C) correção funcional.
+D) concordância prática.
+E) unicidade da Constituição.
+
+                           
+
+
+---
+
+(2022/CESPE/CEBRASPE/PGE-RJ/Analista Contábil) Pelo princípio da concordância
+prática, busca-se, em uma aparente situação de conflito entre bens jurídicos de
+proteção constitucional, a coexistência harmônica entre eles, de modo a evitar o
+sacrífico total ou a negação de um deles.
+
+                             
+
+
+---
+
+---
+
+Métodos de interpretação da Constituição
+
+            
+
+
+---
+
+Método jurídico (ou método hermenêutico clássico)
+
+O sentido das normas constitucionais é extraído de cinco elementos
+interpretativos:
+
+a) o elemento filológico (semântico, gramatical ou literal
+
+b) o elemento lógico (ou sistemático
+
+c) elemento histórico (ou genético)
+
+d) elemento teleológico (ou finalidade)
+
+e) comparativo
+                              
+
+
+---
+
+Método tópico-problemático
+
+O método de interpretação constitucional denominado tópico-problemático
+pressupõe a compreensão do problema concreto a resolver, havendo, nesse
+método, a primazia do problema sobre a norma.
+
+                             
+
+
+---
+
+O método hermenêutico-concretizador
+
+O método hermenêutico-concretizador estabelece um “movimento de ir e vir”
+(círculo hermenêutico), do subjetivo para o objetivo e do objetivo para o
+subjetivo.
+
+                          
+
+
+---
+
+(2022/CESPE/CEBRASPE/PGE-RJ/Analista Contábil) Pelo princípio da concordância
+prática, busca-se, em uma aparente situação de conflito entre bens jurídicos de
+proteção constitucional, a coexistência harmônica entre eles, de modo a evitar o
+sacrífico total ou a negação de um deles.
+
+                             
+
+
+---
+
+GRATA!
+                                          Profª.: Nelma Fontana
+
+     
+
+
+---

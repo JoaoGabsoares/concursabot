@@ -1,0 +1,2623 @@
+                                                       Aula 08
+                          Receita Federal (Analista Tributário)
+                                              Língua Portuguesa
+
+
+
+
+                                                            Autor:
+                                     Equipe Português Estratégia
+                                       Concursos, Felipe Luccas
+
+
+                                                05 de Julho de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Português Estratégia Concursos, Felipe Luccas
+      Aula 08
+
+
+
+
+                                                                                     Índice
+1) Coordenação e Subordinação
+..............................................................................................................................................................................................3
+
+2) Orações Coordenadas
+..............................................................................................................................................................................................6
+
+3) Orações Subordinadas Substantivas
+..............................................................................................................................................................................................8
+
+4) Orações Subordinadas Adjetivas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            11
+
+5) Orações Subordinadas Adverbiais
+..............................................................................................................................................................................................
+                                                                                                                                                                                            13
+
+6) Oração Reduzida e Oração Desenvolvida
+..............................................................................................................................................................................................
+                                                                                                                                                                                            18
+
+7) Paralelismo
+..............................................................................................................................................................................................
+                                                                                                                                                                                            22
+
+8) Palavra QUE
+..............................................................................................................................................................................................
+                                                                                                                                                                                            27
+
+9) Palavra SE
+..............................................................................................................................................................................................
+                                                                                                                                                                                            33
+
+10) Questões Comentadas - Orações Adjetivas - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            37
+
+11) Questões Comentadas - Orações Adverbiais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            38
+
+12) Questões Comentadas - Orações reduzidas - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            40
+
+13) Questões Comentadas - Paralelismo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            44
+
+14) Questões comentadas - Palavra QUE - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            46
+
+15) Questões Comentadas - Palavra SE - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            47
+
+16) Lista de Questões - Orações Adjetivas - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            50
+
+17) Lista de Questões - Orações Adverbiais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            51
+
+18) Lista de Questões - Orações reduzidas - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            52
+
+19) Lista de Questões - Paralelismo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            54
+
+20) Lista de Questões - Palavra QUE - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            55
+
+21) Lista de Questões - Palavra SE - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            57
+
+
+
+
+                Receita Federal (Analista Tributário) Língua Portuguesa                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           60
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                             COORDENAÇÃO X SUBORDINAÇÃO
+Na prática, o período é a unidade de texto que vai até uma pontuação definitiva, que exija um
+recomeço com letras maiúsculas: um ponto final (.), uma exclamação (!), uma reticência (...) ou
+uma interrogação (?). Para contarmos orações, o mais prático é contar os verbos!
+
+
+O período composto pode conter orações coordenadas, subordinadas ou ambos os tipos,
+quando será chamado de período misto.
+
+
+Muita teoria?? Vamos ver isso tudo na prática! Observe o parágrafo abaixo:
+
+
+Que dia! 1Acordei atrasado para o trabalho 2e saí 3sem tomar café. 1Assim que saí, 2percebi 3que
+tinha esquecido meu celular, 4porque eu tinha deixado em cima da mesa e 5nem lembrei...
+1
+ Apesar de ter esse contratempo, 2cheguei ao trabalho no horário. Sou sortudo demais ou não?
+
+
+Primeiro período                         Segundo período                    Terceiro Período
+Frase nominal                                2 orações unidas por           5 orações, sendo 3 subordinadas
+(1, 3 e 4)
+Sem verbo                                  coordenação. Há uma outra
+                                            oração subordinada à oração "2",
+                                            que é "sem tomar café".
+
+
+                         Quarto Período,                                      Quinto período,
+                               2 orações,                                           1 oração,
+                    Unidas por subordinação                                   período simples
+
+
+Vejamos agora como as ligações nos períodos compostos se relacionam. Segue abaixo um
+período composto por coordenação:
+      1                                                      2                  3
+       Acordei atrasado para o trabalho                 e     saí               sem tomar café.
+                    Oração Independente               Oração Independente           oração subordinada à
+                    Oração principal                         Coordenada aditiva          oração "e saí". É uma
+      oração adverbial
+                               Conjunção coordenativa aditiva
+As duas primeiras orações do período acima estão unidas por coordenação, uma não depende
+sintaticamente da outra, pois, ainda que separadas, ambas têm sentido completo, autonomia, ou
+seja, são frases. Já a terceira oração não possui sentido completo quando isolada. Ela funciona
+como um adjunto adverbial do verbo "saí", modificando-o.
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                           3
+          www.estrategiaconcursos.com.br                                                                    60
+
+                                       https://t.me/KakashiAssinaturasBot
+    Equipe Português Estratégia Concursos, Felipe Luccas
+    Aula 08
+
+
+
+        Ex: Acordei atrasado para o trabalho. (sentido completo)
+        Ex: Saí. (sentido completo)
+        Ex: Sem tomar café. (sentido incompleto)
+
+
+        1
+         Apesar de ter esse contratempo, 2cheguei ao trabalho no horário.
+               Oração subordinada concessiva                              Oração principal
+                     Oração dependente                                  Oração Independente
+              Locução Concessiva
+
+
+As orações do período acima estão unidas por subordinação; a subordinada depende
+sintaticamente da principal, pois, quando separadas, a oração dependente não tem sentido
+                                                           ==219a34==
+
+
+
+
+completo, é “fragmento”, ou seja, não forma frase.
+        Ex: Cheguei ao trabalho no horário. (sentido completo)
+        Ex: Apesar de ter esse contratempo... (sem sentido; fragmento; falta algo...)
+
+
+O período misto é aquele que tem orações de ambos os tipos, misturadas.
+
+
+1
+Assim que saí, 2percebi 3que tinha esquecido meu celular, 4porque eu tinha deixado em cima da
+mesa e 5nem lembrei...
+
+
+Veja a mistura de tipos de orações: A oração 1 é subordinada temporal da 2; a 3 é subordinada
+substantiva objetiva direta da 2 (é OD de “perceber”); a 4 é subordinada causal em relação à 3. A
+oração 5 é coordenada aditiva em relação à 2.Temos, então, coordenação e subordinação, ou
+seja, um período misto.
+Essa estrutura complexa é a mais recorrente em prova, temos que treinar nosso olho para ver tais
+relações.
+Um outro detalhe: termos “coordenados” são termos listados, organizados, que têm a mesma
+função sintática.
+        Ex: Comprei 1roupas, 2calçados, 3acessórios.
+
+
+
+
+Os termos “roupas”, “calçados” e “acessórios” são objetos diretos coordenados.
+
+
+Então, é possível haver orações subordinadas que estejam “coordenadas num período”. Veja
+esse período abaixo:
+        Ex: 1Quero 2que você goste do hotel e 3que volte.
+
+
+
+
+            Receita Federal (Analista Tributário) Língua Portuguesa                            4
+            www.estrategiaconcursos.com.br                                                    60
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+As orações 2 e 3 são subordinadas, pois exercem função sintática na oração principal, “quero”.
+Observe que elas são Objetos Diretos do verbo “querer”. Porém, elas estão sendo “organizadas”
+por uma conjunção coordenativa, o “e”. Veja bem, não é que a oração deixou de ser
+subordinada, ela apenas está sendo listada, coordenada por um elemento coordenativo. Então,
+duas orações subordinadas estão “coordenadas” no período.
+
+
+OBS: Para contar orações, basicamente temos que contar os verbos. Contudo, em alguns casos,
+teremos mais de um verbo e apenas uma oração:
+
+
+1) Quando houver locução verbal: “Tentamos ser felizes”
+2) Quanto tivermos um verbo expletivo, como na expressão "ser+que": “Minha mãe é que
+manda na casa”
+
+
+É possível também haver duas orações e um verbo estar implícito. Isso ocorre com as orações
+comparativas: Trabalho tanto quanto meu concorrente (trabalha).
+
+
+Cuidado com verbos causativos (deixar, fazer, mandar etc) e sensitivos (ver, ouvir, sentir etc), que
+formam falsas locuções verbais. As formas “deixe aborrecer”, “fez desistir”, “mandei ir” etc.
+NÃO SÃO LOCUÇÕES VERBAIS, MAS DUAS ORAÇÕES EM UM PERÍODO COMPOSTO.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   5
+        www.estrategiaconcursos.com.br                                                           60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                                   ORAÇÕES COORDENADAS
+Orações coordenadas são independentes sintaticamente, isto é, não exercem função sintática em
+outra, ao contrário das subordinadas, que exercem função sintática na oração principal (funções
+como sujeito, objeto, adjunto adverbial etc).
+Na prática, é como se tivéssemos duas orações principais, perfeitas e completas em seu
+significado. As orações coordenadas podem ser ligadas por conjunções coordenativas. Por terem
+conector (síndeto), são chamadas de sindéticas. As que não trazem conjunção são chamadas de
+assindéticas.
+As sindéticas podem ser Conclusivas, Explicativas, Aditivas, Adversativas e Alternativas.
+(Mnemônico C&A).
+
+    ​ Orações coordenadas conclusivas, introduzidas pelas conjunções logo, pois (deslocado,
+                                                       ==219a34==
+
+
+
+
+       depois do verbo), portanto, por conseguinte, por isso, assim, sendo assim, desse modo.
+      Ex: Estudei pouco, por conseguinte não passei.
+
+    ​ Orações coordenadas explicativas, introduzidas pelas conjunções que, porque, pois (antes
+       do verbo), porquanto.
+      Ex: Estude muito, porquanto não vai vir fácil a prova.
+
+    ​ Orações coordenadas aditivas, introduzidas pelas conjunções e, nem (= e não), não só...
+       mas também, não só... como também, bem como, não só... mas ainda.
+      Ex: Comprei não só frutas, como legumes.
+
+    ​ Orações coordenadas adversativas, introduzidas pelas conjunções mas, porém, contudo,
+       todavia, entretanto, no entanto, não obstante.
+      Ex: Estudei pouco, não obstante passei no concurso.
+
+    ​ Orações coordenadas alternativas, introduzidas pelas conjunções ou, ou... ou, ora... ora,
+       já... já, quer... quer, seja... seja, talvez... talvez.
+      Ex: Ou você mergulha no projeto ou desiste de vez.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 6
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+(PREF. MANAUS / 2022)
+Um ator de cinema disse:
+“Eu tive uma grande vantagem que meus filhos não tiveram: eu nasci pobre.”
+Essa frase tem duas partes com dois pontos entre elas. Assinale a opção que indica a conjunção
+que poderia substituir esses dois pontos de forma adequada.
+(A) assim que
+(B) mas
+(C) portanto
+(D) quando
+(E) pois
+Comentários:
+O sinal de dois-pontos indica uma explicação, então devemos trocar pela única conjunção
+explicativa entre as opções: pois
+“Eu tive uma grande vantagem que meus filhos não tiveram: eu nasci pobre.”
+“Eu tive uma grande vantagem que meus filhos não tiveram, pois eu nasci pobre.”
+"assim que" expressa tempo; "mas" expressa oposição; "portanto" expressa conclusão;
+"quando" expressa tempo.
+Gabarito letra E.
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                          7
+           www.estrategiaconcursos.com.br                                                   60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                    ORAÇÕES SUBORDINADAS SUBSTANTIVAS
+As orações subordinadas são introduzidas por uma conjunção integrante (que/se) e são
+dependentes sintaticamente da oração principal. São classificadas como substantivas quando
+exercem uma função sintática típica de substantivo, como aposto, objeto direto, objeto indireto,
+complemento nominal, predicativo e agente da passiva. As orações subordinadas podem ser
+substituídas geralmente por "isso, disso, nisso..."
+
+Oração Subordinada Substantiva Subjetiva
+Muito importante. É o cobradíssimo sujeito oracional!
+      Ex: É importante que se estude sempre. (desenvolvida)
+Muito comum aparecer na forma reduzida de infinitivo. Nas reduzidas, o verbo fica em uma de
+suas formas nominais (infinitivo, gerúndio ou particípio), além de não vir introduzida por uma
+conjunção.
+      Ex: É importante estudar sempre. ("ISSO" é importante)
+      Ex: É proibido fumar. ("ISSO" é proibido)
+OBS: Não custa lembrar que, com sujeito oracional, o verbo fica no singular.
+
+Oração Subordinada Substantiva Objetiva Direta
+É a oração que faz papel de complemento de um verbo transitivo direto, ou seja, é um objeto
+direto oracional.
+      Ex: Disse que ele deveria procurar ajuda. (desenvolvida)
+      Ex: Mandei-o procurar ajuda. (reduzida de infinitivo)
+Um detalhe: interessante essa última sentença, pois é um raro caso em que o pronome oblíquo
+tem função de sujeito (como se fosse: mandei ELE procurar).
+A oração introduzida por conjunção integrante “SE” é normalmente objetiva direta:
+      Ex: Não sei se ele vem.
+      Ex: Ele não nos informou se vinha.
+Em “Fazer com que ele desista”, o “com” é uma preposição enfática e a oração sublinhada é
+objetiva direta.
+Excepcionalmente, a conjunção integrante pode vir implícita: “Esperamos (que) tomem vergonha
+os eleitores!”.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               8
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+(SEDF – 2017)
+Mas é claro que a gramática do inglês não é a mesma gramática do português
+Em relação às ideias e aos aspectos linguísticos do texto precedente, julgue o item que se segue.
+A oração “que a gramática do inglês não é a mesma gramática do português” exerce a função
+de complemento do vocábulo “claro”.
+Comentários:
+A oração exerce função de “sujeito”!
+Mas é claro [que a gramática do inglês não é a mesma gramática do português]
+Mas é claro [ISTO] > [ISTO] é claro
+Temos então uma oração subordinada substantiva subjetiva, vulgo “sujeito oracional”. Questão
+incorreta.
+                                                       ==219a34==
+
+
+
+
+Oração Subordinada Substantiva Objetiva Indireta
+Funciona como um objeto indireto, mas com forma de oração.
+      Ex: Desconfio de que ela conversa com a tartaruga. (desenvolvida)
+      Ex: Insisti em falar com o médico. (reduzida de infinitivo)
+
+
+
+Oração Subordinada Substantiva Completiva Nominal
+Funciona semelhantemente a um objeto indireto, mas complementa nomes que têm
+transitividade (Volte um pouco nesta aula e releia o complemento nominal.)
+      Ex: Tenho desconfiança de que ela conversa com a tartaruga. (desenvolvida)
+      Ex: Tenho receio de falar com o médico. (reduzida de infinitivo)
+OBS: Diversos gramáticos entendem que é possível suprimir a preposição que iniciaria uma
+oração completiva nominal ou objetiva indireta:
+      Ex: “Estava desejoso (de) que ele viesse."
+      Ex: “Duvidei (de) que ele fosse passar tão rápido."
+Na hora da prova, dê sempre preferência ao uso da preposição, mas saiba que é possível a
+banca considerar correta a supressão.
+
+
+Oração Subordinada Substantiva Apositiva
+Funciona como um aposto, termo substantivo que nomeia um substantivo ou pronome
+substantivo e pode substituí-lo sintaticamente:
+Hoje, terça, é feriado. >>> terça é feriado.
+“terça” é aposto de “hoje”.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                9
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+João, o mecânico, cobra caro. >>> O mecânico cobra caro.
+O “mecânico” é aposto de “João”.
+Uma oração também pode funcionar como aposto, essa, então, é nossa oração apositiva.
+      Ex: Tenho um sonho: que eu passe logo no concurso. (desenvolvida)
+      Ex: Tenho um sonho: passar logo no concurso. (reduzida de infinitivo)
+
+
+
+Oração Subordinada Substantiva Predicativa
+Funciona como um predicativo, qualidade que se atribui ao sujeito, por via de um verbo de
+ligação: Fulana é bonita. “Fulana” é sujeito e “bonita” é seu predicativo.
+      Ex: A intenção é que eu gabarite a prova. (desenvolvida)
+      Ex: A intenção é gabaritar a prova. (reduzida de infinitivo)
+OBS: Um artigo pode fazer toda a diferença:
+Certo é que todos querem passar (= Isto é certo – SUBJETIVA)
+O certo é que todos querem passar (= O certo é Isto - PREDICATIVA)
+Se houver artigo ou pronome na oração principal, a oração substantiva vai ser classificada como
+“PREDICATIVA”.
+
+
+
+Oração Subordinada Substantiva de Agente da Passiva
+Funciona como um agente da passiva em forma de oração.
+      Ex: As vagas foram conquistadas por quem se preparou.
+
+
+
+Orações Subordinadas Substantivas Justapostas
+Ocorrem, em geral, nas interrogativas indiretas e são iniciadas por pronomes interrogativos (que,
+quanto, que, qual) ou advérbios interrogativos (como, onde, quando, por que). São chamadas de
+"justapostas" porque não são introduzidas por conjunção, mas por pronomes ou advérbios. São
+apenas orações “postas uma ao lado da outra”, sem uma conjunção que as conecte.
+Ignoro [quem/quanto/como/onde/quando/por que economizou]
+Ignoro [ISTO]
+Também podem ser introduzidas por pronome indefinido ou advérbio. Veja outros exemplos:
+      Falava a quem quisesse ouvir.
+      Vejo quão felizes são vocês.
+      Descobri quando ele começou a desconfiar.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               10
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                        ORAÇÕES SUBORDINADAS ADJETIVAS
+As orações adjetivas levam esse nome porque equivalem a um adjetivo e exercem função
+sintática de um adjunto adnominal. Elas se referem a um substantivo antecedente e são
+introduzidas por um pronome relativo.
+                Sujeito
+      Ex: O time vencedor foi vaiado. (“time” é modificado por um adjetivo)
+      Ex: O time que venceu foi vaiado. (“time” é modificado por uma oração adjetiva)
+                  Sujeito
+O detalhe mais relevante sobre essas orações é diferenciar uma oração subordinada adjetiva
+restritiva de uma explicativa. Vejamos:
+                                                       ==219a34==
+
+
+
+
+Orações adjetivas: explicativas x restritivas
+Orações adjetivas explicativas são aquelas que acrescentam uma informação sobre o
+antecedente, embora já definido, ampliando os dados e detalhes sobre ele. São informações
+acessórias, mas são importantes para a construção de sentido. Devem ser isoladas com vírgulas.
+Orações adjetivas restritivas particularizam, individualizam um ser em relação a um grupo de
+possibilidades. Ajuda a construir a identidade/referência do termo ao qual se refere. O
+comentário feito se refere a uma parte menor do que o todo, a entidades específicas, não à
+totalidade do conjunto. Não são marcadas por pontuação.
+
+
+Vamos comparar:
+      Ex: Meu aluno, que mora no interior, estuda on-line.
+Observe que é uma informação acessória, uma explicação, uma ampliação de sentido. "Meu
+aluno estuda on-line (e ele mora no interior)" Temos, então, uma oração adjetiva explicativa.
+Se retirarmos a vírgula, teremos uma oração restritiva e o sentido vai mudar:
+      Ex: Meu aluno que mora no interior estuda on-line.
+
+
+Agora temos vários alunos e somente um deles estuda online, aquele aluno específico que mora
+no interior.
+
+
+IMPORTANTE: A banca sempre pergunta se a retirada das vírgulas vai afetar as relações de
+sentido. Afeta sim, pois acarreta a passagem de explicativa para restritiva.
+      Ex: Meu filho, que mora em Brasília, toca violão. (explicativa, COM VÍRGULA)
+      Ex: Meu filho que mora em Brasília toca violão. (restritiva, SEM VÍRGULA)
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            11
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+(TELEBRAS / 2022)
+A importância das telecomunicações ficou evidente nos dias que se seguiram ao terremoto que
+devastou o Haiti, em janeiro de 2010. As tecnologias da comunicação foram utilizadas para
+coordenar a ajuda, otimizar os recursos e fornecer informações sobre as vítimas, das quais se
+precisava desesperadamente. A União Internacional das Telecomunicações (UIT) e os seus
+parceiros comerciais forneceram inúmeros terminais satélites e colaboraram no fornecimento de
+sistemas de comunicação sem fio, facilitando as operações de socorro e limpeza.
+A eliminação da vírgula empregada após a palavra “vítimas” (segundo período do segundo
+parágrafo) alteraria os sentidos originais do texto.
+Comentários:
+“as quais”, em “das quais”, é um pronome relativo e introduz, portanto, uma oração adjetiva.
+Como há vírgula, essa oração é explicativa. Sem a vírgula, tornar-se-ia restritiva, com mudança de
+sentido.
+fornecer informações sobre as vítimas, das quais se precisava desesperadamente. (explicação)
+fornecer informações sobre as vítimas das quais se precisava desesperadamente. (restrição)
+Questão correta.
+
+
+(PGE-PE / Conhecimentos Básicos 1, 2, 3 e 4 / 2019)
+A sociedade requer das organizações uma nova configuração da atividade econômica, pautada
+na ética e na responsabilidade para com a sociedade e o meio ambiente, a fim de minimizar
+problemas sociais como concentração de renda, precarização das relações de trabalho e falta de
+direitos básicos como educação, saúde e moradia, agravados, entre outros motivos.
+A inserção da expressão que seja imediatamente antes da palavra “pautada” — que seja pautada
+— não comprometeria a correção gramatical nem alteraria os sentidos originais do texto.
+Comentários:
+Não causa erro nem alteração de sentido, esse “que seja” apenas revela o pronome relativo e
+deixa a oração adjetiva mais explícita:
+A sociedade requer das organizações uma nova configuração da atividade econômica, (que seja)
+pautada na ética e na responsabilidade para com a sociedade e o meio ambiente. Questão
+correta.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                12
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                       ORAÇÕES SUBORDINADAS ADVERBIAIS
+As orações são chamadas de adverbiais quando exercem uma função de advérbio. Elas trarão
+uma circunstância adverbial, justamente como faz o advérbio, com a diferença que terão
+conjunção subordinativa e verbo.
+      Ex: Vou levar o cachorro para passear hoje à noite. (advérbio de tempo)
+      Ex: Vou levar o cachorro para passear quando ela chegar. (oração adverbial de tempo)
+
+
+
+Oração Subordinada Adverbial Causal
+Tem função de um advérbio de causa e é introduzida por uma conjunção ou locução causal:
+porque, visto que, já que, que, como, porquanto...
+A causa é a origem de um evento, que necessariamente ocorre antes dele.
+      Ex: Visto que acabara a luz, acendi uma vela.
+      Ex: Como não tinha Coca, tive que beber uma Pepsi.
+Observe que toda causa tem uma consequência.
+      Ex: Visto que acabara a luz (causa), acendi uma vela (consequência).
+Nesse exemplo, acender uma vela é consequência do fato (causa) de a luz ter acabado.
+
+
+OBS: Aproveito para ressaltar que a expressão “haja vista” tem sentido de causa: equivale ao das
+locuções prepositivas devido a, por conta de, por causa de.
+
+
+Em alguns casos, pode haver séria dúvida ou até confusão por parte da banca quanto à
+diferenciação de "causa e explicação". Isso ocorre justamente porque a causa também explica.
+Mesmo os gramáticos reconhecem que não há limites claros, então você também não deve
+perder o sono querendo resolver essa questão, até porque a banca não pedirá isso. Nas raras
+questões em que a diferença entre causa e explicação é pedida explicitamente, o aluno deve
+aplicar os critérios vistos na aula de conectivos.
+
+
+
+Oração Subordinada Adverbial Consecutiva
+Tem sentido de consequência do fato que ocorre na oração principal. São introduzidas pelas
+conjunções consecutivas: de sorte que, de modo que, de forma que, de jeito que, que (tendo
+como antecedente na oração principal uma palavra como tal, tão, cada, tanto, tamanho)...
+      Ex: Comi tanto no rodízio que fiquei 16 horas sem fome.
+      Ex: A fome era tamanha que o leão comeu salada.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              13
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+Oração Subordinada Adverbial Condicional
+Expressam condição, hipótese, e são introduzidas pelas conjunções condicionais “SE” e outras
+conjunções que possam assumir sentido de hipótese, como caso, contanto que, desde que, salvo
+se, exceto se, a não ser que, a menos que, sem que, uma vez que (seguida de verbo no
+subjuntivo).
+      Ex: Se quiser passar, estude regularmente.
+      Ex: Uma vez que pague, exija o recibo. (se pagar...)
+      Ex: Caso pague, exija o recibo. (se pagar...)
+      Ex: Sem que estude, não há como passar. (se não estudar...)
+
+
+
+Oração Subordinada Adverbial Temporal
+Equivale a um advérbio de tempo. São introduzidas pelas conjunções temporais: quando,
+enquanto, antes que, depois que, logo que, todas as vezes que, desde que, sempre que, assim
+que, agora que, mal (= assim que)...
+      Ex: Mal (Assim que) ele saiu, o ônibus passou.
+      Ex: Assim que ela chegar, conte toda a verdade.
+
+
+
+Oração Subordinada Adverbial Concessiva
+Equivale a uma expressão adverbial com sentido de concessão (expectativa de que o fato não
+deve se realizar, mas se realiza mesmo assim). São introduzidas pelas conjunções concessivas:
+mesmo que, ainda que, embora, apesar de que, conquanto, por mais que, posto que, se bem
+que, não obstante, malgrado.
+Nas orações concessivas, o verbo normalmente VEM NO SUBJUNTIVO. (Lembrar terminações
+-A/-E/-SSE)
+      Ex: Embora fosse mulato, gago e epilético, Machado de Assis fundou a Academia
+      Brasileira de Letras.
+      Ex: Posto que estivessem grávidas, as mulheres vikings guerreavam.
+      Ex: Ainda que eu falasse a língua dos anjos, sem amor eu nada seria.
+      Ex: Tenho que aceitar críticas, conquanto não goste.
+      Ex: Não obstante durma pouco, está sempre animado.
+      Ex: Os trabalhadores, pobres que sejam, mantêm as contas em dia.
+      Ex: Os obstáculos, que sejam muitos, não o desanimam.
+      Ex: Por mais inteligente que seja, precisa estudar!
+OBS: “Não obstante” também aparece na lista das conjunções coordenadas adversativas, usada
+com verbo no indicativo (Ex: Estudei pouco, não obstante fui aprovado). Quando conjunção
+concessiva, virá com verbo no subjuntivo (Ex: Não obstante tenha medo, nunca deixo de tentar.)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             14
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+É possível iniciar essas orações com locuções prepositivas de sentido concessivo: apesar de, a
+despeito de... Contudo, a presença da preposição vai levar o verbo para o infinitivo, numa oração
+reduzida:
+      Ex: Por mais que fosse engenheiro, errava todas as contas.
+      Ex: Apesar de ser engenheiro, errava todas as contas.
+Portanto, a substituição só é possível com adaptação do verbo!
+
+
+
+
+(DPE-RS / 2022)
+A tecnologia finalmente está derrubando os muros do tradicionalismo que envolve o mundo do
+direito. Cercado de costumes e hábitos por todos os lados, o direito e seus operadores têm a
+fama de serem apegados a formalismos, praxes e arcaísmos resistentes a mudanças mais radicais.
+São práticas persistentes, passadas adiante por gerações e cultivadas como se necessárias para
+manter a integridade e a operacionalidade costumeira do sistema.
+É obrigatório o emprego da vírgula logo após a palavra “lados”, no segundo período do
+primeiro parágrafo.
+Comentários:
+Em “Cercado de costumes e hábitos por todos os lados”, temos uma oração adverbial
+antecipada; portanto, a vírgula é obrigatória.
+O sentido que se infere é causal:
+(por estar/ porque está) Cercado de costumes e hábitos por todos os lados
+Questão correta.
+
+
+(SECRETARIA DE EDUCAÇÃO-DF – 2017)
+Embora não possamos desconsiderar o avanço científico a que os últimos séculos assistiram —
+as revoluções consideráveis no campo da medicina, da física, da química e das próprias ciências
+sociais e humanas —, essa ciência capitalista, androcêntrica e colonial não tem conseguido dar
+conta de resolver o problema que ela própria ajudou a construir.
+Considerando as ideias e estruturas linguísticas do texto, julgue o item a seguir.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               15
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+O conectivo “Embora” introduz no período em que ocorre uma ideia de concessão.
+Comentários:
+Exato. Na oração concessiva, há um fato que cria a expectativa de um determinado resultado,
+essa expectativa é quebrada pela oração principal. Em outras palavras: embora haja avanço
+científico (expectativa), a ciência não tem conseguido dar conta de resolver o problema (desfecho
+oposto à expectativa)... Questão correta.
+
+
+
+Oração Subordinada Adverbial Final
+Traz uma circunstância adverbial de finalidade. Indica propósito, motivo, finalidade: para que, a
+fim de que, de modo que, de sorte que, porque (quando igual a para que), que.
+      Ex: Dou exemplos para que você entenda tudo.     ==219a34==
+
+
+
+
+      Ex: Estude todo dia a fim de que acumule conhecimento ao longo do mês.
+      Ex: Fiz o que pude porque você passasse logo. (para que você passasse...)
+
+
+
+
+(PGE-PE–Ana. Judiciário de Procuradoria – 2019)
+Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para absolver o
+presente, nem de deplorar o presente para louvar os bons tempos antigos. Desejo apenas ajudar
+a que se compreenda que todo juízo excessivamente resoluto nesse campo corre o risco de
+parecer leviano.
+No período em que se inserem, os trechos “para absolver o presente” e “para louvar os bons
+tempos antigos” exprimem finalidades.
+Comentários:
+Sim. O “para” antes de verbo, quase sempre indica finalidade. De forma mais técnica, estamos
+diante de orações subordinadas adverbiais finais, reduzidas de infinitivo, sendo introduzidas pela
+preposição “para”. Questão correta.
+
+
+
+Oração Subordinada Adverbial Proporcional
+Traz uma relação de proporcionalidade com a oração principal: à medida que, à proporção que,
+ao passo que e também as correlações quanto mais/menos...mais/menos...
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                16
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+      Ex: Quanto mais eu rezo mais assombrações me aparecem.
+      Ex: Quanto mais estudo mais sorte tenho nas provas.
+      Ex: À medida que o tempo passa, a confiança vai aumentando.
+
+
+
+Oração Subordinada Adverbial Comparativa
+Traz uma comparação ou contraste em relação à oração principal: como, assim como, tal qual, tal
+como, mais que, menos, tanto quanto. Nesses pares, as palavras tanto e quanto são correlatas.
+Por isso, podemos chamar esses pares de correlações. O mesmo vale para outros pares que
+possuem função de uma conjunção.
+
+
+      Ex: Essa matéria é mais fácil do que a que estudamos ontem.
+      Ex: Corria como um touro.
+      Ex: Ele estuda tanto quanto seu tio médico (estuda).
+
+
+Observe no exemplo acima que o verbo da oração subordinada costuma vir implícito, porque é o
+mesmo verbo da principal.
+
+
+
+Orações Subordinadas Adverbiais Conformativas
+
+Indicam que uma ação ou fato se desenvolve de acordo com outro. São introduzidas pelas
+conjunções conformativas: como, conforme, consoante, segundo.
+
+
+      Ex: A prova se desenrolou como tínhamos treinado!
+      Ex: Tudo correu conforme o que planejamos.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             17
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+            ORAÇÕES REDUZIDAS X ORAÇÕES DESENVOLVIDAS
+Ao longo da teoria, vimos diversos exemplos de orações reduzidas. Porém, chegou a hora de
+sistematizar esse conhecimento e aprender a conversão de uma oração desenvolvida em uma
+reduzida e também o caminho inverso. Isso faz parte do conteúdo de sintaxe e também do item
+de reescritura de frases.
+O período composto é aquele que tem mais de uma oração. Essas orações podem ser unidas por
+coordenação (orações independentes) ou subordinação (orações sintaticamente dependentes).
+As orações subordinadas poderão ser:
+1) Substantivas (introduzidas por conjunção integrante; substituíveis por ISTO; exercem função
+sintática típica de substantivo, como Sujeito, OD, OI...)
+2) Adjetivas (introduzidas por pronome relativo; se referem ao substantivo antecedente; exercem
+papel adjetivo, ou seja, modificam o substantivo)
+3) Adverbiais (introduzidas pelas conjunções subordinativas adverbiais—causais, temporais,
+concessivas, condicionais; tem valor de advérbio e trazem sentido de circunstância da ação
+verbal, como tempo, condição...)
+Feita essa recapitulação, podemos agora estabelecer a diferença entre as orações desenvolvidas
+e as reduzidas.
+As desenvolvidas terão conjunção integrante, pronome relativo ou conjunções adverbiais. Além
+disso, o verbo estará conjugado.
+Por outro lado, as reduzidas não terão esses “conectivos” e os verbos não estarão conjugados,
+aparecerão em suas formas nominais: infinitivo (comer), particípio (comido) e gerúndio
+(comendo). Podem vir com preposição, mas não vêm com conjunção nem pronome relativo. São
+menores, pois têm menos elementos.
+Basicamente, desenvolver uma oração reduzida é (1) inserir nela uma conjunção (ou pronome
+relativo) e (2) conjugar seu verbo. Ok, ok, ok. Vamos ver isso na prática:
+      Ex: Ao me ver, não me cumprimente! (oração reduzida de infinitivo: sem conjunção; com
+      verbo no infinitivo e com preposição)
+      Ex: Quando me vir, não me cumprimente! (oração desenvolvida, com conjunção temporal
+      “quando”, verbo conjugado no futuro do subjuntivo)
+Viram a equivalência? Essa é uma forma de reescritura. Vamos a outro exemplo:
+      Ex: Vi alguém chorando! (oração reduzida de gerúndio: verbo no gerúndio, sem
+      conjunção)
+      Ex: Vi alguém que chorava. (oração desenvolvida: verbo conjugado, no pretérito
+      imperfeito; pronome relativo “que”)
+      Ex: Li um livro explicando esse tema. (oração reduzida de gerúndio: verbo no gerúndio,
+      sem conjunção)
+      Ex: Li um livro que explicava esse tema. (oração desenvolvida: verbo conjugado, no
+      pretérito imperfeito; pronome relativo “que”)
+Vejamos agora uma reduzida de particípio:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              18
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+      Ex: Terminado o serviço, foi embora. (oração reduzida de particípio: verbo no particípio;
+      sem conjunção)
+      Ex: Assim que terminou o serviço, foi embora (oração desenvolvida: verbo conjugado, no
+      pretérito perfeito; conjunção temporal “assim que”)
+Cuidado: na conversão, temos que manter o tempo correlato da oração principal e também a voz
+verbal. Ao inserir a conjunção “que”, o verbo tende a ir para o subjuntivo.
+Vamos ver aqui alguns exemplos de orações reduzidas de infinitivo, pois são as mais cobradas,
+especialmente as substantivas, pois desempenham maior variedade de funções sintáticas.
+      1 - Subordinadas Substantivas
+a) Subjetivas: Não é legal comprar produtos falsos.
+b) Objetivas Diretas: Quanto a ela, dizem ter se casado.
+c) Objetivas Indiretas: Sua vaga depende de ter constância no objetivo.
+d) Predicativas: A única maneira de passar é estudar muito.
+e) Completivas Nominais: Ele tinha medo de reprovar.
+f) Apositivas: Só nos resta uma opção: estudarmos muito.
+      2 - Subordinadas Adverbiais
+a) Causais: Passei em 1º lugar por estudar muito.
+b) Concessivas: Apesar de ter chorado antes, sorriu na hora da posse.
+c) Consecutivas: Aprendeu tanto a ponto de não ter outra saída senão passar.
+d) Condicionais: Sem estudar, ninguém passa.
+e) Finais: Eu estudo para passar, não para ser estatística.
+f) Temporais: Ao rever a ex-professora, ele se emocionou.
+
+        #FICA A DICA: Vejam estruturas clássicas das orações reduzidas, temos:
+        Ao + infinitivo – Tempo: Ao chegar, avise.
+        A + infinitivo – Condição: A persistirem os sintomas, consulte um médico.
+        Por + Infinitivo – Causa: Por ser muito capacitado, ganhava muito dinheiro.
+        Sem + Infinitivo – Concessão: Sem se preparar, passou no concurso.
+        Sem + Infinitivo – Condição negativa: Sem se preparar, não passará no concurso.
+    3 - Subordinadas Adjetivas
+    Ex. Ela não é mulher de negligenciar os filhos. (...que negligencia)
+    Ex. Esse é o último livro a ser escrito por Machado de Assis. (...que foi escrito...)
+OBS: Nem sempre o sentido de uma oração reduzida é óbvio e indiscutível, de modo que a
+conversão em oração desenvolvida (e vice-versa) pode ser feita de mais de uma maneira, tudo vai
+depender do contexto.
+      Ex: Em se plantando, tudo dá. (Quando plantamos – tempo/Se plantarmos – hipótese)
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              19
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+      Ex: Quando o verão chegar, ficaremos felizes. (Ao chegar o verão/ Chegado o verão/
+      Chegando o verão)
+Além disso, há diversas orações reduzidas fixas, “cristalizadas” na língua, que não conseguimos
+desenvolver:
+      Ex: Coube-nos pagar a conta.
+      Ex: Não há mais tentar ou negociar agora.
+      Ex: Ele, além de ser bonito, era gentil.
+      Ex: “Em vez de você viver chorando por ele, pense em mim...”
+      Ex: Longe de desanimar, empolgou-se.
+      Ex: Não faz outra coisa senão estudar.
+Portanto, não enlouqueça tentando dar o “sentido” de todas as orações e fazer a conversão em
+cada caso. Não é viável nem é necessário para a prova, ok?
+                                                       ==219a34==
+
+
+
+
+(SEAD GO / ANALISTA / 2022)
+Sobre o item destacado em “[...] por ser uma espécie de ‘marca [...]’”, presente no terceiro
+parágrafo do texto, assinale a alternativa correta.
+A) Trata-se de um verbo com sentido similar a “colocar”.
+B) Trata-se de uma preposição com sentido similar à empregada na frase “Vou por aqui, não por
+ali”.
+C) Introduz um agente da passiva.
+D) Indica que a oração em foco expressa causa.
+E) Poderia ser substituído por “ao” sem que isso modificasse a relação de sentido mantida entre
+as orações no período.
+Comentários:
+"por" é preposição e introduz uma oração causal reduzida de infinitivo: por ser=porque é
+A) Incorreto. Não é verbo.
+B) Incorreto. Não indica lugar ou direção, indica causa.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              20
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+C) Incorreto. Introduz oração causal. Mas veja um exemplo de agente da passiva: O carro foi
+comprado POR João.
+E) Incorreto. por+infinitivo indica causa; ao+infinitivo indica tempo. Ex: Ao chegar (quando
+cheguei), o cão latiu).
+Gabarito letra D.
+
+
+(TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+No período em que se insere no texto CG1A1-II, a oração “Ao coletar um dado” (2º parágrafo)
+exprime uma circunstância de
+A) tempo.     B) causa.      C) modo.       D) finalidade.        E) explicação.
+Comentários:
+“Ao coletar um dado” é uma oração temporal reduzida: Quando um dado é coletado. Gabarito
+letra A.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           21
+        www.estrategiaconcursos.com.br                                                    60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                                              PARALELISMO
+Como o nome sugere, paralelismo é o uso de estruturas paralelas, simétricas, com estrutura
+gramatical idêntica ou semelhante. Para escrever bem e organizar bem o pensamento, a norma
+culta recomenda que só devemos coordenar frases que tenham constituintes do mesmo tipo
+(adjetivo com adjetivo, substantivo com substantivo, termo preposicionado com termo
+preposicionado, oração desenvolvida com oração desenvolvida...); então, fere o paralelismo
+sintático o uso de segmentos estruturalmente diferentes em uma coordenação/enumeração de
+termos de mesmo valor sintático. Vejamos isso na prática, usando os exemplos mais relevantes
+para a prova:
+      Ex: Tenho um primo inteligente e que tem muito dinheiro.
+Algum problema? Aparentemente nenhum, não é?
+Porém, essa oração não foi construída com paralelismo, pois coordena dois termos com mesma
+função sintática (adjunto adnominal de “primo”), mas que não têm a mesma forma. Temos
+adjetivo (inteligente) no primeiro item, mas uma oração adjetiva no segundo (que tem muito
+dinheiro), uma estrutura diferente, assimétrica. Ajustando o paralelismo, teríamos uma oração
+com ambos os termos em forma de adjetivo simples.
+      Ex: Tenho um primo inteligente e rico.
+Haveria paralelismo também se os dois termos viessem com forma de oração adjetiva.
+      Ex: Tenho um primo que é inteligente e que é rico.
+Veja outro exemplo:
+      Ex: Estudo por estar desempregado e porque aspiro a uma vida melhor.
+Não houve paralelismo, as estruturas são diferentes: o primeiro adjunto adverbial de causa veio
+em forma de oração reduzida, e o segundo veio em forma de oração desenvolvida.
+Reescrevendo com estruturas paralelas, teríamos:
+       Ex: Estudo por estar desempregado e por aspirar a uma vida melhor. (estruturas
+simétricas: duas orações reduzidas de infinitivo)
+      Ex: Estudo porque estou desempregado e porque aspiro a uma vida melhor.
+(estruturas simétricas: duas orações desenvolvidas)
+OBS: Por serem estruturas equivalentes, podemos coordenar sem paralelismo adjetivos e
+locuções adjetivas e também advérbios e locuções adverbiais.
+      Ex: João é rude e sem paciência. Anda sempre rapidamente e com pressa.
+Os principais elementos coordenativos que estabelecem relações de paralelismo são: Conectivos
+aditivos como E, Nem e as Correlações de valor aditivo (não só/somente X...mas/como também
+Y; tanto X...quanto Y) ou de valor alternativo (Ou X....Ou Y, Quer X...Quer Y, Seja X...Seja Y):
+      Ex: É necessário que você estude E que você revise. (coordenação paralela de orações)
+      Ex: Não só trabalho, como estudo. (coordenação paralela de orações)
+      Ex: Comprei não só frutas, mas também legumes. (coordenação paralela de substantivos)
+      Ex: Não gosto de que me ofendam, nem de que me elogiem demais. (coordenação
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               22
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+      paralela de orações desenvolvidas)
+      Ex: Não gosto de ser ofendido, nem de ser elogiado demais. (coordenação paralela de
+      orações reduzidas)
+      Ex: Não gosto de chuva, nem gosto de sol. (coordenação paralela de substantivos)
+      Ex: Ou você estuda, ou vai continuar sofrendo com desemprego. (coordenação paralela de
+      orações desenvolvidas)
+      Ex: Seja por bem, seja por mal, serei aprovado. (coordenação paralela de orações com
+      termos preposicionados)
+Então, se nos exemplos acima, modificássemos a estrutura de um dos termos, feriríamos o
+paralelismo, por exemplo:
+      Ex: Não gosto de chuva nem de que faça sol. (Sem paralelismo: o primeiro objeto indireto
+é um substantivo, o segundo é uma oração).
+                                                       ==219a34==
+
+
+
+
+Partículas “explicativas” como “isto é”, “ou seja”, “quer dizer” e similares exigem normalmente
+paralelismo gramatical entre os elementos que coordenam.
+      Ex: João partiu desta para uma melhor, ou seja, morreu.
+Então, observamos que o período a seguir traz uma assimetria de estruturas, pois o primeiro
+termo, um adjunto adverbial de meio/instrumento, veio em forma nominal, e o segundo veio em
+forma de oração. Veja:
+      Ex: Ricardo enriqueceu com investimentos arriscados, isto é, negociando ações na bolsa
+de valores.
+Uma forma de ajustar seria:
+      Ex: Ricardo enriqueceu com investimentos arriscados, isto é, com negociação de ações na
+bolsa de valores. (ambas com forma nominal)
+
+
+
+
+E aí, pessoal? Entenderam o espírito da coisa? A lógica geral é essa acima, os elementos
+coordenados devem ter forma similar, isso vale para enumeração de quaisquer termos, sujeitos,
+complementos, adjuntos adverbiais etc. Estudaremos também alguns detalhes sobre paralelismo,
+contextualizados especificamente nos assuntos de concordância, regência e crase.
+Agora, vamos analisar algumas frases retiradas de prova e avaliar o paralelismo:
+1) Os empregados daquela firma planejam nova manifestação pública e interditar o acesso pelo
+viaduto principal da cidade.
+        Observe que o primeiro complemento de “planejam” tem forma nominal e o segundo
+        tem forma de oração. Não houve paralelismo.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             23
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+2) Mande-me tudo que conseguir sobre as manobras de minha tia e se meu tio encontrou os
+documentos que procurava.
+        Veja que o segundo termo coordenado não tem a forma necessária para ser
+        complemento de “Mande-me”, não poderíamos dizer “Mande-me se meu tio encontrou
+        os documentos que procurava."
+Para ajustar, deveríamos, por exemplo, incluir um outro verbo, que aceitasse corretamente os
+dois complementos:
+Descubra tudo que conseguir sobre as manobras de minha tia e (descubra) se meu tio encontrou
+os documentos que procurava.
+A propósito, o contrário também é válido. Se tivermos dois verbos com um mesmo
+complemento, esse complemento deve ser capaz de atender a regência dos dois verbos. Não
+podemos usar um mesmo complemento para verbos com regências diferentes. Por exemplo:
+      Ex: Esse é o contrato que assinei e concordei.
+“Concordar” pede preposição “com”, então seu complemento é um objeto indireto. Já “assinar”
+pede um objeto “direto”, para corrigir, teríamos que ajustar de alguma forma a preposição que
+foi “comida”, por exemplo:
+      Ex: Esse é o contrato que assinei e com que concordei.
+Por essa mesma lógica, seria incorreto dizer: Eu gosto e respeito meu professor.
+Analisemos mais um período quanto à observância do paralelismo.
+3) O tumulto começava na esquina de minha rua e que era perto dos gabinetes do ministro e do
+secretário.
+        Não houve paralelismo. O primeiro adjunto adverbial veio em forma nominal, o segundo
+        veio numa confusa estrutura de oração adjetiva.
+
+
+
+Paralelismo Semântico
+Devemos observar também o paralelismo “semântico”, que se refere à coerência de sentido
+entre os termos coordenados.
+      Ex: O policial fez duas operações: uma no Morro do Juramento e outra no pulmão.
+Embora haja paralelismo estrutural, não há paralelismo semântico, pois se coordenam ideias sem
+relação: uma referência geográfica e um órgão objeto de cirurgia. Até o sentido de “operação”
+muda. A frase fica incoerente porque a lógica seria ligar dois lugares geográficos ou dois órgãos
+operados.
+      Ex: Heber tem um carro a diesel e um carro nacional.
+Não há coerência nessa correlação entre o combustível do carro e sua origem. A lógica linguística
+seria relacionar, por exemplo, um carro nacional e um importado, ou um carro a diesel e um a
+álcool.
+Para consolidar o entendimento, vejamos outro exemplo:
+      Ex: Rodrigo é gentil e técnico de informática.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               24
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Veja que, do ponto de vista lógico e pragmático, fora de um contexto maior, também não é
+coerente correlacionar uma qualidade pessoal com uma profissão como se fossem itens de um
+mesmo nível semântico.
+POR OUTRO LADO, esse tipo de ruptura semântica pode ser justificado por alguma lógica
+interna do contexto. Veja os exemplos clássicos de Machado de Assis:
+                    “Marcela amou-me durante quinze dias e onze contos de réis.”
+                 “Gastei trinta dias para ir do Rócio Grande ao coração de Marcela.”
+No primeiro exemplo, causa estranhamento a correlação entre uma medida de tempo e uma
+quantia em dinheiro. Contudo, o sentido implícito é de que tempo e dinheiro são a mesma
+unidade, pois Marcela era interesseira e só amou enquanto duraram os onze contos de réis.
+No segundo exemplo, parece haver incoerência pela falta de paralelismo semântico entre um
+lugar físico e o coração de uma mulher. Contudo, tomando-se metaforicamente o “coração de
+Marcela” como um “ponto de chegada”, um “objetivo”, a aparente incoerência se desfaz.
+Por fim, deixo uma ressalva muito importante: pelo amor de deus, não saia por aí achando que as
+bancas vão considerar uma frase sem perfeito paralelismo como uma alternativa
+gramaticalmente errada. Não é assim que funciona, os próprios autores que são referência sobre
+paralelismo declaram abertamente que “o paralelismo não se enquadra em uma norma
+gramatical rígida”, “não sendo uma operação obrigatória”. “Constitui, na verdade, uma diretriz
+de ordem estilística – que dá ao enunciado uma certa harmonia...”. Então, o que a banca
+costuma fazer é apenas perguntar se há paralelismo ou não ou pedir para avaliar possibilidades
+de reescritura que observem o paralelismo.
+
+
+
+
+(CGM – 2018)
+O paralelismo sintático e a correção gramatical do texto CG4A1CCC seriam preservados se o
+segmento “a perseguição política, racial ou religiosa” fosse substituído por
+a) a perseguição política, de raça, ou por religião.
+b) a perseguição por política, de raça ou pela religião.
+c) ser perseguido politicamente, por raça, e de religião.
+d) a perseguição por posição política, por raça ou por religião.
+e) a perseguição politicamente, de raça e de religiosidade.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             25
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Comentários:
+Observem que a única opção que traz os membros da enumeração com estrutura semelhante,
+paralela, uniforme:
+a perseguição por posição política, por raça ou por religião.
+Observem a mesma preposição, seguida de um substantivo, indicando causa.
+Nas demais opções, há mistura de preposições, advérbios em palavra única alternados com
+locuções... Gabarito letra D.
+(PRF / 2012)
+No trecho “o cidadão terá uma visão completa da situação de pavimentação, dos trechos com
+curvas perigosas, da quantidade de tráfego, da existência de obras no local e da qualidade”, o
+emprego de preposição e de artigo definido em “dos” e “da” constitui recurso de paralelismo
+sintático exigido pela regência de “visão” e pela concordância com os complementos.
+Comentários:
+Sim, os complementos de “visão” vieram com forma paralelística, com preposição e artigo:
+Visão completa DA situação..
+DOS trechos com curvas... Questão correta.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             26
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                             FUNÇÕES DA PALAVRA “QUE”
+O “que” é palavra muito comum na língua e pode ter diversos usos e sentidos. Já vimos essas
+funções e sentidos ao longo do curso, mas vamos sistematizar aqui:
+Preposição acidental:
+       Ex: Primeiro que tudo, tenho que passar na prova.
+Pronome relativo:
+       Ex: O aluno que estuda passa.
+Pronome indefinido:
+Acompanha substantivo, tem ideia de “qual(is)” e pode ter sentido exclamativo.
+       Ex: Sei que (quais) intenções você tem com minha filha.
+       Ex: Que ideia mais descabida!
+       Ex: Que mulher tinhosa, hein!
+Pronome interrogativo:
+       Ex: (O) Que houve aqui? (“o” é expletivo)
+       Ex: Não sei que (quais) intenções você tem com minha filha. (forma uma interrogativa
+       indireta, sem [?])
+Substantivo:
+       Ex: Essa mulher tem um quê de cigana. (sempre acentuado)
+Advérbio de intensidade:
+       Ex: Que chato!
+Interjeição:
+       Ex: Que! Não acredito que fez isso! (expressa surpresa, admiração)
+Partícula expletiva: pode ser retirada, sem prejuízo sintático ou semântico. A função é apenas dar
+“realce”, “ênfase”:
+       Ex: Você é que manda (mais enfático que apenas “você manda”)
+       Ex: Fui eu que te sustentei, seu ingrato! (SER+QUE)
+       Ex: Quase que caí da varanda. Que trágico que seria.
+       Ex: Naturalmente que disse sim.
+Conjunção explicativa:
+       Ex: Estude, que o edital já vai sair.
+Conjunção alternativa: Equivale ao par alternativo “quer X...quer Y”.
+       Ex: Que chova, que faça sol, irei à praia.
+Conjunção adversativa:
+       Ex: Culpem todos, que não a mim! (mas não a mim)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                27
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Conjunção aditiva:
+      Ex: Você fala que fala hein, meu amigo!
+Conjunção consecutiva:
+      Ex: Bebi tanto que passei mal.
+      Ex: Ele não sai à rua que não encontre um amigo. (sem encontrar um amigo)
+Conjunção comparativa:
+      Ex: Estudo mais (do) que você. (“do” é facultativo)
+Conjunção final:
+      Ex: Estudo para que meu filho tenha uma vida melhor.
+      Ex: Faço votos que sejas feliz!
+Conjunção concessiva:
+      Ex: Estude constantemente, pouco que seja. (=ainda que pouco)
+Conjunção temporal:
+      Ex: Agora que eu ia viajar, chove.
+Conjunção integrante: introduz orações substantivas, aquelas que podem ser substituídas por
+[ISTO]:
+      Ex: Quero que você se exploda! = Quero [ISTO]
+      Ex: É preciso que estudemos. = É preciso [ISTO]
+
+
+
+
+Então, vamos ver melhor a análise sintática de uma oração substantiva, aquela introduzida por
+conjunção integrante e substituível por ISTO. Cai muuuito!
+      Estava claro [que ele era preguiçoso.]
+      Estava claro [ISTO]
+      Isto estava claro. A oração tem função de sujeito.
+      Quero [que você se exploda!]
+      Quero [ISTO]
+      (Quem quer, quer algo). A oração tem função de objeto direto.
+      Detalhe!!! O “se” também pode ser conjunção integrante. Veja:
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            28
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+      Não sei [se ele estuda seriamente!]
+      Não sei [ISTO]
+      (Quem sabe, sabe alguma coisa). A oração tem função de objeto direto.
+      Discordo [de que eles aumentem impostos].
+      Discordo [DISTO]
+      (Quem discorda, discorda de alguma coisa). A oração funciona como objeto indireto.
+      A certeza [de que vou passar na prova] me alivia.
+      A certeza [DISTO] me alivia.
+(Quem tem certeza, tem certeza de alguma coisa). Esse substantivo é abstrato, indica um
+sentimento. Seu complemento preposicionado tem valor paciente, é alvo da certeza. Temos,
+então, uma oração com função de complemento nominal.
+
+
+
+
+(PREF. SÃO JOSÉ DO RIO PRETO-SP / AUDITOR / 2021)
+Expressão expletiva ou de realce: é uma expressão que não exerce função sintática.
+(Adaptado de: BECHARA, Evanildo. Moderna gramática portuguesa, 2009)
+Constitui uma expressão expletiva a expressão sublinhada em:
+(A) Conheço-o desde menino, e sempre esteve para morrer (5º parágrafo)
+(B) Espantei-me que o atingisse a morte de alguém tão distante de nossa convivência (3]
+parágrafo)
+(C) Esta cólica é que é o diabo, se eu fosse mulher ainda estava explicado (6º parágrafo)
+(D) Foi operado de apendicite quando ainda criança e até hoje se vangloria (9º parágrafo)
+(E) consta que de uns dias para cá está de namoro sério com uma jovem (14º parágrafo)
+Comentários:
+Expressão expletiva é aquela que pode ser retirada sem prejuízo ao sentido ou à correção. É
+utilizada como recurso estilístico, de ênfase, realce. Aqui a banca cobra a expressão expletiva
+mais típica: a locução "ser+que":
+Esta cólica é que é o diabo, se eu fosse mulher ainda estava explicado
+Esta cólica é o diabo, se eu fosse mulher ainda estava explicado
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             29
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Gabarito letra C.
+
+
+(MPE PI / ANALISTA / 2018)
+a confissão do réu constitui uma prova tão forte que não há necessidade de acrescentar outras,
+nem de entrar na difícil e duvidosa combinatória dos indícios
+O trecho “que não há (...) indícios” exprime uma noção de consequência.
+Comentários:
+O raciocínio é o seguinte: a confissão é prova robusta, irrefutável. Os indícios são duvidosos.
+Então, a confissão é tão forte, que (como consequência) não há necessidade de depender dos
+duvidosos indícios.
+Observem a combinação de advérbio de intensidade (tão) com o “que” consecutivo. Questão
+correta.                                               ==219a34==
+
+
+
+
+Funções Sintáticas do “QUE” Pronome Relativo
+Para efeito de análise sintática, interessa saber as funções que o “QUE” pode assumir quando for
+pronome relativo.
+O pronome relativo introduz orações adjetivas e retoma o termo antecedente, pois tem função
+anafórica e remissiva.
+Para identificarmos a função sintática do pronome relativo, temos que olhar para o termo que ele
+retoma e atribuir a mesma função sintática desse referente.
+Então basicamente devemos seguir três passos:
+       1) Isolar a oração adjetiva, iniciada pelo “QUE” pronome relativo.
+       2) Dentro dessa oração, substituir o “QUE” por seu antecedente.
+       3) Organizar a oração e analisar a função do antecedente que substituiu o pronome. A
+       função que esse termo assumir é a função do “QUE”. Vejamos:
+
+
+A menina [que roubava livros] foi presa.
+[que roubava livros]
+[A menina roubava livros]
+“que” retoma “a menina”> “que” roubava = a menina roubava> menina seria sujeito,
+então“que” é sujeito.
+
+
+O filme a [que me referi] é meio chato.
+a [que me referi]
+a [o filme me referi]
+[me referi ao filme]
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   30
+        www.estrategiaconcursos.com.br                                                            60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+“que” retoma filme > Me referi a “que” = Me referi a “o filme”. O filme seria objeto indireto,
+então “que” é objeto indireto.
+Enfim, essa é a lógica aplicável aos outros pronomes relativos e às outras funções sintáticas.
+Vejamos:
+   ✔​ Sujeito: Estes são os atletas que representarão o nosso país. (atletas representarão)
+   ✔​ Objeto Direto: Comprei o fone que você queria. (queria o fone)
+   ✔​ Objeto Indireto: Este é o curso de que preciso. (preciso do curso)
+   ✔​ Complemento Nominal: Estas são as medicações de que ele tem necessidade.
+      (necessidade de medicações)
+   ✔​ Predicativo do Sujeito: Ela era a esposa que muitas gostariam de ser. (ser a esposa)
+   ✔​ Agente da Passiva: Este é o animal por que fui atacado. (atacado pelo animal)
+   ✔​ Adjunto Adverbial: O acidente ocorreu no dia em que eles chegaram. (chegaram no dia).
+
+
+
+
+(IPE PREV / ANALISTA / 2022)
+Assinale a alternativa em que o conectivo em destaque tenha sido usado para retomar um termo
+anterior, o qual se encontra nos parênteses.
+(A) “‘o problema com a positividade tóxica é que ela é uma negação de todos os aspectos
+emocionais [...]’’’. (retoma “positividade tóxica”).
+(B) “‘Nós nos escondemos atrás da positividade para manter outras pessoas longe de uma
+imagem que nos mostra imperfeitos.’” (retoma “uma imagem”).
+(C) “Stephanie Preston, professora de psicologia da Universidade de Michigan, nos EUA, acredita
+que a melhor maneira de validar as emoções é ‘apenas ouvi-las’”. (retoma “Stephanie Preston”).
+(D) “Teresa Gutiérrez, psicopedagoga e especialista em neuropsicologia, considera que ‘o
+positivismo tóxico tem consequências psicológicas e psiquiátricas mais graves do que a
+depressão’.” (retoma “Teresa Gutiérrez”).
+(E) “Para Baker, o que devemos lembrar é que ‘todas as nossas emoções são autênticas e reais, e
+todas elas são válidas’.”. (retoma “Para Backer”).
+Comentários:
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               31
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Quando a banca diz "retomar um termo anterior", quer indicar um "pronome". Temos "que"
+pronome relativo em "uma imagem que nos mostra imperfeitos.’” ("que" retoma “uma
+imagem”).
+Em A, o "que" é conjunção integrante e introduz uma oração substantiva predicativa.
+Em C, o "que" é conjunção integrante e introduz uma oração substantiva objetiva direta.
+Em D, o "que" é conjunção integrante e introduz uma oração substantiva objetiva direta.
+Em E, o "que" também é conjunção integrante e introduz uma oração substantiva predicativa.
+Gabarito Letra B.
+
+
+(PRF / POLICIAL / 2019)
+Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em razão
+de atividades do trabalho humano. Os processos de produção dos objetos que nos cercam
+movimentam relações diversas entre os indivíduos, assim como a organização do trabalho
+alterou-se bastante entre diferentes sociedades e momentos da história.
+No trecho “Os processos de produção dos objetos que nos cercam movimentam relações
+diversas entre os indivíduos”, o sujeito da forma verbal “cercam” é “Os processos de produção
+dos objetos”.
+Comentários:
+Muito cuidado, a questão é avançada. O sujeito sintático da oração adjetiva é o pronome relativo
+“que”:
+Os processos de produção dos objetos [que nos cercam] movimentam relações
+A oração adjetiva é esta entre colchetes, o termo “Os processos de produção dos objetos” nem
+sequer faz parte da oração. Na verdade, é o sujeito da oração principal:
+Os processos de produção dos objetos movimentam relações
+Para saber a função do pronome relativo, basicamente o substituímos pelo termo que substitui e
+analisamos normalmente a oração adjetiva após a troca:
+[que nos cercam]
+[Os processos de produção dos objetos nos cercam]
+Como o termo SERIA (HIPÓTESE) o sujeito, sabemos que o “que” é o sujeito. Lembre, esse é um
+artifício de análise, o termo “Os processos de produção dos objetos” não faz parte de fato da
+oração adjetiva e não pode ser sujeito dela, o sujeito é o pronome! Questão incorreta.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               32
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                               FUNÇÕES DA PALAVRA “SE”
+A palavra “SE” pode ter muitas funções, vejamos de forma compilada as principais:
+Pronome apassivador (PA): Acompanha um verbo transitivo direto e indica voz passiva.
+      Ex: Vendem-se casas.
+Partícula de indeterminação do sujeito (PIS): Acompanha os verbos que não possuem objeto
+direto, isto é, verbos intransitivos, transitivos indiretos e de ligação.
+      Ex: Vive-se bem aqui.
+      Ex: Trata-se de uma exceção.
+      Ex: Sempre se está sujeito a erros.
+Conjunção integrante:
+      Ex: Não quero saber se ele nasceu pobre. (não quero saber isso; introduz uma oração
+      substantiva objetiva direta)
+Conjunção condicional:
+      Ex: Se eu estudar sempre, serei aprovado.
+Conjunção causal: Equivale a “já que” e expressa um fato “real”, visto como causa.
+      Ex: “Se você gosta dela, por que não a procura?” (Procuro porque gosto)
+      Ex: “Se não vale a pena desistir, eu devo concluir a missão” (Concluo porque não vale a
+      pena desistir)
+Pronome reflexivo: Indica que o agente pratica uma ação em si mesmo.
+      Ex: Minha tia se barbeia.
+      Ex: O menino feriu-se com a faca.
+Nesse caso, “se” tem função sintática de objeto direto, pois o sujeito e o objeto são a mesma
+pessoa. Acompanham verbos que indicam ações que podem ser praticadas na própria pessoa ou
+em outra.
+Pronome recíproco:
+      Ex: Irmão e irmã se abraçaram. Nesse caso, equivale a abraçaram um ao outro e o “SE”
+      terá função sintática de objeto direto.
+Parte integrante de verbo pronominal (PIV):
+      Ex: Candidatou-se à presidência e se esforçou para ser eleito.
+      Ex: Certifique-se do horário.
+      Ex: Ele sempre se queixa da família.
+NÃO CONFUNDA: o “SE” reflexivo com o dos verbos pronominais, em que o “se” é parte
+integrante do verbo, que não pode ser conjugado sem ele, como atrever-se, alegrar-se,
+admirar-se, orgulhar-se, levantar-se, arrepender-se, materializar-se, reconhecer-se, formar-se,
+queixar-se, sentar-se, suicidar-se, concentrar-se, afogar-se, precaver-se, partir-se (quebrar)...
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               33
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Os verbos pronominais são quase sempre Intransitivos ou Transitivos Indiretos. Isso já ajuda a
+distinguir da vozes passiva e reflexiva. Além disso, o “SE” dos verbos pronominais não exerce
+função sintática alguma.
+Partícula expletiva de realce:
+Pode ser retirada, sem prejuízo sintático ou semântico.
+      Ex: Vão-se minhas últimas economias.
+      Ex: Passaram-se anos e ela não voltou.
+As bancas gostam muito de cobrar esse “SE” nos verbos “rir” e “sorrir”.
+Fique atento, a banca vai te remeter a um trecho e dizer que o “se” destacado é um desses
+acima, quando, na verdade, será outro. Por exemplo, vai dizer que o “SE” indica voz passiva,
+quando na realidade vai indicar sujeito indeterminado, ou condição, ou reflexividade...
+                                                       ==219a34==
+
+
+
+
+                             Como não confundir todos esses tipos de “SE”?
+Neste momento, vou mergulhar numa questão que os livros e materiais de concurso costumam
+evitar, seja pela complexidade, seja pela divergência entre bancas e gramáticos. Mesmo assim,
+prefiro pecar pelo excesso, rs... Venham comigo!
+A classificação do “SE”, especialmente nos casos de Voz Passiva, Reflexiva e Verbo Pronominal,
+não é unânime nem mesmo entre os gramáticos, então não se desespere se você se deparar com
+uma situação em que mais de uma análise faça sentido. Isso ocorre também porque muitos
+verbos pronominais tinham historicamente sentido reflexivo e o foram perdendo, como
+“sentar-se”, “admirar-se”, “orgulhar-se” “candidatar-se”. Além disso, verbos com pronome são
+genericamente classificados como “pronominais”, o que acaba misturando casos de pronome
+reflexivo e parte integrante.
+Se você estudar e revisar esta matéria, perceberá que a maior parte dos “SE” é bem fácil de
+distinguir. A “zona cinzenta” está mesmo nos casos em que ele se liga a verbos. Então, tentemos
+sempre nos guiar por alguns critérios semânticos gerais:
+1) Nos casos de voz passiva, além do verbo transitivo direto, primeiro fator que deve ser
+considerado, deve estar bem claro que há sentido passivo, ou seja, que há um agente “externo”
+praticando aquela ação e o sujeito do verbo tem que estar sofrendo a ação.
+      Ex: João se vacinou/se batizou/se curou.
+Ora, temos voz passiva, pois alguém vacinou/batizou/curou João: o médico, o padre, o
+curandeiro etc... de forma que ele recebe essas ações de um agente externo, passivamente.
+2) A dica sintática é: Os verbos pronominais são transitivos indiretos ou intransitivos. Os verbos
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 34
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+com sentido reflexivo normalmente serão transitivos diretos, o “SE” como objeto indireto é
+pouco comum. Dessa forma, na sua prova, se o verbo for transitivo “indireto”, com certeza não
+há voz passiva e muito dificilmente vai haver voz reflexiva.
+Pelo aspecto semântico, para haver voz reflexiva deve estar bem clara no texto a noção de um
+ser animado ou ente personificado deliberadamente praticando uma ação em si mesmo.
+      Ex: Maria se penteia cuidadosamente. (Maria opera o pente e recebe a ação de ser
+      penteada, esse é sentido reflexivo clássico, que deve estar evidente no contexto.)
+      Ex: João se amarrou ao tronco durante o furacão. (João prende a si mesmo no tronco, ele
+      “amarra” e “é amarrado” ao tronco)
+Quando o sujeito não é o agente efetivo da ação, por ser ela espontânea ou independente da
+sua vontade, não devemos pensar em voz reflexiva nem em voz passiva. Teremos o “SE” como
+parte integrante do verbo.
+      Ex: A criança caiu do bote e se afogou.
+Não temos como pensar em voz reflexiva, pois a criança não “afogou a si própria”, afogar-se é
+verbo intransitivo e temos uma ação espontânea, independente da vontade do sujeito. Não há
+também um agente externo “afogando” o menino, então não há voz passiva.
+      Ex: O barco se partiu nas rochas.
+Não temos voz passiva, pois não há alguém exterior ao sujeito quebrando o barco.
+Sintaticamente, também não é possível ver “nas rochas” como sujeito, pois é um termo
+preposicionado. Além disso, o sujeito é “o barco”.
+Não temos voz reflexiva, pois o barco não está partindo a si mesmo. O barco arrebentar é um
+efeito natural, uma ação espontânea. Também não temos “partícula de realce”, pois não
+conseguimos tirar o “SE” sem prejuízo. Isso tudo indica que o “SE” é parte integrante do verbo.
+      Ex: “As nuvens se movimentam rapidamente”
+Observe que não faz sentido pensar que as nuvens “movimentam a si mesmas”, pois temos
+entes inanimados praticando uma ação espontânea, independente da sua vontade. As nuvens se
+movimentam naturalmente.
+Também não faz sentido pensar em voz passiva, pois não há nenhum ser exterior ao sujeito
+praticando a ação de mover as nuvens enquanto as nuvens “sofrem” essa ação. Portanto, a
+conversão “as nuvens são movimentadas rapidamente” é inviável, pois tem outro sentido. Essa
+“estranheza” e “artificialidade” na conversão indica que não havia mesmo voz passiva.
+3) Só existe dúvida entre voz passiva e reflexiva se houver logicamente a possibilidade de o
+sujeito praticar a ação em si mesmo. Portanto, em “Consertam-se relógios”, só podemos ter voz
+passiva, já que um relógio não pode consertar a si mesmo. Sabendo que é muitas vezes
+impossível distinguir PIV de Pronome Reflexivo, a banca quase sempre vai pedir mesmo a
+comparação com a voz passiva!
+4) Justamente por haver tantas análises possíveis, em alguns casos, há ambiguidade contextual:
+      Ex: Após o primeiro ato, vestiram-se a moça e o rapaz.
+Podemos entender que eles foram vestidos por alguém (voz passiva), que vestiram a si mesmos
+(voz reflexiva) ou vestiram um ao outro, mutuamente (voz reflexiva recíproca).
+Como disse, esses critérios não são infalíveis e misturam análises semânticas e sintáticas
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  35
+        www.estrategiaconcursos.com.br                                                           60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+alternadamente. Contudo, espero que ajudem justamente naqueles casos mais nebulosos.
+
+
+
+
+(CGE-CE–Conhec. Básicos – 2019)
+E no meio daquele povo todo sempre se encontrava uma alma boa como a de sua mãe, uma
+moça bonita, um amigo animado. Candeia era morta.
+O vocábulo “se”
+a) poderia ser suprimido, sem alteração dos sentidos do texto.
+b) encontra-se em próclise devido à presença do advérbio “sempre”.
+c) indetermina o sujeito da forma verbal “encontrava”.
+d) retoma a palavra “povo” (L.10).
+e) indica reciprocidade.
+Comentários:
+Em “sempre se encontrava” temos o pronome antes do verbo sendo atraído pelo advérbio de
+tempo “sempre”, temos caso de próclise obrigatória. A propósito da sintaxe, esse “SE” é
+apassivador: sempre era encontrada uma alma boa. Gabarito letra B.
+
+
+(STM / NÍVEL SUPERIOR / 2018)
+Eles [homens violentos que querem dominar as mulheres] se julgam com o direito de impor o seu
+amor ou o seu desejo a quem não os quer.
+É de se supor que quem quer casar deseje que a sua futura mulher venha para o tálamo conjugal
+com a máxima liberdade, com a melhor boa-vontade, sem coação de espécie alguma, com ardor
+até, com ânsia e grandes desejos; como é então que se castigam as moças que confessam não
+sentir mais pelos namorados amor ou coisa equivalente?
+O vocábulo se recebe a mesma classificação em “se julgam” e “se castigam”.
+Comentários:
+No primeiro caso, eles julgam “a si mesmos”, então o “se” é reflexivo. No segundo, as moças
+são castigadas, temos “se” apassivador: “VTD+SE”. Questão incorreta.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            36
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+          QUESTÕES COMENTADAS - ORAÇÕES ADJETIVAS - FGV
+1.        (FGV / TJ-RN / 2023)
+Todos os pensamentos abaixo trazem orações adjetivas destacadas; a opção em que essa oração
+foi substituída por um adjetivo de forma adequada, é:
+A) Uma ideia medíocre que desperta entusiasmo irá mais longe que uma grande ideia que não
+inspira entusiasmo algum / motivadora;
+B) Nosso grande erro é tentar obter de cada um as virtudes que não possuem e desdenhar o
+aprimoramento das que possuem / encarecedoras;
+C) A única coisa que vem sem esforço é a idade / inevitável;
+D) Há mais pessoas que desistem do que pessoas que fracassam / desestimuladas;
+E) Não se pode confiar em quem não confia em ninguém / nos confiantes.
+Comentários:
+Na letra, temos nosso gabarito: "que desperta entusiasmo" equivale a "motivadora": a
+motivação é um ânimo, um entusiasmo de fazer alguma coisa. Aqui, são sinônimos.
+Vejamos as demais. Percebam como o adjetivo não "casa" com a oração:
+"encarecedor" é o faz ficar mais caro;
+"inevitável" é o que não pode ser evitado;
+"desestimulado" é sem estímulo, desmotivado; não é sinônimo de desistir. Aliás, nós, tantas
+vezes, estamos desestimulados e, mesmo assim, não desistimos.
+"confiante" é em sente confiança; "quem não confia em ninguém" é "desconfiado".
+Gabarito letra A.
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                       37
+           www.estrategiaconcursos.com.br                                                60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+         QUESTÕES COMENTADAS - ORAÇÕES ADVERBIAIS - FGV
+1.        (FGV / TCE-ES / 2023)
+A frase abaixo em que NÃO está presente qualquer oração de valor condicional, é:
+A) Eu sou realmente fácil de lidar, uma vez que as pessoas aprendam a me venerar;
+B) Um megalômano é um homem que pensa que se ele não tivesse nascido, o mundo precisaria
+saber por quê;
+C) O mundo não gira em torno de você... Só quando você bebe demais;
+D) Caso o diabo pense que pode fazer as pessoas piores, ele é um otimista;
+E) Dê autoridade a um homem, desde que você queira conhecê-lo verdadeiramente.
+Comentários:
+"uma vez que", "se", "caso", "desde que" são todas conjunções condicionais, pois foram usadas
+com sentido de hipótese.
+"quando" indica tempo.
+Gabarito letra C.
+
+
+2.        (POLÍCIA MILITAR DO ESTADO DE SÃO PAULO / 2020)
+Considere os termos destacados nos trechos do texto.
+Quem vai viajar e passar dias fora de casa, deve ficar atento ao que vai postar nas redes sociais...
+... cuidados que precisam ser tomados por quem planeja “abandonar” o lar para aproveitar as
+férias...
+Esses termos estabelecem entre as ideias, correta e respectivamente, as relações de
+A) restrição e causa.
+B) restrição e direção.
+C) lugar e proporção.
+D) lugar e finalidade.
+Comentários:
+A primeira expressão destacada introduz o adjunto adverbial de lugar "nas redes sociais",
+acrescentando uma informação sobre a circunstância de lugar do verbo "postar".
+A segunda expressão "para" introduz o adjunto adverbial de finalidade "para aproveitar as
+férias", pois expressa o objetivo ou intuito de "abandonar o lar".
+Gabarito Letra D
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                38
+           www.estrategiaconcursos.com.br                                                         60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+3.        (FGV / ACI / SEFAZ-RJ / 2011)
+Ao analisar o progresso da humanidade, percebe-se que o desenvolvimento social e econômico
+foi possível porque o homem sistematizou formas de organização entre os povos.
+A oração sublinhada no período acima tem valor
+A) causal.        B) concessivo.           C) comparativo.             D) temporal.   E) consecutivo.
+Comentários
+A oração reduzida “Ao analisar o progresso da humanidade” ao ser desenvolvida fica da
+seguinte forma: “Quando se analisa o progresso da humanidade”. Desse modo, ela assume valor
+temporal.
+Gabarito letra D.
+
+                                                          ==219a34==
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                      39
+           www.estrategiaconcursos.com.br                                                               60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+          QUESTÕES COMENTADAS - ORAÇÕES REDUZIDAS - FGV
+1.        (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Assinale a opção em que a modificação de oração reduzida para desenvolvida foi feita de forma
+correta e adequada.
+A) Na abastança é impossível compreender as lutas da miséria / Na abastança é impossível que
+se compreenda as lutas da miséria.
+B) Todos nós somos doidos, mas ninguém tem o direito de impor aos outros a sua loucura /
+Todos nós somos loucos, mas ninguém tem o direito de imposição aos outros da sua loucura.
+C) Qualquer um para entrar no hospício deveria assinar um termo / Qualquer um para que entre
+no hospício deveria assinar um termo.
+D) Foi importante comunicar nossas decisões previamente / Foi importante a comunicação de
+nossas decisões previamente.
+E) Será bastante útil ter a nossa disposição ferramentas adequadas / Será bastante útil que
+tenhamos a nossa disposição ferramentas adequadas.
+Comentário:
+Na oração desenvolvida, devemos ter conjunção e verbo conjugado; nas reduzidas, por outro
+lado, há forma nominal (gerúndio, particípio ou infinitivo) e não há conjunção :
+e) Será bastante útil ter a nossa disposição ferramentas adequadas / Será bastante útil que
+tenhamos a nossa disposição ferramentas adequadas.
+Corrijamos as demais:
+a) Na abastança é impossível que se compreendaM as lutas da miséria.
+b) imposição é substantivo, nem há oração. Oração é frase verbal. Houve apenas um processo de
+substantivação.
+c) Qualquer um para entrar no hospício deveria assinar um termo / Qualquer um para que
+entrASSE no hospício deveria assinar um termo.
+d) comunicação é substantivo, nem há oração. Houve apenas um processo de substantivação.
+Gabarito Letra E
+
+
+2.        (FGV / TRIBUNAL DE JUSTIÇA DO CEARÁ / 2019)
+“É natural desejar que se faça justiça”.
+
+
+Se transformarmos a oração reduzida “desejar” em uma oração desenvolvida, a forma adequada
+será:
+A) que se deseje que se faça justiça;
+B) o desejo de que se faça justiça;
+C) que se desejasse que se faça justiça;
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                         40
+           www.estrategiaconcursos.com.br                                                  60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+D) o desejo de que seja feita justiça;
+E) desejarmos que se faça justiça;
+Comentários:
+Temos que a oração reduzida vem de uma oração subordinada substantiva, pois exerce a função
+de sujeito: É (verbo de ligação) natural (predicativo do sujeito) desejar (sujeito).
+Sabemos, portanto, que essa oração, para ser desenvolvida, precisa ser introduzida por uma
+conjunção integrante ("que"), e que teremos de conjugar "desejar" no subjuntivo. Assim, temos
+que a forma desenvolvida da oração é: É natural que se deseje que se faça justiça. Gabarito: letra
+A.
+
+
+3.        (FGV / TJ-SC / ANALISTA / 2018)
+“Afinal, se queremos algo, além de ter um alto QI, é necessário desenvolver uma sabedoria
+                                                          ==219a34==
+
+
+
+
+excepcional”.
+A forma adequada de uma oração desenvolvida correspondente à oração reduzida sublinhada
+(texto 2) é:
+A) o desenvolvimento de uma sabedoria excepcional;
+B) que desenvolvemos uma sabedoria excepcional;
+C) que desenvolvêssemos uma sabedoria excepcional;
+D) desenvolvermos uma sabedoria excepcional;
+E) que desenvolvamos uma sabedoria excepcional.
+Comentários:
+A oração sublinhada é uma oração reduzida de infinitivo. Se a banca pede uma oração
+‘desenvolvida’, ela deve ter “conjunção’ e “verbo conjugado”: que desenvolvamos uma
+sabedoria excepcional.
+A letra A não traz oração, oração precisa de verbo e “desenvolvimento” é um substantivo”. A
+letra D não traz oração desenvolvida, mas sim uma outra reduzida de infinitivo, flexionado no
+plural.
+Na letra B, a conjugação está incorreta, pois a oração pede o verbo no subjuntivo, não no
+indicativo. Na letra C, a conjugação no pretérito imperfeito do subjuntivo é incorreta, pois não há
+referência a fato passado. Gabarito letra E.
+
+
+4.        (FGV / BANESTES / TÉCNICO BANCÁRIO / 2018)
+“Talvez um dia seja bom relembrar este dia”. (Virgílio)
+A forma de oração desenvolvida adequada correspondente à oração sublinhada acima é:
+A) relembrarmos este dia;
+B) a relembrança deste dia;
+C) que relembremos este dia;
+D) que relembrássemos este dia;
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                              41
+           www.estrategiaconcursos.com.br                                                       60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+E) uma nova lembrança deste dia.
+Comentários:
+Para desenvolver a oração, precisamos introduzir a conjunção e o verbo em forma conjugada:
+Talvez um dia seja bom relembrar este dia”
+Talvez um dia seja bom que relembremos este dia;
+Na letra A, o verbo continua em forma nominal de infinitivo. Nas letras B e E, temos substantivos,
+não verbo. Na letra D, o tempo não está adequado, pois jogou a oração para o pretérito, ao
+passo que a forma original projeta a oração para o futuro. Gabarito letra C.
+
+
+5.        (FGV / TJ-SC / TÉCNICO / 2018)
+“não poder dar-se amor a quem se ama”; a forma reduzida desse verso pode ser corretamente
+substituída por:
+A) que não se pudesse dar amor;
+B) que não se pode dar amor;
+C) que não se pôde dar amor;
+D) que não se podia dar amor;
+E) que não se possa dar amor.
+Comentários:
+Na oração reduzida, não aparece a conjunção e o verbo vem em uma forma nominal. A oração
+desenvolvida deve apresentar a conjunção e também o verbo conjugado. Pelo valor futuro que
+se sugere na oração, somente serviria o verbo conjugado no presente do subjuntivo, que pode
+expressar também ideia de futuro vago, hipotético:
+“não poder dar-se amor a quem se ama”;
+“não poder que não se possa dar amor a quem se ama”
+As demais trouxeram verbos no pretérito (pudesse, podia, pôde) ou no presente (pode) Gabarito
+letra E.
+
+
+6.        (FGV / SEFIN RO / Contador / 2018)
+Um dos conselhos para uma boa escrita é que as frases de um texto tenham a mesma
+organização sintática numa enumeração.
+No fragmento “Se hoje é possível existir redes sociais; se é possível que pessoas se organizem
+em grupos...”, para que as duas frases tenham a mesma organização, a mudança adequada seria:
+A) a primeira frase deveria ser “Se é possível que existam redes sociais”.
+B) a primeira frase deveria ser “Se é possível a existência de redes sociais”.
+C) a segunda frase deveria ser “se é possível a organização de pessoas em grupos”.
+D) a segunda frase deveria ser “se é possível que pessoas sejam organizadas em grupos”.
+E) a segunda frase deveria ser “se é possível pessoas organizando-se em grupos”.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                             42
+           www.estrategiaconcursos.com.br                                                      60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Comentários:
+A primeira frase traz uma oração reduzida “existir redes sociais”; a segunda, diferentemente, traz
+uma oração desenvolvida: “que pessoas se organizem”.
+Para que as duas frases observem o paralelismo sintático, devem estar ambas reduzidas ou
+ambas desenvolvidas.
+“Se hoje é possível existir redes sociais; se é possível pessoas se organizarem em grupos...”
+(ambas reduzidas)
+“Se hoje é possível que existam redes sociais; se é possível que pessoas se organizem em
+grupos...” (ambas desenvolvidas)
+Essa última construção paralelística, com ambas desenvolvidas, é a única que temos entre as
+opções. Gabarito letra A.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                43
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+     QUESTÕES COMENTADAS - PARALELISMO SINTÁTICO - FGV
+   1. (FGV / TJ-RN / 2023)
+A frase publicitária abaixo que mostra paralelismo sintático, é:
+A) Nada comparável ao novo Renault Stepway. Nada.
+B) Novo Yoki com frutas. Beijos de frutas.
+C) Brastemp economiza mais. Brastemp demora menos. Brastemp assa melhor.
+D) Um televisor para olhar e admirar. Um televisor simplesmente admirável.
+E) Venha ao Zona Sul. Sairá ganhando.
+Comentários:
+Paralelismo sintático é o uso de estruturas paralelas, idênticas:
+Brastemp economiza mais.
+Brastemp demora menos.
+Brastemp assa melhor.
+Observem que as três trazem exatamente a mesma forma: Brastemp + verbo + advérbio.
+Nas demais, as estruturas não são idênticas.
+Gabarito letra C.
+
+
+    2. (FGV / CGU / 2022)
+Uma das qualidades estruturais das frases que escrevemos é o respeito pelo paralelismo
+sintático.
+A frase abaixo que emprega corretamente essa estratégia é:
+A) Ela não só trabalha na fábrica como também é enfermeira;
+B) Trata-se de uma lei que é dura e que pode dar jeito no setor;
+C) Os deputados negaram estarem as comissões atrasadas em seus trabalhos e que eles tudo
+têm feito para um melhor desempenho;
+D) Não se trata mais de verificar a seriedade das pesquisas ou que os jornais as tenham feito de
+forma apressada;
+E) Foi solicitado o cancelamento de um jornalista e empresário conhecido, que tem dois dias
+para apresentar sua defesa.
+Comentários:
+Pessoal, o gabarito foi a letra D, mas esta alternativa também possui erro de paralelismo. A letra
+B, segundo próprio Manual de Redação da Presidência, estaria correta. Enfim, a FGV elaborou
+mal a questão, mas nós vamos aproveitá-la didaticamente:
+(A) Ela não só trabalha na fábrica como também é enfermeira;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                44
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+Aqui, houve quebra de paralelismo no uso de estruturas diferentes, uma oração e um
+substantivo: "trabalha na fábrica" e "é enfermeira"
+Uma possível forma de restaurar o paralelismo seria:
+Ela não só trabalha na fábrica como também no hospital, como enfermeira;
+(B) Trata-se de uma lei que é dura e que pode dar jeito no setor;
+Num exemplo muito parecido, o Manual da Presidência abona essa estrutura:
+Errado: Neste momento, não se devem adotar medidas precipitadas, e que comprometam o
+andamento de todo o programa. (falso paralelismo)
+Certo: Neste momento, não se devem adotar medidas precipitadas, que comprometam o
+andamento de todo o programa.
+Certo: Neste momento, não se devem adotar medidas que sejam precipitadas e que
+comprometam o andamento de todo o programa.
+(C) Os deputados negaram estarem as comissões atrasadas em seus trabalhos e que eles tudo
+                                                       ==219a34==
+
+
+
+
+têm feito para um melhor desempenho;
+Há mistura de oração reduzida "estarem" e desenvolvida "que eles tudo têm feito".
+Uma forma de correção seria:
+Os deputados negaram que as comissões estão atrasadas em seus trabalhos e (disseram) que
+eles tudo têm feito para um melhor desempenho
+(D) Não se trata mais de verificar a seriedade das pesquisas ou que os jornais as tenham feito de
+forma apressada;
+Há erro de paralelismo, mistura na forma dos complementos de verificar:
+Verificar "a seriedade" (forma nominal)
+Verificar "que os jornais as tenham feito de forma apressada" (forma oracional)
+Uma forma de correção seria:
+Não se trata mais de verificar se as pesquisas são sérias ou se os jornais as tenham feito de forma
+apressada
+(E) Foi solicitado o cancelamento de um jornalista e empresário conhecido, que tem dois dias
+para apresentar sua defesa.
+Não vejo erro de paralelismo na E; a banca se baseou nos exemplos abaixo, também do Manual
+da Presidência:
+Certo: O novo procurador é jurista renomado e tem sólida formação acadêmica.
+Certo: O novo procurador é jurista renomado, que tem sólida formação acadêmica.
+Gabarito Preliminar letra D; alterado para Letra B
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 45
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+            QUESTÕES COMENTADAS - PALAVRA QUE - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+Assinale a frase em que a classe gramatical do vocábulo “que” está corretamente indicada.
+A) Depois dizem que eu não faço chover. / pronome interrogativo.
+B) Ela tinha um quê de esquisito no olhar. / interjeição.
+C) Os torcedores tiveram que sair da arquibancada. / conjunção integrante.
+D) Não sei que dia é hoje. / advérbio de tempo.
+E) Com fé você vence. Sem fé, passa para trás os que venceram. / pronome relativo.
+Comentários:                                           ==219a34==
+
+
+
+
+A) Depois dizem que eu não faço chover. / conjunção integrante.
+Depois dizem [que eu não faço chover].
+Depois dizem [ISSO].
+B) Ela tinha um quê de esquisito no olhar. / substantivo.
+O artigo "um" identifica "quê" como substantivo, que é sempre acentuado e sinônimo de
+"jeito", "traço", "característica".
+C) Os torcedores tiveram que sair da arquibancada. / preposição acidental.
+Os torcedores tiveram que/de sair da arquibancada. (sentido de dever, obrigação)
+D) Não sei que dia é hoje. / pronome interrogativo.
+Não sei que/qual dia é hoje (Que dia é hoje?)
+E) Com fé você vence. Sem fé, passa para trás os que venceram. / pronome relativo.
+É pronome relativo porque retoma o demonstrativo "os" (aqueles).
+Gabarito letra E.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             46
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+                 QUESTÕES COMENTADAS - PALAVRA SE - FGV
+1.        (FGV / TJ RJ / 2024)
+Assinale a frase que não mostra um exemplo de voz passiva pronominal (com o pronome SE).
+A) Ninguém se prejudicou por haver calado, mas sim por haver falado.
+B) O resumo da sabedoria é este: nunca é perdido o tempo que se consagra ao trabalho.
+C) Nem todo problema que se tem com a namorada se deve ao modo capitalista de produção.
+D) De quantas infâmias se compõe um êxito?
+E) O sol nunca se põe no mesmo lugar.
+Comentários:
+Essa questão explora as principais classificações do "SE".
+Para saber se o "SE" indica voz passiva, é necessário ver se ele é originalmente verbo transitivo
+direto e se é possível converter na voz passiva analítica. É necessário verificar se há de fato
+sentido passivo. Vejamos:
+A) Ninguém se prejudicou por haver calado, mas sim por haver falado.
+Temos voz passiva pronominal: Ninguém foi prejudicado.
+B) O resumo da sabedoria é este: nunca é perdido o tempo que se consagra ao trabalho.
+Temos voz passiva pronominal: O tempo é consagrado.
+C) Nem todo problema que se tem com a namorada se deve ao modo capitalista de produção.
+Temos voz passiva pronominal: O problema é devido ao modo capitalista.
+D) De quantas infâmias se compõe um êxito?
+Temos voz passiva pronominal: Um êxito é composto de infâmias.
+Agora vejam como não há sentido passivo na letra E:
+E) O sol nunca se põe no mesmo lugar.
+A forma verbal "se por" é intransitiva, não há nenhum agente "pondo o sol"; trata-se de
+fenômeno espontâneo, sem agente nem paciente.
+O "se" é mera parte integrante de um verbo intransitivo. Para haver voz passiva, é necessário
+haver verbo transitivo direto, porque é objeto direto que vira sujeito passivo.
+Gabarito letra E.
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                            47
+           www.estrategiaconcursos.com.br                                                     60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+2.        (FGV – Professor de Matemática - SEED-AP / 2022)
+Na frase “Não se deliberam sentimentos; ama-se ou aborrece-se, conforme o coração quer”, as
+três formas do vocábulo SE são respectivamente classificadas como
+A) pronome apassivador / indeterminador do sujeito / indeterminador do sujeito.
+B) pronome apassivador / pronome apassivador / pronome apassivador.
+C) indeterminador do sujeito / indeterminador do sujeito / indeterminador do sujeito.
+D) pronome reflexivo / pronome apassivador / indeterminador do sujeito.
+E) pronome apassivador / pronome reflexivo / pronome reflexivo.
+Comentário:
+Não se deliberam=não são deliberados (voz passiva); o “SE” é pronome apassivador.
+Em “ama-se ou aborrece-se” temos estrutura com verbo intransitivo + SE; logo, temos sujeito
+                                                          ==219a34==
+
+
+
+
+indeterminado indicado pelo “SE” índice de indeterminação.
+Gabarito Letra A.
+
+
+3.        (FGV / PREFEITURA MUNICIPAL DO SALVADOR (BA) / 2019)
+Nas opções a seguir, a primeira oração foi reescrita de modo a dar-se a ela um caráter genérico,
+com a utilização da partícula se. Assinale a opção em que isso foi feito de forma gramaticalmente
+incorreta.
+A) Todo mundo viu a morte de perto. / Viu-se a morte de perto.
+B) As pessoas reclamam de tudo. / Reclama-se de tudo.
+C) Muita gente pensa o contrário de todos. / Pensa-se o contrário de todos.
+D) Muitas pessoas não respeitam os horários. / Desrespeitam-se os horários.
+E) Todos cometem as mesmas falhas. / Comete-se as mesmas falhas.
+Comentários:
+A - CORRETO.
+O verbo "ver" é transitivo direto. Com a partícula "se", há a passagem da oração para a voz
+passiva sintética.
+O verbo "viu-se" também está corretamente concordando com o núcleo do sujeito ("morte"),
+ficando no singular.
+B - CORRETO.
+Verbo transitivo indireto. O "se" funciona como índice de indeterminação do sujeito. Nesse caso,
+o verbo deverá ser flexionado na terceira pessoa do singular, estando correta a forma verbal
+"Reclama".
+C - CORRETO.
+O verbo "pensa" é transitivo direto. Com a partícula "se", há a passagem da oração para a voz
+passiva sintética.
+O verbo também está corretamente concordando com o núcleo do sujeito ("contrário"), ficando
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                            48
+           www.estrategiaconcursos.com.br                                                     60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+no singular.
+D - CORRETO.
+O verbo "Desrespeitam" é transitivo direto. Com a partícula "se", há a passagem da oração para
+a voz passiva sintética.
+O verbo também está corretamente concordando com o núcleo do sujeito ("horários"), ficando
+no plural.
+E - ERRADO.
+O "se" está funcionando como pronome apassivador.
+O sujeito da expressão na reescrita é a "as mesmas falhas", que está no plural. O verbo
+"Comete" também deveria estar no plural, estando errada a frase.
+Gabarito: letra E
+
+
+4.        (FGV / AFRE-RJ / 2011)
+Trata-se, portanto, de um assunto de relevante interesse para as empresas nacionais e
+estrangeiras que atuam no Brasil, bem como para os profissionais especializados na área criminal,
+que atuarão cada vez mais veementemente na prevenção dos riscos da empresa.
+No período destacado acima, o SE classifica-se como
+A) pronome reflexivo.
+B) partícula apassivadora.
+C) parte integrante do verbo.
+D) pronome oblíquo.
+E) indeterminador do sujeito.
+Comentários
+O SE classifica-se como uma partícula indeterminadora do sujeito, pois está acompanhando um
+verbo transitivo indireto na terceira pessoa do singular. O “se” de voz passiva depende da
+transitividade direta do verbo. Lembre-se que a expressão “trata-se de” é típica de sujeito
+indeterminado. Gabarito letra E.
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                            49
+           www.estrategiaconcursos.com.br                                                     60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+               LISTA DE QUESTÕES - ORAÇÕES ADJETIVAS - FGV
+1.        (FGV / TJ-RN / 2023)
+Todos os pensamentos abaixo trazem orações adjetivas destacadas; a opção em que essa oração
+foi substituída por um adjetivo de forma adequada, é:
+A) Uma ideia medíocre que desperta entusiasmo irá mais longe que uma grande ideia que não
+inspira entusiasmo algum / motivadora;
+B) Nosso grande erro é tentar obter de cada um as virtudes que não possuem e desdenhar o
+aprimoramento das que possuem / encarecedoras;
+C) A única coisa que vem sem esforço é a idade / inevitável;
+D) Há mais pessoas que desistem do que pessoas que fracassam / desestimuladas;
+E) Não se pode confiar em quem não confia em ninguém / nos confiantes.
+
+
+
+
+                                                    GABARITO
+                                                        1. LETRA A
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                       50
+           www.estrategiaconcursos.com.br                                                60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+               LISTA DE QUESTÕES - ORAÇÕES ADVERBIAIS - FGV
+1.        (FGV / TCE-ES / 2023)
+A frase abaixo em que NÃO está presente qualquer oração de valor condicional, é:
+A) Eu sou realmente fácil de lidar, uma vez que as pessoas aprendam a me venerar;
+B) Um megalômano é um homem que pensa que se ele não tivesse nascido, o mundo precisaria
+saber por quê;
+C) O mundo não gira em torno de você... Só quando você bebe demais;
+D) Caso o diabo pense que pode fazer as pessoas piores, ele é um otimista;
+E) Dê autoridade a um homem, desde que você queira conhecê-lo verdadeiramente.
+
+
+2.        (POLÍCIA MILITAR DO ESTADO DE SÃO PAULO / 2020)
+Considere os termos destacados nos trechos do texto.
+Quem vai viajar e passar dias fora de casa, deve ficar atento ao que vai postar nas redes sociais...
+... cuidados que precisam ser tomados por quem planeja “abandonar” o lar para aproveitar as
+férias...
+Esses termos estabelecem entre as ideias, correta e respectivamente, as relações de
+A) restrição e causa.
+B) restrição e direção.
+C) lugar e proporção.
+D) lugar e finalidade.
+
+
+3.        (FGV / ACI / SEFAZ-RJ / 2011)
+Ao analisar o progresso da humanidade, percebe-se que o desenvolvimento social e econômico
+foi possível porque o homem sistematizou formas de organização entre os povos.
+
+
+A oração sublinhada no período acima tem valor
+A) causal.                B) concessivo.           C) comparativo.           D) temporal.    E) consecutivo.
+
+
+
+
+                                                    GABARITO
+               1. LETRA C                               2. LETRA D                          3. LETRA D
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                             51
+           www.estrategiaconcursos.com.br                                                                      60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+               LISTA DE QUESTÕES - ORAÇÕES REDUZIDAS - FGV
+1.        (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Assinale a opção em que a modificação de oração reduzida para desenvolvida foi feita de forma
+correta e adequada.
+A) Na abastança é impossível compreender as lutas da miséria / Na abastança é impossível que
+se compreenda as lutas da miséria.
+B) Todos nós somos doidos, mas ninguém tem o direito de impor aos outros a sua loucura /
+Todos nós somos loucos, mas ninguém tem o direito de imposição aos outros da sua loucura.
+C) Qualquer um para entrar no hospício deveria assinar um termo / Qualquer um para que entre
+no hospício deveria assinar um termo.
+D) Foi importante comunicar nossas decisões previamente / Foi importante a comunicação de
+nossas decisões previamente.
+E) Será bastante útil ter a nossa disposição ferramentas adequadas / Será bastante útil que
+tenhamos a nossa disposição ferramentas adequadas.
+
+
+2.        (FGV / TRIBUNAL DE JUSTIÇA DO CEARÁ / 2019)
+“É natural desejar que se faça justiça”.
+Se transformarmos a oração reduzida “desejar” em uma oração desenvolvida, a forma adequada
+será:
+A) que se deseje que se faça justiça;
+B) o desejo de que se faça justiça;
+C) que se desejasse que se faça justiça;
+D) o desejo de que seja feita justiça;
+E) desejarmos que se faça justiça.
+
+
+3.        (FGV / TJ-SC / ANALISTA / 2018)
+“Afinal, se queremos algo, além de ter um alto QI, é necessário desenvolver uma sabedoria
+excepcional”.
+A forma adequada de uma oração desenvolvida correspondente à oração reduzida sublinhada
+(texto 2) é:
+A) o desenvolvimento de uma sabedoria excepcional;
+B) que desenvolvemos uma sabedoria excepcional;
+C) que desenvolvêssemos uma sabedoria excepcional;
+D) desenvolvermos uma sabedoria excepcional;
+E) que desenvolvamos uma sabedoria excepcional.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                         52
+           www.estrategiaconcursos.com.br                                                  60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+4.        (FGV / BANESTES / TÉCNICO BANCÁRIO / 2018)
+“Talvez um dia seja bom relembrar este dia”. (Virgílio)
+A forma de oração desenvolvida adequada correspondente à oração sublinhada acima é:
+A) relembrarmos este dia;
+B) a relembrança deste dia;
+C) que relembremos este dia;
+D) que relembrássemos este dia;
+E) uma nova lembrança deste dia.
+
+
+5.        (FGV / TJ-SC / TÉCNICO / 2018)
+“não poder dar-se amor a quem se ama”; a forma reduzida desse verso pode ser corretamente
+                                                          ==219a34==
+
+
+
+
+substituída por:
+A) que não se pudesse dar amor;
+B) que não se pode dar amor;
+C) que não se pôde dar amor;
+D) que não se podia dar amor;
+E) que não se possa dar amor.
+
+
+6.        (FGV / SEFIN RO / Contador / 2018)
+Um dos conselhos para uma boa escrita é que as frases de um texto tenham a mesma
+organização sintática numa enumeração.
+No fragmento “Se hoje é possível existir redes sociais; se é possível que pessoas se organizem
+em grupos...”, para que as duas frases tenham a mesma organização, a mudança adequada seria:
+A) a primeira frase deveria ser “Se é possível que existam redes sociais”.
+B) a primeira frase deveria ser “Se é possível a existência de redes sociais”.
+C) a segunda frase deveria ser “se é possível a organização de pessoas em grupos”.
+D) a segunda frase deveria ser “se é possível que pessoas sejam organizadas em grupos”.
+E) a segunda frase deveria ser “se é possível pessoas organizando-se em grupos”.
+
+
+                                                    GABARITO
+                                                        1. LETRA E
+                                                        2. LETRA A
+                                                        3. LETRA E
+                                                        4. LETRA C
+                                                        5. LETRA E
+                                                        6. LETRA A
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                          53
+           www.estrategiaconcursos.com.br                                                   60
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+           LISTA DE QUESTÕES - PARALELISMO SINTÁTICO - FGV
+1.        (FGV / TJ-RN / 2023)
+A frase publicitária abaixo que mostra paralelismo sintático, é:
+A) Nada comparável ao novo Renault Stepway. Nada.
+B) Novo Yoki com frutas. Beijos de frutas.
+C) Brastemp economiza mais. Brastemp demora menos. Brastemp assa melhor.
+D) Um televisor para olhar e admirar. Um televisor simplesmente admirável.
+E) Venha ao Zona Sul. Sairá ganhando.
+
+
+2.        (FGV / CGU / 2022)
+Uma das qualidades estruturais das frases que escrevemos é o respeito pelo paralelismo
+sintático.
+A frase abaixo que emprega corretamente essa estratégia é:
+A) Ela não só trabalha na fábrica como também é enfermeira;
+B) Trata-se de uma lei que é dura e que pode dar jeito no setor;
+C) Os deputados negaram estarem as comissões atrasadas em seus trabalhos e que eles tudo
+têm feito para um melhor desempenho;
+D) Não se trata mais de verificar a seriedade das pesquisas ou que os jornais as tenham feito de
+forma apressada;
+E) Foi solicitado o cancelamento de um jornalista e empresário conhecido, que tem dois dias
+para apresentar sua defesa.
+
+
+
+
+                                                    GABARITO
+
+                                                        1. LETRA C
+                                                        2. LETRA B
+
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           54
+           www.estrategiaconcursos.com.br                                                    60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+
+                LISTA DE QUESTÕES - PALAVRA QUE - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+Assinale a frase em que a classe gramatical do vocábulo “que” está corretamente indicada.
+A) Depois dizem que eu não faço chover. / pronome interrogativo.
+B) Ela tinha um quê de esquisito no olhar. / interjeição.
+C) Os torcedores tiveram que sair da arquibancada. / conjunção integrante.
+D) Não sei que dia é hoje. / advérbio de tempo.
+E) Com fé você vence. Sem fé, passa para trás os que venceram. / pronome relativo.
+                                                       ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             55
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 08
+
+
+
+
+                                               GABARITO
+                                                   1. LETRA E
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           56
+      www.estrategiaconcursos.com.br                                    60
+
+                                   https://t.me/KakashiAssinaturasBot
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 08
+
+
+
+
+                     LISTA DE QUESTÕES - PALAVRA SE - FGV
+1.        (FGV / TJ RJ / 2024)
+Assinale a frase que não mostra um exemplo de voz passiva pronominal (com o pronome SE).
+A) Ninguém se prejudicou por haver calado, mas sim por haver falado.
+B) O resumo da sabedoria é este: nunca é perdido o tempo que se consagra ao trabalho.
+C) Nem todo problema que se tem com a namorada se deve ao modo capitalista de produção.
+D) De quantas infâmias se compõe um êxito?
+E) O sol nunca se põe no mesmo lugar.
+
+
+2.        (FGV – Professor de Matemática - SEED-AP / 2022)
+Na frase “Não se deliberam sentimentos; ama-se ou aborrece-se, conforme o coração quer”, as
+três formas do vocábulo SE são respectivamente classificadas como
+A) pronome apassivador / indeterminador do sujeito / indeterminador do sujeito.
+B) pronome apassivador / pronome apassivador / pronome apassivador.
+C) indeterminador do sujeito / indeterminador do sujeito / indeterminador do sujeito.
+D) pronome reflexivo / pronome apassivador / indeterminador do sujeito.
+E) pronome apassivador / pronome reflexivo / pronome reflexivo.
+
+
+3.        (FGV / PREFEITURA MUNICIPAL DO SALVADOR (BA) / 2019)
+Nas opções a seguir, a primeira oração foi reescrita de modo a dar-se a ela um caráter genérico,
+com a utilização da partícula se. Assinale a opção em que isso foi feito de forma gramaticalmente
+incorreta.
+A) Todo mundo viu a morte de perto. / Viu-se a morte de perto.
+B) As pessoas reclamam de tudo. / Reclama-se de tudo.
+C) Muita gente pensa o contrário de todos. / Pensa-se o contrário de todos.
+D) Muitas pessoas não respeitam os horários. / Desrespeitam-se os horários.
+E) Todos cometem as mesmas falhas. / Comete-se as mesmas falhas.
+
+
+4.        (FGV / AFRE-RJ / 2011)
+Trata-se, portanto, de um assunto de relevante interesse para as empresas nacionais e
+estrangeiras que atuam no Brasil, bem como para os profissionais especializados na área criminal,
+que atuarão cada vez mais veementemente na prevenção dos riscos da empresa.
+No período destacado acima, o SE classifica-se como
+
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                            57
+           www.estrategiaconcursos.com.br                                                     60
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 08
+
+
+
+A) pronome reflexivo.
+B) partícula apassivadora.
+C) parte integrante do verbo.
+D) pronome oblíquo.
+E) indeterminador do sujeito.
+
+
+
+
+                                                       ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa           58
+        www.estrategiaconcursos.com.br                                    60
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 08
+
+
+
+
+                                               GABARITO
+                                                    1.   LETRA E
+                                                    2.   LETRA A
+                                                    3.   LETRA E
+                                                    4.   LETRA E
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           59
+      www.estrategiaconcursos.com.br                                    60
+
+                                   https://t.me/KakashiAssinaturasBot
+

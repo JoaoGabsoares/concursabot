@@ -1,0 +1,194 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 08_017_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: FUNÇÕES SINTÁTICAS
+---
+
+# FUNÇÕES SINTÁTICAS
+
+---
+
+FUNÇÕES SINTÁTICAS
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+  COMPLEMENTO
+NOMINAL E AGENTE DA
+     PASSIVA                                Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+ 2) Complemento nominal : é a informação que completa o sentido de um nome -
+ substantivo, adjetivo ou advérbio - contido na oração. Vem sempre preposicionado.
+
+
+ Ex.: O povo tinha necessidade de alimentos.(de alimentos completa o sentido do
+ substantivo “necessidade” - ideia passiva).
+
+             Este remédio é prejudicial à saúde. (à saúde completa o sentido do adjetivo
+ “prejudicial”).
+
+           Agiu contrariamente ao esperado. (ao esperado completa o sentido do advérbio
+ “contrariamente”).
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+ 3) Agente da passiva : é o termo que indica quem ou o que pratica a ação verbal na voz
+ passiva. Ele é normalmente introduzido pelas preposições por ( e variantes pelo,pela ) ,de.
+
+
+ Ex.: O castelo foi cercado pelos inimigos.
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+ OBSERVAÇÃO IMPORTANTE:
+
+
+ - O aluno necessita de ajuda.
+
+
+ - O aluno tem necessidade de ajuda.
+
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Diferencie o complemento nominal (A) do objeto indireto(B).
+
+ 1.Ele agradeceu aos companheiros. ( )
+
+ 2.Estava realmente agradecido a eles. ( )
+
+ 3.Tinha grande amor à humanidade. ( )
+
+ 4.Comer demais é prejudicial à saúde. ( )
+
+ 5.Não duvides das verdades divinas. ( )
+
+ 6.Ele não concorda com você . ( )
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+Identifique as funções sintáticas dos termos destacados de acordo com
+o código
+
+ (A) complemento nominal
+ (B) agente da passiva
+ (C) objeto indireto
+
+ 1.Sua classificação foi comemorada pelos amigos. ( )
+
+
+ 2.A crença em dias melhores animava-os.( )
+
+
+ 3.Passou aos filhos a herança recebida dos pais. ( )
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+Identifique as funções sintáticas dos termos destacados de acordo com
+o código
+
+ (A) complemento nominal
+ (B) agente da passiva
+ (C) objeto indireto
+
+ 4.Ele é rico em virtudes. ( )
+
+
+ 5.As ruas foram lavadas pela chuva. ( )
+
+
+ 6.Aquelas pessoas necessitam de ajuda. ( )
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+Identifique as funções sintáticas dos termos destacados de acordo com
+o código
+
+ (A) complemento nominal
+ (B) agente da passiva
+ (C) objeto indireto
+
+ 7.A leitura de livros amplia nossos conhecimentos. ( )
+
+
+ 8.O coração não resistiu à prova. ( )
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                     @professoraadrianafigueiredo
+
+           https://www.youtube.com/user/professoraadriana
+           f
+
+                facebook.com/prof.adriana.figueired
+                o
+                 
+
+
+---
+
+---

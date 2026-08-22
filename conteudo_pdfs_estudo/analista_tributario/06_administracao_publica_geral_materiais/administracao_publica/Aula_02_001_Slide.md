@@ -1,0 +1,1353 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 02_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: EVOLUÇÃO DA ADMINISTRAÇÃO
+artigos_citados:
+- Art. 10
+- Art. 7
+---
+
+# EVOLUÇÃO DA ADMINISTRAÇÃO
+
+---
+
+---
+
+EVOLUÇÃO DA ADMINISTRAÇÃO
+PÚBLICA NO BRASIL.
+REFORMAS ADMINISTRATIVAS.;
+
+                                             Prof. Stefan Fantini
+                                               @prof.stefan.fantini
+
+        
+
+
+---
+
+Evolução da Administração Pública
+De 1808 a 1930
+
+                         Não existia uma preocupação real pela eficiência dos serviços estatais.
+
+                        Durante a República Velha (1889-1930) o patrimonialismo e o clientelismo
+                                           dominavam a administração pública
+ De 1808 a 1930
+                                                 política do café com leite
+
+
+                                           coronelismo e do voto de cabresto
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Evolução da Administração Pública
+Reforma Administrativa de 1930 e a criação do DASP
+                            As medidas de Vargas neste período resultaram na centralização política,
+                                econômica e administrativa. Buscava-se uma maior eficiência.
+
+                                                                                         Administração pública
+                          Vargas propõe uma
+                         reforma administrativa                                        Administração de pessoal
+                        baseada em três eixos
+                                                                                      Administração de materiais
+
+                                                                               Modernizar a administração pública
+  Reforma
+                         Objetivos do DASP
+  de 1930
+                                                                                   Suprimir o modelo patrimonialista
+
+                                                                        Centralizar e reorganizar a administração pública
+
+                            Foco do DASP                                   Definir uma política para a gestão de pessoal
+
+                                                               Racionalizar métodos, procedimentos e processos administrativos
+
+Prof. Stefan Fantini
+                               Foi a primeira tentativa de implantar o modelo burocrático no Brasil
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+Evolução da Administração Pública
+Reforma Administrativa de 1930 e a criação do DASP
+
+
+                                                                                     Planejamento
+
+                      foram utilizados os                                               Preparo
+                         princípios de
+                   Administração Científica de
+                       Frederick Taylor                                                Controle
+
+                                                                                       Execução
+
+ Reforma                                                          Criação de órgãos formuladores de políticas públicas
+ de 1930
+                     A ação do DASP se
+                                                                       Expansão de órgãos da administração direta
+                   manifestou em três níveis
+                                                                    Expansão das atividades empresariais do Estado
+
+                    O DASP também contribuiu para a criação do Plano SALTE, em
+                                              1948.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (FCC – SEFAZ-PI – Analista do Tesouro Estadual - 2015)
+A criação do Departamento Administrativo do Serviço Público - DASP foi um marco
+importante na Administração pública federal, com a introdução de características de
+administração
+a) gerencial, com foco na gestão de resultados.
+b) burocrática, com ênfase na centralização e reorganização da Administração,
+gestão de pessoal e racionalização de procedimentos.
+c) empreendedora, com ênfase na atuação de fomento.
+d) patrimonialista, com ampla criação de órgãos e entidades governamentais.
+e) pré-Gerencial, com a introdução de conceitos de avaliação de desempenho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRE-CE – Analista Judiciário)
+A criação do DASP em 1938, com a definição da política de recursos humanos, de
+compra de materiais e finanças e a centralização e reorganização da administração
+pública federal, marca de forma inequívoca a passagem da forma de administração
+pública patrimonialista para a estruturação da máquina administrativa do Brasil na
+forma
+a) burocrática.
+b) gerencial.
+c) estratégica.
+d) da nova gestão pública.
+e) funcional.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – TRE-ES – Analista Judiciário)
+A instituição, em 1936, do Departamento de Administração do Serviço Público
+(DASP) teve como objetivo principal suprimir o modelo patrimonialista de gestão.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Evolução da Administração Pública
+A Reforma de 1967 - Decreto-lei n.° 200/67
+
+
+                            A principal característica da Reforma de 1967 é a descentralização das
+                                      atividades do Estado para a Administração Indireta.
+
+
+                           A Reforma de 1967 foi a primeira tentativa de implantação do modelo de
+                                           administração gerencial no Brasil.
+
+       Decreto-Lei n.°                                             Superar a rigidez do modelo burocrático
+           200/67
+                             Objetivos
+                                                                   Conferir maior eficiência à máquina pública
+
+                                                           Dentro dos quadros da Administração Federal, com uma
+                                                           distinção clara do nível de direção e do nível de execução
+                         A descentralização
+                           se daria em 03              Da Administração Federal para a Administração das unidades
+                               níveis:                  federadas, devidamente aparelhadas e mediante convênio
+
+                                                          Da Administração Federal para a órbita privada, mediante
+Prof. Stefan Fantini                                                    contratos ou concessões
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Evolução da Administração Pública
+A Reforma de 1967 - Decreto-lei n.° 200/67
+
+                              Planejamento
+
+
+                              Coordenação
+
+      Princípios
+    Fundamentais            Descentralização
+      DL 200/67
+
+                        Delegação de Competência
+
+
+                                Controle
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+A Reforma de 1967 - Decreto-lei n.° 200/67
+    Princípios                                                                  Características
+                   A ação governamental obedecerá ao planejamento que vise a promover o desenvolvimento econômico e social do país e a segurança nacional, e
+  Planejamento
+                   compreenderá a elaboração e atualização dos seguintes instrumentos: a) plano geral do governo, b) programas gerais, setoriais e regionais, de
+      Art. 7
+                   duração plurianual.
+  Coordenação      A coordenação se realizará em todos os níveis da administração. Os órgãos federais buscarão coordenar-se com os órgãos estaduais e municipais
+   Arts. 8 e 9     quando ficar demonstrada a inviabilidade de celebração de convênio, para evitar que haja dispersão de esforços e de investimento.
+                  É essencial buscar a descentralização, a qual será colocada em prática mediante três planos:
+                  - Dentro dos quadros da Administração Federal, distinguindo-se o nível de direção e o nível de execução
+                  - Da Administração Federal para as unidades federadas, devidamente aparelhadas e mediante convênio.
+ Descentralização - Da administração Federal para órbita privada, mediante contratos ou concessões
+     Art. 10      Para melhor desincumbir-se das tarefas de planejamento, coordenação, supervisão e controle, e com o objetivo de impedir o crescimento
+                  desmesurado da máquina administrativa, a Administração procurará desobrigar-se da realização material de tarefas executivas, recorrendo, sempre
+                  que possível, à execução indireta, mediante contrato, desde que exista, na área, iniciativa privada suficientemente desenvolvida e capacitada a
+                  desempenhar os encargos de execução.
+  Delegação de     A delegação de competência será utilizada como instrumento de descentralização administrativa, para assegurar mais rapidez e objetividade nas
+  competências     decisões.
+   Arts. 11 e 12   Compete ao presidente, aos ministros e às autoridades administrativas delegar as competências dos atos administrativos.
+                   O controle das atividades administrativas federais se realiza em todos órgãos, especialmente:
+                   - Pela chefia competente, em relação à execução dos programas e da observância das normas que governam a atividade específica do órgão
+     Controle      controlado.
+   Arts. 13 e 14   - Pelos órgãos próprios de cada sistema.
+                   - Pelos órgãos próprios do sistema de contabilidade e auditoria, referente à aplicação do dinheiro público e dos bens da União.
+                   A racionalização do trabalho administrativo se dará pela simplificação de processos e supressão de controles puramente formais.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                          
+
+
+---
+
+Evolução da Administração Pública
+A Reforma de 1967 - Decreto-lei n.° 200/67
+
+                        Contratações sem a necessidade de realização de concursos facilitou a
+                                 utilização de práticas patrimonialistas e clientelistas.
+    Consequências
+    inesperadas da
+     Reforma de 67
+                        Falta de preocupação com a administração direta, deixava “de lado” o
+                                 desenvolvimento de algumas carreiras específicas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Evolução da Administração Pública
+A Reforma de 1967 - Decreto-lei n.° 200/67
+
+                            Secretaria de
+                            Modernização                   organizar o planejamento, o orçamento e a gestão
+                        Administrativa (SEMOR)
+ décadas de 70 e
+       80
+                            Ministério de                        simplificar os processos administrativos
+                        Desburocratização e o           (desburocratização dos procedimentos) e promover a
+                        Programa Nacional de             eficiência da Administração Direta, com o objetivo de
+                         Desburocratização             conter a excessiva expansão da Administração Indireta
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (FCC – TST – Analista Judiciário - 2017)
+O Decreto-Lei n° 200/67 constitui um importante marco da reforma administrativa
+do Estado, apresentando, entre seus pilares, a descentralização, que, de acordo com
+tal diploma, deve se dar
+I. dentro dos quadros da Administração federal, distinguindo-se claramente o nível
+de direção e de execução.
+II. da Administração federal para as unidades federadas, quando estejam
+devidamente aparelhadas e mediante convênio.
+III. da Administração federal para a órbita privada, mediante contratos ou
+concessões.
+IV. com o terceiro setor, mediante celebração de contratos de gestão com
+organizações sociais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TST – Analista Judiciário - 2017)
+(...)
+Está correto o que consta APENAS em
+a) I, II e III.
+b) I, III e IV.
+c) III e IV.
+d) II e III.
+e) I, II e IV.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TJ-PI – Analista Judiciário – 2015 - Adaptada)
+A reforma do Estado no âmbito do Decreto Lei nº 200/67 é amplamente conhecida
+pela implantação da noção de administração direta e indireta. Segundo diversos
+analistas e estudiosos, dado o conjunto de ações visando a sua implementação,
+surgiram naquele momento da reforma consequências inadequadas, dentre as quais
+destaca(m)-se a geração de práticas patrimonialistas na administração indireta por
+meio de contratações sem concurso público, ocasionando nepotismo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+ Evolução da Administração Pública
+ O retrocesso administrativo de 1988
+
+                   Com a Constituição Federal de 1988, o poder político voltou a ser descentralizado, enquanto a gestão
+                                                administrativa passou a ser centralizada
+
+                    DL 200/67                   DL 200/67 Centralização Política; Descentralização Administrativa
+                        x
+                     CF/88                         CF/88 Descentralização Política; Centralização Administrativa
+
+                                              Perda da autonomia do Poder Executivo para estruturar órgãos públicos
+
+O retrocesso                                       Redução da flexibilidade e autonomia da administração indireta
+administrativo     Retrocesso
+  de 1988         burocrático da             Autarquias e fundações passam a seguir as mesmas regras burocráticas e
+                  Constituição de                           rígidas adotadas pela Administração Direta.
+                      1988
+                                                               Obrigatoriedade do Regime Jurídico Único
+
+                                                                Criou grandes privilégios para servidores
+
+                  Consequências                                         Volta à administração burocrática
+                  da Constituição
+                  de 1988, no nível
+                   administrativo           Concessão de privilégios e benefícios (aos servidores) pela administração pública
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (CESPE – SLU-DF – Analista - 2019)
+A Constituição Federal de 1988 conferiu flexibilidade operacional às fundações e
+autarquias públicas ao atribuir-lhes normas de funcionamento distintas das que
+regem a administração direta.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – PF – Agente de Polícia - 2014)
+A Constituição Federal de 1988 (CF) rompeu com o retrocesso burocrático que até
+então prevalecia, ao conceder autonomia ao Poder Executivo para tratar da
+estruturação dos órgãos públicos e proporcionar flexibilidade operacional aos entes
+da administração indireta.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Evolução da Administração Pública
+Governo Collor
+
+                        Campanha difamatória e desagregadora contra os servidores públicos, qualificando-
+                                                     os como “marajás”
+
+                                           Redução do tamanho da máquina estatal
+ Governo Collor
+                                        Redução dos salários dos servidores públicos
+
+
+                             Redução do número de servidores públicos, com demissões massivas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+                   o PDRAE se preocupa como os valores de eficiência, qualidade dos serviços públicos e cidadania
+
+                        Um dos objetivos do PDRAE era aumentar a governança do Estado (ou seja, a capacidade
+                                        administrativa de governar com efetividade e eficiência).
+
+                                                                               Institucionalização
+
+                                                                                Racionalização
+                      cinco
+  PDRAE             diretrizes                                                   Flexibilização
+                    principais
+                                                                                 Publicização
+
+                                                                                Desestatização
+
+                                                                         Dimensão institucional-legal
+
+                  três dimensões
+                                                                                 Dimensão cultural
+                    do problema
+
+Prof. Stefan Fantini                                             Dimensão gerencial (dimensão de gestão)
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+                               Descentralização dos serviços sociais para Estados e Municípios.
+
+
+                                    Delimitação mais precisa da área de atuação do Estado
+
+
+   Objetivos do
+                         Distinção entre as atividades do núcleo estratégico e as atividades de serviços
+     PDRAE
+
+
+                             Maior autonomia para as atividades executivas exclusivas do Estado
+
+
+                        Maior autonomia ainda para os serviços sociais e científicos que o Estado presta
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+     Setor                                                                   Descrição
+                 -É o governo em sentido lato. É onde as decisões estratégicas são tomadas.
+                 -É o setor que define as leis e as políticas públicas e cobra o seu cumprimento.
+                 -O regime de propriedade típico deste setor é a propriedade pública estatal.
+                 -Corresponde aos poderes Legislativo e Judiciário, aos ministros e ao Presidente da República, responsáveis pelo
+     Núcleo
+                 planejamento e formulação das políticas públicas.
+   estratégico
+                 -Ao contrário dos demais, neste setor a administração burocrática deveria continuar coexistindo com a administração
+                 gerencial.
+                 objetivos: aumentar a efetividade do núcleo estratégico, modernizar a administração burocrática e dotar o núcleo
+                 estratégico de capacidade gerencial.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                               
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+
+             Setor                                                           Descrição
+                           -É o setor onde são prestados os serviços que somente o Estado pode realizar.
+                           -São serviços em que se exerce o poder extroverso do Estado.
+                           -São realizadas as atividades de fiscalização, regulamentação e fomento (por exemplo: a cobrança e
+                           fiscalização dos impostos, a polícia, a previdência social básica, a fiscalização do cumprimento de normas
+                           sanitárias, o serviço de trânsito, o controle do meio ambiente, o serviço de emissão de passaportes, etc.).
+                           -O regime de propriedade é o público estatal, uma vez que aqui são tomadas decisões que envolvem o
+     Atividades exclusivas
+                           Poder Extroverso do Estado e sua capacidade de formar, unilateralmente, obrigações para terceiros.
+                           -Instituições que devem prevalecer neste setor são os órgãos públicos e as agências autônomas (como as
+                           agências reguladoras).
+                           objetivos: transformar as autarquias e fundações que possuem poder de Estado em agências autônomas,
+                           substituir a Administração Pública burocrática pela Administração Pública gerencial e fortalecer práticas
+                           de adoção de mecanismos que privilegiem a participação popular.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+             Setor                                                           Descrição
+                            - O setor onde o Estado atua simultaneamente com outras organizações públicas não-estatais e
+                            privadas. - As instituições desse setor não possuem o poder de Estado. Mas, o Estado está presente
+                            porque os serviços envolvem direitos humanos fundamentais (por exemplo: educação e saúde), ou
+                            porque possuem economias externas relevantes, na medida que produzem ganhos que não podem ser
+                            apropriados por esses serviços através do mercado. As economias produzidas se espalham,
+                            imediatamente, para o resto da sociedade, não podendo ser transformadas em lucros.
+                            - O regime de propriedade adotado neste setor é o público não-estatal, onde o Estado continua detendo
+    Serviços não exclusivos o poder de influência, mas o controle social é maior e a flexibilidade de gestão também.
+                            - Portanto, neste setor, deve ocorrer a publicização (transferência de atividades e serviços não exclusivos
+                            do Estado para o setor público não-estatal – organizações do terceiro setor).
+                            São exemplos deste setor: as universidades, os hospitais, os centros de pesquisa e os museus.
+                            objetivos: transferir para o setor não estatal os serviços não exclusivos, lograr maior autonomia e uma
+                            consequente maior responsabilidade para os dirigentes destes serviços; lograr, adicionalmente, um
+                            controle social direto desses serviços; lograr maior parceria entre o Estado e a organização social; e
+                            aumentar a eficiência e qualidade dos serviços.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+
+           Setor                                                               Descrição
+
+                          -É a área de atuação das empresas. (O Estado deve atuar apenas quando for extremamente necessário)
+                          -Está caracterizada pelas atividades econômicas voltadas para o lucro, que ainda permanecem no aparelho
+                          do Estado (por exemplo: atividades do setor de infraestrutura). Tais atividades estão no Estado seja porque
+                          faltou capital ao setor privado para realizar o investimento, seja porque são atividades naturalmente
+                          monopolistas, nas quais o controle via mercado não é possível, tornando-se necessário (no caso de
+    Produção de Bens e
+                          privatização), a regulamentação rígida.
+  Serviços para o Mercado
+                          -O regime de propriedade deveria ser o privado, dada a possibilidade de “coordenação via mercado”.
+                          - Portanto, neste setor, deve ocorrer a privatização.
+                          objetivos: dar continuidade ao processo de privatização, reorganizar e fortalecer os órgãos de regulação dos
+                          monopólios naturais que fossem privatizados e implantar contratos de gestão com as empresas que não
+                          pudessem ser privatizadas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+                                                   Transferência de atividades e serviços não exclusivos do
+                                                   Estado, de interesse coletivo, para o setor público não-
+                        Publicização              estatal (organizações do terceiro setor - Pessoas Jurídicas
+                                                    de Direito Privado Sem Fins Lucrativos - tais como as
+                                                      Organizações Sociais - OS, e as Organizações das
+                                                       Sociedades Civis de Interesse Público - OSCIP).
+  Publicização
+        x
+  Privatização
+
+
+                                                  “Transferência” para o setor privado (pessoas jurídicas com
+                        Privatização             fins lucrativos) de atividades e serviços que são passíveis de
+                                                           serem coordenados pelo próprio mercado
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+                                              Projeto de Avaliação Estrutural
+
+
+   três projetos
+                                              Projeto de Agencias Autônomas
+     principais
+
+
+                                    Projeto de Organizações sociais e publicização
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Evolução da Administração Pública
+Plano Diretor de Reforma do Aparelho do Estado (PDRAE) – A reforma de 1995
+
+                              Dimensão institucional: foram aprovadas emendas constitucionais e legislação
+                        infraconstitucional, também houve uma reestruturação e reorganização da Administração do
+                                                        Poder Executivo Federal.
+
+     resultados             Dimensão cultural: houve mudanças no comportamento da Administração Pública
+    obtidos pela            mediante a tomada de consciência de que ela existe para atender às demandas da
+  reforma de 1995                                             sociedade.
+
+                        Dimensão de gestão: embora seja predominante o modelo gerencial, ainda coexistem na
+                                   Administração Pública o modelo burocrático e o patrimonialista.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Evolução da Administração Pública
+Interação entre a Reforma Administrativa e Reforma da Previdência
+               Antes da Reforma                   Pontos comparativos                        Depois da reforma de 1998
+
+                                                 Regime exclusivo para
+ O regime podia abranger qualquer servidor                                   Restringe-se o número de beneficiários do sistema somente
+                                                  ocupantes de cargo
+ público.                                                                    para aqueles que ocupam cargo efetivo (estatutários).
+                                                       efetivo
+
+                                                                          Regra permanente
+                                                                          Aposentadoria aos 35 e 30 anos de contribuição e 60 e 65
+                                                                          anos de idade, respectivamente, para homens e mulheres.
+ Aposentadoria aos 35 e 30 anos de serviço para
+                                                    Limite de idade para  Fim da aposentadoria proporcional.
+ homens e mulheres, com provimentos integrais
+                                                  aposentadoria por tempo Regra de transição
+ e aos 30 e 25 anos com proventos
+                                                      de contribuição     Aposentadoria aos 53 e 48 anos com 20% ou 40% de
+ proporcionais, sem exigência de limite de idade.
+                                                                          acréscimo (pedágio) sobre o tempo de contribuição que
+                                                                          falta para completar as aposentadorias integral ou
+                                                                          proporcional respectivamente
+                                                                             O custeio ocorrerá mediante contribuições de todos os
+                                                 Caráter contributivo e
+                                                                             servidores, incluindo inativos e pensionistas, e o cálculo
+ Não havia exigência de contribuição             exigência de equilíbrio
+                                                                             dessas contribuições deve resguardar o equilíbrio financeiro
+                                                   financeiro atuarial
+                                                                             e atuarial do sistema.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                               
+
+
+---
+
+Evolução da Administração Pública
+Interação entre a Reforma Administrativa e Reforma da Previdência
+
+                Antes da Reforma                      Pontos comparativos                            Depois da reforma de 1998
+  Não há carência para fins de aposentadoria,                                         Estabelecimento de um período mínimo de exercício de
+  existe somente a exigência de dois anos para               Carência                 serviço público de 10 anos, sendo que cinco anos no
+  estágio probatório.                                                                 cargo em que se dará a aposentadoria.
+                                                                                      Para os novos ingressantes, o poder público poderá
+                                                                                      instituir o teto do RGPS para os benefícios, desde que
+                                                      Fundo de previdência
+  Não havia possibilidade                                                             organize fundos de previdência complementar de
+                                                         complementar
+                                                                                      caráter voluntário, que devem funcionar em regime de
+                                                                                      contribuição definida.
+  Em alguns estados e municípios, o servidor era
+                                                 Vedação de aposentadorias com
+  promovido ao se aposentar, recebendo                                          O benefício será, no máximo, equivalente ao último
+                                                   valor superior ao salário da
+  adicionais sobre o salário computado para                                     salário.
+                                                            atividade
+  efeito do cálculo do benefício.
+                                                                                As atuais acumulações entre aposentadorias e salários
+                                                                                estarão sujeitas ao teto correspondente à remuneração
+  É     permitida     a    acumulação     entre Proibição de acumulação entre dos Ministros do Supremo Tribunal Federal. A partir da
+  aposentadorias e salários.                        aposentadorias e salários   Reforma, serão vedadas de mais de uma aposentadoria
+                                                                                e a acumulação de aposentadoria com a remuneração
+                                                                                de cargos públicos.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+                        (FCC – Prefeitura de Recife-PE – Assistente - 2019)
+No processo de evolução da Administração pública no Brasil, o movimento
+denominado “publicização” teve lugar
+a) a partir do advento do Departamento Administrativo do Serviço Público-DASP,
+representando a retomada pelo Estado de serviços e atividades precedentemente
+privatizados.
+b) na reforma do aparelho do Estado, ocorrida em meados dos anos 1990,
+representando a transferência de serviços públicos não exclusivos, como os de
+saúde, a entidades sem fins lucrativos.
+c) quando da implementação do modelo burocrático, representando forte
+intervenção do Estado no domínio econômico, mediante a exploração direta de
+atividades de relevante interesse público.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – Prefeitura de Recife-PE – Assistente - 2019)
+(...)
+d) no modelo de Administração patrimonialista, em que não havia separação entre o
+patrimônio público e o dos governantes, com fortes práticas de clientelismo.
+e) no modelo mais contemporâneo de Administração pública, pós-paradigma
+gerencial, representando a atuação conjugada entre os setores público e privado na
+forma de parcerias público-privadas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – AL-RO – Analista Legislativo - 2018)
+A reforma do Estado Brasileiro, materializada pelo Plano Diretor da Reforma do
+Aparelho do Estado (PDRAE), foi responsável por viabilizar o desempenho de
+atividades estatais por entidades não pertencentes ao aparato estatal, a exemplo
+das Organizações Sociais.
+Assinale a opção que corresponde ao processo descrito no texto.
+a) Estatização.
+b) Privatização.
+c) Nacionalização.
+d) Publicização.
+e) Coletivização.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRF 3a Região – Analista Judiciário - 2017)
+Sobre os objetivos e características do Plano Diretor da Reforma do Aparelho do
+Estado, implementado nos anos 1990, no âmbito federal, considere:
+I. Publicização, que corresponde à assunção, pelo Estado, dos serviços próprios do
+denominado Núcleo Estratégico.
+II. Flexibilização, oferecendo aos gestores maior autonomia e estabelecendo o
+controle e cobrança de resultados a posteriori.
+III. Desestatização, que compreende a privatização, a terceirização e a
+desregulamentação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRF 3a Região – Analista Judiciário - 2017)
+(...)
+Está correto o que consta APENAS em
+a) I.
+b) I e II.
+c) II.
+d) II e III.
+e) III.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Evolução da Administração Pública
+Governo Lula
+
+                                        O Estado como parte essencial da solução
+
+
+                                            O cidadão como beneficiário principal
+
+
+                               O Plano de Gestão Pública como uma definição de Governo
+       Princípios do
+      Plano de Gestão
+                          Integração do Plano de Gestão Pública às demais políticas de Governo
+      Pública para um
+       País de Todos
+                        Envolvimento, mobilização, incentivo e participação dos servidores e demais
+                                atores envolvidos, são tidos como aspectos fundamentais
+
+                                              Problemas em busca de soluções
+
+
+                                 Pluralismo de instrumentos, ferramentas e metodologias
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+Evolução da Administração Pública
+Governo Dilma
+
+                                           formular políticas específicas destinadas à racionalização do uso de recursos
+                                                                               públicos
+
+
+                         objetivos                           controle e aperfeiçoamento de gestão pública
+
+
+                                         melhoria da eficiência, efetividade, transparência e qualidade da gestão pública
+  Câmara de                                                                e dos serviços
+  Políticas de
+   Gestão,
+Desempenho e                            Assessorar o Presidente na formulação e implementação de mecanismos de
+Competitividade                                      controle e avaliação da qualidade do gasto público
+    (CGDC)
+                                                Estabelecer diretrizes estratégicas e planos para formulação e
+                                           implementação de políticas de melhoria da gestão da administração pública
+                                                                            federal
+                        atribuições
+                                          Propor e avaliar iniciativas no âmbito de políticas de gestão, desempenho e
+                                                                        competitividade
+
+                                         Supervisionar e acompanhar a implementação das decisões adotadas no seu
+                                                                         âmbito
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+---
+
+QUESTÕES
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+                        1. (CESPE – SLU-DF – Analista - 2019)
+Com a reforma administrativa de 1967, os componentes da administração pública
+federal foram separados em integrantes da administração direta e integrantes da
+administração indireta.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        2. (CESPE – SLU-DF – Analista - 2019)
+A reforma administrativa de 1967 baseava-se no planejamento voltado para o
+desenvolvimento econômico-social do Brasil.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        3. (CESPE - PGE-PE – Analista - 2019)
+A reforma gerencial da administração pública iniciada em 1995 definiu que os
+sistemas de controle deveriam se concentrar em resultados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        4. (CESPE - PGE-PE – Analista - 2019)
+O Decreto-Lei n.º 200/1967 representou uma primeira tentativa de reforma
+gerencial que procurou substituir a administração pública burocrática por uma
+administração voltada para o desenvolvimento.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        5. (CESPE - PGE-PE – Analista - 2019)
+A reforma administrativa estabelecida pelo Decreto-Lei n.º 200/1967 centralizou a
+execução das atividades da administração federal evitando o descontrole dos gastos
+públicos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        6.(CESPE – TCE-MG – Analista - 2018)
+A reforma administrativa que transferiu atividades para autarquias, fundações,
+empresas públicas e sociedades de economia mista, como uma estratégia de
+superação da rigidez burocrática, foi realizada no século passado,
+a) em meados dos anos 70, com a criação da Secretaria de Modernização (SEMOR).
+b) no começo da década de 80, com a criação do Programa Nacional de
+Desburocratização (PrND).
+c) em 1995, por meio do Plano Diretor da Reforma do Aparelho de Estado.
+d) na década de 30, com a criação do Departamento Administrativo do Serviço
+Público (DASP).
+e) no fim da década de 60, por meio do Decreto-lei n.º 200/1967.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        7. (CESPE – TCE-MG – Analista - 2018)
+O Decreto-lei n.o 200/1967 promoveu a transferência das atividades de produção de
+bens e serviços para autarquias, fundações, empresas públicas e sociedades de
+economia mista.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        8.(CESPE – EBSERH – Tecnólogo - 2018)
+O Departamento Administrativo do Serviço Público (DASP), criado no Governo
+Getúlio Vargas, demarcou o início das práticas de desburocratização do Estado
+brasileiro.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        9.(CESPE – EBSERH – Tecnólogo - 2018)
+O Plano Diretor da Reforma do Aparelho do Estado, lançado em 1995, objetivava
+transferir para o setor privado os serviços não exclusivos, por meio de um programa
+de publicização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        10. (CESPE – EBSERH – Tecnólogo - 2018)
+Durante o governo de Getúlio Vargas, implementou-se a chamada reforma
+burocrática, que buscava fortalecer a meritocracia e a profissionalização na gestão
+pública.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        11. (CESPE – TRE-TO – Técnico Judiciário - 2017)
+A partir da instituição do Plano Diretor da Reforma do Estado, em 1995, a gestão por
+resultados foi incorporada à administração pública com o objetivo de tornar a gestão
+pública
+a) mais descentralizada e com gestores com maior autonomia e maior nível de
+responsabilidade individual.
+b) mais descentralizada, mas com gestores com menor autonomia e maior nível de
+responsabilidade individual.
+c) mais descentralizada, mas com gestores com menor autonomia e menor nível de
+responsabilidade individual.
+d) menos descentralizada e com gestores com maior autonomia e maior nível de
+responsabilidade individual.
+e) menos descentralizada e com gestores com menor autonomia e menor nível de
+responsabilidade individual.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        12. (CESPE – TCE-PE – Analista - 2017)
+Durante o governo de Juscelino Kubitschek (JK), visando dar maior agilidade ao
+alcance dos objetivos do plano de metas, a administração indireta passou a
+participar ativamente da execução das políticas de governo, uma vez que a
+administração direta era tida como lenta e defasada.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        13. (CESPE – TCE-PE – Analista - 2017)
+O movimento conhecido como nova gestão pública foi introduzido no Brasil no
+governo de Fernando Henrique Cardoso (1995 - 2002) com o objetivo de tornar a
+administração pública mais efetiva, embora menos eficiente.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        14. (CESPE – TCE-PE – Analista - 2017)
+A CF, além de ampliar direitos e garantias individuais e sociais, flexibilizou a gestão
+da máquina pública, por meio de determinações que livram a administração indireta
+dos procedimentos que deviam ser seguidos pela administração direta.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        15. (CESPE – TCE-PE – Analista - 2017)
+De acordo com o Plano Diretor da Reforma do Aparelho do Estado de 1995, o
+escopo da reforma do aparelho do Estado é mais restrito do que o da reforma do
+Estado: enquanto o primeiro está voltado para a eficiência da administração pública,
+orientando-a para a cidadania, o segundo é um projeto amplo relacionado às várias
+áreas do governo e ao conjunto da sociedade brasileira.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        16. (CESPE – TCE-PE – Analista - 2017)
+O clientelismo consiste em um tipo de sistema em que os agentes políticos
+concedem benefícios públicos em troca de apoio político.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        17. (CESPE – TCE-PE – Analista - 2017)
+O Plano Diretor da Reforma do Aparelho do Estado, lançado em 1995, pautou-se na
+orientação de substituir a burocracia tradicional, weberiana, por um modelo mais
+próximo das práticas de gestão do setor privado e do modelo de Estado de bem-
+estar social.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        18. (CESPE – TRE-PE – Analista Judiciário - 2017)
+A reforma do aparelho do Estado inclui a dimensão institucional-legal, que visa
+a) aumentar a governabilidade do Estado por meio da capacidade administrativa de
+governar com efetividade e eficiência.
+b) suprimir os elementos patrimonialistas existentes no Estado para implantar uma
+administração por objetivos.
+c) mudar a mentalidade, que passe da desconfiança generalizada que caracteriza a
+administração burocrática para uma confiança maior, própria da administração
+gerencial.
+d) descentralizar a estrutura organizacional por meio da criação de novos formatos
+organizacionais, como as agências executivas e as regulatórias e as organizações sociais.
+e) ampliar a autonomia e introduzir três novas formas de responsabilização dos gestores:
+administração por resultados, competição administrada por excelência e controle social.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        19. (CESPE – SEDF – Professor - Administração - 2017)
+A perspectiva de reforma do Estado moderno subdivide a administração pública em
+quatro setores: o núcleo estratégico, as atividades exclusivas, os serviços não
+exclusivos e a produção de bens e serviços para o mercado. Nessa perspectiva,
+considera-se que as agências reguladoras pertencem ao setor do núcleo estratégico.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        20. (CESPE – TCE-PR – Analista - 2016)
+Assinale a opção correta, a respeito de aspectos de governança, de governabilidade
+e do Plano Diretor da Reforma do Aparelho do Estado (PDRAE).
+a) O projeto das organizações sociais, previsto no PDRAE, tem por finalidade
+centralizar na administração pública o controle das atividades do setor de prestação
+de serviços não exclusivos.
+b) O PDRAE foi elaborado com a finalidade de promover a reforma administrativa e
+financeira do Estado brasileiro em virtude da crise iniciada em meados da década de
+80 do século passado e que se tornou evidente somente no final da década de 90.
+c) O PDRAE ampliou o poder do Estado como executor direto de produção de bens,
+de serviços de infraestrutura e produção de alimentos e regulador de serviços
+sociais como educação, saúde e segurança.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        20. (CESPE – TCE-PR – Analista - 2016)
+(...)
+d) A política de profissionalização do serviço público, contida no PDRAE, visa
+modernizar a administração burocrática no núcleo estratégico da administração
+pública.
+e) A implementação de políticas públicas de maneira eficiente, prevista no PDRAE,
+caracteriza o aumento da governabilidade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        21. (CESPE – TCE-PA - Auditor - 2016)
+Com o fim da ditadura militar, em 1985, e a retomada da democratização do Brasil,
+houve um significativo avanço na modernização da administração pública.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        22. (CESPE – TCE-PA - Auditor - 2016)
+Com a implantação da reforma da gestão pública em 1995, os elementos
+patrimonialistas e clientelistas foram extintos da cultura administrativa brasileira.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        23. (CESPE – TCE-PA - Auditor - 2016)
+A reforma da gestão pública de 1995 instituiu na administração pública brasileira a
+dimensão gestão, a qual permitiu maior autonomia e introdução de novas formas de
+responsabilização para os gestores, como a administração por resultados, a
+competição administrada por excelência e o controle social.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        24. (CESPE – TCE-PA - Auditor - 2016)
+O Plano Diretor da Reforma do Aparelho do Estado foi criado na transição entre o
+governo de Collor e o de Itamar Franco, com a finalidade de aumentar a governança
+do Poder Executivo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        25. (CESPE – TCE-PA - Auditor - 2016)
+O Decreto-lei n.º 200/1967, na tentativa de modernizar a gestão pública no Brasil,
+estabeleceu como princípios fundamentais o planejamento, a organização, o
+treinamento e a direção.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        26. (CESPE – MPOG - Analista - 2015)
+A reforma administrativa de 1967, realizada por meio do Decreto-lei n.º 200,
+ampliou a administração indireta, transferindo atividades para fundações e
+empresas públicas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        27. (CESPE – MPOG - Analista - 2015)
+O Departamento Administrativo do Serviço Público (DASP), criado nos anos 30, tinha
+por objetivo a desburocratização da administração pública do Brasil mediante a
+modernização de estruturas e processos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        28. (CESPE – TRE-GO – Técnico Judiciário - 2015)
+A reforma administrativa ocorrida em 1967 pretendia o rompimento com a rigidez
+burocrática, e, para isso, as atividades da administração foram centralizadas e
+algumas instituições de administração indireta foram extintas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        29. (CESPE – TRE-GO – Técnico Judiciário - 2015)
+Com a Constituição Federal de 1988, a administração pública brasileira retornou aos
+anos 30 do século passado, época em que foi implantada a administração
+burocrática clássica no Brasil.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        30. (FCC – DPE-AM – Assistente - 2018)
+A reforma do aparelho do Estado, implementada em meados dos anos 1990,
+buscava um novo paradigma para a atuação da Administração pública. Nesse
+sentido, entre outras medidas, preconizava a transferência de serviços públicos não
+exclusivos a entidades privadas sem fins lucrativos, as quais eram qualificadas como
+organizações sociais, o que correspondeu ao mecanismo denominado
+a) accountability.
+b) desestatização.
+c) governança.
+d) publicização.
+e) privatização.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        31. (FCC – PROCON-MA – Fiscal - 2017)
+No processo de evolução da Administração Pública no Brasil, a instituição do
+Departamento Administrativo do Serviço Público - DASP, situa-se
+a) como órgão gestor do Programa Nacional de Desburocratização protagonizado pelo
+Ministro Hélio Beltrão no início dos anos 1980.
+b) como marco da consolidação do modelo burocrático e superação do patrimonialismo,
+criado com a edição do Decreto Lei no 200, de 1967.
+c) como órgão central encarregado da modernização administrativa no Estado Novo do
+governo de Getúlio Vargas na década de 1930.
+d) como importante vetor na introdução do modelo de Administração Gerencial, no
+início dos anos 1970, embora ainda contaminado por conceitos do modelo burocrático.
+e) no centro do Plano Diretor da Reforma do Aparelho do Estado, levado a cabo pelo
+Ministro Bresser Pereira, nos anos 1990 ao influxo da nova gestão pública.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        32. (FCC – AL-MS– Analista de RH - 2016)
+Um marco importante no contexto evolutivo da Administração pública no Brasil foi o
+Plano Diretor da Reforma do Aparelho do Estado, levado a cabo a partir de meados dos
+anos 1990 pelo então Ministro Bresser Pereira. O modelo de atuação do Estado,
+preconizado pela referida reforma, contempla, entre suas premissas,
+a) explorar de forma direta atividades econômicas, como indutor do crescimento fiscal.
+b) adotar o modelo desenvolvimentista, por intermédio da denominada publicização.
+c) atuar mais fortemente nas atividades de fomento, regulação e controle.
+d) estabelecer parcerias com as entidades do terceiro setor, para a privatização de
+setores como saúde e educação.
+e) implantar o modelo gerencial, que preconiza maior centralização das atividades pela
+União.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+---
+
+---

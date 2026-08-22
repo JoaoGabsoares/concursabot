@@ -1,0 +1,121 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 20_031_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: 'DA ORDEM SOCIAL:'
+artigos_citados:
+- Art. 227.
+- art. 1º
+---
+
+# DA ORDEM SOCIAL:
+
+DA ORDEM SOCIAL:
+CRIANÇA, ADOLESCENTE
+      E JOVEM
+                                            Prof. Adriane Fauth
+
+       
+
+
+---
+
+CRIANÇA, ADOLESCENTE, JOVEM
+Art. 227. É dever da família, da sociedade e do Estado assegurar à
+criança, ao adolescente e ao jovem, com absoluta prioridade, o direito
+à vida, à saúde, à alimentação, à educação, ao lazer, à
+profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à
+convivência familiar e comunitária, além de colocá-los a salvo de toda
+forma de negligência, discriminação, exploração, violência, crueldade e
+opressão.
+
+                           
+
+
+---
+
+CRIANÇA, ADOLESCENTE, JOVEM
+ (...) A proteção à maternidade e a integral proteção à criança são
+  direitos irrenunciáveis e não podem ser afastados pelo
+  desconhecimento, impossibilidade ou a própria negligência da
+  gestante ou lactante em apresentar um atestado médico, sob pena
+  de prejudicá-la e prejudicar o recém-nascido. [ADI 5.938, rel. min.
+   Alexandre de Moraes, j. 29-5-2019, P, DJE de 23-9-2019.]
+
+ Lei Estadual 8.008/2018 do Rio de Janeiro, que impõe a
+  obrigatoriedade de que as crianças e adolescentes do sexo
+  feminino vítimas de estupro sejam examinadas por perito legista
+  mulher (...) [ADI 6.039-MC, rel. min. Edson Fachin, j. 13-3-2019, P, DJE de 1º-8-
+   2019.]
+
+                                
+
+
+---
+
+CRIANÇA, ADOLESCENTE, JOVEM
+ A Constituição Federal não veda de forma absoluta o ensino
+  domiciliar, mas proíbe qualquer de suas espécies que não respeite
+  o dever de solidariedade entre a família e o Estado como núcleo
+  principal à formação educacional das crianças, jovens e
+  adolescentes. [RE 888.815, rel. p/ o ac. min. Alexandre de Moraes, j. 12-9-2018,
+   P, DJE de 21-3-2019, Tema 822.]
+
+
+ É inconstitucional norma que, a pretexto de regulamentar, dificulta
+  a participação da sociedade civil em conselhos deliberativos. [ADPF
+   622, rel. min. Roberto Barroso, j. 1º-3-2021, P, DJE de 21-5-2021.]
+
+                                 
+
+
+---
+
+CRIANÇA, ADOLESCENTE, JOVEM
+  1º O Estado promoverá programas de assistência integral à saúde
+da criança, do adolescente e do jovem, admitida a participação de
+entidades não governamentais, mediante políticas específicas e
+obedecendo aos seguintes preceitos:
+
+ I - aplicação de percentual dos recursos públicos destinados à saúde
+na assistência materno-infantil;
+II - criação de programas de prevenção e atendimento especializado
+para as pessoas portadoras de deficiência física, sensorial ou mental,
+bem como de integração social do adolescente e do jovem portador
+de deficiência, mediante o treinamento para o trabalho e a
+convivência, e a facilitação do acesso aos bens e serviços coletivos,
+com a eliminação de obstáculos arquitetônicos e de todas as formas
+de discriminação.
+
+
+                            
+
+
+---
+
+CRIANÇA, ADOLESCENTE, JOVEM
+  2º A lei disporá sobre normas de construção dos logradouros e dos
+edifícios de uso público e de fabricação de veículos de transporte
+coletivo, a fim de garantir acesso adequado às pessoas portadoras
+de deficiência.
+
+ Constitucional a iniciativa do legislador alagoano para editar a Lei
+  estadual 7.508/2013, pela qual se determina que os
+  estabelecimentos de ensino fundamental, médio e superior,
+  públicos e privados, e cursos de extensão disponibilizem ‘cadeiras
+  adaptadas para alunos portadores de deficiência física ou
+  mobilidade reduzida’ (art. 1º). [ADI 5.139, rel. min. Cármen Lúcia, j. 11-10-
+   2019, P, DJE de 6-11-2019.]
+
+                                 
+
+
+---

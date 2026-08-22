@@ -1,0 +1,1381 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 02_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Passo Estratégico de Língua Inglesa
+---
+
+# Passo Estratégico de Língua Inglesa
+
+Aula 01
+                          Receita Federal (Analista Tributário)
+                         Passo Estratégico de Língua Inglesa
+
+                                                        Autor:
+                                               Rodrigo Perni
+
+                                             24 de Maio de 2023
+
+---
+
+      Rodrigo Perni
+      Aula 01
+
+                                                                                     Índice
+1) Passo Estratégico Substantivo - FGV
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                                                                                 2
+                www.estrategiaconcursos.com.br                                                                                                                                           33
+
+                                                             
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                                                     INGLÊS
+Apresentação                                                                        2
+
+O que é o Passo Estratégico?                                                        3
+
+Análise Estatística                                                                 4
+
+Roteiro de revisão e pontos do assunto que merecem destaque                         5
+
+Aposta estratégica                                                                  15
+
+Questões estratégicas                                                               16
+
+Questionário de revisão e aperfeiçoamento                                           22
+
+   Perguntas                                                                        22
+
+   Perguntas com respostas                                                          23
+
+Lista de Questões Estratégicas                                                      26
+
+   Gabarito                                                                         30
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   3
+        www.estrategiaconcursos.com.br                                              33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                                             APRESENTAÇÃO
+Olá!
+
+Sou o professor Rodrigo Perni e, com imensa satisfação, serei o seu analista do Passo Estratégico!
+Para que você conheça um pouco sobre mim segue um resumo de nossa experiência profissional,
+acadêmica e como concurseiro:
+
+                                               Rodrigo Perni
+       *Auditor – Fiscal da Receita Federal do Brasil;
+
+       * Coach do Estratégia Concursos;
+
+       * Responsável pela elaboração e análise estatística do Passo Estratégico de
+       Arquivologia, Recurso de Administração de Materiais e Inglês;
+
+       * Formado em Administração de Empresas e
+
+       * Aprovado no concurso do ano de 2005, na 21ª posição na 2ª Região Fiscal no
+       concurso para Auditor-Fiscal da Receita Federal do Brasil.
+
+Estou extremamente feliz de ter a oportunidade de trabalhar na equipe do “Passo”, porque
+tenho convicção de que nossos relatórios e simulados proporcionarão uma preparação
+diferenciada aos nossos alunos!
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa              4
+         www.estrategiaconcursos.com.br                                                        33
+
+                                      
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                           O QUE É O PASSO ESTRATÉGICO?
+O Passo Estratégico é um material escrito e enxuto que possui dois objetivos principais:
+
+a) orientar revisões eficientes;
+
+b) destacar os pontos mais importantes e prováveis de serem cobrados na prova.
+
+Assim, o Passo Estratégico pode ser utilizado tanto para turbinar as revisões dos alunos mais
+adiantados nas matérias, quanto para maximizar o resultado na reta final de estudos por parte
+dos alunos que não conseguirão estudar todo o conteúdo do curso regular.
+
+Em ambas as formas de utilização, como regra, o aluno precisa utilizar o Passo Estratégico em
+conjunto com um curso regular completo.
+
+Isso porque nossa didática é direcionada ao aluno que já possui uma base do conteúdo.
+
+Assim, se você vai utilizar o Passo Estratégico:
+
+a) como método de revisão, você precisará de seu curso completo para realizar as leituras
+indicadas no próprio Passo Estratégico, em complemento ao conteúdo entregue diretamente em
+nossos relatórios;
+
+b) como material de reta final, você precisará de seu curso completo para buscar maiores
+esclarecimentos sobre alguns pontos do conteúdo que, em nosso relatório, foram eventualmente
+expostos utilizando uma didática mais avançada que a sua capacidade de compreensão, em
+razão do seu nível de conhecimento do assunto.
+
+                        Seu cantinho de estudos famoso!
+                       Poste uma foto do seu cantinho de estudos nos stories do
+                                       Instagram e nos marque:
+
+                                           @passoestrategico
+                       Vamos repostar sua foto no nosso perfil para que ele fique
+                               famoso entre milhares de concurseiros!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa          5
+        www.estrategiaconcursos.com.br                                                     33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                                       ANÁLISE ESTATÍSTICA
+
+Inicialmente, convém destacar os percentuais de incidência das questões de Inglês nas provas
+elaboradas pela banca FGV
+Lembrando, quanto maior o percentual de cobrança de um dado assunto, maior sua importância:
+
+                                   Assunto                                          Grau de incidência em
+                                                                                    concursos anteriores
+                                                                                     elaborados pela FGV
+
+
+            Interpretação de Textos (compreensão)                                           45%
+
+
+                  Vocabulário e Tradução (inglês)                                           35%
+
+
+                          Gramática (inglês)                                                20%
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                           6
+        www.estrategiaconcursos.com.br                                                                      33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+    ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE MERECEM
+                                                  DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+ATENÇÃO!!! Serão disponibilizados exercícios das principais bancas que elaboram concursos
+públicos nos cadernos de questões ao final do curso.
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a
+seguir:
+
+
+                                       1 - Formação de Frases
+
+Simple sentence (Frase simples):
+
+Ordem direta:
+
+Sujeito + Verbo                         -SV              e.g. The sun goes down.
+
+Sujeito + Verbo + Objeto                -SVO             e.g.    He     gave        the   box   (obj.direto)to   the
+woman(obj.indireto)
+
+Sujeito + Verbo + Complemento -SVC                       e.g. My students are friendly.
+
+Ordem indireta:
+
+Qualquer ordem que não seja a direta.
+
+Compound sentence (oração composta):
+Duas ou mais orações juntas, para combiná-las em uma só frase são usadas por exemplo as
+conjunções For-And-Nor-But-Or-Yet-So ou o ponto e vírgula.
+
+
+Inversão da posição das palavras:
+1. Em perguntas com determinados verbos, inverte-se as posições do verbo e sujeito. Observe:
+“Are you Brazilian?” (Você é brasileiro?). Note que sujeito e verbo estão invertidos em inglês.
+Moral da história: em perguntas, pode haver inversão de posíções.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                 7
+        www.estrategiaconcursos.com.br                                                                            33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+2. A forma negativa de alguns verbos. Observe: "No, I'm not Brazilian" (Não, eu não sou
+brasileiro). Veja que em inglês se escreve "am not" e em português "não sou". Moral da história:
+com alguns verbos, a negativa se forma com a adição da palavra “not” APÓS o verbo (em
+português, o "não" vem ANTES do verbo).
+
+3. Substantivos acompanhados de adjetivos. Observe a sentença: "I am an American lawyer" (Eu
+sou um advogado americano). Nesse caso, trata-se de um substantivo acompanhado de um
+adjetivo. Quando isso acontecer, o adjetivo sempre vem ante do substantivo. Moral da história: A
+regra é simples: adjetivos vêm antes do substantivo e pronto.
+
+4. Caso genitivo (‘s). É aquele famoso ’s que vemos em nomes de lojas. Observe: "Roberto's
+computer is obsolete" (O computador do Roberto é obsoleto). Essa estrutura de ‘s não existe em
+português. Sendo assim, quando você se deparar com uma sentença como essa, lembre-se que
+você deve traduzir de trás para frente.
+
+                                2 - Substantivos (noun)
+Palavra usada para nomear uma pessoa, animal, lugar, coisa, ideia abstrata, em uma frase pode
+exercer diferentes funções como sujeito, objeto direto, objeto indireto, complemento do sujeito
+ou objeto, um aposto, um adjetivo ou um advérbio.
+
+one-word noun – substantivo simples, formado por uma só palavra.
+
+compound noun – substantivo composto, formado por mais de uma palavra, pode ser dois
+substantivos, um substantivo + adjetivo ou um substantivo + advérbio. Podem ser juntos, com
+hífen ou separados.
+e.g. Government, mother-in-law, ice cream
+
+countable noun – substantivo contável, aceita plural
+
+uncountable noun – substantivo incontável, não aceita plural
+
+Dica pra decorar:
+
+• liquids (milk, water)
+• abstract ideas (advice, chaos, motivation)
+• powder and grain (rice, wheat, sand)
+• mass nouns (furniture, hair, transportation)
+• natural phenomena (sunshine, snow, rain, weather)
+• states of being (sleep, stress, childhood)
+• gas (oxygen, air etc)
+• Feelings (anger, happiness etc)
+
+
+Plural dos substantivos:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa             8
+        www.estrategiaconcursos.com.br                                                       33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+Regra geral: “S” no final da palavra                                                 e.g. month - months
+Substantivo terminando em CH, SH, S, SS, X ou Z: acrescentar “ES”                    e.g. class - classes
+
+Substantivo terminando em consoante + Y: tirar o Y e acrescentar “IES”       e.g. duty - duties
+Substantivos terminados em F ou FE, tirar o “F” ou “FE” e acrescentar “VES” e.g. leaf – leaves
+Alguns substantivos têm o plural irregular                                 e.g. child – children
+
+Gênero dos substantivos (Nouns Gender)
+
+Alguns substantivos têm o mesmo formato para o masculino e feminino, outros tem um formato
+para cada gênero.
+
+ accountant                    contador(a)
+
+ engineer                      engenheiro (a)
+
+ janitor                       zelador(a)
+
+ lawyer                        advogado (a)
+
+ nurse                         enfermeiro (a)
+
+ student                       aluno (a)
+
+ teacher                       professor (a)
+
+
+ actor / actress               ator/atriz
+
+                               garçom/
+ waiter/ waitress              garçonete
+
+ boy/ girl                     menino/ menina
+
+ man/ woman                    homem/ mulher
+
+ father/ mother                pai/ mãe
+
+ son/ daughter                 filho/ filha
+
+ brother/ sister               irmão/ irmã
+
+ husband/ wife                 marido/ esposa
+
+ grandfather/
+ grandmother                   avô/ avó
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                     9
+         www.estrategiaconcursos.com.br                                                                33
+
+                                      
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+ uncle/ aunt                    tio/ tia
+
+                                sobrinho/
+ nephew/ niece                  sobrinha
+
+ king/ queen                    rei/ rainha
+
+                                príncipe/
+ prince/ princess               princesa
+
+                                imperador/
+ emperor/ empress               imperatriz
+
+ actor/ actress                 ator/ atriz
+
+ policeman/
+ policewoman                    policial
+
+No inglês o substantivo pode indicar posse ao ser colocado o " 's".
+
+Regras:
+
+-Se o substantivo estiver no plural ou terminar em s, pode ser usado o " 's" ou apenas o " ' ".
+-Se estiver no final da frase fica implícito, para não ter que repetir novamente o substantivo.
+-Se dois elementos tiverem posse do mesmo objeto, o apóstrofo é colocado apenas no
+último nome.
+
+
+The Queen’s palaces are in Britain.
+Os palácios da rainha estão na Inglaterra.
+
+The Queens’ palaces are in Britain.
+Os palácios das rainhas estão na Inglaterra.
+
+That is James’ house.
+Aquela é a casa do James.
+
+The blue house is James’s (house).
+A casa azul é (a casa) do James.
+
+That is James and Mary’s house.
+Aquela é a casa do James e da Mary.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa               10
+          www.estrategiaconcursos.com.br                                                          33
+
+                                       
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                                     3 - Artigos (articles)
+THE- Artigo definido- usado para coisas específicas antes de substantivos no singular ou no
+plural.
+
+A - Artigo Indefinido - usado para coisas não específicas (gerais) antes de substantivos contáveis
+no singular que tem som de consoante.
+
+AN - Artigo Indefinido - usado para coisas não específicas (gerais) antes de substantivos contáveis
+no singular que começam com vogal.
+
+Para expressar o plural dos artigos indefinidos A, AN (um, uma), usa-se o adjetivo
+(determinante): some (uns, umas, alguns, algumas) ou zero article (não se usa artigo).
+
+OBS: antes de dias de semana, substantivos próprios (nomes de pessoas, lugares) e pronomes
+possessivos não se usa artigo (zero article).
+
+                              4 - Pronomes (pronouns)
+Quadro resumo dos pronomes:
+
+   Pronomes Pessoais – Personal Pronouns                            Pronomes Pessoais – Object Pronouns
+
+
+             I                          Eu                                 Me               Me, mim
+
+            You                     Você, tu                               You          Lhe, o, a, te, ti, a
+                                                                                              você
+
+       He, she, it              Ele, ela (neutro)                     Him, Her, It    lhe, o, a, a ele, a ela
+
+            We                         Nós                                  Us                 Nos
+
+            You                    Vocês, vós                              You          Vos, lhes, vocês
+
+            They              Eles, elas (neutro)                         Them             lhes, os, as
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                              11
+        www.estrategiaconcursos.com.br                                                                         33
+
+                                     
+
+
+---
+
+Rodrigo Perni
+Aula 01
+
+    Pronomes Possessivos – Possessive                              Pronomes Interrogativos – Interrogative
+               Pronouns                                                          Pronouns
+
+          Mine              (o) meu, (a) minha                           Who              quem (sujeito)
+
+          Yours             (o) teu, (a) tua, (o)                       Whose                de quem
+                                seu, (a) sua
+                                                      ==219a34==
+
+    His, hers, its           (o)/(a) dele, dela                          Why                  Porque
+                                  (neutro)
+
+          Ours              (o) nosso, (a) nossa                        Which               qual, quais
+
+          Yours            (o) vosso, (a) vossa,                        What                o que, que
+                              (o) seu, (a) sua
+
+          Theirs            (o)/(a) deles, delas                        Where                  onde
+                                  (neutro)
+
+                                                                         How                  como
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                              12
+      www.estrategiaconcursos.com.br                                                                         33
+
+                                   
+
+
+---
+
+Rodrigo Perni
+Aula 01
+
+Pronomes reflexivos (reflexive pronouns)                         Pronomes Relativos (relatives pronouns)
+
+
+          Myself                -me, a mim                              Who           quem, que, o qual
+                                 mesmo(a)
+
+      Yourself             -te, -se, a ti, a você                       Whom                 quem
+                                 mesmo(a)
+
+      Himself                  -se, a si, a ele                         Whose          cujo, cuja, cujos,
+                                  mesmo                                                      cujas
+
+          Herself              -se, a si, a ela                         Which         que, o qual, o que
+                                  mesma
+
+           Itself           -se, a si mesmo(a)                          Where          onde, em que, no
+                                                                                        que, no qual, na
+                                                                                      qual, nos quais, nas
+                                                                                             quais
+
+
+     Ourselves                  -nos, a nós                             When         quando, em que, no
+                                mesmos(as)                                            qual, na qual, nos
+                                                                                       quais, nas quais
+
+     Yourselves                 -se, a vocês                             That                 que
+                                mesmos(as)
+
+    Themselves             -se, a eles mesmos,                          What                 o que
+                              a elas mesmas
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                             13
+      www.estrategiaconcursos.com.br                                                                        33
+
+                                   
+
+
+---
+
+Rodrigo Perni
+Aula 01
+
+                                           Pronomes Indefenidos
+
+                    Pessoais                                                      Impessoais
+
+    somebody,                      alguém                             anything            qualquer coisa,
+     someone                                                                                nada, tudo
+
+     everyone,                 todos, todo o                         everything                tudo
+     everybody                    mundo
+
+ anyone, anybody            alguém, qualquer                      nothing - none         nada, nenhum (a)
+                                 pessoa
+
+   no one, none,            ninguém, nenhum                          something          alguma coisa, algo
+      nobody                       (a)
+
+    Pronomes Demonstrativos –
+      Demonstrative Pronouns
+
+     This               este, esta, isto
+
+    These            estes, estas (plural)
+
+     That              aquele, aquela,
+                      aquilo, esse, essa,
+                              isso
+
+    Those             aqueles, aquelas,
+                        esses, essas
+                          (plural)
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                             14
+      www.estrategiaconcursos.com.br                                                                        33
+
+                                   
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                           5 - Preposições (preposition)
+
+For :
+1. Para indicar finalidade: What is this box for?
+2. Objetivo de uma ação quando for seguido de um substantivo: He came over for dinner.
+3. Tempo: I have studied English for five hours.
+4. Favor ou benefício: He fixed dinner for me.
+
+To:
+1.Para indicar transferência de alguém: They are going to home.
+2.Transferência de algo: She gave the book to me.
+3.Troca de algo: He is going to talk to you.
+4. Objetivo de uma ação quando for seguido de um verbo: He came over to have dinner.
+
+                                               Preposição de lugar
+
+ at the back - atrás (no       in - dentro                   around - ao redor       over - sobre, em cima
+ fundo)                                                                              de, por cima de
+
+ at the front - à frente      at - em, no, a                 down - abaixo           inside - dentro de
+
+ above - acima                on - em cima                   away from - longe de    into - dentro
+
+ across - através de          behind - atrás                 for - para              near - perto
+
+ in front of - em frente      below/beneath -                off - fora              outside - do lado de
+ de                           abaixo de, debaixo de                                  fora
+
+ in the middle of - no        beside - ao lado de,           under - em baixo de     up - acima
+ meio de                      junto de, ao pé de
+
+ next to - junto a            between - no meio de           on the left - à         on the right - à direita
+                              (entre dois)                   esquerda
+
+ amid - entre (se fazer       out - fora                     underneath - debaixo    within - dentro de
+ parte de um grupo)                                          de, por baixo de, sob
+
+ among - entre os (fazendo parte de um grupo)                by - perto de, junto a, ao lado de, ao pé de
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                           15
+        www.estrategiaconcursos.com.br                                                                      33
+
+                                     
+
+
+---
+
+Rodrigo Perni
+Aula 01
+
+                                         Preposição de movimento
+
+          across             através de, de través                    onto         para cima de
+
+          along                    ao longo de                         out        of para fora de
+
+          around                     em volta                         over         por cima de
+
+          away                from para longe de                      past        em frente, junto
+
+          down                      para baixo                       round          em volta de
+
+           from                    de (origem)                      through         através de
+
+            in                     para dentro                      towards        em direção a
+
+           into                  para dentro de                         up           para cima
+
+           off                    afastamento                           to             para
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                      16
+      www.estrategiaconcursos.com.br                                                                 33
+
+                                   
+
+
+---
+
+    Rodrigo Perni
+    Aula 01
+
+                                         APOSTA ESTRATÉGICA
+
+
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem
+cobrados em prova, considerando o histórico de questões da banca em provas de nível
+semelhante à nossa, bem como as inovações no conteúdo, na legislação e nos entendimentos
+doutrinários e jurisprudenciais1.
+
+Mas o que focar dentro dos temas abordados nessa aula? Qual é a aposta estratégica?
+
+Apesar de parecer um assunto simples, a maioria das bancas costumam explorar os pronomes.
+Perguntas sobre a que o pronome se refere são constantes nas provas. Se você prestar atenção
+você consegue acertar a questão em pouquíssimo tempo. Não se esqueça também que de
+acordo com a análise estatística, as provas possuem questões sobre vocabulário, então fique
+atento com questões que dependem do conhecimento do significado de determinada palavra.
+
+1
+ Vale deixar claro que nem sempre será possível realizar uma aposta estratégica para um determinado
+assunto, considerando que às vezes não é viável identificar os pontos mais prováveis de serem
+cobrados a partir de critérios objetivos ou minimamente razoáveis.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa             17
+          www.estrategiaconcursos.com.br                                                        33
+
+                                       
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                                    QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+TEXT
+
+‘Basic human rights’ is a term which refers to those human rights that are generally considered
+most necessary or essential to the wellbeing and dignity of the human person. In concept, when
+basic human rights are guaranteed, they help to assure the primary material and nonmaterial
+needs of human beings, so that they can lead a dignified life. Because of this, these rights are
+given absolute precedence in both national and international law and policy.
+
+There is no universally accepted list of these rights, as they vary somewhat according to different
+cultural contexts. However, they would include, for example, the right to life, food, shelter, and
+medical treatment, freedom from torture, and from cruel, degrading, and inhuman treatment and
+punishment, freedom of religion, freedom of expression, and freedom from slavery. All human
+rights are considered equal, interdependent, interrelated, and indivisible in theory. Nevertheless,
+the term ‘basic human rights’ designates certain human rights that are simply too basic not to be
+respected.
+
+                                                                       M. Victor Condé. Basic human rights. In
+
+                  A handbook of international human rights terminology. 2nd ed., p. 23-4 (adapted.)
+
+1. (CEBRASPE (CESPE) - Técnico Judiciário (STJ)/Apoio Especializado/Desenvolvimento de
+Sistemas/2018) In the excerpts “they help to assure” and “so that they can lead a dignified life”,
+the pronoun “they” refers to “basic human rights”.
+
+Comentários
+
+GABARITO: ERRADA
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                          18
+        www.estrategiaconcursos.com.br                                                                     33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+Olha a pegadinha!
+
+Nos trechos “they help to assure” e “so that they can lead a dignified life”, o pronome “they” se
+refere a “basic human rights”.
+Vamos observar a tradução do trecho:
+ In concept, when basic human rights are guaranteed, they help to assure the primary material
+and nonmaterial needs of human beings, so that they can lead a dignified life.
+
+Em princípio, quando os direitos humanos básicos são garantidos, eles ajudam a garantir as
+principais necessidades materiais e não materiais dos seres humanos, para que eles possam levar
+uma vida digna.
+O primeiro “they” realmente faz referência à “basic human rights”, mas o segundo NÃO! Se
+referindo a “human beings”.
+Portanto, afirmação INCORRETA.
+
+TEXT
+
+Yale Divinity School (YDS) honored James W.C. Pennington, an escapee from slavery who took
+classes at the school in the 1830s, in a series of events Oct. 6 and 7, 2016. The school named a
+classroom in Pennington’s honor, hosted two lectures on his life and legacy, and announced a new
+scholarship and bi-national conference to be held in the coming years.
+Though he sat in on classes, James Pennington was refused formal enrollment in the YDS and was
+barred from speaking in class or borrowing books. Nonetheless, he holds an important place in
+history as the first African American to study at Yale. He went on to serve as pastor of several
+Congregational churches and to become a prominent advocate for the abolition of slavery and for
+international peace.
+“I believe that Pennington is a model for all students”, said Gregory Sterling, Dean of YDS.
+Sterling announced a new scholarship to be awarded each year to a Pennington Fellow, with
+preference given to first-year Master of Divinity students, who is studying the African-American
+experience.
+Sterling also considers Pennington as a model of someone who overcame enormous odds with
+great courage, and who demonstrated a level of skill that brought him not only national but
+international acclaim. And he did all of that serving a cause larger than himself.
+                                                         Internet: <http://news.yale.edu> (adapted.)
+
+2. (CEBRASPE (CESPE) - Professor de Nível Superior (Pref SL)/Língua Inglesa/2017) In the text, the
+word “who” refers to
+
+a) ‘a model’.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                19
+        www.estrategiaconcursos.com.br                                                           33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+b) ‘students’.
+c) “Gregory Sterling”
+d) “Pennington Fellow”
+e) ‘Pennington’.
+
+Comentários
+
+GABARITO: LETRA D.
+
+Vamos analisar todo o trecho:
+
+Sterling announced a new scholarship to be awarded each year to a Pennington Fellow, with
+preference given to first-year Master of Divinity students, who is studying the African-American
+experience.
+
+Sterling anunciou uma nova bolsa de estudos a ser entregue anualmente a um bolsista da
+Pennington, com preferência aos alunos do primeiro ano de Mestrado em Divindade, que está
+estudando a experiência afro-americana.
+
+Temos o famoso caso que uma oração está separando o pronome do substantivo referência,
+nesse caso o pronome “who” está se referindo ao substantivo “Pennington Fellow”.
+
+TEXT
+
+A compelling case can be made for mandatory audit rotation that auditors who keep the same
+client for too long get excessively cosy with its management. As somebody has put it, “When the
+same incumbent firm has been in place for 100 years, to me that’s not an audit, that’s a joint
+venture.”
+
+Most academic studies have either found no link between the length of a relationship and its
+quality, or determined that longer tenures yield better results, because the accountants have time
+to master the intricacies of clients’ businesses. Obliging companies to solicit bids at regular
+intervals, as Britain does, has shaken up the business: HSBC said in August that it will drop KPMG
+in favour of PwC; on December 2nd Unilever announced that it is making the opposite switch.
+Indeed, the big accounting firms argue that forced rotation would reduce competition by
+preventing the incumbent from bidding.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa              20
+        www.estrategiaconcursos.com.br                                                         33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+Proponents counter that the accounting giants, and academics whose research is often financed
+by them, have good reason to resist change. Among the reform’s strongest supporters are smaller
+firms that hope to break the Big Four’s stranglehold.
+
+Yet even the most vocal advocates of mandatory rotation concede that it is no magic bullet.
+Auditors have a conflict of interest at the heart of their business — they are paid by the
+companies they are supposed to assess objectively. Unless that changes, there will be no
+substitute for investors doing their own due diligence.
+
+                                                                                    Idem (adapted).
+
+3. (CEBRASPE (CESPE) - Analista Legislativo (CAM DEP)/Consultor de Orçamento e Fiscalização
+Financeira/2014) Judge the following item, according to the text above.
+
+In “to me that’s not an audit, that’s a joint venture”, the word “that” refers to the situation
+mentioned before, that is, the same auditing firm being responsible for a client for too long a
+period of time.
+
+Comentários
+
+GABARITO: CORRETA.
+
+Em " to me that’s not an audit, that’s a joint venture”, a palavra "that" se refere à situação
+mencionada anteriormente, ou seja, a mesma empresa de auditoria sendo responsável por um
+cliente por um período de tempo muito longo.
+
+Corretíssimo, o pronome “that” está se referindo ao exposto anteriormente pelo texto, veja o
+trecho todo do texto:
+
+As somebody has put it, “When the same incumbent firm has been in place for 100 years, to me
+that’s not an audit, that’s a joint venture.”
+Como alguém disse: "Quando a mesma empresa estabelecida existe há 100 anos, para mim isso
+não é uma auditoria, isso é uma joint venture".
+
+TEXT
+
+In 1962, there was a writers’ gathering impressively styled “A Conference of African Writers of
+English Expression”. Despite this rather solemn title, there was something that we tried to do and
+failed — that was to define “African literature”. Was it literature produced in Africa or about
+Africa? Should it be in indigenous African languages or should it include Arabic, English, French,
+Portuguese, Afrikaans, and so on? You cannot cram African literature into a small, neat definition. I
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                 21
+        www.estrategiaconcursos.com.br                                                            33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+do not see African literature as one unit but as a group of associated units — the sum of all the
+national and ethnic literatures of Africa. A national literature has a realized or potential audience
+throughout its territory. In other words, a literature that is written in the national language. An
+ethnic literature is available only to one ethnic group within the nation. If you take Nigeria as an
+example, the national literature, as I see it, is the literature written in English; and the ethnic
+literatures are in Hausa, Ibo, Yoruba, Efik, Edo, Ijaw, etc.
+
+                                        Chinua Achebe. The african writer and the english language.
+       In: Patrick Williams & Laura Cristman. Colonial discourse and postcolonial theory. New York:
+                                               Columbia University Press, 1994, p. 428-9 (adapted).
+
+4. (CEBRASPE (CESPE) - Professor (Pref São Cristóvão)/Inglês/Educação Básica/2019) A respeito
+do vocabulário e dos aspectos linguísticos do texto, julgue o item seguinte.
+
+In the text, “within” is a preposition meaning outside.
+
+Comentários
+
+GABARITO: ERRADO.
+
+Within é uma preposição que significa dentro, portanto alternativa incorreta
+
+TEXT
+
+Remembrance of things past is often dearest to those who are bored or driven to despair by the
+world around them. To these the contemplation of times gone by brings surcease from current
+burdens too heavy to bear. “Take not away from me” implored the Emperor Julian, world-weary
+monarch in another age of disenchantment, “this mad love for that which no longer is. That which
+has been is more splendidly beautiful than all that is…” To others, concerned as watchers and
+movers with the challenge of today and the promise or menace of tomorrow, the tale of many
+yesterdays, reconstructed by the history and the science of living men and women, has another
+meaning.
+
+By revealing what has gone before, it illumines the act of the human adventure now being played
+and suggests the pattern of acts to come. The drama of earthborn and earthbound humanity,
+despite all its crises and intermissions, is a continuous story. All the characters are prisoners of
+time. All the problems of the now are forever shaped by the experiences of a then which extends
+back in unbroken sequence to the origins of life. Each generation has freedom to choose among
+alternative designs for destiny, and opportunity to win some measure of mastery over its fate,
+only to the extent of its comprehension of where it stands in the cavalcade of years, decades,
+centuries, and millennia ticked off by the spinning planet.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                 22
+        www.estrategiaconcursos.com.br                                                            33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+   Frederick L. Schuman. International politics: the destiny of the Western state system. New York:
+                                                                  McGraw-Hill, 1948, p. 1 (adapted).
+
+5. (CEBRASPE (CESPE) - Diplomata (Terceiro Secretário)/2011) The words “crises” and
+“millennia”, as well as theses and fulcra, can only be found in their plural forms.
+
+Comentários
+
+GABARITO: ERRADO.
+
+The words "crises" and "millennia", as well as theses and fulcra, can only be found in their plural
+forms.
+
+As palavras “crises” e “milênios”, assim como teses e fulcra, só podem ser encontradas em suas
+formas plurais.
+Temos aqui casos de plural irregular dos substantivos, vamos analisar cada palavra do enunciado
+no singular e no plural:
+Singular – Plural
+Crises – Crises
+Millenium – Millenia
+Thesis – Theses
+Fullcrum – Fulcra
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                23
+        www.estrategiaconcursos.com.br                                                           33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+              QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo,
+proporcionar uma outra forma de revisão de pontos importantes do conteúdo, a partir de
+perguntas que exigem respostas subjetivas.
+
+São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua
+resolução, como ocorre nas clássicas questões objetivas.
+
+O objetivo é que você realize uma autoexplicação mental de alguns pontos do conteúdo, para
+consolidar melhor o que aprendeu ;)
+
+Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto.
+
+Assim, ao resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do
+conteúdo, mas muitas vezes acaba não entendendo como esses pontos se conectam.
+
+Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor
+os diversos pontos do conteúdo, na medida do possível.
+
+É importante frisar que não estamos adentrando em um nível de profundidade maior que o
+exigido na sua prova, mas apenas permitindo que você compreenda melhor o assunto de modo
+a facilitar a resolução de questões objetivas típicas de concursos, ok?
+
+Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+Vamos ao nosso questionário:
+
+Perguntas
+
+   1. O que é uma “compound sentence”?
+   2. Quais são os tipos gerais de “uncountable nouns”?
+   3. É possível utilizar o artigo “an” antes de um “uncountable noun”?
+   4. Qual o plural de “leaf”?
+   5. Qual o masculino de “nurse”?
+   6. “Which” é um pronome relativo ?
+   7. “Across” é uma preposição de lugar?
+   8. Qual a classe das palavras “ice cream”?
+   9. “It’s” é um pronome possessivo?
+   10. A preposição “to” indica finalidade?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa          24
+        www.estrategiaconcursos.com.br                                                     33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+Perguntas com respostas
+
+
+1. O que é uma “compound sentence”?
+
+É uma oração composta, formada por duas ou mais orações simples juntas. Para combiná-las em
+uma só frase são usadas as conjunções For-And-Nor-But-Or-Yet-So ou o ponto e vírgula.
+
+2. Quais são os tipos gerais de “uncountable nouns”?
+Na nossa revisão exibimos uma tabela com muitos uncountable nouns, mas tem uma dica para
+facilitar a memorização. Em geral são incontáveis:
+
+• liquids (milk, water)
+• abstract ideas (advice, chaos, motivation)
+• powder and grain (rice, wheat, sand)
+• mass nouns (furniture, hair, transportation)
+• natural phenomena (sunshine, snow, rain, weather)
+• states of being (sleep, stress, childhood)
+• gas (oxygen, air etc)
+• Feelings (anger, happiness etc)
+
+
+3. É possível utilizar o artigo “an” antes de um “uncountable noun”?
+
+O “a” e o “an” só podem ser usados coisas não específicas (gerais) antes de substantivos
+contáveis no singular. Então a resposta é NÃO.
+
+4. Qual o plural de “leaf”?
+
+Não se esqueça que para saber o plural de alguns substantivos que terminam em F ou FE, você deve tirar o
+“F” ou “FE” e acrescentar o “VES”
+
+Leaf- Leaves
+
+5. Qual o masculino de “nurse”?
+
+Nurse tem o mesmo formato tanto no feminino quanto no masculino. Então nurse abrange
+ambos os gêneros.
+
+6. “Which” é um pronome relativo ?
+
+Vamos relembrar a lista de pronomes relativos, que é importante porque são os pronomes mais difíceis de
+memorizar.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                    25
+        www.estrategiaconcursos.com.br                                                               33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+   Pronomes Relativos (relatives pronouns)
+
+
+            Who                quem, que, o qual
+
+
+            Whom                      quem
+
+
+        Whose               cujo, cuja, cujos, cujas
+
+
+            Which              que, o qual, o que
+
+
+            Where           onde, em que, no que,
+                             no qual, na qual, nos
+                               quais, nas quais
+
+            When              quando, em que, no
+                               qual, na qual, nos
+                                quais, nas quais
+
+
+            That                        que
+
+
+            What                       o que
+
+
+7. “Across” é uma preposição de lugar?
+
+Não se confunda. “Across” quer dizer “através de”. É uma preposição de movimento. Não se
+confunda!
+
+8. Qual a classe das palavras “ice cream”?
+
+“Ice cream” na verdade são duas palavras que formam um único substantivo (sorvete). É um
+“compound noun”!!!
+
+9. “It’s” é um pronome possessivo?
+
+Pegadinha que já foi vista em provas anteriores. “Its” é pronome possessivo referente a “it”.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa          26
+        www.estrategiaconcursos.com.br                                                     33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+“It’s” é a contração do pronome pessoal sujeito “It + is” (verbo to be na terceira pessoa do
+singular).
+
+10. A preposição “to” indica finalidade?
+
+Vamos relembrar as preposições for e to:
+
+For :
+
+1. Para indicar finalidade: What is this box for?
+
+2. Objetivo de uma ação quando for seguido de um substantivo: He came over for dinner.
+
+3. Tempo: I have studied English for five hours.
+
+4. Favor ou benefício: He fixed dinner for me.
+
+To:
+
+1.Para indicar transferência de alguém: They are going to home.
+
+2.Transferência de algo: She gave the book to me.
+
+3.Troca de algo: He is going to talk to you.
+
+4. Objetivo de uma ação quando for seguido de um verbo: He came over to have dinner.
+
+…
+
+                                       Grande abraço e bons estudos!
+
+                                                  Rodrigo Perni
+
+                                             www.instagram.com/coachrodrigoperni
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa         27
+        www.estrategiaconcursos.com.br                                                    33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+                          LISTA DE QUESTÕES ESTRATÉGICAS
+
+
+‘Basic human rights’ is a term which refers to those human rights that are generally considered
+most necessary or essential to the wellbeing and dignity of the human person. In concept, when
+basic human rights are guaranteed, they help to assure the primary material and nonmaterial
+needs of human beings, so that they can lead a dignified life. Because of this, these rights are
+given absolute precedence in both national and international law and policy.
+
+There is no universally accepted list of these rights, as they vary somewhat according to different
+cultural contexts. However, they would include, for example, the right to life, food, shelter, and
+medical treatment, freedom from torture, and from cruel, degrading, and inhuman treatment and
+punishment, freedom of religion, freedom of expression, and freedom from slavery. All human
+rights are considered equal, interdependent, interrelated, and indivisible in theory. Nevertheless,
+the term ‘basic human rights’ designates certain human rights that are simply too basic not to be
+respected.
+                                                                                     M. Victor Condé. Basic human rights. In
+                                           A handbook of international human rights terminology. 2nd ed., p. 23-4 (adapted.)
+
+1. (CEBRASPE (CESPE) - Técnico Judiciário (STJ)/Apoio Especializado/Desenvolvimento de
+Sistemas/2018) In the excerpts “they help to assure” and “so that they can lead a dignified life”,
+the pronoun “they” refers to “basic human rights”.
+
+TEXT
+
+Yale Divinity School (YDS) honored James W.C. Pennington, an escapee from slavery who took
+classes at the school in the 1830s, in a series of events Oct. 6 and 7, 2016. The school named a
+classroom in Pennington’s honor, hosted two lectures on his life and legacy, and announced a new
+scholarship and bi-national conference to be held in the coming years.
+Though he sat in on classes, James Pennington was refused formal enrollment in the YDS and was
+barred from speaking in class or borrowing books. Nonetheless, he holds an important place in
+history as the first African American to study at Yale. He went on to serve as pastor of several
+Congregational churches and to become a prominent advocate for the abolition of slavery and for
+international peace.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                        28
+        www.estrategiaconcursos.com.br                                                                                   33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+“I believe that Pennington is a model for all students”, said Gregory Sterling, Dean of YDS.
+Sterling announced a new scholarship to be awarded each year to a Pennington Fellow, with
+preference given to first-year Master of Divinity students, who is studying the African-American
+experience.
+Sterling also considers Pennington as a model of someone who overcame enormous odds with
+great courage, and who demonstrated a level of skill that brought him not only national but
+international acclaim. And he did all of that serving a cause larger than himself.
+
+                                                                               Internet: <http://news.yale.edu> (adapted.)
+
+2. (CEBRASPE (CESPE) - Professor de Nível Superior (Pref SL)/Língua Inglesa/2017) In the text, the
+word “who” refers to
+a) ‘a model’.
+b) ‘students’.
+c) “Gregory Sterling”
+d) “Pennington Fellow”
+e) ‘Pennington’.
+
+TEXT
+
+A compelling case can be made for mandatory audit rotation that auditors who keep the same
+client for too long get excessively cosy with its management. As somebody has put it, “When the
+same incumbent firm has been in place for 100 years, to me that’s not an audit, that’s a joint
+venture.”
+
+Most academic studies have either found no link between the length of a relationship and its
+quality, or determined that longer tenures yield better results, because the accountants have time
+to master the intricacies of clients’ businesses. Obliging companies to solicit bids at regular
+intervals, as Britain does, has shaken up the business: HSBC said in August that it will drop KPMG
+in favour of PwC; on December 2nd Unilever announced that it is making the opposite switch.
+Indeed, the big accounting firms argue that forced rotation would reduce competition by
+preventing the incumbent from bidding.
+
+Proponents counter that the accounting giants, and academics whose research is often financed
+by them, have good reason to resist change. Among the reform’s strongest supporters are smaller
+firms that hope to break the Big Four’s stranglehold.
+
+Yet even the most vocal advocates of mandatory rotation concede that it is no magic bullet.
+Auditors have a conflict of interest at the heart of their business — they are paid by the
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                      29
+        www.estrategiaconcursos.com.br                                                                                 33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+companies they are supposed to assess objectively. Unless that changes, there will be no
+substitute for investors doing their own due diligence.
+
+                                                                                                  Idem (adapted).
+
+3. (CEBRASPE (CESPE) - Analista Legislativo (CAM DEP)/Consultor de Orçamento e Fiscalização
+Financeira/2014) Judge the following item, according to the text above.
+
+In “to me that’s not an audit, that’s a joint venture”, the word “that” refers to the situation
+mentioned before, that is, the same auditing firm being responsible for a client for too long a
+period of time.
+
+TEXT
+
+In 1962, there was a writers’ gathering impressively styled “A Conference of African Writers of
+English Expression”. Despite this rather solemn title, there was something that we tried to do and
+failed — that was to define “African literature”. Was it literature produced in Africa or about
+Africa? Should it be in indigenous African languages or should it include Arabic, English, French,
+Portuguese, Afrikaans, and so on? You cannot cram African literature into a small, neat definition. I
+do not see African literature as one unit but as a group of associated units — the sum of all the
+national and ethnic literatures of Africa. A national literature has a realized or potential audience
+throughout its territory. In other words, a literature that is written in the national language. An
+ethnic literature is available only to one ethnic group within the nation. If you take Nigeria as an
+example, the national literature, as I see it, is the literature written in English; and the ethnic
+literatures are in Hausa, Ibo, Yoruba, Efik, Edo, Ijaw, etc.
+
+Chinua Achebe. The african writer and the english language.
+In: Patrick Williams & Laura Cristman. Colonial discourse and postcolonial theory. New York: Columbia University
+Press, 1994, p. 428-9 (adapted).
+
+4. (CEBRASPE (CESPE) - Professor (Pref São Cristóvão)/Inglês/Educação Básica/2019) A respeito
+do vocabulário e dos aspectos linguísticos do texto, julgue o item seguinte.
+
+In the text, “within” is a preposition meaning outside.
+
+TEXT
+
+Remembrance of things past is often dearest to those who are bored or driven to despair by the
+world around them. To these the contemplation of times gone by brings surcease from current
+burdens too heavy to bear. “Take not away from me” implored the Emperor Julian, world-weary
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                             30
+        www.estrategiaconcursos.com.br                                                                        33
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 01
+
+monarch in another age of disenchantment, “this mad love for that which no longer is. That which
+has been is more splendidly beautiful than all that is…” To others, concerned as watchers and
+movers with the challenge of today and the promise or menace of tomorrow, the tale of many
+yesterdays, reconstructed by the history and the science of living men and women, has another
+meaning.
+
+By revealing what has gone before, it illumines the act of the human adventure now being played
+and suggests the pattern of acts to come. The drama of earthborn and earthbound humanity,
+despite all its crises and intermissions, is a continuous story. All the characters are prisoners of
+time. All the problems of the now are forever shaped by the experiences of a then which extends
+back in unbroken sequence to the origins of life. Each generation has freedom to choose among
+alternative designs for destiny, and opportunity to win some measure of mastery over its fate,
+only to the extent of its comprehension of where it stands in the cavalcade of years, decades,
+centuries, and millennia ticked off by the spinning planet.
+
+Frederick L. Schuman. International politics: the destiny of the Western state system. New York: McGraw-Hill, 1948, p. 1 (adapted).
+
+5. (CEBRASPE (CESPE) - Diplomata (Terceiro Secretário)/2011) The words “crises” and
+“millennia”, as well as theses and fulcra, can only be found in their plural forms.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                              31
+         www.estrategiaconcursos.com.br                                                                                         33
+
+                                         
+
+
+---
+
+ Rodrigo Perni
+ Aula 01
+
+Gabarito
+
+     1. ERRADO
+     2. Letra D
+     3. CORRETO
+     4. ERRADO
+     5. ERRADO
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   32
+       www.estrategiaconcursos.com.br                                              33
+
+                                    
+
+
+---
+
+---

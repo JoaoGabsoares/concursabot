@@ -1,0 +1,495 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_021_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: COMPRAS
+---
+
+# COMPRAS
+
+---
+
+---
+
+COMPRAS
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - IX
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO AOCP/ITEP-RN/2021) Quais são os atributos essenciais de uma gestão de
+     compras eficiente?
+     A) Fornecedores, agilidade e segurança.
+     B) Planejamento, cronograma e controle.
+     C) Efetivo suprimento, quantidade e prazo.
+     D) Preço econômico, qualidade e celeridade.
+     E) Cliente interno, relacionamento e processo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO AOCP/ITEP-RN/2021) Quais são os atributos essenciais de uma gestão de
+     compras eficiente?
+     A) Fornecedores, agilidade e segurança.
+     B) Planejamento, cronograma e controle.
+     C) Efetivo suprimento, quantidade e prazo.
+     D) Preço econômico, qualidade e celeridade.
+     E) Cliente interno, relacionamento e processo.
+     GABARITO - D
+       A gestão de compras deve buscar sempre a qualidade especificada pelo
+       usuário, entregue no momento solicitado e tudo isso a um preço competitivo.
+       Essa na verdade é uma citação direta a Fenili: “Podemos dizer que uma
+       aquisição é bem conduzida quando consegue um equilíbrio entre três atributos
+       que poucas vezes são compatíveis: celeridade (rapidez), qualidade e preço
+       econômico”. É o famoso rápido, bom e barato!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRFEITO-4/2021) Cabe à área de compras de uma empresa realizar a
+     elaboração das estatísticas de consumo por materiais, bem como direcionar os centros de
+     custos para a previsão das compras.
+     A) CERTO
+     B) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRFEITO-4/2021) Cabe à área de compras de uma empresa realizar a
+     elaboração das estatísticas de consumo por materiais, bem como direcionar os centros de
+     custos para a previsão das compras.
+     A) CERTO
+     B) ERRADO
+     GABARITO - ERRADA
+
+       Essas são atribuições das áreas de estoque ou marketing (estatísticas de consumo) e mesmo de contabilidade
+       (centros de custos), mas não da área de compras.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRP-14 MS/2021) A gestão do estoque envolve o atendimento das
+     solicitações de compra de materiais destinadas aos diversos órgãos que compõem uma
+     empresa e, principalmente, das necessidades de reposição dos estoques planejados de
+     acordo com as quantidades e os prazos por ela fixados.
+     A) CERTO
+     B) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Ciclo de Compras
+       Inclui a entrega, recebimento e encerramento                                       Preparação:
+                                                                                            receber
+                                                                                          requisições
+
+                                                                                                                    Planejamento:
+                                                                Recebimento                                           condições
+                                                                      e                                                gerais e
+                                                                encerramento                                           possíveis
+                                                                                                                    fornecedores
+
+                                                           Controle de
+                                                                                                                             Seleção:
+                                                             entrega:
+                                                                                                                          Definição dos
+                                                           acompanha-
+                                                                                                                          fornecedores
+                                                              mento
+
+                                                                                                        Concorrência:
+                                                                           Contratação:
+                                                                                                        avaliação das
+                                                                           emissão dos
+                                                                                                         propostas e
+                                                                             pedidos
+                                                                                                         negociação
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRP-14 MS/2021) A gestão do estoque envolve o atendimento das
+     solicitações de compra de materiais destinadas aos diversos órgãos que compõem uma
+     empresa e, principalmente, das necessidades de reposição dos estoques planejados de
+     acordo com as quantidades e os prazos por ela fixados.
+     A) CERTO
+     B) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRMV-AP/2021) Na aquisição de materiais, a estratégia de horizontalização
+     tem como desvantagens o engessamento da organização e a necessidade de maiores
+     investimentos.
+     A) CERTO
+     B) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Verticalização x Horizontalização
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRMV-AP/2021) Na aquisição de materiais, a estratégia de horizontalização
+     tem como desvantagens o engessamento da organização e a necessidade de maiores
+     investimentos.
+     A) CERTO
+     B) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (CEBRASPE/ALECE/2021) No que concerne ao gerenciamento de compras, assinale a
+     opção correta.
+     A) A escolha do transportador é incumbência do comprador no sistema CIF.
+     B) A descentralização de compras facilita o controle de materiais e estoque.
+     C) O controle de qualidade realiza inspeção dos produtos acabados, não guardando
+     interface com a seção de compras.
+     D) A manutenção de estoques mínimos é atividade típica da seção de compras.
+     E) Um número mínimo de três cotações para encorajar novos competidores é realizado
+     no sistema de preço objetivo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (CEBRASPE/ALECE/2021) No que concerne ao gerenciamento de compras, assinale a
+     opção correta.
+     A) A escolha do transportador é incumbência do comprador no sistema CIF.
+     B) A descentralização de compras facilita o controle de materiais e estoque.
+     C) O controle de qualidade realiza inspeção dos produtos acabados, não guardando
+     interface com a seção de compras.
+     D) A manutenção de estoques mínimos é atividade típica da seção de compras.
+     E) Um número mínimo de três cotações para encorajar novos competidores é realizado
+     no sistema de preço objetivo.
+     GABARITO - D
+
+      Não só a área de compras, mas todos os atores do processo de gestão de materiais devem sempre se preocupar em
+      buscar o menor nível possível de imobilização de capital em estoques.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (MARINHA/CP-CAP/2021) Durante a aquisição de recursos materiais, o sinal da
+     demanda é a maneira pela qual a informação chega à área de compras para desencadear o
+     processo de aquisição. Dentre as formas mais comuns, a que consiste em um vendedor
+     visitar os clientes e verificar in loco se está faltando mercadorias no estoque para que ele,
+     em comum acordo com o cliente, tire o pedido, corresponde:
+     A) ao caixeiro-viajante.
+     B) ao sistema Just-in-Time.
+     C) à solicitação de compras.
+     D) ao contrato de fornecimento.
+     E) ao sistema de reposição periódica.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (MARINHA/CP-CAP/2021) Durante a aquisição de recursos materiais, o sinal da
+     demanda é a maneira pela qual a informação chega à área de compras para desencadear o
+     processo de aquisição. Dentre as formas mais comuns, a que consiste em um vendedor
+     visitar os clientes e verificar in loco se está faltando mercadorias no estoque para que ele,
+     em comum acordo com o cliente, tire o pedido, corresponde:
+     A) ao caixeiro-viajante.
+     B) ao sistema Just-in-Time.
+     C) à solicitação de compras.
+     D) ao contrato de fornecimento.
+     E) ao sistema de reposição periódica.
+     GABARITO - A
+       Essa é a antiga definição de caixeiro viajante, ou seja, um comprador ou
+       representante de vendas, empregado de determinada organização e que viaja
+       geralmente por conta dela, encarregado dos negócios de compra e venda.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (ÁPICE/DPE-PB/2021) Com relação ao modelo de administração de compras, julgue os itens a
+     seguir:
+     I. A seleção de fornecedores, uma atividade secundária do processo de compras, não afeta diretamente
+     a qualidade do produto e do serviço final.
+     II. Para maior eficácia no processo de compras, o setor de compras deve manter arquivos com registros
+     da vida dos produtos, desde o momento das cotações até as entradas da mercadoria na empresa
+     compradora.
+     III. Os registros de compra, de preço e de fornecedores constituem etapas do processo de compras de
+     uma empresa.
+     Assinale a alternativa correta.
+     A) Nenhum item está certo.
+     B) Apenas o item I está certo.
+     C) Apenas os itens I e III estão certos.
+     D) Apenas os itens II e III estão certos.
+     E) Todos os itens estão certos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Ciclo de Compras
+       Inclui a entrega, recebimento e encerramento                                       Preparação:
+                                                                                            receber
+                                                                                          requisições
+
+                                                                                                                    Planejamento:
+                                                                Recebimento                                           condições
+                                                                      e                                                gerais e
+                                                                encerramento                                           possíveis
+                                                                                                                    fornecedores
+
+                                                           Controle de
+                                                                                                                             Seleção:
+                                                             entrega:
+                                                                                                                          Definição dos
+                                                           acompanha-
+                                                                                                                          fornecedores
+                                                              mento
+
+                                                                                                        Concorrência:
+                                                                           Contratação:
+                                                                                                        avaliação das
+                                                                           emissão dos
+                                                                                                         propostas e
+                                                                             pedidos
+                                                                                                         negociação
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (ÁPICE/DPE-PB/2021) Com relação ao modelo de administração de compras, julgue os itens a
+     seguir:
+     I. A seleção de fornecedores, uma atividade secundária do processo de compras, não afeta diretamente
+     a qualidade do produto e do serviço final.
+     II. Para maior eficácia no processo de compras, o setor de compras deve manter arquivos com registros
+     da vida dos produtos, desde o momento das cotações até as entradas da mercadoria na empresa
+     compradora.
+     III. Os registros de compra, de preço e de fornecedores constituem etapas do processo de compras de
+     uma empresa.
+     Assinale a alternativa correta.
+     A) Nenhum item está certo.
+     B) Apenas o item I está certo.
+     C) Apenas os itens I e III estão certos.
+     D) Apenas os itens II e III estão certos.
+     E) Todos os itens estão certos.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (FAU UNICENTRO/FASP/2021) O setor de compra ou suprimentos como é
+     denominado atualmente, tem responsabilidade preponderante nos resultados de uma
+     empresa em face de sua atuação para suprir a organização com os recursos materiais com
+     vistas a seu desempenho e atender às necessidades de mercado. Assim, são objetivos da
+     área de compras, EXCETO:
+     A) Permitir a continuidade de suprimentos para o perfeito fluxo de produção da
+     empresa.
+     B) Comprar materiais e produtos aos mais altos custos, dentro das especificações
+     predeterminadas em qualidade, prazos e preços.
+     C) Evitar desperdício e obsolescência de meio de avaliação e percepção de mercado.
+     D) Manter parceria com os fornecedores para crescer junto com a empresa.
+     E) Coordenar os fluxos de materiais com o mínimo de investimento em estoques e
+     adequando cumprimento dos programas.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (FAU UNICENTRO/FASP/2021) O setor de compra ou suprimentos como é
+     denominado atualmente, tem responsabilidade preponderante nos resultados de uma
+     empresa em face de sua atuação para suprir a organização com os recursos materiais com
+     vistas a seu desempenho e atender às necessidades de mercado. Assim, são objetivos da
+     área de compras, EXCETO:
+     A) Permitir a continuidade de suprimentos para o perfeito fluxo de produção da
+     empresa.
+     B) Comprar materiais e produtos aos mais altos custos, dentro das especificações
+     predeterminadas em qualidade, prazos e preços.
+     C) Evitar desperdício e obsolescência de meio de avaliação e percepção de mercado.
+     D) Manter parceria com os fornecedores para crescer junto com a empresa.
+     E) Coordenar os fluxos de materiais com o mínimo de investimento em estoques e
+     adequando cumprimento dos programas.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (SELECON/AMAZUL/2022) Follow up é o processo de acompanhamento de cada
+     pedido e de assegurar que ele pode ser atendido em termos de:
+     A) qualidade e preço
+     B) quantidade e preço
+     C) preço e data de entrega
+     D) quantidade e data de entrega
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Ciclo de Compras
+       Inclui a entrega, recebimento e encerramento                                       Preparação:
+                                                                                            receber
+                                                                                          requisições
+
+                                                                                                                    Planejamento:
+                                                                Recebimento                                           condições
+                                                                      e                                                gerais e
+                                                                encerramento                                           possíveis
+                                                                                                                    fornecedores
+
+                                                           Controle de
+                                                                                                                             Seleção:
+                                                             entrega:
+                                                                                                                          Definição dos
+                                                           acompanha-
+                                                                                                                          fornecedores
+                                                              mento
+
+                                                                                                        Concorrência:
+                                                                           Contratação:
+                                                                                                        avaliação das
+                                                                           emissão dos
+                                                                                                         propostas e
+                                                                             pedidos
+                                                                                                         negociação
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (SELECON/AMAZUL/2022) Follow up é o processo de acompanhamento de cada
+     pedido e de assegurar que ele pode ser atendido em termos de:
+     A) qualidade e preço
+     B) quantidade e preço
+     C) preço e data de entrega
+     D) quantidade e data de entrega
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

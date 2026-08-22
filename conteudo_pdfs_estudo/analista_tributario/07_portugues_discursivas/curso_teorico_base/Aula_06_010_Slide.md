@@ -1,0 +1,956 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 06_010_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: PORTUGUÊS EXTENSIVO
+---
+
+# PORTUGUÊS EXTENSIVO
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                      Profª. Adriana Figueiredo
+
+                 
+
+
+---
+
+PORTUGUÊS EXTENSIVO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+VOZ PASSIVA SINTÉTICA
+
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+VOZ PASSIVA SINTÉTICA
+
+
+Voz verbal é a relação que ocorre entre sujeito e verbo.
+
+São três as vozes do verbo – Ativa, Passiva e Reflexiva.
+
+
+1) Voz Ativa: sujeito agente, pratica a ação verbal.
+
+Ex.: Todos compreenderam a questão.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+2) Voz Passiva: Sujeito paciente, recebe a ação verbal.
+
+a) Analítica: Ser, Estar ou Ficar + Particípio.
+
+Ex. A questão foi compreendida por todos.
+
+
+O alerta foi dado.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+b) Sintética ou pronominal: partícula SE (=apassivadora) + verbo transitivo (direto
+ou direto e indireto). Equivale a uma passiva analítica.
+
+Ex.: Vende-se terreno. / Vendem-se terrenos.
+
+
+Deu-se às poesias o nome de Primeiros Cantos.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+         CONJUNÇÃO                                   Se quiseres, voltarei mais tarde.
+
+          REFLEXIVO                                   Pedi a ela que se afastasse da
+                                                                  cadeira.
+SE
+     PARTE IINTEGRANTE DO
+             VERBO                                   Queixavam-se da vida sem razão.
+
+
+          ÍNDICE DE
+     INDETERMINAÇÃO DO
+                                                     Trabalha-se muito naquela seção.
+           SUJEITO
+                          Prof. Adriana Figueiredo
+              
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                           MULTIBANCAS
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+01. IBADE - 2020 - Câmara de Ji-Paraná - RO - Técnico de Informática
+
+Em “Consertou-se o computador do laboratório.”, o verbo está na voz:
+
+
+A) ativa.
+
+B) reflexiva.
+
+C) reflexiva recíproca.
+
+D) passiva analítica.
+
+E) passiva sintética.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+02. FGV - COMPESA - Auxiliar de Saneamento
+
+"Essas duas tipologias urbanísticas somam cerca da metade das moradias urbanas
+brasileiras. São muito diversificadas, mas, em geral, são lugares com pouca ou
+nenhuma infraestrutura, com escassez ou inexistência de serviços públicos,
+inclusive os de segurança e de regulação.
+
+
+Assim, criam-se condições para que essas áreas sejam tomadas por interesses
+marginais, muitas vezes com dominação territorial armada, que impõem jugo
+discricionário às populações moradoras".
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+02. FGV - COMPESA - Auxiliar de Saneamento
+
+Em relação ao fragmento acima, assinale a opção em que os dois casos
+apresentam exemplos de voz passiva.
+
+
+A) "são muito diversificadas" e "sejam tomadas".
+
+B) "criam-se condições" e "impõem".
+
+C) "impõem" e "sejam tomadas".
+
+D) "sejam tomadas" e "criam-se condições".
+
+E) "criam-se condições" e "são muito diversificadas".
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+03. FGV - TJ-RJ - Analista Judiciário
+
+
+TEXTO 1 - CONSTRUIR A REALIDADE
+
+José Antonio Marina
+
+Todos queremos viver em liberdade e procuramos construir caminhos para
+alcançar esse propósito. Se um problema atravessa nossas vidas, nos sentimos
+impossibilitados de estar plenamente livres, pois há limitações e dificuldades de
+atuar. Ficamos em uma rua sem saída.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+03. FGV - TJ-RJ - Analista Judiciário
+
+Felizmente, a inteligência nos permite encontrar soluções e nos possibilita criar
+alternativas. O pensamento liberta! Não nos contentamos em conhecer, não nos
+basta possuir, não somos seres passivos. Nossos projetos buscam conectar-se à
+realidade e ampliá-la. Por exemplo, milhares de pessoas leem livros de autoajuda,
+pois desejam mudar sua própria realidade, ainda que os resultados sejam
+pequenos. Então, por que continuam lendo? Porque a simples ideia de que “se
+pode” mudar enche o coração de esperança.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+03. FGV - TJ-RJ - Analista Judiciário
+
+Em muitas ocasiões, nos sentimos presos à realidade, sem poder agir, limitados
+pelas contingências da vida. Felizmente, a inteligência nos diz que, dentro de
+certos limites - a morte é um deles -, a realidade não está totalmente decidida;
+está esperando que acabemos de defini-la. A realidade não é bela nem feia, nem
+justa nem injusta, nem exultante nem deprimente, não há maniqueísmo. A vida é
+um conjunto de possibilidades que devem ser construídas. Por isso, nada é
+definitivo, tudo está por vir. As coisas adquirem propriedades novas quando
+vamos em direção a elas com novos projetos.
+
+Observemos essa explosão do real em múltiplas possibilidades. Cada coisa é uma
+fonte de ocorrências, cada ponto se converte na intersecção de infinitas retas, ou
+de infinitos caminhos. Cada vez mais se desfazem os limites entre o natural e o
+artificial. 4
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+03. FGV - TJ-RJ - Analista Judiciário
+
+A frase do texto 1 que se encontra na voz passiva é:
+
+
+A) “nos sentimos impossibilitados de estar plenamente livres”;
+
+B) “não nos basta possuir”;
+
+C) “então, por que continuam lendo?”;
+
+D) “nos sentimos presos à realidade”;
+
+E) “cada vez mais se desfazem os limites”.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+04. FGV - IBGE - Recenseador
+
+A frase abaixo (texto 4) que mostra uma voz verbal diferente das demais é:
+
+A) “...desestabilizando completamente o ecossistema”;
+
+B) “...afloram as várias atividades humanas que as provocaram, ou estão
+provocando”;
+
+C) “Dentre essas ações, as principais talvez sejam...”;
+
+D) “... todos esses animais, de uma forma ou de outra, rendem expressivos
+lucros”;
+
+E) “Atualmente, quando se mencionam ‘espécies em extinção’...”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+05. VUNESP - 2018 - PC-SP - Agente de Telecomunicações Policial
+
+Na passagem “... fica faltando dizer que se encerrou a escravidão negra...”, o
+pronome “se” é empregado indicando que o sujeito é paciente da ação verbal,
+como ocorre também em:
+
+A) Querem saber se serão pagos pelo trabalho prestado.
+
+B) Os homens não se deixam escravizar e buscam seus direitos.
+
+C) Ali se trabalha como escravo, em péssimas condições.
+
+D) Lamentavelmente, ainda hoje se escravizam pessoas.
+
+E) Todos se sentem submetidos a condições degradantes.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+06. Instituto Consulplan - 2020 - Câmara de Arcos - MG - Contador
+
+Há ocorrência de voz passiva em:
+
+A) “Algoritmos fixos usados tornam-se dinâmicos […].”
+
+B) “[…] ainda situam-se no campo das possibilidades.”
+
+C) “[...] levantam-se dúvidas sobre ‘carros automáticos’ [...].”
+
+D) “[...] passa-se de momentos de euforia para momentos de retração.”
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+07. CESGRANRIO - Petrobras - Geofísico Júnior - Geologia
+
+A construção de voz passiva sintética pode ser encontrada nas seguintes frases,
+EXCETO em:
+
+A) Com o aumento da dívida pública, gerou-se enorme desgaste na credibilidade
+do governo americano.
+
+
+B) Na luta por resistir à crise econômica, combate-se o desemprego em todos os
+países, mesmo nas grandes potências.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+07. CESGRANRIO - Petrobras - Geofísico Júnior - Geologia
+
+
+C) Para conter o excesso de globalização, precisa-se de uma série de medidas
+protecionistas rígidas e abrangentes.
+
+
+D) Nas últimas décadas, perde-se uma batalha comercial a cada dia, devido a
+barreiras econômicas e subsídios fiscais.
+
+
+E) Nos dias atuais, para resistir à redistribuição do poder, provoca-se uma crise
+artificial de proporções assustadoras.
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+08. FUNDATEC - 2021 - CRA-RS - Fiscal
+
+Assinale a alternativa na qual NÃO haja o emprego de voz passiva.
+
+A) “multiplicam-se nas redes as postagens” (l. 01).
+
+B) “O home office, até então não tão comum no Brasil, cristalizou-se” (l. 18-19).
+
+C) “Toda reunião deve ter uma decisão a ser tomada e um tomador de decisão”. (l.
+31).
+
+D) “A maior parte dos assuntos a serem discutidos” (l. 33).
+
+E) “Certifique-se de que todos que estão no invite” (l. 37).
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                       REESCRITURA NA VOZ
+                        PASSIVA SINTÉTICA
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                 EXERCÍCIOS DE FIXAÇÃO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+I. Nas frases a seguir, transforme a voz passiva sintética em analítica.
+
+1) Na cidade de Atenas, considerava-se cidadão qualquer ateniense maior de 18
+anos.
+
+2) Abriam-se as flores naquela primavera.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+3) As sociedades indígenas dividiam-se de forma igualitária
+
+4) A história do acre começou a se definir em 1985.
+
+5) Se fossem engraçados, certamente se aplaudiriam os palhaços no circo.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+II. Nas frases a seguir, transforme a voz passiva sintética em ativa.
+
+
+1) Recebeu-se o projeto com ceticismo.
+
+2) Esperavam-se resultados mais animadores.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+3) No nosso país, deveriam instituir-se leis mais rigorosas.
+
+4) Recusou-se o convite.
+
+5) Na idade média, usavam-se tochas para iluminação.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+III. Nas frases a seguir, passe para a voz passiva sintética.
+
+
+1) Contaram a verdade.
+
+2) Aqui são dadas aulas inesquecíveis.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+3) Esconderam armas de destruição maciça.
+
+4) O projeto foi recebido com ceticismo.
+
+5) Os presos eram proibidos de usar barbas e cabelos longo.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+09. FCC - 2019 - SABESP - Estagiário
+
+Quando se discutiam suas ideias com entusiasmo.
+
+A frase acima está construída na voz passiva sintética. Transposta para a voz
+passiva analítica, a frase assume a seguinte redação: Quando suas ideias
+
+A) foram discutidas com entusiasmo.
+B) são discutidas com entusiasmo.
+C) eram discutidas com entusiasmo.
+D) fossem discutidas com entusiasmo.
+E) seriam discutidas com entusiasmo.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+10. FCC - TRT - 23ª REGIÃO (MT) - Analista Judiciário
+
+Mas a grandeza das manhãs se media pela quantidade de mulungus...
+(3°parágrafo)
+
+Na frase acima, alterando-se de voz passiva sintética para analítica, a forma verbal
+resultante é:
+
+A) era medida
+B) eram medidas
+C) seria medida
+D) tinha sido medida
+E) tinham sido medidos
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+11. FGV - AL-BA - Técnico de Nível Médio
+“Acumularam-se violências em todas as áreas da vida”.
+
+Essa frase do texto está construída em voz passiva pronominal (com o pronome se
+Assinale a opção que indica a forma correspondente da voz passiva com auxiliar
+(com o ). verbo ser).
+
+A) Eram acumuladas
+B) Foram acumuladas
+C) São acumuladas
+D) Serão acumuladas
+E) Seriam acumuladas
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+12. IBADE - 2020 - Prefeitura de Linhares - ES - Professor
+
+A oração “E males de amor curam-se com o próprio amor” (3º §) está expressa na
+voz passiva pronominal, concordando o verbo com o sujeito passivo “males de
+amor”. Das alterações feitas abaixo, aquela em que a referida oração está
+expressa na voz ativa é:
+
+A) E males de amor são curados com o próprio amor.
+B) E com o próprio amor curam males de amor.
+C) E podem ser curados males de amor pelo próprio amor.
+D) E curam-se males de amor por meio do próprio amor.
+E) E males de amor com o próprio amor são curados.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+13. VUNESP - 2019 - TJ-SP - Enfermeiro Judiciário
+
+Observe as passagens do texto:
+
+
+•Um estudo realizado por pesquisadores do Porto concluiu que a intervenção de
+enfermeiros especialistas em saúde mental... (1º parágrafo)
+
+•Os resultados indicam um “efeito positivo da intervenção psicoterapêutica da
+enfermagem”, realizada por um enfermeiro especialista em saúde mental,
+registrando-se uma clara diminuição dos níveis de ansiedade... (3º parágrafo)
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+13. VUNESP - 2019 - TJ-SP - Enfermeiro Judiciário
+
+Transpondo-se as orações destacadas para a voz ativa, obtêm-se, correta e
+respectivamente, as seguintes reescritas:
+
+A) Pesquisadores do Porto realizaram um estudo que... / ... e registram uma clara
+diminuição dos níveis de ansiedade...
+
+B) Pesquisadores do Porto tinham realizado um estudo que... / ... e tem sido
+registrado uma clara diminuição dos níveis de ansiedade...
+
+C) Um estudo, que foi realizado por pesquisadores do Porto que... / ... e registra
+uma clara diminuição dos níveis de ansiedade...
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+13. VUNESP - 2019 - TJ-SP - Enfermeiro Judiciário
+
+D) Pelos pesquisadores do Porto realizaram um estudo que... / ... e tem sido
+registrada uma clara diminuição dos níveis de ansiedade...
+
+E) Realizou-se por pesquisadores do Porto um estudo que... / ... e registram-se
+uma clara diminuição dos níveis de ansiedade...
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+14. INSTITUTO AOCP - 2020 - Prefeitura de Recife - PE - Assistente Social
+Ao passar a oração “Escuto os medos” para a voz passiva sintética, tem-se
+
+
+A) escutam-se os medos.
+
+B) escuta-se os medos.
+
+C) os medos se escutam.
+
+D) os medos são escutados.
+
+E) escutados são os medos.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+15. FCC - PC-AP
+Houve adequada transposição do segmento sublinhado para a voz passiva no
+seguinte caso:
+
+
+A) O gênero da crônica tem movido escritores e leitores = movem-se
+
+B) É como se o espelhinho pudesse revelar a imagem-síntese = pudesse revelar-se
+
+C) Jovens cronistas vêm demonstrando muita garra = é demonstrada
+
+D) No espaço de uma crônica pode caber muito = têm podido
+
+E) Esse mestre maior dotou a crônica de uma altura tal = foi dotado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+16. IBADE - 2018 - Prefeitura de Rio Branco - AC - Professor
+Se a frase “Um pouco mais adiante, junto às geladeiras de laticínios, são
+guardados os ovos.” for passada para a voz passiva sintética, o verbo deverá
+assumir a forma:
+
+A) guardavam-se
+
+B) guardam-se
+
+C) guardou-se
+
+D) guardar-se-ão
+
+E) guardaram-se
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+17. FCC - TJ-AP - Analista Judiciário
+A expressão “política indigenista” foi utilizada por muito tempo como sinônimo de
+toda e qualquer ação política governamental que...
+
+Transpondo-se a frase acima para a voz passiva sintética, a forma verbal
+resultante será
+
+A) utilizaram-se.
+B) utiliza-se.
+C) utilizaram.
+D) utilizou-se.
+E) utilizamos.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+18. FCC - TRF - 3ª REGIÃO - Analista Judiciário
+
+Último parágrafo
+
+Enquanto o carro geme em curvas que já nem poderíamos qualificar como
+“cabeças de alfinete”, de tal modo se sucedem em espiral, por entre um nevoeiro
+que imita a alta montanha de outros climas, posso examinar à vontade as árvores
+e as plantas estendendo-se perante o meu olhar como espécimes de museu.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+18. FCC - TRF - 3ª REGIÃO - Analista Judiciário
+A alteração da voz do verbo poder, nas duas vezes em que ocorre no último
+parágrafo, deverá resultar nas seguintes formas, respectivamente:
+
+
+A) se poderia − se pode
+
+B) poder-se-ia − podem-se
+
+C) poderiam-se − pode-se
+
+D) se poderiam − podem-se
+
+E) se poderiam − se pode
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                                 CESPE
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+19. CESPE / CEBRASPE - 2021 - TCE-RJ - Analista de Controle Externo
+
+Sem prejuízo da correção gramatical do texto, o termo “criou-se” (l.24) poderia ser
+substituído pela locução foi criado.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+20. CESPE - 2020 - MPE-CE - Técnico Ministerial
+
+O termo “Desenvolveram-se” (l.5) poderia ser substituído pela locução Foram
+desenvolvidos, sem prejuízo do sentido e da correção gramatical do texto.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+21. CESPE - ANTAQ
+
+O trecho “Criou-se uma forma de salvação feminina a partir basicamente de três
+modelos femininos” (l. 28 e 29) poderia ser reescrito, com correção gramatical e
+sem prejuízo da informação prestada, da seguinte forma: Uma forma de salvação
+feminina foi criada a partir, basicamente, de três modelos femininos.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+22. CESPE / CEBRASPE - MPU - Técnico do MPU
+
+Caso se substituísse “iniciou-se” (l.14) por foi iniciada, a correção gramatical do
+período seria prejudicada.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+23. CESPE - 2008 - PC-TO - Delegado de Polícia
+
+A locução verbal “foram          implementados” (L.5) corresponde à forma
+implementaram-se.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+24. CESPE - SEDU-ES - Professor
+
+Prejudica-se a correção gramatical do período ao se substituir o segmento “é
+realizado" (l. 20 ) por realiza-se.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+25. CESPE - Correios - Agente de Correios
+
+O texto permaneceria correto se a expressão “Foi estabelecido” (l.8) fosse
+substituída por Estabeleceram-se.
+
+Certo
+Errado
+Profª Adriana Figueiredo               QUESTÃO ADAPTADA
+                              
+
+
+---
+
+26. CESPE - SEGESP-AL - Técnico Forense
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+26. CESPE - SEGESP-AL - Técnico Forense
+
+As locuções verbais “foram coletadas” (l.8) e “foram analisados” (l.14) poderiam
+ser substituídas, sem prejuízo para a correção gramatical e o sentido do texto, por
+coletou-se e analisou-se, respectivamente.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+27. CESPE / CEBRASPE - IBAMA - Analista Ambiental
+
+Em “Estima-se” (L.5), há uma estrutura de voz passiva que pode ser substituída
+por Eram estimados, sem alterações na correção e na coerência do período.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+28. CESPE / CEBRASPE - TCU - Analista de Controle Externo
+
+Por estar empregada como uma forma de voz passiva, a locução verbal "foi
+cunhado" (.1) corresponde a cunhou-se e por esta forma pode ser substituída, sem
+prejuízo para a coerência ou para a correção gramatical do texto.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+29. CESPE - IPAJM - Contador
+
+Passando-se a frase “restaura as franquias legais” (l.5) para a voz passiva
+pronominal, obtém-se, segundo as normas da escrita padrão: restaura-se as
+franquias legais.
+
+Certo
+Errado
+Profª Adriana Figueiredo                QUESTÃO ADAPTADA
+                               
+
+
+---
+
+30. CESPE - TRE-BA
+
+A correção gramatical e o sentido original do texto seriam mantidos caso se
+substituísse “foi adotada” (l.1) por se adotou.
+
+Certo
+Errado
+Profª Adriana Figueiredo            QUESTÃO ADAPTADA
+                           
+
+
+---
+
+31. CESPE - Instituto Rio Branco - Diplomata
+
+Comprometer-se-ia o sentido original do período situado entre as linhas 3 e 6 ,
+caso se substituísse a construção na voz pas s iva analítica " à espera de serem
+reveladas ou descobertas, respeitadas ou toleradas" (L.5 -6 ) pela passiva
+pronominal correspondente.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+Obrigada
+                                        Profª. Adriana Figueiredo
+
+   
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                      Profª. Adriana Figueiredo
+
+                 
+
+
+---
+
+---

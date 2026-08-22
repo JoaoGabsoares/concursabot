@@ -1,0 +1,299 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 04_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+QUESTÕES COMENTADAS
+BANCA CEBRASPE
+
+COMPETÊNCIA TRIBUTÁRIA
+                                            Prof. Fábio Dutra
+
+       
+
+
+---
+
+CEBRASPE/ISS-Cuiabá/2024
+ À luz do disposto no CTN, assinale a opção correta a respeito do instituto da delegação
+no âmbito do direito tributário.
+a) A delegação das funções de arrecadação e fiscalização dos tributos não é passível de
+revogação.
+b) É vedado cometimento da função de arrecadação de tributo a pessoa jurídica de
+direito privado.
+c) É possível a delegação da competência tributária desde que realizada em favor de
+pessoa jurídica de direito público.
+d) Admite-se a delegação a pessoa jurídica de direito público das funções de executar
+atos ou decisões administrativas em matéria tributária.
+e) Admite-se a delegação a pessoas jurídica de direito público das funções de arrecadar
+ou fiscalizar tributos, o que não compreende as garantias e os privilégios processuais de
+que goza o ente público delegante.
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/FINEP/2024
+A respeito da competência tributária, assinale a opção correta, considerando a
+jurisprudência dos tribunais superiores e o disposto no Código Tributário Nacional (CTN).
+a) A competência tributária é delegável, mediante convênio, a pessoas jurídicas de
+direito público, ficando estas investidas, inclusive, do poder de legislar sobre o tributo
+objeto da delegação.
+b) Eventual revogação da delegação da competência tributária por prazo determinado só
+produzirá efeitos se ratificada pela pessoa jurídica de direito público delegatária.
+c) Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas
+jurídicas de direito público pertencem à competência legislativa daquela a que tenham
+sido atribuídos.
+
+Direito Tributário
+Prof. Fábio Dutra
+                                                                                 @ProfFabioDutra
+                              
+
+
+---
+
+CEBRASPE/FINEP/2024
+d) O não exercício da competência tributária pelo município autoriza o seu exercício pelo
+estado-membro em que aquele se localiza, visto que a Constituição Federal de 1988 (CF)
+prescreve o dever fundamental de pagar tributos.
+e) A concessão de isenção pelo ente competente, no caso de tributos cuja receita seja
+distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público, depende
+da anuência destas, sob pena de ofensa ao pacto federativo.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/SEFAZ-AC/2024
+A competência tributária residual
+
+a) pode ser exercida por meio de qualquer espécie tributária.
+b) é exercida pela União por meio de lei complementar e de forma não cumulativa.
+c) é exercida pelos municípios no âmbito de sua competência residual local.
+d) não pode ter a mesma alíquota de outro imposto.
+e) pode ser exercida mediante lei ordinária ou medida provisória.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                               @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/FINEP/2024
+A respeito da competência tributária, assinale a opção correta, considerando a jurisprudência
+dos tribunais superiores e o disposto no Código Tributário Nacional (CTN).
+a) A competência tributária é delegável, mediante convênio, a pessoas jurídicas de direito
+público, ficando estas investidas, inclusive, do poder de legislar sobre o tributo objeto da
+delegação.
+b) Eventual revogação da delegação da competência tributária por prazo determinado só
+produzirá efeitos se ratificada pela pessoa jurídica de direito público delegatária.
+c) Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de
+direito público pertencem à competência legislativa daquela a que tenham sido atribuídos.
+d) O não exercício da competência tributária pelo município autoriza o seu exercício pelo
+estado-membro em que aquele se localiza, visto que a Constituição Federal de 1988 (CF)
+prescreve o dever fundamental de pagar tributos.
+e) A concessão de isenção pelo ente competente, no caso de tributos cuja receita seja
+distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público, depende da
+anuência destas, sob pena de ofensa ao pacto federativo.
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito: Letra                                                  @ProfFabioDutra
+                                       
+
+
+---
+
+CEBRASPE/ DATAPREV/2023
+No que diz respeito à atribuição de competência tributária, a norma proíbe que o ente
+competente transfira funções de arrecadação de tributos ao setor privado.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                              @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/PREF. FORTALEZA/2023
+A competência tributária é a aptidão para exigir o tributo, sendo delegável inclusive para
+pessoas privadas.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/ TCERJ/2023
+As funções de arrecadar ou fiscalizar tributos e de executar leis, serviços, atos ou
+decisões administrativas em matéria tributária são delegáveis a uma pessoa jurídica de
+direito privado, desde que o ente público renuncie expressamente a esta função nos
+termos do Código Tributário Nacional, porém tal atribuição pode ser revogada a qualquer
+momento por quem a conceder.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                                @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/PGFN/2023
+Julgue os itens subsequentes, a respeito da competência tributária da União, com base no
+Código Tributário Nacional (CTN) e na jurisprudência do STF.
+I Apesar de a instituição do imposto sobre grandes fortunas competir à União, o não exercício
+da competência constitucional autoriza os estados, mediante convênio, a instituir o tributo a
+fim de concretizar os valores sociais da CF.
+II A concessão de incentivos, benefícios e isenções fiscais de impostos cuja arrecadação seja
+objeto de repartição constitucional depende de compensação aos entes menores.
+III A competência tributária é indelegável, salvo atribuição das funções de arrecadar ou
+fiscalizar tributos, ou de executar leis, serviços, atos ou decisões administrativas em matéria
+tributária, conferida por uma pessoa jurídica de direito público a outra.
+
+Direito Tributário
+Prof. Fábio Dutra
+                                                                                     @ProfFabioDutra
+                                
+
+
+---
+
+CEBRASPE/PGFN/2023
+IV Em que pese a possibilidade de delegação da competência tributária, a delegação não
+compreende as garantias e os privilégios processuais que competem à pessoa jurídica de
+direito público que a conferir.
+Assinale a opção correta.
+a) Apenas o item III está certo.
+b) Apenas o item IV está certo.
+c) Apenas os itens I e II estão certos.
+d) Apenas os itens I e III estão certos.
+e) Apenas os itens II e IV estão certos
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                               @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/SEPLANRR/2023
+Caso um estado da federação não exerça sua competência para criar determinado
+tributo, é facultado aos municípios daquele estado criar o respectivo tributo, que
+vigorará até que o estado o crie.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                           @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/ SEPLANRR/2023
+A competência para instituir impostos é indelegável, o que proíbe o ente competente de
+delegar, por exemplo, as funções de arrecadar e fiscalizar determinado imposto.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                               @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/ TCE-RJ/2023
+As entidades privadas de serviço social e de formação profissional vinculadas ao sistema
+sindical têm capacidade tributária ativa para cobrar contribuições dos seus contribuintes.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/ TCE-RJ/2023
+No que diz respeito à competência tributária, julgue o item a seguir.
+
+
+No caso da competência cumulativa, a União tem a competência tributária para cobrar
+os impostos estaduais e, se o território não for dividido em municípios, os impostos
+municipais.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                             @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/ PREF. FORTALEZA/2023
+Considerando a competência tributária prevista na Constituição Federal de 1988 e no
+Código Tributário Nacional, julgue o item a seguir.
+
+
+Caso a competência extraordinária seja utilizada, a União pode instituir imposto
+extraordinário em caso de iminência de guerra externa mediante ato do Poder Executivo
+com força de lei material, o qual não precisa ser apreciado pelo Congresso Nacional.
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                              @ProfFabioDutra
+                                 
+
+
+---
+
+CEBRASPE/ PREF. FORTALEZA/2023
+A tributação, base para a arrecadação dos entes governamentais, é um importante
+tópico das finanças públicas. Acerca desse tema, julgue o item a seguir.
+
+
+São impostos de competência dos municípios brasileiros o imposto sobre a propriedade
+predial e territorial urbana (IPTU), o imposto sobre serviços (ISS) e o imposto sobre a
+transmissão de bens imóveis inter vivos (ITBI).
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito:                                                @ProfFabioDutra
+                                 
+
+
+---
+
+Direito Tributário
+
+                
+
+
+---

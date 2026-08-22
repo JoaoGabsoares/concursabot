@@ -1,0 +1,1342 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 03_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: CONJUNÇÕES
+artigos_citados:
+- artigo 20
+---
+
+# CONJUNÇÕES
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+
+                                                   Profª. Adriana Figueiredo
+
+              
+
+
+---
+
+ CONJUNÇÕES
+COORDENATIVAS
+
+
+    
+
+
+---
+
+Ligam orações de sentido completo ou termos da oração que têm a mesma função
+gramatical.
+
+
+a) Conjunções aditivas são aquelas que ligam orações ou palavras, expressando
+ideia de acrescentamento ou adição.
+São elas: e, nem (= e não), além das expressões correlativas, que vêm em pares e
+também somam: não só... mas também, não só... como também, bem como, não
+só... mas ainda.
+
+A sua pesquisa é clara e objetiva.
+
+
+Ele não só entrou na sala como também dirigiu-se aos pais.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+01. VUNESP - TJ-SP - Analista de Sistemas
+Em audiência pública realizada na última sexta-feira (24), o ministro Marco Aurélio
+se mostrou preocupado e afirmou que tem receio de que o julgamento do
+mensalão não termine até o final do ano.
+
+Nesse trecho, a relação estabelecida entre as orações ligadas pela conjunção e é de
+
+A) contraposição.
+B) exclusão.
+C) tempo.
+D) adição.
+E) alternância.
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+02. VUNESP - PC-SP - Investigador de Polícia
+Já o Código Civil, em seu artigo 20, faz com que não apenas o protagonista tenha
+amparo na lei para se insurgir contra um livro e exigir sua retirada do mercado,
+como estende essa possibilidade a coadjuvantes de quarta grandeza ou a seus
+herdeiros.
+
+O par correlato “não apenas... como”, em destaque na passagem do texto,
+estabelece entre as orações relação de
+A) adversidade.
+B) alternância.
+C) conclusão.
+D) adição.
+E) explicação.                           Prof. Adriana Figueiredo
+                              
+
+
+---
+
+03. AOCP - 2018 - SUSIPE-PA - Técnico em Gestão Penitenciária - Pedagogo
+
+Assinale a alternativa em que os elementos de coesão em destaque dão ideia de
+adição.
+
+A) “A linguagem pode ser conhecimento comunicação, mas também pode ser
+encantamento-sedução.“
+
+B) “Ela não é um simples acompanhamento do pensamento, mas sim um fio
+profundamente tecido na trama do pensamento (...)”
+
+C) “No entanto, no diálogo Fedro, Platão dizia que a linguagem é um pharmakon.”
+
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+03. AOCP - 2018 - SUSIPE-PA - Técnico em Gestão Penitenciária - Pedagogo
+
+D) “(...) o homem é um “animal político”, isto é, social e cívico, porque somente ele
+é dotado de linguagem.”
+
+
+E) “Por seu turno, Hjelmslev afirma que a linguagem é ‘o recurso último e
+indispensável do homem’ (...)
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+04. VUNESP - 2019 - DAEM - Mecânico
+A conjunção expressa relação de adição no seguinte trecho do texto:
+
+A) Os novos dados do instituto revelam que a situação piorou em dez estados nos
+últimos anos. (2º parágrafo)
+
+
+B) … os investimentos têm sido insuficientes não só para ampliar o acesso dos
+brasileiros ao saneamento básico, mas também para manter em bom estado a
+rede implantada. (2º parágrafo)
+
+
+C) A MP logo perderá a validade se não for aprovada pelos parlamentares. Mas […]
+poucos se empenham na articulação dos interesses em jogo… (5º parágrafo)
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+04. VUNESP - 2019 - DAEM - Mecânico
+
+D) Mas os sinais de que os participantes da discussão perderam o sentido de
+urgência são preocupantes. (6º parágrafo)
+
+
+E) … o novo modelo obrigaria os municípios a abrir licitação sempre que vencerem
+seus contratos com as empresas estaduais… (8º parágrafo)
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+05. FGV - 2018 - Câmara de Salvador - BA
+
+“A sociedade é que produz cultura. O Estado não pode produzir cultura, nem
+substituir a sociedade nessa tarefa”.
+
+O conectivo que seria adequado na união desses dois períodos do pensamento de
+Celso Furtado é:
+
+A) ainda que;
+B) e;
+C) logo;
+D) pois;
+E) ou.
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+b) Conjunções adversativas são aquelas que ligam duas orações ou palavras,
+expressando ideia de contraste ou compensação, ressalva.
+São elas: mas, porém, todavia, contudo, entretanto, no entanto, não obstante.
+
+
+Tentei chegar mais cedo, porém não consegui.
+
+
+Seu discurso foi breve, mas violento.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+06. VUNESP - FUNDUNESP - Analista Programador Júnior
+Em – E esse amigo como era amigo! Entretanto, nenhum de nós dois se lembrou
+mais de procurar o outro. – sem que seja alterado o sentido do trecho, a expressão
+em destaque pode ser corretamente substituída por:
+
+A) Assim.
+
+B) Porém.
+
+C) Pois.
+
+D) Porquanto.
+
+E) Logo.
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+07. FCC - TRE-SE - Técnico Judiciário - Área Administrativa
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+07. FCC - TRE-SE - Técnico Judiciário - Área Administrativa
+O termo Contudo, em destaque no segundo parágrafo, tem valor
+
+A) explicativo, e equivale a Pois.
+
+B) conclusivo, e equivale a Então.
+
+C) final, e equivale a Para tanto.
+
+D) adversativo, e equivale a Porém.
+
+E) conformativo, e equivale a Conforme.
+
+
+                                            Prof. Adriana Figueiredo
+                                 
+
+
+---
+
+08. VUNESP - 2020 - EBSERH - Técnico em Análises Clínicas
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+08. VUNESP - 2020 - EBSERH - Técnico em Análises Clínicas
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+08. VUNESP - 2020 - EBSERH - Técnico em Análises Clínicas
+O segundo parágrafo inicia-se com a conjunção “Mas”, por meio da qual
+
+A) se restringem os problemas do setor de limpeza no Brasil a poucas áreas.
+
+B) se conclui que o Brasil tem um setor de limpeza pública avançado.
+
+C) se compara o setor de limpeza pública do Brasil ao de outros países.
+
+D) se explica que o setor de limpeza pública no Brasil não é precário.
+
+E) se contrastam dois cenários do setor de limpeza pública no Brasil.
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+09. AOCP - FUNDASUS - Agente Comunitário de Saúde
+No excerto “Os entrevistados afirmaram, no entanto, que, em média, somente três
+em cada dez sonhos de consumo (27%) já foram realizados.", a expressão em
+destaque indica
+
+A) alternância.
+
+B) oposição.
+
+C) conclusão.
+
+D) adição.
+
+E) explicação.
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+10. FGV - 2018 - Câmara de Salvador - BA
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+10. FGV - 2018 - Câmara de Salvador - BA
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+10. FGV - 2018 - Câmara de Salvador - BA
+O segmento do texto 1 em que a conjunção E tem valor adversativo (oposição) e
+NÃO aditivo (adição) é:
+
+A) “...crescimento da violência em alguns estados do Sul e do Sudeste”;
+
+B) “Todos se assustam, o tempo passa, e pouca ação decorre de fato”;
+
+C) “Tem sido assim com o governo federal e boa parte das demais unidades da
+Federação”;
+
+D) “...viaturas e novas tecnologias”;
+
+E) “Definir metas e alcançá-las...”.
+                                             Prof. Adriana Figueiredo
+                                  
+
+
+---
+
+11. FGV - 2020 - TJ-RS - Oficial de Justiça
+
+Na frase “A natureza faz o homem feliz e bom, mas a sociedade o corrompe e
+torna-o miserável”, a conjunção sublinhada pode ser adequadamente substituída
+por:
+
+A) no entretanto;
+
+B) embora;
+
+C) visto que;
+
+D) portanto;
+
+E) contudo.
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+12. FGV - Prefeitura de João Pessoa - PB - Professor
+
+Na frase inicial do texto – “Não é para entrar em depressão, mas também não é
+para comemorar” – o conector “mas também” traz as ideias de
+
+A) oposição e comparação.
+
+B) comparação e concessão.
+
+C) concessão e condição.
+
+D) condição e adição.
+
+E) adição e oposição.
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+13. FGV - MPE-RJ - Técnico do Ministério Público
+“está no forno uma revolução da qual os médicos não escaparão, / mas que terá
+impactos positivos para os pacientes”.
+
+O emprego da conjunção “mas” supõe uma oposição entre o primeiro e o segundo
+segmento desse trecho do texto 1.
+
+Tal oposição se verifica entre os seguintes termos:
+
+
+A) estar no forno / ter impactos positivos;
+
+
+B) revolução / impactos positivos;
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+13. FGV - MPE-RJ - Técnico do Ministério Público
+
+C) médicos / pacientes;
+
+
+D) não escapar / ter impactos;
+
+
+E) médicos não escaparão / impactos positivos para os pacientes.
+
+                                            Prof. Adriana Figueiredo
+                                 
+
+
+---
+
+c) Conjunções alternativas são aquelas que ligam orações ou palavras, expressando
+ideia de alternância ou escolha, indicando fatos que se realizam separadamente.
+São elas: ou, ou... ou, ora... ora, já... já, quer... quer, seja... seja.
+
+
+Ou saio eu, ou sai ele desta sala.
+
+
+O cavalo avançava ora para a esquerda, ora para a direita.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+14. FGV - TJ-BA - Analista Judiciário - Subescrivão - Direito
+
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+14. FGV - TJ-BA - Analista Judiciário - Subescrivão - Direito
+“tanto os homens quanto os animais”; “todos os que saíam da trilha ou
+tropeçavam em algo”. Nesses dois segmentos do texto 4, os conectores
+tanto/quanto e ou indicam, respectivamente:
+
+A) comparação e alternância;
+
+B) semelhança e alternância;
+
+C) adição e adição;
+
+D) comparação e adição;
+
+E) adição e alternância.
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+15. FCC - TJ-AP - Técnico Judiciário
+
+Considere a passagem do texto:
+
+
+No caso específico desta região do Amapá e norte do Pará, são séculos de acúmulo
+de experiências de contato entre si que redundaram em inúmeros processos, ora
+de separação, ora de fusão grupal, ora de substituição, ora de aquisição de novos
+itens culturais.
+
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+15. FCC - TJ-AP - Técnico Judiciário
+
+O termo ora, em destaque, expressa ideia de
+
+A) finalidade.
+
+B) causa.
+
+C) alternância.
+
+D) comparação.
+
+E) conclusão.
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+16. IBADE - SEDUC-RO - Técnico Educacional
+
+As conjunções destacadas em: “uso indevido de abreviações, formalidades ORA
+excessivas ORA inexistentes” expressam, no contexto, ideia de:
+
+A) alternância.
+B) adição.
+C) conclusão.
+D) explicação.
+E) oposição.                            Prof. Adriana Figueiredo
+                             
+
+
+---
+
+17. UFU-MG - UFU-MG - Economista
+
+
+Nessas condições, Pierre Lévy afirma: "As atividades de pesquisa, de aprendizagem e de lazer
+serão virtuais ou comandadas pela economia virtual". (linhas 7-9)
+
+
+O problema da inteligência coletiva é descobrir ou inventar um além da escrita, um além da
+linguagem tal que o tratamento da informação seja distribuído e coordenado por toda parte
+[...]. (linhas 69-71).
+
+                                             Prof. Adriana Figueiredo
+                                  
+
+
+---
+
+17. UFU-MG - UFU-MG - Economista
+
+
+Nos fragmentos acima, os termos em destaque indicam, respectivamente,
+
+A) alternância, adição.
+
+B) exclusão, alternância.
+
+C) adição, exclusão.
+
+D) alternância, alternância.
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+18. FGV - 2018 - TJ-AL - Técnico Judiciário - Área Judiciária
+
+O segmento abaixo em que a conjunção OU tem valor claramente alternativo é:
+
+A) “No fundo, é um problema técnico que os avanços da informática mais cedo ou
+mais tarde colocarão à disposição dos usuários e das autoridades”;
+
+B) “Atualmente, apesar dos abusos e crimes cometidos na internet, no que diz
+respeito aos cronistas, articulistas e escritores em geral, os mais comuns são os
+textos atribuídos ou deformados”;
+
+C) “...que circulam por aí e que não podem ser desmentidos ou esclarecidos caso
+por caso”;
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+18. FGV - 2018 - TJ-AL - Técnico Judiciário - Área Judiciária
+
+D) “Um jornal ou revista é processado se publicar sem autorização do autor um
+texto qualquer, ainda que em citação longa e sem aspas”;
+
+
+E) “Em caso de injúria, calúnia ou difamação, também”.
+
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+d) Conjunções conclusivas são aquelas que ligam à anterior uma oração que
+expressa ideia de conclusão ou consequência.
+São elas: logo, pois, portanto, por conseguinte, por isso, assim.
+
+
+Ele estava bem preparado para o teste, portanto, não ficou nervoso.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                           Intercalado: Ele estudou muito; passou, pois, no concurso.
+                                                                         Conjunção conclusiva
+   POIS deslocado
+
+                           Final: Ele estudou muito; passou no concurso, pois.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+19. VUNESP - 2018 - Prefeitura de Marília - SP - Professor
+Considerando-se o contexto em que está empregada a conjunção destacada no
+último parágrafo em “Espera-se, assim, que a maior parte dos ministros que...”,
+conclui-se corretamente que expressa sentido de
+
+A) concessão, podendo ser substituída por “apesar disso”.
+B) explicação, podendo ser substituída por “pois”.
+C) oposição, podendo ser substituída por “entretanto”.
+D) comparação, podendo ser substituída por “desse modo”
+E) conclusão, podendo ser substituída por “portanto”.
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+20. VUNESP - Prefeitura de São José dos Campos - SP
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+20. VUNESP - Prefeitura de São José dos Campos - SP
+Em cada quadrinho, a conjunção Logo estabelece, entre as duas orações existentes,
+relação de
+
+A) oposição.
+
+B) explicação.
+
+C) dúvida.
+
+D) condição.
+
+E) conclusão.
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+21. FGV - SEDUC-AM - Assistente Social
+“Maioria crescente dos brasileiros, portanto, terá nascido ou se tornado adulta na
+vigência do regime democrático.”
+
+Ao colocar o conectivo “portanto”, o autor do texto quer mostrar que todo esse
+período funciona como uma
+
+A) conclusão.
+B) explicação.
+C) retificação.
+D) adição.
+E) alternativa.                          Prof. Adriana Figueiredo
+                              
+
+
+---
+
+22. VUNESP - TJ-PA - Analista Judiciário - Medicina Psiquiátrica
+Assinale a alternativa em que a seguinte passagem – Mas o vento foi mais ágil e o
+papel se perdeu. (terceiro parágrafo) – está reescrita com o acréscimo de um
+termo que estabelece uma relação de conclusão, consequência, entre as orações.
+
+A) Mas o vento foi mais ágil e, contudo, o papel se perdeu.
+
+B) Mas o vento foi mais ágil e, assim, o papel se perdeu.
+
+C) Mas o vento foi mais ágil e, todavia, o papel se perdeu
+
+D) Mas o vento foi mais ágil e, entretanto, o papel se perdeu.
+
+E) Mas o vento foi mais ágil e, porém, o papel se perdeu.
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+23. FCC - 2018 - SABESP - Estagiário
+E sinto-a branca, tão pegada, aconchegada nos meus braços, / que rio e danço e
+invento exclamações alegres, / porque a ausência, essa ausência assimilada, /
+ninguém a rouba mais de mim.
+
+Caso se queira dar o sentido de conclusão ao trecho destacado acima, a conjunção
+porque deverá ser substituída por:
+
+A) quando
+B) contudo
+C) se
+D) portanto
+E) como                                   Prof. Adriana Figueiredo
+                               
+
+
+---
+
+24. AOCP - 2018 - Prefeitura de Feira de Santana - BA
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+24. AOCP - 2018 - Prefeitura de Feira de Santana - BA
+Assinale a alternativa que apresenta o conectivo adequado para relacionar
+semanticamente as frases que seguem: “As empresas não podem ignorar esse
+protesto público. Muitas indústrias estão elaborando planos para eliminar os
+plásticos de uso único [...]”.
+
+A) Por isso.
+
+B) Porque.
+
+C) No entanto.
+
+D) Embora.
+
+E) Também.
+                                      Prof. Adriana Figueiredo
+                           
+
+
+---
+
+25. FGV - SEE-PE - Professor de Matemática
+“Pois bem, é hora de ir: eu para morrer, e vós para viver. Quem de nós irá para o
+melhor é algo desconhecido por todos, menos por Deus.” (Sócrates, no momento
+de sua morte)
+
+Os termos iniciais da frase de Sócrates – Pois bem – têm o valor de
+
+A) explicação.
+B) conclusão.
+C) condição.
+D) consequência.
+E) causa.
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+e) Conjunções explicativas são aquelas que justificam a ideia da oração a que se
+referem.
+São elas: que, porque, pois, porquanto.
+
+
+Venha para casa, pois está começando a chover.
+
+
+Não demore, que o filme vai começar.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+26. FCC - 2019 - Prefeitura de São José do Rio Preto - SP
+
+Caso contrário, não continuem, pois a leitura obrigatória é uma coisa tão absurda
+quanto a felicidade obrigatória. (4º parágrafo)
+
+O termo sublinhado acima introduz, no contexto, noção de
+A) finalidade.
+B) consequência.
+C) explicação.
+D) concessão.
+E) condição.
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+27. VUNESP - Câmara da Estância Balneária de Itanhaém - SP - Agente de
+Manutenção
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+27. VUNESP - Câmara da Estância Balneária de Itanhaém - SP - Agente de
+Manutenção
+No trecho do 2° parágrafo – Escolheu a contramão, ou seja, fomos na mesma
+direção. –, as palavras destacadas estabelecem sentido de
+
+A) condição.
+B) explicação.
+C) conclusão.
+D) oposição.
+E) causa.
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+28. FCC - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Judiciária
+
+1º parágrafo
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+28. FCC - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Judiciária
+
+2º parágrafo
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+28. FCC - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Judiciária
+
+5º parágrafo
+
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+28. FCC - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Judiciária
+
+O segmento sublinhado que introduz uma explicação encontra-se em:
+
+A) ... só para que tivéssemos o prazer de encontrá-las. (5° parágrafo)
+
+B) ... é que não me lembro de jamais ter visto... (5° parágrafo)
+
+C) Depois, íamos passear à beira do lago... (1° parágrafo)
+
+D) O fato é que não me sobrou nenhuma... (5° parágrafo)
+
+E) ... estendia a mão para tocar o pequeno grão... (2° parágrafo)
+
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+29. FGV - Prefeitura de Paulínia - SP - Procurador
+Observe a frase a seguir:
+
+“Os fantasmas são frutos do medo: quem não tem medo não vê fantasmas”.
+
+Os dois pontos entre os dois segmentos da frase podem ser adequadamente
+substituídos pelo seguinte conectivo:
+
+A) pois.
+B) logo.
+C) contudo.
+D) entretanto.
+E) no entanto.                            Prof. Adriana Figueiredo
+                               
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+
+      
+
+
+---
+
+Classifique as conjunções coordenativas seguindo este código:
+
+(1) Aditiva
+
+(2) Adversativa
+
+(3) Alternativa
+
+(4) Conclusiva
+
+(5) Explicativa
+
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+1) Foi transferido, logo não nos veremos com muita frequência. ( )
+
+2) Agora verificamos um trabalho mais efetivo com a palavra não apenas como
+meta para o desenvolvimento, mas como um trabalho de resgate do próprio
+homem. ( )
+
+3) Podem me acusar, pois estou com a consciência tranquila. ( )
+
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+4) “Esforço-me para aproximá-lo de Jesus, no entanto o senhor acerca-se do Papa”
+( )
+
+5) O atleta teve um ótimo desempenho e não conseguiu vencer a prova. ( )
+
+6) O futebol já é o quarto maior mercado de capitais do mundo, todavia só agora a
+Receita começa a prestar atenção nos jogadores. ( )
+
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+7) “Tente não se tornar um homem de sucesso, e sim um homem de valores” ( )
+
+8) Eles merecem perdão ou reparação total? ( )
+
+9) Sente aqui, que precisamos conversar. ( )
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+10) “A água lhe bate nos olhos. Percebe, entretanto, que a água o está levando
+para o lado das pedras” ( )
+
+11) Você participou do debate; diga-me, pois, as novidades. ( )
+
+12) “Já não era a flor do bairro, senão de toda a cidade” ( )
+
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+13) “Você não entendeu meu bilhete, portanto não cumprirá minhas orientações”
+( )
+
+14) “Tanto ele como o irmão são meus amigos” ( )
+
+15) “Não achou os documentos nem as fotocópias” ( )
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+16) Queria estar atento à palestra, contudo o sono chegou. ( )
+
+17) Peguei um táxi e fui à casa do Wilson. ( )
+
+18) Conhecemos pessoas materialmente ricas, porém pobres espiritualmente. ( )
+
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+19) “Você se prepara para o futuro corretamente ou fica metade do tempo se
+preocupado e nada mais?” ( )
+
+20) Não insista, porque não irei ao jogo. ( )
+
+                                           Prof. Adriana Figueiredo
+                                
+
+
+---
+
+QUESTÕES CESPE
+
+    
+
+
+---
+
+30. CESPE - Instituto Rio Branco
+
+No trecho “A objetividade na avaliação é essencial e depende de critérios de valor
+claros na mente do observador" (l. 18 a 20), a conjunção “e" possui valor aditivo e
+estabelece uma relação de coordenação entre as orações ligadas por ela.
+
+Certo
+Errado
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+31. CESPE - 2019 - Prefeitura de Campo Grande - MS - Procurador Municipal
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+31. CESPE - 2019 - Prefeitura de Campo Grande - MS - Procurador Municipal
+
+A supressão do termo “tanto” (l.4) concomitantemente com a substituição do
+termo “quanto” (l.5) por e manteria a correção gramatical e a coerência do texto.
+
+Certo
+Errado
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+32. CESPE - FUB - Conhecimentos Básicos
+
+Mantêm-se a correção gramatical e as informações originais do texto ao se
+substituir a correlação “não só (...) mas também” (l. 11-13) por não somente (...)
+como também.
+
+Certo
+Errado
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+33. CESPE - TRF - 1ª REGIÃO
+
+A locução “Além de” (ℓ.1) estabelece uma relação de adição no período em que
+ocorre.
+
+Certo
+Errado
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+34. CESPE – PRF – POLICIAL RODOVIÁRIO FEDERAL
+
+Mantendo-se a correção gramatical e a coerência do texto, a conjunção “e”, em “e
+não por deficiência da ciência” (l. 2-3), poderia ser substituída por mas.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+35. CESPE – SEDUC – AL – 2018
+
+No contexto em que ocorre, a conjunção “E” (l. 32) possui sentido adversativo,
+podendo ser substituída, sem prejuízo para os sentidos do texto, pela conjunção
+mas.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+ 36. CESPE - ICMBIO - Nível Superior
+
+ O elemento coesivo sentencial “entretanto” (l.12) tem a finalidade semântica de
+ introduzir uma relação de adversidade entre a informação expressa no período de
+ que faz parte e a informação expressa nos períodos que o antecedem.
+
+ Certo
+ Errado
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+37. CESPE - 2020 - Ministério da Economia
+
+
+No trecho “Um par de pernas humanas pode ser diferente de outros, mas a
+substituição de um par por outro não faria uma diferença suficientemente grande
+para requerer outras medidas além da capacidade dos músculos humanos”, no
+último período do texto, a substituição de “mas” por entretanto manteria a
+correção gramatical e a coerência do texto.
+
+Certo
+Errado
+
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+  38. CESPE - 2019 - PRF - Policial Rodoviário Federal
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+  38. CESPE - 2019 - PRF - Policial Rodoviário Federal
+
+Sem prejuízo da correção gramatical e dos sentidos do texto, o primeiro período
+do terceiro parágrafo poderia ser assim reescrito: Contudo, os cientistas avisam
+que ter tanta luz à nosso dispor custa muito caro ao meio ambiente.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+39. CESPE - STM - Analista Judiciário
+
+Entre as orações que compõem o período “não é preciso trabalhar com esses
+temas, ou sequer saber que existem” (L.14-15) estabelece-se uma relação
+sintático- semântica de alternância.
+
+Certo
+Errado                                    Prof. Adriana Figueiredo
+                               
+
+
+---
+
+40. CESPE – SEFAZ – RS – AUDITOR FISCAL DA RECEITA ESTADUAL – 2019
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+40. CESPE – SEFAZ – RS – AUDITOR FISCAL DA RECEITA ESTADUAL – 2019
+
+No trecho “o poder de tributar está na origem do Estado ou do ente político” (l. 5 e
+6), a substituição de “ou” por e prejudicaria a correção gramatical do texto.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+41. CESPE - 2018 - Instituto Hospital Base do Distrito Federal
+
+A correção gramatical do texto seria mantida, mas seu sentido seria alterado, se
+fosse inserida a expressão ou de logo após “brucelose,” (ℓ.36).
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+42. CESPE - TCE-RO - Contador
+
+ A conjunção “seja”, nas linhas 3 e 5, que estabelece uma relação de coordenação
+ entre ideias, poderia ser substituída pela conjunção quer, sem prejuízo para a
+ correção gramatical do período.
+
+ Certo
+ Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+43. CESPE - 2019 - Prefeitura de Boa Vista - RR - Procurador Municipal
+
+Na linha 15, a conjunção “portanto” encerra uma ideia de conclusão em relação ao
+que se afirma no período anterior.
+
+Certo
+Errado
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+44. CESPE - 2019 - Prefeitura de Boa Vista - RR - Procurador Municipal
+
+Mantêm-se a correção gramatical do texto e suas informações originais ao se
+substituir “Portanto” (L.13) por qualquer um dos seguintes termos: Por isso, Logo,
+Por conseguinte.
+
+Certo
+Errado                                   Prof. Adriana Figueiredo
+                              
+
+
+---
+
+45. CESPE - TCU - Técnico Federal de Controle Externo
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+45. CESPE - TCU - Técnico Federal de Controle Externo
+
+Sem prejuízo do sentido do texto, o termo “destarte” (l.27) poderia ser substituído
+por contudo ou todavia.
+
+Certo
+Errado
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+46. CESPE - FUB
+
+                             Prof. Adriana Figueiredo
+                  
+
+
+---
+
+46. CESPE - FUB
+
+Com o deslocamento da conjunção “pois” para o início da oração “Escrevi, pois,
+toda a minha vida poemas, narrativas, contos, tratados, ensaios” (L.26-27), com os
+devidos ajustes de maiúsculas e minúsculas, preserva-se o sentido original do
+período.
+
+Certo
+Errado
+
+                                         Prof. Adriana Figueiredo
+                              
+
+
+---
+
+47. CESPE - MDIC - Agente Administrativo
+
+No trecho “porque também tinha orgulho de ser datilógrafa” (l.4-5), seriam
+mantidos a correção gramatical e o sentido original do texto se o termo “porque”
+fosse substituído pelo vocábulo porquanto.
+
+Certo
+Errado
+                                        Prof. Adriana Figueiredo
+                             
+
+
+---
+
+48. CESPE - SEE-AL - Secretário Escolar
+
+Mantêm-se as informações originais e a correção gramatical do texto ao se
+substituir “pois” (l.2) por qualquer um dos seguintes termos: já que, visto que, uma
+vez que, porquanto.
+
+Certo
+Errado
+                                          Prof. Adriana Figueiredo
+                               
+
+
+---
+
+OBRIGADA
+                                         Profª. Adriana Figueiredo
+
+    
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                        Profª. Adriana Figueiredo
+
+                   
+
+
+---
+
+---

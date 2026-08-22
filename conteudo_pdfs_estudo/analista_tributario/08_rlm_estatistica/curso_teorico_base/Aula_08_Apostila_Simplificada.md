@@ -1,0 +1,168 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 08_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: Raciocínio Lógico Matemático
+---
+
+# Raciocínio Lógico Matemático
+
+Aula 07
+                          Receita Federal (Analista Tributário)
+                                     Raciocínio Lógico Matemático
+
+                                                            Autor:
+                                        Equipe Exatas Estratégia
+                                                      Concursos
+
+
+                                               03 de Agosto de 2024
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 07
+
+                                                                                     Índice
+1) Orientação Temporal
+
+                Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                            6
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 07
+
+                                APRESENTAÇÃO DA AULA
+Fala, pessoal!
+
+Hoje iremos abordar orientação temporal.
+
+Nessa aula, serão abordados alguns conceitos básicos de unidades de tempo e de calendários.
+
+A teoria sobre unidades de tempo é basicamente a mesma que você pode ter visto na aula de unidades de
+medida, caso esse assunto faça parte do seu edital.
+
+Quanto ao assunto de calendários, percebi que os alunos costumam errar essas questões por uma unidade.
+Por exemplo, sendo a resposta de uma questão "terça-feira", percebi que os erros se concentravam nas
+alternativas que apresentassem como resposta "segunda-feira" ou "quarta-feira". Para evitarmos esses
+erros, desenvolvi uma teoria própria que envolve conceitos de "intervalo inclusive" e "intervalo exclusive".
+Seguindo os passos corretamente, você nunca mais vai errar esse tipo de questão.
+
+Vamos exibir, no início da aula, um pequeno resumo para que você tenha uma visão geral do conteúdo antes
+de iniciar o assunto.
+
+                         Conte comigo nessa caminhada =)
+
+                         Prof. Eduardo Mocellin.
+
+                                @edu.mocellin
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                               3
+        www.estrategiaconcursos.com.br                                                                   6
+
+                                    
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 07
+
+ORIENTAÇÃO TEMPORAL
+
+                                              Orientação temporal
+                                                Unidades de tempo
+
+                                             1 minuto = 60 segundos
+                                      1 hora = 60 minutos = 3.600 segundos
+                                       1 dia = 24 horas = 86.400 segundos
+
+                                               1 semana = 7 dias
+                           1 ano = 365 dias (exceto o ano bissexto, que tem 366 dias)
+
+                                             Introdução ao calendário
+                                                      ==219a34==
+
+                                          Número de dias de cada mês
+
+                                           Ano normal e ano bissexto
+    Fevereiro pode ter 28 dias, para o caso de um ano normal, ou 29 dias, para o caso de um ano bissexto.
+    Ano normal: começa e termina no mesmo dia da semana.
+    Ano bissexto: termina no dia da semana seguinte ao dia da semana em que começou o ano.
+
+                                  Como determinar se o ano é bissexto ou não
+
+       Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                   4
+       www.estrategiaconcursos.com.br                                                                       6
+
+                                   
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 07
+
+                                       Anos com calendários iguais
+   Para termos dois anos com calendários iguais, é necessário que:
+   • O primeiro dia de ambos os anos devem começar no mesmo dia da semana; e
+   • Ambos os anos devem ser normais ou bissextos, não podendo um ser normal e o outro ser bissexto.
+
+                                     Intervalo inclusive × Intervalo exclusive
+   O intervalo inclusive é o número de dias transcorridos entre duas datas em que se considera na contagem
+   o dia inicial e o dia final. Para dias de um mesmo mês:
+                                   Intervalo inclusive = (Dia Final − Dia Inicial) + 1
+
+   O intervalo exclusive é o número de dias que se deve somar à data inicial para se obter a data final. Para
+   dias de um mesmo mês:
+                                Intervalo exclusive = (Dia Final − Dia Inicial)
+
+   Quando o intervalo exclusive a ser obtido não é entre datas de um mesmo mês, devemos obter o
+   intervalo inclusive e subtrair uma unidade. Isso porque intervalo exclusive é o número de dias entre
+   duas datas sem considerar a data inicial. Portanto:
+                                  Intervalo exclusive = Intervalo inclusive − 1
+
+                                      Problemas envolvendo dias da semana
+
+                                      Dia da semana da data inicial é dado
+   • Identificar o intervalo exclusive;
+   • Dividir o intervalo exclusive por 7 e obter o resto;
+   • Obter o dia da semana da data final somando o resto ao dia da semana da data inicial.
+
+                                      Dia da semana da data final é dado
+   • Identificar o intervalo exclusive;
+   • Dividir o intervalo exclusive por 7 e obter o resto;
+   • Obter o dia da semana da data inicial subtraindo o resto do dia da semana da data final.
+
+                                 Datas com o mesmo dia da semana
+   Duas datas apresentam o mesmo dia da semana quando a divisão do intervalo exclusive por 7 der resto
+   zero.
+
+   • Ao somarmos múltiplos de 7 dias (7, 14, 21, etc.) a uma data inicial, a data final obtida apresenta o
+   mesmo dia da semana do que a data inicial.
+   • Ao subtrairmos múltiplos de 7 dias (7, 14, 21, etc.) de uma data final, a data inicial obtida apresenta o
+   mesmo dia da semana do que a data final.
+
+      Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                         5
+      www.estrategiaconcursos.com.br                                                                             6
+
+                                  
+
+
+---
+
+---

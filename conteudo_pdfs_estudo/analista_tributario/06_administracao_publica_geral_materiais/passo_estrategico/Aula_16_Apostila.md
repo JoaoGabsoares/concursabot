@@ -1,0 +1,1308 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 16_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '16'
+titulo_aula: Passo Estratégico de Administração
+---
+
+# Passo Estratégico de Administração
+
+Aula 15
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                         Geral
+
+                                                        Autor:
+                                              Abraão Pereira
+
+                                        20 de Dezembro de 2024
+
+---
+
+   Abraão Pereira
+   Aula 15
+
+                                                 SIMULADO
+Considerações iniciais 
+Simulado 
+  Simulado - sem comentários 
+  Gabarito do simulado 
+  Simulado - com comentários 
+  Considerações Finais 
+
+                                     CONSIDERAÇÕES INICIAIS
+Olá, Turma!
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                                           1
+          www.estrategiaconcursos.com.br                                                                                          30
+                                          
+
+
+---
+
+ Abraão Pereira
+ Aula 15
+
+Prontos para o nosso último simulado?
+
+Acreditamos, veementemente, na eficiência, para a sua prova, de um simulado bem
+elaborado pelos professores e bem executado pelos alunos.
+
+Nessa linha, apresentaremos para vocês questões inéditas, que passarão pelos
+pontos mais importantes das últimas aulas do nosso curso.
+
+Bem, montamos o simulado que servirá como um bom treino e revisão para vocês
+dos tópicos pertinentes à prova, por isso, resolva todas as questões sem consulta!
+
+O ideal é que vocês façam o simulado já treinando o tempo de execução.
+
+Ao final teremos uma questão desafio, discursiva, para testar seu conhecimento
+sobre outra ótica!
+
+                                                                                        Bom simulado!!!
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                2
+       www.estrategiaconcursos.com.br                                                               30
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+                                                SIMULADO
+
+Simulado - sem comentários
+
+   1. (Administração Geral / Passo Estratégico / 2024)
+Uma organização está implementando um sistema de gestão de desempenho para alinhar
+os objetivos individuais com os organizacionais. Durante o planejamento, a equipe decide
+estabelecer metas específicas e mensuráveis, realizar monitoramento contínuo e fornecer
+feedback regular aos funcionários. Sobre esse processo, analise as assertivas abaixo:
+a) O planejamento no ciclo de gestão de desempenho abrange exclusivamente a definição
+de metas para os níveis operacionais, sendo irrelevante para os níveis estratégicos.
+b) A avaliação de desempenho é a única fase do ciclo de gestão de desempenho que
+permite identificar áreas de melhoria nos colaboradores.
+c) A retroalimentação é essencial para ajustar comportamentos e estratégias, promovendo
+melhorias contínuas.
+d) O monitoramento contínuo é desnecessário quando o planejamento inicial é bem
+estruturado e executado.
+e) A gestão de desempenho não considera fatores como motivação e clima organizacional
+para atingir os resultados esperados.
+
+
+   2. (Administração Geral / Passo Estratégico / 2024)
+Em uma empresa, o gestor percebe que os resultados esperados não estão sendo
+alcançados, apesar de os colaboradores possuírem alta motivação. Após uma análise, ele
+conclui que a lacuna está nas habilidades técnicas da equipe. Com base nos fatores que
+influenciam o desempenho, assinale a alternativa correta:
+a) A motivação é o único fator determinante para alcançar os resultados organizacionais.
+b) A capacidade, que inclui habilidades e conhecimentos, é um dos pilares do desempenho
+rganizacional, junto com motivação e oportunidade.
+c) O desempenho é exclusivamente dependente do ambiente organizacional,
+independentemente das capacidades individuais.
+d) A gestão de desempenho pode ser conduzida com sucesso sem a análise dos fatores
+motivadores dos colaboradores.
+e) A relação entre motivação e desempenho é sempre direta e proporcional.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    3
+        www.estrategiaconcursos.com.br                                                   30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   3. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa decide preencher uma vaga de supervisão interna através de recrutamento
+interno. Durante o processo, são levantadas preocupações sobre possíveis limitações dessa
+abordagem. Com base nos aspectos do recrutamento interno, avalie as seguintes
+afirmações:
+a) O recrutamento interno sempre traz ideias inovadoras para a organização, pois promove
+a diversidade cultural.
+b) Uma das desvantagens do recrutamento interno é o risco de gerar desmotivação nos
+funcionários que não forem promovidos.
+c) O recrutamento interno é mais indicado para cargos de entrada, devido à simplicidade
+do processo.
+d) Essa modalidade aumenta os custos organizacionais devido à necessidade de
+treinamento intensivo dos candidatos internos.
+e) O recrutamento interno não considera o alinhamento cultural dos funcionários, uma vez
+que já fazem parte da organização.
+
+
+   4. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa está estruturando seu processo de recrutamento externo para atrair talentos
+do mercado. Durante o planejamento, o gestor sugere a utilização de diversas fontes e
+métodos. Sobre o recrutamento externo, analise:
+a) Uma vantagem do recrutamento externo é a possibilidade de integrar profissionais com
+novas perspectivas e experiências à organização.
+b) O recrutamento externo é mais eficiente do que o interno em termos de tempo, pois os
+candidatos externos já possuem conhecimento da cultura organizacional.
+c) Essa abordagem é indicada para organizações que priorizam evitar custos, pois não exige
+recursos significativos em divulgação e treinamento.
+d) No recrutamento externo, a retenção de talentos é garantida, devido ao alinhamento
+com os valores organizacionais previamente estabelecido.
+e) A principal desvantagem do recrutamento externo é que ele impede a evolução na
+carreira dos funcionários internos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    4
+        www.estrategiaconcursos.com.br                                                   30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   5. (Administração Geral / Passo Estratégico / 2024)
+Em uma organização, o gestor planeja implementar mudanças na estrutura administrativa
+para otimizar os processos internos. Ele deseja compreender os papéis fundamentais do
+administrador e como eles se relacionam com o processo administrativo. Com base nessa
+situação, analise:
+a) A principal função administrativa do planejamento ocorre após as etapas de organização,
+direção e controle.
+b) A função de direção abrange a tomada de decisão, a liderança e a comunicação para
+orientar os colaboradores rumo aos objetivos organizacionais.
+c) A função de controle se limita à correção de falhas após a conclusão das atividades.
+d) A organização, enquanto função administrativa, é responsável por estabelecer objetivos
+e metas a serem alcançados.
+e) Os papéis do administrador são divididos exclusivamente entre decisores e
+comunicadores.
+
+   6. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa enfrenta dificuldades em alinhar seus processos administrativos às
+estratégias organizacionais. Ao revisar o processo administrativo, identificou a necessidade
+de coordenar melhor as funções de planejamento, organização, direção e controle. Qual
+das afirmativas abaixo descreve corretamente as funções administrativas?
+a) A função de controle antecede o planejamento, garantindo que os objetivos sejam
+estabelecidos com base em dados reais.
+b) A organização abrange a criação de metas estratégicas e a coordenação de recursos
+humanos e materiais para alcançá-las.
+c) O planejamento é uma função isolada, sem relação direta com as demais funções
+administrativas.
+d) A função de controle busca identificar desvios em relação ao planejamento e corrigir o
+curso das ações para alcançar os objetivos.
+e) A direção é responsável pela mensuração e avaliação dos resultados organizacionais.
+
+   7. (Administração Geral / Passo Estratégico / 2024)
+Uma multinacional está desenvolvendo um planejamento estratégico para os próximos
+cinco anos, abrangendo ações globais e direcionamentos organizacionais. Durante o
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral     5
+        www.estrategiaconcursos.com.br                                                    30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+processo, a equipe de gestores deve considerar os princípios fundamentais do
+planejamento. Analise as assertivas:
+a) O princípio da precedência estabelece que o planejamento deve ser realizado após a
+execução das atividades, para garantir eficácia.
+b) O planejamento estratégico se diferencia do tático e operacional por sua aplicação em
+decisões de curto prazo.
+c) O princípio da flexibilidade sugere que o planejamento deve ser revisto periodicamente
+para se adaptar às mudanças no ambiente externo.
+d) O planejamento operacional define os objetivos gerais da organização e guia os
+departamentos para alcançar metas estratégicas.
+e) A hierarquia entre os níveis de planejamento impede a integração entre as ações
+estratégicas, táticas e operacionais.
+
+   8. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa familiar deseja modernizar seus processos e adotar o Balanced Scorecard
+(BSC) como ferramenta de gestão. Durante uma reunião, o gestor explica os benefícios do
+BSC. Sobre essa ferramenta, assinale a alternativa correta:
+a) O BSC é uma metodologia que utiliza exclusivamente indicadores financeiros para avaliar
+o desempenho organizacional.
+b) A principal vantagem do BSC é permitir a análise das atividades operacionais, sem
+conexão com a estratégia organizacional.
+c) O BSC foca apenas na perspectiva interna, avaliando a eficiência dos processos
+organizacionais.
+d) A perspectiva de aprendizado e crescimento do BSC enfatiza o desenvolvimento de
+competências e a inovação como fatores-chave para o sucesso organizacional.
+e) O BSC é incompatível com organizações que possuem estruturas hierárquicas
+complexas, devido à dificuldade de aplicação.
+
+   9. (Administração Geral / Passo Estratégico / 2024)
+Em uma organização, o gestor enfrenta dificuldades para aumentar a produtividade devido
+à estrutura organizacional inadequada. Após análise, identificou-se que a especialização do
+trabalho pode ser uma solução. Sobre a especialização do trabalho, assinale a alternativa
+correta:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    6
+        www.estrategiaconcursos.com.br                                                   30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+a) A especialização do trabalho horizontal aumenta os níveis hierárquicos na organização,
+tornando os processos mais centralizados.
+b) A especialização vertical é caracterizada pela criação de departamentos especializados
+dentro do mesmo nível hierárquico.
+c) O excesso de especialização pode gerar problemas como tédio e insatisfação entre os
+colaboradores, reduzindo a produtividade ao longo do tempo.
+d) A especialização do trabalho, seja vertical ou horizontal, elimina a necessidade de
+treinamento dos funcionários, devido à padronização das tarefas.
+e) A especialização é recomendada apenas para organizações de pequeno porte, pois
+limita a flexibilidade em ambientes dinâmicos.
+
+   10.          (Administração Geral / Passo Estratégico / 2024)
+Uma empresa reestruturou sua organização para atender melhor às demandas de
+diferentes mercados, optando pela departamentalização por produto. Analise as vantagens
+e desvantagens dessa abordagem:
+a) A departamentalização por produto aumenta os custos operacionais devido à duplicação
+de recursos e dificulta a coordenação entre as unidades.
+b) Uma das vantagens é a redução de custos operacionais, pois elimina a necessidade de
+estruturas hierárquicas complexas.
+c) Essa abordagem é recomendada exclusivamente para empresas com poucos produtos,
+devido à simplicidade de sua estrutura.
+d) A departamentalização por produto concentra competências em áreas específicas,
+facilitando a coordenação e inovação.
+e) Empresas que utilizam esse tipo de departamentalização priorizam metas funcionais em
+detrimento de objetivos organizacionais.
+
+
+   11.          (Administração Geral / Passo Estratégico / 2024)
+Uma empresa está implementando um programa para aumentar a motivação dos
+colaboradores. Ao avaliar os fatores que influenciam o desempenho, os gestores decidem
+priorizar elementos internos e externos. Com base nisso, qual das alternativas abaixo está
+correta?
+a) Os fatores motivacionais incluem condições de trabalho e relações interpessoais.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    7
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+b) A motivação intrínseca depende exclusivamente de recompensas externas e incentivos
+financeiros.
+c) A falta de motivação sempre resulta em baixo desempenho, independentemente de
+outros fatores.
+d) A teoria da motivação extrínseca sugere que a criatividade é melhor estimulada por
+pressões externas.
+e) A motivação intrínseca está relacionada à realização pessoal e ao alinhamento com
+valores internos.
+
+   12.          (Administração Geral / Passo Estratégico / 2024)
+Durante um programa de treinamento, foi apresentado que a comunicação eficaz depende
+de elementos essenciais no processo de troca de informações. Qual alternativa descreve
+corretamente um desses elementos?
+a) O feedback garante que a mensagem foi compreendida como pretendido pelo emissor.
+b) O receptor é exclusivamente responsável por interpretar a mensagem, não havendo
+impacto do contexto na comunicação.
+c) A mensagem, enquanto componente, deve ser estruturada com simplicidade para
+eliminar a necessidade de feedback.
+d) Ruídos no processo comunicacional podem ser evitados apenas com o uso de
+tecnologias avançadas.
+e) O processo de comunicação só é considerado eficaz quando ocorre em ambientes
+formais.
+
+   13.          (Administração Geral / Passo Estratégico / 2024)
+Uma organização está implementando um sistema de controle para aumentar a eficiência
+de seus processos operacionais. Qual das afirmativas abaixo descreve corretamente os
+objetivos do controle?
+a) O controle é responsável apenas por corrigir falhas após a execução das atividades.
+b) O controle estratégico é aplicado exclusivamente às operações de curto prazo.
+c) O controle simultâneo deve ser aplicado após a análise de desempenho para propor
+mudanças estruturais.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    8
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+d) O controle operacional avalia o cumprimento das metas gerais da organização, com foco
+no longo prazo.
+e) O controle visa identificar desvios e propor ajustes para alinhar os resultados aos
+objetivos planejados.
+
+   14.          (Administração Geral / Passo Estratégico / 2024)
+Ao definir indicadores de desempenho, uma organização busca relacionar recursos
+utilizados aos resultados alcançados. Sobre os tipos de indicadores, qual alternativa está
+correta?
+a) Indicadores qualitativos medem a satisfação dos clientes com base em percepções e
+feedbacks.
+b) Indicadores de eficiência avaliam a relação entre os recursos utilizados e os resultados
+obtidos.
+c) Indicadores de eficácia medem exclusivamente o impacto financeiro das operações.
+d) Indicadores de desempenho são irrelevantes para o planejamento estratégico, focando
+apenas em ajustes operacionais.
+e) Indicadores qualitativos e quantitativos não podem ser combinados em um sistema de
+avaliação de desempenho.
+
+   15.          (Administração Geral / Passo Estratégico / 2024)
+Um gestor está analisando diferentes abordagens para tomar decisões em ambientes de
+incerteza. Qual das afirmativas abaixo é correta?
+a) A tomada de decisão em ambientes incertos depende exclusivamente de dados
+quantitativos e previsões.
+b) Decisões centralizadas são sempre mais eficazes do que descentralizadas em ambientes
+de incerteza.
+c) Em contextos de incerteza, é recomendável adotar apenas abordagens racionais e
+eliminar a subjetividade.
+d) Decisões tomadas em ambientes incertos exigem análises baseadas em critérios
+estritamente objetivos.
+e) Decisões tomadas em ambientes incertos exigem criatividade e intuição, adaptando-se
+às condições imprevisíveis.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    9
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   16.          (Administração Geral / Passo Estratégico / 2024)
+Ao mapear um processo organizacional, um analista de negócios utiliza as etapas do BPM
+para identificar melhorias. Qual alternativa descreve corretamente o que o BPM busca
+alcançar?
+a) O BPM automatiza processos e elimina a necessidade de supervisão contínua.
+b) O BPM é limitado ao nível operacional, não abrangendo a integração estratégica.
+c) Uma das etapas principais do BPM é a análise de gargalos e a melhoria contínua dos
+processos.
+d) O BPM evita a padronização, pois esta prejudica a criatividade nos processos
+organizacionais.
+e) O BPM é eficaz apenas em organizações com estruturas hierárquicas simples.
+
+   17.          (Administração Geral / Passo Estratégico / 2024)
+Um gestor está planejando um projeto seguindo as práticas do PMBOK. Durante a fase de
+iniciação, qual das atividades abaixo deve ser priorizada?
+a) Elaborar o cronograma detalhado para o projeto.
+b) Identificar as partes interessadas e formalizar a autorização do projeto.
+c) Gerenciar as atividades operacionais do projeto para garantir sua execução.
+d) Revisar os resultados do projeto e documentar lições aprendidas.
+e) Estabelecer os critérios de aceitação das entregas do projeto.
+
+   18.          (Administração Geral / Passo Estratégico / 2024)
+Na gestão da qualidade, qual princípio reflete diretamente o alinhamento entre a melhoria
+contínua e a satisfação do cliente?
+a) A conformidade com padrões internos garante a qualidade, independentemente da
+satisfação do cliente.
+b) A colaboração entre departamentos fortalece a integração de processos e a qualidade
+geral.
+c) A ênfase na eficiência reduz a importância de atender às expectativas dos clientes.
+d) A melhoria contínua busca eliminar processos não conformes, sem considerar os
+resultados para o cliente.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   10
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+e) A gestão da qualidade foca em atender às necessidades do cliente por meio da inovação
+e colaboração interna.
+
+   19.          (Administração Geral / Passo Estratégico / 2024)
+Em uma equipe de projeto, os membros ainda estão se conhecendo e estabelecendo
+responsabilidades. De acordo com o modelo de Tuckman, qual fase está representada?
+a) Tormenta.
+b) Formação.
+c) Normalização.
+d) Desempenho.
+e) Encerramento.
+
+
+   20.          (Administração Geral / Passo Estratégico / 2024)
+Uma organização está avaliando a dinâmica de suas equipes. Qual fator é corretamente
+identificado como elemento essencial para o sucesso das equipes?
+a) A estrutura homogênea de equipes é mais eficaz do que a diversidade em todos os
+contextos.
+b) A composição da equipe, incluindo papéis e habilidades, é fundamental para seu
+desempenho.
+c) Equipes de trabalho são eficazes apenas em ambientes formais e com hierarquias
+definidas.
+d) A conformidade com normas internas é irrelevante para o desempenho de uma equipe.
+e) Papéis mal definidos dentro da equipe tendem a comprometer a colaboração e os
+resultados.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   11
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+ Abraão Pereira
+ Aula 15
+
+Gabarito do simulado
+
+                                             MEU                                                 MEU
+  QUESTÃO               GABARITO                               QUESTÃO              GABARITO
+                                           GABARITO                                            GABARITO
+
+           1                  C                                     11                  E
+
+           2                  B                                     12                  A
+
+           3                  B                                     13                  A
+
+           4                  A                                     14                  B
+
+           5                  B                                     15                  E
+
+           6                  D                                     16                  C
+
+           7                  C                                     17                  A
+
+           8                  D                                     18                  B
+
+           9                  C                                     19                  B
+
+       10                     D                                     20                  E
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                12
+       www.estrategiaconcursos.com.br                                                                30
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+Simulado - com comentários
+
+   1. (Administração Geral / Passo Estratégico / 2024)
+Uma organização está implementando um sistema de gestão de desempenho para alinhar
+os objetivos individuais com os organizacionais. Durante o planejamento, a equipe decide
+estabelecer metas específicas e mensuráveis, realizar monitoramento contínuo e fornecer
+feedback regular aos funcionários. Sobre esse processo, analise as assertivas abaixo:
+a) O planejamento no ciclo de gestão de desempenho abrange exclusivamente a definição
+de metas para os níveis operacionais, sendo irrelevante para os níveis estratégicos.
+b) A avaliação de desempenho é a única fase do ciclo de gestão de desempenho que
+permite identificar áreas de melhoria nos colaboradores.
+c) A retroalimentação é essencial para ajustar comportamentos e estratégias, promovendo
+melhorias contínuas.
+d) O monitoramento contínuo é desnecessário quando o planejamento inicial é bem
+estruturado e executado.
+e) A gestão de desempenho não considera fatores como motivação e clima organizacional
+para atingir os resultados esperados.
+Comentários:
+a) Incorreta. O planejamento engloba todos os níveis organizacionais, não apenas o operacional.
+
+b) Incorreta. A gestão de desempenho inclui diversas fases, além da avaliação, como
+planejamento, monitoramento e retroalimentação.
+
+c) Correta. A retroalimentação é um componente crítico para ajustes e melhorias contínuas.
+
+d) Incorreta. O monitoramento é indispensável, mesmo com um bom planejamento inicial.
+
+e) Incorreta. Fatores como motivação e clima organizacional são fundamentais na gestão de
+desempenho.
+
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       13
+        www.estrategiaconcursos.com.br                                                       30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   2. (Administração Geral / Passo Estratégico / 2024)
+Em uma empresa, o gestor percebe que os resultados esperados não estão sendo
+alcançados, apesar de os colaboradores possuírem alta motivação. Após uma análise, ele
+conclui que a lacuna está nas habilidades técnicas da equipe. Com base nos fatores que
+influenciam o desempenho, assinale a alternativa correta:
+a) A motivação é o único fator determinante para alcançar os resultados organizacionais.
+b) A capacidade, que inclui habilidades e conhecimentos, é um dos pilares do desempenho
+rganizacional, junto com motivação e oportunidade.
+c) O desempenho é exclusivamente dependente do ambiente organizacional,
+independentemente das capacidades individuais.
+d) A gestão de desempenho pode ser conduzida com sucesso sem a análise dos fatores
+motivadores dos colaboradores.
+e) A relação entre motivação e desempenho é sempre direta e proporcional.
+Comentários:
+a) Incorreta. O desempenho depende de múltiplos fatores além da motivação.
+
+b) Correta. O desempenho resulta da interação entre motivação, capacidade e oportunidade.
+
+c) Incorreta. A capacidade individual é crucial, juntamente com o ambiente organizacional.
+
+d) Incorreta. Analisar os fatores motivadores é essencial na gestão de desempenho.
+
+e) Incorreta. A relação entre motivação e desempenho não é necessariamente proporcional; outros
+fatores mediam essa relação.
+
+Gabarito: B
+
+
+   3. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa decide preencher uma vaga de supervisão interna através de recrutamento
+interno. Durante o processo, são levantadas preocupações sobre possíveis limitações dessa
+abordagem. Com base nos aspectos do recrutamento interno, avalie as seguintes
+afirmações:
+a) O recrutamento interno sempre traz ideias inovadoras para a organização, pois promove
+a diversidade cultural.
+b) Uma das desvantagens do recrutamento interno é o risco de gerar desmotivação nos
+funcionários que não forem promovidos.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       14
+        www.estrategiaconcursos.com.br                                                       30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+c) O recrutamento interno é mais indicado para cargos de entrada, devido à simplicidade
+do processo.
+d) Essa modalidade aumenta os custos organizacionais devido à necessidade de
+treinamento intensivo dos candidatos internos.
+e) O recrutamento interno não considera o alinhamento cultural dos funcionários, uma vez
+que já fazem parte da organização.
+Comentários:
+a) Incorreta. O recrutamento interno, por se basear em colaboradores da própria empresa, não
+promove diversidade cultural.
+
+b) Correta. A desmotivação entre os funcionários não escolhidos é uma desvantagem reconhecida.
+
+c) Incorreta. O recrutamento interno é utilizado para diferentes níveis hierárquicos, não sendo
+exclusivo para cargos de entrada.
+
+d) Incorreta. O recrutamento interno tende a ser mais econômico, já que evita gastos com
+processos externos.
+
+e) Incorreta. O alinhamento cultural é uma vantagem do recrutamento interno, já que os
+funcionários já estão adaptados à cultura organizacional.
+
+Gabarito: B
+
+
+   4. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa está estruturando seu processo de recrutamento externo para atrair talentos
+do mercado. Durante o planejamento, o gestor sugere a utilização de diversas fontes e
+métodos. Sobre o recrutamento externo, analise:
+a) Uma vantagem do recrutamento externo é a possibilidade de integrar profissionais com
+novas perspectivas e experiências à organização.
+b) O recrutamento externo é mais eficiente do que o interno em termos de tempo, pois os
+candidatos externos já possuem conhecimento da cultura organizacional.
+c) Essa abordagem é indicada para organizações que priorizam evitar custos, pois não exige
+recursos significativos em divulgação e treinamento.
+d) No recrutamento externo, a retenção de talentos é garantida, devido ao alinhamento
+com os valores organizacionais previamente estabelecido.
+e) A principal desvantagem do recrutamento externo é que ele impede a evolução na
+carreira dos funcionários internos.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral     15
+        www.estrategiaconcursos.com.br                                                     30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+Comentários:
+
+a) Correta. Essa é uma vantagem importante do recrutamento externo, pois amplia a diversidade
+de ideias e experiências.
+
+b) Incorreta. O recrutamento externo geralmente exige mais tempo, devido ao processo de
+adaptação dos novos colaboradores.
+
+c) Incorreta. O recrutamento externo demanda investimentos em divulgação e processos seletivos.
+
+d) Incorreta. O alinhamento com os valores organizacionais não é garantido no recrutamento
+externo.
+
+e) Incorreta. Embora possa limitar promoções internas, o recrutamento externo não impede
+completamente a evolução de carreiras internas.
+
+Gabarito: A
+
+   5. (Administração Geral / Passo Estratégico / 2024)
+Em uma organização, o gestor planeja implementar mudanças na estrutura administrativa
+para otimizar os processos internos. Ele deseja compreender os papéis fundamentais do
+administrador e como eles se relacionam com o processo administrativo. Com base nessa
+situação, analise:
+a) A principal função administrativa do planejamento ocorre após as etapas de organização,
+direção e controle.
+b) A função de direção abrange a tomada de decisão, a liderança e a comunicação para
+orientar os colaboradores rumo aos objetivos organizacionais.
+c) A função de controle se limita à correção de falhas após a conclusão das atividades.
+d) A organização, enquanto função administrativa, é responsável por estabelecer objetivos
+e metas a serem alcançados.
+e) Os papéis do administrador são divididos exclusivamente entre decisores e
+comunicadores.
+Comentários:
+
+a) Incorreta. O planejamento é a primeira etapa do processo administrativo, precedendo as demais
+funções.
+
+b) Correta. A direção envolve atividades de liderança, comunicação e tomada de decisões para
+guiar a equipe.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral      16
+        www.estrategiaconcursos.com.br                                                      30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+c) Incorreta. O controle é contínuo e inclui monitoramento e ajustes durante todo o processo.
+
+d) Incorreta. A organização está relacionada à alocação de recursos e definição de estruturas, não
+à formulação de objetivos.
+
+e) Incorreta. Os papéis do administrador incluem decisores, comunicadores e informacionais.
+
+Gabarito: B
+
+   6. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa enfrenta dificuldades em alinhar seus processos administrativos às
+estratégias organizacionais. Ao revisar o processo administrativo, identificou a necessidade
+de coordenar melhor as funções de planejamento, organização, direção e controle. Qual
+das afirmativas abaixo descreve corretamente as funções administrativas?
+a) A função de controle antecede o planejamento, garantindo que os objetivos sejam
+estabelecidos com base em dados reais.
+b) A organização abrange a criação de metas estratégicas e a coordenação de recursos
+humanos e materiais para alcançá-las.
+c) O planejamento é uma função isolada, sem relação direta com as demais funções
+administrativas.
+d) A função de controle busca identificar desvios em relação ao planejamento e corrigir o
+curso das ações para alcançar os objetivos.
+e) A direção é responsável pela mensuração e avaliação dos resultados organizacionais.
+Comentários:
+
+a) Incorreta. O controle ocorre após o planejamento e as outras funções administrativas.
+
+b) Incorreta. A organização não se limita à criação de metas, mas ao desenvolvimento de estruturas
+para atingir objetivos.
+
+c) Incorreta. O planejamento está interligado com as demais funções administrativas.
+
+d) Correta. O controle visa ajustar ações em conformidade com o planejamento.
+
+e) Incorreta. A direção foca na liderança e execução, enquanto a mensuração e avaliação são partes
+do controle.
+
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral          17
+        www.estrategiaconcursos.com.br                                                          30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   7. (Administração Geral / Passo Estratégico / 2024)
+Uma multinacional está desenvolvendo um planejamento estratégico para os próximos
+cinco anos, abrangendo ações globais e direcionamentos organizacionais. Durante o
+processo, a equipe de gestores deve considerar os princípios fundamentais do
+planejamento. Analise as assertivas:
+a) O princípio da precedência estabelece que o planejamento deve ser realizado após a
+execução das atividades, para garantir eficácia.
+b) O planejamento estratégico se diferencia do tático e operacional por sua aplicação em
+decisões de curto prazo.
+c) O princípio da flexibilidade sugere que o planejamento deve ser revisto periodicamente
+para se adaptar às mudanças no ambiente externo.
+d) O planejamento operacional define os objetivos gerais da organização e guia os
+departamentos para alcançar metas estratégicas.
+e) A hierarquia entre os níveis de planejamento impede a integração entre as ações
+estratégicas, táticas e operacionais.
+Comentários:
+
+a) Incorreta. O planejamento é a primeira etapa do processo administrativo e precede a execução.
+
+b) Incorreta. O planejamento estratégico aborda decisões de longo prazo, enquanto o tático e
+operacional lidam com prazos menores.
+
+c) Correta. O princípio da flexibilidade destaca a importância de ajustar o planejamento às
+mudanças.
+
+d) Incorreta. O planejamento operacional é detalhado e focado em atividades de curto prazo, não
+nos objetivos gerais.
+
+e) Incorreta. Os níveis de planejamento devem ser integrados para garantir coesão e alinhamento
+organizacional.
+
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral      18
+        www.estrategiaconcursos.com.br                                                      30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   8. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa familiar deseja modernizar seus processos e adotar o Balanced Scorecard
+(BSC) como ferramenta de gestão. Durante uma reunião, o gestor explica os benefícios do
+BSC. Sobre essa ferramenta, assinale a alternativa correta:
+a) O BSC é uma metodologia que utiliza exclusivamente indicadores financeiros para avaliar
+o desempenho organizacional.
+b) A principal vantagem do BSC é permitir a análise das atividades operacionais, sem
+conexão com a estratégia organizacional.
+c) O BSC foca apenas na perspectiva interna, avaliando a eficiência dos processos
+organizacionais.
+d) A perspectiva de aprendizado e crescimento do BSC enfatiza o desenvolvimento de
+competências e a inovação como fatores-chave para o sucesso organizacional.
+e) O BSC é incompatível com organizações que possuem estruturas hierárquicas
+complexas, devido à dificuldade de aplicação.
+Comentários:
+
+a) Incorreta. O BSC utiliza indicadores financeiros e não financeiros para uma visão
+equilibrada do desempenho.
+
+b) Incorreta. O BSC conecta atividades operacionais à estratégia organizacional.
+
+c) Incorreta. O BSC avalia múltiplas perspectivas, incluindo a externa e financeira.
+
+d) Correta. O aprendizado e crescimento são pilares fundamentais do BSC, promovendo
+desenvolvimento contínuo.
+
+e) Incorreta. O BSC é aplicável a diversas estruturas organizacionais, inclusive as mais
+complexas.
+
+Gabarito: D
+
+   9. (Administração Geral / Passo Estratégico / 2024)
+Em uma organização, o gestor enfrenta dificuldades para aumentar a produtividade devido
+à estrutura organizacional inadequada. Após análise, identificou-se que a especialização do
+trabalho pode ser uma solução. Sobre a especialização do trabalho, assinale a alternativa
+correta:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   19
+        www.estrategiaconcursos.com.br                                                   30
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+a) A especialização do trabalho horizontal aumenta os níveis hierárquicos na organização,
+tornando os processos mais centralizados.
+b) A especialização vertical é caracterizada pela criação de departamentos especializados
+dentro do mesmo nível hierárquico.
+c) O excesso de especialização pode gerar problemas como tédio e insatisfação entre os
+colaboradores, reduzindo a produtividade ao longo do tempo.
+d) A especialização do trabalho, seja vertical ou horizontal, elimina a necessidade de
+treinamento dos funcionários, devido à padronização das tarefas.
+e) A especialização é recomendada apenas para organizações de pequeno porte, pois
+limita a flexibilidade em ambientes dinâmicos.
+Comentários:
+
+a) Incorreta. A especialização horizontal não aumenta os níveis hierárquicos, mas sim a
+divisão em departamentos no mesmo nível.
+
+b) Incorreta. A especialização vertical está relacionada ao aumento de níveis hierárquicos
+e autoridade, não à criação de departamentos no mesmo nível.
+
+c) Correta. A superespecialização pode levar à monotonia e desmotivação, prejudicando a
+produtividade.
+
+d) Incorreta. A especialização requer treinamento contínuo para garantir eficiência e
+adaptabilidade.
+
+e) Incorreta. A especialização pode ser aplicada em organizações de qualquer porte,
+dependendo do contexto e das necessidades.
+
+Gabarito: C
+
+   10.          (Administração Geral / Passo Estratégico / 2024)
+Uma empresa reestruturou sua organização para atender melhor às demandas de
+diferentes mercados, optando pela departamentalização por produto. Analise as vantagens
+e desvantagens dessa abordagem:
+a) A departamentalização por produto aumenta os custos operacionais devido à duplicação
+de recursos e dificulta a coordenação entre as unidades.
+b) Uma das vantagens é a redução de custos operacionais, pois elimina a necessidade de
+estruturas hierárquicas complexas.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   20
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+c) Essa abordagem é recomendada exclusivamente para empresas com poucos produtos,
+devido à simplicidade de sua estrutura.
+d) A departamentalização por produto concentra competências em áreas específicas,
+facilitando a coordenação e inovação.
+e) Empresas que utilizam esse tipo de departamentalização priorizam metas funcionais em
+detrimento de objetivos organizacionais.
+Comentários:
+a) Incorreta. Embora possa aumentar custos, a coordenação geralmente é facilitada, não
+dificultada.
+
+b) Incorreta. A departamentalização por produto tende a aumentar custos devido à
+                                                        ==219a34==
+
+duplicação de recursos, como equipes e equipamentos.
+
+c) Incorreta. Essa abordagem é mais indicada para empresas com múltiplos produtos e
+mercados dinâmicos.
+
+d) Correta. A especialização por produto permite maior foco em inovação e resultados
+específicos.
+
+e) Incorreta. Esse tipo de departamentalização visa objetivos organizacionais, não apenas
+metas funcionais.
+
+Gabarito: D
+
+
+   11.          (Administração Geral / Passo Estratégico / 2024)
+Uma empresa está implementando um programa para aumentar a motivação dos
+colaboradores. Ao avaliar os fatores que influenciam o desempenho, os gestores decidem
+priorizar elementos internos e externos. Com base nisso, qual das alternativas abaixo está
+correta?
+a) Os fatores motivacionais incluem condições de trabalho e relações interpessoais.
+b) A motivação intrínseca depende exclusivamente de recompensas externas e incentivos
+financeiros.
+c) A falta de motivação sempre resulta em baixo desempenho, independentemente de
+outros fatores.
+d) A teoria da motivação extrínseca sugere que a criatividade é melhor estimulada por
+pressões externas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   21
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+e) A motivação intrínseca está relacionada à realização pessoal e ao alinhamento com
+valores internos.
+Comentários:
+a) Incorreta. Condições de trabalho e relações interpessoais são fatores higiênicos, que
+evitam insatisfação, mas não geram motivação.
+
+b) Incorreta. A motivação intrínseca está ligada a fatores internos, como realização pessoal
+e autorrealização, e não a recompensas externas.
+
+c) Incorreta. A falta de motivação pode ser compensada por habilidades e oportunidades
+em alguns casos.
+
+d) Incorreta. A motivação extrínseca não é ideal para estimular criatividade, que é mais
+ligada à motivação intrínseca.
+
+e) Correta. A motivação intrínseca se refere à realização pessoal e ao alinhamento com
+valores internos.
+
+Gabarito: E
+
+   12.          (Administração Geral / Passo Estratégico / 2024)
+Durante um programa de treinamento, foi apresentado que a comunicação eficaz depende
+de elementos essenciais no processo de troca de informações. Qual alternativa descreve
+corretamente um desses elementos?
+a) O feedback garante que a mensagem foi compreendida como pretendido pelo emissor.
+b) O receptor é exclusivamente responsável por interpretar a mensagem, não havendo
+impacto do contexto na comunicação.
+c) A mensagem, enquanto componente, deve ser estruturada com simplicidade para
+eliminar a necessidade de feedback.
+d) Ruídos no processo comunicacional podem ser evitados apenas com o uso de
+tecnologias avançadas.
+e) O processo de comunicação só é considerado eficaz quando ocorre em ambientes
+formais.
+Comentários:
+a) Correta. O feedback é essencial para verificar se a mensagem foi compreendida
+conforme o esperado.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   22
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+b) Incorreta. O contexto também influencia a interpretação da mensagem pelo receptor.
+
+c) Incorreta. Mesmo mensagens simples requerem feedback para confirmar a
+compreensão.
+
+d) Incorreta. Ruídos podem ser minimizados com técnicas diversas, não apenas com
+tecnologia.
+
+e) Incorreta. A comunicação pode ser eficaz em contextos informais, dependendo da
+situação.
+
+Gabarito: A
+
+   13.          (Administração Geral / Passo Estratégico / 2024)
+Uma organização está implementando um sistema de controle para aumentar a eficiência
+de seus processos operacionais. Qual das afirmativas abaixo descreve corretamente os
+objetivos do controle?
+a) O controle é responsável apenas por corrigir falhas após a execução das atividades.
+b) O controle estratégico é aplicado exclusivamente às operações de curto prazo.
+c) O controle simultâneo deve ser aplicado após a análise de desempenho para propor
+mudanças estruturais.
+d) O controle operacional avalia o cumprimento das metas gerais da organização, com foco
+no longo prazo.
+e) O controle visa identificar desvios e propor ajustes para alinhar os resultados aos
+objetivos planejados.
+Comentários:
+a) Incorreta. O controle atua antes, durante e após as atividades, não se limitando a corrigir
+falhas.
+
+b) Incorreta. O controle estratégico é aplicado em decisões de longo prazo, não no curto
+prazo.
+
+c) Incorreta. O controle simultâneo ocorre em tempo real, não após a análise de
+desempenho.
+
+d) Incorreta. O controle operacional está focado em atividades de curto prazo e no nível
+operacional.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   23
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+e) Correta. O controle identifica desvios e realiza ajustes para atingir os objetivos
+planejados.
+
+Gabarito: E
+
+   14.          (Administração Geral / Passo Estratégico / 2024)
+Ao definir indicadores de desempenho, uma organização busca relacionar recursos
+utilizados aos resultados alcançados. Sobre os tipos de indicadores, qual alternativa está
+correta?
+a) Indicadores qualitativos medem a satisfação dos clientes com base em percepções e
+feedbacks.
+b) Indicadores de eficiência avaliam a relação entre os recursos utilizados e os resultados
+obtidos.
+c) Indicadores de eficácia medem exclusivamente o impacto financeiro das operações.
+d) Indicadores de desempenho são irrelevantes para o planejamento estratégico, focando
+apenas em ajustes operacionais.
+e) Indicadores qualitativos e quantitativos não podem ser combinados em um sistema de
+avaliação de desempenho.
+Comentários:
+a) Incorreta. Indicadores qualitativos são importantes, mas a eficiência está relacionada a
+recursos e resultados.
+
+b) Correta. Indicadores de eficiência avaliam a relação entre recursos empregados e
+resultados obtidos.
+
+c) Incorreta. Indicadores de eficácia medem o alcance de objetivos, não apenas impacto
+financeiro.
+
+d) Incorreta. Indicadores de desempenho são essenciais para o planejamento estratégico.
+
+e) Incorreta. Indicadores qualitativos e quantitativos podem ser combinados para
+avaliações mais completas.
+
+Gabarito: B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   24
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   15.          (Administração Geral / Passo Estratégico / 2024)
+Um gestor está analisando diferentes abordagens para tomar decisões em ambientes de
+incerteza. Qual das afirmativas abaixo é correta?
+a) A tomada de decisão em ambientes incertos depende exclusivamente de dados
+quantitativos e previsões.
+b) Decisões centralizadas são sempre mais eficazes do que descentralizadas em ambientes
+de incerteza.
+c) Em contextos de incerteza, é recomendável adotar apenas abordagens racionais e
+eliminar a subjetividade.
+d) Decisões tomadas em ambientes incertos exigem análises baseadas em critérios
+estritamente objetivos.
+e) Decisões tomadas em ambientes incertos exigem criatividade e intuição, adaptando-se
+às condições imprevisíveis.
+Comentários:
+a) Incorreta. Dados quantitativos podem ser escassos em situações incertas, exigindo
+abordagens qualitativas.
+
+b) Incorreta. Centralização pode retardar decisões em ambientes dinâmicos e
+imprevisíveis.
+
+c) Incorreta. Abordagens racionais são insuficientes para lidar com a imprevisibilidade.
+
+d) Incorreta. Decisões em incerteza muitas vezes dependem de critérios subjetivos, como
+intuição.
+
+e) Correta. Ambientes incertos demandam criatividade e intuição para lidar com as
+mudanças e a falta de previsibilidade.
+
+Gabarito: E
+
+   16.          (Administração Geral / Passo Estratégico / 2024)
+Ao mapear um processo organizacional, um analista de negócios utiliza as etapas do BPM
+para identificar melhorias. Qual alternativa descreve corretamente o que o BPM busca
+alcançar?
+a) O BPM automatiza processos e elimina a necessidade de supervisão contínua.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    25
+         www.estrategiaconcursos.com.br                                                    30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+b) O BPM é limitado ao nível operacional, não abrangendo a integração estratégica.
+c) Uma das etapas principais do BPM é a análise de gargalos e a melhoria contínua dos
+processos.
+d) O BPM evita a padronização, pois esta prejudica a criatividade nos processos
+organizacionais.
+e) O BPM é eficaz apenas em organizações com estruturas hierárquicas simples.
+Comentários:
+a) Incorreta. O BPM complementa a automação com supervisão e ajustes constantes.
+
+b) Incorreta. O BPM atua em todos os níveis organizacionais, incluindo estratégico.
+
+c) Correta. A análise de gargalos e melhorias contínuas são aspectos centrais do BPM.
+
+d) Incorreta. A padronização é uma ferramenta importante para eficiência no BPM.
+
+e) Incorreta. O BPM pode ser implementado em organizações com diferentes graus de
+complexidade.
+
+Gabarito: C
+
+   17.          (Administração Geral / Passo Estratégico / 2024)
+Um gestor está planejando um projeto seguindo as práticas do PMBOK. Durante a fase de
+iniciação, qual das atividades abaixo deve ser priorizada?
+a) Elaborar o cronograma detalhado para o projeto.
+b) Identificar as partes interessadas e formalizar a autorização do projeto.
+c) Gerenciar as atividades operacionais do projeto para garantir sua execução.
+d) Revisar os resultados do projeto e documentar lições aprendidas.
+e) Estabelecer os critérios de aceitação das entregas do projeto.
+Comentários:
+a) Correta. A elaboração do cronograma é uma etapa fundamental na fase de iniciação
+para definir o andamento do projeto.
+
+b) Incorreta. A identificação das partes interessadas ocorre na definição do escopo,
+geralmente antes do cronograma.
+
+c) Incorreta. A execução é realizada em uma fase posterior à iniciação.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   26
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+d) Incorreta. A revisão de resultados ocorre durante o encerramento do projeto.
+
+e) Incorreta. Os critérios de aceitação são mais específicos e detalhados em fases
+posteriores, como planejamento ou execução.
+
+Gabarito: A
+
+   18.          (Administração Geral / Passo Estratégico / 2024)
+Na gestão da qualidade, qual princípio reflete diretamente o alinhamento entre a melhoria
+contínua e a satisfação do cliente?
+a) A conformidade com padrões internos garante a qualidade, independentemente da
+satisfação do cliente.
+b) A colaboração entre departamentos fortalece a integração de processos e a qualidade
+geral.
+c) A ênfase na eficiência reduz a importância de atender às expectativas dos clientes.
+d) A melhoria contínua busca eliminar processos não conformes, sem considerar os
+resultados para o cliente.
+e) A gestão da qualidade foca em atender às necessidades do cliente por meio da inovação
+e colaboração interna.
+Comentários:
+a) Incorreta. Padrões internos sozinhos não garantem satisfação do cliente.
+
+b) Correta. A colaboração entre departamentos é essencial para integração e aumento da
+qualidade.
+
+c) Incorreta. Atender às expectativas dos clientes é fundamental para a gestão da
+qualidade.
+
+d) Incorreta. A melhoria contínua deve sempre considerar os impactos no cliente.
+
+e) Incorreta. Embora válida, a inovação não é suficiente sem integração eficaz entre
+departamentos.
+
+Gabarito: B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   27
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+   19.          (Administração Geral / Passo Estratégico / 2024)
+Em uma equipe de projeto, os membros ainda estão se conhecendo e estabelecendo
+responsabilidades. De acordo com o modelo de Tuckman, qual fase está representada?
+a) Tormenta.
+b) Formação.
+c) Normalização.
+d) Desempenho.
+e) Encerramento.
+Comentários:
+a) Incorreta. A tormenta ocorre quando surgem conflitos dentro da equipe.
+
+b) Correta. A formação é a etapa inicial em que os membros se conhecem e compreendem
+seus papéis.
+
+c) Incorreta. A normalização ocorre quando as relações se estabilizam e as normas são
+aceitas.
+
+d) Incorreta. O desempenho é a fase em que a equipe opera em alta produtividade.
+
+e) Incorreta. O encerramento acontece ao final do projeto, com o término das atividades.
+
+Gabarito: B
+
+   20.          (Administração Geral / Passo Estratégico / 2024)
+Uma organização está avaliando a dinâmica de suas equipes. Qual fator é corretamente
+identificado como elemento essencial para o sucesso das equipes?
+a) A estrutura homogênea de equipes é mais eficaz do que a diversidade em todos os
+contextos.
+b) A composição da equipe, incluindo papéis e habilidades, é fundamental para seu
+desempenho.
+c) Equipes de trabalho são eficazes apenas em ambientes formais e com hierarquias
+definidas.
+d) A conformidade com normas internas é irrelevante para o desempenho de uma equipe.
+e) Papéis mal definidos dentro da equipe tendem a comprometer a colaboração e os
+resultados.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   28
+         www.estrategiaconcursos.com.br                                                   30
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 15
+
+Comentários:
+a) Incorreta. A diversidade pode ser um diferencial dependendo do contexto e dos
+objetivos da equipe.
+
+b) Incorreta. Embora importante, a composição não é o único elemento essencial para o
+desempenho.
+
+c) Incorreta. Equipes podem ser eficazes em contextos informais, dependendo da natureza
+do trabalho.
+
+d) Incorreta. Normas internas afetam diretamente o desempenho, especialmente em
+termos de alinhamento.
+
+e) Correta. Papéis mal definidos geram conflitos e prejudicam a produtividade da equipe.
+
+Gabarito: E
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   29
+        www.estrategiaconcursos.com.br                                                   30
+                                    
+
+
+---
+
+ Abraão Pereira
+ Aula 15
+
+Considerações Finais
+
+
+Com a prática, chegaremos à excelência, mas precisamos perder o medo de nos
+testarmos, só assim iremos evoluir a cada dia.
+
+Vamos nos preparando sempre para uma prova bastante difícil e as nossas questões
+tentaram, ao máximo, seguir o nível da banca organizadora.
+
+Grande Abraço a todos!!
+
+Prof. Abraão Pereira
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   30
+       www.estrategiaconcursos.com.br                                                   30
+                                   
+
+
+---
+
+---

@@ -1,0 +1,376 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 21_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '21'
+titulo_aula: QUESTÕES PRONUNCIAMENTOS
+---
+
+# QUESTÕES PRONUNCIAMENTOS
+
+---
+
+QUESTÕES PRONUNCIAMENTOS
+        CONTÁBEIS
+    CESPE COMENTADAS
+
+                                            Prof. Gilmar Possati
+
+       
+
+
+---
+
+CPC 04 – ATIVO INTANGÍVEL
+
+
+                                           Prof. Gilmar Possati
+
+      
+
+
+---
+
+CESPE/SEFAZ-RS/2019
+Determinado clube brasileiro de futebol adquiriu, por R$ 20 milhões, o
+passe de um jogador uruguaio, de um clube uruguaio de futebol.
+Imediatamente após a aquisição, o clube brasileiro recebeu uma
+proposta de um clube argentino para a compra do passe desse jogador
+uruguaio por R$ 40 milhões.
+
+Nessa situação, assinale a opção correta quanto à contabilidade do clube
+brasileiro, no que se refere ao passe do jogador uruguaio.
+
+a) Por ocasião da aquisição do passe do jogador, o clube brasileiro
+deverá registrá-lo como um ativo imobilizado, pelo seu custo, e realizar
+sua depreciação ao longo do tempo de vida útil estimado, não tendo a
+proposta do time argentino qualquer influência contábil.
+                         
+
+
+---
+
+CESPE/SEFAZ-RS/2019
+
+b) Quando do recebimento da proposta do clube argentino, o clube
+brasileiro deverá registrá-lo como investimento, pelo valor de R$ 20
+milhões, e apurar a valorização desse investimento, pelo seu valor de
+mercado.
+c) O clube brasileiro deverá reconhecer, a custo histórico, um intangível,
+abstendo-se de qualquer procedimento quanto à proposta recebida do
+clube argentino.
+d) O clube brasileiro deverá registrá-lo como estoque, pelo seu valor
+justo de R$ 40 milhões.
+e) O clube brasileiro deverá registrar um ativo realizável em longo prazo,
+no valor de R$ 20 milhões.
+
+                          
+
+
+---
+
+CESPE/TJ-AM/2019
+Acerca das contas e dos grupos patrimoniais de empresas
+comerciais, julgue o seguinte item.
+
+As patentes, além de serem amortizadas contabilmente, são
+sujeitas a redução de valor em decorrência da avaliação de seus
+valores de recuperação.
+
+                      
+
+
+---
+
+CESPE/PF/2018
+Um ativo proveniente de projeto de desenvolvimento somente
+poderá ser classificado como ativo intangível se a empresa for
+capaz de demonstrar a viabilidade técnica de concluir o
+desenvolvimento do ativo, se houver comprovação da geração
+efetiva de resultados e se a empresa tiver a intenção de concluir o
+desenvolvimento desse ativo e a capacidade para usá-lo e vendê-
+lo.
+
+                       
+
+
+---
+
+CESPE/ABIN/2018
+Acerca dos Pronunciamentos Contábeis                        do   Comitê   de
+Pronunciamentos, julgue o item a seguir.
+
+Software em fase de desenvolvimento de projeto interno é
+exemplo de ativo intangível a ser reconhecido, em que os custos
+incorridos só podem ser capitalizados após a possibilidade de
+determinação da viabilidade tecnológica, se for possível medir os
+fluxos de benefícios econômicos futuros atribuídos a esse ativo, e
+ainda, se houver a intenção de uso ou venda.
+
+
+                       
+
+
+---
+
+CESPE/ABIN/2018
+Acerca dos Pronunciamentos Contábeis                       do   Comitê   de
+Pronunciamentos, julgue o item a seguir.
+
+Para que um item seja classificado como ativo intangível, o seu
+custo deve ser mensurado com confiabilidade e os fluxos de
+benefícios econômicos futuros esperados atribuíveis ao uso desse
+ativo devem ser gerados em favor da entidade.
+
+                      
+
+
+---
+
+CESPE/EBSERH/2018
+O ágio derivado da expectativa de rentabilidade futura constitui
+um ativo intangível.
+
+                      
+
+
+---
+
+CESPE/TRE-PE/2017
+Considerando que, na correta contabilização de ativos intangíveis, os
+analistas contábeis devem ter atenção especial aos critérios de
+reconhecimento e mensuração, assinale a opção correta.
+
+a) Os valores aplicados em softwares, patentes, direitos autorais, listas de
+clientes, quotas de importação e franquias devem ser reconhecidos como
+ativos intangíveis integrantes do patrimônio da entidade.
+b) A perda por redução ao valor recuperável não se aplica a ativos
+intangíveis.
+
+                           
+
+
+---
+
+CESPE/TRE-PE/2017
+
+c) Gastos aplicados em pesquisa e desenvolvimento são reconhecidos
+como ativos intangíveis independentemente da geração de expectativa
+de benefícios econômicos futuros.
+d) Ativos intangíveis não podem ser classificados como mantidos para
+venda, mesmo que se destinem a alienação.
+e) Um dos critérios para a identificação de um ativo intangível diz respeito
+à possibilidade de separação deste ativo dos demais pertencentes à
+entidade, de forma que ele possa ser vendido, transferido, licenciado ou
+alugado.
+
+                           
+
+
+---
+
+CESPE/PF/2014
+Com relação à natureza do patrimônio e aos mecanismos para o seu
+controle, julgue o item a seguir.
+
+O direito que uma empresa detém para a exploração de recursos
+minerais de jazida que não seja de sua propriedade é considerado bem
+incorpóreo.
+
+                        
+
+
+---
+
+CESPE/ANTT/2013
+
+Com relação aos componentes do patrimônio e suas modificações
+e às contas representativas do resultado das companhias, julgue o
+item seguinte.
+
+Os direitos sobre jazidas minerais são registrados no ativo
+intangível.
+
+                       
+
+
+---
+
+CESPE/ANATEL/2014
+
+Acerca dos ativos intangíveis e do teste de impairment, julgue o
+item a seguir.
+
+Os gastos com pesquisa e desenvolvimento de um ativo intangível
+são tratados, respectivamente, como despesa no resultado do
+período e ativo, caso demonstrem, entre outros aspectos,
+capacidade de gerar benefícios econômicos futuros.
+
+                      
+
+
+---
+
+CESPE/PF/2014
+
+Com relação aos pronunciamentos técnicos do Comitê de
+Pronunciamentos Contábeis (CPC), julgue o item a seguir.
+
+O intangível gerado internamente somente deve ser reconhecido
+como ativo quando se encontrar na fase de desenvolvimento e a
+entidade que detiver o seu controle puder demonstrar uma série
+de aspectos exigidos pelo CPC, destinados a indicar que esse
+intangível é capaz de gerar benefícios econômicos futuros.
+
+                      
+
+
+---
+
+CESPE/CADE/2014
+
+Com base nos pronunciamentos do CPC e nos seus reflexos na
+elaboração e divulgação das demonstrações contábeis, julgue o
+item a seguir.
+
+Os benefícios econômicos futuros gerados por ativo intangível
+podem influenciar a DRE em contas de receitas ou
+despesas/custos. Tal flexibilidade ocorre porque esses benefícios
+podem aumentar a receita da venda de produtos ou serviços ou
+reduzir os custos resultantes do uso do ativo pela entidade.
+
+                       
+
+
+---
+
+CESPE/TCE-RO/2013
+
+De acordo com a Lei n. 6.404/1976 e com os pronunciamentos do
+Comitê de Pronunciamentos Contábeis, julgue o item a seguir.
+
+Se a vida útil do ativo intangível for indefinida, nenhuma
+amortização deve ser contabilizada.
+
+                     
+
+
+---
+
+CESPE/BACEN/2013
+
+Acerca do processo contábil de reconhecimento, mensuração e
+evidenciação, julgue o item a seguir.
+
+Na contabilização de ativos, os ativos intangíveis serão
+amortizados e dispensados do impairment test, caso sua vida útil
+seja definida.
+
+                      
+
+
+---
+
+CESPE/TJ-RR/2012
+A respeito de alterações patrimoniais, julgue o item subsequente.
+
+Todas as contas de ativo intangível serão amortizadas a cada
+período, levando-se a contrapartida a débito de uma conta de
+resultado.
+
+                       
+
+
+---
+
+CESPE/SEFAZ-ES/2013
+Em relação aos ativos intangíveis, julgue o item a seguir
+
+Os gastos ocorridos na fase de pesquisa de produtos
+desenvolvidos na empresa devem ser reconhecidos como
+despesas nos resultados dos períodos em que ocorrerem, porque
+não são adequados para reconhecimento como ativos produzidos.
+
+                        
+
+
+---
+
+CESPE/TRT10/2013
+Com relação às demonstrações contábeis e aos pronunciamentos
+técnicos do Comitê de Pronunciamentos Contábeis, julgue o item
+que se segue.
+
+Os gastos incorridos com marcas, títulos de publicações, listas de
+clientes e outros itens similares gerados internamente não devem
+ser reconhecidos como ativos intangíveis, ainda que a entidade
+demonstre que esses gastos possam gerar benefícios econômicos
+futuros.
+
+
+                       
+
+
+---
+
+CESPE/CNJ/2013
+Acerca de contas patrimoniais, suas características, seu registro e
+sua evidenciação, julgue o item a seguir, considerando que a sigla
+CPC corresponde a Comitê de Pronunciamentos Contábeis.
+
+Ao se efetuar o registro dos ativos intangíveis, seguindo o que
+preconiza os pronunciamentos do CPC, os gastos subsequentes
+com marcas, títulos de publicações e logomarcas, sempre devem
+ser reconhecidos no ativo, uma vez que não devem ser
+segregados de outros gastos incorridos no desenvolvimento do
+negócio como um todo.
+
+                       
+
+
+---
+
+CESPE/CNJ/2013
+A respeito do tratamento contábil do ativo intangível, julgue o
+item a seguir.
+
+Como na fase de pesquisa a entidade não está apta a demonstrar
+a existência de ativo intangível, os gastos, quando incorridos,
+devem ser reconhecidos em contas de resultado.
+
+                      
+
+
+---
+
+CESPE/CNJ/2013
+A respeito do tratamento contábil do ativo intangível, julgue o
+item a seguir.
+
+Quando não houver expectativa de benefícios econômicos futuros
+ou serviços potenciais com a sua utilização ou alienação, o ativo
+intangível deve ser baixado.
+
+                       
+
+
+---
+
+OBRIGADO
+@PROFGILMARPOSSATI
+
+            
+
+
+---
+
+---

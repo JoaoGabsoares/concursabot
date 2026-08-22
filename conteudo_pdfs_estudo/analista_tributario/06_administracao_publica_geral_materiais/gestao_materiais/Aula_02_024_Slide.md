@@ -1,0 +1,307 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 02_024_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: CLASSIFICAÇÃO DE MATERIAIS
+---
+
+# CLASSIFICAÇÃO DE MATERIAIS
+
+---
+
+---
+
+CLASSIFICAÇÃO DE MATERIAIS
+RESUMO
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Classificação de Materiais
+       Importância na busca pela eficiência
+
+       ❑ A Classificação de Materiais é fundamental para que o gestor de materiais possa ganhar eficiência
+         e gerenciar com sucesso todo o processo de compra, armazenagem e distribuição de materiais.
+         Sua ausência impede o controle eficiente dos estoques, a criação de procedimentos de
+         armazenagem adequados e a correta operacionalização do almoxarifado.
+
+       ❑ A capacidade de identificar e localizar com clareza e rapidez os diferentes tipos de materiais é
+         crítica para que o gestor de materiais possa atender as demandas que recebe no tempo correto,
+         volume adequado e local indicado, grandes objetivos da administração de materiais.
+
+       ❑ Caso os materiais não estejam prévia e corretamente classificados, o gestor certamente terá
+         muitas dificuldades em encontrá-los, separá-los e despachá-los para a área requisitante, o que
+         certamente o impedirá de executar o trabalho no nível de qualidade esperado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Classificação de Materiais
+       Agrupando materiais com características comuns
+
+       ❑ Dessa forma, note que estamos falando em "agrupar" materiais com características comuns, otimizando todo o
+         processo. Nessa direção, Viana define a classificação de materiais como:
+
+        O processo de aglutinação de materiais por características semelhantes.
+
+       ❑ Segundo o autor, "grande parte do sucesso no gerenciamento de estoques depende fundamentalmente de bem
+         classificar os materiais da empresa. Assim, o sistema classificatório pode servir também, dependendo da situação,
+         de processo de seleção para identificar e decidir prioridades".
+
+       ❑ Observe porém que essa não é a única definição de classificação. Outros autores são também muito cobrados em
+         relação ao tema, como o professor Marco Aurélio Dias.
+
+       ❑ Na mesma linha de Viana, Dias relata que classificar um material é:
+
+        Agrupá-lo segundo sua forma, dimensão, peso, tipo, uso, etc.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Atributos para a Classificação
+       Resumo Geral!
+
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+                                            Abrangência            Flexibilidade           Praticidade
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Princípios da Classificação
+       São 4 princípios
+
+       ❑ Esse é um tema menos cobrado em provas, mas não estamos livres de encontrá-lo,
+         portanto, bom conhecer.
+       ❑ Segundo Francischini e Gurgel, "são observados, basicamente, quatro princípios no
+         estabelecimento de um Sistema de Classificação de Materiais".
+       ✓ Princípio Arbitrário
+       ✓ Princípio Arbitrário Fichado
+       ✓ Princípio Simbólico
+       ✓ Princípio dos Números de Projeto
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Conhecendo os principais tipos antes de aprofundar
+       ❑    Outra importante padronização no que diz respeito à classificação de materiais é a adoção de classificações com base em
+            tipos pré-definidos ou "quebras" comumente adotadas pelas organização. Vamos conhecer as principais e mais cobradas
+            em provas de concurso:
+
+       ❑    Em linhas gerais os principais tipos de classificação são os seguintes:
+        •     Tipo de Demanda
+        •     Criticidade
+        •     Aplicação
+        •     Perecibilidade
+        •     Periculosidade
+        •     Possibilidade de fazer ou comprar
+        •     Tipos de estocagem
+        •     Dificuldade de aquisição
+        •     Mercado fornecedor
+        •     Valor do consumo ou ABC
+        •     Importância Operacional ou XYZ
+        •     Permanentes ou de Consumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Tipos de Classificação
+       Aplicação em Resumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Valor de Consumo ou Método ABC
+       ❑ A classificação com base no método ABC segmenta os itens que trazem muito ou pouco impacto para a
+         organização em relação ao seu processo produtivo. Permite que o administrador de materiais foque seus esforços
+         em número reduzido de itens que são os mais importantes para a organização.
+
+       ❑ Esse princípio da concentração da importância em setores que acolhem poucos itens (ou cidadãos ou qualquer
+         outra unidade a ser considerada) forma a base do Princípio de Pareto e foi adaptado ao processo de controle de
+         estoques, batizado como Curva ABC.
+
+       ❑ Note na figura abaixo que, de acordo com o Princípio de Pareto, 80% do valor dos estoques e de todo o esforço
+         empregado ao longo da cadeia (eixo Y) está concentrado em apenas cerca de 20% dos itens (eixo X), formando a
+         área A no gráfico.
+
+         Classe dos Materiais               % em Número de Itens (eixo x)     % em Importância (eixo y)
+                  A                                   20%                              80%
+                  B                                   30%                              15%
+                  C                                   50%                               5%
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         
+
+
+---
+
+       Tipos de Classificação
+       Importância Operacional ou XYZ
+       ❑ Note que aqui não estamos mais falando de valores mas sim da importância do material para o
+         processo produtivo da empresa, ou seja, sem o material crítico, a produção ou a operação da
+         empresa, para!
+       ❑ São geralmente materiais vitais para equipamentos produtivos, que servem de reposição para um
+         equipamento ou grupo de equipamentos e que devem permanecer estocados até a sua
+         utilização, compensando o prejuízo potencialmente gerado pela sua falta.
+       ❑ Veja abaixo as classificações adotadas quanto a esse quesito:
+       ✓ Classe X - Materiais de aplicação não importante. Criticidade baixa. Falta não acarreta paralisação
+         do processo. Podem ser facilmente adquiridos ou substituídos por materiais similares da própria
+         organização.
+       ✓ Classe Y - Criticidade média. São importantes para o processo porém podem ser substituídos por
+         outros com relativa facilidade, mesmo não possuindo similares na empresa.
+       ✓ Classe Z - Criticidade máxima. Imprescindíveis ao processo e não podem ser substituídos por
+         similares. Sua falta provoca a paralisação da produção e/ou fases operativas da organização.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Etapas da Classificação
+       Resumo Geral!
+
+                  CATALOGAÇÃO - Listagem completa de 100% dos itens existentes.
+
+                  SIMPLIFICAÇÃO - Reduzir a diversidade de itens empregados para o mesmo fim.
+
+                  ESPECIFICAÇÃO/IDENTIFICAÇÃO - Minuciosa descrição do material e suas características.
+
+                  NORMALIZAÇÃO - Definição das normas de utilização de cada item.
+
+                  PADRONIZAÇÃO - Estabelece padrões idênticos de peso, formato e outras medidas de itens
+                  destinados a um mesmo fim.
+
+                  CODIFICAÇÃO - Atribuição de códigos aos itens que representem todas as características
+                  capturadas ao longo do processo de classificação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Codificação de Materiais
+       Sistemas de Codificação
+
+       ❑ Bem, após percorrida todas essa etapas e considerando que temos um bom processo de
+         classificação disponível, podemos partir para a codificação dos itens, ou seja, representar todas as
+         informações necessárias, suficientes e desejadas de um item por meio de números e/ou letras com
+         base em toda a classificação recém obtida do material.
+
+       ❑ Nesse cenário cada item terá seu código, permitindo e facilitando o controle, a retirada e a
+         movimentação dos itens na organização. Sabendo qual o código do item qualquer um desses
+         processos se torna completamente objetivo e traz rapidez na identificação e localização dos itens
+         nos armazéns assim como nos controles de volumes e demais controles gerenciais em relação aos
+         estoques disponíveis.
+
+       ❑ Os sistemas de codificação mais comumente utilizados são o alfabético, o alfanumérico e o
+         numérico (este é o mais usado), também chamado sistema decimal (um dos tipos).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Codificação de Materiais
+       Sistemas de Codificação
+       ❑ Existem três sistemas principais de codificação:
+
+       ❑ Sistema Alfabético: conjunto de letras estruturadas de forma mnemônica. Sistema vem caindo em desuso
+         pela dificuldade em memorizar os códigos e pela limitação em termos de quantidade de itens. Exemplo
+         de código: A-C-H.
+
+       ❑ Sistema Alfanumérico: mescla números e letras para representar cada material. Exemplo: BT-6345 (B-
+         grupo, T-classe e 6345 código identificador).
+
+       ❑ Sistema Numérico: composição lógica de números para a identificação de cada material. É o sistema
+         mais utilizado pelas organizações pela simplicidade e possibilidade ilimitada de criação de combinações.
+         Geralmente agrega informações em diferentes níveis de numeração. Exemplo: 20-002-012:
+
+                    20 - material de escritório
+                    002 - Lapiseira
+                    012 - 0.7mm, azul
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Codificação de Materiais
+       Códigos de Barras
+       ❑ Os códigos de barras são formas de representação gráfica de dígitos numéricos ou caracteres
+         alfanuméricos feita por número variável de barras paralelas, cuja combinação compõe uma
+         determinada informação.
+
+       ❑ A decodificação (leitura) dos dados é realizada por scanner. Os dados capturados nessa leitura
+         óptica são convertidos em letras ou números humano-legíveis. Sua utilização é muito comum em
+         diversas áreas, desde a indústria é largamente utilizado no comércio e serviços.
+
+       ❑ Entre os tipos de códigos de barra, os mais cobrados são:
+
+  EAN-13 (ou EAN-8)                    DUN-14      Data Matrix                   GS1-128 ou EAN-128   QR Code
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

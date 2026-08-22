@@ -1,0 +1,3492 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 05_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Índice
+artigos_citados:
+- Art. 1.179.
+- Art. 1.181.
+- Art. 1.194.
+- 'art.
+
+  177.'
+- art. 1.179
+- art. 1.181
+- art. 1.184
+- art. 966
+---
+
+# Índice
+
+Índice
+1)  Escrituração - Teoria
+
+
+)   Escrituração - Questões Comentadas - FGV                                                                                                                                               34
+
+3)  Lista de Questões - Escrituração - FGV                                                                                                                                                  72
+..............................................................................................................................................................................................
+
+
+---
+
+                             ASPECTOS INTRODUTÓRIOS
+Escrituração Contábil é a técnica utilizada para o registro dos fatos contábeis. A escrituração é realizada
+por meio de lançamentos em livros destinados ao registro das operações que afetam o patrimônio. Os
+lançamentos, por sua vez, são efetuados por meio do método das partidas dobradas, o qual estudaremos a
+seguir.
+Por oportuno, destaca-se que a escrituração contábil deve ser mantida em registros permanentes,
+obedecendo a legislação comercial (societária ou empresarial) e aos princípios de contabilidade geralmente
+aceitos, além de observar métodos ou critérios uniformes, conforme prescreve a Lei 6.404/76 em seu art.
+177.
+Outro aspecto introdutório importante está previsto no art. 177, § 2º da Lei 6.404/76. Referido artigo
+prescreve que a companhia observará exclusivamente em livros ou registros auxiliares, sem qualquer
+modificação da escrituração mercantil e das demonstrações reguladas nesta Lei, as disposições da lei
+tributária, ou de legislação especial sobre a atividade que constitui seu objeto, que prescrevam, conduzam
+ou incentivem a utilização de métodos ou critérios contábeis diferentes ou determinem registros,
+lançamentos ou ajustes ou a elaboração de outras demonstrações financeiras.
+Exemplo: Imagine que a legislação do ICMS de determinado Estado preceitue que as empresas contribuintes
+devem elaborar um demonstrativo anual do imposto recolhido aos cofres públicos. Nesse caso, como se
+trata de uma demonstração financeira não prevista na legislação comercial, as empresas deverão ter
+registros auxiliares, sem qualquer modificação da escrituração mercantil e das demonstrações reguladas.
+Por fim, cabe destacar que a escrituração está regulamentada na Resolução CFC n. 1.330/2011. No decorrer
+desta aula destacaremos os pontos que mais são exigidos nas provas.
+
+(IBRAM/2009) A contabilidade utiliza-se de registros por meio de lançamentos de partidas dobradas.
+Comentários
+Trata-se da definição de escrituração que acabamos de estudar.
+Gabarito: Certo
+
+Obrigatoriedade da Escrituração
+O Código Civil Brasileiro (Lei n. 10.406/02) determina a obrigatoriedade da escrituração contábil em seu art.
+1.179, senão vejamos:
+     Art. 1.179. O empresário e a sociedade empresária são obrigados a seguir um sistema de
+     contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros, em
+     correspondência com a documentação respectiva, e a levantar anualmente o balanço patrimonial e
+     o de resultado econômico.
+Como toda boa regra há exceções, quais sejam, o produtor rural e o pequeno empresário
+(microempreendedor individual - MEI), os quais estão dispensados da escrituração contábil.
+
+
+---
+
+E o que é considerado pequeno empresário para efeito de aplicação dessa dispensa?
+De acordo com a LC 155/2016:
+      Para os efeitos desta Lei Complementar, considera-se MEI o empresário individual que se
+      enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, ou o
+      empreendedor que exerça as atividades de industrialização, comercialização e prestação
+      de serviços no âmbito rural, que tenha auferido receita bruta, no ano-calendário anterior,
+      de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e que
+      não esteja impedido de optar pela sistemática prevista neste artigo.
+
+
+                               LIVROS DE ESCRITURAÇÃO
+Livro Diário
+O Livro diário é obrigatório, principal e cronológico.
+Obrigatório: é exigido pelo Código Civil, estando sujeito às formalidades intrínsecas e extrínsecas que
+estudaremos logo a seguir.
+Regra: obrigatório
+Exceção: pequeno empresário (MEI) – até 81 mil de receita bruta.
+Principal: registra todos os fatos contábeis.
+Cronológico: os fatos contábeis são registrados em ordem cronológica.
+Este livro está regulado pelo Código Civil, que prescreve:
+      Art. 1.179. O empresário e a sociedade empresária são obrigados a seguir um sistema de
+      contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros, em
+      correspondência com a documentação respectiva, e a levantar anualmente o balanço patrimonial e
+      o de resultado econômico.
+      Art. 1.180. Além dos demais livros exigidos por lei, é indispensável o diário, que pode ser
+      substituído por fichas no caso de escrituração mecanizada ou eletrônica.
+      Parágrafo único. A adoção de fichas não dispensa o uso de livro apropriado para o lançamento do
+      balanço patrimonial e do de resultado econômico.
+
+Finalidade
+O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica, fato que
+nos permite compreender a sequência de acontecimentos ocorridos na empresa.
+
+A escrituração do livro diário NÃO PODE ser substituída pela escrituração obrigatória do livro razão.
+
+
+---
+
+Livro Razão
+Sob o ponto de vista contábil, o livro Razão é o mais importante dentre aqueles utilizados pela
+Contabilidade. Por meio dele, é possível controlar, de forma separada, o movimento de todas as Contas.
+Destaca-se que não há necessidade de registro do Livro Razão. No entanto, o mesmo deve conter termo de
+abertura e encerramento, com a assinatura do contabilista e do responsável pela empresa.
+A seguir temos o modelo de um razão da conta “Bancos conta Movimento”:
+
+                                                Razão Analítico
+
+          KKK Comércio Ltda.                    Data: 10.01.20X1
+
+          CNPJ: 11.222.333/0001-44              Período: 01 a 10.01.20X1
+
+          Conta: Bancos Conta Movimento – Banco do Brasil S/A
+
+               Data             Histórico da Operação               Débito   Crédito     Saldo
+
+          01.01.20X1       Saldo Inicial                                               5.000,00
+
+          05.01.20X1       Depósito                            1.000,00                6.000,00
+
+          10.01.20X1       Cheque nº 0123456                                 500,00    5.500,00
+
+          Totais                                               1.000,00      500,00    5.500,00
+
+O livro Razão é facultativo/obrigatório, principal e sistemático.
+Facultativo/obrigatório: facultativo pela legislação societária e obrigatório pelo Regulamento do Imposto de
+Renda (RIR/2018) somente para as entidades obrigadas a declarar o IR com base no Lucro Real.
+Principal: registra todos os fatos contábeis.
+Sistemático: os fatos contábeis são registrados por tipo de contas (bancos, duplicatas a receber
+fornecedores, capital social).
+
+
+---
+
+Segundo a legislação do IR, os contribuintes sujeitos à apuração do lucro real devem escriturar o livro
+razão.
+
+Além disso, o contribuinte do Imposto de Renda sob Lucro Real deve manter, entre outros, basicamente os
+seguintes livros:
+   ▪   Registro de Inventário;
+   ▪   Registro de Compras;
+   ▪   Apuração de Lucro Real – LALUR.
+Finalidades do livro Razão
+A finalidade do livro Razão é demonstrar a movimentação analítica das contas escrituradas no diário e
+constantes do balanço.
+Razonete
+Trata-se da representação gráfica de uma conta em forma de “T”, em que o lado esquerdo é de saldo devedor
+e o lado direito é de saldo credor. O razonete é uma forma simplificada do Razão.
+                                            Nome da Conta
+
+
+                                  Lado Esquerdo       Lado Direito
+
+                                  Saldo Devedor        Saldo Credor
+
+
+---
+
+Livro Caixa
+No Livro Caixa são registrados cronologicamente todos os recebimentos e pagamentos realizados.
+Exemplo:
+         Data                     Histórico                     Entradas         Saídas       Saldo
+     01.01.20X1       Saldo Anterior                       -               -               1.000,00
+     05.01.20X1       Recebimento Fatura 01/2014               3.350,00    -               4.450,00
+     10.01.20X1       Pagamento de Salários                -                   2.000,00    2.250,00
+Não existe determinação na legislação aplicável quanto à forma de escrituração do livro Caixa.
+
+Livros Obrigatórios para as Sociedades Anônimas
+Segundo a Lei 6.404/76, em seu art. 100, a companhia deve ter, além dos livros obrigatórios para qualquer
+empresa, os seguintes, revestidos das mesmas formalidades legais:
+I - o livro de Registro de Ações Nominativas.
+II - o livro de "Transferência de Ações Nominativas".
+III - o livro de "Registro de Partes Beneficiárias Nominativas" e o de "Transferência de Partes Beneficiárias
+Nominativas".
+IV - o livro de Atas das Assembleias Gerais.
+V - o livro de Presença dos Acionistas.
+VI - os livros de Atas das Reuniões do Conselho de Administração, se houver, e de Atas das Reuniões de
+Diretoria.
+VII - o livro de Atas e Pareceres do Conselho Fiscal.
+
+(IBRAM/2009) Os principais livros utilizados pela contabilidade são o livro diário e o livro caixa. No
+primeiro, são escriturados os fatos decorrentes da atividade da companhia, explicados no histórico, e, no
+segundo, são feitos os registros em cada conta do sistema contábil.
+Comentários
+Os principais livros utilizados pela contabilidade são o livro Diário e o livro Razão. No primeiro, são
+escriturados os fatos decorrentes da atividade da companhia, explicados no histórico, e, no segundo, são
+feitos os registros em cada conta do sistema contábil.
+No Livro Caixa são registrados cronologicamente todos os recebimentos e pagamentos realizados.
+Perceba que o examinador trocou o livro Razão pelo livro Caixa.
+Gabarito: Errado
+
+
+---
+
+Formalidades da Escrituração Contábil
+A Interpretação Técnica 2000 (ITG 2000), estabelece que a escrituração em forma contábil deve conter, no
+mínimo:
+   ▪   data do registro contábil, ou seja, a data em que o fato contábil ocorreu;
+   ▪   conta devedora;
+   ▪   conta credora;
+   ▪   histórico que represente a essência econômica da transação ou o código de histórico padronizado,
+       neste caso baseado em tabela auxiliar inclusa em livro próprio;
+   ▪   valor do registro contábil;
+   ▪   informação que permita identificar, de forma unívoca, todos os registros que integram um mesmo
+       lançamento contábil.
+Esses são o que a doutrina denomina de requisitos das partidas do Diário ou, ainda, os elementos essenciais
+do registro contábil.
+Destaca-se, ainda que se admite a escrituração resumida do Diário, com totais que não excedam o período
+de trinta dias, relativamente a contas, cujas operações sejam numerosas ou realizadas fora da sede do
+estabelecimento, desde que utilizados livros auxiliares regularmente autenticados, para registro
+individualizado, e conservados os documentos que permitam a sua perfeita verificação.
+
+A legislação societária permite:
+   ▪   que o lançamento no Diário seja feito por meio de partidas mensais;
+   ▪   a escrituração resumida ou sintética, com valores totais que não excedam as operações de um mês,
+       desde que haja escrituração analítica lançada em registros auxiliares;
+   ▪   Serão lançados no Diário o balanço patrimonial e o de resultado econômico, devendo ambos ser
+       assinados por profissional de Contabilidade legalmente habilitado e pelo empresário ou sociedade
+       empresária.
+
+A ITG 2000 (R1) informa que o registro contábil deve conter o número de identificação do lançamento em
+ordem sequencial relacionado ao respectivo documento de origem externa ou interna ou, na sua falta, em
+elementos que comprovem ou evidenciem fatos contábeis.
+Por fim, a Interpretação destaca que a terminologia utilizada no registro contábil deve expressar a essência
+econômica da transação.
+
+
+---
+
+Formalidades Extrínsecas e Intrínsecas
+Formalidades Extrínsecas
+A finalidade das formalidades extrínsecas é dificultar a adulteração do livro. Correspondem à forma de
+apresentação material do livro.
+Segundo a ITG 2000 (R1), os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão, em forma
+não digital, devem revestir-se de formalidades extrínsecas, tais como:
+a) serem encadernados;
+b) terem suas folhas numeradas sequencialmente;
+c) conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da entidade
+e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade.
+Os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão, em forma digital, devem revestir-
+se de formalidades extrínsecas, tais como:
+a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente habilitado;
+b) quando exigível por legislação específica, serem autenticados no registro público ou entidade competente.
+Em caso de escrituração contábil em forma digital, não há necessidade de impressão e encadernação em
+forma de livro, porém o arquivo magnético autenticado pelo registro público competente deve ser mantido
+pela entidade.
+Cabe destacar que a inobservância das formalidades extrínsecas invalida todo o livro, o qual passa a fazer
+prova apenas contra o contribuinte.
+Formalidades Intrínsecas
+A finalidade das formalidades intrínsecas é resguardar a fidedignidade dos fatos ocorridos em relação aos
+fatos registrados. Estão relacionadas com o lançamento contábil. Sendo assim, a escrituração deve ser
+executada:
+a) em idioma e em moeda corrente nacionais;
+b) em forma contábil;
+c) em ordem cronológica de dia, mês e ano;
+d) com ausência de espaços em branco, entrelinhas, borrões, rasuras ou emendas; e
+e) com base em documentos de origem externa ou interna ou, na sua falta, em elementos que comprovem
+ou evidenciem fatos contábeis.
+A inobservância das formalidades intrínsecas invalida apenas o registro ou registros onde ocorrem.
+
+
+---
+
+                                 LANÇAMENTOS CONTÁBEIS
+Elementos essenciais do lançamento
+Os elementos essenciais do lançamento contábil no livro Diário são:
+- local e data;
+- conta(s) debitada(s);
+- conta(s) creditada(s);
+- histórico;
+- valor.
+Vejamos um exemplo:
+Brasília, 10 de janeiro de 20X1.                     Local e data
+
+
+      D – Bancos Conta Movimento                           Conta Debitada
+
+      C – Caixa ,00                    Conta Creditada e valor
+
+Conforme recibo de depósito nº 001 do Banco XYZ S.A no valor de R$ 500,00.
+                                Histórico
+
+O exemplo acima é de um lançamento mecanizado. Abaixo segue o mesmo exemplo, mas de um lançamento
+manual:
+Brasília, 10 de janeiro de 20X1.                           Local e data
+
+      Bancos Conta Movimento                                Conta Debitada
+
+      a Caixa ,00                      Conta Creditada e valor
+
+Conforme recibo de depósito nº 001 do Banco XYZ S.A no valor de R$ 500,00.
+                                Histórico
+
+Observe que na escrituração do livro Diário pelo processo manual, usa-se a preposição “a” para indicar a
+conta creditada.
+Pessoal, é claro que essa formalidade toda você não vai fazer na hora da sua prova. Para fins de praticidade,
+basta fazermos:
+
+      D – Bancos
+      C – Caixa
+
+
+---
+
+Fórmulas de Lançamento
+De acordo com número de contas debitadas e creditadas, podemos identificar 4 (quatro) fórmulas de
+lançamento, quais sejam:
+1ª fórmula – uma conta debitada e uma creditada (1 1).
+2ª fórmula – uma conta debitada e duas ou mais creditadas (1 2).
+3ª fórmula – duas ou mais contas debitadas e uma creditada (2 1).
+4ª fórmula – duas ou mais contas debitadas e duas ou mais creditadas (2 2).
+Assim, temos:
+
+                      1ª fórmula            11       1 débito e 1 crédito
+
+                      2ª fórmula            12       1 débito e 2 créditos ou mais
+
+                      3ª fórmula            21       2 débitos ou mais e 1 crédito
+
+                      4ª fórmula            22       2 débitos ou mais e 2 créditos ou mais
+
+Exemplos de fórmulas de lançamento
+1ª fórmula: Compra à vista de veículo no valor de R$ 20.000,00
+
+                    Lançamento Mecanizado                                     Lançamento Manual
+
+        D – Veículos                                            Veículos
+        C – Caixa .000,00                  a Caixa .000,00
+
+Quando a empresa adquire um veículo, ocorre uma redução na conta Caixa (saída de bens) e um aumento
+na conta Veículos (entrada de bens).
+Ativo → Natureza Devedora → Entrada de Bens (Veículo) → Debita
+Ativo → Natureza Devedora → Saída de Bens (Caixa) → Credita
+
+2ª fórmula: Recebimento de duplicatas no valor de R$ 30.000,00, com juros de 10%.
+
+                      Lançamento Mecanizado                                 Lançamento Manual
+
+            D – Caixa .000,00       Caixa
+            C – Duplicatas a Receber ... 30.000,00             a Diversos
+            C – Juros Ativos .000,00         a Duplicatas a Receber ... 30.000,00
+                                                               a Juros Ativos .000,00
+
+No recebimento de duplicatas com juros, há aumento da conta Caixa (entrada de bens) e aumento de
+receitas, além de uma redução em duplicatas a receber (saída de direitos).
+Ativo → Natureza Devedora → Entrada de Bens (Dinheiro) → Debita
+
+
+---
+
+Ativo → Natureza Devedora → Saída de Direitos (Duplicatas a Receber) → Credita
+Receita → Natureza Credora → Aumento de Receitas (Juros Ativos) → Credita
+Observação: a expressão “a diversos” significa que existe mais de uma conta sendo creditada, as quais estão
+logo abaixo especificadas (nesse exemplo são as contas Duplicatas a Receber e Juros Ativos). Por outro lado,
+se aparecer a expressão “diversos” sem a preposição “a”, significa que temos mais de uma conta sendo
+debitada (essas contas também estarão especificadas abaixo da conta creditada, conforme você pode
+observar no exemplo abaixo).
+3ª fórmula: Pagamentos de duplicatas no valor de R$ 20.000,00, com juros de 10%.
+
+                        Lançamento Mecanizado                               Lançamento Manual
+
+            D – Duplicatas a Pagar.000,00              Diversos
+            D – Juros Passivos .000,00             a Caixa
+            C – Caixa .000,00        Duplicatas a Pagar ... 20.000,00
+                                                                 Juros Passivos .000,00
+
+No pagamento de duplicatas com juros, há diminuição da conta Caixa (saída de bens) e aumento de despesas,
+além de uma redução em duplicatas a pagar (saída de obrigações).
+Passivo → Natureza Credora → Saída de Obrigações (Duplicatas a Pagar) → Debita
+Despesas → Natureza Devedora → Aumento de Despesas (Juros Passivos) → Debita
+Ativo → Natureza Devedora → Saída de Bens (Dinheiro) → Credita
+
+4ª fórmula: Venda à vista de mercadorias no valor de R$ 60.000,00 ao custo de 40.000,00.
+
+                    Lançamento Mecanizado                                   Lançamento Manual
+
+        D - Caixa .000,00                  Diversos
+        D – CMV* .000,00                 a Diversos
+        C - Vendas .000,00                   Caixa .000,00
+        C - Mercadorias .000,00                     CMV .000,00
+                                                             a Vendas .000,00
+                                                             a Mercadorias .000,00
+
+* CMV = Custo da Mercadoria Vendida. Vamos estudar com maiores detalhes o assunto na aula sobre a Demonstração
+do Resultado do Exercício.
+Na venda de mercadorias, há aumento da conta Caixa (entrada de bens) e aumento de receitas. Em
+contrapartida temos uma redução de mercadorias (saída de bens), ocasionando o surgimento do Custo da
+Mercadoria Vendida – CMV (aumento de despesa).
+Ativo → Natureza Devedora → Entrada de Bens (Dinheiro) → Debita
+Receitas → Natureza Credora → Aumento de Receitas (Vendas) → Credita
+Ativo → Natureza Devedora → Saída de Bens (Mercadorias) → Credita
+Despesa → Natureza Devedora → Aumento de Despesas (CMV) → Debita
+
+
+---
+
+(IBRAM/2009) O lançamento de segunda fórmula corresponde a mais de um débito e apenas um crédito,
+enquanto o de terceira fórmula corresponde a um débito e diversos créditos.
+Comentários
+Galera, quando nos depararmos com uma questão desse “naipe”, devemos lembrar da nossa tabelinha:
+
+Observe que a questão inverte os conceitos de 2ª e 3ª fórmulas.
+Gabarito: Errado
+
+Erros de Escrituração e sua correção (retificação)
+Os principais erros de escrituração (lançamento) no livro Diário são:
+   ▪   Título;
+   ▪   Valor;
+   ▪   Inversão;
+   ▪   Duplo registro;
+   ▪   Omissão;
+   ▪   Histórico incorreto.
+O lançamento realizado de forma errônea pode ser corrigido (retificado) por meio de:
+   ▪   Estorno;
+   ▪   Transferência; e
+   ▪   Complementação.
+Destaca-se que em qualquer dessas formas o histórico do lançamento deve precisar o motivo da correção, a
+data e a localização do lançamento de origem.
+Vejamos do que se trata cada uma dessas formas de correção:
+O estorno consiste em lançamento inverso àquele feito erroneamente, anulando-o integralmente. Em regra,
+a correção envolve dois lançamentos, o de estorno e o que corretamente registra a transação.
+
+
+---
+
+Exemplo: Registro errado de compra à vista de veículos
+
+      D – Veículos
+      C – Fornecedores .000
+
+Lançamento de estorno:
+
+      D – Fornecedores
+      C – Veículos .000
+
+Após o estorno, realiza-se o registro correto a fim de registrar a compra à vista de veículos:
+
+      D – Veículos
+      C – Caixa .000
+
+A transferência, por sua vez, consiste no estorno parcial. É aquele que promove a regularização de conta
+indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. A
+transferência permite a correção do erro mediante um único lançamento. Assim, não há necessidade de
+estornar integralmente o lançamento errado.
+Exemplo: Registro errado de compra à vista de veículos
+
+      D – Veículos
+      C – Fornecedores .000
+
+Como o erro foi apenas na conta creditada (fornecedores), efetuamos o estorno somente nessa conta e, em
+seu lugar, creditamos a conta correta:
+
+      D – Fornecedores
+      C – Caixa .000
+
+A complementação, por fim, consiste em complementar, aumentando ou reduzindo o valor anteriormente
+registrado. Assim, repete-se o lançamento errado e registra-se a diferença de valor.
+Exemplo: Registro errado de compra à vista de veículos no valor de R$ 15.000,00, sendo o correto R$
+20.000,00.
+
+      D – Veículos
+      C – Caixa .000
+
+Assim, o lançamento de complementação seria:
+
+      D – Veículos
+      C – Caixa .000
+
+
+---
+
+(TRT-10/2013) A retificação de lançamento é o processo técnico de correção de registro que tenha sido
+realizado com erro na escrituração contábil da entidade e pode ser feita por meio de estorno, transferência
+ou complementação.
+Comentários
+Perfeito! Trata-se da definição exata da retificação (correção) de lançamento.
+Gabarito: Certo
+(IBRAM/2009) O lançamento suplementar serve para estornar o registro original que foi lançado com valor
+inferior ao devido.
+Comentários
+Como vimos, o lançamento suplementar serve para complementar o registro original que foi lançado com
+valor inferior ao devido.
+Gabarito: Errado
+
+
+                    ESCRITURAÇÃO DE OPERAÇÕES TÍPICAS
+Para abordarmos esse ponto, vamos nos valer de um exemplo doutrinário adaptado para o nosso propósito
+em que constam as principais operações elaboradas por uma empresa comercial. Sendo assim, para cada
+operação vamos:
+a. Identificar os efeitos do fato contábil e classificá-lo;
+b. Efetuar os lançamentos em razonete e em diário;
+A empresa comercial “Tchê Bagual” realizou as seguintes operações durante determinado ano:
+Operação 1: Subscrição de capital com integralização em dinheiro no valor de R$100.000.
+Operação 2: Depósito bancário no valor de R$40.000.
+Operação 3: Compra de mercadorias a prazo por R$20.000, aceitando duplicatas.
+Operação 4: Aplicação financeira no valor de R$10.000.
+Operação 5: Obtenção de empréstimo bancário no valor de R$3.000.
+Operação 6: Venda de mercadorias à vista por R$10.000, com lucro de 20% sobre o preço de venda.
+Operação 7: Apropriação da folha de pagamento no valor de R$2.000.
+Operação 8: Apropriação de rendimentos financeiros no valor de R$1.000.
+Operação 9: Pagamento de duplicata no valor de R$4.000, em dinheiro, com juros de 10%.
+Operação 10: Pagamento, em dinheiro, de despesas administrativas no valor de R$500.
+Operação 11: Pagamento dos salários provisionados em dinheiro.
+
+
+---
+
+Operação 12: Compra de veículo para uso por R$20.000, sendo 10% à vista, em dinheiro, e o restante a prazo.
+Operação 13: Pagamento, em cheque, de duplicata no valor de R$6.000, com desconto de 10%.
+Operação 14: Desconto de R$ 5.000 em duplicatas a vencer no prazo de 30 dias, sob a taxa de juros de 10%
+ao mês.
+Bem, pessoal, mãos à obra! Vamos destrinchar as operações!
+Operação 1: Subscrição de capital com integralização em dinheiro no valor de R$100.000.
+A subscrição de capital nada mais é do que a colocação de recursos (bens e/ou direitos) na empresa. Na
+operação acima a subscrição foi realizada em dinheiro.
+Efeitos do fato contábil → aumento na conta caixa (+A) e aumento na conta capital social (+ PL).
+Classificação → trata-se de um fato modificativo aumentativo (+A; +PL)
+Lançamentos em razonete
+
+                              Caixa                                Capital Social
+
+
+        (1)        100.000                                                 100.000       (1)
+
+                   100.000                                                 100.000
+
+
+Lançamentos no diário
+
+     D – Caixa
+     C – Capital Social ... 100.000
+
+Estudaremos com maiores detalhes o assunto de subscrição e integralização de capital nas questões
+comentadas.
+Operação 2 → Depósito bancário no valor de R$40.000.
+Efeitos do fato contábil → saída na conta caixa (- A) e entrada de valor na conta bancos (+ A).
+Classificação → trata-se de um fato permutativo (-A; +A)
+Lançamentos em razonete
+
+                              Caixa                                    Bancos
+
+
+       (1)         100.000       40.000        (2)   (2)     40.000
+
+                     60.000                                     40.000
+
+
+---
+
+Operação 3 → Compra de mercadorias a prazo por R$20.000, aceitando duplicatas.
+Efeitos do fato contábil → entrada de valor na conta estoque (+A) e surgimento de uma obrigação (+P).
+Classificação → trata-se de um fato permutativo (+A; +P)
+Lançamentos em razonete
+
+                       Estoque                             Duplicatas a Pagar
+
+
+          (3)   20.000                                                 20.000   (3)
+
+                20.000                                                 20.000
+
+Lançamentos no diário
+
+        D – Estoques
+        C – Duplicatas a Pagar ... 20.000
+
+Operação 4 → Aplicação financeira no valor de R$10.000.
+Pessoal, antes de procedermos com os nossos registros, cabe destacar que em operações financeiras (caso
+da operação 4) devemos visualizar três momentos diferentes:
+Momento 1 → aplicação
+Ocorre somente uma troca de valores entre componentes patrimoniais (+A, -A).
+Momento 2 → apropriação1 dos rendimentos
+Há o reconhecimento da aplicação financeira pelo rendimento obtido, ou seja, houve um aumento de PL em
+virtude de uma receita financeira (+A, +PL).
+Momento 3 → resgate
+É o inverso da aplicação, ou seja, a empresa resgata o valor da aplicação e retorna para a conta no banco
+(+A,-A). Nesse caso, somam-se os rendimentos apropriados, se houver.
+Considerações realizadas, passemos ao registro da operação.
+Efeitos do fato contábil → diminuição de valor da conta Bancos (-A) e aumento de valor da conta Aplicação
+Financeira (+A).
+Classificação → trata-se de um fato permutativo (-A; +A)
+Lançamentos em razonete
+
+1
+    Apropriar significa reconhecer a ocorrência do fato gerador de uma receita ou despesa.
+
+
+---
+
+                       Banco                              Aplicações Financeiras
+
+
+        (2)   40.000           10.000                      10.000
+                                              (4)   (4)
+
+              30.000                                       10.000
+
+Lançamentos no diário
+
+     D – Aplicações Financeiras
+     C – Banco ... 10.000
+
+Operação 5 → Obtenção de empréstimo bancário no valor de R$3.000.
+Na obtenção de empréstimos temos a mesma linha de raciocínio das aplicações financeiras, senão vejamos:
+Momento 1 → obtenção do empréstimo
+Ocorre somente uma troca de valores entre componentes patrimoniais (+A, +P).
+Momento 2 → apropriação dos juros (provisão dos encargos financeiros)
+Há o reconhecimento da apropriação dos encargos financeiros incidentes sobre a operação, ou seja, houve
+uma diminuição do PL em virtude de uma despesa financeira e o aumento do passivo (+P, -PL).
+Momento 3 → pagamento (quitação da dívida)
+Corresponde à saída de valor da conta bancos para quitar a obrigação assumida (-A, -P).
+Vamos aos registros...
+Efeitos do fato contábil → aumento de valor da conta Bancos (+A) e aumento de valor da conta Empréstimos
+Bancários (+P).
+Classificação → trata-se de um fato permutativo (+A; +P)
+Lançamentos em razonete
+
+                       Banco                              Empréstimos Bancários
+
+
+        (2)   40.000      10.000        (4)                             3.000      (5)
+
+        (5)    3.000
+
+              33.000                                                    3.000
+
+Lançamentos no diário
+
+     D – Banco
+     C – Empréstimos Bancários ... 3.000
+
+
+---
+
+Operação 6 → Venda de mercadorias à vista por R$10.000, com lucro de 20% sobre o preço de venda.
+Trata-se de uma operação de venda. Pessoal, em qualquer operação de venda sempre haverá, no mínimo,
+dois momentos.
+Momento 1 → Reconhecimento da venda
+Corresponde ao valor de entrada, vale dizer, o preço pelo qual a mercadoria foi vendida.
+Momento 2 → Reconhecimento do custo
+Corresponde ao valor de saída, ou seja, ao custo da mercadoria que foi baixada do estoque da entidade.
+Aqui cabe uma observação: perceba que falamos em “no mínimo” dois momentos. Ocorre que nas operações
+de vendas, em geral, registramos além do reconhecimento da venda e do custo, o reconhecimento dos
+impostos incidentes sobre as vendas e o reconhecimento de devoluções, abatimentos, descontos e
+cancelamentos, se houver. Essas operações serão detalhadas em momento oportuno do nosso curso.
+Efeitos do fato contábil → entrada de valor na conta Caixa (+A); saída de valor do estoque (-A); e aumento
+no PL, decorrente da receita com vendas (+PL).
+Classificação → trata-se de um fato misto aumentativo (+A; -A; +PL)
+Para efetuarmos os registros, vamos calcular o valor do lucro e o valor do custo.
+Preço de venda: 10.000
+Lucro: 20% de 10.000 = 2.000
+Custo: 10.000 - 2.000 = 8.000
+Lançamentos em razonete
+Pelo reconhecimento da venda
+
+                        Caixa                             Receita c/ Vendas
+
+
+        (1)   100.000           40.000   (2)                           10.000       (6)
+
+        (6)   10.000
+
+              70.000                                                   10.000
+
+Pelo reconhecimento do custo
+
+                     Estoque                                     CMV
+
+
+        (3)   20.000            8.000    (6)   (6)       8.000
+
+              12.000                                     8.000
+
+Lançamentos no diário
+Pelo reconhecimento da venda
+
+
+---
+
+     D – Caixa
+     C – Receita c/ Vendas ... 10.000
+
+Pelo reconhecimento do custo
+
+     D – CMV
+     C – Estoque .000
+
+Operação 7 → Apropriação da folha de pagamento no valor de R$2.000.
+Antes de efetuarmos o registro, cabe destacarmos alguns pontos para melhor compreensão.
+Nesse fato, temos o reconhecimento de uma despesa já incorrida, vale dizer, cujo fato gerador já ocorreu,
+mas que ainda não foi paga. Tal fato decorre do regime da competência, previsto na Estrutura Conceitual
+(CPC 00) segundo o qual as receitas e as despesas devem ser reconhecidas no momento da ocorrência do
+seu fato gerador, independentemente de recebimento ou de pagamento.
+Bem, no caso da folha de pagamento, os salários dos colaboradores são pagos no início do mês subsequente
+ao trabalhado. Entretanto, os trabalhadores fizeram jus a esse salário ao final do mês trabalhado (mês
+anterior). Sendo assim, o fato gerador da despesa com salários ocorreu ao final do mês anterior. Portanto,
+em obediência ao regime da competência (CPC 00), a empresa deve reconhecer a despesa com salários ao
+final do mês trabalhado, para pagamento posterior.
+Considerações realizadas, vamos ao registro da operação.
+Efeitos do fato contábil → reconhecimento de uma despesa, diminuindo o PL (-PL) e surgimento de uma
+obrigação (+P).
+Classificação → trata-se de um fato modificativo diminutivo (+P; -PL)
+Lançamentos em razonete
+
+                 Desp. c/ Salários                         Salários a Pagar
+
+
+        (7)     2.000                                                   2.000   (7)
+
+                2.000                                                   2.000
+
+Lançamentos no diário
+
+     D – Despesa com Salários
+     C – Salários a Pagar ... 2.000
+
+Operação 8 → Apropriação de rendimentos financeiros no valor de R$1.000.
+Chegou a hora de apropriarmos os rendimentos financeiros da aplicação.
+Efeitos do fato contábil → aumento no saldo da aplicação financeira (+A) e reconhecimento de uma receita,
+aumentando o PL da empresa (+PL).
+
+
+---
+
+Classificação → trata-se de um fato modificativo aumentativo (+A; +PL)
+Lançamentos em razonete
+
+              Aplicação Financeira                        Rendimentos Financeiros
+
+
+        (4)                                                                         (8)
+               10.000                                                  1.000
+        (8)
+               1.000
+
+               11.000                                                  1.000
+Lançamentos no diário
+
+     D – Aplicação Financeira
+     C – Rendimentos Financeiros ... 1.000
+
+Operação 9 → Pagamento de duplicata no valor de R$4.000, em dinheiro, com juros de 10%.
+Efeitos do fato contábil → baixa na obrigação (duplicatas a pagar) (-P), diminuição da conta caixa (-A) e
+reconhecimento de uma despesa (juros passivos), diminuindo o PL (-PL).
+Classificação → trata-se de um fato misto diminutivo (-A; -P; -PL)
+Antes de efetuarmos os registros vejamos os valores envolvidos.
+Valor da duplicata: 4.000,00
+Despesa de juros (10%): 400,00
+Valor desembolsado: 4.400,00
+Lançamentos em razonete
+
+                        Caixa                                Duplicatas a Pagar
+
+
+        (1)   100.000           40.000        (2)   (9)     4.000        20.000     (3)
+
+        (6)    10.000           4.400         (9)
+
+
+               65.600                                                    16.000
+
+                                         Juros Passivos
+
+
+                            (9)         400
+
+                                        400
+
+
+---
+
+Lançamentos no diário
+
+     D – Duplicatas a Pagar .000
+     D – Juros Passivos 
+     C – Caixa .400
+
+Operação 10 → Pagamento, em dinheiro, de despesas administrativas no valor de R$500.
+Efeitos do fato contábil → saída de valor da conta caixa (-A) e reconhecimento de uma despesa, diminuindo
+o PL (-PL).
+Classificação → trata-se de um fato modificativo diminutivo (-A; -PL)
+Lançamentos em razonete
+
+                                                                     Despesas
+                         Caixa                                     Administrativas
+
+
+        (1)   100.000       40.000             (2)    (10)   500
+        (6)   10.000        4.400              (9)
+
+
+                            500                (10)
+
+
+              65.100                                         500
+
+Lançamentos no diário
+
+     D – Despesas Administrativas
+     C – Caixa ... 500
+
+Operação 11 → Pagamento dos salários provisionados em dinheiro.
+Efeitos do fato contábil → saída de valor da conta caixa (-A) e a baixa de uma obrigação (-P).
+Classificação → trata-se de um fato permutativo (-A; -P)
+Lançamentos em razonete
+
+                         Caixa                                     Salários a Pagar
+
+
+        (1)    100.000           40.000        (2)    (11)     2.000           2.000   (7)
+
+        (6)     10.000           4.400         (9)
+
+
+                                  500          (10)                0
+
+                                 2.000         (11)
+
+
+                63.100
+
+
+---
+
+Lançamentos no diário
+
+     D – Salários a Pagar
+     C – Caixa ... 2.000
+
+Operação 12 → Compra de veículo para uso por R$20.000, sendo 10% à vista, em dinheiro, e o restante a
+prazo.
+Efeitos do fato contábil → entrada de valor na conta Veículos (+A); saída de valor da conta Caixa (-A); e
+entrada de valor na conta Financiamentos a Pagar (+P).
+Classificação → trata-se de um fato permutativo (+A; -A; +P)
+Lançamentos em razonete
+
+                         Caixa                                  Financiamentos a Pagar
+
+                                                                             18.000
+        (1)    100.000           40.000       (2)                                        (12)
+
+        (6)     10.000           4.400        (9)
+
+
+                                  500         (10)
+
+
+                                 2.000        (11)                           18.000
+
+                             2.000            (12)
+
+
+              61.100
+
+                                                     Veículos
+
+                                 (12)        20.000
+
+                                             20.000
+
+Lançamentos no diário
+
+     D – Veículos .000
+     C – Financiamento a Pagar ... 18.000
+     C – Caixa .000
+
+Operação 13 → Pagamento, em cheque, de duplicata no valor de R$6.000, com desconto de 10%.
+Efeitos do fato contábil → baixa de obrigação (duplicata a pagar) (-P); saída de valor da conta Bancos (-A); e
+reconhecimento de uma receita (descontos obtidos), aumentando o PL (+PL).
+
+
+---
+
+Classificação → trata-se de um fato misto aumentativo (-A; -P; +PL)
+Antes de efetuarmos os registros vejamos os valores envolvidos.
+Valor da duplicata: 6.000,00
+Desconto obtido (10%): 600,00
+Valor desembolsado: 5.400,00
+Lançamentos em razonete
+
+                        Banco                                  Duplicatas a Pagar
+
+
+        (2)    40.000           10.000          (4)    (9)     4.000        20.000   (3)
+
+        (5)     3.000            5.400                         6.000
+                                                (13)   (13)
+
+
+                                                                            10.000
+
+               27.600
+
+                                                 Descontos Obtidos
+
+
+                                                               600       (13)
+
+                                                               600
+
+Lançamentos no diário
+
+     D – Duplicatas a Pagar .000
+     C – Banco .400
+     C – Descontos Obtidos 
+
+Operação 14 → Desconto de R$ 5.000 em duplicatas a vencer no prazo de 30 dias, sob a taxa de juros de
+10% ao mês.
+Pessoal, essa é uma operação muito comum no âmbito corporativo. Como as empresas atualmente
+necessitam realizar muitas vendas a prazo, ocorre que em muitos casos falta liquidez para a empresa
+comprar mercadorias para venda. Sendo assim, uma saída muito utilizada é o desconto de duplicatas. Nessa
+operação, a entidade entrega as duplicatas de sua emissão ao Banco. Este promoverá a cobrança dessas
+duplicatas e antecipará à entidade o valor respectivo, obviamente que para tanto cobrará juros e despesas
+bancárias, por ocasião da operação financeira. Perceba que na essência essa operação corresponde a um
+
+
+---
+
+empréstimo. Por isso a conta Duplicatas Descontadas atualmente é classificada no Passivo, pois representa
+uma obrigação da empresa perante o banco.
+Destaca-se que a empresa nessa operação assume responsabilidade solidária, pois caso o cliente não realize
+o pagamento na data prevista, o banco debita o valor da duplicata na conta corrente da empresa.
+Entendido a essência da operação de desconto de duplicatas, vejamos como se efetiva o seu registro.
+Efeitos do fato contábil → aumento do saldo da conta Bancos (+A); aumento do saldo da conta Encargos
+Financeiros a Transcorrer (a vencer) (-P); e aumento do saldo da conta Duplicatas Descontadas (+P).
+Classificação → trata-se de um fato permutativo (+A; -P; +P)
+Antes de efetuarmos os registros vejamos os valores envolvidos.
+Valor da duplicata: 5.000,00
+Encargos Financeiros (10%): 500,00
+Valor Ativado na conta Bancos: 4.500,00
+Lançamentos em razonete
+
+                          Banco                                       Duplicatas Descontadas
+
+
+        (2)     40.000            10.000         (4)                                 5.000     (14)
+
+        (5)      3.000             5.400         (13)
+
+       (14)      4.500                                                               5.000
+
+                32.100
+
+                                               Encargos Financeiros a
+                                                    Transcorrer
+
+
+                                    (14)         500
+
+                                                 500
+
+Lançamentos no diário
+
+     D – Banco .500
+     D – Encargos Financeiros a Transcorrer 
+     C – Duplicatas Descontadas .000
+
+
+---
+
+A conta encargos financeiros a transcorrer, nesse caso, é uma conta retificadora da conta duplicatas
+descontadas.
+Pessoal, para finalizar a operação de duplicatas descontadas devemos saber que no vencimento das
+duplicatas temos três hipóteses:
+1ª Hipótese → O cliente paga as duplicatas. Nesse caso a empresa registra o seguinte lançamento:
+
+     D – Duplicatas Descontadas
+     C – Duplicatas a Receber
+
+Usando os dados do nosso exemplo, teríamos:
+
+     D – Duplicatas Descontadas
+     C – Duplicatas a Receber .000
+
+Perceba que zeramos o saldo da conta duplicatas descontadas e demos baixa nas duplicatas a receber, afinal
+o cliente efetuou o pagamento.
+2ª Hipótese → O cliente não paga as duplicatas. Nesse caso a empresa registra o seguinte lançamento:
+
+     D – Duplicatas Descontadas
+     C – Bancos
+
+Como o cliente não pagou as duplicatas no vencimento para o banco, a empresa efetua o pagamento, pois
+é responsável solidária. Observe que não há, nesse caso, baixa das duplicatas a receber, pois ocorreu o
+vencimento e não foram pagas pelo cliente.
+Usando os dados do nosso exemplo, teríamos:
+
+     D – Duplicatas Descontadas
+     C – Bancos .000
+
+3ª Hipótese → O cliente paga apenas uma parte do valor das duplicatas. Nesse caso a empresa registra o
+seguinte lançamento:
+
+     D – Duplicatas Descontadas
+     C – Duplicatas a Receber
+     C – Bancos
+
+Voltando ao nosso exemplo, digamos que o cliente efetuou o pagamento de apenas R$ 3.000,00. Assim,
+teríamos:
+
+     D – Duplicatas Descontadas .000
+     C – Duplicatas a Receber .000
+     C – Bancos .000
+
+
+---
+
+Como o cliente pagou apenas 3.000,00, a empresa baixa esse valor das duplicatas a receber e o restante
+(2.000,00) quem paga é a empresa.
+Vale destacar que os Encargos Financeiros a Transcorrer precisam ser baixados em seu vencimento, de
+acordo com a competência (nesse nosso exemplo 30 dias, pois foi somente uma parcela). Assim, devemos
+efetuar o seguinte registro:
+
+      D – Despesas Financeiras
+      C – Encargos Financeiros a Transcorrer ... 500,00
+
+Vamos ver um “exemplo real”!
+
+(SEFIN-RO/2010) Em 01/06/X9, a empresa Dara efetuou o desconto de duplicatas no valor de R$ 30.000,00,
+cujo vencimento era 31/07/X9, à taxa de juros de 2,5% a.m. (juros simples).
+As despesas cobradas pelo banco foram de R$ 500,00. Sabendo que no dia 31/07/X9 o cliente não pagou a
+duplicata, a empresa, nesta data, debitou:
+a) Duplicatas Descontadas e creditou Disponível, no valor de R$ 28.000,00.
+b) Duplicatas Descontadas e creditou Clientes, no valor de R$ 30.000,00.
+c) Perdas com Clientes e creditou Clientes, no valor de R$ 28.000,00.
+d) Duplicatas Descontadas e creditou Disponível, no valor de R$ 30.000,00.
+e) Disponível e creditou Duplicatas Descontadas no valor de R$ 28.000,00.
+Comentários
+Essa é uma típica questão que exige conhecimentos das operações de descontos de duplicatas. Em um
+primeiro momento parece uma questão difícil, não é mesmo? Mas, sabendo as 3 hipóteses que acabamos
+de estudar não tem erro! Vamos à resolução.
+Primeiramente, devemos enquadrar em uma das hipóteses (1ª – o cliente pagou; 2ª – o cliente não pagou;
+e 3ª – o cliente pagou parcialmente).
+No caso apresentado pela banca, o cliente não pagou a duplicata. Nesse caso, a empresa deveria efetuar o
+seguinte lançamento:
+D – Duplicatas Descontadas
+C – Bancos (disponível) ... 30.000
+Gabarito: D
+Veja que nesse tipo de questão nem precisamos entrar no mérito dos juros pagos, pois a questão pede a
+contabilização no vencimento!
+Mas, professor, e se a questão pedisse a contabilização na data da operação do desconto (01/06/X9), qual o
+lançamento a ser registrado?
+
+
+---
+
+Bem, pessoal, nesse caso teríamos que efetuar os cálculos. Vejamos como ficaria:
+Valor das Duplicatas = 30.000,00
+Taxa mensal = 2,5% a.m.
+Prazo até o vencimento = 2 meses
+Juros a serem pagos = 30.000,00 x (2 meses x 2,5%) = 1.500,00
+Despesas Bancárias = 500,00
+Valor líquido a ser recebido pela entidade (01/06/X9) = 28.000,00
+De posse dessas informações, vamos aproveitar para ver todos os lançamentos:
+Em 01/06/x9, foi feito o seguinte lançamento:
+
+     D - Banco ... 28.000
+     D - Encargos financeiros a transcorrer ...1.500 (=30.000 x 2,5% x 2) ***
+     D - Despesas Bancárias ... 500
+     C - Duplicatas descontas ... 30.000
+
+Em 30/06/x9, foi feito o seguinte lançamento:
+
+     D - Juros passivos ... 750
+     C- Encargos financeiros a transcorrer ... 750 ***
+
+Em 31/07/x9, foram feitos os seguintes lançamentos:
+1) apropriação dos encargos financeiros
+
+     D - Juros passivos ... 750
+     C- Encargos financeiros a transcorrer ... 750 ***
+
+2) pagamento da duplicata
+
+     D - Duplicatas descontas ... 30.000
+     C – Banco ... 30.000
+
+3) baixa da duplicata não paga (considerando não haver estimativa de crédito de liquidação duvidosa pré
+constituída)
+
+     D - Perdas com créditos de liquidação duvidosa ... 30.000
+     C - Duplicatas a receber ... 30.000
+
+*** Perceba que o encargo financeiro vai sendo apropriado pelo regime de competência ao final de cada
+mês (mesmo que tenha sido pago no momento do desconto da duplicata).
+
+
+---
+
+Observe que a conta "encargos financeiros a transcorrer" registra o valor cobrado pelo Banco para "adiantar"
+o pagamento da duplicata. O fato gerador da despesa financeira oriunda do citado encargo financeiro é o
+decorrer do tempo. Nas questões comentadas vamos retornar ao assunto.
+
+                            BALANCETE DE VERIFICAÇÃO
+Definição e objetivo
+O Balancete de Verificação é um demonstrativo auxiliar, vale dizer, não obrigatório, levantado para fins
+operacionais. É composto por todas as contas com os seus respectivos saldos, extraídos do Livro Razão.
+O objetivo do Balancete de Verificação é verificar se o método das partidas dobradas foi obedecido ao longo
+do processo de escrituração dos fatos contábeis, ou seja, se os débitos e créditos foram efetuados
+corretamente.
+
+Elementos mínimos
+O Balancete de Verificação possui os seguintes elementos mínimos:
+a) identificação da entidade;
+b) data a que se refere;
+c) abrangência;
+d) identificação das contas e respectivos grupos;
+e) indicação dos saldos das contas (devedores ou credores);
+f) soma dos saldos devedores e credores.
+
+Tipos de balancete/estrutura
+Os balancetes podem ser de 4 tipos, de acordo com o número de colunas: 2, 4, 6 ou 8 colunas. Assim, quanto
+maior o número de colunas, maior será o detalhamento da informação.
+A estrutura do balancete de verificação de 2 colunas (o mais comum) é composta por uma coluna para os
+saldos devedores e outra para os saldos credores.
+A seguir temos um modelo básico do balancete de 2 colunas:
+
+                   Contas                     Saldo Devedor                    Saldo Credor
+                                                    Coluna 1                     Coluna 2
+
+
+       Total
+
+Já o balancete de 4 colunas possui mais duas colunas indicando os movimentos:
+
+
+---
+
+                                     Movimentos
+          Contas                                                    Saldo Devedor           Saldo Credor
+                              Devedor          Credor
+                              Coluna 1         Coluna 2               Coluna 3                Coluna 4
+
+
+ Total
+
+No balancete de 6 colunas, o saldo anterior, os movimentos e o saldo atual são apresentados em duas
+colunas cada, conforme modelo a seguir:
+
+                              Saldo Anterior                 Movimentos                   Saldo Atual
+         Contas
+                          Devedor         Credor         Devedor        Credor      Devedor        Credor
+                          Coluna 1       Coluna 2        Coluna 3      Coluna 4     Coluna 5      Coluna 6
+
+
+ Total
+
+Por fim, no balancete de 8 colunas, temos mais duas colunas para os saldos relativos ao movimento do
+período. Assim, temos:
+
+                                                    Movimentos
+                   Saldo Anterior                                                         Saldo Atual
+     Contas                                                          Saldos
+                                         D           C
+                    D        C                                  D             C      D                  C
+                   C1        C2          C3         C4         C5             C6     C7             C8
+ Total
+
+Observe que a coluna com o nome das contas não é considerada no número de colunas. Cada linha do
+balancete indica uma conta contábil. As colunas, por sua vez, os débitos e créditos, conforme o caso.
+Independente da sua estrutura, a consequência lógica do balancete é a seguinte: como o valor total debitado
+corresponde ao valor total creditado, então o somatório dos débitos corresponde ao somatório dos créditos
+efetuados. Sendo assim, se os totais divergirem entre si, ficará evidenciado erro na escrituração e
+desobediência ao método das partidas dobradas.
+
+(Polícia Federal) Em um balancete de seis colunas, apresentam-se, inicialmente, os saldos existentes nas
+rubricas contábeis no final do período anterior, seguidos da letra D ou C, que indicam se o referido saldo
+é devedor ou credor, respectivamente.
+Comentários
+
+
+---
+
+A redação dessa questão não é das melhores, infelizmente, mas é uma das únicas questões sobre balancete
+de seis colunas já exigidas em prova de grande expressão. No balancete de seis colunas temos duas colunas
+indicando o saldo anterior, duas colunas indicando o movimento e duas colunas indicando o saldo atual.
+Observe acima na estrutura apresentada que inicialmente (as duas primeiras colunas) realmente esse tipo
+de balancete apresenta os saldos do período anterior. No entanto, não são apenas essas as colunas
+apresentadas, motivo pelo qual, a nosso ver, a questão foi considerada errada. Reitero, no entanto, que a
+redação poderia ser bem mais clara, não é mesmo? Vida que segue!
+Gabarito: Errado
+(Polícia Federal) O balancete de verificação pode ser levantado em modelos que vão de um mínimo de
+duas colunas a um máximo de seis colunas.
+Comentários
+O balancete de verificação pode ter até 8 colunas.
+Gabarito: Errado
+(SUFRAMA) Cabe ao contador escolher a quantidade de colunas a ser adotada no balancete de verificação,
+desde que respeitado o limite máximo de seis colunas.
+Comentários
+O limite máximo é de 8 colunas.
+Gabarito: Errado
+(FUB) O balancete de verificação será elaborado em até oito colunas, na qual são apresentados os saldos
+iniciais, o movimento, os saldos do período e os saldos finais.
+Comentários
+Isso mesmo! Saldos iniciais (2 colunas), o movimento (2 colunas), os saldos do período (2 colunas) e os saldos
+finais (2 colunas).
+Gabarito: Certo
+(TRE-BA) Os modelos de balancetes de verificação utilizados incluem o de oito colunas, que demonstra os
+saldos anteriores, o movimento, os saldos do período e os saldos atuais.
+Comentários
+Para fixar! Praticamente igual à questão anterior.
+Gabarito: Certo
+(FUB) A diferença entre os modelos de balancete de 6 e de 8 colunas corresponde aos saldos devedores e
+credores que dizem respeito ao movimento do período, constantes no segundo modelo e ausentes no
+primeiro.
+Comentários
+Exatamente! A questão descreve a diferença entre os balancetes de 6 e 8 colunas.
+Gabarito: Certo
+(ABIN) O balancete de verificação é um relatório de conferência que corresponde a uma simples listagem
+dos saldos devedores e credores, cujos totais devem ser iguais.
+
+
+---
+
+Comentários
+O item aborda corretamente as principais características do balancete de verificação, conforme acabamos
+de estudar.
+Gabarito: Certo
+Resumindo as estruturas dos balancetes, temos:
+     Tipo
+                                                           Estrutura
+    (colunas)
+
+     Duas           saldo devedor (D); saldo credor (C)
+
+    Quatro          movimentos (D/C); saldo devedor (D); saldo credor (C)
+
+      Seis          saldo anterior (D/C), movimento (D/C); saldo atual (D/C)
+
+     Oito           saldo anterior (D/C); movimento (D/C) e Saldos (D/C); saldo atual (D/C)
+
+* saldo anterior pode também ser denominado de “saldo do período anterior” ou “saldo inicial”
+** saldo atual pode também ser denominado de “saldo final”
+Vamos aproveitar o exemplo visto no tópico anterior da nossa aula e fecharmos o balancete de verificação
+da empresa “Tchê Bagual”.
+                        Empresa Tchê Bagual - Balancete de Verificação em 31/12/20X1
+                              Contas                           Saldo Devedor            Saldo Credor
+                               Caixa                               61.100
+                              Bancos                               32.100
+                       Aplicação Financeira                        11.000
+                             Estoque                               12.000
+                             Veículos                              20.000
+                        Duplicatas a Pagar                                                    10.000
+                     Empréstimos Bancários                                                    3.000
+                     Duplicatas Descontadas                                                   5.000
+                Encargos Financeiros a Transcorrer                   500
+                         Salários a Pagar                                                  0,00
+                     Financiamentos a Pagar                                               18.000
+                              Capital                                                     100.000
+                        Receita c/ Vendas                                                 10.000
+                               CMV                                  8.000
+                      Despesa com Salários                          2.000
+                    Rendimentos Financeiros                                                   1.000
+                          Juros Passivos                             400
+                    Despesas Administrativas                         500
+                        Descontos Obtidos                                                   600
+                               Total                               147.600                147.600
+
+
+---
+
+Está fechado o nosso balancete! Destaca-se que o fato de o somatório dos saldos devedores ser igual ao
+somatório dos saldos credores não significa que a escrituração está 100% correta. Existem erros que não
+podem ser detectados pelo levantamento do balancete, quais sejam: omissão de registro, erro de título,
+determinados registros em duplicidade, entre outros. Obviamente que as bancas sabem desse detalhe e
+certamente já foi alvo de exigência.
+
+(ABIN) Quando a soma dos saldos credores for igual à soma dos saldos devedores no balancete de
+verificação, não haverá nenhum erro nos lançamentos contábeis do período.
+Comentários
+Questão de fixação! Como acabamos de ver, o fato de o somatório dos saldos devedores ser igual ao
+somatório dos saldos credores não significa que a escrituração está 100% correta, pois existem erros que
+não podem ser detectados pelo levantamento do balancete.
+Gabarito: Errado
+Para finalizar o tópico referente ao balancete de verificação cabe destacar que o balancete pode ser sintético
+ou analítico. O balancete sintético relaciona apenas as contas principais ou de primeiro grau (exemplo: conta
+“Bancos”). O balancete analítico relaciona as subcontas de segundo, terceiro e demais graus (exemplo: conta
+“Banco do Brasil S.A”).
+
+(ABIN) O balancete analítico relaciona as subcontas de segundo, terceiro e outros graus e o balancete
+sintético relaciona apenas as contas principais ou de primeiro grau.
+Comentários
+Trata-se da classificação dos balancetes de verificação de acordo com o grau das contas que relacionam,
+conforme acabamos de estudar.
+Gabarito: Certo
+
+
+---
+
+                              QUESTÕES COMENTADAS
+1. (FGV/PC-RN/2021) Em 01/07/2020, a Cia. Alfa contratou um seguro para a sua frota de veículos, com
+cobertura de um ano a partir da contratação, no valor de R$ 90.000,00, que foram pagos à vista na assinatura
+do contrato.
+No registro dessa transação, o lançamento a débito será em uma conta de:
+a) ajustes patrimoniais;
+b) ativo;
+c) despesa;
+d) passivo;
+e) perda.
+Comentários
+Nesse fato (contratação de seguro com pagamento à vista) temos a contabilização de um direito (despesa
+antecipada), ou seja, um ativo. Logo, debitamos essa conta (ativo aumenta a débito). Além disso, como houve
+um pagamento, há uma saída de caixa. Logo, creditamos a conta caixa (ativo diminui a crédito). O lançamento
+fica:
+D - Seguros a Vencer (ou Prêmio de Seguros a Vencer ou Despesas antecipadas)
+C - Caixa ... 90.000,00
+Gabarito: B
+2. (FGV/PC-RN/2021) O contador de uma empresa registrou diretamente em uma conta de resultado
+(despesa) a aquisição de material de expediente para estoque, que só deveria ser baixado como despesa
+quando requisitado.
+Para efetuar a retificação do lançamento contábil, deve-se realizar um(a):
+a) compensação;
+b) complementação;
+c) estorno total;
+d) estorno parcial;
+e) transferência.
+Comentários
+a. Errado. A compensação não é uma forma de retificação.
+b. Errado. Usa-se a complementação para retificar erros no valor do lançamento! Observe que não houve
+erro no valor registrado.
+c. Errado. Usa-se o estorno total para anular totalmente um lançamento. Nesse caso, a anulação total não
+retificaria o lançamento por si só, pois precisaríamos de um segundo lançamento para que a situação fosse
+regularizada.
+
+
+---
+
+d. Errado. A banca considerou essa opção errada, mas poderia ser considerada certa, pois a doutrina trata a
+transferência como uma forma de estorno parcial. Aqui a banca foi no sentido de estorno parcial de parte
+do valor (e não parte do lançamento), o que não resolveria o problema. Como temos uma opção irrefutável
+(a opção "E"), vamos usar o princípio da "mais correta". Em questões de múltipla escolha temos que ter essa
+premissa em mente na hora da prova.
+e. Certo. Nesse caso, com o uso da transferência resolveríamos o problema do lançamento. O lançamento
+que seria correto (considerando a aquisição à vista) seria:
+D - Estoque
+C - Caixa
+Porém, foi lançado:
+D - Despesa com Material de Expediente
+C - Caixa
+Logo, usando-se a transferência teríamos o lançamento de retificação:
+D - Estoque
+C - Despesa com Material de Expediente
+Gabarito: E
+3. (FGV/Analista Judiciário/Auditor/TJ-PI/2015) Com relação à escrituração contábil de uma entidade,
+analise as afirmativas abaixo:
+I - O registro contábil deve conter o número de identificação do lançamento em ordem sequencial
+relacionado ao respectivo documento de origem externa ou interna ou, na sua falta, em elementos que
+comprovem ou evidenciem fatos contábeis.
+II - Lançamento de complementação é aquele que promove a regularização de conta indevidamente debitada
+ou creditada, por meio da transposição do registro para a conta adequada.
+III - Segunda Fórmula: são os lançamentos que envolvem mais de uma conta a débito e apenas uma conta a
+crédito.
+Está correto o que se afirma em:
+a) somente I.
+b) somente I e II;
+c) somente I e III;
+d) somente II e III;
+e) I, II e III;
+Comentários
+Vamos analisar as assertivas.
+I – Certo. Segundo a ITG 2000,
+
+
+---
+
+     7. O registro contábil deve conter o número de identificação do lançamento em ordem
+     sequencial relacionado ao respectivo documento de origem externa ou interna ou, na sua falta,
+     em elementos que comprovem ou evidenciem fatos contábeis.
+
+II – Errado. É o lançamento de transferência que promove a regularização de conta indevidamente debitada
+ou creditada, por meio da transposição do registro para a conta adequada.
+III – Errado. O item refere-se ao lançamento de 3ª fórmula.
+Gabarito: A
+4. (FGV/Contador/SUDENE/2013) A escrituração do fato de pagamento em dinheiro de duplicatas no valor
+de $50 antes do vencimento com desconto financeiro de $2 é realizada da seguinte forma:
+a) D = Duplicatas a Pagar $50; C = Caixa $48; C = Desconto Obtido $2.
+b) D = Duplicatas a Vencer $50; C = Caixa $48; C = Desconto Obtido $2.
+c) D = Duplicatas a Pagar $50; D = Desconto Obtido $2; C = Caixa $48.
+d) D = Desconto Obtido $ 2; D = Duplicatas a Vencer $48; C = Caixa $50.
+e) D = Duplicatas a Vencer $50; C = Banco Conta Movimento $48; C = Desconto Obtido $2.
+Comentários
+Observe que houve um pagamento em dinheiro, logo há uma saída do caixa e, portanto, devemos creditar a
+conta caixa. E qual o valor que foi pago? Veja que a duplicata a pagar era de $50, porém houve um desconto
+de $2. Logo, o pagamento foi de $48. Com esse raciocínio, já ficamos entre as opções “A”, “B” e “C”. O valor
+do desconto obtido é uma receita financeira. Logo, devemos creditar a conta “desconto obtido”. Por fim,
+devemos efetuar a baixa da obrigação (conta “duplicatas a pagar”). Para tanto, devemos debitar essa conta.
+Assim, temos:
+
+     D – Duplicatas a Pagar ... 50,00
+     C – Caixa ... 48,00
+     C – Desconto Obtido (receita financeira) ... 2,00
+
+Observe que sempre o total dos créditos (no caso, 48 + 2) deve ser igual ao total dos débitos (no caso, 50).
+Gabarito: A
+5. (FGV/Técnico de Gestão Administrativa/Contador/ALEMA/2013) Como forma de garantir a encomenda,
+determinada entidade efetuou um adiantamento de parte do valor a fornecedor de matéria prima.
+Após a entrega da matéria prima e passados 30 dias dessa entrega, a escrituração do pagamento da dívida
+no dia do vencimento do título, considerando todas as operações descritas, será
+a) D = Matéria prima; C = Fornecedor
+b) D = Matéria prima; C = Caixa
+c) D = Adiantamento a Fornecedor; C = Caixa
+d) D = Matéria prima; C = Adiantamento a Fornecedor; C = Caixa
+e) D = Fornecedor; C = Adiantamento a Fornecedor; C = Caixa
+
+
+---
+
+Comentários
+Vamos estruturar o raciocínio para entendermos a questão. Veja que são dois fatos diferentes. Primeiro
+houve o adiantamento de parte do valor a um fornecedor. Nesse momento, temos o seguinte lançamento:
+
+      D – Adiantamento a Fornecedor*
+      C – Caixa
+
+* Trata-se de um direito (receber a matéria-prima) que a empresa tem contra o fornecedor. Logo, estamos diante de
+uma conta do ativo.
+Em um segundo momento, houve a entrega e, passados 30 dias, o pagamento.
+Na data da entrega, temos o seguinte lançamento:
+
+      D – Estoques
+      C – Fornecedores/duplicatas a pagar
+
+A banca quer saber qual o lançamento no dia do vencimento do título e do consequente pagamento. Assim,
+temos que:
+a) dar baixa da obrigação (fornecedores = duplicatas a pagar), ou seja, devemos debitar essa conta;
+b) dar baixa do direito (adiantamento a fornecedor), pois a matéria-prima foi entregue. Para tanto, devemos
+creditar essa conta;
+c) dar baixa do valor pago, ou seja, creditar a conta caixa.
+O lançamento, portanto, fica:
+
+      D – Fornecedor
+      C – Adiantamento a fornecedor
+      C – Caixa
+
+Gabarito: E
+6. (FGV/Contador/BADESC/2010) Com base na lei 6404/76, analise os lançamentos contábeis a seguir.
+Bancos
+a Diversos
+a Duplicatas a Receber
+a Receitas de Juros
+Esses lançamentos contábeis representam:
+a) pagamento de duplicata com juros.
+b) recebimento de duplicatas com juros.
+c) pagamento de empréstimo com juros contratuais.
+d) emissão de duplicata com ágio.
+
+
+---
+
+e) aceite de duplicata com deságio.
+Comentários
+Pessoal, conforme estudamos, sempre que vier o “a” antes da conta, significa que ela está sendo creditada.
+Uma dica para resolver a questão é “traduzir” o lançamento. No caso do lançamento dessa questão fica:
+
+      D – Bancos
+      C – Duplicatas a Receber
+      C – Receitas de Juros
+
+Veja que fica mais clara a visualização do fato ocorrido.
+Observe que houve um débito na conta “bancos”, logo há uma entrada de recursos no banco, pois o ativo
+aumenta a débito. Além disso, há uma baixa da conta “duplicatas a receber”, pois essa conta está sendo
+creditada e, como sabemos, o ativo diminui a crédito. Por fim, há o reconhecimento de uma receita, pois as
+receitas aumentam a crédito. Logo, o que o lançamento nos indica é o seguinte:
+Houve uma entrada de recursos referentes a duplicatas a receber com juros sendo depositado o valor na
+conta “bancos”, ou seja, houve um recebimento de duplicatas com juros.
+Veja que em questões envolvendo escrituração, devemos raciocinar por partes... entender o que está
+acontecendo: é um recebimento? Um pagamento? Refere-se a quê? Uma duplicata a pagar? Um
+empréstimo? Uma aquisição de mercadorias? Enfim... procure identificar o que está acontecendo e, a partir
+disso, basta aplicar o raciocínio da natureza das contas que já estudamos em nosso curso. Veja que saber o
+mecanismo de débito e crédito é fundamental, principalmente dessas operações básicas que estudamos
+nesta aula.
+Gabarito: B
+7. (AOCP/Pref. Cariacica-ES/2020) Consoante ao Livro Diário nas sociedades, assinale a alternativa
+INCORRETA.
+a) É indispensável e pode ser substituído por fichas no caso de escrituração mecanizada ou eletrônica.
+b) A escrituração do Livro Diário não pode ser substituída pela escrituração do Livro Razão.
+c) A adoção de fichas não dispensa o uso de livro apropriado para o lançamento do balanço patrimonial e do
+resultado financeiro.
+d) É um Livro que contém os registros contábeis de todos os lançamentos em ordem cronológica.
+Comentários
+A questão tomou como base o disposto no Código Civil.
+Art. 1.180. Além dos demais livros exigidos por lei, é indispensável o Diário, que pode ser substituído por fichas
+no caso de escrituração mecanizada ou eletrônica.
+Parágrafo único. A adoção de fichas não dispensa o uso de livro apropriado para o lançamento do balanço
+patrimonial e do de resultado econômico.
+Gabarito: C
+8. (AOCP/UFPB/2019) Relacione as colunas e assinale a alternativa com a sequência correta.
+1. Lançamento de primeira fórmula.
+
+
+---
+
+2. Lançamento de segunda fórmula.
+3. Lançamento de terceira fórmula.
+4. Lançamento de quarta fórmula.
+( ) Integralização de capital no valor de R$ 200.000,00, 40% em dinheiro e 60% em equipamentos.
+( ) Aquisição de móveis por R$ 50.000,00 com pagamento à vista em cheque.
+( ) Pagamento de R$ 5.600,00 de aluguel e R$ 400,00 de IPTU referentes ao imóvel alugado, sendo R$
+1.000,00 em dinheiro e R$ 5.000,00 em cheque.
+( ) Aquisição de móveis por R$ 20.000,00, com pagamento de 20% à vista em cheque e 80% a prazo.
+a) 1 - 4 - 2 - 3.
+b) 3 - 1 - 4 - 2.
+c) 4 - 1 - 3 - 2.
+d) 2 - 1 - 4 - 3.
+e) 3 - 4 - 1 - 2.
+Comentários
+Vamos realizar os lançamentos para cada um dos fatos descritos:
+Integralização de capital no valor de R$ 200.000,00, 40% em dinheiro e 60% em equipamentos.
+       D – Caixa ... 80.000,00
+       D – Equipamentos ... 120.000,00
+       C – Capital Social ... 200.000,00
+2 Débitos, 1 crédito (2 1) → 3ª Fórmula
+Aquisição de móveis por R$ 50.000,00 com pagamento à vista em cheque.
+       D – Móveis
+       C – Bancos ... 50.000,00
+1 Débito, 1 crédito (1 1) → 1ª Fórmula
+Pagamento de R$ 5.600,00 de aluguel e R$ 400,00 de IPTU referentes ao imóvel alugado, sendo R$ 1.000,00
+em dinheiro e R$ 5.000,00 em cheque.
+       D – Aluguel a pagar ... 5.600,00
+       D – IPTU a recolher ... 400,00
+       C – Caixa ... 1.000,00
+       C – Bancos ... 5.000,00
+2 Débitos, 2 créditos (2 2) → 4ª Fórmula
+Aquisição de móveis por R$ 20.000,00, com pagamento de 20% à vista em cheque e 80% a prazo.
+
+
+---
+
+     D – Móveis ... 20.000,00
+     C – Caixa ... 16.000,00
+     C – Bancos ...4.000,00
+1 Débito, 2 créditos (1 2) → 2ª Fórmula
+Gabarito: B
+9. (AOCP/UFPB/2019) Sobre o método das partidas dobradas, preencha as lacunas e assinale a alternativa
+correta.
+A essência desse método determina que sempre será feito pelo menos um lançamento a _______________
+em uma conta e um a _______________ em outra. Se existe um _______________, terá que haver também
+pelo menos um _______________.
+a) Esquerda do Balanço Patrimonial/Direita do Balanço Patrimonial/Credor/ Devedor
+b) Saldo Devedor/Saldo Credor/Débito/ Crédito
+c) Crédito/Débito/Credor/Devedor
+d) Direita do Balanço Patrimonial/Esquerda do Balanço Patrimonial/Devedor/Credor
+Comentários
+Segundo o método das partidas dobrados para todo o crédito temos um débito. Logo, para cada conta credita
+(credor) deverá existir ao menos uma conta debitada (devedor).
+Gabarito: C
+10. (AOCP/PC-ES/2019) NÃO deve constar, como elemento mínimo na estrutura do balancete de
+verificação, o/a(s)
+a) identificação da entidade.
+b) abrangência.
+c) identificação das contas e respectivos grupos.
+d) saldos das contas, indicando se devedores ou credores.
+e) movimento individual das contas.
+Comentários
+O Balancete de Verificação possui os seguintes elementos mínimos:
+a) identificação da entidade;
+b) data a que se refere;
+c) abrangência;
+d) identificação das contas e respectivos grupos;
+e) indicação dos saldos das contas (devedores ou credores);
+f) soma dos saldos devedores e credores.
+Gabarito: E
+
+
+---
+
+11. (AOCP/SUSIPE-PA/2018) Analise as assertivas e assinale a alternativa que aponta as corretas. A
+retificação de lançamentos contábeis é o processo técnico de correção de um registro realizado com erro na
+escrituração contábil das Entidades. São formas de retificação de lançamentos contábeis:
+I. o estorno. II. a transferência. III. a complementação. IV. a exclusão.
+a) Apenas I, III e IV.
+b) Apenas I, II e IV.
+c) Apenas II, III e IV.
+d) Apenas I, II e III.
+e) I, II, III e IV.
+Comentários
+O lançamento realizado de forma errônea pode ser corrigido (retificado) por meio de:
+     ▪    Estorno;
+     ▪    Transferência; e
+     ▪    Complementação.
+O estorno consiste em lançamento inverso àquele feito erroneamente, anulando-o integralmente. Em regra,
+a correção envolve dois lançamentos, o de estorno e o que corretamente registra a transação.
+A transferência, por sua vez, consiste no estorno parcial. É aquele que promove a regularização de conta
+indevidamente debitada ou creditada, por meio da transposição do registro para a conta adequada. A
+transferência permite a correção do erro mediante um único lançamento. Assim, não há necessidade de
+estornar integralmente o lançamento errado.
+A complementação, por fim, consiste em complementar, aumentando ou reduzindo o valor anteriormente
+registrado. Assim, repete-se o lançamento errado e registra-se a diferença de valor.
+Gabarito: D
+12. (AOCP/EBSERH/2017) Os principais livros utilizados pela Contabilidade são o Livro Diário e o Razão.
+Em relação ao livro diário, assinale a alternativa correta.
+a) Livro de escrituração obrigatória, que pode ser elaborado em forma de fichas soltas ou formulário
+contínuo.
+b) Livro que permite a classificação dos fatos de acordo com a sua natureza e pode ser escriturado em forma
+de livro, fichas soltas ou formulário contínuo.
+c) Livro que não é obrigatório pelas normas de contabilidade, em que cada empresa pode optar pela sua
+elaboração e modelo.
+d) Livro que pode ser preenchido de forma manual em folhas soltas e sem numeração.
+e) Livro de escrituração obrigatória, sendo necessário encadernar para ser levado à Receita Federal do Brasil
+para o seu registro.
+Comentários
+a. Certo. Segundo o Código Civil,
+
+
+---
+
+Art. 1.180. Além dos demais livros exigidos por lei, é indispensável o Diário, que pode ser substituído por fichas
+no caso de escrituração mecanizada ou eletrônica.
+b. Errado. O Diário não permite a classificação dos fatos de acordo com a sua natureza.
+c. Errado. O Diário é obrigatório.
+d. Errado. O Diário deve ser encadernado e as suas folhas devem ser numeradas sequencialmente. São duas
+das formalidades extrínsecas.
+e. Errado. O Diário não é registrado junto à Receita Federal.
+Gabarito: A
+13. (AOCP/EBSERH/2017) A escrituração necessita de uma boa definição por parte da empresa para que
+possa ser feito o controle do que precisa ser escriturado. Assinale alternativa que apresenta o conceito de
+escrituração na Contabilidade.
+a) Consiste em fornecer informações sobre o patrimônio, informações de origem econômica e financeira.
+b) Consiste em registrar toda a movimentação de entrada e saída de dinheiro da organização.
+c) Consiste em registrar, nos livros próprios, os acontecimentos que provocam modificações no Patrimônio
+da empresa.
+d) Consiste em avaliar as informações de ordem econômica referentes à movimentação das compras e
+vendas da empresa.
+e) Consiste em registrar as despesas e receitas de um determinado período.
+Comentários
+a. Errado. Esse é o objetivo da Contabilidade.
+b. Errado. A escrituração registra toda a movimentação dos fluxos financeiros (entrada e saída) de dinheiro
+da organização, mas não se limita apenas a isso.
+c. Certo. Perfeito! Trata-se de uma correta definição para a técnica da Escrituração.
+d. Errado. A escrituração não se relaciona com a avaliação de informações.
+e. Errado. Mesma ideia da opção B. Apesar da Escrituração registrar as despesas e receitas, não se limita a
+isso.
+Gabarito: C
+14. (CESPE/Auditor do Estado/CAGE-RS/2018) Considerando o disposto no Código Civil sobre o livro diário,
+assinale a opção correta.
+a) A prescrição ou decadência dos atos consignados no diário não eximem o empresário e a entidade
+empresária da sua guarda por um prazo adicional de cinco anos.
+b) Antes de ser colocado em uso, o livro diário deverá ser autenticado no Registro Público de Empresas
+Mercantis, salvo disposição especial de lei.
+c) Mesmo no caso de escrituração mecanizada ou eletrônica, o diário não poderá ser substituído por fichas.
+d) O balanço patrimonial e o de resultado econômico devem ser lançados em livro distinto do diário.
+e) No diário, deve constar unicamente a assinatura do técnico em ciências contábeis legalmente habilitado
+e responsável pelos lançamentos nele efetuados.
+
+
+---
+
+Comentários
+Questão interessante para complementarmos o estudo das disposições do Código Civil sobre os livros.
+Vamos analisar as assertivas.
+a. Errado. Não previsão no Código Civil desse prazo adicional de 5 anos. Nos termos do Código Civil,
+       Art. 1.194. O empresário e a sociedade empresária são obrigados a conservar em boa guarda toda
+       a escrituração, correspondência e mais papéis concernentes à sua atividade, enquanto não ocorrer
+       prescrição ou decadência no tocante aos atos neles consignados.
+b. Certo. É o que dispõe o art. 1.181 do Código Civil, senão vejamos:
+       Art. 1.181. Salvo disposição especial de lei, os livros obrigatórios e, se for o caso, as fichas, antes
+       de postos em uso, devem ser autenticados no Registro Público de Empresas Mercantis.
+c. Errado. O Diário pode sim ser substituído por fichas. Veja o que dispõe o Código Civil:
+       Art. 1.180. Além dos demais livros exigidos por lei, é indispensável o Diário, que pode ser
+       substituído por fichas no caso de escrituração mecanizada ou eletrônica
+d. Errado. Ambos demonstrativos devem ser lançados no diário.
+       Art. 1184 § 2º Serão lançados no Diário o balanço patrimonial e o de resultado econômico,
+       devendo ambos ser assinados por técnico em Ciências Contábeis legalmente habilitado e pelo
+       empresário ou sociedade empresária
+e. Errado. Nos termos do Código Civil,
+       Art. 1184 § 2º Serão lançados no Diário o balanço patrimonial e o de resultado econômico, devendo
+       ambos ser assinados por técnico em Ciências Contábeis legalmente habilitado e pelo
+       empresário ou sociedade empresária.
+Gabarito: B
+15. (CESPE/Auditor do Estado/CAGE-RS/2018) A respeito do regime de competência e dos livros contábeis,
+julgue os itens a seguir.
+I No regime de competência, as receitas são reconhecidas quando são ganhas, mesmo que não recebidas.
+II No lançamento em livro diário, devem-se descrever o título e o saldo da conta.
+III No livro razão, o confronto dos créditos e dos débitos denomina-se saldo.
+ IV De acordo com o regime de competência, as receitas e as despesas são consideradas em função dos
+recebimentos ou dos pagamentos.
+Estão certos apenas os itens
+a) I e II.
+b) I e III.
+c) III e IV.
+d) I, II e IV.
+e) II, III e IV.
+Comentários
+Vamos analisar as assertivas.
+
+
+---
+
+I – Certo. É isso mesmo. Pelo regime de competência as receitas são reconhecidas pelo fato gerador (quando
+“ganhas”, nos termos do item ora analisado), independentemente de seu recebimento. O mesmo raciocínio
+se aplica às despesas, as quais devem ser reconhecidas no momento do fato gerador, independentemente
+do pagamento.
+II - Errado. Os requisitos das partidas do Diário são os seguintes:
+     ▪       data do registro contábil, ou seja, a data em que o fato contábil ocorreu;
+     ▪       conta devedora;
+     ▪       conta credora;
+     ▪       histórico que represente a essência econômica da transação ou o código de histórico padronizado,
+             neste caso baseado em tabela auxiliar inclusa em livro próprio;
+     ▪       valor do registro contábil;
+     ▪       informação que permita identificar, de forma unívoca, todos os registros que integram um mesmo
+             lançamento contábil.
+É no razão que temos o título da conta e o saldo.
+III – Certo. Perfeito, é isso mesmo. Basta você se lembrar do razonete. Ao confrontarmos os lançamentos a
+crédito e débito de uma conta (os dois lados do razonete) chegamos ao saldo dessa conta.
+IV – Errado. De acordo com o regime de caixa, as receitas e as despesas são consideradas em função dos
+recebimentos ou dos pagamentos.
+Gabarito: B
+16. (CESPE/Perito Criminal/PC-MA/2018) A respeito do método das partidas dobradas e de seus
+desdobramentos na ciência contábil, julgue os itens seguintes.
+I As aplicações de recursos são representadas por meio de débitos em determinadas rubricas contábeis,
+enquanto as origens dos recursos aplicados provocam registro a crédito em outras rubricas.
+II A aquisição de bens para comercialização a prazo e com juros é um exemplo de partida de segunda fórmula.
+III Em uma venda de mercadoria, ocorre a baixa, a crédito, da mercadoria vendida, em contrapartida à
+correspondente conta de receita por venda de mercadorias.
+IV A existência de um conjunto de levantamentos refletindo um elemento ou componente formado ou em
+formação pertencente a um patrimônio, expresso geralmente em moeda corrente, é inerente ao método
+das partidas dobradas.
+Estão certos apenas os itens
+a) I e II.
+b) I e IV.
+c) II e III.
+d) I, III e IV.
+e) II, III e IV.
+Comentários
+Vamos analisar as assertivas.
+
+
+---
+
+I – Certo. Estudamos o assunto em aula passada. A dica é você relacionar aplicações de recursos com débitos
+(tendo em vista que as aplicações de recursos – ativos e despesas – possuem natureza devedora) e origens
+de recursos com créditos (passivo, PL e receitas possuem natureza credora).
+II – Errado. Nesse caso temos um lançamento de 3ª fórmula.
+
+      Débito: Estoque
+      Débito: Juros Passivos a Transcorrer (redutora do passivo)
+      Crédito: Fornecedores
+
+III – Errado. Sei que pode parecer difícil um item desses na prova. Porém, lembre-se da operação 6 que
+estudamos na parte teórica. Na oportunidade comentamos o seguinte:
+Trata-se de uma operação de venda. Pessoal, em qualquer operação de venda sempre haverá, no mínimo,
+dois momentos.
+Momento 1 → Reconhecimento da venda
+Corresponde ao valor de entrada, vale dizer, o preço pelo qual a mercadoria foi vendida.
+Momento 2 → Reconhecimento do custo
+Corresponde ao valor de saída, ou seja, ao custo da mercadoria que foi baixada do estoque da entidade.
+Assim, temos os seguintes lançamentos:
+
+      D – Custo da Mercadoria Vendida (CMV)
+      C – Estoques
+
+
+      D – Caixa/banco
+      C – Receita de Vendas
+
+IV – Certo. Não é muito comum as bancas utilizarem conceitos mais antigos. Porém, nesse item o
+examinador tomou como base uma definição clássica de “contas” presente na obra do teórico Vicenso
+Mais. Basicamente o item nos traz a definição de conta para esse autor. E as contas estão diretamente
+associadas ao método das partidas dobradas.
+Gabarito: B
+17. (CESPE/Técnico Judiciário/Contabilidade/TRE-BA/2017) No que se refere à escrituração, o lançamento
+que consiste na regularização da conta indevidamente debitada ou creditada com a transposição do
+registro para a conta adequada é denominado
+a) transferência.
+b) estorno.
+c) retificação.
+d) complementação.
+e) ressalva.
+Comentários
+
+
+---
+
+A transferência consiste no estorno parcial. É aquele que promove a regularização de conta indevidamente
+debitada ou creditada, por meio da transposição do registro para a conta adequada. A transferência permite
+a correção do erro mediante um único lançamento. Assim, não há necessidade de estornar integralmente o
+lançamento errado.
+         Dica: memorize a palavra-chave “transposição”. TRANSferência → TRANSposição
+Gabarito: A
+18. (CESPE/Técnico Judiciário/Contabilidade/TRE-BA/2017) A pessoa jurídica tributada com base no lucro
+real deverá manter o livro razão ou fichas utilizadas para resumir e totalizar, por conta ou subconta, os
+lançamentos efetuados no livro diário.
+Com relação ao livro razão, assinale a opção correta.
+a) É obrigatória a escrituração do livro razão por qualquer pessoa jurídica.
+b) A escrituração do livro razão deverá ser individualizada, obedecendo-se à ordem cronológica das
+operações.
+c) O livro razão, com escrituração sintética, é auxiliar do livro diário.
+d) São dispensados no livro razão os termos de abertura e de encerramento.
+e) As entidades comerciais que adotem escrituração completa estão obrigadas a autenticar o livro razão.
+Comentários
+Vamos analisar as assertivas.
+a. Errado. Negativo. O Razão é facultativo pela legislação societária e obrigatório pelo Regulamento do
+Imposto de Renda (RIR/2018) somente para as entidades obrigadas a declarar o IR com base no Lucro Real.
+b. Certo. Perfeito! A escrituração no razão deve obedecer à ordem cronológica das operações.
+c. Errado. O razão é um livro principal. Não é auxiliar.
+d. Errado. Tanto o Diário como o Razão devem conter termo de abertura e de encerramento.
+e. Errado. Razão é dispensado da autenticação.
+Gabarito: B
+19. (CESPE/Contador/DPU/2016) Uma das finalidades do balancete de verificação é demonstrar a correta
+aplicação do método das partidas dobradas, pois o total devedor deve ser igual ao total credor, ou seja,
+para cada débito em uma ou mais contas deve haver crédito de igual valor em uma ou mais contas.
+Comentários
+Perfeito! Conforme estudamos, o Balancete de Verificação é um demonstrativo auxiliar, vale dizer, não
+obrigatório, levantado para fins operacionais. É composto por todas as contas com os seus respectivos
+saldos, extraídos do Livro Razão.
+O objetivo do Balancete de Verificação é verificar se o método das partidas dobradas foi obedecido ao
+longo do processo de escrituração dos fatos contábeis, ou seja, se os débitos e créditos foram efetuados
+corretamente.
+A estrutura do balancete de verificação, basicamente, compreende duas colunas: uma coluna para os saldos
+devedores e outra para os saldos credores.
+
+
+---
+
+A consequência lógica do balancete é a seguinte: como o valor total debitado corresponde ao valor total
+creditado, então o somatório dos débitos corresponde ao somatório dos créditos efetuados. Sendo assim,
+se os totais divergirem entre si, ficará evidenciado erro na escrituração e desobediência ao método das
+partidas dobradas.
+Gabarito: Certo
+20. (CESPE/Contador/DPU/2016) Os documentos base para a elaboração do balancete de verificação são
+o livro diário, de onde são extraídos os saldos finais das contas, e o livro razão, no qual estão demonstradas
+as movimentações contábeis.
+Comentários
+Conforme vimos no comentário da questão anterior, o Balancete de Verificação é composto por todas as
+contas com os seus respectivos saldos, extraídos do Livro Razão.
+O livro diário não é utilizado na elaboração do Balancete.
+Gabarito: Errado
+21. (CESPE/Agente de Polícia Federal/2014) Para que se demonstre com fidelidade a situação patrimonial
+de determinada entidade, faz-se necessária a observância de normas técnicas e legais de elaboração das
+demonstrações contábeis. Com relação a esse tema, julgue o próximo item.
+O balancete de verificação é feito a partir da extração dos saldos contidos no livro diário.
+Comentários
+Para Fixar! Veja que as questões se repetem... O Balancete de Verificação é um demonstrativo auxiliar, vale
+dizer, não obrigatório, levantado para fins operacionais. É composto por todas as contas com os seus
+respectivos saldos, extraídos do Livro Razão.
+Gabarito: Errado
+22. (CESPE/Técnico em Contabilidade/SUFRAMA/2014) No que se refere ao balancete de verificação,
+julgue o item subsequente.
+Em um balancete de verificação, é possível verificar a igualdade entre o total de débitos e o total de créditos,
+o que garante a correção dos procedimentos contábeis adotados.
+Comentários
+Conforme estudamos, o fato de o somatório dos saldos devedores ser igual ao somatório dos saldos credores
+não significa que a escrituração está 100% correta. Existem erros que não podem ser detectados pelo
+levantamento do balancete, quais sejam: omissão de registro, erro de título, determinados registros em
+duplicidade, entre outros.
+Gabarito: Errado
+23. (CESPE/Analista Judiciário/Contabilidade/TRT10/2013) Em relação às contas e à escrituração contábil,
+julgue o item seguinte.
+O balanço patrimonial e o de resultado econômico devem ser lançados no livro razão. Ambos têm de ser
+assinados por técnico em ciências contábeis legalmente habilitado e pelo empresário ou sociedade
+empresária.
+Comentários
+A questão foi baseada no art. 1.184, §2º do código civil, senão vejamos:
+
+
+---
+
+      § 2º Serão lançados no Diário o balanço patrimonial e o de resultado econômico, devendo ambos
+      ser assinados por técnico em Ciências Contábeis legalmente habilitado e pelo empresário ou
+      sociedade empresária.
+Observe que tanto o Balanço Patrimonial como a DRE são lançados no Diário e não no Razão, conforme
+afirma o item.
+Gabarito: Errado
+24. (CESPE/Auditor Fiscal da Receita Estadual/SEFAZ-ES/2013/Adaptada) Com relação aos livros do
+empresário e à sua escrituração, julgue o item a seguir.
+O empresário e a sociedade empresária são obrigados a adotar um sistema de contabilidade, mecanizado ou
+não, com base na escrituração uniforme de seus livros, em correspondência com a documentação respectiva,
+e a levantar anualmente o balanço patrimonial e o de resultado econômico.
+Comentários
+A questão trata sobre a obrigatoriedade da escrituração, O Código Civil Brasileiro (Lei n. 10.406/02)
+determina a obrigatoriedade da escrituração contábil em seu art. 1.179, senão vejamos:
+      Art. 1.179. O empresário e a sociedade empresária são obrigados a seguir um sistema de
+      contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros, em
+      correspondência com a documentação respectiva, e a levantar anualmente o balanço patrimonial e
+      o de resultado econômico.
+Como toda boa regra há exceções, quais sejam, o produtor rural e o pequeno empresário, os quais estão
+dispensados da escrituração contábil.
+E o que é considerado pequeno empresário para efeito de aplicação dessa dispensa?
+É o empresário individual caracterizado como microempresa nos termos da Lei Complementar nº 123/2006
+que aufira receita bruta anual de até R$ 81.000,00 (oitenta e um mil reais).
+Gabarito: Certo
+25. (CESPE/Analista Administrativo/Contábil/PREVIC/2011) Acerca de noções básicas da metodologia e do
+sistema contábil, julgue o item a seguir.
+O registro do aumento de determinada conta do lado esquerdo do razonete não significa que a conta deva
+estar posicionada no lado esquerdo no balanço patrimonial.
+Comentários
+Em primeiro lugar, nem todas as contas são classificadas no balanço patrimonial, mas somente as contas
+patrimoniais (ativo, passivo, PL e retificadoras desses elementos). Além disso, segundo a natureza das contas,
+temos:
+Contas devedoras: aumentam no lado esquerdo do razonete. São elas: Ativo, retificadora de passivo e PL e
+despesas.
+Contas credoras: aumentam no lado direito do razonete. São elas:
+Passivo, retificadora de ativo e receitas.
+Logo, o registro do aumento de determinada conta do lado esquerdo do razonete não significa que a conta
+deva estar posicionada no lado esquerdo no balanço patrimonial (lado do ativo).
+Exemplo: reconhecimento de uma despesa (aumento no lado esquerdo do razonete, mas não evidenciado
+no lado esquerdo do balanço patrimonial, mas sim na demonstração do resultado).
+
+
+---
+
+Gabarito: Certo
+26. (CESPE/Analista Judiciário/Contabilidade/TRE-ES/2011) Julgue o item que se segue, acerca da
+utilização das técnicas contábeis no registro e controle do patrimônio das entidades.
+O sistema de partidas dobradas consiste no registro de fatos contábeis de modo que, para cada conta
+debitada, corresponde uma conta creditada e com o mesmo valor.
+Comentários
+O Método das Partidas Dobradas preceitua que:
+       A todo o débito corresponde um ou mais créditos, sendo que o total de débito é exatamente igual
+       ao total de crédito.
+Perceba que, segundo esse método, não existe débito sem crédito. Porém, pode ocorrer um ou mais débitos
+ou créditos, conforme o caso. Isso ficará mais claro quando estudarmos as fórmulas de lançamentos.
+Gabarito: Errado
+27. (CESPE/Analista Judiciário/Contabilidade/TRE-ES/2011) Julgue o item que se segue, acerca da
+utilização das técnicas contábeis no registro e controle do patrimônio das entidades.
+Se, indevidamente, um contabilista registrar a compra à vista de um automóvel, debitando a conta de
+veículos em uso e creditando a conta de fornecedores, a única forma possível de corrigir o lançamento errado
+será efetuar um lançamento de estorno.
+Comentários
+A questão exige conhecimentos sobre as formas de correção dos lançamentos.
+Nesse caso, existem duas formas possíveis: efetuar um lançamento de estorno ou fazer o lançamento de
+transferência da conta caixa para a conta fornecedores. O exemplo exposto na teoria estudada na aula aplica-
+se ao caso apresentado na questão.
+Gabarito: Errado
+28. (CESPE/Agente de Polícia Federal/2009) Julgue o item a seguir, com base nos conceitos e normas
+aplicáveis à escrituração contábil.
+Os livros diário e razão, por constituírem os registros permanentes de uma entidade e por serem
+obrigatórios, devem ser registrados no registro público competente.
+Comentários
+Conforme estudamos, o livro diário é obrigatório para todas as empresas, porém o livro razão é facultativo
+pela legislação societária e obrigatório pelo Regulamento do Imposto de Renda (RIR/2018).
+Gabarito: Errado
+29. (CESPE/Técnico de Contabilidade/FUB/2008) São elementos essenciais de um lançamento contábil:
+data, conta debitada, conta creditada, histórico e valor.
+Comentários
+Para fixar! Os elementos essenciais do lançamento contábil no livro Diário são:
+   ▪    local e data;
+   ▪    conta(s) debitada(s);
+
+
+---
+
+   ▪   conta(s) creditada(s);
+   ▪   histórico;
+   ▪   valor.
+Gabarito: Certo
+30. (CESPE/Técnico de Contabilidade/FUB/2008) O método das partidas dobradas pressupõe a
+inexistência de devedor sem credor correspondente.
+Para fixar! Segundo o método das partidas dobradas, a todo o débito corresponde um ou mais créditos,
+sendo que o total de débito é exatamente igual ao total de crédito. Logo, referido método pressupõe a
+inexistência de devedor sem credor correspondente.
+Gabarito: Certo
+31. (CESPE/Técnico de Contabilidade/FUB/2008) O razão é considerado um livro contábil.
+Essa é da série “mamão com açúcar”, não é mesmo? Típica questão que não podemos errar de jeito nenhum,
+pois TODOS os candidatos minimamente preparados acertarão. Claro que alguns aventureiros que tomaram
+a (péssima) decisão de deixar tudo em branco a parte de Contabilidade ou não estudaram nada sobre o
+assunto estarão em desvantagem. Mas, fique na paz, pois você jamais deixará de somar pontos em questões
+dessa natureza.
+Comentários
+Conforme estudamos, os principais livros de escrituração são o diário e o razão. Além desses, o livro caixa é
+também importante.
+Gabarito: Certo
+32. (CESPE/Técnico de Contabilidade/FUB/2008) O diário é um livro obrigatório para fins de escrituração
+contábil.
+Conforme estudamos, o livro diário é obrigatório, principal, comum e cronológico.
+Gabarito: Certo
+33. (CESPE/Técnico de Contabilidade/FUB/2008) São formalidades extrínsecas do livro diário: utilização
+de idioma nacional e uso da linguagem mercantil.
+Comentários
+Conforme estudamos, a utilização de idioma nacional e uso da linguagem mercantil são formalidades
+intrínsecas do livro diário, pois estão relacionadas ao lançamento contábil. Lembre-se que as formalidades
+extrínsecas estão relacionadas à forma de apresentação material do livro Diário.
+Gabarito: Errado
+34. (CESPE/Técnico de Contabilidade/FUB/2008) Efetuar um lançamento de sétima fórmula significa dizer
+que se está registrando fatos administrativos que envolvem uma conta devedora e duas credoras.
+Comentários
+E aí, pessoal! Essa estava barbada, não é mesmo? Sétima fórmula? Tá de sacanagem! Os fatos
+administrativos que envolvem uma conta devedora e duas credoras necessitam de um lançamento de
+segunda fórmula.
+Gabarito: Errado
+
+
+---
+
+35. (CESPE/Técnico de Contabilidade/FUB/2008) A compra de material de escritório por R$ 2.000,00 à vista
+e com pagamento em dinheiro gera um lançamento de primeira fórmula.
+Efetuando o lançamento temos:
+
+        D – Material de Escritório
+        C – Caixa ... 2.000,00
+
+Perceba que realmente é um lançamento de primeira fórmula, pois envolve 1 débito e 1 crédito (11).
+Gabarito: Certo
+36. (CESPE/Técnico de Contabilidade/FUB/2008) O registro contábil utilizando mais de uma conta
+devedora e mais de uma conta credora significa o registro simultâneo de um lançamento de quarta
+fórmula.
+Comentários
+Perfeito! Trata-se da essência de um lançamento de 4ª fórmula: 2 débitos ou mais e 2 créditos ou mais (22).
+Gabarito: Certo
+37. (CESPE/Técnico em Contabilidade/FHCGV-PA/2004) Em contabilidade, o lançamento corresponde ao
+registro dos fatos administrativos ou contábeis. Para atingir a perfeição, o lançamento deve apresentar
+clareza, exatidão, propriedade descritiva e intitulativa.
+Comentários
+Perfeito! O lançamento corresponde ao registro dos fatos administrativos ou contábeis. Ademais, são
+características necessárias ao lançamento: clareza, exatidão, propriedade descritiva e intitulativa.
+Gabarito: Certo
+38. (CESPE/Técnico em Contabilidade/FHCGV-PA/2004) O método atualmente utilizado para registro
+contábil é o das partidas dobradas. Entende-se por partida o registro de um fato ou vários fatos
+patrimoniais em forma contábil, que tem como elementos essenciais a conta debitada, o valor, o histórico,
+o local e a data.
+Comentários
+Os elementos essenciais do lançamento contábil no livro Diário são:
+    ▪    local e data;
+    ▪    conta(s) debitada(s);
+    ▪    conta(s) creditada(s);
+    ▪    histórico;
+    ▪    valor.
+Vejamos um exemplo:
+                                                           Local e data
+Brasília, 10 de janeiro de 20X1.
+D – Bancos Conta Movimento                                 Conta debitada
+                                                           Conta
+                                                           Conta Debitada
+C – Caixa ,00                                Creditada e valor
+
+
+---
+
+Conforme recibo de depósito nº 001 do Banco XYZ S.A no valor de R$ 500,00.
+                                  Histórico
+
+O exemplo acima é de um lançamento mecanizado. Abaixo segue o mesmo exemplo, mas de um lançamento
+manual:
+                                                            Local e data
+Brasília, 10 de janeiro de 20X1.
+                                                             Conta Debitada
+Bancos Conta Movimento
+a Caixa ,00                              Conta Creditada e valor
+
+Conforme recibo de depósito nº 001 do Banco XYZ S.A no valor de R$ 500,00.
+                                  Histórico
+
+Observe que na escrituração do livro Diário pelo processo manual, usa-se a preposição “a” para indicar a
+conta creditada.
+Pessoal, é claro que essa formalidade toda você não vai fazer na hora da sua prova. Para fins de praticidade,
+basta fazermos:
+
+       D – Bancos
+       C – Caixa
+
+Voltando ao item sob análise, observa-se que o seu erro está no fato de ter omitido um dos elementos
+essenciais. Corrigindo o item temos:
+O método atualmente utilizado para registro contábil é o das partidas dobradas. Entende-se por partida o
+registro de um fato ou vários fatos patrimoniais em forma contábil, que tem como elementos essenciais a(s)
+conta(s) debitada(s), a(s) conta(s) creditada(s) o valor, o histórico, o local e a data.
+Gabarito: Errado
+39. (CESPE/Técnico em Contabilidade/FHCGV-PA/2004) Para que a contabilidade exerça a função de
+escrituração, é necessária a utilização de um método próprio denominado método das partidas simples,
+ou seja, para cada débito, existirá um crédito correspondente.
+Comentários
+Em sua função de escrituração, a contabilidade utiliza-se do método das partidas dobradas, no qual a todo
+o débito corresponde um ou mais créditos, sendo que o total de débito é exatamente igual ao total de
+crédito.
+Gabarito: Errado
+40. (CESPE/Técnico em Contabilidade/HCGV/2004) A junção de diversos lançamentos de primeira fórmula
+em uma só partida caracteriza o lançamento de quarta fórmula.
+Comentários
+Perfeito! Sabemos que um lançamento de primeira fórmula envolve uma conta debitada e uma conta
+creditada. Além disso, é de nosso conhecimento que um lançamento de quarta fórmula envolve dois débitos
+ou mais e dois créditos ou mais. Logo, podemos afirmar que a junção de diversos lançamentos de primeira
+fórmula em uma só partida caracteriza o lançamento de quarta fórmula.
+Gabarito: Certo
+
+
+---
+
+41. (CESGRANRIO/Profissional/Ciências Contábeis/LIQUIGÁS/2018) De acordo com as normas brasileiras
+de contabilidade, mais precisamente da ITG 2000 (R1), o Livro Diário, em forma digital, deve revestir-se de
+formalidades extrínsecas, dentre as quais:
+a) Ser encadernado
+b) Ser assinado digitalmente pela entidade e pelo profissional de contabilidade legalmente habilitado
+c) Ter nele lançadas, em ordem cronológica, com individualização, clareza e referência ao documento
+probante, todas as operações ocorridas, e, lançados, quaisquer outros fatos que provoquem variações
+patrimoniais
+d) Ter as suas folhas numeradas sequencialmente
+e) Conter termo de abertura e de encerramento, assinados pelo titular ou representante legal da entidade e
+pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade
+Comentários
+Segundo a ITG 2000,
+
+     10. Os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão, em forma digital,
+     devem revestir-se de formalidades extrínsecas, tais como:
+     a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade
+     regularmente habilitado;
+     b) quando exigível por legislação específica, serem autenticados no registro público ou
+     entidade competente.
+
+As opções “A”, “D” e “E” são formalidades extrínsecas aplicáveis aos livros na forma não digital. A opção”C”
+nos retorna uma característica do livro diário prevista na ITG 2000 (item 14), mas não uma formalidade
+extrínseca de livro na forma digital.
+Gabarito: B
+42. (CESGRANRIO/Analista Júnior/Financeiro/TRANSPETRO/2018) O método das partidas dobradas,
+amplamente usado para registro das transações contábeis, é baseado na lógica de lançamento de origem
+e aplicação de recursos.
+Assim, o registro contábil do pagamento de saldo em aberto de R$ 1.000,00 a fornecedores tem como
+lançamento referente à aplicação de recursos um
+a) débito em fornecedores
+b) débito em estoques de mercadorias
+c) débito em bancos c/movimento
+d) crédito em fornecedores
+e) crédito em bancos c/movimento
+Comentários
+No pagamento de fornecedores há uma saída do caixa (crédito em caixa) e a baixa da obrigação (débito em
+fornecedores):
+
+
+---
+
+      D – Fornecedores
+      C – Caixa ... 1.000,00
+
+Gabarito: A
+43. (CESGRANRIO/Técnico Júnior/TRANSPETRO/2018) As entidades devem manter, nos termos da lei
+societária e normas contábeis vigentes, registros contábeis suportados por documentos legais e hábeis,
+tais como notas fiscais, recibos e contratos. Ainda de acordo com a teoria contábil, tais registros devem
+ser realizados no livro Diário, por lançamento cuja quantidade de elementos é
+a) dois
+b) três
+c) quatro
+d) cinco
+e) seis
+Comentários
+Conforme estudamos, os elementos essenciais do lançamento contábil no livro Diário são:
+- local e data;
+- conta(s) debitada(s);
+- conta(s) creditada(s);
+- histórico;
+- valor.
+Logo, são cinco elementos!
+Gabarito: D
+44. (ESAF/Analista de Comércio Exterior/2012) O lançamento de terceira fórmula é chamado de lançamento
+composto porque é formado de
+a) duas contas devedoras e duas contas credoras.
+b) duas contas devedoras e uma conta credora.
+c) uma conta devedora e duas ou mais contas credoras.
+d) duas ou mais contas devedoras e duas ou mais contas credoras.
+e) duas ou mais contas devedoras e uma conta credora.
+Comentários
+Lembra-se da nossa tabelinha?
+Exemplo de lançamento de 3ª fórmula:
+                     1ª fórmula     11     1 débito e 1 crédito
+                     2ª fórmula     12     1 débito e 2 créditos ou mais
+                     3ª fórmula     21     2 débitos ou mais e 1 crédito
+                     4ª fórmula     22     2 débitos ou mais e 2 créditos ou mais
+
+
+---
+
+Pagamento de duplicatas no valor de R$ 20.000,00, com juros de 10%.
+
+                     Lançamento Mecanizado                         Lançamento Manual
+
+       D – Duplicatas a Pagar... 20.000,00              Diversos
+       D – Juros Passivos .000,00             a Caixa
+       C – Caixa .000,00       Duplicatas a Pagar ... 20.000,00
+                                                        Juros Passivos .000,00
+
+Gabarito: E
+45. (ESAF/Analista de Comércio Exterior/2012) Observe as seguintes sugestões de lançamento e assinale
+a opção incorreta.
+a) Compras
+  a Diversos
+  a Caixa
+  a Fornecedores
+Neste lançamento está sendo contabilizada uma operação de compra de mercadorias a prazo com entrada,
+sem impostos.
+b) Diversos
+  a Caixa
+  Fornecedores
+  Juros
+ Neste lançamento está sendo contabilizado um pagamento de dívidas com juros.
+c) Diversos
+  a Vendas
+  Clientes
+  Impostos a Recuperar
+Neste lançamento está sendo contabilizada uma venda a prazo com ICMS.
+d) Fornecedores
+  a Diversos
+  a Caixa
+  a Descontos
+Neste lançamento está sendo contabilizado um pagamento de dívidas com descontos.
+e) Caixa
+  a Diversos
+  a Clientes
+
+
+---
+
+  a Juros
+Neste lançamento está sendo contabilizado um recebimento de créditos com juros.
+Comentários
+Somente a opção “C” está incorreta, pois o lançamento está errado.
+O lançamento correto seria:
+
+                 Lançamento Mecanizado                            Lançamento Manual
+
+        D – Clientes (duplicatas a receber)          Diversos
+        D – ICMS sobre vendas                        a Diversos
+        C – Receita de Vendas                        Clientes (duplicatas a receber)
+        C – ICMS a Recolher                          ICMS sobre vendas
+                                                     a Receita de Vendas
+                                                     a ICMS a Recolher
+
+Trata-se de um lançamento de 4ª fórmula (2 2).
+Gabarito: C
+46. (ESAF/Analista do Mercado de Capitais/CVM/2010) O Banco do Brasil emitiu aviso de débito
+comunicando à empresa Fermônio S.A. a quitação de uma de suas duplicatas da Carteira de Desconto, no
+valor de R$ 2.000,00. Ao receber tal aviso, a empresa tomadora do empréstimo contabilizou o evento,
+lançando:
+a) débito em Duplicatas Descontadas e crédito em Bancos conta Movimento.
+b) débito em Duplicatas a Receber e crédito em Duplicatas Descontadas.
+c) débito em Bancos conta Movimento e crédito em Duplicatas Descontadas.
+d) débito em Bancos conta Movimento e crédito em Duplicatas a Receber.
+e) débito em Duplicatas Descontadas e crédito em Duplicatas a Receber.
+Comentários
+A questão solicita a contabilização de uma operação de desconto de duplicatas em seu vencimento,
+informando que o cliente efetuou o pagamento. Conforme estudamos em nossa aula, nesse caso, temos o
+seguinte lançamento:
+
+     D – Duplicatas Descontadas
+     C – Duplicatas a Receber
+
+Sei que tem muitos alunos que ainda estão sedimentando o conhecimento sobre a famigerada operação de
+desconto de duplicatas. Vamos aproveitar essa questão para tratar novamente de forma mais detalhada
+para você que naturalmente ainda está com dúvida. Para tanto vamos usar dados hipotéticos.
+Momento 1 - a empresa Alfa vende para a empresa Beta, à prazo, mercadorias no valor de R$ 100.000
+
+
+---
+
+      D – Duplicatas a receber ... R$ 100.000
+      C – Receita de Vendas ... R$ 100.000
+
+Momento 2 - a empresa Alfa vai ao Banco e solicita o adiantamento do valor devido pela empresa Beta (sua
+cliente). O Banco cobra um preço por esse pagamento antecipado da duplicata (R$ 10.000).
+
+      D – Caixa ... R$ 90.000
+      D – Encargos financeiros a transcorrer ... R$ 10.000
+      C – Duplicatas descontadas ... R$ 100.000
+
+Observe que o direito que a empresa Alfa tem de receber da empresa Beta continua registrado no ativo
+(duplicatas a receber). O desconto da duplicata, no entanto, gera uma obrigação da empresa Alfa para com
+o Banco.
+Momento 3 - a empresa Beta paga a duplicata (essa é a operação a que se refere a questão em comento)
+
+      D – Duplicatas descontadas ... R$ 100.000
+      C – Duplicatas a receber ... R$ 100.000
+
+Não há entrada de caixa na empresa Alfa, há apenas a baixa do direito perante a empresa Beta (duplicatas a
+receber) e da obrigação perante o Banco (duplicatas descontas).
+Gabarito: E
+47. (ESAF/Analista Técnico-Administrativo/MF/2013) Assinale a opção correta.
+a) A contabilização feita ao mesmo tempo a débito de duas contas e a crédito de apenas uma conta
+caracteriza um lançamento de terceira fórmula.
+b) O lançamento contábil efetuado a débito de uma conta de despesa aumentará o patrimônio líquido, pois
+a conta representa um consumo de riquezas.
+c) A contabilização feita ao mesmo tempo a débito de duas contas e a crédito de apenas uma conta
+caracteriza o registro de um fato administrativo aumentativo.
+d) O lançamento contábil efetuado a crédito de uma conta de receita aumentará o patrimônio líquido, pois
+a conta representa uma redução de consumo.
+e) O lançamento contábil efetuado a crédito de uma conta de despesa reduzirá o patrimônio líquido, pois a
+conta representa um consumo de riquezas.
+Comentários
+Vamos analisar as opções.
+a. Certa. Perfeito! 2 débitos, 1 crédito (21) = 3ª fórmula.
+b. Errada. Conforme estudamos, as despesas possuem saldo devedor e o PL, saldo credor. Assim, um débito
+em uma conta de despesa aumenta o valor das despesas e, portanto, acaba diminuindo o valor do PL.
+c. Errada. Não necessariamente irá caracterizar um fato aumentativo, pois pode perfeitamente caracterizar
+um fato permutativo.
+
+
+---
+
+d. Errada. De fato, o lançamento contábil efetuado a crédito de uma conta de receita aumentará o
+patrimônio líquido. No entanto, a conta de receita não representa uma redução de consumo e sim um
+aumento de benefícios econômicos.
+e. Errada. O lançamento a crédito de despesa irá aumentar o PL e não diminuí-lo, conforme afirma o item.
+Vale destacar que não é muito comum as contas de despesa serem creditadas. Na grande maioria dos casos
+e, especialmente, em questões de concurso, as contas de despesas serão debitadas. No entanto, há
+exceções. Imagine, por exemplo, que haja um lançamento de estorno de despesa (o estorno consiste em
+lançamento inverso àquele feito erroneamente, anulando-o totalmente, de acordo com a ITG 2000). Nesse
+caso, a conta será creditada. Haverá, então, um aumento do PL.
+Gabarito: A
+48. (ESAF/Analista Tributário da Receita Federal do Brasil/2009) Observemos o seguinte fato contábil:
+pagamento, mediante a emissão de cheque, de uma duplicata antes do vencimento, obtendo-se um
+desconto financeiro, por essa razão.
+Para que o registro contábil desse fato seja feito em um único lançamento, deve-se utilizar a
+a) primeira fórmula, com 1 conta devedora e 1 conta credora.
+b) segunda fórmula, com 1 conta devedora e 2 contas credoras.
+c) terceira fórmula, com 2 contas devedoras e 1 conta credora.
+d) quarta fórmula, com 2 contas devedoras e 2 contas credoras.
+e) terceira fórmula, com 3 contas devedoras e 1 conta credora.
+Comentários
+Vamos analisar o fato descrito na questão:
+... pagamento, mediante a emissão de cheque, de uma duplicata antes do vencimento, obtendo-se um
+desconto financeiro.
+Para facilitar: vamos imaginar que se trata do pagamento de uma oficina contratada para realizar a
+manutenção dos veículos da empresa.
+No momento da prestação do serviço, a empresa contratante fará o seguinte registro contábil:
+
+     D – Despesas com manutenção
+     C – Duplicatas a pagar
+
+No momento do "pagamento, mediante a emissão de cheque, de uma duplicata antes do vencimento,
+obtendo-se um desconto financeiro".
+
+     D − Duplicatas a pagar
+     C – Bancos
+     C − Descontos financeiros
+
+Logo, trata-se de um lançamento de 2ª fórmula, 1 conta devedora e 2 contas credoras (12).
+Gabarito: B
+
+
+---
+
+49. (ESAF/Auditor Fiscal da Receita Federal do Brasil/2012) O balancete de verificação evidencia
+a) os estornos efetuados no período.
+b) a configuração e classificação correta dos itens contábeis.
+c) a igualdade matemática dos lançamentos efetuados no período.
+d) o registro dos movimentos individuais das contas contábeis no período.
+e) os lançamentos do período, quando efetuados de forma correta no período.
+Comentários
+O Balancete de Verificação é um demonstrativo auxiliar, vale dizer, não obrigatório, levantado para fins
+operacionais. É composto por todas as contas com os seus respectivos saldos, extraídos do Livro Razão.
+O objetivo do Balancete de Verificação é verificar se o método das partidas dobradas foi obedecido ao
+longo do processo de escrituração dos fatos contábeis, ou seja, se os débitos e créditos foram efetuados
+corretamente.
+A estrutura do balancete de verificação, basicamente, compreende duas colunas: uma coluna para os saldos
+devedores e outra para os saldos credores.
+A consequência lógica do balancete é a seguinte: como o valor total debitado corresponde ao valor total
+creditado, então o somatório dos débitos corresponde ao somatório dos créditos efetuados (igualdade
+matemática dos lançamentos efetuados no período).
+Sendo assim, se os totais divergirem entre si, ficará evidenciado erro na escrituração e desobediência ao
+método das partidas dobradas.
+A seguir temos um modelo básico do balancete:
+
+                   Contas                      Saldo Devedor                Saldo Credor
+
+                               Total
+
+Destaca-se que o fato de o somatório dos saldos devedores ser igual ao somatório dos saldos credores não
+significa que a escrituração está 100% correta. Existem erros que não podem ser detectados pelo
+levantamento do balancete, quais sejam: omissão de registro, erro de título, determinados registros em
+duplicidade, entre outros.
+Gabarito: C
+50. (ESAF/Contador/MF/2013) Na data de encerramento do exercício social, a empresa ABN S.A.
+apresentou a seguinte relação de contas e saldos constantes do seu livro Razão:
+       Contas                               Saldos
+       Capital Social                       18.000,00
+       Receitas de Vendas                   16.500,00
+       Duplicatas a Receber                 14.000,00
+       Duplicatas a Pagar                   13.000,00
+
+
+---
+
+       Clientes                            12.000,00
+       Fornecedores                        11.000,00
+       Móveis e Utensílios                 10.000,00
+       Veículos                            9.000,00
+       Bancos c/Movimento                  8.500,00
+       Custo das Vendas                    6.800,00
+       Reserva Legal                      6.300,00
+       Empréstimos Obtidos                 6.000,00
+       Mercadorias                         5.000,00
+       Ações de Coligadas                  4.300,00
+       Salários e Ordenados                4.200,00
+       Provisão p/Férias                   3.500,00
+       Descontos Concedidos                3.200,00
+       Depreciação Acumulada               2.900,00
+       Aluguéis Ativos                     2.500,00
+       Depreciação                         2.100,00
+       Capital a Realizar                  1.800,00
+       Juros Ativos                        1.500,00
+       Caixa                               1.500,00
+       Provisão p/Devedores Duvidosos      1.100,00
+       Provisão p/IR                       1.000,00
+       Devedores Duvidosos                 900,00
+Ao mandar elaborar um balancete geral de verificação a partir dos saldos acima, a empresa encontrará saldos
+devedores no valor de
+a) R$ 83.300,00.
+b) R$ 81.500,00.
+c) R$ 80.400,00.
+d) R$ 79.300,00.
+e) R$ 77.500,00.
+Comentários
+Elaborando o balancete de verificação, temos:
+
+
+---
+
+                      Contas (classificação)    Saldo       Saldo
+                                               Devedor      Credor
+
+Capital Social (PL)                                        18.000,00
+
+Receitas de Vendas (receita)                               16.500,00
+
+Duplicatas a Receber (ativo)                   14.000,00
+
+Duplicatas a Pagar                                         13.000,00
+
+Clientes (ativo)                               12.000,00
+
+Fornecedores                                               11.000,00
+
+Móveis e Utensílios (ativo)                    10.000,00
+
+Veículos (ativo)                               9.000,00
+
+Bancos c/Movimento (ativo)                     8.500,00
+
+Custo das Vendas                               6.800,00
+
+Reserva Legal                                              6.300,00
+
+Empréstimos Obtidos                                        6.000,00
+
+Mercadorias (ativo)                            5.000,00
+
+Ações de Coligadas (Ativo)                     4.300,00
+
+Salários e Ordenados (despesa)                 4.200,00
+
+Provisão p/Férias (passivo)                                3.500,00
+
+Descontos Concedidos (despesa)                 3.200,00
+
+Depreciação Acumulada (redutora de ativo)                  2.900,00
+
+Aluguéis Ativos (receita)                                  2.500,00
+
+Depreciação (despesa)                          2.100,00
+
+Capital a Realizar (redutora de PL)            1.800,00
+
+Juros Ativos (receita)                                     1.500,00
+
+Caixa (despesa)                                1.500,00
+
+
+---
+
+                             Contas (classificação)                          Saldo         Saldo
+                                                                            Devedor        Credor
+
+          Provisão p/ Devedores Duvidosos (redutora de ativo)                             1.100,00
+
+          Provisão p/IR (passivo)                                                         1.000,00
+
+          Devedores Duvidosos (despesa)                                     900,00
+
+                                                                Total      83.300,00      83.300,00
+
+Gabarito: A
+
+
+                 Dúvidas de Alunos:
+                 a) A conta "salários e ordenados", para mim, parece uma obrigação, por tanto, tem
+                 natureza credora (como foi visto em outras questões desta aula). Mas nessa questão, ela foi
+                 considerada como uma despesa, mesmo sem estar acompanhada da palavra "despesa" ou
+                 "custo" (natureza devedora). Por quê?
+Resposta: Se a conta salários estiver acompanhado do sufixo "a pagar" (salários a pagar) será uma obrigação
+(natureza credora). Se for apenas "salários", será uma despesa (natureza devedora).
+b) Porque a depreciação acumulada é credora e a depreciação é devedora?
+Resposta: Depreciação é a alocação sistemática do valor depreciável de um ativo ao longo da sua vida útil.
+(CPC 27)
+Economicamente, isso quer dizer que, ao longo de sua vida útil, o ativo vai perdendo sua capacidade de gerar
+benefício futuro. A depreciação acumulada retifica (por isso, a natureza credora) o valor do ativo, garantindo
+que o balanço da empresa reflita com fidedignidade a sua realidade econômica e financeira.
+Em contrapartida, o desgaste do bem é alocado ao resultado (na forma de despesa), de modo que o lucro
+contábil já leva em consideração o desgaste do ativo. Por isso, periodicamente, a empresa precisará realizar
+o seguinte lançamento:
+
+     D – Depreciação (reconhecendo que o desgaste do ativo gerou decréscimos nos benefícios
+     econômicos durante o período contábil)
+     C – Depreciação acumulada (retificando o valor do ativo)
+
+O desgaste do ativo (reconhecido na depreciação acumulada) é paulatinamente alocado ao resultado (na
+despesa de depreciação).
+
+
+51. (ESAF/Contador/MF/2013) Considerando que a movimentação contábil sempre ocorre em forma de
+equação, para que as origens de recursos sejam iguais à sua aplicação, organize os seguintes elementos
+segundo os critérios de débito e crédito.
+       Aumentos de ativo             R$ 1.000,00
+       Aumentos de passivo           R$ 1.200,00
+
+
+---
+
+       Bens existentes               R$ 2.000,00
+       Consumos realizados R$ 700,00
+       Direitos a receber            R$ 1.500,00
+       Ganhos e rendas obtidos       R$ 950,00
+       Obrigações a pagar      R$ 2.150,00
+       Reduções de ativo             R$ 450,00
+       Reduções de passivo R$ 800,00
+       Situação Líquida anterior     R$ 1.350,00
+Considerando que todo o movimento contábil dessa entidade está expresso na relação acima, pode-se dizer
+que o item que a completará será
+a) débito no valor de R$ 100,00.
+b) crédito no valor de R$ 100,00.
+c) débito no valor de R$ 50,00.
+d) crédito no valor de R$ 50,00.
+e) redução de caixa no valor de R$ 50,00.
+Comentários
+Antes de elaborarmos o balancete, lembre-se:
+Origem dos recursos: contas de natureza credora
+Aplicação dos recursos: contas de natureza devedora.
+Além disso, segundo o método das partidas dobradas, a soma dos débitos deve ser sempre igual à soma dos
+créditos.
+Elaborando o balancete, temos:
+
+                            Contas                       Saldo Devedor         Saldo Credor
+
+          Aumentos de ativo                               R$ 1.000,00
+
+          Aumentos de passivo                                                  R$ 1.200,00
+
+          Bens existentes                                 R$ 2.000,00
+
+          Consumos realizados (despesa)                    R$ 700,00
+
+          Direitos a receber                              R$ 1.500,00
+
+          Ganhos e rendas obtidos (receita)                                     R$ 950,00
+
+          Obrigações a pagar                                                   R$ 2.150,00
+
+          Reduções de ativo                                                     R$ 450,00
+
+
+---
+
+                            Contas                           Saldo Devedor           Saldo Credor
+
+          Reduções de passivo                                   R$ 800,00
+
+          Situação Líquida anterior (PL)                                              R$ 1.350,00
+
+                                                 Total         R$ 6.000,00            R$ 6.100,00
+
+                                            Diferença           R$ 100,00
+
+Observe que há uma diferença dos saldos credores a maior em R$ 100,00. Logo, para igualarmos o saldo dos
+débitos com o saldo dos créditos, temos que fazer um lançamento a débito de R$ 100,00.
+Vale destacar que a situação líquida anterior indica o saldo patrimonial existente no início do exercício, ou
+seja, é o valor do patrimônio líquido no início do exercício. Como a situação líquida é positiva, o seu saldo é
+credor. Se fosse negativa, seria devedor.
+Gabarito: A
+52. (ESAF/Analista Técnico-Administrativo/MF/2013) As contas escrituradas no livro Razão da empresa
+Alfa, em 31 de dezembro, apresentaram saldos nos seguintes valores:
+Caixa                                       R$ 15.000,00
+Imóveis                                     R$ 40.000,00
+Capital Social                              R$ 57.000,00
+Mercadorias                                 R$ 17.000,00
+Receita de Vendas                           R$ 32.000,00
+Custo da Mercadoria Vendida                 R$ 21.000,00
+Fornecedores                                R$ 26.000,00
+Empréstimo Bancário                         R$ 10.000,00
+Contas a Receber                            R$ 18.000,00
+Salários e Ordenados                        R$ 12.000,00
+Salários a Pagar                            R$ 6.000,00
+Juros Ativos                                R$ 5.000,00
+Descontos Concedidos                        R$ 4.000,00
+Reserva Legal                               R$ 2.000,00
+Depreciação Acumulada                       R$ 6.000,00
+Elaborando o balancete geral de verificação e o balanço patrimonial com os saldos apresentados nestas
+contas, o valor encontrado será:
+a) R$ 143.000,00 de saldo credor.
+b) R$ 133.000,00 de saldo devedor.
+c) R$ 90.000,00 de ativo.
+
+
+---
+
+d) R$ 59.000,00 de patrimônio líquido.
+e) R$ 36.000,00 de passivo exigível.
+Comentários
+Vamos elaborar o balancete de verificação:
+
+                               Contas                      Saldo Devedor         Saldo Credor
+
+         Caixa (ativo)                                      R$ 15.000,00
+
+         Imóveis (ativo)                                    R$ 40.000,00
+
+         Capital Social (PL)                                                     R$ 57.000,00
+
+         Mercadorias (ativo)                                R$ 17.000,00
+
+         Receita de Vendas (receita)                                             R$ 32.000,00
+
+         Custo da Mercadoria Vendida (despesa)              R$ 21.000,00
+
+         Fornecedores (passivo Exigível)                                         R$ 26.000,00
+
+         Empréstimo Bancário (passivo Exigível)                                  R$ 10.000,00
+
+         Contas a Receber (ativo)                           R$ 18.000,00
+
+         Salários e Ordenados (despesa)                     R$ 12.000,00
+
+         Salários a Pagar (passivo Exigível)                                      R$ 6.000,00
+
+         Juros Ativos (receita)                                                   R$ 5.000,00
+
+         Descontos Concedidos (despesa)                      R$ 4.000,00
+
+         Reserva Legal (PL)                                                       R$ 2.000,00
+
+       Depreciação Acumulada (Retif. Ativo)                                       R$ 6.000,00
+
+                                                  Total     R$ 127.000,00        R$ 144.000,00
+
+Observação: nesse caso os saldos não são iguais, pois algumas contas foram omitidas.
+Com essas informações já podemos eliminar algumas opções:
+a. Errado. Temos R$ 144.000,00 de saldo credor.
+b. Errado. Temos R$ 133.000,00 de saldo devedor.
+c. Errado. Temos R$ 84.000,00 de ativo (contas destacadas acima).
+e. Errado. Temos R$ 42.000,00 de passivo exigível (contas destacadas acima).
+
+
+---
+
+Logo, por eliminação, resta-nos a opção “D”. Essa é a melhor estratégia na hora da prova. Porém, para fins
+didáticos, vamos encontrar o valor do PL. Para tanto, devemos confrontar as contas de resultado,
+identificando o resultado do exercício. Assim, temos:
+Receita de Vendas                      R$ 32.000,00
+(-) Descontos Concedidos               (R$ 4.000,00)
+(-) CMV                                (R$ 21.000,00)
+(+) Juros Ativos                       R$ 5.000,00
+(-) Salários e Ordenados               (R$ 12.000,00)
+(=) Resultado                          R$ 0,00
+De posse do resultado, basta somarmos com os valores das contas de PL fornecidas:
+Capital Social          R$ 57.000,00
+(+) Resultado           R$ 0,00
+(+) Reserva Legal       R$ 2.000,00
+(=) Total do PL         R$ 59.000,00
+Gabarito: D
+
+
+                    Dúvida de Aluno: Estou com dificuldade na resolução de questões em que a banca fornece
+                    uma lista de contas em que há necessidade de classificar para identificar a natureza das
+                    contas, se é devedora ou credora. O que posso fazer para melhorar meu desempenho em
+                    questões como essas?
+
+
+Resposta: Pessoal, saber classificar as contas não é um processo de rápido entendimento, pois muitas contas
+vão fazer maior sentido quando você estudar tópicos mais avançados da disciplina. Com certeza, ao longo
+do curso e da resolução dos exercícios você passará a ter mais facilidade para classificar as contas. Para
+facilitar sua vida, vamos ver algumas dicas que vão ser úteis nesse processo:
+Ativo: bens (carros, imóveis, estoques...) e direitos (contas a receber, patentes, pagamentos antecipados de
+despesas). Possui natureza devedora (conta retificadora = natureza credora)
+Passivo: obrigações com terceiros (salário de funcionários, fornecedores, empréstimos concedidos, tributos
+a pagar). Possui natureza credora (conta retificadora = natureza devedora)
+PL: obrigações com proprietários (capital social, reservas...). Possui natureza credora (conta retificadora =
+natureza devedora)
+Receitas: aumentam a situação patrimonial líquida. Possui natureza credora.
+Despesas: diminuem a situação patrimonial líquida. Possui natureza devedora.
+Os saldos das contas de receita e despesa, ao final do exercício, são "incorporados" ao PL.
+Para diferenciar se a conta é patrimonial (ativo ou passivo) ou de resultado (receita e despesa) vale algumas
+dicas:
+
+
+---
+
+a) sufixo = em regra, contas com sufixo são patrimoniais ("juros ativos a vencer" é conta patrimonial e "juros
+ativos" é conta de resultado, por exemplo)
+b) despesa e receita são variáveis do tipo "fluxo" = são apuradas em um determinado período de tempo
+(um ano, um bimestre, etc.).
+c) Ativos e passivos são variáveis do tipo "estoque" = indicam uma posição em um determinado período do
+tempo (por exemplo, o saldo da conta caixa no dia 31/12 era de R$ 20.000).
+d) contas de receita e despesa derivam de operações que envolvem ativos e passivos. Por exemplo, na
+venda de uma mercadoria: há a "transformação" de um ativo em receita (valor recebido ou a receber pela
+venda) e despesa (o custo do estoque).
+
+
+53. (ESAF/Analista Tributário da Receita Federal do Brasil/2012) A companhia Metalgrosso S.A. apresenta
+como extrato de seu Livro Razão, em 31.12.2011, a seguinte relação de contas e respectivos saldos:
+Contas                                                     saldos
+01 - Ações de Coligadas                                    60
+02 - Ações em Tesouraria                                   10
+03 - Aluguéis Passivos                                     32
+04 - Amortização Acumulada                                 25
+05 - Bancos c/ Movimento                                   100
+06 - Caixa                                                 80
+07 - Capital a Realizar                                    45
+08 - Capital Social                                        335
+09 - Clientes                                              120
+10 - Comissões Ativas                                      46
+11 - Custo das Vendas                                      200
+12 - Depreciação                                           28
+13 - Depreciação Acumulada                                 45
+14 - Descontos Concedidos                                  18
+15 - Descontos Obtidos                                     17
+16 - Despesas de Organização                               90
+17 - Duplicatas a Receber                                  85
+18 - Duplicatas a Pagar                                    115
+19 - Duplicatas Descontadas                                35
+20 - Fornecedores                                          195
+21 - Máquinas e Equipamentos                               130
+22 - Mercadorias                                           145
+
+
+---
+
+23 - Móveis e Utensílios                              40
+24 - Obrigações Trabalhistas                          18
+25 - Prêmio de Seguros                                40
+26 - Prejuízos Acumulados                             12
+27 - Provisão para Devedores Duvidosos                30
+28 - Provisão para Imposto de Renda                   22
+29 - Receitas de Vendas                               350
+30 - Reservas de Capital                              65
+31 - Reservas de Lucro                                125
+32 - Salários e Ordenados                             60
+33 - Seguros a Vencer                                 28
+34 - Títulos a Pagar                                  20
+35 - Veículos                                         180
+Elaborando um balancete de verificação com os saldos acima, certamente encontraremos saldos credores
+no montante de
+a) R$ 1.065,00.
+b) R$ 1.308,00.
+c) R$ 1.338,00.
+d) R$ 1.373,00.
+e) R$ 1.443,00.
+Comentários
+Vamos elaborar o balancete de verificação:
+                       Contas (classificação)               Saldo Devedor       Saldo Credor
+       01 - Ações de Coligadas (ativo)                            60
+       02 - Ações em Tesouraria (redutora PL)                     10
+       03 - Aluguéis Passivos (despesa)                           32
+       04 - Amortização Acumulada (redutora ativo)                                   25
+       05 - Bancos c/ Movimento (ativo)                          100
+       06 – Caixa (ativo)                                        80
+       07 - Capital a Realizar (redutora PL)                     45
+       08 - Capital Social (PL)                                                     335
+       09 – Clientes (ativo)                                     120
+       10 - Comissões Ativas (receita)                                               46
+       11 - Custo das Vendas (despesa)                           200
+       12 – Depreciação (despesa)                                28
+       13 - Depreciação Acumulada (redutora ativo)                                   45
+       14 - Descontos Concedidos (despesa)                       18
+
+
+---
+
+                       Contas (classificação)                     Saldo Devedor         Saldo Credor
+       15 - Descontos Obtidos (receita)                                                      17
+       16 - Despesas de Organização (despesa)                           90
+       17 - Duplicatas a Receber (ativo)                                85
+       18 - Duplicatas a Pagar (passivo)                                                     115
+       19 - Duplicatas Descontadas (passivo)                                                 35
+       20 – Fornecedores (passivo)                                                           195
+       21 - Máquinas e Equipamentos (ativo)                            130
+       22 – Mercadorias (ativo)                                        145
+       23 - Móveis e Utensílios (ativo)                                40
+       24 - Obrigações Trabalhistas* (passivo)                                               18
+       25 - Prêmio de Seguros (ativo)                                   40
+       26 - Prejuízos Acumulados (PL)                                   12
+       27 - Provisão para devedores duvidosos (redutora                                      30
+       ativo)
+       28 - Provisão para Imposto de Renda (passivo)                                         22
+       29 - Receitas de Vendas (receita)                                                     350
+       30 - Reservas de Capital (PL)                                                         65
+       31 - Reservas de Lucro (PL)                                                           125
+       32 - Salários e Ordenados (despesa)                              60
+       33 - Seguros a Vencer (ativo)                                    28
+       34 - Títulos a Pagar (passivo)                                                        20
+       35 – Veículos (ativo)                                           180
+                                                   Total              1.503                 1.443
+* A banca poderia ter facilitado nossa vida inserindo o sufixo “a pagar” para deixar bem claro que se trata de
+um passivo. De qualquer forma, o termo “obrigação” já deu uma boa dica que se tratava de um passivo.
+
+
+                 Dúvida de aluno: “Prêmio de seguros" e "Seguros a vencer" são sinônimos? Se não, poderia
+                 explicar a diferença entre elas?
+                 Resposta: Não são sinônimos. "Prêmio de seguros a vencer" e "Seguros a vencer" são
+                 utilizadas para registrar despesa de seguro pagas antecipadamente (ativo).
+                 Por outro lado, quando essas contas aparecem sem o sufixo "a vencer" (ou seja, "prêmio de
+                 seguros" e "seguros"), são utilizadas para registrar, pelo regime de competência, a despesa
+de seguro (resultado).
+
+
+Gabarito: E
+54. (QUADRIX/Contador/CRA-PR/2019) Os livros contábeis e os documentos relativos à escrituração
+devem ser mantidos apenas até o encerramento do exercício fiscal.
+Comentários
+É claro que não! Veja o que estabelece o Código Civil:
+
+
+---
+
+     Art. 1.194. O empresário e a sociedade empresária são obrigados a conservar em boa guarda toda a escrituração,
+     correspondência e mais papéis concernentes à sua atividade, enquanto não ocorrer prescrição ou decadência no tocante
+     aos atos neles consignados.
+Gabarito: Errado
+Comentários
+O balancete de verificação é de elaboração facultativa! Além disso, as informações são extraídas do livro
+razão.
+Gabarito: Errado
+55. (QUADRIX/Contador/CRA-PR/2019) A escrituração de determinada entidade pode apresentar erros
+ainda que o balancete de verificação demonstre a correspondência entre os valores totais de saldos
+devedores e credores.
+Comentários
+Para fixar! O fato de o somatório dos saldos devedores ser igual ao somatório dos saldos credores não
+significa que a escrituração está 100% correta. Existem erros que não podem ser detectados pelo
+levantamento do balancete, quais sejam: omissão de registro, erro de título, determinados registros em
+duplicidade, entre outros.
+Gabarito: Certo
+56. (FUNDATEC/Tesoureiro/Pref. Salvador das Missões-RS/2019) O Livro Caixa, geralmente mantido na
+Tesouraria da entidade, é um livro auxiliar que se destina ao controle da movimentação e do saldo da
+conta Caixa. Nele são registradas todas entradas e saídas de dinheiro. Sobre ele, assinale a alternativa
+correta.
+a) O saldo do Livro Caixa pode ser positivo ou negativo, dependendo da movimentação diária.
+b) O saldo do Livro Caixa deve corresponder ao saldo da conta Caixa da contabilidade.
+c) A movimentação bancária não transita no Livro Caixa, ou seja, nele não são registrados, por exemplo, nem
+os cheques emitidos, nem os depósitos bancários de dinheiro da entidade.
+d) As vendas à vista, registradas no Livro Caixa, são creditadas na conta Caixa da contabilidade.
+e) O adiantamento de numerário para viagem de um funcionário deve ser feito mediante vale, que não será
+registrado no Livro, mas mantido no cofre e lançado na conta Caixa da contabilidade da entidade.
+Comentários
+Vamos analisar as assertivas.
+a. Errado. O saldo do Livro Caixa somente pode ser positivo ou zero, jamais poderá ser negativo! Se conter
+saldo negativo, temos uma situação de omissão de entradas de caixa ou algum erro de escrituração.
+b. Certo. Justamente! O Livro Caixa registra apenas os fatos que envolvem movimentação de dinheiro
+(numerário) na conta “Caixa”. Logo, o saldo do Livro Caixa deve corresponder ao saldo da conta Caixa da
+contabilidade.
+c. Errado. Há movimentações bancárias que impactam a conta caixa e, portanto, constará no livro caixa!
+Exemplo clássico são os recebimentos em cheques! Existem tesourarias (setores financeiros) mais “raízes”
+que recebem ainda (mesmo com toda a evolução dos meios de pagamento) cheques.
+
+
+---
+
+d. Errado. As vendas à vista, registradas no Livro Caixa, são debitadas na conta Caixa da contabilidade.
+Lembre-se que o ativo possui natureza devedora e, portanto, aumento a débito. Como a conta Caixa é ativo,
+aumenta a débito. O lançamento da venda à vista é o seguinte:
+
+     D – Caixa
+     C – Receita de Vendas
+
+e. Errado. No adiantamento de numerário para viagem temos o seguinte lançamento contábil:
+
+     D – Adiantamento de numerário p/ viagem
+     C – Caixa
+
+Logo, há registro no caixa e, portanto, deve constar no Livro Caixa.
+Gabarito: B
+57. (FUNDATEC/Contador/Pref. de Gramado-RS/2019) Em relação às técnicas contábeis, o pagamento, em
+cheque bancário, do valor de uma duplicata, acrescido de encargos de juros e de mora, deve ser
+contabilizado em lançamento de:
+a) Terceira fórmula.
+b) Quarta fórmula.
+c) Segunda fórmula.
+d) Quinta fórmula.
+e) Primeira fórmula.
+Comentários
+No pagamento, em cheque bancário, do valor de uma duplicata, acrescido de encargos de juros e de mora,
+temos o seguinte registro:
+
+     D – Duplicatas a Pagar
+     D – Despesas Financeiras (juros passivos)
+     C – Banco
+
+Como temos duas contas debitadas e uma conta creditada (21), há um lançamento de 3ª fórmula.
+Gabarito: A
+
+
+---
+
+                       LISTA DAS QUESTÕES COMENTADAS
+1. (FGV/PC-RN/2021) Em 01/07/2020, a Cia. Alfa contratou um seguro para a sua frota de veículos, com
+cobertura de um ano a partir da contratação, no valor de R$ 90.000,00, que foram pagos à vista na assinatura
+do contrato.
+No registro dessa transação, o lançamento a débito será em uma conta de:
+a) ajustes patrimoniais;
+b) ativo;
+c) despesa;
+d) passivo;
+e) perda.
+2. (FGV/PC-RN/2021) O contador de uma empresa registrou diretamente em uma conta de resultado
+(despesa) a aquisição de material de expediente para estoque, que só deveria ser baixado como despesa
+quando requisitado.
+Para efetuar a retificação do lançamento contábil, deve-se realizar um(a):
+a) compensação;
+b) complementação;
+c) estorno total;
+d) estorno parcial;
+e) transferência.
+3. (FGV/Analista Judiciário/Auditor/TJ-PI/2015) Com relação à escrituração contábil de uma entidade,
+analise as afirmativas abaixo:
+I - O registro contábil deve conter o número de identificação do lançamento em ordem sequencial
+relacionado ao respectivo documento de origem externa ou interna ou, na sua falta, em elementos que
+comprovem ou evidenciem fatos contábeis.
+II - Lançamento de complementação é aquele que promove a regularização de conta indevidamente debitada
+ou creditada, por meio da transposição do registro para a conta adequada.
+III - Segunda Fórmula: são os lançamentos que envolvem mais de uma conta a débito e apenas uma conta a
+crédito.
+Está correto o que se afirma em:
+a) somente I.
+b) somente I e II;
+c) somente I e III;
+d) somente II e III;
+e) I, II e III;
+
+
+---
+
+4. (FGV/Contador/SUDENE/2013) A escrituração do fato de pagamento em dinheiro de duplicatas no valor
+de $50 antes do vencimento com desconto financeiro de $2 é realizada da seguinte forma:
+a) D = Duplicatas a Pagar $50; C = Caixa $48; C = Desconto Obtido $2.
+b) D = Duplicatas a Vencer $50; C = Caixa $48; C = Desconto Obtido $2.
+c) D = Duplicatas a Pagar $50; D = Desconto Obtido $2; C = Caixa $48.
+d) D = Desconto Obtido $ 2; D = Duplicatas a Vencer $48; C = Caixa $50.
+e) D = Duplicatas a Vencer $50; C = Banco Conta Movimento $48; C = Desconto Obtido $2.
+5. (FGV/Técnico de Gestão Administrativa/Contador/ALEMA/2013) Como forma de garantir a encomenda,
+determinada entidade efetuou um adiantamento de parte do valor a fornecedor de matéria prima.
+Após a entrega da matéria prima e passados 30 dias dessa entrega, a escrituração do pagamento da dívida
+no dia do vencimento do título, considerando todas as operações descritas, será
+a) D = Matéria prima; C = Fornecedor
+b) D = Matéria prima; C = Caixa
+c) D = Adiantamento a Fornecedor; C = Caixa
+d) D = Matéria prima; C = Adiantamento a Fornecedor; C = Caixa
+e) D = Fornecedor; C = Adiantamento a Fornecedor; C = Caixa
+6. (FGV/Contador/BADESC/2010) Com base na lei 6404/76, analise os lançamentos contábeis a seguir.
+Bancos
+a Diversos
+a Duplicatas a Receber
+a Receitas de Juros
+Esses lançamentos contábeis representam:
+a) pagamento de duplicata com juros.
+b) recebimento de duplicatas com juros.
+c) pagamento de empréstimo com juros contratuais.
+d) emissão de duplicata com ágio.
+e) aceite de duplicata com deságio.
+7. (AOCP/Pref. Cariacica-ES/2020) Consoante ao Livro Diário nas sociedades, assinale a alternativa
+INCORRETA.
+a) É indispensável e pode ser substituído por fichas no caso de escrituração mecanizada ou eletrônica.
+b) A escrituração do Livro Diário não pode ser substituída pela escrituração do Livro Razão.
+c) A adoção de fichas não dispensa o uso de livro apropriado para o lançamento do balanço patrimonial e do
+resultado financeiro.
+d) É um Livro que contém os registros contábeis de todos os lançamentos em ordem cronológica.
+8. (AOCP/UFPB/2019) Relacione as colunas e assinale a alternativa com a sequência correta.
+
+
+---
+
+1. Lançamento de primeira fórmula.
+2. Lançamento de segunda fórmula.
+3. Lançamento de terceira fórmula.
+4. Lançamento de quarta fórmula.
+( ) Integralização de capital no valor de R$ 200.000,00, 40% em dinheiro e 60% em equipamentos.
+( ) Aquisição de móveis por R$ 50.000,00 com pagamento à vista em cheque.
+( ) Pagamento de R$ 5.600,00 de aluguel e R$ 400,00 de IPTU referentes ao imóvel alugado, sendo R$
+1.000,00 em dinheiro e R$ 5.000,00 em cheque.
+( ) Aquisição de móveis por R$ 20.000,00, com pagamento de 20% à vista em cheque e 80% a prazo.
+a) 1 - 4 - 2 - 3.
+b) 3 - 1 - 4 - 2.
+c) 4 - 1 - 3 - 2.
+d) 2 - 1 - 4 - 3.
+e) 3 - 4 - 1 - 2.
+9. (AOCP/UFPB/2019) Sobre o método das partidas dobradas, preencha as lacunas e assinale a alternativa
+correta.
+A essência desse método determina que sempre será feito pelo menos um lançamento a _______________
+em uma conta e um a _______________ em outra. Se existe um _______________, terá que haver também
+pelo menos um _______________.
+a) Esquerda do Balanço Patrimonial/Direita do Balanço Patrimonial/Credor/ Devedor
+b) Saldo Devedor/Saldo Credor/Débito/ Crédito
+c) Crédito/Débito/Credor/Devedor
+d) Direita do Balanço Patrimonial/Esquerda do Balanço Patrimonial/Devedor/Credor
+10. (AOCP/PC-ES/2019) NÃO deve constar, como elemento mínimo na estrutura do balancete de
+verificação, o/a(s)
+a) identificação da entidade.
+b) abrangência.
+c) identificação das contas e respectivos grupos.
+d) saldos das contas, indicando se devedores ou credores.
+e) movimento individual das contas.
+11. (AOCP/SUSIPE-PA/2018) Analise as assertivas e assinale a alternativa que aponta as corretas. A
+retificação de lançamentos contábeis é o processo técnico de correção de um registro realizado com erro na
+escrituração contábil das Entidades. São formas de retificação de lançamentos contábeis:
+I. o estorno. II. a transferência. III. a complementação. IV. a exclusão.
+a) Apenas I, III e IV.
+
+
+---
+
+b) Apenas I, II e IV.
+c) Apenas II, III e IV.
+d) Apenas I, II e III.
+e) I, II, III e IV.
+12. (AOCP/EBSERH/2017) Os principais livros utilizados pela Contabilidade são o Livro Diário e o Razão.
+Em relação ao livro diário, assinale a alternativa correta.
+a) Livro de escrituração obrigatória, que pode ser elaborado em forma de fichas soltas ou formulário
+contínuo.
+b) Livro que permite a classificação dos fatos de acordo com a sua natureza e pode ser escriturado em forma
+de livro, fichas soltas ou formulário contínuo.
+c) Livro que não é obrigatório pelas normas de contabilidade, em que cada empresa pode optar pela sua
+elaboração e modelo.
+d) Livro que pode ser preenchido de forma manual em folhas soltas e sem numeração.
+e) Livro de escrituração obrigatória, sendo necessário encadernar para ser levado à Receita Federal do Brasil
+para o seu registro.
+13. (AOCP/EBSERH/2017) A escrituração necessita de uma boa definição por parte da empresa para que
+possa ser feito o controle do que precisa ser escriturado. Assinale alternativa que apresenta o conceito de
+escrituração na Contabilidade.
+a) Consiste em fornecer informações sobre o patrimônio, informações de origem econômica e financeira.
+b) Consiste em registrar toda a movimentação de entrada e saída de dinheiro da organização.
+c) Consiste em registrar, nos livros próprios, os acontecimentos que provocam modificações no Patrimônio
+da empresa.
+d) Consiste em avaliar as informações de ordem econômica referentes à movimentação das compras e
+vendas da empresa.
+e) Consiste em registrar as despesas e receitas de um determinado período.
+14. (CESPE/Auditor do Estado/CAGE-RS/2018) Considerando o disposto no Código Civil sobre o livro diário,
+assinale a opção correta.
+a) A prescrição ou decadência dos atos consignados no diário não eximem o empresário e a entidade
+empresária da sua guarda por um prazo adicional de cinco anos.
+b) Antes de ser colocado em uso, o livro diário deverá ser autenticado no Registro Público de Empresas
+Mercantis, salvo disposição especial de lei.
+c) Mesmo no caso de escrituração mecanizada ou eletrônica, o diário não poderá ser substituído por fichas.
+d) O balanço patrimonial e o de resultado econômico devem ser lançados em livro distinto do diário.
+e) No diário, deve constar unicamente a assinatura do técnico em ciências contábeis legalmente habilitado
+e responsável pelos lançamentos nele efetuados.
+15. (CESPE/Auditor do Estado/CAGE-RS/2018) A respeito do regime de competência e dos livros contábeis,
+julgue os itens a seguir.
+
+
+---
+
+I No regime de competência, as receitas são reconhecidas quando são ganhas, mesmo que não recebidas.
+II No lançamento em livro diário, devem-se descrever o título e o saldo da conta.
+III No livro razão, o confronto dos créditos e dos débitos denomina-se saldo.
+ IV De acordo com o regime de competência, as receitas e as despesas são consideradas em função dos
+recebimentos ou dos pagamentos.
+Estão certos apenas os itens
+a) I e II.
+b) I e III.
+c) III e IV.
+d) I, II e IV.
+e) II, III e IV.
+16. (CESPE/Perito Criminal/PC-MA/2018) A respeito do método das partidas dobradas e de seus
+desdobramentos na ciência contábil, julgue os itens seguintes.
+I As aplicações de recursos são representadas por meio de débitos em determinadas rubricas contábeis,
+enquanto as origens dos recursos aplicados provocam registro a crédito em outras rubricas.
+II A aquisição de bens para comercialização a prazo e com juros é um exemplo de partida de segunda fórmula.
+III Em uma venda de mercadoria, ocorre a baixa, a crédito, da mercadoria vendida, em contrapartida à
+correspondente conta de receita por venda de mercadorias.
+IV A existência de um conjunto de levantamentos refletindo um elemento ou componente formado ou em
+formação pertencente a um patrimônio, expresso geralmente em moeda corrente, é inerente ao método
+das partidas dobradas.
+Estão certos apenas os itens
+a) I e II.
+b) I e IV.
+c) II e III.
+d) I, III e IV.
+e) II, III e IV.
+17. (CESPE/Técnico Judiciário/Contabilidade/TRE-BA/2017) No que se refere à escrituração, o lançamento
+que consiste na regularização da conta indevidamente debitada ou creditada com a transposição do
+registro para a conta adequada é denominado
+a) transferência.
+b) estorno.
+c) retificação.
+d) complementação.
+e) ressalva.
+
+
+---
+
+18. (CESPE/Técnico Judiciário/Contabilidade/TRE-BA/2017) A pessoa jurídica tributada com base no lucro
+real deverá manter o livro razão ou fichas utilizadas para resumir e totalizar, por conta ou subconta, os
+lançamentos efetuados no livro diário. Com relação ao livro razão, assinale a opção correta.
+a) É obrigatória a escrituração do livro razão por qualquer pessoa jurídica.
+b) A escrituração do livro razão deverá ser individualizada, obedecendo-se à ordem cronológica das
+operações.
+c) O livro razão, com escrituração sintética, é auxiliar do livro diário.
+d) São dispensados no livro razão os termos de abertura e de encerramento.
+e) As entidades comerciais que adotem escrituração completa estão obrigadas a autenticar o livro razão.
+19. (CESPE/Contador/DPU/2016) Uma das finalidades do balancete de verificação é demonstrar a correta
+aplicação do método das partidas dobradas, pois o total devedor deve ser igual ao total credor, ou seja,
+para cada débito em uma ou mais contas deve haver crédito de igual valor em uma ou mais contas.
+20. (CESPE/Contador/DPU/2016) Os documentos base para a elaboração do balancete de verificação são
+o livro diário, de onde são extraídos os saldos finais das contas, e o livro razão, no qual estão demonstradas
+as movimentações contábeis.
+21. (CESPE/Agente de Polícia Federal/2014) Para que se demonstre com fidelidade a situação patrimonial
+de determinada entidade, faz-se necessária a observância de normas técnicas e legais de elaboração das
+demonstrações contábeis. Com relação a esse tema, julgue o próximo item.
+O balancete de verificação é feito a partir da extração dos saldos contidos no livro diário.
+22. (CESPE/Técnico em Contabilidade/SUFRAMA/2014) No que se refere ao balancete de verificação,
+julgue o item subsequente.
+Em um balancete de verificação, é possível verificar a igualdade entre o total de débitos e o total de créditos,
+o que garante a correção dos procedimentos contábeis adotados.
+23. (CESPE/Analista Judiciário/Contabilidade/TRT10/2013) Em relação às contas e à escrituração contábil,
+julgue o item seguinte.
+O balanço patrimonial e o de resultado econômico devem ser lançados no livro razão. Ambos têm de ser
+assinados por técnico em ciências contábeis legalmente habilitado e pelo empresário ou sociedade
+empresária.
+24. (CESPE/Auditor Fiscal da Receita Estadual/SEFAZ-ES/2013/Adaptada) Com relação aos livros do
+empresário e à sua escrituração, julgue o item a seguir.
+O empresário e a sociedade empresária são obrigados a adotar um sistema de contabilidade, mecanizado ou
+não, com base na escrituração uniforme de seus livros, em correspondência com a documentação respectiva,
+e a levantar anualmente o balanço patrimonial e o de resultado econômico.
+25. (CESPE/Analista Administrativo/Contábil/PREVIC/2011) Acerca de noções básicas da metodologia e do
+sistema contábil, julgue o item a seguir.
+O registro do aumento de determinada conta do lado esquerdo do razonete não significa que a conta deva
+estar posicionada no lado esquerdo no balanço patrimonial.
+26. (CESPE/Analista Judiciário/Contabilidade/TRE-ES/2011) Julgue o item que se segue, acerca da
+utilização das técnicas contábeis no registro e controle do patrimônio das entidades.
+
+
+---
+
+O sistema de partidas dobradas consiste no registro de fatos contábeis de modo que, para cada conta
+debitada, corresponde uma conta creditada e com o mesmo valor.
+27. (CESPE/Analista Judiciário/Contabilidade/TRE-ES/2011) Julgue o item que se segue, acerca da
+utilização das técnicas contábeis no registro e controle do patrimônio das entidades.
+Se, indevidamente, um contabilista registrar a compra à vista de um automóvel, debitando a conta de
+veículos em uso e creditando a conta de fornecedores, a única forma possível de corrigir o lançamento errado
+será efetuar um lançamento de estorno.
+28. (CESPE/Agente de Polícia Federal/2009) Julgue o item a seguir, com base nos conceitos e normas
+aplicáveis à escrituração contábil.
+Os livros diário e razão, por constituírem os registros permanentes de uma entidade e por serem
+obrigatórios, devem ser registrados no registro público competente.
+29. (CESPE/Técnico de Contabilidade/FUB/2008) São elementos essenciais de um lançamento contábil:
+data, conta debitada, conta creditada, histórico e valor.
+30. (CESPE/Técnico de Contabilidade/FUB/2008) O método das partidas dobradas pressupõe a
+inexistência de devedor sem credor correspondente.
+Para fixar! Segundo o método das partidas dobradas, a todo o débito corresponde um ou mais créditos,
+sendo que o total de débito é exatamente igual ao total de crédito. Logo, referido método pressupõe a
+inexistência de devedor sem credor correspondente.
+31. (CESPE/Técnico de Contabilidade/FUB/2008) O razão é considerado um livro contábil.
+Essa é da série “mamão com açúcar”, não é mesmo? Típica questão que não podemos errar de jeito nenhum,
+pois TODOS os candidatos minimamente preparados acertarão. Claro que alguns aventureiros que tomaram
+a (péssima) decisão de deixar tudo em branco a parte de Contabilidade ou não estudaram nada sobre o
+assunto estarão em desvantagem. Mas, fique na paz, pois você jamais deixará de somar pontos em questões
+dessa natureza.
+32. (CESPE/Técnico de Contabilidade/FUB/2008) O diário é um livro obrigatório para fins de escrituração
+contábil.
+33. (CESPE/Técnico de Contabilidade/FUB/2008) São formalidades extrínsecas do livro diário: utilização
+de idioma nacional e uso da linguagem mercantil.
+34. (CESPE/Técnico de Contabilidade/FUB/2008) Efetuar um lançamento de sétima fórmula significa dizer
+que se está registrando fatos administrativos que envolvem uma conta devedora e duas credoras.
+35. (CESPE/Técnico de Contabilidade/FUB/2008) A compra de material de escritório por R$ 2.000,00 à vista
+e com pagamento em dinheiro gera um lançamento de primeira fórmula.
+36. (CESPE/Técnico de Contabilidade/FUB/2008) O registro contábil utilizando mais de uma conta
+devedora e mais de uma conta credora significa o registro simultâneo de um lançamento de quarta
+fórmula.
+37. (CESPE/Técnico em Contabilidade/FHCGV-PA/2004) Em contabilidade, o lançamento corresponde ao
+registro dos fatos administrativos ou contábeis. Para atingir a perfeição, o lançamento deve apresentar
+clareza, exatidão, propriedade descritiva e intitulativa.
+38. (CESPE/Técnico em Contabilidade/FHCGV-PA/2004) O método atualmente utilizado para registro
+contábil é o das partidas dobradas. Entende-se por partida o registro de um fato ou vários fatos patrimoniais
+
+
+---
+
+em forma contábil, que tem como elementos essenciais a conta debitada, o valor, o histórico, o local e a
+data.
+39. (CESPE/Técnico em Contabilidade/FHCGV-PA/2004) Para que a contabilidade exerça a função de
+escrituração, é necessária a utilização de um método próprio denominado método das partidas simples,
+ou seja, para cada débito, existirá um crédito correspondente.
+40. (CESPE/Técnico em Contabilidade/HCGV/2004) A junção de diversos lançamentos de primeira fórmula
+em uma só partida caracteriza o lançamento de quarta fórmula.
+41. (CESGRANRIO/Profissional/Ciências Contábeis/LIQUIGÁS/2018) De acordo com as normas brasileiras
+de contabilidade, mais precisamente da ITG 2000 (R1), o Livro Diário, em forma digital, deve revestir-se de
+formalidades extrínsecas, dentre as quais:
+a) Ser encadernado
+b) Ser assinado digitalmente pela entidade e pelo profissional de contabilidade legalmente habilitado
+c) Ter nele lançadas, em ordem cronológica, com individualização, clareza e referência ao documento
+probante, todas as operações ocorridas, e, lançados, quaisquer outros fatos que provoquem variações
+patrimoniais
+d) Ter as suas folhas numeradas sequencialmente
+e) Conter termo de abertura e de encerramento, assinados pelo titular ou representante legal da entidade e
+pelo profissional da contabilidade regularmente habilitado no Conselho Regional de Contabilidade
+42. (CESGRANRIO/Analista Júnior/Financeiro/TRANSPETRO/2018) O método das partidas dobradas,
+amplamente usado para registro das transações contábeis, é baseado na lógica de lançamento de origem
+e aplicação de recursos.
+Assim, o registro contábil do pagamento de saldo em aberto de R$ 1.000,00 a fornecedores tem como
+lançamento referente à aplicação de recursos um
+a) débito em fornecedores
+b) débito em estoques de mercadorias
+c) débito em bancos c/movimento
+d) crédito em fornecedores
+e) crédito em bancos c/movimento
+43. (CESGRANRIO/Técnico Júnior/TRANSPETRO/2018) As entidades devem manter, nos termos da lei
+societária e normas contábeis vigentes, registros contábeis suportados por documentos legais e hábeis,
+tais como notas fiscais, recibos e contratos. Ainda de acordo com a teoria contábil, tais registros devem ser
+realizados no livro Diário, por lançamento cuja quantidade de elementos é
+a) dois
+b) três
+c) quatro
+d) cinco
+e) seis
+
+
+---
+
+44. (ESAF/Analista de Comércio Exterior/2012) O lançamento de terceira fórmula é chamado de
+lançamento composto porque é formado de
+a) duas contas devedoras e duas contas credoras.
+b) duas contas devedoras e uma conta credora.
+c) uma conta devedora e duas ou mais contas credoras.
+d) duas ou mais contas devedoras e duas ou mais contas credoras.
+e) duas ou mais contas devedoras e uma conta credora.
+45. (ESAF/Analista de Comércio Exterior/2012) Observe as seguintes sugestões de lançamento e assinale
+a opção incorreta.
+a) Compras
+  a Diversos
+  a Caixa
+  a Fornecedores
+Neste lançamento está sendo contabilizada uma operação de compra de mercadorias a prazo com entrada,
+sem impostos.
+b) Diversos
+  a Caixa
+  Fornecedores
+  Juros
+ Neste lançamento está sendo contabilizado um pagamento de dívidas com juros.
+c) Diversos
+  a Vendas
+  Clientes
+  Impostos a Recuperar
+Neste lançamento está sendo contabilizada uma venda a prazo com ICMS.
+d) Fornecedores
+  a Diversos
+  a Caixa
+  a Descontos
+Neste lançamento está sendo contabilizado um pagamento de dívidas com descontos.
+e) Caixa
+  a Diversos
+  a Clientes
+  a Juros
+
+
+---
+
+Neste lançamento está sendo contabilizado um recebimento de créditos com juros.
+46. (ESAF/Analista do Mercado de Capitais/CVM/2010) O Banco do Brasil emitiu aviso de débito
+comunicando à empresa Fermônio S.A. a quitação de uma de suas duplicatas da Carteira de Desconto, no
+valor de R$ 2.000,00. Ao receber tal aviso, a empresa tomadora do empréstimo contabilizou o evento,
+lançando:
+a) débito em Duplicatas Descontadas e crédito em Bancos conta Movimento.
+b) débito em Duplicatas a Receber e crédito em Duplicatas Descontadas.
+c) débito em Bancos conta Movimento e crédito em Duplicatas Descontadas.
+d) débito em Bancos conta Movimento e crédito em Duplicatas a Receber.
+e) débito em Duplicatas Descontadas e crédito em Duplicatas a Receber.
+47. (ESAF/Analista Técnico-Administrativo/MF/2013) Assinale a opção correta.
+a) A contabilização feita ao mesmo tempo a débito de duas contas e a crédito de apenas uma conta
+caracteriza um lançamento de terceira fórmula.
+b) O lançamento contábil efetuado a débito de uma conta de despesa aumentará o patrimônio líquido, pois
+a conta representa um consumo de riquezas.
+c) A contabilização feita ao mesmo tempo a débito de duas contas e a crédito de apenas uma conta
+caracteriza o registro de um fato administrativo aumentativo.
+d) O lançamento contábil efetuado a crédito de uma conta de receita aumentará o patrimônio líquido, pois
+a conta representa uma redução de consumo.
+e) O lançamento contábil efetuado a crédito de uma conta de despesa reduzirá o patrimônio líquido, pois a
+conta representa um consumo de riquezas.
+48. (ESAF/Analista Tributário da Receita Federal do Brasil/2009) Observemos o seguinte fato contábil:
+pagamento, mediante a emissão de cheque, de uma duplicata antes do vencimento, obtendo-se um
+desconto financeiro, por essa razão.
+Para que o registro contábil desse fato seja feito em um único lançamento, deve-se utilizar a
+a) primeira fórmula, com 1 conta devedora e 1 conta credora.
+b) segunda fórmula, com 1 conta devedora e 2 contas credoras.
+c) terceira fórmula, com 2 contas devedoras e 1 conta credora.
+d) quarta fórmula, com 2 contas devedoras e 2 contas credoras.
+e) terceira fórmula, com 3 contas devedoras e 1 conta credora.
+49. (ESAF/Auditor Fiscal da Receita Federal do Brasil/2012) O balancete de verificação evidencia
+a) os estornos efetuados no período.
+b) a configuração e classificação correta dos itens contábeis.
+c) a igualdade matemática dos lançamentos efetuados no período.
+d) o registro dos movimentos individuais das contas contábeis no período.
+e) os lançamentos do período, quando efetuados de forma correta no período.
+
+
+---
+
+50. (ESAF/Contador/MF/2013) Na data de encerramento do exercício social, a empresa ABN S.A.
+apresentou a seguinte relação de contas e saldos constantes do seu livro Razão:
+       Contas                              Saldos
+       Capital Social                      18.000,00
+       Receitas de Vendas                  16.500,00
+       Duplicatas a Receber                14.000,00
+       Duplicatas a Pagar                  13.000,00
+       Clientes                            12.000,00
+       Fornecedores                        11.000,00
+       Móveis e Utensílios                 10.000,00
+       Veículos                            9.000,00
+       Bancos c/Movimento                  8.500,00
+       Custo das Vendas                    6.800,00
+       Reserva Legal                       6.300,00
+       Empréstimos Obtidos                 6.000,00
+       Mercadorias                         5.000,00
+       Ações de Coligadas                  4.300,00
+       Salários e Ordenados                4.200,00
+       Provisão p/Férias                   3.500,00
+       Descontos Concedidos                3.200,00
+       Depreciação Acumulada               2.900,00
+       Aluguéis Ativos                     2.500,00
+       Depreciação                         2.100,00
+       Capital a Realizar                  1.800,00
+       Juros Ativos                        1.500,00
+       Caixa                               1.500,00
+       Provisão p/Devedores Duvidosos      1.100,00
+       Provisão p/IR                       1.000,00
+       Devedores Duvidosos                 900,00
+Ao mandar elaborar um balancete geral de verificação a partir dos saldos acima, a empresa encontrará saldos
+devedores no valor de
+a) R$ 83.300,00.
+b) R$ 81.500,00.
+c) R$ 80.400,00.
+
+
+---
+
+d) R$ 79.300,00.
+e) R$ 77.500,00.
+51. (ESAF/Contador/MF/2013) Considerando que a movimentação contábil sempre ocorre em forma de
+equação, para que as origens de recursos sejam iguais à sua aplicação, organize os seguintes elementos
+segundo os critérios de débito e crédito.
+        Aumentos de ativo           R$ 1.000,00
+        Aumentos de passivo         R$ 1.200,00
+        Bens existentes             R$ 2.000,00
+        Consumos realizados         R$ 700,00
+        Direitos a receber          R$ 1.500,00
+        Ganhos e rendas obtidos     R$ 950,00
+        Obrigações a pagar          R$ 2.150,00
+        Reduções de ativo           R$ 450,00
+        Reduções de passivo         R$ 800,00
+        Situação Líquida anterior   R$ 1.350,00
+Considerando que todo o movimento contábil dessa entidade está expresso na relação acima, pode-se dizer
+que o item que a completará será
+a) débito no valor de R$ 100,00.
+b) crédito no valor de R$ 100,00.
+c) débito no valor de R$ 50,00.
+d) crédito no valor de R$ 50,00.
+e) redução de caixa no valor de R$ 50,00.
+52. (ESAF/Analista Técnico-Administrativo/MF/2013) As contas escrituradas no livro Razão da empresa
+Alfa, em 31 de dezembro, apresentaram saldos nos seguintes valores:
+Caixa                                       R$ 15.000,00
+Imóveis                                     R$ 40.000,00
+Capital Social                              R$ 57.000,00
+Mercadorias                                 R$ 17.000,00
+Receita de Vendas                           R$ 32.000,00
+Custo da Mercadoria Vendida                 R$ 21.000,00
+Fornecedores                                R$ 26.000,00
+Empréstimo Bancário                         R$ 10.000,00
+Contas a Receber                            R$ 18.000,00
+Salários e Ordenados                        R$ 12.000,00
+Salários a Pagar                            R$ 6.000,00
+
+
+---
+
+Juros Ativos                             R$ 5.000,00
+Descontos Concedidos                     R$ 4.000,00
+Reserva Legal                            R$ 2.000,00
+Depreciação Acumulada                    R$ 6.000,00
+Elaborando o balancete geral de verificação e o balanço patrimonial com os saldos apresentados nestas
+contas, o valor encontrado será:
+a) R$ 143.000,00 de saldo credor.
+b) R$ 133.000,00 de saldo devedor.
+c) R$ 90.000,00 de ativo.
+d) R$ 59.000,00 de patrimônio líquido.
+e) R$ 36.000,00 de passivo exigível.
+53. (ESAF/Analista Tributário da Receita Federal do Brasil/2012) A companhia Metalgrosso S.A. apresenta
+como extrato de seu Livro Razão, em 31.12.2011, a seguinte relação de contas e respectivos saldos:
+Contas                                                 saldos
+01 - Ações de Coligadas                                60
+02 - Ações em Tesouraria                               10
+03 - Aluguéis Passivos                                 32
+04 - Amortização Acumulada                             25
+05 - Bancos c/ Movimento                               100
+06 - Caixa                                             80
+07 - Capital a Realizar                                45
+08 - Capital Social                                    335
+09 - Clientes                                          120
+10 - Comissões Ativas                                  46
+11 - Custo das Vendas                                  200
+12 - Depreciação                                       28
+13 - Depreciação Acumulada                             45
+14 - Descontos Concedidos                              18
+15 - Descontos Obtidos                                 17
+16 - Despesas de Organização                           90
+17 - Duplicatas a Receber                              85
+18 - Duplicatas a Pagar                                115
+19 - Duplicatas Descontadas                            35
+20 - Fornecedores                                      195
+
+
+---
+
+21 - Máquinas e Equipamentos                               130
+22 - Mercadorias                                           145
+23 - Móveis e Utensílios                                   40
+24 - Obrigações Trabalhistas                               18
+25 - Prêmio de Seguros                                     40
+26 - Prejuízos Acumulados                                  12
+27 - Provisão para Devedores Duvidosos                     30
+28 - Provisão para Imposto de Renda                        22
+29 - Receitas de Vendas                                    350
+30 - Reservas de Capital                                   65
+31 - Reservas de Lucro                                     125
+32 - Salários e Ordenados                                  60
+33 - Seguros a Vencer                                      28
+34 - Títulos a Pagar                                       20
+35 - Veículos                                              180
+Elaborando um balancete de verificação com os saldos acima, certamente encontraremos saldos credores
+no montante de
+a) R$ 1.065,00.
+b) R$ 1.308,00.
+c) R$ 1.338,00.
+d) R$ 1.373,00.
+e) R$ 1.443,00.
+54. (QUADRIX/Contador/CRA-PR/2019) Os livros contábeis e os documentos relativos à escrituração
+devem ser mantidos apenas até o encerramento do exercício fiscal.
+55. (QUADRIX/Contador/CRA-PR/2019) A escrituração de determinada entidade pode apresentar erros
+ainda que o balancete de verificação demonstre a correspondência entre os valores totais de saldos
+devedores e credores.
+56. (FUNDATEC/Tesoureiro/Pref. Salvador das Missões-RS/2019) O Livro Caixa, geralmente mantido na
+Tesouraria da entidade, é um livro auxiliar que se destina ao controle da movimentação e do saldo da
+conta Caixa. Nele são registradas todas entradas e saídas de dinheiro. Sobre ele, assinale a alternativa
+correta.
+a) O saldo do Livro Caixa pode ser positivo ou negativo, dependendo da movimentação diária.
+b) O saldo do Livro Caixa deve corresponder ao saldo da conta Caixa da contabilidade.
+c) A movimentação bancária não transita no Livro Caixa, ou seja, nele não são registrados, por exemplo, nem
+os cheques emitidos, nem os depósitos bancários de dinheiro da entidade.
+d) As vendas à vista, registradas no Livro Caixa, são creditadas na conta Caixa da contabilidade.
+
+
+---
+
+e) O adiantamento de numerário para viagem de um funcionário deve ser feito mediante vale, que não será
+registrado no Livro, mas mantido no cofre e lançado na conta Caixa da contabilidade da entidade.
+57. (FUNDATEC/Contador/Pref. de Gramado-RS/2019) Em relação às técnicas contábeis, o pagamento, em
+cheque bancário, do valor de uma duplicata, acrescido de encargos de juros e de mora, deve ser
+contabilizado em lançamento de:
+a) Terceira fórmula.
+b) Quarta fórmula.
+c) Segunda fórmula.
+d) Quinta fórmula.
+e) Primeira fórmula.
+
+
+---
+
+                              GABARITO
+
+1.    2.    3.    4.    5.    6.     7.    8.    9.    10.   11.   12.
+B     E     A     A     E     B      C     B     C     E     D     A
+13.   14.   15.   16.   17.    18.   19.   20.   21.   22.   23.   24.
+
+C     B     B     B     A     B      C     E     E     E     E     C
+25.   26.   27.   28.   29.    30.   31.   32.   33.   34.   35.   36.
+C     E     E     E     C     C      C     C     E     E     C     C
+37.   38.   39.   40.   41.    42.   43.   44.   45.   46.   47.   48.
+
+C     E     E     C     B     A      D     E     C     E     A     B
+49.   50.   51.   52.   53.    54.   55.   56.   57.
+C     A     A     D     E     E      C     B     A
+
+
+---

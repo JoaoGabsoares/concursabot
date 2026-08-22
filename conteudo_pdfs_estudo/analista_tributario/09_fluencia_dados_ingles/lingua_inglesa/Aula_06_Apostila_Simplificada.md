@@ -1,0 +1,2860 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 06_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Língua Inglesa
+---
+
+# Língua Inglesa
+
+Aula 05
+                          Receita Federal (Analista Tributário)
+                                               Língua Inglesa
+
+                                                        Autor:
+                                                   Ena Smith
+
+                                           23 de Agosto de 2025
+
+---
+
+      Ena Smith
+      Aula 05
+
+                                                                                     Índice
+1) AULA 05 TEORIASIM
+
+
+2) AULA 05 FGVQCSIM
+
+                Receita Federal (Analista Tributário) Língua Inglesa                                                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                           60
+
+                                                             
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+                                                A ULA 05
+                         SUMÁRIO RESUMIDO                                 PÁGINA
+
+Presente, Passado e Futuro Contínuo                                         01
+
+Present Perfect                                                             09
+
+Past e Future Perfect, Futuro Perfeito Contínuo                             10
+
+Voz Ativa e Voz Passiva                                                     13
+
+  P RESENTE , P ASSADO E F UTURO C ONTÍNUO
+
+O tempo verbal Contínuo em todas as suas formas (Presente, Passado e Futuro) é conhecido em
+Inglês como Present Participle ou forma ING.
+
+                                       1.1. Presente Contínuo
+
+
+Vamos começar com o Present Continuous também conhecido como Present Progressive, o qual
+é utilizado para expressar ações no presente, as quais acontecem no momento em que se fala,
+para indicar eventos futuros que tenham sido planejados e confirmados ou ainda para expressar
+certeza de que algo irá acontecer. Na Afirmativa ele tem o seguinte formato:
+
+Sujeito + a conjugação do verbo to be (am/is/are) adequada + o verbo principal
+com a terminação –ing + complemento (se houver)
+
+Ele pode ser acompanhado de advérbios de tempo como: now (agora), at present (no presente),
+at the moment (no momento), today (hoje), this morning (esta manhã) e etc. Quando tem uso
+futuro são usadas expressões tais como: tomorrow at 10.00 (amanhã às 10.00), on Sunday
+afternoon (no domingo a tarde), on December 20 (em 20 de Dezembro).
+
+
+It’s snowing today. I am wearing a coat.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               3
+        www.estrategiaconcursos.com.br                                                    60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Está nevando hoje. Estou usando um casaco.
+
+
+He is speaking in a friendly way now.
+Ele está falando de modo amigável agora.
+
+
+Para formar o Present Continuous deve-se observar algumas regras, veja a seguir:
+
+
+Nos verbos terminados em –E: retira-se o e E põe-se o ING
+
+
+How is private wealth changing (change) the world?
+Como a riqueza privada está mudando o mundo?
+
+
+Em alguns verbos de uma sílaba dobra-se a última letra e acrescenta-se –ing em alguns casos e
+em outros acrescenta-se apenas o -ing:
+
+
+I am running (to run) at the beach right now.
+Estou correndo na praia agora mesmo.
+
+
+Nos verbos terminados em Y, acrescenta-se -ing:
+
+
+They are trying to work in a bank.
+Eles estão tentando trabalhar em um banco.
+
+
+Nos verbos terminados em –ie, troca-se –ie por y e acrescenta-se ing:
+
+
+The garden is dying (to die) because there’s no rain.
+O jardim está morrendo por que não há chuva.
+
+
+Forma Negativa:
+
+
+Sujeito + verbo To Be + NOT+ verbo no Contínuo
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               4
+        www.estrategiaconcursos.com.br                                                    60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+The politicians are not lying about their actions.
+Os políticos não estão mentindo sobre suas ações.
+
+
+Forma Interrogativa:
+
+
+Verbo to be + sujeito + verbo principal + complemento
+
+
+Are the politicians lying about their actions?
+Estão os políticos mentindo sobre suas ações?
+
+
+Interrogativa Negativa:
+
+                Verbo to be + not + sujeito + verbo + ING + complemento
+
+Aren’t the politicians lying about their actions?
+Não estão os políticos mentindo sobre suas ações?
+
+                                        1.2. Passado Contínuo
+
+
+       O Past Progressive expressa acontecimentos no passado, cujas ações já foram
+interrompidas. Ao passo que o Present Continuous refere-se a ações que estão acontecendo
+a longo prazo ou acontecerão em breve. A diferença entre o Present e o Past Progressive
+observa-se no formato do verbo to be, pois o mesmo fica no passado simples.
+
+Sujeito + verbo to be no passado simples (was/were) + verbo principal + ing +
+complemento
+
+The politician was lying about his actions.
+O politico estava mentindo sobre as ações dele.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                          5
+        www.estrategiaconcursos.com.br                                               60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Forma Negativa:
+Sujeito + was/were + Not + verbo principal + ING +complemento
+
+
+The law office wasn’t employing three hundred people.
+O escritório de advocacia não estava empregando trezentas pessoas.
+
+
+Forma Interrogativa:
+
+     Verbo to be (was/were) + sujeito + verbo principal + ING + complemento
+
+Was the law office employing three hundred people?
+Estava o escritório de advocacia empregando trezentas pessoas?
+
+
+Interrogativa Negativa:
+
+        Verbo TO BE + Not + sujeito + verbo principal + ING + complemento
+
+Wasn’t the law office employing three hundred people?
+Não estava o escritório de advocacia empregando trezentas pessoas?
+
+                                         1.3. Futuro Contínuo
+
+
+O tempo verbal Contínuo no Futuro é usado para falar sobre ações que são ideias sobre rotinas,
+planos e expectativas. Por exemplo, quando sabemos que estaremos fazendo algo em um
+tempo específico no Futuro, para falar sobre coisas já planejadas, e para expressar uma ideia do
+que está acontecendo agora. Observe abaixo como ele é formado:
+
+               Sujeito + Will/’ll Be + verbo principal + ING + complemento
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  6
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Next week the law office will be employing three hundred people.
+Na semana que vem o escritório de advocacia estará empregando trezentas pessoas.
+
+
+Negativa:
+
+        Sujeito + Will Not/Won’t Be + verbo principal + ING + complemento
+
+Next week the law office will not be employing three hundred people.
+Na semana que vem o escritório de advocacia não estará empregando trezentas pessoas.
+
+                                  P RESENT P ERFECT
+       O tempo verbal Present Perfect (Presente Perfeito) é um tempo composto por dois
+verbos: um auxiliar seguido de outro verbo principal. O auxiliar é sempre o verbo to have (ter)
+no presente simples, ou seja: have (para: I, you, we, they) e has (para as terceiras pessoas do
+singular: he, she, it). O verbo principal sempre deve estar no particípio.
+
+
+      O Simple Present Perfect é um tempo verbal que não tem um equivalente em
+português. Normalmente, indica ações que ocorreram no passado e perduram até o presente,
+ações de um passado indeterminado e ações recentemente concluídas. Nós podemos usar o
+Present Perfect para:
+
+
+1. Expressar uma ação passada que tem resultado ou atinge o presente:
+
+
+She has gone for a break.
+Ela saiu para uma pausa (momento de descanso).
+
+
+2. Contar novidades recentes:
+
+
+The Prime Minister has died.
+O Primeiro Ministro morreu.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 7
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+3. Falar sobre um período de tempo que começou no passado e continua até o
+presente:
+
+
+We have studied Japanese since January.
+Nós temos estudado/estudamos Japonês desde Janeiro.
+
+
+4. Expressar o verbo “to go” de duas maneiras diferentes, usando o “gone” e o
+“been”:
+
+
+She has been to Japan.
+Ela foi ao Japão ( Em algum momento no passado ela foi ao Japão mas não está lá no momento)
+
+
+They have gone to Europe.
+Eles foram para a Europa ( E ainda não voltaram, estão ainda lá).
+
+
+5. Falar sobre ações no passado usando advérbios de tempo:
+
+
+Existem alguns advérbios de tempo que são normalmente usados com o Simple Present
+Perfect, observem os exemplos abaixo:
+
+
+Ever – Quando você quer saber se em algum tempo da vida a pessoa já fez algo ou afirmar que
+é a primeira vez de determinado acontecimento:
+
+
+Have you ever seen the snow?
+Você já viu a neve?
+
+
+Just – Para indicar algo que aconteceu recentemente:
+
+
+She's just gone for a break.
+Ela acabou de sair para uma pausa (momento de descanso).
+
+
+Never - Expressa que algo nunca aconteceu, nem sequer uma vez
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             8
+        www.estrategiaconcursos.com.br                                                   60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+She's never eaten Polish food.
+Ela nunca comeu comida polonesa.
+
+
+Already – Enfatiza que alguma coisa aconteceu antes do agora
+
+
+She has already made an appointment to see the professor.
+Ela já marcou um horário (já agendou) para ver o professor.
+
+
+Observe que o advérbio fica entre o verbo auxiliar e o principal.
+
+
+Recently – Algo que aconteceu recentemente
+
+
+They have recently acknowledged the value of physical activity.
+Eles tem recentemente reconhecido o valor da atividade física.
+
+
+Since Christmas/New Year – Desde o natal, ano novo ( data específica)
+
+
+Things have changed since New Year.
+As coisas têm mudado desde o ano novo.
+
+
+Since breakfast/lunch-time – Desde um momento específico
+
+
+I have been very busy since lunchtime.
+Tenho estado muito ocupado (a) desde a hora do almoço.
+
+
+For a long time/ages – Por um longo período de tempo
+
+
+I have lived in Australia for a long time.
+Tenho morado na Austrália por um longo tempo.
+
+
+For some years – Para expressar situações permanentes
+
+        Receita Federal (Analista Tributário) Língua Inglesa              9
+        www.estrategiaconcursos.com.br                                    60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+That statue has stood in the square for two hundred years.
+A estátua tem permanecido na praça por duzentos anos.
+
+
+So far – Expressa algo que vem acontecendo até agora
+
+
+You have done good things so far.
+Você tem feito coisas boas até agora.
+
+
+in the last few days/months/years – expressa específicos momentos como nos últimos
+dias/meses/anos
+
+
+Karachi has witnessed countless deaths in the last few months.
+Karachi tem assistido inúmeras mortes nos últimos meses.
+
+
+6. Para dizer quantas vezes algo tem acontecido
+
+
+She has emailed me six times this morning.
+Ela tem me enviado emails por seis vezes esta manhã.
+
+
+O Simple Present Perfect é usado quando um período de tempo ainda não é terminado e com
+as palavras in e for em ações ainda não terminadas.
+
+
+I have lived in U.S.A. for ten years.
+Tenho morado nos Estados Unidos por dez anos.
+
+                                          2.1. Forma Negativa
+
+
+Faz-se a negativa no Simple Present Perfect acrescentando-se not depois do verbo auxiliar have
+e antes do verbo principal:
+
+
+They have not finished their homework yet.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               10
+        www.estrategiaconcursos.com.br                                                     60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Eles não terminaram ainda o dever de casa deles.
+
+
+The Japanese student hasn’t been in class lately.
+O aluno japonês não tem estado na aula ultimamente.
+
+                                     2.2. Forma Interrogativa
+
+
+O auxiliar Have/Has é posicionado no início da frase em seguida vem o pronome pessoal
+(sujeito) e o verbo principal mais o complemento.
+
+
+Have they finished their homework yet?
+Eles já terminaram o dever de casa deles?
+
+ P AST P ERFECT , F UTURE P ERFECT E F UTURO
+            C ONTÍNUO P ERFEITO
+
+                                             3.1. Past Perfect
+
+
+      O tempo verbal Past Perfect (Passado Perfeito) também é um tempo composto por
+dois verbos: um verbo auxiliar seguido de um verbo principal. O auxiliar é sempre o verbo to
+have (ter) no passado simples, que fica had (tinha) para todas as pessoas. O verbo principal
+sempre deve estar no particípio. Esse tempo verbal exprime uma ação que acontecia antes de
+um determinado momento no passado. A diferença desse tempo verbal para o Present
+Perfect (Presente Perfeito) é que o auxiliar have/has vai para o Passado > had.
+
+
+I had already seen the movie the day before.
+Eu já tinha visto o filme um dia antes.
+
+
+O Past Perfect é usado com o conectivo just para se referir a um evento que aconteceu pouco
+tempo antes de outro evento.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             11
+        www.estrategiaconcursos.com.br                                                   60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+The plane had just left when they arrived at the airport.
+O avião tinha acabado de decolar quando eles chegaram no aeroporto.
+
+
+3.1.1. Negativa:
+
+
+A Negativa se faz acrescentando-se o not entre o verbo had e o verbo no particípio. Geralmente
+aparece contraído, assim: hadn’t.
+
+
+We hadn’t read anything when the teacher arrived in the classroom.
+Não tínhamos lido nada quando o professor chegou na sala.
+
+
+3.1.2. Interrogativa:
+
+
+A Interrogativa é feita colocando-se o verbo auxiliar had no início da frase.
+
+
+Had they said?
+Eles tinham dito?
+
+
+3.1.3. Interrogativa Negativa:
+
+
+A Interrogativa Negativa é feita colocando-se o verbo auxiliar had + not no início da frase.
+
+
+Hadn’t he heard the bell?
+Ele não tinha ouvido a campainha?
+
+                                          3.2. Futuro Perfeito
+
+
+O Future Perfect (Futuro Perfeito) é usado para fazer planos futuros ou prever algo que vai
+acontecer antes de um tempo específico no Futuro. Ele tem o seguinte formato:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   12
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+                                   will + have + verbo no particípio
+
+By next January, he will have received his promotion.
+Por volta do próximo Janeiro, ele vai ter recebido a promoção dele.
+
+
+3.2.1. Negativa:
+
+
+A Negativa da frase se faz acrescentando-se o not entre o auxiliar will e o verbo have.
+Geralmente aparece contraído, assim: won’t have.
+
+
+By next January, he won’t have received his promotion.
+Por volta do próximo Janeiro, ele não vai ter recebido a promoção dele.
+
+
+3.2.2. Interrogativa:
+
+
+A Interrogativa é feita colocando-se o auxiliar will no ínicio da frase seguido do sujeito + verbo
+have + verbo no Particípio.
+
+
+Will you have completed your essay by Tuesday?
+Você vai ter feito sua redação até Terça-feira?
+
+
+3.2.3. Interrogativa Negativa:
+
+
+A Interrogativa Negativa é feita colocando-se o auxiliar will + not (won’t) no ínicio da frase
+seguido do sujeito + have + verbo no Particípio.
+
+
+Won’t you have completed your essay by Tuesday?
+Você não vai ter feito sua redação até Terça-feira?
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   13
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+                                 3.3. Futuro Contínuo Perfeito
+
+
+O Future Perfect Continuous (Futuro Perfeito Contínuo) é usado para enfatizar o tempo do
+progresso de algo em um tempo específico no Futuro. Ele tem o seguinte formato:
+
+              will + have + verbo no particípio + verbo no Presente Contínuo.
+
+Ele também é sempre acompanhado da preposição for antes do termo que indica tempo.
+
+
+By eight o’clock this evening I’ll have been studying non-stop for ten hours.
+Ás oito horas da noite eu vou ter estudado por dez horas sem parar.
+
+                      V OZ A TIVA E V OZ P ASSIVA
+
+                                                4.1. Voz Ativa
+
+
+Normalmente, o praticante da ação, ou o agente, vem primeiro, e é feito o sujeito do verbo,
+então temos a Voz Ativa. A outra pessoa ou coisa é feita objeto do verbo. O seu formato é:
+
+                                       Sujeito + verbo principal + objeto
+
+Considere os exemplos abaixo na Voz Ativa:
+
+
+The teacher invited her to the party.
+O professor a convidou para a festa.
+
+
+My mom cleans the room every day.
+Minha mãe limpa o quarto todo dia.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            14
+        www.estrategiaconcursos.com.br                                                  60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+                                             4.2. Voz Passiva
+
+
+A Passive Voice (Voz Passiva) acontece quando nós queremos focalizar nossa atenção em uma
+pessoa ou coisa afetados por uma ação. É utilizada para contar o que acontece com a pessoa ou
+objetos que foram afetados pelo agente da ação, conhecido como agente da Passiva. Portanto,
+se você quer focalizar a pessoa ou coisa afetada pela ação, você faz a pessoa ou coisa o objeto
+da sentença e usa a Voz Passiva. O seu formato é:
+
+                sujeito + verbo to be + past participle + by + objeto.
+
+She was invited to the party by him.
+Ela foi convidada para a festa por ele.
+
+
+The garden was watered by rain.
+O jardim foi regado pela chuva.
+
+
+O autor da ação pode ser omitido na Voz Passiva (by + agente), se o mesmo não for importante
+para a oração. Em alguns casos o agente deve ser mencionado para clareza da oração. Observe
+os exemplos abaixo de quando não deve ser omitido:
+
+
+The criminal was bitten by a sniffer dog.
+O foragido foi mordido por um cão farejador.
+
+
+The telephone was invented by Alexander Bell in 1876.
+O telefone foi inventado por Alexander Bell em 1876.
+
+
+Em geral, se usa a Voz Passiva quando:
+
+
+1. Não se sabe quem é o autor da ação:
+
+
+I had the feeling that I was being followed.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                15
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Eu tive a sensação de que estava sendo seguido.
+
+
+2. Quando é óbvio para o ouvinte ou leitor quem é o autor da ação:
+
+
+She was being paid less than her male colleagues.
+Ela estava sendo paga menos que os colegas dela.
+
+
+3. Quando não é importante saber quem é o autor da ação:
+
+
+All the Sherlock Holmes books can be read in the central library.
+Todos os livros de Sherlock Holmes podem ser lidos na Biblioteca central.
+
+
+Importante! Note que apenas verbos transitivos podem ter formas passivas. Verbos intransitivos,
+como chorar (to cry), morrer (to die), chegar (to arrive), desaparecer (to disapear), que muitas
+vezes descrevem o comportamento físico, não pode ser usado na voz passiva. Eles não têm
+objetos, então não há nada para se tornar o sujeito de uma frase passiva.
+
+
+A seguir veremos quais são as formas verbais que normalmente são usadas na Voz Passiva.
+Observaremos os formatos e seus respectivos exemplos. Bem, como já vimos, as formas passivas
+são feitas de uma forma adequada do verbo "ser" (to be) seguido do particípio passado (Past
+Participle) ou (pp) forma do verbo.
+
+       4.1. Voz Passiva com o Presente Simples (Present simple)
+
+
+                                                Am/ is /are + pp
+
+Today, oil is produced on every continent but Antarctica. (http://www.scienceclarified.com)
+Atualmente, o petróleo é produzido em todos os continentes com exceção da Antártica.
+
+            4.2. Voz Passiva com o Passado Simples (Past Simple)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  16
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+                                                 Was/were + pp
+
+The bill was passed.
+O projeto de lei foi aprovado.
+
+
+More than 60 reputed gang leaders were arrested today.
+Mais de 60 líderes de gangues conhecidas foram presos hoje.
+
+                4.3. Voz Passiva com o Futuro Simples (Future)
+                                                        ==219a34==
+
+                                                   Will be + pp
+
+The house contents will be auctioned a week on Saturday.
+O conteúdo da casa será leiloado por semana, no Sábado.
+
+
+When it will be read?
+Quando isso será lido?
+
+       4.4. Voz Passiva com o Presente Contínuo (Progressive)
+
+
+                                           Am/ are/ is being + pp
+
+The house is being redecorated.
+A casa está sendo redecorada.
+
+
+The bill is being passed.
+O projeto de lei está sendo aprovado.
+
+        Receita Federal (Analista Tributário) Língua Inglesa              17
+        www.estrategiaconcursos.com.br                                    60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+    4.5. Voz Passiva com o Passado Contínuo (Past continuous)
+
+
+                                           Was / were being + pp
+
+He was being treated for depression when he won the lottery.
+Ele estava sendo tratado de depressão quando ele ganhou na loteria.
+
+
+The victims of the disaster were being helped.
+As vítimas do desastre estavam sendo ajudadas.
+
+      4.6. Voz Passiva com o Presente Perfeito (Present Perfect)
+
+
+                                            Has / have been + pp
+
+He's just been admitted!
+Ele acabou de ser admitido!
+
+            4.7. Voz Passiva com o Passado Perfeito (Past Perfect)
+
+
+                                                 Had been + pp
+
+The vegetables had been cooked for far too long, but we had to eat them.
+Os legumes tinham sido cozidos por muito tempo, mas tivemos que comê-los.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                18
+        www.estrategiaconcursos.com.br                                      60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+        4.8. Voz Passiva com o Futuro Perfeito (Future Perfect)
+
+
+                                             Will have been + pp
+
+Her exams will all have been done by Friday.
+Todos os testes dela terão sido feitos até sexta-feira.
+
+                    4.9. Voz Passiva com o Infinitivo (Infinitive)
+
+
+                                                   (to) be + pp
+
+Exams have to be taken almost every month you are at school.
+Os testes têm que ser feitos quase todo mês que você está na escola.
+
+            4.10. Voz Passiva com o condicional simples “Would”
+
+
+                                               Would + be + PP
+
+Your understanding would be appreciated.
+A sua compreensão seria apreciada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa              19
+        www.estrategiaconcursos.com.br                                    60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+      4.11. Voz Passiva com o condicional Perfeito “Would have”
+
+
+                                        Would + have + been + PP
+
+This book would have been read by children.
+Esse livro teria sido lido pelas crianças.
+
+       4.12. Voz Passiva com o verbo auxiliar modal Can (poder)
+
+
+                                              Can + (to) be + PP
+
+This book can be read by children.
+Este livro pode ser lido por crianças.
+
+                         4.13. Voz Passiva com a Voz Reflexiva
+
+
+Ainda há a Voz Reflexiva que vemos no tópico dos Pronomes Reflexivos. Relembre com o
+exemplo abaixo:
+
+
+Her song was sung by herself.
+A música dela foi cantada por ela mesma.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                     20
+        www.estrategiaconcursos.com.br                                           60
+
+                                     
+
+
+---
+
+ Ena Smith
+ Aula 05
+
+                                               A ULA 05
+                      SUMÁRIO RESUMIDO                                   PÁGINA
+
+Texto 1, Questões Comentadas e Tradução                                    02
+
+Texto 2, Questões Comentadas e Tradução                                    13
+
+Texto 3, Questões Comentadas e Tradução                                    20
+
+Lista de Questões Apresentadas                                             28
+
+Gabaritos                                                                  29
+
+       Receita Federal (Analista Tributário) Língua Inglesa                       21
+       www.estrategiaconcursos.com.br                                             60
+
+                                    
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+                                                T EXTO 1
+Analista de Apoio - Turismólogo - Companhia de Desenvolvimento Econômico de Minas Gerais –
+CODEMIG - FGV
+
+
+                                 Innovation is the new key to survival
+                                                          [...]
+
+
+At its most basic, innovation presents an optimal strategy for controlling costs. Companies that
+have invested in such technologies as remote mining, autonomous equipment and driverless
+trucks and trains have reduced expenses by orders of magnitude, while simultaneously driving up
+productivity.
+
+
+Yet, gazing towards the horizon, it is rapidly becoming clear that innovation can do much more
+than reduce capital intensity. Approached strategically, it also has the power to reduce people
+and energy intensity, while increasing mining intensity.
+
+
+Capturing the learnings
+
+
+The key is to think of innovation as much more than research and development (R&D) around
+particular processes or technologies. Companies can, in fact, innovate in multiple ways, such as
+leveraging supplier knowledge around specific operational challenges, redefining their
+participation in the energy value chain or finding new ways to engage and partner with major
+stakeholders and constituencies.
+
+
+To reap these rewards, however, mining companies must overcome their traditionally
+conservative tendencies. In many cases, miners struggle to adopt technologies proven to work at
+other mining companies, let alone those from other industries. As a result, innovation becomes
+less of a technology problem and more of an adoption problem.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 22
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+By breaking this mindset, mining companies can free themselves to adapt practical applications
+that already exist in other industries and apply them to fit their current needs. For instance, the
+tunnel boring machines used by civil engineers to excavate the Chunnel can vastly reduce
+miners’ reliance on explosives. Until recently, those machines were too large to apply in a mining
+setting. Some innovators, however, are now incorporating the underlying technology to build
+smaller machines—effectively adapting mature solutions from other industries to realize more
+rapid results.
+
+
+Re-imagining the future
+
+
+At the same time, innovation mandates companies to think in entirely new ways. Traditionally, for
+instance, miners have focused on extracting higher grades and achieving faster throughput by
+optimizing the pit, schedule, product mix and logistics. A truly innovative mindset, however, will
+see them adopt an entirely new design paradigm that leverages new information, mining and
+energy technologies to maximize value. [...]
+
+
+Approached in this way, innovation can drive more than cost reduction. It can help mining
+companies mitigate and manage risks, strengthen business models and foster more effective
+community and government relations. It can help mining services companies enhance their value
+to the industry by developing new products and services. Longer-term, it can even position
+organizations to move the needle on such endemic issues as corporate social responsibility,
+environmental performance and sustainability.
+(http://www2.deloitte.com/content/dam/Deloitte/ru/Documents/energyresources/ru_er_tracking
+_the_trends_2015_eng.pdf)
+
+
+Comentários:
+01 When companies invest in “remote mining, autonomous equipment and driverless trucks and
+trains” (l. 3-4), it is clear that their goal is to:
+
+
+(A) downsize the pay roll;
+(B) decrease the speed of extraction;
+(C) learn more technological strategies;
+(D) buy machines which require man-power;
+(E) spend more in equipment maintenance.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    23
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+01 When companies invest in “remote mining, autonomous equipment and driverless trucks and
+trains” (l. 3-4), it is clear that their goal is to:
+01 Quando as empresas investem em "mineração remota, equipamento autônomo e caminhões
+e trens sem condutor" (l. 3-4), é claro que o seu objetivo é:
+
+
+(A) downsize the pay roll; = reduzir a folha de pagamento
+
+
+At its most basic, innovation presents an optimal strategy for controlling costs. Companies that
+have invested in such technologies as remote mining, autonomous equipment and driverless
+trucks and trains have reduced expenses by orders of magnitude, while simultaneously driving up
+productivity.
+No seu aspecto mais básico, a inovação apresenta uma estratégia ideal para o controle de
+custos. Empresas que investiram em tecnologias como a mineração com controle remoto,
+equipamento autônomo e caminhões e trens que não precisam de motorista têm reduzido as
+despesas em ordens de magnitude, e ao mesmo tempo aumentado a produtividade.
+
+
+Observe no contexto que se falou de controle de custos. Além disso, as palavras remote (com
+controle remoto), autonomous (autônomo) e driverless (que não precisa de motorista) indicam
+claramente uma diminuição de trabalhadores. Portanto, o objetivo das empresas ao fazer esse
+tipo de investimento é reduzir a folha de pagamento. Essa é a opção correta.
+
+
+(B) decrease the speed of extraction; = diminuir a velocidade de extração e (E) spend more in
+equipment maintenance. = gastar mais em manuntenção de equipamentos
+
+
+Essas duas opções expressam algo que é um contra-senso. Nenhuma empresa vai ter como
+objetivo diminuir a produção ou gastar mais em manuntenção. Não estão de acordo com o
+texto. Erradas.
+
+
+(C) learn more technological strategies; = aprender estratégicas mais tecnológicas
+
+
+O texto não diz que esse é o motivo pelo qual as empresas estão investindo nesse tipo de
+maquinário. Errada.
+
+
+(D) buy machines which require man-power; = comprar máquinas que requerem mão-de-obra
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 24
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+A opção expressa exatamente o oposto do que diz o texto. O objetivo das empresas é diminuir
+e não aumentar a mão-de-obra. Errada.
+
+
+GABARITO: A
+
+
+02 The fragment “To reap these rewards” (l. 17) means to:
+
+
+(A) maintain old practices;
+(B) get unexpected results;
+(C) achieve desired benefits;
+(D) offer better job conditions;
+(E) win international competitions.
+
+
+02 The fragment “To reap these rewards” (l.17) means to:
+02 O fragmento "Para colher esses frutos" (l.17) significa:
+
+
+(A) maintain old practices; = (A) manter velhas práticas;
+
+
+Ainda que você não soubesse o significado da frase no texto, dava para deduzir que essa opção
+está errada. Veja que o texto fala de inovação. Portanto, nada ter a ver com manter velhas
+práticas. A mesma frase diz que as empresas de mineração devem superar suas tendências
+tradicionalmente conservadoras.
+
+
+(B) get unexpected results; = (B) obter resultados inesperados;
+
+
+Não se trata de resultados inesperados, mas de resultados que tragam benefícios. Opção
+errada.
+
+
+(C) achieve desired benefits; = (C) conseguir benefícios desejados;
+
+
+To reap these rewards, however, mining companies must overcome their traditionally
+conservative tendencies.
+Para colher esses bons frutos, as empresas de mineração devem superar suas tendências
+tradicionalmente conservadoras.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              25
+        www.estrategiaconcursos.com.br                                                    60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+To reap the reward = colher o fruto = alcançar / conseguir / aproveitar o benefício desejado
+
+
+O verbo aqui está em sentido figurado. Essa é a opção correta.
+
+
+(D) offer better job conditions; = (D) oferecer melhores condições de trabalho;
+
+
+A opção não expressa o correto significado do fragmento. Errada.
+
+
+(E) win international competitions. = (E) ganhar competições internacionais.
+
+
+O texto não fala nada sobre isso. Errada.
+
+
+GABARITO: C
+
+
+03 The verb “reduce” in “reduce capital intensity” (l. 7) has the same meaning as:
+
+
+(A) cut in;
+(B) cut off;
+(C) cut out;
+(D) cut loose;
+(E) cut back on.
+
+
+03 The verb “reduce” in “reduce capital intensity” (l. 7) has the same meaning as:
+03 O verbo “reduzir” em “reduzir a intensidade de capital” (l.7) tem o mesmo significado que:
+
+
+(A) cut in;= fechar, interromper, dividir, incluir
+
+
+Os verbos que são sinônimos desse verbo frasal são: move suddenly (cortar, fechar um carro; ou
+furar uma fila); interrupt (interromper alguém), include (dividir/incluir alguém em um lucro);
+
+
+Ao observar a definição do verbo frasal, conclui-se que a opção é errada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    26
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(B) cut off;= interromper, cortar, desligar, isolar (algo/alguém)
+
+
+Alguns dos verbos que são sinônimos desse verbo frasal são: interrupt (interromper o curso ou
+passagem de algo); move suddenly (cortar, fechar um carro; isolate (isolar, separar dos outros).
+Opção errada.
+
+
+(C) cut out;= cortar, parar de fazer algo
+
+
+Alguns dos verbos que são sinônimos desse verbo frasal são: remove (remover por cortar), stop,
+cease (parar de fazer algo). Opção errada.
+
+
+(D) cut loose;= separar, desligar, soltar-se, libertar-se, liberar-se
+
+
+Um dos verbos que são sinônimos desse verbo frasal é: speak or act without restraint ( falar ou
+agir sem restrição). Opção errada.
+
+
+(E) cut back on.= reduzir, diminuir, economizar por reduzir
+
+
+Yet, gazing towards the horizon, it is rapidly becoming clear that innovation can do much more
+than reduce / cut off capital intensity.
+Mas, olhando para o horizonte, está rapidamente se tornando claro que a inovação pode fazer
+muito mais do que reduzir / diminuir a intensidade de capital.
+
+
+Reduce = reduzir = cut back = reduzir, diminuir, economizar por reduzir
+
+
+Se substituirmos o verbo no texto pelo verbo frasal na opção, não haverá nenhuma alteração na
+compreensão textual, pois são sinônimos. Essa é a opção correta.
+
+
+GABARITO: E
+
+
+04 The word “them” in “apply them to fit” (l. 25) refers to:
+
+
+(A) current needs;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 27
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(B) other industries;
+(C) mining companies;
+(D) practical applications;
+(E) tunnel boring machines.
+
+
+04 The word “them” in “apply them to fit” (l. 25) refers to:
+04 A palavra “las” em “aplicá-las para atender” (l.25) refere-se a:
+
+
+(A) current needs;= necessidades atuais
+
+
+Geralmente em questões como essa, você já elimina aquelas opções que trazem palavras que
+vem depois do pronome. Visto que o pronome retoma algo que já foi falado antes, então é
+natural que o pronome se encontre depois daquilo a que se refere, na sequência das frases no
+texto. Errada.
+
+
+(B) other industries;= outras indústrias
+
+
+Não faz sentido dizer que se aplica em outras indústrias para atender suas necessidades atuais.
+Opção errada.
+
+
+(C) mining companies;= empresas de mineração
+
+
+O pronome them é o objeto. As empresas de mineração são o sujeito da oração. Opção errada.
+
+
+(D) practical applications;= aplicações práticas
+
+
+By breaking this mindset, mining companies can free themselves to adapt practical applications
+that already exist in other industries and apply them to fit their current needs.
+Ao refutar essa estrutura de pensamento, empresas de mineração podem libertar-se de adaptar
+aplicações práticas que já existem em outras indústrias e aplicá-las para atender suas
+necessidades atuais.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                28
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+É só fazer a pergunta ao verbo. Aplicar o que para atender as necessidades atuais? As aplicações
+práticas. Essa é a opção correta.
+
+
+(E) tunnel boring machines. = máquinas de túnel monótonas
+
+
+Essas palavras nem mesmo estão no segmento analisado da questão. Está na frase posterior a
+ela. Opção Errada.
+
+
+GABARITO: D
+
+
+05 “For instance” in “Traditionally, for instance, miners have focused on extracting” (l. 34-35) is
+used to:
+
+
+(A) justify;
+(B) explain;
+(C) exemplify;
+(D) enumerate;
+(E) summarize.
+
+
+05 “For instance” in “Traditionally, for instance, miners have focused on extracting” (l. 34-35) is
+used to:
+05 “Por exemplo” em “Por exemplo, tradicionalmente os mineiros têm-se centrado na extração”
+(l.34-35) é usado para:
+
+
+(A) justify; = justificar
+
+
+Veja algumas das palavras usadas para justificar: Because (Por que), As a result (Por isso), So
+(assim, então) etc. Opção errada.
+
+
+(B) explain; = explicar
+
+
+Veja algumas das palavras usadas para explicar: Although (Embora, apesar de), However
+(entretanto) etc. Opção errada.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                   29
+         www.estrategiaconcursos.com.br                                                         60
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(C) exemplify; = exemplificar
+
+
+Traditionally, for instance, miners have focused on extracting higher grades and achieving faster
+throughput by optimizing the pit, schedule, product mix and logistics.
+Por exemplo, tradicionalmente os mineiros têm-se centrado na extração de graus mais elevados
+e em alcançar uma produção mais rápida através da otimização do poço, cronograma, mix de
+produtos e logística.
+
+
+For instance = por exemplo
+
+
+Esse conectivo é usado para exemplificar algo. Essa é a opção correta.
+
+
+(D) enumerate;= enumerar
+
+
+As palavras usadas para enumerar seriam: Firstly (Primeiramente), Secondly (Em segundo lugar),
+etc. Opção errada.
+
+
+(E) summarize.= sumarizar
+
+
+Algumas das palavras usadas para resumir ou sumarizar são: Finally (Finalmente), In conclusion
+(Em conclusão), etc. Opção errada.
+
+
+GABARITO: C
+
+
+Translation
+
+
+Innovation is the new key to survival
+Inovação é a nova chave para a sobrevivência
+
+
+At its most basic, innovation presents an optimal strategy for controlling costs. Companies that
+have invested in such technologies as remote mining, autonomous equipment and driverless
+trucks and trains have reduced expenses by orders of magnitude, while simultaneously driving up
+productivity.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  30
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+No seu aspecto mais básico, a inovação apresenta uma estratégia ideal para o controle de
+custos. Empresas que investiram em tecnologias como a mineração com controle remoto,
+equipamento autônomo e caminhões e trens que não precisam de motorista têm reduzido as
+despesas em ordens de magnitude, e ao mesmo tempo aumentado a produtividade.
+
+
+Yet, gazing towards the horizon, it is rapidly becoming clear that innovation can do much more
+than reduce capital intensity. Approached strategically, it also has the power to reduce people
+and energy intensity, while increasing mining intensity.
+
+
+Mas, olhando para o horizonte, está rapidamente se tornando claro que a inovação pode fazer
+muito mais do que reduzir a intensidade de capital. Abordada estrategicamente, ela também
+tem o poder de reduzir a intensidade energética e das pessoas, à medida que aumenta a
+intensidade da mineração.
+
+
+Capturing the learnings
+Capturando os aprendizados
+
+
+The key is to think of innovation as much more than research and development (R&D) around
+particular processes or technologies. Companies can, in fact, innovate in multiple ways, such as
+leveraging supplier knowledge around specific operational challenges, redefining their
+participation in the energy value chain or finding new ways to engage and partner with major
+stakeholders and constituencies.
+
+
+O importante é pensar na inovação como muito mais do que pesquisa e desenvolvimento (P &
+D) em torno de determinados processos ou tecnologias. As empresas podem, de fato, inovar de
+várias maneiras, tais como promover o conhecimento do fornecedor quanto aos desafios
+operacionais específicos, redefinindo a sua participação na cadeia de valor de energia ou
+encontrar novas maneiras de se engajar e fazer parceria com as principais partes interessadas e
+grupos constituintes.
+
+
+To reap these rewards, however, mining companies must overcome their traditionally
+conservative tendencies. In many cases, miners struggle to adopt technologies proven to work at
+other mining companies, let alone those from other industries. As a result, innovation becomes
+less of a technology problem and more of an adoption problem.
+
+
+Para colher esses bons frutos, as empresas de mineração devem superar suas tendências
+tradicionalmente conservadoras. Em muitos casos, os mineiros tem dificuldade para adotar
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 31
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+tecnologias já comprovadas que funcionam em outras empresas de mineração, imagina aquelas
+tecnologias de outras indústrias. Por isso, a inovação passa a ser menos um problema de
+tecnologia e mais um problema de adoção.
+
+
+By breaking this mindset, mining companies can free themselves to adapt practical applications
+that already exist in other industries and apply them to fit their current needs. For instance, the
+tunnel boring machines used by civil engineers to excavate the Chunnel can vastly reduce
+miners’ reliance on explosives. Until recently, those machines were too large to apply in a mining
+setting. Some innovators, however, are now incorporating the underlying technology to build
+smaller machines—effectively adapting mature solutions from other industries to realize more
+rapid results.
+
+
+Ao refutar essa estrutura de pensamento, empresas de mineração podem libertar-se de adaptar
+aplicações práticas que já existem em outras indústrias e aplicá-las para atender suas
+necessidades atuais. Por exemplo, as máquinas de perfuração de túneis usados por engenheiros
+civis para escavar o Chunnel podem reduzir muito a dependência de explosivos dos mineiros.
+Até recentemente, essas máquinas eram grandes demais para se usar em um ambiente de
+mineração. Alguns inovadores, no entanto, estão agora incorporando a tecnologia subjacente
+para construir máquinas-efetivamente menores adaptando soluções totalmente desenvolvidas de
+outras indústrias para produzir resultados mais rápidos.
+
+
+Re-imagining the future
+Re-imaginando o futuro
+
+
+At the same time, innovation mandates companies to think in entirely new ways. Traditionally, for
+instance, miners have focused on extracting higher grades and achieving faster throughput by
+optimizing the pit, schedule, product mix and logistics. A truly innovative mindset, however, will
+see them adopt an entirely new design paradigm that leverages new information, mining and
+energy technologies to maximize value. [...]
+
+
+Ao mesmo tempo, a inovação exige que as empresas pensem de maneiras totalmente novas.
+Por exemplo, tradicionalmente os mineiros têm-se centrado na extração de graus mais elevados
+e em alcançar uma produção mais rápida através da otimização do poço, cronograma, mix de
+produtos e logística. A mentalidade verdadeiramente inovadora, no entanto, vai vê-los adotar
+um paradigma de projeto inteiramente novo que utiliza novas tecnologias da informação,
+mineração e energia para maximizar o valor. […]
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    32
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Approached in this way, innovation can drive more than cost reduction. It can help mining
+companies mitigate and manage risks, strengthen business models and foster more effective
+community and government relations. It can help mining services companies enhance their value
+to the industry by developing new products and services. Longer-term, it can even position
+organizations to move the needle on such endemic issues as corporate social responsibility,
+environmental performance and sustainability.
+(http://www2.deloitte.com/content/dam/Deloitte/ru/Documents/energyresources/ru_er_tracking
+_the_trends_2015_eng.pdf)
+
+
+Abordada desta forma, a inovação pode conduzir a mais do que uma redução de custos. Ela
+pode ajudar as empresas de mineração a mitigar e gerir os riscos, reforçar modelos de negócios
+e promover relações comunitárias e governamentais mais eficazes. Ela pode ajudar as empresas
+de serviços de mineração a aumentar o seu valor para a indústria através do desenvolvimento de
+novos produtos e serviços. A longo prazo, ela pode até mesmo posicionar organizações para
+provocar tais questões endêmicas como responsabilidade social corporativa, desempenho
+ambiental e sustentabilidade.
+
+                                                T EXTO 2
+CGE-MA – FGV
+
+
+Read text below and answer questions 06 to 08.
+Leia o texto abaixo e responda as questões 06 a 08.
+
+
+                                             The Future of Auditing
+
+
+The past financial crisis that many economies all over the world experienced prompted a
+renewed interest in the role and importance of auditing. The future of auditing will therefore be
+closely tied to the continuous ripples of effects that the world is still experiencing due to the
+financial crisis. However, it is to be expected that this industry would continue to grow in
+prevalence in the business world.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  33
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Now, more and more companies are realising that the audit and assurance professions are vital
+to an organisation. In fact, many companies who, in the past, did not conduct audits now find the
+need to do so. They are realising the need to go back to the basic management principles so
+they can identify problematic management practices and rectify them; audit plays a key role in
+this as only a true and effective audit can conduct effective fraud detection and risk management
+procedures within a company. Firms are thus advised to staff an internal audit department or to
+outsource audit work to specialist providers just to meet its auditing requirements.
+(From http://www.careersinaudit.com/article/the-future-of-auditing/)
+
+
+Comentários:
+06 According to the text, interest in auditing has increased due to:
+
+
+(A) management principles.
+(B) poor professionalism.
+(C) business intelligence.
+(D) economic problems.
+(E) statistical methods.
+
+
+06 According to the text, interest in auditing has increased due to:
+06 De acordo com o texto, o interesse em auditoria tem crescido devido a:
+
+
+(A) management principles. = princípios de gestão
+
+
+O texto diz que eles estão percebendo a necessidade de voltar aos princípios básicos de gestão
+para que eles possam identificar as práticas de gestão problemáticas e os resolver. Mas, não são
+esses princípios que tem feito crescer o interesse em auditoria. Opção errada.
+
+
+(B) poor professionalism. = profissionalismo pobre
+
+
+O texto diz que mais e mais empresas estão percebendo que a auditoria e profissões de
+confiança são vitais para uma organização. Mas, isso não quer dizer que um pobre
+profissionalismo é que desencadeou o interesse pela auditoria. Opção errada.
+
+
+(C) business intelligence. = inteligência nos negócios
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  34
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+O texto não diz que a inteligência nos negócios seja responsável pelo interesse crescente em
+auditoria. Opção errada.
+
+
+(D) economic problems. = problemas econômicos
+
+
+The past financial crisis that many economies all over the world experienced prompted a
+renewed interest in the role and importance of auditing. The future of auditing will therefore be
+closely tied to the continuous ripples of effects that the world is still experiencing due to the
+financial crisis.
+A última crise financeira que muitas economias em todo o mundo enfrentaram ocasionou um
+interesse renovado no papel e importância da auditoria. Portanto, o futuro da auditoria será
+intimamente ligado às ondulações contínuas de efeitos que o mundo ainda está enfrentando
+devido à crise financeira.
+
+
+Financial crisis = crise financeira = economic problems. = problemas econômicos
+
+
+A opção expressa a mesma informação textual usando sinônimos de palavras. Essa é a opção
+correta.
+
+
+(E) statistical methods. = métodos estatísticos
+
+
+O texto não diz que a estatística seja responsável pelo interesse crescente em auditoria. Opção
+errada.
+
+
+GABARITO: D
+
+
+07 Read the following sentences:
+
+
+I. Auditors have found risk detection too problematic to be conducted.
+II. Many companies are becoming aware of the need for auditing.
+III. All the firms that never audited do not see the need for it now.
+IV. Auditing has turned into a main issue in management practice.
+
+
+Indicate the sentences which are in line with the points raised in Text 3.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   35
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(A) I and II.
+(B) I and III.
+(C) II and IV.
+(D) II and III.
+(E) I and IV.
+
+
+07 Read the following sentences:
+07 Leia as sentenças seguintes:
+                                                         ==219a34==
+
+I. Auditors have found risk detection too problematic to be conducted.
+I. Os auditores tem achado que a detecção de riscos é muito problemática para ser realizada.
+
+
+Pelo contrário, os auditores tem ajudado muito a detector riscos, conforme mostra o texto. A
+assertiva está errada.
+
+
+II. Many companies are becoming aware of the need for auditing.
+II. Muitas empresas estão tomando consciência da necessidade de auditoria.
+
+
+Now, more and more companies are realising that the audit and assurance professions are vital
+to an organisation.
+Agora, mais e mais empresas estão percebendo que a auditoria e profissões de confiança são
+vitais para uma organização.
+
+
+become aware = tomar consciência, perceber, reconhecer = realise = reconhecer, perceber,
+compreender
+
+
+A assertiva expressa uma informação de acordo com o texto, usando sinônimo de palavra. Essa é
+correta.
+
+
+III. All the firms that never audited do not see the need for it now.
+III. Todas as empresas que nunca fizeram auditoria não vêem a necessidade para isso.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                  36
+         www.estrategiaconcursos.com.br                                                        60
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+O texto diz que muitas empresas que, no passado não conduziam auditorias, agora vêem a
+necessidade de fazê-lo. Assertiva errada.
+
+
+IV. Auditing has turned into a main issue in management practice.
+IV. A auditoria se transformou em um assunto principal na prática de gestão.
+
+
+“…audit plays a key role in this as only a true and effective audit can conduct effective fraud
+detection and risk management procedures within a company.”
+“...a auditoria desempenha um papel fundamental neste sentido, apenas uma auditoria
+verdadeira e eficaz pode realizar procedimentos eficazes de detecção de fraude e gestão de
+riscos dentro de uma empresa.”
+
+
+main = principal, mais importante, central = key = fundamental, chave
+
+
+A prática de gestão envolve procedimentos de detecção de fraude e gestão de riscos. A
+auditoria é de grande importância nessa prática. A assertiva está de acordo com o texto.
+
+
+Indicate the sentences which are in line with the points raised in Text.
+Indique as frases que estão de acordo com os pontos salientados no texto.
+
+
+(A) I and II.
+(B) I and III.
+(C) II and IV.
+(D) II and III.
+(E) I and IV.
+
+
+As frases de número II e IV são aquelas que estão de acordo com o texto.
+
+
+GABARITO: C
+
+
+08 When the author states that “Firms are thus advised to staff an internal audit department or
+to outsource audit work to specialist providers” this means this instruction:
+
+         Receita Federal (Analista Tributário) Língua Inglesa                               37
+         www.estrategiaconcursos.com.br                                                     60
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(A) can be harmful.
+(B) has to be fulfilled.
+(C) will be detrimental.
+(D) should be followed.
+(E) must be disregarded.
+
+08 When the author states that “Firms are thus advised to staff an internal audit department or
+to outsource audit work to specialist providers” this means this instruction:
+08 Quando o autor afirma que "Por isso, as empresas são aconselhadas a providenciar um
+departamento de auditoria interna ou terceirizar o trabalho de auditoria com fornecedores
+especializados" isso significa que esta instrução:
+
+
+(A) can be harmful. = pode ser prejudicial e (C) will be detrimental. = será prejudicial
+
+
+Ambas opções acima expressam o mesmo significado, e só por isso nenhuma pode ser a
+resposta. Além disso, elas expressam algo que é o contrário do citado no texto.
+
+
+(B) has to be fulfilled. = tem que ser cumprida
+
+
+O verbo have aqui expressa uma obrigação, mas ele não é o adequado para dar conselho.
+Opção errada.
+
+
+(D) should be followed. = deveria ser seguida
+
+
+Firms are thus advised to staff an internal audit department or to outsource audit work to
+specialist providers.
+Por isso, as empresas são aconselhadas a providenciar um departamento de auditoria interna ou
+terceirizar com empresas especializadas em trabalho de auditoria.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                38
+        www.estrategiaconcursos.com.br                                                      60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+advise = aconselhar, advertir, admoestar = should = deveria (usado para dar conselho,
+advertência)
+
+
+Essa questão aborda o uso dos verbos auxiliares modais, um tópico que vimos no curso. Como o
+texto fala de conselho, o uso do verbo modal should é o correto. Essa é a opção correta.
+
+
+(E) must be disregarded. = precisa ser descartada
+
+
+A assertiva expressa o contrário do que diz o texto. Errada.
+
+
+GABARITO: D
+
+
+Translation
+                                             The Future of Auditing
+                                              O Futuro da Auditoria
+
+
+The past financial crisis that many economies all over the world experienced prompted a
+renewed interest in the role and importance of auditing. The future of auditing will therefore be
+closely tied to the continuous ripples of effects that the world is still experiencing due to the
+financial crisis. However, it is to be expected that this industry would continue to grow in
+prevalence in the business world.
+
+
+A última crise financeira que muitas economias em todo o mundo enfrentaram ocasionou um
+interesse renovado no papel e importância da auditoria. Portanto, o futuro da auditoria será
+intimamente ligado às ondulações contínuas de efeitos que o mundo ainda está enfrentando
+devido à crise financeira. No entanto, é de se esperar que esta indústria continue a crescer em
+prevalência no mundo dos negócios.
+
+
+Now, more and more companies are realising that the audit and assurance professions are vital
+to an organisation. In fact, many companies who, in the past, did not conduct audits now find the
+need to do so.
+
+
+Agora, mais e mais empresas estão percebendo que a auditoria e profissões de confiança são
+vitais para uma organização. Na verdade, muitas empresas que, no passado não conduziam
+auditorias, agora vêem a necessidade de fazê-lo.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  39
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+They are realising the need to go back to the basic management principles so they can identify
+problematic management practices and rectify them; audit plays a key role in this as only a true
+and effective audit can conduct effective fraud detection and risk management procedures
+within a company. Firms are thus advised to staff an internal audit department or to outsource
+audit work to specialist providers just to meet its auditing requirements.
+(from http://www.careersinaudit.com/article/the-future-of-auditing/)
+
+
+Eles estão percebendo a necessidade de voltar aos princípios básicos de gestão para que eles
+possam identificar as práticas de gestão problemáticas e os resolver; a auditoria desempenha um
+papel fundamental neste sentido, apenas uma auditoria verdadeira e eficaz pode realizar
+procedimentos eficazes de detecção de fraude e gestão de riscos dentro de uma empresa. Por
+isso, as empresas são aconselhadas a providenciar um departamento de auditoria interna, ou
+terceirizar com empresas especializadas em trabalho de auditoria apenas para satisfazer seus
+requisitos de auditoria.
+
+                                                T EXTO 3
+Analista de Políticas Públicas e Gestão Governamental - Gestão de Tecnologia –
+Prefeitura de Niterói – RJ – FGV – 2018
+
+
+READ THE TEXT BELOW AND ANSWER THE QUESTIONS 09 TO 13.
+LEIA O TEXTO ABAIXO E RESPONDA AS QUESTÕES 09 A 13.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 40
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 05
+
+                        Governance Challenges for the Internet of Things
+
+
+                     Virgilio A.F. Almeida -Federal University of Minas Gerais, Brazil
+                               Danilo Doneda - Rio de Janeiro State University
+                              Marília Monteiro - Public Law Institute of Brasília
+                              Published by the IEEE Computer Society © 2015
+
+
+The future will be rich with sensors capable of collecting vast amounts of information. The
+Internet will be almost fused with the physical world, as the Internet of Things (IoT) becomes a
+reality. Although it’s just beginning, experts estimate that by the end of 2015 there will be
+around 25 billion “things” connected to the global Internet. By 2025, the estimated number of
+connected devices should reach 100 billion. These estimates include smartphones, vehicles,
+appliances, and industrial equipment. Privacy, security, and safety fears grow as the IoT creates
+conditions for increasing surveillance by governments and corporations. So the question is: Will
+the IoT be good for the many, or the mighty few?
+
+
+While technological aspects of the IoT have been extensively published in the technical
+literature, few studies have addressed the IoT’s social and political impacts. Two studies have
+shed light on challenges for the future with the IoT. In 2013, the European Commission (EC)
+published a study focusing on relevant aspects for possible IoT governance regimes. The EC
+report identified many challenges for IoT governance — namely privacy, security, ethics, and
+competition. In 2015, the US Federal Trade Commission (FTC) published the FTC Staff Report
+The Internet of Things: Privacy and Security in a Connected World. Although the report
+emphasizes the various benefits that the IoT will bring to consumers and citizens, it
+acknowledges that there are many risks associated with deploying IoT-based applications,
+especially in the realm of privacy and security.
+[...]
+
+
+The nature of privacy and security problems frequently associated with the IoT indicates that
+further research, analysis, and discussion are needed to identify possible solutions. First, the
+introduction of security and privacy elements in the very design of sensors, implementing Privacy
+by Design, must be taken into account for outcomes such as the homologation process of
+sensors by competent authorities. Even if the privacy governance of IoT can oversee the control
+centers for collected data, we must develop concrete means to set limits on the amount or
+nature of the personal data collected.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                 41
+         www.estrategiaconcursos.com.br                                                       60
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Other critical issues regard notification and consent. If, from one side, it’s true that several
+sensors are already collecting as much personal data as possible, something must be done to
+increase citizens’ awareness of these data collection processes. Citizens must have means to take
+measures to protect their rights whenever necessary. If future scenarios indicate the inadequacy
+of a mere notice-and-consent approach, alternatives must be presented so that the individual’s
+autonomy isn’t eroded.
+
+
+As with other technologies that aim to change human life, the IoT must be in all respects
+designed with people as its central focus. Privacy and ethics aren’t natural aspects to be
+considered in technology’s agenda. However, these features are essential to build the necessary
+trust in an IoT ecosystem, making it compatible with human rights and ensuring that it’s drafted
+at the measure, and not at the expense, of people.
+(Source: https://cyber.harvard.edu/~valmeida/pdf/IoT-governance.pdf Retrieved on January
+23rd, 2018)
+
+
+Comentários:
+09. Mark the statements below as true (T) or false (F) according to the text :
+
+
+( ) There are already many studies on the social and political effects of the IoT.
+( ) Research studies on security and privacy still need to be carried out.
+( ) The report from the US Federal Trade Commission supported the unrestricted use of the IoT.
+
+
+(A) F – T – F.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – F – T.
+(E) T – F – F.
+
+
+09. Mark the statements below as true (T) or false (F) according to the text :
+09. Marque as declarações abaixo como verdadeiras (V) ou falsas (F) de acordo com o texto:
+
+
+(F) There are already many studies on the social and political effects of the IoT. - Já existem
+muitos estudos sobre os efeitos sociais e políticos da IoT.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  42
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Falsa. Segundo o texto, embora os aspectos tecnológicos da IoT tenham sido amplamente
+publicados na literatura técnica, poucos estudos abordaram os impactos sociais e políticos da
+IoT.
+
+
+(T) Research studies on security and privacy still need to be carried out. - Estudos de pesquisa
+sobre segurança e privacidade ainda precisam ser realizados.
+
+
+The nature of privacy and security problems frequently associated with the IoT indicates that
+further research, analysis, and discussion are needed to identify possible solutions.
+A natureza dos problemas de privacidade e segurança frequentemente associados à IoT indica
+que são necessárias mais pesquisas, análises e discussões para identificar possíveis soluções.
+
+
+O segmento acima deixa bem claro que a assertiva é verdadeira.
+
+
+(F) The report from the US Federal Trade Commission supported the unrestricted use of the IoT.
+- O relatório da Comissão Federal de Comércio dos EUA apoiou o uso irrestrito da IoT.
+
+
+Falsa. O relatório reconhece que há muitos riscos associados à implantação de aplicativos
+baseados na IoT, especialmente no domínio da privacidade e segurança. Portanto, não se pode
+dizer que a Comissão apoiou o uso irrestrito da IoT.
+
+
+(A) F – T – F. – F-V-F
+(B) T – T – F.
+(C) F – T – T.
+(D) F – F – T.
+(E) T – F – F.
+
+
+GABARITO: A
+
+10. The first paragraph opens and ends, in this order, with
+
+
+(a) a query and a solution.
+(b) a forecast and a doubt.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 43
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(c) a prediction and a realization.
+(d) a contradiction and a problem.
+(e) an objection and an explanation.
+
+
+10. The first paragraph opens and ends, in this order, with
+10. O primeiro parágrafo abre e termina, nesta ordem, com
+
+
+(a) a query and a solution. - (a) uma consulta e uma solução.
+
+
+Não existe essa ordem no início e final do parágrafo 1. Errada.
+
+
+(b) a forecast and a doubt. - (b) uma previsão e uma dúvida.
+
+
+The future will be rich with sensors capable of collecting vast amounts of information.
+O futuro será rico em sensores capazes de coletar grandes quantidades de informações.
+
+
+O segmento acima é a abertura do parágrafo 1. É usado o tempo verbal futuro para fazer uma
+predição.
+
+
+So the question is: Will the IoT be good for the many, or the mighty few?
+Portanto, a pergunta é: a IoT será boa para muitos ou poucos?
+
+
+O segmento acima é o fechamento do parágrafo 1. É usado o auxiliar will na interrogativa para
+expressar uma dúvida. Portanto, o primeiro parágrafo abre e termina, nesta ordem, com uma
+previsão e uma dúvida. Essa é a correta.
+
+
+(c) a prediction and a realization. - (c) uma previsão e uma realização.
+
+
+O parágrafo 1 realmente inicia com uma previsão. Porém, não termina com uma realização.
+Errada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              44
+        www.estrategiaconcursos.com.br                                                    60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(d) a contradiction and a problem. - (d) uma contradição e um problema. e (e) an objection and
+an explanation. - (e) uma objeção e uma explicação.
+
+
+Não existem essas ordens no início e final do parágrafo 1. Erradas.
+
+
+GABARITO: B
+
+11. The word “several” in “it’s true that several sensors are already collecting as much personal
+data as possible” (fourth paragraph) is a synonym for
+
+
+(a) few.
+(b) precise.
+(c) sensitive.
+(d) important.
+(e) numerous.
+
+
+11. The word “several” in “it’s true that several sensors are already collecting as much personal
+data as possible” (fourth paragraph) is a synonym for
+11. A palavra "vários" em "é verdade que vários sensores já estão coletando o máximo de dados
+pessoais possível" (quarto parágrafo) é sinônimo de
+
+
+a) few. – pouco
+
+
+A palavra few tem significado oposto daquela do texto. Errada.
+
+
+b) precise. – preciso, exato
+c) sensitive. – sensível
+d) important. – importante
+
+
+Nenhuma das opções B, C e D tem o mesmo significado de several. Além disso, esta é um
+quantificador, enquanto aquelas são adjetivos. Erradas.
+
+           Receita Federal (Analista Tributário) Língua Inglesa                               45
+           www.estrategiaconcursos.com.br                                                     60
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+e) numerous. - numeroso
+
+
+If, from one side, it’s true that several sensors are already collecting as much personal data as
+possible, something must be done to increase citizens’ awareness of these data collection
+processes.
+Se, por um lado, é verdade que vários/numerosos sensores já estão coletando o máximo de
+dados pessoais possível, algo deve ser feito para aumentar a conscientização dos cidadãos sobre
+esses processos de coleta de dados.
+
+
+As palavras several e numerous são sinônimas. Essa é a correta.
+
+
+GABARITO: E
+
+12. The word “However” in “However, these features are essential to build the necessary trust in
+an IoT ecosystem,” (fourth paragraph) is a synonym for
+
+
+a) Moreover.
+b) Thus.
+c) In conclusion.
+d) Nevertheless.
+e) Therefore.
+
+
+12. The word “However” in “However, these features are essential to build the necessary trust in
+an IoT ecosystem,” (fourth paragraph) is a synonym for
+12. A palavra “Entretanto” em “No entanto, esses recursos são essenciais para criar a confiança
+necessária em um ecossistema de IoT,” (quarto parágrafo) é um sinônimo de
+
+
+a) Moreover. – Além disso
+
+
+Esse conectivo é usado para se adicionar mais informação ao que foi dito anteriormente. Não é
+sinônimo do However, o qual expressa contraste. Errada.
+
+
+b) Thus. – Assim e In conclusion. – Em conclusão e e) Therefore. – Portanto
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  46
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Os conectivos expressam a conclusão de um assunto e são sinônimos entre si. Erradas.
+
+
+c) Nevertheless. – Porém. Todavia, Contudo
+
+
+“However/Nevertheless, these features are essential to build the necessary trust in an IoT
+ecosystem,”
+“No entanto/Porém, esses recursos são essenciais para criar a confiança necessária em um
+ecossistema de IoT,”
+
+
+Ambos conectivos introduzem uma contradição com algo que foi mencionado antes. São
+sinônimos entre si. Essa é a correta.
+
+
+GABARITO: D
+
+13. The text concludes that, if the IoT ecosystem is to be trusted, it should focus on the needs of
+
+
+(a) citizens.
+(b) specialists.
+(c) authorities.
+(d) corporations.
+(e) governments.
+
+
+13. The text concludes that, if the IoT ecosystem is to be trusted, it should focus on the needs of
+13. O texto conclui que, para se confiar no ecossistema da IoT, ele deve se concentrar nas
+necessidades dos (as).
+
+
+(a) citizens. – cidadãos, habitantes, moradores
+
+
+As with other technologies that aim to change human life, the IoT must be in all respects
+designed with people as its central focus.
+Como em outras tecnologias que visam mudar a vida humana, a IoT deve ser projetada, sob
+todos os aspectos, tendo como foco central as pessoas.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     47
+        www.estrategiaconcursos.com.br                                                           60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+A conclusão do texto diz que para se confiar no ecossistema da IoT, ele deve se concentrar nas
+necessidades dos cidadãos, ou seja, das pessoas, do povo. Correta.
+
+
+(b) specialists. - especialistas
+(c) authorities. - autoridades
+(d) corporations. – corporações
+(e) governments. - governos
+
+
+Ao usar a palavra people (povo em geral, pessoas, habitantes) o texto não se refere nem a
+especialistas, nem autoridades, nem empresas ou governos. Erradas.
+
+
+GABARITO: A
+
+Translation
+
+
+Governance Challenges for the Internet of Things
+Desafios de Governança para a Internet das Coisas
+
+
+The future will be rich with sensors capable of collecting vast amounts of information. The
+Internet will be almost fused with the physical world, as the Internet of Things (IoT) becomes a
+reality. Although it’s just beginning, experts estimate that by the end of 2015 there will be
+around 25 billion “things” connected to the global Internet.
+
+
+O futuro será rico em sensores capazes de coletar grandes quantidades de informações. A
+Internet estará quase fundida com o mundo físico à medida que a Internet das Coisas (IoT) se
+torna realidade. Embora esteja apenas começando, os especialistas estimam que até o final de
+2015 haverá cerca de 25 bilhões de "coisas" conectadas à Internet global.
+
+
+By 2025, the estimated number of connected devices should reach 100 billion. These estimates
+include smartphones, vehicles, appliances, and industrial equipment. Privacy, security, and safety
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   48
+        www.estrategiaconcursos.com.br                                                         60
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 05
+
+fears grow as the IoT creates conditions for increasing surveillance by governments and
+corporations. So the question is: Will the IoT be good for the many, or the mighty few?
+
+
+Até 2025, o número estimado de dispositivos conectados deve chegar a 100 bilhões. Essas
+estimativas incluem smartphones, veículos, eletrodomésticos e equipamentos industriais.
+Privacidade, proteção e temores de segurança crescem à medida que a IoT cria condições para
+aumentar a vigilância por governos e empresas. Portanto, a pergunta é: a IoT será boa para
+muitos ou poucos?
+
+
+While technological aspects of the IoT have been extensively published in the technical
+literature, few studies have addressed the IoT’s social and political impacts. Two studies have
+shed light on challenges for the future with the IoT. In 2013, the European Commission (EC)
+published a study focusing on relevant aspects for possible IoT governance regimes. The EC
+report identified many challenges for IoT governance — namely privacy, security, ethics, and
+competition.
+
+
+Embora os aspectos tecnológicos da IoT tenham sido amplamente publicados na literatura
+técnica, poucos estudos abordaram os impactos sociais e políticos da IoT. Dois estudos lançaram
+luz sobre os desafios para o futuro com a IoT. Em 2013, a Comissão Europeia (CE) publicou um
+estudo focado em aspectos relevantes para possíveis regimes de governança da IoT. O relatório
+da CE identificou muitos desafios para a governança da Internet das coisas - privacidade,
+segurança, ética e concorrência.
+
+
+In 2015, the US Federal Trade Commission (FTC) published the FTC Staff Report The Internet of
+Things: Privacy and Security in a Connected World. Although the report emphasizes the various
+benefits that the IoT will bring to consumers and citizens, it acknowledges that there are many
+risks associated with deploying IoT-based applications, especially in the realm of privacy and
+security.
+[...]
+
+
+Em 2015, a Comissão Federal de Comércio dos EUA (FTC) publicou o Relatório da equipe da
+FTC A Internet das Coisas: Privacidade e Segurança em um mundo conectado. Embora o
+relatório enfatize os vários benefícios que a IoT trará para consumidores e cidadãos, reconhece
+que há muitos riscos associados à implantação de aplicativos baseados na IoT, especialmente no
+domínio da privacidade e segurança.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                               49
+         www.estrategiaconcursos.com.br                                                     60
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+The nature of privacy and security problems frequently associated with the IoT indicates that
+further research, analysis, and discussion are needed to identify possible solutions. First, the
+introduction of security and privacy elements in the very design of sensors, implementing Privacy
+by Design, must be taken into account for outcomes such as the homologation process of
+sensors by competent authorities. Even if the privacy governance of IoT can oversee the control
+centers for collected data, we must develop concrete means to set limits on the amount or
+nature of the personal data collected.
+
+
+A natureza dos problemas de privacidade e segurança frequentemente associados à IoT indica
+que são necessárias mais pesquisas, análises e discussões para identificar possíveis soluções.
+Primeiro, a introdução de elementos de segurança e privacidade no próprio design dos
+sensores, implementando a Privacidade por Design, deve ser levada em consideração para
+resultados como o processo de homologação dos sensores pelas autoridades competentes.
+Mesmo que a governança da privacidade da IoT possa supervisionar os centros de controle de
+dados coletados, devemos desenvolver meios concretos para estabelecer limites à quantidade
+ou natureza dos dados pessoais coletados.
+
+
+Other critical issues regard notification and consent. If, from one side, it’s true that several
+sensors are already collecting as much personal data as possible, something must be done to
+increase citizens’ awareness of these data collection processes. Citizens must have means to take
+measures to protect their rights whenever necessary. If future scenarios indicate the inadequacy
+of a mere notice-and-consent approach, alternatives must be presented so that the individual’s
+autonomy isn’t eroded.
+
+
+Outras questões críticas dizem respeito à notificação e consentimento. Se, por um lado, é
+verdade que vários sensores já estão coletando o máximo de dados pessoais possível, algo deve
+ser feito para aumentar a conscientização dos cidadãos sobre esses processos de coleta de
+dados. Os cidadãos devem ter meios para tomar medidas para proteger seus direitos sempre
+que necessário. Se cenários futuros indicarem a inadequação de uma mera abordagem de aviso
+e consentimento, devem ser apresentadas alternativas para que a autonomia do indivíduo não
+seja corroída.
+
+
+As with other technologies that aim to change human life, the IoT must be in all respects
+designed with people as its central focus. Privacy and ethics aren’t natural aspects to be
+considered in technology’s agenda. However, these features are essential to build the necessary
+trust in an IoT ecosystem, making it compatible with human rights and ensuring that it’s drafted
+at the measure, and not at the expense, of people.
+(Source: https://cyber.harvard.edu/~valmeida/pdf/IoT-governance.pdf Retrieved on January
+23rd, 2018)
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  50
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+Como em outras tecnologias que visam mudar a vida humana, a IoT deve ser projetada, sob
+todos os aspectos, tendo como foco central as pessoas. Privacidade e ética não são aspectos
+naturais a serem considerados na agenda da tecnologia. No entanto, esses recursos são
+essenciais para criar a confiança necessária em um ecossistema de IoT, tornando-o compatível
+com os direitos humanos e garantindo que seja elaborado de acordo com a medida, e não à
+custa das pessoas.
+(Fonte: https://cyber.harvard.edu/~valmeida/pdf/IoT-governance.pdf Recuperado em 23 de
+janeiro de 2018)
+
+                               L ISTA DE Q UESTÕES
+Texto 1: Analista de Apoio - Turismólogo - Companhia de Desenvolvimento Econômico de
+Minas Gerais – CODEMIG - FGV
+
+
+                                 Innovation is the new key to survival
+                                                         [...]
+
+
+At its most basic, innovation presents an optimal strategy for controlling costs. Companies that
+have invested in such technologies as remote mining, autonomous equipment and driverless
+trucks and trains have reduced expenses by orders of magnitude, while simultaneously driving up
+productivity.
+
+
+Yet, gazing towards the horizon, it is rapidly becoming clear that innovation can do much more
+than reduce capital intensity. Approached strategically, it also has the power to reduce people
+and energy intensity, while increasing mining intensity.
+
+
+Capturing the learnings
+
+
+The key is to think of innovation as much more than research and development (R&D) around
+particular processes or technologies. Companies can, in fact, innovate in multiple ways, such as
+leveraging supplier knowledge around specific operational challenges, redefining their
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 51
+        www.estrategiaconcursos.com.br                                                       60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+participation in the energy value chain or finding new ways to engage and partner with major
+stakeholders and constituencies.
+
+
+To reap these rewards, however, mining companies must overcome their traditionally
+conservative tendencies. In many cases, miners struggle to adopt technologies proven to work at
+other mining companies, let alone those from other industries. As a result, innovation becomes
+less of a technology problem and more of an adoption problem.
+
+
+By breaking this mindset, mining companies can free themselves to adapt practical applications
+that already exist in other industries and apply them to fit their current needs. For instance, the
+tunnel boring machines used by civil engineers to excavate the Chunnel can vastly reduce
+miners’ reliance on explosives. Until recently, those machines were too large to apply in a mining
+setting. Some innovators, however, are now incorporating the underlying technology to build
+smaller machines—effectively adapting mature solutions from other industries to realize more
+rapid results.
+
+
+Re-imagining the future
+
+
+At the same time, innovation mandates companies to think in entirely new ways. Traditionally, for
+instance, miners have focused on extracting higher grades and achieving faster throughput by
+optimizing the pit, schedule, product mix and logistics. A truly innovative mindset, however, will
+see them adopt an entirely new design paradigm that leverages new information, mining and
+energy technologies to maximize value. [...]
+
+
+Approached in this way, innovation can drive more than cost reduction. It can help mining
+companies mitigate and manage risks, strengthen business models and foster more effective
+community and government relations. It can help mining services companies enhance their value
+to the industry by developing new products and services. Longer-term, it can even position
+organizations to move the needle on such endemic issues as corporate social responsibility,
+environmental performance and sustainability.
+(http://www2.deloitte.com/content/dam/Deloitte/ru/Documents/energyresources/ru_er_tracking
+_the_trends_2015_eng.pdf)
+
+
+01 When companies invest in “remote mining, autonomous equipment and driverless trucks and
+trains” (l. 3-4), it is clear that their goal is to:
+
+
+(A) downsize the pay roll;
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    52
+        www.estrategiaconcursos.com.br                                                          60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(B) decrease the speed of extraction;
+(C) learn more technological strategies;
+(D) buy machines which require man-power;
+(E) spend more in equipment maintenance.
+
+
+02 The fragment “To reap these rewards” (l. 17) means to:
+
+
+(A) maintain old practices;
+(B) get unexpected results;
+(C) achieve desired benefits;
+(D) offer better job conditions;
+(E) win international competitions.
+
+
+03 The verb “reduce” in “reduce capital intensity” (l. 7) has the same meaning as:
+
+
+(A) cut in;
+(B) cut off;
+(C) cut out;
+(D) cut loose;
+(E) cut back on.
+
+
+04 The word “them” in “apply them to fit” (l. 25) refers to:
+
+
+(A) current needs;
+(B) other industries;
+(C) mining companies;
+(D) practical applications;
+(E) tunnel boring machines.
+
+
+05 “For instance” in “Traditionally, for instance, miners have focused on extracting” (l. 34-35) is
+used to:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      53
+        www.estrategiaconcursos.com.br                                                            60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(A) justify;
+(B) explain;
+(C) exemplify;
+(D) enumerate;
+(E) summarize.
+
+
+Texto 2: CGE-MA – FGV
+
+
+Read text below and answer questions 06 to 08.
+
+
+                                              The Future of Auditing
+
+
+The past financial crisis that many economies all over the world experienced prompted a
+renewed interest in the role and importance of auditing. The future of auditing will therefore be
+closely tied to the continuous ripples of effects that the world is still experiencing due to the
+financial crisis. However, it is to be expected that this industry would continue to grow in
+prevalence in the business world.
+
+
+Now, more and more companies are realising that the audit and assurance professions are vital
+to an organisation. In fact, many companies who, in the past, did not conduct audits now find the
+need to do so. They are realising the need to go back to the basic management principles so
+they can identify problematic management practices and rectify them; audit plays a key role in
+this as only a true and effective audit can conduct effective fraud detection and risk management
+procedures within a company. Firms are thus advised to staff an internal audit department or to
+outsource audit work to specialist providers just to meet its auditing requirements.
+(from http://www.careersinaudit.com/article/the-future-of-auditing/)
+
+
+06 According to the text, interest in auditing has increased due to:
+
+
+(A) management principles.
+(B) poor professionalism.
+(C) business intelligence.
+(D) economic problems.
+
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                 54
+         www.estrategiaconcursos.com.br                                                       60
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+(E) statistical methods.
+
+
+07 Read the following sentences:
+
+
+I. Auditors have found risk detection too problematic to be conducted.
+II. Many companies are becoming aware of the need for auditing.
+III. All the firms that never audited do not see the need for it now.
+IV. Auditing has turned into a main issue in management practice.
+
+
+Indicate the sentences which are in line with the points raised in the Text.
+
+
+(A) I and II.
+(B) I and III.
+(C) II and IV.
+(D) II and III.
+(E) I and IV.
+
+
+08 When the author states that “Firms are thus advised to staff an internal audit department or
+to outsource audit work to specialist providers” this means this instruction:
+
+
+(A) can be harmful.
+(B) has to be fulfilled.
+(C) will be detrimental.
+(D) should be followed.
+(E) must be disregarded.
+
+
+Texto 3: Analista de Políticas Públicas e Gestão Governamental - Gestão de Tecnologia –
+Prefeitura de Niterói – RJ – FGV – 2018
+
+
+READ TEXT II AND ANSWER THE QUESTIONS 09 TO 13.
+
+
+                        Governance Challenges for the Internet of Things
+
+
+         Receita Federal (Analista Tributário) Língua Inglesa                               55
+         www.estrategiaconcursos.com.br                                                     60
+
+                                      
+
+
+---
+
+   Ena Smith
+   Aula 05
+
+                     Virgilio A.F. Almeida -Federal University of Minas Gerais, Brazil
+                               Danilo Doneda - Rio de Janeiro State University
+                              Marília Monteiro - Public Law Institute of Brasília
+                              Published by the IEEE Computer Society © 2015
+
+
+The future will be rich with sensors capable of collecting vast amounts of information. The
+Internet will be almost fused with the physical world as the Internet of Things (IoT) becomes a
+reality. Although it’s just beginning, experts estimate that by the end of 2015 there will be
+around 25 billion “things” connected to the global Internet. By 2025, the estimated number of
+connected devices should reach 100 billion. These estimates include smartphones, vehicles,
+appliances, and industrial equipment. Privacy, security, and safety fears grow as the IoT creates
+conditions for increasing surveillance by governments and corporations. So the question is: Will
+the IoT be good for the many, or the mighty few?
+
+
+While technological aspects of the IoT have been extensively published in the technical
+literature, few studies have addressed the IoT’s social and political impacts. Two studies have
+shed light on challenges for the future with the IoT. In 2013, the European Commission (EC)
+published a study focusing on relevant aspects for possible IoT governance regimes. The EC
+report identified many challenges for IoT governance — namely privacy, security, ethics, and
+competition. In 2015, the US Federal Trade Commission (FTC) published the FTC Staff Report
+The Internet of Things: Privacy and Security in a Connected World. Although the report
+emphasizes the various benefits that the IoT will bring to consumers and citizens, it
+acknowledges that there are many risks associated with deploying IoT-based applications,
+especially in the realm of privacy and security.
+[...]
+
+
+The nature of privacy and security problems frequently associated with the IoT indicates that
+further research, analysis, and discussion are needed to identify possible solutions. First, the
+introduction of security and privacy elements in the very design of sensors, implementing Privacy
+by Design, must be taken into account for outcomes such as the homologation process of
+sensors by competent authorities. Even if the privacy governance of IoT can oversee the control
+centers for collected data, we must develop concrete means to set limits on the amount or
+nature of the personal data collected.
+
+
+Other critical issues regard notification and consent. If, from one side, it’s true that several
+sensors are already collecting as much personal data as possible, something must be done to
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                 56
+         www.estrategiaconcursos.com.br                                                       60
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+increase citizens’ awareness of these data collection processes. Citizens must have means to take
+measures to protect their rights whenever necessary. If future scenarios indicate the inadequacy
+of a mere notice-and-consent approach, alternatives must be presented so that the individual’s
+autonomy isn’t eroded.
+
+
+As with other technologies that aim to change human life, the IoT must be in all respects
+designed with people as its central focus. Privacy and ethics aren’t natural aspects to be
+considered in technology’s agenda. However, these features are essential to build the necessary
+trust in an IoT ecosystem, making it compatible with human rights and ensuring that it’s drafted
+at the measure, and not at the expense, of people.
+(Source: https://cyber.harvard.edu/~valmeida/pdf/IoT-governance.pdf Retrieved on January
+23rd, 2018)
+
+
+09. Mark the statements below as true (T) or false (F) according to Text II:
+
+
+( ) There are already many studies on the social and political effects of the IoT.
+( ) Research studies on security and privacy still need to be carried out.
+( ) The report from the US Federal Trade Commission supported the unrestricted use of the IoT.
+
+
+(A) F – T – F.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – F – T.
+(E) T – F – F.
+
+
+10. The first paragraph opens and ends, in this order, with
+
+
+(A) a query and a solution.
+(B) a forecast and a doubt.
+(C) a prediction and a realization.
+(D) a contradiction and a problem.
+(E) an objection and an explanation.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  57
+        www.estrategiaconcursos.com.br                                                        60
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 05
+
+11. The word “several” in “it’s true that several sensors are already collecting as much personal
+data as possible” (fourth paragraph) is a synonym for
+
+
+(A) few.
+(B) precise.
+(C) sensitive.
+(D) important.
+(E) numerous.
+
+
+12. The word “However” in “However, these features are essential to build the necessary trust in
+an IoT ecosystem,” (fourth paragraph) is a synonym for
+
+
+(A) Moreover.
+(B) Thus.
+(C) In conclusion.
+(D) Nevertheless.
+(E) Therefore.
+
+
+13. Text II concludes that, if the IoT ecosystem is to be trusted, it should focus on the needs of
+
+
+(A) citizens.
+(B) specialists.
+(C) authorities.
+(D) corporations.
+(E) governments.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                         58
+        www.estrategiaconcursos.com.br                                                               60
+
+                                     
+
+
+---
+
+Ena Smith
+Aula 05
+
+                                            G ABARITO
+                       Textos                                                    Gabaritos
+                       Texto 1                               01-A; 02-C; 03-E; 04-D; 05-C;
+
+                       Texto 2                               06-D; 07-C; 08-D;
+
+                       Texto 3                               09-A; 10-B; 11-E; 12-D; 13-A;
+
+      Receita Federal (Analista Tributário) Língua Inglesa                                   59
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+---

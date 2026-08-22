@@ -1,0 +1,260 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 10_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '10'
+titulo_aula: PRINCÍPIOS GERAIS
+---
+
+# PRINCÍPIOS GERAIS
+
+PRINCÍPIOS GERAIS
+É PROIBIDO USAR PONTUAÇÃO PARA SEPARAR OS TERMOS DA ORAÇÃO QUANDO ORGANIZADOS NA ORDEM DIRETA
+     (A ORDEM NATURAL, INTUITIVA, FLUIDA). SUVECA: SUJEITO + VERBO + COMPLEMENTO + ADJUNTOS
+   POR ISSO, NÃO SE USA PONTUAÇÃO PARA SEPARAR:
+  • SUJEITO E SEU VERBO => ERRADO: JOÃO, SAIU ONTEM.
+  • VERBO E SEU COMPLEMENTO => ERRADO: RICARDO COMPROU, UMA EMPRESA.
+  • VERBO E PREDICATIVO => ERRADO: FELIPE É, PROFESSOR DE INGLÊS.
+  • NOME E SEU ADJUNTO OU COMPLEMENTO => ERRADO: TENHO UM CARRO, DE CORRIDA, MAS TENHO MEDO, DO TRÂNSITO.
+  • PREDICATIVO DE SEU OBJETO => ERRADO: CONSIDEREI, CHATO O LIVRO.
+
+  CONTUDO, SE VIER ALGUM TERMO INTERCALADO, ELE NECESSARIAMENTE DEVERÁ SER ISOLADO POR PONTUAÇÃO - VÍRGULAS, PARÊNTESES, TRAVESSÕES.
+
+
+                               PEDRO, SEM PENSAR MUITO, COMPROU, A PRAZO E SEM PODER PAGAR, UM CARRO,
+                                  QUE MAIS PARECIA UMA NAVE, DE CORRIDA, ONTEM À NOITE— QUE LOUCO!
+
+   VÍRGULA
+                  É ESSENCIALMENTE UM MARCADOR DE FUNÇÕES SINTÁTICAS. SUA PRESENÇA OU OMISSÃO ALTERA SINTÁTICA E SEMANTICAMENTE O TEXTO.
+
+                                                          EX: NÃO ESPERE POR MIM! (= VÁ À FRENTE!).
+                                                              NÃO, ESPERE POR MIM! (= VAMOS JUNTOS!).
+
+
+                                                                                                                                    PORTUGUÊS
+                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                SEPARAR ADJUNTOS ADVERBIAIS DESLOCADOS.                                                   USOS DA VÍRGULA
+            EX: NA CASA DE MINHA NAMORADA, VOU JOGAR XADREZ. (ADJUNTO ANTEPOSTO).
+            EX: VOU JOGAR, NA CASA DE MINHA NAMORADA, XADREZ. (ADJUNTO INTERCALADO).
+
+
+   ATENÇÃO! SE O ADJUNTO ADVERBIAL VIER FORA DE SUA POSIÇÃO NATURAL E FOR:
+
+   •   UMA EXPRESSÃO DE PEQUENA EXTENSÃO (ATÉ DUAS PALAVRAS), A VÍRGULA SERÁ FACULTATIVA. EX: DE TARDE (,) QUERO DESCANSAR... (VÍRGULA FACULTATIVA).
+   •   UMA EXPRESSÃO DE LONGA EXTENSÃO (TRÊS OU MAIS PALAVRAS), A VÍRGULA SERÁ OBRIGATÓRIA. EX: DEPOIS DE MUITO ESFORÇO E SACRIFÍCIO, ELA CONSEGUIU.
+       (VÍRGULA OBRIGATÓRIA).
+
+
+  ENUMERAR TERMOS REPETIDOS E/OU DE MESMA FUNÇÃO SINTÁTICA. É A VÍRGULA DA LISTINHA!
+
+                               EX: “CHOREI, CHOREI, ATÉ FICAR COM DÓ DE MIM...”. (A VÍRGULA SEPARA PALAVRAS REPETIDAS).
+
+EX: "COMPREI FRUTAS, LEGUMES, CEREAIS E CARNES MAGRAS.". (ENUMERAÇÃO DE ITENS; OS TERMOS SEPARADOS PELAS VÍRGULAS SÃO OBJETOS DO VERBO COMPRAR).
+
+
+    MARCAR A OMISSÃO DE PALAVRA.                     ZEUGMA                   OMISSÃO DE UM TERMO QUE EXPRESSAMENTE JÁ FOI MENCIONADO.
+
+
+                                                                  EX: ELA GOSTA DE INSTAGRAM; EU, DE ESTUDAR. (VÍRGULA SUBSTITUI O VERBO GOSTAR).
+
+  ELIPSE            OMISSÃO DE UM TERMO QUE NÃO FOI EXPRESSAMENTE MENCIONADO (É IDENTIFICÁVEL PELO CONTEXTO).
+
+
+                                EX: NA CASA DE MAMÃE, ROUPA LAVADA; NA MINHA, CONTAS EMBAIXO DA PORTA.
+                              (NA CASA DE MAMÃE HAVIA ROUPA LAVADA; NA MINHA HÁ CONTAS EMBAIXO DA PORTA.)
+                                                                                                                                              PORTUGUÊS
+                                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+        USOS DA VÍRGULA                                        NAS CONJUNÇÕES E ORAÇÕES COORDENATIVAS.
+
+                                                      PARA ISOLAR AS CONJUNÇÕES QUANDO NÃO ESTIVEREM NA ORDEM DIRETA.
+
+                                                           EX: SEU LUGAR, PORTANTO, NÃO É AQUI.
+
+          DICA! É POSSÍVEL INSERIR VÍRGULAS APÓS CONJUNÇÃO COORDENATIVA CONCLUSIVA INICIANDO PERÍODO.
+
+                EX: PORTANTO, SEU LUGAR NÃO É AQUI.
+
+          ATENÇÃO! O “MAS” NÃO ACEITA DESLOCAMENTO - DEVE NECESSARIAMENTE INICIAR A ORAÇÃO COORDENADA ADVERSATIVA.
+          ALÉM DISSO, NÃO SE USA VÍRGULA APÓS O TERMO “MAS” A MENOS QUE HAJA UMA EXPRESSÃO INTERCALADA APÓS A CONJUNÇÃO.
+
+
+          PARA SEPARAR AS ORAÇÕES, INDEPENDENTEMENTE DE POSSUIR OU NÃO CONJUNÇÃO.
+
+EX: CHEGUEI, TOMEI BANHO, ME ARRUMEI E SAÍ DE NOVO. (ORAÇÕES COORDENATIVAS SEM CONJUNÇÃO)
+
+DICA! USAM-SE VÍRGULAS NAS ORAÇÕES ADITIVAS REDUZIDAS DE GERÚNDIO, QUE GERALMENTE POSSUEM UM “E” INDICATIVO DE SEQUÊNCIA TEMPORAL OU DE CONSEQUÊNCIA.
+
+                                                 EX: “O BALÃO SUBIU RÁPIDO, DESAPARECENDO NO CÉU.”
+
+                                                                                                                                       PORTUGUÊS
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                       USOS DA VÍRGULA
+
+
+                                NAS CONJUNÇÕES E ORAÇÕES COORDENATIVAS.
+
+
+                                       A VÍRGULA ANTES DO “E” ADITIVO
+                                                     USO OBRIGATÓRIO
+                                                                                      PARA DESFAZER AMBIGUIDADE.
+     NO POLISSÍNDETO (REPETIÇÃO DE CONJUNÇÃO).                         EX: ELA COMPROU O GATO, E O CACHORRO FICOU COM CIÚME.
+   EX: MAS ELA SÓ RECLAMA, E RECLAMA, E RECLAMA...                    (SEM A VÍRGULA, HAVERÁ AMBIGUIDADE: ELA COMPROU O GATO E
+                                                                       TAMBÉM O CACHORRO? OU ELA COMPROU SOMENTE O GATO?)
+
+                                                   USO RECOMENDÁVEL
+                                                                        PARA SEPARAR ORAÇÕES COM RELAÇÃO ADVERSATIVA, OU SEJA,
+PARA SEPARAR ORAÇÕES ADITIVAS COM SUJEITOS DIFERENTES.                                    COM SENTIDOS OPOSTOS.
+ EX: EU TRABALHAVA (,) E MEU FILHO GASTAVA O DINHEIRO.                                 (“E” COM SENTIDO DE “MAS”).
+                                                                           EX: FEZ DIETA POR MUITOS ANOS (,) E NÃO EMAGRECEU.
+                                                USO DESACONSELHÁVEL
+                                     SEPARAR ORAÇÕES COM SUJEITOS IGUAIS.
+           EX: DORMI NO SOFÁ E ACORDEI COM DORES NA ESCÁPULA. (O SUJEITO DE AMBOS OS VERBOS: “EU”).
+           ATENÇÃO! NESSE CASO, A VÍRGULA ESTARIA SEPARANDO O SUJEITO DO SEU SEGUNDO VERBO. EVITE-A!
+
+                                                                                                                               PORTUGUÊS
+                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                          SEPARAR ORAÇÕES ADJETIVAS EXPLICATIVAS.                                                      USOS DA VÍRGULA
+
+TRAZEM INFORMAÇÕES ACESSÓRIAS, QUE EXPLICAM E AMPLIAM OS DETALHES SOBRE O TERMO A QUE SE REFEREM.
+
+     EX: MEU ALUNO, QUE MORA NO INTERIOR, ESTUDA ON-LINE. (“MEU ALUNO ESTUDA ON LINE E MORA NO INTERIOR”).
+
+   SEPARAR EXPRESSÕES EXPLICATIVAS, RETIFICATIVAS E PALAVRAS DENOTATIVAS DE SITUAÇÃO.
+
+EXPRESSÕES COMO AFINAL, ENFIM, ORA, AGORA, ENTÃO (SEM SENTIDO CONCLUSIVO), POR EXEMPLO, OU MELHOR, ISTO É, OU SEJA, ALIÁS, COM EFEITO, DO MESMO
+MODO, OU ANTES, POR ASSIM DIZER.
+
+     EX: VÁRIOS LUTADORES PERDERAM, POR EXEMPLO, ALDO.
+
+    SEPARAR ORAÇÕES INTERFERENTES                SÃO AQUELAS QUE INTERROMPEM O PERÍODO PARA FAZER UMA EXPLICAÇÃO OU UM COMENTÁRIO ADICIONAL.
+
+                                                         EX: A VIZINHA, SOMENTE FIQUEI SABENDO AGORA, GUARDAVA UM CORPO NO FREEZER!
+
+                                          ATENÇÃO! EM EXPRESSÕES DE NATUREZA EXPLICATIVA, PODEM SER USADAS VÍRGULAS, PARÊNTESES OU TRAVESSÕES.
+
+   SEPARAR OBJETO DIRETO PLEONÁSTICO (REPETIDO):                   É O OBJETO DIRETO QUE, POR RECURSO ESTILÍSTICO, APARECE DUAS VEZES NA ORAÇÃO.
+
+                                                                              EX: OS MENINOS, JÁ OS LEVEI PARA ESCOLA. (OBJETO DIRETO; OBJETO DIRETO PLEONÁSTICO)
+
+
+                                                                         EXPRESSÃO QUE EXPLICA/ESCLARECE, DESENVOLVE/RESUME OUTRO TERMO DA ORAÇÃO,
+   SEPARAR APOSTO (NORMALMENTE O APOSTO EXPLICATIVO):
+                                                                         EQUIVALENDO SEMANTICAMENTE AO TERMO A QUE SE REFERE. TEM VALOR SUBSTANTIVO.
+
+                                                                                    EX: O PRESIDENTE DO SENADO, RENAN CALHEIROS, JUROU SER INOCENTE.
+
+    SEPARAR VOCATIVO:              É UM CHAMAMENTO - REMETE AO OUVINTE OU AO LEITOR.
+                                        EX: FELIPE, SEJA MAIS GENTIL COM ELA!                                                                 PORTUGUÊS
+                                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                   É UMA PONTUAÇÃO INTERMEDIÁRIA ENTRE A VÍRGULA E O PONTO FINAL QUE É UTILIZADA PARA
+  PONTO E VÍRGULA                                  SEPARAR PARTES INDEPENDENTES DE UMA ORAÇÃO.
+
+         É EMPREGADA PARA
+
+             ENUMERAR E AGRUPAR ELEMENTOS EM ENUMERAÇÕES, ISTO É, SEPARAR ESTRUTURAS COORDENADAS QUE JÁ TENHAM VÍRGULAS INTERNAS.
+
+                     EX: VIAJEI COM DOIS CASAIS E UM AMIGO SOLTEIRO: WANDERCLEVERSON; SÂMILA, WALDISNEY; EYSHYLAH, DOUGLAS.
+                                       (O PONTO E VÍRGULA INDICA QUEM ERA O SOLTEIRO E QUAIS ERAM OS CASAIS).
+
+             SEPARAR ORAÇÕES COORDENADAS, ESPECIALMENTE AS ADVERSATIVAS E CONCLUSIVAS. ATENÇÃO! NESSE CASO, A VÍRGULA TAMBÉM PODERIA SER UTILIZADA.
+
+                            EX: EU SEMPRE TIVE MEDO DO MAR; MAS SEMPRE AMEI PRAIA. (ORAÇÃO COORDENADA ADVERSATIVA).
+                       EX: ELE FOI CONDENADO PENALMENTE; PORTANTO PERDEU O EMPREGO. (ORAÇÃO COORDENADA CONCLUSIVA).
+
+LIGAR ORAÇÕES OU TERMOS QUE TENHAM NATUREZA DE “EXPLICAÇÃO”.                      SÃO EMPREGADOS PARA              DOIS PONTOS
+EX: O DÓLAR ESTAVA MUITO ALTO: NÃO VIAJEI.
+
+ISOLAR ORAÇÃO SUBORDINADA SUBSTANTIVA APOSITIVA (QUE ESCLARECE UM TERMO ANTERIOR).
+EX: ELA QUERIA APENAS UMA COISA: QUE A PROVA VIESSE LOGO.
+
+INTRODUZIR CITAÇÃO, ISTO É, INSERIR NO TEXTO UMA REPRODUÇÃO LITERAL DA FALA ALHEIA (QUE DEVERÁ VIR ENTRE ASPAS).
+EX: DIZIA ELE: “ESTOU INDO PRA BRASÍLIA, NESTE PAÍS LUGAR MELHOR NÃO HÁ”.
+
+INTRODUZIR ENUMERAÇÃO.
+EX: ENCONTREI NA FESTA MEUS DOIS MELHORES AMIGOS DE INFÂNCIA: JOÃO E PEDRO.                                                        PORTUGUÊS
+                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              EXPRESSAM INTERRUPÇÕES NO TEXTO E IDEIAS NÃO CONCLUÍDAS, ISTO É, ALGO QUE O ESCRITOR
+  RETICÊNCIAS                                                                   DEIXOU NO AR.
+
+                                                                                      EX: O QUE EU IA DIZER É... BEM... DEIXA PRA LÁ.
+
+                                                       DICA! AS RETICÊNCIAS ENTRE PARÊNTESES (...) INDICAM A SUPRESSÃO DE PARTE DO TEXTO.
+
+                                                                                             SÃO EMPREGADAS PARA                        ASPAS
+INDICAR CITAÇÃO, ISTO É, INSERIR NO TEXTO UMA REPRODUÇÃO LITERAL DA FALA ALHEIA.
+
+    EX: ENCHEU O PEITO DE AR COM ORGULHO E GRITOU: “AGORA FERROU!”.
+
+INDICAR IRONIA E SENTIDO FIGURADO.
+
+    EX: QUEM FOI O “GÊNIO” QUE TIROU ZERO NAQUELA PROVA FÁCIL?
+
+INDICAR ESTRANGEIRISMO, NEOLOGISMO, ARCAÍSMO, EXPRESSÃO POPULAR OU GÍRIA. DICA! NESSE CASO, O ITÁLICO PODE SER USADO EM LUGAR DAS ASPAS.
+    EX: PARA APAGAR CARACTERES, PRESSIONE “BACKSPACE” OU “DELETE”.
+
+                                                                                                                                             PORTUGUÊS
+                                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                      É EMPREGADO PARA                           TRAVESSÃO
+  INDICAR MUDANÇA DE INTERLOCUTOR NO DIÁLOGO
+
+      EX: — PAI, TIREI 7.5 NO EXAME!
+           — PARABÉNS, FILHO! QUAL EXAME?
+
+  ISOLAR TERMOS OU ORAÇÕES INTERCALADAS DE CARÁTER EXPLICATIVO OU PARA DAR DESTAQUE/ÊNFASE.
+      EX: ESSE SEU CARRO — SE É QUE PODE SER CHAMADO ASSIM — É UMA “CARROÇA”.
+
+  DICA! PODEM APARECER OUTROS SINAIS DE PONTUAÇÃO, APÓS O TRAVESSÃO, QUE SERÃO JUSTIFICADOS POR SUAS PRÓPRIAS REGRAS DE USO.
+
+      EX: MINHA FILHA — AMOR DA MINHA VIDA—, NÃO FAÇA MAIS ISSO! (A VÍRGULA DEPOIS DO TRAVESSÃO ESTÁ ALI PARA ISOLAR O VOCATIVO “MINHA FILHA”)
+
+                                                         SÃO EMPREGADOS PARA ISOLAR ESCLARECIMENTOS ACESSÓRIOS, NOS QUAIS SEU USO SE
+        PARÊNTESES                                             JUSTIFICA PELAS MESMAS REGRAS DO TRAVESSÃO DUPLO E DAS VÍRGULAS.
+
+                                                                                     EX: FACULDADE EM QUE ESTUDEI (UFRJ) ERA LONGE DO CENTRO.
+
+     REPRESENTA UMA “PAUSA LONGA”, INDICANDO O TÉRMINO DE UM PERÍODO.                                                       PONTO FINAL
+                     UM PONTO SIMPLES (PONTO CONTINUATIVO), QUANDO O TEXTO CONTINUA NO MESMO PARÁGRAFO.
+PODE SER
+                     UM PONTO-PARÁGRAFO, APÓS O QUAL HAVERÁ UM SALTO PARA O PARÁGRAFO SEGUINTE, DEIXANDO-SE O RESTANTE DA LINHA EM BRANCO.
+
+                                                                                                                                             PORTUGUÊS
+                                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---

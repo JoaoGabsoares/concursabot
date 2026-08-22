@@ -1,0 +1,2859 @@
+                                                      Aula 02
+                          Receita Federal (Analista Tributário)
+                               Direito Tributário Jurisprudencial
+
+
+
+
+                                                           Autor:
+                                                    Fábio Dutra
+
+
+
+
+                                               06 de Maio de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Fábio Dutra
+      Aula 02
+
+
+
+
+                                                                                     Índice
+1) Imunidades Tributárias - Teoria
+..............................................................................................................................................................................................3
+
+2) DTJ - Imunidade Tributária - Súmulas Abordadas na Aula
+..............................................................................................................................................................................................
+                                                                                                                                                                                            35
+
+3) Questões Comentadas - Imunidades Tributárias
+..............................................................................................................................................................................................
+                                                                                                                                                                                            36
+
+4) Lista de Questões - Imunidades Tributárias
+..............................................................................................................................................................................................
+                                                                                                                                                                                            47
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                           54
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+                                            IMUNIDADES
+Sobre as imunidades, de uma forma geral, precisamos saber os seguintes posicionamentos do STF:
+
+A jurisprudência constitucional do STF já identificou, na cláusula inscrita no art. 195, § 7º, da CF, a
+existência de uma típica garantia de imunidade (e não de simples isenção) estabelecida em favor das
+entidades beneficentes de assistência social. Precedente: RTJ 137/965.
+
+(STF, RMS 22.192, Rel. Min. Celso de Mello, julgamento em 28-11-1995, Primeira Turma, DJ de 19-12-
+1996)
+
+Embora o texto constitucional, no art. 195, § 7º, se refira a uma isenção, trata-se claramente de uma
+imunidade. O que fazer diante de questões literais que mencionem, ipsis litteris, o dispositivo constitucional?
+É mais prudente seguir como consta no texto da CF/88, sempre analisando todas as alternativas!!
+
+
+
+
+Qualquer dispensa constitucional de pagamento de tributos é imunidade, ainda que o Constituinte tenha se
+dito de outra forma!
+
+Obs.: Aconselhamos considerar a cópia literal do dispositivo como correta, caso a banca não mencione a
+jurisprudência.
+
+Sobre a diferença entre isenção e imunidade, o STF assim já decidiu:
+
+“Ementa: (...) A criação de imunidade tributária é matéria típica do texto constitucional enquanto a
+de isenção é versada na lei ordinária; não há, pois, invasão da área reservada à emenda constitucional
+quando a lei ordinária cria isenção. O Poder Público tem legitimidade para isentar contribuições por
+ele instituídas, nos limites das suas atribuições".
+
+(STF, ADI 2.006-MC/DF, Pleno, Rel. Min. Maurício Corrêa, Julgado em 01/07/1999).
+
+É importante ainda saber que, embora determinada entidade possa estar imune a algum tributo, tal
+condição não a exime do cumprimento das obrigações acessórias, como, por exemplo, a manutenção de
+livros fiscais.
+
+IMUNIDADE – LIVROS FISCAIS. O fato de a pessoa jurídica gozar da imunidade tributária não afasta
+a exigibilidade de manutenção dos livros fiscais.
+
+(STF, RE 250.844/SP, Primeira Turma, Rel. Min. Marco Aurélio, Julgado em 29/05/2012)
+
+Por fim, encerramos este tópico, citando o entendimento do STF acerca das imunidades tributárias quando
+há substituição tributária:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            3
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 02
+
+
+
+
+Ementa:
+
+(...)
+
+A responsabilidade ou a substituição tributária não alteram as premissas centrais da tributação, cuja
+regra-matriz continua a incidir sobre a operação realizada pelo contribuinte. Portanto, a imunidade
+tributária não afeta, tão-somente por si, a relação de responsabilidade tributária ou de substituição
+e não exonera o responsável tributário ou o substituto. Recurso extraordinário conhecido, mas ao qual
+se nega provimento.
+
+(STF, RE 202.987/SP, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento em 30/06/2009)
+
+No caso em tela, a entidade imune (SESI) era a adquirente, motivo pelo qual ficou responsável pelo
+recolhimento da obrigação tributária, na condição de responsável tributário ou substituto. Perceba que seria
+ilógico não haver tributação, já que o contribuinte, na verdade, não estava imune. Compreendido?
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com o STF, o fato de uma entidade de educação sem fins lucrativos estar imune, por expressa
+disposição constitucional, não a exime do dever de recolher o tributo, caso seja eleita, por lei, como
+responsável pela obrigação tributária.
+
+Comentário: A questão aborda o entendimento do STF sobre o tema. O fato de estar imune não elide a
+necessidade de recolher o tributo, na condição de responsável tributário. Para relembrar o conceito de
+responsável tributário, leia o art. 128 do CTN.
+
+Gabarito: Correta
+
+Importa-nos saber, por fim, que a imunidade deve sempre estar prevista na Constituição Federal. Assim, não
+é possível que a Constituição de algum estado da federação expanda as imunidades consignadas na CF/88.
+
+Veremos, a partir de agora, as imunidades em espécie. Adiante!
+
+
+
+
+Imunidade Recíproca
+
+A imunidade recíproca está prevista no art. 150, VI, a, da CF/88. Como foi dito no início da aula anterior, tal
+imunidade configura verdadeira cláusula pétrea (ADI 939/DF), pois ela protege a autonomia financeira dos
+entes federados, sustentando o pacto federativo.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          4
+          www.estrategiaconcursos.com.br                                                                    54
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Como é viabilizada esta proteção que acabamos de dizer? Ora, de acordo com o art. 150, VI, a, da CF/88, é
+vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre o patrimônio,
+renda ou serviços uns dos outros.
+
+
+
+
+Embora o texto do art. 150, VI, se refira aos impostos “é vedado instituir imposto sobre...”, temos que
+interpretá-lo em conjunto com outras regras constitucionais.
+
+Assim, com a EC 132/2023 (Reforma Tributária), foi introduzido o art. 149-B, que trata de regras comuns
+relativas aos novos tributos (Imposto sobre Bens e Serviços e Contribuição sobre Bens e Serviços).
+
+Ocorre que o par. único, do art. 149-B, estabeleceu que as imunidades do art. 150, VI, também se aplicam à
+CBS, que não pode ser confundida com imposto.
+
+Portanto, atualmente, a imunidade recíproca alcança impostos e também a Contribuição sobre Bens e
+Serviços (CBS).
+
+Sobre a imunidade recíproca, o STF já decidiu:
+
+Ementa: TRIBUTÁRIO. ICMS. SERVIÇOS DE ENERGIA ELÉTRICA. MUNICÍPIO. CONTRIBUINTE DE FATO.
+IMUNIDADE RECÍPROCA. ART. 150, VI, A, DA CONSTITUIÇÃO. INAPLICABILIDADE. AGRAVO IMPROVIDO.
+I - A imunidade do art. 150, VI, a, da Constituição somente se aplica ao imposto incidente sobre
+serviço, patrimônio ou renda do próprio ente beneficiado, na qualidade de contribuinte de direito. II
+- Como o Município não é contribuinte de direito do ICMS relativo a serviços de energia elétrica, não
+tem o benefício da imunidade em questão, uma vez que esta não alcança o contribuinte de fato.
+Precedentes. III – Agravo regimental improvido.
+
+(STF, ARE 663.552-AgR/MG, Segunda Turma, Rel. Min. Ricardo Lewandowski, Julgado em 28/02/2012)
+
+Perceba que a imunidade recíproca, no caso de tributos indiretos, abrange apenas o contribuinte de direito.
+
+
+
+
+QUESTÃO INÉDITA
+Conforme jurisprudência do STF, a imunidade recíproca somente se aplica ao imposto incidente sobre
+serviço, patrimônio ou renda do próprio ente beneficiado, na qualidade de contribuinte de direito.
+
+Comentário: De acordo com o STF, a imunidade do art. 150, VI, “a” só abrange o ente quando estiver na
+condição de contribuinte de direito. Como no caso julgado pelo STF (663.552-AgR/MG), o município era
+contribuinte de fato, a Suprema Corte decidiu que não haveria imunidade.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         5
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Gabarito: Correta
+
+Por outro lado, quando se trata de tributos diretos, há coincidência entre a figura do contribuinte de fato e
+o contribuinte de direito. Sobre este caso, temos o seguinte julgado:
+
+"Ementa: (...)A imunidade tributária prevista no art. 150, VI, a da Constituição aplica-se às operações
+de importação de bens realizadas por municípios, quando o ente público for o importador do bem
+(identidade entre o "contribuinte de direito" e o "contribuinte de fato"). Compete ao ente tributante
+provar que as operações de importação desoneradas estão influindo negativamente no mercado, a
+ponto de violar o art. 170 da Constituição. Impossibilidade de presumir risco à livre-iniciativa e à
+concorrência. Agravo regimental ao qual se nega provimento."
+
+(STF, AI 518.405-AgR/RS, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgado em 06/04/2010)
+
+A Suprema Corte também já decidiu no sentido de que a imunidade recíproca alcança o IOF incidente sobre
+aplicações financeiras dos entes federados bem como o rendimento decorrente de tais aplicações:
+
+"A garantia constitucional da imunidade recíproca impede a incidência de tributos sobre o patrimônio
+e a renda dos entes federados. Os valores investidos e a renda auferida pelo membro da federação é
+imune de impostos. A imunidade tributária recíproca é uma decorrência pronta e imediata do postulado
+da isonomia dos entes constitucionais, sustentado pela estrutura federativa do Estado brasileiro e pela
+autonomia dos Municípios."
+
+(STF, AI 174.808-AgR, Segunda Turma, Rel. Min. Maurício Corrêa, Julgamento em 11/03/1996)
+
+Vale ressaltar que a imunidade recíproca, conforme a CF/88 e o STF, não é extensível às contribuições
+previdenciárias. Sobre isso, veja como entende o STF nos dois julgados a seguir:
+
+É da jurisprudência do Supremo Tribunal que o princípio da imunidade tributária recíproca (CF, art. 150,
+VI, a) - ainda que se discuta a sua aplicabilidade a outros tributos, que não os impostos - não pode ser
+invocado na hipótese de contribuições previdenciárias.
+
+(STF, ADI 2.024/DF, Pleno, Rel. Min. Sepúlveda Pertence, julgamento em 03/05/2007)
+
+Também entendeu o STF que a imunidade recíproca não alcança as taxas:
+
+"EMENTA: (...) II. - A imunidade tributária recíproca -- C.F., art. 150, VI, a -- somente é aplicável a
+impostos, não alcançando as taxas. III. - R.E. conhecido e improvido.
+
+(STF, RE 364.202/RS, Segunda Turma, Rel. Min. Carlos Velloso, julgamento em 05/10/2004)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           6
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 02
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com a Constituição Federal de 1988, é vedado à União, aos Estados, ao Distrito Federal e aos
+Municípios instituir tributos sobre patrimônio, renda ou serviços, uns dos outros .
+
+Comentário: Pegadinha de prova! O candidato fica com o texto constitucional tão gravado na memória, que,
+quando se depara com uma questão literal, já a considera como correta, sem observar os pequenos detalhes.
+Perceba que a vedação diz respeito apenas aos impostos, e não aos tributos como um todo.
+
+Cabe destacar que o art. 149-B, par. único, da CF/88, incluído pela EC 132/2023 (Reforma Tributária)
+estendeu a aplicabilidade da imunidade a uma contribuição de competência da União: Contribuição sobre
+Bens e Serviços (CBS). Por ter regras similares ao Imposto sobre Bens e Serviços, entendeu-se por bem aplicar
+a esta contribuição as mesmas imunidades do IBS.
+
+Gabarito: Errada
+
+Vamos falar sobre o Tema 1140 de Repercussão Geral no âmbito do STF, para você ter uma ideia do que
+abordaremos em seguida:
+
+As empresas públicas e as sociedades de economia mista delegatárias de serviços públicos
+essenciais, que não distribuam lucros a acionistas privados nem ofereçam risco ao equilíbrio
+concorrencial, são beneficiárias da imunidade tributária recíproca prevista no artigo 150, VI, a, da
+Constituição Federal, independentemente de cobrança de tarifa como contraprestação do serviço.
+(STF, RE 1320054)
+
+Destaque-se que, muito embora o texto constitucional estenda a aplicação desta imunidade apenas às
+autarquias e fundações públicas, o entendimento predominante no STF (RE 407.099/RS e AC 1.550-2) é o de
+que a benesse é extensível também às empresas públicas (EP) e às sociedades de economia mista (SEM)
+prestadoras de serviço público de prestação obrigatória e exclusiva do Estado.
+
+Nesse sentido, o STF já concedeu imunidade às seguintes empresas públicas e sociedades de economia mista
+(leia o que falaremos acerca dos correios em seguida a esta observação):
+
+1.      Empresa Brasileira de Correios e Telégrafos (ECT) – (STF, RE 407.099);
+2.      Infraero – (STF, RE 524.615-AgR);
+3.      Companhia de Águas e Esgoto de Rondônia (CAERD) – (STF, AC 1.550-2/RO);
+4.      Companhia Docas do Estado de São Paulo (Codesp) – (STF, RE 253.472)
+
+5.      Casa da Moeda do Brasil (CMB) – (STF, RE 610.517)
+
+Observação: Em 2014, tivemos mais três decisões favoráveis à imunidade gozada pela ECT. Senão,
+vejamos:
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       7
+           www.estrategiaconcursos.com.br                                                                 54
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+•Em 15/10/2014, o STF reconheceu a imunidade relativa ao IPTU incidente sobre imóveis de
+propriedade da ECT, bem assim os por ela utilizados.
+
+•Em 12/11/2014, o Plenário do STF decidiu que não incide o ICMS sobre o serviço de transporte de
+bens e mercadorias realizado pela Empresa Brasileira de Correios e Telégrafos – ECT.
+
+•Em 26/11/2014, a Suprema Corte (ACO 879/PB) reafirmou sua jurisprudência a respeito da
+imunidade tributária relativa ao IPVA, gozada pela ECT.
+
+Vale destacar que, com a EC 132/2023, os Correios foram expressamente imunizados pelo texto
+constitucional:
+
+        “Art. 150: (...)
+
+        § 2º A vedação do inciso VI, “a”, é extensiva às autarquias e às fundações instituídas e
+        mantidas pelo poder público e à empresa pública prestadora de serviço postal, no que se
+        refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às
+        delas decorrentes. (Redação dada pela Emenda Constitucional nº 132, de 2023)
+
+A citada extensão é denominada “imunidade tributária recíproca extensiva”, por parcela da doutrina. Antes
+da Reforma Tributária (EC 132/2023), o referido dispositivo apenas previa as autarquias e fundações. Com a
+nova redação, passou a prever também a extensão da imunidade recíproca à empresa pública prestadora
+de serviço postal (Correios).
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com o entendimento do Supremo Tribunal Federal, a Casa da Moeda do Brasil (CMB), empresa
+pública delegatária do serviço público de emissão de papel moeda, cunhagem de moeda metálica, fabricação
+de fichas telefônicas e impressão de selos postais, é considerada imune pelo art. 150, VI, a, da CF/88.
+
+Comentário: A Casa da Moeda do Brasil foi alcançada pela imunidade recíproca, conforme decisão do STF,
+no julgamento do Recurso Extraordinário 610.517-AgR/RJ.
+
+Gabarito: Correta
+
+Além de tais casos, acompanhe os seguintes julgados:
+
+"EMENTA: (...)2 . A prestação de ações e serviços de saúde por sociedades de economia mista
+corresponde à própria atuação do Estado, desde que a empresa estatal não tenha por finalidade a
+obtenção de lucro. 3. As sociedades de economia mista prestadoras de ações e serviços de saúde, cujo
+capital social seja majoritariamente estatal, gozam da imunidade tributária prevista na alínea “a”
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        8
+        www.estrategiaconcursos.com.br                                                                 54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+do inciso VI do art. 150 da Constituição Federal. 3. Recurso extraordinário a que se dá provimento,
+com repercussão geral."
+
+(STF, RE 580.264/RS, Pleno, Rel. Min. Joaquim Barbosa, julgamento em 16/12/2010)
+
+Sendo assim, sociedade de economia mista prestadora de serviços de saúde, cujo capital seja
+majoritariamente estatal, goza da imunidade recíproca.
+
+Na direção oposta, o STF negou extensão da imunidade recíproca à Petrobrás, conforme se observa na
+ementa transcrita a seguir:
+
+"Ementa: (...) 1. Recurso extraordinário interposto de acórdão que considerou tributável propriedade
+imóvel utilizada pela Petrobrás para a instalação e operação de condutos de transporte de seus
+produtos. Alegada imunidade tributária recíproca, na medida em que a empresa-agravante
+desempenha atividade sujeita a monopólio. 2. É irrelevante para definição da aplicabilidade da
+imunidade tributária recíproca a circunstância de a atividade desempenhada estar ou não sujeita a
+monopólio estatal."
+
+(STF, RE 285.716-AgR/SP, Segunda Turma, Rel. Min. Joaquim Barbosa, julgamento em
+
+Observação: Na decisão desse Recurso Extraordinário, ficou consignado que a Petrobrás não foi
+alcançada pela imunidade tributária recíproca pelos seguintes motivos:
+
+1- Trata-se de sociedade de economia mista destinada à exploração econômica em benefício de
+seus acionistas, pessoas de direito público e privado, e a salvaguarda não se presta a proteger
+aumento patrimonial dissociado de interesse público primário.
+
+2- A Petrobrás visa distribuição de lucros, e, portanto, tem capacidade contributiva para participar
+do apoio econômico aos entes federados.
+
+3- A tributação de atividade econômica lucrativa não implica risco ao pacto federativo.
+
+Nessa mesma linha, vejamos como o STF definiu a tese referente ao Tema 508 de Repercussão Geral:
+
+        Sociedade de economia mista, cuja participação acionária é negociada em Bolsas de
+        Valores, e que, inequivocamente, está voltada à remuneração do capital de seus
+        controladores ou acionistas, não está abrangida pela regra de imunidade tributária prevista
+        no art. 150, VI, ‘a’, da Constituição, unicamente em razão das atividades desempenhadas.
+        (STF, RE 600867)
+
+Ademais, a imunidade recíproca também alcança a OAB, embora esta não seja considerada uma entidade
+pertencente à administração pública indireta:
+
+"EMENTA: (...) 1. A imunidade tributária gozada pela Ordem dos Advogados do Brasil é da espécie
+recíproca (art. 150, VI, a da Constituição), na medida em que a OAB desempenha atividade própria de
+Estado (defesa da Constituição, da ordem jurídica do Estado democrático de direito, dos direitos
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       9
+        www.estrategiaconcursos.com.br                                                                 54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+humanos, da justiça social, bem como a seleção e controle disciplinar dos advogados). 2. A imunidade
+tributária recíproca alcança apenas as finalidades essenciais da entidade protegida. O
+reconhecimento da imunidade tributária às operações financeiras não impede a autoridade fiscal de
+examinar a correção do procedimento adotado pela entidade imune. O reconhecimento da
+imunidade tributária às operações financeiras não impede a autoridade fiscal de examinar a
+correção do procedimento adotado pela entidade imune. Constatado desvio de finalidade, a
+autoridade fiscal tem o poder-dever de constituir o crédito tributário e de tomar as demais medidas
+legais cabíveis.”
+
+(STF, RE 259.976-AgR/RS, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgado em 23/03/2010)
+
+Dando continuidade ao nosso estudo, embora a OAB esteja inserida no seleto rol de entidades abrangidas
+pela imunidade recíproca, o STF já chegou a decidir que as Caixas de Assistência dos Advogados, mesmo
+integrando a estrutura da OAB, não são imunes (STF, RE 662.816/BA-AgR), sob a argumentação de que as
+Caixas de Assistência têm sua área de atuação voltada aos benefícios individuais dos associados. Trata-se de
+entidade destinada a prover benefícios pecuniários e assistenciais a seus associados, não desempenhando
+as atividades inerentes à Ordem dos Advogados do Brasil (defesa da Constituição, da ordem jurídica do
+Estado democrático de direito, dos direitos humanos, da justiça social Também não lhe compete
+privativamente promover a representação, a defesa, a seleção e a disciplina dos advogados em toda a
+República Federativa do Brasil).
+
+Tal posicionamento, contudo, foi superado no julgamento dos embargos de declaração, opostos contra outra
+decisão proferida pela Segunda Turma do STF (RE 405267 AgR-segundo-ED / MG). Neste julgamento, o
+relator, Min. Edson Fachin, destacou que as caixas de assistência dos advogados prestam serviço público
+delegado, possuem caráter jurídico de ente público e não exploram atividade econômica com intuito
+lucrativo.
+
+
+
+
+                               A Ordem dos Advogados do Brasil (OAB) é imune.
+
+                     As Caixas de Assistência dos Advogados também são imunes.
+
+
+
+
+QUESTÃO INÉDITA
+Da mesma forma que o STF concedeu imunidade recíproca à OAB, por desempenhar atividade própria de
+Estado, a Corte também estendeu a limitação constitucional à Caixa de Assistência de Advogados, por
+possuírem caráter jurídico de ente público e não exploram atividade econômica com intuito lucrativo.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         10
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 02
+
+
+
+Comentário: Esse é o entendimento mais recente do STF a respeito da extensão da imunidade tributária
+recíproca às Caixas de Assistência de Advogados.
+
+Gabarito: Correta
+
+Para concluir o tema, precisamos estudar a última norma que versa sobre a imunidade recíproca, que é o §
+3° do art. 150, que diz o seguinte:
+
+“Art. 150: (...)
+
+§ 3º - As vedações do inciso VI, "a", e do parágrafo anterior não se aplicam ao patrimônio, à renda
+e aos serviços, relacionados com exploração de atividades econômicas regidas pelas normas
+aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços
+ou tarifas pelo usuário, nem exonera o promitente comprador da obrigação de pagar imposto
+relativamente ao bem imóvel.”
+
+O objetivo do constituinte foi estabelecer que a imunidade recíproca não abrange o patrimônio, a renda e
+os serviços utilizados para exploração de atividades econômicas em concorrência com os empreendimentos
+privados. O que se deve ficar atento é ao motivo que fez o legislador constituinte inserir esta exceção, que é
+o fato de não permitir que haja concorrência desleal. Ou seja, seria injusto que determinadas entidades
+utilizassem da imunidade para concorrer no mercado, certo?
+
+Ainda devemos tratar sobre os casos de delegação de serviços públicos, nos quais são cedidos imóveis dos
+entes públicos a pessoas jurídicas de direito privado, para exploração da atividade. Em tais casos, o STF
+mantinha o entendimento de que a imunidade recíproca se estendia ao imóvel pertencente à União utilizado
+por empresa privada, sob o regime de concessão.
+
+Porém, no julgamento do RE 601.720/RJ, foi considerada a exigência do IPTU em tal situação. O caso concreto
+envolveu a INFRAERO, que é uma pessoa jurídica de direito privado (empresa pública) com imunidade
+pacificamente reconhecida pelo STF, e uma empresa privada (Barrafor – concessionária de veículos Ford),
+sendo o bem imóvel objeto da concessão de uso pertencente à União. Este é o Tema 437 de Repercussão
+Geral.
+
+O entendimento da maioria dos ministros da Suprema Corte foi o de que a imunidade recíproca não é
+aplicável ao caso em razão do disposto no art. 150, § 3º, da CF/88, por se tratar de atividade privada
+desenvolvida no local, evitando que haja violação à livre concorrência, pela aplicação de uma imunidade a
+uma empresa em detrimento de seus concorrentes que atuam no mesmo segmento.
+
+Veja que esta linha de raciocínio também foi considerada no Tema 385 de Repercussão Geral:
+
+          A imunidade recíproca, prevista no art. 150, VI, a, da Constituição não se estende a empresa
+          privada arrendatária de imóvel público, quando seja ela exploradora de atividade
+          econômica com fins lucrativos. Nessa hipótese é constitucional a cobrança do IPTU pelo
+          Município. (STF, RE 594015)
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          11
+         www.estrategiaconcursos.com.br                                                                    54
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+Há que se destacar que o STF já decidiu que a imunidade recíproca extensiva alcança o INCRA – autarquia
+federal -, desobrigando-o de pagar ICMS sobre a exploração de unidade agroindustrial:
+
+EMENTA Incra. Imunidade tributária. Exploração de unidade agroindustrial. Ausência de configuração
+de atividade econômica capaz de impor o regime tributário próprio das empresas privadas. 1. A
+atividade exercida pelo Incra, autarquia federal, não se enquadra entre aquelas sujeitas ao regime
+tributário próprio das empresas privadas, considerando que a eventual exploração de unidade
+agroindustrial, desapropriada, em área de conflito social, está no âmbito de sua destinação social em
+setor relevante para a vida nacional.
+
+(STF, RE 242.827/PE, Primeira Turma, Rel. Min. Menezes Direito, Julgado em 02/09/2008)
+
+É valido destacar que, excetuando-se os entes federados, as demais entidades somente estão abrangidas
+pela imunidade recíproca, no que se refere ao patrimônio, renda e serviços vinculados a suas finalidades
+essenciais:
+
+"O julgado recorrido contempla a conclusão de que a União não está condicionada ao ônus de
+comprovar vinculação do bem tributado a uma finalidade pública, o que somente ocorre nos casos
+das autarquias e fundações instituídas e mantidas pelo poder público no que se refere à tributação
+do patrimônio, renda e serviços vinculados a suas finalidades essenciais. Esse entendimento está em
+consonância com a jurisprudência desta Corte que tem se posicionado no sentido de reconhecer a
+imunidade recíproca constante do art. 150, VI, a, da Carta Magna aos entes da administração direta e,
+somente no que refere ao alcance da imunidade recíproca às autarquias e fundações instituídas e
+mantidas pelo poder público é que aparece a restrição concernente à vinculação do imóvel às suas
+finalidades essenciais ou às delas decorrentes, na exata dicção da norma constitucional."
+
+(RE 635.012/RJ, Decisão Monocrática, Rel. Min. Dias Toffoli, Julgado em 07/02/2013)
+
+Vejamos ainda a seguinte súmula editada pelo STF:
+
+SÚMULA STF 583 – Promitente comprador de imóvel residencial transcrito em nome de autarquia é
+contribuinte do imposto predial territorial urbano.
+
+Atualmente, tal restrição já foi prevista na parte final do § 3º do art. 150, da CF/88. O objetivo é que, havendo
+contrato de compra e venda entre uma entidade protegida pela referida imunidade e outra não imune, esta
+seja tributada, ainda que a transferência do imóvel não tenha acontecido.
+
+Dentro da imunidade recíproca, o STF já decidiu que a os seus veículos estão imunes, mesmo que sob o
+regime de alienação fiduciária, ou seja, se uma autarquia adquire um automóvel parcelado junto a uma
+instituição financeira, o veículo fica sob alienação fiduciária, até que o parcelamento seja quitado. Mesmo
+assim, a imunidade subsiste, conforme o Tema 685 de Repercussão Geral:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              12
+        www.estrategiaconcursos.com.br                                                                        54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+Não incide IPVA sobre veículo automotor adquirido, mediante alienação fiduciária, por pessoa
+jurídica de direito público. (STF, RE 727851)
+
+
+
+
+QUESTÃO INÉDITA
+
+A respeito da imunidade tributária recíproca, prevista no art. 150, VI, “a”, da CF/88, aponte a alternativa
+correta:
+
+a) A imunidade recíproca se restringe aos impostos, não alcançando outras espécies tributárias.
+
+b) A imunidade recíproca não alcança autarquias e fundações.
+
+c) A imunidade recíproca alcança empresas públicas e sociedades de economia mista de um modo geral,
+ressalvadas as restrições constantes no texto constitucional.
+
+d) A imunidade recíproca exonera o promitente comprador da obrigação de pagar imposto relativamente ao
+bem imóvel.
+
+e) A imunidade recíproca se aplica ao patrimônio, à renda e aos serviços, relacionados com exploração de
+atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados.
+
+Comentário: A imunidade recíproca – também denominada imunidade intergovernamental – existe para
+proteger a autonomia financeira dos entes federados e, consequentemente, o pacto federativo. Podemos
+afirmar, portanto, que ela configura uma cláusula pétrea, no entendimento da Suprema Corte (ADI 939).
+
+Como é viabilizada esta proteção que acabamos de dizer? Ora, de acordo com o art. 150, VI, a, da CF/88, é
+vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre o patrimônio,
+renda ou serviços uns dos outros.
+
+Letra A: Correta. De fato, a imunidade recíproca se restringe aos impostos, não alcançando outras espécies
+tributárias. Assim, a União pode ter que pagar taxas ou contribuições de melhoria, por exemplo.
+
+Letra B: Errada. De acordo com o art. 150, § 2º, da CF, a imunidade recíproca é extensiva às autarquias e às
+fundações instituídas e mantidas pelo Poder Público, no que se refere ao patrimônio, à renda e aos serviços,
+vinculados a suas finalidades essenciais ou às delas decorrentes.
+
+Letra C: Errada. Na realidade, a imunidade recíproca não alcança as empresas públicas e sociedades de
+economia mista de um modo geral, não havendo previsão na CF para tal extensão. O que existe é a
+jurisprudência do STF estendendo a referida imunidade a essas empresas, quando prestadoras de serviços
+públicos.
+
+Letra D: Errada. De acordo com o art. 150, § 3º, da CF, a imunidade recíproca não exonera o promitente
+comprador da obrigação de pagar imposto relativamente ao bem imóvel.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         13
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Letra E: Errada. De acordo com o art. 150, § 3º, da CF, a imunidade recíproca não se aplica ao patrimônio, à
+renda e aos serviços, relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis
+a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo
+usuário.
+
+Gabarito: A
+
+Para finalizarmos, gostaria de destacar a jurisprudência do STF acerca da inaplicabilidade retroativa da
+imunidade recíproca, constante da tese fixada no Tema 224 de Repercussão Geral:
+
+A imunidade tributária recíproca não exonera o sucessor das obrigações tributárias relativas aos
+fatos jurídicos tributários ocorridos antes da sucessão. (STF, RE 599176)
+
+Assim, se a União passa a ser proprietária de um imóvel outrora pertencente a uma entidade não imune, a
+União responde pelos débitos tributários porventura existentes sobre o bem imóvel, eis que a imunidade da
+União não a exonera das obrigações tributárias relativas aos fatos jurídicos tributários ocorridos antes da
+sucessão.
+
+
+
+
+Imunidade Religiosa
+
+A imunidade religiosa está prevista no art. 150, VI, b, e tem como objetivo proteger a liberdade de culto,
+direito individual garantido no art. 5º, VI, da CF/88:
+
+        Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União,
+        aos Estados, ao Distrito Federal e aos Municípios:
+
+        (...)
+
+        VI - instituir impostos sobre: (Vide Emenda Constitucional nº 3, de 1993)
+
+        (...)
+
+        b) entidades religiosas e templos de qualquer culto, inclusive suas organizações
+        assistenciais e beneficentes; (Redação dada pela Emenda Constitucional nº 132, de 2023)
+
+
+
+
+Embora o texto do art. 150, VI, se refira aos impostos “é vedado instituir imposto sobre...”, temos que
+interpretá-lo em conjunto com outras regras constitucionais.
+
+Assim, com a EC 132/2023 (Reforma Tributária), foi introduzido o art. 149-B, que trata de regras comuns
+relativas aos novos tributos (Imposto sobre Bens e Serviços e Contribuição sobre Bens e Serviços).
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         14
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 02
+
+
+
+Ocorre que o par. único, do art. 149-B, estabeleceu que as imunidades do art. 150, VI, também se aplicam à
+CBS, que não pode ser confundida com imposto.
+
+Portanto, atualmente, a imunidade religiosa alcança impostos e também a Contribuição sobre Bens e
+Serviços (CBS).
+
+
+
+Vejamos alguns julgados importantes sobre tal imunidade:
+
+"EMENTA: (...)Instituição religiosa. IPTU sobre imóveis de sua propriedade que se encontram alugados.
+4. A imunidade prevista no art. 150, VI, "b", CF, deve abranger não somente os prédios destinados
+ao culto, mas, também, o patrimônio, a renda e os serviços "relacionados com as finalidades
+essenciais das entidades nelas mencionadas."
+
+(STF, RE 325.822/SP, Pleno, Rel. Min. Ilmar Galvão, Julgado em 18/12/2002)
+
+De acordo com o STF, a imunidade religiosa aplica-se também aos imóveis alugados, de propriedade da
+entidade religiosa, desde que a renda auferida seja aplicada nas finalidades essenciais da referida entidade.
+
+
+
+
+            Igreja que possua imóveis locados a terceiros - O STF definiu que há imunidade se os
+            recursos dos aluguéis forem revertidos para as suas próprias finalidades.
+
+            Igreja que não possui o próprio imóvel – A CF define que há imunidade sobre o IPTU
+            daquele imóvel, mesmo quanto seja locatária.
+
+Não se pode esquecer que a essa imunidade aplica-se a restrição prevista no art. 150, § 4º, da CF/88, cuja
+redação é a seguinte:
+
+Art. 150:
+
+(...)
+
+§ 4º As vedações expressas no inciso VI, alíneas "b" e "c", compreendem somente o patrimônio, a renda e os
+serviços, relacionados com as finalidades essenciais das entidades nelas mencionadas.
+
+Cabe ressaltar, por meio da ementa do acórdão proferido nos autos do ARE 800.395-AgR/ES, a interpretação
+extensiva que a Suprema Corte tem conferido à imunidade religiosa. Observe:
+
+EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE
+TRIBUTÁRIA DE TEMPLOS RELIGIOSOS. IPTU. IMÓVEL VAGO. DESONERAÇÃO RECONHECIDA. O
+Supremo Tribunal Federal consolidou o entendimento de que não cabe à entidade religiosa
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         15
+         www.estrategiaconcursos.com.br                                                                   54
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+demonstrar que utiliza o bem de acordo com suas finalidades institucionais. Ao contrário, compete à
+Administração tributária demonstrar a eventual tredestinação do bem gravado pela imunidade. Nos
+termos da jurisprudência da Corte, a imunidade tributária em questão alcança não somente imóveis
+alugados, mas também imóveis vagos. Agravo regimental a que se nega provimento.
+
+(STF, ARE 800.395-AgR/ES, Primeira Turma, Rel. Min. Roberto Barroso, Julgamento em 28/10/2014)
+
+Observação: Tredestinação, no caso, significa dar ao bem imune outra finalidade, divergente das
+finalidades essenciais da entidade imune.
+
+
+
+
+Para a prova, recomendamos memorizar o seguinte:
+
+•    Compete à Administração tributária demonstrar a eventual tredestinação do bem gravado pela
+imunidade.
+• A imunidade tributária em questão alcança não somente imóveis alugados, mas também imóveis vagos.
+
+Ademais, na esteira do raciocínio exposto até aqui, a Suprema Corte entende que os cemitérios que
+consubstanciam extensões destas entidades também são alcançados pela vedação constitucional em tela:
+
+"Os cemitérios que consubstanciam extensões de entidades de cunho religioso estão abrangidos pela
+garantia contemplada no artigo 150 da Constituição do Brasil. Impossibilidade da incidência de IPTU
+em relação a eles."
+
+(STF, RE 578.562/BA, Pleno, Rel. Min. Eros Grau, Julgado em 21/05/2008)
+
+
+
+
+Perceba que não são todos os cemitérios que estão abrangidos pela imunidade, mas apenas aqueles que
+são, de fato, mera extensão da entidade religiosa.
+
+No que se refere às lojas maçônicas, o STF já entendeu que não estão abrangidas pela imunidade religiosa,
+conforme a decisão transcrita a seguir:
+
+"(...) III – A imunidade tributária conferida pelo art. 150, VI, b, é restrita aos templos de qualquer culto
+religioso, não se aplicando à maçonaria, em cujas lojas não se professa qualquer religião. IV - Recurso
+extraordinário parcialmente conhecido, e desprovido na parte conhecida."
+
+(STF, RE 562.351/RS, Primeira Turma, Rel. Min. Ricardo Lewandowski, Julgamento em 04/09/2012)
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                               16
+        www.estrategiaconcursos.com.br                                                                         54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+QUESTÃO INÉDITA
+Conforme pacífica jurisprudência do STF, a imunidade religiosa alcança as lojas maçônicas.
+
+Comentário: O STF já decidiu que a imunidade religiosa é restrita aos templos de qualquer culto religioso,
+não se aplicando à maçonaria, em cujas lojas não se professa qualquer religião.
+
+Gabarito: Errada
+
+
+Imunidade dos Partidos Políticos, Sindicato de Trabalhadores e
+Entidades Educacionais e Assistenciais Sem Fins Lucrativos
+
+Essa imunidade está prevista no art. 150, VI, c, da CF/88, com a seguinte redação:
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao
+Distrito Federal e aos Municípios:
+
+VI - instituir impostos sobre:
+
+c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos
+trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos os
+requisitos da lei;
+
+
+
+
+Embora o texto do art. 150, VI, se refira aos impostos “é vedado instituir imposto sobre...”, temos que
+interpretá-lo em conjunto com outras regras constitucionais.
+
+Assim, com a EC 132/2023 (Reforma Tributária), foi introduzido o art. 149-B, que trata de regras comuns
+relativas aos novos tributos (Imposto sobre Bens e Serviços e Contribuição sobre Bens e Serviços).
+
+Ocorre que o par. único, do art. 149-B, estabeleceu que as imunidades do art. 150, VI, também se aplicam à
+CBS, que não pode ser confundida com imposto.
+
+Portanto, atualmente, esta imunidade alcança impostos e também a Contribuição sobre Bens e Serviços
+(CBS).
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          17
+         www.estrategiaconcursos.com.br                                                                    54
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+O que nos chama a atenção – e por tal motivo eu o negritei – é o fato de a norma constitucional exigir a
+edição de uma lei, para que as instituições de educação e assistência social gozem da referida imunidade.
+Além disso, seria uma lei ordinária ou complementar?
+
+Para dirimir as dúvidas, é necessário recorrer ao entendimento do STF acerca do assunto, conforme vemos
+a seguir:
+
+“Conforme precedente no STF (RE 93.770, Muñoz, RTJ 102/304) e na linha da melhor doutrina, o que a
+Constituição remete à lei ordinária, no tocante à imunidade tributária considerada, é a fixação de
+normas sobre a constituição e o funcionamento da entidade educacional ou assistencial imune; não,
+o que diga respeito aos lindes da imunidade, que, quando susceptíveis de disciplina
+infraconstitucional, ficou reservado à lei complementar.”
+
+(STF, Pleno, ADI-MC 1.802/DF, Rel. Min. Sepúlveda Pertence, Julgamento em 27/08/1998
+
+Vale ressaltar que, da mesma forma como tem ocorrido com a imunidade religiosa, o STF tem sido bastante
+flexível na análise da vinculação asseverada no art. 150, § 4º, da CF/88. Nesse sentido, vamos citar, a partir
+de agora, alguns julgados, da própria Corte, que já foram ou que há grandes chances de serem cobrados em
+prova. Portanto, atenção total, candidato!
+
+Súmula Vinculante 52 - Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel
+pertencente a qualquer das entidades referidas pelo art. 150, VI, “c”, da Constituição Federal, desde
+que o valor dos aluguéis seja aplicado nas atividades para as quais tais entidades foram constituídas.
+
+Observação: Esta súmula vinculante possui a mesma redação da Súmula 724 do STF. Isso significa
+que já se tratava de entendimento pacífico no STF. A distinção é que, a partir da sua publicação, o
+posicionamento nela contido possui efeito vinculante em relação aos demais órgãos do Poder
+Judiciário e à administração pública direta e indireta.
+
+No mesmo sentido, temos o seguinte julgado:
+
+EMENTA: IMUNIDADE TRIBUTÁRIA. ART. 150, VI, C, DA CONSTITUIÇÃO. INSTITUIÇÃO DE ASSISTÊNCIA
+SOCIAL. EXIGÊNCIA DE IMPOSTO PREDIAL E TERRITORIAL URBANO SOBRE IMÓVEL DE PROPRIEDADE
+DA ENTIDADE. ALEGAÇÃO DE QUE O ÔNUS PODE SER TRANSFERIDO AO INQUILINO (...) Tratando-se de
+imunidade constitucional, que cobre patrimônio, rendas e serviços, não importa se os imóveis de
+propriedade da instituição de assistência social são de uso direto ou se são locados.
+
+(STF, RE 257.700/MG, Primeira Turma, Rel. Min. Ilmar Galvão, Julgamento em 13/6/2000)
+
+Nesse rumo, foi considerado imune pelo IPTU imóvel de propriedade de uma entidade beneficente, em
+cujas instalações era mantida uma livraria. A imunidade subsiste, neste caso, pois o que importa é que as
+rendas auferidas sejam destinadas à manutenção de suas atividades institucionais.
+
+Observe que não é somente a renda obtida com imóveis alugados a terceiros, mas também os rendimentos
+obtidos pela cobrança de estacionamento na área interna da entidade imune:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           18
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+EMENTA: IMUNIDADE TRIBUTÁRIA. ART. 150, VI, C, DA CONSTITUIÇÃO. INSTITUIÇÃO DE ASSISTÊNCIA
+SOCIAL. EXIGÊNCIA DE IMPOSTO SOBRE SERVIÇO CALCULADO SOBRE O PREÇO COBRADO EM
+ESTACIONAMENTO DE VEÍCULOS NO PÁTIO INTERNO DA ENTIDADE. Ilegitimidade. Eventual renda
+obtida pela instituição de assistência social mediante cobrança de estacionamento de veículos em
+área interna da entidade, destinada ao custeio das atividades desta, está abrangida pela imunidade
+prevista no dispositivo sob destaque.
+
+(STF, RE 144.900/SP, Primeira Turma, Rel. Min. Ilmar Galvão, Julgamento em 22/04/1997)
+
+Seguindo a mesma linha, o STF também já considerou imune a renda obtida pelo SESC com a venda de
+ingressos de cinema público em geral, conforme vemos abaixo:
+
+EMENTA: IMUNIDADE TRIBUTARIA. CF, ART. 150, VI, C. SERVIÇO SOCIAL DO COMERCIO - SESC.
+IMPOSTO SOBRE SERVIÇOS. PRESTAÇÃO DE SERVIÇOS DE DIVERSÃO PÚBLICA. A renda obtida pelo SESC
+na prestação de serviços de diversão pública, mediante a venda de ingressos de cinema ao público
+                                                         ==219a34==
+
+
+
+
+em geral, e aproveitada em suas finalidades assistenciais, estando abrangida na imunidade tributaria
+prevista no art. 150, VI, c, da Carta Republica.
+
+(STF, AI 155.822/SP, Primeira Turma, Rel. Min. Ilmar Galvão, Julgamento em 20/09/1994)
+
+
+
+
+Para o STF, as escolas de ensino profissionalizante estão enquadradas no rol de entidades do art. 150, VI, c.
+Cite-se, como exemplo, o SENAC e o SENAI.
+
+Em suma, desde que o patrimônio, a renda e os serviços da entidade imune estejam relacionados com suas
+finalidades essenciais, a entidade continua imune. Isso é o que você deve guardar para a prova, tanto no
+que se refere à imunidade religiosa como na que estamos tratando neste tópico.
+
+Além disso, também já decidiu o STF que, ainda que os imóveis estejam sendo utilizados como escritório e
+residência de membro da entidade, continuam imunes:
+
+Instituições de educação e assistência social sem fins lucrativos (...). O fato de os imóveis estarem
+sendo utilizados como escritório e residência de membros da entidade não afasta a imunidade
+prevista no art. 150, VI, alínea c, § 4º, da CF."
+
+(STF, RE 221.395, Segunda Turma, Rel. Min. Marco Aurélio, Julgamento em 08/02/2000)
+
+Diferentemente do que acaba de ser visto, em 2010, a Segunda Turma do STF havia afastado a aplicação da
+imunidade prevista no art. 150, VI, “c”, da CF/88, aos terrenos baldios sem vinculação às finalidades
+essenciais das entidades imunes.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          19
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 02
+
+
+
+Contudo, em 2013, a Primeira Turma da Colenda Corte, de forma divergente, decidiu que a constatação de
+que imóvel vago ou sem edificação não seria suficiente, por si só́, para destituir a garantia constitucional
+da imunidade tributária. A ementa do julgamento do RE 385.091/DF foi parcialmente transcrita abaixo:
+
+EMENTA: Imunidade. Entidade de assistência social. Artigo 150, VI, c, CF. Imóvel vago. Finalidades
+essenciais. Presunção. Ônus da prova.
+
+1. A regra de imunidade compreende o reverso da atribuição de competência tributária. Isso porque a
+norma imunitória se traduz em um decote na regra de competência, determinando a não incidência da
+regra matriz nas áreas protegidas pelo beneplácito concedido pelo constituinte.
+
+(...)
+
+3. No caso da imunidade das entidades beneficentes de assistência social, a Corte tem conferido
+interpretação extensiva à respectiva norma, ao passo que tem interpretado restritivamente as normas
+de isenção.
+
+(...)
+
+5. A constatação de que um imóvel está vago ou sem edificação não é suficiente, por si só, para
+destituir a garantia constitucional da imunidade. A sua não utilização temporária deflagra uma
+neutralidade que não atenta contra os requisitos que autorizam o gozo e a fruição da imunidade.
+
+6. Recurso extraordinário a que se nega provimento.
+
+
+
+(STF, Primeira Turma, RE 385.091/DF, Min. Rel. Dias Toffoli, Julgamento em 06/08/2013)
+
+Certamente, tal divergência entre as turmas causa dúvidas no candidato sobre qual posicionamento levar
+para a prova. A orientação mais sensata é a de que seja seguido o mais recente julgamento, direcionado à
+manutenção da referida imunidade, em caso de imóvel vagos ou sem edificação.
+
+É possível que também seja cobrada esta jurisprudência, fixada na tese de repercussão geral Tema 693:
+
+         A imunidade tributária prevista no art. 150, VI, c, da CF/88 aplica-se aos bens imóveis,
+         temporariamente ociosos, de propriedade das instituições de educação e de assistência
+         social sem fins lucrativos que atendam os requisitos legais. (STF, RE 767332)
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        20
+         www.estrategiaconcursos.com.br                                                                  54
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+QUESTÃO INÉDITA
+A imunidade tributária prevista no art. 150, VI, c, da CF/88 aplica-se aos bens imóveis, temporariamente
+ociosos, de propriedade das instituições de educação e de assistência social sem fins lucrativos que atendam
+os requisitos legais.
+Comentário: Esta questão é uma “copia” dos julgados do STF. Não se assuste se você vir uma questão igual
+a essa na sua próxima prova. Retrata o mais recente entendimento do STF. Por tal motivo, só pode estar
+correta.
+Gabarito: Correta
+
+O STF também já considerou imune em relação ao ICMS incidente sobre a comercialização de bens
+produzidos pelas entidades previstas no art. 150, VI, “c”:
+
+“O Plenário do Supremo Tribunal Federal, ao apreciar o RE 210.251 - EDv/SP, fixou entendimento
+segundo o qual as entidades de assistência social são imunes em relação ao ICMS incidente sobre a
+comercialização de bens por elas produzidos, nos termos do art. 150, VI, "c" da Constituição.
+Embargos de divergência conhecidos, mas improvidos.”
+
+(STF, RE 186.175 ED-EDv/SP, Pleno, Rel. Min. Ellen Gracie, Julgamento em 23/08/2006
+
+Embora já tenha havido decisões em sentido contrário em ocasiões anteriores, atualmente, o entendimento
+predominante no STF é o de que a imunidade das entidades de assistência social abrange o ICMS incidente
+sobre a comercialização de bens por elas produzidos.
+
+Esse posicionamento foi corroborado pelo STJ, no julgamento do RMS 46.170-MS, ao reafirmar que a
+jurisprudência do STF é firme no sentido de que a imunidade prevista no art. 150, VI, c, da CF também se
+aplica ao ICMS, desde que a atividade seja relacionada com as finalidades essenciais da entidade.
+
+Contudo, o STJ (RMS 46.170-MS, julgado em 23/10/2014) ressaltou que tal imunidade não se aplica em
+relação ao ICMS decorrente da prática econômica desenvolvida por entidade de assistência social sem fins
+lucrativos que tem por finalidade realizar ações que visem à promoção da pessoa com deficiência, quando
+desempenhar atividade franqueada da Empresa Brasileira de Correios e Telégrafos (ECT).
+
+
+
+
+Admite-se a imunidade de ICMS incidente sobre os bens utilizados na prestação dos serviços específicos
+da entidade imune, mas sobre atividade econômica que foge dos seus fins institucionais.
+
+No caso concreto, a entidade alegava se tratar de Instituição de Educação e Assistência Social sem fins
+lucrativos e que, após processo licitatório, tornou-se franqueada da ECT - Empresa Brasileira de Correios e
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         21
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Telégrafos, cuja renda obtida é integralmente revertida aos seus fins institucionais. Em suma, defende que
+todos os resultados de eventuais vendas é revertido em benefício das suas atividades básicas e essenciais, e
+que a cobrança do ICMS resultaria em um déficit de receita, afetando a eficiência da assistência social, que
+substitui o papel que deveria ser exercido pelo Estado.
+
+Dessa forma, ainda que a renda obtida pela entidade seja revertida em prol de suas atividades essenciais, a
+imunidade em relação ao ICMS não pode ser concedida no caso, porquanto a atividade econômica
+fraqueada dos Correios foge dos fins institucionais da entidade, ou seja, o serviço prestado não possui
+relação com seus trabalhos na área de assistência social.
+
+
+
+
+Memorize para a prova: desempenho de atividade franqueada da ECT por entidade de assistência social sem
+fins lucrativos não a isenta do ICMS incidente sobre as operações.
+
+No que se refere à figura do contribuinte de fato (adquirente de mercadorias ou serviços), o entendimento
+do STF é o mesmo aplicável à imunidade recíproca (também visto nesta aula):
+
+EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. ENTIDADE SEM
+FINS LUCRATIVOS. IMUNIDADE RECÍPROCA. IMPOSSIBLIDADE. BENEFÍCIO DA IMUNIDADE NÃO
+ALCANÇA CONTRIBUINTE DE FATO. AGRAVO IMPROVIDO. I – Entidade educacional que não é
+contribuinte de direito do ICMS relativo a serviço de energia elétrica, não tem benefício da imunidade
+em questão, uma vez que esta não alcança o contribuinte de fato.
+
+(STF, AI 731.786-AgR/SC, Primeira Turma, Rel. Min. Ricardo Lewandowski, Julgamento em 19/10/2010)
+
+Além de tais casos, devemos guardar que a imunidade prevista no art. 150, VI, c, da CF/88, também “abrange
+o Imposto de Importação e o Imposto sobre Produtos Industrializados, que incidem sobre bens a serem
+utilizados na prestação de seus serviços específicos” (STF, RE 243.807):
+
+EMENTA: IMUNIDADE TRIBUTÁRIA. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS E IMPOSTO DE
+IMPORTAÇÃO. ENTIDADE DE ASSISTÊNCIA SOCIAL. IMPORTAÇÃO DE "BOLSAS PARA COLETA DE
+SANGUE". A imunidade prevista no art. 150, VI, c, da Constituição Federal, em favor das instituições de
+assistência social, abrange o Imposto de Importação e o Imposto sobre Produtos Industrializados, que
+incidem sobre bens a serem utilizados na prestação de seus serviços específicos. Jurisprudência do
+Supremo Tribunal Federal. Recurso não conhecido.
+
+(STF, Primeira Turma, RE 243.807/SP, Rel. Min. Ilmar Galvão, Julgamento em 15/02/2000)
+
+Ainda sobre as operações de importação, a Suprema Corte também decidiu que a imunidade alcança o ICMS
+incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos:
+
+Nesse sentido, temos um julgado interessante do STF (Tema 336 de Repercussão Geral), em que considera
+entidades religiosas como tendo o caráter assistencialista:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          22
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+         As entidades religiosas podem se caracterizar como instituições de assistência social a fim
+         de se beneficiarem da imunidade tributária prevista no art. 150, VI, c, da Constituição, que
+         abrangerá não só os impostos sobre o seu patrimônio, renda e serviços, mas também os
+         impostos sobre a importação de bens a serem utilizados na consecução de seus objetivos
+         estatutários. (STF, RE 630790)
+
+
+
+
+                                                 Vamos memorizar!
+
+Importação de bens utilizados na prestação de serviços específicos de entidade de assistência social:
+abrange II, IPI e ICMS!
+
+Destaque-se que tal imunidade estende-se ao Imposto sobre operações financeiras (IOF), conforme tese
+fixada pelo STF (Tema 328):
+
+“A imunidade assegurada pelo art. 150, VI, ‘c’, da Constituição da República aos partidos políticos, inclusive
+suas fundações, às entidades sindicais dos trabalhadores e às instituições de educação e de assistência social,
+sem fins lucrativos, que atendam aos requisitos da lei, alcança o IOF, inclusive o incidente sobre aplicações
+financeiras”.
+
+Observe que nas operações de importação e financeiras também há similaridade com a imunidade recíproca.
+
+No tocante às atividades exercidas pelas entidades imunes, o STF já estendeu o conceito ao ensino de línguas
+estrangeiras, conforme o julgado abaixo:
+
+“O ensino de línguas estrangeiras caracteriza-se como atividade educacional para aplicação da
+imunidade tributária (art. 150, VI, c, da Constituição). A distinção relevante para fins de aplicação da
+imunidade tributária é o conceito de ‘atividade assistencial’, isto é, a intensidade e a abrangência da
+prestação gratuita ou altamente subsidiada do ensino da língua inglesa a quem necessitar.”
+
+(STF, RMS 24.283-AgR-segundo, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento em
+21/09/2010)
+
+Ainda ressaltamos que há presunção de que os imóveis pertencentes às entidades assistenciais estejam
+afetados aos seus fins institucionais:
+
+EMENTA Embargos de declaração no agravo regimental no agravo de instrumento. IPTU. Imunidade.
+Condicionante da vinculação às finalidades essenciais. Presunção. Ônus da prova. Integração do
+julgado.
+
+1. A vedação à instituição de impostos sobre o patrimônio e a renda das entidades reconhecidamente
+de assistência social que estejam vinculados às suas finalidades essenciais é uma garantia
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            23
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+constitucional. Por seu turno, existe a presunção de que o imóvel da entidade assistencial esteja
+afetado a destinação compatível com seus objetivos e finalidades institucionais.
+
+2. O afastamento da imunidade só pode ocorrer mediante a constituição de prova em contrário
+produzida pela administração tributária.
+
+3. Embargos de declaração acolhidos para integrar o julgado, sem efeitos modificativos.
+
+(STF, Primeira Turma, AI 746263 AgR-ED/MG, Rel. Min. Dias Toffoli Marques, Julgamento em
+12/11/2013)
+
+Por fim, no que se refere às entidades fechadas de previdência privada que cobram contribuição dos seus
+beneficiários, também não estão albergadas pela imunidade ora em apreço. Previdência não é assistência
+social e, portanto, o STF entende descabida essa equiparação.
+
+Por outro lado, caso a entidade fechada de previdência privada não cobre contribuição dos seus beneficiários
+e seja custeada apenas com recursos do patrocinador, é possível considerá-la imune. Sobre o tema, segue
+abaixo importante súmula do STF:
+
+SÚMULA STF 730 - A imunidade tributária conferida a instituições de assistência social sem fins
+lucrativos pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas de previdência
+social privada se não houver contribuição dos beneficiários.
+
+
+Imunidade Cultural
+
+A imunidade cultural está prevista no art. 150, VI, d, e abrange os livros, jornais, periódicos e o papel
+destinado à sua impressão. A respeito dessa imunidade, a jurisprudência consagrada no STF era a de que,
+além dos livros, jornais, periódicos e o papel destinado à sua impressão, também estavam imunes os outros
+insumos assimiláveis ao papel.
+
+
+
+
+Embora o texto do art. 150, VI, se refira aos impostos “é vedado instituir imposto sobre...”, temos que
+interpretá-lo em conjunto com outras regras constitucionais.
+
+Assim, com a EC 132/2023 (Reforma Tributária), foi introduzido o art. 149-B, que trata de regras comuns
+relativas aos novos tributos (Imposto sobre Bens e Serviços e Contribuição sobre Bens e Serviços).
+
+Ocorre que o par. único, do art. 149-B, estabeleceu que as imunidades do art. 150, VI, também se aplicam à
+CBS, que não pode ser confundida com imposto.
+
+Portanto, atualmente, a imunidade cultural alcança impostos e também a Contribuição sobre Bens e
+Serviços (CBS).
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         24
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Foi nessa linha que o STF demonstrou, por meio da Súmula 657, que a imunidade cultural abrange os filmes
+e papéis fotográficos necessários à publicação de jornais e periódicos:
+
+Súmula STF 657 - A imunidade prevista no art. 150, VI, d, da CF abrange os filmes e papéis fotográficos
+necessários à publicação de jornais e periódicos.
+
+Ocorre que, ao julgar o Recurso Extraordinário 202.149, a Primeira Turma do STF chegou a considerar que a
+imunidade tributária relativa a livros, jornais e periódicos é ampla, total, apanhando produto, maquinário e
+insumos. A referência, no preceito, a papel seria, então, meramente exemplificativa e não exaustiva.
+
+Contudo, posteriormente, o Min. Celso de Mello admitiu e julgou embargos de divergência (DJe 16/04/2015),
+apresentados pela União, ocasião em que demonstrou que a decisão tomada pela Primeira Turma divergia
+da jurisprudência consagrada do STF, conhecendo e dando provimento ao recurso extraordinário da União.
+
+Sem nos aprofundarmos neste momento no rito processual, para nossa prova, isso significa que, atualmente,
+é recomendável seguir o entendimento mais restritivo, qual seja: apenas estão imunes livros, jornais,
+periódicos e o papel destinado a sua impressão, bem como aqueles assimiláveis ao papel!
+
+Nessa mesma linha, em maio de 2018, a Primeira Turma do STF (AI 735.816 AgR), decidiu que a imunidade
+cultural não pode ser interpretada de modo amplo e irrestrito. Com isso, o STF decidiu que inexiste
+imunidade relativa a tributos incidentes sobre a importação de tintas e chapas de gravação destinadas à
+publicação de jornal.
+
+Resumindo, temos um julgamento em sede de repercussão geral (Tema 259), em que a Corte reforça o
+entendimento de que a imunidade cultura não é irrestrita:
+
+        A imunidade da alínea d do inciso VI do artigo 150 da Constituição Federal alcança
+        componentes eletrônicos destinados, exclusivamente, a integrar unidade didática com
+        fascículos. (STF, RE 595676)
+
+
+
+
+QUESTÃO INÉDITA
+No que se refere à imunidade prevista no art. 150, VI, “d”, da CF/88, apesar de o texto constitucional se
+referir apenas aos livros, jornais, periódicos e o papel destinado a sua impressão, o entendimento do STF é
+o de que a imunidade alcança também os maquinários utilizados na impressão de tais objetos.
+
+Comentário: Há entendimento do STF (RE 273.308/SP) no sentido da não aplicabilidade da imunidade
+cultural aos maquinários utilizados na impressão de livros, jornais e periódicos.
+
+Gabarito: Errada
+
+Acrescente-se que não há proteção constitucional à prestação de serviços de composição gráfica a terceiros:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          25
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+Ementa: AGRAVO REGIMENTAL. TRIBUTÁRIO. IMUNIDADE. LIVRO, JORNAL, PERIÓDICO E O PAPEL
+DESTINADO À RESPECTIVA IMPRESSÃO. PRETENDIDA EXTENSÃO AOS SERVIÇOS DE COMPOSIÇÃO
+GRÁFICA E DE IMPRESSÃO POSTOS À DISPOSIÇÃO DO MERCADO CONSUMIDOR. IMPOSSIBILIDADE.
+ART. 150, VI, D DA CONSTITUIÇÃO. A imunidade tributária prevista no art. 150, VI, d da Constituição
+não alcança os serviços de composição gráfica ou de impressão onerosos, oferecidos a terceiros
+interessados.
+
+(STF, RE 723.018-AgR/MG,Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento em 06/03/2012)
+
+Faz-se necessário saber também que a imunidade cultural é objetiva, não se estendendo, por exemplo, às
+editoras, aos autores etc.
+
+EMENTA: TRIBUTÁRIO. ANISTIA DO ART. 150, VI, D, DA CONSTITUIÇÃO FEDERAL. IPMF. EMPRESA
+DEDICADA À EDIÇÃO, DISTRIBUIÇÃO E COMERCIALIZAÇÃO DE LIVROS, JORNAIS, REVISTAS E
+PERIÓDICOS. Imunidade que contempla, exclusivamente, veículos de comunicação e informação
+escrita, e o papel destinado a sua impressão, sendo, portanto, de natureza objetiva, razão pela qual
+não se estende às editoras, autores, empresas jornalísticas ou de publicidade -- que permanecem
+sujeitas à tributação pelas receitas e pelos lucros auferidos. Consequentemente, não há falar em
+imunidade ao tributo sob enfoque, que incide sobre atos subjetivados (movimentação ou transmissão
+de valores e de créditos e direitos de natureza financeira). Recurso conhecido e provido.
+
+(RE 206.774, Rel. Min. Ilmar Galvão, julgamento em 3/8/1999)
+
+Ainda sobre o conceito objetivo da imunidade cultural, a jurisprudência do STF é firme no sentido de que os
+serviços de distribuição de livros, jornais e periódicos não são considerados imunes:
+
+EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ISS. IMUNIDADE
+TRIBUTÁRIA. ALÍNEA “D” DO INCISO VI DO ART. 150 DA CONSTITUIÇÃO REPUBLICANA. DISTRIBUIÇÃO
+DE PERIÓDICOS, REVISTAS, PUBLICAÇÕES, JORNAIS E LIVROS. NÃO ABRANGÊNCIA. 1. A jurisprudência
+do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido de que a
+distribuição de periódicos, revistas, publicações, jornais e livros não está abrangida pela imunidade
+tributária da alínea “d” do inciso VI do art. 150 do Magno Texto 2. Agravo regimental desprovido.
+
+(STF, RE 630.462-AgR/PR, Segunda Turma, Rel. Min. Ayres Britto, Julgamento em 07/02/2012)
+
+Nesse mesmo sentido, não são consideradas imunes as operações financeiras realizadas pelas empresas que
+fabricam os produtos imunes:
+
+"Ementa: (...) II – A imunidade prevista no art. 150, VI, d, da Lei Maior não abrange as operações
+financeiras realizadas pela agravante. III – Agravo regimental improvido."
+
+(STF, RE 504.615-AgR/SP, Primeira Turma, Rel. Min. Ricardo Lewandowski, Julgamento em 03/05/2011)
+
+Além disso, não há que se falar em análise do valor cultural, como requisito para conceder a imunidade.
+Nessa linha, temos o seguinte julgado:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        26
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+“EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. ART. 150, VI, "D" DA CF/88. "ÁLBUM DE
+FIGURINHA". ADMISSIBILIDADE. 1. A imunidade tributária sobre livros, jornais, periódicos e o papel
+destinado à sua impressão tem por escopo evitar embaraços ao exercício da liberdade de expressão
+intelectual, artística, científica e de comunicação, bem como facilitar o acesso da população à cultura,
+à informação e à educação. 2. O Constituinte, ao instituir esta benesse, não fez ressalvas quanto ao
+valor artístico ou didático, à relevância das informações divulgadas ou à qualidade cultural de uma
+publicação. (...)”
+
+(STF, RE 221.239/SP, Rel. Min. Ellen Gracie, julgamento em 25/05/2004)
+
+De acordo com o STF, “os álbuns de figurinhas e os respectivos cromos adesivos estão alcançados pela
+imunidade tributária prevista no art. 150, VI, “d”, da Constituição Federal”.
+
+A referida imunidade também abrange as apostilas:
+
+“EMENTA: IMUNIDADE. IMPOSTOS. LIVROS, JORNAIS, PERIÓDICOS E PAPEL DESTINADO À IMPRESSÃO.
+APOSTILAS. O preceito da alínea "d" do inciso VI do artigo 150 da Carta da República alcança as
+chamadas apostilas, veículo de transmissão de cultura simplificado.”
+
+(STF,RE 183.403/SP, Segunda Turma, Rel. Min. Marco Aurélio, Julgamento em 07/11/2000)
+
+Destaque-se que a inserção de anúncios e publicidade em listas telefônicas, com o objetivo de permitir a
+divulgação das informações a custo zero para os assinantes, não descaracteriza a imunidade em tela:
+
+“EMENTA: IMUNIDADE. LISTAS TELEFÔNICAS. ANÚNCIO E PUBLICIDADE. O fato de as edições das listas
+telefônicas veicularem anúncios e publicidade não afasta o benefício constitucional da imunidade. A
+inserção visa a permitir a divulgação das informações necessárias ao serviço público a custo zero para
+os assinantes (...).”
+
+(RE 199.183/SP, Rel. Min. Marco Aurélio, julgamento em 17/4/1998)
+
+
+
+
+QUESTÃO INÉDITA
+O fato de as edições das listas telefônicas veicularem anúncios e publicidade afasta o benefício constitucional
+da imunidade.
+
+Comentário: Não foi isso que estudamos. De acordo com o STF, o fato de as listas telefônicas veicularem
+anúncios não afasta a imunidade do art. 150, VI, “d”. O objetivo da publicidade é permitir a divulgação das
+listas a custo zero para os assinantes.
+
+Gabarito: Errada
+
+No entanto, é de se ressaltar que os encartes de propaganda com exclusiva índole comercial não podem ser
+considerados imunes, como vemos a seguir:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            27
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+“EMENTA: TRIBUTÁRIO. ENCARTES DE PROPAGANDA DISTRIBUÍDOS COM JORNAIS E PERIÓDICOS. ISS.
+ART. 150, VI, d, DA CONSTITUIÇÃO. Veículo publicitário que, em face de sua natureza propagandística,
+de exclusiva índole comercial, não pode ser considerado como destinado à cultura e à educação,
+razão pela qual não está abrangido pela imunidade de impostos prevista no dispositivo constitucional
+sob referência, a qual, ademais, não se estenderia, de qualquer forma, às empresas por eles
+responsáveis, no que concerne à renda bruta auferida pelo serviço prestado e ao lucro líquido obtido.”
+
+(RE 213.094/ES, Rel. Min. Ilmar Galvão, julgamento em 22/6/1999)
+
+Ainda no que diz respeito à imunidade cultural, cabe destacarmos que, no Recurso Extraordinário
+330.817/RJ, com repercussão geral reconhecida, o Estado do Rio de Janeiro questionava decisão do Tribunal
+de Justiça local (TJ-RJ) que, em mandado de segurança impetrado pela editora, reconheceu a existência da
+imunidade prevista no artigo 150 (inciso VI, alínea “d”) da Constituição Federal ao software denominado
+Enciclopédia Jurídica Eletrônica e ao disco magnético (CD ROM)
+
+O art. 150, VI, “d”, da CF/88, prevê a imunidade dos impostos sobre os livros, jornais e periódicos, assim
+como o papel destinado à sua impressão. É evidente que em 1988, quando da promulgação da Constituição
+Federal, não se tinha noção de que a tecnologia possibilitaria a leitura de livros por aparelhos eletrônicos
+portáteis. Por tal razão, não há qualquer previsão constitucional quanto à imunidade dos livros digitais.
+
+Nesse julgamento, o STF teve a oportunidade de decidir que livros eletrônicos são imunes. Cabe destacar,
+ainda, que tais materiais dependem de um equipamento próprio para sua leitura, isto é, o acesso aos livros
+eletrônicos não é possível sem um e-reader. Em vista disso, a Suprema Corte também decidiu que a
+imunidade abrange também os suportes exclusivos para leitura e armazenamento, além de componentes
+eletrônicos que acompanhem material didático.
+
+Se a extensão da imunidade cultural aos livros eletrônicos já era considerada muito relevante, o tema tomou
+ainda mais relevância para as próximas provas de concursos púbicos com a aprovação, em abril de 2020, da
+Súmula Vinculante 57, cujo enunciado é o seguinte:
+
+Súmula Vinculante 57 - A imunidade tributária constante do artigo 150, VI, d, da CF/88 aplica-se à
+importação e comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes
+exclusivamente utilizados para fixá-los, como leitores de livros eletrônicos (e-readers), ainda que
+possuam funcionalidades acessórias
+
+
+
+
+Livros digitais e os equipamentos eletrônicos destinados à sua leitura são imunes da incidência de
+impostos! Isso vai cair nas próximas provas! É a Súmula Vinculante 57!
+
+Alguns detalhes importantes:
+
+1) Abrange audiolivros;
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         28
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+2) Abrange leitores de livros digitais, mesmo que tenham funções acessórias;
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com a jurisprudência do STF, a imunidade cultural alcança tão somente os livros impressos, não
+alcançando as mesmas publicações em meio eletrônico.
+
+Comentário: O STF decidiu por unanimidade que a imunidade cultural também alcança os livros eletrônicos,
+assim como os suportes exclusivos para leitura e armazenamento, além de componentes eletrônicos que
+acompanhem material didático.
+
+Gabarito: Errada
+
+
+Imunidade em favor da produção musical brasileira
+
+Nesse momento, vamos tratar de uma emenda constitucional, que acrescentou mais uma imunidade ao
+texto constitucional, que afeta diretamente o tema estudado na aula de hoje. Trata-se da EC 75/2013, cujo
+projeto foi denominado PEC da Música. Vamos ver o que diz o seu texto:
+
+        “Art. 1º O inciso VI do art. 150 da Constituição Federal passa a vigorar acrescido da seguinte
+        alínea e:
+
+        VI . instituir impostos sobre:
+
+        e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais
+        ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas
+        brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo
+        na etapa de replicação industrial de mídias ópticas de leitura a laser.”
+
+O que isso significa? A emenda trouxe mais uma imunidade tributária.
+
+
+
+
+        Lembre-se do que estudamos na semana passada: é permitido que uma emenda
+        constitucional venha acrescentar novos direitos aos contribuintes, instituindo outras
+        limitações ao poder de tributar!
+
+Vamos entender os termos mencionados no dispositivo constitucional:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         29
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+         Fonogramas → Registro sonoro em suporte material (CDs ou disco de vinil)
+
+         Videofonogramas → Registro de imagem e som em suporte material (DVDs).
+
+         Obras Musicais → Relativas a música.
+
+         Obras Literomusicais → Espetáculos ou reunião social em que se leem trechos literários
+         ou poemas e que há apresentações musicais.
+
+Enfim, você deve saber o seguinte:
+
+       1. Os fonogramas e videofonogramas devem ser produzidos no Brasil;
+       2. As obras não precisam ser dos autores brasileiros. Entretanto, devem ser, no mínimo,
+          interpretadas por artistas brasileiros;
+       3. Abrange os suportes materiais ou arquivos digitais que os contenham;
+       4. A etapa de replicação industrial de mídias ópticas de leitura a laser não está imune.
+
+Agora vem a parte que nos interessa em nosso curso jurisprudencial: a jurisprudência do STF acerca dessa
+imunidade, no sentido da inaplicabilidade da referida imunidade quanto à importações de suportes materiais
+produzidos fora do Brasil, memo que contenham obras de artistas brasileiros:
+
+      A imunidade tributária prevista no art. 150, inciso VI, alínea e, da Constituição Federal não se
+      aplica às importações de suportes materiais produzidos fora do Brasil, ainda que contenham obra
+      musical de artista brasileiro. (STF, Tema 1083)
+
+
+
+
+Demais Imunidades da CF/88
+
+Vamos tratar neste tópico dos principais julgados, referentes às demais imunidades distribuídas no texto
+constitucional.
+
+5. Vilipêndio do dever fundamental de prestação de serviços de saúde (art. 196 da Constituição), pois o
+bem tributado é equipamento médico (sistema de tomografia computadorizada). Impossibilidade. Não
+há imunidade à tributação de operações ou bens relacionados à saúde. Leitura do princípio da
+seletividade.
+
+(STF, RE 429.306/PR, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento 01/02/2011)
+
+Para facilitar a compreensão, segue abaixo trecho do voto do Min. Rel. Joaquim Barbosa:
+
+O princípio da seletividade impõe que o poder público gradua a carga tributária conforme a essencialidade
+da operação ou do produto. Isto não significa haver imunidade, ainda que as operações ou os bens sejam
+essenciais ao ser humano. Em especial, há que ser considerado o princípio da capacidade contributiva, da
+concorrência e da livre iniciativa, considerado o postulado da solidariedade no custeio das atividades estatais.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             30
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 02
+
+
+
+Outro ponto a ser destacado diz respeito à imunidade sobre as contribuições sociais bem como as CIDE, no
+que se refere a operações de exportação:
+
+“Ementa: (...) 4. A imunidade prevista no art. 149, § 2º, I, da Constituição, introduzida pela Emenda
+Constitucional nº 33/2001, não alcança a Contribuição Social sobre o Lucro Líquido (CSLL), haja vista
+a distinção ontológica entre os conceitos de lucro e receita. (...) 7. A norma de exoneração tributária
+prevista no art. 149, § 2º, I, da Constituição também não alcança a Contribuição Provisória sobre
+Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF),
+pois o referido tributo não se vincula diretamente à operação de exportação. A exação não incide
+sobre o resultado imediato da operação, mas sobre operações financeiras posteriormente realizadas.
+8. Recurso extraordinário a que se nega provimento.”
+
+(STF, RE 474.132/SC, Pleno, Rel. Min Gilmar Mendes, Julgamento em 12/08/2010)
+
+Veja que, para o STF, o conceito de exportação é restrito, não se entendendo para outras situações
+decorrentes daquela.
+
+
+
+
+QUESTÃO INÉDITA
+O STF entende que a imunidade referente às contribuições sociais e contribuições de intervenção no domínio
+econômico sobre receitas decorrentes de operações de exportação abrange também a Contribuição Social
+sobre o Lucro Líquido, dado que o lucro pressupõe receita.
+
+Comentário: O entendimento do STF é o de que somente a operação diretamente relacionada à exportação
+está imune à tributação.
+
+Gabarito: Errada
+
+Outro ponto importante, sobretudo por ser cobrado com certa riqueza de detalhes pelas bancas
+examinadoras, é o art. 195, § 7º, da CF/88, estabelece o seguinte:
+
+Art. 195 - (...):
+
+§ 7º - São isentas de contribuição para a seguridade social as entidades beneficentes de assistência
+social que atendam às exigências estabelecidas em lei.
+
+
+
+
+Assim, com a EC 132/2023 (Reforma Tributária), foi introduzido o art. 149-B, que trata de regras comuns
+relativas aos novos tributos (Imposto sobre Bens e Serviços e Contribuição sobre Bens e Serviços).
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        31
+          www.estrategiaconcursos.com.br                                                                  54
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Ocorre que o par. único, do art. 149-B, estabeleceu que a imunidade do art. 195, § 7º não se aplica à CBS
+nem ao IBS.
+
+Embora o texto constitucional afirme se tratar de isenção, tenha muito cuidado, pois é uma clara imunidade,
+afinal, é uma limitação ao poder de tributar.
+
+Observação: Tenha muito cuidado com as questões literais, que podem transcrever a literalidade
+do texto constitucional, algo que será indubitavelmente correto.
+
+E, por se tratar de limitação ao poder de tributar, o art. 146, II, da CF/88, determina que sua regulação ocorre
+por meio de lei complementar. Assim sendo, revogando a Lei 12.101/09, foi editada a LC 187/2021, que
+dispõe sobre a certificação das entidades beneficentes e regula os procedimentos referentes à imunidade
+de contribuições à seguridade social de que trata o § 7º do art. 195 da Constituição Federal.
+
+Por se tratar de uma prova de Direito Tributário, você não precisa ler esta norma por completo, mas apenas
+ter uma noção de quais são as disposições e exigências ali contidas, o que iremos falar resumidamente agora.
+
+Art. 2º Entidade beneficente, para os fins de cumprimento desta Lei Complementar, é a pessoa
+jurídica de direito privado, sem fins lucrativos, que presta serviço nas áreas de assistência social,
+de saúde e de educação, assim certificada na forma desta Lei Complementar.
+
+O art. 3º, da LC 187/21 estabeleceu que para fazerem jus à imunidade as entidades beneficentes que atuem
+nas áreas da saúde, da educação e da assistência social devem atender , cumulativamente, aos seguintes
+requisitos:
+
+I - não percebam seus dirigentes estatutários, conselheiros, associados, instituidores ou benfeitores
+remuneração, vantagens ou benefícios, direta ou indiretamente, por qualquer forma ou título, em razão das
+competências, das funções ou das atividades que lhes sejam atribuídas pelos respectivos atos constitutivos;
+
+II - apliquem suas rendas, seus recursos e eventual superávit integralmente no território nacional, na
+manutenção e no desenvolvimento de seus objetivos institucionais;
+
+III - apresentem certidão negativa ou certidão positiva com efeito de negativa de débitos relativos aos
+tributos administrados pela Secretaria Especial da Receita Federal do Brasil e pela Procuradoria-Geral da
+Fazenda Nacional, bem como comprovação de regularidade do Fundo de Garantia do Tempo de Serviço
+(FGTS);
+
+IV - mantenham escrituração contábil regular que registre as receitas e as despesas, bem como o registro em
+gratuidade, de forma segregada, em consonância com as normas do Conselho Federal de Contabilidade e
+com a legislação fiscal em vigor;
+
+V - não distribuam a seus conselheiros, associados, instituidores ou benfeitores seus resultados, dividendos,
+bonificações, participações ou parcelas do seu patrimônio, sob qualquer forma ou pretexto, e, na hipótese de
+prestação de serviços a terceiros, públicos ou privados, com ou sem cessão de mão de obra, não transfiram
+a esses terceiros os benefícios relativos à imunidade prevista no § 7º do art. 195 da Constituição Federal;
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             32
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+VI - conservem, pelo prazo de 10 (dez) anos, contado da data de emissão, os documentos que comprovem a
+origem e o registro de seus recursos e os relativos a atos ou a operações realizadas que impliquem
+modificação da situação patrimonial;
+
+VII - apresentem as demonstrações contábeis e financeiras devidamente auditadas por auditor independente
+legalmente habilitado nos Conselhos Regionais de Contabilidade, quando a receita bruta anual auferida for
+superior ao limite fixado pelo inciso II do caput do art. 3º da Lei Complementar nº 123, de 14 de dezembro de
+2006; e
+
+VIII - prevejam, em seus atos constitutivos, em caso de dissolução ou extinção, a destinação do eventual
+patrimônio remanescente a entidades beneficentes certificadas ou a entidades públicas.
+
+
+
+
+Não são imunes apenas as entidades com a finalidade de prestação de serviços na área de
+assistência social, mas também na área da saúde ou educação.
+
+Destaquei esse texto, porque anteriormente havia uma celeuma sobre a norma que definia algumas regras
+sobre tais entidades, por se tratar de lei ordinária. Porém, com a LC 187/21, este tema não precisa mais ser
+levado em consideração, trata-se de uma imunidade, regulada por lei complementar.
+
+
+
+
+QUESTÃO INÉDITA
+
+Acerca das imunidades tributárias, e considerando a jurisprudência do Supremo Tribunal Federal, assinale a
+opção correta:
+
+a) A entidade imune fica desobrigada do cumprimento de obrigações tributárias acessórias.
+
+b) A imunidade recíproca não se aplica às Caixas de Assistência dos Advogados.
+
+c) É irrelevante para definição da aplicabilidade da imunidade tributária recíproca a circunstância de a
+atividade desempenhada estar ou não sujeita a monopólio estatal.
+
+d) As pessoas que exercem atividade notarial são imunes à tributação.
+
+e) As sociedades de economia mista prestadoras de ações e serviços de saúde, ainda que seu capital social
+seja majoritariamente estatal, não gozam da imunidade tributária recíproca.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          33
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Comentário: A imunidade tributária representa uma limitação constitucional ao poder de tributar, afastando
+da competência tributária dos entes federativos a pessoa ou o objeto imune. Assim, toda e qualquer
+imunidade precisa estar prevista no texto constitucional.
+
+No art. 150, VI, da CF/88, temos as principais (não todas!) imunidades do nosso ordenamento jurídico, e tais
+imunidades ali previstas se restringem aos impostos.
+
+Letra A: Errada. A imunidade tributária não implica afastamento do dever de cumprir as obrigações
+acessórias. Assim, a entidade imune continua obrigada ao cumprimento de obrigações tributárias acessórias.
+
+Letra B: Errada. Anteriormente, o STF tinha o entendimento de que a imunidade recíproca não se aplicava
+às Caixas de Assistência dos Advogados. Porém, a jurisprudência atual é no sentido da aplicação do benefício
+constitucional.
+
+Letra C: Correta. O STF, ao julgar caso referente a Petrobras, decidiu que é irrelevante para definição da
+aplicabilidade da imunidade tributária recíproca a circunstância de a atividade desempenhada estar ou não
+sujeita a monopólio estatal. Afinal, o aspecto mais importante a se analisar é se a entidade presta serviços
+públicos ou explora atividade econômica com intuito lucrativo, como é o caso da Petrobras (não imune).
+
+Letra D: Errada. O STF já decidiu que As pessoas que exercem atividade notarial (tabeliães) não são imunes
+à tributação, por desenvolverem os respectivos serviços com intuito lucrativo.
+
+Letra E: Errada. O STF já julgou que as sociedades de economia mista prestadoras de ações e serviços de
+saúde, cujo capital social seja majoritariamente estatal, gozam da imunidade tributária recíproca.
+
+Caro aluno(a), por hoje é só!
+
+Um abraço e até a próxima aula!
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         34
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+            SÚMULAS ABORDADAS DURANTE A AULA
+Súmula STF 583: A imunidade recíproca não exonera o promitente comprador da obrigação de pagar
+imposto relativamente ao bem imóvel:
+
+Súmula STF 583 - Promitente-comprador de imóvel residencial transcrito em nome de autarquia é
+contribuinte do imposto predial territorial urbano.
+
+Súmula Vinculante 52:
+
+Súmula Vinculante 52 - Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel
+pertencente a qualquer das entidades referidas pelo art. 150, VI, “c”, da Constituição Federal, desde
+que o valor dos aluguéis seja aplicado nas atividades para as quais tais entidades foram constituídas.
+
+Súmula Vinculante 57:
+
+Súmula Vinculante 57 - A imunidade tributária constante do artigo 150, VI, d, da CF/88 aplica-se à
+importação e comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes
+exclusivamente utilizados para fixá-los, como leitores de livros eletrônicos (e-readers), ainda que
+possuam funcionalidades acessórias
+
+Súmula STF 730:
+
+Súmula STF 730 - A imunidade tributária conferida a instituições de assistência social sem fins lucrativos
+pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas de previdência social
+privada se não houver contribuição dos beneficiários.
+
+Súmula STF 657:
+
+Súmula STF 657 - A imunidade prevista no art. 150, VI, d, da CF abrange os filmes e papéis fotográficos
+necessários à publicação de jornais e periódicos.
+
+Súmula STF 659: Na CF/88, consta que, à exceção do II, IE e ICMS nenhum outro imposto poderá incidir sobre
+operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e
+minerais do País. A vedação diz respeito aos impostos, não alcançando as contribuições:
+
+Súmula STF 659 - É legítima a cobrança da COFINS, do PIS e do FINSOCIAL sobre as operações relativas
+a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do
+País.
+
+Além disso, o STF também decidiu que a exigência de renovação periódica do CEBAS não ofende o disposto
+no art. 146, II, da CF/88, que reserva à lei complementar regulação das limitações ao poder de tributar.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             35
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+
+
+1.CEBRASPE/TRF6-Analista Judiciário/2025
+
+Acerca das imunidades segundo a doutrina e a jurisprudência dos tribunais superiores, julgue o item a seguir.
+
+Nos termos da jurisprudência do STF, é inadmissível a aplicação retroativa da imunidade tributária, motivo
+por que a sucessão de determinado imóvel particular pela União não a desobrigará de pagar os tributos até
+então devidos pelo sucedido.
+
+Comentário: De acordo com a jurisprudência pacífica do STF (Tema 224), a imunidade tributária recíproca
+não exonera o sucessor das obrigações tributárias relativas aos fatos jurídicos tributários ocorridos antes da
+sucessão. Ou seja, o fato de a União (ente imune) ser sucessora de um imóvel anteriormente pertencente a
+entidade não imune não a desobriga do cumprimento de obrigações tributárias devidas até a data da
+sucessão.
+
+Gabarito: Certo
+
+2.CEBRASPE/TRF6-Analista Judiciário/2025
+
+Acerca das imunidades segundo a doutrina e a jurisprudência dos tribunais superiores, julgue o item a seguir.
+
+O rol constitucional das imunidades tributárias não pode ser ampliado por legislação comum.
+
+Comentário: O rol das imunidades tributárias previstas na Constituição Federal é taxativo, não admitindo
+ampliação por meio de lei ordinária ou complementar. Apenas uma emenda constitucional poderia
+acrescentar novas imunidades, já que estas são limitações constitucionais à competência tributária dos entes
+federados. Nesse sentido, destaca-se o art. 150, inciso VI, da Constituição Federal, que prevê expressamente
+a maioria das imunidades existentes, bem como a jurisprudência pacífica do STF.
+
+Gabarito: Certo
+
+3.FUNDATEC/Pref. Porto Alegre - Auditor Fiscal/2025
+
+Sobre obrigação tributária, assinale a alternativa INCORRETA.
+
+a) A obrigação principal surge com a ocorrência do fato gerador e tem por objeto uma obrigação de dar de
+natureza patrimonial.
+
+b) A obrigação acessória decorre da legislação tributária e tem por objeto uma obrigação de fazer ou não
+fazer.
+
+c) O gozo de imunidade tributária dispensa o contribuinte do cumprimento de obrigações acessórias
+referentes às prestações imunes.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           36
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+d) A moratória não dispensa o cumprimento das obrigações acessórias relativas aos fatos geradores por ela
+atingidos.
+
+e) As obrigações acessórias devem ser previstas no interesse da arrecadação ou da fiscalização dos tributos.
+
+Comentário: Nesta questão, vamos nos deparar com assuntos de outras aulas. Então, fique atento!
+
+Letra A: Correta. A obrigação principal decorre diretamente do fato gerador, consistindo em obrigação de
+dar, de natureza patrimonial, nos termos do art. 113, § 1º, do CTN.
+
+Letra B: Correta. A obrigação acessória é definida por legislação tributária e constitui obrigação de fazer ou
+não fazer, conforme art. 113, § 2º, do CTN.
+
+Letra C: Errada. A imunidade tributária não dispensa o cumprimento das obrigações acessórias relativas às
+prestações imunes, conforme art. 175, parágrafo único, do CTN, aplicável também às hipóteses de
+imunidade, segundo jurisprudência do STF (ARE 709.980 AgR).
+
+Letra D: Correta. A moratória apenas suspende a exigibilidade do crédito tributário, não dispensando o
+cumprimento das obrigações acessórias relativas ao tributo, conforme art. 151, parágrafo único, do CTN.
+
+Letra E: Correta. As obrigações acessórias têm finalidade instrumental e são estabelecidas pela legislação
+tributária visando à arrecadação ou à fiscalização tributária, nos termos do art. 113, § 2º, do CTN.
+
+Gabarito: C
+
+4.CEBRASPE/PGE-RN-Procurador/2024
+
+Uma sociedade de economia mista de determinado estado, prestadora de serviços com fins lucrativos,
+ajuizou ação declaratória de imunidade tributária perante a justiça estadual, requerendo o reconhecimento
+judicial da mutação constitucional quanto à aplicação da alínea “a” do inciso VI do art. 150 da CF, que versa
+acerca da imunidade recíproca entre os entes da Federação, ao vedar a instituição de “impostos sobre
+patrimônio, renda ou serviços uns dos outros”. A referida sociedade de economia mista sustentou que é
+prestadora de serviço público essencial e que efetua cobrança de tarifas de seus usuários, mas que isso não
+impede o reconhecimento da imunidade, uma vez que, embora reparta esporadicamente lucros entre seus
+acionistas, sua atividade é exercida em regime de monopólio estatal, de modo que entendia fazer jus ao
+reconhecimento da imunidade recíproca.
+
+Nessa situação hipotética, conforme o entendimento jurisprudencial do STF, a sociedade de economia mista
+em questão
+
+a) não faz jus à imunidade recíproca, porque, embora o intuito lucrativo e a cobrança de tarifa do usuário
+não sejam fatores impeditivos ao reconhecimento da imunidade, a política de distribuição de lucros entre
+acionistas privados, mesmo que em caráter esporádico, lhe retira a imunidade tributária.
+
+b) faz jus ao reconhecimento da imunidade recíproca, uma vez que exerce sua atividade em regime de
+monopólio, o que, por si só, assegura o reconhecimento da imunidade no caso.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           37
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+c) faz jus à imunidade recíproca, uma vez que a cobrança de tarifas dos usuários não é fator impeditivo ao
+reconhecimento da imunidade, mesmo que a sociedade tenha fins lucrativos e haja repartição esporádica
+de lucros entre seus acionistas privados.
+
+d) não faz jus à imunidade recíproca, por exigir tarifa de seus usuários e por ter fins lucrativos, o que viola a
+CF, não podendo haver conflito interno entre normas constitucionais.
+
+e) não faz jus à imunidade recíproca, por não estar abrangida pelas exceções estabelecidas expressamente
+na CF, as quais incluem, por exemplo, as autarquias e fundações instituídas e mantidas pelo poder público.
+
+Gabarito: A
+
+Comentário:
+
+Letra A: Correta. De acordo com o art. 150, VI, "a", da Constituição Federal, é vedado aos entes federativos
+instituir impostos sobre patrimônio, renda ou serviços uns dos outros (imunidade recíproca). Contudo, o
+Supremo Tribunal Federal entende que essa imunidade não se estende a sociedades de economia mista que
+distribuem lucros a acionistas privados, mesmo que esporadicamente. A distribuição de lucros a particulares
+afasta a imunidade, pois beneficia interesses privados.
+
+Letra B: Incorreta. O exercício de atividade em regime de monopólio não é suficiente para assegurar a
+imunidade recíproca se houver distribuição de lucros a acionistas privados. A imunidade visa proteger o
+interesse público, não podendo ser estendida a entidades que visam ao lucro privado.
+
+Letra C: Incorreta. A cobrança de tarifas e a existência de fins lucrativos não impedem, por si só, a imunidade
+recíproca. No entanto, a repartição de lucros entre acionistas privados é fator que impede o reconhecimento
+da imunidade.
+
+Letra D: Incorreta. A cobrança de tarifas e a finalidade lucrativa não são, isoladamente, fatores que afastam
+a imunidade recíproca. O problema reside na distribuição de lucros a acionistas privados.
+
+Letra E: Incorreta. Embora a CF mencione expressamente autarquias e fundações, a jurisprudência do STF
+admite a extensão da imunidade a empresas públicas e sociedades de economia mista que atendam aos
+requisitos necessários, o que não ocorre no caso devido à distribuição de lucros.
+
+5.CEBRASPE - Analista (FINEP)/Jurídica/2024
+
+Considerando a jurisprudência do Supremo Tribunal Federal (STF), assinale a opção correta em relação aos
+princípios gerais do sistema tributário nacional e às limitações ao poder de tributar.
+
+a) É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria
+de determinado imposto, desde que não haja integral identidade entre uma base e outra.
+
+b) A imunidade tributária recíproca estende-se incondicionalmente às empresas públicas e às sociedades de
+economia mista.
+
+c) Por ser específico e divisível, o serviço de iluminação pública pode ser remunerado por meio de taxa.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              38
+        www.estrategiaconcursos.com.br                                                                        54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+d) Em decorrência da imunidade tributária recíproca, é vedado aos entes federativos instituir tributos sobre
+o patrimônio, a renda e os serviços uns dos outros.
+
+e) De acordo com o princípio da anterioridade da lei tributária, é vedada a cobrança de tributos em relação
+a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado.
+
+Comentário: A questão envolve a jurisprudência do Supremo Tribunal Federal (STF) relacionada aos
+princípios do sistema tributário nacional e limitações ao poder de tributar. Vamos analisar cada alternativa:
+
+Letra A: Correto. Conforme a Súmula Vinculante 29 do STF, é permitido que taxas utilizem elementos comuns
+com a base de cálculo de impostos, desde que não sejam idênticas integralmente.
+
+Letra B: Errado. A imunidade recíproca aplica-se a empresas públicas e sociedades de economia mista apenas
+quando não visam lucro e seus serviços são essenciais ou estatais (CF, Art. 150, VI, 'a').
+                                                         ==219a34==
+
+
+
+
+Letra C: Errado. O serviço de iluminação pública é considerado um serviço de uso comum, não específico ou
+divisível, e deve ser custeado por contribuições de iluminação pública (COSIP), conforme Art. 149-A da CF.
+
+Letra D: Errado. A CF Art. 150, VI, 'a' proíbe que entes federativos tributem uns aos outros nestas áreas, mas
+tal vedação alcança apenas os impostos (e a CBS). Não se pode afirmar genericamente “tributos”.
+
+Letra E: Errado. Essa descrição corresponde ao princípio da irretroatividade (CF, Art. 150, III, 'a'), não ao da
+anterioridade.
+
+Gabarito: Letra A
+
+6.FGV/Proc (Pref SJC)/Pref SJC/2024
+
+Determinada entidade associativa, sem fins lucrativos, de caráter religioso, filantrópico e assistencial,
+dedicada a ensinar a Bíblia impetrou mandado de segurança para desembaraço aduaneiro, sem pagamento
+de qualquer imposto (IPI e Imposto de Importação) de papel especial para a impressão de bíblias, para
+atender suas necessidades e aquelas destinadas às suas finalidades essenciais.
+
+No caso exposto, a liminar deve ser
+
+a) negada, não havendo isenção para os impostos pretendidos, mas somente sobre patrimônio, renda e
+serviços.
+
+b) deferida, respeitando-se a imunidade das entidades filantrópicas de caráter assistencial, desde que os
+bens sejam utilizados na prestação de seus serviços específicos.
+
+c) indeferida, uma vez que as atividades religiosas e de evangelização não se caracterizam como assistência
+social, para fins da imunidade.
+
+d) acolhida, aguardando-se a produção de prova quanto à aplicação dos bens importados na atividade fim
+da impetrante.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             39
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+e) rejeitada, uma vez que os produtos importados já se encontravam aportados no país e seria necessário
+reconhecer a imunidade previamente, para não incidirem os impostos.
+
+Comentário:
+
+Letra A: Errado. A imunidade para entidades religiosas e filantrópicas pode incluir impostos sobre importação
+se destinados a suas finalidades essenciais (CF, Art. 150, VI, c).
+
+Letra B: Correto. A jurisprudência do STF permite imunidade sobre importações para entidades assistenciais,
+quando destinadas à sua atividade fim.
+
+Letra C: Errado. O STF admite que entidades religiosas que prestam assistência social possam receber
+tratamento imune, mesmo que envolvam evangelização (CF, Art. 150, VI, c; STF, Tema 573).
+
+Letra D: Errado. A imunidade pode ser concedida com base nas informações já disponíveis sobre a utilização
+dos bens importados.
+
+Letra E: Errado. A imunidade pode ser aplicada no momento do desembaraço, não sendo necessário seu
+reconhecimento prévio.
+
+Gabarito: Letra B
+
+7.FGV/RFB-Analista Tributário/2023
+
+Considerando que é vedado aos entes políticos instituir impostos sobre livros, jornais, periódicos e o papel
+destinado a sua impressão, como previsto no Art. 150, Inc. VI, Al. d, da Constituição da República, é correto
+afirmar que
+
+A) a imunidade prevista no dispositivo citado não alcança os livros de histórias infantis em quadrinhos,
+importados, que não sejam impressos em papel.
+
+B) por se tratar de imunidade, a interpretação do dispositivo deve ser restritiva, cabendo à Receita a
+discricionariedade para conceder ou não o benefício.
+
+C) o benefício alcança, também, componentes eletrônicos destinados, exclusivamente, a integrar a unidade
+didática com fascículos periódicos impressos.
+
+D) por extensão, CDs, disquetes e outros equipamentos semelhantes, ainda que importados sem gravação,
+gozam, igualmente, da imunidade.
+
+E) legislação recente dispensou as pessoas jurídicas importadoras de papel para a impressão de livros de
+promoverem o registro especial na Receita.
+
+Comentário: Deve-se lembrar da jurisprudência do STF, constante da Súmula Vinculante 57, cuja redação é
+a seguinte: A imunidade tributária constante do art. 150, VI, d, da CF/88 aplica-se à importação e
+comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes exclusivamente utilizados
+para fixá-los, como leitores de livros eletrônicos (e-readers), ainda que possuam funcionalidades acessórias.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          40
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Alternativa A: A imunidade abrange livros, jornais e periódicos, mesmo que não sejam impressos em papel.
+Alternativa errada.
+
+Alternativa B: A imunidade tributária não tem sua interpretação restritiva, e não cabe à Receita Federal
+discricionariamente decidir ou não pela aplicação da benesse constitucional. Alternativa errada.
+
+Alternativa C: Como citado na Súmula Vinculante 57, a imunidade também alcança leitores de livros
+eletrônicos (e-readers). Alternativa correta.
+
+Alternativa D: Ora, se não há conteúdo gravado relacionado a livros, jornais ou periódicos, não há que se
+falar na aplicação da imunidade. Alternativa errada.
+
+Alternativa E: A legislação vigente obriga as pessoas jurídicas importadoras de papel para a impressão de
+livros a promoverem o registro especial na Receita, através do Registro Especial de Papel Imune. Alternativa
+errada.
+
+Gabarito: Letra C
+
+8.FGV/RFB-Auditor Fiscal/2023
+
+Instituição financeira pública que atua em regime de livre concorrência, estruturada como empresa pública
+federal, foi surpreendida com a cobrança feita diretamente a ela, por parte do Município Alfa, de IPTU e de
+taxa de coleta domiciliar de lixo sobre imóvel de propriedade da União arrendado por tal empresa pública e
+onde se encontra sua sede nacional.
+
+Acerca desse cenário, assinale a afirmativa correta.
+
+A) O IPTU não poderia ser cobrado diretamente de tal empresa, em razão da imunidade tributária recíproca
+de que gozam as empresas públicas federais.
+
+B) O IPTU não poderia ser cobrado diretamente de tal empresa, uma vez que a União, proprietária do imóvel,
+é ente federado que goza de imunidade tributária.
+
+C) O IPTU poderia ser cobrado diretamente de tal empresa, desde que mediante previsão no contrato de
+arrendamento celebrado entre a União e a empresa pública federal.
+
+D) A taxa de coleta de lixo domiciliar não poderia ser cobrada diretamente de tal empresa, por ser a União,
+proprietária do imóvel, ente federado que goza de imunidade tributária.
+
+E) A taxa de coleta de lixo domiciliar poderia ser cobrada diretamente da União, proprietária do imóvel.
+
+Comentário: Há jurisprudência sobre o caso em questão: A imunidade recíproca, prevista no art. 150, VI, a,
+da Constituição não se estende a empresa privada arrendatária de imóvel público, quando seja ela
+exploradora de atividade econômica com fins lucrativos. Nessa hipótese é constitucional a cobrança do IPTU
+pelo Município. (STF, RE 594015).
+
+Alternativa A: De acordo com o art. 150, § 3º, da CF, o IPTU não alcança empresas públicas que atuem em
+regime de livre concorrência. Alternativa errada.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           41
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Alternativa B: Se não há que se falar na imunidade tributária, o IPTU poderia ser cobrado diretamente de tal
+empresa. Alternativa errada.
+
+Alternativa C: Não há tal condição para a cobrança do IPTU diretamente da empresa pública. Alternativa
+errada.
+
+Alternativa D: A imunidade tributária não abrange, de qualquer modo, as taxas. Alternativa errada.
+
+Alternativa E: A imunidade tributária não abrange, de qualquer modo, as taxas. Assim, a taxa poderia ser
+exigida diretamente da União. Alternativa correta.
+
+Gabarito: Letra E
+
+9. FGV/ISS-Cuiabá/2014
+Pretendendo adquirir, no mercado doméstico, caminhões para uso em serviço, o Município de Cuiabá pede
+ao Estado de Mato Grosso que afaste a incidência do Imposto sobre Circulação de Mercadorias e Serviços
+(ICMS) nessa operação específica. Assinale a solução juridicamente adequada a ser dada ao caso exposto.
+a) O Estado deve acolher o pleito mediante prova cabal de que os veículos serão mesmo empregados em
+atividades inerentes às atribuições do Município, pois, mesmo inexistindo lei estadual nesse sentido, o caso
+é de isenção de tributos.
+b) O Estado deve acolher o pleito mediante prova cabal de que os veículos serão mesmo empregados em
+atividades inerentes às atribuições do Município, pois o caso é de imunidade de tributos.
+c) O Estado poderá acolher o pleito mediante decisão administrativa afastando a incidência do ICMS ao caso.
+d) O Estado não poderá acolher o pleito, ainda que os caminhões sejam mesmo empregados em atividades
+inerentes às atribuições do Município, pois é vedada a concessão de tratamento tributário diferenciado a
+entidades públicas que explorem a atividade econômica.
+e) O Estado não poderá acolher o pleito, pois a imunidade não favorece o Município neste caso concreto, já
+que ele é apenas o contribuinte de fato, e não o contribuinte de direito.
+
+Comentário: Esta questão cobra a jurisprudência do STF, no sentido de que a imunidade recíproca, em se
+tratando de tributos indiretos (como o ICMS), somente se aplica aos casos em que o ente imune está na
+condição de contribuinte de direito, e não na condição de contribuinte de fato, como foi apresentado no
+enunciado desta questão. Portanto, o Estado não pode acolher tal pleito, razão pela qual a alternativa correta
+é a Letra E.
+
+Gabarito: Letra E
+
+10. FCC - Proc (PGE AM)/PGE AM/2022
+
+ Apesar da inspiração laica, a Constituição Federal outorga imunidade tributária aos “templos de qualquer
+culto”, por razões históricas e por reconhecer o trabalho filantrópico e social desenvolvido por grande parte
+das organizações religiosas. A respeito da imunidade dos “templos de qualquer culto”, nos termos da
+Constituição Federal e da jurisprudência do Supremo Tribunal Federal, analise os itens a seguir:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           42
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 02
+
+
+
+I. A imunidade tributária religiosa abrange o ICMS importação, desde que comprovado que os bens
+importados pela organização religiosa se destinam à finalidade essencial da entidade.
+
+ II. A imunidade tributária religiosa abrange o ICMS, ainda que a organização religiosa seja somente
+contribuinte de fato na operação na qual o imposto poderia incidir.
+
+III. A imunidade tributária religiosa impede a cobrança do IPTU do imóvel em que o templo se situe, ainda
+que locado de terceiro.
+
+IV. Os imóveis utilizados como cemitérios confessionais, de propriedade de organizações religiosas, são
+imunes ao IPTU.
+
+Está correto o que se afirma APENAS em
+
+a) I, II e III.
+
+b) I e II.
+
+c) III e IV.
+
+d) I, III e IV.
+
+e) II e IV.
+
+Comentário: De acordo com a jurisprudência do STF (ARE 1244093-AgR), a imunidade tributária religiosa
+abrange o ICMS importação, desde que comprovado que os bens se destinam à finalidade essencial da
+entidade.
+
+Item I: De fato, conforme vimos na jurisprudência do STF, a imunidade religiosa abrangeria o ICMS
+importação. Certo.
+
+Item II: A jurisprudência pacífica do STF é a de que a imunidade somente abrange a entidade imune se esta
+estiver na condição de contribuinte de direito. Errado.
+
+Item III: Atualmente, existe previsão na própria CF, concedendo imunidade tributária às entidades religiosas,
+em relação a imóveis de propriedade de terceiros, por elas locados. Certo.
+
+Item IV: A imunidade religiosa também abrange os cemitérios que consubstanciam extensões das entidades
+religiosas, conforme jurisprudência do STF. Certo.
+
+Gabarito: D
+
+11. FGV/Pref. Salvador-BA-Técnico de Nível Superior-Direito/2017
+A Editora WW Ltda. publica livros impressos e livros eletrônicos (e-books), além de comercializar aparelhos
+eletrônicos especializados em leitura de obras digitais (e-readers). O sócio-gerente dessa editora, diante da
+dúvida quanto à incidência de imunidade tributária objetiva sobre os itens por ela publicados e
+comercializados, consulta Roberto, advogado tributarista, a respeito do tema.
+
+
+
+             Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     43
+             www.estrategiaconcursos.com.br                                                               54
+
+                                           https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Levando em conta a Constituição da República e a jurisprudência consolidada do Supremo Tribunal Federal,
+assinale a opção que apresenta a resposta de Roberto.
+a) A imunidade objetiva prevista na CRFB/88 abarca livros impressos e livros eletrônicos, mas não alcança
+aparelhos eletrônicos especializados em leitura de obras digitais.
+b) A imunidade objetiva prevista na CRFB/88 abarca apenas e tão somente livros impressos.
+c) A imunidade objetiva prevista na CRFB/88 abrange livros impressos, livros eletrônicos e aparelhos
+eletrônicos especializados em leitura de obras digitais.
+d) A imunidade objetiva prevista na CRFB/88 abrange livros eletrônicos e aparelhos eletrônicos
+especializados em leitura de obras digitais. Quanto aos livros impressos, a hipótese é de mera isenção legal.
+e) A imunidade subjetiva prevista na CRFB/88 abrange livros impressos, livros eletrônicos e aparelhos
+eletrônicos especializados em leitura de obras digitais.
+
+Comentário: A imunidade prevista no texto constitucional se restringe aos “livros, jornais, periódicos e o
+papel destinado a sua impressão”. Porém, ao julgar o RE 330.817/RJ, o STF considerou que os livros
+eletrônicos e os aparelhos eletrônicos especializados em leitura de obras digitais também são alcançados
+pelo preceito constitucional em comento. Hoje, o tema é objeto da Súmula Vinculante 57!
+
+Gabarito: Letra C
+
+12. CEBRASPE/Pref Maringá-Auditor/2022
+
+A Carta Magna estipulou a competência tributária, a imunidade tributária, o alcance da norma e as limitações
+ao poder de tributar, parâmetros que devem ser respeitados pelos cidadãos e pelos entes federados. Acerca
+do tema, assinale a opção correta.
+
+a) A cobrança de pedágio pela utilização de vias conservadas pelo poder público é considerada taxa, que não
+se inclui entre as espécies de tributo.
+
+b) A União tem competência constitucional para instituir isenções de tributos da competência dos estados,
+do Distrito Federal ou dos municípios.
+
+c) A CIDE-combustíveis poderá ter alíquota específica, tendo por base a unidade de medida adotada, e terá
+que respeitar o princípio da anterioridade nonagesimal no caso de ter sua alíquota reduzida e restabelecida.
+
+d) Além do papel, a tinta destinada à impressão de livros também tem imunidade tributária de impostos.
+
+e) Os videofonogramas contendo obras musicais de artistas brasileiros ou europeus, gravados no país em
+mídia física, apenas, têm imunidade tributária de impostos.
+
+Comentário:
+
+Alternativa A: A cobrança de pedágio pela utilização de vias conservadas pelo poder público não é
+considerada taxa, de acordo com a jurisprudência do STF. Errada.
+
+Alternativa B: O art. 151, III, da CF/88 veda que a União institua isenções de tributos da competência dos
+estados, do Distrito Federal ou dos municípios. Trata-se das isenções heterônomas. Errada.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          44
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Alternativa C: As CIDEs, assim como as contribuições sociais, podem ter alíquotas específicas ou ad valorem,
+conforme estabelece o art. 149, § 2º, da CF. Especificamente em relação a CIDE-Combustíveis, existe exceção
+quanto ao princípio da anterioridade anual no caso de ter sua alíquota reduzida e restabelecida, mas deve
+obedecer ao princípio da anterioridade nonagesimal. Correta.
+
+Alternativa D: Trata-se de assunto relativo às imunidades tributárias. Tal imunidade abrange os livros, jornais
+e periódicos (art. 150, VI, “d”, da CF). A jurisprudência do STF entende que a tinta destinada à impressão de
+livros não tem imunidade tributária de impostos. Errada.
+
+Alternativa E: A imunidade tributária abrange apenas os impostos incidentes sobre fonogramas e
+videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores
+brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou
+arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a
+laser. Errada.
+
+Gabarito: C
+
+13. VUNESP/ JL (TJ RJ)/TJ RJ/2022
+
+A respeito da imunidade tributária sobre templos de qualquer culto, é correto afirmar que
+
+a) corresponde à hipótese constitucional de exclusão do crédito tributário com fundamento no princípio
+constitucional da solidariedade, da dignidade da pessoa humana e da liberdade religiosa.
+
+b) a imunidade relativa ao imposto sobre propriedade predial e territorial urbana não abrange os imóveis
+dos quais as entidades religiosas sejam apenas locatárias, mas apenas aqueles de sua propriedade.
+
+c) alcança impostos, taxas e contribuições incidentes sobre bens, rendas e serviços dessas entidades,
+independentemente do nomen iuris dado ao bem, renda ou serviço.
+
+d) abrange não somente os prédios destinados ao culto, mas também outros relacionados com as finalidades
+essenciais das entidades, tais como escritórios e residência dos religiosos.
+
+e) se trata de resquício histórico da vinculação Estado- Igreja, anterior à República, sendo contrária à ideia
+de isonomia tributária e sendo, portanto, inconstitucional.
+
+Comentário:
+
+Alternativa A: É a isenção, e não a imunidade, que configura exclusão do crédito tributário. Alternativa
+errada.
+
+Alternativa B: Conforme prevê o art. 156, § 1º-A, da CF/88, a imunidade do IPTU abrange os imóveis dos
+quais as entidades religiosas sejam apenas locatárias, mas apenas aqueles de sua propriedade. Alternativa
+errada.
+
+Alternativa C: A imunidade religiosa somente abrange os impostos, não se estende, portanto, às taxas e às
+contribuições incidentes sobre bens, rendas e serviços dessas entidades. Alternativa errada.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            45
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Alternativa D: Conforme jurisprudência do STF, a imunidade religiosa abrange não somente os prédios
+destinados ao culto, mas também outros relacionados com as finalidades essenciais das entidades, tais como
+escritórios e residência dos religiosos. Alternativa correta.
+
+Alternativa E: A imunidade religiosa é constitucional, prevista no art. 150, VI, “b”, da CF. Alternativa errada.
+
+Gabarito: D
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             46
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 02
+
+
+
+
+                                          LISTA DE QUESTÕES
+
+
+1.       CEBRASPE/TRF6-Analista Judiciário/2025
+
+Acerca das imunidades segundo a doutrina e a jurisprudência dos tribunais superiores, julgue o item a seguir.
+
+Nos termos da jurisprudência do STF, é inadmissível a aplicação retroativa da imunidade tributária, motivo
+por que a sucessão de determinado imóvel particular pela União não a desobrigará de pagar os tributos até
+então devidos pelo sucedido.
+
+2.       CEBRASPE/TRF6-Analista Judiciário/2025
+
+Acerca das imunidades segundo a doutrina e a jurisprudência dos tribunais superiores, julgue o item a seguir.
+
+O rol constitucional das imunidades tributárias não pode ser ampliado por legislação comum.
+
+3.       FUNDATEC/Pref. Porto Alegre - Auditor Fiscal/2025
+
+Sobre obrigação tributária, assinale a alternativa INCORRETA.
+
+a) A obrigação principal surge com a ocorrência do fato gerador e tem por objeto uma obrigação de dar de
+natureza patrimonial.
+
+b) A obrigação acessória decorre da legislação tributária e tem por objeto uma obrigação de fazer ou não
+fazer.
+
+c) O gozo de imunidade tributária dispensa o contribuinte do cumprimento de obrigações acessórias
+referentes às prestações imunes.
+
+d) A moratória não dispensa o cumprimento das obrigações acessórias relativas aos fatos geradores por ela
+atingidos.
+
+e) As obrigações acessórias devem ser previstas no interesse da arrecadação ou da fiscalização dos tributos.
+
+4.       CEBRASPE/PGE-RN-Procurador/2024
+
+Uma sociedade de economia mista de determinado estado, prestadora de serviços com fins lucrativos,
+ajuizou ação declaratória de imunidade tributária perante a justiça estadual, requerendo o reconhecimento
+judicial da mutação constitucional quanto à aplicação da alínea “a” do inciso VI do art. 150 da CF, que versa
+acerca da imunidade recíproca entre os entes da Federação, ao vedar a instituição de “impostos sobre
+patrimônio, renda ou serviços uns dos outros”. A referida sociedade de economia mista sustentou que é
+prestadora de serviço público essencial e que efetua cobrança de tarifas de seus usuários, mas que isso não
+impede o reconhecimento da imunidade, uma vez que, embora reparta esporadicamente lucros entre seus
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       47
+           www.estrategiaconcursos.com.br                                                                 54
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 02
+
+
+
+acionistas, sua atividade é exercida em regime de monopólio estatal, de modo que entendia fazer jus ao
+reconhecimento da imunidade recíproca.
+
+Nessa situação hipotética, conforme o entendimento jurisprudencial do STF, a sociedade de economia mista
+em questão
+
+a) não faz jus à imunidade recíproca, porque, embora o intuito lucrativo e a cobrança de tarifa do usuário
+não sejam fatores impeditivos ao reconhecimento da imunidade, a política de distribuição de lucros entre
+acionistas privados, mesmo que em caráter esporádico, lhe retira a imunidade tributária.
+
+b) faz jus ao reconhecimento da imunidade recíproca, uma vez que exerce sua atividade em regime de
+monopólio, o que, por si só, assegura o reconhecimento da imunidade no caso.
+
+c) faz jus à imunidade recíproca, uma vez que a cobrança de tarifas dos usuários não é fator impeditivo ao
+reconhecimento da imunidade, mesmo que a sociedade tenha fins lucrativos e haja repartição esporádica
+                                                            ==219a34==
+
+
+
+
+de lucros entre seus acionistas privados.
+
+d) não faz jus à imunidade recíproca, por exigir tarifa de seus usuários e por ter fins lucrativos, o que viola a
+CF, não podendo haver conflito interno entre normas constitucionais.
+
+e) não faz jus à imunidade recíproca, por não estar abrangida pelas exceções estabelecidas expressamente
+na CF, as quais incluem, por exemplo, as autarquias e fundações instituídas e mantidas pelo poder público.
+
+5.       CEBRASPE - Analista (FINEP)/Jurídica/2024
+
+Considerando a jurisprudência do Supremo Tribunal Federal (STF), assinale a opção correta em relação aos
+princípios gerais do sistema tributário nacional e às limitações ao poder de tributar.
+
+a) É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria
+de determinado imposto, desde que não haja integral identidade entre uma base e outra.
+
+b) A imunidade tributária recíproca estende-se incondicionalmente às empresas públicas e às sociedades de
+economia mista.
+
+c) Por ser específico e divisível, o serviço de iluminação pública pode ser remunerado por meio de taxa.
+
+d) Em decorrência da imunidade tributária recíproca, é vedado aos entes federativos instituir tributos sobre
+o patrimônio, a renda e os serviços uns dos outros.
+
+e) De acordo com o princípio da anterioridade da lei tributária, é vedada a cobrança de tributos em relação
+a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado.
+
+6.       FGV/Proc (Pref SJC)/Pref SJC/2024
+
+Determinada entidade associativa, sem fins lucrativos, de caráter religioso, filantrópico e assistencial,
+dedicada a ensinar a Bíblia impetrou mandado de segurança para desembaraço aduaneiro, sem pagamento
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           48
+           www.estrategiaconcursos.com.br                                                                     54
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 02
+
+
+
+de qualquer imposto (IPI e Imposto de Importação) de papel especial para a impressão de bíblias, para
+atender suas necessidades e aquelas destinadas às suas finalidades essenciais.
+
+No caso exposto, a liminar deve ser
+
+a) negada, não havendo isenção para os impostos pretendidos, mas somente sobre patrimônio, renda e
+serviços.
+
+b) deferida, respeitando-se a imunidade das entidades filantrópicas de caráter assistencial, desde que os
+bens sejam utilizados na prestação de seus serviços específicos.
+
+c) indeferida, uma vez que as atividades religiosas e de evangelização não se caracterizam como assistência
+social, para fins da imunidade.
+
+d) acolhida, aguardando-se a produção de prova quanto à aplicação dos bens importados na atividade fim
+da impetrante.
+
+e) rejeitada, uma vez que os produtos importados já se encontravam aportados no país e seria necessário
+reconhecer a imunidade previamente, para não incidirem os impostos.
+
+7.       FGV/RFB-Analista Tributário/2023
+
+Considerando que é vedado aos entes políticos instituir impostos sobre livros, jornais, periódicos e o papel
+destinado a sua impressão, como previsto no Art. 150, Inc. VI, Al. d, da Constituição da República, é correto
+afirmar que
+
+A) a imunidade prevista no dispositivo citado não alcança os livros de histórias infantis em quadrinhos,
+importados, que não sejam impressos em papel.
+
+B) por se tratar de imunidade, a interpretação do dispositivo deve ser restritiva, cabendo à Receita a
+discricionariedade para conceder ou não o benefício.
+
+C) o benefício alcança, também, componentes eletrônicos destinados, exclusivamente, a integrar a unidade
+didática com fascículos periódicos impressos.
+
+D) por extensão, CDs, disquetes e outros equipamentos semelhantes, ainda que importados sem gravação,
+gozam, igualmente, da imunidade.
+
+E) legislação recente dispensou as pessoas jurídicas importadoras de papel para a impressão de livros de
+promoverem o registro especial na Receita.
+
+8.       FGV/RFB-Auditor Fiscal/2023
+
+Instituição financeira pública que atua em regime de livre concorrência, estruturada como empresa pública
+federal, foi surpreendida com a cobrança feita diretamente a ela, por parte do Município Alfa, de IPTU e de
+taxa de coleta domiciliar de lixo sobre imóvel de propriedade da União arrendado por tal empresa pública e
+onde se encontra sua sede nacional.
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       49
+           www.estrategiaconcursos.com.br                                                                 54
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+Acerca desse cenário, assinale a afirmativa correta.
+
+A) O IPTU não poderia ser cobrado diretamente de tal empresa, em razão da imunidade tributária recíproca
+de que gozam as empresas públicas federais.
+
+B) O IPTU não poderia ser cobrado diretamente de tal empresa, uma vez que a União, proprietária do imóvel,
+é ente federado que goza de imunidade tributária.
+
+C) O IPTU poderia ser cobrado diretamente de tal empresa, desde que mediante previsão no contrato de
+arrendamento celebrado entre a União e a empresa pública federal.
+
+D) A taxa de coleta de lixo domiciliar não poderia ser cobrada diretamente de tal empresa, por ser a União,
+proprietária do imóvel, ente federado que goza de imunidade tributária.
+
+E) A taxa de coleta de lixo domiciliar poderia ser cobrada diretamente da União, proprietária do imóvel.
+
+9. FGV/ISS-Cuiabá/2014
+
+Pretendendo adquirir, no mercado doméstico, caminhões para uso em serviço, o Município de Cuiabá pede
+ao Estado de Mato Grosso que afaste a incidência do Imposto sobre Circulação de Mercadorias e Serviços
+(ICMS) nessa operação específica. Assinale a solução juridicamente adequada a ser dada ao caso exposto.
+
+a) O Estado deve acolher o pleito mediante prova cabal de que os veículos serão mesmo empregados em
+atividades inerentes às atribuições do Município, pois, mesmo inexistindo lei estadual nesse sentido, o caso
+é de isenção de tributos.
+
+b) O Estado deve acolher o pleito mediante prova cabal de que os veículos serão mesmo empregados em
+atividades inerentes às atribuições do Município, pois o caso é de imunidade de tributos.
+
+c) O Estado poderá acolher o pleito mediante decisão administrativa afastando a incidência do ICMS ao caso.
+
+d) O Estado não poderá acolher o pleito, ainda que os caminhões sejam mesmo empregados em atividades
+inerentes às atribuições do Município, pois é vedada a concessão de tratamento tributário diferenciado a
+entidades públicas que explorem a atividade econômica.
+
+e) O Estado não poderá acolher o pleito, pois a imunidade não favorece o Município neste caso concreto, já
+que ele é apenas o contribuinte de fato, e não o contribuinte de direito.
+
+10. FCC - Proc (PGE AM)/PGE AM/2022
+
+ Apesar da inspiração laica, a Constituição Federal outorga imunidade tributária aos “templos de qualquer
+culto”, por razões históricas e por reconhecer o trabalho filantrópico e social desenvolvido por grande parte
+das organizações religiosas. A respeito da imunidade dos “templos de qualquer culto”, nos termos da
+Constituição Federal e da jurisprudência do Supremo Tribunal Federal, analise os itens a seguir:
+
+I. A imunidade tributária religiosa abrange o ICMS importação, desde que comprovado que os bens
+importados pela organização religiosa se destinam à finalidade essencial da entidade.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           50
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 02
+
+
+
+ II. A imunidade tributária religiosa abrange o ICMS, ainda que a organização religiosa seja somente
+contribuinte de fato na operação na qual o imposto poderia incidir.
+
+III. A imunidade tributária religiosa impede a cobrança do IPTU do imóvel em que o templo se situe, ainda
+que locado de terceiro.
+
+IV. Os imóveis utilizados como cemitérios confessionais, de propriedade de organizações religiosas, são
+imunes ao IPTU.
+
+Está correto o que se afirma APENAS em
+
+a) I, II e III.
+
+b) I e II.
+
+c) III e IV.
+
+d) I, III e IV.
+
+e) II e IV.
+
+11. FGV/Pref. Salvador-BA-Técnico de Nível Superior-Direito/2017
+
+A Editora WW Ltda. publica livros impressos e livros eletrônicos (e-books), além de comercializar aparelhos
+eletrônicos especializados em leitura de obras digitais (e-readers). O sócio-gerente dessa editora, diante da
+dúvida quanto à incidência de imunidade tributária objetiva sobre os itens por ela publicados e
+comercializados, consulta Roberto, advogado tributarista, a respeito do tema.
+
+Levando em conta a Constituição da República e a jurisprudência consolidada do Supremo Tribunal Federal,
+assinale a opção que apresenta a resposta de Roberto.
+
+a) A imunidade objetiva prevista na CRFB/88 abarca livros impressos e livros eletrônicos, mas não alcança
+aparelhos eletrônicos especializados em leitura de obras digitais.
+
+b) A imunidade objetiva prevista na CRFB/88 abarca apenas e tão somente livros impressos.
+
+c) A imunidade objetiva prevista na CRFB/88 abrange livros impressos, livros eletrônicos e aparelhos
+eletrônicos especializados em leitura de obras digitais.
+
+d) A imunidade objetiva prevista na CRFB/88 abrange livros eletrônicos e aparelhos eletrônicos
+especializados em leitura de obras digitais. Quanto aos livros impressos, a hipótese é de mera isenção legal.
+
+e) A imunidade subjetiva prevista na CRFB/88 abrange livros impressos, livros eletrônicos e aparelhos
+eletrônicos especializados em leitura de obras digitais.
+
+
+
+
+             Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     51
+             www.estrategiaconcursos.com.br                                                               54
+
+                                           https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 02
+
+
+
+
+12. CEBRASPE/Pref Maringá-Auditor/2022
+
+A Carta Magna estipulou a competência tributária, a imunidade tributária, o alcance da norma e as limitações
+ao poder de tributar, parâmetros que devem ser respeitados pelos cidadãos e pelos entes federados. Acerca
+do tema, assinale a opção correta.
+
+a) A cobrança de pedágio pela utilização de vias conservadas pelo poder público é considerada taxa, que não
+se inclui entre as espécies de tributo.
+
+b) A União tem competência constitucional para instituir isenções de tributos da competência dos estados,
+do Distrito Federal ou dos municípios.
+
+c) A CIDE-combustíveis poderá ter alíquota específica, tendo por base a unidade de medida adotada, e terá
+que respeitar o princípio da anterioridade nonagesimal no caso de ter sua alíquota reduzida e restabelecida.
+
+d) Além do papel, a tinta destinada à impressão de livros também tem imunidade tributária de impostos.
+
+e) Os videofonogramas contendo obras musicais de artistas brasileiros ou europeus, gravados no país em
+mídia física, apenas, têm imunidade tributária de impostos.
+
+13. VUNESP/ JL (TJ RJ)/TJ RJ/2022
+
+A respeito da imunidade tributária sobre templos de qualquer culto, é correto afirmar que
+
+a) corresponde à hipótese constitucional de exclusão do crédito tributário com fundamento no princípio
+constitucional da solidariedade, da dignidade da pessoa humana e da liberdade religiosa.
+
+b) a imunidade relativa ao imposto sobre propriedade predial e territorial urbana não abrange os imóveis
+dos quais as entidades religiosas sejam apenas locatárias, mas apenas aqueles de sua propriedade.
+
+c) alcança impostos, taxas e contribuições incidentes sobre bens, rendas e serviços dessas entidades,
+independentemente do nomen iuris dado ao bem, renda ou serviço.
+
+d) abrange não somente os prédios destinados ao culto, mas também outros relacionados com as finalidades
+essenciais das entidades, tais como escritórios e residência dos religiosos.
+
+e) se trata de resquício histórico da vinculação Estado- Igreja, anterior à República, sendo contrária à ideia
+de isonomia tributária e sendo, portanto, inconstitucional.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           52
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 02
+
+
+
+
+                                                GABARITO
+ 1. Certo
+ 2. Certo
+ 3. C
+ 4. A
+ 5. A
+ 6. B
+ 7. C
+ 8. E
+ 9. E
+ 10. D
+ 11. C
+ 12. C
+ 13. D
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   53
+      www.estrategiaconcursos.com.br                                             54
+
+                                    https://t.me/KakashiAssinaturasBot
+

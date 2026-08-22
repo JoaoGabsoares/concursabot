@@ -1,0 +1,582 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 06_016_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: REESCRITURA NA VOZ
+---
+
+# REESCRITURA NA VOZ
+
+REESCRITURA NA VOZ
+                        PASSIVA SINTÉTICA
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                 EXERCÍCIOS DE FIXAÇÃO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+I. Nas frases a seguir, transforme a voz passiva sintética em analítica.
+
+1) Na cidade de Atenas, considerava-se cidadão qualquer ateniense maior de 18
+anos.
+
+2) Abriam-se as flores naquela primavera.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+3) As sociedades indígenas dividiam-se de forma igualitária
+
+4) A história do acre começou a se definir em 1985.
+
+5) Se fossem engraçados, certamente se aplaudiriam os palhaços no circo.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+II. Nas frases a seguir, transforme a voz passiva sintética em ativa.
+
+
+1) Recebeu-se o projeto com ceticismo.
+
+2) Esperavam-se resultados mais animadores.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+3) No nosso país, deveriam instituir-se leis mais rigorosas.
+
+4) Recusou-se o convite.
+
+5) Na idade média, usavam-se tochas para iluminação.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+III. Nas frases a seguir, passe para a voz passiva sintética.
+
+
+1) Contaram a verdade.
+
+2) Aqui são dadas aulas inesquecíveis.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+3) Esconderam armas de destruição maciça.
+
+4) O projeto foi recebido com ceticismo.
+
+5) Os presos eram proibidos de usar barbas e cabelos longo.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+09. FCC - 2019 - SABESP - Estagiário
+
+Quando se discutiam suas ideias com entusiasmo.
+
+A frase acima está construída na voz passiva sintética. Transposta para a voz
+passiva analítica, a frase assume a seguinte redação: Quando suas ideias
+
+A) foram discutidas com entusiasmo.
+B) são discutidas com entusiasmo.
+C) eram discutidas com entusiasmo.
+D) fossem discutidas com entusiasmo.
+E) seriam discutidas com entusiasmo.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+10. FCC - TRT - 23ª REGIÃO (MT) - Analista Judiciário
+
+Mas a grandeza das manhãs se media pela quantidade de mulungus...
+(3°parágrafo)
+
+Na frase acima, alterando-se de voz passiva sintética para analítica, a forma verbal
+resultante é:
+
+A) era medida
+B) eram medidas
+C) seria medida
+D) tinha sido medida
+E) tinham sido medidos
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+11. FGV - AL-BA - Técnico de Nível Médio
+“Acumularam-se violências em todas as áreas da vida”.
+
+Essa frase do texto está construída em voz passiva pronominal (com o pronome se
+Assinale a opção que indica a forma correspondente da voz passiva com auxiliar
+(com o ). verbo ser).
+
+A) Eram acumuladas
+B) Foram acumuladas
+C) São acumuladas
+D) Serão acumuladas
+E) Seriam acumuladas
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+12. IBADE - 2020 - Prefeitura de Linhares - ES - Professor
+
+A oração “E males de amor curam-se com o próprio amor” (3º §) está expressa na
+voz passiva pronominal, concordando o verbo com o sujeito passivo “males de
+amor”. Das alterações feitas abaixo, aquela em que a referida oração está
+expressa na voz ativa é:
+
+A) E males de amor são curados com o próprio amor.
+B) E com o próprio amor curam males de amor.
+C) E podem ser curados males de amor pelo próprio amor.
+D) E curam-se males de amor por meio do próprio amor.
+E) E males de amor com o próprio amor são curados.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+13. VUNESP - 2019 - TJ-SP - Enfermeiro Judiciário
+
+Observe as passagens do texto:
+
+
+•Um estudo realizado por pesquisadores do Porto concluiu que a intervenção de
+enfermeiros especialistas em saúde mental... (1º parágrafo)
+
+•Os resultados indicam um “efeito positivo da intervenção psicoterapêutica da
+enfermagem”, realizada por um enfermeiro especialista em saúde mental,
+registrando-se uma clara diminuição dos níveis de ansiedade... (3º parágrafo)
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+13. VUNESP - 2019 - TJ-SP - Enfermeiro Judiciário
+
+Transpondo-se as orações destacadas para a voz ativa, obtêm-se, correta e
+respectivamente, as seguintes reescritas:
+
+A) Pesquisadores do Porto realizaram um estudo que... / ... e registram uma clara
+diminuição dos níveis de ansiedade...
+
+B) Pesquisadores do Porto tinham realizado um estudo que... / ... e tem sido
+registrado uma clara diminuição dos níveis de ansiedade...
+
+C) Um estudo, que foi realizado por pesquisadores do Porto que... / ... e registra
+uma clara diminuição dos níveis de ansiedade...
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+13. VUNESP - 2019 - TJ-SP - Enfermeiro Judiciário
+
+D) Pelos pesquisadores do Porto realizaram um estudo que... / ... e tem sido
+registrada uma clara diminuição dos níveis de ansiedade...
+
+E) Realizou-se por pesquisadores do Porto um estudo que... / ... e registram-se
+uma clara diminuição dos níveis de ansiedade...
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+14. INSTITUTO AOCP - 2020 - Prefeitura de Recife - PE - Assistente Social
+Ao passar a oração “Escuto os medos” para a voz passiva sintética, tem-se
+
+
+A) escutam-se os medos.
+
+B) escuta-se os medos.
+
+C) os medos se escutam.
+
+D) os medos são escutados.
+
+E) escutados são os medos.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+15. FCC - PC-AP
+Houve adequada transposição do segmento sublinhado para a voz passiva no
+seguinte caso:
+
+
+A) O gênero da crônica tem movido escritores e leitores = movem-se
+
+B) É como se o espelhinho pudesse revelar a imagem-síntese = pudesse revelar-se
+
+C) Jovens cronistas vêm demonstrando muita garra = é demonstrada
+
+D) No espaço de uma crônica pode caber muito = têm podido
+
+E) Esse mestre maior dotou a crônica de uma altura tal = foi dotado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+16. IBADE - 2018 - Prefeitura de Rio Branco - AC - Professor
+Se a frase “Um pouco mais adiante, junto às geladeiras de laticínios, são
+guardados os ovos.” for passada para a voz passiva sintética, o verbo deverá
+assumir a forma:
+
+A) guardavam-se
+
+B) guardam-se
+
+C) guardou-se
+
+D) guardar-se-ão
+
+E) guardaram-se
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+17. FCC - TJ-AP - Analista Judiciário
+A expressão “política indigenista” foi utilizada por muito tempo como sinônimo de
+toda e qualquer ação política governamental que...
+
+Transpondo-se a frase acima para a voz passiva sintética, a forma verbal
+resultante será
+
+A) utilizaram-se.
+B) utiliza-se.
+C) utilizaram.
+D) utilizou-se.
+E) utilizamos.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+18. FCC - TRF - 3ª REGIÃO - Analista Judiciário
+
+Último parágrafo
+
+Enquanto o carro geme em curvas que já nem poderíamos qualificar como
+“cabeças de alfinete”, de tal modo se sucedem em espiral, por entre um nevoeiro
+que imita a alta montanha de outros climas, posso examinar à vontade as árvores
+e as plantas estendendo-se perante o meu olhar como espécimes de museu.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+18. FCC - TRF - 3ª REGIÃO - Analista Judiciário
+A alteração da voz do verbo poder, nas duas vezes em que ocorre no último
+parágrafo, deverá resultar nas seguintes formas, respectivamente:
+
+
+A) se poderia − se pode
+
+B) poder-se-ia − podem-se
+
+C) poderiam-se − pode-se
+
+D) se poderiam − podem-se
+
+E) se poderiam − se pode
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                                 CESPE
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+19. CESPE / CEBRASPE - 2021 - TCE-RJ - Analista de Controle Externo
+
+Sem prejuízo da correção gramatical do texto, o termo “criou-se” (l.24) poderia ser
+substituído pela locução foi criado.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+20. CESPE - 2020 - MPE-CE - Técnico Ministerial
+
+O termo “Desenvolveram-se” (l.5) poderia ser substituído pela locução Foram
+desenvolvidos, sem prejuízo do sentido e da correção gramatical do texto.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+21. CESPE - ANTAQ
+
+O trecho “Criou-se uma forma de salvação feminina a partir basicamente de três
+modelos femininos” (l. 28 e 29) poderia ser reescrito, com correção gramatical e
+sem prejuízo da informação prestada, da seguinte forma: Uma forma de salvação
+feminina foi criada a partir, basicamente, de três modelos femininos.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+22. CESPE / CEBRASPE - MPU - Técnico do MPU
+
+Caso se substituísse “iniciou-se” (l.14) por foi iniciada, a correção gramatical do
+período seria prejudicada.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+23. CESPE - 2008 - PC-TO - Delegado de Polícia
+
+A locução verbal “foram          implementados” (L.5) corresponde à forma
+implementaram-se.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+24. CESPE - SEDU-ES - Professor
+
+Prejudica-se a correção gramatical do período ao se substituir o segmento “é
+realizado" (l. 20 ) por realiza-se.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+25. CESPE - Correios - Agente de Correios
+
+O texto permaneceria correto se a expressão “Foi estabelecido” (l.8) fosse
+substituída por Estabeleceram-se.
+
+Certo
+Errado
+Profª Adriana Figueiredo               QUESTÃO ADAPTADA
+                              
+
+
+---
+
+26. CESPE - SEGESP-AL - Técnico Forense
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+26. CESPE - SEGESP-AL - Técnico Forense
+
+As locuções verbais “foram coletadas” (l.8) e “foram analisados” (l.14) poderiam
+ser substituídas, sem prejuízo para a correção gramatical e o sentido do texto, por
+coletou-se e analisou-se, respectivamente.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+27. CESPE / CEBRASPE - IBAMA - Analista Ambiental
+
+Em “Estima-se” (L.5), há uma estrutura de voz passiva que pode ser substituída
+por Eram estimados, sem alterações na correção e na coerência do período.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+28. CESPE / CEBRASPE - TCU - Analista de Controle Externo
+
+Por estar empregada como uma forma de voz passiva, a locução verbal "foi
+cunhado" (.1) corresponde a cunhou-se e por esta forma pode ser substituída, sem
+prejuízo para a coerência ou para a correção gramatical do texto.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+29. CESPE - IPAJM - Contador
+
+Passando-se a frase “restaura as franquias legais” (l.5) para a voz passiva
+pronominal, obtém-se, segundo as normas da escrita padrão: restaura-se as
+franquias legais.
+
+Certo
+Errado
+Profª Adriana Figueiredo                QUESTÃO ADAPTADA
+                               
+
+
+---
+
+30. CESPE - TRE-BA
+
+A correção gramatical e o sentido original do texto seriam mantidos caso se
+substituísse “foi adotada” (l.1) por se adotou.
+
+Certo
+Errado
+Profª Adriana Figueiredo            QUESTÃO ADAPTADA
+                           
+
+
+---
+
+31. CESPE - Instituto Rio Branco - Diplomata
+
+Comprometer-se-ia o sentido original do período situado entre as linhas 3 e 6 ,
+caso se substituísse a construção na voz pas s iva analítica " à espera de serem
+reveladas ou descobertas, respeitadas ou toleradas" (L.5 -6 ) pela passiva
+pronominal correspondente.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+Obrigada
+                                        Profª. Adriana Figueiredo
+
+   
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                      Profª. Adriana Figueiredo
+
+                 
+
+
+---
+
+---

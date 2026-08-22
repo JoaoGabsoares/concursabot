@@ -1,0 +1,404 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 14_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 105.
+- Art. 106.
+- Art. 109.
+- Art. 114.
+- Art. 118.
+- Art. 121.
+- Art. 125.
+- art. 102
+---
+
+# DIREITO CONSTITUCIONAL
+
+DIREITO CONSTITUCIONAL
+
+                                         Profª. Nelma Fontana
+
+    
+
+
+---
+
+      Professora Nelma
+           Fontana
+
+                   @nelmafontan
+                   a
+
+---
+
+Poder Judiciário
+
+  
+
+
+---
+
+Superior Tribunal de Justiça
+
+      
+
+
+---
+
+1. Composição
+Art. 104. O Superior Tribunal de Justiça compõe-se de, no mínimo, trinta e três
+Ministros.
+Parágrafo único. Os Ministros do Superior Tribunal de Justiça serão nomeados
+pelo Presidente da República, dentre brasileiros com mais de trinta e cinco e
+menos de setenta anos de idade, de notável saber jurídico e reputação ilibada,
+depois de aprovada a escolha pela maioria absoluta do Senado Federal,
+sendo:
+I - um terço dentre juízes dos Tribunais Regionais Federais e um terço dentre
+desembargadores dos Tribunais de Justiça, indicados em lista tríplice elaborada
+pelo próprio Tribunal;
+II - um terço, em partes iguais, dentre advogados e membros do Ministério
+Público Federal, Estadual, do Distrito Federal e Territórios, alternadamente,
+indicados na forma do art. 94.
+                          
+
+
+---
+
+---
+
+2. Competências
+
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e,
+nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça
+dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos
+Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais
+Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de
+Contas dos Municípios e os do Ministério Público da União que oficiem perante
+tribunais;
+
+                          
+
+
+---
+
+---
+
+b) os mandados de segurança e os habeas data contra ato de Ministro de
+Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do
+próprio Tribunal;
+
+                       
+
+
+---
+
+c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas
+mencionadas na alínea a, ou quando o coator for tribunal sujeito à sua
+jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da
+Aeronáutica, ressalvada a competência da Justiça Eleitoral;
+
+                        
+
+
+---
+
+d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto
+no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre
+juízes vinculados a tribunais diversos;
+
+                           
+
+
+---
+
+h) o mandado de injunção, quando a elaboração da norma regulamentadora for
+atribuição de órgão, entidade ou autoridade federal, da administração direta ou
+indireta, excetuados os casos de competência do Supremo Tribunal Federal e
+dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da
+Justiça Federal;
+
+i) a homologação de sentenças estrangeiras e a concessão de exequatur às
+cartas rogatórias;
+
+
+j) os conflitos entre entes federativos, ou entre estes e o Comitê Gestor do
+Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts.
+156-A e 195, V;
+
+                          
+
+
+---
+
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais
+Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e
+Territórios, quando a decisão for denegatória;
+b) os mandados de segurança decididos em única instância pelos Tribunais
+Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e
+Territórios, quando denegatória a decisão;
+c) as causas em que forem partes Estado estrangeiro ou organismo
+internacional, de um lado, e, do outro, Município ou pessoa residente ou
+domiciliada no País;
+
+                        
+
+
+---
+
+---
+
+III - julgar, em recurso especial, as causas decididas, em única ou última
+instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do
+Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+b) julgar válido ato de governo local contestado em face de lei federal;
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro
+tribunal.
+
+                          
+
+
+---
+
+---
+
+Justiça Federal
+
+---
+
+1. Órgãos da Justiça Federal
+
+Art. 106. São órgãos da Justiça Federal:
+I - os Tribunais Regionais Federais;
+II - os Juízes Federais.
+
+                           
+
+
+---
+
+---
+
+2. Competências do TRF
+
+Art. 108. Compete aos Tribunais Regionais Federais:
+I - processar e julgar, originariamente:
+a) os juízes federais da área de sua jurisdição, incluídos os da Justiça Militar e da
+Justiça do Trabalho, nos crimes comuns e de responsabilidade, e os membros
+do Ministério Público da União, ressalvada a competência da Justiça Eleitoral;
+
+                            
+
+
+---
+
+e) os conflitos de competência entre juízes federais vinculados ao Tribunal;
+
+II - julgar, em grau de recurso, as causas decididas pelos juízes federais e pelos
+juízes estaduais no exercício da competência federal da área de sua jurisdição.
+
+                           
+
+
+---
+
+3. Competências de juízes federais
+
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal
+forem interessadas na condição de autoras, rés, assistentes ou oponentes,
+exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral
+e à Justiça do Trabalho;
+
+                           
+
+
+---
+
+II - as causas entre Estado estrangeiro ou organismo internacional e Município
+ou pessoa domiciliada ou residente no País;
+
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens,
+serviços ou interesse da União ou de suas entidades autárquicas ou empresas
+públicas, excluídas as contravenções e ressalvada a competência da Justiça
+Militar e da Justiça Eleitoral;
+
+                          
+
+
+---
+
+VI - os crimes contra a organização do trabalho e, nos casos determinados por
+lei, contra o sistema financeiro e a ordem econômico-financeira;
+
+
+X - os crimes de ingresso ou permanência irregular de estrangeiro, a execução
+de carta rogatória, após o "exequatur", e de sentença estrangeira, após a
+homologação, as causas referentes à nacionalidade, inclusive a respectiva
+opção, e à naturalização;
+
+
+XI - a disputa sobre direitos indígenas.
+
+                           
+
+
+---
+
+Justiça do Trabalho
+
+  
+
+
+---
+
+1. Órgãos da Justiça do Trabalho
+
+Art. 111. São órgãos da Justiça do Trabalho:
+I - o Tribunal Superior do Trabalho;
+II - os Tribunais Regionais do Trabalho;
+III - Juízes do Trabalho
+
+                          
+
+
+---
+
+---
+
+2. Competências da Justiça do Trabalho
+
+Art. 114. Compete à Justiça do Trabalho processar e julgar:
+I as ações oriundas da relação de trabalho, abrangidos os entes de direito
+público externo e da administração pública direta e indireta da União, dos
+Estados, do Distrito Federal e dos Municípios;
+II as ações que envolvam exercício do direito de greve;
+V os conflitos de competência entre órgãos com jurisdição trabalhista,
+ressalvado o disposto no art. 102, I, o;
+IX outras controvérsias decorrentes da relação de trabalho, na forma da lei.
+
+                         
+
+
+---
+
+Justiça Eleitoral
+
+---
+
+1. Órgãos da Justiça Eleitoral
+
+Art. 118. São órgãos da Justiça Eleitoral:
+I - o Tribunal Superior Eleitoral;
+II - os Tribunais Regionais Eleitorais;
+III - os Juízes Eleitorais;
+IV - as Juntas Eleitorais.
+
+                            
+
+
+---
+
+---
+
+---
+
+2. Competências da Justiça Eleitoral
+
+Art. 121. Lei complementar disporá sobre a organização e competência dos
+tribunais, dos juízes de direito e das juntas eleitorais.
+
+§ 3º São irrecorríveis as decisões do Tribunal Superior Eleitoral, salvo as que
+contrariarem esta Constituição e as denegatórias de habeas corpus ou mandado
+de segurança.
+
+                          
+
+
+---
+
+§ 4º Das decisões dos Tribunais Regionais Eleitorais somente caberá recurso
+quando:
+I - forem proferidas contra disposição expressa desta Constituição ou de lei;
+II - ocorrer divergência na interpretação de lei entre dois ou mais tribunais
+eleitorais;
+III - versarem sobre inelegibilidade ou expedição de diplomas nas eleições
+federais ou estaduais;
+IV - anularem diplomas ou decretarem a perda de mandatos eletivos federais ou
+estaduais;
+V - denegarem habeas corpus, mandado de segurança, habeas data ou
+mandado de injunção.
+
+                         
+
+
+---
+
+ Justiça Militar
+
+---
+
+1. Órgãos da Justiça Militar
+
+Art. 122. São órgãos da Justiça Militar:
+I - o Superior Tribunal Militar;
+II - os Tribunais e Juízes Militares instituídos por lei.
+
+                             
+
+
+---
+
+2. Competências da Justiça Militar
+
+Art. 124. à Justiça Militar compete processar e julgar os crimes militares
+definidos em lei.
+Parágrafo único. A lei disporá sobre a organização, o funcionamento e a
+competência da Justiça Militar.
+
+                         
+
+
+---
+
+Justiça Estadual
+
+---
+
+1. Órgãos da Justiça Estadual
+
+                          
+
+
+---
+
+2. Competências da Justiça Estadual
+
+Art. 125. § 1º A competência dos tribunais será definida na Constituição do
+Estado, sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça.
+
+                           
+
+
+---
+
+GRATA!
+                                         Profª.: Nelma Fontana
+
+    
+
+
+---

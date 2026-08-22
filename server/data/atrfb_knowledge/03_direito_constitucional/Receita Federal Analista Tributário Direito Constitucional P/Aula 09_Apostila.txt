@@ -1,0 +1,4018 @@
+                                                     Aula 08
+                          Receita Federal (Analista Tributário)
+                               Direito Constitucional (Prof. João
+                                                       Trindade)
+
+
+
+                                                          Autor:
+                             João Trindade Cavalcante Filho
+
+
+
+
+                                               25 de Maio de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      João Trindade Cavalcante Filho
+      Aula 08
+
+
+
+
+                                                                                     Índice
+1) Federação
+..............................................................................................................................................................................................3
+
+2) Entes Federativos
+..............................................................................................................................................................................................
+                                                                                                                                                                                            17
+
+3) Alterações na Estrutura da Federação
+..............................................................................................................................................................................................
+                                                                                                                                                                                            22
+
+4) Bens da União e dos Estados
+..............................................................................................................................................................................................
+                                                                                                                                                                                            29
+
+5) Intervenção
+..............................................................................................................................................................................................
+                                                                                                                                                                                            33
+
+6) Questões Comentadas - Organização do Estado - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            47
+
+7) Lista de Questões - Organização do Estado - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            65
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                           75
+
+                                                             https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+                                             APRESENTAÇÃO
+Olá!
+
+Nossa análise agora tem por objeto a Parte Geral do Título III da Constituição Federal, que trata
+da parte de Organização do Estado.
+
+Mais especificamente, analisaremos os arts. 18 a 21; 25 a 29; 31 a 36 da CF. Isso não inclui a
+parte de Competências Federativas (que, por ser extremamente longa e detalhada, constitui um
+capítulo à parte), e inclui a temática relativa à intervenção federal.
+
+
+                                                 FEDERAÇÃO
+A Federação é uma forma de Estado, ou seja, um dos modelos de organização territorial do
+poder adotado por países do mundo. Embora haja uma multiplicidade de formas intermediárias,
+a maioria das nações adota ou um modelo de poder politicamente centralizado (Estado Unitário)
+ou a descentralização do poder político, com a existência de vários níveis de governo (Estado
+Federal, ou Federação – que vem do latim, foedere, fundir).
+
+Como exemplos de países que adotam a forma federativa de Estado, podemos citar Estados
+Unidos da América, México, Argentina, Brasil, Austrália, Canadá, Bélgica, Holanda, Alemanha,
+Suíça, Índia, Rússia...
+
+Na realidade, o que caracteriza uma federação é a existência de vários níveis ou degraus de
+governo, sem hierarquia uns em relação aos outros, todos eles dotados de um poder de
+autodeterminação limitada, chamado de autonomia política. Em termos simples, pode-se
+considerar que o Estado Unitário pode ser representado por uma casa “sozinha no lote” (1
+terreno = 1 casa); ao contrário, a Federação pode ser comparada a um condomínio, em que,
+dentro de um mesmo terreno, há várias casas ou unidades habitacionais. Claro que nenhuma
+dessas casas é soberana, nenhuma dessas casas tem poder absoluto de se autodeterminar; mas,
+dentro das regras básicas da convenção de condomínio, cada casa decide seu próprio rumo
+(autonomia política).
+
+Na Federação brasileira (“condomínio”), teríamos a União (“síndica” do condomínio, tanto que
+fala em nome dele, embora com ele não se confunda), os Estados (blocos) e os Municípios
+(apartamentos). A “convenção de condomínio” é a Constituição Federal, mas cada “bloco”
+elabora sua convenção específica (Constituições Estaduais), e cada apartamento também deve
+elaborar suas regras de convivência (Lei Orgânica).
+
+Aprofundamento: outros tipos de organização de estados
+
+A doutrina registra ainda formas “intermediárias” de organização de estados, tais como o Estado
+Regional. Esse modelo, adotado, por exemplo, na França e na Espanha, reconhece alguma esfera
+de poder político às entidades regionais, embora não cheguem a constituir um Estado-membro
+politicamente autônomo. Elas têm alguns dos poderes de autonomia (especialmente em relação
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     3
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 08
+
+
+
+à autoadministração e, eventualmente, à autolegislação), mas não todos (não possuem, por
+vezes, o poder de eleger os próprios governantes, isto é, o autogoverno).
+
+Há também quem cite, como outra forma de Estado, a Confederação. Tecnicamente, porém, a
+Confederação é uma União de Estados, e não uma forma de Estado: não existe um país que seja
+uma confederação; a Suíça, apesar de se autodenominar uma “Confederação”, na realidade, tem
+todas as características de uma Federação: a Confederação é, por definição, uma união de países
+soberanos, ligados entre si mediante um tratado internacional, e que, portanto, admite a retirada
+(secessão). Um exemplo seria a União Europeia, conjunto de países vinculados entre si pelos
+Tratados de Maastrich I e II, e que tanto admite a retirada que tal fato se verificou recentemente,
+com a aprovação da saída do Reino Unido (o chamado “brexit”).
+
+Aprofundamento: a relação entre Federação, pluralismo e democracia
+
+Konrad Hesse (em sua famosa obra, Elementos de Direito Constitucional da República Federal da
+Alemanha) comenta sobre a conexão íntima entre federalismo e democracia. Segundo ele, a
+descentralização do poder político (federalismo) tende a aproximar o poder dos cidadãos,
+fortalecendo, assim, o princípio democrático. Em outras palavras, a questão é: é mais fácil para o
+cidadão cobrar algo do Prefeito do que do Presidente da República; ao menos em tese, a
+federação tende a fortalecer a participação social e, assim, a democracia.
+
+Especificamente em relação à Alemanha, registra-se que o Federalismo alemão, como
+atualmente estabelecido, remonta à elaboração da Grundgesetz (Lei Fundamental) de 1949, que
+reintroduziu o princípio no ordenamento daquele país. Segundo Ute Koczy, “ao lado da
+tradicional separação entre legislativo, executivo e judiciário (‘separação horizontal de poderes’),
+a divisão de funções entre a federação e os Länder (‘separação vertical de poderes’) foi intentada
+como uma efetiva salvaguarda contra o abuso de poder e foi ainda conveniente aos interesses
+dos três ex-inimigos de guerra da Alemanha [Inglaterra, EUA e França]”1.
+
+A segunda mais antiga Federação do Mundo (embora se autointitule “Confederação”), a Suíça
+teve a Constituição promulgada em 1847 e reformada em 1999. O art. 1 da Constituição Federal
+dispõe que a Confederação Suíça é formada pelos cidadãos suíços e pelos Cantões (verdadeiros
+Estados-membros), que são “soberanos”, à exceção dos poderes expressamente atribuídos à
+Confederação. Por outro lado, os arts. 51 e 52 asseguram aos cantões o direito a estatuir uma
+constituição democrática.
+
+De qualquer forma, a adoção da forma federativa de Estado, muitas vezes, atende a questões
+históricas, como a existência de vários países ou reinos independentes que, para aceitar se
+unirem como um país só, não abrem mão de manter alguns poderes (caso dos Estados Unidos e
+da Alemanha). Por outro lado, é bastante frequente que a Federação seja uma técnica usada para
+equilibrar tensões étnicas, geográficas, culturais e até linguísticas, por meio da possibilidade de a
+divisão geográfica do poder facilitar a convivência (é o caso da Bélgica, da Suíça, da Holanda e
+especialmente da Índia e da ultracomplexa Federação Russa).
+
+Com efeito, a Constituição da Federação Russa, de 12 de dezembro de 1993, estabeleceu uma
+federação de estrutura extremamente complexa, composta pela União, Repúblicas, Territórios,
+Regiões, Cidades de Importância Federal, Regiões Autônomas e Áreas Autônomas – sete
+1
+    KOCZY, Ute. Federalism in Germany. In: The constitutional status of the regions in the Russian Federation and in
+    other European Countries. Conseil de l’Europe: Strasbourg, 2003. p. 83.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      4
+          www.estrategiaconcursos.com.br                                                                         75
+
+                                        https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 08
+
+
+
+espécies de entidades federativas “igualmente sujeitas à Federação Russa” (art. 5, 1, parte final).
+Dentre as entidades regionais, apenas as Repúblicas – equivalentes aos Estados-membros –
+possuem constituição própria (art. 5, 2). A questão torna-se ainda mais complicada em virtude
+dos conflitos étnicos e políticos que permeiam toda a região. Assim, por exemplo, as
+Constituições do Tartaristão e da Chechênia declaram a absoluta soberania dessas Repúblicas,
+sem qualquer subordinação à Federação Russa2.
+
+Já a Constituição Indiana estabelece uma Federação também extremamente complexa em
+termos estruturais, em que diversos níveis federativos convivem com entidades territoriais
+destituídas de autonomia política, paralelamente a divisões étnicas regionais.
+
+Origens da Federação
+A forma federativa de Estado tal como hoje a entendemos surgiu nos Estados Unidos da
+América, em 1787, como um meio-termo à adoção de um Estado Unitário ou de uma mera
+confederação.
+
+Na verdade, o que hoje são os Estados Unidos da América eram, na origem, 13 colônias inglesas.
+Após a Declaração de Independência, de 4 de julho de 1776, cada uma das 13 colônias passou a
+constituir um país soberano (inclusive com a edição de várias constituições). Uniram-se, em
+primeiro lugar, formando uma Confederação (união de países soberanos), com a finalidade de
+enfrentar a guerra contra a Inglaterra. Percebeu-se, porém, a fragilidade desse primeiro arranjo,
+pois a possibilidade de secessão tornava muito tênue o vínculo entre os países. Começaram,
+então, a ser publicados artigos em jornais, defendendo, sob o pseudônimo Publius, que os
+Estados abrissem mão de sua soberania para formar um país só (os chamados “artigos
+federalistas”, ou federalist papers). Não se desejava, contudo, formar um Estado centralizado,
+com poder absoluto, como acontecia na Inglaterra. O meio-termo encontrado foi a adoção de
+uma Federação, por meio da qual os Estados abriam mão de sua soberania, mas resguardavam
+para si um “pedaço” de poder, a autonomia política. Nasciam, então, os Estados Unidos da
+América (vários Estados que se uniram para formar um país só).
+
+Um quadro pode ajudar a compreender as principais diferenças e semelhanças entre o Estado
+Unitário, o Estado Federal e a Confederação:
+
+                    Comparação entre Estado Unitário, Estado Federal e Confederação
+
+
+                        Estado Unitário                              Estado Federal              Confederação
+
+
+    Um só país                                                      Um só país              Vários países unidos
+
+
+
+
+2
+     LESAGE, Michel. Constitution of the Russian Federation os the Status of Regions: problems of the common legal
+     area – diversity in unity of the regional structures in the Russian Federation. In: The constitutional status of the
+     regions in the Russian Federation and in other European Countries. Conseil de l’Europe: Starsbourg, 2003, p.
+     27-28.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                          5
+           www.estrategiaconcursos.com.br                                                                             75
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Entes regionais possuem apenas autonomia                         Entes regionais Entes regionais possuem
+                                                                 possuem         soberania         (países
+                                                                 autonomia       independentes)
+                                                                 política
+
+
+
+Indissolúvel                                                     Indissolúvel            Dissolúvel
+
+
+
+União de Direito Constitucional (interno)                        União de Direito União      de       Direito
+                                                                 Constitucional   Internacional
+                                                                 (interno)
+
+
+
+Exemplo atual: Portugal                                          Exemplo atual: Exemplo atual: Mercosul
+                                                                 Brasil         e União Europeia
+
+
+Modelos
+Federalismo centrípeto (por agregação): EUA
+
+No caso dos EUA, como vimos, o federalismo formou-se por centralização ou por agregação
+(federalismo centrípeto). Esse é o modelo clássico, no qual vários Estados independentes se
+reúnem para dar origem a um Estado Federal. Em tal situação, é comum que os
+Estados-membros resguardem para si uma grande parcela de competências e atribuições, se
+comparadas ao plexo de matérias atribuídas à União.
+
+Federalismo centrífugo (por desagregação): Brasil
+
+Já no caso do Brasil, o federalismo formou-se de maneira diametralmente oposta.
+
+Havia, aqui, um só Estado unitário (Império, Constituição de 1824), que, por força de movimentos
+autonomistas internos (tais como a Revolução Farroupilha e a Revolução Praieira), terminou
+subdividindo-se, transformando-se em um Estado Federal. Veja que, com a Proclamação da
+República (1889) e a posterior promulgação da Constituição Republicana de 1891, as antigas
+províncias do Império (cujos governadores eram de livre nomeação e exoneração do Rei) fizeram,
+por assim dizer, o “upgrade”, transformando-se em Estados-membros, com autonomia política
+(inclusive o autogoverno, isto é, o poder de elegerem os próprios governantes).
+
+Esse é o movimento conhecido como federalismo por desagregação, ou centrífugo, no qual é
+comum que a União tenha mais competências do que os Estados-membros.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                  6
+        www.estrategiaconcursos.com.br                                                                     75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Questão de Concurso
+
+(Cespe/Câmara dos Deputados/Consultor Legislativo – Área de Direito Constitucional, Eleitoral e
+Municipal/2014) O federalismo no Brasil é caracterizado como federalismo por agregação, tendo
+surgido a partir da proclamação da República e se consolidado por meio da Constituição de
+1891.
+
+Comentários:
+
+O modelo brasileiro é o federalismo por desagregação. O restante da afirmativa está certo.
+
+Gabarito: Errado
+
+Características de qualquer Federação
+Existem algumas características que são comuns (constantes) em todos os países que adotam a
+forma federativa de estado. Pode-se mesmo dizer que seria possível fazer uma espécie de check
+list: um país que preencher todas as condições listadas a seguir poderá ser qualificado como uma
+federação.
+
+Autonomia política
+
+Em primeiro lugar, tem-se o reconhecimento da autonomia política dos entes federativos. Essa
+característica, aliás, é específica da Federação, já que os Estados Unitários asseguram apenas a
+autonomia administrativa às regiões (autonomia semelhante àquela que é reconhecida às
+autarquias e fundações, por exemplo), ao passo que, nas Confederações, os Países-membros
+têm soberania (poder absolutamente livre, inclusive de se retirarem da federação), e não apenas
+a autonomia política.
+
+O poder da autonomia política abrange quatro aspectos, todos eles cobrados insistentemente
+em provas de concursos públicos e OAB:
+
+- autolegislação – é o poder de editar as próprias leis, dentro da sua esfera de competência. É
+por conta desse poder que existem, no Brasil, as leis federais, as leis estaduais, as leis distritais e
+as leis municipais. Esse poder é exercido pelo Legislativo de cada unidade da Federação.
+
+- autogoverno – trata-se do poder de escolher (eleger) os próprios governantes, isto é, os
+governadores, deputados e senadores (Estados e DF) e os prefeitos e vereadores (Municípios).
+Note que, na época do Império, as províncias não tinham esse poder, justamente porque não
+lhes era reconhecida a autonomia política.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)           7
+        www.estrategiaconcursos.com.br                                                              75
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 08
+
+
+
+- auto-organização – é o poder de organizar os próprios poderes constituídos (Legislativo,
+Executivo e, se for o caso, Judiciário), por meio da edição de uma Constituição (no caso da União
+e dos Estados) ou de uma Lei Orgânica (caso do DF e dos Municípios). Trata-se não do exercício
+de um poder de legislação “comum”, mas de uma verdadeira função constituinte (o poder
+constituinte derivado decorrente), embora juridicamente limitada pela Constituição Federal (e
+embora também exista controvérsia doutrinária sobre a qualificação do poder de
+auto-organização do DF e dos Municípios como um verdadeiro poder constituinte).
+
+- autoadministração – é o poder de cada ente federativo de manter sua própria estrutura
+administrativa, inclusive mediante a instituição e arrecadação de seus tributos, a elaboração do
+próprio orçamento, a contratação dos seus servidores e a criação e manutenção dos seus
+próprios órgãos e entidades administrativas (autarquias, fundações etc.).
+
+
+
+
+Questão de Concurso
+
+(MPE-PR/Promotor/2019) No Estado Federal, as ordens jurídicas central e periféricas gozam de
+soberania.
+
+Comentários:
+
+Apenas a ordem jurídica total (Federação) é dotada de soberania, sendo as ordens jurídicas
+parciais (União, Estados, DF e Municípios, no caso brasileiro) dotadas apenas de autonomia
+política.
+
+Gabarito: Errado.
+
+Um quadro pode resumir especialmente a questão da auto-organização dos entes federativos3:
+
+                                     Auto-organização dos entes federativos
+
+
+
+
+3
+    Algumas questões sobre a existência ou não de determinados órgãos serão abordadas na questão relativas à
+    organização dos poderes, sendo aqui citadas apenas a título introdutório.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)              8
+          www.estrategiaconcursos.com.br                                                                 75
+
+                                        https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 08
+
+
+
+
+     Nível                                                                       Ministério
+                                                                                                           Tribunal
+                                                                                              Defensoria
+                  Lei fundamental      Legislativo Executivo      Judiciário                   Pública
+                                                                                                              de
+ federativo                                                                       Público                  Contas
+
+
+
+União            Constituição          Congres Preside Tribunais   Ministério Defens                       Tribun
+                 Federal               so       nte da (STF, STJ, Público da oria                          al de
+                                       Nacional Repúbli STM, TST, União      = Pública                     Contas
+                                       =        ca    + TRTs, TSE, Ministério da                           da
+                                       Câmara Vice-Pr TREs,        Público     União                       União
+                                       dos      esident TRFs,      Federal +
+                                       Deputad e      + TJDFT) e Ministério
+                                       os    + Ministro juízes da Público do
+                                       Senado s      de União      Trabalho +
+                                       Federal Estado              Ministério
+                                                                   Público
+                                                                   Militar +
+                                                                   Ministério
+                                                                   Público do
+                                                                   Distrito
+                                                                   Federal e
+                                                                   Territórios
+
+
+Estados          Constituição          Assembl      Govern Tribunais    Ministério            Defens       Tribun
+                 Estadual              eia          ador de (TJ       e Público               oria         al de
+                                       Legislati    Estado eventualm Estadual                 Pública      Contas
+                                       va           +       ente     TJ                       Estadu       Estadu
+                                                    Vice-Go Militar) e                        al           al
+                                                    vernad juízes
+                                                    or    + estaduais
+                                                    Secretá
+                                                    rios de
+                                                    Estado
+
+
+DF               Lei Orgânica do Câmara Govern Não há            Não há   Defens Tribun
+                 Distrito Federal Legislati ador do                       oria     al de
+                                  va     do DF    + (a   Justiça (O MPDFT Pública Contas
+                                  Distrito Vice-Go no       DF, integra o do       do
+                                  Federal vernad    inclusive  o MPU)     Distrito Distrit
+                                            or    + TJDFT, é              Federal o
+                                            Secretá organizada            (organi Federa
+                                            rios de ,  custeada           zada,    l
+                                                    e mantida             custead
+                                                                          a      e
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                              9
+      www.estrategiaconcursos.com.br                                                                                  75
+
+                                    https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+      Nível                                                                        Ministério
+                                                                                                             Tribunal
+                                                                                                Defensoria
+                    Lei fundamental      Legislativo Executivo      Judiciário                   Pública
+                                                                                                                de
+   federativo                                                                       Público                  Contas
+
+
+                                                      Estado       pela                         mantid
+                                                      do DF        União)                       a pelo
+                                                                                                DF
+                                                                                                desde
+                                                                                                a EC n.
+                                                                                                69/12)
+
+
+  Municípios       Lei Orgânica          Câmara Prefeito Não há      Não há     Não há Só há
+                                         Municip +                                      Tribun
+                                         al      Vice-Pr  (o         (o         (a      al de
+                                                 efeito + Judiciário Ministério Defens  Contas
+                                                 Secretá no          Público no oria    Munici
+                                                 rios     Município  Município  Pública pal
+                                                 Municip é exercido é exercido no       nos
+                                                 ais      pela       pelo       Municí  municí
+                                                          Justiça    Ministério pio é pios
+                                                          Estadual)  Público    exercid que os
+                                                                     Estadual) a pela haviam
+                                                                                Defens criado
+                                                                                oria    antes
+                                                                                Pública da CF
+                                                                                Estadu de
+                                                                                al)     1988
+                                                                                        (São
+                                                                                        Paulo
+                                                                                        e Rio
+                                                                                        de
+                                                                                        Janeir
+                                                                                        o)
+
+
+Inexistência de direito de secessão
+
+O direito de secessão (direito de se retirar do grupo) não é reconhecido nas federações (só nas
+confederações). Em outras palavras: a federação é indissolúvel, ao passo que a confederação é
+dissolúvel. Isso acontece porque, na federação, a soberania (poder ilimitado) só é assegurada ao
+todo, ao conjunto, e não a qualquer de suas partes. Na verdade, a maioria das federações –
+assim como é o caso também do Brasil – preveem que, caso algum Estado-membro tente a
+secessão, poderá até mesmo sofrer a providência grave da intervenção federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                              10
+        www.estrategiaconcursos.com.br                                                                                  75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Possibilidade de intervenção federal
+
+Como os entes federativos têm autonomia política, mas não soberania, seus poderes têm que ser
+submetidos a um limite. Esse limite é justamente não poder colocar em risco a própria existência
+da Federação. Por isso, todos os países que adotam a forma federativa preveem, de alguma
+maneira, a possibilidade de a União intervir nos Estados-membros. Trata-se, logicamente, de um
+procedimento excepcionalíssimo, manejado apenas nos casos previstos expressamente no
+ordenamento – e, ainda assim, por prazo determinado. No Brasil, não é diferente, tanto que os
+arts. 34 e 35 dispõem, respectivamente, sobre a intervenção da União nos Estados e no DF, e
+sobre a intervenção nos Municípios.
+
+Existência de uma Constituição Federal
+
+Nas confederações, o documento jurídico que une os Estados-membros é um tratado (por
+definição, um documento entre sujeitos de direito internacional e que pode ser denunciado,
+“rompido”). Ao contrário, nas federações, os Estados unem-se por um documento de direito
+interno, de direito constitucional, e nascido para vigorar por prazo indeterminado, sem
+possibilidade de ser superado, a não ser por meios revolucionários: a Constituição. É necessário,
+ademais, que essa Constituição traga uma repartição de competências (divisão de tarefas) entre
+os entes da Federação.
+
+Aliás, é por isso que alguns autores classificam as Uniões de Estados em uniões de direito
+constitucional (federação) e uniões de direito internacional (confederação).
+
+Atenção!
+
+Para alguns autores, nas federações, não basta o fato de haver uma constituição; é preciso que se
+trate de uma constituição rígida (mais difícil de alterar do que a legislação ordinária), embora nem
+todos os países adotem a técnica de considerar a federação uma cláusula pétrea, como acontece
+no Brasil (CF, art. 60, § 4º, I).
+
+Existência de um órgão legislativo representativo dos Estados
+
+Todas as federações do mundo possuem, no âmbito do Poder Legislativo, um órgão que
+representa os Estados-membros, atuando como uma espécie de “assembleia condominial” da
+Federação. O nome desse órgão naturalmente varia (a nomenclatura mais comum é “Senado”).
+O importante é que a função dos seus membros seja representar os membros da Federação,
+inclusive no âmbito do processo legislativo (embora, em alguns países, nem todos os projetos de
+lei passem pelo crivo do órgão representativo dos Estados, como é o caso da Alemanha).
+
+Nesse sentido, pode-se dizer que o bicameralismo (existência de duas casas no âmbito do Poder
+Legislativo Federal) é uma consequência natural da adoção da forma federativa de Estado. A
+recíproca, porém, não é verdadeira: nem todos os países que adotam o bicameralismo são
+federações (um caso notável de estado unitário que adota o bicameralismo é a Inglaterra).
+
+No Brasil, o órgão que exerce esse papel de representar os Estados e o Distrito Federal é o
+Senado Federal (CF, art. 46). Tanto assim que os Territórios Federais – que, conforme veremos,
+não são entes federativos – não têm poder de eleger Senadores.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       11
+        www.estrategiaconcursos.com.br                                                           75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Existência de um Tribunal Federativo
+
+Em toda e qualquer federação, é necessário que exista um Tribunal incumbido de resolver os
+conflitos entre os entes da federação, um tribunal federativo, com uma espécie de “função
+arbitral”. No caso brasileiro, esse órgão é o Supremo Tribunal Federal (CF, art. 102, I, f), a quem
+cabe resolver originariamente (ações que já nascem direto na Corte) as causas e os conflitos
+entre: a) a União e um Estado (exemplo: Pet 3388/RR, conhecida como o “Caso
+Raposa/Serra-do-sol”, que envolvia conflito entre a União e o Estado de Roraima, acerca do
+critério de demarcação de terras indígenas); b) a União e o DF; c) um Estado e outro Estado (por
+exemplo, no caso de disputas territoriais); ou d) um Estado e o DF.
+
+Cuidado!
+
+Embora os Municípios sejam entes federativos, um conflito envolvendo-os não atrai a
+competência originária do STF, já que não é um caso que possa colocar em risco a existência da
+federação. Um conflito entre a União e um Município será resolvido na primeira instância da
+Justiça Federal (CF, art. 109, I), ao passo que um conflito entre um Estado e um Município será de
+competência originária da Justiça Estadual comum (CF, art. 125).
+
+Atenção!
+
+Essa competência originária do STF aplica-se não apenas aos casos de conflito entre a
+Administração Pública direta de qualquer dos entes listados acima, mas também ao caso de
+disputa entre entidades da Administração Indireta, como autarquias, fundações públicas,
+empresas públicas e sociedades de economia mista. Assim, por exemplo, serão de competência
+originária do STF as causas e os conflitos entre: a) sociedade de economia mista federal e
+autarquia estadual; b) autarquia federal e autarquia estadual; c) empresa pública de um Estado e
+empresa pública de outro Estado etc.
+
+Veja bem!
+
+Essa competência originária do STF é definida pelo critério da pessoa (competência ratione
+personae), e não da matéria. Logo, a causa será decidida originariamente pelo Supremo ainda
+que o caso não envolva diretamente matéria constitucional.
+
+Nacionalidade única
+
+Não é tolerável que, numa federação, existam várias nacionalidades distintas. Isso é possível
+apenas numa confederação (veja-se o caso da União Europeia, em que há livre tráfego de
+pessoas e até passaporte comum, mas a nacionalidade é a de cada País-membro). Já na
+Federação, é necessário assegurar o mesmo status de nacional a qualquer pessoa que tenha
+nascido no território de qualquer dos Estados-membros. Não à toa, o art. 12, I, a, da Constituição
+Federal, declara serem brasileiros natos os nascidos na República Federativa do Brasil (isto é,
+independentemente do Estado-membro), e o inciso III do art. 19 proíbe qualquer ente federativo
+de criar distinções entre brasileiros (veja subitem abaixo).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      12
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Vedações federativas
+
+Em toda e qualquer federação, existem algumas práticas que os entes federativos não podem
+adotar, sob pena de que isso cause o desequilíbrio do próprio conjunto do Estado Soberano. No
+Brasil, essas vedações federativas estão previstas no art. 19 da CF (e são insistentemente
+cobradas em prova!!!):
+
+I – estabelecer cultos religiosos ou igrejas, embaraçar-lhes o funcionamento, ou subvencioná-los,
+ou manter com eles ou seus representantes relações de dependência ou de aliança, ressalvada,
+na forma da lei, a colaboração de interesse público;
+
+Trata-se do princípio do Estado laico, ou leigo, segundo o qual não cabe, ao Poder Público,
+adotar esta ou aquela religião, pois essa questão é de foro íntimo do indivíduo. Além dessa
+questão de direitos fundamentais, há também uma inspiração federativa nessa regra: evitar
+conflitos entre entes da Federação, por terem adotado religiões distintas.
+
+Percebe-se, contudo, que a norma é de eficácia contida (produz todos os seus efeitos
+imediatamente de regulamentação, mas admite que a lei crie exceções), já que a lei pode prever
+situações excepcionais em que o Poder Público pode colaborar com entidades religiosas, a fim
+de promover o interesse público (ex.: colaboração com uma Santa Casa de Misericórdia, para
+fazer atendimento aos enfermos).
+
+II – recusar fé a documentos públicos;
+
+Isso significa que o documento expedido por um ente da federação é válido para ser utilizado
+perante os demais, pois nenhuma entidade integrante da federação pode recursar-se a
+reconhecer a validade de um documento expedido em outro local do país. Um exemplo claro
+dessa questão diz respeito à identificação civil (RG), que é documento expedido pelos Estados e
+pelo DF, mas é válido para a utilização na esfera federal, municipal, ou de outros Estados.
+
+III – criar distinções entre brasileiros ou preferências entre si;
+
+Uma regra que decorre do fato de que a nacionalidade é única: logo, não pode um brasileiro ser
+tratado de forma diferenciada de acordo com o local de nascimento. Por conta disso, são
+inconstitucionais regras que reservam cotas em vestibulares de universidades estaduais para
+pessoas nascidas no Estado; ou que exigem, em concurso público, que o candidato tenha
+nascido neste ou naquele Estado. Essa questão – que deriva até mesmo do próprio princípio da
+isonomia – também se aplica às pessoas jurídicas (ex.: não se pode exigir, numa licitação para
+aquisição de bens, que a empresa seja situada num determinado Estado).
+
+Da mesma maneira, os entes da federação não podem se tratar, uns aos outros, de forma
+desigual. Por exemplo: a União pode delegar competências privativas a Estados (CF, art. 22,
+parágrafo único), mas tem que fazê-lo de forma igualitária (não pode delegar uma competência
+apenas para alguns Estados, por exemplo); a alíquota do ICMS (imposto sobre a circulação de
+mercadorias e serviços) é definida pelo próprio Estado, segundo alíquotas máximas e mínimas
+fixadas pelo Senado Federal – Casa da Federação, lembra-se? –, mas o Estado não pode prever
+alíquotas diferenciadas pela origem do produto (queijo vindo de Goiás, alíquota “x”, vindo de
+Minas Gerais, alíquota “2x”).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    13
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 08
+
+
+
+                              As principais características de uma Federação
+
+
+                Característica                                    Significado              Caso brasileiro
+
+
+ Autonomia         política      dos     entes Autolegislação (poder União, Estados, DF e
+ federativos                                   de editar suas próprias Municípios     possuem
+                                               leis)                   todas    essas   quatro
+                                                                       prerrogativas
+                                               Autogoverno (poder de
+                                               eleger    os   próprios
+                                               governantes)
+
+                                                   Auto-organização
+                                                       ==5460==
+
+
+
+
+                                                   (poder de elaborar a
+                                                   própria    Constituição
+                                                   estadual     ou      Lei
+                                                   Orgânica municipal)
+
+                                                   Autoadministração
+                                                   (poder de gerenciar os
+                                                   próprios   recursos    e
+                                                   elaborar    o    próprio
+                                                   orçamento)
+
+
+
+ Indissolubilidade do vínculo                      Não há              direito   de A Federação é cláusula
+                                                   secessão                         pétrea. Se qualquer
+                                                                                    ente tentar retirar-se,
+                                                                                    deverá           sofrer
+                                                                                    intervenção
+
+
+
+ Existência de um órgão legislativo Por isso, o Poder O Senado Federal é a
+ representativo da vontade dos Legislativo Federal deve Casa da Federação,
+ Estados-membros                    ser bicameral       formada         por
+                                                        representantes  dos
+                                                        Estados e do DF
+
+
+
+ Existência de um Tribunal Federativo              Tribunal para resolver Cabe ao STF processar
+                                                   conflitos da Federação e julgar “as causas e os
+                                                                          conflitos entre a União e
+                                                                          os Estados, a União e o
+                                                                          Distrito   Federal, ou
+                                                                          entre uns e outros,
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      14
+      www.estrategiaconcursos.com.br                                                                          75
+
+                                    https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 08
+
+
+
+
+                    Característica                             Significado                     Caso brasileiro
+
+                                                                                        inclusive as respectivas
+                                                                                        entidades             da
+                                                                                        Administração indireta”
+                                                                                        (art. 102, I, f)
+
+
+
+     Nacionalidade                                     A nacionalidade é uma Nacionalidade brasileira:
+                                                       só, independentemente art. 12
+     única                                             do lugar, dentro do país,
+                                                       em que a pessoa nasceu
+
+
+Aprofundamento: a inconstitucionalidade do “bônus regional” no acesso a universidades
+públicas
+
+Em primeiro lugar, é necessário conceituar o que é esse “bônus regional”. Trata-se de
+bonificação na nota do Exame Nacional do Ensino Médio (ENEM) (em alguns casos, de até 20%)
+adotada por algumas universidades públicas federais, a fim de privilegiar alunos residentes em
+determinada região do Estado (ou Estados). Assim, por exemplo, a Universidade Federal do
+Oeste da Bahia atribuía bonificação de 20% para alunos residentes (ou que fizeram todo o ensino
+médio) em determinados Municípios. Não se trata, assim, propriamente, de uma reserva de
+vagas (política de cotas), mas de uma forma de ação afirmativa (política pública de concessão de
+tratamento beneficiado para determinado grupo socialmente vulnerável). Geralmente, tais
+bonificações são instituídas (e eventualmente revogadas, como ocorreu recentemente no caso da
+Universidade Federal do Maranhão) por meio de ato da reitoria ou do conselho universitário, e
+não por lei em sentido formal.
+
+Nesse contexto, questiona-se a constitucionalidade material dessa bonificação por região (ou
+jocosamente chamada de “bônus por CEP”), especialmente em face do princípio da vedação do
+tratamento diferenciado entre brasileiros (Constituição Federal – CF, art. 19, III4 e 5) e do princípio
+da isonomia (CF, art. 5º, caput6).
+
+Em defesa da constitucionalidade da medida, as universidades que a adotam costumavam
+afirmar que se busca dar tratamento diferenciado a populações socialmente mais vulneráveis, em
+detrimento de alunos de grandes centros, que podem buscar vagas em localidades mais
+afastadas, cujas notas podem ser ordinariamente menos elevadas. Assim, a política de
+4
+  “Art. 19. É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+........................................................
+III – criar distinções entre brasileiros ou preferências entre si.”.
+5
+   Perceba-se que, como o art. 19 da CF dirige-se a todos os entes e níveis federativos, é irrelevante, nesse caso,
+perquirir-se sobre a natureza federal, estadual, distrital ou municipal da instituição de ensino superior que adota a
+bonificação.
+6
+   “Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos
+estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à
+propriedade, nos termos seguintes:
+.........................................................”.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       15
+          www.estrategiaconcursos.com.br                                                                           75
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 08
+
+
+
+bonificação estaria, na verdade, realizando o princípio da isonomia material, e não o vulnerando;
+ademais, seria uma concretização do objetivo fundamental da República de reduzir as
+desigualdades sociais e regionais (CF, art. 3º, II). Ademais, o próprio Supremo Tribunal Federal
+(STF) já teria validado até mesmo medidas mais restritivas da competitividade7, como a política
+de cotas raciais8.
+
+Por outro lado, quem questiona a constitucionalidade da medida considera que a adoção de
+critérios raciais ou sociais (política de cotas) é admitida em face do princípio da igualdade
+material, o que não ocorreria com o “bônus regional”, que adota critério regional/geográfico,
+importando em tratamento diferenciado entre brasileiros pelo local de nascimento, em afronta à
+vedação federativa específica nesse sentido (CF, art. 19, III) e, no limite, o próprio equilíbrio
+federativo. Haveria, mais ainda, inconstitucionalidade por violação ao princípio da isonomia, por
+se adotar critério de distinção injustificável e discriminatório.
+
+Em síntese conclusiva, pode-se afirmar que, a partir de uma interpretação conjunta dos art. 5º,
+caput (isonomia), e 19, III (vedação ao tratamento diferenciado entre brasileiros), a instituição de
+“bônus regional” para acesso a universidades públicas pode ser considerada inconstitucional.
+Não que tal ação afirmativa não seja apta a reduzir as desigualdades regionais ou que seja
+violadora da igualdade em si mesma, mas porque a CF excluiu especificamente essa forma de
+tratamento diferenciado do campo da licitude constitucional, até mesmo para evitar eventuais
+conflitos ou desequilíbrios federativos.
+
+Nesse sentido, aliás, o STF decidiu recentemente, por exemplo, ao julgar a ADI nº 7458/PB, o
+que foi reiterado no julgamento da Reclamação nº 65.976/MA, julgada em 21.05.2024. Assim,
+para fins de provas de concursos, pode-se dizer que o bônus regional para Universidades, pelo
+critério do local de nascimento ou residência, foi considerado inconstitucional pelo STF.
+
+
+
+
+7
+  Mais restritivas, porque aqui se tinha caso de efetiva reserva de vaga (preenchimento por critérios raciais, e não
+bonificação para a população negra).
+8
+  Supremo Tribunal Federal (STF), Arguição de Descumprimento de Preceito Fundamental (ADPF) nº 186/DF, Relator
+Ministro Joaquim Barbosa.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                     16
+          www.estrategiaconcursos.com.br                                                                         75
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+                                         ENTES FEDERATIVOS
+São as pessoas políticas, isto é, os entes que compõem a Federação. Distinguem-se das pessoas
+administrativas (autarquias, fundações públicas, empresas públicas e sociedades de economia
+mista) porque possuem autonomia política (autogoverno, autolegislação, auto-organização e
+autoadministração), e não apenas administrativa. São entes federativos: a União, os Estados, o DF
+e os Municípios.
+
+
+
+
+Lembre-se!!!
+
+Não há hierarquia entre os entes da Federação!
+
+
+
+
+À luz do art. 18, caput, da CF, a organização político-administrativa da República Federativa do
+Brasil (que é soberana) abrange, engloba os entes da Federação, a saber: União, Estados, Distrito
+Federal e Municípios. Esses entes internos são dotados de autonomia (e não de soberania), e
+essa autonomia política se desdobra em quatro poderes: autolegislação, autogoverno,
+auto-organização e autoadministração.
+
+Cuidado!
+
+Adota-se, no Brasil, o federalismo de terceiro grau, pois DF e Municípios também são
+reconhecidos como entes federativos. A Federação brasileira era de segundo grau até a
+promulgação da CF/1988, quando o DF e os Municípios ganharam autonomia política, e a nossa
+Federação passou a adotar o federalismo de terceiro grau.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    17
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Divergência doutrinária!
+
+Existe divergência doutrinária sobre considerar os Municípios como entidades federativas (José
+Afonso da Silva, por exemplo, não os considera assim, apesar da expressa referência a eles na
+Constituição, inclusive no caput do art. 1º). De qualquer forma, a doutrina amplamente
+majoritária entende que, ao menos a partir da CF de 1988, os Municípios ganharam autonomia
+política, tendo sido alçados à categoria de entes federativos autônomos.
+
+Para fins de provas de concursos e OAB, se a questão perguntar se os Municípios são entes
+federativos, a resposta será que sim; se, porém, afirmar que a doutrina é pacífica nesse sentido,
+estará incorreta.
+
+Aprofundamento: o DF e os Municípios antes da CF de 1988
+
+Costuma-se considerar que o DF e os Municípios só ganharam autonomia política com a
+promulgação da CF de 1988. Com efeito, no ordenamento jurídico anterior, o DF não elaborava
+sua própria Lei Orgânica, nem possuía Câmara Legislativa (as leis para o DF eram elaboradas
+pelo Senado Federal), nem elegia os próprios governantes (época em que o chefe do Executivo
+distrital era chamado de “Prefeito do DF” e nomeado diretamente pelo Presidente da República).
+De forma semelhante, os Municípios antes de 1988 não elegiam os próprios prefeitos (ou, pelo
+menos, nem todos os Municípios o faziam) e a Lei Orgânica não era elaborada pelas Câmaras
+Municipais, mas sim votada pela Assembleia Legislativa estadual, para aplicar-se a todos os
+Municípios daquele Estado. Por isso, diz-se que o Brasil adotava um federalismo de segundo
+grau (União e Estados) até a promulgação da CF/1988, e só após esta que passou a adotar um
+federalismo de terceiro grau (União, Estados, DF e Municípios).
+
+Atenção!
+
+Os territórios federais – que atualmente não existem, mas podem vir a ser criados por lei
+complementar (art. 33) – não são entes federativos; não possuem autonomia política, mas
+meramente administrativa; são meras autarquias da União.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     18
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Questão de Concurso
+
+(Esaf/MPOG/Especialista/2008) Assinale a opção que contempla todos os entes da organização
+político-administrativa da República Federativa do Brasil, nos termos da Constituição.
+
+a) União, Estados, Distrito Federal e Municípios, todos soberanos.
+
+b) União, Estados, Distrito Federal, Territórios Federais e Municípios, todos soberanos.
+
+c) União, Estados, Distrito Federal, Territórios Federais e Municípios, todos independentes.
+
+d) União, Estados, Distrito Federal, Territórios Federais e Municípios, todos autônomos.
+
+e) União, Estados, Distrito Federal e Municípios, todos autônomos.
+
+Comentários:                                             ==5460==
+
+
+
+
+Nenhum ente federativo é soberano (são apenas autônomos). E os territórios não são entes
+federativos.
+
+Gabarito: E
+
+Temos, então, os seguintes níveis federativos:
+
+União – ente de 1º grau (mais extenso em termos territoriais, nível nacional);
+
+Estados – entes de 2º grau (nível regional);
+
+Municípios – entes de 3º grau (nível local);
+
+DF – ente sui generis, uma espécie de grau “2,5”, pois mistura características de Estados com
+características de Municípios, inclusive acumulando as competências de ambos os níveis.
+
+Veja bem!
+
+A União pode, mediante lei complementar, criar territórios federais (art. 33) – entes meramente
+administrativos (autarquias territoriais), sem autonomia política (os governadores de território, por
+exemplo, são nomeados pelo Presidente da República, com aprovação do Senado Federal (CF,
+art. 84, XIV, e art. 52, III, c), governados como se fossem um “braço” da União. Atualmente, não
+existem territórios federais, porque os que existiam em 1988 ou ganharam autonomia e foram
+transformados em Estados (Amapá e Roraima: art. 14 do ADCT) ou foram reincoporados a Estado
+(Fernando de Noronha: art. 15 do ADCT), mas nada impede que venham a ser criados, desde
+que o sejam mediante lei complementar federal.
+
+Da mesma forma que a União pode criar territórios federais, os Estados podem criar (mediante lei
+complementar estadual) regiões metropolitanas, aglomerações urbanas e microrregiões (CF, art.
+25, § 3º), formadas pelo agrupamento de municípios limítrofes, com a finalidade realizar o
+planejamento e a execução integradas de serviços públicos. Imagine, por exemplo, como fazer
+coleta de lixo ou transporte coletivo em Municípios conurbados (em que não há mais fronteira
+natural, pois já há a interligação da malha urbana): é mais racional que as licitações e contratos
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        19
+        www.estrategiaconcursos.com.br                                                            75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+sejam feitos em nome de uma região metropolitana (que não é ente federativo, mas ente
+meramente administrativo; não tem autonomia política, mas apenas autonomia administrativa).
+
+Finalmente, os Municípios podem criar distritos (mediante lei ordinária municipal, observados os
+critérios previstos em lei estadual: CF, art. 30, IV), uma espécie de “subprefeitura”, para
+aproximar a gestão municipal de povoados ou localidades distantes da sede da prefeitura. Assim
+como os territórios federais e as regiões metropolitanas, os distritos não são entes federativos,
+não têm autonomia política, mas, diferentemente dos dois primeiros, são criados por lei
+ordinária, e não complementar.
+
+
+
+                  Distinções entre Território federal, Região metropolitana e Distrito
+
+
+                                                                         Competência Instrumento Previsão
+  Pessoa Política              Natureza              Autonomia
+                                                                          para criar  de criação  Legal
+
+
+Território federal       Ente               Administrativa   União                           Lei         Art. 18, §
+                         administrativo     (não      possui                                 complemen 2º, e art.
+                         (não     é    ente autonomia                                        tar federal 33
+                         federativo)        política)
+
+
+
+Região                   Ente               Administrativa   Estados                         Lei          Art. 25, §
+metropolitana            administrativo     (não      possui                                 complemen 3º
+                         (não     é    ente autonomia                                        tar estadual
+                         federativo)        política)
+
+
+
+Distrito                 Ente               Administrativa   Municípios                      Lei           Art.   30,
+                         administrativo     (não      possui                                 (ordinária)   IV
+                         (não     é    ente autonomia                                        estadual
+                         federativo)        política)
+
+
+Aprofundamento: os Municípios situados em território federal
+
+Embora os territórios federais não sejam entes federativos, a CF prevê expressamente a
+possibilidade de que dentro dos territórios haja Municípios – esses, sim, Municípios como outros
+quaisquer, inclusive dotados dos quatro poderes decorrentes da autonomia política
+(autolegislação, autogoverno, auto-organização e autoadministração). É o que dispõe o art. 33,
+§1º, da CF. Eventual intervenção nesses Municípios será feita diretamente pela própria União (é a
+única hipótese em que a União pode intervir diretamente em Município: art. 35, caput).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                         20
+        www.estrategiaconcursos.com.br                                                                             75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Aprofundamento: regiões envolvendo mais de um Estado
+
+O art. 43 da CF ainda prevê um outro tipo de entidade administrativa: são as regiões criadas pela
+União, envolvendo Municípios de mais de um Estado. Sua criação se dá mediante lei
+complementar federal (ao contrário das regiões metropolitanas, que são criadas por lei
+complementar estadual e envolvem Municípios de um mesmo Estado). Um exemplo de região
+criada pela União, na forma do art. 43 da CF, é a Região Integrada de Desenvolvimento do
+Distrito Federal e do Entorno – RIDE (criada pela Lei Complementar nº 94/1998, envolvendo o
+DF e Municípios dos Estados de Goiás e Minas Gerais).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    21
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+                  ALTERAÇÕES NA ESTRUTURA DA FEDERAÇÃO
+Embora a Federação seja indissolúvel (ou seja, não há direito de secessão), pode haver alterações
+na sua estrutura interna. Imagine que a Federação é um “quebra-cabeça”: nenhuma peça pode
+ser retirada do jogo, mas pode uma peça ser quebrada em outras três, ou duas peças serem
+“coladas” para virarem uma só etc.). Essas alterações – tanto em nível estadual quanto em nível
+municipal – são regidas pelo art. 18 da CF.
+
+
+Alteração na Estrutura dos Estados (art. 18, § 3º)
+
+Pode haver a fusão (dois Estados fundem-se para dar origem a um terceiro ente), a incorporação
+(um Estado “engole” o outro), a subdivisão (um Estado desaparece, dando origem a dois novos
+Estados) ou o desmembramento (um Estado perde um pedaço, que passa a constituir novo ente
+federativo).
+
+
+                 Fusão                     A + B = C (novo Estado)
+
+
+
+                 Incorporação              A + B = B (Estado A desaparece)
+
+
+
+                 Subdivisão                A = B + C (o Estado original desaparece)
+
+
+
+                 Desmembramento A = A + B (o Estado A continua a existir)
+
+
+
+
+Questão de Concurso
+
+(Cespe/AGU/Advogado/2009) No tocante às hipóteses de alteração da divisão interna do
+território brasileiro, é correto afirmar que, na subdivisão, há a manutenção da identidade do ente
+federativo primitivo, enquanto, no desmembramento, tem-se o desaparecimento da
+personalidade jurídica do Estado originário.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     22
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Na subdivisão, o Estado original desaparece, enquanto no desmembramento, há a manutenção
+da personalidade jurídica original.
+
+Gabarito: Errado
+
+Em termos de procedimento (“passo a passo”), a alteração (qualquer que seja a espécie) em nível
+estadual deve seguir estes passos:
+
+   a) Aprovação da proposta pelas populações diretamente interessadas, em plebiscito (não é
+      referendo!!!) convocado pelo Congresso Nacional;
+
+   b) Aprovação pelo Congresso Nacional, por meio de lei complementar federal.
+
+Cuidado!
+
+Segundo o STF, devem ser ouvidas todas as populações envolvidas: tanto a que quer se separar
+quanto a que sofrerá a separação.
+
+Isso ficou claro no caso do plebiscito que decidiu a proposta de desmembramento do Estado do
+Pará (previa-se a criação de dois novos Estados, Carajás e Tapajós), mas, como tinha que ser
+ouvido todo o Estado, e a proposta contava com oposição da maior cidade (a capital Belém), a
+proposta terminou por ser rejeitada.
+
+Veja, por exemplo, este julgado:
+
+“Sendo o desmembramento uma divisão territorial, uma separação, com o desfalque de parte do
+território e de parte da sua população, não há como excluir da consulta plebiscitária os interesses
+da população da área remanescente, população essa que também será inevitavelmente afetada.
+O desmembramento dos entes federativos, além de reduzir seu espaço territorial e sua
+população, pode resultar, ainda, na cisão da unidade sociocultural, econômica e financeira do
+Estado, razão pela qual a vontade da população do território remanescente não deve ser
+desconsiderada, nem deve ser essa população rotulada como indiretamente interessada.
+Indiretamente interessada – e, por isso, consultada apenas indiretamente, via seus representantes
+eleitos no Congresso Nacional – é a população dos demais Estados da Federação, uma vez que a
+redefinição territorial de determinado Estado-membro interessa não apenas ao respectivo ente
+federativo, mas a todo o Estado Federal.” (STF, Pleno, ADI 2.650, rel. min. Dias Toffoli, j.
+24-8-2011, P, DJE de 17-11-2011).
+
+Atenção!
+Mesmo que a proposta seja aprovada em plebiscito, o Congresso não é obrigado a aprovar a lei
+complementar. Porém, se a proposta for rejeitada, o Congresso Nacional não pode nem sequer
+propor o Projeto de Lei.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      23
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Questão de Concurso
+
+(Cespe/CPRM/Analista Jurídico/2013) Um dos requisitos constitucionais exigidos do estado da
+Federação que pretenda se subdividir é a realização de consulta direta à população interessada,
+por meio de referendo.
+
+Comentários:
+
+A manifestação do povo se dá mediante plebiscito, não referendo.
+
+Gabarito: Errado
+
+
+
+
+Cuidado!
+Essa competência dos Estados para criarem Municípios (art. 18, § 4º) não se estende ao DF, uma
+vez que esta unidade da Federação é expressamente proibida de se dividir em Municípios.
+
+Municípios (art. 18, § 4º)
+Em relação aos Municípios, podem ser realizadas as mesmas alterações previstas na esfera
+estadual (fusão, incorporação, subdivisão ou desmembramento). O que vai mudar é o
+procedimento, que é quadrifásico.
+
+Assim, para que seja realizada uma alteração (de qualquer espécie) na estrutura da Federação em
+nível municipal, é necessário atender aos passos seguintes:
+
+   a) Edição de lei complementar federal estipulando o período em que poderá ser feita a
+      criação dos Municípios (ainda não existe)
+
+   b) Realização de Estudo de Viabilidade Municipal (EVM) atestando que o município é viável.
+
+       Se não for considerado viável – proposta arquivada.
+
+       Se for considerado viável – próxima etapa.
+
+   c) Aprovação da proposta pelas populações diretamente envolvidas, por meio de plebiscito
+      (não é referendo!!!).
+
+       Se no plebiscito ganhar o “não” – proposta arquivada.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   24
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+       Se no plebiscito ganhar o “sim” – próxima etapa.
+
+   d) Aprovação pela Assembleia Legislativa Estadual, por meio de lei (ordinária) estadual, da
+      alteração pretendida.
+
+
+
+
+Cuidado!
+
+O STF já decidiu que o § 4º do art. 18 é norma constitucional de eficácia limitada (só produzirá
+todos os efeitos quando for regulamentado: ADI nº 2.240/BA).
+
+Como tal lei complementar não foi criada ainda, atualmente, não pode haver a criação de novos
+municípios.
+
+Veja bem!
+
+“Após a alteração promovida pela EC 15/1996, a Constituição explicitou o alcance do âmbito de
+consulta para o caso de reformulação territorial de Municípios e, portanto, o significado da
+expressão "populações diretamente interessadas", contida na redação originária do § 4º do art.
+18 da Constituição, no sentido de ser necessária a consulta a toda a população afetada pela
+modificação territorial, o que, no caso de desmembramento, deve envolver tanto a população
+do território a ser desmembrado quanto a do território remanescente. Esse sempre foi o real
+sentido da exigência constitucional – a nova redação conferida pela emenda, do mesmo modo
+que o art. 7º da Lei 9.709/1998, apenas tornou explícito um conteúdo já presente na norma
+originária. A utilização de termos distintos para as hipóteses de desmembramento de
+Estados-membros e de Municípios não pode resultar na conclusão de que cada um teria um
+significado diverso, sob pena de se admitir maior facilidade para o desmembramento de um
+Estado do que para o desmembramento de um Município.” (STF, Pleno, ADI 2.650, rel. min. Dias
+Toffoli, j. 24-8-2011, P, DJE de 17-11-2011.).
+
+Ou seja: devem ser ouvidos os membros de todos os Municípios ou bairros potencialmente
+afetados.
+
+Cuidado!
+
+A aprovação pela Assembleia Legislativa configura um ato discricionário. Assim, mesmo a
+população apoiando a mudança, o Estado (por meio da Assembleia) pode rejeitá-la.
+
+Atenção!
+
+A consulta à população é feita mediante plebiscito (consulta prévia) e não referendo (consulta
+posterior). Deve, além disso, abranger todos os Municípios envolvidos.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    25
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Questões de Concurso
+
+(Cespe/MPCE/Analista Jurídico/2020) Pesquisas de opinião, abaixo-assinados e declarações de
+organizações comunitárias favoráveis à criação, à incorporação ou ao desmembramento de
+municípios são capazes de suprir o rigor e a legitimidade do plebiscito exigido pela Constituição
+Federal de 1988.                                         ==5460==
+
+
+
+
+Comentários:
+
+Para a modificação estrutural de Municípios (criação, fusão, incorporação etc.) exige-se a consulta
+formal e prévia à população dos Municípios envolvidos, mediante plebiscito, não sendo
+suficientes pesquisas de opinião, enquetes, entre outras maneiras informais de consulta.
+
+Gabarito: Errado
+
+
+
+(Esaf/Receita Federal/Analista Tributário/2012) A fusão de municípios far-se-á por lei estadual,
+dentro do período determinado por lei complementar federal, e dependerá de consulta prévia,
+mediante plebiscito, às populações dos municípios envolvidos, sendo prescindível a realização
+de Estudo de Viabilidade Municipal.
+
+Comentários:
+
+A realização de Estudo de Viabilidade Municipal é indispensável, imprescindível.
+
+Gabarito: Errado
+
+Atenção!!!
+
+Atualmente, não podem ser criados ou alterados Municípios enquanto não for editada a Lei
+Complementar Federal prevista no art. 18, § 4º. Isso já foi decidido diversas vezes pelo STF e,
+recentemente, foi confirmado no julgamento seguinte:
+
+“Pendente a edição de legislação federal que assinale o prazo dentro do qual será permitida a
+criação e alteração de municípios, são inconstitucionais, por violação do § 4º do art. 18 da
+Constituição, na redação que lhe foi dada pela EC 15/1996, os regramentos estaduais que
+porventura disciplinem a matéria.” (STF, Pleno, ADPF 819, rel. min. Roberto Barroso, red. do ac.
+min. Gilmar Mendes, j. 9-10-2023, P, DJE de 9-1-2024.)
+
+No mesmo sentido:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      26
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+“A redação original do art. 18, § 4º, da CF/1988 condicionava a criação de municípios à edição
+de lei estadual, obedecidos os requisitos previstos em Lei Complementar estadual, e a uma
+consulta prévia, mediante plebiscito, às populações diretamente interessadas. Esse procedimento
+simplificado, que delegou exclusivamente à esfera estadual a regulamentação dos parâmetros
+para a emancipação, propiciou a proliferação de entes municipais no Brasil após a promulgação
+da Constituição de 1988. Atento a essa realidade, o constituinte derivado alterou o texto
+constitucional e dificultou a criação de municípios, restringindo a fragmentação da federação. O
+art. 18, § 4º, da CF/1988, com redação dada pela EC 15/1996, passou a exigir, além dos
+requisitos anteriormente previstos, a edição de lei complementar federal e a divulgação prévia
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. (...) A atual
+dicção desse dispositivo constitucional impõe a aprovação prévia de leis federais para que os
+Estados sejam autorizados a iniciar novos processos de emancipação municipal. Até que isso
+ocorra, leis estaduais que versem sobre o tema são inconstitucionais.” (STF, Pleno, ADI 4.711, rel.
+min. Roberto Barroso, j. 8-9-2021, P, DJE de 16-9-2021).
+
+Aprofundamento: o caso dos “Municípios putativos”
+
+Na redação original da CF, a criação de Municípios era bastante fácil, pois era feita por lei
+complementar estadual, mediante critérios previstos em lei do próprio Estado (e não em lei
+complementar federal, como ocorre hoje). Além disso, não havia qualquer exigência de que
+fossem realizados Estudos de Viabilidade Municipal. Por conta disso, entre 1988 e 1996, o Brasil
+presenciou um verdadeiro boom de Municípios – muitos deles, inclusive, criados sem qualquer
+viabilidade, especialmente econômica.
+
+Para fazer frente a essa situação, o Congresso Nacional aprovou a EC nº 15/1996, que passou a
+prever a realização de Estudos de Viabilidade Municipal, além de atribuir, à lei complementar
+federal, a tarefa de definir o período e os critérios para a alteração na esfera municipal. Porém, foi
+só em 2006 que o STF pacificou o entendimento de que o § 4º do art. 18 é norma constitucional
+de eficácia limitada (só é aplicável após a regulamentação). Restou a dúvida, então, sobre o que
+fazer com os diversos Municípios que haviam sido criados entre 1996 e 2006. Desfazê-los era
+impossível, mas também não se poderia simplesmente convalidar a criação de forma
+inconstitucional.
+
+Isso levou o STF a utilizar-se da técnica da declaração de inconstitucionalidade sem pronúncia de
+nulidade (como foi no caso da ADI nº 2.240/BA, em que se analisou a criação, em 2000, do
+Município de Luís Eduardo Magalhães-BA, por desmembramento do Município de Barreiras-BA).
+Por meio dessa técnica de controle de constitucionalidade, o Tribunal reconhece o vício da
+norma (declaração de inconstitucionalidade), mas não a anula, não a retira do mundo jurídico
+(não pronuncia a nulidade).
+
+Ao final, em 2008, o Congresso Nacional editou a EC nº 57/2008, que convalidou as alterações,
+em nível municipal, realizadas entre 1996 e 2006 (art. 96 do ADCT: “Ficam convalidados os atos
+de criação, fusão, incorporação e desmembramento de Municípios, cuja lei tenha sido publicada
+até 31 de dezembro de 2006, atendidos os requisitos estabelecidos na legislação do respectivo
+Estado à época de sua criação”).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)         27
+        www.estrategiaconcursos.com.br                                                             75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Podemos fazer uma linha do tempo sobre esse caso dos Municípios:
+
+
+     1988-1996                     1996-2006                                      2006-presente
+
+
+
+                         Eram    inconstitucionais,
+                                                    Inconstitucional (só será possível quando
+Válidos                  mas foram convalidados
+                                                    editada a lei complementar)
+                         pela EC nº 57/08
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        28
+        www.estrategiaconcursos.com.br                                                            75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+            BENS DA UNIÃO E DOS ESTADOS (ARTS. 20 E 26)
+A Constituição Federal cuidou não apenas de repartir as competências federativas, mas também
+de promover a distribuição dos bens públicos. Por isso, os arts. 20 e 26 tratam, respectivamente,
+de enumerar (em rol meramente exemplificativo, ou seja, pode haver outros) os bens que
+pertencem à União e os bens que pertencem aos Estados. Logicamente, os bens dos Municípios
+serão elencados nas suas próprias leis orgânicas.
+
+Esse assunto não cai sempre em provas de concursos e OAB, mas, quando aparece, as questões
+são geralmente das que fazem a diferença.
+
+Aqui comentaremos, em conjunto, os principais dispositivos dos arts. 20 e 26.
+
+Características dos bens da União
+
+
+                        Bens da União (art. 20)                                              Explicação
+
+
+Os que atualmente lhe pertencem e os que lhe vierem a ser O rol de bens da União não é
+atribuídos                                                taxativo:     é   meramente
+                                                          exemplificativo
+
+
+
+As terras devolutas indispensáveis à defesa das fronteiras, - Terras devolutas: não estão
+das fortificações e construções militares, das vias federais de registradas em    nome de
+comunicação e à preservação ambiental, definidas em lei         nenhum particular, logo são
+                                                                públicas
+
+                                                                                - Só são da União as terras
+                                                                                devolutas indispensáveis a uma
+                                                                                dessas quatro finalidades: as
+                                                                                demais      pertencem       aos
+                                                                                Estados-membros (art. 26, IV)
+
+                                                                                - Toda terra devoluta é pública,
+                                                                                mas nem toda terra devoluta é
+                                                                                da União
+
+
+
+Os lagos, rios e quaisquer correntes de água em terrenos de                     Regra: só pertencem aos
+seu domínio, ou que banhem mais de um Estado, sirvam de                         Estados-membros os rios que
+limites com outros países, ou se estendam a território                          nascem e morrem dentro do
+estrangeiro ou dele provenham, bem como os terrenos                             mesmo Estado; os demais
+marginais e as praias fluviais                                                  pertencem à União
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                    29
+        www.estrategiaconcursos.com.br                                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 08
+
+
+
+
+                           Bens da União (art. 20)                                              Explicação
+
+
+    As ilhas fluviais e lacustres nas zonas limítrofes com outros                  - Ilhas oceânicas: longe da costa
+    países; as praias marítimas; as ilhas oceânicas e as costeiras,                (todas são da União)
+    excluídas, destas, as que contenham a sede de Municípios,
+    exceto aquelas áreas afetadas ao serviço público e a unidade                   - Ilhas costeiras: perto da costa
+    ambiental federal, e as referidas no art. 26, II                               (são da União, mas há exceções)
+
+                                                                                   Ilhas oceânicas e costeiras
+                                                                                   pertencem à União, exceto, em
+                                                                                   relação às ilhas costeiras, as que
+                                                                                   possuam a sede de Município
+                                                                                   (Vitória, São Luís, Florianópolis,
+                                                                                   etc.)
+
+
+
+    O mar territorial                                                              Faixa de 12 milhas náuticas ao
+                                                                                   longo    da costa, que é
+                                                                                   considerada território brasileiro
+
+
+
+    Os recursos naturais da plataforma continental e da Zona ZEE: faixa que vai das 12 até as
+    Econômica Exclusiva                                      200 milhas náuticas e, embora
+                                                             não seja território nacional, só a
+                                                             União pode explorar
+
+
+
+    Terrenos de marinha e seus acrescidos                                          - Faixa de 33 metros ao longo
+                                                                                   das praias marítimas (terrenos
+                                                                                   de     marinha)      e   aterros
+                                                                                   (acrescidos): pertencem à União,
+                                                                                   que pode, contudo, conceder o
+                                                                                   uso aos particulares, por meio
+                                                                                   de uma figura chamada de
+                                                                                   enfiteuse (art. 49, § 3º, do
+                                                                                   ADCT1)
+
+
+
+
+1
+   ADCT, art. 49. “A lei disporá sobre o instituto da enfiteuse em imóveis urbanos, sendo facultada aos foreiros, no
+caso de sua extinção, a remição dos aforamentos mediante aquisição do domínio direto, na conformidade do que
+dispuserem os respectivos contratos.
+(...)
+§ 3º A enfiteuse continuará sendo aplicada aos terrenos de marinha e seus acrescidos, situados na faixa de
+segurança, a partir da orla marítima.
+(...)”
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      30
+           www.estrategiaconcursos.com.br                                                                          75
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+                         Bens da União (art. 20)                                              Explicação
+
+
+ Os potenciais de energia hidráulica                                             Mesmo que a corrente de água
+                                                                                 seja estadual ou particular, a
+                                                                                 energia por ela gerada pertence
+                                                                                 à União
+
+
+
+ Os recursos minerais, inclusive os do subsolo                                   O proprietário do solo tem
+                                                                                 direito     à  participação no
+                                                                                 produto       da     lavra,    ou
+                                                          ==5460==
+                                                                                 compensação             financeira
+                                                                                 (royalties)
+
+
+
+ As cavidades naturais subterrâneas e os sítios arqueológicos Grutas, cavernas, sítios com
+ e pré-históricos                                             pinturas rupestres etc.
+
+
+
+ As terras tradicionalmente ocupadas pelos índios                                As    terras     indígenas      não
+                                                                                 pertencem          aos      índios:
+                                                                                 pertencem       à     União.     As
+                                                                                 comunidades indígenas têm
+                                                                                 apenas a posse permanente e o
+                                                                                 usufruto exclusivo das riquezas
+                                                                                 do solo (art. 231, §§ 1º e 2º).
+
+
+
+
+Questões de Concurso
+
+(Cespe/MS/Agente/2008) Na definição dos bens da União, o rol enumerado na CF é
+exemplificativo, podendo outros lhes serem atribuídos.
+
+Comentários:
+
+Ver art. 20, I.
+
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       31
+         www.estrategiaconcursos.com.br                                                                           75
+
+                                       https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Gabarito: Correto
+
+
+
+(Cespe/TJ-AL/Juiz Substituto/2009) São bens da União as terras devolutas.
+
+Comentários:
+
+Não necessariamente: as terras devolutas podem pertencer à União ou aos Estados.
+
+Gabarito: Errado
+
+
+
+(Esaf/Receita Federal/Analista Tributário/2012) Os recursos minerais do subsolo são bens dos
+municípios.
+
+Comentários:
+
+Os recursos minerais pertencem à União (art. 20, IX).
+
+Gabarito: Errado
+
+
+
+(Esaf/Receita Federal/Auditor Fiscal/2014) Em razão de sua localização, as ilhas oceânicas e
+costeiras são de propriedade da União, sem exceção.
+
+Comentários:
+
+Em relação às ilhas costeiras, há exceções.
+
+Gabarito: Errado
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   32
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+                              INTERVENÇÃO (ARTS. 34 A 36)
+
+Conceito
+É uma medida de exceção, somente justificável nos casos previstos exaustivamente na
+Constituição (trata-se de um rol fechado, taxativo, numerus clausus). Cuida-se de reduzir
+temporariamente a autonomia de um ente federativo em prol da unidade nacional e da
+estabilidade das instituições. A intervenção é, portanto, um ato político, e é justamente por isso
+que, de acordo com o STF, da decisão do TJ que dá provimento à ação interventiva de Estado
+em Município, não cabe recurso extraordinário (Súmula 637 do STF: “Não cabe recurso
+extraordinário contra acórdão de tribunal de justiça que defere pedido de intervenção estadual
+em município”).
+
+Princípios
+São princípios da intervenção, entre outros:
+
+- Temporariedade (pois não existe intervenção que dure para sempre, sob pena de se suprimir a
+própria autonomia do ente federativo);
+
+- Excepcionalidade (a intervenção não é a regra, é a exceção; logo, só pode ser decretada nos
+casos expressamente previstos na CF em rol taxativo – e, ainda assim, quando se provar que
+outros instrumentos de gestão são insuficientes para fazer frente ao problema);
+
+- Caráter político (mesmo quando requisitada pelo Judiciário, a intervenção é um ato de natureza
+política, o que significa que envolve sempre algum grau de discricionariedade – seja de quem a
+decreta, o Presidente da República, seja de quem a requisita);
+
+- Razoabilidade e proporcionalidade: são princípios aplicáveis à intervenção, de acordo com a
+jurisprudência do STF, de modo que só se deve proceder à medida extrema quando for
+absolutamente impossível solucionar a questão por meio de qualquer outra providência
+(princípio da subsidiariedade).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     33
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Atenção!
+
+A decretação de intervenção federal produz, imediatamente, um efeito importante no âmbito do
+processo legislativo: impede a aprovação de Emendas à Constituição (CF, art. 60, § 1º). Trata-se
+do que a doutrina chama de uma limitação circunstancial ao poder de reforma da CF.
+
+Existe, no entanto, divergência sobre a extensão desse limite.
+
+O art. 60, § 1º, impede que a CF seja emendada durante os estados de excepcionalidade. Mas o
+que significa “ser emendada”? Ora, significa aprovar uma emenda. Seria um contrassenso admitir
+a aprovação da PEC, mas aguardar o término do estado de emergência apenas para promulgá-la,
+mesmo porque a promulgação é um ato meramente declaratório de uma alteração que já
+aconteceu. Por outro lado, não vemos óbice constitucional para que a PEC seja discutida durante
+a vigência de Estado de Defesa, Estado de Sítio ou Intervenção Federal, desde que não seja
+iniciada sua votação (embora seja difícil imaginar que o Congresso tenha pauta para discutir uma
+emenda durante situação tão grave). Em suma: o que o art. 60, § 1º, impede, é, a nosso ver, a
+votação da PEC, mas não sua discussão.
+
+Nesse sentido, Paulo Napoleão Nogueira da Silva defende que:
+
+“(...) qualquer proposta de emenda em tramitação no Congresso Nacional terá sua decisão
+positiva – aprovação – e promulgação sobrestadas, se superveniente a decretação de qualquer
+das mencionadas medidas. Quanto à hipótese de a tramitação ser alcançada no seu curso por tal
+superveniência, a rigor não precisará ela ser suspensa ou interrompida: apenas a decisão final
+ficará em suspenso”.
+
+É de se registrar, porém, a opinião contrária de Pontes de Miranda, que, comentando a
+Constituição de 1967, anotava que a PEC não poderia sequer ser proposta durante a vigência do
+Estado de Sítio (na época, essa era a única limitação circunstancial):
+
+“É preciso que não se esteja em Estado de Sítio durante a iniciativa, a apresentação do projeto,
+sua discussão e votação. Se um momento houve de Estado de Sítio, nula é a emenda, pelo vício
+da inconstitucionalidade. A emenda que foi discutida e votada fora do Estado de Sítio, mas em
+Estado de Sítio foi proposta, é contra a Constituição”.
+
+Em sentido semelhante, Ives Gandra da Silva Martins defende que, uma vez decretada a
+intervenção federal, “fica paralisado o processo de emenda à Constituição, qualquer que seja seu
+estágio”. Esse é o entendimento, também, de Sérgio Valladão Ferraz, André Ramos Tavares e
+Leo Van Holthe. Como já afirmamos, discordamos desse ponto de vista, pelas razões já expostas,
+mas reconhecemos que nossa posição é isolada, pois a imensa maioria da doutrina considera
+que, durante a vigência de um dos estados de emergência citados no § 1º do art. 60, não pode
+haver nenhum tipo de tramitação de emenda constitucional.
+
+Para fins de prova de concurso, esse seria um ótimo tema para a prova discursiva.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   34
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+Competência para decretar a intervenção
+A intervenção é instaurada por meio de Decreto do Presidente da República (CF, art. 84, X), que
+atua, nesse caso, como chefe de Estado. O decreto, quando necessário, determina o temporário
+afastamento das autoridades estaduais e nomeia o interventor federal (um cargo de natureza civil,
+ainda que seja exercido por militar, pois substitui – ainda que temporariamente – uma autoridade
+civil, o Governador).
+
+É obrigatório, ao Presidente da República, antes de decretar a intervenção, ouvir o Conselho da
+República e o Conselho de Defesa Nacional, que opinarão sobre a providência (mas a decisão
+dos conselhos não é vinculativa para o Presidente).
+
+Por simetria, a competência para decretar a intervenção estadual nos Municípios é do
+Governador.
+
+Essa competência (tanto do Presidente da República quanto do Governador) pode ser
+discricionária (com análise de conveniência e oportunidade) ou vinculada (obrigatória), a
+depender da hipótese que autoriza a intervenção.
+
+Entes que intervêm x Entes que sofrem a intervenção
+De acordo com a CF, a União pode (em situações excepcionais, relembre-se) intervir nos Estados
+ou no DF (art. 34). Por outro lado, os Estados podem (em situações excepcionais) intervir nos
+Municípios neles situados (art. 35).
+
+Disso, pode-se tirar algumas conclusões:
+
+- o DF pode sofrer intervenção, mas não pode intervir, já que não pode ser dividido em
+Municípios;
+
+- somente os Estados podem intervir nos Municípios neles situados, não havendo que se falar em
+intervenção da União em Município situado em Estado;
+
+- a única hipótese em que a União pode intervir em Município é se este estiver situado num
+Território Federal (art. 35); como, atualmente, os territórios federais não existem, então essa
+hipótese continua sendo apenas teórica.
+
+Intervenção da União nos Estados e no DF (Art. 34)
+A União – diz o art. 34 da CF – não pode intervir nos Estados, nem no DF, a não ser nas hipóteses
+taxativamente listadas no próprio dispositivo constitucional.
+
+Neste momento, analisaremos os casos que autorizam a intervenção, já indicando o
+procedimento a ser adotado (e que será mais detalhado em breve).
+
+
+
+                        Hipóteses de intervenção da União nos Estados e no DF
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    35
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 08
+
+
+
+
+            MOTIVO DA INTERVENÇÃO (art. 34)                                          PROCEDIMENTO
+
+
+Manter a integridade nacional (I) – quando, por exemplo,
+                                                         Intervenção espontânea
+um Estado tenta se separar da Federação.
+
+
+
+Invasão estrangeira ou de uma unidade em outra (II).                        Intervenção espontânea
+
+
+
+Grave comprometimento da ordem pública (III) – casos,
+por exemplo, em que uma epidemia ou uma onda de
+                                                          Intervenção espontânea
+violência causa instabilidade institucional tão grave que
+justifique a medida extrema de intervenção.
+
+
+
+Garantir o livre exercício dos Poderes (IV) – quando um                     Intervenção por solicitação (ao
+dos poderes estaduais ou distritais coage os demais (por                    Presidente da República) do
+exemplo, o Executivo que deixa de repassar os                               poder Legislativo ou Executivo;
+duodécimos aos demais poderes).                                             intervenção por requisição, caso
+                                                                            o    poder coacto seja o
+                                                                            Judiciário, a intervenção se dá
+                                                                            por requisição do STF
+
+
+
+Reorganizar as finanças em caso de (V): a) não pagamento
+da dívida fundada por MAIS de dois anos consecutivos; ou Intervenção espontânea
+b) não repasse aos Municípios das receitas tributárias.
+
+
+
+Não execução de ordem ou decisão judicial (VI).                             Intervenção por requisição do
+                                                                            STF, STJ ou TSE
+
+
+
+Não execução de lei federal (VI).                                           Intervenção por requisição do
+                                                                            STF, a pedido do PGR
+                                                                            (representação interventiva)
+
+
+
+Desrespeito aos princípios sensíveis (VII): forma Intervenção por requisição do
+republicana, sistema representativo e regime democrático; STF, a pedido do PGR
+direitos da pessoa humana; autonomia municipal; (representação interventiva)
+prestação de contas; aplicação da receita mínima em
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       36
+      www.estrategiaconcursos.com.br                                                                           75
+
+                                    https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+              MOTIVO DA INTERVENÇÃO (art. 34)                                          PROCEDIMENTO
+
+  educação e saúde.
+
+
+Aprofundamento: o conceito de “dívida pública fundada”
+
+“A dívida fundada compreende os compromissos de exigibilidade superior a 12 meses,
+contraídos para atender a desequilíbrio orçamentário ou a financiamentos de obras e serviços
+públicos” (Lei n. 4.320/1967, art. 98); “dívida pública consolidada ou fundada: montante total,
+apurado sem duplicidade, das obrigações financeiras do ente da Federação, assumidas em
+virtude de leis, contratos, convênios ou tratados e da realização de operações de crédito, para
+amortização em prazo superior a doze meses” (LC nº 101/2000 – Lei de Responsabilidade Fiscal,
+art. 29, I).
+
+Procedimento da intervenção federal nos Estados ou no DF
+
+O procedimento da intervenção tem algumas características constantes, outras que variam de
+acordo com a modalidade (espontânea, por solicitação ou por requisição).
+
+Uma constante é a decretação realizada pelo Chefe do Executivo (no caso de intervenção federal,
+o Presidente da República), antecedida de consulta aos Conselhos da República e de Defesa
+Nacional. O que pode variar é se o ato presidencial é vinculado ou discricionário; se há ou não
+necessidade de apreciação pelo Congresso Nacional; e se o Presidente pode agir de ofício (sem
+ser provocado), ou apenas mediante provocação.
+
+Intervenção espontânea
+
+Ocorre por iniciativa do Presidente da República sem a necessidade de provocação. É um ato ex
+officio e discricionário, no qual o próprio Presidente da República resolve decretar a Intervenção
+Federal.
+
+Será o procedimento adotado nas hipóteses do art. 34, incisos I, II, III e V: ou seja, para manter a
+integridade nacional; repelir invasão; por termo a grave comprometimento da ordem pública; ou
+para reorganizar finanças de unidade da federação.
+
+Haverá, após a decretação (e já com a execução sendo realizada) controle Legislativo, que será
+feito pelo Congresso Nacional. Cabe ao Legislativo analisar tanto a constitucionalidade da
+medida (se estão presentes os pressupostos autorizadores) quanto sua conveniência e
+oportunidade. O decreto de intervenção deve ser submetido ao Congresso Nacional no prazo de
+24h, mas não se prevê prazo para que este delibere sobre a questão. O entendimento
+predominante é de que a apreciação é feita pelas Casas separadamente (primeiro a Câmara dos
+Deputados, depois o Senado Federal), exigindo-se apenas maioria simples para a aprovação do
+decreto (já que a CF não especifica qualquer quórum, vale a regra geral do art. 47). Se o
+Congresso Nacional aprovar o decreto, a intervenção prossegue; se o rejeitar, cessam
+imediatamente os atos restritivos da autonomia.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)            37
+        www.estrategiaconcursos.com.br                                                                75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Existe divergência sobre a possibilidade ou não de o Congresso Nacional emendar (alterar) o
+decreto de intervenção. Sendo a edição do decreto ato privativo do Presidente da República,
+entende-se que pode o Legislativo alterá-lo, sob pena de estar, na prática, usurpando a
+competência presidencial. Cabe, portanto, aprová-lo ou rejeitá-lo. Pode-se sustentar, contudo, o
+cabimento de emendas supressivas (para retirar determinado dispositivo inconstitucional, por
+exemplo).
+
+Intervenção por solicitação
+
+É provocada por solicitação do Poder Executivo ou Legislativo e decretada pelo Presidente da
+República, nas hipóteses do art. 34, inciso IV (garantir o livre exercício dos poderes estaduais,
+quando o poder coacto – aquele que está sofrendo a violência – for o Legislativo ou o Executivo).
+A iniciativa ocorrerá por solicitação do Chefe do Poder coacto. Ex.: Presidente da Assembleia
+Legislativa ou Governador do Estado; este solicita a intervenção ao Presidente da República, que,
+discricionariamente, decidirá se é caso ou não de intervenção. Decretada a intervenção, o ato
+estará sujeito a controle legislativo.
+
+Percebe-se que, em termos estritamente procedimentais, a única diferença da intervenção por
+solicitação para a intervenção espontânea é o fato de que, na primeira, o Presidente da
+República só pode agir se provocado (não pode agir ex officio).
+
+Intervenção por requisição
+
+Na intervenção por requisição, o Presidente da República vê-se obrigado (vinculado) a decretar a
+intervenção, caso assim o requisite algum órgão do Judiciário. O controle legislativo pode ou não
+ocorrer, a depender da hipótese de intervenção.
+
+Temos, então, subtipos da intervenção por requisição, quais sejam:
+
+    a) Por requisição do STF, a pedido do TJ local
+
+Trata-se da intervenção baseada no art. 34, inciso IV – para garantir o livre exercício de qualquer
+um dos poderes, quando um Poder intervenha no poder de outro Poder. Nesse caso, se o Poder
+coacto (Poder que está sendo coagido) for o Poder Judiciário, haverá a intervenção na
+modalidade Requisição.
+
+A iniciativa é do Supremo Tribunal Federal (STF), que requisitará a intervenção federal. O STF não
+tomará essa medida de ofício; ele será provocado pelo Poder Judiciário estadual, que solicitará,
+ao Tribunal, a requisição para fins interventivos. O STF irá julgar se realmente é necessário
+intervir; se considerar que sim, requisitará a intervenção ao Presidente da República, que será
+obrigado a decretá-la (ato vinculado). Mesmo em se tratando de ato vinculado do Presidente da
+República, essa hipótese é sujeita a controle legislativo, nos mesmos moldes já vistos.
+
+Cuidado!
+
+Quando a intervenção tem por fundamento garantir o livre exercício dos poderes estaduais, ela
+pode ocorrer tanto por solicitação quanto por requisição. Será por solicitação quando o poder
+coacto for o Legislativo ou o Executivo (poderes políticos), mas por requisição quando o poder
+que está sendo coagido for o Judiciário estadual.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      38
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+    b) Por requisição do TSE, do STJ ou do TSE
+
+Trata-se da intervenção decretada para garantir o cumprimento das decisões judiciais (CF, art. 34,
+VI, segunda parte).
+
+A requisição, nesse caso, será do Tribunal Superior Eleitoral – TSE (se estiver sendo descumprida
+uma decisão judicial eleitoral), Superior Tribunal de Justiça – STJ (se estiver sendo descumprida
+uma decisão judicial do próprio STJ) ou do Supremo Tribunal Federal – STF (no caso de
+descumprimento de decisão de qualquer outro órgão jurisdicional, seja da Justiça Militar,
+Trabalhista, Estadual ou Federal comum). A intervenção é instrumentalizada por um decreto
+vinculado do Presidente da República, sendo ele obrigado a decretar a intervenção federal.
+
+Neste caso, a CF dispensa o controle legislativo!
+
+    c) Requisição do STF, por iniciativa do PGR (representação interventiva ou “ADI
+       interventiva”)
+
+A intervenção mediante a chamada “representação interventiva” (ou “ADI interventiva”) é a única
+que é precedida de uma ação judicial, a fim de que possa ser decretada. Não se trata de um
+exercício de função jurisdicional propriamente dita (lembre-se de que a intervenção é um ato
+político), mas existe um procedimento judicial a ser exercido como uma etapa, uma condição
+para que seja decretada a intervenção.
+
+Esse procedimento é aplicável nos casos de descumprimento de lei federal pelo Estado ou DF
+(art. 34, VI, primeira parte) ou quando há desrespeito aos chamados “princípios sensíveis”
+(nomenclatura que remonta a Pontes de Miranda).
+
+
+
+
+Atenção!
+
+Princípios sensíveis (art. 34, VII): são aqueles que, quando violados, autorizam a intervenção
+federal:
+
+a) forma republicana, sistema representativo e regime democrático;
+
+b) direitos da pessoa humana;
+
+c) autonomia municipal;
+
+d) prestação de contas da Administração Pública, direta e indireta;
+
+e) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a
+proveniente de transparências, na manutenção e desenvolvimento do ensino e nas ações e
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     39
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+serviços públicos de saúde.
+
+A iniciativa da representação interventiva é exclusiva do Procurador-Geral da República (Lei nº
+12.562, de 2011, art. 2º; CF, art. 36, III), e a petição inicial deve conter: a) a indicação do princípio
+constitucional que se considera violado ou, se for o caso de recusa à aplicação de lei federal, das
+disposições questionadas; b) a indicação do ato normativo, do ato administrativo, do ato
+concreto ou da omissão questionados; c) a prova da violação do princípio constitucional ou da
+recusa de execução de lei federal; e d) o pedido, com suas especificações. O pedido pode ser a
+requisição ao Presidente da República de decretação de intervenção federal, com a respectiva
+nomeação de interventor, ou, quando isso bastar, apenas a suspensão do ato impugnado.
+
+Pode o Pleno do STF, por maioria absoluta, deferir medida liminar (emergencial), antes do
+julgamento de mérito, medida essa que “poderá consistir na determinação de que se suspenda o
+andamento de processo ou os efeitos de decisões judiciais ou administrativas ou de qualquer
+outra medida que apresente relação com a matéria objeto da representação interventiva” (Lei n.
+12.562, de 2011, art. 5º, § 2º).
+
+O julgamento de mérito da representação interventiva cabe ao Pleno do STF, por maioria
+absoluta, presentes pelo menos oito Ministros (arts. 9º e 10 da Lei nº 12.562, de 2011). Se o
+pedido for julgado improcedente, a ação será arquivada. Se for julgado procedente, então “o
+Presidente do Supremo Tribunal Federal, publicado o acórdão, levá-lo-á ao conhecimento do
+Presidente da República para, no prazo improrrogável de até 15 (quinze) dias”, decretar a
+intervenção (Lei nº 12.562, de 2011, art. 11).
+
+A decisão proferida (seja pela procedência ou pela improcedência) é irrecorrível.
+
+                                    Procedimentos da intervenção federal
+
+
+                                                                              Decreto
+  Modalidade                    Hipótese                     Iniciativa                            Controle
+                                                                               (PR)
+
+
+
+  Espontânea       Art. 34, I, II, III e V                Ex officio          Discrici Há controle legislativo
+                                                                              onário
+
+
+  Solicitação      Art. 34, IV, quando o Poder            Chefe do
+                   coacto for o Executivo ou o            Executivo ou
+                   Legislativo                            do Legislativo
+                                                          Estadual
+
+
+
+  Requisição       Art. 34, IV, quando o coacto           TJ solicita ao      Vincula Há controle
+                   for o Judiciário                       STF, que            do
+                                                          requisita
+                                                                                             Dispensa controle
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       40
+        www.estrategiaconcursos.com.br                                                                           75
+
+                                      https://t.me/KakashiAssinaturasBot
+ João Trindade Cavalcante Filho
+ Aula 08
+
+
+
+
+                                                                             Decreto
+ Modalidade                    Hipótese                     Iniciativa                              Controle
+                                                                              (PR)
+
+
+                                                                                            legislativo
+                  Art. 34, VI (2ª parte)                 TSE, STJ ou
+                                                         STF requisita
+
+
+
+                  Art. 34, VI (1ª parte),                PGR
+                                                         representa ao
+                  Art. 34, VII                           STF que, se
+                                                         julgar a ação
+                                                         procedente,
+                                                         requisita a
+                                                         intervenção
+
+
+Intervenção Estadual nos Municípios (Ou Federal nos Municípios
+Situados em Território Federal)
+                           Hipóteses de intervenção da União nos Municípios
+
+
+                 MOTIVO (art. 35)                                             PROCEDIMENTO
+
+
+
+Não pagamento da dívida fundada por dois
+                                         Intervenção espontânea
+anos consecutivos (I).
+
+
+
+Falta de prestação de contas (II).                         Intervenção espontânea
+
+
+
+Não aplicação da receita                mínima       em
+                                                           Intervenção espontânea
+educação e saúde (III).
+
+
+
+Inobservância dos princípios da Constituição               Intervenção por requisição do TJ, após julgar
+Estadual ou desrespeito à lei (federal ou                  procedente representação interventiva feita
+estadual) ou ordem/decisão judicial (IV).                  pelo Procurador-Geral de Justiça
+
+
+
+
+       Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      41
+       www.estrategiaconcursos.com.br                                                                          75
+
+                                     https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Perceba-se que a intervenção estadual nos Municípios segue, por simetria, regras da intervenção
+federal nos Estados. Assim, a intervenção estadual é decretada pelo Governador (em vez do
+Presidente da República) e, quando necessário, existe controle legislativo feito pela Assembleia
+Legislativa (em lugar do Congresso Nacional).
+
+A representação interventiva estadual (no caso de desrespeito à lei, ou descumprimento de
+decisão judicial, ou descumprimento de princípios sensíveis) é julgada pelo TJ (em lugar do STF),
+por iniciativa exclusiva do PGJ (e não do PGR). Se julgada improcedente, a ação é arquivada; se
+procedente, o TJ requisita ao Governador que decrete a intervenção.
+
+Cuidado!
+
+Costuma cair em provas de concursos e da OAB que a representação interventiva estadual é de
+iniciativa do Procurador-Geral do Estado. Isso está errado! O PGE é o chefe da advocacia pública
+estadual. A iniciativa da representação interventiva é sempre do Chefe do Ministério Público, seja
+ele do Federal (PGR, no caso da representação feita ao STF para a intervenção nos Estados ou no
+DF) ou do MP Estadual (PGJ, no caso de representação feita ao TJ para a intervenção nos
+Municípios).
+
+Atenção!
+
+A decisão do TJ é de natureza política, e não jurisdicional; por isso, dela não cabe qualquer tipo
+de recurso, nem mesmo recurso extraordinário para o STF (Súmula 637/STF).
+
+Aprofundamento: o caso da intervenção federal na segurança pública do Estado do Rio de
+Janeiro
+
+Na vigência da CF de 1988, nunca havia sido decretada intervenção federal. Até que, em 16 de
+fevereiro de 2018, o Presidente da República, Michel Temer, decretou-a no setor de segurança
+pública no Estado do Rio de Janeiro, com fundamento no inciso III do art. 34 da CF (para por
+termo a grave comprometimento da ordem pública). Além das polêmicas políticas sobre a real
+intenção da decretação da medida, houve questionamentos quanto ao fato de a intervenção ter
+sido imposta de forma parcial: apenas na área de segurança pública.
+
+Não houve, com efeito, afastamento total do Governador, Luiz Fernando Pezão, mas apenas de
+sua gestão na área de segurança. Assim, setores como saúde e educação continuaram sob a
+gestão local, mas a União assumiu o controle da pasta da segurança pública. Tal procedimento,
+porém, embora estranho, é perfeitamente constitucional, uma vez que, se a intervenção pode ser
+total, nada impede que seja também decretada de forma parcial (pelo princípio da
+excepcionalidade, tal medida é até menos restritiva do que a intervenção “total”).
+
+Depois desse fato, houve também casos de decretação de intervenção federal em Roraima (2018)
+e no DF (janeiro de 2023).
+
+Aprofundamento: diferenças entre intervenção federal e estados de emergência
+
+Muitas vezes,confunde-se a intervenção, que é mecanismo de gestão (restrição temporária da
+autonomia de um ente federativo), com os estados de emergência (Estado de Defesa e Estado
+de Sítio), que são mecanismos de restrição temporária aos direitos fundamentais.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     42
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+O objetivo da intervenção é governar diretamente um ente federativo cuja conduta está
+colocando em risco a Federação; atinge o ente, e apenas indiretamente as pessoas que nele
+vivem. Já os Estados de Emergência afetam diretamente tanto o ente federativo (no caso de
+Estado de Defesa, que é decretado em locais determinados) e também as pessoas, cujos direitos
+fundamentais passam a sofrer limitações (Estado de Defesa) ou até suspensão (Estado de Sítio).
+Finalmente, os pressupostos que autorizam a intervenção (arts. 34 e 35) são também distintos
+daqueles que autorizam a decretação de estados de emergência (arts. 136 e 137). Ademais, nada
+impede que se utilizem cumulativamente um instrumento de gestão e um de emergência
+(decretação de intervenção federal cumulada com Estado de Defesa, por exemplo) – obviamente,
+se estiverem preenchidos os pressupostos constitucionais que autorizam a ambos.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   43
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 08
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   44
+      www.estrategiaconcursos.com.br                                                       75
+
+                                    https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 08
+
+
+
+
+                                                       ==5460==
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   45
+      www.estrategiaconcursos.com.br                                                       75
+
+                                    https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 08
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   46
+      www.estrategiaconcursos.com.br                                                       75
+
+                                    https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+                                    QUESTÕES COMENTADAS
+VUNESP - MPE RJ - Promotor de Justiça Substituto - 2024
+
+1. A respeito dos princípios constitucionais sensíveis, é correto afirmar que
+
+A) são normas que possuem geralmente natureza institucional e definem antecipadamente a
+organização dos Poderes e das instituições dos Estados-membros.
+
+B) caso violados, autorizam a realização de intervenção federal.
+
+C) são normas constitucionais que não se estendem aos Estados-membro, podendo ser
+apontadas como exemplo as regras que conferem ao Presidente da República a iniciativa
+privativa para propor determinados projetos de lei.
+
+D) correspondem a regras de organização da União, que se estendem obrigatoriamente aos
+Estados-membros.
+
+E) estão previstos de forma exemplificativa na Constituição Federal.
+
+Comentários:
+
+De acordo com a doutrina, inspirada principalmente na obra de Pontes de Miranda,
+consideram-se princípios constitucionais sensíveis aqueles que, se violados, autorizam a
+realização de intervenção federal. Mais especificamente, trata-se daqueles que são listados nas
+alíneas a a e do inciso VII do art. 34 da CF, a saber:
+
+a) sistema representativo, forma republicana de governo e regime democrático
+
+b) prestação de contas da administração pública
+
+c) direitos da pessoa humana
+
+d) autonomia municipal
+
+e) aplicação de recursos mínimos em educação e saúde.
+
+Esses princípios, aliás, estão previstos de forma taxativa no texto constitucional.
+
+Dessa forma, a resposta correta é a prevista na alternativa “B”.
+
+Gabarito: B
+
+
+
+VUNESP - MPE RO - Promotor de Justiça Substituto - 2024
+
+2. Considere que, visando consagrar o princípio da moralidade administrativa, uma emenda à
+Constituição do Estado X estabeleceu a possibilidade de intervenção do Estado nos Municípios
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   47
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+quando confirmada a prática de ato de improbidade administrativa, por meio de decisão
+colegiada, por parte dos Chefes do Poder Executivo municipais.
+
+Com base na situação hipotética e na jurisprudência do Supremo Tribunal Federal, é correto
+afirmar que
+
+A) a emenda será constitucional formalmente se for de iniciativa dos membros da Assembleia
+Legislativa.
+
+B) a emenda é inconstitucional, na medida em que prevê hipótese de intervenção do estado no
+município fora das elencadas na Constituição Federal, violando a autonomia dos entes federados
+e o equilíbrio federativo.
+
+C) o rol do artigo 35 da Constituição Federal é taxativo, mas admite a interpretação extensiva,
+admitindo-se a intervenção na hipótese narrada.
+
+D) a doutrina moderna entende que as hipóteses de intervenção previstas na Constituição
+Federal são exemplificativas, admitindo-se novas previsões por parte do legislador ordinário,
+desde que fundamentadas nos princípios constitucionais.
+
+E) a emenda somente será considerada inconstitucional se for de iniciativa do Chefe do Poder
+Executivo Estadual.
+
+Comentários:
+
+Conforme a jurisprudência do STF, as hipóteses constitucionais que autorizam a intervenção do
+Estado no Município estão taxativamente previstas no art. 35 da CF, não podendo ser ampliadas
+nem restringidas pela Constituição do Estado, a qual deve obedecer a perfeita simetria com o
+que dispõe o texto federal.
+
+Nesse sentido, confira-se, por exemplo, o seguinte julgado:
+
+“As disposições do art. 35 da Constituição do Brasil/1988 também consubstanciam preceitos de
+observância compulsória por parte dos Estados-membros, sendo inconstitucionais quaisquer
+ampliações ou restrições às hipóteses de intervenção.” (STF, Pleno, ADI 336, rel. min. Eros Grau,
+DJE de 17-9-2010).
+
+Nesse contexto, então, temos que está errada a alternativa “D”, segundo a qual as hipóteses
+seriam exemplificativas.
+
+Ademais, não há reserva de iniciativa para propor PEC sobre essa temática, o que torna
+incorretas também as alternativas “A” e “E”.
+
+Finalmente, a alternativa “C” está também errada, pois as hipóteses de intervenção, sendo
+excepcionais, não admitem interpretação ampliativa/extensiva.
+
+Dessa forma, a resposta é mesmo a alternativa B.
+
+Gabarito: B
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    48
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Cespe/Cebraspe
+
+CESPE/CEBRASPE - PC PE - Agente de Polícia – 2024 (adaptada para item)
+
+3. A organização político-administrativa do Brasil compreende a União, os estados, o Distrito
+Federal e os municípios, todos dotados de autonomia, nos termos da CF.
+
+Comentários:
+
+A afirmativa está correta. Realmente, à luz do art. 18, caput, da CF, a organização
+político-administrativa da República Federativa do Brasil (que é soberana) abrange, engloba os
+entes da Federação, a saber: União, Estados, Distrito Federal e Municípios. Esses entes internos
+são dotados de autonomia (e não de soberania), e essa autonomia política se desdobra em
+quatro poderes: autolegislação, autogoverno, auto-organização e autoadministração.
+
+Assim sendo, a afirmativa está correta.
+
+Gabarito: Correto
+
+
+
+(Cespe/Cebraspe-FNDE/Especialista/2024)
+
+4. É constitucional a fixação de critério de desempate que favoreça, em concursos públicos,
+candidatos que pertençam ao serviço público de determinado ente federativo.
+
+Comentários:
+
+A afirmativa está errada, pois uma lei que preveja como critério de desempate o fato de o
+concursando já pertencer ao serviço público de um ente federativo viola o art. 19, III, da CF, o
+qual proíbe os entes federativos de criar distinções entre brasileiros pelo critério do local de
+nascimento.
+
+Nesse sentido, o STF já decidiu o seguinte:
+
+DIREITO       CONSTITUCIONAL            E     ADMINISTRATIVO.          AÇÃO       DIRETA      DE
+INCONSTITUCIONALIDADE. CONCURSO PÚBLICO. LEI ESTADUAL QUE FIXA CRITÉRIO DE
+DESEMPATE. 1. Trata-se de Ação Direta de Inconstitucionalidade que impugna norma estadual
+que define, como critério de desempate em concurso público, a preferência ao servidor do
+Estado e, persistindo o empate, àquele que contar com maior tempo de serviço ao Estado. 2.
+Critério que se revela ilegítimo, pois não assegura a seleção do candidato mais capacitado ou
+experiente, já que favorece o servidor estadual, em detrimento de servidores federais, municipais
+e de trabalhadores da iniciativa privada que tenham tempo superior de exercício profissional, e
+ademais desvinculado das aptidões necessárias ao cargo a ser provido. 3. Violação dos princípios
+constitucionais da isonomia e da impessoalidade. Afronta ao disposto no art. 19, III, da CF/88,
+que veda à União, aos Estados, ao Distrito Federal e aos Municípios a criação de distinções entre
+brasileiros ou preferências entre si. 4. Cautelar confirmada e pedido julgado procedente, para
+declarar a inconstitucionalidade do art. 10, §§ 1º e 2º, da Lei nº 5.810/1994, do Estado do Pará.
+Fixada a seguinte tese: “É inconstitucional a fixação de critério de desempate em concursos
+públicos que favoreça candidatos que pertencem ao serviço público de um determinado ente
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    49
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+federativo”. (STF, Pleno, ADI nº 5358/PA, Relator Ministro Luís Roberto Barroso, DJe de
+15.12.2020).
+
+Assim sendo, a afirmativa está mesmo errada.
+
+Gabarito: Errado
+
+
+
+CESPE/CEBRASPE - PC PE - Delegado de Polícia - 2024
+
+6.(adaptada para item) Em virtude da repartição de competências que a CF define, os estados
+federados encontram espaço para exercer certo grau de soberania, embora de forma limitada.
+
+Comentários:
+
+A afirmativa está completamente errada, seja porque os Estados-membros não possuem
+soberania (e sim autonomia política, nos termos do art. 18, caput, da CF), seja porque o próprio
+conceito de “soberania limitada” seria uma contradição em termos, pois soberania é justamente
+associada ao poder ilimitado.
+
+Vale lembrar que a soberania é característica exclusiva da República Federativa do Brasil (art. 1º,
+I), e não de nenhum dos entes federativos.
+
+Gabarito: Errado
+
+
+
+CESPE/CEBRASPE - PGE RN - Procurador do Estado de 3ª Classe - 2024
+
+7. O município X sofreu intervenção estadual por ter deixado de pagar, sem motivo de força
+maior, por dois anos consecutivos, em diferentes gestões, a dívida fundada. Entretanto, a
+Constituição estadual apenas autoriza a intervenção nos casos em que o inadimplemento não
+esteja vinculado à gestão anterior.
+
+Nessa situação hipotética, a intervenção estadual é
+
+A) constitucional, pois é possível a intervenção estadual no município por qualquer dívida.
+
+B) inconstitucional, cabendo ao constituinte estadual restringir a intervenção no município.
+
+C) inconstitucional, pois é indevida a intervenção estadual em município por falta de pagamento
+de dívida fundada.
+
+D) inconstitucional, pois é indevida a intervenção estadual em município por falta de pagamento
+de qualquer dívida.
+
+E) constitucional, não cabendo ao constituinte estadual restringir a intervenção no município.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       50
+        www.estrategiaconcursos.com.br                                                           75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Comentários:
+
+Somente se justifica a intervenção estadual nos municípios pelo não pagamento de uma dívida se
+estes deixarem de pagar, por mais de dois anos consecutivos, sem justa causa, a dívida pública
+fundada (ou dívida pública consolidada), isto é, a dívida de prazo de exigibilidade superior a 12
+meses contraída para fazer frente a desequilíbrio orçamentário.
+
+Assim, não é qualquer dívida que autoriza a intervenção (errada a alternativa A), embora seja
+possível em caso de não pagamento da dívida fundada (erradas as alternativas C e D).
+
+Em relação à norma da Constituição Estadual que restringe o caso de intervenção ao não
+pagamento que não esteja ligado a outra gestão municipal, trata-se de norma que não deve ser
+levada em conta, já que a Constituição Estadual não pode, conforme a jurisprudência do STF,
+restringir as hipóteses de intervenção previstas na CF. Nesse sentido, confira-se, por exemplo, o
+seguinte julgado:
+
+“As disposições do art. 35 da Constituição do Brasil/1988 também consubstanciam preceitos de
+observância compulsória por parte dos Estados-membros, sendo inconstitucionais quaisquer
+ampliações ou restrições às hipóteses de intervenção.” (STF, Pleno, ADI 336, rel. min. Eros Grau,
+DJE de 17-9-2010).
+
+De forma mais específica ainda:
+
+“A intervenção estadual nos Municípios pelo não pagamento da dívida fundada é garantida pelo
+inc. I do art. 35 da Constituição da República. Ao constituinte estadual não se autoriza restrição
+dessa hipótese apenas a casos nos quais o inadimplemento não esteja vinculado à gestão
+anterior.” (STF, Pleno, ADI 558, rel. min. Cármen Lúcia, DJE de 22-9-2021).
+
+Assim sendo, a intervenção decretada no Município foi mesmo constitucional, pois é compatível
+com o art. 35, I, da CF.
+
+Gabarito: E
+
+
+
+(MPO/GERAL/Cespe/2024)
+
+8. Na organização federativa brasileira, devido à condição peculiar do Distrito Federal, sua
+divisão em municípios depende de lei federal.
+
+Comentários:
+
+A afirmativa está errada, pois, conforme o caput do art. 32 da CF, é vedada a divisão do Distrito
+Federal. Dessa maneira, mesmo que por lei federal, não poderia haver tal divisão.
+
+Gabarito: errado
+
+
+
+(CEBRASPE (CESPE) - Tec (FUB)/FUB/Laboratório/Biologia/2023)
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     51
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+9. A República Federativa do Brasil caracteriza-se pela concessão de soberania à União, aos
+estados, ao Distrito Federal e aos municípios.
+
+Comentário:
+
+A soberania é atributo apenas do todo, do conjunto, da República Federativa do Brasil, e não de
+nenhum dos entes federativos (União, Estados, DF e Municípios), que são, na verdade,
+autônomos, nos termos da CF (art. 1º, I; e art. 18, caput).
+
+Gabarito: Errado
+
+
+
+CESPE/CEBRASPE - AGER MT - Analista Regulador - Área: Administração - 2023
+
+10. Os estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem
+a outros, ou formarem novos estados ou territórios federais, mediante
+
+A) aprovação da população diretamente interessada, através de plebiscito, e do Congresso
+Nacional, por lei complementar.
+
+B) aprovação da população diretamente interessada, através de referendo, e do Congresso
+Nacional, por lei complementar.
+
+C) aprovação da população diretamente interessada, através de plebiscito, e do Congresso
+Nacional, por lei ordinária.
+
+D) aprovação da população diretamente interessada e decreto do Poder Executivo.
+
+E) aprovação da população diretamente interessada, através de referendo, e do Congresso
+Nacional, por lei ordinária.
+
+Comentários:
+
+De acordo com o art. 18, § 3º, da CF, “Os Estados podem incorporar-se entre si, subdividir-se ou
+desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais,
+mediante aprovação da população diretamente interessada, através de plebiscito, e do
+Congresso Nacional, por lei complementar”.
+
+Logo, para a reorganização federativa no nível estadual, exige-se a aprovação da população
+diretamente interessada mediante plebiscito (e não referendo), e a aprovação do Congresso
+Nacional por lei complementar (aprovada por maioria absoluta, portanto), que é a situação
+descrita na alternativa A.
+
+Gabarito: A
+
+
+
+(CEBRASPE (CESPE) - TDP (DPE RO)/DPE RO/Oficial de Diligência/2022)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   52
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+11. Entre as pessoas jurídicas de direito público que compõem o Estado brasileiro, a República
+Federativa do Brasil é a única titular de
+
+a) legislação própria.
+
+b) autonomia.
+
+c) auto-organização.
+
+d) autogoverno.
+
+e) soberania.
+
+Comentário:
+
+A resposta da questão é a alternativa E.
+
+A soberania é atributo apenas do todo, do conjunto, da República Federativa do Brasil, e não de
+nenhum dos entes federativos (União, Estados, DF e Municípios), que são, na verdade,
+autônomos, nos termos da CF (art. 1º, I; e art. 18, caput).
+
+Assim, os entes federativos são dotados de autonomia política (autolegislação, autogoverno,
+auto-organização e autoadministração), mas não de soberania, característica exclusivamente
+associada à Federação.
+
+Gabarito: E
+
+
+
+FGV - PC SC - Delegado de Polícia Substituto - 2024
+
+12. O Município Alfa não aplica o mínimo exigido da receita municipal na manutenção e
+desenvolvimento do ensino e nas ações e serviços públicos de saúde. Em audiência pública
+determinado vereador progressista sustenta que esta situação enseja intervenção estadual no
+Município.
+
+A partir da correção da alegação feita pelo vereador na hipótese narrada e conforme as regras
+constitucionais vigentes, é correto afirmar que
+
+A) a decretação da intervenção estadual dependerá de provimento pelo Tribunal de Justiça, de
+representação do Procurador-Geral de Justiça.
+
+B) a decretação da intervenção estadual ocorrerá ex officio por ato do Governador de Estado.
+
+C) a decretação da intervenção estadual dependerá de provimento, pelo Supremo Tribunal
+Federal, de representação do Procurador-Geral da República.
+
+D) a decretação da intervenção estadual dispensará a apreciação pela Assembleia Legislativa.
+
+E) a decretação da intervenção estadual dependerá de solicitação da Assembleia Legislativa.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     53
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Comentários:
+
+Nos termos do art. 35, III, da CF, justifica-se a intervenção estadual em Município pela não
+aplicação de recursos mínimos (o “piso”) em educação e saúde. Porém, no caso da intervenção
+estadual (diferentemente da intervenção federal), esse procedimento ocorrerá por decisão
+discricionária e ex officio do Governador (independentemente de solicitação ou requisição).
+
+Assim, enquanto na intervenção federal em estado a não aplicação de recursos mínimos em
+educação e saúde gera intervenção por requisição do STF, na intervenção estadual, gera-se uma
+intervenção espontânea, a qual exige a posterior aprovação da Assembleia Legislativa.
+
+A alternativa A está errada porque a hipótese é de intervenção espontânea, não por requisição
+do TJ. Da mesma maneira, não se exige a solicitação da Assembleia Legislativa, o que demonstra
+o erro da alternativa E.
+
+A alternativa C está errada porque esse procedimento seria adotado se fosse o caso de
+intervenção federal em estado, não de intervenção estadual em Município.
+
+A alternativa D está errada porque, nesse caso, não é dispensada a apreciação da assembleia
+legislativa.
+
+Sendo assim, a resposta é mesmo a alternativa B.
+
+Gabarito: B
+
+
+
+FGV - Prefeitura de São José dos Campos - Procurador - 2024
+
+13. Certo Estado da federação está realizando estudos para instituir uma região metropolitana
+voltada para a prestação de serviços de saneamento básico, que abarcaria os Municípios
+limítrofes Aqui, Ali, Acolá e Algures. Em razão disso, o Prefeito de Acolá, que é ferrenho opositor
+de tal medida, buscou a respectiva procuradoria, a fim de obter as informações pertinentes
+acerca do tema.
+
+Diante dessa situação hipotética, à luz da orientação consolidada pelo Supremo Tribunal Federal,
+o procurador do Município deveria esclarecer corretamente que
+
+A) não há possibilidade de o Prefeito se opor à integração do Município Acolá à referida região
+metropolitana, se o Estado editar a lei ordinária necessária para tal finalidade.
+
+B) caso não haja integração do referido serviço público ou conurbação com relação aos aludidos
+Municípios, não há possibilidade de a região metropolitana objeto de estudo ser instituída.
+
+C) tal Estado, mediante previsão na respectiva Constituição, poderá concentrar o poder decisório
+acerca do tema objeto da região metropolitana em questão.
+
+D) o Prefeito pode editar um Decreto a fim de evitar que o Município integre a região
+metropolitana em análise.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      54
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+E) caso venha a ser editado o diploma legal pertinente, o Município integrará a região
+metropolitana, vigorando, no entanto, o princípio da proibição da concentração do poder.
+
+Comentários:
+
+Cabe ao Estado, mediante lei complementar, instituir região metropolitana (CF, art. 25, § 3º).
+Erradas, portanto, as alternativas A, C e D, que falam em lei ordinária, modificação constitucional
+ou decreto do governador para a instituição da Região Metropolitana.
+
+A alternativa B está errada, pois não se exige que já exista a integração de serviços para ser
+instituída a região metropolitana: ela é criada justamente para viabilizar essa integração.
+
+A resposta correta é realmente a alternativa E: de acordo com o STF, se o Estado criar a região
+metropolitana pelo instrumento legal adequado (lei complementar), a participação do Município
+na região metropolitana independe de sua concordância. Contudo, não pode haver concentração
+do poder decisório nas mãos do Estado, devendo existir mecanismos que permitam uma decisão
+colegiada e coordenada, conforme decidiu o STF:
+
+“A instituição de regiões metropolitanas, aglomerações urbanas ou microrregiões pode vincular a
+participação de Municípios limítrofes, com o objetivo de executar e planejar a função pública do
+saneamento básico, seja para atender adequadamente às exigências de higiene e saúde pública,
+seja para dar viabilidade econômica e técnica aos Municípios menos favorecidos. Repita-se que
+esse caráter compulsório da integração metropolitana não esvazia a autonomia municipal. O
+estabelecimento de região metropolitana não significa simples transferência de competências
+para o Estado. O interesse comum é muito mais que a soma de cada interesse local envolvido,
+pois a má condução da função de saneamento básico por apenas um Município pode colocar em
+risco todo o esforço do conjunto, além das consequências para a saúde pública de toda a região.
+O parâmetro para aferição da constitucionalidade reside no respeito à divisão de
+responsabilidades entre Municípios e Estado. É necessário evitar que o poder decisório e o poder
+concedente se concentrem nas mãos de um único ente para preservação do autogoverno e da
+autoadministração dos Municípios.” (STF, Pleno, ADI nº 1852, Relator Ministro Gilmar Mendes,
+DJe de 16.9.2013)
+
+Gabarito: E
+
+
+
+FGV - ALE TO - Policial Legislativo - Área: Polícia e Segurança - 2024
+
+14. Com o objetivo de uniformizar a organização interna e os direitos assegurados à população
+nos Municípios situados no Estado Alfa, iniciou-se um movimento, no âmbito da Assembleia
+Legislativa, com o objetivo de aprovar a Lei Orgânica a ser adotada por cada um dos referidos
+entes federativos.
+
+À luz da sistemática constitucional, é correto afirmar, em relação ao referido objetivo, que a Lei
+Orgânica
+
+A) deve ser veiculada em lei ordinária estadual.
+
+B) deve ser veiculada em lei complementar estadual.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      55
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+C) somente pode ser aprovada no âmbito de cada Município.
+
+D) deve se limitar a estabelecer as normas gerais a serem observadas por cada Município.
+
+E) somente pode ser editada pela Assembleia Legislativa se a Constituição Estadual o autorizar.
+
+Comentários:
+
+Nos termos do art. 29, caput, da CF, cabe a cada Município (no exercício do seu poder de
+auto-organização) editar sua própria Lei Orgânica Municipal: “O Município reger-se-á por lei
+orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois
+terços dos membros da Câmara Municipal, que a promulgará”.
+
+Sendo assim, não cabe ao Estado editar qualquer tipo de norma de Lei Orgânica ou que a
+condicione, tornando, portanto, erradas as alternativas A, B, D e E.
+                                                         ==5460==
+
+
+
+
+Gabarito: C
+
+
+
+FGV - Prefeitura de Caraguatatuba - Fiscal de Posturas - 2024
+
+15. As alternativas a seguir apresentam alguns bens públicos nacionais.
+
+Entre eles, aquele que pertence ao Estado e não à União é:
+
+A) Rio São Francisco.
+
+B) Rio Amazonas.
+
+C) Arquipélago de Abrolhos.
+
+D) Bacia petrolífera de Santos.
+
+E) Ilha de Marajó.
+
+Comentários:
+
+Trata-se de questão bem difícil, pois exige não apenas o conhecimento dos bens da União (art.
+20), mas também de Geografia.
+
+Os Rios São Francisco e Amazonas são bens da União, por serem rios que banham vários Estados
+(CF, art. 20, III).
+
+Abrolhos também é bem da União, por ser um conjunto de ilhas oceânicas (CF, art. 20, IV).
+
+A Bacia Petrolífera de Santos, assim como todas as reservas minerais, é bem da União (art. 20, IX).
+
+Sobra apenas a Ilha de Marajó, que, por ser ilha costeira que contém a sede de diversos
+Municípios, não se qualifica como bem da União (art. 20, IV).
+
+Gabarito: E
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        56
+        www.estrategiaconcursos.com.br                                                            75
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 08
+
+
+
+FGV - MPE GO - Promotor de Justiça Substituto - 2024
+
+16. Lei ordinária estadual de 2023 permitiu a criação do Município Alfa, condicionada a
+divulgação de estudo favorável de viabilidade municipal.
+
+Diante do exposto e da jurisprudência do Supremo Tribunal Federal, assinale a afirmativa
+correta.
+
+A) A norma é constitucional, desde que tenha sido realizada consulta prévia às populações dos
+municípios envolvidos e a criação tenha sido aprovada, mediante plebiscito.
+
+B) A norma é inconstitucional, uma vez que a divulgação de estudo de viabilidade municipal
+precisa ser anterior à aprovação da lei que autoriza a criação do Município.
+
+C) A norma é inconstitucional, uma vez que ainda não foi editada a legislação complementar
+federal que discipline a criação de municípios e é da União a competência para disciplinar o
+tema.
+
+D) A norma é constitucional, condicionada a consulta posterior, mediante referendo, às
+populações dos municípios envolvidos, após a divulgação de estudo favorável de viabilidade
+municipal.
+
+E) A norma é inconstitucional, uma vez que a Constituição exige que a criação de municípios seja
+autorizada e regulamentada por lei complementar estadual.
+
+Comentários:
+
+À luz da atual redação do art. 18, § 4º, da CF, dada pela EC nº 15/96, a criação de Municípios
+exige 4 passos, a saber:
+
+a)     Edição de lei complementar federal dispondo sobre o período e os critérios para a
+alteração (ainda não existe);
+
+b)        Realização e divulgação de estudos de viabilidade municipal;
+
+c)        Realização de plebiscito com as populações diretamente envolvidas;
+
+d)        Aprovação da assembleia legislativa por meio de lei (ordinária) estadual.
+
+De acordo com o STF (ADI nº 2.240/BA), enquanto não houver a edição de lei complementar
+federal, qualquer ato de criação de Município é inconstitucional, não havendo nem que se
+questionar sobre a regularidade das demais fases. Logo, a resposta é mesmo a alternativa C.
+
+Gabarito: C
+
+
+
+FGV - Câmara de São Paulo - Consultor Técnico Legislativo - Área Registro - 2024
+
+17. A Constituição Federal de 1988, em seu Art. 18, § 4º, prevê alguns requisitos para a criação
+de novos Municípios.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   57
+           www.estrategiaconcursos.com.br                                                       75
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 08
+
+
+
+Os requisitos a seguir estão previstos no texto constitucional, à exceção de um. Assinale-o.
+
+A) Deve ser feita por lei municipal.
+
+B) Deve ser feita dentro do período determinado por Lei Complementar Federal.
+
+C) Dependerá de consulta prévia às populações dos Municípios envolvidos.
+
+D) Dependerá de realização de plebiscito.
+
+E) Será feita apenas após a divulgação dos Estudos de Viabilidade Municipal.
+
+Comentários:
+
+À luz da atual redação do art. 18, § 4º, da CF, dada pela EC nº 15/96, a criação de Municípios
+exige 4 passos, a saber:
+
+a)     Edição de lei complementar federal dispondo sobre o período e os critérios para a
+alteração (ainda não existe);
+
+b)        Realização e divulgação de estudos de viabilidade municipal;
+
+c)        Realização de plebiscito com as populações diretamente envolvidas;
+
+d)        Aprovação da assembleia legislativa por meio de lei (ordinária) estadual.
+
+Assim, a única condição não exigida é a aprovação de lei municipal, de modo que a resposta é
+mesmo a alternativa A.
+
+Gabarito: A
+
+
+
+FGV - TJ SC - Juiz Substituto - 2024
+
+18. Em uma gincana jurídica, os grupos participantes foram questionados a respeito da
+funcionalidade dos denominados “princípios constitucionais sensíveis”, mais especificamente se
+a sua infringência apresenta características similares na perspectiva da decretação da intervenção
+nos estados ou nos municípios. O grupo Alfa sustentou que a ação direta interventiva é essencial
+para a decretação da intervenção em município em razão da não aplicação do mínimo exigido
+da receita municipal na manutenção e desenvolvimento do ensino. O grupo Beta defendeu que
+a decretação de intervenção em município, em situações que correspondem à violação aos
+referidos princípios, reproduzidos inclusive na Constituição Estadual, pode ser provocada ou
+espontânea. Por fim, o grupo Gama sustentou que a decretação de intervenção em estado, em
+razão da afronta aos princípios constitucionais sensíveis, sempre se dá na modalidade provocada.
+
+Ao final, os jurados concluíram, corretamente, em relação às conclusões dos referidos grupos,
+que:
+
+A) todas estão erradas;
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   58
+           www.estrategiaconcursos.com.br                                                       75
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+B) apenas a de Beta está certa;
+
+C) apenas a de Gama está certa;
+
+D) apenas as de Alfa e Gama estão certas;
+
+E) apenas as de Beta e Gama estão certas.
+
+Comentário:
+
+Nos termos do art. 35, III, da CF, justifica-se a intervenção estadual em Município pela não
+aplicação de recursos mínimos (o “piso”) em educação e saúde. Porém, no caso da intervenção
+estadual (diferentemente da intervenção federal), esse procedimento ocorrerá por decisão
+discricionária e ex officio do Governador (independentemente de solicitação ou requisição).
+Assim, enquanto na intervenção federal em estado a não aplicação de recursos mínimos em
+educação e saúde gera intervenção por requisição do STF, na intervenção estadual, gera-se uma
+intervenção espontânea, a qual exige a posterior aprovação da Assembleia Legislativa. Está
+errada, portanto, a afirmativa do grupo Alfa.
+
+A afirmação do grupo Beta está correta, pois, na intervenção estadual, o desrespeito aos
+princípios sensíveis pode gerar uma intervenção provocada (mais especificamente por requisição
+do TJ) ou espontânea (no caso específico da não aplicação de recursos mínimos em educação e
+saúde).
+
+Por outro lado, quando se trata de intervenção federal em estado, o descumprimento de
+princípios sensíveis realmente sempre gera a intervenção provada (mais especificamente por
+requisição do STF), nos termos do art. 34, VII, c/c art. 36, IV. Logo, está correta a afirmativa do
+grupo Gama.
+
+Assim, corretas as afirmações dos grupos Beta e Gama, a resposta é a alternativa E.
+
+Gabarito: E
+
+
+
+FGV - Assembleia Legislativa do Paraná - Procurador - 2024
+
+19. A Constituição do Estado Alfa estabeleceu hipótese de intervenção estadual nos Municípios
+pelo não pagamento da dívida fundada, nos casos os quais o inadimplemento não esteja
+vinculado à gestão anterior.
+
+Diante do exposto e da jurisprudência do Supremo Tribunal Federal, é correto afirmar que essa
+hipótese de intervenção é
+
+A) constitucional, pois o Estado tem autonomia para definir, em sua Constituição, as hipóteses de
+intervenção nos municípios.
+
+B) inconstitucional, pois o dispositivo da Constituição estadual acrescentou hipótese de
+intervenção estadual nos Municípios não prevista na Constituição da República.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      59
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+C) constitucional, pois a referida norma prevista na Constituição estadual é a repetição da norma
+prevista na Constituição Federal.
+
+D) inconstitucional, pois o referido dispositivo restringiu a hipótese de intervenção estadual nos
+Municípios prevista na Constituição da República e tais preceitos são de observância obrigatória
+por parte dos Estados-membros.
+
+E) constitucional, pois o referido dispositivo da Constituição estadual apenas restringiu a hipótese
+de intervenção estadual nos Municípios prevista na Constituição da República.
+
+Comentários:
+
+Em relação à norma da Constituição Estadual que restringe o caso de intervenção ao não
+pagamento que não esteja ligado a outra gestão municipal, trata-se de norma inconstitucional, já
+que a Constituição Estadual não pode, conforme a jurisprudência do STF, restringir as hipóteses
+de intervenção previstas na CF. Nesse sentido, confira-se, por exemplo, o seguinte julgado:
+
+“As disposições do art. 35 da Constituição do Brasil/1988 também consubstanciam preceitos de
+observância compulsória por parte dos Estados-membros, sendo inconstitucionais quaisquer
+ampliações ou restrições às hipóteses de intervenção.” (STF, Pleno, ADI 336, rel. min. Eros Grau,
+DJE de 17-9-2010).
+
+De forma mais específica ainda:
+
+“A intervenção estadual nos Municípios pelo não pagamento da dívida fundada é garantida pelo
+inc. I do art. 35 da Constituição da República. Ao constituinte estadual não se autoriza restrição
+dessa hipótese apenas a casos nos quais o inadimplemento não esteja vinculado à gestão
+anterior.” (STF, Pleno, ADI 558, rel. min. Cármen Lúcia, DJE de 22-9-2021).
+
+Assim, a norma em questão é inconstitucional (o que elimina as alternativas A, C e E), não porque
+criou nova hipótese de intervenção (errada a alternativa B), mas sim porque restringiu hipótese
+prevista na CF.
+
+Gabarito: D
+
+
+
+FGV - Assembleia Legislativa do Paraná - Procurador - 2024
+
+20. Ao perquirir os bens públicos que são de propriedade dos Estados da Federação, Maristela
+verificou que, entre eles, é correto indicar
+
+A) os potenciais de energia hidráulica.
+
+B) os terrenos de marinha e seus acrescidos.
+
+C) as terras devolutas não compreendidas entre as da União.
+
+D) as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       60
+        www.estrategiaconcursos.com.br                                                           75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+E) as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a
+sede de Municípios.
+
+Comentários:
+
+Os potenciais de energia hidráulica são bens da União, conforme o art. 20, VIII. Assim também o
+são os terrenos de marinha e seus acrescidos (art. 20, VII), as cavidades naturais subterrâneas e
+sítios arqueológicos (art. 20, X) e “as praias marítimas; as ilhas oceânicas e as costeiras, excluídas,
+destas, as que contenham a sede de Municípios” (art. 20, IV).
+
+Por outro lado, pertencem aos Estados “as terras devolutas não compreendidas entre as da
+União”, de modo que a resposta é mesmo a alternativa C.
+
+Gabarito: C
+
+
+
+FGV - ALE TO - Procurador Jurídico - 2024
+
+21. Na Assembleia Legislativa, tramita uma proposta de emenda à Constituição do Estado do
+Tocantins para passar a contemplar que o Estado não intervirá no Município, salvo quando for
+verificada, sem justo motivo, impontualidade no pagamento de empréstimo garantido pelo
+Estado e quando forem praticados, na administração municipal, atos de corrupção devidamente
+comprovados. O assunto foi submetido ao Procurador Legislativo da Assembleia para análise.
+
+Assinale a opção que apresenta, corretamente, sua manifestação.
+
+A) A aludida proposta para ter higidez constitucional precisa ter sido iniciada privativamente pelo
+Governador do Estado.
+
+B) A referida proposta não tem amparo constitucional, pois intervenção é medida excepcional à
+lógica da autonomia dos entes políticos e assim as hipóteses, que a Carta de 1988 permite de
+intervenção estadual em Município, constituem rol taxativo.
+
+C) A proposta, no tocante à impontualidade de pagamento por parte de município, não deve
+prosseguir, porquanto as dívidas entre entes políticos devem ser solucionadas judicialmente, em
+especial utilizando-se do sistema de precatórios.
+
+D) A proposta, em relação ao combate à corrupção, tem respaldo na Constituição da República
+de 1988, porque ela resguarda a eficiência na administração da coisa pública.
+
+E) A proposta de emenda, especificamente para a hipótese de corrupção, deveria contemplar a
+União Federal também como ente apto a intervir, já que de interesse da federação, como um
+todo, o combate à corrupção.
+
+Comentários:
+
+Conforme a jurisprudência do STF, as hipóteses constitucionais que autorizam a intervenção do
+Estado no Município estão taxativamente previstas no art. 35 da CF, não podendo ser ampliadas
+nem restringidas pela Constituição do Estado, a qual deve obedecer a perfeita simetria com o
+que dispõe o texto federal.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)          61
+        www.estrategiaconcursos.com.br                                                              75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Nesse sentido, confira-se, por exemplo, o seguinte julgado:
+
+“As disposições do art. 35 da Constituição do Brasil/1988 também consubstanciam preceitos de
+observância compulsória por parte dos Estados-membros, sendo inconstitucionais quaisquer
+ampliações ou restrições às hipóteses de intervenção.” (STF, Pleno, ADI 336, rel. min. Eros Grau,
+DJE de 17-9-2010).
+
+Nesse contexto, então, temos que está correta a alternativa B.
+
+Gabarito: B
+
+
+
+(ALESC/Analista Legislativo III - Direito/FGV/2024)
+
+22. De acordo com informações divulgadas pela imprensa, o Município Alfa vinha descumprindo
+diversas obrigações previstas na Constituição da República, bem como alguns princípios
+indicados na Constituição Estadual.
+
+Determinado repórter, ao consultar um especialista na matéria em relação à possibilidade, ou
+não, desse estado de coisas acarretar a intervenção do Estado em Alfa, foi corretamente
+informado de que
+
+A) a intervenção é possível, mas sempre pressupõe o provimento de representação pelo Tribunal
+de Justiça.
+
+B)   a intervenção espontânea é possível na hipótese de não prestação de contas devidas
+conforme os balizamentos estabelecidos em lei.
+
+C)    é possível que a afronta aos princípios indicados na Constituição Estadual acarrete a
+decretação da intervenção em Alfa, o que será feito, de ofício, pelo Governador.
+
+D) somente é necessário o provimento de representação, pelo Tribunal de Justiça, para a
+decretação da intervenção, no caso de recusa de cumprimento de ordem ou decisão judicial.
+
+E) em razão do escalonamento federativo, que impede a decretação de intervenção, pela União,
+em Alfa, somente a afronta a normas estaduais pode acarretar a intervenção.
+
+Comentários:
+
+O desrespeito aos princípios do art. 35 da CF justifica a intervenção estadual no Município, o
+que, a depender do motivo, pode gerar uma intervenção espontânea (decretada ex officio pelo
+Governador, com aprovação posterior da Assembleia Legislativa) ou provocada por requisição do
+TJ.
+
+Assim, está errada a alternativa A, pois nem sempre é necessária a requisição do TJ, sendo ela
+exigida “para assegurar a observância de princípios indicados na Constituição Estadual, ou para
+prover a execução de lei, de ordem ou de decisão judicial” (art. 35, IV), e não apenas por
+descumprimento de decisão judicial, como afirmou erroneamente a alternativa D, estando errada
+também a alternativa C, segundo a qual, nesses casos, a intervenção seria espontânea.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    62
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Está errada, ainda, a alternativa E, segundo a qual não poderia haver intervenção por
+descumprimento de princípios da constituição estadual, o que é expressamente previsto no art.
+35, IV, da CF.
+
+Resta apenas a alternativa B, a qual descreve corretamente que a intervenção estadual fundada
+em descumprimento do dever de prestação de contas é espontaneamente decretada pelo
+Governador (art. 35, II).
+
+Gabarito: B
+
+
+
+(FGV - OAB - Advogado – 2023)
+
+23. Com grande adesão da população, o prefeito do Município Delta, situado no
+Estado-membro Alfa, declarou a independência do território municipal, criando um novo país.
+Assustado com a rapidez do processo, o Presidente da República, após ouvir o Conselho de
+Defesa Nacional, sem perda de tempo, decidiu decretar a intervenção federal no Município. Ato
+contínuo, submeteu o decreto ao Congresso Nacional, que o aprovou, também de forma célere,
+por unanimidade. Sobre o decreto interventivo federal, segundo o sistema jurídico constitucional
+brasileiro, assinale a afirmativa correta.
+
+A) A Constituição da República de 1988 veda, de forma cabal, o direito de secessão, sendo o
+decreto constitucional.
+
+B) O ato de insurreição traz consigo grave comprometimento à ordem pública, o que aponta para
+a constitucionalidade do decreto.
+
+C) Como Delta está situado em um Estado-membro, não há previsão constitucional para a
+decretação de intervenção federal.
+
+D) O fato de a decisão presidencial não ter sido antecedida de requisição pelo Supremo Tribunal
+Federal indica a invalidade do decreto.
+
+Comentários:
+
+A tentativa de secessão justifica a decretação de intervenção. Porém, como se trata de
+intervenção em município situado em Estado, a União não pode intervir, sob pena de se
+configurar a chamada “intervenção per saltum”. Com efeito, quando se trata de município
+situado em Estado, somente este pode intervir naquele, sendo possível, à União, intervir em
+Município apenas caso ele esteja situado em um território federal (art. 35, caput), o que não é o
+caso.
+
+Confira-se esse julgado do STF:
+
+“Os Municípios situados no âmbito dos Estados-membros não se expõem à possibilidade
+constitucional de sofrerem intervenção decretada pela União Federal, eis que, relativamente a
+esses entes municipais, a única pessoa política ativamente legitimada a neles intervir é o
+Estado-membro. (...) Por isso mesmo, no sistema constitucional brasileiro, falece legitimidade
+ativa à União Federal para intervir em quaisquer Municípios, ressalvados, unicamente, os
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    63
+        www.estrategiaconcursos.com.br                                                        75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Municípios "localizados em Território Federal..." (CF, art. 35, caput).” (STF, Pleno, IF 590 QO, rel.
+min. Celso de Mello, DJ de 9-10-1998).
+
+Logo, a resposta é mesmo a alternativa C.
+
+Gabarito: C
+
+
+
+Outras bancas
+
+(Quadrix - CRP 14 - Agente de Orientação e Fiscalização – 2021)
+
+24. A autonomia dos entes federativos representa sua capacidade de auto-organização,
+autogoverno, autoadministração e autolegislação, não contemplando, contudo, a soberania.
+
+Comentário:
+
+Realmente, a CF assegura aos entes federativos (União, Estados, DF e Municípios) a autonomia
+política (art. 18, caput), o que abrange as quatro clássicas prerrogativas de autolegislação,
+autogoverno, auto-organização e autoadministração, mas não abrange a soberania, uma vez que
+esta é exclusividade do todo, do conjunto, isto é, da República Federativa do Brasil (CF, art. 1º, I).
+
+Gabarito: Correto
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)         64
+        www.estrategiaconcursos.com.br                                                             75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+
+                                         LISTA DE QUESTÕES
+VUNESP - MPE RJ - Promotor de Justiça Substituto - 2024
+
+1. A respeito dos princípios constitucionais sensíveis, é correto afirmar que
+
+A) são normas que possuem geralmente natureza institucional e definem antecipadamente a
+organização dos Poderes e das instituições dos Estados-membros.
+
+B) caso violados, autorizam a realização de intervenção federal.
+
+C) são normas constitucionais que não se estendem aos Estados-membro, podendo ser
+apontadas como exemplo as regras que conferem ao Presidente da República a iniciativa
+privativa para propor determinados projetos de lei.
+
+D) correspondem a regras de organização da União, que se estendem obrigatoriamente aos
+Estados-membros.
+
+E) estão previstos de forma exemplificativa na Constituição Federal.
+
+
+
+VUNESP - MPE RO - Promotor de Justiça Substituto - 2024
+
+2. Considere que, visando consagrar o princípio da moralidade administrativa, uma emenda à
+Constituição do Estado X estabeleceu a possibilidade de intervenção do Estado nos Municípios
+quando confirmada a prática de ato de improbidade administrativa, por meio de decisão
+colegiada, por parte dos Chefes do Poder Executivo municipais.
+
+Com base na situação hipotética e na jurisprudência do Supremo Tribunal Federal, é correto
+afirmar que
+
+A) a emenda será constitucional formalmente se for de iniciativa dos membros da Assembleia
+Legislativa.
+
+B) a emenda é inconstitucional, na medida em que prevê hipótese de intervenção do estado no
+município fora das elencadas na Constituição Federal, violando a autonomia dos entes federados
+e o equilíbrio federativo.
+
+C) o rol do artigo 35 da Constituição Federal é taxativo, mas admite a interpretação extensiva,
+admitindo-se a intervenção na hipótese narrada.
+
+D) a doutrina moderna entende que as hipóteses de intervenção previstas na Constituição
+Federal são exemplificativas, admitindo-se novas previsões por parte do legislador ordinário,
+desde que fundamentadas nos princípios constitucionais.
+
+E) a emenda somente será considerada inconstitucional se for de iniciativa do Chefe do Poder
+Executivo Estadual.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   65
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+Cespe/Cebraspe
+
+CESPE/CEBRASPE - PC PE - Agente de Polícia – 2024 (adaptada para item)
+
+3. A organização político-administrativa do Brasil compreende a União, os estados, o Distrito
+Federal e os municípios, todos dotados de autonomia, nos termos da CF.
+
+
+
+(Cespe/Cebraspe-FNDE/Especialista/2024)
+
+4. É constitucional a fixação de critério de desempate que favoreça, em concursos públicos,
+candidatos que pertençam ao serviço público de determinado ente federativo.
+
+
+                                                         ==5460==
+
+
+
+
+CESPE/CEBRASPE - PC PE - Delegado de Polícia - 2024
+
+5.(adaptada para item) Em virtude da repartição de competências que a CF define, os estados
+federados encontram espaço para exercer certo grau de soberania, embora de forma limitada.
+
+
+
+CESPE/CEBRASPE - PGE RN - Procurador do Estado de 3ª Classe - 2024
+
+6. O município X sofreu intervenção estadual por ter deixado de pagar, sem motivo de força
+maior, por dois anos consecutivos, em diferentes gestões, a dívida fundada. Entretanto, a
+Constituição estadual apenas autoriza a intervenção nos casos em que o inadimplemento não
+esteja vinculado à gestão anterior.
+
+Nessa situação hipotética, a intervenção estadual é
+
+A) constitucional, pois é possível a intervenção estadual no município por qualquer dívida.
+
+B) inconstitucional, cabendo ao constituinte estadual restringir a intervenção no município.
+
+C) inconstitucional, pois é indevida a intervenção estadual em município por falta de pagamento
+de dívida fundada.
+
+D) inconstitucional, pois é indevida a intervenção estadual em município por falta de pagamento
+de qualquer dívida.
+
+E) constitucional, não cabendo ao constituinte estadual restringir a intervenção no município.
+
+
+
+(MPO/GERAL/Cespe/2024)
+
+7. Na organização federativa brasileira, devido à condição peculiar do Distrito Federal, sua
+divisão em municípios depende de lei federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       66
+        www.estrategiaconcursos.com.br                                                           75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+(CEBRASPE (CESPE) - Tec (FUB)/FUB/Laboratório/Biologia/2023)
+
+8. A República Federativa do Brasil caracteriza-se pela concessão de soberania à União, aos
+estados, ao Distrito Federal e aos municípios.
+
+
+
+CESPE/CEBRASPE - AGER MT - Analista Regulador - Área: Administração - 2023
+
+9. Os estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a
+outros, ou formarem novos estados ou territórios federais, mediante
+
+A) aprovação da população diretamente interessada, através de plebiscito, e do Congresso
+Nacional, por lei complementar.
+
+B) aprovação da população diretamente interessada, através de referendo, e do Congresso
+Nacional, por lei complementar.
+
+C) aprovação da população diretamente interessada, através de plebiscito, e do Congresso
+Nacional, por lei ordinária.
+
+D) aprovação da população diretamente interessada e decreto do Poder Executivo.
+
+E) aprovação da população diretamente interessada, através de referendo, e do Congresso
+Nacional, por lei ordinária.
+
+
+
+(CEBRASPE (CESPE) - TDP (DPE RO)/DPE RO/Oficial de Diligência/2022)
+
+10. Entre as pessoas jurídicas de direito público que compõem o Estado brasileiro, a República
+Federativa do Brasil é a única titular de
+
+a) legislação própria.
+
+b) autonomia.
+
+c) auto-organização.
+
+d) autogoverno.
+
+e) soberania.
+
+
+
+FGV - PC SC - Delegado de Polícia Substituto - 2024
+
+11. O Município Alfa não aplica o mínimo exigido da receita municipal na manutenção e
+desenvolvimento do ensino e nas ações e serviços públicos de saúde. Em audiência pública
+determinado vereador progressista sustenta que esta situação enseja intervenção estadual no
+Município.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   67
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+A partir da correção da alegação feita pelo vereador na hipótese narrada e conforme as regras
+constitucionais vigentes, é correto afirmar que
+
+A) a decretação da intervenção estadual dependerá de provimento pelo Tribunal de Justiça, de
+representação do Procurador-Geral de Justiça.
+
+B) a decretação da intervenção estadual ocorrerá ex officio por ato do Governador de Estado.
+
+C) a decretação da intervenção estadual dependerá de provimento, pelo Supremo Tribunal
+Federal, de representação do Procurador-Geral da República.
+
+D) a decretação da intervenção estadual dispensará a apreciação pela Assembleia Legislativa.
+
+E) a decretação da intervenção estadual dependerá de solicitação da Assembleia Legislativa.
+
+
+
+FGV - Prefeitura de São José dos Campos - Procurador - 2024
+
+12. Certo Estado da federação está realizando estudos para instituir uma região metropolitana
+voltada para a prestação de serviços de saneamento básico, que abarcaria os Municípios
+limítrofes Aqui, Ali, Acolá e Algures. Em razão disso, o Prefeito de Acolá, que é ferrenho opositor
+de tal medida, buscou a respectiva procuradoria, a fim de obter as informações pertinentes
+acerca do tema.
+
+Diante dessa situação hipotética, à luz da orientação consolidada pelo Supremo Tribunal Federal,
+o procurador do Município deveria esclarecer corretamente que
+
+A) não há possibilidade de o Prefeito se opor à integração do Município Acolá à referida região
+metropolitana, se o Estado editar a lei ordinária necessária para tal finalidade.
+
+B) caso não haja integração do referido serviço público ou conurbação com relação aos aludidos
+Municípios, não há possibilidade de a região metropolitana objeto de estudo ser instituída.
+
+C) tal Estado, mediante previsão na respectiva Constituição, poderá concentrar o poder decisório
+acerca do tema objeto da região metropolitana em questão.
+
+D) o Prefeito pode editar um Decreto a fim de evitar que o Município integre a região
+metropolitana em análise.
+
+E) caso venha a ser editado o diploma legal pertinente, o Município integrará a região
+metropolitana, vigorando, no entanto, o princípio da proibição da concentração do poder.
+
+
+
+FGV - ALE TO - Policial Legislativo - Área: Polícia e Segurança - 2024
+
+13. Com o objetivo de uniformizar a organização interna e os direitos assegurados à população
+nos Municípios situados no Estado Alfa, iniciou-se um movimento, no âmbito da Assembleia
+Legislativa, com o objetivo de aprovar a Lei Orgânica a ser adotada por cada um dos referidos
+entes federativos.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      68
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+À luz da sistemática constitucional, é correto afirmar, em relação ao referido objetivo, que a Lei
+Orgânica
+
+A) deve ser veiculada em lei ordinária estadual.
+
+B) deve ser veiculada em lei complementar estadual.
+
+C) somente pode ser aprovada no âmbito de cada Município.
+
+D) deve se limitar a estabelecer as normas gerais a serem observadas por cada Município.
+
+E) somente pode ser editada pela Assembleia Legislativa se a Constituição Estadual o autorizar.
+
+
+
+FGV - Prefeitura de Caraguatatuba - Fiscal de Posturas - 2024
+
+14. As alternativas a seguir apresentam alguns bens públicos nacionais.
+
+Entre eles, aquele que pertence ao Estado e não à União é:
+
+A) Rio São Francisco.
+
+B) Rio Amazonas.
+
+C) Arquipélago de Abrolhos.
+
+D) Bacia petrolífera de Santos.
+
+E) Ilha de Marajó.
+
+
+
+FGV - MPE GO - Promotor de Justiça Substituto - 2024
+
+15. Lei ordinária estadual de 2023 permitiu a criação do Município Alfa, condicionada a
+divulgação de estudo favorável de viabilidade municipal.
+
+Diante do exposto e da jurisprudência do Supremo Tribunal Federal, assinale a afirmativa
+correta.
+
+A) A norma é constitucional, desde que tenha sido realizada consulta prévia às populações dos
+municípios envolvidos e a criação tenha sido aprovada, mediante plebiscito.
+
+B) A norma é inconstitucional, uma vez que a divulgação de estudo de viabilidade municipal
+precisa ser anterior à aprovação da lei que autoriza a criação do Município.
+
+C) A norma é inconstitucional, uma vez que ainda não foi editada a legislação complementar
+federal que discipline a criação de municípios e é da União a competência para disciplinar o
+tema.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        69
+        www.estrategiaconcursos.com.br                                                            75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+D) A norma é constitucional, condicionada a consulta posterior, mediante referendo, às
+populações dos municípios envolvidos, após a divulgação de estudo favorável de viabilidade
+municipal.
+
+E) A norma é inconstitucional, uma vez que a Constituição exige que a criação de municípios seja
+autorizada e regulamentada por lei complementar estadual.
+
+
+
+FGV - Câmara de São Paulo - Consultor Técnico Legislativo - Área Registro - 2024
+
+16. A Constituição Federal de 1988, em seu Art. 18, § 4º, prevê alguns requisitos para a criação
+de novos Municípios.
+
+Os requisitos a seguir estão previstos no texto constitucional, à exceção de um. Assinale-o.
+
+A) Deve ser feita por lei municipal.
+
+B) Deve ser feita dentro do período determinado por Lei Complementar Federal.
+
+C) Dependerá de consulta prévia às populações dos Municípios envolvidos.
+
+D) Dependerá de realização de plebiscito.
+
+E) Será feita apenas após a divulgação dos Estudos de Viabilidade Municipal.
+
+
+
+FGV - TJ SC - Juiz Substituto - 2024
+
+17. Em uma gincana jurídica, os grupos participantes foram questionados a respeito da
+funcionalidade dos denominados “princípios constitucionais sensíveis”, mais especificamente se
+a sua infringência apresenta características similares na perspectiva da decretação da intervenção
+nos estados ou nos municípios. O grupo Alfa sustentou que a ação direta interventiva é essencial
+para a decretação da intervenção em município em razão da não aplicação do mínimo exigido
+da receita municipal na manutenção e desenvolvimento do ensino. O grupo Beta defendeu que
+a decretação de intervenção em município, em situações que correspondem à violação aos
+referidos princípios, reproduzidos inclusive na Constituição Estadual, pode ser provocada ou
+espontânea. Por fim, o grupo Gama sustentou que a decretação de intervenção em estado, em
+razão da afronta aos princípios constitucionais sensíveis, sempre se dá na modalidade provocada.
+
+Ao final, os jurados concluíram, corretamente, em relação às conclusões dos referidos grupos,
+que:
+
+A) todas estão erradas;
+
+B) apenas a de Beta está certa;
+
+C) apenas a de Gama está certa;
+
+D) apenas as de Alfa e Gama estão certas;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     70
+        www.estrategiaconcursos.com.br                                                         75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+E) apenas as de Beta e Gama estão certas.
+
+
+
+FGV - Assembleia Legislativa do Paraná - Procurador - 2024
+
+18. A Constituição do Estado Alfa estabeleceu hipótese de intervenção estadual nos Municípios
+pelo não pagamento da dívida fundada, nos casos os quais o inadimplemento não esteja
+vinculado à gestão anterior.
+
+Diante do exposto e da jurisprudência do Supremo Tribunal Federal, é correto afirmar que essa
+hipótese de intervenção é
+
+A) constitucional, pois o Estado tem autonomia para definir, em sua Constituição, as hipóteses de
+intervenção nos municípios.
+
+B) inconstitucional, pois o dispositivo da Constituição estadual acrescentou hipótese de
+intervenção estadual nos Municípios não prevista na Constituição da República.
+
+C) constitucional, pois a referida norma prevista na Constituição estadual é a repetição da norma
+prevista na Constituição Federal.
+
+D) inconstitucional, pois o referido dispositivo restringiu a hipótese de intervenção estadual nos
+Municípios prevista na Constituição da República e tais preceitos são de observância obrigatória
+por parte dos Estados-membros.
+
+E) constitucional, pois o referido dispositivo da Constituição estadual apenas restringiu a hipótese
+de intervenção estadual nos Municípios prevista na Constituição da República.
+
+
+
+FGV - Assembleia Legislativa do Paraná - Procurador - 2024
+
+19. Ao perquirir os bens públicos que são de propriedade dos Estados da Federação, Maristela
+verificou que, entre eles, é correto indicar
+
+A) os potenciais de energia hidráulica.
+
+B) os terrenos de marinha e seus acrescidos.
+
+C) as terras devolutas não compreendidas entre as da União.
+
+D) as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos.
+
+E) as praias marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham a
+sede de Municípios.
+
+
+
+FGV - ALE TO - Procurador Jurídico - 2024
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       71
+        www.estrategiaconcursos.com.br                                                           75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+20. Na Assembleia Legislativa, tramita uma proposta de emenda à Constituição do Estado do
+Tocantins para passar a contemplar que o Estado não intervirá no Município, salvo quando for
+verificada, sem justo motivo, impontualidade no pagamento de empréstimo garantido pelo
+Estado e quando forem praticados, na administração municipal, atos de corrupção devidamente
+comprovados. O assunto foi submetido ao Procurador Legislativo da Assembleia para análise.
+
+Assinale a opção que apresenta, corretamente, sua manifestação.
+
+A) A aludida proposta para ter higidez constitucional precisa ter sido iniciada privativamente pelo
+Governador do Estado.
+
+B) A referida proposta não tem amparo constitucional, pois intervenção é medida excepcional à
+lógica da autonomia dos entes políticos e assim as hipóteses, que a Carta de 1988 permite de
+intervenção estadual em Município, constituem rol taxativo.
+
+C) A proposta, no tocante à impontualidade de pagamento por parte de município, não deve
+prosseguir, porquanto as dívidas entre entes políticos devem ser solucionadas judicialmente, em
+especial utilizando-se do sistema de precatórios.
+
+D) A proposta, em relação ao combate à corrupção, tem respaldo na Constituição da República
+de 1988, porque ela resguarda a eficiência na administração da coisa pública.
+
+E) A proposta de emenda, especificamente para a hipótese de corrupção, deveria contemplar a
+União Federal também como ente apto a intervir, já que de interesse da federação, como um
+todo, o combate à corrupção.
+
+
+
+(ALESC/Analista Legislativo III - Direito/FGV/2024)
+
+21. De acordo com informações divulgadas pela imprensa, o Município Alfa vinha descumprindo
+diversas obrigações previstas na Constituição da República, bem como alguns princípios
+indicados na Constituição Estadual.
+
+Determinado repórter, ao consultar um especialista na matéria em relação à possibilidade, ou
+não, desse estado de coisas acarretar a intervenção do Estado em Alfa, foi corretamente
+informado de que
+
+A) a intervenção é possível, mas sempre pressupõe o provimento de representação pelo Tribunal
+de Justiça.
+
+B)   a intervenção espontânea é possível na hipótese de não prestação de contas devidas
+conforme os balizamentos estabelecidos em lei.
+
+C)    é possível que a afronta aos princípios indicados na Constituição Estadual acarrete a
+decretação da intervenção em Alfa, o que será feito, de ofício, pelo Governador.
+
+D) somente é necessário o provimento de representação, pelo Tribunal de Justiça, para a
+decretação da intervenção, no caso de recusa de cumprimento de ordem ou decisão judicial.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      72
+        www.estrategiaconcursos.com.br                                                          75
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 08
+
+
+
+E) em razão do escalonamento federativo, que impede a decretação de intervenção, pela União,
+em Alfa, somente a afronta a normas estaduais pode acarretar a intervenção.
+
+
+
+(FGV - OAB - Advogado – 2023)
+
+22. Com grande adesão da população, o prefeito do Município Delta, situado no
+Estado-membro Alfa, declarou a independência do território municipal, criando um novo país.
+Assustado com a rapidez do processo, o Presidente da República, após ouvir o Conselho de
+Defesa Nacional, sem perda de tempo, decidiu decretar a intervenção federal no Município. Ato
+contínuo, submeteu o decreto ao Congresso Nacional, que o aprovou, também de forma célere,
+por unanimidade. Sobre o decreto interventivo federal, segundo o sistema jurídico constitucional
+brasileiro, assinale a afirmativa correta.
+
+A) A Constituição da República de 1988 veda, de forma cabal, o direito de secessão, sendo o
+decreto constitucional.
+
+B) O ato de insurreição traz consigo grave comprometimento à ordem pública, o que aponta para
+a constitucionalidade do decreto.
+
+C) Como Delta está situado em um Estado-membro, não há previsão constitucional para a
+decretação de intervenção federal.
+
+D) O fato de a decisão presidencial não ter sido antecedida de requisição pelo Supremo Tribunal
+Federal indica a invalidade do decreto.
+
+
+
+Outras bancas
+
+(Quadrix - CRP 14 - Agente de Orientação e Fiscalização – 2021)
+
+23. A autonomia dos entes federativos representa sua capacidade de auto-organização,
+autogoverno, autoadministração e autolegislação, não contemplando, contudo, a soberania.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   73
+        www.estrategiaconcursos.com.br                                                       75
+
+                                      https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 08
+
+
+
+
+                                                 GABARITO
+               01            02             03            04             05                06
+
+                B             B         Correto         Errado         Errado              E
+
+               07            08             09            10             11                12
+
+            Errado        Errado            A              E              B                E
+
+               13            14             15            16             17                18
+
+                C             E             C              A              E                D
+
+               19            20             21            22             23
+
+                C             B             B              C          Correto
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        74
+      www.estrategiaconcursos.com.br                                                            75
+
+                                    https://t.me/KakashiAssinaturasBot
+

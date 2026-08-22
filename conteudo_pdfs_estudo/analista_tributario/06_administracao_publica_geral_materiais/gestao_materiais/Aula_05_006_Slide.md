@@ -1,0 +1,357 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: 'POLÍTICAS DE “ESTOQUE ZERO”:'
+---
+
+# POLÍTICAS DE “ESTOQUE ZERO”:
+
+---
+
+---
+
+POLÍTICAS DE “ESTOQUE ZERO”:
+JUST IN TIME E KANBAN
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Just in Time
+       A demanda “puxa” a produção
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que
+         já tem demanda assegurada. É popularmente conhecido por aquele sistema em que a demanda
+         "puxa" a produção (ao contrário dos sistemas que vimos até agora, inclusive o MRP), ou seja, a
+         fábrica apenas se mobiliza, planeja e produz aquilo que o mercado está demandando.
+
+                 Entender isso é importante pois é uma diferença fundamental versus "empurrar" para
+                 o mercado produtos fabricados pela organização sem que haja demanda "garantida".
+                 Isso é importante entender para a prova.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de
+         80, trazendo a meta do "estoque zero". O JIT é comumente associado a expressões (que
+         aparecem muito em provas!) como "produção sem estoques", "eliminação do desperdício",
+         "melhora contínua de processos", etc.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Just in Time
+       Busca pelo estoque mínimo (ou nenhum!) e integração total
+       ❑ Para funcionar dessa maneira é necessária grande integração do cliente com seus fornecedores,
+         que devem ser verdadeiros parceiros e membros ativos da cadeia produtiva. As entregas devem
+         ser diárias e de acordo com o que vai ser produzido (e é demandado pelo mercado).
+
+       Dessa forma todo o material entregue é empregado imediatamente na produção e não há
+       estoque!
+
+       ❑ Veja que nesse sistema não só é importante como passa a ser crítica a entrega do volume correto,
+         no momento adequado e na qualidade desejada para que a produção possa atender
+         imediatamente a demanda colocada.
+
+       ❑ Fábrica e fornecedor devem estar 100% alinhados em relação à demanda do mercado, prazos de
+         entrega, condições de pagamento e demais variáveis visto que não há tempo para rediscutir
+         condições de compra e venda ao longo do processo que não admite qualquer falha. Justamente
+         por isso, é um conceito teórico, que tem suas dificuldades de implementação, mas é cobrado
+         assim em prova.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Just in Time
+       Principais objetivos
+       ❑ Veja a seguir alguns dos principais objetivos do JIT:
+
+                 - minimização dos prazos de fabricação
+                 - manutenção de inventários mínimos
+                 - flexibilização da produção com redução do tempo de preparação de máquinas
+                 - redução ao mínimo do tamanho dos lotes
+                 - produção "puxada" e não empurrada
+
+       ❑ Em comparação com os métodos convencionais de gestão de estoques, o JIT apresenta algumas
+         desvantagens como as dificuldades geradas pela variação da demanda e, especialmente, o
+         aumento de riscos de interrupção da produção em função de eventuais quebras de estoques, com
+         probabilidade de ocorrência muito maior do que em sistemas de gerenciamento de estoques
+         com produção "empurrada".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Kanban
+       Mesma filosofia do JIT
+
+       ❑ O Kanban também é um sistema japonês de gestão de estoques que consiste na
+         utilização de cartões pelos integrantes da linha de produção.
+       ❑ É considerada uma ferramenta com a mesma filosofia do sistema Just in Time
+         portanto tem a velocidade do abastecimento também influenciada pela demanda
+         real de produção. Atenção pois não é um sinônimo do JIT, mas sim um instrumento
+         que utiliza como filosofia os conceitos do JIT.
+       ❑ Assim que é notada a falta de material em alguma parte da cadeia de produção uma
+         placa/cartão é levantado, indicando que este setor precisa ser reabastecido. Os
+         postos de trabalho anteriores a este na linha de produção entregam ao posto
+         solicitante o material, impedindo que a produção pare por falta de material.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Kanban
+       Principais vantagens
+       ❑ O Kanban tem como princípio, portanto, a informação a todos os envolvidos do que deve ser
+         fornecido e em que volume, para que o necessário socorro seja prestado.
+
+       ❑ Tem como vantagens:
+       ✓ Sistemas de ordenamento de compras e produção em tempo real.
+       ✓ Responsabilidade de emissão de ordens de compra para a própria linha de produção.
+       ✓ Abordagem prática e redução de burocracia ao mínimo possível.
+       ✓ Possui tendência constante (não varia de forma uniforme nem para cima e nem para baixo).
+
+       ❑ Reforçando os conceitos do JIT, o sistema Kanban aumenta a flexibilidade da manufatura, criando
+         melhores condições de reação à produção variada, respeitando-se a mesma capacidade instalada,
+         além de estimular o desenvolvimento da automação localizada em pequenos aperfeiçoamentos
+         alcançados a custos baixos.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (UEPB/CPCON/Almoxarife/2021) A partir do conceito de desperdício (Just in time – JIT), assinale abaixo
+     a única alternativa CORRETA:
+     a) O Just in time – JIT permite cortar custos de manter estoque, minimizar o uso do espaço e cooperar
+     para diminuir a qualidade dos resultados.
+     b) O Just in time – JIT utiliza o bakana, um cartão de papel que acompanha cada lote de itens. Assim
+     que o primeiro colaborador recebe o lote, registra o fornecimento no bakana para servir como um
+     novo pedido de lote.
+     c) No Just in time – JIT, como o processo é totalmente terceirizado, a administração não precisa
+     assumir ações e fazer arranjos para assegurar que o sistema funcione.
+     d) O sistema Just in time – JIT diz respeito a uma tentativa de redução dos custos e melhoria do fluxo
+     de trabalho através da programação de materiais que precisam chegar a uma estação de trabalho na
+     ocasião certa de seu uso.
+     e) A abordagem do Just in time – JIT para o controle de inventário envolve um aumento inicial dos
+     custos de manter estoques e de comprar ou produzir estoques, sobressaindo-se, momentaneamente,
+     ao necessário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (UEPB/CPCON/Almoxarife/2021) A partir do conceito de desperdício (Just in time – JIT), assinale abaixo
+     a única alternativa CORRETA:
+     a) O Just in time – JIT permite cortar custos de manter estoque, minimizar o uso do espaço e cooperar
+     para diminuir a qualidade dos resultados.
+     b) O Just in time – JIT utiliza o bakana, um cartão de papel que acompanha cada lote de itens. Assim
+     que o primeiro colaborador recebe o lote, registra o fornecimento no bakana para servir como um
+     novo pedido de lote.
+     c) No Just in time – JIT, como o processo é totalmente terceirizado, a administração não precisa
+     assumir ações e fazer arranjos para assegurar que o sistema funcione.
+     d) O sistema Just in time – JIT diz respeito a uma tentativa de redução dos custos e melhoria do fluxo
+     de trabalho através da programação de materiais que precisam chegar a uma estação de trabalho na
+     ocasião certa de seu uso.
+     e) A abordagem do Just in time – JIT para o controle de inventário envolve um aumento inicial dos
+     custos de manter estoques e de comprar ou produzir estoques, sobressaindo-se, momentaneamente,
+     ao necessário.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (UEPB/CPCON/Almoxarife/2021) Para que a filosofia do Just in Time (JIT) seja viável e obtenha
+     resultados positivos, foi necessário o desenvolvimento de ferramentas práticas e com baixo custo. Uma
+     dessas ferramentas é a __________, que é definida como um sistema de cartões para controlar
+     atividades de produção, estoques e/ou transportes. Assinale a alternativa que completa
+     CORRETAMENTE a lacuna:
+     a) Kanban
+     b) Jidoca
+     c) Andon
+     d) Gemba
+     e) Heijunka
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (UEPB/CPCON/Almoxarife/2021) Para que a filosofia do Just in Time (JIT) seja viável e obtenha
+     resultados positivos, foi necessário o desenvolvimento de ferramentas práticas e com baixo custo. Uma
+     dessas ferramentas é a __________, que é definida como um sistema de cartões para controlar
+     atividades de produção, estoques e/ou transportes. Assinale a alternativa que completa
+     CORRETAMENTE a lacuna:
+     a) Kanban
+     b) Jidoca
+     c) Andon
+     d) Gemba
+     e) Heijunka
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/FUNSAUDE-CE/Analista Administrativo/2021) O sistema de produção just in time ganhou
+     popularidade por ter sido utilizado de forma bem-sucedida pela empresa Japonesa Toyota, a partir da
+     década de 60. Devido ao seu sucesso, esse sistema foi posteriormente replicado por diversas outras
+     organizações ao redor do mundo. Esse sistema tem como característica a ideia de que
+     a) a demanda é responsável por puxar a produção, em quantidades determinadas e no momento
+     certo.
+     b) o emprego do método Kanban permite a maximização de estoques de escala em depósitos de
+     terceiros.
+     c) a rigidez do processo produtivo sustenta a manutenção de um custo fixo zero.
+     d) a sazonalidade das compras de insumos, causada pela racionalidade pontual dos consumidores,
+     viabiliza uma produção contínua.
+     e) o aumento permanente nos prazos de fabricação garante a eliminação dos efeitos causados pelos
+     riscos de interrupção.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/FUNSAUDE-CE/Analista Administrativo/2021) O sistema de produção just in time ganhou
+     popularidade por ter sido utilizado de forma bem-sucedida pela empresa Japonesa Toyota, a partir da
+     década de 60. Devido ao seu sucesso, esse sistema foi posteriormente replicado por diversas outras
+     organizações ao redor do mundo. Esse sistema tem como característica a ideia de que
+     a) a demanda é responsável por puxar a produção, em quantidades determinadas e no momento
+     certo.
+     b) o emprego do método Kanban permite a maximização de estoques de escala em depósitos de
+     terceiros.
+     c) a rigidez do processo produtivo sustenta a manutenção de um custo fixo zero.
+     d) a sazonalidade das compras de insumos, causada pela racionalidade pontual dos consumidores,
+     viabiliza uma produção contínua.
+     e) o aumento permanente nos prazos de fabricação garante a eliminação dos efeitos causados pelos
+     riscos de interrupção.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (INST. AOCP/MPE-RS/Técnico do MP/2021) Qual é o sistema de administração de recursos materiais
+     que focaliza a demanda efetiva?
+     a) Sistema funcional de compras.
+     b) Sistema de registro de preço.
+     c) Sistema just-in-time/Kanban.
+     d) Sistema multifontes de estoque.
+     e) Sistema tradicional de abastecimento.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (INST. AOCP/MPE-RS/Técnico do MP/2021) Qual é o sistema de administração de recursos materiais
+     que focaliza a demanda efetiva?
+     a) Sistema funcional de compras.
+     b) Sistema de registro de preço.
+     c) Sistema just-in-time/Kanban.
+     d) Sistema multifontes de estoque.
+     e) Sistema tradicional de abastecimento.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (Questão de prova) Uma das características do sistema JIT (Just in time) de suprimentos é:
+     a) antecipar a produção de modo a garantir a demanda.
+     b) considerar os desperdícios como inevitáveis.
+     c) processar o material somente quando for requerido pela operação.
+     d) reduzir a frequência de entrega de suprimentos, que passa a ser feita em grandes lotes.
+     e) resguardar a capacidade dos estoques, criando “pulmões” (reservas).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (Questão de prova) Uma das características do sistema JIT (Just in time) de suprimentos é:
+     a) antecipar a produção de modo a garantir a demanda.
+     b) considerar os desperdícios como inevitáveis.
+     c) processar o material somente quando for requerido pela operação.
+     d) reduzir a frequência de entrega de suprimentos, que passa a ser feita em grandes lotes.
+     e) resguardar a capacidade dos estoques, criando “pulmões” (reservas).
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

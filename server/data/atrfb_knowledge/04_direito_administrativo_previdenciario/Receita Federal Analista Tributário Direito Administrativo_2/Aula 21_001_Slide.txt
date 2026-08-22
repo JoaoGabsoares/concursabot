@@ -1,0 +1,1583 @@
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+LEI GERAL DE PROTEÇÃO DE
+      DADOS (LGPD)
+
+
+       LEI 13.709/2018
+                                            Prof. Antonio Daud
+
+
+
+       https://t.me/KakashiAssinaturasBot
+                     @professordaud                                        t.me/professordaud
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                      https://t.me/KakashiAssinaturasBot
+LGPD: NOÇÕES INICIAIS
+
+
+
+                                               Prof. Antonio Daud
+
+
+
+          https://t.me/KakashiAssinaturasBot
+      CF, art. 5º, X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas,
+      assegurado o direito a indenização pelo dano material ou moral decorrente de sua
+      violação;
+
+      LXXIX - é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive
+      nos meios digitais (EC 115/2022)
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                     https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+                                                                           Tratamento de
+     Disposições     Tratamento de                  Direitos do titular
+                                                                          dados pelo poder
+     preliminares    dados pessoais                     dos dados
+                                                                               público
+
+
+   Transferência       Agentes de                     Segurança dos
+                                                                           Fiscalização por
+ internacional de    tratamento de                     dados e boas
+                                                                          infrações à LGPD
+      dados              dados                           práticas
+
+
+                      Autoridade
+                      Nacional de
+                                                        Regras finais
+                      Proteção de
+                     Dados (ANPD)
+LGPD
+Prof. Antonio Daud
+                           https://t.me/KakashiAssinaturasBot
+LGPD: DISPOSIÇÕES GERAIS
+
+
+
+                                               Prof. Antonio Daud
+
+
+
+          https://t.me/KakashiAssinaturasBot
+                                                LGPD
+         ❑ dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais
+         ❑ suas regras devem observadas por pessoa natural ou por pessoa jurídica,
+           seja de direito público ou privado
+         ❑ suas normas gerais são de interesse nacional e devem ser observadas pela União,
+           Estados, Distrito Federal e Municípios
+
+
+                                          proteger os                    liberdade e
+                                            direitos
+                                        fundamentais de                  privacidade
+          LGPD - objetivos
+
+                                            proteger o livre desenvolvimento da
+LGPD
+                                              personalidade da pessoa natural
+Prof. Antonio Daud
+                                    https://t.me/KakashiAssinaturasBot
+ Questão para fixação
+
+  A Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD) – dispõe
+  sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa
+  natural ou por pessoa jurídica de direito público ou privado. Assinale a alternativa
+  que apresenta o objetivo da referida lei.
+  A Proteger os direitos fundamentais de liberdade e de privacidade e o livre
+  desenvolvimento da personalidade da pessoa natural.
+  B Resguardar os direitos sociais de livre opinião das pessoas físicas e jurídicas
+  estabelecidas no Brasil.
+  C Proteger os dados pessoais de autoridades governamentais e de pessoas
+  politicamente expostas.
+  D Assegurar que não haja divulgação da remuneração dos servidores públicos nas
+  plataformas de transparências de órgãos e entidades públicas.
+  E Instituir o programa de desenvolvimento digital visando ao combate de
+  informações
+LGPD
+Prof. Antonio Daud falsas difundidas na internet.
+                               https://t.me/KakashiAssinaturasBot
+                                                 Aplicação da LGPD (art. 3º)
+                                           Realizado por pessoa física ou jurídica (dir. público ou privado)
+LGPD aplica-se a qualquer operação
+
+
+
+
+                                                            Independentemente do meio
+    de tratamento de dados
+
+
+
+
+                                                      Independentemente do país de sua sede
+
+                                          Independentemente do país onde estejam localizados os dados
+
+                                                                tratamento seja realizado no território nacional
+
+
+                                     Desde que     tratamento tenha por objetivo o fornecimento de bens ou serviços ou
+                                                   o tratamento de dados de indivíduos localizados no território nacional
+
+                                                             dados tenham sido coletados no território nacional
+     LGPD
+     Prof. Antonio Daud
+                                                          https://t.me/KakashiAssinaturasBot
+                                     Não aplicação da LGPD (art. 4º)
+                                                                                             particulares e
+                              por pessoa natural para fins exclusivamente
+                                                                                           não econômicos
+                                                                                    jornalístico
+                                    para fins
+      LGPD não se aplica ao
+
+
+
+                                                                                     artísticos
+       tratamento realizado
+
+
+                                exclusivamente:
+                                                                                   acadêmicos
+                                                                              segurança pública
+
+                               para fins exclusivos                             defesa nacional
+                                       de:                                  segurança do Estado
+                                                              investigação e repressão de inf. penais
+                                                                 não sejam objeto de comunicação, uso compartilhado
+                                                                  de dados com agentes de tratamento brasileiros ou
+                               provenientes de fora               objeto de transferência internacional de dados com
+                              do território nacional e                   outro país que não o de proveniência
+LGPD
+Prof. Antonio Daud                                                 desde que o país de proveniência dê proteção a dados pessoais
+                                                      https://t.me/KakashiAssinaturasBot
+                        Não aplicação da LGPD
+
+Tratamento de dados pessoais para fins de segurança pública, defesa nacional, segurança do
+Estado ou de atividades de investigação e repressão de infrações penais:
+❑ é vedado o tratamento por pessoa de direito privado, exceto em procedimentos sob
+  tutela de pessoa jurídica de direito público, que serão objeto de informe específico à
+  autoridade nacional
+❑ autoridade nacional emitirá opiniões técnicas ou recomendações referentes a estas
+  exceções, devendo solicitar aos responsáveis relatórios de impacto à proteção de dados
+  pessoais.
+❑ em nenhum caso a totalidade dos dados pessoais de banco de dados poderá ser tratada
+  por pessoa de direito privado, salvo por aquela que possua capital integralmente
+  constituído pelo poder público (empresa pública)
+  ❑ será regido por legislação específica, que deverá prever medidas proporcionais e
+         estritamente necessárias ao atendimento do interesse público, observados o devido
+LGPD
+         processo legal, os princípios gerais de proteção e os direitos do titular dos dados
+Prof. Antonio Daud
+                                 https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  Essa lei não se aplica ao tratamento de dados pessoais realizados para fins
+  exclusivos de segurança pública.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                             https://t.me/KakashiAssinaturasBot
+                     LGPD aplica-se
+
+                      • tratamento realizado no território nacional
+                      • tratamento com objetivo de fornecimento de bens ou serviços ou o tratamento de dados
+                        de indivíduos localizados no território nacional
+                      • dados coletados no território nacional
+
+                     LGPD não se aplica
+
+                      • por pessoa natural para fins exclusivamente particulares e não econômicos
+                      • fins jornalístico
+                      • artísticos
+                      • acadêmicos
+                      • de segurança pública
+                      • defesa nacional
+                      • segurança do Estado
+                      • atividades de investigação e repressão de infrações penais
+                      • provenientes de fora do território nacional e
+                        • não sejam objeto de comunicação, uso compartilhado de dados com agentes de
+                          tratamento brasileiros ou objeto de transferência internacional de dados com outro país
+LGPD                      que não o de proveniência
+Prof. Antonio Daud
+                        • desde que o país de proveniência    proporcione proteção adequada a dados pessoais
+                                                 https://t.me/KakashiAssinaturasBot
+LGPD: FUNDAMENTOS (ART. 2º)
+
+
+
+                                                Prof. Antonio Daud
+
+
+
+           https://t.me/KakashiAssinaturasBot
+                                            respeito à privacidade
+                                       autodeterminação informativa
+                                                     expressão
+                                                   informação
+                           liberdade de
+                                                  comunicação
+          fundamentos
+
+
+
+                                                       opinião
+                                                    intimidade
+                        inviolabilidade da              honra
+                                                      imagem
+                           inovação e o            econômico
+                         desenvolvimento           tecnológico
+                         livre iniciativa, livre concorrência e defesa do consumidor
+                        direitos humanos e livre desenvolvimento da personalidade
+LGPD                    dignidade e exercício da cidadania pelas pessoas naturais
+Prof. Antonio Daud
+                                         https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  Em relação aos fundamentos especificados no Art. 2º da Lei Geral de Proteção de
+  Dados Pessoais (LGPD), o fundamento que NÃO faz parte dessa Lei é:
+   A Respeito à privacidade.
+  B Autodeterminação informativa.
+  C Inviolabilidade da intimidade, da honra e da imagem.
+  D Liberdade na divulgação de dados pessoais em meios digitais, seguindo o
+  princípio da liberdade de informação.
+  E Liberdade de expressão, de informação, de comunicação e de opinião.
+
+
+LGPD
+Prof. Antonio Daud
+                               https://t.me/KakashiAssinaturasBot
+LGPD: PRINCÍPIOS (ART. 6º)
+
+
+
+                                                 Prof. Antonio Daud
+
+
+
+            https://t.me/KakashiAssinaturasBot
+                                                     finalidade
+
+                      responsabilização e                                 adequação
+                      prestação de contas
+
+
+                                                                              necessidade
+                          não
+                     discriminação                princípios
+                                                  expressos
+                                                  na LGPD
+                      prevenção                                               livre acesso
+
+
+                                                                          qualidade
+                            segurança                                     dos dados
+                                                transparência
+LGPD
+Prof. Antonio Daud
+                                     https://t.me/KakashiAssinaturasBot
+TRATAMENTO DE DADOS PESSOAIS
+                  (ARTS. 7º A 16)
+
+
+
+
+                                             Prof. Antonio Daud
+
+
+
+        https://t.me/KakashiAssinaturasBot
+                     Tratamento de dados pessoais
+
+ ❑ O que é?
+
+
+   toda operação realizada com dados pessoais, como as que se referem a coleta,
+   produção, recepção, classificação, utilização, acesso, reprodução, transmissão,
+   distribuição, processamento, arquivamento, armazenamento, eliminação,
+   avaliação ou controle da informação, modificação, comunicação, transferência,
+   difusão ou extração
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                               https://t.me/KakashiAssinaturasBot
+                                    fornecimento de consentimento pelo titular
+
+
+                                  cumprimento de obrigação legal ou regulatória
+ hipóteses de tratamento (1/2)
+
+
+
+                                               pelo controlador                                 previstas em leis e
+                                                                                                 regulamentos ou
+                                  pela Administração Pública, para o tratamento e
+                                 uso compartilhado de dados nas políticas públicas           respaldadas em contratos,
+                                                                                                convênios ou instrum.
+                                                                                                    congêneres
+
+                                                                                             garantida a anonimização
+                                    realização de estudos por órgão de pesquisa               dos dados (sempre que
+                                                                                                     possível)
+
+                                 quando necessário para a execução de contrato ou
+                                                                                              a pedido do titular dos
+                                   de procedimentos preliminares de contrato do
+                                                                                                      dados
+                                             qual o titular seja parte
+LGPD
+Prof. Antonio Daud
+                                                        https://t.me/KakashiAssinaturasBot
+                                                                                                       judicial
+                                  para o exercício regular de direitos em processo                 administrativo ou
+                                                                                                       arbitral
+
+                                                                                                     do titular ou
+ hipóteses de tratamento (2/2)
+
+
+
+                                     proteção da vida ou da incolumidade física
+                                                                                                     de terceiro
+
+                                                                                               profissionais de saúde,
+                                 tutela da saúde, exclusivamente, em procedimento               serviços de saúde ou
+                                                    realizado por
+                                                                                                 autoridade sanitária
+                                                                                               exceto se prevalecerem
+                                                                                                 direitos e liberdades
+                                      para atender aos interesses legítimos do
+                                                                                               fundamentais do titular
+                                             controlador ou de terceiro                       que exijam a proteção dos
+                                                                                                    dados pessoais
+
+LGPD                              proteção do crédito, inclusive quanto ao disposto na legislação pertinente
+Prof. Antonio Daud
+                                                         https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+  O tratamento de dados pessoais cujo acesso é público deve considerar a finalidade, a boa-
+  fé e o interesse público que justificaram sua disponibilização. Em tema de requisitos para o
+  tratamento de dados pessoais, segundo a Lei Geral de Proteção de Dados Pessoais –
+  LGPD), o tratamento de dados pessoais somente poderá ser realizado em algumas
+  hipóteses.
+  Essas hipóteses são apresentadas nas opções a seguir, à exceção de uma. Assinale-a.
+  (A) Proteção da vida ou da incolumidade física do titular ou de terceiro.
+  (B) Cumprimento de obrigação legal ou regulatória pelo controlador.
+  (C) Realização de estudos por órgão de pesquisa, garantida, sempre que possível, a
+  anonimização dos dados pessoais.
+  (D) Tutela da saúde em sentido amplo, sem exclusivamente em procedimento realizado
+  por profissionais de saúde, serviços de saúde ou autoridade sanitária.
+  (E) Necessidade para a execução de contrato ou de procedimentos preliminares
+  relacionados a contrato do qual seja parte o titular, a pedido do titular dos dados
+LGPD
+Prof. Antonio Daud
+                                   https://t.me/KakashiAssinaturasBot
+                       Tratamento dos dados
+
+
+ Art. 7º,§ 3º O tratamento de dados pessoais cujo acesso é público deve
+ considerar a finalidade, a boa-fé e o interesse público que justificaram sua
+ disponibilização.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+                     Interesse legítimo do controlador
+  Art. 10. O legítimo interesse do controlador somente poderá fundamentar tratamento de dados
+  pessoais para finalidades legítimas, consideradas a partir de situações concretas, que incluem, mas
+  não se limitam a:
+  I - apoio e promoção de atividades do controlador; e
+  II - proteção, em relação ao titular, do exercício regular de seus direitos ou prestação de serviços que
+  o beneficiem, respeitadas as legítimas expectativas dele e os direitos e liberdades fundamentais, nos
+  termos desta Lei.
+
+  § 1º Quando o tratamento for baseado no legítimo interesse do controlador, somente os dados
+  pessoais estritamente necessários para a finalidade pretendida poderão ser tratados.
+  § 2º O controlador deverá adotar medidas para garantir a transparência do tratamento de dados
+  baseado em seu legítimo interesse.
+  § 3º A autoridade nacional poderá solicitar ao controlador relatório de impacto à proteção de dados
+  pessoais, quando o tratamento tiver como fundamento seu interesse legítimo, observados os segredos
+  comercial e industrial.
+LGPD
+Prof. Antonio Daud
+                                       https://t.me/KakashiAssinaturasBot
+CONSENTIMENTO DO TITULAR
+                (ARTS. 8º E 9º)
+
+
+
+
+                                           Prof. Antonio Daud
+
+
+
+      https://t.me/KakashiAssinaturasBot
+                        Consentimento do titular
+
+ ❑ “manifestação livre, informada e inequívoca pela qual o titular concorda com o
+   tratamento de seus dados pessoais para uma finalidade determinada”
+ ❑ fornecido ou por escrito ou por outro meio que demonstre a manifestação de
+   vontade do titular (por escrito: cláusula destacada das demais cláusulas do contrato)
+ ❑ referir-se a finalidades determinadas (autorizações genéricas serão nulas)
+ ❑ cabe ao controlador o ônus da prova de que o consentimento foi fornecido de
+   acordo com as exigências da LGPD (não ao titular dos dados)
+ ❑ vedado o tratamento mediante vício de consentimento
+ ❑ pode ser revogado a qualquer momento, por procedimento gratuito e facilitado
+ ❑ revogação ratifica os tratamentos realizados anteriormente (≠ requerimento de
+   eliminação de dados pessoais tratados)
+LGPD
+Prof. Antonio Daud
+                                https://t.me/KakashiAssinaturasBot
+                               Consentimento do titular
+
+
+ ❑ Se dados pessoais foram tornados públicos manifestamente pelo titular →
+   dispensado o consentimento
+
+
+ ❑ Regra: o consentimento autoriza apenas o agente que o recebeu
+          (p/ repassar para outro controlador: consentimento específico do titular)
+ ❑ Exceção: hipóteses de dispensa do consentimento previstas na LGPD
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                       https://t.me/KakashiAssinaturasBot
+     Fornecimento de informações ao titular dos dados tratados (art. 9º)
+
+
+                                                          finalidade específica do tratamento
+
+                                                             forma e duração do tratamento
+                     livre acesso ao titular
+
+
+
+                                                                identificação do controlador
+                              sobre
+
+
+
+
+                                                        informações de contato do controlador
+
+                                                informações acerca do uso compartilhado de dados pelo
+                                                              controlador e a finalidade
+
+                                               responsabilidades dos agentes que realizarão o tratamento
+
+                                                                        direitos do titular
+LGPD
+Prof. Antonio Daud
+                                                        https://t.me/KakashiAssinaturasBot
+DADOS ANONIMIZADOS
+
+
+                                        Prof. Antonio Daud
+
+
+
+   https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+                     Anonimização de dados pessoais (art. 12)
+
+ ❑ Regra: dados anonimizados não serão considerados dados pessoais
+ ❑ Exceção: quando o processo de anonimização ao qual foram submetidos for
+   revertido, utilizando exclusivamente meios próprios, ou quando, com esforços
+   razoáveis, puder ser revertido
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                 https://t.me/KakashiAssinaturasBot
+                     Anonimização de dados pessoais
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                             https://t.me/KakashiAssinaturasBot
+ Questão para fixação
+ O banco de dados gerenciado por Paulo possui os dados a seguir.
+                  id_pessoa   nome      genero       dt_nasc              endereco
+                  ea5d0c10    João     Masculino    15/08/25 R. N. Silva 12 CEP 20320-190
+                  00fc771f    Luiza    Feminino     06/08/16 Av. Carlos 30 CEP 22040-320
+                  e2c5f2dd    Heitor   Masculino    30/06/07 R. Trind 22 CEP 72000-100
+
+ Para atender a Lei Geral de Proteção de Dados Pessoais (LGPD), Paulo realizou um
+ tratamento nos dados para perder a possibilidade de associação, direta ou indireta, a um
+ indivíduo, e gerou a tabela abaixo.
+                id_pessoa      nome             genero       dt_nasc       endereco
+                d1b2d23f       REMOVIDO         M            80 -          CEP 20320-190
+                c9ee2d5b       REMOVIDO         F            0 - 20        CEP 22040-320
+                7a16ca062      REMOVIDO         M            0 - 20        CEP 72000-100
+
+   À luz da LGPD, o tratamento realizado por Paulo foi:
+   A bloqueio;
+   B anonimização;
+   C difusão;
+   D classificação;
+   E extração.
+LGPD
+Prof. Antonio Daud
+                                           https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  A Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709, de 14/08/2018)
+  prevê tipos de tratamento de dados, dentre os quais, o tratamento por meio do
+  qual um dado perde a possibilidade de associação, direta ou indireta, a um
+  indivíduo, senão pelo uso de informação adicional mantida separadamente pelo
+  controlador em ambiente controlado e seguro. Esse tipo de tratamento é
+  denominado
+  A Insensibilização.
+  B Adequação.
+  C Anonimização.
+  D Pseudonimização.
+  E Não discriminação.
+
+
+LGPD
+Prof. Antonio Daud
+                              https://t.me/KakashiAssinaturasBot
+TRATAMENTO DE DADOS PESSOAIS
+      SENSÍVEIS (ARTS. 11 A 13)
+
+                                              Prof. Antonio Daud
+
+
+
+         https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+  De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), o tratamento
+  de dados pessoais sensíveis somente poderá ocorrer em algumas situações, como
+  sem fornecimento de consentimento do titular, nas hipóteses em que for
+  indispensável para
+  A a proteção da vida ou da incolumidade física do titular, mas não de terceiro.
+  B o exercício regular de direitos em processo judicial, vedada a utilização em
+  processo administrativo e arbitral.
+  C a realização de estudos por órgão de pesquisa, vedada a anonimização dos
+  dados pessoais sensíveis.
+  D o tratamento compartilhado de dados necessários à execução, pela
+  administração pública, de políticas públicas previstas em leis ou regulamentos.
+  E a tutela da saúde, exclusivamente, em procedimento realizado por autoridade
+  sanitária, excluídos os demais profissionais e serviços de saúde.
+LGPD
+Prof. Antonio Daud
+                               https://t.me/KakashiAssinaturasBot
+  Uso de dado sensível para obter vantagem econômica
+
+❑ Poderá ser objeto de vedação ou de regulamentação por parte da ANPD
+
+
+❑ Dados sensíveis referentes à saúde:
+    regra: LGPD de antemão veda a comunicação ou seu uso compartilhado p/
+vantagem econômica
+     exceções:      (i) de prestação de serviços de saúde
+                    (ii) de assistência farmacêutica
+                           (iii) de assistência à saúde, incluídos os serviços auxiliares de
+  diagnose e terapia, em benefício dos interesses dos titulares de dados, e para
+  permitir: I - a portabilidade de dados quando solicitada pelo titular; ou II - as
+  transações financeiras e administrativas resultantes do uso e da prestação dos
+  serviços
+LGPD
+Prof. Antonio Daud de saúde.
+                                 https://t.me/KakashiAssinaturasBot
+                Uso de dado por operadora de plano de saúde
+
+ ❑ Art. 11, § 5º É vedado às operadoras de planos privados de assistência à saúde
+   o tratamento de dados de saúde para a prática de seleção de riscos na
+   contratação de qualquer modalidade, assim como na contratação e exclusão de
+   beneficiários.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                              https://t.me/KakashiAssinaturasBot
+        Uso de dados pessoais em estudos de saúde
+                       pública (art. 13)
+ ❑ Órgãos de pesquisa poderão ter acesso a bases de dados pessoais, que serão
+   tratados exclusivamente dentro do órgão e estritamente para a finalidade de
+   realização de estudos e pesquisas
+ ❑ mantidos em ambiente controlado e seguro
+ ❑ divulgação da pesquisa não poderá revelar dados pessoais
+ ❑ sempre que possível: a anonimização ou pseudonimização dos dados
+ ❑ não sendo permitida a transferência dos dados a terceiro, em circunstância
+   alguma (princ. da finalidade)
+
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+  TRATAMENTO DE DADOS DE
+CRIANÇAS E ADOLESCENTES (ART. 14)
+
+
+
+                                              Prof. Antonio Daud
+
+
+
+         https://t.me/KakashiAssinaturasBot
+                       Dados pessoais de crianças (art. 14)
+
+ ❑ Realizado no melhor interesse da criança!
+
+
+ ❑ Regra: tratamento exige consentimento específico e em destaque dado por
+   pelo menos um dos pais ou pelo responsável legal
+ ❑ Exceções (*):
+    a) informação necessária para contatar os pais ou o responsável legal, utilizados
+ uma única vez e sem armazenamento
+          b) para proteção da criança
+
+ (*) Dados não poderão ser repassados a terceiro sem o consentimento de um dos pais ou responsável legal
+
+LGPD
+Prof. Antonio Daud
+                                      https://t.me/KakashiAssinaturasBot
+                             Dados pessoais de crianças
+
+ ❑ Controlador: realizar todos os esforços razoáveis para verificar que tal
+   consentimento foi efetivamente dado pelo responsável pela criança (e não pela
+        própria criança ou terceiros)
+ ❑ Controlador: não deve condicionar a participação dos titulares destes dados em
+   jogos, aplicações de internet ou outras atividades ao fornecimento de
+   informações pessoais além das estritamente necessárias à atividade
+ ❑ Controlador: deve manter pública a informação sobre os tipos de dados
+   coletados, a forma de sua utilização e os procedimentos para o exercício dos
+   direitos pelo titular dos dados
+
+
+ ❑ Informações sobre o tratamento de dados de crianças e adolescentes deverão
+LGPD
+     ser fornecidas de maneira simples, clara e acessível
+Prof. Antonio Daud
+                                        https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  Os dados pessoais de crianças poderão ser coletados sem consentimento dos
+  pais ou do responsável legal quando for necessário para a proteção delas,
+  hipótese em que tais dados poderão, ainda, ser repassados a terceiros.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+TÉRMINO DO TRATAMENTO DOS
+   DADOS PESSOAIS (ARTS. 15-16)
+
+
+
+                                              Prof. Antonio Daud
+
+
+
+         https://t.me/KakashiAssinaturasBot
+                                              verificação de que a finalidade foi alcançada
+                                             verificação de que os dados deixaram de ser
+                                               necessários ou pertinentes ao alcance da
+                                                     finalidade específica almejada
+
+        término do tratamento                             fim do período de tratamento
+            dos dados (art. 15)
+                                          comunicação do titular, inclusive no exercício de
+                                            seu direito de revogação do consentimento,
+                                                  resguardado o interesse público
+
+                                            determinação da autoridade nacional, quando
+                                                      houver violação à LGPD
+LGPD
+Prof. Antonio Daud
+                                  https://t.me/KakashiAssinaturasBot
+                       Término do tratamento
+
+ ❑ Regra: dados pessoais serão eliminados após o término de seu tratamento, no
+   âmbito e nos limites técnicos das atividades
+ ❑ No entanto, pode ser autorizada a conservação dos dados pessoais (após o
+   término do tratamento) para as seguintes finalidades:
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  Os dados pessoais serão eliminados após o término de seu tratamento, sendo
+  autorizada a sua conservação para a finalidade de estudo por órgão de pesquisa,
+  bem como garantida, sempre que possível, a anonimização desses dados.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                              https://t.me/KakashiAssinaturasBot
+DIREITOS DO TITULAR DOS DADOS
+                  (ARTS. 17 A 22)
+
+
+
+
+                                             Prof. Antonio Daud
+
+
+
+        https://t.me/KakashiAssinaturasBot
+                          confirmação da existência de tratamento
+                                     acesso aos dados
+                                                      incompletos,
+       Direitos junto    correção de dados              inexatos ou
+      ao controlador
+                                                     desatualizados
+                                                     desnecessários
+                           anonimização,
+                             bloqueio ou              excessivos ou
+                        eliminação de dados            tratados em
+                                                DESconformidade com a
+                                                          LGPD
+
+LGPD
+Prof. Antonio Daud
+                                https://t.me/KakashiAssinaturasBot
+                      portabilidade dos dados a
+                                                                  mediante requisição expressa
+                          outro fornecedor
+                         eliminação dos dados
+                                                               exceto se LGPD permitir conservar
+                             tratados COM
+                                                                 dados após fim do tratamento
+     Direitos junto     consentimento do titular
+           ao
+      controlador     informação das entidades públicas e privadas com as quais
+                          o controlador realizou uso compartilhado de dados
+                                                                 a possibilidade de não fornecer
+                                                                        consentimento e
+                          informação sobre
+                                                                  as consequências da negativa
+                                 revogação do consentimento
+
+
+LGPD
+Prof. Antonio Daud
+                                  https://t.me/KakashiAssinaturasBot
+ Questão para fixação
+
+  Considere os seguintes itens:
+  I. Confirmação da existência de tratamento.
+  II. Anonimização de dados.
+  III. Portabilidade dos dados a outro fornecedor de serviço ou produto.
+  IV. Revogação do consentimento.
+  Conforme estabelece a Lei Geral de Proteção de Dados Pessoais (LGPD), Lei nº
+  13.709/2018, o titular dos dados pessoais tem direito a obter do controlador, em
+  relação aos dados do titular por ele tratados, a qualquer momento e mediante
+  requisição, o que consta em
+  A I, III e IV, apenas.
+  B II e IV, apenas.
+  C I, II, III e IV.
+  D I, II e III, apenas.
+  E Antonio
+LGPD
+Prof. I e IV,
+            Daud apenas.
+                              https://t.me/KakashiAssinaturasBot
+                     Forma de exercício destes direitos
+
+ ❑ mediante requerimento expresso do titular ou de representante legalmente
+   constituído, a agente de tratamento
+ ❑ Requerimento sem custos
+ ❑ Ao receber o requerimento, caso o controlador esteja impossibilitado de
+   atender de maneira imediata a solicitação do titular, deverá enviar ao titular
+   resposta em que poderá (art. 18, § 4º):
+         a) comunicar que não é agente de tratamento dos dados e indicar,
+ sempre que possível, o agente ou
+          b) indicar as razões de fato ou de direito que impedem a adoção imediata
+ da providência.
+
+LGPD
+Prof. Antonio Daud
+                              https://t.me/KakashiAssinaturasBot
+                     Descumprimento pelo controlador
+
+ ❑ Titular poderá peticionar contra o controlador perante a autoridade nacional ou
+   perante um organismo de defesa do consumidor
+
+
+ ❑ Em caso de descumprimento da LGPD, mesmo que a Lei dispense o
+   consentimento do titular, ele pode opor-se a tratamento realizado
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                              https://t.me/KakashiAssinaturasBot
+          Tratamento automatizado de dados pessoais (art. 20)
+
+ ❑ titular dos dados tem o direito a solicitar a revisão de decisões tomadas
+   unicamente com base em tratamento automatizado de dados pessoais que
+   afetem seus interesses
+ ❑ controlador deverá fornecer informações claras e adequadas, sempre que
+   solicitadas, a respeito dos critérios e dos procedimentos utilizados para a
+   decisão automatizada
+ ❑ Caso o controlador descumpra tal dever e deixe de oferecer informações sobre
+   a decisão automatizada, a autoridade nacional poderá realizar auditoria para
+   verificação de aspectos discriminatórios em tratamento automatizado de dados
+   pessoais
+
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+TRATAMENTO DE DADOS PESSOAIS
+PELO PODER PÚBLICO – CAPÍTULO IV
+
+
+                                             Prof. Antonio Daud
+
+
+
+        https://t.me/KakashiAssinaturasBot
+           Tratamento de dados pessoais pelo poder público
+ ❑ Regras aplicáveis a pessoas de direito público
+ ❑ Estatais? art. 24.
+
+
+
+
+ ❑ Cartórios (serviços notariais e de registro):
+          - mesmas regras para tratamento de dados do poder público
+LGPD      - fornecer acesso aos dados para a Administração, por meio eletrônico
+Prof. Antonio Daud
+                                  https://t.me/KakashiAssinaturasBot
+                     Formato de dados e uso compartilhado (art. 25)
+
+ ❑ Dados devem ser mantidos pelo poder público em formato interoperável e
+   estruturado
+ ❑ Para permitir o uso compartilhado, que tem como objetivos:
+               ❑ auxiliar na execução de políticas públicas
+               ❑ prestação de serviços públicos
+               ❑ descentralização da atividade pública
+               ❑ disseminação e acesso das informações pelo público em geral.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                    https://t.me/KakashiAssinaturasBot
+    Questão para fixação
+
+
+
+
+ Art. 25. Os dados deverão ser mantidos em formato interoperável e estruturado para o
+ uso compartilhado, com vistas à execução de políticas públicas, à prestação de serviços
+ públicos, à descentralização da atividade pública e à disseminação e ao acesso das
+ informações pelo público em geral.
+LGPD
+Prof. Antonio Daud
+                                 https://t.me/KakashiAssinaturasBot
+       Uso compartilhado de dados pelo poder público (art. 26)
+
+ ❑ Condições:
+               ❑ atenda a finalidades específicas de políticas públicas
+               ❑ esteja de acordo com a atribuição legal dos órgãos públicos
+               ❑ sejam respeitados os princípios da LGPD (art. 6º).
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                     https://t.me/KakashiAssinaturasBot
+     Compartilhamento de dados com entidades privadas
+
+ ❑ Regra geral: vedado
+ ❑ Exceções:
+ 1) Na execução descentralizada de atividade pública que exija a transferência,
+ exclusivamente para esse fim específico e determinado, observada Lei de Acesso à
+ Informação
+ 2) Quando os dados forem acessíveis publicamente
+ 3) Quando houver previsão legal ou a transferência for respaldada em contratos,
+ convênios ou instrumentos congêneres (comunicados à ANPD)
+ 4) Exclusivamente para prevenção de fraudes e irregularidades, para proteger e
+ resguardar a segurança e a integridade do titular dos dados (vedado o tratamento
+ para outras finalidades)
+LGPD
+Prof. Antonio Daud
+                             https://t.me/KakashiAssinaturasBot
+Comunicação e uso compartilhado de dados pessoais de
+pessoa de direito público a pessoa de direito privado (art. 27)
+
+ ❑ Regra: Informado à autoridade nacional (ANPD) e dependerá de consentimento
+   do titular
+ ❑ Exceções:
+  1) nas 4 exceções comentadas, em que é possível ao poder público transferir dados
+ pessoais a entidades privadas
+ 2) nas hipóteses em que a própria LGPD dispensa o consentimento
+ 3) nos casos de uso compartilhado de dados
+
+
+LGPD
+Prof. Antonio Daud
+                                https://t.me/KakashiAssinaturasBot
+Questão para fixação
+A Lei Geral de Proteção de Dados Pessoais (LGPD) dispõe sobre o tratamento de dados
+pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito
+público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de
+privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+De acordo com a Lei nº 13.709/2018, a comunicação ou o uso compartilhado de dados
+pessoais de pessoa jurídica de direito público a pessoa de direito privado será:
+A vedado, em qualquer hipótese, por se tratar de dados sensíveis, cuja proteção decorre da
+supremacia do interesse público;
+B permitido, em regra, diante do princípio da publicidade da administração pública, exceto
+nos casos expressamente previstos em lei;
+C vedado, em qualquer hipótese, por se tratar de dados sensíveis, cuja proteção decorre
+implicitamente de proteção à segurança nacional;
+D informado à autoridade nacional e dependerá de consentimento do titular, exceto nas
+hipóteses previstas na lei;
+E autorizado, em regra, diante dos princípios da publicidade e da transparência da
+administração pública, exceto se a entidade titular dos dados previamente impedir o
+LGPD
+compartilhamento,
+Prof. Antonio Daud mediante decisão fundamentada.
+                                  https://t.me/KakashiAssinaturasBot
+    Art. 27. A comunicação ou o uso compartilhado de dados pessoais de pessoa
+    jurídica de direito público a pessoa de direito privado será informado à
+    autoridade nacional e dependerá de consentimento do titular, exceto:
+    I - nas hipóteses de dispensa de consentimento previstas nesta Lei;
+    II - nos casos de uso compartilhado de dados, em que será dada publicidade
+    nos termos do inciso I do caput do art. 23 desta Lei; ou
+    III - nas exceções constantes do § 1º do art. 26 desta Lei [execução
+    descentralizada de atividade pública, dados acessíveis publicamente, previsão
+    legal ou contratual, e prevenção de fraudes].
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                 https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+TRANSFERÊNCIA INTERNACIONAL DE
+        DADOS – . 33 36            ARTS      A
+
+
+
+
+                                                 Prof. Antonio Daud
+
+
+
+        https://t.me/KakashiAssinaturasBot
+                     Transferência internacional de Dados
+
+
+    "transferência de dados pessoais para país estrangeiro ou organismo
+    internacional do qual o país seja membro" (art. 5º, XV).
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                               https://t.me/KakashiAssinaturasBot
+                                           para países ou organismos
+                                       internacionais que proporcionem
+                                        grau adequado de proteção de                          cláusulas contratuais específicas
+                                                dados pessoais                                para determinada transferência
+      transferência internacional -
+
+                                       controlador oferecer e comprovar                        cláusulas-padrão contratuais
+                                         garantias de cumprimento da
+                                                                                               normas corporativas globais
+                                        proteção da LGPD, na forma de:
+                                                                                              selos, certificados e códigos de
+               hipóteses
+
+
+
+
+                                                                                              conduta regularmente emitidos
+                                                                                                        inteligência
+                                       transferência for necessária para a                             investigação
+                                        cooperação jurídica internacional                               persecução
+                                            entre órgãos públicos de                           (de acordo com instrumentos de
+                                                                                                     direito internacional)
+                                       transferência for necessária para a
+                                                                                                         titular ou
+                                      proteção da vida ou da incolumidade
+                                                                                                        de terceiro
+                                                     física do
+                                         autoridade nacional autorizar a
+LGPD
+Prof. Antonio Daud                                transferência
+                                                         https://t.me/KakashiAssinaturasBot
+                                                         transferência resultar em compromisso
+                                                           assumido em acordo de cooperação
+
+               transferência internacional - hipóteses
+                                                                                                                  execução de política
+                                                                      internacional
+                                                                                                                      pública ou
+                                                            transferência for necessária para                   atribuição legal do serviço
+                                                                                                               público (com publicidade dada
+                                                                                                                    pelo poder público)
+                                                          titular dos dados tiver fornecido seu                   com informação prévia
+                                                              consentimento específico e em                           sobre o caráter
+                                                              destaque para a transferência,                    internacional da operação
+                                                                                                               cumprimento de obrig. legal/
+                                                                                                                regulatória pelo controlador
+
+                                                                                                               execução de contrato ou de
+                                                                                                               proc. preliminar de contrato
+                                                            quando necessário para atender                        em que titular é parte
+                                                                                                               exercício regular de dir. em
+                                                                                                               proc. judicial, administrativo
+LGPD
+Prof. Antonio Daud
+                                                                                                                        ou arbitral
+                                                                          https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  A transferência internacional de dados pessoais só é admitida na legislação pátria
+  quando a transferência for necessária para a proteção da vida ou da incolumidade
+  física do titular ou de terceiros.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                               https://t.me/KakashiAssinaturasBot
+                                   normas gerais e setoriais em vigor no país de destino ou
+                                                 no organismo internacional
+                                                              natureza dos dados
+                                      princípios gerais de proteção de dados pessoais e
+         transf. internacional -            direitos dos titulares previstos na LGPD
+         avaliação do nível de
+                                        adoção de medidas de segurança previstas em
+          proteção de dados
+                                                       regulamento
+                                    existência de garantias judiciais e institucionais para o
+                                     respeito aos direitos de proteção de dados pessoais
+
+                                      circunstâncias específicas relativas à transferência
+
+
+
+LGPD
+Prof. Antonio Daud
+                                     https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+AGENTES DE TRATAMENTO
+                 (ARTS. 37-45)
+
+
+
+
+                                         Prof. Antonio Daud
+
+
+
+    https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+                       Agentes de tratamento
+
+
+ ❑ Devem manter um registro das operações de tratamento de dados pessoais
+   que realizarem (princ. da prestação de contas)
+ ❑ Autoridade nacional poderá determinar ao controlador que elabore relatório de
+   impacto
+ ❑ Autoridade nacional poderá dispor sobre padrões de interoperabilidade, para
+   fins de portabilidade, e sobre tempo de guarda dos registros
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                             https://t.me/KakashiAssinaturasBot
+                     Encarregado pelo tratamento
+
+ ❑ Atua como um canal de comunicação
+ ❑ Identidade e as informações de contato do encarregado deverão ser divulgadas
+   publicamente (site do controlador)
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  Segundo a Lei Geral de Proteção de Dados Pessoais, a pessoa natural ou jurídica
+  a quem compete decisões referentes ao tratamento de dados pessoais é
+  denominada
+  A titular.
+  B autoridade.
+  C controlador.
+  D operador.
+  E encarregado.
+
+
+LGPD
+Prof. Antonio Daud
+                               https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  Segundo a referida lei, considera-se encarregado a pessoa natural ou jurídica, de
+  direito público ou privado, que realiza o tratamento de dados pessoais em nome
+  do controlador.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                               https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+                     Responsabilidade e ressarcimento de danos
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                                  https://t.me/KakashiAssinaturasBot
+SEGURANÇA E BOAS PRÁTICAS
+                   (ARTS. 46-51)
+
+
+
+
+                                           Prof. Antonio Daud
+
+
+
+      https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+  Questão para fixação
+
+  De acordo com a LGPD, qualquer entidade que intervenha em uma das fases do
+  tratamento de dados pessoais obriga-se a garantir a segurança da informação
+  desses dados, mesmo após o término do tratamento.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                             https://t.me/KakashiAssinaturasBot
+FISCALIZAÇÃO QUANTO AO
+ CUMPRIMENTO DA LGPD
+            (ART. 52 E SEGUINTES)
+
+
+
+
+                                         Prof. Antonio Daud
+
+
+
+    https://t.me/KakashiAssinaturasBot
+                                                                    com prazo para adoção de medidas
+                           advertência
+                                                                                corretivas
+
+
+                                                               de até 2% do faturamento da pessoa
+                                                               jurídica, grupo ou conglomerado no
+                                                                   Brasil, no seu último exercício
+     Sanções (1/2)
+
+
+
+
+                          multa simples
+                                                                          (excluídos os tributos)
+
+                                                                  limitada, no total, a R$ 50 milhões
+                                                                             por infração
+                                                                  observado o limite total da multa
+                           multa diária
+                                                                              simples
+                                                                      após apurada e confirmada a
+                     publicização da infração
+                                                                              ocorrência
+LGPD
+Prof. Antonio Daud
+                                     https://t.me/KakashiAssinaturasBot
+                          bloqueio dos dados pessoais
+                                                                                 até sua regularização
+                            a que se refere a infração
+                             eliminação dos dados
+                           pessoais a que se refere a
+                                    infração
+
+                             suspensão parcial do                     pelo período máximo de 6 meses,
+          Sanções (2/2)
+
+
+
+
+                          funcionamento do banco de                     prorrogável por igual período
+                            dados a que se refere a                     até a regularização da atividade
+                                   infração                             de tratamento pelo controlador
+                          suspensão do tratamento dos
+                                                                      pelo período máximo de 6 meses,
+                             dados a que se refere a
+                                                                        prorrogável por igual período
+                                    infração
+                            proibição do exercício de
+                            atividades relacionadas a
+LGPD
+                                                                                   total ou parcial
+Prof. Antonio Daud
+                              tratamento de https://t.me/KakashiAssinaturasBot
+                                              dados
+  Questão para fixação
+  De acordo com a LGPD (Lei Federal nº 13.709/2018), os agentes de tratamento de dados,
+  em razão das infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguintes
+  sanções administrativas aplicáveis pela autoridade nacional:
+  • Advertência.
+  • Multa simples.
+  • Multa diária.
+  • Publicização da infração.
+  • Bloqueio dos dados pessoais.
+  Com relação às sanções administrativas previstas pela LGPD, qual o valor máximo a ser
+  aplicado para uma multa simples?
+  A R$ 30.000,00.
+  B R$ 70.000,00.
+  C R$ 10.000.000,00.
+  D R$ 50.000.000,00.
+  E A Lei não estabelece valor máximo para multas simples.
+LGPD
+Prof. Antonio Daud
+                                  https://t.me/KakashiAssinaturasBot
+                 Sanções - entes da Administração Pública
+                 • advertência
+                 • publicização da infração
+                 • bloqueio dos dados pessoais a que se refere a infração
+                 • eliminação dos dados pessoais a que se refere a infração
+                 • suspensão parcial do funcionamento do banco de dados a que se
+                   refere a infração
+                 • suspensão do tratamento dos dados a que se refere a infração
+                 • proibição do exercício de atividades relacionadas a tratamento
+                   de dados total ou parcial
+
+
+LGPD
+Prof. Antonio Daud
+                                      https://t.me/KakashiAssinaturasBot
+                     Detalhando algumas das sanções
+
+
+ ❑ Multa simples: quando a autoridade nacional não souber do valor do
+   faturamento no ramo de atividade empresarial em que ocorreu a infração, ou
+   quando o valor for apresentado de forma incompleta ou não for demonstrado
+   de forma inequívoca e idônea, a autoridade poderá considerar o faturamento
+   total da empresa ou grupo de empresas
+ ❑ Multa diária: aplicação deve observar a gravidade da falta e a extensão do
+   dano ou prejuízo causado e ser fundamentado pela autoridade nacional
+ ❑ Ambas as multas: a arrecadação destinada ao Fundo de Defesa de Direitos
+   Difusos - FDD, inscritas ou não em dívida ativa
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+                     Detalhando algumas das sanções
+
+
+ ❑ Suspensão parcial do banco de dados, suspensão do tratamento de dados e
+   proibição de tratamento são somente poderão ser aplicadas:
+     I - após já ter sido imposta ao menos uma das seguintes sanções para o
+ mesmo caso concreto: multa (simples ou diária), publicização da infração, bloqueio
+ ou eliminação dos dados pessoais;
+    II - em caso de controladores submetidos a outros órgãos e entidades com
+ competências sancionatórias, ouvidos esses órgãos.
+
+
+
+LGPD
+Prof. Antonio Daud
+                              https://t.me/KakashiAssinaturasBot
+                       Outros aspectos relevantes
+
+
+❑ Se a infração disser respeito apenas a vazamentos individuais ou a acessos não
+  autorizados a dados pessoais ela poderá ser objeto de conciliação direta entre
+  controlador e titular e, caso não haja acordo, aí sim o controlador estará sujeito
+  às sanções comentadas acima
+
+
+❑ Metodologia de cálculo das multas: definida pela ANPD (após consulta pública)
+
+
+  ❑ Aplicação das sanções da LGPD não substitui a aplicação de sanções
+         administrativas, civis ou penais definidas na Lei nº 8.078, de 11 de setembro de
+LGPD
+         1990 [CDC], e em legislação específica.
+Prof. Antonio Daud
+                                https://t.me/KakashiAssinaturasBot
+   Art. 52, § 1º As sanções serão aplicadas após procedimento administrativo que possibilite a
+   oportunidade da ampla defesa, de forma gradativa, isolada ou cumulativa, de acordo com as
+   peculiaridades do caso concreto e considerados os seguintes parâmetros e critérios:
+   I - a gravidade e a natureza das infrações e dos direitos pessoais afetados;
+   II - a boa-fé do infrator;
+   III - a vantagem auferida ou pretendida pelo infrator;
+   IV - a condição econômica do infrator;
+   V - a reincidência;
+   VI - o grau do dano;
+   VII - a cooperação do infrator;
+   VIII - a adoção reiterada e demonstrada de mecanismos e procedimentos internos
+   capazes de minimizar o dano, voltados ao tratamento seguro e adequado de dados, em
+   consonância com o disposto no inciso II do § 2º do art. 48 desta Lei;
+   IX - a adoção de política de boas práticas e governança;
+   X - a pronta adoção de medidas corretivas; e
+   XI - a proporcionalidade entre a gravidade da falta e a intensidade da sanção.
+LGPD
+Prof. Antonio Daud
+                                     https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+ AUTORIDADE NACIONAL DE
+PROTEÇÃO DE DADOS (ANPD)
+        - ART. 55 E SEGUINTES
+
+                                            Prof. Antonio Daud
+
+
+
+       https://t.me/KakashiAssinaturasBot
+      AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS
+                                         (art. 55-A)
+
+
+
+
+                                                                   de natureza
+                                          autarquia
+                                                                    especial
+
+                                         autonomia técnica e decisória
+                     ANPD
+                                                  patrimônio próprio
+
+
+                                        sede e foro no Distrito Federal
+
+LGPD
+Prof. Antonio Daud
+                            https://t.me/KakashiAssinaturasBot
+                      Composição da ANPD (art. 55)
+
+
+                                             Conselho
+                                              Diretor
+
+
+                      Cons. Nacional de
+                     Proteção de dados e
+                         Privacidade
+
+
+                                                                        unidades          unidades
+     Corregedoria    Ouvidoria            Procuradoria
+                                                                      administrativas   especializadas
+
+
+
+LGPD
+Prof. Antonio Daud
+                                 https://t.me/KakashiAssinaturasBot
+                          Conselho Diretor da ANPD (arts. 55-D a 55-F)
+
+                                    órgão máximo de direção da ANPD
+
+                                                                escolhidos pelo Presidente da
+                                                                          República
+
+                                    5 diretores                    Após sabatina do Senado
+                     Conselho
+                     Diretor da                                cargo em comissão no mínimo
+                       ANPD                                            DAS nível 5
+
+                                       Mandato = 4 anos                             renúncia
+
+                                      Possuem estabilidade                        conden. Jud.
+                                       durante o mandato,                     transitada em julgado
+                                    perdendo o cargo apenas
+LGPD                                                                          demissão decorrente
+Prof. Antonio Daud
+                                      https://t.me/KakashiAssinaturasBot            de PAD
+  Questão para fixação
+
+  A Autoridade Nacional de Proteção de Dados (ANPD)
+  A é entidade da administração pública federal com natureza jurídica de empresa
+  pública.
+  B é órgão com autonomia técnica, mas sem poder decisório.
+  C prevê mandato dos membros do seu Conselho Diretor por, no máximo, dois
+  anos.
+  D é composta de corregedoria e ouvidoria.
+
+
+
+
+LGPD
+Prof. Antonio Daud
+                              https://t.me/KakashiAssinaturasBot
+           Demais aspectos da estrutura da ANPD (arts. 55-G a 55-I)
+                                                                       remanejados de outros
+                                                                        órgãos e entidades do
+                                                                       Poder Executivo federal
+
+                           cargos em comissão e as funções             indicados pelo Conselho
+                                de confiança da ANPD                           Diretor
+
+                                                                       nomeados/designados
+                                                                       pelo Diretor-Presidente
+                             Ato do Presidente da República
+                 Outros    disporá sobre a estrutura regimental
+                aspectos
+                            (antes disso: apoio da Casa Civil)
+
+
+
+                           regimento interno, criado por seu
+LGPD
+                                  Conselho Diretor
+Prof. Antonio Daud
+                                  https://t.me/KakashiAssinaturasBot
+                           Competência da ANPD (art. 55-J)
+
+          I - zelar pela proteção dos dados pessoais, nos termos da legislação;
+          III - elaborar diretrizes para a Política Nacional de Proteção de Dados Pessoais e da
+          Privacidade;
+          XVI - realizar auditorias, ou determinar sua realização, no âmbito da atividade de
+          fiscalização de que trata o inciso IV e com a devida observância do disposto no
+          inciso II do caput deste artigo, sobre o tratamento de dados pessoais efetuado
+          pelos agentes de tratamento, incluído o poder público;
+          XX - deliberar, na esfera administrativa, em caráter terminativo, sobre a
+          interpretação desta Lei, as suas competências e os casos omissos;
+
+
+
+LGPD
+Prof. Antonio Daud
+                                      https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+   CONSELHO NACIONAL DE
+PROTEÇÃO DE DADOS PESSOAIS
+  E DA PRIVACIDADE (CNPD) –
+                  ART. 58-A E 58-B
+
+
+
+
+                                             Prof. Antonio Daud
+
+
+
+        https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+                 Cons. Diretor da ANPD                                                 CNPD
+
+
+                        5 diretores                                              23 representantes
+
+                                                                                mandato de 2 anos p/
+                     mandato de 4 anos                                           representantes não
+               (não há previsão de recondução)                                     governamentais
+                                                                                     (1 recondução)
+
+
+                                                                           indicados por órgãos da Admin.
+           membros escolhidos pelo Presid.                                Púb. ou na forma de regulamento
+            Repúb. + sabatina do Senado                                   e designados pelo Pres. República
+
+LGPD
+Prof. Antonio Daud
+                                           https://t.me/KakashiAssinaturasBot
+                     OBRIGADO
+
+
+LGPD
+Prof. Antonio Daud
+                          https://t.me/KakashiAssinaturasBot
+LGPD
+Prof. Antonio Daud
+                     https://t.me/KakashiAssinaturasBot
+

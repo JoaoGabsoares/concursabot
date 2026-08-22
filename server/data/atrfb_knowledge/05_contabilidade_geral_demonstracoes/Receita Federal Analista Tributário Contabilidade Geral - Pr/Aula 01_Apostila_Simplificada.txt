@@ -1,0 +1,767 @@
+                                                    Aula 00
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                       Possati
+
+
+
+                                                        Autor:
+                                               Gilmar Possati
+
+
+
+
+                                            21 de Março de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+   Gilmar Possati
+   Aula 00
+
+
+
+
+     CONTABILIDADE: ASPECTOS INTRODUTÓRIOS.
+Sumário
+
+1 – Contabilidade: Aspectos Introdutórios ....................................................................................... 5
+
+   1.1. Conceito ................................................................................................................................. 5
+
+   1.2. Objeto .................................................................................................................................... 6
+
+   1.3. Campo de Aplicação .............................................................................................................. 6
+
+   1.4. Finalidade ............................................................................................................................... 7
+
+   1.5. Funções .................................................................................................................................. 7
+
+      1.5.1. Função Administrativa ...................................................................................................... 7
+
+      1.5.2. Função Econômica ........................................................................................................... 8
+
+   1.6. Técnicas Contábeis ................................................................................................................. 9
+
+   1.7. Usuários da Informação Contábil ......................................................................................... 10
+
+2 – Questões Comentadas .............................................................................................................. 12
+
+3 – Lista das Questões Comentadas ............................................................................................... 15
+
+4 – Gabarito .................................................................................................................................... 16
+
+
+
+
+                                                                                                                                                1
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                                     16
+           www.estrategiaconcursos.com.br
+
+                                               https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+                     APRESENTAÇÃO E ORIENTAÇÕES
+Prezados, por se tratar da nossa primeira aula simplificada, cabe tecer aqui algumas considerações.
+O objetivo dessa simplificação é procurar abordar os pontos essenciais, ou seja, aqueles mais
+importantes que constam na aula completa.
+Com o estudo pelo pdf simplificado você terá condições de acertar a maioria das questões e, até
+mesmo, a totalidade das questões, desde que a banca siga um perfil mais tradicional de exigência
+dos pontos mais cobrados.
+De qualquer forma, seria muita presunção nossa firmar convicção de que o estudo apenas pelo
+simplificado basta... depende muito do seu histórico, caso já tenha uma boa noção ou nunca tenha
+visto a disciplina, entre outras variáveis.
+Caso surja dúvidas, solicitamos que antes de procurar apoio no fórum consulte o pdf completo e
+as videoaulas, pois você encontrará, como regra, uma maior contextualização.
+Além disso, de modo a tornar o fórum o mais efetivo possível e melhorar o atendimento, solicito
+a observação das seguintes orientações.
+                                Orientações relativas ao fórum de dúvidas
+Considerando a alta demanda de dúvidas diariamente recebidas, nossa equipe está orientada a
+seguir algumas diretrizes de priorização, a fim de que aquelas dúvidas relacionadas a aspectos do
+curso sejam priorizadas em detrimento a dúvidas surgidas fora do contexto do nosso curso, as
+quais poderão não ser respondidas.
+Com o aumento do uso de Sistemas de Questões e de questões inéditas elaboradas para os
+simulados, temos recebido muitas dúvidas em que o(a) aluno(a) solicita a resolução da questão, o
+motivo de tal erro, tal acerto, tal entendimento... assim, o fórum de Contabilidade (que já possui
+uma complexidade maior, pois a disciplina possui uma maior dificuldade, especialmente em um
+primeiro momento de estudo) acaba tornando-se inviável e dúvidas que deveriam ter uma pronta
+resposta ficam “sufocadas” em meio a esse cenário. Assim, vamos combinar as seguintes regras
+de conduta:
+   a. Evitar dúvidas sobre questões que não estão abordadas no pdf ou no vídeo.
+
+       Nosso arquivo em pdf, especialmente a versão completa, já possui questões selecionadas
+       especialmente para a sua preparação. As questões que estão no curso possuem um padrão
+       de qualidade validada pelo professor, de modo a permitir uma experiência adequada para
+       a fixação do conhecimento teórico. Procuramos comentar, como regra, item a item no
+       detalhe evitando-se dúvidas no processo de leitura e, caso surjam dúvidas dessas questões,
+       o fórum servirá para elucidá-las. Essa é uma das funções do fórum de dúvidas... permitir
+       que o aluno tire suas dúvidas dessas questões selecionadas.
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati        2
+        www.estrategiaconcursos.com.br                                                         16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+       Existem muitas questões que o gabarito definitivo da questão não condiz com o padrão
+       adequado com base no entendimento previsto em norma, legislação ou doutrina. Logo,
+       use o espaço de discussão do próprio Sistema de Questões para debater sobre. Como
+       regra, essas questões problemáticas apresentam problemas aparentes e já possuem farta
+       discussão no Sistema de Questão. A minha dica para essas questões é simplesmente ignorá-
+       las, pois elas apenas geram ansiedade e diminuição da confiança, pois o(a) aluno(a) acha
+       que pode ser cobrado um conhecimento similar novamente, quando observamos que isso
+       dificilmente acontece. Logo, se preocupar com essas questões é perda de tempo. Eventuais
+       divergências de entendimentos que sejam significativas serão tratadas no curso.
+
+
+   b. Não enviar dúvidas sobre Trilhas Estratégicas, Marcações de Aprovados, Link de
+      cadernos do Sistema de Questões (e respectivas questões), entre outros materiais de
+      apoio.
+Todos esses produtos/serviços não são de responsabilidade do professor, logo solicitar ajuda via
+fórum de dúvidas é uma perda de tempo tanto para você como para nossa equipe que precisa
+responder direcionando para outro tipo de atendimento.
+Solução a problemas relacionados a esses produtos/serviços precisam ser solicitados junto aos
+respectivos responsáveis pela elaboração. Caso não saiba o caminho, envie um e-mail para
+contato@estrategiaconcursos.com.br. Por padrão, em até 48 horas, sua mensagem será
+respondida e a equipe de atendimento possui as orientações necessárias para resolver o
+problema.
+
+
+   c. Indicar de modo preciso qual a página da aula e o número da questão. Caso a dúvida
+      refira-se a alguma questão que conste no vídeo, mas não conste no pdf, solicitamos que
+      coloque a sua descrição ou o print do slide via ferramenta disponibilizada para anexar
+      imagens na área do fórum.
+
+
+   d. Dúvidas relativas a questões de simulados serão respondidas caso sejam referentes ao
+      curso (muitos alunos resolvem questões de simulados sobre tópicos que não estão no seu
+      edital... tome cuidado com isso!) e somente serão respondidas caso o simulado tenha
+      sido elaborado pelo professor.
+Para saber quem foi o professor responsável, basta olhar a indicação, logo após o nome da
+disciplina, conforme destacado na figura abaixo:
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati     3
+        www.estrategiaconcursos.com.br                                                      16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+Essa questão, utilizada aqui como exemplo, foi inserida no âmbito de um dos simulados para o
+TCE-RJ. Logo, a dúvida será respondida dentro do curso focado no TCE-RJ, para o respectivo
+cargo. Caso seja inserida dentro de outro curso regra geral não será respondida, considerando as
+demais prioridades.
+
+
+   e. Dúvidas relativas a qual curso seguir...
+Como é de conhecimento geral, a disciplina de Contabilidade possui uma complexidade maior
+para o seu entendimento. Buscando atender da melhor maneira possível a sua necessidade, nos
+concursos com maior expressão, a direção pedagógica tem adotado a estratégia de disponibilizar
+duas metodologias de abordagem, cada qual com as suas especificidades, mas ambas coerentes
+com a ementa do edital.
+Logo, apesar de possivelmente o planejamento ser diferente (número de aulas, ordem de
+abordagem, etc) você pode optar pela metodologia que melhor lhe agradar, de acordo com o
+seu perfil. Procure ler uma ou mais aulas e assistir algumas videoaulas para tomar essa decisão.
+Você pode usar também um curso como principal e outro como meio de reforçar algum ponto.
+
+
+   f. Avisos sobre dificuldades técnicas...
+Alguns alunos enfrentam dificuldades técnicas às vezes para impressão de arquivo, de acesso a
+um vídeo, instabilidade no sistema, enfim... erros técnicos que às vezes acabam surgindo. Essas
+instabilidades técnicas o professor não consegue resolver. Logo, os problemas devem ser
+relatados via atendimento do site e não fórum de dúvidas. Nesses casos, orientamos você
+encaminhar a demanda para o contato@estrategiaconcursos.com.br.
+                                                           ...
+Contamos com a sua compreensão, pois assim esperamos ampliar a qualidade do atendimento
+via fórum de dúvidas... estaremos acompanhando diariamente as dúvidas e assim que possível
+responderemos.
+Bons estudos!
+Prof. Possati
+@profgilmarpossati
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati     4
+        www.estrategiaconcursos.com.br                                                      16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+            1 – CONTABILIDADE: ASPECTOS INTRODUTÓRIOS
+
+1.1. Conceito
+
+Preliminarmente, devemos saber o seguinte conceito, considerado como o oficial, extraído do 1º
+Congresso Brasileiro de Contabilidade em 1924:
+
+
+     “Contabilidade é a ciência que estuda e pratica as funções de orientação, de controle
+     e de registro dos atos e fatos de uma administração econômica”.
+
+
+Entendendo o conceito...
+
+Contabilidade é CIÊNCIA: ao contrário do que muitos pensam, a Contabilidade não é uma ciência
+exata. Segundo a doutrina, trata-se de uma ciência social, haja vista que tem como foco o
+patrimônio que envolve um conjunto de pessoas dentro da sociedade, com implicações internas
+e externas, pois variações nesse patrimônio afetam de alguma forma o meio ao qual está inserido.
+
+Contabilidade estuda e pratica: como ciência, a Contabilidade além de estudar os fenômenos
+econômicos que afetam o patrimônio das entidades praticas, ou seja, executa determinadas
+funções que ao longo do nosso curso estudaremos com mais detalhes.
+
+Contabilidade orienta, controla e registra os atos e fatos: A fim de atingir a sua finalidade básica,
+qual seja, a de fornecer informações sobre a situação financeira e patrimonial da entidade, a
+Contabilidade utiliza-se de técnicas que permitem orientar, controlar e registrar os atos e fatos
+contábeis da entidade.
+
+Outro conceito interessante destacado pela doutrina é o seguinte:
+
+“Contabilidade é, objetivamente, um sistema de informação e avaliação destinado a prover seus
+usuários com demonstrações e análises de natureza econômica, financeira, física e de
+produtividade, com relação à entidade objeto de contabilização”.
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati          5
+        www.estrategiaconcursos.com.br                                                           16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+1.2. Objeto
+
+O objeto da contabilidade é o PATRIMÔNIO. Beleza... mas, o que a Contabilidade entende por
+patrimônio? Patrimônio é conjunto de bens, direitos e obrigações de uma determinada entidade.
+
+                                                       Descrição
+                       São itens avaliados em moeda capazes de satisfazer às necessidades das
+        Bens           entidades, sejam pessoas físicas ou jurídicas.
+                       Exemplo: Veículos utilizados nas atividades da empresa
+                       São os valores a receber de terceiros, gerados por meio de operações da
+       Direitos        entidade.
+                       Exemplo: Duplicatas a receber geradas pela venda de mercadorias a prazo.
+                       Representam as dívidas que a entidade contrata junto a terceiros.
+                                                         ==219a34==
+
+
+
+
+    Obrigações         Exemplo: Valores a pagar gerados pela obtenção de empréstimo junto a
+                       um banco.
+
+Assim, por meio da Contabilidade, podemos ter controle sobre o patrimônio da entidade: saber
+o quantitativo de mercadorias no estoque da empresa, a quantidade de veículos disponíveis, as
+despesas administrativas incorridas pela empresa, tais como salários, aluguéis, etc.
+
+(AFRE-SC) O objeto da contabilidade é:
+a) o patrimônio das entidades.
+b) a apuração do resultado das entidades.
+c) o planejamento contábil das entidades.
+d) o controle e o planejamento das entidades.
+e) o fornecimento de informações a seus usuários de modo geral.
+Comentários
+O objeto da Contabilidade é o Patrimônio, conjunto de bens, direitos e obrigações de uma
+determinada entidade.
+Gabarito: A
+
+
+1.3. Campo de Aplicação
+
+O campo de aplicação são as aziendas. Mas, afinal o que são aziendas?
+
+A azienda surge quando temos um patrimônio gerido de maneira organizada.
+
+                                  AZIENDAS = GESTÃO + PATRIMÔNIO
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati          6
+        www.estrategiaconcursos.com.br                                                            16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+               Campo de                                                                     Gestão +
+                                                      Aziendas
+               Aplicação                                                                   Patrimônio
+
+
+
+
+Assim, a Contabilidade se aplica tanto em entidades que possuam fins lucrativos, como também
+naquelas em que não há fins lucrativos. A doutrina também se refere como campo de aplicação
+da Contabilidade as entidades econômico-administrativas.
+
+
+
+                                               AZIENDAS
+
+        Aplicação                   Entidades com fins lucrativos                          Ex: Empresas comerciais
+           da
+      Contabilidade
+                                    Entidades sem fins lucrativos                          Ex: Associação, Municípios
+
+
+
+
+1.4. Finalidade
+
+Basicamente a Contabilidade possui a finalidade de controlar o patrimônio administrado e
+fornecer informações sobre a composição e as variações patrimoniais, bem como sobre o
+resultado das atividades econômicas desenvolvidas pela entidade para alcançar seus fins. Assim,
+a Contabilidade por meio do controle do patrimônio fornece informações úteis para a tomada de
+decisão.
+
+
+1.5. Funções
+
+Segundo a doutrina, a Contabilidade possui duas funções, quais sejam: a função administrativa e
+a função econômica. Vejamos objetivamente cada uma delas.
+
+1.5.1. Função Administrativa
+
+A contabilidade tem por função administrativa o controle do patrimônio da entidade mediante
+registro dos fatos contábeis em livros apropriados. Os principais livros são o Diário e o Razão.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                          7
+        www.estrategiaconcursos.com.br                                                                           16
+                                     https://t.me/KakashiAssinaturasBot
+   Gilmar Possati
+   Aula 00
+
+
+
+
+1.5.2. Função Econômica
+
+A contabilidade tem por função econômica a apuração do resultado líquido (rédito), o qual
+pode ser positivo (lucro líquido) ou negativo (prejuízo líquido).
+
+(EPE) Sobre conceitos, objeto, função e objetivos da Contabilidade, analise as afirmações a
+seguir.
+I - O principal objetivo da contabilidade consiste em identificar as contas de apuração dos custos
+e resultados.
+II - A função administrativa tem por objetivo o controle do patrimônio.
+III - O objeto da contabilidade é o patrimônio que compreende apenas a parte positiva do balanço.
+IV - Os bens corpóreos e os incorpóreos são classificados no passivo.
+Está correto APENAS o que se afirma em
+a. II.
+b. III.
+c. I e III.
+d. II e IV.
+e. I, III e IV.
+Comentários
+Vamos analisar os itens individualmente.
+Item I – Errado. Como vimos, o principal objetivo da Contabilidade é fornecer informações úteis
+para a tomada de decisões.
+Item II – Certo. De fato, temos que a função administrativa da Contabilidade está ligada ao
+controle do patrimônio.
+Item III – Errado. O patrimônio da entidade é o conjunto de bens, direitos e obrigações, ou seja,
+compreende tanto a parte positiva como também a negativa.
+Item IV – Errado. Os bens fazem parte do ativo da empresa. Trata-se da parte positiva do balanço.
+Sendo assim, está correto apenas o item II.
+Gabarito: A
+(ISS-RJ) Assinale abaixo a única opção que contém uma afirmativa falsa.
+a) A finalidade da Contabilidade é assegurar o controle do patrimônio administrado e fornecer
+informações sobre a composição e as variações patrimoniais, bem como sobre o resultado das
+atividades econômicas desenvolvidas pela entidade para alcançar seus fins.
+
+
+
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati     8
+          www.estrategiaconcursos.com.br                                                      16
+                                       https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+b) A Contabilidade pode ser conceituada como sendo “a ciência que estuda, registra, controla e
+interpreta os fatos ocorridos no patrimônio das entidades com fins lucrativos ou não”.
+c) Pode-se dizer que o campo de aplicação da Contabilidade é a entidade econômico-
+administrativa, seja ou não de fins lucrativos.
+d) O objeto da Contabilidade é definido como o conjunto de bens, direitos e obrigações vinculado
+a uma entidade econômico-administrativa.
+e) Enquanto a entidade econômico-administrativa é o objeto da Contabilidade, o patrimônio é o
+seu campo de aplicação.
+Comentários
+Vamos analisar as assertivas.
+a. Certa. O item refere-se corretamente à finalidade da contabilidade: controlar o patrimônio
+administrado e fornecer informações úteis para a tomada de decisão.
+b. Certa. Perfeito o conceito. Observe que o item confirma o fato de que a Contabilidade é
+aplicada em entidades com ou sem fins lucrativos.
+c. Certa. O item refere-se corretamente ao campo de aplicação da Contabilidade, qual seja: as
+entidades econômico-administrativas. Destaca-se que se o item colocasse aziendas estaria
+igualmente correto, pois as expressões acabam sendo sinônimas.
+d. Certa. O item refere-se corretamente ao objeto da Contabilidade, o patrimônio, conjunto de
+bens, direitos e obrigações vinculado a uma entidade econômico-administrativa.
+e. Errada. É o nosso gabarito. Observe que o item inverte os conceitos. A entidade econômico-
+administrativa que é o campo de aplicação. O patrimônio, por sua vez, é o objeto da
+Contabilidade.
+Gabarito: E
+
+
+1.6. Técnicas Contábeis
+
+Segundo a doutrina, as técnicas contábeis são o conjunto de procedimentos utilizados pela
+contabilidade para registrar ou levantar os fatos contábeis. Nesse sentido, as técnicas são as
+seguintes:
+
+   §   Escrituração: essa técnica é utilizada para registro dos fatos contábeis;
+   §   Demonstrações Contábeis: técnica que possui, basicamente, o objetivo de evidenciar os
+       fatos contábeis escriturados;
+   §   Análise das Demonstrações Contábeis: possui o objetivo de extrair informações sobre a
+       situação financeira, econômica e patrimonial da entidade, a fim de subsidiar o processo de
+       tomada de decisões.
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati      9
+        www.estrategiaconcursos.com.br                                                       16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+   §   Auditoria: possui o objetivo de examinar a escrituração e evidenciação das informações
+       financeiras verificando se essas informações foram elaboradas de acordo com as normas
+       vigentes e os princípios contábeis.
+
+(ISS-Florianópolis) Assinale a alternativa que apresenta as técnicas aplicadas em ciências
+contábeis.
+a) Receitas, Despesas, Ativo e Passivo
+b) Ativo + Passivo = Patrimônio Líquido
+c) As contas do ativo (bens e direitos) são, em regra, de natureza devedora
+d) Os fatos mistos representam a junção dos fatos permutativos e modificativos
+e) Escrituração, análises, demonstrações contábeis e auditoria
+Comentários
+As técnicas aplicadas pela Contabilidade são as seguintes: a) Escrituração (Registro dos fatos
+contábeis); b) Demonstrações Contábeis (evidenciação dos fatos contábeis escriturados); c)
+Análise das Demonstrações (extração de informações sobre a situação financeira, econômica e
+patrimonial da entidade, a fim de subsidiar o processo de tomada de decisões); e d) Auditoria
+(exame da escrituração e evidenciação das informações).
+Gabarito: E
+
+
+1.7. Usuários da Informação Contábil
+
+A doutrina costuma classificar os usuários da informação contábil em dois grandes grupos:
+internos e externos.
+Os usuários internos estão ligados aos objetivos e às atividades da entidade. Como a própria
+classificação indica, são internos à entidade. Eles influenciam na gestão administrativa da entidade
+(funções de planejamento, aspectos gerenciais, como políticas de preços, gestão de pessoal, etc).
+Basicamente, são os administradores e acionistas/sócios controladores.
+Os usuários externos, por sua vez, não compõem como regra a estrutura da entidade. Estão
+interessados em diversas informações, de acordo com o seu objetivo. Basicamente, englobam os
+acionistas/sócios não controladores (investidores), bancos, fornecedores, governo, entre outros.
+
+Entre os usuários das demonstrações contábeis incluem-se investidores atuais e potenciais,
+empregados, credores por empréstimos, fornecedores e outros credores comerciais, clientes,
+governos e suas agências e o público. Eles usam as demonstrações contábeis para satisfazer
+algumas das suas diversas necessidades de informação. Essas necessidades incluem:
+
+a) Investidores: Os provedores de capital de risco e seus analistas que se preocupam com o risco
+inerente ao investimento e o retorno que ele produz. Eles necessitam de informações para ajudá-
+los a decidir se devem comprar, manter ou vender investimentos. Os acionistas também estão
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati        10
+        www.estrategiaconcursos.com.br                                                          16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+interessados em informações que os habilitem a avaliar se a entidade tem capacidade de pagar
+dividendos.
+
+b) Empregados: Os empregados e seus representantes estão interessados em informações sobre
+a estabilidade e a lucratividade de seus empregadores. Também se interessam por informações
+que lhes permitam avaliar a capacidade que tem a entidade de prover sua remuneração, seus
+benefícios de aposentadoria e suas oportunidades de emprego.
+
+c) Credores por empréstimos: Estes estão interessados em informações que lhes permitam
+determinar a capacidade da entidade em pagar seus empréstimos e os correspondentes juros no
+vencimento.
+
+d) Fornecedores e outros credores comerciais: Os fornecedores e outros credores estão
+interessados em informações que lhes permitam avaliar se as importâncias que lhes são devidas
+serão pagas nos respectivos vencimentos. Os credores comerciais provavelmente estarão
+interessados em uma entidade por um período menor do que os credores por empréstimos, a não
+ser que dependam da continuidade da entidade como um cliente importante.
+
+e) Clientes: Os clientes têm interesse em informações sobre a continuidade operacional da
+entidade, especialmente quando têm um relacionamento a longo-prazo com ela, ou dela
+dependem como fornecedor importante.
+
+f) Governo e suas agências: Os governos e suas agências estão interessados na destinação de
+recursos e, portanto, nas atividades das entidades. Necessitam também de informações a fim de
+regulamentar as atividades das entidades, estabelecer políticas fiscais e servir de base para
+determinar a renda nacional e estatísticas semelhantes.
+
+g) Público: As entidades afetam o público de diversas maneiras. Elas podem, por exemplo, fazer
+contribuição substancial à economia local de vários modos, inclusive empregando pessoas e
+utilizando fornecedores locais. As demonstrações contábeis podem ajudar o público fornecendo
+informações sobre a evolução do desempenho da entidade e os desenvolvimentos recentes.
+
+(TJ-ES) Diversos são os tipos de usuários interessados nas informações contidas nas
+demonstrações contábeis das entidades. Um desses grupos é constituído pelos clientes, cujo
+interesse é tanto maior quanto maior forem a sua dependência e a concentração nos
+fornecimentos de algumas poucas entidades.
+Comentários
+Os clientes têm interesse em informações sobre a continuidade operacional da entidade,
+especialmente quando têm um relacionamento a longo-prazo com ela, ou dela dependem como
+fornecedor importante.
+Gabarito: Certo
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati   11
+        www.estrategiaconcursos.com.br                                                     16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+                              2 – QUESTÕES COMENTADAS
+1. (CESPE/PC MA/2018) De acordo com Max Weber, a moderna organização racional da empresa
+capitalista foi viabilizada pela contabilidade racional. Esse pensamento foi corroborado, na ciência
+contábil, por Vicenzo Masi, que identificou como objeto da contabilidade o patrimônio.
+Comentários
+Falou em objeto da Contabilidade você já raciocina com o patrimônio. Nessa questão o CESPE
+dá uma “floreada” nos trazendo alguns pontos históricos, mas no fim pergunta qual o objeto da
+Contabilidade. Questão bem tranquila que jamais pode ser errada em uma prova.
+Gabarito: Certo
+
+2. (CESPE/EBSERH/2018) O principal objetivo da contabilidade é fornecer informações úteis
+sobre o patrimônio da entidade para finalidades diversas, entre as quais, planejamento, controle
+e auxílio no processo decisório.
+Comentários
+De fato, o principal objetivo da Contabilidade é fornecer informações úteis sobre o patrimônio
+das entidades. Cada tipo de usuário utiliza as informações de acordo com os seus objetivos. Assim,
+os gestores da entidade, por exemplo, utilizam-se das informações contábeis para planejar as
+operações, controlar o patrimônio e servir como auxílio no processo decisório de maneira geral.
+Gabarito: Certo
+
+3. (CESPE/EBSERH/2018) O objeto de estudo da contabilidade são as entidades econômico-
+administrativas, o que inclui as instituições com fins sociais.
+Comentários
+O objeto de estudo da Contabilidade é o patrimônio. O item refere-se ao campo de aplicação da
+Contabilidade.
+Gabarito: Errado
+
+4. (CESPE/EBSERH/2018) A análise de balanços não é considerada uma técnica contábil, tendo
+em vista que foi formulada e desenvolvida no âmbito da administração financeira.
+Comentários
+A análise de balanços é sim uma técnica contábil, sem maiores comentários J
+Gabarito: Errado
+
+5. (CESPE/Polícia Federal/2018) O objeto da contabilidade é o patrimônio do ente contábil
+específico.
+Comentários
+O objeto da Contabilidade é o patrimônio das entidades (ente contábil específico).
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati        12
+        www.estrategiaconcursos.com.br                                                          16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+Gabarito: Certo
+
+6. (CESPE/Polícia Federal/2018) A contabilidade integra o rol das ciências exatas por estar
+dedicada à mensuração da riqueza do ente contábil.
+Comentários
+Contabilidade é uma ciência social! Não é exata!
+Gabarito: Errado
+
+7. (CESPE/STM/2011) O objeto da contabilidade é o patrimônio, constituído pelo conjunto de
+bens, direitos e obrigações próprios de determinado ente.
+Comentários
+Para fixar! O objeto da contabilidade é o PATRIMÔNIO.
+Gabarito: Certo
+
+8. (CESPE/MPU/2010) O patrimônio não é objeto de estudo exclusivo da contabilidade, haja vista
+que ciências como a administração e a economia também se interessam pelo patrimônio, mas é a
+única que restringe o estudo do patrimônio a seus aspectos quantitativos.
+Comentários
+De fato, o patrimônio não é objeto exclusivo da Contabilidade. No entanto, a Contabilidade não
+se restringe a estudar o patrimônio sob o aspecto quantitativo, haja vista que a Contabilidade
+estuda os aspectos quantitativos e qualitativos do patrimônio.
+Gabarito: Errado
+
+9. (CESPE/FUB/2011) A finalidade da contabilidade é assegurar o controle do patrimônio
+administrativo, devendo o administrador apoiar-se nos dados por meio dela obtidos para tomar
+decisões que envolvam bens, direitos e obrigações da empresa, bem como para apurar os
+resultados positivos (lucros) ou negativos (prejuízos).
+Comentários
+Basicamente a Contabilidade possui a finalidade de controlar o patrimônio administrado e
+fornecer informações sobre a composição e as variações patrimoniais, bem como sobre o
+resultado das atividades econômicas desenvolvidas pela entidade para alcançar seus fins. Assim,
+a Contabilidade por meio do controle do patrimônio fornece informações úteis para a tomada de
+decisão.
+Gabarito: Certo
+
+10. (CESPE/MPU/2010) O patrimônio não é objeto de estudo exclusivo da contabilidade, haja
+vista que ciências como a administração e a economia também se interessam pelo patrimônio,
+mas é a única que restringe o estudo do patrimônio a seus aspectos quantitativos.
+Comentários
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati   13
+        www.estrategiaconcursos.com.br                                                     16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+De fato, a Contabilidade não é a única ciência que possui como objeto de estudo o patrimônio.
+No entanto, não podemos afirmar que a Contabilidade restringe o estudo do patrimônio a seus
+aspectos quantitativos. A Contabilidade estuda os aspectos quantitativos e qualitativos do
+patrimônio. Quantitativamente, o Patrimônio representa os valores monetários do bem, direito
+ou obrigação. O aspecto qualitativo do patrimônio é entendido como a natureza dos elementos
+que o compõem, como dinheiro, valores a receber ou a pagar expressos em moeda, máquinas,
+estoques de materiais ou de mercadorias etc.
+Gabarito: Errado
+
+11. (CESPE/SECGE-PE/2010) A contabilidade é uma ciência exata.
+Comentários
+Ao contrário do que muitos pensam, a Contabilidade não é uma ciência exata. Segundo a
+doutrina, trata-se de uma ciência social, haja vista que tem como foco o patrimônio que envolve
+um conjunto de pessoas dentro da sociedade, com implicações internas e externas, pois variações
+nesse patrimônio afetam de alguma forma o meio ao qual está inserido.
+Gabarito: Errado
+
+12. (CESPE/SECGE-PE/2010) A contabilidade tem funções administrativas e econômicas.
+Comentários
+Segundo a doutrina, a Contabilidade possui duas funções: a função administrativa e a função
+econômica. Correto, portanto, a assertiva.
+   §   Função Administrativa: controle do patrimônio da entidade mediante registro dos fatos
+       contábeis em livros apropriados. Os principais livros são o Diário e o Razão.
+   §   Função Econômica: apuração do resultado líquido (rédito), o qual pode ser positivo (lucro
+       líquido) ou negativo (prejuízo líquido).
+Gabarito: Certo
+
+13. (CESPE/SECGE-PE/2010) O principal campo de aplicação da contabilidade são as aziendas.
+Comentários
+O campo de aplicação são as aziendas. A azienda surge quando temos um patrimônio gerido de
+maneira organizada.
+                                  AZIENDAS = GESTÃO + PATRIMÔNIO
+Gabarito: Certo
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati    14
+        www.estrategiaconcursos.com.br                                                      16
+                                     https://t.me/KakashiAssinaturasBot
+  Gilmar Possati
+  Aula 00
+
+
+
+
+                   3 – LISTA DAS QUESTÕES COMENTADAS
+1. (CESPE/PC MA/2018) De acordo com Max Weber, a moderna organização racional da empresa
+capitalista foi viabilizada pela contabilidade racional. Esse pensamento foi corroborado, na ciência
+contábil, por Vicenzo Masi, que identificou como objeto da contabilidade o patrimônio.
+2. (CESPE/EBSERH/2018) O principal objetivo da contabilidade é fornecer informações úteis
+sobre o patrimônio da entidade para finalidades diversas, entre as quais, planejamento, controle
+e auxílio no processo decisório.
+3. (CESPE/EBSERH/2018) O objeto de estudo da contabilidade são as entidades econômico-
+administrativas, o que inclui as instituições com fins sociais.
+4. (CESPE/EBSERH/2018) A análise de balanços não é considerada uma técnica contábil, tendo
+em vista que foi formulada e desenvolvida no âmbito da administração financeira.
+5. (CESPE/Polícia Federal/2018) O objeto da contabilidade é o patrimônio do ente contábil
+específico.
+6. (CESPE/Polícia Federal/2018) A contabilidade integra o rol das ciências exatas por estar
+dedicada à mensuração da riqueza do ente contábil.
+7. (CESPE/STM/2011) O objeto da contabilidade é o patrimônio, constituído pelo conjunto de
+bens, direitos e obrigações próprios de determinado ente.
+8. (CESPE/MPU/2010) O patrimônio não é objeto de estudo exclusivo da contabilidade, haja vista
+que ciências como a administração e a economia também se interessam pelo patrimônio, mas é a
+única que restringe o estudo do patrimônio a seus aspectos quantitativos.
+9. (CESPE/FUB/2011) A finalidade da contabilidade é assegurar o controle do patrimônio
+administrativo, devendo o administrador apoiar-se nos dados por meio dela obtidos para tomar
+decisões que envolvam bens, direitos e obrigações da empresa, bem como para apurar os
+resultados positivos (lucros) ou negativos (prejuízos).
+10. (CESPE/MPU/2010) O patrimônio não é objeto de estudo exclusivo da contabilidade, haja
+vista que ciências como a administração e a economia também se interessam pelo patrimônio,
+mas é a única que restringe o estudo do patrimônio a seus aspectos quantitativos.
+11. (CESPE/SECGE-PE/2010) A contabilidade é uma ciência exata.
+12. (CESPE/SECGE-PE/2010) A contabilidade tem funções administrativas e econômicas.
+13. (CESPE/SECGE-PE/2010) O principal campo de aplicação da contabilidade são as aziendas.
+
+
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati        15
+        www.estrategiaconcursos.com.br                                                          16
+                                     https://t.me/KakashiAssinaturasBot
+Gilmar Possati
+Aula 00
+
+
+
+
+                                            4 – GABARITO
+
+
+
+
+      1.         2.   3.      4.       5.      6.      7.       8.      9.      10.      11.   12.   13.
+      C          C    E       E        C       E       C        E       C       E        E     C     C
+
+
+
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                     16
+      www.estrategiaconcursos.com.br                                                                       16
+                                   https://t.me/KakashiAssinaturasBot
+

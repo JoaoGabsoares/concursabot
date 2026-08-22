@@ -1,0 +1,381 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+CUSTO DE DISTRIBUIÇÃO E
+ROTEIRIZAÇÃO
+
+                                               Prof. Ricardo Campanario
+
+
+
+
+          https://t.me/KakashiAssinaturasBot
+       Custos de Distribuição
+       Atrelados à estratégia de distribuição escolhida
+
+     ❑ Os custos da distribuição ganham cada vez mais importância na busca por eficiência ao longo de
+       toda a cadeia e pelo aumento de lucratividade. Vamos avaliar algumas estratégias de distribuição
+       e seus custos:
+
+                Venda direta ao consumidor - é o método mais dispendioso de distribuição pois necessita da manutenção de
+                uma grande equipe de vendas, realização de inúmeras entregas em tempos e locais diferentes, alto risco de
+                crédito e emprego de capital circulante, além de supervisão contínua da equipe de vendas. Caso o fabricante
+                decida vender por intermédio de lojas próprias também tem custos significativos como a locação/aquisição e
+                preparação dos locais e funcionários que atuarão nas lojas.
+
+                Vendas ao varejo (sem atacadistas ou distribuidores intermediários) - o método depende da relação
+                estabelecida com as grandes cadeias de varejo, que representam grandes vantagens de custos para os
+                fabricantes pela centralização e volume de vendas, com baixa complexidade e risco de crédito reduzido porém,
+                duríssimas negociações de preço. Por outro lado, atender os pequenos varejistas independentes é também
+                muito dispendioso e complexo pois, semelhante à venda direta ao consumidor, exige um grande corpo de
+                vendedores, estoques descentralizados para atendimento rápido, facilidade de crédito, entre outros.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Custos de Distribuição
+       Atrelados à estratégia de distribuição escolhida
+
+     ❑ Os custos da distribuição ganham cada vez mais importância na busca por eficiência ao longo de toda a cadeia e
+       pelo aumento de lucratividade. Vamos avaliar algumas estratégias de distribuição e seus custos:
+
+                Venda por intermédio de atacadistas e distribuidores - é um método frequente de distribuição. Nele
+                os varejistas são atendidos pelos intermediários (atacadistas e distribuidores) que estão entre a
+                indústria fabricante e o varejo. Permite e redução do pessoal empregado no processo, e do tempo
+                destinado à supervisão dessas equipes. Porém expõe-se a risco de crédito um pouco maior versus a
+                venda a grandes varejistas e introduz mais um intermediário na cadeia que, certamente, ficará com
+                uma parte do lucro gerado ao longo da cadeia.
+
+       ❑ Do ponto de vista teórico, a melhor estratégia de canais (ou distribuição) é aquela que gera o maior lucro líquido
+         ao fabricante e essa é uma conta que vai ter que levar em consideração inúmeras variáveis que envolvem em
+         linhas gerais impactos nos custos da operação e nos resultados do volume vendas.
+
+       ❑ Nenhuma estratégia consegue atingir os melhores resultados nas duas dimensões. Deve-se buscar aquela capaz
+         de gerar a maior rentabilidade maximizando o volume de vendas e minimizando os custos gerados para isso. Em
+         resumo, não é uma tarefa fácil...
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/EBSERH/Analista Administrativo/2018) É recomendável a adoção de transportes
+     intermodais, sempre que os custos forem menos onerosos para a empresa e não houver redução
+     significativa do prazo de validade de produtos perecíveis.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/EBSERH/Analista Administrativo/2018) É recomendável a adoção de transportes
+     intermodais, sempre que os custos forem menos onerosos para a empresa e não houver redução
+     significativa do prazo de validade de produtos perecíveis.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Roteirização e TMS
+       A opção pelo melhor trajeto
+
+     ❑ A ferramenta de roteirização é responsável por fornecer à organização dados para a escolha do
+       melhor trajeto (origem/destino) para entrega do produto. É claramente uma forma de buscar a
+       redução de custo ao longo da cadeia logística.
+
+     ❑ Existem vários modelos de softwares de roteadores disponíveis no mercado para executar esse
+       trabalho de otimização. São instrumentos muito úteis no estudo de localização de depósitos, no
+       controle de custos operacionais e no planejamento de ampliação ou renovação da frota.
+
+     ❑ Seu maior objetivo, porém, é a definição de itinerários capazes de reduzir ao mínimo o tempo
+       total do percurso da frota e o número de veículos envolvidos na operação.
+
+     ❑ Um sistema costumeiramente cobrado em provas e que você precisa conhecer é o TMS
+       (Transportation Management System ou Sistema de Gerenciamento de Transporte).
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Roteirização e TMS
+       Otimização de toda a gestão de transportes
+
+     ❑ Este sistema permite controlar toda a operação e gestão de transportes de forma integrada. Tem
+       como finalidade identificar e controlar os custos inerentes a cada operação, sendo importante
+       identificar e medir os custos de cada elemento existente na cadeia de transporte.
+
+     ❑ Nesta cadeia não são considerados apenas os veículos e respectivos modais de transportes, mas
+       também a gestão dos recursos humanos e materiais, o controle, programações e rastreamentos
+       de embarque e desembarque das cargas, os custos de manutenção da frota, bem como as
+       diversas tabelas e modalidades de consolidação de fretes existentes (peso, valor, volume)
+       apresentando o modelo que melhor se ajusta as necessidades e expectativas da organização.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Roteirização e TMS
+       Diretamente ligada a redução de custos
+
+                                                             Um TMS permite obter o custo mínimo de
+                                                             operação, pois permite visualizar e controlar
+                                                             todos custos inerentes à gestão de
+                                                             transporte, controlar a qualidade dos
+                                                             serviços realizados interna e externamente
+                                                             ou por terceiros e estabelecer metas de
+                                                             qualidade conforme as necessidades.
+                                                             Também aumenta a disponibilidade da frota,
+                                                             prevendo possíveis problemas que possam
+                                                             ocorrer nas partes mecânica e elétrica do
+                                                             veículo e informações detalhadas e de fácil
+                                                             acesso que permitem uma rápida tomada de
+                                                             decisão.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Roteirização e TMS
+       Uma fonte de inspiração!
+
+     ❑ O uso da roteirização no processo logístico é muitas vezes comparado - e mesmo
+       inspirado - no comportamento das formigas e isso já apareceu em várias questões de
+       prova!
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Roteirização e TMS
+       Uma fonte de inspiração!
+
+     ❑ O ser humano faz algo parecido...
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Roteirização e TMS
+       Uma fonte de inspiração!
+               Para a obtenção do alimento para o formigueiro, a colônia resolve um interessante problema de otimização.
+               Inicialmente, as formigas percorrem de modo aleatório a região próxima ao formigueiro em busca do alimento.
+               Cada formiga, enquanto percorre o seu caminho, deposita sobre o solo uma substância chamada feromônio,
+               formando um caminho ou rastro de feromônio.
+
+               As formigas subsequentes detectam a presença desta substância e tendem a escolher o caminho marcado com
+               a maior concentração de feromônio.
+
+               O feromônio portanto, além de possibilitar a formação de um caminho de volta para a formiga, também tem a
+               função de informar as outras formigas sobre quais os melhores caminhos até o alimento.
+
+               Depois de algum tempo, os caminhos mais eficientes – ou de menor distância percorrida até o alimento –
+               acumulam uma quantidade maior de feromônio. Inversamente, os caminhos menos eficientes – ou de maior
+               distância percorrida até o alimento – apresentam uma pequena concentração de feromônio, devido ao menor
+               número de formigas que passaram por ele e ao processo de evaporação natural do feromônio.
+
+               No problema de otimização que o formigueiro se defronta, cada formiga é capaz de construir uma solução
+               completa do problema; contudo, a melhor solução só é obtida mediante cruzamento das diversas soluções
+               encontradas.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (Instituto AOCP/Câm. Mun. Teresina-PI/Assistente Legislativo/2021) O processo logístico, que é
+     considerado um dos mais complexos por envolver situações como transporte, embalagem e
+     roteirização, é
+     a) o controle eficiente.
+     b) a distribuição física.
+     c) a logística reversa.
+     d) a manutenção de frota.
+     e) o modal de transporte.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (Instituto AOCP/Câm. Mun. Teresina-PI/Assistente Legislativo/2021) O processo logístico, que é
+     considerado um dos mais complexos por envolver situações como transporte, embalagem e
+     roteirização, é
+     a) o controle eficiente.
+     b) a distribuição física.
+     c) a logística reversa.
+     d) a manutenção de frota.
+     e) o modal de transporte.
+     GABARITO - B
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CESGRANRIO/TRANSPETRO/Técnico Junior/2018) É um exemplo de decisão operacional dentro da
+     área de logística a definição do(da.)
+     a) nível de serviço a ser ofertado pela empresa
+     b) rota de entrega
+     c) renovação da frota
+     d) escolha da forma de suprimento
+     e) fixação dos parâmetros do LEC
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CESGRANRIO/TRANSPETRO/Técnico Junior/2018) É um exemplo de decisão operacional dentro da
+     área de logística a definição do(da.)
+     a) nível de serviço a ser ofertado pela empresa
+     b) rota de entrega
+     c) renovação da frota
+     d) escolha da forma de suprimento
+     e) fixação dos parâmetros do LEC
+     GABARITO - B
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Fator de Estiva
+       Cálculo do volume ocupado pelo “mesmo” peso
+
+     ❑ O Fator de Estiva é um outro conceito relacionado aos custos da distribuição e que é
+       cobrado em prova com relativa frequência.
+
+                 Fator de Estiva é considerado o volume em metros cúbicos ocupados por
+                 uma tonelada métrica de mercadoria embalada para embarque.
+
+     ❑ Ou seja, é necessário saber a quantidade de mercadoria que pode ser colocada em
+       um metro cúbico pois isso impacta diretamente o cálculo do frete.
+     ❑ Como o fator de estiva costuma ser calculado em m3 por tonelada, quanto menor o
+       fator de estiva, melhor, pois mais mercadoria vai poder ser colocada no mesmo
+       espaço.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Fator de Estiva
+       Quanto menor, melhor, pois será menor a ocupação de espaço por peso
+
+     ❑ Por exemplo, se uma mercadoria tem fator de estiva de 8m3 por tonelada, isso significa que uma
+       tonelada dessa mercadoria ocupará 8m3 de espaço em um veículo transportador. Por outro lado,
+       outra mercadoria tem o fator de estiva de 25m3/tonelada. Isso significa que para transportar uma
+       tonelada desta outra mercadoria serão necessários 25m3 do veículo transportador, ou seja, para
+       transportar o mesmo peso, será necessário muito mais espaço e, portanto, o custo será maior.
+
+     ❑ No modal rodoviário, usa-se na maioria das vezes o fator 300, isto significa a adoção da relação
+       de 300kg por metro cúbico.
+
+
+
+
+                 Uma carreta tem capacidade para 90 metros cúbicos. Se multiplicarmos 300kg por 90
+                 metros cúbicos, temos uma capacidade para carregamento de 27.000kg que passa a
+                 ser o chamado Payload (carga útil) possível de ser transportada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/ANVISA/Técnico Administrativo/2016) A distribuição física de produtos acabados
+     proporciona subsídios para a utilização da ferramenta roteirização, a qual fornece à organização dados
+     para a escolha do melhor trajeto (origem/destino) para entrega do produto.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/ANVISA/Técnico Administrativo/2016) A distribuição física de produtos acabados
+     proporciona subsídios para a utilização da ferramenta roteirização, a qual fornece à organização dados
+     para a escolha do melhor trajeto (origem/destino) para entrega do produto.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/ES/Analista do Executivo/2013) Considere que determinado armazém apresente uma
+     composição de guarda conforme a tabela a seguir. Nessa situação, o fator de estiva médio ponderado é
+     de
+     a) 2,00.
+     b) 2,50.
+     c) 2,65.
+     d) 2,70.
+     e) 3,80.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/ES/Analista do Executivo/2013) Considere que determinado armazém apresente uma
+     composição de guarda conforme a tabela a seguir. Nessa situação, o fator de estiva médio ponderado é
+     de
+     a) 2,00.
+     b) 2,50.
+     c) 2,65.
+     d) 2,70.
+     e) 3,80.
+     GABARITO - C
+
+                          Vamos aos cálculos:
+                          Fardo, ocupa 50% do armazém e tem o fator de estiva de 2,5 = 1,25
+                          Caixaria, 20% e 3 = 0,60
+                          Sacaria, 10% e 2,2 = 0,22
+                          Cartões, 10% e 3,8 = 0,38
+                          Tambores, 10% e 2 = 0,20
+                          Somando tudo obtemos o fator de estiva médio:
+                          1,25+0,60+0,22+0,38+0,20 = 2,65
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

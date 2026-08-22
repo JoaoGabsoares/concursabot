@@ -1,0 +1,130 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 02_008_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: PRINCÍPIOS TRIBUTÁRIOS
+artigos_citados:
+- Art. 145.
+---
+
+# PRINCÍPIOS TRIBUTÁRIOS
+
+PRINCÍPIOS TRIBUTÁRIOS
+DEMAIS PRINCÍPIOS TRIBUTÁRIOS
+– PARTE 2
+                                               Prof. Fábio Dutra
+
+          
+
+
+---
+
+    Demais Princípios Tributários
+       ❑ Demais Princípios Tributários:
+
+       Art. 145.
+       (...)
+       § 3º O Sistema Tributário Nacional deve observar os princípios da
+       simplicidade, da transparência, da justiça tributária, da cooperação e da
+       defesa do meio ambiente. (Incluído pela Emenda Constitucional nº 132, de
+       2023)
+
+Direito Tributário
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+    Demais Princípios Tributários
+Foram acrescidos pela 5 princípios a serem observados no Sistema Tributário
+Nacional:
+
+❑ Simplicidade;
+❑ Transparência;
+❑ Justiça Tributária;
+❑ Cooperação;
+❑ Defesa do meio ambiente.
+
+Direito Tributário
+                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+    Demais Princípios Tributários
+                           Princípio da Simplicidade
+
+
+                          Princípio da Transparência
+
+
+                         Princípio da Justiça Tributária
+
+
+                           Princípio da Cooperação
+
+
+                     Princípio da Defesa do Meio Ambiente
+
+
+Direito Tributário
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+    Demais Princípios Tributários
+       ❑ Demais Princípios Tributários:
+
+       Art. 145.
+       (...)
+       § 4º As alterações na legislação tributária buscarão atenuar efeitos
+       regressivos. (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+Direito Tributário
+                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+    Demais Princípios Tributários
+       ❑ O que são tributos regressivos?
+
+Direito Tributário
+                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+---
+
+---
+
+OBRIGADO
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+---

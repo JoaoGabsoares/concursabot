@@ -1,0 +1,1843 @@
+                                                                                     Índice
+1)  Demonstração das Mutações do Patrimônio Líquido (DMPL) - Teoria
+..............................................................................................................................................................................................3
+
+..............................................................................................................................................................................................
+2)  Demonstração das Mutações do Patrimônio Líquido (DMPL) - Questões Comentadas                                                                                                              8
+
+3)   Lista de Questões - Demonstração das Mutações do Patrimônio Líquido (DMPL)                                                                                                             43
+..............................................................................................................................................................................................
+DEMONSTRAÇÃO DAS MUTAÇÕES DO PATRIMÔNIO LÍQUIDO
+(DMPL)
+Conceito
+A Demonstração das Mutações do Patrimônio Líquido evidencia as mudanças qualitativas e quantitativas
+ocorridas no patrimônio líquido da entidade.
+Ao contrário das outras demonstrações estudadas até o momento (BP, DRE e DLPA), a Lei n. 6.404/76 não
+trouxe maiores informações sobre a DMPL, apenas que esta pode conter a DLPA.
+
+Obrigatoriedade
+Em que pese a Lei n. 6.404/76 não obrigar a divulgação da DMPL, tornando-a apenas facultativa, esse
+demonstrativo passou a ser obrigatório para as empresas de capital aberto por exigência da Comissão de
+Valores Mobiliários (Instrução CVM 59/1986).
+No entanto, com a publicação do CPC 26 - Apresentação das demonstrações contábeis, o entendimento atual
+é que a DMPL faz parte do conjunto completo de demonstrações contábeis. Logo, segundo o CPC e a doutrina
+é uma demonstração obrigatória para quase a totalidade das empresas.
+
+     Observações:
+     (i) Em se tratando de Pequenas e Médias Empresas (PME) que adotarem a NBC TG 1000
+     (Contabilidade para Pequenas e Médias Empresas), vale a faculdade prevista no item 3.18
+     da Resolução CFC n. 1.255/09 (NBC TG 1000):
+     Se as únicas alterações no patrimônio líquido durante os períodos para os quais as
+     demonstrações contábeis são apresentadas derivarem do resultado, de distribuição de
+     lucro, de correção de erros de períodos anteriores e de mudanças de políticas contábeis,
+     a entidade pode apresentar uma única demonstração dos lucros ou prejuízos acumulados
+     no lugar da demonstração do resultado abrangente e da demonstração das mutações do
+     patrimônio líquido.
+     (ii) Quanto às Microempresas e Empresas de Pequeno Porte (ME/EPP) que adotarem a
+     ITG 1.000, a DMPL é facultativa.
+
+
+
+
+                                       Obrigatoriedade da DMPL
+Lei n. 6.404/76: Facultativa
+Instrução CVM 59/1986: Obrigatória para empresas de capital aberto
+CPC 26 (R1): Obrigatória
+NBC TG 1000 (PME): Em regra é obrigatória, porém pode ser substituída pela DLPA se as únicas alterações
+no patrimônio líquido durante os períodos para os quais as demonstrações contábeis são apresentadas
+derivarem do resultado, de distribuição de lucro, de correção de erros de períodos anteriores e de mudanças
+de políticas contábeis.
+ITG 1.000 (ME/EPP): Facultativa
+
+
+Utilidade
+Segundo o Manual de Contabilidade Societária (FIPECAFI), a DMPL é de muita utilidade, pois:
+   ▪   fornece a movimentação ocorrida durante o exercício nas diversas contas componentes do
+       Patrimônio Líquido;
+   ▪   faz clara indicação do fluxo de uma conta para outra e indica a origem e o valor de cada acréscimo
+       ou diminuição no Patrimônio Líquido durante o exercício.
+   ▪   indica claramente a formação e a utilização de todas as reservas, e não apenas das originadas por
+       lucros;
+   ▪   para as empresas que avaliam seus investimentos permanentes em coligadas e controladas pelo
+       método da equivalência patrimonial, torna-se de muita utilidade receber dessas empresas investidas
+       tal demonstração, para permitir adequado tratamento contábil das variações patrimoniais no
+       exercício.
+
+Conteúdo da DMPL
+A Demonstração das Mutações do Patrimônio Líquido (DMPL) discrimina:
+   ▪   Os saldos no início do período;
+   ▪   Os ajustes de exercícios anteriores;
+   ▪   As reversões e transferências de reservas e lucros;
+   ▪   Os aumentos de capital, discriminando sua natureza;
+   ▪   A redução de capital;
+   ▪   As destinações do lucro líquido do período;
+   ▪   As reavaliações de ativos e sua realização, líquida do efeito dos impostos correspondentes;
+   ▪   O resultado líquido do período;
+   ▪   As compensações de prejuízos;
+   ▪   Os lucros distribuídos;
+   ▪   Os saldos no final do período.
+Segundo o CPC 26 (R1),
+“106. A entidade deve apresentar a demonstração das mutações do patrimônio líquido conforme requerido
+no item 10. A demonstração das mutações do patrimônio líquido inclui as seguintes informações:
+a) o resultado abrangente do período, apresentando separadamente o montante total atribuível aos
+proprietários da entidade controladora e o montante correspondente à participação de não controladores;
+b) para cada componente do patrimônio líquido, os efeitos da aplicação retrospectiva ou da reapresentação
+retrospectiva, reconhecidos de acordo com o Pronunciamento Técnico CPC 23 – Políticas Contábeis, Mudança
+de Estimativa e Retificação de Erro;
+c) [eliminado];
+d) para cada componente do patrimônio líquido, a conciliação do saldo no início e no final do período,
+demonstrando-se separadamente as mutações decorrentes:
+i) do resultado líquido;
+ii) de cada item dos outros resultados abrangentes; e
+iii) de transações com os proprietários realizadas na condição de proprietário, demonstrando separadamente
+suas integralizações e as distribuições realizadas, bem como modificações nas participações em controladas
+que não implicaram perda do controle."
+Ainda, de acordo com o CPC 26 (R1),
+A entidade deve apresentar, na demonstração das mutações do patrimônio líquido ou nas notas explicativas,
+o montante de dividendos reconhecidos como distribuição aos proprietários durante o período e o respectivo
+montante dos dividendos por ação.
+
+
+
+
+(MEC/2014) A demonstração das mutações do patrimônio líquido permite identificar o fluxo de valores
+entre as contas componentes do patrimônio líquido, inclusive os resultados abrangentes, segregados em
+acionistas controladores e não controladores.
+Comentários
+Conforme acabamos de estudar, a DMPL fornece a movimentação (fluxo de valores) ocorrida durante o
+exercício nas diversas contas componentes do Patrimônio Líquido. Segundo o CPC 26, a DMPL inclui o
+resultado abrangente do período, apresentando separadamente o montante total atribuível aos
+proprietários da entidade controladora e o montante correspondente à participação de não controladores.
+Gabarito: Certo
+
+Mutações nas Contas Patrimoniais
+Na resolução de questões envolvendo a DMPL, é importante saber identificar os fatos que alteram o
+patrimônio líquido. A seguir segue uma lista dos principais fatos:
+Principais Fatos Contábeis que alteram o PL
+Aumentam o PL
+   ▪   Lucro Líquido do Exercício;
+   ▪   Ajustes de Avaliação Patrimonial (credor);
+   ▪   Doações e subvenções para investimentos recebidos (após trânsito pelo resultado);
+   ▪   Subscrição e integralização de capital;
+   ▪   Recebimento de valor que exceda o valor nominal das ações integralizadas ou o preço de emissão
+       das ações sem valor nominal;
+   ▪   Valor da alienação de partes beneficiárias e bônus de subscrição;
+   ▪   Prêmio recebido na emissão de debêntures (após transito pelo resultado);
+   ▪   Venda de Ações em Tesouraria;
+   ▪   Ajuste de Exercícios Anteriores (credor);
+   ▪   Outros resultados abrangentes;
+Reduzem o PL
+   ▪   Prejuízo Líquido do Exercício;
+   ▪   Dividendos propostos (a distribuir);
+   ▪   Ações próprias adquiridas;
+   ▪   Gastos na emissão de ações
+   ▪   Ajuste de Exercícios Anteriores e de Avaliação Patrimonial (devedor);
+   ▪   Reversão da reserva de lucros a realizar para a conta de dividendos a pagar;
+   ▪   Outros Resultados abrangentes.
+Principais Fatos Contábeis que NÃO alteram o PL
+   ▪   Aumento de capital com utilização de lucros e reservas;
+   ▪   Apropriações do lucro líquido do exercício reduzindo a conta Lucros Acumulados para formação de
+       reservas;
+   ▪   Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos acumulados (conta
+       transitória);
+   ▪   Compensação de Prejuízos com Reservas.
+
+Estrutura da DMPL segundo o CPC 26
+Segundo o exemplo fornecido pelo CPC 26 (R1), a mutação do patrimônio líquido é formada por apenas dois
+conjuntos de valores: transações de capital com os sócios (na sua qualidade de proprietários) e resultado
+abrangente total.
+O resultado abrangente total é formado, por sua vez, de três componentes: o resultado líquido do período,
+os outros resultados abrangentes e o efeito de reclassificações dos outros resultados abrangentes para o
+resultado do período.
+Entende-se por resultado abrangente a mutação que ocorre no patrimônio líquido durante um período que
+resulta de transações e outros eventos que não derivados de transações com os sócios na sua qualidade de
+proprietários.
+Finalmente, o Pronunciamento exige que tanto o resultado líquido do período quanto os outros resultados
+abrangentes sejam evidenciados com relação a quanto pertence aos sócios da entidade controladora e
+quanto aos sócios não controladores nas controladas. No exemplo a seguir, esses valores ficam
+automaticamente divulgados.
+O CPC 26 (R1) lembra que atualmente é vedada a apresentação da Demonstração do Resultado Abrangente
+apenas na Demonstração das Mutações do Patrimônio Líquido.
+A seguir temos um modelo da DMPL, segundo o disposto no CPC 26, adaptado para fins didáticos:
+                               QUESTÕES COMENTADAS
+1. (CESPE/Analista Portuário/Financeira e Auditoria Interna/EMAP/2018) Com relação à elaboração das
+principais demonstrações contábeis previstas na normatização vigente, julgue o item seguinte.
+As alterações verificadas em lucros ou prejuízos acumulados, entre dois períodos, apesar de comumente
+evidenciadas na demonstração de mutações do patrimônio líquido, pode ser objeto de demonstração
+própria.
+Comentários
+Todas as mutações no PL são evidenciadas na DMPL. Logo, as alterações verificadas na conta
+Lucros/Prejuízos Acumulados, de fato, são comumente evidenciadas na DMPL. Apesar desse entendimento,
+é sabido que existe uma demonstração própria que evidencia apenas as alterações da conta Lucros/Prejuízos
+Acumulados: a Demonstração dos Lucros ou Prejuízos Acumulados (DLPA). A DLPA é uma demonstração
+obrigatória pela Lei n. 6.404/76, mas pode ser incluída na DMPL, conforme dispositivo abaixo:
+     Art. 186 § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do
+     dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do
+     patrimônio líquido, se elaborada e publicada pela companhia.
+Gabarito: Certo
+2. (CESPE/Analista Administrativo/Contabilidade/EBSERH/2018) Julgue o item seguinte, a respeito da
+elaboração das demonstrações contábeis segundo os pronunciamentos do CPC e a legislação vigente.
+Apesar de ser facultativa, segundo a legislação societária, a demonstração de mutações do patrimônio
+líquido integra o rol de demonstrações financeiras classificadas como obrigatórias pelo CPC.
+Comentários
+                                        Obrigatoriedade da DMPL
+Lei n. 6.404/76: Facultativa
+Instrução CVM 59/1986: Obrigatória para empresas de capital aberto
+CPC 26 (R1): Obrigatória
+NBC TG 1000 (PME): Em regra é obrigatória, porém pode ser substituída pela DLPA se as únicas alterações
+no patrimônio líquido durante os períodos para os quais as demonstrações contábeis são apresentadas
+derivarem do resultado, de distribuição de lucro, de correção de erros de períodos anteriores e de mudanças
+de políticas contábeis.
+ITG 1.000 (ME/EPP): Facultativa
+Gabarito: Certo
+3. (CESPE/Auditor de Controle Externo/TCE-PE/2017) Com base nos pronunciamentos emitidos pelo
+Comitê de Pronunciamentos Contábeis (CPC.), julgue o item seguinte.
+O conjunto completo de demonstrações contábeis a ser apresentado pelas sociedades constituídas por ações
+inclui a demonstração das mutações do patrimônio líquido, a qual deverá conter o resultado abrangente do
+período, exceto quando houver demonstração do resultado abrangente apresentada em separado.
+Comentários
+De fato, o conjunto completo das demonstrações contábeis inclui a DMPL a qual deve evidenciar, entre
+outros itens, o resultado abrangente do período.
+No entanto, o fato de a Demonstração do Resultado Abrangente (DRA) ter sido apresentada em separado,
+não prejudica a evidenciação na DMPL, ou seja, mesmo sendo apresentado o resultado abrangente da DRA,
+deve ser apresentado também na DMPL.
+Gabarito: Errado
+4. (CESPE/Analista de Gestão Educacional/Contabilidade/SEDF/2017) Com referência à elaboração de
+demonstrações contábeis, julgue o item seguinte à luz da legislação societária, dos princípios
+fundamentais da contabilidade e dos pronunciamentos contábeis do CPC.
+O total de dividendos reconhecidos como distribuição aos acionistas durante dado exercício pode ser
+evidenciado na demonstração das mutações do patrimônio líquido.
+Comentários
+Nos termos da Lei n. 6.404/76,
+     Art. 186 § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do
+     dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do
+     patrimônio líquido, se elaborada e publicada pela companhia.
+Logo, realmente o total de dividendos reconhecidos como distribuição aos acionistas durante dado exercício
+pode ser evidenciado na DMPL.
+Gabarito: Certo
+5. (CESPE/Analista de Controle/Atuarial/TCE-PR/2016)
+
+
+
+
+Os dados apresentados foram extraídos da demonstração das mutações do patrimônio líquido de uma
+entidade e representam todas as transações que afetaram esse grupo patrimonial em determinado exercício.
+Com base nessas informações, é correto afirmar que, naquele exercício, o patrimônio líquido da entidade
+a) aumentou em R$ 70.000.
+b) aumentou em R$ 20.000.
+c) foi reduzido em R$ 10.000.
+d) foi reduzido em R$ 5.500.
+e) aumentou em R$ 144.500.
+Comentários
+Vamos analisar cada uma das informações e identificar o impacto no PL.
+• Aumento de capital social com reservas → não impacta o PL.
+• Diminuição do capital social por retirada de sócio → impacta negativamente o PL (5.500,00).
+• Reversão de reservas de lucros a realizar → impacta negativamente o PL (4.500,00).
+Aqui tem uma pegadinha! Segundo a Lei n. 6.404/76,
+      Art. 197, §2º, A reserva de lucros a realizar somente poderá ser utilizada para pagamento do
+      dividendo obrigatório e, para efeito do inciso III do art. 202, serão considerados como integrantes da
+      reserva os lucros a realizar de cada exercício que forem os primeiros a serem realizados em dinheiro.
+Logo, quando revertemos essa reserva, o valor não vai para o PL, mas sim para o pagamento de dividendos,
+ou seja, há uma diminuição do PL!
+Lucro líquido do exercício: impacta positivamente o PL (100.000,00).
+Destinações
+Para reservas: não impacta o PL.
+Distribuição de dividendos obrigatórios: impacta negativamente o PL (70.000,00).
+Organizando os valores, temos:
+Impacto no PL
+Lucro líquido do exercício                                100.000,00
+(-) Diminuição do capital social por retirada de sócio    (5.500,00)
+(-) Reversão de reservas de lucros a realizar             (4.500,00)
+(-) Distribuição de dividendos obrigatórios               (70.000,00)
+(=) Impacto no PL                                         20.000,00
+Gabarito: B
+6. (CESPE/Auditor Fiscal de Controle Externo/Contabilidade/TCE-SC/2016) No que se refere aos livros de
+escrituração e às previsões legais relativas às demonstrações contábeis, julgue o item a seguir.
+Não podem constar da demonstração de mutações do patrimônio líquido de uma empresa as modificações
+das quais seus sócios participem em qualidade diferente da de proprietários.
+Comentários
+As modificações das quais seus sócios participem em qualidade diferente da de proprietários são
+evidenciadas na DMPL dentro dos outros resultados abrangentes.
+Gabarito: Errado
+7. (CESPE/Auditor Governamental/CGE-PI/2015) De acordo com a Lei n.º 6.404/1976, julgue o próximo
+item, a respeito da elaboração e apresentação das principais demonstrações contábeis.
+A apresentação de demonstrações de mutações do patrimônio líquido é facultativa.
+Comentários
+Em que pese a Lei n. 6.404/76 não obrigar a divulgação da DMPL, tornando-a apenas facultativa, esse
+demonstrativo passou a ser obrigatório para as empresas de capital aberto por exigência da Comissão de
+Valores Mobiliários (Instrução CVM 59/1986).
+No entanto, com a publicação do CPC 26 - Apresentação das demonstrações contábeis, o entendimento atual
+é que a DMPL faz parte do conjunto completo de demonstrações contábeis. Logo, segundo o CPC e a doutrina
+é uma demonstração obrigatória para quase a totalidade das empresas.
+Observações:
+(i) Em se tratando de Pequenas e Médias Empresas (PME) que adotarem a NBC TG 1000 (Contabilidade para
+Pequenas e Médias Empresas), vale a faculdade prevista no item 3.18 da Resolução CFC n. 1.255/09 (NBC TG
+1000):
+Se as únicas alterações no patrimônio líquido durante os períodos para os quais as demonstrações contábeis
+são apresentadas derivarem do resultado, de distribuição de lucro, de correção de erros de períodos
+anteriores e de mudanças de políticas contábeis, a entidade pode apresentar uma única demonstração dos
+lucros ou prejuízos acumulados no lugar da demonstração do resultado abrangente e da demonstração das
+mutações do patrimônio líquido.
+(ii) Quanto às Microempresas e Empresas de Pequeno Porte (ME/EPP) que adotarem a ITG 1.000, a DMPL é
+facultativa.
+
+
+
+
+                                        Obrigatoriedade da DMPL
+Lei n. 6.404/76: Facultativa
+Instrução CVM 59/1986: Obrigatória para empresas de capital aberto
+CPC 26 (R1): Obrigatória
+NBC TG 1000 (PME): Em regra é obrigatória, porém pode ser substituída pela DLPA se as únicas alterações
+no patrimônio líquido durante os períodos para os quais as demonstrações contábeis são apresentadas
+derivarem do resultado, de distribuição de lucro, de correção de erros de períodos anteriores e de mudanças
+de políticas contábeis.
+ITG 1.000 (ME/EPP): Facultativa
+Gabarito: Certo
+8. (CESPE/Contador/SUFRAMA/2014) Acerca de demonstrações contábeis e seus componentes, julgue o
+próximo item.
+A emissão da demonstração das mutações do patrimônio líquido, da qual constam as ações em tesouraria,
+é obrigatória para as sociedades anônimas.
+Comentários
+Observe que nessa questão a banca não informa que devemos julgar o item segundo a Lei n. 6.404/76. Logo,
+deve prevalecer o entendimento geral de que a DMPL é obrigatória para as Sociedades Anônimas. Revise o
+quadro “Resumindo” destacado na questão anterior.
+Gabarito: Certo
+9. (CESPE/Analista Contábil/MEC/2014) A demonstração das mutações do patrimônio líquido permite
+identificar o fluxo de valores entre as contas componentes do patrimônio líquido, inclusive os resultados
+abrangentes, segregados em acionistas controladores e não controladores.
+Comentários
+Segundo o Manual de Contabilidade Societária (FIPECAFI), a DMPL é de muita utilidade, pois:
+(i) fornece a movimentação ocorrida durante o exercício nas diversas contas componentes do Patrimônio
+Liquido;
+(ii) faz clara indicação do fluxo de uma conta para outra e indica a origem e o valor de cada acréscimo ou
+diminuição no Patrimônio Líquido durante o exercício.
+(iii) indica claramente a formação e a utilização de todas as reservas, e
+não apenas das originadas por lucros;
+(iv) para as empresas que avaliam seus investimentos permanentes em coligadas e controladas pelo método
+da equivalência patrimonial, torna-se de muita utilidade receber dessas empresas investidas tal
+demonstração, para permitir adequado tratamento contábil das variações patrimoniais no exercício.
+A DMPL fornece a movimentação (fluxo de valores) ocorrida durante o exercício nas diversas contas
+componentes do Patrimônio Líquido. Segundo o CPC 26, a DMPL inclui o resultado abrangente do período,
+apresentando separadamente o montante total atribuível aos proprietários da entidade controladora e o
+montante correspondente à participação de não controladores.
+Gabarito: Certo
+10. (CESPE/Analista Legislativo/Consultor Legislativo/2014) Julgue o item a seguir, relativo aos
+fundamentos de contabilidade aplicados à contabilidade empresarial.
+A demonstração das mutações do patrimônio líquido tem a finalidade de apresentar, entre outros
+elementos, os efeitos das mudanças de práticas contábeis e as correções de erros reconhecidos no período.
+Comentários
+Segundo o CPC 26,
+
+      106B. O patrimônio líquido deve apresentar o capital social, as reservas de capital, os ajustes
+      de avaliação patrimonial, as reservas de lucros, as ações ou quotas em tesouraria, os prejuízos
+      acumulados, se legalmente admitidos os lucros acumulados e as demais contas exigidas pelos
+      Pronunciamentos Técnicos emitidos pelo CPC.
+      110. O item 106(b) requer a divulgação na demonstração das mutações do patrimônio líquido
+      do ajuste total para cada componente do patrimônio líquido resultante de alterações nas
+      políticas contábeis e, separadamente, de correções de erros. Esses ajustes devem ser divulgados
+      para cada período anterior e no início do período corrente.
+
+Além disso, veja o que dispõe o item 6.2 do CPC PME - Contabilidade para pequenas e médias empresas:
+
+      6.2 A demonstração das mutações do patrimônio líquido apresenta o resultado da entidade para
+      um período contábil, os itens de receita e despesa reconhecidos diretamente no patrimônio
+      líquido no período, os efeitos das mudanças de práticas contábeis e correção de erros
+     reconhecidos no período, os valores investidos pelos proprietários e os dividendos e outras
+     distribuições para os proprietários durante o período.
+
+Gabarito: Certo
+11. (CESPE/Contador/CADE/2014) Ao apresentar a demonstração das mutações do patrimônio líquido,
+uma entidade controlada deverá desmembrar, no resultado abrangente do período, o montante total
+atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não
+controladores.
+Comentários
+Segundo o CPC 26, a DMPL deverá indicar o resultado abrangente do período, apresentando separadamente
+o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à
+participação de não controladores.
+Gabarito: Certo
+12. (CESPE/Contador/MTE/2014) Considerando a legislação vigente e os pronunciamentos do Comitê de
+Pronunciamentos Contábeis, julgue o item que se segue, relativo aos procedimentos utilizados para a
+elaboração das demonstrações contábeis.
+A demonstração do resultado abrangente integra, obrigatoriamente, a demonstração das mutações do
+patrimônio líquido (DMPL).
+Comentários
+Não há obrigatoriedade de inclusão da DRA na DMPL. Inclusive há disposição expressa nesse sentido na NBC
+TG 21 (R1):
+8A. A demonstração do resultado abrangente pode ser apresentada como parte da demonstração das
+mutações do patrimônio líquido. Ver o Pronunciamento Técnico CPC 26 – Apresentação das Demonstrações
+Contábeis.
+Veja que é uma possibilidade e não um dever.
+Gabarito: Errado
+13. (CESPE/AUFC/TCU/2013) De acordo com a Lei n.º 6.404/1976, e alterações posteriores, julgue o item
+subsecutivo, referente à demonstração de lucros e prejuízos acumulados e à demonstração de mutações
+do patrimônio líquido.
+Quando a companhia elabora a demonstração das mutações do patrimônio líquido, fica dispensada de
+publicar separadamente a demonstração dos lucros e prejuízos acumulados.
+Comentários
+Segundo o art. 186, §2º,
+     § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do dividendo por
+     ação do capital social e poderá ser incluída na demonstração das mutações do patrimônio líquido,
+     se elaborada e publicada pela companhia."
+Portanto, se a empresa publicar a DMPL ficará dispensada da publicação da DLPA, tendo em vista que esta
+é uma coluna da DMPL.
+Gabarito: Certo
+14. (CESPE/Agente/DPF/2009) Constituem eventos que afetam o patrimônio líquido, como acréscimo ou
+redução, ajustes de exercícios anteriores, resultado líquido do exercício e resultado na venda de ações em
+tesouraria.
+Comentários
+Todos esses fatos afetam o patrimônio líquido como acréscimo ou redução a depender do fato contábil,
+senão vejamos:
+Ajustes de Exercícios Anteriores: alteram o saldo da conta “Lucros Acumulados” ou “Prejuízos Acumulados”.
+Referida conta registra o saldo decorrente de efeitos da mudança de critério contábil ou da retificação de
+erro imputável a determinado exercício anterior, e que não possam ser atribuídos a fatos subsequentes. Se
+o ajuste for credor afeta positivamente o PL. Caso contrário, negativamente.
+Resultado Líquido do Exercício: Se o resultado for positivo, temos lucro líquido, afetando positivamente o
+PL. Caso contrário, temos prejuízo líquido, afetando negativamente o PL.
+Resultado na venda de Ações em Tesouraria: Se o resultado for positivo, afeta positivamente o PL. Caso
+contrário, negativamente.
+Gabarito: Certo
+Considere que as informações acima tenham sido obtidas da demonstração das mutações do patrimônio
+líquido de uma empresa hipotética, referentes ao ano de 2009. Com base apenas nessas informações e sem
+considerar quaisquer outros efeitos fiscais, julgue os itens a seguir.
+15. (CESPE/Oficial Técnico de Inteligência/Ciências Contábeis/ABIN/2010) O saldo final da conta capital
+social aumentou R$ 400 mil em relação ao início do período.
+Efetuando os cálculos temos:
+                                                          R$ (mil)
+Capital Social Inicial                                    2.410
+(+) Aumento de Capital com Novas Integralizações          150
+(+) Aumento de Capital com Reservas de Capital            40
+(+) Aumento de Capital com Reservas de Lucros             210
+(=) Capital Social Final                                  2.810
+Logo, o capital social aumentou durante o período em R$ 400 mil.
+Gabarito: Certo
+16. (CESPE/Oficial Técnico de Inteligência/Ciências Contábeis/ABIN/2010) Os dividendos propostos
+reduzem o patrimônio líquido em R$ 180 mil.
+Comentários
+Os dividendos propostos afetam negativamente o PL, pois há uma redução no saldo da conta transitória
+“Lucros Acumulados” e um aumento na conta “Dividendos a Pagar”, pertencente ao passivo circulante.
+Assim, podemos afirmar que os dividendos propostos reduzem o PL em R$ 180 mil.
+Gabarito: Certo
+17. (CESPE/Oficial Técnico de Inteligência/Ciências Contábeis/ABIN/2010) O patrimônio líquido total
+aumentou R$ 300 mil em relação ao início do período.
+Identificando os Fatos Contábeis e a respectiva variação no PL, temos:
+
+                             Fato Contábil/Lançamento                       Variação no PL
+
+         Ações em tesouraria adquiridas
+         D – Ações em Tesouraria (-PL)                                           - 20
+         C – Caixa/Bancos (A)
+
+         Ações em tesouraria vendidas
+         D – Caixa/Bancos (A)                                                    + 60
+         C – Ações em Tesouraria (-PL)
+
+         Aumento do capital em novas integralizações
+         D – Caixa/Bancos (A)                                                   + 150
+         C – Capital Social (PL)
+        Aumento do capital com reservas de capital
+        D – Reservas de Capital (PL)                                        Não altera o PL
+        C – Capital Social (PL)
+
+        Aumento do capital com reservas de lucros
+        D – Reservas de Lucros (PL)                                         Não altera o PL
+        C – Capital Social (PL)
+
+        Constituição de reservas de lucros
+        D – Lucros Acumulados (PL)                                          Não altera o PL
+        C – Reserva de Lucros (PL)
+
+        Dividendos propostos no exercício
+        D – Lucros Acumulados (PL)                                               - 180
+        C – Dividendos a Pagar (P)
+
+        Gastos com emissão de ações
+        D – Gastos com Emissão de Ações (-PL)                                     -6
+        C – Caixa (A)
+
+        Perdas Não Realizadas em Instrumentos Financeiros
+        D – Ajustes de Avaliação Patrimonial (-PL)                               - 34
+        C – Instrumentos Financeiros (A)
+
+        Realização de Reserva de Reavaliação
+        D – Reserva de Reavaliação (PL)                                     Não altera o PL
+        C – Lucros Acumulados (PL)
+
+        Lucro Líquido do Exercício
+        D – Lucros Líquido do Exercício (Receita)                               + 330
+        C – Lucros Acumulados (PL)
+
+                                                                 Total          + 300
+
+Gabarito: Certo
+18. (CESPE/Consultor/Ciências Contábeis/SEFAZ-ES/2010) A DMPL evidencia informações sobre as
+movimentações ocorridas no patrimônio líquido das companhias. A respeito das informações evidenciáveis
+nessa demonstração, julgue o item subsequente.
+Acréscimos ou reduções ocorridos durante o exercício social nas contas reservas de lucros e reservas de
+capital são evidenciados nessa demonstração.
+Comentários
+Na DMPL são evidenciadas todas as alterações ocorridas em determinado período nas contas do PL. Logo,
+como as contas reservas de lucros e de capital integram o PL, seus acréscimos ou reduções ocorridos durante
+o exercício social são evidenciados nessa demonstração.
+Segundo o CPC 26 (R1),
+
+       "106A. Para cada componente do patrimônio líquido, a entidade deve apresentar, ou na
+       demonstração das mutações do patrimônio líquido ou nas notas explicativas, uma análise dos
+       outros resultados abrangentes por item.
+       106B. O patrimônio líquido deve apresentar o capital social, as reservas de capital, os ajustes de
+       avaliação patrimonial, as reservas de lucros, as ações ou quotas em tesouraria, os prejuízos
+       acumulados, se legalmente admitidos os lucros acumulados e as demais contas exigidas pelos
+       Pronunciamentos Técnicos emitidos pelo CPC."
+
+Gabarito: Certo
+19. (CESPE/Consultor/Ciências Contábeis/SEFAZ-ES/2010) A DMPL evidencia informações sobre as
+movimentações ocorridas no patrimônio líquido das companhias. A respeito das informações evidenciáveis
+nessa demonstração, julgue o item subsequente.
+É papel da DMPL evidenciar a proposta da administração de destinação do lucro, quando houver lucro no
+período.
+Comentários
+Segundo o art. 176, §3º,
+       As demonstrações financeiras registrarão a destinação dos lucros segundo a proposta dos órgãos da
+       administração, no pressuposto de sua aprovação pela assembleia-geral.
+Como a DMPL é uma demonstração financeira, deverá evidenciar a proposta da administração de destinação
+do lucro, quando houver lucro no período.
+Gabarito: Certo
+20. (CESPE/Consultor/Ciências Contábeis/SEFAZ-ES/2010) A DMPL evidencia informações sobre as
+movimentações ocorridas no patrimônio líquido das companhias. A respeito das informações evidenciáveis
+nessa demonstração, julgue o item subsequente.
+Por meio da DMPL é possível visualizar a movimentação relativa a um aumento de capital com a utilização
+de reservas, caso o aumento ocorra.
+Comentários
+A Demonstração das Mutações do Patrimônio Líquido (DMPL) discrimina:
+   ▪    Os saldos no início do período;
+   ▪    Os ajustes de exercícios anteriores;
+   ▪    As reversões e transferências de reservas e lucros;
+   ▪    Os aumentos de capital, discriminando sua natureza;
+   ▪    A redução de capital;
+   ▪    As destinações do lucro líquido do período;
+   ▪    As reavaliações de ativos e sua realização, líquida do efeito dos impostos correspondentes;
+   ▪    O resultado líquido do período;
+   ▪    As compensações de prejuízos;
+   ▪    Os lucros distribuídos;
+   ▪    Os saldos no final do período.
+Gabarito: Certo
+21. (FCC/Analista/Contabilidade/AL-SE/2018) Considere as seguintes informações sobre a Cia. Verde &
+Azul correspondentes ao ano de 2017:
+- A empresa apurou o lucro líquido de R$ 350.000,00.
+- Destinação do Lucro do Período:
+- Constituição de Reserva Legal no valor de R$ 15.000,00.
+- Constituição de Reserva de Incentivos Fiscais no valor de R$ 30.000,00.
+- Distribuição de Dividendos Obrigatórios no valor de R$ 105.000,00.
+- Foi realizado aumento do Capital Social no valor total de R$ 100.000,00, sendo R$ 40.000,00 com
+incorporação de Reservas de Lucros e R$ 60.000,00 com um terreno.
+- Aquisição de ações de emissão da própria Cia. Verde & Azul por R$ 80.000,00 à vista.
+Após o reconhecimento destas operações, a Demonstração das Mutações do Patrimônio Líquido (DMPL) de
+2017 evidenciou um aumento no Patrimônio Líquido da Cia. Verde & Azul no valor total de, em reais,
+a) 245.000,00.
+b) 345.000,00.
+c) 305.000,00.
+d) 385.000,00.
+e) 225.000,00.
+Comentários
+Identificando os fatos que alteram o PL, temos:
+Lucro líquido                                         350.000,00
+(-) Distribuição dividendos obrigatórios              (105.000,00)
+(+) Aumento do capital social com terreno              60.000,00
+(-) Aquisição de ações próprias                       (80.000,00)
+Total                                                 225.000,00
+Gabarito: E
+22. (FCC/Agente/Contabilidade/ARTESP/2017) Considere as seguintes operações ocorridas durante 2016
+na empresa Luz Brilhante S.A.:
+1. Apuração do resultado do período com a obtenção de Lucro Líquido no valor de R$ 300.000,00.
+2. Distribuição de dividendos no valor de R$ 75.000,00.
+3. Constituição de Reserva Legal no valor de R$ 10.000,00.
+4. Constituição de Reserva Estatutária no valor de R$ 30.000,00.
+5. Constituição de Reserva de Incentivos Fiscais no valor de R$ 15.000,00.
+6. Aumento de Capital Social no valor total de R$ 120.000,00, sendo R$ 50.000,00 com Reserva de Retenção
+e o restante com um equipamento.
+Após o reconhecimento dessas operações, a Demonstração das Mutações do Patrimônio Líquido (DMPL)
+evidenciou um aumento no Patrimônio Líquido inicial da empresa no valor total, em reais, de
+a) 300.000,00.
+b) 225.000,00.
+c) 345.000,00.
+d) 295.000,00.
+e) 240.000,00.
+Comentários
+Vamos analisar cada um dos fatos indicando o impacto no PL.
+1. Apuração do resultado do período com a obtenção de Lucro Líquido no valor de R$ 300.000,00.
+Aumento do PL (+) 300.000,00
+2. Distribuição de dividendos no valor de R$ 75.000,00.
+Diminui do PL (-) 75.000,00
+3. Constituição de Reserva Legal no valor de R$ 10.000,00.
+Trata-se de um fato permutativo. Não altera o PL.
+4. Constituição de Reserva Estatutária no valor de R$ 30.000,00.
+Trata-se de um fato permutativo. Não altera o PL.
+5. Constituição de Reserva de Incentivos Fiscais no valor de R$ 15.000,00.
+Trata-se de um fato permutativo. Não altera o PL.
+6. Aumento de Capital Social no valor total de R$ 120.000,00, sendo R$ 50.000,00 com Reserva de Retenção
+e o restante com um equipamento.
+O aumento do capital com reserva de retenção R$ 50.000,00 não altera o PL. Trata-se de um fato
+permutativo.
+O restante do aumento (70.000,00) com o equipamento impacta positivamente o PL.
+(+) 70.000,00
+Logo, a variação no PL foi de: 300.000,00 – 75.000,00 + 70.000,00 = 295.000,00
+Gabarito: D
+23. (FCC/Analista Judiciário/Contabilidade/TRT23/2016) Em relação a elaboração da Demonstração das
+Mutações do Patrimônio Líquido,
+a) a emissão de ações da empresa reflete sempre de forma diminutiva no Patrimônio Líquido.
+b) o pagamento de dividendos não provisionado reflete de forma aumentativa no Patrimônio Líquido.
+c) os ajustes de exercícios anteriores sempre refletem de forma aumentativa no Patrimônio Líquido.
+d) a capitalização de reservas não reflete no saldo final do Patrimônio Líquido.
+e) a absorção de prejuízos acumulados por reservas de lucros afeta de forma diminutiva no total do
+Patrimônio Líquido.
+Comentários
+Vamos analisar as opções.
+a. Errado. A emissão de ações, em regra, se reflete de forma positiva no PL.
+b. Errado. O pagamento de dividendos não provisionado reflete de forma diminutiva no Patrimônio Líquido.
+c. Errado. Os ajustes de exercícios anteriores refletem de forma aumentativa ou negativa no Patrimônio
+Líquido.
+d. Certo. A capitalização de reservas gera um fato permutativo. É algo bem comum no ambiente corporativo.
+Veja a notícia abaixo:
+
+                            Vale propõe capitalização de reservas de R$ 25 bilhões
+      SÃO PAULO - A Vale colocará à apreciação de seus acionistas um aumento do capital social da
+      ordem de R$ 25 bilhões, para R$ 75 bilhões. A operação se dará mediante capitalização de
+      reservas, sem a emissão de novas ações da mineradora.
+      A assembleia de acionistas que votará sobre o tema está marcada, já em segunda chamada,
+      para o dia 18 de maio, às 10h. O processo já passou pelos conselhos fiscal e de administração
+      da companhia.
+      A operação tem efeito apenas contábil, sem impacto econômico, tratando-se de uma
+      transferência dentro do patrimônio líquido. A ideia é fazer a capitalização do excesso das
+      reservas de lucro em relação ao capital social, que somou R$ 22,48 bilhões após a distribuição
+      do resultado de 2010.
+
+e. Errado. Trata-se de um fato permutativo. Não há impacto quantitativo no PL.
+Gabarito: D
+24. (FCC/Agente Fiscal de Rendas/SEFAZ-SP/2013) Considere as seguintes transações ocorridas durante o
+ano de 2012:
+I. Pagamento de dividendos distribuídos em 2011.
+II. Aumento de capital com bens do ativo imobilizado.
+III. Ágio na emissão de novas ações.
+IV. Recebimento de doações com obrigações futuras que serão cumpridas a partir de 2015.
+Afetaram a Demonstração das Mutações do Patrimônio Líquido, no exercício de 2012, as transações que
+constam em
+a) I e II, apenas.
+b) II e III, apenas.
+c) I e IV, apenas.
+d) I, II e III, apenas.
+e) I, II, III e IV.
+Comentários
+Muitas questões sobre a DMPL são resolvidas com o conhecimento dos fatos contábeis que alteram o PL.
+Antes de analisarmos os itens descritos na questão, vejamos mais uma vez os principais fatos contábeis que
+alteram o PL:
+Aumentam o PL
+     ▪    Lucro Líquido do Exercício;
+     ▪    Ajustes de Avaliação Patrimonial (credor);
+     ▪    Doações e subvenções para investimentos recebidos (após transito pelo resultado);
+     ▪    Subscrição e integralização de capital;
+     ▪    Recebimento de valor que exceda o valor nominal das ações integralizadas ou o preço de emissão
+          das ações sem valor nominal;
+     ▪    Valor da alienação de partes beneficiárias e bônus de subscrição;
+     ▪    Prêmio recebido na emissão de debêntures (após transito pelo resultado);
+     ▪    Venda de Ações em Tesouraria;
+     ▪    Ajuste de Exercícios Anteriores (credor);
+     ▪    Outros resultados abrangentes.
+Reduzem o PL
+     ▪    Prejuízo Líquido do Exercício;
+     ▪    Dividendos propostos (a distribuir);
+     ▪    Ações próprias adquiridas;
+     ▪    Gastos na emissão de ações
+     ▪    Ajuste de Exercícios Anteriores e de Avaliação Patrimonial (devedor);
+     ▪    Reversão da reserva de lucros a realizar para a conta de dividendos a pagar;
+     ▪    Outros Resultados abrangentes.
+Ademais, vale revisarmos os principais fatos contábeis que NÃO alteram o PL:
+     ▪    Aumento de capital com utilização de lucros e reservas;
+     ▪    Apropriações do lucro líquido do exercício reduzindo a conta Lucros Acumulados para formação de
+          reservas;
+     ▪    Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos acumulados (conta
+          transitória);
+     ▪    Compensação de Prejuízos com Reservas.
+Feita a revisão, passemos à análise dos itens:
+I. Pagamento de dividendos distribuídos em 2011.
+Observe que os dividendos já haviam sido distribuídos no ano anterior (2011), ou seja, não afeta o PL em
+2012. No pagamento dos dividendos, há a baixa da conta “Dividendos a Pagar” em contrapartida da conta
+“Caixa” ou “Bancos”, conforme lançamento abaixo:
+D – Dividendos a Pagar
+C – Caixa/Bancos
+Perceba que somente com esse conhecimento já “matamos” a questão, pois em todas as outras o item I é
+considerado como correto (afeta a DMPL). Resta a alternativa “B”, gabarito da questão.
+II. Aumento de capital com bens do ativo imobilizado.
+O aumento do capital com bens do ativo imobilizado afeta positivamente o PL.
+III. Ágio na emissão de novas ações.
+Esse fato contábil origina uma reserva de capital, ou seja, afeta positivamente o PL.
+IV. Recebimento de doações com obrigações futuras que serão cumpridas a partir de 2015.
+Esse fato contábil não afeta o PL, pois o bem doado é ativado (lançado no ativo) e, como há obrigações
+futuras, reconhecemos um passivo (Receita Diferida).
+Gabarito: B
+25. (FCC/Auditor/Contabilidade/TCE-RS/2014) Considere as seguintes transações realizadas pela Cia.
+Inglesa:
+I. Recebeu em doação um terreno com restrições a serem cumpridas.
+II. Emitiu novas ações com ágio.
+III. Reconheceu variação cambial de controladas no exterior.
+IV. Pagou dividendos anteriormente propostos e aprovados pela Cia.
+V. Apurou lucro líquido no período.
+VI. Aumentou o capital com Reservas de Lucros.
+As transações que alteram o valor do Patrimônio Líquido da Cia. Inglesa são APENAS
+a) II e V.
+b) I, III e VI.
+c) II, III, IV e V.
+d) I, II e IV.
+e) II, III e V.
+Comentários
+Vamos analisar cada uma das operações indicadas na questão:
+I. Recebeu em doação um terreno com restrições a serem cumpridas.
+Não altera o PL. Como há restrições a serem cumpridas em contrapartida do Ativo (terreno) deverá ser
+registrado um Passivo de igual valor. Somente após o cumprimento das restrições é que haverá, de fato,
+impacto no PL.
+II. Emitiu novas ações com ágio.
+Altera o PL. A emissão de novas ações com ágio gera um aumento do PL (constituição de reservas de capital).
+III. Reconheceu variação cambial de controladas no exterior.
+Altera o PL. Segundo o CPC 02 (R2),
+32. As variações cambiais advindas de itens monetários que fazem parte do investimento líquido em entidade
+no exterior da entidade que reporta a informação devem ser reconhecidas no resultado nas demonstrações
+contábeis separadas da entidade que reporta a informação ou nas demonstrações contábeis individuais da
+entidade no exterior, conforme apropriado. Nas demonstrações contábeis que incluem a entidade no exterior
+e a entidade que reporta a informação (por exemplo: demonstrações contábeis individuais com avaliação das
+investidas por equivalência patrimonial, ou demonstrações contábeis consolidadas quando a entidade no
+exterior é uma controlada), tais variações cambiais devem ser reconhecidas, inicialmente, em outros
+resultados abrangentes em conta específica do patrimônio líquido, e devem ser transferidas do patrimônio
+líquido para a demonstração do resultado quando da baixa do investimento líquido.
+IV. Pagou dividendos anteriormente propostos e aprovados pela Cia.
+Não altera o PL. Como os dividendos já haviam sido propostos, não há alteração no PL. Referido fato vai
+diminuir o passivo (conta dividendos a pagar).
+V. Apurou lucro líquido no período.
+Altera o PL. A apuração do resultado positivo (lucro) é transferido para o PL, afetando-o positivamente.
+VI. Aumentou o capital com Reservas de Lucros.
+Não altera o PL. Trata-se de um fato permutativo dentro do PL. O recurso sai das reservas de lucros e entra
+no capital social.
+Gabarito: E
+26. (FCC/Agente de Defensoria Pública/Contador/DPE-SP/2013) Considere as informações extraídas da
+Demonstração das Mutações do Patrimônio Líquido da empresa WZ referente ao exercício financeiro de
+X1:
+           Descrição                                                   R$ (mil)
+AUMENTO DE CAPITAL SOCIAL
+Com Lucros e Reservas ................................................. 25.000
+Por subscrição realizada ................................................. 20.000
+REVERSÃO DE RESERVAS
+De Contingências ............................................................ 2.000
+AJUSTE DE AVALIAÇÃO PATRIMONIAL (credora) .........3.000
+LUCRO LÍQUIDO DO EXERCÍCIO ................................... 15.000
+PROPOSTA DA ADMINISTRAÇÃO PARA DISTRIBUIÇÃO DO LUCRO:
+Transferências para reservas
+Reserva Legal ................................................................... 750
+Reserva de Incentivos Fiscais ........................................... 4.250
+Reserva de Lucros a Realizar ............................................ 1.000
+Dividendos propostos ..................................................... 11.000
+Com base nessas informações, é correto afirmar que a variação no saldo do Patrimônio Líquido foi, em
+milhares de reais,
+a) 21.000.
+b) 24.000.
+c) 27.000.
+d) 29.000.
+e) 52.000.
+Comentários
+Pessoal, essa é uma típica questão de DMPL que vem sendo exigida em provas. A máscara da questão
+costuma ser a mesma, mudando apenas algumas informações e valores de uma prova para outra. Para
+resolver esse tipo de questão podemos dividir em três passos, conforme descrito a seguir:
+Passo 1 – Identificar os itens que afetam o PL
+Para facilitar essa identificação, basta observarmos os fatos contábeis que envolvem uma conta do PL e uma
+conta de outro grupo do balanço patrimonial (ativo ou passivo). Lembrando que como o PL possui natureza
+credora, aumentará por crédito e diminuirá por débito. Assim, vejamos os itens descritos na questão que
+afetam o PL:
+Aumento do Capital Social por subscrição realizada + 20.000
+Ajuste de Avaliação Patrimonial (Credora)                              + 3.000
+Lucro Líquido do Exercício                                             + 15.000
+Dividendos propostos                                                   - 11.000
+Passo 2 – Identificar os itens que não afetam o PL
+Aumento do Capital Social com Lucros e Reservas 25.000
+Reversão de reservas de Contingências                                  2.000
+Transferências para Reserva Legal                                      750
+Transferências para Reserva de Incentivos Fiscais 4.250
+Transferências para Reserva de Lucros a Realizar                       1.000
+Passo 3 – Efetuar o cálculo da variação do saldo do PL
+Variação do PL = + 20.000 + 3.000 + 15.000 - 11.000 = + 27.000
+Agora que vocês visualizaram a resolução completa, observe que na hora da prova podemos cortar o passo
+2, bastando identificarmos os itens que afetam o PL (passo 1) e efetuar o cálculo (passo 3). Na próxima
+questão vamos treinar isso.
+Gabarito: C
+27. (FCC/Analista Judiciário/TRE-PR/2012) Considere os dados extraídos da Demonstração das Mutações
+do Patrimônio Líquido da empresa Zaraca referente ao exercício financeiro de X1:
+          Descrição                                                              R$ (mil)
+AUMENTO DE CAPITAL SOCIAL
+Com Lucros e Reservas ...................................................... 25.000,00
+Por subscrição realizada...................................................... 18.000,00
+REVERSÃO DE RESERVAS
+De Contingência................................................................... 2.000,00
+AQUISIÇÃO DE AÇÕES ......................................................... (300,00)
+AJUSTE DE AVALIAÇÃO PATRIMONIAL .................................... 1.500,00
+LUCRO LÍQUIDO DO EXERCÍCIO............................................. 8.000,00
+PROPOSTA DA ADMINISTRAÇÃO DE DESTINAÇÃO DO LUCRO:
+Transferências para reservas
+Reserva Legal ........................................................................ 400,00
+Reserva Estatutária ............................................................. 3.800,00
+Reserva de Lucros a Realizar.................................................... 600,00
+Dividendos a distribuir.......................................................... 5.200,00
+A variação no total do Patrimônio Líquido da empresa Zaraca foi, em milhares de reais,
+a) 20.500,00.
+b) 22.000,00.
+c) 22.300,00.
+d) 27.200,00.
+e) 44.200,00.
+Comentários
+E aí, pessoal, viram que a máscara é a mesma? Vamos identificar os itens que afetam o PL e efetuar o cálculo
+da variação.
+Aumento do Capital Social por subscrição realizada                                         + 18.000
+Aquisição de ações                                                                         - 300
+Ajuste de Avaliação Patrimonial                                                            + 1.500
+Lucro Líquido do Exercício                                                                  + 8.000
+Dividendos a distribuir                                                                    - 5.200
+Variação do PL = + 18.000 – 300 + 1.500 + 8.000 - 5.200 = + 22.000
+Gabarito: B
+28. (FCC/Auditor Fiscal de Tributos Estaduais/SEFIN-RO/2010) Considere os dados extraídos da
+Demonstração das Mutações do Patrimônio Líquido da empresa A referentes ao exercício financeiro de
+X1:
+           Descrição                                                           R$ (mil)
+AUMENTO DE CAPITAL SOCIAL
+  Com Lucros e Reservas.................................................... 13.000,00
+  Por subscrição realizada................................................... 17.000,00
+REVERSÃO DE RESERVAS
+  De Contingências ............................................................. 3.000,00
+  De Lucros a Realizar ........................................................ 1.080,00
+AQUISIÇÃO DE AÇÕES............................................................. 280,00
+LUCRO LÍQUIDO DO EXERCÍCIO .......................................... 14.000,00
+PROPOSTA DA ADMINISTRAÇÃO DE DESTINAÇÃO DO LUCRO:
+Transferências para reservas
+  Reserva Legal .................................................................... 700,00
+  Reserva Estatutária .......................................................... 5.150,00
+  Reserva de Lucros a Realizar................................................ 150,00
+Distribuição de Dividendos .................................................. 12.080,00
+A variação no total do Patrimônio Líquido foi, em milhares de reais,
+a) 18.640,00
+b) 18.920,00
+c) 30.720,00
+d) 32.640,00
+e) 66.440,00
+Comentários
+Mais uma igual!
+Aumento do Capital Social por subscrição realizada                             + 17.000
+Aquisição de ações                                                             - 280
+Lucro Líquido do Exercício                                                     + 14.000
+Dividendos a distribuir                                                        - 12.080
+Variação do PL = + 17.000 – 280 + 14.000 – 12.080 = + 18.640
+Atenção: nessa questão a banca considerou que a reversão da reserva de lucros a realizar não impactou o
+PL. Porém, o entendimento mais adequado, baseado na doutrina majoritária, é de que a reversão da reserva
+de lucros a realizar impacta negativamente o PL.
+Gabarito: A
+29. (FCC/Analista Judiciário/Contabilidade/TRT20/2011) Com relação à Demonstração das Mutações do
+Patrimônio Líquido (DMPL) pode-se afirmar que
+a) esta demonstração é de apresentação obrigatória de acordo com as normas emanadas pela Lei das
+Sociedades por Ações.
+b) nela são evidenciadas todas as alterações ocorridas no Patrimônio Líquido da entidade e o Resultado
+Abrangente total do período, segregando-se o montante total atribuível aos controladores e o montante
+correspondente à participação de não controladores.
+c) a DMPL deve evidenciar somente as alterações ocorridas no Patrimônio Líquido relativas à parte do
+acionista controlador.
+d) as empresas de capital aberto estão desobrigadas de apresentar a DMPL se divulgarem em notas
+explicativas a apuração do Resultado Abrangente.
+e) as pequenas e médias empresas estão totalmente desobrigadas da apresentação desta demonstração,
+sendo a mesma, substituída integralmente pela Demonstração de Lucros/Prejuízos Acumulados.
+Comentários
+a. Errada. De acordo com a Lei das Sociedades Anônimas, a DMPL não é obrigatória.
+b. Certo. Segundo o CPC 26 (R1),
+
+     106. A entidade deve apresentar a demonstração das mutações do patrimônio líquido
+     conforme requerido no item 10. A demonstração das mutações do patrimônio líquido inclui as
+     seguintes informações:
+     (a) o resultado abrangente do período, apresentando separadamente o montante total atribuível
+     aos proprietários da entidade controladora e o montante correspondente à participação de não
+     controladores;
+     (b) para cada componente do patrimônio líquido, os efeitos da aplicação retrospectiva ou da
+     reapresentação retrospectiva, reconhecidos de acordo com o Pronunciamento Técnico CPC 23
+     – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro;
+     (c) [eliminado];
+     (d) para cada componente do patrimônio líquido, a conciliação do saldo no início e no final do
+     período, demonstrando-se separadamente as mutações decorrentes:
+     (i) do resultado líquido;
+     (ii) de cada item dos outros resultados abrangentes; e
+     (iii) de transações com os proprietários realizadas na condição de proprietário, demonstrando
+     separadamente suas integralizações e as distribuições realizadas, bem como modificações nas
+     participações em controladas que não implicaram perda do controle.
+
+c. Errado. Conforme vimos no comentário da alternativa anterior, a DMPL deve evidenciar tanto as
+alterações do PL relativas à parte do acionista controlador, como dos não controladores.
+d. Errado. Não existe previsão legal ou normativa nesse sentido. Portanto, o item está errado.
+e. Errado. A DMPL é obrigatória para as pequenas e médias empresas. Segundo a Resolução CFC n. 1.255/09,
+     Se as únicas alterações no patrimônio líquido durante os períodos para os quais as demonstrações
+     contábeis são apresentadas derivarem do resultado, de distribuição de lucro, de correção de erros de
+     períodos anteriores e de mudanças de políticas contábeis, a entidade pode apresentar uma única
+     demonstração dos lucros ou prejuízos acumulados no lugar da demonstração do resultado abrangente
+     e da demonstração das mutações do patrimônio líquido.
+Assim, temos:
+Regra: DMPL é obrigatória para as Pequenas e Médias Empresas.
+Exceção: Se as únicas alterações do PL derivarem do resultado, de distribuição de lucro, de correção de erros
+de períodos anteriores e de mudanças de políticas contábeis, a entidade pode apresentar somente a DLPA.
+Gabarito: B
+30. (FCC/Analista Judiciário/Contabilidade/TRE-RN/2011) Foram extraídas as seguintes informações da
+Demonstração das Mutações do Patrimônio Líquido da Cia. Delta relativa ao exercício encerrado em
+31/12/2009, em R$:
+Ajustes negativos de exercícios anteriores                               25.000,00
+Aumento de capital integralizado em bens                                  130.000,00
+Lucro líquido de 2009                                                     638.000,00
+Acréscimo à reserva legal no exercício                                    31.900,00
+Acréscimo à reserva estatutária                                           102.100,00
+Constituição da reserva de lucros a realizar                              152.700,00
+Constituição da reserva para contingências                                178.400,00
+Constituição de reserva de planos para investimentos                      195.300,00
+Constituição de ajustes positivos de avaliação patrimonial                59.600,00
+Realização da reserva de reavaliação constituída antes de 31/12/2007     22.400,00
+Dividendos Propostos                                                      107.500,00
+Considerando-se apenas essas informações e sabendo-se que a contrapartida credora da realização da
+reserva de reavaliação foi a conta Lucros ou Prejuízos Acumulados, o patrimônio líquido da entidade em
+31/12/2009, relativamente ao existente em 31/12/2008, aumentou, em R$,
+a) 117.700,00.
+b) 57.100,00.
+c) 695.100,00.
+d) 802.600,00.
+e) 638.000,00.
+Comentários
+Para chegarmos ao gabarito temos que identificar os fatos que afetam o PL. Assim, temos:
+Aumento do PL
+Aumento de capital integralizado em bens                          130.000,00
+Lucro líquido de 2009                                             638.000,00
+Constituição de ajustes positivos de avaliação patrimonial        59.600,00
+Diminuição do PL
+Ajustes negativos de exercícios anteriores                        25.000,00
+Dividendos Propostos                                             107.500,00
+Os demais fatos apresentados pela questão não alteram o PL, pois são permutativos.
+Efetuando o cálculo da variação do PL, temos:
+130.000 + 638.000 + 59.600 - 25.000 - 107.500 = 695.100,00
+Gabarito: C
+31. (FCC/Auditor/TCE-SP/2008) Na Demonstração das Mutações do Patrimônio Líquido, não afetam o
+valor total do patrimônio
+a) o reconhecimento de ajustes de exercícios anteriores.
+b) o valor relativo aos dividendos distribuídos no período.
+c) as reversões de reservas patrimoniais para a conta de resultado.
+d) o reconhecimento das doações e subvenções recebidas.
+e) o registro de prêmio recebido na emissão de debêntures.
+Comentários
+Para fixar!
+Fatos Contábeis que alteram o PL
+Aumentam o PL
+   ▪   Lucro Líquido do Exercício;
+   ▪   Ajustes de Avaliação Patrimonial (credor);
+   ▪   Doações e subvenções para investimentos recebidos;
+   ▪   Subscrição e integralização de capital;
+   ▪   Recebimento de valor que exceda o valor nominal das ações integralizadas ou o preço de emissão
+       das ações sem valor nominal;
+   ▪   Valor da alienação de partes beneficiárias e bônus de subscrição;
+   ▪   Prêmio recebido na emissão de debêntures;
+   ▪   Ajuste de Exercícios Anteriores (credor).
+Reduzem o PL
+   ▪   Prejuízo Líquido do Exercício;
+   ▪   Dividendos propostos (a distribuir);
+   ▪   Ações próprias adquiridas;
+   ▪   Ajuste de Exercícios Anteriores e de Avaliação Patrimonial (devedor).
+Fatos Contábeis que NÃO alteram o PL
+   ▪   Aumento de capital com utilização de lucros e reservas;
+   ▪   Apropriações do lucro líquido do exercício reduzindo a conta Lucros Acumulados para formação de
+       reservas;
+   ▪   Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos acumulados;
+   ▪   Compensação de Prejuízos com Reservas.
+Gabarito: C
+32. (FCC/Auditor/TCE-MG/2005) A movimentação ocorrida nas contas de reservas de lucros em um
+determinado período é evidenciada
+a) no Balanço Patrimonial.
+b) na Demonstração do Valor Agregado.
+c) na Demonstração dos Lucros e Prejuízos Acumulados.
+d) na Demonstração das Mutações do Patrimônio Líquido.
+e) na Demonstração das Origens e Aplicações de Recursos.
+Comentários
+A Demonstração das Mutações do Patrimônio Líquido evidencia as mudanças qualitativas e quantitativas
+ocorridas no patrimônio líquido da entidade. Assim, a movimentação ocorrida nas contas de reservas de
+lucros em um determinado período é evidenciada na DMPL.
+A DLPA evidencia apenas a movimentação nas contas lucros acumulados e prejuízos acumulados. Assim, não
+evidencia a movimentação das reservas de lucros.
+Gabarito: D
+33. (FCC/Analista/Ciências Contábeis/Metrô-SP/2008) Dados extraídos da
+Demonstração de Mutações do Patrimônio Líquido da Cia. Penedo, relativas ao exercício encerrado em 31-
+12-2007:
+Valor do patrimônio líquido em 31-12-2005                580.000,00
+Valor do patrimônio líquido em 31-12-2006                950.000,00
+Ajuste positivo (credor) de exercícios anteriores        30.000,00
+Dividendos propostos aos acionistas em 31-12-2006        140.000,00
+Constituição da reserva legal em 2006                    18.000,00
+Aumento de capital em dinheiro                           120.000,00
+Constituição da reserva estatutária em 2006              36.000,00
+Considerando apenas estas informações, é possível concluir que o lucro líquido do exercício auferido pela
+companhia em 2007 correspondeu, em R$, a
+a) 414.000,00.
+b) 390.000,00.
+c) 384.000,00.
+d) 360.000,00.
+e) 330.000,00.
+Comentários
+Podemos resolver essa questão utilizando a equação: saldo inicial + entradas – saídas = saldo final.
+Saldo Inicial
+Valor do patrimônio líquido em 31-12-2005                  580.000,00
+Entradas
+Ajuste positivo (credor) de exercícios anteriores          30.000,00
+Aumento do capital em dinheiro                             120.000,00
+Lucro Líquido
+X
+Saídas
+Dividendos propostos aos acionistas em 31-12-2006          140.000,00
+Saldo Final
+Valor do patrimônio líquido em 31-12-2006                  950.000,00
+Aplicando a equação temos:
+580.000 + 30.000 + 120.000 + X – 140.000 = 950.000
+X (Lucro Líquido) = 360.000,00
+Gabarito: D
+34. (FCC/Analista/Ciências Contábeis/Metrô/2010) Os seguintes dados foram extraídos da Demonstração
+das Mutações do Patrimônio Líquido da Cia. Delta (em R$):
+Aumento de Capital em Dinheiro                             185.000,00
+Aquisição de Ações da Própria Cia. (Ações em Tesouraria) 25.000,00
+Dividendos Propostos pela Administração                    87.000,00
+Aumento de Capital com Integralização de Reservas          115.000,00
+Constituição da Reserva Legal                              10.400,00
+Lucro Líquido do Exercício                                 208.000,00
+Reversão da Reserva de Contingências                       15.300,00
+Constituição da Reserva Estatutária                        26.000,00
+Constituição da Reserva Ágio na emissão de ações           15.000,00
+Utilizando apenas essas informações, é correto afirmar que o Patrimônio Líquido da companhia aumentou
+nesse exercício o equivalente, em R$, a
+a) 296.000,00.
+b) 185.700,00.
+c) 208.000,00.
+d) 281.000,00.
+e) 281.900,00.
+Comentários
+Para chegarmos ao gabarito temos que identificar os fatos que afetam o PL. Assim, temos:
+Aumento do PL
+Aumento de Capital em Dinheiro                                    185.000,00
+Lucro Líquido do Exercício                                        208.000,00
+Constituição da Reserva Ágio na emissão de ações                  15.000,00
+Diminuição do PL
+Aquisição de Ações da Própria Cia. (Ações em Tesouraria)          25.000,00
+Dividendos Propostos pela Administração                           87.000,00
+Os demais fatos apresentados pela questão não alteram o PL, pois são permutativos.
+Efetuando o cálculo da variação do PL, temos:
+185.000 + 208.000 + 15.000 - 25.000 - 87.000 = 296.000,00
+Gabarito: A
+35. (FGV/Contador/SEDUC-AM/2014) Entre as variações das contas que formam o Patrimônio Líquido
+temos os itens que afetam o total do patrimônio e os itens que não afetam o total do patrimônio.
+Assinale a opção que apresenta um exemplo de item que não afeta o patrimônio total.
+a) Reconhecimento da alienação de partes beneficiárias e bônus de subscrição.
+b) Emissão de ações por um valor superior ao nominal.
+c) Compra de ações próprias.
+d) Reversão da reserva de lucros a realizar para a conta de dividendos a pagar.
+e) Compensação de prejuízo com reservas.
+Comentários
+Vamos analisar as opções.
+a. Errado. No reconhecimento da alienação de partes beneficiárias e bônus de subscrição há um aumento
+do PL, mais especificamente das reservas de capital.
+b. Errado. Na emissão de ações por um valor superior ao nominal temos um ágio que aumentará o PL. Esse
+ágio na emissão de ações é reconhecido como uma reserva de capital.
+c. Errado. Na compra de ações próprias há um reflexo negativo no PL, ou seja, o PL diminui. Lembre-se que
+as compras de ações próprias são classificadas na conta “Ações em Tesouraria”, retificadora do PL.
+d. Errado. Na reversão da reserva de lucros a realizar para a conta de dividendos a pagar ocorre uma
+diminuição do PL e um aumento do passivo exigível.
+e. Certo. A compensação de prejuízos com reservas é um mero fato permutativo entre contas do PL, ou seja,
+não há alteração quantitativa do PL (não afeta o total do PL), mas somente uma alteração qualitativa.
+Gabarito: E
+36. (FGV/Contador/BADESC/2010) Assinale a alternativa que indique a demonstração contábil que
+fornece a movimentação ocorrida durante o exercício nas contas do Patrimônio Líquido.
+a) Demonstração das mutações do patrimônio líquido.
+b) Balanço patrimonial.
+c) Demonstração de lucros ou prejuízos acumulados.
+d) Demonstração dos fluxos de caixa.
+e) Demonstração do valor adicionado.
+Comentários
+Questão bem simples. Conforme estudamos, a Demonstração das Mutações do Patrimônio Líquido evidencia
+as mudanças qualitativas e quantitativas ocorridas no patrimônio líquido da entidade.
+Gabarito: A
+37. (FBC/Exame de Suficiência CFC/Bacharel/2014.1) Considere os dados extraídos da Demonstração das
+Mutações do Patrimônio Líquido de uma empresa, referentes ao exercício de 2013.
+- Aumento de Capital Social com Reservas R$45.500,00
+- Aumento de Capital Social por Integralização R$59.500,00
+- Reversão de Reservas de Contingências R$10.500,00
+- Reversão de Reservas de Lucros a Realizar R$3.780,00
+- Aquisição de ações da própria empresa R$980,00
+- Lucro Líquido do Exercício R$49.000,00
+Proposta da administração de destinação do lucro:
+Transferências para reservas:
+- Reserva Legal R$2.450,00
+- Reserva Estatutária R$18.025,00
+- Reserva de Lucros a Realizar R$525,00
+- Distribuição de Dividendos Obrigatórios R$42.280,00
+A variação total do Patrimônio Líquido é de:
+a) R$53.760,00 negativa.
+b) R$53.760,00 positiva.
+c) R$65.240,00 negativa.
+d) R$65.240,00 positiva.
+Comentários
+Nesse tipo de questão não precisamos elaborar a DMPL. O mais fácil é identificar o que cada fato descrito na
+questão reflete no PL. Vejamos cada um dos fatos:
+Aumento de Capital Social com Reservas R$45.500,00
+Trata-se de um fato permutativo e, portanto, não modifica a situação do PL. Nesse fato temos um aumento
+do Capital Social (+PL) e uma diminuição de reservas (-PL)
+Aumento de Capital Social por Integralização R$59.500,00
+Nesse fato temos um aumento do PL no valor de R$ 59.500,00.
+Reversão de Reservas de Contingências R$10.500,00
+Trata-se de um fato permutativo e, portanto, não modifica a situação do PL. Há diminuição da reserva de
+contingências (-PL) e aumento da conta lucros acumulados (+PL).
+Reversão de Reservas de Lucros a Realizar R$3.780,00
+Trata-se de um fato permutativo e, portanto, não modifica a situação do PL. Há diminuição da reserva de
+lucros a realizar (-PL) e aumento da conta lucros acumulados (+PL).
+Aquisição de ações da própria empresa R$980,00.
+Nesse fato temos uma diminuição do PL no valor de R$ 980,00, pois a conta “ações em tesouraria” é
+retificadora do PL.
+Lucro Líquido do Exercício R$49.000,00
+O lucro líquido aumenta o valor do PL. Temos, portanto, um aumento do PL no valor de R$ 49.000,00.
+Na destinação do lucro as transferências para reservas são fatos permutativos e, portanto, não afetam o PL.
+Já a distribuição de dividendos diminui o PL. Assim, temos uma diminuição do PL no valor de R$ 42.280,00.
+Logo, a variação do PL fica:
+59.500,00 – 980,00 + 49.000,00 – 42.280,00 = 65.240,00 (positivo)
+Gabarito: D
+38. (FBC/Exame de Suficiência CFC/Bacharel/2013.2) Uma sociedade apresentou os seguintes dados
+extraídos do Balanço Patrimonial, apresentado no conjunto de suas demonstrações contábeis do ano de
+2012, e da movimentação contábil do Patrimônio Líquido no período, expressos em milhares de reais:
+Com base nos dados apresentados, considerando que a única Reserva de
+Lucro constituída é a Reserva Legal, a Demonstração das Mutações do Patrimônio Líquido, em milhares de
+reais, para o ano de 2012, será:
+a) Demonstração da Mutação do Patrimônio Líquido
+
+
+
+
+b) Demonstração da Mutação do Patrimônio Líquido
+
+
+
+
+c) Demonstração da Mutação do Patrimônio Líquido
+
+
+
+
+d) Demonstração da Mutação do Patrimônio Líquido
+Comentários
+Pessoal, essa questão exige do candidato o simples conhecimento do que deve ser evidenciado na DMPL.
+Mais uma vez não precisamos elaborar a DMPL. Basta analisarmos cada uma das Demonstrações expostas
+nas alternativas e verificar se todas as informações apresentadas no comando da questão que devem constar
+da DMPL estão evidenciadas. Vamos, portanto, analisar cada uma das demonstrações, identificando os erros.
+a. Certa. A DMPL exposta está perfeita. Lembre-se que a DMPL deve demonstrar de forma segregada todas
+as mutações decorrentes do resultado líquido e de cada item dos outros resultados abrangentes de
+transações com os proprietários. Todas as informações estão evidenciadas na DMPL corretamente.
+b. Errada. Observe que na DMPL apresentada nessa alternativa não há a evidenciação do resultado do
+período (R$ 900.000,00) e nem a contrapartida da Reserva de Lucros (Reserva Legal de R$ 40.000,00) que
+deverá ser evidenciada na coluna referente a conta Lucros Acumulados.
+c. Errada. O erro da DMPL exposta nessa alternativa está em evidenciar o Ganho em Instrumento Financeiro
+disponível para venda na coluna referente a conta Lucros Acumulados. Esse ajuste deve ser evidenciado na
+coluna referente à conta Ajuste de Avaliação Patrimonial.
+d. Errada. A Constituição da Reserva Legal deverá ser demonstrada na coluna de Reservas de Lucros e deverá
+ter como contrapartida a conta Lucros Acumulados e não “Ajuste de Avaliação Patrimonial”. Esse é o erro de
+evidenciação da DMPL exposta nessa alternativa.
+Gabarito: A
+39. (FBC/Exame de Suficiência CFC/Bacharel/2012.2) Com relação ao que determina a NBC TG 26 –
+Apresentação das Demonstrações Contábeis, no tocante à informação a ser apresentada na Demonstração
+das Mutações do Patrimônio Líquido (DMPL) ou nas Notas Explicativas, julgue os itens abaixo e, em
+seguida, assinale a opção CORRETA.
+I. Para cada componente do patrimônio líquido, a entidade deve apresentar, ou na demonstração das
+mutações do patrimônio líquido ou nas notas explicativas, uma análise dos outros resultados abrangentes
+por item.
+II. O patrimônio líquido deve apresentar o capital social, as reservas de capital, os ajustes de avaliação
+patrimonial, as reservas de lucros, as ações ou quotas em tesouraria, os prejuízos acumulados, se legalmente
+admitidos os lucros acumulados e as demais contas exigidas pelas normas emitidas pelo Conselho Federal
+de Contabilidade.
+III. A entidade deve apresentar na demonstração das mutações do patrimônio líquido, ou nas notas
+explicativas, o montante de dividendos reconhecidos como distribuição aos proprietários durante o período
+e o respectivo montante por ação.
+Está(ão) CORRETO(S) o(s) item(ns):
+a) I e II, apenas.
+b) I, apenas.
+c) I, II e III.
+d) II e III, apenas.
+Comentários
+Vamos analisar cada um dos itens.
+Item I – Certo. Segundo a NBC TG 26 (R2),
+     106A. Para cada componente do patrimônio líquido, a entidade deve apresentar, ou na
+     demonstração das mutações do patrimônio líquido ou nas notas explicativas, uma análise dos
+     outros resultados abrangentes por item.
+
+Item II – Certo. Segundo a NBC TG 26 (R2),
+
+     106B. O patrimônio líquido deve apresentar o capital social, as reservas de capital, os ajustes
+     de avaliação patrimonial, as reservas de lucros, as ações ou quotas em tesouraria, os prejuízos
+     acumulados, se legalmente admitidos os lucros acumulados e as demais contas exigidas pelas
+     normas emitidas pelo CFC.
+
+Item III – Certo. Segundo a NBC TG 26 (R2),
+
+     107.    A entidade deve apresentar na demonstração das mutações do patrimônio líquido, ou
+     nas notas explicativas, o montante de dividendos reconhecidos como distribuição aos
+     proprietários durante o período e o respectivo montante por ação.
+
+Gabarito: C
+40. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) Uma sociedade empresária, cujo Patrimônio Líquido
+no início do período somava R$100.000,00, apresentou, no ano de 2011, as seguintes mutações em seu
+Patrimônio Líquido:
+Lucro Líquido do Período R$20.000,00
+Destinação do lucro para reservas R$15.000,00
+Destinação do lucro para dividendos obrigatórios R$5.000,00
+Aquisição de ações da própria companhia R$2.000,00
+Integralização de Capital em dinheiro R$9.000,00
+Incorporação de Reservas ao Capital R$4.000,00
+Em 31.12.2011, o saldo do Patrimônio Líquido será:
+a) R$108.000,00.
+b) R$118.000,00.
+c) R$122.000,00.
+d) R$124.000,00.
+Comentários
+Para resolver esse tipo de questão basta identificarmos o reflexo de cada fato no PL.
+Na hora da prova você pode fazer algo semelhante à resolução abaixo:
+Lucro Líquido do Período R$20.000,00 (+ 20)
+Destinação do lucro para reservas R$15.000,00 Não Altera o PL
+Destinação do lucro para dividendos obrigatórios R$5.000,00 (- 5)
+Aquisição de ações da própria companhia R$2.000,00 (- 2)
+Integralização de Capital em dinheiro R$9.000,00 (+ 9)
+Incorporação de Reservas ao Capital R$4.000,00 Não Altera o PL
+Logo, temos: + 20 - 5 – 2 + 9 = +22 + 100 (saldo inicial) = + 122
+Veja que assim ganhamos tempo. Dá para resolvermos a questão em 30 segundos! Claro que, para tanto,
+deve estar bem sedimentado em seu estudo como cada fato reflete no PL. Mas, isso você vai estar
+dominando ao final dessa aula.
+Gabarito: C
+41. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) A movimentação ocorrida nas contas de Reservas de
+Lucros em um determinado período é evidenciada na seguinte demonstração contábil:
+a) Balanço Patrimonial
+b) Demonstração das Mutações do Patrimônio Líquido
+c) Demonstração dos Fluxos de Caixa
+d) Demonstração dos Lucros ou Prejuízos Acumulados
+Comentários
+Essa e da série “nunca foi tão fácil ser feliz!”. Conforme estudamos, a movimentação ocorrida nas contas de
+Reservas de Lucros em um determinado período é evidenciada na Demonstração das Mutações do
+Patrimônio Líquido.
+Gabarito: B
+42. (FUNIVERSA/Auditor de Controle Interno/SEAP-DF/2014) Na elaboração da demonstração das
+mutações do patrimônio líquido, constitui variação que não afeta o total do patrimônio
+a) reversão da Reserva de Lucros a Realizar para Dividendos a Pagar.
+b) subvenção para Investimento após trânsito pelo resultado.
+c) ajuste de exercício anterior por mero efeito de mudança de critério contábil.
+d) reversão da reserva patrimonial para Lucros ou Prejuízos Acumulados.
+e) venda das próprias ações, anteriormente, em tesouraria.
+Comentários
+Vamos analisar as alternativas:
+a. Errado. Nesse fato temos uma saída do PL (diminuição nas reservas de lucros) e um aumento de uma
+obrigação no passivo (dividendos a pagar). Assim, referido fato afeta o total do patrimônio.
+b. Errado. Subvenção governamental é uma assistência governamental geralmente na forma de contribuição
+de natureza pecuniária, mas não só restrita a ela, concedida a uma entidade normalmente em troca do
+cumprimento passado ou futuro de certas condições relacionadas às atividades operacionais da entidade.
+Não são subvenções governamentais aquelas que não podem ser razoavelmente quantificadas em dinheiro
+e as transações com o governo que não podem ser distinguidas das transações comerciais normais da
+entidade. Enquanto não atendidos os requisitos para reconhecimento da receita com subvenção na
+demonstração do resultado, a contrapartida da subvenção governamental registrada no ativo deve ser feita
+em conta específica do passivo. Porém, após atendidos os requisitos, em regra, reconhecemos uma receita
+no resultado. Esse é o caso apresentado na questão, momento posterior ao reconhecimento da receita de
+subvenção no resultado. Portanto, como trata-se de uma receita, afeta o patrimônio.
+c. Errado. Os ajustes de exercícios anteriores afetam positiva ou negativamente o patrimônio.
+d. Certo. Trata-se de um simples fato permutativo. Nesse fato, há uma diminuição da reserva patrimonial e
+um aumento da conta lucros ou prejuízos acumulados, ambas contas do PL, ou seja, há apenas uma permuta
+entre contas do PL, não afetando, portanto, o patrimônio.
+e. Errado. Nesse fato, temos um aumento do PL, pois a conta “ações em tesouraria” é redutora do PL. Logo,
+na venda de ações em tesouraria temos um aumento do PL e em contrapartida um aumento no caixa/banco.
+Gabarito: D
+43. (FUNIVERSA/Auditor de Controle Interno/SEAP-DF/2014) Para efeito da demonstração das mutações
+do patrimônio líquido, assinale a alternativa que apresenta um fato que não afeta o total do patrimônio.
+a) aquisição de ações da própria companhia
+b) crédito de juros sobre o capital próprio
+c) absorção de prejuízo com reserva de lucros
+d) ajuste de exercício anterior por constatação de erro
+e) ágio na emissão de ações
+Comentários
+Vamos analisar as alternativas:
+a. Errado. Na aquisição de ações da própria companhia há uma diminuição do PL, haja vista que a conta
+“ações em tesouraria” é redutora do PL.
+b. Errado. O crédito de juros sobre o capital próprio para a empresa distribuidora desses juros acarreta uma
+diminuição do seu resultado e, consequentemente, do PL.
+c. Certo. Trata-se de um fato permutativo. Há uma simples permuta entre contas do PL (reserva de lucros e
+prejuízos acumulados).
+d. Errado. Os ajustes de exercícios anteriores afetam positiva ou negativamente o patrimônio.
+e. Errado. No ágio na emissão de ações temos um aumento do PL (conta de reserva de capital).
+Gabarito: C
+44. (CESGRANRIO/Contador/CEFET-RJ/2014) De acordo com o Pronunciamento Técnico CPC 26 (R1) do
+Comitê de Pronunciamentos Contábeis, as entidades deverão apresentar a Demonstração das Mutações
+do Patrimônio Líquido. Essa demonstração serve para mostrar a movimentação das contas do Patrimônio
+Líquido, no exercício social, que podem afetar ou não o patrimônio total.
+Sob o enfoque das mutações, que afetam o patrimônio total, ocorridas nas contas, encontra-se, dentre
+outros itens, o(a):
+a) aumento de capital com utilização de lucros
+b) compensação de prejuízos com reservas.
+c) formação da reserva de lucros a realizar
+d) integralização de capital, em bens de uso
+e) reversão de reservas para lucros acumulados.
+Comentários
+Para fixar, vamos inserir novamente os fatos que alteram e não alteram o PL, pois isso é muito exigido em
+concursos:
+Principais Fatos Contábeis que alteram o PL
+Aumentam o PL
+   ▪   Lucro Líquido do Exercício;
+   ▪   Ajustes de Avaliação Patrimonial (credor);
+   ▪   Doações e subvenções para investimentos recebidos (após trânsito pelo resultado);
+   ▪   Subscrição e integralização de capital;
+   ▪   Recebimento de valor que exceda o valor nominal das ações integralizadas ou o preço de emissão
+       das ações sem valor nominal;
+   ▪   Valor da alienação de partes beneficiárias e bônus de subscrição;
+   ▪   Prêmio recebido na emissão de debêntures (após trânsito pelo resultado);
+   ▪   Venda de Ações em Tesouraria;
+   ▪   Ajuste de Exercícios Anteriores (credor);
+   ▪   Outros resultados abrangentes.
+Reduzem o PL
+   ▪   Prejuízo Líquido do Exercício;
+   ▪   Dividendos propostos (a distribuir);
+   ▪   Ações próprias adquiridas;
+   ▪   Gastos na emissão de ações
+   ▪   Ajuste de Exercícios Anteriores e de Avaliação Patrimonial (devedor);
+   ▪   Reversão da reserva de lucros a realizar para a conta de dividendos a pagar;
+   ▪   Outros Resultados abrangentes.
+Principais Fatos Contábeis que NÃO alteram o PL
+   ▪   Aumento de capital com utilização de lucros e reservas;
+   ▪   Apropriações do lucro líquido do exercício reduzindo a conta Lucros Acumulados para formação de
+       reservas;
+   ▪   Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos acumulados (conta
+       transitória);
+   ▪   Compensação de Prejuízos com Reservas.
+Do exposto, percebe-se que somente a alternativa “D” descreve um fato que afeta o patrimônio total.
+Gabarito: D
+45. (CESGRANRIO/Analista/Contabilidade/EPE/2014) A Lei n. 6.404, de 15 de dezembro de 1976, dispõe
+sobre as sociedades por ações. No capítulo I, trata das características da companhia ou sociedade anônima,
+estabelecendo que o seu capital seja dividido em ações e que a companhia será aberta ou fechada, caso as
+ações sejam ou não negociadas no Mercado de Valores Mobiliários.
+A aludida Lei, devidamente atualizada até dezembro/2013, estabelece no Capítulo XV, Seção II, que ao fim
+de cada exercício social, a diretoria fará elaborar as demonstrações financeiras, com base na escrituração
+mercantil da companhia.
+Nesse contexto, considerando-se única e exclusivamente as determinações da Lei n. 6.404/1976, e suas
+alterações posteriores, a Demonstração das Mutações do Patrimônio Líquido (DMPL) é uma demonstração.
+a) facultativa para todas as sociedades anônimas
+b) obrigatória para todas as sociedades anônimas
+c) condicional para todas as sociedades anônimas
+d) obrigatória para as sociedades de capital aberto e facultativa para as de capital fechado
+e) obrigatória para as sociedades de capital aberto e condicional para as de capital fechado
+Comentários
+Lembre-se do nosso quadro:
+
+                                        Obrigatoriedade da DMPL
+     Lei n. 6.404/76: Facultativa
+     Instrução CVM 59/1986: Obrigatória para empresas de capital aberto
+     CPC 26 (R1): Obrigatória
+     NBC TG 1000 (PME): Em regra é obrigatória, porém pode ser substituída pela DLPA se as
+     únicas alterações no patrimônio líquido durante os períodos para os quais as
+     demonstrações contábeis são apresentadas derivarem do resultado, de distribuição de
+     lucro, de correção de erros de períodos anteriores e de mudanças de políticas contábeis.
+     ITG 1.000 (ME/EPP): Facultativa
+
+Veja que a questão deixa bem claro: “considerando-se única e exclusivamente as determinações da Lei n.
+6.404/1976”.
+Conforme estudamos, segundo a Lei n. 6.404/76 a DMPL é facultativa.
+Em que pese a Lei n. 6.404/76 não obrigar a divulgação da DMPL, tornando-a apenas facultativa, esse
+demonstrativo passou a ser obrigatório para as empresas de capital aberto por exigência da Comissão de
+Valores Mobiliários (Instrução CVM 59/1986).
+No entanto, com a publicação do CPC 26 - Apresentação das demonstrações contábeis, o entendimento atual
+é que a DMPL faz parte do conjunto completo de demonstrações contábeis. Logo, segundo o CPC e a doutrina
+é uma demonstração obrigatória para quase a totalidade das empresas.
+Gabarito: A
+46. (CESGRANRIO/Técnico de Contabilidade/Petrobras/2010) A variação das reservas de lucros ocorrida
+entre um exercício e outro, mostrando, ainda, as origens das mesmas, é evidenciada na demonstração
+denominada
+a) Mutações do Patrimônio Líquido.
+b) Lucros e Perdas.
+c) Mutações do Resultado do Exercício.
+d) Balanço Social.
+e) Fluxos de Caixa.
+Comentários
+Questão bem tranquila... A Demonstração das Mutações do Patrimônio Líquido evidencia as mudanças
+qualitativas e quantitativas ocorridas no patrimônio líquido da entidade. Assim, a movimentação ocorrida
+nas contas de reservas de lucros em um determinado período é evidenciada na DMPL.
+Cabe destacar que a DLPA evidencia apenas a movimentação nas contas lucros acumulados e prejuízos
+acumulados. Assim, não evidencia a movimentação das reservas de lucros.
+Gabarito: A
+                                 LISTA DAS QUESTÕES
+1. (CESPE/Analista Portuário/Financeira e Auditoria Interna/EMAP/2018) Com relação à elaboração das
+principais demonstrações contábeis previstas na normatização vigente, julgue o item seguinte.
+As alterações verificadas em lucros ou prejuízos acumulados, entre dois períodos, apesar de comumente
+evidenciadas na demonstração de mutações do patrimônio líquido, pode ser objeto de demonstração
+própria.
+2. (CESPE/Analista Administrativo/Contabilidade/EBSERH/2018) Julgue o item seguinte, a respeito da
+elaboração das demonstrações contábeis segundo os pronunciamentos do CPC e a legislação vigente.
+Apesar de ser facultativa, segundo a legislação societária, a demonstração de mutações do patrimônio
+líquido integra o rol de demonstrações financeiras classificadas como obrigatórias pelo CPC.
+3. (CESPE/Auditor de Controle Externo/TCE-PE/2017) Com base nos pronunciamentos emitidos pelo
+Comitê de Pronunciamentos Contábeis (CPC.), julgue o item seguinte.
+O conjunto completo de demonstrações contábeis a ser apresentado pelas sociedades constituídas por ações
+inclui a demonstração das mutações do patrimônio líquido, a qual deverá conter o resultado abrangente do
+período, exceto quando houver demonstração do resultado abrangente apresentada em separado.
+4. (CESPE/Analista de Gestão Educacional/Contabilidade/SEDF/2017) Com referência à elaboração de
+demonstrações contábeis, julgue o item seguinte à luz da legislação societária, dos princípios
+fundamentais da contabilidade e dos pronunciamentos contábeis do CPC.
+O total de dividendos reconhecidos como distribuição aos acionistas durante dado exercício pode ser
+evidenciado na demonstração das mutações do patrimônio líquido.
+5. (CESPE/Analista de Controle/Atuarial/TCE-PR/2016)
+Os dados apresentados foram extraídos da demonstração das mutações do patrimônio líquido de uma
+entidade e representam todas as transações que afetaram esse grupo patrimonial em determinado exercício.
+Com base nessas informações, é correto afirmar que, naquele exercício, o patrimônio líquido da entidade
+a) aumentou em R$ 70.000.
+b) aumentou em R$ 20.000.
+c) foi reduzido em R$ 10.000.
+d) foi reduzido em R$ 5.500.
+e) aumentou em R$ 144.500.
+6. (CESPE/Auditor Fiscal de Controle Externo/Contabilidade/TCE-SC/2016) No que se refere aos livros de
+escrituração e às previsões legais relativas às demonstrações contábeis, julgue o item a seguir.
+Não podem constar da demonstração de mutações do patrimônio líquido de uma empresa as modificações
+das quais seus sócios participem em qualidade diferente da de proprietários.
+7. (CESPE/Auditor Governamental/CGE-PI/2015) De acordo com a Lei n.º 6.404/1976, julgue o próximo
+item, a respeito da elaboração e apresentação das principais demonstrações contábeis.
+A apresentação de demonstrações de mutações do patrimônio líquido é facultativa.
+8. (CESPE/Contador/SUFRAMA/2014) Acerca de demonstrações contábeis e seus componentes, julgue o
+próximo item.
+A emissão da demonstração das mutações do patrimônio líquido, da qual constam as ações em tesouraria,
+é obrigatória para as sociedades anônimas.
+9. (CESPE/Analista Contábil/MEC/2014) A demonstração das mutações do patrimônio líquido permite
+identificar o fluxo de valores entre as contas componentes do patrimônio líquido, inclusive os resultados
+abrangentes, segregados em acionistas controladores e não controladores.
+10. (CESPE/Analista Legislativo/Consultor Legislativo/2014) Julgue o item a seguir, relativo aos
+fundamentos de contabilidade aplicados à contabilidade empresarial.
+A demonstração das mutações do patrimônio líquido tem a finalidade de apresentar, entre outros
+elementos, os efeitos das mudanças de práticas contábeis e as correções de erros reconhecidos no período.
+11. (CESPE/Contador/CADE/2014) Ao apresentar a demonstração das mutações do patrimônio líquido,
+uma entidade controlada deverá desmembrar, no resultado abrangente do período, o montante total
+atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não
+controladores.
+12. (CESPE/Contador/MTE/2014) Considerando a legislação vigente e os pronunciamentos do Comitê de
+Pronunciamentos Contábeis, julgue o item que se segue, relativo aos procedimentos utilizados para a
+elaboração das demonstrações contábeis.
+A demonstração do resultado abrangente integra, obrigatoriamente, a demonstração das mutações do
+patrimônio líquido (DMPL).
+13. (CESPE/AUFC/TCU/2013) De acordo com a Lei n.º 6.404/1976, e alterações posteriores, julgue o item
+subsecutivo, referente à demonstração de lucros e prejuízos acumulados e à demonstração de mutações
+do patrimônio líquido.
+Quando a companhia elabora a demonstração das mutações do patrimônio líquido, fica dispensada de
+publicar separadamente a demonstração dos lucros e prejuízos acumulados.
+14. (CESPE/Agente/DPF/2009) Constituem eventos que afetam o patrimônio líquido, como acréscimo ou
+redução, ajustes de exercícios anteriores, resultado líquido do exercício e resultado na venda de ações em
+tesouraria.
+
+
+
+
+Considere que as informações acima tenham sido obtidas da demonstração das mutações do patrimônio
+líquido de uma empresa hipotética, referentes ao ano de 2009. Com base apenas nessas informações e sem
+considerar quaisquer outros efeitos fiscais, julgue os itens a seguir.
+15. (CESPE/Oficial Técnico de Inteligência/Ciências Contábeis/ABIN/2010) O saldo final da conta capital
+social aumentou R$ 400 mil em relação ao início do período.
+16. (CESPE/Oficial Técnico de Inteligência/Ciências Contábeis/ABIN/2010) Os dividendos propostos
+reduzem o patrimônio líquido em R$ 180 mil.
+17. (CESPE/Oficial Técnico de Inteligência/Ciências Contábeis/ABIN/2010) O patrimônio líquido total
+aumentou R$ 300 mil em relação ao início do período.
+18. (CESPE/Consultor/Ciências Contábeis/SEFAZ-ES/2010) A DMPL evidencia informações sobre as
+movimentações ocorridas no patrimônio líquido das companhias. A respeito das informações evidenciáveis
+nessa demonstração, julgue o item subsequente.
+Acréscimos ou reduções ocorridos durante o exercício social nas contas reservas de lucros e reservas de
+capital são evidenciados nessa demonstração.
+19. (CESPE/Consultor/Ciências Contábeis/SEFAZ-ES/2010) A DMPL evidencia informações sobre as
+movimentações ocorridas no patrimônio líquido das companhias. A respeito das informações evidenciáveis
+nessa demonstração, julgue o item subsequente.
+20. (CESPE/Consultor/Ciências Contábeis/SEFAZ-ES/2010) A DMPL evidencia informações sobre as
+movimentações ocorridas no patrimônio líquido das companhias. A respeito das informações evidenciáveis
+nessa demonstração, julgue o item subsequente.
+Por meio da DMPL é possível visualizar a movimentação relativa a um aumento de capital com a utilização
+de reservas, caso o aumento ocorra.
+21. (FCC/Analista/Contabilidade/AL-SE/2018) Considere as seguintes informações sobre a Cia. Verde &
+Azul correspondentes ao ano de 2017:
+- A empresa apurou o lucro líquido de R$ 350.000,00.
+- Destinação do Lucro do Período:
+- Constituição de Reserva Legal no valor de R$ 15.000,00.
+- Constituição de Reserva de Incentivos Fiscais no valor de R$ 30.000,00.
+- Distribuição de Dividendos Obrigatórios no valor de R$ 105.000,00.
+- Foi realizado aumento do Capital Social no valor total de R$ 100.000,00, sendo R$ 40.000,00 com
+incorporação de Reservas de Lucros e R$ 60.000,00 com um terreno.
+- Aquisição de ações de emissão da própria Cia. Verde & Azul por R$ 80.000,00 à vista.
+Após o reconhecimento destas operações, a Demonstração das Mutações do Patrimônio Líquido (DMPL) de
+2017 evidenciou um aumento no Patrimônio Líquido da Cia. Verde & Azul no valor total de, em reais,
+a) 245.000,00.
+b) 345.000,00.
+c) 305.000,00.
+d) 385.000,00.
+e) 225.000,00.
+22. (FCC/Agente/Contabilidade/ARTESP/2017) Considere as seguintes operações ocorridas durante 2016
+na empresa Luz Brilhante S.A.:
+1. Apuração do resultado do período com a obtenção de Lucro Líquido no valor de R$ 300.000,00.
+2. Distribuição de dividendos no valor de R$ 75.000,00.
+3. Constituição de Reserva Legal no valor de R$ 10.000,00.
+4. Constituição de Reserva Estatutária no valor de R$ 30.000,00.
+5. Constituição de Reserva de Incentivos Fiscais no valor de R$ 15.000,00.
+6. Aumento de Capital Social no valor total de R$ 120.000,00, sendo R$ 50.000,00 com Reserva de Retenção
+e o restante com um equipamento.
+Após o reconhecimento dessas operações, a Demonstração das Mutações do Patrimônio Líquido (DMPL)
+evidenciou um aumento no Patrimônio Líquido inicial da empresa no valor total, em reais, de
+a) 300.000,00.
+b) 225.000,00.
+c) 345.000,00.
+d) 295.000,00.
+e) 240.000,00.
+23. (FCC/Analista Judiciário/Contabilidade/TRT23/2016) Em relação a elaboração da Demonstração das
+Mutações do Patrimônio Líquido,
+a) a emissão de ações da empresa reflete sempre de forma diminutiva no Patrimônio Líquido.
+b) o pagamento de dividendos não provisionado reflete de forma aumentativa no Patrimônio Líquido.
+c) os ajustes de exercícios anteriores sempre refletem de forma aumentativa no Patrimônio Líquido.
+d) a capitalização de reservas não reflete no saldo final do Patrimônio Líquido.
+e) a absorção de prejuízos acumulados por reservas de lucros afeta de forma diminutiva no total do
+Patrimônio Líquido.
+24. (FCC/Agente Fiscal de Rendas/SEFAZ-SP/2013) Considere as seguintes transações ocorridas durante o
+ano de 2012:
+I. Pagamento de dividendos distribuídos em 2011.
+II. Aumento de capital com bens do ativo imobilizado.
+III. Ágio na emissão de novas ações.
+IV. Recebimento de doações com obrigações futuras que serão cumpridas a partir de 2015.
+Afetaram a Demonstração das Mutações do Patrimônio Líquido, no exercício de 2012, as transações que
+constam em
+a) I e II, apenas.
+b) II e III, apenas.
+c) I e IV, apenas.
+d) I, II e III, apenas.
+e) I, II, III e IV.
+25. (FCC/Auditor/Contabilidade/TCE-RS/2014) Considere as seguintes transações realizadas pela Cia.
+Inglesa:
+I. Recebeu em doação um terreno com restrições a serem cumpridas.
+II. Emitiu novas ações com ágio.
+III. Reconheceu variação cambial de controladas no exterior.
+IV. Pagou dividendos anteriormente propostos e aprovados pela Cia.
+V. Apurou lucro líquido no período.
+VI. Aumentou o capital com Reservas de Lucros.
+As transações que alteram o valor do Patrimônio Líquido da Cia. Inglesa são APENAS
+a) II e V.
+b) I, III e VI.
+c) II, III, IV e V.
+d) I, II e IV.
+e) II, III e V.
+26. (FCC/Agente de Defensoria Pública/Contador/DPE-SP/2013) Considere as informações extraídas da
+Demonstração das Mutações do Patrimônio Líquido da empresa WZ referente ao exercício financeiro de
+X1:
+           Descrição                                                   R$ (mil)
+AUMENTO DE CAPITAL SOCIAL
+Com Lucros e Reservas ................................................. 25.000
+Por subscrição realizada ................................................. 20.000
+REVERSÃO DE RESERVAS
+De Contingências ............................................................ 2.000
+AJUSTE DE AVALIAÇÃO PATRIMONIAL (credora) ................ 3.000
+LUCRO LÍQUIDO DO EXERCÍCIO ..................................... 15.000
+PROPOSTA DA ADMINISTRAÇÃO PARA DISTRIBUIÇÃO DO LUCRO:
+Transferências para reservas
+Reserva Legal ................................................................... 750
+Reserva de Incentivos Fiscais ........................................... 4.250
+Reserva de Lucros a Realizar ............................................ 1.000
+Dividendos propostos ..................................................... 11.000
+Com base nessas informações, é correto afirmar que a variação no saldo do Patrimônio Líquido foi, em
+milhares de reais,
+a) 21.000.
+b) 24.000.
+c) 27.000.
+d) 29.000.
+e) 52.000.
+27. (FCC/Analista Judiciário/TRE-PR/2012) Considere os dados extraídos da Demonstração das Mutações
+do Patrimônio Líquido da empresa Zaraca referente ao exercício financeiro de X1:
+          Descrição                                                               R$ (mil)
+AUMENTO DE CAPITAL SOCIAL
+Com Lucros e Reservas ...................................................... 25.000,00
+Por subscrição realizada...................................................... 18.000,00
+REVERSÃO DE RESERVAS
+De Contingência................................................................... 2.000,00
+AQUISIÇÃO DE AÇÕES ......................................................... (300,00)
+AJUSTE DE AVALIAÇÃO PATRIMONIAL .................................... 1.500,00
+LUCRO LÍQUIDO DO EXERCÍCIO............................................. 8.000,00
+PROPOSTA DA ADMINISTRAÇÃO DE DESTINAÇÃO DO LUCRO:
+Transferências para reservas
+Reserva Legal ........................................................................ 400,00
+Reserva Estatutária ............................................................. 3.800,00
+Reserva de Lucros a Realizar.................................................... 600,00
+Dividendos a distribuir.......................................................... 5.200,00
+A variação no total do Patrimônio Líquido da empresa Zaraca foi, em milhares de reais,
+a) 20.500,00.
+b) 22.000,00.
+c) 22.300,00.
+d) 27.200,00.
+e) 44.200,00.
+28. (FCC/Auditor Fiscal de Tributos Estaduais/SEFIN-RO/2010) Considere os dados extraídos da
+Demonstração das Mutações do Patrimônio Líquido da empresa A referentes ao exercício financeiro de
+X1:
+           Descrição                                                             R$ (mil)
+AUMENTO DE CAPITAL SOCIAL
+   Com Lucros e Reservas.................................................... 13.000,00
+   Por subscrição realizada................................................... 17.000,00
+REVERSÃO DE RESERVAS
+   De Contingências ............................................................. 3.000,00
+   De Lucros a Realizar ........................................................ 1.080,00
+AQUISIÇÃO DE AÇÕES............................................................. 280,00
+LUCRO LÍQUIDO DO EXERCÍCIO .......................................... 14.000,00
+PROPOSTA DA ADMINISTRAÇÃO DE DESTINAÇÃO DO LUCRO:
+Transferências para reservas
+   Reserva Legal .................................................................... 700,00
+   Reserva Estatutária .......................................................... 5.150,00
+   Reserva de Lucros a Realizar................................................ 150,00
+Distribuição de Dividendos .................................................. 12.080,00
+A variação no total do Patrimônio Líquido foi, em milhares de reais,
+a) 18.640,00
+b) 18.920,00
+c) 30.720,00
+d) 32.640,00
+e) 66.440,00
+29. (FCC/Analista Judiciário/Contabilidade/TRT20/2011) Com relação à Demonstração das Mutações do
+Patrimônio Líquido (DMPL) pode-se afirmar que
+a) esta demonstração é de apresentação obrigatória de acordo com as normas emanadas pela Lei das
+Sociedades por Ações.
+b) nela são evidenciadas todas as alterações ocorridas no Patrimônio Líquido da entidade e o Resultado
+Abrangente total do período, segregando-se o montante total atribuível aos controladores e o montante
+correspondente à participação de não controladores.
+c) a DMPL deve evidenciar somente as alterações ocorridas no Patrimônio Líquido relativas à parte do
+acionista controlador.
+d) as empresas de capital aberto estão desobrigadas de apresentar a DMPL se divulgarem em notas
+explicativas a apuração do Resultado Abrangente.
+e) as pequenas e médias empresas estão totalmente desobrigadas da apresentação desta demonstração,
+sendo a mesma, substituída integralmente pela Demonstração de Lucros/Prejuízos Acumulados.
+30. (FCC/Analista Judiciário/Contabilidade/TRE-RN/2011) Foram extraídas as seguintes informações da
+Demonstração das Mutações do Patrimônio Líquido da Cia. Delta relativa ao exercício encerrado em
+31/12/2009, em R$:
+Ajustes negativos de exercícios anteriores                             25.000,00
+Aumento de capital integralizado em bens                               130.000,00
+Lucro líquido de 2009                                                  638.000,00
+Acréscimo à reserva legal no exercício                                 31.900,00
+Acréscimo à reserva estatutária                                        102.100,00
+Constituição da reserva de lucros a realizar                           152.700,00
+Constituição da reserva para contingências                             178.400,00
+Constituição de reserva de planos para investimentos                   195.300,00
+Constituição de ajustes positivos de avaliação patrimonial             59.600,00
+Realização da reserva de reavaliação constituída antes de 31/12/2007   22.400,00
+Dividendos Propostos                                                   107.500,00
+Considerando-se apenas essas informações e sabendo-se que a contrapartida credora da realização da
+reserva de reavaliação foi a conta Lucros ou Prejuízos Acumulados, o patrimônio líquido da entidade em
+31/12/2009, relativamente ao existente em 31/12/2008, aumentou, em R$,
+a) 117.700,00.
+b) 57.100,00.
+c) 695.100,00.
+d) 802.600,00.
+e) 638.000,00.
+31. (FCC/Auditor/TCE-SP/2008) Na Demonstração das Mutações do Patrimônio Líquido, não afetam o
+valor total do patrimônio
+a) o reconhecimento de ajustes de exercícios anteriores.
+b) o valor relativo aos dividendos distribuídos no período.
+c) as reversões de reservas patrimoniais para a conta de resultado.
+d) o reconhecimento das doações e subvenções recebidas.
+e) o registro de prêmio recebido na emissão de debêntures.
+32. (FCC/Auditor/TCE-MG/2005) A movimentação ocorrida nas contas de reservas de lucros em um
+determinado período é evidenciada
+a) no Balanço Patrimonial.
+b) na Demonstração do Valor Agregado.
+c) na Demonstração dos Lucros e Prejuízos Acumulados.
+d) na Demonstração das Mutações do Patrimônio Líquido.
+e) na Demonstração das Origens e Aplicações de Recursos.
+33. (FCC/Analista/Ciências Contábeis/Metrô-SP/2008) Dados extraídos da
+Demonstração de Mutações do Patrimônio Líquido da Cia. Penedo, relativas ao exercício encerrado em 31-
+12-2007:
+Valor do patrimônio líquido em 31-12-2005                     580.000,00
+Valor do patrimônio líquido em 31-12-2006                     950.000,00
+Ajuste positivo (credor) de exercícios anteriores             30.000,00
+Dividendos propostos aos acionistas em 31-12-2006             140.000,00
+Constituição da reserva legal em 2006                         18.000,00
+Aumento de capital em dinheiro                                120.000,00
+Constituição da reserva estatutária em 2006                   36.000,00
+Considerando apenas estas informações, é possível concluir que o lucro líquido do exercício auferido pela
+companhia em 2007 correspondeu, em R$, a
+a) 414.000,00.
+b) 390.000,00.
+c) 384.000,00.
+d) 360.000,00.
+e) 330.000,00.
+34. (FCC/Analista/Ciências Contábeis/Metrô/2010) Os seguintes dados foram extraídos da Demonstração
+das Mutações do Patrimônio Líquido da Cia. Delta (em R$):
+Aumento de Capital em Dinheiro                            185.000,00
+Aquisição de Ações da Própria Cia. (Ações em Tesouraria) 25.000,00
+Dividendos Propostos pela Administração                   87.000,00
+Aumento de Capital com Integralização de Reservas         115.000,00
+Constituição da Reserva Legal                             10.400,00
+Lucro Líquido do Exercício                                208.000,00
+Reversão da Reserva de Contingências                      15.300,00
+Constituição da Reserva Estatutária                       26.000,00
+Constituição da Reserva Ágio na emissão de ações          15.000,00
+Utilizando apenas essas informações, é correto afirmar que o Patrimônio Líquido da companhia aumentou
+nesse exercício o equivalente, em R$, a
+a) 296.000,00.
+b) 185.700,00.
+c) 208.000,00.
+d) 281.000,00.
+e) 281.900,00.
+35. (FGV/Contador/SEDUC-AM/2014) Entre as variações das contas que formam o Patrimônio Líquido
+temos os itens que afetam o total do patrimônio e os itens que não afetam o total do patrimônio.
+Assinale a opção que apresenta um exemplo de item que não afeta o patrimônio total.
+a) Reconhecimento da alienação de partes beneficiárias e bônus de subscrição.
+b) Emissão de ações por um valor superior ao nominal.
+c) Compra de ações próprias.
+d) Reversão da reserva de lucros a realizar para a conta de dividendos a pagar.
+e) Compensação de prejuízo com reservas.
+36. (FGV/Contador/BADESC/2010) Assinale a alternativa que indique a demonstração contábil que
+fornece a movimentação ocorrida durante o exercício nas contas do Patrimônio Líquido.
+a) Demonstração das mutações do patrimônio líquido.
+b) Balanço patrimonial.
+c) Demonstração de lucros ou prejuízos acumulados.
+d) Demonstração dos fluxos de caixa.
+e) Demonstração do valor adicionado.
+37. (FBC/Exame de Suficiência CFC/Bacharel/2014.1) Considere os dados extraídos da Demonstração das
+Mutações do Patrimônio Líquido de uma empresa, referentes ao exercício de 2013.
+- Aumento de Capital Social com Reservas R$45.500,00
+- Aumento de Capital Social por Integralização R$59.500,00
+- Reversão de Reservas de Contingências R$10.500,00
+- Reversão de Reservas de Lucros a Realizar R$3.780,00
+- Aquisição de ações da própria empresa R$980,00
+- Lucro Líquido do Exercício R$49.000,00
+Proposta da administração de destinação do lucro:
+Transferências para reservas:
+- Reserva Legal R$2.450,00
+- Reserva Estatutária R$18.025,00
+- Reserva de Lucros a Realizar R$525,00
+- Distribuição de Dividendos Obrigatórios R$42.280,00
+A variação total do Patrimônio Líquido é de:
+a) R$53.760,00 negativa.
+b) R$53.760,00 positiva.
+c) R$65.240,00 negativa.
+d) R$65.240,00 positiva.
+38. (FBC/Exame de Suficiência CFC/Bacharel/2013.2) Uma sociedade apresentou os seguintes dados
+extraídos do Balanço Patrimonial, apresentado no conjunto de suas demonstrações contábeis do ano de
+2012, e da movimentação contábil do Patrimônio Líquido no período, expressos em milhares de reais:
+
+
+
+
+Com base nos dados apresentados, considerando que a única Reserva de
+Lucro constituída é a Reserva Legal, a Demonstração das Mutações do Patrimônio Líquido, em milhares de
+reais, para o ano de 2012, será:
+a) Demonstração da Mutação do Patrimônio Líquido
+b) Demonstração da Mutação do Patrimônio Líquido
+
+
+
+
+c) Demonstração da Mutação do Patrimônio Líquido
+
+
+
+
+d) Demonstração da Mutação do Patrimônio Líquido
+
+
+
+
+39. (FBC/Exame de Suficiência CFC/Bacharel/2012.2) Com relação ao que determina a NBC TG 26 –
+Apresentação das Demonstrações Contábeis, no tocante à informação a ser apresentada na Demonstração
+das Mutações do Patrimônio Líquido (DMPL) ou nas Notas Explicativas, julgue os itens abaixo e, em
+seguida, assinale a opção CORRETA.
+I. Para cada componente do patrimônio líquido, a entidade deve apresentar, ou na demonstração das
+mutações do patrimônio líquido ou nas notas explicativas, uma análise dos outros resultados abrangentes
+por item.
+II. O patrimônio líquido deve apresentar o capital social, as reservas de capital, os ajustes de avaliação
+patrimonial, as reservas de lucros, as ações ou quotas em tesouraria, os prejuízos acumulados, se legalmente
+admitidos os lucros acumulados e as demais contas exigidas pelas normas emitidas pelo Conselho Federal
+de Contabilidade.
+III. A entidade deve apresentar na demonstração das mutações do patrimônio líquido, ou nas notas
+explicativas, o montante de dividendos reconhecidos como distribuição aos proprietários durante o período
+e o respectivo montante por ação.
+Está(ão) CORRETO(S) o(s) item(ns):
+a) I e II, apenas.
+b) I, apenas.
+c) I, II e III.
+d) II e III, apenas.
+40. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) Uma sociedade empresária, cujo Patrimônio Líquido
+no início do período somava R$100.000,00, apresentou, no ano de 2011, as seguintes mutações em seu
+Patrimônio Líquido:
+Lucro Líquido do Período R$20.000,00
+Destinação do lucro para reservas R$15.000,00
+Destinação do lucro para dividendos obrigatórios R$5.000,00
+Aquisição de ações da própria companhia R$2.000,00
+Integralização de Capital em dinheiro R$9.000,00
+Incorporação de Reservas ao Capital R$4.000,00
+Em 31.12.2011, o saldo do Patrimônio Líquido será:
+a) R$108.000,00.
+b) R$118.000,00.
+c) R$122.000,00.
+d) R$124.000,00.
+41. (FBC/Exame de Suficiência CFC/Bacharel/2012.1) A movimentação ocorrida nas contas de Reservas de
+Lucros em um determinado período é evidenciada na seguinte demonstração contábil:
+a) Balanço Patrimonial
+b) Demonstração das Mutações do Patrimônio Líquido
+c) Demonstração dos Fluxos de Caixa
+d) Demonstração dos Lucros ou Prejuízos Acumulados
+42. (FUNIVERSA/Auditor de Controle Interno/SEAP-DF/2014) Na elaboração da demonstração das
+mutações do patrimônio líquido, constitui variação que não afeta o total do patrimônio
+a) reversão da Reserva de Lucros a Realizar para Dividendos a Pagar.
+b) subvenção para Investimento após trânsito pelo resultado.
+c) ajuste de exercício anterior por mero efeito de mudança de critério contábil.
+d) reversão da reserva patrimonial para Lucros ou Prejuízos Acumulados.
+e) venda das próprias ações, anteriormente, em tesouraria.
+43. (FUNIVERSA/Auditor de Controle Interno/SEAP-DF/2014) Para efeito da demonstração das mutações
+do patrimônio líquido, assinale a alternativa que apresenta um fato que não afeta o total do patrimônio.
+a) aquisição de ações da própria companhia
+b) crédito de juros sobre o capital próprio
+c) absorção de prejuízo com reserva de lucros
+d) ajuste de exercício anterior por constatação de erro
+e) ágio na emissão de ações
+44. (CESGRANRIO/Contador/CEFET-RJ/2014) De acordo com o Pronunciamento Técnico CPC 26 (R1) do
+Comitê de Pronunciamentos Contábeis, as entidades deverão apresentar a Demonstração das Mutações
+do Patrimônio Líquido. Essa demonstração serve para mostrar a movimentação das contas do Patrimônio
+Líquido, no exercício social, que podem afetar ou não o patrimônio total.
+
+
+Sob o enfoque das mutações, que afetam o patrimônio total, ocorridas nas contas, encontra-se, dentre
+outros itens, o(a):
+a) aumento de capital com utilização de lucros
+b) compensação de prejuízos com reservas.
+c) formação da reserva de lucros a realizar
+d) integralização de capital, em bens de uso
+e) reversão de reservas para lucros acumulados.
+45. (CESGRANRIO/Analista/Contabilidade/EPE/2014) A Lei n. 6.404, de 15 de dezembro de 1976, dispõe
+sobre as sociedades por ações. No capítulo I, trata das características da companhia ou sociedade anônima,
+estabelecendo que o seu capital seja dividido em ações e que a companhia será aberta ou fechada, caso
+as ações sejam ou não negociadas no Mercado de Valores Mobiliários.
+A aludida Lei, devidamente atualizada até dezembro/2013, estabelece no Capítulo XV, Seção II, que ao fim
+de cada exercício social, a diretoria fará elaborar as demonstrações financeiras, com base na escrituração
+mercantil da companhia.
+Nesse contexto, considerando-se única e exclusivamente as determinações da Lei n. 6.404/1976, e suas
+alterações posteriores, a Demonstração das Mutações do Patrimônio Líquido (DMPL) é uma demonstração.
+a) facultativa para todas as sociedades anônimas
+b) obrigatória para todas as sociedades anônimas
+c) condicional para todas as sociedades anônimas
+d) obrigatória para as sociedades de capital aberto e facultativa para as de capital fechado
+e) obrigatória para as sociedades de capital aberto e condicional para as de capital fechado
+46. (CESGRANRIO/Técnico de Contabilidade/Petrobras/2010) A variação das reservas de lucros ocorrida
+entre um exercício e outro, mostrando, ainda, as origens das mesmas, é evidenciada na demonstração
+denominada
+a) Mutações do Patrimônio Líquido.
+b) Lucros e Perdas.
+c) Mutações do Resultado do Exercício.
+d) Balanço Social.
+e) Fluxos de Caixa.
+                        GABARITO
+
+
+
+
+1.    2.    3.    4.    5.    6.    7.    8.    9.    10.
+C     C     E     C     B     E     C     C     C     C
+11.   12.   13.   14.   15.   16.   17.   18.   19.   20.
+C     E     C     C     C     C     C     C     C     C
+21.   22.   23.   24.   25.   26.   27.   28.   29.   30.
+E     D     D     B     E     C     B     A     B     C
+31.   32.   33.   34.   35.   36.   37.   38.   39.   40.
+C     D     D     A     E     A     D     A     C     C
+41.   42.   43.   44.   45.   46.
+B     D     C     D     A     A
+

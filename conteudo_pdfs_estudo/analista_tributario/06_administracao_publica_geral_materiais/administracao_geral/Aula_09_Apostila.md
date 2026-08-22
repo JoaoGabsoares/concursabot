@@ -1,0 +1,7291 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 09_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Administração Geral
+artigos_citados:
+- art. 74
+---
+
+# Administração Geral
+
+Aula 08
+                          Receita Federal (Analista Tributário)
+                                         Administração Geral
+
+                                                        Autor:
+                                               Stefan Fantini
+
+                                         29 de Setembro de 2025
+
+---
+
+      Stefan Fantini
+      Aula 08
+
+                                                                                     Índice
+1) Controle. Indicadores
+
+
+2) Questões Controle. Indicadores - FGV
+
+                Receita Federal (Analista Tributário) Administração Geral                                                                                                                 2
+                www.estrategiaconcursos.com.br                                                                                                                                          149
+
+                                                             
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Olá, amigos do Estratégia Concursos, tudo bem?
+Preparados para mais uma aula? Então vamos em frente! ☺
+Um grande abraço,
+Stefan Fantini
+
+Para tirar dúvidas e ter acesso a dicas e conteúdos gratuitos, siga meu Instagram, se inscreva no
+meu Canal no YouTube e participe do meu canal no TELEGRAM:
+
+                                          @prof.stefan.fantini
+                                https://www.instagram.com/prof.stefan.fantini
+
+                                              Stefan Fantini
+                     https://www.youtube.com/channel/UCptbQWFe4xIyYBcMG-PNNrQ
+
+        Receita Federal (Analista Tributário) Administração Geral                               3
+        www.estrategiaconcursos.com.br                                                         149
+
+                                                         3
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                          t.me/admconcursos
+
+Os canais foram feitos especialmente para você! Então, será um enorme prazer contar com a sua
+presença nos nossos canais! ☺
+
+        Receita Federal (Analista Tributário) Administração Geral                            4
+        www.estrategiaconcursos.com.br                                                      149
+
+                                                      4
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+Sumário
+
+Controle 
+
+   1 – Características do controle 
+
+   2 – Etapas do processo de controle 
+
+   3 – Tipos de Controle (Classificações) 
+
+      3.1 – Quanto ao Nível Organizacional
+
+      3.2 – Quanto ao Momento 
+
+      3.3 – Níveis de Controle de Perrow 
+
+      3.4 – Outras Classificações de Controle 
+
+Indicadores de Desempenho 
+
+   1 – Finalidades dos Indicadores 
+
+   2 – Componentes Básicos dos Indicadores 
+
+   3 – Critérios Básicos (Atributos) dos Indicadores 
+
+   4 – Propriedades dos Indicadores 
+
+   5 – Qualidade dos Indicadores 
+
+   6 – Etapas e Passos para a Construção (Formulação) de Indicadores 
+
+   7 – Variáveis dos Indicadores 
+
+   8 – Mitos sobre a Medição de Desempenho 
+
+      8.1 – Mito 1: Mito da medição absoluta: preciso medir tudo. 
+
+      8.2 – Mito 2: Para medir o que importa, preciso gerar todas as informações, coletar dados de
+      forma exaustiva e precisa
+
+      8.3 – Mito 3: Primeiro vamos medir, depois vamos ver o que fazemos com as medidas. 
+
+      8.4 – Mito 4: Preciso, sobretudo, do sistema informático perfeito para isto. 
+
+           Receita Federal (Analista Tributário) Administração Geral                                                                         5
+           www.estrategiaconcursos.com.br                                                                                                   149
+
+                                                                                                      5
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+  9 – Modelo para Mensuração de Desempenho: A Cadeia de Valor e os 6 Es do Desempenho ... 50
+
+  10 – Tipos/Classificações de Indicadores de Graças Rua 
+
+  11 – Outros Tipos/Classificações de Indicadores 
+
+     11.1 – Quantitativos x Qualitativos 
+
+     11.2 – Simples x Compostos 
+
+     11.3 – Quanto ao nível hierárquico 
+
+     11.4 – Quanto ao enfoque 
+
+     11.5 – Indicadores Lag (de resultado) x Indicadores Lead (de tendência) 
+
+O Fator Humano no Processo de Controle 
+
+  1 – Efeitos Comportamentais do Processo de Controle nas Organizações 
+
+  2 – Abordagens Estratégicas de Controle Comportamental 
+
+  3 – Técnicas de Controle Comportamental 
+
+OKR (Objectives and Key Results) 
+
+KPIs (Key Performance Indicators) 
+
+Considerações Finais 
+
+Resumo Estratégico 
+
+          Receita Federal (Analista Tributário) Administração Geral                                                                      6
+          www.estrategiaconcursos.com.br                                                                                                149
+
+                                                                                                  6
+
+
+---
+
+    Stefan Fantini
+    Aula 08
+
+                                                  CONTROLE
+O controle é uma das quatro funções administrativas que compõe o processo organizacional.
+Trata-se da função administrativa que tem por objetivo avaliar se os resultados obtidos estão de
+acordo com os objetivos anteriormente propostos.
+
+Em outras palavras, o controle (ou avaliação) busca assegurar que as coisas aconteçam de acordo
+com o que foi planejado. Para isso, as atividades são monitoradas, e os resultados obtidos são
+comparados com os objetivos anteriormente planejados (resultados desejados). Assim, é possível
+que sejam feitas as correções necessárias, a fim de manter a organização no caminho adequado
+para o alcance dos objetivos.
+
+Portanto, para que seja possível realizar o controle, é necessário que os objetivos estejam
+previamente definidos; ou seja, é necessário que tenha sido realizado o planejamento.
+
+Segundo Djalma Oliveira1, controle (ou avaliação) é “a metodologia administrativa que, mediante a
+comparação com padrões previamente estabelecidos, procura medir e avaliar o desempenho e
+os resultados das ações e estratégias, com a finalidade de realimentar com informações os
+tomadores de decisões, de forma que possam corrigir ou reforçar este desempenho, para
+assegurar que os resultados estabelecidos pelos planejamentos sejam alcançados”.
+
+Chiavenato2, por sua vez, destaca que o controle “é a função administrativa que consiste em medir
+e corrigir o desempenho para assegurar que os objetivos organizacionais e os planos
+estabelecidos para alcançá-los sejam realizados”.
+
+                                                          LEITURA
+                                                          OBRIGATÓRIA!
+
+
+Chiavenato reúne, ainda, uma série de conceitos de controle, na visão de diversos renomados
+autores. Vejamos:
+
+         -Controle é o esforço sistemático de estabelecer padrões de desempenho com os objetivos
+         de planejamento, para desenhar sistemas de retroação de informação para comparar o
+         desempenho atual com aqueles padrões predeterminados para verificar onde estão os
+         desvios e medir sua significância e tomar a ação necessária para assegurar que todos os
+
+1
+  OLIVEIRA, Djalma de Pinho Rebouças de. Fundamentos da administração: conceitos e práticas essenciais. São Paulo, Atlas:
+2009. p.154.
+2
+  CHIAVENATO, Idalberto. Administração nos novos tempos: os novos horizontes em administração, 3ª edição. Barueri, Manole:
+2014, p. 496.
+
+
+          Receita Federal (Analista Tributário) Administração Geral                                                       7
+          www.estrategiaconcursos.com.br                                                                                 149
+
+                                                                                   7
+
+
+---
+
+    Stefan Fantini
+    Aula 08
+
+         recursos da organização estão sendo utilizados da maneira mais eficiente e eficaz para
+         alcançar os objetivos organizacionais3.
+
+         -Controle é o processo de fazer algo acontecer da maneira como foi planejado para
+         acontecer4.
+
+         -Controle é o processo de medir o desempenho e tomar a ação para assegurar os
+         resultados desejados5.
+
+         -Controle é o processo de assegurar que as atividades atuais se conformam com as
+         atividades planejadas6.
+
+       Você não precisa decorar todos esses conceitos. Só quero que você perceba que todos
+       eles convergem para um mesmo sentido, qual seja:
+
+       Controle é a função administrativa que tem por objetivo monitorar as atividades,
+       comparando-se os resultados obtidos (desempenho “atual”) com os resultados
+       desejados/esperados (objetivos planejados), realizando-se, ainda, as correções
+       necessárias (ajustes necessários), no intuito de assegurar que os resultados e os
+       objetivos organizacionais previamente estabelecidos pelo planejamento sejam
+       alcançados.
+
+       Ou seja, a função controle envolve o acompanhamento, o monitoramento e a
+       avaliação do desempenho organizacional para verificar se as coisas estão acontecendo
+       de acordo com o que foi planejado.
+
+Perceba que o controle serve tanto para ajustar desvios negativos (ou seja, quando o resultado
+obtido não está de acordo com o resultado planejado), bem como para reforçar desvios positivos
+
+
+3
+  Robert J. Mockler. The Management Control Process. Englewood Cliff, Prentice-Hall, 1984. p. 2. apud CHIAVENATO, Idalberto.
+Administração nos novos tempos: os novos horizontes em administração, 3ª edição. Barueri, Manole: 2014, p. 496.
+4
+  Samuel C. Certo. Management: diversity, quality, ethics, and the global environment. Boston, Allyn & Bacon, 1994. p. 434. apud
+Id., 2014, p. 496.
+5
+  John R. Schermerhorn, Jr. Management. Nova York, John Wiley & Sons, 1996. p. 470. apud Id., 2014, p. 496.
+6
+   James A. Stoner, A. Edward Freeman, Daniel R. Gil- bert, Jr. Management. Englewood Cliffs, Prentice-Hall, 1995. p. 558. apud
+Id., 2014, p. 496.
+
+
+          Receita Federal (Analista Tributário) Administração Geral                                                           8
+          www.estrategiaconcursos.com.br                                                                                     149
+
+                                                                                       8
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+(ou seja, quando o desempenho obtido foi satisfatório e deve ser “repetido” ou então até mesmo
+pode ser “aprimorado”).
+
+“Como assim, Stefan?”
+
+Imagine que João das Neves esteja estudando para um cargo de Auditor Fiscal. Analisando os
+últimos certames, ele observou que deve acertar 80 questões (de um total de 100 questões) no
+                                                        ==219a34==
+
+próximo concurso para ser aprovado.
+
+Então, ele realiza um simulado contendo 100 questões (uma espécie de controle) para aferir como
+estão seus conhecimentos, e obtém 50 acertos. Nesse caso, trata-se de um desvio negativo; ou
+seja, o resultado obtido por ele (50 acertos) não está de acordo com o resultado esperado (80
+acertos). Então, João das Neves deve fazer os ajustes e correções necessárias para melhorar seu
+desempenho.
+
+Se, por outro lado, João conseguir acertar 80 questões no simulado, então, nesse caso, trata-se de
+um desvio positivo; ou seja, o resultado obtido está de acordo com o resultado esperado. Então,
+ele deverá “repetir” esse desempenho (acertar 80 questões no dia da prova), ou até mesmo
+“aprimorar” seu desempenho (buscar acertar, por exemplo, 85 questões no dia da prova, para
+conseguir escolher a lotação que deseja).
+
+     O controle tem 03 objetivos básicos:
+
+     1 - Assegurar que os resultados e os objetivos organizacionais previamente
+     estabelecidos pelo planejamento sejam alcançados.
+
+     2 - Ajustar/Corrigir os desvios negativos (corrigir as falhas e os erros identificados).
+
+     3 - Reforçar os desvios positivos (identificar as “boas práticas”, e reforçá-las).
+
+        Receita Federal (Analista Tributário) Administração Geral                                    9
+        www.estrategiaconcursos.com.br                                                              149
+
+                                                              9
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+(CESPE – EBSERH – Analista Administrativo - 2018)
+
+O controle da ação organizacional objetiva exclusivamente a correção de falhas ou erros
+existentes.
+
+Comentários:
+
+Nada disso! Conforme vimos, o controle serve tanto para ajustar/corrigir desvios negativos (isto é,
+quando o resultado obtido não está de acordo com o resultado planejado, então deve-se corrigir
+falhas ou erros), bem como para reforçar desvios positivos (ou seja, quando o desempenho obtido
+foi satisfatório e deve ser “repetido” ou então até mesmo “aprimorado”).
+
+Lembre-se: O controle tem 03 objetivos básicos:
+
+       1 - Assegurar que os resultados e os objetivos organizacionais previamente estabelecidos
+       pelo planejamento sejam alcançados.
+
+       2 - Ajustar/Corrigir os desvios negativos (corrigir as falhas e os erros identificados).
+
+       3 - Reforçar os desvios positivos (identificar as “boas práticas”, e reforçá-las).
+
+Gabarito: errada.
+
+(FGV – TRT 12a Região – Técnico Judiciário - 2017)
+
+No início do ano, servidores do departamento de patrimônio da organização pública XYZ passaram
+um final de semana em um hotel para planejarem os objetivos do ano. Ao final do ano, os
+servidores voltaram ao hotel para verificar se os objetivos foram cumpridos.
+
+Tão importante quanto planejar é comparar os resultados obtidos com o que foi planejado, e essa
+função administrativa de monitoração é denominada:
+
+a) avaliação estratégica;
+
+b) análise de eficácia;
+
+c) controle;
+
+d) análise de eficiência;
+
+        Receita Federal (Analista Tributário) Administração Geral                                      10
+        www.estrategiaconcursos.com.br                                                                 149
+
+                                                                10
+
+
+---
+
+    Stefan Fantini
+    Aula 08
+
+e) avaliação de desempenho.
+
+Comentários:
+
+Questão bem tranquila, não é mesmo? ☺
+
+A função que monitora as atividades, com o objetivo de comprar os resultados obtidos com o que
+foi planejado, é a função controle.
+
+O gabarito é a letra C.
+
+1 – Características do controle
+
+De acordo com as ideias de Maximiano7 e Chiavenato8, um sistema de controle eficaz deve possuir
+as seguintes características:
+
+         Orientação estratégica para resultados (Foco estratégico): o controle deve focalizar nas
+         atividades primordiais da organização, ou seja, dar ênfase àquelas atividades mais
+         significativas e que trazem maiores resultados à empresa.
+
+         Compreensão (Inteligibilidade): no processo de controle deve ser utilizada uma linguagem
+         simples e clara, no intuito de facilitar a compreensão de todos. Os dados devem ser
+         apresentados de forma compreensível. O controle deve evitar relatórios complicados e
+         estatísticas enganosas.
+
+         Orientação rápida para as exceções (Foco nas exceções): o mecanismo de controle deve
+         ser capaz de identificar os desvios rapidamente. A partir de uma visão panorâmica sobre as
+         variações, o administrador deve ser capaz de identificar os desvios que estão ocorrendo e o
+         que deve ser feito para corrigi-los.
+
+         Flexibilidade: o controle deve proporcionar um julgamento individual e que possa ser
+         modificado para adaptar-se a novas circunstâncias e situações.
+
+         Autocontrole: o controle deve proporcionar confiabilidade, participação e boa comunicação
+         entre as pessoas envolvidas.
+
+         Natureza positiva: o controle deve enfatizar o desenvolvimento, mudança e melhoria.
+         Deve alavancar a iniciativa das pessoas e minimizar o papel da penalidade e das punições.
+
+7
+  MAXIMIANO, Antonio Cesar Amaru. Introdução à Administração, 8ª edição. São Paulo, Atlas: 2011. p.267
+8
+  Harold Koontz, Cyril O’Donnell. Essentials of management. Nova York, McGraw-Hill, 1974, p. 362-5. apud CHIAVENATO,
+Idalberto. Administração nos novos tempos: os novos horizontes em administração, 3ª edição. Barueri, Manole: 2014, p. 511.
+
+
+          Receita Federal (Analista Tributário) Administração Geral                                                     11
+          www.estrategiaconcursos.com.br                                                                                149
+
+                                                                                 11
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+       Economia: Os benefícios obtidos pelo processo de controle devem ser maiores que os
+       custos do controle.
+
+       Clareza e Objetividade: O controle deve ser imparcial e acurado para todos. Também deve
+       haver a “economia de palavras”.
+
+       Aceitação: os sistemas de controle devem ser aceitos pelos controlados.
+
+       Rapidez: as informações obtidas pelo processo de controle devem chegar rapidamente ao
+       tomador de decisões.
+
+       Precisão: A tomada de decisão depende de informações precisas obtidas pelo processo de
+       controle.
+
+(CESPE – FUNPRESP-EXE – Analista - 2016)
+
+Orientação estratégica para resultados, flexibilidade, clareza e objetividade são características do
+controle organizacional.
+
+Comentários:
+
+Isso mesmo! De acordo com as ideias de Chiavenato e Maximiano, as características do controle
+são as seguintes: Orientação estratégica para resultados (Foco estratégico), Compreensão:
+Orientação rápida para as exceções (Foco nas exceções), Flexibilidade, Autocontrole, Natureza
+positiva, Economia, Clareza e Objetividade, Aceitação, Rapidez e Precisão.
+
+Gabarito: correta.
+
+(CESPE – TCE-PR – Analista de Controle – 2016 - ADAPTADA)
+
+Uma das características do controle é a orientação estratégica para resultados, que consiste em
+apoiar planos estratégicos e focalizar as atividades essenciais da organização.
+
+Comentários:
+
+Exatamente! A “orientação estratégica para resultados” é uma das características do controle e
+consiste em focalizar nas atividades primordiais da organização (atividades essenciais da
+organização), ou seja, dar ênfase àquelas atividades mais significativas e que trazem maiores
+resultados à empresa.
+
+Gabarito: correta.
+
+        Receita Federal (Analista Tributário) Administração Geral                                  12
+        www.estrategiaconcursos.com.br                                                             149
+
+                                                            12
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+2 – Etapas do processo de controle
+
+O processo de controle é composto por 04 etapas. Vejamos, a seguir, cada uma delas:
+
+       -Definição dos objetivos: É a etapa onde os objetivos (ou os padrões de desempenho) são
+       estabelecidos. Em outras palavras, trata-se da etapa onde são definidos os resultados
+       esperados. Para que o controle possa ser realizado, é necessário que um objetivo (um
+       “resultado esperado”) tenha sido previamente estabelecido.
+
+       -Monitoramento / Medição / Avaliação: Trata-se da etapa onde as informações são
+       coletadas. Deve-se medir/monitorar/avaliar a atividade que está sendo desempenhada
+       (isto é, o “desempenho atual”), para verificar se os resultados esperados estão sendo
+       atingidos e quais correções devem ser realizadas.
+
+       -Comparação: Trata-se de comparar o resultado obtido (“desempenho atual”) com os
+       objetivos (resultados esperados) ou padrões de desempenho anteriormente estabelecidos.
+
+       -Correção / Realimentação / Feedback: Aqui, o processo é “realimentado” com as
+       informações obtidas. É a etapa onde os desvios negativos são corrigidos, para que os
+       resultados e os objetivos organizacionais sejam alcançados. Nesta etapa, os desvios
+       positivos também podem ser reforçados/aprimorados.
+
+“Stefan, você poderia dar um exemplo para contextualizarmos essas etapas?”
+
+Claro, meu amigo!
+
+A seguir, contextualizarei cada uma das etapas utilizando nosso exemplo anterior do concurseiro
+“João das Neves”.
+
+Definição objetivo: acertar 80 questões da prova.
+
+Monitoramento (avaliação do desempenho atual): realização do simulado.
+
+Comparação: trata-se de comparar o resultado obtido no simulado (50 acertos), com o objetivo
+estabelecido / resultado desejado (80 acertos).
+
+Correção: É necessário que João corrija os desvios que estão impedindo que ele alcance o
+resultado desejado/pretendido. Para isso, ele poderá, por exemplo, aumentar suas horas de
+estudo, aprimorar as revisões, etc.).
+
+        Receita Federal (Analista Tributário) Administração Geral                              13
+        www.estrategiaconcursos.com.br                                                         149
+
+                                                        13
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                            Definição dos objetivos
+
+                    Correção, Realimentação ou                 Monitoramento/Avaliação
+                            Feedback                            do desempenho "atual"
+
+                                            Comparacão entre o
+                                           desempenho "atual" e o
+                                             padrão estabelecido
+
+(AOCP – MPE-BA – Assistente Técnico)
+
+A função de controle, vista em sua totalidade, pode ser conceituada como um processo, uma vez
+que se refere a uma série de etapas que buscam assegurar que a organização alcance seus
+objetivos. Assinale a alternativa que apresenta as etapas do processo de controle.
+
+a) Estabelecimento de parâmetros de desempenho; medição do desempenho real; comparação do
+desempenho observado com os parâmetros preestabelecidos; e implementação de medidas
+corretivas, ajustando o desempenho ou os parâmetros.
+
+b) Identificação da situação-problema; avaliação da situação-problema; construção de indicadores
+para avaliar a situação-problema; coleta de dados sobre o desempenho da situação-problema;
+julgamento dos dados coletados; e implementação de adequações para eliminar ou minimizar o
+problema.
+
+c) Estabelecimento de instrumentos de mensuração; ajustamento dos instrumentos aos objetos a
+serem mensurados; coleta de medidas dos objetos através dos instrumentos; avaliação das
+medidas coletadas; e implementação de correções quando necessário.
+
+        Receita Federal (Analista Tributário) Administração Geral                              14
+        www.estrategiaconcursos.com.br                                                         149
+
+                                                        14
+
+
+---
+
+    Stefan Fantini
+    Aula 08
+
+d) Identificação dos objetos a serem controlados; adoção de procedimentos de controle;
+verificação da adequação dos objetos em relação aos procedimentos; ajuste dos objetos aos
+procedimentos; retroalimentação do processo de controle.
+
+e) Estabelecimento de padrões mensuráveis; estabelecimento dos elementos a serem medidos;
+utilização dos padrões e dos elementos; exercício do controle nos padrões e nos elementos;
+continuação da execução dos padrões e dos elementos.
+
+Comentários:
+
+As etapas do processo de controle são as seguintes:
+
+         Definição dos objetivos: Etapa onde os padrões de desempenho são estabelecidos.
+
+         Monitoramento / Medição / Avaliação: Trata-se da etapa onde as informações são
+         coletadas. Deve-se medir a atividade que está sendo desempenhada (isto é, o
+         “desempenho atual” / “desempenho real”).
+
+         Comparação: Trata-se de comparar o resultado obtido (“desempenho atual”) com os
+         objetivos ou padrões de desempenho anteriormente estabelecidos.
+
+         Correção. É a etapa onde realizam-se as ações corretivas.
+
+O gabarito é a Letra A.
+
+3 – Tipos de Controle (Classificações)
+
+3.1 – Quanto ao Nível Organizacional
+
+O planejamento é feito em todos os níveis organizacionais (estratégico, tático e operacional).
+Consequentemente, o controle também deve existir em todos os níveis organizacionais.
+
+Nesse sentido, no que se refere ao nível organizacional em que o controle ocorre, Chiavenato 9
+destaca que o controle pode ser classificado em: Controle Estratégico, Controle Tático e Controle
+Operacional.
+
+Vejamos cada um deles:
+
+9
+ CHIAVENATO, Idalberto. Administração nos novos tempos: os novos horizontes em administração, 3ª edição. Barueri, Manole:
+2014, p. 512-519.
+
+
+          Receita Federal (Analista Tributário) Administração Geral                                                    15
+          www.estrategiaconcursos.com.br                                                                               149
+
+                                                                                15
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                      Nível
+                                   Estratégico
+
+                                   Nível ático
+
+                                Nível Operacional
+
+Controle Estratégico (Controle Organizacional ou Controle Institucional)
+
+O Controle Estratégico, também chamado de Controle Organizacional ou Controle Institucional, é
+encontrado no nível Estratégico da organização e está diretamente relacionado ao Planejamento
+Estratégico.
+
+     Lembre-se: O Planejamento Estratégico é aquele realizado no nível institucional ou
+     estratégico, pela alta cúpula da organização (presidentes e diretores). Ele envolve a
+     organização como um todo e tem por objetivo nortear os caminhos que a organização
+     deve seguir. Esse tipo de planejamento leva em consideração tanto o ambiente interno,
+     quanto o ambiente externo. É voltado para o longo prazo e é orientado para o futuro.
+
+
+Portanto, o Controle Estratégico tem por objetivo avaliar se os planos e objetivos estratégicos
+(definidos pelo planejamento estratégico) estão sendo alcançados.
+
+Trata-se do tipo de controle que avalia os resultados e o desempenho da organização como um
+todo, levando em consideração tanto as informações externas quanto as informações internas.
+Tem forte orientação externa.
+
+O Controle Estratégico busca orientar a alta cúpula da organização na tomada de decisões. É
+genérico, sintético e voltado para o longo prazo.
+
+Como exemplos de controles estratégicos podem-se citar: Balanço Contábil, Relatórios Financeiros,
+Nível de satisfação dos usuários, e Análise do retorno sobre o investimento (RSI).
+
+
+        Receita Federal (Analista Tributário) Administração Geral                                 16
+        www.estrategiaconcursos.com.br                                                            149
+
+                                                           16
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Controle Tático
+
+O Controle Tático é encontrado no nível Tático da organização e está diretamente relacionado ao
+Planejamento Tático.
+
+     Lembre-se: O planejamento tático é realizado no nível intermediário/gerencial. Ele
+     envolve uma determinada unidade (departamento, área, divisão) da organização. Ele
+     busca traduzir as estratégias “genéricas” e abrangentes, e transformá-las em ações
+     específicas e direcionadas para determinada unidade da organização. É o “elo de
+     ligação” entre o planejamento estratégico e o planejamento operacional. O
+     planejamento tático é voltado para o médio prazo.
+
+Portanto, o Controle Tático tem por objetivo avaliar se os planos e objetivos táticos (definidos
+pelo planejamento tático) estão sendo alcançados.
+
+Trata-se do tipo de controle que avalia os resultados e o desempenho de determinadas unidades
+da organização (departamentos, áreas, divisão). Preocupa-se com a “articulação interna”.
+
+É um pouco menos genérico e mais detalhado que o Controle Estratégico, e está voltado,
+normalmente, para o médio prazo.
+
+Como exemplos de controles táticos podem-se citar: Controle Orçamentário e Contabilidade de
+Custos.
+
+Chiavenato (2014) em sua obra destaca que os orçamentos fazem parte do PLANEJAMENTO
+operacional. Portanto, faria mais sentido se o autor afirmasse que o controle orçamentário faz
+parte do CONTROLE operacional. Contudo, isso não acontece. O autor acaba se contradizendo e
+sustenta que o controle orçamentário faz parte do CONTROLE tático.
+
+Sobral e Peci (2013), por outro lado, seguindo a linha de raciocínio mais lógica, afirmam que o
+controle orçamentário, de fato, faz parte do CONTROLE operacional.
+
+        Receita Federal (Analista Tributário) Administração Geral                               17
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         17
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Portanto, você deve ficar atento ao contexto da questão e aceitar se a banca disser que o controle
+orçamentário faz parte do CONTROLE tático (nesse caso, estará adotando o posicionamento de
+Chiavenato) bem como deverá aceitar se a banca disser que o controle orçamentário faz parte do
+CONTROLE operacional (nesse caso, estará adotando o posicionamento mais assertivo de Sobral e
+Peci).
+
+Vejamos uma questão do CESPE que levou em consideração o posicionamento de Chiavenato:
+
+(CESPE – TCE-PA – Auditor de Controle Externo - 2016)
+
+Controles orçamentários realizados nos níveis intermediários da organização para monitorar e
+controlar as despesas de várias unidades no decorrer de um exercício anual são considerados
+CONTROLES táticos.
+
+Comentários:
+
+A questão está correta. Perceba, entretanto, que a questão foi bastante especifica, afastando
+qualquer tipo de recurso, ao destacar que os controles são “realizados nos níveis intermediários
+da organização para monitorar e controlar as despesas de várias unidades”.
+
+Gabarito: correta.
+
+Pois bem, vamos seguir em frente...
+
+Controle Operacional
+
+O Controle Operacional é encontrado no nível Operacional da organização e está diretamente
+relacionado ao Planejamento Operacional.
+
+     Lembre-se: O planejamento operacional é realizado pelo nível administrativo mais baixo
+     da organização. Ele se preocupa com “o que” e “como” fazer. Esse tipo de
+     planejamento está direcionado para as atividades básicas do dia a dia, ou seja, está
+     orientado para as tarefas rotineiras. Os planos operacionais estão voltados para a
+     eficiência (foco nos “meios”). O planejamento operacional é orientado para o curto
+     prazo.
+
+        Receita Federal (Analista Tributário) Administração Geral                                  18
+        www.estrategiaconcursos.com.br                                                             149
+
+                                                            18
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Portanto, o Controle Operacional tem por objetivo avaliar se os planos e objetivos operacionais
+(definidos pelo planejamento operacional) estão sendo alcançados.
+
+Trata-se do tipo de controle que avalia as tarefas e as atividades específicas. Ele analisa cada
+tarefa ou processo operacional de forma específica. Preocupa-se com a eficiência e o consumo de
+recursos.
+
+É o mais detalhado e mais analítico, e está voltado para o curto prazo.
+
+Como exemplos de controles operacionais podem-se citar: Controle de Inventário de Estoque,
+Controle de Qualidade e Programação Just-in-time (tipo de controle de inventário).
+
+(FGV – Câmara de Salvador-BA – Assistente Legislativo - 2018)
+
+Nas organizações, o controle pode ser aplicado aos três níveis organizacionais: estratégico, tático e
+operacional.
+No nível tático, o foco do controle está:
+
+a) na capacidade de inovação da empresa;
+
+b) no desempenho de unidades ou áreas da organização;
+
+c) no grau de realização da missão, visão, estratégia e objetivos;
+
+d) no desempenho de atividades e processos específicos, atribuídos a pessoas ou grupos;
+
+e) no desempenho financeiro global da organização.
+
+Comentários:
+
+Letra A: errada. O foco na “capacidade de inovação da empresa” está relacionado ao controle
+estratégico.
+
+Letra B: correta. Isso mesmo! O controle tático tem foco nos resultados e no desempenho de
+determinadas unidades da organização (departamentos, áreas, divisão).
+
+Letra C: errada. É o controle estratégico que foca no “grau de realização da missão, visão,
+estratégia e objetivos”.
+
+Letra D: errada. O foco “no desempenho de atividades e processos específicos, atribuídos a
+pessoas ou grupos” está relacionado ao controle operacional.
+
+        Receita Federal (Analista Tributário) Administração Geral                                   19
+        www.estrategiaconcursos.com.br                                                              149
+
+                                                             19
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+Letra E: errada. O desempenho financeiro global da organização está relacionado ao controle
+estratégico.
+
+O gabarito é a letra B.
+
+(AOCP – FUNPAPA – Auxiliar de Administração - 2018)
+
+Quanto aos tipos de controle nas empresas, analise as assertivas e assinale a alternativa que
+apresenta a(s) correta(s).
+
+I. O controle estratégico é genérico e sintético quanto a seu conteúdo e é direcionado para o longo
+prazo.
+
+II. O controle operacional é detalhado, analítico e direcionado para o curto prazo.
+
+III. O controle tático incide sobre o nível institucional da empresa e aborda a empresa em sua
+totalidade.
+
+a) Apenas I.
+
+b) Apenas I e III.
+
+c) Apenas III.
+
+d) I, II e III.
+
+e) Apenas I e II.
+
+Comentários:
+
+A primeira assertiva está correta. O Controle Estratégico é genérico, sintético e voltado para o
+longo prazo. Busca orientar a alta cúpula da organização na tomada de decisões.
+
+A segunda assertiva está correta. O Controle Operacional é o mais detalhado e mais analítico, e
+está voltado para o curto prazo. Trata-se do tipo de controle que avalia as tarefas e as atividades
+específicas.
+
+A terceira assertiva está errada. É o Controle Estratégico que incide sobre o nível institucional da
+empresa e aborda a empresa em sua totalidade.
+
+O gabarito é a letra E.
+
+           Receita Federal (Analista Tributário) Administração Geral                               20
+           www.estrategiaconcursos.com.br                                                          149
+
+                                                            20
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+3.2 – Quanto ao Momento
+
+O controle pode ocorrer antes da atividade, durante a atividade ou após a atividade ter se
+encerrado. Nesse sentido, em relação ao momento, ou seja, ao tempo em que o controle ocorre,
+ele pode ser classificado em: Controle Preventivo, Controle Simultâneo e Controle Posterior.
+Vejamos cada um deles:
+
+
+Controle Preventivo (preliminar, pré- çã , v             çã d     ó      ,“ x   ”, u   -controle)
+
+Trata-se do controle que ocorre antes da atividade ser executada. O controle preventivo tem por
+objetivo identificar e prevenir a ocorrência de problemas. Trata-se de um controle proativo, que
+se antecipa aos problemas, visando a evitar que eles ocorram.
+
+Como as ações ainda não foram executadas, esse tipo de controle se baseia na inspeção e
+verificação dos insumos (recursos, máquinas, matérias primas, etc.), que serão utilizados nas
+atividades. O foco está, portanto, nos insumos.
+
+
+            S mu â      (                ,m           m       , u“            ”)
+
+Esse tipo de controle ocorre durante a execução da atividade. Em outras palavras, ocorre
+concomitantemente (ao mesmo tempo) em que a atividade está sendo executada.
+
+As atividades são monitoradas e avaliadas continuamente, durante sua execução, com o objetivo
+de corrigir os problemas que eventualmente possam ocorrer. O controle simultâneo busca
+detectar e corrigir os desvios que ocorrem durante a execução das atividades. Trata-se de um
+controle reativo.
+
+Como as atividades já estão sendo executadas, esse tipo de controle tem foco no processo.
+
+
+Controle Posterior (pós- çã , v             çã    m     v , f    db k,                   çã ,   u “ x
+    ”)
+
+O controle posterior ocorre depois que a atividade foi executada. Tem por objetivo avaliar o
+desempenho da atividade que já foi encerrada.
+
+Como as atividades já foram executadas, o controle posterior busca identificar quais foram as
+causas dos problemas (dos desvios) para corrigi-los. O objetivo é evitar que os mesmos problemas
+ocorram novamente nas ações que serão executadas no futuro.
+
+Ou seja, esse tipo de controle tem por objetivo evitar que os erros do passado ocorram
+novamente. Trata-se, portanto, de um tipo de controle que tem foco no resultado.
+
+        Receita Federal (Analista Tributário) Administração Geral                                          21
+        www.estrategiaconcursos.com.br                                                                     149
+
+                                                                    21
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+(CCV-UFC – UFC – Administrador - 2017)
+
+Sobre os tipos de controle utilizados pelas organizações, e o fluxo de entradas, processos e saídas,
+identifique a alternativa correta.
+
+a) O controle de feedback antecipa os problemas.
+
+b) O controle simultâneo está relacionado com os processos.
+
+c) O controle de feedback corrige os problemas conforme ocorram.
+
+d) O controle preventivo de alimentação de fluxo é similar ao feedback.
+
+e) O controle preventivo de alimentação de fluxo está relacionado com as saídas.
+
+Comentários:
+
+Letra A: errada. Pelo contrário! O controle por feedback (posterior) ocorre depois que a atividade
+foi executada. O controle que se antecipa aos problemas é o controle preventivo.
+
+Letra B: correta. Isso mesmo! O controle simultâneo tem foco nos processos. Ele ocorre durante a
+execução correta atividade.
+
+Letra C: errada. Nada disso. O controle por feedback (posterior) ocorre depois que a atividade foi
+executada. Portanto, não há mais como corrigir as atividades (pois elas já se encerraram). Ele visa a
+corrigir as atividades futuras.
+
+O controle que corrige os problemas conforme vão ocorrendo é o controle simultâneo.
+
+Letra D: errada. Nada disso! Controle preventivo é uma coisa; controle por feedback é outra. O
+controle preventivo ocorre antes da atividade ser executada. O controle por feedback (posterior),
+por sua vez, ocorre depois que a atividade foi executada.
+
+Letra E: errada. O controle preventivo está relacionado com os insumos (entradas). O controle
+que está relacionado com os resultados (saídas) é o controle posterior (feedback).
+
+O gabarito é a letra B.
+
+(AOCP – EBSRH – Analista Administrativo - 2015)
+
+        Receita Federal (Analista Tributário) Administração Geral                                   22
+        www.estrategiaconcursos.com.br                                                              149
+
+                                                             22
+
+
+---
+
+    Stefan Fantini
+    Aula 08
+
+ Qual é o tipo de controle para a mensuração do desempenho que NÃO tem como objetivo corrigir
+ o desempenho, mas identificar as causas que permitam a correção de problemas futuros?
+
+ a) Controle preventivo.
+
+ b) Controle simultâneo.
+
+ c) Controle contínuo.
+
+ d) Controle proativo.
+
+ e) Controle posterior
+
+ Comentários:
+
+ O controle que busca identificar as causas dos problemas, para corrigir problemas futuros, é o
+ controle posterior.
+
+ Quando a assertiva diz “NÃO tem como objetivo corrigir o desempenho”, ela está querendo dizer
+ que esse tipo de controle não tem como objetivo corrigir o desempenho atual. A atividade já foi
+ executada, já se encerrou. Portanto, esse tipo de controle tem por objetivo avaliar o desempenho
+ da atividade que já foi encerrada, identificando o desempenho e os problemas, para evitar que os
+ mesmos problemas ocorram novamente nas ações que serão executadas no futuro.
+
+ O gabarito é a letra E.
+
+                                                         ESQUEMATIZANDO!
+
+                                                Controle                Avalia a organização como um todo. É genérico,
+                                               Estratégico                 sintético e orientado para o longo prazo.
+                       Quanto ao                                       Avalia unidades/departamentos. É menos genérico,
+                                                Controle
+                         nível                                            mais detalhado e orientado ao médio prazo.
+                     organizacional
+                                                 Tático
+                                               Controle                Avalia atividades e tarefas específicas. É detalhado,
+                                              Operacional                     analítico e voltado para o curto prazo.
+Tipos de
+Controle
+                                                Controle                 Ocorre antes da atividade ser executada. Está
+                                               Preventivo                    relacionado aos insumos. É proativo.
+
+                       Quanto ao                Controle                  Ocorre durante a execução da atividade. Está
+                       momento                 Simultâneo                    relacionado aos processos. É reativo.
+
+                                                Controle                 Ocorre depois da atividade ser executada. Está
+                                                Posterior                         relacionado aos resultados.
+
+           Receita Federal (Analista Tributário) Administração Geral                                                     23
+           www.estrategiaconcursos.com.br                                                                                149
+
+                                                                                  23
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+3.3 – Níveis de Controle de Perrow
+
+De acordo com Perrow, o controle pode ser de primeira, de segunda ou de terceira ordem.
+
+       Controle de Primeira Ordem: supervisão direta. Trata-se de uma forma mais simples de
+       controle, adotada por pequenas empresas, onde os chefes (por exemplo, o dono da
+       empresa), através da supervisão direta, controlam as atividades dos empregados.
+
+       Controle de Segunda Ordem: padronização de processos. Trata-se de uma forma de
+       controle baseada na tecnologia (automação dos processos) e na burocracia (conjunto de
+       regras racionais).
+
+       Controle de Terceira Ordem: controle por premissas e cultura. Este tipo de controle é mais
+       “implícito”. Ou seja, envolve o compartilhamento de pressupostos, valores e crenças entre
+       os indivíduos, que acabam por coordenar e orientar as atividades de forma “natural”.
+
+3.4 – Outras Classificações de Controle
+
+Neste tópico, trarei algumas outras classificações de controle que costumam ser menos cobradas
+em provas. Portanto, vale a pena termos apenas uma visão “geral” sobre o assunto para que, caso
+apareça em sua prova, você marque a resposta correta e garanta seu precioso ponto!
+
+Quanto à orientação
+
+       Controle Burocrático: esse controle é realizado através da criação de regras, regulamentos,
+       normas, padrões e procedimentos, no intuito de influenciar e avaliar o desempenho.
+
+       Controle de Mercado: está relacionado à utilização de critérios de mercado, tais como:
+       participação de mercado, satisfação dos clientes, etc. Tem por objetivo avaliar as atividades
+       e os resultados da organização.
+
+       Controle de Clã: está diretamente relacionado ao compartilhamento de crenças e valores
+       que as pessoas da organização compartilham entre si. Esses relacionamentos informais
+       acabam por orientar o comportamento dos indivíduos em busca dos objetivos
+       organizacionais.
+
+        Receita Federal (Analista Tributário) Administração Geral                                  24
+        www.estrategiaconcursos.com.br                                                             149
+
+                                                            24
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+Quanto ao tipo de empresa
+
+De acordo com Josir Gomes10, dependendo do tamanho e das características da organização, o
+controle pode ser de 04 tipos:
+
+           Controle Familiar: é o tipo de controle que está presente nas empresas familiares,
+           (normalmente de pequeno porte). O controle é exercido diretamente pelo dono da
+           empresa. Os empregados demonstram uma fidelidade muito grande ao proprietário da
+           empresa. O controle é bastante informal (com pouca ou nenhuma formalidade), não
+           existindo qualquer tipo de “mapeamento de processo”.
+
+           Controle Burocrático: é o tipo de controle utilizado por empresas de grande porte que
+           possuem estruturas centralizadas e processos de controle bastante formalizados. O
+           controle é baseado em normas, regulamentos e regras bastante rígidas. Ao invés do “dono
+           da empresa”, aqui, quem se destaca, é a figura do “ h f ”.
+
+           Controle por Resultado: é o tipo de controle utilizado por empresas de grande porte que
+           atuam em ambientes complexos e bastante competitivos. As empresas que utilizam esse
+           tipo de controle possuem estruturas descentralizadas (compostas por “centros de
+           responsabilidade/resultados). Os gerentes somente são responsabilizados pelos resultados
+           que estejam sob seu controle.
+
+           Controle ad hoc: é o tipo de controle utilizado por empresas que atuam em ambientes
+           muito dinâmicos, bastante complexos e que envolvem alta tecnologia. Os mecanismos de
+           controle são informais e baseados no “autocontrole”. O alto nível de profissionalização dos
+           funcionários direciona o controle para decisões colegiadas, baseadas nos conhecimentos
+           sobre as atividades desenvolvidas. Por exemplo: é o tipo de controle adotado em empresas
+           de consultoria, publicidade, etc.
+
+Quanto ao comportamento das pessoas
+
+De acordo com Maximiano11, os controles que agem sobre o comportamento das pessoas podem
+ser divididos em 03 tipos:
+
+           Controle Formal (pressão formal): trata-se do controle exercido com base no poder
+           racional-legal. Ou seja, o “chefe” utiliza seu cargo para induzir ou coibir algum tipo de
+           comportamento. Alguns mecanismos utilizados nesse tipo de controle são: recompensas,
+           punições, etc. Pode-se dizer que apenas a “existência” do chefe, já é tida como uma forma
+           de controle formal.
+
+
+10
+     GOMES, Josir Simeone. Controle de gestão comportamental: textos e casos. São Paulo, Atlas: 2014. pp. 5-8
+11
+     MAXIMIANO, Antonio Cesar Amaru. Introdução à Administração, 8ª edição. São Paulo, Atlas: 2011. p.269-270.
+
+
+            Receita Federal (Analista Tributário) Administração Geral                                                 25
+            www.estrategiaconcursos.com.br                                                                            149
+
+                                                                               25
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+       Controle Social: esse controle ocorre quando um “conjunto de pessoas” exerce controle
+       sobre algum de seus membros, para que eles ajustem seus comportamentos às crenças e
+       valores criados e pré-estabelecidos por esse mesmo grupo. A “aceitação” das pessoas aos
+       valores, às crenças e as normas sociais chama-se conformidade social. Nesse sentido, vestir-
+       se ou falar como os colegas, é um exemplo de conformidade social. Alguns mecanismos
+       utilizados nesse tipo de controle são: punições (como a censura e a exclusão do grupo),
+       recompensas, etc.
+
+       Controle Técnico: esse tipo de controle é realizado para que as pessoas se comportem de
+       determinada maneira, sem a interferência dos chefes ou dos colegas. É exercido por
+       “sistemas” que determinam a direção a ser seguida, a intensidade e a frequência do
+       comportamento. Por exemplo: os relógios (que mostram até que horas todos devem
+       trabalhar); as faixas de rodagem (que determinam em que direção seguir), as máquinas e as
+       linhas de montagem (cuja velocidade define a intensidade do trabalho humano) e os
+       orçamentos (que estabelecem o limite). Perceba que, muitas vezes, tratam-se de controle
+       bastante sutis. Destaque-se que esse tipo de controle não “premia” o desempenho.
+
+Quanto à natureza do controlador
+
+       Controle Judicial: Consiste no controle realizado exclusivamente pelo Poder Judiciário, no
+       exercício de sua função típica. No Brasil adota-se o sistema de jurisdição una (sistema
+       inglês), isto é, todos os litígios (sejam administrativos ou privados) podem ser levados ao
+       Poder Judiciário, o qual é o único que pode produzir decisões definitivas (decisões com
+       força de coisa julgada).
+
+       Controle Legislativo: Também chamado de Controle Parlamentar, trata-se do controle
+       efetuado pelo Poder Legislativo nas hipóteses previstas na Constituição Federal de 1988.
+       Existem 02 tipos de controle legislativo: o político e o financeiro/técnico. O controle
+       legislativo é uma espécie de controle externo.
+
+       Controle Administrativo: Trata-se do controle que a Administração exerce sobre suas
+       próprias atividades. Trata-se de um mecanismo de autocontrole. Decorre do princípio da
+       autotutela. O controle administrativo é uma espécie de controle interno.
+
+Quanto à origem que o realiza
+
+       Controle Interno: O controle interno ocorre quando a Entidade a ser fiscalizada integra a
+       mesma estrutura organizacional da Entidade Fiscalizadora; ou seja, o órgão especializado
+       de fiscalização pertence à mesma estrutura da Entidade a ser fiscalizada. Trata-se do
+       controle realizado dentro de um “mesmo Poder”. Por exemplo: A Controladoria Geral da
+
+        Receita Federal (Analista Tributário) Administração Geral                                 26
+        www.estrategiaconcursos.com.br                                                            149
+
+                                                           26
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+       União está vinculada à Presidência da República (Poder Executivo) e possui atribuições de
+       controlar os órgãos do Poder Executivo Federal.
+
+       Controle Externo: O controle externo ocorre quando a Entidade a ser fiscalizada não integra
+       a mesma estrutura organizacional da Entidade Fiscalizadora; ou seja, quando um dos
+       Poderes exerce controle sobre outro Poder. Por exemplo: quando o Congresso Nacional
+       (Poder Legislativo) julga as contas prestadas pelo Presidente da República (Poder Executivo),
+       ou então quando o Poder Judiciário exerce controle sobre o Poder Executivo.
+
+       Controle Popular: O controle popular é aquele realizado pelo povo (seja diretamente, ou
+       através de Entidades criadas para esta função). Por exemplo: o art. 74, § 2º, da Constituição
+       Federal, prevê hipótese de participação popular no controle externo, vejamos: “qualquer
+       cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei,
+       denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União”.
+
+Quanto à iniciativa
+
+       Controle de Ofício: trata-se de um controle “espontâneo”. É exercido pela própria
+       administração (por iniciativa própria) no exercício de seu poder de autotutela.
+
+       Controle Provocado: diferentemente do controle de ofício, o controle provocado é
+       “iniciado” por terceiros. Ou seja, é um controle que se dá mediante “provocação”. Por
+       exemplo: um recurso administrativo ou uma ação judicial.
+
+(CESPE – ICMBIO – Analista Administrativo)
+
+Os processos burocráticos e os tecnológicos são exemplos de controle de primeira ordem, em que
+chefias (donos, patrões, gerentes etc.) exercem poder direto sobre seus comandados em uma
+estrutura simples de controle.
+
+Comentários:
+
+A assertiva misturou os conceitos do controle de primeira ordem com os conceitos do controle de
+segunda ordem.
+
+        Receita Federal (Analista Tributário) Administração Geral                                  27
+        www.estrategiaconcursos.com.br                                                             149
+
+                                                            27
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+De fato, no controle de primeira ordem, as chefias (donos, patrões, gerentes etc.) exercem poder
+direto sobre seus comandados em uma estrutura simples de controle.
+
+Contudo, os “processos burocráticos e tecnológicos” estão relacionados ao controle de segunda
+ordem.
+
+Gabarito: errada.
+
+                             INDICADORES DE DESEMPENHO
+De acordo com Ferreira, Cassiolato e Gonzales (2009)12, “o indicador é uma medida, de ordem
+quantitativa ou qualitativa, dotada de significado particular e utilizada para organizar e captar as
+informações relevantes dos elementos que compõem o objeto da observação. É um recurso
+metodológico que informa empiricamente sobre a evolução do aspecto observado”.
+
+Rua13, por sua vez, destaca que “os indicadores são medidas que representam ou quantificam um
+insumo, um resultado, uma característica ou o desempenho de um processo, de um serviço, de um
+produto ou da organização como um todo”.
+
+Portanto, os indicadores servem para monitorar e medir o desempenho e os resultados
+organizacionais.
+
+“Como assim, Stefan?”
+
+Você se recorda do nosso exemplo do João das Neves?
+
+Pois bem.
+
+12
+   Ministério do Planejamento, Orçamento e Gestão – SPI. Indicadores de Programas: Guia Metodológico. Disponível
+em:http://www.planejamento.gov.br/secretarias/upload/Arquivos/spi/publicacoes/100324_indicadores_programas-
+guia_metodologico.pdf
+13
+   RUA, Maria das Graças. Desmistificando o problema: uma rápida introdução ao estudo dos indicadores. Disponível em:
+http://antigo.enap.gov.br/downloads/ec43ea4fUFAM-MariadasGraEstudoIndicadores-novo.pdf
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                               28
+           www.estrategiaconcursos.com.br                                                                          149
+
+                                                                            28
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+O indicador, nesse exemplo, busca medir quantas questões João das Neves está acertando no
+simulado, para saber se ele está chegando perto de atingir o seu objetivo (a sua meta), ou então,
+se ele está se distanciando cada vez mais desse objetivo.
+
+Perceba que se trata de uma medida (quantidade de acertos) que representa e quantifica uma
+informação relevante (desempenho na prova). Ou seja, representa o desempenho de um processo.
+
+Para elaborar questões de concursos públicos, as bancas examinadoras costumam utilizar um
+documento produzido pelo saudoso Ministério do Planejamento, chamado “Guia Referencial para
+Medição de Desempenho e Manual para Construção de Indicadores”. Sendo assim, esse
+documento também servirá de base ao nosso estudo.
+
+1 – Finalidades dos Indicadores
+
+De acordo com o mencionado Guia, os indicadores têm as seguintes finalidades14:
+
+          -mensurar os resultados e gerir o desempenho;
+
+          -embasar a análise crítica dos resultados obtidos e do processo de tomada de decisão;
+
+          -contribuir para a melhoria contínua dos processos organizacionais;
+
+          -facilitar o planejamento e o controle do desempenho; e
+
+          -viabilizar a análise comparativa do desempenho da organização e do desempenho de
+          diversas organizações atuantes em áreas ou ambientes semelhantes.
+
+Os indicadores são utilizados para medir o desempenho. Portanto, também são chamados de
+indicadores de desempenho.
+
+Desempenho pode ser entendido como os esforços que são empreendidos na direção de
+resultados a serem alcançados. Portanto, desempenho = esforços + resultados (ou então,
+desempenho = esforços –> resultados).
+
+14
+   Ministério do Planejamento: Guia Referencial para Medição de Desempenho e Manual para Construção de Indicadores.
+Disponível em: http://www.gespublica.gov.br/content/guia-referencial-para-medi%C3%A7%C3%A3o-de-desempenho-e-manual-
+para-constru%C3%A7%C3%A3o-de-indicadores
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                             29
+           www.estrategiaconcursos.com.br                                                                        149
+
+                                                                          29
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                   DESEMPENHO                         ESFORÇOS            RESULTADOS
+
+                   DESEMPENHO                         ESFORÇOS            RESULTADOS
+
+(CESPE – INMETRO – Analista Executivo - ADAPTADA)
+
+Entende-se por desempenho o direcionamento dos esforços empreendidos em relação aos
+resultados a serem alcançados, em outras palavras, desempenho consiste na soma de aspectos
+relativos a esforços e aspectos relativos a resultados.
+
+Comentários:
+
+Perfeito! De fato, o desempenho pode ser entendido como os esforços que são empreendidos na
+direção de resultados a serem alcançados. Portanto, desempenho = esforços + resultados (ou
+então, desempenho = esforços –> resultados).
+
+Gabarito: correta.
+
+        Receita Federal (Analista Tributário) Administração Geral                           30
+        www.estrategiaconcursos.com.br                                                      149
+
+                                                     30
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+2 – Componentes Básicos dos Indicadores
+
+Vejamos, a seguir, os componentes básicos de um indicador15:
+
+          Medida: grandeza qualitativa ou quantitativa que permite classificar as características,
+          resultados e consequências dos produtos, processos ou sistemas;
+
+          Fórmula: padrão matemático que expressa à forma de realização do cálculo;
+
+          Índice (número): valor de um indicador em determinado momento;
+
+          Padrão de comparação: índice arbitrário e aceitável para uma avaliação comparativa de
+          padrão de cumprimento; e
+
+          Meta: índice (número) orientado por um indicador em relação a um padrão de comparação
+          a ser alcançado durante certo período.
+
+Para entendermos melhor os componentes básicos dos indicadores, voltemos ao nosso exemplo
+de João das Neves.
+
+A Medida, é a quantidade de acertos.
+
+O Índice, quando João decidiu que iria prestar o concurso, era 50 (ou seja, a quantidade de
+questões que ele estava acertando naquele momento)
+
+O Padrão de Comparação é 80 (isto é, a quantidade de questões que João precisa acertar para ser
+aprovado). Em outras palavras, é um índice “aceitável”.
+
+A Meta é 85 (ou seja, o número de questões que João precisa acertar para conseguir escolher a
+lotação que deseja).
+
+“E a Fórmula, professor?”
+
+A fórmula aparece quando existe mais de uma variável se “relacionando” com o indicador. Ela
+busca fazer a “pronderação” entre as variáveis existentes.
+
+
+15
+   Ministério do Planejamento: Guia Referencial para Medição de Desempenho e Manual para Construção de Indicadores.
+Disponível em: http://www.gespublica.gov.br/content/guia-referencial-para-medi%C3%A7%C3%A3o-de-desempenho-e-manual-
+para-constru%C3%A7%C3%A3o-de-indicadores
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                             31
+           www.estrategiaconcursos.com.br                                                                        149
+
+                                                                          31
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Nesse nosso exemplo de João das Neves não temos fórmula. Contudo, a formula estaria presente
+se no concurso que João das Neves fosse prestar houvesse “peso” entre as questões (por exemplo:
+metade das questões são especificas e tem peso 3 e a outra metade das questões são da parte
+geral e tem peso 1).
+
+(FCC – TRT 14a – Analista Judiciário - 2016)
+
+Os indicadores são instrumentos metodológicos que permitem identificar e mensurar aspectos
+relacionados a certo conceito, situação, fenômeno, problema ou mesmo resultado de uma
+determinada intervenção na realidade social. Sobre os componentes básicos de um indicador, é
+correto afirmar:
+
+a) Medida é o valor de um indicador em determinado momento.
+
+b) Fórmula é a grandeza qualitativa ou quantitativa que permite classificar as características, os
+resultados e as consequências dos produtos, processos ou sistemas.
+
+c) Índice é o padrão matemático que expressa a forma de realização do cálculo.
+
+d) Padrão de comparação é o padrão matemático que expressa a forma de realização do cálculo.
+
+e) Meta é um número orientado por um indicador em relação a um padrão de comparação a ser
+alcançado durante certo período.
+
+Comentários:
+
+Letra A: errada. A assertiva trouxe o conceito do Índice.
+
+Letra B: errada. A assertiva trouxe o conceito de Medida.
+
+Letra C: errada. A assertiva trouxe o conceito de Fórmula.
+
+Letra D: errada. Mais uma vez, trata-se do conceito de Fórmula.
+
+Letra E: correta. Bingo! De fato, a Meta é um índice (número) orientado por um indicador em
+relação a um padrão de comparação a ser alcançado durante certo período.
+
+O gabarito é a letra E.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                                32
+        www.estrategiaconcursos.com.br                                                           149
+
+                                                          32
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+3 – Critérios Básicos (Atributos) dos Indicadores
+
+O Guia Referencial para Medição de Desempenho e Manual para Construção de Indicadores
+elenca alguns critérios básicos (critérios centrais) que devem estar presentes para garantir a
+operacionalização dos indicadores. São eles:
+
+       Seletividade (importância): os indicadores devem fornecer informações sobre as principais
+       variáveis estratégicas e prioridades definidas de ações, produtos ou impactos esperados;
+
+       Simplicidade, clareza, inteligibilidade e comunicabilidade: os indicadores devem ser
+       simples e compreensíveis, capazes de levar a mensagem e o significado. Os nomes e
+       expressões devem ser facilmente compreendidos e conhecidos por todos os públicos
+       interessados;
+
+       Representatividade, confiabilidade e sensibilidade: os indicadores devem ter capacidade
+       de demonstrar a mais importante e crítica etapa de um processo, projeto etc. Deve-se
+       captar as etapas mais importantes e críticas dos processos, no local certo, para que seja
+       suficientemente representativo e abrangente. Os dados devem ser precisos, capazes de
+       responder aos objetivos e coletados na fonte de dados correta e devem refletir
+       tempestivamente os efeitos decorrentes das intervenções;
+
+       Investigativos: os dados disponibilizados pelos indicadores devem ser fáceis de analisar,
+       sejam estes para registro ou para reter informações e permitir juízos de valor;
+
+       Comparabilidade: os indicadores devem ser facilmente comparáveis com as referências
+       internas ou externas, bem como séries históricas de acontecimentos;
+
+       Estabilidade: os indicadores devem ter procedimentos gerados de forma sistemática e
+       constante, sem muitas alterações e complexidades, uma vez que é relevante manter o
+       padrão e permitir a série‐histórica; e
+
+        u ‐ f v d d : os indicadores devem ser projetados para serem factíveis e
+       economicamente viáveis. Os benefícios em relação aos custos devem satisfazer todos os
+       outros demais níveis. Nem todas as informações devem ser mensuradas, é preciso avaliar os
+       benefícios gerados em detrimento do ônus despendido.
+
+        Receita Federal (Analista Tributário) Administração Geral                               33
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         33
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+Graças Rua destaca, adicionalmente, alguns outros atributos que os indicadores devem possuir
+para serem viáveis e práticos16:
+
+          Adaptabilidade: capacidade de resposta às mudanças de comportamento e exigências dos
+          clientes. Os indicadores podem tornar-se desnecessários ao longo do tempo e devem ser
+          imediatamente eliminados ou substituídos por outros de maior utilidade.
+
+          Rastreabilidade: facilidade para identificação da origem dos dados, seu registro e
+          manutenção. Sempre que possível, deve-se transformar os resultados em gráficos para um
+          acompanhamento mais preciso, o que permite a comparação com desempenhos anteriores.
+
+          Disponibilidade: facilidade de acesso para coleta, estando disponível a tempo, para as
+          pessoas certas e sem distorções, servindo de base para que decisões sejam tomadas. De
+          nada adiantaria informações atrasadas e desatualizadas, embora corretas, ou informações
+          atuais e corretas, mas para a pessoa errada.
+
+          Economia: não deve ser gasto tempo demais procurando dados, muito menos pesquisando
+          ou aguardando novos métodos de coleta. Os benefícios trazidos com os indicadores devem
+          ser maiores que os custos incorridos na medição. Caso contrário, em pouco tempo a
+          organização estará medindo sua própria falência.
+
+          Praticidade: garantia de que realmente funciona na prática e permite a tomada de decisões
+          gerenciais. Para isso, deve ser testado no campo e, se necessário, modificado ou excluído.
+
+(FGV – ALERJ – Especialista Legislativo - 2017)
+
+A elaboração de um quadro de indicadores de desempenho organizacional deve obedecer certos
+atributos.
+
+Nesse sentido, um indicador que capte os aspectos mais importantes de um dado processo refere-
+se ao atributo de:
+
+a) adaptabilidade;
+
+b) disponibilidade;
+
+16
+   RUA, Maria das Graças. Desmistificando o problema: uma rápida introdução ao estudo dos indicadores. Disponível em:
+http://antigo.enap.gov.br/downloads/ec43ea4fUFAM-MariadasGraEstudoIndicadores-novo.pdf
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                               34
+           www.estrategiaconcursos.com.br                                                                          149
+
+                                                                            34
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+c) economia;
+
+d) representatividade;
+
+e) simplicidade.
+
+Comentários:
+
+É o atributo da representatividade que se refere à capacidade do indicador de demonstrar a mais
+importante e crítica etapa de um processo, captando-se as etapas mais importantes e críticas dos
+processos, no local certo, para que seja suficientemente representativo e abrangente.
+
+O gabarito é a letra D.
+
+(FGV – DPE-MT – Administrador - 2015)
+
+Processos de avaliação quantitativa demandam o uso de indicadores. Para a sua efetividade, eles
+devem      apresentar      as      características preferenciais     listadas    a      seguir,
+à exceção de uma. Assinale-a.
+
+a) Simplicidade
+
+b) Inovação
+
+c) Confiabilidade
+
+d) Baixo custo
+
+e) Estabilidade
+
+Comentários:
+
+De fato, os indicadores devem conter, dentre outros, os critérios de Simplicidade, Confiabilidade,
+Baixo Custo (Custo-efetividade / Economia) e Estabilidade.
+
+Por outro lado, os indicadores não precisam ser “inovadores”. Portanto, a letra B é o nosso
+gabarito.
+
+O gabarito é a letra B.
+
+        Receita Federal (Analista Tributário) Administração Geral                                35
+        www.estrategiaconcursos.com.br                                                           149
+
+                                                          35
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+4 – Propriedades dos Indicadores
+
+De acordo com o Manual de Orientações Básicas Aplicadas à Gestão Pública 17, produzido pelo
+falecido Ministério do Planejamento, os indicadores devem possuir algumas propriedades. São
+elas:
+
+Propriedades Essenciais: tratam-se das propriedades que qualquer indicador deve apresentar,
+independente da fase do ciclo de gestão (planejamento, execução, controle, etc.) em que se
+encontra a política que será analisada. As propriedades essenciais são as seguintes:
+
+          Utilidade: Deve suportar decisões, sejam no nível operacional, tático ou estratégico. Os
+          indicadores devem, portanto, basear-se nas necessidades de quem decide.
+
+          Validade: capacidade de representar, com a maior proximidade possível, a realidade que se
+          deseja medir e modificar. Um indicador deve ser significante ao que está sendo medido e
+          manter essa significância ao longo do tempo.
+
+          -Confiabilidade: indicadores devem ter origem em fontes confiáveis, que utilizem
+          metodologias reconhecidas e transparentes de coleta, processamento e divulgação;
+
+          -Disponibilidade: os dados básicos para seu cômputo devem ser de fácil obtenção.
+
+Propriedades Complementares: essas propriedades também são muito importantes. Contudo,
+podem ser alvo de uma análise situacional para definir se serão utilizadas. Ou seja, sua utilização
+(ou não utilização) dependem de cada situação específica. As propriedades complementares são
+as seguintes:
+
+          Simplicidade: indicadores devem ser de fácil obtenção, construção, manutenção,
+          comunicação e entendimento pelo público em geral, interno ou externo.
+
+          -Clareza: geralmente um indicador é definido como uma divisão entre duas variáveis
+          básicas; é formado, portanto, por um numerador e um denominador, ambos compostos por
+          dados de fácil obtenção. Eventualmente, porém, ele pode ser complexo na sua fórmula,
+          envolvendo muitas variáveis. Em todo caso, porém, é imprescindível que seja claro, atenda
+          à necessidade de quem irá decidir e que esteja adequadamente documentado.
+
+          -Sensibilidade: capacidade que um indicador possui de refletir tempestivamente as
+          mudanças decorrentes das intervenções realizadas;
+
+17
+  Ministério do Planejamento. Indicadores: Orientações Básicas Aplicadas à Gestão Pública. Disponível
+em:http://www.gespublica.gov.br/sites/default/files/documentos/indicadores_orientacoes_basicas_aplicadas_a_gestao_public
+a.pdf
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                                  36
+           www.estrategiaconcursos.com.br                                                                             149
+
+                                                                               36
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+          -Desagregabilidade: capacidade de representação regionalizada de grupos
+          sociodemográficos, considerando que a dimensão territorial se apresenta como um
+          componente essencial na implementação de políticas públicas;
+
+          -Economicidade: capacidade do indicador de ser obtido a custos módicos; a relação entre os
+          custos de obtenção e os benefícios advindos deve ser favorável;
+
+          -Estabilidade: capacidade de estabelecimento de séries históricas estáveis que permitam
+          monitoramentos e comparações das variáveis de interesse, com mínima interferência
+          causada por outras variáveis;
+
+          -Mensurabilidade: capacidade de alcance e mensuração quando necessário, na sua versão
+          mais atual, com maior precisão possível e sem ambiguidade;
+
+          -Auditabilidade: ou rastreabilidade, qualquer pessoa deve sentir-se apta a verificar a boa
+          aplicação das regras de uso dos indicadores (obtenção, tratamento, formatação, difusão,
+          interpretação).
+
+Além disso, o Manual18 destaca outros aspectos que devem ser levados em consideração no
+processo de escolha dos indicadores. São eles:
+
+          Publicidade: os indicadores devem ser públicos, isto é, conhecidos e acessíveis a todos os
+          níveis da instituição, bem como à sociedade e aos demais entes da administração pública.
+
+          Temporalidade: a identificação dos indicadores de desempenho deve considerar algumas
+          questões temporais: em primeiro lugar o momento em que deve começar a medição; em
+          segundo lugar a disponibilidade de obtenção quando os diferentes resultados começarem a
+          acontecer; e, por fim, a possibilidade de que, por meio dessas medidas, seja possível realizar
+          um acompanhamento periódico do desempenho do Programa.
+
+          Factibilidade: os dados necessários para as medições se constituem em informações que
+          fazem parte dos processos de gestão da instituição e, portanto, obtidas através de
+          instrumentos de coleta, seja por amostra ou censo, estatísticas, aplicação de questionários,
+          observação etc., dependendo do aspecto a ser medido. Uma proposta de elaboração de
+          indicadores deverá permitir dispor de indicadores de medição factível, em momentos
+          adequados e com uma periodicidade que equilibre as necessidades de informação com os
+          recursos técnicos e financeiros.
+
+18
+  Ministério do Planejamento. Indicadores: Orientações Básicas Aplicadas à Gestão Pública. Disponível
+em:http://www.gespublica.gov.br/sites/default/files/documentos/indicadores_orientacoes_basicas_aplicadas_a_gestao_public
+a.pdf
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                                  37
+           www.estrategiaconcursos.com.br                                                                             149
+
+                                                                               37
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+(ESAF – Receita Federal – Analista Tributário - ADAPTADA)
+
+Na questão abaixo, selecione a opção que melhor representa o conjunto das afirmações,
+considerando C para afirmativa correta e E para afirmativa errada.
+
+I. Validade, confiabilidade e complexidade são consideradas propriedades essenciais de um
+indicador de desempenho.
+
+II. A sensibilidade é a capacidade que um indicador possui de nunca refletir as mudanças
+decorrentes das intervenções.
+
+a) E - E
+
+b) C - C
+
+c) C - E
+
+d) E - C
+
+Comentários:
+
+A primeira assertiva está errada. As Propriedades Essenciais dos indicadores são: utilidade,
+validade, confiabilidade e disponibilidade.
+
+A segunda assertiva está errada. Pelo contrário. A sensibilidade é uma Propriedade Complementar
+dos indicadores, que indica a capacidade que um indicador possui de refletir tempestivamente as
+mudanças decorrentes das intervenções realizadas.
+
+O gabarito é a letra A.
+
+           Receita Federal (Analista Tributário) Administração Geral                          38
+           www.estrategiaconcursos.com.br                                                     149
+
+                                                       38
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+5 – Qualidade dos Indicadores
+
+Vejamos quais são as qualidades desejáveis (características desejáveis) que os indicadores de
+desempenho devem possuir, na visão do TCU19:
+
+          Validade / Representatividade: o indicador deve refletir o fenômeno a que está sendo
+          medido, ou seja, o indicador deve ser capaz de expressar aquilo que ele mede. O enfoque
+          deve ser no produto. Deve-se medir aquilo que é produzido, identificando produtos
+          intermediários e finais, além dos impactos desses produtos.
+
+          Comparabilidade: o indicador deve possibilitar comparações ao longo do tempo e entre
+          diferentes objetos de auditoria.
+
+          Estabilidade: as variáveis componentes do indicador devem ter “estabilidade conceitual”.
+          Além disso, a sua forma de cálculo não deve variar no tempo, bem como os procedimentos
+          de coleta de dados para sua apuração também devem ser estáveis. Essas são condições
+          necessárias ao emprego de indicadores para avaliar o desempenho ao longo do tempo.
+
+          Homogeneidade: na construção de indicadores devem ser consideradas apenas “variáveis
+          homogêneas”. Por exemplo, ao estabelecer o custo médio por auditoria, devem-se
+          identificar os diversos “tipos de auditoria”, já que para cada tipo tem-se uma composição de
+          custo diversa.
+
+          Praticidade: o indicador deve realmente funcionar na prática e permitir a tomada de
+          decisões gerenciais. Ou seja, trata-se da garantia de que o indicador realmente é útil para o
+          monitoramento e a tomada de decisões.
+
+          Independência: o indicador deve medir os resultados atribuíveis às ações que se quer
+          monitorar, devendo ser evitados indicadores que possam ser influenciados por fatores
+          externos.
+
+          Confiabilidade: a fonte de dados utilizada para o cálculo do indicador deve ser confiável, de
+          tal forma que diferentes avaliadores possam chegar aos mesmos resultados.
+
+          Seletividade: deve-se estabelecer um número equilibrado de indicadores que enfoquem os
+          aspectos essenciais do que se quer medir.
+
+          Simplicidade / Compreensão: o indicador deve ser de fácil compreensão e não envolver
+          dificuldades de cálculo ou de uso.
+
+
+19
+   Tribunal de Contas da União (2011). Técnica de Indicadores de Desempenho para Auditorias. Disponível em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A158FE98EE0158FED65C6D4BFF e Tribunal de Contas
+da União (2000). Técnica de Auditoria: Indicadores de Desempenho e Mapa de Produtos. Disponível em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B017A0E4F54
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                                   39
+           www.estrategiaconcursos.com.br                                                                              149
+
+                                                                                39
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+       Completude / Cobertura: os indicadores devem representar adequadamente a amplitude e
+       a diversidade de características do fenômeno que está sendo medido (sempre levando em
+       consideração o princípio da seletividade e da simplicidade).
+
+       Economicidade: as informações necessárias ao cálculo do indicador devem ser coletadas e
+       atualizadas a um custo razoável, quando comparado com a utilidade gerencial da
+       informação que ele fornece. Em outras palavras, a manutenção da base de dados não pode
+       ser dispendiosa (trata-se da relação custo x benefício).
+
+       Acessibilidade: deve haver facilidade de acesso às informações primárias bem como de
+       registro e manutenção para o cálculo dos indicadores.
+
+       Tempestividade: as informações apuradas pelo indicador devem estar disponíveis quando
+       necessário, em tempo hábil para a tomada de decisão.
+
+       Objetividade: o indicador deve ser inequívoco o que está sendo medido e quais dados estão
+       sendo usados em sua apuração. Deve-se evitar ambiguidades.
+
+(IADES – UFBA – Analista Administrativo)
+
+Para que um indicador de desempenho cumpra com seus objetivos, ele deve atender a
+determinados critérios de qualidade. Com base nesses critérios, é correto afirmar que na
+
+a) praticidade, os métodos, o conhecimento técnico e os recursos tecnológicos existentes na
+unidade responsável pela operacionalização de um indicador e é plenamente compatível com os
+métodos, o conhecimento técnico e os recursos tecnológicos necessários à operacionalização
+desse indicador.
+
+b) factibilidade, o indicador deve subsidiar a tomada de decisão.
+
+c) acessibilidade, qualquer pessoa deve sentir-se apta a verificar a boa aplicação das regras de uso
+dos indicadores (obtenção, tratamento, formatação, difusão, interpretação).
+
+d) seletividade, o indicador deve ser de fácil entendimento, ou seja, qualquer pessoa deve ser
+capaz de tirar conclusões a partir da análise do indicador.
+
+e) cobertura, o indicador deve representar adequadamente a amplitude e a diversidade de
+características do fenômeno monitorado.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Administração Geral                                  40
+        www.estrategiaconcursos.com.br                                                             149
+
+                                                            40
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Letra A: errada. A praticidade se refere à característica do indicador de realmente funcionar na
+prática e permitir a tomada de decisões gerenciais. Ou seja, trata-se da garantia de que o indicador
+realmente é útil para o monitoramento e a tomada de decisões.
+
+Letra B: errada. Conforme vimos no tópico anterior, a Factibilidade é um aspecto destacado pelo
+Manual de Orientações Básicas Aplicadas à Gestão Pública, que consiste na ideia de que os dados
+necessários para as medições se constituem em informações que fazem parte dos processos de
+gestão da instituição. Nesse sentido, a elaboração de indicadores deverá permitir dispor de
+indicadores de medição factível, em momentos adequados e com uma periodicidade que equilibre
+as necessidades de informação com os recursos técnicos e financeiros.
+
+Letra C: errada. Nada disso. A Acessibilidade e uma característica segundo a qual deve haver
+facilidade de acesso às informações primárias bem como de registro e manutenção para o
+cálculo dos indicadores.
+
+Letra D: errada. A seletividade se refere à característica de que se deve estabelecer um número
+equilibrado de indicadores que enfoquem os aspectos essenciais do que se quer medir.
+
+Letra E: correta. Bingo! A Cobertura (ou completude) é uma característica desejável (qualidade
+desejável) para os indicadores, e que se refere ao fato de que os indicadores devem representar
+adequadamente a amplitude e a diversidade de características do fenômeno que está sendo
+medido/monitorado (sempre levando em consideração o princípio da seletividade e da
+simplicidade).
+
+O gabarito é a letra E.
+
+        Receita Federal (Analista Tributário) Administração Geral                                  41
+        www.estrategiaconcursos.com.br                                                             149
+
+                                                            41
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+6 – Etapas e Passos para a Construção (Formulação) de Indicadores
+
+De acordo com o Guia Referencial20, a construção de indicadores pode ser realizada por um
+conjunto de etapas (que são desdobradas em passos) necessárias para assegurar que os princípios
+da qualidade e do sistema de medição do desempenho estejam em conformidade com o desejado
+pela organização. As 06 etapas são as seguintes:
+
+          1 - O que mensurar?
+
+          2 - Como mensurar?
+
+          3 - Coleta de Informações
+
+          4 - Mensuração
+
+          5 - Análise
+
+          6 - Comunicação
+
+Essas etapas são desdobradas em 10 passos:
+
+          1 - Identificação do nível, dimensão, subdimensão e objetos de mensuração;
+
+          2 - Estabelecimento dos indicadores de desempenho;
+
+          3 - Validação preliminar dos indicadores com as partes interessadas;
+
+          4 - Construção de fórmulas, estabelecimento de metas e notas;
+
+          5 - Definição de responsáveis;
+
+          6 - Geração de sistemas de coleta de dados;
+
+          7 - Ponderação e validação final dos indicadores com as partes interessadas;
+
+          8 - Mensuração dos resultados;
+
+          9 - Análise e interpretação dos indicadores; e
+
+          10 - Comunicação do desempenho e gerir mudança.
+
+20
+  Ministério do Planejamento: Guia Referencial para Medição de Desempenho e Manual para Construção de Indicadores.
+Disponível em: http://www.gespublica.gov.br/content/guia-referencial-para-medi%C3%A7%C3%A3o-de-desempenho-e-manual-
+para-constru%C3%A7%C3%A3o-de-indicadores
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                             42
+           www.estrategiaconcursos.com.br                                                                        149
+
+                                                                          42
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+A seguir, trago um fluxograma bem legal extraído do Guia Referencial, que consolida as etapas do
+processo de construção de indicadores, e seus respectivos passos. Vejamos21:
+
+21
+   Fonte: Ministério do Planejamento: Guia Referencial para Medição de Desempenho e Manual para Construção de
+Indicadores.    Disponível   em:    http://www.gespublica.gov.br/content/guia-referencial-para-medi%C3%A7%C3%A3o-de-
+desempenho-e-manual-para-constru%C3%A7%C3%A3o-de-indicadores
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                              43
+           www.estrategiaconcursos.com.br                                                                         149
+
+                                                                           43
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+(IADES – EBSERH – Enfermeiro)
+
+A formulação de indicadores pode ser realizada por um conjunto de passos necessários, para
+assegurar que os princípios da qualidade e do sistema de medição do desempenho, estejam em
+conformidade com o desejado, pela organização. Para esta formulação, alguns passos deverão ser
+seguidos.
+
+Assinale a alternativa que apresenta esses passos:
+
+a) Amostragem do nível, dimensão, subdimensão e objetos de mensuração.
+
+b) Estabelecimento dos indicadores de mensuração.
+
+b) Mensuração preliminar dos indicadores com as partes interessadas.
+
+d) Validação dos resultados.
+
+e) Análise e interpretação dos indicadores, comunicação do desempenho e gerir mudança.
+
+Comentários:
+
+Questão bem “chatinha”. As alternativas mudam apenas uma palavra dos passos para construção
+de indicadores, com o objetivo de confundir os alunos. Vejamos cada umas as alternativas:
+
+Letra A: errada. O correto é “Identificação do nível, dimensão, subdimensão e objetos de
+mensuração” (passo 1).
+
+Letra B: errada. O correto é “Estabelecimento dos indicadores de desempenho” (passo 2).
+
+Letra C: errada. O correto é “Validação preliminar dos indicadores com as partes interessadas”
+(passo 3).
+
+Letra D: errada. O correto é “Mensuração dos resultados” (passo 8).
+
+Letra E: correta. A assertiva trouxe, corretamete, os passos 9 e 10. Vejamos:
+
+       Passo 9 - Análise e interpretação dos indicadores.
+
+       Passo 10 - Comunicação do desempenho e gerir mudança.
+
+O gabarito é a letra E.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                              44
+        www.estrategiaconcursos.com.br                                                         149
+
+                                                        44
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+7 – Variáveis dos Indicadores
+
+De acordo com o Tribunal de Contas da União (TCU) 22, para a construção de indicadores de
+desempenho, quase sempre são utilizadas variáveis provenientes de um dos seguintes “grupos”:
+(em outras palavras, as variáveis que compõem os indicadores são as seguintes:)
+
+           Custo: Tem por objetivo indicar os custos unitários das tarefas, bem como os custos
+           “     ” das ações programadas.
+
+           Tempo: Busca indicar em quanto tempo cada tarefa está sendo executada e se as ações
+           estão sendo desenvolvidas dentro dos prazos estabelecidos.
+
+           Qualidade: Visa a mensurar a satisfação do “cliente/usuário”, bem como avaliar se os
+           padrões de qualidade estão sendo atingidos.
+
+           Quantidade: Tem por objetivo mensurar a produção total, para avaliar se os objetivos
+           quantitativos de produção foram atingidos, bem como para avaliar se a demanda dos
+           “clientes/usuários” foi atendida.
+
+22
+     Tribunal de Contas da União (2000). Técnica de Auditoria: Indicadores de Desempenho e Mapa de Produtos. Disponível em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B017A0E4F54
+
+
+            Receita Federal (Analista Tributário) Administração Geral                                                    45
+            www.estrategiaconcursos.com.br                                                                               149
+
+                                                                                  45
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+(CESPE – TCU – Auditor Federal de Controle Externo)
+
+Custo, tempo, quantidade e qualidade são variáveis empregadas na construção de indicadores de
+desempenho.
+
+Comentários:
+
+A assertiva trouxe, corretamente, as variáveis utilizadas na construção de indicadores de
+desempenho.
+
+Gabarito: correta.
+
+8 – Mitos sobre a Medição de Desempenho
+
+Medir o desempenho é extremamente importante para as organizações. Contudo, existem alguns
+“mitos” que “assombram” a medição de desempenho. Vejamos quais são eles:
+
+                                                          Mito 1: Mito da medição absoluta: preciso medir tudo.
+
+                                                         Mito 2: Para medir o que importa, preciso gerar todas as
+                                                         informações, coletar dados de forma exaustiva e precisa.
+ MITOS SOBRE A MEDIÇÂO DE
+       DESEMPENHO
+                                                          Mito 3: Primeiro vamos medir, depois vamos ver o que
+                                                                        fazemos com as medidas.
+
+
+                                                        Mito 4: Preciso, sobretudo, do sistema informático perfeito
+                                                                                 para isto.
+
+        Receita Federal (Analista Tributário) Administração Geral                                                   46
+        www.estrategiaconcursos.com.br                                                                              149
+
+                                                                            46
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+8.1 – Mito 1: Mito da medição absoluta: preciso medir tudo.
+
+Algumas pessoas acreditam que devem medir tudo; e isso é um grande engano!
+
+Na verdade, quem pretende medir tudo, acaba não medindo nada.
+
+O Guia Referencial destaca que, “por detrás deste mito, está o fetiche do pan‐óptico, que gera a
+impostura, movida por uma necessidade obsessiva, de monitorar e controlar tudo e todos ao
+mesmo tempo e na mesma hora”.
+
+Monitorar o desempenho é uma forma de controle, mas que deve ser extremamente seletivo.
+Afinal, medir custa tempo e dinheiro.
+
+Nesse sentido, já estudamos que um bom sistema de Controle deve ter orientação estratégica
+(foco estratégico), ou seja, o controle deve focalizar nas atividades primordiais da organização,
+dando ênfase àquelas atividades mais significativas e que trazem maiores resultados à empresa.
+
+Portanto, a postura correta a ser adotada é a de alta seletividade. Deve-se medir apenas o que é
+importante e significativo, isto é, o que vale a pena ser medido.
+
+8.2 – Mito 2: Para medir o que importa, preciso gerar todas as informações, coletar
+dados de forma exaustiva e precisa.
+
+Da mesma forma que não é necessário “medir tudo”, também não é necessário “gerar todas as
+informações possíveis”. Afinal, quem se preocupa em gerar todas as informações, muito
+provavelmente se perderá diante de várias informações inviáveis e inúteis.
+
+A geração de indicadores (medidas) relevantes requererá informações e dados específicos. A
+obtenção desses dados, bem como o tratamento e processamento dessas informações,
+demandam tempo e dinheiro.
+
+Portanto, o Guia Referencial destaca que a postura correta a ser adotada é, sempre que possível,
+trabalhar com aproximações, buscando construir indicadores a partir de dados já existentes e
+tratados dentro de padrões aceitáveis de qualidade (e não padrões “máximos” de qualidade),
+apostando‐se que, na maioria dos casos, a disponibilidade de dados e informações não é o
+problema fundamental.
+
+Em suma, isso significa dizer que, se você já tem uma boa quantidade de dados, com padrões
+aceitáveis de qualidade, você deve trabalhar em cima desses dados, ao invés de ficar coletando e
+gerando cada vez mais e mais dados.
+
+        Receita Federal (Analista Tributário) Administração Geral                                47
+        www.estrategiaconcursos.com.br                                                           149
+
+                                                          47
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+8.3 – Mito 3: Primeiro vamos medir, depois vamos ver o que fazemos com as medidas.
+
+As medidas são realizadas para controlar/melhorar o desempenho. Portanto, as medidas têm de
+ser úteis e devem fazer sentido para orientar a gestão no dia a dia.
+
+As medidas não podem ser vistas como “obrigação”. Elas devem fazer “sentido”. As pessoas devem
+saber o motivo pelo qual estão medindo. Em outras palavras, antes mesmo de realizar a medição,
+deve-se saber o que será feito com os dados por ela obtidos.
+
+De acordo com o Guia Referencial, a medição tem que ser orientada para a melhoria do
+desempenho. Ou seja, o foco da medição é a melhoria do desempenho.
+
+A melhoria do desempenho, por sua vez, tem que se orientar pela medição. Isto é, as medições
+realizadas orientam a melhoria do desempenho.
+
+Lembre-se: medir custa tempo e dinheiro. Então, caso as medidas obtidas não sejam utilizadas,
+estará ocorrendo um desperdício de recursos. Portanto, antes de se construir um indicador e
+começar a realizar a medição, deve-se saber o que será feito com as medidas que serão obtidas
+(ou seja, deve-se saber para qual propósito as medidas irão servir).
+
+8.4 – Mito 4: Preciso, sobretudo, do sistema informático perfeito para isto.
+
+Mais um mito, meu amigo!
+
+Muitas vezes, as pessoas acreditam que um bom sistema de informática irá “resolver tudo”. Esse
+pensamento está errado.
+
+De acordo com o Guia Referencial, o que é necessário, na verdade, é um bom modelo de
+mensuração, que permita definir o que é o “seu desempenho” e, a partir daí, como mensurá‐lo.
+
+São os sistemas informacionais que devem estar a serviço de “modelo lógico” de funcionamento, e
+não o contrário.
+
+Uma frase do Guia Referencial que resume muito bem tudo isso: “Primeiro a sistemática, depois o
+sistema”. Ou seja, primeiro devemos pensar na sistemática (no funcionamento lógico das coisas)
+para, depois, pensar no sistema informático que utilizaremos para ele.
+
+        Receita Federal (Analista Tributário) Administração Geral                               48
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         48
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+(FEMPERJ – TCE-RJ – Analista de Controle Externo)
+
+Segundo o Guia Referencial para Medição de Desempenho e Manual para Construção de
+Indicadores do Ministério do Planejamento, “uma boa gestão é aquela que alcança resultados,
+independentemente de meritórios esforços e intenções. E, alcançar resultados, no setor público, é
+atender às demandas, aos interesses e às expectativas dos beneficiários, sejam cidadãos ou
+organizações, criando valor público”.
+
+Analise as colocações a seguir, frequentemente enunciadas, que se referem a verdades e mitos
+ligados à mensuração do desempenho.
+
+1) Preciso medir tudo.
+
+2) Para medir o que importa, preciso gerar todas as informações, coletar dados de forma exaustiva
+e precisa.
+
+3) Primeiro vamos medir, depois vamos ver o que fazemos com as medidas.
+
+4) Preciso, sobretudo, do sistema informatizado perfeito para isto.
+
+As colocações que se referem a mitos são:
+
+a) somente 3 e 4;
+
+b) somente 1 e 3;
+
+c) somente 1, 2 e 4;
+
+d) todas elas;
+
+e) nenhuma delas.
+
+Comentários:
+
+Vejamos quais são os 04 mitos sobre a medição do desempenho:
+
+       Mito 1: Mito da medição absoluta: preciso medir tudo.
+
+        Receita Federal (Analista Tributário) Administração Geral                               49
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         49
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+          Mito 2: Para medir o que importa, preciso gerar todas as informações, coletar dados de
+          forma exaustiva e precisa.
+
+          Mito 3: Primeiro vamos medir, depois vamos ver o que fazemos com as medidas.
+
+          Mito 4: Preciso, sobretudo, do sistema informático perfeito para isto.
+
+Portanto, todas as assertivas estão corretas.
+
+O gabarito é a letra D.
+
+9 – Modelo para Mensuração de Desempenho: A Cadeia de Valor e os 6 Es
+do Desempenho
+
+O Guia Referencial destaca que o Modelo da Cadeia de Valor e os 6 Es do Desempenho tem por
+objetivo mensurar o que deve ser realizado para seja produzido um resultado significativo no
+futuro.
+
+De acordo com Bennett (1976) e Wholey (1979) 23, ”cadeia de valor é definida como o
+levantamento de toda a ação ou processo necessário para gerar ou entregar produtos ou serviços
+a um beneficiário. É uma representação das atividades de uma organização e permite melhor
+visualização do valor ou do benefício agregado no processo, sendo utilizada amplamente na
+definição dos resultados e impactos de organizações”.
+
+Conforme vimos nessa aula, os indicadores são utilizados para medir o desempenho (desempenho
+= esforços + resultados). Nesse sentido, o Guia Referencial propõe uma cadeia de valor que
+identifica 06 dimensões: 03 dimensões de esforço (economicidade, execução e excelência) e 03
+dimensões de resultado (são eficiência, eficácia e efetividade).
+
+A partir da combinação dessas dimensões, é obtida a mensuração do desempenho.
+
+23
+  Bennett (1976) e Wholey (1979) apud Ministério do Planejamento: Guia Referencial para Medição de Desempenho e Manual
+para Construção de          Indicadores. Disponível      em: http://www.gespublica.gov.br/content/guia-referencial-para-
+medi%C3%A7%C3%A3o-de-desempenho-e-manual-para-constru%C3%A7%C3%A3o-de-indicadores
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                                  50
+           www.estrategiaconcursos.com.br                                                                             149
+
+                                                                               50
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                               6 Es do Desempenho
+                     Dimensões de Esforço                           Dimensões de Resultado
+                        Economicidade                                     Eficiência
+                           Execução                                        Eficácia
+                          Excelência                                     Efetividade
+
+Vejamos cada uma dessas dimensões, conforme proposto pelo Guia Referencial:
+
+       Eficiência: é a relação entre os produtos/serviços gerados (outputs) com os insumos
+       utilizados, relacionando o que foi entregue e o que foi consumido de recursos, usualmente
+       sob a forma de custos ou produtividade. Por exemplo: uma campanha de vacinação é mais
+       eficiente quanto menor for o custo, ou seja, quanto menor for o custo da campanha,
+       mantendo‐se os objetivos propostos. Indicadores de eficiência podem ser encontrados na
+       Carta de Serviços com seus elementos de custos e em informações de sistemas
+       estruturantes do Governo, como o SIAFI.
+
+       Portanto, eficiência significa fazer bem alguma coisa. Fazer uma atividade de forma correta.
+       Utilizar os recursos disponíveis da melhor maneira possível. Está associado à produtividade
+       e ao desempenho; ao modo de se fazer algo. O foco é INTERNO e relaciona-se aos MEIOS e
+       aos CUSTOS envolvidos. É a medida de avaliação da utilização dos recursos.
+
+       Eficácia: é a quantidade e qualidade de produtos e serviços entregues ao usuário
+       (beneficiário direto dos produtos e serviços da organização). Por exemplo, se, na mesma
+       campanha citada, a meta de vacinação é imunizar 100.000 crianças e este número foi
+       alcançado ou superado, a campanha foi eficaz. Indicadores de eficácia podem ser definidos
+       a partir da Carta de Serviços do órgão.
+
+       Em outras palavras, eficácia significa fazer a coisa certa. Fazer aquilo que deve ser feito para
+       que os objetivos sejam alcançados. É atingir os objetivos ou as metas traçadas,
+       independente dos custos envolvidos. O foco é EXTERNO e relaciona-se aos FINS. É a medida
+       de avaliação do alcance dos resultados.
+
+       Efetividade: são os impactos gerados pelos produtos/serviços, processos ou projetos. A
+       efetividade está vinculada ao grau de satisfação ou ainda ao valor agregado, a
+       transformação produzida no contexto em geral. Esta classe de indicadores, mais difícil de
+       ser mensurada (dada a natureza dos dados e o caráter temporal), está relacionada com a
+       missão da instituição. Por exemplo, se uma campanha de vacinação realmente imunizar e
+       diminuiu a incidência de determinada doença entre as crianças, a campanha foi efetiva.
+
+        Receita Federal (Analista Tributário) Administração Geral                                     51
+        www.estrategiaconcursos.com.br                                                                149
+
+                                                               51
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+       Indicadores de efetividade podem ser encontrados na dimensão estratégica do Plano
+       Plurianual (PPA).
+
+       A efetividade, portanto, está relacionada ao impacto das ações. É alcançar os resultados
+       pretendidos, de forma a alterar a realidade. Não basta alcançar os objetivos; deve haver
+       transformação. O foco é EXTERNO e relaciona-se aos IMPACTOS (benefícios gerados) das
+       ações desenvolvidas. É a medida de avaliação do impacto gerado.
+
+       Execução: refere‐se à realização dos processos, projetos e planos de ação conforme
+       estabelecidos. Indicadores de execução podem ser encontrados no monitoramento das
+       ações do PPA.
+
+       Economicidade: está alinhada ao conceito de obtenção e uso de recursos com o menor
+       ônus possível, dentro dos requisitos e da quantidade exigidas pelo input, gerindo
+       adequadamente os recursos financeiros e físicos. Indicadores de economicidade podem ser
+       encontrados nas unidades de suprimentos.
+
+       Excelência: é a conformidade a critérios e padrões de qualidade/excelência para a
+       realização dos processos, atividades e projetos na busca da melhor execução e
+       economicidade; sendo um elemento transversal. Indicadores e padrões de excelência
+       podem ser encontrados no Instrumento de Avaliação da Gestão Pública (IAGP).
+
+Vejamos um exemplo para deixar bem claro os conceitos de eficiência, eficácia e efetividade.
+
+Pense em uma campanha de desarmamento que tenha o objetivo de recolher 1.000 armas,
+utilizando, para este fim, 100 servidores públicos, ao custo total de 200 mil reais. Com isso, espera-
+se que as mortes por arma de fogo sejam reduzidas em 50%.
+
+Se esta campanha conseguir recolher, de fato, as 1.000 armas, utilizando 150 servidores ao custo
+de 300 mil reais, foi uma campanha eficaz (atingiu o objetivo de recolher 1.000 armas), mas
+ineficiente (utilizou 50% a mais dos recursos e dos servidores que estavam previstos).
+
+Por outro lado, se esta campanha conseguir recolher apenas 500 armas, utilizando 20 servidores
+ao custo de 40 mil reais, foi uma campanha bastante eficiente (gastou, proporcionalmente, bem
+menos do que o esperado). Contudo, foi uma campanha ineficaz (pois não atingiu o objetivo de
+recolher as 1.000 armas).
+
+        Receita Federal (Analista Tributário) Administração Geral                                    52
+        www.estrategiaconcursos.com.br                                                               149
+
+                                                              52
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+Por fim, em ambos os casos, se a campanha conseguir reduzir 50% das mortes por arma de fogo,
+será uma campanha efetiva (produziu impacto positivo na sociedade). Por outro lado, se o número
+de mortes se mantiver constante, terá sido uma campanha inefetiva.
+
+
+                                      Utilização de        Fazer de forma      Relaciona-se
+               EFICIÊNCIA                                                                       Foco Interno
+                                        recursos              correta           aos Meios
+
+                                      Alcance dos
+                                                            Fazer a coisa      Relaciona-se
+                EFICÁCIA              resultados                                                Foco Externo
+                                                               certa             aos Fins
+                                      (objetivos)
+
+
+                                                               Gerar            Relaciona-se
+                                        Impacto
+               EFETIVIDADE                                   benefícios,       aos Benefícios   Foco Externo
+                                        causado
+                                                           transformação          gerados
+
+(FCC – TRT 15ª Região – Técnico Judiciário - 2018)
+
+A expectativa da sociedade de que a gestão pública seja eficiente, eficaz e efetiva pode ser
+atendida, no que concerne à
+
+I. eficiência, pelo uso racional dos recursos disponíveis e sua otimização.
+
+II. eficácia, pela disponibilização à população das ações e serviços nos prazos demandados.
+
+III. efetividade, pelo controle de legalidade da atuação da Administração.
+
+Está correto o que consta APENAS de
+
+a) II.
+
+b) I e III.
+
+c) II e III.
+
+d) I.
+
+e) I e II.
+
+
+             Receita Federal (Analista Tributário) Administração Geral                                              53
+             www.estrategiaconcursos.com.br                                                                         149
+
+                                                                             53
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Comentários:
+
+Assertiva I: correta. Eficiência significa utilizar os recursos disponíveis da melhor maneira possível
+(em outras palavras, significa a otimização dos recursos disponíveis). Significa fazer bem alguma
+coisa e está associado à produtividade e ao desempenho.
+
+Assertiva II: correta. Eficácia significa atingir os objetivos ou as metas traçadas. Portanto, se o
+objetivo era entregar à população o serviço no prazo de 10 dias, e este prazo foi atendido, foi uma
+ação eficaz.
+
+Assertiva III: incorreta. A efetividade não está relacionada ao controle da legalidade. Efetividade
+está relacionada ao impacto das ações, aos benefícios gerados pelas ações desenvolvidas.
+
+O gabarito é a letra E.
+
+(COVEST-COPSET – UFPE – Assistente em Administração - 2017)
+
+Sobre as categorias básicas de indicadores de desempenho, é correto afirmar o que segue.
+
+a) Efetividade são os impactos gerados pelos produtos/serviços, processos ou projetos. Está
+vinculada ao grau de satisfação ou ainda ao valor agregado, à transformação produzida no
+contexto em geral.
+
+b) Eficiência é a conformidade a critérios e padrões de qualidade/excelência para a realização dos
+processos, atividades e projetos na busca da melhor execução e economicidade; sendo um
+elemento transversa
+
+c) Eficácia está alinhada ao conceito de obtenção e uso de recursos com o menor ônus possível,
+dentro dos requisitos e da quantidade exigidas pelo input, gerindo adequadamente os recursos
+financeiros e físicos.
+
+d) Economicidade refere‐se à realização dos processos, projetos e planos de ação conforme
+estabelecidos.
+
+e) Excelência é a quantidade e a qualidade de produtos e serviços entregues ao usuário
+(beneficiário direto dos produtos e serviços da organização).
+
+Comentários:
+
+Letra A: correta. Isso mesmo. A Efetividade está relacionada ao impacto das ações, aos benefícios
+gerados pelas ações desenvolvidas.
+
+Letra B: errada. É a Excelência que está relacionada à conformidade a critérios e padrões de
+qualidade/excelência para a realização dos processos, atividades e projetos na busca da melhor
+execução e economicidade; sendo um elemento transversal.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                                    54
+        www.estrategiaconcursos.com.br                                                               149
+
+                                                              54
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+Letra C: errada. É a Economicidade que está alinhada ao conceito de obtenção e uso de recursos
+com o menor ônus possível, dentro dos requisitos e da quantidade exigidas pelo input, gerindo
+adequadamente os recursos financeiros e físicos.
+
+Letra D: errada. É a Execução que se refere à realização dos processos, projetos e planos de ação
+conforme estabelecidos.
+
+Letra E: errada. É a Eficácia que está relacionada à quantidade e qualidade de produtos e serviços
+entregues ao usuário (beneficiário direto dos produtos e serviços da organização).
+
+O gabarito é a letra A.
+
+Vejamos como essas 06 dimensões são apresentadas na cadeia de valor24:
+
+Perceba que cada uma das dimensões (eficiência, eficácia, efetividade, economicidade, excelência
+e execução) se relaciona a um ou mais elementos (insumos, ações, produtos e impactos) na cadeia
+de valor.
+
+24
+  Fonte: (Martins & Marini. Guia de Governança para Resultados, 2010) apud Ministério do Planejamento: Guia Referencial
+para    Medição     de    Desempenho       e    Manual      para   Construção   de     Indicadores.   Disponível   em:
+http://www.gespublica.gov.br/content/guia-referencial-para-medi%C3%A7%C3%A3o-de-desempenho-e-manual-para-
+constru%C3%A7%C3%A3o-de-indicadores
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                                 55
+           www.estrategiaconcursos.com.br                                                                            149
+
+                                                                              55
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+“Beleza, Stefan! Eu percebi isso. Mas, ainda não estou conseguindo entender essa cadeira de valor.
+Poderia explicar melhor?”
+
+Com certeza, meu amigo! Você verá que é muito simples. Na verdade, trata-se exatamente dos
+conceitos que acabamos de estudar para cada uma das dimensões. Vamos lá:
+
+Note que a Eficiência está relacionada (através de duas linhas tracejadas) com os insumos e com
+os produtos. Perceba que isso é exatamente o conceito de eficiência que acabamos de estudar.
+Vejamos: “eficiência é a relação entre os produtos/serviços gerados (outputs) com os insumos
+utilizados”.
+
+Nesse mesmo sentido, a Eficácia está ligada (através da linha tracejada) apenas aos produtos. Isso
+pois a eficácia se refere à “quantidade e qualidade de produtos e serviços entregues ao usuário”.
+Em outras palavras, se relaciona aos resultados.
+
+A Efetividade, por sua vez, está ligada (por uma linha tracejada) aos impactos. Perceba que é
+exatamente o conceito de efetividade que acabamos de estudar, qual seja: efetividade está
+relacionada aos “impactos gerados pelos produtos/serviços, processos ou projetos”.
+
+A Execução refere‐se à realização dos processos. Portanto, está ligada (pela linha tracejada) às
+ações.
+
+A Economicidade, ao seu turno, está alinhada ao conceito de obtenção e uso de recursos com o
+menor ônus possível. Por esse motivo, na cadeia de valor, está ligada (pela linha tracejada) apenas
+aos insumos.
+
+Por fim, a Excelência está relacionada à busca da melhor execução e economicidade. Portanto, na
+cadeia de valor, está ligada (pela linha tracejada) às ações (execução) e aos insumos
+(economicidade).
+
+Em um primeiro momento parece difícil; mas, é bem simples. Não é mesmo? ☺
+
+Ainda sobre a cadeia de valor, de modo geral, ela busca ilustrar o seguinte:
+
+A Administração Pública, por exemplo, utiliza seus insumos (recursos financeiros, pessoal, etc.)
+para, através de ações/atividades, gerar produtos/serviços (policiamento, transporte, etc.) que
+causem algum impacto (segurança, bem-estar, etc.) na sociedade.
+
+        Receita Federal (Analista Tributário) Administração Geral                                 56
+        www.estrategiaconcursos.com.br                                                            149
+
+                                                           56
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Para finalizarmos nosso estudo sobre a cadeia de valor, vejamos mais um esquema extraído do
+Guia Referencial, que traz os elementos (insumos, ações, produtos e impacto) da cadeia de valor, e
+as respectivas perguntas que devem ser respondidas em cada um desses elementos:
+
+        Receita Federal (Analista Tributário) Administração Geral                                57
+        www.estrategiaconcursos.com.br                                                           149
+
+                                                          57
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                                    ESQUEMATIZANDO!
+
+
+                                    Eficiência               Insumos e Produtos
+
+                                     Eficácia                       Produtos
+
+                                   Efetividade                      Impactos
+
+                                    Execução                         Ações
+
+                                 Economicidade                      Insumos
+
+                                   Excelência                  Insumos e Ações
+
+(COVEST-COPSET – UFPE – Assistente em Administração - 2017)
+
+O Modelo da Cadeia de Valor e dos 6Es do Desempenho estabelece também uma relação entre os
+elementos que compõem a cadeia de valor e sua contribuição para os resultados finais. As seis
+categorias de indicadores estão relacionados a algum dos elementos da cadeia de valor, que
+representa a atuação da ação pública desde a obtenção dos recursos até a geração dos impactos
+provenientes dos produtos/serviços. Os elementos da cadeia de valor são: 1) Insumos (inputs); 2)
+Processos/Projetos (ações); 3) Produtos/serviços (outputs) 4) Impactos (outcomes). Estas relações
+
+        Receita Federal (Analista Tributário) Administração Geral                               58
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         58
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+podem ser representadas por algumas perguntas que os indicadores associados procuram
+responder:
+
+Considerando os elementos da cadeia de valor mostrados no quadro acima, assinale a alternativa
+que define as perguntas adequadas para o elemento “Impactos”:
+
+a) Quais os recursos necessários para gerar produtos/serviços estabelecidos? Qual a quantidade de
+recursos necessária?
+
+b) Qual o tempo médio de ciclo do processo? Qual o custo do processo?
+
+c) Quais os produtos/serviços gerados? Qual a Qualidade do produto/serviço?
+
+d) Quais mudanças os produtos/serviços trazem para os beneficiários e a sociedade?
+
+e) Quais são as ações, os processos e projetos executados?
+
+Comentários:
+
+Vejamos quais são as perguntas adequadas a cada um dos elementos da cadeia de valor:
+
+       Impactos: Quais mudanças os produtos/serviços trazem para os beneficiários e a
+       sociedades?
+
+       Produtos (outputs): Quais os produtos/serviços gerados? Quantidade de produtos/serviços?
+       Qualidade do produto/serviço?
+
+       Ações/Atividades: Quais são as ações, processos e projetos executados? Tempo médio de
+       ciclo do processo? Qual o custo do processo:
+
+       Insumos (inputs): Quais são os recursos necessários para gerar os produtos/serviços
+       estabelecidos? Quantidade de recursos necessária?
+
+Portanto, o gabarito é a letra D.
+
+O gabarito é a letra D.
+
+        Receita Federal (Analista Tributário) Administração Geral                               59
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         59
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+10 – Tipos/Classificações de Indicadores de Graças Rua
+
+Uma classificação de indicadores que é comumente utilizada pelas bancas é a da professora Maria
+das Graças Rua. Segundo ela, existem os seguintes tipos de indicadores 25:
+
+Indicadores Estratégicos: estão relacionados ao planejamento estratégico da organização.
+Informam o “quanto” a organização se encontra na direção da consecução de sua Visão. Os
+indicadores estratégicos refletem o desempenho em relação aos Objetivos Estratégicos da
+Organização.
+
+Indicadores de Projetos: esses indicadores têm por objetivo avaliar o desempenho dos projetos.
+Projeto26 é um “conjunto de atividades que ocorrem apenas uma vez, com ponto de partida e
+ponto de chegada definidos no tempo. Tem início, meio e fim previamente determinados.”
+
+Indicadores de Processo: os indicadores de processo buscam representar objetivamente as
+características dos processos que devem ser acompanhadas ao longo do tempo para avaliar e
+melhorar o seu desempenho. São divididos em:
+
+          Indicadores de Qualidade: esses indicadores buscam medir como o produto ou serviço é
+          percebido pelo cliente e a capacidade do processo em atender os requisitos dos clientes.
+          Podem ser aplicados para a organização como um todo, para um processo ou para uma
+          área. Estão associados à eficácia.
+
+          Podem ser divididos os em dois tipos:
+
+                  Indicadores da Qualidade: referem-se àquilo que foi feito corretamente, ou seja,
+                  dentro dos padrões estabelecidos.
+
+                  Indicadores da Não-Qualidade: indicam aquilo que “deixou de ser feito” ou aquilo
+                  que foi “mal feito” (ou seja, foi realizado fora dos padrões estabelecidos).
+
+          Indicadores de Produtividade: esses indicadores estão dentro dos processos e se
+          relacionam à utilização dos recursos para a geração de produtos e serviços. Portanto, estão
+          associados à eficiência. Para Graças Rua, os Indicadores de Produtividade são muito
+          importantes, uma vez que permitem a realização de uma avaliação precisa do esforço
+          despendido para gerar os produtos e serviços. Além disso, segundo Rua, esses indicadores
+          devem andar lado a lado com os Indicadores de Qualidade, formando, assim, o equilíbrio
+          necessário ao desempenho global da organização.
+
+25
+   RUA, Maria das Graças. Desmistificando o problema: uma rápida introdução ao estudo dos indicadores. Disponível em:
+http://antigo.enap.gov.br/downloads/ec43ea4fUFAM-MariadasGraEstudoIndicadores-novo.pdf
+26
+   CHIAVENATO, Idalberto. Administração: teoria, processo e prática, 5ª edição. Barueri, Manole: 2014. PP. 273-274.
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                                60
+           www.estrategiaconcursos.com.br                                                                           149
+
+                                                                             60
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+       Indicadores de Efetividade: tem por objetivo avaliar os impactos que os produtos/serviços
+       fabricados pela organização geram nos clientes ou na sociedade. Estão relacionados à
+       efetividade.
+
+       Indicadores de Capacidade: medem a “capacidade de resposta de um processo por meio da
+       relação entre as saídas produzidas por unidade de tempo”. Em outras palavras, esses
+       indicadores buscam medir “quanto” determinado processo consegue produzir em
+       determinado tempo. Por exemplo: quantas canetas são produzidas em 8 horas.
+
+11 – Outros Tipos/Classificações de Indicadores
+
+11.1 – Quantitativos x Qualitativos
+
+       Indicadores Quantitativos (objetivos): são os indicadores que podem ser obtidos
+       objetivamente, através de medições de “números exatos”. Eles são capazes de medir um
+       resultado de forma objetiva. O valor numérico obtido representa o fenômeno que está
+       sendo medido. Por exemplo: número de alunos aprovados, porcentagem de acertos nas
+       provas, etc.
+
+       Indicadores Qualitativos (subjetivos): são indicadores mais subjetivos (dependem do
+       julgamento individual de cada pessoa). Apesar de existirem metodologias para a aplicação
+       desses indicadores, eles podem variar de pessoa para pessoa. Por exemplo: entrevistas,
+       pesquisas de satisfação, observação direta, etc.
+
+11.2 – Simples x Compostos
+
+       Indicadores Simples: são decorrentes de uma única medição. Por exemplo: taxa de
+       natalidade, taxa de alfabetização, etc.
+
+       Indicadores Compostos: decorrem de “mais de uma medição”. Estes indicadores são
+       decorrentes da relação entre duas ou mais variáveis, ou então da relação entre dois ou
+       mais indicadores simples. Por exemplo: o IDH (Índice de Desenvolvimento Humano), que
+       leva em consideração indicadores de educação, indicadores de saúde (longevidade) e
+       indicadores de renda (economicos).
+
+        Receita Federal (Analista Tributário) Administração Geral                              61
+        www.estrategiaconcursos.com.br                                                         149
+
+                                                        61
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+11.3 – Quanto ao nível hierárquico
+
+No que se refere aos níveis hierárquicos em que estão relacionados, os indicadores podem ser:
+
+       Indicadores Estratégicos: estão diretamente ligados ao planejamento estratégico da
+       organização. Relacionam-se ao monitoramento estratégico da empresa, à missão, visão e
+            ó     “ b ” da organização. Deve conter variáveis que envolvam aspectos internos
+       e externos da organização.
+
+       Indicadores Táticos: estão relacionados às áreas/departamentos da organização. Servem
+       para verificar se as ações de cada área/departamento estão sendo devidamente realizadas,
+       e contribuindo para que os objetivos estratégicos sejam alcançados.
+
+       Indicadores Operacionais: estão relacionados às atividades e processos operacionais da
+       organização. Estão ligados aos procedimentos e operações.
+
+11.4 – Quanto ao enfoque
+
+       Indicadores de processo: têm por objetivo monitorar os processos organizacionais (os
+       meios). É um indicador relacionado à eficiência.
+
+       Indicadores de resultado: buscam avaliar e medir os resultados obtidos (os fins). Está
+       relacionado à eficácia.
+
+       Indicadores de impacto: estão orientados aos impactos gerados pelos produtos. É um
+       indicador relacionado à efetividade.
+
+11.5 – Indicadores Lag (de resultado) x Indicadores Lead (de tendência)
+
+       I d d         “ ” / I d d          d       u d : são indicadores que medem as ações
+       passadas, ou seja, os resultados que já foram obtidos (medem as ações que já terminaram).
+       Eles possibilitam que a empresa tenha uma visão do seu desempenho até determinado
+       período. Busca-se avaliar se os resultados obtidos no passado estão de acordo com os
+       objetivos definidos. Se não estiverem, não há mais o que ser feito. Somente no próximo
+       “período” ou “ciclo” os desvios poderão ser corrigidos. Por exemplo: indicador de número
+       de vendas do mês passado.
+
+       I d d        “ d” / I d d          d      dê      / I d d         d        d     : esses
+       indicadores medem atividades no sentido de direcionar ou induzir resultados futuros. Eles
+       traçam um        “ d v ” para a empresa. Funcionam como uma “tendência”. Eles
+       direcionam o “desempenho futuro” da organização. Os indicadores lead avaliam as ações
+
+
+        Receita Federal (Analista Tributário) Administração Geral                               62
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         62
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+       que estão sendo executadas, com o objetivo de influenciar as atividades para que os
+       “resultados futuros“ (objetivos desejados) sejam alcançados.
+
+       Por exemplo: imagine que o vendedor de uma concessionária tenha como meta vender 10
+       carros por mês e, para isso, é necessário que ele atenda 40 clientes durante o mês (ou seja,
+       a cada 4 clientes atendidos, ele vende 1 carro).
+
+       Porém, no dia 15 de certo mês (ou seja, na metade do mês), o gerente verificou que esse
+       funcionário tinha atendido apenas 10 clientes e vendido apenas 2 carros. Portanto, o
+       “número de atendimentos a clientes” é um d d “ d”. Perceba que, nesse caso,
+       ainda há tempo para “corrigir” a situação e fazer com que o funcionário atinja a sua meta de
+       vender 10 carros por mês. Pode-se, por exemplo, fazer uma campanha de marketing para
+       atrair mais clientes para a loja.
+
+       Caso contrário, quando chegasse no mês seguinte, o gerente iria verificar que o funcionário
+       não havia atingido a meta de vendas do mês passado. Seria, portanto, um d d “ ”.
+       Nesse caso, não seria mais possível tomar qualquer atitude para corrigir isso.
+
+(CESPE – MPOG – Analista em Tecnologia da Informação - 2015)
+
+Os lead indicators são indicadores de desempenho que determinam quão bem os negócios
+estejam sendo executados para permitir que os objetivos sejam atingidos. Além disso, no balanced
+scorecard, esses indicadores são chamados também de direcionadores de desempenho.
+
+Comentários:
+
+Isso mesmo! Os Indicadores “lead” (ou “lead indicators”, em inglês) medem atividades no sentido
+de direcionar ou induzir resultados futuros. Eles avaliam como as ações estão sendo executadas,
+com o objetivo de influenciar as atividades para que os “resultados futuros“ (objetivos desejados)
+sejam alcançados. ambém são conhecidos como indicadores “direcionadores de desempenho”.
+
+Gabarito: correta.
+
+        Receita Federal (Analista Tributário) Administração Geral                                   63
+        www.estrategiaconcursos.com.br                                                              149
+
+                                                             63
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+               O FATOR HUMANO NO PROCESSO DE CONTROLE
+Quando falamos sobre controle, analisamos suas perspectivas instrumentais e mecânicas.
+Contudo, não podemos esquecer que as organizações são compostas por pessoas, e que os
+processos de controles são desenhados para influenciar ou inibir o comportamento dessas
+pessoas.
+
+O problema, meu amigo, é que controlar pessoas não é nada fácil! Muitas vezes, as pessoas
+acabam criando certas “resistências” aos processos de controle e, conforme vimos, a “aceitação” é
+uma das características que o controle deve possuir para ser eficaz.
+
+Portanto, neste tópico, iremos estudar alguns aspectos que envolvem o “fator humano” no
+processo de controle.
+
+1 – Efeitos Comportamentais do Processo de Controle nas Organizações
+
+As pesquisas demonstram que quando alguma atividade é submetida a um processo de controle,
+os funcionários tendem a apresentar melhorias em seus desempenhos individuais.
+
+Contudo, o processo de controle também traz alguns aspectos negativos, ou seja, algumas
+consequências indesejadas. Nesse sentido, Sobral e Peci 27 destacam as seguintes consequências
+negativas advindas do processo de controle:
+
+          Comportamento Burocrático: consiste no direcionamento dos esforços individuais apenas
+          para a realização das atividades que são medidas pelo sistema de controle. Quando isso
+          acontece, os trabalhadores apresentam bom desempenho diante dos parâmetros de
+          controle, mas não se envolvem na resolução de problemas, e nem procuram realizar outras
+          atividades que possam melhorar o desempenho da organização como um todo. Os
+          funcionários comportam-se de forma rígida e inflexível.
+
+          Comportamento Tático: aqui, os funcionários buscam utilizar “táticas” para burlar o
+          sistema de controle, ou seja, eles tentam trapacear o processo de controle. Por exemplo,
+          quando os parâmetros de controle são muito excessivos ou irrealistas, os funcionários
+          tendem a manipular as informações e os resultados alcançados. Outro exemplo, se dá
+          quando os funcionários estabelecem metas muito fácil de serem alcançadas. Nesses casos,
+          os processos de controle tornam-se irrelevantes, pois não são levados a sério pelos
+          membros da organização.
+
+27
+  SOBRAL, F., & PECI, A. Administração: teoria e prática no contexto brasileiro, 4ª edição. São Paulo, Pearson Prentice Hall:
+2008. pp.248-249.
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                                       64
+           www.estrategiaconcursos.com.br                                                                                  149
+
+                                                                                    64
+
+
+---
+
+      Stefan Fantini
+      Aula 08
+
+           Resistência ao Controle: a resistência ao sistema de controle ocorre pois o controle diminui
+           a autonomia das pessoas, e isso faz com que os trabalhadores sintam que perderam a
+           “liberdade”. Além disso, os processos de controle d m “               ” d fu             e os
+           seus “problemas” de desempenho; então, eles se sentem ameaçados (medo de serem
+           demitidos). Por fim, o controle também pode causar “competição” entre os membros da
+           organização, reduzindo “           çã       ” entre as pessoas. Todos esses aspectos fazem
+           com que as pessoas tenham resistência ao processo de controle.
+
+ 2 – Abordagens Estratégicas de Controle Comportamental
+
+ Para controlar o comportamento das pessoas, as empresas se utilizam de duas estratégias de
+ controle comportamental: imposição externa e motivação interna.
+
+           Imposição Externa: esse tipo de controle comportamental parte do pressuposto de que as
+           pessoas são motivadas pelas recompensas e punições externas que receberão como
+           consequência de seu desempenho.
+
+           Motivação Interna: a motivação interna, por sua vez, parte do princípio de que os
+           subordinados são motivados por seu próprio comprometimento com os objetivos
+           organizacionais. Ou seja, que a motivação virá do sentimento de realização,
+           reconhecimento, e autoestima que advém do bom desempenho das tarefas.
+
+ Vejamos, nos esquemas a seguir, os aspectos principais de cada uma das estratégias 28:
+
+                                                      Características
+             Controle por Imposição Externa                                   Controle por Motivação Interna
+ Objetivos e parâmetros de desempenho são impostos                Objetivos e parâmetros de desempenho são definidos de
+                       externamente                                                 forma participativa
+Objetivos são difíceis de alcançar para que os funcionários       Parâmetros de controle são utilizados para identificar e
+                     não se acomodem                               resolver problemas, não para punir ou responsabilizar
+Recompensas são diretas e abertamente relacionadas ao
+                                                                   Recompensas são relacionadas ao desempenho geral
+                  desempenho individual
+
+ 28
+   SOBRAL, F., & PECI, A. Administração: teoria e prática no contexto brasileiro, 4ª edição. São Paulo, Pearson Prentice Hall:
+ 2008. p.250.
+
+
+            Receita Federal (Analista Tributário) Administração Geral                                                       65
+            www.estrategiaconcursos.com.br                                                                                  149
+
+                                                                                     65
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+                                                Resultados Positivos
+           Controle por Imposição Externa                                 Controle por Motivação Interna
+ Maior controle sobre o desempenho dos subordinados           Maior comprometimento e motivação dos trabalhadores
+                                                                Maior satisfação dos membros no local de trabalho
+Maior direcionamento dos esforços dos membros para o
+                                                              Maior fluxo de informações com o objetivo de melhorar o
+          alcance dos objetivos estabelecidos
+                                                                     desempenho da organização como um todo
+
+                                               Resultados Negativos
+             Controle por Imposição Externa                                 Controle por Motivação Interna
+  Potencial comportamento disfuncional por parte dos
+                                                               Menor controle sobre o desempenho dos subordinados
+    trabalhadores, resistindo ou enganando o sistema
+   Redução do fluxo de informação, especialmente de
+                                                                     Estabelecimento de objetivos individuais pouco
+informação negativa a respeito do desempenho ou sobre
+                                                                                      ambiciosos
+                      os parâmetros
+Pouco comprometimento dos trabalhadores com relação              Dificuldade de estabelecer uma base objetiva para
+      ao desempenho da organização como um todo                            recompensar os trabalhadores
+
+3 – Técnicas de Controle Comportamental
+
+Os administradores utilizam diversas técnicas de controle comportamental para verificar se os
+funcionários estão, de fato, realizando suas atividades de acordo com aquilo que a organização
+espera deles.
+
+Entre as técnicas mais comuns estão a supervisão direta, a avaliação de desempenho e a
+disciplina.
+
+        Supervisão Direta: consiste na “observação direta” do desempenho dos funcionários. Os
+        problemas são corrigidos à medida em que vão ocorrendo. A presença “física” dos
+        supervisores restringe (limita) o comportamento dos funcionários. Além disso, a presença
+        do supervisor permite uma rápida detecção dos problemas. Por exemplo: supervisão direta
+        nas linhas de montagem.
+
+        Avaliação de Desempenho: trata-se de um processo de avaliação dos resultados obtidos
+        pelo funcionário, com o objetivo de avaliar a contribuição que o funcionário está
+        oferecendo para o desempenho da organização como um todo. A avaliação do
+        desempenho direciona o comportamento dos trabalhadores, com o objetivo de garantir
+        uma boa avaliação por parte de seus superiores.
+
+        Disciplina: esta técnica é utilizada quando o funcionário ignora todas as regras e normas da
+        organização, ou então quando seu desempenho é reiteradamente insuficiente. O
+
+
+         Receita Federal (Analista Tributário) Administração Geral                                                    66
+         www.estrategiaconcursos.com.br                                                                               149
+
+                                                                              66
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+          administrador adota ações para “forçar” o funcionário a cumprir as normas e os
+          regulamentos organizacionais. Para serem mais eficazes, as ações disciplinares devem ser
+          impessoais, consistentes e devem adotadas imediatamente após a “infração”. A disciplina
+          reforça as regulamentações e os padrões organizacionais.
+
+Vejamos, a seguir, algumas outras técnicas de controle comportamental que são utilizadas pelos
+administradores29:
+
+          Recrutamento e seleção: identifica e contrata pessoas cujos valores, atitudes e
+          personalidades se encaixam no perfil comportamental desejado pela organização.
+
+          Orientação: Define quais são os comportamentos aceitáveis e desejados e quais são os
+          comportamentos que devem ser evitados.
+
+          Desenho de Cargos: Define as tarefas que o trabalhador deve executar, os resultados
+          desejados, o ritmo de trabalho, entre outros.
+
+          Treinamento: Ensina os trabalhadores a executar, com eficiência e eficácia, suas atividades
+          e tarefas.
+
+          Estabelecimento de Objetivos: Dirige e limita o comportamento dos trabalhadores, de
+          forma a alcançar os objetivos específicos.
+
+          Formalização: Define regras, procedimentos, políticas e normas que estabelecem as
+          práticas aceitáveis e restringem o comportamento.
+
+          Incentivos e Bônus: Atua como reforço para encorajar o comportamento desejado e
+          extinguir os comportamentos desviantes.
+
+          Cultura Organizacional: Por meio de histórias, rituais e valores partilhados, transmite o que
+          a organização considera um comportamento adequado.
+
+(FGV – TRT 12a Região – Analista Judiciário - 2017)
+
+Em uma empresa de tecnologia de informação, a estratégia de controle comportamental parte do
+pressuposto de que os funcionários são motivados pelo sentimento de reconhecimento e
+
+29
+  Robbins & Coulter (2006) apud SOBRAL, F., & PECI, A. Administração: teoria e prática no contexto brasileiro, 4ª
+edição. São Paulo, Pearson Prentice Hall: 2008. p.250.
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                            67
+           www.estrategiaconcursos.com.br                                                                       149
+
+                                                                         67
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+realização. Os objetivos e metas individuais são estabelecidos de forma participativa, as
+recompensas são relacionadas ao desempenho, considerado em várias dimensões, e os resultados
+observados no controle são utilizados como formas de identificação e resolução de problemas, em
+vez de voltados para responsabilização e punição.
+
+Esta estratégia de controle comportamental é conhecida como controle por motivação interna, e
+tem como um potencial resultado negativo:
+
+a) diminuição da satisfação e do comprometimento dos funcionários;
+
+b) comportamento disfuncional por parte dos funcionários, resistindo ou burlando o sistema;
+
+c) pouco comprometimento dos funcionários para com o desempenho global da organização;
+
+d) estabelecimento de objetivos individuais pouco ambiciosos;
+
+e) comportamento conformista e limitado ao cumprimento do exigido, por parte dos funcionários.
+
+Comentários:
+
+De acordo com Sobral e Peci (2008), os resultados negativos do controle por motivação são os
+seguintes:
+
+       -Menor controle sobre o desempenho dos subordinados
+       -Estabelecimento de objetivos individuais pouco ambiciosos
+       -Dificuldade de estabelecer uma base objetiva para recompensar os trabalhadores
+
+Portanto, a alternativa que trouxe, corretamente, um resultado negativo do controle do controle
+por motivação interna é a letra D (estabelecimento de objetivos individuais pouco ambiciosos).
+
+A letra A está errada. Isso porque o um dos resultados positivos do controle por motivação é
+exatamente o maior comprometimento e motivação dos trabalhadores.
+
+As Letras B e C, por sua vez, trouxeram os resultados negativos do controle por imposição externa.
+
+O gabarito é a letra D.
+
+        Receita Federal (Analista Tributário) Administração Geral                                  68
+        www.estrategiaconcursos.com.br                                                             149
+
+                                                            68
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+                         OKR (OBJECTIVES AND KEY RESULTS)
+OKR (Objectives and Key Results), ou Objetivos e Resultados-Chave, consiste em um modelo de
+gestão ágil de desempenho, com foco em resultados, que funcionam como uma ferramenta de
+“comunicação interna”, integrando as equipes por meio de objetivos alinhados à cultura da
+organização.30
+
+Essa ferramenta surgiu na Intel (por Andrew Grove) e, posteriormente, foi introduzida na Google,
+por John Doerr, em 1999, quando a empresa possuía menos de 01 ano de operação e cerca de 40
+funcionários. O método foi uma peça fundamental na estratégia de crescimento da Google.
+
+Conforme explica Bernhoeft31, o OKR possui 02 componentes: objetivo (o que queremos alcançar)
+e um conjunto de key results (como sabemos se estamos chegando lá; como mensurar?).
+
+O objetivo deve ser:
+
+           -Claro e conciso
+
+           -Qualitativo
+
+           -Aspiracional, motivador e memorável, para estar sempre na cabeça dos colaboradores
+
+Para cada objetivo, recomenda-se que sejam estabelecidos de 02 a 05 key results, que devem ser:
+
+           -Quantitativos
+
+           -Baseados em critérios de sucesso que mostrem se estamos progredindo
+
+           -Baseados em métricas ou milestones (“etapas”/”marcos” a cumprir)
+
+“Pode dar um exemplo, Stefan?”
+
+Claro! Vamos imaginar, por exemplo, que um restaurante queira aumentar o engajamento e
+satisfação de seus clientes. Nesse caso, ele poderá produzir o seguinte OKR:
+
+30
+     https://www.siteware.com.br/blog/metodologias/metodologia-okr/
+31
+     BERNHOEFT, Rosa. A Sucessão na Estratégia dos Negócios. [Digite o Local da Editora]: Editora Alta Books, 2019. E-book. p. 267
+
+
+            Receita Federal (Analista Tributário) Administração Geral                                                           69
+            www.estrategiaconcursos.com.br                                                                                      149
+
+                                                                                         69
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+Objetivo:
+
+          -Encantar os clientes
+
+Key Results:
+
+          - Aumentar o número de visitas no restaurante em 30%.
+
+          - Atingir um Net Promoter Score de 56. (obs: o Net Promoter Score - NPS consiste em uma
+          metodologia utilizada para avaliar o “grau de fidelidade” e de satisfação dos clientes)
+
+          - Aumentar o engajamento nas redes sociais em 50%.
+
+Vale dizer que as metas estabelecidas no método OKR são traçadas, preferencialmente, em ciclos
+curtos, normalmente para um período de, no máximo, 03 meses. O objetivo é que se tenha mais
+agilidade, fazendo com que seja possível obter rápidas adaptações às mudanças.
+
+As principais características dos OKRs são32:
+
+          Simplicidade: Os OKRs devem conter linguagem simples, clara, concisa, de fácil
+          compreensão, tornando a comunicação mais clara e eficaz.
+
+          Ciclos curtos: Preferencialmente, as empresas utilizam ciclos curtos de OKRs (normalmente
+          trimestrais), o que traz agilidade para o processo.
+
+          Foco: Empresas ágeis focam naquilo que é mais importante. Nesse sentido, os OKRs ajudam
+          a focar nas prioridades da empresa e das equipes, uma vez que focam em poucos objetivos
+          por vez.
+
+          Bottom-Up e Top-Down: Os OKRs são “acordados” entre gestor e colaborador. Inclusive, o
+          método prioriza que os OKRs sejam definidos de forma bottom-up (“de baixo, para cima”),
+          ou seja, o próprio colaborador que vai trabalhar naquele OKR participa da elaboração de
+          suas metas. Isso faz com que o colaborador fique mais engajado com o método e motivado
+          em atingir os objetivos.
+
+          Alinhamento Organizacional: Trata-se de uma metodologia que busca integrar os objetivos
+          individuais, de equipes e organizacionais, por meio de resultados passíveis de medição.
+
+32
+     Com base em https://www.siteware.com.br/blog/metodologias/metodologia-okr/
+
+
+           Receita Federal (Analista Tributário) Administração Geral                              70
+           www.estrategiaconcursos.com.br                                                         149
+
+                                                           70
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+          Transparência: Quando as metas claras são compartilhadas entre as equipes da
+          organização, todos os indivíduos passam a compreender como as suas contribuições
+          individuais se amoldam aos objetivos da organização, fortalecendo o engajamento e o
+          espírito de equipe.
+
+Portanto, OKR consiste em uma abordagem para criar alinhamento e engajamento em torno de
+metas e resultados mensuráveis, alinhados à estratégia da organização e em busca de impulsionar
+os objetivos organizacionais.33
+
+Bernie Smith, consultor americano, explica que os Key Results, normalmente, tendem a assumir 03
+formas distintas. O autor, inclusive, traz alguns exemplos para conceituar cada uma dessas formas.
+Vejamos, de acordo com Smith, quais as 03 formas que os Key Results tendem a assumir34:
+
+1 - Resultado-Chave da Métrica da Linha de Base (Baseline Metric Key Result)
+
+          Por exemplo: Um departamento de Contas a Pagar nos estágios iniciais de implantação de
+          OKRs percebe que o número de faturas recebidas é um indicador-chave que pode ser usado
+          ao medir o objetivo de eficiência e escalabilidade da empresa para reduzir despesas gerais e
+          administrativas como percentual da receita. No entanto, ninguém está monitorando
+          atualmente o número de faturas processadas. Portanto, um Baseline Metric Key Result
+          (Resultado-Chave da Métrica da Linha de Base) pode ser o seguinte:
+
+                  - Contar e relatar o número de faturas recebidas a cada mês no quarto trimestre
+
+          Este é um Baseline Metric Key Result, porque é considerada uma métrica muito
+          importante para rastrear, mas não há dados históricos disponíveis. Nesse caso, geralmente
+          não é necessário definir um valor alvo para o Key Result. Em geral, as metas só devem ser
+          definidas depois de termos estabelecido uma linha de base.
+
+2 - Resultado-Chave da Métrica-Alvo (Target Metric Key Result)
+
+          Existem três tipos de Target Metric Key Result:
+
+          a) Métrica-alvo Positiva (Positive Target Metric)
+
+33
+     FGV (2022)
+34
+     Traduzido de https://madetomeasurekpis.com/blog/2014/10/02/insider-tips-okrs-coach/
+
+
+           Receita Federal (Analista Tributário) Administração Geral                                     71
+           www.estrategiaconcursos.com.br                                                                149
+
+                                                                  71
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+             Por exemplo: A vice-presidente de operações de pessoal tem um total de 40
+             funcionários em sua equipe. Como todos são obrigados a concluir e documentar as
+             avaliações de desempenho até o final de junho, um Positive Target Metric (Métrica-
+             alvo Positiva) seria:
+
+                     - 40 avaliações concluídas e entregues até o final de junho.
+
+             Esta é uma métrica alvo, pois especifica uma meta de valor numérico. É uma métrica-
+             alvo positiva, pois é “bom” seguir em uma direção positiva (ou seja, 39 é melhor que
+             1).
+
+     b) Métrica-alvo Negativa (Negative Target Metric)
+
+             Por exemplo: O vice-presidente de contabilidade produz demonstrações financeiras a
+             cada trimestre com um total de apenas 12 erros materiais nos últimos 10 trimestres,
+             para uma média de 1,2 erros materiais por trimestre. O CFO considera que 1 é uma
+             boa meta e 2 erros são aceitáveis, mas 3 ou mais erros materiais num trimestre não
+             são aceitáveis. O Vice-Presidente deseja garantir que os relatórios atendam aos
+             padrões precisos, portanto, um Negative Target Metric (Métrica-alvo Negativa)
+             poderia ser:
+
+                     - Não mais do que 2 erros materiais nas demonstrações financeiras trimestrais
+                     no ano fiscal de 2015.
+
+             Esta é uma métrica alvo, pois especifica uma meta de valor numérico. É uma métrica-
+             alvo negativa, pois é “bom” seguir em uma direção negativa (ou seja, 0 é melhor que
+             2).
+
+     c) Métrica-alvo Limite (Threshold Target Metric)
+
+             Por exemplo: O vice-presidente de uma equipe de consultoria fornece serviços
+             cobrados por hora. Para ser rentável, o vice-presidente deseja que sua equipe fature
+             pelo menos 60% do seu tempo todos os meses. Ela chama essa métrica de “taxa de
+             utilização de consultoria”. Ela sabe que sua equipe precisa de tempo para reuniões
+             internas e atividades não faturáveis. Quando a taxa de utilização ultrapassa 90%, ela
+             impacta negativamente a satisfação no trabalho e pode até impactar negativamente
+             a qualidade dos serviços. Portanto, Threshold Target Metric (Métrica-alvo Limite)
+             pode ser a seguinte:
+
+                     -Manter uma taxa de utilização mensal de consultores entre 60% e 90% no
+                     quarto trimestre.
+
+             Esta é uma métrica-alvo limite, pois especifica um valor numérico baixo aceitável e
+             um valor numérico alto aceitável, que servem como limites para definir o intervalo
+             alvo da métrica.
+
+
+      Receita Federal (Analista Tributário) Administração Geral                                  72
+      www.estrategiaconcursos.com.br                                                             149
+
+                                                          72
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+3 – Resultado-chave do Marco (Milestone Key Result)
+
+       Por exemplo: O Vice-Presidente de Vendas é responsável pela abertura de um novo
+       escritório na Austrália para estabelecer presença na região. O Vice-Presidente não é
+       responsável pela abertura de vários escritórios, apenas um, portanto um Milestone Key
+       Result (Resultado-chave do Marco) poderia ser:
+
+               -Abrir uma filial na Austrália com pelo menos um funcionário em tempo integral no
+               escritório durante o horário comercial até o final do quarto trimestre
+
+       Trata-se de um “marco” (milestone), pois não pode ser configurado como uma métrica.
+       Observe que os Milestone Key Result (Resultado-chave do Marco) podem e devem ser
+       divididos em etapas menores, como, por exemplo:
+
+               - Assinar aluguel para garantir espaço de escritório
+
+               - Contrate gerente de escritório em tempo integral
+
+               - Traduzir os preços dos produtos para a moeda australiana
+
+(CEBRASPE – DATAPREV – Analista – 2023)
+
+A metodologia OKR prevê a definição dos objetivos, preferencialmente, em ciclos mais longos, com
+iniciativas que incentivem o alcance das metas com vinculação direta a bonificações, prêmios e
+ascensão profissional.
+
+Comentários:
+
+Nada disso! A metodologia OKR prioriza ciclos curtos. Além disso, “vinculação direta a
+bonificações, prêmios e ascensão profissional” não constituem, necessariamente, recomendações
+da metodologia.
+
+Gabarito: errada.
+
+(CEBRASPE – DATAPREV – Analista – 2023)
+
+
+        Receita Federal (Analista Tributário) Administração Geral                               73
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         73
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+A utilização da metodologia OKR pode auxiliar na elaboração de planejamentos estratégicos, pois
+essa metodologia busca integrar os objetivos da instituição, da equipe e das pessoas em resultados
+cuja medição seja possível.
+
+Comentários:
+
+Isso mesmo! Trata-se de uma metodologia que busca integrar os objetivos individuais, de equipes
+e organizacionais, por meio de resultados passíveis de medição, sendo capaz de auxiliar na
+elaboração de planejamentos estratégicos.
+
+Gabarito: correta.
+
+(CEBRASPE – DATAPREV – Analista – 2023)
+
+Para a definição dos objetivos, a metodologia OKR utiliza predominantemente o modelo top-down,
+a fim de obter o alinhamento estratégico necessário para que a implementação dos objetivos
+ganhe força e velocidade junto às equipes.
+
+Comentários:
+
+Nada disso! A metodologia prioriza que os OKRs sejam definidos de forma bottom-up (“de baixo,
+para cima”), ou seja, o próprio colaborador que vai trabalhar naquele OKR participa da elaboração
+de suas metas.
+
+Gabarito: errada.
+
+(CEBRASPE – DATAPREV – Analista – 2023)
+
+Um diferencial da OKR para a criação de planejamento estratégico é a quantidade de objetivos:
+nessa metodologia, quanto mais objetivos, melhor, pois é possível fazer microgerenciamentos e
+criar pesos diferentes para cada objetivo, o que é mais eficiente que definir poucos objetivos.
+
+Comentários:
+
+Nada disso! Uma das características da metodologia OKR é o foco. Empresas ágeis focam naquilo
+que é mais importante. Nesse sentido, os OKRs ajudam a focar nas prioridades da empresa e das
+equipes, uma vez que focam em poucos objetivos por vez.
+
+Gabarito: errada.
+
+(CEBRASPE – DATAPREV – Analista – 2023)
+
+O OKR (objectives and key results) é um protocolo colaborativo de definição de metas mensuráveis
+e indicadores precisos para empresas, equipes e indivíduos que vincula metas à missão mais ampla
+de uma equipe.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                                74
+        www.estrategiaconcursos.com.br                                                           149
+
+                                                          74
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Comentários:
+
+Isso mesmo! A assertiva trouxe um conceito correto de OKR.
+
+Gabarito: correta.
+
+(FUNDATEC – CIGA-SC – Assistente – 2023)
+
+Sobre a Metodologia de OKR (Objectives and Key Results), assinale a alternativa correta.
+
+a) É uma metodologia de gestão que pode ser compreendida, de modo simplificado, como uma
+fórmula para definir metas a partir de um objetivo e um conjunto de resultados-chave esperados.
+
+b) É uma metodologia de gestão de pessoas integradas exclusivamente em projetos de tecnologia.
+
+c) É uma metodologia de comunicação que combina canais digitais e analógicos.
+
+d) É uma metodologia de comunicação que só pode ser aplicada a projetos de pequeno porte de
+municípios com até 50 mil habitantes.
+
+e) É uma ferramenta de programação de computadores ideal para a produção de sites.
+
+Comentários:
+
+A única alternativa que trouxe um conceito correto em relação ao OKR foi a letra A. Trata-se, de
+fato, de uma metodologia de gestão que pode ser compreendida, de modo simplificado, como
+uma fórmula para definir metas a partir de um objetivo e um conjunto de resultados-chave
+esperados.
+
+O gabarito é a letra A.
+
+(FUNDATEC – FCC – Analista – 2022)
+
+De acordo com o Método OKR (Objectives and Key Results), consistente em uma das ferramentas
+contemporâneas de planejamento no âmbito das organizações, os denominados Resultados-Chave
+(KR)
+
+a) são caracterizados como guias operacionais a serem seguidas pela organização para atingimento
+das metas qualitativas e quantitativas, estas que são desdobramentos dos objetivos propriamente
+ditos.
+
+b) correspondem a metas (quantitativas) com impacto direto no atingimento do objetivo
+estabelecido, este último de natureza qualitativa e que traduz o que a organização pretende
+atingir.
+
+        Receita Federal (Analista Tributário) Administração Geral                               75
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         75
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+c) ostentam caráter qualitativo, indicando a direção a ser perseguida pela organização e os ajustes
+de rota que precisam ser promovidos para o atingimento do objetivo, este sempre representado
+por alguma métrica de incremento.
+
+d) consistem nas principais habilidades que devem ser desenvolvidas pelos integrantes da
+organização (soft skills), diversamente dos denominados Key Performance Indicator (KPI) que
+medem aspectos técnicos (hard skills).
+
+e) representam a dimensão tática do planejamento estratégico, consistentes em um conjunto de
+ações a serem implementadas para atingimento dos objetivos estratégicos estabelecidos..
+
+Comentários:
+
+A única alternativa que trouxe um conceito correto em relação ao OKR foi a letra B.
+
+Os resultados-chave consiste em metas (quantitativas) com impacto direto no atingimento do
+objetivo estabelecido, este último de natureza qualitativa e que traduz o que a organização
+pretende atingir.
+
+O gabarito é a letra B.
+
+(FGV – TRT-13ª Região – Analista – 2022)
+
+OKR é utilizado em diversas organizações. É uma abordagem simples para criar alinhamento e
+engajamento em torno de metas e resultados mensuráveis. Os tipos de resultados esperados no
+OKR são classificados como
+
+a) teóricos e experimentais.
+
+b) regulatórios, estratégicos e táticos.
+
+c) textuais, sinalizações visuais e métricas numéricas.
+
+d) baseline, milestone, métricas positivas e negativas e threshold.
+
+e) financeiros, engineering, operations, resources, saúde e tecnológicos.
+
+Comentários:
+
+Vejamos, de acordo com Smith, quais as 03 formas que os Key Results tendem a assumir 35:
+
+1 - Resultado-Chave da Métrica da Linha de Base (Baseline Metric Key Result)
+
+35
+     Traduzido de https://madetomeasurekpis.com/blog/2014/10/02/insider-tips-okrs-coach/
+
+
+           Receita Federal (Analista Tributário) Administração Geral                              76
+           www.estrategiaconcursos.com.br                                                         149
+
+                                                           76
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+2 - Resultado-Chave da Métrica-Alvo (Target Metric Key Result)
+
+       a) Métrica-alvo Positiva (Positive Target Metric)
+
+       b) Métrica-alvo Negativa (Negative Target Metric)
+
+       c) Métrica-alvo Limite (Threshold Target Metric)
+
+3 – Resultado-chave do Marco (Milestone Key Result)
+
+O gabarito é a letra D.
+
+(CEBRASPE – BANRISUL – Analista – 2022)
+
+No contexto do planejamento estratégico, a definição de objetivos segue, entre outras, a
+abordagem de objetivos e resultados-chave (objective and key results — OKR), que tem como
+premissa estabelecer um único resultado-chave para cada objetivo.
+
+Comentários:
+
+Nada disso! Para cada objetivo, recomenda-se que sejam estabelecidos de 02 a 05 key results.
+
+Gabarito: errada.
+
+(CETAP – PGE-PA – Técnico – 2021)
+
+A técnica OKR (Objectives and Key Results, ou seja, Objetivos e Resultados-chave) é considerada
+uma filosofia revolucionária e vem sendo usada cada vez mais por diferentes organizações
+inovadoras, como, por exemplo, a Procuradoria-Geral de Águas Claras. Na reunião de trabalho,
+inclusive, Pedro defendeu o uso da técnica, explicando aos demais seus benefícios. Dentre eles,
+encontram-se:
+
+I- prazos longos para realização, assim, todos conseguem alcançar os resultados;
+
+Il- mais engajamento e responsabilidade por parte de quem participa da elaboração, execução e
+acompanhamento dos OKRs;
+
+Ill- ampla publicização, uma vez que metas transparentes e conhecidas por todos melhoram mais o
+engajamento e a performance.
+
+Estão corretos:
+
+a) apenas os itens l e ll.
+
+b) apenas os itens l e Ill.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                               77
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         77
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+c) apenas os itens lI e lIl.
+
+d) os itens I, Il e III.
+
+Comentários:
+
+A primeira assertiva está errada. A metodologia OKR prioriza ciclos curtos (normalmente
+trimestrais)
+
+A segunda assertiva está correta. A metodologia prioriza que os OKRs sejam definidos de forma
+bottom-up (“de baixo, para cima”), ou seja, o próprio colaborador que vai trabalhar naquele OKR
+participa da elaboração de suas metas, fazendo com que o colaborador fique mais engajado com o
+método e motivado em atingir os objetivos.
+
+A terceira assertiva está correta. Isso mesmo. A transparência é uma das características do
+método OKR.
+
+O gabarito é a letra C.
+
+(COMPERVE – UFRN – Administrador – 2019)
+
+Os objectives and key results (OKR) são uma ferramenta para executar a estratégia de uma
+organização. Analise as afirmações abaixo sobre essa ferramenta.
+
+I Deve ser definida de forma top down, sem os colaboradores.
+
+II É executada em ciclos longos de 12 meses ou mais.
+
+III É pública e transparente por padrão.
+
+IV Seu principal objetivo é motivar os colaboradores na execução das metas.
+
+Das afirmações, estão corretas
+
+a) II e III.
+
+b) III e IV.
+
+c) I e II.
+
+d) I e IV.
+
+Comentários:
+
+             Receita Federal (Analista Tributário) Administração Geral                        78
+             www.estrategiaconcursos.com.br                                                   149
+
+                                                       78
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+A primeira assertiva está errada. A metodologia prioriza que os OKRs sejam definidos de forma
+bottom-up (“de baixo, para cima”), ou seja, o próprio colaborador que vai trabalhar naquele OKR
+participa da elaboração de suas metas.
+
+A segunda assertiva está errada. A metodologia OKR prioriza ciclos curtos (normalmente
+trimestrais)
+
+A terceira assertiva está correta. Isso mesmo. A transparência é uma das características do
+método OKR.
+
+A quarta assertiva está correta. De fato, a metodologia OKR busca que o colaborador fique mais
+engajado com o método e motivado em atingir os objetivos.
+
+O gabarito é a letra B.
+
+                      KPIS (KEY PERFORMANCE INDICATORS)
+Os Key Performance Indicators (KPIs), ou Indicadores-Chave de Desempenho (Indicadores-Chave
+de Performance), consistem nos indicadores eleitos como os mais importantes para a empresa.36
+
+Os KPIs são indicadores que tem por objetivo mensurar o alcance de objetivos e metas. Ou seja,
+consistem em métricas utilizadas para monitorar o progresso em direção ao alcance de objetivos.
+
+Os KPIs medem o desempenho contínuo e são importantes para orientar ações corretivas e de
+melhoria.
+
+A formulação dos KPIs é complexa, uma vez que depende das necessidades específicas de cada
+organização, da diversidade de fatores que influenciam o desempenho organizacional e do
+alinhamento com metas específicas.
+
+Os KPIs podem ser utilizados em qualquer tipo de organização e desempenham um papel
+fundamental na avaliação do sucesso organizacional.
+
+Vejamos alguns exemplos de KPIs: Net Promoter Score – NPS (ferramenta que mede a satisfação e
+lealdade dos clientes); taxa de retenção de clientes; retorno sobre o investimento – ROI; taxa de
+crescimento de receita; custo de aquisição por cliente; taxa de participação de mercado; número
+de reclamações; satisfação do cliente; custo de produção, etc.
+
+36
+     CALDEIRA, Jorge. 100 Indicadores da Gestão - Key Performance Indicators. São Paulo: Almedina Brasil, 2012. E-book. p.9.
+
+
+            Receita Federal (Analista Tributário) Administração Geral                                                          79
+            www.estrategiaconcursos.com.br                                                                                     149
+
+                                                                                       79
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Os KPIs podem ser quantitativos ou qualitativos.
+
+Os KPIs quantitativos são mensuráveis e numéricos, e oferecem dados objetivos para análise. Por
+exemplo: taxa de crescimento de receita.
+
+Os KPIs qualitativos, por sua vez, são descritivos e subjetivos, envolvendo observações
+geralmente decorrentes de entrevistas, pesquisas e análises de sentimentos. Por exemplo:
+sentimentos dos clientes.
+
+Vejamos uma questão que traz essa ideia:
+
+(CESGRANRIO – Transpetro – Profissional de Nível Superior - 2023)
+
+Indicador de desempenho logístico (KPI) é uma
+
+a) medida quantitativa ou qualitativa que avalia o grau de alcance de um objetivo ou meta da
+logística empresarial.
+
+b) ferramenta gráfica ou numérica que representa o estado atual ou histórico de um processo ou
+atividade da logística empresarial.
+
+c) variável crítica ou estratégica que influencia ou determina o resultado de um processo ou
+atividade da logística empresarial.
+
+d) norma ou padrão que define o nível desejado ou esperado de qualidade ou eficiência de um
+processo ou atividade da logística empresarial.
+
+e) metodologia ou técnica que permite analisar, monitorar ou melhorar um processo ou atividade
+da logística empresarial.
+
+Comentários:
+
+Os KPIs são indicadores que tem por objetivo mensurar o alcance de objetivos e metas. Ou seja,
+consistem em métricas utilizadas para monitorar o progresso em direção ao alcance de objetivos.
+Os KPIs podem ser quantitativos ou qualitativos.
+
+Portanto, o gabarito é a letra A.
+
+O gabarito é a letra A.
+
+        Receita Federal (Analista Tributário) Administração Geral                             80
+        www.estrategiaconcursos.com.br                                                        149
+
+                                                       80
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+Contudo, considerando que a maioria dos KPI são quantitativos, alguns autores trazem conceitos
+indicando que os KPIs são valores quantitativos. Nesse sentido, o Guia PMBOK37 destaca que “os
+indicadores-chave de desempenho (KPIs) de projetos são medidas quantificáveis usadas para
+avaliar o sucesso de um projeto.”
+
+Vejamos algumas questões que trazem essa ideia:
+
+(CEBRASPE – BDMG – Analista - 2025)
+
+Os indicadores-chave de desempenho (KPIs) são medidas quantificáveis utilizadas para se avaliar o
+sucesso de um projeto, podendo, portanto, ser utilizados como valores mensuráveis que se
+relacionam com as metas, os objetivos e as estratégias específicas do projeto.
+
+Comentários:
+
+Perceba que, nessa questão, a banca afirmou que KPIs são medidas quantificáveis, seguindo o
+conceito do Guia PMBOK.
+
+De fato, os KPIs são indicadores que tem por objetivo mensurar o alcance de objetivos e metas. Ou
+seja, consistem em métricas utilizadas para monitorar o progresso em direção ao alcance de
+objetivos.
+
+Gabarito: correta.
+
+(CEBRASPE – BDMG – Analista - 2025)
+
+Os valores medidos pelo KPI são
+
+a) sequenciais.
+
+b) qualitativos.
+
+c) quantitativos.
+
+d) temporais.
+
+Comentários:
+
+Mais uma vez, a banca seguiu a linha de que os KPIs são quantificáveis.
+
+Gabarito: letra C.
+
+37
+  PROJECT MANAGEMENT INSTITUTE. Guia do Conhecimento em Gerenciamento de Projetos
+(Guia PMBOK). 7a Edição. Newtown Square, 2021.
+
+
+           Receita Federal (Analista Tributário) Administração Geral                            81
+           www.estrategiaconcursos.com.br                                                       149
+
+                                                         81
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Portanto, considerando esses conceitos, você deve ficar atento e buscar a alternativa que melhor
+responde à questão!
+
+(CEBRASPE – MPE-CE – Analista - 2025)
+
+É relevante o estabelecimento de KPIs (key process indicators), com monitoramento e controle
+adequados, para a gestão dos objetivos e para a consecução das metas organizacionais.
+
+Comentários:
+
+De fato, o estabelecimento de KPIs (key process indicators ou key performance indicators), com
+monitoramento e controle adequados, são relevantes para a gestão dos objetivos e para o alcance
+das metas organizacionais.
+
+Gabarito: correta.
+
+(CEBRASPE – ANM – Especialista - 2025)
+
+KPI (key performance indicators) medem desempenho contínuo, enquanto OKR (objectives and
+key results) focam objetivos estratégicos de curto prazo.
+
+Comentários:
+
+De fato, os KPIs medem o desempenho contínuo e são importantes para orientar ações corretivas
+e de melhoria. A metodologia OKR, por sua vez, prioriza ciclos curtos.
+
+Gabarito: correta.
+
+(FGV – DATAPREV – Analista - 2024)
+
+Na gestão de processos, os KPIs são como o GPS da empresa: nos mostram se estamos no caminho
+certo para alcançar nossos objetivos.
+
+A estratégia mais inteligente para que eles realmente nos ajudem a melhorar é
+
+a) encher o mapa de pontos de referência, mesmo que alguns não tenham nada a ver com o
+destino.
+
+        Receita Federal (Analista Tributário) Administração Geral                              82
+        www.estrategiaconcursos.com.br                                                         149
+
+                                                        82
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+b) focar só em atalhos que parecem mais rápidos, mesmo que a estrada seja perigosa ou o destino
+não seja o que a gente realmente precisa.
+
+c) escolher os pontos-chave que realmente importam para chegar lá, e ir checando o mapa
+durante a viagem, ajustando a rota se precisar.
+
+d) ignorar o mapa e seguir apenas a intuição, mesmo que isso signifique se perder pelo caminho.
+
+e) olhar o mapa só quando a viagem acabar, para ver se chegamos aonde queríamos..
+
+Comentários:
+
+Os Key Performance Indicators (KPIs), ou Indicadores-Chave de Desempenho (Indicadores-Chave
+de Performance), consistem nos indicadores eleitos como os mais importantes para a empresa.38
+
+Os KPIs são indicadores que tem por objetivo mensurar o alcance de objetivos e metas. Ou seja,
+consistem em métricas utilizadas para monitorar o progresso em direção ao alcance de objetivos.
+
+Portanto, a estratégia mais inteligente para que eles realmente nos ajudem a melhorar é escolher
+os pontos-chave que realmente importam para chegar lá, e ir checando o mapa durante a viagem,
+ajustando a rota se precisar.
+
+O gabarito é a letra C.
+
+(CESGRANRIO – UNEMAT – Publicitário - 2024)
+
+O papel fundamental dos Key Performance Indicators (KPI), em estratégias de marketing digital em
+mídias sociais, é a sua utilização para a
+
+a) quantificação do alcance da campanha, principalmente, sem influenciar as decisões estratégicas.
+
+b) comparação do desempenho da empresa com outras do mesmo setor, proporcionando uma
+visão relativa do sucesso nas mídias sociais.
+
+c) mensuração do desempenho em relação aos objetivos específicos da campanha, servindo como
+indicadores chave, orientando ações corretivas e otimizações.
+
+d) mensuração do desempenho em grandes empresas, principalmente, visto que os pequenos
+negócios não utilizam essa abordagem.
+
+e) elaboração dos relatórios finais, sem impacto real no desenvolvimento das campanhas..
+
+38
+     CALDEIRA, Jorge. 100 Indicadores da Gestão - Key Performance Indicators. São Paulo: Almedina Brasil, 2012. E-book. p.9.
+
+
+            Receita Federal (Analista Tributário) Administração Geral                                                          83
+            www.estrategiaconcursos.com.br                                                                                     149
+
+                                                                                       83
+
+
+---
+
+     Stefan Fantini
+     Aula 08
+
+Comentários:
+
+Os KPIs são indicadores que tem por objetivo mensurar o alcance de objetivos e metas. Ou seja,
+consistem em métricas utilizadas para monitorar o progresso em direção ao alcance de objetivos.
+Os KPIs medem o desempenho contínuo e são importantes para orientar ações corretivas e de
+melhoria.
+
+O gabarito é a letra C.
+
+(CEBRASPE – SEBRAE – Analista - 2024)
+
+Em uma organização, os KPI são utilizados para medir
+
+a) todos os processos externos.
+
+b) os processos da área de TI.
+
+c) todos os processos internos.
+
+d) os principais processos internos.
+
+Comentários:
+
+Os Key Performance Indicators (KPIs), ou Indicadores-Chave de Desempenho (Indicadores-Chave
+de Performance), consistem nos indicadores eleitos como os mais importantes para a empresa.39
+
+O gabarito é a letra D.
+
+(CESGRANRIO – Transpetro – Profissional - 2023)
+
+No âmbito da análise de dados complexos, os KPIs (Indicadores-Chave de Desempenho)
+desempenham um papel crucial na avaliação do sucesso organizacional. Dessa forma, a seleção
+dos KPIs apropriados é uma tarefa necessária.
+
+Nesse contexto, a seleção de KPIs é
+
+a) simples, uma vez que os indicadores mais comuns são aplicáveis a qualquer setor e situação.
+
+b) simples, uma vez que as empresas modernas têm metas uniformes em termos de desempenho.
+
+c) complexa porque os indicadores-chave não são relevantes para as métricas de desempenho.
+
+39
+     CALDEIRA, Jorge. 100 Indicadores da Gestão - Key Performance Indicators. São Paulo: Almedina Brasil, 2012. E-book. p.9.
+
+
+            Receita Federal (Analista Tributário) Administração Geral                                                          84
+            www.estrategiaconcursos.com.br                                                                                     149
+
+                                                                                       84
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+d) complexa devido à diversidade de fatores que influenciam o desempenho organizacional e à
+necessidade de alinhamento com metas específicas.
+
+e) complexa apenas para empresas de grande porte, em que diferentes equipes têm objetivos
+variados.
+
+Comentários:
+
+A formulação dos KPIs é complexa, uma vez que depende das necessidades específicas de cada
+organização, da diversidade de fatores que influenciam o desempenho organizacional e do
+alinhamento com metas específicas.
+
+O gabarito é a letra D.
+
+(CESGRANRIO – Transpetro – Profissional - 2023)
+
+No contexto do gerenciamento de serviços de TI, os Indicadores-Chave de Desempenho (KPIs)
+desempenham um papel crucial na avaliação e otimização dos serviços.
+
+A respeito dos KPIs, verifica-se que são
+
+a) métricas técnicas específicas usadas apenas para avaliar o desempenho de hardware.
+
+b) usados exclusivamente para monitorar a disponibilidade de serviços, não estando relacionados à
+qualidade.
+
+c) aplicados apenas em organizações de pequeno porte.
+
+d) selecionados com base nas necessidades de negócios e ajudam a medir o sucesso do serviço.
+
+e) isentos da influência de ferramentas de monitoramento em sua definição ou em seu
+rastreamento.
+
+Comentários:
+
+A formulação dos KPIs é complexa, uma vez que depende das necessidades específicas de cada
+organização, da diversidade de fatores que influenciam o desempenho organizacional e do
+alinhamento com metas específicas.
+
+Os KPIs podem ser utilizados em qualquer tipo de organização e desempenham um papel
+fundamental na avaliação do sucesso organizacional.
+
+O gabarito é a letra D.
+
+        Receita Federal (Analista Tributário) Administração Geral                               85
+        www.estrategiaconcursos.com.br                                                          149
+
+                                                         85
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                CONSIDERAÇÕES FINAIS
+É, meu amigo! São muitas informações, não é mesmo?
+
+O fato é que a banca organizadora utiliza diversos documentos e autores para a elaboração das
+questões. E, como você pôde observar, cada vez a banca se baseia em um documento ou autor
+diferente e, até mesmo, muitas vezes, “mistura” as nomenclaturas e as ideias dos diversos
+documentos e autores.
+
+Portanto, minha missão foi apresentar para você tudo que costuma cair (e que pode aparecer) na
+sua prova, da forma mais direta, objetiva e encadeada possível.
+
+Agora, com o objetivo de facilitar ainda mais a sua vida, elaborei aquele RESUMO ESTRATÉGICO
+“maroto”, consolidando todas as informações mais importantes da aula. Esse resumo servirá,
+inclusive, para facilitar ainda mais a “visualização” e “comparação” entre os vários documentos e
+autores que utilizamos durante a aula.
+
+Tenho certeza de que o RESUMO ESTRATÉGICO vai te ajudar bastante, e esclarecer ainda mais as
+ideias.
+
+Um forte abraço, e até a próxima aula! ☺
+
+        Receita Federal (Analista Tributário) Administração Geral                                86
+        www.estrategiaconcursos.com.br                                                           149
+
+                                                          86
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                 RESUMO ESTRATÉGICO
+Como são muitas informações, optei por elaborar esse resumo utilizando a folha na orientação
+paisagem. Creio que, dessa forma, irá facilitar bastante a visualização e a comparação.
+
+Segue o RESUMO ESTRATÉGICO nas próximas páginas!
+
+        Receita Federal (Analista Tributário) Administração Geral                           87
+        www.estrategiaconcursos.com.br                                                      149
+
+                                                     87
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+                                                Assegurar que os resultados e os objetivos                                    Orientação estratégica para resultados
+                                              organizacionais previamente estabelecidos pelo
+                                                     planejamento sejam alcançados.
+
+                                                                                                                                 Compreensão (Inteligibilidade)
+       OBJETIVOS BÁSICOS                      Ajustar/Corrigir os desvios negativos (corrigir as
+         DO CONTROLE                                  falhas e os erros identificados).
+                                                                                                                               Orientação rápida para as exceções
+                                              Reforçar os desvios positivos (identificar as “boas
+                                                           práticas”, e reforçá-las).
+                                                                                                                                          Flexibilidade
+
+
+                                    ETAPAS DO CONTROLE                                                                                    Autocontrole
+
+
+                                                                                                    CARACTERÍSTICAS DO
+                                                                                                                                        Natureza positiva
+                                                                                                        CONTROLE
+                                      Definição dos objetivos
+
+                                                                                                                                           Economia
+
+
+                                                                                                                                     Clareza e Objetividade
+                 Correção, Realimentação ou                   Monitoramento/Avaliação
+                         Feedback                              do desempenho "atual"
+                                                                                                                                           Aceitação
+
+
+                                                                                                                                            Rapidez
+
+                                       Comparacão entre o
+                                      desempenho "atual" e o                                                                                Precisão
+                                        padrão estabelecido̧
+
+      Receita Federal (Analista Tributário) Administração Geral                                                                                                        88
+      www.estrategiaconcursos.com.br                                                                                                                                   149
+
+                                                                                       88
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+                                                                         Controle                Avalia a organização como um todo. É genérico,
+                                                                        Estratégico                 sintético e orientado para o longo prazo.
+                                            Quanto ao                    Controle              Avalia unidades/departamentos. É menos genérico,
+                                              nível                                               mais detalhado e orientado ao médio prazo.
+                                          organizacional
+                                                                          Tático
+                                                                        Controle               Avalia atividades e tarefas específicas. É detalhado,
+                                                                       Operacional                    analítico e voltado para o curto prazo.
+                    Tipos de
+                    Controle
+                                                                         Controle                 Ocorre antes da atividade ser executada. Está
+                                                                        Preventivo                    relacionado aos insumos. É proativo.
+
+                                            Quanto ao                    Controle                  Ocorre durante a execução da atividade. Está
+                                            momento                    Simultâneo                     relacionado aos processos. É reativo.
+
+                                                                        Controle                  Ocorre depois da atividade ser executada. Está
+                                                                        Posterior                          relacionado aos resultados.
+
+
+      Receita Federal (Analista Tributário) Administração Geral                                                                                        89
+      www.estrategiaconcursos.com.br                                                                                                                   149
+
+                                                                            89
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+                                             mensurar os resultados e gerir o desempenho
+
+                                                                                                                                           Mito 1: Mito da medição absoluta: preciso medir tudo.
+
+                                         embasar a análise crítica dos resultados obtidos e do
+                                                  processo de tomada de decisão
+                                                                                                                                          Mito 2: Para medir o que importa, preciso gerar todas as
+                                                                                                                                          informações, coletar dados de forma exaustiva e precisa.
+                                                                                                   MITOS SOBRE A MEDIÇÂO DE
+    Finalidades dos                        contribuir para a melhoria contínua dos processos             DESEMPENHO
+     INDICADORES                                             organizacionais                                                               Mito 3: Primeiro vamos medir, depois vamos ver o que
+                                                                                                                                                         fazemos com as medidas.
+
+
+                                       facilitar o planejamento e o controle do desempenho                                               Mito 4: Preciso, sobretudo, do sistema informático perfeito
+                                                                                                                                                                  para isto.
+
+
+                                        viabilizar a análise comparativa do desempenho da
+                                      organização e do desempenho de diversas organizações
+                                           atuantes em áreas ou ambientes semelhantes
+
+                                                                    grandeza qualitativa ou quantitativa que permite classificar as            Variáveis dos Indicadores
+                                 Medida                         características, resultados e consequências dos produtos, processos ou
+                                                                                                sistemas
+
+
+                                 Fórmula                           padrão matemático que expressa à forma de realização do cálculo
+                                                                                                                                                  Custo               Tempo
+
+Componentes
+ Básicos dos                 Índice (número)                               valor de um indicador em determinado momento
+INDICADORES
+
+                               Padrão de                        índice arbitrário e aceitável para uma avaliação comparativa de padrão         Qualidade           Quantidade
+                              Comparação                                                     de cumprimento
+
+
+                                                                índice (número) orientado por um indicador em relação a um padrão de
+                                  Meta                                     comparação a ser alcançado durante certo período
+
+          Receita Federal (Analista Tributário) Administração Geral                                                                                                                         90
+          www.estrategiaconcursos.com.br                                                                                                                                                   149
+
+                                                                                          90
+
+
+---
+
+       Stefan Fantini
+       Aula 08
+
+
+                                                                                                                                                         Validade
+                                                                                                                                                   (Representatividade)
+
+                                Seletividade (importância)                                                         Utilidade                        Comparabilidade
+
+                                    Simplicidade, clareza,                                                         Validade                            Estabilidade
+                            inteligibilidade e comunicabilidade
+                                                                                     Essenciais
+                            Representatividade, confiabilidade                                                  Confiabilidade                      Homogeneidade
+                                    e sensibilidade
+
+                                                                                                                Disponibilidade                        Praticidade
+                                      Investigativos              Propriedades
+                                                                       dos
+                                                                  INDICADORES                                                                        Independência
+                                                                                                                 Simplicidade
+ Critérios Básicos                  Comparabilidade               (Manual de
+  (centrais) dos                                                  Orientações
+   Indicadores                                                      Básicas                                                        Qualidade dos      Confiabilidade
+                                                                                                                    Clareza
+(Guia Referencial)                     Estabilidade               Aplicadas à                                                       Indicadores
+         +                                                          Gestão
+                                                                   Pública)                                                           (TCU)            Seletividade
+     Atributos                                                                                                   Sensibilidade
+   (Graças Rua)                     Custo‐efetividade
+                                                                                                                                                       Simplicidade
+                                                                                                               Desagregabilidade                     (Compreensão)
+                                     Adaptabilidade
+                                                                                  Complementares                                                      Completude
+                                                                                                                Economicidade                         (Cobertura)
+                                     Rastreabilidade
+                                                                                                                                                     Economicidade
+                                                                                                                  Estabilidade
+                                     Disponibilidade
+                                                                                                                                                      Acessibilidade
+                                                                                                               Mensurabilidade
+                                        Economia                                                                                                     Tempestividade
+                                                                                                                Auditabilidade
+                                                                                                               (rastreabilidade)
+                                                                                                                                                      Objetividade
+
+              Receita Federal (Analista Tributário) Administração Geral                                                                                                91
+              www.estrategiaconcursos.com.br                                                                                                                          149
+
+                                                                                      91
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+ DESEMPENHO                              ESFORÇOS                               RESULTADOS
+                                                                                                         Eficiência    Insumos e Produtos
+
+                                                                                                          Eficácia         Produtos
+                                 6 Es do Desempenho
+          Dimensões de Esforço                         Dimensões de Resultado
+             Economicidade                                   Eficiência
+                Execução                                      Eficácia                                  Efetividade        Impactos
+               Excelência                                   Efetividade
+
+                                                                                                         Execução            Ações
+
+                                                                                                       Economicidade        Insumos
+
+                                                                                                         Excelência     Insumos e Ações
+
+      Receita Federal (Analista Tributário) Administração Geral                                                                             92
+      www.estrategiaconcursos.com.br                                                                                                        149
+
+                                                                      92
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+      Receita Federal (Analista Tributário) Administração Geral                                             93
+      www.estrategiaconcursos.com.br                                                                        149
+
+                                                                     93
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+
+                       Fonte: Ministério do Planejamento (2009) Guia Referencial para Medição de Desempenho e Manual para Construção de Indicadores
+
+      Receita Federal (Analista Tributário) Administração Geral                                                                                       94
+      www.estrategiaconcursos.com.br                                                                                                                  149
+
+                                                                             94
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+      Receita Federal (Analista Tributário) Administração Geral         95
+      www.estrategiaconcursos.com.br                                    149
+
+                                   
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                              QUESTÕES COMENTADAS
+1. (FGV – TCE-RR - Auditor Substituto de Conselheiro– 2025)
+
+  Leia o texto a seguir.
+
+  O processo de mensuração, acompanhamento e avaliação do desempenho das políticas
+  públicas, dos serviços e projetos de governo pode ser realizado de forma robusta por meio de
+  ferramentas essenciais que fornecem informações quantitativas e/ou qualitativas para subsidiar
+  a tomada de decisão, além de promover a transparência na prestação de contas à sociedade.
+  Nesse contexto, é possível o uso de:
+
+  1. Métricas que avaliam a relação entre os recursos utilizados (custos, pessoal, tempo) e os
+  resultados obtidos.
+
+  2. Métricas para o nível de cumprimento (atingimento) dos objetivos de uma política pública.
+
+  3. Métricas que avaliam o impacto das políticas públicas na sociedade.
+
+  O texto trata da ferramenta
+
+  a) SWOT e os três itens são exemplos de indicadores de efetividade, eficácia e eficiência,
+  respectivamente.
+
+  b) Indicadores de Efetividade, com três exemplos.
+
+  c) OKR e os três itens são exemplos de indicadores de eficácia, eficiência e efetividade,
+  respectivamente.
+
+  d) Indicadores de Desempenho e os três itens são exemplos de indicadores de eficiência,
+  eficácia e efetividade, respectivamente.
+
+  e) PDCA e os três itens são exemplos de indicadores de eficácia, eficiência e efetividade,
+  respectivamente.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Administração Geral                                96
+        www.estrategiaconcursos.com.br                                                           149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+O enunciado trata dos indicadores de desempenho. Vejamos:
+
+1. Métricas que avaliam a relação entre os recursos utilizados (custos, pessoal, tempo) e os
+resultados obtidos. = Eficiência: é a relação entre os produtos/serviços gerados (outputs) com os
+insumos utilizados.
+
+2. Métricas para o nível de cumprimento (atingimento) dos objetivos de uma política pública. =
+Eficácia: É atingir os objetivos ou as metas traçadas, independente dos custos envolvidos. O foco é
+EXTERNO e relaciona-se aos FINS. É a medida de avaliação do alcance dos resultados.
+
+3. Métricas que avaliam o impacto das políticas públicas na sociedade. = Efetividade: são os
+impactos gerados pelos produtos/serviços, processos ou projetos. A efetividade, portanto, está
+relacionada ao impacto das ações.
+
+O gabarito é a letra D.
+
+2. (FGV – MPU - Técnico do MPU – Administração – 2025)
+
+  Certa organização enfrentou, recentemente, problemas de perda de produtividade, piora
+  significativa na qualidade dos serviços prestados e vazamento de informações relevantes.
+  Preocupada com a situação, a alta direção da organização quer adotar controles preventivos, a
+  fim de evitar que os problemas se repitam e garantir que as melhorias necessárias possam ser
+  adequadamente planejadas.
+
+  São formas de controle preventivo:
+
+  a) supervisão direta; códigos de ética;
+
+  b) testes de qualidade dos produtos; auditoria de processos;
+
+  c) demonstrativos financeiros; formalização de níveis de alçada decisória;
+
+  d) regras e normas; inspeção de matérias-primas;
+
+  e) avaliação de desempenho dos colaboradores; controle estatístico de processos.
+
+Comentários:
+
+Letra A: errada. De fato, códigos de ética são exemplos de controle preventivo. Entretanto,
+supervisão direta é um exemplo de controle simultâneo.
+
+Letra B: errada. Testes de qualidade de produtos e auditoria de processos são exemplos de
+controle posterior.
+
+        Receita Federal (Analista Tributário) Administração Geral                               97
+        www.estrategiaconcursos.com.br                                                          149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Letra C: errada. De fato, formalização de níveis de alçada decisória é exemplo de controle
+preventivo. Contudo, demonstrativos financeiros são exemplos de controle posterior.
+
+Letra D: correta. De fato, regras e normas e inspeção de matérias-primas são exemplos de controle
+preventivo.
+
+Letra E: errada. Avaliação de desempenho dos funcionários é um exemplo de controle posterior.
+Controle estatístico de processos é exemplo de controle simultâneo.
+
+O gabarito é a letra D.
+
+3. (FGV – MPE-RJ - Analista do Ministério Público - Área Administrativa – 2025)
+
+  A administração geral refere-se ao conjunto de conceitos, princípios e práticas essenciais para
+  planejar, organizar, dirigir e controlar recursos em uma organização, visando à eficiência, à
+  eficácia e à otimização dos processos para alcançar os objetivos estratégicos.
+
+  Assinale a opção que apresenta corretamente o conceito de eficácia.
+
+  a) Fazer corretamente as tarefas.
+
+  b) Reduzir desperdícios de recursos.
+
+  c) Cumprir as normas e os prazos.
+
+  d) Alcançar os resultados esperados.
+
+  e) Manter os custos baixos.
+
+Comentários:
+
+Eficácia significa fazer a coisa certa. Fazer aquilo que deve ser feito para que os objetivos sejam
+alcançados. É atingir os objetivos ou as metas traçadas, independente dos custos envolvidos. O
+foco é EXTERNO e relaciona-se aos FINS. É a medida de avaliação do alcance dos resultados.
+
+O gabarito é a letra D.
+
+4. (FGV – DPE-RO - Analista em Administração - Classe A – 2025)
+
+  De acordo com as dimensões de desempenho adotadas no setor público e seus respectivos
+  critérios de controle, é possível afirmar que a
+
+  a) economicidade diz respeito ao alcance das metas estabelecidas.
+
+  b) eficácia está vinculada aos insumos utilizados na oferta do serviço.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                               98
+        www.estrategiaconcursos.com.br                                                          149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  c) efetividade se relaciona com o impacto das ações realizadas.
+
+  d) execução está associada ao cumprimento das normas e regras previstas.
+
+  e) eficiência está relacionada ao desenho da política pública.
+
+Comentários:
+
+Letra A: errada. Nada disso. Economicidade está alinhada ao conceito de obtenção e uso de
+recursos com o menor ônus possível, dentro dos requisitos e da quantidade exigidas pelo input,
+gerindo adequadamente os recursos financeiros e físicos.
+
+Letra B: errada. Nada disso. Eficácia está relacionada ao atingimento dos objetivos ou as metas
+traçadas.
+
+Letra C: correta. De fato, a efetividade está relacionada ao impacto das ações. É alcançar os
+resultados pretendidos, de forma a alterar a realidade.
+
+Letra D: errada. Nada disso. Execução refere‐se à realização dos processos, projetos e planos de
+ação conforme estabelecidos.
+
+Letra E: errada. Nada disso. Eficiência é a relação entre os produtos/serviços gerados (outputs)
+com os insumos utilizados. Utilizar os recursos disponíveis da melhor maneira possível. Está
+associado à produtividade e ao desempenho; ao modo de se fazer algo.
+
+O gabarito é a letra C.
+
+5. (FGV – Prefeitura de Macaé-RJ – Assistente - 2024)
+
+  Assinale a opção que indica o aspecto do controle que foca no desenvolvimento, na mudança e
+  na melhoria, incentivando a iniciativa das pessoas e minimizando o uso de penalidades e
+  punições.
+
+  a) Compreensão.
+
+  b) Natureza positiva.
+
+  c) Autocontrole.
+
+  d) Flexibilidade.
+
+  e) Clareza e objetividade.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Administração Geral                            99
+        www.estrategiaconcursos.com.br                                                       149
+
+                                     
+
+
+---
+
+    Stefan Fantini
+    Aula 08
+
+De acordo com as ideias de Maximiano1 e Chiavenato2, um sistema de controle eficaz deve possuir
+as seguintes características:
+
+         Orientação estratégica para resultados (Foco estratégico): o controle deve focalizar nas
+         atividades primordiais da organização, ou seja, dar ênfase àquelas atividades mais
+         significativas e que trazem maiores resultados à empresa.
+
+         Compreensão (Inteligibilidade): no processo de controle deve ser utilizada uma linguagem
+         simples e clara, no intuito de facilitar a compreensão de todos. Os dados devem ser
+         apresentados de forma compreensível. O controle deve evitar relatórios complicados e
+         estatísticas enganosas.
+
+         Orientação rápida para as exceções (Foco nas exceções): o mecanismo de controle deve ser
+         capaz de identificar os desvios rapidamente. A partir de uma visão panorâmica sobre as
+         variações, o administrador deve ser capaz de identificar os desvios que estão ocorrendo e o
+         que deve ser feito para corrigi-los.
+
+         Flexibilidade: o controle deve proporcionar um julgamento individual e que possa ser
+         modificado para adaptar-se a novas circunstâncias e situações.
+
+         Autocontrole: o controle deve proporcionar confiabilidade, participação e boa comunicação
+         entre as pessoas envolvidas.
+
+         Natureza positiva: o controle deve enfatizar o desenvolvimento, mudança e melhoria.
+         Deve alavancar a iniciativa das pessoas e minimizar o papel da penalidade e das punições.
+
+         Economia: Os benefícios obtidos pelo processo de controle devem ser maiores que os
+         custos do controle.
+
+         Clareza e Objetividade: O controle deve ser imparcial e acurado para todos. Também deve
+         haver a “economia de palavras”.
+
+         Aceitação: os sistemas de controle devem ser aceitos pelos controlados.
+
+         Rapidez: as informações obtidas pelo processo de controle devem chegar rapidamente ao
+         tomador de decisões.
+
+         Precisão: A tomada de decisão depende de informações precisas obtidas pelo processo de
+         controle.
+
+O gabarito é a letra B.
+
+
+1
+  MAXIMIANO, Antonio Cesar Amaru. Introdução à Administração, 8ª edição. São Paulo, Atlas: 2011. p.267
+2
+  Harold Koontz, Cyril O’Donnell. Essentials of management. Nova York, McGraw-Hill, 1974, p. 362-5. apud CHIAVENATO,
+Idalberto. Administração nos novos tempos: os novos horizontes em administração, 3ª edição. Barueri, Manole: 2014, p. 511.
+
+
+          Receita Federal (Analista Tributário) Administração Geral                                                   100
+          www.estrategiaconcursos.com.br                                                                              149
+
+                                       
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+6. (FGV – AL-TO – Técnico - 2024)
+
+  O propósito do controle é garantir que os resultados do planejamento, organização e direção
+  estejam alinhados o mais próximo possível dos objetivos definidos anteriormente. O cerne do
+  controle reside na avaliação de se a atividade supervisionada está atingindo ou não os
+  resultados desejados. Portanto, o controle é primordialmente um processo que direciona a
+  atividade em direção a um objetivo predefinido.
+
+  Assinale a opção que apresenta um controle estratégico.
+
+  a) Balanço e relatórios financeiros.
+
+  b) Programação just-in-time.
+
+  c) Contabilidade de custos.
+
+  d) Controle orçamentário.
+
+  e) Controle de estoques.
+
+Comentários:
+
+Letra A: correta. De fato, balanço e relatórios financeiros são exemplos de controle estratégico.
+
+Letra B: errada. Programação Just-in-time é exemplo de controle operacional.
+
+Letra C: errada. Contabilidade de custos é exemplo de controle tático.
+
+Letra D: errada. De acordo com Chiavenato, controle orçamentário faz parte do controle tático.
+Sobral e Peci, por sua vez, afirmam que o controle orçamentário faz parte do controle operacional.
+
+Letra E: errada. Controle de estoques é exemplo de controle operacional.
+
+O gabarito é a letra A.
+
+7. (FGV – TRF1 – Técnico Judiciário - Área Administrativa - 2024)
+
+  Certa organização vem enfrentando problemas de descontrole de despesas, necessidade de
+  retrabalho e piora na qualidade de seus produtos. A organização adota, precipuamente,
+  controles posteriores. Sua alta direção quer aprimorar o sistema de controle, adotando
+  controles preventivos e simultâneos, para evitar que os problemas persistam e para que
+  melhorias possam ser adequadamente planejadas.
+
+  São formas de controle preventivo e simultâneo, respectivamente:
+
+        Receita Federal (Analista Tributário) Administração Geral                                   101
+        www.estrategiaconcursos.com.br                                                              149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  a) regras de limites de gastos; supervisão direta;
+
+  b) demonstrativos contábeis; auditoria interna;
+
+  c) testes de qualidade de produtos; controle estatístico de processos;
+
+  d) códigos de conduta; definição de responsabilidades e atribuições dos cargos;
+
+  e) testes de seleção de recursos humanos; avaliação de desempenho de funcionários.
+
+Comentários:
+
+Letra A: correta. De fato, regras de limites de gastos são exemplos de controle preventivo e
+supervisão direta é um exemplo de controle simultâneo.
+
+Letra B: errada. Nada disso. Demonstrativos contábeis e auditoria interna são exemplos de
+controle posterior.
+
+Letra C: errada. Testes de qualidade de produtos são exemplos de controle posterior. Controle
+estatístico de processos é exemplo de controle simultâneo.
+
+Letra D: errada. Códigos de conduta e definição de responsabilidades e atribuições dos cargos são
+exemplos de controle preventivo.
+
+Letra E: errada. De fato, testes de seleção de recursos humanos são exemplos de controle
+preventivo. Entretanto, avaliação de desempenho de funcionário é exemplo de controle posterior.
+
+O gabarito é a letra A.
+
+8. (FGV – TJ-AP – Analista Judiciário – Área Apoio Especializado – Especialidade Administração -
+   2024)
+
+  Uma clínica quer melhorar o controle e a avaliação de seus processos internos. Para tal, a
+  direção da clínica quer definir alguns indicadores de eficácia e de eficiência.
+
+  Nesse contexto, são um indicador de eficácia e um de eficiência adequados, respectivamente:
+
+  a) tempo médio de atendimento; nível de satisfação dos funcionários;
+
+  b) grau de satisfação com a liderança; nível de satisfação dos clientes;
+
+  c) faturamento por empregado; tempo médio para emissão de laudos;
+
+  d) número de clientes atendidos; tempo médio de atendimento;
+
+        Receita Federal (Analista Tributário) Administração Geral                               102
+        www.estrategiaconcursos.com.br                                                          149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  e) número de guias emitidas; número de clientes atendidos.
+
+Comentários:
+
+Letra A: errada. Tempo médio de atendimento está relacionado à eficiência. Nível de satisfação de
+funcionários não está relacionado aos conceitos de eficiência e eficácia.
+
+Letra B: errada. Grau de satisfação com a liderança não está relacionado aos conceitos de
+eficiência e eficácia. Nível de satisfação dos clientes está relacionado à efetividade.
+
+Letra C: errada. Faturamento por empregado está relacionado à eficiência. Tempo médio para
+emissão de laudos está relacionado à eficiência.
+
+Letra D: correta. De fato, número de clientes atendidos está relacionado à eficácia e tempo médio
+de atendimento está relacionado à eficiência.
+
+Letra E: errada. De fato, número de guias emitidas está relacionado à eficácia. Contudo, número de
+clientes atendidos está relacionado à eficácia.
+
+O gabarito é a letra D.
+
+9. (FGV – TJ-AP – Analista Judiciário – Área Apoio Especializado – Especialidade Administração -
+   2024)
+
+  Controle é a função da organização que assegura que os objetivos organizacionais estão sendo
+  alcançados, monitorando o desempenho organizacional em relação a possíveis desvios. Para seu
+  adequado desempenho, a função controle depende de sistemas de controle organizacional
+  eficazes.
+
+  Um sistema de controle organizacional eficaz deve atender a alguns critérios gerais, tais como:
+
+  a) rapidez; ser preventivo;
+
+  b) critério único; precisão;
+
+  c) ênfase na exceção; flexibilidade;
+
+  d) critérios múltiplos; hierarquização de objetivos;
+
+  e) inteligibilidade; ser definido de forma participativa.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Administração Geral                               103
+        www.estrategiaconcursos.com.br                                                          149
+
+                                     
+
+
+---
+
+    Stefan Fantini
+    Aula 08
+
+De acordo com as ideias de Maximiano3 e Chiavenato4, um sistema de controle eficaz deve possuir
+as seguintes características:
+
+         Orientação estratégica para resultados (Foco estratégico): o controle deve focalizar nas
+         atividades primordiais da organização, ou seja, dar ênfase àquelas atividades mais
+         significativas e que trazem maiores resultados à empresa.
+
+         Compreensão (Inteligibilidade): no processo de controle deve ser utilizada uma linguagem
+         simples e clara, no intuito de facilitar a compreensão de todos. Os dados devem ser
+         apresentados de forma compreensível. O controle deve evitar relatórios complicados e
+         estatísticas enganosas.
+
+         Orientação rápida para as exceções (Foco nas exceções): o mecanismo de controle deve ser
+         capaz de identificar os desvios rapidamente. A partir de uma visão panorâmica sobre as
+         variações, o administrador deve ser capaz de identificar os desvios que estão ocorrendo e o
+         que deve ser feito para corrigi-los.
+
+         Flexibilidade: o controle deve proporcionar um julgamento individual e que possa ser
+         modificado para adaptar-se a novas circunstâncias e situações.
+
+         Autocontrole: o controle deve proporcionar confiabilidade, participação e boa comunicação
+         entre as pessoas envolvidas.
+
+         Natureza positiva: o controle deve enfatizar o desenvolvimento, mudança e melhoria. Deve
+         alavancar a iniciativa das pessoas e minimizar o papel da penalidade e das punições.
+
+         Economia: Os benefícios obtidos pelo processo de controle devem ser maiores que os
+         custos do controle.
+
+         Clareza e Objetividade: O controle deve ser imparcial e acurado para todos. Também deve
+         haver a “economia de palavras”.
+
+         Aceitação: os sistemas de controle devem ser aceitos pelos controlados.
+
+         Rapidez: as informações obtidas pelo processo de controle devem chegar rapidamente ao
+         tomador de decisões.
+
+         Precisão: A tomada de decisão depende de informações precisas obtidas pelo processo de
+         controle.
+
+O gabarito é a letra C.
+
+
+3
+  MAXIMIANO, Antonio Cesar Amaru. Introdução à Administração, 8ª edição. São Paulo, Atlas: 2011. p.267
+4
+  Harold Koontz, Cyril O’Donnell. Essentials of management. Nova York, McGraw-Hill, 1974, p. 362-5. apud CHIAVENATO,
+Idalberto. Administração nos novos tempos: os novos horizontes em administração, 3ª edição. Barueri, Manole: 2014, p. 511.
+
+
+          Receita Federal (Analista Tributário) Administração Geral                                                   104
+          www.estrategiaconcursos.com.br                                                                              149
+
+                                       
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+10. (FGV – Departamento Nacional de Infraestrutura de Transportes – Analista Administrativo
+   – Administração - 2024)
+
+  O controle de uma organização é realizado em várias etapas, incluindo a comparação entre o
+  desempenho real e o desempenho esperado. Essa comparação é realizada em diferentes
+  momentos, sendo classificada em categorias.
+
+  Assinale a opção que indica a categoria de controle que visa a assegurar os resultados finais
+  dentro dos objetivos e padrões desejados.
+
+  a) Controle prévio.
+
+  b) Controle simultâneo.
+
+  c) Controle concorrentes.
+
+  d) Controle por retroação.
+
+  e) Controle de desempenho.
+
+Comentários:
+
+É o Controle Posterior (por retroação) que ocorre depois que a atividade foi executada. Tem por
+objetivo avaliar o desempenho da atividade que já foi encerrada. Trata-se de um tipo de controle
+que tem foco no resultado.
+
+O gabarito é a letra D.
+
+11.    (FGV – ALE-TO – Técnico Legislativo - Assistência Administrativa – 2024)
+
+  Um modelo de gestão de resultados compreende três elementos essenciais: direcionadores de
+  resultado, direcionadores de esforço para implementação das ações e mecanismos de controle.
+
+  Nesse contexto, a avaliação de desempenho é uma ferramenta necessária, mas não suficiente
+  para a promoção de uma gestão de resultados.
+
+  Assinale a opção que apresenta a dimensão de desempenho que possui estreita relação com
+  produtividade.
+
+  a) Eficácia.
+
+  b) Eficiência.
+
+  c) Efetividade.
+
+        Receita Federal (Analista Tributário) Administração Geral                            105
+        www.estrategiaconcursos.com.br                                                       149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  d) Economicidade.
+
+  e) Custo-benefício.
+
+Comentários:
+
+A eficiência significa fazer bem alguma coisa. Fazer uma atividade de forma correta. Utilizar os
+recursos disponíveis da melhor maneira possível. Está associado à produtividade e ao
+desempenho; ao modo de se fazer algo. O foco é INTERNO e relaciona-se aos MEIOS e aos CUSTOS
+envolvidos. É a medida de avaliação da utilização dos recursos.
+
+O gabarito é a letra B.
+
+12.    (FGV – Câmara Municipal de Fortaleza – Agente Administrativo – 2024)
+
+  Acerca dos momentos que a função controle é empregada, analise as assertivas a seguir.
+
+  I. A inspeção de insumos utilizados na produção são exemplos de controles preventivos.
+
+  II. Os testes escritos na seleção de funcionários são exemplos de controle simultâneo
+
+  III. A definição de técnicas e procedimentos a serem seguidas na produção representa um
+  controle reativo
+
+  Está correto o que se afirma em
+
+  a) I, apenas.
+
+  b) II, apenas.
+
+  c) I e II, apenas.
+
+  d) II e III, apenas.
+
+  e) I, II e III.
+
+Comentários:
+
+A primeira assertiva está correta. De fato, inspeção de insumos é exemplo de controle preventivo.
+
+A segunda assertiva está errada. Nada disso. Testes escritos na seleção de funcionários são
+exemplos de controle preventivo.
+
+A terceira assertiva está errada. Nada disso. Definição de técnicas e procedimentos a serem
+seguidos são exemplos de controle preventivo.
+
+         Receita Federal (Analista Tributário) Administração Geral                             106
+         www.estrategiaconcursos.com.br                                                        149
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+O gabarito é a letra A.
+
+13.    (FGV – Câmara dos Deputados – Analista - 2023)
+
+O ciclo de planejamento nas organizações públicas refere-se ao processo contínuo e sistemático
+pelo qual essas instituições definem metas, desenvolvem estratégias, implementam ações,
+monitoram o progresso e ajustam suas atividades para alcançar objetivos específicos.
+
+Em relação ao ciclo do planejamento, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas
+(F).
+
+( ) Key performance indicators (KPIs) são métricas para quantificar objetivos.
+
+( ) Meios de controle são informações para avaliar até que ponto os objetivos estão sendo
+atingidos e se os cursos de ação escolhidos são apropriados.
+
+( ) Avaliação é o processo de determinar se a realização dos objetivos está alcançando os efeitos
+pretendidos.
+
+As afirmativas são, respectivamente,
+
+a) V – F – V.
+
+b) V – V – F.
+
+c) F – F – F.
+
+d) V – F – F.
+
+e) V – V – V.
+
+Comentários:
+
+A FGV tem trazido em questões conceitos específicos para Key performance indicators (KPIs),
+meios de controle e avaliação. Fique ligado nesses conceitos da banca, pois tem aparecido em
+diversas questões de provas.
+
+A primeira assertiva está correta. Key performance indicators (KPIs) são métricas para quantificar
+objetivos.
+
+A segunda assertiva está correta. Meios de controle são informações para avaliar até que ponto os
+objetivos estão sendo atingidos e se os cursos de ação escolhidos são apropriados.
+
+A terceira assertiva está correta. Avaliação é o processo de determinar se a realização dos
+objetivos está alcançando os efeitos pretendidos.
+
+
+         Receita Federal (Analista Tributário) Administração Geral                               107
+         www.estrategiaconcursos.com.br                                                          149
+
+                                      
+
+
+---
+
+   Stefan Fantini
+   Aula 08
+
+Portanto, todas as assertivas estão corretas.
+
+O gabarito é a letra E.
+
+14.      (FGV – Prefeitura de Macaé-RJ – Analista - 2024)
+
+O planejamento nas organizações públicas é essencial para definir objetivos claros, otimizar
+recursos e garantir a eficiência na execução de políticas e serviços, alinhando as ações
+governamentais às necessidades da sociedade.
+
+Com relação ao planejamento nas organizações públicas, analise as afirmativas a seguir.
+
+I. Objetivos e metas são os resultados desejados que direcionam e orientam as ações a serem
+tomadas.
+
+II. Key performance indicators (KPIs) são as informações que avaliam se os objetivos estão sendo
+atingidos.
+
+III. Meios de controle são métricas para quantificar os objetivos.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+Comentários:
+
+A primeira assertiva está correta. De fato, objetivos e metas são os resultados desejados pela
+organização que direcionam e orientam as ações organizacionais.
+
+A segunda assertiva está errada. Nada disso. Conforme vimos em questão anterior da FGV, meios
+de controle são as informações que avaliam se os objetivos estão sendo atingidos.
+
+A terceira assertiva está errada. Nada disso. Conforme vimos em questão anterior da FGV, key
+performance indicators (KPIs) são métricas para quantificar os objetivos.
+
+O gabarito é a letra A.
+
+           Receita Federal (Analista Tributário) Administração Geral                         108
+           www.estrategiaconcursos.com.br                                                    149
+
+                                        
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+15.    (FGV – Câmara dos Deputados – Analista - 2023)
+
+O ciclo de planejamento nas organizações públicas é um processo essencial que envolve diversas
+etapas para garantir o adequado funcionamento e atendimento das necessidades da sociedade.
+
+Acerca do ciclo do planejamento, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F)
+para a falsa.
+
+( ) Objetivos e metas são os resultados desejados.
+
+( ) Key performance indicators (KPIs) são informações para avaliar até que ponto os objetivos estão
+sendo atingidos e se os cursos de ação escolhidos são apropriados.
+
+( ) Meios de controle são métricas para quantificar objetivos.
+
+( ) Avaliação refere-se ao processo de determinação dos meios de controle.
+
+As afirmativas são, respectivamente,
+
+a) F – F – V – F.
+
+b) V – V – F – V.
+
+c) F – F – F – F.
+
+d) V – F – F – F.
+
+e) V – V – V – V.
+
+Comentários:
+
+A primeira assertiva está correta. De fato, Objetivos e metas são os resultados desejados.
+
+A segunda assertiva está errada. Conforme vimos em questão anterior da FGV, Meios de controle
+são informações para avaliar até que ponto os objetivos estão sendo atingidos e se os cursos de
+ação escolhidos são apropriados.
+
+A terceira assertiva está errada. Conforme vimos em questão anterior da FGV, Key performance
+indicators (KPIs) são métricas para quantificar objetivos.
+
+A quarta assertiva está errada. Conforme vimos em questão anterior da FGV, Avaliação é o
+processo de determinar se a realização dos objetivos está alcançando os efeitos pretendidos.
+
+O gabarito é a letra D.
+
+         Receita Federal (Analista Tributário) Administração Geral                                 109
+         www.estrategiaconcursos.com.br                                                            149
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+16.    (FGV – AL-MA - Técnico de Gestão Administrativa - Ciências Sociais (Sociólogo) – 2023)
+
+  Para Paulo Jannuzzi, o processo de avaliação de políticas públicas tem como finalidade
+  aprimorar a gestão das intervenções buscando maior eficiência, eficácia e efetividade.
+
+  A esse respeito, estabeleça a correspondência entre as dimensões listadas a seguir e suas
+  respectivas definições.
+
+  1. Eficiência 2. Eficácia 3. Efetividade
+
+  ( ) Dimensão relacionada à verificação dos efeitos de médio e longo prazo sobre os beneficiários
+  e a sociedade, atribuíveis direta ou indiretamente a um programa.
+
+  ( ) Dimensão relacionada ao custo para alcançar os resultados de um programa, podendo ser
+  medida por indicadores de custeio da produção dos resultados.
+
+  ( ) Dimensão relacionada ao cumprimento dos objetivos explicitados em um programa,
+  pressupondo análise de cobertura e grau de focalização do público-alvo alcançado, entre outros.
+
+  Assinale a opção que mostra a relação correta, segundo a ordem apresentada.
+
+  a) 1 – 2 – 3.
+
+  b) 2 – 3 – 1.
+
+  c) 3 – 1 – 2.
+
+  d) 1 – 3 – 2.
+
+  e) 3 – 2 – 1.
+
+Comentários:
+
+Vejamos:
+
+(3) Dimensão relacionada à verificação dos efeitos (impactos) de médio e longo prazo sobre os
+beneficiários e a sociedade, atribuíveis direta ou indiretamente a um programa. = Efetividade
+
+(1) Dimensão relacionada ao custo para alcançar os resultados de um programa, podendo ser
+medida por indicadores de custeio da produção dos resultados. = Eficiência
+
+(2) Dimensão relacionada ao cumprimento dos objetivos explicitados em um programa,
+pressupondo análise de cobertura e grau de focalização do público-alvo alcançado, entre outros. =
+Eficácia
+
+O gabarito é a letra C.
+
+        Receita Federal (Analista Tributário) Administração Geral                               110
+        www.estrategiaconcursos.com.br                                                          149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+17.    (FGV – AGENERSA - RJ - Assistente Técnico de Regulação – 2023)
+
+  A utilização de indicadores de desempenho permite que os administradores avaliem os
+  resultados obtidos pela organização e, com isso, possam tomar decisões fundamentadas.
+  Assinale a opção que apresenta o indicador de desempenho que está relacionado ao
+  atingimento das metas propostas.
+
+  a) Efetividade.
+
+  b) Economicidade.
+
+  c) Eficiência.
+
+  d) Eficácia.
+
+  e) Turnover.
+
+Comentários:
+
+A eficácia significa fazer a coisa certa. Fazer aquilo que deve ser feito para que os objetivos sejam
+alcançados. É atingir os objetivos ou as metas traçadas, independente dos custos envolvidos. O
+foco é EXTERNO e relaciona-se aos FINS. É a medida de avaliação do alcance dos resultados.
+
+O gabarito é a letra D.
+
+18.    (FGV – Prefeitura de Niterói - RJ - Agente Administrativo – 2023)
+
+  Uma empresa especializada na perfuração de poços artesanais é contratada por uma
+  organização sem fins lucrativos para executar um serviço em uma comunidade no Município de
+  Niterói.
+
+  Após a realização do serviço, apesar de ter realizado a perfuração gastando muito menos que o
+  previsto, a empresa não conseguiu atingir a meta de litros de água estipulada no projeto. Com
+  base apenas nas informações do texto acima, é correto afirmar que a empresa atuou de forma
+
+  a) ineficiente.
+
+  b) ineficaz.
+
+  c) contingencial.
+
+  d) efetiva.
+
+  e) redundante.
+
+        Receita Federal (Analista Tributário) Administração Geral                                 111
+        www.estrategiaconcursos.com.br                                                            149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Comentários:
+
+A eficácia significa fazer a coisa certa. Fazer aquilo que deve ser feito para que os objetivos sejam
+alcançados. É atingir os objetivos ou as metas traçadas, independente dos custos envolvidos. O
+foco é EXTERNO e relaciona-se aos FINS. É a medida de avaliação do alcance dos resultados.
+
+Portanto, como a empresa não conseguiu atingir a meta, foi ineficaz.
+
+O gabarito é a letra B.
+
+19.    (FGV – Prefeitura de Niterói - RJ - Agente Administrativo – 2023)
+
+  Acerca dos tipos de ferramentas e configurações de controles organizacionais posteriores,
+  analise os termos a seguir.
+
+  I. Avaliação de Desempenho.
+
+  II. Supervisão Direta.
+
+  III. Inspeção de Matérias Primas.
+
+  Está correto o que se afirma em
+
+  a) I, apenas.
+
+  b) I e II, apenas.
+
+  c) I e III, apenas.
+
+  d) II e III, apenas.
+
+  e) I, II e III.
+
+Comentários:
+
+Avaliação de desempenho é exemplo de controle posterior, supervisão direta é exemplo de
+controle simultâneo e inspeção de matérias primas é exemplo de controle preventivo.
+
+O gabarito é a letra A.
+
+20.    (FGV – DPE-RS - Analista - Área Administrativa – Administração – 2023)
+
+  Uma empresa de porte médio vem conquistando novos clientes e aumentando de forma
+  significativa sua participação no mercado. Como resultado, aumentaram as demandas em todos
+  os processos e a organização prevê contratar novos funcionários para todas as áreas,
+
+
+         Receita Federal (Analista Tributário) Administração Geral                                112
+         www.estrategiaconcursos.com.br                                                           149
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  projetando um aumento significativo no quadro de funcionários. A alta direção da organização
+  considera que “em breve, seremos uma empresa de grande porte” e que “os controles
+  informais que antes adotávamos não serão mais adequados”. A alta direção quer adotar
+  controles preventivos e posteriores para seus diversos processos. Seriam um controle
+  preventivo e um controle posterior, respectivamente:
+
+  a) credenciamento de fornecedores; supervisão direta;
+
+  b) inspeção de matérias-primas; auditoria;
+
+  c) definição de padrões de layout; controle estatístico de processos;
+
+  d) avaliação do desempenho dos funcionários; demonstrativos financeiros;
+
+  e) círculos de qualidade; estabelecimento de normas para demissão de funcionários.
+
+Comentários:
+
+Letra A: errada. De fato, credenciamento de fornecedores é exemplo de controle preventivo.
+Contudo, supervisão direta é exemplo de controle simultâneo.
+
+Letra B: correta. De fato, inspeção de matérias-primas é exemplo de controle preventivo e
+auditoria é exemplo de controle posterior.
+
+Letra C: errada. De fato, definição de padrões de layout é exemplo de controle preventivo.
+Contudo, controle estatístico de processos é exemplo de controle simultâneo.
+
+Letra D: errada. Avaliação de desempenho der funcionários e demonstrativos financeiros são
+exemplos de controle posterior.
+
+Letra E: errada. Círculos da Qualidade (CQC) são formados por pequenos grupos de funcionários
+voluntários (de um mesmo departamento ou área), que se reúnem periodicamente com o objetivo
+de melhorar a qualidade dos produtos e serviços. Ou seja, os funcionários se reúnem para
+identificar as causas dos problemas, discutir maneiras de melhoria, propor soluções e tomar ações
+corretivas. Os Círculos da Qualidade são uma maneira de fazer com que os funcionários se
+comprometam com a qualidade. Estabelecimento de normas para demissão de funcionários, por
+sua vez, é exemplo de controle preventivo.
+
+O gabarito é a letra B.
+
+21.    (FGV – DPE-RS - Analista - Área Administrativa – Administração – 2023)
+
+  A principal executiva de certa organização acredita que há falta de direcionamento no
+  comportamento dos funcionários, dificultando o atingimento dos objetivos organizacionais. Ela
+  gostaria de reforçar os mecanismos de controle comportamental na empresa, deixando claros
+
+
+        Receita Federal (Analista Tributário) Administração Geral                             113
+        www.estrategiaconcursos.com.br                                                        149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  os comportamentos valorizados pela organização, assim garantindo melhor coordenação dos
+  esforços de todos. São mecanismos de controle comportamental, entre outros:
+
+  a) mapeamento de competências; definição de objetivos e metas;
+
+  b) especialização do trabalho; estilo de liderança;
+
+  c) cultura organizacional; incentivos e bônus;
+
+  d) levantamento das necessidades de treinamento; supervisão direta;
+
+  e) grau de prontidão das equipes; avaliação de desempenho.
+
+Comentários:
+
+Os administradores utilizam diversas técnicas de controle comportamental para verificar se os
+funcionários estão, de fato, realizando suas atividades de acordo com aquilo que a organização
+espera deles. Dentre essas técnicas podem-se citar:
+
+       Supervisão Direta
+
+       Avaliação de Desempenho
+
+       Disciplina
+
+       Recrutamento e seleção
+
+       Orientação
+
+       Desenho de Cargos
+
+       Treinamento
+
+       Estabelecimento de Objetivos
+
+       Formalização
+
+       Incentivos e Bônus
+
+       Cultura Organizacional
+
+O gabarito é a letra C.
+
+22.    (FGV – AGENERSA - RJ - Analista Técnico – 2023)
+
+  A forma de utilizar a função controle varia em cada organização.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                          114
+        www.estrategiaconcursos.com.br                                                     149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  A organização que decide utilizar o controle de primeira ordem deve pautar seus mecanismos
+  por
+
+  a) supervisão direta.
+
+  b) padronização de processos.
+
+  c) estabelecimento de regulamentos legais.
+
+  d) compartilhamento de valores e crenças.
+
+  e) automação de procedimentos.
+
+Comentários:
+
+De acordo com Perrow, o controle pode ser de primeira, de segunda ou de terceira ordem.
+
+       Controle de Primeira Ordem: supervisão direta. Trata-se de uma forma mais simples de
+       controle, adotada por pequenas empresas, onde os chefes (por exemplo, o dono da
+       empresa), através da supervisão direta, controlam as atividades dos empregados.
+
+       Controle de Segunda Ordem: padronização de processos. Trata-se de uma forma de
+       controle baseada na tecnologia (automação dos processos) e na burocracia (conjunto de
+       regras racionais).
+
+       Controle de Terceira Ordem: controle por premissas e cultura. Este tipo de controle é mais
+       “implícito”. Ou seja, envolve o compartilhamento de pressupostos, valores e crenças entre
+       os indivíduos, que acabam por coordenar e orientar as atividades de forma “natural”.
+
+O gabarito é a letra A.
+
+23. (FGV – CGE-SC - Auditor do Estado Administração - Tarde (Conhecimentos Específicos) –
+   2023)
+
+  Toda a literatura neoclássica se assenta no processo administrativo para explicar como as várias
+  funções administrativas são desenvolvidas nas organizações. As funções do administrador, que
+  formam o processo administrativo, são mais do que uma sequência cíclica, pois estão
+  intimamente relacionadas em uma interação dinâmica, como mostra a figura a seguir.
+
+        Receita Federal (Analista Tributário) Administração Geral                              115
+        www.estrategiaconcursos.com.br                                                         149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  O processo por meio do qual são fornecidas as informações e a retroação para manter as
+  funções dentro de suas respectivas trilhas denomina-se
+
+  a) Planejamento.
+
+  b) Organização.
+
+  c) Direção.
+
+  d) Controle.
+
+  e) Coordenação.
+
+Comentários:
+
+O controle é uma das quatro funções administrativas que compõe o processo organizacional.
+Trata-se da função administrativa que tem por objetivo avaliar se os resultados obtidos estão de
+acordo com os objetivos anteriormente propostos.
+
+Em outras palavras, o controle (ou avaliação) busca assegurar que as coisas aconteçam de acordo
+com o que foi planejado. Para isso, as atividades são monitoradas, e os resultados obtidos são
+comparados com os objetivos anteriormente planejados (resultados desejados). Assim, é possível
+que sejam feitas as correções necessárias, a fim de manter a organização no caminho adequado
+para o alcance dos objetivos.
+
+O gabarito é a letra D.
+
+24.    (FGV – PC-AM - Investigador de Polícia – 2022)
+
+  Uma organização decidiu monitorar seu desempenho global por meio da medição de
+  indicadores como satisfação do acionista, clientes e imagem da organização, bem como medidas
+  financeiras como retorno sobre o investimento e valor das ações.
+
+  Esse tipo de controle é relacionado ao nível
+
+  a) estratégico.
+
+        Receita Federal (Analista Tributário) Administração Geral                            116
+        www.estrategiaconcursos.com.br                                                       149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  b) funcional.
+
+  c) operacional
+
+  d) tático.
+
+  e) técnico.
+
+Comentários:
+
+O Controle Estratégico tem por objetivo avaliar se os planos e objetivos estratégicos (definidos
+pelo planejamento estratégico) estão sendo alcançados.
+
+Trata-se do tipo de controle que avalia os resultados e o desempenho da organização como um
+todo, levando em consideração tanto as informações externas quanto as informações internas.
+Tem forte orientação externa.
+
+O Controle Estratégico busca orientar a alta cúpula da organização na tomada de decisões. É
+genérico, sintético e voltado para o longo prazo.
+
+Como exemplos de controles estratégicos podem-se citar: Balanço Contábil, Relatórios Financeiros,
+Nível de satisfação dos usuários, e Análise do retorno sobre o investimento (RSI).
+
+O gabarito é a letra A.
+
+25.    (FGV – IBGE - Agente Censitário - Municipal e Supervisor – 2022)
+
+  Os mecanismos de controle utilizados por uma empresa são fundamentais para assegurar que
+  seus produtos ou serviços sejam entregues conforme o especificado para os clientes
+
+  Em relação a esses mecanismos, é correto afirmar que eles podem ser divididos conforme o
+  momento de sua ocorrência, tendo como exemplos:
+
+  a) Familiar e ad hoc.
+
+  b) Judicial, legislativo e administrativo.
+
+  c) Preventivo, simultâneo e posterior.
+
+  d) Interno, externo e popular.
+
+  e) Provocado e de ofício.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Administração Geral                             117
+        www.estrategiaconcursos.com.br                                                        149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+O controle pode ocorrer antes da atividade, durante a atividade ou após a atividade ter se
+encerrado. Nesse sentido, em relação ao momento, ou seja, ao tempo em que o controle ocorre,
+ele pode ser classificado em: Controle Preventivo, Controle Simultâneo e Controle Posterior.
+
+O gabarito é a letra C.
+
+26.    (FGV – CGU – Técnico - 2022)
+
+  Após receber algumas denúncias nos canais internos de comunicação, uma autarquia federal
+  resolveu criar um comitê para verificar possíveis irregularidades na execução de contratos
+  vigentes do órgão com empresas de prestação de serviços gráficos. O controle exercido por essa
+  autarquia na situação acima é do tipo:
+
+  a) simultâneo;
+
+  b) preventivo;
+
+  c) posterior;
+
+  d) por feedback;
+
+  e) abstrato.
+
+Comentários:
+
+O enunciado destaca que o comitê foi criado para verificar possíveis irregularidades na execução
+de contratos vigentes. Ou seja, contratos que ainda estão sendo executados.
+
+Trata-se, portanto, de um exemplo de controle simultâneo. Esse tipo de controle ocorre durante a
+execução da atividade.
+
+O gabarito é a letra A.
+
+27.    (FGV – CGU – Técnico - 2022)
+
+  Em meio à adoção do teletrabalho, um departamento passou a controlar o trabalho semanal de
+  seus técnicos, conforme apresentado na tabela a seguir.
+
+        Receita Federal (Analista Tributário) Administração Geral                            118
+        www.estrategiaconcursos.com.br                                                       149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  Com base exclusivamente na tabela acima, o(a) técnico(a) com maior eficiência na Semana 1 foi:
+
+  a) João;
+
+  b) Denise;
+
+  c) Rebeca;
+
+  d) Carlos;
+
+  e) Aristides.
+
+Comentários:
+
+A eficiência está relacionada à utilização dos recursos disponíveis da melhor maneira possível.
+
+No caso da questão, o recurso disponível é o “tempo” dos servidores.
+
+Sendo assim, dividindo a “quantidade de horas trabalhadas” pela “quantidade de processos
+analisados”, temos a seguinte situação:
+
+       João: 34/11 = 3,09 horas gastas para análise de cada processo.
+
+       Denise: 28/10 = 2,8 horas gastas para análise de cada processo.
+
+       Rebeca: 40/12 = 3,33 horas gastas para análise de cada processo.
+
+       Carlos: 42/13 = 3,23 horas gastas para análise de cada processo.
+
+       Aristides: 32/10 = 3,2 horas gastas para análise de cada processo.
+
+Portanto, Denise foi a servidora com maior eficiência. Isso, pois, ela gastou menos tempo na
+análise de cada processo. Ou seja, ela utilizou os recursos (tempo) da melhor maneira possível.
+
+        Receita Federal (Analista Tributário) Administração Geral                                 119
+        www.estrategiaconcursos.com.br                                                            149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+O gabarito é a letra B.
+
+28.    (FGV – PC-RN – Agente - 2021)
+
+  A área financeira de uma organização está enfrentando problemas em seus processos internos,
+  como erros nos pagamentos a fornecedores e nos registros da tesouraria. O diretor da área
+  considera que seria importante adotar controles preventivos e controles posteriores, a fim de
+  evitar que os problemas continuem.
+
+  São formas de controle preventivo e posterior, respectivamente:
+
+  a) supervisão direta; auditoria;
+
+  b) estabelecimento de limites de alçada; testes de seleção de recursos humanos;
+
+  c) definição de regras para autorização de pagamentos; demonstrativos financeiros;
+
+  d) avaliação de desempenho dos funcionários; relatórios de resultado contábil;
+
+  e) balanced scorecard; inspeção de matérias-primas e insumos.
+
+Comentários:
+
+Letra A: errada. Supervisão direta é exemplo de controle simultâneo. Auditoria é exemplo de
+controle posterior.
+
+Letra B: errada. Estabelecimento de limites de alçada e testes de seleção de recursos humanos são
+exemplos de controle preventivo.
+
+Letra C: correta. De fato, definição de regras para autorização de pagamento é exemplo de
+controle preventivo e demonstrativos financeiros é exemplo de controle posterior.
+
+Letra D: errada. Avaliação de desempenho dos funcionários e relatórios de resultado contábil são
+exemplos de controle posterior.
+
+Letra E: errada. O BSC envolve diversos tipos de indicadores distribuídos em 04 diferentes
+perspectivas: Financeira; Cliente; Processos Internos e; Aprendizado e Crescimento. Inspeção de
+matérias-primas e insumos é exemplo de controle preventivo.
+
+O gabarito é a letra C.
+
+29.    (FGV – IBGE – Agente Censitário Operacional – 2019)
+
+        Receita Federal (Analista Tributário) Administração Geral                             120
+        www.estrategiaconcursos.com.br                                                        149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  Uma faculdade formou, em 2017, 150 alunos, com um custo total de 1.500.000 reais. Em 2018,
+  a faculdade formou 200 alunos, com um custo total de 2.100.000 reais. Considerando-se apenas
+  as informações apresentadas, é correto afimar que, de 2017 para 2018, a faculdade foi:
+
+  a) mais eficaz;
+
+  b) mais eficiente;
+
+  c) igualmente eficiente;
+
+  d) igualmente eficaz;
+
+  e) menos eficaz e menos eficiente.
+
+Comentários:
+
+Vejamos nosso esquema:
+
+
+                                 Utilização de        Fazer de forma      Relaciona-se
+            EFICIÊNCIA                                                                     Foco Interno
+                                   recursos               correta          aos Meios
+
+                                 Alcance dos           Fazer a coisa      Relaciona‐se
+             EFICÁCIA                                                                      Foco Externo
+                                 resultados               certa             aos Fins
+
+                                                          Gerar            Relaciona‐se
+                                   Impacto
+            EFETIVIDADE                                 benefícios,       aos Benefícios   Foco Externo
+                                   causado
+                                                      transformação         gerados
+
+O enunciado nos diz que em 2017 a faculdade formou 150 alunos ao custo de 1.500.000 reais (isso
+representa um custo de 10.000 reais por aluno).
+
+Em 2018, por sua vez, a faculdade formou 200 alunos. Proporcionalmente, o ideal seria que a
+faculdade tivesse gastado 2.000.000 reais (ou seja, um custo de 10.000 reais por aluno, assim
+como ocorreu em 2017). Contudo, o enunciado nos diz que ela gastou mais, ou seja, gastou
+2.100.000 reais (o que representa 10.500 reais por aluno).
+
+Portanto, de 2017 para 2018 a faculdade foi menos eficiente. Em outras palavras, em 2018 a
+faculdade foi menos eficiente, tendo em vista que gastou mais recursos do que em 2017.
+
+Por outro lado, de 2017 para 2018 a faculdade foi mais eficaz. Em outras palavras, em 2018 a
+faculdade foi mais eficaz, pois alcançou mais resultados do que em 2017 (isto é, formou 50 alunos
+a mais, independentemente dos custos envolvidos).
+
+        Receita Federal (Analista Tributário) Administração Geral                                         121
+        www.estrategiaconcursos.com.br                                                                    149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Portanto, o gabarito é a letra A.
+
+O gabarito é a letra A.
+
+30.    (FGV – TJ-CE – Técnico Judiciário – 2019)
+
+  O gestor de um órgão público solicitou a dois servidores (Alfa e Beta) que cada um comprasse
+  10 lâmpadas para projetores multimídia utilizados no órgão. O gestor informou que o valor
+  limite para a compra de cada lote de 10 lâmpadas, conforme especificação fornecida, seria de
+  R$ 1.500,00. O servidor Alfa comprou as lâmpadas por R$ 1.390,00 e o servidor Beta por R$
+  1.500,00. Ambos os lotes foram entregues em perfeitas condições, porém o lote adquirido pelo
+  servidor Beta foi entregue um dia antes do prazo.
+
+  Considerando a situação exposta, é correto afirmar que:
+
+  a) ambos os servidores foram igualmente eficientes;
+
+  b) apenas o servidor Alfa foi eficaz na aquisição;
+
+  c) apenas o servidor Alfa foi eficiente na aquisição;
+
+  d) o servidor Beta foi mais efetivo na aquisição;
+
+  e) o conceito de eficácia foi atendido por ambos os servidores.
+
+Comentários:
+
+Letra A: errada. O servidor Alfa foi mais eficiente em relação aos recursos financeiros (ou seja,
+utilizou melhor os recursos financeiros disponíveis, tendo em vista que gastou menos dinheiro). O
+servidor Beta, por sua vez, foi mais eficiente em recursos de tempo (ou seja, utilizou melhor o
+tempo disponível, uma vez que entregou as lâmpadas um dia antes do prazo). Portanto, cada um
+foi eficiente de uma forma diferente.
+
+Letra B: errada. Ambos os servidores foram eficazes. Ou seja, ambos os servidores atingiram o
+objetivo de adquirir as 10 lâmpadas (independentemente dos custos envolvidos).
+
+Letra C: errada. Nada disso. Ambos os servidores foram eficientes (cada um foi eficiente de uma
+forma diferente). O servidor Alfa foi mais eficiente em relação aos recursos financeiros (ou seja,
+utilizou melhor os recursos financeiros disponíveis, tendo em vista que gastou menos dinheiro). O
+servidor Beta, por sua vez, foi mais eficiente em recursos de tempo (ou seja, utilizou melhor o
+tempo disponível, uma vez que entregou as lâmpadas um dia antes do prazo).
+
+Letra D: errada. Nada disso. A efetividade está relacionada aos impactos causados pelas ações (aos
+benefícios gerados, à transformação).
+
+        Receita Federal (Analista Tributário) Administração Geral                              122
+        www.estrategiaconcursos.com.br                                                         149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Letra E: errada. Isso mesmo! Ambos os servidores foram eficazes. Ou seja, ambos os servidores
+atingiram o objetivo de adquirir as 10 lâmpadas (independentemente dos custos envolvidos).
+
+O gabarito é a letra E.
+
+31.    (FGV – DPE-RJ – Técnico Superior Especializado – Administração de Empresas – 2019)
+
+  A Defensoria Pública do Estado do Rio de Janeiro decide promover um mutirão para oferecer
+  assistência jurídica aos presos, visando reduzir a população carcerária do Estado em 10%.
+
+  Após a apuração do resultado do mutirão, verificou-se que a redução foi de apenas 5%,
+  permitindo a constatação de que o mutirão foi falho em relação à:
+
+  a) eficiência;
+
+  b) eficácia;
+
+  c) excelência;
+
+  d) economicidade;
+
+  e) execução.
+
+Comentários:
+
+Perceba que o mutirão não atingiu os objetivos que foram propostos. Portanto, o mutirão foi falho
+em relação à eficácia.
+
+O gabarito é a letra B.
+
+32.    (FGV – Câmara de Salvador-BA – Assistente Legislativo - 2018)
+
+  Uma empresa vem enfrentando problemas de baixa produtividade da mão de obra e aumento
+  significativo dos pedidos de demissão. A cúpula da empresa considera que seria importante
+  adotar controles preventivos, a fim de evitar que esses problemas aconteçam.
+  Seria um controle preventivo adequado à situação descrita:
+
+  a) avaliação de desempenho;
+
+  b) testes de seleção de recursos humanos;
+
+  c) auditoria interna;
+
+  d) supervisão direta;
+
+        Receita Federal (Analista Tributário) Administração Geral                             123
+        www.estrategiaconcursos.com.br                                                        149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  e) balanced scorecard de recursos humanos.
+
+Comentários:
+
+Letra A: errada. A avaliação de desempenho é um tipo de controle posterior.
+
+Letra B: correta. De fato, os testes de seleção de RH são um tipo de controle preventivo. Pense
+comigo: se a empresa está tendo problemas de baixa produtividade relacionados à mão de obra,
+bem como um aumento significativo de pedidos de demissão, um bom exemplo de controle
+preventivo que pode ser adotado são os testes de seleção de RH.
+
+Esses testes são realizados antes mesmo da contratação dos funcionários. Os testes terão por
+objetivo avaliar a capacidade dos funcionários, e também buscarão aferir se esses funcionários
+tenderão a “permanecer” na empresa. Veja: os testes são realizados antes mesmos das pessoas se
+tornarem funcionários da empresa. Portanto, são um tipo de controle preventivo.
+
+Letra C: errada. A auditoria interna pode ser realizada tanto concomitantemente à realização das
+atividades (controle simultâneo), como posteriormente à realização das atividades (controle
+posterior).
+
+Letra D: errada. A supervisão direta é um tipo de controle simultâneo. Ela consiste na consiste na
+“observação direta” do desempenho dos funcionários (presença física do chefe). Os problemas são
+corrigidos a medida em que vão ocorrendo.
+
+Letra E: errada. Trata-se de um tipo de controle posterior.
+
+O gabarito é a letra B.
+
+33.    (FGV – IBGE – Agente Censitário - 2017)
+
+  Uma ONG atendeu, em 2015, 100 refugiados, com um dispêndio total de 100.000 reais. Em
+  2016, a ONG atendeu 120 refugiados, com um dispêndio total de 120.000 reais.
+
+  Pode-se dizer que, de 2015 para 2016, a ONG foi:
+
+  a) menos eficiente;
+
+  b) mais eficiente;
+
+  c) menos eficaz;
+
+  d) mais eficaz;
+
+  e) mais produtiva.
+
+        Receita Federal (Analista Tributário) Administração Geral                              124
+        www.estrategiaconcursos.com.br                                                         149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Comentários:
+
+Perceba que o “custo de atendimento por cada refugiado”, em ambos os anos, foi o mesmo, ou
+seja: 1.000 reais. Portanto, a eficiência não foi maior, nem menor; isto é, a eficiência ou a
+“produtividade” (utilização de recursos por cada atendimento) foi a mesma.
+
+Por sua vez, a eficácia foi maior em 2016. Ou seja, os resultados foram maiores (em 2016 foram
+atendidos mais refugiados).
+
+Portanto, em 2016 a ONG foi mais eficaz que em 2015.
+
+O gabarito é a letra D.
+
+34.    (FGV – TRT 12a Região – Analista Judiciário - 2017)
+
+  As organizações podem ser consideradas grupos estruturados de pessoas que se juntam para
+  alcançarem objetivos. Tais organizações podem variar de diversas maneiras, mas o importante é
+  que procurem trabalhar de forma eficaz, eficiente e efetiva.
+
+  Em relação à eficácia, à eficiência e à efetividade nas organizações, é correto afirmar que:
+
+  a) a eficácia é fazer bem as coisas, utilizando o mínimo de recursos;
+
+  b) a eficiência tem ênfase nos processos e a eficácia nos resultados;
+
+  c) um empregado é considerado eficaz quando sua produtividade é alta;
+
+  d) a eficiência está mais relacionada com a escolha dos objetivos mais apropriados e ausência de
+  desperdícios;
+
+  e) a efetividade está relacionada à minimização dos recursos utilizados, sejam eles recursos
+  como tempo, pessoas, capital ou equipamento.
+
+Comentários:
+
+Vejamos nosso esquema:
+
+        Receita Federal (Analista Tributário) Administração Geral                                125
+        www.estrategiaconcursos.com.br                                                           149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                 Utilização de        Fazer de forma      Relaciona-se
+            EFICIÊNCIA                                                                     Foco Interno
+                                   recursos               correta          aos Meios
+
+                                 Alcance dos           Fazer a coisa      Relaciona‐se
+             EFICÁCIA                                                                      Foco Externo
+                                 resultados               certa             aos Fins
+
+                                                          Gerar            Relaciona‐se
+                                   Impacto
+            EFETIVIDADE                                 benefícios,       aos Benefícios   Foco Externo
+                                   causado
+                                                      transformação         gerados
+
+Letra A: errada. Eficiência que se relaciona a “fazer bem as coisas” (fazer as coisas de forma
+correta), e à utilização dos recursos.
+
+Letra B: correta. Isso mesmo! A Eficiência tem foco nos meios (nos processos), e a eficácia tem foco
+nos fins (resultados).
+
+Letra C: errada. A produtividade está relacionada à eficiência. Portanto, um empregado é
+considerado eficiente quando sua produtividade é alta.
+
+Letra D: errada. De fato, a eficiência está relacionada à “ausência de desperdícios”. Contudo, não
+se relaciona à “escolha dos objetivos mais apropriados”.
+
+Letra E: errada. É a eficiência que está relacionada à minimização (economia) dos recursos
+utilizados, sejam eles recursos como tempo, pessoas, capital ou equipamento. A efetividade, por
+sua vez, se relaciona aos impactos gerados.
+
+O gabarito é a letra B.
+
+35.    (FGV – CODEBA – Técnico Portuário - 2016)
+
+  Controle é a geração e o uso de informações relativas às atividades organizacionais. Existem
+  diversos tipos de controle, classificados por sincronismo temporal. Cada tipo de controle
+  apresenta funções e características únicas.
+
+  Assinale a opção que apresenta o conjunto de características ligadas ao controle do tipo
+  simultâneo.
+
+  a) Corrige os problemas depois que ocorrem e tem foco nos resultados.
+
+  b) Corrige os problemas à medida que ocorrem e tem foco nos processos.
+
+  c) Corrige os problemas à medida que ocorrem e tem foco nos insumos.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                                         126
+        www.estrategiaconcursos.com.br                                                                    149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  d) Corrige os problemas à medida que ocorrem e tem foco nos resultados
+
+  e) Corrige os problemas depois que ocorrem e tem foco nos insumos.
+
+Comentários:
+
+Letra A: errada. É o controle posterior que corrige os problemas depois que ocorrem e tem foco
+nos resultados.
+
+Letra B: correta. Isso mesmo! O controle simultâneo corrige os problemas à medida que vão
+ocorrendo e tem foco nos processos.
+
+Letra C: errada. De fato, o controle simultâneo corrige os problemas à medida que vão ocorrendo.
+Contudo, o controle que tem foco nos insumos é o controle preventivo.
+
+Letra D: errada. De fato, o controle simultâneo corrige os problemas à medida que vão ocorrendo.
+Contudo, o controle que tem foco nos resultados é o controle posterior.
+
+Letra E: errada. É o controle posterior que corrige os problemas depois que ocorrem. Por sua vez,
+é o controle preventivo que tem foco nos insumos.
+
+O gabarito é a letra B.
+
+36.    (FGV – IBGE – Analista - 2016)
+
+  A área de produção de uma fábrica de instrumentos médicos vem apresentando alto índice de
+  produtos defeituosos e baixa produtividade da mão de obra. O gerente de produção gostaria de
+  adotar controles preventivos, a fim de antecipar problemas para o desempenho das atividades
+  da área. Seriam exemplos de controles preventivos adequados à situação descrita,
+  respectivamente:
+
+  a) inspeção de matérias-primas e supervisão direta;
+
+  b) controle estatístico de processos e testes de seleção de recursos humanos;
+
+  c) inspeção da qualidade dos produtos e supervisão direta;
+
+  d) inspeção de matérias-primas e testes de seleção de recursos humanos;
+
+  e) inspeção da qualidade dos produtos e avaliação de desempenho.
+
+Comentários:
+
+Letra A: errada. De fato, inspeção de matérias-primas é um tipo de controle preventivo. Contudo, a
+supervisão direta é um tipo de controle simultâneo.
+
+
+        Receita Federal (Analista Tributário) Administração Geral                              127
+        www.estrategiaconcursos.com.br                                                         149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Letra B: errada. De fato, seleção de recursos humanos é um tipo de controle preventivo. Contudo,
+a controle estatístico de processos é um tipo de controle simultâneo.
+
+Letra C: errada. Inspeção da qualidade de produtos é um tipo de controle posterior. A supervisão
+direta é um tipo de controle simultâneo.
+
+Letra D: correta. Perfeito! Tanto a inspeção de matérias-primas (insumos), quanto testes de
+seleção de recursos humanos, são tipos de controles preventivos que podem auxiliar a organização
+em relação ao índice de produtos defeituosos e à baixa produtividade da mão de obra.
+
+Letra E: errada. Inspeção da qualidade de produtos e Avaliação de desempenho são tipos de
+controle posterior.
+
+O gabarito é a letra D.
+
+37.    (FGV – TJ-SC – Analista Administrativo - 2015)
+
+  O supervisor de produção de uma empresa fabricante de autopeças observou um aumento no
+  número de peças fora dos padrões definidos. O supervisor gostaria de monitorar continuamente
+  as atividades, adotando um controle simultâneo. Um controle simultâneo adequado seria:
+
+  a) inspeção de matérias-primas;
+
+  b) programa de manutenção preventiva;
+
+  c) controle estatístico do processo;
+
+  d) controle de qualidade das peças produzidas;
+
+  e) definição de regras e procedimentos de produção.
+
+Comentários:
+
+Letra A: errada. A assertiva trouxe um exemplo de controle preventivo.
+
+Letra B: errada. Trata-se de um tipo de controle preventivo.
+
+Letra C: correta. Isso mesmo! De fato, o controle estatístico do processo é um controle
+simultâneo.
+
+Letra D: errada. Trata-se de um controle posterior.
+
+Letra E: errada. A assertiva trouxe um exemplo de controle preventivo.
+
+O gabarito é a letra C.
+
+        Receita Federal (Analista Tributário) Administração Geral                            128
+        www.estrategiaconcursos.com.br                                                       149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+                                      LISTA DE QUESTÕES
+1. (FGV – TCE-RR - Auditor Substituto de Conselheiro– 2025)
+
+  Leia o texto a seguir.
+
+  O processo de mensuração, acompanhamento e avaliação do desempenho das políticas
+  públicas, dos serviços e projetos de governo pode ser realizado de forma robusta por meio de
+  ferramentas essenciais que fornecem informações quantitativas e/ou qualitativas para subsidiar
+  a tomada de decisão, além de promover a transparência na prestação de contas à sociedade.
+  Nesse contexto, é possível o uso de:
+
+  1. Métricas que avaliam a relação entre os recursos utilizados (custos, pessoal, tempo) e os
+  resultados obtidos.
+
+  2. Métricas para o nível de cumprimento (atingimento) dos objetivos de uma política pública.
+
+  3. Métricas que avaliam o impacto das políticas públicas na sociedade.
+
+  O texto trata da ferramenta
+
+  a) SWOT e os três itens são exemplos de indicadores de efetividade, eficácia e eficiência,
+  respectivamente.
+
+  b) Indicadores de Efetividade, com três exemplos.
+
+  c) OKR e os três itens são exemplos de indicadores de eficácia, eficiência e efetividade,
+  respectivamente.
+
+  d) Indicadores de Desempenho e os três itens são exemplos de indicadores de eficiência,
+  eficácia e efetividade, respectivamente.
+
+  e) PDCA e os três itens são exemplos de indicadores de eficácia, eficiência e efetividade,
+  respectivamente.
+
+2. (FGV – MPU - Técnico do MPU – Administração – 2025)
+
+        Receita Federal (Analista Tributário) Administração Geral                                129
+        www.estrategiaconcursos.com.br                                                           149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  Certa organização enfrentou, recentemente, problemas de perda de produtividade, piora
+  significativa na qualidade dos serviços prestados e vazamento de informações relevantes.
+  Preocupada com a situação, a alta direção da organização quer adotar controles preventivos, a
+  fim de evitar que os problemas se repitam e garantir que as melhorias necessárias possam ser
+  adequadamente planejadas.
+
+  São formas de controle preventivo:
+
+  a) supervisão direta; códigos de ética;
+
+  b) testes de qualidade dos produtos; auditoria de processos;
+
+  c) demonstrativos financeiros; formalização de níveis de alçada decisória;
+
+  d) regras e normas; inspeção de matérias-primas;
+
+  e) avaliação de desempenho dos colaboradores; controle estatístico de processos.
+
+3. (FGV – MPE-RJ - Analista do Ministério Público - Área Administrativa – 2025)
+
+  A administração geral refere-se ao conjunto de conceitos, princípios e práticas essenciais para
+  planejar, organizar, dirigir e controlar recursos em uma organização, visando à eficiência, à
+  eficácia e à otimização dos processos para alcançar os objetivos estratégicos.
+
+  Assinale a opção que apresenta corretamente o conceito de eficácia.
+
+  a) Fazer corretamente as tarefas.
+
+  b) Reduzir desperdícios de recursos.
+
+  c) Cumprir as normas e os prazos.
+
+  d) Alcançar os resultados esperados.
+
+  e) Manter os custos baixos.
+
+4. (FGV – DPE-RO - Analista em Administração - Classe A – 2025)
+
+  De acordo com as dimensões de desempenho adotadas no setor público e seus respectivos
+  critérios de controle, é possível afirmar que a
+
+  a) economicidade diz respeito ao alcance das metas estabelecidas.
+
+  b) eficácia está vinculada aos insumos utilizados na oferta do serviço.
+
+  c) efetividade se relaciona com o impacto das ações realizadas.
+
+        Receita Federal (Analista Tributário) Administração Geral                             130
+        www.estrategiaconcursos.com.br                                                        149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  d) execução está associada ao cumprimento das normas e regras previstas.
+
+  e) eficiência está relacionada ao desenho da política pública.
+
+5. (FGV – Prefeitura de Macaé-RJ – Assistente - 2024)
+
+  Assinale a opção que indica o aspecto do controle que foca no desenvolvimento, na mudança e
+  na melhoria, incentivando a iniciativa das pessoas e minimizando o uso de penalidades e
+  punições.
+
+  a) Compreensão.
+
+  b) Natureza positiva.
+
+  c) Autocontrole.
+
+  d) Flexibilidade.
+
+  e) Clareza e objetividade.
+
+6. (FGV – AL-TO – Técnico - 2024)
+
+  O propósito do controle é garantir que os resultados do planejamento, organização e direção
+  estejam alinhados o mais próximo possível dos objetivos definidos anteriormente. O cerne do
+  controle reside na avaliação de se a atividade supervisionada está atingindo ou não os
+  resultados desejados. Portanto, o controle é primordialmente um processo que direciona a
+  atividade em direção a um objetivo predefinido.
+
+  Assinale a opção que apresenta um controle estratégico.
+
+  a) Balanço e relatórios financeiros.
+
+  b) Programação just-in-time.
+
+  c) Contabilidade de custos.
+
+  d) Controle orçamentário.
+
+  e) Controle de estoques.
+
+7. (FGV – TRF1 – Técnico Judiciário - Área Administrativa - 2024)
+
+  Certa organização vem enfrentando problemas de descontrole de despesas, necessidade de
+  retrabalho e piora na qualidade de seus produtos. A organização adota, precipuamente,
+  controles posteriores. Sua alta direção quer aprimorar o sistema de controle, adotando
+
+
+        Receita Federal (Analista Tributário) Administração Geral                         131
+        www.estrategiaconcursos.com.br                                                    149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  controles preventivos e simultâneos, para evitar que os problemas persistam e para que
+  melhorias possam ser adequadamente planejadas.
+
+  São formas de controle preventivo e simultâneo, respectivamente:
+
+  a) regras de limites de gastos; supervisão direta;
+
+  b) demonstrativos contábeis; auditoria interna;
+
+  c) testes de qualidade de produtos; controle estatístico de processos;
+
+  d) códigos de conduta; definição de responsabilidades e atribuições dos cargos;
+
+  e) testes de seleção de recursos humanos; avaliação de desempenho de funcionários.
+
+8. (FGV – TJ-AP – Analista Judiciário – Área Apoio Especializado – Especialidade Administração -
+   2024)
+
+  Uma clínica quer melhorar o controle e a avaliação de seus processos internos. Para tal, a
+  direção da clínica quer definir alguns indicadores de eficácia e de eficiência.
+
+  Nesse contexto, são um indicador de eficácia e um de eficiência adequados, respectivamente:
+
+  a) tempo médio de atendimento; nível de satisfação dos funcionários;
+
+  b) grau de satisfação com a liderança; nível de satisfação dos clientes;
+
+  c) faturamento por empregado; tempo médio para emissão de laudos;
+
+  d) número de clientes atendidos; tempo médio de atendimento;
+
+  e) número de guias emitidas; número de clientes atendidos.
+
+9. (FGV – TJ-AP – Analista Judiciário – Área Apoio Especializado – Especialidade Administração -
+   2024)
+
+  Controle é a função da organização que assegura que os objetivos organizacionais estão sendo
+  alcançados, monitorando o desempenho organizacional em relação a possíveis desvios. Para seu
+  adequado desempenho, a função controle depende de sistemas de controle organizacional
+  eficazes.
+
+  Um sistema de controle organizacional eficaz deve atender a alguns critérios gerais, tais como:
+
+  a) rapidez; ser preventivo;
+
+        Receita Federal (Analista Tributário) Administração Geral                               132
+        www.estrategiaconcursos.com.br                                                          149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  b) critério único; precisão;
+
+  c) ênfase na exceção; flexibilidade;
+
+  d) critérios múltiplos; hierarquização de objetivos;
+
+  e) inteligibilidade; ser definido de forma participativa.
+
+10. (FGV – Departamento Nacional de Infraestrutura de Transportes – Analista Administrativo
+   – Administração - 2024)
+
+  O controle de uma organização é realizado em várias etapas, incluindo a comparação entre o
+  desempenho real e o desempenho esperado. Essa comparação é realizada em diferentes
+  momentos, sendo classificada em categorias.
+
+  Assinale a opção que indica a categoria de controle que visa a assegurar os resultados finais
+  dentro dos objetivos e padrões desejados.
+
+  a) Controle prévio.
+
+  b) Controle simultâneo.
+
+  c) Controle concorrentes.
+
+  d) Controle por retroação.
+
+  e) Controle de desempenho.
+
+11.    (FGV – ALE-TO – Técnico Legislativo - Assistência Administrativa – 2024)
+
+  Um modelo de gestão de resultados compreende três elementos essenciais: direcionadores de
+  resultado, direcionadores de esforço para implementação das ações e mecanismos de controle.
+
+  Nesse contexto, a avaliação de desempenho é uma ferramenta necessária, mas não suficiente
+  para a promoção de uma gestão de resultados.
+
+  Assinale a opção que apresenta a dimensão de desempenho que possui estreita relação com
+  produtividade.
+
+  a) Eficácia.
+
+  b) Eficiência.
+
+  c) Efetividade.
+
+        Receita Federal (Analista Tributário) Administração Geral                           133
+        www.estrategiaconcursos.com.br                                                      149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  d) Economicidade.
+
+  e) Custo-benefício.
+
+12.    (FGV – Câmara Municipal de Fortaleza – Agente Administrativo – 2024)
+
+  Acerca dos momentos que a função controle é empregada, analise as assertivas a seguir.
+
+  I. A inspeção de insumos utilizados na produção são exemplos de controles preventivos.
+
+  II. Os testes escritos na seleção de funcionários são exemplos de controle simultâneo
+
+  III. A definição de técnicas e procedimentos a serem seguidas na produção representa um
+  controle reativo
+
+  Está correto o que se afirma em
+
+  a) I, apenas.
+
+  b) II, apenas.
+
+  c) I e II, apenas.
+
+  d) II e III, apenas.
+
+  e) I, II e III.
+
+13.    (FGV – Câmara dos Deputados – Analista - 2023)
+
+  O ciclo de planejamento nas organizações públicas refere-se ao processo contínuo e sistemático
+  pelo qual essas instituições definem metas, desenvolvem estratégias, implementam ações,
+  monitoram o progresso e ajustam suas atividades para alcançar objetivos específicos.
+
+  Em relação ao ciclo do planejamento, avalie se as afirmativas a seguir são verdadeiras (V) ou
+  falsas (F).
+
+  ( ) Key performance indicators (KPIs) são métricas para quantificar objetivos.
+
+  ( ) Meios de controle são informações para avaliar até que ponto os objetivos estão sendo
+  atingidos e se os cursos de ação escolhidos são apropriados.
+
+  ( ) Avaliação é o processo de determinar se a realização dos objetivos está alcançando os efeitos
+  pretendidos.
+
+  As afirmativas são, respectivamente,
+
+         Receita Federal (Analista Tributário) Administração Geral                              134
+         www.estrategiaconcursos.com.br                                                         149
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  a) V – F – V.
+
+  b) V – V – F.
+
+  c) F – F – F.
+
+  d) V – F – F.
+
+  e) V – V – V.
+
+14.    (FGV – Prefeitura de Macaé-RJ – Analista - 2024)
+
+  O planejamento nas organizações públicas é essencial para definir objetivos claros, otimizar
+  recursos e garantir a eficiência na execução de políticas e serviços, alinhando as ações
+  governamentais às necessidades da sociedade.
+
+  Com relação ao planejamento nas organizações públicas, analise as afirmativas a seguir.
+
+  I. Objetivos e metas são os resultados desejados que direcionam e orientam as ações a serem
+  tomadas.
+
+   II. Key performance indicators (KPIs) são as informações que avaliam se os objetivos estão
+  sendo atingidos.
+
+  III. Meios de controle são métricas para quantificar os objetivos.
+
+  Está correto o que se afirma em
+
+  a) I, apenas.
+
+  b) I e II, apenas.
+
+  c) I e III, apenas.
+
+  d) II e III, apenas.
+
+  e) I, II e III.
+
+15.    (FGV – Câmara dos Deputados – Analista - 2023)
+
+  O ciclo de planejamento nas organizações públicas é um processo essencial que envolve
+  diversas etapas para garantir o adequado funcionamento e atendimento das necessidades da
+  sociedade.
+
+  Acerca do ciclo do planejamento, avalie as afirmativas a seguir e assinale (V) para a verdadeira e
+  (F) para a falsa.
+
+         Receita Federal (Analista Tributário) Administração Geral                               135
+         www.estrategiaconcursos.com.br                                                          149
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  ( ) Objetivos e metas são os resultados desejados.
+
+  ( ) Key performance indicators (KPIs) são informações para avaliar até que ponto os objetivos
+  estão sendo atingidos e se os cursos de ação escolhidos são apropriados.
+
+  ( ) Meios de controle são métricas para quantificar objetivos.
+
+  ( ) Avaliação refere-se ao processo de determinação dos meios de controle.
+
+  As afirmativas são, respectivamente,
+
+  a) F – F – V – F.
+
+  b) V – V – F – V.
+
+  c) F – F – F – F.
+
+  d) V – F – F – F.
+
+  e) V – V – V – V.
+
+16.    (FGV – AL-MA - Técnico de Gestão Administrativa - Ciências Sociais (Sociólogo) – 2023)
+
+  Para Paulo Jannuzzi, o processo de avaliação de políticas públicas tem como finalidade
+  aprimorar a gestão das intervenções buscando maior eficiência, eficácia e efetividade.
+
+  A esse respeito, estabeleça a correspondência entre as dimensões listadas a seguir e suas
+  respectivas definições.
+
+  1. Eficiência 2. Eficácia 3. Efetividade
+
+  ( ) Dimensão relacionada à verificação dos efeitos de médio e longo prazo sobre os beneficiários
+  e a sociedade, atribuíveis direta ou indiretamente a um programa.
+
+  ( ) Dimensão relacionada ao custo para alcançar os resultados de um programa, podendo ser
+  medida por indicadores de custeio da produção dos resultados.
+
+  ( ) Dimensão relacionada ao cumprimento dos objetivos explicitados em um programa,
+  pressupondo análise de cobertura e grau de focalização do público-alvo alcançado, entre outros.
+
+  Assinale a opção que mostra a relação correta, segundo a ordem apresentada.
+
+  a) 1 – 2 – 3.
+
+  b) 2 – 3 – 1.
+
+        Receita Federal (Analista Tributário) Administração Geral                               136
+        www.estrategiaconcursos.com.br                                                          149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  c) 3 – 1 – 2.
+
+  d) 1 – 3 – 2.
+
+  e) 3 – 2 – 1.
+
+17.    (FGV – AGENERSA - RJ - Assistente Técnico de Regulação – 2023)
+
+  A utilização de indicadores de desempenho permite que os administradores avaliem os
+  resultados obtidos pela organização e, com isso, possam tomar decisões fundamentadas.
+  Assinale a opção que apresenta o indicador de desempenho que está relacionado ao
+  atingimento das metas propostas.
+
+  a) Efetividade.                                       ==219a34==
+
+  b) Economicidade.
+
+  c) Eficiência.
+
+  d) Eficácia.
+
+  e) Turnover.
+
+18.    (FGV – Prefeitura de Niterói - RJ - Agente Administrativo – 2023)
+
+  Uma empresa especializada na perfuração de poços artesanais é contratada por uma
+  organização sem fins lucrativos para executar um serviço em uma comunidade no Município de
+  Niterói.
+
+  Após a realização do serviço, apesar de ter realizado a perfuração gastando muito menos que o
+  previsto, a empresa não conseguiu atingir a meta de litros de água estipulada no projeto. Com
+  base apenas nas informações do texto acima, é correto afirmar que a empresa atuou de forma
+
+  a) ineficiente.
+
+  b) ineficaz.
+
+  c) contingencial.
+
+  d) efetiva.
+
+  e) redundante.
+
+19.    (FGV – Prefeitura de Niterói - RJ - Agente Administrativo – 2023)
+
+        Receita Federal (Analista Tributário) Administração Geral                           137
+        www.estrategiaconcursos.com.br                                                      149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  Acerca dos tipos de ferramentas e configurações de controles organizacionais posteriores,
+  analise os termos a seguir.
+
+  I. Avaliação de Desempenho.
+
+  II. Supervisão Direta.
+
+  III. Inspeção de Matérias Primas.
+
+  Está correto o que se afirma em
+
+  a) I, apenas.
+
+  b) I e II, apenas.
+
+  c) I e III, apenas.
+
+  d) II e III, apenas.
+
+  e) I, II e III.
+
+20.    (FGV – DPE-RS - Analista - Área Administrativa – Administração – 2023)
+
+  Uma empresa de porte médio vem conquistando novos clientes e aumentando de forma
+  significativa sua participação no mercado. Como resultado, aumentaram as demandas em todos
+  os processos e a organização prevê contratar novos funcionários para todas as áreas,
+  projetando um aumento significativo no quadro de funcionários. A alta direção da organização
+  considera que “em breve, seremos uma empresa de grande porte” e que “os controles
+  informais que antes adotávamos não serão mais adequados”. A alta direção quer adotar
+  controles preventivos e posteriores para seus diversos processos. Seriam um controle
+  preventivo e um controle posterior, respectivamente:
+
+  a) credenciamento de fornecedores; supervisão direta;
+
+  b) inspeção de matérias-primas; auditoria;
+
+  c) definição de padrões de layout; controle estatístico de processos;
+
+  d) avaliação do desempenho dos funcionários; demonstrativos financeiros;
+
+  e) círculos de qualidade; estabelecimento de normas para demissão de funcionários.
+
+21.    (FGV – DPE-RS - Analista - Área Administrativa – Administração – 2023)
+
+         Receita Federal (Analista Tributário) Administração Geral                         138
+         www.estrategiaconcursos.com.br                                                    149
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  A principal executiva de certa organização acredita que há falta de direcionamento no
+  comportamento dos funcionários, dificultando o atingimento dos objetivos organizacionais. Ela
+  gostaria de reforçar os mecanismos de controle comportamental na empresa, deixando claros
+  os comportamentos valorizados pela organização, assim garantindo melhor coordenação dos
+  esforços de todos. São mecanismos de controle comportamental, entre outros:
+
+  a) mapeamento de competências; definição de objetivos e metas;
+
+  b) especialização do trabalho; estilo de liderança;
+
+  c) cultura organizacional; incentivos e bônus;
+
+  d) levantamento das necessidades de treinamento; supervisão direta;
+
+  e) grau de prontidão das equipes; avaliação de desempenho.
+
+22.    (FGV – AGENERSA - RJ - Analista Técnico – 2023)
+
+  A forma de utilizar a função controle varia em cada organização.
+
+  A organização que decide utilizar o controle de primeira ordem deve pautar seus mecanismos
+  por
+
+  a) supervisão direta.
+
+  b) padronização de processos.
+
+  c) estabelecimento de regulamentos legais.
+
+  d) compartilhamento de valores e crenças.
+
+  e) automação de procedimentos.
+
+23. (FGV – CGE-SC - Auditor do Estado Administração - Tarde (Conhecimentos Específicos) –
+   2023)
+
+  Toda a literatura neoclássica se assenta no processo administrativo para explicar como as várias
+  funções administrativas são desenvolvidas nas organizações. As funções do administrador, que
+  formam o processo administrativo, são mais do que uma sequência cíclica, pois estão
+  intimamente relacionadas em uma interação dinâmica, como mostra a figura a seguir.
+
+        Receita Federal (Analista Tributário) Administração Geral                              139
+        www.estrategiaconcursos.com.br                                                         149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  O processo por meio do qual são fornecidas as informações e a retroação para manter as
+  funções dentro de suas respectivas trilhas denomina-se
+
+  a) Planejamento.
+
+  b) Organização.
+
+  c) Direção.
+
+  d) Controle.
+
+  e) Coordenação.
+
+24.    (FGV – PC-AM - Investigador de Polícia – 2022)
+
+  Uma organização decidiu monitorar seu desempenho global por meio da medição de
+  indicadores como satisfação do acionista, clientes e imagem da organização, bem como medidas
+  financeiras como retorno sobre o investimento e valor das ações.
+
+  Esse tipo de controle é relacionado ao nível
+
+  a) estratégico.
+
+  b) funcional.
+
+  c) operacional
+
+  d) tático.
+
+  e) técnico.
+
+25.    (FGV – IBGE - Agente Censitário - Municipal e Supervisor – 2022)
+
+  Os mecanismos de controle utilizados por uma empresa são fundamentais para assegurar que
+  seus produtos ou serviços sejam entregues conforme o especificado para os clientes
+
+        Receita Federal (Analista Tributário) Administração Geral                          140
+        www.estrategiaconcursos.com.br                                                     149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  Em relação a esses mecanismos, é correto afirmar que eles podem ser divididos conforme o
+  momento de sua ocorrência, tendo como exemplos:
+
+  a) Familiar e ad hoc.
+
+  b) Judicial, legislativo e administrativo.
+
+  c) Preventivo, simultâneo e posterior.
+
+  d) Interno, externo e popular.
+
+  e) Provocado e de ofício.
+
+26.    (FGV – CGU – Técnico - 2022)
+
+  Após receber algumas denúncias nos canais internos de comunicação, uma autarquia federal
+  resolveu criar um comitê para verificar possíveis irregularidades na execução de contratos
+  vigentes do órgão com empresas de prestação de serviços gráficos. O controle exercido por essa
+  autarquia na situação acima é do tipo:
+
+  a) simultâneo;
+
+  b) preventivo;
+
+  c) posterior;
+
+  d) por feedback;
+
+  e) abstrato.
+
+27.    (FGV – CGU – Técnico - 2022)
+
+  Em meio à adoção do teletrabalho, um departamento passou a controlar o trabalho semanal de
+  seus técnicos, conforme apresentado na tabela a seguir.
+
+        Receita Federal (Analista Tributário) Administração Geral                            141
+        www.estrategiaconcursos.com.br                                                       149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  Com base exclusivamente na tabela acima, o(a) técnico(a) com maior eficiência na Semana 1 foi:
+
+  a) João;
+
+  b) Denise;
+
+  c) Rebeca;
+
+  d) Carlos;
+
+  e) Aristides.
+
+28.    (FGV – PC-RN – Agente - 2021)
+
+  A área financeira de uma organização está enfrentando problemas em seus processos internos,
+  como erros nos pagamentos a fornecedores e nos registros da tesouraria. O diretor da área
+  considera que seria importante adotar controles preventivos e controles posteriores, a fim de
+  evitar que os problemas continuem.
+
+  São formas de controle preventivo e posterior, respectivamente:
+
+  a) supervisão direta; auditoria;
+
+  b) estabelecimento de limites de alçada; testes de seleção de recursos humanos;
+
+  c) definição de regras para autorização de pagamentos; demonstrativos financeiros;
+
+  d) avaliação de desempenho dos funcionários; relatórios de resultado contábil;
+
+  e) balanced scorecard; inspeção de matérias-primas e insumos.
+
+29.    (FGV – IBGE – Agente Censitário Operacional – 2019)
+
+
+        Receita Federal (Analista Tributário) Administração Geral                            142
+        www.estrategiaconcursos.com.br                                                       149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  Uma faculdade formou, em 2017, 150 alunos, com um custo total de 1.500.000 reais. Em 2018,
+  a faculdade formou 200 alunos, com um custo total de 2.100.000 reais. Considerando-se apenas
+  as informações apresentadas, é correto afimar que, de 2017 para 2018, a faculdade foi:
+
+  a) mais eficaz;
+
+  b) mais eficiente;
+
+  c) igualmente eficiente;
+
+  d) igualmente eficaz;
+
+  e) menos eficaz e menos eficiente.
+
+30.    (FGV – TJ-CE – Técnico Judiciário – 2019)
+
+  O gestor de um órgão público solicitou a dois servidores (Alfa e Beta) que cada um comprasse
+  10 lâmpadas para projetores multimídia utilizados no órgão. O gestor informou que o valor
+  limite para a compra de cada lote de 10 lâmpadas, conforme especificação fornecida, seria de
+  R$ 1.500,00. O servidor Alfa comprou as lâmpadas por R$ 1.390,00 e o servidor Beta por R$
+  1.500,00. Ambos os lotes foram entregues em perfeitas condições, porém o lote adquirido pelo
+  servidor Beta foi entregue um dia antes do prazo.
+
+  Considerando a situação exposta, é correto afirmar que:
+
+  a) ambos os servidores foram igualmente eficientes;
+
+  b) apenas o servidor Alfa foi eficaz na aquisição;
+
+  c) apenas o servidor Alfa foi eficiente na aquisição;
+
+  d) o servidor Beta foi mais efetivo na aquisição;
+
+  e) o conceito de eficácia foi atendido por ambos os servidores.
+
+31.    (FGV – DPE-RJ – Técnico Superior Especializado – Administração de Empresas – 2019)
+
+  A Defensoria Pública do Estado do Rio de Janeiro decide promover um mutirão para oferecer
+  assistência jurídica aos presos, visando reduzir a população carcerária do Estado em 10%.
+
+  Após a apuração do resultado do mutirão, verificou-se que a redução foi de apenas 5%,
+  permitindo a constatação de que o mutirão foi falho em relação à:
+
+  a) eficiência;
+
+        Receita Federal (Analista Tributário) Administração Geral                           143
+        www.estrategiaconcursos.com.br                                                      149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  b) eficácia;
+
+  c) excelência;
+
+  d) economicidade;
+
+  e) execução.
+
+32.    (FGV – Câmara de Salvador-BA – Assistente Legislativo - 2018)
+
+  Uma empresa vem enfrentando problemas de baixa produtividade da mão de obra e aumento
+  significativo dos pedidos de demissão. A cúpula da empresa considera que seria importante
+  adotar controles preventivos, a fim de evitar que esses problemas aconteçam.
+  Seria um controle preventivo adequado à situação descrita:
+
+  a) avaliação de desempenho;
+
+  b) testes de seleção de recursos humanos;
+
+  c) auditoria interna;
+
+  d) supervisão direta;
+
+  e) balanced scorecard de recursos humanos.
+
+33.    (FGV – IBGE – Agente Censitário - 2017)
+
+  Uma ONG atendeu, em 2015, 100 refugiados, com um dispêndio total de 100.000 reais. Em
+  2016, a ONG atendeu 120 refugiados, com um dispêndio total de 120.000 reais.
+
+  Pode-se dizer que, de 2015 para 2016, a ONG foi:
+
+  a) menos eficiente;
+
+  b) mais eficiente;
+
+  c) menos eficaz;
+
+  d) mais eficaz;
+
+  e) mais produtiva.
+
+34.    (FGV – TRT 12a Região – Analista Judiciário - 2017)
+
+        Receita Federal (Analista Tributário) Administração Geral                       144
+        www.estrategiaconcursos.com.br                                                  149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  As organizações podem ser consideradas grupos estruturados de pessoas que se juntam para
+  alcançarem objetivos. Tais organizações podem variar de diversas maneiras, mas o importante é
+  que procurem trabalhar de forma eficaz, eficiente e efetiva.
+
+  Em relação à eficácia, à eficiência e à efetividade nas organizações, é correto afirmar que:
+
+  a) a eficácia é fazer bem as coisas, utilizando o mínimo de recursos;
+
+  b) a eficiência tem ênfase nos processos e a eficácia nos resultados;
+
+  c) um empregado é considerado eficaz quando sua produtividade é alta;
+
+  d) a eficiência está mais relacionada com a escolha dos objetivos mais apropriados e ausência de
+  desperdícios;
+
+  e) a efetividade está relacionada à minimização dos recursos utilizados, sejam eles recursos
+  como tempo, pessoas, capital ou equipamento.
+
+35.    (FGV – CODEBA – Técnico Portuário - 2016)
+
+  Controle é a geração e o uso de informações relativas às atividades organizacionais. Existem
+  diversos tipos de controle, classificados por sincronismo temporal. Cada tipo de controle
+  apresenta funções e características únicas.
+
+  Assinale a opção que apresenta o conjunto de características ligadas ao controle do tipo
+  simultâneo.
+
+  a) Corrige os problemas depois que ocorrem e tem foco nos resultados.
+
+  b) Corrige os problemas à medida que ocorrem e tem foco nos processos.
+
+  c) Corrige os problemas à medida que ocorrem e tem foco nos insumos.
+
+  d) Corrige os problemas à medida que ocorrem e tem foco nos resultados
+
+  e) Corrige os problemas depois que ocorrem e tem foco nos insumos.
+
+36.    (FGV – IBGE – Analista - 2016)
+
+  A área de produção de uma fábrica de instrumentos médicos vem apresentando alto índice de
+  produtos defeituosos e baixa produtividade da mão de obra. O gerente de produção gostaria de
+  adotar controles preventivos, a fim de antecipar problemas para o desempenho das atividades
+  da área. Seriam exemplos de controles preventivos adequados à situação descrita,
+  respectivamente:
+
+        Receita Federal (Analista Tributário) Administração Geral                                145
+        www.estrategiaconcursos.com.br                                                           149
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+  a) inspeção de matérias-primas e supervisão direta;
+
+  b) controle estatístico de processos e testes de seleção de recursos humanos;
+
+  c) inspeção da qualidade dos produtos e supervisão direta;
+
+  d) inspeção de matérias-primas e testes de seleção de recursos humanos;
+
+  e) inspeção da qualidade dos produtos e avaliação de desempenho.
+
+37.    (FGV – TJ-SC – Analista Administrativo - 2015)
+
+  O supervisor de produção de uma empresa fabricante de autopeças observou um aumento no
+  número de peças fora dos padrões definidos. O supervisor gostaria de monitorar continuamente
+  as atividades, adotando um controle simultâneo. Um controle simultâneo adequado seria:
+
+  a) inspeção de matérias-primas;
+
+  b) programa de manutenção preventiva;
+
+  c) controle estatístico do processo;
+
+  d) controle de qualidade das peças produzidas;
+
+  e) definição de regras e procedimentos de produção.
+
+  c) As variáveis componentes são: custo, tempo e qualidade.
+
+  d) A utilização deles permite que as organizações consigam focar em todas as áreas e processos,
+  levando a transformações estruturais e funcionais.
+
+  e) O IDH, muito utilizado na gestão das políticas públicas, é o resultado da ponderação de três
+  temas distintos (economia, saúde e educação).
+
+        Receita Federal (Analista Tributário) Administração Geral                             146
+        www.estrategiaconcursos.com.br                                                        149
+
+                                     
+
+
+---
+
+Stefan Fantini
+Aula 08
+
+                                              GABARITO
+1. Letra D                                 14. Letra A                  27. Letra B
+2. Letra D                                 15. Letra D                  28. Letra C
+3. Letra D                                 16. Letra C                  29. Letra A
+4. Letra C                                 17. Letra D                  30. Letra E
+5. Letra B                                 18. Letra B                  31. Letra B
+6. Letra A                                 19. Letra A                  32. Letra B
+7. Letra A                                 20. Letra B                  33. Letra D
+8. Letra D                                 21. Letra C                  34. Letra B
+9. Letra C                                 22. Letra A                  35. Letra B
+10. Letra D                                23. Letra D                  36. Letra D
+11. Letra B                                24. Letra A                  37. Letra C
+12. Letra A                                25. Letra C
+13. Letra E                                26. Letra A
+
+      Receita Federal (Analista Tributário) Administração Geral                       147
+      www.estrategiaconcursos.com.br                                                  149
+
+                                   
+
+
+---
+
+  Stefan Fantini
+  Aula 08
+
+Referências Bibliográficas
+
+CHIAVENATO, Idalberto. Administração nos novos tempos: os novos horizontes em administração, 3ª
+edição. Barueri, Manole: 2014.
+
+CHIAVENATO, Idalberto. Administração: teoria, processo e pratica, 5ª edição. Barueri, Manole: 2014.
+
+GOMES, Josir Simeone. Controle de gestão comportamental: textos e casos. São Paulo, Atlas: 2014. pp. 5-8
+
+MAXIMIANO, Antonio Cesar Amaru. Introdução à Administração, 8ª edição. São Paulo, Atlas: 2011.
+
+Ministério do Planejamento: Guia Referencial para Medição de Desempenho e Manual para Construção
+de    Indicadores.    Disponível   em:     http://www.gespublica.gov.br/content/guia-referencial-para-
+medi%C3%A7%C3%A3o-de-desempenho-e-manual-para-constru%C3%A7%C3%A3o-de-indicadores
+
+Ministério do Planejamento. Indicadores: Orientações Básicas Aplicadas à Gestão Pública. Disponível
+em:http://www.gespublica.gov.br/sites/default/files/documentos/indicadores_orientacoes_basicas_aplica
+das_a_gestao_publica.pdf
+
+Ministério do Planejamento, Orçamento e Gestão – SPI. Indicadores de Programas: Guia Metodológico.
+Disponível
+em:http://www.planejamento.gov.br/secretarias/upload/Arquivos/spi/publicacoes/100324_indicadores_p
+rogramas-guia_metodologico.pdf
+
+OLIVEIRA, Djalma de Pinho Rebouças de. Fundamentos da administração: conceitos e práticas essenciais.
+São Paulo, Atlas: 2009.
+
+RUA, Maria das Graças. Desmistificando o problema: uma rápida introdução ao estudo dos indicadores.
+Disponível em: http://antigo.enap.gov.br/downloads/ec43ea4fUFAM-MariadasGraEstudoIndicadores-
+novo.pdf
+
+SOBRAL, F., & PECI, A. Administração: teoria e prática no contexto brasileiro, 4ª edição. São Paulo,
+Pearson Prentice Hall: 2008.
+
+Tribunal de Contas da União (2000). Técnica de Auditoria: Indicadores de Desempenho e Mapa de
+Produtos.                                           Disponível                                   em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B017A0E4F54
+
+Tribunal de Contas da União (2011). Técnica de Indicadores de Desempenho para Auditorias. Disponível
+em:
+https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A158FE98EE0158FED65C6D4BFF
+
+        Receita Federal (Analista Tributário) Administração Geral                                     148
+        www.estrategiaconcursos.com.br                                                                149
+
+                                     
+
+
+---
+
+---

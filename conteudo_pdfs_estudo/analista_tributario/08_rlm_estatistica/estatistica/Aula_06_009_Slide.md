@@ -1,0 +1,405 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 06_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: ANÁLISE COMBINATÓRIA
+---
+
+# ANÁLISE COMBINATÓRIA
+
+ANÁLISE COMBINATÓRIA
+
+                 
+
+
+---
+
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+É possível que algumas questões de permutações imponham determinadas
+restrições.
+
+                          
+
+
+---
+
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+
+Pn–p = (n – p)!
+
+                   
+
+
+---
+
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+Vamos considerar que há 8 elementos distintos a serem ordenados,
+por exemplo, os algarismos {1, 2, 3, 4, 5, 6, 7, 8}. Suponha que o
+número 1 esteja fixo na primeira posição e o número 8, na oitava posição:
+
+                           
+
+
+---
+
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+De modo geral, havendo n elementos, dos quais p estejam
+designados a determinadas posições, mas sem indicar a posição
+especifica de cada um, fazemos a permutação de n–p elementos e
+multiplicamos pela permutação de p elementos:
+
+
+Pn–p x Pp = (n – p)! x p!
+
+                       
+
+
+---
+
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+Vamos considerar que há 8 elementos distintos a serem ordenados,
+por exemplo, os algarismos {1, 2, 3, 4, 5, 6, 7, 8}. Suponha que o
+número 1 e o número 8 estejam posicionados nos extremos.
+
+                         
+
+
+---
+
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+Vamos considerar que há 8 elementos distintos a serem ordenados,
+{1, 2, 3, 4, 5, 6, 7, 8}. vamos supor que os 3 primeiros algarismos
+tenham que ocupar as 3 primeiras posições, em qualquer ordem, e
+os demais algarismos nas demais posições:
+
+                         
+
+
+---
+
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+Vamos considerar que há 8 elementos distintos a serem ordenados,
+{1, 2, 3, 4, 5, 6, 7, 8}. Suponha que os algarismos ímpares tenham
+que ocupar posições ímpares e os algarismos pares, posições pares.
+
+                         
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ANÁLISE COMBINATÓRIA
+
+                 
+
+
+---
+
+FCC/2019 – ANALISTA JUDICIÁRIO DO TRF 3ª REGIÃO
+Em um concurso com 5 vagas, os candidatos aprovados serão alocados, cada
+um, em um dos municípios A, B, C, D ou E. O primeiro colocado foi
+designado para o município A. O número de possíveis alocações dos outros
+candidatos aprovados é:
+a) 30
+b) 4
+c) 120
+d) 24
+e) 6
+
+                           
+
+
+---
+
+CESPE 2018/BNB
+Em um navio, serão transportados 10 animais, todos de espécies diferentes.
+Antes de serem colocados no navio, os animais deverão ser organizados em
+uma fila. Entre esses 10 animais, há um camelo, um elefante e um leão.
+
+A respeito da organização dessa fila, julgue o item subsequente.
+
+Existem 8! maneiras distintas de organizar essa fila de forma que o camelo
+fique na primeira posição e o elefante fique na sexta posição.
+
+                             
+
+
+---
+
+CESPE 2018/BNB
+Em um navio, serão transportados 10 animais, todos de espécies diferentes.
+Antes de serem colocados no navio, os animais deverão ser organizados em
+uma fila. Entre esses 10 animais, há um camelo, um elefante e um leão.
+
+A respeito da organização dessa fila, julgue o item subsequente.
+
+Existem 3 × 7! maneiras distintas de organizar essa fila de forma que o
+elefante, o camelo e o leão fiquem nas três primeiras posições, não
+necessariamente nessa ordem.
+
+                             
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ANÁLISE COMBINATÓRIA
+
+                 
+
+
+---
+
+FCC/2019 – ANALISTA JUDICIÁRIO DO TRF 3ª REGIÃO
+ELEMENTOS JUNTOS
+
+
+De modo geral, havendo n elementos, dos quais j devam ficar juntos em
+determinada ordem, fazemos a permutação de n – j + 1 elementos:
+
+Pn–j+1 = (n – j + 1)!
+
+                           
+
+
+---
+
+FCC/2019 – ANALISTA JUDICIÁRIO DO TRF 3ª REGIÃO
+ELEMENTOS JUNTOS
+
+Vamos considerar que há 8 elementos distintos a serem ordenados, {1, 2, 3, 4,
+5, 6, 7, 8}. Se houvesse 3 elementos juntos em determinada ordem, {1, 2 e 3}
+
+                            
+
+
+---
+
+FCC/2019 – ANALISTA JUDICIÁRIO DO TRF 3ª REGIÃO
+ELEMENTOS JUNTOS
+
+De modo geral, havendo n elementos, dos quais j elementos devem ficar
+juntos em qualquer ordem, fazemos a permutação de n – j + 1 elementos
+e multiplicamos pela permutação de j elementos:
+
+Pn–j+1 = (n – j + 1)! x j!
+
+                             
+
+
+---
+
+FCC/2019 – ANALISTA JUDICIÁRIO DO TRF 3ª REGIÃO
+ELEMENTOS JUNTOS
+
+Vamos considerar que há 8 elementos distintos a serem ordenados, {1, 2, 3, 4,
+5, 6, 7, 8}. Se houvesse 3 elementos juntos {1, 2, 3} em qualquer ordem.
+
+                            
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ANÁLISE COMBINATÓRIA
+
+                 
+
+
+---
+
+FGV/2017 – PREFEITURA DE SALVADOR/BA
+Três casais vão ocupar seis cadeiras consecutivas de uma fila do cinema, e os
+casais não querem sentar separados. Assinale a opção que indica o número de
+maneiras diferentes em que esses três casais podem ocupar as seis cadeiras.
+a) 6.
+b) 12.
+c) 24.
+d) 36.
+e) 48.
+
+                            
+
+
+---
+
+CESPE 2018/BNB
+Em um navio, serão transportados 10 animais, todos de espécies diferentes.
+Antes de serem colocados no navio, os animais deverão ser organizados em
+uma fila. Entre esses 10 animais, há um camelo, um elefante e um leão.
+
+A respeito da organização dessa fila, julgue o item subsequente.
+
+Existem 7 × 7! maneiras distintas de organizar essa fila de forma que o
+elefante, o camelo e o leão estejam sempre juntos, mantendo-se a seguinte
+ordem: leão na frente do camelo e camelo na frente do elefante.
+
+                             
+
+
+---
+
+CESPE 2018/BNB
+A quantidade de números naturais distintos, de cinco algarismos, que se pode
+formar com os algarismos 1, 2, 3, 4 e 5, de modo que 1 e 2 fiquem sempre
+juntos e em qualquer ordem, é inferior a 25.
+
+                            
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ANÁLISE COMBINATÓRIA
+
+                 
+
+
+---
+
+PERMUTAÇÃO COM REPETIÇÃO
+De modo geral, sendo        elementos totais, com 𝟏, 𝟐,…, 𝒌 elementos
+distintos repetidos, a permutação desses elementos é dada por:
+
+                         
+
+
+---
+
+PERMUTAÇÃO COM REPETIÇÃO
+{A, A, B}
+
+                   
+
+
+---
+
+PERMUTAÇÃO COM REPETIÇÃO
+{A, A, B, B, B, C, D}.
+
+                         
+
+
+---
+
+PERMUTAÇÃO COM REPETIÇÃO
+BABA
+
+                   
+
+
+---
+
+PERMUTAÇÃO COM REPETIÇÃO
+BANANA
+
+                   
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ANÁLISE COMBINATÓRIA
+
+                 
+
+
+---
+
+VUNESP/2019 – PREFEITURA DE CERQUILHO/SP
+Com as letras, A, B e C, é possível fazer seis agrupamentos diferentes de três
+letras: ABC, ACB, BAC, BCA, CAB, CBA. Se as três letras fossem A, A e B, só
+poderiam ser feitos três desses agrupamentos diferentes: AAB, ABA, BAA.
+Com as letras F, F, G e G, o número de agrupamentos diferentes de quatro
+letras é:
+a) 6.
+b) 8.
+c) 10.
+d) 12.
+e) 16.
+
+                             
+
+
+---
+
+FGV/2018 – ALE-RO
+Assinale a opção que indica o número de permutações das letras da palavra
+SUSSURRO
+a) 1680
+b) 1560
+c) 1440
+d) 1320
+e) 1260
+
+                            
+
+
+---
+
+FCC/2015
+
+número de anagramas que podem ser obtidos utilizando as letras da palavra
+VITÓRIA, e que terminam com uma consoante é igual a:
+a) 2520
+b) 1080
+c) 840
+d) 5040
+e) 1980
+
+                           
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---

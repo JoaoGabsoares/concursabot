@@ -1,0 +1,835 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 17_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '17'
+titulo_aula: IMPROBIDADE ADMINISTRATIVA
+artigos_citados:
+- ART. 10
+- ART. 11
+- ART. 37
+- ART. 9º
+- art. 10
+- art. 11
+- art. 9º
+sumulas_citadas:
+- Súmula 651
+---
+
+# IMPROBIDADE ADMINISTRATIVA
+
+IMPROBIDADE ADMINISTRATIVA
+                                     ATOS DE IMPROBIDADE ADMINISTRATIVA
+
+•   ILÍCITO DE NATUREZA CIVIL E SANCIONATÓRIA.                                         ❑ Forma e gradação previstas em lei:
+
+
+•   PODERÁ SE MANIFESTAR POR AÇÕES OU OMISSÕES.                                           • Lei nº 8.429/92 – LIA;
+                                                                                          • Lei de caráter nacional;
+                                                                                          • Alcança a administração pública direta e
+•   BASE CONSTITUCIONAL - §4º DO ART. 37 DA CF.                                             indireta, de qualquer dos Poderes.
+
+
+                                                  ❑ Consequências:                        •   Suspensão dos direitos políticos;
+                                                                                          •   Perda da função pública;
+                                                                                          •   Indisponibilidade dos bens;
+•   NÃO SE CONFUNDE COM O PRINCÍPIO DA MORALIDADE.                                        •   Ressarcimento ao erário;
+                                                                                          •   Sem prejuízo da ação penal.
+
+•   PODE OU NÃO CONFIGURAR CRIME.
+                                                                                              ❑ Dolo específico;
+•   SOMENTE SE CONFIGURA ATO DE IMPROBIDADE A CONDUTA
+    DOLOSA.                                                                                   ❑ Atenção: Novidade.
+
+✔ Conduta CULPOSA jamais autoriza a responsabilidade por improbidade administrativa;
+✔ STJ: aplicando-se os princípios do Direito Administrativo Sancionador à Improbidade
+    Administrativa, aplica-se o princípio da retroatividade benéfica às novidades introduzidas
+    na Lei n° 8.429/92 pela Lei n° 14.230/2021.                                                                                   DIREITO ADMINISTRATIVO
+                                                                                                      ESTRATÉGIA
+
+
+---
+
+                                IMPROBIDADE ADMINISTRATIVA
+
+                ATOS DE IMPROBIDADE ADMINISTRATIVA - ELEMENTOS CONSTITUTIVOS:
+
+•   SUJEITO ATIVO;                                                        ❑ Administração direta e indireta;
+•   SUJEITO PASSIVO;
+                                                                          ❑ Entidade privada que receba subvenção, benefício ou incentivo,
+•   ESPÉCIES DE ATOS DE IMPROBIDADE;
+                                                                                 fiscal ou creditício, de entes públicos ou governamentais;
+•   ELEMENTO SUBJETIVO (DOLO ESPECÍFICO);
+                                                                          ❑ Entidade privada para cuja criação ou custeio o erário haja
+                              ❑ Agentes públicos;                                concorrido ou concorra no seu patrimônio ou receita atual, limitado
+•   SUJEITO ATIVO:            ❑ Terceiros;                                       o ressarcimento de prejuízos, nesse caso, à repercussão do ilícito
+                              ❑ Particular;                                      sobre a contribuição dos cofres públicos.
+
+
+•   SUJEITO PASSIVO:
+
+
+                                                 ❑ Importam enriquecimento ilícito (art. 9º);
+•   ESPÉCIES DE ATOS DE IMPROBIDADE:             ❑ Causam prejuízo ao erário (art. 10);
+                                                 ❑ Atentam contra os princípios da Administração Pública (art. 11).
+
+
+                                 ❑ Especial finalidade de agir;
+
+•   DOLO ESPECÍFICO:             ❑ Objetivo específico de obter o resultado ilícito tipificado na lei;
+                                 ❑ Não basta a simples voluntariedade do agente.
+                                                                                                                                    DIREITO ADMINISTRATIVO
+                                                                                                        ESTRATÉGIA
+
+
+---
+
+       ATOS DE IMPROBIDADE ADMINISTRATIVA – ELEMENTOS CONSTITUTIVOS
+AGENTES PÚBLICOS:                                        SUJEITO ATIVO:                                                       TERCEIROS:
+
+                          AGENTE POLÍTICO                                   ❑ INDUZ OU CONCORRE DOLOSAMENTE PARA A PRÁTICA DO ATO;
+  ❑Agente público em sentido amplo;
+                                                                            ❑ NÃO É AGENTE PÚBLICO;
+  ❑ STF e STJ:
+                                                                            ❑ NÃO PODE SER RESPONSABILIZADO ISOLADAMENTE:
+  •   Sujeito a duplo regime sancionatório;
+  •   Se submete tanto à responsabilização civil pelos atos                 •        SOMENTE RESPONDE JUNTO COM O AGENTE PÚBLICO.
+      de improbidade quanto à responsabilização político-
+      administrativa por crimes de responsabilidade.                        ❑ APLICAÇÃO DAS DISPOSIÇÕES DA LIA “NO QUE COUBER”.
+  ✔ Exceção – Presidente da República.
+                                                                            ❑ STJ: NÃO HÁ LITISCONSÓRCIO PASSIVO NECESSÁRIO ENTRE O
+  •   SERVIDOR PÚBLICO.                                                              AGENTE PÚBLICO E OS TERCEIROS BENEFICIADOS COM O ATO
+
+                                                                                     ÍMPROBO.
+      TODO AQUELE QUE EXERCER FUNÇÃO NAS ENTIDADES                               ❑ Vínculo de qualquer natureza;
+                  ABRANGIDAS PELA LIA
+                                                                                 •     Mandato;
+  ❑ Permanente ou transitória;
+                                                                                 •     Cargo;
+  ❑ Com ou sem remuneração;
+                                                                                 •     Emprego;
+  ❑ Qualquer forma de investidura:
+                                                                                 •     Função;
+  •   Eleição;
+  •   Nomeação;
+  •   Designação;
+  •   Contratação, etc.                                                                                                             DIREITO ADMINISTRATIVO
+                                                                                                        ESTRATÉGIA
+
+
+---
+
+           ATOS DE IMPROBIDADE ADMINISTRATIVA – ELEMENTOS CONSTITUTIVOS
+
+                                                                SUJEITO ATIVO:
+
+
+                                                                        PESSOA FÍSICA OU JURÍDICA QUE TENHA CELEBRADO PARCERIA COM O PODER
+                  PARTICULAR:                                                                          PÚBLICO
+
+                                                                  •     Convênio;
+                                                                  •     Contrato de repasse;
+                                                                  •     Contrato de gestão;
+                                                                  •     Termo de parceria;
+                                                                  •     Termo de cooperação;
+                                                                  •     Ajuste administrativo equivalente.
+
+
+    NÃO CABE A APLICAÇÃO DO “DUPLO REGIME SANCIONATÓRIO” PARA AS PESSOAS
+                                                                                                      •      Exceção:
+                                 JURÍDICAS.
+
+❑ Aplicação residual da LIA:
+•   Somente será aplicada se a Lei n° 12.846/2013 (Lei Anticorrupção) não se aplicar                  ✔ Participação e benefícios diretos;
+    para o mesmo fato;                                                                                ✔ Responderão nos limites da sua
+•   Princípio constitucional do non bis in idem.                                                          participação.
+❑ Sócios, cotistas, diretores e colaboradores:
+•   Regra: Não respondem.
+                                                                                                                                     DIREITO ADMINISTRATIVO
+                                                                                                         ESTRATÉGIA
+
+
+---
+
+                          ATOS DE IMPROBIDADE ADMINISTRATIVA
+                          RESPONSABILIDADE DO SUCESSOR OU HERDEIRO
+
+                            LIMITADA AOS EFEITOS PATRIMONIAIS DO ATO DE IMPROBIDADE
+
+           •   Causa dano ao erário;
+           •   Enriquecimento ilícito.
+
+           ❑ RESPONDE APENAS PELA REPARAÇÃO INTEGRAL DO DANO;
+
+           ❑ ATÉ O LIMITE DO VALOR DA HERANÇA OU DO PATRIMÔNIO TRANSFERIDO;
+
+           ❑ NÃO SE SUJEITA AS DEMAIS SANÇÕES PREVISTAS NA LIA.
+
+                                     RESPONSABILIDADE SUCESSÓRIA
+
+❑ LIMITADA A OBRIGAÇÃO DE REPARAR O DANO;                                               FUSÃO E INCORPORAÇÃO
+
+❑ ATÉ O LIMITE DO PATRIMÔNIO TRANSFERIDO;
+                                                                                   No caso de simulação ou fraude a
+                                                                                   responsabilidade não se limita ao
+                                         •   Alteração contratual;
+                                                                                   patrimônio transferido. a sucessora
+                                                                                   responderá também pelas sanções.
+                                         •   Transformação;
+
+❑ APLICA-SE TAMBÉM:                      •   Incorporação;
+
+                                         •   Fusão;
+
+                                         •   Cisão societária.                                             DIREITO ADMINISTRATIVO
+                                                                               ESTRATÉGIA
+
+
+---
+
+    ATOS DE IMPROBIDADE ADMINISTRATIVA – ELEMENTOS CONSTITUTIVOS
+
+                                                SUJEITO PASSIVO:
+
+
+❑ VÍTIMA DO ATO DE IMPROBIDADE ADMINISTRATIVA;
+
+
+❑ MEDIATO: SOCIEDADE;
+
+         IMEDIATO: SÃO AS ENTIDADES CONTRA AS QUAIS OS ATOS DE IMPROBIDADE ADMINISTRATIVA PODEM SER PRATICADOS:
+
+•   Administração direta e indireta;
+
+•   Entidade privada que receba subvenção, benefício ou incentivo, fiscal ou creditício, de entes públicos ou governamentais;
+
+•   Entidade privada para cuja criação ou custeio o erário haja concorrido ou concorra no seu patrimônio ou receita atual, limitado
+    o ressarcimento de prejuízos, nesse caso, à repercussão do ilícito sobre a contribuição dos cofres públicos.
+
+                                   SUJEITO PASSIVO X LEGITIMIDADE ATIVA
+
+
+❑ LEGITIMIDADE ATIVA: LEGITIMADO ATIVO PARA PROPOR A AÇÃO JUDICIAL.
+                                                                                                                        DIREITO ADMINISTRATIVO
+                                                                                            ESTRATÉGIA
+
+
+---
+
+ESPÉCIES DE ATOS DE IMPROBIDADE:                                           ATOS DE IMPROBIDADE ADMINISTRATIVA –
+IMPORTAM ENRIQUECIMENTO ILÍCITO (ART. 9º);                                       ELEMENTOS CONSTITUTIVOS
+    ❑ ROL EXEMPLIFICATIVO;
+    ❑ AUFERIR QUALQUER TIPO DE VANTAGEM PATRIMONIAL INDEVIDA, MEDIANTE CONDUTA DOLOSA, EM RAZÃO DO EXERCÍCIO DA FUNÇÃO PÚBLICA.
+
+                                                                               CONDUTAS:
+    ❑ Perceber vantagem patrimonial indevida (para):
+    •   De quem tenha interesse em suas ações ou omissões;
+    •   Facilitar contratação por preço superior ao valor de mercado;
+    •   Facilitar a alienação de bem público ou o fornecimento de serviço por ente estatal por preço inferior ao valor de mercado;
+    •   Tolerar qualquer atividade ilícita, ou aceitar promessa de tal vantagem;
+    •   Fazer declaração falsa sobre qualquer dado técnico que envolva obras públicas ou serviços ou sobre medidas ou características de
+        mercadorias ou bens fornecidos;
+    •   Intermediar a liberação ou aplicação de verba pública de qualquer natureza;
+    •   Omitir ato de ofício, providência ou declaração a que esteja obrigado;
+
+        •   Utilizar em obra ou serviço particular bem móvel, servidores, empregados ou terceiros de propriedade, à disposição ou contratados
+            por entidades sujeitas à LIA.
+        •   Adquirir bens de qualquer natureza cujo valor seja desproporcional à            ✔ No exercício da função pública ou em razão dela;
+            evolução do patrimônio ou à renda do agente público:                            ✔ Admite prova da licitude.
+        •   Aceitar emprego, comissão ou exercer atividade de consultoria ou assessoramento para pessoa física ou jurídica com interesse em
+            suas ações ou omissões;
+        •   Incorporar ao seu patrimônio bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades sujeitas à LIA
+
+        •   Usar, em proveito próprio, bens, rendas, verbas ou valores integrantes do acervo patrimonial das
+            entidades sujeitas à LIA                                                                                          DIREITO ADMINISTRATIVO
+                                                                                                  ESTRATÉGIA
+
+
+---
+
+    ATOS DE IMPROBIDADE ADMINISTRATIVA – ELEMENTOS CONSTITUTIVOS
+CAUSAM PREJUÍZO AO ERÁRIO (ART. 10);                                                ESPÉCIES DE ATOS DE IMPROBIDADE:
+
+❑ ROL EXEMPLIFICATIVO;
+
+
+❑ AÇÃO OU OMISSÃO DOLOSA QUE ENSEJA PERDA PATRIMONIAL, DESVIO, APROPRIAÇÃO, MALBARATAMENTO OU DILAPIDAÇÃO DOS
+  BENS OU HAVERES DAS ENTIDADES PROTEGIDAS PELA LIA;
+
+
+❑ NÃO HÁ NECESSIDADE DE ENRIQUECIMENTO DO AGENTE PÚBLICO;
+
+
+❑ ATENÇÃO – NÃO SE ADMITE MAIS CONDUTA CULPOSA.
+
+
+                                  EXIGE QUE A LESÃO AO ERÁRIO SEJA EFETIVA E COMPROVADA
+•   Não há mais o dano presumido.
+
+
+                                                               CONDUTAS:
+•   Aluno deve ler na íntegra o art. 10
+
+•   OBS: A conduta de conceder, aplicar ou manter benefício financeiro ou tributário contrário à LC 116 – Lei do ISS – não é
+    mais categoria autônoma de ato de improbidade. Passou a ser ato de impropriedade que causa lesão ao erário.
+
+
+      MERA PERDA PATRIMONIAL DECORRENTE DA ATIVIDADE ECONÔMICA NÃO ACARRETARÁ IMPROBIDADE
+                                        ADMINISTRATIVA:
+
+•   Salvo se comprovado ato doloso praticado com essa finalidade.                                                      DIREITO ADMINISTRATIVO
+                                                                                           ESTRATÉGIA
+
+
+---
+
+    ATOS DE IMPROBIDADE ADMINISTRATIVA – ELEMENTOS CONSTITUTIVOS
+
+                                        ESPÉCIES DE ATOS DE IMPROBIDADE:
+
+ATENTAM CONTRA OS PRINCÍPIOS DA
+ADMINISTRAÇÃO PÚBLICA (ART. 11).
+
+❑ ÚNICO ROL TAXATIVO (NOVIDADE);
+
+❑ AÇÃO OU OMISSÃO DOLOSA QUE VIOLE OS DEVERES DE HONESTIDADE, DE IMPARCIALIDADE E DE LEGALIDADE;
+
+❑ INDEPENDE DA OCORRÊNCIA DE DANO AO PATRIMÔNIO PÚBLICO OU DE ENRIQUECIMENTO ILÍCITO DO AGENTE;
+
+                                                               REQUISITOS:
+
+❑ Conduta funcional para obter benefício indevido próprio ou de terceiros;
+❑ Dolo específico;
+❑ Demonstração objetiva da prática de ilegalidade;
+❑ Indicação das normas constitucionais, legais ou infralegais violadas;
+❑ Lesividade relevante;
+•    Princípio da insignificância.
+
+                                               CONDUTAS:
+•    Aluno deve ler na íntegra o art. 11;
+
+•    OBS: foram inseridas duas novas condutas: inc. XI (nepotismo) e XII (promoção pessoal).       DIREITO ADMINISTRATIVO
+                                                                       ESTRATÉGIA
+
+
+---
+
+                             ATOS DE IMPROBIDADE ADMINISTRATIVA
+
+                                TEORIA DA CEGUEIRA DELIBERADA OU TEORIA
+                                             DO AVESTRUZ
+
+
+• ORIGINÁRIA DA SUPREMA CORTE DOS ESTADOS UNIDOS;
+
+
+• OBJETIVA PUNIR AGENTES QUE, DE MODO VOLUNTÁRIO, SIMULAM OU DISFARÇAM O DESCONHECIMENTO DA PRÁTICA
+  DE ILÍCITOS ADMINISTRATIVOS.
+
+
+              ❑ IGNORÂNCIA PROVOCADA;
+
+              ❑ EQUIVALENTE AO DOLO EVENTUAL OU, ATÉ MESMO, À CULPA CONSCIENTE;
+
+
+• TEORIA FOI UTILIZADA EM UM JULGADO DO TJ/SP:
+
+              ❑ (TJSP; APELAÇÃO CÍVEL 0009252-56.2010.8.26.0073).
+
+
+• ENTRETANTO, A PARTIR DAS NOVAS EXIGÊNCIAS INTRODUZIDAS PELA LEI N. 14.230/2021, SOMENTE ADMITINDO A
+  CONFIGURAÇÃO DA IMPROBIDADE QUANDO HOUVER A PRESENÇA DE DOLO ESPECÍFICO, DIFICILMENTE ESSA TEORIA
+
+  PODERÁ SER SUSTENTADA, À LUZ DOS NOVOS PARADIGMAS LEGAIS.
+
+
+                                                                                                        DIREITO ADMINISTRATIVO
+                                                                            ESTRATÉGIA
+
+
+---
+
+                      ATOS DE IMPROBIDADE ADMINISTRATIVA – SANÇÕES
+                                                                 SANÇÕES
+• APLICADAS PELO PODER JUDICIÁRIO, EM AÇÃO JUDICIAL
+
+• INDEPENDE DA:
+
+                                     EFETIVA OCORRÊNCIA DE DANO AO PATRIMÔNIO PÚBLICO:
+
+              ❑ Salvo quanto:
+              •   À pena de ressarcimento; e
+              •   Às condutas que causam lesão ao erário (art. 10);
+
+              ❑ APROVAÇÃO OU REJEIÇÃO DAS CONTAS.
+
+• ESPÉCIES:
+
+              ❑ PERDA DOS BENS E VALORES ACRESCIDOS ILICITAMENTE.
+
+                                               PERDA DA FUNÇÃO PÚBLICA
+
+              ❑ Alcance - Regra: Vínculo de mesma qualidade e natureza (recentemente suspensa pelo
+                STF – ADI 7236).
+              •   Exceção:
+                  ✔ Estender aos demais vínculos ;
+                  ✔ Caso enriquecimento ilícito (somente nesse caso);
+                  ✔ Caráter excepcional;
+                  ✔ Circunstâncias do caso;
+                                                                                                     DIREITO ADMINISTRATIVO
+                  ✔ Gravidade da infração;                               ESTRATÉGIA
+
+
+---
+
+                      ATOS DE IMPROBIDADE ADMINISTRATIVA – SANÇÕES
+                                                                                       SANÇÕES
+
+• ESPÉCIES:
+
+                                               SUSPENSÃO DOS DIREITOS POLÍTICOS:
+
+              ❑ Contagem de Tempo Retroativo (recentemente suspensa pelo STF – ADI 7236):
+              •   Computar-se-á retroativamente o intervalo de tempo entre a decisão colegiada e o trânsito em julgado
+                  da sentença condenatória.
+
+                                                                 MULTA CIVIL:
+
+              ❑ Pode Ser Aumentada Até o Dobro:
+              •   Situação econômica do réu;
+              •   Valor ineficaz para reprovação e prevenção do ato de improbidade.
+
+                                       PROIBIÇÃO DE CONTRATAR E RECEBER BENEFÍCIOS
+
+              ❑ Alcance - Regra: Esfera do Ente Federativo Lesado.
+              •   Exceção: Extrapolar o Ente Lesado.
+                  ✔ Caráter excepcional;
+                  ✔ Motivos relevantes devidamente justificados;
+                  ✔ Observar impactos econômicos e sociais (preservar a função social da pessoa jurídica).
+
+              ❑ Deverá constar do Cadastro Nacional de Empresas
+                Inidôneas e Suspensas (CEIS).                                                                            DIREITO ADMINISTRATIVO
+                                                                                             ESTRATÉGIA
+
+
+---
+
+                       ATOS DE IMPROBIDADE ADMINISTRATIVA – SANÇÕES
+                                                              SANÇÕES
+
+❑ APLICADAS DE FORMA ISOLADA OU CUMULATIVAMENTE, CONFORME A GRAVIDADE DO             •   Sanção limitar-se-á à aplicação de multa;
+  FATO;
+                                                                                     •   Sem prejuízo do ressarcimento do dano e
+❑ QUALQUER SANÇÃO SOMENTE SERÁ EXECUTADA APÓS O TRÂNSITO EM JULGADO;                     da perda dos valores obtidos;
+❑ ATOS DE MENOR OFENSA:
+                                            RESSARCIMENTO AO ERÁRIO
+
+❑ NÃO É MAIS PREVISTO COMO SANÇÃO;
+❑ TRATA-SE, NA VERDADE, DE OBRIGAÇÃO CIVIL DE REPARAÇÃO DO PREJUÍZO;
+❑ OCORRERÁ SEMPRE QUE HOUVER DANO PATRIMONIAL EFETIVO;
+❑ NÃO AFASTA A APLICAÇÃO DAS PENALIDADES.
+
+
+                                 AFASTAMENTO PREVENTIVO DO AGENTE PÚBLICO
+
+❑ AFASTAMENTO DO EXERCÍCIO DO CARGO, EMPREGO OU FUNÇÃO;
+                                                                                     •   Instrução processual;
+❑ SEM PREJUÍZO DA REMUNERAÇÃO;
+                                                                                     •   Evitar a iminente prática de novos ilícitos.
+❑ QUANDO NECESSÁRIO PARA:
+
+❑ NÃO É UMA SANÇÃO;
+                                                                                     •   Prorrogáveis uma única vez por igual
+❑ É MEDIDA CAUTELAR;
+                                                                                         prazo, mediante decisão motivada.
+❑ PERÍODO DE ATÉ 90 (NOVENTA) DIAS:
+
+❑ COMPETÊNCIA – AUTORIDADE JUDICIAL.                                                                                 DIREITO ADMINISTRATIVO
+                                                                                         ESTRATÉGIA
+
+
+---
+
+                           ATOS DE IMPROBIDADE ADMINISTRATIVA – SANÇÕES
+                                             SANÇÕES CABÍVEIS PARA CADA ESPÉCIE DE ATO DE IMPROBIDADE:
+• IMPORTAM EM ENRIQUECIMENTO ILÍCITO.
+
+     ❑ PERDA DOS BENS E VALORES;
+     ❑ PERDA DA FUNÇÃO PÚBLICA;
+
+     ❑ SUSPENSÃO DOS DIREITOS POLÍTICOS:                                                                       •     Até 14 Anos.
+
+     ❑ MULTA CIVIL:                                                          •   Equivalente ao valor do acréscimo patrimonial.
+
+     ❑ PROIBIÇÃO DE CONTRATAR E RECEBER BENEFÍCIOS:                                        •   Pelo prazo não superior a 14 (catorze) anos.
+
+• CAUSAM PREJUÍZO AO ERÁRIO.
+
+     ❑ PERDA DOS BENS E VALORES – SE HOUVER;
+     ❑ PERDA DA FUNÇÃO PÚBLICA;
+
+     ❑ SUSPENSÃO DOS DIREITOS POLÍTICOS:                                                                   •       Até 12 Anos.
+
+     ❑ MULTA CIVIL:                                                          •   Equivalente ao valor do dano.
+
+     ❑ PROIBIÇÃO DE CONTRATAR E RECEBER BENEFÍCIOS:                                        •   Pelo prazo não superior a 12 (doze) anos.
+
+• ATENTAM CONTRA OS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA
+
+     ❑ MULTA CIVIL:                    •   De até 24 vezes o valor da remuneração percebida pelo agente.
+
+     ❑ PROIBIÇÃO      DE   CONTRATAR   E    RECEBER                      •       Pelo prazo não superior a 4 (quatro) anos.                   DIREITO ADMINISTRATIVO
+                                                                                                                  ESTRATÉGIA
+
+
+---
+
+                  ATOS DE IMPROBIDADE ADMINISTRATIVA – SANÇÕES
+
+
+                               INDEPENDÊNCIAS DAS INSTÂNCIAS E NON BIS IDEM
+
+
+❑ AS SANÇÕES POR IMPROBIDADE SERÃO APLICADAS INDEPENDENTEMENTE DAS SANÇÕES PENAIS COMUNS E DE RESPONSABILIDADE, CIVIS E
+  ADMINISTRATIVAS.
+
+❑ EXCEÇÕES:
+
+
+❑ Punição de PESSOAS JURÍDICAS com base na Lei Anticorrupção:
+•   Princípio constitucional do non bis in idem;
+•   Ato punível com base nas duas leis, aplica-se somente a Lei Anticorrupção.
+❑ Absolvição civil e penal e sanções aplicadas nas demais instâncias:
+•   Inexistência da conduta; ou
+•   Negativa da autoria.
+❑ Absolvição criminal, confirmada por decisão colegiada impede o trâmite da ação de improbidade (recentemente suspensa
+  pelo STF – ADI 7236);
+❑ Compensação do ressarcimento ao erário e de outras sanções;
+❑ Recursos dos partidos políticos:
+•   Responsabilizados nos termos da Lei n° 9.096/1995.
+
+                                                                                                          DIREITO ADMINISTRATIVO
+                                                                              ESTRATÉGIA
+
+
+---
+
+                   ATOS DE IMPROBIDADE ADMINISTRATIVA – SANÇÕES
+
+
+                                    PERDA DA FUNÇÃO PÚBLICA X DEMISSÃO
+
+                             ❑ PERDA DA FUNÇÃO PÚBLICA:
+
+
+                             •   Sanção judicial em virtude do ato de improbidade;
+                             •   Somente se efetiva com o trânsito em julgado;
+
+❑ DEMISSÃO:
+
+
+•   Penalidade administrativa;
+
+•   Aplicada em virtude de infrações funcionais do servidor, mediante processo administrativo disciplinar;
+
+•   Poderá produzir os efeitos, ainda que pendente a análise de recurso;
+
+•   STJ: Súmula 651 - Compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de
+    improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública.
+
+
+                                                                                                                       DIREITO ADMINISTRATIVO
+                                                                                           ESTRATÉGIA
+
+
+---
+
+                       AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+                                  PROCEDIMENTO ADMINISTRATIVO
+
+• OBJETIVO DE APURAR OS FATOS E DE PRODUZIR PROVAS.
+
+                                 ❑ É FACULTADO A QUALQUER PESSOA REPRESENTAR;
+
+• REPRESENTAÇÃO:                 ❑ PARA AUTORIDADE ADMINISTRATIVA:
+
+                                 •   Sem prejuízo de representar ao MP.
+
+                                                                               •   Escrita ou reduzida a termo e assinada;
+                                 ❑ REQUISITOS:
+                                                                               •   Contendo:
+
+                                 ❑ Qualificação do representante; (identificação):
+                                 •   Denúncia anônima – Vedada;
+                                 •   STF e STJ: Permite a instauração de procedimento investigativos
+                                     preliminares, de caráter reservado, para comprovar a veracidade
+                                     das provas. Poder-dever de apuração.
+
+                                 •   Informações sobre o fato e sua autoria; e
+                                 •   Indicação das provas de que tenha conhecimento.
+
+                 ❑ APURAÇÃO VINCULADA (CASO OS REQUISITOS SEJAM ATENDIDOS).
+
+                 •   Não atendido: Representação rejeitada.                                                                  DIREITO ADMINISTRATIVO
+                                                                                                 ESTRATÉGIA
+
+
+---
+
+                  AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+
+                             APURAÇÃO REALIZADA PELO MP
+
+• APURAR QUALQUER ILÍCITO PREVISTO NA LIA;
+
+
+• POR MEIO DE INQUÉRITO CIVIL OU PROCEDIMENTO INVESTIGATIVO ASSEMELHADO;
+
+
+• REQUISITAR A INSTAURAÇÃO DE INQUÉRITO POLICIAL;
+
+
+                               ❑ De ofício;
+
+
+• PODE OCORRER:                ❑ A requerimento de autoridade administrativa; ou
+
+
+                               ❑ Mediante representação (apresentada por qualquer pessoa).
+
+• GARANTIDO AO INVESTIGADO A OPORTUNIDADE DE MANIFESTAÇÃO POR ESCRITO E DE JUNTADA DE
+  DOCUMENTOS QUE COMPROVEM SUAS ALEGAÇÕES E AUXILIEM NA ELUCIDAÇÃO DOS FATOS.
+
+
+                                                                                             DIREITO ADMINISTRATIVO
+                                                                 ESTRATÉGIA
+
+
+---
+
+                            AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+                                             AÇÃO DE IMPROBIDADE
+
+
+❑ LEGITIMIDADE ATIVA:                                              •     ATENÇÃO: Novidade da Lei n° 14.230/2021.
+
+• Reestabeleceu a existência de legitimidade ativa concorrente e disjuntiva                  ❑ Somente o Ministério Público;
+  entre o Ministério Público e as pessoas jurídicas interessadas para a                      ❑ A Lei excluiu a legitimidade da pessoa
+  propositura da ação por ato de improbidade administrativa e para a                           jurídica interessada;
+
+  celebração de acordos de não persecução civil.                                             ❑ STF - Inconstitucionalidade.
+
+❑ PROCEDIMENTO COMUM (CPC + LIA)
+❑ FORO: LOCAL ONDE OCORRER O DANO OU DA PESSOA JURÍDICA PREJUDICADA (NÃO HÁ FORO POR PRERROGATIVA DE
+  FUNÇÃO);
+
+❑ NATUREZA: REPRESSIVA, DE CARÁTER SANCIONATÓRIO, DESTINADA À APLICAÇÃO DE SANÇÕES DE CARÁTER PESSOAL;
+❑ NÃO É AÇÃO CIVIL / NÃO CONSTITUI INSTRUMENTO PARA CONTROLE DE LEGALIDADE DE POLÍTICAS PÚBLICAS;
+❑ NÃO HÁ REMESSA NECESSÁRIA (DUPLO GRAU);
+❑ REVELIA: NÃO É CONFISSÃO;
+❑ É PERMITIDO ACORDO DE NÃO PERSECUÇÃO CIVIL.
+                                                                                                                              DIREITO ADMINISTRATIVO
+                                                                                                  ESTRATÉGIA
+
+
+---
+
+                        AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+                                                PRESCRIÇÃO
+
+❑ 8 ANOS, A CONTAR DO FATO;
+
+❑ SUSPENSÃO:                        •   Instauração do inquérito civil ou processo administrativo, por até 180 dias.
+
+
+                                    •   Ajuizamento da ação;
+
+                                    •   Sentença condenatória;
+
+❑ INTERRUPÇÃO:                      •   Decisão de TJ ou TRF;
+
+                                    •   Decisão do STJ;
+
+                                    •   Decisão do STF.
+
+❑ APÓS A INTERRUPÇÃO, VOLTA A CORRER PELA METADE DO PRAZO (4 ANOS): PRESCRIÇÃO INTERCORRENTE;
+
+
+❑ PRAZO DE INQUÉRITO: 365 DIAS + 1X POR IGUAL PERÍODO;
+
+
+❑ AÇÃO DE RESSARCIMENTO DECORRENTE DE ATO DOLOSO DE IMPROBIDADE: IMPRESCRITÍVEL (STF).
+
+                                                                                                            DIREITO ADMINISTRATIVO
+                                                                                ESTRATÉGIA
+
+
+---
+
+                   ATOS DE IMPROBIDADE ADMINISTRATIVA – SANÇÕES
+
+
+                                    PERDA DA FUNÇÃO PÚBLICA X DEMISSÃO
+
+                             ❑ PERDA DA FUNÇÃO PÚBLICA:
+
+
+                             •   Sanção judicial em virtude do ato de improbidade;
+                             •   Somente se efetiva com o trânsito em julgado;
+
+❑ DEMISSÃO:
+
+
+•   Penalidade administrativa;
+
+•   Aplicada em virtude de infrações funcionais do servidor, mediante processo administrativo disciplinar;
+
+•   Poderá produzir os efeitos, ainda que pendente a análise de recurso;
+
+•   STJ: Súmula 651 - Compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de
+    improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública.
+
+
+                                                                                                                       DIREITO ADMINISTRATIVO
+                                                                                           ESTRATÉGIA
+
+
+---
+
+                       AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+                                  PROCEDIMENTO ADMINISTRATIVO
+
+• OBJETIVO DE APURAR OS FATOS E DE PRODUZIR PROVAS.
+
+                                 ❑ É FACULTADO A QUALQUER PESSOA REPRESENTAR;
+
+• REPRESENTAÇÃO:                 ❑ PARA AUTORIDADE ADMINISTRATIVA:
+
+                                 •   Sem prejuízo de representar ao MP.
+
+                                                                               •   Escrita ou reduzida a termo e assinada;
+                                 ❑ REQUISITOS:
+                                                                               •   Contendo:
+
+                                 ❑ Qualificação do representante; (identificação):
+                                 •   Denúncia anônima – Vedada;
+                                 •   STF e STJ: Permite a instauração de procedimento investigativos
+                                     preliminares, de caráter reservado, para comprovar a veracidade
+                                     das provas. Poder-dever de apuração.
+
+                                 •   Informações sobre o fato e sua autoria; e
+                                 •   Indicação das provas de que tenha conhecimento.
+
+                 ❑ APURAÇÃO VINCULADA (CASO OS REQUISITOS SEJAM ATENDIDOS).
+
+                 •   Não atendido: Representação rejeitada.                                                                  DIREITO ADMINISTRATIVO
+                                                                                                 ESTRATÉGIA
+
+
+---
+
+                  AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+
+                             APURAÇÃO REALIZADA PELO MP
+
+• APURAR QUALQUER ILÍCITO PREVISTO NA LIA;
+
+
+• POR MEIO DE INQUÉRITO CIVIL OU PROCEDIMENTO INVESTIGATIVO ASSEMELHADO;
+
+
+• REQUISITAR A INSTAURAÇÃO DE INQUÉRITO POLICIAL;
+
+
+                               ❑ De ofício;
+
+
+• PODE OCORRER:                ❑ A requerimento de autoridade administrativa; ou
+
+
+                               ❑ Mediante representação (apresentada por qualquer pessoa).
+
+• GARANTIDO AO INVESTIGADO A OPORTUNIDADE DE MANIFESTAÇÃO POR ESCRITO E DE JUNTADA DE
+  DOCUMENTOS QUE COMPROVEM SUAS ALEGAÇÕES E AUXILIEM NA ELUCIDAÇÃO DOS FATOS.
+
+
+                                                                                             DIREITO ADMINISTRATIVO
+                                                                 ESTRATÉGIA
+
+
+---
+
+                            AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+                                             AÇÃO DE IMPROBIDADE
+
+
+❑ LEGITIMIDADE ATIVA:                                              •     ATENÇÃO: Novidade da Lei n° 14.230/2021.
+
+• Reestabeleceu a existência de legitimidade ativa concorrente e disjuntiva                  ❑ Somente o Ministério Público;
+  entre o Ministério Público e as pessoas jurídicas interessadas para a                      ❑ A Lei excluiu a legitimidade da pessoa
+  propositura da ação por ato de improbidade administrativa e para a                           jurídica interessada;
+
+  celebração de acordos de não persecução civil.                                             ❑ STF - Inconstitucionalidade.
+
+❑ PROCEDIMENTO COMUM (CPC + LIA)
+❑ FORO: LOCAL ONDE OCORRER O DANO OU DA PESSOA JURÍDICA PREJUDICADA (NÃO HÁ FORO POR PRERROGATIVA DE
+  FUNÇÃO);
+
+❑ NATUREZA: REPRESSIVA, DE CARÁTER SANCIONATÓRIO, DESTINADA À APLICAÇÃO DE SANÇÕES DE CARÁTER PESSOAL;
+❑ NÃO É AÇÃO CIVIL / NÃO CONSTITUI INSTRUMENTO PARA CONTROLE DE LEGALIDADE DE POLÍTICAS PÚBLICAS;
+❑ NÃO HÁ REMESSA NECESSÁRIA (DUPLO GRAU);
+❑ REVELIA: NÃO É CONFISSÃO;
+❑ É PERMITIDO ACORDO DE NÃO PERSECUÇÃO CIVIL.
+                                                                                                                              DIREITO ADMINISTRATIVO
+                                                                                                  ESTRATÉGIA
+
+
+---
+
+                        AÇÃO DE IMPROBIDADE ADMINISTRATIVA
+
+                                                PRESCRIÇÃO
+
+❑ 8 ANOS, A CONTAR DO FATO;
+
+❑ SUSPENSÃO:                        •   Instauração do inquérito civil ou processo administrativo, por até 180 dias.
+
+
+                                    •   Ajuizamento da ação;
+
+                                    •   Sentença condenatória;
+
+❑ INTERRUPÇÃO:                      •   Decisão de TJ ou TRF;
+
+                                    •   Decisão do STJ;
+
+                                    •   Decisão do STF.
+
+❑ APÓS A INTERRUPÇÃO, VOLTA A CORRER PELA METADE DO PRAZO (4 ANOS): PRESCRIÇÃO INTERCORRENTE;
+
+
+❑ PRAZO DE INQUÉRITO: 365 DIAS + 1X POR IGUAL PERÍODO;
+
+
+❑ AÇÃO DE RESSARCIMENTO DECORRENTE DE ATO DOLOSO DE IMPROBIDADE: IMPRESCRITÍVEL (STF).
+
+                                                                                                            DIREITO ADMINISTRATIVO
+                                                                                ESTRATÉGIA
+
+
+---

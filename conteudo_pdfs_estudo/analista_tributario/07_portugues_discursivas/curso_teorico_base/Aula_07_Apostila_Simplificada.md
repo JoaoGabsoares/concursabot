@@ -1,0 +1,1713 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 07_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Língua Portuguesa
+---
+
+# Língua Portuguesa
+
+Aula 06
+                          Receita Federal (Analista Tributário)
+                                              Língua Portuguesa
+
+                                                            Autor:
+                                     Equipe Português Estratégia
+                                       Concursos, Felipe Luccas
+
+
+                                                07 de Julho de 2025
+
+---
+
+      Equipe Português Estratégia Concursos, Felipe Luccas
+      Aula 06
+
+                                                                                     Índice
+1) Noções Iniciais de Formação de Palavras
+
+
+2) Processos de formação de palavras
+
+
+3) Radicais e Afixos
+
+
+4) Quadro de Desinências
+
+
+5) Questões Comentadas - Formação de Palavras - FGV
+
+
+6) Questões Comentadas - Radicais e Afixos - FGV
+
+
+7) Lista de Questões - Formação de Palavras - FGV
+
+
+8) Lista de Questões - Radicais e Afixos - FGV
+
+                Receita Federal (Analista Tributário) Língua Portuguesa                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           40
+
+                                                             
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                           NOÇÕES INICIAIS
+Olá, pessoal! Tudo bem?
+Vamos estudar um aspecto bem interessante da língua portuguesa: o processo de formação de
+palavras. Vamos conhecer o que são os afixos (prefixos e sufixos) e como acontece o processo
+que ocorre para a ampliação do vocabulário existente em nossa língua.
+Muitas vezes, autores de literatura (e de outros tipos de texto) utilizam esses processos já
+consagrados para criar novas expressões - os chamados neologismos. Alguns desses
+neologismos passam a fazer parte do nosso cotidiano e, com o tempo, são incluídos em
+dicionários como parte integrante do nosso idioma.
+
+
+A língua portuguesa inclui mais de 380.000 palavras dicionarizadas, sem incluir os milhares de
+                                                       ==219a34==
+
+palavras que usamos que ainda não foram “acolhidas” no vocabulário oficial.
+Vamos supor que uma pessoa domine o significado de 20.000 palavras. Seguramente, podemos
+dizer que ela não aprendeu as 20.000 isoladamente como unidades diferentes. A maior parte
+delas é derivada de outras ou formada por algum tipo de fusão com outras já conhecidas.
+A partir do verbo “fazer”, teremos uma conjugação inteira, com muitas formas: fiz, farei, faria,
+farão, o fazer, feito, desfeito, feitura, fazimento...
+Se tomarmos como ponto inicial um substantivo, por exemplo, “pedra”, construiremos com ele
+diversas outras palavras: pedrinha, pedregulho, pedreiro, petrificar, empedrado, apedrejar,
+petrificação...
+Enfim, as palavras são formadas da união de “pedaços”, que têm nomes específicos (radicais,
+afixos, desinências) que e se unem em processos específicos (composição, derivação, hibridismo),
+mas essencialmente são partes que serão unidas a palavras primitivas para formar outras
+unidades.
+
+
+Esse assunto também é cobrado em muitos concursos, daí sua importância e a necessidade de
+conhecimento dessa área.
+Então, vamos riscar mais um item do edital e estudar o processo de formação de palavras.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               3
+        www.estrategiaconcursos.com.br                                                        40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                     PROCESSOS DE FORMAÇÃO DE PALAVRAS
+Como as palavras são formadas da união de “pedaços”, que têm nomes específicos (radicais,
+afixos, desinências) que e se unem em processos específicos (composição, derivação, hibridismo),
+estudaremos neste tópicos os "pedaços" e os processos que dão origem às palavras em Língua
+Portuguesa.
+
+Radical
+O radical ou semantema é o “pedaço” da palavra que traz seu sentido principal, original,
+primitivo, em outras palavras, é a “base” indivisível da palavra, da qual diversas outras poderão
+se derivar.
+Retomando nosso exemplo acima, temos que o radical é “pedr”
+            pedrinha, pedregulho, pedreiro, petrificar, empedrado, apedrejar, petrificação...
+Observe que não conseguimos “decompor” esse radical: a-pedr-e-jar
+Essa família de palavras que dividem o mesmo radical são chamadas de termos cognatos.
+Obs. Na palavra “petrificação”, temos um fenômeno chamado “alomorfia”, isto é, uma mudança
+morfológica no radical (petr em vez de pedr) para permitir uma melhor pronúncia da palavra.
+Em linguagem mais técnica, cada “pedacinho” deste que traz um sentido próprio é chamado de
+“morfema”. O radical é chamado de “morfema lexical”.
+No final da aula, há um anexo com os principais radicais e seus sentidos. Não há necessidade de
+decorar esses radicais, mas a leitura ajuda a facilitar o reconhecimento do significado das palavras
+na hora da prova e também o processo de formação.
+Obs. Quando a sílaba tônica está dentro do radical, o vocábulo é chamado de “rizotônico”.
+Quando está fora do radical, é chamado de arrizotônico. Ex.:
+                             Eu canto (rizotônico) x Eu cantarei (arrizotônico)
+
+Afixos
+Afixos são acréscimos feitos ao radical que mudam o sentido ou a classe da palavra.
+Os afixos que vêm antes do radical são chamados de prefixos. Os que vêm depois são chamados
+de sufixos.
+Por exemplo, tomemos as palavras:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   4
+        www.estrategiaconcursos.com.br                                                           40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                PREFIXO               RADICAL             SUFIXO
+
+                                                       IGUAL
+
+                                          DES          IGUAL
+
+                                                       IGUAL              DADE
+
+                                          DES          IGUAL              DADE
+
+
+A palavra primitiva é um adjetivo, ao receber o prefixo –DES, indicativo de “negação”, a palavra
+continuou sendo um adjetivo, mas passou a ter sentido oposto à palavra primitiva.
+Ao receber o sufixo -DADE, o adjetivo DESIGUAL mudou de classe e virou um substantivo.
+Em relação à palavra primitiva “IGUAL”, a palavra derivada DESIGUALDADE recebeu um prefixo
+e um sufixo e mudou tanto de classe (passou a ser um substantivo) quanto de sentido.
+Os afixos são chamados de “morfemas derivacionais”, pois vão se acrescentar ao radical para
+formar palavras derivadas.
+
+Desinências
+As desinências são morfemas flexionais, pois têm função exclusiva de “flexionar” nomes e
+verbos. Rigorosamente, não formam palavras novas, apenas variações de uma mesma palavra.
+No caso dos nomes, indicam noções como gênero (masculino, feminino) e número (singular,
+plural). Nos verbos, indicam modo (indicativo, subjuntivo); tempo (pretérito perfeito, futuro);
+número e pessoa (1ª pessoa do singular, 3ª pessoa do plural).
+É lendo essas desinências que sabemos se o verbo está no futuro ou no passado, se o sujeito é
+nós ou eles, se o modo é subjuntivo, com sentido de dúvida, ou se é indicativo, sugerindo
+certeza. Ex.: Fiz, faça, fizemos, fizessem.
+Nos nomes, sabemos se aquele ser é do gênero feminino ou não, se há um ou mais de um... Ex.:
+Menino bonito, meninas bonitas... Essa identificação é fundamental quando analisamos
+concordância verbal e nominal.
+Então, vamos analisar a forma verbal estudássemos.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               5
+        www.estrategiaconcursos.com.br                                                        40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Radical​       ​       ​       ​          ​      ​        ​       ​       Vogal temática
+núcleo semântico
+sentido primitivo
+
+
+                                                CANT-Á-SSE-MOS
+
+
+Desinência modo-temporal:​                ​      ​        ​       ​       ​      Desinência número-pessoal:
+indica que conjugação no modo subjuntivo, ​ ​                     ​       indica que o verbo está conjugado
+no tempo pretérito imperfeito, ​ ​               ​        ​       ​       na primeira pessoa do plural (nós).
+indicativo de hipótese, incerteza
+
+Para flexionar e distinguir, há também desinências para nomes, chamadas desinências nominais.
+Podem ser de gênero ou de número:
+
+
+                                              DESINÊNCIA DE           DESINÊNCIA DE
+                                                 GÊNERO                 NÚMERO
+
+                             MENIN             O (masculino)            -- (singular)
+
+                              MENIN            A (feminino)               S (plural)
+
+                                   LIND        O (masculino)            -- (singular)
+
+                                   LIND        A (feminino)               S (plural)
+
+                             CARRO                   --                   S (plural)
+
+
+Obs. O –o só é desinência de gênero quando realmente opõe duas flexões de gêneros
+diferentes, isto é, se houver masculino e feminino daquela palavra.
+Por exemplo, na palavra CARRO, o –o não é desinência de masculino, porque não há “CARRA”.
+Nessa palavra, o –o é apenas vogal temática, usada para “finalizar o radical”: Carr. Ao
+acrescentar essa vogal temática, completamos a palavra “carro”.
+
+Vogal Temática e Tema
+A vogal temática é um elemento de ligação entre o radical e as desinências ou sufixos. Veja:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                 6
+        www.estrategiaconcursos.com.br                                                                          40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                                    MAR+E+S
+
+
+                               Vogal temática​                      ​   ​   Desinência nominal
+                               Liga o radical​​                     ​   ​   de número
+                               à desinência -S
+
+
+A vogal temática não tem sentido próprio, mas serve para finalizar o radical, unir o radical às
+desinências ou para indicar a conjugação do verbo.
+Os verbos podem ser de:
+1ª conjugação (terminam em -Ar);
+2ª (terminam em -Er);
+3ª (terminam em -Ir).                                  ==219a34==
+
+As vogais temáticas e as conjugações respectivas então na ordem alfabética A, E, I...
+
+No verbo “cantar”, o radical é “cant”, a vogal temática é “A”, portanto o tema é “cantA”.
+Esse tema se repete ao longo da conjugação e a flexão se dá pelas desinências: cantAva,
+cantAmos, cantAram.
+
+
+Processos de formação de palavras
+Os principais processos são a composição e a derivação.
+A palavra derivada é aquela que foi formada a partir de outra. A palavra primitiva não deriva de
+nenhuma palavra anterior.
+
+Basicamente, temos processos de composição (união de radicais) e processos de derivação
+(adição de prefixos e sufixos a uma palavra primitiva). Há outros tipos de derivação, conforme
+veremos.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  7
+        www.estrategiaconcursos.com.br                                                           40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Ao final da aula, há uma lista de afixos e radicais para consulta.
+
+Composição
+A composição é o processo de formação de palavras que consiste em unir radicais. Então, uma
+palavra simples só tem um radical (homem). Uma palavra composta tem dois ou mais radicais
+(homem-bomba, bicho de sete cabeças).
+Esse processo pode ser dividido em composição por aglutinação ou por justaposição.
+
+
+   PROCESSO                          DEFINIÇÃO                                     EXEMPLOS
+                                                                             Fidalgo (filho+de+algo)
+                                                                              Petróleo (pedra+óleo)
+
+                         Envolve a união de radicais com                    Pernilongo (perna+longa)
+                               alteração fonética.                            Vinagre (vinho+agre)
+                           Os radicais sofrem alteração,                     Embora (em+boa+hora)
+ AGLUTINAÇÃO                      perdem letras.                               Planalto (plano+alto)
+                                                                            Lobisomem (lobo+homem)
+                                                                           Aguardente (água+ardente)
+                                                                               Girassol (Gira + Sol)
+                                                                           Passatempo (Passa + Tempo)
+                         Forma palavras compostas sem                      Paraquedas (para + quedas)
+                          perda ou alteração fonética.
+                                                                               Dezoito (dez + oito)
+                        Os radicais são conservados, não
+                         perdem elementos estruturais.                      Couve-flor (Couve + Flor)
+  JUSTAPOSIÇÃ
+                                                                          Guarda-chuva (guarda + chuva)
+       O
+                                                                      Homem-bomba (homem + bomba)
+                                                                          Azul-marinho (Azul + Marinho)
+
+
+Obs. Em “aguardente”, o radical “ardente” perdeu seu “a”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           8
+        www.estrategiaconcursos.com.br                                                                    40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Processos de Derivação
+A derivação é a formação de palavras novas a partir da união de radicais com prefixos ou sufixos
+ou pela supressão de elementos de uma palavra primitiva. Veremos também que há um tipo de
+derivação em que a palavra não sofre qualquer modificação, apenas muda de classe (derivação
+imprópria).
+
+Derivação Prefixal
+Consiste na formação de uma palavra derivada por união de Prefixo + Radical ou palavra. Em
+outras palavras, esse processo ocorre quando adicionamos um prefixo a uma palavra primitiva ou
+quando o prefixo é o elemento unido por último a uma palavra que já sofrera processo de
+derivação.
+                                          PREFIXO                 RADICAL
+                                                       A
+                                                                  normal
+                                                       A
+                                                                   típico
+                                                    Des
+                                                                  onesto
+                                                       In
+                                                                   justo
+                                                       In
+                                                                    feliz
+                                                   Com
+                                                                    por
+                                                      Re
+                                                                  compor
+
+Derivação Sufixal
+Sufixo é o morfema derivacional que vem após o radical. Então, derivação sufixal é a formação de
+nova palavra pelo acréscimo de sufixos.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               9
+        www.estrategiaconcursos.com.br                                                       40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                      RADICAL                     SUFIXO
+                                                         dade
+                                               Felici
+                                                         ça
+                                               Justi
+                                                         mento
+                                         Emagreci
+                                                         ção
+                                               Nata
+                                                         mente
+                                              Gentil
+                                                         eza
+                                                 Bel
+                                                         oso
+                                               Gost
+                                                         eiro
+                                               Pedr
+
+Derivação Prefixal e Sufixal
+Trata-se da mistura dos dois processos acima, ou seja, união de prefixo e sufixo
+independentemente, de forma não simultânea.
+      Deslealdade, infelicidade, ultrapassagem, reconsideração.
+Os prefixos e sufixos são independentes, porque, se retirarmos um ou outro, a palavra resultante
+ainda é uma palavra existente na língua. Então, teremos:
+      Lealdade, felicidade, passagem, consideração.
+      Desleal, infeliz, ultrapassar, reconsiderar.
+
+
+Derivação Parassintética
+Consiste na formação de palavras derivadas pelo acréscimo SIMULTÂNEO de prefixos e sufixos.
+Ao contrário do caso acima, os afixos não são independentes e sua retirada vai resultar em uma
+palavra inexistente.
+Emagrecer                                Amadurecer                        Acebolado
+Envelhecer                               Entristecer                       Avermelhado
+Emudecer                                 Desbocado                         Acebolado
+Amanhecer                                Subterrâneo                       Ensolarado
+Para diferenciar a parassíntese da derivação “prefixal e sufixal”, temos que observar se a retirada
+do prefixo/sufixo vai fazer restar uma palavra válida na língua portuguesa, compreensível, que
+mantenha o sentido do radical. Então, vamos tomar alguns exemplos para ilustrar que o
+acréscimo dos afixos é simultâneo e dependente:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 10
+        www.estrategiaconcursos.com.br                                                          40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+      Emagrecer (não existe “magrecer” nem “emagro”)
+      Amadurecer (não existe “madurecer” nem “amaduro”)
+      Ensolarado (não existe “solarado” nem “ensolar”)
+      Acebolado (não existe “cebolado” nem “acebola”)
+Portanto, percebemos que prefixo e sufixo entram ao mesmo tempo na formação da palavra. Por
+isso, não conseguimos retirar nenhum dos dois. Não é o mesmo caso de quando temos uma
+palavra primitiva e apenas acrescentamos os afixos de forma individual.
+
+Derivação Imprópria
+A derivação imprópria, ou conversão, consiste na simples mudança na classificação morfológica
+da palavra, que não sobre nenhuma alteração, mas muda de classe.
+O caso mais comum é a substantivação, ou seja, a transformação de uma palavra de outra classe
+em substantivo. Ex.:
+            O olhar da menina é misterioso. (verbo virou substantivo, com determinante “o”)
+                        O bonito da turma é médico. (adjetivo virou substantivo)
+                Quero estudar, mas sempre tem um porém (conjunção virou substantivo)
+                  Tenho prós e contras para apresentar (preposição virou substantivo)
+                 O 202 é o melhor apartamento do prédio (numeral virou substantivo)
+                     Aquele é um menino sem amanhã (advérbio virou substantivo)
+                        O professor fala rápido e difícil (adjetivo virou advérbio)
+É considerada também derivação imprópria a mudança de classificação morfológica dentro de
+uma mesma categoria de palavras. Ex.:
+  Comprei várias giletes. (O substantivo próprio Gilette, da marca e do inventor da lâmina, foi
+usado como substantivo comum, com letra minúscula e pluralizado, como algo que não é único)
+
+
+  Nara Leão foi uma grande cantora (O substantivo comum “leão” foi usado como substantivo
+                               próprio, o sobrenome “Leão”)
+
+Derivação Regressiva
+Consiste em formar substantivos abstratos derivados de verbos, com redução do radical.
+Naturalmente, esses substantivos serão formas menores e terão sentido de “ação”. Ex.:
+      Vender>>>Venda
+      Comprar>>>Compra
+      Atrasar>>>atraso
+      Jantar>>>Janta
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               11
+        www.estrategiaconcursos.com.br                                                        40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+      Defender>>>Defesa
+      Dançar>>>Dança
+      Pescar>>>Pesca
+      Tossir>>>Tosse
+      Fugir>>>Fuga
+Cuidado, o substantivo resultante é “abstrato”, pois é deverbal (derivado de verbo). Em alguns
+substantivos concretos, a palavra “menor” não segue esse padrão, o caminho é o inverso e
+teremos derivação sufixal. Veja:
+      Arquivo>>>Arquivar
+      Telefone>>>Telefonar
+      Âncora>>>Ancorar
+      Martelo>>>Martelar
+
+Abreviação ou Redução
+É o processo que gera uma palavra nova a partir da supressão de parte da palavra primitiva, que
+será reduzida até um mínimo compreensível. Ex:
+      Foto (de fotografia)
+      Tevê (de televisão)
+      Pneu (de pneumático)
+      Moto (de motocicleta)
+      Sampa (de São Paulo)
+      Rio (de Rio de Janeiro)
+      Comuna (de comunista)
+      Cine (de cinema)
+      Minas (de Minas Gerais)
+
+Siglas
+Siglas são nomes derivados das partes iniciais das palavras de uma expressão.
+      PUC (Pontifícia Universidade Católica)
+      MPU (Ministério Público da União)
+      UFRJ (Universidade Federal do Rio de Janeiro)
+      ONU (Organização das Nações Unidas)
+      TRE (Tribunal Regional Eleitoral)
+      PIB (Produto Interno Bruto)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             12
+        www.estrategiaconcursos.com.br                                                      40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+      Petrobrás (Petróleo Brasileiro S/A)
+Siglas até 3 letras devem ser grafadas com letras maiúsculas. Se a sigla formar uma palavra,
+somente a primeira precisa ser maiúscula (Suframa, Masp, Comlurb, Cedae).
+O plural das siglas é feito somente com acréscimo de s minúsculo: PDFs, PUCs.
+O gênero da palavra formada vai ser o mesmo da primeira palavra: O CEBRASPE (O Centro
+Brasileiro de Seleção e Promoção de Eventos); A FCC (A Fundação Carlos Chagas)
+
+Hibridismo
+É a formação de palavras a partir de radicais de línguas diferentes. Ex.:
+      Burocracia (francês e grego)
+      Televisão (grego e latim)
+      Automóvel (grego e latim)
+      Sambódromo (africano e grego)
+      Cibernauta (inglês e latim)
+
+Estrangeirismo
+São palavras emprestadas de outras línguas, incorporadas ao português em sua forma original ou
+adaptada. Ex.:
+      Chat
+      Webnário                                                       Deletar
+      Pizza                                                          Restaurante
+      Face                                                           Abajur
+      Shopping                                                       Bife
+      Teen                                                           Futebol
+      Blog                                                           Estresse
+
+Onomatopeias
+É o processo de formação de uma palavra a partir da reprodução aproximada do som natural a
+ela associado.
+      Ex.: blá blá blá, au au, cocoricó, pum, tique-taque, atchim, chuá-chuá, zum-zum
+
+Neologismo
+O neologismo é a invenção de uma palavra nova, para atender às novas necessidades
+expressivas dos falantes.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            13
+        www.estrategiaconcursos.com.br                                                     40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Dentro do conceito amplo do fenômeno linguístico chamado de “neologismo”, podem ser
+abrigados estrangeirismos, gírias, combinações, derivações, composições e outros diversos
+processos de formação de palavras. Essas palavras podem ou não ser dicionarizadas.
+
+
+      BFF (best friend forever— melhor amigo; formado por uma sigla em inglês)
+      Portunhol (combinação de “português” com “espanhol”)
+      Esquipáticas (combinação de “esquisitas” com “antipáticas”)
+      Apertamento (combinação de “aperto” com “apartamento”)
+      Aborrecente (combinação de “aborrecer” com “adolescente”)
+      Internetês (combinação de “internet” com sufixo –ês, indicativo de idioma)
+      Mimimi (onomatopeia para “choro”, “drama”, “reclamação”)
+      Showmício (show+comício)
+
+
+O neologismo pode se manifestar não só na forma das palavras, mas também no sentido.
+Seguem alguns exemplos desse “neologismo semântico”.
+Gato (ligação clandestina)                                        Amarelar (acovardar-se)
+Zebra (resultado inesperado)                                      Pistolão   (favorecimento    de    alguém
+Já era (acabar)                                                   conhecido)
+
+Ir para o espaço (acabar, falhar, desandar)                       Peixe (favorecimento de alguém conhecido)
+
+Bombante (agitado, animado)
+
+
+É muito importante perceber que as bancas normalmente consideram a derivação a partir da
+última adição de afixo, ou seja, na palavra injustificável, por exemplo, devemos considerar que
+houve acréscimo do “in” na palavra “justificável”, mesmo sabendo que palavra “justificável”
+também recebeu o sufixo “-vel” em algum momento anterior de sua formação.
+Para efeito de prova, a tendência é considerar apenas a última derivação e não pensar em todas
+as etapas de formação da palavra.
+É importante memorizar os principais exemplos de derivação prefixal e sufixal e também os de
+derivação parassintética, pois nesses casos a palavra recebeu dois afixos e os dois vão ser
+considerados, não somente o último.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           14
+        www.estrategiaconcursos.com.br                                                                    40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                ANEXO - RADICAIS E AFIXOS
+Essa parte da aula é fundamentalmente para consulta e leitura de enriquecimento. É impossível
+gravar os radicais e prefixos e ainda seus sentidos. Normalmente, a banca cobra palavras que o
+candidato conhece ou ao menos uma que poderia ser comparada a uma palavra conhecida.
+Então, não tente memorizar de uma vez as listas a seguir!!
+Segue agora um apêndice de radicais e afixos, baseado em diversos livros como Breve Gramática
+Do Português Contemporâneo; Novíssima Gramática da Língua Portuguesa e A Gramática para
+Concursos Públicos. Uma gramática escolar também vai trazer basicamente essas mesmas listas.
+
+
+Radicais Gregos
+Agora segue uma lista de radicais gregos que aparecem no início da palavra. Esses radicais são a
+primeira parte de uma composição.
+Forma- Sentido (Exemplos)
+anemo- vento (anemômetro, anemógrafo)
+antropo- homem, ser humano (antropologia, antropofagia)
+aristo- ótimo, o melhor (aristodemocracia, aristocracia)
+acro- alto, elevado (acrobata, acrofobia)
+aero- ar (aeronave, aeronauta)
+agro- campo (agronegócio, agrônomo)
+asteno- fraqueza, debilidade (astenospia, astenosfera)
+astro- corpo celeste (astronomia, astrodinâmica)
+atmo- gás, vapor (atmosfera, atmômetro)
+auto- por/de si mesmo (autobiografia, autoajuda)
+andro- homem, macho (androfobia, andrógino)
+aritmo- número (aritmética, aritmografia)
+arqueo- antigo (arqueologia, arqueografia)
+baro- pressão, peso (barômetro, barítono)
+biblio- livro (biblioteca, bibliófilo)
+bio- vida (biografia, biologia)
+caco- feio, mau, desagradável (cacofonia, cacografia)
+cali- belo (caligrafia, calidoscópio)
+cardio- coração (cardiograma, cardiologia)
+cefalo- cabeça, crânio (cefalídio, cefaleia)
+ciclo- círculo, esfera (ciclismo, ciclomotor)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               15
+        www.estrategiaconcursos.com.br                                                        40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+cine- cinemato- movimento (cinética, cinematografia)
+cito- célula (citologia, citoplasma)
+cosmo- mundo, universo (cosmologia, cosmogênese)
+cromo- cor (cromossomo, cromogravura)
+crono- tempo (cronologia, cronograma)
+da(c)tilo- dedo (dactilografia, datilografia)
+deca- dez (Edecaedro, decâmetro)
+demo- povo (democracia, demográfico)
+derma(to)- pele (dermatologista, dermatite)
+di- dois (dissílabo, ditongo)
+eco- casa, habitat (ecologia, ecossistema)
+ele(c)tro- (âmbar) eletricidade (eletroímã)
+ene(a)- nove (eneagonal, eneágono)
+ergo- trabalho (ergofobia, ergógrafo)
+esperma(to)- semente, sêmen (espermograma, espermatozoide)
+etio-, etimo- origem (etiologia, etimologia)
+etno- raça, nação (etnologia, etonocentrismo)
+filo- amigo, amante (filologia, filosofia, filantropo)
+fisio- natureza(normalmente física) (fisionomia, fisiologia)
+fono- voz, som (fonologia, fonógrafo)
+foto- fogo, luz (fotosfera, fotografia)
+gamo- casamento, união (gamogênese, gamomania)
+gastro- estômago (gastrite, gastronomia)
+gen(o)(ese)- origem, início, nascimento, família (biogênese, genocídio)
+geo- terra (geografia, geosfera)
+gino-, gineco- mulher (ginecocracia, ginantropo)
+gono- semente, esperma (gonorreia, gonócito)
+helio- sol (helioscópio, heliocentrismo, heliografia)
+hemo- sangue (hemoglobina, hemorragia, hemograma)
+hepato- fígado (hepatite, hepático)
+hepta- sete (heptágono, heptacampeão)
+hetero- outro, diferente (heterogêneo, heterossexual)
+hexa- seis (hexágono, hexacampeão)
+hidro- água (hidrogênio, hidrografia)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa           16
+        www.estrategiaconcursos.com.br                                    40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+higro- umidade (higrômetro, higroscópio)
+hipno- sono (hipnose, hipnotismo)
+hipo- cavalo (hipopótamo, hipódromo)
+homeo-, homo- semelhante (homeopatia, homossexual)
+icono- imagem (iconoclasta, iconografia)
+ictio- peixe (ictiologia, ictiofagia)
+iso- igual (isósceles, isóbaro)
+laringo- garganta, laringe (laringalgia, laríngeo)
+lito- pedra, rocha (: litografia, litogravura)
+macro- grande, longo (macróbio, macrocosmo)
+mani- loucura (manicômio)                              ==219a34==
+
+mega(lo)- muito grande, imenso (megalópole, megafone, megalomaníaco (pode ser também
+considerado prefixo)
+melo- canto (melodia, melomania)
+meso- meio (mesóclise, Mesopotâmia)
+metro- relativo à mãe; matriz, útero; medida (metrópole; metrorragia; metrologia)
+micro- pequeno (micróbio, microfone)
+miria- dez mil, numeroso (miríade, miriâmetro)
+miso- ódio, aversão, impureza (misantropia, misofilia)
+mito- fábula, história (mitologia, mitomania)
+mnemo- memória, lembrança (mnemônico, mnemonização)
+mono- um só (monarca, monobloco)
+morfo- forma (morfologia, morfossintaxe)
+necro- Morto (necrotério, necrofilia)
+neo- novo (neolatino, neologismo)
+neuro-, nevro- nervo (neurônio, nevralgia)
+octo- oito (octaedro)
+odonto- dente (odontologia, odontalgia)
+oftalmo- olho (oftalmologia, oftalmia)
+oligo- pouco (oligarquia, oligopólio)
+onir(o)- sonho (onírico, onirologia)
+onomato- nome (onomatopeia, onomatomancia)
+ornito- ave (ornitorrinco, ornitologia)
+orto- reto, justo (ortodoxo, ortografia)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                     17
+        www.estrategiaconcursos.com.br                                              40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+oto- ouvido (otite, otoscopia)
+oxi- agudo, penetrante, ácido (oxítono, oxidação)
+paleo- antigo (paleontologia, paleografia)
+pan-, pant(o)- todos, tudo (pan-americano, panteísmo)
+pato- doença (patologia, patogenia)
+penta- cinco (pentágono, pentacampeão)
+piro- fogo (pirotecnia, pirófago)
+pneumo; (ato)- pulmão; ar, gás, espírito (pneumonia, pneumatologia)
+poli- muito, vários (poliglota, polifonia)
+potamo- rio (potamografia, Mesopotâmia)
+proto- primeiro (protozoário, protótipo)
+pseudo- falso (pseudônimo, pseudoliterário)
+psico- alma, espírito (psicologia, psiquiatria)
+ptero- asa, coluna (pterodáctilo, pterossauro)
+quilo- mil (quilograma, quilômetro)
+quiro- mão (quiromante, quiromancia)
+rino- nariz (rinoceronte, rinite)
+rizo- raiz (rizotônico, rizófago)
+sema-, semio- sinal, significado (semáforo, semântica, semiologia)
+sidero- ferro, aço (siderurgia, siderografia)
+sismo- terremoto (sísmico, sismologia)
+somato- corpo, matéria (somatologia, somatizar)
+tanato- morte (tanatofobia, tanatofilia)
+taqui- rápido (taquicardia, taquigrafia)
+tecno- arte, ofício (tecnografia, tecnologia)
+tele- distância (telefone, telégrafo)
+teo- deus, divindade (teocentrismo, teocracia)
+termo- calor, temperatura (termômetro, termostato)
+tetra- quatro (tetraedro, tetracampeão)
+tipo- figura, marca (tipografia, tipologia)
+topo- lugar (topografia, topônimo)
+tri- três (trissílabo, tricampeão)
+xeno- estranho, estrangeiro (xenofobia, xenofilia)
+xero- seco, sem umidade (xerografia, xeroderma)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa           18
+        www.estrategiaconcursos.com.br                                    40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+xilo- madeira, árvore, celulose (xilogravura, xilofone)
+zoo- animal (zoologia, zoomorfização)
+
+
+Agora segue uma lista de radicais gregos que aparecem no final da palavra. Esses radicais são a
+segunda parte de uma composição.
+                                                                                    -Forma: Sentido (Exemplos)
+                                                                  -agogo: que conduz (pedagogo, demagogo)
+                                                                                  -algia: dor (nevralgia, mialgia)
+                                                         -arca: que comanda; soberano (monarca, patriarca)
+                                                         -arquia: comando, governo ( monarquia, anarquia)
+                                                -astenia: fraqueza, esgotamento (neurastenia, ergastenia)
+                                                         -bata: que anda, que vive em (acrobata, nefelibata)
+                                                                       -cefalo: cabeça (microcéfalo, autocéfalo)
+                                                                          -ciclo: círculo, roda (triciclo, bicicleta)
+                                                     -cosmo: mundo, universo (macrocosmo, microcosmo)
+                                                                        -cracia: poder (democracia, burocracia)
+                                                                   -doxo: crença, opinião (ortodoxo, paradoxo)
+                                  -dromo: caminho, lugar para correr, curso (sambódromo, hipódromo)
+                                                                         -edro: base, fase (poliedro, pentaedro)
+                                                                  -fagia: ato de comer (antropofagia, autofagia)
+                                                                     -fago: que come (antropófago, necrófago)
+                                                 -filia, -filo: amizade, apreço (bibliofilia, cinefilia, pedófilo)
+                                        -fobia: inimizade, ódio, temor, aversão (claustrofobia, xenofobia)
+                                         -fobo: que odeia, inimigo; que teme (xenófobo, claustrofóbico)
+                                                                  -foro: que leva ou conduz (fósforo, sinesíforo)
+                                                         -gamia: casamento, união (poligamia, monogamia)
+                                                                               -gamo: casa (bígamo, polígamo)
+                                        -gên(e)o: que gera; que provém de (heterogêneo, cancerígeno)
+                                                                   -gino: relativo a mulher (exógino, andrógino)
+                                                                    -glota; -glossa: língua (poliglota, isoglossa)
+                                                                          -gono: ângulo (pentágono, polígono)
+                                                             -grafia: escrita, descrição (ortografia, caligrafia)
+                                                                       -grafo: que escreve (calígrafo, geógrafo)
+                                                                  -grama: escrito, peso (telegrama, quilograma)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                   19
+        www.estrategiaconcursos.com.br                                                                            40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                                       -latr(i)a: culto, veneração, vício (idolatria, chocólatra)
+                                                                           -lito: pedra, rocha (aerólito, acrólito)
+                                     -logia: discurso, estudo, coleção (arqueologia, antologia, biologia)
+                                                                   -logo: que fala ou trata (diálogo, monólogo)
+                                                           -mancia: adivinhação (quiromancia, cartomancia)
+                                                                       -mania: loucura (ninfomania, xenomania)
+                                                                    -metria: medida (biometria, densitometria)
+                                                                  -metro: que mede (pentâmetro, termômetro)
+                                     -morfo, -morfia: que tem a forma (polimorfo, zoomorfo, alomorfia)
+                                                         -nomia: lei, regra, divisão (astronomia, taxonomia)
+                                                       -nomo: que regula, que age (autônomo, agrônomo)
+                                                                           -ônimo: nome (sinônimo, antônimo)
+                                                         -pedia: educação, ensino (enciclopédia, ortopedia)
+                                                                    -peia: ato de fazer (onomatopeia, epopeia)
+                                                                   -pólis, -pole: cidade (Petrópolis, metrópole)
+                                                                             -ptero: asa (helicóptero, calóptero)
+                                                                  -scopia: ato de ver (macroscopia, artroscopia)
+                                                   -scópio: instrumento para ver (microscópio, telescópio)
+                                                          -sofia, -sofo: sabedoria, sábio (logosofia, filosofia)
+                                                    -soma(o): corpo, matéria (cromossomo, tripanossoma)
+                                                                          -stico: linha (macróstico, hemistíquio)
+                                                                        -tanásia: morte (eutanásia, cacotanásia)
+                                              -teca: lugar onde se guarda, coleção (biblioteca, discoteca)
+                                                                      -terapia: cura (fisioterapia, musicoterapia)
+                                                                   -tipo: marca, modelo (estereótipo, logotipo)
+                                                                   -tomia: corte, divisão (dicotomia, lobotomia)
+                                                              -tono: tensão, tom (monótono, proparoxítono)
+
+Radicais Latinos
+Agora segue uma lista de radicais latinos que aparecem no final da palavra. Esses radicais são a
+primeira parte de uma composição.
+Forma- Sentido (Exemplos)
+agri- campo (agricultura)
+ambi- ambos (ambidestro)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                 20
+        www.estrategiaconcursos.com.br                                                                          40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+arbori- árvore (arborícola)
+bis-, bi- duas vezes (bípede, bisavô)
+calori- calor (calorífero)
+cruci- cruz (crucifixo)
+curvi- curvo (curvilíneo)
+duo- dois (dual, duelo)
+equi- igual (equilátero, equidistante)
+ferri-, ferro- ferro (ferrífero, ferrovia)
+igni- fogo (ignífero, ignição)
+loco- lugar (locomotiva)
+morti- morte (mortífero)
+multi- muito (multiforme)
+olei-, oleo- azeite, óleo (oleígeno, oleoduto)
+oni- todo (onipotente)
+pedi- pé (pedilúvio)
+pisci- peixe (piscicultor)
+pluri- muitos, vários (pluriforme)
+quadri-, quadru- quatro (quadrúpede)
+reti- reto (retilíneo)
+semi- metade (semimorto)
+tri- três (tricolor)
+Agora segue uma lista de radicais latinos que aparecem no final da palavra. Esses radicais são a
+segunda parte de uma composição.
+                                                                              -cida: que mata (suicida, homicida)
+                                                               -cola: que cultiva, ou habita (vinícola, silvícola)
+                                                              -cultura: ato de cultivar (piscicultura, apicultura)
+                                                      -fazer: tornar algo em, causar (liquefazer, estupefazer)
+                                                        -fero: que contém, ou produz (aurífero, carbonífero)
+                                                              -ficar: acarretar, transformar (beatificar, edificar)
+                                                                   -fico: que faz, ou produz (benéfico, frigorífico)
+                                                           -forme: que tem forma de (uniforme, cuneiforme)
+                                                          -fugo: que foge, ou faz fugir (centrífugo, febrífugo)
+                                                          -gero: que contém, ou produz (belígero, armígero)
+                                                                          -paro: que produz (ovíparo, multíparo)
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                                                 21
+         www.estrategiaconcursos.com.br                                                                          40
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                                                            -pede: pé (velocípede, palmípede)
+                                                                          -sono: que soa (uníssono, horríssono)
+                                                                  -vomo: que expele (ignívomo, fumívomo)
+                                                                      -voro: que come (carnívoro, herbívoro)
+
+Prefixos Gregos
+Atenção aos prefixos que estão com fonte aumentada, pois são os mais comuns em prova. Vou
+lista-los primeiro.
+a-, an- privação; negação (anarquia, ateu, analfabeto, anestesia)
+anti- oposição, ação contrária (antibiótico, antihigiênico, antitérmico, antítese, antípoda,
+anticristo)
+arqui-, arc(e)- posição superior; excesso; primazia (arquitetura, arquipélago, arcebispo, arcanjo)
+dis- separação; negação, oposição; intensidade; ordem, arranjo; defeito, dificuldade; falta; dois
+(dissidência; difícil, discordar; dissimular; distribuir; dislexia, disenteria; dissimetria; dispermo)
+hemi- metade (hemisfério)
+hiper- posição superior; intensidade (hipérbole, hipertensão)
+hipo- posição inferior; insuficiência (hipotrofia, hipotensão, hipodérmico)
+pro- posição anterior (prólogo, prognóstico)
+para- proximidade; ao lado; oposto a (paradoxo, paralelo, paródia, parasita)
+meta- posteridade; através de; mudança (metamorfose, metabolismo, metáfora, metacarpo)
+dia- através de; ao longo de (diafragma, diagrama, diálogo, diagnóstico)
+di- duas vezes (dipolo, dígrafo)
+en-, em-, e-, endo- posição interna; direção para dentro (encéfalo, emblema, elipse, endotérmico)
+ex-, ec-, exo-, ecto- movimento para fora; posição exterior (expatriado, exportar, êxodo,
+ecdêmico, eclipse, ectoplasma)
+epi- posição superior; acima de; posterioridade (epiderme, epílogo)
+eu-, ev- excelência; perfeição; verdade (euforia, evangelho)
+peri- em torno de (pericárdio, período, perímetro)
+poli- multiplicidade; pluralidade (polinômio, poliedro)
+sin-, sim- simultaneidade; reunião; resumo (sinfonia, simbiose, simpatia, sílaba)
+ana- ação, movimento inverso, repetição; separação; inversão; para cima (análise, anatomia,
+anáfora, anagrama)
+anfi- duplicidade; ao redor; de um e outro lado (anfíbio, anfiteatro, anfibologia= ambiguidade)
+apo- separação; afastamento; longe de (apogeu, apóstolo, apóstata)
+cata- movimento para baixo; a partir de; de acordo com (catálise, catálogo, cataplasma,
+catadupa, catapulta)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                             22
+        www.estrategiaconcursos.com.br                                                                      40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Prefixos Latinos
+Atenção aos prefixos que estão com fonte aumentada, pois são os mais comuns em prova. Vou
+lista-los primeiro.
+ab-, abs-, a- exagero, afastamento; separação (abuso, abster-se, abdicar, amovível)
+ad-, a- aproximação; tendência; direção (adjacente, adjunto, admirar, agregar)
+ambi- duplicidade (ambivalência, ambidestro)
+ante- posição anterior (antebraço, anteontem, antepor)
+contra- oposição; ação contrária (contra-ataque, contradizer)
+com-, con-, co- companhia; combinação (compartilhar, consoante, contemporâneo, coautor)
+de-, des-, dis- movimento para baixo; afastamento; ação contrária; negação (decair, desacordo,
+desfazer, discordar, dissociar, decrescer)
+in-, im-, i-, em-, em-, intra-, intro- posição interna; passagem para um estado; movimento para
+dentro; tendência; direção para um ponto (incisão, inalar, injetar, embelezar, impor, imigrar,
+enlatar, enterrar, embalsamar, intravenoso, intrometer, intramuscular)
+in-, im-, i- negação; falta (intocável, impermeável, ilegal)
+pre- anterioridade; superioridade; intensidade (prefixo, previsão, préhistória, prefácio)
+pro- posição em frente; movimento para frente; em favor de (proclamar, progresso, pronome,
+prosseguir)
+re- repetição; intensidade; reciprocidade (realçar, rebolar, refrescar, reverter, refluir)
+sub-, sob-, su(s)-, so- posição abaixo de; inferioridade; insuficiência (subconjunto, subcutâneo,
+subsolo, sobpor, soterrar, suster, supor)
+super-, sobre-, supra-, su- posição superior; excesso; além de (superpopulação, sobreloja,
+suprassumo, sobrecarga, superfície, surreal)
+bene-, em-, bem- bem; muito bom (bendito, benevolência, benfeitor, bem-vindo, bem-estar)
+circum(n)- ao redor; movimento em torno (circunferência, circum-adjacente)
+cis- posição aquém (cisandino, cisplatino, cisalpino)
+ex-, es-, e- movimento para fora; mudança de estado; separação (exonerar, exportar, exumar,
+espreguiçar, emigrar, emitir, escorrer, estender)
+extra- posição exterior; superioridade (extraoficial, extraordinário, extraviar)
+inter-, entre- posição intermediária; reciprocidade (intercâmbio, internacional, entrelaçar,
+entreabrir)
+justa- proximidade (justapor, justalinear)
+ob-, o- posição em frente, oposição (ob-reptício, ocorrer, opor)
+per- movimento através (percorrer, perfurar)
+pos- posição posterior; ulterioridade (pós-escrito, pospor, postônico
+retro- para trás (retroativo, retroceder, retrospectivo)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               23
+        www.estrategiaconcursos.com.br                                                        40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+semi- metade (semicírculo, semiconsoante, semianalfabeto)
+soto(a)- posição inferior (soto-mestre, sotavento)
+trans-, tras-, tres- através de; posição além de; mudança (transoceânico, transbordar, transcrever,
+traspassar, tresloucado, tresmalhar)
+ultra- além de; excesso (ultrapassar, ultrassensível)
+vice-, vis-, vizo- posição abaixo de; substituição (vice-reitor, visconde, vice-cônsul, vizo-rei)
+obs.: Para o Gramático Celso Cunha, o prefixo Bi/bis como radical.
+bis-, bi- duas vezes (bisavô, biconvexo, bienal, bípede)
+
+Prefixos Formadores de Substantivos
+Os sufixos abaixo se unem a substantivos para formar novos substantivos:
+–ada: ação ou resultado de ação enérgica
+       Coleção ou multidão (boiada)
+       Golpe (facada, dentada)
+       marca feita com instrumento (pincelada)
+       produto alimentar (cocada, laranjada, bananada)
+       duração (temporada, invernada)
+       porção (pitada, colherada, bocada)
+–ado: território subordinado a titular, título, intiituição (bispado, condado, doutorado,
+proletariado)
+-ato: título, elemento químico (baronato, sultanato, carbonato, sufato)
+–aria, -eria: atividade, estabelecimento comercial, ramo de negócio, coleção, ação própria de
+certos indivíduos
+       Ex.: cavalaria, chapelaria, livraria, pedraria, bruxaria, infantaria, patifaria, gritaria, leiteria,
+       infantaria, sorveteria…
+–ário, -eiro(a): profissão, ofício, ocupação, lugar onde se guardam coisas, coleção, relação,
+árvore, arbusto, intensidade, objeto de uso
+       Ex.: operário, bancário, vestiário, rimário, anedotário, calcário, barbeiro, copeira,
+       açucareiro, tinteiro, formigueiro, viveiro, abacateiro, laranjeira, coleira, pulseira…
+–agem: ação ou coleção
+       Ex.: voragem, imagem, vadiagem, aprendizagem, folhagem, plumagem…
+–edo: plantação, lugar onde crescem vegetais, noção coletiva, objeto de grande vulto
+       Ex.: arvoredo, vinhedo, passaredo, penedo, rochedo…
+–al: coleção, quantidade, cultura de vegetais:
+       Ex.: areal, pantanal, pombal, arrozal, bananal…
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         24
+        www.estrategiaconcursos.com.br                                                                  40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+–ia: dignidade, profissão, cargo, lugar, afecção, moléstia, coleção
+      Ex.: chefia, advocacia, coletoria, delegacia, oftalmia, miopia, confraria, diretoria…
+–alha: coletivo (sentido pejorativo)
+      Ex.: canalha (de cães), gentalha, parentalha…
+–ite: designativo de doença inflamatória do órgão, tecido etc. a que se refere o radical
+      Ex.: apendicite, artrite, amigdalite, bronquite, otite, gastrite…
+–ama, -ame: coleção, quantidade
+      Ex.: dinheirama, gentama, courama, mulherame, cordame…
+–ugem: semelhança, porção, quantidade
+      Ex.: rabugem, ferrugem, babugem, lanugem, pelugem…
+–ana: se junta ao nome de uma pessoa notável para indicar uma coleção dos seus pensamentos
+ou ditos, ou de várias edições das suas obras
+      Ex.: A Biblioteca Nacional tem uma valiosa Camoniana; feminino de alguns nomes: sultana
+      (de sultão), Sebastiana (de Sebastião), Juliana (de Julião), Adriana (de Adrião), Romana (de
+      Romão), Joana (de João).
+–ume: coleção, ação ou resultado da ação, condição:
+      Ex.: cardume, negrume, azedume, curtume, queixume...
+Os sufixos abaixo são acrescentados a adjetivos e forma substantivos abstratos:
+–dade: crueldade, dignidade, bondade, criatividade, ruindade, normalidade, orfandade,
+lealdade, humanidade, mensalidade…
+–ice: doidice, meninice, velhice, tolice, babaquice, mineirice… (indica ideia pejorativa).
+–(i)dão: mansidão, gratidão, pretidão, solidão, retidão…
+–ície: calvície, imundície…
+–ez: insensatez, surdez, mudez, altivez, honradez, mesquinhez...
+–or: dulçor, negror, alvor, amargor…
+–eza: beleza, avareza, riqueza, safadeza, tristeza, magreza…
+–(i)tude: altitude, lassitude, juventude, magnitude…
+–ia: alegria, euforia, acefalia, bulimia, burguesia, chefia, astronomia, procuradoria,
+anomalia…
+–ura: alvura, doçura, negrura, formosura, ternura, brancura…
+–ismo: forma substantivos indicativos de doutrina, atividade, condição, doença.
+      Ex.: modernismo, materialismo, platonismo, espiritismo, islamismo, cristianismo,
+      presidencialismo, galicismo, machismo, nepotismo, paternalismo, nervosismo,
+      homossexualismo, aeromodelismo, ciclismo, alcoolismo, sonambulismo, tabagismo.
+–ista: partidário ou simpatizante de doutrina, teoria ou princípio artístico, filosófico, político ou
+religioso; ocupação, ofício; nomes gentílicos:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   25
+        www.estrategiaconcursos.com.br                                                            40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+       Ex.: realista, positivista, anarquista, socialista, fascista, budista, batista, moralista, criticista,
+       violinista, tenista, maquinista, dentista, artista, sulista, paulista, nortista, santista,
+       calculista…
+–ança, -ância, -ença, -ência: ação ou resultado da ação, estado: esperança, lembrança, matança,
+ocorrência, dolência, violência, vingança, ignorância, observância, tolerância, descrença,
+diferença, presença, ausência, anuência…
+–douro, -tório: ação, lugar da ação, instrumento da ação: bebedouro, suadouro, lavatório,
+laboratório, vomitório, dormitório…
+–nte: agente: despachante, estudante, navegante, combatente, ouvinte, pedinte, cadeirante
+(exceção)…
+–(d)ura, -(t)ura, -(s)ura: ação, instrumento de ação, resultado de ação: semeadura, ligadura,
+atadura, tintura, criatura, clausura, mensura, manufatura…
+–ão, -ção, -são: ação ou resultado da ação: arranhão, puxão, traição, nomeação, extensão,
+agressão, visão, prisão…
+–mento: ação ou resultado da ação: acolhimento, juramento, ferimento, sentimento,
+sortimento…
+–or(a), -eira: ofício, profissão, agente, instrumento de ação: armador, trabalhador, regador,
+espectador, inspetor, leitor, produtor, interruptor, professor, confessor, agressor, ascensor,
+espectadora, trabalhadora, arrumadeira, passadeira…
+
+Sufixos Aumentativos e Diminutivos
+Aumentativos
+-ão: paredão, caldeirão.
+-alhão: grandalhão, vergalhão, vagalhão, facalhão
+-(z)ão: amorzão, bolão, paredão, caldeirão, apertão, bofetão, calorão, azulão…
+-zarrão: homenzarrão, canzarrão
+Cuidado, nem tudo terminado em “ão” é aumentativo: Reunião, Portão, Situação.
+-aço(a): ricaço, barcaça, louraça, morenaço
+-ázio: copázio, balázio, gatázio
+-alho(a): muralha, gentalha
+-aréu: fogaréu, povaréu
+-eima: guloseima, boleima
+-ama: poeirama, dinheirama
+-ento: farturento, corpulento
+-anzil: corpanzil
+-eirão: vozeirão, chapeirão
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           26
+        www.estrategiaconcursos.com.br                                                                    40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+-ola: beiçola, caixola
+-orra: cabeçorra, cachaporra
+-arra: bocarra, bicarra
+-uço(a): dentuça, dentuço, carduça
+-astro: poetrasto, politicastro
+-udo: peitudo, pançudo, maçudo, carrancudo
+-arraz: fatacaz, pratarraz
+Diminutivos
+– acho(a): riacho, fogacho
+– (z)elho(a): fedelho, rapazelho
+– ebre: casebre
+– ejo: lugarejo, vilarejo
+– eco(a): jornaleco, soneca, padreco
+– ete: artiguete, boquete, falsete
+– ela: viela, rodela
+– eto(a): saleta, boceta, folheto
+– ilha: cartilha, esquadrilha
+– ola: rapazola, fazendola, portinhola
+– icho(a): cornicho, barbicha
+– usco(a): chamusco
+– (z)ito(a): Manuelito, cãozito, cabrita
+– ucho(a): gorducho, papelucho
+– ino(a): pequenina, violino
+– im: espadim, flautim
+– (z)inho: copinho, beicinho, gracinha, filminho, computadorzinho, amiguinho
+
+
+Diminutivos Eruditos
+São oriundos da língua literária e culta, da terminologia científica e formações com origem no
+latim:
+– úsculo(a): corpúsculo, opúsculo
+– ículo(a): película, versículo, cubículo, gotícula
+– isco: asterisco, chuvisco
+– ulo(a): módulo, nódulo, glóbulo, grânulo, molécula
+– oca: engenhoca, bitoca
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             27
+        www.estrategiaconcursos.com.br                                                      40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+– únculo(a): questiúncula, homúnculo
+– ote(a): filhote, serrote, velhote
+
+Sufixos Formadores de Verbo
+–ear, -ejar: transformação, repetição, mudança de estado (gargarejar, cabecear, balancear,
+verdear, folhear, gotejar, verdejar, velejar, pestanejar)
+–entar: qualidade, estado: apoquentar, amolentar, amamentar, afugentar,
+aformosentar…
+–açar: frequência, ação: envidraçar, esvoaçar, espicaçar…
+–icar, -iscar: diminutivo, repetição: bebericar, adocicar, mordiscar, chuviscar, lambiscar…
+–ilhar, -inhar: diminutivo, repetição: dedilhar, fervilhar, escrevinhar, cuspinhar…
+–ecer, -escer: transformação, mudança de estado: amanhecer, amarelecer, envelhecer, anoitecer,
+rejuvenescer, florescer…
+–itar, -izar: diminutivo, repetição, causar mudança de estado: dormitar, saltitar, civilizar, utilizar,
+organizar, vulgarizar…
+
+Sufixos Formadores de Adjetivos
+–aco: estado íntimo, pertinência, natureza, origem (demoníaco, maníaco, austríaco, cardíaco…)
+–ão, -ano: origem, característica, ofício, profissão, relativo a, semelhante a ou comparado a,
+partidário de, adepto de:
+alemão, pagão, coimbrão, aldeão, romano, sergipano, camoniano,
+darwiniano, byroniano…
+–ado: cheio de, provido de, caráter ou forma de: endinheirado, barbado, ciliado, desastrado,
+avermelhado, amarelado, acebolado…
+–aico: referência, pertinência: judaico, prosaico, galaico, hebraico, arcaico…
+–eo: relação, semelhança, matéria: róseo, férreo, argênteo, plúmbeo…
+–al, -ar: referência, típico de: genial, conjugal, papal, imortal, constitucional, escolar, familiar…
+–esco, -isco: relação com, referência, qualidade: grotesco, quixotesco, parentesco, gigantesco,
+dantesco, mourisco, flandrisco…
+–ético: relativo, próprio de, que sofre de: frenético, morfético, aidético…
+–ário, -eiro: relação, posse, ofício, profissão, agente, instrumento de ação, lugar, árvore,
+intensificação, objeto, noção coletiva, origem: banqueiro, galinheiro, laranjeira, nevoeiro, cinzeiro,
+formigueiro, partidário, sectário, diário, fracionário, caseiro, mineiro, rueiro, festeiro, noveleiro,
+fofoqueiro… em alguns casos o sufixo -eiro passa uma ideia pejorativa.
+–este, -estre: relação com: agreste, celeste, silvestre, terrestre, pedestre…
+–engo: relação, pertinência, posse: avoengo, molengo, mulherengo…
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         28
+        www.estrategiaconcursos.com.br                                                                  40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+–eu: relação, origem, procedência, constituição: jubileu, europeu, judeu, hebreu, saduceu…
+–enho: semelhança, procedência, origem: ferrenho, portenho, panamenho…
+–ício: relação, referência: natalício, patrício, alimentício…
+–eno: referência, origem: terreno, chileno, nazareno…
+–ico: participação, referência, relação, procedência: quimérico, geométrico, melancólico, bíblico,
+aromático, rústico, asiático, problemático, britânico, ibérico…
+–ense, -ês: relação, procedência, origem: piauiense, maranhense, palmeirense, parisiense,
+fluminense, português, francês, chinês, pedrês, japonês…
+–il: referência, relação: senhoril, febril, mulheril, servil…
+–âneo: relativo a, em lugar, em tempo, em condição semelhante a: cutâneo, contemporâneo,
+litorâneo, instantâneo…
+–ino: semelhança, relação, origem, natureza: diamantino, cristalino, marroquino, londrino,
+albino…
+–ita: origem, pertinência; mineralogia: israelita, jesuíta,
+saudita, iemenita; bauxita, azurita…
+–ento, -(l)ento: provido ou cheio de, que tem o caráter de: barrento, virulento, poeirento,
+barulhento, ciumento, avarento, purulento, corpulento, peçonhento, melento, grudento… em
+alguns casos, o sufixo -ento para uma ideia pejorativa
+–onho: que causa ou produz, que pratica: medonho, enfadonho, risonho, tristonho…
+–oso: provido ou cheio de; que provoca ou produz: medroso, saudoso, venenoso, apetitoso,
+assombroso, clamoroso, vergonhoso…
+–udo: provido ou cheio de: carnudo, barbudo, peludo, pontudo, bicudo, narigudo…
+–nte: ação, qualidade, estado: amante, despachante, semelhante, tolerante,
+resistente, poente, crescente, ouvinte, constituinte, seguinte…
+–doiro, -douro, -tório: pertinência, ação: casadoiro, vindoiro, vindouro, duradouro, morredouro,
+emigratório, satisfatório, expiatório, preparatório…
+–io, -iço, -ício, -ivo: referência, modo de ser, tendência, aproximação: lavradio, erradio,
+escorregadiço, fugidio, escorregadiço, achadiço, movediço, acomodatício,
+prestativo, pensativo, lucrativo, fugitivo, afirmativo, negativo…
+–(á)vel, -(í)vel: digno de, passível de praticar ou sofrer uma ação: durável, amável, palpável,
+louvável, desejável, perecível.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 29
+        www.estrategiaconcursos.com.br                                                          40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+                                     QUADRO DE DESINÊNCIAS
+
+Quadro das Desinências Modo-Temporais
+
+Indicam modo e tempo
+
+
+                                              MODO INDICATIVO
+
+                 TEMPOS                           1ª CONJUGAÇÃO                 2ª E 3ª CONJUGAÇÕES
+
+                 Presente                                             ---                 ---
+                                                       ==219a34==
+
+             Pretérito Perfeito                                       ---                 ---
+
+         Pretérito Imperfeito                                       VA / VE              A/E
+
+    Pretérito Mais-que-perfeito                    RA / RE (átonas)                RA / RE (átonas)
+
+            Futuro do Presente                     RA / RE (tônicas)               RA / RE (tônicas)
+
+            Futuro do Pretérito                              RIA / RIE                 RIA / RIE
+
+                                              MODO SUBJUNTIVO
+
+                 Presente                                             E                     A
+
+         Pretérito Imperfeito                                        SSE                 SSE
+
+                  Futuro                                              R                     R
+
+                                              FORMAS NOMINAIS
+
+                        TEMPOS                                                DESINÊNCIAS
+
+                       Gerúndio                                                  NDO
+
+                        Infinitivo                                                R
+
+                       Particípio                                               DO, TO
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        30
+        www.estrategiaconcursos.com.br                                                                 40
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Quadro das Desinências Número Pessoais
+
+
+Indicam o número (singular/plural) e as pessoas (1ª, 2ª, 3ª) dos verbos
+
+                                             FORMAS NOMINAIS
+
+                                                                          PESSOAS
+
+                                                             SINGULAR                PLURAL
+
+                                                       1ª         2ª      3ª   1ª      2ª     3ª
+
+            Presente do Indicativo                      O         S       -    MOS     IS     M
+
+      Pretérito Perfeito do Indicativo                   I        STE     U    MOS   STES     RAM
+
+     Pretérito Imperfeito do Indicativo                  -        S       -    MOS     IS     M
+
+    Pretérito Mais-que-perfeito do Ind.                  -        S       -    MOS     IS     M
+
+     Futuro do Presente do Indicativo                    I        S       -    MOS     IS     O
+
+     Futuro do Pretérito do Indicativo                   -        S       -    MOS     IS     M
+
+            Presente do Subjuntivo                       -        S       -    MOS     IS     M
+
+    Pretérito Imperfeito do Subjuntivo                   -        S       -    MOS     IS     M
+
+            Futuro do Subjuntivo                         -        ES      -    MOS    DES     EM
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    31
+        www.estrategiaconcursos.com.br                                                             40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+    QUESTÕES COMENTADAS - FORMAÇÃO DE PALAVRAS - FGV
+1. (FGV / PC-AM / 2022)
+Um fenômeno bastante comum em nossa língua é o emprego numeroso de anglicismos, ou seja,
+vocábulos provenientes da língua inglesa.
+Assinale a frase em que o estrangeirismo está adequadamente substituído por palavra
+portuguesa.
+A) O shopping tem horário de funcionamento colocado em pequeno cartaz na porta / loja.
+B) Os comerciantes deviam fazer estudos de marketing, antes de abrirem seus estabelecimentos /
+economia.
+C) A modelo dizia jamais ter usado shampoo brasileiro, por sua má qualidade / sabonete
+bactericida.
+D) Os meninos de hoje trocam qualquer atividade por um game / jogo de cartas.
+E) Obtive todas essas informações no site da própria empresa / sítio.
+Comentários:
+Anglicismos são exemplos do processo de "estrangeirismo". Os gramáticos puristas são contra
+esse tipo de empréstimo linguístico e sugerem uso de palavras da língua portuguesa, como
+"eslaide" em vez de "slide"; "leiaute" em vez de "layout". Contudo, o uso da palavra
+normalmente reflete uma necessidade da língua, ou sua popularização em certos grupos sociais.
+O vocabulário corporativo, por exemplo, é recheado de termos em inglês, justamente por
+influência de o conteúdo produzido nesse nicho ser produzido e popularizado essencialmente em
+inglês.
+Contudo, a norma culta ainda prescreve sinônimos ou versões aportuguesadas:
+E) Obtive todas essas informações no site da própria empresa / sítio. Gabarito letra E.
+Veja como ficariam as demais:
+A) O shopping tem horário de funcionamento colocado em pequeno cartaz na porta / xópin.
+B) Os comerciantes deviam fazer estudos de marketing, antes de abrirem seus estabelecimentos /
+mercado.
+C) A modelo dizia jamais ter usado shampoo brasileiro, por sua má qualidade / xampu.
+D) Os meninos de hoje trocam qualquer atividade por um game / jogo.
+Aproveito aqui para registrar uma compilação de anglicismos aportuguesados.
+Palavras aportuguesadas
+Basket – basquete                         Cocktail – coquetel             Flirt – flerte
+Beef – bife                               Delete – deletar                Football – futebol
+Black-out – blecaute                      Detective – detetive            Goal – gol
+Cartoon – cartum                          Snob – esnobe                   Golf – golfe
+Clip – clipe                              Film – filme                    Handball – handebol
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 32
+        www.estrategiaconcursos.com.br                                                          40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+Knock-out
+  Aula 06 – nocaute                       Picnic – piquenique             Stress – estresse
+Layout – leiaute                          Poker – pôquer                  Surf – surfe
+Moccasin – mocassim                       Pudding – pudim                 Tennis – tênis
+Moto-boy – motobói                        Sandwich – sanduíche            Team – time
+Pancake – panqueca                        Shampoo – xampu                 Volley – vôlei
+Penalty – pênalti                         Stand – estande                 Whisky – uísque
+                                                                          Yacht – iate
+
+                                                       ==219a34==
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               33
+        www.estrategiaconcursos.com.br                                                        40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+            QUESTÕES COMENTADAS - RADICAIS E AFIXOS - FGV
+   1. (FGV / TJ-RN / 2023)
+Os segmentos destacados em cada uma das frases foram substituídos por um só vocábulo de
+mesmo sentido, com a ajuda de um afixo (prefixo e sufixo); a única frase em que esse
+procedimento foi feito de forma adequada, é:
+A) O paciente mostrava uma inflamação conjunta dos órgãos do sistema urinário / uma
+conjuntivite;
+B) A câmara descoberta há pouco tempo na pirâmide do Egito foi uma enorme surpresa
+arqueológica / pré-descoberta;
+C) Analisar-se a si mesmo continuamente é um bom caminho para a paz interior / autoanalisar-se;
+D) O Rio de Janeiro está sendo visitado de novo / retrovisitado;
+E) Tudo estava explicado de forma geográfica / geoidemente.
+Comentários:
+O prefixo "auto" indica ação em relação a si mesmo, sem coparticipação de terceiros:
+autoatendimento; autodidata; autocrítica. Portanto: Analisar-se a si mesmo = autoanalisar-se
+A) conjuntivite / Inflamação da conjuntiva, uma membrana dos olhos, com produção de
+secreções.
+B) pré-descoberta /descoberta anteriormente.
+D) visitado de novo / revisitado;
+E) de forma geográfica / geograficamente.
+Gabarito letra C.
+
+
+   2. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+Tecnologia é palavra que tem, em sua formação, o radical grego -logia (“estudo”); a opção
+abaixo que indica corretamente o campo de estudo do vocábulo formado com esse mesmo
+radical, é:
+A) pneumologia / estudo dos pneus dos veículos;
+B) radiologia / estudo das transmissões radiofônicas;
+C) geologia / estudo geográfico das paisagens;
+D) arqueologia / estudo de realidades antigas;
+E) etnologia / estudo da origem das palavras.
+Comentário:
+Pneumologia – estudo dos órgãos respiratórios.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              34
+        www.estrategiaconcursos.com.br                                                       40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Arqueologia – estudo da história da humanidade, os costumes e a cultura de povos antigos
+através de seus monumentos, documentos e de objetos encontrados em escavações.
+Geologia – estudo científico da origem, história, estrutura, formação e evolução da Terra.
+Radiologia – estudo dos raio-X.
+Etimologia / estudo da origem das palavras. A etnologia estuda etnias.
+Gabarito Letra D
+
+
+   3. (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Muitos vocábulos são formados com o sufixo -vel, com o sentido de “possibilidade de praticar ou
+sofrer uma ação”.
+Assinale a frase abaixo em que a palavra formada com esse sufixo foi adequadamente explicada.
+                                                       ==219a34==
+
+A) Nunca me debruçara sobre o abismo do inexplicável / que pode ser explicado.
+B) Essa é uma resposta viável / que pode ser encaminhada.
+C) Transportava produtos perecíveis / que deviam pagar impostos.
+D) De longe, as frutas pareciam apetecíveis / que satisfazem o apetite.
+E) As urnas não são auditáveis / podem sofrer auditoria.
+Comentário:
+a) Nunca me debruçara sobre o abismo do inexplicável / que pode NÃO ser explicado.
+b) Essa é uma resposta viável / que pode ser realizada.
+c) Transportava produtos perecíveis / que poderiam estragar facilmente.
+d) De longe, as frutas pareciam apetecíveis / que despertam apetite.
+e) As urnas não são auditáveis / podem sofrer auditoria.
+Gabarito Letra E
+
+
+   4. (FGV / PREF. MANAUS / 2022)
+      “É bastante inconveniente desobedecer às ordens médicas”.
+Nessa frase, a palavra desobedecer mostra o prefixo des- com valor de negação, equivalente a
+não.
+Assinale a opção em que a palavra sublinhada mostra esse mesmo valor.
+A) O hospital decidiu desmontar o aparelho de raio-X.
+B) Os eleitores desaprovaram a decisão.
+C) O diretor pediu que se desfizesse a equipe de médicos.
+D) O documento desmentia o relatório da equipe.
+E) A enfermeira tinha ficado descabelada.
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              35
+        www.estrategiaconcursos.com.br                                                       40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+Pessoal, entendo que aqui a banca vacilou. O gabarito foi C: desfizesse. O verbo "desfazer" não
+significa "não fazer", mas sim reverter o que foi feito. A melhor resposta seria a letra B:
+desaprovaram (reprovaram, sentido de negação). Nas demais, não há sentido de negação:
+desmontar=reverter a montagem; desmentir=contradizer; descabelar: bagunçar o cabelo.
+Gabarito letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             36
+        www.estrategiaconcursos.com.br                                                      40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+       LISTA DE QUESTÕES - FORMAÇÃO DE PALAVRAS - FGV
+1. (FGV / PC-AM / 2022)
+Um fenômeno bastante comum em nossa língua é o emprego numeroso de anglicismos, ou seja,
+vocábulos provenientes da língua inglesa.
+Assinale a frase em que o estrangeirismo está adequadamente substituído por palavra
+portuguesa.
+A) O shopping tem horário de funcionamento colocado em pequeno cartaz na porta / loja.
+B) Os comerciantes deviam fazer estudos de marketing, antes de abrirem seus estabelecimentos /
+economia.
+C) A modelo dizia jamais ter usado shampoo brasileiro, por sua má qualidade / sabonete
+bactericida.
+D) Os meninos de hoje trocam qualquer atividade por um game / jogo de cartas.
+E) Obtive todas essas informações no site da própria empresa / sítio.
+
+                                                 GABARITO
+                                                     1. LETRA E
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            37
+        www.estrategiaconcursos.com.br                                                     40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+             LISTA DE QUESTÕES - RADICAIS E AFIXOS - FGV
+   1. (FGV / TJ-RN / 2023)
+Os segmentos destacados em cada uma das frases foram substituídos por um só vocábulo de
+mesmo sentido, com a ajuda de um afixo (prefixo e sufixo); a única frase em que esse
+procedimento foi feito de forma adequada, é:
+A) O paciente mostrava uma inflamação conjunta dos órgãos do sistema urinário / uma
+conjuntivite;
+B) A câmara descoberta há pouco tempo na pirâmide do Egito foi uma enorme surpresa
+arqueológica / pré-descoberta;
+C) Analisar-se a si mesmo continuamente é um bom caminho para a paz interior / autoanalisar-se;
+                                                       ==219a34==
+
+D) O Rio de Janeiro está sendo visitado de novo / retrovisitado;
+E) Tudo estava explicado de forma geográfica / geoidemente.
+
+
+   2. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+Tecnologia é palavra que tem, em sua formação, o radical grego -logia (“estudo”); a opção
+abaixo que indica corretamente o campo de estudo do vocábulo formado com esse mesmo
+radical, é:
+A) pneumologia / estudo dos pneus dos veículos;
+B) radiologia / estudo das transmissões radiofônicas;
+C) geologia / estudo geográfico das paisagens;
+D) arqueologia / estudo de realidades antigas;
+E) etnologia / estudo da origem das palavras.
+
+
+   3. (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Muitos vocábulos são formados com o sufixo -vel, com o sentido de “possibilidade de praticar ou
+sofrer uma ação”.
+Assinale a frase abaixo em que a palavra formada com esse sufixo foi adequadamente explicada.
+A) Nunca me debruçara sobre o abismo do inexplicável / que pode ser explicado.
+B) Essa é uma resposta viável / que pode ser encaminhada.
+C) Transportava produtos perecíveis / que deviam pagar impostos.
+D) De longe, as frutas pareciam apetecíveis / que satisfazem o apetite.
+E) As urnas não são auditáveis / podem sofrer auditoria.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              38
+        www.estrategiaconcursos.com.br                                                       40
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 06
+
+   4. (FGV / PREF. MANAUS / 2022)
+      “É bastante inconveniente desobedecer às ordens médicas”.
+Nessa frase, a palavra desobedecer mostra o prefixo des- com valor de negação, equivalente a
+não.
+Assinale a opção em que a palavra sublinhada mostra esse mesmo valor.
+A) O hospital decidiu desmontar o aparelho de raio-X.
+B) Os eleitores desaprovaram a decisão.
+C) O diretor pediu que se desfizesse a equipe de médicos.
+D) O documento desmentia o relatório da equipe.
+E) A enfermeira tinha ficado descabelada.
+
+
+                                                 GABARITO
+
+
+                                                     1. LETRA C
+                                                     2. LETRA D
+                                                     3. LETRA E
+                                                     4. LETRA C
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           39
+        www.estrategiaconcursos.com.br                                                    40
+
+                                     
+
+
+---
+
+---

@@ -1,0 +1,334 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 08_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: 16/10/2020
+artigos_citados:
+- Art. 158.
+- Art. 160.
+- Art. 162.
+- art. 27
+- art. 831
+---
+
+# 16/10/2020
+
+16/10/2020
+
+                                  IRPJ
+                              CONTRIBUINTES
+
+20
+
+ IRPJ – Contribuintes
+
+      Art. 158. São contribuintes do imposto sobre a renda e terão seus lucros apurados de
+      acordo com este Regulamento ( Decreto-Lei nº 5.844, de 1943, art. 27 ):
+
+      I - as pessoas jurídicas, a que se refere o Capítulo I deste Título ; e
+
+      II - as empresas individuais, a que se refere o Capítulo II deste Título .
+
+      Obs.: A incidência do IRPJ ocorre independentemente de a pessoa jurídica estar
+      regularmente constituída, bastando que configure uma unidade econômica ou
+      profissional.
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+21
+
+                                                                   1
+
+
+---
+
+                                                                                                  16/10/2020
+
+ IRPJ – Contribuintes
+
+      Art. 160. As sociedades em conta de participação são equiparadas às pessoas jurídicas.
+
+      Art. 162. As empresas individuais são equiparadas às pessoas jurídicas.
+
+ Legislação Tributária
+                                                                                         @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+22
+
+ IRPJ – Contribuintes
+
+      ❑ As normas do IRPJ abrangem:
+
+             ❑ Todas as firmas e sociedades, registradas ou não;
+
+             ❑ Entidades submetidas aos regimes de liquidação extrajudicial e de falência
+               sujeitam-se às normas de incidência do imposto aplicáveis às pessoas jurídicas,
+               em relação às operações praticadas durante o período em que perdurarem os
+               procedimentos para a realização de seu ativo e o pagamento do passivo;
+
+             ❑ Empresas públicas e as sociedades de economia mista, bem como suas
+               subsidiárias.
+
+
+ Legislação Tributária
+                                                                                         @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+23
+
+                                                                         2
+
+
+---
+
+                                                                                             16/10/2020
+
+ IRPJ – Contribuintes
+
+      ❑ As normas do IRPJ abrangem:
+
+             ❑ Sociedades cooperativas de consumo, que tenham por objeto a compra e
+               fornecimento de bens aos consumidores;
+
+             ❑ Fundo de investimento imobiliário que aplicar recursos em empreendimento
+               imobiliário que tenha como incorporador, construtor ou sócio, quotista que
+               possua, isoladamente ou em conjunto com pessoa a ele ligada, mais de 25%
+               das quotas do fundo (RIR, art. 831).
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+24
+
+ QUESTÃO INÉDITA
+        As normas de incidência do IRPJ aplicam-se:
+        c) somente às firmas e sociedades registradas.
+        b) somente às sociedades registradas.
+        c) às pessoas jurídicas, mas não àquelas que a elas sejam equiparadas.
+        d) a todas as firmas e sociedades, registradas ou não.
+        a) somente às firmas registradas.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Letra D                                          @ProfFabioDutra
+
+
+25
+
+                                                                    3
+
+
+---
+
+                                                                                                  16/10/2020
+
+ IRPJ – Contribuintes
+
+      ❑ São consideradas pessoas jurídicas, para efeito de incidência de IRPJ:
+
+             ❑ As pessoas jurídicas de direito privado domiciliadas no País, sejam quais forem
+               seus fins, nacionalidade ou participantes no capital;
+
+             ❑ As filiais, sucursais, agências ou representações no País das pessoas jurídicas
+               com sede no exterior;
+
+             ❑ Os comitentes domiciliados no exterior, quanto aos resultados das operações
+               realizadas por seus mandatários ou comissários no País;
+
+             ❑ Empresa Individual de Responsabilidade Limitada (EIRELI).
+
+ Legislação Tributária
+                                                                                         @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+26
+
+ QUESTÃO INÉDITA
+        São contribuintes do IRPJ as pessoas jurídicas de direito privado ou público,
+        independentemente da sua finalidade, nacionalidade ou de quem compõe o
+        seu capital.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                                @ProfFabioDutra
+
+
+27
+
+                                                                         4
+
+
+---
+
+                                                                                          16/10/2020
+
+ QUESTÃO INÉDITA
+        As filiais, sucursais, agências ou representações no País das Pessoas Jurídicas
+        com sede no exterior são consideradas Pessoas Jurídicas para fins de Imposto
+        de Renda.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Correta                                       @ProfFabioDutra
+
+
+28
+
+ QUESTÃO INÉDITA
+        As empresas públicas e as sociedades de economia mista não são
+        contribuintes do Imposto de Renda.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+
+
+29
+
+                                                                 5
+
+
+---
+
+                                                                                            16/10/2020
+
+ IRPJ – Contribuintes
+                                       Empresas Individuais
+
+     ❑ São empresas individuais:
+
+     ❑ As firmas individuais;
+
+     ❑ As pessoas físicas que, em nome individual, explorem, habitual e
+       profissionalmente, qualquer atividade econômica de natureza civil ou comercial,
+       com o fim especulativo de lucro, mediante venda a terceiros de bens ou serviços;
+
+     ❑ As pessoas físicas que promoverem a incorporação de prédios em condomínio ou
+       loteamento de terrenos.
+
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+30
+
+ QUESTÃO INÉDITA
+        No que se refere aos contribuintes do Imposto de Renda Pessoa Jurídica
+        (IRPJ), as pessoas físicas que promoverem a incorporação de prédios em
+        condomínio ou loteamento de terrenos não são consideradas empresas
+        individuais.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                          @ProfFabioDutra
+
+
+31
+
+                                                                   6
+
+
+---
+
+                                                                                                      16/10/2020
+
+ IRPJ – Contribuintes
+      ❑ Não são consideradas empresas individuais as pessoas físicas                         que,
+        individualmente, exerçam as profissões ou explorem as atividades de:
+      I - médico, engenheiro, advogado, dentista, veterinário, professor, economista,
+      contador, jornalista, pintor, escritor, escultor e de outras que lhes possam ser
+      assemelhadas;
+
+      II - profissões, ocupações e prestação de serviços não comerciais;
+
+      III - agentes, representantes e outras pessoas sem vínculo empregatício que, tomando
+      parte em atos de comércio, não os pratiquem, todavia, por conta própria;
+
+      IV - serventuários da justiça, como tabeliães, notários, oficiais públicos e outros;
+
+
+ Legislação Tributária
+                                                                                             @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+32
+
+ IRPJ – Contribuintes
+      ❑ Não são consideradas empresas individuais as pessoas físicas                         que,
+        individualmente, exerçam as profissões ou explorem as atividades de:
+      V - corretores, leiloeiros e despachantes, seus prepostos e adjuntos;
+
+      VI - exploração individual de contratos de empreitada unicamente de lavor, qualquer
+      que seja a natureza, quer se trate de trabalhos arquitetônicos, topográficos,
+      terraplenagem, construções de alvenaria e outras congêneres, quer de serviços de
+      utilidade pública, tanto de estudos como de construções;
+
+      VII - exploração de obras artísticas, didáticas, científicas, urbanísticas, projetos
+      técnicos de construção, instalações ou equipamentos, salvo quando não explorados
+      diretamente pelo autor ou criador do bem ou da obra.
+
+
+ Legislação Tributária
+                                                                                             @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+33
+
+                                                                             7
+
+
+---
+
+                                                                                              16/10/2020
+
+ IRPJ – Contribuintes
+                             Sociedades em Conta de Participação
+
+
+     ❑ Sociedade sem personalidade jurídica;
+
+     ❑ Sociedade equiparada a pessoa jurídica;
+
+     ❑ Sociedade sujeita ao IRPJ, observadas as normas aplicáveis às pessoas jurídicas em
+       geral.
+
+ Legislação Tributária
+                                                                                     @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+34
+
+ QUESTÃO INÉDITA
+        No que se refere aos contribuintes do Imposto de Renda Pessoa Jurídica
+        (IRPJ), as sociedades em conta de participação, embora não tenham
+        personalidade jurídica, são equiparadas a pessoa jurídica, por força da lei.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Correta                                           @ProfFabioDutra
+
+
+35
+
+                                                                     8
+
+
+---

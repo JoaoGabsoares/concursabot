@@ -1,0 +1,654 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 06_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: CONSÓRCIOS PÚBLICOS
+artigos_citados:
+- Art. 11.
+- Art. 1º
+- Art. 2º
+- Art. 4º
+- Art. 5º
+- Art. 6º
+- Art. 9º
+- art. 241.
+---
+
+# CONSÓRCIOS PÚBLICOS
+
+CONSÓRCIOS PÚBLICOS
+  (LEI 11.107/2005)
+
+                                          Prof. Antonio Daud
+
+     
+
+
+---
+
+CONSÓRCIOS PÚBLICOS:
+     INTRODUÇÃO
+
+                                           Prof. Antonio Daud
+
+      
+
+
+---
+
+                        Consórcios Públicos
+        ✓ CF, art. 241. A União, os Estados, o Distrito Federal e os Municípios
+          disciplinarão por meio de lei os consórcios públicos e os convênios de
+          cooperação entre os entes federados, autorizando a gestão associada de
+          serviços públicos, bem como a transferência total ou parcial de encargos,
+          serviços, pessoal e bens essenciais à continuidade dos serviços
+          transferidos. (EC 19)
+
+
+        ✓ Lei 11.107/2005
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                        Exemplos
+
+Consórcios Públicos
+Prof. Antonio Daud
+                      
+
+
+---
+
+                      Consórcios Públicos
+
+                         formada exclusivamente
+                          por entes da federação
+
+
+                         relações de cooperação
+ Consórcio Público
+                                federativa
+                                                                Direito público
+                                                               (associação pública)
+                          personalidade jurídica
+                                própria
+                                                                Direito privado
+                                                                (associação civil)
+Consórcios Públicos
+Prof. Antonio Daud
+                          
+
+
+---
+
+Lei 11.107/2005: outros aspectos relevantes
+
+
+Art. 1º, § 3º Os consórcios públicos, na área de saúde, deverão obedecer aos
+princípios, diretrizes e normas que regulam o Sistema Único de Saúde – SUS.
+
+
+§ 4º Aplicam-se aos convênios de cooperação, no que couber, as disposições
+desta Lei relativas aos consórcios públicos.
+
+                          
+
+
+---
+
+   CONSÓRCIOS PÚBLICOS:
+    PERSONALIDADE JURÍDICA,
+PRERROGATIVAS E ÁREA DE ATUAÇÃO
+
+
+                                              Prof. Antonio Daud
+
+         
+
+
+---
+
+                      Personalidade jurídica
+    Lei 11.107/2005, art. 6º O consórcio público adquirirá personalidade jurídica:
+    I – de direito público, no caso de constituir associação pública, mediante a
+    vigência das leis de ratificação do protocolo de intenções;
+    II – de direito privado, mediante o atendimento dos requisitos da legislação
+    civil.
+    § 1º O consórcio público com personalidade jurídica de direito público integra
+    a administração indireta de todos os entes da Federação consorciados.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                
+
+
+---
+
+                  Personalidade jurídica
+❑ Direito público:
+    - autarquia
+    - integra a A.I. de todos os entes consorciados
+    - personalidade surge com a vigência da lei de ratificação do PI
+
+❑ Direito privado:
+    - constituição deve observar as regras civilistas
+
+❑ Ambos: seguem regras de direito público sobre:
+    - licitações e contratos
+    - admissão de pessoal
+    - prestação de contas
+                               
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Consórcios públicos são uma forma de associação entre entes
+       públicos e privados que permite uma gestão associada de recursos
+       humanos, financeiros e materiais
+
+Consórcios Públicos
+Prof. Antonio Daud
+                             
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Existe a possibilidade de o consórcio público ser instituído com
+       personalidade jurídica de direito privado, hipótese em que possuirá
+       natureza jurídica de associação.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                              
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       O regime jurídico constitucional e legal vigente aplicável às entidades
+       da administração indireta dispõe que as associações públicas não são
+       consideradas entidades da administração indireta, em razão de seu
+       regime especial
+
+Consórcios Públicos
+Prof. Antonio Daud
+                               
+
+
+---
+
+                      Prerrogativas do consórcio
+    Art. 2º, § 1º Para o cumprimento de seus objetivos, o consórcio público
+    poderá:
+    I – firmar convênios, contratos, acordos de qualquer natureza, receber auxílios,
+    contribuições e subvenções sociais ou econômicas de outras entidades e
+    órgãos do governo;
+    II – nos termos do contrato de consórcio de direito público, promover
+    desapropriações e instituir servidões nos termos de declaração de utilidade ou
+    necessidade pública, ou interesse social, realizada pelo Poder Público; e
+    III – ser contratado pela administração direta ou indireta dos entes da
+    Federação consorciados, dispensada a licitação.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                
+
+
+---
+
+                      Prerrogativas do consórcio
+    Art. 2º, § 2º Os consórcios públicos poderão emitir documentos de cobrança e
+    exercer atividades de arrecadação de tarifas e outros preços públicos pela
+    prestação de serviços ou pelo uso ou outorga de uso de bens públicos por eles
+    administrados ou, mediante autorização específica, pelo ente da Federação
+    consorciado.
+    § 3º Os consórcios públicos poderão outorgar concessão, permissão ou
+    autorização de obras ou serviços públicos mediante autorização prevista no
+    contrato de consórcio público, que deverá indicar de forma específica o objeto
+    da concessão, permissão ou autorização e as condições a que deverá atender,
+    observada a legislação de normas gerais em vigor.
+
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                
+
+
+---
+
+   Consórcios Públicos: Participantes
+
+
+Art. 1º, § 2º A União somente participará de consórcios públicos em que também
+façam parte todos os Estados em cujos territórios estejam situados os Municípios
+consorciados.
+
+                           
+
+
+---
+
+Consórcios Públicos: Participantes
+
+M+M      • Sem restrições
+
+M + DF   • Sem restrições
+
+
+         • Município não pode celebrar consórcio com
+M+E        Estado diferente daquele no qual seu território
+           se encontra
+
+         • União e Município(s): obrigatória a participação
+M+E+U      do Estado respectivo
+
+                
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       É possível, nos termos da lei, a criação de consórcio público entre
+       Estado e Municípios de outros Estados, sem a participação destes
+       últimos
+
+Consórcios Públicos
+Prof. Antonio Daud
+                              
+
+
+---
+
+         Área de atuação
+
+
+ Ms       • Soma das áreas dos municípios
+
+M + DF    • Soma das áreas dos municípios + DF
+
+Ms + E    • Soma das áreas dos municípios
+
+  Es      • Soma das áreas dos Estados
+
+           
+
+
+---
+
+CONSÓRCIOS PÚBLICOS: CRIAÇÃO
+
+                                             Prof. Antonio Daud
+
+        
+
+
+---
+
+                      Consórcios Públicos: criação
+
+                                                                                       consórcio
+Subscrição                                      Ratificação                            com PJ de
+                        Publicação
+    do                                            (total ou               Celebração     direito
+                          do PI na
+protocolo                                        parcial) do                  do        privado:
+                         imprensa
+    de                                            PI por                   contrato     atendim.
+                           oficial
+intenções                                       meio de lei                            legislação
+                                                                                          civil
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                       Protocolo de intenções
+  Art. 4º São cláusulas necessárias do protocolo de intenções as que estabeleçam:
+  I – a denominação, a finalidade, o prazo de duração e a sede do consórcio;
+  II – a identificação dos entes da Federação consorciados;
+  III – a indicação da área de atuação do consórcio;
+  IV – a previsão de que o consórcio público é associação pública ou pessoa jurídica de direito privado
+  sem fins econômicos;
+  V – os critérios para, em assuntos de interesse comum, autorizar o consórcio público a representar os
+  entes da Federação consorciados perante outras esferas de governo;
+  VI – as normas de convocação e funcionamento da assembléia geral, inclusive para a elaboração,
+  aprovação e modificação dos estatutos do consórcio público;
+  VII – a previsão de que a assembléia geral é a instância máxima do consórcio público e o número de
+  votos para as suas deliberações;
+  VIII – a forma de eleição e a duração do mandato do representante legal do consórcio público que,
+  obrigatoriamente, deverá ser Chefe do Poder Executivo de ente da Federação consorciado;
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                      Protocolo de intenções
+  Art. 4º São cláusulas necessárias do protocolo de intenções as que estabeleçam: (..)
+  IX – o número, as formas de provimento e a remuneração dos empregados públicos, bem como os
+  casos de contratação por tempo determinado para atender a necessidade temporária de excepcional
+  interesse público;
+  X – as condições para que o consórcio público celebre contrato de gestão ou termo de parceria;
+  XI – a autorização para a gestão associada de serviços públicos, explicitando:
+  a) as competências cujo exercício se transferiu ao consórcio público;
+  b) os serviços públicos objeto da gestão associada e a área em que serão prestados;
+  c) a autorização para licitar ou outorgar concessão, permissão ou autorização da prestação dos
+  serviços;
+  d) as condições a que deve obedecer o contrato de programa, no caso de a gestão associada envolver
+  também a prestação de serviços por órgão ou entidade de um dos entes da Federação consorciados;
+  e) os critérios técnicos para cálculo do valor das tarifas e de outros preços públicos, bem como para
+  seu reajuste ou revisão; e
+  XII – o direito de qualquer dos contratantes, quando adimplente com suas obrigações, de exigir o pleno
+  cumprimento
+Consórcios Públicos
+Prof. Antonio Daud
+                    das cláusulas do contrato de consórcio público.
+                                      
+
+
+---
+
+                       Protocolo de intenções
+  Art. 4º, § 2º O protocolo de intenções deve definir o número de votos que cada ente da Federação
+  consorciado possui na assembléia geral, sendo assegurado 1 (um) voto a cada ente consorciado.
+
+  § 3º É nula a cláusula do contrato de consórcio que preveja determinadas contribuições financeiras
+  ou econômicas de ente da Federação ao consórcio público, salvo a doação, destinação ou cessão do
+  uso de bens móveis ou imóveis e as transferências ou cessões de direitos operadas por força de gestão
+  associada de serviços públicos.
+
+  § 4º Os entes da Federação consorciados, ou os com eles conveniados, poderão ceder-lhe servidores,
+  na forma e condições da legislação de cada um.
+
+  § 5º O protocolo de intenções deverá ser publicado na imprensa oficial.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                      Consórcios Públicos: criação
+  Art. 5º O contrato de consórcio público será celebrado com a ratificação, mediante
+  lei, do protocolo de intenções.
+  § 1º O contrato de consórcio público, caso assim preveja cláusula, pode ser
+  celebrado por apenas 1 (uma) parcela dos entes da Federação que subscreveram
+  o protocolo de intenções.
+  § 2º A ratificação pode ser realizada com reserva que, aceita pelos demais entes
+  subscritores, implicará consorciamento parcial ou condicional.
+  § 3º A ratificação realizada após 2 (dois) anos da subscrição do protocolo de
+  intenções dependerá de homologação da assembléia geral do consórcio público.
+  § 4º É dispensado da ratificação prevista no caput deste artigo o ente da Federação
+  que, antes de subscrever o protocolo de intenções, disciplinar por lei a sua
+  participação no consórcio público.
+Consórcios Públicos
+Prof. Antonio Daud
+                               
+
+
+---
+
+            Alteração ou Extinção do Consórcio
+
+                        Extinção do                                     Alteração do
+                         consórcio                                       Consórcio
+                          aprovação pela                                      aprovação pela
+                        assembleia-geral do                                 assembleia-geral do
+                            Consórcio                                           Consórcio
+
+
+                                                                             Lei aprovada pela
+                      Lei aprovada por TODOS
+                                                                            MAIORIA dos entes
+                       os entes consorciados
+                                                                               consorciados
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                       
+
+
+---
+
+Consórcios Públicos: retirada de um ente
+
+  Art. 11. A retirada do ente da Federação do consórcio público dependerá de ato
+  formal de seu representante na assembléia geral, na forma previamente
+  disciplinada por lei.
+
+  § 1º Os bens destinados ao consórcio público pelo consorciado que se retira
+  somente serão revertidos ou retrocedidos no caso de expressa previsão no contrato
+  de consórcio público ou no instrumento de transferência ou de alienação.
+
+  § 2º A retirada ou a extinção de consórcio público ou convênio de cooperação não
+  prejudicará as obrigações já constituídas, inclusive os contratos, cuja extinção
+  dependerá do pagamento das indenizações eventualmente devidas.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                               
+
+
+---
+
+CONSÓRCIOS PÚBLICOS:
+   FUNCIONAMENTO
+
+                                         Prof. Antonio Daud
+
+    
+
+
+---
+
+Consórcios Públicos: contrato de rateio
+
+             
+
+
+---
+
+   Consórcios Públicos: contrato de rateio
+    ✓ Objetivo: viabilizar fornecimento de recursos financeiros pelos entes
+      consorciados ao consórcio
+    ✓ Obrigatório e exclusivo para transferência de recursos ao consórcio
+    ✓ Anual: formalizado a cada exercício
+    ✓ ente consorciado não consignar, em sua lei orçamentária ou créditos
+      adicionais, dotações suficientes para suportar as despesas assumidas por
+      meio de contrato de rateio -> excluído do consórcio (após prévia
+      suspensão)
+    ✓ Improbidade Administrativa: celebrar contrato de rateio sem prévia
+      dotação orçamentária
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                
+
+
+---
+
+              Execução das receitas e despesas
+
+        Art. 9º A execução das receitas e despesas do consórcio público deverá
+        obedecer às normas de direito financeiro aplicáveis às entidades públicas.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                 
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       É denominado contrato de rateio o ajuste celebrado, em cada
+       exercício financeiro, entre entes participantes de consórcio público,
+       para fins de alocação de recursos necessários ao desempenho das
+       atividades do consórcio.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                               
+
+
+---
+
+                       Representante Legal
+     Lei 11.107/2005, art. 4º, VIII – a forma de eleição e a duração do mandato do
+     representante legal do consórcio público que, obrigatoriamente, deverá ser
+     Chefe do Poder Executivo de ente da Federação consorciado;
+
+
+     Art. 9º, Parágrafo único. O consórcio público está sujeito à fiscalização contábil,
+     operacional e patrimonial pelo Tribunal de Contas competente para apreciar as
+     contas do Chefe do Poder Executivo representante legal do consórcio, inclusive
+     quanto à legalidade, legitimidade e economicidade das despesas, atos, contratos
+     e renúncia de receitas, sem prejuízo do controle externo a ser exercido em razão
+     de cada um dos contratos de rateio.
+
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                      Fiscalização do consórcio
+    ✓ Contas do consórcio
+
+    ✓ Contrato de rateio
+
+Consórcios Públicos
+Prof. Antonio Daud
+                            
+
+
+---
+
+   Consórcios Públicos: regime de pessoal
+        ✓ Admissão: regras do direito público (concurso)
+        ✓ Regime celetista
+        ✓ Consórcio de direito público ou privado
+
+
+        Art. 6º, § 2º O consórcio público, com personalidade jurídica de direito
+        público ou privado, observará as normas de direito público no que concerne
+        à realização de licitação, à celebração de contratos, à prestação de contas e à
+        admissão de pessoal, que será regido pela Consolidação das Leis do Trabalho
+        (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
+
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                              Consórcios Públicos:
+                             licitações e contratos
+        ✓ Regras do direito público
+                - licitação (regra)
+                - dispensa por baixo valor (limites duplicados)
+
+        ✓ Consórcio de direito público ou privado
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                      Entes contratando o Consórcio Público
+
+      Art. 2º, § 1º, III – ser contratado pela administração direta ou indireta dos
+      entes da Federação consorciados, dispensada a licitação.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                          Contrato de Programa
+    ✓ Não se confunde com o “contrato de rateio”
+    ✓ Prestação de serviços públicos por outros entes ou por consórcios públicos
+
+                                                                              Consórcios ou outra
+                                       Prestação de
+                      Contrato de                                                 “delegação”
+                                    »»   serviços                  »»
+                       programa                                                interfederativa de
+                                         públicos
+                                                                                serviços públicos
+
+                      Contrato de            Recursos
+                                    »»                             »»             Consórcios
+                        rateio              financeiros
+
+Consórcios Públicos
+Prof. Antonio Daud
+                                         
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Todo consórcio, de direito público ou de direito privado, pode ser
+       contratado diretamente, com dispensa de licitação, pela
+       Administração direta ou indireta dos entes consorciados.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                              
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Os consórcios públicos de direito privado devem observar as normas
+       de direito público no que concerne à realização de licitações,
+       celebração de contratos, prestação de contas e admissão de pessoal,
+       que será regida pela CLT.
+
+Consórcios Públicos
+Prof. Antonio Daud
+                              
+
+
+---
+
+---
+
+---
+
+OBRIGADO
+                                         Prof. Antonio Daud
+
+    
+
+
+---

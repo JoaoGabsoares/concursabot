@@ -1,0 +1,148 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 02_010_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: QUESTÕES FGV 2024
+---
+
+# QUESTÕES FGV 2024
+
+---
+
+QUESTÕES FGV 2024
+MÉDIA
+
+          
+
+
+---
+
+FGV - 2024 - TÉCNICO LEGISLATIVO (CM SP)
+A uma lista de dez números positivos, acrescenta-se o número 7, de modo que a média
+aritmética da nova lista formada por esses onze números passa a ser 8,0.
+Antes da inserção do número 7, a média aritmética dos dez números originais estava entre
+
+A. 8,07 e 8,12.
+B. 8,12 e 8,17.
+C. 8,17 e 8,22.
+D. 8,22 e 8,27.
+E. 8,27 e 8,32.
+
+                                    
+
+
+---
+
+FGV - 2024 - SOLDADO POLICIAL MILITAR (PM RJ)
+A média aritmética de 7 números inteiros consecutivos começados em N é igual a M.
+A média aritmética dos 7 números inteiros consecutivos começados em M é igual a:
+
+A. N;
+B. N + 3;
+C. N + 6;
+D. N + 7;
+E. N + 9.
+
+                                   
+
+
+---
+
+FGV - 2024 - ANALISTA LEGISLATIVO III (ALESC)
+Em um depósito havia 12 caixotes. Substituiu-se um deles por um caixote de 17kg e, com isso,
+a média dos pesos de todos os caixotes diminuiu em 2kg.
+O peso do caixote retirado era de
+
+A. 33kg.
+B. 35kg.
+C. 37kg.
+D. 39kg.
+E. 41kg.
+
+                                    
+
+
+---
+
+FGV - 2024 - ANALISTA DE CONTROLE EXTERNO (TCE-GO)
+O professor calculou a média das notas de 9 alunos numa prova e obteve 5,5. Notou então
+que faltou avaliar uma prova de um décimo aluno, corrigiu a referida prova e deu nota 8,5 a
+ela. A nova média, agora dos dez alunos, foi então igual a
+
+A. 5,6
+B. 5,7
+C. 5,8
+D. 5,85
+E. 5,9
+
+                                     
+
+
+---
+
+FGV - 2024 -TÉCNICO DE NÍVEL MÉDIO (SES MT)
+Uma unidade hospitalar possuía 10 servidores técnico- administrativos. A média aritmética
+das idades desses servidores era de 32,6 anos. Porém, um dos servidores pediu exoneração
+sem que houvesse reposição de pessoal na unidade. Dessa forma, a nova média aritmética
+das idades dos servidores técnico- administrativos da unidade passou a ser de 32 anos.
+A idade do servidor que pediu exoneração, em anos, era
+
+A. 36.
+B. 37.
+C. 38.
+D. 39.
+
+                                    
+
+
+---
+
+FGV - 2024 – PM SP
+Quatro pessoas estão em um elevador. A média aritmética dos pesos dessas quatro pessoas é
+85 kg, e a mais pesada entre elas pesa 100 kg. A pessoa mais pesada sai do elevador e duas
+pessoas, de 50 kg cada uma, entram no elevador.
+
+A nova média dos pesos das pessoas que agora estão no elevador é:
+
+A. igual à média anterior.
+B. 13 kg menor que a média anterior.
+C. 15 kg menor que a média anterior.
+D. 17 kg menor que a média anterior.
+E. 19 kg menor que a média anterior.
+
+                                       
+
+
+---
+
+FGV - 2024 – PM SP
+Joana vai fazer 5 testes com pontuação de 0 a 100 em cada um. Ela já fez 3 testes e obteve as
+seguintes pontuações: 65, 77 e 72.
+Para que Joana obtenha média aritmética igual a 70 nos 5 testes, a menor nota que ela pode
+tirar em um dos 2 testes que faltam é
+
+A. 36.
+B. 42.
+C. 44.
+D. 68.
+
+                                     
+
+
+---
+
+OBRIGADO
+
+     
+
+
+---

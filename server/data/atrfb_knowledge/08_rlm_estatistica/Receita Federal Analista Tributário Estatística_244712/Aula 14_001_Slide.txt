@@ -1,0 +1,786 @@
+SÉRIES TEMPORAIS
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+SÉRIE TEMPORAL
+Uma série temporal é um conjunto de observações ordenadas no
+tempo
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot
+OBJETIVO
+O objetivo da análise de séries temporais é descobrir os padrões de
+comportamento (crescimento e mudança) nas variáveis estudadas,
+buscando entender o relacionamento histórico entre as observações,
+para fins de previsibilidade de valores futuros da série em
+consideração.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+SÉRIE TEMPORAL
+
+Um processo estocástico é um processo controlado pelas leis da
+probabilidade.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+TIPO DE SÉRIE TEMPORAL
+CONTÍNUA
+A série temporal é contínua se as observações são obtidas
+continuamente em um determinado intervalo de tempo [0,T].
+DISCRETA
+A série temporal é discreta se o intervalo de observações
+pertence a um conjunto discreto, ou seja, as observações são
+realizadas em intervalos de tempo específicos.
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+SÉRIE ESTACIONÁRIA
+Uma série temporal é dita estacionária quando ela se desenvolve
+aleatoriamente em torno de uma média constante, exibindo
+comportamento estatístico similar ao longo do tempo. Além disso,
+apresenta sempre a mesma distribuição de probabilidades no
+tempo (mesma média, variância, etc).
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+SÉRIE ESTACIONÁRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Uma série temporal é qualquer conjunto de observações ordenadas
+no tempo. Acerca das séries temporais, assinale a alternativa correta.
+a) As séries temporais não podem ser contínuas nem discretas.
+b) Os modelos utilizados para descrever séries temporais não são
+controlados por fatores probabilísticos.
+c) Os modelos utilizados para descrever séries temporais são
+processos estocásticos, isto é, processos controlados por leis
+probabilísticas.
+d) Um conjunto de observações ordenadas no tempo não é uma série
+temporal.
+e) Um conjunto de índices diários da bolsa de valores não é um
+exemplo de série temporal.
+                         https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+MODELO CLÁSSICO
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+SÉRIE ESTACIONÁRIA
+As séries temporais podem ser decompostas em quatro
+componentes:
+
+ tendência secular (T)
+
+ variação sazonal (S)
+
+ variação cíclica(C)
+
+ variação irregular ou aleatória (I).
+
+                          https://t.me/KakashiAssinaturasBot
+TENDÊNCIA
+A tendência descreve um movimento suave (a longo prazo) dos
+dados, para cima ou para baixo.
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot
+VARIAÇÃO SAZONAL
+As variações sazonais referem-se às mudanças que ocorrem devido
+às forças rítmicas que atuam de forma regular e periódica. Essas
+forças geralmente seguem um padrão semelhante ano após ano.
+Dessa forma, as variações sazonais são variações cíclicas a prazo
+relativamente curto (um ano ou menos).
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+VARIAÇÃO SAZONAL
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+VARIAÇÃO CÍCLICA
+As variações cíclicas são oscilações de longo prazo em torno de
+uma linha de tendência. Esses ciclos podem ou não ser periódicos,
+ou seja, podem ou não seguir padrões semelhantes após intervalos
+de tempo iguais. Essas variações possuem duração maior que um
+ano e não mostram o tipo de regularidade observada no caso de
+variações sazonais.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+VARIAÇÃO IRREGULAR (OU ALEATÓRIA
+As variações aleatórias são flutuações resultantes de forças
+imprevistas e imprevisíveis. Essas forças são causadas por
+ocorrências raras, operam de maneira absolutamente aleatória ou
+errática, e não têm nenhum padrão definido. As variações
+irregulares podem ser resultantes de enchentes, guerras,
+pandemias, terremotos, conflitos políticos, etc.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+INTERAÇÃO ENTRE AS COMPONENTES
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Considerando uma série temporal, é correto afirmar que a tendência
+indica:
+a) comportamento sazonal a curto prazo.
+b) ciclos de altas e quedas periódicas de valores a curto prazo.
+c) comportamento independente dos dados a longo, curto e médio
+prazo.
+d) comportamento a longo prazo.
+e) somente se há um outlier conhecido como ponto influente
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+QUESTÃO 2
+“Quais os elementos que compõem o modelo clássico de séries
+temporais?”.
+ A alternativa correta desta indagação é:
+a) regularização exponencial, variação cíclicas, variações sazonais e
+variações irregulares.
+b) tendência, variações aditivas, médias móveis, variações regulares.
+c) variações multiplicativas, variações irregulares, tendência e
+variações sazonais.
+d) tendência cíclica, variações aditivas, variações sazonais e variações
+irregulares.
+e) tendência, variações cíclicas, variações sazonais e variações
+irregulares.
+                         https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+MODELO CLÁSSICO
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+MODELO ADITIVO
+O modelo aditivo considera uma série temporal como o resultado
+da soma das componentes individuais.
+
+   =    +    +   + It
+
+IMPORTANTE
+
+O modelo aditivo pressupõe que os componentes não interagem
+entre si e são independentes.
+
+
+                        https://t.me/KakashiAssinaturasBot
+MODELO ADITIVO
+O modelo aditivo deve ser empregado quando a série temporal
+não apresentar uma modificação significativa na amplitude com o
+incremento do nível ao longo do tempo.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+MODELO ADITIVO
+Todas as componentes são expressas em suas unidades originais.
+As componentes    ,    e    representam desvios em torno da
+tendência T.
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+MODELO MULTIPLICATIVO
+O modelo multiplicativo considera uma série temporal como
+resultado do produto das componentes individuais.
+
+   =    x    x   x It
+
+IMPORTANTE
+
+O modelo multiplicativo pressupõe que os componentes interagem
+entre si e não são independentes.
+
+
+                        https://t.me/KakashiAssinaturasBot
+MODELO MULTIPLICATIVO
+A decomposição pode ser feita pelo método multiplicativo se as
+magnitudes das flutuações sazonais variam com nível da série ao
+longo do tempo.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+MODELO MULTIPLICATIVO
+No modelo multiplicativo, apenas a tendência T é expressa na
+unidade original. As demais componentes C, S e I são expressas em
+porcentagens da tendência.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Qual método de previsão de Séries Temporais deve ser utilizado
+quando temos tendência e sazonalidade presentes nos dados?
+ a) Decomposição.
+b) Média Móvel.
+c) Alisamento exponencial simples.
+d) Alisamento exponencial duplo.
+e) Análise de tendência com regressão linear.
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Considere a série temporal representada graficamente a seguir:
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Considerando a decomposição clássica da série (Yt) em tendência
+(Tt), sazonalidade (St) e componente aleatório (Et), assinale a
+alternativa correta.
+A. Para avaliar a tendência nessa série através de médias móveis,
+deve-se usar médias móveis de ordem três para não haver muitas
+perdas nas extremidades e garantir a eliminação da sazonalidade.
+B. Na decomposição clássica, a avaliação dos efeitos ou dos índices
+sazonais deve ser realizada antes de se avaliar a tendência.
+C. Como as variações em torno da tendência aumentam de
+magnitude com o valor de Yt, é melhor considerar o modelo
+multiplicativo: Yt=TtxStxEt.
+                        https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+D. Como a tendência é linear, é melhor considerar o modelo
+aditivo: Yt=Tt+St+Et.
+E. A sazonalidade pode ser avaliada por médias móveis
+apropriadas.
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot
+QUESTÃO 2
+Analisando as vendas trimestrais realizadas pela empresa Gama no
+período de 2016 a 2018, obteve-se a equação da tendência
+utilizando o método dos mínimos quadrados com base nestas 12
+observações, ou seja, X t = 10 + 1,5 t, em que X corresponde às
+vendas trimestrais (em milhões de reais) e t = 1 representa o
+primeiro trimestre de 2016, t = 2 representa o segundo trimestre
+de 2016 e assim por diante.
+
+Trimestre        1º               2º                        3º   4º
+   Índices
+                 0,5            0,3                     1,2      1,0
+ Sazonais
+                       https://t.me/KakashiAssinaturasBot
+QUESTÃO 2
+A previsão das vendas para o segundo trimestre de 2020, levando
+em conta o movimento sazonal do período e considerando o
+modelo multiplicativo, é igual, em milhões de reais, a
+A. 11,1.
+B. 12,6.
+C. 12,0.
+D. 11,5.
+E. 11,8.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+QUESTÃO 3
+A análise do comportamento das vendas de uma empresa durante
+os últimos anos permitiu apurar uma tendência linear de
+crescimento ao longo do tempo com sazonalidade. Por meio do
+método dos mínimos quadrados, a empresa deduziu a reta de
+tendência como sendo      = +      , em que    são as vendas, em
+milhares de reais, em t, que representa o trimestre
+correspondente das vendas ( = é o primeiro trimestre de 2001;
+= é o segundo trimestre de 2001, e assim por diante). O quadro a
+seguir fornece os fatores sazonais, caso seja adotado o modelo
+multiplicativo, e as médias das diferenças (vendas observadas
+menos vendas obtidas pela tendência) por trimestre, caso seja
+adotado o modelo aditivo.
+                       https://t.me/KakashiAssinaturasBot
+QUESTÃO 3
+ trimestre    Fator
+             sazonal
+ primeiro         0,4
+ segundo          0,6
+  terceiro        1,2
+   quarto         1,8
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+QUESTÃO 3
+A previsão de vendas, em milhares de reais, para o primeiro
+trimestre de 2006 é
+a) 212, caso seja adotado o método multiplicativo.
+b) 210, caso seja adotado o método multiplicativo.
+c) 200, caso seja adotado o método multiplicativo.
+d) 245, caso seja adotado o método aditivo.
+e) 225, caso seja adotado o método aditivo.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+TENDÊNCIA
+
+
+
+
+            https://t.me/KakashiAssinaturasBot
+TENDÊNCIA
+A tendência se refere ao movimento dos dados a longo prazo, para
+cima e para baixo. Há duas finalidades básicas ao isolar a tendência
+numa série temporal.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+MÉTODOS GERAIS PARA ISOLAR A TENDÊNCIA
+ Regressão Linear
+
+ Médias Móveis
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot
+REGRESSÃO LINEAR
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+ANO    TONELADAS ANO             TONELADAS                =11,65
+2001          12 2011                   18                =0,567
+2002          14 2012                   20
+2003          13   2013                              21
+2004          12   2014                              18
+2005          14   2015                              17
+2006          16   2016                              19
+2007          17   2017                              23
+2008          18   2018                              25
+2009          15   2019                              21
+2010          16   2020                              23
+                     https://t.me/KakashiAssinaturasBot
+MÉDIAS MÓVEIS
+Uma média móvel é uma média das últimas                    observações.
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+MÉDIAS MÓVEIS
+Calcule a média móvel de terceira ordem.
+
+      t   zt
+     1     10
+     2     18
+     3     12
+     4     20
+     5
+     6
+     7
+                        https://t.me/KakashiAssinaturasBot
+MÉDIAS MÓVEIS
+Calcule, a média móvel de quarta ordem.
+
+     t    zt
+     1     10
+     2     18
+     3     12
+     4     20
+     5
+     6
+     7
+                        https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Considere a série temporal de seis itens de números de sinistros a
+pagar no mês a seguir: 200, 210, 205, 217, 207, 203, 209. Usando o
+método de previsão de médias móveis de dois pontos de dados, o
+valor para a projeção do oitavo item de dado é igual a:
+
+a) 200.
+b) 203.
+c) 242.
+d) 207.
+e) 206
+
+                        https://t.me/KakashiAssinaturasBot
+QUESTÃO 2
+Uma série de tempo consiste no consumo mensal, em unidades, de
+um produto no ano de 2017. Pelo método da regressão linear,
+usando os estimadores de mínimos quadrados, obteve-se a equação
+da tendência estimada Tt= 70 + 4t, em que t é o tempo (mês). Essa
+equação foi encontrada com base nas observações do consumo dos
+12 meses de 2017, ou seja, janeiro é representado por t = 1,
+fevereiro por t = 2 e assim por diante até dezembro por t = 12.
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+QUESTÃO 2
+A média mensal do consumo, em unidades, desse produto, no ano
+de 2017, foi então igual a
+A. 74
+B. 94
+C. 100
+D. 120
+E. 96
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+SUAVIZAÇÃO EXPONENCIAL
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+SUAVIZAÇÃO EXPONENCIAL SIMPLES
+
+            1                         1               ⋯
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+SUAVIZAÇÃO EXPONENCIAL SIMPLES
+        Z1               Z2                           Z3
+        10               12                           15
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+SUAVIZAÇÃO EXPONENCIAL SIMPLES
+ ̅        1      ̅
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+SUAVIZAÇÃO EXPONENCIAL SIMPLES
+Média anterior = 90
+
+Valor atual = 100
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Considere o método de suavização exponencial simples para
+previsão. Suponha que a taxa de amortecimento seja 0,9, e que a
+previsão de 1 passo à frente na origem =       éX     =    . Se
+! = , qual é a previsão de 1 passo à frente em =         ?
+a) 49,5
+b) 50
+c) 50,5
+d) 54,5
+e) 55
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+SÉRIES TEMPORAIS
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+OPERADOR BACK
+     "# $        $    #
+
+
+
+
+5;    8;    6;   7;   8;   5;     10;         9
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+OPERADOR DIFERENÇA
+ Δ$       $     $
+
+
+
+5;   8;   6;   7;   8;   5;     10;         9
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+OPERADOR DIFERENÇA DE ORDEM 2
+Δ $   $   2$   +$
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+OPERADOR DIFERENÇA DE ORDEM 2
+Δ $       $     2$        +$
+
+
+
+5;   8;   6;   7;    8;   5;     10;         9
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+AUTOCOVARIÂNCIA
+
+ É A VARIÂNCIA ENTRE DOIS VALORES OBSERVADOS EM INTANTES DIFERENTES.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+AUTOCOVARIÂNCIA
+   Z1   Z2   Z3   Z4             Z5             Z6     Z7
+    5    8   10   13             16             20     22
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+AUTOCOVARIÂNCIA
+
+PARA PROCESSOS ESTACIONÁRIOS, A COVARIÂNCIA DEPENDE APENAS DA DIFERENÇA
+ENTRE OS TEMPOS T1 E T2
+
+LAG = T2 – T1
+
+
+ '(       ,     *   ,         *+,-
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+AUTOCORRELAÇÃO
+
+MEDE A DEPENDÊNCIA LINEAR ENTRE DOIS INSTANTES COM LAG IGUAL A K.
+
+
+         *+,-
+. ,
+         *+0-
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+SÉRIES TEMPORAIS
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+ARIMA
+
+AUTO REGRESSIVOS INTEGRADOS DE MÉDIAS MÓVEIS
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+MODELO AUTO REGRESSIVO - AR
+AUTO REGRESSIVOS INTEGRADOS DE MÉDIAS MÓVEIS
+
+ Cada valor é uma combinação linear dos valores que o antecedem.
+
+0         1 0       1 0                ⋯          1# 0     #   2
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+OPERADOR AUTORREGRESSIVO ESTACIONÁRIO
+0     1 0    1 0               ⋯         1# 0           #   2
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+OPERADOR (POLINÔMIO) AUTORREGRESSIVO
+
+0   2   0,30   0,50            2
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+OPERADOR (POLINÔMIO) AUTORREGRESSIVO
+
+0   5   0,10   0,60            2
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+OPERADOR (POLINÔMIO) AUTORREGRESSIVO
+
+0   4   0,50
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+OPERADOR (POLINÔMIO) AUTORREGRESSIVO
+
+0   1   0,40
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+SÉRIES TEMPORAIS
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+MODELO ESTACIONÁRIO
+
+
+          SE OS MÓDULOS DAS RAÍZES FOREM MAIORES DO 1       ESTACIONÁRIA
+
+
+7 "   0
+
+
+          SEMPRE INVERTÍVEIS
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+MODELO ESTACIONÁRIO
+
+
+          SE OS MÓDULOS DAS RAÍZES FOREM MAIORES DO 1       ESTACIONÁRIA
+
+
+7 "   0
+
+
+          SEMPRE INVERTÍVEIS
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+MODELO ESTACIONÁRIO
+
+0   1   0,40
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+MODELO ESTACIONÁRIO
+
+0   2   0,750   0,1250
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+QUESTÃO
+Considerando o modelo de séries temporais expresso por
+     0,6.          , em que denota um ruído branco com
+média zero e variância de 0,8. Assinale a alternativa que contém a
+variância do processo.
+
+a) 1
+b) 1,25
+c) 2
+d) 2,25
+e) 4
+
+
+                         https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+

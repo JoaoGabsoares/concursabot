@@ -1,0 +1,2289 @@
+                                 Aula 12 - Somente em
+                                                  PDF
+                          Receita Federal (Analista Tributário)
+                                        Legislação Tributária
+
+
+
+                                                        Autor:
+                                                  Fábio Dutra
+
+
+
+
+                                            27 de Março de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 12 - Somente em PDF
+
+
+
+                                                                         Sumário
+
+CIDE-COMBUSTÍVEIS ..................................................................................................................................... 3
+
+   Princípios e regras constitucionais aplicáveis à contribuição ........................................................................ 3
+
+   Fato Gerador ............................................................................................................................................ 4
+
+   Contribuinte ............................................................................................................................................... 5
+
+   Base de Cálculo ......................................................................................................................................... 5
+
+   Apuração .................................................................................................................................................. 8
+
+   Síntese da CIDE-Combustíveis..................................................................................................................... 9
+
+CIDE-REMESSAS .......................................................................................................................................... 10
+
+   Princípios e regras constitucionais aplicáveis à contribuição ...................................................................... 10
+
+   Fato Gerador .......................................................................................................................................... 10
+
+   Contribuinte ............................................................................................................................................. 11
+
+   Base de Cálculo ....................................................................................................................................... 12
+
+   Apuração ................................................................................................................................................ 12
+
+   Síntese da CIDE-Remessas........................................................................................................................ 13
+
+CONTRIBUIÇÃO SOCIAL SOBRE LUCRO LÍQUIDO (CSLL)............................................................................. 13
+
+   Princípios e regras constitucionais aplicáveis à contribuição ...................................................................... 13
+
+   Fato Gerador .......................................................................................................................................... 14
+
+   Contribuinte ............................................................................................................................................. 16
+
+   Base de Cálculo ....................................................................................................................................... 16
+
+   Apuração ................................................................................................................................................ 19
+
+   Síntese da CSLL ....................................................................................................................................... 19
+
+QUESTÕES COMENTADAS .......................................................................................................................... 21
+
+LISTA DE QUESTÕES.................................................................................................................................... 34
+
+
+
+
+            Receita Federal (Analista Tributário) Legislação Tributária                                                                                     1
+            www.estrategiaconcursos.com.br                                                                                                                 42
+
+                                                  https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 12 - Somente em PDF
+
+
+
+GABARITO .................................................................................................................................................. 42
+
+
+
+
+            Receita Federal (Analista Tributário) Legislação Tributária                                                                                  2
+            www.estrategiaconcursos.com.br                                                                                                              42
+
+                                                  https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+
+                                   CIDE-COMBUSTÍVEIS
+
+Princípios e regras constitucionais aplicáveis à contribuição
+
+Você provavelmente já ouviu falar da CIDE-Combustíveis, certo? Pois bem, ela foi instituída pela Lei
+10.336/2001 e sobre ela podemos dizer que é a única CIDE cujo fato gerador e o destino da arrecadação
+foram expressamente previstos no corpo da própria CF/88. Senão, vejamos (art. 177, § 4º):
+
+
+       importação ou comercialização de petróleo e seus derivados, gás natural e seus derivados e álcool
+       combustível deverá atender aos seguintes requisitos:
+
+       I - a alíquota da contribuição poderá ser:
+
+       a) diferenciada por produto ou uso;
+
+       b)reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art.
+       150,III, b;
+
+       II - os recursos arrecadados serão destinados:
+
+       a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás natural e seus
+       derivados e derivados de petróleo;
+
+       b) ao financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás;
+
+       c) ao financiamento de programas de infra-estrutura de transportes.
+
+É importante que o candidato tenha em mente que a CIDE-Combustíveis obedecerá aos requisitos dos art.
+149, § 2º e também ao art. 177, § 4º. Veja que sua alíquota poderá ser diferenciada por produto ou por uso,
+e que também terá regras especiais para ser reduzida e restabelecida (esse detalhe será visto no estudo dos
+princípios constitucionais tributários). Grave também a destinação que pode ser dada aos recursos
+arrecadados com essa modalidade de CIDE.
+
+Além disso, outro ponto digno de nota nesse art. 149 da CF/88 é o seu § 2º, que afirma que tanto as
+contribuições sociais como as CIDEs deverão ter as seguintes características:
+
+       Não incidirão sobre as receitas decorrentes de exportação;
+
+       Incidirão também sobre a importação de produtos estrangeiros ou serviços;
+       Poderão ter alíquotas ad valorem ou específica.
+
+As alíquotas ad valorem são aquelas em que se aplica um percentual sobre o valor a ser tributado (por
+exemplo, 10% sobre R$ 500,00). As alíquotas específicas são diferentes e menos usuais. Elas tomam por base
+a unidade de medida adotada. Por exemplo, R$ 1,00 de tributo a cada maço de cigarros.
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     3
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+Ademais, no caso da incidência das referidas contribuições sobre as operações de importação, permitiu-se
+equiparar a pessoa natural destinatária a pessoa jurídica, na forma da lei. É o que prevê o art. 149, § 3º, da
+CF/88.
+
+Digno de nota também é o § 4º deste artigo, ao estabelecer a possibilidade de incidência monofásica de tais
+contribuições. A incidência monofásica se justifica em tributos cuja incidência ocorre várias vezes sobre o
+mesmo produto. Dessa forma, por questão de praticabilidade, permite-se uma única incidência.
+
+Estudaremos, nos próximos tópicos, as definições legais sobre a CIDE-Combustíveis, e você poderá constatar
+que a referida norma não contraria as disposições constitucionais previstas no art. 177, § 4º. Fique de olho!
+
+
+Antes de avançarmos, vamos resumir os princípios tributários aplicáveis à CIDE-Combustíveis, e que podem
+cair na prova:
+
+                  Princípio Tributário                                  Aplicação à CIDE-Combustíveis
+ Princípio da Legalidade                                      Excepcionado (redução e restabelecimento)
+ Princípio da Anterioridade Anual                             Excepcionado
+ Princípio da Noventena                                       Aplicável
+ Princípio da Irretroatividade                                Aplicável
+
+A exceção em relação ao princípio da legalidade foi prevista no art. 177, § 4°, I, b, da CF/88, que afirma que
+a alíquota da referida contribuição poderá ser reduzida e restabelecida por ato do Poder Executivo.
+
+Entenda que restabelecer a alíquota significa elevá-la ao limite máximo fixado inicialmente pela lei. Ou seja,
+a lei, quando cria o tributo, prevê certa alíquota, como, por exemplo, 30%. Com a redução por ato do Poder
+Executivo, a alíquota poderia ser reduzida para 10%. Neste caso, para permanecer como exceção ao princípio
+da legalidade, as alíquotas só poderiam ser restabelecidas ao que foi inicialmente previsto, qual seja, 30%.
+
+Caso fosse cobrado algo além desse percentual, estaria caracterizada a majoração de alíquotas, que deverá
+ocorrer por meio de uma lei.
+
+Em relação ao princípio da anterioridade anual, a CIDE-Combustíveis constitui exceção apenas em caso de
+redução (dedução óbvia do próprio princípio) e do restabelecimento. Se houver majoração das alíquotas,
+portanto, haverá a consequente sujeição ao princípio estudado.
+
+Agora vamos ao estudo da Lei 10.336, de 19 de dezembro de 2001!
+
+
+Fato Gerador
+
+Da redação do art. 177, § 4º, já é possível perceber os fatos geradores da CIDE-Combustíveis: importação e
+comercialização de petróleo e seus derivados, gás natural e seus derivados e álcool combustível. Vejamos,
+então, o que dispôs o art. 3º, da lei instituidora sobre os fatos geradores dessa contribuição:
+
+       Fato Geradores        Importação e Comercialização no mercado interno de:
+
+                I gasolinas e suas correntes;
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                        4
+        www.estrategiaconcursos.com.br                                                                    42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+                II - diesel e suas correntes;
+
+                III querosene de aviação e outros querosenes;
+
+                IV - óleos combustíveis (fuel-oil);
+
+                V - gás liquefeito de petróleo, inclusive o derivado de gás natural e de nafta; e
+
+                VI - álcool etílico combustível.
+
+        Observação: Consideram-se correntes os hidrocarbonetos líquidos derivados de petróleo
+        e os hidrocarbonetos líquidos derivados de gás natural utilizados em mistura mecânica para
+        a produção de gasolinas ou de diesel, de conformidade com as normas estabelecidas pela
+        ANP.
+
+
+Contribuinte
+
+Os contribuintes da CIDE-Combustíveis foram estabelecidos no art. 2º, da Lei 10.336/01, sendo os seguintes:
+o produtor, o formulador e o importador, pessoa física ou jurídica, dos combustíveis líquidos sujeitos a
+essa contribuição.
+
+        Observação: Considera-se formulador de combustível líquido, derivados de petróleo e
+        derivados de gás natural, a pessoa jurídica, conforme definido pela Agência Nacional do
+        Petróleo (ANP) autorizada a exercer, em Plantas de Formulação de Combustíveis, as
+        seguintes atividades:
+
+        I - aquisição de correntes de hidrocarbonetos líquidos;
+
+        II - mistura mecânica de correntes de hidrocarbonetos líquidos, com o objetivo de obter
+        gasolinas e diesel;
+
+        III - armazenamento de matérias-primas, de correntes intermediárias e de combustíveis
+        formulados;
+
+        IV - comercialização de gasolinas e de diesel; e
+
+        V - comercialização de sobras de correntes.
+
+
+Base de Cálculo
+
+A base de cálculo da CIDE-Combustíveis encontra-se prevista no art. 4º, da Lei 10.336/01, sendo considerada
+como a unidade de medida adotada na própria Lei 10.336/01, na importação e comercialização no
+mercado interno dos produtos citados no tópico anterior.
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     5
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+Quando a base de cálculo do tributo consiste na unidade de medida adotada na lei (Kg, m³, m², etc.), as
+alíquotas são específicas, ou seja, representam um valor em reais, para cada unidade de medida prevista na
+lei. Desse modo, não se trata de um percentual incidente sobre um valor monetário.
+
+Não é relevante memorizar as alíquotas da CIDE-Combustíveis. Contudo, para compreendermos como
+funciona a tributação na forma de alíquotas específicas, vejamos alguns exemplos:
+
+       Art. 5º A Cide terá, na importação e na comercialização no mercado interno, as seguintes alíquotas
+       específicas:    (Redação dada pela Lei nº 10.636, de 2002)
+
+       I gasolina, R$ 860,00 por m³; (Redação dada pela Lei nº 10.636, de 2002)
+
+       II diesel, R$ 390,00 por m³; (Redação dada pela Lei nº 10.636, de 2002)
+
+       III querosene de aviação, R$ 92,10 por m³; (Redação dada pela Lei nº 10.636, de 2002)
+
+       IV outros querosenes, R$ 92,10 por m³; (Redação dada pela Lei nº 10.636, de 2002)
+
+Note também que, como a CIDE-Combustíveis incide tanto na importação como na comercialização no
+mercado interno, fica evidente o seu caráter plurifásico. O que isso significa? A mesma gasolina importada
+pode sofrer tributação durante a sua distribuição no mercado interno, gerando várias tributações
+subsequentes.
+
+Dessa forma, o legislador (Lei 10.336/01, art. 7º) conferiu o caráter não cumulativo a essa contribuição, com
+o objetivo de evitar a incidência cumulativa (ou em cascata), permitindo a compensação do valor de
+contribuição pago na importação ou comercialização no mercado interno, com o valor já pago na
+importação ou na aquisição dos produtos tributados pela referida contribuição de outro contribuinte.
+
+Ressaltamos que o legislador admitiu no art. 8º, da Lei 10.336/01, a dedução do valor da Cide, pago na
+importação ou na comercialização, no mercado interno, dos valores da contribuição para o PIS/Pasep e da
+Cofins devidos na comercialização, no mercado interno, de alguns produtos, até o limite fixado na norma.
+Porém, com a edição do Decreto 5.060/04, tal dedução foi reduzida a zero, isto é, não é mais possível.
+
+Qual eram esses limites (apenas para que você possa enxergar o que não é mais possível)?
+
+                I R$ 49,90 e R$ 230,10 por m³, no caso de gasolinas;
+
+                II R$ 30,30 e R$ 139,70 por m³, no caso de diesel;
+
+                III R$ 16,30 e R$ 75,80 por m³, no caso de querosene de aviação;
+
+                IV R$ 16,30 e R$ 75,80 por m³, no caso dos demais querosenes;
+
+                V R$ 14,50 e R$ 26,40 por t, no caso de óleos combustíveis com alto teor de enxofre;
+
+                VI R$ 14,50 e R$ 26,40 por t, no caso de óleos combustíveis com baixo teor de enxofre;
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      6
+        www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+                VII R$ 44,40 e R$ 205,60 por t, no caso de gás liquefeito de petróleo, inclusive derivado de
+                gás natural e de nafta;
+
+                VIII R$ 13,20 e R$ 24,00 por m³, no caso de álcool etílico combustível.
+
+        Observação: Cuidado! Não cabe mais essa dedução! Veja o Decreto 5060/2004:
+
+        Art. 2º Ficam reduzidos a zero os limites de dedução da contribuição para o PIS/PASEP e da
+        COFINS, a que se refere o art. 8o da Lei nº 10.336, de 2001.
+
+Agora vamos detalhar uma regra constitucional muito importante (e já citada na aula):
+
+                                                                    econômico relativa às atividades de
+       importação ou comercialização de petróleo e seus derivados, gás natural e seus derivados e álcool
+       combustível deverá atender aos seguintes requisitos:
+
+       I - a alíquota da contribuição poderá ser:
+
+       (...)
+
+       b)reduzida e restabelecida por ato do Poder Executivo, não se lhe aplicando o disposto no art.
+       150,III, b;
+
+Essa possibilidade de redução e restabelecimento das alíquotas da CIDE-Combustíveis por ato do Poder
+Executivo consta no art. 9º, da Lei 10336/01:
+
+        Art. 9º O Poder Executivo poderá reduzir as alíquotas específicas de cada produto, bem
+        assim restabelecê-las até o valor fixado no art. 5o.
+
+E, na prática, isso ocorreu pelo Decreto 5060/2004:
+
+        Art. 1º As alíquotas específicas da Contribuição de Intervenção no Domínio Econômico
+        incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural
+        e seus derivados e álcool etílico combustível - Cide, previstas no art. 5º da Lei nº 10.336, de
+        19 de dezembro de 2001, ficam reduzidas para: (Redação dada pelo Decreto nº 8.395, de
+        2015)
+
+        I - R$ 100,00 (cem reais) por metro cúbico de gasolinas e suas correntes; e
+
+        Parágrafo único. Ficam reduzidas a zero as alíquotas de que trata o caput para os seguintes
+        produtos: (Incluído pelo Decreto nº 8.395, de 2015)
+
+        I - querosene de aviação; (Incluído pelo Decreto nº 8.395, de 2015)
+
+        II - demais querosenes; (Incluído pelo Decreto nº 8.395, de 2015)
+
+        III - óleos combustíveis com alto teor de enxofre; (Incluído pelo Decreto nº 8.395, de 2015)
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                       7
+        www.estrategiaconcursos.com.br                                                                    42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+        IV - óleos combustíveis com baixo teor de enxofre; (Incluído pelo Decreto nº 8.395, de
+        2015)
+
+        V - gás liquefeito de petróleo, inclusive o derivado de gás natural e de nafta; (Redação dada
+        pelo Decreto nº 9.391, de 2018)
+
+        VI - álcool etílico combustível; e (Redação dada pelo Decreto nº 9.391, de 2018)
+
+        VII - óleo diesel e suas correntes. (Incluído pelo Decreto nº 9.391, de 2018)
+
+
+Apuração
+
+A regra de apuração da CIDE-Combustíveis consta no art. 6º, da 10.336/01:
+
+        Art. 6º Na hipótese de importação, o pagamento da Cide deve ser efetuado na data do
+        registro da Declaração de Importação.
+
+        Parágrafo único. No caso de comercialização, no mercado interno, a Cide devida será
+        apurada mensalmente e será paga até o último dia útil da primeira quinzena do mês
+        subseqüente ao de ocorrência do fato gerador.
+
+
+
+
+        Apuração da CIDE-Combustíveis:
+
+        Importação registro da Declaração de Importação (atualmente DUIMP ou Documento
+        Único de Importação)
+
+        Comercialização Apuração mensal, com pagamento até o último dia útil da primeira
+        quinzena após fechamento da apuração (fato gerador).
+
+Ainda sobre a repartição das receitas da CIDE-Combustíveis, vejamos a redação do art. 159, III, da CF/88:
+
+        Art. 159. A União entregará: (Vide Emenda Constitucional nº 55, de 2007)
+
+        III - do produto da arrecadação da contribuição de intervenção no domínio econômico
+        prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal,
+        distribuídos na forma da lei, observada a destinação a que se refere o inciso II, c, do referido
+        parágrafo.(Redação dada pela Emenda Constitucional nº 44, de 2004)
+
+O que isso significa?
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                         8
+        www.estrategiaconcursos.com.br                                                                     42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+A CF/88 determina a repartição das receitas tributárias auferidas com a CIDE-Combustíveis pela União com
+outros entes federativos. Trata-se do único caso em que outra espécie tributária, que não os impostos, é
+repartida com os demais entes federativos.
+
+Como funciona essa repartição?
+
+Do montante arrecadado com a CIDE-Combustíveis, 29% é destinado aos Estados e DF, distribuídos na forma
+da lei, sendo que 25% destes 29% é repassado aos Municípios com base nos mesmos critérios definidos em
+lei. Portanto, não estaria errado dizer que aos Municípios cabe 7,25% da CIDE-Combustíveis.
+
+ A participação dos Estados e DF na arrecadação da CIDE não é autoaplicável, dependendo de
+regulamentação por lei.
+
+Veja, ainda, que a destinação é o financiamento de programas de infra-estrutura de transportes (art. 177, §
+                                                                     -A, § 2º, prevê a distribuição dessas
+receitas, obedecendo os seguintes critérios:
+
+        I 40% (quarenta por cento) proporcionalmente à extensão da malha viária federal e
+        estadual pavimentada existente em cada Estado e no Distrito Federal, conforme
+        estatísticas elaboradas pelo Departamento Nacional de Infra-Estrutura de Transportes -
+        DNIT;
+
+        II 30% (trinta por cento) proporcionalmente ao consumo, em cada Estado e no Distrito
+        Federal, dos combustíveis a que a Cide se aplica, conforme estatísticas elaboradas pela
+        Agência Nacional do Petróleo - ANP;
+
+        III 20% (vinte por cento) proporcionalmente à população, conforme apurada pela
+        Fundação Instituto Brasileiro de Geografia e Estatística - IBGE;
+
+        IV 10% (dez por cento) distribuídos em parcelas iguais entre os Estados e o Distrito
+        Federal.
+
+
+Síntese da CIDE-Combustíveis
+
+                                                 CIDE-COMBUSTÍVEIS
+ Competência: União
+ Finalidade: Extrafiscal
+ Fato Gerador: Importação e Comercialização no mercado interno de combustíveis.
+ Base de Cálculo: Unidade de medida adotada em lei (m³)
+ Contribuinte: o produtor, o formulador e o importador, pessoa física ou jurídica, dos combustíveis
+ líquidos sujeitos a essa contribuição.
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     9
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+
+                                        CIDE-REMESSAS
+Antes de mais nada, é preciso saber que a CIDE-Remessas também é conhecida como CIDE-Royalties. Ao
+longo da exposição teórica, falaremos sobre a referida contribuição das duas formas, para que você se
+adapte!
+
+
+Princípios e regras constitucionais aplicáveis à contribuição
+
+Em relação aos princípios e regras constitucionais aplicáveis à CIDE-Remessas, temos as seguintes regras no
+art. 149 da CF/88, em seu § 2º, que afirma que tanto as contribuições sociais como as CIDEs deverão ter as
+seguintes características:
+
+       Não incidirão sobre as receitas decorrentes de exportação;
+
+       Incidirão também sobre a importação de produtos estrangeiros ou serviços;
+
+       Poderão ter alíquotas ad valorem ou específica.
+
+As alíquotas ad valorem são aquelas em que se aplica um percentual sobre o valor a ser tributado (por
+exemplo, 10% sobre R$ 500,00). As alíquotas específicas são diferentes e menos usuais. Elas tomam por base
+a unidade de medida adotada. Por exemplo, R$ 1,00 de tributo a cada maço de cigarros.
+
+Ademais, no caso da incidência das referidas contribuições sobre as operações de importação, permitiu-se
+equiparar a pessoa natural destinatária a pessoa jurídica, na forma da lei. É o que prevê o art. 149, § 3º, da
+CF/88.
+
+Digno de nota também é o § 4º deste artigo, ao estabelecer a possibilidade de incidência monofásica de tais
+contribuições. A incidência monofásica se justifica em tributos cuja incidência ocorre várias vezes sobre o
+mesmo produto. Dessa forma, por questão de praticabilidade, permite-se uma única incidência.
+
+Antes de prosseguirmos, vamos resumir os princípios tributários aplicáveis à CIDE-Remessas, e que podem
+cair na prova:
+
+                  Princípio Tributário                                    Aplicação à CIDE-Remessas
+ Princípio da Legalidade                                      Aplicável
+ Princípio da Anterioridade Anual                             Aplicável
+ Princípio da Noventena                                       Aplicável
+ Princípio da Irretroatividade                                Aplicável
+
+
+Fato Gerador
+
+A CIDE-Royalties foi instituída com base no art. 149, da CF/88, que confere, como vimos, competência
+tributária exclusiva à União para instituir contribuições de intervenção no domínio econômico. Sua
+instituição ocorreu por intermédio da Lei 10.168/00. Vejamos o que dispõe seus arts. 1º e 2º:
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                       10
+        www.estrategiaconcursos.com.br                                                                    42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+       Art. 1o Fica instituído o Programa de Estímulo à Interação Universidade-Empresa para o Apoio à
+       Inovação, cujo objetivo principal é estimular o desenvolvimento tecnológico brasileiro, mediante
+       programas de pesquisa científica e tecnológica cooperativa entre universidades, centros de pesquisa
+       e o setor produtivo.
+
+       Art. 2o Para fins de atendimento ao Programa de que trata o artigo anterior, fica instituída
+       contribuição de intervenção no domínio econômico, devida pela pessoa jurídica detentora de licença
+       de uso ou adquirente de conhecimentos tecnológicos, bem como aquela signatária de contratos que
+       impliquem transferência de tecnologia, firmados com residentes ou domiciliados no exterior.
+
+Como se observa, o objetivo da CIDE-Royalties é financiar o Programa de Estímulo à Interação Universidade-
+Empresa para Apoio à Inovação, o qual tem por objetivo estimular o desenvolvimento tecnológico
+brasileiro, mediante programas de pesquisa científica e tecnológica cooperativa entre universidades,
+centros de pesquisa e o setor produtivo.
+
+        Observação: Royalties refere-se ao valor pago pelo uso ou exploração de direitos de
+        propriedade industrial de terceiros. Assim, os valores pagos pelo uso de uma patente, por
+        exemplo, são considerados royalties.
+
+Tal contribuição é devida pela pessoa jurídica detentora de licença de uso ou adquirente de conhecimentos
+tecnológicos, bem como aquela signatária de contratos que impliquem transferência de tecnologia, firmados
+com residentes ou domiciliados no exterior.
+
+Além disso, a partir de 1º de janeiro de 2002, a CIDE-Royalties passa a ser devida também pelas pessoas
+jurídicas signatárias de contratos que tenham por objeto serviços técnicos e de assistência administrativa e
+semelhantes a serem prestados por residentes ou domiciliados no exterior, bem assim pelas pessoas
+jurídicas que pagarem, creditarem, entregarem, empregarem ou remeterem royalties, a qualquer título, a
+beneficiários residentes ou domiciliados no exterior.
+
+De acordo com o art. 2º, § 1º-A, da Lei 10.168/01, a CIDE-Royalties não incide sobre a remuneração pela
+licença de uso ou de direitos de comercialização ou distribuição de programa de computador, salvo quando
+envolverem a transferência da correspondente tecnologia.
+
+
+Contribuinte
+
+O art. 2º da Lei 10.168/01, prevê que a CIDE-Royalties pela pessoa jurídica detentora de licença de uso ou
+adquirente de conhecimentos tecnológicos, bem como aquela signatária de contratos que impliquem
+transferência de tecnologia, firmados com residentes ou domiciliados no exterior.
+
+Também é devida pelas pessoas jurídicas signatárias de contratos que tenham por objeto serviços técnicos
+e de assistência administrativa e semelhantes a serem prestados por residentes ou domiciliados no exterior,
+bem assim pelas pessoas jurídicas que pagarem, creditarem, entregarem, empregarem ou remeterem
+royalties, a qualquer título, a beneficiários residentes ou domiciliados no exterior.
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     11
+        www.estrategiaconcursos.com.br                                                                  42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+
+        PJ que remeter recursos a beneficiário no exterior em troca de conhecimentos
+        tecnológicos ou contratos que impliquem transferência de tecnologia.
+
+        PJ que remeter recursos a beneficiário no exterior em razão de contratos que tenham por
+        objeto serviços técnicos e de assistência administrativa e semelhantes.
+
+        PJ que pagar, creditar, entregar, empregar ou remeter a beneficiário no exterior royalties,
+        a qualquer título.
+
+
+Base de Cálculo
+
+A base de cálculo da CIDE-Royalties é o somatório dos valores pagos, creditados, entregues, empregados
+ou remetidos a cada mês a residentes ou domiciliados no exterior:
+
+        Art. 2º:
+
+        (...)
+
+        § 3º A contribuição incidirá sobre os valores pagos, creditados, entregues, empregados ou
+        remetidos, a cada mês, a residentes ou domiciliados no exterior, a título de remuneração
+        decorrente das obrigações indicadas no caput e no § 2o deste artigo.
+
+Portanto, a CIDE-Royalties incidirá sobre os valores pagos, creditados, entregues, empregados ou remetidos,
+a cada mês, a residentes ou domiciliados no exterior, a título de remuneração decorrente das obrigações
+citadas acima. A alíquota da CIDE-Royalties será de 10%.
+
+Como consequência dessa incidência, o legislador reduziu (de 25% para 15%) a alíquota do Imposto de Renda
+Retido na Fonte (IRRF) incidente sobre as importâncias pagas, creditadas, entregues, empregadas ou
+remetidas ao exterior a título de remuneração de serviços de assistência administrativa e
+semelhantes. Assim, atualmente incide 10% de CIDE-Royalties e 15% de IRRF.
+
+
+Apuração
+
+A apuração da CIDE-Royalties é mensal, devendo o pagamento ser realizado até o último dia útil da quinzena
+subsequente ao mês de ocorrência do fato gerador:
+
+        Art. 2º:
+
+        (...)
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    12
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+        § 3º A contribuição incidirá sobre os valores pagos, creditados, entregues, empregados ou
+        remetidos, a cada mês, a residentes ou domiciliados no exterior, a título de remuneração
+        decorrente das obrigações indicadas no caput e no § 2o deste artigo.
+
+        § 4º A alíquota da contribuição será de 10% (dez por cento).                (Redação da pela Lei
+        nº 10.332, de 2001)
+
+        § 5º O pagamento da contribuição será efetuado até o último dia útil da quinzena
+        subseqüente ao mês de ocorrência do fato gerador.     (Incluído pela Lei nº 10.332,
+        de 2001)
+
+
+Síntese da CIDE-Remessas
+
+                                           CIDE-Remessas (CIDE-Royalties)
+ Competência: União
+ Finalidade: Extrafiscal
+ Fato Gerador: Remessa de recursos a beneficiários no exterior (em troca de conhecimentos tecnológicos,
+ serviços técnicos, royalties)
+ Base de Cálculo: Valores pagos, creditados, entregues, empregados ou remetidos, a cada mês
+ Contribuinte:     PJ que remeter recursos a beneficiário no exterior em troca de conhecimentos
+ tecnológicos ou contratos que impliquem transferência de tecnologia.
+
+                  PJ que remeter recursos a beneficiário no exterior em razão de contratos que tenham
+ por objeto serviços técnicos e de assistência administrativa e semelhantes.
+
+                    PJ que pagar, creditar, entregar, empregar ou remeter a beneficiário no exterior
+ royalties, a qualquer título.
+
+
+    CONTRIBUIÇÃO SOCIAL SOBRE LUCRO LÍQUIDO
+                    (CSLL)
+
+Princípios e regras constitucionais aplicáveis à contribuição
+
+A CSLL é uma contribuição destinada ao custeio da seguridade social. Antes de entendê-la, vejamos as fontes
+de custeio estabelecidas pelo legislador constituinte (CF/88, art. 195):
+
+       1.   Importador de bens e serviços do exterior (art. 195, IV);
+       2.   Receita de concursos prognósticos, ou seja, loterias (art. 195, III);
+       3.   Trabalhador e demais segurados da previdência social (art. 195, II);
+       4.   Empregador e empresa e a estes equiparados pela lei (art. 195, I).
+
+As contribuições de seguridade social têm, por objetivo, carrear recursos para a seguridade social,
+                                                                  compreende um conjunto integrado
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                        13
+        www.estrategiaconcursos.com.br                                                                     42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à
+saúde, à previdência e à assistência social
+
+A CSLL está dentro da categoria de contribuições devidas pelo empregador e empresa. Afinal, o art. 195, I,
+da CF, estabelece o seguinte:
+
+         Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e
+        indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos
+        Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais: (Vide
+        Emenda Constitucional nº 20, de 1998)
+
+        I - do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes
+        sobre:     (Redação dada pela Emenda Constitucional nº 20, de 1998)
+
+        a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer
+        título, à pessoa física que lhe preste serviço, mesmo sem vínculo
+        empregatício;       (Incluído pela Emenda Constitucional nº 20, de 1998)
+
+        b) a receita ou o faturamento;           (Incluído pela Emenda Constitucional nº 20, de 1998)
+
+        c) o lucro;      (Incluído pela Emenda Constitucional nº 20, de 1998)
+
+                                                                              Afinal, é uma contribuição devida
+pelas empresas e incidente sobre o lucro de suas operações.
+
+Antes de prosseguirmos, vamos resumir os princípios tributários aplicáveis à CSLL, e que podem cair na
+prova:
+
+                  Princípio Tributário                                       Aplicação à CSLL
+ Princípio da Legalidade                                      Aplicável
+ Princípio da Anterioridade Anual                             Excepcionada
+ Princípio da Noventena                                       Aplicável
+ Princípio da Irretroatividade                                Aplicável
+
+
+Fato Gerador
+
+        Como sabemos, a Contribuição sobre o Lucro Líquido foi instituída pela Lei 7.689/88, tomando como
+fonte de custeio o lucro das pessoas jurídicas domiciliadas no País e as que lhes são equiparadas pela
+legislação tributária (CF/88, art. 195, I, c):
+
+       Art. 1º Fica instituída contribuição social sobre o lucro das pessoas jurídicas, destinada ao
+       financiamento da seguridade social.
+
+        Observação: Lembre-se de que o valor da CSLL deve ser adicionado ao lucro líquido para
+        fins de apuração do lucro real.
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                        14
+        www.estrategiaconcursos.com.br                                                                     42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+A respeito da CSLL, cabe ressaltar que, não sendo imposto, seus fatos geradores, bases de cálculo e
+contribuintes são definidos em lei ordinária.
+
+Ademais, não se aplica à CSLL as imunidades previstas no art. 150, VI (restritas a impostos):
+
+                a) sobre patrimônio, renda ou serviços, uns dos outros;
+
+                b) sobre templos de qualquer culto;
+
+                c) sobre patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, das
+                entidades sindicais dos trabalhadores, das instituições de educação e de assistência social,
+                sem fins lucrativos, atendidos os requisitos da lei;
+
+                d) sobre livros, jornais, periódicos e o papel destinado a sua impressão.
+
+                e) sobre fonogramas e videofonogramas musicais produzidos no Brasil contendo obras
+                musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por
+                artistas brasileiros bem como os suportes materiais ou arquivos digitais que os contenham,
+                salvo na etapa de replicação industrial de mídias ópticas de leitura a laser.
+
+A CSLL basicamente acompanha a forma de incidência do IRPJ. Assim sendo, se a pessoa jurídica apura o
+IRPJ com base no lucro real trimestral, a CSLL também será apurada trimestralmente. Se a apuração do IRPJ
+for anual, a CSLL também será apurada anualmente, com as estimativas mensais.
+
+        De outra banda, se o IRPJ for apurado segundo a sistemática do lucro presumido ou arbitrado,
+levando em consideração a receita bruta auferida pela pessoa jurídica, a CSLL será calculada também sobre
+a receita bruta trimestral.
+
+       Assim, de acordo com a Lei 7.689/88 e o art. 57, da Lei 8.981/95, aplicam-se à CSLL as mesmas
+normas de apuração e de pagamento estabelecidas para o IRPJ, mantidas a base de cálculo e as alíquotas
+previstas na legislação em vigor.
+
+       É importante saber também as seguintes informações acerca da CSLL:
+
+                As associações de poupança e empréstimo estão isentas do imposto sobre a renda, mas são
+                contribuintes da contribuição social sobre o lucro líquido.
+                São isentas da CSLL as entidades fechadas de previdência complementar, relativamente aos
+                fatos geradores ocorridos a partir de 1º de janeiro de 2002.
+                As entidades sujeitas à CSLL deverão ajustar o resultado do período com as adições
+                determinadas e exclusões admitidas, conforme legislação vigente, para fins de determinação
+                da base de cálculo da contribuição.
+
+Vejamos um importante julgado do STF sobre a CSLL:
+
+     EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE A RENDA E PROVENTOS DE
+     QUALQUER NATUREZA DEVIDO PELA PESSOA JURÍDICA (IRPJ). APURAÇÃO PELO REGIME DE
+     LUCRO REAL. DEDUÇÃO DO VALOR PAGO A TÍTULO DE CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO
+     LÍQUIDO. PROIBIÇÃO. ALEGADAS VIOLAÇÕES DO CONCEITO CONSTITUCIONAL DE RENDA (ART.
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     15
+        www.estrategiaconcursos.com.br                                                                  42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+     153, III), DA RESERVA DE LEI COMPLEMENTAR DE NORMAS GERAIS (ART. 146, III, A), DO
+     PRINCÍPIO DA CAPACIDADE CONTRIBUTIVA (ART. 145, § 1º) E DA ANTERIORIDADE (ARTS. 150, III,
+     A E 195, § 7º).
+
+     1. O valor pago a título de contribuição social sobre o lucro líquido CSLL não perde a
+     característica de corresponder a parte dos lucros ou da renda do contribuinte pela circunstância
+     de ser utilizado para solver obrigação tributária.
+
+     2. É constitucional o art. 1º e par. ún. da Lei 9.316/1996, que proíbe a dedução do valor da CSLL
+     para fins de apuração do lucro real, base de cálculo do Imposto sobre a Renda das Pessoas
+     Jurídicas IRPJ.
+
+     (STF, Plenário, RE 582.525/SP, Rel. Min. Joaquim Barbosa, Julgamento em 09/05/2013, noticiado
+     no Informativo 705)
+
+Para que a decisão acima fique clara para você, é importante que você entenda que, no regime de apuração
+do IRPJ pelo lucro real, o valor pago a título de CSLL também deve sofrer tributação pelo IRPJ. Dessa forma,
+embora a CSLL seja uma despesa para a empresa, o STF entende que é considerada como parte dos lucros
+do contribuinte, devendo ser tributada.
+
+Destaque-se que, como a União é o sujeito ativo dessa contribuição, o tributo é arrecadado e fiscalizado pela
+Secretaria da Receita Federal do Brasil SRFB, devendo ser seguidas, portanto, as normas específicas
+emitidas pela RFB.
+
+
+Contribuinte
+
+De acordo com o art. 4º, da Lei 7.689/88, são contribuintes as pessoas jurídicas domiciliadas no País e as
+que lhes são equiparadas pela legislação tributária.
+
+
+Base de Cálculo
+
+Já sabemos que a tributação da CSLL segue regra similar à tributação do IRPJ. Sabemos também que existem
+os regimes de tributação pelo lucro real, arbitrado ou presumido. Assim sendo, a base de cálculo da CSLL é a
+seguinte (IN RFB 1700/17):
+
+        Art. 28 - A base de cálculo da CSLL, determinada segundo a legislação vigente na data da
+        ocorrência do respectivo fato gerador, é o resultado ajustado, resultado presumido ou
+        resultado arbitrado, correspondente ao período de apuração.
+
+No caso de pessoas jurídicas sujeitas ao IRPJ de acordo com o lucro real, a base de cálculo da CSLL é a
+seguinte: lucro líquido do período de apuração antes da provisão do imposto de renda ajustado pelas
+adições, exclusões e, se for o caso, pelas compensações relativas a bases de cálculo negativas de CSLL
+correspondente a períodos de apuração anteriores.
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      16
+        www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+
+        Observação: A pessoa jurídica pode compensar a base de cálculo negativa, desde que
+        mantenha os livros e documentos, exigidos pela legislação fiscal, comprobatórios do
+        montante dessa base utilizado para a compensação.
+
+        As bases de cálculo negativas podem ser compensadas com os resultados dos períodos de
+        apuração subsequentes, ajustados pelas adições e exclusões previstas na legislação da
+        CSLL, observado o limite máximo de redução de 30% do resultado ajustado.
+
+Devemos saber também o que consta no art. 1º, da Lei 9.316/96:
+
+       Art. 1º O valor da contribuição social sobre o lucro líquido não poderá ser deduzido para efeito de
+       determinação do lucro real, nem de sua própria base de cálculo.
+
+A apuração da base de cálculo da CSLL, nos casos de pessoa jurídica sujeita ao lucro presumido ou arbitrado,
+compreende um percentual (12%) da receita bruta auferida no trimestre, excluídas as vendas canceladas,
+                                                         ==219a34==
+
+
+
+
+as devoluções de vendas, os descontos incondicionais concedidos e os impostos não cumulativos cobrados
+destacadamente do comprador dos quais o vendedor dos bens ou prestador de serviços seja mero
+depositário. A esse montante, somam-se outros acréscimos, tais como ganhos de capital, nas alienações de
+bens e direitos, juros sobre o capital próprio auferidos etc.
+
+Vamos falar um pouco sobre esses acréscimos, aplicáveis ao lucro presumido e arbitrado.
+
+   Os ganhos de capital, demais receitas e resultados positivos decorrentes de receitas não abrangidas no
+   conceito de receita bruta, auferidos no mesmo período;
+
+        Observação: Entenda-se como ganho de capital a diferença positiva entre o valor da
+        alienação de bens e direitos e o respectivo valor contábil.
+
+        Exemplos de rendimentos que devem ser incluídos:
+
+        a) os ganhos de capital auferidos na alienação de participações societárias permanentes
+        em sociedades coligadas e controladas, e de participações societárias que permaneceram
+        no ativo da pessoa jurídica até o término do ano-calendário seguinte ao de suas aquisições;
+
+        b) os ganhos auferidos em operações de cobertura (hedge) realizadas em bolsas de valores,
+        de mercadorias e de futuros ou no mercado de balcão organizado;
+
+        c) a receita de locação de imóvel, quando não for este o objeto social da pessoa jurídica,
+        deduzida dos encargos necessários à sua percepção;
+
+        d) os juros equivalentes à taxa referencial do Selic, para títulos federais, relativos a
+        impostos e contribuições a serem restituídos ou compensados;
+
+        e) os rendimentos auferidos nas operações de mútuo realizadas entre pessoas jurídicas ou
+        entre pessoa jurídica e pessoa física;
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     17
+        www.estrategiaconcursos.com.br                                                                  42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+        f) as receitas financeiras decorrentes das variações monetárias dos direitos de crédito e das
+        obrigações do contribuinte, em função de índices ou coeficientes aplicáveis por disposição
+        legal ou contratual;
+
+        g) os ganhos de capital auferidos na devolução de capital em bens e direitos;
+
+        h) em relação à base de cálculo da CSLL, o valor em dinheiro ou o valor dos bens e direitos
+        recebidos de instituição isenta, a título de devolução de patrimônio;
+
+   Os rendimentos e ganhos líquidos auferidos em aplicações financeiras de renda fixa e renda variável;
+
+   Os juros sobre o capital próprio auferidos;
+
+   Os valores recuperados, correspondentes a custos e despesas, inclusive com perdas no recebimento de
+   créditos, salvo se a pessoa jurídica comprovar não os ter deduzido em período anterior no qual tenha se
+   submetido ao regime de tributação com base no lucro real ou que se refiram a período no qual tenha se
+   submetido ao regime de tributação com base no lucro presumido ou arbitrado;
+
+
+
+
+                                                                      que acabamos de estudar. Vamos lá?!
+
+Primeiramente, é importante considerarmos que estamos tratando do lucro presumido aqui, certo? Logo,
+não se considera o resultado, mas a receita bruta, para o cálculo do IRPJ.
+
+Então, esses valores recuperados devem ser tributados pelos acréscimos na base de cálculo do lucro
+presumido, salvo se a pessoa jurídica provar o seguinte:
+
+1 Apuração pelo lucro real no período anterior: no período anterior, a empresa escriturou uma perda com
+clientes devedores, mas não excluiu no lucro real. Se não excluiu, já tributou aquele valor, motivo pelo qual
+não deve oferecer à tributação novamente.
+
+2 - Apuração pelo lucro presumido no período anterior: No período anterior, a empresa já apurava IRPJ pelo
+lucro presumido, que é calculado com base na receita bruta. Logo, a pessoa jurídica obviamente não excluiu
+aquele valor da base de cálculo, motivo pelo qual não deve oferecer à tributação novamente.
+
+        Observação: Além disso, a pessoa jurídica que, até o ano-calendário anterior, houver sido
+        tributada com base no lucro real deverá adicionar à base de cálculo do imposto de renda,
+        correspondente ao primeiro período de apuração no qual houver optado pela tributação
+        com base no lucro presumido, os saldos dos valores cuja tributação havia diferido. Como
+        já foi dito, tais valores são mantidos na Escrituração Contábil Fiscal (ECF).
+
+   O valor resultante de ajustes relativos a preços de transferência;
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                         18
+        www.estrategiaconcursos.com.br                                                                      42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+   As multas ou qualquer outra vantagem paga ou creditada por pessoa jurídica, ainda que a título de
+   indenização, em virtude de rescisão de contrato.
+
+         Observação: O imposto retido na fonte será considerado como antecipação do devido em
+         cada período de apuração.
+
+
+Apuração
+
+A apuração da CSLL segue regra semelhante à apuração do IRPJ, ou seja, é trimestral, para os regimes de
+tributação pelo lucro presumido, arbitrado ou real, admitindo-se neste último caso (lucro real), a apuração
+com base no regime anual.
+
+Quando apurada trimestralmente, a CSLL é calculada nos seguintes períodos de apuração: 31/03, 30/06,
+30/09 e 31/12.
+
+
+
+
+         Regra: periodicidade trimestral (31/03, 30/06, 30/09 e 31/12);
+
+         Exceção: periodicidade anual (31/12, apenas para lucro real)
+
+Após a apuração do valor devido a título de CSLL, a pessoa jurídica poderá deduzir da CSLL apurada em cada
+trimestre o valor:
+
+I - da CSLL retida na fonte sobre receitas que integraram a base de cálculo da contribuição devida; e
+
+II - do bônus de adimplência fiscal.
+
+         Obs.: Se o regime de tributação for o lucro real, além dessas deduções, a PJ ainda poderá
+         deduzir:
+
+         I - os incentivos fiscais de isenção da CSLL, calculados com base no lucro da exploração;
+
+         II - a CSLL calculada paga mensalmente por estimativa; e
+
+
+Síntese da CSLL
+
+                                                          CSLL
+ Competência: União
+ Finalidade: Fiscal
+ Fato Gerador: Incide sobre o lucro das pessoas jurídicas;
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     19
+        www.estrategiaconcursos.com.br                                                                  42
+
+                                     https://t.me/KakashiAssinaturasBot
+ Fábio Dutra
+ Aula 12 - Somente em PDF
+
+
+
+Base de Cálculo: Lucro Real: lucro líquido do período de apuração antes da provisão do imposto de renda
+ajustado pelas adições, exclusões e, se for o caso, pelas compensações
+
+                  Lucro presumido ou arbitrado: compreende um percentual (12%) da receita bruta auferida
+no trimestre.
+Contribuinte:    PJ domiciliadas no País e as que lhes são equiparadas pela legislação tributária.
+
+
+
+
+       Receita Federal (Analista Tributário) Legislação Tributária                                   20
+       www.estrategiaconcursos.com.br                                                                42
+
+                                    https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+
+                             QUESTÕES COMENTADAS
+1.Prof. Fábio Dutra/Questão Inédita
+
+A Constituição Federal veda que a Contribuição de Intervenção no Domínio Econômico incidente sobre a
+importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico
+combustível incida sobre importação desses produtos, com a finalidade de torná-los mais acessíveis, em
+virtude da seletividade.
+
+Comentário: A regra da seletividade não encontra respaldo na CF/88 para a CIDE-Combustíveis. Aliás, a
+própria CF autoriza em seu art. 149, § 2º, que as CIDEs incidam sobre a importação de produtos estrangeiros.
+
+Gabarito: Errado
+
+2.Prof. Fábio Dutra/Questão Inédita
+
+As alíquotas da CIDE instituída pela Lei 10.226/2001 são específicas.
+
+Comentário: Realmente, conforme estudamos, as alíquotas da CIDE-Combustíveis são específicas.
+
+Gabarito: Correta
+
+3.Prof. Fábio Dutra/Questão Inédita
+
+Atualmente, a legislação tributária admite que, do valor devido a título de CIDE instituída pela Lei
+10.226/2001, possa ser realizada a dedução dos valores da contribuição para o PIS/Pasep e da Cofins devidos
+na comercialização, no mercado interno, de alguns produtos, até o limite fixado na norma.
+
+Comentário: Embora o legislador admitiu no art. 8º, da Lei 10.336/01, a dedução do valor da Cide, pago na
+importação ou na comercialização, no mercado interno, dos valores da contribuição para o PIS/Pasep e da
+Cofins, com a edição do Decreto 5.060/04, tal dedução foi reduzida a zero, isto é, não é mais possível.
+
+Gabarito: Errada
+
+4.Prof. Fábio Dutra/Questão Inédita
+
+A CIDE-Royalties, instituída pela Lei 10.168/01 incide sobre a remuneração a residente no exterior, devida
+pela licença de uso ou de direitos de comercialização ou distribuição de qualquer programa de computador.
+
+Comentário: De acordo com o art. 2º, § 1º-A, da Lei 10.168/01, a CIDE-Royalties não incide sobre a
+remuneração pela licença de uso ou de direitos de comercialização ou distribuição de programa de
+computador, salvo quando envolverem a transferência da correspondente tecnologia.
+
+Gabarito: Errada
+
+5.MP-TCDF-Procurador/2021
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     21
+        www.estrategiaconcursos.com.br                                                                  42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+As alíquotas das contribuições de intervenção no domínio econômico relativas às atividades de
+comercialização do petróleo e seus derivados não poderão ser diferenciadas por produto ou uso.
+
+Comentário: O art. 177, § 4º, I , a, da CF/88, prevê que alíquotas da CIDE-Combustíveis poderão ser
+diferenciadas por produto ou uso.
+
+Gabarito: Errado
+
+6.PETROBRAS-Profissional de Nível Superior/2018
+
+A Lei n° 10.336/2001 instituiu a Contribuição de Intervenção no Domínio Econômico incidente sobre a
+importação e a comercialização de petróleo e seus derivados, conhecida como CIDE Combustíveis. A aludida
+Lei estabelece, igualmente, em seu art. 2°, que os contribuintes dos combustíveis líquidos, CIDE
+Combustíveis, são:
+
+A) comprador, formulador e importador (pessoa jurídica)
+
+B) comprador, produtor e importador (pessoa física e jurídica)
+
+C) consumidor, vendedor e importador (pessoa jurídica)
+
+D) comprador, vendedor e formulador
+
+E) produtor, formulador e importador (pessoa física ou jurídica)
+
+Comentário: O art. 2º elenca como contribuintes da CIDE-Combustíveis: o produtor, o formulador e o
+importador, pessoa física ou jurídica, dos combustíveis líquidos nela relacionados.
+
+Gabarito: Letra E
+
+7.TRANSPETRO-Analista Júnior/2018
+
+A Lei no 10.336, de 19 de dezembro de 2001, instituiu a Contribuição de Intervenção no Domínio Econômico
+incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados
+e álcool etílico combustível (Cide-Combustíveis).
+
+Uma pessoa jurídica autorizada pela ANP efetuou a importação de 1.000.000 litros de gasolina.
+
+No que concerne à incidência da Cide na operação, constata- se que a
+
+A) alíquota é zero, seguindo a regra aplicada ao querosene.
+
+B) importação de gasolina é isenta da contribuição; logo, não haverá recolhimento.
+
+C) pessoa jurídica importadora deverá recolher R$ 50.000,00.
+
+D) pessoa jurídica importadora deverá recolher R$ 100.000,00.
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    22
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+E) alíquota passará a incidir somente no momento da comercialização no mercado interno.
+
+Comentário:
+
+Alternativa A: O art. 5º prevê as alíquotas da CIDE-Combustíveis e não é zero, mesmo considerando a redução
+prevista no Decreto 5060/04.
+
+Alternativa B: Não há isenção de CIDE-Combustíveis sobre a importação de gasolina.
+
+Alternativa C: O cálculo correto seria:
+
+Alíquota Básica da Lei 10336/01: 1.000 m³ x 860,00 = R$ 860.000,00. Porém, com a redução do Decreto
+5060/04, teríamos 1.000 m³ x 100,00 = R$ 100.000,00. Alternativa errada.
+
+Alternativa D: Conforme comentário da alternativa anterior, está correta.
+
+Alternativa E: A CIDE-Combustíveis incide tanto na importação como na comercialização no mercado interno.
+Alternativa errada.
+
+Gabarito: Letra D
+
+8.FUNRIO-Assistente-Contabilidade e Finanças/2017
+
+De acordo com a Lei nº 10.336/01, que instituiu a Contribuição sobre Intervenção do Domínio Econômico
+CIDE, o seu produto será destinado na forma da Lei orçamentária do ente público para:
+
+A) atendimento das despesas com a manutenção de iluminação pública.
+
+B) financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás.
+
+C) desenvolvimentos de projetos para atendimentos da população das regiões carentes com saúde básica.
+
+D) promoção da melhoria no atendimento da educação fundamental.
+
+E) assistência social a população carente com moradia.
+
+Comentário: O destino do produto da arrecadação da CIDE-Combustíveis está previsto no art. 1º da Lei
+10336/01:
+
+I - pagamento de subsídios a preços ou transporte de álcool combustível, de gás natural e seus
+derivados e de derivados de petróleo;
+
+II - financiamento de projetos ambientais relacionados com a indústria do petróleo e do
+gás; (Redação dada pela Lei nº 14.237, de 2021)
+
+III - financiamento de programas de infraestrutura de transportes; e      (Redação dada pela Lei nº
+14.237, de 2021)
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    23
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+IV - financiamento do auxílio destinado a mitigar o efeito do preço do gás liquefeito de petróleo
+sobre o orçamento das famílias de baixa renda. (Incluído pela Lei nº 14.237, de 2021)
+
+Gabarito: Letra B
+
+9.FUNRIO-Assistente-Contabilidade e Finanças/2017
+
+Compreendem fatos geradores da CIDE as operações de importação e de comercialização no mercado
+interno dos produtos a seguir, EXCETO:
+
+A) gasolinas e suas correntes.
+
+B) diesel e suas correntes.
+
+C) querosene de aviação e outros querosenes.
+
+D) álcool etílico combustível.
+
+E) óleos minerais e vegetais.
+
+Comentário: Apenas configuram fatos geradores da CIDE-Combustíveis a importação e comercialização de :
+
+I gasolinas e suas correntes;
+
+II - diesel e suas correntes;
+
+III querosene de aviação e outros querosenes;
+
+IV - óleos combustíveis (fuel-oil);
+
+V - gás liqüefeito de petróleo, inclusive o derivado de gás natural e de nafta; e
+
+VI - álcool etílico combustível.
+
+Gabarito: Letra E
+
+10.CODESAIMA-Contador/2017
+
+Sobre as Contribuições de Intervenção no Domínio Econômico (CIDE), assinale a alternativa correta.
+
+A) São tributos de natureza fiscal e de arrecadação vinculada.
+
+B) São tributos de natureza extrafiscal e de arrecadação vinculada.
+
+C) São tributos de natureza administrativa e de arrecadação desvinculada.
+
+D) São tributos de natureza contábil e de arrecadação programada.
+
+
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                 24
+         www.estrategiaconcursos.com.br                                                              42
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+E) São tributos de natureza arbitrária e de arrecadação programada.
+
+Comentário: A CIDE é uma contribuição (tributo) de natureza extrafiscal, e sua extrafiscalidade é associada
+justamente à vinculação do destino da sua arrecadação para finalidades específicas definidas previamente
+na CF/88. Logo, a única alternativa correta seria a Letra B.
+
+Gabarito: Letra B
+
+11.LIQUIGÁS-Profissional-Júnior(Contábeis)/2014
+
+A Lei nº 10.336/2001 regula a Contribuição de Intervenção no Domínio Econômico (Cide), incidente sobre a
+importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico
+combustível.
+
+Na hipótese de importação, o pagamento da Cide deve ser efetuado na data da(o)
+
+A) remessa do estabelecimento exportador
+
+B) recebimento da pessoa importadora
+
+C) registro da Declaração de Importação
+
+D) consumo do bem pelo empresário listado na lei
+
+E) ingresso no porto de acolhimento da mercadoria
+
+Comentário: Ao estudar a apuração da CIDE-Combustíveis, vimos que funciona da seguinte forma:
+
+Importação        registro da Declaração de Importação (atualmente DUIMP ou Documento Único de
+Importação)
+
+Comercialização Apuração mensal, com pagamento até o último dia útil da primeira quinzena após
+fechamento da apuração (fato gerador).
+
+Gabarito: Letra C
+
+12.UFRR-Técnico-Contabilidade/2018
+
+A alíquota da Contribuição Social sobre o Lucro Líquido para as pessoas jurídicas em geral é de:
+
+A) 7%
+
+B) 8,5%
+
+C) 9%
+
+D) 9,5%
+
+
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                  25
+          www.estrategiaconcursos.com.br                                                               42
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 12 - Somente em PDF
+
+
+
+E) 11%
+
+Comentário: Como regra geral, a alíquota da CSLL é 9%. É o que estudamos ao longo da aula de hoje.
+
+Gabarito: Letra C
+
+13.TRE-BA-Analista Judiciário-Contabilidade/2017
+
+Considerando que determinada pessoa jurídica tenha sido tributada no imposto sobre a renda de pessoas
+jurídicas com base no lucro real, julgue os seguintes itens.
+
+I O critério para a determinação da base de cálculo da contribuição social sobre o lucro líquido (CSLL) será o
+lucro real.
+
+II A base de cálculo da CSLL será determinada em períodos de apuração semestrais.
+
+III A periodicidade de pagamento adotada pela referida pessoa jurídica para o imposto sobre a renda
+determina a periodicidade de pagamento da CSLL.
+
+IV Nos casos de incorporação, fusão ou cisão, a apuração da base de cálculo da CSLL será efetuada na data
+do levantamento das demonstrações financeiras.
+
+Estão certos apenas os itens
+
+A) I e II.
+
+B) I e III.
+
+C) I e IV.
+
+D) II e III.
+
+E) III e IV.
+
+Comentário:
+
+Item I: A tributação da CSLL segue a regra de tributação do IRPJ. Logo, se a PJ estiver sujeita ao lucro real, a
+base de cálculo da CSLL também será determinada com base no lucro real. Item correto.
+
+Item II: A CSLL é determinada com base em períodos trimestrais, como regra. Item errado.
+
+Item III: Da mesma forma como falamos no item, a periodicidade de pagamento adotada pela referida pessoa
+jurídica para o imposto sobre a renda também determina a periodicidade de pagamento da CSLL. Item
+correto.
+
+Item IV: Neste caso, a apuração será realizada na data do evento, conforme art. 31, da IN RFB 1700/17. Item
+errado.
+
+
+
+              Receita Federal (Analista Tributário) Legislação Tributária                                   26
+              www.estrategiaconcursos.com.br                                                                42
+
+                                           https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+Gabarito: Letra B
+
+14.TRE-TO-Analista Judiciário-Contabilidade/2017
+
+A contribuição social sobre o lucro líquido pode ser paga com fundamento em base de cálculo estimada,
+mediante a aplicação de determinado percentual sobre a receita bruta, que deve ser acrescida dos
+
+A) estornos de receita decorrentes de vendas canceladas ou devolvidas.
+
+B) valores decorrentes do ajuste a valor presente de qualquer natureza.
+
+C) rendimentos de aplicações de renda fixa de instituição financeira.
+
+D) gastos com repasses de recursos de órgãos e instituições oficiais.
+
+E) descontos concedidos nas operações com mercadorias.
+
+Comentário: Dos valores citados, o único que corresponde a acréscimos sobre a base de cálculo da CSLL,
+calculada mediante percentual sobre a receita bruta (estimativas mensais) são os rendimentos e ganhos
+líquidos auferidos em aplicações financeiras de renda fixa e renda variável.
+
+Logo, só nos resta a alternativa C: rendimentos de aplicações de renda fixa de instituição financeira.
+
+Gabarito: Letra C
+
+15.BAHIAGÁS-Analista de Processos-Ciências Contábeis/2016
+
+Sobre a Contribuição Social sobre o Lucro das Pessoas Jurídicas (CSLL), pode-se afirmar:
+
+I. A CSLL foi instituída para ser destinada ao financiamento da seguridade social.
+
+II. A administração e fiscalização da Contribuição Social compete à Secretaria de Fazenda.
+
+III. A base de cálculo da CSLL é o valor do resultado do exercício, antes da provisão para o imposto de renda.
+
+IV. São contribuintes da CSLL as pessoas jurídicas domiciliadas no País e as que lhes são equiparadas pela
+legislação tributária.
+
+Analise as sentenças e assinale a alternativa que contém as sentenças corretas.
+
+A) Apenas I, II e III estão corretas.
+
+B) Apenas I, III e IV estão corretas.
+
+C) Apenas I e III estão corretas.
+
+D) Apenas I e IV estão corretas.
+
+
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                      27
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+E) Todas as alternativas estão corretas.
+
+Comentário:
+
+Item I: De fato, a CSLL é uma contribuição destinada ao financiamento da seguridade social, fundamentada
+no art. 195, I, c, da CF/88. Correto.
+
+Item II: Por se tratar de tributo federal, é administrada, arrecadada e fiscalização pela Receita Federal. Logo,
+o item II está errado.
+
+Item III: Aprendemos hoje que a base de cálculo da CSLL é o lucro líquido do período de apuração antes da
+provisão do imposto de renda ajustado pelas adições, exclusões e, se for o caso, pelas compensações. Item
+correto.
+
+Item IV: De acordo com o art. 4º, da Lei 7.689/88, são contribuintes as pessoas jurídicas domiciliadas no País
+e as que lhes são equiparadas pela legislação tributária. Item correto.
+
+Gabarito: Letra B
+
+16.Petrobrás-Contador Júnior/2014
+
+A Lei no 10.336/2001, que institui Contribuição de Intervenção no Domínio Econômico incidente sobre a
+importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico
+combustível (Cide), e dá outras providências e nova redação dada pela Lei no 10.866/2004, prescreve que a
+União entregará aos Estados e ao Distrito Federal o percentual a que se refere o art. 159, III da Constituição
+Federal, calculado sobre a arrecadação da Cide-combustível e estabelece os critérios para a sua distribuição.
+
+Nesse contexto dos critérios de distribuição, a distribuição proporcional ao consumo, em cada Estado e no
+Distrito Federal dos combustíveis a que a Cide se aplica, conforme estatísticas elaboradas pela Agência
+Nacional de Petróleo ANP, observará o percentual de
+
+a) 50%
+
+b) 45%
+
+c) 35%
+
+d) 30%
+
+e) 20%
+
+Comentário: A questão cobra o conhecimento da Lei 10.866/04, que trata dos critérios de distribuição das
+receitas repartidas da CIDE-Combustíveis. De acordo com a referida norma, 30% do valor distribuído deve
+ocorrer proporcionalmente ao consumo, em cada Estado e no Distrito Federal, dos combustíveis a que a Cide
+se aplica, conforme estatísticas elaboradas pela Agência Nacional do Petróleo ANP.
+
+Gabarito: Letra D
+
+
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                        28
+         www.estrategiaconcursos.com.br                                                                     42
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+17.EPE-Analista de Pesquisa Energética/2012
+
+Mais de 40% do preço ao consumidor da gasolina automotiva são compostos de tributos federais, estaduais
+e municipais.
+
+O financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás é proveniente
+do(a)
+
+a) ICMS
+
+b) ISS
+
+c) PIS/PASEP
+
+d) Cofins
+
+e) Cide
+
+Comentário: A questão exige o conhecimento do art. 177, § 4º, II, da CF/88, que trata da vinculação dos
+recursos da CIDE-Combustíveis a determinadas finalidades, dentre as quais está o financiamento de projetos
+ambientais relacionados com a indústria do petróleo e do gás.
+
+Gabarito: Letra E
+
+18.CESPE/TRF 1ª Região Juiz Federal/2011
+
+É possível, desde que por meio de lei, estabelecer a substituição tributária da CSLL.
+
+Comentário: Com base no que estabelece o art. 150, § 7º, da CF/88, A lei poderá atribuir a sujeito passivo
+de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato
+gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso
+não se realize o fato gerador presumido. Logo, é possível que a lei estabeleça regime de substituição
+tributária para a CSLL.
+
+Gabarito: Correta
+
+19.CESPE/TRF 1ª Região Juiz Federal/2011
+
+O contribuinte da CSLL deve ser definido por meio de lei complementar.
+
+Comentário: Não há qualquer disposição constitucional no sentido de que a contribuição para seguridade
+social com base no lucro tenha seus contribuintes definidos em lei complementar.
+
+Gabarito: Errada
+
+20.CESPE/TRF 1ª Região Juiz Federal/2011
+
+O fato gerador da obrigação tributária da CSLL deve ser definido por meio de lei complementar.
+
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                  29
+          www.estrategiaconcursos.com.br                                                               42
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+Comentário: Da mesma forma como foi comentado na questão anterior, não há qualquer disposição
+constitucional no sentido de que a contribuição para seguridade social com base no lucro tenha seu fato
+gerador definido em lei complementar.
+
+Gabarito: Errada
+
+21.CESPE/TRF 1ª Região Juiz Federal/2011
+
+Não incide CSLL sobre a produção de papel destinado à impressão de jornais.
+
+Comentário: A imunidade dos papéis destinados à impressão de livros, jornais e periódicos diz respeitos
+apenas sobre os impostos, não alcançando as contribuições especiais, sendo estas espécie tributária distinta.
+
+Gabarito: Errada
+
+22.ESAF/AFRFB/2014
+
+Sobre a CSLL Contribuição Social sobre o Lucro Líquido, é incorreto afirmar que:
+
+a) o valor pago a título de CSLL não perde a característica de corresponder a parte dos lucros ou da renda do
+contribuinte pela circunstância de ser utilizado para solver obrigação tributária.
+
+b) é constitucional dispositivo de lei que proíbe a dedução do valor da CSLL para fins de apuração do lucro
+real, base de cálculo do Imposto sobre a Renda
+
+das Pessoas Jurídicas.
+
+c) as associações de poupança e empréstimo estão isentas do imposto sobre a renda, mas são contribuintes
+da contribuição social sobre o lucro líquido.
+
+d) as entidades sujeitas à CSLL poderão ajustar o resultado do período com as adições determinadas e
+exclusões admitidas, conforme legislação vigente, para fins de determinação da base de cálculo da
+contribuição.
+
+e) estão sujeitas ao pagamento da CSLL as pessoas jurídicas e as pessoas físicas a elas equiparadas,
+domiciliadas no País. A apuração da CSLL deve acompanhar a forma de tributação do lucro adotada para o
+IRPJ.
+
+Comentário:
+
+Alternativa A: De acordo com o STF, o valor pago a título de CSLL não perde a característica de corresponder
+a parte dos lucros ou da renda do contribuinte pela circunstância de ser utilizado para solver obrigação
+tributária. Item correto.
+
+Alternativa B: Trata-se, mais uma vez, de cópia literal de ementas de julgamentos do STF. De acordo com a
+Suprema Corte, é constitucional dispositivo de lei que proíbe a dedução do valor da CSLL para fins de
+apuração do lucro real, base de cálculo do Imposto sobre a Renda das Pessoas Jurídicas. Item correto.
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                      30
+        www.estrategiaconcursos.com.br                                                                   42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+Alternativa C: Embora as associações de poupança e empréstimo estejam isentas do imposto sobre a renda,
+são contribuintes da contribuição social sobre o lucro líquido. Item correto.
+
+Alternativa D: As entidades sujeitas à CSLL deverão - e não poderão, como foi dito - ajustar o resultado do
+período com as adições determinadas e exclusões admitidas, conforme legislação vigente, para fins de
+determinação da base de cálculo da contribuição. Item errado.
+
+Alternativa E: Realmente, estão sujeitas ao pagamento da CSLL as pessoas jurídicas e as pessoas físicas a elas
+equiparadas, lembrando que, conforme estudamos, a apuração da CSLL deve acompanha a forma de
+tributação do lucro adotada para o IRPJ. Item correto.
+
+Gabarito: Letra D
+
+23.ESAF/AFRFB/2009
+
+Sobre a Contribuição Social para o Lucro Líquido (CSLL), instituída pela Lei n. 7.689/88, julgue os itens abaixo,
+classificando-os como verdadeiros (V) ou falsos (F). Em seguida, escolha a opção adequada às suas respostas:
+
+I. a sua base de cálculo é a mesma do imposto de renda das pessoas físicas, sendo que as deduções e
+compensações admissíveis para a apuração de um correspondem àquelas admitidas para fins de apuração
+da base de cálculo do outro;
+
+II. a sua base de cálculo é o valor do resultado do exercício antes da provisão para o imposto de renda;
+
+III. a CSLL poderá incidir sobre o resultado presumido ou arbitrado, quando tal seja o regime de apuração a
+que a pessoa jurídica se submete relativamente ao imposto de renda.
+
+a) Estão corretos os itens I e II.
+
+b) Estão corretos os itens I e III.
+
+c) Estão corretos os itens II e III.
+
+d) Todos os itens estão corretos.
+
+e) Todos os itens estão errados.
+
+Comentário:
+
+Item I: O erro da assertiva está em afirmar que a base de cálculo da CSLL é a mesma do imposto de renda
+das pessoas físicas. Item errado.
+
+Item II: Como vimos, a base de cálculo da CSLL é o valor do resultado do exercício antes da provisão para o
+imposto de renda. Item correto.
+
+Item III: A apuração da CSLL deve acompanhar a forma de tributação do lucro adotada para o IRPJ. Sendo
+assim, a CSLL pode incidir sobre o resultado presumido ou arbitrado, pois são regimes de apuração do IRPJ.
+Item correto.
+
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                         31
+         www.estrategiaconcursos.com.br                                                                      42
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+Gabarito: Letra C
+
+24.ESAF/AFRF/2005
+
+Relativamente aos fatos geradores ocorridos a partir de 1º de janeiro de 2002, foram isentas da Contribuição
+Social sobre o Lucro Líquido (CSLL)
+
+a) as pessoas físicas que perceberam apenas rendimentos do trabalho.
+
+b) as pessoas jurídicas que participarem do programa do primeiro emprego.
+
+c) as pessoas jurídicas que aplicarem em títulos e valores mobiliários a favor de seus empregados.
+
+d) as entidades fechadas de previdência complementar.
+
+e) as organizações não governamentais dedicadas à proteção do meio ambiente.
+
+Comentário: São isentas da CSLL as entidades fechadas de previdência complementar, relativamente aos
+fatos geradores ocorridos a partir de 1º de janeiro de 2002. Portanto, a alternativa correta é a Letra D.
+
+Gabarito: Letra D
+
+25.QUESTÃO INÉDITA
+
+De acordo com determinação constitucional, as alíquotas da CIDE-Combustíveis devem necessariamente ser
+diferenciadas por produto ou uso.
+
+Comentário: Conforme preceitua o art. 177, §                                          -Combustíveis podem
+(e não devem) ser diferenciadas por produto ou uso.
+
+Gabarito: Errada
+
+26.QUESTÃO INÉDITA
+
+Os recursos arrecadados com a CIDE-Combustíveis devem ser vinculados apenas ao financiamento de
+projetos ambientais relacionados com a indústria do petróleo e do gás.
+
+Comentário: Vimos que, no art. 177, § 4º, II, os recursos arrecadados com a CIDE-Combustíveis têm três
+destinos: ao pagamento de subsídios a preços ou transporte de álcool combustível, gás natural e seus
+derivados e derivados de petróleo; ao financiamento de projetos ambientais relacionados com a indústria
+do petróleo e do gás; e ao financiamento de programas de infraestrutura de transportes.
+
+Gabarito: Errada
+
+27.QUESTÃO INÉDITA
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                     32
+        www.estrategiaconcursos.com.br                                                                  42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+A CIDE-Royalties, instituída pela Lei 10.168/2000, não incide sobre a remuneração pela licença de uso ou de
+direitos de comercialização ou distribuição de programa de computador, salvo quando envolverem a
+transferência da correspondente tecnologia.
+
+Comentário: Realmente, de acordo com o art. 2º, § 1º-A, da Lei 10.168/01, a CIDE-Royalties não incide sobre
+a remuneração pela licença de uso ou de direitos de comercialização ou distribuição de programa de
+computador, salvo quando envolverem a transferência da correspondente tecnologia.
+
+Gabarito: Correta
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    33
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+
+                                    LISTA DE QUESTÕES
+1.Prof. Fábio Dutra/Questão Inédita
+
+A Constituição Federal veda que a Contribuição de Intervenção no Domínio Econômico incidente sobre a
+importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico
+combustível incida sobre importação desses produtos, com a finalidade de torná-los mais acessíveis, em
+virtude da seletividade.
+
+2.Prof. Fábio Dutra/Questão Inédita
+
+As alíquotas da CIDE instituída pela Lei 10.226/2001 são específicas.
+
+3.Prof. Fábio Dutra/Questão Inédita
+
+Atualmente, a legislação tributária admite que, do valor devido a título de CIDE instituída pela Lei
+10.226/2001, possa ser realizada a dedução dos valores da contribuição para o PIS/Pasep e da Cofins devidos
+na comercialização, no mercado interno, de alguns produtos, até o limite fixado na norma.
+
+4.Prof. Fábio Dutra/Questão Inédita
+
+A CIDE-Royalties, instituída pela Lei 10.168/01 incide sobre a remuneração a residente no exterior, devida
+pela licença de uso ou de direitos de comercialização ou distribuição de qualquer programa de computador.
+
+5.MP-TCDF-Procurador/2021
+
+As alíquotas das contribuições de intervenção no domínio econômico relativas às atividades de
+comercialização do petróleo e seus derivados não poderão ser diferenciadas por produto ou uso.
+
+6.PETROBRAS-Profissional de Nível Superior/2018
+
+A Lei n° 10.336/2001 instituiu a Contribuição de Intervenção no Domínio Econômico incidente sobre a
+importação e a comercialização de petróleo e seus derivados, conhecida como CIDE Combustíveis. A aludida
+Lei estabelece, igualmente, em seu art. 2°, que os contribuintes dos combustíveis líquidos, CIDE
+Combustíveis, são:
+
+A) comprador, formulador e importador (pessoa jurídica)
+
+B) comprador, produtor e importador (pessoa física e jurídica)
+
+C) consumidor, vendedor e importador (pessoa jurídica)
+
+D) comprador, vendedor e formulador
+
+E) produtor, formulador e importador (pessoa física ou jurídica)
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    34
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+7.TRANSPETRO-Analista Júnior/2018
+
+A Lei no 10.336, de 19 de dezembro de 2001, instituiu a Contribuição de Intervenção no Domínio Econômico
+incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados
+e álcool etílico combustível (Cide-Combustíveis).
+
+Uma pessoa jurídica autorizada pela ANP efetuou a importação de 1.000.000 litros de gasolina.
+
+No que concerne à incidência da Cide na operação, constata- se que a
+
+A) alíquota é zero, seguindo a regra aplicada ao querosene.
+
+B) importação de gasolina é isenta da contribuição; logo, não haverá recolhimento.
+
+C) pessoa jurídica importadora deverá recolher R$ 50.000,00.
+
+D) pessoa jurídica importadora deverá recolher R$ 100.000,00.
+
+E) alíquota passará a incidir somente no momento da comercialização no mercado interno.
+
+8.FUNRIO-Assistente-Contabilidade e Finanças/2017
+
+De acordo com a Lei nº 10.336/01, que instituiu a Contribuição sobre Intervenção do Domínio Econômico
+CIDE, o seu produto será destinado na forma da Lei orçamentária do ente público para:
+
+A) atendimento das despesas com a manutenção de iluminação pública.
+
+B) financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás.
+
+C) desenvolvimentos de projetos para atendimentos da população das regiões carentes com saúde básica.
+
+D) promoção da melhoria no atendimento da educação fundamental.
+
+E) assistência social a população carente com moradia.
+
+9.FUNRIO-Assistente-Contabilidade e Finanças/2017
+
+Compreendem fatos geradores da CIDE as operações de importação e de comercialização no mercado
+interno dos produtos a seguir, EXCETO:
+
+A) gasolinas e suas correntes.
+
+B) diesel e suas correntes.
+
+C) querosene de aviação e outros querosenes.
+
+D) álcool etílico combustível.
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    35
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+E) óleos minerais e vegetais.
+
+10.CODESAIMA-Contador/2017
+
+Sobre as Contribuições de Intervenção no Domínio Econômico (CIDE), assinale a alternativa correta.
+
+A) São tributos de natureza fiscal e de arrecadação vinculada.
+
+B) São tributos de natureza extrafiscal e de arrecadação vinculada.
+
+C) São tributos de natureza administrativa e de arrecadação desvinculada.
+
+D) São tributos de natureza contábil e de arrecadação programada.
+
+E) São tributos de natureza arbitrária e de arrecadação programada.
+
+11.LIQUIGÁS-Profissional-Júnior(Contábeis)/2014
+
+A Lei nº 10.336/2001 regula a Contribuição de Intervenção no Domínio Econômico (Cide), incidente sobre a
+importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico
+combustível.
+
+Na hipótese de importação, o pagamento da Cide deve ser efetuado na data da(o)
+
+A) remessa do estabelecimento exportador
+
+B) recebimento da pessoa importadora
+
+C) registro da Declaração de Importação
+
+D) consumo do bem pelo empresário listado na lei
+
+E) ingresso no porto de acolhimento da mercadoria
+
+12.UFRR-Técnico-Contabilidade/2018
+
+A alíquota da Contribuição Social sobre o Lucro Líquido para as pessoas jurídicas em geral é de:
+
+A) 7%
+
+B) 8,5%
+
+C) 9%
+
+D) 9,5%
+
+E) 11%
+
+
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                  36
+          www.estrategiaconcursos.com.br                                                               42
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 12 - Somente em PDF
+
+
+
+13.TRE-BA-Analista Judiciário-Contabilidade/2017
+
+Considerando que determinada pessoa jurídica tenha sido tributada no imposto sobre a renda de pessoas
+jurídicas com base no lucro real, julgue os seguintes itens.
+
+I O critério para a determinação da base de cálculo da contribuição social sobre o lucro líquido (CSLL) será o
+lucro real.
+
+II A base de cálculo da CSLL será determinada em períodos de apuração semestrais.
+
+III A periodicidade de pagamento adotada pela referida pessoa jurídica para o imposto sobre a renda
+determina a periodicidade de pagamento da CSLL.
+
+IV Nos casos de incorporação, fusão ou cisão, a apuração da base de cálculo da CSLL será efetuada na data
+do levantamento das demonstrações financeiras.
+
+Estão certos apenas os itens
+
+A) I e II.
+
+B) I e III.
+
+C) I e IV.
+
+D) II e III.
+
+E) III e IV.
+
+14.TRE-TO-Analista Judiciário-Contabilidade/2017
+
+A contribuição social sobre o lucro líquido pode ser paga com fundamento em base de cálculo estimada,
+mediante a aplicação de determinado percentual sobre a receita bruta, que deve ser acrescida dos
+
+A) estornos de receita decorrentes de vendas canceladas ou devolvidas.
+
+B) valores decorrentes do ajuste a valor presente de qualquer natureza.
+
+C) rendimentos de aplicações de renda fixa de instituição financeira.
+
+D) gastos com repasses de recursos de órgãos e instituições oficiais.
+
+E) descontos concedidos nas operações com mercadorias.
+
+15.BAHIAGÁS-Analista de Processos-Ciências Contábeis/2016
+
+Sobre a Contribuição Social sobre o Lucro das Pessoas Jurídicas (CSLL), pode-se afirmar:
+
+I. A CSLL foi instituída para ser destinada ao financiamento da seguridade social.
+
+
+              Receita Federal (Analista Tributário) Legislação Tributária                                 37
+              www.estrategiaconcursos.com.br                                                              42
+
+                                           https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+II. A administração e fiscalização da Contribuição Social compete à Secretaria de Fazenda.
+
+III. A base de cálculo da CSLL é o valor do resultado do exercício, antes da provisão para o imposto de renda.
+
+IV. São contribuintes da CSLL as pessoas jurídicas domiciliadas no País e as que lhes são equiparadas pela
+legislação tributária.
+
+Analise as sentenças e assinale a alternativa que contém as sentenças corretas.
+
+A) Apenas I, II e III estão corretas.
+
+B) Apenas I, III e IV estão corretas.
+
+C) Apenas I e III estão corretas.
+
+D) Apenas I e IV estão corretas.
+
+E) Todas as alternativas estão corretas.
+
+16.Petrobrás-Contador Júnior/2014
+
+A Lei no 10.336/2001, que institui Contribuição de Intervenção no Domínio Econômico incidente sobre a
+importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico
+combustível (Cide), e dá outras providências e nova redação dada pela Lei no 10.866/2004, prescreve que a
+União entregará aos Estados e ao Distrito Federal o percentual a que se refere o art. 159, III da Constituição
+Federal, calculado sobre a arrecadação da Cide-combustível e estabelece os critérios para a sua distribuição.
+
+Nesse contexto dos critérios de distribuição, a distribuição proporcional ao consumo, em cada Estado e no
+Distrito Federal dos combustíveis a que a Cide se aplica, conforme estatísticas elaboradas pela Agência
+Nacional de Petróleo ANP, observará o percentual de
+
+a) 50%
+
+b) 45%
+
+c) 35%
+
+d) 30%
+
+e) 20%
+
+17.EPE-Analista de Pesquisa Energética/2012
+
+Mais de 40% do preço ao consumidor da gasolina automotiva são compostos de tributos federais, estaduais
+e municipais.
+
+O financiamento de projetos ambientais relacionados com a indústria do petróleo e do gás é proveniente
+do(a)
+
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                      38
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+a) ICMS
+
+b) ISS
+
+c) PIS/PASEP
+
+d) Cofins
+
+e) Cide
+
+18.CESPE/TRF 1ª Região Juiz Federal/2011
+
+É possível, desde que por meio de lei, estabelecer a substituição tributária da CSLL.
+
+19.CESPE/TRF 1ª Região Juiz Federal/2011
+
+O contribuinte da CSLL deve ser definido por meio de lei complementar.
+
+20.CESPE/TRF 1ª Região Juiz Federal/2011
+
+O fato gerador da obrigação tributária da CSLL deve ser definido por meio de lei complementar.
+
+21.CESPE/TRF 1ª Região Juiz Federal/2011
+
+Não incide CSLL sobre a produção de papel destinado à impressão de jornais.
+
+22.ESAF/AFRFB/2014
+
+Sobre a CSLL Contribuição Social sobre o Lucro Líquido, é incorreto afirmar que:
+
+a) o valor pago a título de CSLL não perde a característica de corresponder a parte dos lucros ou da renda do
+contribuinte pela circunstância de ser utilizado para solver obrigação tributária.
+
+b) é constitucional dispositivo de lei que proíbe a dedução do valor da CSLL para fins de apuração do lucro
+real, base de cálculo do Imposto sobre a Renda
+
+das Pessoas Jurídicas.
+
+c) as associações de poupança e empréstimo estão isentas do imposto sobre a renda, mas são contribuintes
+da contribuição social sobre o lucro líquido.
+
+d) as entidades sujeitas à CSLL poderão ajustar o resultado do período com as adições determinadas e
+exclusões admitidas, conforme legislação vigente, para fins de determinação da base de cálculo da
+contribuição.
+
+e) estão sujeitas ao pagamento da CSLL as pessoas jurídicas e as pessoas físicas a elas equiparadas,
+domiciliadas no País. A apuração da CSLL deve acompanhar a forma de tributação do lucro adotada para o
+IRPJ.
+
+
+          Receita Federal (Analista Tributário) Legislação Tributária                                    39
+          www.estrategiaconcursos.com.br                                                                 42
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+23.ESAF/AFRFB/2009
+
+Sobre a Contribuição Social para o Lucro Líquido (CSLL), instituída pela Lei n. 7.689/88, julgue os itens abaixo,
+classificando-os como verdadeiros (V) ou falsos (F). Em seguida, escolha a opção adequada às suas respostas:
+
+I. a sua base de cálculo é a mesma do imposto de renda das pessoas físicas, sendo que as deduções e
+compensações admissíveis para a apuração de um correspondem àquelas admitidas para fins de apuração
+da base de cálculo do outro;
+
+II. a sua base de cálculo é o valor do resultado do exercício antes da provisão para o imposto de renda;
+
+III. a CSLL poderá incidir sobre o resultado presumido ou arbitrado, quando tal seja o regime de apuração a
+que a pessoa jurídica se submete relativamente ao imposto de renda.
+
+a) Estão corretos os itens I e II.
+
+b) Estão corretos os itens I e III.
+
+c) Estão corretos os itens II e III.
+
+d) Todos os itens estão corretos.
+
+e) Todos os itens estão errados.
+
+24.ESAF/AFRF/2005
+
+Relativamente aos fatos geradores ocorridos a partir de 1º de janeiro de 2002, foram isentas da Contribuição
+Social sobre o Lucro Líquido (CSLL)
+
+a) as pessoas físicas que perceberam apenas rendimentos do trabalho.
+
+b) as pessoas jurídicas que participarem do programa do primeiro emprego.
+
+c) as pessoas jurídicas que aplicarem em títulos e valores mobiliários a favor de seus empregados.
+
+d) as entidades fechadas de previdência complementar.
+
+e) as organizações não governamentais dedicadas à proteção do meio ambiente.
+
+25.QUESTÃO INÉDITA
+
+De acordo com determinação constitucional, as alíquotas da CIDE-Combustíveis devem necessariamente ser
+diferenciadas por produto ou uso.
+
+26.QUESTÃO INÉDITA
+
+Os recursos arrecadados com a CIDE-Combustíveis devem ser vinculados apenas ao financiamento de
+projetos ambientais relacionados com a indústria do petróleo e do gás.
+
+
+         Receita Federal (Analista Tributário) Legislação Tributária                                         40
+         www.estrategiaconcursos.com.br                                                                      42
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 12 - Somente em PDF
+
+
+
+27.QUESTÃO INÉDITA
+
+A CIDE-Royalties, instituída pela Lei 10.168/2000, não incide sobre a remuneração pela licença de uso ou de
+direitos de comercialização ou distribuição de programa de computador, salvo quando envolverem a
+transferência da correspondente tecnologia.
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                    41
+        www.estrategiaconcursos.com.br                                                                 42
+
+                                     https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 12 - Somente em PDF
+
+
+
+
+                                             GABARITO
+ 1. ERRADA
+ 2. CORRETA
+ 3. ERRADA
+ 4. ERRADA
+ 5. ERRADA
+ 6. LETRA E
+ 7. LETRA D
+ 8. LETRA B
+ 9. LETRA E
+ 10. LETRA B
+ 11. LETRA C
+ 12. LETRA C
+ 13. LETRA B
+ 14. LETRA C
+ 15. LETRA B
+ 16. LETRA D
+ 17. LETRA E
+ 18. CORRETA
+ 19. ERRADA
+ 20. ERRADA
+ 21. ERRADA
+ 22. LETRA D
+ 23. LETRA C
+ 24. LETRA D
+ 25. ERRADA
+ 26. ERRADA
+ 27. CORRETA
+
+
+
+
+      Receita Federal (Analista Tributário) Legislação Tributária       42
+      www.estrategiaconcursos.com.br                                    42
+
+                                   https://t.me/KakashiAssinaturasBot
+

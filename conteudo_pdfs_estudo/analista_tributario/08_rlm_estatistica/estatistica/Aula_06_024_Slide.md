@@ -1,0 +1,467 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 06_024_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Jhoni Zini
+---
+
+# Jhoni Zini
+
+---
+
+Jhoni Zini
+
+              
+
+
+---
+
+ARRANJO E COMBINAÇÃO
+QUESTÕES DE FIXAÇÃO DE COMBINAÇÃO
+
+                 
+
+
+---
+
+FGV 2022
+Do grupo dos 6 novos policiais de uma delegacia, 2 deles serão escolhidos
+para um treinamento especial.
+O número de pares diferentes de policiais que podem ser enviados para o
+treinamento especial é:
+A. 10;
+B. 12;
+C. 15;
+D16;
+E.18.
+
+                             
+
+
+---
+
+IBFC 2020
+Numa empresa há 3 vagas de analista financeiro e há 7 pretendentes. O
+total de possibilidades de escolha que o diretor da empresa tem para o
+preenchimento dessas vagas é:
+A. 70
+B. 210
+C. 21
+D. 35
+
+                           
+
+
+---
+
+CEBRASPE 2019
+A União tem, hoje, 138 estatais sob sua gestão, entre elas o Banco do Brasil
+S.A., a PETROBRAS e a CAIXA. Dessas 138, somente três devem permanecer
+sob a gestão da União; as demais serão privatizadas.
+Considerando essa afirmação, julgue o item.
+Se todas as estatais tiverem a chance de ficar sob a gestão da União, então
+a quantidade de maneiras distintas de escolher as três empresas que não
+serão privatizadas será inferior a 230.000.
+
+                              
+
+
+---
+
+INSTITUTO CONSULPLAN - 2020
+Uma escola terá que escolher 4 alunos de uma determinada turma para
+participar de um congresso sobre o meio ambiente. Considerando que nesta
+turma há 25 alunos, de quantas formas distintas esses 4 alunos poderão ser
+escolhidos?
+A. 625
+B. 12.650
+C. 75.900
+D. 303.600
+
+                            
+
+
+---
+
+ITAME - 2020
+Em uma sala de aula com 15 alunos, deseja-se formar grupos para execução
+de um trabalho. Sabendo que cada grupo deve conter 04 alunos, nessas
+condições o número de possibilidades diferentes para formação dos grupos é
+igual à:
+
+
+A. 1.365 possibilidades
+B. 1.500 possibilidades
+C. 1.535 possibilidades
+D. 1.659 possibilidades
+
+                            
+
+
+---
+
+INSTITUTO ACESSO - 2020
+Um grupo de oito profissionais liberais se reuniram para lançar candidatura
+coletiva, em que cinco deles comporiam essa “bancada”. De quantas maneiras
+diferentes essa “bancada” pode ser formada por esse grupo?
+A. 56.
+B. 40.
+C. 20.
+D. 13.
+E. 28.
+
+                             
+
+
+---
+
+2019 – PREFEITURA DE COLÔMBIA/SP)
+Em uma pequena escola de música os estudantes são especializados em
+instrumentos conforme tabela a seguir:
+
+O número de bandas diferentes que poderão ser formadas com os
+estudantes desta escola de música com a seguinte constituição: 2
+guitarristas, 1 contrabaixista, 1 baterista e 1 tecladista está compreendido
+entre:
+a) 1 e 300
+b) 301 e 400
+c) 401 e 600
+d) 601 e 800
+
+                              
+
+
+---
+
+CESPE 2018/PF
+Para cumprimento de um mandado de busca e apreensão serão designados um
+delegado, 3 agentes (para a segurança da equipe na operação) e um escrivão. O
+efetivo do órgão que fará a operação conta com 4 delegados, entre eles o delegado
+Fonseca; 12 agentes, entre eles o agente Paulo; e 6 escrivães, entre eles o escrivão
+Estêvão.
+Em relação a essa situação hipotética, julgue o item a seguir.
+Considerando todo o efetivo do órgão responsável pela operação, há mais de 5.000
+maneiras distintas de se formar uma equipe para dar cumprimento ao mandado.
+
+                                
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ARRANJO E COMBINAÇÃO
+CASOS PARTICULARES DE COMBINAÇÃO
+
+                 
+
+
+---
+
+CASOS PARTICULARES DE COMBINAÇÃO
+
+                    
+
+
+---
+
+CASOS PARTICULARES DE COMBINAÇÃO
+
+                    
+
+
+---
+
+CASOS PARTICULARES DE COMBINAÇÃO
+
+                    
+
+
+---
+
+CASOS PARTICULARES DE COMBINAÇÃO
+
+                    
+
+
+---
+
+CASOS PARTICULARES DE COMBINAÇÃO
+
+                    
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ARRANJO E COMBINAÇÃO
+COMBINAÇÃO COMPLETA
+
+                
+
+
+---
+
+COMBINAÇÃO COMPLETA
+
+                  
+
+
+---
+
+COMBINAÇÃO COMPLETA
+
+                  
+
+
+---
+
+COMBINAÇÃO COMPLETA
+
+                  
+
+
+---
+
+COMBINAÇÃO COMPLETA
+Por exemplo, escolher k = 3 potes de sorvete havendo um total de n = 5
+marcas distintas (os potes podem ser de uma mesma marca ou de
+marcas distintas).
+
+                            
+
+
+---
+
+FGV/2018 – ALE-RO
+Helena entra em uma sorveteria que oferece sorvetes de 8 sabores
+diferentes. Helena deseja escolher uma casquinha com duas bolas de
+sorvete não necessariamente de sabores diferentes. A ordem em que as
+bolas forem colocadas na casquinha não fará a escolha de Helena ser
+diferente. O número de maneiras de Helena escolher sua casquinha é
+a) 64.
+b) 56.
+c) 36.
+d) 28.
+e) 16.
+
+                          
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ARRANJO E COMBINAÇÃO
+NÚMERO DE SOLUÇÕES INTEIRAS DE EQUAÇÕES
+
+                 
+
+
+---
+
+NÚMERO DE SOLUÇÕES INTEIRAS DE EQUAÇÕES
+
+                +   +         +           =
+
+                    
+
+
+---
+
+NÚMERO DE SOLUÇÕES INTEIRAS DE EQUAÇÕES
+
+ + y + z = 10
+
+                    
+
+
+---
+
+NÚMERO DE SOLUÇÕES INTEIRAS DE EQUAÇÕES
+
+ +y+z+w=7
+
+                    
+
+
+---
+
+NÚMERO DE SOLUÇÕES INTEIRAS DE EQUAÇÕES
+
+ +y+z+w+k=6
+
+                    
+
+
+---
+
+CESPE 2018/SEFAZ-RS)
+Se 7 kg de feijão forem distribuídos para até quatro famílias, de modo que
+cada uma delas receba um número inteiro de quilos, então, nesse caso, a
+quantidade de maneiras distintas de se distribuírem esses 7 kg de feijão para
+essas famílias será igual a
+a) 30.
+b) 120.
+c) 330.
+d) 820.
+e) 1.320.
+
+                             
+
+
+---
+
+2019 – CONSELHO REGIONAL DE MEDICINA/AC
+Se alguém deseja distribuir 9 balas idênticas entre 3 pessoas, sem qualquer
+critério de distribuição, com cada uma delas recebendo pelo menos uma
+bala, então existem 28 maneiras de se fazer a distribuição.
+
+                             
+
+
+---
+
+FGV/2021 – PREF. PAULÍNIA)
+Eva tem 9 maçãs indistinguíveis e deseja distribuí-las a 3 amigos de forma
+que cada um deles fique com, ao menos, 2 maçãs. O número de maneiras
+distintas de Eva distribuir as maçãs é:
+a) 12
+b) 10
+c) 9
+d) 8
+e) 6
+
+                             
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ARRANJO E COMBINAÇÃO
+PARTIÇÃO ORDENADA
+
+                
+
+
+---
+
+PARTIÇÃO ORDENADA
+A partição ordenada representa a separação de um conjunto de elementos
+em subconjuntos distintos entre si (de modo que a soma dos elementos dos
+subconjuntos seja equivalente ao total de elementos do conjunto original).
+
+                            
+
+
+---
+
+PARTIÇÃO ORDENADA
+Particionar um conjunto de 10 profissionais entre os subconjuntos de 1
+gerente, 2 coordenadores, e 7 trabalhadores de linha de frente.
+
+                             
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---
+
+ARRANJO E COMBINAÇÃO
+PARTIÇÃO NÃO-ORDENADA
+
+                
+
+
+---
+
+PARTIÇÃO NÃO-ORDENADA
+
+A partição não-ordenada representa a separação de um conjunto
+de elementos em subconjuntos equivalentes entre si.
+
+                       
+
+
+---
+
+PARTIÇÃO NÃO-ORDENADA
+particionar um conjunto de 6 profissionais em 3 duplas (subconjuntos),
+que deverão realizar um mesmo trabalho.
+
+                          
+
+
+---
+
+2016 – PREFEITURA DE SÃO JOSÉ DA COROA GRANDE/PE
+De quantos modos podemos dividir 10 pessoas em dois grupos de 5
+pessoas?
+a) 96
+b) 108
+c) 120
+d) 126
+e) 132
+
+                        
+
+
+---
+
+2006 – TCE/PR
+De quantas maneiras diferentes 12 estudantes podem ser divididos
+em 3 equipes, sendo que cada uma das equipes deve ser composta
+de quatro estudantes?
+a) 8425
+b) 3260
+c) 12640
+d) 5775
+e) 34650
+
+                         
+
+
+---
+
+OBRIGADO
+
+       
+
+
+---

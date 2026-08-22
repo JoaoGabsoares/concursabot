@@ -1,0 +1,146 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 14_019_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: OPERAÇÕES COM NÚMEROS REAIS
+---
+
+# OPERAÇÕES COM NÚMEROS REAIS
+
+---
+
+---
+
+OPERAÇÕES COM NÚMEROS REAIS
+
+
+                                           Prof. Brunno Lima
+
+      
+
+
+---
+
+RADICIAÇÃO DE NÚMEROS REAIS
+
+                                            Prof. Brunno Lima
+
+       
+
+
+---
+
+      RAÍZES ARITMÉTICAS
+      Raízes quadradas, cúbicas, quartas,                     etc. enquadram-se na
+      seguinte definição geral:
+
+      Raiz n-ésima de um número real 𝒂 é o número indicado por 𝒏 𝒂
+      que, elevado, ao expoente 𝒏, dá 𝒂.
+                                 𝒏
+                                     𝒂 = 𝒙 se, e só se, 𝒙𝒏 = 𝒂
+
+      Nessa definição, 𝒏 pode ser qualquer inteiro positivo. Em 𝒏 𝒂
+      dizemos que 𝒏 é o índice da raiz e que 𝒂 é o radicando.
+
+RADICIAÇÃO DE NÚMEROS REAIS
+Prof. Brunno Lima
+
+                              
+
+
+---
+
+      CALCULANDO RAÍZES DE ÍNDICE “n”
+      Para determinarmos o valor de uma raiz 𝒏 𝒂, podemos proceder
+      da seguinte forma:
+      1º) Decompomos o radicando em fatores primos.
+      2º) A partir daí fazemos agrupamentos de           fatores primos
+      iguais. Para cada um desses agrupamentos tomaremos apenas
+      um dos fatores e, em seguida, multiplicaremos todos entre si. O
+      produto indicará o resultado que ficará fora do radical.
+      3º) Os fatores que não puderem ser agrupados       a     deverão
+      ser multiplicados entre si e mantidos dentro do radical de índice
+          .
+RADICIAÇÃO DE NÚMEROS REAIS
+Prof. Brunno Lima
+
+                              
+
+
+---
+
+      Atenção!!!
+      Raízes de índice par: não existe raiz real de um número negativo
+      se o índice do radical for par.
+
+      Raízes de índice ímpar:
+       Radicando positivo → raiz positiva.
+       Radicando negativo e índice ímpar → raiz negativa.
+
+RADICIAÇÃO DE NÚMEROS REAIS
+Prof. Brunno Lima
+
+                              
+
+
+---
+
+      A) 𝟒𝟖𝟒 =
+
+RADICIAÇÃO DE NÚMEROS REAIS
+Prof. Brunno Lima
+
+                              
+
+
+---
+
+           𝟔
+      B)       −𝟕𝟐𝟗
+
+RADICIAÇÃO DE NÚMEROS REAIS
+Prof. Brunno Lima
+
+                              
+
+
+---
+
+            𝟓
+      C)        𝟏𝟎𝟐𝟒
+
+RADICIAÇÃO DE NÚMEROS REAIS
+Prof. Brunno Lima
+
+                              
+
+
+---
+
+            𝟔
+      D)        𝟕𝟐𝟗
+
+RADICIAÇÃO DE NÚMEROS REAIS
+Prof. Brunno Lima
+
+                              
+
+
+---
+
+OBRIGADO
+                                        Prof. Brunno Lima
+
+   
+
+
+---

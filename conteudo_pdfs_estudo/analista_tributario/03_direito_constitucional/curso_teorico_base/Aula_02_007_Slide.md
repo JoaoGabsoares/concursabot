@@ -1,0 +1,366 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 02_007_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 1º
+- Art. 2º
+---
+
+# DIREITO CONSTITUCIONAL
+
+DIREITO CONSTITUCIONAL
+
+                                          Profª. Nelma Fontana
+
+     
+
+
+---
+
+   Professora Nelma
+        Fontana
+
+                @nelmafontan
+                a
+
+---
+
+Hermenêutica Constitucional
+
+       
+
+
+---
+
+Princípios de interpretação da Constituição
+
+             
+
+
+---
+
+Estado de Coisas Inconstitucional
+
+Para a caracterização do estado de coisas inconstitucional deve ser
+constatada violação a direitos e garantias fundamentais de uma ampla
+parcela de população, em situação em que evidenciada falha estrutural
+sistêmica de autoridades e entidades na execução e na condução de
+políticas públicas.
+
+                             
+
+
+---
+
+Teoria dos Poderes Implícitos
+
+Quando a Constituição confere uma competência a um órgão, implicitamente
+também confere os poderes necessários à execução dessa competência.
+
+                                
+
+
+---
+
+---
+
+1. (2023/CESPE/CEBRASPE/PGM – SP/Procurador do Município) Quanto ao
+conceito, à classificação e a interpretação das normas constitucionais, assinale a
+opção correta.
+A) Uma norma materialmente constitucional pode ser não escrita.
+B) O fato de uma norma constitucional atribuir certo poder geral a um órgão não
+pressupõe que ela haja atribuído outros poderes necessários à realização daquele.
+C) As normas constitucionais caracterizam-se por não terem exequibilidade
+imediata.
+D) Na interpretação das normas constitucionais originárias, deve-se considerar a
+hierarquia entre as normas materialmente constitucionais e as formalmente
+constitucionais.
+E) O intérprete da Constituição deve privilegiar o método gramatical ou literal, a
+fim de evitar interpretações contraditórias do texto constitucional.
+
+                             
+
+
+---
+
+2. (2023/FUNDATEC/Prefeitura de Dom Pedrito – RS/Procurador) Pedro Lenza, em
+sua obra Direito Constitucional (Editora SaraivaJur, 26ª edição, 2022), ao tratar dos
+princípios que orientam a interpretação das normas constitucionais, explica que “a
+Constituição deve ser sempre interpretada em sua globalidade, como um todo, e,
+assim, as aparentes antinomias deverão ser afastadas”. O doutrinador está se
+referindo ao princípio da:
+A) Unidade da Constituição.
+B) Máxima efetividade.
+C) Concordância prática ou harmonização..
+D) Força normativa da Constituição.
+E) Interpretação conforme a Constituição.
+
+                              
+
+
+---
+
+3. (2023/CESPE/CEBRASPE/AGU/Procurador Federal) No campo da hermenêutica
+constitucional, a via de interpretação que orienta os intérpretes a buscar a maior
+concretude possível das normas constitucionais, sem lhes alterar o conteúdo,
+corresponde ao princípio da
+A) concordância prática ou da harmonização.
+B) razoabilidade.
+C) proporcionalidade.
+D) máxima efetividade.
+E) interpretação conforme a Constituição.
+
+                             
+
+
+---
+
+4. (2022/Quadrix/CRA-SC/Advogado) O princípio segundo o qual não se deve
+considerar uma norma da Constituição fora do sistema em que esta se integra
+denomina-se princípio da
+A) força normativa da Constituição.
+B) eficácia integradora.
+C) correção funcional.
+D) concordância prática.
+E) unicidade da Constituição.
+
+                           
+
+
+---
+
+5. (2022/CESPE/CEBRASPE/PGE-RJ/Analista Contábil) Pelo princípio da
+concordância prática, busca-se, em uma aparente situação de conflito entre bens
+jurídicos de proteção constitucional, a coexistência harmônica entre eles, de modo
+a evitar o sacrífico total ou a negação de um deles.
+
+                             
+
+
+---
+
+---
+
+Métodos de interpretação da Constituição
+
+            
+
+
+---
+
+Método jurídico (ou método hermenêutico clássico)
+
+O sentido das normas constitucionais é extraído de cinco elementos
+interpretativos:
+
+a) o elemento filológico (semântico, gramatical ou literal)
+
+b) o elemento lógico (ou sistemático)
+
+c) elemento histórico (ou genético)
+
+d) elemento teleológico (ou finalidade)
+
+e) comparativo
+                               
+
+
+---
+
+Método tópico-problemático
+
+O método de interpretação constitucional denominado tópico-problemático
+pressupõe a compreensão do problema concreto a resolver, havendo, nesse
+método, a primazia do problema sobre a norma.
+
+                             
+
+
+---
+
+O método hermenêutico-concretizador
+
+O método hermenêutico-concretizador estabelece um “movimento de ir e vir”
+(círculo hermenêutico), do subjetivo para o objetivo e do objetivo para o
+subjetivo.
+
+                          
+
+
+---
+
+Método científico-espiritual (método valorativo, sociológico)
+
+Por esse método, a interpretação constitucional deve levar em conta a ordem ou o
+sistema de valores subjacente à Constituição, assim como o sentido e a realidade
+que esta possui como elemento do processo de integração comunitária.
+
+                             
+
+
+---
+
+Método normativo-estruturante
+
+Esse método parte da premissa de que existe uma relação necessária entre o texto
+e a realidade, entre preceitos jurídicos e os fatos que eles intentam regular. Não é
+possível isolar a norma jurídica da realidade, razão por que se deve falar em
+concretização da Constituição e não de interpretação.
+
+                              
+
+
+---
+
+---
+
+1. (2023/CESPE/CEBRASPE/AGU/Advogado da União) ( ... ) representa a tentativa
+de superar o contraste rígido entre norma e fato, deslocando o problema para o
+debate sobre estática e dinâmica na teoria do Estado. Nessa teoria, a Constituição
+é uma realidade integrante.
+Paulo Bonavides. Curso de direito constitucional. 17.ª ed. São Paulo: Editora
+Malheiros, p. 178 (com adaptações).
+O fragmento de texto apresentado diz respeito ao método interpretativo
+A) tópico-problemático.
+B) hermenêutico-concretizador.
+C) normativo-estruturante.
+D) científico-espiritual.
+E) hermenêutico clássico.
+
+                             
+
+
+---
+
+2. (2023/Instituto Consulplan/SEGER-ES/Analista do Executivo) “Trata-se de
+interpretação que exige uma compreensão prévia do conteúdo do texto
+constitucional, cabendo ao intérprete verificar até que ponto compete ao
+legislador a livre concretização dos valores constitucionais, expostos por meio de
+normas jurídicas; sendo a Constituição vista como norma superior e tal técnica
+interpretativa como um mecanismo de controle de constitucionalidade.” A
+definição supra se refere ao método interpretativo:
+Alternativas
+A) Conforme a história.
+B) Gramatical ou literal.
+C) Axiológico ou valorativo.
+D) Finalístico ou teleológico.
+E) Conforme a Constituição.
+
+                             
+
+
+---
+
+3. (2022/Instituto Access/CELEPAR – PR/Advogado Júnior) A corrente que defende
+uma interpretação gramatical do texto constitucional que é considerado em pé de
+igualdade como uma lei ordinária corresponde ao método
+A) hermenêutico clássico.
+B) científico-espiritual.
+C) problemático.
+D) hermenêutico concretizador.
+E) normativo estruturante.
+
+                            
+
+
+---
+
+Princípios Fundamentais
+
+     
+
+
+---
+
+Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos
+Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de
+Direito e tem como fundamentos:
+
+I - a soberania;
+II - a cidadania
+III - a dignidade da pessoa humana;
+IV - os valores sociais do trabalho e da livre iniciativa;
+V - o pluralismo político.
+
+Parágrafo único. Todo o poder emana do povo, que o exerce por meio de
+representantes eleitos ou diretamente, nos termos desta Constituição.
+
+                                
+
+
+---
+
+Formas de Governo
+
+             República                                        Monarquia
+
+                         
+
+
+---
+
+Formas de Estado
+
+❑ Unitário
+
+❑ Federal
+
+                   
+
+
+---
+
+---
+
+Regimes Políticos
+
+❑ Autocracia
+
+❑ Democracia
+
+                    
+
+
+---
+
+Estado Democrático de Direito
+
+                            
+
+
+---
+
+Fundamentos
+
+              
+
+
+---
+
+Separação de Poderes
+
+Art. 2º São Poderes da União, independentes e harmônicos entre si, o Legislativo,
+o Executivo e o Judiciário.
+
+                             
+
+
+---
+
+GRATA!
+                                          Profª.: Nelma Fontana
+
+     
+
+
+---

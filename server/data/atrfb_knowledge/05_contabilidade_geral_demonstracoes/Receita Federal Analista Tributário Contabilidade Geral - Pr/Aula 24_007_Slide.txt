@@ -1,0 +1,1457 @@
+Contabilidade
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+
+
+          https://t.me/KakashiAssinaturasBot
+                        IMERSÃO
+                     RECEITA FEDERAL
+                                                             Prof. Silvio Sande
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                        https://t.me/KakashiAssinaturasBot
+                                CPC 26
+
+
+
+                                                          Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+     Finalidade das demonstrações contábeis
+1.    As demonstrações contábeis são uma representação estruturada da posição patrimonial e financeira e do
+      desempenho da entidade. O objetivo das demonstrações contábeis é o de proporcionar informação acerca da
+      posição patrimonial e financeira, do desempenho e dos fluxos de caixa da entidade que seja útil a um grande
+      número de usuários em suas avaliações e tomada de decisões econômicas. As demonstrações contábeis também
+      objetivam apresentar os resultados da atuação da administração, em face de seus deveres e responsabilidades
+      na gestão diligente dos recursos que lhe foram confiados. Para satisfazer a esse objetivo, as demonstrações
+      contábeis proporcionam informação da entidade acerca do seguinte:
+        (a) ativos;
+        (b) passivos;
+        (c) patrimônio líquido;
+        (d) receitas e despesas, incluindo ganhos e perdas;
+        (e) alterações no capital próprio mediante integralizações dos proprietários e distribuições aeles; e
+        (f) fluxos de caixa.
+           Essas informações, juntamente com outras informações constantes das notas explicativas, ajudam os usuários
+           das demonstrações contábeis a prever os futuros fluxos de caixa da entidade e, em particular, a época e o
+           grau de certeza de sua geração.
+
+
+ Contabilidade
+ Prof. Silvio Sande
+                                              https://t.me/KakashiAssinaturasBot
+CPC 26 - Continuidade
+ Quando da elaboração das demonstrações contábeis, a administração deve fazer a
+ avaliação da capacidade da entidade continuar em operação no futuro previsível. As
+ demonstrações contábeis devem ser elaboradas no pressuposto da continuidade, a menos
+ que a administração tenha intenção de liquidar a entidade ou cessar seus negócios, ou
+ ainda não possua uma alternativa realista senão a descontinuidade de suas atividades.
+ Quando a administração tiver ciência, ao fazer a sua avaliação, de incertezas relevantes
+ relacionadas com eventos ou condições que possam lançar dúvidas significativas acerca da
+ capacidade da entidade continuar em operação no futuro previsível, essas incertezas devem
+ ser divulgadas. Quando as demonstrações contábeis não forem elaboradas no
+ pressuposto da continuidade, esse fato deve ser divulgado, juntamente com as bases
+ sobre as quais as demonstrações contábeis foram elaboradas e a razão pela qual não se
+ pressupõe a continuidade da entidade.
+
+Contabilidade
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+CPC 26 - Competência
+
+ 27. A entidade deve elaborar as suas demonstrações contábeis, exceto para a
+ demonstração dos fluxos de caixa, utilizando-se do regime de competência.
+
+ 28. Quando o regime de competência é utilizado, os itens devem ser reconhecidos como
+ ativos, passivos, patrimônio líquido, receitas e despesas (elementos das demonstrações
+ contábeis) quando satisfazem às definições e aos critérios de reconhecimento para esses
+ elementos contidos no CPC 00.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   CPC 26 - Materialidade
+  A entidade deve apresentar separadamente nas demonstrações contábeis cada classe material de itens
+  semelhantes. A entidade deve apresentar separadamente os itens de natureza ou função distinta, a
+  menos que sejam imateriais.
+
+  Se um item não for individualmente material, deve ser agregado a outros itens, seja nas
+  demonstrações contábeis, seja nas notas explicativas.
+
+  A entidade deve decidir, levando em consideração todos os fatos e as circunstâncias
+  relevantes, como ela agrega informações nas demonstrações contábeis, que incluem as
+  notas explicativas.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                    https://t.me/KakashiAssinaturasBot
+   CPC 26 - Compensação de valores
+  A entidade não deve compensar ativos e passivos ou receitas e despesas, a menos que a
+  compensação seja exigida ou permitida por um Pronunciamento Técnico, Interpretação ou
+  Orientação do CPC.
+
+  A entidade deve informar separadamente os ativos e os passivos, as receitas e as despesas.
+
+  A compensação desses elementos no balanço patrimonial ou na demonstração do resultado, exceto
+  quando refletir a essência da transação ou outro evento, prejudica a capacidade dos usuários de
+  compreender as transações, outros eventos e condições que tenham ocorrido e de avaliar os futuros fluxos
+  de caixa da entidade.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                       https://t.me/KakashiAssinaturasBot
+Frequência de apresentação das demonstrações
+contábeis
+ 36. O conjunto completo das demonstrações contábeis deve ser apresentado pelo menos
+ anualmente (inclusive informação comparativa). Quando se altera a data de
+ encerramento das demonstrações contábeis da entidade e as demonstrações contábeis
+ são apresentadas para um período mais longo ou mais curto do que um ano, a entidade
+ deve divulgar, além do período abrangido pelas demonstrações contábeis:
+ a razão para usar um período mais longo ou mais curto; e
+ o fato de que não são inteiramente comparáveis os montantes comparativos
+ apresentados nessas demonstrações.
+
+
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+Mudança na política contábil, demonstração
+retrospectiva ou reclassificação
+ 40A. A entidade deve apresentar um terceiro balanço patrimonial no início do período anterior,
+ adicional aos comparativos mínimos das demonstrações contábeis exigidas no item 38A se:
+ aplicar uma política contábil retrospectivamente, fizer uma reapresentação retrospectiva de itens nas
+ suas demonstrações contábeis ou reclassificar itens de suas demonstrações contábeis; e
+ a aplicação retrospectiva, a reapresentação retrospectiva ou a reclassificação tiver efeito material sobre
+ as informações do balanço patrimonial no início do período anterior. (Incluído pela Revisão CPC 03)
+
+ 40B. Nas circunstâncias descritas no item 40A, a entidade deve apresentar três balanços patrimoniais no:
+ final do período corrente;
+ final do período anterior; e
+ no início do período precedente. (Incluído pela Revisão CPC 03)
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                       https://t.me/KakashiAssinaturasBot
+   BP - CPC 26
+  O balanço patrimonial deve apresentar, respeitada a legislação, as seguintes contas:
+  a) caixa e equivalentes de caixa;
+  b) clientes e outros recebíveis;
+  c) estoques;
+  d) ativos financeiros (exceto os mencionados nas alíneas “a”, “b” e “g”);
+  e) total de ativos classificados como disponíveis para venda e ativos à disposição para venda de acordo
+  com o CPC 31.
+  e) ativos biológicos dentro do alcance do CPC 29; (Alterada pela Revisão CPC 08)
+  f) investimentos avaliados pelo método da equivalência patrimonial;
+  g) propriedades para investimento;
+  h) imobilizado;
+  i) intangível;
+Contabilidade
+Prof. Silvio Sande
+                                      https://t.me/KakashiAssinaturasBot
+   BP - CPC 26
+  O balanço patrimonial deve apresentar, respeitada a legislação, as seguintes contas:
+  j) contas a pagar comerciais e outras;
+  l) provisões;
+  m) obrigações financeiras (exceto as referidas nas alíneas “k” e “l”);
+  n) obrigações e ativosrelativos à tributação corrente, conforme definido no
+  Pronunciamento Técnico CPC 32 – Tributos sobre o Lucro;
+  o) impostos diferidos ativos e passivos, como definido no Pronunciamento Técnico CPC 32;
+  p) obrigações associadas a ativos à disposição para venda de acordo com o Pronunciamento Técnico
+  CPC 31;
+  q) participação de não controladores apresentada de forma destacada dentro do patrimônio líquido; e
+  r) capital integralizado e reservas e outras contas atribuíveis aos proprietários da entidade.
+
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   BP - CPC 26
+  A entidade deve apresentar contas adicionais (pela desagregação de contas listadas no item 54),
+  cabeçalhos e subtotais nos balanços patrimoniais sempre que sejam relevantes para o entendimento da
+  posição financeira e patrimonial da entidade .
+
+  Na situação em que a entidade apresente separadamente seus ativos e passivos circulantes e não
+  circulantes, os impostos diferidos ativos (passivos) não devem ser classificados como ativos
+  circulantes (passivos circulantes).
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   BP - CPC 26
+  Este Pronunciamento Técnico não prescreve a ordem ou o formato que deva ser utilizado na apresentação
+  das contas do balanço patrimonial, mas a ordem legalmente instituída no Brasil deve ser observada. O
+  item 54 simplesmente lista os itens que são suficientemente diferentes na sua natureza ou função para
+  assegurar uma apresentação individualizada no balanço patrimonial. Adicionalmente:
+  a) contas do balanço patrimonial devem ser incluídas sempre que o tamanho, natureza ou função de
+  um item ou agregação de itens similares apresentados separadamente seja relevante na compreensão
+  da posição financeira da entidade;
+  b) a nomenclatura de contas utilizada e sua ordem de apresentação ou agregação de itens semelhantes
+  podem ser modificadas de acordo com a natureza da entidade e de suas transações, no sentido de
+  fornecer informação que seja relevante na compreensão da posição financeira e patrimonial da
+  entidade.
+
+
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   BP - CPC 26
+  A entidade deve julgar a adequação da apresentação de contas adicionais separadamente com base
+  na avaliação:
+  a) da natureza e liquidez dos ativos;
+  b) da função dos ativos na entidade; e
+  c) dos montantes, natureza e prazo dos passivos.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+   BP - CPC 26
+  O detalhamento proporcionado nas subclassificações depende dos requisitos dos Pronunciamentos Técnicos,
+  Interpretações e Orientações do CPC e da dimensão, natureza e função dos montantes envolvidos.. As
+  divulgações variam para cada item, por exemplo:
+  a) os itens do ativo imobilizado são segregados em classes de acordo com o Pronunciamento Técnico CPC 27 –
+  Ativo Imobilizado;
+  b) as contas a receber são segregadas em montantes a receber de clientes comerciais, contas a receber de
+  partesrelacionadas,pagamentosantecipadose outrosmontantes;
+  c) os estoques são segregados, de acordo com o Pronunciamento Técnico CPC 16 – Estoques, em classificações
+  tais como mercadoriaspararevenda,insumos,materiais,produtosem processoe produtosacabados;
+  e) as provisões são segregadas em provisões para benefícios dos empregados e outros itens; e
+  f) o capital e as reservas são segregados em várias classes, tais como capital subscrito e integralizado, prêmios na
+  emissão de ações e reservas.
+
+Contabilidade
+Prof. Silvio Sande
+                                           https://t.me/KakashiAssinaturasBot
+   CPC 26 - Distinção entre circulante e não circulante
+  A entidade deve apresentar ativos circulantes e não circulantes, e passivos circulantes e não circulantes,
+  como grupos de contas separados no balanço patrimonial, exceto quando uma apresentação baseada
+  na liquidez proporcionar informação confiável e mais relevante. Quando essa exceção for aplicável,
+  todos os ativos e passivos devem ser apresentados por ordem de liquidez..
+
+  É permitido à entidade apresentar alguns dos seus ativos e passivos, utilizando-se da classificação
+  em circulante e não circulante e outros por ordem de liquidez quando esse procedimento
+  proporcionar informação confiável e mais relevante. A necessidade de apresentação em base mista
+  pode surgir quando a entidade tem diversos tipos de operações.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                       https://t.me/KakashiAssinaturasBot
+   CPC 26 - Ativo Circulante
+
+  O ativo deve ser classificado como circulante quando satisfizer qualquer dos seguintes critérios:
+  a) espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no decurso normal
+  do ciclo operacional da entidade;
+  b) está mantido essencialmente com o propósito de ser negociado;
+  c) espera-se que seja realizado até doze meses após a data do balanço; ou
+  d) é caixa ou equivalente de caixa (conforme definido no Pronunciamento Técnico CPC 03
+  – Demonstração dos Fluxos de Caixa), a menos que sua troca ou uso para liquidação de passivo se
+  encontre vedada durante pelo menos doze meses após a data do balanço.
+  Todos os demais ativos devem ser classificados como não circulantes.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                    https://t.me/KakashiAssinaturasBot
+   CPC 26 - Passivo Circulante
+  O passivo deve ser classificado como circulante quando satisfizer qualquer dos seguintes critérios:
+  a) espera-se que seja liquidado durante o ciclo operacional normal da entidade;
+  b) está mantido essencialmente para a finalidade de ser negociado;
+  c) deve ser liquidado no período de até doze meses após a data do balanço; ou
+  d) a entidade não tem direito incondicional de diferir a liquidação do passivo durante pelo menos
+  doze meses após a data do balanço (ver item 73). Os termos de um passivo que podem, à opção da
+  contraparte, resultar na sua liquidação por meio da emissão de instrumentos patrimoniais não devem
+  afetar a sua classificação.
+  Todos os outros passivos devem ser classificados como não circulantes.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   CPC 26 - Passivo Circulante
+  Alguns passivos circulantes, tais como contas a pagar comerciais e algumas apropriações por competência
+  relativas a gastos com empregados e outros custos operacionais são parte do capital circulante usado no
+  ciclo operacional normal da entidade. Tais itens operacionais são classificados como passivos
+  circulantes mesmo que estejam para ser liquidados em mais de doze meses após a data do balanço
+  patrimonial.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                      https://t.me/KakashiAssinaturasBot
+   CPC 26 - Passivo Circulante
+  A entidade deve classificar os seus passivos financeiros como circulantes quando a sua liquidação estiver
+  prevista para o período de até doze meses após a data do balanço, mesmo que:
+  a) o prazo original para sua liquidação tenha sido por período superior a doze meses; e
+  b) um acordo de refinanciamento, ou de reescalonamento de pagamento a longo prazo seja completado
+  após a data do balanço e antes de as demonstrações contábeis serem autorizadas para sua publicação.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                       https://t.me/KakashiAssinaturasBot
+   CPC 26 - Passivo Circulante - Inadimplência
+  Quando a entidade quebrar um acordo contratual (covenant) de um empréstimo de longo prazo (índice
+  de endividamento ou de cobertura de juros, por exemplo) ao término ou antes do término do período de
+  reporte, tornando o passivo vencido e pagável à ordem do credor, o passivo deve ser classificado
+  como circulante mesmo que o credor tenha concordado, após a data do balanço e antes da data da
+  autorização para emissão das demonstrações contábeis, em não exigir pagamento antecipado como
+  consequência da quebra do covenant. O passivo deve ser classificado como circulante porque, à data do
+  balanço, a entidade não tem o direito incondicional de diferir a sua liquidação durante pelo menos doze
+  meses após essa data.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                      https://t.me/KakashiAssinaturasBot
+   CPC 26 - Passivo não Circulante
+  Se a entidade tiver a expectativa, e tiver poder discricionário, para refinanciar ou substituir (roll over) uma
+  obrigação por pelo menos doze meses após a data do balanço segundo dispositivo contratual do
+  empréstimo existente, deve classificar a obrigação como não circulante, mesmo que de outra forma fosse
+  devida dentro de período mais curto.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                         https://t.me/KakashiAssinaturasBot
+Informação a ser apresentada no balanço
+patrimonial ou em notas explicativas
+ 68.      A entidade deve divulgar, seja no balanço patrimonial seja nas notas explicativas, rubricas adicionais às contas apresentadas
+          (subclassificações), classificadas de forma adequada às operações da entidade.
+
+ 68.      O detalhamento proporcionado nas subclassificações depende dos requisitos dos Pronunciamentos Técnicos, Interpretações e
+          Orientações do CPC e da dimensão, natureza e função dos montantes envolvidos. Os fatores estabelecidos no item 58 também
+          são usados para decidir as bases a se utilizar para tal subclassificação. As divulgações variam para cada item, por exemplo:
+            (a) os itens do ativo imobilizado são segregados em classes de acordo com o Pronunciamento Técnico CPC 27 – Ativo
+                Imobilizado;
+            (b) as contas a receber são segregadas em montantes a receber de clientes comerciais, contas a receber de partes
+                relacionadas, pagamentos antecipados e outros montantes;
+            (c) os estoques são segregados, de acordo com o Pronunciamento Técnico CPC 16 – Estoques, em classificações tais como
+                mercadorias para revenda, insumos, materiais, produtos em processo e produtos acabados;
+            (d) as provisões são segregadas em provisões para benefícios dos empregados e outros itens; e
+            (e) o capital e as reservas são segregados em várias classes, tais como capital subscrito e integralizado, prêmios na emissão
+                de ações e reservas.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                                     https://t.me/KakashiAssinaturasBot
+Informação a ser apresentada no balanço
+patrimonial ou em notas explicativas
+ 68.      A entidade deve divulgar o seguinte seja no balanço patrimonial, seja na demonstração dasmutações do patrimônio líquido ou
+          nas notas explicativas:
+           (a) para cada classe de ações do capital:
+                   (i) a quantidade de ações autorizadas;
+                   (ii) a quantidade de ações subscritas e inteiramente integralizadas, e subscritas masnão integralizadas;
+                   (iii) o valor nominal por ação, ou informar que as ações não têm valor nominal;
+                   (iv) a conciliação entre as quantidades de ações em circulação no início e no fim doperíodo;
+                   (v) os direitos, preferências e restrições associados a essa classe de ações, incluindorestrições na distribuição de
+                         dividendos e no reembolso de capital;
+                   (vi) ações ou quotas da entidade mantidas pela própria entidade (ações ou quotas emtesouraria) ou por controladas ou
+                         coligadas; e
+                   (vii)ações reservadas para emissão em função de opções e contratos para a venda deações, incluindo os prazos e
+                         respectivos montantes; e
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                                     https://t.me/KakashiAssinaturasBot
+01. (FGV/FUNSAÚDE/2022)
+ De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações
+ Contábeis, quando o ciclo operacional de uma entidade não for claramente identificável,
+ pressupõe-se que sua duração seja de
+
+   a) 30 dias.
+
+   b) 90 dias.
+
+   c) 12 meses.
+
+   d) 18 meses.
+
+   e) 4 anos.
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   02. (FGV/CGE-SC/Auditor do Estado/2023)
+     A Cia A produz navios e tem ciclo operacional de dezoito meses. Já a Cia B produz móveis
+     para encomenda e tem ciclo operacional de dez meses. O prazo para classificação das
+     exigibilidades das Cias A e B, respectivamente, em Passivo Circulante e Passivo não
+     Circulante, considerando que as empresas optam por adotar o prazo do exercício social de
+     acordo com o ciclo operacional, é de
+     (A) doze meses e dez meses.
+     (B) doze meses e doze meses.
+     (C) quinze meses e onze meses.
+     (D) dezoito meses e dez meses.
+     (E) dezoito meses e doze meses.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+03. (FGV/SEFAZ-AM/2022)
+ De acordo com o Pronunciamento Técnico CPC 26 (R1) - Apresentação das Demonstrações
+ Contábeis, a entidade deve divulgar suas demonstrações contábeis, quando não forem
+ elaboradas de acordo com o seguinte pressuposto:
+  a) continuidade.
+  b) neutralidade.
+  c) conservadorismo.
+  d) essência sobre a forma.
+  e) regime de competência.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+04. (FGV/SEFAZ-MG/2022)
+ De acordo com a NBC TG 26 (R5) - Apresentação das Demonstrações Contábeis, as
+ demonstrações contábeis resultam do processamento de grande número de transações ou
+ outros eventos que são agregados em classes, de acordo com a sua natureza ou função.
+
+ Quando um item não é individualmente material, ele deve ser
+ a) baixado em uma conta de resultado.
+ b) contabilizado em conta redutora no balanço patrimonial.
+ c) agregado a outros itens, seja nas demonstrações contábeis, seja nas notas explicativas.
+ d) excluído das demonstrações contábeis e não apresentado nas notas explicativas.
+ e) apresentado exclusivamente na Demonstração dos Fluxos de Caixa.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+05. (FGV/TRT13/2022)
+ Em relação ao Balanço Patrimonial, assinale a opção correta, de acordo com a NBC TG 26
+ (R5)– Apresentação das Demonstrações Contábeis.
+
+  a) A nomenclatura de contas utilizada e sua ordem de apresentação ou agregação de itens
+ semelhantes não podem ser modificadas.
+   b) A entidade deve julgar a adequação da apresentação de contas adicionais
+ separadamente com base na avaliação nos montantes dos ativos e na liquidez dos passivos.
+  c) Uma entidade deve apresentar contas adicionais, cabeçalhos e subtotais nos balanços
+ patrimoniais sempre que sejam relevantes para o entendimento da posição financeira e
+ patrimonial da entidade.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+  d) A utilização de distintos critérios de mensuração de classes semelhantes de ativos sugere
+ que suas naturezas ou funções são parecidas, apesar de serem apresentadas em contas
+ separadas.
+   e) Na situação em que a entidade apresente separadamente seus ativos e passivos
+ circulantes e não circulantes, os impostos diferidos ativos devem ser classificados como ativos
+ circulantes e os passivos como passivos circulantes.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+ 58. A entidade deve julgar a adequação da apresentação de contas adicionais
+ separadamente com base na avaliação:
+ (a) da natureza e liquidez dos ativos;
+ (b) da função dos ativos na entidade;
+ (c) dos montantes, natureza e prazo dos passivos.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   06. (FGV/ALERO/2018)
+  Assinale a opção que indica, no Balanço Patrimonial de uma entidade, as contas classificadas
+ como Disponibilidades.
+  a) Conta especial de cobrança e numerário em trânsito decorrente de remessas para filiais.
+  b) Saldos de contas em bancos em liquidação e conta movimento.
+  c) Depósitos bloqueados e depósitos vinculados à liquidação de empréstimo.
+  d) Conta especial para pagamento e saldos de contas em bancos em liquidação.
+  e) Conta movimento e depósitos vinculados para liquidação de contratos de câmbio.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                    https://t.me/KakashiAssinaturasBot
+   07. (FGV/MPE-AL/2018)
+ Na elaboração do Balanço Patrimonial de uma entidade, o imposto sobre a renda diferido,
+ quando ativo, deve ser contabilizado
+
+
+  a) sempre como ativo circulante.
+
+  b) sempre como ativo realizável a longo prazo.
+
+  c) sempre como investimento.
+
+  d) como ativo circulante ou ativo realizável a longo prazo.
+
+  e) sempre como ativo circulante ou investimento.
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+   08.(FGV/IMBEL/Analista Contábil/2021)
+ Uma entidade apresentava os seguintes saldos em 31/12/X0:
+ • Disponibilidades: R$ 50.000;
+ • Despesas antecipadas: R$ 20.000;
+ • Receitas recebidas antecipadamente: R$ 40.000;
+ • Empréstimo concedido: R$ 50.000;
+ • Ativo contingente: 18.000;
+ • Estoque: R$ 30.000;
+ • Imóveis: R$ 120.000.
+ Com base nesses saldos, assinale a opção que indica o patrimônio líquido da entidade na data.
+ (A) R$ 130.000
+ (B) R$ 190.000
+ (C) R$ 230.000
+ (D) R$ 248.000
+ (E) R$ 270.000
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+   09. (FGV/ALERO/2018)
+ Em 02/01/2015, uma entidade contraiu um financiamento no valor de R$ 300.000 com
+ vencimento em 31/12/2020. No contrato do financiamento havia algumas cláusulas a serem
+ cumpridas.
+  Em 10/12/2015, a entidade comunicou ao banco que não iria cumprir uma das cláusulas
+ contratuais.
+  Em 10/01/2016, o banco respondeu que não haveria sanções pelo descumprimento da cláusula.
+
+ Assinale a opção que indica a classificação do financiamento no balanço patrimonial da entidade,
+ em 31/12/2015.
+  a) Ativo realizável a longo prazo.
+  b) Passivo circulante.
+  c) Passivo não circulante.
+  d) Resultado de exercícios futuros.
+  e) Reserva de contingências.
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+   10. (FGV/MPE-AL/2018)
+ Uma sociedade empresária que presta serviços de consultoria apresentava em 31/12/2017 o
+ seguinte balanço patrimonial:
+
+
+
+
+ No mês de janeiro, a sociedade empresária comprou, por R$30.000, ações de empresas do ramo
+ de petróleo com a perspectiva de venda em doze meses. Além disso, um dos sócios da sociedade
+ empresária obteve um empréstimo da própria sociedade empresária no valor de R$ 20.000, para
+ pagamento em dez meses.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+ Considerando apenas esses fatos, sobre o balanço patrimonial da sociedade empresária, em
+ 31/01/2018, assinale a opção correta.
+  a) O ativo circulante era de R$ 50.000.
+  b) O ativo circulante era de R$ 70.000.
+  c) O ativo circulante era de R$ 100.000.
+  d) O ativo realizável a longo prazo era de R$ 20.000.
+  e) Os investimentos eram de R$ 30.000
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   11. (FGV/TJ-RO/2015)
+ Em 31/12/20x1, as contas patrimoniais da Cia. Mi apresentavam os seguintes saldos, em milhares
+ de reais:
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+ Considerando que a Cia. Mi espera recuperar em até 12 meses os valores de seus recebíveis e de seus
+ estoques, bem como liquidar em até 12 meses suas contas e empréstimos a pagar, e que prevê para
+ além de 12 meses a liquidação das provisões que reconhece, em 31/12/20x1 os totais de seu ativo
+ circulante e de seu passivo circulante serão, respectivamente, de:
+  a) R$ 60.000.000 e R$ 35.000.000;
+  b) R$ 60.000.000 e R$ 65.000.000;
+  c) R$ 55.000.000 e R$ 65.000.000;
+  d) R$ 80.000.000 e R$ 65.000.000;
+  e) R$ 35.000.000 e R$ 35.000.000.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                      https://t.me/KakashiAssinaturasBot
+   12. (FGV/SEFAZ-AM/2022)
+Uma sociedade empresária apresentava os seguintes saldos em seu balanço patrimonial, em
+31/12/X0.
+ Caixa: R$20.000;
+ Estoque previsto para ser vendido em 390 dias: R$50.000;
+  Despesa de seguros dos veículos paga antecipadamente em 31/12/X0 e que será
+apropriada mensalmente de forma linear por dois anos: R$12.000;
+ Contas a receber em 120 dias: R$60.000;
+ Empréstimo a acionista com prazo de recebimento de 180 dias: R$15.000;
+  Veículos utilizados no transporte de funcionários com vida útil estimada em 5 anos:
+R$80.000;
+ Depreciação acumulada dos veículos: R$54.000;
+ Perdas estimadas nos estoques: R$5.000; e
+ Perdas estimadas com crédito de liquidação duvidosa: R$3.000
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+Assinale a opção que indica o ativo realizável a longo prazo da sociedade empresária,
+em 31/12/X0:
+ a) R$51.000.
+ b) R$66.000.
+ c) R$72.000.
+ d) R$77.000.
+ e) R$92.000.
+
+
+
+
+Prof.  Silvio Sande
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+   13. (FGV/MPE-GO/2022)
+Em 01/01/X0, uma sociedade empresária tomou um empréstimo bancário no valor de
+R$6 milhões, sendo que R$3 milhões foram recebidos em 01/01/X0 e o restante será
+recebido em 01/01/X1. O pagamento do empréstimo será feito em parcelas semestrais
+ao longo de cinco anos, a partir de 01/01/X2.
+
+Assinale a opção que indica, respectivamente, o aumento no passivo circulante e no
+passivo não circulante da sociedade empresária na data da contração do empréstimo.
+ a) Zero e zero.
+ b) Zero e R$3 milhões.
+ c) R$3 milhões e zero.
+ d) R$3 milhões e R$3 milhões.
+ e) Zero e R$6 milhões.
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+   14. (FGV/TJ-TO/2022)
+Considere os saldos de natureza patrimonial no quadro a seguir, apresentados por uma
+entidade ao final de um dado exercício financeiro.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+A partir de tais informações, o valor do capital próprio da referida entidade ao final do
+exercício é de:
+ a) R$ 15.000,00;
+ b) R$ 25.000,00;
+ c) R$ 30.000,00;
+ d) R$ 35.000,00;
+ e) R$ 40.000,00.
+
+
+
+
+Prof.  Silvio Sande
+Contabilidade
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+   15. (FGV/SEFAZ-ES/2021)
+Uma entidade que presta serviços de consultoria apresentava os seguintes saldos em seu
+ativo, em 31/12/X0.
+
+• Disponibilidades: R$ 50.000;
+• Empréstimo concedido a sócio da entidade para pagamento em 3 meses: R$ 20.000;
+• Crédito Fiscal: R$ 15.000;
+• Automóveis utilizados no negócio: R$ 30.000;
+• Depreciação Acumulada dos automóveis: R$ 10.000;
+• Seguro antecipado dos automóveis, com vigência de dois anos: R$ 24.000.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+Assinale a opção que indica o valor do ativo realizável a longo prazo, em 31/12/X0.
+
+(A) R$ 27.000
+(B) R$ 32.000
+(C) R$ 47.000
+(D) R$ 59.000
+(E) R$ 79.000
+
+
+
+
+Prof.  Silvio Sande
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+   16. (FGV/SEFAZ-ES/2022)
+Uma sociedade empresária brasileira apresentava os seguintes saldos em seu balanço
+patrimonial, em 30/11/X0:
+
+Caixa: R$ 80.000; Terrenos: R$ 220.000; Fornecedores de curto prazo: R$ 250.000; Capital
+Social: R$ 50.000.
+
+Para fortalecimento de sua estrutura patrimonial, a sociedade empresária emitiu em
+dezembro de X0 os seguintes títulos e valores mobiliários:
+
+• Debênture com valor nominal de R$ 100.000, sem data de vencimento fixada.
+• Debênture com valor nominal de R$ 150.000 e prêmio de R$ 30.000, com data de
+vencimento em 3 anos.
+• Ações com valor nominal de R$ 100.000 e ágio na emissão de ações de R$ 20.000.
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+Assinale a opção que indica, respectivamente, o valor do passivo e do patrimônio líquido
+da sociedade empresária, em 31/12/X0.
+ a) R$ 430.000 e R$ 150.000.
+ b) R$ 500.000 e R$ 150.000.
+ c) R$ 500.000 e R$ 170.000.
+ d) R$ 530.000 e R$ 150.000.
+ e) R$ 530.000 e R$ 170.000.
+
+
+
+
+Prof.  Silvio Sande
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+   17. (FGV/TRT13/2022)
+Uma sociedade empresária tem uma dívida operacional com vencimento em 14 meses. Essa
+dívida é apresentada no balanço patrimonial como passivo circulante.
+ Assinale a opção que indica a circunstância que permite essa contabilização.
+ a) O passivo é com o acionista controlador.
+ b) O passivo decorre de uma dívida tributária.
+ c) O passivo é com uma empresa em recuperação judicial.
+ d) O passivo é com uma instituição financeira que tem o histórico de permitir a renegociação
+da dívida.
+ e) O passivo é com fornecedores e a empresa que adquiriu o estoque tem ciclo operacional
+de 15 meses.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   18. (FGV/CGE-SC/Auditor do Estado/2023)
+Uma sociedade empresária deu início a obras para expansão de seu escritório. Estima-se que
+a obra tenha dois anos de duração, com início em 02/01/X0 e término em 31/12/X1. Para
+a obra, foram adquiridos R$40.000 em material de construção. Assinale a opção que indica
+a contabilização do material de construção no balanço patrimonial da sociedade empresária.
+(A) R$40.000 em ativo circulante.
+(B) R$40.000 em ativo realizável a longo prazo.
+(C) R$40.000 em investimentos.
+(D) R$40.000 em ativo imobilizado.
+(E) R$20.000 em ativo circulante e R$20.000 em ativo realizável a longo prazo.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+                                DRE
+                     Demonstração do Resultado do
+                              Exercício
+                                                                  Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+   DRE
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+   DRE
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+   01. (FGV/CM-ARACAJU/2021)
+ Quando a Demonstração do Resultado do Exercício é apresentada iniciando-se com a Receita
+ Bruta do Período, para apurar a receita líquida são subtraídas as deduções.
+
+ Na apuração da receita líquida, todos os itens a seguir constituem deduções, EXCETO:
+ a) abatimentos;
+ b) descontos incondicionais;
+ c) despesas financeiras;
+ d) devolução de vendas;
+ e) impostos sobre as vendas.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   02. (FGV/PC-RN/2021)
+ Na apresentação da Demonstração de Resultado de Exercício (DRE), o Resultado Bruto é
+ apurado pela subtração entre:
+
+   a) receita bruta e custo das mercadorias vendidas;
+   b) receita bruta e deduções da receita;
+   c) receita bruta e despesas operacionais;
+   d) receita líquida e custo das mercadorias vendidas;
+   e) receita líquida e despesas operacionais.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   03. (FGV/IMBEL/2021)
+ Assinale a opção que indica a correta contabilização da conta “ICMS sobre o faturamento”
+ nas Demonstrações Contábeis de uma empresa.
+
+   a) Ativo Circulante no Balanço Patrimonial.
+
+   b) Passivo Circulante no Balanço Patrimonial.
+
+   c) Despesa operacional na Demonstração do Resultado do Exercício.
+
+   d) Despesa financeira na Demonstração do Resultado do Exercício.
+
+   e) Dedução da receita de vendas na Demonstração do Resultado do Exercício.
+
+Contabilidade
+Prof. Silvio Sande
+                                    https://t.me/KakashiAssinaturasBot
+   04. (FGV/SEFAZ-ES/2022)
+ Assinale a opção que indica apenas os tributos que incidem sobre as vendas e que são
+ contabilizados como dedução da Receita Bruta na Demonstração do Resultado do Exercício.
+  a) PIS e CSLL.
+  b) IPI e IR.
+  c) ICMS e ISS.
+  d) ISS e CSLL.
+  e) IR e ICMS.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   05 (FGV/TCE-AM/2021)
+ Na estrutura de apresentação da Demonstração do Resultado do Exercício (DRE) há uma série
+ de gastos que devem ser classificados como despesas operacionais.
+
+ Um exemplo de item classificável nesse grupo é:
+   a) custo dos serviços prestados;
+   b) devoluções e abatimentos;
+   c) mão de obra operacional;
+   d) pesquisa e publicidade;
+   e) variações monetárias e cambiais.
+ .
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   06. (FGV/FUNSAÚDE-CE/2021)
+ Na demonstração do resultado do exercício de uma entidade, as despesas operacionais
+ incluem despesas de vendas e despesas administrativas.
+   Assinale a opção que indica uma despesa administrativa.
+
+   a) Propaganda e publicidade.
+
+   b) Honorários da auditoria externa.
+
+   c) Perdas estimadas com crédito de liquidação duvidosa.
+
+   d) Com juros.
+
+   e) Com comissões.
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   07. (FGV/PC-AM/2022)
+ Uma entidade que presta serviços de consultoria incorreu em R$ 20.000 referentes a despesa
+ de juros sobre empréstimos bancários.
+  Assinale a opção que indica o reconhecimento contábil dessa despesa na Demonstração do
+ Resultado do Exercício.
+
+ a) Despesas Operacionais.
+ b) Outras Despesas Operacionais.
+ c) Despesas Financeiras.
+ d) Distribuição do lucro.
+ e) Dedução da receita.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   08. (FGV/SEFAZ-AM/2022)
+ Uma indústria vendeu uma de suas máquinas por R$50.000, com o intuito de adquirir
+ maquinário mais moderno.
+   Assinale a opção que indica a contabilização da receita com a venda na Demonstração do
+ Resultado do Exercício da indústria.
+  a) Receitas comerciais.
+  b) Receitas financeiras.
+  c) Receitas operacionais.
+  d) Outras receitas operacionais.
+  e) Receitas não operacionais.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   09. (FGV/SEFAZ-AM/2022)
+ Uma sociedade empresária, que presta serviços de consultoria, apresentou os seguintes saldos
+ em sua Demonstração do Resultado do Exercício, em 31/12/X0:
+  Receita de serviços: R$500.000;
+  Descontos concedidos: R$15.000;
+  Abatimentos: R$10.000;
+  Juros auferidos: R$50.000;
+  Prêmio de resgate de debêntures: R$16.000;
+  Receita com equivalência patrimonial: R$20.000;
+  Receita de títulos vinculados ao mercado aberto: R$21.000;
+  Custo dos Serviços Prestados: R$200.000;
+  Despesas gerais: R$80.000;
+  Comissões e despesas bancárias: R$8.000; e
+  Variações monetárias das obrigações: R$18.000.
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   Assinale a opção que indica o resultado financeiro da sociedade empresária, em 31/12/X0.
+
+     a) R$9.000.
+
+     b) R$32.000.
+
+     c) R$38.000.
+
+     d) R$46.000.
+
+     e) R$54.000.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   10. (FGV/MPE-GO/2022)
+ Uma padaria apresentou os seguintes saldos em 31/12/X0:
+ Receita de Vendas: R$100.000; Perdas estimadas com crédito de liquidação duvidosa:
+ R$3.000; vendas canceladas: R$10.000; custo das mercadorias vendidas: R$50.000; Receita
+ com a venda de veículo que era utilizado para entregas: R$40.000; custo do veículo vendido:
+ R$30.000; impostos incidentes sobre as vendas de produtos: R$15.000.
+ Assinale a opção que indica o lucro bruto da padaria em 31/12/X0, evidenciado em sua
+ Demonstração do Resultado do Exercício.
+  a) R$22.000.
+  b) R$25.000.
+  c) R$35.000.
+  d) R$40.000.
+  e) R$50.000.
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   11. (FGV/TCE-PI/2021)
+ Na apresentação da Demonstração de Resultados do Exercício, o resultado financeiro:
+
+   a) compõe o custo das vendas ou dos serviços prestados;
+
+   b) compõe o resultado antes do IR/CSLL;
+
+   c) constitui uma dedução das receitas de vendas;
+
+   d) é apresentado logo após o resultado bruto;
+
+   e) integra o cálculo do resultado operacional.
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+   12. (FGV/FUNSAÚDE-CE/2021)
+ Assinale a opção que indica a contabilização na Demonstração do Resultado do Exercício que
+ foi instituída a partir das alterações da Lei nº 6.404/1976.
+
+ a) Contabilização das perdas estimadas com crédito de liquidação duvidosa como “Dedução
+ da Receita Bruta”.
+ b) Contabilização da despesa de depreciação como “Despesas Operacionais”.
+ c) Contabilização da venda do ativo imobilizado como “Outras receitas operacionais”.
+ d) Contabilização da receita de aluguel como “Receitas Financeiras”.
+ e) Contabilização da distribuição dos dividendos como “Despesas não Operacionais”.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+   13. (FGV/ATM-RECIFE-2014)
+ De acordo com a Lei nº 6.404/76, a Demonstração do Resultado do Exercício deve discriminar as
+ informações listadas a seguir, à exceção de uma. Assinale-a.
+  a) Participações de debêntures, empregados, administradores e partes beneficiárias.
+  b) Lucro ou prejuízo líquido do exercício e seu montante por ação do capital social.
+  c) Receita bruta das vendas e serviços, deduções das vendas, abatimentos e impostos.
+  d) Receita líquida das vendas e serviços, custo das mercadorias e serviços vendidos e lucro bruto.
+  e) Dividendo mínimo obrigatório e adicional proposto.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   14. (FGV/PAULÍNIA/2016)
+ Assinale a opção que indica a correta contabilização na Demonstração do Resultado do Exercício, de
+ acordo com a Lei n.º 11.638/07.
+
+  a) As compras de ativo imobilizado são contabilizadas como Outras Despesas Operacionais.
+
+  b) As vendas de ativo imobilizado são contabilizadas como Receitas não Operacionais.
+
+ c) O resultado negativo com equivalência patrimonial é contabilizado como Outras Receitas
+ Operacionais.
+
+  d) Os abatimentos concedidos devem ser reconhecidos como Despesa Financeira.
+
+ e) Os salários dos funcionários que trabalham na parte administrativa são contabilizados como
+ Despesa Operacional.
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   15. (FGV/COMPESA/2018)
+ Assinale a opção que indica o que é evidenciado pela Demonstração do Resultado do Exercício.
+
+   a) A riqueza gerada pela entidade e pertencente ao acionista.
+
+   b) A riqueza gerada pela entidade e pertencente à sociedade.
+
+   c) As aplicações e as origens dos recursos da entidade.
+
+   d) A movimentação ocorrida nas contas pertencentes aos sócios da entidade.
+
+   e) A parte dos recursos financeiros gerada internamente pela entidade.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                      https://t.me/KakashiAssinaturasBot
+   16. (FGV/SEFIN-RO/2018)
+ A Cia. X vende roupas. A sociedade empresária não é contribuinte do IPI, mas é contribuinte dos
+ impostos estaduais e municipais.
+ Em 31/12/2017, ela apresentava os seguintes saldos:
+ • vendas brutas de vendas: R$ 200.000;
+ • comissão de vendas: R$ 20.000;
+ • devolução de vendas: R$ 10.000;
+ • custo das mercadorias vendidas: R$ 120.000;
+ • devolução de compras: R$ 15.000;
+ • ajuste a valor presente de contas a pagar: R$ 5.000;
+ • ajuste a valor presente de clientes: R$ 12.000;
+ • ICMS sobre vendas: R$ 40.000;
+ • IPI nas compras: R$ 30.000;
+ • despesas com salários: R$ 35.000;
+ • perdas estimadas para créditos de liquidação duvidosa: R$ 10.000;
+ • perdas com a redução do valor dos estoques: R$ 4.000.
+Contabilidade
+Prof. Silvio Sande
+                                    https://t.me/KakashiAssinaturasBot
+ Com base nos dados acima, assinale a opção que indica o valor da Receita Líquida de Vendas da Cia.
+ X, em 31/12/2017.
+
+
+  a) R$ 18.000.
+
+
+  b) R$ 70.000.
+
+
+  c) R$ 118.000.
+
+
+  d) R$ 138.000.
+
+
+  e) R$ 150.000.
+
+
+Contabilidade
+Prof. Silvio Sande
+                                     https://t.me/KakashiAssinaturasBot
+   17. (FGV/TCM-SP/2015)
+ Uma empresa industrial realizou vendas no período de 1.000 itens do seu estoque, por R$180,00
+ cada um, para pagamento em 30 dias. Ao cliente foi concedido um desconto de 1,5%, na nota
+ fiscal e o frete, no valor de R$2.250,00, é de responsabilidade da empresa.
+
+ Dados adicionais:
+ - o cliente terá um desconto de R$1.800,00 no pagamento dentro do prazo;
+ - o custo de cada produto vendido é de R$90,00;
+ - no mesmo período foram registrados: salários dos vendedores no valor de R$4.200,00, outras
+ despesas no valor de R$1.350,00;
+ - ICMS no valor de R$34.200;
+ - IPI no valor R$9.000,00;
+ - PIS no valor de R$1.170,00;
+ - COFINS no valor de R$5.400,00.
+
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+ Com base nas informações anteriores e nos dados acima, é possível determinar que a receita líquida é:
+  a) R$46.530;
+  b) R$129.680;
+  c) R$136.530;
+  d) R$138.680;
+  e) R$139.230.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                      https://t.me/KakashiAssinaturasBot
+   18. (FGV/FUNSAÚDE-CE/2021)
+ Uma sociedade empresária apresentou os seguintes saldos em relação ao exercício de X0:
+ · Receita de Vendas: R$ 500.000;
+ · Despesa com Perdas estimadas com crédito de liquidação duvidosa: R$ 10.000;
+ · Receita Financeira: R$ 40.000;
+ · Receita com a Venda de Ativo Imobilizado: R$ 70.000;
+ · Custo das Mercadorias Vendidas: R$ 200.000;
+ · Custo do Ativo Imobilizado vendido: R$ 85.000;
+ · Despesa de Salários: R$ 140.000;
+ · Despesa de aluguel: R$ 120.000;
+ · Despesa com Imposto de Renda e Contribuição Social: R$18.700.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+ Em relação à Demonstração do Resultado do Exercício da sociedade empresária, em
+ 31/12/X0, assinale a afirmativa correta.
+
+   a) A receita líquida de vendas é de R$ 490.000.
+
+   b) O lucro bruto é de R$ 290.000.
+
+   c) A receita antes do resultado financeiro é de R$ 100.000.
+
+   d) O lucro antes do imposto sobre a renda é de R$ 55.000.
+
+   e) O lucro líquido é de R$ 51.300.
+
+Contabilidade
+Prof. Silvio Sande
+                                   https://t.me/KakashiAssinaturasBot
+   19.(FGV/ALERO/2018)
+ Uma entidade apresentava os seguintes saldos, em 31/12/2017:
+
+ Receita de vendas (a prazo): R$ 100.000;
+ Custo das mercadorias vendidas: R$ 40.000;
+ Receita com a venda de ativo imobilizado (à vista): R$ 50.000;
+ Baixa de ativo imobilizado: R$ 30.000;
+ Perdas estimadas com crédito de liquidação duvidosa: R$ 5.000;
+ Despesas gerais: R$ 15.000.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+ Assinale a opção que indica o valor do lucro antes do imposto sobre a renda (LAIR), em 31/12/2017,
+ com base nas informações acima e considerando a alíquota do ICMS de 18%.
+  a) R$ 33.000.
+  b) R$ 42.000.
+  c) R$ 42.900.
+  d) R$ 49.200.
+  e) R$ 60.000.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                    https://t.me/KakashiAssinaturasBot
+   DRE no CPC 26
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+   Apresentação das Despesas
+A entidade deve apresentar uma análise das despesas utilizando uma classificação
+baseada na sua natureza, se permitida legalmente, ou na sua função dentro da
+entidade, devendo eleger o critério que proporcionar informação confiável e mais
+relevante, obedecidas as determinações legais.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+   Classificação de acordo com a natureza
+No método da natureza da despesa, as despesas são agregadas na demonstração do
+resultado de acordo com a sua natureza (por exemplo, depreciações, compras de
+materiais, despesas   com transporte, benefícios aos empregados e despesas de
+publicidade), não sendo realocados entre as várias funções dentro da entidade.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                            https://t.me/KakashiAssinaturasBot
+   Classificação de acordo com a função
+O método da função da despesa ou do “custo dos produtos eserviços vendidos”,
+classificando-se as despesas de acordo com a sua função como parte do custo dos
+produtos ou serviços vendidos ou, por exemplo, das despesas de distribuição ou das
+atividades administrativas. No mínimo, a entidade deve divulgar o custo dos produtos e
+serviços vendidos segundo esse método separadamente das outras despesas. Esse
+método pode proporcionar informação mais relevante aos usuários do que a
+classificação de gastos por natureza, mas a alocação de despesas às funções pode
+exigir alocações arbitrárias e envolver considerável julgamento.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+   Preferência pela natureza das despesas.
+As entidades que classificarem os gastos por função devem divulgar informação
+adicional sobre a natureza das despesas, incluindo as despesas de depreciação e
+de amortização e as despesas com benefícios aos empregados.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+Apresentação separada
+
+ 97. Quando os itens de receitas e despesas são materiais, sua natureza e montantes devem ser
+ divulgados separadamente.
+
+ 98. As circunstâncias que dão origem à divulgação separada de itens de receitas e despesasincluem:
+       (a) reduções nos estoques ao seu valor realizável líquido ou no ativo imobilizado ao seuvalor
+           recuperável, bem como as reversões de tais reduções;
+       (b) reestruturações das atividades da entidade e reversões de quaisquer provisões paragastos
+           de reestruturação;
+       (c) baixas de itens do ativo imobilizado;
+       (d) baixas de investimento;
+       (e) unidades operacionais descontinuadas;
+       (f) solução de litígios; e
+       (g) outras reversões de provisões.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                      https://t.me/KakashiAssinaturasBot
+   Itens extraordinários
+A entidade não deve apresentar rubricas ou itens de receitas ou despesas como itens
+extraordinários, quer na demonstração do resultado abrangente, quer na demonstração
+do resultado do período, quer nas notas explicativas.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+20. (FGV/CODEBA/2016)
+ De acordo com o Pronunciamento Contábil CPC 26 (R1)- Apresentação das Demonstrações
+ Contábeis, as despesas de uma entidade devem ser subclassificadas a fim de destacar
+ componentes do desempenho que podem diferir em termos de frequência, potencial de
+ ganho ou de perda e previsibilidade.
+
+ Em relação à classificação das despesas, assinale a afirmativa correta.
+  a) Existem três formas de análise, o método da natureza da despesa, o método da função
+ da despesa e o método do setor da despesa.
+  b) Custos dos produtos vendidos, despesa com empregados e despesa com depreciação são
+ exemplos de despesas classificadas pelo método da natureza da despesa.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+   c) Despesas de vendas, despesas administrativas e despesas financeiras são
+ exemplos de despesas classificadas pelo método do setor da despesa.
+  d) As entidades que classificam seus gastos por função devem divulgar informação
+ adicional sobre a natureza das despesas, que é útil ao prever os futuros fluxos de
+ caixa.
+  e) O Comitê dos Pronunciamentos Contábeis recomenda fortemente que a entidade
+ utilize o método do setor da despesa.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+   21. (FGV/ALBA/2014)
+ Determinada empresas opta por elaborar sua Demonstração do Resultado do Exercício por
+ função.
+
+ Assinale a opção que apresenta apenas contas classificadas de acordo com a função.
+
+ a) Despesas de vendas e despesas de depreciação.
+ b) Despesa de salários e custo dos produtos vendidos.
+ c) Imposto de renda e contribuição social e materiais consumidos.
+ d) Despesas de propaganda e despesas de depreciação.
+ e) Custo dos serviços prestados e despesas comerciais.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+22. (FGV/MPE-SC/2022)
+ Ao se debruçar sobre o processo de elaboração das demonstrações contábeis, um contador
+ se deparou com questões relativas ao reconhecimento de elementos e também na forma de
+ apresentação de alguns itens. O contador analisou as disposições da Estrutura Conceitual
+ para Relatório Financeiro e as orientações constantes no Pronunciamento CPC 26 (R1), que
+ trata da apresentação das demonstrações contábeis. Após análise, o contador propôs as
+ assertivas a seguir.
+
+ I. Atender à definição de um dos elementos das demonstrações contábeis é o suficiente para
+ que um item seja reconhecido nas demonstrações contábeis.
+
+ II. Um direito pode atender à definição de recurso econômico e, portanto, pode ser um ativo,
+ mesmo se a probabilidade de que ele produza benefícios econômicos for baixa.
+
+Contabilidade
+Prof. Silvio Sande
+                                  https://t.me/KakashiAssinaturasBot
+ III. Na análise das despesas na Demonstração do Resultado do Exercício, o método da
+ natureza da despesa pode proporcionar informação mais relevante aos usuários do que o
+ método da função da despesa, uma vez que esta classificação pode exigir alocações
+ arbitrárias.
+
+ IV. O resultado abrangente do período deve ser apresentado tanto na Demonstração das
+ Mutações do Patrimônio Líquido (DMPL), quanto na Demonstração do Resultado Abrangente
+ (DRA), dessa forma, as empresas podem apresentar a DRA somente dentro da DMPL.
+ Está correto somente o proposto em:
+  a) II;
+  b) IV;
+  c) I e II;
+  d) II e III;
+  e) I, III e IV.
+
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+23. (FGV/TRT13/2022)
+ De acordo com a NBC TG 26 (R5)– Apresentação das Demonstrações Contábeis, quando os
+ itens de receita e despesa são materiais, sua natureza e montantes devem ser divulgados
+ separadamente.
+   Entre as circunstâncias que dão origem à divulgação separada de itens de receitas e
+ despesas estão as seguintes, à exceção de uma. Assinale-a.
+  a) Solução de litígios.
+  b) Unidades operacionais descontinuadas.
+  c) Depreciação de ativos imobilizados e amortização de ativos intangíveis.
+  d) Reduções nos estoques ao seu valor realizável líquido, assim como as suas reversões.
+   e) Reestruturações das atividades da entidade e reversões de quaisquer provisões para
+ gastos de reestruturação.
+
+
+Contabilidade
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+24. (FGV/MPE-GO/2022)
+ De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações
+ Contábeis, as circunstâncias que dão origem à divulgação separada de itens de receitas e
+ despesas incluem as seguintes, à exceção de uma. Assinale-a.
+  a) Baixas de investimento.
+  b) Baixas de itens do ativo imobilizado.
+  c) Reestruturações das atividades da entidade e reversões de quaisquer provisões para
+ gastos de reestruturação.
+  d) Reduções nos estoques ao seu valor realizável líquido e reversões de tais reduções.
+  e) Contraprestações pagas a prestadores de serviços.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                          Prof. Silvio Sande
+
+
+
+     https://t.me/KakashiAssinaturasBot
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+
+
+          https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

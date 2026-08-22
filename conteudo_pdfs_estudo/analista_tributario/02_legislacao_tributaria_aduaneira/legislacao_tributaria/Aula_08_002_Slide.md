@@ -1,0 +1,342 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 08_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: 16/10/2020
+---
+
+# 16/10/2020
+
+16/10/2020
+
+                                  IRPJ
+                              RESPONSÁVEIS
+
+36
+
+ IRPJ – Responsáveis
+
+      ❑ Conceitos Básicos sobre Responsáveis:
+
+      ❑ Integram o polo passivo da obrigação tributária por expressa disposição legal.
+
+      ❑ Não possuem relação pessoal e direta com o fato gerador, mas possuem algum
+        vínculo com o fato gerador.
+
+      ❑ O RIR previu a responsabilidade dos sucessores e de terceiros.
+
+ Legislação Tributária
+                                                                                         @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+37
+
+                                                                         1
+
+
+---
+
+                                                                                                16/10/2020
+
+ IRPJ – Responsáveis
+     ❑ A responsabilidade dos sucessores ocorre nas seguintes situações:
+
+            ❑ Reorganizações Societárias;
+
+            ❑ Extinção da Pessoa Jurídica;
+
+            ❑ Aquisição de Fundo de Comércio ou Estabelecimento.
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+38
+
+ IRPJ – Responsáveis
+                                 Reorganizações Societárias
+
+     ❑ Respondem pelo imposto devido pelas pessoas jurídicas transformadas, extintas
+       ou cindidas :
+
+     I - a pessoa jurídica resultante da transformação de outra;
+
+     II - a pessoa jurídica constituída pela fusão de outras, ou em decorrência de cisão de
+     sociedade;
+
+     III - a pessoa jurídica que incorporar outra ou parcela do patrimônio de sociedade
+     cindida;
+
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+39
+
+                                                                       2
+
+
+---
+
+                                                                                          16/10/2020
+
+ QUESTÃO INÉDITA
+        É responsável pelo IRPJ a pessoa jurídica resultante da transformação de
+        outra, relativamente aos fatos geradores surgidos após a transformação.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+
+
+40
+
+ IRPJ – Responsáveis
+                                    Reorganizações Societárias
+
+
+     ❑ Situação 01 (Cisão Total): Alfa e Beta absorvem de Gama todo o seu patrimônio,
+       extinguindo-se esta por meio de cisão total. Alfa e Beta são, portanto,
+       solidariamente responsáveis pelo IRPJ devido até então.
+
+     ❑ Situação 02 (Cisão Parcial): Alfa e Beta absorvem, cada uma, 40% do patrimônio
+       de Gama, por meio de cisão parcial. Alfa, Beta e Gama são, por conseguinte,
+       solidariamente responsáveis pelo IRPJ devido até então.
+
+ Legislação Tributária
+                                                                                 @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+41
+
+                                                                 3
+
+
+---
+
+                                                                                             16/10/2020
+
+ IRPJ – Responsáveis
+                               Extinção da Pessoa Jurídica
+
+     ❑ Respondem pelo imposto devido pelas pessoas jurídicas transformadas, extintas
+       ou cindidas :
+
+     IV - a pessoa física sócia da pessoa jurídica extinta mediante liquidação, ou seu
+     espólio, que continuar a exploração da atividade social, sob a mesma ou outra razão
+     social, ou sob firma individual;
+
+     V - os sócios, com poderes de administração, da pessoa jurídica que deixar de
+     funcionar sem proceder à liquidação, ou sem apresentar a declaração de rendimentos
+     no encerramento da liquidação.
+
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+42
+
+ IRPJ – Responsáveis
+                               Extinção da Pessoa Jurídica
+
+           Súmula STJ 435 - Presume-se dissolvida irregularmente a empresa que deixar de
+           funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes,
+           legitimando o redirecionamento da execução fiscal para o sócio-gerente.
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+43
+
+                                                                    4
+
+
+---
+
+                                                                                                   16/10/2020
+
+ IRPJ – Responsáveis
+                    Aquisição de Fundo de Comércio ou Estabelecimento
+
+     ❑ A pessoa física ou jurídica que adquirir de outra, por qualquer título, fundo de
+       comércio ou estabelecimento comercial, industrial ou profissional, e continuar a
+       respectiva exploração, sob a mesma ou outra razão social ou sob firma ou nome
+       individual, responde pelo imposto, relativo ao fundo ou estabelecimento adquirido,
+       devido até a data do ato:
+
+              ❑I - integralmente, se o alienante cessar a exploração do comércio, indústria ou
+               atividade;
+
+              ❑II - subsidiariamente com o alienante, se este prosseguir na exploração ou iniciar
+               dentro de seis meses, a contar da data da alienação, nova atividade no mesmo ou
+               em outro ramo de comércio, indústria ou profissão.
+ Legislação Tributária
+                                                                                          @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+44
+
+ IRPJ – Responsáveis
+                    Aquisição de Fundo de Comércio ou Estabelecimento
+
+     ❑ Não ocorre responsabilidade do adquirente em se tratando de alienação judicial:
+
+           ❑ em processo de falência;
+
+           ❑ de filial ou unidade produtiva isolada, em processo de recuperação judicial.
+
+ Legislação Tributária
+                                                                                          @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+45
+
+                                                                          5
+
+
+---
+
+                                                                                              16/10/2020
+
+ IRPJ – Responsáveis
+                    Aquisição de Fundo de Comércio ou Estabelecimento
+
+     ❑ Esta exceção não se aplica se o adquirente for:
+
+           ❑ sócio da sociedade falida ou em recuperação judicial, ou sociedade controlada
+             pelo devedor falido ou em recuperação judicial;
+
+           ❑ parente, em linha reta ou colateral até o 4o grau, consanguíneo ou afim, do
+             devedor falido ou em recuperação judicial ou de qualquer de seus sócios; ou
+
+           ❑ identificado como agente do falido ou do devedor em recuperação judicial com o
+             objetivo de fraudar a sucessão tributária.
+
+
+ Legislação Tributária
+                                                                                     @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+46
+
+ IRPJ – Responsáveis
+
+     ❑ Nos casos de impossibilidade de exigência do cumprimento da obrigação principal
+       pelo contribuinte, respondem solidariamente com este nos atos em que intervierem
+       ou pelas omissões de que forem responsáveis:
+
+     ❑ I - os administradores de bens de terceiros, pelo imposto devido por estes;
+
+     ❑ II - o síndico e o comissário, pelo imposto devido pela massa falida ou pelo
+       concordatário;
+
+ Legislação Tributária
+                                                                                     @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+47
+
+                                                                     6
+
+
+---
+
+                                                                                                16/10/2020
+
+ IRPJ – Responsáveis
+
+     ❑ Nos casos de impossibilidade de exigência do cumprimento da obrigação principal
+       pelo contribuinte, respondem solidariamente com este nos atos em que intervierem
+       ou pelas omissões de que forem responsáveis:
+
+     ❑ III - os tabeliães, escrivães e demais serventuários de ofício, pelo imposto devido
+       sobre os atos praticados por eles, ou perante eles, em razão do seu ofício;
+
+     ❑ IV - os sócios, no caso de liquidação de sociedade de pessoas.
+
+     ❑ O disposto neste artigo só se aplica, em matéria de penalidades, às de caráter
+       moratório.
+     ❑ A extinção de uma firma ou sociedade de pessoas não exime o titular ou os sócios da
+       responsabilidade solidária do débito fiscal.
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+48
+
+ IRPJ – Responsáveis
+     ❑ São pessoalmente responsáveis pelos créditos correspondentes a obrigações
+        tributárias resultantes de atos praticados com excesso de poderes ou infração de lei,
+        contrato social ou estatutos:
+      I - os administradores de bens de terceiros, pelo imposto devido por estes;
+      II - o síndico e o comissário, pelo imposto devido pela massa falida ou pelo
+      concordatário;
+      III - os tabeliães, escrivães e demais serventuários de ofício, pelo imposto devido sobre
+      os atos praticados por eles, ou perante eles, em razão do seu ofício;
+      IV - os sócios, no caso de liquidação de sociedade de pessoas;
+      V - os mandatários, prepostos e empregados;
+      VI - os diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+49
+
+                                                                       7
+
+
+---
+
+                                                                                        16/10/2020
+
+ QUESTÃO INÉDITA
+        Os sócios-quotistas são pessoalmente responsáveis pelos créditos tributários
+        resultantes dos atos praticados com excesso de poderes pelos diretores da
+        pessoa jurídica.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                      @ProfFabioDutra
+
+
+50
+
+ QUESTÃO INÉDITA
+        A responsabilidade dos sócios, no caso de liquidação de sociedades de
+        pessoas, no que se refere aos atos praticados com excesso de poder, é
+        subsidiária.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                      @ProfFabioDutra
+
+
+51
+
+                                                               8
+
+
+---

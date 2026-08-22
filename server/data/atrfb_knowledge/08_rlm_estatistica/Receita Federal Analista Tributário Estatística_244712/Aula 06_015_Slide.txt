@@ -1,0 +1,389 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/canaljhonizini
+
+
+Jhoni Zini
+
+
+
+
+              https://t.me/KakashiAssinaturasBot
+PERMUTAÇÕES
+
+
+
+
+              https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+
+Na permutação circular, considera-se que os elementos estão dispostos em
+um círculo.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+A B C D
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+
+ A B C
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+ A B C D
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+
+
+                          = ( − )!
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR
+O número máximo de maneiras distintas que um grupo de 8 amigos pode
+se sentar ao redor de uma mesa circular para realizar um lanche coletivo é:
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR COM RESTRIÇÕES
+Sempre que começarmos fixando alguns elementos, a permutação dos
+demais será simples e não circular.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR COM RESTRIÇÕES
+Uma família, composta por 5 pessoas, irá se sentar ao redor de uma mesa
+circular de forma que a posição do pai e da mãe já foram previamente
+determinadas e não poderão ser alteradas.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CIRCULAR COM RESTRIÇÕES
+suponha que haja 4 meninos (O) e 4 meninas (A) para se sentarem à
+mesa, de forma que todo menino esteja entre duas meninas.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+PERMUTAÇÕES
+
+
+
+
+              https://t.me/KakashiAssinaturasBot
+2019 – PREFEITURA DE IBIAÇÁ/RS
+O número máximo de maneiras distintas que um grupo de cinco amigos
+pode se sentar ao redor de uma mesa circular para realizar um lanche
+coletivo é:
+a) 120
+b) 50
+c) 24
+d) 12
+e) 1
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+2016 – PREFEITURA DE OURICURI/PE)
+De quantas maneiras possíveis podemos dispor nove crianças em um
+círculo em que todas brincam de mãos dadas?
+a) 9!
+b) 8!
+c) 7!
+d) 6!
+e) 5!
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+2017 – CIA DE DESENVOLVIMENTO HABITACIONAL/DF
+Bruno, Carlos, Davi, Eduardo e Flávio são amigos e jantam em uma
+churrascaria. Na mesa circular em que se encontram, há 5 cadeiras idênticas,
+equidistantes duas a duas, e 5 espaços entre cada par de cadeiras para os
+garçons servirem carnes: acém; costela; fraldinha; linguiça; e maminha.
+A figura acima ilustra uma possível configuração da mesa, com os 5 amigos e
+as 5 carnes do rodízio. Com base nessa situação hipotética, julgue o item a
+seguir.
+O número possível de configurações da mesa, contando que os 5 amigos
+estejam sentados e as 5 carnes estejam entre cada par de cadeiras, é maior
+que 3.000.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+2017 – CIA DE DESENVOLVIMENTO HABITACIONAL/DF
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+OUTROS TIPOS DE PERMUTAÇÃO
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO COM ELEMENTOS ORDENADOS
+De maneira geral, havendo elementos, dos quais elementos devem respeitar
+uma ordem específica, o número de possibilidades de ordená-los é:
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO COM ELEMENTOS ORDENADOS
+
+Permutações da palavra AMOR com as vogais em ordem alfabética.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO COM ELEMENTOS ORDENADOS
+
+Permutações da palavra EXPLODIR com as vogais em ordem alfabética.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+FCC/2014 – TRF 3ª REGIÃO)
+Álvaro, Benedito, Cléber e outros dois amigos participam de uma corrida. Se
+apenas os cinco participaram dessa corrida, o número de possibilidades
+diferentes de maneira que Álvaro chegue antes que Benedito e este, por sua vez,
+chegue antes de Cléber é igual a:
+a) 20
+b) 24
+c) 18
+d) 22
+e) 26
+
+
+
+
+                               https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+OUTROS TIPOS DE PERMUTAÇÃO
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CAÓTICA OU DESARRANJO
+Na permutação caótica ou desarranjo, considera-se que os elementos estão
+originalmente ordenados de certa maneira e que nenhum deles pode retornar
+para a sua posição original.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CAÓTICA OU DESARRANJO
+
+ A B C
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CAÓTICA OU DESARRANJO
+
+ A B C D
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO CAÓTICA OU DESARRANJO
+
+ A B C D E
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+CESPE/2014 – TER-GO – ADAPTADA)
+
+As prestações de contas das campanhas dos 3 candidatos a governador de
+determinado estado foram analisadas por 3 servidores do TRE desse estado.
+Considerando que um servidor deve analisar exatamente uma prestação de
+contas e que, por coincidência, cada um dos 3 candidatos é parente de um dos 3
+servidores, julgue o item que se segue.
+
+A quantidade de maneiras distintas de se distribuírem as prestações de contas
+entre os 3 servidores de modo que nenhum deles analise as contas de um
+parente é inferior a 5.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+FCC/2019 – PREFEITURA DE RECIFE/PE)
+Os quatro funcionários de uma repartição trabalham cada um em uma mesa,
+todos na mesma sala. O chefe da repartição determinou que os funcionários
+trocassem de mesa entre si. Os funcionários podem ser realocados na sala de
+modo que nenhum funcionário passe a ocupar a mesa que ocupava antes da
+realocação.
+a) de 4 maneiras diferentes.
+b) de 24 maneiras diferentes.
+c) de 9 maneiras diferentes.
+d) de 6 maneiras diferentes.
+e) de 12 maneiras diferentes.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ARRANJO E COMBINAÇÃO
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+O arranjo de um conjunto finito de elementos é um subconjunto desses
+elementos, de tal maneira que a sua ordenação seja relevante.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+Em uma empresa com 20 funcionários o proprietário deve escolher 2 para
+formarem a comissão dos direitos dos funcionários. O primeiro será o diretor
+e o segundo o assistente. Quantos modos diferentes possui o proprietário de
+fazer essa escolha?
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+Em uma corrida com 10 participantes, quantos modos temos de escolhermos
+3 participantes para serem o primeiro, segundo e terceiro colocados?
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+
+n=8   k=2
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+
+n = 10   k=3
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+
+n=9   k=4
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+ARRANJO SIMPLES
+
+n=5   k=2
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+CESPE 2019/COGE-CE
+Em determinado órgão, sete servidores foram designados para implantar
+novo programa de atendimento ao público. Um desses servidores será o
+coordenador do programa, outro será o subcoordenador, e os demais
+serão agentes operacionais. Nessa situação, a quantidade de maneiras
+distintas de distribuir esses sete servidores nessas funções é igual a:
+a) 21.
+b) 42.
+c) 256.
+d) 862.
+e) 5.040.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+

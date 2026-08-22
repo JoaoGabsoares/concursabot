@@ -1,0 +1,337 @@
+                             ASPECTOS INTRODUTÓRIOS
+Pessoal, o CPC 31 não é de difícil entendimento e pode garantir pontuação na sua prova! A seguir elaboramos
+uma aula objetiva e focada nos principais pontos do Pronunciamento. Avante!
+
+Breve Contextualização
+Quando ainda não havia o CPC 31, existiam algumas distorções quando uma empresa possuía diversas linhas
+de operação e decidia vender uma parte. Assim, imagine uma grande empresa com várias fábricas (linhas de
+operação) espalhadas pelo país. Considerando um reposicionamento estratégico essa empresa decide
+encerrar as operações em uma determinada região, vendendo toda a operação instalada nessa região.
+Nesses casos, essa decisão não gerava nenhum reflexo contábil. Nesse sentido, os usuários da informação
+contábil (credores, clientes, acionistas, entre outros) ficavam sabendo do fato após a operação de venda ter
+sido concluída, momento em que os registros contábeis decorrentes eram realizados.
+Obviamente que essa decisão de encerrar uma operação acaba impactando esses usuários e, portanto,
+quando ocorre esse tipo de decisão há que se ter o devido reflexo contábil.
+Para suprir essa lacuna na contabilização desse tipo de situação (dentre outras semelhantes), foi editada
+uma norma internacional de Contabilidade (IFRS 5) a qual em nosso país foi recepcionada por meio do CPC
+31.
+
+Objetivo
+O objetivo do CPC 31 é estabelecer a contabilização de ativos não circulantes mantidos para venda
+(colocados à venda) e a apresentação e a divulgação de operações descontinuadas.
+Em particular, o Pronunciamento exige que os ativos que satisfazem aos critérios de classificação como
+mantidos para venda:
+   ▪   sejam mensurados pelo menor entre o valor contábil até então registrado e o valor justo menos as
+       despesas de venda;
+   ▪   tenham a sua depreciação/amortização cessada;
+   ▪   sejam apresentados separadamente no balanço patrimonial; e
+   ▪   que os resultados das operações descontinuadas sejam apresentados separadamente na
+       demonstração do resultado.
+Muito importante esse tópico do CPC 31... saber esse objetivo é básico e somente com ele você terá
+condições de raciocinar analiticamente e chegar na resposta da questão.
+Lembre-se que mais importante do que sair memorizando tudo o que aparece é entender o “espírito da
+norma”. E é justamente o que buscamos nessas primeiras linhas escritas da nossa aula.
+Definições
+A seguir vamos estudar as principais definições que precisamos saber relativas ao CPC 31:
+
+▪ Ativo Circulante é o ativo que satisfaz a qualquer um dos seguintes critérios:
+a) espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no curso normal do ciclo
+operacional da entidade;
+b) é mantido essencialmente com o propósito de ser negociado;
+c) espera-se que seja realizado no período de até doze meses após a data do balanço; ou
+d) é caixa ou equivalente de caixa, a menos que sua troca ou seu uso tenha limitações para a liquidação
+de passivo durante, pelo menos, doze meses após a data do balanço.
+▪ Ativo Não Circulante é um ativo que não satisfaz à definição de ativo circulante.
+▪ Provável é o que tem mais chance de ocorrer do que de não ocorrer.
+▪ Altamente provável significa mais provável que simplesmente provável. [sério? ☺]
+▪ Operação descontinuada é o componente da entidade que tenha sido alienado ou esteja classificado
+como mantido para venda e:
+a) representa uma importante linha separada de negócios ou área geográfica de operações;
+b) é parte integrante de um único plano coordenado para vender uma importante linha separada de
+negócios ou área geográfica de operações; ou
+c) é uma controlada adquirida exclusivamente com o objetivo de revenda
+
+
+Alcance
+Segundo o CPC 31, os requisitos:
+a) de classificação e de apresentação do CPC 31 aplicam-se a todos os ativos não circulantes reconhecidos e
+a todos os grupos de ativos mantidos para venda da entidade; e
+b) de mensuração do CPC 31 aplicam-se a todos os ativos não circulantes reconhecidos e aos grupos de ativos
+mantidos para venda, exceto:
+   ▪   imposto de renda diferido ativo (CPC 32 – Tributos sobre o Lucro);
+   ▪   ativos provenientes de benefícios a empregados (CPC 33 – Benefícios a Empregados);
+   ▪   ativos financeiros no alcance do CPC 48 – Instrumentos Financeiros;
+   ▪   ativos não circulantes contabilizados pelo valor justo (CPC 28 – Propriedade p/ Investimento);
+   ▪   ativos não circulantes que sejam mensurados pelo valor justo menos as despesas estimadas no ponto
+       de venda (CPC 29 – Ativo Biológico e Produto Agrícola);
+   ▪   direitos contratuais de acordo com contratos de seguro (CPC 11 – Contratos de Seguro).
+Observe que as exceções são ativos não circulantes abrangidos por pronunciamentos específicos.
+A norma destaca que os ativos classificados como não circulantes não devem ser reclassificados para ativos
+circulantes enquanto não satisfizerem aos critérios de classificação como mantidos para venda de acordo
+com o CPC 31.
+Destaca-se, ainda, que a classificação, a apresentação e a mensuração requeridas no CPC 31 aplicáveis a ativo
+não circulante (ou grupo de ativos) classificado como mantido para venda também se aplicam a ativo não
+circulante (ou grupo de ativos) que seja classificado como destinado a ser distribuído aos sócios na sua
+condição de proprietários (mantido para distribuição aos proprietários).
+
+Classificação de ativo não circulante como mantido para
+venda
+Nos termos do CPC 31, a entidade deve classificar um ativo não circulante como mantido para venda se o
+seu valor contábil vai ser recuperado, principalmente, por meio de transação de venda em vez do uso
+contínuo.
+Nesse caso, o ativo mesmo sendo originalmente não circulante deve ser classificado no ativo circulante! É
+isso mesmo... os ativos não circulantes mantidos para a venda são classificados no ativo circulante de
+forma separada no balanço patrimonial.
+Para que esse seja o caso, o ativo ou o grupo de ativos mantido para venda deve estar disponível para venda
+imediata em suas condições atuais, sujeito apenas aos termos que sejam habituais e costumeiros para venda
+de tais ativos mantidos para venda.
+Com isso, a sua venda deve ser altamente provável.
+O CPC 31 estabelece alguns requisitos para que a venda possa ser considerada altamente provável:
+   ▪   o nível hierárquico de gestão apropriado deve estar comprometido com o plano de venda do ativo;
+   ▪   deve ter sido iniciado um programa firme para localizar um comprador e concluir o plano;
+   ▪   o ativo mantido para venda deve ser efetivamente colocado à venda por preço que seja razoável em
+       relação ao seu valor justo corrente;
+   ▪   deve-se esperar que a venda se qualifique como concluída em até um ano a partir da data da
+       classificação (regra*);
+   ▪   as ações necessárias para concluir o plano devem indicar que é improvável que possa haver
+       alterações significativas no plano ou que o plano possa ser abandonado.
+* Exceção a essa regra: se o atraso for causado por acontecimentos ou circunstâncias fora do controle da
+entidade e se houver evidência suficiente de que a entidade continua comprometida com o seu plano de
+venda do ativo. Esses acontecimentos ou circunstâncias podem estender o período de conclusão da venda
+para além de um ano.
+Interessante ter noção de que essas vendas são, em regra, altamente complexas (geralmente envolvem altas
+cifras). Assim, a empresa precisa ter um plano montado para a operação de venda e operacionalizar “ações
+necessárias para concluir o plano”. Assim, por exemplo, se a empresa decidir vender um galpão logístico em
+determinada região, uma das ações necessárias seria realizar uma reforma (pintura, reparos pontuais, etc),
+para facilitar a venda. É como se você tivesse uma casa para vender e desse aquele “tapa” no visual ☺
+Se a entidade tiver classificado um ativo como mantido para venda, mas os critérios acima estudados já́
+não estiverem mais satisfeitos, a entidade deve deixar de classificar o ativo como mantido para venda.
+
+Segundo o CPC 31, quando a entidade adquire um ativo não circulante ou um grupo de ativos exclusivamente
+com vistas à sua posterior alienação (inclusive no caso de ativo recebido em troca de outro, como na dação
+em pagamento), só deve classificá-lo como mantido para venda na data de aquisição se o requisito de um
+ano previsto for satisfeito (com a exceção que estudamos acima) e se for altamente provável que qualquer
+outro critério do CPC 31 (itens 7 e 8), o qual não esteja satisfeito nessa data, estará satisfeito em curto prazo
+após a aquisição (normalmente, no prazo de três meses).
+Você pode estar se perguntando o porquê de tantas exigências para que a empresa possa classificar um ativo
+não circulante como mantido para venda.
+Bem... um ponto que deixa bem claro é o fato de ao ser classificado como mantido para venda, a
+depreciação/amortização deve ser cessada. Ok, professor... mas, qual o impacto disso?
+Vamos supor que determina empresa esteja enfrentando problemas operacionais e financeiros,
+apresentando sucessivos prejuízos. Imagina a pressão desses administradores para apresentar ao mercado,
+acionistas, etc uma melhora na situação financeira não é mesmo? Pois bem... nesse caso uma “maquiagem
+contábil” seria classificar alguns de seus ativos imobilizados como mantidos para venda, cessando a
+depreciação desses ativos, fato que diminuiria o impacto da despesa com depreciação no resultado e,
+consequentemente, aumentaria o resultado. Que beleza! #SQN
+Justamente para evitar esse tipo de situação, a norma é bastante rígida e estabelece todos os requisitos
+acima estudados.
+Vamos ver como esses detalhes já foram explorados em prova!
+
+
+
+
+(Pref. Salvador) Uma sociedade empresária possuía um carro, que era utilizado por seu presidente. O valor
+contábil do carro, em 31/12/2014, era de R$ 80.000.
+Em 2015, a empresa precisou cortar custos e os administradores decidiram colocar o carro à venda, por R$
+90.000.
+Em 2016, os preços dos carros diminuíram, frente à diminuição do poder aquisitivo da população, mas os
+administradores da sociedade empresária optaram por não reduzir o valor de venda proposto inicialmente.
+Assinale a opção que indica a correta classificação do carro no balanço patrimonial da empresa, em
+31/12/2016.
+a) Ativo Circulante.
+b) Ativo Realizável a Longo Prazo.
+c) Propriedade para Investimentos.
+d) Ativo Imobilizado.
+e) Ativo Intangível.
+Comentários
+Excelente questão! Em 2014 o carro era classificado como ativo imobilizado e tinha valor contábil de R$ 80
+mil. Em 2015 o carro foi colocado à venda por R$ 90 mil. A pergunta nesse caso, antes de chegarmos ao que
+o examinador solicita, é: em 2015 esse ativo poderia ser classificado como ativo não circulante mantido para
+venda?
+Bem... particularmente considero que não. Veja que o valor contábil era de R$ 80 mil em 2014 e os
+administradores colocaram à venda em 2015 por R$ 90 mil. Entre os requisitos que estudamos está:
+o ativo mantido para venda deve ser efetivamente colocado à venda por preço que seja razoável em relação
+ao seu valor justo corrente;
+Nesse caso, me parece que não é um preço razoável, não é mesmo?
+Mas, vamos continuar na cronologia do caso hipotético apresentado na questão...
+A questão informa que em 2016 os preços dos carros diminuíram, frente à diminuição do poder aquisitivo
+da população, mas os administradores da sociedade empresária optaram por não reduzir o valor de venda
+proposto inicialmente.
+Logo, observa-se que os administradores não estão comprometidos com a venda, não é mesmo? Nesse
+sentido, se havia dúvidas que em 2015 o caso não atendia aos requisitos de classificação para AÑC mantido
+para venda, agora em 2016 não restam dúvidas: o ativo deve ser classificado como ativo imobilizado.
+Agora, mesmo se considerássemos que em 2015 poderia ser classificado como AÑC mantido para venda,
+como em 2016 claramente não há como classificar nesse grupo, a entidade deveria deixar de classificar o
+ativo como mantido para venda, conforme destacamos acima:
+Se a entidade tiver classificado um ativo como mantido para venda, mas os critérios acima estudados já́
+não estiverem mais satisfeitos, a entidade deve deixar de classificar o ativo como mantido para venda.
+Gabarito: D
+(TCM-SP) Em 28/07/x1, a Cia. Ni adquiriu o controle da Ksi S.A. O intuito da Cia. Ni é revender sua
+participação na Ksi S.A. Para que o investimento na Ksi S.A. possa ser classificado pela Cia. Ni como uma
+operação descontinuada, é necessário que em curto prazo após a aquisição (normalmente, no prazo de
+três meses):
+a) a venda da Ksi S.A. seja certa;
+b) o nível hierárquico de gestão apropriado da Cia. Ni esteja comprometido com o plano de venda da Ksi S.A.;
+c) tenha sido localizado um comprador para a Ksi S.A.;
+d) haja expectativa de se concluir a venda da Ksi S.A. até o final do exercício corrente, em 31/12/x1;
+e) a venda da Ksi S.A. não esteja sujeita a quaisquer termos de venda.
+Comentários
+Nos termos do CPC 31, operação descontinuada é o componente da entidade que tenha sido alienado ou
+esteja classificado como mantido para venda e:
+a) representa uma importante linha separada de negócios ou área geográfica de operações;
+b) é parte integrante de um único plano coordenado para vender uma importante linha separada de negócios
+ou área geográfica de operações; ou
+c) é uma controlada adquirida exclusivamente com o objetivo de revenda.
+Veja que o caso apresentado na questão se enquadra no item “C” acima. No entanto, além da controlada ser
+adquirida exclusivamente com o objetivo de revenda, para que ela possa ser considerada uma operação
+descontinuada ela deve estar classificada como mantido para vendae aqui entram os requisitos que
+estudamos anteriormente. Entre os quais está o seguinte:
+o nível hierárquico de gestão apropriado deve estar comprometido com o plano de venda do ativo;
+Logo, na situação hipotética apresentada na questão, para que o investimento na Ksi S.A. possa ser
+classificado pela Cia. Ni como uma operação descontinuada, é necessário que em curto prazo após a
+aquisição (normalmente, no prazo de três meses) o nível hierárquico de gestão apropriado da Cia. Ni esteja
+comprometido com o plano de venda da Ksi S.A.
+Gabarito: B
+Para fechar esse ponto dos requisitos, vale destacar que os requisitos aplicáveis no caso de ativos não
+circulantes mantidos para venda também devem ser aplicáveis aos ativos não circulantes classificados como
+mantido para distribuição aos sócios. A ideia é basicamente a mesma.
+Segundo o CPC 31,
+
+     O ativo não circulante (ou grupo de ativos) é classificado como mantido para distribuição aos
+     sócios quando a entidade está comprometida para distribuir esse ativo (ou grupo de ativos)
+     aos proprietários.
+     Para isso é necessário que os ativos estejam disponíveis para imediata distribuição na sua
+     condição atual e que a distribuição seja altamente provável.
+     Para essa distribuição ser altamente provável, ações para completar a distribuição devem já
+     ter sido iniciadas e deve estar presente a expectativa de serem completadas dentro de um ano
+     a partir da classificação.
+     Ações requeridas para completar a distribuição devem indicar não ser provável que mudanças
+     significativas na distribuição sejam feitas ou que a distribuição virá a não ser feita.
+     A probabilidade da aprovação dos sócios (se requerida legal ou estatutariamente) deve ser
+     considerada como fator na verificação de ser a distribuição classificável como altamente
+     provável.
+Ativo Não Circulante a Ser Baixado
+Segundo o CPC 31, a entidade não deve classificar como mantido para venda o ativo não circulante ou o
+grupo de ativos destinado a ser baixado. Isso se deve ao fato de o seu valor contábil ser recuperado
+principalmente por meio do uso contínuo.
+Os ativos não circulantes a serem baixados incluem ativos que devem ser usados até o final da sua vida
+econômica e ativos não circulantes que devem ser fechados em vez de vendidos.
+O CPC 31 destaca que a entidade não deve contabilizar o ativo não circulante que tenha sido
+temporariamente retirado de serviço como se tivesse sido baixado.
+
+MENSURAÇÃO DE ATIVO NÃO CIRCULANTE MANTIDO PARA
+                     VENDA
+
+
+
+
+Nos termos do CPC 31, a entidade deve mensurar o ativo ou o grupo de ativos não circulantes classificado
+como mantido para venda pelo menor entre o seu valor contábil e o valor justo menos as despesas de
+venda.
+
+A entidade deve mensurar o ativo não circulante (ou grupo de ativos) mantido para distribuição aos sócios
+pelo menor entre seu valor contábil e seu valor justo diminuído das despesas de distribuição(*).
+(*) Despesas de distribuição são as despesas incrementais diretamente atribuíveis à distribuição, excluídos as
+financeiras e os tributos sobre o lucro.
+Se o ativo ou o grupo de ativos for adquirido como parte de combinação de negócios, ele deve ser mensurado
+pelo valor justo menos as despesas de venda.
+Quando se espera que a venda ocorra após um ano, a entidade deve mensurar as despesas de venda pelo
+valor presente.
+
+Reconhecimento de perda por redução ao valor recuperável e
+reversão
+Segundo o CPC 31, a entidade deve reconhecer, nos termos do CPC 01 – Redução ao Valor Recuperável de
+Ativos, a perda por redução ao valor recuperável relativamente a qualquer redução inicial ou posterior do
+ativo ou do grupo de ativo mantido para venda ao valor justo menos as despesas de venda.
+A entidade deve reconhecer o ganho para qualquer aumento posterior no valor justo menos as despesas de
+venda de um ativo, limitado à perda por redução ao valor recuperável acumulada que tenha sido
+reconhecida.
+O CPC 31 destaca que a entidade não deve depreciar (ou amortizar) o ativo não circulante enquanto estiver
+classificado como mantido para venda ou enquanto fizer parte de grupo de ativos classificado como mantido
+para venda. Os juros e os outros gastos atribuíveis aos passivos de grupo de ativos classificado como mantido
+para venda devem continuar a ser reconhecidos.
+Veja como esses tópicos sobre mensuração já foram explorados em prova!
+
+
+
+
+(PAULIPREV) Uma empresa planeja colocar um de seus ativos não circulantes para venda. Nesse caso, para
+mensurar o valor de venda desse ativo, segundo a norma contábil que trata do referido assunto, a empresa
+deverá
+a) avaliar o referido bem de acordo com o princípio contábil “custo ou mercado, dos dois o menor”.
+b) apenas transferi-lo para o ativo circulante, devido a intenção de vendê-lo, pelo seu valor contábil, que já
+considera seu valor justo, uma vez que está contabilizado pelo custo histórico.
+c) considerar o valor residual contábil, que justamente considera a perda pelo uso ou pelo tempo, ajustando-
+o naturalmente ao valor justo.
+d) mensurar o ativo ou o grupo de ativos não circulantes classificado como “mantido para venda” pelo menor
+valor entre o seu valor contábil e o valor justo menos as despesas de venda.
+e) calcular o valor presente do fluxo de caixa futuro, com a geração de recurso do ativo, uma vez que este é
+considerado uma unidade geradora de caixa.
+Comentários
+Segundo o CPC 31,
+15. A entidade deve mensurar o ativo ou o grupo de ativos não circulantes classificado como mantido para
+venda pelo menor entre o seu valor contábil e o valor justo menos as despesas de venda
+Gabarito: D
+                             APRESENTAÇÃO E DIVULGAÇÃO
+Segundo o CPC 31, a entidade deve apresentar e divulgar informação que permita aos usuários das
+demonstrações contábeis avaliarem os efeitos financeiros das operações descontinuadas e das baixas de
+ativos não circulantes mantidos para venda.
+Nesse sentido, o Pronunciamento informa que uma operação descontinuada é um componente1 da entidade
+que foi baixado ou está classificado como mantido para venda e:
+a) representa uma importante linha separada de negócios ou área geográfica de operações;
+b) é parte integrante de um único plano coordenado para venda de uma importante linha separada de
+negócios ou área geográfica de operações; ou
+c) é uma controlada adquirida exclusivamente com o objetivo da revenda.
+No que se refere à evidenciação, o CPC 31 destaca que a entidade deve evidenciar:
+a) um montante único na demonstração do resultado compreendendo:
+i) o resultado total após o imposto de renda das operações descontinuadas; e
+ii) os ganhos ou as perdas após o imposto de renda reconhecidos na mensuração pelo valor justo menos as
+despesas de venda ou na baixa de ativos ou de grupo de ativos(s) mantidos para venda que constituam a
+operação descontinuada.
+b) análise (em notas explicativas ou na DRE, em seção identificada) da quantia única referida na alínea (a)
+com:
+(i) as receitas, as despesas e o resultado antes dos tributos das operações descontinuadas;
+(ii) as despesas com os tributos sobre o lucro relacionadas conforme exigido pelo CPC 32 – Tributos sobre o
+Lucro;
+(iii) os ganhos ou as perdas reconhecidas na mensuração pelo valor justo menos as despesas de venda ou na
+alienação de ativos ou de grupo de ativos mantidos para venda que constitua a operação descontinuada; e
+(iv) as despesas de imposto de renda relacionadas conforme exigido pelo CPC 32.
+c) os fluxos de caixa líquidos atribuíveis às atividades operacionais, de investimento e de financiamento
+das operações descontinuadas. Essas evidenciações podem ser apresentadas nas notas explicativas ou nos
+quadros das demonstrações contábeis. Essas evidenciações não são exigidas para grupos de ativos
+mantidos para venda que sejam controladas recém-adquiridas que satisfaçam aos critérios de classificação
+como destinadas à venda no momento da aquisição.
+
+
+
+
+1
+  Um componente da entidade compreende operações e fluxos de caixa que podem ser claramente distinguidos, operacionalmente
+e para fins de divulgação nas demonstrações contábeis, do resto da entidade. Em outras palavras, um componente da entidade terá
+sido uma unidade geradora de caixa ou um grupo de unidades geradoras de caixa enquanto mantido em uso.
+Ganho ou perda relacionado com operação em continuidade
+Segundo o CPC 31, qualquer ganho ou perda relativa à remensuração de ativo não circulante classificado
+como mantido para venda que não satisfaça à definição de operação descontinuada deve ser incluído nos
+resultados das operações em continuidade.
+
+Apresentação de ativo não circulante classificado como
+mantido para venda
+O CPC 31 informa que a entidade deve apresentar o ativo não circulante classificado como mantido para
+venda separadamente dos outros ativos no balanço patrimonial (dentro do grupo ativo circulante!). Os
+passivos de grupo de ativos classificado como mantido para venda devem ser apresentados separadamente
+dos outros passivos no balanço patrimonial (por analogia, no passivo circulante). Esses ativos e passivos não
+devem ser compensados nem apresentados em um único montante. As principais classes de ativos e
+passivos classificados como mantidos para venda devem ser divulgadas separadamente no balanço
+patrimonial ou nas notas explicativas.
+
+Divulgações adicionais
+Segundo o CPC 31, a entidade deve divulgar a seguinte informação nas notas explicativas do período em que
+o ativo não circulante tenha sido classificado como mantido para venda ou vendido:
+a) descrição do ativo (ou grupo de ativos) não circulante;
+b) descrição dos fatos e das circunstâncias da venda, ou que conduziram à alienação esperada, forma e
+cronograma esperados para essa alienação;
+c) ganho ou perda reconhecido(a) e, se não for apresentado(a) separadamente na demonstração do
+resultado, a linha na demonstração do resultado que inclui esse ganho ou perda;
+d) se aplicável, segmento em que o ativo não circulante ou o grupo de ativos mantido para venda está
+apresentado de acordo com o CPC 22 – Informações por Segmento.
+

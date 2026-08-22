@@ -1,0 +1,43 @@
+                                                     RESUMO
+
+                                                COMPONENTES PATRIMONIAIS
+
+             Bens: itens avaliados em moeda capazes de satisfazer às necessidades das entidades, sejam pessoas
+             físicas ou jurídicas;
+             Direitos: valores a receber de terceiros, gerados por meio de operações da entidade;
+             Obrigações: representam as dívidas que a entidade contrata junto a terceiros;
+
+              Ativo é um recurso econômico presente controlado pela entidade como resultado de
+              eventos passados.
+              Recurso econômico é um direito que tem o potencial de produzir benefícios econômicos.
+              Passivo é uma obrigação presente da entidade de transferir um recurso econômico como
+              resultado de eventos passados.
+              Patrimônio líquido é a participação residual nos ativos da entidade após a dedução de todos
+              os seus passivos.
+PATRIMÔNIO
+
+
+
+
+              EQUAÇÃO PATRIMONIAL: ATIVO = PASSIVO EXIGÍVEL + PATRIMÔNIO LÍQUIDO (A = PE + PL)
+
+                                  SL > 0 Situação Líquida positiva (total de bens e direitos é maior que o total das
+              ESTADOS             obrigações).
+              PATRIMONIAIS:
+                                  SL = 0 Situação Líquida Nula
+                                  SL < 0 Situação Líquida negativa (passivo a descoberto)
+
+
+                                           Sinônimos para os componentes patrimoniais
+                               Ativo                         Passivo               Patrimônio Líquido
+                         Patrimônio Bruto                Passivo Exigível            Situação Líquida
+                          Capital Aplicado             Capital de Terceiros           Capital Próprio
+                          Capital Investido               Capital Alheio            Recursos Próprios
+                      Aplicações dos Recursos         Recursos de terceiros        Passivo Não Exigível
+                           Investimentos                                        Riqueza Própria (líquida)
+
+
+
+
+                                        https://t.me/KakashiAssinaturasBot
+

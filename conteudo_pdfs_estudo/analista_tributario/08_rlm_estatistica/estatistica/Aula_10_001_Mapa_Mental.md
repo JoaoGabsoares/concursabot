@@ -1,0 +1,68 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 10_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '10'
+titulo_aula: Ao contrário das variáveis discretas, para variáveis contínuas, como
+  tempo e distância, os seus possíveis valores não são
+---
+
+# Ao contrário das variáveis discretas, para variáveis contínuas, como tempo e distância, os seus possíveis valores não são
+
+Ao contrário das variáveis discretas, para variáveis contínuas, como tempo e distância, os seus possíveis valores não são
+contáveis.
+
+
+Consequentemente, a probabilidade associada a um valor específico da variável é igual a zero. Por exemplo, a probabilidade de
+um equipamento durar exatamente 1000 horas, nem um segundo a mais ou a menos, é igual a zero.
+
+Por isso, trabalhamos com a probabilidade associada a intervalos da variável, por exemplo, de 999 a 1001 horas ou de 900 a 1100
+horas.
+Essas probabilidades são calculadas a partir da função densidade de probabilidade f(x).
+Os conceitos são os mesmos das variáveis discretas, mas para variáveis contínuas substituímos o somatório pela integral, que
+corresponde à área delimitada pela função densidade.
+
+
+                                              VARIÁVEIS ALEATÓRIAS CONTÍNUAS
+
+A probabilidade associada a um intervalo (a,b) é igual à
+área delimitada pela função nesse intervalo.                                             FUNÇÃO DE DISTRIBUIÇÃO ACUMULADA
+Quando a função é formada por retas, essa área pode                              • Representa a probabilidade de todos os valores
+ser calculada geometricamente. Senão, utilizamos a                               inferiores até aquele ponto.
+integral:
+
+Como a probabilidade associada a todos os valores                                Essa função é não decrescente e varia de 0 a 1
+possíveis da variável é igual a 1, então a área
+delimitada por toda a função é igual a 1.
+
+
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               VARIÁVEIS ALEATÓRIAS
+                                                    CONTÍNUAS
+
+                  ESPERANÇA                                                                              VARIÂNCIA
+
+Multiplicamos a função densidade por x e                                           diferença entre a esperança dos quadrados e o
+integramos em todo o intervalo da variável                                         quadrado da esperança
+
+Quando a função densidade for uma função                                           Para calcular a esperança dos quadrados para
+quadrática   ou   outra   curva   simétrica,   a                                   variáveis contínuas, multiplicamos a função
+esperança corresponde ao eixo de simetria                                          densidade pelo quadrado de x e integramos em
+                                                                                   todo o intervalo da variável
+
+                                                                                               ESTRATÉGIA CONCURSOS
+
+
+---

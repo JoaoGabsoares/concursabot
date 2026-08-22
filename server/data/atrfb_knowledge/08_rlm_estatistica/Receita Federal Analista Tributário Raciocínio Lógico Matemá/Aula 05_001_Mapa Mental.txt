@@ -1,0 +1,150 @@
+LÓGICA DE ARGUMENTAÇÃO
+
+
+
+
+                                                              RACIOCÍNIO LÓGICO
+                                                              ESTRATÉGIA CONCURSOS
+                         https://t.me/KakashiAssinaturasBot
+                                           CONECTIVOS LÓGICOS: QUESTÕES CLÁSSICAS
+
+
+                                                 ETAPA 1              IDENTIFICAR AS AFIRMAÇÕES QUE SE APRESENTAM EM ALGUM DOS "FORMATOS FÁCEIS";
+
+                                                                      DESCONSIDERAR       O   CONTEXTO   DA   QUESTÃO,   TRANSFORMANDO   AS   AFIRMAÇÕES   DA   LÍNGUA
+                                                 ETAPA 2
+                                                                      PORTUGUESA PARA A LINGUAGEM PROPOSICIONAL;
+PARA   RESOLVER     ESSAS    QUESTÕES,
+DEVEMOS SEGUIR QUATRO ETAPAS
+                                                                      OBTER OS VALORES LÓGICOS DAS PROPOSIÇÕES SIMPLES PRESENTES NAS AFIRMAÇÕES DO ENUNCIADO
+                                                 ETAPA 3
+                                                                      (SEMPRE QUE POSSÍVEL);
+
+                                                 ETAPA 4              VERIFICAR A RESPOSTA QUE APRESENTA UMA PROPOSIÇÃO VERDADEIRA.
+
+
+
+                                                                      PROPOSIÇÃO SIMPLES (VERDADEIRA OU FALSA);
+
+
+                                                                      CONJUNÇÃO (E; ∧) VERDADEIRA;
+AS AFIRMAÇÕES DO ENUNCIADO QUE APRESENTAM UM
+       "FORMATO FÁCIL" SÃO AS SEGUINTES
+                                                                      DISJUNÇÃO INCLUSIVA (OU; ∨) FALSA;
+
+
+                                                                      CONDICIONAL (SE...ENTÃO; →) FALSA.
+
+
+                                                                                                                                              RACIOCÍNIO LÓGICO
+                                                                                                                                              ESTRATÉGIA CONCURSOS
+                                                     https://t.me/KakashiAssinaturasBot
+                          MÉTODOS DE VERIFICAÇÃO DA VALIDADE DE UM ARGUMENTO DEDUTIVO
+
+  MÉTODO DOS DIAGRAMAS LÓGICOS                          ESSE MÉTODO CONSISTE EM UTILIZAR DIAGRAMAS LÓGICOS PARA VERIFICAR A VALIDADE DO ARGUMENTO,
+                                                        DEVENDO SER USADO QUANDO TEMOS ARGUMENTOS CATEGÓRICOS.
+
+
+
+
+    MÉTODO EM QUE SE CONSIDERA
+                                                        DEVEMOS CONSIDERAR AS PREMISSAS VERDADEIRAS E VERIFICAR SE A CONCLUSÃO É NECESSARIAMENTE
+   TODAS AS PREMISSAS VERDADEIRAS
+                                                        VERDADEIRA.
+
+                                                         ESSE MÉTODO APRESENTA UMA SEMELHANÇA MUITO GRANDE COM AQUELAS "QUESTÕES CLÁSSICAS" QUE ENVOLVEM OS
+                                                         CONECTIVOS LÓGICOS. QUANDO TRATAMOS DE ARGUMENTOS, AS PREMISSAS DEVEM SER TRATADAS COMO AFIRMAÇÕES
+                                                                                                    VERDADEIRAS.
+
+
+
+
+                                                          CONSTRUIR A TABELA-VERDADE DA CONDICIONAL ASSOCIADA AO ARGUMENTO, DADA POR (P1∧P2∧...
+     MÉTODO DA TABELA-VERDADE                                                                    ∧PN)→C:
+
+
+SE A CONDICIONAL QUE REPRESENTA O ARGUMENTO FOR UMA TAUTOLOGIA, O ARGUMENTO É VÁLIDO; E
+
+
+SE A CONDICIONAL NÃO FOR UMA TAUTOLOGIA, O ARGUMENTO É INVÁLIDO.
+
+
+
+
+                                                                                                                                      RACIOCÍNIO LÓGICO
+                                                                                                                                      ESTRATÉGIA CONCURSOS
+                                                               https://t.me/KakashiAssinaturasBot
+                           MÉTODOS DE VERIFICAÇÃO DA VALIDADE DE UM ARGUMENTO DEDUTIVO
+
+
+     MÉTODO DA TABELA-VERDADE                                                                       EM QUESTÕES DE MÚLTIPLA ESCOLHA, TEMOS TRÊS ETAPAS:
+
+
+                                                                                     DESCONSIDERAR O CONTEXTO, TRANSFORMANDO AS AFIRMAÇÕES DA LÍNGUA PORTUGUESA PARA A
+                                                               ETAPA 1
+    MÉTODO DA CONCLUSÃO FALSA                                                        LINGUAGEM PROPOSICIONAL;
+
+
+
+                                                                                     INSERIR TODAS AS PREMISSAS NA TABELA E OBTER AS LINHAS DA TABELA-VERDADE EM QUE TODAS AS
+                                                               ETAPA 2               PREMISSAS SÃO SIMULTANEAMENTE VERDADEIRAS; E
+
+PARA SE APLICAR ESSE MÉTODO É NECESSÁRIO QUE A
+ CONCLUSÃO SEJA UMA PROPOSIÇÃO SIMPLES, UMA                                          VERIFICAR A RESPOSTA QUE APRESENTA UMA PROPOSIÇÃO QUE É VERDADEIRA PARA TODAS AS LINHAS
+                                                               ETAPA 3
+     DISJUNÇÃO INCLUSIVA (OU; ∨) OU UMA                                              OBTIDAS NA ETAPA ANTERIOR.
+         CONDICIONAL (SE...ENTÃO; →).
+
+                    A CONCLUSÃO É UMA
+                                                                                                                                        SIM. É POSSÍVEL
+                   PROPOSIÇÃO SIMPLES,
+                  DISJUNÇÃO INCLUSIVA OU                                                                  TENTAR OBTER AO                É POSSÍVEL FAZER COM QUE   ARGUMENTO
+                        CONDICIONAL?                                      PARTIR DA                         MENOS UM                     TODAS AS PREMISSAS SEJAM   INVÁLIDO
+                                   SIM                                   HIPÓTESE DE                       CASO EM QUE                  V MANTENDO A CONCLUSÃO
+                                             DESCONSIDERAR O                 QUE A                       TODAS AS PREMISSAS
+                                                 CONTEXTO                                                                                        F?
+                                                                         CONCLUSÃO É                      SEJAM VERDADEIRAS
+
+  INÍCIO DO MÉTODO DA                                                       FALSA                           MANTENDO A
+                                                                                                                                       NÃO. NÃO É POSSÍVEL QUE
+    CONCLUSÃO FALSA            NÃO                                                                        CONCLUSÃO FALSA
+                                                                                                                                       TODAS AS PREMISSAS SEJAM V   ARGUMENTO
+                                                                                                                                       MANTENDO A CONCLUSÃO F.       VÁLIDO
+                                           UTILIZAR OUTRO MÉTODO
+
+                                                                                                                                                           RACIOCÍNIO LÓGICO
+                                                                                                                                                           ESTRATÉGIA CONCURSOS
+                                                                   https://t.me/KakashiAssinaturasBot
+                 MÉTODOS DE VERIFICAÇÃO DA VALIDADE DE UM ARGUMENTO DEDUTIVO
+
+ MÉTODO DA TRANSITIVIDADE DA                                                   MÉTODO DAS REGRAS DE INFERÊNCIA
+        CONDICIONAL
+                                  MODUS PONENS (AFIRMAÇÃO DO ANTECEDENTE)                            MODUS TOLLENS (NEGAÇÃO DO CONSEQUENTE)
+
+                                    PREMISSA 1:                SE P, ENTÃO Q.                            PREMISSA 1:     SE P, ENTÃO Q.
+
+                                    PREMISSA 2:                            P                             PREMISSA 2:
+
+                                    CONCLUSÃO:                             Q                             CONCLUSÃO:
+PREMISSA P1:      A       B
+                                               SILOGISMO HIPOTÉTICO                                            DILEMA CONSTRUTIVO
+PREMISSA P2:      B       C
+                                   PREMISSA 1:               SE P, ENTÃO Q.                              PREMISSA 1:     SE P, ENTÃO Q.
+PREMISSA P3:      C       D
+                                   PREMISSA 2:               SE Q, ENTÃO R.                              PREMISSA 2:     SE R, ENTÃO S.
+PREMISSA P4:      D       E
+                                   CONCLUSÃO:                 SE P, ENTÃO R.                             PREMISSA 3:        P, OU R.
+
+
+CONCLUSÃO C:      A       E                      DILEMA DESTRUTIVO                                       CONCLUSÃO:
+
+                                    PREMISSA 1:                SE P, ENTÃO Q.
+
+                                    PREMISSA 2:                SE R, ENTÃO S.
+
+                                    PREMISSA 3:
+                                                                                                                        RACIOCÍNIO LÓGICO
+                                    CONCLUSÃO:
+                                      https://t.me/KakashiAssinaturasBot
+                                                                                                                        ESTRATÉGIA CONCURSOS
+

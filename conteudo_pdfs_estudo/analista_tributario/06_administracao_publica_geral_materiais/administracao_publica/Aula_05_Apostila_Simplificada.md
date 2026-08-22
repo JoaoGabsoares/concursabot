@@ -1,0 +1,2407 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Administração Pública
+artigos_citados:
+- art. 12
+- art. 18.
+- art. 198
+- art. 24
+- art. 2º
+- art. 4º
+- art. 5º
+- art. 6-A
+---
+
+# Administração Pública
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                                       Administração Pública
+
+                                                        Autor:
+                                               Stefan Fantini
+
+                                            23 de Julho de 2025
+
+---
+
+      Stefan Fantini
+      Aula 04
+
+                                                                                     Índice
+1) Governo Eletrônico - PDF SIMPLIFICADO
+
+                Receita Federal (Analista Tributário) Administração Pública                                                                                                               2
+                www.estrategiaconcursos.com.br                                                                                                                                           49
+
+                                                             
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+Olá, amigos do Estratégia Concursos, tudo bem?
+Preparados para mais uma aula? Então vamos em frente! ☺
+Um grande abraço,
+Stefan Fantini
+
+Para tirar dúvidas e ter acesso a dicas e conteúdos gratuitos, siga meu Instagram, se inscreva no
+meu Canal no YouTube e participe do meu canal no TELEGRAM:
+
+                                          @prof.stefan.fantini
+                                https://www.instagram.com/prof.stefan.fantini
+
+                                              Stefan Fantini
+                     https://www.youtube.com/channel/UCptbQWFe4xIyYBcMG-PNNrQ
+
+        Receita Federal (Analista Tributário) Administração Pública                            3
+        www.estrategiaconcursos.com.br                                                         49
+                                                                                           1
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+                                          t.me/admconcursos
+
+Os canais foram feitos especialmente para você! Então, será um enorme prazer contar com a sua
+presença nos nossos canais! ☺
+
+        Receita Federal (Analista Tributário) Administração Pública                         4
+        www.estrategiaconcursos.com.br                                                      49
+                                                                                        2
+                                     
+
+
+---
+
+   Stefan Fantini
+   Aula 04
+
+Sumário
+
+Governo Eletrônico 
+
+   1 – Estágios do Governo Eletrônico 
+
+      1.1 – Estágios do Governo Eletrônico no Brasil (Evolução do E-Gov no Brasil) 
+
+   2 – Fundamentos e Diretrizes do Governo Eletrônico 
+
+   3 – Aplicação do Governo Eletrônico (Relacionamentos Existentes com as TICs) 
+
+   4 – Projetos e Sistemas de Governo Eletrônico no Brasil 
+
+      4.1 – SEI (Sistema Eletrônico de Informações) 
+
+   5 – Governança Eletrônica (E-Governance) 
+
+   6 – Governo Digital 
+
+      6.1 – Decreto 12.069, de 21 de junho de 2024 
+
+      6.2 – Decreto 12.198, de 24 de setembro de 2024 
+
+      6.3 – Princípios e Diretrizes do Governo Digital e da Eficiência Pública 
+
+Resumo Estratégico 
+
+           Receita Federal (Analista Tributário) Administração Pública                                                                          5
+           www.estrategiaconcursos.com.br                                                                                                      49
+                                                                                                                                           3
+                                              
+
+
+---
+
+    Stefan Fantini
+    Aula 04
+
+                                              GOVERNO ELETRÔNICO
+De acordo com a União Europeia1, governo eletrônico (ou e-government, em inglês) relaciona-se
+ao uso das TICs (Tecnologias da Informação e Comunicação) na administração pública, combinado
+com mudança organizacional e novas práticas, a fim de melhorar os serviços públicos, os
+processos democráticos e fortalecer o suporte às políticas públicas.
+
+Para Calmon, “governo eletrônico é a utilização das tecnologias da informação e comunicação
+para dinamizar o relacionamento do governo com a sociedade, reduzindo custos, melhorando
+processos e diminuindo desigualdades”2.
+
+                                                                         LEITURA
+                                                                         OBRIGATÓRIA!
+
+Vejamos, a seguir, mais alguns conceitos de governo eletrônico:
+
+Governo eletrônico é definido como o uso das TIC, em particular a internet, como ferramenta para
+levar a um melhor governo3.
+
+Governo Eletrônico refere-se ao uso, por agências governamentais, de tecnologias de informação
+(como redes de longa distância, Internet e computação móvel) capazes de transformar as relações
+com cidadãos, empresas e outras unidades do governo. Essas tecnologias podem servir a
+diferentes fins, como: melhor prestação de serviços aos cidadãos, interações mais eficazes com
+empresas e a indústria, empowerment do cidadão por meio do acesso a informações ou mais
+eficiência na administração governamental4.
+
+Governo eletrônico (ou e-government, em inglês) é a forma pela qual o governo se utiliza da
+Internet e da web para ofertar informações e serviços governamentais aos cidadãos5.
+
+Governo eletrônico ou e-governo significa prover acesso público via Internet a informações sobre
+os serviços oferecidos pelos departamentos centrais do governo e suas agências, habilitando o
+público à condução e conclusão de transações para tais serviços 6.
+
+1
+  União Europeia (2003) apud Alves, W. S. BRAGA, L. V. FIGUEIREDO, R. M. C, SANTOS, R. R. O papel do Governo Eletrônico no fortalecimento da governança do
+setor público. Revista do Serviço Público Brasília 59 (1): 05-21 Jan/Mar 2008
+2 CALMON (2007) apud MARTINS, D. A. RAMOS A. S. M. Conceitos de Governo Eletrônico e Governança Eletrônica: Confrontação e Complementaridade. ENAPG
+
+– ANPAD – Salvador/BA – 12 a 14 de Novembro de 2008.
+3 OCDE (2003) apud apud Alves, W. S. BRAGA, L. V. FIGUEIREDO, R. M. C, SANTOS, R. R. O papel do Governo Eletrônico no fortalecimento da governança do
+
+setor público. Revista do Serviço Público Brasília 59 (1): 05-21 Jan/Mar 2008
+4 Banco Mundial (2003a) apud MEDEIROS, Paulo Henrique Ramos. Governo Eletrônico No Brasil: Aspectos Institucionais E Reflexos Na Governança. Dissertação
+
+apresentada ao Curso de Mestrado em Administração da Universidade de Brasília - UNB: 2004.
+5
+  ONU (2002) apud ibid
+6 National Audit Office (2002b, p. 1) apud Ibid
+
+            Receita Federal (Analista Tributário) Administração Pública                                                                                6
+            www.estrategiaconcursos.com.br                                                                                                            49
+                                                                                                                                                 4
+                                                 
+
+
+---
+
+      Stefan Fantini
+      Aula 04
+
+O termo ‘e-government’ aborda o uso de novas tecnologias de informação e comunicação (TIC)
+pelos governos, aplicadas a todas as suas funções7.
+
+O termo governo eletrônico é definido como a oferta e troca de informações e serviços
+governamentais on-line para cidadãos, empresas e outras agências governamentais8.
+
+Governo eletrônico refere-se a processos e estruturas relativos ao fornecimento eletrônico de
+serviços governamentais ao público9.
+
+Governo eletrônico trata-se de um governo ágil e aberto para melhor atender à sociedade,
+utilizando-se da telemática (TI e telecomunicações) para ampliar a cidadania, aumentar a
+transparência da gestão pública, facilitar o controle popular do poder público e democratizar o
+acesso do cidadão aos meios eletrônicos10.
+
+
+Para Diniz, de modo geral, o governo eletrônico pode ser visto sob dois ângulos diferentes 11:
+
+            a) dimensão interna: modernização da administração pública por meio do uso de
+            tecnologias de informação e comunicação (TICs) e melhoria da eficiência dos processos
+            operacionais e administrativos dos governos.
+
+            b) dimensão externa: uso de internet no setor público para prestação de serviços públicos
+            eletrônicos.
+
+A evolução e a utilização intensiva das Tecnologias de Informação e Comunicação (TICs), tais como
+a internet, a telefonia móvel, as transmissões via satélite e as redes de computadores, criaram
+condições bastante favoráveis para o surgimento do governo eletrônico.
+
+De acordo com Medeiros12 e Diniz13, outros fatores que influenciaram o surgimento do governo
+eletrônico, ou seja, fatores que foram determinantes para a adoção das TICs de forma intensiva e
+estratégica pelos governos, foram:
+
+            a) a necessidade das Administrações aumentarem a arrecadação e melhorarem seus
+            processos internos, ou seja, “fazer mais com menos”.
+
+7 OCDE (2001c, p. 2) apud Ibid
+8
+    INTOSAI (2003, p.3) apud Ibid
+9 Okot-Uma (2001, p. 9) apud Ibid
+10 SOBREIRA, Netto. FISCHER, Gouvêa. (2004) apud MARTINS, D. A. RAMOS A. S. M. Conceitos de Governo Eletrônico e Governança Eletrônica: Confrontação e
+
+Complementaridade. ENAPG – ANPAD – Salvador/BA – 12 a 14 de Novembro de 2008.
+11 DINIZ, E. H. BARBOSA, A. F. JUNQUEIRA, A. R. B. PRADO, O. O governo eletrônico no Brasil: perspectiva histórica a partir de um modelo estruturado de
+
+análise. Revista de Administração Pública. Rio de Janeiro: 43(1):23-48, Jan./Fev. 2009.
+12 MEDEIROS, Paulo Henrique Ramos. Governo Eletrônico No Brasil: Aspectos Institucionais E Reflexos Na Governança. Dissertação apresentada ao Curso de
+
+Mestrado em Administração da Universidade de Brasília - UNB: 2004.
+13
+   DINIZ, E. H. BARBOSA, A. F. JUNQUEIRA, A. R. B. PRADO, O. O governo eletrônico no Brasil: perspectiva histórica a partir de um modelo estruturado de
+análise. Revista de Administração Pública. Rio de Janeiro: 43(1):23-48, Jan./Fev. 2009.
+
+              Receita Federal (Analista Tributário) Administração Pública                                                                           7
+              www.estrategiaconcursos.com.br                                                                                                       49
+                                                                                                                                               5
+                                                
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+          b) uso intensivo das TICs pelos cidadãos, empresas privadas e organizações não
+          governamentais.
+
+          c) as pressões da sociedade para que o governo otimizasse seus gastos e atuasse, cada vez
+          mais, com transparência, qualidade e de modo universal na oferta de serviços e
+          provimento de informações aos cidadãos e organizações em geral.
+
+          d) a migração da informação baseada em papel para mídias eletrônicas e serviços online e
+          o avanço e universalização da infraestrutura pública de telecomunicações e da internet.
+
+          e) o movimento de Reforma do Estado (incorporação dos princípios gerenciais pela
+          administração pública), a modernização da gestão pública e a necessidade de maior
+          eficiência do governo.
+
+De acordo com o governo federal14, a “rede mundial tornou-se um desafio para as empresas,
+instituições e organismos do governo em todo o mundo e não há como escapar desse processo de
+transformação da sociedade. Para todos aqueles que tiverem meios de acesso, as informações são
+diversas, públicas e gratuitas e, para os que não têm, o Estado assume um papel muito
+importante, voltado para a democratização do acesso à rede e a prestação eficiente de seus
+serviços aos cidadãos, usando as tecnologias de informação e comunicação (TICs).”
+
+Nesse sentido, “as ações do programa de Governo Eletrônico (eGOV) priorizam o uso das
+tecnologias da informação e comunicação (TICs) para democratizar o acesso à informação,
+visando ampliar o debate e a participação popular na construção das políticas públicas, como
+também aprimorar a qualidade dos serviços e informações públicas prestadas. 15”
+
+De acordo com Paludo, o governo eletrônico abrange 04 linhas de ação16:
+
+          Voltadas ao cidadão: procuram oferecer informações e serviços aos cidadãos em geral, com
+          qualidade e agilidade. Além disso, buscam proporcionar um canal para a participação dos
+          cidadãos nas decisões públicas.
+
+          Voltadas à eficiência interna: relativas ao funcionamento interno dos órgãos de governo,
+          com destaque para sua utilização nos processos de licitações e contratações em geral.
+
+          Voltadas à cooperação: tem finalidade de integrar os diversos órgãos governamentais,
+          assim como promover a integração com outras organizações públicas, púbicas não estatais e
+          privadas.
+
+14
+   https://www.governodigital.gov.br/EGD/historico-1/diretrizes
+15
+   https://www.governodigital.gov.br/EGD/historico-1/historico
+16
+   PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.219
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                             8
+           www.estrategiaconcursos.com.br                                                                          49
+                                                                                                               6
+                                        
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+           Voltadas à gestão do conhecimento: visam gerar e manter um banco de dados atualizado
+           dos conhecimentos do Governo, para servir como fonte de informação e inovação a gerar
+           melhorias nos processos em geral.
+
+O governo eletrônico consiste na utilização, pelo governo, das ferramentas de tecnologia de
+informação e comunicação (TIC), com os objetivos de:
+
+           -democratizar o acesso à informação (inclusão digital);
+
+           -modernizar a máquina pública / minimizar a burocracia pública;
+
+           -reduzir custos e melhorar a eficiência da administração pública no que se refere aos seus
+           processos internos;
+
+           -aumentar a eficiência e a qualidade dos serviços públicos;
+
+           -permitir maior participação popular do cidadão na gestão pública;
+
+           -aumentar a transparência, o controle social e a accountability;
+
+           -criar mecanismos de gestão do conhecimento;
+
+           -aprimorar a governança.
+
+Transformar a relação do governo com a sociedade e promover interatividade com cidadãos,
+empresas e órgãos governamentais melhora o processo de democratização do país, dinamiza os
+serviços públicos e proporciona uma administração pública mais eficiente, já que, agora, a
+sociedade possui instrumentos para se manifestar junto às ações governamentais. 17
+
+17
+     https://www.governodigital.gov.br/EGD/historico-1/historico
+
+
+            Receita Federal (Analista Tributário) Administração Pública                            9
+            www.estrategiaconcursos.com.br                                                         49
+                                                                                               7
+                                           
+
+
+---
+
+   Stefan Fantini
+   Aula 04
+
+1 – Estágios do Governo Eletrônico
+
+A ONU buscou classificar os estágios em que os países se encontram em relação aos seus esforços
+de implementação do governo eletrônico. Nesse sentido, de acordo com a ONU18, os estágios do
+governo eletrônico são os seguintes:
+
+          Estágio I - Emergente (Emerging): A presença on-line de um governo é composta
+          principalmente por uma página da web e/ou um site oficial. As informações são estáticas e
+          há pouca interação com os cidadãos.
+
+          Estágio II - Aprimorado (Enhanced): Os governos fornecem mais informações sobre
+          políticas públicas e governança. Os governos criam links que permitem aos cidadãos
+          obterem acesso a informações como: documentos, formulários, relatórios, leis,
+          regulamentos e boletins.
+
+          Estágio III - Interativo (Interactive): os governos fornecem serviços on-line, tais como
+          formulários para download para pagamento de impostos e pedidos de renovação de
+          licença. Além disso, evidencia-se o início de um portal interativo ou site com serviços para
+          melhorar a conveniência dos cidadãos.
+
+          Estágio IV - Transacional (Transactional): os governos começam a se transformar
+          introduzindo interações bidirecionais entre "cidadão e governo". Nesse sentido, inclui
+          opções para pagamento de impostos, solicitação de carteiras de identidade, certidões de
+          nascimento, passaportes e renovações de licenças, além de outras interações semelhantes.
+          Além disso, todas as transações são realizadas online, e o cidadão pode acessar esses
+          serviços on-line, 24 horas por dia, 7 dias por semana.
+
+          Estágio V - Conectado (Connected): os governos se transformam em uma entidade
+          conectada que responde às necessidades de seus cidadãos, desenvolvendo uma
+          infraestrutura integrada de suporte ao cidadão. Esse é o nível mais sofisticado de
+          iniciativas de governo eletrônico on-line.
+
+
+1.1 – Estágios do Governo Eletrônico no Brasil (Evolução do E-Gov no Brasil)
+
+É importante que você saiba que, para Reinhard e Dias (2005), os estágios do governo eletrônico
+no Brasil são os seguintes:
+
+         Pioneirismo (dos anos 1950 até meados dos anos 1960);
+         Centralização (de meados dos 1960 até o final dos 1970);
+         Terceirização (anos 1980) e;
+         Governo Eletrônico propriamente dito (a partir dos anos 1990).
+
+
+18 ONU - From E-Government Survey 2008 – Froom E-Government to Connected Governance. New York: 2008.
+
+           Receita Federal (Analista Tributário) Administração Pública                                     10
+           www.estrategiaconcursos.com.br                                                                  49
+                                                                                                       8
+                                              
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+Diniz (2005), por sua vez, sustenta um outro tipo de classificação. Segundo ele, os estágios do
+governo eletrônico no Brasil são os seguintes:
+
+       Gestão interna (1970 a 1992): as TICs são utilizadas para aprimorar os processos internos
+       de gestão pública. Buscava-se a melhoria da gestão interna e maior eficiência dos
+       processos administrativos financeiros.
+
+       Serviços e informações ao cidadão (1993 a 1998): são implementados processos com o
+       objetivo de apoiar a prestação de serviços ao cidadão (seja pessoalmente ou via telefone).
+       A iniciativa mais relevante foi a criação dos primeiros Serviços de Atendimento ao Cidadão
+       (SACs).
+
+       Entrega de serviços via internet (a partir de 1999): utilizar as tecnologias de internet para
+       fornecer serviços ao cidadão. Através da internet, são disponibilizados ao cidadão, de forma
+       integral, diversos serviços. Além disso, aumenta-se a transparência e a accountability.
+
+O governo eletrônico começou a ganhar bastante visibilidade a partir do final da década de 1990
+e, nos últimos anos, vem crescendo de forma acelerada em vários órgãos de governo.
+
+O Programa de Governo Eletrônico do Estado brasileiro surgiu no ano 2000, quando o Decreto
+Presidencial de 03 de abril de 2000, instituiu um Grupo de Trabalho Interministerial para examinar
+e propor políticas, diretrizes e normas relacionadas com as novas formas eletrônicas de interação.
+Esse Grupo de Trabalho em Tecnologia da Informação (GTTI) concentrou esforços em três linhas:
+Universalização de serviços; Governo ao alcance de todos; e Infraestrutura avançada.
+
+Posteriormente, o Decreto de 18 de Outubro de 2000, criou o Comitê Executivo de Governo
+Eletrônico (CEGE), com os objetivos de formular políticas, estabelecer diretrizes, coordenar e
+articular as ações de implantação do Governo Eletrônico, direcionando-o para a prestação de
+serviços e informações ao cidadão.
+
+        Receita Federal (Analista Tributário) Administração Pública                               11
+        www.estrategiaconcursos.com.br                                                            49
+                                                                                              9
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+2 – Fundamentos e Diretrizes do Governo Eletrônico
+
+No Brasil, a política de Governo Eletrônico segue um conjunto de diretrizes que atuam em 03
+frentes fundamentais:
+
+          -Junto ao cidadão;
+          -Na melhoria da própria gestão interna do Estado e;
+          -Na integração com parceiros e fornecedores.
+
+Uma outra forma de dizer (e que também está correta) é que a política de Governo Eletrônico
+segue um conjunto de diretrizes baseado em 03 ideias fundamentais (ou fundamentos):
+
+           -Participação cidadã (Participação do cidadão);
+           -Melhoria da própria gestão interna do Estado;
+           -Integração com parceiros e fornecedores.
+
+Perceba que, ao invés de utilizar o termo “atuam em 03 frentes fundamentais”, a expressão
+utilizada foi “baseado em 03 ideias fundamentais”. A redação ficou um pouco diferente, mas o
+significado é o mesmo.
+
+As questões de prova cobram das duas maneiras. Cada vez as bancas utilizam uma forma
+diferente. Isso acontece pois os documentos do Governo Federal utilizam esses 02 tipos de
+nomenclaturas diferentes (que significam a mesma coisa).
+
+
+Nesse sentido, o CEGE definiu 07 Diretrizes Gerais que servem de referência para estruturar as
+estratégias de governo eletrônico, e que devem ser observadas quando da implementação e
+operação do governo eletrônico. As 07 Diretrizes Gerais definidas pelo CEGE são as seguintes19:
+
+
+1) A prioridade do Governo Eletrônico é a promoção da cidadania
+
+A política de governo eletrônico do governo brasileiro abandona a visão que vinha sendo adotada,
+que apresentava o cidadão-usuário antes de mais nada como “cliente” dos serviços públicos, em
+uma perspectiva de provisão de inspiração neoliberal.
+
+19
+     https://www.governodigital.gov.br/EGD/historico-1/diretrizes
+
+
+            Receita Federal (Analista Tributário) Administração Pública                         12
+            www.estrategiaconcursos.com.br                                                      49
+                                                                                           10
+                                         
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+O deslocamento não é somente semântico. Significa que o governo eletrônico tem como
+referência os direitos coletivos e uma visão de cidadania que não se restringe à somatória dos
+direitos dos indivíduos. Assim, forçosamente incorpora a promoção da participação e do controle
+social e a indissociabilidade entre a prestação de serviços e sua afirmação como direito dos
+indivíduos e da sociedade.
+
+Essa visão, evidentemente, não abandona a preocupação em atender as necessidades e demandas
+dos cidadãos individualmente, mas a vincula aos princípios da universalidade, da igualdade
+perante a lei e da equidade na oferta de serviços e informações.
+
+2) A Inclusão Digital é indissociável do Governo Eletrônico
+
+A Inclusão digital deve ser tratada como um elemento constituinte da política de governo
+eletrônico, para que esta possa configurar-se como política universal. Esta visão funda-se no
+entendimento da inclusão digital como direito de cidadania e, portanto, objeto de políticas
+públicas para sua promoção.
+
+Entretanto, a articulação à política de governo eletrônico não pode levar a uma visão instrumental
+da inclusão digital. Esta deve ser vista como estratégia para construção e afirmação de novos
+direitos e consolidação de outros pela facilitação de acesso a eles. Não se trata, portanto, de
+contar com iniciativas de inclusão digital somente como recurso para ampliar a base de usuários (e,
+portanto, justificar os investimentos em governo eletrônico), nem reduzida a elemento de
+aumento da empregabilidade de indivíduos ou de formação de consumidores para novos tipos ou
+canais de distribuição de bens e serviços.
+
+Além disso, enquanto a inclusão digital concentra-se apenas em indivíduos, ela cria benefícios
+individuais mas não transforma as práticas políticas. Não é possível falar de práticas políticas sem
+que se fale também da utilização da tecnologia da informação pelas organizações da sociedade
+civil em suas interações com os governos, o que evidencia o papel relevante da transformação
+dessas mesmas organizações pelo uso de recursos tecnológicos.
+
+3) O Software Livre é um recurso estratégico para a implementação do Governo Eletrônico
+
+O software livre deve ser entendido como opção tecnológica do governo federal. Sempre que
+possível, deve ser promovida sua utilização. Para tanto, deve-se priorizar soluções, programas e
+serviços baseados em software livre que promovam a otimização de recursos e investimentos em
+tecnologia da informação. Entretanto, a opção pelo software livre não pode ser entendida
+somente como motivada por aspectos econômicos, mas pelas possibilidades que abre no campo
+da produção e circulação de conhecimento, no acesso a novas tecnologias e no estímulo ao
+desenvolvimento de software em ambientes colaborativos e ao desenvolvimento de software
+nacional.
+
+A escolha do software livre como opção prioritária onde cabível, encontra suporte também na
+preocupação em garantir ao cidadão o direito de acesso aos serviços públicos sem obrigá-lo a
+usar plataformas específicas.
+
+        Receita Federal (Analista Tributário) Administração Pública                                13
+        www.estrategiaconcursos.com.br                                                             49
+                                                                                              11
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+     Software livre é um software que pode ser executado, copiado, modificado, distribuído,
+     estudado e melhorado pelos usuários gratuitamente. Os usuários possuem livre acesso
+     ao código-fonte do software e podem fazer alterações conforme as suas necessidades.
+
+4) A gestão do conhecimento é um instrumento estratégico de articulação e gestão das políticas
+públicas do Governo Eletrônico
+
+A Gestão do Conhecimento é compreendida, no âmbito das políticas de governo eletrônico, como
+um conjunto de processos sistematizados, articulados e intencionais, capazes de assegurar a
+habilidade de criar, coletar, organizar, transferir e compartilhar conhecimentos estratégicos que
+podem servir para a tomada de decisões, para a gestão de políticas públicas e para inclusão do
+cidadão como produtor de conhecimento coletivo.
+
+5) O Governo Eletrônico deve racionalizar o uso de recursos
+
+O governo eletrônico não deve significar aumento dos dispêndios do governo federal na
+prestação de serviços e em tecnologia da informação. Ainda que seus benefícios não possam ficar
+restritos a este aspecto, é inegável que deve produzir redução de custos unitários e racionalização
+do uso de recursos.
+
+Grande parte das iniciativas de governo eletrônico pode ser realizada através do
+compartilhamento de recursos entre órgãos públicos. Este compartilhamento pode se dar tanto
+no desenvolvimento quanto na operação de soluções, inclusive através do compartilhamento de
+equipamentos e recursos humanos. Deve merecer destaque especial o desenvolvimento
+compartilhado em ambiente colaborativo, envolvendo múltiplas organizações.
+
+6) O Governo Eletrônico deve contar com um arcabouço integrado de políticas, sistemas,
+padrões e normas
+
+O sucesso da política de governo eletrônico depende da definição e publicação de políticas,
+padrões, normas e métodos para sustentar as ações de implantação e operação do Governo
+Eletrônico que cubram uma série de fatores críticos para o sucesso das iniciativas.
+
+7) Integração das ações de Governo Eletrônico com outros níveis de governo e outros poderes
+
+A implantação do governo eletrônico não pode ser vista como um conjunto de iniciativas de
+diferentes atores governamentais que podem manter-se isoladas entre si. Pela própria natureza do
+governo eletrônico, este não pode prescindir da integração de ações e de informações.
+
+A natureza federativa do Estado brasileiro e a divisão dos Poderes não pode significar obstáculo
+para a integração das ações de governo eletrônico. Cabe ao Governo Federal um papel de
+destaque nesse processo, garantindo um conjunto de políticas, padrões e iniciativas que garantam
+a integração das ações dos vários níveis de governo e dos três Poderes.
+
+        Receita Federal (Analista Tributário) Administração Pública                                14
+        www.estrategiaconcursos.com.br                                                             49
+                                                                                              12
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+Nessa diretriz, um conceito que se destaca é o da interoperabildiade.
+
+         A interoperabiliade se refere à capacidade de sistemas heterogêneos se comunicarem.
+         Ou seja, trata-se da possibilidade de intercambiar informações e serviços, de forma
+         coerente, entre sistemas diferentes. A interoperabilidade conduz à convergência de
+         esforços e cria uma relação sinérgica entre as partes envolvidas.
+
+
+De acordo com o Governo Federal20, “a interoperabilidade pode ser entendida como uma
+característica que se refere à capacidade de diversos sistemas e organizações trabalharem em
+conjunto (interoperar) de modo a garantir que pessoas, organizações e sistemas computacionais
+interajam para trocar informações de maneira eficaz e eficiente.”
+
+
+3 – Aplicação do Governo Eletrônico (Relacionamentos Existentes com as
+TICs)
+
+O e-commerce (comércio eletrônico) cresce a cada dia mais. No comércio eletrônico privado, são
+encontrados, basicamente, três tipos de negócios eletrônicos (a depender dos atores envolvidos):
+
+           B2C (Business to Consumer): trata-se das transações efetuadas entre as empresas e os
+           consumidores finais. Por exemplo: lojas virtuais como americanas.com, etc.
+
+           B2B (Business to Business): trata-se das transações efetuadas entre empresas.
+
+           C2C (Consumer to Consumer): trata-se das transações efetuadas entre consumidores finais.
+           Por exemplo: sites de leilões, classificados online, etc.
+
+No que se refere ao setor público, as transações envolvendo o governo envolvem 03 atores
+principais: o governo, os cidadãos e as empresas. Nesse sentido, as relações entre esses 03 atores,
+por meio das TICs, podem se dar das seguintes maneiras:
+
+           -G2C (Government to Citizen/Consumer) – Governo para Cidadão/Consumidor: são
+           transações que envolvem o governo e o cidadão. Através da utilização das TICs, o governo
+           atende diretamente aos cidadãos, com o objetivo de prestar os serviços públicos com maior
+           eficiência e aumentar a qualidade dos serviços públicos.
+
+           A interação entre o governo e os cidadãos pode se dar através da disponibilização de
+           informações, prestação de serviços, participação do cidadão na gestão pública, etc.
+
+           Por exemplo: pagamento de impostos pela internet, declarações de imposto de renda pela
+           internet, utilização de urnas eletrônicas, etc.
+
+
+20
+     https://www.governodigital.gov.br/transformacao/compras/orientacoes/interoperabilidade
+
+
+            Receita Federal (Analista Tributário) Administração Pública                             15
+            www.estrategiaconcursos.com.br                                                          49
+                                                                                               13
+                                           
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       -G2B (Government to Business) – Governo para Empresas/Negócios: trata-se das transações
+       que envolvem o governo e as empresas. Através da utilização das TICs, o governo se
+       relaciona com seus fornecedores de produtos e serviços, com o objetivo de reduzir os
+       custos das aquisições, reduzir o “tempo” das aquisições, viabilizar negócios e promover o
+       desenvolvimento de determinados segmentos.
+
+       A interação entre o governo e as empresas pode se dar através da realização de licitações,
+       divulgação de compras governamentais, cadastro de fornecedores, etc.
+
+       Por exemplo: o portal “comprasgovernamentais.gov”.
+
+       -G2G (Government to Government) – Governo para Governo: trata-se das transações que
+       entre o próprio governo (intragoverno). Através da utilização das TICs, os Órgãos e
+       Entidades da administração pública se relacionam entre si. Esse relacionamento pode ser de
+       duas formas:
+
+               Transações Horizontais: Órgãos e Entidades do mesmo Ente Federativo se
+               relacionam entre si. Por exemplo: Ministério da Saúde (Governo Federal) se
+               relacionando com a Secretaria de Vigilância em Saúde (Governo Federal).
+
+               Transações Verticais: Órgãos e Entidades de diferentes Entes Federativos se
+               relacionam entre si. Por exemplo: Ministério da Saúde (Governo Federal) se
+               relacionando com o Hospital das Clínicas de São Paulo (Governo Estadual).
+
+Além dessas formas de relacionamento, alguns autores ainda destacam mais uma:
+
+       -G2E (Government to Employee) – Governo para Servidor/Empregado: trata-se das
+       transações que envolvem o governo e os seus servidores/empregados públicos. Através da
+       utilização das TICs, o governo se relaciona com seus servidores/empregados, com o objetivo
+       de fornecer informações e serviços. Por exemplo: intranet do Órgão.
+
+
+                                                        Governo
+
+                                                   G2G
+                                                                          G2C
+                        Negócios /                                               Cidadão /
+                        Empresas                      GOVERNO                   Consumidor
+                                          G2B
+                                                                  G2E
+
+
+                                                        Servidor /
+                                                       Funcionário
+
+        Receita Federal (Analista Tributário) Administração Pública                               16
+        www.estrategiaconcursos.com.br                                                            49
+                                                                                             14
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+4 – Projetos e Sistemas de Governo Eletrônico no Brasil
+
+No Brasil, dentre os projetos de governo eletrônico destacam-se os seguintes:
+
+       Compras Eletrônicas Governamentais: É o portal utilizado pelo governo federal para
+       disponibilização e acompanhamento de informações referentes às compras
+       governamentais. Trata-se do portal onde se dá o cadastro dos fornecedores, e onde há
+       informações sobre contratações, licitações, processos de aquisição de bens, etc. Tem por
+       objetivo ampliar, desburocratizar e dar maior transparência às compras governamentais,
+       além de ampliar a acessibilidade às informações relativas às licitações. Atualmente, esse é o
+       site: https://www.comprasgovernamentais.gov.br
+
+       Inclusão Digital: Trata-se de iniciativas sociais, que tem por objetivo possibilitar que as
+       pessoas menos abastadas tenham acesso aos instrumentos e aos conhecimentos
+       necessários ao acesso à internet e ao governo eletrônico.
+
+       ePWG: Os Padrões Web em Governo Eletrônico (ePWG) são recomendações de boas
+       práticas agrupadas em formato de cartilhas com o objetivo de aprimorar a comunicação e o
+       fornecimento de informações e serviços prestados por meios eletrônicos pelos órgãos do
+       Governo Federal.
+
+       eMAG: O Modelo de Acessibilidade em Governo Eletrônico (eMAG) consiste em um
+       conjunto de recomendações a ser considerado para que o processo de acessibilidade dos
+       sítios e portais do governo brasileiro seja conduzido de forma padronizada e de fácil
+       implementação.
+
+       ePING: A arquitetura de Padrões de Interoperabilidade (ePing) define um conjunto mínimo
+       de premissas, políticas e especificações técnicas que regulamentam a utilização da
+       Tecnologia de Informação e Comunicação no Governo Federal, estabelecendo as condições
+       de interação com os demais Poderes e esferas de governo e com a sociedade em geral.
+
+       Segurança da Informação e Comunicações: compreende um conjunto de ações que buscam
+       proteger e preservar os ativos de informação, assegurando-lhes disponibilidade,
+       integridade, confidencialidade e autenticidade.
+
+       Portal da Transparência: Trata-se do site onde o cidadão pode encontrar diversas
+       informações referentes às receitas públicas, despesas públicas, lotação e remuneração de
+       servidores, etc.
+
+       Certificação Digital: O Certificado Digital funciona como uma identidade virtual que permite
+       a identificação segura e inequívoca do autor de uma mensagem ou transação feita em
+       meios eletrônicos, através da utilização de chaves públicas. Possui mecanismos de
+       segurança capazes de garantir autenticidade, confidencialidade e integridade às
+
+        Receita Federal (Analista Tributário) Administração Pública                                17
+        www.estrategiaconcursos.com.br                                                             49
+                                                                                              15
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       informações eletrônicas. Serve para assegurar as transações on-line. Portanto, é um
+       instrumento fundamental para o Governo Eletrônico.
+
+       Cartão Magnético: O governo utiliza cartões magnéticos para pagamentos de auxílios
+       (como, por exemplo, o Bolsa-família). Com isso, além de maior controle sobre os programas
+       de auxílio, o governo também reduz seus custos.
+
+Por sua vez, dentre os sistemas de governo eletrônico destacam-se os seguintes:
+
+       SIAPE (Sistema Integrado de Administração de Pessoal): É um sistema de abrangência
+       nacional criado com a missão de integrar todas as plataformas de gestão da folha de
+       pessoal dos servidores públicos federais. Hoje, o SIAPE é um dos principais sistemas
+       estruturadores do governo e é responsável pela produção das folhas de pagamento dos
+       mais de 200 órgãos federais. Todos os órgãos das administrações direta, fundacional e
+       autárquica do poder executivo federal (e que dependem do tesouro para fazer frente a suas
+       despesas de pessoal) integram o SIAPE.
+
+       SIAFI (Sistema Integrado de Administração Financeira do Governo Federal): consiste no
+       principal instrumento utilizado para registro, acompanhamento e controle da execução
+       orçamentária, financeira e patrimonial do Governo Federal.
+
+       SIASG (Sistema Integrado de Administração de Serviços Gerais) / Compras.gov.br: É o
+       sistema utilizado para facilitar e agilizar os processos de compra e aquisição de materiais e
+       serviços do Governo Federal. Sua finalidade é integrar os órgãos da Administração Pública
+       Federal direta, autárquica e fundacional. O Sistema inclui: Divulgação e a realização das
+       licitações; Emissão de notas de empenho; Registro dos contratos administrativos;
+       Catalogação de materiais e serviços; Cadastro de fornecedores. É um portal que oferece
+       serviços ao próprio governo, aos fornecedores e aos cidadãos.
+
+       SISCONV (Sistema de Convênio): Foi criado para administrar as transferências voluntárias
+       de recursos da União nos convênios firmados com estados, municípios, Distrito Federal e
+       também com as entidades privadas sem fins lucrativos. Entre as vantagens desta
+       ferramenta está a agilidade na efetivação dos contratos, a transparência do repasse do
+       dinheiro público e a qualificação da gestão financeira.
+
+       DOU (Diário Oficial da União): É um dos principais veículos de comunicação utilizados
+       pela Imprensa Nacional, com o objetivo de tornar público todo e qualquer assunto acerca
+       do âmbito federal. Atualmente, só pode ser acessado pela internet.
+
+4.1 – SEI (Sistema Eletrônico de Informações)
+
+O Sistema Eletrônico de Informações (SEI) foi desenvolvido pelo Tribunal Regional Federal da 4ª
+Região (TRF4), e consiste em uma ferramenta de gestão de documentos e processos eletrônicos,
+e tem como objetivo promover a eficiência administrativa.
+
+        Receita Federal (Analista Tributário) Administração Pública                                18
+        www.estrategiaconcursos.com.br                                                             49
+                                                                                              16
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+De acordo com o Governo Federal, “trata-se de um sistema de gestão de processos e documentos
+eletrônicos, com práticas inovadoras de trabalho, tendo como principais características a
+libertação do paradigma do papel como suporte analógico para documentos institucionais e o
+compartilhamento do conhecimento com atualização e comunicação de novos eventos em tempo
+real.”21
+
+Ou seja, o objetivo do SEI é “substituir” os documentos e processos “físicos” (isto é, a “papelada”),
+por um sistema eletrônico que faça a gestão de todos esses documentos e processos.
+
+Portanto, trata-se de uma plataforma que envolve um conjunto de módulos e funcionalidades
+que buscam promover maior eficiência administrativa.
+
+O SEI integra o Processo Eletrônico Nacional (PEN), uma iniciativa conjunta de órgãos e entidades
+de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública
+                                                             ==219a34==
+
+de processos e documentos administrativos eletrônicos.
+
+O SEI é uma solução cedida gratuitamente para instituições públicas e permite transferir a gestão
+de documentos e de processos eletrônicos administrativos para um mesmo ambiente virtual.
+
+Por conta de suas características inovadoras e do sucesso da prática de cessão da ferramenta, sem
+ônus para outras instituições, o SEI transcendeu a classificação de sistema eletrônico do TRF4,
+para atingir a posição de projeto estratégico para toda a administração pública, amparando-se
+em premissas altamente relevantes e atuais, tais como:22
+
+           -a inovação,
+
+           -a economia do dinheiro público,
+
+           -a transparência administrativa,
+
+           -o compartilhamento do conhecimento produzido e
+
+           -a sustentabilidade.
+
+Nesse sentido, o Governo Federal ressalta que “com a cessão gratuita, a economia do dinheiro
+público é incomensurável, uma vez que as instituições que o adotam deixam de gastar com a
+compra de soluções de mercado que, não raro, não solucionam as demandas para as quais são
+adquiridas. É a inovação advinda da implantação de uma cultura de socialização do conhecimento
+desenvolvido pela administração pública com os outros entes que a compõem. Se tal prática for
+mantida, será inegável que a gestão do orçamento público, a cada dia mais contingenciada, será
+
+21
+     https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei-1
+22
+     https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei-1
+
+            Receita Federal (Analista Tributário) Administração Pública                                                     19
+            www.estrategiaconcursos.com.br                                                                                  49
+                                                                                                                       17
+                                         
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+sensivelmente mais racional. Não há mais espaço para aquisições milionárias quando há soluções
+gratuitas disponíveis.” 23
+
+Vejamos algumas das vantagens e benefícios do SEI, de acordo com o Governo Federal: 24
+
+           Portabilidade: 100% Web e pode ser acessado por meio dos principais navegadores do
+           mercado – Internet Explorer, Firefox e Google Chrome;
+
+           Acesso Remoto: pode ser acessado remotamente por diversos tipos de equipamentos,
+           como microcomputadores, notebooks, tablets e smartphones de vários sistemas
+           operacionais (Windows, Linux, IOS da Apple e Android do Google). Isso possibilita que os
+           usuários trabalhem à distância;
+
+           Acesso de usuários externos: gerencia o acesso de usuários externos, permitindo que
+           tomem conhecimento dos documentos e, por exemplo, assinem remotamente contratos e
+           outros tipos de processos;
+
+           Acompanhamento de processos online;
+
+           Controle de nível de acesso: gerencia a criação e o trâmite de processos e documentos com
+           informações sensíveis, conferindo o acesso somente às unidades envolvidas ou a usuários
+           específicos;
+
+           Tramitação em múltiplas unidades, permitindo a atuação simultânea de diversas unidades
+           em um mesmo processo: incorpora novo conceito de processo eletrônico, que rompe com a
+           tradicional tramitação linear, inerente à limitação física do papel. Com isso, várias unidades
+           podem ser demandadas, tomar providências e manifestar-se simultaneamente;
+
+           Funcionalidades específicas: controle de prazos, ouvidoria, estatísticas da unidade, tempo
+           do processo, base de conhecimento, pesquisa em todo teor, acompanhamento especial,
+           inspeção administrativa, modelos de documentos, textos padrão, sobrestamento de
+           processos, assinatura em bloco, organização de processos em bloco, acesso externo, entre
+           outros;
+
+           Sistema intuitivo: estruturado com boa navegabilidade e usabilidade.
+
+           Redução de custos financeiros e ambientais associados à impressão (impressoras, toner,
+           papel, contratos de impressão);
+
+23
+     https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei-1
+24
+    Baseado especialmente em https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-
+eletronico-de-informacoes-sei-1
+
+            Receita Federal (Analista Tributário) Administração Pública                                                     20
+            www.estrategiaconcursos.com.br                                                                                  49
+                                                                                                                       18
+                                         
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+          Redução de custos operacionais relacionados à entrega e ao armazenamento de
+          documentos e processos;
+
+          Redução do tempo gasto na abertura, manipulação, localização e tramitação de
+          documentos e processos;
+
+          Aumento da produtividade;
+
+          Eliminação de perdas, extravios e destruições indevidos de documentos e processos;
+
+          Compartilhamento simultâneo de documentos e processos, para fins de contribuição,
+          acompanhamento da tramitação ou simples consulta;
+
+          Auxílio aos servidores em sua rotina, com a disponibilização de modelos e orientações
+          sobre como proceder em situações específicas;
+
+          Incremento na publicidade dos processos, tornando mais fácil seu acompanhamento por
+          servidores e por administrados, e o seu controle interno e pela sociedade;
+
+          Ampliação da gestão do conhecimento e da possibilidade de melhoria de processos, em
+          razão da criação de uma plataforma única que permitirá a análise de fluxos de processos,
+          sua comparação entre órgãos distintos e a melhoria baseada em experiências de sucesso;
+
+          Aumento da possibilidade de definição, coleta e utilização direta e cruzada de dados e
+          indicadores, em razão da criação de um conjunto de bases de dados de mesma natureza.
+
+          Sem ônus para a Instituição Pública: O SEI é uma solução cedida gratuitamente para as
+          instituições públicas.
+
+          Melhoria nos fluxos de trabalho e agilidade na tramitação.
+
+5 – Governança Eletrônica (E-Governance)
+
+Governança consiste na forma pela qual o Governo exerce o seu poder; ou ainda, a forma com que
+os recursos do Estado são gerenciados pelo Governo. Trata-se da capacidade do Governo de
+formular e implantar políticas públicas.
+
+De acordo com a UNESCO25, “a governança eletrônica pode ser entendida como o desempenho
+dessa governança por meio eletrônico, a fim de facilitar um processo eficiente, rápido e
+
+25
+     http://portal.unesco.org/ci/en/ev.php-URL_ID=4404&URL_DO=DO_TOPIC&URL_SECTION=201.html
+
+
+           Receita Federal (Analista Tributário) Administração Pública                              21
+           www.estrategiaconcursos.com.br                                                           49
+                                                                                               19
+                                        
+
+
+---
+
+      Stefan Fantini
+      Aula 04
+
+transparente de disseminar informações ao público e a outras agências e para executar
+atividades de administração governamental”.
+
+Para a UNESCO, a governança eletrônica é considerada um conceito mais amplo que o governo
+eletrônico, pois pode provocar uma mudança na maneira como os cidadãos se relacionam com os
+governos e entre si. A governança eletrônica pode trazer novos conceitos de cidadania, tanto em
+termos de necessidades e responsabilidades dos cidadãos. Seu objetivo é envolver, capacitar e
+emponderar o cidadão.26
+
+Portanto, o que se percebe, é que a Governança Eletrônica é um elemento-chave para a
+existência de um governo eletrônico, pois, sem aquela, o que existe é apenas a informatização de
+alguns serviços públicos (o que poderia ser considerado uma “versão restrita” de Governo
+Eletrônico).27
+
+De acordo com a UNESCO, os campos de implementação da Governança Eletrônica são os
+seguintes:
+
+            Administração eletrônica (e-administration): refere-se à melhoria dos processos
+            governamentais e do funcionamento interno do setor público, através da utilização das
+            novas tecnologias de informação e comunicação (TICs).
+
+            Serviços eletrônicos (e-services): refere-se à melhoria da prestação de serviços públicos aos
+            cidadãos. Por exemplo: solicitações de documentos públicos, emissão de permissões e
+            licenças, etc.
+
+            Democracia eletrônica (e-democracy): refere-se a maior e mais ativa participação e
+            envolvimento do cidadão no processo de tomada de decisões governamentais, através da
+            utilização das TICs.
+
+6 – Governo Digital
+
+O uso intensivo as Tecnologias da Informação e Comunicação (TICs), fez com que surgisse uma
+nova forma de os governos interagirem com a sociedade. A utilização das TICs possibilitou aos
+cidadãos uma maior conveniência e comodidade no acesso e na utilização de serviços
+governamentais, o que ficou conhecido como governo eletrônico (e-Gov).
+
+26
+     http://portal.unesco.org/ci/en/ev.php-URL_ID=4404&URL_DO=DO_TOPIC&URL_SECTION=201.html
+27
+     Ibid
+
+
+             Receita Federal (Analista Tributário) Administração Pública                                22
+             www.estrategiaconcursos.com.br                                                             49
+                                                                                                   20
+                                          
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+Com a crescente e acentuada evolução das tecnologias, o Governo Eletrônico foi sendo substituído
+pelo Governo Digital. Com o objetivo de modernizar a administração do Estado Brasileiro, o
+governo digital, através da Tecnologia da Informação, reconstrói processos e utiliza dados
+disponíveis para otimizar e transformar os serviços públicos aos olhos do cidadão, além de reduzir
+a burocracia.28
+
+Nesse sentido, o Governo Federal ressalta que, “desde o ano 2000, o governo brasileiro tem
+buscado evoluir seus processos e a prestação de serviços públicos com o auxílio das Tecnologias da
+Informação e Comunicação (TIC). O Programa de Governo Eletrônico iniciou no Brasil uma série de
+adaptações, inovações e desafios para a realização da melhoria da qualidade do serviço público.
+
+Diversas políticas e iniciativas foram realizadas até 2016, mas com a publicação da Estratégia de
+Governança Digital (EGD), foi implantado um novo paradigma de gestão pública e das relações
+entre o Estado brasileiro e a Sociedade. Desburocratização, modernização do Estado, simplificação
+de processos, melhoria no acesso à informação pública, transparência, melhoria nos atendimentos
+e racionalização de gastos públicos são alguns avanços que a política de governança eletrônica e
+digital proporcionaram.” 29
+
+Portanto, de acordo com o Governo Federal, foi a partir de 2015 “que o paradigma de governo
+eletrônico trouxe a informatização dos processos internos de trabalho (visão interna), evoluindo
+para o conceito de governo digital, cujo foco têm como centro a relação com a sociedade (visão
+do cidadão), a fim de tornar-se mais simples, mais acessível e mais eficiente na oferta de serviços
+ao cidadão por meio das tecnologias digitais.” 30
+
+Desta forma, em janeiro de 2016, “com a publicação do Decreto n.° 8.638, foi instituída a Política
+de Governança Digital para o Poder Executivo Federal e atribuiu-se ao Ministério do
+Planejamento, à época, a responsabilidade pela elaboração da Estratégia de Governança Digital
+(EGD) da administração pública federal. “31
+
+Vale dizer que a primeira versão da Estratégia de Governança Digital (EGD) foi publicada em
+março de 2016, sendo revisada em maio de 2018, com o detalhamento das ações e indicadores
+para 03 (três) eixos estratégicos: 32
+
+          a) Acesso à Informação
+
+          b) Prestação de Serviços
+
+          c) Participação Social
+
+28
+   https://portal.tcu.gov.br/fiscalizacao-de-tecnologia-da-informacao/atuacao/governo-digital/
+29
+    Extraído de: Do Eletrônico ao Digital, disponível em https://www.gov.br/governodigital/pt-br/estrategia-de-governanca-
+digital/do-eletronico-ao-digital
+30
+   ibid
+31
+   ibid
+32
+   ibid
+
+           Receita Federal (Analista Tributário) Administração Pública                                                  23
+           www.estrategiaconcursos.com.br                                                                               49
+                                                                                                                   21
+                                        
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+A Estratégia de Governança Digital tem por objetivo “convergir esforços, compartilhamento de
+infraestruturas, sistemas e serviços dos órgãos federais com as iniciativas de governo digital, assim
+como articular para sensibilizar os gestores do Governo Federal sobre as oportunidades trazidas
+pelas novas tecnologias e a importância de coordenar os investimentos para acelerar a
+transformação digital.” 33
+
+Em 2018, por sua vez, o governo brasileiro publicou a Estratégia Brasileira para a Transformação
+Digital (E-Digital), “documento central da política pública que apresenta um amplo diagnóstico
+dos desafios a serem enfrentados e uma visão de futuro para a transformação digital da
+economia, do governo e da sociedade brasileira. O documento traz a conclusão de uma jornada
+iniciada a partir de uma recomendação do Conselho de Desenvolvimento Econômico e Social
+(CDES), refletindo o amplo engajamento entre o setor produtivo, a comunidade científica e a
+sociedade civil. A E-Digital é organizada em dois eixos - Economia Digital e Governo Digital - e
+apresenta com detalhes 100 ações de curto e médio prazo para que o Brasil acelere a sua própria
+transformação.” 34
+
+Em 2019, a transformação digital dos serviços públicos ocorreu em um ritmo mais acelerado e,
+mediante o esforço conjunto do governo, mais de 500 serviços públicos digitais foram entregues à
+população brasileira.
+
+Em 2020, por meio do Decreto 10.332/2020, o Governo lança a Estratégia de Governo Digital para
+o período de 2020 a 2022 que foi organizada em princípios, objetivos e iniciativas que nortearão a
+transformação do governo por meio de tecnologias digitais. O Governo buscou, com essa
+estratégia, oferecer políticas públicas e serviços de melhor qualidade, mais simples, acessíveis a
+qualquer hora e lugar e a um custo menor para o cidadão. Com a nova Estratégia de Governo
+Digital, o Estado brasileiro sinaliza um esforço ainda mais vigoroso e colaborativo para enfrentar
+possíveis desafios e entregar muito mais serviços digitais à população. O que se pretende é
+melhorar ainda mais o nível de confiança no governo e sua relação com os cidadãos por meio do
+digital.”35
+
+O Decreto 10.332/2020, além de legitimar, dá publicidade ao plano estratégico junto a todos os
+órgãos da administração pública e à sociedade.
+
+Nesse sentido, o Decreto 10.332/2020 previa, em seu art. 6-A, que o período de vigência da
+Estratégia de Governo Digital será de 04 anos, coincidente com o período de vigência do Plano
+Plurianual (PPA).
+
+33
+     ibid
+34
+   Extraído de: Do Eletrônico ao Digital, disponível em https://www.gov.br/governodigital/pt-
+br/estrategia-de-governanca-digital/do-eletronico-ao-digital
+35
+   Extraído de: Do Eletrônico ao Digital, disponível em https://www.gov.br/governodigital/pt-
+br/estrategia-de-governanca-digital/do-eletronico-ao-digital
+
+
+            Receita Federal (Analista Tributário) Administração Pública                             24
+            www.estrategiaconcursos.com.br                                                          49
+                                                                                               22
+                                         
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+Em 2022 foi publicado o Decreto 11.260/2022, que dispôs sobre a elaboração e o
+encaminhamento da Estratégia Nacional de Governo Digital e prorrogou o período de vigência da
+Estratégia de Governo Digital (instituída pelo Decreto nº 10.332, de 28 de abril de 2020) para o
+período de 2020 a 2023.
+
+Em 2024, houve a publicação do Decreto 12.069/2024, que dispõe sobre a Estratégia Nacional de
+Governo Digital e a Rede Nacional de Governo Digital - Rede Gov.br e institui a Estratégia
+Nacional de Governo Digital para o período de 2024 a 2027.
+
+Por derradeiro, também em 2024, por meio do Decreto 12.198/2024, o Governo instituiu a
+Estratégia Federal de Governo Digital para o período de 2024 a 2027 e a Infraestrutura Nacional
+de Dados, no âmbito dos órgãos e das entidades da administração pública federal direta,
+autárquica e fundacional.
+
+O Tribunal de Contas da União (TCU) destaca que, “por meio da Secretaria de Fiscalização de
+Tecnologia da Informação (Sefti), avaliou o uso das tecnologias digitais pelo governo (Governo
+Digital), como parte de sua estratégia de modernização para melhorar a oferta de serviços
+públicos à sociedade.
+
+Entre as principais conclusões da auditoria está a ausência de identificação única do cidadão, o
+que se traduz em multiplicidade de cadastros de usuários, e a dificuldade em integração entre os
+sistemas, o que obriga a entrega de informações e documentos já de posse do estado. A auditoria
+foi formalizada pelo Acórdão 1.469/2017-TCU- Plenário, da relatoria do ministro Benjamin
+Zymler.” 36
+
+Por fim, vale dizer que os objetivos a serem alcançados, por meio da Estratégia de Governo Digital
+incluem:
+
+          - oferecer serviços públicos digitais simples e intuitivos, consolidados em plataforma única
+          e com avaliação de satisfação disponível;
+
+          - conceder acesso amplo à informação e aos dados abertos governamentais, para
+          possibilitar o exercício da cidadania e a inovação em tecnologias digitais;
+
+
+36
+     https://portal.tcu.gov.br/fiscalizacao-de-tecnologia-da-informacao/atuacao/governo-digital/
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                  25
+           www.estrategiaconcursos.com.br                                                               49
+                                                                                                   23
+                                        
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+          - promover a integração e a interoperabilidade das bases de dados governamentais;
+
+          - promover políticas públicas baseadas em dados e evidências e em serviços preditivos e
+          personalizados, com utilização de tecnologias emergentes;
+
+          - implementar a Lei Geral de Proteção de Dados, no âmbito do Governo federal, e garantir
+          a segurança das plataformas de governo digital;
+
+          - disponibilizar a identificação digital ao cidadão;
+
+          - adotar tecnologia de processos e serviços governamentais em nuvem como parte da
+          estrutura tecnológica dos serviços e setores da administração pública federal;
+
+          - otimizar as infraestruturas de tecnologia da informação e comunicação; e
+
+          - formar equipes de governo com competências digitais.
+
+6.1 – Decreto 12.069, de 21 de junho de 2024
+
+O Decreto 12.069/2024 dispõe sobre a Estratégia Nacional de Governo Digital e sobre a Rede
+Nacional de Governo Digital - Rede Gov.br, bem como institui a Estratégia Nacional de Governo
+Digital para o período de 2024 a 2027.37
+
+Estratégia Nacional de Governo Digital
+
+Primeiramente, vejamos alguns pontos que o Decreto 12.069/2024 traz sobre a Estratégia
+Nacional de Governo Digital (estratégia “genérica”, ou seja, não vinculada apenas ao período de
+2024 a 2027).
+
+A Estratégia Nacional de Governo Digital articulará e direcionará estratégias de transformação
+digital da administração pública na União, nos Estados, no Distrito Federal e nos Municípios (ou
+seja, a Estratégia Nacional é direcionada a todos os Entes da Federação)
+
+O art. 3º do Decreto 12.069/2024, prevê que a Estratégia Nacional de Governo Digital buscará
+contribuir para o alcance dos Objetivos de Desenvolvimento Sustentável - ODS da Agenda 2030
+
+37  As informações a seguir foram ora transcritas ora reescritas de BRASIL. Decreto 12.069, de 21 de junho de 2024. Disponível em:
+https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12069.htm
+
+           Receita Federal (Analista Tributário) Administração Pública                                                          26
+           www.estrategiaconcursos.com.br                                                                                       49
+                                                                                                                           24
+                                         
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+da Organização das Nações Unidas e incentivará os entes federativos a considerarem o alcance
+dos ODS nos objetivos de suas estratégias de governo digital.
+
+O art. 4º, por sua vez, traz alguns conceitos importantes:
+
+       I - governo digital: abordagem de gestão voltada para a transformação das organizações
+       públicas, apoiada no uso de tecnologias digitais, com vistas à entrega de valor público para
+       a sociedade, mediante o aprimoramento dos seus processos, da prestação de serviços
+       públicos e da execução de políticas públicas;
+
+       II - transformação digital de governo: utilização de tecnologias digitais para o atendimento
+       eficiente do cidadão, a integração de serviços e de políticas públicas e a promoção da
+       transparência, com vistas a inserir o Estado de maneira mais eficaz no ambiente digital e
+       torná-lo mais dinâmico e próximo da população; e
+
+       III - infraestruturas públicas digitais – IPD: soluções estruturantes de aplicação transversal,
+       que adotam padrões de tecnologia em rede construídos para o interesse público, seguem
+       os princípios da universalidade e da interoperabilidade, permitem o uso por diversas
+       entidades dos setores público e privado e podem integrar serviços em canais físicos e
+       digitais.
+
+De acordo com o art. 6º, a Estratégia Nacional de Governo Digital será reeditada quadrienalmente
+(de 04 em 04 anos), com vigência coincidente com o período de vigência do Plano Plurianual, e
+revista ao menos (02) dois anos após sua edição.
+
+O Decreto prevê, ainda, que a Secretaria de Governo Digital do Ministério da Gestão e da
+Inovação em Serviços Públicos promoverá a articulação necessária às eventuais edições e revisões
+da Estratégia Nacional de Governo Digital, que serão precedidas da articulação e da participação
+de agentes públicos dos diversos níveis dos entes federativos e de representantes da sociedade
+civil, do setor acadêmico e do setor privado.
+
+Estratégia Nacional de Governo Digital para o período de 2024 a 2027
+
+Agora, vejamos alguns pontos que o Decreto 12.069/2024 traz sobre a Estratégia Nacional de
+Governo Digital para o período de 2024 a 2027.
+
+O art. 8º destaca que a Estratégia Nacional de Governo Digital para o período de 2024 a 2027 tem
+como objetivo geral a busca de um Estado mais inclusivo, eficaz, proativo, participativo e
+sustentável, em especial por meio:
+
+
+        Receita Federal (Analista Tributário) Administração Pública                                  27
+        www.estrategiaconcursos.com.br                                                               49
+                                                                                                25
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       I - da oferta de soluções que atendam às necessidades da sociedade e reconheçam as
+       desigualdades sociais e as barreiras de acesso aos serviços públicos;
+
+       II - da adaptação de seus processos às demandas atuais da sociedade, com inovação, uso
+       adequado de tecnologias, reuso seguro de dados e melhor aplicação dos recursos públicos;
+       e
+
+       III - da transparência, do acesso à informação, da participação social na formulação de
+       políticas públicas e da promoção do desenvolvimento sustentável.
+
+De acordo com o art. 9º, são objetivos específicos da Estratégia Nacional de Governo Digital para
+o período de 2024 a 2027:
+
+       I - qualificar a gestão e a governança das políticas de governo digital, de modo a promover a
+       colaboração entre a União, os Estados, o Distrito Federal e os Municípios;
+
+       II - aprimorar a qualidade dos serviços públicos com abordagem inclusiva, acessível e
+       proativa, em canais integrados de atendimento, com atenção à experiência dos usuários;
+
+       III - implementar e manter solução estruturante de identificação única e nacional, associada
+       à Carteira de Identidade Nacional, com segurança, ampla disponibilidade e validade para
+       todos os entes federativos;
+
+       IV - ampliar a resiliência e a maturidade das estruturas tecnológicas governamentais, com
+       atenção à privacidade, à proteção de dados pessoais, à segurança da informação e à
+       segurança cibernética;
+
+       V - qualificar a tomada de decisões e a oferta de serviços nas organizações públicas com o
+       reúso constante e ético dos dados disponíveis para análises, interoperabilidade e
+       personalização;
+
+       VI - dispor de infraestrutura moderna, segura, escalável e robusta, considerados os
+       princípios de sustentabilidade, para a implantação e a evolução de soluções de governo
+       digital, de modo a promover soluções estruturantes compartilhadas, o uso de padrões
+       comuns e a integração entre os entes federativos;
+
+       VII - estimular e promover o desenvolvimento do ecossistema de inovação e o uso de
+       tecnologias emergentes de governo digital, com a participação dos entes federativos e da
+       sociedade;
+
+       VIII - otimizar e promover a eficiência dos processos das organizações públicas por meio da
+       racionalização de procedimentos e do compartilhamento de soluções para problemas
+       comuns;
+
+
+        Receita Federal (Analista Tributário) Administração Pública                                28
+        www.estrategiaconcursos.com.br                                                             49
+                                                                                              26
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       IX - contribuir para ampliar a abertura e a transparência das organizações públicas e
+       potencializar a colaboração com a sociedade para a entrega de valor público; e
+
+       X - desenvolver competências em governo digital e inovação das pessoas e das equipes nas
+       organizações públicas, de modo a ampliar a atração e a retenção de talentos.
+
+O art. 10 do Decreto 12.069/2024 prevê, ainda, que para o período de 2024 a 2027, serão
+prioridades das ações de transformação digital da administração pública federal e dos integrantes
+da Rede Gov.br:
+
+       I - publicação de estratégias de governo digital no âmbito da União, dos Estados, do
+       Distrito Federal e dos Municípios;
+
+       II - fomento do uso da ferramenta de autenticação da Plataforma gov.br e do Serviço de
+       Identificação do Cidadão;
+
+       III - promoção de programas de articulação e apoio à transformação digital dos Municípios,
+       pelos Estados, por entidades representativas, por consórcios e por outros arranjos
+       cooperativos;
+
+       IV - disponibilização e expansão do uso, em todos os níveis de Governo, de solução pública
+       de processo administrativo eletrônico, baseada no Processo Eletrônico Nacional;
+
+       V - desenvolvimento, implementação e fomento de ações de capacitação continuada para
+       servidores públicos em temáticas de inovação, de governo digital e de governo aberto;
+
+       VI - implementação de iniciativas de transformação digital das políticas e dos serviços
+       públicos de saúde e de educação; e
+
+       VII - apoio ao compartilhamento seguro e transparente de dados entre órgãos da
+       administração pública por meio de plataformas interoperáveis.
+
+O Decreto destaca que a Rede Gov.br apoiará seus integrantes na implementação das prioridades
+estabelecidas para o período de 2024 a 2027.
+
+Rede Nacional de Governo Digital – Rede Gov.br
+
+O Decreto 12.069/2024 dispõe que a Rede Gov.br, de natureza colaborativa, no âmbito da União,
+dos Estados, do Distrito Federal e dos Municípios, tem a finalidade de promover a colaboração, o
+intercâmbio, a articulação e a criação de iniciativas inovadoras relacionadas com a temática de
+governo digital no setor público.
+
+
+        Receita Federal (Analista Tributário) Administração Pública                             29
+        www.estrategiaconcursos.com.br                                                          49
+                                                                                           27
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+Vale dizer que a adesão dos entes federativos à Rede Gov.br será voluntária.
+
+O Decreto destaca, ainda, que a Rede Gov.br deverá atuar em consonância com a Estratégia
+Nacional de Governo Digital e promover a sua governança.
+
+Nesse sentido, de acordo com o art. 12 do Decreto, a estrutura de governança da Rede Gov.br
+será composta:
+
+       I - pela Secretaria de Governo Digital;
+
+       II - por órgão colegiado a ser instituído na forma prevista no art. 19;
+
+               * O art. 19. prevê que ato da autoridade máxima do Ministério da Gestão e da
+               Inovação em Serviços Públicos instituirá órgão colegiado que atuará como instância
+               consultiva da governança da Rede Gov.br para o acompanhamento e proposições
+               relativas à Estratégia Nacional de Governo Digital.
+
+       III - pelos entes federativos que aderirem voluntariamente à Rede Gov.br.
+
+De acordo com o art. 13., compete à Secretaria de Governo Digital, no âmbito da Rede Gov.br:
+
+       I - coordenar a Rede Gov.br e elaborar as diretrizes para a adesão voluntária dos
+       interessados;
+
+       II - estabelecer diretrizes, recomendações, prioridades, políticas, normas e padrões para a
+       implementação, a avaliação e a revisão da Estratégia Nacional de Governo Digital;
+
+       III - editar recomendações e iniciativas prioritárias para o alcance dos objetivos da
+       Estratégia Nacional de Governo Digital, em articulação com o órgão colegiado a que se
+       refere o art. 19;
+
+       IV - articular a oferta de programas e ações de desenvolvimento de habilidades relacionadas
+       com a transformação digital para agentes públicos, em parceria com a Fundação Escola
+       Nacional de Administração Pública - Enap e outras escolas de governo;
+
+       V - estabelecer ações para que os entes federativos editem estratégias de governo digital
+       específicas, no âmbito de suas competências, de forma articulada entre si e com a
+       Estratégia Nacional de Governo Digital;
+
+       VI - estimular e apoiar a criação de redes de conhecimento municipais, estaduais, distrital e
+       regionais de gestores de políticas públicas de inovação e governo digital nas regiões do País;
+
+
+        Receita Federal (Analista Tributário) Administração Pública                                 30
+        www.estrategiaconcursos.com.br                                                              49
+                                                                                               28
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       VII - articular e promover o intercâmbio de experiências, parcerias e estudos entre os
+       integrantes da Rede Gov.br com organizações nacionais e internacionais e com Governos
+       de outros países, nas temáticas de governo digital;
+
+       VIII - articular e promover programas de apoio à transformação digital dos integrantes da
+       Rede Gov.br junto a organizações nacionais, internacionais e multilaterais e agentes de
+       fomento nacionais;
+
+       IX - divulgar ações, ferramentas, planos e projetos associados à Rede Gov.br para os órgãos
+       e as entidades da União, do Distrito Federal, dos Estados e dos Municípios;
+
+       X - firmar parcerias com entidades associativas, organizações acadêmicas, organizações
+       internacionais ou organizações da sociedade, com vistas à consecução dos objetivos da
+       Rede Gov.br.
+
+O Decreto prevê, ainda, que a Secretaria de Governo Digital:
+
+       I - editará normas complementares para a adesão à Rede Gov.br; e
+
+       II - gerenciará a oferta e o uso de soluções compartilhadas e poderá estabelecer requisitos
+       adicionais nesse processo.
+
+Por sua vez, o art. 14 prevê que compete aos entes federativos integrantes da Rede Gov.br:
+
+       I - difundir experiências de políticas públicas de governo digital desenvolvidas em âmbito
+       estadual, distrital e municipal, com priorização de possíveis soluções de problemas comuns
+       aos membros da Rede; e
+
+       II - compartilhar, no âmbito da Rede Gov.br, informações sobre o avanço na
+       implementação da Estratégia Nacional de Governo Digital, das respectivas estratégias de
+       governo digital e das demais iniciativas de digitalização dos serviços públicos, em suas
+       áreas de responsabilidade.
+
+
+O Decreto prevê, ainda, que ao aderir à Rede Gov.br, os entes federativos poderão ter acesso
+gratuito a ferramentas de apoio à transformação digital da Plataforma gov.br e às Infraestruturas
+Públicas Digitais – IPD, quando disponíveis para uso em Governos locais.
+
+Vale dizer, ainda, que no ato da adesão à Rede Gov.br, os entes federativos assumirão os
+compromissos de publicar estratégia de governo digital própria, em consonância com a Estratégia
+Nacional de Governo Digital, e de seguir as recomendações emanadas pela Secretaria de Governo
+Digital.
+
+        Receita Federal (Analista Tributário) Administração Pública                               31
+        www.estrategiaconcursos.com.br                                                            49
+                                                                                             29
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+Por fim, o Governo Federal destaca que compete à Rede Gov.br:38
+
+           - Integrar e coordenar iniciativas comuns de transformação digital no setor público.
+
+           - Promover a aproximação do Estado com o cidadão, as empresas e a sociedade civil, por
+           meio da priorização da oferta de serviços públicos digitais de acordo com interesses e
+           necessidades da sociedade.
+
+           - Estimular a redução de custos e o aumento da agilidade na prestação de serviços públicos.
+
+           - Promover e articular o desenvolvimento e o reuso de soluções colaborativas e de
+           plataformas digitais.
+
+           - Promover a realização de programas de formação e de desenvolvimento de habilidades
+           relacionados à transformação digital para servidores públicos.
+
+Infraestruturas Públicas Digitais – IPD
+
+As Infraestruturas Públicas Digitais – IPD consistem em “soluções estruturantes que adotam
+padrões de tecnologia em rede para o interesse público. Elas são projetadas para serem utilizadas
+por diversas entidades dos setores público e privado, seguindo os princípios de universalidade e
+interoperabilidade. Por exemplo: a Plataforma GOV.BR (que permite a utilização de diversos
+serviços digitais) e o Conecta GOV.BR (que promove a troca automática e segura de informações
+entre diferentes sistemas do governo).”39
+
+O Decreto prevê que a Secretaria de Governo Digital promoverá o desenvolvimento, a
+implementação e o uso das Infraestruturas Públicas Digitais – IPD, em articulação com os outros
+órgãos e entidades da administração pública federal, com os membros da Rede Gov.br, com os
+demais entes federativos e com representantes da sociedade, do setor acadêmico e do setor
+privado.
+
+De acordo com o art. 17, o desenvolvimento e a implementação de Infraestruturas Públicas
+Digitais – IPD priorizarão:
+
+38
+     https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/rede-nacional-de-governo-digital
+39
+     Extraído de https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/estrategianacional/faq/o-que-sao-
+infraestruturas-
+publicas#:~:text=IPDs%20s%C3%A3o%20solu%C3%A7%C3%B5es%20estruturantes%20que,princ%C3%ADpios%20de%20un
+iversalidade%20e%20interoperabilidade.
+
+            Receita Federal (Analista Tributário) Administração Pública                                                  32
+            www.estrategiaconcursos.com.br                                                                               49
+                                                                                                                    30
+                                          
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       I - a busca pela universalização do acesso às suas funcionalidades, com foco em soluções
+       tecnológicas inovadoras e inclusivas centradas nas necessidades das pessoas;
+
+       II - a adoção de padrões tecnológicos interoperáveis, seguros, escaláveis e
+       economicamente sustentáveis a longo prazo;
+
+       III - a promoção do compartilhamento seguro de dados, da transparência ativa e da
+       sustentabilidade ambiental, nos termos do disposto na legislação;
+
+       IV - a integração de canais digitais e físicos; e
+
+       V - o mapeamento prévio de riscos e a tomada de medidas para sua mitigação, a fim de
+       garantir a adoção de práticas de privacidade, proteção de dados e segurança da
+
+O art. 18. prevê que são reconhecidos como Infraestruturas Públicas Digitais – IPD de Identificação
+Civil e serão mantidos e geridos conforme previsto no Decreto, o conjunto de iniciativas previstas:
+
+       I - no Serviço de Identificação do Cidadão; e
+
+       II - na Plataforma gov.br, especificamente quanto:
+
+               a) ao mecanismo de acesso digital único do usuário aos serviços públicos, com nível
+               de segurança compatível com o grau de exigência, natureza e criticidade dos dados e
+               das informações pertinentes ao serviço público solicitado;
+
+               b) ao mecanismo para assinaturas eletrônicas em interações com entes públicos.
+
+Por fim, o Decreto 12.069/2024 prevê que o Poder Executivo federal publicará a Estratégia de
+Governo Digital para o período de 2024 a 2027, no âmbito da administração pública federal, no
+prazo de noventa dias, contado da data de publicação do Decreto.
+
+Nesse sentido, foi publicado o Decreto 12.198, de 24 de setembro de 2024, que estudaremos a
+seguir.
+
+6.2 – Decreto 12.198, de 24 de setembro de 2024
+
+O Governo Federal destaca que a Transformação Digital consiste “na implantação de ferramentas
+de governo digital nos serviços providos pelos órgãos da administração pública federal direta,
+autárquica e funcional”, com o objetivo de “possibilitar que os usuários dos serviços públicos
+possam realizar suas demandas junto aos diversos órgãos da Administração Pública por canais
+
+        Receita Federal (Analista Tributário) Administração Pública                               33
+        www.estrategiaconcursos.com.br                                                            49
+                                                                                             31
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+digitais, de forma simplificada, segura, acessível e comprometida com a melhoria contínua da
+qualidade.”40
+
+Nesse sentido, o Decreto 12.198/2024 instituiu a Estratégia Federal de Governo Digital para o
+período de 2024 a 2027 e a Infraestrutura Nacional de Dados — IND, no âmbito dos órgãos e das
+entidades da administração pública federal direta, autárquica e fundacional.41
+
+Estratégia Federal de Governo Digital para o período de 2024 a 2027
+
+De acordo com o Governo Federal, os princípios norteadores dessa Estratégia Federal de Governo
+Digital são os seguintes42:
+
+Governo Eficiente e Sustentável
+
+          Um Governo eficiente, que utiliza plataformas tecnológicas e serviços compartilhados nas
+          atividades de governo. Busca otimizar de processos, infraestrutura e as contratações de
+          tecnologia, buscando a redução do custo e ampliação da oferta de serviços, de forma a
+          proporcionar a construção, evolução, disponibilização e suporte a uma infraestrutura
+          moderna, segura, escalável e robusta para a implantação e evolução de soluções de governo
+          digital.
+
+          Sustentabilidade, que usa a tecnologia da informação para contribuir com um Estado social
+          e ambientalmente sustentável. No contexto do governo digital, isso se traduz em soluções
+          tecnológicas que reduzem o consumo de papel, energia e outros recursos, bem como a
+          promoção de práticas que reduzam o impacto ambiental e garantam a continuidade dos
+          serviços para as futuras gerações.
+
+Governo Inteligente e Inovador
+
+          O princípio "inteligente e inovador" sugere uma visão de um governo que não apenas utiliza
+          a tecnologia para otimizar seus processos, mas que também busca constantemente novas
+          maneiras de melhorar, adaptar e reinventar a forma como atende ao público e cumpre seu
+          papel. Esta abordagem requer uma mentalidade aberta, adaptável, baseada no
+          conhecimento e voltada para o futuro.
+
+40
+     https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/transformacao-digital
+
+41 As informações a seguir foram ora transcritas ora reescritas de BRASIL. Decreto 12.198, de 24 de setembro de 2024. Disponível em:
+https://www2.camara.leg.br/legin/fed/decret/2024/decreto-12198-24-setembro-2024-796286-publicacaooriginal-173095-pe.html
+
+42
+                        Transcrito                   de                    https://www.gov.br/governodigital/pt-
+br/sisp/egd2024/egd2024#:~:text=Estrat%C3%A9gia%20de%20Governo%20Digital%202024,custo%20menor%20para%20o
+%20cidad%C3%A3o
+
+           Receita Federal (Analista Tributário) Administração Pública                                                            34
+           www.estrategiaconcursos.com.br                                                                                         49
+                                                                                                                             32
+                                          
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       Em resumo, o princípio "inteligente e inovador" visualiza um governo que utiliza a
+       tecnologia e os dados como ferramentas chave para otimização, enquanto mantém uma
+       postura proativa e aberta a novas ideias e métodos para atender as necessidades dos
+       cidadãos e organizações. É uma visão de um governo que não se contenta com o "status
+       quo", mas busca constantemente evoluir e melhorar em benefício da sociedade.
+
+Governo Centrado no Cidadão e Inclusivo
+
+       O princípio "governo centrado no cidadão e inclusivo" é uma orientação estratégica que
+       enfatiza o papel do estado como provedor de serviços públicos de qualidade, com foco no
+       efetivo atendimento das necessidades e expectativas dos cidadãos e das organizações, por
+       meio de uma experiência agradável, simples e ágil, garantindo, ao mesmo tempo, que
+       todos, independentemente de sua situação socioeconômica, cultural ou de qualquer outra
+       natureza, tenham acesso e possam se beneficiar desses serviços.
+
+       O “governo centrado no cidadão e inclusivo” é, portanto, um governo que promove a
+       ampliação do acesso e contínua melhoria da qualidade da prestação de serviços públicos,
+       sempre a partir da escuta dos seus usuários.
+
+Governo Confiável e Seguro
+
+       O princípio "governo confiável e seguro" vai além da mera proteção contra ameaças
+       digitais; é uma combinação de práticas, políticas e mentalidades que buscam garantir que as
+       interações dos cidadãos com o governo sejam seguras e que haja confiança na integridade,
+       responsabilidade e eficácia do governo.
+
+       Em resumo, a essência do princípio "governo confiável e seguro" reside na construção e
+       manutenção da confiança pública, garantindo que os cidadãos possam interagir com o
+       governo de forma segura e sabendo que seus direitos e informações estão protegidos em
+       todos os momentos.
+
+Governo Integrado e Colaborativo
+
+       O princípio "governo integrado e colaborativo" reflete a aspiração de um Estado que busca
+       atuar de forma coordenada e em sinergia, buscando a integração de dados, plataformas e
+       serviços da União, dos Estados, do Distrito Federal e Municípios, garantindo que a jornada
+       do cidadão tenha coerência, simplicidade, consistência e menores custos, independente do
+       órgão ou da esfera administrativa responsável pela prestação dos serviços públicos.
+
+       Em suma, o Governo Integrado e Colaborativo representa o desejo de um Estado que
+       procura operar de maneira coordenada e sinérgica. Sua meta é integrar dados, plataformas
+       e serviços em todas as esferas governamentais, assegurando uma jornada simplificada e
+       coerente para o cidadão, independentemente da esfera administrativa ou órgão
+       responsável pelos serviços públicos. Isso resulta em maior eficiência e economia de
+       recursos.
+
+        Receita Federal (Analista Tributário) Administração Pública                              35
+        www.estrategiaconcursos.com.br                                                           49
+                                                                                            33
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+Governo Transparente, Aberto e Participativo
+
+       O princípio reflete a aspiração de que a administração pública opere de forma visível,
+       compreensível e acessível para os cidadãos atuando de forma proativa na disponibilização
+       de dados e informações de forma a permitir que a sociedade participe da elaboração,
+       monitoramento e avaliação das políticas públicas e serviços públicos.
+
+       Em suma, o princípio "governo transparente, aberto e participativo" representa um
+       compromisso de garantir as premissas democráticas de participação social em todas as
+       etapas das políticas públicas e serviços públicos, por meio de sistemas e plataformas abertos
+       e transparentes.
+
+De acordo com o art. 2º do Decreto 12.198/2024, a Estratégia Federal de Governo Digital
+norteará a transformação do Governo federal por meio de tecnologias digitais que visem oferecer
+políticas públicas e serviços de melhor qualidade, mais simples e acessíveis ao cidadão.
+
+O Decreto prevê que as soluções de tecnologia da informação e comunicação desenvolvidas ou
+adquiridas pelos órgãos e pelas entidades observarão as disposições da Estratégia Federal de
+Governo Digital.
+
+Ainda, o § 2º do art. 2º destaca que o detalhamento do estágio de implementação da Estratégia
+Federal de Governo Digital será disponibilizado no endereço eletrônico oficial de governo digital.
+
+De acordo com o art. 3º, compete à Secretaria de Governo Digital do Ministério da Gestão e da
+Inovação em Serviços Públicos:
+
+       I - publicar o conjunto de princípios, de objetivos e de iniciativas que compõem a Estratégia
+       Federal de Governo Digital a serem atingidos no período de 2024 a 2027;
+
+       II - coordenar e monitorar a execução da Estratégia Federal de Governo Digital;
+
+       III - apoiar, acompanhar e monitorar a execução dos Planos de Transformação Digital
+       elaborados pelos órgãos e pelas entidades;
+
+       IV - coordenar as iniciativas de transformação digital dos órgãos e das entidades;
+
+       V - ofertar, subsidiariamente, tecnologias e serviços compartilhados para a transformação
+       digital;
+
+       VI - definir normas e padrões técnicos a serem observados pelos órgãos e pelas entidades;
+
+        Receita Federal (Analista Tributário) Administração Pública                                36
+        www.estrategiaconcursos.com.br                                                             49
+                                                                                              34
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 04
+
+       VII - incentivar o desenvolvimento, a implementação e o uso das Infraestruturas Públicas
+       Digitais – IPD, por meio das iniciativas da Estratégia Federal de Governo Digital – EFGD a
+       serem executadas em articulação com os outros órgãos e entidades da administração
+       pública federal;
+
+       VIII - selecionar e alocar força de trabalho para a execução da Estratégia Federal de
+       Governo Digital, observadas as prioridades de Governo previstas no art. 10 do Decreto nº
+       12.069, de 21 de junho de 2024; e
+
+       IX - desenvolver as capacidades requeridas para as equipes de transformação digital, em
+       conjunto com a Escola Nacional de Administração Pública - ENAP.
+
+Vale dizer que a Secretaria de Governo Digital poderá editar normas complementares necessárias
+à execução de suas competências.
+
+O art. 4º, por sua vez, prevê que compete à Secretaria-Executiva do Ministério da Gestão e da
+Inovação em Serviços Públicos:
+
+       I - supervisionar a execução da Estratégia Federal de Governo Digital; e
+
+       II - pactuar, em conjunto com a Secretaria de Governo Digital, os Planos de Transformação
+       Digital com os órgãos e as entidades da administração pública federal direta, autárquica e
+       fundacional.
+
+Vale dizer que a Secretaria-Executiva poderá editar normas complementares necessárias à
+execução de suas competências.
+
+De acordo com o art. 5º, os órgãos e as entidades da administração pública federal direta,
+autárquica e fundacional instituirão Comitê de Governança Digital ou colegiado equivalente, para
+deliberar sobre os assuntos relativos à implementação das ações de governo digital e ao uso de
+recursos de tecnologia da informação e comunicação.
+
+Ato do Secretário de Governo Digital disporá sobre os parâmetros para instituição do Comitê de
+Governança Digital ou colegiado equivalente.
+
+O art. 6º, por sua vez, destaca que para a consecução dos objetivos e das iniciativas da Estratégia
+Federal de Governo Digital 2024-2027, os órgãos e as entidades elaborarão os seguintes
+instrumentos de planejamento, que serão aprovados pelo respectivo Comitê de Governança
+Digital:
+
+
+        Receita Federal (Analista Tributário) Administração Pública                               37
+        www.estrategiaconcursos.com.br                                                            49
+                                                                                             35
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+          I - Plano de Transformação Digital, que conterá, no mínimo, as ações de:
+
+                  a) serviços digitais e melhoria da qualidade;
+
+                  b) unificação de canais digitais;
+
+                  c) governança e gestão de dados; e
+
+                  d) segurança e privacidade;
+
+          II - Plano Diretor de Tecnologia da Informação e Comunicação, que conterá, no mínimo:
+
+                  a) inventário de necessidades priorizado;
+
+                  b) plano de metas e ações, unidade demandante e unidade responsável pela
+                  execução;
+
+                  c) plano de gestão de pessoas;
+
+                  d) plano orçamentário; e
+
+                  e) plano de gestão de riscos; e
+
+          III - Plano de Dados Abertos.
+
+O Plano de Transformação Digital e o Plano Diretor de Tecnologia da Informação e Comunicação
+poderão ter seus conteúdos mínimos detalhados em ato da Secretaria de Governo Digital.
+
+O Decreto ainda prevê que os órgãos e as entidades da administração pública federal direta,
+autárquica e fundacional poderão elaborar conjuntamente seus Planos de Transformação Digital,
+estruturados de acordo com a área temática ou com a função de Governo.
+
+Infraestrutura Nacional de Dados — IND
+
+A Infraestrutura Nacional de Dados – IND consiste em “um conjunto de normas, políticas,
+arquiteturas, padrões, ferramentas tecnológicas e ativos de informação, com vistas a promover
+o uso estratégico dos dados em posse dos órgãos e das entidades do Poder Executivo federal”.43
+
+43
+                                                   https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-
+dados#:~:text=A%20Infraestrutura%20Nacional%20de%20Dados,entidades%20do%20Poder%20Executivo%20federal.
+
+           Receita Federal (Analista Tributário) Administração Pública                                              38
+           www.estrategiaconcursos.com.br                                                                           49
+                                                                                                               36
+                                        
+
+
+---
+
+   Stefan Fantini
+   Aula 04
+
+Conforme explica o Governo Federal, a Infraestrutura Nacional de Dados – IND “habilita a
+descoberta, a interoperabilidade, o acesso, o uso estratégico, a privacidade, a segurança e a
+proteção de dados. O objetivo é de melhorar o serviço público, empoderar os cidadãos e
+promover o desenvolvimento econômico e social.”
+
+De acordo com o Decreto 12.198/2024, as ações e as metas relacionadas à Infraestrutura Nacional
+de Dados – IND constarão nas iniciativas da Estratégia Federal de Governo Digital e serão
+implementadas no âmbito dos Planos de Transformação Digital.
+
+Vale destacar que a Secretaria de Governo Digital é responsável pela coordenação da
+Infraestrutura Nacional de Dados – IND e pela articulação de sua implementação gradual com os
+órgãos e as entidades da administração pública federal direta, autárquica e fundacional.
+
+A Secretaria de Governo Digital, no âmbito da Infraestrutura Nacional de Dados – IND, poderá
+promover a governança e a integração de dados entre os entes federativos.
+
+Por fim, o Decreto 12.198/2024 prevê que a Estratégia Federal de Governo Digital 2024-2027 será
+revista depois de 02 (dois) anos da sua publicação.
+
+6.3 – Princípios e Diretrizes do Governo Digital e da Eficiência Pública
+
+A Lei n.° 14.129/2021 dispõe sobre princípios, regras e instrumentos para o aumento da eficiência
+da administração pública, especialmente por meio da desburocratização, da inovação, da
+transformação digital e da participação do cidadão44.
+
+De acordo com o art. 3 da Lei n.° 14.129/2021, são princípios e diretrizes do Governo Digital e da
+eficiência pública:
+
+          I - a desburocratização, a modernização, o fortalecimento e a simplificação da relação do
+          poder público com a sociedade, mediante serviços digitais, acessíveis inclusive por
+          dispositivos móveis;
+
+          II - a disponibilização em plataforma única do acesso às informações e aos serviços públicos,
+          observadas as restrições legalmente previstas e sem prejuízo, quando indispensável, da
+          prestação de caráter presencial;
+
+44 Extraído de BRASIL. Lei n.° 14.129/2021, de 29 de março de 2021. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm
+
+            Receita Federal (Analista Tributário) Administração Pública                                                                                 39
+            www.estrategiaconcursos.com.br                                                                                                              49
+                                                                                                                                                   37
+                                                 
+
+
+---
+
+Stefan Fantini
+Aula 04
+
+     III - a possibilidade aos cidadãos, às pessoas jurídicas e aos outros entes públicos de
+     demandar e de acessar serviços públicos por meio digital, sem necessidade de solicitação
+     presencial;
+
+     IV - a transparência na execução dos serviços públicos e o monitoramento da qualidade
+     desses serviços;
+
+     V - o incentivo à participação social no controle e na fiscalização da administração pública;
+
+     VI - o dever do gestor público de prestar contas diretamente à população sobre a gestão
+     dos recursos públicos;
+
+     VII - o uso de linguagem clara e compreensível a qualquer cidadão;
+
+     VIII - o uso da tecnologia para otimizar processos de trabalho da administração pública;
+
+     IX - a atuação integrada entre os órgãos e as entidades envolvidos na prestação e no
+     controle dos serviços públicos, com o compartilhamento de dados pessoais em ambiente
+     seguro quando for indispensável para a prestação do serviço, nos termos da Lei nº 13.709,
+     de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), e, quando couber, com
+     a transferência de sigilo, nos termos do art. 198 da Lei nº 5.172, de 25 de outubro de
+     1966 (Código Tributário Nacional), e da Lei Complementar nº 105, de 10 de janeiro de 2001;
+
+     X - a simplificação dos procedimentos de solicitação, oferta e acompanhamento dos
+     serviços públicos, com foco na universalização do acesso e no autosserviço;
+
+     XI - a eliminação de formalidades e de exigências cujo custo econômico ou social seja
+     superior ao risco envolvido;
+
+     XII - a imposição imediata e de uma única vez ao interessado das exigências necessárias à
+     prestação dos serviços públicos, justificada exigência posterior apenas em caso de dúvida
+     superveniente;
+
+     XIII - a vedação de exigência de prova de fato já comprovado pela apresentação de
+     documento ou de informação válida;
+
+     XIV - a interoperabilidade de sistemas e a promoção de dados abertos;
+
+     XV - a presunção de boa-fé do usuário dos serviços públicos;
+
+     XVI - a permanência da possibilidade de atendimento presencial, de acordo com as
+     características, a relevância e o público-alvo do serviço;
+
+     XVII - a proteção de dados pessoais, nos termos da Lei nº 13.709, de 14 de agosto de
+     2018 (Lei Geral de Proteção de Dados Pessoais);
+
+
+      Receita Federal (Analista Tributário) Administração Pública                                  40
+      www.estrategiaconcursos.com.br                                                               49
+                                                                                              38
+                                   
+
+
+---
+
+Stefan Fantini
+Aula 04
+
+     XVIII - o cumprimento de compromissos e de padrões de qualidade divulgados na Carta de
+     Serviços ao Usuário;
+
+     XIX - a acessibilidade da pessoa com deficiência ou com mobilidade reduzida, nos termos
+     da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência);
+
+     XX - o estímulo a ações educativas para qualificação dos servidores públicos para o uso das
+     tecnologias digitais e para a inclusão digital da população;
+
+     XXI - o apoio técnico aos entes federados para implantação e adoção de estratégias que
+     visem à transformação digital da administração pública;
+
+     XXII - o estímulo ao uso das assinaturas eletrônicas nas interações e nas comunicações
+     entre órgãos públicos e entre estes e os cidadãos;
+
+     XXIII - a implantação do governo como plataforma e a promoção do uso de dados,
+     preferencialmente anonimizados, por pessoas físicas e jurídicas de diferentes setores da
+     sociedade, resguardado o disposto nos arts. 7º e 11 da Lei nº 13.709, de 14 de agosto de
+     2018 (Lei Geral de Proteção de Dados Pessoais), com vistas, especialmente, à formulação de
+     políticas públicas, de pesquisas científicas, de geração de negócios e de controle social;
+
+     XXIV - o tratamento adequado a idosos, nos termos da Lei nº 10.741, de 1º de outubro de
+     2003 (Estatuto do Idoso);
+
+     XXV - a adoção preferencial, no uso da internet e de suas aplicações, de tecnologias, de
+     padrões e de formatos abertos e livres, conforme disposto no inciso V do caput do art. 24 e
+     no art. 25 da Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet); e
+
+     XXVI - a promoção do desenvolvimento tecnológico e da inovação no setor público.
+
+      Receita Federal (Analista Tributário) Administração Pública                              41
+      www.estrategiaconcursos.com.br                                                           49
+                                                                                          39
+                                   
+
+
+---
+
+      Stefan Fantini
+      Aula 04
+
+                                          RESUMO ESTRATÉGICO
+
+                                                    Governo Eletrônico
+
+
+                                                      Democratizar o acesso à informação (inclusão digital)
+
+                                                 Modernizar a máquina pública / minimizar a burocracia pública
+
+
+                                             Reduzir custos e melhorar a eficiência da administração pública no que
+                                                              se refere aos seus processos internos
+                O governo eletrônico
+                consiste na utilização,
+                   pelo governo, das                Aumentar a eficiência e a qualidade dos serviços públicos;
+                    ferramentas de
+                     tecnologia de
+                     informação e
+                  comunicação (TIC),            Permitir maior participação popular do cidadão na gestão pública
+                 com os objetivos de:
+
+
+                                                  Aumentar a transparência, o controle social e a accountability
+
+                                                          Criar mecanismos de gestão do conhecimento
+
+                                                                    Aprimorar a governança
+
+          “As ações do programa de Governo Eletrônico (eGOV) priorizam o uso das tecnologias
+         da informação e comunicação (TICs) para democratizar o acesso à informação, visando
+         ampliar o debate e a participação popular na construção das políticas públicas, como
+         também aprimorar a qualidade dos serviços e informações públicas prestadas. 45”
+
+45   https://www.governodigital.gov.br/EGD/historico-1/historico
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                    42
+            www.estrategiaconcursos.com.br                                                                                 49
+                                                                                                                      40
+                                          
+
+
+---
+
+Stefan Fantini
+Aula 04
+
+                                      Estágios do Governo Eletrônico (ONU)
+
+
+                                                  Estágio I - Emergente
+     A presença on-line de um governo é composta principalmente por uma pagina da web e/ou um site oficial. As
+                                  informações são estáticas e há pouca interação.
+
+                                                 Estágio II - Aprimorado
+Os governos fornecem mais informações sobre políticas públicas e governança. Os governos criam links que permitem
+                  aos cidadãos obterem acesso a informações como: documentos, formulários, etc.
+
+                                                  Estágio III - Interativo
+Os governos fornecem serviços on-line, tais como formulários para download para pagamento de impostos. Evidencia-se
+              o início de um portal interativo com serviços para melhorar a conveniência dos cidadãos.
+
+                                                Estágio IV - Transacional
+   Os governos começam a se transformar introduzindo interações bidirecionais entre "cidadão e governo". Todas as
+                     transações são realizadas online, e podem ser acessadas 24 horas por dia.
+
+                                                  Estágio V - Conectado
+      Os governos se transformam em uma entidade conectada que responde às necessidades de seus cidadãos,
+                         desenvolvendo uma infraestrutura integrada de suporte ao cidadão.
+
+                                     Estágios do Governo Eletrônico no Brasil
+
+
+                                             Gestão interna (1970 a 1992)
+As TICs são utilizadas para aprimorar os processos internos de gestão pública. Buscava-se a melhoria da gestão interna e
+                                maior eficiência dos processos administrativos financeiros.
+
+                                Serviços e informações ao cidadão (1993 a 1998)
+ São implementados processos com o objetivo de apoiar a prestação de serviços ao cidadão . A iniciativa mais relevante
+                      foi a criação dos primeiros Serviços de Atendimento ao Cidadão (SACs).
+
+                                Entrega de serviços via internet (a partir de 1999)
+ Trata-se de utilizar as tecnologias de internet para fornecer serviços ao cidadão. Através da internet, são disponibilizados ao
+           cidadão, de forma integral, diversos serviços. Além disso, aumenta-se a transparência e a accountability.
+
+       Receita Federal (Analista Tributário) Administração Pública                                                                      43
+       www.estrategiaconcursos.com.br                                                                                                   49
+                                                                                                                                   41
+                                        
+
+
+---
+
+Stefan Fantini
+Aula 04
+
+                           Fundamentos e Diretrizes do Governo Eletrônico
+
+                                                 Participação cidadã (Participação do cidadão)
+
+
+                    Fundamentos                  Melhoria da própria gestão interna do Estado
+
+
+                                                   Integração com parceiros e fornecedores
+
+Política de                                        Promoção da cidadania como prioridade
+ Governo
+Eletrônico
+                                         Indissociabilidade entre inclusão digital e governo eletrônico
+
+
+                                             Utilização de software livre como recurso estratégico
+
+
+                                          Gestão do conhecimento como instrumento estratégico de
+                      Diretrizes
+                                                  articulação e gestão das políticas públicas
+
+
+                                                         Racionalização dos recursos
+
+
+                                                Adoção de políticas, normas e padrões comuns
+
+
+                                           Integração com outros níveis de governo e com os demais
+                                                                   poderes
+
+   A interoperabiliade se refere à capacidade de sistemas heterogêneos se comunicarem.
+   Ou seja, trata-se da possibilidade de intercambiar informações e serviços, de forma
+   coerente, entre sistemas diferentes. A interoperabilidade conduz à convergência de
+   esforços e cria uma relação sinérgica entre as partes envolvidas.
+
+      Receita Federal (Analista Tributário) Administração Pública                                              44
+      www.estrategiaconcursos.com.br                                                                           49
+                                                                                                          42
+                                   
+
+
+---
+
+      Stefan Fantini
+      Aula 04
+
+                 Aplicação do Governo Eletrônico (Relacionamentos Existentes com as TICs)
+
+                                                             Governo
+
+                                                        G2G
+                                                                                G2C
+                          Negócios /                                                         Cidadão /
+                          Empresas                         GOVERNO                          Consumidor
+                                              G2B
+                                                                       G2E
+
+
+                                                             Servidor /
+                                                            Funcionário
+
+                                    Projetos e Sistemas de Governo Eletrônico
+
+
+                                 Compras Eletrônicas Governamentais: Trata-se do portal utilizado pelo governo federal para
+                                 disponibilização e acompanhamento de informações referentes às compras governamentais.
+
+                             Inclusão Digital: Trata-se de iniciativas sociais, que tem por objetivo possibilitar que as pessoas menos
+                            abastadas tenham acesso aos instrumentos e aos conhecimentos necessários ao acesso à internet e ao
+                                                                         governo eletrônico.
+
+                           ePWG: recomendações de boas práticas agrupadas em formato de cartilhas com o objetivo de aprimorar
+                                             a comunicação e o fornecimento de informações e serviços.
+Projetos de Governo
+     Eletrônico
+                                                 eMAG: acessibilidade dos sítios e portais do governo brasileiro.
+
+                           ePING: Padrões de Interoperabilidade. Conjunto mínimo de premissas, políticas e especificações técnicas
+                                            que regulamentam as TICs estabelecendo as condições de interação.
+
+                                                            Segurança da Informação e Comunicações
+
+                            Certificação Digital: identidade virtual que permite a identificação segura e inequívoca do autor de uma
+                                                                      mensagem ou transação.
+
+                                       Cartão Magnético: O governo utiliza cartões magnéticos para pagamentos de auxílios.
+
+            Receita Federal (Analista Tributário) Administração Pública                                                            45
+            www.estrategiaconcursos.com.br                                                                                         49
+                                                                                                                              43
+                                           
+
+
+---
+
+     Stefan Fantini
+     Aula 04
+
+                                                SIAPE (Sistema Integrado de Administração de Pessoal): plataformas de
+                                                     gestão da folha de pessoal dos servidores públicos federais.
+
+                                             SIAFI (Sistema Integrado de Administração Financeira do Governo Federal):
+                                            registro, acompanhamento e controle da execução orçamentária, financeira e
+                                                                   patrimonial do Governo Federal.
+               Sistemas de Governo                SIASG (Sistema Integrado de Administração de Serviços Gerais) /
+                    Eletrônico               Compras.gov.br: para compra e aquisição de materiais e serviços do Governo
+                                                                             Federal.
+
+                                             SISCONV (Sistema de Convênio): administrar as transferências voluntárias de
+                                                            recursos da União nos convênios firmados.
+
+                                              DOU (Diário Oficial da União): É um dos principais veículos de comunicação
+                                              utilizados pela Imprensa Nacional. Atualmente, só pode ser acessado pela
+                                                                                internet.
+
+                                                  Governança Eletrônica
+
+A governança eletrônica pode ser entendida como o desempenho da governança por meio
+eletrônico, a fim de facilitar um processo eficiente, rápido e transparente de disseminar
+informações ao público e a outras agências e para executar atividades de administração
+governamental.
+
+A governança eletrônica é considerada um conceito mais amplo que o governo eletrônico, pois
+pode provocar uma mudança na maneira como os cidadãos se relacionam com os governos e
+entre si. A governança eletrônica pode trazer novos conceitos de cidadania, tanto em termos de
+necessidades e responsabilidades dos cidadãos. Seu objetivo é envolver, capacitar e emponderar o
+cidadão.46
+
+
+                           Administração eletrônica (e-administration): refere-se à melhoria dos processos governamentais e do
+                                                         funcionamento interno do setor público
+  Campos de
+                           Serviços eletrônicos (e-services): refere-se à melhoria da prestação de serviços públicos aos cidadãos.
+Implementação
+                            Democracia eletrônica (e-democracy): refere-se a maior e mais ativa participação e envolvimento do
+                                              cidadão no processo de tomada de decisões governamentais
+
+46
+     http://portal.unesco.org/ci/en/ev.php-URL_ID=4404&URL_DO=DO_TOPIC&URL_SECTION=201.html
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                                           46
+           www.estrategiaconcursos.com.br                                                                                        49
+                                                                                                                            44
+                                          
+
+
+---
+
+Stefan Fantini
+Aula 04
+
+                                               Governo Digital
+
+
+                                     oferecer serviços públicos digitais simples e intuitivos, consolidados em
+                                           plataforma única e com avaliação de satisfação disponível
+
+                                 conceder acesso amplo à informação e aos dados abertos governamentais, para
+                                     possibilitar o exercício da cidadania e a inovação em tecnologias digitais
+
+
+                                promover a integração e a interoperabilidade das bases de dados governamentais
+
+
+                                    promover políticas públicas baseadas em dados e evidências e em serviços
+        Os objetivos a               preditivos e personalizados, com utilização de tecnologias emergentes
+      serem alcançados,
+         por meio da
+        Estratégia de           implementar a Lei Geral de Proteção de Dados, no âmbito do Governo federal, e
+       Governo Digital                     garantir a segurança das plataformas de governo digital
+           incluem
+
+                                                 disponibilizar a identificação digital ao cidadão
+
+
+                                adotar tecnologia de processos e serviços governamentais em nuvem como parte
+                                 da estrutura tecnológica dos serviços e setores da administração pública federal
+
+
+                                     otimizar as infraestruturas de tecnologia da informação e comunicação
+
+                                             formar equipes de governo com competências digitais
+
+      Receita Federal (Analista Tributário) Administração Pública                                                        47
+      www.estrategiaconcursos.com.br                                                                                     49
+                                                                                                                    45
+                                   
+
+
+---
+
+Stefan Fantini
+Aula 04
+
+                           Estratégia Federal de Governo Digital 2024-2027
+
+
+                                                       Governo Eficiente e Sustentável
+
+
+                                                        Governo Inteligente e Inovador
+
+
+                                                   Governo Centrado no Cidadão e Inclusivo
+                  Princípios
+                 norteadores
+
+                                                         Governo Confiável e Seguro
+
+
+                                                      Governo Integrado e Colaborativo
+
+
+                                                 Governo Transparente, Aberto e Participativo
+
+      Receita Federal (Analista Tributário) Administração Pública                                    48
+      www.estrategiaconcursos.com.br                                                                 49
+                                                                                                46
+                                   
+
+
+---
+
+---

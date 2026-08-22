@@ -1,0 +1,2878 @@
+                                                    Aula 13
+                          Receita Federal (Analista Tributário)
+                                             Direito Tributário
+
+
+
+
+                                                         Autor:
+                                                  Fábio Dutra
+
+
+
+
+                                            23 de Março de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Fábio Dutra
+      Aula 13
+
+
+
+
+                                                                                     Índice
+1) Impostos da União
+..............................................................................................................................................................................................3
+
+2) Questões Comentadas - Impostos Federais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            38
+
+3) Lista de Questões - Impostos Federais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            48
+
+4) Resumo - Impostos da União
+..............................................................................................................................................................................................
+                                                                                                                                                                                            54
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Tributário                                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                           58
+
+                                                             https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 13
+
+
+
+
+              IMPOSTOS DE COMPETÊNCIA DA UNIÃO
+​
+Na aula inicial do nosso curso, vimos algumas características gerais pertinentes aos impostos em geral.
+Além disso, também já vimos os princípios aplicáveis aos mais diversos impostos (legalidade, anterioridade
+e noventena, por exemplo), bem como os critérios estabelecidos pelo legislador constituinte acerca da
+competência tributária de cada ente.
+A partir de agora, estudaremos cada um dos impostos previstos na CF/88 de competência da União.
+Você perceberá que, em alguns casos, será citado o CTN, no tocante à base de cálculo, fato gerador e
+contribuintes do imposto, pois, como já aprendemos, no art. 146, III, a, da CF/88, há uma exigência
+específica para que lei complementar (e o CTN possui esse status) defina tais “componentes” dos impostos.
+
+
+
+Imposto de Importação
+​
+       Trata-se de imposto de nítida finalidade extrafiscal, pois é utilizado como meio de controle sobre as
+importações, interferindo diretamente na economia do país, gerando, por consequência, impactos
+negativos ou positivos na indústria nacional.
+Por esse motivo, o legislador constituinte (CF, art. 153, § 1º) facultou ao Poder Executivo a alteração das
+alíquotas desse tributo (exceção à legalidade), desde que atendidas as condições e os limites legais.
+Ademais, o mencionado imposto também constitui exceção aos princípios da anterioridade e noventena,
+produzindo efeitos imediatos.
+
+Fato Gerador
+​        Relativamente ao fato gerador, vejamos o que diz o art. 19 do CTN:
+
+          Art. 19. O imposto, de competência da União, sobre a importação de produtos
+          estrangeiros tem como fato gerador a entrada destes no território nacional.
+
+Por se tratar de um momento difícil de ser apurado com exatidão, a legislação aduaneira estabeleceu que o
+momento para fins de cálculo do imposto, em que se considera ocorrido o fato gerador, é a data do
+registro da declaração de importação de mercadoria submetida a despacho para consumo. Podemos dizer
+que este é considerado o elemento temporal da hipótese de incidência.
+
+          Observação: Despacho para consumo é o procedimento adotado para mercadorias
+          importadas a título definitivo.
+
+Para o STJ, não há incompatibilidade entre as normas:
+
+       "Ementa: (...) Não obstante o fato gerador do imposto de importação se dê com a entrada da
+       mercadoria estrangeira em território nacional, torna-se necessária a fixação de um critério
+       temporal a que se atribua a exatidão e certeza para se completar o inteiro desenho do fato
+       gerador. Assim, embora o fato gerador do tributo se dê com a entrada da mercadoria em
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                        3
+          www.estrategiaconcursos.com.br                                                                 58
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+     território nacional, ele apenas se aperfeiçoa com o registro da Declaração de Importação no
+     caso de regime comum e, nos termos precisos do parágrafo único, do artigo 1º, do Decreto-Lei
+     nº 37/66, "com a entrada no território nacional a mercadoria que contar como tendo sido
+     importada e cuja a falta seja apurada pela autoridade aduaneira".
+     (STJ, REsp 362.910/PR, Primeira Turma, Rel. Min. José Delgado, Julgamento em 16/04/2002)
+
+
+
+
+        Não caia em pegadinhas, dizendo que se aplica alíquota de II vigente na data da
+        celebração do contrato de compra e venda de mercadoria ou na data de embarque delas.
+        O fato gerador é a entrada no território nacional!
+
+“Mas, e as mercadorias importadas temporariamente?”
+Na Legislação Aduaneira, há um regime aduaneiro especial, denominado admissão temporária, que rege
+essa forma de importação. As mercadorias entram temporariamente, amparadas por um regime aduaneiro
+que suspende o pagamento dos tributos devidos, durante o período em que permanecem no território
+nacional.​    Um exemplo clássico da ocorrência desse regime é a importação de bens para exposição
+temporária em eventos.
+Não faz sentido nos aprofundarmos mais do que isso nas hipóteses de ocorrência do fato gerador, pois
+nosso curso é Direito Tributário, e não Legislação Aduaneira, ok?
+
+Base de Cálculo e Alíquotas
+No que se refere à base de cálculo do II, vejamos o que diz o art. 20 do CTN:
+
+        Art. 20. A base de cálculo do imposto é:
+        I - quando a alíquota seja específica, a unidade de medida adotada pela lei tributária;
+        II - quando a alíquota seja ad valorem, o preço normal que o produto, ou seu similar,
+        alcançaria, ao tempo da importação, em uma venda em condições de livre concorrência,
+        para entrega no porto ou lugar de entrada do produto no País;
+        III - quando se trate de produto apreendido ou abandonado, levado a leilão, o preço da
+        arrematação.
+
+Assim, quando a alíquota aplicável à mercadoria importada for específica, a base de cálculo será a unidade
+de medida (Kg, ton, m³ etc.) adotada pela lei tributária.
+De outra banda, se a alíquota for ad valorem, a base de cálculo será o preço normal, atualmente
+entendido como o valor aduaneiro (valor real, e não o declarado pelo importador), apurado conforme as
+regras do Acordo Geral sobre Tarifas Aduaneiras e Comércio – GATT (tratado internacional do qual o Brasil é
+signatário).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         4
+        www.estrategiaconcursos.com.br                                                                  58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Em se tratando de produto de produto apreendido ou abandonado, levado a leilão, a base de cálculo do II é
+o preço da arrematação. Embora, na prática, não haja incidência de II sobre tal hipótese (leilão), é o
+conceito teórico que você tem de levar para a sua prova, colega concurseiro (a)!!!
+A respeito das alíquotas do II, é importante saber que elas estão fixadas na Tarifa Externa Comum (TEC),
+que é uma tabela que contém milhares de produtos e mercadorias relacionadas ao seu respectivo código
+(de oito dígitos) e associadas a uma determinada alíquota.
+Portanto, quando o importador preenche sua Declaração de Importação (documento base do despacho de
+importação), ele deve informar o código da mercadoria que está trazendo para o País, seguindo regras
+específicas para classificação. Novamente, eu alerto: você não precisa saber nada mais do que isso para
+fazer uma prova de Direito Tributário. ​
+
+
+
+
+        Quando o CTN estabelece, em seu art. 21, que tanto a base de cálculo como as alíquotas
+        do II podem ser alteradas sem necessidade de lei, entenda-se que apenas as alíquotas
+        possuem tal flexibilidade.
+        O mesmo raciocínio serve para o IE (art. 26) e IOF (art. 65)!
+
+
+
+Por fim, ressalte-se que, a competência para alteração das alíquotas tanto do II, como do IE, não são
+privativas do Presidente da República. Ou seja, é possível outorgar essa competência à Câmara de
+Comércio Exterior (CAMEX). Trata-se de entendimento pacífico no âmbito do STF (RE 570.680/RS).
+
+Contribuintes
+        ​     De acordo com a literalidade do art. 22 do CTN, os contribuintes do II são os
+        seguintes:
+        Art. 22. Contribuinte do imposto é:
+        I - o importador ou quem a lei a ele equiparar;
+        II - o arrematante de produtos apreendidos ou abandonados.
+        ​       Quem seriam os equiparados ao importador? O Decreto-Lei 37/1966 nos responde:
+        Art.31 - É contribuinte do imposto:
+        I - o importador, assim considerada qualquer pessoa que promova a entrada de
+        mercadoria estrangeira no Território Nacional;
+        II - o destinatário de remessa postal internacional indicado pelo respectivo remetente;
+        III - o adquirente de mercadoria entrepostada.
+
+Conforme eu já havia dito, a arrematação não constitui, na prática, fato gerador do imposto. Por esse
+motivo, o arrematante não foi eleito como contribuinte do imposto no DL 37/66. Ok?
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       5
+        www.estrategiaconcursos.com.br                                                                58
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 13
+
+
+
+
+            Em provas de Direito Tributário, normalmente as questões cobram o disposto no CTN. Por
+            isso, recomendo memorizar o que consta em seus arts. 20 e 22!
+
+
+
+Lançamento
+O lançamento do II ocorre por homologação. Conforme aprendemos, trata-se de modalidade em que a
+participação do contribuinte é essencial para a arrecadação do tributo.
+
+Síntese do II
+
+                                                  IMPOSTO DE IMPORTAÇÃO
+                                                      Competência: União
+    Finalidade: Extrafiscal
+                          Fato Gerador: Entrada de produtos estrangeiros em território nacional
+                       Base de Cálculo: Se alíquota específica: unidade de medida adotada pela lei;
+                    Se alíquota ad valorem: Valor Aduaneiro (preço normal).
+                   Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+                              Obs.: Constitui exceção aos princípios Anterioridade Anual/Nonagesimal
+                                   Contribuinte: Importador ou quem a ele a lei equiparar
+                                                Lançamento: Por homologação
+
+
+
+Imposto de Exportação
+
+Assim como o Imposto de Importação, o IE é um imposto cujo objetivo principal é a intervenção no controle
+do comércio exterior, possuindo claramente finalidade extrafiscal.
+Por conseguinte, a alteração das suas alíquotas também foi excepcionada do princípio da legalidade (art.
+153, § 1º, da CF/88), bem como do princípio da anterioridade e noventena.
+​         Vamos, pois, estudar adiante alguns detalhes pertinentes a esse imposto.
+
+Fato Gerador
+Em cumprimento ao comando constitucional que determina que os fatos geradores dos impostos sejam
+definidos em lei complementar, o CTN dispôs o seguinte:
+
+
+            Receita Federal (Analista Tributário) Direito Tributário                                   6
+            www.estrategiaconcursos.com.br                                                             58
+
+                                          https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 13
+
+
+
+
+          Art. 23. O imposto, de competência da União, sobre a exportação, para o estrangeiro, de
+          produtos nacionais ou nacionalizados tem como fato gerador a saída destes do território
+          nacional.
+
+          Observação:
+          Produtos Nacionais: são os que foram produzidos no país.
+          Produtos Nacionalizados: são os produtos estrangeiros importados a título definitivos
+          para o país e submetidos ao desembaraço aduaneiro.
+
+De forma análoga ao II, embora a o fato gerador do IE seja a saída dos produtos nacionais ou nacionalizados
+(mercadoria importa anteriormente a título “definitivo”), há o momento, para fins de cálculo, em que se
+considera ocorrido o fato gerador. Vejamos o que diz o parágrafo único do art. 213 do Regulamento
+Aduaneiro (Decreto 6.759/2009):
+
+          Parágrafo único. Para efeito de cálculo do imposto, considera-se ocorrido o fato gerador
+          na data de registro do registro de exportação no Sistema Integrado de Comércio Exterior
+          (SISCOMEX).
+
+Sendo assim, o cálculo do imposto é feito com base na alíquota vigente na data do registro da exportação
+no SISCOMEX, independentemente da data da efetiva saída das mercadorias do território nacional. ​
+Destaque-se que o STF (RE-AgR-ED 234.954) segue a linha de entendimento acima expendida.
+
+          Observação: O Registro de Exportação (RE) foi substituído pela Declaração Única de
+          Exportação (DU-E).
+
+Acrescentamos que, na Legislação Aduaneira, também há um regime aduaneiro especial denominado
+exportação temporária, que tem por objetivo permitir a saída temporária de bens do território nacional,
+com suspensão de impostos. Na exportação temporária, o imposto de exportação fica suspenso com a
+condição de a mercadoria voltar no prazo determinado.
+
+Base de Cálculo e Alíquotas
+​        Vejamos o que diz o art. 24 do CTN:
+
+          Art. 24. A base de cálculo do imposto é:
+          I - quando a alíquota seja específica, a unidade de medida adotada pela lei tributária;
+          II - quando a alíquota seja ad valorem, o preço normal que o produto, ou seu similar,
+          alcançaria, ao tempo da exportação, em uma venda em condições de livre concorrência.
+          Parágrafo único. Para os efeitos do inciso II, considera-se a entrega como efetuada no
+          porto ou lugar da saída do produto, deduzidos os tributos diretamente incidentes sobre
+          a operação de exportação e, nas vendas efetuadas a prazo superior aos correntes no
+          mercado internacional o custo do financiamento.
+
+Caro candidato, não há muitas observações a serem feitas acerca desse imposto. O importante é que o
+candidato conheça a literalidade do CTN, as exceções previstas na CF/88, por se tratar de um imposto
+extrafiscal, e o detalhe de que apenas a alíquota pode ser majorada pelo Poder Executivo (a base de
+cálculo não pode).
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                       7
+          www.estrategiaconcursos.com.br                                                                58
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Apenas a título de curiosidade, vejamos o que diz o Decreto-Lei 1.578/1977 (base legal do Imposto de
+Exportação) a respeito da alíquota do IE:
+
+         Art. 3o A alíquota do imposto é de trinta por cento, facultado ao Poder Executivo
+         reduzi-la ou aumentá-la, para atender aos objetivos da política cambial e do comércio
+         exterior.
+         Parágrafo único. Em caso de elevação, a alíquota do imposto não poderá ser superior a
+         cinco vezes o percentual fixado neste artigo.
+
+Sendo assim, a alíquota base é 30%, podendo ser reduzida ou majorada. “Qual seria o limite máximo?”
+Vamos calcular: 30 x 5 = 150%.
+Por último, não se esqueça de que a CAMEX também pode alterar a alíquota do IE. Ok?
+
+Contribuinte
+De maneira bem direta, o art. 27 do CTN estabeleceu que o contribuinte do Imposto de Exportação é o
+exportador ou quem a ele a lei equiparar.
+Pela redação do Regulamento Aduaneiro, inferimos qualquer pessoa que promova a saída de mercadoria
+do território aduaneiro (entenda-se território nacional) é considerada exportador.
+
+Lançamento
+O IE segue a mesmo procedimento de lançamento do II, que é feito por homologação. Não custa repetir
+que a participação do contribuinte é essencial para a arrecadação do tributo.
+
+Síntese do IE
+
+                                               IMPOSTO DE EXPORTAÇÃO
+                                                   Competência: União
+ Finalidade: Extrafiscal
+                Fato Gerador: Saída de produtos nacionais ou nacionalizados do território nacional
+                    Base de Cálculo: Se alíquota específica: unidade de medida adotada pela lei;
+                 Se alíquota ad valorem: Preço normal.
+                Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+                           Obs.: Constitui exceção aos princípios Anterioridade Anual/Nonagesimal
+                                Contribuinte: Exportador ou quem a ele a lei equiparar
+                                             Lançamento: Por homologação
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                    8
+         www.estrategiaconcursos.com.br                                                              58
+
+                                       https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 13
+
+
+
+
+Imposto sobre renda e proventos de qualquer natureza (IR)
+​
+O Imposto de Renda é mais um dos impostos de competência da União, previsto no art. 153, III, da CF/88.
+Trata-se de imposto com finalidade fiscal, pois o objetivo da sua instituição é arrecadar recursos para o
+Estado. Como prova disso, é o imposto federal com maior volume de arrecadação.
+Antes de estudarmos as disposições do Código Tributário Nacional acerca desse imposto, é importante
+destacar que a CF/88 submeteu a majoração do IR ao princípio da anterioridade, mas a excepcionou do
+princípio da noventena (aposto que você se lembra disso!).
+Ademais, no art. 153, § 2º, I, o legislador constituinte estabeleceu que o IR será informado pelos critérios
+de generalidade, universalidade e progressividade, na forma da lei. O que vem a ser isso? Vejamos!
+
+          Generalidade        significa dizer que a tributação alcança todas as pessoas.
+
+          Universalidade           significa dizer que a tributação alcança todas as espécies de
+          rendimentos.
+
+          Progressividade         significa tributar com alíquotas maiores (progressivas) rendimentos
+          mais elevados.
+
+Em síntese, perceba que os três critérios decorrem do princípio da isonomia, alcançando as pessoas de um
+modo geral (generalidade), e as rendas de modo universal (universalidade), sempre considerando que
+aquele que ganha mais deve sofrer maior incidência tributária (progressividade). Não ficou difícil, correto?
+
+Fato Gerador
+Para compreender o fato gerador do Imposto de Renda, vamos nos debruçar sobre o art. 43 do CTN:
+
+          Art. 43. O imposto, de competência da União, sobre a renda e proventos de qualquer
+          natureza tem como fato gerador a aquisição da disponibilidade econômica ou jurídica:
+          I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de
+          ambos;
+          II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais
+          não compreendidos no inciso anterior.
+
+​        É importante que saibamos diferenciar a disponibilidade econômica e a jurídica:
+●​ Disponibilidade Jurídica: ocorre quando se tem direito a um crédito, não sujeito a alguma condição, ou
+   seja, um direito que seja certo.
+●​ Disponibilidade Econômica: ocorre quando se obtém dinheiro em espécie (ou crédito em conta) ou
+   bens nele conversíveis.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                        9
+          www.estrategiaconcursos.com.br                                                                 58
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+        Em qualquer uma das disponibilidades, tem-se por ocorrido o fato gerador do Imposto
+        de Renda, conforme art. 43, caput, do CTN.
+
+Além disso, precisamos também ter uma noção dos conceitos de renda e proventos de qualquer natureza,
+já que esses são os dois pressupostos de incidência do IR.
+Nos dizeres do CTN, o conceito de renda pode ser entendido como produto do capital, do trabalho ou da
+combinação do trabalho e do capital. Vamos exemplificar:
+
+        Produto do capital          João é acionista de uma grande empresa e recebe dividendos
+        decorrentes do lucro auferido por esta. Trata-se de produto do capital, do dinheiro por ele
+        investido na sociedade.
+
+        Produto do trabalho           José é empregado de um posto de gasolina. Ao final do mês,
+        recebe o produto do seu trabalho, ou seja, seu salário.
+
+        Combinação de produto do capital com produto do trabalho               Pedro montou uma
+        lanchonete, onde exerce a função de sócio e administrador. Ao final do mês, ele recebe
+        rendimentos decorrentes do seu trabalho e do seu capital nela investido.
+
+Acredito que com os exemplos acima, não restou dúvida nenhuma sobre o conceito de renda. Entretanto, o
+que vem a ser provento?
+Trata-se de acréscimo patrimonial que não esteja compreendido no conceito de renda, que é o produto do
+trabalho ou capital. Imagino que você queira mais um exemplo, certo? Vamos lá:
+Se você ganhar na Mega-Sena, você vai receber um provento, pois o prêmio de loteria não decorre do
+produto do seu trabalho (você nem “suou” para consegui-lo, certo?) nem do produto do seu capital. Além
+disso, podemos citar também os ganhos de capitais verificados na alienação de bens, bem com os
+acréscimos patrimoniais cuja origem não pode ser comprovada pelo sujeito passivo.
+Finalizando o estudo do fato gerador do IR, o CTN assevera nos §§ 1º e 2º do art. 43 o seguinte:
+
+        § 1o A incidência do imposto independe da denominação da receita ou do rendimento,
+        da localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de
+        percepção.
+        § 2o Na hipótese de receita ou de rendimento oriundos do exterior, a lei estabelecerá as
+        condições e o momento em que se dará sua disponibilidade, para fins de incidência do
+        imposto referido neste artigo.
+
+Note a coerência desses dispositivos com os critérios da generalidade e da universalidade. O objetivo do
+legislador foi exatamente incluir no âmbito da incidência do IR as pessoas e os rendimentos que
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      10
+        www.estrategiaconcursos.com.br                                                                58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+poderiam “escapar” da tributação. É o caso, por exemplo, dos rendimentos auferidos no exterior por
+pessoas domiciliadas no Brasil.
+Uma jurisprudência digna de destaque é o julgamento da ADI 5.422, em 2022, no qual foi decidido que não
+há incidência de IR sobre valores percebidos a título de alimentos ou de pensão alimentícia, por estar
+ausente o acréscimo patrimonial.
+
+Base de Cálculo
+Em relação à base de cálculo do IR, o CTN prevê que “é o montante, real, arbitrado ou presumido, da
+renda ou dos proventos tributáveis”.
+Nesse ponto, é válido destacar que o CTN apenas discriminou a base de cálculo aplicável ao Imposto de
+Renda das Pessoas Jurídicas. No entanto, como é sabido, tal imposto incide também sobre os rendimentos
+auferidos pelas pessoas físicas.
+Como nossa aula não é sobre legislação tributária, você não vai precisar guardar nada além do que foi
+exposto acima (real, arbitrado ou presumido).
+
+Contribuintes
+       No tocante à sujeição passiva, segue a redação do art. 45 do CTN:
+
+        Art. 45. Contribuinte do imposto é o titular da disponibilidade a que se refere o artigo
+        43, sem prejuízo de atribuir a lei essa condição ao possuidor, a qualquer título, dos bens
+        produtores de renda ou dos proventos tributáveis.
+        Parágrafo único. A lei pode atribuir à fonte pagadora da renda ou dos proventos
+        tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento lhe
+        caibam.
+
+Em síntese, contribuinte é o titular da disponibilidade de renda ou dos proventos de qualquer natureza.
+Além dos titulares, a lei pode atribuir essa condição ao possuidor, ou seja, mesmo não sendo proprietário
+do bem cuja renda foi gerada, pode ser considerado contribuinte.
+Ademais, o CTN também esclarece que a lei pode responsabilizar a fonte pagadora (o empregador, por
+exemplo) pela retenção e recolhimento do IR devido pelo contribuinte (empregados, por exemplo).
+Estudaremos em aula específica essa possibilidade de se cobrar o tributo de outra pessoa que não seja o
+contribuinte. Fique tranquilo.
+
+Lançamento
+Muitas pessoas afirmam que o IR é um tributo cujo lançamento é feito por declaração. Isso se dá por causa
+da famigerada Declaração de Imposto de Renda das Pessoas Físicas (DIRPF).
+No entanto, destaque-se que o IR é lançado por homologação, pois o contribuinte presta sua declaração,
+antecipando o imposto porventura devido, sem prévio exame da autoridade administrativa. Esta, por sua
+vez, realiza a posterior homologação.
+
+Jurisprudência sobre o IR
+Elencamos abaixo algumas das principais jurisprudências do STF e STJ para memorização. Como são muitas
+jurisprudências (e aqui, apenas as mais relevantes), recomendamos, pelo menos, uma leitura atenta:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      11
+        www.estrategiaconcursos.com.br                                                                58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Súmula 627 STJ - O contribuinte faz jus à concessão ou à manutenção da isenção do imposto de renda, não
+se lhe exigindo a demonstração da contemporaneidade dos sintomas da doença nem da recidiva da
+enfermidade.
+Súmula 598 STJ - É desnecessária a apresentação de laudo médico oficial para o reconhecimento judicial da
+isenção do imposto de renda, desde que o magistrado entenda suficientemente demonstrada a doença
+grave por outros meios de prova.
+Súmula 590 STJ - Constitui acréscimo patrimonial a atrair a incidência do imposto de renda, em caso de
+liquidação de entidade de previdência privada, a quantia que couber a cada participante, por rateio do
+patrimônio, superior ao valor das respectivas contribuições à entidade em liquidação, devidamente
+atualizadas e corrigidas.
+Súmula 498 STJ -Não incide imposto de renda sobre a indenização por danos morais.
+Súmula 463 STJ - Incide imposto de renda sobre os valores percebidos a título de indenização por horas
+extraordinárias trabalhadas, ainda que decorrentes de acordo coletivo.
+Súmula 447 STJ - Os Estados e o Distrito Federal são partes legítimas na ação de restituição de imposto de
+renda retido na fonte proposta por seus servidores.
+Súmula 386 STJ -São isentas de imposto de renda as indenizações de férias proporcionais e o respectivo
+adicional.
+Súmula 262 STJ - Incide o imposto de renda sobre o resultado das aplicações financeiras realizadas pelas
+cooperativas.
+ADI 5.422 STF - Não incide IR sobre valores percebidos a título de alimentos ou de pensão alimentícia.
+Tema 962 STF - É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic
+recebidos em razão de repetição de indébito tributário.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         12
+        www.estrategiaconcursos.com.br                                                                   58
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 13
+
+
+
+
+Síntese do IR
+
+                                                      IMPOSTO DE RENDA
+                                                      Competência: União
+    Finalidade: Fiscal
+                                 Fato Gerador: Renda: produto do capital, trabalho ou ambos
+                                      Proventos de qualquer natureza: demais acréscimos patrimoniais
+               Base de Cálculo: Montante, real, arbitrado ou presumido, da renda ou dos proventos tributáveis.
+                                             Alíquota: Reduzida/Majorada por lei.
+                                 Obs.: Constitui exceção ao princípio da Anterioridade Nonagesimal
+                              Contribuinte: Titular da renda e dos proventos ou seu possuidor.
+                                                Lançamento: Por homologação
+
+
+
+Imposto sobre Produtos Industrializados (IPI)
+​
+Certamente, você já ouviu falar de notícias como “Governo reduz IPI sobre automóveis”. Também já deve
+ter percebido que o mercado normalmente se aquece diante de uma redução tributária dessas, não é
+mesmo? Trata-se do efeito extrafiscal do IPI.
+Embora seja um tributo de considerável arrecadação tributária, não se pode desprezar o seu efeito sobre a
+intervenção na economia do País.
+Como temos feito com os demais impostos estudados, vejamos algumas características de índole
+constitucional acerca do IPI, para depois estudarmos especificamente os seus fatos geradores, bases de
+cálculo e contribuintes, ok?
+No que se refere aos princípios aplicáveis, não obstante seja exceção ao princípio da anterioridade do
+exercício, sujeita-se ao princípio da noventena. Ou seja, qualquer majoração do IPI somente produz efeitos
+90 dias após a publicação do decreto (lembre-se de que a majoração do IPI também constitui exceção ao
+princípio da legalidade).
+Além disso, a Carta Magna também estabeleceu no art. 153, § 3º, da CF/88, os seguintes regramentos para
+o IPI:
+
+            § 3º - O imposto previsto no inciso IV:
+            I - será seletivo, em função da essencialidade do produto;
+            II - será não-cumulativo, compensando-se o que for devido em cada operação com o
+            montante cobrado nas anteriores;
+            III - não incidirá sobre produtos industrializados destinados ao exterior.
+            IV - terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do
+            imposto, na forma da lei.
+
+
+
+            Receita Federal (Analista Tributário) Direito Tributário                                             13
+            www.estrategiaconcursos.com.br                                                                       58
+
+                                          https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Primeiramente, temos que saber que o IPI será necessariamente seletivo. Ou seja, não há escolha por parte
+do legislador ordinário. Mas o que vem a ser a seletividade?
+A seletividade é a graduação das alíquotas do imposto conforme a essencialidade dos produtos tributos.
+Ou seja, produtos essenciais recebem tributação inferior aos produtos supérfluos. Logo, o arroz será
+tributado com alíquota inferior aos brinquedos, por exemplo.
+A não cumulatividade, por sua vez, diz respeito à possibilidade de se compensar o imposto devido nas
+etapas anteriores de uma cadeia de produção com o montante devido nas operações subseqüentes,
+constituindo o mecanismo de débitos e créditos. Esse conceito já deve ser familiar, certo? Imagino que sim,
+pois já o explicamos nesta aula.
+
+
+
+
+                                     O IPI deve ser seletivo e não cumulativo!
+
+
+
+Sobre o princípio da não cumulatividade, obrigatório ao IPI, o STF já decidiu que não há o aproveitamento
+de crédito quando os insumos são desonerados (isento, sujeitos à alíquota zero ou não tributáveis), na
+fabricação de bens tributados:
+
+     Súmula Vinculante 58 - Inexiste direito a crédito presumido de IPI relativamente à entrada de
+     insumos isentos, sujeitos à alíquota zero ou não tributáveis, o que não contraria o princípio da
+     não cumulatividade.
+
+
+
+
+        Se nada foi cobrado a título de IPI na entrada dos insumos, não há direito a crédito de IPI,
+        relativo a essa aquisição. Guarde isso!
+
+
+
+ “Mas e quando as saídas que forem desoneradas, professor?” Excelente pergunta! Vejamos o que diz o
+STF:
+
+     "CREDITAMENTO DO IPI. PRINCÍPIO DA NÃO-CUMULATIVIDADE. AQUISIÇÃO DE
+     MATÉRIA-PRIMA, PRODUTO INTERMEDIÁRIO E MATERIAL DE EMBALAGEM DESTINADOS À
+     INDUSTRIALIZAÇÃO DE PRODUTOS ISENTOS OU SUJEITOS AO REGIME DE ALÍQUOTA ZERO. LEI
+     9.779/99. NOVEL JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O direito ao crédito
+     de IPI, fundado no princípio da não-cumulatividade, decorrente da aquisição de matéria-prima,
+     produto intermediário e material de embalagem utilizados na fabricação de produtos isentos
+     ou sujeitos ao regime de alíquota zero, exsurgiu apenas com a vigência da Lei 9.779/99 (...)"
+     (STJ, REsp 860.369/PE, Primeira Seção, Min. Rel. Luiz Fux, Julgamento em 25/11/2009)
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        14
+        www.estrategiaconcursos.com.br                                                                  58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+O direito ao crédito do IPI, quando da industrialização de produtos isentos ou sujeitos a alíquota zero,
+somente passou a existir após a vigência da Lei 9.779/99. Perceba que o STJ se posicionou na mesma linha
+da jurisprudência do STF, de forma que podemos considerar que o STF também entende dessa maneira.
+No que se refere à aquisição de bens integrantes do ativo permanente da empresa, também não haverá
+direito a creditamento, conforme súmula do STJ:
+
+     Súmula STJ 495 - A aquisição de bens integrantes do ativo permanente da empresa não gera
+     direito a creditamento de IPI.
+
+A respeito da incidência do IPI na importação, havia muita discussão judicial a respeito da importação de
+veículos por pessoa física, quando destinado a seu uso próprio. Sobre esta situação, o STJ já chegou a se
+posicionar no sentido de que não haveria incidência do imposto, haja vista que o fato gerador do IPI
+constitui operação de natureza mercantil ou assemelhada, o que não ocorreria neste caso.
+Contudo, em fevereiro de 2016 o STF encerrou o julgamento do RE 723.651/RS, decidindo que é legítima a
+incidência do IPI na importação de automóveis por pessoas físicas para uso próprio. A decisão foi tomada
+com repercussão geral e é muito relevante para fins de concurso público, já que, como vimos, o STJ e até
+mesmo o próprio STF, já decidiu em sentido contrário.
+O raciocínio da decisão leva em consideração que a cobrança do IPI na importação dos veículos não afronta
+o princípio da não cumulatividade nem implica bitributação. A manutenção de sua incidência, por outro
+lado, preserva o princípio da isonomia, uma vez que promove igualdade de condições tributárias entre o
+fabricante nacional, já sujeito ao imposto em território nacional, e o fornecedor estrangeiro.
+Na ocasião, o STF teve a oportunidade de julgar a modulação dos efeitos dessa decisão para apenas
+alcançar casos futuros. Contudo, a modulação foi rejeitada e isso significa que a decisão tomada pelos
+Ministros da Suprema Corte alcançará as operações de importação de veículos pelas pessoas físicas
+realizadas antes da decisão do STF.
+
+
+
+
+            Se cair na prova decisão do STJ ou STF sobre o assunto, a resposta é que é legítima a
+            incidência do IPI na importação de automóveis por pessoas físicas para uso próprio.
+
+
+
+Há ainda no inciso III do § 3º do art. 153 uma imunidade específica do IPI, relativa às operações de
+exportações. Nesse sentido, o IPI não incide sobre produtos industrializados destinados ao exterior!
+
+
+
+
+        Vamos recordar as outras imunidades do IPI:
+        -Livros, jornais, periódicos e papel destinado a sua impressão (art. 150, VI, d);
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      15
+        www.estrategiaconcursos.com.br                                                                58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+        -Ouro, quando definido em lei como ativo financeiro ou instrumento cambial (art. 153, §
+        5º);
+        -Energia elétrica, derivados de petróleo, combustíveis e minerais no País (art. 155, § 3º).
+
+
+
+Com o advento da EC 42/03, foi acrescentado o inciso IV ao § 3º do art. 153, da CF/88, passando a prever
+que o IPI terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, na
+forma da lei.
+Trata-se de um incentivo concedido àqueles que adquirirem os denominados bens de capital, com a
+finalidade de promover o desenvolvimento econômico.
+
+        Observação: Bens de capital são aqueles que são utilizados para produzir outros bens.
+        Cite-se, como exemplo, as máquinas.
+
+
+
+
+Vale ressaltar que a redução do impacto do IPI sobre a aquisição de bens de capital não é autoaplicável,
+cabendo à lei ordinária dispor sobre o tema. Todavia, o dispositivo possui ao menos a eficácia negativa
+imediata, isto é, impede que lei disponha em sentido contrário.
+
+
+
+
+                Cuidado! Possuir eficácia negativa imediata não significa ser autoaplicável.
+
+
+
+
+Fato Gerador
+No tocante ao estudo do fato gerador do IPI, vejamos o que diz o art. 46 do CTN:
+
+        Art. 46. O imposto, de competência da União, sobre produtos industrializados tem como
+        fato gerador:
+        I - o seu desembaraço aduaneiro, quando de procedência estrangeira;
+        II - a sua saída dos estabelecimentos a que se refere o parágrafo único do artigo 51;
+        III - a sua arrematação, quando apreendido ou abandonado e levado a leilão.
+        Parágrafo único. Para os efeitos deste imposto, considera-se industrializado o produto
+        que tenha sido submetido a qualquer operação que lhe modifique a natureza ou a
+        finalidade, ou o aperfeiçoe para o consumo.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      16
+        www.estrategiaconcursos.com.br                                                                58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+De modo sucinto, são três os fatos geradores do IPI: o desembaraço aduaneiro, caso o produto seja de
+procedência estrangeira (I); a saída do produto industrializado do estabelecimento industrial ou equiparado
+a industrial (II); e a arrematação, quando apreendido ou abandonado e levado a leilão (III).
+
+De acordo com a legislação do IPI, o importador, ao revender os produtos importados do exterior, se
+submete a duas incidências do imposto: uma na importação, com o desembaraço aduaneiro; outra na
+revenda de tais produtos, com a saída deles do estabelecimento do importador.
+A lógica da segunda incidência consiste na equiparação do estabelecimento importador a industrial,
+tornando-se contribuinte do IPI pela segunda vez. Afinal, podem ser contribuintes do IPI não só o
+estabelecimento industrial, mas também os que a lei a este equiparar.
+Ademais, o IPI é um imposto não cumulativo, isso significa que o valor pago a título do imposto por ocasião
+do desembaraço aduaneiro da mercadoria importada pode ser compensado com o IPI devido na saída do
+produto do estabelecimento importador.
+Este sempre foi um tema muito polêmico, e os contribuintes alegavam ofensa ao princípio da isonomia, por
+haver tributação excessiva sobre o importador, se comparado à indústria nacional.
+A respeito deste assunto, devemos ressaltar que o STJ já decidiu já decidiu tanto pela improcedência do
+segundo fato gerador, quanto pela sua legitimidade. Mas isso não importa para você, amigo concurseiro.
+O que é relevante para a sua prova é que o tema chegou ao STF, que reconheceu a repercussão geral do
+tema (tema 906) quando do julgamento do Recurso Extraordinário 946.648/SC.
+E, em resumo, o Supremo Tribunal Federal definiu a seguinte tese (que pode cair na prova): É constitucional
+a incidência do Imposto sobre Produtos Industrializados - IPI no desembaraço aduaneiro de bem
+industrializado e na saída do estabelecimento importador para comercialização no mercado interno".
+Então, falou em revenda de mercadorias importadas, lembre-se que há dois fatos geradores do IPI: uma
+na importação, e outro com a saída da mercadoria do estabelecimento importador.
+
+
+
+
+        Guarde o seguinte: na revenda de mercadorias importadas, ocorrem dois fatos geradores
+        do IPI (legítimos, de acordo com o STF):
+        1º fato gerador: desembaraço aduaneiro;
+        2º fato gerador: saída da mercadoria do estabelecimento importador (revenda).
+
+Ainda sobre o fato gerador do IPI, precisamos destacar a Súmula 671 do STJ:
+
+        Súmula 671 STJ – Não incide o IPI quando sobrevém furto ou roubo do produto
+        industrializado após sua saída do estabelecimento industrial ou equiparado e antes de sua
+        entrega ao adquirente.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        17
+        www.estrategiaconcursos.com.br                                                                  58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+Base de Cálculo
+Vimos que há três fatos geradores para o IPI, correto? Para cada um desses fatos geradores, o CTN
+estabeleceu uma base de cálculo específica. Vamos ver o que diz o art. 47 do CTN:
+
+        Art. 47. A base de cálculo do imposto é:
+        I - no caso do inciso I do artigo anterior, o preço normal, como definido no inciso II do
+        artigo 20, acrescido do montante:
+        a) do imposto sobre a importação;
+        b) das taxas exigidas para entrada do produto no País;
+        c) dos encargos cambiais efetivamente pagos pelo importador ou dele exigíveis;
+        II - no caso do inciso II do artigo anterior:
+        a) o valor da operação de que decorrer a saída da mercadoria;
+        b) na falta do valor a que se refere a alínea anterior, o preço corrente da mercadoria, ou
+        sua similar, no mercado atacadista da praça do remetente;
+        III - no caso do inciso III do artigo anterior, o preço da arrematação.
+
+Tratando-se de operação de importação de produtos, ocorre o fato gerador do IPI com o desembaraço
+aduaneiro, sendo que a base de cálculo é o preço normal (ou valor aduaneiro), que é a própria base de
+cálculo do II, acrescentada do montante do próprio II, das taxas exigidas para entrada do produto no País,
+bem como dos encargos cambiais efetivamente pagos pelo importador ou dele exigíveis.
+
+        Observação: Desembaraço aduaneiro é o ato final do procedimento de despacho
+        aduaneiro de importação.
+
+No caso de saída dos produtos industrializados nacionais dos estabelecimentos, a base de cálculo é o valor
+da operação da qual decorrer a saída da mercadoria, incluídos neste valor: o preço do produto, o valor do
+frete e das demais despesas acessórias.
+Na falta desse valor, a base de cálculo será o preço corrente da mercadoria ou sua similar, no mercado
+atacadista (não é varejista) da praça do remetente (não é do destinatário).
+Por fim, no caso de produtos apreendidos ou abandonados e levados a leilão, a base de cálculo é o preço
+da arrematação.
+
+Contribuintes
+Quanto aos contribuintes do IPI, não há segredos, bastando que o candidato memorize as pessoas
+elencadas no art. 51 do CTN:
+
+        Art. 51. Contribuinte do imposto é:
+        I - o importador ou quem a lei a ele equiparar;
+        II - o industrial ou quem a lei a ele equiparar;
+        III - o comerciante de produtos sujeitos ao imposto, que os forneça aos contribuintes
+        definidos no inciso anterior;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       18
+        www.estrategiaconcursos.com.br                                                                 58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+         IV - o arrematante de produtos apreendidos ou abandonados, levados a leilão.
+
+Lançamento
+Da mesma forma como a grande maioria dos impostos, o IPI é lançado por homologação.
+
+Síntese do IPI
+
+                                   IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS
+                                                   Competência: União
+ Finalidade: Extrafiscal
+                                        Fato Gerador: I) desembaraço aduaneiro
+                                      II) saída dos estabelecimentos contribuintes do imposto
+                                                       III) arrematação em leilão
+                           Base de Cálculo: I) preço normal + II + taxas + encargos cambiais
+                II) valor da operação
+                III) preço da arrematação
+                Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+                                    Obs.: Constitui exceção ao princípio Anterioridade Anual
+                                     Contribuinte: Importador ou a ele equiparado;
+                                                    Industrial ou a ele equiparado;
+                                Comerciante de produtos sujeitos ao IPI, destinados aos industriais;
+                                      Arrematante de produtos apreendidos ou abandonados.
+                                             Lançamento: Por homologação
+
+
+
+
+Imposto sobre operações de crédito, câmbio e seguro, ou
+relativas a títulos ou valores mobiliários (IOF)
+
+O Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários,
+também conhecido por IOF, é mais um tributo eminentemente extrafiscal, pelo fato de ser utilizado para
+como instrumento de política monetária.
+Além da incidência do imposto sobre as operações de crédito, câmbio e seguro, ou relativas a títulos ou
+valores mobiliários, o IOF também incide sobre o ouro, quando definido em lei como ativo financeiro ou
+instrumento cambial.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      19
+         www.estrategiaconcursos.com.br                                                                58
+
+                                        https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 13
+
+
+
+
+          O art. 153, § 4º, da CF/88, estabelece que sobre o ouro ativo financeiro sujeita-se a
+          incidência exclusiva do IOF.
+
+
+
+Neste caso específico, o ouro somente se submete à incidência do IOF, devido na operação de origem, e a
+alíquota, por seu turno, é de no mínimo 1%.
+
+
+
+
+                                           O que seria operação de origem?
+          É considerada como operação de origem do ouro, como ativo financeiro ou instrumento
+          cambial a correspondente à sua primeira aquisição por instituição autorizada ou o seu
+          desembaraço aduaneiro, quando o ouro for oriundo do exterior.
+
+​
+Nessa esteira, o STF (RE 190.363) já entendeu inconstitucional o dispositivo legal que previa a incidência do
+IOF sobre a “transmissão” do ouro definido pela legislação como ativo financeiro, tendo em vista que a
+incidência apenas pode se dar na operação de origem.
+Ainda no que se refere à incidência do IOF sobre o ouro, é interessante destacar os entes que receberão os
+recursos arrecadados:
+●​ 30% para o Estado, Distrito Federal ou o Território, conforme a origem.
+●​ 70% para o Município de origem.
+Destaque-se que não há incidência do IOF sobre saques efetuados em caderneta de poupança:
+
+       Súmula STF 664 - É inconstitucional o inciso V do art. 1º da Lei 8.033/90, que instituiu a
+       incidência do imposto nas operações de crédito, câmbio e seguros - IOF sobre saques efetuados
+       em caderneta de poupança.
+
+Vejamos mais uma jurisprudência sobre o IOF:
+
+       “A alienação de salvados configura atividade integrante das operações de seguros e não tem
+       natureza de circulação de mercadoria para fins de incidência do ICMS. Inconstitucionalidade
+       da expressão ‘e as seguradoras’, do inciso IV do art. 15 da Lei 6.763, com redação dada pelo art.
+       1º da Lei 9.758/1989 do Estado de Minas Gerais. Violação dos arts. 22, VII, e 153, V, da CF.”
+       (STF, ADI 1.648, Plenário, Rel. Min. Gilmar Mendes, Julgamento em 16/02/2011)
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                         20
+          www.estrategiaconcursos.com.br                                                                   58
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Os bens, salvados pelas seguradoras, são aqueles objetos resgatados do sinistro do bem principal, e que
+ainda possuem algum valor econômico. Sobre estes, há incidência de IOF, mas não de ICMS, como
+veremos ao estudar tal imposto.
+
+        Observação: Sobre este tema, temos a importante Súmula Vinculante 32: O ICMS não
+        incide sobre alienação de salvados de sinistro pelas seguradoras.
+
+É de se ressaltar, conforme jurisprudência do STJ, que sobre o resultado da operação de mútuo incide o IOF:
+
+     TRIBUTÁRIO – IOF – INCIDÊNCIA SOBRE MÚTUO NÃO MERCANTIL – LEGALIDADE DA LEI
+     9.779/99.
+     1. A lei 9.779/99, dentro do absoluto contexto do art. 66 CTN, estabeleceu, como hipótese de
+     incidência do IOF, o resultado de mútuo.
+     (STJ, REsp 522.294/RS, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 09/12/2003)
+
+
+
+
+        Observação: Contrato de mútuo significa empréstimo de coisa fungível e consumível,
+        como, por exemplo, dinheiro.
+
+Por derradeiro, não se esqueça de que a alteração de alíquotas desse imposto também é exceção ao
+princípio da legalidade, anterioridade e noventena.
+
+Fato Gerador
+O estudo do fato gerador do IOF a ser cobrado em prova de Direito Tributário é mera “decoreba” do art. 63
+do CTN. Portanto, vou grifá-lo apenas, de forma que facilite a compreensão:
+
+        Art. 63. O imposto, de competência da União, sobre operações de crédito, câmbio e
+        seguro, e sobre operações relativas a títulos e valores mobiliários tem como fato gerador:
+        I - quanto às operações de crédito, a sua efetivação pela entrega total ou parcial do
+        montante ou do valor que constitua o objeto da obrigação, ou sua colocação à disposição
+        do interessado;
+        II - quanto às operações de câmbio, a sua efetivação pela entrega de moeda nacional ou
+        estrangeira, ou de documento que a represente, ou sua colocação à disposição do
+        interessado em montante equivalente à moeda estrangeira ou nacional entregue ou
+        posta à disposição por este;
+        III - quanto às operações de seguro, a sua efetivação pela emissão da apólice ou do
+        documento equivalente, ou recebimento do prêmio, na forma da lei aplicável;
+        IV - quanto às operações relativas a títulos e valores mobiliários, a emissão, transmissão,
+        pagamento ou resgate destes, na forma da lei aplicável.
+        Parágrafo único. A incidência definida no inciso I exclui a definida no inciso IV, e
+        reciprocamente, quanto à emissão, ao pagamento ou resgate do título representativo de
+        uma mesma operação de crédito.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        21
+        www.estrategiaconcursos.com.br                                                                  58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+        Observação: Prêmio é aquele valor que nós pagamos para contratar o seguro do nosso
+        carro.
+
+Vamos sintetizar tudo isso aí?
+Nas operações de crédito ou de câmbio, o fato gerador ocorre basicamente com a entrega do valor ou sua
+colocação à disposição do interessado. Nas operações de seguro, ocorre o fato gerador com a emissão da
+apólice ou quando a seguradora recebe o prêmio que você pagou. Por último, nas operações relativas a
+títulos e valores mobiliários, o fato gerador pode ser a emissão, transmissão, pagamento ou resgate dos
+títulos, na forma da lei.
+“E esse parágrafo único? O que significa?”
+Muito simples, companheiro (a)! Em algumas operações, o crédito (inciso I) pode estar representado por
+um título (inciso IV). Neste caso, o parágrafo único veio elucidar a questão, estabelecendo que não haverá
+incidência cumulativa de IOF (caso contrário, haveria dupla incidência).
+Destaque-se que o STF tem entendimento pacificado sobre a não incidência do IOF sobre operações de
+saques efetuados em caderneta de poupança:
+
+     Súmula STF 664 - É inconstitucional o inciso V do art. 1º da Lei 8.033/90, que instituiu a
+     incidência do imposto nas operações de crédito, câmbio e seguros - IOF sobre saques efetuados
+     em caderneta de poupança.
+
+Base de Cálculo
+Para cada fato gerador previsto no tópico acima, o legislador do CTN previu uma base de cálculo específica.
+Senão, vejamos:
+
+        Art. 64. A base de cálculo do imposto é:
+        I - quanto às operações de crédito, o montante da obrigação, compreendendo o
+        principal e os juros;
+        II - quanto às operações de câmbio, o respectivo montante em moeda nacional,
+        recebido, entregue ou posto à disposição;
+        III - quanto às operações de seguro, o montante do prêmio;
+        IV - quanto às operações relativas a títulos e valores mobiliários:
+        a) na emissão, o valor nominal mais o ágio, se houver;
+        b) na transmissão, o preço ou o valor nominal, ou o valor da cotação em Bolsa, como
+        determinar a lei;
+        c) no pagamento ou resgate, o preço.
+
+Como as operações de créditos podem ser entendidas, em resumo, como financiamentos, o IOF incide
+sobre o valor total, ou seja, principal e os juros. Nas operações de câmbio, é o valor recebido ou posto à
+disposição. No tocante às operações de seguro, é o valor do prêmio.
+Para finalizar, quando se tratar de operações relativas a títulos e valores mobiliários, lembre-se de que na
+emissão pode haver ágio, sendo este incluído na base de cálculo do IOF. Posteriormente, na transmissão
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         22
+        www.estrategiaconcursos.com.br                                                                   58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+dos títulos, o imposto incide sobre o valor nominal ou cotação em bolsa, conforme a lei determinar.
+Quando ao pagamento ou resgate, a base de cálculo será o respectivo preço.
+
+Contribuintes
+No caso específico do IOF, o CTN permitiu que a lei instituidora do imposto previsse quem são os
+contribuintes, podendo ser qualquer das partes na operação tributada:
+
+         Art. 66. Contribuinte do imposto é qualquer das partes na operação tributada, como
+         dispuser a lei.
+
+Sobre os contribuintes do IOF, vale destacar a jurisprudência do STF (Tema 104 Repercussão Geral): É
+constitucional a incidência do IOF sobre operações de crédito correspondentes a mútuo de recursos
+financeiros entre pessoas jurídicas ou entre pessoa jurídica e pessoa física, não se restringindo às
+operações realizadas por instituições financeiras.
+
+Lançamento
+O lançamento do IOF também é realizado por homologação.
+
+
+Síntese do IOF
+
+                                                            IOF
+                                                   Competência: União
+ Finalidade: Extrafiscal
+                        Fato Gerador: Crédito e câmbio: valor entregue ou posto à disposição;
+                                       Seguro: emissão da apólice ou recebimento do prêmio;
+                                  Títulos ou valores: emissão, transmissão, pagamento ou resgate.
+                                Base de Cálculo: Crédito: montante (principal + juros);
+                 Câmbio: valor recebido ou posto à disposição;
+                 Seguro: montante do prêmio;
+                 Títulos e valores: Emissão: valor nominal + ágio (se houver);
+                                 Transmissão: Preço/Valor nominal/Bolsa;
+                                 Pagamento ou resgate: o preço.
+                 Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+            Obs.: Constitui exceção aos princípios Anterioridade Anual/Nonagesimal
+                       Contribuinte: Qualquer das partes na operação tributada (a lei definirá)
+                                             Lançamento: Por homologação
+
+Imposto sobre propriedade Territorial Rural (ITR)
+Em termos simples, o ITR é um imposto que incide sobre propriedades territoriais localizadas fora da área
+urbana dos municípios, sendo um imposto de competência privativa da União.
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                     23
+         www.estrategiaconcursos.com.br                                                               58
+
+                                       https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 13
+
+
+
+Ademais, possui marcante finalidade extrafiscal, pois é considerado um instrumento de política agrária do
+Estado, sendo utilizado para estimular a produtividade das propriedades rurais.
+Nessa esteira, a EC 42/2003 incluiu no texto constitucional (art. 153, § 4º, I) a progressividade das alíquotas
+do ITR de forma a desestimular a manutenção de propriedades improdutivas.
+
+
+
+
+          Cuidado com o jogo de palavras: estimular a produtividade das propriedades rurais =
+          desestimular manutenção de propriedades improdutivas
+
+Insta observar, também, a imunidade trazida pela referida emenda constitucional, que estabeleceu que não
+incidirá ITR sobre as pequenas glebas rurais, cujo conceito será definido em lei, quando as explore o
+proprietário que não possua outro imóvel. Trata-se, como já estudamos, de imunidade mista!
+Por curiosidade, vamos falar aqui o conceito que a lei definiu como pequena gleba. Contudo, não será
+necessário memorizar isso, apenas ter ciência de como foi feita tal delimitação.
+
+
+​        Vejamos, então, o que diz o art. 2º da Lei 9.393/1996:
+
+          Art. 2º Nos termos do art. 153, § 4º, in fine, da Constituição, o imposto não incide sobre
+          pequenas glebas rurais, quando as explore, só ou com sua família, o proprietário que não
+          possua outro imóvel.
+          Parágrafo único. Para os efeitos deste artigo, pequenas glebas rurais são os imóveis com
+          área igual ou inferior a :
+          I - 100 ha, se localizado em município compreendido na Amazônia Ocidental ou no
+          Pantanal mato-grossense e sul-mato-grossense;
+          II - 50 ha, se localizado em município compreendido no Polígono das Secas ou na
+          Amazônia Oriental;
+          III - 30 ha, se localizado em qualquer outro município.
+
+Percebe-se, portanto, que o critério varia conforme a região do país em que se encontra localizada a
+propriedade rural.
+Antes de entrarmos no estudo do fato gerador do ITR, eu gostaria que você também soubesse que o
+imposto pode ser fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que
+não implique redução do imposto ou qualquer outra forma de renúncia fiscal, conforme previsão no art.
+153, § 4º, III, da CF/88.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                          24
+          www.estrategiaconcursos.com.br                                                                    58
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+        Opa! O que acontece nesse caso? Isso mesmo: delegação da capacidade tributária ativa!
+        Lembre-se de que a competência tributária continua sendo da União.
+
+Caso os Municípios optem por fiscalizar e arrecadar o ITR, receberão a totalidade do que foi arrecadado.
+Caso não optem por assumir a sujeição ativa, recebem “apenas” 50% do montante arrecadado,
+relativamente aos imóveis neles situados. Não se preocupe, pois a repartição constitucional é assunto para
+outra aula.
+
+Fato Gerador
+O fato gerador do ITR, nos termos do art. 29 do CTN, é o seguinte:
+
+        Art. 29. O imposto, de competência da União, sobre a propriedade territorial rural tem
+        como fato gerador a propriedade, o domínio útil ou a posse de imóvel por natureza,
+        como definido na lei civil, localização fora da zona urbana do Município.
+        ​     Inicialmente, o conceito de “imóvel por natureza” traduz-se no solo nu e o que lhe
+        foi agregado pela própria natureza, como árvores e vegetação, por exemplo.
+
+Além disso, segundo o CTN, o ITR só vai incidir sobre tais imóveis, quando localizados fora da zona urbana
+do Município. Como descobrir se o imóvel está localizado na zona urbana ou rural?
+O próprio CTN traz a definição no art. 32 (que se refere ao IPTU):
+
+        Art. 32. O imposto, de competência dos Municípios, sobre a propriedade predial e
+        territorial urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem
+        imóvel por natureza ou por acessão física, como definido na lei civil, localizado na zona
+        urbana do Município.
+        § 1º Para os efeitos deste imposto, entende-se como zona urbana a definida em lei
+        municipal; observado o requisito mínimo da existência de melhoramentos indicados em
+        pelo menos 2 (dois) dos incisos seguintes, construídos ou mantidos pelo Poder Público:
+        I - meio-fio ou calçamento, com canalização de águas pluviais;
+        II - abastecimento de água;
+        III - sistema de esgotos sanitários;
+        IV - rede de iluminação pública, com ou sem posteamento para distribuição domiciliar;
+        V - escola primária ou posto de saúde a uma distância máxima de 3 (três) quilômetros do
+        imóvel considerado.
+        § 2º A lei municipal pode considerar urbanas as áreas urbanizáveis, ou de expansão
+        urbana, constantes de loteamentos aprovados pelos órgãos competentes, destinados à
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       25
+        www.estrategiaconcursos.com.br                                                                 58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+        habitação, à indústria ou ao comércio, mesmo que localizados fora das zonas definidas
+        nos termos do parágrafo anterior.
+
+Sendo assim, desde que estejam presentes pelo menos dois dos requisitos estabelecidos nos incisos do art.
+32 do CTN, o imóvel será considerado urbano, não estando sujeito ao ITR. A contrario sensu, se não
+estiverem presentes no mínimo 2 dois requisitos previstos, incidirá o ITR.
+Acrescentamos que, em questões que versem sobre a incidência do ITR/IPTU, é muito importante se ater a
+outro detalhe importantíssimo, previsto não no CTN, mas no DL 57/1966, o qual já teve a sua validade
+reconhecida pela jurisprudência e define uma regra para incidência do ITR, até mesmo sobre imóveis
+localizados na zona urbana do Município, desde que seja utilizado em exploração vegetal, agrícola,
+pecuária ou agroindustrial.
+
+
+
+
+        Um imóvel pode estar localizado em uma região que é definida em lei como zona
+        urbana do Município e, mesmo assim, sobre ele incidir o ITR.
+        O art. 15, do Decreto-Lei 57/66, estabelece que, ainda que o imóvel esteja localizado em
+        área urbana do município, caso seja utilizado em exploração extrativa vegetal, agrícola,
+        pecuária ou agroindustrial, incidirá ITR, e não IPTU.
+        Como sabemos, ambos os impostos incidem sobre propriedade de imóveis, sendo o IPTU
+        incidente sobre os bens imóveis urbanos, e o ITR, sobre o bens imóveis rurais.
+        Dessa forma, seguindo o disposto acima, mesmo que o imóvel esteja localizado em área
+        definida em lei como zona urbana do Município, sobre ele incidirá o ITR, e não o IPTU.
+
+
+
+
+        DICA DE PROVA: Não se preocupe, pois quando a questão de prova cobrar essa regra do
+        DL 57/66, haverá indícios, como a referência à finalidade dada ao imóvel ou mesmo a
+        referência expressa ao referido diploma normativo.
+
+
+
+Segue abaixo a decisão do STJ a respeito da validade do DL 57/66:
+
+     TRIBUTÁRIO. IPTU. ITR. FATO GERADOR. IMÓVEL SITUADO NA ZONA URBANA. LOCALIZAÇÃO.
+     DESTINAÇÃO. CTN, ART. 32. DECRETO-LEI N. 57/66. VIGÊNCIA. 1. Ao ser promulgado, o Código
+     Tributário Nacional valeu-se do critério topográfico para delimitar o fato gerador do Imposto
+     sobre a Propriedade Predial e Territorial Urbana (IPTU) e o Imposto sobre a Propriedade
+     Territorial Rural (ITR): se o imóvel estivesse situado na zona urbana, incidiria o IPTU; se na zona
+     rural, incidiria o ITR. 2. Antes mesmo da entrada em vigor do CTN, o Decreto-Lei nº 57/66
+     alterou esse critério, estabelecendo estarem sujeitos à incidência do ITR os imóveis situados
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           26
+        www.estrategiaconcursos.com.br                                                                     58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+     na zona rural quando utilizados em exploração vegetal, agrícola, pecuária ou agroindustrial.
+     3. A jurisprudência reconheceu validade ao DL 57/66, o qual, assim como o CTN, passou a ter o
+     status de lei complementar em face da superveniente Constituição de 1967. Assim, o critério
+     topográfico previsto no art. 32 do CTN deve ser analisado em face do comando do art. 15 do
+     DL 57/66, de modo que não incide o IPTU quando o imóvel situado na zona urbana receber
+     quaisquer das destinações previstas nesse diploma legal.
+     (STJ, REsp 492.869/PR, Primeira Turma, Min. Rel. Teori Albino Zavascki, Julgamento em
+     15/02/2005)
+
+Base de Cálculo e Alíquotas
+O Código Tributário Nacional dispõe o seguinte acerca da base de cálculo do ITR:
+
+        Art. 30. A base do cálculo do imposto é o valor fundiário.
+
+Entende-se por valor fundiário o valor da terra nua. Por conseguinte, as benfeitorias realizadas, como as
+construções, não compõem a base de cálculo do ITR.
+Relativamente às alíquotas do ITR, cabe destacar que são progressivas, segundo o grau de utilização da
+área rural. Assim, quanto menos produtivas forem as propriedades rurais, maiores serão as alíquotas do
+ITR.
+
+
+
+
+        Embora o ITR seja considerado tributo extrafiscal, não se pode esquecer que a alteração
+        de suas alíquotas sujeita-se aos princípios da anterioridade e noventena.
+
+
+
+Contribuintes
+Na dicção do CTN, os contribuintes do ITR são os seguintes:
+
+        Art. 31. Contribuinte do imposto é o proprietário do imóvel, o titular de seu domínio útil,
+        ou o seu possuidor a qualquer título.
+
+Mas o quem seriam os proprietários, titulares de domínio útil ou possuidores?
+Os proprietários são aqueles cujos imóveis estão registrados em seu nome no Cartório de Imóveis.
+Os titulares de domínio útil, por seu turno, são aqueles que adquiriram o imóvel por enfiteuse, que consiste
+na permissão conferida ao proprietário do imóvel para entregá-lo a terceiros, de sorte que estes passam a
+ter o domínio útil, podendo inclusive aliená-los. A esses titulares de domínio útil denominamos enfiteutas
+ou foreiros.
+
+        Observação: O novo Código Civil (art. 2.038) proibiu a constituição de novas enfiteuses e
+        subenfiteuses, subordinando as existentes, até sua extinção, às disposições do Código
+        Civil anterior.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         27
+        www.estrategiaconcursos.com.br                                                                   58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Sobre o possuidor a qualquer título, podemos dizer que é aquele que possui algum dos poderes sobre a
+propriedade. Citemos, como exemplo, o que a adquire pela usucapião.
+Com efeito, se na sua prova cair que os “posseiros” podem ser considerados contribuintes do ITR, você
+deve considerar a questão CORRETA!
+Por último, destaque-se que, de acordo com o STJ (REsp 1.144.982/PR), se o imóvel é invadido, não se faz
+possível a cobrança do ITR, tendo em vista que há perda do domínio e dos direitos inerentes à
+propriedade.
+
+Lançamento
+O lançamento do ITR também é realizado por homologação.
+
+Síntese do ITR
+
+                                 IMPOSTO SOBRE PROPRIEDADE TERRITORIAL RURAL
+                                                   Competência: União
+ Finalidade: Extrafiscal
+                      Fato Gerador: Propriedade, domínio útil ou posse de imóvel por natureza
+                                      Base de Cálculo: Valor fundiário (terra nua)
+                                          Alíquota: Reduzida/Majorada por lei.
+                Contribuinte: Proprietário do imóvel, titular do seu domínio útil ou o seu possuidor
+                                             Lançamento: Por homologação
+
+
+
+
+Imposto sobre Grandes Fortunas (IGF)
+
+Observemos a redação do art. 153, VII, da CF/88:
+
+         Art. 153. Compete à União instituir impostos sobre:
+         VII - grandes fortunas, nos termos de lei complementar.​
+
+Trata-se do único imposto expressamente previsto na CF/88, cuja competência ainda não foi exercida pela
+União.
+No que se refere ao instrumento normativo que deve ser utilizado para a instituição do IGF, alguns
+doutrinadores alegam que o art. 153, VII, apenas menciona a necessidade de lei complementar para dispor
+sobre aspectos gerais do imposto, sendo que a lei instituidora poderia ser lei ordinária.
+No entanto, lembre-se de que quando estudamos as espécies tributárias, vimos que os impostos terão os
+seus fatos geradores, bases de cálculo e contribuintes discriminados em lei complementar (art. 146, III, a,
+da CF/88).
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       28
+         www.estrategiaconcursos.com.br                                                                 58
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Sabendo-se que tal regra já foi imposta lá no art. 146, não faria qualquer sentido deixar expresso no art.
+153, VII, algo que já havia sido previsto em outro dispositivo constitucional. Com base nisso, e é o que você
+deve levar para a sua prova, concluímos que o IGF deve ser instituído por lei complementar.
+Um ponto importante a ser destacado a respeito do IGF é que o produto da sua arrecadação comporá parte
+do Fundo de Combate e Erradicação da Pobreza, conforme art. 80, III, do ADCT:
+       Art. 80. Compõem o Fundo de Combate e Erradicação da Pobreza: (Incluído pela Emenda
+       Constitucional nº 31, de 2000) (Vide Emenda Constitucional nº 67, de 2010)
+       (...)
+       III – o produto da arrecadação do imposto de que trata o art. 153, inciso VII, da Constituição;
+       (Incluído pela Emenda Constitucional nº 31, de 2000)
+Por fim, vale ressaltar que, como o IGF não consta como exceção aos princípios da anterioridade e
+noventena, caso venha ser instituído algum dia, somente produzirá efeitos após o decurso de tais prazos.
+
+
+
+Imposto Seletivo (IS)
+
+Vamos analisar a partir de agora o imposto incluído na competência tributária da União, por meio da EC
+132/2023 (Reforma Tributária):
+     Art. 153. Compete à União instituir impostos sobre:
+     (...)
+     VIII - produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde
+     ou ao meio ambiente, nos termos de lei complementar. (Incluído pela Emenda Constitucional nº
+     132, de 2023)
+       Sabe-se que os impostos de competência da União foram listados no art. 153 (e no art. 154), da CF.
+Além da competência já prevista atualmente, a União poderá instituir outro imposto, previsto no art. 153,
+VIII, que incidirá sobre a produção, extração, comercialização ou importação de bens e serviços prejudiciais
+à saúde ou ao meio ambiente, nos termos de lei complementar. Trata-se do imposto conhecido como
+seletivo.
+
+
+
+Regras Constitucionais do IS
+
+Agora vejamos as regras constitucionais aplicáveis a esse imposto federal:
+     “Art.153...............................................................
+     ...............................................................................
+     § 6º O imposto previsto no inciso VIII terá finalidade extrafiscal e:
+     I - não incidirá sobre as exportações nem sobre as operações com energia elétrica e com
+     telecomunicações; (Incluído pela Emenda Constitucional nº 132, de 2023)
+     II - incidirá uma única vez sobre o bem ou serviço; (Incluído pela Emenda Constitucional nº 132,
+     de 2023)
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          29
+        www.estrategiaconcursos.com.br                                                                    58
+
+                                           https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+      III - não integrará sua própria base de cálculo; (Incluído pela Emenda Constitucional nº 132, de
+      2023)
+      IV - integrará a base de cálculo dos tributos previstos nos arts. 155, II, 156, III, 156-A e 195, V;
+      (Incluído pela Emenda Constitucional nº 132, de 2023)
+      V - poderá ter o mesmo fato gerador e base de cálculo de outros tributos; (Incluído pela Emenda
+      Constitucional nº 132, de 2023)
+      VI - terá suas alíquotas fixadas em lei ordinária, podendo ser específicas, por unidade de medida
+      adotada, ou ad valorem; (Incluído pela Emenda Constitucional nº 132, de 2023)
+      VII - na extração, o imposto será cobrado independentemente da destinação, caso em que a
+      alíquota máxima corresponderá a 1% (um por cento) do valor de mercado do produto. (Incluído
+      pela Emenda Constitucional nº 132, de 2023)
+Vamos analisar inciso por inciso nos próximos parágrafos:
+Não incidirá sobre as exportações nem sobre as operações com energia elétrica e com telecomunicações;
+Antes de resumirmos, temos, ainda, uma previsão no art. 9º, § 9º, na EC 132/2023, importante para o
+Imposto Seletivo:
+      Art. 9º.
+      (...)
+      § 9º O imposto previsto no art. 153, VIII, da Constituição Federal não incidirá sobre os bens ou
+      serviços cujas alíquotas sejam reduzidas nos termos do § 1º deste artigo.
+      Três imunidades previstas para esse imposto são:
+      Não incidirá sobre exportações;
+   ●​ Não incidirá sobre operações com energia elétrica e com telecomunicações.
+   ●​ Não incidirá sobre os bens ou serviços cujas alíquotas sejam reduzidas em razão de regimes
+      diferenciados de tributação para o IBS e para a CBS.
+                                                              ​
+
+
+
+
+         Vale ressaltar que este imposto pode incidir sobre operações relativas a derivados de
+         petróleo, combustíveis e minerais do País.
+
+Incidirá uma única vez sobre o bem ou serviço;
+Trata-se de imposto monofásico. Isto é, diferentemente da lógica do IPI ou do ICMS, por exemplo, esse
+imposto não é plurifásico. Cada produto sofre apenas uma incidência independentemente de quantos elos
+tenha a sua cadeia de industrialização e circulação.
+Não integrará sua própria base de cálculo;
+Esta regra implica dizer que o seu cálculo é realizado por fora. Ou seja, o valor do imposto não integra a sua
+própria base de cálculo.
+Integrará a base de cálculo dos tributos previstos nos arts. 155, II, 156, III, 156-A e 195, V;
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                          30
+         www.estrategiaconcursos.com.br                                                                    58
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Por outro lado, o referido imposto compõe a base de cálculo do ICMS, do ISS, do IBS e da CBS. Isso significa
+que, na apuração desses tributos, deve-se incluir o valor calculado a título desse imposto federal.
+Poderá ter o mesmo fato gerador e base de cálculo de outros tributos;
+Existe uma regra na CF/88, que estabelece que a União poderá criar novos impostos (impostos residuais),
+desde que não tenham fatos geradores ou bases de cálculo dos demais impostos. Evidentemente, tal regra
+é aplicável ao legislador infraconstitucional.
+O imposto sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde
+ou ao meio ambiente não se submete a esta regra, podendo ter o mesmo fato gerador e base de cálculo
+de outros tributos.
+Terá suas alíquotas fixadas em lei ordinária, podendo ser específicas, por unidade de medida adotada, ou
+ad valorem;
+Embora a CF tenha estabelecido que este imposto seja instituído por meio de lei complementar, as suas
+alíquotas podem ser fixadas por meio de lei ordinária. Ademais, as alíquotas podem ser específicas ou ad
+valorem.
+Alíquotas específicas são fixadas em reais, de acordo com a unidade de medida adotada pela lei. Por
+exemplo, R$ 1,00 por unidade de um produto, ou R$ 2,00 por cada Kg de outro produto. A unidade de
+medida poderia ser qualquer uma fixada em lei.
+Já as alíquotas ad valorem são fixadas em percentuais, tais como já estamos acostumados: 10% sobre o
+valor de uma mercadoria, por exemplo.
+
+
+
+
+O Imposto Seletivo deve obedecer:
+   ●​ ao princípio da anterioridade anual;
+   ●​ ao princípio da anterioridade nonagesimal (noventena);
+   ●​ ao princípio da irretroatividade;
+Na extração, o imposto será cobrado independentemente da destinação, caso em que a alíquota máxima
+corresponderá a 1% (um por cento) do valor de mercado do produto.”
+   Veja que a reforma tributária previu que o campo de incidência desse imposto abrange:
+   ●​ Produção;
+   ●​ Extração;
+   ●​ Comercialização;
+   ●​ Importação;
+Todas essas operações, quando envolvendo bens e serviços prejudiciais à saúde ou ao meio ambiente,
+estarão sujeitas ao referido imposto.
+Ocorre que na operação de extração, o imposto será cobrado independentemente da destinação, caso em
+que a alíquota máxima corresponderá a 1% do valor de mercado do produto.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         31
+        www.estrategiaconcursos.com.br                                                                   58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+                    REGRAS CONSTITUCIONAIS DO IMPOSTO SELETIVO
+
+
+
+
+Não Incidência do IS
+
+O art. 9º, § 9º, da EC 132/2023, prevê que o IS não incidirá sobre os bens ou serviços cujas alíquotas sejam
+reduzidas nos termos do § 1º deste artigo:
+     Art. 9º
+     (...)
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         32
+        www.estrategiaconcursos.com.br                                                                   58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+     § 9º O imposto previsto no art. 153, VIII, da Constituição Federal não incidirá sobre os bens ou
+     serviços cujas alíquotas sejam reduzidas nos termos do § 1º deste artigo.
+O § 1º desse art. 9º da EC 132/2023 trata da relação de bens e serviços que terão redução de alíquotas
+tanto do IBS quanto da CBS:
+     Art. 9º
+     § 1º A lei complementar definirá as operações beneficiadas com redução de 60% (sessenta por
+     cento) das alíquotas dos tributos de que trata o caput entre as relativas aos seguintes bens e
+     serviços:
+     I - serviços de educação;
+     II - serviços de saúde;
+     III - dispositivos médicos;
+     IV - dispositivos de acessibilidade para pessoas com deficiência;
+     V - medicamentos;                                    ==219a34==
+
+
+
+
+     VI - produtos de cuidados básicos à saúde menstrual;
+     VII - serviços de transporte público coletivo de passageiros rodoviário e metroviário de caráter
+     urbano, semiurbano e metropolitano;
+     VIII - alimentos destinados ao consumo humano;
+     IX - produtos de higiene pessoal e limpeza majoritariamente consumidos por famílias de baixa
+     renda;
+     X - produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura;
+     XI - insumos agropecuários e aquícolas;
+     XII - produções artísticas, culturais, de eventos, jornalísticas e audiovisuais nacionais, atividades
+     desportivas e comunicação institucional;
+     XIII - bens e serviços relacionados a soberania e segurança nacional, segurança da informação e
+     segurança cibernética.
+A lista dos bens e serviços que podem ter a tributação reduzida no âmbito do regime diferenciado é grande,
+mas uma coisa é fato: tais operações serão beneficiadas operações beneficiadas com redução de 60% nas
+alíquotas do IBS e da CBS, e, mais importante para você agora: não sofrerão incidência do Imposto
+Seletivo, de competência da União.
+
+
+
+                                   Regimes Diferenciados de Tributação
+                  Serviços de educação                                    Alimentos destinados ao consumo humano
+                                                                             Produtos de higiene pessoal e limpeza
+                    Serviços de saúde                                  majoritariamente consumidos por famílias de baixa
+                                                                                             renda
+                                                                        Produtos agropecuários, aquícolas, pesqueiros,
+                  Dispositivos médicos
+                                                                          florestais e extrativistas vegetais in natura
+    Dispositivos de acessibilidade para pessoas com
+                                                                              Insumos agropecuários e aquícolas
+                       deficiência
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                           33
+        www.estrategiaconcursos.com.br                                                                                     58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+                                                               Produções artísticas, culturais, de eventos, jornalísticas
+                     Medicamentos                                 e audiovisuais nacionais, atividades desportivas e
+                                                                             comunicação institucional
+                                                                   Bens e serviços relacionados a soberania e segurança
+    Produtos de cuidados básicos à saúde menstrual                   nacional, segurança da informação e segurança
+                                                                                         cibernética
+  Serviços de transporte público coletivo de passageiros
+ rodoviário e metroviário de caráter urbano, semiurbano
+                     e metropolitano
+
+
+
+
+(Questão Inédita/2024) Os bens ou serviços cujas alíquotas do IBS e da CBS sejam reduzidas em 60% não
+sofrerão a incidência do imposto seletivo de competência da União.
+Comentário: O art. 9º, § 9º, da EC 132/2023, prevê que o IS não incidirá sobre os bens ou serviços cujas
+alíquotas sejam reduzidas (IBS/CBS).
+Gabarito: Correta
+(RFB-Analista Tributário/2023) Acerca da sistemática do Imposto sobre a Exportação (IE) presente na
+Constituição Federal de 1988 e no Código Tributário Nacional, assinale a afirmativa correta.
+A) O contribuinte do IE, além do exportador, pode ser aquele a quem a lei equiparar ao exportador.
+B) O IE se submete à anterioridade anual, mas não à anterioridade nonagesimal.
+C) O IE se submete à anterioridade nonagesimal, mas não à anterioridade anual.
+D) As alíquotas do IE podem ser aumentadas por ato normativo infralegal independentemente de previsão
+de teto em lei.
+E) O IE não pode incidir sobre a exportação de produtos nacionalizados, mas apenas sobre a exportação de
+produtos nacionais.
+Comentário:
+Alternativa A: Realmente, o contribuinte do IE é o exportador ou quem a lei a ele equiparar (CTN, art. 27).
+Alternativa correta.
+Alternativa B: O IE não se submete à anterioridade anual nem à anterioridade nonagesimal. Alternativa
+errada.
+Alternativa C: O IE não se submete à anterioridade anual nem à anterioridade nonagesimal. Alternativa
+errada.
+Alternativa D: As alíquotas do IE podem ser alteradas por ato normativo infralegal, dentro dos limites e
+condições legais (CF, art. 153, § 1º). Alternativa errada.
+Alternativa E: O IE incide sobre a exportação, para o estrangeiro, de produtos nacionais ou nacionalizados,
+e tem como fato gerador a saída destes do território nacional (CTN, art. 23). Alternativa errada.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                          34
+        www.estrategiaconcursos.com.br                                                                                    58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Gabarito: Letra A
+(SEFAZ-DF-Auditor Fiscal/2020) De acordo com o CTN, o arrematante de produtos importados apreendidos
+pela aduana é contribuinte do imposto sobre a importação.
+Comentário: Realmente, de acordo com o CTN, a pessoa que arrematar produtos importados apreendidos
+e levados a leilão torna-se contribuinte do imposto sobre a importação.
+Gabarito: Correta
+(SEFAZ-AL-Auditor Fiscal/2020) Se, no âmbito de determinado estado, um ente público delega a
+determinada pessoa jurídica de direito público a função de arrecadação dos tributos, a essa pessoa jurídica
+serão aplicáveis as garantias e os privilégios processuais que competem ao ente público cedente.
+Comentário: Primeiramente, deve-se esclarecer que a delegação da função de arrecadar, fiscalizar e cobrar
+tributos denomina-se capacidade tributária ativa. Tal delegação compreende as garantias e os privilégios
+processuais que competem à pessoa jurídica de direito público que a conferir.
+Gabarito: Correta​
+(TJ-PA-Juiz Estadual/2019) Segundo a assentada jurisprudência do STJ, quando um cidadão brasileiro
+importa diretamente um veículo automotor, a incidência de imposto sobre produtos industrializados (IPI) é
+a) imponível, desde que o bem destine-se ao comércio.
+b) imponível, mesmo que o bem se destine a uso próprio.
+c) vedada, por violar o princípio da não cumulatividade.
+d) vedada, se o bem não se destinar ao comércio.
+e) vedada, por configurar bitributação.
+Comentário: Esta questão é bem direta, porém demanda conhecimento de jurisprudência. O entendimento
+pacificado no âmbito do STF e do STJ é o de que a importação de veículo automotor, ainda que para uso
+próprio, se submete à incidência do IPI.
+Gabarito: Letra B
+(Pref. Fortaleza-CE-Procurador/2017) A alteração de alíquotas do imposto de exportação não se submete à
+reserva constitucional de lei tributária, tornando-se admissível a atribuição dessa prerrogativa a órgão
+integrante do Poder Executivo.
+Comentário: Conforme aprendemos, o imposto de exportação realmente não se submete à reserva
+constitucional de lei tributária, tornando-se admissível a atribuição dessa prerrogativa a órgão integrante
+do Poder Executivo. Ademais, não há submissão aos princípios da anterioridade anual e nonagesimal neste
+caso.
+Gabarito: Correta
+(Pref. São Luiz-MA-Procurador/2016) A Constituição Federal atribui competência aos entes federados para
+instituir e cobrar impostos. De acordo com o texto constitucional, incide o ITR, de competência da União,
+sobre pequenas glebas rurais, definidas em lei, quando as explore o proprietário que possua outros
+imóveis.
+Comentário: De acordo com o art. 153, § 4º, II, da CF/88, o ITR não incidirá sobre pequenas glebas rurais,
+definidas em lei, quando as explore o proprietário que não possua outro imóvel. Assim, se o proprietário
+possui outros imóveis, não há que se falar na referida imunidade, incidindo normalmente o ITR, conforme
+afirmado na questão.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        35
+        www.estrategiaconcursos.com.br                                                                  58
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 13
+
+
+
+Gabarito: Correta
+(Pref. São Luiz-MA-Procurador/2016) A Constituição Federal atribui competência aos entes federados para
+instituir e cobrar impostos. De acordo com o texto constitucional, incide o IPI, de competência da União,
+sobre o ouro ativo financeiro ou instrumento cambial, quando de sua a transformação em lingotes, para
+fins de seu armazenamento, nos cofres do Banco Central do Brasil.
+Comentário: Estudamos que o ouro ativo financeiro ou instrumento cambial submete-se à incidência
+exclusiva do IOF. Logo, não incide IPI.
+Gabarito: Errada
+(TJ-SC-Juiz/2015) Wagner, pequeno empresário, domiciliado na cidade de Mafra/SC, desejando ampliar
+seus negócios, pensou em transformar seu estabelecimento comercial em estabelecimento industrial. Sua
+preocupação era ter de pagar um imposto que até então lhe era desconhecido: o IPI. Para melhor conhecer
+esse imposto, conversou com alguns amigos que também eram proprietários de indústria e cada um deles
+lhe passou as informações que tinham sobre esse imposto. Disseram-lhe, por exemplo, que a competência
+para instituir esse imposto está prevista na Constituição Federal e que, de acordo com o texto
+constitucional, o IPI
+I. é imposto não-cumulativo, compensando-se o que é devido em cada operação com o montante cobrado
+nas anteriores, pelo mesmo ou outro Estado ou pelo Distrito Federal.
+II. tem seu impacto reduzido sobre a aquisição de bens de capital pelo contribuinte do imposto, na forma
+estabelecida em Regulamento.
+III. pode ter suas alíquotas interestaduais alteradas por meio de Resolução do Senado Federal.
+IV. é imposto seletivo, em função da essencialidade do produto, mas não o é em função do porte do
+estabelecimento industrial que promove seu fato gerador.
+Está correto o que se afirma em
+a) IV, apenas.
+b) I, apenas.
+c) I, II, III e IV.
+d) I e III, apenas.
+e) II e IV, apenas.
+Comentário:
+Item I: De fato, prevê o art. 153, § 3º, II, da CF/88, que o IPI é não cumulativo, compensando-se o que é
+devido em cada operação com o montante cobrado nas anteriores. Contudo, o imposto é federal, cobrado
+pela União, e não pelos Estados ou Distrito Federal. Item errado.
+Item II: Conforme estabelece o art. 153, § 3º, IV, da CF/88, o IPI realmente tem seu impacto reduzido sobre
+a aquisição de bens de capital pelo contribuinte do imposto. Contudo, a regulamentação será em lei, e não
+em regulamento. Item errado.
+Item III: O IPI, ao contrário, do ICMS, não possui alíquotas interestaduais. Suas alíquotas variam em
+conformidade com a classificação do produto da Tabela de Incidência do IPI (TIPI). Item errado.
+Item IV: De acordo com o art. 153, § 3º, I, da CF/88, o IPI é um imposto seletivo, em função da
+essencialidade do produto, mas não o é em função do porte do estabelecimento industrial que promove
+seu fato gerador, vez que não há tal previsão na CF/88
+
+            Receita Federal (Analista Tributário) Direito Tributário                                    36
+            www.estrategiaconcursos.com.br                                                              58
+
+                                          https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Gabarito: Letra A
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário           37
+        www.estrategiaconcursos.com.br                                     58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+
+Impostos de Competência da União
+
+1. FGV/ISS-Cuiabá-Auditor Fiscal/2024
+
+A Emenda Constitucional nº 132/2023, que implementou a reforma tributária, acrescentou o inciso VIII ao
+artigo 153 da Constituição, criando a possibilidade de ser instituído imposto, de competência da União.
+
+Sobre o imposto seletivo, é correto afirmar que
+
+a) poderá incidir sobre as exportações e sobre as operações com energia elétrica.
+
+b) poderá ter o mesmo fato gerador e base de cálculo de outros tributos.
+
+c) integrará sua própria base de cálculo.
+
+d) não integrará a base de cálculo do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e
+Serviços (CBS).
+
+e) terá suas alíquotas fixadas em lei complementar, devendo ser específicas, por unidade de medida
+adotada.
+
+Comentário:
+
+Letra A: Errada. O imposto seletivo não pode incidir sobre exportações nem sobre operações com energia
+elétrica e telecomunicações, conforme previsto no art. 153, § 6º, I da Constituição Federal.
+
+Letra B: Correta. A base de cálculo e o fato gerador do imposto seletivo podem coincidir com os de outros
+tributos, conforme expresso no art. 153, § 6º, V da Constituição Federal. Isso significa que a incidência desse
+imposto pode ocorrer sobre as mesmas operações que já são tributadas por outros tributos federais,
+estaduais ou municipais.
+
+Letra C: Errada. O imposto seletivo não integra sua própria base de cálculo, ou seja, o valor do tributo não é
+incluído no montante sobre o qual ele incide, mas pode integrar a base de cálculo de outros tributos,
+conforme art. 153, § 6º, III e IV da Constituição Federal.
+
+Letra D: Errada. Ao contrário do que a alternativa sugere, o imposto seletivo integrará a base de cálculo do
+IBS e da CBS, bem como do ICMS e do ISS, conforme estabelece o art. 153, § 6º, IV da Constituição Federal.
+
+Letra E: Errada. As alíquotas do imposto seletivo serão fixadas por lei ordinária, e podem ser específicas (por
+unidade de medida) ou ad valorem (percentual sobre o valor do bem ou serviço), conforme determina o art.
+153, § 6º, VI da Constituição Federal.
+
+Gabarito: B
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            38
+        www.estrategiaconcursos.com.br                                                                      58
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 13
+
+
+
+
+2. FGV/ISS-Cuiabá-Auditor Fiscal/2024
+
+Acerca do regime constitucional do Novo Imposto Seletivo incidente sobre produção, extração,
+comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, julgue as
+afirmativas abaixo:
+
+I. Integrará sua própria base de cálculo.
+
+II. Terá suas alíquotas fixadas em lei complementar, podendo ser específicas, por unidade de medida
+adotada, ou ad valorem.
+
+III. Não incidirá sobre as operações com energia elétrica e com telecomunicações.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+e) II e III, apenas.
+
+Comentário:
+
+Item I: Errado. O Imposto Seletivo não integra sua própria base de cálculo, ou seja, o valor do tributo não é
+incluído no montante sobre o qual ele incide. Isso está previsto no art. 153, § 6º, III da Constituição Federal.
+
+Item II: Errado. As alíquotas do Imposto Seletivo serão fixadas por lei ordinária, e não por lei complementar.
+Além disso, elas podem ser específicas (por unidade de medida) ou ad valorem (percentual sobre o valor do
+bem ou serviço). Amigos, esse ponto está claramente estabelecido no art. 153, § 6º, VI da Constituição
+Federal.
+
+Item III: Correto. O Imposto Seletivo não incidirá sobre operações com energia elétrica e telecomunicações,
+conforme o art. 153, § 6º, I da Constituição Federal.
+
+Gabarito: C
+
+3. FGV - Tec Leg (ALEP)/ALEP/Técnico em Contabilidade/2024
+
+Uma sociedade empresária fabrica sapatos no Brasil e os vende para o Canadá. Os sapatos são enviados de
+navio, de modo que chegam no Canadá em cerca de 20 dias.
+
+O imposto sobre a exportação, de competência da União, das vendas realizadas ao país estrangeiro tem
+como fato gerador
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                            39
+         www.estrategiaconcursos.com.br                                                                      58
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+a) a formalização das vendas.
+
+b) a chegada dos sapatos no país de destino.
+
+c) a saída dos sapatos do território nacional.
+
+d) o recebimento do dinheiro relacionado às vendas.
+
+e) a conversão da moeda estrangeira recebida em Reais.
+
+Gabarito: C
+
+Comentário:
+
+Letra A: Errada. De acordo com o art. 23 do CTN, o fato gerador do imposto de exportação não é a
+formalização das vendas, mas sim a saída dos produtos do território nacional.
+
+Letra B: Errada. De acordo com o art. 23 do CTN, o fato gerador não é a chegada dos produtos no país de
+destino, mas sim a saída do território nacional, independentemente do momento em que os produtos
+chegam ao destino.
+
+Letra C: Certa. De acordo com o art. 23 do CTN, "o imposto, de competência da União, sobre a exportação,
+para o estrangeiro, de produtos nacionais ou nacionalizados tem como fato gerador a saída destes do
+território nacional."
+
+Letra D: Errada. De acordo com o art. 23 do CTN, o fato gerador não está vinculado ao recebimento do
+pagamento, mas sim à saída física dos produtos do território nacional.
+
+Letra E: Errada. De acordo com o art. 23 do CTN, o fato gerador não está relacionado à conversão da moeda
+estrangeira em reais, mas sim à saída dos produtos do território nacional.
+
+4. FGV - ATRFB/SRFB/Geral/2023
+
+Acerca da sistemática do Imposto sobre a Exportação (IE) presente na Constituição Federal de 1988 e no
+Código Tributário Nacional, assinale a afirmativa correta.
+
+a) O contribuinte do IE, além do exportador, pode ser aquele a quem a lei equiparar ao exportador.
+
+b) O IE se submete à anterioridade anual, mas não à anterioridade nonagesimal.
+
+c) O IE se submete à anterioridade nonagesimal, mas não à anterioridade anual.
+
+d) As alíquotas do IE podem ser aumentadas por ato normativo infralegal independentemente de previsão
+de teto em lei.
+
+e) O IE não pode incidir sobre a exportação de produtos nacionalizados, mas apenas sobre a exportação de
+produtos nacionais.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      40
+        www.estrategiaconcursos.com.br                                                                58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Gabarito: A
+
+Comentário:
+
+Letra A: Certa. De acordo com o art. 27 do CTN, "Contribuinte do imposto é o exportador ou quem a lei a ele
+equiparar."
+
+Letra B: Errada. De acordo com o art. 150, § 1º da CF, o IE não se submete nem à anterioridade anual nem à
+anterioridade nonagesimal.
+
+Letra C: Errada. De acordo com o art. 150, § 1º da CF, o IE não se submete a nenhum dos tipos de
+anterioridade (anual ou nonagesimal).
+
+Letra D: Errada. De acordo com o art. 26 do CTN, as alíquotas do IE podem ser alteradas por ato do Poder
+Executivo apenas "nas condições e nos limites estabelecidos em lei".
+                                                          ==219a34==
+
+
+
+
+Letra E: Errada. De acordo com o art. 23 do CTN, o IE pode incidir tanto sobre produtos nacionais quanto
+sobre produtos nacionalizados que saiam do território nacional.
+
+5. FGV/Câmara dos Deputados-Contador/2023
+
+José é possuidor há três anos, com animus domini (com intenção de proprietário), de um imóvel rural no
+Município Alfa, local de sua habitação e de sua família, em vias de ser usucapido. Ele recebeu visita da
+fiscalização municipal, que constatou sua posse. No ano seguinte, José recebeu carnê de cobrança do
+Imposto sobre a Propriedade Territorial Rural (ITR) já em seu nome.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+a) José, ainda que seja mero possuidor com animus domini, em vias de usucapir o imóvel, pode ser
+contribuinte do ITR.
+
+b) O fato gerador do ITR é a propriedade ou o domínio útil, não sendo possível a cobrança do mero possuidor
+José.
+
+c) José, quanto aos fatos geradores referentes ao período em que sua posse já se iniciara, é responsável por
+sucessão pelo pagamento do ITR, em lugar do proprietário.
+
+d) José, quanto aos fatos geradores referentes ao período em que sua posse já se iniciara, é responsável por
+substituição tributária pelo pagamento do ITR, em lugar do proprietário.
+
+e) Por se tratar o ITR de tributo federal, sua fiscalização tributária somente poderia ser executada por fiscais
+federais.
+
+Gabarito: A
+
+Comentário:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                             41
+        www.estrategiaconcursos.com.br                                                                       58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Letra A: Certa. De acordo com o art. 31 do Código Tributário Nacional (CTN), o contribuinte do ITR pode ser
+o proprietário, o titular do domínio útil ou o possuidor do imóvel. No caso de José, que possui animus domini
+(intenção de proprietário), ele pode ser considerado contribuinte do Imposto Territorial Rural.
+
+   •   A posse com animus domini equipara-se à propriedade para fins tributários
+   •   Jurisprudência do STJ reconhece o possuidor como potencial contribuinte do ITR
+
+Letra B: Errada. O fato gerador do ITR inclui expressamente a posse, conforme art. 29 do CTN.
+
+Letra C: Errada. José é contribuinte, não responsável por sucessão tributária.
+
+Letra D: Errada. Não há substituição tributária, mas sim contribuição direta.
+
+Letra E: Errada. A fiscalização pode ser delegada aos municípios, conforme art. 153, § 4º da Constituição
+Federal.
+
+6. FGV - NAC UNI OAB/OAB/2024
+
+Determinado país declarou guerra ao Brasil. Para fazer frente aos gastos com o esforço de guerra, a União
+resolveu criar, por lei federal ordinária, um imposto extraordinário de guerra, com a mesma hipótese de
+incidência do Imposto sobre a Transmissão Causa Mortis e Doações.
+
+A alíquota fixada pela lei federal era de 1% sobre o valor da doação ou do montante transmitido causa mortis.
+
+Sobre esse imposto extraordinário, assinale a afirmativa correta.
+
+a) Não pode ser criado, pois viola a competência tributária dos Estados e do Distrito Federal.
+
+b) Como apresenta hipótese de incidência idêntica à do imposto estadual, somente poderia ser criado por
+lei complementar.
+
+c) Configura hipótese de bitributação ilegal, razão pela qual não poderia ser admitido.
+
+d) É válido, mas deve ser suprimido, gradativamente, cessadas as causas de sua criação.
+
+Gabarito: D
+
+Comentário:
+
+Letra A: Errada. A Constituição Federal no art. 154, II autoriza expressamente a criação de impostos
+extraordinários de guerra, não havendo violação de competência tributária.
+
+Letra B: Errada. Não há exigência constitucional de lei complementar para instituição do Imposto
+Extraordinário de Guerra.
+
+Letra C: Errada. A Constituição permite expressamente este tipo de bitributação em casos excepcionais de
+guerra.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          42
+        www.estrategiaconcursos.com.br                                                                    58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+Letra D: Certa. Conforme previsão constitucional, o imposto extraordinário deve ser gradualmente suprimido
+após cessarem as causas de sua criação.
+
+7. FGV/Cons Leg (CM SP)/CM SP/Economia/2024
+
+Suponha que o governo federal institua o Imposto Sobre Grandes Fortunas, previsto na Constituição Federal.
+
+Os recursos daí oriundos auxiliarão o governo em sua função
+
+a) distributiva, caso sejam aplicados em programas de transferência de renda.
+
+b) distributiva, caso aumente o repasse para os entes subnacionais em função do tamanho de sua
+população.
+
+c) alocativa, caso sejam aplicados em programas de transferência de renda.
+
+d) estabilizadora, caso seja aplicado na expansão da malha ferroviária.
+
+e) estabilizadora, caso seja aplicado para estabilizar o índice de desigualdade de renda.
+
+Comentário:
+
+Letra A: Correta. O IGF destinado ao Fundo de Combate e Erradicação da Pobreza atua na função distributiva,
+conforme art. 80 do ADCT.
+
+Letra B: Errada. O IGF é destinado especificamente ao Fundo de Combate e Erradicação da Pobreza e não
+para repasses baseados no tamanho da população dos entes subnacionais.
+
+Letra C: Errada. Aplicar recursos em programas de transferência de renda caracteriza a função distributiva,
+não a alocativa.
+
+Letra D: Errada. A expansão da malha ferroviária se relaciona com a função alocativa, destinada a maximizar
+a eficiência na alocação de recursos públicos.
+
+Letra E: Errada. Estabilizar o índice de desigualdade de renda é uma abordagem distributiva, não
+estabilizadora.
+
+Gabarito: Letra A
+
+8. FGV/RFB-Auditor Fiscal/2023
+
+Auditores-fiscais da Secretaria Especial da Receita Federal do Brasil (SERFB) dirigem-se até certo terreno de
+marinha situado em área urbana, mas dedicado ao cultivo de hortaliças orgânicas, em uma ação de
+fiscalização tributária acerca da cobrança do ITR. Ao chegarem lá, são desacatados no exercício de sua função
+fiscal pelo foreiro José, que impede seu ingresso no imóvel.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          43
+        www.estrategiaconcursos.com.br                                                                    58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+A) Por ser de propriedade da União, não incide o ITR sobre o imóvel dado em contrato de aforamento.
+
+B) Por estar o imóvel localizado em área urbana, deve sobre ele incidir o IPTU, e não o ITR.
+
+C) O mero foreiro não pode ser contribuinte de ITR.
+
+D) Os auditores-fiscais da SERFB poderiam requisitar o auxílio da guarda municipal do local em que está
+situado o imóvel.
+
+E) A fiscalização do ITR compete aos agentes tributários municipais, e não aos federais.
+
+Comentário: Duas informações são importantes para resolver a questão com tranquilidade:
+
+- O art. 31 do CTN define que o contribuinte do ITR é o proprietário do imóvel, o titular de seu domínio útil,
+ou o seu possuidor a qualquer título. O titular do domínio útil, por sua vez, é aquele que adquiriu o imóvel
+rural por enfiteuse ou aforamento (foreiro).
+
+- O STJ já decidiu que não incide IPTU, mas ITR, sobre imóvel localizado na área urbana do Município, desde
+que comprovadamente utilizado em exploração extrativa, vegetal, agrícola, pecuária ou agroindustrial (art.
+15 do DL 57/1966).
+
+- A possibilidade de requisitar o uso de força pública por parte de autoridades fiscais (CTN, art. 200):
+
+Art. 200. As autoridades administrativas federais poderão requisitar o auxílio da força pública federal,
+estadual ou municipal, e reciprocamente, quando vítimas de embaraço ou desacato no exercício de suas
+funções, ou quando necessário à efetivação dê medida prevista na legislação tributária, ainda que não se
+configure fato definido em lei como crime ou contravenção.
+
+Letra A: Há incidência do ITR sobre o domínio útil de imóvel rural. Alternativa errada.
+
+Letra B: Considerando o DL 57/66, mesmo estando em área urbana, o imóvel sofrerá incidência do ITR, em
+razão da sua utilização. Alternativa errada.
+
+Letra C: Como comentado, o foreiro é o titular do domínio útil, contribuinte do ITR, em face do art .31, do
+CTN. Alternativa errada.
+
+Letra D: Neste caso, temos a aplicação do art. 200, do CTN, que trata da possibilidade de autoridades
+administrativas de determinado ente requisitarem força pública de outro ente, para o cumprimento de suas
+atribuições. Alternativa correta.
+
+Letra E: Como regra, a fiscalização do ITR compete à União. Alternativa errada.
+
+Gabarito: Letra D
+
+9. FGV/SEF-MG-Auditor Fiscal/2023
+
+Sobre o Imposto sobre Grandes Fortunas, imposto de competência da União e que jamais foi instituído,
+assinale a afirmativa correta.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           44
+        www.estrategiaconcursos.com.br                                                                     58
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 13
+
+
+
+A) Deve ser criado por lei complementar e suas receitas não serão vinculadas a finalidade específica.
+
+B) Pode ser criado por lei ordinária e suas receitas não serão vinculadas a finalidade específica.
+
+C) Deve ser criado por lei complementar e 50% (cinquenta por cento) da sua arrecadação caberá aos Estados
+e Municípios.
+
+D) Deve ser criado por lei complementar e sua arrecadação irá compor o Fundo de Combate e Erradicação
+da Pobreza.
+
+E) Pode ser criado por lei ordinária e 50% (cinquenta por cento) da sua arrecadação caberá aos Estados e
+Municípios.
+
+Comentário: Existe uma redação bem pouco cobrada no art. 80, III, do ADCT, que deve ser considerada nesta
+questão:
+
+Art. 80. Compõem o Fundo de Combate e Erradicação da Pobreza:
+
+(...)
+
+III – o produto da arrecadação do imposto de que trata o art. 153, inciso VII, da Constituição;
+
+Letra A: O IGF tem vinculação de receitas, com base no art. 80, III, do ADCT. Alternativa errada.
+
+Letra B: O IGF deve ser criado por meio de lei complementar (CF, art. 153, VII). Alternativa errada.
+
+Letra C: O IGF deve ser criado por meio de lei complementar (CF, art. 153, VII), mas a sua arrecadação será
+destinada ao Fundo de Combate e Erradicação da Pobreza. Alternativa errada.
+
+Letra D: Esta é a previsão no art. 80, III, do ADCT. Ademais, deve ser criado por meio de lei complementar
+(CF, art. 153, VII). Alternativa correta.
+
+Letra E: O IGF deve ser criado por meio de lei complementar (CF, art. 153, VII). Alternativa errada.
+
+Gabarito: Letra D
+
+10. FGV/RFB-Analista Tributário/2023
+
+Acerca da sistemática do Imposto sobre a Exportação (IE) presente na Constituição Federal de 1988 e no
+Código Tributário Nacional, assinale a afirmativa correta.
+
+A) O contribuinte do IE, além do exportador, pode ser aquele a quem a lei equiparar ao exportador.
+
+B) O IE se submete à anterioridade anual, mas não à anterioridade nonagesimal.
+
+C) O IE se submete à anterioridade nonagesimal, mas não à anterioridade anual.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       45
+         www.estrategiaconcursos.com.br                                                                 58
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+D) As alíquotas do IE podem ser aumentadas por ato normativo infralegal independentemente de previsão
+de teto em lei.
+
+E) O IE não pode incidir sobre a exportação de produtos nacionalizados, mas apenas sobre a exportação de
+produtos nacionais.
+
+Comentário:
+
+Letra A: Realmente, o contribuinte do IE é o exportador ou quem a lei a ele equiparar (CTN, art. 27).
+Alternativa correta.
+
+Letra B: O IE não se submete à anterioridade anual nem à anterioridade nonagesimal. Alternativa errada.
+
+Letra C: O IE não se submete à anterioridade anual nem à anterioridade nonagesimal. Alternativa errada.
+
+Letra D: As alíquotas do IE podem ser alteradas por ato normativo infralegal, dentro dos limites e condições
+legais (CF, art. 153, § 1º). Alternativa errada.
+
+Letra E: O IE incide sobre a exportação, para o estrangeiro, de produtos nacionais ou nacionalizados, e tem
+como fato gerador a saída destes do território nacional (CTN, art. 23). Alternativa errada.
+
+Gabarito: Letra A
+
+11. FGV/Fiscal de Tributos-Niterói/2015
+
+Um pequeno empresário cultiva, de forma organizada e comercial, inclusive com empregados, hortaliças
+para venda, em sua propriedade, que está localizada em área de um Município. A rua onde fica a propriedade
+consta da definição de lei municipal, tem meio-fio, conta com abastecimento de água e sistema de esgotos
+sanitários, tendo ainda iluminação pública. De acordo com a hipótese apresentada, sobre a propriedade em
+questão:
+
+a) não haverá incidência de nenhum imposto, por conta de imunidade prevista na Constituição Federal;
+
+b) haverá incidência do IPTU, pois a propriedade está inserida em área da zona urbana municipal; contando
+com quatro dos melhoramentos construídos ou mantidos pelo Poder Público, indicados no CTN;
+
+c) haverá a incidência do ITR, pois o IPTU não incidirá sobre o imóvel urbano que, comprovadamente, seja
+utilizado em exploração extrativa vegetal, agrícola, pecuária ou agro-industrial;
+
+d) haverá incidência do IPTU, pois basta a lei municipal estabelecer que determinada área pertence à zona
+urbana para ensejar a cobrança do imposto municipal;
+
+e) haverá a incidência do ITR, pois o imposto federal tem sua receita repartida com o Município.
+
+Comentário: O fato de essa questão ter dado relevância à exploração da atividade no referido imóvel faz-
+nos entender que a banca desejava a resposta com base na jurisprudência do STJ, segundo a qual “o critério
+topográfico previsto no art. 32 do CTN deve ser analisado em face do comando do art. 15 do DL 57/66, de
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          46
+        www.estrategiaconcursos.com.br                                                                    58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+modo que não incide o IPTU quando o imóvel situado na zona urbana receber quaisquer das destinações
+previstas nesse diploma legal.” Trata-se da exploração extrativa vegetal, agrícola, pecuária ou agroindustrial.
+
+Gabarito: Letra C
+
+12. FGV/ISS-Cuiabá/2014
+
+Com relação ao Imposto sobre Grandes Fortunas (IGF), assinale a afirmativa correta.
+
+a) Pode ser instituído pela União, pelos Estados e pelos Municípios, no exercício de competência
+concorrente.
+
+b) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão instituí-lo os Estados, no exercício
+de competência supletiva.
+
+c) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão instituí-lo os Municípios, no
+exercício de competência supletiva.
+
+d) Pode ser instituído apenas pela União, por meio de lei complementar, inexistindo competência
+concorrente ou supletiva de qualquer outro ente público.
+
+e) Pode ser instituído apenas pela União, por meio de lei ordinária, inexistindo competência concorrente ou
+supletiva de qualquer outro ente público.
+
+Comentário:
+
+Letra A: Tal imposto é de competência privativa da União. Alternativa errada.
+
+Letra B: O não exercício da competência tributária pela União não confere tal competência aos demais entes
+federativos. Portanto, alternativa errada.
+
+Letra C: O não exercício da competência tributária pela União não confere tal competência aos demais entes
+federativos. Portanto, alternativa errada.
+
+Letra D: Deveras, o imposto somente pode ser instituído pela União, por meio de lei complementar, não
+havendo competência concorrente ou supletiva de qualquer outro ente público. Portanto, essa alternativa
+está correta.
+
+Letra E: A instituição do IGF deve ocorrer por meio de lei complementar. Alternativa errada.
+
+Gabarito: Letra D
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            47
+        www.estrategiaconcursos.com.br                                                                      58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+         LISTA DAS QUESTÕES COMPLEMENTARES
+
+Impostos de Competência da União
+
+1. FGV/ISS-Cuiabá-Auditor Fiscal/2024
+
+A Emenda Constitucional nº 132/2023, que implementou a reforma tributária, acrescentou o inciso VIII ao
+artigo 153 da Constituição, criando a possibilidade de ser instituído imposto, de competência da União.
+
+Sobre o imposto seletivo, é correto afirmar que
+
+a) poderá incidir sobre as exportações e sobre as operações com energia elétrica.
+
+b) poderá ter o mesmo fato gerador e base de cálculo de outros tributos.
+
+c) integrará sua própria base de cálculo.
+
+d) não integrará a base de cálculo do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e
+Serviços (CBS).
+
+e) terá suas alíquotas fixadas em lei complementar, devendo ser específicas, por unidade de medida
+adotada.
+
+2. FGV/ISS-Cuiabá-Auditor Fiscal/2024
+
+Acerca do regime constitucional do Novo Imposto Seletivo incidente sobre produção, extração,
+comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, julgue as
+afirmativas abaixo:
+
+I. Integrará sua própria base de cálculo.
+
+II. Terá suas alíquotas fixadas em lei complementar, podendo ser específicas, por unidade de medida
+adotada, ou ad valorem.
+
+III. Não incidirá sobre as operações com energia elétrica e com telecomunicações.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                    48
+         www.estrategiaconcursos.com.br                                                              58
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 13
+
+
+
+e) II e III, apenas.
+
+3. FGV - Tec Leg (ALEP)/ALEP/Técnico em Contabilidade/2024
+
+Uma sociedade empresária fabrica sapatos no Brasil e os vende para o Canadá. Os sapatos são enviados de
+navio, de modo que chegam no Canadá em cerca de 20 dias.
+
+O imposto sobre a exportação, de competência da União, das vendas realizadas ao país estrangeiro tem
+como fato gerador
+
+a) a formalização das vendas.
+
+b) a chegada dos sapatos no país de destino.
+
+c) a saída dos sapatos do território nacional.
+
+d) o recebimento do dinheiro relacionado às vendas.
+
+e) a conversão da moeda estrangeira recebida em Reais.
+
+4. FGV - ATRFB/SRFB/Geral/2023
+
+Acerca da sistemática do Imposto sobre a Exportação (IE) presente na Constituição Federal de 1988 e no
+Código Tributário Nacional, assinale a afirmativa correta.
+
+a) O contribuinte do IE, além do exportador, pode ser aquele a quem a lei equiparar ao exportador.
+
+b) O IE se submete à anterioridade anual, mas não à anterioridade nonagesimal.
+
+c) O IE se submete à anterioridade nonagesimal, mas não à anterioridade anual.
+
+d) As alíquotas do IE podem ser aumentadas por ato normativo infralegal independentemente de previsão
+de teto em lei.
+
+e) O IE não pode incidir sobre a exportação de produtos nacionalizados, mas apenas sobre a exportação de
+produtos nacionais.
+
+5. FGV/Câmara dos Deputados-Contador/2023
+
+José é possuidor há três anos, com animus domini (com intenção de proprietário), de um imóvel rural no
+Município Alfa, local de sua habitação e de sua família, em vias de ser usucapido. Ele recebeu visita da
+fiscalização municipal, que constatou sua posse. No ano seguinte, José recebeu carnê de cobrança do
+Imposto sobre a Propriedade Territorial Rural (ITR) já em seu nome.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+a) José, ainda que seja mero possuidor com animus domini, em vias de usucapir o imóvel, pode ser
+contribuinte do ITR.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                    49
+         www.estrategiaconcursos.com.br                                                              58
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+b) O fato gerador do ITR é a propriedade ou o domínio útil, não sendo possível a cobrança do mero possuidor
+José.
+
+c) José, quanto aos fatos geradores referentes ao período em que sua posse já se iniciara, é responsável por
+sucessão pelo pagamento do ITR, em lugar do proprietário.
+
+d) José, quanto aos fatos geradores referentes ao período em que sua posse já se iniciara, é responsável por
+substituição tributária pelo pagamento do ITR, em lugar do proprietário.
+
+e) Por se tratar o ITR de tributo federal, sua fiscalização tributária somente poderia ser executada por fiscais
+federais.
+
+6. FGV - NAC UNI OAB/OAB/2024
+
+Determinado país declarou guerra ao Brasil. Para fazer frente aos gastos com o esforço de guerra, a União
+resolveu criar, por lei federal ordinária, um imposto extraordinário de guerra, com a mesma hipótese de
+incidência do Imposto sobre a Transmissão Causa Mortis e Doações.
+
+A alíquota fixada pela lei federal era de 1% sobre o valor da doação ou do montante transmitido causa mortis.
+
+Sobre esse imposto extraordinário, assinale a afirmativa correta.
+
+a) Não pode ser criado, pois viola a competência tributária dos Estados e do Distrito Federal.
+
+b) Como apresenta hipótese de incidência idêntica à do imposto estadual, somente poderia ser criado por
+lei complementar.
+
+c) Configura hipótese de bitributação ilegal, razão pela qual não poderia ser admitido.
+
+d) É válido, mas deve ser suprimido, gradativamente, cessadas as causas de sua criação.
+
+7. FGV/Cons Leg (CM SP)/CM SP/Economia/2024
+
+Suponha que o governo federal institua o Imposto Sobre Grandes Fortunas, previsto na Constituição Federal.
+
+Os recursos daí oriundos auxiliarão o governo em sua função
+
+a) distributiva, caso sejam aplicados em programas de transferência de renda.
+
+b) distributiva, caso aumente o repasse para os entes subnacionais em função do tamanho de sua
+população.
+
+c) alocativa, caso sejam aplicados em programas de transferência de renda.
+
+d) estabilizadora, caso seja aplicado na expansão da malha ferroviária.
+
+e) estabilizadora, caso seja aplicado para estabilizar o índice de desigualdade de renda.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                             50
+        www.estrategiaconcursos.com.br                                                                       58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+
+8. FGV/RFB-Auditor Fiscal/2023
+
+Auditores-fiscais da Secretaria Especial da Receita Federal do Brasil (SERFB) dirigem-se até certo terreno de
+marinha situado em área urbana, mas dedicado ao cultivo de hortaliças orgânicas, em uma ação de
+fiscalização tributária acerca da cobrança do ITR. Ao chegarem lá, são desacatados no exercício de sua função
+fiscal pelo foreiro José, que impede seu ingresso no imóvel.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+A) Por ser de propriedade da União, não incide o ITR sobre o imóvel dado em contrato de aforamento.
+
+B) Por estar o imóvel localizado em área urbana, deve sobre ele incidir o IPTU, e não o ITR.
+
+C) O mero foreiro não pode ser contribuinte de ITR.
+                                                          ==219a34==
+
+
+
+
+D) Os auditores-fiscais da SERFB poderiam requisitar o auxílio da guarda municipal do local em que está
+situado o imóvel.
+
+E) A fiscalização do ITR compete aos agentes tributários municipais, e não aos federais.
+
+9. FGV/SEF-MG-Auditor Fiscal/2023
+
+Sobre o Imposto sobre Grandes Fortunas, imposto de competência da União e que jamais foi instituído,
+assinale a afirmativa correta.
+
+A) Deve ser criado por lei complementar e suas receitas não serão vinculadas a finalidade específica.
+
+B) Pode ser criado por lei ordinária e suas receitas não serão vinculadas a finalidade específica.
+
+C) Deve ser criado por lei complementar e 50% (cinquenta por cento) da sua arrecadação caberá aos Estados
+e Municípios.
+
+D) Deve ser criado por lei complementar e sua arrecadação irá compor o Fundo de Combate e Erradicação
+da Pobreza.
+
+E) Pode ser criado por lei ordinária e 50% (cinquenta por cento) da sua arrecadação caberá aos Estados e
+Municípios.
+
+10. FGV/RFB-Analista Tributário/2023
+
+Acerca da sistemática do Imposto sobre a Exportação (IE) presente na Constituição Federal de 1988 e no
+Código Tributário Nacional, assinale a afirmativa correta.
+
+A) O contribuinte do IE, além do exportador, pode ser aquele a quem a lei equiparar ao exportador.
+
+B) O IE se submete à anterioridade anual, mas não à anterioridade nonagesimal.
+
+C) O IE se submete à anterioridade nonagesimal, mas não à anterioridade anual.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          51
+        www.estrategiaconcursos.com.br                                                                    58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 13
+
+
+
+D) As alíquotas do IE podem ser aumentadas por ato normativo infralegal independentemente de previsão
+de teto em lei.
+
+E) O IE não pode incidir sobre a exportação de produtos nacionalizados, mas apenas sobre a exportação de
+produtos nacionais.
+
+11. FGV/Fiscal de Tributos-Niterói/2015
+
+Um pequeno empresário cultiva, de forma organizada e comercial, inclusive com empregados, hortaliças
+para venda, em sua propriedade, que está localizada em área de um Município. A rua onde fica a propriedade
+consta da definição de lei municipal, tem meio-fio, conta com abastecimento de água e sistema de esgotos
+sanitários, tendo ainda iluminação pública. De acordo com a hipótese apresentada, sobre a propriedade em
+questão:
+
+a) não haverá incidência de nenhum imposto, por conta de imunidade prevista na Constituição Federal;
+
+b) haverá incidência do IPTU, pois a propriedade está inserida em área da zona urbana municipal; contando
+com quatro dos melhoramentos construídos ou mantidos pelo Poder Público, indicados no CTN;
+
+c) haverá a incidência do ITR, pois o IPTU não incidirá sobre o imóvel urbano que, comprovadamente, seja
+utilizado em exploração extrativa vegetal, agrícola, pecuária ou agro-industrial;
+
+d) haverá incidência do IPTU, pois basta a lei municipal estabelecer que determinada área pertence à zona
+urbana para ensejar a cobrança do imposto municipal;
+
+e) haverá a incidência do ITR, pois o imposto federal tem sua receita repartida com o Município.
+
+
+
+12. FGV/ISS-Cuiabá/2014
+
+Com relação ao Imposto sobre Grandes Fortunas (IGF), assinale a afirmativa correta.
+
+a) Pode ser instituído pela União, pelos Estados e pelos Municípios, no exercício de competência
+concorrente.
+
+b) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão instituí-lo os Estados, no exercício
+de competência supletiva.
+
+c) Pode ser instituído pela União, mas, enquanto esta não o fizer, poderão instituí-lo os Municípios, no
+exercício de competência supletiva.
+
+d) Pode ser instituído apenas pela União, por meio de lei complementar, inexistindo competência
+concorrente ou supletiva de qualquer outro ente público.
+
+e) Pode ser instituído apenas pela União, por meio de lei ordinária, inexistindo competência concorrente ou
+supletiva de qualquer outro ente público.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            52
+        www.estrategiaconcursos.com.br                                                                      58
+
+                                      https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 13
+
+
+
+
+GABARITO DAS QUESTÕES COMPLEMENTARES
+
+
+
+
+ 1.   B                                      5.   A                      9. D
+ 2.   C                                      6.   D                      10. A
+ 3.   C                                      7.   A                      11. C
+ 4.   A                                      8.   D                      12. D
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário                   53
+      www.estrategiaconcursos.com.br                                             58
+
+                                    https://t.me/KakashiAssinaturasBot
+ Fábio Dutra
+ Aula 13
+
+
+
+
+   RESUMO DOS ASSUNTOS MAIS IMPORTANTES
+Impostos de Competência da União
+
+Imposto de Importação
+
+                                              IMPOSTO DE IMPORTAÇÃO
+                                                  Competência: União
+Finalidade: Extrafiscal
+                      Fato Gerador: Entrada de produtos estrangeiros em território nacional
+                   Base de Cálculo: Se alíquota específica: unidade de medida adotada pela lei;
+                Se alíquota ad valorem: Valor Aduaneiro (preço normal).
+               Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+                          Obs.: Constitui exceção aos princípios Anterioridade Anual/Nonagesimal
+                               Contribuinte: Importador ou quem a ele a lei equiparar
+                                            Lançamento: Por homologação
+
+
+Imposto de Exportação
+
+                                              IMPOSTO DE EXPORTAÇÃO
+                                                  Competência: União
+Finalidade: Extrafiscal
+               Fato Gerador: Saída de produtos nacionais ou nacionalizados do território nacional
+                   Base de Cálculo: Se alíquota específica: unidade de medida adotada pela lei;
+                Se alíquota ad valorem: Preço normal.
+               Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+                          Obs.: Constitui exceção aos princípios Anterioridade Anual/Nonagesimal
+                               Contribuinte: Exportador ou quem a ele a lei equiparar
+                                            Lançamento: Por homologação
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                    54
+        www.estrategiaconcursos.com.br                                                              58
+
+                                      https://t.me/KakashiAssinaturasBot
+ Fábio Dutra
+ Aula 13
+
+
+
+
+Imposto de Renda
+
+                                                  IMPOSTO DE RENDA
+                                                  Competência: União
+Finalidade: Fiscal
+                             Fato Gerador: Renda: produto do capital, trabalho ou ambos
+                                  Proventos de qualquer natureza: demais acréscimos patrimoniais
+           Base de Cálculo: Montante, real, arbitrado ou presumido, da renda ou dos proventos tributáveis.
+                                          Alíquota: Reduzida/Majorada por lei.
+                             Obs.: Constitui exceção ao princípio da Anterioridade Nonagesimal
+                          Contribuinte: Titular da renda e dos proventos ou seu possuidor.
+                                             Lançamento: Por homologação
+
+
+Imposto sobre Produtos Industrializados
+
+                                  IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS
+                                                  Competência: União
+Finalidade: Extrafiscal
+                                        Fato Gerador: I) desembaraço aduaneiro
+                                     II) saída dos estabelecimentos contribuintes do imposto
+                                                      III) arrematação em leilão
+                          Base de Cálculo: I) preço normal + II + taxas + encargos cambiais
+                II) valor da operação
+                III) preço da arrematação
+               Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+                                   Obs.: Constitui exceção ao princípio Anterioridade Anual
+                                    Contribuinte: Importador ou a ele equiparado;
+                                                   Industrial ou a ele equiparado;
+                               Comerciante de produtos sujeitos ao IPI, destinados aos industriais;
+                                     Arrematante de produtos apreendidos ou abandonados.
+                                             Lançamento: Por homologação
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                             55
+        www.estrategiaconcursos.com.br                                                                       58
+
+                                        https://t.me/KakashiAssinaturasBot
+ Fábio Dutra
+ Aula 13
+
+
+
+
+Imposto sobre Operações Financeiras
+
+                                                                       IOF
+                                                  Competência: União
+Finalidade: Extrafiscal
+                       Fato Gerador: Crédito e câmbio: valor entregue ou posto à disposição;
+                                      Seguro: emissão da apólice ou recebimento do prêmio;
+                                 Títulos ou valores: emissão, transmissão, pagamento ou resgate.
+                               Base de Cálculo: Crédito: montante (principal + juros);
+                Câmbio: valor recebido ou posto à disposição;
+                Seguro: montante do prêmio;
+                Títulos e valores: Emissão: valor nominal + ágio (se houver);
+                                                          ==219a34==
+
+
+
+
+                                Transmissão: Preço/Valor nominal/Bolsa;
+                                Pagamento ou resgate: o preço.
+                Alíquota: Reduzida/Majorada por ato do Poder Executivo (condições/limites legais)
+           Obs.: Constitui exceção aos princípios Anterioridade Anual/Nonagesimal
+                      Contribuinte: Qualquer das partes na operação tributada (a lei definirá)
+                                            Lançamento: Por homologação
+
+
+Imposto sobre a Propriedade Territorial Rural
+
+                                IMPOSTO SOBRE PROPRIEDADE TERRITORIAL RURAL
+                                                  Competência: União
+Finalidade: Extrafiscal
+                     Fato Gerador: Propriedade, domínio útil ou posse de imóvel por natureza
+                                     Base de Cálculo: Valor fundiário (terra nua)
+                                         Alíquota: Reduzida/Majorada por lei.
+                Contribuinte: Proprietário do imóvel, titular do seu domínio útil ou o seu possuidor
+                                            Lançamento: Por homologação
+
+
+Imposto sobre Grandes Fortunas
+  ● Trata-se de imposto de competência da União, ainda não instituído. Sua instituição só pode ocorrer
+    por meio de lei complementar, conforme estabelece o art. 153, VII, da CF/88. A alteração de suas
+    alíquotas não constitui exceção aos princípios da legalidade, anterioridade anual e nonagesimal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       56
+        www.estrategiaconcursos.com.br                                                                 58
+
+                                      https://t.me/KakashiAssinaturasBot
+ Fábio Dutra
+ Aula 13
+
+
+
+
+Imposto Seletivo
+● Compete à União instituir impostos sobre produção, extração, comercialização ou importação de bens
+  e serviços prejudiciais à saúde ou ao meio ambiente, nos termos de lei complementar.
+
+
+
+
+               REGRAS CONSTITUCIONAIS DO IMPOSTO SELETIVO
+
+
+
+
+       Receita Federal (Analista Tributário) Direito Tributário                                  57
+       www.estrategiaconcursos.com.br                                                            58
+
+                                     https://t.me/KakashiAssinaturasBot
+

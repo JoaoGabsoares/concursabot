@@ -1,0 +1,225 @@
+INTRODUÇÃO SOBRE A DRE
+ DEMONSTRAÇÃO DO RESULTADO DO EXERCÍCIO (DRE): APRESENTA O DESEMPENHO DA
+ ENTIDADE ATRAVÉS DO CONFRONTO ENTRE RECEITAS E DESPESAS (CARÁTER DINÂMICO)
+
+     RECEITAS MAIORES QUE DESPESAS        LUCRO
+
+
+     DESPESAS MAIORES QUE RECEITAS        PREJUÍZO
+
+
+
+ ELABORADA CONFORME O PRINCÍPIO DA COMPETÊNCIA
+
+                                         RECEITAS E DESPESAS DEVEM SER RECONHECIDAS INDEPENDENTEMENTE DE PAGAMENTO OU RECEBIMENTO
+
+
+ AO TÉRMINO DO EXERCÍCIO, O LUCRO OU PREJUÍZO SERÁ TRANSFERIDO PARA
+ O PATRIMÔNIO LÍQUIDO (PL) E AS CONTAS DE RESULTADO SERÃO ZERADAS
+
+
+ RECEITAS: SÃO AUMENTOS NOS ATIVOS, OU REDUÇÕES NOS PASSIVOS, QUE RESULTAM EM AUMENTOS NO PL
+                                                        • Contribuições de detentores de direitos sobre o patrimônio
+    GERAM AUMENTO DO PL, MAS NÃO SÃO RECEITAS           • Ágio na emissão de ações
+                                                        • Recebimento pela emissão de parte beneficiária e bônus de subscrição
+
+ DESPESAS: SÃO REDUÇÕES NOS ATIVOS, OU AUMENTOS NOS PASSIVOS, QUE RESULTAM EM REDUÇÕES NO PL
+                                                               • Distribuições aos detentores de direitos sobre o patrimônio
+    GERAM DIMINUIÇÃO DO PL, MAS NÃO SÃO DESPESAS               • Dividendos, juros sobre o capital próprio
+                                                               • Retirada de capital                                        CONTABILIDADE GERAL
+                                                https://t.me/KakashiAssinaturasBot                                        ESTRATÉGIA CONCURSOS
+                                          DRE SEGUNDO A
+                                          LEI Nº 6.404/76 I
+
+
+
+                                        ESTRUTURA DA DRE SEGUNDO A LEI Nº
+                                     6.404/76 (LEI DAS SOCIEDADES POR AÇÕES)
+
+
+
+
+                                                             CONTABILIDADE GERAL
+https://t.me/KakashiAssinaturasBot                          ESTRATÉGIA CONCURSOS
+FATURAMENTO BRUTO/RECEITA BRUTA DE VENDAS: A CONTABILIZAÇÃO                                                      DRE SEGUNDO A
+DAS VENDAS É FEITA PELO VALOR BRUTO, INCLUINDO IMPOSTOS
+                                                                                                                 LEI Nº 6.404/76 I
+
+
+DEVOLUÇÕES E CANCELAMENTOS DE VENDAS: REPRESENTA TODAS AS DEVOLUÇÕES DE VENDAS
+OCORRIDAS DENTRO DO EXERCÍCIO SOCIAL
+                                                                                                                   DEDUÇÕES DA RECEITA BRUTA
+AS DEVOLUÇÕES DE VENDAS DE EXERCÍCIOS ANTERIORES SÃO CONSIDERADAS COMO DESPESAS
+OPERACIONAIS
+
+ABATIMENTOS: REPRESENTA AS REDUÇÕES DOS VALORES A RECEBER QUE SÃO CONCEDIDOS
+POSTERIORMENTE À ENTREGA DOS PRODUTOS, EM RAZÃO DE OS APRESENTAREM DEFEITOS DE
+QUALIDADE, QUANTIDADE, DEFEITOS DO TRANSPORTE, ETC
+
+É CONCEDIDO APÓS A EMISSÃO DA NOTA FISCAL. ASSIM, NÃO AFETA A BASE DE CÁLCULO DOS
+IMPOSTOS (IPI, ICMS, PIS E COFINS)
+
+DESCONTOS INCONDICIONAIS/COMERCIAIS: REPRESENTA OS DESCONTOS CONCEDIDOS NO
+MOMENTO DA NEGOCIAÇÃO
+
+CASO    SEJA   CONCEDIDO     APÓS    À   NEGOCIAÇÃO,       TRATA-SE             DE          DESCONTO   • CONCEDENTE RECONHECE DESPESA FINANCEIRA
+CONDICIONAL/FINANCEIRO                                                                                 • BENEFICIÁRIO RECONHECE UM RECEITA FINANCEIRA
+IMPOSTOS E CONTRIBUIÇÕES SOBRE VENDAS: OS PRINCIPAIS TRIBUTOS INCIDENTES SOBRE A
+VENDA SÃO ICMS, ISS, PIS E COFINS
+
+O IPI NÃO É DEDUÇÃO DA RECEITA BRUTA, POIS É UM IMPOSTO POR FORA, SENDO DEDUZIDO DO
+FATURAMENTO BRUTO EM MOMENTO ANTERIOR
+
+AJUSTE A VALOR PRESENTE SOBRE CLIENTES: TRAZ OS VALORES QUE ESTÃO PREVISTOS PARA SE
+REALIZAREM EM DATA FUTURA A TERMOS MONETÁRIOS DE HOJE
+                                                                                                                                         CONTABILIDADE GERAL
+BUSCA SEPARAR O QUE É EFEITO MERAMENTE FINANCEIRO DAS OPERAÇÕES                                                                         ESTRATÉGIA CONCURSOS
+                                                       https://t.me/KakashiAssinaturasBot
+                                                                         DRE SEGUNDO A LEI Nº 6.404/76 II
+CUSTO DA MERCADORIA VENDIDA (CMV)
+
+
+                                       CMV = ESTOQUE INICIAL DE MERCADORIAS (EI) + COMPRAS LÍQUIDAS (CL) - ESTOQUE FINAL DE MERCADORIAS (EF)
+
+         AS COMPRAS LÍQUIDAS (CL):
+
+
+                                     INCLUEM                                                                       NÃO INCLUEM
+     (+) PREÇO DE COMPRA
+                                                                                            (-) TRIBUTOS RECUPERÁVEIS (MATÉRIA PRIMA: IPI, ICMS, PIS, COFINS
+     (+) IMPOSTOS DE IMPORTAÇÃO E OUTROS TRIBUTOS (EXCETO RECUPERÁVEIS)                     NÃO CUMULATIVOS. REVENDA: ICMS, PIS, COFINS NÃO CUMULATIVOS)
+     (+) CUSTO DE TRANSPORTES
+                                                                                            (-) DESCONTOS COMERCIAIS
+     (+) SEGURO
+                                                                                            (-) DEVOLUÇÕES
+     (+) MANUSEIO
+                                                                                            (-) ABATIMENTOS
+     (+) CUSTOS DIRETAMENTE ATRIBUÍVEIS
+
+
+DESPESAS OPERACIONAIS: SÃO AQUELAS PAGAS OU INCORRIDAS COM O OBJETIVO DE VENDER PRODUTOS E ADMINISTRAR A EMPRESA
+
+
+EX. DESPESAS DE VENDAS; DESPESAS GERAIS E ADMINISTRATIVAS; DESPESAS COM TRIBUTOS (NÃO RELACIONADOS ÀS ATIVIDADES PRINCIPAIS DA ENTIDADE);
+DESPESAS COM PROVISÕES; DESPESAS FINANCEIRAS E RECEITAS FINANCEIRAS; OUTRAS RECEITAS E DESPESAS OPERACIONAIS (COMO GANHOS E PERDAS COM
+EQUIVALÊNCIA PATRIMONIAL)
+
+
+
+                                                                                                                                             CONTABILIDADE GERAL
+                                                           https://t.me/KakashiAssinaturasBot                                               ESTRATÉGIA CONCURSOS
+OUTRAS RECEITAS E OUTRAS DESPESAS: ANTIGAMENTE DENOMINADAS
+                                                                                                       EX. GANHOS E PERDAS DE CAPITAL (LEGISLAÇÃO DO IR)
+COMO RECEITAS NÃO OPERACIONAIS E DESPESAS NÃO OPERACIONAIS
+
+
+
+
+PARTICIPAÇÕES ESTATUTÁRIAS: DEVE SEGUIR A ORDEM DE PARTICIPAÇÕES, SENDO
+QUE CADA PARTICIPAÇÃO DIMINUI A BASE DE CÁLCULO DA PARTICIPAÇÃO SEGUINTE
+
+                                                                                              OS PREJUÍZOS ACUMULADOS SÃO EXCLUÍDOS DA BASE DE CÁLCULO
+          •   DEBENTURISTAS
+                                                                                              DAS PARTICIPAÇÕES, ATRAVÉS DE CÁLCULO EXTRA CONTÁBIL
+          •   EMPREGADOS
+ ORDEM    •   ADMINISTRADORES
+          •   PARTES BENEFICIÁRIAS
+          •   FUNDO DE ASSISTÊNCIA/PREVIDÊNCIA A EMPREGADOS
+
+
+
+
+DRE SEGUNDO A LEI Nº 6.404/76 II
+
+
+
+                                                                                       LUCRO LÍQUIDO DO EXERCÍCIO
+ LUCRO LÍQUIDO POR AÇÃO                   LUCRO LÍQUIDO POR AÇÃO =
+                                                                                            TOTAL DE AÇÕES
+
+
+                                                                                                                                     CONTABILIDADE GERAL
+                                                  https://t.me/KakashiAssinaturasBot                                                ESTRATÉGIA CONCURSOS
+                                                      NÃO HÁ CONFLITO ENTRE A ESTRUTURA PREVISTA NA LEI Nº
+                                                      6404/76 E NOS PRONUNCIAMENTOS CONTÁBEIS
+
+DRE SEGUNDO O CPC 26
+                                                      O CPC 26 NÃO TROUXE UMA ORDEM RÍGIDA PARA A
+                                                      CLASSIFICAÇÃO DOS ITENS
+
+
+              COMPARATIVO
+
+
+
+
+                                                                                             CONTABILIDADE GERAL
+                        https://t.me/KakashiAssinaturasBot                                  ESTRATÉGIA CONCURSOS
+DRE SEGUNDO O CPC 26
+                                      RECEITA BRUTA X RECEITA LÍQUIDA: NO CPC 26, A ESTRUTURA DA DRE JÁ INICIA DA RECEITA LÍQUIDA
+
+                                      SEPARAÇÃO DAS DESPESAS E RECEITAS FINANCEIRAS: OCORRE PARA SEPARAR O RESULTADO OPERACIONAL
+    PRINCIPAIS DIFERENÇAS             DO RESULTADO OBTIDO COM A SOBRA (OU A FALTA) DE CAIXA
+
+
+                                      RESULTADO DAS OPERAÇÕES DESCONTINUADAS: INCLUI ESSAS INFORMAÇÕES DE FORMA SEPARADA DAS
+                                      OPERAÇÕES NORMAIS DA EMPRESA EM RAZÃO DO SEU CARÁTER EXCEPCIONAL
+
+
+
+                                                           EX. RECEITAS COM A VENDA DE IMPORTANTE LINHA SEPARADA DE NEGÓCIOS
+
+                                                             MÉTODO DA NATUREZA: AS DESPESAS SÃO AGREGADAS DE ACORDO COM A SUA NATUREZA
+
+                                                             EX. DEPRECIAÇÕES, COMPRAS DE MATERIAIS, DESPESAS COM TRANSPORTE,
+                                                             BENEFÍCIOS AOS EMPREGADOS E DESPESAS DE PUBLICIDADE
+ APRESENTAÇÃO DAS DESPESAS            MÉTODOS
+
+                                                            MÉTODO DA FUNÇÃO: CLASSIFICA-SE AS DESPESAS DE ACORDO COM A SUA FUNÇÃO COMO
+                                                            PARTE DO CUSTO DOS PRODUTOS OU SERVIÇOS VENDIDOS OU, POR EXEMPLO, DAS DESPESAS
+                                                            DE DISTRIBUIÇÃO OU DAS ATIVIDADES ADMINISTRATIVAS
+
+
+                                                             EX. CUSTO DOS PRODUTOS E SERVIÇOS VENDIDOS,
+                                                             DESPESAS DE VENDAS, DESPESAS ADMINISTRATIVAS
+
+
+LEI Nº 6.404/76     APRESENTAÇÃO DAS DESPESAS PELO MÉTODO DA FUNÇÃO
+                                                                                                                        CONTABILIDADE GERAL
+                                            https://t.me/KakashiAssinaturasBot                                         ESTRATÉGIA CONCURSOS
+                                                                             É A MUTAÇÃO QUE OCORRE NO PATRIMÔNIO LÍQUIDO DURANTE UM PERÍODO
+                                                                             QUE RESULTA DE TRANSAÇÕES E OUTROS EVENTOS QUE NÃO SEJAM DERIVADOS
+                                                                             DE TRANSAÇÕES COM OS SÓCIOS NA SUA QUALIDADE DE PROPRIETÁRIOS
+                       RESULTADO ABRANGENTE
+                                                                             COMPREENDE TODOS OS COMPONENTES DA “DEMONSTRAÇÃO DO RESULTADO”
+                                                                             E DA “DEMONSTRAÇÃO DOS OUTROS RESULTADOS ABRANGENTES”
+
+
+                                                                                                                 RESULTADO LÍQUIDO DO PERÍODO
+DRA                  COMPOSIÇÃO DA DEMONSTRAÇÃO DO RESULTADO ABRANGENTE (DRA)
+                                                                                                                 OUTROS RESULTADOS ABRANGENTES
+
+                                                          RECLASSIFICAÇÃO DE OUTROS RESULTADOS ABRANGENTES PARA O RESULTADO DO PERÍODO
+
+
+                                                                OUTROS RESULTADOS ABRANGENTES
+
+                    VARIAÇÕES NA RESERVA DE REAVALIAÇÃO, QUANDO PERMITIDAS LEGALMENTE
+
+                    GANHOS E PERDAS ATUARIAIS EM PLANOS DE PENSÃO COM BENEFÍCIO DEFINIDO
+
+                    GANHOS E PERDAS DERIVADOS DE CONVERSÃO DE DEMONSTRAÇÕES CONTÁBEIS DE OPERAÇÕES NO EXTERIOR
+
+                    GANHOS E PERDAS RESULTANTES DE INVESTIMENTOS EM INSTRUMENTOS PATRIMONIAIS DESIGNADOS AO VALOR
+                    JUSTO POR MEIO DE OUTROS RESULTADOS ABRANGENTES
+
+                    PARCELA EFETIVA DE GANHOS OU PERDAS ADVINDOS DE INSTRUMENTOS DE HEDGE EM OPERAÇÃO DE HEDGE DE FLUXO DE CAIXA
+
+
+ APESAR DE O RESULTADO ABRANGENTE ESTAR CONTIDO NA DEMONSTRAÇÃO DE MUTAÇÕES
+ DO PATRIMÔNIO LÍQUIDO (DMPL), A DRA DEVE SER UMA DEMONSTRAÇÃO SEPARADA
+
+
+ A LEGISLAÇÃO BRASILEIRA REQUER QUE A DRA SEJA APRESENTADA SEPARADAMENTE DA DRE                                               CONTABILIDADE GERAL
+                                                 https://t.me/KakashiAssinaturasBot                                          ESTRATÉGIA CONCURSOS
+

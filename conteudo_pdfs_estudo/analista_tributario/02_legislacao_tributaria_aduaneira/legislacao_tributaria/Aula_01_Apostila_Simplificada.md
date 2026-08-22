@@ -1,0 +1,172 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 01_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Legislação Tributária
+---
+
+# Legislação Tributária
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                                        Legislação Tributária
+
+                                                        Autor:
+                                                  Fábio Dutra
+
+                                            09 de Março de 2025
+
+---
+
+      Fábio Dutra
+      Aula 00
+
+                                                                                     Índice
+1) RFB - Analista Tributário - Legislação Tributária Federal
+
+                Receita Federal (Analista Tributário) Legislação Tributária                                                                                                               2
+                www.estrategiaconcursos.com.br                                                                                                                                            6
+
+                                                             
+
+
+---
+
+  Fábio Dutra
+  Aula 00
+
+    APRESENTAÇÃO DO PROFESSOR E DO CURSO
+Olá meu amigo(a)! Tudo bem com você?
+Seja bem-vindo ao nosso curso de Legislação Tributária Federal focado no concurso da Receita Federal,
+cargo de Analista-Tributário! Nosso curso é totalmente direcionado para o que você precisa para fazer a
+prova desse concurso específico, sem enrolação, sem leitura cansativa. E para te falar a verdade, este curso
+foi elaborado pensando no aluno que está tendo o primeiro contato com a disciplina.
+Então, você pode ficar tranquilo que, mesmo saindo do zero na preparação nesta disciplina, terá condições
+de aprendê-la rapidamente e, mais importante do que isso, acertar as questões da prova! Ok? Para
+cumprir essa missão, o curso também terá o aprofundamento necessário nos pontos mais explorados em
+prova, especialmente aqueles cobrados pela banca responsável pelo concurso da RFB!
+Agora, permita-me fazer uma breve apresentação pessoal: meu nome é Fábio Dutra. Sou Auditor-Fiscal da
+Receita Federal do Brasil. Sou também pós-graduado em Direito Tributário. Fui aprovado no concurso de
+Auditor-Fiscal da Receita Federal do Brasil de 2012, tendo alcançado a 28ª posição nesse certame
+extremamente difícil. Sou também coautor de um livro sobre provas discursivas.
+Na Receita Federal, já atuei tanto na área aduaneira, como na área de tributos internos. Já trabalhei em
+fronteira, mas hoje trabalho na região sudeste do Brasil. A verdade, meus amigos, é que já tive muitas
+experiências nesse cargo do qual muito me orgulho!
+No Estratégia Concursos, já escrevi centenas de materiais em PDF, já gravei muitas videoaulas, já participei
+de inúmeras revisões de véspera, correções de gabaritos, recursos, discursivas, muita coisa mesmo. Mas o
+que eu gostaria de enfatizar aqui é que eu já conheci centenas de alunos que foram aprovados nos mais
+diversos concursos Brasil afora. E a sua hora está chegando!
+Destaco que o índice de aprovação dos meus cursos aqui no Estratégia Concursos é muito próximo de
+100%, sendo que em alguns deles alcançamos a aprovação unânime dos alunos. Portanto, tenha certeza de
+que você está adquirindo um material de excelente qualidade, alinhado com o edital do concurso de
+Analista da Receita Federal!!!
+Em paralelo aos cursos, você pode acompanhar a minha rotina diária e muitas dicas de estudos (resumos,
+atualizações, jurisprudência etc.) no meu Instagram (bora lá?!): @proffabiodutra
+Estamos juntos até a aprovação!
+Prof. Fábio Dutra
+
+        Receita Federal (Analista Tributário) Legislação Tributária                                       3
+        www.estrategiaconcursos.com.br                                                                    6
+
+                                      
+
+
+---
+
+Fábio Dutra
+Aula 00
+
+                      ESTRUTURA DO CURSO - RFB
+
+           Aula                                                     Conteúdo Exigido e Abordado
+                               Imposto sobre Produtos Industrializados: Princípios e regras constitucionais
+          Aula 00
+                                                        aplicáveis ao imposto.
+          Aula 01                          Imposto sobre Produtos Industrializados: Contribuinte.
+          Aula 02                 Imposto sobre Produtos Industrializados: Fato gerador. Base de cálculo.
+                              Imposto sobre a Renda e Proventos de Qualquer Natureza: Princípios e regras
+                                  constitucionais aplicáveis ao imposto. Critérios orientadores. Renda e
+          Aula 03
+                                 Proventos. Conceito. Disponibilidade Econômica ou jurídica. Acréscimo
+                                                       ==219a34==
+
+                                                                patrimonial.
+          Aula 04               Tributação das pessoas físicas: Fato Gerador. Contribuintes. Responsáveis.
+          Aula 05                         Tributação das pessoas físicas: Base de cálculo. Deduções.
+                                   Tributação das pessoas físicas: Tributação exclusiva. Sistema de bases
+          Aula 06                  correntes. Recolhimento mensal obrigatório (carnê-leão). Tributação
+                                                         Definitiva. Ajuste Anual.
+          Aula 07                      Tributação das pessoas jurídicas: Contribuintes. Responsáveis.
+                                 Tributação das pessoas jurídicas: Fato gerador. Base de cálculo. Despesas
+          Aula 08
+                                                  dedutíveis e indedutíveis. Lucro real.
+
+                                    Tributação das pessoas jurídicas: Lucro presumido. Lucro arbitrado.
+          Aula 09
+                                                           Tributação na fonte.
+
+                                 Tributação das pessoas jurídicas: Lucros, rendimentos e ganhos de capital
+                                 obtidos no exterior. Preço de transferência. Investimentos em sociedades
+          Aula 10                  coligadas e controladas avaliados pelo método do patrimônio líquido.
+                                  Reorganizações societárias. Regime de caixa e regime de competência.
+                                                                 Apuração.
+                                  3. Imposto sobre a Propriedade Territorial Rural. 3.1. Princípios e regras
+                                constitucionais aplicáveis ao imposto. 3.2. Competência e sujeito ativo. 3.3.
+                                   Fato gerador. 3.4. Contribuinte. 3.5. Base de cálculo. 3.6. Apuração. 6.
+          Aula 11              Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos
+                               ou Valores Mobiliários - IOF. 6.1. Princípios e regras constitucionais aplicáveis
+                                 ao imposto. 6.2. Fato gerador. 6.3. Contribuinte. 6.4. Base de cálculo. 6.5.
+                                                                  Apuração."
+                               Contribuição Social sobre o Lucro Líquido. Princípios e regras constitucionais
+                                  aplicáveis à contribuição. Fato gerador. Contribuinte. Base de cálculo.
+          Aula 12              Apuração. Contribuição de Intervenção de Domínio Econômico destinada a
+                               financiar o Programa de Estímulo à Interação Universidade-Empresa para o
+                                Apoio à Inovação (Lei nº 10.168, de 29 de dezembro de 2000). Princípios e
+
+
+      Receita Federal (Analista Tributário) Legislação Tributária                                              4
+      www.estrategiaconcursos.com.br                                                                           6
+
+                                    
+
+
+---
+
+Fábio Dutra
+Aula 00
+
+                                regras constitucionais aplicáveis à contribuição. Fato gerador. Contribuinte.
+                                                        Base de cálculo. Apuração.
+                                  Contribuições Sociais. Princípios e regras constitucionais aplicáveis às
+                                contribuições sociais. Contribuição para o PIS/Pasep e Contribuição para o
+                                    Financiamento da Seguridade Social - COFINS. Princípios e regras
+                               constitucionais aplicáveis às contribuições. Regime de apuração cumulativa.
+                               Fato gerador. Contribuinte. Base de cálculo. Apuração. Regime de apuração
+                                  não cumulativa. Fato gerador. Contribuinte. Créditos. Base de cálculo.
+          Aula 13
+                               Apuração. 9. Contribuição de Intervenção no Domínio Econômico incidente
+                                sobre a importação e a comercialização de petróleo e seus derivados, gás
+                              natural e seus derivados, e álcool etílico combustível - Cide-Combustíveis (Lei
+                                     nº 10.336, de 19 de dezembro de 2001). 9.1. Princípios e regras
+                              constitucionais aplicáveis à contribuição. 9.2. Fato gerador. 9.3. Contribuinte.
+                                                    9.4. Base de cálculo. 9.5. Apuração
+
+      Receita Federal (Analista Tributário) Legislação Tributária                                               5
+      www.estrategiaconcursos.com.br                                                                            6
+
+                                    
+
+
+---
+
+---

@@ -1,0 +1,3311 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 19_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '19'
+titulo_aula: Direito Administrativo
+artigos_citados:
+- Art. 184.
+- Art. 216
+- art. 1.299
+- art. 22
+- art. 32
+- art. 36.
+- art. 519.
+- art. 5º
+sumulas_citadas:
+- súmula 479
+---
+
+# Direito Administrativo
+
+Aula 18
+                          Receita Federal (Analista Tributário)
+                                        Direito Administrativo
+
+                                                        Autor:
+                                               Antonio Daud
+
+                                            23 de Julho de 2025
+
+---
+
+      Antonio Daud
+      Aula 18
+
+                                                                                     Índice
+1) Intervenção do Estado na Propriedade Privada - Introdução; Desapropriação
+
+
+2) Outras Modalidades de Intervenção. Servidão Administrativa. Requisição. Ocupação Temporária
+
+
+3) Questões Comentadas - Intervenção do Estado na Propriedade Privada - Bancas Selecionadas
+
+
+4) Lista de Questões - Intervenção do Estado na Propriedade Privada - Bancas Selecionadas
+
+                Receita Federal (Analista Tributário) Direito Administrativo                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           71
+
+                                                             
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+INTRODUÇÃO
+Olá, amigos!
+
+Nesta aula estudaremos os instrumentos pelos quais o Estado pode intervir na propriedade privada, seja
+estabelecendo restrições (intervenção restritiva), seja suprimindo a propriedade (intervenção supressiva,
+que é a desapropriação).
+
+Neste “PDF simplificado”, vamos, primeiramente, comentar algumas noções gerais sobre o tema e, na
+sequência, abordar as principais características de cada um destes instrumentos de intervenção.
+
+Em frente!
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                   3
+        www.estrategiaconcursos.com.br                                                                71
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+NOÇÕES PRELIMINARES
+Quando falamos em “propriedade”, de modo simplificado, nos referimos ao direito que uma pessoa (física
+ou jurídica) possui sobre uma coisa (res)1. Aquele que é proprietário, portanto, dispõe do direito de usar,
+gozar e dispor da coisa, bem como de reavê-la, caso alguém detenha injustamente a coisa.
+
+Modernamente, tem-se entendido que o direito de propriedade não é mais absoluto, como se dava na época
+medieval2. Em razão da necessidade de harmonizar o convívio em sociedade (interesse público), há
+determinadas situações que autorizam o poder público a intervir na propriedade dos particulares, com vistas
+a assegurar que a propriedade atenda a um interesse social.
+
+Esta concepção representa uma evolução das correntes liberais, que marcaram os séculos XVIII e XIX, para
+as quais a propriedade era absolutamente intangível, quando era inconcebível qualquer espécie de
+intervenção proveniente do Estado.
+
+Ocorre que, a partir do século XX, o liberalismo puro perdeu espaço para o chamado “Estado de bem-estar
+social”, o qual admite a intervenção nas propriedades, em certos casos, com vistas a preservar a função
+social da propriedade. Quando esta intervenção é realizada pelo Estado, podemos dizer que ela também se
+fundamenta na supremacia do interesse público sobre o privado.
+
+Podemos já perceber que as intervenções que o poder público exerce sobre as propriedades dos particulares
+se fundamentam em dois pilares3: (i) na função social da propriedade e (ii) na supremacia do interesse
+público sobre o privado.
+
+Assim, pode-se definir a intervenção do Estado na propriedade como sendo “toda e qualquer atividade
+estatal que, amparada em lei, tenha por fim ajustá-la aos inúmeros fatores exigidos pela função social a
+que está condicionada” 4.
+
+Adiante veremos os principais fundamentos jurídicos que legitimam o Estado a intervir na propriedade dos
+particulares.
+
+1
+ Como a relação de propriedade se dá entre um sujeito e uma coisa (res), dizemos que a propriedade é
+um direito real, em contraponto aos direitos pessoais (que envolvem relação jurídica entre dois
+sujeitos). Além disso, enquanto direito real, a propriedade é oponível contra todos (erga omnes).
+2
+    FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 813
+3
+    Op. cit. P. 815-816
+4
+    Op. Cit.
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                  4
+           www.estrategiaconcursos.com.br                                                               71
+
+                                         
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+MODALIDADES DE INTERVENÇÃO
+                                                                                                INCIDÊNCIA EM PROVA: BAIXA
+
+Considerando os efeitos da intervenção sobre a propriedade, a doutrina em geral 5 admite a existência de
+duas formas básicas de intervenção:
+
+
+                                                                     Estado impõe restrições e condições ao uso da
+                                           restritiva
+                                                                         propriedade, sem retirá-la do seu dono
+      intervenção
+                                                                     Estado transfere para si a propriedade de um
+                                           supressiva
+                                                                                       terceiro
+
+
+A partir desta macro classificação, extraímos as principais modalidades de intervenção:
+
+
+                                                                                    servidão
+
+                                                                                  requisição
+                                                                                administrativa
+
+                                                                                    ocupação
+                                                        restritiva
+                                                                                   temporária
+                             modalidades
+
+                                                                                 limitações
+                                                                               administrativas
+
+                                                                                tombamento
+
+
+                                                    supressiva                 desapropriação
+
+
+Adiante estudaremos as características de cada uma destas modalidades de intervenção, iniciando por
+aquela mais severa, que é a desapropriação.
+
+5
+ A exemplo de DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. GenMétodo. 31ª ed. 2018.
+eBook. Item 6.2
+FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 818
+
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                                 5
+          www.estrategiaconcursos.com.br                                                                               71
+
+                                              
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+DESAPROPRIAÇÃO
+Em linhas gerais, podemos dizer que a desapropriação resulta na extinção do direito de propriedade do
+particular em favor do poder público.
+
+
+Modalidades de Desapropriação
+                                                                                INCIDÊNCIA EM PROVA: ALTA
+
+A desapropriação é modalidade de intervenção na propriedade privada que encontra assento constitucional
+(CF, art. 5º, XXIV).
+
+A partir deste dispositivo constitucional, podemos perceber a existência de três modalidades de
+desapropriação:
+
+       1) desapropriação por necessidade pública
+
+       2) desapropriação por utilidade pública
+
+       3) desapropriação por interesse social
+
+Além destas 3 formas, é importante lembrarmos da desapropriação confiscatória, a qual se dá em razão da
+identificação de (i) culturas ilegais de plantas psicotrópicas ou de (ii) exploração de trabalho escravo,
+mencionadas no art. 243 da CF.
+
+Reparem que, diferentemente das 3 modalidades previstas no inciso XXIV do art. 5º, a desapropriação em
+razão de culturas ilegais de plantas psicotrópicas ou de exploração de trabalho escravo não requer
+pagamento de indenização.
+
+Assim, trataremos neste tópico de todas estas modalidades desapropriatórias.
+
+Vamos lá!
+
+Desapropriação por necessidade ou utilidade pública
+
+Trataremos, conjuntamente nesta seção, das desapropriações por necessidade e por utilidade pública.
+
+A desapropriação por necessidade pública é aquela que resulta de situação de emergência.
+
+A desapropriação por utilidade pública, a seu turno, decorre de uma conveniência da Administração.
+
+Apesar desta distinção teórica, a doutrina tem considerado que o Decreto-Lei 3.365/1941 trata
+genericamente de ambas, não havendo distinção relevante para fins de prova. Em outras palavras, ao “dispor
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                    6
+        www.estrategiaconcursos.com.br                                                                 71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+sobre desapropriações por utilidade pública”, a doutrina entende que o Decreto-Lei 3.365/1941 regulamenta
+indistintamente ambas as modalidades.
+
+Desapropriação por interesse social
+
+Vimos anteriormente que, a despeito de o Estado assegurar aos particulares a proteção à propriedade
+privada, sua utilização deverá estar alinhada à sua função social.
+
+Nesse sentido, ao se desviar de sua função social, a propriedade torna-se passível de ser desapropriada por
+interesse social.
+
+Esta modalidade comporta três espécies, a saber:
+                                                         ==219a34==
+
+       a)      desapropriação para fins de reforma agrária
+
+       b)      desapropriação urbanística
+
+       c)      desapropriação ordinária
+
+   ➢ Desapropriação para reforma agrária
+Em síntese, se estivermos diante de propriedade rural que desatenda à sua função social, terá lugar a
+desapropriação de terras rurais para reforma agrária.
+
+A competência para tal desapropriação é atribuída à União, conforme disposto no próprio texto
+constitucional:
+
+        CF, art. 184. Compete à União desapropriar por interesse social, para fins de reforma
+        agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa
+        indenização em títulos da dívida agrária, com cláusula de preservação do valor real,
+        resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, e cuja
+        utilização será definida em lei.
+
+A partir da transcrição supra, notem que a indenização, neste caso, ocorre por meio de títulos da dívida
+agrária.
+
+No plano infraconstitucional, destaco que esta espécie encontra-se regulamentada principalmente pelas Leis
+8.629/1993 e 4.504/1964 (Estatuto da Terra).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                    7
+        www.estrategiaconcursos.com.br                                                                  71
+
+                                      
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+     ➢ Desapropriação urbanística
+Por outro lado, sendo propriedade urbana que encontra-se desalinhada à função social definida no plano
+diretor do município, surge a figura da desapropriação urbanística.
+
+O fundamento constitucional para esta espécie está no art. 182 da Magna Carta:
+
+          CF, art. 182, § 2º A propriedade urbana cumpre sua função social quando atende às
+          exigências fundamentais de ordenação da cidade expressas no plano diretor.
+
+          CF, art. 182, § 3º As desapropriações de imóveis urbanos serão feitas com prévia e justa
+          indenização em dinheiro.
+
+          § 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no
+          plano diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não
+          edificado, subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob
+          pena, sucessivamente, de: (..)
+
+          III - desapropriação com pagamento mediante títulos da dívida pública de emissão
+          previamente aprovada pelo Senado Federal, com prazo de resgate de até dez anos, em
+          parcelas anuais, iguais e sucessivas, assegurados o valor real da indenização e os juros
+          legais.
+
+
+No plano infralegal, a desapropriação urbanística encontra-se disciplinada principalmente na Lei
+10.257/2001 (Estatuto da Cidade).
+
+Percebam que esta espécie expropriatória é de competência dos municípios e, também6, ao Distrito Federal.
+
+     ➢ Desapropriação ordinária
+Por fim, há ainda as desapropriações por interesse social que não possuem regras específicas previstas nos
+diplomas mencionados acima (Estatuto da Cidade ou Estatuto da Terra). Seria uma espécie de “vala comum”
+da desapropriação por interesse social, a qual chamaremos aqui de desapropria ordinária por interesse
+público.
+
+Esta modalidade expropriatória é regulamentada, principalmente, pela Lei 4.132/1962, que “define os casos
+de desapropriação por interesse social e dispõe sobre sua aplicação”.
+
+6
+ CF, art. 32, § 1º Ao Distrito Federal são atribuídas as competências legislativas reservadas aos Estados
+e Municípios.
+
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                  8
+          www.estrategiaconcursos.com.br                                                               71
+
+                                        
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+Nos termos de seu art. 1º, a desapropriação por interesse social será decretada para “promover a justa
+distribuição da propriedade ou condicionar o seu uso ao bem-estar social”.
+
+Desapropriação Confiscatória
+
+Esta modalidade trata da desapropriação das propriedades rurais e urbanas nas quais forem identificadas o
+cultivo ilegal de plantas psicotrópicas ou a exploração de trabalho escravo (CF, art. 243).
+
+Há três características marcantes desta modalidade:
+
+         a) o proprietário não recebe qualquer indenização
+
+      b) os bens expropriados já têm destino determinado: reforma agrária e programas de habitação
+popular
+
+         c) não há necessidade de expedição de decreto desapropriatório prévio7
+
+7
+    FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 936
+
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                 9
+          www.estrategiaconcursos.com.br                                                              71
+
+                                        
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+                              por utilidade                                competência da
+                                pública                                        União
+                                                         reforma
+                                                          agrária          títulos da dívida
+                            por necessidade                                     agrária
+                                pública
+                                                                           competência dos
+                                                                            municípios e DF
+                            interesse social
+                                                                           títulos da dívida
+  desapropriação                                                                pública
+                                                       urbanística
+                                                                           desatendimento
+                                                        ordinária          do plano diretor
+                                                                                               parcelamento/utilizaç
+                                                                                                  ão compulsória
+                                                                            somente
+                                                                              após
+                                                                                               IPTU progressivo por 5
+                                                          cultivo ilegal de plantas                    anos
+                                                         psicotrópicas ou explor. de
+                              confiscatória                   trabalho escravo
+
+                                                               sem indenização
+
+Competência
+                                                                                          INCIDÊNCIA EM PROVA: ALTA
+
+O estudo quanto à competência relacionada à desapropriação merece ser estudada sob três primas: (a)
+competência legislativa para legislar a respeito de desapropriação; (b) competência declaratória; (c)
+competência executória.
+
+Competência legislativa
+
+A competência para legislar sobre o tema “desapropriação” é privativa da União (CF, art. 22, II). Assim,
+apenas a União poderá estabelecer normas jurídicas sobre este assunto.
+
+No entanto, nos termos do parágrafo único do art. 22 da CF, poderá ser delegada aos estados e ao Distrito
+Federal a competência para legislar sobre questões específicas, desde que por meio de lei complementar
+(CF, art. 22, parágrafo único).
+
+Competência declaratória
+
+Já a competência para declarar determinado bem - como de utilidade ou necessidade pública ou de interesse
+social - para fins de desapropriação (competência declaratória) é comum a todos os entes federativos.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                                    10
+        www.estrategiaconcursos.com.br                                                                                  71
+
+                                      
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+Dessa forma, União, estados, Distrito Federal e municípios detêm competência para declarar a necessidade,
+utilidade pública ou interesse social de determinado bem.
+
+Reparem que as entidades da administração indireta, mesmo aquelas que possuem personalidade de direito
+público, não possuem tal prerrogativa. A declaração compete apenas aos entes com competência política.
+
+Aproveito para lembrar que, tratando-se de desapropriação para fins de reforma agrária, a competência
+declaratória é atribuída à União (CF, art. 184). Tratando-se, por outro lado, de desapropriação urbanística, a
+competência declaratória é dos municípios e, também8, ao Distrito Federal.
+
+Competência executória
+
+Por fim, a competência para promover a desapropriação, executando-se as medidas necessárias à efetivação
+da transferência da propriedade (competência executória), é ainda mais ampla.
+
+A competência executória já alcança, além dos entes federativos, as entidades da administração indireta,
+bem como particulares delegatários de serviços públicos (concessionários e permissionários).
+
+Em síntese:
+
+
+                                                                privativa da União
+                                                                                            lei complementar
+                                legislativa
+                                                            delegável aos Estados/DF
+                                                                                                questões
+                                                           regra: União, Estados, DF e         específicas
+                                                                   Municípios
+
+                               declaratória                desapropriação p/ reforma
+    competências                                                 agrária: União
+                                                           desapropriação urbanística:
+                                                                Municípios e DF
+
+                                                           todos os entes federativos
+
+                                                              administração indireta
+                                executória
+
+                                                        delegatários de serviços públicos
+
+8
+ CF, art. 32, § 1º Ao Distrito Federal são atribuídas as competências legislativas reservadas aos Estados
+e Municípios.
+
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                       11
+          www.estrategiaconcursos.com.br                                                                     71
+
+                                        
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+Fases do Procedimento de Desapropriação
+                                                                                 INCIDÊNCIA EM PROVA: MÉDIA
+
+A doutrina em geral define a desapropriação como sendo um procedimento administrativo. Este
+procedimento possuirá duas fases: (i) declaratória e (ii) executória. A fase executória, por sua vez, pode se
+desenrolar na via administrativa ou na via judicial:
+
+
+                                                       declaratória
+                  fases do
+              procedimento de                                                  administrativa
+               desapropriação
+                                                        executória
+                                                                                   judicial
+
+
+Adiante iremos detalhar as características destas duas fases.
+
+Fase declaratória
+
+Na fase declaratória, o poder público irá declarar a existência de utilidade pública, necessidade pública ou
+interesse social em relação a determinado(s) bem(ns).
+
+Outra declaração deve ser feita nesta fase: declaração da finalidade que será dada ao bem após sua
+desapropriação.
+
+Tais declarações podem se exteriorizar na forma de decreto ou ato legislativo de efeitos concretos (lei ou
+decreto legislativo9).
+
+Como exige a expedição de decreto (Poder Executivo) ou de ato legislativo, a fase declaratória será sempre
+realizada pelo ente federativo (União, Estados, DF ou municípios).
+
+Uma vez expedido o decreto (declarando a utilidade, necessidade ou interesse social do bem e a finalidade
+que será dada ao bem), surgem os seguintes efeitos:
+
+     ✓ autorização para que autoridades administrativas adentrem nos bens imóveis declarados
+     ✓ início do cômputo do prazo para caducidade do ato
+     ✓ indicação do estado do bem, a fim de que seja fixado o valor da indenização futura
+
+Perceba, portanto, que a indenização ao particular é paga apenas na fase seguinte, com a efetivação da
+desapropriação.
+
+9
+    ALEXANDRINO, Marcelo. Vicente Paulo. Direito Administrativo Descomplicado. 25ª ed. p. 1141
+
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                    12
+          www.estrategiaconcursos.com.br                                                                  71
+
+                                        
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+Fase executória
+
+Uma vez o imóvel tendo sido declarado como de utilidade pública ou interesse social, terá início a etapa em
+que se efetivará a transferência da propriedade do bem (e pagamento da indenização).
+
+Diferentemente da fase declaratória (que exige expedição de decreto ou ato legislativo), a executória pode
+ser conduzida pelo próprio ente federativo ou, mediante delegação, por entidades da administração
+indireta ou por particulares delegatários de serviços públicos.
+
+Além disso, esta fase pode ocorrer na via administrativa ou judicial.
+
+Ocorrerá na via administrativa quando houver consenso entre o particular e o poder público quanto ao valor
+da indenização. Portanto, se o particular acatar o valor oferecido pela Administração, o processo irá se
+extinguir na via administrativa.
+
+No entanto, inexistindo consenso a respeito do quantum indenizatório, terá lugar a via judicial. Neste caso,
+o poder público irá apresentar a ação de desapropriação. Modernamente10, tem-se admitido que as partes
+optem pela via da arbitragem ou da mediação, como alternativa ao processo judicial.
+
+
+Indenização
+                                                                                  INCIDÊNCIA EM PROVA: MÉDIA
+
+À exceção da desapropriação confiscatória (cultivo ilegal de plantas psicotrópicas ou a exploração de
+trabalho escravo), o poder público deverá indenizar o proprietário do bem expropriado.
+
+A indenização deverá ser justa e, como regra geral, prévia e em dinheiro11.
+
+      ➢ Forma de pagamento: dinheiro ou títulos
+
+No que diz respeito à forma de pagamento, a regra geral é que as indenizações sejam pagas em dinheiro e
+previamente. Há, no entanto, duas importantes exceções:
+
+        a) desapropriação para fins de reforma agrária (CF, art. 184): em relação à “terra nua”, a indenização
+é paga em títulos da dívida agrária, com clausula de preservação do valor real, resgatáveis no prazo de até
+20 anos, a partir do 2º ano de sua emissão. No que diz respeito às benfeitorias (casas, curral, granjas etc),
+estas serão indenizadas em dinheiro.
+
+10
+     A partir da edição da Lei 13.867/2019, que inseriu o art. 10-B ao Decreto-Lei nº 3.365/1941.
+11
+  CF, art. 5º, XXIV - a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade
+pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos
+previstos nesta Constituição;
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                    13
+           www.estrategiaconcursos.com.br                                                                  71
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+        b) desapropriação para fins urbanísticos (CF, art. 182, §4º, III): a indenização é paga por meio de
+títulos da dívida pública (com emissão aprovada pelo Senado Federal), com prazo de resgate de até 10 anos,
+em parcelas iguais e sucessivas, sendo assegurado o valor real da indenização e os juros legais
+
+----
+
+Por último, friso que a desapropriação confiscatória (CF, art. 243 da CF), como já visto, opera-se sem qualquer
+indenização ao proprietário.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                        14
+        www.estrategiaconcursos.com.br                                                                      71
+
+                                      
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+SERVIDÃO ADMINISTRATIVA
+                                                                                INCIDÊNCIA EM PROVA: BAIXA
+
+Servidão administrativa consiste no direito de o poder público utilizar de imóvel para viabilizar a execução
+de obras e serviços de interesse coletivo1.
+
+A servidão irá afastar o uso exclusivo do bem por parte de seu proprietário. A partir da constituição da
+servidão, o particular perde a exclusividade no uso do bem, passando a compartilhá-la com o poder público.
+Em outras palavras, o bem privado vai servir ao poder público, em razão de uma necessidade da coletividade
+de serviços ou obras.
+
+
+       Exemplos: instalação de placas em edifícios privados, contendo avisos para a população
+       (como nomes de ruas); colocação de ganchos na fachada de edifícios particulares para
+       sustentar a rede elétrica; instalação de gasoduto em terreno particular.
+
+Uma das características marcantes da servidão é sua perpetuidade. Diferentemente da requisição e da
+ocupação temporária (a seguir estudadas), a regra geral é que a servidão não seja limitada pelo tempo.
+Enquanto persistir a necessidade do poder público e a utilidade do bem, a servidão subsistirá.
+
+     ➢ Instituição e Extinção
+A servidão administrativa pode ser instituída das seguintes formas2:
+
+1
+ Adaptado a partir de ALEXANDRINO, Marcelo. Vicente Paulo. Direito Administrativo Descomplicado. 25ª
+ed. p. 1122
+2
+ Di Pietro menciona ainda a servidão que decorre diretamente da lei, como a servidão sobre as margens
+dos rios navegáveis.
+
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                   15
+          www.estrategiaconcursos.com.br                                                                 71
+
+                                        
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+                                                                              1º imóvel é declarado como
+                                                                              sendo de utilidade publica
+                                                  por acordo
+                                                                              2º é celebrado acordo entre o
+                                                                              proprietário e o poder público
+
+    instituição da servidão
+                                                                              1º imóvel é decarado como
+                                                                              sendo de utilidade publica
+                                               sentença judicial              2º não houve acordo. Então, o
+                                                                              poder público ajuiza ação
+                                                                              pleiteando o reconhecimento
+                                                                              judicial da servidão
+
+Em qualquer dos casos, sendo por acordo ou mediante sentença judicial, as servidões devem ser registradas
+no registro de imóveis para que possam produzir efeitos erga omnes (isto é, todos efeitos sobre todos os
+indivíduos).
+
+A extinção da servidão é hipótese excepcional, na medida em que esta goza de caráter permanente. No
+entanto, é possível a extinção da servidão em razão do 3: (i) desaparecimento do próprio bem, (ii)
+incorporação do bem ao patrimônio do poder público instituidor da servidão e (iii) perda do interesse do
+Estado em continuar utilizando o bem.
+
+      ➢ Indenização
+Como na servidão há apenas uso de parte da propriedade pelo poder público, não há que se falar, como
+regra geral, em indenização (diferentemente da desapropriação).
+
+Entretanto, se a servidão resultar em prejuízos comprovados ao proprietário (como na servidão que resultar
+em demolição ou nas servidões que simulam desapropriações 4), o poder público seria chamado a indenizar
+o particular.
+
+Tomando por base a síntese comparativa elaborada por Carvalho Filho5, podemos chegar ao seguinte
+diagrama das principais características da servidão:
+
+3
+    FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 823
+4
+    Op. cit. P. 824
+5
+    FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 825
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                    16
+           www.estrategiaconcursos.com.br                                                                  71
+
+                                         
+
+
+---
+
+Antonio Daud
+Aula 18
+
+                                              pressuposto = execução de obras e serviços de
+                                                            interesse coletivo
+
+                                                  incide sobre                    bens imóveis
+                  servidão administrativa
+
+
+                                                caráter definitivo
+
+                                            indenização nem sempre é
+                                                      devida
+
+                                                 é direito real da
+                                                  Administração
+
+                                                                                      acordo
+                                            não é ato autoexecutório.
+                                                   Depende de
+                                                                                  decisão judicial
+
+      Receita Federal (Analista Tributário) Direito Administrativo                                   17
+      www.estrategiaconcursos.com.br                                                                 71
+
+                                             
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+REQUISIÇÃO
+                                                                                 INCIDÊNCIA EM PROVA: ALTA
+
+Requisição consiste na intervenção estatal por meio da qual o Estado utiliza bens (móveis ou imóveis) e
+serviços particulares em caso de perigo público iminente.
+
+Esta modalidade de intervenção goza de previsão no próprio texto constitucional (CF, art. 5º, XXV).
+
+Estando diante de situação de perigo público iminente, o interesse coletivo irá se sobrepor ao do particular
+(proprietário do bem ou prestador do serviço), legitimando a requisição administrativa.
+
+Portanto, a finalidade da requisição é de “preservar a sociedade contra situações de perigo público
+iminente”6.
+
+
+        Exemplos: determinado município do interior vive situação de calamidade pública
+        decorrente de um furacão, de sorte que as autoridades públicas requisitaram: (i) o avião
+        particular de um empresário da cidade (bem móvel), para levar feridos à capital do
+        Estado; (ii) um estacionamento particular (bem imóvel) para instalação de um posto de
+        inteligência de resgate às vítimas; (iii) serviços médicos de um hospital particular
+        (requisição de serviços)7.
+
+      ➢ Indenização
+Além do perigo público iminente, outra característica marcante da requisição também está expressa no
+dispositivo constitucional transcrito acima: o fato de a indenização ocorrer apenas se a atividade estatal
+houver causado danos ao particular.
+
+Além disso, sendo devida a indenização, ela será paga posteriormente (ou seja, “indenização ulterior”, como
+previsto no texto constitucional).
+
+O prazo prescricional para que o particular requeira tal indenização é de 5 anos, contados do momento que
+se inicia o efetivo uso do bem pelo poder público8.
+
+Se, por outro lado, a utilização do bem alheio decorrente da requisição não causar dano algum ao particular,
+nenhuma indenização será devida.
+
+6
+    FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 827
+7
+  DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. GenMétodo. 31ª ed. 2018. eBook. Item
+6.7
+8
+    Op. Cit.
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                  18
+           www.estrategiaconcursos.com.br                                                                71
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+      ➢ Instituição e Extinção
+Dada a urgência da situação, a requisição não depende de decisão prévia do Poder Judiciário, pois pode ser
+decretada de imediato. A partir daí, dizemos que a requisição é ato autoexecutório9.
+
+Isto não significa que o ato de requisição está imune ao controle judicial!
+
+O controle judicial poderá sim ocorrer, mas sempre em momento posterior, discutindo-se, por exemplo, o
+valor da indenização eventualmente devida ao particular.
+
+A requisição é medida de natureza transitória. Logo que se dissipar a situação de perigo público iminente,
+será extinta a requisição (diferentemente da servidão administrativa).
+
+A partir da síntese comparativa elaborada por Carvalho Filho10, podemos chegar ao seguinte diagrama das
+principais características da requisição:
+
+
+                                                  pressuposto = perigo público iminente
+
+                                                                                  bens móveis
+
+                                                      incide sobre                bens imóveis
+                                requisição
+
+                                                      é transitória                 serviços
+
+                                                   indenização nem                se for devida,
+                                                   sempre é devida                 será ulterior
+
+                                                 é ato autoexecutório
+
+                                                 é direito pessoal da
+                                                    Administração
+
+9
+    MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro, 35ª edição, p. 759.
+10
+     FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 828
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                19
+           www.estrategiaconcursos.com.br                                                              71
+
+                                             
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+OCUPAÇÃO TEMPORÁRIA
+                                                                                INCIDÊNCIA EM PROVA: BAIXA
+
+A ocupação temporária consiste na intervenção em que o poder público utiliza bens imóveis particulares,
+transitoriamente (como o próprio nome diz), como meio de apoio à execução de obras e serviços públicos11.
+
+
+        Exemplos: utilização de escolas, shoppings e clubes para realização das eleições;
+        ocupação de terrenos subjacentes a obras públicas, para colocação de equipamentos.
+
+Notem que a principal diferença entre a “ocupação temporária” e a “servidão administrativa” (estudada
+pouco acima) consiste no fato de esta ser permanente, enquanto a ocupação, temporária.
+
+      ➢ Indenização
+
+Na ocupação temporária, como regra geral, o dever de indenizar também fica condicionado à ocorrência de
+prejuízo. Portanto, a indenização será devida se, de algum modo, o uso do bem particular acarretar prejuízos
+ao proprietário.
+
+De modo mais detalhado, Carvalho Filho12 destaca a existência de uma exceção, envolvendo a ocupação
+temporária para obras vinculadas a um processo de desapropriação. Nestes casos, haverá automaticamente
+dever de indenizar o proprietário do imóvel ocupado temporariamente, com fundamento no “Lei sobre
+desapropriações por utilidade pública”:
+
+           DL 3365/1941, art. 36. É permitida a ocupação temporária, que será indenizada, afinal,
+           por ação própria, de terrenos não edificados, vizinhos às obras e necessários à sua
+           realização.
+
+      ➢ Instituição e Extinção
+
+A instituição se dá mediante ato expedido pela autoridade administrativa, o qual não depende de apreciação
+judicial prévia. Portanto, assim como na requisição, o ato de ocupação é autoexecutório13.
+
+11
+     FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 829
+12
+     Op. cit. P. 831
+13
+     ALEXANDRINO, Marcelo. Vicente Paulo. Direito Administrativo Descomplicado. 25ª ed. p. 1127
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                  20
+           www.estrategiaconcursos.com.br                                                                71
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+A extinção da ocupação, a seu turno, se dá com o fim da execução da obra ou da necessidade relacionada à
+prestação do serviço público (e.g., fim das eleições ou da construção da rodovia).
+
+----
+
+Tomando por base novamente a síntese comparativa elaborada por Carvalho Filho 14, podemos chegar ao
+seguinte diagrama das principais características da ocupação temporária:
+
+                                       pressuposto = necessidade de realização de
+                                            obras e serviços públicos normais
+
+                                           incide sobre                    bens imóveis
+                 ocupação temporária
+
+                                           é transitória
+                                                                          regra: devida se acarretar
+                                                                                   prejuízo
+                                           indenização
+                                                                          vinculada à desapropriação:
+                                                                                  será devida
+                                       é ato autoexecutório
+
+
+                                       é direito pessoal da
+                                          Administração
+
+14
+     FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 832
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                 21
+           www.estrategiaconcursos.com.br                                                               71
+
+                                           
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+LIMITAÇÕES ADMINISTRATIVAS
+                                                                                INCIDÊNCIA EM PROVA: MÉDIA
+
+As limitações administrativas consistem em medidas que o poder público direciona a particulares, impondo-
+lhes obrigações de deixar de fazer algo (obrigações negativas) ou obrigações de fazer (obrigações positivas)
+em relação às suas propriedades privadas.
+
+Tais limitações encontram-se previstas em lei e, ao serem impostas aos particulares, manifestam o exercício
+do poder de polícia pela Administração, buscando conciliar o exercício do direito de propriedade ao bem-
+estar da coletividade (função social propriedade).
+
+
+        Exemplos15: imposição da limpeza de terrenos ou edificação compulsória (busca de
+        salubridade); imposição de restrição de altura dos edifícios, conhecida como “gabarito”
+        (motivos de estética ou de segurança); imposição de “recuos” nas edificações em
+        determinada região.
+
+Reparem que as limitações representam situações em que o interesse da coletividade se sobreponha ao
+dos particulares, tutelando aspectos como segurança, estética, defesa nacional, entre outros.
+
+Há duas características importantes que distinguem as limitações administrativas de outras formas de
+intervenção: (i) sua generalidade e (ii) gratuidade.
+
+As limitações consistem em condicionamentos gerais, isto é, dirigidas a proprietários indeterminados – e não
+a proprietários específicos.
+
+Para situações específicas, a intervenção do poder público poderia ser feita por meio de servidão
+administrativa ou desapropriação.
+
+Seu segundo traço marcante consiste na ausência de pagamento de indenização, como regra geral: a
+limitação, por possuir caráter geral, não requer pagamento de indenização ao proprietário.
+
+Tomando por base novamente a síntese comparativa elaborada por Carvalho Filho 16, podemos chegar ao
+seguinte diagrama das principais características das limitações administrativas:
+
+15
+  Adaptados a partir de DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. GenMétodo. 31ª ed.
+2018. eBook. Item 6.5., bem como de FILHO, José dos Santos Carvalho. Manual de Direito
+Administrativo. 27ª ed. Atlas. P. 833
+16
+     FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 836
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                  22
+           www.estrategiaconcursos.com.br                                                                71
+
+                                         
+
+
+---
+
+Antonio Daud
+Aula 18
+
+                                                                           legislativos
+                administrativas         atos de caráter geral
+                  limitações
+                                                                         administrativos
+                                     caráter de definitividade
+
+                                      regra: sem indenização
+                                           (gratuidade)
+
+      Receita Federal (Analista Tributário) Direito Administrativo                         23
+      www.estrategiaconcursos.com.br                                                       71
+
+                                    
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+TOMBAMENTO
+                                                                              INCIDÊNCIA EM PROVA: MÉDIA
+
+Tombamento é a forma de intervenção na propriedade em que o poder público busca proteger o patrimônio
+cultural brasileiro. Tal medida possui o fundamento no Art. 216, § 1º, da CF.
+
+Ao promover um tombamento, o poder público busca proteger bens com valor histórico, cultural, turístico,
+paisagístico etc.
+
+
+        Exemplos: tombamento de embarcação Sombra da Lua no recôncavo baiano (bem
+        móvel); tombamento do Museu da Imperial e do Museu da Inconfidência em Minas
+        Gerais (bens imóveis); tombamento da cidade de Olinda/PE (tombamento da cidade
+        inteira).
+
+      ➢ Indenização
+A doutrina majoritária17 considera que o tombamento, como regra geral, não gera dever indenizatório ao
+Poder Público. Isto porque se restringe à obrigação de o proprietário manter o bem dentro de suas
+características culturais originais – sem causar prejuízo patrimonial ao proprietário.
+
+Assim, a indenização existirá somente se o proprietário demonstrar que o tombamento lhe causou prejuízo.
+
+17
+  A exemplo de FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P.
+847; DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. GenMétodo. 31ª ed. 2018. eBook.
+Tópico 6.8
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                              24
+           www.estrategiaconcursos.com.br                                                            71
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+CONCLUSÃO
+Bem, pessoal,
+
+Nesta aula abordamos um assunto que situa-se na fronteira entre o Direito Civil e o Direito Administrativo,
+exigindo-nos a compreensão de novos conceitos relacionados à propriedade.
+
+Atenção especial às características gerais da desapropriação, em suas várias modalidades, e às diferenças
+entre as diversas formas de intervenção restritiva.
+
+Adiante teremos, como de costume, nosso resumo e as questões comentadas relacionadas ao tema da aula
+de hoje =)                                               ==219a34==
+
+Um abraço e bons estudos,
+
+Prof. Antonio Daud
+
+      @professordaud
+
+      www.facebook.com/professordaud
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                    25
+        www.estrategiaconcursos.com.br                                                                  71
+
+                                      
+
+
+---
+
+Antonio Daud
+Aula 18
+
+RESUMO
+
+      Receita Federal (Analista Tributário) Direito Administrativo       26
+      www.estrategiaconcursos.com.br                                     71
+
+                                    
+
+
+---
+
+   Antonio Daud
+   Aula 18
+
+                                                                             outra destinação, mas com
+                                                            lícita               finalidade pública
+                               tredestinação
+                                                            ilícita            desapropriação inválida
+
+
+   desapropriação                                          tredestinação ilícita ou não       antigo proprietário
+                                retrocessão                    utilização do bem               tem preferência
+
+                                                               não podem ser objeto de
+                               desapropriação
+                                                            reivindação. proprietário deve
+                                  indireta                      pleitear perdas e danos
+
+
+Modalidade de                                                                                         Perpetuidade /
+                         Pressuposto             Objeto       Indenização     autoexecutoridade
+ Intervenção                                                                                         Temporariedade
+                    Execução de obras e                                            Não é
+  Servidão          serviços de interesse         Bens          Quando        autoexecutória.
+                                                                                                         definitiva
+Administrativa       coletivo (perda da          imóveis        couber       Depende de acordo
+                   exclusividade do bem)                                     ou decisão judicial.
+                                                  Bens
+                                                               Quando
+                        Perigo público          móveis e
+  Requisição                                                 couber, será      É autoexecutória          transitória
+                          iminente              imóveis;
+                                                               ulterior
+                                                serviços
+                    Apoio à execução de
+   Ocupação                                       Bens          Quando
+                      obras e serviços                                         É autoexecutória          transitória
+  temporária                                     imóveis        couber
+                          públicos
+                    Obrigações impostas
+                                                  Bens
+                    aos particulares em
+  Limitações                                     móveis
+                       relação a suas                          Não cabe                   -              definitivas
+administrativas                                    ou
+                    propriedades (poder
+                                                 imóveis
+                         de polícia)
+                                                  Bens
+                        proteção do
+                                                 móveis        Não cabe
+Tombamento           patrimônio cultural                                                  -              definitivo
+                                                   ou           (regra)
+                          brasileiro
+                                                 imóveis
+
+         Receita Federal (Analista Tributário) Direito Administrativo                                            27
+         www.estrategiaconcursos.com.br                                                                          71
+
+                                       
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+                                    QUESTÕES COMENTADAS
+1.​ FGV/MP-RJ - 2025
+João e Caio, agentes públicos vinculados à Secretaria de Estado de Segurança Pública do Estado
+do Rio de Janeiro, em situação de iminente perigo público, utilizaram do imóvel particular de
+Matheus, gerando dano concreto à propriedade. Nesse cenário, considerando as disposições da
+Constituição Federal, se está diante da seguinte modalidade de restrição do Estado sobre a
+propriedade privada:
+(A) ocupação temporária, sendo certo que Matheus não terá direito à indenização em razão da
+situação posta de iminente perigo público.
+(B) requisição administrativa, sendo certo que Matheus não terá direito à indenização em razão da
+situação posta de iminente perigo público.
+(C) requisição administrativa, assegurando-se ao proprietário Matheus indenização em razão do
+dano concreto à propriedade.
+(D) ocupação temporária, assegurando-se ao proprietário Matheus indenização em razão do dano
+concreto à propriedade.
+(E) limitação administrativa, assegurando-se ao proprietário Matheus indenização em razão do
+dano concreto à propriedade.
+Comentários
+Ao mencionar a utilização de bem particular em situação de iminente perigo público, estamos
+diante da requisição administrativa. Nesta intervenção, o proprietário do bem terá, sim, direito à
+indenização se o uso pelo poder público provocar danos ao bem:
+
+        CF, art. 5º, XXV - no caso de iminente perigo público, a autoridade competente
+        poderá usar de propriedade particular, assegurada ao proprietário indenização
+        ulterior, se houver dano;
+
+Portanto, a letra (C) está correta.
+Gabarito (C)
+2.​ FGV/MPU/Técnico/2025
+A União utilizou um terreno privado não edificado para o alojamento de operários e alocação de
+máquinas, com o objetivo de realizar a pavimentação de uma estrada federal. Ao fim da obra, o
+terreno foi devolvido ao particular.
+É correto afirmar que a modalidade de intervenção do Estado na propriedade ocorrida nessa
+hipótese é:
+(A) a limitação administrativa;
+(B) a requisição;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           28
+        www.estrategiaconcursos.com.br                                                         71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+(C) o tombamento;
+(D) a servidão administrativa;
+(E) a ocupação temporária.
+Comentários
+Quando o poder público utiliza bens imóveis particulares, de forma transitória, como meio de
+apoio à execução de obras ou serviços públicos, como por exemplo a utilização de escolas
+privadas para realizar as votações no processo eleitoral, estaremos diante da ocupação
+temporária ocorre, de modo que a letra (E) está correta.
+Aproveito para comentar as demais alternativas! A letra (A) está incorreta, pois a limitação
+administrativa ocorre quando a administração intervém impondo ao particular a condição de fazer
+ou deixar de fazer algo, com vistas a satisfazer o interesse da coletividade, em decorrência do
+poder de polícia administrativa.
+A letra (B) está incorreta, pois a requisição ocorre quando a administração utiliza bens ou serviços
+particulares em razão de iminente perigo público, de forma provisória.
+A letra (C) está incorreta, pois o tombamento ocorre quando o poder público intervém visando
+proteger bens com valor histórico, artístico, cultural, entre outros.
+A letra (D) está incorreta, pois servidão administrativa se trata da possibilidade de a
+administração pública utilizar um bem imóvel particular para viabilizar a execução de obras e
+serviços, sem haver uma limitação temporal de uso, mas durando enquanto for necessário para o
+interesse coletivo.
+Gabarito (E)
+3.​ FGV/TCE GO - 2024
+Após os devidos trâmites, com vistas a atender antiga demanda da coletividade, o Estado Delta
+fez publicar um Decreto expropriatório por interesse social, a fim de viabilizar o estabelecimento
+e a manutenção de cooperativas de trabalho agrícola, que recai sobre o imóvel rural de Josué.
+Acerca da mencionada situação hipotética, é correto afirmar que o Estado Delta
+(A) tem o prazo de cinco anos para ajuizar a respectiva ação de desapropriação.
+(B) não tem competência para desapropriar imóvel rural.
+(C) deve promover a justa indenização por meio de títulos da dívida agrária.
+(D) não poderia realizar a desapropriação para a finalidade social em comento.
+(E) há de realizar a venda ou a locação dos bens desapropriados a quem estiver em condições de
+dar-lhes a destinação social prevista no Decreto.
+Comentário:
+Questão bem específica sobre a desapropriação por interesse social ordinária, espécie de
+desapropriação por interesse social que é regulada pela Lei nº 4.132/1962, que define os casos
+de desapropriação por interesse social e dispõe sobre sua aplicação. No que a Lei nº 4.132/1962
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             29
+        www.estrategiaconcursos.com.br                                                           71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+for omissa, se aplica a norma que regula a desapropriação por utilidade pública, no caso, o
+Decreto-lei nº 3.365/1941:
+
+        Lei nº 4.132/1962, art. 5º No que esta lei for omissa aplicam-se as normas legais
+        que regulam a desapropriação por unidade pública, inclusive no tocante ao
+        processo e à justa indenização devida ao proprietário.
+
+A letra (A) está incorreta, o prazo de caducidade é de dois anos a partir da decretação da
+medida. Além da efetivação da desapropriação, esse prazo também se aplica às providências de
+aproveitamento do bem expropriado:
+
+        Art. 3º O expropriante tem o prazo de 2 (dois) anos, a partir da decretação da
+        desapropriação por interesse social, para efetivar a aludida desapropriação e
+        iniciar as providências de aproveitamento do bem expropriado.
+
+A letra (B) está incorreta, em virtude da omissão na Lei nº 4.132/1962, se aplica o Decreto-lei nº
+3.365/1941 que dispõe sobre as desapropriações por utilidade pública. Estabelecendo que
+podem ser sujeitos ativos da desapropriação por utilidade pública a União, os Estados, os
+Municípios, o Distrito Federal e os Territórios.
+A letra (C) está incorreta, visto que a indenização em títulos da dívida agrária é voltada para casos
+de reforma agrária, conforme artigo 184 da Constituição Federal de 1988. Por outro lado, na
+omissão da Lei nº 4.132/1962, o Decreto-lei nº 3.365/1941 disciplina que o pagamento do preço
+(das indenizações) será prévio e em dinheiro (art. 32 do Decreto-lei nº 3.365/1941).
+A letra (D) está incorreta, visto que o estabelecimento de cooperativas de trabalho agrícola é
+uma das atividades consideradas de interesse social pela Lei nº 4.132/1962:
+
+        Art. 2º Considera-se de interesse social: [...]
+        III - o estabelecimento e a manutenção de colônias ou cooperativas de
+        povoamento e trabalho agrícola:
+
+A letra (E) está correta, a alternativa está de acordo com o disposto no art. 4º da Lei nº
+4.132/1962:
+
+        Art. 4º Os bens desapropriados serão objeto de venda ou locação, a quem
+        estiver em condições de dar-lhes a destinação social prevista.
+
+Gabarito (E)
+4.​ FGV/SMF-RJ - Analista de Planejamento e Orçamento – 2023
+Em razão do aumento exponencial das chuvas, foi constatado que determinada barragem estava
+se rompendo, o que colocaria em risco centenas de pessoas residentes no Município Alfa. Por tal
+razão, o prefeito municipal, tomando por base esse fato, notificou Maria de que um galpão de
+sua propriedade, situado em local elevado, seria provisoriamente ocupado, determinando, ainda,
+que os órgãos municipais estruturassem um centro de atendimento médico para possíveis
+vítimas, e que os veículos de salvamento fossem ali alocados.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              30
+        www.estrategiaconcursos.com.br                                                            71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+Ao consultar um advogado a respeito da conformidade constitucional da medida adotada pelo
+prefeito municipal em relação à sua propriedade, foi corretamente informado a Maria que:
+A) ela não será indenizada pelo uso do imóvel, apenas por eventuais danos que lhe sejam
+causadas:
+B) a medida se mostra ilegal, pois o imóvel somente poderia ser utilizado após prévia e justa
+indenização em dinheiro, o que não ocorreu;
+C) a medida se mostra ilegal, considerando não ter sido antecedida de ordem judicial
+determinando a imissão do Município Alfa na posse;
+D) a medida se mostra ilegal, pois não foi antecedida de processo administrativo regular já que
+ela apenas foi notificada de uma decisão já tomada;
+E) ela fará jus à indenização, em momento posterior, pelas receitas que deixar de arrecadar com o
+imóvel e pelos danos eventualmente causados em sua propriedade.
+Comentários:
+A Letra (A) está correta. O caso hipotético amolda-se ao instituto de intervenção do Estado na
+propriedade da requisição administrativa. Nesses termos, sendo o narrado no enunciado da
+questão evidente situação de iminente perigo público, a autoridade poderá usar a propriedade
+de Maria e deverá indenizá-la posteriormente somente em caso de haver avarias a seus bens.
+
+        CR, art. 5º, XXV - no caso de iminente perigo público, a autoridade competente
+        poderá usar de propriedade particular, assegurada ao proprietário indenização
+        ulterior, se houver dano;
+
+A Letra (B) está incorreta. Esta alternativa não se adequa ao enunciado da questão, visto que
+descreve a desapropriação por necessidade ou utilidade pública e por interesse social, prevista
+na Constituição e em diplomas próprios:
+
+        CR, art. 5º, XXIV - a lei estabelecerá o procedimento para desapropriação por
+        necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia
+        indenização em dinheiro, ressalvados os casos previstos nesta Constituição;
+
+A Letra (C) está incorreta. Como mencionado, o art. 5º, inciso XXV, da Constituição, não exige
+ordem judicial prévia que determine a imissão na posse pelo Município Alfa, somente sendo
+necessário a presença de iminente perigo público e indenização posterior, caso haja dano.
+A Letra (D) está incorreta. Novamente, a requisição administrativa não exige a instauração de um
+processo administrativo regular prévio. Tal conclusão também é possível de se retirar pela
+presença de iminente perigo público, o que inviabilizaria o processo prévio.
+Por fim, a Letra (E) está incorreta. O art. 5º, XXV, da CF, não prevê a possibilidade de indenização
+ao particular pelas receitas que deixar de arrecadar com o imóvel, somente possibilitando-a
+quanto aos danos eventualmente causados à sua propriedade.
+Gabarito (A)
+5.​ FCC - ACE (TCE-GO)/TCE GO/Contabilidade/2022
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             31
+        www.estrategiaconcursos.com.br                                                           71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+A servidão administrativa difere das demais modalidades de intervenção na propriedade nos
+seguintes termos:
+a) da desapropriação, porque impõe sacrifício inerente à condição de administrado, não
+autorizando, portanto, indenização ao titular da propriedade que a suportar.
+b) do tombamento, porque a servidão sempre obriga o ente público que a impõe o dever de
+indenizar o titular da propriedade que a suporta.
+c) da limitação administrativa, que impõe sacrifício ordinário ao proprietário, enquanto a servidão
+administrativa pode acarretar restrição à exploração econômica da propriedade, ensejando
+direito à indenização.
+d) da desapropriação, porque depende de anuência do proprietário do imóvel para sua
+imposição, não admitindo imposição mediante poder de império.
+e) da requisição administrativa, porque esta se impõe apenas sobre parte do imóvel e a servidão
+acarreta restrição permanente na totalidade do imóvel onde for imposta.
+Comentários:
+Questão interessante, que compara servidão às demais intervenções na propriedade privada.
+A alternativa (A) está incorreta, visto que na servidão não há perda da propriedade, apenas a
+imposição do ônus de suportar o uso.
+A alternativa (B), por sua vez, também está incorreta. Lembre-se que na servidão, a indenização
+só é devida no caso de ulterior dano à propriedade.
+A alternativa (C) está correta. No caso da servidão administrativa, é possível que haja restrição à
+exploração econômica da propriedade, em prol do interesse público. Nessa toada, a indenização
+passa a ser devida.
+A alternativa (D) também está incorreta, dado que, em ambos os casos, não é necessário a
+autorização do proprietário para a intervenção estatal.
+Por fim, a alternativa (E) está incorreta, porque nem sempre a servidão é realizada na totalidade
+do imóvel restringido.
+Gabarito (C)
+6.​ FCC - AFTE (SEFAZ PE)/SEFAZ PE/2022
+Após tramitação de processo administrativo para apuração do valor histórico e arquitetônico de
+um prédio pertencente a determinado município, o órgão estadual responsável pela tutela do
+patrimônio histórico e artístico estadual editou resolução impondo o tombamento do imóvel, na
+forma da legislação aplicável à espécie. A medida adotada
+a) configura abuso de poder, considerando que os bens públicos dos entes públicos são
+insuscetíveis à intervenção de entes públicos de outras esferas, em especial quando acarretam
+alteração de titularidade do bem.
+b) possibilita controle judicial para pleito de anulação e de revogação, sendo possível questionar
+a suposta relevância histórica e arquitetônica do imóvel que motiva o tombamento.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            32
+        www.estrategiaconcursos.com.br                                                          71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+c) não admite controle de mérito, no que se refere à discricionariedade do tombamento, sendo
+admitido controle de legalidade do procedimento legal de instrução, a exemplo da exigência de
+trabalhos técnicos e observância do contraditório.
+d) demandaria autorização legislativa e ciência ao Tribunal de Contas, porque envolve
+intervenção de ente federado hierarquicamente superior, a fim de obstar abuso de poder
+econômico.
+e) atende aos requisitos legais e constitucionais, inexistindo óbice ao tombamento de imóveis
+públicos pertencentes aos entes de qualquer esfera da federação, vedada indenização, em razão
+do dever de mútua colaboração.
+Comentários:
+Inicialmente, a alternativa (A) está incorreta. Cabe deixar claro que o mero tombamento do
+imóvel não enseja a troca de sua titularidade, o que traz incorreção da alternativa.
+No que concerne à alternativa (B), está incorreta. Uma noção básica de repartição de poderes é
+que o Poder Judiciário, atuando em suas competências finalísticas, não adentra no mérito das
+decisões da administração. Dessa forma, somente cabe ao Judiciário a anulação nesse caso, o
+que torna a alternativa incorreta.
+A alternativa (C) está correta. Perfeito! Conforme citado acima, não é possível adentrar no mérito
+administrativo da autoridade competente pela execução do ato. Por outro lado, no caso de se
+tratar de um ato viciado, com uma finalidade comprovadamente não aderente ao interesse
+público, por exemplo, seria possível a anulação.
+A alternativa (D), da mesma forma, está incorreta. Trata-se de uma invenção do examinador, os
+Tribunais de Contas não possuem competência para emitir ciência sobre esses atos, tampouco é
+necessário autorização legislativa. Dado que o tombamento não muda a titularidade do bem,
+não há restrição imediata para que esse ato seja realizado em bens de outro ente. Ademais, não
+há ente federativo superior hierarquicamente a outro, que é mais um erro da assertiva.
+Por fim, a alternativa (E) está incorreta, visto que há hipóteses em que a indenização é necessária,
+como no caso de ensejar ônus desproporcional ao ente.
+Gabarito (C)
+7.​ FGV - AJ TRT16/Judiciária/Graduação em Direito/2022
+O Município Alfa, para fins de instalação de poste para viabilizar o serviço de iluminação pública,
+utilizou, com base no poder de polícia, uma parcela do terreno privado de propriedade de
+Marcelo. No caso em tela, o poder público municipal fez uso da intervenção do Estado na
+propriedade denominada
+a) requisição administrativa.
+b) servidão administrativa.
+c) limitação administrativa.
+d) desapropriação indireta.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             33
+        www.estrategiaconcursos.com.br                                                           71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+e) tombamento.
+Comentários:
+No caso em tela, o poder público municipal fez uso da intervenção do Estado na propriedade
+denominada servidão administrativa, em que se impõe um ônus real sobre ela em favor da
+Administração Pública, para atender às suas necessidades ou às de interesse público. É o caso da
+instalação de postes para viabilizar o serviço de iluminação pública em terreno privado, em que o
+proprietário é obrigado a permitir o uso de uma parcela do seu terreno em benefício do
+interesse público.
+Nesse caso, o proprietário continua sendo o dono da propriedade, mas deve suportar as
+limitações decorrentes da servidão administrativa. Portanto, a alternativa (B) está correta.
+Gabarito (B)
+8.​ FGV/TCE-AM – cargo do MP - 2021
+Em matéria de intervenção do Estado na propriedade, a chamada desapropriação especial
+urbana se dá por interesse social para a política urbana. A desapropriação especial urbana é de
+competência:
+A concorrente dos estados, municípios e Distrito Federal, tem função sancionatória, uma vez que
+recai sobre imóveis urbanos que desatendam a sua função social, e há necessidade de
+pagamento de prévia e justa indenização;
+B concorrente da União, estados, municípios e Distrito Federal, tem função pedagógica, uma vez
+que recai sobre imóveis urbanos subutilizados, e há necessidade de pagamento de ulterior e justa
+indenização;
+C concorrente dos estados, municípios e Distrito Federal, tem função pedagógica, uma vez que
+recai sobre imóveis urbanos subutilizados, e há necessidade de pagamento de ulterior e justa
+indenização;
+D exclusiva dos municípios, tem função sancionatória, uma vez que recai sobre imóveis urbanos
+que desatendam a sua função social, e há necessidade de pagamento de prévia e justa
+indenização;
+E exclusiva dos municípios que possuem plano diretor, tem função sancionatória, uma vez que
+recai sobre imóveis urbanos que desatendam a sua função social, e a indenização será feita com
+pagamento em títulos da dívida pública de emissão previamente aprovada pelo Senado Federal.
+Comentários:
+A questão delimitou seu objeto mencionando a desapropriação por interesse social. Além disso,
+embora saibamos que esta modalidade comporte três espécies (para fins de reforma agrária,
+urbanística e ordinária), o próprio enunciado deixou claro que diz respeito àquela por “interesse
+social para a política urbana”, o que nos remete à urbanística.
+O fundamento constitucional para tal espécie de desapropriação está no art. 182 da Magna
+Carta:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                          34
+        www.estrategiaconcursos.com.br                                                        71
+
+                                      
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+          CF, art. 182, § 2º A propriedade urbana cumpre sua função social quando atende
+          às exigências fundamentais de ordenação da cidade expressas no plano diretor.
+
+
+          CF, art. 182, § 3º As desapropriações de imóveis urbanos serão feitas com prévia
+          e justa indenização em dinheiro.
+          § 4º É facultado ao Poder Público municipal, mediante lei específica para área
+          incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo
+          urbano não edificado, subutilizado ou não utilizado, que promova seu adequado
+          aproveitamento, sob pena, sucessivamente, de: (..)
+          III - desapropriação com pagamento mediante títulos da dívida pública de
+          emissão previamente aprovada pelo Senado Federal, com prazo de resgate de
+          até dez anos, em parcelas anuais, iguais e sucessivas, assegurados o valor real da
+          indenização e os juros legais.
+
+Nesse sentido, podemos concluir que esta espécie expropriatória é de competência dos
+municípios e, também1, ao Distrito Federal. Relembrando:
+                         Espécie de desapropriação por
+                                                                           Competência
+                                 interesse social
+
+                                  Reforma agrária                              União
+
+                                    Urbanística                          Municípios e DF
+
+                                                                 União, Estados, Distrito Federal e
+                                     Ordinária
+                                                                            Municípios
+
+Além disso, esta espécie de desapropriação possui as seguintes características:
+
+         ​ depende da existência de plano diretor (o qual estabelece as exigências de
+              ordenação do município)
+
+         ​ o imóvel deve estar subutilizado
+
+         ​ a desapropriação somente poderá ocorrer após:
+
+         ​ o       proprietário     descumprir       as    determinações         municipais      quanto   ao
+              parcelamento, edificação ou utilização compulsórios e
+
+         ​ passados 5 anos consecutivos da fixação do IPTU progressivo no tempo
+
+         ​ ao final, o Município poderá desapropriar o imóvel com pagamento em títulos
+              da dívida pública (não agrária)
+
+1
+  CF, art. 32, § 1º Ao Distrito Federal são atribuídas as competências legislativas reservadas aos
+Estados e Municípios.
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                         35
+          www.estrategiaconcursos.com.br                                                                       71
+
+                                        
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+Quanto à alternativa (D), lembro que o pagamento da indenização não necessita ser prévio.
+Gabarito (E)
+9.​ VUNESP/EBSERH – Advogado – 2020
+No tocante ao instituto jurídico da desapropriação, assinale a alternativa correta.
+a) A desapropriação atinge o caráter perpétuo do direito de propriedade.
+b) A desapropriação de glebas que contenham culturas ilegais de plantas psicotrópicas dispensa
+indenização prévia.
+c) O pagamento de indenização na desapropriação por necessidade pública pode ser feito em
+títulos da dívida pública.
+d) Os bens de concessionárias de serviço público não são passíveis de desapropriação.
+e) O Estado pode desapropriar bem de empresa pública federal afeto a serviço público.
+Comentários:
+A letra (A) está correta. A desapropriação implica a perda do direito de propriedade sobre dado
+imóvel e, segundo José Afonso da Silva, “é limitação que afeta o caráter perpétuo da
+propriedade”.
+A letra (B) está incorreta, visto que não cabe indenização neste caso, seja prévia ou posterior
+(trata-se da desapropriação confisco):
+
+        Art. 243. As propriedades rurais e urbanas de qualquer região do País onde
+        forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de
+        trabalho escravo na forma da lei serão expropriadas e destinadas à reforma
+        agrária e a programas de habitação popular, sem qualquer indenização ao
+        proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que
+        couber, o disposto no art. 5º.
+
+A letra (C) está incorreta. A indenização será mediante justa e prévia indenização em dinheiro.
+Vejamos:
+
+        Art. 5º, XXIV - a lei estabelecerá o procedimento para desapropriação por
+        necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia
+        indenização em dinheiro, ressalvados os casos previstos nesta Constituição.
+
+A letra (D) está incorreta, visto inexistir vedação ampla nesse sentido, visto que consistem em
+bens privados. Aproveito para destacar a existência de correntes doutrinárias, no entanto, que
+defendem a aplicação, a estes casos, do disposto no art. 2º, §3º, do Decreto-Lei 3.365/1941, o
+que limitaria a possibilidade de desapropriação nestes casos (sem, contudo, impedir de forma
+abstrata):
+
+        Art. 2º, § 3º É vedada a desapropriação, pelos Estados, Distrito Federal,
+        Territórios e Municípios de ações, cotas e direitos representativos do capital de
+        instituições e emprêsas cujo funcionamento dependa de autorização do Govêrno
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         36
+        www.estrategiaconcursos.com.br                                                       71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+        Federal e se subordine à sua fiscalização, salvo mediante prévia autorização, por
+        decreto do Presidente da República.
+
+A letra (E) está incorreta. A alternativa se contrapõe ao entendimento do STF e de parte da
+doutrina, a exemplo de Maria Sylvia Zanella Di Pietro:
+
+        "Impossibilidade de desapropriação pelo Estado de imóvel de sociedade de
+        economia mista federal exploradora de serviço público reservado à União – (...) 5.
+        A Companhia Docas do Rio de Janeiro, sociedade de economia mista federal,
+        incumbida de explorar o serviço portuário em regime de exclusividade, não pode
+        ter bem desapropriado pelo Estado. (...)"( STF. RE 172.816, rel. min. Paulo
+        Brossard, P, j. 9-2-1994, DJ de 13-5-1994.)
+        "Aos bens pertencentes às entidades da administração indireta, aplica-se, por
+        analogia, o artigo 2º do Decreto-lei nº 3.365/41, sempre que se trate de bem
+        afetado a uma finalidade pública. Tais bens, enquanto mantiverem essa afetação,
+        são indisponíveis e não podem ser desafetados por entidade política menor"
+        (Maria Sylvia Zanella Di Pietro, 2002)
+
+Gabarito (A)
+10.​IBFC/TRE-PA - Técnico - 2020
+O instituto da requisição tem previsão constitucional e pode ser definido como uma das
+modalidades de intervenção do Estado na propriedade privada. Nesse sentido, leia abaixo o
+excerto do artigo 5º, inciso XXV, da CF/88: Art. 5º. Inciso XXV - no caso de _____, a autoridade
+competente poderá _____ de propriedade particular, assegurada ao proprietário _____ , _____;
+Assinale a alternativa que preencha correta e respectivamente as lacunas.
+a) descumprimento da função social / utilizar bens / indenização proporcional / se houver abuso
+b) iminente perigo público / usar / indenização ulterior / se houver dano
+c) descumprimento da função social / usar / indenização prévia / se houver abuso
+d) iminente perigo público / utilizar bens / indenização prévia / calculados possíveis danos
+Comentários
+O item exigiu conhecimento do art. 5º, inciso XXV, da CF, que fundamenta a requisição
+administrativa, como forma de o Estado intervir na propriedade privada:
+
+        CF, art. 5º, XXV - no caso de iminente perigo público, a autoridade competente
+        poderá usar de propriedade particular, assegurada ao proprietário indenização
+        ulterior, se houver dano;
+
+Assim, percebemos que a letra (B) está correta.
+Gabarito (B)
+11.​VUNESP – TJRO/2019
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              37
+        www.estrategiaconcursos.com.br                                                            71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+As desapropriações necessárias à adequada prestação de serviço público no regime de
+concessão.
+a) serão sempre de responsabilidade do Poder Concedente.
+b) poderão ser de responsabilidade da concessionária, conforme previsto no edital de licitação,
+competindo ao Poder Concedente editar o decreto de utilidade pública e arcar com o ônus das
+indenizações.
+c) poderão ser de responsabilidade da concessionária, conforme previsto no edital de licitação,
+competindo ao Poder Concedente declarar de utilidade pública os bens necessários à prestação
+do serviço e à concessionária arcar com as indenizações cabíveis.
+d) serão de responsabilidade da concessionária caso se trate de concessão patrocinada, modelo
+em que a ela cabe indicar os bens necessários à prestação do serviço, arcando o Poder Público
+com as indenizações relativas aos bens reversíveis.
+e) serão sempre de responsabilidade da concessionária, competindo ao Poder Concedente
+apenas editar o decreto de utilidade pública.
+Comentários:
+A letra (a) está incorreta, pois o concessionário poderá promover as desapropriações quando
+autorizado. O que se veda ao concessionário é a declaração do imóvel como sendo de utilidade
+pública, por exemplo, para fins de desapropriação (pois é manifestação do poder extroverso do
+Estado).
+As letras (b) e (d) estão incorretas. As alternativas se equivocam ao tratar do ônus das
+indenizações. Conforme dispõe o inciso III do art. 29 da Lei 8.987/1995, no caso de outorga dos
+poderes para desapropriação ao concessionário, deste também será a responsabilidade pelas
+indenizações.
+A letra (c) está correta, de acordo com a redação do inciso III do art. 29 c/c com o inciso Vi do art.
+31, ambos da lei 8.987/1995:
+
+        Art. 29. Incumbe ao poder concedente:
+        III - declarar de utilidade pública os bens necessários à execução do serviço ou
+        obra pública, promovendo as desapropriações, diretamente ou mediante outorga
+        de poderes à concessionária, caso em que será desta a responsabilidade pelas
+        indenizações cabíveis;
+        Art. 31. Incumbe à concessionária:
+        VI - promover as desapropriações e constituir servidões autorizadas pelo poder
+        concedente, conforme previsto no edital e no contrato;
+
+Por fim, a letra (e) está incorreta. A competência para promover a desapropriação será do
+concessionário apenas quando houver delegação expressa nesse sentido.
+Gabarito (C)
+12.​VUNESP – PGM Rio Preto/2019
+
+        Receita Federal (Analista Tributário) Direito Administrativo                               38
+        www.estrategiaconcursos.com.br                                                             71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+A respeito da desapropriação, assinale a alternativa correta.
+a) A declaração de utilidade pública ou de interesse social para fins de desapropriação caduca
+em cinco anos, caso não efetivada a desapropriação nesse período.
+b) A desapropriação é procedimento de competência privativa do Poder Público e, como tal, não
+comporta a delegação de qualquer de seus atos a agentes privados.
+c) É facultado ao Poder Público municipal exigir do proprietário do solo urbano não edificado ou
+subutilizado que promova seu adequado aproveitamento, sob pena de desapropriação com
+pagamento mediante títulos da dívida pública, com prazo de resgate de até dez anos.
+d) É facultado ao Poder Público municipal desapropriar por interesse social, para fins de reforma
+agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa
+indenização em títulos da dívida agrária.
+e) A desapropriação por necessidade ou utilidade pública, ou por interesse social, exige justa e
+prévia indenização em dinheiro, sem exceções.
+Comentários:
+A letra (a) está incorreta, uma vez que o prazo de 5 anos aplica-se apenas para a desapropriação
+por utilidade/necessidade pública, conforme previsão do art. 10 do decreto-lei 3.365/1941 (que
+dispõe sobre estas modalidades de desapropriação):
+
+        Art. 10. A desapropriação deverá efetivar-se mediante acordo ou intentar-se
+        judicialmente, dentro de cinco anos, contados da data da expedição do
+        respectivo decreto e findos os quais este caducará.
+
+Tratando-se de desapropriação por interesse social, o prazo é de 2 anos, nos termos da Lei
+4.132/1962 (dispõe sobre a desapropriação por interesse social):
+
+        Art. 3º O expropriante tem o prazo de 2 (dois) anos, a partir da decretação da
+        desapropriação por interesse social, para efetivar a aludida desapropriação e
+        iniciar as providências de aproveitamento do bem expropriado.
+
+A letra (b) está incorreta. A competência para declarar o bem como sendo de
+utilidade/necessidade pública ou interesse social para fins de desapropriação (competência
+declaratória), de fato, cabe apenas ao poder público. No entanto, após tal declaração, será
+promovida a desapropriação (competência executória), fase que comporta delegação inclusive a
+particulares delegatários de serviços públicos.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                          39
+        www.estrategiaconcursos.com.br                                                        71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+A letra (c) está de acordo com o §4º do art. 182 da Constituição Federal, que prevê a
+desapropriação urbanística por interesse social:
+
+        Art. 182, § 4º É facultado ao Poder Público municipal, mediante lei específica
+        para área incluída no plano diretor, exigir, nos termos da lei federal, do
+        proprietário do solo urbano não edificado, subutilizado ou não utilizado, que
+        promova seu adequado aproveitamento, sob pena, sucessivamente, de:
+
+A letra (d) está incorreta, pois a desapropriação para fins de reforma agrária é competência da
+União:
+
+        Art. 184. Compete à União desapropriar por interesse social, para fins de reforma
+        agrária, o imóvel rural que não esteja cumprindo sua função social, mediante
+        prévia e justa indenização em títulos da dívida agrária, com cláusula de
+        preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do
+        segundo ano de sua emissão, e cuja utilização será definida em lei.
+
+A letra (e) está incorreta. Apesar de a regra geral consistir, de fato, no pagamento de indenização
+em dinheiro e de forma prévia, há sim importantes exceções consoante dá a entender o próprio
+texto constitucional:
+
+        Art. 5º, XXIV - a lei estabelecerá o procedimento para desapropriação por
+        necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia
+        indenização em dinheiro, ressalvados os casos previstos nesta Constituição;
+
+Há situações em que o particular nada receberá (desapropriação confiscatória por culturas ilegais
+de plantas psicotrópicas ou trabalho escravo - CF, art. 243) e casos em que a indenização não
+será em dinheiro, como na desapropriação para fins de reforma agrária (indenização é paga em
+títulos da dívida agrária – CF, art. 184) e para fins urbanísticos (títulos da dívida pública - art. 182,
+§4º, III)
+Gabarito (C)
+13.​VUNESP – PGM São José dos Campos/2019
+Suponha que o Município de São José dos Campos deseja desapropriar, por razões de utilidade
+pública, um imóvel localizado na zona urbana da cidade e que pertence a Maria. Após a fase
+declaratória do procedimento para consumação da desapropriação, iniciou-se a fase executória e
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                  40
+        www.estrategiaconcursos.com.br                                                                71
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+o Poder Público ofereceu proposta a Maria, mas ela não concordou. Em face da impossibilidade
+do acordo na via administrativa, o Município de São José dos Campos propôs ação judicial de
+desapropriação em face da proprietária do bem. Visando promover o interesse público, o Poder
+Público deseja imitir-se provisoriamente na posse do bem ainda no curso do processo judicial.
+Considerando a situação hipotética, é correto afirmar que
+a) a imissão provisória na posse pressupõe urgência e depósito prévio. Cabe ao Município avaliar
+discricionariamente a urgência na imissão provisória e ao Judiciário analisar o ato que alegou
+urgência, sendo lícito ao juiz substituir o mérito administrativo.
+b) após alegar a urgência, que poderá ser renovada pelo tempo necessário, o Poder Público tem
+o prazo improrrogável de 180 (cento e oitenta dias) para requerer a imissão provisória.
+c) para que a declaração de urgência com fins de imissão provisória na posse seja considerada
+como válida, deve ser realizada exclusivamente no próprio decreto expropriatório.
+d) de acordo com o entendimento do STJ, o depósito judicial do valor simplesmente apurado
+pelo corpo técnico do ente público, sendo inferior ao valor arbitrado por perito judicial e ao valor
+cadastral do imóvel, não viabiliza a imissão provisória na posse.
+e) Maria poderá levantar, independentemente de concordância do Município de São José dos
+Campos, até 70% (setenta por cento) do depósito efetivado com fins de imissão provisória na
+posse.
+Comentários:
+A letra (a) está incorreta. Primeiramente, sabemos que não cabe ao Poder Judiciário substituir o
+mérito administrativo. Além disso, quanto à imissão provisória na posse, temos que lembrar que
+seus requisitos são a (i) alegação de urgência e o (ii) o depósito prévio da quantia arbitrada, não
+cabendo nem avaliação prévia ou exigência de pagamento integral.
+A letra (b) está incorreta, visto que a alegação de urgência não poderá ser renovada e a imissão
+na posse deverá ser requerida em 120 dias, conforme §2º do art. 15 do decreto-lei 3.365/1941:
+
+           Art. 15. Se o expropriante alegar urgência e depositar quantia arbitrada de
+           conformidade com o art. 685 do Código de Processo Civil, o juiz mandará imití-lo
+           provisoriamente na posse dos bens;
+           § 2º A alegação de urgência, que não poderá ser renovada, obrigará o
+           expropriante a requerer a imissão provisória dentro do prazo improrrogável de
+           120 (cento e vinte) dias.
+
+A letra (c) está incorreta, porquanto não existe tal exigência legal.
+A letra (d) está correta, pois apresenta redação compatível com o entendimento do STJ2 de que
+“a imissão provisória em imóvel expropriando somente é possível mediante prévio depósito do
+valor apurado em avaliação judicial provisória, não havendo de ser substituída por mera avaliação
+efetuada por entidade particular”.
+
+
+2
+    A exemplo do STJ, 2ª T., REsp 181407/SP, rel. Min. João Otávio de Noronha, DJ 25/04/2005, p. 256.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                             41
+           www.estrategiaconcursos.com.br                                                           71
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+A letra (e) está incorreta, dado que o valor possível de levantamento equivale a 80% do depósito
+efetivado:
+
+        Art. 33. O depósito do preço fixado por sentença, à disposição do juiz da causa,
+        é considerado pagamento prévio da indenização.
+        § 2º O desapropriado, ainda que discorde do preço oferecido, do arbitrado ou
+        do fixado pela sentença, poderá levantar até 80% (oitenta por cento) do depósito
+        feito para o fim previsto neste e no art. 15, observado o processo estabelecido no
+        art. 34.
+
+Gabarito (D)
+14.​VUNESP – PGM São José dos Campos/2019
+A respeito da Requisição, Servidão Administrativa e Tombamento, assinale a alternativa correta.
+a) As servidões administrativas podem incidir sobre bens imóveis, móveis e direitos.
+b) As requisições administrativas incidem sobre bens móveis ou serviços de particulares, não
+podendo incidir sobre bens imóveis.
+c) De acordo com o STJ, como não há dispositivo expresso proibindo a hierarquização para o
+tombamento, os municípios podem tombar bens públicos estaduais.
+d) O tombamento pode ser voluntário ou compulsório, mas não pode ser instituído de ofício.
+e) O tombamento geral ou global depende da individualização de todos os bens no ato do
+tombamento e exige a prévia notificação de cada proprietário, de acordo com o STJ.
+Comentários:
+A letra (a) está incorreta, pois a servidão Administrativa incide apenas sobre bens imóveis:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              42
+        www.estrategiaconcursos.com.br                                                            71
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+A letra (b) está incorreta. Ao contrário do que afirma a alternativa, as requisições administrativas
+também podem incidir sobre bens imóveis (além de bens móveis e serviços).
+A letra (c) está correta. Diferentemente do que ocorre na desapropriação, a jurisprudência tem
+admitido o tombamento de bens federais por parte de municípios e estados3 e de bens estaduais
+por parte de municípios, havendo uma mitigação do chamado “princípio da hierarquia
+federativa”. Nesse sentido, vejam o seguinte julgado do STJ:
+
+           ADMINISTRATIVO – TOMBAMENTO – COMPETÊNCIA MUNICIPAL. 1. A
+           Constituição Federal de 88 outorga a todas as pessoas jurídicas de Direito
+           Público a competência para o tombamento de bens de valor histórico e artístico
+           nacional. 2. Tombar significa preservar, acautelar, preservar, sem que importe o
+           ato em transferência da propriedade, como ocorre na desapropriação. 3. O
+           Município, por competência constitucional comum – art. 23, III –, deve proteger
+           os documentos, as obras e outros bens de valor histórico, artístico e cultural, os
+           monumentos, as paisagens naturais notáveis e os sítios arqueológicos. 4. Como o
+           tombamento não implica em transferência da propriedade, inexiste a limitação
+           constante no art. 1º, § 2º, do DL 3.365/1941, que proíbe o Município de
+           desapropriar bem do Estado. 5. Recurso improvido.
+           (STJ - RMS: 18952 RJ 2004/0130728-5, Relator: Ministra ELIANA CALMON, Data
+           de Julgamento: 26/04/2005, T2 - SEGUNDA TURMA, Data de Publicação: --> DJ
+           30/05/2005 p. 266 RDR vol. 32 p. 204)
+
+A letra (d) está incorreta, pois há possibilidade de tombamento de ofício, no caso de bens
+públicos. Essa modalidade está prevista no art. 5º do Decreto-Lei 25/1937:
+
+
+3
+    STF. ACO 1208. Rel. Min. Gilmar Mendes
+
+           Receita Federal (Analista Tributário) Direito Administrativo                          43
+           www.estrategiaconcursos.com.br                                                        71
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+           Art. 5º O tombamento dos bens pertencentes à União, aos Estados e aos
+           Municípios se fará de ofício, por ordem do diretor do Serviço do Patrimônio
+           Histórico e Artístico Nacional, mas deverá ser notificado à entidade a quem
+           pertencer, ou sob cuja guarda estiver a coisa tombada, afim de produzir os
+           necessários efeitos.
+
+A letra (e) está dissonante do entendimento do STJ4 sobre o tombamento:
+
+           1) O ato de tombamento geral não precisa individualizar os bens abarcados pelo
+           tombo, pois as restrições impostas pelo Decreto-Lei n. 25/1937 se estendem à
+           totalidade dos imóveis pertencentes à área tombada.
+
+Gabarito (C)
+15.​CEBRASPE (CEBRASPE) - Del Pol (PC GO) /PC GO/2017
+Um policial andava pela rua quando presenciou um assalto. Ao ver o assaltante fugir, o policial
+parou um carro, identificou-se ao motorista, entrou no carro e pediu que ele perseguisse o
+criminoso.
+ Nessa situação, conforme a CF e a doutrina pertinente, tem-se um exemplo típico da
+modalidade de intervenção do Estado na propriedade privada denominada
+a) limitação administrativa, cabendo indenização ao proprietário, se houver dano ao bem deste.
+b) requisição administrativa, cabendo indenização ao proprietário, se houver dano ao bem deste.
+c) desapropriação, não cabendo indenização ao proprietário, independentemente de dano ao
+bem deste.
+d) servidão administrativa, não cabendo indenização ao proprietário, independentemente de
+dano ao bem deste.
+e) ocupação temporária, não cabendo indenização ao proprietário, mesmo que haja dano ao
+bem deste.
+Comentários:
+Questão sem grandes dificuldades, que ilustra situação de cabimento da requisição do bem
+móvel (veículo) e dos serviços do particular (dirigir o veículo), dada a existência de perigo público
+iminente (criminoso em fuga), assim prevista no texto constitucional:
+
+           CF, art. 5º, XXV - no caso de iminente perigo público, a autoridade competente
+           poderá usar de propriedade particular, assegurada ao proprietário indenização
+           ulterior, se houver dano;
+
+Com efeito, nosso gabarito está na letra (b) está correta.
+Passemos às incorretas! A letra (a) está incorreta. Hely Lopes conceitua limitação administrativa
+como sendo “toda imposição geral, gratuita, unilateral e de ordem pública condicionadora do
+
+4
+    STJ. Jurisprudência em teses. Edição 127. 13/6/2019
+
+           Receita Federal (Analista Tributário) Direito Administrativo                           44
+           www.estrategiaconcursos.com.br                                                         71
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+exercício de direito ou de atividade particulares às exigências do bem-estar social”5 (imposição
+de recuos e normas de gabaritos às edificações).
+A letra (c) está incorreta. A desapropriação deve ser precedida de procedimento próprio,
+incompatível com a situação de urgência narrada. Ademais, a alternativa erra ao afirmar que não
+cabe indenização ao proprietário.
+A letra (d) está incorreta. A alternativa erra quanto o instituto, pois não se aplica a servidão
+administrativa. Servidão administrativa consiste no direito de o poder público utilizar de imóvel
+para viabilizar a execução de obras e serviços de interesse coletivo, afastando o uso exclusivo do
+bem por parte de seu proprietário. A alternativa equivoca-se também no tocante a indenização,
+na servidão, que será devida caso haja prejuízo.
+A letra (e) está incorreta, uma vez que a ocupação temporária é destinada a bens imóveis,
+podendo ser gratuita ou remunerada.
+Gabarito (B)
+16.​CEBRASPE (CEBRASPE) - Del Pol (PJC MT) /PJC MT/2017
+Enquanto uma rodovia municipal era reformada, o município responsável utilizou, como meio de
+apoio à execução das obras, parte de um terreno de particular.
+Nessa hipótese, houve o que se denomina
+a) servidão administrativa.
+b) limitação administrativa.
+c) intervenção administrativa supressiva.
+d) ocupação temporária.
+e) requisição administrativa.
+Comentários:
+O enunciado da questão deixou muito claro que bem imóvel particular foi utilizado “como meio
+de apoio à execução das obras”, o que nos remete ao instrumento da ocupação temporária. Ao
+final da reforma da rodovia, a posse do bem será restituída ao particular (caracterizando sua
+natureza temporária).
+Relembrando:
+
+5
+    MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 46. ed. São Paulo: Malheiros, 2016. p. 762.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                 45
+           www.estrategiaconcursos.com.br                                                               71
+
+                                         
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+Gabarito (D)
+17.​CEBRASPE (CEBRASPE) - JE TJBA/TJ BA/2019
+O Estado, no exercício do poder de polícia, pode restringir o uso da propriedade particular por
+meio de obrigações de caráter geral, com base na segurança, na salubridade, na estética, ou em
+outro fim público, o que, em regra, não é indenizável. Essa forma de exercício do poder de
+polícia pelo Estado corresponde a
+a) uma servidão administrativa.
+b) uma ocupação temporária.
+c) uma requisição.
+d) uma limitação administrativa.
+e) um tombamento.
+Comentários:
+O enunciado menciona características de limitação administrativa, em razão da:
+​        - restrição no uso de propriedade
+​        - obrigações de caráter geral
+​        - gratuidade (não indenizável)
+
+          Receita Federal (Analista Tributário) Direito Administrativo                      46
+          www.estrategiaconcursos.com.br                                                    71
+
+                                        
+
+
+---
+
+    Antonio Daud
+    Aula 18
+
+A propósito, os termos do enunciado muito se assemelham às lições de Di Pietro6, ao mencionar
+que
+
+          O interesse público a que atende a limitação pode referir-se à segurança, à
+          salubridade, à estética, à defesa nacional ou qualquer outro fim em que o
+          interesse da coletividade se sobreponha ao dos particulares.
+
+Assim, a letra (d) está correta.
+Gabarito (D)
+18.​CEBRASPE (CEBRASPE) - Del Pol (PC MA) /PC MA/2018
+A seguir são apresentadas ações realizadas pelo Estado.
+I Alocação provisória de determinadas máquinas e equipamentos utilizados em execução de obra
+pública em propriedade privada desocupada.
+II Instalação de redes elétricas em determinada propriedade privada para fins de execução de
+serviço público.
+III Determinação de ordem urbanística de proibição de construção além de determinada altura
+em região do município.
+As hipóteses apresentadas correspondem, respectivamente, às seguintes modalidades de
+intervenção do Estado na propriedade
+a) ocupação temporária, servidão administrativa e limitação administrativa.
+b) requisição administrativa, servidão administrativa e ocupação temporária.
+c) requisição administrativa, ocupação temporária e limitação administrativa.
+d) servidão administrativa, requisição administrativa e limitação administrativa.
+e) ocupação temporária, limitação administrativa e servidão administrativa.
+Comentários:
+Vamos aqui nos socorrer de uma tabela:
+
+      Alocação provisória de determinadas
+                                                                   Ocupação provisória (as máquinas e
+     máquinas e equipamentos utilizados em
+                                                                  equipamentos da obra ficam no terreno
+    execução de obra pública em propriedade
+                                                                         privado desocupado)
+              privada desocupada.
+        Instalação de redes elétricas em determinada
+                                                                  Servidão administrativa (perda da exclusividade do
+    propriedade privada para fins de execução de serviço
+                                                                                         bem)
+                          público.
+
+6
+ DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. GenMétodo. 31ª ed. 2018. eBook. Tópico
+6.5
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                                 47
+          www.estrategiaconcursos.com.br                                                                               71
+
+                                        
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+    Determinação de ordem urbanística de proibição de
+    construção além de determinada altura em região do                    Limitação administrativa (caráter geral)
+                        município
+
+Gabarito (A)
+19.​CEBRASPE (CEBRASPE) - JE TJCE/TJ CE/2018
+Conforme entendimento jurisprudencial do STJ, a limitação administrativa sobre determinado
+bem constitui modalidade de intervenção restritiva na propriedade de caráter
+a) exclusivo e pode dar ensejo a indenização de natureza jurídica de direito real em favor do
+proprietário, ainda que não seja demonstrada a efetiva redução do valor econômico do bem em
+função da referida limitação.
+b) geral e condição inerente ao exercício do direito de propriedade, inexistindo hipóteses de
+indenização.
+c) geral, mas que pode dar ensejo a indenização em favor do proprietário na hipótese de a
+limitação causar redução do valor econômico do bem, independentemente do momento em que
+tenha sido instituída a restrição.
+d) exclusivo e pode dar ensejo a indenização de natureza jurídica de direito real em favor do
+proprietário, desde que a aquisição do bem tenha ocorrido anteriormente à instituição da
+restrição.
+e) geral, mas que pode dar ensejo a indenização de natureza jurídica de direito pessoal, se a
+limitação causar redução do valor econômico do bem e a sua aquisição tiver ocorrido
+anteriormente à instituição da restrição.
+Comentários:
+A limitação administrativa possui caráter geral, na medida em que é dirigida a propriedades
+indeterminadas. Além disso, como regra, a imposição de limitação não enseja ao proprietário o
+direito a indenização.
+No entanto, em alguns casos ela pode vir a se tornar determinável, o que, resultando em redução
+econômica do valor do bem, poderá gerar o direito à indenização. Nesse sentido, o STJ7 tem
+entendido que a indenização em razão da limitação somente será cabível se (i) ficar demonstrado
+o prejuízo e (ii) a limitação for imposta após a aquisição do bem pelo particular.
+Gabarito (E)
+20.​CEBRASPE (CEBRASPE) - JF TRF5/TRF 5/2017
+Em cada uma das opções a seguir é apresentada uma situação hipotética acerca das formas de
+intervenção do Estado na propriedade, seguida de uma assertiva a ser julgada. Assinale a opção
+correspondente à assertiva correta.
+
+
+7
+    STJ. Jurisprudência em teses. Edição 127. 13/6/2019
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                              48
+           www.estrategiaconcursos.com.br                                                                            71
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+a) O comprador de um imóvel com restrição pretende ser indenizado por ter sofrido limitação
+administrativa preexistente constante em nota non aedificandi — proibição de construir —
+referente a parte do imóvel, em razão de normas ambientais. Nesse caso, é indevida a
+indenização pretendida, pois não há perda da propriedade, mas apenas restrições de uso.
+b) Um imóvel de propriedade privada situado às margens de um rio navegável que atravessa
+todo o estado foi objeto de decreto expropriatório. Nessa situação, é devida ao proprietário a
+indenização de toda a propriedade, incluindo-se a área situada às margens do rio.
+c) Uma propriedade particular foi objeto de decreto expropriatório para a construção de um
+parque público no local. No entanto, o desabamento de uma escola pública situada em área de
+risco levou o estado a construir emergencialmente uma escola na referida propriedade. Nessa
+situação, o particular cujo bem foi expropriado poderá utilizar-se da retrocessão para readquirir a
+sua propriedade, considerando-se a alteração da finalidade do decreto expropriatório.
+d) Decreto do presidente da República instituiu estado de defesa em determinado estado da
+Federação, em razão de fortes chuvas que causaram destruição e fizeram muitos habitantes
+desabrigados em determinada região. Em virtude do decreto, foi possível a ocupação temporária
+de uma propriedade privada próxima ao local mais afetado. Nessa situação, considerando-se a
+relevância do interesse público e a urgência da situação, a União não responderá pelos custos
+decorrentes da ocupação temporária.
+e) Um imóvel de propriedade da União situa-se no centro histórico de um município e conserva
+todas as características históricas e arquitetônicas da época colonial. Nesse caso, o município é
+impedido de efetuar o tombamento desse imóvel, pois, apesar de se tratar de hipótese de
+exercício de competência concorrente, incide o princípio da hierarquia federativa.
+Comentários:
+A letra (a) está correta. Segundo entendimento do STJ, é indevida a indenização se o imóvel foi
+adquirido após o implemento da limitação administrativa, pois é presumido que as restrições já
+foram consideradas no preço. Lado outro, a justificativa apresentada pela alternativa, de que não
+há direito a indenização uma vez que não há perda da propriedade, mas apenas limitação,
+encontra respaldo no art. 1.299 do Código Civil:
+    Art. 1.299. O proprietário pode levantar em seu terreno as construções que lhe aprouver, salvo o direito dos
+    vizinhos e os regulamentos administrativos.
+
+A letra (b) está incorreta, uma vez que na indenização não se incluirá as margens do rio, na
+medida em que tais margens não são de propriedade do particular, nos termos da súmula 479 do
+STF:
+    As margens dos rios navegáveis são de domínio público, insuscetíveis de expropriação e, por isso mesmo,
+    excluídas de indenização.
+
+A letra (c) está incorreta. A jurisprudência tem entendido que não há retrocessão no caso, uma
+vez que a destinação de bem continua a atender o interesse público, sendo caso de
+tredestinação lícita.
+A letra (d) está incorreta, visto que a União responderá também pelos custos decorrentes, nos
+termos do inciso II do §1º do art. 136 da Constituição Federal:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                         49
+        www.estrategiaconcursos.com.br                                                                       71
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+           CF, art. 136. O Presidente da República pode, ouvidos o Conselho da República e
+           o Conselho de Defesa Nacional, decretar estado de defesa para preservar ou
+           prontamente restabelecer, em locais restritos e determinados, a ordem pública ou
+           a paz social ameaçadas por grave e iminente instabilidade institucional ou
+           atingidas por calamidades de grandes proporções na natureza.
+           § 1º O decreto que instituir o estado de defesa determinará o tempo de sua
+           duração, especificará as áreas a serem abrangidas e indicará, nos termos e limites
+           da lei, as medidas coercitivas a vigorarem, dentre as seguintes:
+           II - ocupação e uso temporário de bens e serviços públicos, na hipótese de
+           calamidade pública, respondendo a União pelos danos e custos decorrentes.
+
+A letra (e) está incorreta. Diferentemente do que ocorre na desapropriação, a jurisprudência tem
+admitido o tombamento de bens federais por parte de municípios e estados8, havendo uma
+mitigação do chamado “princípio da hierarquia federativa”.
+Gabarito (A)
+21.​CEBRASPE (CEBRASPE) - Adv (EBSERH)/EBSERH/2018
+A administração pública promoveu a desapropriação de dois imóveis. No primeiro, o ato
+expropriatório previa a construção de uma escola. No entanto, após três anos, construiu-se no
+local um abrigo para moradores de rua. Quanto ao segundo, que já contava com edificação, a
+previsão era de que o imóvel fosse aproveitado para servir de unidade de saúde pública, porém,
+nada foi feito e a edificação permaneceu fechada.
+Com referência a essa situação hipotética, julgue o item que se segue.
+Ocorreu, no caso do primeiro imóvel, a tredestinação lícita.
+( ) Certo
+( ) Errado
+Comentários:
+Ocorre a tredestinação lícita na situação em que o imóvel desapropriado, embora não tenha sido
+dada a destinação prevista no decreto de desapropriação, é dada outra destinação também com
+finalidade pública. Assim, não resta descaracterizado o interesse público pretendido.
+Gabarito (C)
+22.​CEBRASPE (CEBRASPE) - Adv (EBSERH)/EBSERH/2018
+A administração pública promoveu a desapropriação de dois imóveis. No primeiro, o ato
+expropriatório previa a construção de uma escola. No entanto, após três anos, construiu-se no
+local um abrigo para moradores de rua. Quanto ao segundo, que já contava com edificação, a
+previsão era de que o imóvel fosse aproveitado para servir de unidade de saúde pública, porém,
+nada foi feito e a edificação permaneceu fechada.
+
+8
+    STF. ACO 1208. Rel. Min. Gilmar Mendes
+
+           Receita Federal (Analista Tributário) Direito Administrativo                         50
+           www.estrategiaconcursos.com.br                                                       71
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+Com referência a essa situação hipotética, julgue o item que se segue.
+Na situação relacionada ao segundo imóvel, o particular que teve seu bem desapropriado poderá
+pleitear somente revisão do valor da indenização.
+( ) Certo
+( ) Errado
+Comentários:
+Em relação ao segundo imóvel, nota-se que não houve destinação pública para o bem, não
+havendo que se falar em tredestinação ilícita (que ensejaria o retorno do bem ao particular ou a
+respectiva indenização) ou tredestinação lícita (que não afetaria a desapropriação realizada).
+Neste caso, houve a não destinação do bem, aplicando-se o disposto no art. 519 do CCB, que
+assegura ao antigo proprietário a preferência pela sua aquisição, pelo seu preço atual:
+
+        CCB, art. 519. Se a coisa expropriada para fins de necessidade ou utilidade
+        pública, ou por interesse social, não tiver o destino para que se desapropriou, ou
+        não for utilizada em obras ou serviços públicos, caberá ao expropriado direito de
+        preferência, pelo preço atual da coisa.
+
+Gabarito (E)
+23.​CEBRASPE (CEBRASPE) - JE TJPR/TJ PR/2017
+Assinale a opção correta a respeito da desapropriação indireta.
+a) Se a administração conferir destinação pública a determinado bem, o particular prejudicado
+poderá recorrer a ações possessórias, reivindicatórias e indenizatórias.
+b) O juízo competente para processar e julgar a desapropriação indireta é o do foro de situação
+do bem.
+c) A afetação do bem particular a um fim público constitui forma de transferência da propriedade.
+d) Por observar o devido processo legal, a desapropriação indireta é instituto amplamente
+praticado e permitido pela legislação brasileira.
+Comentários:
+A letra (a) está incorreta. O entendimento da jurisprudência é pela aplicação do art. 35 do
+decreto-lei 3.365/1941, uma vez que a já houve a incorporação ao patrimônio público sem
+qualquer oposição (desapropriação indireta). Assim, o particular poderá recorrer apenas as ações
+indenizatórias.
+
+        Art. 35. Os bens expropriados, uma vez incorporados à Fazenda Pública, não
+        podem ser objeto de reivindicação, ainda que fundada em nulidade do processo
+        de desapropriação. Qualquer ação, julgada procedente, resolver-se-á em perdas
+        e danos.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           51
+        www.estrategiaconcursos.com.br                                                         71
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+A letra (b) está correta. Apesar de se referir a uma regra do direito processual, destaco que a
+ação seguirá a regra referente às ações relacionadas a bens imóveis, ou seja, o foro de situação
+do bem.
+A letra (c) está incorreta. A afetação diz respeito à destinação que é dada ao bem. Assim, mesmo
+se o poder público utilizar o bem no interesse público, a transferência da propriedade requer o
+cumprimento de determinadas formalidades legais.
+A letra (d) está incorreta, pois a desapropriação indireta não é instituto amplamente utilizado e
+permitido pela legislação. Celso Antônio Bandeira de Mello diz que a desapropriação indireta “é
+a designação dada ao abusivo e irregular apossamento do imóvel particular pelo Poder Público,
+com sua consequente integração no patrimônio público, sem obediência às formalidades e
+cautelas do procedimento expropriatório.”9
+Gabarito (B)
+24.​CEBRASPE (CEBRASPE) - PJ (MPE RR) /MPE RR/2017
+Concluído determinado processo de desapropriação, com o pagamento integral do valor e a
+incorporação do bem ao patrimônio do poder público, este decidiu devolver o bem expropriado
+ao antigo dono, por não lhe ter sido atribuída a destinação prevista no decreto expropriatório
+nem qualquer outra destinação pública.
+Essa reversão do procedimento expropriatório é denominada
+a) tredestinação lícita.
+b) desapropriação indireta.
+c) desistência da desapropriação.
+d) retrocessão.
+Comentários:
+Nosso gabarito está na letra (d), que menciona a retrocessão. Hely Lopes Meirelles leciona que a
+retrocessão “é a obrigação que se impõe ao expropriante de oferecer o bem ao expropriado,
+mediante a devolução do valor da indenização, quando não lhe der o destino declarado no ato
+expropriatório”10.
+No direito brasileiro a retrocessão está prevista no art. 519 do Código Civil:
+
+           Art. 519. Se a coisa expropriada para fins de necessidade ou utilidade pública, ou
+           por interesse social, não tiver o destino para que se desapropriou, ou não for
+           utilizada em obras ou serviços públicos, caberá ao expropriado direito de
+           preferência, pelo preço atual da coisa.
+
+Passemos às incorretas!
+
+9
+  MELLO, Celso Antônio Bandeira de. Curso de direito administrativo. 27. ed. São Paulo: Malheiros,
+2010. p. 890.
+10
+     MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 46. ed. São Paulo: Malheiros, 2016. p. 753.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                 52
+           www.estrategiaconcursos.com.br                                                               71
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 18
+
+A letra (a) está incorreta, uma vez que na tredestinação lícita a Administração Pública apenas
+substitui a destinação do bem, mantendo, entretanto, sua finalidade pública.
+A letra (b) está incorreta. A desapropriação indireta equivale a um fato expropriatório irregular
+pelo Poder Público. Celso Antônio Bandeira de Mello nos ensina que “é a designação dada ao
+abusivo e irregular apossamento do imóvel particular pelo Poder Público, com sua consequente
+integração no patrimônio público, sem obediência às formalidades e cautelas do procedimento
+expropriatório.”11
+Por fim, a letra (c) está incorreta, pois a desistência da desapropriação deve ocorrer antes do
+pagamento da indenização. Neste caso, o bem ainda não terá sido incorporado ao patrimônio
+público e a Administração tem o direito de desistir. Frisa-se que, nos casos em que o pagamento
+pela expropriação do bem já tenha sido realizado não caberá a desistência, devendo ser realizada
+por meio de retrocessão.
+Gabarito (D)
+25.​CEBRASPE (CEBRASPE) - Proc Mun (BH)/Pref BH/2017
+Com relação à intervenção do Estado na propriedade, assinale a opção correta.
+a) Compete à União, aos estados e ao DF legislar, de forma concorrente, sobre desapropriação,
+estando a competência da União limitada ao estabelecimento de normas gerais.
+b) Expropriação ou confisco consiste na supressão punitiva de propriedade privada pelo Estado,
+a qual dispensa pagamento de indenização e incide sobre propriedade urbana ou rural onde haja
+cultura ilegal de psicotrópico ou ocorra exploração de trabalho escravo.
+c) Servidão administrativa é a modalidade de intervenção que impõe obrigações de caráter geral
+a proprietários indeterminados, em benefício do interesse geral abstratamente considerado, e
+afeta o caráter absoluto do direito de propriedade.
+d) Requisição é a modalidade de intervenção do Estado supressiva de domínio, incidente sobre
+bens móveis e imóveis, públicos ou privados, e, em regra, sem posterior indenização.
+Comentários:
+A letra (a) está incorreta, pois se trata de competência privativa da União, nos termos do inciso II
+do art. 22 da Constituição Federal:
+
+           Art. 22. Compete privativamente à União legislar sobre:
+           II - desapropriação;
+
+A letra (b) está correta, nos termos do art. 243 da Constituição Federal:
+
+           Art. 243. As propriedades rurais e urbanas de qualquer região do País onde
+           forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de
+           trabalho escravo na forma da lei serão expropriadas e destinadas à reforma
+
+11
+  MELLO, Celso Antônio Bandeira de. Curso de direito administrativo. 27. ed. São Paulo: Malheiros,
+2010. p. 890.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                          53
+           www.estrategiaconcursos.com.br                                                        71
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+        agrária e a programas de habitação popular, sem qualquer indenização ao
+        proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que
+        couber, o disposto no art. 5º.
+
+A letra (c) está incorreta, uma vez que a servidão administrativa impõe restrição específica a bem
+de determinado proprietário.
+A letra (d) está incorreta. Na requisição, em regra, a Administração Pública deverá indenizar os
+prejuízos que causar.
+Gabarito (B)
+26.​IBFC - TJ (TJ PE) /TJ PE/Administrativa/2017
+Assinale a alternativa que não contempla uma hipótese de verificação da requisição
+administrativa.
+a) Estado de guerra
+b) Proteção da saúde de comunidades
+c) Proteção do meio ambiente ante possível degradação
+d) Inundação de grandes proporções
+e) Epidemia
+Comentários:
+A requisição terá lugar quando houver perigo público iminente. O Estado de guerra, a proteção
+da saúde de comunidades, a inundação de grandes proporções e a epidemia amoldam-se à
+situação de iminente perigo público. Portanto, as situações narradas nas letras (a), (b), (d) e (e)
+dizem respeito a situações de perigo.
+Por sua vez, a letra (c) está incorreta, por ser a única situação que não pode ser enquadrada na
+previsão do inciso XXV do art. 5º da Constituição Federal.
+Gabarito (C)
+27.​IBFC - AuxLg (CM F Santana) /CM Feira de Stana/Administrativo/2018
+Assinale a alternativa correta sobre a desapropriação após analisar os itens abaixo.
+a) A desapropriação pode se dar por utilidade ou necessidade pública, ou, ainda, por interesse
+social
+b) A desapropriação pode se dar por utilidade ou necessidade pública, mas não por interesse
+social
+c) A desapropriação pode se dar por utilidade ou por interesse social, mas não por necessidade
+pública
+d) A desapropriação pode se dar por necessidade pública ou por interesse social, mas não por
+utilidade
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            54
+        www.estrategiaconcursos.com.br                                                          71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+Comentários:
+A letra (a) está correta, sendo necessário, para gabaritarmos a questão, apenas o conhecimento
+do inciso XXIV do art. 5º da Constituição Federal:
+
+        XXIV - a lei estabelecerá o procedimento para desapropriação por necessidade
+        ou utilidade pública, ou por interesse social, mediante justa e prévia indenização
+        em dinheiro, ressalvados os casos previstos nesta Constituição;
+
+Gabarito (A)
+28.​IBFC - Proc (CM F Santana) /CM Feira de Stana/2018
+Assinale a alternativa correta sobre a desapropriação.
+a) Se o bem desapropriado for usado para interesses particulares dar-se-á a tresdestinação, que
+pode levar à retrocessão da desapropriação, com o retorno do bem ao expropriado
+b) Se o bem desapropriado for usado para interesses particulares dar-se-á a destinação, que
+pode levar à homologação da desapropriação, com o retorno do bem ao expropriado
+c) Se o bem desapropriado for usado para interesses particulares dar-se-á a tresdestinação, que
+pode levar à homologação da desapropriação, com o retorno do bem ao expropriado
+d) Se o bem desapropriado for usado para interesses particulares dar-se-á a redestinação, que
+pode levar à realização da desapropriação, com o retorno do bem ao poder público
+Comentários:
+Se houve um desvio de finalidade na utilização do bem, passando a ser usado para fins
+particulares, podemos dizer que houve a chamada tredestinação ilícita, a qual deve ser declarada
+nula e, assim, resultar na reintegração do bem a seu proprietário anterior ou, na impossibilidade,
+na respectiva indenização.
+Gabarito (A)
+29.​IBFC - Asst (CM Aqa) /CM Araraquara/Técnico Legislativo/2017
+No que diz respeito ao tema da desapropriação, assinale a alternativa incorreta:
+a) O Poder Executivo poderá tomar a iniciativa da desapropriação, cumprindo, neste caso, ao
+Legislativo, praticar os atos necessários à sua efetivação
+b) Os bens do domínio dos Estados, Municípios, Distrito Federal e Territórios poderão ser
+desapropriados pela União, e os dos Municípios pelos Estados, mas, em qualquer caso, ao ato
+deverá preceder autorização legislativa
+c) Os concessionários de serviços públicos e os estabelecimentos de caráter público ou que
+exerçam funções delegadas de poder público poderão promover desapropriações mediante
+autorização expressa, constante de lei ou contrato
+d) Se houver concordância, reduzida a termo, do expropriado, a decisão concessiva da imissão
+provisória na posse implicará a aquisição da propriedade pelo expropriante com o consequente
+registro da propriedade na matrícula do imóvel
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           55
+        www.estrategiaconcursos.com.br                                                         71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+Comentários:
+A letra (a) está incorreta, nos termos do art. 8º do Decreto-Lei 3.365/1941 que dispõe sobre
+desapropriação por utilidade pública:
+
+        Art. 8o O Poder Legislativo poderá tomar a iniciativa da desapropriação,
+        cumprindo, neste caso, ao Executivo, praticar os atos necessários à sua
+        efetivação.
+
+A letra (b) está correta, de acordo com o §2º do art. 2º do decreto-lei 3.365/1941:
+
+        § 2o Os bens do domínio dos Estados, Municípios, Distrito Federal e Territórios
+        poderão ser desapropriados pela União, e os dos Municípios pelos Estados, mas,
+        em qualquer caso, ao ato deverá preceder autorização legislativa.
+
+A letra (c) está correta, conforme art. 3º do decreto-lei 3.365/1941:
+                                                         ==219a34==
+
+                 o
+        Art. 3 Os concessionários de serviços públicos e os estabelecimentos de carater
+        público ou que exerçam funções delegadas de poder público poderão promover
+        desapropriações mediante autorização expressa, constante de lei ou contrato.
+
+A letra (d) está correta, segundo previsão do art. 34-A do decreto-lei 3.365/1941:
+
+        Art. 34-A. Se houver concordância, reduzida a termo, do expropriado, a decisão
+        concessiva da imissão provisória na posse implicará a aquisição da propriedade
+        pelo expropriante com o consequente registro da propriedade na matrícula do
+        imóvel.
+
+Gabarito (A)
+30.​FCC/Metrô-SP – Analista – Administração - 2019
+Uma empresa privada venceu licitação para construir e explorar uma linha elevada de monotrilho.
+Todavia, ao iniciar a execução da obra, observou que o traçado planejado passaria sobre terrenos
+privados ainda não construídos, atualmente explorados para plantio de hortaliças pelos
+respectivos proprietários, incentivados por programa municipal de horta urbana, que lhes
+concede isenção do IPTU. Sabe-se que a operação da linha elevada não impedirá a continuidade
+dessa exploração pelos proprietários, ressalvada a ocupação temporária de parcela dos terrenos,
+durante a execução das obras. O instituto adequado para promover a intervenção na
+propriedade, no caso em tela, é
+(A) a servidão administrativa.
+(B) o arrendamento compulsório.
+(C) o tombamento.
+(D) a desapropriação.
+(E) a requisição administrativa.
+Comentários:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         56
+        www.estrategiaconcursos.com.br                                                       71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+Lendo o enunciado com atenção, percebemos que são mencionadas duas intervenções do
+Estado na propriedade privada:
+       1) a instalação de linha de trem que ficará acima do solo (linha elevada)
+     2) a utilização temporária de bens imóveis para viabilizar a execução das obras (ocupação
+temporária)
+
+Assim, quanto à primeira intervenção, é importante destacar que:
+       a) é medida perpétua (e não temporária)
+       b) incide sobre bem imóvel
+       c) não suprime a propriedade do particular, apenas restringe seu uso (isto é, não inviabiliza
+integralmente a utilização do bem pelo seu proprietário)
+Trata-se, portanto, da servidão administrativa, que é medida restritiva, de caráter perpétuo,
+incide sobre bens imóveis e se dá em favor de um serviço público ou de um bem afetado à
+finalidade pública:
+
+Por fim, quanto à segunda intervenção, o próprio enunciado já mencionou que se trata de
+ocupação temporária (não havendo nenhuma alternativa nesse sentido).
+Gabarito (A)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             57
+        www.estrategiaconcursos.com.br                                                           71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+                                        LISTA DAS QUESTÕES
+1.​ FGV/MP-RJ - 2025
+João e Caio, agentes públicos vinculados à Secretaria de Estado de Segurança Pública do Estado
+do Rio de Janeiro, em situação de iminente perigo público, utilizaram do imóvel particular de
+Matheus, gerando dano concreto à propriedade. Nesse cenário, considerando as disposições da
+Constituição Federal, se está diante da seguinte modalidade de restrição do Estado sobre a
+propriedade privada:
+(A) ocupação temporária, sendo certo que Matheus não terá direito à indenização em razão da
+situação posta de iminente perigo público.
+(B) requisição administrativa, sendo certo que Matheus não terá direito à indenização em razão da
+situação posta de iminente perigo público.
+(C) requisição administrativa, assegurando-se ao proprietário Matheus indenização em razão do
+dano concreto à propriedade.
+(D) ocupação temporária, assegurando-se ao proprietário Matheus indenização em razão do dano
+concreto à propriedade.
+(E) limitação administrativa, assegurando-se ao proprietário Matheus indenização em razão do
+dano concreto à propriedade.
+2.​ FGV/MPU/Técnico/2025
+A União utilizou um terreno privado não edificado para o alojamento de operários e alocação de
+máquinas, com o objetivo de realizar a pavimentação de uma estrada federal. Ao fim da obra, o
+terreno foi devolvido ao particular.
+É correto afirmar que a modalidade de intervenção do Estado na propriedade ocorrida nessa
+hipótese é:
+(A) a limitação administrativa;
+(B) a requisição;
+(C) o tombamento;
+(D) a servidão administrativa;
+(E) a ocupação temporária.
+
+3.​ FGV/TCE GO - 2024
+
+Após os devidos trâmites, com vistas a atender antiga demanda da coletividade, o Estado Delta
+fez publicar um Decreto expropriatório por interesse social, a fim de viabilizar o estabelecimento
+e a manutenção de cooperativas de trabalho agrícola, que recai sobre o imóvel rural de Josué.
+
+Acerca da mencionada situação hipotética, é correto afirmar que o Estado Delta
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           58
+        www.estrategiaconcursos.com.br                                                         71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+(A) tem o prazo de cinco anos para ajuizar a respectiva ação de desapropriação.
+
+(B) não tem competência para desapropriar imóvel rural.
+
+(C) deve promover a justa indenização por meio de títulos da dívida agrária.
+
+(D) não poderia realizar a desapropriação para a finalidade social em comento.
+
+(E) há de realizar a venda ou a locação dos bens desapropriados a quem estiver em condições de
+dar-lhes a destinação social prevista no Decreto.
+
+4.​ FGV/SMF-RJ - Analista de Planejamento e Orçamento – 2023
+
+Em razão do aumento exponencial das chuvas, foi constatado que determinada barragem estava
+se rompendo, o que colocaria em risco centenas de pessoas residentes no Município Alfa. Por tal
+razão, o prefeito municipal, tomando por base esse fato, notificou Maria de que um galpão de
+sua propriedade, situado em local elevado, seria provisoriamente ocupado, determinando, ainda,
+que os órgãos municipais estruturassem um centro de atendimento médico para possíveis
+vítimas, e que os veículos de salvamento fossem ali alocados.
+
+Ao consultar um advogado a respeito da conformidade constitucional da medida adotada pelo
+prefeito municipal em relação à sua propriedade, foi corretamente informado a Maria que:
+
+A) ela não será indenizada pelo uso do imóvel, apenas por eventuais danos que lhe sejam
+causadas:
+
+B) a medida se mostra ilegal, pois o imóvel somente poderia ser utilizado após prévia e justa
+indenização em dinheiro, o que não ocorreu;
+
+C) a medida se mostra ilegal, considerando não ter sido antecedida de ordem judicial
+determinando a imissão do Município Alfa na posse;
+
+D) a medida se mostra ilegal, pois não foi antecedida de processo administrativo regular já que
+ela apenas foi notificada de uma decisão já tomada;
+
+E) ela fará jus à indenização, em momento posterior, pelas receitas que deixar de arrecadar com o
+imóvel e pelos danos eventualmente causados em sua propriedade.
+
+5.​ FCC - ACE (TCE-GO)/TCE GO/Contabilidade/2022
+
+A servidão administrativa difere das demais modalidades de intervenção na propriedade nos
+seguintes termos:
+
+a) da desapropriação, porque impõe sacrifício inerente à condição de administrado, não
+autorizando, portanto, indenização ao titular da propriedade que a suportar.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                          59
+        www.estrategiaconcursos.com.br                                                        71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+b) do tombamento, porque a servidão sempre obriga o ente público que a impõe o dever de
+indenizar o titular da propriedade que a suporta.
+
+c) da limitação administrativa, que impõe sacrifício ordinário ao proprietário, enquanto a servidão
+administrativa pode acarretar restrição à exploração econômica da propriedade, ensejando
+direito à indenização.
+
+d) da desapropriação, porque depende de anuência do proprietário do imóvel para sua
+imposição, não admitindo imposição mediante poder de império.
+
+e) da requisição administrativa, porque esta se impõe apenas sobre parte do imóvel e a servidão
+acarreta restrição permanente na totalidade do imóvel onde for imposta.
+
+6.​ FCC - AFTE (SEFAZ PE)/SEFAZ PE/2022
+
+Após tramitação de processo administrativo para apuração do valor histórico e arquitetônico de
+um prédio pertencente a determinado município, o órgão estadual responsável pela tutela do
+patrimônio histórico e artístico estadual editou resolução impondo o tombamento do imóvel, na
+forma da legislação aplicável à espécie. A medida adotada
+
+a) configura abuso de poder, considerando que os bens públicos dos entes públicos são
+insuscetíveis à intervenção de entes públicos de outras esferas, em especial quando acarretam
+alteração de titularidade do bem.
+
+b) possibilita controle judicial para pleito de anulação e de revogação, sendo possível questionar
+a suposta relevância histórica e arquitetônica do imóvel que motiva o tombamento.
+
+c) não admite controle de mérito, no que se refere à discricionariedade do tombamento, sendo
+admitido controle de legalidade do procedimento legal de instrução, a exemplo da exigência de
+trabalhos técnicos e observância do contraditório.
+
+d) demandaria autorização legislativa e ciência ao Tribunal de Contas, porque envolve
+intervenção de ente federado hierarquicamente superior, a fim de obstar abuso de poder
+econômico.
+
+e) atende aos requisitos legais e constitucionais, inexistindo óbice ao tombamento de imóveis
+públicos pertencentes aos entes de qualquer esfera da federação, vedada indenização, em razão
+do dever de mútua colaboração.
+
+7.​ FGV - AJ TRT16/Judiciária/Graduação em Direito/2022
+
+O Município Alfa, para fins de instalação de poste para viabilizar o serviço de iluminação pública,
+utilizou, com base no poder de polícia, uma parcela do terreno privado de propriedade de
+Marcelo. No caso em tela, o poder público municipal fez uso da intervenção do Estado na
+propriedade denominada
+a) requisição administrativa.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            60
+        www.estrategiaconcursos.com.br                                                          71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+b) servidão administrativa.
+c) limitação administrativa.
+d) desapropriação indireta.
+e) tombamento.
+
+8.​ FGV/TCE-AM – cargo do MP - 2021
+
+Em matéria de intervenção do Estado na propriedade, a chamada desapropriação especial
+urbana se dá por interesse social para a política urbana. A desapropriação especial urbana é de
+competência:
+A concorrente dos estados, municípios e Distrito Federal, tem função sancionatória, uma vez que
+recai sobre imóveis urbanos que desatendam a sua função social, e há necessidade de
+pagamento de prévia e justa indenização;
+B concorrente da União, estados, municípios e Distrito Federal, tem função pedagógica, uma vez
+que recai sobre imóveis urbanos subutilizados, e há necessidade de pagamento de ulterior e justa
+indenização;
+C concorrente dos estados, municípios e Distrito Federal, tem função pedagógica, uma vez que
+recai sobre imóveis urbanos subutilizados, e há necessidade de pagamento de ulterior e justa
+indenização;
+D exclusiva dos municípios, tem função sancionatória, uma vez que recai sobre imóveis urbanos
+que desatendam a sua função social, e há necessidade de pagamento de prévia e justa
+indenização;
+E exclusiva dos municípios que possuem plano diretor, tem função sancionatória, uma vez que
+recai sobre imóveis urbanos que desatendam a sua função social, e a indenização será feita com
+pagamento em títulos da dívida pública de emissão previamente aprovada pelo Senado Federal.
+
+9.​ VUNESP/EBSERH – Advogado – 2020
+
+No tocante ao instituto jurídico da desapropriação, assinale a alternativa correta.
+a) A desapropriação atinge o caráter perpétuo do direito de propriedade.
+b) A desapropriação de glebas que contenham culturas ilegais de plantas psicotrópicas dispensa
+indenização prévia.
+c) O pagamento de indenização na desapropriação por necessidade pública pode ser feito em
+títulos da dívida pública.
+d) Os bens de concessionárias de serviço público não são passíveis de desapropriação.
+e) O Estado pode desapropriar bem de empresa pública federal afeto a serviço público.
+
+10.​IBFC/TRE-PA - Técnico - 2020
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         61
+        www.estrategiaconcursos.com.br                                                       71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+O instituto da requisição tem previsão constitucional e pode ser definido como uma das
+modalidades de intervenção do Estado na propriedade privada. Nesse sentido, leia abaixo o
+excerto do artigo 5º, inciso XXV, da CF/88: Art. 5º. Inciso XXV - no caso de _____, a autoridade
+competente poderá _____ de propriedade particular, assegurada ao proprietário _____ , _____;
+
+Assinale a alternativa que preencha correta e respectivamente as lacunas.
+
+a) descumprimento da função social / utilizar bens / indenização proporcional / se houver abuso
+
+b) iminente perigo público / usar / indenização ulterior / se houver dano
+
+c) descumprimento da função social / usar / indenização prévia / se houver abuso
+
+d) iminente perigo público / utilizar bens / indenização prévia / calculados possíveis danos
+
+11.​VUNESP – TJRO/2019
+
+As desapropriações necessárias à adequada prestação de serviço público no regime de
+concessão.
+a) serão sempre de responsabilidade do Poder Concedente.
+b) poderão ser de responsabilidade da concessionária, conforme previsto no edital de licitação,
+competindo ao Poder Concedente editar o decreto de utilidade pública e arcar com o ônus das
+indenizações.
+c) poderão ser de responsabilidade da concessionária, conforme previsto no edital de licitação,
+competindo ao Poder Concedente declarar de utilidade pública os bens necessários à prestação
+do serviço e à concessionária arcar com as indenizações cabíveis.
+d) serão de responsabilidade da concessionária caso se trate de concessão patrocinada, modelo
+em que a ela cabe indicar os bens necessários à prestação do serviço, arcando o Poder Público
+com as indenizações relativas aos bens reversíveis.
+e) serão sempre de responsabilidade da concessionária, competindo ao Poder Concedente
+apenas editar o decreto de utilidade pública.
+
+12.​VUNESP – PGM Rio Preto/2019
+
+A respeito da desapropriação, assinale a alternativa correta.
+a) A declaração de utilidade pública ou de interesse social para fins de desapropriação caduca
+em cinco anos, caso não efetivada a desapropriação nesse período.
+b) A desapropriação é procedimento de competência privativa do Poder Público e, como tal, não
+comporta a delegação de qualquer de seus atos a agentes privados.
+c) É facultado ao Poder Público municipal exigir do proprietário do solo urbano não edificado ou
+subutilizado que promova seu adequado aproveitamento, sob pena de desapropriação com
+pagamento mediante títulos da dívida pública, com prazo de resgate de até dez anos.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              62
+        www.estrategiaconcursos.com.br                                                            71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+d) É facultado ao Poder Público municipal desapropriar por interesse social, para fins de reforma
+agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa
+indenização em títulos da dívida agrária.
+e) A desapropriação por necessidade ou utilidade pública, ou por interesse social, exige justa e
+prévia indenização em dinheiro, sem exceções.
+
+13.​VUNESP – PGM São José dos Campos/2019
+
+Suponha que o Município de São José dos Campos deseja desapropriar, por razões de utilidade
+pública, um imóvel localizado na zona urbana da cidade e que pertence a Maria. Após a fase
+declaratória do procedimento para consumação da desapropriação, iniciou-se a fase executória e
+o Poder Público ofereceu proposta a Maria, mas ela não concordou. Em face da impossibilidade
+do acordo na via administrativa, o Município de São José dos Campos propôs ação judicial de
+desapropriação em face da proprietária do bem. Visando promover o interesse público, o Poder
+Público deseja imitir-se provisoriamente na posse do bem ainda no curso do processo judicial.
+Considerando a situação hipotética, é correto afirmar que
+a) a imissão provisória na posse pressupõe urgência e depósito prévio. Cabe ao Município avaliar
+discricionariamente a urgência na imissão provisória e ao Judiciário analisar o ato que alegou
+urgência, sendo lícito ao juiz substituir o mérito administrativo.
+b) após alegar a urgência, que poderá ser renovada pelo tempo necessário, o Poder Público tem
+o prazo improrrogável de 180 (cento e oitenta dias) para requerer a imissão provisória.
+c) para que a declaração de urgência com fins de imissão provisória na posse seja considerada
+como válida, deve ser realizada exclusivamente no próprio decreto expropriatório.
+d) de acordo com o entendimento do STJ, o depósito judicial do valor simplesmente apurado
+pelo corpo técnico do ente público, sendo inferior ao valor arbitrado por perito judicial e ao valor
+cadastral do imóvel, não viabiliza a imissão provisória na posse.
+e) Maria poderá levantar, independentemente de concordância do Município de São José dos
+Campos, até 70% (setenta por cento) do depósito efetivado com fins de imissão provisória na
+posse.
+
+14.​VUNESP – PGM São José dos Campos/2019
+
+A respeito da Requisição, Servidão Administrativa e Tombamento, assinale a alternativa correta.
+a) As servidões administrativas podem incidir sobre bens imóveis, móveis e direitos.
+b) As requisições administrativas incidem sobre bens móveis ou serviços de particulares, não
+podendo incidir sobre bens imóveis.
+c) De acordo com o STJ, como não há dispositivo expresso proibindo a hierarquização para o
+tombamento, os municípios podem tombar bens públicos estaduais.
+d) O tombamento pode ser voluntário ou compulsório, mas não pode ser instituído de ofício.
+e) O tombamento geral ou global depende da individualização de todos os bens no ato do
+tombamento e exige a prévia notificação de cada proprietário, de acordo com o STJ.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              63
+        www.estrategiaconcursos.com.br                                                            71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+15.​CEBRASPE (CEBRASPE) - Del Pol (PC GO) /PC GO/2017
+
+Um policial andava pela rua quando presenciou um assalto. Ao ver o assaltante fugir, o policial
+parou um carro, identificou-se ao motorista, entrou no carro e pediu que ele perseguisse o
+criminoso.
+ Nessa situação, conforme a CF e a doutrina pertinente, tem-se um exemplo típico da
+modalidade de intervenção do Estado na propriedade privada denominada
+a) limitação administrativa, cabendo indenização ao proprietário, se houver dano ao bem deste.
+b) requisição administrativa, cabendo indenização ao proprietário, se houver dano ao bem deste.
+c) desapropriação, não cabendo indenização ao proprietário, independentemente de dano ao
+bem deste.
+d) servidão administrativa, não cabendo indenização ao proprietário, independentemente de
+                                                         ==219a34==
+
+dano ao bem deste.
+e) ocupação temporária, não cabendo indenização ao proprietário, mesmo que haja dano ao
+bem deste.
+
+16.​CEBRASPE (CEBRASPE) - Del Pol (PJC MT) /PJC MT/2017
+
+Enquanto uma rodovia municipal era reformada, o município responsável utilizou, como meio de
+apoio à execução das obras, parte de um terreno de particular.
+Nessa hipótese, houve o que se denomina
+a) servidão administrativa.
+b) limitação administrativa.
+c) intervenção administrativa supressiva.
+d) ocupação temporária.
+e) requisição administrativa.
+
+17.​CEBRASPE (CEBRASPE) - JE TJBA/TJ BA/2019
+
+O Estado, no exercício do poder de polícia, pode restringir o uso da propriedade particular por
+meio de obrigações de caráter geral, com base na segurança, na salubridade, na estética, ou em
+outro fim público, o que, em regra, não é indenizável. Essa forma de exercício do poder de
+polícia pelo Estado corresponde a
+a) uma servidão administrativa.
+b) uma ocupação temporária.
+c) uma requisição.
+d) uma limitação administrativa.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             64
+        www.estrategiaconcursos.com.br                                                           71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+e) um tombamento.
+
+18.​CEBRASPE (CEBRASPE) - Del Pol (PC MA) /PC MA/2018
+
+A seguir são apresentadas ações realizadas pelo Estado.
+I Alocação provisória de determinadas máquinas e equipamentos utilizados em execução de obra
+pública em propriedade privada desocupada.
+II Instalação de redes elétricas em determinada propriedade privada para fins de execução de
+serviço público.
+III Determinação de ordem urbanística de proibição de construção além de determinada altura
+em região do município.
+As hipóteses apresentadas correspondem, respectivamente, às seguintes modalidades de
+intervenção do Estado na propriedade
+a) ocupação temporária, servidão administrativa e limitação administrativa.
+b) requisição administrativa, servidão administrativa e ocupação temporária.
+c) requisição administrativa, ocupação temporária e limitação administrativa.
+d) servidão administrativa, requisição administrativa e limitação administrativa.
+e) ocupação temporária, limitação administrativa e servidão administrativa.
+
+19.​CEBRASPE (CEBRASPE) - JE TJCE/TJ CE/2018
+
+Conforme entendimento jurisprudencial do STJ, a limitação administrativa sobre determinado
+bem constitui modalidade de intervenção restritiva na propriedade de caráter
+a) exclusivo e pode dar ensejo a indenização de natureza jurídica de direito real em favor do
+proprietário, ainda que não seja demonstrada a efetiva redução do valor econômico do bem em
+função da referida limitação.
+b) geral e condição inerente ao exercício do direito de propriedade, inexistindo hipóteses de
+indenização.
+c) geral, mas que pode dar ensejo a indenização em favor do proprietário na hipótese de a
+limitação causar redução do valor econômico do bem, independentemente do momento em que
+tenha sido instituída a restrição.
+d) exclusivo e pode dar ensejo a indenização de natureza jurídica de direito real em favor do
+proprietário, desde que a aquisição do bem tenha ocorrido anteriormente à instituição da
+restrição.
+e) geral, mas que pode dar ensejo a indenização de natureza jurídica de direito pessoal, se a
+limitação causar redução do valor econômico do bem e a sua aquisição tiver ocorrido
+anteriormente à instituição da restrição.
+
+20.​CEBRASPE (CEBRASPE) - JF TRF5/TRF 5/2017
+
+        Receita Federal (Analista Tributário) Direito Administrativo                       65
+        www.estrategiaconcursos.com.br                                                     71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+Em cada uma das opções a seguir é apresentada uma situação hipotética acerca das formas de
+intervenção do Estado na propriedade, seguida de uma assertiva a ser julgada. Assinale a opção
+correspondente à assertiva correta.
+a) O comprador de um imóvel com restrição pretende ser indenizado por ter sofrido limitação
+administrativa preexistente constante em nota non aedificandi — proibição de construir —
+referente a parte do imóvel, em razão de normas ambientais. Nesse caso, é indevida a
+indenização pretendida, pois não há perda da propriedade, mas apenas restrições de uso.
+b) Um imóvel de propriedade privada situado às margens de um rio navegável que atravessa
+todo o estado foi objeto de decreto expropriatório. Nessa situação, é devida ao proprietário a
+indenização de toda a propriedade, incluindo-se a área situada às margens do rio.
+c) Uma propriedade particular foi objeto de decreto expropriatório para a construção de um
+parque público no local. No entanto, o desabamento de uma escola pública situada em área de
+risco levou o estado a construir emergencialmente uma escola na referida propriedade. Nessa
+situação, o particular cujo bem foi expropriado poderá utilizar-se da retrocessão para readquirir a
+sua propriedade, considerando-se a alteração da finalidade do decreto expropriatório.
+d) Decreto do presidente da República instituiu estado de defesa em determinado estado da
+Federação, em razão de fortes chuvas que causaram destruição e fizeram muitos habitantes
+desabrigados em determinada região. Em virtude do decreto, foi possível a ocupação temporária
+de uma propriedade privada próxima ao local mais afetado. Nessa situação, considerando-se a
+relevância do interesse público e a urgência da situação, a União não responderá pelos custos
+decorrentes da ocupação temporária.
+e) Um imóvel de propriedade da União situa-se no centro histórico de um município e conserva
+todas as características históricas e arquitetônicas da época colonial. Nesse caso, o município é
+impedido de efetuar o tombamento desse imóvel, pois, apesar de se tratar de hipótese de
+exercício de competência concorrente, incide o princípio da hierarquia federativa.
+
+21.​CEBRASPE (CEBRASPE) - Adv (EBSERH)/EBSERH/2018
+
+A administração pública promoveu a desapropriação de dois imóveis. No primeiro, o ato
+expropriatório previa a construção de uma escola. No entanto, após três anos, construiu-se no
+local um abrigo para moradores de rua. Quanto ao segundo, que já contava com edificação, a
+previsão era de que o imóvel fosse aproveitado para servir de unidade de saúde pública, porém,
+nada foi feito e a edificação permaneceu fechada.
+Com referência a essa situação hipotética, julgue o item que se segue.
+Ocorreu, no caso do primeiro imóvel, a tredestinação lícita.
+( ) Certo
+( ) Errado
+
+22.​CEBRASPE (CEBRASPE) - Adv (EBSERH)/EBSERH/2018
+
+A administração pública promoveu a desapropriação de dois imóveis. No primeiro, o ato
+expropriatório previa a construção de uma escola. No entanto, após três anos, construiu-se no
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            66
+        www.estrategiaconcursos.com.br                                                          71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+local um abrigo para moradores de rua. Quanto ao segundo, que já contava com edificação, a
+previsão era de que o imóvel fosse aproveitado para servir de unidade de saúde pública, porém,
+nada foi feito e a edificação permaneceu fechada.
+Com referência a essa situação hipotética, julgue o item que se segue.
+Na situação relacionada ao segundo imóvel, o particular que teve seu bem desapropriado poderá
+pleitear somente revisão do valor da indenização.
+( ) Certo
+( ) Errado
+
+23.​CEBRASPE (CEBRASPE) - JE TJPR/TJ PR/2017
+
+Assinale a opção correta a respeito da desapropriação indireta.
+a) Se a administração conferir destinação pública a determinado bem, o particular prejudicado
+poderá recorrer a ações possessórias, reivindicatórias e indenizatórias.
+b) O juízo competente para processar e julgar a desapropriação indireta é o do foro de situação
+do bem.
+c) A afetação do bem particular a um fim público constitui forma de transferência da propriedade.
+d) Por observar o devido processo legal, a desapropriação indireta é instituto amplamente
+praticado e permitido pela legislação brasileira.
+
+24.​CEBRASPE (CEBRASPE) - PJ (MPE RR) /MPE RR/2017
+
+Concluído determinado processo de desapropriação, com o pagamento integral do valor e a
+incorporação do bem ao patrimônio do poder público, este decidiu devolver o bem expropriado
+ao antigo dono, por não lhe ter sido atribuída a destinação prevista no decreto expropriatório
+nem qualquer outra destinação pública.
+Essa reversão do procedimento expropriatório é denominada
+a) tredestinação lícita.
+b) desapropriação indireta.
+c) desistência da desapropriação.
+d) retrocessão.
+
+25.​CEBRASPE (CEBRASPE) - Proc Mun (BH)/Pref BH/2017
+
+Com relação à intervenção do Estado na propriedade, assinale a opção correta.
+a) Compete à União, aos estados e ao DF legislar, de forma concorrente, sobre desapropriação,
+estando a competência da União limitada ao estabelecimento de normas gerais.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           67
+        www.estrategiaconcursos.com.br                                                         71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+b) Expropriação ou confisco consiste na supressão punitiva de propriedade privada pelo Estado,
+a qual dispensa pagamento de indenização e incide sobre propriedade urbana ou rural onde haja
+cultura ilegal de psicotrópico ou ocorra exploração de trabalho escravo.
+c) Servidão administrativa é a modalidade de intervenção que impõe obrigações de caráter geral
+a proprietários indeterminados, em benefício do interesse geral abstratamente considerado, e
+afeta o caráter absoluto do direito de propriedade.
+d) Requisição é a modalidade de intervenção do Estado supressiva de domínio, incidente sobre
+bens móveis e imóveis, públicos ou privados, e, em regra, sem posterior indenização.
+
+26.​IBFC - TJ (TJ PE) /TJ PE/Administrativa/2017
+
+Assinale a alternativa que não contempla uma hipótese de verificação da requisição
+administrativa.
+a) Estado de guerra
+b) Proteção da saúde de comunidades
+c) Proteção do meio ambiente ante possível degradação
+d) Inundação de grandes proporções
+e) Epidemia
+
+27.​IBFC - AuxLg (CM F Santana) /CM Feira de Stana/Administrativo/2018
+
+Assinale a alternativa correta sobre a desapropriação após analisar os itens abaixo.
+a) A desapropriação pode se dar por utilidade ou necessidade pública, ou, ainda, por interesse
+social
+b) A desapropriação pode se dar por utilidade ou necessidade pública, mas não por interesse
+social
+c) A desapropriação pode se dar por utilidade ou por interesse social, mas não por necessidade
+pública
+d) A desapropriação pode se dar por necessidade pública ou por interesse social, mas não por
+utilidade
+
+28.​IBFC - Proc (CM F Santana) /CM Feira de Stana/2018
+
+Assinale a alternativa correta sobre a desapropriação.
+a) Se o bem desapropriado for usado para interesses particulares dar-se-á a tresdestinação, que
+pode levar à retrocessão da desapropriação, com o retorno do bem ao expropriado
+b) Se o bem desapropriado for usado para interesses particulares dar-se-á a destinação, que
+pode levar à homologação da desapropriação, com o retorno do bem ao expropriado
+
+        Receita Federal (Analista Tributário) Direito Administrativo                        68
+        www.estrategiaconcursos.com.br                                                      71
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 18
+
+c) Se o bem desapropriado for usado para interesses particulares dar-se-á a tresdestinação, que
+pode levar à homologação da desapropriação, com o retorno do bem ao expropriado
+d) Se o bem desapropriado for usado para interesses particulares dar-se-á a redestinação, que
+pode levar à realização da desapropriação, com o retorno do bem ao poder público
+
+29.​IBFC - Asst (CM Aqa) /CM Araraquara/Técnico Legislativo/2017
+
+No que diz respeito ao tema da desapropriação, assinale a alternativa incorreta:
+a) O Poder Executivo poderá tomar a iniciativa da desapropriação, cumprindo, neste caso, ao
+Legislativo, praticar os atos necessários à sua efetivação
+b) Os bens do domínio dos Estados, Municípios, Distrito Federal e Territórios poderão ser
+desapropriados pela União, e os dos Municípios pelos Estados, mas, em qualquer caso, ao ato
+deverá preceder autorização legislativa
+c) Os concessionários de serviços públicos e os estabelecimentos de caráter público ou que
+exerçam funções delegadas de poder público poderão promover desapropriações mediante
+autorização expressa, constante de lei ou contrato
+d) Se houver concordância, reduzida a termo, do expropriado, a decisão concessiva da imissão
+provisória na posse implicará a aquisição da propriedade pelo expropriante com o consequente
+registro da propriedade na matrícula do imóvel
+
+30.​FCC/Metrô-SP – Analista – Administração - 2019
+
+Uma empresa privada venceu licitação para construir e explorar uma linha elevada de monotrilho.
+Todavia, ao iniciar a execução da obra, observou que o traçado planejado passaria sobre terrenos
+privados ainda não construídos, atualmente explorados para plantio de hortaliças pelos
+respectivos proprietários, incentivados por programa municipal de horta urbana, que lhes
+concede isenção do IPTU. Sabe-se que a operação da linha elevada não impedirá a continuidade
+dessa exploração pelos proprietários, ressalvada a ocupação temporária de parcela dos terrenos,
+durante a execução das obras. O instituto adequado para promover a intervenção na
+propriedade, no caso em tela, é
+(A) a servidão administrativa.
+(B) o arrendamento compulsório.
+(C) o tombamento.
+(D) a desapropriação.
+(E) a requisição administrativa.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         69
+        www.estrategiaconcursos.com.br                                                       71
+
+                                      
+
+
+---
+
+Antonio Daud
+Aula 18
+
+                                               GABARITOS
+ 1.​ C
+ 2.​ E
+ 3.​ E
+ 4.​ A
+ 5.​ C
+ 6.​ C
+ 7.​ B
+ 8.​ E
+ 9.​ A
+ 10.​B
+ 11.​C
+ 12.​C
+ 13.​D
+ 14.​C
+ 15.​B
+ 16.​D
+ 17.​D
+ 18.​A
+ 19.​E
+ 20.​A
+ 21.​C
+ 22.​E
+ 23.​C
+ 24.​B
+ 25.​D
+ 26.​B
+ 27.​A
+ 28.​A
+ 29.​A
+ 30.​A
+
+      Receita Federal (Analista Tributário) Direito Administrativo       70
+      www.estrategiaconcursos.com.br                                     71
+
+                                    
+
+
+---
+
+---

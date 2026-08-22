@@ -1,0 +1,4648 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 01_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Fluência em Dados
+---
+
+# Fluência em Dados
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                                             Fluência em Dados
+
+                                                           Autor:
+                                     Diego Carvalho, Emannuelle
+                        Gouveia Rolim, Equipe Informática
+                                           e TI, Renato da Costa
+
+                                              19 de Agosto de 2025
+
+---
+
+      Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+      Aula 00
+
+                                                                                     Índice
+1) Apresentação do Prof. Diego Carvalho - Informática
+
+
+2) Noções Iniciais sobre Computação em Nuvem
+
+
+3) Computação em Nuvem - Características Essenciais
+
+
+4) Computação em Nuvem - Modelos de Serviço
+
+
+5) Computação em Nuvem - Modelos - Tipos de Implantação
+
+
+6) Computação em Nuvem - Armazenamento em Nuvem
+
+
+7) Noções Avançadas sobre Computação em Nuvem
+
+
+8) Resumo - Computação em Nuvem
+
+
+9) Mapas Mentais - Computação em Nuvem
+
+
+10) Questões Comentadas - Computação em Nuvem - Multibancas
+
+
+11) Lista de Questões - Computação em Nuvem - Multibancas
+
+                Receita Federal (Analista Tributário) Fluência em Dados                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                          101
+
+                                                             
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+                  APRESENTAÇÃO DO PROFESSOR
+
+                                                     ==219a34==
+
+     PROFESSOR DIEGO CARVALHO - www.instagram.com/professordiegocarvalho
+
+                                         Sobre o curso: galera, todos os tópicos da aula possuem
+                                         Faixas de Incidência, que indicam se o assunto cai muito ou
+                                         pouco em prova. Diego, se cai pouco para que colocar em
+                                         aula? Cair pouco não significa que não cairá justamente na sua
+                                         prova! A ideia aqui é: se você está com pouco tempo e precisa
+                                         ver somente aquilo que cai mais, você pode filtrar pelas
+                                         incidências média, alta e altíssima; se você tem tempo
+                                         sobrando e quer ver tudo, vejam também as incidências baixas
+                                         e baixíssimas. Fechado?
+
+                                                                  INCIDÊNCIA EM PROVA: baixíssima
+                                                                    INCIDÊNCIA EM PROVA: baixa
+                                                                    INCIDÊNCIA EM PROVA: média
+                                                                    INCIDÊNCIA EM PROVA: ALTA
+                                                                  INCIDÊNCIA EM PROVA: Altíssima
+
+                                         Além disso, essas faixas não são por banca – é baseado tanto
+                                         na quantidade de vezes que caiu em prova
+                                         independentemente da banca quanto nas minhas próprias
+                                         avaliações sobre cada assunto.
+
+
+      Receita Federal (Analista Tributário) Fluência em Dados                                        3
+      www.estrategiaconcursos.com.br                                                                101
+
+                                  
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+      Receita Federal (Analista Tributário) Fluência em Dados                         4
+      www.estrategiaconcursos.com.br                                                 101
+
+                                  
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                             APRESENTAÇÃO DA AULA
+Pessoal, agora vamos falar sobre Cloud Computing (Computação em Nuvem). Essa aula é bem
+divertida, juro para vocês! Nós vamos aprender aqui o que é essa tal de nuvem, quais são suas
+características principais, quais são os principais modelos e tipos de nuvem e – para finalizar – vamos
+falar sobre as principais ferramentas de mercado. Quem aí não possui Google Drive, Dropbox,
+OneDrive ou iCloud? Pois é... é cada vez mais raro alguém que não possua! Venham comigo :)
+
+       PROFESSOR DIEGO CARVALHO - www.instagram.com/professordiegocarvalho
+
+Galera, todos os tópicos da aula possuem Faixas de Incidência, que indicam se o assunto cai
+muito ou pouco em prova. Diego, se cai pouco para que colocar em aula? Cair pouco não significa
+que não cairá justamente na sua prova! A ideia aqui é: se você está com pouco tempo e precisa ver
+somente aquilo que cai mais, você pode filtrar pelas incidências média, alta e altíssima; se você tem
+tempo sobrando e quer ver tudo, vejam também as incidências baixas e baixíssimas. Fechado?
+
+                                             INCIDÊNCIA EM PROVA: baixíssima
+                                               INCIDÊNCIA EM PROVA: baixa
+                                               INCIDÊNCIA EM PROVA: média
+                                                INCIDÊNCIA EM PROVA: ALTA
+                                              INCIDÊNCIA EM PROVA: Altíssima
+
+Além disso, essas faixas não são por banca – é baseado tanto na quantidade de vezes que caiu em
+prova independentemente da banca e também em minhas avaliações sobre cada assunto...
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      5
+        www.estrategiaconcursos.com.br                                                              101
+
+                                    
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+      Receita Federal (Analista Tributário) Fluência em Dados                         6
+      www.estrategiaconcursos.com.br                                                 101
+
+                                  
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                                COMPUTAÇÃO EM NUVEM
+Conceitos Básicos
+                                                                                       INCIDÊNCIA EM PROVA: Altíssima
+
+
+Galera, vamos falar agora sobre computação em nuvem! Eu gosto de iniciar esse assunto
+mencionando um famoso vídeo da ex-presidente Dilma Rousseff. Fiquem tranquilos, o objetivo
+aqui não é discutir nenhum posicionamento político, trata-se apenas de mostrar que é comum
+as pessoas não entenderem muito bem alguns termos relacionados a tecnologia da informação.
+Vamos entender melhor essa história...
+
+Em 2017, uma delatora entregou uma imagem de tela de um e-mail ao Ministério Público
+Federal (MPF) que ela dizia provar sua comunicação com a ex-presidente Dilma Rousseff. A
+delatora informou que a conta de e-mail havia sido criada para que a ex-presidente pudesse avisá-
+la com antecedência sobre avanços da Operação Lava Jato. Ambas não chegaram a enviar e-mails
+uma para outra, a estratégia era manter as mensagens como rascunhos de e-mail.
+
+Professor, o que isso tem a ver com a aula? Galera, quando nós falamos – principalmente para
+pessoas mais velhas – que determinado arquivo está nas nuvens, é completamente normal que
+essas pessoas achem que algo está literalmente armazenado dentro de uma nuvem do céu. Eu
+mesmo já tive que explicar para o meu pai que ele não precisava se preocupar porque eu havia
+armazenado o backup dos seus contatos de celular na nuvem. O que vocês acham que aconteceu?
+
+Passei meia hora tentando explicá-lo o que era nuvem e... ele desistiu de me ouvir e falou que
+confiava em mim. Bem, foi mais ou menos o que aconteceu com a ex-presidente: tentaram explicá-
+la que determinadas mensagens estavam dentro de uma conta de e-mail armazenada em uma
+nuvem. Ela não compreendeu muito bem e questionou a veracidade da informação da delatora.
+Foi quando – em uma entrevista – ela mencionou:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                   7
+        www.estrategiaconcursos.com.br                                                                          101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Galera, esse nome realmente causa bastante confusão! Vamos descobrir por que ele é utilizado? O
+termo nuvem é utilizado como uma metáfora para internet. Como assim, professor? Desde
+antigamente até hoje, quando se deseja desenhar diagramas de redes de computadores, um
+símbolo é utilizado para representar a internet. Vocês sabem qual é esse símbolo? Trata-se da
+nuvem! Vejam alguns exemplos abaixo que eu encontrei:
+
+                                   INTERNET  NUVEM
+
+Notem que a internet é sempre representada como uma nuvem! O termo nuvem é usado como
+uma metáfora para a Internet, baseado no desenho de nuvem usado no passado para representar
+a rede telefônica e, mais tarde, para representar a rede mundial de computadores (Internet) em
+diagramas como uma abstração para a infraestrutura da Internet (servidores, redes, centros de
+dados, entre outros). Em suma: nuvem é uma metáfora para internet!
+
+A Computação em Nuvem pode ser definida como um conjunto de recursos virtuais facilmente
+utilizáveis e acessíveis, tais como hardware, plataforma de desenvolvimento, serviços, data
+centers e servidores distribuídos em diferentes posições geográficas pelo mundo. A computação
+em nuvem oferece acesso a aplicações online através de um navegador web. Vamos ver outras
+definições na tabela a seguir:
+
+                                                     DEFINIÇÕES
+ A Computação em Nuvem é um ambiente de computação baseado em uma imensa rede de servidores, que podem
+ ser físicos ou virtuais. Trata-se de um conjunto de recursos, tais como: capacidade de processamento,
+ armazenamento, conectividade, plataformas, aplicações e serviços disponibilizados na Internet.
+ A Computação em Nuvem é um modelo que permite um acesso, via rede, a recursos de computação configuráveis
+ (Ex: redes, servidores, armazenamento de dados, aplicações e serviços em geral). Este acesso tem a característica
+ de ser onipresente, conveniente e sob demanda.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                 8
+        www.estrategiaconcursos.com.br                                                                         101
+
+                                    
+
+
+---
+
+    Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+    Aula 00
+
+  A Computação em Nuvem é a distribuição de serviços de computação – servidores, armazenamento, bancos de
+  dados, redes, software, análises, inteligência, etc proporcionando inovações mais rápidas, recursos flexíveis e
+  economia na escala.
+  A Computação em Nuvem é a entrega sob demanda de poder computacional, armazenamento de banco de dados,
+  aplicações e outros recursos de TI por meio de uma plataforma de serviços de nuvem via Internet com uma
+  definição de preço conforme o uso.
+  A Computação em Nuvem é o conjunto de recursos que permitem a um usuário de Internet, em qualquer lugar,
+  com qualquer sistema operacional e qualquer dispositivo de hardware utilizar recursos na Internet da mesma
+  maneira que utilizaria tais recursos instalados em sua própria máquina.
+
+
+Vocês conseguem me dizer qual é a principal vantagem da computação em nuvem? Pois é, eu vos
+digo: redução de custos! Sério, professor? Seríssimo! No passado, as empresas tinham que reservar
+um local físico em seu prédio chamado Centro de Processamento de Dados1 (CPD) para armazenar
+seus servidores (aqueles computadores especializados em fornecer serviços como site, e-mail, etc)
+com segurança, redundância, confiabilidade, refrigeração, etc – imagem abaixo.
+
+Além disso, a empresa tinha que contratar funcionários responsáveis por manter tudo aquilo
+funcionando perfeitamente 24 horas por dia nos 7 dias da semana. Era necessário também estar
+sempre comprando novos equipamentos para atualizar o seu parque tecnológico. Enfim, qual o
+problema disso? Custo! Vamos pensar no Estratégia Concursos? Ele não é uma empresa de tecnologia
+da informação – ele é uma empresa de educação.
+
+Dessa forma, não faz sentido a empresa investir tempo e dinheiro para manter uma infraestrutura
+de tecnologia se ela pode simplesmente terceirizar isso para a... nuvem! Assim, ela pode utilizar
+o espaço físico ocupado para outras finalidades; pode transferir toda a responsabilidade de
+manutenção da infraestrutura para um provedor remoto; pode reduzir o consumo de energia
+elétrica; pode reduzir gastos com funcionários; entre diversas outras vantagens.
+
+1 Também chamado de Centro de Dados (Data Center).
+
+             Receita Federal (Analista Tributário) Fluência em Dados                                           9
+             www.estrategiaconcursos.com.br                                                                   101
+
+                                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Professor, onde está essa infraestrutura? Galera, você não precisa mais de um Centro de Dados na
+sua empresa porque você pode contratar os serviços de Centro de Dados de uma empresa
+especializada. Existem várias opções nacionais ou internacionais! A IBM – por exemplo – possui
+um enorme Centro de Dados na cidade de Hortolândia/SP. Além de ser gigantesco, ele possui
+excelente infraestrutura de geradores, resfriamento, segurança, contingência, etc.
+
+Tudo isso para garantir eficiência e disponibilidade aos seus clientes. Hoje em dia, as empresas
+possuem a opção de mover seus serviços para a nuvem e reduzir custos – até porque existem várias
+empresas oferecendo excelentes serviços de nuvem, logo tem havido uma constante redução no
+preço fornecido. Professor, isso só é bom para empresas ou serve para mim também? Galera, isso é
+bom para todo mundo...
+
+                                                          Pensem comigo: você vai começar a estudar
+                                                          para concurso e decide comprar aquele
+                                                          notebook dos sonhos – um Apple MacBook Pro!
+                                                          Você liga o maldito e descobre que ele não vem
+                                                          instalado com o MS-Office. Você pensa: poxa,
+                                                          gastei uma grana com o notebook e agora ainda
+                                                          vou ter que gastar mais R$600,00 para comprar
+                                                          uma licença do MS-Office. Você compra, instala e
+                                                          fica todo feliz de novo! Tão feliz que você esbarra
+                                                          distraído, derruba ele no chão e... perda total.
+
+Você junta mais algumas economias, conversa com pai, implora para a mãe e consegue finalmente
+comprar outro notebook, mas com sistema operacional Windows! Sai correndo todo feliz,
+serelepe e pimpão com seu CD do MS-Office para instalá-lo no novo notebook e... percebe que
+não é possível, porque seu disco antigo é para instalação no Sistema Operacional MacOS.
+Professor, eu sou muito azarado! Calma que não acabou...
+
+Você vende um violão velho, junta mais uma grana e compra outro CD do MS-Office (R$600,00).
+Finalmente você o instala em seu novo notebook e o utiliza à vontade. Três meses se passam e sai
+uma nova versão do Office com diversos recursos bem bacanas que você adoraria utilizar. Sua
+única alternativa é gastar mais R$600,00 e comprar a versão mais atualizada. Poxa, agora você não
+tem do que reclamar, está tudo atualizado e funcionando perfeitamente.
+
+Aí seus pais decidem comprar um computador para sua casa. Você se lembra que você ainda tem
+o seu CD do MS-Office para Windows e pensa: opa, vou instalá-lo no computador também para
+ter uma segunda opção. Ledo engano: o disco que você comprou permite a instalação em apenas
+uma máquina – se você quiser um que seja possível instalar em várias máquinas, terá que comprar
+outro e ele vai custar mais caro. Chegaaaaaaaaaaaaaaaaaaaaa...
+
+                                Calma, fera! Eu tenho a solução para você :)
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                           10
+        www.estrategiaconcursos.com.br                                                                    101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Atualmente você pode utilizar o Office 365! O que é isso, professor? É a mesma suíte de aplicativos
+do MS-Office, mas disponibilizada como um serviço de assinatura. Vejam as vantagens:
+
+ Você pode utilizá-lo online a partir de um navegador em
+  qualquer computador, em qualquer lugar, em qualquer
+  sistema operacional;
+
+ Você pode baixá-lo e instalá-lo em até cinco computadores
+  diferentes – nesse caso, não se trata de uma nuvem, mas é
+  uma possibilidade oferecida;
+
+ Você paga apenas uma assinatura mensal de cerca de
+  R$30,00, tendo acesso a todas as aplicações do MS-Office e
+  estando livre para sair quando desejar;                         ==219a34==
+
+ Você sempre terá a versão mais atualizada de todas as
+  aplicações do MS-Office em quaisquer dos planos de
+  assinatura;
+
+ Você pode trabalhar colaborativamente com outras pessoas
+  em um mesmo arquivo, aumentando a produtividade.
+
+Todo esse argumento foi para convencê-los de que a principal vantagem da computação em
+nuvem é a redução de custos – tanto para pessoas jurídicas quanto para pessoas físicas. Claro
+que existem diversas outras vantagens, tais como liberação do espaço físico, redução do consumo
+de energia, transferência de responsabilidades, redução da folha salarial, otimização de recursos,
+entre outros. Certinho? Vamos ver um pequeno exercício...
+
+
+     (ESAF / Ministério da Fazenda – 2014) É função da computação em nuvem:
+
+     a) cortar custos operacionais.
+     b) permitir que departamentos de TI se concentrem em projetos operacionais em vez de
+     manter provedores funcionando.
+     c) cortar custos situacionais, associados a instabilidades.
+     d) desvincular a TI de esforços estratégicos de interesse da cúpula da organização.
+     e) otimizar acessos indexados.
+     _______________________
+     Comentários: (a) Correto. Ela permite cortar custos operacionais transferindo a responsabilidade pela manutenção da
+     infraestrutura para uma empresa prestadora de serviços de nuvem; (b) Errado. O uso da computação em nuvem permite que os
+     departamentos de TI se concentrem em projetos estratégicos em vez de manter serviços de dados funcionando; (c) Errado. Ela
+     é capaz de cortar custos operacionais genéricos ao transferir essa responsabilidade e, não, operacionais situacionais; (d) Errado.
+     Pelo contrário, ela permite que a TI se concentre em esforços estratégicos e, não, em esforços operacionais; (e) Errado. Esse
+     item faz referência a acesso de bancos de dados – que nada tem a ver com a questão (Letra A).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                           11
+        www.estrategiaconcursos.com.br                                                                                                    101
+
+                                           
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+     (CESPE / Câmara dos Deputados – 2012) Em cloud computing, cabe ao usuário do
+     serviço se responsabilizar pelas tarefas de armazenamento, atualização e backup da
+     aplicação disponibilizada na nuvem.
+     _______________________
+     Comentários: em regra, a responsabilidade é terceirizada para a prestadora de serviço de nuvem – tanto de armazenamento
+     quanto de atualização, backup, manutenção, escalonamento, entre outros (Errado).
+
+     (CESPE / TCE-PA – 2016) Computação em nuvem é a forma de utilizar memória
+     computacional e local de armazenamento de arquivos em computadores interligados à
+     Internet, podendo esses arquivos ser acessados de qualquer lugar do mundo conectado
+     a esta rede.
+     _______________________
+     Comentários: a computação em nuvem realmente permite utilizar memória computacional e local de armazenamento de
+     arquivos em computadores interligados à Internet (entre outros recursos), podendo ser acessados de qualquer lugar do mundo
+     (Correto).
+
+Galera, existe uma agência americana chamada NIST (National Institute of Standards and
+Technology) que tem como missão promover a inovação e o avanço da ciência inclusive através de
+padrões tecnológicos para aumentar a segurança econômica. Em 2011, o NIST criou um
+documento que estabelece definições de computação em nuvem que vêm sendo adotadas no
+meio acadêmico e consequentemente nas questões de concursos públicos.
+
+Dessa forma, pode-se dizer que um estudo sobre computação em nuvem se divide em: cinco
+características essenciais, três modelos de serviço e quatro modelos de implantação (tipos de
+nuvem). Nós vamos entrar em detalhes de cada um desses grupos e subgrupos nas próximas
+páginas. Venham comigo...
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                   12
+        www.estrategiaconcursos.com.br                                                                                            101
+
+                                         
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Características Essenciais
+
+Serviços Mensurados (Measured Service)
+                                                                                       INCIDÊNCIA EM PROVA: baixa
+
+
+Galera, praticamente tudo que é feito na nuvem é controlado e medido quantitativamente. Como
+assim, professor? As empresas que fornecem serviços de computação em nuvem buscam
+otimizar a utilização de seus recursos de forma automática de forma a ter a utilização mais
+eficiente possível. Em outras palavras, ela não pode ter recursos demais de forma que eles fiquem
+ociosos; e também não pode ter serviços de menos de forma que falte recursos.
+
+Professor, o que você está querendo dizer com recursos? Eu estou falando de recursos de
+armazenamento, memória, processamento, vídeo, largura de banda, contas de usuário, entre
+outros. Vejam na imagem acima que eu consigo monitorar como está o uso do meu computador!
+Notem que ele está ocioso, ou seja, eu estou usando somente 9% de sua capacidade de
+processamento; somente 75% de sua capacidade de memória; somente 1% de disco; etc.
+
+Uma empresa que fornece serviços de nuvem sabe que a sua infraestrutura de tecnologia é mais
+utilizada durante o dia do que durante a madrugada. Como os serviços são mensurados
+constantemente, ela é capaz de otimizar a utilização da sua infraestrutura. Em suma: os serviços de
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                              13
+        www.estrategiaconcursos.com.br                                                                      101
+
+                                    
+
+
+---
+
+   Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+   Aula 00
+
+nuvem monitoram todos os recursos de tecnologia de modo a otimizá-los da melhor maneira
+possível e de forma transparente tanto para o fornecedor quanto para o consumidor dos serviços.
+
+Elasticidade Rápida (Rapid Elasticity)
+
+A elasticidade rápida é a capacidade de um sistema de se adaptar a uma variação na carga de
+trabalho quase instantaneamente – em regra, de forma automática e transparente. Alguns
+dizem que é a capacidade de o ambiente computacional da nuvem aumentar ou diminuir os
+recursos computacionais demandados e provisionados para cada usuário. Por vezes, o termo
+elasticidade é utilizado de forma indiscriminada como escalabilidade1.
+
+Galera, por que dizemos que isso ocorre de forma transparente para o usuário? Porque é irrelevante
+para o usuário se estão sendo utilizados um ou dez processadores, dez ou vinte discos, etc. Para o
+usuário, é como se os recursos da nuvem fossem ilimitados, isto é, quanto mais ele precisar,
+mais a nuvem oferecerá. Para o cliente, esses recursos têm inúmeras possibilidades, podendo ser
+adquiridos em qualquer quantidade e a qualquer momento. Bacana?
+
+Pessoal, todo ano nós temos a Black Friday! Ocorrida em novembro, é um dia em que vários
+produtos estão em promoção. Imaginem que não existe uma nuvem e você possui um site de
+vendas de smartphone. Você possui um CPD no subsolo da sua empresa que suporta em média
+100 visitas simultâneas por dia. Porém – no dia da Black Friday – você decide fazer uma promoção
+de iPhone por R$500,00, imaginando que vai vender todo o estoque e vai ganhar muito dinheiro.
+
+Você acerta em cheio e a promoção começa a fazer muito sucesso – tanto sucesso que o site da sua
+empresa, que está hospedado em um servidor web no subsolo do seu CPD, começa a receber
+100.000 visitas simultâneas. Ele não suporta e sai do ar, porque ele não tem capacidade para
+suportar essa quantidade de visitas. Qual o resultado? Prejuízo monstruoso! E sem a tecnologia de
+nuvem, a única alternativa seria comprar mais equipamentos para o centro de dados.
+
+
+1
+  Qual a diferença entre elasticidade e escalabilidade? Sendo rigoroso, a elasticidade funciona como um elástico - ela permite adquirir novos recursos
+de infraestrutura quando você necessita ou liberá-los quando não mais tiver necessidade - em geral, de forma automática, com base na carga ou
+demanda, em um modelo pay-per-use e por curto período de tempo. Já a escalabilidade trata da habilidade de uma infraestrutura ser capaz de
+suportar o aumento da carga no longo prazo como semanas, meses, anos ou décadas.
+
+           Receita Federal (Analista Tributário) Fluência em Dados                                                                                14
+           www.estrategiaconcursos.com.br                                                                                                        101
+
+                                               
+
+
+---
+
+   Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+   Aula 00
+
+Qual é o problema disso? O problema é que essa quantidade de visitas ocorre somente durante um
+dia do ano, isto é, durante todo o restante do ano, essa infraestrutura que você comprou ficará
+ociosa. É uma sinuca de bico, concordam? Pois é... a nuvem veio ajudá-lo porque uma de suas
+características essenciais é a elasticidade rápida. Em outras palavras, se você contrata um serviço
+de nuvem, você só paga pelo que foi utilizado. Olha que genial...
+
+Se você contrata um serviço de computação em nuvem para hospedar seu site, você não precisa se
+preocupar com a quantidade de visitas simultâneas. Por que, professor? Porque, se começar a
+aumentar a quantidade de visitas simultâneas em seu site, a nuvem se encarrega de disponibilizar
+automaticamente mais recursos para suportar essas visitas. E tudo isso de forma transparente: o
+cliente não nota que o site é hospedado na nuvem e não percebe nenhuma diferença. Legal?
+
+
+        (CESPE / STJ – 2015) As características da computação na nuvem incluem a elasticidade,
+        que consiste na capacidade de adicionar ou remover recursos para lidar com a variação
+        de demanda.
+        _______________________
+        Comentários: uma das características fundamentais da computação em nuvem é a elasticidade. Este conceito refere-se à
+        capacidade de um sistema em aumentar ou diminuir dinamicamente recursos computacionais de acordo com a demanda. Em
+        um ambiente de nuvem, isso significa poder adicionar mais recursos de computação, como CPU, RAM ou espaço em disco,
+        quando há um aumento na demanda, e reduzir esses recursos quando a demanda diminui. Isso permite uma grande flexibilidade
+        e eficiência, assegurando que os usuários paguem apenas pelos recursos que efetivamente utilizam (Correto).
+
+Amplo Acesso à Rede (Broad Network Access2)
+
+Todas as funcionalidades estão disponíveis através da rede e são acessíveis por meio de
+mecanismos que promovem o uso de plataformas heterogêneas (smartphones, laptops, tablets,
+etc). Os serviços disponibilizados em nuvem podem ser acessados de forma padronizada através
+de diversos equipamentos, sistemas operacionais; navegadores; arquiteturas; entre outros – desde
+que possua conectividade com a Internet.
+
+2 Por vezes, é traduzido como Ampla Disponibilidade ou Acesso à Rede Ubíqua.
+
+            Receita Federal (Analista Tributário) Fluência em Dados                                                                 15
+            www.estrategiaconcursos.com.br                                                                                          101
+
+                                                 
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Agrupamento de Recursos (Resource Pooling)
+
+                                                       ==219a34==
+
+Galera, vocês sabem o que é Pool? Pool é piscina, em inglês! Sim, mas o que nós temos de interessante
+em uma piscina? Nós temos basicamente água, raias e nadadores. E para que existem essas raias?
+Para dividir a piscina de modo que várias pessoas possam utilizá-la simultaneamente sem riscos de
+choque ou congestionamento. Então, podemos dizer que uma piscina é um recurso que pode ser
+utilizado paralelamente pelos usuários? Sim!
+
+                                                                    Ahh moleque! Vocês já sabem onde eu quero
+                                                                    chegar, não é? Pool de Recursos é uma coleção
+                                                                    de recursos que podem ser utilizados
+                                                                    paralelamente pelos usuários com o propósito
+                                                                    de maximizar a eficiência de um sistema.
+                                                                    Então, acompanhem meu raciocínio: em uma
+                                                                    empresa, há 50 funcionários. Todos eles
+                                                                    eventualmente necessitam ter acesso à
+                                                                    impressora, logo existem algumas alternativas.
+
+Uma péssima alternativa seria comprar uma impressora para cada funcionário, no entanto isso seria
+extremamente ineficiente porque as impressoras passariam a maior parte do tempo ociosa e
+também porque seria muito caro. Outra alternativa seria comprar apenas uma impressora, no
+entanto isso também seria ineficiente porque as impressoras poderiam ficar congestionadas
+devido a demanda dos funcionários.
+
+Uma alternativa interessante seria comprar cinco impressoras e conectá-las à rede de
+computadores da empresa. Vamos supor que eu me levanto da cadeira e visualizo que quatro das
+cinco impressoras estão sendo utilizadas no momento – há somente uma vazia. Eu posso mandar
+imprimir determinado arquivo nessa impressora vazia. No entanto, é um saco ter que levantar e
+ficar olhando qual impressora não está sendo utilizada.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                16
+        www.estrategiaconcursos.com.br                                                                         101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Outra alternativa seria configurar cada computador com uma impressora padrão. Em outras
+palavras, teríamos uma impressora para cada vinte pessoas. Dessa forma, você competiria pela
+impressão com apenas vinte pessoas – já é melhor do que cem pessoas. No entanto, isso ainda
+não é ideal porque pode acontecer de a minha impressora padrão estar ocupada e a impressora do
+lado, não. Aí eu tenho que – na hora de imprimir – escolher outra impressora.
+
+Galera, isso também é um saco! A alternativa mais interessante é criar um pool de impressão. Dessa
+forma, não é necessário configurar cada computador com uma impressora padrão, isto é, cada
+usuário visualizará todas as impressoras como se fossem uma única impressora. Em outras
+palavras, ele enviará uma requisição para o pool de impressoras e, não, para uma impressora
+específica. Bacana?
+
+Galera, o pool de impressão será o responsável por gerenciar os recursos, verificar qual
+impressora está ociosa e vai enviar a requisição para a impressora vazia. Vocês percebem como
+isso maximiza a eficiência? Pois é, o pool de impressão permitirá que vários equipamentos trabalhem
+paralelamente. Aliás, vocês ouviram falar em pool, pensem imediatamente em paralelo. Em inglês,
+carpooling é pegar carona, ou seja, um carro transportando várias pessoas.
+
+Por conta desse agrupamento de recursos, os recursos são gerenciados de maneira mais
+eficiente e os custos são reduzidos – é tudo que uma empresa deseja! Quando vamos para o
+mundo das nuvens, os dispositivos de armazenamento de um provedor de nuvem armazenam
+dados de milhões de pessoas diferentes. Professor, eu achei que eles reservaram um dispositivo de
+armazenamento só para mim.
+
+Não, pequeno gafanhoto! Todos os recursos são compartilhados com o intuito de alcançar a
+máxima eficiência. Em suma, os recursos de computação de cada fornecedor são concebidos para
+servir a vários clientes com diferentes recursos físicos e virtuais, distribuídos e alocados
+dinamicamente. Existe uma sensação de independência uma vez que o cliente geralmente não tem
+nenhum controle ou conhecimento sobre a localização exata dos recursos disponibilizados.
+
+Professor, que recursos podem ser agrupados em um Resource Pooling? Exemplos de recursos incluem
+armazenamento, processamento, memória, largura de banda, máquinas virtuais, etc.
+
+Autosserviço sob Demanda (On-Demand Self-Service)
+
+O autosserviço sob Demanda trata da capacidade de fornecer funcionalidades computacionais de
+maneira automática, sem que haja a necessidade de o usuário interagir com provedor de serviço. O
+consumidor pode, unilateralmente, requerer ou dispensar capacidades de computação, tais como
+tempo do servidor, capacidade de armazenamento, etc – conforme necessário e de forma
+automática. Tudo isso sem necessidade de interação humana com o fornecedor de cada serviço.
+
+Sabe o que isso quer dizer na prática? Isso significa que você mesmo, sem ter que interagir com
+ninguém, pode requerer acesso a serviços da nuvem. Você pode também requerer ou dispensar
+capacidade de armazenamento. Vejam que maneiro: eu pagava por 50Gb de armazenamento do
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 17
+        www.estrategiaconcursos.com.br                                                          101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Google Drive, mas eu decidi colocar todas as minhas fotos na nuvem e isso ocupava muito espaço.
+Eu mesmo (autosserviço) fui no site do Google Drive e pedi para aumentar para 200Gb.
+
+     (CESPE / CNJ – 2013) Para que a aplicação seja considerada realmente na nuvem, ela
+     deve atender a características essenciais, tais como autosserviço sob demanda; acesso
+     por banda larga; agrupamento de recursos; elasticidade rápida; e serviço mensurado.
+     _______________________
+     Comentários: o item apresenta conceitos que são fundamentais para a definição de serviços de computação em nuvem. Estas
+     características são descritas pelo NIST (National Institute of Standards and Technology) como essenciais para computação em
+     nuvem. Logo, todas essas são características essenciais, apesar da péssima tradução de Broad Network Access para Acesso por
+     Banda Larga (Correto).
+
+Uma pergunta comum é: qual é a diferença entre Autosserviço Sob Demanda e Elasticidade Rápida? A
+primeira característica essencial diz respeito à capacidade de fornecer um serviço como e quando
+necessário, normalmente no contexto da aquisição de novos recursos. A segunda característica enfoca a
+capacidade de aumentar ou diminuir o serviço com base na demanda – isso deve ser considerado no
+contexto da escala de um recurso existente já anteriormente provisionado usando o serviço sob demanda.
+
+Embora se possa argumentar que a elasticidade rápida também é uma função do autosserviço sob
+demanda, a elasticidade é a capacidade de afetar um recurso existente sem ter que se preocupar com a
+capacidade do provedor de nuvem de provisioná-lo. Em suma: no autosserviço sob demanda, é possível
+adquirir novos recursos sempre que necessário; na elasticidade rápida, pode-se aumentar ou diminuir o
+serviço baseado na demanda e dentro dos limites dos recursos previamente adquiridos.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                    18
+        www.estrategiaconcursos.com.br                                                                                             101
+
+                                         
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+   CARACTERÍSTICA                                                         DESCRIÇÃO
+      SERVIÇOS            Os serviços de nuvem monitoram todos os recursos de tecnologia de modo a otimizá-los da melhor maneira
+    MENSURÁVEIS           possível e de forma transparente tanto para o fornecedor quanto para o consumidor dos serviços.
+
+    ELASTICIDADE          A elasticidade rápida é a capacidade de um sistema de se adaptar a uma variação na carga de trabalho quase
+        RÁPIDA            instantaneamente – de forma automática e transparente.
+
+    AMPLO ACESSO          Todas as funcionalidades estão disponíveis através da rede e são acessíveis por meio de mecanismos que
+        À REDE            promovem o uso de plataformas heterogêneas (smartphones, laptops, tablets, etc).
+
+    AGRUPAMENTO           Recursos computacionais devem ser agrupados para servir a múltiplos consumidores, com recursos físicos e
+     DE RECURSOS          virtuais sendo arranjados e rearranjados dinamicamente conforme a demanda desses consumidores.
+
+    AUTOSSERVIÇO          O autosserviço sob Demanda trata da capacidade de fornecer funcionalidades computacionais de maneira
+    SOB DEMANDA           automática, sem que haja a necessidade de o usuário interagir com provedor de serviço.
+
+   (MS-CONCURSOS / Câmara de Cabixi-RO – 2018) O modelo de computação em nuvem
+   é composto por algumas características essenciais, dentre elas:
+
+   I - Serviço sob-demanda: as funcionalidades computacionais são providas
+   automaticamente sem a interação humana com o provedor do serviço.
+
+   II - Amplo acesso aos serviços: os recursos computacionais estão disponíveis através da
+   Internet e são acessados via mecanismos padronizados para que possam ser utilizados
+   por dispositivos móveis e portáteis, computadores, etc.
+
+   III - Resource pooling: os recursos computacionais (físicos ou virtuais) do provedor são
+   utilizados para servir a múltiplos usuários, sendo alocados e realocados dinamicamente
+   conforme a demanda do usuário. Nesse cenário, o usuário do serviço não tem a noção da
+   localização exata do recurso, mas deve ser capaz de definir a localização em um nível
+   mais alto (país, estado, região).
+
+   Está correto o contido:
+
+   a) Apenas na opção I.
+   b) Apenas na opção II.
+   c) Apenas nas opções II e III.
+   d) Nas opções I, II e III.
+   _______________________
+   Comentários: (I) Correto. Isso permite aos usuários acessarem recursos de computação, como servidores e armazenamento de
+   rede, conforme necessário, sem interação direta com o provedor de serviço; (II) Correto. Os recursos de computação em nuvem
+   são acessíveis por meio da rede, usando mecanismos padronizados que promovem o uso por uma ampla gama de dispositivos,
+   incluindo dispositivos móveis e computadores; (III) Correto. Os recursos do provedor são agrupados para atender a vários
+   clientes, com diferentes recursos físicos e virtuais sendo dinamicamente alocados e realocados conforme a necessidade. O
+   cliente geralmente não tem controle ou conhecimento sobre a localização exata dos recursos providos, mas pode ser capaz de
+   especificar a localização em um nível mais alto, como país, estado ou datacenter (Letra D).
+
+      Receita Federal (Analista Tributário) Fluência em Dados                                                                     19
+      www.estrategiaconcursos.com.br                                                                                             101
+
+                                       
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Modelos de Serviço
+IaaS (Infrastructure as a Service)
+                                                                                       INCIDÊNCIA EM PROVA: Altíssima
+
+
+Trata-se da capacidade que o provedor tem de oferecer uma infraestrutura de processamento
+e armazenamento de forma transparente. Nesse cenário, o usuário não tem o controle da
+infraestrutura física, mas – através de mecanismos de virtualização – é possível ter o controle sobre
+máquinas virtuais, aplicativos instalados e possivelmente um controle limitado dos recursos de
+rede. Exemplo: Amazon Web Services.
+
+Professor, não entendi bulhufas! Calma, vamos ver um exemplo! Galera, quando eu estava fazendo
+faculdade, meu projeto de graduação tinha relação com a correção de vídeos digitais em tempo
+real. Como assim? Pessoal, quando vídeos estão sendo transmitidos ao vivo, há o risco de alguns
+quadros (frames) serem perdidos. Então, o software que eu implementei buscava os quadros
+anteriores e posteriores para fazer uma simulação de um quadro perdido.
+
+A imagem acima foi retirada da minha monografia. Eu não sei se vocês sabem, mas trabalhar com
+manipulação de vídeos exige uma grande quantidade de processamento. Para demonstrar que
+meu software funcionava corretamente, eu precisava fazer milhares de simulações. Em uma
+faculdade pública, vocês acham que eu tinha um equipamento disponível assim? Claro que não! Eu
+tinha duas alternativas: comprar um equipamento ou deixar rodando no meu notebook.
+
+Pessoal, eu não tinha a menor condição de comprar um equipamento potente, então eu deixei
+rodando no meu velho notebook por quase um mês para obter os resultados esperados. E o
+medo de o computador desligar ou acabar a energia enquanto eu não via? Pois é, mas deu tudo certo
+no final. Hoje em dia, vocês acham que eu faria a mesma coisa? É claro que não! Por que? Porque eu
+tenho uma alternativa melhor do que as duas mencionadas anteriormente.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                  20
+        www.estrategiaconcursos.com.br                                                                          101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Atualmente, eu posso contratar uma infraestrutura em nuvem, isto é, eu posso acessar a
+Amazon e escolher/configurar um computador virtual. Caraca, professor! Como assim? Na minha
+época de graduação, eu teria que comprar um computador potente (processador com vários
+núcleos, muita memória, etc). Hoje eu poderia contratar um computador virtual na Amazon e
+configurá-lo do jeito que eu quiser. Pois é...
+
+Eu poderia escolher um computador com dois núcleos ou com 128 núcleos (muito mais caro).
+Enfim, a infraestrutura se tornou um serviço em que eu posso configurá-la virtualmente para
+atender meus desejos específicos. O que eu quero fazer não exige muito processamento, mas precisa
+de muita memória? Sem problema, basta eu reduzir a quantidade de núcleos do processador e
+aumentar a quantidade de memória.
+
+
+     (FCC / MPE-MA – 2013) Na arquitetura da computação na nuvem ou Cloud Computing,
+     a camada que se utiliza dos recursos de virtualização de recursos computacionais, como
+     o hardware, para prover os serviços é a:
+
+     a) AaaS.
+     b) IaaS.
+     c) NaaS.
+     d) PaaS.
+     e) SaaS.
+     _______________________
+     Comentários: a capacidade que o provedor tem de oferecer uma infraestrutura de processamento e armazenamento de forma
+     transparente é a IaaS. Nesse cenário, o usuário não tem o controle da infraestrutura física, mas – através de mecanismos de
+     virtualização – possui controle sobre as máquinas virtuais, armazenamento, aplicativos instalados e possivelmente um controle
+     limitado dos recursos de rede (Letra B).
+
+     (FGV / BANESTES – 2018) Organizações têm buscado diminuir os custos de TI
+     transferindo seus ambientes computacionais, tais como servidores, máquinas virtuais e
+     bancos de dados, para provedores de computação em nuvem. A modalidade de
+     computação em nuvem em que o provedor de cloud é responsável por disponibilizar
+     esses ambientes computacionais, e a organização contratante continua responsável por
+     cuidar de toda configuração, instalação e manutenção desses ambientes, é denominada:
+
+     a) IaaS
+     b) PaaS
+     c) SaaS
+     d) SECaaS
+     e) Xen.
+     _______________________
+     Comentários: trata-se da infraestrutura – IaaS (Letra A).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                      21
+        www.estrategiaconcursos.com.br                                                                                               101
+
+                                          
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+PaaS (Platform as a Service)
+
+Capacidade oferecida pelo provedor para o desenvolvimento de aplicativos que serão executados
+e disponibilizados na nuvem. A plataforma na nuvem oferece um modelo de computação,
+armazenamento e comunicação para os aplicativos. Em outras palavras, ela oferece uma
+plataforma de alto nível de integração para implementar e testar aplicações na nuvem.
+Exemplo: Google AppEngine e Microsoft Azure.
+
+O usuário não administra ou controla a infraestrutura subjacente, incluindo rede, servidores,
+sistemas operacionais ou armazenamento. No entanto, ele controla as aplicações implantadas e
+configurações das aplicações hospedadas nesta infraestrutura. Assim sendo, PaaS fornece
+linguagens de programação e ambientes de desenvolvimento para as aplicações, auxiliando a
+implementação de sistemas de software.
+
+Vamos entender isso melhor? Saca só! Eu já fui programador, o que significa que eu utilizava diversas
+ferramentas que me auxiliavam no desenvolvimento de software. Como assim? Galera, todo
+software (aplicativo de celular, sistema operacional, etc) é, na verdade, um conjunto de códigos
+escritos por um programador. Para escrever esse código e executá-lo, são necessários diversas
+ferramentas, ambientes, linguagens de programação, entre outros.
+
+Uma alternativa interessante seria instalar tudo isso em meu computador. No entanto, a nuvem
+permite que eu contrate um serviço que me entrega tudo isso prontinho para ser usado sem
+que eu precise me preocupar em nada com a instalação dessas ferramentas. Em outras palavras,
+a plataforma como um serviço me oferece diversas ferramentas que permitem o desenvolvimento
+e a colaboração entre programadores em um projeto.
+
+
+     (FGV / MPE-BA – 2017) Uma organização precisa lançar rapidamente sua própria
+     aplicação, que será desenvolvida em uma linguagem de programação de domínio
+     público. Para isso considera adotar um ambiente baseado na nuvem no qual seja possível
+     desenvolver, testar, executar e gerenciar a aplicação, porém, delegando ao fornecedor
+     da plataforma a responsabilidade de cuidar de toda a configuração necessária para o uso,
+     como instalação de servidor de aplicação, sistema operacional, certificados, firewalls, e
+     de atualizar e manter a infraestrutura. Nesse contexto, o ambiente de computação em
+     nuvem mais adequado é:
+
+     a) IaaS
+     b) PaaS
+     c) SaaS
+     d) MaaS
+     e) On premises
+     _______________________
+     Comentários: ambiente em que é possível desenvolver, testar, executar e gerenciar a aplicação, delegando ao fornecedor da
+     plataforma diversas responsabilidades é uma característica do PaaS (Platform as a Service) (Letra B).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                  22
+        www.estrategiaconcursos.com.br                                                                                           101
+
+                                        
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+SaaS (Software as a Service)
+
+Aplicativos de interesse para uma grande quantidade de clientes passam a ser hospedados na
+nuvem como uma alternativa ao processamento local. Os aplicativos são oferecidos como
+serviços por provedores e acessados pelos clientes por aplicações como navegadores. Todo o
+controle e gerenciamento de rede, sistemas operacionais, servidores e armazenamento é feito pelo
+provedor de serviço. Exemplo: Google Apps, SalesForce, Google Drive, OneDrive, iCloud, etc.
+
+Beleza! Eu não preciso comprar equipamentos, porque eu posso utilizar aqueles que estão na
+nuvem. Eu também não preciso comprar e instalar plataformas de desenvolvimento de software
+porque elas também já estão na nuvem. No entanto, eu ainda preciso o software? Não, hoje em dia
+nem isso é mais necessário. Eu estou escrevendo essa aula no Microsoft Word que está
+instalado na minha máquina, porém eu poderia utilizar o Microsoft Word Online.
+                                                       ==219a34==
+
+Vejam que maneiro! Os softwares estão virando um serviço que você pode acessar e utilizar por
+meio de um navegador web. Você não precisa se preocupar com a instalação, não precisa se
+preocupar com vírus, nada disso... você só acessa e utiliza! O software fica hospedado em um
+servidor. Dessa forma, não é necessário instalar o aplicativo na máquina local, basta o usuário ter
+um navegador instalado, por exemplo, para acessar o software.
+
+Vamos fazer um resumo bacana sobre os três modelos de serviço que nós vimos até agora! Para
+entender melhor a computação em nuvem, pode-se tentar identificar os papéis desempenhados na
+arquitetura baseada em nuvem. A figura acima destaca quem fornece serviços (linha sólida) e quem
+consome (linha tracejada). Notem que o Modelo IaaS suporta o Modelo PaaS, que suporta o
+Modelo SaaS.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 23
+        www.estrategiaconcursos.com.br                                                          101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+O provedor de serviços ideal é responsável por disponibilizar, gerenciar e monitorar toda a estrutura
+para a solução de computação em nuvem, deixando os desenvolvedores e usuários finais
+despreocupados – sem esses tipos de responsabilidade. Para isso, o provedor pode fornecer três
+modalidades de serviços (IaaS, PaaS e SaaS). Notem que os desenvolvedores consomem os
+recursos fornecidos e fornecem serviços para os usuários finais. Os clientes pagam a conta!
+
+Do ponto de vista de interação entre os três modelos de serviços, a IaaS fornece recursos
+computacionais, seja de hardware ou software, para a PaaS, que por sua vez fornece recursos,
+tecnologias e ferramentas para desenvolvimento e execução dos softwares implementados a
+serem disponibilizados como SaaS. É importante ressaltar que uma organização provedora de
+serviços de nuvem não precisa obrigatoriamente disponibilizar os três modelos. Entendido?
+
+Em azul, temos os recursos que devem ser gerenciados pelo cliente e, em laranja, os que devem ser
+gerenciados pelo provedor de nuvem. Notem que, na primeira coluna, temos recursos on-premises,
+isto é, significa que a infraestrutura se encontra armazenada localmente e, não, na nuvem. Nesse
+caso, se o usuário não quiser utilizar nuvem, terá que gerenciar: rede, armazenamento, servidores,
+virtualização, sistema operacional, middlewares, ambientes de execução, dados e aplicações.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                   24
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    
+
+
+---
+
+    Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+    Aula 00
+
+Em outras palavras, ele terá que comprar toda a infraestrutura (rede, armazenamento, servidores),
+terá que instalar uma máquina virtual, terá que instalar um sistema operacional, terá que executar
+softwares que ficam entre o sistema operacional e as aplicações (middlewares), terá que instalar
+softwares responsáveis pela execução dos programas, terá que gerenciar os dados e terá que
+instalar o software que processará esses dados. Por que? Porque ele não utilizará a nuvem!
+
+Na segunda coluna, há uma infraestrutura como um serviço, isto é, nós transferimos a
+responsabilidade de cuidar do hardware e da virtualização para um serviço de nuvem. Na terceira
+coluna, temos uma plataforma como um serviço, isto é, nós transferimos a responsabilidade de
+cuidar do sistema operacional1 e das ferramentas de programação para um serviço de nuvem. Por
+fim, nós temos um software como um serviço, em que transferimos tudo para a nuvem.
+
+              VÍDEO COM Dica para Memorizar                                      https://www.instagram.com/p/COy9n9xDHui
+
+
+         (FUNRIO / IF-PI – 2014) Como é conhecido o modelo de serviços de computação em
+         nuvem (do Inglês “cloud computing”) que tem a capacidade de prover aos usuários
+         aplicações on-line que rodam na infraestrutura da nuvem?
+
+         a) CaaS.       b) DaaS.                                      c) IaaS.                        d) PaaS.                         e) SaaS.
+         _______________________
+         Comentários: cuidado com a pegadinha – a questão trata da capacidade de prover aplicações online que rodam em uma
+         infraestrutura. Quem fornece aplicações online é o SaaS (Software as a Service) que evidentemente pode rodar sobre uma
+         infraestrutura (Letra E)
+
+         (NUCEPE / PC-PI – 2018) Sobre computação em nuvem considere a afirmação abaixo:
+
+         Nesse modelo em particular, o propósito específico é disponibilizar serviços por meio de
+         interfaces como um navegador de Internet. As aplicações em nuvens são multi-
+         inquilinos, ou seja, são utilizadas por diversos clientes simultaneamente. Nesse modelo
+         os usuários podem executar aplicativos através de múltiplos dispositivos na
+         infraestrutura em nuvem. Exemplos, neste contexto, são o Google Docs, Salesforce.
+         Considerando a afirmação apresentada, a mesma se refere ao modelo:
+
+         a) SaaS       b) HaaS                                     c) IaaS                           d) PaaS                           e) DaaS
+         _______________________
+         Comentários: trata-se de um SaaS. Cuidado com a pegadinha: a questão sempre coloca a palavra “infraestrutura” para
+         confundir. No entanto, note que o enunciado trata de executar aplicativos em múltiplos dispositivos na infraestrutura da nuvem,
+         mas o cerne da questão é a disponibilidade da aplicação na nuvem (Letra A).
+
+1 O Sistema Operacional possui uma particularidade: na teoria, ele é considerado como parte das responsabilidades do PaaS; na prática, ele é considerado como parte das
+responsabilidades do IaaS (em prova, vale mais a teoria do que a prática).
+
+             Receita Federal (Analista Tributário) Fluência em Dados                                                                                               25
+             www.estrategiaconcursos.com.br                                                                                                                       101
+
+                                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Galera, esses três modelos de serviço são os modelos tradicionais e são aquelas que disparado caem
+mais em prova. No entanto, existem outros que veremos rapidamente abaixo:
+
+                                 Trata-se de uma solução de comunicação corporativa terceirizada que pode ser
+             Communication       alugada de um único fornecedor. Tais comunicações podem incluir aplicações de voz
+  CaaS                           sobre IP (VoIP ou telefonia via Internet), mensagens instantâneas (IM), colaboração
+              as a Service       e videoconferência usando dispositivos fixos e móveis. O CaaS evoluiu nas mesmas
+                                 linhas do Software as a Service (SaaS).
+                                 Trata-se do compartilhamento de ferramentas de desenvolvimento e serviço, sendo
+              Development        extremamente flexível por permitir a mescla do conteúdo de diversas fontes para
+ DevaaS                          criar um novo serviço.
+              as a Service
+
+                                 Trata-se de um modelo avançado de serviços de computação em nuvem que
+             Enterprise as a     incorpora ofertas de software, infraestrutura e plataforma com gerenciamento
+  EaaS                           adicional de processos de negócios e camadas de serviço corporativo.
+                 Service
+
+                                 Trata-se da entrega de ferramentas ou informações de análise estatística por um
+               Big Data as a     fornecedor externo que ajuda as organizações a entender e usar percepções obtidas
+  BDaaS
+                  Service        de grandes conjuntos de informações para obter uma vantagem competitiva.
+
+                                 Trata-se do fornecimento de informações ou dados sobre demanda para os usuários
+                Data as a        independentemente da sua localização. A vantagem é que o detentor da aplicação
+  DaaS                           conta com maior flexibilidade para expandir o banco de dados, compartilhar as
+                 Service         informações com outros sistemas, facilitar o acesso remoto por usuários autorizados,
+                                 entre outros.
+                                 Trata-se de um modelo de terceirização no qual as atividades de teste associadas a
+               Testing as a      algumas atividades de negócios de uma organização são executadas por um
+  TaaS                           provedor de serviços e, não, por funcionários.
+                 Service
+
+                                 Trata-se de um modelo que permite aos desenvolvedores executar trechos de código
+              FUNCTION AS A      em resposta a eventos, sem a necessidade de provisionar ou gerenciar servidores,
+  FAAS                           focando na construção de aplicações baseadas em eventos.
+                 SERVICE
+
+                                 Trata-se de um serviço de nuvem que fornece um ambiente de hospedagem
+              CONTAINER AS A     gerenciado para a implantação de contêineres. Usuários podem orquestrar e
+  CAAS                           gerenciar a vida útil dos contêineres, permitindo fácil automação e escalabilidade
+                 SERVICE         para aplicações.
+
+     (CESPE / SUFRAMA – 2014) Windows Azure, Microsoft Office 365 e SkyDrive são
+     exemplos, respectivamente, de IaaS, SaaS e PaaS na computação em nuvem.
+     _______________________
+     Comentários: eles são respectivamente PaaS, SaaS e SaaS (Errado).
+
+          Receita Federal (Analista Tributário) Fluência em Dados                                                  26
+          www.estrategiaconcursos.com.br                                                                          101
+
+                                        
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Modelos/Tipos de Implantação
+Nuvem Pública (Public Cloud)
+                                                                                                                INCIDÊNCIA EM PROVA: baixa
+
+Trata-se basicamente de uma infraestrutura de nuvem aberta para o público em geral. Nuvem
+gratuita, professor? Opa, eu não disse isso! Eu disse apenas que ela é pública, ou seja, ela está
+aberta ao público em geral gratuitamente ou mediante pagamento. Pode ser gerenciada por
+empresas, órgãos governamentais ou combinações dessas entidades – e existe nas instalações do
+provedor da nuvem (Ex: Google Drive, Drop Box, OneDrive, Office 365, Prezi Sallesforce, etc).
+
+
+     (IF/PA –2016) O modelo de implantação de um sistema de Computação em Nuvem deve
+     ser escolhido de acordo com a necessidade das aplicações que serão disponibilizadas e o
+     público de usuários que terá acesso aos recursos. O nome do modelo cujos recursos são
+     compartilhados de forma ampla, com acesso a qualquer usuário da Internet é
+     denominado:
+
+     a) nuvem pública.
+     b) nuvem comunitária.
+     c) nuvem híbrida.
+     d) nuvem privada.
+     e) nuvem restrita.
+     _______________________
+     Comentários: trata-se de uma nuvem pública, visto que as aplicações serão disponibilizadas e o público de usuários terá acesso
+     aos recursos (Letra A).
+
+     (STJ – 2018) A nuvem pública, projetada para empresas públicas que gerenciam os
+     recursos computacionais, é de uso exclusivo da administração federal, estadual ou
+     municipal.
+     _______________________
+     Comentários: que viagem... nuvem pública é aquela que está disponibilizada para o público. A Administração Pública pode
+     utilizar nuvens públicas, privadas ou híbridas (Errado).
+
+     (EMAP – 2018) Como produto, a suíte Office comumente usada em uma nuvem pública,
+     conhecida como Office 365, permite, de acordo com o plano de contratação escolhido,
+     que softwares como Word e Excel possam ser instalados em um desktop ou executados
+     pelo navegador do usuário.
+     _______________________
+     Comentários: Office 365 é um exemplo de nuvem pública e realmente permite o plano a ser contratado. Dessa forma, softwares
+     que fazem parte dessa suíte (Word, Excel, Powerpoint, etc) podem ser instalados no computador ou executados em um
+     navegador web (Correto).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                       27
+        www.estrategiaconcursos.com.br                                                                                                101
+
+                                          
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Nuvem Privada (Private Cloud)
+
+Trata-se basicamente de uma nuvem que pode ser acessada por um grupo exclusivo e restrito
+de pessoas de uma organização. Vocês sabiam que o Estratégia Concursos possui a sua nuvem
+privada? Pois é, os professores que gravam vídeos em estúdios particulares – por exemplo – fazem
+o upload das aulas para a nuvem privada de modo que a equipe de edição possa editar as
+videoaulas, no entanto ela é restrita a funcionários e professores.
+
+A nuvem privada se encontra em ambiente próprio da entidade dona da rede, não
+necessariamente no perímetro físico da empresa, mas protegida por um firewall e administrada
+pelos funcionários da corporação. Ela evita o compartilhamento de dados sigilosos que podem ser
+utilizados pelos membros da empresa através da Internet ou de uma rede local quando a nuvem é
+implantada no datacenter da própria empresa.
+                                                                ==219a34==
+
+Galera, pensem comigo: a ABIN é a Agência Brasileira de Inteligência – ela é responsável por
+identificar ameaças reais e potenciais, bem como identificar oportunidades de interesse da
+sociedade e defender a soberania nacional. Agora me respondam: faz sentido a ABIN utilizar uma
+nuvem pública? Google Drive, OneDrive, etc? Claro que não! Ela trata de dados sigilosos do governo
+brasileiro, logo não faz sentido utilizar uma nuvem pública de empresas americanas.
+
+
+     (TCE/PA – 2016) O conceito de nuvens comunitárias se refere a uma infraestrutura de
+     nuvem disponibilizada ao público em geral, ao passo que o conceito de nuvens híbridas
+     se refere a uma infraestrutura de nuvem disponibilizada para uso exclusivo de uma
+     organização.
+     _______________________
+     Comentários: o conceito de nuvens comunitárias públicas se refere a uma infraestrutura de nuvem disponibilizada ao público
+     em geral, ao passo que o conceito de nuvens híbridas privadas se refere a uma infraestrutura de nuvem disponibilizada para uso
+     exclusivo de uma organização (Errada).
+
+     (Polícia Federal – 2012) O conceito de cloud storage está associado diretamente ao
+     modelo de implantação de nuvem privada, na qual a infraestrutura é direcionada
+     exclusivamente para uma empresa e são implantadas políticas de acesso aos serviços; já
+     nas nuvens públicas isso não ocorre, visto que não há necessidade de autenticação nem
+     autorização de acessos, sendo, portanto, impossível o armazenamento de arquivos em
+     nuvens públicas.
+     _______________________
+     Comentários: o conceito de Cloud Storage é um serviço de armazenamento de dados na nuvem que independe da classificação
+     em pública ou privada. Além disso, nuvens públicas podem exigir autenticação/autorização e é possível armazenar dados em
+     nuvens públicas ou privadas (Errado).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                       28
+        www.estrategiaconcursos.com.br                                                                                                101
+
+                                          
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Nuvem Híbrida (Hybrid Cloud)
+
+Trata-se da combinação de duas ou mais infraestruturas de nuvens distintas (privadas,
+comunitárias ou públicas) que permanecem como entidades únicas, mas que são unidas por
+tecnologias padronizadas ou proprietárias – e devem permitir a portabilidade de dados e
+aplicações. Como assim, professor? Em primeiro lugar, caso não permita a portabilidade dados e
+aplicações, são apenas duas nuvens separadas e, não, uma nuvem híbrida.
+
+Em segundo lugar, imaginem um cenário em que uma empresa crie uma nuvem privada e utilize
+uma nuvem pública para estender recursos de sua nuvem privada. Nesse caso, dados sensíveis – por
+exemplo – são hospedados na nuvem privada, e dados/aplicações que precisam ter informações
+disponibilizas para usuários são hospedados na nuvem pública. Nesse caso, temos uma nuvem
+híbrida porque houve uma composição de uma nuvem privada com uma nuvem pública.
+
+
+     (UFRN – 2018) Modelo de implantação de computação em nuvem onde a infraestrutura
+     de nuvem é uma composição de duas ou mais infraestruturas de nuvem distintas
+     (privada, comunitária ou pública) que permanecem como entidades exclusivas, mas
+     unidas por tecnologia padronizada ou proprietária que permite a portabilidade de dados
+     e aplicativos (por exemplo, estouro de nuvem para balanceamento de carga entre
+     nuvens). Esse modelo é a:
+
+     a) nuvem pública.
+     b) nuvem privada.
+     c) nuvem comunitária.
+     d) nuvem híbrida.
+     _______________________
+     Comentários: modelo que é uma composição de duas ou mais nuvens distintas é a nuvem híbrida (Letra D).
+
+     (TJ/SE – 2014) O modelo de computação em nuvem do tipo nuvem híbrida permite a
+     integração dos ambientes de TI locais e externos, de modo a unir os recursos
+     computacionais próprios e os de terceiros, além de usar os mesmos processos de
+     gerenciamento o que provê escalabilidade sem que haja impacto em aplicações e
+     operações existentes.
+     _______________________
+     Comentários: perfeito... esse modelo utiliza uma combinação de nuvens que integra ambientes locais e remotos e pode
+     realmente unir recursos computacionais próprios com o de terceiros, ou seja, uma nuvem privada com uma nuvem pública, por
+     exemplo. Ela também pode utilizar os mesmos processos de gerenciamento e oferecer uma escalabilidade maior sem impactos
+     em aplicações e operações existentes, isto é, tudo ocorre de maneira transparente para o usuário (Correto).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                  29
+        www.estrategiaconcursos.com.br                                                                                           101
+
+                                        
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Nuvem Comunitária (Community Cloud)
+
+Trata-se de uma nuvem exclusiva e restrita para grupos que possuam interesses e preocupações
+em comum. Como é, professor? Imagine que você passou em um concurso top, vendeu seu Uno e
+comprou aquela Mercedes-Benz C250 que você sempre sonhou (é o carro dos meus sonhos ). No
+entanto, você se lembra que você tem que fazer um seguro para o carro. Só que tem um problema:
+você é muito ruim de roda e já acionou várias vezes o seguro anterior.
+
+Na hora de fazer uma cotação do seguro do carro atual, a seguradora pode olhar o seu perfil e
+consultar a nuvem comunitária que existe entre todas as seguradoras de carro. Ela vai ver que
+você manda mal no volante e vai cobrar mais caro no seu seguro. Você não concorda com o preço
+e faz uma cotação em outra seguradora. Adianta alguma coisa? Não, porque ela também terá
+acesso à nuvem comunitária e cobrará também um valor alto.
+
+Podemos concluir, portanto, que uma nuvem comunitária é uma infraestrutura provida para
+uso exclusivo (uma vez que o acesso é limitado) de uma comunidade que possui preocupações
+comuns, tais como cooperativas, instituições de segurança, seguradores, blocos políticos, grupos
+empresariais, entre outros. Ela pode ser controlada por uma ou mais organizações da comunidade,
+por um terceiro ou por uma combinação entre eles – dentro ou fora das instalações da organização.
+
+
+     (ABIN – 2018) Na computação em nuvem, uma nuvem pública é compartilhada por
+     organizações que possuem interesses em comum, sendo o acesso restringido para não
+     participantes.
+     _______________________
+     Comentários: uma nuvem pública comunitária é compartilhada por organizações que possuem interesses em comum, sendo o
+     acesso restringido para não participantes (Errada).
+
+     (MPOG – 2015) Nuvem comunitária é aquela em que a infraestrutura é compartilhada
+     por organizações que mantêm algum tipo de interesse em comum (jurisdição,
+     segurança, economia), podendo ser administrada, gerenciada e operada por uma ou
+     mais dessas organizações.
+     _______________________
+     Comentários: impecável... a nuvem comunitária é compartilhada por organizações com interesse em comum (Correto).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                             30
+        www.estrategiaconcursos.com.br                                                                                      101
+
+                                        
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Armazenamento em Nuvem
+                                                                                       INCIDÊNCIA EM PROVA: ALTA
+
+O Armazenamento em Nuvem significa basicamente o armazenamento virtualizado ou
+também chamado de Backup Online. Esse termo define recursos que permitem a um usuário de
+Internet, em qualquer lugar, com qualquer sistema operacional e qualquer dispositivo de hardware
+possa acessar arquivos na Internet em sites que permitem o armazenamento de cópias de
+segurança. Como assim?
+
+Este recurso permite que dados de um dispositivo (desktop, notebook, tablet, smartphone, etc)
+sejam armazenados online em um servidor da Internet e que a sincronização aconteça de maneira
+fácil e rápida, sendo melhor aproveitado quando se utiliza conexão em banda larga. Quaisquer
+tipos de arquivos podem ser armazenados através deste recurso – músicas, textos, vídeos,
+planilhas, etc.
+
+Galera, eu sou completamente psicopata com isso! Como eu tenho pavor de perder todo o meu
+material escrito, eu armazeno tudo na nuvem. Na verdade, eu armazeno tudo em várias nuvens
+para não correr risco! Eu tenho tudo no Google Drive, OneDrive, Dropbox e iCloud. Esse recurso
+efetua backup automaticamente dos arquivos inseridos na pasta do computador do usuário que é
+criada quando da instalação do aplicativo.
+
+Dessa forma, arquivos alterados e inseridos nesta pasta são automaticamente sincronizados no
+drive virtual – tudo isso de forma gratuita. De maneira equivocada, muitos interpretam o serviço
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                             31
+        www.estrategiaconcursos.com.br                                                                     101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+de armazenamento em nuvem como um exemplo de IaaS. No entanto, quando pensamos em
+IaaS, temos como consumidor o desenvolvedor que adquirirá máquinas virtuais definindo
+capacidade computacional e sistema operacional.
+
+O IaaS permitirá a construção de novas aplicações, que serão consumidas por usuários finais.
+Quando você utiliza uma aplicação de armazenamento em nuvem (Ex: Google Drive), você está
+adquirindo máquinas virtuais para desenvolvimento de aplicações? Não, você está apenas
+consumindo um software de armazenamento que está virtualizado na nuvem. Logo, você está
+utilizando um SaaS e, não, IaaS.
+
+
+     (CPEVE / UFMS – 2016) Atualmente, há uma tecnologia que permite ao usuário
+     armazenar arquivos na Internet, podendo realizar o acesso, edição e até mesmo exclusão
+     de arquivos em uma diversidade de dispositivos. O acesso a esse serviço é controlado por
+                                                          ==219a34==
+
+     um nome de usuário e senha. Há empresas que oferecem esse serviço gratuitamente.
+     Assinale a alternativa correta para o nome desta nova tecnologia.
+
+     a) Navegação Offline.
+     b) Armazenamento em Nuvem.
+     c) Dispositivos Móveis.
+     d) Serviço de Diretório.
+     e) Plataforma Java.
+     _______________________
+     Comentários: trata-se do Armazenamento em Nuvem (Letra B).
+
+Google Drive
+
+                            Trata-se de um serviço de armazenamento e computação em nuvem,
+                            pois permite o armazenamento e a edição de arquivos através de seus
+                            recursos. Um dos recursos que oferece a seus usuários é a possibilidade de
+                            compartilhar arquivos, permitindo que estes sejam acessados por diversas
+                            pessoas diferentes, o que dispensa a necessidade de se enviar o mesmo
+                            arquivo para diversas pessoas através de muitos e-mails. Possibilita
+                            também a criação de documentos, planilhas e apresentações.
+
+
+     (CESPE / TJ-AC – 2012) O Google Drive, um serviço de armazenamento de dados em
+     nuvem, não pode ser utilizado a partir de tablets.
+     _______________________
+     Comentários: o armazenamento em nuvem pode ser utilizado por qualquer dispositivo que tenha acesso à Internet e um
+     navegador web – inclusive tablets (Errado).
+
+Dropbox
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                           32
+        www.estrategiaconcursos.com.br                                                                                    101
+
+                                      
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                                   Dropbox é um programa usado para armazenamento em nuvem,
+                                   em que podemos armazenar documentos, fotos e vídeos, e acessá-
+                                   los de qualquer computador no mundo inteiro. O usuário poderá
+                                   acessar os arquivos armazenados no Dropbox nos computadores,
+                                   tablets ou qualquer outro dispositivo conectado na Internet. O Dropbox
+                                   dará ao usuário a possibilidade de compartilhar os arquivos garantindo
+                                   toda a segurança e proteção dos documentos armazenados.
+
+
+     (QUADRIX / CRBio – 2013) Assinale a alternativa que exibe um aplicativo específico para
+     Computação nas Nuvens.
+
+     a) Dropbox.       b) VirtuaBox.                        c) Wamp.                   d) VLC.           e) VNC.
+     _______________________
+     Comentários: a única opção que apresenta uma aplicação típica de computação em nuvem é o DropBox (Letra A).
+
+OneDrive
+
+Antigamente chamado de Skydrive, trata-se de um serviço de
+armazenamento em nuvem. Esse programa pertence a Microsoft, vem
+pré-instalado no Windows 10 e funciona muito bem em todos os seus
+dispositivos. Ele permite armazenar e proteger seus arquivos, compartilhá-
+los com outras pessoas e acessá-los de qualquer lugar em todos os seus
+dispositivos. Quando você usa o OneDrive com uma conta fornecida pela
+sua empresa ou escola, é chamado OneDrive for Business.
+
+
+     (CRO-SC / CRO-SC – 2016) O serviço de armazenamento de arquivos na “nuvem” da
+     Microsoft que vem pré-instalado no Windows 10 é o:
+
+     a) Dropbox.
+     b) iCloud.
+     c) OneDrive.
+     d) SendSpace.
+     _______________________
+     Comentários: o serviço de armazenamento em nuvem da Microsoft é o OneDrive (Letra C).
+
+iCloud
+
+                    iCloud é recurso de armazenamento e computação em nuvem da Apple, para
+                    armazenar dados provenientes de iPhone, IPad, iPod Touch e computadores,
+                    sendo que o iCloud sincroniza esses dispositivos Apple de forma automática. Ele
+                    permite o armazenamento de arquivos de seus clientes em seus servidores,
+                    assim como a sincronização dos dados automaticamente.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                    33
+        www.estrategiaconcursos.com.br                                                                             101
+
+                                        
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+   (CESPE / TJ-AC – 2012) O iCloud é o serviço de armazenamento de dados em nuvem
+   destinado aos usuários do iOS, que podem armazenar seus conteúdos gratuitamente,
+   sem limitação de espaço.
+   _______________________
+   Comentários: opa... você pode armazenar seus conteúdos gratuitamente com uma limitação pequena de espaço. Para utilizar
+   mais espaço, você precisa pagar (Errado).
+
+      Receita Federal (Analista Tributário) Fluência em Dados                                                                34
+      www.estrategiaconcursos.com.br                                                                                         101
+
+                                      
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 00
+
+Conceitos Avançados
+Azure
+                                                                                                        INCIDÊNCIA EM PROVA: baixíssima
+
+                                      O Microsoft Azure foi lançado em 2008, sendo classificado
+                                      inicialmente como um PaaS, no entanto atualmente já é capaz de
+                                      oferecer serviços de IaaS e SaaS também. Ele possui também grande
+                                      integração com as tecnologias do cliente, permitindo criar
+                                      máquinas virtuais com diferentes sistemas operacionais.
+
+
+    (CRO/SC – 2016) Uma das tendências mais recentes da computação em nuvem é a de
+    provimento de serviços de aplicativos, nos quais, ao invés de ter os aplicativos rodando
+    em sua máquina local, o usuário tem os aplicativos rodando em um servidor remoto que
+    é acessado através da internet. Recentemente a Microsoft apresentou ao mercado uma
+    coleção de serviços de nuvem integrados, que incluem, desde um sistema operacional, a
+    um serviço de banco de dados e de armazenamento de arquivos. Esta ferramenta tem o
+    nome de:
+
+    a) Microsoft OneDrive.
+    b) Microsoft Cortana.
+    c) Microsoft Azure.
+    d) Microsoft Windows Small Business Server.
+    _______________________
+    Comentários: a ferramenta da Microsoft que apresenta diversos recursos integrados de nuvem é o Azure (Letra C).
+
+    (Polícia Federal – 2013) Com o ambiente de computação em nuvem Azure, da Microsoft,
+    é possível a criação de máquinas virtuais com sistemas operacionais distintos, desde o
+    Windows Server até máquinas com distribuição Linux, como, por exemplo, CentOS, Suse
+    e Ubuntu.
+    _______________________
+    Comentários: ele realmente permite criar máquinas virtuais com diversos sistemas operacionais. Apesar de ser uma ferramenta
+    da Microsoft, é possível criar máquinas com Windows ou Linux e suas distribuições (Correto).
+
+       Receita Federal (Analista Tributário) Fluência em Dados                                                                     35
+       www.estrategiaconcursos.com.br                                                                                             101
+
+                                        
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Ferramentas Colaborativas
+                                                                                       INCIDÊNCIA EM PROVA: baixíssima
+
+Em um mundo conectado, as empresas que conseguem superar as limitações geográficas e
+temporais certamente se mostrarão mais competitivas do que as suas concorrentes. É cada vez
+mais importante desenvolvermos maneiras eficientes para compartilharmos as informações e o
+conhecimento. Para realizar essas tarefas, tem sido muito comum a adoção das ferramentas
+colaborativas na empresa.
+
+Baseadas em computação em nuvem, as ferramentas colaborativas permitem que usuários
+acessem e manipulem simultaneamente um mesmo documento. Ferramentas colaborativas
+podem ser definidas como são aplicações cuja principal finalidade é o compartilhamento de
+arquivos de trabalho entre um conjunto de usuários de uma organização com o intuito de que esses
+desenvolvam uma tarefa em comum.                       ==219a34==
+
+Diferentemente de sistemas de gestão que são acessados por um único usuário e quase nunca
+têm recursos para conectar pessoas, essas ferramentas permitem que vários colaboradores
+conversem por chat, compartilhem arquivos e troquem informações em tempo real. Por serem
+baseadas na nuvem, elas oferecem um verdadeiro ambiente de trabalho virtual que pode ser
+acessado a qualquer hora e lugar pelos membros do time, pelo computador ou celular.
+
+Assim, os colaboradores conseguem organizar projetos, distribuir e acompanhar tarefas, fazer
+reuniões, editar arquivos de forma colaborativa e reproduzir as mesmas atividades do escritório
+físico na internet. Com o distanciamento social imposto pela pandemia de coronavírus, o uso de
+ferramentas colaborativas se tornou extremamente comum para a grande parte das empresas e
+órgãos que querem manter suas atividades.
+
+Mesmo antes dessa crise, esses recursos já estavam sendo adotados pelas organizações antenadas
+às tendências, como parte da transformação digital em curso no mundo. Ao utilizar uma
+ferramenta colaborativa, um usuário pode contar com diversos benefícios como aumento da
+produtividade, redução de custos, facilidade de utilização, aumento da mobilidade, aumento
+da segurança, reforço da cultura de trabalho em equipe, entre outros.
+
+As principais ferramentas colaborativas do mercado atualmente são: Google Workspace, Office
+365, Trello, Zoom, Microsoft Teams, Slack, Asana, entre outros. Vejamos...
+
+     FERRAMENTA            LOGO                                          DESCRIÇÃO
+                                          Esse pacote profissional do Google inclui os famosos Google
+                                          Documentos, Google Planilhas, Google Agenda, Google Apresentações,
+         GOOGLE                           Google Drive e outras aplicações que permitem a criação e edição de
+      WORKSPACE                           arquivos na nuvem.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                   36
+        www.estrategiaconcursos.com.br                                                                           101
+
+                                    
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 00
+
+                                              Microsoft 365 é uma versão online por assinatura da suíte de aplicativos
+                                              para escritório/produtividade Microsoft Office, focado no trabalho
+                                              colaborativo simultâneo de uma grande equipe e na segurança, lançado
+      Office 365                              em junho de 2011 desenvolvido pela empresa Microsoft.
+
+                                              O Trello já se consagrou como uma das plataformas de produtividade
+                                              mais utilizadas no mundo dos negócios. A grande vantagem dessa
+                                              ferramenta é a facilidade em gerenciar projetos online e colaborar com a
+           Trello
+                                              equipe à distância, graças ao formato inspirado no método Kanban —
+                                              sistema de controle de processos por meio de cartões que surgiu na
+                                              indústria japonesa e faz parte dos métodos ágeis modernos.
+                                              A Zoom é a ferramenta de videoconferência mais popular entre as
+                                              empresas e líder de mercado na categoria. Ela permite que você faça
+                                              reuniões online com até 1000 participantes de uma vez, compartilhe a
+            Zoom
+                                              tela do computador, grave as chamadas e ainda use recursos
+                                              colaborativos como agendamento integrado e co-anotações em quadro
+                                              branco.
+                                              O Microsoft Teams vem ganhando espaço no mercado de ferramentas
+                                              colaborativas pela praticidade e variedade de recursos. A plataforma
+                                              permite fazer reuniões online por vídeo com até 250 pessoas e oferece 10
+Microsoft Teams
+                                              GB de espaço de armazenamento para arquivos da equipe, além de incluir
+                                              o compartilhamento de tela e edição colaborativa de documentos do
+                                              Microsoft Word, PowerPoint e OneNote.
+                                              O Asana é mais uma opção para manter a equipe conectada, gerenciar
+                                              projetos e administrar prioridades no home office. A plataforma inclui
+                                              recursos como metas, formulários, automatização de tarefas de rotina,
+           Asana                              cronogramas, portfólios e várias outras funções que dão uma visão
+                                              completa do trabalho e otimizam a colaboração.
+
+    (PRODEB – 2018) Ferramentas de colaboração são soluções tecnológicas
+    implementadas no ambiente de trabalho que ajudam a melhorar a produtividade das
+    empresas e de pessoas. Para o funcionamento dessas ferramentas, deve-se utilizar
+    estratégias colaborativas que aproveitem dos benefícios da Cloud Computing e da
+    mobilidade. Os benefícios do uso das ferramentas de colaboração são extremamente
+    positivos. Assinale a alternativa INCORRETA sobre esses benefícios.
+
+    a) Compartilhamento de arquivos.
+    b) Desenvolvimento coletivo de tarefas.
+    c) Visão panorâmica do desenvolvimento de tarefas.
+    d) Disponibilidade de recursos em todo tempo e em todo lugar.
+    e) Uso exclusivo para fins profissionais
+    _______________________
+    Comentários: todos esses são benefícios das ferramentas de colaboração, exceto o uso exclusivo para fins profissionais – a
+    maioria dos usuários, inclusive, são usuários domésticos e, não, profissionais (Errado).
+
+       Receita Federal (Analista Tributário) Fluência em Dados                                                                   37
+       www.estrategiaconcursos.com.br                                                                                            101
+
+                                        
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 00
+
+                                                         RESUMO
+
+                      DEFINIÇÃO
+
+A Computação em Nuvem pode ser definida como um
+conjunto de recursos virtuais facilmente utilizáveis e
+acessíveis, tais como hardware, plataforma de
+desenvolvimento, serviços, data centers e servidores
+distribuídos em diferentes posições geográficas pelo
+mundo.
+
+     CARACTERÍSTICA                                                         DESCRIÇÃO
+        SERVIÇOS             Os serviços de nuvem monitoram todos os recursos de tecnologia de modo a otimizá-los da melhor maneira
+      MENSURÁVEIS            possível e de forma transparente tanto para o fornecedor quanto para o consumidor dos serviços.
+
+      ELASTICIDADE           A elasticidade rápida é a capacidade de um sistema de se adaptar a uma variação na carga de trabalho quase
+          RÁPIDA             instantaneamente – de forma automática e transparente.
+
+      AMPLO ACESSO           Todas as funcionalidades estão disponíveis através da rede e são acessíveis por meio de mecanismos que
+          À REDE             promovem o uso de plataformas heterogêneas (smartphones, laptops, tablets, etc).
+
+      AGRUPAMENTO            Recursos computacionais devem ser agrupados para servir a múltiplos consumidores, com recursos físicos e
+       DE RECURSOS           virtuais sendo arranjados e rearranjados dinamicamente conforme a demanda desses consumidores.
+
+      AUTOSSERVIÇO           O autosserviço sob Demanda trata da capacidade de fornecer funcionalidades computacionais de maneira
+      SOB DEMANDA            automática, sem que haja a necessidade de o usuário interagir com provedor de serviço.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                      38
+        www.estrategiaconcursos.com.br                                                                                              101
+
+                                         
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 00
+
+    MODELO DE NUVEM                            DESCRIÇÃO
+         IaaS               Trata-se da capacidade que o provedor tem de
+  Infrastructure as a       oferecer uma infraestrutura de processamento e
+                            armazenamento de forma transparente.
+        Service
+                            Trata-se da capacidade oferecida pelo provedor
+        PaaS                para o desenvolvimento de aplicativos que serão
+ Platform as a Service      executados e disponibilizados na nuvem.
+
+                            Trata-se de aplicativos de internet, armazenados
+        SaaS                em nuvem, que fornecem uma série de serviços sob
+ Software as a Service      demanda com potencial de escala global via
+                            navegador web.
+
+
+Modelos de implantação                                        ==219a34==
+
+                                                                           DESCRIÇÃO
+                            Esse modelo de implantação apresenta uma série de serviços de computação oferecidos por terceiros à
+                            Internet pública, os quais são disponibilizados a qualquer pessoa que queira utilizá-los ou comprá-los.
+
+     NUVEM PÚBLICA          Entre as vantagens da utilização de nuvens públicas, podemos mencionar: custos reduzidos (sem necessidade
+                            de investimento em hardware), alta escalabilidade, manutenção e atualizações gerenciadas pelo provedor. Já
+                            entre as desvantagens, nós temos: menor controle sobre a infraestrutura e potencialmente menos segurança
+                            em comparação com as nuvens privadas (dependendo do caso de uso).
+                            Esse modelo de implantação apresenta uma série de serviços de computação em nuvem oferecidos pela
+                            Internet ou por uma rede interna privada somente a usuários selecionados e não ao público geral.
+
+     NUVEM PRIVADA          Entre as vantagens da utilização de nuvens privadas, podemos mencionar: maior controle e personalização,
+                            segurança aprimorada, e melhor conformidade com políticas internas e regulamentações externas. Já entre
+                            as desvantagens, nós temos: custos mais elevados devido à necessidade de comprar e manter a
+                            infraestrutura, menos escalabilidade em comparação com as nuvens públicas.
+                            Esse modelo de implantação apresenta uma combinação de outros modelos de implantação, permitindo que
+                            os dados e aplicativos sejam compartilhados entre elas.
+
+     NUVEM HÍBRIDA          Entre as vantagens da utilização de nuvens híbridas, podemos mencionar: apresenta maior flexibilidade para
+                            escolher onde colocar os recursos computacionais com base em necessidades específicas, equilíbrio entre
+                            controle e escalabilidade, e otimização de custos. Já entre as desvantagens, temos: pode ser mais complexa
+                            para gerenciar e requer uma integração eficaz entre ambas as plataformas.
+                            Esse modelo de implantação é compartilhado por várias organizações com requisitos e interesses comuns
+                            (como missão, política e segurança).
+
+   Nuvem comunitária        Entre as vantagens da utilização de nuvens comunitárias, podemos mencionar: custos compartilhados,
+                            atende a requisitos específicos do setor ou da comunidade, e pode oferecer melhor segurança do que a nuvem
+                            pública. Já entre as desvantagens, temos: trata-se de um tipo de implantação menos escalável que a nuvem
+                            pública, e os custos podem ser maiores do que na nuvem privada se a comunidade for pequena.
+
+
+                                               DEFINIÇÃO ARMAZENAMENTO EM NUVEM
+Trata-se do armazenamento virtualizado ou – colocado de maneira mais simples – trata-se de backup online. Esse termo define recursos
+que permitem a um usuário de Internet, em qualquer lugar, com qualquer sistema operacional e qualquer dispositivo de hardware possa
+acessar arquivos na Internet em sites que permitem o armazenamento de cópias de segurança.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                                     39
+        www.estrategiaconcursos.com.br                                                                                             101
+
+                                         
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 00
+
+    FERRAMENTA            LOGO                                          DESCRIÇÃO
+                                         Esse pacote profissional do Google inclui os famosos Google
+                                         Documentos, Google Planilhas, Google Agenda, Google Apresentações,
+        Google                           Google Drive e outras aplicações que permitem a criação e edição de
+     workspace                           arquivos na nuvem.
+
+                                         Microsoft 365 é uma versão online por assinatura da suíte de aplicativos
+                                         para escritório/produtividade Microsoft Office, focado no trabalho
+                                         colaborativo simultâneo de uma grande equipe e na segurança, lançado
+      Office 365                         em junho de 2011 desenvolvido pela empresa Microsoft.
+
+                                         O Trello já se consagrou como uma das plataformas de produtividade
+                                         mais utilizadas no mundo dos negócios. A grande vantagem dessa
+                                         ferramenta é a facilidade em gerenciar projetos online e colaborar com a
+           Trello
+                                         equipe à distância, graças ao formato inspirado no método Kanban —
+                                         sistema de controle de processos por meio de cartões que surgiu na
+                                         indústria japonesa e faz parte dos métodos ágeis modernos.
+                                         A Zoom é a ferramenta de videoconferência mais popular entre as
+                                         empresas e líder de mercado na categoria. Ela permite que você faça
+                                         reuniões online com até 1000 participantes de uma vez, compartilhe a
+            Zoom
+                                         tela do computador, grave as chamadas e ainda use recursos
+                                         colaborativos como agendamento integrado e co-anotações em quadro
+                                         branco.
+                                         O Microsoft Teams vem ganhando espaço no mercado de ferramentas
+                                         colaborativas pela praticidade e variedade de recursos. A plataforma
+                                         permite fazer reuniões online por vídeo com até 250 pessoas e oferece 10
+Microsoft Teams
+                                         GB de espaço de armazenamento para arquivos da equipe, além de incluir
+                                         o compartilhamento de tela e edição colaborativa de documentos do
+                                         Microsoft Word, PowerPoint e OneNote.
+                                         O Asana é mais uma opção para manter a equipe conectada, gerenciar
+                                         projetos e administrar prioridades no home office. A plataforma inclui
+                                         recursos como metas, formulários, automatização de tarefas de rotina,
+           Asana                         cronogramas, portfólios e várias outras funções que dão uma visão
+                                         completa do trabalho e otimizam a colaboração.
+
+  PARA MAIS DICAS:                    www.instagram.com/professordiegocarvalho
+
+
+       Receita Federal (Analista Tributário) Fluência em Dados                                                 40
+       www.estrategiaconcursos.com.br                                                                          101
+
+                                   
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+                                         MAPA MENTAL
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        41
+      www.estrategiaconcursos.com.br                                                 101
+
+                                  
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+                                                     ==219a34==
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        42
+      www.estrategiaconcursos.com.br                                                 101
+
+                                  
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        43
+      www.estrategiaconcursos.com.br                                                 101
+
+                                  
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        44
+      www.estrategiaconcursos.com.br                                                 101
+
+                                  
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 00
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        45
+      www.estrategiaconcursos.com.br                                                 101
+
+                                  
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                      QUESTÕES COMENTADAS – CESPE
+1. (CESPE / TCE-AC – 2024) Na infraestrutura como serviço (IaaS), a camada de virtualização é
+   responsável por permitir o compartilhamento de determinados recursos de hardware entre
+   várias máquinas virtuais diferentes.
+
+Comentários:
+
+Na Infraestrutura como Serviço (IaaS), a camada de virtualização gerencia e compartilha recursos
+físicos, como processamento, memória e armazenamento, entre várias máquinas virtuais. Isso
+permite o isolamento dos ambientes e a utilização eficiente do hardware subjacente.
+
+                                                                                       Gabarito: Correto
+
+2. (CESPE / TCE-AC – 2024) O modelo IaaS proíbe a virtualização da camada de
+   armazenamento (storage).
+
+Comentários:
+
+No modelo Infraestrutura como Serviço (IaaS), a virtualização da camada de armazenamento
+(storage) é amplamente utilizada para fornecer flexibilidade, escalabilidade e isolamento entre
+diferentes usuários. Serviços como Amazon EBS e Google Persistent Disk são exemplos de
+armazenamento virtualizado no IaaS.
+
+                                                                                       Gabarito: Errado
+
+3. (CESPE / CAGEPA-PB – 2024) Assinale a opção correta acerca da computação em nuvem.
+
+   a) No modelo de nuvem SaaS, aplicação e banco de dados são geridos pelo cliente.
+   b) Serviços de comunicação por vídeo e VoIP operam em nuvem do tipo IaaS.
+   c) Em uma nuvem PaaS, servidores, rede, sistema operacional e armazenamento são
+   gerenciados pelo cliente.
+   d) Na nuvem híbrida, os serviços estão disponíveis para qualquer cliente e os recursos são
+   controlados pelo provedor.
+   e) Segurança, integração e padronização são os três itens mais desafiadores para a
+   implementação da computação em nuvem.
+
+Comentários:
+
+(a) Errado. No modelo Software como Serviço (SaaS), tanto a aplicação quanto o banco de dados
+são gerenciados pelo provedor, e não pelo cliente;
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      46
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+(b) Errado. Serviços de comunicação por vídeo e VoIP geralmente operam no modelo Software
+como Serviço (SaaS) ou Plataforma como Serviço (PaaS), e não diretamente em Infraestrutura como
+Serviço (IaaS);
+
+(c) Errado. No modelo Plataforma como Serviço (PaaS), servidores, rede, sistema operacional e
+armazenamento são gerenciados pelo provedor, enquanto o cliente foca no desenvolvimento das
+aplicações;
+
+(d) Errado. Na nuvem híbrida, há uma combinação de nuvens públicas e privadas, mas os recursos
+não são necessariamente acessíveis a qualquer cliente, pois podem ser restritos a uma organização
+específica;
+
+(e) Correto. Segurança, integração e padronização são desafios críticos na computação em nuvem,
+pois envolvem proteção de dados, compatibilidade entre sistemas e conformidade com normas e
+regulamentações.
+
+                                                                                       Gabarito: Letra E
+
+4. (CESPE / Prefeitura de Mossoró - RN – 2024) O OneDrive permite que o usuário armazene
+   arquivos pessoais na nuvem da Microsoft. Por motivos de segurança, tais arquivos não
+   podem ser compartilhados com outros usuários.
+
+Comentários:
+
+O OneDrive permite o armazenamento de arquivos na nuvem da Microsoft e oferece
+funcionalidades de compartilhamento. O usuário pode definir permissões para que outras pessoas
+visualizem ou editem os arquivos, garantindo controle sobre a segurança e o acesso aos dados.
+
+                                                                                       Gabarito: Errado
+
+5. (CESPE / SEFAZ-AC – 2024) Para o armazenamento de arquivos diversos em nuvem, é
+   correto o uso do
+
+   a) Google Chrome.
+   b) Mozila Thunderbird.
+   c) OneDrive.
+   d) Spotify.
+   e) NordVPN.
+
+Comentários:
+
+(a) Errado. Google Chrome é um navegador web e não um serviço de armazenamento em nuvem;
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      47
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+(b) Errado. Mozilla Thunderbird é um cliente de e-mail, não uma plataforma para armazenamento
+de arquivos em nuvem;
+
+(c) Correto. OneDrive é um serviço de armazenamento em nuvem da Microsoft, permitindo salvar
+e sincronizar arquivos entre dispositivos;
+
+(d) Errado. Spotify é um serviço de streaming de música, não destinado ao armazenamento geral
+de arquivos;
+
+(e) Errado. NordVPN é um serviço de VPN que melhora a segurança e privacidade online, mas não
+armazena arquivos em nuvem.
+
+                                                                                       Gabarito: Letra C
+
+6. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) As nuvens privadas sempre
+   oferecem menos escalabilidade em comparação com a infraestrutura local, uma vez que elas
+   são recursos de computação em nuvem usados exclusivamente por uma única empresa.
+
+Comentários:
+
+Embora as nuvens privadas sejam usadas exclusivamente por uma única empresa, elas podem ser
+altamente escaláveis, dependendo da infraestrutura implementada. Além disso, podem utilizar
+tecnologias de cloud bursting ou integração com nuvens públicas para aumentar sua capacidade
+conforme necessário. Já uma infraestrutura local tradicional (on-premises) tende a ter limitações
+maiores de escalabilidade devido a restrições físicas e financeiras.
+
+                                                                                       Gabarito: Errado
+
+7. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Em comparação com o IaaS
+   (infraestrutura como serviço), o SaaS (software como serviço) é a modalidade de
+   computação em nuvem que oferece menos recursos; nela são ofertadas ao usuário somente
+   soluções fundamentais de computação e de armazenamento sob demanda e pagas
+   conforme o uso.
+
+Comentários:
+
+No modelo Software como Serviço (SaaS), o usuário tem acesso a aplicações completas hospedadas
+na nuvem, sem necessidade de gerenciar infraestrutura ou armazenamento. O IaaS oferece mais
+controle sobre recursos de computação, mas o SaaS entrega soluções prontas, como e-mail,
+ferramentas de produtividade e CRMs.
+
+                                                                                       Gabarito: Errado
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      48
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+8. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Uma das formas de fazer becape
+   de arquivos é armazená-los na nuvem.
+
+Comentários:
+
+O armazenamento em nuvem é uma das formas mais utilizadas para backup, garantindo acesso
+remoto, segurança e redundância dos arquivos. Serviços como Google Drive, OneDrive e Dropbox
+permitem sincronizar e restaurar dados facilmente.
+
+                                                                                       Gabarito: Correto
+
+9. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) O Windows 10 é um aplicativo
+   da Microsoft que permite controlar todos os aspectos da computação em nuvem.
+
+Comentários:
+
+O Windows 10 é um sistema operacional da Microsoft, não um aplicativo específico para gerenciar
+todos os aspectos da computação em nuvem. Embora tenha integração com serviços em nuvem,
+como OneDrive e Azure, ele não é projetado para controle total da nuvem.
+
+                                                                                       Gabarito: Errado
+
+10. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Uma nuvem híbrida é um
+    ambiente de computação misto onde aplicativos são executados usando uma combinação
+    de computação, armazenamento e serviços em diferentes ambientes, tais como nuvens
+    públicas e privadas e data centers.
+
+Comentários:
+
+A nuvem híbrida combina recursos de nuvem pública, nuvem privada e data centers locais para
+oferecer maior flexibilidade, escalabilidade e controle. Esse modelo permite que as organizações
+distribuam cargas de trabalho conforme suas necessidades de segurança, desempenho e custo.
+
+                                                                                       Gabarito: Correto
+
+11. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Na PaaS (plataforma como um
+    serviço), as organizações não precisam gerenciar a infraestrutura de hardware e de sistemas
+    operacionais.
+
+Comentários:
+
+No modelo Plataforma como Serviço (PaaS), a infraestrutura de hardware, redes e sistemas
+operacionais é gerenciada pelo provedor de nuvem. As organizações focam apenas no
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      49
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+desenvolvimento, execução e gerenciamento de aplicativos, sem se preocupar com a manutenção
+do ambiente subjacente.
+
+                                                                                       Gabarito: Correto
+
+12. (CESPE / ANVISA – 2024) Como a nuvem é pública, a infraestrutura é fornecida por meio de
+    recursos compartilhados e com acesso à Internet.
+
+Comentários:
+
+Em um modelo de nuvem pública, a infraestrutura de computação é compartilhada entre múltiplos
+usuários e acessível via Internet. Esses recursos são fornecidos por provedores como AWS, Microsoft
+Azure e Google Cloud, oferecendo escalabilidade e custo reduzido.
+
+                                                                                       Gabarito: Correto
+
+13. (CESPE / ANVISA – 2024) O custo da nuvem pública pode ser considerado variável, pois
+    depende do acordo de utilização, e isso pode ser definido de forma prévia, mediante
+    contrato com o provedor de nuvem.
+
+Comentários:
+
+O custo da nuvem pública é variável, pois depende do consumo de recursos como processamento,
+armazenamento e largura de banda. Os provedores oferecem diferentes planos e modelos de
+precificação (pay-as-you-go ou assinaturas), permitindo que os custos sejam previstos e acordados
+previamente em contrato.
+
+                                                                                       Gabarito: Correto
+
+14. (CESPE / ANVISA – 2024) Uma vez que o serviço da ANVISA que permite emitir o certificado
+    internacional de vacinação está disponível na Web, tal como apresentado na figura
+    precedente, é correto concluir que o site da ANVISA está hospedado na nuvem através de
+    um serviço de PaaS (platform as a service).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      50
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Comentários:
+
+O fato de um site estar disponível na web não implica necessariamente que ele está hospedado em
+um serviço de Plataforma como Serviço (PaaS). O site da ANVISA pode estar hospedado em um
+serviço de Infraestrutura como Serviço (IaaS), em servidores dedicados ou mesmo em uma nuvem
+privada do governo. O PaaS é mais utilizado para desenvolvimento e hospedagem de aplicações,
+fornecendo um ambiente gerenciado para desenvolvedores.
+
+                                                                                       Gabarito: Errado
+
+15. (CESPE / MPE-GO – 2024) Dropbox e Google Drive são repositórios públicos que permitem
+    a transferência de arquivos entre computadores, via Internet, utilizando os protocolos ARP
+    e ICMP.
+
+Comentários:
+
+Dropbox e Google Drive são serviços de armazenamento em nuvem que permitem a sincronização
+e transferência de arquivos via Internet. No entanto, eles utilizam protocolos como HTTP/HTTPS e
+FTP para comunicação e transferência de dados, e não ARP (usado para resolução de endereços
+MAC) ou ICMP (usado para diagnóstico de redes, como no comando ping).
+
+                                                                                       Gabarito: Errado
+
+16. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Para se utilizar o OneDrive da
+    Microsoft de forma sincronizada, é necessário que haja uma conta pessoal, corporativa ou
+    de estudante configurada para uso.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                     51
+        www.estrategiaconcursos.com.br                                                              101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Para utilizar o OneDrive da Microsoft de forma sincronizada, é necessário ter uma conta da
+Microsoft, que pode ser pessoal, corporativa (Microsoft 365 Business) ou de estudante (Microsoft 365
+Education). Essa conta permite acessar, armazenar e sincronizar arquivos na nuvem entre diferentes
+dispositivos.
+
+                                                                                       Gabarito: Correto
+
+17. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Considere que o acesso ao
+    Microsoft Office 365 se dará exclusivamente por meio de browser e que os documentos
+    editados devem ser salvos na solução nativa da Microsoft na nuvem. Nessa situação, o Excel
+    365, que faz parte do Microsoft Office 365, constitui um exemplo de aplicação do modelo
+    PaaS (plataforma como serviço) na cloud computing.
+
+Comentários:
+
+O Excel 365, parte do Microsoft Office 365, é um exemplo do modelo Software como Serviço (SaaS),
+pois oferece uma aplicação completa acessível via navegador, sem necessidade de instalação ou
+gerenciamento de infraestrutura pelo usuário. No modelo PaaS (Plataforma como Serviço), o foco
+está no fornecimento de um ambiente para desenvolvimento e execução de aplicações, não em
+softwares prontos para uso.
+
+                                                                                       Gabarito: Errado
+
+18. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) O OneDrive permite que sejam
+    selecionadas pastas específicas de arquivos do computador para serem sincronizadas e
+    utilizadas via Web.
+
+Comentários:
+
+O OneDrive permite que o usuário escolha pastas específicas do computador para sincronização
+automática com a nuvem. Isso possibilita o acesso remoto aos arquivos via web e a sincronização
+entre múltiplos dispositivos.
+
+                                                                                       Gabarito: Correto
+
+19. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Para se utilizar o recurso de
+    armazenamento na nuvem do OneDrive, o usuário deve estar conectado a sua conta da
+    Microsoft.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      52
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Para utilizar o armazenamento em nuvem do OneDrive, é necessário estar autenticado em uma
+conta da Microsoft (pessoal, corporativa ou educacional). Isso garante o acesso aos arquivos
+sincronizados e a utilização dos serviços de backup e compartilhamento.
+
+                                                                                       Gabarito: Correto
+
+20. (CESPE / MPE-TO – 2024) Ao se armazenar determinado arquivo em uma nuvem
+    computacional pública, o acesso a esse arquivo passa a ser feito por meio da Internet.
+
+Comentários:
+
+Em uma nuvem pública, os arquivos armazenados podem ser acessados via Internet, desde que o
+usuário tenha as credenciais necessárias. Serviços como Google Drive, OneDrive e Dropbox
+permitem esse acesso remoto, garantindo sincronização e compartilhamento de arquivos.
+
+                                                                                       Gabarito: Correto
+
+21. (CESPE / MPE-TO – 2024) Ainda que se faça a opção pelo armazenamento de dados em
+    nuvem, é necessária a realização regular de backup, para evitar a perda de dados.
+
+Comentários:
+
+Embora o armazenamento em nuvem ofereça redundância e alta disponibilidade, ele não substitui
+totalmente a necessidade de backups regulares. Falhas humanas, exclusões acidentais, ataques
+cibernéticos ou problemas técnicos podem comprometer os dados, tornando essencial a criação de
+cópias de segurança.
+
+                                                                                       Gabarito: Correto
+
+22. (CESPE / MPE-TO – 2024) Na computação em nuvem, os recursos de computação ficam
+    hospedados em um data center remoto e são disponibilizados à medida que são utilizados.
+
+Comentários:
+
+Na computação em nuvem, os recursos como processamento, armazenamento e rede são
+hospedados em data centers remotos e disponibilizados sob demanda. O modelo de pagamento
+geralmente segue o conceito pay-as-you-go, permitindo escalabilidade conforme a necessidade do
+usuário.
+
+                                                                                       Gabarito: Correto
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      53
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+23. (CESPE / MPE-TO – 2024) Dos modelos de serviços em nuvem, o SaaS (software as a service)
+    é aquele que fornece aos usuários o controle do nível mais baixo dos recursos de
+    computação na nuvem.
+
+Comentários:
+
+No modelo Software como Serviço (SaaS), os usuários não têm controle sobre a infraestrutura
+subjacente, incluindo servidores, armazenamento e sistemas operacionais. Esse controle é maior
+no Infraestrutura como Serviço (IaaS), onde o usuário gerencia recursos como máquinas virtuais,
+redes e armazenamento.
+
+                                                                                       Gabarito: Errado
+
+24. (CESPE / MPE-TO – 2024) A nuvem privada é um ambiente de nuvem que combina vários
+    benefícios de computação em nuvem, mas não oferece elasticidade devido à natureza de
+    sua concepção.
+
+Comentários:
+
+Embora a nuvem privada seja dedicada a uma única organização, ela ainda pode oferecer
+elasticidade, dependendo da infraestrutura implementada. Tecnologias como virtualização e cloud
+bursting permitem escalabilidade, ajustando recursos conforme a demanda.
+
+                                                                                       Gabarito: Errado
+
+25. (CESPE / FNDE – 2024) Com o OneDrive, é possível compartilhar arquivos e pastas com
+    outros usuários, que podem acessá-los por meio de vários dispositivos diferentes.
+
+Comentários:
+
+O OneDrive permite o compartilhamento de arquivos e pastas com outros usuários, definindo
+permissões de visualização ou edição. Além disso, os arquivos podem ser acessados de diferentes
+dispositivos, como computadores, tablets e smartphones, via Internet.
+
+                                                                                       Gabarito: Correto
+
+26. (CESPE / TRT-8ª Região – 2024) As pastas no Google Drive podem ser compartilhadas com
+    vários usuários, que, assim, podem acessar, editar, excluir ou mover qualquer arquivo na
+    pasta se tiverem feito login nas respectivas contas no Google. Nesse caso, se um arquivo de
+    uma pasta compartilhada for excluído por um usuário que não seja o proprietário, esse
+    arquivo
+
+   a) poderá ser acessado somente pelo proprietário.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      54
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+   b) será excluído para todos, inclusive para o proprietário.
+   c) será excluído para todos e somente poderá ser acessado pelo usuário que tiver feito a
+   exclusão.
+   d) não poderá ser acessado somente pelo usuário que fez a exclusão.
+   e) será marcado para exclusão, podendo ser excluído de forma definitiva pelo proprietário.
+
+Comentários:
+
+No Google Drive, quando uma pasta é compartilhada com permissões de edição, qualquer usuário
+autorizado pode modificar, mover ou excluir arquivos dentro dela. Se um usuário que não seja o
+proprietário excluir um arquivo da pasta compartilhada, esse arquivo será excluído para todos,
+incluindo o proprietário. No entanto, ele pode ser recuperado da lixeira dentro do prazo
+estabelecido pelo Google.
+
+                                                                                       Gabarito: Letra B
+
+27. (CESPE / DATAPREV – 2024) O IaaS é o serviço de computação em nuvem que utiliza um
+    modelo de pagamento por demanda, de maneira que o cliente paga apenas pelos serviços
+    utilizados.
+
+Comentários:
+
+No modelo Infraestrutura como Serviço (IaaS), os recursos de computação, como servidores,
+armazenamento e redes, são fornecidos sob demanda. O cliente paga apenas pelos serviços
+utilizados, seguindo o modelo pay-as-you-go, o que permite escalabilidade e otimização de custos.
+
+                                                                                       Gabarito: Correto
+
+28. (CESPE / EMPREL – 2024) Na computação em nuvem, quando o gerenciamento do espaço
+    em disco e do sistema operacional é de responsabilidade do provedor, o serviço utilizado é
+    do tipo
+
+   a) contêiner como serviço (CaaS).
+   b) plataforma como serviço (PaaS).
+   c) infraestrutura como serviço (IaaS).
+   d) software como serviço (SaaS).
+   e) dado como serviço (DaaS).
+
+Comentários:
+
+(a) Errado. Contêiner como Serviço (CaaS) é um modelo focado na implantação e gerenciamento de
+contêineres, não necessariamente na administração do espaço em disco e sistema operacional;
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      55
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+(b) Correto. No modelo Plataforma como Serviço (PaaS), o provedor gerencia a infraestrutura,
+incluindo armazenamento, sistema operacional e middleware, permitindo que os desenvolvedores
+foquem apenas na criação de aplicações;
+
+(c) Errado. No Infraestrutura como Serviço (IaaS), o provedor fornece máquinas virtuais, rede e
+armazenamento, mas o gerenciamento do sistema operacional pode ser de responsabilidade do
+cliente;
+
+(d) Errado. No Software como Serviço (SaaS), o usuário acessa aplicações completas sem gerenciar
+infraestrutura ou sistema operacional;
+
+(e) Errado. Dado como Serviço (DaaS) refere-se ao fornecimento de dados sob demanda, não ao
+gerenciamento de infraestrutura ou sistemas operacionais.
+
+                                                                                       Gabarito: Letra B
+
+29. (CESPE / EMPREL – 2024) Em computação em nuvem, quando uma organização monta e
+    fornece serviços para outras empresas, ela está utilizando o modelo de nuvem do tipo
+
+   a) proprietária.
+   b) híbrida.
+   c) pública.
+   d) comunidade.
+   e) privada.
+
+Comentários:
+
+(a) Errado. Nuvem proprietária não é um termo técnico amplamente utilizado. O termo correto para
+uma nuvem de uso exclusivo de uma organização é nuvem privada;
+
+(b) Errado. Nuvem híbrida combina nuvens públicas e privadas, mas a questão não menciona essa
+combinação;
+
+(c) Correto. Quando uma organização fornece serviços para outras empresas, ela está operando
+uma nuvem pública, onde os recursos são disponibilizados sob demanda para múltiplos clientes;
+
+(d) Errado. Nuvem de comunidade é compartilhada entre várias organizações com interesses
+comuns, o que não se aplica à situação descrita;
+
+(e) Errado. Nuvem privada é de uso exclusivo de uma única organização, sem ser fornecida como
+serviço para outras empresas.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      56
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                                                                                       Gabarito: Letra C
+
+30. (CESPE / FNDE – 2024) Com o OneDrive, é possível compartilhar arquivos e pastas com
+    outros usuários, que podem acessá-los por meio de vários dispositivos diferentes.
+
+Comentários:
+
+O OneDrive permite o compartilhamento de arquivos e pastas com outros usuários, concedendo
+permissões de visualização ou edição. Além disso, os arquivos podem ser acessados de diversos
+dispositivos, como computadores, tablets e smartphones, via Internet.
+
+                                                                                       Gabarito: Correto
+
+31. (CESPE / SEFIN de Fortaleza – 2023) A principal diferença existente entre os modelos
+    públicos e os modelos privados de implantação de nuvem é que os privados são de uso
+    exclusivo de uma determinada organização e devem necessariamente ser operados e
+    geridos pela própria organização.
+
+Comentários:
+
+Embora a nuvem privada seja de uso exclusivo de uma organização, sua operação e gerenciamento
+não precisam ser feitos internamente. Empresas podem optar por gerenciá-la internamente (on-
+premises) ou contratar um provedor terceirizado para administrá-la. Já a nuvem pública é
+disponibilizada para múltiplos usuários e gerenciada pelo provedor de serviços.
+
+                                                                                       Gabarito: Errado
+
+32. (CESPE / SEFIN de Fortaleza – 2023) Em um modelo de computação em nuvem do tipo IaaS,
+    o provedor do serviço é responsável por proteger toda a infraestrutura, além do sistema
+    operacional e dos dados dos clientes.
+
+Comentários:
+
+No modelo Infraestrutura como Serviço (IaaS), o provedor é responsável pela segurança da
+infraestrutura física, incluindo servidores, rede e armazenamento. No entanto, o gerenciamento do
+sistema operacional, das aplicações e dos dados armazenados é responsabilidade do cliente. Esse
+conceito segue o modelo de responsabilidade compartilhada adotado pelos principais provedores
+de nuvem.
+
+                                                                                       Gabarito: Errado
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      57
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+33. (CESPE / SEFIN de Fortaleza – 2023) Certo analista fazendário recebeu arquivo em formato
+    pdf e deverá aproveitar parte das informações e dos dados constantes do arquivo para
+    elaborar parecer técnico.
+
+   Considerando essa situação hipotética, julgue o item seguinte.
+
+   O analista poderá salvar o arquivo recebido na nuvem, pois este serviço permite ao usuário
+   armazenar e acessar arquivos e dados remotamente.
+
+Comentários:
+
+Serviços de armazenamento em nuvem, como Google Drive, OneDrive e Dropbox, permitem que os
+usuários salvem arquivos e acessem seus dados remotamente de qualquer dispositivo com conexão
+à Internet. Isso facilita o acesso e a colaboração em documentos.
+
+                                                                                       Gabarito: Correto
+
+34. (CESPE / SEFIN de Fortaleza – 2023) Após uma diligência, certo auditor fiscal deverá criar
+    relatório reportando o caso e, em seguida, encaminhar o relatório para o órgão responsável,
+    junto com a documentação comprobatória.
+
+   Considerando a situação hipotética apresentada, julgue o item a seguir.
+
+   Para evitar que se perca o trabalho de criação do relatório, o auditor poderá armazenar o
+   respectivo arquivo tanto em seu computador quanto na nuvem.
+
+Comentários:
+
+O auditor pode armazenar o relatório tanto localmente em seu computador quanto na nuvem,
+garantindo redundância e segurança contra perda de dados. O armazenamento em nuvem
+possibilita acesso remoto e backup automático, reduzindo o risco de perda em caso de falha no
+computador.
+
+                                                                                       Gabarito: Correto
+
+35. (CESPE / SEFIN de Fortaleza – 2023) Certo analista fazendário recebeu arquivo em formato
+    pdf e deverá aproveitar parte das informações e dos dados constantes do arquivo para
+    elaborar parecer técnico.
+
+   Considerando essa situação hipotética, julgue o item seguinte.
+
+   O analista poderá salvar o arquivo recebido na nuvem, pois este serviço permite ao usuário
+   armazenar e acessar arquivos dados remotamente.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      58
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Comentários:
+
+Serviços de armazenamento em nuvem, como Google Drive, OneDrive e Dropbox, permitem que
+usuários armazenem e acessem arquivos remotamente de qualquer dispositivo conectado à
+Internet. Isso facilita a organização, o compartilhamento e a segurança dos documentos.
+
+                                                                                       Gabarito: Correto
+
+36. (CESPE / PC-AL – 2023) Considere que, em uma delegacia, seja necessário compartilhar um
+    local de armazenamento de arquivos, de modo que agentes e delegado acessem e
+    armazenem arquivos que sejam sincronizados e acessíveis em qualquer dispositivo. Nesse
+    caso, a contratação de serviço de armazenamento na nuvem, como iCloud, Google Drive,
+    Dropbox, entre outros, atenderia aos requisitos e facilitaria o compartilhamento para todos
+    os envolvidos.
+
+Comentários:
+
+Serviços de armazenamento em nuvem, como iCloud, Google Drive e Dropbox, permitem o
+compartilhamento e a sincronização de arquivos entre usuários autorizados, tornando-os acessíveis
+de qualquer dispositivo conectado à Internet. Isso facilita a colaboração e o acesso remoto aos
+documentos armazenados.
+
+                                                                                       Gabarito: Correto
+
+37. (CESPE / SEFIN de Fortaleza – 2023) A respeito de computação em nuvem, assinale a opção
+    correta.
+
+   a) O uso doméstico da computação em nuvem ainda não é possível, porque esse recurso
+   está disponível exclusivamente para empresas e organizações.
+   b) O Gmail é um exemplo de aplicação em nuvem, pois o sistema de gerenciamento de
+   emails fica armazenado nos servidores do prestador do serviço.
+   c) Os serviços de computação em nuvem são disponibilizados apenas mediante
+   pagamento.
+   d) O Microsoft Office 365 não dispõe de aplicações em nuvem, pois só é possível utilizar os
+   softwares desse pacote que estejam instalados no computador.
+
+Comentários:
+
+(a) Errado. A computação em nuvem está amplamente disponível para usuários domésticos, com
+serviços como Google Drive, OneDrive, Dropbox e Gmail acessíveis gratuitamente;
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      59
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+(b) Correto. O Gmail é um exemplo de Software como Serviço (SaaS), pois todo o gerenciamento de
+e-mails ocorre nos servidores do Google, sem necessidade de instalação local;
+
+(c) Errado. Existem serviços de computação em nuvem gratuitos e pagos, como Google Drive e
+OneDrive, que oferecem armazenamento sem custo até um certo limite;
+
+(d) Errado. O Microsoft Office 365 possui versões baseadas em nuvem, como Word Online e Excel
+Online, que podem ser acessadas sem necessidade de instalação local.
+
+                                                                                       Gabarito: Letra B
+
+38. (CESPE / CNMP – 2023) No OneDrive, um arquivo poderá ser aberto no modo online e, se
+    necessário, ser editado em modo offline.
+
+Comentários:
+
+No OneDrive, um arquivo pode ser aberto e editado no modo online por meio do navegador. Além
+disso, se o usuário tiver a sincronização ativada, poderá acessar e editar o arquivo no modo offline,
+com as alterações sendo sincronizadas automaticamente quando houver conexão com a Internet.
+
+                                                                                       Gabarito: Correto
+
+39. (CESPE / CNMP – 2023) Sistemas de armazenamento em nuvem permitem que usuários
+    façam backup de arquivos gerais de maneira online.
+
+Comentários:
+
+Sistemas de armazenamento em nuvem, como Google Drive, OneDrive e Dropbox, permitem que os
+usuários realizem backup de arquivos online, garantindo segurança, acessibilidade e proteção
+contra perda de dados em caso de falha no dispositivo local.
+
+                                                                                       Gabarito: Correto
+
+40. (CESPE / CNMP – 2023) Uma das características do armazenamento em nuvem é a
+    elasticidade, ou seja, o usuário pode aumentar e diminuir a escala verticalmente, conforme
+    a demanda, e pagar apenas pelo que usa.
+
+Comentários:
+
+A elasticidade é uma característica fundamental do armazenamento em nuvem, permitindo que o
+usuário aumente ou reduza a capacidade de armazenamento de acordo com a demanda. Isso
+garante flexibilidade e otimização de custos, pois o pagamento geralmente ocorre no modelo pay-
+as-you-go (pague pelo que usar).
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      60
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                                                                                       Gabarito: Correto
+
+41. (CESPE / TJ-CE – 2023) Certo analista fazendário recebeu arquivo em formato pdf e deverá
+    aproveitar parte das informações e dos dados constantes do arquivo para elaborar parecer
+    técnico.
+
+   a) Google Drive, Dropbox
+   b) Facebook. Linkedin
+   c) Documentos, Downloads
+   d) Explorador de Arquivos, OneDrive
+   e) Office 365, Bing
+                                                       ==219a34==
+
+Comentários:
+
+(a) Correto. Google Drive e Dropbox são serviços de armazenamento em nuvem que permitem salvar
+e acessar arquivos de qualquer lugar, facilitando o trabalho do analista;
+
+(b) Errado. Facebook e LinkedIn são redes sociais e não oferecem recursos adequados para
+armazenamento e edição de documentos profissionais;
+
+(c) Errado. Documentos e Downloads são pastas locais do sistema operacional, que não oferecem
+acesso remoto ou sincronização automática;
+
+(d) Errado. Explorador de Arquivos é a interface do Windows para gerenciar arquivos locais,
+enquanto OneDrive é um serviço de nuvem, mas a alternativa não especifica um segundo serviço
+adequado para armazenamento em nuvem;
+
+(e) Errado. Office 365 inclui aplicativos de produtividade, mas Bing é um mecanismo de busca e não
+um serviço de armazenamento.
+
+                                                                                       Gabarito: Letra A
+
+42. (CESPE / SEE-PE – 2023) No Windows, é possível realizar a cópia de segurança dos arquivos
+    do usuário diretamente na nuvem, usando-se, para tanto, a função de sincronizar arquivos
+    com o OneDrive da Microsoft.
+
+Comentários:
+
+O Windows permite que o usuário sincronize automaticamente seus arquivos com o OneDrive,
+garantindo uma cópia de segurança na nuvem. Esse recurso protege contra perdas de dados e
+permite o acesso remoto aos arquivos em diferentes dispositivos.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      61
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                                                                                       Gabarito: Correto
+
+43. (CESPE / SEE-PE – 2023) É possível desabilitar a opção de notificação de comentários nas
+    postagens, sejam eles comentários que fazem referência ao professor ou comentários
+    particulares nas atividades.
+
+Comentários:
+
+Em diversas plataformas educacionais e de colaboração, como Google Classroom e Microsoft Teams,
+é possível desabilitar notificações de comentários nas postagens, incluindo menções ao professor
+ou comentários particulares em atividades. Isso pode ser feito nas configurações de notificação da
+plataforma.
+
+                                                                                       Gabarito: Correto
+
+44.(CESPE / SEE-PE – 2023) No Google Sala de Aula, para abrir os trabalhos enviados pelos
+   estudantes de uma mesma turma, é necessário selecionar a turma, clicar na atividade e, em
+   seguida, visualizar a lista consolidada de todas as atividades entregues.
+
+Comentários:
+
+No Google Sala de Aula, para acessar os trabalhos enviados pelos estudantes, o professor deve
+selecionar a turma, clicar na atividade desejada e, então, visualizar a lista consolidada com todas as
+entregas. Esse processo facilita a organização e correção das atividades.
+
+                                                                                       Gabarito: Correto
+
+45. (CESPE / SEE-PE – 2023) As notificações geradas pelo Google Sala de Aula são enviadas por
+    email para os estudantes.
+
+Comentários:
+
+O Google Sala de Aula envia notificações por e-mail para os estudantes sobre novas atividades,
+comentários de professores e atualizações importantes. No entanto, os alunos podem configurar
+suas preferências de notificação para ativar ou desativar esses alertas.
+
+                                                                                       Gabarito: Correto
+
+46.(CESPE / CAU-BR – 2024) Uma nuvem é considerada híbrida quando é utilizada por duas ou
+   mais organizações sem vínculo entre si.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      62
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Comentários:
+
+Uma nuvem é considerada híbrida quando combina infraestrutura de nuvem privada e pública,
+permitindo que dados e aplicativos sejam compartilhados entre elas. Este modelo oferece maior
+flexibilidade e opções de implantação. A definição apresentada descreve uma nuvem comunitária,
+que é utilizada por várias organizações com interesses ou requisitos comuns, sem necessariamente
+ter um vínculo direto entre si.
+
+                                                                                       Gabarito: Errado
+
+47. (CESPE / CAU-BR – 2024) Na modalidade IaaS (infrastructure as a service), o sistema
+    operacional e as aplicações instaladas podem ser controlados pelo próprio usuário.
+
+Comentários:
+
+Na modalidade IaaS (Infrastructure as a Service), os usuários têm controle sobre a infraestrutura
+virtualizada fornecida pelo provedor de serviços, incluindo servidores, armazenamento e redes. Isso
+inclui a capacidade de instalar, configurar e gerenciar o sistema operacional e as aplicações
+desejadas, oferecendo maior flexibilidade e controle sobre o ambiente de computação.
+
+                                                                                       Gabarito: Correto
+
+48.(CESPE / CAU-BR – 2024) A modalidade PaaS (plataform as a software) é indicada para
+   desenvolvedores de aplicações que operam na nuvem, pois oferece um ambiente de
+   desenvolvimento de software.
+
+Comentários:
+
+A modalidade PaaS (Platform as a Service) é indicada para desenvolvedores de aplicações que
+operam na nuvem, pois oferece um ambiente de desenvolvimento completo, incluindo
+infraestrutura, ferramentas de desenvolvimento, middleware, banco de dados e outros serviços.
+Isso permite que os desenvolvedores se concentrem na escrita e implementação de código sem se
+preocupar com a gestão da infraestrutura subjacente.
+
+                                                                                       Gabarito: Correto
+
+49.(CESPE / APEX Brasil – 2024) Em um dos modelos de computação em nuvem, o usuário não
+   precisa fazer mais do que usar a aplicação, sendo o provedor responsável pelo que estiver
+   associado com a criação e operação da aplicação, além de cuidar da segurança dos dados do
+   usuário e do ambiente como um todo. Esse modelo de computação em nuvem é denominado:
+
+   a) SaaS (software como serviço).
+   b) PaaS (plataforma como serviço).
+   c) FaaS (função como serviço).
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      63
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+   d) IaaS (infraestrutura como serviço).
+
+Comentários:
+
+(a) Correto. O modelo SaaS (Software as a Service) permite aos usuários acessar e usar aplicações
+de software que são hospedadas na nuvem, sem a necessidade de gerenciar a infraestrutura
+subjacente, desenvolvimento de aplicativos ou mesmo aspectos de segurança, que são todos
+administrados pelo provedor de serviços;
+
+(b) Errado. PaaS (Platform as a Service) fornece aos desenvolvedores uma plataforma e ambiente
+para criar aplicações e serviços. O usuário é responsável pelo desenvolvimento, enquanto o
+provedor cuida da infraestrutura;
+
+(c) Errado. FaaS (Function as a Service), também conhecido como serverless computing, é um
+modelo em que o usuário gerencia apenas o código da função enquanto o provedor cuida da
+execução, escalabilidade e manutenção do ambiente de execução;
+
+(d) Errado. IaaS (Infrastructure as a Service) oferece recursos computacionais virtuais, como
+servidores e armazenamento, mas a gestão do sistema operacional, aplicações e dados é
+responsabilidade do usuário.
+
+                                                                                       Gabarito: Letra A
+
+50. (CESPE / PC-PE – 2024) Assinale a opção que apresenta o tipo de serviço de computação em
+    nuvem que é um modelo de execução orientado a eventos e que permite que desenvolvedores
+    criem, executem e gerenciem pacotes de aplicações sem a necessidade de se preocuparem com
+    a manutenção da infraestrutura.
+
+   a) infraestrutura como serviço (IaaS)
+   b) containers como serviço (CaaS)
+   c) função como serviço (FaaS)
+   d) software como serviço (SaaS)
+   e) plataformas como serviço (PaaS)
+
+Comentários:
+
+Questão polêmica e, por isso, foi anulada. A orientação a eventos é típica de FaaS (Function as a
+Service), mas também de PaaS (Platform as a Service). Já o tipo de serviço que permite que
+desenvolvedores criem, executem e gerenciem pacotes de aplicações sem a necessidade de se
+preocuparem com a manutenção da infraestrutura é típico de PaaS.
+
+                                                                                       Gabarito: Anulada
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      64
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+51. (CESPE / Prefeitura de Fortaleza – 2023) Certo analista fazendário recebeu arquivo em formato
+    pdf e deverá aproveitar parte das informações e dos dados constantes do arquivo para elaborar
+    parecer técnico. Considerando essa situação hipotética, julgue o item seguinte.
+
+   O analista poderá salvar o arquivo recebido na nuvem, pois este serviço permite ao usuário
+   armazenar e acessar arquivos e dados remotamente.
+
+Comentários:
+
+A computação em nuvem oferece serviços que permitem aos usuários armazenar e acessar arquivos
+e dados de forma remota. Esta funcionalidade é um dos principais benefícios da computação em
+nuvem, permitindo que arquivos como documentos em formato PDF sejam armazenados em um
+servidor remoto e acessados de qualquer lugar com uma conexão à internet. Isso facilita o
+compartilhamento e a colaboração em documentos, além de oferecer uma alternativa segura para
+backup de dados.
+
+                                                                                       Gabarito: Correto
+
+52. (CESPE / EMPREL – 2023) Em computação em nuvem, quando uma organização monta e
+    fornece serviços para outras empresas, ela está utilizando o modelo de nuvem do tipo:
+
+   a) proprietária.
+   b) híbrida.
+   c) pública.
+   d) comunidade.
+   e) privada.
+
+Comentários:
+
+(a) Errado. "Proprietária" não é um termo comumente usado para descrever um modelo de nuvem.
+Pode-se referir a software ou tecnologia específica de uma empresa, mas não define um modelo de
+nuvem.
+
+(b) Errado. Uma nuvem "híbrida" combina nuvens públicas e privadas, permitindo o
+compartilhamento de dados e aplicativos entre elas. Não se aplica especificamente ao contexto de
+uma organização fornecendo serviços para outras empresas.
+
+(c) Correto. Em uma nuvem pública, a infraestrutura é disponibilizada para uso geral do público, o
+que implica que essa modalidade de instalação presta serviços a outras empresas: os recursos são
+oferecidos por um provedor externo e estão acessíveis a qualquer um que deseje usá-los.
+
+(d) Errado. Nuvem Comunitária (seria o termo mais correto) é compartilhada por várias
+organizações com interesses comuns. Ela não é a forma mais adequada para fornecer serviços para
+outras empresas.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      65
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+(e) Errado. Nesta modalidade, a infraestrutura na nuvem é provisionada para uso exclusivo de uma
+única organização, seja gerenciada internamente ou por terceiros.
+
+                                                                                       Gabarito: Letra C
+
+53. (CESPE / CBM-TO – 2023) Assinale a opção que apresenta uma solução de armazenamento de
+    arquivos em nuvem.
+
+   a) NordVPN
+   b) Dropbox
+   c) Netflix
+   d) Spotify
+
+Comentários:
+
+(a) Errado. NordVPN é um serviço de VPN utilizado para garantir privacidade e segurança na
+navegação na internet, mas não é uma solução de armazenamento em nuvem.
+
+(b) Correto. Dropbox é um serviço de armazenamento em nuvem, que permite aos usuários
+armazenar arquivos e acessá-los, compartilhá-los e sincronizá-los entre dispositivos.
+
+(c) Errado. Netflix é um serviço de streaming de vídeo, fornecendo filmes e séries online, mas não é
+uma plataforma de armazenamento de arquivos em nuvem.
+
+(d) Errado. Spotify é um serviço de streaming de música, permitindo aos usuários ouvir músicas e
+podcasts, mas não oferece armazenamento de arquivos pessoais em nuvem.
+
+                                                                                       Gabarito: Letra B
+
+54. (CESPE / PC AL – 2023) Considere que, em uma delegacia, seja necessário compartilhar um local
+    de armazenamento de arquivos, de modo que agentes e delegado acessem e armazenem
+    arquivos que sejam sincronizados e acessíveis em qualquer dispositivo. Nesse caso, a
+    contratação de serviço de armazenamento na nuvem, como iCloud, Google Drive, Dropbox,
+    entre outros, atenderia aos requisitos e facilitaria o compartilhamento para todos os envolvidos.
+
+Comentários:
+
+Perfeito! Serviços de armazenamento na nuvem como iCloud (da Apple), Google Drive (da Google),
+e Dropbox são projetados justamente para oferecer soluções de armazenamento e
+compartilhamento de arquivos que são sincronizados e acessíveis a partir de diversos dispositivos.
+Esses serviços permitem que usuários armazenem arquivos em servidores remotos (na nuvem) e
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      66
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+acessem-nos via internet, garantindo não só a disponibilidade dos dados em diferentes dispositivos,
+mas também a sincronização em tempo real.
+
+Isso significa que quando um arquivo é atualizado em um dispositivo, a versão mais recente fica
+imediatamente disponível em todos os outros dispositivos conectados à mesma conta. Além disso,
+estes serviços também facilitam o compartilhamento de arquivos entre diferentes usuários, o que
+seria útil em um ambiente de delegacia, onde agentes e delegados podem precisar compartilhar
+informações e documentos de forma rápida e eficiente.
+
+                                                                                       Gabarito: Correto
+
+55. (CESPE / Prefeitura de Recife – 2023) Um usuário pode fazer o backup, ou a cópia de segurança,
+    de arquivos por meio da ferramenta Google Drive.
+
+Comentários:
+
+O Google Drive é uma ferramenta de armazenamento em nuvem oferecida pelo Google que
+permite aos usuários armazenar arquivos online e acessá-los de qualquer lugar com uma conexão à
+internet. Essa funcionalidade torna o Google Drive uma solução eficaz para backup ou cópia de
+segurança de arquivos. Os usuários podem fazer upload de diversos tipos de arquivos para o Google
+Drive, incluindo documentos, planilhas, apresentações, fotos e vídeos.
+
+Uma vez carregados no Drive, esses arquivos são armazenados de forma segura na nuvem,
+protegendo-os contra perda de dados devido a falhas de hardware, erros de software ou outras
+causas de perda de dados em dispositivos locais.
+
+                                                                                       Gabarito: Correto
+
+56. (CESPE / Prefeitura de Boa Vista-RR - 2023) Suponha que um arquivo da Área de Trabalho do
+    computador seja colocado na nuvem. Nesse caso, o arquivo ficará disponível:
+
+   a) em uma solução de armazenamento online.
+   b) na pasta Documentos do computador.
+   c) em um pendrive do usuário.
+   d) no armazenamento interno do celular do usuário.
+
+Comentários:
+
+(a) Correto. Uma solução de armazenamento online, ou armazenamento em nuvem, é exatamente
+onde o arquivo será armazenado. Isso permite o acesso ao arquivo de qualquer dispositivo com
+conexão à internet, incluindo outros computadores, smartphones e tablets.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      67
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+(b) Errado. A pasta Documentos do computador é um local de armazenamento local. Colocar um
+arquivo na nuvem não significa que ele será automaticamente movido ou copiado para a pasta
+Documentos.
+
+(c) Errado. Um pendrive é um dispositivo de armazenamento físico externo e não está relacionado
+ao armazenamento na nuvem. O arquivo na nuvem não é automaticamente transferido para um
+pendrive.
+
+(d) Errado. O armazenamento interno do celular do usuário é um armazenamento local no
+dispositivo móvel. Embora o arquivo na nuvem possa ser acessado pelo celular, ele não é
+armazenado automaticamente no armazenamento interno do celular, a menos que seja baixado.
+
+                                                                                       Gabarito: Letra A
+
+57. (CESPE / CNMP - 2023) Uma das características do armazenamento em nuvem é a elasticidade,
+    ou seja, o usuário pode aumentar e diminuir a escala verticalmente, conforme a demanda, e
+    pagar apenas pelo que usa.
+
+Comentários:
+
+Perfeito! A elasticidade em serviços de nuvem permite aos usuários aumentar ou diminuir recursos
+e capacidade de armazenamento com base em suas necessidades atuais. Isso significa que uma
+organização ou indivíduo pode escalar os recursos para cima ou para baixo dependendo da
+demanda, o que é particularmente útil em situações em que a demanda por armazenamento ou
+capacidade de processamento varia com o tempo.
+
+Além disso, outro aspecto importante da computação em nuvem é o modelo de pagamento
+conforme o uso (pay-as-you-go). Este modelo permite que os usuários paguem apenas pelos
+recursos e serviços que efetivamente utilizam, sem a necessidade de investimentos significativos
+em infraestrutura física própria. Isso torna a computação em nuvem uma opção flexível e
+econômica para muitas organizações e usuários individuais.
+
+                                                                                       Gabarito: Correto
+
+58. (CESPE / CNMP - 2023) Sistemas de armazenamento em nuvem permitem que usuários façam
+    backup de arquivos gerais de maneira online.
+
+Comentários:
+
+Sistemas de armazenamento em nuvem são projetados para permitir que usuários armazenem e
+acessem seus arquivos pela internet. Esses sistemas oferecem uma maneira conveniente e eficiente
+de fazer backup de arquivos de diversos tipos, incluindo documentos, fotos, vídeos, arquivos de
+áudio, e mais.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      68
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Os serviços de armazenamento em nuvem, como Google Drive, Dropbox, Microsoft OneDrive e
+outros, proporcionam aos usuários a capacidade de carregar seus arquivos para servidores remotos.
+Uma vez armazenados na nuvem, esses arquivos podem ser acessados de qualquer lugar, a partir
+de qualquer dispositivo com acesso à internet, proporcionando uma solução de backup online
+prática e flexível.
+
+                                                                                       Gabarito: Correto
+
+59. (CESPE / Prefeitura de São Cristovão-SE - 2023) A respeito de computação em nuvem, assinale
+    a opção correta.
+
+   a) O uso doméstico da computação em nuvem ainda não é possível, porque esse recurso está
+   disponível exclusivamente para empresas e organizações.
+
+   b) O Gmail é um exemplo de aplicação em nuvem, pois o sistema de gerenciamento de emails
+   fica armazenado nos servidores do prestador do serviço.
+
+   c) Os serviços de computação em nuvem são disponibilizados apenas mediante pagamento.
+
+   d) O Microsoft Office 365 não dispõe de aplicações em nuvem, pois só é possível utilizar os
+   softwares desse pacote que estejam instalados no computador.
+
+Comentários:
+
+(a) Errado. A computação em nuvem está amplamente disponível para uso doméstico, além de ser
+utilizada por empresas e organizações. Serviços como armazenamento de arquivos, backup de
+dados, e aplicações de software como serviço (SaaS) são comuns no uso doméstico.
+
+(b) Correto. O Gmail é um exemplo de aplicação em nuvem. No Gmail, tanto o armazenamento de
+e-mails quanto o sistema de gerenciamento são hospedados nos servidores do Google, permitindo
+o acesso aos e-mails de qualquer dispositivo com acesso à Internet.
+
+(c) Errado. Embora muitos serviços de computação em nuvem sejam oferecidos mediante
+pagamento, existem também muitos serviços disponíveis gratuitamente, especialmente em níveis
+básicos ou com recursos limitados.
+
+(d) Errado. O Microsoft Office 365 (agora chamado de Microsoft 365) oferece aplicações em nuvem.
+Além das versões instaláveis dos softwares, o pacote inclui serviços baseados em nuvem, como o
+OneDrive e versões online do Word, Excel, etc.
+
+                                                                                       Gabarito: Letra B
+
+60.(CESPE / CNMP - 2023) No OneDrive, um arquivo poderá ser aberto no modo online e, se
+   necessário, ser editado em modo offline.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      69
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Comentários:
+
+Perfeito! No OneDrive, é possível abrir arquivos no modo online, diretamente no navegador, e
+também é possível editá-los em modo offline, mesmo quando não há conexão com a Internet. O
+OneDrive permite que você abra e edite arquivos no modo online diretamente no navegador, além
+de oferecer a opção de sincronização para editar arquivos em modo offline em seu dispositivo. Isso
+proporciona flexibilidade e acesso aos seus arquivos, independentemente de estar conectado à
+Internet ou não.
+
+                                                                                       Gabarito: Correto
+
+61. (CESPE / TRT8 - 2022) Um dos requisitos para implementação dos serviços na Google Cloud
+    pelo TRT8 foi que o primeiro hospedasse, mantivesse e atualizasse a infraestrutura de back-end,
+    tais como, armazenamento, rede e virtualização, enquanto o segundo fosse responsável por
+    gerenciar o sistema operacional, middleware e aplicativos.
+
+   Certo órgão, ao definir os modelos de serviço de computação em nuvem, decidiu que seria
+   responsável por gerenciar o sistema operacional, middleware e aplicativos, enquanto
+   hospedaria, manteria e atualizaria a infraestrutura de back-end, tal como, armazenamento,
+   rede e virtualização através do Google Cloud.
+
+   Assinale a opção que corresponde ao modelo de serviço descrito pelo trecho precedente.
+
+   a) IaaS.
+   b) CaaS.
+   c) SaaS.
+   d) PaaS.
+   e) Colocation.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      70
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Vamos relembrar nossa figurinha clássica: se o órgão vai gerenciar sistema operacional,
+middleware e aplicativos enquanto a nuvem cuida do armazenamento, rede e virtualização, então
+estamos falando de um IaaS (Infrastructure as a Service).
+
+                                                                                       Gabarito: Letra A
+
+62. (CESPE / TELEBRAS – 2022) Na execução de cargas de trabalho na computação em nuvem, o
+    repositório de recursos de tecnologia da informação pode ser provisionado e escalado mediante
+    o acesso via rede.
+
+Comentários:
+
+Palavras complexas, mas sentido simples: o que a questão quer dizer é que, quando há necessidade
+de executar alguma função em nuvem, é possível provisionar (abastecer, fornecer, prover) recursos
+via rede. Eu preciso de mais espaço? Acesso a nuvem via rede e aumento a quantidade de espaço! Eu
+preciso de mais memória? Acesso a nuvem via rede e aumento a quantidade de memória! E assim
+por diante...
+
+                                                                                       Gabarito: Correto
+
+63. (CESPE / PETROBRAS – 2022) No modelo IaaS, o provedor do serviço de nuvem é responsável
+    pela segurança fundamental do ambiente, enquanto o usuário da nuvem é responsável pela
+    segurança de sua rede virtual e de tudo o que for construído sobre a infraestrutura
+    disponibilizada.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      71
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Comentários:
+
+Perfeito! Quem cuida da infraestrutura do ambiente será o provedor do IaaS – o usuário final será
+responsável pela segurança de sua própria rede, assim como do que for construído sobre a
+infraestrutura. Se uma pessoa não autorizada eventualmente se esconde das câmeras e acessa
+ambiente de infraestrutura do provedor, a responsabilidade é dele; se alguém não autorizado
+eventualmente acessa a minha casa e invade a minha rede interna, a responsabilidade é minha.
+
+                                                                                       Gabarito: Correto
+
+64.(CESPE / SERES-PE – 2022) Suítes de escritório, como o Microsoft Office 365, quando
+   executadas na nuvem, são um exemplo de:
+
+   a) software as a service.
+   b) business process as a service.
+   c) platform as a service.
+   d) functions as a service.
+   e) infrastructure as a service.
+
+Comentários:
+
+Suítes de escritório em nuvem são Software as a Service (SaaS). Por que? Porque o provedor que
+forneceu o software é responsável pelos dados, virtualização, servidores, armazenamento,
+memória, rede, entre outros... você simplesmente abre o navegador, acessa e utiliza esses serviços.
+
+                                                                                       Gabarito: Letra A
+
+65. (CESPE / TCE-SC – 2022) Em arquitetura em nuvem, dentre os tipos SaaS, IaaS e PaaS, o serviço
+    de becape é restrito aos dois últimos, haja vista que no SaaS não há como personalizar os
+    recursos de hardware, que é essencial para oferecer métodos eficazes de cópias regulares de um
+    fornecedor de serviços para outro local.
+
+Comentários:
+
+SaaS pode ter becape, sim! Além disso, é possível personalizar recursos de hardware – é possível
+aumentar/reduzir recursos de armazenamento, entre outros.
+
+                                                                                       Gabarito: Errado
+
+66. (CESPE / TCE-RJ – 2022) No modelo IaaS de serviço em nuvem, o consumidor gerencia e
+   controla sistemas operacionais, armazenamento, componentes e sistemas de segurança e a
+   infraestrutura de nuvem subjacente.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      72
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Comentários:
+
+O consumidor não gerencia nem controla a infraestrutura de nuvem subjacente, mas tem controle
+sobre sistemas operacionais, armazenamento e aplicativos implementados, e, possivelmente,
+controle limitado de componentes de rede selecionados.
+
+                                                                                       Gabarito: Errado
+
+67. (CESPE / TCE-SC – 2022) Uma característica própria dos serviços de armazenamento de dados
+    em nuvem (cloud storage) é a:
+
+   a) garantia de espaço ilimitado.
+   b) execução de aplicações remotas.
+   c) garantia de gratuidade.
+   d) mobilidade facilitada para o usuário.
+   e) codificação de linguagens de programação.
+
+Comentários:
+
+(a) Errado, não há garantia de espaço ilimitado; (b) Errado, não há relação com a execução de
+aplicações remotas; (c) Errado, não há nenhuma garantia de gratuidade; (d) Correto. Pensa comigo:
+antigamente, se quiséssemos mostrar as fotos das últimas férias para os parentes, tínhamos que
+levar um pendrive ou disco rígido externo com as fotos. Hoje em dia, com os dados em nuvem, basta
+acessar via web os dados armazenados, facilitando a mobilidade para o usuário; (e) Errado, essa
+característica não tem qualquer relação com armazenamento de dados em nuvem.
+
+                                                                                       Gabarito: Letra D
+
+68. (CESPE / APEX-Brasil – 2022) Na computação em nuvem, a oferta de um ambiente de
+   serviços para, por exemplo, desenvolvimento e teste de software, ocorre por meio de:
+
+   a) IaaS – infraestrutura como serviço.
+   b) PaaS – plataforma como serviço.
+   c) SaaS – software como serviço.
+   d) Web service – serviços web.
+
+Comentários:
+
+Desenvolvimento e Teste de Software são palavras-chave de PaaS (Platform as a Service).
+
+                                                                                       Gabarito: Letra B
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      73
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+69. (CESPE / APEX-Brasil – 2022) Assinale a opção que apresenta o modelo de serviços na
+   nuvem em que o cliente, para usufruto do serviço, deve instalar e configurar, por conta própria,
+   os recursos necessários, como compiladores, banco de dados e o próprio sistema operacional.
+
+   a) CaaS (Containers as a Service)
+   b) IaaS (Infrastructure as a Service)
+   c) SaaS (Software as a Service)
+   d) PaaS (Platform as a Service)
+
+Comentários:
+
+Notem que compiladores e banco de dados são ferramentas úteis no desenvolvimento de software.
+Professor, então se trata do Platform as a Service (PaaS)? Não, porque o enunciado afirma que – para
+usufruto do serviço – deve instalar e configurar, por conta própria, os recursos necessários. Logo,
+trata-se da Infrastructure as a Service (IaaS), já que essas serão responsabilidades do consumidor e,
+não, do provedor de nuvem.
+
+                                                                                       Gabarito: Letra B
+
+70. (CESPE / APEX Brasil – 2022) Na plataforma como serviço,
+
+   a) os desenvolvedores podem criar aplicativos móveis sem se preocupar com o gerenciamento
+   de infraestrutura subjacente de servidores e bancos de dados necessários.
+
+   b) são oferecidos recursos de computação, armazenamento e rede, sob demanda e pagos
+   conforme o uso; o usuário desenvolve as soluções e é responsável pela instalação necessária.
+
+   c) o provedor de serviços não fornece infraestrutura subjacente de software, mas fornece
+   aplicativos por meio da Internet para o desenvolvimento de soluções de software.
+
+   d) os usuários subscrevem o software e o acessam por meio da Web ou de APIs do fabricante,
+   sem a necessidade que o provedor forneça infraestrutura subjacente.
+
+Comentários:
+
+(a) Correto. Essa é a função do PaaS: fornecer diversas ferramentas para que desenvolvedores de
+software possam fazer implementações sem se preocupar com infraestrutura subjacente; (b)
+Errado, o usuário não é responsável pela instalação necessária; (c) Errado, ele fornece infraestrutura
+subjacente de software; (d) Errado, o provedor deve fornecer a infraestrutura subjacente.
+
+                                                                                       Gabarito: Letra A
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      74
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+71. (CESPE / Prefeitura de São Cristóvão-SE – 2022) O aumento de custos e a desobrigação de
+    possuir uma estrutura interna de servidores são considerados desvantagens da computação em
+    nuvem para as organizações.
+
+Comentários:
+
+Opaaaaa... a desobrigação de possuir uma estrutura interna de servidores é uma vantagem da
+computação em nuvem para as organizações! Imagine que você tenha uma empresa e pode reduzir
+seus custos ao não precisar manter servidores (máquinas especializadas): são vantagens
+competitivas em relação a outras organizações.
+
+                                                                                       Gabarito: Errado
+
+72. (CESPE / Prefeitura de São Cristóvão-SE – 2022) O ambiente em que vários sistemas
+    operacionais trabalham dividindo um mesmo equipamento é denominado ambiente de
+    virtualização de hardware, um dos conceitos mais utilizados em Cloud Computing.
+
+Comentários:
+
+Perfeito! A virtualização permite que um hardware possa executar vários sistemas operacionais
+iguais ou distintos, de uma forma simultânea e isolados entre si. Trata-se realmente de um dos
+conceitos mais utilizada na computação em nuvem.
+
+                                                                                       Gabarito: Correto
+
+73. (CESPE / FUNPRESP-EXE - 2022) Na computação em nuvem, diversos computadores em rede
+    são empregados para oferecerem recursos computacionais que visam solucionar um mesmo
+    problema específico.
+
+Comentários:
+
+Solucionar um mesmo problema específico? Nada disso, a computação em nuvem é utilizada para
+solucionar diversos problemas, por isso existem diversas infraestruturas de nuvem como IaaS, PaaS
+e SaaS, cada uma é adequada a um caso específico.
+
+                                                                                       Gabarito: Errado
+
+74. (CESPE / FUNPRESP-EXE - 2022) Design de aplicativo, desenvolvimento e testes são serviços
+    típicos em uma infraestrutura de SAAS (Software as a Service).
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      75
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+A infraestrutura que está relacionada a serviços de desenvolvimento é o PaaS (Plataform as a
+Service).
+
+                                                                                       Gabarito: Errado
+
+75. (CESPE / PC-PB – 2022) O serviço no qual o provedor de nuvem fornece servidores,
+    armazenamento, rede e ferramentas para desenvolver, testar, hospedar e entregar aplicativos
+    e os clientes podem usar um conjunto de ferramentas pré-montadas é conhecido como:
+
+   a) Containers as a Service (CaaS).
+   b) Function as a Service (FaaS).
+   c) Service as a Service (SaaS).
+   d) Infrastructure as a Service (IaaS).
+   e) Platform as a Service (PaaS).
+
+Comentários:
+
+Fornece servidores, armazenamento, rede e ferramentas para desenvolver, testar, hospedar e
+entregar aplicativos? Você, na hora, tem que lembrar do PaaS. Ele é o responsável por fornecer,
+além da infraestrutura necessária, uma plataforma para desenvolvedores.
+
+                                                                                       Gabarito: Letra E
+
+76. (CESPE / DPDF - 2022) Em termos de arquitetura, cloud computing é considerada
+    descentralizada, pois suas aplicações são executadas em ambientes distintos.
+
+Comentários:
+
+De fato, a descentralização é uma característica da computação em nuvem. No entanto, nem
+sempre as aplicações serão executadas em ambientes distintos, elas podem ser executadas no
+mesmo ambiente. Por exemplo: podemos ter uma nuvem privada em uma organização com uma
+infraestrutura local.
+
+                                                                                       Gabarito: Errado
+
+77. (CESPE / DPDF - 2022) A computação em nuvem oferece uma infraestrutura elástica e escalável
+    para os sistemas que são executados em seus ambientes, sem necessidade de customizações.
+
+Comentários:
+
+A computação em nuvem realmente oferece uma infraestrutura elástica e escalável para os
+sistemas que são executados em seus ambientes, no entanto há – em regra – necessidade de
+customizações.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      76
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Por exemplo, enquanto muitos aplicativos e serviços podem ser usados diretamente "como são"
+em um ambiente de nuvem, outros podem exigir ajustes ou configurações específicas para otimizar
+o desempenho, garantir a segurança ou cumprir requisitos regulatórios. Além disso, a integração
+de sistemas existentes com serviços baseados em nuvem frequentemente requer algum grau de
+customização.
+
+                                                                                       Gabarito: Errado
+
+78. (CESPE / DPDF - 2022) Em comparação aos modelos IaaS (infrastructure as a service) e SaaS
+    (software as a service), a implantação do modelo PaaS (platform as a service) exige um
+    investimento inicial menor, por serem desnecessários, por exemplo, investimentos com
+    infraestrutura.
+
+Comentários:
+
+Entre os modelos de nuvem IaaS (Infrastructure as a Service), PaaS (Platform as a Service) e SaaS
+(Software as a Service), o SaaS exige o menor investimento inicial. No modelo SaaS, as
+organizações utilizam software diretamente na nuvem, sem a necessidade de investir em
+infraestrutura, manutenção ou desenvolvimento de plataformas. Os provedores cuidam de toda a
+infraestrutura e suporte, e os usuários pagam geralmente por uma assinatura ou uso mensal,
+tornando-o mais acessível inicialmente.
+
+Logo, em comparação ao IaaS, o PaaS exige um investimento inicial menor; mas em relação ao
+SaaS, trata-se de um investimento inicial maior. No entanto, a banca considerou como certa.
+
+                                                                                       Gabarito: Correto
+
+Um aplicativo para edição de textos foi disponibilizado para seus usuários sob a forma de
+computação em nuvem. Esses usuários podem se conectar virtualmente, colaborando
+mutuamente para a elaboração de documentos. Tais documentos, bem como os respectivos
+históricos de versões anteriores, são armazenados na nuvem.
+
+Com referência a essa situação hipotética, julgue o próximo item.
+
+79. (CESPE / PETROBRAS – 2022) A situação descreve um modelo de nuvem denominado PaaS
+    (platform as a service).
+
+Comentários:
+
+Opa... aplicativos de edição de texto são exemplos de SaaS (Software as a Service). É como um
+software disponibilizado na nuvem – não pode ser PaaS (Platform as a Service) porque ele não
+oferece nenhuma plataforma de desenvolvimento, teste, entre outros.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      77
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                                                                                       Gabarito: Errado
+
+80.(CESPE / TELEBRÁS - 2021) Uma pequena empresa pode hospedar seu sistema de informações
+   em nuvem pública sem qualquer custo, uma vez que toda nuvem pública é gratuita.
+
+Comentários:
+
+Pessoal, nem toda nuvem pública é gratuita. Nuvem pública significa que ela está aberta ao público
+em geral gratuitamente ou mediante pagamento.
+
+                                                                                       Gabarito: Errado
+
+81. (CESPE / Petrobrás - 2022) No que se relaciona a elasticidade e escalonamento de computação
+    em nuvem, os usuários têm a expectativa de que a nuvem seja capaz de fornecer rapidamente
+    recursos em qualquer quantidade e a qualquer momento.
+
+Comentários:
+
+Exato! A elasticidade rápida é a capacidade de um sistema de se adaptar a uma variação na carga
+de trabalho quase instantaneamente. Vejam que, teoricamente, os recursos não são ilimitados,
+entretanto, para o usuário, é como se fossem, isto é, quanto mais ele precisar, mais a nuvem oferecerá.
+
+                                                                                       Gabarito: Correto
+
+82. (CESPE / Petrobrás - 2022) Cloud computing é uma das inovações tecnológicas que mais
+    cresceu nos últimos anos, por isso é uma instância direta da computação autônoma, em que os
+    sistemas se autogerenciam.
+
+Comentários:
+
+Opa... os sistemas não autogerenciam, os sistemas são administrados por empresas, que – por sua
+vez – possuem funcionários que fazem tal gerenciamento.
+
+                                                                                       Gabarito: Errado
+
+83. (CESPE / Petrobrás - 2022) Na cloud computing são essenciais o cumprimento de três
+    indicadores: disponibilidade, capacidade e desempenho na entrega de soluções e informações.
+
+Comentários:
+
+Disponibilidade, capacidade e desempenho são características essenciais da cloud computing.
+Disponibilidade pois os serviços devem sempre estar disponíveis, capacidade pois os serviços
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      78
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+devem suportar as demandas dos usuários e desempenho pois os serviços devem ser eficientes na
+entrega de soluções e informações.
+
+                                                                                       Gabarito: Correto
+
+84.(CESPE / TELEBRÁS - 2021) Uma nuvem privada permite que a organização controle o seu
+   próprio ambiente, incluindo seus dados.
+
+Comentários:
+
+Perfeito! Uma nuvem privada é organizada e controlada pela sua própria entidade. Em suma: A
+nuvem privada se encontra em ambiente próprio da entidade dona da rede, não necessariamente
+no perímetro físico da empresa, mas protegida por um firewall e administrada pelos funcionários
+da corporação.
+
+                                                                                       Gabarito: Correto
+
+85. (CESPE / PC-SE – 2021) Uma nuvem pode tanto armazenar arquivos pessoais de um usuário
+    quanto hospedar a intranet de uma organização.
+
+Comentários:
+
+Uma nuvem pode armazenar arquivos pessoais de um usuário? Sim! Ela pode hospedar a intranet de
+uma organização? Também! Uma intranet baseada em nuvem oferece uma alternativa simples e
+conveniente à intranet tradicional local. No modelo de nuvem, o provedor hospeda, gerencia e
+mantém a intranet sem que ela precise estar hospedada em servidores locais da organização.
+
+                                                                                       Gabarito: Correto
+
+86. (CESPE / PC-AL – 2021) A computação na nuvem (cloud computing) possibilita que
+   aplicações executadas em servidores isolados sejam também executadas na nuvem (Internet)
+   em um ambiente de larga escala e com o uso “elástico” de recursos.
+
+Comentários:
+
+Perfeito! Aplicações executadas em servidores isolados podem ser executadas na nuvem, que tem
+escalabilidade e elasticidade de recursos.
+
+                                                                                       Gabarito: Correto
+
+87. (CESPE / SEFAZ-CE – 2021) PaaS (Platform as a Service) é o tipo de cloud computing que
+    permite a utilização de uma aplicação na Web, como, por exemplo, Google Docs e Office 365.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      79
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+De acordo com Manoel Veras de Sousa Neto, em Computação em Nuvem: Nova Arquitetura de TI,
+o conceito de Paas (Platform as a Service) está vinculado ao uso de ferramentas de
+desenvolvimento de software oferecidas por provedores de serviços, onde desenvolvedores criam
+as aplicações e as desenvolvem utilizando a internet como meio de acesso.
+
+Ainda segundo o autor, o SaaS (Software as a Service) trata do contexto em que aplicativos de
+interesse para uma grande quantidade de clientes passam a ser hospedados na nuvem como uma
+alternativa ao processamento local. Os aplicativos são oferecidos como serviços por provedores e
+acessados pelos clientes por aplicações, como um navegador. Todo o controle e gerenciamento da
+rede, sistemas operacionais, servidores e armazenamento é feito pelo provedor de serviço.
+
+Dito isso, fica claro que não é o PaaS que permite a utilização de uma aplicação na web e, sim, o
+SaaS. O PaaS é responsável por oferecer ferramentas de desenvolvimento e o SaaS é o responsável
+por hospedar aplicações na web, tais como Google Docs e Office 365.
+
+                                                                                       Gabarito: Errado
+
+88. (CESPE / SEFAZ-CE – 2021) Nuvens públicas proveem espaço ilimitado em servidores que
+   reúnem as informações de todos os seus usuários.
+
+Comentários:
+
+O espaço físico de nuvens públicas não é ilimitado. O Google Drive, por exemplo, fornece planos de
+até 30 TB por R$1049,99/Mês.
+
+                                                                                       Gabarito: Errado
+
+89. (CESPE / SEFAZ-CE – 2021) Em se tratando do uso organizacional de nuvens privadas, o
+   modelo, a definição e os riscos associados à organização devem permanecer intactos na nuvem,
+   pois os seus recursos são provisionados para uso exclusivo da organização interessada,
+   compreendendo suas várias unidades de negócios.
+
+Comentários:
+
+No caso de nuvens privadas, a infraestrutura na nuvem é provisionada para uso exclusivo por uma
+única organização composta de diversos consumidores (como unidades de negócio). A sua
+propriedade, gerenciamento e operação podem ser da organização, de terceiros ou de uma
+combinação mista, e pode estar dentro ou fora das instalações da organização.
+
+                                                                                       Gabarito: Correto
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      80
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+90.(CESPE / SEFAZ-CE – 2021) Na computação em nuvem, o serviço medido, ou uso medido,
+   permite que o uso de recursos seja monitorado, controlado e relatado, o que fornece
+   transparência tanto para o provedor quanto para o consumidor do serviço.
+
+Comentários:
+
+Essa questão trata de uma característica essencial da computação em nuvem chamada Serviços
+Mensurados (Serviço Medido ou Uso Medido). De fato, essa característica trata da capacidade de
+monitorar, controlar e relatar antecipadamente o uso de recursos, o que realmente fornece
+transparência tanto para o provedor quanto para o consumidor de serviço.
+
+                                                                                       Gabarito: Correto
+
+91. (CESPE / SEFAZ-CE – 2021) Em uma nuvem, a característica de os recursos de computação do
+    provedor serem agrupados para atender a vários consumidores é chamada de elasticidade.
+
+Comentários:
+
+Essa questão trata de uma característica essencial da computação em nuvem, no entanto não é
+sobre a característica de elasticidade e, sim, sobre a característica de agrupamento de recursos. Os
+recursos de computação do provedor são agrupados para atender a múltiplos consumidores em
+modalidade multi-inquilinos, com recursos físicos e virtuais diferentes dinamicamente atribuídos e
+reatribuídos conforme a demanda dos consumidores. A característica de elasticidade trata de como
+os recursos são provisionados e liberados elasticamente para rapidamente aumentar ou diminuir
+de acordo com a demanda.
+
+                                                                                       Gabarito: Errado
+
+92. (CESPE / PM-AL – 2021) Uma característica do ambiente de computação em nuvem é a
+    elasticidade rápida, que permite provisionar recursos independentemente da sua localização.
+
+Comentários:
+
+Uma característica do ambiente de computação em nuvem é a elasticidade rápida? Sim. Ela permite
+provisionar recursos elasticamente? Sim, recursos podem ser provisionados ou liberados de forma
+elástica e rápida pela nuvem. Para o consumidor, os recursos disponíveis para provisionamento
+muitas vezes parecem ser ilimitados e podem ser apropriados em qualquer quantidade a qualquer
+momento e independentemente da sua localização.
+
+A polêmica: a banca mudou de entendimento no gabarito definitivo sob a justificativa de que a
+característica de ser independente da sua localização está relacionada ao agrupamento de recursos
+e, não, à elasticidade rápida. Em minha opinião, a independência da localização é uma característica
+genérica e básica da computação em nuvem que independe de qualquer outra característica, logo
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      81
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+pode estar sempre associada a qualquer uma das características essenciais. Enfim... eu erraria na
+hora da prova e continuo não concordando com o gabarito definitivo.
+
+                                                                                       Gabarito: Errado
+
+93. (CESPE / PM-AL – 2021) Uma característica da computação em nuvem é o formato de acesso à
+    rede, que é proporcionado especificamente entre equipamentos servidores, não sendo
+    utilizados dispositivos clientes como notebooks e smartphones.
+
+Comentários:
+
+Que ideia maluca! A grande vantagem da computação nuvem é justamente permitir o acesso
+ubíquo, conveniente e sob demanda via rede a recursos computacionais por um provedor de serviço
+para clientes, que podem acessá-los via desktop, notebooks, smartphones, entre outros.
+
+                                                                                       Gabarito: Errado
+
+Uma agente, a partir do computador de sua casa, necessitava acessar, com segurança, os serviços
+de PaaS na nuvem, com criptografia, utilizando a Internet pública como meio de comunicação entre
+essas localidades. Para tanto, criou-se uma VPN (Virtual Private Network) da Internet pública, a fim
+de estabelecer a conexão entre as localidades e, para prover o sigilo, criptografou-se o referido
+tráfego antes de ele entrar na Internet pública.
+
+94.(CESPE / PCDF – 2021) A solução descreve corretamente o uso da VPN como meio de prover
+   segurança no tráfego, mas torna-se inviável nessa situação, pois uma VPN não pode ser utilizada
+   para acesso a serviço do tipo PaaS como descrito.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                     82
+        www.estrategiaconcursos.com.br                                                              101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Nada melhor do que a justificativa da própria banca: “Poderia ser utilizada, pois, em vez de
+implementar e manter uma rede privada, hoje muitas instituições criam VPNs em cima da internet
+pública. Com uma VPN, o tráfego interdepartamental é enviado por meio da internet pública, e não de
+uma rede fisicamente independente. Mas, para prover sigilo, esse tráfego é criptografado antes de
+entrar na internet pública. Isso serve para PaaS, SaaS ou IaaS. VPN é uma ferramenta extremamente
+poderosa para a segurança das informações pessoais, mas muitos usuários ainda desconhecem o
+recurso. O acrônimo, que representa uma “Rede Privada Virtual” (Virtual Private Network), permite o
+tráfego de dados de forma segura e também permite o acesso a uma rede interna de uma empresa,
+mesmo que o usuário esteja trabalhando em casa, por exemplo”.
+
+Não há limitações na utilização de VPN em relação aos modelos de serviço em nuvem. Logo, é
+possível utilizá-la com SaaS, PaaS ou IaaS!
+
+                                                                                       Gabarito: Errado
+
+95. (CESPE / PCDF – 2021) Caso o acesso fosse realizado por meio da VPN para o SaaS, por
+    exemplo, para um webmail, os e-mails estariam imunes a vírus, pois, em um tunelamento
+    criptográfico, o tráfego é, necessariamente e continuadamente, analisando por antivírus.
+
+Comentários:
+
+Nada melhor do que a justificativa da própria banca: “Não ficam imunes ao vírus, pois, ainda que o
+tunelamento seja uma técnica utilizada pela maioria das VPNs (Redes Virtuais Privadas), esse é um
+processo que basicamente coloca cada pacote de informação enviado dentro de outro pacote, criando
+uma espécie de envoltório. Esse encapsulamento apenas é compreendido pelo emissor e pelo receptor,
+sendo completamente transparente, uma vez que o empacotamento e o desempacotamento são
+realizados na porta de saída, e não no computador. Dependendo do problema tratado, essa técnica é
+utilizada com objetivos distintos. Nesse tipo de VPN, não há necessariamente o uso de antivírus. Logo
+não seriam imunes”.
+
+Primeiro, VPN não garante imunidade contra vírus; segundo, em um tunelamento criptográfico, o
+tráfego não é necessariamente analisado por antivírus.
+
+                                                                                       Gabarito: Errado
+
+96. (CESPE / BANESE – 2021) O provisionamento para aumento de recursos como memória
+   RAM e armazenamento é uma característica disponibilizada em um ambiente de PaaS
+   (Plataform as a Service).
+
+Comentários:
+
+Opa... essa é uma característica disponibilizada pela IaaS! É claro que o PaaS engloba tudo que o
+IaaS oferece (Ex: rede, armazenamento, servidores, virtualização, etc), no entanto o usuário não
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                     83
+        www.estrategiaconcursos.com.br                                                              101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+manipula/provisiona esse tipo de recurso e, sim, o provedor de nuvem. Lembrando que o PaaS é
+responsável pelos recursos de plataforma de desenvolvimento.
+
+                                                                                       Gabarito: Errado
+
+97. (CESPE / BANESE – 2021) Uma solução de software como o Microsoft Office 365, que pode ser
+    acessado pela Web, a partir de login e senha em formato de assinatura com pagamentos
+    mensais, é denominada SaaS (Software as a Service).
+
+Comentários:
+
+Perfeito! É um exemplo típico de SaaS...
+
+                                                                                       Gabarito: Correto
+
+98. (CESPE / BANESE – 2021) O aumento ou a redução rapidamente na capacidade de recursos
+   computacionais como processador sob demanda, é uma característica para serviços de cloud
+   computing.
+
+Comentários:
+
+Perfeito! A elasticidade é uma característica típica de serviços de computação em nuvem.
+
+                                                                                       Gabarito: Correto
+
+99. (CESPE / SERPRO – 2021) A computação em nuvem pública acessa recursos por meio da
+   Internet, usando interface web, com alocação e pagamento por demanda (soluções elásticas);
+   no entanto, o fato de ela ser pública não significa que seja livre nem aberta.
+
+Comentários:
+
+Perfeito! Ela não é livre (no sentido de que existe uma licença de uso) e não é aberta (no sentido de
+que pode ser exigir autenticação). Agora esse é o tipo de questão que, como o examinador não
+especifica o que ele quer dizer com esses atributos, pode resultar em qualquer gabarito.
+
+                                                                                       Gabarito: Correto
+
+100. (CESPE / SERPRO – 2021) A ideia central da computação em nuvem é possibilitar que as
+   aplicações que rodam em datacenters isolados também rodem na nuvem (Internet) em um
+   ambiente de larga escala e com um uso elástico de recursos.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      84
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Perfeito! É essa a ideia mesmo... centros de dados são “transferidos” para um ambiente de internet
+de nuvem, que possuem larga escala e elasticidade de recursos.
+
+                                                                                       Gabarito: Correto
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      85
+        www.estrategiaconcursos.com.br                                                               101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                            LISTA DE QUESTÕES – CESPE
+1. (CESPE / TCE-AC – 2024) Na infraestrutura como serviço (IaaS), a camada de virtualização é
+   responsável por permitir o compartilhamento de determinados recursos de hardware entre
+   várias máquinas virtuais diferentes.
+
+2. (CESPE / TCE-AC – 2024) O modelo IaaS proíbe a virtualização da camada de
+   armazenamento (storage).
+
+3. (CESPE / CAGEPA-PB – 2024) Assinale a opção correta acerca da computação em nuvem.
+
+   a) No modelo de nuvem SaaS, aplicação e banco de dados são geridos pelo cliente.
+   b) Serviços de comunicação por vídeo e VoIP operam em nuvem do tipo IaaS.
+   c) Em uma nuvem PaaS, servidores, rede, sistema operacional e armazenamento são
+   gerenciados pelo cliente.
+   d) Na nuvem híbrida, os serviços estão disponíveis para qualquer cliente e os recursos são
+   controlados pelo provedor.
+   e) Segurança, integração e padronização são os três itens mais desafiadores para a
+   implementação da computação em nuvem.
+
+4. (CESPE / Prefeitura de Mossoró - RN – 2024) O OneDrive permite que o usuário armazene
+   arquivos pessoais na nuvem da Microsoft. Por motivos de segurança, tais arquivos não
+   podem ser compartilhados com outros usuários.
+
+5. (CESPE / SEFAZ-AC – 2024) Para o armazenamento de arquivos diversos em nuvem, é
+   correto o uso do
+
+   a) Google Chrome.
+   b) Mozila Thunderbird.
+   c) OneDrive.
+   d) Spotify.
+   e) NordVPN.
+
+6. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) As nuvens privadas sempre
+   oferecem menos escalabilidade em comparação com a infraestrutura local, uma vez que elas
+   são recursos de computação em nuvem usados exclusivamente por uma única empresa.
+
+7. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Em comparação com o IaaS
+   (infraestrutura como serviço), o SaaS (software como serviço) é a modalidade de
+   computação em nuvem que oferece menos recursos; nela são ofertadas ao usuário somente
+   soluções fundamentais de computação e de armazenamento sob demanda e pagas
+   conforme o uso.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                           86
+        www.estrategiaconcursos.com.br                                                    101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+8. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Uma das formas de fazer becape
+   de arquivos é armazená-los na nuvem.
+
+9. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) O Windows 10 é um aplicativo
+   da Microsoft que permite controlar todos os aspectos da computação em nuvem.
+
+10. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Uma nuvem híbrida é um
+    ambiente de computação misto onde aplicativos são executados usando uma combinação
+    de computação, armazenamento e serviços em diferentes ambientes, tais como nuvens
+    públicas e privadas e data centers.
+
+11. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Na PaaS (plataforma como um
+    serviço), as organizações não precisam gerenciar a infraestrutura de hardware e de sistemas
+    operacionais.
+
+12. (CESPE / ANVISA – 2024) Como a nuvem é pública, a infraestrutura é fornecida por meio de
+    recursos compartilhados e com acesso à Internet.
+
+13. (CESPE / ANVISA – 2024) O custo da nuvem pública pode ser considerado variável, pois
+    depende do acordo de utilização, e isso pode ser definido de forma prévia, mediante
+    contrato com o provedor de nuvem.
+
+14. (CESPE / ANVISA – 2024) Uma vez que o serviço da ANVISA que permite emitir o certificado
+    internacional de vacinação está disponível na Web, tal como apresentado na figura
+    precedente, é correto concluir que o site da ANVISA está hospedado na nuvem através de
+    um serviço de PaaS (platform as a service).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             87
+        www.estrategiaconcursos.com.br                                                      101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+15. (CESPE / MPE-GO – 2024) Dropbox e Google Drive são repositórios públicos que permitem
+    a transferência de arquivos entre computadores, via Internet, utilizando os protocolos ARP
+    e ICMP.
+
+16. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Para se utilizar o OneDrive da
+    Microsoft de forma sincronizada, é necessário que haja uma conta pessoal, corporativa ou
+    de estudante configurada para uso.
+
+17. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Considere que o acesso ao
+    Microsoft Office 365 se dará exclusivamente por meio de browser e que os documentos
+    editados devem ser salvos na solução nativa da Microsoft na nuvem. Nessa situação, o Excel
+    365, que faz parte do Microsoft Office 365, constitui um exemplo de aplicação do modelo
+    PaaS (plataforma como serviço) na cloud computing.
+
+18. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) O OneDrive permite que sejam
+    selecionadas pastas específicas de arquivos do computador para serem sincronizadas e
+    utilizadas via Web.
+
+19. (CESPE / Prefeitura de Cachoeiro de Itapemirim-ES – 2024) Para se utilizar o recurso de
+    armazenamento na nuvem do OneDrive, o usuário deve estar conectado a sua conta da
+    Microsoft.
+
+20. (CESPE / MPE-TO – 2024) Ao se armazenar determinado arquivo em uma nuvem
+    computacional pública, o acesso a esse arquivo passa a ser feito por meio da Internet.
+
+21. (CESPE / MPE-TO – 2024) Ainda que se faça a opção pelo armazenamento de dados em
+    nuvem, é necessária a realização regular de backup, para evitar a perda de dados.
+
+22. (CESPE / MPE-TO – 2024) Na computação em nuvem, os recursos de computação ficam
+    hospedados em um data center remoto e são disponibilizados à medida que são utilizados.
+
+23. (CESPE / MPE-TO – 2024) Dos modelos de serviços em nuvem, o SaaS (software as a service)
+    é aquele que fornece aos usuários o controle do nível mais baixo dos recursos de
+    computação na nuvem.
+
+24. (CESPE / MPE-TO – 2024) A nuvem privada é um ambiente de nuvem que combina vários
+    benefícios de computação em nuvem, mas não oferece elasticidade devido à natureza de
+    sua concepção.
+
+25. (CESPE / FNDE – 2024) Com o OneDrive, é possível compartilhar arquivos e pastas com
+    outros usuários, que podem acessá-los por meio de vários dispositivos diferentes.
+
+26. (CESPE / TRT-8ª Região – 2024) As pastas no Google Drive podem ser compartilhadas com
+    vários usuários, que, assim, podem acessar, editar, excluir ou mover qualquer arquivo na
+
+        Receita Federal (Analista Tributário) Fluência em Dados                            88
+        www.estrategiaconcursos.com.br                                                     101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+   pasta se tiverem feito login nas respectivas contas no Google. Nesse caso, se um arquivo de
+   uma pasta compartilhada for excluído por um usuário que não seja o proprietário, esse
+   arquivo
+
+   a) poderá ser acessado somente pelo proprietário.
+   b) será excluído para todos, inclusive para o proprietário.
+   c) será excluído para todos e somente poderá ser acessado pelo usuário que tiver feito a
+   exclusão.
+   d) não poderá ser acessado somente pelo usuário que fez a exclusão.
+   e) será marcado para exclusão, podendo ser excluído de forma definitiva pelo proprietário.
+
+27. (CESPE / DATAPREV – 2024) O IaaS é o serviço de computação em nuvem que utiliza um
+    modelo de pagamento por demanda, de maneira que o cliente paga apenas pelos serviços
+    utilizados.
+
+28. (CESPE / EMPREL – 2024) Na computação em nuvem, quando o gerenciamento do espaço
+    em disco e do sistema operacional é de responsabilidade do provedor, o serviço utilizado é
+    do tipo
+
+   a) contêiner como serviço (CaaS).
+   b) plataforma como serviço (PaaS).
+   c) infraestrutura como serviço (IaaS).
+   d) software como serviço (SaaS).
+   e) dado como serviço (DaaS).
+
+29. (CESPE / EMPREL – 2024) Em computação em nuvem, quando uma organização monta e
+    fornece serviços para outras empresas, ela está utilizando o modelo de nuvem do tipo
+
+   a) proprietária.
+   b) híbrida.
+   c) pública.
+   d) comunidade.
+   e) privada.
+
+30. (CESPE / FNDE – 2024) Com o OneDrive, é possível compartilhar arquivos e pastas com
+    outros usuários, que podem acessá-los por meio de vários dispositivos diferentes.
+
+31. (CESPE / SEFIN de Fortaleza – 2023) A principal diferença existente entre os modelos
+    públicos e os modelos privados de implantação de nuvem é que os privados são de uso
+    exclusivo de uma determinada organização e devem necessariamente ser operados e
+    geridos pela própria organização.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                            89
+        www.estrategiaconcursos.com.br                                                     101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+32. (CESPE / SEFIN de Fortaleza – 2023) Em um modelo de computação em nuvem do tipo IaaS,
+    o provedor do serviço é responsável por proteger toda a infraestrutura, além do sistema
+    operacional e dos dados dos clientes.
+
+33. (CESPE / SEFIN de Fortaleza – 2023) Certo analista fazendário recebeu arquivo em formato
+    pdf e deverá aproveitar parte das informações e dos dados constantes do arquivo para
+    elaborar parecer técnico.
+
+   Considerando essa situação hipotética, julgue o item seguinte.
+
+   O analista poderá salvar o arquivo recebido na nuvem, pois este serviço permite ao usuário
+   armazenar e acessar arquivos e dados remotamente.
+
+34. (CESPE / SEFIN de Fortaleza – 2023) Após uma diligência, certo auditor fiscal deverá criar
+    relatório reportando o caso e, em seguida, encaminhar o relatório para o órgão responsável,
+    junto com a documentação comprobatória.
+
+   Considerando a situação hipotética apresentada, julgue o item a seguir.
+
+   Para evitar que se perca o trabalho de criação do relatório, o auditor poderá armazenar o
+   respectivo arquivo tanto em seu computador quanto na nuvem.
+
+35. (CESPE / SEFIN de Fortaleza – 2023) Certo analista fazendário recebeu arquivo em formato
+    pdf e deverá aproveitar parte das informações e dos dados constantes do arquivo para
+    elaborar parecer técnico.
+
+   Considerando essa situação hipotética, julgue o item seguinte.
+
+   O analista poderá salvar o arquivo recebido na nuvem, pois este serviço permite ao usuário
+   armazenar e acessar arquivos dados remotamente.
+
+36. (CESPE / PC-AL – 2023) Considere que, em uma delegacia, seja necessário compartilhar um
+    local de armazenamento de arquivos, de modo que agentes e delegado acessem e
+    armazenem arquivos que sejam sincronizados e acessíveis em qualquer dispositivo. Nesse
+    caso, a contratação de serviço de armazenamento na nuvem, como iCloud, Google Drive,
+    Dropbox, entre outros, atenderia aos requisitos e facilitaria o compartilhamento para todos
+    os envolvidos.
+
+37. (CESPE / SEFIN de Fortaleza – 2023) A respeito de computação em nuvem, assinale a opção
+    correta.
+
+   a) O uso doméstico da computação em nuvem ainda não é possível, porque esse recurso
+   está disponível exclusivamente para empresas e organizações.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             90
+        www.estrategiaconcursos.com.br                                                      101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+   b) O Gmail é um exemplo de aplicação em nuvem, pois o sistema de gerenciamento de
+   emails fica armazenado nos servidores do prestador do serviço.
+   c) Os serviços de computação em nuvem são disponibilizados apenas mediante
+   pagamento.
+   d) O Microsoft Office 365 não dispõe de aplicações em nuvem, pois só é possível utilizar os
+   softwares desse pacote que estejam instalados no computador.
+
+38. (CESPE / CNMP – 2023) No OneDrive, um arquivo poderá ser aberto no modo online e, se
+    necessário, ser editado em modo offline.
+
+39. (CESPE / CNMP – 2023) Sistemas de armazenamento em nuvem permitem que usuários
+    façam backup de arquivos gerais de maneira online.
+
+40. (CESPE / CNMP – 2023) Uma das características do armazenamento em nuvem é a
+    elasticidade, ou seja, o usuário pode aumentar e diminuir a escala verticalmente, conforme
+    a demanda, e pagar apenas pelo que usa.
+
+41. (CESPE / TJ-CE – 2023) Certo analista fazendário recebeu arquivo em formato pdf e deverá
+    aproveitar parte das informações e dos dados constantes do arquivo para elaborar parecer
+    técnico.
+
+   a) Google Drive, Dropbox
+   b) Facebook. Linkedin
+   c) Documentos, Downloads
+   d) Explorador de Arquivos, OneDrive
+   e) Office 365, Bing
+
+42. (CESPE / SEE-PE – 2023) No Windows, é possível realizar a cópia de segurança dos arquivos
+    do usuário diretamente na nuvem, usando-se, para tanto, a função de sincronizar arquivos
+    com o OneDrive da Microsoft.
+
+43. (CESPE / SEE-PE – 2023) É possível desabilitar a opção de notificação de comentários nas
+    postagens, sejam eles comentários que fazem referência ao professor ou comentários
+    particulares nas atividades.
+
+44.(CESPE / SEE-PE – 2023) No Google Sala de Aula, para abrir os trabalhos enviados pelos
+   estudantes de uma mesma turma, é necessário selecionar a turma, clicar na atividade e, em
+   seguida, visualizar a lista consolidada de todas as atividades entregues.
+
+45. (CESPE / SEE-PE – 2023) As notificações geradas pelo Google Sala de Aula são enviadas por
+    email para os estudantes.
+
+46.(CESPE / CAU-BR – 2024) Uma nuvem é considerada híbrida quando é utilizada por duas ou
+   mais organizações sem vínculo entre si.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                            91
+        www.estrategiaconcursos.com.br                                                     101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+47. (CESPE / CAU-BR – 2024) Na modalidade IaaS (infrastructure as a service), o sistema
+    operacional e as aplicações instaladas podem ser controlados pelo próprio usuário.
+
+48.(CESPE / CAU-BR – 2024) A modalidade PaaS (plataform as a software) é indicada para
+   desenvolvedores de aplicações que operam na nuvem, pois oferece um ambiente de
+   desenvolvimento de software.
+
+49.(CESPE / APEX Brasil – 2024) Em um dos modelos de computação em nuvem, o usuário não
+   precisa fazer mais do que usar a aplicação, sendo o provedor responsável pelo que estiver
+   associado com a criação e operação da aplicação, além de cuidar da segurança dos dados do
+   usuário e do ambiente como um todo. Esse modelo de computação em nuvem é denominado:
+
+   a) SaaS (software como serviço).                    ==219a34==
+
+   b) PaaS (plataforma como serviço).
+   c) FaaS (função como serviço).
+   d) IaaS (infraestrutura como serviço).
+
+50. (CESPE / PC-PE – 2024) Assinale a opção que apresenta o tipo de serviço de computação em
+    nuvem que é um modelo de execução orientado a eventos e que permite que desenvolvedores
+    criem, executem e gerenciem pacotes de aplicações sem a necessidade de se preocuparem com
+    a manutenção da infraestrutura.
+
+   a) infraestrutura como serviço (IaaS)
+   b) containers como serviço (CaaS)
+   c) função como serviço (FaaS)
+   d) software como serviço (SaaS)
+   e) plataformas como serviço (PaaS)
+
+51. (CESPE / Prefeitura de Fortaleza – 2023) Certo analista fazendário recebeu arquivo em formato
+    pdf e deverá aproveitar parte das informações e dos dados constantes do arquivo para elaborar
+    parecer técnico. Considerando essa situação hipotética, julgue o item seguinte.
+
+   O analista poderá salvar o arquivo recebido na nuvem, pois este serviço permite ao usuário
+   armazenar e acessar arquivos e dados remotamente.
+
+52. (CESPE / EMPREL – 2023) Em computação em nuvem, quando uma organização monta e
+    fornece serviços para outras empresas, ela está utilizando o modelo de nuvem do tipo:
+
+   a) proprietária.
+   b) híbrida.
+   c) pública.
+   d) comunidade.
+   e) privada.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                               92
+        www.estrategiaconcursos.com.br                                                        101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+53. (CESPE / CBM-TO – 2023) Assinale a opção que apresenta uma solução de armazenamento de
+    arquivos em nuvem.
+
+   a) NordVPN
+   b) Dropbox
+   c) Netflix
+   d) Spotify
+
+54. (CESPE / PC AL – 2023) Considere que, em uma delegacia, seja necessário compartilhar um local
+    de armazenamento de arquivos, de modo que agentes e delegado acessem e armazenem
+    arquivos que sejam sincronizados e acessíveis em qualquer dispositivo. Nesse caso, a
+    contratação de serviço de armazenamento na nuvem, como iCloud, Google Drive, Dropbox,
+    entre outros, atenderia aos requisitos e facilitaria o compartilhamento para todos os envolvidos.
+
+55. (CESPE / Prefeitura de Recife – 2023) Um usuário pode fazer o backup, ou a cópia de segurança,
+    de arquivos por meio da ferramenta Google Drive.
+
+56. (CESPE / Prefeitura de Boa Vista-RR - 2023) Suponha que um arquivo da Área de Trabalho do
+    computador seja colocado na nuvem. Nesse caso, o arquivo ficará disponível:
+
+   a) em uma solução de armazenamento online.
+   b) na pasta Documentos do computador.
+   c) em um pendrive do usuário.
+   d) no armazenamento interno do celular do usuário.
+
+57. (CESPE / CNMP - 2023) Uma das características do armazenamento em nuvem é a elasticidade,
+    ou seja, o usuário pode aumentar e diminuir a escala verticalmente, conforme a demanda, e
+    pagar apenas pelo que usa.
+
+58. (CESPE / CNMP - 2023) Sistemas de armazenamento em nuvem permitem que usuários façam
+    backup de arquivos gerais de maneira online.
+
+59. (CESPE / Prefeitura de São Cristovão-SE - 2023) A respeito de computação em nuvem, assinale
+    a opção correta.
+
+   a) O uso doméstico da computação em nuvem ainda não é possível, porque esse recurso está
+   disponível exclusivamente para empresas e organizações.
+
+   b) O Gmail é um exemplo de aplicação em nuvem, pois o sistema de gerenciamento de emails
+   fica armazenado nos servidores do prestador do serviço.
+
+   c) Os serviços de computação em nuvem são disponibilizados apenas mediante pagamento.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                   93
+        www.estrategiaconcursos.com.br                                                            101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+   d) O Microsoft Office 365 não dispõe de aplicações em nuvem, pois só é possível utilizar os
+   softwares desse pacote que estejam instalados no computador.
+60.(CESPE / CNMP - 2023) No OneDrive, um arquivo poderá ser aberto no modo online e, se
+   necessário, ser editado em modo offline.
+
+61. (CESPE / TRT8 - 2022) Um dos requisitos para implementação dos serviços na Google Cloud
+    pelo TRT8 foi que o primeiro hospedasse, mantivesse e atualizasse a infraestrutura de back-end,
+    tais como, armazenamento, rede e virtualização, enquanto o segundo fosse responsável por
+    gerenciar o sistema operacional, middleware e aplicativos.
+
+   Certo órgão, ao definir os modelos de serviço de computação em nuvem, decidiu que seria
+   responsável por gerenciar o sistema operacional, middleware e aplicativos, enquanto
+   hospedaria, manteria e atualizaria a infraestrutura de back-end, tal como, armazenamento,
+   rede e virtualização através do Google Cloud.
+
+   Assinale a opção que corresponde ao modelo de serviço descrito pelo trecho precedente.
+
+   a) IaaS.
+   b) CaaS.
+   c) SaaS.
+   d) PaaS.
+   e) Colocation.
+
+62. (CESPE / TELEBRAS – 2022) Na execução de cargas de trabalho na computação em nuvem, o
+    repositório de recursos de tecnologia da informação pode ser provisionado e escalado mediante
+    o acesso via rede.
+
+63. (CESPE / PETROBRAS – 2022) No modelo IaaS, o provedor do serviço de nuvem é responsável
+    pela segurança fundamental do ambiente, enquanto o usuário da nuvem é responsável pela
+    segurança de sua rede virtual e de tudo o que for construído sobre a infraestrutura
+    disponibilizada.
+
+64.(CESPE / SERES-PE – 2022) Suítes de escritório, como o Microsoft Office 365, quando
+   executadas na nuvem, são um exemplo de:
+
+   a) software as a service.
+   b) business process as a service.
+   c) platform as a service.
+   d) functions as a service.
+   e) infrastructure as a service.
+
+65. (CESPE / TCE-SC – 2022) Em arquitetura em nuvem, dentre os tipos SaaS, IaaS e PaaS, o serviço
+    de becape é restrito aos dois últimos, haja vista que no SaaS não há como personalizar os
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 94
+        www.estrategiaconcursos.com.br                                                          101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+   recursos de hardware, que é essencial para oferecer métodos eficazes de cópias regulares de um
+   fornecedor de serviços para outro local.
+
+66. (CESPE / TCE-RJ – 2022) No modelo IaaS de serviço em nuvem, o consumidor gerencia e
+   controla sistemas operacionais, armazenamento, componentes e sistemas de segurança e a
+   infraestrutura de nuvem subjacente.
+
+67. (CESPE / TCE-SC – 2022) Uma característica própria dos serviços de armazenamento de dados
+    em nuvem (cloud storage) é a:
+
+   a) garantia de espaço ilimitado.
+   b) execução de aplicações remotas.
+   c) garantia de gratuidade.
+   d) mobilidade facilitada para o usuário.
+   e) codificação de linguagens de programação.
+
+68. (CESPE / APEX-Brasil – 2022) Na computação em nuvem, a oferta de um ambiente de
+   serviços para, por exemplo, desenvolvimento e teste de software, ocorre por meio de:
+
+   a) IaaS – infraestrutura como serviço.
+   b) PaaS – plataforma como serviço.
+   c) SaaS – software como serviço.
+   d) Web service – serviços web.
+
+69. (CESPE / APEX-Brasil – 2022) Assinale a opção que apresenta o modelo de serviços na
+   nuvem em que o cliente, para usufruto do serviço, deve instalar e configurar, por conta própria,
+   os recursos necessários, como compiladores, banco de dados e o próprio sistema operacional.
+
+   a) CaaS (Containers as a Service)
+   b) IaaS (Infrastructure as a Service)
+   c) SaaS (Software as a Service)
+   d) PaaS (Platform as a Service)
+
+70. (CESPE / APEX Brasil – 2022) Na plataforma como serviço,
+
+   a) os desenvolvedores podem criar aplicativos móveis sem se preocupar com o gerenciamento
+   de infraestrutura subjacente de servidores e bancos de dados necessários.
+
+   b) são oferecidos recursos de computação, armazenamento e rede, sob demanda e pagos
+   conforme o uso; o usuário desenvolve as soluções e é responsável pela instalação necessária.
+
+   c) o provedor de serviços não fornece infraestrutura subjacente de software, mas fornece
+   aplicativos por meio da Internet para o desenvolvimento de soluções de software.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 95
+        www.estrategiaconcursos.com.br                                                          101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+   d) os usuários subscrevem o software e o acessam por meio da Web ou de APIs do fabricante,
+   sem a necessidade que o provedor forneça infraestrutura subjacente.
+
+71. (CESPE / Prefeitura de São Cristóvão-SE – 2022) O aumento de custos e a desobrigação de
+    possuir uma estrutura interna de servidores são considerados desvantagens da computação em
+    nuvem para as organizações.
+
+72. (CESPE / Prefeitura de São Cristóvão-SE – 2022) O ambiente em que vários sistemas
+    operacionais trabalham dividindo um mesmo equipamento é denominado ambiente de
+    virtualização de hardware, um dos conceitos mais utilizados em Cloud Computing.
+
+73. (CESPE / FUNPRESP-EXE - 2022) Na computação em nuvem, diversos computadores em rede
+    são empregados para oferecerem recursos computacionais que visam solucionar um mesmo
+    problema específico.
+
+74. (CESPE / FUNPRESP-EXE - 2022) Design de aplicativo, desenvolvimento e testes são serviços
+    típicos em uma infraestrutura de SAAS (Software as a Service).
+
+75. (CESPE / PC-PB – 2022) O serviço no qual o provedor de nuvem fornece servidores,
+    armazenamento, rede e ferramentas para desenvolver, testar, hospedar e entregar aplicativos
+    e os clientes podem usar um conjunto de ferramentas pré-montadas é conhecido como:
+
+   a) Containers as a Service (CaaS).
+   b) Function as a Service (FaaS).
+   c) Service as a Service (SaaS).
+   d) Infrastructure as a Service (IaaS).
+   e) Platform as a Service (PaaS).
+
+76. (CESPE / DPDF - 2022) Em termos de arquitetura, cloud computing é considerada
+    descentralizada, pois suas aplicações são executadas em ambientes distintos.
+
+77. (CESPE / DPDF - 2022) A computação em nuvem oferece uma infraestrutura elástica e escalável
+    para os sistemas que são executados em seus ambientes, sem necessidade de customizações.
+
+78. (CESPE / DPDF - 2022) Em comparação aos modelos IaaS (infrastructure as a service) e SaaS
+    (software as a service), a implantação do modelo PaaS (platform as a service) exige um
+    investimento inicial menor, por serem desnecessários, por exemplo, investimentos com
+    infraestrutura.
+
+Um aplicativo para edição de textos foi disponibilizado para seus usuários sob a forma de
+computação em nuvem. Esses usuários podem se conectar virtualmente, colaborando
+mutuamente para a elaboração de documentos. Tais documentos, bem como os respectivos
+históricos de versões anteriores, são armazenados na nuvem.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             96
+        www.estrategiaconcursos.com.br                                                      101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+Com referência a essa situação hipotética, julgue o próximo item.
+
+79. (CESPE / PETROBRAS – 2022) A situação descreve um modelo de nuvem denominado PaaS
+    (platform as a service).
+
+80.(CESPE / TELEBRÁS - 2021) Uma pequena empresa pode hospedar seu sistema de informações
+   em nuvem pública sem qualquer custo, uma vez que toda nuvem pública é gratuita.
+
+81. (CESPE / Petrobrás - 2022) No que se relaciona a elasticidade e escalonamento de computação
+    em nuvem, os usuários têm a expectativa de que a nuvem seja capaz de fornecer rapidamente
+    recursos em qualquer quantidade e a qualquer momento.
+
+82. (CESPE / Petrobrás - 2022) Cloud computing é uma das inovações tecnológicas que mais
+    cresceu nos últimos anos, por isso é uma instância direta da computação autônoma, em que os
+    sistemas se autogerenciam.
+
+83. (CESPE / Petrobrás - 2022) Na cloud computing são essenciais o cumprimento de três
+    indicadores: disponibilidade, capacidade e desempenho na entrega de soluções e informações.
+
+84.(CESPE / TELEBRÁS - 2021) Uma nuvem privada permite que a organização controle o seu
+   próprio ambiente, incluindo seus dados.
+
+85. (CESPE / PC-SE – 2021) Uma nuvem pode tanto armazenar arquivos pessoais de um usuário
+    quanto hospedar a intranet de uma organização.
+
+86. (CESPE / PC-AL – 2021) A computação na nuvem (cloud computing) possibilita que
+   aplicações executadas em servidores isolados sejam também executadas na nuvem (Internet)
+   em um ambiente de larga escala e com o uso “elástico” de recursos.
+
+87. (CESPE / SEFAZ-CE – 2021) PaaS (Platform as a Service) é o tipo de cloud computing que
+    permite a utilização de uma aplicação na Web, como, por exemplo, Google Docs e Office 365.
+
+88. (CESPE / SEFAZ-CE – 2021) Nuvens públicas proveem espaço ilimitado em servidores que
+   reúnem as informações de todos os seus usuários.
+
+89. (CESPE / SEFAZ-CE – 2021) Em se tratando do uso organizacional de nuvens privadas, o
+   modelo, a definição e os riscos associados à organização devem permanecer intactos na nuvem,
+   pois os seus recursos são provisionados para uso exclusivo da organização interessada,
+   compreendendo suas várias unidades de negócios.
+
+90.(CESPE / SEFAZ-CE – 2021) Na computação em nuvem, o serviço medido, ou uso medido,
+   permite que o uso de recursos seja monitorado, controlado e relatado, o que fornece
+   transparência tanto para o provedor quanto para o consumidor do serviço.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             97
+        www.estrategiaconcursos.com.br                                                      101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+91. (CESPE / SEFAZ-CE – 2021) Em uma nuvem, a característica de os recursos de computação do
+    provedor serem agrupados para atender a vários consumidores é chamada de elasticidade.
+
+92. (CESPE / PM-AL – 2021) Uma característica do ambiente de computação em nuvem é a
+    elasticidade rápida, que permite provisionar recursos independentemente da sua localização.
+
+93. (CESPE / PM-AL – 2021) Uma característica da computação em nuvem é o formato de acesso à
+    rede, que é proporcionado especificamente entre equipamentos servidores, não sendo
+    utilizados dispositivos clientes como notebooks e smartphones.
+
+Uma agente, a partir do computador de sua casa, necessitava acessar, com segurança, os serviços
+de PaaS na nuvem, com criptografia, utilizando a Internet pública como meio de comunicação entre
+essas localidades. Para tanto, criou-se uma VPN (Virtual Private Network) da Internet pública, a fim
+de estabelecer a conexão entre as localidades e, para prover o sigilo, criptografou-se o referido
+tráfego antes de ele entrar na Internet pública.
+
+94.(CESPE / PCDF – 2021) A solução descreve corretamente o uso da VPN como meio de prover
+   segurança no tráfego, mas torna-se inviável nessa situação, pois uma VPN não pode ser utilizada
+   para acesso a serviço do tipo PaaS como descrito.
+
+95. (CESPE / PCDF – 2021) Caso o acesso fosse realizado por meio da VPN para o SaaS, por
+    exemplo, para um webmail, os e-mails estariam imunes a vírus, pois, em um tunelamento
+    criptográfico, o tráfego é, necessariamente e continuadamente, analisando por antivírus.
+
+96. (CESPE / BANESE – 2021) O provisionamento para aumento de recursos como memória
+   RAM e armazenamento é uma característica disponibilizada em um ambiente de PaaS
+   (Plataform as a Service).
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                  98
+        www.estrategiaconcursos.com.br                                                           101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+97. (CESPE / BANESE – 2021) Uma solução de software como o Microsoft Office 365, que pode ser
+    acessado pela Web, a partir de login e senha em formato de assinatura com pagamentos
+    mensais, é denominada SaaS (Software as a Service).
+
+98. (CESPE / BANESE – 2021) O aumento ou a redução rapidamente na capacidade de recursos
+   computacionais como processador sob demanda, é uma característica para serviços de cloud
+   computing.
+
+99. (CESPE / SERPRO – 2021) A computação em nuvem pública acessa recursos por meio da
+   Internet, usando interface web, com alocação e pagamento por demanda (soluções elásticas);
+   no entanto, o fato de ela ser pública não significa que seja livre nem aberta.
+
+100. (CESPE / SERPRO – 2021) A ideia central da computação em nuvem é possibilitar que as
+   aplicações que rodam em datacenters isolados também rodem na nuvem (Internet) em um
+   ambiente de larga escala e com um uso elástico de recursos.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                           99
+        www.estrategiaconcursos.com.br                                                    101
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 00
+
+                                                GABARITO
+1.     CORRETO                           35.     CORRETO                          69.    LETRA B
+2.     ERRADO                            36.     CORRETO                          70.    LETRA A
+3.     LETRA E                           37.     LETRA B                          71.    ERRADO
+4.     ERRADO                            38.     CORRETO                          72.    CORRETO
+5.     LETRA C                           39.     CORRETO                          73.    ERRADO
+6.     ERRADO                            40.     CORRETO                          74.    ERRADO
+7.     ERRADO                            41.     LETRA A                          75.    LETRA E
+8.     CORRETO                           42.     CORRETO                          76.    ERRADO
+9.     ERRADO                            43.     CORRETO                          77.    ERRADO
+10.    CORRETO                           44.     CORRETO                          78.    CORRETO
+11.    CORRETO                           45.     CORRETO                          79.    ERRADO
+12.    CORRETO                           46.     ERRADO                           80.    ERRADO
+13.    CORRETO                           47.     CORRETO                          81.    CORRETO
+14.    ERRADO                            48.     CORRETO                          82.    ERRADO
+15.    ERRADO                            49.     LETRA A                          83.    CORRETO
+16.    CORRETO                           50.     ANULADA                          84.    CORRETO
+17.    ERRADO                            51.     CORRETO                          85.    CORRETO
+18.    CORRETO                           52.     LETRA C                          86.    CORRETO
+19.    CORRETO                           53.     LETRA B                          87.    ERRADO
+20.    CORRETO                           54.     CORRETO                          88.    ERRADO
+21.    CORRETO                           55.     CORRETO                          89.    CORRETO
+22.    CORRETO                           56.     LETRA A                          90.    CORRETO
+23.    ERRADO                            57.     CORRETO                          91.    ERRADO
+24.    ERRADO                            58.     CORRETO                          92.    ERRADO
+25.    CORRETO                           59.     LETRA B                          93.    ERRADO
+26.    LETRA B                           60.     CORRETO                          94.    ERRADO
+27.    CORRETO                           61.     LETRA A                          95.    ERRADO
+28.    LETRA B                           62.     CORRETO                          96.    ERRADO
+29.    LETRA C                           63.     CORRETO                          97.    CORRETO
+30.    CORRETO                           64.     LETRA A                          98.    CORRETO
+31.    ERRADO                            65.     ERRADO                           99.    CORRETO
+32.    ERRADO                            66.     ERRADO                           100.   CORRETO
+33.    CORRETO                           67.     LETRA D
+34.    CORRETO                           68.     LETRA B
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                    100
+        www.estrategiaconcursos.com.br                                                             101
+
+                                    
+
+
+---
+
+---

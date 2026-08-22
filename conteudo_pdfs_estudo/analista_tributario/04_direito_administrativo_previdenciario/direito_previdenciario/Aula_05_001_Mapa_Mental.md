@@ -1,0 +1,396 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 05_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '05'
+titulo_aula: SALÁRIO-DE-CONTRIBUIÇÃO
+artigos_citados:
+- ART. 28
+- ART. 479
+---
+
+# SALÁRIO-DE-CONTRIBUIÇÃO
+
+SALÁRIO-DE-CONTRIBUIÇÃO
+
+
+CONCEITO E LIMITES                                                     EMPREGADO E TRABALHADOR AVULSO.
+                      ❑ TOTAL DE RENDIMENTOS PAGOS, DEVIDOS OU CREDITADOS.
+
+                      ❑ A QUALQUER TÍTULO.
+
+                      ❑ DURANTE O MÊS (PERÍODO DE APURAÇÃO).
+
+                      ❑ DESTINADOS A RETRIBUIR O TRABALHO.
+
+                      ❑ INCLUSIVE AS GORJETAS.
+
+                      ❑ E OS GANHOS HABITUAIS SOBRE FORMA DE UTILIDADES.
+
+                      ❑ QUER PELOS SERVIÇOS EFETIVAMENTE PRESTADOS.
+
+                      ❑ QUER PELO TEMPO À DISPOSIÇÃO DO EMPREGADOR OU TOMADOR.
+
+
+                       LIMITE MÁXIMO                               O LIMITE MÁXIMO DO SALÁRIO-DE-CONTRIBUIÇÃO (REAJUSTADO ANUALMENTE).
+
+                                                                   É O VALOR DO PISO SALARIAL LEGAL OU NORMATIVO DA CATEGORIA OU,
+                       LIMITE MÍNIMO                               INEXISTINDO ESTE, O SALÁRIO MÍNIMO, NO SEU VALOR MENSAL, DIÁRIO OU
+                                                                   HORÁRIO.
+
+                                                                                                                  DIREITO PREVIDENCIÁRIO
+                                                                              ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+                                 SALÁRIO-DE-CONTRIBUIÇÃO
+
+
+   CONCEITO E LIMITES                                                                EMPREGADO DOMÉSTICO
+                                  O SALÁRIO-DE-CONTRIBUIÇÃO DO EMPREGADO DOMÉSTICO É A REMUNERAÇÃO REGISTRADA EM SUA CARTEIRA DE
+                                  TRABALHO.
+
+
+                                   LIMITE MÁXIMO                              O LIMITE MÁXIMO DO SALÁRIO-DE-CONTRIBUIÇÃO (REAJUSTADO ANUALMENTE).
+
+
+                                                                              É O VALOR DO PISO SALARIAL LEGAL OU NORMATIVO DA CATEGORIA OU,
+                                   LIMITE MÍNIMO                              INEXISTINDO ESTE, O SALÁRIO MÍNIMO, NO SEU VALOR MENSAL, DIÁRIO OU
+                                                                              HORÁRIO.
+
+  CONTRIBUINTE INDIVIDUAL
+                                   LIMITE MÁXIMO                              O LIMITE MÁXIMO DO SALÁRIO-DE-CONTRIBUIÇÃO (REAJUSTADO ANUALMENTE).
+O SALÁRIO-DE-CONTRIBUIÇÃO DO
+CONTRIBUINTE INDIVIDUAL É A
+REMUNERAÇÃO AUFERIDA EM UMA
+OU MAIS EMPRESAS OU PELO
+EXERCÍCIO DE SUA ATIVIDADE POR
+                                   LIMITE MÍNIMO                              É O SALÁRIO MÍNIMO, NO SEU VALOR MENSAL.
+CONTA PRÓPRIA, DURANTE O MÊS.
+
+                                                                                                                             DIREITO PREVIDENCIÁRIO
+                                                                                         ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+                         SALÁRIO-DE-CONTRIBUIÇÃO
+
+CONCEITO E LIMITES                                                           SEGURADO FACULTATIVO
+                          O SALÁRIO-DE-CONTRIBUIÇÃO DO EMPREGADO FACULTATIVO É O VALOR POR ELE DECLARADO.
+
+
+                           LIMITE MÁXIMO                              O LIMITE MÁXIMO DO SALÁRIO-DE-CONTRIBUIÇÃO (REAJUSTADO ANUALMENTE).
+
+                           LIMITE MÍNIMO                              É O SALÁRIO MÍNIMO, NO SEU VALOR MENSAL.
+
+                           O LIMITE MÁXIMO DO SALÁRIO-DE-CONTRIBUIÇÃO É REAJUSTADO NA MESMA ÉPOCA COM OS
+  REAJUSTAMENTO            MESMOS ÍNDICES QUE O REAJUSTAMENTO DOS BENEFÍCIOS DE PRESTAÇÃO CONTINUADA DA
+ART. 28, § 5º 8.212/91     PREVIDÊNCIA SOCIAL.
+
+                                                                                                                     DIREITO PREVIDENCIÁRIO
+                                                                                 ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+    PARCELAS INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+
+  PARCELAS       REMUNERAÇÃO É A RETRIBUIÇÃO PELOS SERVIÇOS                     PRESTADOS E INTEGRAM O SALÁRIO-DE-
+INTEGRANTES      CONTRIBUIÇÃO.
+
+   SALÁRIO                VALORES PAGOS
+                                                                  INTEGRAM O SALÁRIO-DE-CONTRIBUIÇÃO.
+                          PELO TRABALHO
+
+
+FÉRIAS GOZADAS
+                                VALORES
+                           PAGOS PARA O                           NÃO INTEGRAM O SALÁRIO-DE-CONTRIBUIÇÃO.
+  13º SALÁRIO                  TRABALHO
+
+ HORAS EXTRAS
+
+                                                               SALÁRIO-MATERNIDADE*
+                               (*COTA PATRONAL DEIXOU DE INTEGRAR O SALÁRIO DE CONTRIBUIÇÃO)
+
+                                                       TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS
+
+                                                                                                      DIREITO PREVIDENCIÁRIO
+                                                                  ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+          PARCELAS INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+
+      PARCELAS
+                                                         GORJETAS (ESPONTÂNEAS OU COMPULSÓRIAS)
+    INTEGRANTES
+                                                             SALÁRIO PAGO SOB FORMA DE UTILIDADES
+COMISSÕES E PERCENTAGENS
+                                             REMUNERAÇÃO DO APOSENTADO QUE VOLTAR AO TRABALHO
+     AUXÍLIO MORADIA
+                                      GRATIFICAÇÕES AJUSTADAS OU HABITUAIS (EXPRESSAS OU TÁCITAS)
+     QUEBRA DE CAIXA
+                                            ADICIONAL POR TEMPO DE SERVIÇO (ANUÊNIO, QUINQUÊNIO)
+   LICENÇA CASAMENTO
+                                           ADICIONAIS DE INSALUBRIDADE, PERICULOSIDADE E NOTURNO
+   SALÁRIO PATERNIDADE
+                                                       LICENÇA PARA PRESTAÇÃO DE SERVIÇO ELEITORAL
+
+ADICIONAL DE TRANSFERÊNCIA
+                                                                  REPOUSO SEMANAL REMUNERADO
+
+ AVISO PRÉVIO TRABALHADO
+
+
+                                                                                                       DIREITO PREVIDENCIÁRIO
+                                                                   ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+    PARCELAS NÃO INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+
+LISTA EXAUSTIVA DO § 9º, ART.                      AS PARCELAS RELATIVAS A INDENIZAÇÃO E A RESSARCIMENTO, EM GERAL, NÃO ESTÃO
+    28, DA LEI Nº 8.212/91                         INCLUÍDAS NOS CONCEITOS DE SALÁRIO-DE-CONTRIBUIÇÃO E DE REMUNERAÇÃO.
+
+  INDENIZAÇÃO         REPARAÇÃO DE DANOS.
+
+ RESSARCIMENTO        COMPENSAÇÃO DE DESPESAS QUE O TRABALHADOR TENHA EFETUADO EM DECORRÊNCIA DA EXECUÇÃO DO TRABALHO.
+
+                                                   OS BENEFÍCIOS DO RGPS, NOS TERMOS E LIMITES LEGAIS INCLUSIVE O SALÁRIO-
+  PARCELAS NÃO INTEGRANTES                         MATERNIDADE (A CARGO DO EMPREGADOR).
+
+                                                A DECISÃO DO STF TEM REPERCUSSÃO GERAL, TENDO-SE FIXADA A SEGUINTE TESE: “É
+                                                INCONSTITUCIONAL A INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADOR
+                                                SOBRE O SALÁRIO MATERNIDADE”.
+
+                                                                                                             DIREITO PREVIDENCIÁRIO
+                                                                         ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+       PARCELAS NÃO INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+
+   PARCELAS NÃO INTEGRANTES                AS AJUDAS DE CUSTO E O ADICIONAL MENSAL RECEBIDOS PELO AERONAUTA.
+
+
+AUXÍLIO-ALIMENTAÇÃO E A PARCELA "IN                AJUDA DE CUSTO                               EM CASO DE TRANSFERÊNCIA PERMANENTE.
+NATURA" RECEBIDA DE ACORDO COM O
+PROGRAMA       DE   ALIMENTAÇÃO      DO
+TRABALHADOR    - PAT, NOS TERMOS DA
+LEI* (VEDADO    O SEU PAGAMENTO EM               ADICIONAL MENSAL                               EM CASO DE TRANSFERÊNCIA PROVISÓRIA.
+DINHEIRO).
+
+                                           INDENIZAÇÃO DE 40% DO MONTANTE DEPOSITADO NO FGTS, POR DEMISSÃO SEM JUSTA
+                                           CAUSA.
+
+FÉRIAS   INDENIZADAS     E    RESPECTIVO   INDENIZAÇÃO POR TEMPO DE SERVIÇO, ANTERIOR A 5 DE OUTUBRO DE 1988, DO
+ADICIONAL    CONSTITUCIONAL (SOBRE         EMPREGADO NÃO OPTANTE PELO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO – FGTS.
+FÉRIAS INDENIZADAS), INCLUSIVE O VALOR
+CORRESPONDENTE      À        DOBRA   DA
+                                           INDENIZAÇÃO                POR       DESPEDIDA SEM    JUSTA CAUSA NOS       CONTRATOS       POR   PRAZO
+REMUNERAÇÃO DE FÉRIAS.
+                                           DETERMINADO (CONFORME ESTABELECIDO NO ART. 479 DA CLT).
+
+                                                                                                                            DIREITO PREVIDENCIÁRIO
+                                                                                        ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+     PARCELAS NÃO INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+
+   PARCELAS NÃO INTEGRANTES             GANHOS EVENTUAIS EXPRESSAMENTE DESVINCULADOS DO SALÁRIO POR FORÇA DE LEI.
+
+
+     INCENTIVO A DEMISSÃO (PDV).              GANHOS EVENTUAIS               SÃO PAGOS POR LIBERALIDADE E SEM HABITUALIDADE;
+
+
+     LICENÇA-PRÊMIO INDENIZADA.         INDENIZAÇÃO DO TEMPO DE SERVIÇO DO SAFRISTA, QUANDO DA EXPIRAÇÃO NORMAL DO
+                                        CONTRATO. (1/12 DO SALÁRIO MENSAL POR MÊS DE SERVIÇO).
+
+ABONO DE FÉRIAS (VENDA DE 10 DIAS DE
+              FÉRIAS).                  OUTRAS INDENIZAÇÕES, DESDE QUE EXPRESSAMENTE PREVISTAS EM LEI.
+
+
+                                        INDENIZAÇÃO POR DISPENSA SEM JUSTA CAUSA, NO PERÍODO DE 30 DIAS QUE ANTECEDE
+A AJUDA DE CUSTO, EM PARCELA ÚNICA,
+                                        A CORREÇÃO SALARIAL (DEMISSÃO OBSTATIVA) = 1 SALÁRIO MENSAL.
+RECEBIDA      EXCLUSIVAMENTE       EM
+DECORRÊNCIA DE MUDANÇA DE LOCAL DE
+TRABALHO DO EMPREGADO.                  VALE-TRANSPORTE, AINDA QUE PAGA EM DINHEIRO, NA FORMA DA LEGISLAÇÃO PRÓPRIA.
+
+
+BOLSA       DE       COMPLEMENTAÇÃO     AS DIÁRIAS PARA VIAGENS (AINDA QUE HABITUAIS E INDEPENDENTEMENTE DO VALOR).
+EDUCACIONAL DE ESTAGIÁRIO, QUANDO
+PAGA NOS TERMOS DA LEI.
+
+                                                                                                          DIREITO PREVIDENCIÁRIO
+                                                                      ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+       PARCELAS NÃO INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+                                                      A PARTICIPAÇÃO NOS LUCROS OU RESULTADOS DA EMPRESA, QUANDO PAGA OU
+    PARCELAS NÃO INTEGRANTES                          CREDITADA DE ACORDO COM LEI ESPECÍFICA.
+
+
+CONTRIBUIÇÕES          EFETIVAMENTE          PAGAS
+                                                                                                             INTERVALO MÍNIMO DE 1 (UM) TRIMESTRE
+PELA    PESSOA       JURÍDICA,       RELATIVAS    A    MÁXIMO DE 2 PARCELAS POR ANO CIVIL.
+                                                                                                                       CIVIL ENTRE AS PARCELAS.
+PROGRAMA               DE            PREVIDÊNCIA
+COMPLEMENTAR          PRIVADA,        ABERTA     OU
+FECHADA,       DESDE      QUE       DISPONÍVEL    À   ABONO DO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS E DO PROGRAMA DE ASSISTÊNCIA
+TOTALIDADE      DE     SEUS     EMPREGADOS        E   AO SERVIDOR PÚBLICO – PASEP.
+DIRIGENTES.
+
+                                                      OS       VALORES             CORRESPONDENTES   A   TRANSPORTE,    ALIMENTAÇÃO      E   HABITAÇÃO
+O      VALOR    RELATIVO        À    ASSISTÊNCIA      FORNECIDOS PELA EMPRESA AO EMPREGADO CONTRATADO PARA TRABALHAR EM
+PRESTADA POR SERVIÇO MÉDICO OU                        LOCALIDADE DISTANTE DA DE SUA RESIDÊNCIA, EM CANTEIRO DE OBRAS OU LOCAL QUE,
+ODONTOLÓGICO, PRÓPRIO DA EMPRESA                      POR FORÇA DA ATIVIDADE, EXIJA DESLOCAMENTO E ESTADA.
+OU POR ELA CONVENIADO, INCLUSIVE O
+REEMBOLSO            DE        DESPESAS      COM
+                                                      COMPLEMENTAÇÃO AO VALOR DO AUXÍLIO-DOENÇA, DESDE QUE ESTE DIREITO SEJA
+MEDICAMENTOS, ÓCULOS, APARELHOS
+                                                      EXTENSIVO À TOTALIDADE DOS EMPREGADOS DA EMPRESA.
+ORTOPÉDICOS,           PRÓTESES,        ÓRTESES,
+DESPESAS        MÉDICO-HOSPITALARES              E
+OUTRAS SIMILARES, MESMO QUANDO
+CONCEDIDO                 EM          DIFERENTES
+MODALIDADES               DE        PLANOS       E
+COBERTURAS.                                                                                                                        DIREITO PREVIDENCIÁRIO
+                                                                                               ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+      PARCELAS NÃO INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+                                                     O VALOR CORRESPONDENTE A VESTUÁRIOS, EQUIPAMENTOS E OUTROS ACESSÓRIOS
+     PARCELAS NÃO INTEGRANTES                        FORNECIDOS AO EMPREGADO E UTILIZADOS NO LOCAL DO TRABALHO PARA PRESTAÇÃO
+                                                     DOS RESPECTIVOS SERVIÇOS.
+
+                                                     O RESSARCIMENTO DE DESPESAS PELO USO DE VEÍCULO DO EMPREGADO,
+                                                     QUANDO DEVIDAMENTE COMPROVADAS.
+       NÃO INTEGRAM O SALÁRIO DE
+    CONTRIBUIÇÃO O VALOR RELATIVO A
+    PLANO EDUCACIONAL, OU BOLSA DE                   O REEMBOLSO CRECHE PAGO EM CONFORMIDADE COM A LEGISLAÇÃO TRABALHISTA,
+           ESTUDO, QUE VISE À:                       OBSERVADO O LIMITE MÁXIMO DE 6 ANOS DE IDADE DA CRIANÇA, QUANDO
+                                                     DEVIDAMENTE COMPROVADAS AS DESPESAS.
+❑ EDUCAÇÃO BÁSICA DE EMPREGADOS E SEUS
+  DEPENDENTES.
+
+❑ EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA DE              O REEMBOLSO BABÁ, LIMITADO AO MENOR SALÁRIO-DE-CONTRIBUIÇÃO MENSAL E
+  EMPREGADOS, DESDE QUE VINCULADA ÀS
+                                                      CONDICIONADO À COMPROVAÇÃO DO REGISTRO NA CTPS DA EMPREGADA, DO
+  ATIVIDADES DESENVOLVIDAS PELA EMPRESA.
+                                                      PAGAMENTO                  DA         REMUNERAÇÃO     E   DO    RECOLHIMENTO     DA    CONTRIBUIÇÃO
+                                                      PREVIDENCIÁRIA,                      PAGO   EM   CONFORMIDADE   COM   A   LEGISLAÇÃO    TRABALHISTA,
+NÃO    PODERÁ    SER   UTILIZADA      EM
+SUBSTITUIÇÃO DA PARCELA SALARIAL.                     OBSERVADO O LIMITE MÁXIMO DE 6 ANOS DE IDADE DA CRIANÇA.
+
+NÃO ULTRAPASSE 5% DA REMUNERAÇÃO DO SEGURADO A QUE SE DESTINA OU O VALOR CORRESPONDENTE A UMA
+VEZ E MEIA (150%) O VALOR DO LIMITE MÍNIMO MENSAL DO SALÁRIO DE CONTRIBUIÇÃO, O QUE FOR MAIOR.
+                                                                                                                                       DIREITO PREVIDENCIÁRIO
+                                                                                                   ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+       PARCELAS NÃO INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+                                               PAGAMENTO RELATIVO AOS 15 PRIMEIROS DIAS DE AFASTAMENTO DO EMPREGADO POR
+      PARCELAS NÃO INTEGRANTES                 MOTIVO DE DOENÇA OU ACIDENTE DE TRABALHO.
+
+ OS VALORES RECEBIDOS EM DECORRÊNCIA           O STJ, NO JULGAMENTO DO RESP Nº1.230.957/RS, ENTENDEU PELA EXCLUSÃO DA REMUNERAÇÃO
+ DA CESSÃO DE DIREITOS AUTORAIS.               (PAGA PELO EMPREGADOR AO EMPREGADO NOS PRIMEIROS 15 DIAS DE AFASTAMENTO DO
+                                               TRABALHADOR QUE ANTECEDEM O AUXÍLIO POR INCAPACIDADE TEMPORÁRIA). O TEMA FOI
+                                               INCLUÍDO NA LISTA DE DISPENSA DE CONTESTAR E DE RECORRER DA PGFN.
+   PRÊMIOS E ABONOS (SEM RESTRIÇÃO).
+❑ CONSIDERAM-SE    PRÊMIOS AS LIBERALIDADES    VALOR DA MULTA PAGA AO EMPREGADO EM DECORRÊNCIA DA MORA NO PAGAMENTO DAS
+  CONCEDIDAS PELO EMPREGADOR EM FORMA DE       PARCELAS CONSTANTES DO INSTRUMENTO DE RESCISÃO DE CONTRATO DE TRABALHO.
+  BENS, SERVIÇOS OU VALORES EM DINHEIRO A
+  EMPREGADO OU A GRUPO DE EMPREGADOS, EM
+  RAZÃO     DE   DESEMPENHO  SUPERIOR    AO    HORA REPOUSO ALIMENTAÇÃO* (* APÓS A VIGÊNCIA DA LEI Nº 13.467/2017 -
+  ORDINARIAMENTE ESPERADO NO EXERCÍCIO DE      REFORMA TRABALHISTA).
+  SUAS ATIVIDADES.
+
+                                                                                     VALE CULTURA.
+ O     VALOR      DAS    CONTRIBUIÇÕES
+ EFETIVAMENTE     PAGO    PELA   PESSOA
+ JURÍDICA RELATIVO A PRÊMIO DE SEGURO          PARA ACESSO E FRUIÇÃO DE               TRABALHADOR QUE            ATUALMENTE
+ DE VIDA EM GRUPO, DESDE QUE PREVISTO           PRODUTOS OU SERVIÇOS                RECEBA ATÉ 5 SALÁRIOS        ESTABELECIDO
+ EM ACORDO OU CONVENÇÃO COLETIVA                      CULTURAIS                       MÍNIMOS MENSAIS            EM R$ 50,00
+ DE    TRABALHO     E    DISPONÍVEL    À
+ TOTALIDADE DE SEUS EMPREGADOS E              OBS: É VEDADA, EM QUALQUER HIPÓTESE, A REVERSÃO DO VALOR
+ DIRIGENTES.                                  DO VALE-CULTURA EM PECÚNIA.                                     DIREITO PREVIDENCIÁRIO
+                                                                          ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+ PARCELAS NÃO INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO
+
+                            NÃO SE CONSIDERA REMUNERAÇÃO DIRETA OU INDIRETA OS VALORES DESPENDIDOS
+                            PELAS ENTIDADES RELIGIOSAS E INSTITUIÇÕES DE ENSINO VOCACIONAL COM MINISTRO DE
+PARCELAS NÃO INTEGRANTES    CONFISSÃO               RELIGIOSA,   MEMBROS   DE   INSTITUTO   DE   VIDA   CONSAGRADA,      DE
+                            CONGREGAÇÃO OU DE ORDEM RELIGIOSA, DESDE QUE:
+
+                           ❑ SEJAM PAGOS EM FACE DO SEU MISTER RELIGIOSO OU PARA SUA SOBREVIVÊNCIA; E
+                           ❑ FORNECIDOS EM CONDIÇÕES QUE INDEPENDAM DA NATUREZA E QUANTIDADE DO TRABALHO
+                             EXECUTADO.
+
+                                                                                                      DIREITO PREVIDENCIÁRIO
+                                                                  ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+                             SALÁRIO-DE-CONTRIBUIÇÃO
+
+                                   OBS: O               SALÁRIO           DE    CONTRIBUIÇÃO   DO   CONDUTOR      AUTÔNOMO    DE   VEÍCULO
+                                   RODOVIÁRIO, INCLUSIVE O TAXISTA E O MOTORISTA DE TRANSPORTE REMUNERADO
+                                   PRIVADO INDIVIDUAL DE PASSAGEIROS, DO AUXILIAR DE CONDUTOR AUTÔNOMO E DO
+  SALÁRIO-DE-CONTRIBUIÇÃO          OPERADOR                  DE         TRATOR,    MÁQUINA     DE   TERRAPLANAGEM,     COLHEITADEIRA       E
+                                   ASSEMELHADOS,                        SEM    VÍNCULO   EMPREGATÍCIO,   E   DO   COOPERADO     FILIADO    A
+                                   COOPERATIVA DE TRANSPORTADORES AUTÔNOMOS CORRESPONDE A:
+
+                                  20% DO VALOR BRUTO AUFERIDO PELO FRETE, CARRETO OU TRANSPORTE E NÃO SE ADMITE A DEDUÇÃO
+                                  DE QUALQUER VALOR RELATIVO AOS DISPÊNDIOS COM COMBUSTÍVEL E MANUTENÇÃO DO VEÍCULO.
+
+                                  AS      PARCELAS DEFINIDAS COMO NÃO-INTEGRANTES DO SALÁRIO-DE-CONTRIBUIÇÃO,
+PAGAMENTO EM DESACORDO COM
+                                  QUANDO PAGAS OU CREDITADAS EM DESACORDO COM A LEGISLAÇÃO PERTINENTE,
+       A LEGISLAÇÃO               PASSAM A INTEGRÁ-LO, PARA TODOS OS FINS E EFEITOS.
+
+                                   QUANDO A ADMISSÃO, A DISPENSA, O AFASTAMENTO OU A FALTA DO EMPREGADO,
+   PROPORCIONALIDADE DO
+                                   INCLUSIVE O DOMÉSTICO, OCORRER NO CURSO DO MÊS, O SALÁRIO DE CONTRIBUIÇÃO
+  SALÁRIO DE CONTRIBUIÇÃO          SERÁ PROPORCIONAL AO NÚMERO DE DIAS EFETIVAMENTE TRABALHADOS.
+
+                                                                                                                      DIREITO PREVIDENCIÁRIO
+                                                                                  ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---

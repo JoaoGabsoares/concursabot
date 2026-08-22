@@ -1,0 +1,176 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 05_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: QUESTÕES FGV 2023
+---
+
+# QUESTÕES FGV 2023
+
+QUESTÕES FGV 2023
+DESVIO PADRÃO
+
+          
+
+
+---
+
+FGV - 2023 - AUDITOR FISCAL DA RECEITA FEDERAL
+Observe as cinco amostras a seguir:
+Amostra                                      Observações
+                  1                          –5                –3          –1   1   3   5    7
+                   2                    22                       26        30   34   38
+                   3                    100                      101        102 103
+                   4                    1                         2        3     5    10
+                   5                    0,5                      2,0       3,5   5,0   6,5
+Das cinco, a de menor desvio padrão é a
+
+A. 1.
+B. 2.
+C. 3.
+D. 4.
+E. 5.
+                                      
+
+
+---
+
+FGV - 2023 - ANALISTA DE COMUNICAÇÃO (BANESTES)
+A tabela a seguir apresenta as idades (em anos) de 16 crianças divididas em 4 grupos de 4
+alunos.
+
+Grupo 1          6           7                  8                         9
+Grupo 2          7           7                  7                         9
+Grupo 3          6           7                  7                         8
+Grupo 4          5           7                  8                         8
+
+                                     
+
+
+---
+
+FGV - 2023 - ANALISTA DE COMUNICAÇÃO (BANESTES)
+Com base nessas informações, avalie as afirmações.
+
+I. A média das idades é maior no Grupo 1 que no Grupo 2.
+
+II. A mediana das idades é maior no Grupo 1 que no Grupo 3.
+
+III. O grupo 4 é o que apresenta maior desvio-padrão.
+
+
+Está correto o que se afirma em
+
+A. II, apenas.
+B. III, apenas.
+C. I e II, apenas.
+D. II e III, apenas.
+E. I, II e III.
+                                     
+
+
+---
+
+FGV - 2023 - ANALISTA DE COMUNICAÇÃO (BANESTES)
+Grupo 1   6       7               8                         9
+Grupo 2   7       7               7                         9
+Grupo 3   6       7               7                         8
+Grupo 4   5       7               8                         8
+
+                       
+
+
+---
+
+FGV - 2023 - ANALISTA DE COMUNICAÇÃO (BANESTES)
+Grupo 1   6       7               8                         9
+Grupo 2   7       7               7                         9
+Grupo 3   6       7               7                         8
+Grupo 4   5       7               8                         8
+
+                       
+
+
+---
+
+FGV - 2023 - ANALISTA DE COMUNICAÇÃO (BANESTES)
+Grupo 1   6       7               8                         9
+Grupo 2   7       7               7                         9
+Grupo 3   6       7               7                         8
+Grupo 4   5       7               8                         8
+
+                       
+
+
+---
+
+FGV - 2023 - ANALISTA DE COMUNICAÇÃO (BANESTES)
+Grupo 1   6       7               8                         9
+Grupo 2   7       7               7                         9
+Grupo 3   6       7               7                         8
+Grupo 4   5       7               8                         8
+
+                       
+
+
+---
+
+FGV - 2023 - ANALISTA (BBTS)
+Acerca do desvio padrão de um conjunto de números, analise as afirmativas a seguir e
+assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) É sempre maior ou igual a zero.
+
+( ) Pode ser definido como a raiz quadrada da soma dos quadrados dos desvios em torno da
+média.
+
+( ) Quanto mais concentrados os números estão em torno da média, maior é o desvio
+padrão.
+ As afirmativas são, respectivamente,
+A. F – F – F.
+B. V – F – F.
+C. V – F – V.
+D. V – V – F.
+E. V – V – V.
+                                      
+
+
+---
+
+FGV - 2023 - 2º TENENTE ESTAGIÁRIO DE SAÚDE (PM AC)
+Considere um conjunto unimodal de 5 números inteiros tais que:
+
+- a média vale 5;
+
+- a mediana vale 6;
+
+- a moda vale 7; e
+
+- a diferença entre o maior valor e o menor valor é 5.
+
+O desvio padrão desse conjunto de 5 números pode ser calculado como a raiz quadrada de
+A. 4,4.
+B. 4,5.
+C. 4,6.
+D. 4,7.
+E. 4,8.
+                                     
+
+
+---
+
+OBRIGADO
+
+     
+
+
+---

@@ -1,0 +1,2426 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 25_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '25'
+titulo_aula: Cardozo, Luciano Rosa e Silvio Sande
+artigos_citados:
+- Art. 178.
+- Art. 179.
+- Art. 183.
+- Art. 184.
+- artigo 51
+---
+
+# Cardozo, Luciano Rosa e Silvio Sande
+
+Aula 22
+                          Receita Federal (Analista Tributário)
+                               Contabilidade Geral - Profs. Júlio
+                       Cardozo, Luciano Rosa e Silvio Sande
+
+                                                           Autor:
+                                     Luciano Rosa, Júlio Cardozo
+
+                                            12 de Dezembro de 2024
+
+---
+
+      Luciano Rosa, Júlio Cardozo
+      Aula 22
+
+                                                                                     Índice
+1) Imobilizado Segundo a Lei 6.404/76 e CPC 27
+
+
+2) Custo de Um Ativo Imobilizado
+
+
+3) Gastos de Capital x Gastos do Período
+
+
+4) Ativo Construido pela empresa
+
+
+5) Ativo Qualificável
+
+
+6) Divisão do Imobilizado - Bens e Operação e Imobilizado em Andamento
+
+
+7) Depreciação
+
+
+8) Alteração da Vida Útil do Imobilizado
+
+
+9) Método da Reavaliação
+
+
+10) Redução ao Valor Recuperável de Ativos
+
+
+11) Valor Residual - Valor Contábil
+
+
+12) Reparo e Conservação de Bens e Substituição de Peças
+
+
+13) Amortização
+
+
+14) Exaustão
+
+
+15) Questão Comentadas - CPC 27 - FGV
+
+
+16) Lista de Questões - CPC 27 - FGV
+
+                Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 2
+                www.estrategiaconcursos.com.br                                                                                51
+
+                                                             
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+                                      ATIVO IMOBILIZADO
+O ativo imobilizado tem definição básica em duas normas: lei 6.404/76 e o CPC 27 – Ativo Imobilizado.
+
+
+Conceito De Imobilizado Segundo A Lei 6.404/76 E CPC 27
+
+Segundo a Lei 6.404/76:
+
+       Art. 178. § 1º No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez
+       dos elementos nelas registrados, nos seguintes grupos:
+
+       II – ativo não circulante, composto por ativo realizável a longo prazo, investimentos,
+                                                        ==219a34==
+
+       imobilizado e intangível. (Incluído pela Lei nº 11.941, de 2009)
+
+Ainda, continua...
+
+        Art. 179. As contas serão classificadas do seguinte modo:
+
+        IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à
+        manutenção das atividades da companhia ou da empresa ou exercidos com essa
+        finalidade, inclusive os decorrentes de operações que transfiram à companhia os
+        benefícios, riscos e controle desses bens; (Redação dada pela Lei nº 11.638,de 2007)
+
+Esquematizemos:
+
+Agora, a definição do CPC 27:
+
+        Ativo imobilizado é o item tangível que:
+
+        (a) é mantido para uso na produção ou fornecimento de mercadorias ou serviços, para
+        aluguel a outros, ou para fins administrativos; e
+
+        (b) se espera utilizar por mais de um período.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 3
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Esquematizemos:
+
+
+                                                                                                      Mercadorias
+                                                                 Mantido para uso na
+                                                                    produção ou
+                                                                   fornecimento
+                                                                                                  Prestação de serviços
+                                                                Mantido para aluguel a
+                                     Item tangível              outros (quando aluguel
+                                                                     não é o fim)
+   Ativo Imobilizado
+                                                                   Mantido para fins
+                                                                    administrativos
+
+
+                                                                 Espera-se utilizar por
+                                                                  mais de 1 período
+
+
+Assim, classificam-se no imobilizado os direitos que tenham por objeto bens corpóreos destinados à
+manutenção das atividades da companhia como, por exemplo, os terrenos, edificações, máquinas, veículos.
+Os bens incorpóreos passam a ficar no intangível.
+
+Esquematizemos:
+
+                                        Classificação dos direitos de bens corpóreos destinados à manutenção das
+            Regra
+                                                                   atividades da empresa
+
+
+Ao analisarmos a Lei 6404/75, destacamos que a definição apresenta “Os direitos que tenham por objeto
+bens corpóreos destinados à manutenção das atividades da companhia ou da empresa, ou exercidos com
+essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e
+controle desses bens, devem ser classificados no grupo de contas (...)”
+
+Trata-se esta última parte de bens que não são de propriedade da empresa juridicamente, como os bens
+objetos de arrendamento (leases).
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 4
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+                          CUSTO DE UM ATIVO IMOBILIZADO
+
+Reconhecimento Inicial
+
+Conforme a lei 6404/76:
+
+                                             Critérios de avaliação do ativo
+
+        Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios:
+
+        V - Os direitos classificados no imobilizado, pelo custo de aquisição, deduzido do saldo da
+        respectiva conta de depreciação, amortização ou exaustão;
+
+Esquematizemos:
+
+
+                               Avaliação Inicial                               Custo
+
+Os itens do ativo imobilizado são mensurados inicialmente pelo seu custo. Mas não é somente aquilo que
+foi pago pelo bem, mas devemos incluir todos os custos necessários para colocá-lo em condições de uso.
+
+Com base no Pronunciamento CPC 27 – Ativo Imobilizado, temos exemplos de gastos que devem ou não
+serem incluídos:
+
+Esquematizemos:
+
+                                       Custo do ativo imobilizado (CPC 27)
+                             Inclui                                                    Não inclui
+   Preço de aquisição + Imposto Importação+ Impostos não
+                                                                         Descontos comerciais e abatimentos
+                         recuperáveis
+                     Preparação do local                                Custos de abertura de nova instalação
+            Frete e manuseio por conta do comprador                          Frete por conta do vendedor
+                     Instalação e montagem                              Propaganda e atividades promocionais
+                            Testes                                              Custos de treinamento
+    Honorários profissionais (engenheiros, arquitetos, por
+                                                                         Transferência posterior (novo local)
+                          exemplo)
+    Custos de desmontagem (futuro, traz a valor presente)                       Custos administrativos
+       Custo de remoção (futuro, traz a valor presente)                         Outros custos indiretos
+              Outros custos diretamente atribuíveis                 Remoção, desmontagem de máquinas antigas
+
+
+O reconhecimento dos custos no valor contábil de um item do ativo imobilizado cessa quando o item está
+no local e nas condições operacionais pretendidas pela administração.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 5
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                        
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Por exemplo: a empresa ACME S/A faz a importação de um forno industrial da China para a utilização na
+produção. Todos os gastos necessários para que o forno esteja nas condições de uso determinadas pela
+administração são contabilizados como custo do ativo e não como despesas. Depois que o “forninho” estiver
+lá, no local determinado pela administração e em condições de uso, o que vier de gasto, como regra será
+uma despesa.
+
+
+Mensuração Subsequente
+
+Assim como os outros ativos, o ativo imobilizado pode mudar de valor. Ele pode se desgastar, pode sofrer
+perda no seu valor de mercado ou perder também o valor que se espera em relação à capacidade de gerar
+produtos.
+
+Portanto, depois de integrado, ele fica sujeito à depreciação, amortização e exaustão e ao teste de
+recuperabilidade.                                       ==219a34==
+
+No momento oportuno você verá que Teste de Recuperabilidade é uma metodologia para estimar os
+benefícios econômicos esperados de um ativo.
+
+A previsão para estes institutos encontra-se na Lei 6.404 do seguinte modo:
+
+        Art. 183. § 2º A diminuição do valor dos elementos dos ativos imobilizado e intangível será
+        registrada periodicamente nas contas de: (Redação dada pela Lei nº 11.941, de 2009)
+
+        a) depreciação, quando corresponder à perda do valor dos direitos que têm por objeto
+        bens físicos sujeitos a desgaste ou perda de utilidade por uso, ação da natureza ou
+        obsolescência;
+
+        b) amortização, quando corresponder à perda do valor do capital aplicado na aquisição de
+        direitos da propriedade industrial ou comercial e quaisquer outros com existência ou
+        exercício de duração limitada, ou cujo objeto sejam bens de utilização por prazo legal ou
+        contratualmente limitado;
+
+        c) exaustão, quando corresponder à perda do valor, decorrente da sua exploração, de
+        direitos cujo objeto sejam recursos minerais ou florestais, ou bens aplicados nessa
+        exploração.
+
+        § 3o A companhia deverá efetuar, periodicamente, análise sobre a recuperação dos
+        valores registrados no imobilizado e no intangível, a fim de que sejam: (Redação dada pela
+        Lei nº 11.941, de 2009)
+
+        I – registradas as perdas de valor do capital aplicado quando houver decisão de interromper
+        os empreendimentos ou atividades a que se destinavam ou quando comprovado que não
+        poderão produzir resultados suficientes para recuperação desse valor; ou (Incluído pela Lei
+        nº 11.638, de 2007)
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 6
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+        II – revisados e ajustados os critérios utilizados para determinação da vida útil econômica
+        estimada e para cálculo da depreciação, exaustão e amortização. (Incluído pela Lei nº
+        11.638,de 2007)
+
+Então, vamos esquematizar?
+
+          Avaliação do imobilizado: Custo - depreciação/amortização/exaustão - red. val. rec.
+     Diminuição:                                 Perda do valor aplicado:
+                   Por desgaste
+                   Por uso
+     Depreciação Por ação da natureza
+                   Por obsolescência
+                   Por aquisição de direitos de propriedade industrial ou comercial com existência ou
+                   exercício de duração limitada
+     Amortização Por aquisição de direitos cujo objeto sejam bens de utilização por prazo legal ou
+                   contratualmente limitado
+      Exaustão     Recursos minerais ou florestais ou bens aplicados nessa exploração.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 7
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+               GASTOS DE CAPITAL X GASTOS DO PERÍODO
+Conforme o livro “Contabilidade Societária”, da equipe de professores da USP, os gastos subsequentes, isto
+é, aqueles que ocorrem depois que o imobilizado está nas condições determinadas pela administração,
+podem ser de duas espécies:
+
+Gastos de capital: são os que irão beneficiar mais de um exercício social e devem ser adicionados ao valor
+do ativo imobilizado, desde que atendam às condições de reconhecimento de um ativo.
+
+Exemplo: custo de aquisição do bem, custo de instalação e montagem etc.
+
+Gastos do período (despesas): são os que devem ser agregados às contas de despesas do período, pois só
+beneficiam um exercício e são necessários para manter o imobilizado em condições de operar, não lhe
+aumentando o valor. Não é provável que esses gastos tenham o potencial de gerar benefícios econômicos
+futuros para a entidade. Logo, não podem ser reconhecidos como ativo, mas sim como despesa.
+
+Exemplo: manutenção e reparos etc.
+
+Tome nota! Os gastos subsequentes podem ser divididos em manutenção periódica (que vai para despesa)
+e as paradas programadas (que são gastos de capital e são ativadas, isto é, o valor gasto é contabilizado no
+custo do ativo, e passa a ser depreciado).
+
+Esquematizemos:
+
+            Manutenção                                       Só beneficiam um
+                                 Gastos do período                                        Despesa na DRE
+             periódica                                        exercício social
+
+                                                            Beneficiam mais de
+     Paradas programadas          Gastos de capital                                      Ativo Imobilizado
+                                                            um exercício social
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 8
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+                      ATIVO CONSTRUÍDO PELA EMPRESA
+O custo de ativo construído pela própria empresa determina-se utilizando os mesmos princípios de ativo
+adquirido. Se a entidade produz ativos idênticos para venda no curso normal de suas operações, o custo do
+ativo é geralmente o mesmo que o custo de construir o ativo para venda. Por isso, quaisquer lucros gerados
+internamente, são eliminados para determinar tais custos.
+
+Basicamente, se a empresa produz ativos para vender, mas resolve utilizar um ou alguns como imobilizado,
+a mensuração deve ser feita pelos mesmos princípios do ativo adquirido, isto é, você irá capitalizar a mão de
+obra, gastos com seguro, materiais, honorários de engenheiros, entre outros.
+
+Se o ativo construído pela empresa custou R$ 300.000,00, e é vendido por R$ 500.000,00, ele ficará
+contabilizado por R$ 300.000,00, pois não devemos reconhecer lucros gerados internamente.
+                                                        ==219a34==
+
+De forma semelhante, o custo de valores anormais de materiais, de mão-de-obra ou de outros recursos
+desperdiçados incorridos na construção de um ativo não é incluído no custo do ativo.
+
+(Transpetro/Contador/2018) A empresa Industrial T, que produz máquinas de alta tecnologia, para
+aumentar a geração de seus benefícios econômicos, decidiu destinar uma máquina de sua produção para
+uso próprio, fazendo as seguintes anotações referentes, exclusivamente, à produção dessa mesma
+máquina:
+Aquisição de insumos, incluindo o valor do IPI                       720.000,00
+IPI sobre esses insumos adquiridos                                   120.000,00
+ICMS destacado na nota fiscal da compra desses insumos 72.000,00
+Mão de obra utilizada na produção da máquina                         42.000,00
+Outros custos indiretos anotados na produção da máquina 25.000,00
+Valor de venda da máquina praticado pela indústria                   925.000,00
+Considerando as informações recebidas, as normas contábeis e pronunciamentos técnicos CPC, aprovados
+pela Comissão de Valores Mobiliários (CVM), o valor dessa máquina, a ser evidenciado no imobilizado da
+indústria T, em reais, é
+(A) 595.000,00
+(B) 648.000,00
+(C) 667.000,00
+(D) 787.000,00
+(E) 925.000,00
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 9
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Comentários:
+Aquisição de insumos, incluindo o valor do IPI                          720.000,00
+IPI sobre esses insumos adquiridos                                     (120.000,00)
+ICMS destacado na nota fiscal da compra desses insumos                 (72.000,00)
+Mão de obra utilizada na produção da máquina                           42.000,00
+Outros custos indiretos anotados na produção da máquina                 25.000,00
+Total                                                                   595.000,00
+O IPI é um tributo por fora. Mas como já estava no preço dos insumos e, neste caso, é recuperável, devemos
+tirá-lo do valor.
+O valor de venda não deve ser considerado, pois seria o mesmo que reconhecer ágio por expectativa de
+rentabilidade futura gerado internamente.
+O gabarito é letra a.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 10
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+                                     ATIVO QUALIFICÁVEL
+O Pronunciamento Técnico CPC 20 – Custos de Empréstimos estabelece critérios para o reconhecimento dos
+juros como componente do valor contábil de um item do ativo imobilizado construído pela própria empresa.
+Os juros de empréstimos contratados para a construção ou aquisição de ativo qualificável (ativo que
+demanda um tempo substancial para ficar pronto para o seu uso ou venda pretendidos) devem ser
+capitalizados, ou seja, são contabilizados como custo do ativo qualificado.
+Ativo Qualificável
+
+Vamos explicar melhor o item acima. Conforme o Pronunciamento CPC 20 (R1) – Custos de Empréstimos:
+
+        Custos de empréstimos são juros e outros custos em que a entidade incorre em conexão
+        com o empréstimo de recursos.
+
+        Ativo qualificável é um ativo que, necessariamente, demanda um período de tempo
+        substancial para ficar pronto para seu uso ou venda pretendidos.
+
+        7. Dependendo das circunstâncias, um ou mais dos seguintes ativos podem ser
+        considerados ativos qualificáveis:
+
+        (a) estoque;
+
+        (b) plantas industriais para manufatura;
+
+        (c) usina de geração de energia;
+
+        (d) ativos intangíveis;
+
+        (e) propriedades para investimentos.
+
+        8. A entidade deve capitalizar os custos de empréstimo que são diretamente atribuíveis à
+        aquisição, construção ou produção de ativo qualificável como parte do custo do ativo. A
+        entidade deve reconhecer os outros custos de empréstimos como despesa no período em
+        que são incorridos. (g.n.)
+
+Um ativo qualificável (tradução de “qualifying assets”) é um ativo que, necessariamente, demanda um
+período de tempo substancial para ficar pronto para seu uso ou venda pretendidos, também chamado de
+ativo qualificado.
+
+Esquematizemos:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 11
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Os custos de empréstimos diretamente atribuíveis à aquisição, construção ou produção de ativo
+qualificável devem ser capitalizados, ou seja, contabilizados como custo do estoque.
+
+Os outros custos de empréstimos (que não são para ativos qualificáveis) devem ser reconhecidos como
+despesas no período em que incorrerem.
+
+Esquematizemos:
+                                         Custos de empréstimos - hoje:
+                                 Ativos qualificáveis - Parte do custo dos ativos
+                                Outros custos de empréstimos - Despesa na DRE
+
+Atenção! Uma questão interessante é a seguinte:
+
+a) Levando em consideração que cessa o reconhecimento dos custos do ativo quando o mesmo se encontra
+em condições pretendidas de uso;
+
+b) A empresa contraiu empréstimo para financiar o ativo qualificável e;
+
+c) A duração do empréstimo será maior que o tempo gasto para o ativo ficar pronto. Portanto, quando cessar
+a contabilização dos custos do ativo qualificável a empresa não terá incorrido na totalidade dos custos do
+empréstimo.
+
+Como é feita a contabilização do restante dos custos de financiamento do ativo e o cálculo da depreciação?
+
+Após o ativo qualificável estar pronto para o uso, os juros do empréstimo vão para despesa financeira.
+
+Ademais, este cálculo não afeta a depreciação, ou seja, a empresa só deprecia o valor atribuído ao ativo
+qualificável. Os juros que vão para a despesa não afetam o cálculo da depreciação.
+
+A seguir, dois quesitos:
+
+(Inédita) A empresa KLR decidiu aumentar a área da sua fábrica, construindo um imóvel anexo (o popular
+“puxadinho”). A melhor proposta que conseguiu foi de $500.000. Achando esse valor muito caro, a
+empresa KLR resolveu construir o anexo por sua conta. Após um tempo substancial, a empresa terminou
+a construção, tendo incorrido nos seguintes gastos:
+- Material de construção                                160.000
+- Mão de obra                                           120.000
+- Custos indiretos de Fabricação                        30.000
+Para financiar parte da construção do anexo, a empresa contratou um empréstimo no valor de $ 250.000,00,
+incorrendo em juros no valor de $ 40.000,00. Calcule o valor pelo qual o puxadinho será incluído no
+imobilizado:
+A) 280.000
+B) 310.000
+C) 350.000
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 12
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+D) 500.000
+E) 600.000
+Comentários:
+Primeiro ponto: Não poderíamos contabilizá-lo pelo valor de mercado, o valor justo (500.000)? Afinal, esse
+é o preço que a empresa gastaria para contratar uma construtora para fazer o serviço.
+Resposta: Não. A empresa não deve reconhecer lucro gerado internamente. Portanto, descarte a letra D
+($500.000).
+Superado esse ponto, vamos em frente.
+O anexo é um Ativo Qualificável (que demora um tempo substancial para ficar pronta para o seu uso
+pretendido), portanto os encargos do empréstimo usado para financiá-lo são incluídos no custo do ativo.
+Assim, temos:
+Material de construção                         160.000
+                                                        ==219a34==
+
++ Mão de obra                                  120.000
++ Custos indiretos de Fabricação                 30.000
++ Juros do empréstimo                            40.000
+TOTAL                                          350.000
+Adendo! O que são custos indiretos? Os custos indiretos são aqueles que não podem ser atribuídos
+diretamente, sendo necessário algum critério de rateio. Por exemplo:
+- Aluguel da fábrica. Deve ser atribuído aos produtos com base na metragem que cada um ocupa da fábrica.
+- Depreciação de máquinas usadas na fabricação de diversos produtos: a depreciação deve ser atribuída aos
+produtos conforme algum critério de rateio, e assim por diante.
+Os custos diretos são aqueles que podem ser atribuídos diretamente ao produto, sem precisar de rateio.
+Exemplo de custo direto: matéria prima e mão de obra direta.
+Professores, mas vocês disseram lá em cima que, segundo o CPC 27:
+19. Exemplos que não são custos de um item do ativo imobilizado são:
+(d) custos administrativos e outros custos indiretos.
+Vejam que esses outros custos indiretos são administrativos.
+Aqui, nós estamos falando de custos indiretos de fabricação! São situações distintas.
+O gabarito é letra c.
+(Auditor Tributário/ISS Niterói/2015) Em 01/02/X0, a Cia. Digama adquiriu, por R$ 3.000.000,00, um
+terreno destinado à construção de um novo armazém. De 01/02/X0 a 30/04/X0 o terreno foi utilizado
+como estacionamento, e a companhia faturou R$ 70.000,00 durante esse período com a locação de vagas.
+Em 01/05/X0, a companhia pagou R$ 25.000,00 de honorários aos engenheiros responsáveis pelo projeto do
+armazém e deu início à sua construção.
+Para isso, ela tomou um empréstimo de R$ 6.000.000,00 junto ao Banco Zeta S.A. Até 01/12/X0 data em que
+foi concluída, a Cia. Digama gastou na construção do armazém R$ 850.000,00 com mão de obra, R$
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 13
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+150.000,00 com a preparação do terreno, R$ 300.000,00 com frete e R$ 5.000.000,00 com materiais de
+construção.
+Os juros incorridos sobre o empréstimo tomado junto ao Banco Zeta S.A, durante esse período foram de R$
+40.000,00, e a companhia obteve receitas financeiras de R$ 8.000,00 pela aplicação desses recursos antes
+de efetuar os pagamentos necessários à condução da obra. De 01/12/X0 a 15/12/X0, data em que o armazém
+foi inaugurado, a Cia. Digama gastou R$ 50.000,00 para transferir os equipamentos de um armazém antigo
+para esse novo armazém. Esse novo armazém deverá ser reconhecido no imobilizado da Cia. Digama pelo
+custo de:
+a) 6.287.000
+b) 6.325.000
+c) 6.357.000
+d) 6.365.000
+e) 6.407.000
+Comentários:
+Os trechos da questão estão em negrito.
+Em 01/02/X0, a Cia. Digama adquiriu, por R$ 3.000.000,00, um terreno destinado à construção de um novo
+armazém. De 01/02/X0 a 30/04/X0 o terreno foi utilizado como estacionamento, e a companhia faturou
+R$ 70.000,00 durante esse período com a locação de vagas.
+A primeira coisa é perceber lá no final da questão que ela pede o valor contábil do armazém e não do
+terreno.
+Portanto, as informações relativas ao terreno devem ser reconhecidas separadamente. Terreno é terreno,
+armazém é armazém.
+O terreno deve ser reconhecido separadamente no balanço patrimonial.
+Em 01/05/X0, a companhia pagou R$ 25.000,00 de honorários aos engenheiros responsáveis pelo projeto
+do armazém e deu início à sua construção.
+Os honorários com engenheiros, arquitetos e profissionais do gênero são reconhecidos como custo do
+imobilizado. Este item é um custo diretamente atribuível, segundo o CPC 27, 17, f.
+Para isso, ela tomou um empréstimo de R$ 6.000.000,00 junto ao Banco Zeta S.A. Até 01/12/X0 data em
+que foi concluída, a Cia. Digama gastou na construção do armazém R$ 850.000,00 com mão de obra, R$
+150.000,00 com a preparação do terreno, R$ 300.000,00 com frete e R$ 5.000.000,00 com materiais de
+construção.
+O empréstimo obtido vai ingressar no banco, em contrapartida à conta empréstimos a pagar.
+Depois disso, temos gastos com a construção do armazém:
+- Mão de obra: R$ 850.000,00 (entra no custo)
+- Preparação do terreno: R$ 150.000,00 (entra no custo)
+- Materiais de construção: R$ 5.000.000,00 (entra no custo)
+- Frete: R$ 300.000,00
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 14
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Os juros incorridos sobre o empréstimo tomado junto ao Banco Zeta S.A, durante esse período foram de
+R$ 40.000,00, e a companhia obteve receitas financeiras de R$ 8.000,00 pela aplicação desses recursos
+antes de efetuar os pagamentos necessários à condução da obra.
+Nós sabemos que a regra para o reconhecimento dos juros é lançá-los como despesa na DRE conforme o
+período de competência.
+Todavia, se estivermos frente a um ativo qualificável, a situação muda e reconhecemos esses juros como
+parte do custo do ativo.
+Assim, nesta hipótese, vamos lançar os R$ 40.000,00 como custo do ativo, subtraindo os R$ 8.000,00 obtidos
+como receitas.
+Segundo o CPC 20:
+12. Na extensão em que a entidade toma recursos emprestados especificamente com o propósito de obter
+um ativo qualificável, a entidade deve determinar o montante dos custos dos empréstimos elegíveis à
+capitalização como sendo aqueles efetivamente incorridos sobre tais empréstimos durante o período,
+menos qualquer receita financeira decorrente do investimento temporário de tais empréstimos.
+De 01/12/X0 a 15/12/X0, data em que o armazém foi inaugurado, a Cia. Digama gastou R$ 50.000,00 para
+transferir os equipamentos de um armazém antigo para esse novo armazém.
+Vejam que esses gastos nada têm a ver com a construção do armazém. Os gastos para remoção dos
+equipamentos antigos do armazém antigo para o novo devem ser considerados como despesa, na DRE.
+Esse novo armazém deverá ser reconhecido no imobilizado da Cia. Digama pelo custo de:
+- Honorários                     25.000,00
+- Gastos mão de obra              850.000,00
+- Preparação do terreno          150.000,00
+- Frete                          300.000,00
+- Materiais de construção        5.000.000,00
+- Juros (ativo qualificável)     40.000,00 – 8.000 = 32.000,00
+Total                            6.357.000,00
+Professores, e as receitas com estacionamento? Elas devem ser reconhecidas na DRE.
+Vejam o que diz o CPC 27:
+21. Algumas operações realizadas em conexão com a construção ou o desenvolvimento de um item do ativo
+imobilizado não são necessárias para deixá-lo no local e nas condições operacionais pretendidas pela
+administração. Essas atividades eventuais podem ocorrer antes ou durante as atividades de construção ou
+desenvolvimento. Por exemplo, o local de construção pode ser usado como estacionamento e gerar receitas,
+até que a construção se inicie. Como essas atividades não são necessárias para que o ativo fique em
+condições de funcionar no local e nas condições operacionais pretendidas pela administração, as receitas
+e as despesas relacionadas devem ser reconhecidas no resultado e incluídas nas respectivas classificações
+de receita e despesa.
+Questão bem difícil, mas um ótimo treino para entender o assunto!
+O gabarito é letra c.
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 15
+          www.estrategiaconcursos.com.br                                                                                51
+
+                                       
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Muito bem. Ativo qualificável demora um tempo substancial para ficar pronto. E qual seria esse “tempo
+substancial”? Um ano? Seis meses? Não há uma definição ou determinação sobre esse prazo. A empresa
+deve usar o seu melhor julgamento técnico, para enquadrar um ativo como qualificável ou não. As normas
+falam sempre em “tempo substancial”, mas não definem quanto é esse tempo. Assim, eventuais questões
+sobre esse assunto devem mencionar que a construção do ativo demorou um “tempo substancial” ou algum
+sinônimo (“demorou muito tempo”, “demorou um tempo excessivamente longo”, e por aí vai.)
+
+Estudamos a inclusão dos juros no ativo. Agora vejamos a exclusão dos juros.
+
+Conforme o Pronunciamento CPC 27 – Imobilizado:
+
+          23. O custo de um item de ativo imobilizado é equivalente ao preço à vista na data do
+         reconhecimento. Se o prazo de pagamento excede os prazos normais de crédito, a
+         diferença entre o preço equivalente à vista e o total dos pagamentos deve ser reconhecida
+         como despesa com juros durante o período (...), a menos que seja passível de capitalização
+         de acordo com o Pronunciamento Técnico CPC 20 – Custos de Empréstimos. (g.n.)
+
+Comentários:
+
+Vamos supor que uma empresa possa comprar um ativo à vista, por 100.000,00, ou a prazo, por 110.000,00.
+Nesse caso, o total a prazo excede o preço à vista, e tal diferença deve ser reconhecida (contabilizada) como
+despesa com juros. Digamos que o prazo seja de um mês. A contabilização seria a seguinte:
+
+Compra à vista:
+
+D – Imobilizado (ativo)                  100.000
+C – Caixa/bancos (ativo)                 100.000
+
+Razonetes:
+
+                                Im obilizado                                 C aixa
+                           100.000,00                                              100.000,00
+
+
+Na compra a prazo:
+
+Ao invés de contabilizar o ativo pelo valor total, como é o procedimento normal, o correto é o seguinte:
+
+D – Imobilizado (Ativo)                            100.000
+D – Juros a apropriar (ret. Passivo)            10.000
+C – Fornecedores (Passivo)                      110.000
+
+Razonetes:
+
+      Im obilizado (A )                      Juros a apropriar (Ret. P)                      Fornecedores (P)
+  100.000,00                                    10.000,00                                             110.000,00
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 16
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                       
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Passado um mês, teríamos:
+
+D – Despesa financeira (resultado)                  10.000
+D – Fornecedores (Passivo)                         110.000
+C - Juros a apropriar (ret. Passivo)              10.000
+C – Caixa/bancos (ativo)                          110.000
+
+Razonetes:
+
+    Im obilizado (A )                    Juros a apropriar (Ret. P)                     Fornecedores (P)
+  100.000,00                              10.000,00      10.000,00                    110.000,00  110.000,00
+
+
+     D espesa finan.                                 C aixa
+    10.000,00                                             110.000,00
+
+A contabilização acima trata-se do ajuste a valor presente. Na nossa legislação, devemos efetuar o ajuste a
+valor presente para as operações de longo prazo, e para as de curto prazo quando forem relevantes.
+
+Confira a Lei das SA:
+
+         Critérios de Avaliação do Ativo
+
+         Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios:
+
+         VIII – os elementos do ativo decorrentes de operações de longo prazo serão ajustados a
+         valor presente, sendo os demais ajustados quando houver efeito relevante. (Incluído pela
+         Lei nº 11.638, de 2007)
+
+         Critérios de Avaliação do Passivo
+
+         Art. 184. No balanço, os elementos do passivo serão avaliados de acordo com os seguintes
+         critérios:
+
+         III – as obrigações, os encargos e os riscos classificados no passivo não circulante serão
+         ajustados ao seu valor presente, sendo os demais ajustados quando houver efeito
+         relevante. (Redação dada pela Lei nº 11.941, de 2009)
+
+A contabilização acima (no prazo de um mês) foi demonstrada apenas como exemplo. Só poderia ser
+ajustada a valor presente se houvesse efeito relevante. Do contrário, apenas os elementos de longo prazo
+sofrem o ajuste a valor presente, conforme determina a legislação.
+
+Resumindo:
+
+1 – Na construção de ativo qualificado devemos incluir os encargos financeiros no custo do Ativo.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 17
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                       
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+2 – Na compra a prazo de ativos, devemos excluir os encargos financeiros, os quais serão apropriados como
+Despesa Financeira por competência.
+
+
+Contabilização Da Capitalização Dos Custos Dos Empréstimos
+
+Normalmente, a contabilização dos custos de empréstimos (no caso de ativos não qualificáveis) é feita a
+débito de despesa financeira e crédito do passivo:
+
+D – Despesa financeira (resultado)
+C – Empréstimos a pagar (Passivo)
+
+Razonetes:
+
+                       D esp. Finan. (Resul)                            Em p. a pagar
+                        XX,XX                                                     XX,XX
+
+Observação: a contabilização acima refere-se à situação em que o custo do empréstimo é tratado como
+despesa financeira. Ou seja, quando não estamos diante de um ativo qualificável.
+
+No caso dos ativos qualificáveis, para capitalizar os custos dos empréstimos, debitamos o Ativo que está
+sendo adquirido ou construído:
+
+D – Ativo qualificado em construção
+C – Empréstimo a pagar (passivo)
+
+Razonetes:
+
+                    Ativo qual. em constru.                               Emp. a pagar
+                      XX,XX                                                        XX,XX
+
+
+Pelo término da construção do ativo:
+
+D – Ativo (Estoque ou imobilizado ou intangível etc.,)
+C – Ativo qualificado em construção.
+
+Normalmente, durante a construção, é usada uma conta transitória, denominada “Ativo em Construção”,
+que recebe todos os valores que compõe o custo do ativo.
+
+Depois de concluído, a conta transitória é zerada e seu saldo transferido para ativo imobilizado, ou ativo
+intangível, enfim, para a conta definitiva.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 18
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+                                 DIVISÃO DO IMOBILIZADO
+   De acordo com o Manual de Contabilidade Societária, o ativo imobilizado pode ser dividido
+   basicamente em dois grandes grupos:
+
+   - Bens em operação: Aqueles que estão sendo utilizados pela sociedade em suas atividades fins.
+
+   - Imobilizados em andamento: Aqueles que ainda não estão operando.
+
+   Além da segregação do imobilizado entre bens em operação e imobilizado em andamento, outros
+   critérios podem ser adotados, como, por exemplo, a separação por área geográfica, segmento
+   econômico, função ou departamento, necessidades internas e de terceiros, exigências fiscais.
+
+
+                CONTEÚDO DAS CONTAS DO IMOBILIZADO
+   Várias são as contas registradas no ativo imobilizado. Vejamos agora as principais:
+
+
+   Terrenos
+
+   Registra os terrenos realmente utilizados nas operações. É, por exemplo, onde se encontra a fábrica,
+   estoques, filiais, lojas. Se o terreno for destinado à atividade fim, mas ainda não estiver pronto, será
+   classificado como imobilizado em andamento.
+
+   Se, outro modo, o terreno não estiver sendo utilizado na atividade fim da empresa, deverá ir para o
+   ativo não circulante investimentos. Por exemplo: a empresa adquiriu um terreno em uma região, mais
+   afastada da cidade, porém ainda não definiu a destinação para ele. Nesse caso, a classificação é no
+   Ativo Não Circulante Investimentos – Propriedade para Investimentos.
+
+
+   Máquinas, Aparelhos E Equipamentos
+
+   Envolve o conjunto de bens corpóreos desta natureza utilizado no processo de produção da empresa.
+
+
+   Equipamentos De Processamento Eletrônico De Dados –
+   Hardware - E Sistemas Aplicativos - Software
+
+   Os hardwares adquiridos pela empresa ficam registrados à conta do ativo imobilizado. Por sua vez,
+   para a classificação dos softwares poder classificados no ativo intangível ou no imobilizado. Vamos
+   aprender a diferenciar?
+
+   De acordo com o CPC 04, se o software é indispensável para o funcionamento do equipamento, é parte
+   integrante dele, assim sendo, é classificado como imobilizado, como por exemplo, o sistema
+   operacional do computador.
+
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 19
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+   Agora, um software instalado no computador para jogos, não é um elemento integrante dele, assim
+   sendo, representa um Ativo Intangível. Resumidamente:
+
+                                                       É elemento
+                                                     integrante do                 Imobilizado
+                                                      Imobilizado?
+                         Softwares
+                                                   Não é elemento
+                                                    integrante do                Ativo Intangível
+                                                     Imobilizado?
+
+
+   Móveis E Utensílios
+
+   Representa, por exemplo, mesas, cadeiras, arquivos, estantes, entre outros móveis que estejam sendo
+   utilizados nas atividades fins da empresa.
+
+
+   Veículos
+
+   Registram-se nessa conta veículos sob controle da empresa. Todavia, o FIPECAFI defende que se os
+   veículos forem utilizados diretamente na produção, tal como empilhadeira, escavadeira, etc, poderão
+   ser agrupados na conta equipamentos.
+
+
+   Peças E Conjuntos De Reposição
+
+   Peças e conjuntos de reposição são aquelas que se destinam à substituição de outras em máquinas,
+   equipamentos etc.
+
+
+   Imobilizado Biológico
+
+   São os animais, plantas vivas, mantidos para produção, que se esperem utilizar por mais de um período
+   social. Exemplo: gados reprodutores, gados produtores de leite, plantação de café.
+
+
+   Benfeitorias Em Imóveis De Terceiros
+
+   Benfeitorias em imóveis de terceiros, cujo valor será revertido ao proprietário do imóvel ao final do
+   contrato de locação, são classificadas no ativo imobilizado.
+
+   Se as benfeitorias em imóveis de terceiros forem em contrato de locação por prazo indeterminado, ou
+   se o prazo do contrato for maior que a vida útil da benfeitoria, devemos depreciar estas benfeitorias.
+
+   Caso o contrato tenha duração determinada e menor que a vida útil da benfeitoria, esta será
+   amortizada pelo prazo do contrato.
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 20
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+   Exemplo: Benfeitoria em imóveis de terceiros:
+
+   1º caso: Prazo indeterminado.
+
+          •   Vida útil: 8 anos.
+          •   Contrato por prazo indeterminado.
+          •   Deprecia a benfeitoria em 8 anos.
+
+   2º caso: Prazo determinado e contrato > Vida útil.
+
+          •   Vida útil: 8 anos.
+          •   Contrato por prazo determinado, de 10 anos.
+          •   Deprecia a benfeitoria em 8 anos.
+
+   3º caso: Prazo determinado e contrato < Vida útil. ==219a34==
+
+          •   Vida útil: 8 anos.
+          •   Contrato por prazo determinado, de 5 anos.
+          •   Amortiza a benfeitoria em 5 anos.
+
+   Ou seja, se o desgaste da benfeitoria puder ser reconhecido pelo prazo de vida útil, seja porque o
+   contrato é por prazo indeterminado, seja porque o prazo do contrato é maior que a vida útil da
+   benfeitoria, será depreciação.
+
+   Se o desgaste da benfeitoria tiver que ser abreviado, porque o prazo do contrato é menor que a vida
+   útil da benfeitoria, será amortização.
+
+   Esquematizemos:
+
+                                                                                            Critério de
+                                                                     Contrato
+                                                                                             avaliação
+
+                                                                                               Depreciação
+                                                                   Prazo indeterminado
+                                                                                                (Vida útil)
+
+
+                Benfeitorias em                                    Prazo determinado e         Depreciação
+                  imóveis de                                       Contrato maior que
+                                                                         Vida útil               (Vida útil)
+                   terceiros
+                                                                   Prazo determinado e
+                                                                                               Amortização
+                                                                   Contrato menor que
+                                                                                                (Contrato)
+                                                                         Vida útil
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 21
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+   Agora, uma questão:
+
+   (Assistente/Contabilidade/INMETRO/2015) Para instalação de sua nova fábrica, uma empresa
+   realiza uma série de benfeitorias em um imóvel alugado pelo período de dois anos, cujo contrato
+   prevê a restituição do valor gasto ao final da vigência. O contador deverá registrar esse gasto como
+   “benfeitorias em imóveis de terceiros”, no Ativo. Assim, essa conta deverá ser classificada no grupo:
+   a) Intangível.
+   b) Circulante.
+   c) Imobilizado.
+   d) Investimentos.
+   e) Realizável a longo prazo.
+   Comentários:
+   Benfeitorias em imóveis de terceiros, cujo valor será revertido ao proprietário do imóvel ao final do
+   contrato de locação, são classificadas no ativo imobilizado.
+   Nesta hipótese, vai haver restituição do valor gasto ao final da vigência. Ou seja, o inquilino vai
+   receber de volta esse valor pago. Portanto, é um direito realizável em longo prazo para ele, a
+   classificação será no ativo não circulante – realizável a longo prazo. Se fosse em menos de um ano, a
+   classificação seria no ativo circulante. Fiquem de olho nesta hipótese!
+   O gabarito é, portanto, letra e.
+
+
+                            IMOBILIZADOS EM ANDAMENTO
+   Além das contas listadas acima, classificam-se no imobilizado: construções em andamento, bens em
+   uso na fase de implantação, importações em andamento de bens.
+
+   Ainda, uma pegadinha que pode aparecer em provas é a conta adiantamento a fornecedores de
+   imobilizado, classificada no ativo imobilizado, que registra todos os adiantamentos a fornecedores por
+   conta de fornecimento sob encomenda de bens do ativo imobilizado
+
+   Esquematizemos:
+
+            Adiantamento a Fornecedores do
+                                                                               Ativo Imobilizado
+                     Imobilizado
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 22
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+                                             DEPRECIAÇÃO
+   A depreciação assim está prevista na Lei 6.404/76:
+
+            Art. 183. § 2o A diminuição do valor dos elementos dos ativos imobilizado e intangível
+            será registrada periodicamente nas contas de: (Redação dada pela Lei nº 11.941, de
+            2009)
+
+            a) depreciação, quando corresponder à perda do valor dos direitos que têm por
+            objeto bens físicos sujeitos a desgaste ou perda de utilidade por uso, ação da
+            natureza ou obsolescência;
+
+
+   Encargos De Depreciação x Depreciação Acumulada!
+
+   Pessoal, é muito importante que tenhamos em mente a diferença entre encargos de depreciação e
+   depreciação acumulada.
+
+   O encargo de depreciação representa a conta do exercício, refere-se à depreciação deste período,
+   conta esta que é zerada no encerramento do exercício social.
+
+   A depreciação acumulada, por sua vez, é uma conta retificadora do ativo. Como o próprio nome
+   sugere, ela computa a soma da depreciação acumulada durante toda a vida útil do bem. Esta conta
+   só é baixada, zerada, com o fim da vida útil do bem, e sua baixa ou alienação.
+
+   Esquematizemos:
+
+
+                  Encargo de depreciação          Despesa no período               Zera todo ano
+
+
+                        Depreciação                                              Considera todos os
+                                                 Retificadora do ativo
+                        Acumulada                                                    períodos
+
+
+   Agora, vamos falar um pouco sobre os métodos de depreciação.
+
+
+   Início Da Depreciação
+
+   A depreciação se inicia quando o ativo está pronto para uso. Então, em regra, o mês de aquisição vai
+   entrar no cálculo. Você deve procurar, nas questões, a data em que o ativo está pronto para ser
+   utilizado.
+
+   O mais correto tecnicamente é adotar a data em que o ativo está pronto para uso. Por exemplo, se
+   estiver pronto no dia 20, deprecia a partir desta data. Porém, para facilitar os cálculos, em provas,
+   pode aparecer da seguinte maneira:
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 23
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+   - Se o imobilizado está pronto para uso até o dia 15: deprecia o mês todo.
+   - Se o imobilizado está pronto para uso após o dia 15: deprecia a partir do mês seguinte.
+
+   Como saber? Somente testando os números.
+
+   A depreciação de um ativo deve cessar na data em que o ativo é classificado como mantido para venda
+   ou, ainda, na data em que o ativo é baixado, o que ocorrer primeiro.
+
+
+   Métodos De Depreciação
+
+   Há vários métodos para se calcular a depreciação. Apresentaremos, a seguir, os principais abordados
+   em prova. Os mais usados são:
+
+   - Método da linha reta ou linear ou método das quotas constantes:
+
+   Este é o método tradicional e o mais recorrente em provas. Dividimos o valor depreciável pelo tempo
+   de vida útil estimada. Se nada disser a questão sobre um método específico, devemos utilizar o da linha
+   reta.
+
+   Exemplo: Máquina com vida útil de 10 anos e valor depreciável de 100.000.
+
+                              Depreciação anual = $ 100.000 / 10 anos = $ 10.000/ano.
+
+   Como calcular a depreciação pelo método da linha reta?
+
+   1) Pegue o valor de aquisição.
+   2) Encontre o valor residual. Se não falar nada, é igual a zero.
+   3) Faça a diferença entre o valor de aquisição e o valor residual e encontraremos o chamado valor
+   depreciável.
+   4) Encontre a vida útil (em meses ou anos, geralmente).
+   5) Divida o valor depreciável pela vida útil
+   6) Você encontrará o valor da depreciação.
+
+   - Método da Soma dos Dígitos ou Método de Cole ou Método das
+   Quotas Decrescentes
+
+   Através deste método, somamos os dígitos da vida útil e dividimos cada algarismo pela soma.
+
+   Por exemplo: Se temos em nossa empresa uma máquina cuja vida útil é de 5 anos, tomaremos os
+   seguintes procedimentos:
+
+   Somamos: 5 + 4 + 3 + 2 + 1 = 15.
+
+   Depreciação: Ano 1 = 5 / 15; Ano 2 = 4/15; Ano 3 = 3/15; Ano 4 = 2/15 e Ano 5 = 1/15.
+
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 24
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+   Há uma justificativa técnica para tal método: a de que a despesa de depreciação menor nos últimos
+   anos é compensada pelo aumento das despesas de manutenção. Por esse motivo, segundo o Manual
+   de Contabilidade, apresenta “custos globais mais uniformes”.
+
+   Além disso, o declínio do valor do ativo é mais acentuado nos primeiros anos. Você já deve ter ouvido
+   falar que só tirar o veículo 0km da concessionária já perdemos 20%, não é mesmo?
+
+   Vejam que a despesa de depreciação será decrescente. Começará maior e terminará menor.
+
+   Supondo um bem cujo valor depreciável é R$ 90.000,00.
+
+                                          Ano 1: 5/15 x 90.000 = 30.000,00
+                                          Ano 2: 4/15 x 90.000 = 24.000,00
+                                          Ano 3: 3/15 x 90.000 = 18.000,00
+                                                      ==219a34==
+
+                                          Ano 4: 2/15 x 90.000 = 12.000,00
+                                          Ano 5: 1/5 x 90.000 = 6.000,00
+                                         Total da depreciação = 90.000,00
+
+            Atenção, alunos! Já apareceu em prova uma questão em que a depreciação era
+            calculada de acordo com o “Método de Cole crescente”, neste caso a depreciação do
+            ano 1 é 1/15, do ano 2 é 2/15, e assim por diante. Nunca vimos registro desse tipo de
+            questão por outra banca, mas fiquemos de olho.
+
+   - Método De Unidades Produzidas
+
+   Por este método, estima-se a quantidade total de unidades que será produzida. A depreciação é feita
+   dividindo-se o total efetivamente produzido pela capacidade total de produção.
+
+   Por exemplo, uma máquina custou 100.000 e com capacidade de produção total, ao longo de toda a
+   sua vida útil, de 1.000.000 de unidades. No ano de X1, foram produzidas 80.000 unidades.
+
+   Portanto, a depreciação em X1 será:
+
+                                         (80.000 / 1.000.000) = 0,08 ou 8%.
+                              Valor da depreciação em X1: $100.000 x 8% = $ 8.000,00.
+
+   - Método das Horas de Trabalho
+
+   É feito de forma semelhante ao método explicado anteriormente. Inicialmente, estima-se o total de
+   horas que determinado ativo vai trabalhar, ao longo de sua vida útil. E a depreciação é calculada
+   dividindo-se as horas efetivamente trabalhadas pelo total de horas.
+
+   Exemplo: Máquina com vida útil de 50.000 horas. Trabalhou 4.500 horas em X1.
+
+                                    Depreciação anual: 4.500 / 50.000 = 0,09 ou 9%.
+
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 25
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+          ESTIMATIVA CONTÁBIL VERSUS CRITÉRIO FISCAL
+   Contabilmente, a depreciação deve ser calculada conforme a melhor estimativa técnica disponível.
+
+   Exemplificando. Se a Empresa ALFA adquire dois veículos idênticos e estima que um terá vida útil de
+   10 anos e o outro terá vida útil de 7 anos, deve depreciá-los conforme esta estimativa.
+
+   Ocorre que a Receita Federal aceita apenas determinados prazos para cálculo da depreciação. As
+   diferenças deveriam ser ajustadas, para efeito de Imposto de Renda. Com isso, as empresas passaram
+   a usar o critério fiscal. Porém, contabilmente, deve ser usada a melhor estimativa técnica, ainda que
+   diferente do critério fiscal.
+
+   Para concursos, devemos usar o que informa a questão. Se não mencionar vida útil, usamos o que o
+   fisco determina:
+
+   Caso a questão seja silente! Depreciação: Taxas permitidas pelo fisco para efeito de IR:
+   - Veículos: 5 anos ou 20% ao ano                             - Móveis e utensílios: 10 anos ou 10 % ao ano
+   - Máquinas e equipamentos: 10 anos ou 10% ao                 - Imóveis: 25 anos ou 4 % ao ano.
+   ano                                                          - Tratores: 4 anos ou 25%.
+
+                                 DEPRECIAÇÃO ACELERADA
+   Para o caso em que os ativos sejam utilizados em dois ou mais turnos de 8 horas de trabalho, o Fisco
+   admite que a depreciação seja acelerada:
+
+                                        Utilização da depreciação acelerada
+                              1 turno de 8 horas: fator 1,0
+                              2 turnos de 8 horas: fator 1,5
+                              3 turnos de 8 horas: fator 2,00
+
+
+                     DEPRECIAÇÃO NO PRONUNCIAMENTO
+                        CPC 27 – ATIVO IMOBILIZADO
+   Normalmente, as diversas partes e itens que compõe um ativo são depreciados conjuntamente.
+   Todavia, de acordo com o pronunciamento, um item do ativo imobilizado com custo significativo em
+   relação ao custo total do item deve ser depreciado separadamente. Assim, a empresa pode, por
+   exemplo, como prevê o próprio CPC, depreciar uma aeronave em 12 anos e depreciar os motores da
+   aeronave em 5 anos.
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 26
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+               ALTERAÇÃO DA VIDA ÚTIL DO IMOBILIZADO
+   Antes da edição do CPC 27, o valor residual e a vida útil eram definidos (geralmente, as empresas
+   usavam o critério fiscal) e não mais se alteravam, durante a vida útil do ativo.
+
+   Porém, com as mudanças, o valor residual e a vida útil de um ativo devem ser revisados pelo menos
+   ao final de cada ano. Se houver diferença, deve ser realizada e tratada como mudança de estimativa
+   contábil, como prevê o artigo 51 do CPC 27.
+
+   A vida útil e valor residual agora podem aumentar e diminuir.
+
+   A mudança na depreciação deve ser considerada mudança de estimativa contábil, isto implica produzir
+   efeitos prospectivos – no ano corrente e nos anos futuros. Não deve ser feita nenhuma alteração nos
+   valores já contabilizados como depreciação.
+
+   A seguir, uma questão:
+
+   (Contabilidade/TRE/PR/2017) No dia 02/01/2013 uma empresa adquiriu um equipamento de
+   produção pelo valor de R$ 30.000.000,00 e efetuou o pagamento à vista. A vida útil definida pela
+   empresa para o equipamento foi 12 anos e a vida útil para fins fiscais é 10 anos. A despesa de
+   depreciação é calculada em função do tempo decorrido e no início do prazo de utilização a empresa
+   estimou o valor residual para venda do equipamento no final da vida útil em R$ 3.000.000,00. No
+   início do ano de 2016 foi identificado que o valor residual no final da vida útil estimada originalmente
+   pela empresa foi reduzido para R$ 2.550.000,00, em decorrência de mudanças no mercado
+   secundário para este tipo de equipamento. O valor contábil que deveria ser evidenciado no Balanço
+   Patrimonial de 31/12/2016 para este equipamento era, em reais,
+   (A) 19.200.000,00.
+   (B) 20.000.000,00.
+   (C) 18.000.000,00.
+   (D) 20.950.000,00.
+   (E) 21.000.000,00.
+   Comentários:
+   O que interessa, para fins de depreciação, é a estimativa contábil. A estimativa fiscal é utilizada para
+   cálculo de imposto de renda e afins.
+   Valor depreciável:
+   Valor de aquisição                       30.000.000
+   (-) Valor residual                       (3.000.000)
+   Valor depreciável                        27.000.000
+   Então,
+                              Depreciação anual = 27.000.000/12 = 2.250.000/ano
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 27
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+   Depreciação até 2016 (Depreciou em 2013, 2014 e 2015) = 2.250.000,00 x 3 = 6.750.000,00
+   Lembre-se de que ao menos no final do exercício, há necessidade de revisar a vida útil e o valor residual.
+   Como a questão não falou nada sobre a vida útil, pressupomos que ela continua a mesma.
+   Valor contábil em 01.01.2016:
+   Valor de aquisição               30.000.000
+   (-) Depreciação acumulada (6.750.000)
+   Valor contábil                   23.250.000
+   Novo valor depreciável:
+   Valor já depreciado                      23.250.000
+   (-) Valor residual                       (2.550.000)
+   Valor depreciável                        20.700.000==219a34==
+
+   Como já depreciou pelo período de 3 anos, ainda restam 9 anos. Assim:
+                               Depreciação anual = 20.700.000/9 = 2.300.000/ano
+   Portanto, depreciando mais um ano.
+   Valor contábil em 31.12.2016:
+   Valor já depreciado              23.250.000
+   (-) Depreciação em 2016          2.300.000,00
+   Valor contábil                 20.950.000,00
+   O gabarito é, portanto, letra d.
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 28
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+                                MÉTODO DA REAVALIAÇÃO
+   Existem dois métodos distintos para a mensuração do ativo imobilizado trazidos pelo CPC 27, Método
+   de Custo e Método de Reavaliação, a saber:
+
+   Método de Custo: Posteriormente ao reconhecimento inicial o ativo imobilizado deve ser apresentado
+   ao custo, menos a depreciação acumulada e a perda por recuperabilidade (se houver)..
+
+   Método de reavaliação: Após o reconhecimento, se permitido legalmente, um ativo imobilizado pode
+   ser apresentado pelo seu valor reavaliado, geralmente o valor justo na data da reavaliação.
+
+   Apesar do CPC 27 trazer as duas definições, ressaltamos que a contabilização pela reavaliação não é
+   permitida mais no Brasil, mas precisamos saber o que as normas internacionais nos apresentam sobre
+   isso, pois cai em provas.
+                                                      ==219a34==
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 29
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                   
+
+
+---
+
+Luciano Rosa, Júlio Cardozo
+Aula 22
+
+                        VALOR RESIDUAL > VALOR CONTÁBIL
+   Pode acontecer muitas vezes de o valor justo (valor de mercado) ser superior ao valor contábil de um
+   ativo. A depreciação é reconhecida normalmente.
+
+   Todavia, como o valor residual pode aumentar, se ele exceder o valor contábil, então devemos
+   suspender a depreciação até que essa situação se inverta. O valor da depreciação será zero.
+
+   Há que se salientar ainda que se o valor justo for menor do que o valor contábil estamos diante de
+   uma hipótese de ajuste ao valor recuperável de ativos.
+
+   Fica assim:
+
+          Valor justo > Valor contábil               Valor residual > Valor contábil       Valor justo < Valor contábil
+
+
+            Deprecia normalmente                          Depreciação = Zero                Teste de Recuperabilidade
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 30
+      www.estrategiaconcursos.com.br                                                                                51
+
+                                         
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+                      VALOR RESIDUAL > VALOR CONTÁBIL
+Pode acontecer muitas vezes de o valor justo (valor de mercado) ser superior ao valor contábil de um ativo.
+A depreciação é reconhecida normalmente.
+
+Todavia, como o valor residual pode aumentar, se ele exceder o valor contábil, então devemos suspender a
+depreciação até que essa situação se inverta. O valor da depreciação será zero.
+
+Há que se salientar ainda que se o valor justo for menor do que o valor contábil estamos diante de uma
+hipótese de ajuste ao valor recuperável de ativos.
+
+Fica assim:
+                                                         ==219a34==
+
+    Valor justo > Valor contábil            Valor residual > Valor contábil             Valor justo < Valor contábil
+
+
+      Deprecia normalmente                        Depreciação = Zero                    Teste de Recuperabilidade
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 31
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+  REPARO E CONSERVAÇÃO DE BENS E SUBSTITUIÇÃO DE
+                     PEÇAS
+Diversos são os cuidados que os empresários tomam para manter seu imobilizado com zelo. Entre tais
+precauções, vários são os gastos realizados, tal como gastos com reparos, substituição de peças, reposição,
+revisão. Vejamos agora caso a caso.
+
+
+Gastos Com Limpeza, Manutenção Do Bem, Conservação
+
+Segundo o FIPECAFI, gastos desta natureza são considerados, em regra, como despesa operacional no
+exercício em que ocorrerem.
+
+
+Substituição De Peças
+
+As substituições de peças podem se dar de dois modos:
+
+1) Manutenção periódica: por segurança ou caráter preventivo.
+
+2) Quebra ou avaria.
+
+Em regra, ativamos as peças que serão integradas ao ativo imobilizado. Não devemos lançá-las como
+despesas. Todavia, para classificá-las no imobilizado, os critérios para reconhecimento do ativo devem ser
+atendidos. A um só tempo, baixamos também as peças substituídas.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 32
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+                                             AMORTIZAÇÃO
+Segundo a Lei das S.A.s (Lei 6404/76):
+
+         § 2o A diminuição do valor dos elementos dos ativos imobilizado e intangível será
+         registrada periodicamente nas contas de: (Redação dada pela Lei nº 11.941, de 2009)
+
+         b) amortização, quando corresponder à perda do valor do capital aplicado na aquisição de
+         direitos da propriedade industrial ou comercial e quaisquer outros com existência ou
+         exercício de duração limitada, ou cujo objeto sejam bens de utilização por prazo legal ou
+         contratualmente limitado;
+
+A amortização refere-se geralmente aos itens classificados no Intangível. Mas pode ocorrer também com
+                                                         ==219a34==
+
+itens do Imobilizado, como no caso de Benfeitoria em Propriedades de Terceiros, que pode ser depreciada
+ou amortizada.
+
+Resumo geral:
+
+1) Vida útil é:
+
+a) o período de tempo no qual a entidade espera utilizar um ativo; ou
+
+b) o número de unidades de produção.
+
+2) Intangível com vida útil definida: deve ser amortizado.
+
+Com vida útil indefinida: não deve ser amortizado.
+
+3) A amortização deve ser iniciada a partir do momento em que o ativo estiver disponível para uso, ou seja,
+quando se encontrar no local e nas condições necessários para que possa funcionar da maneira pretendida
+pela administração.
+
+4) A amortização deve cessar na data em que o ativo é classificado como mantido para venda ou na data em
+que ele é baixado, o que ocorrer primeiro.
+
+5) O método de amortização utilizado reflete o padrão de consumo pela entidade dos benefícios econômicos
+futuros. Se não for possível determinar esse padrão com confiabilidade, deve ser utilizado o método linear.
+
+6) Podem ser utilizados vários métodos de amortização para apropriar de forma sistemática o valor
+amortizável de um ativo ao longo da sua vida útil. Tais métodos incluem o método linear, também conhecido
+como método de linha reta, o método dos saldos decrescentes e o método de unidades produzidas.
+
+7) A amortização deve normalmente ser reconhecida no resultado, mas pode também ser incluída no custo
+de outros ativos.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 33
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Exemplo: A empresa KLS adquiriu um ativo intangível, no valor de $ 120.000,00, com valor residual de
+$30.000,00 e vida útil de 5 anos.
+
+Calcule o valor da amortização mensal.
+
+Valor amortizável = $ 120.000 - $ 30.000
+
+Valor amortizável = $ 90.000
+
+Prazo = 5 anos = 60 meses
+
+Amortização mensal = $90.000 / 60 meses = $ 1.500 por mês.
+
+Amortização mensal = $ 1.500 por mês.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 34
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+                                                EXAUSTÃO
+
+Conceitos Da Lei 6.404/76 e Cálculo Da Depreciação
+
+De acordo com a Lei 6404/76 (Lei das SA):
+
+        Art. 183. § 2o A diminuição do valor dos elementos dos ativos imobilizado e intangível será
+        registrada periodicamente nas contas de: (Redação dada pela Lei nº 11.941, de 2009)
+
+        c) exaustão, quando corresponder à perda do valor, decorrente da sua exploração, de
+        direitos cujo objeto sejam recursos minerais ou florestais, ou bens aplicados nessa
+        exploração.
+
+A exaustão é utilizada para recursos minerais ou florestais, ou bens aplicados nessa exploração.
+
+Normalmente, a exaustão é calculada com base na possança (quantidade efetivamente explorada no ano)
+do recurso mineral ou florestal. Mas, se o prazo de exploração for insuficiente para esgotar os recursos, a
+exaustão deve ser calculada em função do prazo de concessão.
+
+Exemplo: A empresa ABC pagou R$ 10.000.000 por uma mina com possança de 10.000 toneladas. No
+primeiro ano, a empresa extraiu 800 toneladas.
+
+Calcule a exaustão do primeiro ano.
+
+                                      800 tons/10.000 tons. = 0,08 ou 8,0%
+
+                                        R$ 10.000.000 x 8% = R$ 800.000
+
+Esse é o cálculo que usualmente vai aparecer na sua prova: a questão dá uma capacidade z e fala que no
+ano x foi extraído y. Você então dividirá y/z e encontrará o percentual exaurido.
+
+Contabilização:
+
+D – Custo do minério extraído (Ativo)                   800.000
+C – Exaustão acumulada (Ret. Ativo)                     800.000
+
+        Atenção! Vejam que, nesta hipótese, não vai direto para o resultado como despesa.
+        Primeiro, colocamos em uma conta custo do minério extraído. Essa conta é uma conta de
+        estoque. Você está diminuindo da capacidade da mina e colocando em uma conta de
+        estoque!
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 35
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+Exaustão De Bens Aplicados Na Exploração De Recursos
+Minerais e Florestais
+
+A lei 6404/76 menciona que estão sujeitos à exaustão os “recursos minerais e florestais, ou bens aplicados
+nessa exploração”. A doutrina, entretanto, considera que os bens tangíveis usados na exploração dos
+recursos minerais e florestais sofrem depreciação, de acordo com o estabelecido no regulamento do
+Imposto de Renda.
+
+Assim, se o bem aplicado na exploração de minas e florestas será usado durante todo o período, deverá ser
+depreciado proporcionalmente à exaustão. Se o bem tem vida útil menor que o tempo da exploração, deverá
+ser depreciado de acordo com sua vida útil.
+
+Exemplo: Uma empresa comprou um caminhão, com vida útil estimada de 10 anos, para transportar minério
+em sua mina.                                            ==219a34==
+
+Se o tempo de operação da mina é menor que 10 anos, a depreciação deverá ser feita proporcionalmente à
+exaustão. Se a exaustão do primeiro ano for de 12%, o caminhão será depreciado em 12%. Se o tempo de
+operação da mina é superior a 10 anos ou é indeterminado, o caminhão será depreciado em 10 anos.
+
+Então, vamos esquematizar?
+
+
+                                                     Mina                        Caminhão deprecia
+                                              (Vida útil<10anos)              conforme o prazo da mina
+                Caminhão
+            (Vida útil: 10 anos)
+                                                     Mina                     Caminhão deprecia em 10
+                                              (Vida útil>10anos)                       anos
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 36
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+                 QUESTÕES COMENTADAS – CPC 27 – FGV
+1. (FGV/PC AM/Perito Criminal/Contabilidade/2022) Uma sociedade empresária adquiriu uma máquina
+   para utilizar em suas atividades. Ela deverá pagar três parcelas anuais de R$ 10.000. No reconhecimento
+   contábil, será utilizada uma taxa de desconto correspondente a R$ 12%.
+Assinale a opção que indica o reconhecimento da parcela corresponde aos juros no momento da aquisição
+da máquina.
+ a) Despesa operacional.
+ b) Despesa financeira.
+ c) Ativo circulante.
+ d) Ativo realizável a longo prazo.
+ e) Retificadora do passivo.
+
+Comentários:
+
+A questão fala que a empresa adquiriu uma máquina para utilizar em suas atividades, isto é, um ativo
+imobilizado. O CPC 27 - Ativo Imobilizado afirma que o custo de um item de ativo imobilizado é equivalente
+ao preço à vista na data do reconhecimento. Se o prazo de pagamento excede os prazos normais de crédito,
+a diferença entre o preço equivalente à vista e o total dos pagamentos deve ser reconhecida como despesa
+com juros durante o período a menos que seja passível de capitalização de acordo com o Pronunciamento
+Técnico CPC 20 – Custos de Empréstimos.
+
+Ou seja, o imobilizado deve ser contabilizado pelo valor à vista, isto é, o valor presente da operação. A
+diferença será reconhecida, no momento inicial, como encargos financeiros a transcorrer, e apropriada ao
+resultado por competência como despesa financeira.
+
+Vale destacar que não reconhecemos despesa financeira no momento inicial; reconhecemos os encargos
+financeiros a transcorrer, RETIFICADORA DO PASSIVO. Portanto, nosso gabarito é a assertiva E.
+
+2. (FGV/PC AM/Investigador de Polícial/4ª Classe/2022) Em 01/01/X0, uma sociedade empresária
+   adquiriu dez computadores por R$ 4.000 cada, para serem utilizados por seus funcionários em suas
+   atividades. Na data, foram adquiridas licenças antivírus no valor total de R$ 3.000. A sociedade
+   empresária esperava usar os computadores durante cinco anos e em seguida doa-los. A sociedade ainda
+   deprecia seus ativos imobilizados de acordo com o método da linha reta.
+Em 31/03/X1, os funcionários começaram a trabalhar de modo remoto. Em decorrência, a sociedade
+empresária estimou utilizar os computadores até 31/12/X2 e vender cada computador por R$ 900.
+Assinale a opção que indica a depreciação acumulada do computador em 31/12/X1.
+ a) R$ 19.000.
+ b) R$ 20.000.
+ c) R$ 20.286.
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 37
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+d) R$ 20.667.
+e) R$ 22.667.
+
+Comentários:
+
+Para encontrarmos a depreciação acumulada do computador em 31/12/X1 temos que encontrar o custo de
+aquisição, conforme determina o CPC 27:
+
+Os itens do ativo imobilizado são mensurados inicialmente pelo seu custo. Mas não é somente aquilo que
+foi pago pelo bem, mas devemos incluir todos os custos necessários para colocá-lo em condições de uso.
+
+Esquematizemos:
+
+                           Custo do ativo imobilizado (CPC 27)
+                         Inclui                          Não inclui
+    Preço de aquisição + Imposto Importação+ Impostos
+                                                                       Descontos comerciais e abatimentos
+                     não recuperáveis
+                    Preparação do local                               Custos de abertura de nova instalação
+
+        Frete e manuseio por conta do comprador                            Frete por conta do vendedor
+
+                   Instalação e montagem                              Propaganda e atividades promocionais
+
+                           Testes                                             Custos de treinamento
+     Honorários profissionais (engenheiros, arquitetos,
+                                                                       Transferência posterior (novo local)
+                       por exemplo)
+       Custos de desmontagem (futuro, traz a valor
+                                                                              Custos administrativos
+                         presente)
+      Custo de remoção (futuro, traz a valor presente)                        Outros custos indiretos
+
+            Outros custos diretamente atribuíveis                 Remoção, desmontagem de máquinas antigas
+
+
+A questão fala que a entidade adquiriu 10 computadores por R$ 4.000 cada, portanto, custo total de 40.000.
+O examinador afirma que, na data, foram adquiridas licenças antivírus no valor total de R$ 3.000. Qual o
+tratamento contábil desse software? Ativo Intangível contabilizado separadamente ou como ativo
+imobilizado?
+Conforme previsão do CPC 04 - Ativo Intangível, um software de uma máquina-ferramenta controlada por
+computador que não funciona sem esse software específico é parte integrante do referido equipamento,
+devendo ser tratado como ativo imobilizado. O mesmo se aplica ao sistema operacional de um computador.
+Quando o software não é parte integrante do respectivo hardware, ele deve ser tratado como ativo
+intangível.
+É o caso da nossa questão, assim sendo, esse antivírus é contabilizado como ativo intangível, pois ele não
+é um elemento integrante do computador.
+
+Agora, temos que calcular o valor contábil do ativo no momento que houve a mudança de estimativa de vida
+útil e valor residual:
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 38
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+Depreciação Anual = 40.000/5 = 8.000
+
+Depreciação Acumulada em 31/03/X1 (1 ano e 3 meses após o inicio do uso) = 8.000 x 1,25 = 10.000
+
+Observação: 3 meses = 3/12 ano, ou seja, 0,25 ano.
+
+Valor Contábil = 40.000 - 10.000 = 30.000
+
+Em 31/03/X1, os funcionários começaram a trabalhar de modo remoto. Em decorrência, a sociedade
+empresária estimou utilizar os computadores até 31/12/X2 e vender cada computador por R$ 900. Ou seja,
+a vida útil do item agora é de 1 ano e 9 meses, isto é, 21 meses e o agora os computadores possuem valor
+residual de 900 x 10 = 9.000.
+
+Depreciação Mensal = (Custo - Valor Residual)/Vida Útil = (30.000 - 9.000) /21 = 21.000/21 = 1.000/mês
+
+Agora, a depreciação acumulada em 31/12/X1, ou seja, 9 meses após a mudança de estimativa = 1.000 x 10
+= 10.000, mais a depreciação que já tinha sido calculada anteriormente:
+
+Depreciação Acumulada = 10.000 + 9.000 = 19.000
+
+O gabarito é letra a.
+
+3. (FGV/PC AM/Investigador de Polícia/4ª Classe/2022) Em 31/12/X0, uma sociedade empresária adquiriu
+   uma máquina para usar em seus negócios por R$ 50.000. Além disso, a sociedade empresária pagou,
+   em relação à máquina, R$ 1.000 pelo frete, R$ 2.000 pelo seguro de transporte e R$ 3.000 pela
+   instalação. A sociedade empresária deprecia as suas máquinas de acordo com as horas trabalhadas.
+Na compra, foi estimado que a máquina poderia ser utilizada durante 80.000 horas, do seguinte modo:
+ Ano Horas
+ X1     30.000
+ X2     25.000
+ X3     15.000
+ X4     10.000
+ Em 31/12/X2, a máquina foi vendida por R$ 30.000.
+ Assinale a opção que indica o resultado apurado com a venda da máquina, sem considerar a incidência de
+impostos.
+ a) Prejuízo de R$ 8.500.
+ b) Prejuízo de R$ 4.375.
+ c) Lucro de R$ 12.500.
+ d) Lucro de R$ 13.438.
+ e) Lucro de R$ 14.375.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 39
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+Comentários:
+
+O resultado apurado com a venda da máquina é a diferença entre o valor vendido e o valor contábil do ativo
+no momento da venda.
+
+Valor de Venda = 30.000
+
+Valor Contábil = Custo - Depreciação Acumulada - Perda por Recuperabilidade (se houver);
+
+Custo do Imobilizado = Preço + Frete + Seguro + Instalação = 50.000 + 1.000 + 2.000 + 3.000 = 56.000
+
+A máquina é depreciada pelo método das horas e até o momento da venda, 31/12/X2, a máquina foi utilizada
+por 30.000 + 25.000 = 55.000. Se considerarmos que 80.000 representa 100% da vida útil, 55.000 representa
+55.000/80.000 = 68,75%
+
+Depreciação Acumulada = 56.000 x 68,75% = 38.500
+
+Valor Contábil = Custo - Depreciação Acumulada = 56.000 - 38.500 = 17.500
+
+Resultado da Venda = 30.000 - 17.500 = 12.500.
+
+Houve um ganho na venda que será contabilizado como uma receita!
+
+O gabarito é letra c.
+
+4. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) Uma entidade produz e vende botões. Na
+   produção, ela utiliza uma máquina cujo valor contábil é de R$ 100.000. A máquina tem vida útil
+   estimada em cinco anos e valor residual de R$ 10.000.
+Assinale a opção que indica a conta patrimonial em que será efetuado o reconhecimento contábil da
+depreciação e o valor da depreciação anual da máquina.
+ a) Estoque, R$ 18,000.
+ b) Estoque, R$ 20.000.
+ c) Ativo Intangível, R$ 18.000
+ d) Despesa de depreciação, R$ 18.000.
+ e) Despesa de depreciação, R$ 20.000.
+
+Comentários:
+
+Cuidado com as pegadinhas da banca! O CPC 27 - Ativo Imobilizado afirma que a despesa de depreciação de
+cada período deve ser reconhecida no resultado a menos que seja incluída no valor contábil de outro ativo.
+Ou seja, a regra é reconhecer a depreciação como uma despesa, mas, ela pode ser incluída no custo de
+produção de outros ativos.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 40
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+     Luciano Rosa, Júlio Cardozo
+     Aula 22
+
+O item 49 do mesmo pronunciamento afirma que a depreciação do período deve ser normalmente
+reconhecida no resultado. No entanto, por vezes os benefícios econômicos futuros incorporados no ativo
+são absorvidos para a produção de outros ativos. Nesses casos, a depreciação faz parte do custo de outro
+ativo, devendo ser incluída no seu valor contábil.
+
+Por exemplo, a depreciação de máquinas e equipamentos de produção é incluída nos custos de produção de
+estoque (ver o Pronunciamento Técnico CPC 16 – Estoques).
+
+Voltando para a nossa questão, a máquina sofrerá uma depreciação anual de (100.000 - 10.000) /5 = 18.000.
+
+Todavia, essa depreciação não será contabilizada como despesa, mas no custo de produção dos botões:
+
+D - Estoques de Produtos                          R$ 18.000
+C - Depreciação Acumulada                         R$ 18.000
+
+O gabarito é letra a.
+
+5. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) De acordo com o Pronunciamento Técnico
+   CPC 27 – Ativo Imobilizado, a depreciação de uma ativo imobilizado não será reconhecida se
+ a) o ativo não foi utilizado no exercício.
+ b) o ativo sofreu manutenção e/ou reparação.
+ c) o valor justo é maior do que o valor contábil.
+ d) o valor residual é maior do que o valor contábil.
+ e) o ativo é mantido como reserva para utilização, quando necessário.
+
+Comentários:
+
+De acordo com o CPC 27 - Ativo Imobilizado, o valor residual de um ativo pode aumentar. A despesa de
+depreciação será zero enquanto o valor residual subsequente for igual ou superior ao seu valor contábil.
+
+Exemplo:
+
+ •    Valor Contábil = 4.000
+ •    Valor Residual apurado = 5.000.
+
+Não faz sentido depreciar o ativo nesse período, visto que o valor estimado que a entidade obteria com a
+venda do ativo, após deduzir as despesas estimadas de venda, caso o ativo já tivesse a idade e a condição
+esperadas para o fim de sua vida útil é maior que seu valor contábil.
+
+Destacamos que o CPC27 - Ativo Imobilizado afirma que a depreciação do ativo se inicia quando este está
+disponível para uso, ou seja, quando está no local e em condição de funcionamento na forma pretendida
+pela administração. A depreciação de um ativo deve cessar na data em que o ativo é classificado como
+mantido para venda (ou incluído em um grupo de ativos classificado como mantido para venda de acordo
+com o Pronunciamento Técnico CPC 31 – Ativo-Não Circulante Mantido para Venda e Operação
+Descontinuada) ou, ainda, na data em que o ativo é baixado, o que ocorrer primeiro. Portanto, a depreciação
+
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 41
+           www.estrategiaconcursos.com.br                                                                                51
+
+                                        
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+não cessa quando o ativo se torna ocioso ou é retirado do uso normal, a não ser que o ativo esteja
+totalmente depreciado. No entanto, de acordo com os métodos de depreciação pelo uso, a despesa de
+depreciação pode ser zero enquanto não houver produção
+
+Portanto, gabarito é letra D.
+
+6. (FGV/MPE GO/Analista Contábil/2022) Uma sociedade empresária possuía um imóvel que alugava a
+   outra pessoa jurídica. Nesse imóvel funcionava uma escola. A sociedade empresária prestava serviços
+   de apoio à escola, sendo responsável pela administração, definição do material didático, orientação
+   pedagógica e alimentação.
+Assinale a opção que indica a contabilização do imóvel no balanço patrimonial da sociedade empresária,
+considerando as características da negociação.
+ a) Ativo circulante.
+ b) Ativo realizável a longo prazo.
+ c) Propriedade para investimento.
+ d) Ativo Imobilizado.
+ e) Patrimônio Líquido.
+
+Comentários:
+
+Questão muito interessante. A FGV sempre cobra a classificação de um imóvel alugado e tenta confundir o
+que vem a ser uma propriedade para investimento como ativo imobilizado. Mas aqui foi um pouco diferente.
+
+O CPC 28, no item 11, afirma que em alguns casos, a entidade proporciona serviços de apoio aos ocupantes
+da propriedade que ela mantenha. A entidade trata tal propriedade como propriedade para investimento se
+os serviços forem insignificantes em relação ao acordo como um todo. Um exemplo é quando o proprietário
+de edifício de escritórios proporciona serviços de segurança e de manutenção aos arrendatários que ocupam
+o edifício.
+
+Ou seja, se a proprietária presta um serviço insignificante com o objeto do acordo entre as partes, estamos
+diante de uma propriedade para investimento.
+
+Por sua vez, o item 12 do pronunciamento afirma que, em outros casos, os serviços prestados são
+significativos. Por exemplo, se a entidade possui e administra um hotel, os serviços proporcionados aos
+hóspedes são significativos para o acordo como um todo. Por isso, o hotel administrado pelo proprietário é
+propriedade ocupada pelo proprietário e não propriedade para investimento. Nesse caso, a classificação
+seria como ativo imobilizado.
+
+Esse foi um tema cobrado na questão! A sociedade empresária alugou um imóvel e ali funcionava uma
+escola. Todavia, serviços de apoio à escola, sendo responsável pela administração, definição do material
+didático, orientação pedagógica e alimentação. Seriam serviços significantes para o contrato. Nesse caso,
+pessoal, não seria uma propriedade para investimento, mas uma propriedade ocupada e a classificação seria
+como ativo imobilizado.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 42
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+Em suma fica assim:
+
+
+                                                                   Serviços
+                                                                                                       Ativo Imobilizado
+                                                                 significantes
+                  Imóvel alugado com
+                     prestação de
+                       serviços
+                                                                  Serviços                             Propriedade Para
+                                                               Insignificantes                          Investimentos
+
+
+Portanto, gabarito é letra D.
+
+7. (FGV/MPE AL/Contador/2018) Uma entidade adquiriu móveis planejados para sua sala de reuniões. Os
+   móveis custaram R$ 6.000 e o frete de R$ 200 foi pago pelo fornecedor. Além disso, a instalação dos
+   móveis teve um custo de R$ 600. Na ocasião, estimou- se que a remoção dos móveis no final do contrato
+   de locação do imóvel será de R$ 900.
+Em relação aos móveis adquiridos, assinale a opção que indica o valor a ser contabilizado no Ativo
+Imobilizado da entidade.
+a) R$ 6.000,00
+b) R$ 6.200,00.
+c) R$ 6.600,00.
+d) R$ 7.500,00.
+e) R$ 7.700,00.
+
+Comentários:
+
+Consoante o CPC 27, o custo dos móveis planejados será de:
+
+(+) Custo de Aquisição................................................................................. R$ 6.000
+(+) Custo de instalação dos móveis..............................................................R$ 600
+(+) Estimativa de gastos futuros de remoção dos móveis............................R$ 900
+= Valor a ser contabilizado no Ativo Imobilizado (móveis planejados)..... R$ 7.500
+
+           Obs.: como o FRETE de R$ 200 foi PAGO PELO FORNECEDOR, então ele já está INCLUSO
+           nos R$ 6.000 pagos (custo de aquisição).
+
+O gabarito é letra d.
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 43
+           www.estrategiaconcursos.com.br                                                                                51
+
+                                              
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+8. (FGV/Auditor Tributário Municipal/ISS Recife/2014) Uma entidade comprou, em 01/07/2011,
+   numerosas máquinas para utilizar em seu negócio, no valor de R$ 40.000,00. O frete da entrega foi de
+   R$ 400,00, pagos pelo fornecedor. Adicionalmente, a entidade incorreu em R$ 800,00 para instalar as
+   máquinas, R$ 500,00 para desmontar as máquinas que já estavam na fábrica e R$ 200,00 para um
+   caminhão levar as máquinas antigas até um depósito.
+Além disso, uma vez que as máquinas eram novas no mercado, a entidade contratou um especialista para
+orientar e treinar os funcionários sobre tal uso durante o primeiro mês de funcionamento. Os honorários
+foram de R$ 2.000,00.
+Na data da compra, a entidade pretendia utilizar as máquinas por cinco anos e, depois desses anos, doá-las.
+É estimado que o valor da remoção das máquinas seja de R$ 1.400,00.
+O valor contábil das máquinas em 31/12/2013 era de
+a) R$ 16.880,00.
+b) R$ 21.100,00.
+c) R$ 21.450,00.
+d) R$ 22.100,00.
+e) R$ 22.450,00
+
+Comentários:
+
+Cálculo do reconhecimento inicial:
+
+Valor de aquisição:                                    R$ 40.000,00
+Instalação das máquinas:                                 R$ 800,00
+Remoção das máquinas:                                    R$ 1.400,00
+Total do reconhecimento inicial:                       R$ 42.200,00
+
+Pontos de atenção!
+
+- Frete de R$ 400,00 → Pago pelo fornecedor (não há ônus para a compradora).
+
+- Gastos com as máquinas antigas, de R$ 500,00 e R$ 200,00 → Não se correlacionam com a aquisição da
+nova máquina. Devem ter tratamento próprio.
+
+- Custos de treinamento de R$ 2.000,00 → A questão tenta confundir o candidato, falando sobre honorários,
+tentando induzi-lo a lembrar do item 17, f, do Pronunciamento. Contudo, trata-se de custo de treinamento,
+que não integra o reconhecimento inicial (CPC 27, item 19, c).
+
+- Custos de remoção futuro de R$ 1.400,00 → Este é um ponto que pode gerar dúvidas, mas vejamos o que
+diz o CPC 27:
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 44
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+         16. O custo de um item do ativo imobilizado compreende:
+
+         (c) a estimativa inicial dos custos de desmontagem e remoção do item e de restauração do
+         local (sítio) no qual este está localizado. Tais custos representam a obrigação em que a
+         entidade incorre quando o item é adquirido ou como consequência de usá-lo durante
+         determinado período para finalidades diferentes da produção de estoque durante esse
+         período.
+
+Portanto, são custos futuros de desmontagem e remoção que devem ser estimados no início da vida útil da
+máquina, caso seja o caso de retirar a máquina e leva-la para outro lugar. É um custo ajustado a valor
+presente.
+
+Continuando a resolução... A aquisição se deu em 01/07/2011, o método de depreciação é o linear, com taxa
+de depreciação de 20% ao ano. Não há valor residual.     ==219a34==
+
+A questão pede o valor contábil em 31/12/2013, portanto, foram incorridos 2,5 anos. Como a vida útil
+esperada é de 5 anos, temos que já transcorreu metade do período, ou seja, R$ 21.100,00.
+
+Valor de aquisição:                              R$ 42.200,00
+(-) Depreciação Acumulada:                      (R$ 21.100,00)
+(=) Valor contábil em 31/12/2013:               R$ 21.100,00
+
+Mas, se quisermos, é só fazermos o cálculo da depreciação anual:
+
+                                       R$ 42.200,00/5 = R$ 8.440,00 ao ano.
+
+                              Depreciação de 2,5 anos = R$ 8.440,00 x 2,5 = 21.100
+
+O gabarito é letra b.
+
+9. (FGV/DPE RJ/Técnico superior/Ciências Contábeis/2014) A Companhia Lentidão S.A. adquiriu uma
+   máquina para fabricação de meias para vender junto com os tênis que a empresa já vende. A máquina
+   foi entregue na sede da empresa no dia 05/05/X1. No dia 12/05/X1 a máquina foi instalada e ficou
+   pronta para ser utilizada. Como demorou para chegar a matéria-prima, a máquina só foi utilizada pela
+   primeira vez em 20/05/X1.
+A produção na capacidade máxima só ocorreu a partir do dia 01/06/X1. As vendas ficaram acima do
+esperado. Então a administração da empresa, no dia 14/07/X1, decidiu terceirizar a produção e desativar a
+máquina. A produção do último lote de meias ocorreu no dia 30/07/X1, porém a máquina permaneceu
+instalada para atender pedidos adicionais até o dia 15/08/X1, quando a administração decidiu que o melhor
+negócio seria vender a máquina.
+A máquina permaneceu na empresa até o dia 20/11/X1, quando finalmente foi vendida e a propriedade foi
+repassada para outra empresa.
+Considerando os fatos acima e que a empresa utiliza o critério de período de tempo para estimar a vida útil
+de seus imobilizados, a data inicial e a data final em que a empresa depreciou o ativo, respectivamente, são
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 45
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+(A) 05/05/X1 e 14/07/X1
+(B) 05/05/X1 e 30/07/X1
+(C) 12/05/X1 e 15/08/X1
+(D) 20/05/X1 e 20/11/X1
+(E) 01/06/X1 e 20/11/X1
+
+Comentários:
+
+Segundo o CPC 27:
+
+        55. A depreciação do ativo se inicia quando este está disponível para uso, ou seja, quando
+        está no local e em condição de funcionamento na forma pretendida pela administração. A
+        depreciação de um ativo deve cessar na data em que o ativo é classificado como mantido
+        para venda (ou incluído em um grupo de ativos classificado como mantido para venda de
+        acordo com o Pronunciamento Técnico CPC 31 – Ativo-Não Circulante Mantido para Venda
+        e Operação Descontinuada) ou, ainda, na data em que o ativo é baixado, o que ocorrer
+        primeiro. Portanto, a depreciação não cessa quando o ativo se torna ocioso ou é retirado
+        do uso normal, a não ser que o ativo esteja totalmente depreciado. No entanto, de acordo
+        com os métodos de depreciação pelo uso, a despesa de depreciação pode ser zero
+        enquanto não houver produção.
+
+A depreciação do ativo se inicia quando este está disponível para uso, ou seja, quando está no local e em
+condição de funcionamento na forma pretendida pela administração. Na questão em análise, no dia
+12/05/X1, quando a máquina foi instalada e ficou pronta para ser utilizada.
+
+Já podemos apontar a resposta: Letra C, é a única que indica a data 12/05/X1. Mas vamos prosseguir com a
+análise.
+
+A depreciação de um ativo deve cessar na data em que o ativo é classificado como mantido para venda ou
+na data em que o ativo é baixado, o que ocorrer primeiro.
+
+A questão menciona que a máquina permaneceu instalada para atender pedidos adicionais até o dia
+15/08/X1, quando a administração decidiu que o melhor negócio seria vender a máquina.
+
+Assim, a máquina deixou de ser depreciada no dia 15/08/X1, quando a administração decidiu vendê-la. O
+gabarito é, portanto, letra c.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 46
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+                        LISTA DE QUESTÕES – CPC 27 – FGV
+1. (FGV/PC AM/Perito Criminal/Contabilidade/2022) Uma sociedade empresária adquiriu uma máquina
+   para utilizar em suas atividades. Ela deverá pagar três parcelas anuais de R$ 10.000. No reconhecimento
+   contábil, será utilizada uma taxa de desconto correspondente a R$ 12%.
+Assinale a opção que indica o reconhecimento da parcela corresponde aos juros no momento da aquisição
+da máquina.
+ a) Despesa operacional.
+ b) Despesa financeira.
+ c) Ativo circulante.
+ d) Ativo realizável a longo prazo.
+ e) Retificadora do passivo.
+2. (FGV/PC AM/Investigador de Polícial/4ª Classe/2022) Em 01/01/X0, uma sociedade empresária
+   adquiriu dez computadores por R$ 4.000 cada, para serem utilizados por seus funcionários em suas
+   atividades. Na data, foram adquiridas licenças antivírus no valor total de R$ 3.000. A sociedade
+   empresária esperava usar os computadores durante cinco anos e em seguida doa-los. A sociedade ainda
+   deprecia seus ativos imobilizados de acordo com o método da linha reta.
+Em 31/03/X1, os funcionários começaram a trabalhar de modo remoto. Em decorrência, a sociedade
+empresária estimou utilizar os computadores até 31/12/X2 e vender cada computador por R$ 900.
+Assinale a opção que indica a depreciação acumulada do computador em 31/12/X1.
+ a) R$ 19.000.
+ b) R$ 20.000.
+ c) R$ 20.286.
+ d) R$ 20.667.
+ e) R$ 22.667.
+
+3. (FGV/PC AM/Investigador de Polícia/4ª Classe/2022) Em 31/12/X0, uma sociedade empresária adquiriu
+   uma máquina para usar em seus negócios por R$ 50.000. Além disso, a sociedade empresária pagou,
+   em relação à máquina, R$ 1.000 pelo frete, R$ 2.000 pelo seguro de transporte e R$ 3.000 pela
+   instalação. A sociedade empresária deprecia as suas máquinas de acordo com as horas trabalhadas.
+Na compra, foi estimado que a máquina poderia ser utilizada durante 80.000 horas, do seguinte modo:
+ Ano Horas
+ X1     30.000
+ X2     25.000
+ X3     15.000
+ X4     10.000
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 47
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+ Em 31/12/X2, a máquina foi vendida por R$ 30.000.
+ Assinale a opção que indica o resultado apurado com a venda da máquina, sem considerar a incidência de
+impostos.
+ a) Prejuízo de R$ 8.500.
+ b) Prejuízo de R$ 4.375.
+ c) Lucro de R$ 12.500.
+ d) Lucro de R$ 13.438.
+ e) Lucro de R$ 14.375.
+
+4. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) Uma entidade produz e vende botões. Na
+   produção, ela utiliza uma máquina cujo valor contábil é de R$ 100.000. A máquina tem vida útil
+   estimada em cinco anos e valor residual de R$ 10.000.
+Assinale a opção que indica a conta patrimonial em que será efetuado o reconhecimento contábil da
+depreciação e o valor da depreciação anual da máquina.
+ a) Estoque, R$ 18,000.
+ b) Estoque, R$ 20.000.
+ c) Ativo Intangível, R$ 18.000
+ d) Despesa de depreciação, R$ 18.000.
+ e) Despesa de depreciação, R$ 20.000.
+
+5. (FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022) De acordo com o Pronunciamento Técnico
+   CPC 27 – Ativo Imobilizado, a depreciação de uma ativo imobilizado não será reconhecida se
+ a) o ativo não foi utilizado no exercício.
+ b) o ativo sofreu manutenção e/ou reparação.
+ c) o valor justo é maior do que o valor contábil.
+ d) o valor residual é maior do que o valor contábil.
+ e) o ativo é mantido como reserva para utilização, quando necessário.
+
+6. (FGV/MPE GO/Analista Contábil/2022) Uma sociedade empresária possuía um imóvel que alugava a
+   outra pessoa jurídica. Nesse imóvel funcionava uma escola. A sociedade empresária prestava serviços
+   de apoio à escola, sendo responsável pela administração, definição do material didático, orientação
+   pedagógica e alimentação.
+Assinale a opção que indica a contabilização do imóvel no balanço patrimonial da sociedade empresária,
+considerando as características da negociação.
+ a) Ativo circulante.
+ b) Ativo realizável a longo prazo.
+ c) Propriedade para investimento.
+ d) Ativo Imobilizado.
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 48
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+   Luciano Rosa, Júlio Cardozo
+   Aula 22
+
+ e) Patrimônio Líquido.
+
+7. (FGV/MPE AL/Contador/2018) Uma entidade adquiriu móveis planejados para sua sala de reuniões. Os
+   móveis custaram R$ 6.000 e o frete de R$ 200 foi pago pelo fornecedor. Além disso, a instalação dos
+   móveis teve um custo de R$ 600. Na ocasião, estimou- se que a remoção dos móveis no final do contrato
+   de locação do imóvel será de R$ 900.
+Em relação aos móveis adquiridos, assinale a opção que indica o valor a ser contabilizado no Ativo
+Imobilizado da entidade.
+a) R$ 6.000,00
+b) R$ 6.200,00.
+c) R$ 6.600,00.
+d) R$ 7.500,00.                                          ==219a34==
+
+e) R$ 7.700,00.
+
+8. (FGV/Auditor Tributário Municipal/ISS Recife/2014) Uma entidade comprou, em 01/07/2011,
+   numerosas máquinas para utilizar em seu negócio, no valor de R$ 40.000,00. O frete da entrega foi de
+   R$ 400,00, pagos pelo fornecedor. Adicionalmente, a entidade incorreu em R$ 800,00 para instalar as
+   máquinas, R$ 500,00 para desmontar as máquinas que já estavam na fábrica e R$ 200,00 para um
+   caminhão levar as máquinas antigas até um depósito.
+Além disso, uma vez que as máquinas eram novas no mercado, a entidade contratou um especialista para
+orientar e treinar os funcionários sobre tal uso durante o primeiro mês de funcionamento. Os honorários
+foram de R$ 2.000,00.
+Na data da compra, a entidade pretendia utilizar as máquinas por cinco anos e, depois desses anos, doá-las.
+É estimado que o valor da remoção das máquinas seja de R$ 1.400,00.
+O valor contábil das máquinas em 31/12/2013 era de
+a) R$ 16.880,00.
+b) R$ 21.100,00.
+c) R$ 21.450,00.
+d) R$ 22.100,00.
+e) R$ 22.450,00
+
+9. (FGV/DPE RJ/Técnico superior/Ciências Contábeis/2014) A Companhia Lentidão S.A. adquiriu uma
+   máquina para fabricação de meias para vender junto com os tênis que a empresa já vende. A máquina
+   foi entregue na sede da empresa no dia 05/05/X1. No dia 12/05/X1 a máquina foi instalada e ficou
+   pronta para ser utilizada. Como demorou para chegar a matéria-prima, a máquina só foi utilizada pela
+   primeira vez em 20/05/X1.
+A produção na capacidade máxima só ocorreu a partir do dia 01/06/X1. As vendas ficaram acima do
+esperado. Então a administração da empresa, no dia 14/07/X1, decidiu terceirizar a produção e desativar a
+máquina. A produção do último lote de meias ocorreu no dia 30/07/X1, porém a máquina permaneceu
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 49
+         www.estrategiaconcursos.com.br                                                                                51
+
+                                      
+
+
+---
+
+  Luciano Rosa, Júlio Cardozo
+  Aula 22
+
+instalada para atender pedidos adicionais até o dia 15/08/X1, quando a administração decidiu que o melhor
+negócio seria vender a máquina.
+A máquina permaneceu na empresa até o dia 20/11/X1, quando finalmente foi vendida e a propriedade foi
+repassada para outra empresa.
+Considerando os fatos acima e que a empresa utiliza o critério de período de tempo para estimar a vida útil
+de seus imobilizados, a data inicial e a data final em que a empresa depreciou o ativo, respectivamente, são
+(A) 05/05/X1 e 14/07/X1
+(B) 05/05/X1 e 30/07/X1
+(C) 12/05/X1 e 15/08/X1
+(D) 20/05/X1 e 20/11/X1
+(E) 01/06/X1 e 20/11/X1
+
+
+                                                GABARITO
+                                                         1 E
+                                                         2 A
+                                                         3 C
+                                                         4 A
+                                                         5 D
+                                                         6 D
+                                                         7 D
+                                                         8 B
+                                                         9 C
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e Silvio Sande 50
+        www.estrategiaconcursos.com.br                                                                                51
+
+                                     
+
+
+---
+
+---

@@ -1,0 +1,516 @@
+                                 RESUMO DA AULA
+
+MEDIDAS DE VARIABILIDADE
+
+As medidas de dispersão (ou variabilidade) são justamente métricas que mostram a variação dos
+dados de um conjunto. Elas podem ser divididas em dois grupos:
+
+                                                             Amplitude Total;
+
+                                                         Amplitude Interquartílica;
+
+                                                              Desvio Médio;
+
+                                                                   Variância;
+
+                                                              Desvio Padrão.
+
+
+                                                         Coeficiente de Variação de
+                                                                 (Pearson);
+
+                                                             Variância Relativa.
+
+
+
+
+AMPLITUDE TOTAL
+
+A amplitude total é a diferença entre o maior e o menor elemento de um conjunto:
+
+
+                                         𝑨 = 𝒙𝒎á𝒙 − 𝒙𝒎í𝒏
+
+
+Sobre a amplitude total, podemos afirmar que:
+
+I – No cálculo da amplitude total desconsideramos os valores da série que se encontram entre os
+extremos;
+
+II – É sensível ao tamanho de amostra;
+
+III – Pode apresentar muita variação de uma amostra para outra, ainda que extraídas de uma mesma
+população.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+Amplitude Total para dados não-agrupados
+
+Para dados não agrupados, o cálculo da amplitude total pode ser expresso pela seguinte fórmula:
+
+
+                                          𝑨 = 𝒙𝒎á𝒙 − 𝒙𝒎í𝒏
+
+
+
+Amplitude Total para dados agrupados sem intervalos de classes
+
+Para dados agrupados sem intervalos de classe, a fórmula usada para a identificação da amplitude
+total é similar à adotada para dados não-agrupados. A única diferença consiste na identificação
+dos valores mínimo e máximo, que agora ocorre por meio de uma tabela de frequências.
+
+
+
+
+Amplitude Total para dados agrupados em classes
+
+Para dados agrupados em intervalos de classe, podemos definir a amplitude total de duas formas:
+
+ Para dados agrupados em intervalos de classe, podemos definir a amplitude total de duas
+ formas:
+
+    •   pela diferença entre o limite superior da última classe (𝑳𝒔𝒖𝒑 ) e o limite inferior da primeira
+        classe (𝒍𝒊𝒏𝒇 ):
+
+
+                                          𝑨 = 𝑳𝒔𝒖𝒑 − 𝒍𝒊𝒏𝒇
+
+    •   pela diferença entre o ponto médio da última classe (𝑷𝑴ú𝒍𝒕 ) e o ponto médio da primeira
+        classe (𝑷𝑴𝒑𝒓𝒊 ):
+
+
+                                         𝑨 = 𝑷𝑴ú𝒍𝒕 − 𝑷𝑴𝒑𝒓𝒊
+
+
+
+
+                                https://t.me/KakashiAssinaturasBot
+Propriedades da Amplitude Total
+
+       1ª Propriedade
+       • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, a
+         amplitude do conjunto não é alterada.
+
+
+       2ª Propriedade
+       • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+         𝒄, a amplitude do conjunto fica multiplicada (ou dividida) por essa constante.
+
+
+
+
+AMPLITUDE INTERQUARTÍLICA
+
+Denominamos de quartis os valores de uma série que a dividem em quatro partes iguais, isto é,
+quatro partes contendo o mesmo número de elementos (25%).
+
+
+
+
+A amplitude interquartílica é o resultado da subtração entre o terceiro quartil e o primeiro
+quartil:
+
+                                          𝑨𝑰𝑸 = 𝑸𝟑 − 𝑸𝟏
+
+
+A amplitude semi-interquartílica é definida como a metade desse valor, sendo calculada pela
+expressão:
+
+                                                  𝑸𝟑 − 𝑸𝟏
+                                          𝑫𝑸 =
+                                                     𝟐
+
+
+
+
+                               https://t.me/KakashiAssinaturasBot
+Propriedades da Amplitude Interquartílica
+
+       1ª Propriedade
+       • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, a
+         amplitude interquartílica (e o desvio quartílico) do conjunto não é alterada.
+
+
+
+       2ª Propriedade
+
+       • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+         𝒄, a amplitude interquartílica (e o desvio quartílico) do conjunto fica multiplicada (ou
+         dividida) por essa constante.
+
+
+
+
+DESVIOS EM RELAÇÃO À MÉDIA ARITMÉTICA E MEDIANA
+
+Um desvio é a distância entre qualquer observação do conjunto de dados e uma medida descritiva
+desse conjunto:
+
+                                 𝑑𝑒𝑠𝑣𝑖𝑜 = 𝑜𝑏𝑠𝑒𝑟𝑣𝑎çã𝑜 − 𝑚𝑒𝑑𝑖𝑑𝑎
+
+Em especial, destacamos os desvios em relação à média aritmética e em relação à mediana:
+
+
+                                               ̅
+                                      𝒅𝒊 = 𝒙 − 𝒙        (𝑚é𝑑𝑖𝑎)
+
+ou
+
+
+                                    𝒅𝒊 = 𝒙 − 𝑴𝒅 (𝑚𝑒𝑑𝑖𝑎𝑛𝑎)
+
+
+
+
+                                https://t.me/KakashiAssinaturasBot
+Propriedades dos Desvios em Relação à Média Aritmética e Mediana
+
+       1ª Propriedade
+       • A soma dos desvios em relação à média aritmética é sempre nula.
+
+
+
+       2ª Propriedade
+
+       • A soma dos quadrados dos desvios em relação à média aritmética é mínima.
+
+
+
+       3ª Propriedade
+
+       • A soma dos módulos dos desvios em relação à mediana é mínima.
+
+
+
+DESVIO ABSOLUTO MÉDIO
+
+
+                                                                  ∑𝒏𝒊=𝟏|𝒙𝒊 − 𝒙
+                                                                             ̅|
+  mede a dispersão entre os valores da                       𝑫𝒎 =
+   distribuição e a média dos dados
+                                                                        𝒏
+               coletados.
+
+
+
+
+Desvio Médio para dados não-agrupados
+
+                                                 ∑𝒏𝒊=𝟏|𝒙𝒊 − 𝒙
+                                                            ̅|
+                                            𝑫𝒎 =
+                                                       𝒏
+
+
+Desvio Médio para dados agrupados sem intervalo de classe
+
+                                              ∑𝒎
+                                               𝒊=𝟏|𝒙𝒊 − 𝒙
+                                                        ̅ | × 𝒇𝒊
+                                         𝑫𝒎 =
+                                                    ∑ 𝒇𝒊
+
+
+
+
+                                    https://t.me/KakashiAssinaturasBot
+Desvio Médio para dados agrupados em classes
+
+Para dados agrupados em classe, deveremos adotar a mesma convenção que tomamos para o
+cálculo da média: vamos assumir que todos os valores coincidem com os pontos médios das suas
+respectivas classes.
+
+
+
+
+Propriedades do Desvio Médio
+
+       1ª Propriedade
+       • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, o
+         desvio médio do conjunto não é alterado.
+
+
+
+
+       2ª Propriedade
+       • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+         𝒄, o desvio médio do conjunto fica multiplicado (ou dividido) por essa constante.
+
+
+
+
+VARIÂNCIA (𝝈𝟐 )
+
+Fórmula da variância populacional:
+
+                                     ∑𝑛
+                                      𝑖=1(𝑥𝑖 −𝜇)
+                                                2
+                            𝜎2 =                     ou      𝜎 2 = ̅̅̅
+                                                                   𝑥 2 − (𝑥̅ )2
+                                            𝑛
+
+
+Fórmula da variância amostral:
+
+                               ∑𝑛
+                                𝑖=1(𝑥𝑖 −𝑥̅ )
+                                            2
+                        𝑠2 =                    ou           ̅̅̅2 − (𝑥̅ )2 ] × ( 𝑛 )
+                                                      𝑠 2 = [𝑥
+                                   𝑛−1                                            𝑛−1
+
+
+
+
+                                  https://t.me/KakashiAssinaturasBot
+Variância para dados não-agrupados
+
+a) para populações:
+
+
+                                                                           (∑𝒏𝒊=𝟏 𝒙𝒊 )𝟐
+                           ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝝁)𝟐                    ∑𝒏𝒊=𝟏 𝒙𝟐𝒊 −
+                    𝝈𝟐 =                       𝒐𝒖 𝝈𝟐 =                          𝒏
+                                 𝒏                                        𝒏
+
+b) para amostras:
+
+
+                                                                        (∑𝒏𝒊=𝟏 𝒙𝒊 )𝟐
+                           ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝒙
+                                      ̅ )𝟐                  ∑𝒏𝒊=𝟏 𝒙𝟐𝒊 −
+                    𝒔𝟐 =                       𝒐𝒖 𝒔𝟐 =                       𝒏
+                               𝒏 − 𝟏                                 𝒏 − 𝟏
+
+
+A relação entre a variância amostral (𝒔𝟐 ) e a variância populacional (𝝈𝟐 ) é dada por:
+
+                                                  𝒏
+                                       𝒔𝟐 = (         ) × 𝝈𝟐
+                                                𝒏 − 𝟏
+
+Variância para dados agrupados sem intervalos de classes
+
+a) para populações:
+
+
+                                                                                (∑𝒎
+                                                                                  𝒊=𝟏 𝑿𝒊 × 𝒇𝒊 )
+                                                                                                𝟐
+                 ∑𝒎          𝟐
+                  𝒊=𝟏(𝑿𝒊 − 𝝁) × 𝒇𝒊
+                                                       ∑𝒎    𝟐
+                                                        𝒊=𝟏(𝑿𝒊 × 𝒇𝒊 ) −
+          𝝈𝟐 =                            𝒐𝒖 𝝈𝟐 =                                      𝒏
+                           𝒏                                                𝒏
+
+b) para amostras:
+
+
+                                                                          (∑𝒎
+                                                                            𝒊=𝟏 𝑿𝒊 × 𝒇𝒊 )
+                                                                                          𝟐
+                 ∑𝒎        ̅ ) 𝟐 × 𝒇𝒊
+                  𝒊=𝟏(𝑿𝒊 − 𝒙
+                                                       ∑𝒎    𝟐
+                                                        𝒊=𝟏(𝑿𝒊 × 𝒇𝒊 ) −
+          𝒔𝟐 =                            𝒐𝒖 𝒔𝟐 =                                𝒏
+                       𝒏 − 𝟏                                           𝒏 − 𝟏
+
+
+
+
+                                https://t.me/KakashiAssinaturasBot
+Variância para dados agrupados em classes
+
+a) para populações:
+
+                                                                                       𝟐
+                                                      𝒌     𝟐        (∑𝒌𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 )
+          ∑𝒌𝒊=𝟏(𝑷𝑴𝒊 − 𝝁)𝟐 × 𝒇𝒊                       ∑𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 −
+        𝟐
+      𝝈 =                      𝒐𝒖 𝝈𝟐 =                                       𝒏
+                   𝒏                                                   𝒏
+
+b) para amostras:
+
+                                                                                           𝟐
+                                                 𝒌     𝟐        (∑𝒌𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 )
+           ∑𝒌𝒊=𝟏(𝑷𝑴𝒊 − 𝒙
+                       ̅ ) 𝟐 × 𝒇𝒊               ∑𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 −
+        𝟐
+       𝒔 =                              𝒐𝒖 𝒔𝟐 =                         𝒏
+                  𝒏 − 𝟏                                     𝒏 − 𝟏
+
+
+Propriedades da Variância
+
+      1ª Propriedade
+      • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, a
+        variância do conjunto não é alterada.
+
+
+
+      2ª Propriedade
+
+      • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+        𝒄, a variância do conjunto fica multiplicada (ou dividida) pelo QUADRADO dessa
+        constante.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+DESVIO-PADRÃO (𝝈)
+
+Fórmula do desvio-padrão populacional:
+                                            ∑𝑛𝑖=1(𝑥𝑖 − 𝜇)2
+                                      𝜎=√
+                                                   𝑛
+
+Fórmula do desvio-padrão amostral:
+                                            ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                      𝑠=√
+                                                 𝑛−1
+
+
+
+
+Desvio-padrão para dados não-agrupados
+
+a) para populações:
+
+
+
+                                ∑𝒏𝒊=𝟏 𝒅𝟐𝒊    ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝝁)𝟐
+                            𝝈=√           =√
+                                    𝒏               𝒏
+
+
+b) para amostras:
+
+
+
+                                     ∑𝒏𝒊=𝟏 𝒅𝟐𝒊     ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝒙
+                                                              ̅ )𝟐
+                            𝒔=√                = √
+                                      𝒏−𝟏               𝒏−𝟏
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Desvio-padrão para dados agrupados sem intervalo de Classe
+
+a) para populações:
+
+
+
+                           ∑𝒌𝒊=𝟏(𝒅𝟐𝒊 × 𝒇𝒊 )    ∑𝒌𝒊=𝟏[(𝑿𝒊 − 𝝁)𝟐 × 𝒇𝒊 ]
+                       𝝈=√                  =√
+                                 𝒏                       𝒏
+
+b) para amostras:
+
+
+
+                           ∑𝒌𝒊=𝟏(𝒅𝟐𝒊 × 𝒇𝒊 )    ∑𝒌𝒊=𝟏[(𝑿𝒊 − 𝒙
+                                                           ̅ ) 𝟐 × 𝒇𝒊 ]
+                       𝒔=√                  =√
+                                𝒏−𝟏                    𝒏−𝟏
+
+
+
+
+Desvio-padrão para dados agrupados em classes
+
+Para dados agrupados em classe, usaremos as mesmas fórmulas para dados sem intervalos de
+classes, utilizando para 𝑥𝑖 os pontos médios de cada classe, mas adotando os mesmos
+procedimentos.
+
+
+
+Propriedades do Desvio-padrão
+
+      1ª Propriedade
+      • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, o
+        desvio-padrão do conjunto não é alterado.
+
+
+
+      2ª Propriedade
+      • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+        𝒄, o desvio-padrão do conjunto fica multiplicado (ou dividido) por essa constante.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+COEFICIENTE DE VARIAÇÃO (OU DISPERSÃO RELATIVA)
+
+O coeficiente de variação é uma medida que fornece a variação dos dados em relação à média:
+
+ a) para populações:
+
+                                             𝝈
+                                    𝑪𝑽 =       × 𝟏𝟎𝟎 (%)
+                                             𝝁
+
+ b) para amostras:
+
+                                             𝒔
+                                     𝑪𝑽 =      × 𝟏𝟎𝟎 (%)
+                                             ̅
+                                             𝒙
+
+
+O coeficiente de variação pode ser interpretado por meio de algumas regras empíricas:
+
+
+
+
+          𝑪𝑽 < 𝟏𝟓%                    𝟏𝟓% < 𝑪𝑽 < 𝟑𝟎%                     𝑪𝑽 > 𝟑𝟎%
+
+
+podemos classificar as distribuições em homogêneas ou heterogêneas:
+
+
+
+
+                                                              𝑪𝑽 > 𝟑𝟎%
+                          𝑪𝑽 < 𝟑𝟎%
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+VARIÂNCIA RELATIVA
+
+A variância relativa é uma medida de dispersão relativa que resulta do quociente entre a variância
+absoluta e o quadrado da média:
+
+ a) para populações:
+
+
+                                              𝝈 𝟐 𝝈𝟐
+                                        𝑽𝑹 = ( ) = 𝟐
+                                              𝝁   𝝁
+
+ b) para amostras:
+
+
+                                              𝒔 𝟐 𝒔𝟐
+                                        𝑽𝑹 = ( ) = 𝟐
+                                              ̅
+                                              𝒙   ̅
+                                                  𝒙
+
+
+
+
+                               https://t.me/KakashiAssinaturasBot
+

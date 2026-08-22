@@ -1,0 +1,161 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 20_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: Art. 198. As ações e serviços públicos de saúde integram uma rede
+artigos_citados:
+- Art. 198
+- Art. 198.
+- Art. 200.
+- art. 169
+- art. 41
+---
+
+# Art. 198. As ações e serviços públicos de saúde integram uma rede
+
+SUS
+Art. 198. As ações e serviços públicos de saúde integram uma rede
+regionalizada e hierarquizada e constituem um sistema único,
+organizado de acordo com as seguintes diretrizes:
+I - descentralização, com direção única em cada esfera de governo;
+II - atendimento integral, com prioridade para as atividades
+preventivas, sem prejuízo dos serviços assistenciais;
+III - participação da comunidade.
+
+                         
+
+
+---
+
+---
+
+SAÚDE – SUS - COMPETÊNCIAS
+Art. 200. Ao sistema único de saúde compete, além de outras
+atribuições, nos termos da lei:
+ I - controlar e fiscalizar procedimentos, produtos e substâncias de
+  interesse para a saúde e participar da produção de medicamentos,
+  equipamentos, imunobiológicos, hemoderivados e outros insumos;
+ II - executar as ações de vigilância sanitária e epidemiológica, bem
+  como as de saúde do trabalhador;
+ III - ordenar a formação de recursos humanos na área de saúde;
+ IV - participar da formulação da política e da execução das ações de
+  saneamento básico;
+
+                          
+
+
+---
+
+SAÚDE – SUS - COMPETÊNCIAS
+ V - incrementar, em sua área de atuação, o desenvolvimento
+  científico e tecnológico e a inovação;
+
+
+ VI - fiscalizar e inspecionar alimentos, compreendido o controle de
+  seu teor nutricional, bem como bebidas e águas para consumo
+  humano;
+
+
+ VII - participar do controle e fiscalização da produção, transporte,
+  guarda e utilização de substâncias e produtos psicoativos, tóxicos e
+  radioativos;
+
+
+ VIII - colaborar na proteção do meio ambiente, nele compreendido
+  o do trabalho.
+
+
+                          
+
+
+---
+
+AGENTES COMUNITÁRIOS DE
+SAÚDE (ACS) E DE ENDEMIAS (ACE)
+Art. 198 4º Os gestores locais do sistema único de saúde poderão
+admitir agentes comunitários de saúde e agentes de combate às
+endemias por meio de processo seletivo público, de acordo com a
+natureza e complexidade de suas atribuições e requisitos específicos
+para sua atuação.
+
+    5º Lei federal disporá sobre o regime jurídico, o piso salarial
+profissional nacional, as diretrizes para os Planos de Carreira e a
+regulamentação das atividades de agente comunitário de saúde e
+agente de combate às endemias, competindo à União, nos termos da
+lei, prestar assistência financeira complementar aos Estados, ao
+Distrito Federal e aos Municípios, para o cumprimento do referido piso
+salarial.
+
+
+                          
+
+
+---
+
+AGENTES COMUNITÁRIOS DE
+SAÚDE
+Art. 198 6º Além das hipóteses previstas no 1º do art. 41 e no 4º
+do art. 169 da Constituição Federal, o servidor que exerça funções
+equivalentes às de agente comunitário de saúde ou de agente de
+combate às endemias poderá perder o cargo em caso de
+descumprimento dos requisitos específicos, fixados em lei, para o seu
+exercício.
+   7º O vencimento dos agentes comunitários de saúde e dos agentes
+de combate às endemias fica sob responsabilidade da União, e cabe
+aos Estados, ao Distrito Federal e aos Municípios estabelecer, além de
+outros consectários e vantagens, incentivos, auxílios, gratificações e
+indenizações, a fim de valorizar o trabalho desses profissionais.
+(Incluído pela Emenda Constitucional nº 120, de 2022)
+
+
+                          
+
+
+---
+
+AGENTES COMUNITÁRIOS DE
+SAÚDE
+Art. 198 8º Os recursos destinados ao pagamento do vencimento dos
+agentes comunitários de saúde e dos agentes de combate às endemias
+serão consignados no orçamento geral da União com dotação própria e
+exclusiva. (Incluído pela Emenda Constitucional nº 120, de 2022)
+   9º O vencimento dos agentes comunitários de saúde e dos agentes de
+combate às endemias não será inferior a 2 (dois) salários mínimos,
+repassados pela União aos Municípios, aos Estados e ao Distrito Federal.
+(Incluído pela Emenda Constitucional nº 120, de 2022)
+   10. Os agentes comunitários de saúde e os agentes de combate às
+endemias terão também, em razão dos riscos inerentes às funções
+desempenhadas, aposentadoria especial e, somado aos seus vencimentos,
+adicional de insalubridade. (Incluído pela Emenda Constitucional nº 120,
+de 2022)
+
+
+                           
+
+
+---
+
+AGENTES COMUNITÁRIOS DE
+SAÚDE
+Art. 198
+  11. Os recursos financeiros repassados pela União aos Estados, ao
+Distrito Federal e aos Municípios para pagamento do vencimento ou
+de qualquer outra vantagem dos agentes comunitários de saúde e dos
+agentes de combate às endemias não serão objeto de inclusão no
+cálculo para fins do limite de despesa com pessoal.   (Incluído pela
+Emenda Constitucional nº 120, de 2022)
+
+                         
+
+
+---
+
+---

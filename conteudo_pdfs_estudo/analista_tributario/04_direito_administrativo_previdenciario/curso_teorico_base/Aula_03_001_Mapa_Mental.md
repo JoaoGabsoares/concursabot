@@ -1,0 +1,155 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 03_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '03'
+titulo_aula: 'ATOS ADMINISTRATIVOS: CONCEITO E ATRIBUTOS'
+---
+
+# ATOS ADMINISTRATIVOS: CONCEITO E ATRIBUTOS
+
+ATOS ADMINISTRATIVOS: CONCEITO E ATRIBUTOS
+
+                                                         CONCEITO
+
+• É UMA MANIFESTAÇÃO OU DECLARAÇÃO UNILATERAL DE VONTADE;
+
+• EMANA DA ADMINISTRAÇÃO PÚBLICA OU DE OUTREM COM SUAS PRERROGATIVAS;
+
+• PRODUZ EFEITOS JURÍDICOS;
+
+• DESTINA-SE À FINALIDADE PÚBLICA.
+
+
+                                                                                  ❑ Interesse público.
+
+
+• REGE-SE PELO DIREITO PÚBLICO.                                                   ❑ Supremacia do interesse público.
+
+
+• PODE SER CONTROLADO PELO PODER JUDICIÁRIO
+
+
+• PRESUNÇÃO DE LEGITIMIDADE OU VERACIDADE;                                                        ATRIBUTOS
+• IMPERATIVIDADE;
+• AUTOEXECUTORIEDADE;
+• TIPICIDADE.
+                                                                                                                       DIREITO ADMINISTRATIVO
+                                                                                                                        ESTRATÉGIA CONCURSOS
+                                             
+
+
+---
+
+      ATOS ADMINISTRATIVOS: ELEMENTOS DE FORMAÇÃO
+
+          ELEMENTOS ESSENCIAIS DE FORMAÇÃO DO ATO ADMINISTRATIVO
+
+                                   • CONFERIDA LEGALMENTE AO AGENTE PÚBLICO PARA O DESEMPENHO
+    COMPETÊNCIA
+                                     DE SUAS ATRIBUIÇÕES.
+
+                                    • GERAL.                        ❑ Interesse público.
+   FINALIDADE
+                                    • ESPECÍFICA.                   ❑ Prevista na lei.
+
+
+     FORMA                    • MANEIRA POR MEIO DA QUAL O ATO É EXTERIORIZADO.
+
+    MOTIVO                    • SITUAÇÃO QUE GERA A VONTADE DO AGENTE QUE PRATICA O ATO.
+
+OBJETO (CONTEÚDO)             • AQUILO QUE O ATO DETERMINA.
+
+
+                ELEMENTOS ACIDENTAIS DE FORMAÇÃO DO ATO ADMINISTRATIVO
+
+                                                            TERMO
+
+                                                      CONDIÇÃO
+
+                                                         ENCARGO                                DIREITO ADMINISTRATIVO
+                                                                                                 ESTRATÉGIA CONCURSOS
+                              
+
+
+---
+
+                                           ATOS ADMINISTRATIVOS: VÍCIOS
+
+                                                                                                          ❑ Excesso de poder;
+ VÍCIOS DO ATO ADMINISTRATIVO
+                                                                    • INCOMPETÊNCIA.                      ❑ Função de fato;
+                                                                                                          ❑ Usurpação de poder.
+                   VÍCIOS DE COMPETÊNCIA
+                                                                                                          ❑ Impedimento;
+                                                                    • INCAPACIDADE.
+                    VÍCIO DE FINALIDADE
+                                                                                                          ❑ Suspeição.
+
+                                                                  ❑ Finalidade distinta do interesse público;
+               • DESVIO     DE   PODER     OU
+                   DESVIO DE FINALIDADE.
+                                                                  ❑ Finalidade especíﬁca diferente da prevista em lei.
+
+                                                          • FORMA PREVISTA EM LEI NÃO OBSERVADA;
+                      VÍCIOS DE FORMA                     • FORMALIDADE OU PROCEDIMENTO PARA A TOMADA DE DECISÃO COM RITO DIVERSO DO
+                                                            PREVISTO EM LEI.
+
+
+                                                                            VÍCIOS DE MOTIVO
+
+                           • PROIBIDO POR LEI OU COM CONTEÚDO NÃO PREVISTO EM LEI;                    • FALSO;
+                           • DIVERSO DO PREVISTO NA LEI PARA A SITUAÇÃO;                              • INEXISTENTE;
+VÍCIOS DE OBJETO           • IMPOSSÍVEL;                                                              • INADEQUADO JURIDICAMENTE.
+                           • IMORAL;
+                           • INCERTO.                                                                                    DIREITO ADMINISTRATIVO
+                                                                                                                          ESTRATÉGIA CONCURSOS
+                                                 
+
+
+---
+
+                         ATOS ADMINISTRATIVOS: CLASSIFICAÇÃO
+                                                                            QUANTO À FORMAÇÃO OU INTERVENÇÃO DA
+  QUANTO AOS DESTINATÁRIOS
+                                                                                       VONTADE ADMINISTRATIVA
+
+  •       GERAIS;
+                                                                        •   SIMPLES;
+  •       INDIVIDUAIS.
+                                                                        •   COMPLEXO;
+   QUANTO À SUA ESTRUTURA                                               •   COMPOSTO;
+
+  •       CONCRETOS;                                                                    QUANTO AOS EFEITOS
+  •       ABSTRATOS.
+                                                                        •   CONSTITUTIVO;
+QUANTO AO ÂMBITO DE APLICAÇÃO                                           •   MODIFICATIVO;
+
+      •    INTERNOS;                                                    •   EXTINTIVO;
+
+      •    EXTERNOS.                                                    •   DECLARATÓRIO;                       •   VÁLIDO;
+                                                                                                                •   NULO;
+   QUANTO ÀS PRERROGATIVAS                                                    QUANTO À EFICÁCIA
+                                                                                                                •   ANULÁVEL;
+      •    DE IMPÉRIO;                                                                                          •   INEXISTENTE.
+                                                                            QUANTO À EXEQUIBILIDADE
+      •    DE GESTÃO;
+      •    DE EXPEDIENTE.                                               •   PERFEITO;
+                                                                        •   IMPERFEITO;
+ QUANTO À LIBERDADE DE AÇÃO
+                                                                        •   EFICAZ;
+      •    VINCULADOS;                                                  •   PENDENTE;
+      •    DISCRICIONÁRIOS.                                             •   CONSUMADO.                                      DIREITO ADMINISTRATIVO
+                                                                                                                             ESTRATÉGIA CONCURSOS
+                                   
+
+
+---

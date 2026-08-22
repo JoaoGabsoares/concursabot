@@ -1,0 +1,1030 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Trilhas Estratégicas, Simulados e Monitoria
+tags:
+- trilhas
+- planejamento
+- simulados
+- ciclo_estudos
+arquivo_origem: Aula 04_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Livro Eletrônico
+artigos_citados:
+- art. 3
+---
+
+# Livro Eletrônico
+
+Livro Eletrônico
+
+                               Trilha 02
+
+Receita Federal (Analista Tributário) Trilha Estratégica
+Professor: Guilherme Carvalho, Glesler Sales Maldonado
+
+                  
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+TRILHA ESTRATÉGICA - ANALISTA-TRIBUTÁRIO DA
+         RECEITA FEDERAL DO BRASIL
+Olá, pessoal!
+
+Esperamos que os estudos estejam em dia.
+
+Nessa semana, iniciaremos a Trilha Estratégica nº 02 para o concurso de Analista-Tributário da
+Receita Federal do Brasil.
+
+Caso vocês ainda não tenham terminado a Trilha nº 01, não se preocupem! Finalizem aquela e, aí
+sim, comecem a Trilha dessa semana.
+
+ “A motivação faz com que você dê o primeiro passo, mas é a disciplina que fará
+                     com que você alcance seu objetivo”
+
+Não se esqueçam do link da nossa Comunidade de Alunos da Área Fiscal no Telegram. Vocês
+podem fazer a inscrição clicando no endereço eletrônico logo abaixo:
+
+                         Inscreva-se na Comunidade de alunos da Área Fiscal
+
+                                      
+
+Agora, sem mais delongas, vamos aos estudos, vamos detonar esta Trilha!
+
+A cada dia que passa que passa, você está mais próximo de se tornar Analista-Tributário da
+Receita Federal do Brasil.
+
+                                                                                            1
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                             TRILHA ESTRATÉGICA 02
+Disponibilizaremos, individualmente, nesta seção, as Trilhas de cada uma das disciplinas
+trabalhadas por nós. O objetivo é que o aluno possa fazer ajustes no seu estudo a depender do
+nível em que ele está em determinada matéria.
+
+                   Matéria                                                   Trilha de Disciplina
+    Administração de Compras e Materiais                              http://estrategi.ac/s8pmuf
+         Administração Financeira                                      http://estrategi.ac/i49ply
+            Administração Geral                                        http://estrategi.ac/zjquiu
+           Administração Pública                                      http://estrategi.ac/hhtwx0
+                Contabilidade                                         http://estrategi.ac/6as99x
+           Direito Administrativo                                      http://estrategi.ac/zft0pi
+           Direito Constitucional                                          http://estrategi.ac/asslij
+            Direito Previdenciário                                     http://estrategi.ac/vsr4dq
+              Direito Tributário                                       http://estrategi.ac/be9d16
+                  Estatística                                          http://estrategi.ac/b5lzpu
+             Fluência em Dados                                             http://estrategi.ac/xj5lzf
+                    Inglês                                             http://estrategi.ac/e83itz
+            Legislação Aduaneira                                       http://estrategi.ac/b69jaf
+            Legislação Tributária                                      http://estrategi.ac/ib6bq3
+                  Português                                            http://estrategi.ac/5jbbzt
+       Raciocínio Lógico Matemático                                    http://estrategi.ac/6ld8x9
+
+                                                                                                        2
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+Segue resumo das tarefas que abordaremos nesta trilha.
+
+  Tarefa          Disciplina                                       Resumo das tarefas
+
+31            Português             Resolução de questões da Aula 00.
+
+32            Contabilidade         Prática de exercícios da aula 01 – Parte II - Resolução de 32
+                                    questões do PDF.
+
+33            Dir. Tributário       Exercícios da aula 00.
+
+34            Constitucional        Treino da Aula 00 - Resolução de 33 questões no Sistema de
+                                    Questões do Estratégia.
+
+35            RLM                   Estudo da aula 01, do tópico “Equivalências provenientes da
+                                    negação de proposições” até o tópico “Conjunção de
+                                    condicionais, inclusive; e resolução de 8 questões.
+
+36            Dir. Admin.           Estudo da Aula 02 – Parte 1 de 2: Estude os tópicos de
+                                    Introdução, Atributos e Classificações.
+
+37            Português             Estudo da aula 01, de “Considerações Iniciais” até “Expressões
+                                    com Substantivo e Adjetivo”, inclusive.
+
+38            Contabilidade         Treino da Aula 01 e 01 – Parte II - resolução de 35 questões do
+                                    SQ.
+
+39            Dir. Tributário       Exercícios da aula 00.
+
+40            Constitucional        Estudo da Aula 01, do tópico “Aplicação das Normas
+                                    Constitucionais   no    Tempo” ao tópico  “Princípios
+                                    Fundamentais”, inclusive.
+
+41            RLM                   Estudo da aula 01, do tópico “Álgebra de proposições” até o
+                                    final.
+
+42            Dir. Admin.           Estudo da Aula 02 – Parte 2 de 2: Estude do tópico Elementos
+                                    ou Requisitos de Validade até o fim da teoria da aula.
+
+43            Contabilidade         Revisão das aulas 00, 01 e 01 – Parte II; e resolução de 15
+                                    questões do PDF.
+
+44            RLM                   Revisão da aula 01 (Equivalências Lógicas); e resolução de 22
+                                    questões do PDF.
+
+45            Dir. Admin.           Revisão da aula 02; e resolução de 32 Questões – Livro Digital
+                                    (PDF).
+
+                                                                                                  3
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                    TAREFA 31
+
+                                                     Português
+
+Resolução de questões da Aula 00.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Nesta tarefa vamos resolver questões do PDF.
+
+Primeiro, resolva todas as questões restantes da aula.
+
+Em seguida, anote as questões que sentir dificuldade para que você possa priorizar determinados
+tópicos no momento da revisão. Essa atitude o ajudará a melhorar seu desempenho no decorrer
+dos estudos.
+
+Além disso, após resolver as questões, leia atentamente os comentários e aproveite para melhorar
+seus grifos e/ou resumo no que julgar importante.
+
+                                                                                              4
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 32
+
+                                    Contabilidade Geral e Avançada
+
+Prática de exercícios da aula 01 – Parte II - Resolução de 32 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Inicialmente, faça uma breve revisão do conteúdo estudado na aula. Você pode fazer isso por meio
+de suas marcações e/ou pela leitura do resumo da aula
+
+Em seguida, resolva as questões 1 a 32 presentes ao final do PDF, marcando aquelas que tiver
+dúvida.
+
+A seguir, vá até a seção de Questões Comentadas e estude os comentários daquelas que errar ou
+que tiver qualquer tipo de dúvida. Isso é fundamental para internalizar o conteúdo, sanar
+dificuldades e acertar questões similares futuramente. Todas essas questões devem ser marcadas
+para serem resolvidas novamente em futuras revisões.
+
+Feito isso, quero que você volte ao seu PDF, e verifique a qualidade dos seus grifos, para
+melhorá-los, se for o caso (“tudo que foi cobrado nas questões, estava grifado em meu material?”).
+Afinal, agora você já domina melhor o conteúdo, e tem maior conhecimento sobre a forma como
+a matéria é cobrada.
+
+                                                                                                5
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 33
+
+                                                Direito Tributário
+
+Exercícios da aula 00.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Dirija-se para as listas de questões complementares comentadas e resolva todas as questões
+ímpares das três listas.
+
+Não perca muito tempo em cada questão. Aborde cada uma delas como se estivesse fazendo uma
+prova. Primeiramente, faça uma cognição sumária e marque a alternativa. Em seguida, veja o
+gabarito. Se acertou e não restou qualquer dúvida, passe para a próxima questão. Caso tenha
+errado ou tenha ficado entre duas ou mais alternativas, leia os comentários do professor. Se
+necessário, veja o dispositivo legal que respalda a justificativa da resposta da questão.
+
+Atenção: Marque as questões que errar ou acertar sem certeza.
+
+                                                                                          6
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 34
+
+                                            Direito Constitucional
+
+Treino da Aula 00 - Resolução de 33 questões no Sistema de Questões do Estratégia.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Link: http://questo.es/49d30r
+
+Nesta tarefa você irá reforçar a aprendizagem dos assuntos estudados na Aula 00 por meio de
+um treino de questões no SQ das principais bancas da área fiscal (Cespe, FGV, FCC e Vunesp).
+
+Tente resolver sem ver os comentários, mas antes de vê-los, além de marcar o gabarito, leia todas
+as alternativas e justifique a sua resposta mentalmente. Isso vai ajudá-lo demasiadamente a se
+apropriar do conteúdo. Depois leia os comentários e melhore seus grifos para futuras revisões.
+
+Caso tenha acertado menos de 80% das questões, volte na teoria pontualmente e reforce os
+conceitos que ainda não foram bem compreendidos.
+
+                                                                                               7
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 35
+
+                                      Raciocínio Lógico Matemático
+
+Estudo da aula 01, do tópico “Equivalências provenientes da negação de proposições” até
+o tópico “Conjunção de condicionais, inclusive; e resolução de 8 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Dando continuidade no Estudo da Aula, vamos entrar em um assunto bastante importante, que é
+sobre a Negação Lógica.
+
+Em Negação da Conjunção (e), você deve memorizar a relação abaixo, também conhecida como
+1ª Lei de Morgan:
+
+Já quando estivermos diante de uma Negação da Disjunção (ou), você deve levar para a prova a
+relação abaixo, conhecida como 2ª Lei de Morgan:
+
+Na Negação do Condicional (se....então), memorize a seguinte relação:
+
+Já na Negação do Bicondicional (“se e somente se”), memorize a relação abaixo:
+
+E na Negação da Disjunção exclusiva, memorize a seguinte relação:
+
+                                                                                          8
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+No tópico Outras Equivalências, realize uma leitura mais fluída, tendo como pontos chaves as
+Equivalências abaixo:
+
+Equivalência do conectivo bicondicional:
+
+Negação da conjunção para a forma condicional:
+
+Conjunção de Condicionais:
+
+Dica: Aqui, caro aluno, o mais importante, além de memorizar as relações apresentadas acima, é
+acompanhar com muita atenção cada um dos exercícios resolvidos pelo professor durante a
+explicação da matéria. Aproveite esta leitura para identificar como as bancas costumam cobrar em
+prova, assim como a melhor maneira de resolver cada uma destas questões.
+
+A seguir, resolva as questões:
+
+20 a 23 e 38 a 41 da lista “Equivalências Lógicas - FGV”.
+
+Utilize a lista sem comentários ao final do PDF.
+
+Após, recorra ao comentário do professor naquelas que errar ou ficar em dúvidas, marcando-as
+para futuras revisões.
+
+                                                                                              9
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 36
+
+                                            Direito Administrativo
+
+Estudo da Aula 02 – Parte 1 de 2: Estude os tópicos de Introdução, Atributos e Classificações.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Nesta tarefa, iniciaremos o estudo do tema Atos Administrativos, que é um dos mais tradicionais
+de nossa disciplina. Ou seja, prioridade total a partir de agora, pois será imprescindível dominar
+esse assunto.
+
+Estude os seguintes tópicos: Introdução aos Atos Administrativos, Atributos e Classificações.
+Resolva todas as questões que forem surgindo durante a leitura da teoria. Na próxima tarefa
+retomaremos os estudos a partir dos ELEMENTOS OU REQUISITOS DE VALIDADE.
+
+Leia, na introdução, as definições de ato e fato jurídico e compreenda o mapa mental elaborado
+pelo professor. Entenda os conceitos principais de ato administrativo na visão dos principais
+doutrinadores, conforme reproduzido no material pelo professor. Estes diferentes doutrinadores
+divergem entre si em aspectos como o interesse público e a observância da lei. Não decore
+nenhum deles, apenas compreenda seu núcleo essencial.
+
+Mais alguns conceitos que você precisa saber: diferenças entre ato jurídico e ato administrativo,
+atos da administração, fatos administrativos e silêncio administrativo.
+
+Foque bastante em compreender os quadros apresentados na explicação, eles são fundamentais
+para se consolidar o entendimento do que foi ensinado.
+
+Prossiga agora com o estudo dos atributos dos atos administrativos: presunção de legitimidade
+ou veracidade, autoexecutoriedade, tipicidade e imperatividade: mnemônico ‘PATI’. Cuidado!
+Não são raras as questões que tentam confundir o candidato em relação aos atributos e os
+elementos dos atos. Decore cada possibilidade!
+
+Atenção especial ao atributo da autoexecutoriedade, o mais reincidente em provas, uma vez que
+ele possui certas peculiaridades, como, por exemplo, o fato de não estar presente em todos os
+atos, e de se desdobrar em executoriedade e exigibilidade.
+
+Agora, focaremos em mais um assunto bastante presente em provas: classificações dos atos
+administrativos. A partir de agora, é necessário que se grife com cores diferenciadas a fim de
+chamar a atenção para cada uma das muitas classificações determinadas pela doutrina.
+
+Destaque para os atos discricionários e vinculados, os simples e, principalmente, para a sutil
+diferença entre os atos compostos e os complexos. Aqui vale uma dica:
+
+
+                                                                                              10
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+Ato composto -> 1 órgão, 2 atos.
+
+Ato complexo -> 1 ato, 2 órgãos.
+
+Importante! Faça uma relação entre a classificação e os exemplos do caso concreto mencionados
+durante a aula para facilitar essa conexão. Em outras palavras, você deve relacionar, por exemplo,
+que a cassação de autorização se trata de um ato extintivo!
+
+Estude para compreender bem as definições da classificação do ato quanto à eficácia - ato válido,
+nulo, anulável e inexistente.
+
+Encerre o estudo da tarefa ao final deste tópico, pois na próxima entraremos em Elementos e
+Requisitos de Validade do Ato Administrativo.
+
+                                                                                              11
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 37
+
+                                                     Português
+
+Estudo da aula 01, de “Considerações Iniciais” até “Expressões com Substantivo e Adjetivo”,
+inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Nesta tarefa iniciaremos o estudo sobre as Classes de Palavras (artigo, substantivo, adjetivo,
+numeral, pronomes advérbio, interjeição). Informo que esta aula é IMPORTANTÍSSIMA, possuindo
+grau de incidência ALTA. Logo, leia atentamente a aula tentando entender o seu conteúdo e foque
+nos comentários dos exercícios resolvidos no curso para compreender, na prática, o emprego das
+classes de palavras.
+
+Inicialmente, leia o resumo da aula 16, referente ao tópico Classes de Palavras, e, em seguida,
+acompanhe a leitura da aula por ele. Isso facilitará a priorização de conteúdo durante seu estudo.
+
+Nesta tarefa, abordaremos as classes: substantivo e adjetivo. As demais, serão vistas nas próximas
+tarefas. Assim, estes serão nossos tópicos principais:
+
+- SUBSTANTIVO, classe que designa os seres. Antemão, entenda que a classificação de um
+substantivo não é fixa e absoluta, pois depende do contexto em que ele esteja no período.
+
+Na leitura da aula, atente para as classificações dos substantivos, as quais podem ser associadas
+em pares: comum x próprio; derivado x primitivo. Essa simples associação, fará que você não
+precise decorar todas as classificações.
+
+Na formação de substantivos, atenção à DERIVAÇÃO REGRESSIVA (despenca em prova!).
+
+Em relação as flexões dos substantivos, perceba que elas podem ser de 03 espécies:
+
+1. Número (singular x plural)
+
+Nos substantivos simples, forma-se o plural em função do final da palavra.
+
+· vogal ou ditongo (exceto -ÃO): acréscimo de -S (porta x portas, troféu x troféus)
+
+· ditongo -ÃO: -ÕES/-ÃES/-ÃOS, variando em cada palavra (anãos, balões, alemães, cristãos).
+
+ATENÇÃO as palavras que apresentam múltiplos plurais: aldeão- aldeões, aldeãos, aldeães / vilão-
+vilões, vilãos / ancião- anciões, anciãos, anciães / verão- verões, verãos.
+
+· -AL, EL, OL, UL: troca-se -L por -IS (animal x animais, barril x barris)
+
+
+                                                                                              12
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+· IL: se oxítono, trocar -L por -S. Se não oxítonos, trocar -L por -EIS. (til x tis, míssil x mísseis)
+
+· -N: -S ou -ES, sendo a última menos comum (hífen x hifens ou hífenes)
+
+· -R, -S ou -Z: -ES (mar x mares, país x países, raiz x raízes). As não-oxítonas terminadas em -S são
+invariáveis, marcando o número pelo artigo (os atlas, os lápis, os ônibus)
+
+· -X: invariável, usando o artigo para o plural (tórax x os tórax)
+
+· sufixo diminutivo -ZINHO(A)/-ZITO(A): colocar a palavra primitiva no plural, retirar o -S e
+acrescentar o sufixo diminutivo com -S (barezinhos, mulherezinhas)
+
+2. Gênero (masculino x feminino) => Apenas tenha uma visão geral
+
+· biformes: uma forma para masculino e outra para feminino. (gato x gata, homem x mulher)
+
+· uniformes: uma única forma para ambos os gêneros. Dividem-se em:
+
+  - Comum de dois gêneros - a distinção dos sexos através de artigos. (o/a artista).
+
+  - Sobrecomuns - um só gênero gramatical para designar ambos os sexos (a criança, o indivíduo).
+
+  - Epicenos - usados para animais de ambos os sexos (+ macho e fêmea).
+
+Observação: alguns substantivos, quando mudam de gênero, mudam de sentido. (o cabeça x a
+cabeça)
+
+3. Grau (normal, aumentativo e diminutivo)
+
+Os substantivos podem apresentar diferentes graus, porém grau não é uma flexão nominal.
+
+São três: normal, aumentativo e diminutivo e podem ser formados através de dois processos:
+
+· analítico - associando os adjetivos (grande x pequeno) ao substantivo
+
+· sintético - anexando-se ao substantivo sufixos indicadores de grau (meninão x menininho)
+
+Observações:
+- O grau dos substantivos também pode denotar sentido afetivo e carinhoso ou pejorativo, irônico.
+(Ele é um velhinho legal / Que mulherzinha implicante)
+
+- Certos substantivos, apesar da forma, não expressam a noção aumentativa ou diminutiva. (cartão,
+cartilha)
+
+                                                                                                         13
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+- ADJETIVO, classe que atribui alguma qualificação, condição ou estado, restringindo ou
+especificando sentido. Perceba que os adjetivos apresentam várias classificações e flexões, as quais
+são semelhantes as dos substantivos. Por isso, tente relacionar este conteúdo de classificações e
+flexões com aquele visto nos substantivos.
+
+Resolva as questões comentadas que aparecem ao longo da teoria.
+
+                                                         ==219a34==
+
+                                                                                                14
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 38
+
+                                    Contabilidade Geral e Avançada
+
+Treino da Aula 01 e 01 – Parte II - resolução de 35 questões do SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Para consolidar a aprendizagem dos assuntos estudados na Aula, vamos fazer essa bateria de
+questões no SQ:
+
+Link: http://questo.es/llube7
+
+Procure resolver as questões de forma proativa: antes de marcar o gabarito, fale para você mesmo
+a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do conteúdo.
+Depois leia os comentários do professor e melhore seus grifos/resumos no que julgar importante
+para futuras revisões.
+
+                                                                                             15
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                    TAREFA 39
+
+                                               Direito Tributário
+
+Exercícios da aula 00.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Dirija-se para as listas de questões complementares comentadas e resolva todas as questões
+pares das listas.
+
+Não perca muito tempo em cada questão. Aborde cada uma delas como se estivesse fazendo uma
+prova. Primeiramente, faça uma cognição sumária e marque a alternativa. Em seguida, veja o
+gabarito. Se acertou e não restou qualquer dúvida, passe para a próxima questão. Caso tenha
+errado ou tenha ficado entre duas ou mais alternativas, leia os comentários do professor. Se
+necessário, veja o dispositivo legal que respalda a justificativa da resposta da questão.
+
+Atenção: Marque as questões que errar ou acertar sem certeza.
+
+                                                                                         16
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 40
+
+                                            Direito Constitucional
+
+Estudo da Aula 01, do tópico “Aplicação das Normas Constitucionais no Tempo” ao tópico
+“Princípios Fundamentais”, inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Nesta tarefa, você irá estudas os temas: Aplicação das Normas Constitucionais no Tempo,
+Interpretação Constitucional e Princípios Fundamentais.
+
+Durante a execução das tarefas, procure grifar os conceitos chave, as exceções e os artigos de lei
+mais importantes para facilitar suas futuras revisões.
+
+No tópico de Aplicação das Normas Constitucionais no tempo, fique atento aos seguintes
+pontos: ao ser inaugurada uma nova Constituição, salvo se houver determinação expressa, as
+normas da antiga não são recepcionadas como normas infralegais (teoria da
+desconstitucionalização). Pode ocorrer que normas editadas sob a vigência da antiga Constituição,
+se compatíveis, sejam recepcionadas; o fenômeno da repristinação só existirá no Brasil se
+expressamente previsto; outro ponto relevante é que o exame da constitucionalidade é feito de
+acordo com a Constituição vigente ao tempo da edição da lei.
+
+Agora vamos estudar o tópico “Interpretação da Constituição”. Leia com atenção todos os
+métodos de Interpretação, você encontrará no material um esquema resumo que irá facilitar a
+revisão e a compreensão do cerne de cada método que será suficiente para resolver questões de
+prova. Estude os Princípios da Interpretação Constitucional com atenção aos termos chaves
+destacados na aula e tenha muita atenção às jurisprudências trazidas na aula no tópico
+“Interpretação conforme a Constituição”
+
+Antes de prosseguir no estudo do seu material, leia os arts. 1° ao 4° da Constituição Federal de
+1988.
+
+A leitura da lei seca é muito importante porque muitas questões costumam cobrar a literalidade
+dos artigos. Assim, com uma leitura cuidadosa você pode garantir uns bons pontos na sua prova!
+
+Feito isso, vamos voltar ao estudo do pdf.
+
+De início, são apresentados os 5 fundamentos, também chamados de Princípios Fundamentais.
+Uma forma de memorizá-los é pelo mnemônico SOCIDIVAPLU. Chamo a atenção para o princípio
+da dignidade da pessoa humana, tomado como base pelo STF em diversas decisões, como
+algumas apresentadas na aula.
+
+                                                                                              17
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+Forma de Estado, Forma de Governo, Regime Político e harmonia e independência entre os
+Poderes são bases para o entendimento da disciplina. Veja que apenas a República Federativa do
+Brasil é soberana, os demais entes (União, Estados, Distrito Federal e Municípios) são apenas
+autônomos. Vivemos em uma democracia participativa, nós, o povo, participamos do governo ao
+elegermos nossos representantes e também, de forma direta, por meio de referendos, plebiscitos
+e iniciativa de leis. Você terá uma visão conceitual do sistema de freios e contrapesos e,
+entendendo-o bem, irá identificá-lo em muitas oportunidades no desenvolver da disciplina.
+
+Em seguida, são apresentados os Objetivos Fundamentais, estabelecidos no art. 3° da CF/88,
+também com um mnemônico para ajudar a fixá-los: CONGA, que tem como OBJETIVO não ERRAr
+na PROva = “CONGA ERRA PRO” (os mnemônicos são internalizados com o tempo e pode ser
+que prefira criar os seus próprios).
+
+Por fim, tem-se os Princípios das Relações Internacionais. Muitos dos princípios estão centrados
+na defesa da harmonia entre as nações, por isso a determinação de não intervenção, de
+cooperação, de solução pacífica dos conflitos, por exemplo. Tome cuidado, o Brasil busca a
+integração com a América Latina. Quando é cobrado, o examinador geralmente troca América
+Latina por América do Sul, para confundi-lo(a). Fique atento!
+
+                                                                                             18
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 41
+
+                                               Raciocínio Lógico
+
+Estudo da aula 01, do tópico “Álgebra de proposições” até o final.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Dando continuidade no Estudo da Aula, vamos entrar no Assunto Álgebra de proposições.
+
+Em relação à Propriedade Comutativa, você deve lembrar que todos os conectivos, exceto o
+condicional "se...então", gozam da propriedade comutativa. Isso significa que é possível trocar a
+ordem dos componentes em uma proposição composta sem afetar o resultado da tabela-verdade:
+
+Já em relação à Propriedade Associativa, a dica é que não se misturam em uma mesma expressão
+os conectivos "e" e "ou”, conforme abaixo:
+
+E na Propriedade Distributiva, basta memorizar as relações abaixo:
+
+                                                                                              19
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+E por último, nos tópicos “Propriedade da identidade, da absorção e da idempotência”,
+e “Equivalências lógicas × tautologia, contradição e contingência”, realize uma leitura mais
+fluída, pois são assuntos “bônus”, que eventualmente podem ajudar em algumas questões mais
+específicas.
+
+Dica: Aqui, caro aluno, o mais importante, além de memorizar as relações apresentadas acima, é
+acompanhar com muita atenção cada um dos exercícios resolvidos pelo professor durante a
+explicação da matéria. Aproveite esta leitura para identificar como as bancas costumam cobrar em
+prova, assim como a melhor maneira de resolver cada uma destas questões.
+
+                                                                                             20
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 42
+
+                                            Direito Administrativo
+
+Estudo da Aula 02 – Parte 2 de 2: Estude do tópico Elementos ou Requisitos de Validade até
+o fim da teoria da aula.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Estudaremos, nesta tarefa, a segunda parte da Aula 02. Resolva todas as questões que surgirem
+durante a leitura da teoria. Esta tarefa engloba os seguintes tópicos da aula: Elementos ou
+Requisitos de Validade; Atos Discricionários e Vinculados; Mérito Administrativo.
+
+O item “elementos ou requisitos de validade do ato administrativo” é o mais importante do tema
+‘atos’. Sendo assim, inicie uma leitura atenta e tenha em mente o seguinte mnemônico:
+‘ComFiForMOb’ – Competência / Finalidade / Forma / Motivo e Objeto.
+
+Ao estudar cada elemento, tome nota das informações contidas nos mapas mentais ou quadros-
+esquema correspondentes: competência, finalidade, forma, diferenças entre motivo e
+motivação, objeto e quais são os atos essenciais e acidentais.
+
+É válido também expor um conceito muito comum de se encontrar em provas, qual seja, a teoria
+dos motivos determinantes, segundo a qual a Administração se vincula aos motivos indicados
+como fundamento para a prática do ato.
+
+O item sobre Atos Discricionários e Vinculados, apesar de importante, não apresenta maiores
+dificuldades. Saber quais são os elementos vinculados e quais são discricionários dos atos
+administrativos é de grande relevância.
+
+Estude o tópico sobre mérito administrativo, que tem tudo a ver com Discricionariedade. Guarde
+bem essas palavras: oportunidade e conveniência! São palavras chaves dos atos discricionários.
+
+                                                                                           21
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 43
+
+                                    Contabilidade Geral e Avançada
+
+Revisão das aulas 00, 01 e 01 – Parte II; e resolução de 15 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Nessa tarefa, vamos revisar o conteúdo estudado nas aulas indicadas no comando da tarefa e fazer
+mais questões para consolidar o assunto.
+
+1. Comece a revisão fazendo a leitura dos seus grifos. Se preferir, você pode fazer a revisão pelo
+PDF Simplificado.
+
+2. Na sequência, faça as seguintes questões do PDF:
+
+Aula 00: 25 a 29
+
+Aula 01: 28 a 32
+
+Aula 01 – Parte II: 33 a 37
+
+3. Feito isso, quero que você volte ao seu PDF, e verifique a qualidade dos seus grifos, para
+melhorá-los, se for o caso (“tudo que foi cobrado nas questões, estava grifado em meu material?”).
+Afinal, agora você já domina melhor o conteúdo, e tem maior conhecimento sobre a forma como
+a matéria é cobrada.
+
+                                                                                              22
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 44
+
+                                               Raciocínio Lógico
+
+Revisão da aula 01 (Equivalências Lógicas); e resolução de 22 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Vamos fazer uma revisão do nosso PDF. Primeiramente, revise as fórmulas e as principais
+informações da aula.
+
+Após, resolva as seguintes questões:
+
+9 a 19, 24 a 28 e 42 a 47 da lista “Equivalências Lógicas - FGV”;
+
+Caso tenha dificuldade em algum ponto, faça uma revisão mais aprofundada da teoria.
+
+Para finalizar a tarefa, se sobrar tempo, refaça as questões que errou das tarefas anteriores que se
+referem a essa aula.
+
+                                                                                                23
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                                   TAREFA 45
+
+                                            Direito Administrativo
+
+Revisão da aula 02; e resolução de 32 Questões – Livro Digital (PDF).
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Faça a revisão rápida da aula 02 através dos grifos que fez no material ou de resumo próprio. Em
+seguida resolva as questões comentadas de nº 01 a 32.
+
+Neste momento, não estamos fazendo simulado, mas estudando através das questões
+comentadas. Então, faça as questões e leia os comentários logo na sequência, de forma que
+qualquer dúvida seja sanada no momento que surgir e não ao final da bateria de questões.
+
+Por fim, leia novamente os comentários das questões que tiver errado.
+
+                                                                                             24
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 02
+
+                                    DICA ESTRATÉGICA
+DICA ESTRATÉGICA 02: TÁTICA DOS 15 MINUTOS (01)
+
+Pessoal, vocês lembram da DICA ESPECIAL DA TRILHA 01?? Eu pedi para vocês irem anotando as
+fórmulas de exatas, certo?? Pois então! Agora vocês irão colocar em prática aquilo que eu chamo
+de “Tática dos 15 minutos (01)”. Por quê “01”?? Porque existe a 02, ora! rsrsrs. Tenham paciência!!
+A tática dos 15 minutos (01) consiste em pegar 15 minutos por dia, de maneira EXTRA CICLO (ou
+seja, fora do seu horário oficial de estudo), e TRANSCREVER TODAS AS FÓRMULAS que vocês
+têm anotadas nas suas listas, ok?? Quando eu digo TRANSCREVER, é TRANSCREVER MESMO,
+ok? Não basta olhar as fórmulas!
+
+Claro que, no começo, quando vocês tiverem apenas 1 ou 2 fórmulas anotadas na lista, vocês não
+irão precisar gastar 15 minutos para transcrevê-las. Gastem apenas alguns segundos! Mas lá na
+frente, quando suas listas de fórmulas e propriedades estiverem CHEIAS, vocês provavelmente irão
+gastar mais do que 15 minutos.
+
+Supondo que vocês estejam com uma quantidade de fórmulas que exija 45 minutos para
+transcrever todas, continuem fazendo no máximo 15 minutos por dia, de modo que a cada 3 dias
+vocês “zerem” as suas listas, e no quarto dia as reiniciem! Façam isso ETERNAMENTE, até o dia
+da prova, 6 vezes por semana! Aplicando essa tática, eu cheguei na minha prova com
+aproximadamente 115 fórmulas memorizadas. Isso me ajudou muito a ter um arsenal enorme para
+resolver inúmeras questões de Rac. Lógico/ Mtm Financeira/ Estatística/ Contabilidade. Tem muita
+questão que, à primeira vista, parece impossível. Mas se você souber a fórmula, em 2 minutos
+garante os pontos!!
+
+Tenham em mente que essa tática NÃO FUNCIONA se vocês apenas a realizarem
+esporadicamente. Nesse caso, é melhor nem fazer!! Tem que ser praticamente TODOS OS DIAS,
+6 vezes por semana!! Acionem o modo “concurseiro psicopata”!!
+
+Parece algo utópico memorizar 115 fórmulas, não é mesmo?? Mas não é da noite para o dia! Eu fiz
+isso praticamente TODOS OS DIAS por 1 ano e meio!! Vocês precisam fazer o que a maioria não
+faz!!!
+
+Vou ficando por aqui, pessoal.
+
+Abraços e bons estudos!! 😉
+
+Mas você também pode me encontrar ↴
+
+Newsletter ☛ https://gleslermaldonado.substack.com
+
+Telegram ☛ 
+
+                                                                                               25
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+Guilherme Carvalho, Glesler Sales Maldonado
+Trilha 02
+
+                  “Quando desistir não for uma opção, o sucesso é inevitável”
+
+                                                                         Glesler Maldonado
+
+                                                                                             26
+      Receita Federal (Analista Tributário) Trilha Estratégica
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+Guilherme Carvalho, Glesler Sales Maldonado
+Trilha 02
+
+ 1. As Trilhas Estratégicas são meras sugestões de estudo com base em determinado objetivo
+    (área de concurso, concurso específico ou perfil). O aluno deve ficar livre para que possa
+    segui-la à risca ou fazer adaptações para o seu próprio estilo e rotina de estudo.
+ 2. Os professores do Estratégia, ao elaborarem os seus materiais, possuem o objetivo de
+    ensinar todo o conteúdo exigido pelo edital programático do concurso, além de estabelecer
+    uma sequência ideal de estudo do ponto de vista pedagógico e considerando que o aluno
+    terá tempo de estudar todo o seu material.
+ 3. Já os coaches, ao elaborarem as Trilhas Estratégicas, possuem o objetivo de fazer o aluno
+    estudar o conteúdo de acordo com um determinado custo x benefício, porém muitas vezes
+    fugindo da recomendação didática de estudo proposta pelos professores para que os
+    alunos possam fazer um estudo direcionado.
+ 4. Como dizemos sempre: o ideal é estudar todos os assuntos, revisar tudo, fazer muitos
+    exercícios de todos os assuntos e chegar na prova bom em todos os assuntos também.
+    Entretanto, são poucos aqueles alunos que dispõem de tempo para isso!
+ 5. Nosso objetivo aqui é sugerir uma sequência de estudos baseada na experiência de
+    coaches aprovados em diversos concursos para que possamos dar orientações e maiores
+    chances de aprovação aos alunos.
+
+                                                                                           27
+      Receita Federal (Analista Tributário) Trilha Estratégica
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+---

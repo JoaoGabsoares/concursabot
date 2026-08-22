@@ -1,0 +1,1271 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 05_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Passo Estratégico de Legislação
+artigos_citados:
+- Art. 744.
+- art. 233
+- art. 284
+- art. 654
+- art. 716.
+- art. 720
+- art. 744.
+- art. 745
+---
+
+# Passo Estratégico de Legislação
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                               Passo Estratégico de Legislação
+                                                     Tributária
+
+                                                        Autor:
+                             Raphael Rabelo Parreira, Bruno
+                                                      Bezerra
+
+
+                                          30 de Outubro de 2025
+
+---
+
+      Raphael Rabelo Parreira, Bruno Bezerra
+      Aula 04
+
+                                                                                     Índice
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                                                                                          2
+                www.estrategiaconcursos.com.br                                                                                                                                           26
+
+                                                             
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+Foram analisadas 56 questões (FGV), do período 2021–2025, abrangendo todos os órgãos e cargos,
+com escolaridade irrestrita.
+
+
+                                                                                 Incidência do    Incidência do
+        Subassunto                                Tópico
+                                                                                  Tópico (%)     Subassunto (%)
+
+  Rendimentos de pessoas
+                                 Serviços profissionais prestados por
+     jurídicas sujeitos a                                                             16%            30%
+                                 pessoas jurídicas (alíquota de 1,5%)
+   alíquotas específicas                                ==219a34==
+
+                                  Serviços de limpeza, conservação,
+                               segurança, vigilância e locação de mão                 10%
+                                      de obra (alíquota de 1%)
+
+                               Serviços de propaganda e publicidade,
+                               cooperativas de trabalho e pagamentos
+                                                                                       4%
+                               efetuados por órgãos públicos (alíquota
+                                          de 1,5% ou 15%)
+
+                                Juros sobre o capital próprio (alíquota
+ Participações societárias                                                            14%            26%
+                                               de 15%)
+
+                                 Lucros ou dividendos calculados com
+                                base nos resultados apurados a partir
+                                                                                      12%
+                               de janeiro de 1996 (isentos conforme Lei
+                                           nº 9.249/1995)
+
+  Rendimentos pagos ao          Residentes ou domiciliados no exterior
+                                                                                      18%            18%
+        exterior                     (alíquotas de 15% e 25%)
+
+                                 Rendimentos do trabalho assalariado
+  Rendimentos sujeitos à
+                                  (retenção mensal conforme tabela                     6%            14%
+   tabela progressiva
+                                            progressiva)
+
+                                    Rendimentos do trabalho não
+                                assalariado (pessoa física sem vínculo
+                                                                                       4%
+                                empregatício — retenção pela pessoa
+                                              jurídica)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                      3
+        www.estrategiaconcursos.com.br                                                                       26
+
+                                     
+
+
+---
+
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula 04
+
+                                                                               Incidência do    Incidência do
+      Subassunto                                Tópico
+                                                                                Tópico (%)     Subassunto (%)
+
+                                 Rendimentos acumulados e décimo
+                              terceiro salário (tributação exclusiva na              4%
+                                                 fonte)
+
+                               Pagamentos efetuados a beneficiário
+ Rendimentos diversos                                                                8%            12%
+                                não identificado (alíquota de 35%)
+
+                             Prêmios em dinheiro (loterias, concursos e
+                              sorteios — alíquota de 30%) e prêmios
+                                                                                     4%
+                             em bens ou serviços (alíquota de 20% ou
+                                               25%)
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                      4
+      www.estrategiaconcursos.com.br                                                                       26
+                                                                                                            2
+                                   
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+1) Imposto de Renda Retido na Fonte
+
+IRRF
+
+Tributação na fonte é o regime em que a fonte pagadora retém o imposto no momento do pagamento ao
+beneficiário. O tema aparece de forma pulverizada no RIR, com várias hipóteses de retenção e regras
+específicas de cálculo e escrituração.
+
+Para rendimentos de pessoas físicas sujeitos à tabela progressiva, a retenção na fonte costuma ser
+antecipação do imposto devido no ajuste anual. “O imposto será calculado sobre os rendimentos efetivamente
+recebidos em cada mês; será retido por ocasião de cada pagamento e, se houver mais de um pagamento no mês
+pela mesma fonte, aplica-se a alíquota correspondente à soma dos rendimentos pagos no mês, deduzido o
+imposto já retido.” (RIR, art. 677, §§ 1º e 2º).
+
+Exemplo resumido: se uma PJ paga R$ 2.500,00 a um empregado e, depois, mais R$ 2.500,00 no mesmo
+mês, a tributação do segundo pagamento considera a soma de R$ 5.000,00, abatendo-se o IRRF retido no
+primeiro pagamento. Esse mecanismo pode elevar a alíquota efetiva do mês por efeito da tabela progressiva.
+
+Atenção: “O adiantamento de rendimentos correspondentes a determinado mês não estará sujeito à retenção,
+desde que os rendimentos sejam integralmente pagos no próprio mês a que se referirem, quando então se calcula
+e retém o imposto sobre o total pago no mês.” (RIR, art. 678, caput).
+
+Rendimentos Sujeitos à Tabela Progressiva
+
+Regras gerais por natureza de trabalho:
+
+• Trabalho assalariado: há retenção na fonte, seja a fonte pagadora PF ou PJ.
+
+• Trabalho sem vínculo empregatício: há retenção apenas se a fonte pagadora for pessoa jurídica.
+
+Base de cálculo reduzida em casos específicos de PF:
+
+• Serviços de transporte prestados por PF com veículo próprio, locado, com reserva de domínio ou alienação
+fiduciária:
+
+– 10% do rendimento bruto para cargas.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                  5
+        www.estrategiaconcursos.com.br                                                                    26
+
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+– 60% do rendimento bruto para passageiros.
+
+• Garimpeiros: sujeitam-se à tributação na fonte, pela tabela progressiva, sobre 10% do total recebido na
+venda a empresas habilitadas de metais e pedras preciosas por eles extraídos.
+
+Principais hipóteses de retenção pela tabela progressiva:
+
+• Rendimentos do trabalho assalariado.
+
+• Rendimentos do trabalho não assalariado pagos por PJ.
+
+• Aluguéis e royalties pagos a PF.
+
+• Benefícios e resgates de previdência privada.
+                                                        ==219a34==
+
+• Resgates no FAPI.
+
+• Pro labore, aluguéis e serviços pagos a sócios ou titulares de ME/EPP.
+
+• Partes beneficiárias pagas a PF.
+
+• Décimo terceiro salário: retenção exclusiva na fonte, sem ajuste anual.
+
+• Rendimentos recebidos acumuladamente: também exclusivos na fonte; usa-se a tabela progressiva
+multiplicada pelo número de meses a que se referem, tomando por base a tabela do mês do recebimento
+do crédito.
+
+Pegadinhas frequentes:
+
+• 13º salário é exclusivo na fonte: não confundir com antecipação.
+
+• RRA: a tabela é multiplicada pelos meses do atraso, reduzindo progressividade; trata-se de tributação
+exclusiva.
+
+Síntese: PF sujeita à progressiva
+
+
+                              Base de cálculo para
+        Situação                                                                     Observações.
+                                     IRRF
+
+
+                                Valor efetivamente                   Retenção pela tabela progressiva; somatório de
+  Trabalho assalariado.
+                                 recebido no mês.                         pagamentos no mês por mesma fonte.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                              6
+        www.estrategiaconcursos.com.br                                                                                26
+                                                                                                                       2
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+                               Base de cálculo para
+        Situação                                                                 Observações.
+                                      IRRF
+
+
+  Trabalho sem vínculo          Valor efetivamente            Retém pela progressiva; se fonte for PF, não há
+     pago por PJ.                   recebido.                                  retenção.
+
+
+   Transporte por PF:
+                                  10% do bruto.                             Redução legal da base.
+        cargas.
+
+
+   Transporte por PF:
+                                  60% do bruto.                             Redução legal da base.
+      passageiros.
+
+
+      Garimpeiros.            10% do total percebido.                    Venda a empresa habilitada.
+
+       13º salário.                Valor do 13º.                        Tributação exclusiva na fonte.
+
+
+      Rendimentos             Tabela multiplicada por
+                                                                        Tributação exclusiva na fonte.
+      acumulados.                     meses.
+
+
+Fluxo de múltiplos pagamentos no mês:
+
+flowchart LR
+
+A[Pagamento 1 no mês] --> B{Retém IRRF}
+
+B --> C[Guarda IRRF do mês]
+
+D[Pagamento 2 no mês pela mesma fonte] --> E[Somar pagamentos do mês]
+
+E --> F{Aplicar alíquota da soma}
+
+F --> G[Calcular IR do mês]
+
+G --> H[Deduzir IRRF já retido no mês]
+
+H --> I[Recolher diferença]
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                        7
+        www.estrategiaconcursos.com.br                                                                          26
+                                                                                                                 3
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+Rendimentos de Pessoas Jurídicas Sujeitos a Alíquotas Específicas
+
+Escrituração na beneficiária: “O rendimento percebido será escriturado como receita pela importância bruta;
+o IRRF: (a) como despesa não dedutível quando a incidência for exclusiva na fonte; (b) como ativo circulante,
+nas demais hipóteses.” (RIR, art. 284).
+
+Compensação no IRPJ: “A pessoa jurídica poderá deduzir, do IRPJ apurado em cada trimestre, o imposto sobre
+a renda pago ou retido na fonte sobre receitas que integraram a base do imposto devido.” (IN RFB 1.700/2017,
+art. 233, § 1º). Ex.: receita contabilizada de R$ 100.000,00 com IRRF de R$ 15.000,00: após apuração do
+IRPJ devido, deduzem-se os R$ 15.000,00.
+
+Alíquotas específicas usuais entre pessoas jurídicas:
+
+
+                     Hipótese                              Alíquota               Base legal e observações.
+
+
+      Serviços profissionais de natureza
+                                                                             RIR, art. 714. Retenção na fonte pela
+ caracterizadamente profissional prestados por               1,5%
+                                                                                           tomadora.
+                      PJ.
+
+
+ Limpeza, conservação, segurança, vigilância,
+                                                              1%                           RIR, art. 716.
+           locação de mão de obra.
+
+
+     Mediação de negócios, propaganda e
+                                                             1,5%                          RIR, art. 718.
+                publicidade.
+
+
+    Cooperativas de trabalho e associações
+                                                             1,5%                          RIR, art. 719.
+                profissionais.
+
+
+                                                                                 RIR, art. 720. Aplica-se 15%
+                                                           15% × %
+ Órgãos e entidades da administração pública                                   multiplicado pelo percentual da
+                                                         estimativa da
+   federal: fornecimento de bens ou serviços.                                 estimativa mensal do lucro real da
+                                                           atividade
+                                                                                            atividade.
+
+
+Assessoria creditícia, mercadológica, gestão de
+  crédito, seleção e riscos, administração de                1,5%                          RIR, art. 723.
+          contas a pagar e a receber.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                             8
+        www.estrategiaconcursos.com.br                                                                             26
+                                                                                                                     4
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+Pegadinha: o fato de a receita entrar bruta na contabilidade não implica “bitributação”; o IRRF poderá ser
+abatido do IRPJ do período, quando a receita compôs a base.
+
+Rendimentos de Participações Societárias
+
+Lucros e dividendos: “Os lucros ou dividendos calculados com base nos resultados apurados a partir de janeiro
+de 1996, pagos ou creditados por pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado,
+não estão sujeitos à incidência do imposto na fonte, nem integram a base de cálculo do imposto do beneficiário,
+PF ou PJ, domiciliado no País ou exterior.” (Lei 9.249/1995, art. 10; RIR, art. 654). A regra alcança também
+os valores distribuídos a optantes do Simples Nacional, exceto o que corresponder a pró-labore, aluguéis
+ou serviços.
+
+Juros sobre capital próprio (JCP): “Estão sujeitos ao imposto na fonte, à alíquota de 15%, na data do
+pagamento ou crédito, os juros calculados sobre contas do patrimônio líquido.” (RIR, art. 726).
+
+Partes beneficiárias ou de fundador:
+
+• Se pagas a PF: tributação pela tabela progressiva.
+
+• Se pagas a PJ: 15% na fonte. (RIR, art. 727).
+
+Mapa rápido: participações societárias
+
+            Rendimento                     IRRF                                  Observações.
+
+Dividendos apurados a partir de                            Também não compõem a base do beneficiário. Regra
+                                           Não há.
+          01/1996.                                              válida para PF e PJ, inclusive no exterior.
+
+              JCP.                          15%.                     Na data do pagamento ou crédito.
+
+  Partes beneficiárias/fundador            Tabela
+                                                             Rendimentos integram a base do beneficiário PF.
+           pagos a PF.                  progressiva.
+
+
+  Partes beneficiárias/fundador
+                                            15%.                     Retenção na fonte pela pagadora.
+           pagos a PJ.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                       9
+        www.estrategiaconcursos.com.br                                                                         26
+                                                                                                                5
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+Rendimentos Diversos
+
+Beneficiário não identificado: “Está sujeito ao imposto, exclusivamente na fonte, à alíquota de 35%, todo
+pagamento efetuado por PJ a beneficiário não identificado; o mesmo se aplica a remuneração indireta paga a
+beneficiário não identificado.” (RIR, art. 730). Tais despesas são indedutíveis para fins de lucro real.
+
+Prêmios em dinheiro: “Estão sujeitos à alíquota de 30%, exclusivamente na fonte: lucros de prêmios em
+dinheiro obtidos em loterias, inclusive instantâneas, concursos desportivos, turfe e sorteios de qualquer espécie;
+e os prêmios em concursos de prognósticos desportivos.” (RIR, art. 732, I e II). Isenção: “prêmio em dinheiro
+obtido em loterias até o limite da 1ª faixa da tabela mensal do IRPF.” (RIR, art. 35, VII, “i”).
+
+Prêmios em bens e serviços: “Os prêmios distribuídos sob a forma de bens e serviços, via concursos e sorteios
+de qualquer espécie, sujeitam-se à alíquota de 20%, exclusivamente na fonte.” (RIR, art. 733).
+
+Títulos de capitalização:
+
+• “Estão sujeitos à alíquota de 25% os benefícios líquidos resultantes da amortização antecipada por sorteio e
+os benefícios atribuídos aos portadores nos lucros da empresa emitente.” (RIR, art. 736, I).
+
+• “Estão sujeitos à alíquota de 20% os rendimentos auferidos com títulos de capitalização, na hipótese de
+resgate sem sorteio.” (RIR, art. 736, II).
+
+Observação: se o beneficiário for PJ no lucro real, presumido ou arbitrado, o imposto retido poderá ser
+antecipação; se o beneficiário for PF ou PJ isenta, há exclusividade na fonte.
+
+Prêmios a proprietários e criadores de cavalos de corrida: “Sujeitam-se à alíquota de 15% os prêmios pagos
+a proprietários e criadores de cavalos de corrida.” (RIR, art. 737). Para PJ no lucro real, o IRRF é antecipação;
+nos demais, inclusive PF, a tributação é exclusiva.
+
+Pagamentos por sentença judicial (PJ beneficiária): “Sujeitam-se ao desconto na fonte, à alíquota de 5%, as
+importâncias pagas a PJ a título de juros e de indenizações por lucros cessantes, decorrentes de sentença judicial.”
+(RIR, art. 738).
+
+Rendimentos pagos em cumprimento de decisão da Justiça Federal: “O IR sobre rendimentos pagos por
+precatório ou RPV será retido pela instituição financeira à alíquota de 3%, sobre o montante pago, sem deduções,
+no momento do pagamento ao beneficiário.” (RIR, art. 739). O IRRF é antecipação para PF; para PJ, deduz-se
+do apurado no encerramento do período de apuração ou na extinção.
+
+Multas por rescisão de contratos: “Sujeitam-se à alíquota de 15% as multas ou quaisquer outras vantagens
+pagas ou creditadas por PJ, ainda que a título de indenização, a beneficiário PF ou PJ, inclusive isenta, em
+virtude de rescisão de contrato.” (RIR, art. 740).
+
+Programas de concessão de crédito e estímulo à solicitação de documento fiscal:
+
+• “Não ficam sujeitos ao IRRF os valores em espécie pagos ou creditados a PJs pelos Estados, DF e Municípios,
+relativos ao ICMS e ao ISS, no âmbito de programas de concessão de crédito.” (RIR, art. 734).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                        10
+         www.estrategiaconcursos.com.br                                                                          26
+                                                                                                                  6
+                                      
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+• “Não ficam sujeitos ao IRRF os rendimentos pagos em espécie a PF pelos Estados, DF e Municípios, relativos ao
+ICMS e ao ISS, no âmbito de programas de concessão de crédito.” (RIR, art. 735).
+
+Exceção: não se aplica aos prêmios por sorteios em espécie, bens ou serviços nesses programas.
+
+Quadro de referência: rendimentos diversos e alíquotas
+
+
+               Rendimento                      Alíquota                    Regra de definitividade.
+
+
+      Beneficiário não identificado.            35%             Exclusiva na fonte; indedutível no lucro real.
+
+      Loterias: prêmios em dinheiro.            30%          Exclusiva; isento até a 1ª faixa da tabela mensal.
+
+
+        Prêmios em bens e serviços.             20%                           Exclusiva na fonte.
+
+
+                                                          Pode ser antecipação para PJ no lucro real; exclusiva
+   Títulos de capitalização: por sorteio.       25%
+                                                                          para PF e PJ isenta.
+
+
+  Títulos de capitalização: resgate sem
+                                                20%                      Mesmas observações acima.
+                  sorteio.
+
+
+                                                          Antecipação para PJ no lucro real; exclusiva para PF e
+            Cavalos de corrida.                 15%
+                                                                                demais.
+
+
+ Sentença judicial: juros e lucros cessantes
+                                                 5%                      Dedutível do IRPJ apurado.
+               pagos a PJ.
+
+
+ Decisão Justiça Federal: precatório/RPV.        3%               Antecipação para PF; dedução para PJ.
+
+
+      Multas por rescisão contratual.           15%                           Exclusiva na fonte.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                          11
+        www.estrategiaconcursos.com.br                                                                            26
+                                                                                                                   7
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+Rendimentos de Residentes ou Domiciliados no Exterior
+
+Regra-matriz: “Estão sujeitos ao IRRF a renda e os proventos de qualquer natureza provenientes de fontes
+situadas no País, quando percebidos: (i) por PF ou PJ residentes ou domiciliadas no exterior; (ii) por residentes no
+País ausentes no exterior por mais de 12 meses, salvo os ausentes a serviço do País; (iii) por PF do exterior com
+visto temporário; (iv) pela PF residente no País que passar a não residente a partir da caracterização da nova
+condição.” (RIR, art. 741). Essência: para não residente, tributa-se apenas o que tem fonte no Brasil.
+
+Alíquota geral de 15% quando não houver regra específica: “Os rendimentos, ganhos de capital e demais
+proventos pagos, creditados, entregues, empregados ou remetidos por fonte situada no País a residente no
+exterior sujeitam-se à alíquota de 15%, quando não tiverem tributação específica.” (RIR, art. 744). O
+dispositivo lista hipóteses típicas, como pensões e pecúlios, prêmios conquistados em concursos,
+contraprestações de arrendamento mercantil de bens de capital a entidades no exterior, comissões e
+despesas em operações de colocação de ações no exterior, direitos de propriedade industrial no exterior, e
+certos juros decorrentes de empréstimos e colocações de títulos no exterior com prazos mínimos.
+
+Alíquota de 25%:
+
+• Para rendimentos pagos a residentes em países ou dependências com tributação favorecida.
+
+• Para rendimentos do trabalho (com ou sem vínculo), aposentadoria, pensão e serviços pagos a residentes
+no exterior, ressalvadas exceções específicas em serviços.
+
+Ganho de capital auferido por não residente: “Será apurado e tributado segundo as regras aplicáveis a
+residentes no País e ficará sujeito às alíquotas progressivas do art. 153 do RIR.” (RIR, art. 745).
+
+Mapa rápido: não residentes
+
+
+                     Situação                         Alíquota                        Observações.
+
+
+ Rendimentos sem regra específica pagos por
+                                                         15%                    Regra geral do art. 744.
+               fonte no Brasil.
+
+
+País/Dependência com tributação favorecida.              25%         Abrange diversas naturezas de rendimentos.
+
+   Rendimentos do trabalho, aposentadoria,
+                                                         25%               Exceções específicas para serviços.
+             pensão e serviços.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                        12
+         www.estrategiaconcursos.com.br                                                                          26
+                                                                                                                  8
+                                      
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+                    Situação                         Alíquota                        Observações.
+
+
+                                                                  Regras de apuração de residentes, alíquotas do
+               Ganho de capital.                    Progressiva
+                                                                                art. 153 do RIR.
+
+Dicas de prova e armadilhas
+
+1) Antecipação x exclusividade: identifique se a retenção é para antecipar o IR (ex.: salários) ou se é
+exclusiva, encerrando a tributação naquele ponto (ex.: 13º, prêmios, RRA). Isso define escrituração e
+possibilidade de compensação.
+
+2) Mesma fonte, mesmo mês: a alíquota a aplicar é a da soma dos rendimentos pagos, com dedução do IRRF
+já retido no mês. Essa é uma das questões mais exploradas em cálculos de IRRF de PF.
+
+3) Adiantamento: não há IRRF no “vale” se o pagamento integral ocorrer no próprio mês; se escorrer para
+o mês seguinte, a regra se rompe.
+
+4) Transporte por PF: memorize as bases 10% (cargas) e 60% (passageiros); erros comuns envolvem
+aplicar a alíquota da tabela sobre o bruto em vez da base reduzida.
+
+5) Lucros e dividendos: a regra de isenção a partir de 1996 continua sendo uma linha de corte importante;
+atente ao JCP, que é 15% na fonte, e à diferença para partes beneficiárias.
+
+6) Beneficiário não identificado: 35% exclusiva e indedutibilidade no lucro real; é dupla penalidade
+econômica com efeito dissuasório.
+
+7) Programas de crédito fiscal: créditos vinculados a ICMS/ISS pagos por Estados, DF e Municípios não
+sofrem IRRF, salvo prêmios por sorteios nesses programas.
+
+Visual de apoio: escrituração do IRRF na PJ
+
+flowchart TD
+
+A[Receita com IRRF] --> B[Contabilizar Receita Bruta]
+
+A --> C[Registrar IRRF]
+
+C -->|Exclusiva| D[Despesa/encargo não dedutível]
+
+C -->|Demais hipóteses| E[Ativo circulante (impostos a recuperar)]
+
+E --> F[Apuração do IRPJ]
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                      13
+        www.estrategiaconcursos.com.br                                                                        26
+                                                                                                               9
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+F --> G[Deduzir IRRF que compôs a base do IRPJ]
+
+Base: RIR, art. 284; IN RFB 1.700/2017, art. 233, § 1º.
+
+Tabelas de memorização rápida
+
+A) PJs que sofrem retenção por alíquota específica
+
+
+                                 Serviço/Operação                                            IRRF         Nota.
+
+
+                                                                                                          Art.
+                      Profissionais de natureza profissional.                                1,5%
+                                                                                                          714.
+
+
+                                                                                                          Art.
+    Limpeza, conservação, vigilância, segurança, locação de mão de obra.                      1%
+                                                                                                          716.
+
+
+                                                                                                          Art.
+               Mediação de negócios, propaganda, publicidade.                                1,5%
+                                                                                                          718.
+
+
+                                                                                                          Art.
+             Cooperativas de trabalho e associações profissionais.                           1,5%
+                                                                                                          719.
+
+
+                                                                                           15% × %        Art.
+            Administração pública federal: fornecimentos e serviços.
+                                                                                           estimativa     720.
+
+
+Assessoria creditícia, mercadológica, gestão de crédito, seleção e riscos, contas                         Art.
+                                                                                             1,5%
+                               a pagar/receber.                                                           723.
+
+
+B) Participações societárias
+
+
+                       Tipo                                     IRRF                       Comentário.
+
+
+   Dividendos apurados a partir de 01/1996.                   Isentos             Não integram a base da PF/PJ.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                          14
+        www.estrategiaconcursos.com.br                                                                            26
+                                                                                                                  10
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+                        Tipo                                    IRRF                         Comentário.
+
+                       JCP.                                     15%                  No pagamento ou crédito.
+
+              Partes beneficiárias a PF.               Tabela progressiva              Integram a base da PF.
+
+
+              Partes beneficiárias a PJ.                        15%                        Retenção na fonte.
+
+
+C) Prêmios e assemelhados
+
+                       Natureza                         IRRF                         Observações.
+
+                 Loterias em dinheiro.                    30%          Isento até o limite da 1ª faixa mensal.
+
+
+              Prêmios em bens/serviços.                   20%                     Exclusiva na fonte.
+
+       Títulos de capitalização: por sorteio.             25%       Pode ser antecipação para PJ no lucro real.
+
+
+   Títulos de capitalização: resgate sem sorteio.         20%               Exclusiva para PF e PJ isenta.
+
+
+                 Cavalos de corrida.                      15%            Antecipação para PJ no lucro real.
+
+
+D) Exterior
+
+
+                            Beneficiário                                             Regra                   IRRF
+
+
+  Não residente: rendimentos sem regra específica de fonte no
+                                                                                   Art. 744.                 15%
+                            Brasil.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                            15
+        www.estrategiaconcursos.com.br                                                                              26
+                                                                                                                    11
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+                            Beneficiário                                             Regra                IRRF
+
+
+       Não residente em país com tributação favorecida.                         Regra especial.           25%
+
+
+    Trabalho, aposentadoria, pensão, serviços pagos a não
+                                                                           Regra geral específica.        25%
+                         residente.
+
+
+                                                                          Regras de residentes; art.
+              Ganho de capital do não residente.                                                       Progressiva
+                                                                                   153.
+
+Pontos de atenção finais
+
+• Classifique primeiro a natureza do rendimento: PF progressiva, PJ com alíquota específica, participação
+societária ou hipótese diversa. Cada trilho tem regras próprias de definitividade e compensação.
+
+• Observe exceções de base reduzida em PF: transporte e garimpo. Esses percentuais modificam
+substancialmente a tributação efetiva e costumam aparecer em questões conceituais e numéricas.
+
+• Cuidado com a fonte pagadora: no trabalho sem vínculo, só há retenção se a fonte for PJ; em loterias e
+prêmios, a fonte é quem paga o rendimento e responde pela retenção exclusiva.
+
+• Em decisões judiciais: diferencie 5% para juros e lucros cessantes pagos a PJ por sentença e 3% em
+pagamentos por precatório/RPV; verifique se o IRRF é antecipação ou exclusivo conforme o beneficiário.
+
+• Programas de crédito fiscal (ICMS/ISS): os valores em espécie pagos nesses programas não sofrem IRRF,
+salvo os prêmios por sorteios.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                         16
+        www.estrategiaconcursos.com.br                                                                           26
+                                                                                                                 12
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+                                    APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova,
+considerando o histórico de questões da banca em provas de nível semelhante à nossa, bem como a experiência
+do professor.
+
+                                                        ==219a34==
+
+Dentro do assunto “Imposto de Renda Retido na Fonte”, o tópico “Rendimentos pagos ao exterior –
+Residentes ou domiciliados no exterior (alíquotas de 15% e 25%)”, que faz parte do
+subassunto “Rendimentos pagos ao exterior”, é o ponto que acreditamos ser o que possui mais chances de
+ser cobrado pela banca, conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+Esse tópico liderou a incidência no levantamento (18%) e representa a principal armadilha conceitual
+explorada pela FCC, que costuma exigir o reconhecimento das situações em que o IRRF deve ser aplicado a
+não residentes, distinguindo as alíquotas de 15% para rendimentos gerais e 25% para rendimentos de
+trabalho ou serviços prestados no exterior. A constância de cobrança desse item mostra que a banca valoriza
+o domínio do art. 741 do RIR e do princípio de territorialidade.
+
+Vale destacar, contudo, que outros tópicos relevantes também merecem atenção. O subassunto “Rendimentos
+de pessoas jurídicas sujeitos a alíquotas específicas”, especialmente os serviços profissionais (1,5%) e
+os serviços de limpeza, segurança e conservação (1%), apresentou ênfase expressiva (30% somando todos
+os tópicos) e costuma ser alvo de questões que pedem a correspondência entre o tipo de serviço e a alíquota
+aplicável.
+
+IRRF: rendimentos pagos ao exterior e alíquotas específicas entre pessoas
+jurídicas (FCC)
+
+1) Rendimentos pagos ao exterior: não residentes
+
+A banca explora a identificação das hipóteses em que o IRRF incide sobre residentes ou domiciliados no
+exterior, destacando o princípio da territorialidade: tributa-se o que tem fonte situada no Brasil. O domínio
+do art. 741 do RIR é essencial, pois organiza as situações de incidência e as respectivas alíquotas.
+
+Armadilha recorrente: confundir a natureza do rendimento com o local de prestação do serviço; a FCC cobra
+a distinção entre 15% e 25%.
+
+Mapa de alíquotas para não residentes
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                  17
+        www.estrategiaconcursos.com.br                                                                    26
+
+                                     
+
+
+---
+
+    Raphael Rabelo Parreira, Bruno Bezerra
+    Aula 04
+
+•      15%: regra para rendimentos gerais de fonte brasileira.
+•      25%: regra para rendimentos de trabalho ou serviços prestados no exterior, quando pagos por fonte
+situada no Brasil.
+•      Dicas de prova: verifique sempre se o beneficiário é não residente, identifique a natureza do
+rendimento e o local da prestação; a partir daí, aplique 15% ou 25% conforme o caso.
+
+Pegadinhas típicas da FCC
+
+•        Trocar 15% por 25% quando o enunciado enfatiza trabalho/serviço realizado no exterior.
+•        Ignorar a territorialidade, tributando rendas sem fonte no Brasil.
+•        Pressupor isenções não informadas no enunciado.
+
+2) Rendimentos de pessoas jurídicas: alíquotas específicas
+
+A FCC também cobra correspondência serviço x alíquota nas retenções entre pessoas jurídicas. A “cauda
+longa” de questões envolve lembrar percentuais objetivos.
+
+
+                                                             Alíquota de
+                    Serviço entre PJs                                                Observações para prova.
+                                                                IRRF
+
+       Serviços profissionais (exemplos comuns:                               A banca pede associação direta “tipo
+                                                                 1,5%
+       consultoria, auditoria, assessoria técnica).                                    de serviço, 1,5%”.
+
+                                                                               Cobrança costuma alternar listas de
+    Serviços de limpeza, segurança e conservação.                 1%
+                                                                                   serviços para induzir erro.
+
+
+Estratégia para acertar
+
+•      Leia o verbo do enunciado: identificar “pago a não residente” sinaliza o bloco 15% x 25%.
+•      Classifique o serviço: profissional tende a 1,5%; limpeza, segurança e conservação tendem a 1%.
+•      Cheque a fonte: rendas com fonte no Brasil ativam a territorialidade; sem fonte brasileira, não há
+IRRF pela regra geral.
+
+Essência para memorizar
+
+•        Não residente: 15% rendas gerais; 25% trabalho ou serviços prestados no exterior.
+•        Entre PJs no Brasil: 1,5% profissionais; 1% limpeza, segurança, conservação.
+•        Erro clássico: confundir o local da prestação com a alíquota aplicável
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                           18
+          www.estrategiaconcursos.com.br                                                                             26
+                                                                                                                      2
+                                       
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas estrategicamente: são
+questões com nível de dificuldade semelhante ao que você deve esperar para a sua prova e que, em conjunto,
+abordam os principais pontos do assunto. A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria
+extensa de questões, mas que você faça uma boa revisão global do assunto a partir de, relativamente, poucas
+questões.
+
+                                                        ==219a34==
+
+1. (Inédita) Os rendimentos das pessoas físicas, quando submetidos à tributação pela tabela
+progressiva, podem sofrer retenção de imposto de renda na fonte. A respeito dessa retenção, julgue o
+item que se segue: o adiantamento de rendimentos correspondentes a determinado mês não estará
+sujeito à retenção, ainda que os rendimentos não sejam integralmente pagos no próprio mês a que se
+referirem.
+
+Comentários:
+
+ERRADA. A regra é que adiantamentos estão sujeitos à retenção na fonte; a exceção ocorre somente quando
+os rendimentos daquele mês forem pagos integralmente ainda dentro do próprio mês. Se o pagamento não
+se completar no mês de competência, o adiantamento sofre IRRF. Fundamento: art. 678, caput, do Regulamento
+do Imposto de Renda (Decreto nº 9.580/2018 — RIR/2018).
+
+Gabarito: ERRADA.
+
+2. (Inédita) Estão sujeitas ao imposto na fonte, à alíquota de 15%, as multas ou quaisquer outras
+vantagens pagas ou creditadas por pessoa jurídica, ainda que a título de indenização, a beneficiária
+pessoa física ou jurídica, inclusive isenta, em virtude de rescisão de contrato.
+
+(Item de Certo/Errado)
+
+Comentários:
+
+CERTA. O RIR/2018 prevê a incidência de IRRF à alíquota de 15% sobre valores pagos ou creditados por
+pessoa jurídica, a título de multa ou outras vantagens (inclusive indenizações) decorrentes de rescisão
+contratual, alcançando beneficiário pessoa física ou jurídica, ainda que isenta. Fundamento: art. 740 do
+Regulamento do Imposto de Renda (Decreto nº 9.580/2018 — RIR/2018).
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                   19
+        www.estrategiaconcursos.com.br                                                                     26
+
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+Gabarito: CERTA.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária   20
+        www.estrategiaconcursos.com.br                                                     26
+                                                                                            2
+                                     
+
+
+---
+
+     Raphael Rabelo Parreira, Bruno Bezerra
+     Aula 04
+
+            QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas
+também).
+
+Perguntas
+1.      Sobre qual competência incide o IRRF dos rendimentos sujeitos à tabela progressiva?
+2.      Como calcular o IRRF quando a mesma fonte paga mais de uma vez no mês à mesma pessoa
+física?
+3.      Quando um adiantamento salarial (“vale”) sofre retenção de IR na fonte?
+4.      Como ajustar a tabela progressiva para rendimentos recebidos acumuladamente (RRA)?
+5.      Qual a retenção de IR em pagamentos por decisão da Justiça Federal via precatório/RPV?
+6.      Como registrar a receita quando há IRRF na fonte na escrituração da empresa beneficiária?
+7.      Como classificar o IRRF na escrituração quando a incidência é exclusiva na fonte?
+8.      Como classificar o IRRF na escrituração nas demais hipóteses (não exclusiva)?
+9.      O que a pessoa jurídica pode fazer com o IRRF sobre receitas que entraram na base do IRPJ do
+trimestre?
+10.     Qual a alíquota de IRRF para serviços de natureza profissional prestados por PJ a PJ?
+11.     Qual a alíquota de IRRF para serviços de limpeza, conservação, segurança, vigilância e locação
+de mão de obra?
+12.     Qual a alíquota de IRRF para mediação de negócios, propaganda e publicidade entre PJs?
+13.     Como tributar pagamentos a cooperativas de trabalho e associações profissionais por serviços
+pessoais?
+14.     Como é a retenção de IR em pagamentos da Administração Pública Federal a PJ por bens/serviços?
+15.     Qual a retenção de IR para serviços de assessoria creditícia, mercadológica, gestão de crédito,
+seleção e riscos e administração de contas a pagar/receber?
+16.     Como tributar lucros ou dividendos apurados a partir de jan/1996?
+17.     Qual a alíquota do IRRF sobre juros sobre o capital próprio (JCP)?
+18.     Como tributar rendimentos de partes beneficiárias ou de fundador?
+19.     Como tributar pagamentos a beneficiário não identificado?
+20.     Como tributar multas e outras vantagens pagas por rescisão de contrato?
+
+Perguntas com respostas
+1.        Sobre qual competência incide o IRRF dos rendimentos sujeitos à tabela progressiva?
+Sobre os rendimentos efetivamente recebidos em cada mês (RIR, art. 677, § 1º).
+2.      Como calcular o IRRF quando a mesma fonte paga mais de uma vez no mês à mesma pessoa
+física?
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária                 21
+           www.estrategiaconcursos.com.br                                                                   26
+
+                                        
+
+
+---
+
+     Raphael Rabelo Parreira, Bruno Bezerra
+     Aula 04
+
+Somam-se os rendimentos do mês, aplica-se a alíquota e deduz-se o imposto já retido no próprio mês (RIR,
+art. 677, § 2º).
+3.        Quando um adiantamento salarial (“vale”) sofre retenção de IR na fonte?
+Somente no pagamento integral do mês; o adiantamento não sofre IRRF se o rendimento for quitado
+integralmente no mesmo mês (RIR, art. 678, caput).
+4.        Como ajustar a tabela progressiva para rendimentos recebidos acumuladamente (RRA)?
+Multiplica-se o número de meses a que se referem os rendimentos pelos valores da tabela mensal do mês do
+recebimento (IN RFB 1.500/2014, art. 37).
+5.        Qual a retenção de IR em pagamentos por decisão da Justiça Federal via precatório/RPV?
+3% sobre o montante pago, sem deduções, no momento do pagamento (RIR, art. 739).
+6.        Como registrar a receita quando há IRRF na fonte na escrituração da empresa beneficiária?
+                                                           ==219a34==
+
+Como receita pelo valor bruto, antes do desconto do IRRF (RIR, art. 284, I).
+7.        Como classificar o IRRF na escrituração quando a incidência é exclusiva na fonte?
+Como despesa/encargo não dedutível na apuração do lucro real (RIR, art. 284, II, “a”).
+8.        Como classificar o IRRF na escrituração nas demais hipóteses (não exclusiva)?
+Como parcela do ativo circulante (RIR, art. 284, II, “b”).
+9.      O que a pessoa jurídica pode fazer com o IRRF sobre receitas que entraram na base do IRPJ do
+trimestre?
+Deduzir do IRPJ apurado no trimestre o imposto pago ou retido na fonte (IN RFB 1.700/2017, art. 233, § 1º).
+10.       Qual a alíquota de IRRF para serviços de natureza profissional prestados por PJ a PJ?
+1,5% sobre as importâncias pagas ou creditadas (RIR, art. 714).
+11.   Qual a alíquota de IRRF para serviços de limpeza, conservação, segurança, vigilância e locação
+de mão de obra?
+1% sobre os pagamentos/ créditos (RIR, art. 716).
+12.       Qual a alíquota de IRRF para mediação de negócios, propaganda e publicidade entre PJs?
+1,5% (RIR, art. 718).
+13.   Como tributar pagamentos a cooperativas de trabalho e associações profissionais por serviços
+pessoais?
+Retém-se 1,5% de IRRF (RIR, art. 719).
+14.       Como é a retenção de IR em pagamentos da Administração Pública Federal a PJ por bens/serviços?
+15% multiplicado pelo percentual da estimativa mensal relativo à atividade correspondente (RIR,
+art. 720).
+15.    Qual a retenção de IR para serviços de assessoria creditícia, mercadológica, gestão de crédito,
+seleção e riscos e administração de contas a pagar/receber?
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária             22
+           www.estrategiaconcursos.com.br                                                               26
+                                                                                                         2
+                                        
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+1,5% (RIR, art. 723).
+16.    Como tributar lucros ou dividendos apurados a partir de jan/1996?
+Isentos de IR na fonte e não compõem a base do IR do beneficiário (PF ou PJ), inclusive no exterior
+(Lei 9.249/1995, art. 10; RIR, art. 654).
+17.    Qual a alíquota do IRRF sobre juros sobre o capital próprio (JCP)?
+15% na data do pagamento ou crédito (RIR, art. 726).
+18.    Como tributar rendimentos de partes beneficiárias ou de fundador?
+Pessoa física: tabela progressiva; pessoa jurídica: 15% de IRRF (RIR, art. 727).
+19.    Como tributar pagamentos a beneficiário não identificado?
+IR exclusivo na fonte à alíquota de 35% (RIR, art. 730).
+20.    Como tributar multas e outras vantagens pagas por rescisão de contrato?
+IRRF de 15%, ainda que a título de indenização, inclusive para PF ou PJ isenta (RIR, art. 740).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária          23
+        www.estrategiaconcursos.com.br                                                            26
+                                                                                                   3
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+1. (Inédita) Os rendimentos das pessoas físicas, quando submetidos à tributação pela tabela progressiva,
+podem sofrer retenção de imposto de renda na fonte. A respeito dessa retenção, julgue o item que se
+segue: o adiantamento de rendimentos correspondentes a determinado mês não estará sujeito à retenção,
+ainda que os rendimentos não sejam integralmente pagos no próprio mês a que se referirem.
+
+2. (Inédita) Estão sujeitas ao imposto na fonte, à alíquota de 15%, as multas ou quaisquer outras
+vantagens pagas ou creditadas por pessoa jurídica, ainda que a título de indenização, a beneficiária
+pessoa física ou jurídica, inclusive isenta, em virtude de rescisão de contrato.
+                                                        ==219a34==
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária             24
+        www.estrategiaconcursos.com.br                                                               26
+
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+Gabarito
+
+1 - ERRADA
+2 - CERTA
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Tributária   25
+        www.estrategiaconcursos.com.br                                                     26
+                                                                                            2
+                                     
+
+
+---
+
+---
+
+importada, é correto
+afirmar que
+
+a) toda mercadoria procedente do exterior, importada a título definitivo ou não, sujeita ou não ao
+pagamento do Imposto de Importação, deverá ser submetida a despacho de importação.
+
+b) não se consideram estrangeiras as mercadorias nacionais ou nacionalizadas, reimportadas, ressalvadas as
+que forem enviadas em consignação e que não encontrem comprador.
+
+c) o despacho aduaneiro de importação só pode ser realizado na chamada zona primária, que compreende
+o interior dos portos, dos aeroportos e os pontos de fronteira alfandegados.
+
+d) as informações prestadas pelo importador em sua declaração não surtem efeitos fiscais nos casos de
+interrupção do despacho de importação e de abandono da mercadoria pelo consignatário.
+
+e) entre outras exigências, a declaração de importação será instruída com a via original do conhecimento de
+carga, não se admitindo como comprovante da importação qualquer outro documento.
+
+2. (ESAF/2018/RFB/Ajudante de Despachante Aduaneiro) Com relação ao despacho de exportação via
+DU-E, assinale a opção correta.
+
+a) A apresentação da carga para despacho marca o início do procedimento fiscal e o fim da espontaneidade
+para o declarante ou o exportador retificar ou cancelar a DU-E sem que a retificação ou o cancelamento
+tenham de ser autorizados pela fiscalização aduaneira.
+
+b) O registro da DU-E não é condição para que ocorra a apresentação da carga para despacho.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                        24
+                                    
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+c) Depois da apresentação da carga para despacho, a DU-E será submetida à análise de risco aduaneiro e
+selecionada necessariamente para o canal verde de conferência aduaneira.
+
+d) Após a incidência de canal verde, a DU-E não poderá ser bloqueada por Auditor-Fiscal da Receita Federal
+do Brasil para verificação da mercadoria ou análise documental, mesmo se forem identificados indícios de
+irregularidade.
+
+e) A conferência aduaneira jamais poderá ser realizada sob a jurisdição da unidade da RFB onde o despacho
+de exportação foi realizado.
+
+3. (ESAF/2010/RFB/Auditor-Fiscal da Receita Federal do Brasil) Na importação por conta e ordem, é
+correto afirmar que o:
+
+a) adquirente está dispensado da obrigatoriedade de habilitação no SISCOMEX quando contrata os serviços
+do importador por conta e ordem para realizar operação de comércio exterior.
+
+b) adquirente deve ser pessoa jurídica que controla, direta ou indiretamente, o importador, e, em caso de
+indícios de fraude, ambos estão sujeitos à aplicação de procedimentos especiais de controle aduaneiro.
+
+c) importador é pessoa interposta, ficando caracterizado como “laranja”, uma vez que não dispõe de
+capacidade econômica para o pagamento da importação.
+
+d) adquirente é contribuinte dos tributos incidentes sobre a importação, uma vez que o importador não tem
+capacidade econômica para o pagamento da importação.
+
+e) importador atua como mero mandatário do adquirente, sendo que este último pactua a compra
+internacional e dispõe de capacidade econômica para o pagamento da importação.
+
+4. (ESAF/2010/RFB/Auditor-Fiscal da Receita Federal do Brasil) Sobre os documentos instrutivos da
+declaração de importação, é correto afirmar que:
+
+a) A fatura comercial pode substituir o conhecimento de carga, na via aérea, se contiver a descrição
+detalhada da mercadoria.
+
+b) O ingresso da mercadoria no território aduaneiro considera-se ocorrido na data de emissão do
+conhecimento de carga.
+
+c) Dispensa-se a apresentação do conhecimento de carga nos despachos de importação de mercadorias
+transportadas por via terrestre no MERCOSUL.
+
+d) O romaneio de carga é documento obrigatório na instrução de declaração de importação ou de exportação
+de granéis.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                       25
+                                    
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 04
+
+e) Para instrução da declaração de mercadorias que gozem benefício em razão da origem, pode ser solicitada
+a comprovação por certificado de origem ou outro meio julgado idôneo.
+
+5. (ESAF/2003/SRF/Auditor-Fiscal da Receita Federal) A fiscalização aduaneira recebe denúncia de que a
+bagagem de determinado integrante de missão diplomática, que se encontra sujeito à extradição,
+acondicionaria substância entorpecente sujeita a proibição de importação. Nessa hipótese:
+
+a) não sendo indeclinável a apresentação de câmara ou profissional de imprensa, os agentes poderão filmar
+ou fotografar o momento da abertura e o conteúdo dos volumes em qualquer caso;
+
+b) considerando que o passageiro está sob risco de extradição, não se aplica o direito garantido pela
+inviolabilidade de bagagem diplomática;
+
+c) o procedimento poderia ser realizado, desde que haja indícios ou fundadas suspeitas de crime, o que
+deverá ser comunicado à autoridade policial pelo representante da Fazenda Nacional, para adoção das
+medidas cabíveis;
+
+d) a soltura do passageiro fica condicionada ao pagamento de multa;
+
+e) os agentes da fiscalização deverão abrir os volumes compulsoriamente, com o auxílio de chaveiro.
+
+
+Gabarito
+
+1–A
+
+2–A
+
+3–E
+
+4–E
+
+5-C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                       26
+                                    
+
+
+---
+
+---

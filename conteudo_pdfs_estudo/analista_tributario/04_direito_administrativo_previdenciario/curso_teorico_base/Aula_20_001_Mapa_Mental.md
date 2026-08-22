@@ -1,0 +1,516 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 20_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '20'
+titulo_aula: LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+artigos_citados:
+- ART. 216
+- ART. 37
+- ART. 5º
+---
+
+# LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+
+LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+
+
+                                                      LEI DE ACESSO À INFORMAÇÃO – LAI
+
+•   REGULAMENTA O ART. 5º, XXXIII, INCISO II, §3º DO ART. 37 E §2º DO ART. 216, TODOS DA CF/88
+
+
+•   OBJETIVO: GARANTIR AO CIDADÃO O EXERCÍCIO DO SEU DIREITO DE ACESSO À INFORMAÇÃO
+
+
+•   ESTABELECEU QUE O ACESSO É A REGRA E O SIGILO, A EXCEÇÃO.
+
+
+•   LEI NACIONAL
+
+
+•   SUBORDINAM-SE AO REGIME DA LAI:
+
+                   ❑   Administração direta e indireta de todos os Poderes de todos os Entes da Federação;
+
+
+                   ❑   Entidades privadas sem ﬁns lucrativos que recebam recursos públicos:
+
+                    • Naquilo que for referente à parcela dos recursos públicos recebidos e
+                      à sua destinação.
+                                                                                                             DIREITO ADMINISTRATIVO
+                                                                                                              ESTRATÉGIA CONCURSOS
+                                                                
+
+
+---
+
+                        LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+
+                                                          DEFINIÇÕES:
+
+•   Informação: Dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos
+    em qualquer meio, suporte ou formato;
+
+•   Documento: Unidade de registro de informações, qualquer que seja o suporte ou formato;
+
+•   Informação Sigilosa: Aquela submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade
+    para a segurança da sociedade e do Estado;
+
+•   Informação Pessoal: Aquela relacionada à pessoa natural identiﬁcada ou identiﬁcável;
+
+•   Tratamento Da Informação: Conjunto de ações referentes à produção, recepção, classiﬁcação, utilização, acesso, reprodução,
+    transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da
+    informação;
+
+•   Disponibilidade: Qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas
+    autorizados;
+
+•   Autenticidade: Qualidade da informação que tenha sido produzida, expedida, recebida ou modiﬁcada por determinado
+    indivíduo, equipamento ou sistema;
+
+•   Integridade: Qualidade da informação não modiﬁcada, inclusive quanto à origem, trânsito e destino;
+
+•   Primariedade: Qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modiﬁcações.
+
+
+                                                                                                                DIREITO ADMINISTRATIVO
+                                                                                                                 ESTRATÉGIA CONCURSOS
+                                             
+
+
+---
+
+                                                    LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+                                                                                         DIRETRIZES:
+                           •    Observância da publicidade como preceito geral e do sigilo como exceção;
+
+                           •    Divulgação de informações de interesse público, independentemente de solicitações;
+
+                           •    Utilização de meios de comunicação viabilizados pela tecnologia da informação;
+
+                           •    Fomento ao desenvolvimento da cultura de transparência na administração pública;
+
+                           •    Desenvolvimento do controle social da administração pública.
+
+          •       COMPREENDE:                                                       ACESSO À INFORMAÇÃO
+              ❑    Orientação sobre os procedimentos para a consecução de acesso:
+                     •   Incluindo, sobre o local onde poderá ser encontrada ou obtida a informação desejada.
+              ❑    Informação contida em registros ou documentos:
+                     •   Recolhidos ou não a arquivos públicos.
+              ❑    Informação produzida ou custodiada por pessoa física ou entidade privada decorrente de qualquer vínculo com seus órgãos ou entidades,
+                   mesmo que esse vínculo já tenha cessado;
+              ❑    Informação primária, íntegra, autêntica e atualizada;
+              ❑    Informação sobre atividades exercidas pelos órgãos e entidades, inclusive as relativas à sua política, organização e serviços;
+              ❑    Informação pertinente à administração do patrimônio público utilização de recursos públicos, licitação, contratos administrativos; e
+
+                               • À implementação, acompanhamento e resultados dos programas, projetos e ações dos órgãos e
+❑Informação                      entidades públicas, bem como metas e indicadores propostos;
+Relativa:                      • Ao resultado de inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de
+                                 controle interno e externo, incluindo prestações de contas relativas a exercícios anteriores.                      DIREITO ADMINISTRATIVO
+                                                                                                                                                     ESTRATÉGIA CONCURSOS
+                                                                           
+
+
+---
+
+                         LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+                                                 TRANSFERÊNCIA ATIVA
+
+•   É o dever dos órgãos e entidades públicas de promover a divulgação de informações de interesse coletivo ou geral
+    Independentemente de Requerimentos;
+
+•   Em local de fácil acesso;
+
+•   Obrigatória a divulgação em sítios oﬁciais da rede mundial de computadores (internet).
+
+❑   Portais da transparência;
+❑   Municípios de até DEZ mil habitantes ﬁcam dispensados da divulgação obrigatória:
+     • Mantida A Obrigatoriedade De Divulgação, Em Tempo Real, De Informações Relativas À
+       Execução Orçamentária E Financeira. (LRF)
+
+
+                                   SIC – SERVIÇO DE INFORMAÇÕES AO CIDADÃO
+
+•   Forma de assegurar o acesso a informações;
+
+•   Departamento de cada órgão responsável por:
+
+❑   Atender e orientar o público quanto ao acesso a informações;
+❑   Informar sobre a tramitação de documentos nas suas respectivas unidades;
+❑   Protocolizar documentos e requerimentos de acesso a informações.                                        DIREITO ADMINISTRATIVO
+                                                                                                             ESTRATÉGIA CONCURSOS
+                                              
+
+
+---
+
+                            LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+                                             PEDIDO DE ACESSO À INFORMAÇÃO
+
+•   Qualquer interessado poderá apresentar o pedido;
+
+
+                                         ❑    Identiﬁcação do requerente:
+•   REQUISITOS:                                •   Não pode conter exigências que inviabilizem a solicitação;
+                                         ❑    Especiﬁcação da informação requerida.
+
+
+•   É vedado qualquer exigência relativa aos motivos determinantes da solicitação;
+
+
+•   INFORMAÇÃO:
+
+❑   DISPONÍVEL:
+     •   ACESSO IMEDIATO;
+❑   NÃO DISPONÍVEL:
+     •   O ÓRGÃO TERÁ UM PRAZO DE ATÉ 20 DIAS, PRORROGÁVEIS DE FORMA JUSTIFICADA POR MAIS 10 DIAS, PARA:
+✔   Comunicar a data, local e modo para se realizar a consulta, efetuar a reprodução ou obter a certidão;
+✔   Indicar as razões de fato ou de direito da recusa, total ou parcial, do acesso pretendido; (hipótese de informação negada).
+✔   Comunicar que não possui a informação, indicar, se for do seu conhecimento, o órgão ou a entidade que a detém, ou, ainda,
+    remeter o requerimento a esse órgão ou entidade, cientiﬁcando o interessado da remessa de seu pedido de informação.
+
+
+                                                                                                                        DIREITO ADMINISTRATIVO
+                                                                                                                         ESTRATÉGIA CONCURSOS
+                                                    
+
+
+---
+
+                                   LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+
+
+                                                     PEDIDO DE ACESSO À INFORMAÇÃO
+
+
+•   SERVIÇO DE BUSCA E FORNECIMENTO DA INFORMAÇÃO:
+
+
+         ❑    Regra: Serviço gratuito.
+
+         ❑    Exceções:
+
+
+         ✔ Reprodução de documentos (cobra-se exclusivamente o valor do custo dos serviços e dos materiais utilizados);
+         ✔ Situação econômica do requerente.
+
+•   ACESSO NEGADO À INFORMAÇÃO SIGILOSA:
+
+
+         ❑    Deverá ser informado ao requerente:
+
+
+         ✔ Possibilidade de recurso, prazos e condições para sua interposição;
+         ✔ Indicar a autoridade competente para sua apreciação.
+
+
+                                                                                                                          DIREITO ADMINISTRATIVO
+                                                                                                                           ESTRATÉGIA CONCURSOS
+                                                          
+
+
+---
+
+                                    LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+                                                                        RECURSOS
+
+•   CABIMENTO: INDEFERIMENTO DE ACESSO ÀS INFORMAÇÕES OU ÀS RAZÕES DA NEGATIVA DO ACESSO.
+
+•   PRAZO PARA INTERPOSIÇÃO: 10 DIAS.
+
+•   AUTORIDADE COMPETENTE:
+
+            ❑    Autoridade hierarquicamente superior à que exarou a decisão impugnada;
+            ❑    5 Dias para se manifestar;
+
+            ❑    Indeferido: Cabe recurso à Controladoria-Geral da União.
+
+            ❑ Prazo para apreciar: 5 Dias.
+            ❑ Objeto:
+                  • Indeferimento de acesso à informação não classiﬁcada;
+                  • A decisão de negativa de acesso não indicar a autoridade classiﬁcadora ou a hierarquicamente
+                    superior a quem possa ser dirigido pedido de acesso ou desclassiﬁcação;
+                  • Os procedimentos de classiﬁcação não tiverem sido observados;
+                  • Estiverem sendo descumpridos prazos.
+
+•   RECURSO CONTRA NEGATIVA DE DESCLASSIFICAÇÃO DE INFORMAÇÃO:
+
+            ❑    Autoridade: Ministro de Estado da área correspondente.                                            DIREITO ADMINISTRATIVO
+                                                                                                                    ESTRATÉGIA CONCURSOS
+                                                           
+
+
+---
+
+                                     LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+
+
+                                                    RESTRIÇÕES DE ACESSO À INFORMAÇÃO
+
+
+•   ACESSO RESTRITO DURANTE UM PERÍODO DE TEMPO
+
+•   TRATA-SE DE EXCEÇÕES
+
+•   HIPÓTESES:
+
+
+                    ❑      Informações classiﬁcadas em grau de sigilo;
+
+
+                    ❑      Informações pessoais sobre intimidade, vida privada, honra e imagem.
+
+•   VEDADA A RESTRIÇÃO:
+
+
+                    ❑      Informações necessárias à tutela de direitos fundamentais;
+
+
+                    ❑      Informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos.
+
+
+                                                                                                                              DIREITO ADMINISTRATIVO
+                                                                                                                               ESTRATÉGIA CONCURSOS
+                                                             
+
+
+---
+
+                                      LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+         RESTRIÇÕES DE ACESSO À INFORMAÇÃO -                                               CLASSIFICAÇÃO DAS INFORMAÇÕES QUANTO AO GRAU DE SIGILO:
+                      HIPÓTESES:
+
+•   INFORMAÇÕES IMPRESCINDÍVEIS À SEGURANÇA DA SOCIEDADE OU DO ESTADO;
+
+•   DEVE OBSERVAR O INTERESSE PÚBLICO DA INFORMAÇÃO;
+
+•   UTILIZAR O CRITÉRIO MENOS RESTRITIVO POSSÍVEL, CONSIDERANDO:
+
+
+             ❑   A gravidade do risco ou dano à segurança da sociedade e do Estado; e
+
+             ❑   O prazo máximo de restrição de acesso ou o evento que deﬁna seu termo ﬁnal.
+
+
+•   GRAU DE RESTRIÇÃO E PRAZOS:
+
+
+         ❑    Ultrassecreta: 25 Anos;
+         ❑    Secreta: 15 Anos;
+         ❑    Reservada: 5 Anos.
+
+
+         ❑    Alternativamente aos prazos - termo ﬁnal de restrição de acesso:
+
+         ✔ Ocorrência de determinado evento;
+         ✔ Desde que ocorra antes do transcurso do prazo máximo de classiﬁcação.
+                                                                                                                                             DIREITO ADMINISTRATIVO
+                                                                                                                                              ESTRATÉGIA CONCURSOS
+                                                               
+
+
+---
+
+                                     LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+          RESTRIÇÕES DE ACESSO À INFORMAÇÃO -                                          CLASSIFICAÇÃO DAS INFORMAÇÕES QUANTO AO GRAU DE SIGILO:
+                       HIPÓTESES:
+
+•   TRANSCORRIDO O PRAZO DE CLASSIFICAÇÃO OU CONSUMADO O EVENTO QUE DEFINA O SEU TERMO FINAL:
+
+      ❑   A informação tornar-se-á, automaticamente, de acesso público.
+
+•   COMPETÊNCIA PARA CLASSIFICAR O GRAU DE SIGILO:
+
+                                      ✔ Presidente da República;
+                                      ✔ Vice-Presidente da República;
+
+      ❑   Ultrassecreto:              ✔ Ministros de Estado e autoridades com as mesmas prerrogativas;
+                                      ✔ Comandantes da Marinha, do Exército e da Aeronáutica; e
+                                      ✔ Chefes de Missões Diplomáticas e Consulares permanentes no exterior.
+
+                                      ✔ Autoridades mencionadas acima;
+      ❑   Secreto:
+                                      ✔ Titulares de autarquias, fundações ou empresas públicas e sociedades de economia mista.
+
+
+      ❑   Reservado:
+
+     ✔ Autoridades mencionadas acima;
+     ✔ As que exerçam funções de direção, comando ou cheﬁa, nível DAS 101.5, ou superior, do Grupo-Direção e
+          Assessoramento Superiores, ou de hierarquia equivalente, de acordo com regulamentação especíﬁca de
+          cada órgão ou entidade.                                                                                                        DIREITO ADMINISTRATIVO
+                                                                                                                                          ESTRATÉGIA CONCURSOS
+                                                           
+
+
+---
+
+                                     LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+          RESTRIÇÕES DE ACESSO À INFORMAÇÃO -
+                                                                                           CLASSIFICAÇÃO DAS INFORMAÇÕES QUANTO AO GRAU DE SIGILO:
+                       HIPÓTESES:
+
+•   FORMALIZADA EM DECISÃO QUE CONTENHA, NO MÍNIMO, OS SEGUINTES ELEMENTOS:
+
+      ❑   Assunto sobre o qual versa a informação;
+      ❑   Fundamento da classiﬁcação;
+      ❑   Indicação do prazo de sigilo, contado em anos, meses ou dias, ou do evento que deﬁna o seu termo ﬁnal;
+      ❑   Identiﬁcação da autoridade que a classiﬁcou.
+
+•   DECISÃO DE CLASSIFICAÇÃO:
+
+      ❑   Será mantida no mesmo grau de sigilo da informação classiﬁcada.
+
+•   RISCO A SEGURANÇA DO PRESIDENTE E VICE-PRESIDENTE DA REPÚBLICA E RESPECTIVOS CÔNJUGES E FILHOS(AS):
+
+      ❑   Informação RESERVADA;
+      ❑   Sigilo até o término do mandato em exercício ou do último mandato, em caso de reeleição.
+
+•   REAVALIAÇÃO DAS INFORMAÇÕES (ULTRASSECRETAS E SECRETAS):
+
+      ❑   Prazo máximo de 2 anos;
+      ❑   Contado do início da vigência da LAI;
+     ❑    Não realizado a reavaliação no prazo: Acesso público, automático.                                                                  DIREITO ADMINISTRATIVO
+                                                                                                                                              ESTRATÉGIA CONCURSOS
+                                                               
+
+
+---
+
+                              LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+
+
+                                        RESTRIÇÕES DE ACESSO À INFORMAÇÃO - HIPÓTESES:
+
+
+                                    CLASSIFICAÇÃO DAS INFORMAÇÕES QUANTO AO GRAU DE SIGILO:
+
+•   INFORMAÇÃO PARCIALMENTE SIGILOSA:
+
+
+            ❑   Acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.
+
+                                PROTEÇÃO E CONTROLE DE INFORMAÇÕES SIGILOSAS
+
+       • É DEVER DO ESTADO CONTROLAR O ACESSO A INFORMAÇÕES SIGILOSAS, ASSEGURANDO A SUA PROTEÇÃO;
+
+
+       • O ACESSO E O TRATAMENTO FICAM RESTRITOS A PESSOAS QUE TENHAM NECESSIDADE DE CONHECÊ-LA;
+
+
+       • A PESSOA QUE TIVER ACESSO PASSA A TER A OBRIGAÇÃO DE RESGUARDAR O SIGILO.
+
+                                                                                                                        DIREITO ADMINISTRATIVO
+                                                                                                                         ESTRATÉGIA CONCURSOS
+                                                    
+
+
+---
+
+                                            LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+                      RESTRIÇÕES DE ACESSO À INFORMAÇÃO - HIPÓTESES:                                             INFORMAÇÕES PESSOAIS:
+
+    •   INTIMIDADE, VIDA PRIVADA, HONRA E IMAGEM;
+
+    •   ACESSO RESTRITO, INDEPENDENTEMENTE DE CLASSIFICAÇÃO DE SIGILO;
+
+                              ❑   Prazo máximo de 100 anos ;
+                              ❑   A contar da sua data de produção.
+
+    •   DIVULGAÇÃO AUTORIZADA/ACESSO POR TERCEIRO:
+
+                                     ❑   Previsão legal;
+                                     ❑   Consentimento expresso da pessoa a que elas se referirem.
+
+•   DISPENSA-SE O CONSENTIMENTO: INFORMAÇÕES FOREM NECESSÁRIAS:
+    ✔    Prevenção e diagnóstico médico:
+          (Pessoa física ou legalmente incapaz);
+          (Utilização única e exclusivamente para o tratamento médico).
+    ✔    Realização de estatísticas e pesquisas cientíﬁcas de evidente interesse público ou geral, previstos em lei:
+          (Vedada a identiﬁcação da pessoa).
+    ✔    Ao cumprimento de ordem judicial;
+    ✔    Defesa de direitos humanos; ou
+    ✔    Proteção do interesse público e geral preponderante.                                                                            DIREITO ADMINISTRATIVO
+                                                                                                                                          ESTRATÉGIA CONCURSOS
+                                                                   
+
+
+---
+
+                            LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+    CONDUTAS ILÍCITAS:                                       RESPONSABILIDADE DOS AGENTES PÚBLICOS
+
+•     RECUSAR-SE A FORNECER INFORMAÇÃO REQUERIDA, RETARDAR DELIBERADAMENTE O SEU FORNECIMENTO OU FORNECÊ-LA INTENCIONALMENTE DE FORMA
+      INCORRETA, INCOMPLETA OU IMPRECISA;
+
+
+•     UTILIZAR INDEVIDAMENTE INFORMAÇÃO QUE SE ENCONTRE SOB SUA GUARDA OU A QUE TENHA ACESSO OU CONHECIMENTO;
+
+•     AGIR COM DOLO OU MÁ-FÉ NA ANÁLISE DAS SOLICITAÇÕES DE ACESSO À INFORMAÇÃO;
+
+•     DIVULGAR OU PERMITIR A DIVULGAÇÃO OU ACESSAR OU PERMITIR ACESSO INDEVIDO À INFORMAÇÃO SIGILOSA OU INFORMAÇÃO PESSOAL;
+
+•     IMPOR SIGILO À INFORMAÇÃO PARA OBTER PROVEITO PESSOAL OU DE TERCEIRO, OU PARA FINS DE OCULTAÇÃO DE ATO ILEGAL COMETIDO POR SI OU POR
+      OUTREM;
+
+•     OCULTAR DA REVISÃO DE AUTORIDADE SUPERIOR COMPETENTE INFORMAÇÃO SIGILOSA PARA BENEFICIAR A SI OU A OUTREM, OU EM PREJUÍZO DE TERCEIROS; E
+
+•     DESTRUIR OU SUBTRAIR, POR QUALQUER MEIO, DOCUMENTOS CONCERNENTES A POSSÍVEIS VIOLAÇÕES DE DIREITOS HUMANOS POR PARTE DE AGENTES DO
+      ESTADO.
+
+❑     Âmbito das Forças Armadas: Consideradas transgressões militares médias ou graves;
+❑     Âmbito dos servidores civis: Consideradas infrações administrativas.
+
+
+                                                     ✔ Deverão ser apenadas, no mínimo, com suspensão.
+
+                                                                                                                                 DIREITO ADMINISTRATIVO
+                                                                                                                                  ESTRATÉGIA CONCURSOS
+                                                    
+
+
+---
+
+                             LEI DE ACESSO À INFORMAÇÃO – 12.527/2011
+      SANÇÕES:                                             RESPONSABILIDADE DOS AGENTES PÚBLICOS
+
+•   APLICÁVEL AS PESSOAS FÍSICAS OU ENTIDADE PRIVADA QUE DETIVER INFORMAÇÕES EM VIRTUDE DE VÍNCULO DE QUALQUER NATUREZA COM O PODER PÚBLICO;
+
+
+•   DEIXAR DE OBSERVAR O DISPOSTO NA LAI;
+
+•   ESPÉCIES:
+
+❑   Advertência;
+❑   Multa;
+❑   Rescisão do vínculo com o poder público;
+❑   Suspensão temporária de participar em licitação e impedimento de contratar com a administração pública por prazo não
+    superior a 2 anos; e
+❑   Declaração de inidoneidade para licitar ou contratar com a administração pública, até que seja promovida a reabilitação
+    perante a própria autoridade que aplicou a penalidade.
+
+       •     Competência exclusiva da autoridade máxima;                               ✔ Autorizada    somente    quando     o     interessado
+       •     Defesa do interessado: prazo de 10 dias;                                     efetivar o ressarcimento dos prejuízos; e
+
+       •     Reabilitação:                                                             ✔ Após decorrido o prazo de 2 anos
+
+
+                    DIVULGAÇÃO NÃO AUTORIZADA OU UTILIZAÇÃO INDEVIDA DE INFORMAÇÕES PESSOAIS OU SIGILOSAS
+
+•   RESPONSABILIDADE DIRETA DO ESTADO;
+
+•   DIREITO DE REGRESSO CONTRA O AGENTE PÚBLICO (DOLO OU CULPA).                                                                 DIREITO ADMINISTRATIVO
+                                                                                                                                  ESTRATÉGIA CONCURSOS
+                                                  
+
+
+---

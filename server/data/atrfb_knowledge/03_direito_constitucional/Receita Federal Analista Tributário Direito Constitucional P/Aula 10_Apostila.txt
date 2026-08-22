@@ -1,0 +1,4093 @@
+                                                     Aula 09
+                          Receita Federal (Analista Tributário)
+                               Direito Constitucional (Prof. João
+                                                       Trindade)
+
+
+
+                                                          Autor:
+                             João Trindade Cavalcante Filho
+
+
+
+
+                                               25 de Maio de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      João Trindade Cavalcante Filho
+      Aula 09
+
+
+
+
+                                                                                     Índice
+1) Critérios de Distribuição de Competência
+..............................................................................................................................................................................................3
+
+2) Classificação das Competências
+..............................................................................................................................................................................................
+                                                                                                                                                                                            12
+
+3) Casuística
+..............................................................................................................................................................................................
+                                                                                                                                                                                            25
+
+4) Questões Comentadas - Repartição de competências federativas - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            56
+
+5) Lista de Questões - Repartição de competências federativas - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            68
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                           74
+
+                                                             https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+                REPARTIÇÃO DE COMPETÊNCIAS FEDERATIVAS
+Olá!
+
+Vamos agora estudar um dos assuntos mais “amados” pelos alunos: a repartição de
+competências federativas, que nada mais é do que a divisão de tarefas (administrativas e
+legislativas) entre os entes da Federação brasileira.
+
+Esse assunto é às vezes visto de forma muito “decoreba”. Não que não seja necessário
+memorizar: é. Mas é que, se entendermos a lógica que levou o constituinte originário a atribuir
+determinadas funções e a este ou àquele ente, melhor ainda. Pode estudar esse assunto de
+mente aberta e coração livre: vai dar certo!
+
+
+  CRITÉRIOS DE DISTRIBUIÇÃO DE COMPETÊNCIA USADOS PELO
+ CONSTITUINTE ORIGINÁRIO (LÓGICA INTERNA DA REPARTIÇÃO DE
+                      COMPETÊNCIAS)
+
+A partir de agora, passaremos a estudar a repartição de competências entre os entes da
+Federação – isto é, a distribuição de tarefas (prevista na CF) entre a União, os Estados, o DF e os
+Municípios. Logicamente, esse é um problema típico do Estado Federal (nos países que adotam
+a forma unitária o tema sequer se coloca). Mais ainda: é o problema central de qualquer
+Federação, já que distribuir as responsabilidades entre as várias partes que compõem o todo é
+um ponto que pode gerar concentração de poderes ou excessiva variação de legislação, por
+exemplo.
+
+Nesse primeiro item, vamos estudar os critérios que foram usados pelo constituinte originário na
+hora de distribuir as competências. Isso acontece porque a chamada repartição de competências
+federativas nada mais é que a distribuição de tarefas entre os entes da Federação (“quem vai
+fazer o quê”).
+
+Logicamente, a distribuição de competências não foi feita de forma aleatória: obedece a uma
+lógica interna, não obstante algumas decisões do constituinte sejam evidentemente políticas.
+Basicamente, dois critérios nortearam a escolha na Constituinte de 1987/88 sobre quem deve
+fazer o quê dentro da nossa Federação: os critérios do interesse predominante (ou
+predominância do interesse) e o critério da subsidiariedade. Esses critérios não se excluem – pelo
+contrário, se complementam.
+
+
+Interesse Predominante (ou Predominância do Interesse)
+
+De acordo com esse critério, considera-se que a competência para desempenhar determinada
+atividade deve ser atribuída ao ente federativo cujo interesse predomine naquela matéria.
+Quando o interesse for:
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       3
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+- predominantemente nacional ou federal - a competência será da União;
+
+- predominantemente regional – a competência será do Estado;
+
+- preponderantemente local - a competência será do município.
+
+E quando o interesse for igualmente de todos os entes da Federação? Nesse caso, a
+competência foi atribuída de forma comum a todos eles.
+
+Exemplos:
+
+                            Competências e Interesses dos Entes Federativos
+
+
+                                                       Interesse​
+            Competência                                                                      Ente competente
+                                                     predominante
+
+
+ Legislar sobre assuntos de                Local                                   Município (art. 30, I e V)
+ interesse local
+
+ Explorar serviços públicos de
+ interesse local, tais como coleta
+ de lixo, iluminação pública,
+ transporte coletivo urbano,
+ serviços funerários, etc.
+
+
+
+ Manter o serviço postal e o               Nacional                                União (art. 21, X, XI e XII)
+ correio aéreo nacional
+
+ Explorar/manter serviços como
+ radiodifusão sonora (rádio) e de
+ sons e imagens (TV),
+ telecomunicações, além de
+ manter portos, aeroportos, etc.
+
+
+
+ Instituir regiões metropolitanas,         Regional                                Estados (art. 25, § 3º)
+ aglomerações urbanas e
+ microrregiões, constituídas por
+ agrupamentos de municípios
+ limítrofes.
+
+
+
+ Proporcionar os meios de          Todos os entes                                  Competência comum (art. 23,
+ acesso à cultura, à educação, à                                                   V, na redação da EC n.
+ ciência, à tecnologia, à pesquisa
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                        4
+        www.estrategiaconcursos.com.br                                                                            74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+                                                       Interesse​
+            Competência                                                                      Ente competente
+                                                     predominante
+
+ e à inovação.                                                                     85/2015)
+
+
+
+
+Nas chamadas competências comuns (art. 23), em que se atribui uma tarefa a todos os entes da
+Federação, pode-se dizer que foi adotada pelo constituinte a lógica do quanto mais entes
+atuando, melhor. Nessas hipóteses, em que a atuação de mais de um ente federativo pode
+ajudar a prestar um serviço de forma mais efetiva, você pode marcar na prova com tranquilidade
+que a competência é comum de todos os entes federativos. Quer ver alguns exemplos?
+
+a) Cuidar do patrimônio público, histórico e cultural
+
+b) Proteger o meio ambiente
+
+c) Proporcionar meios de acesso à cultura, à educação, à ciência, à tecnologia e à inovação
+
+d) Organizar o abastecimento alimentar
+
+e) Prestar saúde
+
+f) Construir moradias e promover o saneamento básico
+
+Todas essas são competências comuns! Se cair na sua prova dizendo que qualquer dessas
+competências é exclusiva de algum ente federativo (questão clássica!), a afirmação estará errada!
+
+
+
+
+Veja, por exemplo, essa questão (antiga, porém boa).
+
+(Cespe/MPE-ES/Promotor/2010) É da competência exclusiva da União promover programas de
+construção de moradias e a melhoria das condições habitacionais e de saneamento básico.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                     5
+        www.estrategiaconcursos.com.br                                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Comentários:
+
+A competência é comum de todos os entes da federação (art. 23, VIII).
+
+Gabarito: Errado
+
+
+
+
+Atenção!
+
+Em matéria de competências comuns, em geral, e da tarefa de cuidar da saúde, em particular
+(CF, art. 23, II), o STF entende que, como a responsabilidade é de todos os níveis federativos,
+todos eles (União, Estados, DF e Municípios) podem ser judicialmente demandados para cumprir
+tais deveres constitucionais de proteção: “Os entes da federação, em decorrência da
+competência comum, são solidariamente responsáveis nas demandas prestacionais na área da
+saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à
+autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências
+e determinar o ressarcimento a quem suportou o ônus financeiro” (Tema nº 793 da Repercussão
+Geral do STF).
+
+Responsabilidade solidária, em sentido jurídico, significa que qualquer dos devedores (União,
+Estados, DF e Municípios) pode ser demandado para cumprir a obrigação toda.
+
+
+
+
+Aprofundamento: a cooperação entre os entes, no exercício das competências comuns
+
+Quando se prevê que a competência para executar determinada tarefa seja comum de todos os
+entes federativos, isso pode causar alguns conflitos, algumas sobreposições indevidas de
+atuação. Por conta disso, o art. 23, após listar as competências em comum, prevê que “leis
+complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal
+e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito
+nacional”.
+
+Perceba-se o uso do plural: não é uma só lei complementar, mas sim diversas leis
+complementares (uma para cada assunto) que deverão estabelecer critérios de cooperação entre
+os entes, para o desempenho das tarefas previstas no art. 23.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   6
+        www.estrategiaconcursos.com.br                                                       74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Muitas vezes, tal lei complementar é dispensável, uma vez que a própria CF já estabelece tais
+critérios norteadores da atuação em comum dos entes da Federação. No caso da educação, por
+exemplo, o art. 211 já traz uma detalhada lista de prioridades de atuação para a União, os
+Estados e os Municípios:
+
+  “Art. 211. A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de
+colaboração seus sistemas de ensino.
+
+   § 1º A União organizará o sistema federal de ensino e o dos Territórios, financiará as
+instituições de ensino públicas federais e exercerá, em matéria educacional, função
+redistributiva e supletiva, de forma a garantir equalização de oportunidades educacionais e
+padrão mínimo de qualidade do ensino mediante assistência técnica e financeira aos Estados,
+ao Distrito Federal e aos Municípios; (Redação dada pela Emenda Constitucional n. 14/1996)
+
+   § 2º Os Municípios atuarão prioritariamente no ensino fundamental e na educação infantil.
+(Redação dada pela Emenda Constitucional n. 14/1996)
+
+  § 3º Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e
+médio. (Incluído pela Emenda Constitucional n. 14/1996)
+
+  § 4º Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os
+Municípios definirão formas de colaboração, de modo a assegurar a universalização do ensino
+obrigatório.”
+
+De maneira semelhante, a própria CF, quando trata da saúde, já prevê a instituição de um sistema
+unificado (Sistema Único de Saúde – SUS) – art.198.
+
+Nos demais setores das competências comuns, no entanto, tais leis complementares são
+bastante úteis, para evitar conflitos. Foi o caso, por exemplo, da Lei Complementar n. 140/2011,
+que “fixa normas, nos termos dos incisos III, VI e VII do caput e do parágrafo único do art. 23 da
+Constituição Federal, para a cooperação entre a União, os Estados, o Distrito Federal e os
+Municípios nas ações administrativas decorrentes do exercício da competência comum relativas à
+proteção das paisagens naturais notáveis, à proteção do meio ambiente, ao combate à poluição
+em qualquer de suas formas e à preservação das florestas, da fauna e da flora”, tratando da
+repartição de competências e da atuação dos entes federativos na matéria de licenciamento
+ambiental.
+
+
+
+
+Aprofundamento: conflitos entre os entes federativos, no âmbito das competências comuns (e o
+caso do combate à pandemia de Covid-19)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       7
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 09
+
+
+
+Ao comentar sobre as competências comuns, André Ramos Tavares registra que “fica evidente
+que o conflito de atuações, nessas circunstâncias [art. 23] é praticamente inafastável. Portanto,
+impõe-se afirmar uma diretriz que seja capaz de solucionar os óbices decorrentes da atribuição
+de competência simultânea a diversas entidades federativas”1. Portanto, impõe-se afirmar uma
+diretriz que seja capaz de solucionar os óbices decorrentes da atribuição de competência
+simultânea a diversas entidades federativas.
+
+Esse problema, como se imagina, não é exclusivo do Brasil nem específico da área de saúde. Ao
+contrário, outros países que adotam o chamado “federalismo cooperativo” (em oposição ao
+“federalismo dual”, que traz divisões mais claras de atuação entre União e Estados) também
+enfrentam discussões, inclusive jurisprudenciais, sobre os limites da atuação da União em face
+dos Estados, bem como sobre a superposição de legislações ou atuações administrativas muitas
+vezes distintas ou até mesmo conflitantes2. Logicamente, porém, a existência desses conflitos (e a
+urgência em resolvê-los) ficou ainda mais clara no caso do enfrentamento à Covid-19.
+
+É bem verdade que a CF já traz algumas diretrizes sobre o tema, e a Lei n. 13.979, de 6 de
+fevereiro de 2020 (Lei de Enfrentamento à Covid-19), terminou por também trazer uma espécie
+de “repartição de competências” ad hoc (art. 3º). Ambos os regramentos, contudo, precisaram
+ser interpretados e concretizados pelo Supremo Tribunal Federal (STF), como exemplifica a
+cautelar na Arguição de Descumprimento de Preceito Fundamental (ADPF) n. 672/DF, do Ministro
+Alexandre de Moraes, e na qual se reconhece a prevalência de atos de Estados e Municípios em
+face da União, quando no exercício de determinadas competências de sua esfera específica.
+
+Subsidiariedade
+De acordo com esse outro critério (também utilizado pelo constituinte de 1987/88 para distribuir
+as competências), uma competência só foi atribuída (pelo constituinte) aos Estados se se
+considerou que os municípios não poderiam exercê-la bem; e só foi atribuída à União se se
+constatou que os Estados não poderiam exercê-la a contento. Trata-se, portanto, de uma espécie
+de “prioridade para o ente mais próximo”, já que a descentralização é a essência da Federação
+(como diz Konrad Hesse), e “as pessoas moram nos Municípios, não na União” (como dizia
+Franco Montoro).
+
+Assim, sempre que o constituinte achou que os municípios dariam conta de exercer uma tarefa, a
+competência foi atribuída a eles; caso contrário, a competência foi dada pelo constituinte aos
+Estados; no caso de o constituinte entender que estes também não teriam condições de prestar
+o serviço, a competência foi dada à União.
+
+Nesse sentido, o STF já decidiu:
+
+“Nos casos em que a dúvida sobre a competência legislativa recai sobre norma que abrange
+mais de um tema, deve o intérprete acolher interpretação que não tolha a competência que
+detêm os entes menores para dispor sobre determinada matéria (presumption against
+preemption). Porque o federalismo é um instrumento de descentralização política que visa
+realizar direitos fundamentais, se a lei federal ou estadual claramente indicar, de forma adequada,
+
+1
+ TAVARES, André Ramos. Curso de Direito Constitucional. São Paulo: Saraiva, 2015. p. 878.
+2
+ O caso mais famoso é a Alemanha, que inclusive promoveu uma reforma constitucional para tentar minorar alguns
+desses inconvenientes da cooperação entre os níveis federativos. KOMMERS, Donald P.; MILLER, Russell A. The
+Constitutional Jurisprudence of the Federal Republic of Germany. Durham: Duke, 2012. pp. 138 e seguintes.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                8
+          www.estrategiaconcursos.com.br                                                                   74
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 09
+
+
+
+necessária e razoável, que os efeitos de sua aplicação excluem o poder de complementação que
+detêm os entes menores (clear statement rule), é possível afastar a presunção de que, no âmbito
+regional, determinado tema deve ser disciplinado pelo ente menor. Na ausência de norma
+federal que, de forma nítida (clear statement rule), retire a presunção de que gozam os entes
+menores para, nos assuntos de interesse comum e concorrente, exercerem plenamente sua
+autonomia, detêm Estados e Municípios, nos seus respectivos âmbitos de atuação, competência
+normativa.”3.
+
+
+
+
+                                                           ==5460==
+
+
+
+
+Exemplos de aplicação do critério da subsidiariedade:
+
+- Emitir moeda:
+
+Municípios têm condição de exercer? Não.
+
+Estados têm condição de exercer? Não.
+
+Competência da União (art. 21, VII).
+
+- Transporte urbano de passageiros:
+
+Municípios têm condição de exercer? Sim.
+
+Competência municipal (art. 30, V).
+
+- Transporte rodoviário intermunicipal (de um Município de um Estado para outro Município do
+mesmo Estado) de passageiros
+
+Municípios têm condição de exercer? Não.
+
+Estados têm condição de exercer? Sim.
+
+Competência estadual (art. 25, § 1º).
+
+– Transporte rodoviário interestadual e internacional de passageiros:
+
+Municípios têm condição de exercer? Não.
+
+Estados têm condição de exercer? Não.
+
+
+3
+    STF, Pleno, RE n. 194.704, redator para o acórdão Ministro Edson Fachin.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   9
+          www.estrategiaconcursos.com.br                                                       74
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 09
+
+
+
+Competência da União (art. 21, XII, e).
+
+Nesse sentido, também, o STF já decidiu o seguinte: “Os Estados-membros são competentes
+para explorar e regulamentar a prestação de serviços de transporte intermunicipal. (...) A
+prestação de transporte urbano, consubstanciando serviço público de interesse local, é matéria
+albergada pela competência legislativa dos Municípios, não cabendo aos Estados-membros
+dispor a seu respeito”4.
+
+
+
+
+(Cespe/CNJ/Analista Judiciário – Área Judiciária/2013) De acordo com o princípio da
+subsidiariedade, a autoridade estatal mais afastada da comunidade apenas poderá atuar quando
+a esfera de poder inferior não tiver condições de desempenhar suas funções eficazmente.
+
+Comentários:
+
+É a definição do princípio da subsidiariedade.
+
+Gabarito: Correto
+
+
+
+
+A decisão de dar ou não uma competência a um ente federativo, embora tenha sido orientada
+pelos critérios da subsidiariedade e da predominância do interesse, é também uma decisão
+política. Por isso, às vezes o constituinte fugiu desses princípios. É o caso, por exemplo, da tarefa
+de organizar e manter a Polícia Civil do DF, a Polícia Penal do DF (EC n. 104/2019), a Polícia
+Militar do DF, o Corpo de Bombeiros Militar do DF, o Judiciário no DF e o Ministério Público do
+DF. Pela lógica, a competência deveria ser do próprio DF; mas, por critérios históricos e políticos,
+essas tarefas foram deixadas para a União (art. 21, XIII e XIV).
+
+
+
+
+4
+    STF, Pleno, ADI n. 2.349, rel. min. Eros Grau.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      10
+          www.estrategiaconcursos.com.br                                                          74
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+Desde a EC n. 69/2012, a tarefa de manter e organizar a Defensoria Pública do DF não é mais da
+União, e sim do próprio DF!
+
+
+
+
+Cuidado, porém: embora sejam organizadas, custeadas e mantidas pela União, as polícias do DF
+e o Corpo de Bombeiros Militar do DF são subordinados ao governador do DF, não ao
+Presidente da República, por aplicação do art. 144, § 6º, da CF.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   11
+        www.estrategiaconcursos.com.br                                                       74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+                           CLASSIFICAÇÃO DAS COMPETÊNCIAS
+A partir de agora, é hora de estudar como as competências são classificadas, isto é, como elas
+podem ser categorizadas: quanto à matéria (em competências administrativas ou legislativas) e
+quanto à titularidade (em competências privativas, exclusivas, reservadas, comuns e
+concorrentes).
+
+
+Classificação das Competências quanto à Matéria (Conteúdo)
+
+Competências materiais (administrativas)
+São atribuições para fazer algo, para desempenhar determinada atividade, para explorar um
+serviço público. Ex.: competência para manter o serviço educacional; competência dos Estados
+para explorarem o serviço de gás natural canalizado. Na CF, geralmente são previstas na forma
+de verbos (explorar, autorizar, emitir etc.).
+
+Competências legislativas
+São as competências para legislar sobre determinada matéria, para normatizar determinado ramo
+do Direito (Civil, Penal, Financeiro, Desapropriação). São competências por meio das quais se
+atribui a um ente federativo que possa editar leis (ordinárias ou complementares) sobre um
+determinado assunto.
+
+
+
+
+Geralmente (mas nem sempre!) as competências materiais (administrativas) e legislativas são
+atribuídas de forma conjunta ao mesmo ente federativo, de modo que é bastante frequente se
+atribuir, por exemplo, à União explorar o serviço de telecomunicações (leiloando frequências,
+fiscalizando a prestação do serviço, celebrando contratos de concessão, etc.) e também legislar
+sobre esse assunto (editar a lei que estabelece o marco regulatório do setor). Todavia, isso não
+ocorre 100% das vezes: há situações em que a competência para legislar sobre o tema é da
+União, mas a prestação do serviço cabe a outros entes federativos, por exemplo.
+
+
+                Tema                        Legislar (editar a legislação              Explorar (prestar o serviço)
+                                                    setorial)
+
+
+        Telecomunicações                                 União                                   União
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       12
+        www.estrategiaconcursos.com.br                                                                           74
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 09
+
+
+
+
+                 Energia                                   União                                     União
+
+
+               Educação                          Concorrente (U/E/DF)                           Comum de todos
+
+
+                  Saúde                          Concorrente (U/E/DF)                           Comum de todos
+
+
+              Trânsito                                   União                          Comum (dependendo do
+                                                                                              aspecto)
+
+
+    Transporte de passageiros                            União                                    Depende
+
+
+         Desapropriação                                  União                                 Comum de todos
+
+
+Quanto à titularidade
+Aqui se analisa quem é o titular da competência e em que regime se dá essa titularidade. Nesse
+sentido, as competências são classificadas quanto a quem é o titular (apenas um ente federativo,
+ou vários ao mesmo tempo), quanto à previsão (competências expressas ou implícitas) e quanto à
+possibilidade ou não de delegação.
+
+O sistema brasileiro de repartição de competências é influenciado, simultaneamente, pelos
+modelos americano (repartição horizontal de competências), alemão (repartição de vertical de
+competências)1 e indiano (previsão exaustiva de competências)2.
+
+No sistema de repartição horizontal de competências (modelo americano), são atribuídas
+competências para cada nível federativo atuar sozinho. Em geral, enumeram-se as competências
+de um ente e as dos demais são deixadas implícitas. No caso brasileiro, tal sistema foi adotado
+quando se instituíram competências exclusivas, privativas e reservadas/remanescentes.
+
+Por outro lado, no sistema de repartição vertical de competências (modelo alemão), tem-se a
+cooperação (no sentido original da palavra: operação conjunta) dos entes federativos
+(competências atribuídas à União e aos Estados – concorrentes; ou à União, aos Estados e aos
+Municípios – competências comuns).
+
+Já no sistema das competências exaustivas (sistema indiano), são enumeradas todas as
+competências de todos os entes federativos, prevendo-se que as possíveis omissões caberão a
+algum dos níveis (sistema adotado no Brasil na repartição de competências tributárias).
+
+
+
+1
+    SILVA, José Afonso da. Curso de Direito Constitucional Positivo. São Paulo: Malheiros, 2006. p. 477.
+2
+    KANTH, T. Krishna; KUMARI, K. Lalita. Indian Federalism: its dynamics and salient features: a comparative analysis.
+    In: RAMOS, Dircêo Torrecillas. O federalista atual. Belo Horizonte: Arraes, 2013. p. 563.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                        13
+          www.estrategiaconcursos.com.br                                                                            74
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+Questão de Concurso
+
+(FCC/DPE-PR/Defensor/2017) A repartição horizontal de competências se dá quando, observada
+a inexistência de hierarquia e respeitada a autonomia dos entes federados, outorgam-se
+competências concorrentes entre a União, os Estados, o Distrito Federal e Municípios.
+
+Comentários:
+
+As competências concorrentes (que, ademais, em regra não incluem os Municípios, como adiante
+se comentará) representam a adoção da técnica da repartição vertical, e não horizontal.
+
+Gabarito: Errado
+
+
+
+Questão de Concurso
+
+(Cespe/SEFAZ-AL/Auditor/2020) A passagem do sistema dual para o sistema cooperativo
+caracteriza a evolução do federalismo no Brasil.
+
+Comentários:
+
+A necessidade de cooperação entre os entes, de atuação conjunta, é o que caracteriza o
+chamado federalismo cooperativo (entes cooperando, operando juntos), em oposição ao clássico
+federalismo dual, em que os entes federativos atuam de forma separada, isolada. Assim, por
+exemplo, o federalismo americano se baseia-se na ideia de que União e Estados possuem
+competências distintas, separadas, ao passo que o federalismo de modelo alemão exige que os
+entes cooperem, atuem em conjunto. O Brasil evoluiu de um federalismo puramente dual (na
+Constituição de 1891) para um federalismo cooperativo, reforçado com a previsão de diversas
+competências comuns na CF de 1988.
+
+Gabarito: Correto
+
+Competências atribuídas a um só nível federativo (só União, só Estados ou só
+municípios) – repartição horizontal de competências
+
+Aqui se tem a chamada técnica da repartição horizontal de competências, inspirada nos EUA, em
+que se atribuem competências a um só nível federativo, com exclusão dos demais. Ou seja, aqui
+se tem a lógica de “Cada um na sua”, influenciada pelo chamado federalismo dual (competição
+entre os entes federativos).
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   14
+        www.estrategiaconcursos.com.br                                                       74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Competências exclusivas
+
+São competências atribuídas a um só nível federativo, de forma enumerada (explícita) e
+indelegável – não podem ser delegadas a outros entes federativos, em virtude de não existir
+autorização constitucional para tanto. Ex.: competência da União para emitir moeda;
+competência dos Municípios para legislarem sobre assuntos de interesse local.
+
+
+
+
+Atenção!
+
+No âmbito da União, as competências exclusivas são todas elas materiais, administrativas. Isso,
+porém, não se repete na esfera estadual (há competências estaduais legislativas e exclusivas: por
+exemplo – criar regiões metropolitanas, mediante lei complementar) nem municipal (as
+competências legislativas dos Municípios são indelegáveis – e, portanto, exclusivas).
+
+
+
+
+Veja Bem!
+
+Quando se diz que determinada competência é indelegável, fala-se da titularidade do serviço,
+que não pode ser transferida a outro ente federativo. A execução do serviço pode, sim, ser
+delegada, mediante concessão, permissão ou autorização – precedida, nos dois primeiros casos,
+de licitação, nos termos do art. 175 da CF.
+
+
+
+
+Ao contrário do direito administrativo, em que a regra é a delegabilidade (ou seja, uma
+competência pode ser delegada, a menos que haja proibição), no direito constitucional a regra é
+a indelegabilidade de competências, isto é: uma competência só pode ser delegada quando isso
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     15
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+for expressamente previsto na CF. No atual texto, só é prevista a delegabilidade das
+competências legislativas privativas da União (art. 22), adiante estudadas.
+
+Competências privativas
+
+São também atribuídas a um só ente federativo, de forma enumerada (explícita), só que
+delegáveis (transferíveis parcialmente por meio de lei complementar). Ex.: competência da União
+para legislar sobre Direito Civil, Penal, Eleitoral, entre outros.
+
+Nesses casos, a competência originária é apenas e tão somente da União; se um Estado ou o DF
+legislar sobre aquele tema, a lei estadual ou distrital será inconstitucional; contudo, a União pode
+delegar aos Estados e ao DF (mas não há previsão expressa de delegação aos municípios) a
+competência para legislarem sobre questões específicas das hipóteses listadas no art. 22 da CF.
+Essa delegação se faz por lei complementar. É ato discricionário (a União delega se quiser) e
+revogável (a União pode retomar a competência quando quiser, editando uma nova lei
+complementar).
+
+
+
+
+Questões de Concurso
+
+(Cespe/MPE-TO/Promotor/2012) A repartição de competências entre as entidades que
+compõem o Estado federal é baseada no princípio geral da predominância do interesse. As
+matérias objeto da competência legislativa privativa da União podem ser delegadas aos estados
+e ao DF, desde que a delegação seja feita por lei ordinária federal.
+
+Comentários:
+
+A delegação precisa ser feita por lei complementar, e não ordinária.
+
+Gabarito: Errado
+
+
+
+(Cespe/MPE-AC/Promotor/2014) O princípio geral que norteia a repartição de competência
+entre os entes federativos é o da predominância do interesse, em decorrência do qual seria
+inconstitucional delegação legislativa que autorizasse os estados a legislar sobre questões
+específicas das matérias de competência privativa da União.
+
+Comentários:
+
+Ao contrário do que se afirma, a possibilidade de delegação de competência não só é
+constitucional, como está expressamente prevista na CF (art. 22, parágrafo único).
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       16
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Gabarito: Errado
+
+
+
+
+Na CF, somente a União possui competências privativas (delegáveis). Não há, portanto,
+competências privativas estaduais, distritais ou municipais.
+
+
+
+
+A delegabilidade diz respeito não à competência “por inteiro”, mas sim apenas em relação a
+questões específicas dentro daquele assunto. Assim, por exemplo, a União não pode delegar aos
+Estados fazerem o próprio Código Penal, mas pode (mediante lei complementar) autorizá-los a
+legislar sobre o crime específico de apropriação indébita de contribuição previdenciária.
+
+
+
+
+De acordo com a doutrina, a União, se resolver delegar uma determinada competência
+legislativa, não pode fazê-lo em relação a apenas alguns Estados, sob pena de violar a vedação
+federativa do inciso III do art. 19 da CF (proibição de dar tratamento diferenciado aos entes
+federativos). Em suma: no âmbito das competências legislativas privativas, a União ou delega
+para todos, ou não delega para ninguém.
+
+Esse aspecto já foi cobrado em prova de concurso (Cespe/TCDF/Procurador/2013).
+
+Competências reservadas ou remanescentes
+
+São competências implícitas (remanescentes) e atribuídas aos estados. A CF enumera as
+competências federais e municipais, as restantes serão estaduais (art. 25, § 1º), seja em relação
+às competências materiais (administrativas), seja em relação às competências legislativas.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     17
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Por exemplo: a CF não cita quem deve ser o responsável pelo transporte rodoviário
+intermunicipal de passageiros. Se não fala, a competência é estadual, por implicitude (está
+reservada aos Estados).
+
+
+
+
+Veja, por exemplo, esta questão de concurso:
+
+(FCC/AL-SE/Analista Legislativo – área processo legislativo/2018) São reservadas aos Estados as
+competências que não lhes sejam vedadas pela Constituição da República.
+
+Gabarito comentado: Correto (CF, art. 25, § 1º).
+
+
+
+
+Para a maioria dos autores (e das bancas de concurso), essas competências podem também ser
+chamadas de residuais.
+
+
+Competências atribuídas a mais de um nível (União, Estados, DF e Municípios ou
+União, Estados e DF)
+
+Aqui, a utilização é da técnica da repartição vertical de competências, de inspiração alemã, e em
+que há uma competência dada simultaneamente a mais de um nível federativo (aplicando-se as
+técnicas do federalismo cooperativo). Também é referida por vezes como a lógica do
+“condomínio legislativo”, pois mais de um ente federativo tem domínio sobre a legislação
+naquele tema.
+
+Competências comuns (art. 23)
+
+São competências materiais (administrativas) de todos os entes ao mesmo tempo,
+simultaneamente. Trazem para todos os entes federativos uma obrigação solidária (comum) de
+efetivar as competências, de modo que a omissão de um não desobriga os demais de cumprirem
+completamente a obrigação. A CF atribui como competências comuns funções importantes, tais
+como saúde, educação, preservação do meio ambiente, do patrimônio histórico e cultural.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    18
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+O STF possui entendimento consolidado de que, nas matérias de competência comum (art. 23),
+eventual demanda judicial exigindo o cumprimento de obrigações do poder público pode ser
+ajuizada contra qualquer dos entes federativos, à escolha do autor da ação (chama-se, em termos
+processuais, um caso de litisconsórcio passivo – mais de uma pessoa entre os réus da demanda –
+facultativo. Isso acontece porque, como a obrigação de implementar as competências do art. 23
+é de todos os entes da federação, solidariamente, o inadimplemento pode ser cobrado de
+qualquer dos “devedores” (e o ente federativo demandado pode, depois, buscar ressarcimento
+junto aos demais, se for o caso). Esse tema já foi cobrado na prova FGV/DPE-MS/Defensor/2022.
+
+Competências concorrentes (art. 24)
+
+São as competências legislativas atribuídas em conjunto à União, aos Estados e ao DF
+(municípios, em regra, não). Trata-se do método alemão das chamadas “competências-quadro”,
+de inspiração alemã, em que a União legisla sobre normas gerais, diretrizes (quadro), e os
+Estados e o DF legislam sobre normas específicas (competência suplementar). Difere da
+competência comum porque, na legislação concorrente, cada ente atua em uma esfera
+específica. Inexistindo norma federal, os Estados e o DF exercem a competência legislativa plena,
+isto é, na omissão federal, os Estados legislam sobre normas específicas e gerais.
+
+
+
+
+Veja, por exemplo, esta questão de concurso:
+
+(Cespe/SEFAZ-AL/Auditor/2020) Diante da inexistência de lei federal pertinente, os estados
+possuem capacidade plena para legislar sobre normas gerais em direito tributário.
+
+Comentários:
+
+A competência para legislar sobre direito tributário é concorrente (CF, art. 24, I). Assim sendo,
+caso não exista lei federal sobre normas gerais, abre-se aos Estados a possibilidade de exercerem
+a competência legislativa plena (CF, art. 24, § 3º), pelo menos até que sobrevenha a lei federal
+sobre normas gerais (CF, art. 24, § 4º).
+
+Gabarito: Correto
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    19
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+Caso, depois, sobrevenha lei federal, as leis estaduais que veiculem normas gerais ficam com a
+eficácia suspensa, se forem contrárias às normas gerais da União. Perceba-se que a lei federal
+não revoga nem anula a lei estadual. Não anula porque a lei estadual não possuía qualquer
+defeito ou vício; não revoga a lei porque só uma lei estadual pode revogar outra lei estadual. A
+lei apenas fica com a eficácia e a executoriedade suspensas, enquanto houver normas gerais da
+União que lhe sejam contrárias.
+                                                         ==5460==
+
+
+
+
+E se a lei da União for revogada e não for substituída por outra? A lei estadual volta a valer, pois
+voltou a existir a omissão federal. Trata-se de repristinação? Não, pois a repristinação é a volta da
+lei revogada, e a lei estadual estava apenas suspensa.
+
+
+
+
+A principal diferença entre as competências comuns (art. 23) e as concorrentes (art. 24) é que as
+comuns são competências materiais (administrativas), ao passo que as concorrentes são
+competências legislativas. Assim, por exemplo, cuidar do meio ambiente é competência comum,
+enquanto legislar sobre meio ambiente é competência concorrente.
+
+Além disso, as competências comuns são de todos os entes, ao passo que as competências
+concorrentes não incluem, em regra, os Municípios.
+
+
+
+
+(Cespe/TRE-PA/Analista Judiciário – área administrativa/2017) A respeito das competências dos
+entes federados, assinale a opção correta
+
+a) Inexistindo lei federal sobre normas gerais, os estados exercerão a competência legislativa
+residual para atender às suas peculiaridades
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        20
+        www.estrategiaconcursos.com.br                                                            74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+b) A eficácia de lei estadual vigente não será suspensa na hipótese de superveniência de lei
+federal sobre normas gerais, mesmo que a lei federal traga disposições contrárias à lei estadual
+
+c) Compete privativamente à União zelar pela guarda da CF, das leis e das instituições
+democráticas
+
+d) A competência da União para legislar sobre normas gerais afasta a competência suplementar
+dos estados
+
+e) No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer
+normas gerais.
+
+Comentários:
+
+A alternativa “A” está errada porque a competência dos estados para, no âmbito da
+competência concorrente, adaptar as normas gerais às suas peculiaridades independe de
+omissão da União (CF, art. 24, § 2º). Já a letra “B” contraria o que dispõe o § 4º do art. 24 da CF
+(a superveniência de lei federal sobre normas gerais suspende, sim, a eficácia da lei estadual, no
+que houver contrariedade). A letra “C” está errada porque essa competência é comum de todos
+os entes da Federação, e não exclusiva da União (CF, art. 23, I). Finalmente, na letra “D”, há uma
+total contrariedade ao que dispõe o § 2º do art. 24 da CF. A alternativa “E” repete o § 3º do art.
+24 da CF, e está, portanto, correta.
+
+Gabarito: E
+
+
+
+
+Os Municípios podem participar das competências concorrentes de forma extraordinária, mas
+apenas nas matérias em que tenham peculiar interesse (tributos, direito urbanístico, mas não
+matérias judiciárias ou policiais, por exemplo) e, ainda assim, de forma suplementar à União e aos
+Estados (CF, art. 30, II) – isto é, se “sobrar” algum espaço de atuação.
+
+Foi o que decidiu o STF, em recurso extraordinário com repercussão geral: “O Município é
+competente para legislar sobre meio ambiente com União e Estado, no limite de seu interesse
+local e desde que tal regramento seja e harmônico com a disciplina estabelecida pelos demais
+entes federados (art. 24, VI, c/c 30, I e II, da CRFB)” (STF, Pleno, RE n. 586.224, rel. min. Luiz Fux).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)           21
+        www.estrategiaconcursos.com.br                                                               74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+Distinções de competências quanto à titularidade:
+
+
+                                         EXPLÍCITA                           Delegável: PRIVATIVA
+
+                                         (enumerada)                         Indelegável: EXCLUSIVA
+
+
+
+                                                                             Estados-membros:
+                     UM SÓ
+                                                                             RESERVADA/REMANESCENTE
+                     ENTE
+
+                                         IMPLÍCITA
+                                                                             União (matéria tributária):
+
+COMPETÊNCIA                                                                  RESIDUAL (cobrada em Direito
+                                                                             Tributário)
+
+
+
+                                                                             União: NORMAS GERAIS
+                                         Cada um com uma tarefa:
+                                                                             Estados/DF: NORMAS
+                                         CONCORRENTE
+                     MAIS DE                                                 ESPECÍFICAS
+
+                     UM ENTE
+                                         Responsabilidade compartilhada: COMUM
+
+                                         (União/Estados/DF/Municípios)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                  22
+        www.estrategiaconcursos.com.br                                                                      74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Classificação das competências
+
+
+Dispositiv                                      Classificação quanto à              Classificação
+               Titular
+o (artigo)                                      matéria                             quanto à titularidade
+
+
+21             União                            Material                            Exclusiva (indelegável)
+
+
+
+22             União                            Legislativa                         Privativa (delegável aos
+                                                                                    Estados, mediante lei
+                                                                                    complementar – art. 22,
+                                                                                    parágrafo único)
+
+
+
+23             União, Estados, DF e             Material                            Comum
+               Municípios
+
+
+
+24             União, Estados e DF              Legislativa                         Concorrente
+
+
+
+25, § 1º       Estados                          Legislativa e Material              Reservada/Remanescente
+
+
+
+25, § 2º       Estados                          Material                            Exclusiva
+
+
+
+25, § 3º       Estados                          Legislativa                         Exclusiva
+
+
+
+30             Municípios                       Legislativa e Material              Exclusiva
+
+
+
+154, I         União                            Legislativa                         Residual
+
+
+
+153            União                            Legislativa                         Exclusiva (matéria tributária)
+
+
+
+155            Estados                          Legislativa                         Exclusiva (matéria tributária)
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                          23
+         www.estrategiaconcursos.com.br                                                                              74
+
+                                       https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+Dispositiv                                     Classificação quanto à              Classificação
+              Titular
+o (artigo)                                     matéria                             quanto à titularidade
+
+
+156           Municípios                       Legislativa                         Exclusiva (matéria tributária)
+
+
+
+156-A         Estados e Municípios             Legislativa                         Exclusiva (matéria tributária)
+
+
+
+
+Alguns estudiosos – assim como, por conseguinte, algumas provas de concursos – costumam
+fazer a distinção entre leis nacionais e leis (meramente) federais. Leis nacionais são aquelas
+editadas pela União, mas que se aplicam a todos os demais entes da Federação (ex.: Lei de
+Improbidade Administrativa – Lei n. 8.429/92), ao passo que as leis (meramente) federais são
+aquelas editadas pela União, mas que se aplicam apenas na própria esfera federal (ex.: Lei de
+Processo Administrativo Federal – Lei n. 9.784/99; Lei n. 8.112/90, que institui o regime jurídico
+dos servidores públicos da União).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                          24
+        www.estrategiaconcursos.com.br                                                                              74
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 09
+
+
+
+
+CASUÍSTICA (JURISPRUDÊNCIA: AS HIPÓTESES MAIS COBRADAS DE
+               REPARTIÇÃO DE COMPETÊNCIAS)
+
+Passaremos, agora, a estudar os principais casos de repartição de competências, à luz da
+jurisprudência do STF, sempre tendo em vista aquelas situações mais exploradas em provas
+objetivas de concursos.
+
+Claro que é impossível mapear todos os casos julgados pelo STF; contudo, têm mais
+probabilidade de cair os casos mais recentes e os mais clássicos. Por isso, fiz esse mapeamento
+para você, que resume em teses mais de 400 julgados do STF:
+
+
+Legislar sobre Direito Civil, Penal, Processual, Comercial, do
+Trabalho, Agrário, Marítimo, Aeronáutico e Espacial
+
+Trata-se de vários ramos do Direito cuja legislação é atribuída de forma privativa (delegável) à
+União (art. 22, I).
+
+Direito Processual x procedimentos em matéria processual
+Compete privativamente à União legislar sobre direito processual (ações, competência, recursos,
+prazos, provas etc.) – art. 22, I1 – ao passo que é competência concorrente da União e dos
+Estados legislar sobre procedimentos em matéria processual (art. 24, XI: basicamente, regras
+sobre tempo e lugar dos atos processuais, em que a União estabelece as normas gerais, e os
+Estados adaptam às suas especificidades). Registre-se, porém, que a própria distinção entre
+“direito processual” e “procedimentos em matéria processual” já é, por si só, objeto de algumas
+perplexidades. Ademais, é por vezes dificultoso identificar, na legislação federal, quais são as
+normas sobre direito processual – e que são privativas da União – e aquelas que trazem normas
+gerais sobre procedimentos – e em relação às quais os Estados podem produzir normatização
+específica. A doutrina, aliás, reconhece que há uma certa “discricionariedade judicial” em
+enquadrar uma competência como “direito processual” ou como “procedimentos em matéria
+processual”2.
+
+Segundo a Corte, por exemplo, os Estados não invadem competência da União ao editarem
+legislação suplementar sobre inquérito, ou ao apenas indicar como determinado processo
+existente será executado3. Por outro lado, há vasta jurisprudência do STF declarando a
+
+1
+    Nem sempre foi assim, contudo, durante toda a Primeira República, cabia aos Estados legislar – com
+    exclusividade – sobre Direito Processual. ROSAS, Roberto. Direito Processual Constitucional. São Paulo: RT, 1997.
+    p. 34. Autores de renome, inclusive, defendem o retorno a esse regime jurídico: FERREIRA FILHO, Manoel
+    Gonçalves. Comentários à Constituição Brasileira de 1988. v. 1. São Paulo: Saraiva, 1990. p. 171.
+2
+    TAVARES, André Ramos. Aporias acerca do “condomínio legislativo” no Brasil: uma análise a partir do STF.
+    Revista Brasileira de Estudos Constitucionais (RBEC). Belo Horizonte, ano 2, n. 6, abr./jun. 2008.
+3
+    “(...) A legislação que disciplina o inquérito policial não se inclui no âmbito estrito do processo penal, cuja
+    competência é privativa da União (art. 22, I, CF), pois o inquérito é procedimento subsumido nos limites da
+    competência legislativa concorrente, a teor do art. 24, XI, da Constituição Federal de 1988, tal como já decidido
+    reiteradamente pelo Supremo Tribunal Federal. (...) (Ação Direta de Inconstitucionalidade – ADI n. 2.886, Relator:
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       25
+          www.estrategiaconcursos.com.br                                                                           74
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 09
+
+
+
+inconstitucionalidade de leis estaduais que teriam invadido a competência privativa da União
+sobre direito processual. Pode-se até afirmar que o Pretório Excelso é restritivo quanto ao que
+seria a competência estadual e distrital para legislar sobre procedimentos em matéria processual.
+A título de exemplo, podemos mencionar leis estaduais sobre: processo e julgamento de crimes
+de responsabilidade; nova hipótese de prioridade de tramitação processual; uso de
+videoconferência para interrogatório do réu4.
+
+
+
+
+    Min. Eros Grau, Relator para Acórdão: Min. Joaquim Barbosa, Tribunal Pleno, julgado em 3-4-2014, DJe
+                                                           ==5460==
+
+
+
+
+    4-8-2014) (...) O Estado do Rio de Janeiro disciplinou a homologação judicial de acordo alimentar nos casos
+    específicos em que há participação da Defensoria Pública, não estabelecendo novo processo, mas a forma como
+    este será executado. Lei sobre procedimento em matéria processual. 4. A prerrogativa de legislar sobre
+    procedimentos possui o condão de transformar os Estados em verdadeiros ‘laboratórios legislativos’. Ao
+    conceder-se aos entes federados o poder de regular o procedimento de uma matéria, baseando-se em
+    peculiaridades próprias, está a possibilitar-se que novas e exitosas experiências sejam formuladas. Os Estados
+    passam a ser partícipes importantes no desenvolvimento do direito nacional e a atuar ativamente na construção
+    de possíveis experiências que poderão ser adotadas por outros entes ou em todo território federal. (...)” (ADI n.
+    2.922, Relator: Min. Gilmar Mendes, Tribunal Pleno, j. em 3-4-2014, DJe 29-10-2014).
+4
+    “(...) 1. A competência para dispor legislativamente sobre processo e julgamento por crimes de responsabilidade
+    é privativa da União, que o fez por meio da Lei 1.079/50, aplicável aos Governadores e Secretários de Estado,
+    razão pela qual são inconstitucionais as expressões dos arts. 54 e 89 da Constituição do Estado do Paraná que
+    trouxeram disciplina discrepante na matéria, atribuindo o julgamento de mérito de imputações do tipo à
+    Assembleia Legislativa local. Precedentes. (...) (Ação Direta de Inconstitucionalidade – ADI n. 4.791, Relator: Min.
+    Teori Zavascki, Tribunal Pleno, j. em 12-2-2015, DJe 23-4-2015). (...) Fixação de nova hipótese de prioridade, em
+    qualquer instância, de tramitação processual para as causas em que for parte mulher vítima de violência
+    doméstica. Vício formal. Procedência da ação. 1. A definição de regras sobre a tramitação das demandas judiciais
+    e sua priorização, na medida em que reflete parte importante da prestação da atividade jurisdicional pelo
+    Estado, é aspecto abrangido pelo ramo processual do Direito, cuja positivação foi atribuída pela Constituição
+    Federal privativamente à União (art. 22, I, CF/88). 2. A lei em comento, conquanto tenha alta carga de relevância
+    social, indubitavelmente, ao pretender tratar da matéria, invadiu esfera reservada da União para legislar sobre
+    direito processual. 3. A fixação do regime de tramitação de feitos e das correspondentes prioridades é matéria
+    eminentemente processual, de competência privativa da União, que não se confunde com matéria procedimental
+    em matéria processual, essa, sim, de competência concorrente dos estados-membros. 4. O Supremo Tribunal
+    Federal, por diversas vezes, reafirmou a ocorrência de vício formal de inconstitucionalidade de normas estaduais
+    que exorbitem de sua competência concorrente para legislar sobre procedimento em matéria processual,
+    adentrando aspectos típicos do processo, como competência, prazos, recursos, provas, entre outros.
+    Precedentes. 5. Ação julgada procedente. (ADI n. 3.483, Relator: Min. Dias Toffoli, Tribunal Pleno, julgado em
+    3-4-2014, DJ 14-5-2014). A exigência de depósito recursal prévio aos recursos do juizado especial cível, criada
+    pelo art. 7º da Lei estadual (AL) 6.816/2007, constitui requisito de admissibilidade do recurso, tema próprio de
+    direito processual civil, e não de ‘procedimentos em matéria processual’ (art. 24, XI, CF). Medida cautelar
+    deferida para suspender a eficácia do art. 7º, caput, e respectivos parágrafos, da Lei 6.816/2007 do Estado de
+    Alagoas (ADI 4.161MC, Rel. Min. Menezes Direito, julgamento em 29/10/2008, Plenário, DJe de 17-4-2009). (...)
+    Processual penal e constitucional. Interrogatório do réu. Videoconferência. Lei n. 11.819/05 do Estado de São
+    Paulo. Inconstitucionalidade formal. Competência exclusiva da União para legislar sobre matéria processual. Art.
+    22, I, da Constituição Federal. 1. A Lei n. 11.819/05 do Estado de São Paulo viola, flagrantemente, a disciplina do
+    art. 22, inciso I, da Constituição da República, que prevê a competência exclusiva da União para legislar sobre
+    matéria processual. 2. Habeas corpus concedido. (HC n. 90.900, Relator: Min. Ellen Gracie, Relator para Acórdão:
+    Min. Menezes Direito, Tribunal Pleno, j. em 30-10-2008, DJe 22-10-2009)”. [grifamos].
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                         26
+          www.estrategiaconcursos.com.br                                                                             74
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+O “direito processual” que é de competência legislativa privativa da União refere-se apenas ao
+processo judicial (civil, penal, trabalhista, eleitoral, etc.), já que a competência para legislar sobre
+processo administrativo (assim como para legislar sobre direito administrativo, em geral, salvo
+quando a CF dispuser de forma específica) é de cada ente federativo, no uso de sua autonomia
+federativa (CF, art. 18, caput).
+
+Direito do Trabalho
+
+As normas de direito do trabalho devem ser nacionalmente unificadas. Há, porém, a
+possibilidade de a União, mediante lei complementar, autorizar os Estados e o DF (delegar) a
+instituírem leis sobre questões específicas do tema.
+
+Ressalte-se: não pode a União delegar aos Estados elaborarem a própria CLT; pode, sim,
+atribuir-lhes o poder de legislar sobre algum ponto específico de direito do trabalho.
+
+Foi o que aconteceu com a Lei Complementar n. 103, de 2000: essa norma delegou aos Estados
+(e ao DF) a competência para legislarem sobre piso salarial, instituindo (se assim quiserem) a
+obrigatoriedade de ser pago piso salarial acima do salário-mínimo. É o que se chama, de forma
+juridicamente inadequada, de “salário-mínimo regional”.
+
+Veja essa questão de concurso:
+
+
+
+
+(Cespe/TRT7/Analista Judiciário – área administrativa/2017) Considere que determinado estado
+da Federação tenha editado lei estadual fixando o piso salarial de determinada categoria
+profissional do estado. A respeito da competência estadual para legislar acerca da matéria em
+apreço, assinale a opção correta:
+
+a) O estado possui competência para legislar sobre o assunto, nos limites de delegação conferida
+por lei complementar federal.
+
+b) O estado possui competência concorrente com a União para legislar sobre o assunto,
+podendo legislar plenamente sobre o assunto até a superveniência de lei federal.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)           27
+        www.estrategiaconcursos.com.br                                                               74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+c) O estado possui competência de legislar sobre o assunto: trata-se de matéria reservada aos
+estados-membros.
+
+d) O estado não possui competência para legislar a respeito do assunto: a matéria é de
+competência legislativa exclusiva da União.
+
+Comentários:
+
+A competência privativa da União para legislar sobre direito do trabalho inclui a questão do piso
+salarial, que foi objeto da Lei Complementar n. 103, de 2000, que autoriza os Estados a
+legislarem sobre o assunto, nos termos do parágrafo único do art. 22 da CF.
+
+Gabarito: A
+
+
+
+
+De forma correlata, cabe privativamente à União legislar sobre a regulamentação de profissões
+(CF, art. 22, XVI), motivo pelo qual o STF considera formalmente inconstitucionais (invasão de
+competência da União) leis estaduais ou municipais que buscam regular condições para o
+exercício de uma profissão ou atividade.
+
+Ainda no âmbito do direito do trabalho, verifica-se que os Estados, DF e Municípios não podem
+legislar sobre o regime jurídico dos seus empregados públicos, já que estão sujeitos às regras
+trabalhistas, que são de competência legislativa privativa da União.
+
+
+
+
+Cada ente federativo pode legislar sobre o regime jurídico dos seus servidores estatutários
+(autonomia legislativa e administrativa), mas não sobre o regime jurídico dos seus empregados
+(matéria de competência legislativa privativa da União).
+
+Ainda dentro do direito do trabalho, destaca-se a competência privativa da União para legislar
+sobre os seguintes temas:
+
+a) jornada de trabalho
+
+b) regulamentação de profissões
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    28
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+c) empregados públicos celetistas
+
+d) salário-mínimo
+
+e) direitos e deveres dos empregados (ex.: revista íntima, estabilidade)
+
+f) criação de feriados
+
+g) estágio/programa jovem aprendiz
+
+h) obrigações de sindicatos
+
+Direito Civil
+
+A CF atribui à União a competência privativa para legislar sobre direito civil (CF, art. 22, I).
+Obviamente, essa competência é amplíssima, abrangendo tudo o que diga respeito diretamente
+a pessoas (naturais ou jurídicas), bens, negócios jurídicos, obrigações, contratos, direitos reais
+(posse, propriedade, usufruto etc.), família, sucessões...
+
+Um dos pontos mais importantes da jurisprudência do STF diz respeito à inconstitucionalidade de
+leis estaduais ou municipais sobre cobrança por vaga de estacionamento em shopping center,
+que invade a competência legislativa da União para legislar sobre direito civil (especificamente,
+sobre contratos).
+
+
+
+
+Questão de Concurso
+
+(Iades/CFM/Advogado/2018) A regulação de preço de estacionamento é matéria de direito civil,
+inserindo-se na competência privativa da União para legislar.
+
+Comentários:
+
+De acordo com a jurisprudência do STF, a definição sobre a cobrança por vaga de
+estacionamento é matéria de contratos – e, portanto, afeta ao Direito Civil, e submetida à
+competência privativa da União (CF, art. 22, I).
+
+Ainda dentro do direito civil, destacam-se os seguintes temas como todos de competência
+legislativa privativa da União:
+
+1.1) Contratos
+
+a) Planos de saúde (prazos, reajustes, coberturas, prescrições, exames)
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     29
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+b) recusa de matrícula de aluno inadimplente
+
+c) extensão de condições de alunos novos aos contratos antigos
+
+d) redução dos valores de mensalidades em virtude de pandemia
+
+e) cobrança por vaga de estacionamento em shopping
+
+f) coberturas de seguros
+
+1.2) Propriedade
+
+a) desapropriação
+
+b) obrigação de doar alimentos próximos ao vencimento
+
+c) isenção de pagamento por uso de obras por entidades filantrópicas (direitos autorais)
+
+d) uso de veículos apreendidos
+
+1.3) Família: caracterização e composição de entidades familiares
+
+Gabarito: Correto
+
+Direito Penal
+
+A definição de crimes e penas é matéria de competência legislativa privativa da União. Isso
+abrange os crimes propriamente ditos, mas também a definição das contravenções penais, a
+classificação dos delitos (crimes hediondos, crimes de menor potencial ofensivo etc.), e, de
+acordo com a jurisprudência do STF, até mesmo a definição dos crimes de responsabilidade
+(condutas autorizadoras de impeachment), mesmo que cometidas por autoridades
+estaduais/distritais/municipais (Súmula Vinculante 46).
+
+Nesse sentido, registre-se que a Lei (federal) n. 1.079, de 1950, define crimes de
+responsabilidade de várias autoridades, inclusive governadores e secretários de Estado, ao passo
+que o Decreto-lei (federal) n. 201, de 1967, define os crimes de responsabilidade dos prefeitos.
+
+
+
+
+Cuidado!!!
+
+Embora os crimes de responsabilidade (hipóteses autorizadoras de impeachment) não tenham
+natureza de infração penal propriamente dita, o STF, para fins de definição de competência
+legislativa, considera que tal atribuição é privativa da União, por estar inserida na competência
+federal para legislar sobre direito penal (Súmula Vinculante nº 46). Por conta disso, mesmo que se
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     30
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+trate de autoridades estaduais ou municipais, a definição das condutas qualificadas como crime
+de responsabilidade, bem como o estabelecimento das respectivas regras de processo e
+julgamento, competem apenas à União. Ainda que o julgamento (competência material) caiba a
+um ente estadual ou municipal, isso deve ser feito de acordo com a legislação federal a respeito.
+Isso é cobrado com muita frequência em provas de concursos públicos.
+
+Veja estas questões de concurso:
+
+
+
+
+(Cespe/TCE-PR/Auditor/2016) Será constitucional lei estadual que discipline os crimes de
+responsabilidade dos conselheiros do respectivo tribunal de contas, bem como o procedimento
+de sua apuração e de seu julgamento.
+
+Gabarito comentado: Errado (ver Súmula Vinculante 46).
+
+(Cespe/TRF1/Oficial de Justiça/2017) Compete exclusivamente à União legislar sobre normas de
+processo e de julgamento de crimes de responsabilidade.
+
+Gabarito comentado: Correto (ver Súmula Vinculante 46).
+
+Legislar sobre Direito Tributário, Econômico, Financeiro, Penitenciário, Urbanístico,
+Ambiental, Consumidor
+
+São todos casos de competência concorrente entre a União, os Estados e o DF.
+
+Com efeito, em todas essas matérias, a União fixará as diretrizes (normas gerais), ao passo que os
+Estados e o DF (e, se for pertinente, também os Municípios) estabelecerão as regras específicas
+para adaptarem a legislação de normas gerais às peculiaridades de cada lugar.
+
+Em matéria tributária, a União edita o Código Tributário Nacional, e cada unidade da federação
+edita sua legislação tributária específica (obedecida a repartição de competências legislativas
+tributárias: arts. 153 a 156 da CF).
+
+Também ocorre o mesmo em matéria de direito penitenciário (execução penal). Realmente,
+legislar sobre direito penal e processual penal é competência legislativa privativa da União (CF,
+art. 22, I), mas as regras sobre o cumprimento da pena são previstas em lei federal-nacional (a
+conhecida LEP – Lei de Execução Penal: Lei n. 7.210/84), cabendo aos Estados e ao DF
+(municípios aqui não legislam) estabelecer seu regulamento penitenciário específico.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     31
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Cuidar da natureza, da saúde, da educação, do patrimônio público, da construção
+de moradias
+
+Trata-se de uma competência comum de todos os entes federativos. Aplica-se aqui o princípio de
+que a redundância não prejudica (quanto mais entes atuando, melhor).
+
+
+
+
+Questão de Concurso
+
+(Cespe/MPE-ES/Promotor/2010) É da competência exclusiva da União promover programas de
+construção de moradias e a melhoria das condições habitacionais e de saneamento básico.
+
+Gabarito: Errado.
+
+Legislar sobre sistemas de consórcios e sorteios, inclusive bingos e loterias
+
+Compete privativamente à União legislar sobre sistemas de consórcios e sorteios (CF, art. 22, XX),
+inclusive sobre bingos e loterias (Súmula Vinculante 2).
+
+Vários Estados chegaram a editar legislações regulamentando bingos, pretensamente com base
+em sua competência legislativa reserva (remanescente). Todas elas foram declaradas
+inconstitucionais pelo STF, por invadirem competência legislativa da União. A quantidade de
+declarações de inconstitucionalidade foi tão grande que o STF se viu praticamente obrigado a
+editar uma súmula vinculante sobre o tema.
+
+Cuidado!!!
+
+O STF, posteriormente, passou a fazer o distinguishing (distinção do precedente) em relação à SV
+2 e à competência dos Estados para explorar bingos e loterias à luz da legislação editada pela
+União. Assim, cabe apenas à União a tarefa de legislar sobre bingos e loterias; nada impede, no
+entanto, que os Estados e o DF exerçam a competência residual (implícita) para explorar loterias,
+inclusive por meio da criação de empresas para explorar loterias estaduais.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     32
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+Questão de Concurso
+
+(Cespe/TCE-PB/Procurador/2014) Uma lei dispondo sobre sistemas de consórcio e sorteios,
+inclusive bingos e loterias, pode ser editada pela União, pelos estados ou pelo DF, em virtude da
+competência legislativa concorrente.
+
+Comentários:
+
+A competência não é concorrente, e, sim, privativa da União.
+
+Gabarito: Errado
+
+Fixar horário de funcionamento do comércio (em geral)
+
+
+
+
+De acordo com a Súmula Vinculante 38, “É competente o Município para fixar o horário de
+funcionamento de estabelecimento comercial”. Trata-se de decorrência do poder municipal para
+legislar sobre assuntos de interesse local (CF, art. 30, I).
+
+Isso, porém, não inclui a competência para legislar sobre horário de funcionamento de agências
+bancárias, como veremos.
+
+Fixar horário de funcionamento dos bancos
+
+Compete privativamente à União legislar sobre horário de funcionamento de agências bancárias
+(porque afeta o sistema financeiro nacional).
+
+Perceba-se que a legislação federal concede até mesmo uma certa flexibilidade para as agências
+definirem seus horários, mas isso sempre dentro das balizas fixadas pela própria legislação
+federal – não estadual nem municipal.
+
+
+
+
+Questões de Concurso
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    33
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 09
+
+
+
+(Cespe/TRF 5ª Região/Juiz Federal/2013) A definição do horário de funcionamento das
+instituições bancárias é da competência legislativa do município, por constituir matéria de
+interesse local.
+
+Comentários:
+
+Como afeta o sistema financeiro nacional, a competência é da União.
+
+Gabarito comentado: Errado
+
+
+
+(Cespe/TRF1/Oficial de Justiça/2017) As peculiaridades de cada cidade determinam a
+competência dos municípios para fixar horários de funcionamento de estabelecimentos
+comerciais e bancários.
+
+Comentários:
+
+Os Municípios podem legislar sobre horário de funcionamento do comércio (Súmula Vinculante
+38), mas não de estabelecimentos bancários.
+
+Gabarito comentado: Errado
+
+Estipular tempo máximo de espera em fila de banco (ou em cartório etc.)
+
+Competência exclusiva dos municípios (assunto de interesse local). Os precedentes do STF
+referem-se à fila (tempo máximo de atendimento) em agências bancárias5, mas a mesma lógica
+pode ser usada para justificar a competência municipal para legislar sobre tempo máximo de
+espera em fila de hospitais, de cartórios6 etc.
+
+
+
+
+Questão de Concurso
+
+(Cespe/Bacen/Procurador/2013) Os municípios não podem legislar sobre o período máximo de
+atendimento de clientes em instituições bancárias, sob pena de afronta à competência legislativa
+privativa da União e de conflito com as prerrogativas fiscalizadoras do Bacen.
+
+Gabarito: Errado
+
+
+5
+    STF, RE n. 610.211 (Repercussão Geral), Relatora Ministra Ellen Gracie.
+6
+    STF, RE n. 397.094/DF, Relator Ministro Sepúlveda Pertence.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   34
+          www.estrategiaconcursos.com.br                                                       74
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Exigir a instalação de equipamentos de segurança em agência bancária (detector
+de metais, porta giratória etc.)
+
+Compete exclusivamente aos Municípios (por ser assunto de interesse local: CF, art. 30, I) legislar
+sobre equipamentos de segurança em edificações, inclusive agências bancárias.
+
+Nesse sentido: “O Município pode editar legislação própria, com fundamento na autonomia
+constitucional que lhe é inerente (CF, art. 30, I), com o objetivo de determinar, às instituições
+financeiras, que instalem, em suas agências, em favor dos usuários dos serviços bancários
+(clientes ou não), equipamentos destinados a proporcionar-lhes segurança (tais como portas
+eletrônicas e câmaras filmadoras) ou a propiciar-lhes conforto, mediante oferecimento de
+instalações sanitárias, ou fornecimento de cadeiras de espera, ou, ainda, colocação de
+bebedouros” (Agravo Regimental no Agravo de Instrumento n. 347.717, rel. min. Celso de
+Mello).
+
+Explorar os serviços de gás canalizado
+
+Essa é uma competência estadual, nos termos do art. 25, § 2º. Trata-se de tema bastante
+cobrado em provas de concursos, especialmente por conta de uma falha redacional da CF:
+fala-se que cabe aos Estados explorar, diretamente ou mediante concessão (admite-se a
+delegação do serviço à iniciativa privada, mas não mediante contrato de permissão, apenas
+concessão), os serviços locais de gás canalizado. Ora, se os serviços fossem mesmo locais, a
+competência deveria ter sido dada aos Municípios, conforme expressamente prevê a própria CF
+(art. 30, I). Na verdade, onde se lê “serviços locais”, dever-se-ia ler “serviços regionais” de gás
+canalizado.
+
+De qualquer forma, a competência para a prestação de tal serviço é dos Estados.
+
+
+
+
+Questão de Concurso
+
+(MPE-MS/Promotor/2018) Cabe à União explorar os serviços de gás canalizado, na forma em que
+dispuser a lei.
+
+Comentários:
+
+A competência para a exploração desse serviço é estadual (CF, art. 25, § 2º).
+
+Gabarito: Errado
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      35
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+Legislar sobre trânsito e transporte
+
+A Constituição prevê que compete à União legislar, privativamente, sobre diretrizes da política
+nacional de transportes (art. 22, IX), trânsito e transporte (art. 22, XI).
+
+A jurisprudência do STF sobre normas estaduais que invadem o poder-dever da União de legislar
+sobre trânsito e transporte é vasta. Eis alguns exemplos de julgados que declararam a
+inconstitucionalidade de leis estaduais por tratarem da referida matéria: obrigatoriedade de
+instalação de cinto de segurança em veículos de transporte coletivo7; serviço de mototáxi8;
+disciplina sobre a colocação de barreiras eletrônicas9; e limites de velocidade nas rodovias
+estaduais10.
+
+
+
+
+Questão de Concurso
+
+(Cespe/Câmara dos Deputados/Policial Legislativo/2014) Será constitucional lei estadual que
+obrigue a instalação de cinto de segurança em veículos de transporte coletivo.
+
+Comentários:
+
+De acordo com a jurisprudência do STF, uma lei estadual com tal conteúdo invade a competência
+privativa da União para legislar sobre trânsito e transporte.
+
+
+7
+     “Ação direta de inconstitucionalidade. Lei 6.457/1993 do Estado da Bahia. Obrigatoriedade de instalação de
+     cinto de segurança em veículos de transporte coletivo. Matéria relacionada a trânsito e transporte. Competência
+     exclusiva da União (CF, art. 22, XI). Inexistência de lei complementar para autorizar os Estados a legislar sobre
+     questão específica, nos termos do art. 22, parágrafo único, da CF. (ADI n. 874, Rel. Min. Gilmar Mendes,
+     julgamento em 3-2-2011, Plenário, DJe de 28-2-2011).”
+8
+     “Ação direta de inconstitucionalidade. Lei distrital n. 3.787, de 2-2-2006, que cria, no âmbito do Distrito Federal,
+     o sistema de moto-service – transporte remunerado de passageiros com uso de motocicletas:
+     inconstitucionalidade declarada por usurpação da competência privativa da União para legislar sobre trânsito e
+     transporte (CF, art. 22, XI). Precedentes: ADI n. 2.606, Pleno, Rel. Min. Maurício Corrêa, DJ de 7-2-2003; ADI n.
+     3.136, 1º-8-2006, Rel. Min. Ricardo Lewandowski; ADI n. 3.135, 1º-8-2006, Rel. Min. Gilmar Mendes (ADI n.
+     3.679, Rel. Min. Sepúlveda Pertence, julgamento em 18-6-2007, Plenário, DJ de 3-8-2007.) Vide: ADI n. 3.610,
+     Rel. Min. Cezar Peluso, julgamento em 1º-8-2011, Plenário, DJe de 22-9-2011).”
+9
+     “Lei n. 11.824, de 14-8-2002, do Estado do Rio Grande do Sul. Inconstitucionalidade. O disciplinamento da
+     colocação de barreiras eletrônicas para aferir a velocidade de veículos, por inserir -se na matéria trânsito, é de
+     competência exclusiva da União (art. 22, XI, da CF/1988). (ADI n. 2.718, Rel. Min. Joaquim Barbosa, julgamento
+     em 6-4-2005, Plenário, DJ de 24/6/2005).”
+10
+     “Trânsito: competência legislativa privativa da União: inconstitucionalidade da lei estadual que fixa limites de
+     velocidade nas rodovias do Estado-membro ou sob sua administração.” (ADI n. 2.582, Rel. Min. Sepúlveda
+     Pertence, julgamento em 19-3-2003, Plenário, DJ de 6-6-2003).”
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                         36
+           www.estrategiaconcursos.com.br                                                                             74
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Basicamente, pode-se dizer que a competência é privativa da União (art. 22, XI), em relação a
+tudo o que se refere a trânsito: infrações, multas, equipamentos de segurança etc. O STF
+considerou que invade a competência legislativa federal até mesmo lei distrital que tratava do
+parcelamento de multas de trânsito!
+
+Gabarito: Errado
+
+
+
+Questões de Concurso
+
+(Cespe/TRF 1ª Região/Juiz Federal/2013) Incide competência concorrente entre a União, os
+estados e o DF para legislar sobre trânsito e transporte.
+
+Comentários:
+
+A competência é privativa da União.
+
+Gabarito comentado: Errado
+
+
+
+(FCC/TRT 1ª Região/Juiz/2014) Com objetivo de diminuir a ocorrência de acidentes de trânsito
+causados por motoristas que dirigem alcoolizados, determinado Estado-Membro da Federação
+promulgou lei estadual que tipifica infrações de trânsito para condutores em situação de
+flagrante embriaguez, aplicando-lhes sanções mais severas do que as previstas no Código de
+Trânsito Nacional. Neste caso, a referida lei estadual é,
+
+a) constitucional, pois a competência para legislar sobre trânsito e transporte é de natureza
+remanescente estadual.
+
+b) inconstitucional, pois a competência para legislar sobre trânsito e transporte é privativa da
+União, sendo que o Estado-Membro apenas poderia legislar sobre questões específicas dessa
+matéria e desde que autorizado por lei complementar federal.
+
+c) constitucional, pois suplementa a legislação federal ao acrescentar medidas preventivas para
+diminuir acidentes de trânsito.
+
+d) inconstitucional, pois a competência para legislar sobre trânsito e transporte é privativa do
+Município.
+
+e) constitucional, pois integra uma política de educação para a segurança do trânsito e, portanto,
+refere-se a uma competência federativa comum.
+
+Comentários:
+
+Como a competência é privativa da União, o Estado só poderia legislar se tivesse recebido
+expressa delegação por meio de lei complementar federal (CF, art. 22, XI e parágrafo único).
+
+Gabarito: B
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      37
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+(FCC/Detran-MA/Analista/2018) Lei estadual que disponha sobre questões específicas em
+matéria de trânsito e transporte será
+
+a) incompatível com a Constituição Federal, por se tratar de matéria de competência legislativa
+privativa da União, sendo vedado à União delegá-la aos Estados.
+
+b) compatível com a Constituição Federal, desde que haja lei complementar federal que autorize
+os Estados a legislarem sobre questões específicas da matéria.
+
+c) incompatível com a Constituição Federal, por se tratar de matéria de competência legislativa
+privativa dos Municípios.
+
+d) compatível com a Constituição Federal, por se tratar de matéria de competência legislativa
+concorrente de União, Estados e Distrito Federal.
+
+e) compatível com a Constituição Federal, por se tratar de matéria de competência legislativa
+suplementar dos Estados, que estão inclusive autorizados a exercer competência legislativa plena
+na matéria, para atender a suas peculiaridades, na hipótese de ausência de lei federal.
+
+Comentários:
+
+Como legislar sobre trânsito e transporte é competência privativa da União (CF, art. 22, XI), os
+Estados poderão legislar sobre o tema, se (e somente se) forem expressamente autorizados
+mediante a edição de lei complementar federal.
+
+Ainda dentro da matéria de trânsito e transporte, é competência privativa da União legislar sobre:
+
+a) transporte de passageiros via mototáxi e serviço de aplicativo (transporte individual privado)
+
+b) multas e infrações de trânsito
+
+c) faixas exclusivas
+
+d) equipamentos de segurança em veículos
+
+e) condições para barreiras eletrônicas e radar de velocidade (“pardal”)
+
+Gabarito: B
+
+
+
+
+A competência para legislar sobre trânsito é privativa da União (art. 22, XI). Porém, a
+competência para estabelecer e implantar políticas educativas para a segurança do trânsito – ou
+seja, fazer campanhas educativas – é comum de todos os entes da Federação (art. 23, XII),
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)          38
+        www.estrategiaconcursos.com.br                                                              74
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+seguindo a lógica de que, nessa seara, “quanto mais entes atuando, melhor”. Assim, por
+exemplo, um Estado não pode ditar regras de trânsito, mas pode – e deve – realizar campanhas
+educativas sobre o tema.
+
+Legislar sobre material bélico (inclusive porte de arma de fogo)
+
+Trata-se de competência legislativa privativa da União (art. 22, XXI), de modo que Compete
+privativamente à União legislar sobre:
+
+a) Porte de arma
+
+b) Condições para venda de armas de fogo
+
+Legislar sobre diretrizes e bases da educação nacional
+
+Compete privativamente à União legislar sobre diretrizes e bases da educação nacional (22,
+XXIV), inclusive:
+
+a) proibição/permissão de uso de “linguagem neutra” nas escolas (ESTÁ CAINDO MUITOOO)
+
+b) reconhecimento de diplomas
+
+Legislar sobre propaganda comercial
+
+Compete à União legislar, privativamente, sobre propaganda comercial (art. 22, XXIX, da CF/88).
+Essa norma, por exemplo, obstou lei estadual que vedava, em peças publicitárias, fotos de
+natureza erótica ou pornográfica11.
+
+Legislar sobre normas gerais de licitações e contratos administrativos
+
+Trata-se de competência privativa da União (art. 22, XXVII), cabendo aos Estados, ao DF e aos
+Municípios adaptar tais regras nacionais às suas peculiaridades.
+
+Porém, se cabe à União apenas estabelecer normas gerais sobre o tema, por que não foi essa
+disposição incluída entre as matérias sujeitas à competência concorrente? Simples: para não
+permitir a atuação legislativa dos Estados, em caso de omissão da União. Com efeito, a doutrina
+adverte que a lógica da atual previsão do inciso XXVII do art. 22, para que a União legisle
+privativamente sobre normas gerais de licitação e contratos, é excluir, mesmo em caso de
+omissão, a competência suplementar dos Estados12.
+
+Dessa forma, como se trata de uma competência legislativa privativa da União, os Estados só
+poderão estabelecer normas gerais sobre o tema se a União expressamente delegar tal tarefa,
+mediante a edição de uma lei complementar. Ao contrário, se a matéria fosse de competência
+concorrente, a mera omissão federal em estabelecer normas gerais já autorizaria a atuação
+supletiva dos Estados (art. 24, § 3º).
+
+
+
+11
+     ADI n. 2.815, Relator(a): Min. Sepúlveda Pertence, Tribunal Pleno, j. em 8-10-2003, DJ 7-11-2003.
+12
+     Nesse sentido: DEZEN JÚNIOR, Gabriel. Constituição Federal. Brasília: Alumnus, 2015. p. 489.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)            39
+           www.estrategiaconcursos.com.br                                                                74
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Competência para               desapropriar           versus       competência               para   legislar   sobre
+desapropriação
+
+Não confunda a competência para desapropriar (competência material atribuída a todos os entes
+federativos, a depender do fundamento, do motivo da desapropriação) com a competência para
+legislar sobre desapropriação, que é privativa da União (CF, art. 22, II), até mesmo porque afeta
+questões de direito civil (propriedade).
+
+No mesmo mote, compete privativamente à União legislar sobre requisições (CF, art. 22, III).
+
+Competência para legislar sobre telecomunicações
+
+Nos termos do inciso IV do art. 22 da CF, compete privativamente à União legislar sobre águas,
+energia, informática, telecomunicações e radiodifusão.
+
+Especialmente em relação a telecomunicações, há vários julgados do STF invalidando leis
+estaduais que, sem qualquer delegação da União, dispõem sobre cobrança de assinatura básica
+(valor fixo mínimo) em telefonia (por exemplo: STF, Pleno, ADI n. 4.369, Relator Ministro Marco
+Aurélio), cobrança por ponto adicional de TV a cabo/internet (STF, Pleno, ADI n. 4.083, Relatora
+Ministra Cármen Lúcia) e sobre a obrigação das companhias telefônicas de instalarem
+bloqueadores de telefones celulares em presídios (STF, Pleno, ADI n. 5.253/BA, Relator Ministro
+Dias Toffoli).
+
+
+
+
+Questão de Concurso
+
+(Cespe/TJ-RJ/Juiz/2017) Segundo o STF, embora seja da União a competência legislativa
+pertinente aos serviços de telecomunicações e energia elétrica, não será inconstitucional lei
+estadual que impeça a cobrança da tarifa de assinatura básica pelas prestadoras do serviço.
+
+Comentários:
+
+Tal lei seria, sim, inconstitucional, por afronta ao inciso IV do art. 22 da CF.
+
+Gabarito: Errado
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                        40
+        www.estrategiaconcursos.com.br                                                                            74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+O Estado-membro pode instalar bloqueadores de celular em presídios (competência material),
+mas não tem competência para legislar sobre o tema, muito menos impondo obrigações a
+concessionárias que mantêm contrato com a União.
+
+Ainda dentro da matéria de telecomunicações, compete privativamente à União legislar sobre:
+
+a) condições para a instalação de torres e antenas
+
+b) pacotes, planos e assinatura básica em telefonia/internet
+
+c) uso da faixa de domínio de rodovias estaduais/logradouros
+
+d) bloqueio de celular furtado, roubado e em presídios
+
+e) validade de créditos de celular pré-pago
+
+f) medidores individualizados de água, gás e energia
+
+g) ponto adicional de TV a cabo/internet
+
+h) concessão de rádio comunitária
+
+i) condições para construção de hidrelétricas
+
+j) isenção de pagamento de conta de energia e água
+
+k) corte de fornecimento desses serviços
+
+* Obs.: Estados podem legislar sobre multa em contratos de fidelização (direito do consumidor)
+
+Competência para legislar sobre polícias do DF
+
+Embora não exista previsão expressa na CF, a jurisprudência do STF considera que cabe apenas à
+União (privativamente) legislar sobre vencimentos (ou, mais precisamente, subsídios) dos policiais
+do Distrito Federal (Súmula Vinculante 39), uma vez que já cabe à União a manutenção dessas
+corporações (CF, art. 21, XIV) – entendimento que se aplica, inclusive, à Polícia Penal do DF,
+criada pela EC n. 104, de 2019. Como se trata de competência privativa da União, o DF não
+pode legislar sobre o tema, mesmo que omissa a União, a não ser que tenha recebido expressa
+delegação, mediante a edição de lei complementar federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       41
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+
+Questão de Concurso
+
+(Cespe/Abin/Oficial de Inteligência/2018) A competência para legislar sobre os vencimentos das
+polícias civil e militar do Distrito Federal (DF) é privativa da União, podendo o DF legislar sobre a
+matéria somente no caso de inexistência da lei federal.
+
+Comentários:
+
+Como a competência é privativa da União (Súmula Vinculante 39), o DF não pode legislar sobre o
+tema, mesmo em caso de omissão federal (só se recebesse expressa delegação, mediante lei
+complementar federal).
+
+Gabarito: Errado
+
+Competência para legislar sobre proteção de dados pessoais
+
+A EC nº 115, de 2022, ao mesmo tempo em que previu expressamente o direito fundamental
+individual à proteção de dados pessoais (art. 5º, LXXIX), também estabeleceu que compete
+privativamente à União legislar sobre esse tema (art. 22, XXX).
+
+
+
+
+Veja bem!!!
+
+Para revisar, vamos ver alguns Temas da Repercussão Geral do STF sobre o assunto de repartição
+de competências federativas:
+
+Tema nº 145: O município é competente para legislar sobre o meio ambiente com a União e o
+Estado, no limite do seu interesse local e desde que tal regramento seja harmônico com a
+disciplina estabelecida pelos demais entes federados (art. 24, VI, c/c 30, I e II, da Constituição
+Federal).
+
+Tema nº 272: Compete aos Municípios legislar sobre assuntos de interesse local, notadamente
+sobre a definição do tempo máximo de espera de clientes em filas de instituições bancárias.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        42
+        www.estrategiaconcursos.com.br                                                            74
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+Tema nº 430: É incompatível com a Constituição lei municipal que impõe sanção mais gravosa
+que a prevista no Código de Trânsito Brasileiro, por extrapolar a competência legislativa do
+município.
+
+Tema nº 491: Os Estados-Membros e o Distrito Federal têm competência legislativa para
+estabelecer regras de postagem de boletos referentes a pagamento de serviços prestados por
+empresas públicas e privadas.
+
+Tema nº 849: Compete aos municípios legislar sobre a obrigatoriedade de instalação de
+hidrômetros individuais nos edifícios e condomínios, em razão do preponderante interesse local
+envolvido.
+
+Aprofundamento: a excessiva centralização da federação brasileira e perspectivas de reforma
+
+É consabido e reconhecido que, no sistema brasileiro de repartição de competências, o espaço
+para a legislação estadual é extremamente restrito.
+
+Tomio, Ortolan e Camargo, por exemplo, defendem a necessidade de rever os mecanismos de
+cooperação entre a União e os Estados, no contexto da repartição de competências:
+
+(...) ante a percepção do déficit de instrumentos de cooperação administrativa na federação
+brasileira, poder-se-ia cogitar, como futura linha de pesquisa, a investigação de alternativas para
+uma maior institucionalização de relações de cooperação administrativas entre os entes
+federativos13.
+
+Isso acontece porque nossa Constituição é considerada uma das mais centralizadoras, em termos
+de competências estaduais, entre os países que adotam a forma federativa de Estado:
+
+(...) a federação brasileira, não obstante a previsão de formas de cooperação legislativa entre os
+entes federativos, comparativamente, aparece como sendo o país mais centralizado em matéria
+legislativa e, ao lado da Áustria, como a federação, em termos gerais, mais centralizada,
+colocando em evidência a tendência das últimas Constituições brasileiras em ampliar as
+atribuições do poder central ao sacrifício da autonomia dos Estados. No extremo oposto,
+situam-se os Estado Unidos, Austrália e Suíça, que se colocam como exemplos de experiências
+de descentralização legislativa14.
+
+Essa concentração de tarefas na esfera federal deriva de causas diversas. Em primeiro lugar,
+porque, no âmbito da competência concorrente, cabem-lhes apenas as normas específicas, em
+regra. E o Supremo Tribunal Federal (STF), por apresentar uma nítida tendência centralista –
+mitigada, é verdade, em recentes julgados15 – tende a invalidar leis estaduais por considerar que
+instituíram normas gerais16.
+
+
+13
+     TOMIO, Fabricio Ricardo de Lima; ORTOLAN, Marcelo Augusto Biehl; CAMARGO, Fernando Santos de. Op. Cit.,
+     p. 98.
+14
+     Idem, ibidem, p. 99.
+15
+     STF, Pleno, Ação Direta de Inconstitucionalidade (ADI) n. 4.060/SC, Relator Ministro Luiz Fux, DJe de 4-5-2015.
+16
+     RAMOS, Elival da Silva. Autonomia do Estado-membro no Federalismo Brasileiro. In: CAGGIANO, Monica
+     Herman; RANIERI, Nina (orgs.). As novas fronteiras do federalismo. São Paulo: Imprensa Oficial do Estado de São
+     Paulo, 2008. p. 170.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                    43
+           www.estrategiaconcursos.com.br                                                                        74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+Além disso, as competências expressamente atribuídas pela CF à União e aos Municípios são
+numerosas e extensas, de modo que as tarefas “reservadas” aos Estados restam poucas. Sobre o
+tema, Fernanda Dias Menezes de Almeida destaca a vastidão das matérias de competência
+legislativa da União17. E, para Elival da Silva Ramos, o rol de competências legislativas da União é
+exageradamente amplo e, sendo assim, o que sobra como resíduo [para os Estados] é muito
+pouco18.
+
+Demais disso, é preciso levar em conta que a esfera de atuação dos entes de segundo grau é
+ainda limitada pela adoção, entre nós, da teoria americana dos poderes implícitos19, o que
+termina por relativizar a regra segundo a qual as competências implícitas caberiam aos Estados20.
+
+Nesse sentido, Alexandre de Moraes sustenta que:
+
+Ao verificarmos as matérias do extenso rol de 29 incisos e um parágrafo do artigo 22 da
+Constituição Federal 88, é facilmente perceptível o desequilíbrio federativo no tocante à
+competência legislativa entre União e Estados-membros, uma vez que, há a previsão de quase a
+totalidade das matérias legislativas de maior importância para a União (direito civil, comercial,
+penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho,
+desapropriação, águas, energia, informática, telecomunicações, radiodifusão, serviço postal,
+comércio exterior e interestadual, diretrizes da política nacional de transportes, regime de portos,
+navegação lacustre, fluvial, marítima, aérea e aeroespacial, trânsito e transporte, diretrizes e bases
+da educação nacional, registros públicos, etc). Além disso, a tradicional interpretação política e
+jurídica que vem sendo dada ao artigo 24 do texto constitucional, no sentido de que nas diversas
+matérias de competência concorrente entre União e estados, pode discipliná-las quase
+integralmente, teremos o resultado da diminuta competência legislativa dos Estados-membros;
+gerando a excessiva centralização nos poderes legislativos na União, o que caracteriza um grave
+desequilíbrio federativo21.
+
+Como se não bastasse, ainda temos as origens históricas da Federação brasileira, cuja tradição
+centralista difere da origem soberana dos Estados-membros da federação americana22. Torna-se
+necessário, portanto, rever o atual sistema – ou, pelo menos, a lista de tarefas atribuídas a cada
+ente federativo, o que demanda, obviamente, uma Proposta de Emenda à Constituição (PEC).
+
+Para Alexandre de Moraes, o melhor caminho seria:
+
+(...) a edição da emenda constitucional com a migração de algumas competências definidas
+atualmente como privativas da União para o rol de competências remanescentes dos
+Estados-membros e outras para as competências concorrentes entre União e Estados-membros,
+para que nesses assuntos, as peculiaridades regionais sejam consideradas23.
+
+17
+     ALMEIDA, Fernanda Dias Menezes de. Competências na Constituição de 1988. São Paulo: Atlas, 2013. p. 85.
+18
+     RAMOS, Elival da Silva. Op. Cit., p. 170.
+
+19
+     A título de exemplo: STF, Pleno, ADI n. 2.995/PE, Relator Ministro Celso de Mello, DJe de 28-9-2007.
+20
+     SILVA, José Afonso da. Comentário Contextual à Constituição. São Paulo: Malheiros, 2010. p. 292.
+21
+     MORAES, Alexandre de. Federação brasileira: necessidade de fortalecimento das competências dos
+     Estados-membros. In: Liberdade e Cidadania, ano II, n. 7, jan./mar. 2010, p. 17.
+22
+     MEYER-PFLUG, Samantha Ribeiro; COUTO, Monica Bonetti. O Federalismo Brasileiro. In: RAMOS, Dircêo
+     Torrecillas. Op. Cit. p. 491.
+23
+     MORAES, Alexandre de. Op. Cit., p. 18.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                  44
+           www.estrategiaconcursos.com.br                                                                      74
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Esse caminho, registre-se, consta da PEC n. 47, de 2012, de iniciativa das Assembleias
+Legislativas (CF, art. 60, III).
+
+Aprofundamento: a dificuldade para definir o que são “normas gerais”, no âmbito da
+competência concorrente
+
+Reside um desafio interpretativo na competência legislativa concorrente quanto ao delineamento
+dos limites entre a competência legislativa da União (normas gerais) e a dos Estados e do Distrito
+Federal (normas específicas). A literatura, de forma geral, define as normas gerais nacionais como
+dotadas de maior grau de abstração, que orientam a ação do legislador estadual, sem
+adentrarem em pormenores:
+
+José Afonso da Silva observa que as normas gerais “não regulam diretamente situações fáticas,
+porque se limitam a definir uma normatividade genérica a ser obedecida pela legislação
+específica federal, estadual e municipal: direito sobre direito, normas que traçam diretrizes,
+balizas, quadros, à atuação legislativa daquelas unidades da Federação” (Comentário Contextual
+à Constituição. São Paulo: Malheiros, 2007. p. 280). Ainda na vigência da Emenda Constitucional
+n. 1, de 1969, Elival da Silva Ramos sustentava: “Embora o conceito de normas gerais seja
+timbrado por uma certa dose de imprecisão, não faculta ao legislador federal a regulação
+exaustiva da matéria, posto que importa em circunscrever as normas federais ao campo da
+generalidade, dos princípios básicos” (Normas gerais de competência da União e competência
+supletiva dos Estados: a questão dos agrotóxicos. In: Revista de Direito Público, ano XIX, n. 77,
+jan./mar. 1986, p. 130). Manoel Gonçalves Ferreira Filho, não sem reconhecer a dificuldade de se
+discernir, nos casos concretos, as normas gerais das particularizantes, também identifica as
+primeiras com “princípios, bases e diretrizes que hão de presidir todo um subsistema jurídico”
+(Comentários à Constituição Brasileira de 1988. São Paulo: Saraiva, 1990. vol. 1, p. 195). Para
+Uadi Lammêgo Bulos, “normas gerais são declarações principiológicas, dirigidas aos legisladores,
+condicionando-lhes a ação legiferante. Recebem a adjetivação de ‘gerais’, porque possuem um
+alcance maior, uma generalidade e abstração destacadas, se comparadas àquelas normatividades
+de índole local. Consequência disso, elas não se prestam a detalhar minúcias, filigranas ou
+pormenores” (Constituição Federal Anotada. São Paulo: Saraiva, 2009. p. 575). Walber de Moura
+Agra, citando o estudo de Moreira Neto, assinala que as normas gerais não podem ser
+exaustivas, “devendo apresentar acentuado critério de generalidade e abstração” (Delineamento
+das competências federativas no Brasil. In: NOVELINO, Marcelo; ALMEIDA FILHO, Agassiz.
+Leituras complementares de Direito Constitucional: Teoria do Estado. Salvador: Juspodivm, 2009.
+p. 202). André Luiz Borges Netto, igualmente apoiado no estudo de Moreira Neto, sustenta que
+as normas gerais “são preceitos jurídicos editados pela União Federal, no âmbito de sua
+competência legislativa concorrente, restritos ao estabelecimento de diretrizes nacionais e
+uniformes sobre determinados assuntos, sem descer a pormenores ou detalhes” (Competências
+Legislativas dos Estados Membros. São Paulo: Revista dos Tribunais, 1999. p. 135-6). Segundo
+Paulo Gustavo Gonet Branco, normas gerais são “normas não-exaustivas, leis-quadro, princípios,
+amplos, que traçam um plano, sem descer a pormenores” (In: MENDES, Gilmar Ferreira;
+COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional.
+São Paulo, Saraiva, 2007. p. 775). E Paulo Luiz Neto Lobo afirma que as normas gerais
+estabelecem princípios fundamentais e pressupostos a serem observados pela legislação
+específica estadual, não podendo ser exaustivas (Competência Legislativa concorrente dos
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     45
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+Estados na Constituição de 1988. In: Revista de Informação Legislativa, Brasília, ano 26, n. 101,
+jan/mar. 1989, p. 98)24.
+
+Para Paulo Gustavo Gonet Branco, normas gerais são aquelas “normas não exaustivas,
+leis-quadro, princípios amplos, que traçam um plano, sem descer a pormenores”25.
+
+Já Diogo de Figueiredo Moreira Neto, após investigar a opinião de diversos autores estrangeiros
+e nacionais, chega à conclusão de que as normas gerais são:
+
+(...) declarações principiológicas que cabe à União editar, (...) restrita ao estabelecimento de
+diretrizes nacionais sobre certos assuntos, que deverão ser respeitadas pelos Estados-membros
+na feitura de suas respectivas legislações, através de normas específicas e particularizantes26.
+
+Por outro lado, Renato Monteiro de Rezende, advertindo para as peculiaridades do sistema de
+repartição de competências brasileiro, considera que:
+
+O que sejam normas gerais permanece um ponto ainda sujeito a controvérsias, havendo quem as
+circunscreva a princípios e diretrizes de elevado grau de abstração e quem admita possam elas
+regular um dado campo material em maiores detalhes, para assegurar a obediência a valores
+protegidos constitucionalmente. O que não se disputa é a legitimidade da União para aprovar
+legislação principiológica ou de diretrizes nacionais, bastando que a norma se revista de tais
+características para que o legislador nacional possa editá-la27.
+
+No plano da interpretação jurisprudencial, o Supremo Tribunal Federal (STF) já decidiu que a
+“norma geral, a princípio, é aquela que emite um comando passível de aplicabilidade
+federativamente uniforme”28. Porém, mesmo esse critério não é uniforme, pois, em outras
+oportunidades, a Corte considerou que “norma geral”, para fins de legislação concorrente, “tem
+o sentido de diretriz, de princípio geral”, configurando “a moldura do quadro a ser pintado pelos
+Estados e Municípios no âmbito de suas competências”29.
+
+
+
+
+24
+     REZENDE, Renato M. de. Normas gerais revisitadas: a competência legislativa em matéria ambiental. Brasília:
+     Núcleo     de      Estudos      e   Pesquisas      do     Senado,        2013.     p.     15-16.    Disponível em:
+     http://www12.senado.gov.br/publicacoes/estudos-legislativos/tipos-de-estudos/textos-para-discussao/td-121-nor
+     mas-gerais-revisitadas-a-competencia-legislativa-em-materia-ambiental.
+25
+     BRANCO, Paulo Gustavo Gonet; MENDES, Gilmar Ferreira. Curso de Direito Constitucional. São Paulo: Saraiva,
+     2011. p. 853.
+26
+     MOREIRA NETO, Diogo de Figueiredo. Competência Concorrente Limitada. O problema da conceituação das
+     normas gerais. In: Revista de Informação Legislativa. Brasília, a. 25, n. 100, out./dez. 1988, p. 159.
+
+27
+     REZENDE, Renato Monteiro de. Repartição de Competências Legislativas e a Questão das Normas Ambientais: o
+     que a reforma federativa alemã nos tem a dizer. Brasília: Senado Federal – Núcleo de Estudos e Pesquisas do
+     Senado, 2012. p. 5.
+28
+     STF, Pleno, Ação Direta de Inconstitucionalidade (ADI) n. 3.645/PR, Relatora Ministra Ellen Gracie, DJ de
+     1º-9-2006, trecho do voto do Ministro Ayres Britto.
+29
+     STF, Pleno, Medida Cautelar (MC) na ADI n. 927/RS, Relator Ministro Carlos Velloso, DJ de 11-11-1994, trecho do
+     voto do Relator.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       46
+           www.estrategiaconcursos.com.br                                                                           74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+Como se percebe, embora o próprio conceito de normas gerais seja obscuro, é certo que se trata
+de um limite à atuação legislativa da União, na competência concorrente30. Dessa forma, a
+legislação federal não pode regulamentar a matéria de forma tão minudente que não deixe
+espaço para a legislação estadual. Tal fato deriva não só da regra do art. 24, § 1º, da CF, mas
+também do próprio poder de autolegislação atribuído pelo Constituinte originário aos
+Estados-membros, ao investi-los do chamado “poder constituinte decorrente” (art. 25, caput)31.
+
+Foi exatamente nesse sentido que o STF suspendeu cautelarmente, em relação aos demais entes
+federativos, as restrições que eram contidas na parte final da alínea b do art. 17, I, da Lei n.
+8.666, de 21 de junho de 1993. Idêntico entendimento foi adotado quanto à alínea c do mesmo
+art. 17, I, e à parte final da alínea b do art. 17, II32.
+
+Nesse julgamento, o STF considerou que o nível de detalhamento da norma, impondo condições
+específicas para a doação e/ou permuta de bens pelos Estados-membros, terminaria pode ferir a
+autonomia desses entes federativos, exorbitando da competência da União para estabelecer
+normas gerais.
+
+Na ocasião, o Relator considerou que:
+
+(...) a lei trataria mal a autonomia estadual e a autonomia municipal, se interpretada no sentido de
+proibir a doação a não ser para outro órgão ou entidade da Administração Pública. Uma tal
+interpretação constituiria vedação aos Estados e Municípios, de disporem de seus bens, a
+impedir, por exemplo, a realização de programas de interesse público33.
+
+
+
+
+30
+     Justamente por conta disso, autores como Diogo de Figueiredo Moreira Neto classificam esse tipo de
+     competência como competência concorrente limitada, para distingui-la da competência concorrente “clássica”,
+     em que a legislação federal pode dispor livremente sobre a matéria, cabendo às leis locais adaptarem-se ao
+     conteúdo       preestabelecido.       MOREIRA          NETO,       1988,      p.     159.     Disponível       em:
+     http://www2.senado.leg.br/bdsf/handle/id/181992.
+31
+     TAVARES, André Ramos. Curso de Direito Constitucional. São Paulo: Saraiva, 2010. p. 79.
+32
+     Os citados dispositivos previam, na redação original, o seguinte (em itálico, os trechos suspensos por decisão do
+     STF):
+     “Art. 17. A alienação de bens da Administração Pública, subordinada à existência de interesse público
+     devidamente justificado, será precedida de avaliação e obedecerá às seguintes normas:
+     I – quando imóveis, dependerá de autorização legislativa para órgãos da administração direta e entidades
+     autárquicas e fundacionais, e, para todos, inclusive as entidades paraestatais, dependerá de avaliação prévia e de
+     licitação na modalidade de concorrência, dispensada esta nos seguintes casos:
+     (...)
+     b) doação, permitida exclusivamente para outro órgão ou entidade da administração pública, de qualquer esfera
+     de governo;
+     c) permuta, por outro imóvel que atenda aos requisitos constantes do inciso X do art. 24 desta Lei;
+     (...)
+     II – quando móveis, dependerá de avaliação prévia e de licitação, dispensada esta nos seguintes casos:
+     (...)
+     b) permuta, permitida exclusivamente entre órgãos ou entidades da Administração Pública;”.
+33
+     STF, Pleno, ADI n. 927/RS, trecho do voto do Relator.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       47
+           www.estrategiaconcursos.com.br                                                                           74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+Aprofundamento: as razões da complexidade do sistema brasileiro de repartição de
+competências
+
+O sistema brasileiro de repartição de competências é um dos mais complexos do mundo,
+inclusive porque foi influenciado, simultaneamente, pelos modelos americano (repartição
+horizontal de competências), alemão (repartição de vertical de competências)34 e indiano
+(previsão exaustiva de competências)35. Isso leva a uma convivência – nem sempre tão
+harmoniosa – entre competências atribuídas com exclusividade a um ente federativo
+(Constituição Federal – CF, arts. 21; 25, §§ 2º e 3º; 30, entre outros) e aquelas outras tarefas em
+que se impõe, exige-se uma cooperação entre os vários níveis da Federação (como é o caso dos
+arts. 23 e 24 da CF).
+
+Aprofundamento: o caráter (ainda) centralizador da repartição de competências na CF de 1988
+
+Nossa Constituição de 1988 – não obstante tenha significado um avanço na atribuição de
+relevantes tarefas aos entes subnacionais, especialmente aos Municípios (CF, art. 30) – é
+considerada uma das mais centralizadoras, em termos de competências estaduais, entre os
+países que adotam a forma federativa de Estado:
+
+(...) a federação brasileira, não obstante a previsão de formas de cooperação legislativa entre os
+entes federativos, comparativamente, aparece como sendo o país mais centralizado em matéria
+legislativa e, ao lado da Áustria, como a federação, em termos gerais, mais centralizada,
+colocando em evidência a tendência das últimas Constituições brasileiras em ampliar as
+atribuições do poder central ao sacrifício da autonomia dos Estados. No extremo oposto,
+situam-se os Estado Unidos, Austrália e Suíça, que se colocam como exemplos de experiências
+de descentralização legislativa36.
+
+A jurisprudência do Supremo Tribunal Federal (STF), por exemplo, apresenta uma nítida
+tendência centralista – mitigada, é verdade, em recentes julgados37 – e tende a invalidar leis
+estaduais por considerar que instituíram normas gerais38.
+
+Além disso, as competências expressamente atribuídas pela CF à União e aos Municípios são
+numerosas e extensas, de modo que as tarefas “reservadas” aos Estados restam poucas. Sobre o
+tema, Fernanda Dias Menezes de Almeida destaca a vastidão das matérias de competência
+legislativa da União39. E, para Elival da Silva Ramos, o rol de competências legislativas da União é
+exageradamente amplo e, sendo assim, o que sobra como resíduo [para os Estados] é muito
+pouco40.
+
+34
+     SILVA, José Afonso da. Curso de Direito Constitucional Positivo. São Paulo: Malheiros, 2006. p. 477.
+35
+     KANTH, T. Krishna; KUMARI, K. Lalita. Indian Federalism: its dynamics and salient features: a comparative
+     analysis. In: RAMOS, Dircêo Torrecillas. O federalista atual. Belo Horizonte: Arraes, 2013. p. 563.
+36
+     TOMIO, Fabrício Ricardo Limas; ORTOLAN, Marcelo Augusto Biehl. O sistema de repartições das competências
+     legislativas da Lei Fundamental Alemã após a reforma federativa de 2006 em perspectiva comparada com o
+     Estado Federal Brasileiro. In: Revista Direito, Estado e Sociedade, n. 38, 2014, p. 99.
+37
+     STF, Pleno, Ação Direta de Inconstitucionalidade (ADI) n. 4.060/SC, Relator Ministro Luiz Fux, DJe de 4-5-2015.
+38
+     RAMOS, Elival da Silva. Autonomia do Estado-membro no Federalismo Brasileiro. In: CAGGIANO, Monica
+     Herman; RANIERI, Nina (orgs.). As novas fronteiras do federalismo. São Paulo: Imprensa Oficial do Estado de São
+     Paulo, 2008. p. 170.
+39
+     ALMEIDA, Fernanda Dias Menezes de. Competências na Constituição de 1988. São Paulo: Atlas, 2013. p. 85.
+40
+     RAMOS, Elival da Silva. Op. Cit., p. 170.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                    48
+           www.estrategiaconcursos.com.br                                                                        74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+Demais disso, é preciso levar em conta que a esfera de atuação dos entes de segundo grau é
+ainda limitada pela adoção, entre nós, da teoria americana dos poderes implícitos41, o que
+termina por relativizar a regra segundo a qual as competências implícitas caberiam aos Estados42.
+
+Nesse sentido, Alexandre de Moraes sustenta que:
+
+Ao verificarmos as matérias do extenso rol de 29 incisos e um parágrafo do artigo 22 da
+Constituição Federal 88, é facilmente perceptível o desequilíbrio federativo no tocante à
+competência legislativa entre União e Estados-membros, uma vez que, há a previsão de quase a
+totalidade das matérias legislativas de maior importância para a União (direito civil, comercial,
+penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho,
+desapropriação, águas, energia, informática, telecomunicações, radiodifusão, serviço postal,
+comércio exterior e interestadual, diretrizes da política nacional de transportes, regime de portos,
+navegação lacustre, fluvial, marítima, aérea e aeroespacial, trânsito e transporte, diretrizes e bases
+da educação nacional, registros públicos, etc). Além disso, a tradicional interpretação política e
+jurídica que vem sendo dada ao artigo 24 do texto constitucional, no sentido de que nas diversas
+matérias de competência concorrente entre União e estados, pode discipliná-las quase
+integralmente, teremos o resultado da diminuta competência legislativa dos Estados-membros;
+gerando a excessiva centralização nos poderes legislativos na União, o que caracteriza um grave
+desequilíbrio federativo43.
+
+Como se não bastasse, ainda temos as origens históricas da Federação brasileira, cuja tradição
+centralista difere da origem soberana dos Estados-membros da federação americana44.
+
+Aprofundamento: os princípios (implícitos) da conduta amistosa federativa e da preponderância
+da norma mais protetiva
+
+No direito comparado, já de há muito tempo se sustenta deverem as normas que atribuem
+competências “em condomínio” aos entes federativos ser interpretadas de forma a obedecer ao
+princípio implícito da “conduta amistosa federativa”. Fala-se mesmo desse norte como um
+princípio jurídico imanente ao federalismo, significando que:
+
+a Constituição pede ao estado-total [Federação] e aos estados-membros não só correção exterior
+no cumprimento de seus deveres jurídico-estatais, mas também a procura constante e a
+produção de uma conduta boa, amistosa federativa; (...) a não observância desses deveres e
+restrições por um ato da federação ou de um estado deixa esse ato tornar-se inconstitucional45.
+
+Existem ainda autores que vão além, defendendo até mesmo que, em matérias de competências
+comuns, prevaleça a norma jurídica mais protetiva ao bem jurídico em questão (educação, meio
+ambiente, saúde etc.). Seria uma espécie de “princípio da maior proteção”46, de acordo com o
+
+41
+     A título de exemplo: STF, Pleno, ADI n. 2.995/PE, Relator Ministro Celso de Mello, DJe de 28-9-2007.
+42
+     SILVA, José Afonso da. Comentário Contextual à Constituição. São Paulo: Malheiros, 2010. p. 292.
+43
+     MORAES, Alexandre de. Federação brasileira: necessidade de fortalecimento das competências dos
+     Estados-membros. In: Liberdade e Cidadania, ano II, n. 7, jan./mar. 2010, p. 17.
+44
+     MEYER-PFLUG, Samantha Ribeiro; COUTO, Monica Bonetti. O federalismo brasileiro. In: RAMOS, Dircêo
+     Torrecillas (org.). O Federalista atual: Teoria do Federalismo. Belo Horizonte: Arraes, 2013. v. 1, p. 491.
+45
+     HESSE, Konrad. Elementos de Direito Constitucional da República Federal da Alemanha. Trad. Luís Afonso Heck.
+     Porto Alegre: Sergio Antonio Fabris, 1998. p. 212-213.
+46
+     Construção semelhante existe no Direito do Trabalho, em que tradicionalmente se flexibiliza a hierarquia das
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                 49
+           www.estrategiaconcursos.com.br                                                                     74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+qual, em caso de conflito entre a atuação federal e a estadual, por exemplo, prevaleceria a norma
+que mais protegesse a saúde da população. Essa tese chega a ser aventada por Ingo Wolfgang
+Sarlet e seria especialmente interessante na aplicação ao combate à covid-19 (prevaleceria, por
+exemplo, a norma que mais protegesse a saúde, ainda que fosse estadual, em face de uma
+atuação mais permissiva da União).
+
+Aprofundamento: a “extensão” de leis federais por decisão do ente regional ou local
+
+Pode um Estado decidir, por exemplo, “estender” a aplicação de uma lei meramente federal à
+sua esfera de poder? Sim, pois isso deriva do poder de autolegislação de cada ente. É o caso,
+por exemplo, do Distrito Federal, que editou lei determinando a aplicação, no âmbito distrital, da
+Lei de Processo Administrativo Federal (Lei n. 9.784/99).
+
+E se houver alteração na lei federal, tal mudança se aplica automaticamente ao ente que a
+adotou? Não, não existe essa “atualização automática”, devendo, se for o caso, o ente federativo
+local ou regional editar nova norma “de imitação”.
+
+Esse tema – bastante interessante e aprofundado – já foi objeto de cobrança em prova de
+concurso (Cespe/TCU/Procurador/2015).
+
+Aprofundamento: competências federativas e combate à pandemia
+
+Durante a pandemia de Covid-19, iniciada em fevereiro/março de 2020, houve intenso debate
+sobre o exercício da competência comum de todos os entes para cuidar da saúde (CF, art. 23, II).
+Isso acontece porque não existe ainda a Lei Complementar que disponha sobre a cooperação
+entre os entes para tal finalidade (CF, art. 23, parágrafo único).
+
+Nesse contexto, o STF entendeu que a leitura da competência comum deveria ser realizada de
+modo a privilegiar o princípio da subsidiariedade e do interesse predominante.
+
+Na verdade, o concurso de atuação das várias esferas (e a existência de potenciais conflitos) é
+uma constante dos países que adotam a forma federativa, uma característica esperada da adoção
+da federação47. É um risco inerente à complexidade do estado federal que a convivência de
+legislações estaduais e federais possa levar à existência de uma confusa e pouco clara variedade
+de leis48. Nesse contexto, não causa estranheza que, ainda mais em um momento de emergência
+em saúde pública, ocorram controvérsias ou conflitos de interpretação entre União, de um lado, e
+Estados e Municípios, de outro, ainda mais quando a questão envolve a competência comum (ou
+seja, de todos os níveis federativos) para cuidar da saúde e da assistência pública (CF, art. 23, II).
+
+Na interpretação dos dispositivos constitucionais que tratam das competências federativas,
+porém, é preciso ter dois cuidados. Em primeiro lugar, é necessário lembrar que o inciso II do art.
+23 precisa ser compatibilizado com diversos outros dispositivos que tratam de atribuir aos entes
+federativos – muitas vezes com exclusividade – o exercício de outras tarefas conexas à proteção
+da saúde. Assim, por exemplo, cuidar da saúde é matéria de competência comum, mas
+especificamente tratar da questão do transporte interestadual de passageiros é tema que toca
+
+     normas, para dar prevalência àquela que mais proteja o trabalhador.
+47
+     VERGOTTINI, Giuseppe de. Diritto Costituzionale Comparato. Padova: Cedam, 1991. p. 308.
+48
+     MICHAEL, Lothar. El Estado federal experimental. In: Revista de derecho constitucional europeo, n. 6, p. 11-30,
+     2006, p. 12.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                    50
+           www.estrategiaconcursos.com.br                                                                        74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+exclusivamente à União (CF, art. 21, XII, e). Por outro lado, é preciso ter atenção para que não se
+caia na “tentação” de interpretar os dispositivos normativos sempre com uma tendência
+centralizadora que marca nossa tradição constitucional, mas que é dificilmente compatível com o
+ideal de uma Federação propriamente dita.
+
+A interpretação sobre a repartição de competências federativas em relação ao combate à
+covid-19 principia, como dissemos, pela definição da incidência da competência comum (de
+todos os entes federativos) para “cuidar da saúde e da assistência pública” (CF, art. 23, II). Em
+tese, seria necessária a existência de uma lei complementar para, em cumprimento ao parágrafo
+único do citado art. 23, tratar da cooperação federativa na área de saúde49; como, porém, essa
+normatização não existe (ainda), é preciso que o intérprete leve em conta: a) outras normas da
+CF; b) a Lei do Sistema Único de Saúde (SUS) – Lei n. 8.080, de 19 de setembro de 1990; e c) a
+Lei de Combate à covid-19 – Lei n. 13.979, de 6 de fevereiro de 2020.
+
+Com efeito, é preciso levar em conta, especialmente na área de saúde, que a própria CF impõe a
+descentralização como diretriz do SUS (art. 198, I), apesar de este se compor de “uma rede
+regionalizada e hierarquizada” (art. 198, caput). Regulamentando tais dispositivos, a Lei n. 8.080,
+de 1990, vai além, ressaltando a diretriz de que se dê “ênfase na descentralização dos serviços
+para os municípios” (art. 7º, IX, a). Mas a principal fonte normativa infraconstitucional sobre o
+tema é mesmo a Lei n. 13.979/2020 (Lei de Enfrentamento à Covid-19), que terminou por
+também trazer uma espécie de “repartição de competências” ad hoc (art. 3º).
+
+Esse conjunto de normas, porém, vem precisando ser interpretado e concretizado pelo Supremo
+Tribunal Federal (STF), como exemplifica a cautelar na Arguição de Descumprimento de Preceito
+Fundamental (ADPF) n. 672/DF, do Ministro Alexandre de Moraes, e na qual se reconhece a
+prevalência de atos de Estados e Municípios em face da União, quando no exercício de
+determinadas competências de sua esfera específica. Idêntico caminho foi seguido no referendo
+do Plenário da Corte à liminar concedida monocraticamente pelo Ministro Marco Aurélio na Ação
+Direta de Inconstitucionalidade (ADI) n. 6.341/DF, ajuizada contra a Medida Provisória (MPV) n.
+926, de 20 de março de 2020.
+
+No último desses julgados, a Corte decidiu que, “preservada a atribuição de cada esfera de
+governo, nos termos do inciso I do art. 198 da Constituição, o Presidente da República poderá
+dispor, mediante decreto, sobre os serviços públicos e atividades essenciais” (art. 3º, § 9º, da Lei
+n. 13.949, de 2020, na redação dada pela MPV n. 926, de 2020). Na prática, isso significa que o
+Presidente da República dispõe de competência para definir quais são os serviços essenciais;
+contudo, como veremos, isso não afasta a possibilidade de restrição estadual e, principalmente,
+municipal ao funcionamento do comércio (no todo ou em parte).
+
+Desse arcabouço normativo e jurisprudencial, pode-se concluir o seguinte:
+
+
+
+
+49
+     Tal dispositivo prevê que leis complementares “fixarão normas para a cooperação entre a União e os Estados, o
+     Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito
+     nacional”. Sobre o tema, foi apresentado o Projeto de Lei Complementar (PLP) n. 39/2020, pelo Senador Antonio
+     Anastasia, aprovado pelo Congresso Nacional, mas na forma de substitutivo que tratou apenas do apoio
+     financeiro da União aos demais entes da Federação. A matéria foi reapresentada como PLP n. 147/2020.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                  51
+           www.estrategiaconcursos.com.br                                                                      74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+- a competência para exercer o poder de polícia administrativa em matéria de saúde é comum a
+todos os entes federativos (CF, art. 23, II)
+
+O poder de polícia é definido legalmente como a atividade da administração pública que,
+limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção
+de fato, em razão de interesse público concernente à segurança, à higiene, à ordem, aos
+costumes, à disciplina da produção e do mercado, ao exercício de atividades econômicas
+dependentes de concessão ou autorização do Poder Público, à tranquilidade pública ou ao
+respeito à propriedade e aos direitos individuais ou coletivos (Código Tributário Nacional – CTN,
+art. 78, caput).
+
+Trata-se, portanto, da verdadeira limitação ao direito de liberdade dos cidadãos, em benefício da
+segurança (lato sensu)50, mas que deve ser exercido no âmbito da competência federativa. Assim,
+por exemplo, a polícia de profissões compete apenas à União (CF, art. 21, XXIV), mas o poder de
+polícia em matéria ambiental cabe a todos os entes (CF, art. 23, VI e VII). Em relação à área de
+saúde, como visto, o exercício do poder de polícia é compartilhado por todos os níveis
+federativos (CF, art. 23, II), o que significa dizer que União, Estados, Distrito Federal e Municípios
+podem, genericamente, impor restrições ao direito de liberdade em prol da saúde pública.
+
+- a competência para legislar em matéria de saúde é concorrente (CF, art. 24, XII)
+
+Para além da competência material (administrativa) para formular, executar e monitorar políticas
+públicas de saúde, há também a competência para legislar (editar leis ordinárias e
+complementares) sobre proteção e defesa da saúde. Tal atribuição integra o rol das chamadas
+competências concorrentes, de modo que, nessa matéria, a União deve limitar-se a estabelecer
+as normas gerais (CF, art. 24, § 1º), como é o caso da Lei n. 13.979/2020, mas isso “não exclui a
+competência suplementar dos Estados” (art. 24, § 2º).
+
+Sem adentrar na complexa discussão sobre o conteúdo das “normas gerais”, é possível afirmar
+que os Estados e o Distrito Federal podem editar leis mais específicas que a Lei n. 13.979, de
+2020, no uso da competência que lhes é atribuída pelo inciso XII do art. 24 da CF. Em relação aos
+Municípios, como se trata de matéria que afeta também o interesse local, e dada a competência
+comum para a defesa da saúde, também podem, em relação aos seus territórios e respeitada a
+legislação federal e estadual, suplementá-las com a edição de normas específicas51.
+
+- a competência para legislar sobre horário e condições para o funcionamento do comércio é
+exclusiva dos Municípios (CF, art. 30, I)
+
+De acordo com o art. 30, I, da CF, compete com exclusividade aos Municípios legislar sobre
+matérias de interesse local. Apesar da aparente indefinição desse dispositivo, há sedimentada
+jurisprudência do STF sobre o que se inclui – ou não – nessa esfera de atuação municipal.
+
+Assim, por exemplo, compete ao Município legislar sobre o horário de funcionamento do
+comércio (Súmula Vinculante 38)52. Essa autorização pode afetar o comércio como um todo, ou
+apenas parte dele (determinada categoria de estabelecimentos, ou determinada região, por
+
+50
+     PIETRO, Maria Sylvia Zanella Di. Direito Administrativo. São Paulo: Atlas, 2009. p. 116.
+51
+     CF, art. 30, II; STF, Pleno, Recurso Extraordinário n. 586.224/SP, Relator Ministro Luiz Fux, DJe de 8-5-2015, Tema
+     n. 145 da Repercussão Geral.
+52
+     “É competente o Município para fixar o horário de funcionamento de estabelecimento comercial”.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                        52
+           www.estrategiaconcursos.com.br                                                                            74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+exemplo). Na mesma linha, compete ao Município definir normas de segurança de agências
+bancárias53 e de equipamentos de segurança em geral em locais de atendimento ao público54,
+bem como tempo máximo de espera em fila55 e outras normas sanitárias locais, mas não legislar
+sobre horário de funcionamento de agências bancárias, por ser esta última matéria afeta ao
+sistema financeiro nacional – e, portanto, de competência da União (CF, art. 192). Também
+competem exclusivamente aos Municípios as funções relacionadas à circulação em vias e
+logradouros públicos (acesso a praias, ruas, praças, parques e monumentos públicos, por
+exemplo)56.
+
+Nos casos, aliás, em que a matéria compete exclusivamente aos Municípios, nenhum outro ente
+da Federação pode imiscuir-se, ainda mais pelo fato de que não há propriamente hierarquia
+entre os níveis de governo da República Federativa do Brasil. Assim, por exemplo, se o
+Município, no âmbito de sua competência e obedecidos a constitucionalidade material, proibir o
+funcionamento de academias de ginástica, salões de beleza ou barbearias (Decreto Presidencial
+n. 10.344, de 8 de maio de 2020), eventual decreto presidencial que as qualifique como serviço
+essencial não teria o condão de permitir o funcionamento de tais estabelecimentos. No conflito
+de normas de diferentes entes federativos, prevalece aquela cujo emissor está no exercício de
+uma competência constitucionalmente definida: obviamente, o art. 30 da CF prevalece sobre
+qualquer interpretação ampliativa da competência do Presidente da República com base no art.
+3º, § 9º, da Lei n. 13.979/2020.
+
+- a competência para o transporte rodoviário de passageiros depende da abrangência
+geográfica do serviço
+
+A competência para legislar sobre trânsito e transporte é privativa da União (CF, art. 22, XI).
+Todavia, a competência material para explorar o serviço de transporte de passageiros (e, por
+conseguinte, o respectivo poder de polícia) é segmentada em vários níveis federativos, a
+depender da abrangência geográfica do serviço.
+
+Assim, por exemplo, compete:
+
+d.1) à União explorar os serviços de transporte rodoviário internacional ou interestadual (CF, art.
+21, XII, e); são inconstitucionais atos de governadores, por exemplo, que visem a “fechar as
+divisas” do Estado, justamente por invadirem essa competência federal;
+
+d.2) aos Estados explorar os serviços de transporte intermunicipal, por se tratar de competência
+remanescente, já que não atribuída expressamente a outros níveis da Federação (CF, art. 25, §
+1º); dessa maneira, embora não possam fechar as divisas estaduais, os governadores podem
+53
+     STF, 1ª Turma, Agravo Regimental (AgR) no Agravo em Recurso Extraordinário n. 784.981, Relatora Ministra Rosa
+     Weber, DJE de 7-4-2015.
+54
+     STF, 1ª Turma, AgR no Agravo de Instrumento n. 491.420, Relator Ministro Cezar Peluso, DJ de 24-3-2006.
+55
+     Tema n. 272 da Repercussão Geral: “Compete aos Municípios legislar sobre assuntos de interesse local,
+     notadamente sobre a definição do tempo máximo de espera de clientes em filas de instituições bancárias”.
+56
+     É o caso, por exemplo, do controverso “rodízio ampliado” decretado pela Prefeitura de São Paulo. Pode-se
+     discutir a eficácia da medida, e até mesmo sua constitucionalidade material (possível restrição excessiva ao
+     direito à liberdade de locomoção em vias públicas), mas, a nosso ver, não a competência municipal. Disponível
+     em:
+     https://www1.folha.uol.com.br/cotidiano/2020/05/covas-anuncia-rodizio-de-veiculos-mais-restrito-a-partir-de-seg
+     unda-feira.shtml
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                    53
+           www.estrategiaconcursos.com.br                                                                        74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+editar normas administrativas que restrinjam a circulação de linhas de transporte coletivo entre
+Municípios de seus Estados;
+
+d.3) aos Municípios explorar o transporte urbano (CF, art. 30, V), cabendo-lhes instituir, se for o
+caso, restrições ao funcionamento de linhas de ônibus urbanos, metrôs (desde que não
+ultrapassem a divisa municipal) e outros modais de transporte terrestre de passageiros nos limites
+do Município (veículos leves sobre trilhos ou sobre pneus etc.).
+
+Foi nesse sentido, a propósito, que recentemente o Pleno do STF, ao julgar a ADI n. 6.373,
+decidiu que:
+
+Estados e municípios, no âmbito de suas competências e em seu território, podem adotar,
+respectivamente, medidas de restrição à locomoção intermunicipal e local durante o estado de
+emergência decorrente da pandemia do novo coronavírus, sem a necessidade de autorização do
+Ministério da Saúde para a decretação de isolamento, quarentena e outras providências57.
+
+É preciso, dessa maneira, interpretar em conformidade com a Constituição os dispositivos da Lei
+n. 13.979/2020, que preveem a possibilidade de restrição à locomoção intermunicipal “pelos
+gestores locais de saúde, desde que autorizados pelo Ministério da Saúde” (art. 3º, VI, b, e § 7º,
+II). Na realidade, a autorização do Ministério da Saúde (órgão integrante da administração pública
+federal) só será necessária para os casos em que se faça necessário restringir a entrada e saída de
+pessoas no país, ou quando se tratar de transporte interestadual (art. 3º, VI, a e b, primeira parte).
+É dispensável, porém, a autorização do Ministério da Saúde para que o Estado restrinja serviços
+de transporte intermunicipal de passageiros, pois tal competência já é dada à entidade estadual
+pela CF (art. 25, § 1º), não podendo lei ordinária federal modificar ou condicionar o exercício
+dessa atribuição.
+
+- a competência para dispor sobre funcionamento de aeroportos, portos e ferrovias é exclusiva
+da União (CF, art. 21, XII)
+
+Diferentemente do que diz respeito ao transporte rodoviário, compete com exclusividade à União
+explorar “a navegação aérea, aeroespacial e a infraestrutura aeroportuária” (CF, art. 21. XII, c),
+independentemente da abrangência geográfica do voo. Assim, questões relativas ao
+funcionamento de aeroportos devem obedecer às regras de polícia administrativa federais,
+parecendo-nos formalmente inconstitucionais atos de governadores que decretam o fechamento
+do espaço aéreo estadual. Nesse sentido, aliás, o inciso VI do art. 3º da Lei n. 13.979/2020, na
+redação da MPV n. 926/2020, veio a deixar mais clara a questão.
+
+Na mesma toada, os serviços de transporte ferroviário; o funcionamento dos portos; e o
+transporte aquaviário que transponha limites de Estado são competências exclusivas da esfera
+federal (CF, art. 21, XII, d e f).
+
+- a competência para dispor sobre estabelecimentos de ensino depende do nível destes
+
+Em relação especificamente ao funcionamento de estabelecimentos de ensino, entendemos que
+a questão principal não é saber onde estão localizados (questão geográfica), mas especialmente
+a qual nível federativo compete a prestação daquele serviço educacional. Assim, por exemplo,
+
+57
+     http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=442816
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      54
+           www.estrategiaconcursos.com.br                                                          74
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+aos Municípios compete a prestação da educação fundamental e da educação infantil (CF, art.
+211, § 2º); aos Estados, prioritariamente, a educação em nível fundamental e médio (CF, art. 211,
+§ 3º); e à União, também não de forma exclusiva, o nível superior de ensino (CF, art. 211, § 1º).
+Nesse contexto, é difícil sustentar que um Estado possa determinar o fechamento de uma
+Universidade Federal, por exemplo (apesar de que temos, neste caso, um aparente conflito entre
+a competência comum para cuidar da saúde e a repartição específica de tarefas em relação aos
+diversos níveis de ensino). Em relação às Universidades, além disso, há um elemento a mais a ser
+analisado, referente à autonomia constitucional de que dispõem (CF, art. 207, caput), não
+obstante esse princípio possa ser relativizado em tempos de emergência de saúde pública.
+
+Resta a questão dos cursos livres (cursos de idiomas, cursos técnicos, preparatórios para
+concursos e certames públicos). Como não é citada na CF qualquer competência em relação a
+essa temática, entendemos que a competência é municipal, nos termos da realidade local (CF,
+art. 30, I; Súmula Vinculante n. 38), nos mesmos termos da competência para regular o
+funcionamento do comércio.
+
+Em relação à competência legislativa para dispor sobre educação, esta é concorrente (CF, art. 24,
+IX), de modo que a União pode editar normas gerais – como é o caso, por exemplo, da MPV n.
+934, de 1º de abril de 2020, que “Estabelece normas excepcionais sobre o ano letivo da
+educação básica e do ensino superior decorrentes das medidas para enfrentamento da situação
+de emergência de saúde pública de que trata a Lei n. 13.979, de 6 de fevereiro de 2020”,
+dispensando o cumprimento do mínimo de dias letivos.
+
+- a competência para legislar em matéria penal é privativa da União
+
+Compete privativamente à União legislar sobre direito penal (CF, art. 22, I). Tal competência,
+embora possa, em tese, ser delegada aos Estados e ao Distrito Federal (parágrafo único do
+mesmo dispositivo), não o foi (inexiste lei complementar com tal autorização), de modo que, na
+atualidade, qualquer lei penal que defina crimes ou comine penas precisa ser aprovada pelo
+Congresso Nacional.
+
+Nesse contexto, permanece em vigor o art. 268 do Código Penal (CP), que tipifica o crime de
+“infração de medida sanitária preventiva”, nos termos seguintes:
+
+Art. 268. Infringir determinação do poder público, destinada a impedir introdução ou
+propagação de doença contagiosa:
+
+Pena – detenção, de um mês a um ano, e multa.
+
+Parágrafo único. A pena é aumentada de um terço, se o agente é funcionário da saúde pública
+ou exerce a profissão de médico, farmacêutico, dentista ou enfermeiro.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    55
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+
+                                       QUESTÕES COMENTADAS
+1.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Cabe aos estados explorar diretamente, ou mediante concessão, os serviços locais de gás
+canalizado, na forma da lei.
+
+Comentários:
+
+De acordo com o art. 25, § 2º, da CF, na redação dada pela EC nº 5/95, cabe realmente aos
+Estados-membros da Federação explorar (ou diretamente - por meio da própria administração
+pública estadual - ou indiretamente, por meio de contrato de concessão) os serviços locais de
+gás canalizado, na forma prevista em lei (embora seja vedada a edição de medida provisória na
+regulamentação dessa matéria).
+
+Gabarito: correto
+
+
+
+2.        CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Apoio Especializado/Administração/2023
+
+Os estados podem explorar diretamente os serviços locais de gás canalizado, sendo vedada a
+sua regulamentação por meio de medida provisória.
+
+Comentários:
+
+De acordo com o art. 25, § 2º, da CF, na redação dada pela EC nº 5/95, cabe realmente aos
+Estados-membros da Federação explorar (ou diretamente - por meio da própria administração
+pública estadual - ou indiretamente, por meio de contrato de concessão) os serviços locais de
+gás canalizado, na forma prevista em lei (embora seja vedada a edição de medida provisória na
+regulamentação dessa matéria).
+
+Gabarito: correto
+
+
+
+3.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Compete concorrentemente à União, aos estados e ao Distrito Federal legislar sobre trânsito e
+transporte.
+
+Comentários:
+
+A competência para legislar sobre trânsito e transporte (tanto de cargas quanto de passageiros) é
+privativa da União (CF, art. 22, XI), e não concorrente entre União, Estados e DF. Vale relembrar
+que, nos casos de competência privativa, apenas a União pode legislar sobre o tema, podendo
+os Estados receberem delegação da União para legislarem sobre questões específicas, apenas se
+a União assim julgar conveniente (delegando-lhes atribuições por meio de lei complementar). Ao
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   56
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+contrário, nos casos de competência concorrente, a competência já é compartilhada entre a
+União, os Estados e o DF, cabendo à União legislar sobre as normas gerais e aos Estados tratar
+das normas específicas.
+
+Gabarito: errado
+
+
+
+4.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Compete privativamente à União legislar sobre a organização do sistema nacional de emprego e
+as condições para o exercício de profissões.
+
+Comentários:
+
+O art. 22, XVI, da CF, determina ser competência privativa da União legislar sobre “organização
+do sistema nacional de emprego e condições para o exercício de profissões”. Logo, a afirmativa
+está mesmo correta. Vale lembrar que seria mesmo natural a União legislar sobre esses temas,
+tanto por serem matéria de interesse nacional quanto por caber a ela (União) a fiscalização do
+trabalho e a própria legislação sobre o direito do trabalho.
+
+Gabarito: correto
+
+
+
+5.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Lei complementar poderá autorizar os estados a legislar sobre questões específicas relacionadas
+a registros públicos.
+
+Comentários:
+
+Compete privativamente à União legislar sobre registros públicos (CF, art. 22, XXV). Vale
+relembrar que, nos casos de competência privativa, apenas a União pode legislar sobre o tema,
+podendo os Estados receberem delegação da União para legislarem sobre questões específicas,
+apenas se a União assim julgar conveniente (delegando-lhes atribuições por meio de lei
+complementar: CF, art. 22, parágrafo único). Assim sendo, os Estados podem receber delegação
+da União (por meio de lei complementar) para legislarem sobre questões específicas dos temas
+de competência privativa federal, o que inclui os registros públicos.
+
+Gabarito: correto
+
+
+
+6.        CEBRASPE (CESPE) - Proc (MP TCERJ)/TCE RJ/2023
+
+Os municípios não têm competência concorrente para legislar sobre matéria tributária, porque
+somente legislam sobre matéria de interesse local, podendo, ainda, suplementar as legislações
+federal e estadual no que couber.
+
+Comentários:
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   57
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+O art. 24, ao tratar das competências concorrentes, não incluiu expressamente os Municípios.
+Isso gerou grande controvérsia doutrinária acerca da inclusão, ou não, desses entes no âmbito
+das competências legislativas compartilhadas.
+
+Decidindo sobre o tema, o STF determinou o seguinte: “O Município é competente para legislar
+sobre meio ambiente com União e Estado, no limite de seu interesse local e desde que tal
+regramento seja e harmônico com a disciplina estabelecida pelos demais entes federados (art.
+24, VI, c/c 30, I e II, da CRFB)” (STF, Pleno, RE n. 586.224, rel. min. Luiz Fux).
+
+Essa mesma lógica pode ser trazida para o caso da matéria tributária, que é também tema de
+competência concorrente (art. 24, I).
+
+De toda forma, o Cespe/Cebraspe tem adotado a tese de que os Municípios não participam da
+legislação concorrente, podendo apenas suplementar a legislação federal e estadual, no que
+couber (art. 30, II), e ainda assim no que for pertinente ao interesse local. É o que se afirma na
+questão, que, portanto, foi considerada correta.
+
+Gabarito: correto
+
+
+
+7.        CEBRASPE (CESPE) - PJ (MPE SC)/MPE SC/2023
+
+A competência legislativa concorrente dos entes federados, a exemplo das normas de proteção
+do meio ambiente e da responsabilidade por dano a consumidores, não tem caráter cumulativo,
+de modo que as normas gerais editadas pela União devem ser respeitadas pelos entes
+subnacionais.
+
+Comentários:
+
+Legislar sobre a proteção ao meio ambiente e sobre a responsabilidade por dano aos
+consumidores é mesmo uma competência concorrente (art. 24, VIII). Isso significa que a União
+deve estabelecer as normas gerais, cabendo aos Estados e ao DF especificar essas regras (art. 24,
+§§ 1º e 2º), o que significa que essa competência não é cumulativa, ou seja, não é igualmente
+exercida pelos entes que a possuem (em outras palavras, tanto a União quanto os Estados/DF
+legislam sobre esses temas, mas não com o mesmo papel e a mesma função).
+
+Gabarito: correto
+
+
+
+8.        CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Administrativa/2023
+
+Lei estadual que discipline aspectos específicos de proteção à infância e à juventude será
+inconstitucional por vício de competência, pois a competência para legislar sobre essa matéria é
+privativa da União.
+
+Comentários:
+
+A competência para legislar sobre proteção à infância e à juventude é concorrente (art. 24, XV), e
+não privativa da União. Logo, uma lei estadual com questões específicas sobre esse tema não
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   58
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+será inconstitucional, pelo contrário: o Estado estará exercendo a atribuição constitucionalmente
+conferida pelo art. 24, XV e § 2º.
+
+Gabarito: errado
+
+
+
+9.        CEBRASPE (CESPE) - ACI (CGDF)/CG DF/Finanças e Controle/2023
+
+É competência do Distrito Federal, em comum com a União,
+
+a) conservar o patrimônio público.
+
+b) elaborar e executar o plano plurianual, as diretrizes orçamentárias e o orçamento anual.
+
+c) exercer o poder de polícia administrativa.
+
+d) licenciar a construção de qualquer obra.
+
+Comentários:
+
+As competências comuns são as tarefas materiais/administrativas atribuídas em conjunto a todos
+os entes federativos, no âmbito do art. 23 da CF. Trata-se da aplicação da lógica de que “quanto
+mais entes atuando, melhor”.
+
+Nesse contexto, compete comumente a todos os entes da Federação (inclusive ao DF e à União,
+que é o que a questão pede) proteger o patrimônio público (art. 23, I), que é o descrito na
+alternativa “A”.
+
+“B” está errada porque essa competência é exercida pela União e pelo DF, mas de forma
+exclusiva (cada um elabora o seu orçamento). Da mesma forma ocorre em relação à alternativa
+“C” (União e DF têm poder de polícia em relação aos seus próprios serviços e atividades, mas
+não exercem essa atribuição em conjunto).
+
+Quanto à alternativa “D”, está errada porque, embora tanto a União quanto o DF licenciem
+obras, isso não é exercido em comum: existem aquelas que são licenciadas pela União e existem
+outras obras cuja competência para o licenciamento é do DF.
+
+Gabarito: A
+
+
+
+10.       CEBRASPE (CESPE) - Ana (CNMP)/CNMP/Apoio Jurídico/Direito/2023
+
+A competência comum da União, dos estados, do Distrito Federal e dos municípios para
+proteger o meio ambiente e combater a poluição em todas as suas formas deve ser exercida de
+acordo com lei complementar, que fixará normas para a cooperação entre esses entes
+federativos.
+
+Comentários:
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   59
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+As competências comuns são as tarefas materiais/administrativas atribuídas em conjunto a todos
+os entes federativos, no âmbito do art. 23 da CF. Trata-se da aplicação da lógica de que “quanto
+mais entes atuando, melhor”.
+
+Nesse contexto, compete comumente a todos os entes da Federação proteger o meio ambiente
+e combater a poluição (art. 23, VI). Por outro lado, o parágrafo único do mesmo art. 23
+estabelece que “Leis complementares fixarão normas para a cooperação entre a União e os
+Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do
+bem-estar em âmbito nacional”. Assim, o que se afirma no item está correto.
+
+Gabarito: correto
+
+
+
+11.    CEBRASPE (CESPE) - Ana (CNMP)/CNMP/Apoio Técnico Especializado/Arquivologia/2023
+
+A proteção dos dados pessoais, inclusive nos meios digitais, é um direito fundamental previsto
+expressamente na CF e, para sua concretização, foi conferida à União, aos estados e ao Distrito
+Federal a competência para legislar concorrentemente sobre a matéria.
+
+Comentários:
+
+Realmente, a EC nº 115/22 inclui no art. 5º da CF o inciso LXIX, o qual prevê como direito
+fundamental a proteção de dados pessoais. No âmbito das competências federativas, a mesma
+emenda atribuiu à União a competência exclusiva para “organizar e fiscalizar a proteção e o
+tratamento de dados pessoais, nos termos da lei” (art. 21, XXVI) e privativa para legislar sobre
+“proteção e tratamento de dados pessoais” (art. 22, XXX). Logo, o que se afirma no item está
+errado, pois a competência para legislar sobre proteção e tratamento de dados pessoais é
+privativa da União, e não concorrente.
+
+Gabarito: Errado
+
+
+
+12.    CEBRASPE (CESPE) - AFM (Pref Fortaleza)/Pref Fortaleza/Administração/2023
+
+A União tem competência exclusiva para legislar sobre a proteção e o tratamento de dados
+pessoais.
+
+Comentários:
+
+No âmbito das competências federativas, a EC 115/22 atribuiu à União a competência exclusiva
+para “organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei” (art.
+21, XXVI) e privativa para legislar sobre “proteção e tratamento de dados pessoais” (art. 22,
+XXX). Logo, o que se afirma no item está errado, pois a competência para legislar sobre proteção
+e tratamento de dados pessoais é privativa da União (delegável), e não exclusiva (indelegável).
+
+Gabarito: Errado
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      60
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+13.    CEBRASPE (CESPE) - Insp Reg (AGER MT)/AGER MT/2023
+
+Compete privativamente à União legislar sobre
+
+a) nacionalidade, cidadania e naturalização.
+
+b) orçamento.
+
+c) previdência social, proteção e defesa da saúde.
+
+d) produção e consumo.
+
+e) proteção à infância e à juventude.
+
+Comentários:
+
+Compete privativamente à União legislar sobre nacionalidade, cidadania e naturalização (art. 22,
+XIII), até mesmo porque dificilmente esses assuntos poderiam ser tratados por meio de lei
+estadual ou municipal. Logo, a alternativa correta é mesmo a letra “A”.
+
+Todas as demais alternativas trazem temas sobre os quais a União não legisla privativamente, mas
+sim de forma concorrente com os Estados e o DF, conforme previsto no art. 24, incisos II, XII, V e
+XV.
+
+Gabarito: A
+
+
+
+14.    CEBRASPE (CESPE) - PFN (PGFN)/PGFN/2023
+
+No que se refere à repartição constitucional de competências e à regulação das hipóteses de
+intervenção, pilares do federalismo, assinale a opção correta.
+
+a) Compete privativamente à União legislar sobre direito civil, comercial, penal, processual,
+eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho, bem como sobre política de
+crédito, câmbio, seguros e transferência de valores.
+
+b) A União poderá intervir em município situado em estado, para reorganizar suas finanças
+públicas, na hipótese de suspensão do pagamento da dívida consolidada por mais de três anos
+consecutivos.
+
+c) Compete privativamente à União legislar sobre direito tributário, financeiro, penitenciário,
+econômico e urbanístico, bem como sobre orçamento e juntas comerciais.
+
+d) É competência comum da União, dos estados, do Distrito Federal e dos municípios emitir
+moeda e administrar as reservas cambiais do Brasil e fiscalizar as operações de natureza
+financeira, especialmente as de crédito, câmbio e capitalização, bem como as de seguros e de
+previdência privada.
+
+e) No que concerne à competência concorrente da União e dos estados, inexistindo lei federal
+sobre normas gerais, os estados exercerão a competência legislativa plena, mas eventual
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      61
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+superveniência de lei federal sobre normas gerais implicará a revogação da lei estadual, no que
+lhe for contrário.
+
+Comentários:
+
+O art. 22, I, estabelece ser competência privativa da União legislar sobre “direito civil, comercial,
+penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho”. Da mesma
+maneira, o inciso VII do mesmo art. 22 também atribui à União a competência privativa para
+legislar sobre “política de crédito, câmbio, seguros e transferência de valores”, de modo que a
+alternativa “A” está mesmo correta.
+
+A alternativa “B” está errada porque a União não pode intervir em Município situado em Estado,
+o que só seria possível se se tratasse de Município situado em território federal (art. 35 da CF).
+
+A alternativa “C” está errada porque trata não de competências privativas da União, mas sim de
+competências a serem exercidas concorrentemente entre a União, os Estados e o DF (art. 24, I e
+II).
+
+A alternativa “D” está errada porque não indica competências a serem exercidas em comum por
+todos os entes da Federação (art. 23), mas sim tarefas que são exclusividade da União (art. 21, VII
+e VIII).
+
+Finalmente, a alternativa “E” está errada porque, no caso de o Estado legislar plenamente, no
+âmbito das competências concorrentes, e sobrevir lei federal em sentido contrário, esta não
+revoga aquela, apenas lhe suspende a eficácia, conforme prevê o art. 24, § 4º, da CF.
+
+Gabarito: A
+
+
+
+15.    CEBRASPE (CESPE) - Proc Mun (PGM SP)/Pref SP/2023
+
+No que diz respeito às atribuições dos municípios previstas na CF, assinale a opção correta.
+
+a) Os municípios possuem apenas competências administrativas relacionadas ao interesse local.
+
+b) A competência para prestar serviços de saúde pública é privativa dos municípios.
+
+c) Devido ao princípio da prevalência do interesse, no campo da competência legislativa
+concorrente, a legislação municipal prevalece sobre a estadual e a federal.
+
+d) O fato de a CF atribuir determinada matéria à competência legislativa da União não significa,
+necessariamente, que os municípios estejam impedidos de legislar sobre tal tema.
+
+e) Os municípios não podem legislar sobre matéria ambiental.
+
+Comentários:
+
+A alternativa “A” está errada porque, em se tratando do interesse local, cabe também aos
+Municípios legislar sobre isso, e não apenas exercer competências administrativas (art. 30, I).
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)         62
+        www.estrategiaconcursos.com.br                                                             74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+A alternativa “B” está errada porque cuidar da saúde é competência comum de todos os entes
+da Federação, e não apenas dos Municípios (art. 23, II).
+
+Por outro lado, a alternativa “C” está duplamente errada: primeiro, porque ordinariamente os
+Municípios nem sequer participam da legislação concorrente, visto não serem citados no caput
+do art. 24 da CF. Além disso, sua legislação apenas suplementa a legislação federal e estadual
+nesses temas, não podendo jamais sobrepor-se a essas (art. 30, II).
+
+A resposta é mesmo a alternativa “D”, já que os Municípios têm a prerrogativa de suplementar a
+legislação federal e estadual, no que couber (art. 30, II), de modo que a existência da
+competência legislativa federal não exclui totalmente a possibilidade de atuação legislativa
+municipal (vide, por exemplo, as matérias de competência concorrente em que o Município
+também pode excepcionalmente legislar, como, por exemplo, a matéria ambiental).
+
+Gabarito: D
+
+
+
+16.    CEBRASPE (CESPE) - Proc (PGE RR)/PGE RR/2023
+
+Na distribuição de competências entre os entes da Federação, estes só podem agir quando
+possuírem competência legislativa na matéria respectiva.
+
+Comentários:
+
+Embora frequentemente as competências materiais/administrativas, para execução do serviço, e
+legislativa, para a normatização do tema, venham juntas, nem sempre isso acontece. Dessa
+forma, não é correto afirmar que um ente só pode atuar (competência material) quando tem
+competência para legislar sobre o assunto. Apenas a título de exemplo, veja-se o caso da
+desapropriação, sobre a qual apenas a União pode legislar, mas que pode ser executada por
+todos os níveis federativos. Em outras palavras: a competência material/administrativa não
+necessariamente depende da competência legislativa, motivo pelo qual o item está errado.
+
+Gabarito: Errado
+
+
+
+17.    (FCC/TRT11/AJAA/2024)
+
+Determinado Estado da Federação promulga uma lei que estabelece: Fica expressamente
+proibida a denominada linguagem neutra na grade curricular e no material didático de
+instituições de ensino públicas ou privadas, assim como em editais de concursos públicos. Diante
+do ordenamento jurídico vigente, a referida lei é
+
+(A) inconstitucional somente na parte em que trata de editais de concursos públicos, diante da
+competência da União na matéria.
+
+(B) constitucional somente na parte em que trata de editais de concursos públicos, diante da
+competência suplementar dos Estados na matéria.
+
+(C) inconstitucional, por tratar de matéria de competência legislativa dos Municípios.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    63
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+(D) constitucional, por tratar de matéria de competência concorrente entre União, Estados e o
+Distrito Federal, cabendo aos entes regionais, como no caso, legislar para atender a suas
+peculiaridades.
+
+(E) inconstitucional, por tratar de matéria de competência legislativa da União.
+
+Comentários:
+
+Compete privativamente à União legislar sobre diretrizes e bases da educação nacional (art. 22,
+XXIV), o que inclui a definição dos padrões cultos da língua oficial do Brasil.
+
+Por conta disso, é inconstitucional lei estadual, distrital ou municipal que proíba (ou permita) a
+adoção da chamada “linguagem neutra” no âmbito do seu território, seja na educação, seja em
+editais de concursos públicos, por afrontar essa competência privativa da União. Foi nesse
+sentido que decidiu o STF ao julgar a ADI nº 7019/RO.
+
+Gabarito: E
+
+
+
+18.   (FCC/TRT11/AJAJ/2024) À luz da Constituição Federal e da jurisprudência do Supremo
+Tribunal Federal (STF), lei estadual que disponha sobre a contratação de aprendizes por
+empresas que participem do Programa Jovem Aprendiz no âmbito do Estado será
+
+(A) inconstitucional, por invadir competência legislativa privativa da União, cabendo ser objeto de
+ação direta de inconstitucionalidade perante o STF.
+
+(B) constitucional, por legislar de modo a atender a suas peculiaridades em matéria de
+competência concorrente.
+
+(C) constitucional, desde que se trate de lei complementar e que se restrinja a questões
+específicas da matéria.
+
+(D) inconstitucional, por invadir competência legislativa privativa da União, cabendo ser objeto de
+reclamação perante o STF, uma vez que contraria tese fixada em sede de repercussão geral.
+
+(E) inconstitucional, por invadir competência legislativa privativa da União, cabendo ser objeto de
+reclamação perante o STF, uma vez que contraria súmula vinculante existente sobre a matéria.
+
+Comentários:
+
+Compete à União legislar sobre direito do trabalho (art. 22, I) e sobre condições para o exercício
+de profissões (art. 22, XVI), o que inclui as condições para exercer a função de jovem aprendiz.
+Dessa maneira, uma lei estadual que trate sobre esse tema é inconstitucional, podendo ser
+objeto de ação direta de inconstitucionalidade para o STF (art. 102, I, a).
+
+As alternativas D e E não são aceitáveis porque, contra lei, não cabe reclamação (conforme
+decidido pelo STF, entre outros julgados, na Reclamação nº 3014), mas sim ação direta de
+inconstitucionalidade (como afirmado na alternativa “A”).
+
+Gabarito: A
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       64
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      https://t.me/KakashiAssinaturasBot
+   João Trindade Cavalcante Filho
+   Aula 09
+
+
+
+19.   (FCC - Ass Proc (PGE AM)/PGE AM/2022) Considere as seguintes competências dos entes
+da federação:
+
+I. Cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de
+deficiência.
+
+II. Proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à
+inovação.
+
+III. Preservar as florestas, a fauna e a flora.
+
+IV. Legislar sobre nacionalidade, cidadania e naturalização.
+
+V. Legislar sobre organização do sistema nacional de emprego e condições para o exercício de
+profissões.
+                                                           ==5460==
+
+
+
+
+De acordo com a Constituição Federal, é competência comum da União, dos Estados, do
+Distrito Federal e dos Municípios o que consta APENAS em
+
+a) II, IV e V.
+
+b) I, II e III.
+
+c) I, III e IV.
+
+d) III, IV e V.
+
+e) I, II e V.
+
+Comentário:
+
+À luz da CF, os três primeiros itens são competências comuns de todos os níveis federativos (art.
+23, II, V e VII).
+
+Por outro lado, legislar sobre nacionalidade (item IV) e sobre condições para o exercício de
+profissões (item V) são competências legislativas privativas da União, conforme estabelece o art.
+22, XIII e XVI).
+
+Como a questão pede quais são as competências comuns, a resposta é a mesmo a alternativa
+“B”.
+
+Gabarito: B
+
+
+
+20.   (FCC - AJ TRT23/TRT 23/Administrativa/"Sem Especialidade"/2022) De acordo com a
+Constituição Federal de 1988, é de competência comum da União, dos Estados, do Distrito
+Federal e dos Municípios, dentre outros,
+
+a) legislar sobre populações indígenas e sobre a proteção à infância e à juventude.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    65
+          www.estrategiaconcursos.com.br                                                        74
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+b) preservar as florestas, a fauna e a flora e legislar sobre populações indígenas.
+
+c) proteger o meio ambiente e legislar sobre a proteção do patrimônio histórico, cultural,
+artístico, turístico e paisagístico.
+
+d) proteger o meio ambiente e combater a poluição em qualquer de suas formas, além de
+preservar as florestas, a fauna e a flora.
+
+e) legislar sobre o serviço postal e sobre o trânsito e transporte.
+
+Comentário:
+
+A alternativa “A” está errada porque legislar sobre populações indígenas é competência privativa
+da União (art. 22, XIV), ao passo que legislar sobre proteção à infância e à juventude é
+competência comum da União, dos Estados e do DF (art. 24, XV).
+
+A alternativa “B” está errada porque, apesar de cuidar das florestas ser mesmo competência
+comum (art. 23, VII), legislar sobre populações indígenas é competência legislativa privativa da
+União (art. 22, XIII).
+
+A alternativa “C” está errada porque, apesar de cuidar do meio ambiente ser mesmo
+competência comum (art. 23, VI), legislar sobre a proteção do patrimônio público é competência
+legislativa concorrente (art. 24, VII).
+
+A resposta é mesmo a alternativa “D”, que prevê duas competências comuns de todos os entes
+da federação (art. 23, VI e VII).
+
+Gabarito: D
+
+
+
+21.   (FGV - TRF 1 - Juiz Federal Substituto – 2023) A Lei Beta do Estado Gama proibiu a
+denominada linguagem neutra em instituições de ensino e editais de concursos públicos. Diante
+do exposto e de acordo com a jurisprudência predominante do Supremo Tribunal Federal, a Lei
+é:
+
+A) inconstitucional, pois viola a competência legislativa da União para editar normas gerais sobre
+diretrizes e bases da educação;
+
+B) constitucional, pois a competência legislativa dos Estados é concorrente para editar normas
+sobre educação, bem como para definir regras de ingresso na carreira dos respectivos servidores;
+
+C) inconstitucional, pois viola o princípio da vedação ao retrocesso ao proibir o uso da
+denominada linguagem neutra em instituições de ensino e editais de concursos públicos;
+
+D) constitucional, pois observa o princípio da proporcionalidade ao proibir o uso da denominada
+linguagem neutra em instituições de ensino e editais de concursos públicos;
+
+E) inconstitucional, pois viola o princípio da igualdade ao proibir o uso da denominada
+linguagem neutra em instituições de ensino e editais de concursos públicos.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      66
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Comentários:
+
+Compete privativamente à União legislar sobre diretrizes e bases da educação nacional (art. 22,
+XXIV), o que inclui a definição dos padrões cultos da língua oficial do Brasil.
+
+Por conta disso, é inconstitucional lei estadual, distrital ou municipal que proíba (ou permita) a
+adoção da chamada “linguagem neutra” no âmbito do seu território, seja na educação seja em
+editais de concursos públicos, por afrontar essa competência privativa da União. Foi nesse
+sentido que decidiu o STF ao julgar a ADI nº 7019/RO.
+
+Dessa maneira, a resposta adequada é a alternativa “A”. Vale registrar que a declaração de
+inconstitucionalidade não levou em conta questões sobre a compatibilidade material da norma
+com os princípios da liberdade de cátedra, ou da igualdade, isto é, a declaração de
+inconstitucionalidade deu-se por vício formal (invasão de competência da União), o que exclui as
+alternativas “C” e “E”.
+
+Gabarito: A
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      67
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+
+                                            LISTA DE QUESTÕES
+1.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Cabe aos estados explorar diretamente, ou mediante concessão, os serviços locais de gás
+canalizado, na forma da lei.
+
+
+
+2.        CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Apoio Especializado/Administração/2023
+
+Os estados podem explorar diretamente os serviços locais de gás canalizado, sendo vedada a
+sua regulamentação por meio de medida provisória.
+
+
+
+3.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Compete concorrentemente à União, aos estados e ao Distrito Federal legislar sobre trânsito e
+transporte.
+
+
+
+4.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Compete privativamente à União legislar sobre a organização do sistema nacional de emprego e
+as condições para o exercício de profissões.
+
+
+
+5.        CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Planejamento e Orçamento/2023
+
+Lei complementar poderá autorizar os estados a legislar sobre questões específicas relacionadas
+a registros públicos.
+
+
+
+6.        CEBRASPE (CESPE) - Proc (MP TCERJ)/TCE RJ/2023
+
+Os municípios não têm competência concorrente para legislar sobre matéria tributária, porque
+somente legislam sobre matéria de interesse local, podendo, ainda, suplementar as legislações
+federal e estadual no que couber.
+
+
+
+7.        CEBRASPE (CESPE) - PJ (MPE SC)/MPE SC/2023
+
+A competência legislativa concorrente dos entes federados, a exemplo das normas de proteção
+do meio ambiente e da responsabilidade por dano a consumidores, não tem caráter cumulativo,
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   68
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 09
+
+
+
+de modo que as normas gerais editadas pela União devem ser respeitadas pelos entes
+subnacionais.
+
+
+
+8.        CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Administrativa/2023
+
+Lei estadual que discipline aspectos específicos de proteção à infância e à juventude será
+inconstitucional por vício de competência, pois a competência para legislar sobre essa matéria é
+privativa da União.
+
+
+
+9.        CEBRASPE (CESPE) - ACI (CGDF)/CG DF/Finanças e Controle/2023
+
+É competência do Distrito Federal, em comum com a União,
+
+a) conservar o patrimônio público.
+
+b) elaborar e executar o plano plurianual, as diretrizes orçamentárias e o orçamento anual.
+
+c) exercer o poder de polícia administrativa.
+
+d) licenciar a construção de qualquer obra.
+
+
+
+10.       CEBRASPE (CESPE) - Ana (CNMP)/CNMP/Apoio Jurídico/Direito/2023
+
+A competência comum da União, dos estados, do Distrito Federal e dos municípios para
+proteger o meio ambiente e combater a poluição em todas as suas formas deve ser exercida de
+acordo com lei complementar, que fixará normas para a cooperação entre esses entes
+federativos.
+
+
+
+11.       CEBRASPE (CESPE) - Ana (CNMP)/CNMP/Apoio Técnico Especializado/Arquivologia/2023
+
+A proteção dos dados pessoais, inclusive nos meios digitais, é um direito fundamental previsto
+expressamente na CF e, para sua concretização, foi conferida à União, aos estados e ao Distrito
+Federal a competência para legislar concorrentemente sobre a matéria.
+
+
+
+12.       CEBRASPE (CESPE) - AFM (Pref Fortaleza)/Pref Fortaleza/Administração/2023
+
+A União tem competência exclusiva para legislar sobre a proteção e o tratamento de dados
+pessoais.
+
+
+
+13.       CEBRASPE (CESPE) - Insp Reg (AGER MT)/AGER MT/2023
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   69
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+Compete privativamente à União legislar sobre
+
+a) nacionalidade, cidadania e naturalização.
+
+b) orçamento.
+
+c) previdência social, proteção e defesa da saúde.
+
+d) produção e consumo.
+
+e) proteção à infância e à juventude.
+
+
+
+14.    CEBRASPE (CESPE) - PFN (PGFN)/PGFN/2023
+
+No que se refere à repartição constitucional de competências e à regulação das hipóteses de
+intervenção, pilares do federalismo, assinale a opção correta.
+
+a) Compete privativamente à União legislar sobre direito civil, comercial, penal, processual,
+eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho, bem como sobre política de
+crédito, câmbio, seguros e transferência de valores.
+
+b) A União poderá intervir em município situado em estado, para reorganizar suas finanças
+públicas, na hipótese de suspensão do pagamento da dívida consolidada por mais de três anos
+consecutivos.
+
+c) Compete privativamente à União legislar sobre direito tributário, financeiro, penitenciário,
+econômico e urbanístico, bem como sobre orçamento e juntas comerciais.
+
+d) É competência comum da União, dos estados, do Distrito Federal e dos municípios emitir
+moeda e administrar as reservas cambiais do Brasil e fiscalizar as operações de natureza
+financeira, especialmente as de crédito, câmbio e capitalização, bem como as de seguros e de
+previdência privada.
+
+e) No que concerne à competência concorrente da União e dos estados, inexistindo lei federal
+sobre normas gerais, os estados exercerão a competência legislativa plena, mas eventual
+superveniência de lei federal sobre normas gerais implicará a revogação da lei estadual, no que
+lhe for contrário.
+
+
+
+15.    CEBRASPE (CESPE) - Proc Mun (PGM SP)/Pref SP/2023
+
+No que diz respeito às atribuições dos municípios previstas na CF, assinale a opção correta.
+
+a) Os municípios possuem apenas competências administrativas relacionadas ao interesse local.
+
+b) A competência para prestar serviços de saúde pública é privativa dos municípios.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      70
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+c) Devido ao princípio da prevalência do interesse, no campo da competência legislativa
+concorrente, a legislação municipal prevalece sobre a estadual e a federal.
+
+d) O fato de a CF atribuir determinada matéria à competência legislativa da União não significa,
+necessariamente, que os municípios estejam impedidos de legislar sobre tal tema.
+
+e) Os municípios não podem legislar sobre matéria ambiental.
+
+
+
+16.    CEBRASPE (CESPE) - Proc (PGE RR)/PGE RR/2023
+
+Na distribuição de competências entre os entes da Federação, estes só podem agir quando
+possuírem competência legislativa na matéria respectiva.
+
+
+
+17.    (FCC/TRT11/AJAA/2024)
+
+Determinado Estado da Federação promulga uma lei que estabelece: Fica expressamente
+proibida a denominada linguagem neutra na grade curricular e no material didático de
+instituições de ensino públicas ou privadas, assim como em editais de concursos públicos. Diante
+do ordenamento jurídico vigente, a referida lei é
+
+(A) inconstitucional somente na parte em que trata de editais de concursos públicos, diante da
+competência da União na matéria.
+
+(B) constitucional somente na parte em que trata de editais de concursos públicos, diante da
+competência suplementar dos Estados na matéria.
+
+(C) inconstitucional, por tratar de matéria de competência legislativa dos Municípios.
+
+(D) constitucional, por tratar de matéria de competência concorrente entre União, Estados e o
+Distrito Federal, cabendo aos entes regionais, como no caso, legislar para atender a suas
+peculiaridades.
+
+(E) inconstitucional, por tratar de matéria de competência legislativa da União.
+
+
+
+18.   (FCC/TRT11/AJAJ/2024) À luz da Constituição Federal e da jurisprudência do Supremo
+Tribunal Federal (STF), lei estadual que disponha sobre a contratação de aprendizes por
+empresas que participem do Programa Jovem Aprendiz no âmbito do Estado será
+
+(A) inconstitucional, por invadir competência legislativa privativa da União, cabendo ser objeto de
+ação direta de inconstitucionalidade perante o STF.
+
+(B) constitucional, por legislar de modo a atender a suas peculiaridades em matéria de
+competência concorrente.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       71
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      https://t.me/KakashiAssinaturasBot
+   João Trindade Cavalcante Filho
+   Aula 09
+
+
+
+(C) constitucional, desde que se trate de lei complementar e que se restrinja a questões
+específicas da matéria.
+
+(D) inconstitucional, por invadir competência legislativa privativa da União, cabendo ser objeto de
+reclamação perante o STF, uma vez que contraria tese fixada em sede de repercussão geral.
+
+(E) inconstitucional, por invadir competência legislativa privativa da União, cabendo ser objeto de
+reclamação perante o STF, uma vez que contraria súmula vinculante existente sobre a matéria.
+
+
+
+19.   (FCC - Ass Proc (PGE AM)/PGE AM/2022) Considere as seguintes competências dos entes
+da federação:
+
+I. Cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de
+deficiência.                                               ==5460==
+
+
+
+
+II. Proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à
+inovação.
+
+III. Preservar as florestas, a fauna e a flora.
+
+IV. Legislar sobre nacionalidade, cidadania e naturalização.
+
+V. Legislar sobre organização do sistema nacional de emprego e condições para o exercício de
+profissões.
+
+De acordo com a Constituição Federal, é competência comum da União, dos Estados, do
+Distrito Federal e dos Municípios o que consta APENAS em
+
+a) II, IV e V.
+
+b) I, II e III.
+
+c) I, III e IV.
+
+d) III, IV e V.
+
+e) I, II e V.
+
+
+
+20.   (FCC - AJ TRT23/TRT 23/Administrativa/"Sem Especialidade"/2022) De acordo com a
+Constituição Federal de 1988, é de competência comum da União, dos Estados, do Distrito
+Federal e dos Municípios, dentre outros,
+
+a) legislar sobre populações indígenas e sobre a proteção à infância e à juventude.
+
+b) preservar as florestas, a fauna e a flora e legislar sobre populações indígenas.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     72
+          www.estrategiaconcursos.com.br                                                         74
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 09
+
+
+
+c) proteger o meio ambiente e legislar sobre a proteção do patrimônio histórico, cultural,
+artístico, turístico e paisagístico.
+
+d) proteger o meio ambiente e combater a poluição em qualquer de suas formas, além de
+preservar as florestas, a fauna e a flora.
+
+e) legislar sobre o serviço postal e sobre o trânsito e transporte.
+
+
+
+21.   (FGV - TRF 1 - Juiz Federal Substituto – 2023) A Lei Beta do Estado Gama proibiu a
+denominada linguagem neutra em instituições de ensino e editais de concursos públicos. Diante
+do exposto e de acordo com a jurisprudência predominante do Supremo Tribunal Federal, a Lei
+é:
+
+A) inconstitucional, pois viola a competência legislativa da União para editar normas gerais sobre
+diretrizes e bases da educação;
+
+B) constitucional, pois a competência legislativa dos Estados é concorrente para editar normas
+sobre educação, bem como para definir regras de ingresso na carreira dos respectivos servidores;
+
+C) inconstitucional, pois viola o princípio da vedação ao retrocesso ao proibir o uso da
+denominada linguagem neutra em instituições de ensino e editais de concursos públicos;
+
+D) constitucional, pois observa o princípio da proporcionalidade ao proibir o uso da denominada
+linguagem neutra em instituições de ensino e editais de concursos públicos;
+
+E) inconstitucional, pois viola o princípio da igualdade ao proibir o uso da denominada
+linguagem neutra em instituições de ensino e editais de concursos públicos.
+
+
+
+
+                                                  GABARITO
+            01         02            03             04            05             06          07
+
+            C          C             E              C             C              C           C
+
+            08         09            10             11            12             13          14
+
+            E          A             C              E             E              A           A
+
+            15         16            17             18            19             20          21
+
+            D          E             E              A             B              D           A
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        73
+        www.estrategiaconcursos.com.br                                                            74
+
+                                      https://t.me/KakashiAssinaturasBot
+

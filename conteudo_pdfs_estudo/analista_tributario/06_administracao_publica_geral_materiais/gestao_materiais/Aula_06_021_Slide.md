@@ -1,0 +1,527 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_021_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: ARMAZENAGEM E MOVIMENTAÇÃO
+---
+
+# ARMAZENAGEM E MOVIMENTAÇÃO
+
+---
+
+---
+
+ARMAZENAGEM E MOVIMENTAÇÃO
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - XIII
+
+                                                 Prof. Ricardo Campanario
+
+            
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CRM MG/Almoxarife/2023) Com relação ao almoxarifado, assinale a alternativa correta.
+     a) Na gestão de estoques, é necessário estabelecer um sistema de inventário fixo, que possibilite, a
+     qualquer momento, a determinação do valor de cada item e o total dos materiais em estoque.
+     b) É desnecessária a estocagem de todos os materiais em locais previamente designados, visto que tal
+     método não privilegia a eficiência da gestão de estoques.
+     c) O relatório de inspeção é uma descrição dos materiais recebidos, na qual devem constar:
+     quantidades; fornecedor; número do pedido de compra; e outras informações entendidas como
+     oportunas.
+     d) O relatório de teste de materiais deve constar do relatório de recebimento.
+     e) O controle de estoque pode ser entendido como a medição do progresso em relação aos
+     objetivos-padrão, à análise do que precisa ser feito e à tomada de iniciativas para a devida correção, a
+     fim de se realizarem os objetivos ou se alcançar o padrão.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoques
+       Busca da eficiência, receita e lucratividade
+       ❑ Quando a empresa possui amplo conhecimento a respeito da constituição e do comportamento
+         dos seus estoques, ela poderá gerenciar tanto o processo de demanda como de abastecimento
+         por meio de eficientes modelos.
+
+       ❑ E é justamente nesse cenário, de amplo conhecimento e modelagem da informação disponível,
+         que a empresa poderá tomar as melhores decisões em relação aos níveis de estoque desejados,
+         os momentos e volumes ideais de aquisição e demais decisões relativas a armazenamento e
+         transporte, tudo visando atingir suas metas de receita e lucratividade.
+
+       ❑ Nesse contexto, em qualquer organização os estoques representarão um componente da maior
+         importância seja sob o olhar econômico-financeiro ou sob o olhar operacional.
+
+       ❑ Marketing, Vendas e, sobretudo, a área Operacional (fábrica) vão querer sempre estoques mais
+         altos para honrar suas metas internas ou com clientes. Porém, estoque além da conta gera
+         desperdício, custo adicional e impacta negativamente a rentabilidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CRM MG/Almoxarife/2023) Com relação ao almoxarifado, assinale a alternativa correta.
+     a) Na gestão de estoques, é necessário estabelecer um sistema de inventário fixo, que possibilite, a
+     qualquer momento, a determinação do valor de cada item e o total dos materiais em estoque.
+     b) É desnecessária a estocagem de todos os materiais em locais previamente designados, visto que tal
+     método não privilegia a eficiência da gestão de estoques.
+     c) O relatório de inspeção é uma descrição dos materiais recebidos, na qual devem constar:
+     quantidades; fornecedor; número do pedido de compra; e outras informações entendidas como
+     oportunas.
+     d) O relatório de teste de materiais deve constar do relatório de recebimento.
+     e) O controle de estoque pode ser entendido como a medição do progresso em relação aos
+     objetivos-padrão, à análise do que precisa ser feito e à tomada de iniciativas para a devida correção, a
+     fim de se realizarem os objetivos ou se alcançar o padrão.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRM MG/Almoxarife/2023) Quanto ao almoxarifado, assinale a alternativa correta.
+     a) Os fatores fundamentais para uma boa gestão de recursos materiais dividem-se em quatro:
+     qualidade do material; quantidade necessária; prazo de entrega; e preço.
+     b) Somente as características físicas do material impactam na escolha dos métodos para seu manuseio
+     e sua estocagem.
+     c) A qualidade do material manipulado por vez e a frequência com que são realizadas as diversas
+     movimentações estão ligadas às variações que o material sofre durante o processo, a seu grau de
+     especialização e às características dos produtos nas diversas fases.
+     d) Não se associam à administração de materiais os serviços a eles relacionados, como, por exemplo,
+     assistência técnica, seguros, distribuição regionalizada e reposição automática.
+     e) As áreas e os itens a serem inventariados deverão ser arrumados da melhor forma possível,
+     agrupando-se os produtos iguais e identificando-se todos os materiais com seus respectivos cartões.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRM MG/Almoxarife/2023) Quanto ao almoxarifado, assinale a alternativa correta.
+     a) Os fatores fundamentais para uma boa gestão de recursos materiais dividem-se em quatro:
+     qualidade do material; quantidade necessária; prazo de entrega; e preço.
+     b) Somente as características físicas do material impactam na escolha dos métodos para seu manuseio
+     e sua estocagem.
+     c) A qualidade do material manipulado por vez e a frequência com que são realizadas as diversas
+     movimentações estão ligadas às variações que o material sofre durante o processo, a seu grau de
+     especialização e às características dos produtos nas diversas fases.
+     d) Não se associam à administração de materiais os serviços a eles relacionados, como, por exemplo,
+     assistência técnica, seguros, distribuição regionalizada e reposição automática.
+     e) As áreas e os itens a serem inventariados deverão ser arrumados da melhor forma possível,
+     agrupando-se os produtos iguais e identificando-se todos os materiais com seus respectivos cartões.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRM MG/Almoxarife/2023) A respeito do almoxarifado, assinale a
+     alternativa correta.
+     a) Toda indústria é um fluxo limitado de materiais, que são processados ao longo de
+     várias atividades no sistema produtivo.
+     b) As empresas primárias são chamadas, também, de empresas de transformação, pelo
+     fato de partirem de uma matéria-prima adquirida de terceiros para processá-la e
+     transformá-la em produto acabado.
+     c) Os serviços são atividades especializadas que as empresas oferecem ao mercado.
+     d) As matérias-primas são as que passam por processamento ao longo das diversas
+     seções que compõem o processo produtivo da empresa.
+     e) O fluxo de produção é o ponto em que a produção é mais demorada, fazendo com
+     que o material fique parado por mais tempo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Pegadinhas clássicas
+       Em que setor da economia acontece a Administração de Materiais?
+
+       ❑ Importante lembrar também que é muito comum, ao falarmos de gestão de materiais, nos
+         referirmos ao setor secundário, ou seja, a indústria de transformação, que visa o lucro, mesmo
+         estando estudando para concursos públicos!
+
+       ❑ Porém, é importante você saber que a atividade de gestão de materiais acontece também nos
+         setores primário (agricultura, extrativismo, etc.) e terciário (serviços e comércio) da economia.
+
+       ❑ No setor primário, por exemplo, os materiais adquiridos visam possibilitar operações de extração
+         de matéria primas diversas como barcos, equipamentos e combustíveis para o setor de pesca;
+         sondas e torres para a extração de óleo e adubos e sementes para as atividades de colheitas
+         agrícolas.
+
+       ❑ Já no setor terciário os materiais entram na composição do serviço prestado (como os produtos
+         hospitalares) ou podem servir de suporte para a prestação dos mais variados serviços (como o
+         material de papelaria e escritório).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRM MG/Almoxarife/2023) A respeito do almoxarifado, assinale a
+     alternativa correta.
+     a) Toda indústria é um fluxo limitado de materiais, que são processados ao longo de
+     várias atividades no sistema produtivo.
+     b) As empresas primárias são chamadas, também, de empresas de transformação, pelo
+     fato de partirem de uma matéria-prima adquirida de terceiros para processá-la e
+     transformá-la em produto acabado.
+     c) Os serviços são atividades especializadas que as empresas oferecem ao mercado.
+     d) As matérias-primas são as que passam por processamento ao longo das diversas
+     seções que compõem o processo produtivo da empresa.
+     e) O fluxo de produção é o ponto em que a produção é mais demorada, fazendo com
+     que o material fique parado por mais tempo.
+     GABARITO - C
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRM MG/Almoxarife/2023) No que se refere ao almoxarifado, assinale a
+     alternativa correta.
+     a) A eficiência do sistema de armazenagem e o capital necessário para sua execução
+     independem da escolha adequada de sistema, uma vez que haverá sempre uma
+     adaptabilidade do sistema escolhido.
+     b) O almoxarifado está diretamente ligado à movimentação e ao transporte interno de
+     cargas.
+     c) As características de natureza física e química do material não impactam na escolha
+     dos métodos para manuseio e estocagem.
+     d) A quantidade de material manipulado por vez e a frequência com que são realizadas
+     as diversas movimentações estão ligadas, exclusivamente, a seu grau de especialização.
+     e) Qualquer funcionário do almoxarifado pode ser responsável pela manutenção do
+     sistema de localização de materiais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRM MG/Almoxarife/2023) No que se refere ao almoxarifado, assinale a
+     alternativa correta.
+     a) A eficiência do sistema de armazenagem e o capital necessário para sua execução
+     independem da escolha adequada de sistema, uma vez que haverá sempre uma
+     adaptabilidade do sistema escolhido.
+     b) O almoxarifado está diretamente ligado à movimentação e ao transporte interno de
+     cargas.
+     c) As características de natureza física e química do material não impactam na escolha
+     dos métodos para manuseio e estocagem.
+     d) A quantidade de material manipulado por vez e a frequência com que são realizadas
+     as diversas movimentações estão ligadas, exclusivamente, a seu grau de especialização.
+     e) Qualquer funcionário do almoxarifado pode ser responsável pela manutenção do
+     sistema de localização de materiais.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CREFONO 2/Auxiliar/2023) Em relação à administração de materiais, julgue
+     o item. O almoxarifado deve minimizar o capital investido em estoques, pois este é caro e
+     aumenta de forma contínua.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CREFONO 2/Auxiliar/2023) Em relação à administração de materiais, julgue
+     o item. O almoxarifado deve minimizar o capital investido em estoques, pois este é caro(?)
+     e aumenta de forma contínua.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRM MG/Almoxarife/2023) Com relação ao protocolo, assinale a alternativa correta.
+     a) A quantidade de material manipulado por vez e a frequência com que são realizadas as diversas
+     movimentações estão ligadas às variações que o material sofre durante o processo, a seu grau de
+     especialização e às características dos produtos nas diversas fases.
+     b) O protocolo está diretamente ligado à movimentação e ao transporte interno de cargas.
+     c) A internalização ocupa-se da maneira como devem ser utilizados os materiais, em suas diversas
+     finalidades, e da padronização e da identificação do material.
+     d) Os inventários nominais são efetuados ao fim do exercício fiscal e abrangem todos os itens de
+     estoque de uma só vez.
+     e) O sistema de classificação é dispensável para qualquer departamento de matérias, pois existem
+     outros meios de controle eficientes dos estoques.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRM MG/Almoxarife/2023) Com relação ao protocolo, assinale a alternativa correta.
+     a) A quantidade de material manipulado por vez e a frequência com que são realizadas as diversas
+     movimentações estão ligadas às variações que o material sofre durante o processo, a seu grau de
+     especialização e às características dos produtos nas diversas fases.
+     b) O protocolo está diretamente ligado à movimentação e ao transporte interno de cargas.
+     c) A internalização ocupa-se da maneira como devem ser utilizados os materiais, em suas diversas
+     finalidades, e da padronização e da identificação do material.
+     d) Os inventários nominais são efetuados ao fim do exercício fiscal e abrangem todos os itens de
+     estoque de uma só vez.
+     e) O sistema de classificação é dispensável para qualquer departamento de matérias, pois existem
+     outros meios de controle eficientes dos estoques.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. A informação acerca do peso líquido de cada item de consumo deve ser
+     considerada no planejamento e no leiaute do almoxarifado.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. A informação acerca do peso líquido de cada item de consumo deve ser
+     considerada no planejamento e no leiaute do almoxarifado.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. A verificação quantitativa de embalagens padronizadas e em grandes quantidades,
+     no ato do recebimento, pode ser realizada por meio de cálculos.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recebimento
+       As 4 etapas
+         O recebimento contém
+         basicamente as fases
+         abaixo, sendo que
+         comumente as fases 1 e
+         2 são encaradas como
+         uma coisa só, a entrada
+         do material. Além dela
+         temos as conferências
+         quantitativa, qualitativa
+         e a regularização,
+         compondo as
+         tradicionais 4 fases do
+         recebimento
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. A verificação quantitativa de embalagens padronizadas e em grandes quantidades,
+     no ato do recebimento, pode ser realizada por meio de cálculos.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/Logística/2023) No que se refere a logística, armazenagem e
+     movimentação de cargas, julgue o item a seguir. A armazenagem se restringe à guarda de
+     estoques de produtos semiacabados ou acabados que estejam alocados na mesma
+     localização que o fabricante ou em local fixo pré-estabelecido.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Aplicação em Resumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/Logística/2023) No que se refere a logística, armazenagem e
+     movimentação de cargas, julgue o item a seguir. A armazenagem se restringe à guarda de
+     estoques de produtos semiacabados ou acabados que estejam alocados na mesma
+     localização que o fabricante ou em local fixo pré-estabelecido.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (CEBRASPE/Pref. Mun. Fortaleza-CE/Auditor/2023) Com relação à gestão de
+     almoxarifados e armazéns, julgue o item subsequente. Entre as funções da área de gestão
+     de almoxarifado inclui-se o recebimento de materiais adquiridos pela organização.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recebimento
+       As 4 etapas
+         O recebimento contém
+         basicamente as fases
+         abaixo, sendo que
+         comumente as fases 1 e
+         2 são encaradas como
+         uma coisa só, a entrada
+         do material. Além dela
+         temos as conferências
+         quantitativa, qualitativa
+         e a regularização,
+         compondo as
+         tradicionais 4 fases do
+         recebimento
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Almoxarifados
+       As atividades operacionais
+     ❑ Na figura abaixo ficam claras quais são as grandes funções/atividades operacionais de um
+       almoxarifado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (CEBRASPE/Pref. Mun. Fortaleza-CE/Auditor/2023) Com relação à gestão de
+     almoxarifados e armazéns, julgue o item subsequente. Entre as funções da área de gestão
+     de almoxarifado inclui-se o recebimento de materiais adquiridos pela organização.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+       ricardocampanario
+                   
+
+
+---
+
+---

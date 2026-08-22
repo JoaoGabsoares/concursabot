@@ -1,0 +1,3758 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 14_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Temas Especiais de
+---
+
+# Temas Especiais de
+
+---
+
+Temas Especiais de
+   Português
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+CADERNO 18
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+Semântica: hiperonímia
+    e hiponímia
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+HIPERÔNIMO: palavra com sentido mais geral ,refere-se a uma espécie, grupo.
+
+Ex.: De todos os ANIMAIS ,prefiro os pássaros.
+
+HIPÔNIMO: palavra com sentido mais restrito,refere-se a um elemento de
+determinada espécie ou grupo.
+
+Ex.: De todos os animais, prefiro os PÁSSAROS.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+Hiperônimos                Hipônimos
+
+Profissão                  médico, professor…
+
+Transporte                 navio, avião…
+
+Tecnologia.                computador, tablet…
+
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+I. Relacione cada hiperônimo a seu respectivo hipônimo.
+
+1. religião   6. Universo
+2. jogo       7. órgão
+3. animal     8. sentimento
+4. ferramenta 9. moradia
+5. fruta      10. veículo
+
+
+a) pulmão ( )
+
+b) sobrado(                )
+
+c) catolicismo(                )
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+d) leão ( )
+
+e) amizade( )
+
+f) truco( )
+
+g) maçã ( )
+
+h) bicicleta(                  )
+
+i) serrote( )
+
+j) estrelas(               )
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+01. VUNESP - Prefeitura de Serrana - SP - Professor de Educação Básica
+
+Com fundamento em Koch e Elias (2011), a relação entre os termos “objeto” e
+“garfo” é a mesma que se estabelece, na mesma ordem, entre os termos
+
+
+A) “mamífero” e “baleia”, em que o primeiro é superordenado em relação ao
+segundo, caracterizando a hiperonímia.
+
+B) “coisa” e “negócio”, em que tanto o primeiro quanto o segundo possuem sentido
+impreciso, caracterizando a ambiguidade.
+
+C) flor” e “planta”, em que o primeiro é mais específico em relação ao segundo,
+caracterizando a hiponímia.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+01. VUNESP - Prefeitura de Serrana - SP - Professor de Educação Básica
+
+D) “jantar” e “comer”, em que tanto o primeiro quanto o segundo possuem o
+mesmo sentido, caracterizando a sinonímia.
+
+E) “arco-íris” e “pôr-do-sol”, em que os dois termos estão no mesmo campo
+semântico, caracterizando a sumarização.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+01. VUNESP - Prefeitura de Serrana - SP - Professor de Educação Básica
+
+Com fundamento em Koch e Elias (2011), a relação entre os termos “objeto” e
+“garfo” é a mesma que se estabelece, na mesma ordem, entre os termos
+
+
+A) “mamífero” e “baleia”, em que o primeiro é superordenado em relação ao
+segundo, caracterizando a hiperonímia.
+
+B) “coisa” e “negócio”, em que tanto o primeiro quanto o segundo possuem sentido
+impreciso, caracterizando a ambiguidade.
+
+C) flor” e “planta”, em que o primeiro é mais específico em relação ao segundo,
+caracterizando a hiponímia.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+02. VUNESP - Prefeitura de Sertãozinho - SP - Professor de Educação
+Básica
+
+Observe as passagens:
+
+•     ... do latim coena, última refeição do dia, o nosso popular jantar. A ceia de
+      Natal...
+
+•     Não havendo nada para comer, a estalajadeira vende-lhes um ganso. Judas,
+      ganancioso, sopra as penas da barriga da ave…
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+02. VUNESP - Prefeitura de Sertãozinho - SP - Professor de Educação
+Básica
+
+Nas passagens, a relação que há entre os termos destacados é, respectivamente, de
+
+A) sinonímia e retomada por hipônimo.
+B) hipônimos de “alimentar-se” e sinônimos.
+C) anáfora associativa e sinônimos.
+D) sinonímia e retomada por hiperônimo.
+E) anáfora especificadora e catáfora
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+02. VUNESP - Prefeitura de Sertãozinho - SP - Professor de Educação
+Básica
+
+Nas passagens, a relação que há entre os termos destacados é, respectivamente, de
+
+A) sinonímia e retomada por hipônimo.
+B) hipônimos de “alimentar-se” e sinônimos.
+C) anáfora associativa e sinônimos.
+D) sinonímia e retomada por hiperônimo.
+E) anáfora especificadora e catáfora
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+03. IBFC - 2023 - SEC-BA - Professor da Educação Básica
+
+A partir das afirmativas, assinale a alternativa que indique a relação de sentido da
+palavra ‘veículo’ com as demais:
+
+Veículo ➝ carro, motocicleta, bicicleta, ônibus, automóvel.
+
+I. ‘Carro’ e ‘ônibus’ são antônimos do vocábulo ‘veículo’.
+
+II. ‘Veículo’ é hiperônimo e as demais palavras são hipônimas.
+
+III. Veículo é hipônimo e as demais são hiperônimos.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+03. IBFC - 2023 - SEC-BA - Professor da Educação Básica
+
+
+A) Apenas a afirmativa I está correta.
+
+B) Apenas a afirmativa II está correta.
+
+C) Apenas a afirmativa III está correta.
+
+D) Apenas as afirmativas I e II estão corretas.
+
+E) Apenas as afirmativas II e III estão corretas.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+03. IBFC - 2023 - SEC-BA - Professor da Educação Básica
+
+
+A) Apenas a afirmativa I está correta.
+
+B) Apenas a afirmativa II está correta.
+
+C) Apenas a afirmativa III está correta.
+
+D) Apenas as afirmativas I e II estão corretas.
+
+E) Apenas as afirmativas II e III estão corretas.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+04. CESGRANRIO - Prefeitura de Salvador - BA - Professor
+
+Estabelece relação de hiperonímia/hiponímia, nessa ordem, o seguinte par de
+palavras:
+
+
+A) estrondo – ruído.
+
+B) pescador – trabalhador.
+
+C) pista – aeroporto.
+
+D) piloto – comissário.
+
+E) aeronave – jatinho.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+04. CESGRANRIO - Prefeitura de Salvador - BA - Professor
+
+Estabelece relação de hiperonímia/hiponímia, nessa ordem, o seguinte par de
+palavras:
+
+
+A) estrondo – ruído.
+
+B) pescador – trabalhador.
+
+C) pista – aeroporto.
+
+D) piloto – comissário.
+
+E) aeronave – jatinho.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+05. CEPUERJ - UERJ - Técnico de Enfermagem
+
+“...Evite ingerir o medicamento juntamente com alimentos (...) Evite também ingerir
+álcool durante o tratamento, pois o uso de XXXXXX com álcool é tóxico para o
+fígado..13.”
+
+O emprego da palavra “medicamento” em substituição a “XXXXXX” constitui caso
+de:
+
+A) sinonímia
+B) hiponímia
+C) antonímia
+D) hiperonímia
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+05. CEPUERJ - UERJ - Técnico de Enfermagem
+
+“...Evite ingerir o medicamento juntamente com alimentos (...) Evite também ingerir
+álcool durante o tratamento, pois o uso de XXXXXX com álcool é tóxico para o
+fígado..13.”
+
+O emprego da palavra “medicamento” em substituição a “XXXXXX” constitui caso
+de:
+
+A) sinonímia
+B) hiponímia
+C) antonímia
+D) hiperonímia
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+06. CEPERJ - ALERJ - Assessoramento ás Comissões
+
+Leia o texto a seguir e responda à questão.
+
+Texto I
+
+O trecho de texto a seguir é uma circular, datada de 1794, dirigida aos funcionários
+públicos da França, após a Revolução Francesa.
+
+"Decência e genuína seriedade são os requisitos exigidos de homens dedicados à
+coisa pública. "
+
+(Apud LASSWELL, Harold & Kaplan, Abraham. A linguagem da política, Brasília, EUB,
+1979)
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+06. CEPERJ - ALERJ - Assessoramento ás Comissões
+A palavra “requisitos” guarda, com as palavras “decência” e “seriedade” , relação
+semântico-coesiva de:
+
+
+A) sinonímia
+
+B) polissemia
+
+C) paronímia
+
+D) hiperonímia
+
+E) antonímia
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+06. CEPERJ - ALERJ - Assessoramento ás Comissões
+A palavra “requisitos” guarda, com as palavras “decência” e “seriedade” , relação
+semântico-coesiva de:
+
+
+A) sinonímia
+
+B) polissemia
+
+C) paronímia
+
+D) hiperonímia
+
+E) antonímia
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. FUNRIO - SESAU-RO - Técnico em Informática
+“Famílias de pequenos municípios choravam seus mortos e doentes em dezembro
+sem saber de que mal se tratava”.
+
+Nesse segmento, o termo “mal” é um hiperônimo, ou seja, um termo de conteúdo
+geral que se refere a um termo específico anterior; o item abaixo em que o segundo
+vocábulo é um hiperônimo do termo anterior é:
+
+A) dezembro / mês.
+B) semanas / dias.
+C) doença / febre.
+D) região / estado.
+E) insetos / mosquitos
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+07. FUNRIO - SESAU-RO - Técnico em Informática
+“Famílias de pequenos municípios choravam seus mortos e doentes em dezembro
+sem saber de que mal se tratava”.
+
+Nesse segmento, o termo “mal” é um hiperônimo, ou seja, um termo de conteúdo
+geral que se refere a um termo específico anterior; o item abaixo em que o segundo
+vocábulo é um hiperônimo do termo anterior é:
+
+A) dezembro / mês.
+B) semanas / dias.
+C) doença / febre.
+D) região / estado.
+E) insetos / mosquitos
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+08. FUNRIO - DEPEN - Agente Penitenciário
+Para esse trabalho, você precisará utilizar uma caneta, uma prancheta e um bloco de
+papel em que fará as anotações diárias. Todo esse material será fornecido pela
+empresa contratante.
+
+A informação acima usa o hiperônimo “material” para:
+
+A) englobar os hipônimos “caneta”, “prancheta” e “bloco de papel”
+B) substituir os sinônimos “caneta”, “prancheta” e “bloco de papel”
+C) evitar a ambiguidade de “caneta”, “prancheta” e “bloco de papel”
+D) desfazer a polissemia de “caneta”, “prancheta” e “bloco de papel”
+E) ampliar a conotatividade de “caneta”, “prancheta” e “bloco de papel”
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+08. FUNRIO - DEPEN - Agente Penitenciário
+Para esse trabalho, você precisará utilizar uma caneta, uma prancheta e um bloco de
+papel em que fará as anotações diárias. Todo esse material será fornecido pela
+empresa contratante.
+
+A informação acima usa o hiperônimo “material” para:
+
+A) englobar os hipônimos “caneta”, “prancheta” e “bloco de papel”
+B) substituir os sinônimos “caneta”, “prancheta” e “bloco de papel”
+C) evitar a ambiguidade de “caneta”, “prancheta” e “bloco de papel”
+D) desfazer a polissemia de “caneta”, “prancheta” e “bloco de papel”
+E) ampliar a conotatividade de “caneta”, “prancheta” e “bloco de papel”
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+09. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente de
+Combate às Endemias
+Observe o texto a seguir, retirado de um dicionário de curiosidades sobre o Rio de
+Janeiro:
+
+“O Rio de Janeiro, de hoje, cidade abastecida de todos os gêneros alimentícios, teve,
+na sua origem, o peixe como principal elemento de abastecimento, devido à sua
+própria situação geográfica. O único local que abastecia a cidade estava situado nas
+imediações do Mercado Velho, onde além do peixe, eram vendidos frutas, sal,
+mariscos, farinha e diversos outros alimentos. Posteriormente, com o aparecimento
+do primeiro empório comercial da cidade, na Rua da Quitanda, que deve seu nome a
+esse fato, o abastecimento da cidade passou a ter novas fontes”.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+09. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente de
+Combate às Endemias
+Um dos processos de coesão entre termos textuais é a substituição de um termo
+anterior equivalente a um hiperônimo. Assinale a opção cujo termo sublinhado está
+nesse caso.
+
+
+A) cidade.
+B) gêneros alimentícios.
+C) elemento.
+D) o único local.
+E) diversos outros alimentos.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+09. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente de
+Combate às Endemias
+Um dos processos de coesão entre termos textuais é a substituição de um termo
+anterior equivalente a um hiperônimo. Assinale a opção cujo termo sublinhado está
+nesse caso.
+
+
+A) cidade.
+B) gêneros alimentícios.
+C) elemento.
+D) o único local.
+E) diversos outros alimentos.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+10. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+
+Hiperônimo é uma palavra de conteúdo geral que abrange muitas palavras de
+conteúdo específico (por exemplo, veículo é hiperônimo de carro, charrete,
+motocicleta, etc.).
+
+Nesse sentido, assinale a opção que apresenta a frase em que a palavra sublinhada
+corresponde a um hiperônimo de um termo anterior.
+
+A) O doente passou mal toda a noite e, pela manhã, o médico receitou uma nova
+medicação para o enfermo.
+
+B) A pergunta do internado confundiu o médico, que abandonou o quarto, temendo
+uma nova interrogação.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+10. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+
+C) Melhoral era o nome de um antigo remédio para a dor de cabeça e esse
+medicamento era muito receitado.
+
+D) O horário de visitação havia terminado e, por isso, os parentes do enfermo
+tiveram que despedir-se dele.
+
+E) Os enfermeiros esforçaram-se para bem atender a senhora acidentada até a
+chegada do plantonista.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+10. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+
+C) Melhoral era o nome de um antigo remédio para a dor de cabeça e esse
+medicamento era muito receitado.
+
+D) O horário de visitação havia terminado e, por isso, os parentes do enfermo
+tiveram que despedir-se dele.
+
+E) Os enfermeiros esforçaram-se para bem atender a senhora acidentada até a
+chegada do plantonista.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+11. FGV - TJ-CE - Técnico Judiciário - Área Judiciária
+
+“Em minha casa e em todo outro lugar aprende-se apenas com quem se ama”; nessa
+frase, o vocábulo de valor geral “lugar” substitui um vocábulo de valor específico
+“casa”.
+
+A mesma situação ocorre, respectivamente, com o seguinte par de palavras:
+
+A) sala / cômodo;
+B) luz / calor;
+C) tangerina / mexerica;
+D) tecnologia / computador;
+E) líquido / refeição.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+11. FGV - TJ-CE - Técnico Judiciário - Área Judiciária
+
+“Em minha casa e em todo outro lugar aprende-se apenas com quem se ama”; nessa
+frase, o vocábulo de valor geral “lugar” substitui um vocábulo de valor específico
+“casa”.
+
+A mesma situação ocorre, respectivamente, com o seguinte par de palavras:
+
+A) sala / cômodo;
+B) luz / calor;
+C) tangerina / mexerica;
+D) tecnologia / computador;
+E) líquido / refeição.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+12. FGV - 2022 - PC-AM - Perito Legista
+
+Nos dicionários, as palavras dos verbetes são geralmente definidas e essas
+definições começam por um termo de valor geral (hiperônimo).
+
+Identifique a definição a seguir em que o termo inicial de caráter geral foi bem
+escolhido
+
+A) O caderno é um utensílio escolar.
+B) O jogador é um personagem do futebol.
+C) O martelo é um objeto do carpinteiro.
+D) O cachorro é um réptil muito amado.
+E) O grafiteiro é um escultor mal compreendido.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+12. FGV - 2022 - PC-AM - Perito Legista
+
+Nos dicionários, as palavras dos verbetes são geralmente definidas e essas
+definições começam por um termo de valor geral (hiperônimo).
+
+Identifique a definição a seguir em que o termo inicial de caráter geral foi bem
+escolhido
+
+A) O caderno é um utensílio escolar.
+B) O jogador é um personagem do futebol.
+C) O martelo é um objeto do carpinteiro.
+D) O cachorro é um réptil muito amado.
+E) O grafiteiro é um escultor mal compreendido.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+13. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+
+Texto 7
+
+Em 3 de novembro de 1957, a cadela Laika se tornava o primeiro animal da Terra a
+ser colocado em órbita. A bordo da nave soviética Sputnik2, ela morreu horas depois
+do lançamento, mas pôde entrar para a história da corrida espacial. O animal
+escolhido para ir ao espaço era uma vira-latas de 6Kg de nome kudriavka. Depois os
+soviéticos decidiram renomeá-la como Laika. Sua cabine tinha espaço para ela ficar
+deitada ou em pé. Comida e água eram providenciadas em forma de gelatina. Ela
+tinha uma proteção e eletrodos para monitorar seus sinais vitais. Os primeiros dados
+da telemetria mostraram que ela estava agitada, mas comia a ração. Apesar de toda
+a preparação, ela morreu devido a uma combinação de superaquecimento e pânico,
+deixando alguns cientistas tristes.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+13. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+
+O texto 7, inicialmente, se refere a uma “cadela” e, mais tarde, se refere a ela como
+“animal”, estabelecendo uma relação de anáfora por meio de um hiperônimo. O
+mesmo aconteceria no seguinte par de palavras:
+
+A) soviéticos / russos;
+B) gelatina / alimento;
+C) morrer / falecer;
+D) história / conhecimento;
+E) espaço / universo.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+13. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+
+O texto 7, inicialmente, se refere a uma “cadela” e, mais tarde, se refere a ela como
+“animal”, estabelecendo uma relação de anáfora por meio de um hiperônimo. O
+mesmo aconteceria no seguinte par de palavras:
+
+A) soviéticos / russos;
+B) gelatina / alimento;
+C) morrer / falecer;
+D) história / conhecimento;
+E) espaço / universo.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+14. FGV - 2023 - SME - SP - Professor
+
+Nas frases a seguir foram realizadas estratégias para se evitar a repetição de
+palavras.
+
+Assinale a frase em que essa estratégia está identificada corretamente.
+
+A) Os alunos dela estudaram bastante; essas crianças merecem uma recompensa. /
+substituição da segunda ocorrência por um hipônimo.
+
+B) Examinando os discos, Pedro decidiu vender aqueles que ele não escuta mais. /
+substituição da segunda ocorrência por uma qualificação.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+14. FGV - 2023 - SME - SP - Professor
+
+
+C) Ele ofereceu a ela um buquê de rosas e, fato impressionante, essas flores não
+murchavam. / substituição da segunda ocorrência por um hiperônimo.
+
+D) Os jogadores inveterados traziam mais prejuízo às empresas que os alcoólatras e
+os toxicômanos. / substituição da segunda ocorrência por sinônimo.
+
+E) O tribunal decidiu punir os emigrantes e liberar os imigrantes. / substituição da
+segunda ocorrência por parônimo.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+14. FGV - 2023 - SME - SP - Professor
+
+
+C) Ele ofereceu a ela um buquê de rosas e, fato impressionante, essas flores não
+murchavam. / substituição da segunda ocorrência por um hiperônimo.
+
+D) Os jogadores inveterados traziam mais prejuízo às empresas que os alcoólatras e
+os toxicômanos. / substituição da segunda ocorrência por sinônimo.
+
+E) O tribunal decidiu punir os emigrantes e liberar os imigrantes. / substituição da
+segunda ocorrência por parônimo.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+15. FGV - ALERJ - Especialista Legislativo
+
+As relações semânticas entre palavras e expressões de um texto são identificadas
+por sinonímia, antonímia, hiponímia, homonímia e polissemia.
+
+A relação abaixo, do segundo em relação ao primeiro vocábulo, que exemplifica
+hiponímia é:
+
+A) contente/satisfeito;
+B) serrote/ferramenta;
+C) sábia/sabiá;
+D) emigrar/imigrar;
+E) autor/shakespeare.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+15. FGV - ALERJ - Especialista Legislativo
+
+As relações semânticas entre palavras e expressões de um texto são identificadas
+por sinonímia, antonímia, hiponímia, homonímia e polissemia.
+
+A relação abaixo, do segundo em relação ao primeiro vocábulo, que exemplifica
+hiponímia é:
+
+A) contente/satisfeito;
+B) serrote/ferramenta;
+C) sábia/sabiá;
+D) emigrar/imigrar;
+E) autor/shakespeare.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CADERNO 19
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+Hiperônimo e Hipônimo
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+                                                         PROFISSÃO: médico, professor,
+                                                            advogado, jornalista...
+
+            HIPERÔNIMOS E                               TRANSPORTE: navio, ônibus, carro,
+SEMÂNTICA     HIPÔNIMOS                                         avião, trem...
+
+                                                           TECNOLOGIA: computador,
+                                                              smartphone, tablet...
+
+                            Prof. Adriana Figueiredo
+                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+I. Associe seguindo o código.
+(1) hipônimo (2) hiperônimo
+
+1.flor é ( ) de rosa.
+2.homem é ( ) de animal.
+3.eletrodoméstico é ( ) de liquidificador.
+4.mamífero é ( ) de tigre.
+5.labrador é ( ) de cachorro.
+6.amor é ( ) de sentimento.
+7.país é ( ) de Portugal.
+8.professor é ( ) de profissão.
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+Observações
+Sinônimos: palavras semelhantes no sentido.
+
+Ex.:consentir / permitir
+
+Antônimos: palavras opostas quanto ao significado.
+
+Ex.:fraco / forte
+
+Homônimos : têm a mesma forma ,mas de significados diferentes. Podem ser:
+
+- Homógrafos: têm a mesma grafia, mas pronúncias diferentes.
+
+Ex.:colher(verbo) / colher(substantivo)
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+Observações
+- Homófonos: têm a mesma pronúncia, mas grafias diferentes.
+
+Ex.:conserto/ concerto
+
+- Perfeitos: têm a mesma grafia e a mesma pronúncia.
+
+Ex.:cedo(advérbio) / cedo( verbo ceder)
+
+Parônimos: palavras parecidas na grafia ou na pronúncia, mas com significados
+diferentes.
+
+Ex.:delatar / dilatar
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+I. Numere a segunda coluna de acordo com a primeira, seguindo o
+código proposto.
+
+(1) sinônimo
+(2) antônimo
+(3a) homônimo homógrafo
+(3b) homônimo homófono
+(3c) homônimo perfeito
+(4) parônimo
+
+a.análise.                 ( )cela
+b.morrer.                   ( )ratificar
+c.canto(esquina)           ( )governo(substantivo)
+d.sela.                    ( )síntese
+e.retificar.               ( )falecer
+f.governo(verbo)           ( )canto(=cantar)
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+01. VUNESP - Prefeitura de Sertãozinho - SP - Professor de Educação
+Básica
+Observe as passagens:
+• ... do latim coena, última refeição do dia, o nosso popular jantar. A ceia de
+Natal...
+• Não havendo nada para comer, a estalajadeira vende-lhes um ganso. Judas,
+ganancioso, sopra as penas da barriga da ave…
+
+Nas passagens, a relação que há entre os termos destacados é, respectivamente, de
+
+A) sinonímia e retomada por hipônimo.
+B) hipônimos de “alimentar-se” e sinônimos.
+C) anáfora associativa e sinônimos.
+D) sinonímia e retomada por hiperônimo.
+E) anáfora especificadora e catáfora.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+01. VUNESP - Prefeitura de Sertãozinho - SP - Professor de Educação
+Básica
+Observe as passagens:
+• ... do latim coena, última refeição do dia, o nosso popular jantar. A ceia de
+Natal...
+• Não havendo nada para comer, a estalajadeira vende-lhes um ganso. Judas,
+ganancioso, sopra as penas da barriga da ave…
+
+Nas passagens, a relação que há entre os termos destacados é, respectivamente, de
+
+A) sinonímia e retomada por hipônimo.
+B) hipônimos de “alimentar-se” e sinônimos.
+C) anáfora associativa e sinônimos.
+D) sinonímia e retomada por hiperônimo.
+E) anáfora especificadora e catáfora.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+02. VUNESP - Prefeitura de Serrana - SP - Professor de Educação Básica
+
+Com fundamento em Koch e Elias (2011), a relação entre os termos “objeto” e
+“garfo” é a mesma que se estabelece, na mesma ordem, entre os termos
+
+A) “mamífero” e “baleia”, em que o primeiro é superordenado em relação ao
+segundo, caracterizando a hiperonímia.
+
+B) “coisa” e “negócio”, em que tanto o primeiro quanto o segundo possuem sentido
+impreciso, caracterizando a ambiguidade.
+
+C) “flor” e “planta”, em que o primeiro é mais específico em relação ao segundo,
+caracterizando a hiponímia.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+02. VUNESP - Prefeitura de Serrana - SP - Professor de Educação Básica
+
+D) “jantar” e “comer”, em que tanto o primeiro quanto o segundo possuem o
+mesmo sentido, caracterizando a sinonímia.
+
+E) “arco-íris” e “pôr-do-sol”, em que os dois termos estão no mesmo campo
+semântico, caracterizando a sumarização.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+02. VUNESP - Prefeitura de Serrana - SP - Professor de Educação Básica
+
+Com fundamento em Koch e Elias (2011), a relação entre os termos “objeto” e
+“garfo” é a mesma que se estabelece, na mesma ordem, entre os termos
+
+A) “mamífero” e “baleia”, em que o primeiro é superordenado em relação ao
+segundo, caracterizando a hiperonímia.
+
+B) “coisa” e “negócio”, em que tanto o primeiro quanto o segundo possuem sentido
+impreciso, caracterizando a ambiguidade.
+
+C) “flor” e “planta”, em que o primeiro é mais específico em relação ao segundo,
+caracterizando a hiponímia.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+03. CESGRANRIO - - Prefeitura de Salvador - BA - Professor
+
+Estabelece relação de hiperonímia/hiponímia, nessa ordem, o seguinte par de
+palavras:
+
+
+A) estrondo – ruído.
+
+B) pescador – trabalhador.
+
+C) pista – aeroporto.
+
+D) piloto – comissário.
+
+E) aeronave – jatinho.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+03. CESGRANRIO - - Prefeitura de Salvador - BA - Professor
+
+Estabelece relação de hiperonímia/hiponímia, nessa ordem, o seguinte par de
+palavras:
+
+
+A) estrondo – ruído.
+
+B) pescador – trabalhador.
+
+C) pista – aeroporto.
+
+D) piloto – comissário.
+
+E) aeronave – jatinho.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+04. IBADE -                - Prefeitura de Aracruz - ES - Professor de Ensino
+Fundamental
+
+“Bruno não foi formado no FLAMENGO. A ele chegou pronto, para o melhor e para o
+pior. O que fez de sua vida não é culpa do CLUBE, mas serve de advertência para
+todos os clubes.”
+
+As palavras (FLAMENGO - CLUBE) nessa ordem estabelecem uma relação de:
+
+A) hiponímia.
+B) polissemia.
+C) holonímia.
+D) hiperonimia.
+E) meronimia.
+
+Profª Adriana Figueiredo
+                                          
+
+
+---
+
+04. IBADE -                - Prefeitura de Aracruz - ES - Professor de Ensino
+Fundamental
+
+“Bruno não foi formado no FLAMENGO. A ele chegou pronto, para o melhor e para o
+pior. O que fez de sua vida não é culpa do CLUBE, mas serve de advertência para
+todos os clubes.”
+
+As palavras (FLAMENGO - CLUBE) nessa ordem estabelecem uma relação de:
+
+A) hiponímia.
+B) polissemia.
+C) holonímia.
+D) hiperonimia.
+E) meronimia.
+
+Profª Adriana Figueiredo
+                                          
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+05. FCC - DPE-RS - Defensor Público
+
+A palavra animais estabelece ligações com espécies que estão em extinção. Qual a
+propriedade semântica dessa relação?
+
+
+A) Hiperonímia.
+
+B) Sinonímia.
+
+C) Homonímia.
+
+D) Paronímia.
+
+E) Antonímia.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+05. FCC - DPE-RS - Defensor Público
+
+A palavra animais estabelece ligações com espécies que estão em extinção. Qual a
+propriedade semântica dessa relação?
+
+
+A) Hiperonímia.
+
+B) Sinonímia.
+
+C) Homonímia.
+
+D) Paronímia.
+
+E) Antonímia.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+06. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+
+Hiperônimo é uma palavra de conteúdo geral que abrange muitas palavras de
+conteúdo específico (por exemplo, veículo é hiperônimo de carro, charrete,
+motocicleta, etc.).
+
+Nesse sentido, assinale a opção que apresenta a frase em que a palavra sublinhada
+corresponde a um hiperônimo de um termo anterior.
+
+A) O doente passou mal toda a noite e, pela manhã, o médico receitou uma nova
+medicação para o enfermo.
+
+B) A pergunta do internado confundiu o médico, que abandonou o quarto, temendo
+uma nova interrogação.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+06. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+
+C) Melhoral® era o nome de um antigo remédio para a dor de cabeça e esse
+medicamento era muito receitado.
+
+D) O horário de visitação havia terminado e, por isso, os parentes do enfermo
+tiveram que despedir-se dele.
+
+E) Os enfermeiros esforçaram-se para bem atender a senhora acidentada até a
+chegada do plantonista.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+
+C) Melhoral® era o nome de um antigo remédio para a dor de cabeça e esse
+medicamento era muito receitado.
+
+D) O horário de visitação havia terminado e, por isso, os parentes do enfermo
+tiveram que despedir-se dele.
+
+E) Os enfermeiros esforçaram-se para bem atender a senhora acidentada até a
+chegada do plantonista.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. FGV - 2022 - PC-AM - Perito Legista
+
+Nos dicionários, as palavras dos verbetes são geralmente definidas e essas
+definições começam por um termo de valor geral (hiperônimo). Identifique a
+definição a seguir em que o termo inicial de caráter geral foi bem escolhido
+
+A) O caderno é um utensílio escolar.
+B) O jogador é um personagem do futebol.
+C) O martelo é um objeto do carpinteiro.
+D) O cachorro é um réptil muito amado.
+E) O grafiteiro é um escultor mal compreendido.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+07. FGV - 2022 - PC-AM - Perito Legista
+
+Nos dicionários, as palavras dos verbetes são geralmente definidas e essas
+definições começam por um termo de valor geral (hiperônimo). Identifique a
+definição a seguir em que o termo inicial de caráter geral foi bem escolhido
+
+A) O caderno é um utensílio escolar.
+B) O jogador é um personagem do futebol.
+C) O martelo é um objeto do carpinteiro.
+D) O cachorro é um réptil muito amado.
+E) O grafiteiro é um escultor mal compreendido.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+08. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente de
+Combate às Endemias
+Observe o texto a seguir, retirado de um dicionário de curiosidades sobre o Rio de
+Janeiro:
+
+“O Rio de Janeiro, de hoje, cidade abastecida de todos os gêneros alimentícios, teve,
+na sua origem, o peixe como principal elemento de abastecimento, devido à sua
+própria situação geográfica. O único local que abastecia a cidade estava situado nas
+imediações do Mercado Velho, onde além do peixe, eram vendidos frutas, sal,
+mariscos, farinha e diversos outros alimentos. Posteriormente, com o aparecimento
+do primeiro empório comercial da cidade, na Rua da Quitanda, que deve seu nome a
+esse fato, o abastecimento da cidade passou a ter novas fontes”.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+08. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente de
+Combate às Endemias
+Um dos processos de coesão entre termos textuais é a substituição de um termo
+anterior equivalente a um hiperônimo. Assinale a opção cujo termo sublinhado está
+nesse caso.
+
+A) cidade.
+B) gêneros alimentícios.
+C) elemento.
+D) o único local.
+E) diversos outros alimentos.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+08. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente de
+Combate às Endemias
+Um dos processos de coesão entre termos textuais é a substituição de um termo
+anterior equivalente a um hiperônimo. Assinale a opção cujo termo sublinhado está
+nesse caso.
+
+A) cidade.
+B) gêneros alimentícios.
+C) elemento.
+D) o único local.
+E) diversos outros alimentos.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+09. FGV - 2023 - SME - SP - Professor de Ensino Fundamental
+Nas frases a seguir foram realizadas estratégias para se evitar a repetição de
+palavras.
+
+Assinale a frase em que essa estratégia está identificada corretamente.
+
+A) Os alunos dela estudaram bastante; essas crianças merecem uma recompensa. /
+substituição da segunda ocorrência por um hipônimo.
+
+B) Examinando os discos, Pedro decidiu vender aqueles que ele não escuta mais. /
+substituição da segunda ocorrência por uma qualificação.
+
+C) Ele ofereceu a ela um buquê de rosas e, fato impressionante, essas flores não
+murchavam. / substituição da segunda ocorrência por um hiperônimo.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+09. FGV - 2023 - SME - SP - Professor de Ensino Fundamental
+
+D) Os jogadores inveterados traziam mais prejuízo às empresas que os alcoólatras e
+os toxicômanos. / substituição da segunda ocorrência por sinônimo.
+
+E) O tribunal decidiu punir os emigrantes e liberar os imigrantes. / substituição da
+segunda ocorrência por parônimo.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+09. FGV - 2023 - SME - SP - Professor de Ensino Fundamental
+Nas frases a seguir foram realizadas estratégias para se evitar a repetição de
+palavras.
+
+Assinale a frase em que essa estratégia está identificada corretamente.
+
+A) Os alunos dela estudaram bastante; essas crianças merecem uma recompensa. /
+substituição da segunda ocorrência por um hipônimo.
+
+B) Examinando os discos, Pedro decidiu vender aqueles que ele não escuta mais. /
+substituição da segunda ocorrência por uma qualificação.
+
+C) Ele ofereceu a ela um buquê de rosas e, fato impressionante, essas flores não
+murchavam. / substituição da segunda ocorrência por um hiperônimo.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+10. FGV - 2023 - SME - SP - Professor de Ensino Fundamental
+O dicionário de Antônio Houaiss traz um grande número de definições de vocábulos;
+quase todas essas definições começam por um termo geral (hiperônimo).
+
+A definição abaixo, retirada desse dicionário, em que o termo geral destacado foi
+bem selecionado é:
+
+A) mesa – imóvel composto de um tampo horizontal, que geralmente se destina a
+fins utilitários: refeições, jogos, escrita, costura, apoio etc.;
+
+B) biblioteca – construção onde ficam depositadas, ordenadas e catalogadas
+diversas coleções de livros, periódicos e outros documentos, que o público, sob
+certas condições, pode consultar ou levar de empréstimo;
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+10. FGV - 2023 - SME - SP - Professor de Ensino Fundamental
+
+C) bailarino – profissional que dança profissionalmente, exibindo-se para o público;
+
+D) cubo – desenho composto de seis faces quadradas de igual tamanho, formando
+um hexaedro;
+
+E) livraria – casa editorial onde se vendem livros.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+10. FGV - 2023 - SME - SP - Professor de Ensino Fundamental
+
+C) bailarino – profissional que dança profissionalmente, exibindo-se para o público;
+
+D) cubo – desenho composto de seis faces quadradas de igual tamanho, formando
+um hexaedro;
+
+E) livraria – casa editorial onde se vendem livros.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+11. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+Em 3 de novembro de 1957, a cadela Laika se tornava o primeiro animal da Terra a
+ser colocado em órbita. A bordo da nave soviética Sputnik2, ela morreu horas depois
+do lançamento, mas pôde entrar para a história da corrida espacial. O animal
+escolhido para ir ao espaço era uma vira-latas de 6Kg de nome kudriavka. Depois os
+soviéticos decidiram renomeá-la como Laika. Sua cabine tinha espaço para ela ficar
+deitada ou em pé. Comida e água eram providenciadas em forma de gelatina. Ela
+tinha uma proteção e eletrodos para monitorar seus sinais vitais. Os primeiros dados
+da telemetria mostraram que ela estava agitada, mas comia a ração. Apesar de toda
+a preparação, ela morreu devido a uma combinação de superaquecimento e pânico,
+deixando alguns cientistas tristes.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+11. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+O texto , inicialmente, se refere a uma “cadela” e, mais tarde, se refere a ela como
+“animal”, estabelecendo uma relação de anáfora por meio de um hiperônimo. O
+mesmo aconteceria no seguinte par de palavras:
+
+
+A) soviéticos / russos;
+
+B) gelatina / alimento;
+
+C) morrer / falecer;
+
+D) história / conhecimento;
+
+E) espaço / universo.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+11. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+O texto , inicialmente, se refere a uma “cadela” e, mais tarde, se refere a ela como
+“animal”, estabelecendo uma relação de anáfora por meio de um hiperônimo. O
+mesmo aconteceria no seguinte par de palavras:
+
+
+A) soviéticos / russos;
+
+B) gelatina / alimento;
+
+C) morrer / falecer;
+
+D) história / conhecimento;
+
+E) espaço / universo.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+12. ESPE / CEBRASPE - PRF - Nível Superior - Conhecimentos Básicos
+
+Em “é um conforto admirável” , observa-se coesão lexical por hiperonímia, ou seja,
+o substantivo “conforto”, de sentido mais genérico, abrange o sentido, mais
+específico, do adjetivo “admirável”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+12. ESPE / CEBRASPE - PRF - Nível Superior - Conhecimentos Básicos
+
+Em “é um conforto admirável” , observa-se coesão lexical por hiperonímia, ou seja,
+o substantivo “conforto”, de sentido mais genérico, abrange o sentido, mais
+específico, do adjetivo “admirável”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+13. CESPE - TRF - 1ª REGIÃO - Analista Judiciário - Taquigrafia
+
+Joceline Gomes : A última mensagem do teu filme,projetada na tela, é “a nossa
+memória fabulosos nós mesmos”. Como que é a fabulação de uma memória
+periférica da Ceilândia?
+
+
+Na pergunta da entrevistadora, o adjetivo “periférica” assume a função de
+hiperônimo de “Ceilândia” , isto é, parte-se do sentido mais amplo de periferia para
+a indicação de uma cidade periférica específica.
+
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+13. CESPE - TRF - 1ª REGIÃO - Analista Judiciário - Taquigrafia
+
+Joceline Gomes : A última mensagem do teu filme,projetada na tela, é “a nossa
+memória fabulosos nós mesmos”. Como que é a fabulação de uma memória
+periférica da Ceilândia?
+
+
+Na pergunta da entrevistadora, o adjetivo “periférica” assume a função de
+hiperônimo de “Ceilândia” , isto é, parte-se do sentido mais amplo de periferia para
+a indicação de uma cidade periférica específica.
+
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+14. CESPE - TRF - 1ª REGIÃO - Analista Judiciário - Taquigrafia
+
+“O cronista é um pedestre. O que existe para o cronista é a gaveta de meias,a
+lancheira do filho,o boteco da esquina. Verdade que às vezes ,na gaveta de
+meias,na lancheira do filho,no boteco da esquina ,o cronista até resvala no
+amor,trisca no perdão, se lambuza na saudade,tropeça num deusinho ou outro
+(...),mas é de leve,é sem querer, pois na prática o cronista trata do pequeno, do
+detalhe,do que está tão perto que a gente nem vê.
+
+Com relação aos sentidos e aos aspectos linguísticos do texto , julgue o item a
+seguir.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+14. CESPE - TRF - 1ª REGIÃO - Analista Judiciário - Taquigrafia
+
+
+Os termos “gaveta de meias”, “lancheira do filho” e “boteco da esquina” são
+hipônimos que exemplificam aquilo que o autor denomina de “detalhe” ao final do
+texto.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+14. CESPE - TRF - 1ª REGIÃO - Analista Judiciário - Taquigrafia
+
+
+Os termos “gaveta de meias”, “lancheira do filho” e “boteco da esquina” são
+hipônimos que exemplificam aquilo que o autor denomina de “detalhe” ao final do
+texto.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+15. CESPE - TJ-RJ - Analista Judiciário
+
+A divulgação científica, as informações e os conhecimentos que podemos oferecer
+à educação são elementos que contribuem para formar a opinião, a capacidade de
+crítica e de decisão dos diferentes setores da sociedade.
+
+Com relação aos sentidos e aos aspectos linguísticos do texto , julgue o item a
+seguir.
+
+O termo “elementos” funciona como hiperônimo de “divulgação científica”
+,”informações” e “conhecimentos”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+15. CESPE - TJ-RJ - Analista Judiciário
+
+A divulgação científica, as informações e os conhecimentos que podemos oferecer
+à educação são elementos que contribuem para formar a opinião, a capacidade de
+crítica e de decisão dos diferentes setores da sociedade.
+
+Com relação aos sentidos e aos aspectos linguísticos do texto , julgue o item a
+seguir.
+
+O termo “elementos” funciona como hiperônimo de “divulgação científica”
+,”informações” e “conhecimentos”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Polissemia
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+Consiste em atribuir a uma única palavra várias significações, que compartilham
+uma origem etimológica comum.
+
+Ex.:
+Planta (substantivo) :
+
+1. parte inferior dos pés.
+Ex.:Sentia dor na planta dos pés.
+
+2. vegetal.
+Ex.:A planta deve receber luz.
+
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+II. As palavras abaixo são polissêmicas. Escreva quais os sentidos das
+palavras abaixo em cada caso.
+
+
+1.língua :
+
+2.conselho:
+
+3.boneca:
+
+4.carta:
+
+5.frente:
+
+6.branco:
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+16. CESGRANRIO - Petrobras - Médico do Trabalho
+Considere os empregos da palavra casa no texto:
+
+I - “Com a temperatura na casa dos 48 °C”
+
+II - “Sair de casa é pedir para começar a suar”
+
+Analisando o seu uso em I e II, constata-se que se trata de um caso de polissemia,
+pois essa palavra apresenta
+
+A) ambiguidade em I
+B) valor estilístico em II
+C) sentido denotativo em II
+D) sentido diverso em I e II
+E) mesmo valor semântico em I e II
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+16. CESGRANRIO - Petrobras - Médico do Trabalho
+Considere os empregos da palavra casa no texto:
+
+I - “Com a temperatura na casa dos 48 °C”
+
+II - “Sair de casa é pedir para começar a suar”
+
+Analisando o seu uso em I e II, constata-se que se trata de um caso de polissemia,
+pois essa palavra apresenta
+
+A) ambiguidade em I
+B) valor estilístico em II
+C) sentido denotativo em II
+D) sentido diverso em I e II
+E) mesmo valor semântico em I e II
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+17. IBADE -                Prefeitura de Aracruz - ES - Professor de Ensino
+Fundamental
+“Talvez não, mas o que está mesmo em questão é a possível necessidade de uma
+POLÍTICA preventiva a respeito dos jogadores”.
+
+“O brasileiro espera que a POLÍTICA no Brasil, siga os caminhos da ética”.
+
+Ao observar a palavra destacada nos trechos acima, pode-se dizer que se trata de:
+
+A) holonímia.
+B) polissemia.
+C) homonímia.
+D) meronímia.
+E) metonímia.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+17. IBADE -                Prefeitura de Aracruz - ES - Professor de Ensino
+Fundamental
+“Talvez não, mas o que está mesmo em questão é a possível necessidade de uma
+POLÍTICA preventiva a respeito dos jogadores”.
+
+“O brasileiro espera que a POLÍTICA no Brasil, siga os caminhos da ética”.
+
+Ao observar a palavra destacada nos trechos acima, pode-se dizer que se trata de:
+
+A) holonímia.
+B) polissemia.
+C) homonímia.
+D) meronímia.
+E) metonímia.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+18. IBADE - Prefeitura de Aracruz - ES - Contador
+(...)
+
+  A memória do já vivido e a sua narração numa história é o que possibilita a
+construção da História e das nossas histórias pessoais. Só os feitos e os
+acontecimentos narrados em histórias são capazes de salvaguardar nossa existência
+e nossa identidade.
+
+   Só conservados pela lembrança é que os feitos e os acontecimentos podem
+entrar no tempo e fazer parte de um passado. Recente ou antigo.
+
+(CRITELLI, Dulce. In cronicasbrasil.blogspot.com/search/ label/Dulce%20 Critelli)
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+18. IBADE - Prefeitura de Aracruz - ES - Contador
+No texto foram empregados, com significados diferentes, os vocábulos História
+(com inicial maiúscula) e história (com inicial minúscula).
+
+Do ponto de vista semântico, tal emprego constitui um fato de:
+
+
+A) antonímia.
+
+B) polissemia.
+
+C) sinonímia.
+
+D) homonímia.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+18. IBADE - Prefeitura de Aracruz - ES - Contador
+No texto foram empregados, com significados diferentes, os vocábulos História
+(com inicial maiúscula) e história (com inicial minúscula).
+
+Do ponto de vista semântico, tal emprego constitui um fato de:
+
+
+A) antonímia.
+
+B) polissemia.
+
+C) sinonímia.
+
+D) homonímia.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+19. Instituto Consulplan - Prefeitura de Colômbia - SP - Professor
+Acerca da expressão “Sou um leitor de nó na garganta e lágrimas fáceis.” , pode-se
+afirmar que:
+
+
+A) É possível observar o emprego da polissemia.
+
+B) À linguagem coloquial aplica-se exclusivamente a denotação.
+
+C) O autor usa um tom exagerado para transmitir suas emoções.
+
+D) A partir de uma expressão ambígua, o autor expressa suas ideias.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+19. Instituto Consulplan - Prefeitura de Colômbia - SP - Professor
+Acerca da expressão “Sou um leitor de nó na garganta e lágrimas fáceis.” , pode-se
+afirmar que:
+
+
+A) É possível observar o emprego da polissemia.
+
+B) À linguagem coloquial aplica-se exclusivamente a denotação.
+
+C) O autor usa um tom exagerado para transmitir suas emoções.
+
+D) A partir de uma expressão ambígua, o autor expressa suas ideias.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+20. INSTITUTO AOCP - 2023 - IF-MA - Professor EBTT
+Em “Pelo jeito o tempo também precisa de um tempo para se ajustar nestes tempos
+desajustados.”, há um jogo linguístico com a palavra “tempo(s)”.
+
+ Esse jogo se constrói a partir de qual relação semântica?
+
+A) Sinonímia.
+B) Antonímia.
+C) Paronímia
+D) Homonímia.
+E) Polissemia.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+20. INSTITUTO AOCP - 2023 - IF-MA - Professor EBTT
+Em “Pelo jeito o tempo também precisa de um tempo para se ajustar nestes tempos
+desajustados.”, há um jogo linguístico com a palavra “tempo(s)”.
+
+ Esse jogo se constrói a partir de qual relação semântica?
+
+A) Sinonímia.
+B) Antonímia.
+C) Paronímia
+D) Homonímia.
+E) Polissemia.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+21. OBJETIVA - 2023 - Prefeitura de Itabuna - BA - Assistente
+Administrativo
+As seguintes alternativas apresentam exemplos de polissemia, que é quando a
+palavra tem mais de um significado, EXCETO:
+
+A) A vela do barco não se apaga.
+B) Tudo é passageiro. Menos o motorista e o cobrador.
+C) A cesta estava cheia de frutos recém-colhidos.
+D) Você sabe jogar damas?
+E) Na vida, tudo passa. Até a uva-passa.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+21. OBJETIVA - 2023 - Prefeitura de Itabuna - BA - Assistente
+Administrativo
+As seguintes alternativas apresentam exemplos de polissemia, que é quando a
+palavra tem mais de um significado, EXCETO:
+
+A) A vela do barco não se apaga.
+B) Tudo é passageiro. Menos o motorista e o cobrador.
+C) A cesta estava cheia de frutos recém-colhidos.
+D) Você sabe jogar damas?
+E) Na vida, tudo passa. Até a uva-passa.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+22. FGV - IBGE - Analista - Processos Administrativos e Disciplinares
+
+A polissemia – possibilidade de uma palavra ter mais de um sentido – está presente
+em todas as frases abaixo, EXCETO em:
+
+
+A) Não deixe para amanhã o que pode fazer hoje;
+
+B) CBN: a rádio que toca a notícia;
+
+C) Na vida tudo é passageiro, menos o motorista;
+
+D) Os dentes do pente mordem o couro cabeludo;
+
+E) Os surdos da bateria não escutam o próprio barulho.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+22. FGV - IBGE - Analista - Processos Administrativos e Disciplinares
+
+A polissemia – possibilidade de uma palavra ter mais de um sentido – está presente
+em todas as frases abaixo, EXCETO em:
+
+
+A) Não deixe para amanhã o que pode fazer hoje;
+
+B) CBN: a rádio que toca a notícia;
+
+C) Na vida tudo é passageiro, menos o motorista;
+
+D) Os dentes do pente mordem o couro cabeludo;
+
+E) Os surdos da bateria não escutam o próprio barulho.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+23. FGV - 2022 - TCE-TO - Analista Técnico
+
+A frase abaixo cuja estruturação apela para a polissemia de um vocábulo, é:
+
+
+A) O sábio lê livros, mas também a vida;
+
+B) Jornalismo consiste em comprar papel branco a dois centavos e vendê-lo a dez;
+
+C) Bebendo-se um pouco de vinho, a inteligência aparece;
+
+D) Quanto mais dividimos os obstáculos, mais fácil é vencê-los;
+
+E) Champanhe: borbulhas espumantes, brancas como as pérolas de Cleópatra.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+23. FGV - 2022 - TCE-TO - Analista Técnico
+
+A frase abaixo cuja estruturação apela para a polissemia de um vocábulo, é:
+
+
+A) O sábio lê livros, mas também a vida;
+
+B) Jornalismo consiste em comprar papel branco a dois centavos e vendê-lo a dez;
+
+C) Bebendo-se um pouco de vinho, a inteligência aparece;
+
+D) Quanto mais dividimos os obstáculos, mais fácil é vencê-los;
+
+E) Champanhe: borbulhas espumantes, brancas como as pérolas de Cleópatra.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+24. FGV - 2022 - TRT - 16ª REGIÃO (MA) - Técnico Judiciário
+
+Em quatro das frases abaixo há polissemias intencionais, relacionadas à empresa
+responsável por elas; assinale a única frase isenta de polissemia.
+
+
+A) (Jornal) Notícia e cafezinho devem ser quentes.
+
+B) (Restaurante) Aqui levamos a massa em consideração.
+
+C) (Empresa de ônibus) A vida é passageira.
+
+D) (Delegacia) Estamos presos ao dever.
+
+E) (Banco) Nossa fé nunca nos abandona.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+24. FGV - 2022 - TRT - 16ª REGIÃO (MA) - Técnico Judiciário
+
+Em quatro das frases abaixo há polissemias intencionais, relacionadas à empresa
+responsável por elas; assinale a única frase isenta de polissemia.
+
+
+A) (Jornal) Notícia e cafezinho devem ser quentes.
+
+B) (Restaurante) Aqui levamos a massa em consideração.
+
+C) (Empresa de ônibus) A vida é passageira.
+
+D) (Delegacia) Estamos presos ao dever.
+
+E) (Banco) Nossa fé nunca nos abandona.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+25. FGV - 2022 - TCE-TO - Auditor de Controle Externo
+
+Em algumas frases, os seus autores jogaram com o significado polissêmico de
+palavras; a opção em que essa estratégia foi empregada é:
+
+
+A) Os espelhos fariam muito bem em refletir um pouco antes de mostrar as
+imagens;
+
+B) Saudade é a presença da ausência;
+
+C) Originalidade não consiste apenas em fazer as coisas de forma diferente, mas
+também em fazê-las melhor;
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+25. FGV - 2022 - TCE-TO - Auditor de Controle Externo
+
+
+D) Há três maneiras de fazer as coisas: a maneira errada, a maneira certa e uma
+maneira melhor;
+
+E) Eu quase nada sei, mas desconfio de muita coisa.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+25. FGV - 2022 - TCE-TO - Auditor de Controle Externo
+
+Em algumas frases, os seus autores jogaram com o significado polissêmico de
+palavras; a opção em que essa estratégia foi empregada é:
+
+
+A) Os espelhos fariam muito bem em refletir um pouco antes de mostrar as
+imagens;
+
+B) Saudade é a presença da ausência;
+
+C) Originalidade não consiste apenas em fazer as coisas de forma diferente, mas
+também em fazê-las melhor;
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+26. FGV - 2022 - SEAD-AP - Professor de Educação Básica
+
+A maioria dos vocábulos possui mais de um sentido e essa polissemia permite que
+se construam frases com jogo de palavras.
+
+Assinale a opção em que não se empregou essa estratégia de jogo de palavras.
+
+A) O grosso livro de receitas não abria o apetite para sua leitura.
+B) A bailarina dançou no emprego, pois nunca chegava na hora.
+C) Os políticos estão nervosos pela proximidade das eleições.
+D) Os delitos do dentista caíram na boca do povo.
+E) O botânico tinha uma imensa folha corrida na polícia.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+26. FGV - 2022 - SEAD-AP - Professor de Educação Básica
+
+A maioria dos vocábulos possui mais de um sentido e essa polissemia permite que
+se construam frases com jogo de palavras.
+
+Assinale a opção em que não se empregou essa estratégia de jogo de palavras.
+
+A) O grosso livro de receitas não abria o apetite para sua leitura.
+B) A bailarina dançou no emprego, pois nunca chegava na hora.
+C) Os políticos estão nervosos pela proximidade das eleições.
+D) Os delitos do dentista caíram na boca do povo.
+E) O botânico tinha uma imensa folha corrida na polícia.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+27. FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual
+
+Analise a frase a seguir.
+
+“O conceito ‘bom’ tem muitos significados. Por exemplo, se um homem acertasse
+sua avó a uma boa distância, ele seria um bom atirador, mas não necessariamente
+um bom homem.”
+
+Assinale a opção que apresenta uma característica da linguagem dessa frase.
+
+A) a polissemia.
+B) a ambiguidade.
+C) a redundância.
+D) o paralelismo.
+E) a expressividade.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+27. FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual
+
+Analise a frase a seguir.
+
+“O conceito ‘bom’ tem muitos significados. Por exemplo, se um homem acertasse
+sua avó a uma boa distância, ele seria um bom atirador, mas não necessariamente
+um bom homem.”
+
+Assinale a opção que apresenta uma característica da linguagem dessa frase.
+
+A) a polissemia.
+B) a ambiguidade.
+C) a redundância.
+D) o paralelismo.
+E) a expressividade.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+28. FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual
+A maioria das palavras mostra vários significados (políssemia), o que também ocorre
+com as preposições.
+
+Indique a frase em que a preposição PARA tem seu significado corretamente
+indicado.
+
+A) Meu sonho é ir para a Europa / finalidade.
+B) Saiu para comprar roupas de frio / direção.
+C) Estava para sair quando chegaram as visitas / proximidade.
+D) O ônibus era para cinquenta passageiros / interesse.
+E) Para os pássaros, o canto faz parte da vida / destinação.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual
+A maioria das palavras mostra vários significados (políssemia), o que também ocorre
+com as preposições.
+
+Indique a frase em que a preposição PARA tem seu significado corretamente
+indicado.
+
+A) Meu sonho é ir para a Europa / finalidade.
+B) Saiu para comprar roupas de frio / direção.
+C) Estava para sair quando chegaram as visitas / proximidade.
+D) O ônibus era para cinquenta passageiros / interesse.
+E) Para os pássaros, o canto faz parte da vida / destinação.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+29. CESPE / CEBRASPE - 2018 - IFF - Professor - Letras
+“O que os poetas produzem corresponde a uma dimensão mais profunda da
+realidade social ; algo que acessam como quem adentra um banco de experiências
+transistóricas. O poema estabelece um jogo complexo de palavras que promovem e
+interditam sentidos e experiências que ligam autor e leitor ,e também ambos ao
+mundo social. Como quem se senta em um banco de praça…”
+
+Em relação a aspectos linguísticos do texto, julgue o item subsequente.
+
+No texto , o emprego da palavra “banco” destacada exemplifica o fenômeno
+denominado “polissemia”, pois apresenta um sentido para cada uma de suas
+ocorrências.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+29. CESPE / CEBRASPE - 2018 - IFF - Professor - Letras
+“O que os poetas produzem corresponde a uma dimensão mais profunda da
+realidade social ; algo que acessam como quem adentra um banco de experiências
+transistóricas. O poema estabelece um jogo complexo de palavras que promovem e
+interditam sentidos e experiências que ligam autor e leitor ,e também ambos ao
+mundo social. Como quem se senta em um banco de praça…”
+
+Em relação a aspectos linguísticos do texto, julgue o item subsequente.
+
+No texto , o emprego da palavra “banco” destacada exemplifica o fenômeno
+denominado “polissemia”, pois apresenta um sentido para cada uma de suas
+ocorrências.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+30. CESPE / CEBRASPE - 2022 - MPC-SC - Analista de Contas Públicas
+Texto CB1A1-II
+
+ A palavra “corrupção” tem origem nas palavras latinas corruptio e corrumpere, que
+indicam algo que foi corrompido, deturpado. Por ela ser um termo polissêmico,
+entendemos que a sua história conceitual é incerta. É usual o tratamento da
+corrupção sob uma perspectiva moralista, como algo resultante da falta de caráter
+dos indivíduos. Contudo, tal abordagem não apresenta validade científica, já que
+moral é um atributo individual, dotado de subjetividade e culturalmente
+circunscrito.
+
+(...)
+
+    Luiz Fernando Vasconcellos de Miranda. Corrupção: debate conceitual. In: Cláudio André de
+        Souza (org). Dicionário das eleições. Curitiba: Juruá, 2020, p. 209-210 (com adaptações).
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+30. CESPE / CEBRASPE - 2022 - MPC-SC - Analista de Contas Públicas
+
+No primeiro parágrafo, o vocábulo “polissêmico” diz respeito à multiplicidade de
+significados da palavra ‘corrupção’.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+30. CESPE / CEBRASPE - 2022 - MPC-SC - Analista de Contas Públicas
+
+No primeiro parágrafo, o vocábulo “polissêmico” diz respeito à multiplicidade de
+significados da palavra ‘corrupção’.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Ambiguidade
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+Duplicidade de sentidos que uma palavra pode apresentar. Pode ser:
+
+• Lexical: palavra de sentidos diferentes que,mesmo em um contexto, nem
+  sempre conseguimos compreender com precisão seu significado.
+
+Ex.: O cachorro do meu vizinho causa problemas sempre.
+
+• Estrutural: ocorre quando a posição das palavras numa oração pode resultar
+  numa oração com sentido impreciso.
+
+a) Mau uso da coordenação
+
+Ex.: Botafogo E Vasco jogam neste domingo. (O Botafogo joga contra o Vasco ou
+cada um contra seu respectivo adversário?)
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+b) Mau uso da forma nominal (gerúndio / particípio)
+
+Ex.: A garota viu o vizinho CORRENDO (quem estava correndo? A pessoa que viu ou
+o vizinho?)
+
+c) Mau uso do pronome (relativo / possessivo)
+
+Ex.: Peguei emprestada a roupa da minha amiga QUE é muito bonita. ( muito bonita
+é a roupa ou a minha amiga?)
+
+João pediu a Carlos para pegar SEUS livros. (pegar os livros de João ou de Carlos?)
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+d) Má colocação dos termos: diz respeito à estrutura da oração, à ordem em que os
+elementos aparecem.
+
+Ex.: Comprou o carro RÁPIDO. ( o carro era rápido ou ele comprou rapidamente o
+carro?)
+
+e) Indefinição entre agente e paciente: quando o termo preposicionado dá início a
+uma expressão que pode funcionar como adjunto adnominal ( = ideia ativa) ou
+complemento nominal ( = ideia passiva)
+
+Ex.: A lembrança DE MEU PAI alegrou-me. (foi o meu pai que se lembrou de algo -
+ideia ativa - ou o meu pai me veio ao pensamento - ideia passiva - e essa lembrança
+me alegrou?)
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+III. Use o código abaixo para identificar a natureza da ambiguidade
+(estrutural ou lexical) das frases apresentadas.
+
+(1) Mau uso da coordenação
+(2) Mau uso das formas nominais
+(3) Má colocação dos termos
+(4) Má colocação dos pronomes
+(5) Indefinição entre agente e paciente
+(6) Imprecisão do vocábulo
+
+1.A mãe viu o filho chegando em casa bem tarde. ( )
+
+2. O professor de Maria terminou a aula fazendo apontamentos no seu caderno. ( )
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+3. Falei com a chefe que estava com vertigem. ( )
+
+4. João e Maria se casaram. ( )
+
+5. Chamar os bombeiros já ficou na moda.( )
+
+6. A mala foi encontrada perto do banco. ( )
+
+7. A criação da instituição demorou mais do que se esperava. ( )
+
+8. Júlio conversou com Paulo sentado no muro. ( )
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+31. VUNESP - CREMESP - Administrador de Banco de Dados
+
+Leia os textos seguintes para responder à questão.
+
+(a) Uma pesquisa com 600 crianças e adolescentes mostra que a publicidade tem
+função pedagógica – e prova que a garotada vê comerciais com um inteligente
+ceticismo.
+
+
+(b) Morador de Bruxelas, morto em junho, teria contraído bactéria resistente a
+antibióticos no país asiático após o acidente e a hospitalização.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+31. VUNESP - CREMESP - Administrador de Banco de Dados
+
+Assinale as seguintes afirmações sobre os textos.
+
+I. No trecho “a garotada vê comerciais com um inteligente ceticismo", do texto (a),
+existe uma ambiguidade, porque tanto se pode pensar em “com um inteligente
+ceticismo" como atributo dos comerciais, quanto como uma maneira de se ver os
+comerciais.
+
+II. No texto (b) há também uma ambiguidade, porque não se sabe com certeza se o
+morador de Bruxelas contraiu a bactéria “no país asiático" ou se a bactéria é
+resistente a antibióticos “no país asiático".
+
+III. Se o trecho “com um inteligente ceticismo", do texto (a), for deslocado para
+antes da palavra “comerciais", desaparece a ambiguidade.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+31. VUNESP - CREMESP - Administrador de Banco de Dados
+
+Está correto o que se afirma em
+
+A) I, II e III.
+B) I e II, apenas.
+C) III, apenas.
+D) II e III, apenas.
+E) I, apenas.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+31. VUNESP - CREMESP - Administrador de Banco de Dados
+
+Está correto o que se afirma em
+
+A) I, II e III.
+B) I e II, apenas.
+C) III, apenas.
+D) II e III, apenas.
+E) I, apenas.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+32. FUMARC - 2023 - AL-MG - Analista Legislativo
+
+No dicionário de Joaquim Mattoso Camara Jr, encontra-se o seguinte significado de
+ambiguidade: “Circunstância de uma comunicação linguística se prestar a mais de
+uma interpretação.” [CAMARA JR. Dicionário de Linguística e Gramática referente à
+Língua Portuguesa. 28. ed. Petrópolis (RJ): Vozes, 2011]
+Faça a associação correta entre as duas colunas, relacionando o tipo de
+ambiguidade e a sentença que a exemplifica.
+
+1. Ambiguidade pelo uso de pronomes possessivos na terceira pessoa 2.
+Ambiguidade relacionada ao uso de formas nominais 3. Ambiguidade entre
+pronome relativo e conjunção integrante. 4. Ambiguidade pela colocação
+inadequada de sintagmas.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+32. FUMARC - 2023 - AL-MG - Analista Legislativo
+
+a) Assistente social nega que menor fugiu de sua casa. b) A mãe cansada saiu
+apressada do trabalho. c) Rita avisou a Clarice que estava terminando o trabalho. d)
+O garoto mal-humorado resmungou durante o treino.
+
+A associação CORRETA entre números e letras é:
+
+A) 1a; 2b; 3c; 4d.
+B) 1b; 2a; 3d; 4c.
+C) 1c; 2b; 3c; 4d.
+D) 1d; 2c; 3b; 4a.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+32. FUMARC - 2023 - AL-MG - Analista Legislativo
+
+a) Assistente social nega que menor fugiu de sua casa. b) A mãe cansada saiu
+apressada do trabalho. c) Rita avisou a Clarice que estava terminando o trabalho. d)
+O garoto mal-humorado resmungou durante o treino.
+
+A associação CORRETA entre números e letras é:
+
+A) 1a; 2b; 3c; 4d.
+B) 1b; 2a; 3d; 4c.
+C) 1c; 2b; 3c; 4d.
+D) 1d; 2c; 3b; 4a.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+33. CESGRANRIO - Caixa - Técnico Bancário
+Sendo a clareza um requisito básico da escrita, a seguinte frase NÃO apresenta
+ambiguidade, estando apta a figurar em um texto oficial:
+
+
+A) A empresa que investe em seus funcionários cuida de seu equilíbrio financeiro.
+
+B) O economista discutiu com o presidente da empresa, em sua sala, a melhor forma
+de gerir os negócios.
+
+C) O nível de educação financeira da população, que cresceu muito nos últimos
+anos, é o tema da próxima palestra.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+33. CESGRANRIO - Caixa - Técnico Bancário
+
+
+D) O diretor da escola comunicou ao professor que ele ofereceria um curso de
+educação financeira para a comunidade escolar.
+
+E) Depois de ler o edital e seu anexo, o gestor solicitou a alteração deste.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+33. CESGRANRIO - Caixa - Técnico Bancário
+
+
+D) O diretor da escola comunicou ao professor que ele ofereceria um curso de
+educação financeira para a comunidade escolar.
+
+E) Depois de ler o edital e seu anexo, o gestor solicitou a alteração deste.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+34. FCC - TRT - 11ª Região (AM e RR) - Analista Judiciário
+A frase em que NÃO há ambigüidade de sentido é:
+
+A) Esse é o tipo de técnico de um time que ninguém deseja que se torne campeão.
+
+B) Ele é o autor de romance que faz enorme sucesso junto ao público feminino.
+
+C) A razão que ela me deu para ingressar em sua associação só me fez desconfiar
+ainda mais dela.
+
+D) Gostaria que você consultasse sua mãe, antes de ceder sua chácara por ocasião
+da nossa formatura.
+
+E) Quando ela me entregou a carta, percebi logo que as notícias não deviam ser as
+mais alvissareiras.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+34. FCC - TRT - 11ª Região (AM e RR) - Analista Judiciário
+A frase em que NÃO há ambigüidade de sentido é:
+
+A) Esse é o tipo de técnico de um time que ninguém deseja que se torne campeão.
+
+B) Ele é o autor de romance que faz enorme sucesso junto ao público feminino.
+
+C) A razão que ela me deu para ingressar em sua associação só me fez desconfiar
+ainda mais dela.
+
+D) Gostaria que você consultasse sua mãe, antes de ceder sua chácara por ocasião
+da nossa formatura.
+
+E) Quando ela me entregou a carta, percebi logo que as notícias não deviam ser as
+mais alvissareiras.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+35. FCC - - TRE-AM - Técnico Judiciário - Área Administrativa
+A frase que não apresenta ambiguidade é:
+
+A) O coordenador informou ao grupo que sua proposta não tinha sido aceita.
+
+B) A briga entre Pedro e Miguel foi séria, por isso lhe disse que era melhor não
+insistir na viagem.
+
+C) De presente de aniversário, a menina pediu muito ousada fantasia de fada.
+
+D) Ator e diretor se desentenderam, mas, posteriormente, o ator reconheceu suas
+próprias falhas.
+
+E) Maria assinou o projeto e o orçamento, cujo prazo de entrega estava se
+esgotando.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+35. FCC - - TRE-AM - Técnico Judiciário - Área Administrativa
+A frase que não apresenta ambiguidade é:
+
+A) O coordenador informou ao grupo que sua proposta não tinha sido aceita.
+
+B) A briga entre Pedro e Miguel foi séria, por isso lhe disse que era melhor não
+insistir na viagem.
+
+C) De presente de aniversário, a menina pediu muito ousada fantasia de fada.
+
+D) Ator e diretor se desentenderam, mas, posteriormente, o ator reconheceu suas
+próprias falhas.
+
+E) Maria assinou o projeto e o orçamento, cujo prazo de entrega estava se
+esgotando.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+36. FGV - 2023 - SME - SP - Professor de Educação Infantil
+Um dos problemas mais encontrados na língua escrita é o da produção de
+ambiguidades, gerando mau entendimento de um texto.
+
+Assinale a opção que apresenta a frase que não mostra qualquer ambiguidade.
+
+A) Quando apoiamos a garrafa sobre a mesa, partiu-se em duas partes.
+B) Eles são representantes de jogadores talentosos.
+C) Necessito de um bom detergente para minha roupa biodegradável.
+D) Escolheu uma moto rápido.
+E) Não os aceitaram no clube por seus preconceitos.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+36. FGV - 2023 - SME - SP - Professor de Educação Infantil
+Um dos problemas mais encontrados na língua escrita é o da produção de
+ambiguidades, gerando mau entendimento de um texto.
+
+Assinale a opção que apresenta a frase que não mostra qualquer ambiguidade.
+
+A) Quando apoiamos a garrafa sobre a mesa, partiu-se em duas partes.
+B) Eles são representantes de jogadores talentosos.
+C) Necessito de um bom detergente para minha roupa biodegradável.
+D) Escolheu uma moto rápido.
+E) Não os aceitaram no clube por seus preconceitos.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+37. FGV - 2023 - Prefeitura de Niterói - RJ - Agente Administrativo
+ “O que agora é provado foi uma vez apenas imaginado.”
+
+Nesta frase, a expressão “uma vez” cria ambiguidade, pois pode ser lida junto ao
+primeiro bloco ou ao segundo, com sentidos diferentes.
+
+Esse tipo de ambiguidade ocorre também em
+
+A) “Pagar o IPVA já custa mais barato.”
+B) “Falei com Pedro e Júlia, mas não entrei em sua casa.”
+C) “Todos chegaram na hora marcada, menos ela.”
+D) “Ela, revoltada, pegou a carta e jogou-a no chão.”
+E) “Ficaram todas satisfeitas com a nomeação do Ministro.”
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+37. FGV - 2023 - Prefeitura de Niterói - RJ - Agente Administrativo
+ “O que agora é provado foi uma vez apenas imaginado.”
+
+Nesta frase, a expressão “uma vez” cria ambiguidade, pois pode ser lida junto ao
+primeiro bloco ou ao segundo, com sentidos diferentes.
+
+Esse tipo de ambiguidade ocorre também em
+
+A) “Pagar o IPVA já custa mais barato.”
+B) “Falei com Pedro e Júlia, mas não entrei em sua casa.”
+C) “Todos chegaram na hora marcada, menos ela.”
+D) “Ela, revoltada, pegou a carta e jogou-a no chão.”
+E) “Ficaram todas satisfeitas com a nomeação do Ministro.”
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+38. FGV - 2022 - TJ-DFT - Técnico Judiciário - Área Administrativa
+“Os homens prudentes, pelos casos passados e pelos presentes, julgam os que estão
+por vir.”
+
+Essa frase pode apresentar ambiguidade, já que o segmento “os que estão por vir”
+pode referir-se a “homens” ou a “casos”.
+
+A frase abaixo em que há uma ambiguidade possível é:
+
+A) Para quem é pouca coisa, basta-lhe pouca coisa;
+B) Convicções são mais perigosas para a verdade do que as mentiras;
+C) A ironia é uma tristeza que não pode chorar e rir;
+D) O covarde e o corajoso mostram o seu medo;
+E) Eu achei que estava errado uma vez, e estava mesmo errado.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+38. FGV - 2022 - TJ-DFT - Técnico Judiciário - Área Administrativa
+“Os homens prudentes, pelos casos passados e pelos presentes, julgam os que estão
+por vir.”
+
+Essa frase pode apresentar ambiguidade, já que o segmento “os que estão por vir”
+pode referir-se a “homens” ou a “casos”.
+
+A frase abaixo em que há uma ambiguidade possível é:
+
+A) Para quem é pouca coisa, basta-lhe pouca coisa;
+B) Convicções são mais perigosas para a verdade do que as mentiras;
+C) A ironia é uma tristeza que não pode chorar e rir;
+D) O covarde e o corajoso mostram o seu medo;
+E) Eu achei que estava errado uma vez, e estava mesmo errado.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+39. FGV - TJ-RS - Oficial de Justiça
+A frase abaixo em que ocorre ambiguidade é:
+
+
+A) Ninguém mais os encontrou de novo;
+
+B) O cargo de oficial de justiça é importante;
+
+C) A nomeação do Ministro foi surpreendente;
+
+D) Tudo foi organizado para o julgamento;
+
+E) As folhas do caderno despencaram.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+39. FGV - TJ-RS - Oficial de Justiça
+A frase abaixo em que ocorre ambiguidade é:
+
+
+A) Ninguém mais os encontrou de novo;
+
+B) O cargo de oficial de justiça é importante;
+
+C) A nomeação do Ministro foi surpreendente;
+
+D) Tudo foi organizado para o julgamento;
+
+E) As folhas do caderno despencaram.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+40. FGV - 2022 - Câmara de Taubaté - SP - Cerimonialista Legislativo
+A frase abaixo que está isenta de ambiguidade, é:
+
+
+A) Fazer exercícios matutinos já melhoram as condições físicas.
+
+B) Meninos da turma desprezam menos leituras de quadrinhos.
+
+C) A História esclarece somente fatos passados.
+
+D) Vou passear também curtindo a paisagem.
+
+E) Na estrada vi mansões e gente de alto padrão.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+40. FGV - 2022 - Câmara de Taubaté - SP - Cerimonialista Legislativo
+A frase abaixo que está isenta de ambiguidade, é:
+
+
+A) Fazer exercícios matutinos já melhoram as condições físicas.
+
+B) Meninos da turma desprezam menos leituras de quadrinhos.
+
+C) A História esclarece somente fatos passados.
+
+D) Vou passear também curtindo a paisagem.
+
+E) Na estrada vi mansões e gente de alto padrão.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+41. FGV - 2023 - TJ-RN - Analista Judiciário
+A frase abaixo que mostra ambiguidade em função de NÃO se poder distinguir
+agente e paciente, é:
+
+
+A) O chefe encontrou o funcionário em seu gabinete;
+
+B) A criação da instituição demorou mais do que se esperava;
+
+C) João e Maria se casaram ontem;
+
+D) Encontrei o assaltante andando pela rua;
+
+E) Chamar os bombeiros já ficou na moda.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+41. FGV - 2023 - TJ-RN - Analista Judiciário
+A frase abaixo que mostra ambiguidade em função de NÃO se poder distinguir
+agente e paciente, é:
+
+
+A) O chefe encontrou o funcionário em seu gabinete;
+
+B) A criação da instituição demorou mais do que se esperava;
+
+C) João e Maria se casaram ontem;
+
+D) Encontrei o assaltante andando pela rua;
+
+E) Chamar os bombeiros já ficou na moda.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+42. CESPE - TRF - 1ª REGIÃO - Analista Judiciário
+“Assim,por mais condicionada que esteja à significação de uma palavra ao seu
+contexto, sempre subsiste nela, palavra , um núcleo significativo mais ou menos
+estável…”
+
+
+Considerando as relações sintático-semânticas do texto , julgue o próximo item.
+
+O termo “palavra”, entre vírgulas, foi empregado para deixar claro o referente do
+vocábulo “nela”, evitando-se, assim, uma interpretação ambígua do período.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+42. CESPE - TRF - 1ª REGIÃO - Analista Judiciário
+“Assim,por mais condicionada que esteja à significação de uma palavra ao seu
+contexto, sempre subsiste nela, palavra , um núcleo significativo mais ou menos
+estável…”
+
+
+Considerando as relações sintático-semânticas do texto , julgue o próximo item.
+
+O termo “palavra”, entre vírgulas, foi empregado para deixar claro o referente do
+vocábulo “nela”, evitando-se, assim, uma interpretação ambígua do período.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+43. CESPE / CEBRASPE -Instituto Rio Branco - Diplomata
+
+“Dá-se o caso que saiu a edição do meu livro Canções , ilustrado por Noêmia e que,
+ao ser noticiado por Nilo Tapecoara no Bric-à-Brac da vida , este o publicou com o
+meu retrato em duas colunas…”
+
+Considerando os sentidos e aspectos morfossintáticos do texto, julgue o item
+seguir.
+
+A proximidade imediata entre "com o meu retrato" e "em duas colunas" gera
+ambigüidade quanto a haver um ou dois retratos do autor..
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+43. CESPE / CEBRASPE -Instituto Rio Branco - Diplomata
+
+“Dá-se o caso que saiu a edição do meu livro Canções , ilustrado por Noêmia e que,
+ao ser noticiado por Nilo Tapecoara no Bric-à-Brac da vida , este o publicou com o
+meu retrato em duas colunas…”
+
+Considerando os sentidos e aspectos morfossintáticos do texto, julgue o item
+seguir.
+
+A proximidade imediata entre "com o meu retrato" e "em duas colunas" gera
+ambigüidade quanto a haver um ou dois retratos do autor..
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+44. CESPE - STJ - Técnico Judiciário
+
+A um coronel que se queixava da vida do quartel,um jornalista disse:
+
+- E o senhor não sabe como é chato militar na imprensa.
+
+Na construção do sentido do texto, destaca-se a ambiguidade do vocábulo “militar”,
+que, no contexto em que aparece, pode ser classificado ora como substantivo, ora
+como verbo.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+44. CESPE - STJ - Técnico Judiciário
+
+A um coronel que se queixava da vida do quartel,um jornalista disse:
+
+- E o senhor não sabe como é chato militar na imprensa.
+
+Na construção do sentido do texto, destaca-se a ambiguidade do vocábulo “militar”,
+que, no contexto em que aparece, pode ser classificado ora como substantivo, ora
+como verbo.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+45. CESPE - TST - Analista Judiciário
+
+O mundo do trabalho tem mudado numa velocidade vertiginosa e , se os empregos
+diminuem , isso não quer dizer que o trabalho também. Só que ele está mudando de
+cara .
+
+
+A interpretação coerente das idéias do texto permite associar “ele” tanto com
+“trabalho” quanto com “mundo do trabalho” .
+
+Ambiguidades assim devem ser evitadas na redação de textos oficiais.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+45. CESPE - TST - Analista Judiciário
+
+O mundo do trabalho tem mudado numa velocidade vertiginosa e , se os empregos
+diminuem , isso não quer dizer que o trabalho também. Só que ele está mudando de
+cara .
+
+
+A interpretação coerente das idéias do texto permite associar “ele” tanto com
+“trabalho” quanto com “mundo do trabalho” .
+
+Ambiguidades assim devem ser evitadas na redação de textos oficiais.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana Figueiredo
+
+                     @professoraadrianafigueiredo
+
+            https://www.youtube.com/user/professoraadria
+            naf
+
+                facebook.com/prof.adriana.figueiredo
+
+
+                 
+
+
+---
+
+---

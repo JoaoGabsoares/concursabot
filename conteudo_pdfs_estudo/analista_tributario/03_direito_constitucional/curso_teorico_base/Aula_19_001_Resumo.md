@@ -1,0 +1,230 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 19_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '19'
+titulo_aula: RESUMO DE DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 173.
+- Art. 174.
+- Art. 176.
+- "art.\n\n         177"
+- art. 170
+- art. 172
+- art. 175
+- art. 21
+---
+
+# RESUMO DE DIREITO CONSTITUCIONAL
+
+RESUMO DE DIREITO CONSTITUCIONAL
+
+
+Ordem Econômica e Financeira
+
+ ● A constitucionalização da ordem econômica é resultado do surgimento do
+
+   Estado de bem-estar social. No Brasil, a Constituição de 1934 foi a primeira a
+
+   trazer em seu texto a disciplina da ordem econômica, o que se deveu à forte
+
+   influência da Constituição alemã de Weimar (1919). As normas constitucionais
+
+   relacionadas    à     ordem     econômica        são     classificadas   como   elementos
+
+   socioideológicos.
+
+
+ ● Segundo o art. 170, CF/88, a ordem econômica, fundada na valorização do
+
+   trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência
+
+   digna, conforme os ditames da justiça social.
+
+ ● Princípios constitucionais da ordem econômica:
+
+
+         i) soberania;
+
+
+         ii) propriedade privada;
+
+
+         iii) função social da propriedade;
+
+
+         iv) livre concorrência;
+
+
+         v) defesa do consumidor;
+
+
+         vi) busca do pleno emprego;
+
+                           
+
+
+---
+
+         vii) redução das desigualdades sociais e regionais;
+
+
+         viii) defesa do meio ambiente;
+
+
+         ix) tratamento favorecido para as empresas de pequeno porte constituídas
+
+         sob as leis brasileiras e que tenham sua sede e administração no País.
+
+
+     ○    A lei reprimirá o abuso do poder econômico que vise à dominação dos
+
+         mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros
+
+         (art. 173, § 4º).
+
+     ○ O princípio da livre iniciativa não pode ser invocado para afastar regras de
+
+         regulamentação do mercado e de defesa do consumidor (RE 349.686).
+
+
+● Investimentos Estrangeiros no Brasil: Segundo o art. 172, CF/88, “a lei
+
+  disciplinará, com base no interesse nacional, os investimentos de capital
+
+  estrangeiro, incentivará os reinvestimentos e regulará a remessa de lucros”.
+
+
+● Atuação estatal no domínio econômico: Há 3 (três) formas de intervenção do
+
+  Estado na economia: intervenção direta, intervenção indireta e intervenção
+
+  mediante a instituição de monopólios.
+
+● Intervenção direta:
+
+    Art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta
+    de atividade econômica pelo Estado só será permitida quando necessária aos
+    imperativos da segurança nacional ou a relevante interesse coletivo, conforme
+    definidos em lei.
+
+                             
+
+
+---
+
+      ○ O art. 173, CF/88, consagra o princípio da subsidiariedade na atuação
+
+         direta do Estado na economia.
+
+      ○ Com base no art. 173, que ressalva “os casos previstos na Constituição”, é
+
+         possível afirmar que os imperativos da segurança nacional e o relevante
+
+         interesse coletivo não são os únicos casos em que o Estado poderá explorar
+
+         diretamente atividade econômica. Há outros casos previstos na CF/88,
+
+         como as atividades submetidas ao regime de monopólio da União (art.
+
+         177).
+
+      ○ A atuação direta do Estado no domínio econômico é feita por meio das
+
+         empresas públicas e das sociedades de economia mista exploradoras de
+
+         atividades econômicas. Segundo o art. 173, § 2º, “as empresas públicas e as
+
+         sociedades de economia mista não poderão gozar de privilégios fiscais
+
+         não extensivos às do setor privado”. Essa é uma regra válida apenas para as
+
+         empresas públicas e sociedades de economia mista que exploram
+
+         atividade econômica.
+
+●   Intervenção indireta:
+
+     Art. 174. Como agente normativo e regulador da atividade econômica, o
+     Estado exercerá, na forma da lei, as funções de fiscalização, incentivo e
+     planejamento, sendo este determinante para o setor público e indicativo para
+     o setor privado.
+
+
+      ○ Quando o Estado intervém indiretamente na economia, ele exerce 3 (três)
+
+         funções:
+
+            ■ fiscalização;
+
+                         
+
+
+---
+
+            ■ incentivo e;
+
+            ■ planejamento.
+
+     ○ O planejamento é determinante para o setor público e indicativo para o
+
+        setor privado.
+
+
+● Intervenção mediante a instituição de monopólios:
+
+    Art. 177. Constituem monopólio da União:
+
+    I - a pesquisa e a lavra das jazidas de petróleo e gás natural e outros
+    hidrocarbonetos fluidos;
+
+    II - a refinação do petróleo nacional ou estrangeiro;
+
+    III - a importação e exportação dos produtos e derivados básicos resultantes
+    das atividades previstas nos incisos anteriores;
+
+    IV - o transporte marítimo do petróleo bruto de origem nacional ou de
+    derivados básicos de petróleo produzidos no País, bem assim o transporte, por
+    meio de conduto, de petróleo bruto, seus derivados e gás natural de qualquer
+    origem;
+
+    V   -   a   pesquisa,     a   lavra,    o    enriquecimento,   o   reprocessamento,   a
+    industrialização e o comércio de minérios e minerais nucleares e seus
+    derivados, com exceção dos radioisótopos cuja produção, comercialização e
+    utilização poderão ser autorizadas sob regime de permissão, conforme as
+    alíneas b e c do inciso XXIII do caput do art. 21 desta Constituição Federal.
+
+    § 1º A União poderá contratar com empresas estatais ou privadas a realização
+    das atividades previstas nos incisos I a IV deste artigo observadas as
+    condições estabelecidas em lei.
+
+                            
+
+
+---
+
+ ● Serviços Públicos: Segundo o art. 175, CF/88, “incumbe ao Poder Público, na
+
+    forma da lei, diretamente ou sob regime de concessão ou permissão, sempre
+
+    através de licitação, a prestação de serviços públicos”.
+
+
+ ● Exploração de recursos minerais e potenciais de energia hidráulica:
+
+Art. 176. As jazidas, em lavra ou não, e demais recursos minerais e os potenciais de
+energia hidráulica constituem propriedade distinta da do solo, para efeito de
+exploração ou aproveitamento, e pertencem à União, garantida ao concessionário a
+propriedade do produto da lavra.
+
+                           
+
+
+---

@@ -1,0 +1,133 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 01_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ESTRUTURAS LÓGICAS
+---
+
+# ESTRUTURAS LÓGICAS
+
+---
+
+---
+
+ ESTRUTURAS LÓGICAS
+
+                                     Prof. Brunno Lima
+
+---
+
+CONCEITO DE PROPOSIÇÃO
+
+                                            Prof. Brunno Lima
+
+       
+
+
+---
+
+       Conceito de Proposição
+       É todo conjunto de palavras ou símbolos que exprimem uma ideia de sentido
+       completo e que, além disso, pode ser julgado como verdadeiro (V) ou falso
+       (F).
+
+       Dica! Toda proposição apresenta VERBO.
+
+Conceito de Proposição
+Prof. Brunno Lima
+
+                           
+
+
+---
+
+       Exemplos de Proposição
+       A: Ricardo foi aprovado no concurso.
+
+       B: Ana namora André e Gabriela é professora.
+
+       C: 32 = 12 + 22
+
+       D: Se Ricardo é servidor do INSS, então ele é técnico judiciário.
+
+Conceito de Proposição
+Prof. Brunno Lima
+
+                            
+
+
+---
+
+       Não são proposições
+       FRASES IMPERATIVAS
+       Sentenças imperativas apresentam ideia de ordem, conselho, pedido. Dessa
+       forma, não faz sentido avaliarmos sentenças desse tipo como verdadeiras ou
+       falsas. Por esse motivo não são consideradas proposições.
+
+       Exemplos:
+       a) “Estude bastante”.
+       b) “Erga o braço”
+       c) “Beba água”
+
+Conceito de Proposição
+Prof. Brunno Lima
+
+                           
+
+
+---
+
+       Não são proposições
+       FRASES INTERROGATIVAS
+       Sentenças interrogativas não nos dão possibilidade de julgamento como
+       verdadeiro ou falso. Assim, não são consideradas proposições.
+
+
+       Exemplos:
+       a) “Qual é a sua profissão?”
+       b) “Há cachorros que não são mamíferos?”
+       c) “Você conseguiu terminar a prova discursiva?”
+
+Conceito de Proposição
+Prof. Brunno Lima
+
+                            
+
+
+---
+
+       Não são proposições
+       FRASES EXCLAMATIVAS
+       Sentenças exclamativas externam sentimentos, sensações, reações a
+       determinados atos. Dessa forma, não são passíveis de julgamento como
+       verdadeiras ou falsas e como consequência não podem ser classificadas
+       como proposições.
+
+       Exemplos:
+       a) “Minha filha nasceu!”
+       b) “Fui aprovado no concurso!”
+       c) “Você é muito alto!”
+Conceito de Proposição
+Prof. Brunno Lima
+
+                           
+
+
+---
+
+OBRIGADO
+                                        Prof. Brunno Lima
+
+   
+
+
+---

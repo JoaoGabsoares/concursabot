@@ -1,0 +1,311 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 02_006_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '02'
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Estatística - Médias. Trata-se
+
+de um material pensado para lhe ajudar em todo esse processo, visando, inclusive, uma
+
+economia de tempo de confecção de materiais, tempo que é o bem mais precioso de um
+
+concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                  1
+
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                                 
+
+
+---
+
+                       RESUMO DE ESTATÍSTICA
+
+Medidas de Posição
+
+                                                                                           2
+
+
+         **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                          
+
+
+---
+
+Notação de Somatório
+
+Nessa notação, temos:
+
+
+     ●   um símbolo de somatório, Σ, que é a letra grega maiúscula Sigma (S);
+
+     ● um índice que vai variar do limite inferior a até o limite superior b;
+
+     ●   um limite inferior;
+
+     ● um limite superior ou condição de parada;
+
+     ●   o termo geral de uma sequência.
+
+Propriedades do Somatório
+
+1ª. Propriedade: O somatório de uma constante k é igual ao produto do número de
+
+termos pela constante.
+
+                                                                                                3
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                               
+
+
+---
+
+2ª. Propriedade: O somatório do produto de uma constante por uma variável é igual ao
+
+produto da constante pelo somatório da variável.
+
+3ª. Propriedade: O somatório de uma soma ou subtração é igual à soma ou à
+
+subtração dos somatórios dessas variáveis.
+
+Média Aritmética Simples
+
+A média aritmética de um conjunto de dados é definida como o quociente entre a
+
+soma de todos os elementos e o número deles.
+
+A propriedade principal da média é preservar a soma dos elementos de um
+
+conjunto de dados.
+
+
+                                                                                                4
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                               
+
+
+---
+
+A soma total de um conjunto de dados é calculada pela multiplicação entre a média do
+
+conjunto e a quantidade de elementos nele existentes. Trata-se da mesma fórmula
+
+apresentada anteriormente, tendo apenas o termo “n” passado para o outro lado da
+
+igualdade, multiplicando a média.
+
+Propriedades da Média Aritmética
+
+1ª Propriedade: Dado um conjunto com n ≥ 1 elementos, a média aritmética sempre
+existirá e será única.
+
+2ª Propriedade: A média aritmética x̅ de um conjunto de dados satisfaz a expressão m
+≤ x̅ ≤ M, em que m e M são, respectivamente, os elementos que representam o valor
+mínimo e o valor máximo desse conjunto.
+
+                                        mínimo ≤ x̅ ≤ Máximo
+
+                                                                                                  5
+
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                                 
+
+
+---
+
+3ª Propriedade: Somando-se (ou subtraindo-se) uma constante c de todos os valores
+de uma variável, a média do conjunto fica aumentada (ou diminuída) dessa constante.
+
+                                       y̅ = x̅ + c ou y̅ = x̅ − c
+
+4ª Propriedade: Multiplicando-se (ou dividindo-se) uma constante c de todos os
+valores de uma variável, a média do conjunto fica multiplicada (ou dividida) por esta
+constante.
+
+                                       y̅ = x̅ × c ou y̅ = x̅ ÷ c
+
+5ª Propriedade: A soma algébrica dos desvios em relação à média é nula.
+
+6ª Propriedade: A soma dos quadrados dos desvios da sequência de números {xi}, em
+relação a um número a, é mínima se a for a média aritmética dos números.
+
+                                                                                                6
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                               
+
+
+---
+
+Média Ponderada
+
+
+A média ponderada é a média de um conjunto cujos valores possuem pesos
+
+variados. Ela é calculada pela igualdade a seguir, em que p é o peso de cada valor de x:
+
+Observe que no numerador cada valor será multiplicado pelo seu respectivo peso,
+
+enquanto no denominador teremos a soma de todos os pesos.
+
+Médias para Dados Agrupados
+
+
+Média para Dados Agrupados por Valor
+
+
+A média para dados agrupados por valor é calculada pela seguinte fórmula:
+
+O raciocínio é exatamente o mesmo adotado para a média ponderada, sendo que,
+
+agora, o peso é representado pela frequência. Desse modo, multiplicamos cada valor
+
+por sua respectiva frequência, somamos tudo e dividimos pela soma das frequências.
+
+
+                                                                                                7
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                               
+
+
+---
+
+Média para Dados Agrupados por Classe
+
+A diferença em relação ao cálculo anterior consiste na substituição dos intervalos pelos
+
+seus respectivos pontos médios. O ponto médio (PM) é calculado pela média dos
+
+dois extremos do intervalo, pela seguinte expressão:
+
+A média para dados agrupados por classe é calculada pela seguinte fórmula:
+
+                                                                                                 8
+
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                                
+
+
+---
+
+Média Geométrica
+
+A média geométrica é definida como a raiz n-ésima do produto de n elementos de um
+
+conjunto de dados:
+
+A propriedade principal dessa média é preservar o produto dos elementos de um
+
+conjunto de dados.
+
+
+Somente definimos a média geométrica para números não-negativos.
+
+Média Harmônica
+
+A média harmônica é definida como o inverso da média aritmética dos inversos:
+
+                                                                                                9
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                               
+
+
+---
+
+A propriedade principal dessa média é preservar a soma dos inversos dos elementos
+
+de um conjunto de números.
+
+Desigualdade das Médias
+
+A média aritmética (x̅) é sempre maior ou igual a média geométrica (G) que, por seu
+
+turno, é sempre maior ou igual a harmônica (H).
+
+A igualdade ocorre quando os números da lista são todos iguais.
+
+                                                                                                10
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                               
+
+
+---

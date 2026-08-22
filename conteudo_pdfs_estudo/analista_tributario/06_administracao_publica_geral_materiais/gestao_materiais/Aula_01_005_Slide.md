@@ -1,0 +1,287 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ADMINISTRAÇÃO DE RECURSOS
+---
+
+# ADMINISTRAÇÃO DE RECURSOS
+
+---
+
+---
+
+ADMINISTRAÇÃO DE RECURSOS
+MATERIAIS
+
+
+                                             Prof. Ricardo Campanario
+
+        
+
+
+---
+
+NÍVEL DE SERVIÇO E MEDIDAS DE
+DESEMPENHO
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Nível de Serviço
+       Uma das medidas de desempenho mais importantes
+
+       ❑ Medidas de desempenho são maneiras de medir a performance em determinada
+         área.
+       ❑ Além disso, a medida de desempenho deve permitir que a administração possa agir
+         sobre os desvios em relação aos objetivos traçados, efetuando as correções
+         necessárias, seja no processo, nos recursos alocados, na performance ou mesmo nas
+         metas utilizadas, que podem estar sub ou super alocadas (ou seja muito abaixo ou
+         muito acima do razoável).
+       ❑ Nesse contexto, em administração de materiais há um índice que é necessário você
+         conhecer, especialmente porque ele costuma ser cobrado em provas: é o chamado
+         Nível de Serviço.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Nível de Serviço
+       Fórmula de Cálculo
+
+
+       O Nível de Serviço nada mais é do que o percentual de pedidos/requisições de
+       materiais que são atendidos de maneira satisfatória pela área de administração de
+       materiais.
+
+
+       ❑ A fórmula é bastante simples, veja abaixo:
+
+
+                   Nível de Serviço = Pedidos Atendidos Satisfatoriamente / Pedidos Totais
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Nível de Serviço
+       Entendendo as Requisições de Materiais
+
+       ❑ Tão importante quanto conhecer a fórmula, é estar ciente do desafio que está por trás dela.
+       ❑ Antes disso, importante explicar o que é a chamada requisição de materiais, já que ela faz parte
+         do cálculo do nível de serviços e falaremos bastante dela ao longo do curso.
+
+       ❑ A requisição de materiais é o documento hábil pelo qual o material é solicitado ao almoxarifado
+         para utilização. É o pedido de material enviado ao setor responsável pelo fornecimento de
+         materiais. É por meio dela que os clientes internos informam ao responsável pelo
+         almoxarifado/estoque, que estão desabastecidos e precisam de reposição.
+
+       ❑ Veja portanto que, a somatória das requisições de materiais apresentadas, em tese forma o
+         denominador da fórmula acima, ou seja os "Pedidos Totais".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Nível de Serviço
+       O Desafio!
+
+       ❑ Voltando, você se lembra que desde o início de nossa aula estamos falando em eficiência,
+         redução de custos, volumes mínimos de estoques e etc., correto? Pois é. O problema é que,
+         quanto menor for o estoque, em tese, maior o risco de que o administrador de materiais não
+         consiga atender alguns pedidos e isso vai impactar diretamente o seu nível de serviço.
+
+       ❑ É claro que tudo isso é muito teórico. Se o planejamento de demanda e de produção forem
+         absolutamente perfeitos e o fornecedor não falhar nunca nas entregas em relação ao local, prazo
+         e qualidade, poderíamos chegar ao cenário hipotético de estoque zero. Mas isso só ocorre na
+         teoria (embora a teoria caia em prova!).
+
+       ❑ Nesse cenário, tão logo a produção do produto X estivesse programada para ser iniciada, o
+         material necessário seria imediatamente entregue, sem qualquer falha. Esse, aliás, é o conceito
+         do Just In Time, bem resumidamente.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Nível de Serviço
+       Estoque de segurança para as possíveis falhas
+
+       ❑ Acontece que falhas existem. A demanda pode superar o planejado. O fornecedor pode ter tido
+         um problema aquele dia e ficou sem material para entregar. O caminhão que estava trazendo o
+         material até a linha de produção sofreu um acidente e perdeu a carga.
+
+       ❑ Ou seja, é necessário trabalhar com o chamado estoque de segurança (ou estoque mínimo), que
+         permite à empresa não precisar parar a sua operação quando uma entrega programada não
+         acontecer ou quando se deparar com um incremento inesperado de demanda, por exemplo.
+
+       ❑ O estoque de segurança absorve as flutuações e garante a manutenção do ciclo produtivo da
+         empresa, garantindo as entregas dos materiais quando solicitados, especialmente pela área
+         produtiva.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Nível de Serviço
+       A decisão
+
+       ❑ E é disso que estamos falando quando usamos o Nível de Serviço, ou seja, o percentual de atendimento das
+         solicitações recebidas pelo gestor de materiais, utilizando os recursos que forem necessários para isso, entre eles
+         o estoque regular, o estoque mínimo ou de segurança ou qualquer outra fonte necessária.
+
+       ❑ Por outro lado, obviamente níveis mais altos de serviço custam mais caro que níveis mais baixos. Os conceitos
+         mais modernos da administração de materiais sugerem que as necessidades de serviços aos clientes devem ser
+         satisfeitas sempre dentro de limites razoáveis de custo. Ou seja, o custo de estabelecer certo nível de serviço deve
+         ser contrabalançado com vendas potenciais para aquele serviço ou produto, de maneira a dar a máxima
+         contribuição possível nos lucros.
+
+       ❑ Assim, nem sempre a organização vai optar pelo maior nível de serviço possível, mas sim pelo mais lucrativo (no
+         caso de empresas que visam o lucro). Em algumas ocasiões vale a pena abrir mão do atendimento de algumas
+         demandas ou clientes em função do custo que isso representaria para todo o sistema. Essa é uma decisão da
+         organização.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Nível de Serviço
+       Custo-Benefício
+
+        Dentro desse contexto, o administrador de materiais deve ser competente o suficiente para trabalhar com o
+        estoque mais baixo possível, reduzindo os custos do emprego de capital, de armazenagem e demais custos
+        alocados e, ao mesmo tempo, ser capaz de manter um alto Nível de Serviço, ou seja, atender o maior número
+        possível de pedidos/requisições de materiais colocadas pela área de produção ou demais clientes internos, tudo
+        dentro da estratégia estabelecida pela empresa, que visa a maior lucratividade possível.
+
+
+       ❑ Veja que é uma fronteira na qual o administrador de materiais tem que transitar o tempo todo.
+         Não pode ter estoques altos a ponto de aumentar os custos de produção da organização e, ao
+         mesmo tempo, não pode ter estoques baixos a ponto de afetar uma das métricas mais
+         importantes que medem o seu trabalho: o Nível de Serviço.
+
+       ❑ É um baita desafio!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     (FCC/Pref. Mun. Recife-PE/Analista de Gestão Administrativa/2019) Entre os indicadores
+     de gestão de estoques que são utilizados de forma corrente nas organizações insere-se o
+     nível de serviço, que mede
+     a) a relação entre o número de requisições atendidas em face das requisições efetuadas.
+     b) a rotatividade dos itens repostos e o custo médio de manutenção em estoque.
+     c) o custo relativo de cada item de material em relação ao total do estoque mantido.
+     d) o número de vezes que o estoque de determinado item de material é renovado.
+     e) o período em que o estoque médio será capaz de atender a demanda média.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FCC/Pref. Mun. Recife-PE/Analista de Gestão Administrativa/2019) Entre os indicadores
+     de gestão de estoques que são utilizados de forma corrente nas organizações insere-se o
+     nível de serviço, que mede
+     a) a relação entre o número de requisições atendidas em face das requisições efetuadas.
+     b) a rotatividade dos itens repostos e o custo médio de manutenção em estoque.
+     c) o custo relativo de cada item de material em relação ao total do estoque mantido.
+     d) o número de vezes que o estoque de determinado item de material é renovado.
+     e) o período em que o estoque médio será capaz de atender a demanda média.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (ACEP/Pref. Aracati-CE/Almoxarife/2018) Durante o planejamento do Programa de
+     Desenvolvimento Institucional (PDI) da Prefeitura de Aracati-CE, o Gestor da área de
+     materiais apresentou um indicador que retratava o nível de serviço do Almoxarifado. É
+     correto afirmar sobre este indicador que:
+     a) indica o número de unidades de tempo que o estoque médio será suficiente para
+     cobrir a demanda média.
+     b) se o número de requisições atendidas pelo Almoxarifado foi de 4.400 e 4.495 foi o
+     número de requisições efetuadas pelos usuários, então o nível de serviço foi de 97,88%.
+     c) o nível de serviço serve para medir a qualidade do material entregue.
+     d) quanto mais requisições forem atendidas, menor será o nível de serviço.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (ACEP/Pref. Aracati-CE/Almoxarife/2018) Durante o planejamento do Programa de
+     Desenvolvimento Institucional (PDI) da Prefeitura de Aracati-CE, o Gestor da área de
+     materiais apresentou um indicador que retratava o nível de serviço do Almoxarifado. É
+     correto afirmar sobre este indicador que:
+     a) indica o número de unidades de tempo que o estoque médio será suficiente para
+     cobrir a demanda média.
+     b) se o número de requisições atendidas pelo Almoxarifado foi de 4.400 e 4.495 foi o
+     número de requisições efetuadas pelos usuários, então o nível de serviço foi de 97,88%.
+     c) o nível de serviço serve para medir a qualidade do material entregue.
+     d) quanto mais requisições forem atendidas, menor será o nível de serviço.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

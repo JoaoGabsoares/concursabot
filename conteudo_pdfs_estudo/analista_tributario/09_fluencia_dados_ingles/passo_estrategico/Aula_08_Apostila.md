@@ -1,0 +1,2570 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 08_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: Passo Estratégico de Língua Inglesa
+---
+
+# Passo Estratégico de Língua Inglesa
+
+Aula 07
+                          Receita Federal (Analista Tributário)
+                         Passo Estratégico de Língua Inglesa
+
+                                                        Autor:
+                                               Rodrigo Perni
+
+                                             24 de Maio de 2023
+
+---
+
+      Rodrigo Perni
+      Aula 07
+
+                                                                                     Índice
+1) Caderno de Exercícios I
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                                                                                 2
+                www.estrategiaconcursos.com.br                                                                                                                                           47
+
+                                                             
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+                                                      INGLÊS
+Apresentação                                                                         2
+
+O que é o Passo Estratégico?                                                         3
+
+Análise Estatística                                                                  4
+
+Dicas do Coach                                                                       4
+
+Caderno de Exercícios                                                                5
+
+Gabarito                                                                             44
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   3
+         www.estrategiaconcursos.com.br                                              47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+                                             APRESENTAÇÃO
+Olá!
+Sou o professor Rodrigo Perni e, com imensa satisfação, serei o seu analista do Passo Estratégico!
+Para que você conheça um pouco sobre mim segue um resumo de nossa experiência profissional,
+acadêmica e como concurseiros:
+
+                                               Rodrigo Perni
+       *Auditor – Fiscal da Receita Federal do Brasil;
+
+       * Coach do Estratégia Concursos;
+
+       * Responsável pela elaboração e análise estatística do Passo Estratégico de
+       Arquivologia, Recursos de Administração de Materiais, Conhecimento Específico e
+       Inglês;
+
+       * Formado em Administração de Empresas e
+
+       * Aprovado no concurso do ano de 2005, na 21ª posição na 2ª Região Fiscal no
+       concurso para Auditor-Fiscal da Receita Federal do Brasil.
+
+Estou extremamente feliz de ter a oportunidade de trabalhar na equipe do “Passo”, porque
+tenho convicção de que nossos relatórios e simulados proporcionarão uma preparação
+diferenciada aos nossos alunos!
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa              4
+         www.estrategiaconcursos.com.br                                                         47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+                            O QUE É O PASSO ESTRATÉGICO?
+O Passo Estratégico é um material escrito e enxuto que possui dois objetivos principais:
+a) orientar revisões eficientes;
+b) destacar os pontos mais importantes e prováveis de serem cobrados em prova.
+Assim, o Passo Estratégico pode ser utilizado tanto para turbinar as revisões dos alunos mais
+adiantados nas matérias, quanto para maximizar o resultado na reta final de estudos por parte
+dos alunos que não conseguirão estudar todo o conteúdo do curso regular.
+Em ambas as formas de utilização, como regra, o aluno precisa utilizar o Passo Estratégico em
+conjunto com um curso regular completo.
+Isso porque nossa didática é direcionada ao aluno que já possui uma base do conteúdo.
+Assim, se você vai utilizar o Passo Estratégico:
+a) como método de revisão, você precisará de seu curso completo para realizar as leituras
+indicadas no próprio Passo Estratégico, em complemento ao conteúdo entregue diretamente em
+nossos relatórios;
+b) como material de reta final, você precisará de seu curso completo para buscar maiores
+esclarecimentos sobre alguns pontos do conteúdo que, em nosso relatório, foram eventualmente
+expostos utilizando uma didática mais avançada que a sua capacidade de compreensão, em
+razão do seu nível de conhecimento do assunto.
+
+
+                         Seu cantinho de estudos famoso!
+                        Poste uma foto do seu cantinho de estudos nos stories do
+                                        Instagram e nos marque:
+
+                                            @passoestrategico
+                        Vamos repostar sua foto no nosso perfil para que ele fique
+                                famoso entre milhares de concurseiros!
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa         5
+         www.estrategiaconcursos.com.br                                                    47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+                                        ANÁLISE ESTATÍSTICA
+Inicialmente, convém destacar os percentuais de incidência das questões de Inglês nas provas
+elaboradas pelas bancas CEBRASPE, FCC, FGV e VUNESP nos últimos anos.
+Lembrando, quanto maior o percentual de cobrança de um dado assunto, maior sua importância:
+
+                                    Assunto                                            Grau de incidência em
+                                                                                     concursos anteriores para a
+                                                                                             Área Fiscal
+
+
+                Interpretação de Textos (compreensão)                                          9,71%
+
+
+                   Vocabulário e Tradução (inglês)                                              15%
+
+
+                           Gramática (inglês)                                                  6,45%
+
+
+                              Inglês Técnico                                                   4,09%
+
+                                           DICAS DO COACH
+        Prezados,
+
+       durante a resolução dos exercícios você precisa estar concentrado, pois qualquer desatenção fará
+com que deixe passar detalhes cobrados nas questões. Para evitar que isso ocorra, recomendamos que
+você adote as seguintes ações:
+
+        1 - Faça marcações dos principais pontos exigidos nos enunciados; e
+
+      2 - Caso entenda necessário faça anotações sintéticas daquilo que remete você àquilo que está
+sendo perguntado.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                 6
+         www.estrategiaconcursos.com.br                                                                            47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+                                    CADERNO DE EXERCÍCIOS
+(TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS - FGV - 2022)
+
+1 - TEXT
+
+Here’s why we’ll never be able to build a brain in a computer
+
+It’s easy to equate brains and computers – they’re both thinking machines, after all. But the
+comparison doesn’t really stand up to closer inspection, as Dr. Lisa Feldman Barrett reveals.
+
+People often describe the brain as a computer, as if neurons are like hardware and the mind is
+software. But this metaphor is deeply flawed.
+
+A computer is built from static parts, whereas your brain constantly rewires itself as you age and
+learn. A computer stores information in files that are retrieved exactly, but brains don’t store
+information in any literal sense. Your memory is a constant construction of electrical pulses and
+swirling chemicals, and the same remembrance can be reassembled in different ways at different
+times.
+
+Brains also do something critical that computers today can’t. A computer can be trained with
+thousands of photographs to recognise a dandelion as a plant with green leaves and yellow
+petals. You, however, can look at a dandelion and understand that in different situations it
+belongs to different categories. A dandelion in your vegetable garden is a weed, but in a
+bouquet from your child it’s a delightful flower. A dandelion in a salad is food, but people also
+consume dandelions as herbal medicine.
+
+In other words, your brain effortlessly categorises objects by their function, not just their physical
+form. Some scientists believe that this incredible ability of the brain, called ad hoc category
+construction, may be fundamental to the way brains work.
+
+Also, unlike a computer, your brain isn’t a bunch of parts in an empty case. Your brain inhabits a
+body, a complex web of systems that include over 600 muscles in motion, internal organs, a heart
+that pumps 7,500 litres of blood per day, and dozens of hormones and other chemicals, all of
+which must be coordinated, continually, to digest food, excrete waste, provide energy and fight
+illness.[…]
+
+If we want a computer that thinks, feels, sees or acts like us, it must regulate a body – or
+something like a body – with a complex collection of systems that it must keep in balance to
+continue operating, and with sensations to keep that regulation in check. Today’s computers don’t
+work this way, but perhaps some engineers can come up with something that’s enough like a
+body to provide this necessary ingredient.
+
+For now, ‘brain as computer’ remains just a metaphor. Metaphors can be wonderful for explaining
+complex topics in simple terms, but they fail when people treat the metaphor as an explanation.
+Metaphors provide the illusion of knowledge.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                  7
+         www.estrategiaconcursos.com.br                                                            47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+    (Adapted from https://www.sciencefocus.com/future-technology/canwe-build-brain-computer/ Published: 24th October, 2021,
+                                                                                           retrieved on February 9th, 2022)
+
+
+The passage in which the verb phrase indicates a necessity is:
+
+A) “this incredible ability of the brain […] may be fundamental”;
+B) “some engineers can come up with something”;
+C) “computers don’t work this way”;
+D) “brains don’t store information”;
+E) “it must regulate a body”.
+
+
+(TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS - FGV - 2022)
+
+2 - TEXT:
+
+Here’s why we’ll never be able to build a brain in a computer
+
+It’s easy to equate brains and computers – they’re both thinking machines, after all. But the
+comparison doesn’t really stand up to closer inspection, as Dr. Lisa Feldman Barrett reveals.
+
+People often describe the brain as a computer, as if neurons are like hardware and the mind is
+software. But this metaphor is deeply flawed.
+
+A computer is built from static parts, whereas your brain constantly rewires itself as you age and
+learn. A computer stores information in files that are retrieved exactly, but brains don’t store
+information in any literal sense. Your memory is a constant construction of electrical pulses and
+swirling chemicals, and the same remembrance can be reassembled in different ways at different
+times.
+
+Brains also do something critical that computers today can’t. A computer can be trained with
+thousands of photographs to recognise a dandelion as a plant with green leaves and yellow
+petals. You, however, can look at a dandelion and understand that in different situations it
+belongs to different categories. A dandelion in your vegetable garden is a weed, but in a
+bouquet from your child it’s a delightful flower. A dandelion in a salad is food, but people also
+consume dandelions as herbal medicine.
+
+In other words, your brain effortlessly categorises objects by their function, not just their physical
+form. Some scientists believe that this incredible ability of the brain, called ad hoc category
+construction, may be fundamental to the way brains work.
+
+Also, unlike a computer, your brain isn’t a bunch of parts in an empty case. Your brain inhabits a
+body, a complex web of systems that include over 600 muscles in motion, internal organs, a heart
+that pumps 7,500 litres of blood per day, and dozens of hormones and other chemicals, all of
+which must be coordinated, continually, to digest food, excrete waste, provide energy and fight
+illness.[…]
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                      8
+         www.estrategiaconcursos.com.br                                                                                 47
+
+                                       
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+If we want a computer that thinks, feels, sees or acts like us, it must regulate a body – or
+something like a body – with a complex collection of systems that it must keep in balance to
+continue operating, and with sensations to keep that regulation in check. Today’s computers don’t
+work this way, but perhaps some engineers can come up with something that’s enough like a
+body to provide this necessary ingredient.
+
+For now, ‘brain as computer’ remains just a metaphor. Metaphors can be wonderful for explaining
+complex topics in simple terms, but they fail when people treat the metaphor as an explanation.
+Metaphors provide the illusion of knowledge.
+
+    (Adapted from https://www.sciencefocus.com/future-technology/canwe-build-brain-computer/ Published: 24th October, 2021,
+                                                                                           retrieved on February 9th, 2022)
+
+
+“Whereas” in “A computer is built from static parts, whereas your brain constantly rewires itself as
+you age and learn” introduces a(n):
+
+A) cause;
+B) contrast;
+C) condition;
+D) illustration;
+E) explanation.
+
+(CONTROLADORIA-GERAL DA UNIÃO - FGV - 2021)
+
+3 - TEXT
+
+How the auditing profession is transforming to meet future challenges
+
+The way that audit professionals work has recently undergone the biggest and fastest change that
+any of us have experienced in our working lives. COVID-19 has accelerated audit firms’ transition
+toward new ways of operating that will outlast the immediate effects of the pandemic.
+
+The sudden shift to remote and flexible working by both audit firms and the companies they audit
+adds a new dimension to the challenge already faced in adapting the audit to a fast-evolving
+corporate world. Companies’ business models are growing more complex as they move through
+digital transformation, and this is placing new demands on audit professionals. However, new
+ways of working will bring important benefits as well as posing challenges that have to be
+addressed.
+
+As digital technologies and data analysis become increasingly central to the audit process – as
+well as to companies’ business models – audit firms will require a more diverse range of skills.
+They have traditionally recruited people with business backgrounds but, in the future, all auditors
+will need an increased level of technological understanding.
+
+In addition, audit firms will require more people with significant expertise in STEM subjects
+(science, technology, engineering and mathematics) to enable them to leverage technology
+effectively for audit purposes. Not all these specialists will become qualified auditors, but some
+undoubtedly will, and their arrival will increase the diversity of audit teams.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                      9
+         www.estrategiaconcursos.com.br                                                                                 47
+
+                                       
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+The personal characteristics audit firms look for in new team members will evolve as well.
+Traditionally, firms have emphasized personal integrity and professional skepticism in audit
+professionals, and these attributes will undoubtedly remain vital. But in the new and
+fast-developing environment, auditors will also need to develop even deeper knowledge of
+business, a powerful curiosity about technologies and an agile mindset that embraces disruption.
+
+The shift in people’s working lives has been extraordinary. However, the reaction to the COVID-19
+pandemic has demonstrated that, when the situation demands it, audit firms are capable of
+rapidly making significant changes to the way they operate.
+
+Increased flexibility will bring other important benefits, especially if it results in firms placing more
+emphasis on performance in terms of output and productivity. More broadly, the changes
+brought about by COVID-19 will help to accelerate cultural change in organizations and make
+them more open to different ways of working.
+
+[…]
+
+                                                                                          Source: Adapted from
+         https://www.ey.com/en_gl/assurance/how-the-auditingprofession-is-transforming-to-meet-future-challenges
+
+“More broadly” in “More broadly, the changes brought about by COVID-19 will help to
+accelerate cultural change […]” (last paragraph) can be replaced without change in meaning by:
+
+A) More specifically;
+B) In general terms;
+C) In summary;
+D) All in all;
+E) After all.
+
+(CONTROLADORIA-GERAL DA UNIÃO - FGV - 2021)
+
+4 - TEXT:
+
+How the auditing profession is transforming to meet future challenges
+
+The way that audit professionals work has recently undergone the biggest and fastest change that
+any of us have experienced in our working lives. COVID-19 has accelerated audit firms’ transition
+toward new ways of operating that will outlast the immediate effects of the pandemic.
+
+The sudden shift to remote and flexible working by both audit firms and the companies they audit
+adds a new dimension to the challenge already faced in adapting the audit to a fast-evolving
+corporate world. Companies’ business models are growing more complex as they move through
+digital transformation, and this is placing new demands on audit professionals. However, new
+ways of working will bring important benefits as well as posing challenges that have to be
+addressed.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                           10
+         www.estrategiaconcursos.com.br                                                                      47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+As digital technologies and data analysis become increasingly central to the audit process – as
+well as to companies’ business models – audit firms will require a more diverse range of skills.
+They have traditionally recruited people with business backgrounds but, in the future, all auditors
+will need an increased level of technological understanding.
+
+In addition, audit firms will require more people with significant expertise in STEM subjects
+(science, technology, engineering and mathematics) to enable them to leverage technology
+effectively for audit purposes. Not all these specialists will become qualified auditors, but some
+undoubtedly will, and their arrival will increase the diversity of audit teams.
+
+The personal characteristics audit firms look for in new team members will evolve as well.
+Traditionally, firms have emphasized personal integrity and professional skepticism in audit
+professionals, and these attributes will undoubtedly remain vital. But in the new and
+fast-developing environment, auditors will also need to develop even deeper knowledge of
+business, a powerful curiosity about technologies and an agile mindset that embraces disruption.
+
+The shift in people’s working lives has been extraordinary. However, the reaction to the COVID-19
+pandemic has demonstrated that, when the situation demands it, audit firms are capable of
+rapidly making significant changes to the way they operate.
+
+Increased flexibility will bring other important benefits, especially if it results in firms placing more
+emphasis on performance in terms of output and productivity. More broadly, the changes
+brought about by COVID-19 will help to accelerate cultural change in organizations and make
+them more open to different ways of working.
+
+[…]
+
+                                                                                            Source: Adapted from
+          https://www.ey.com/en_gl/assurance/how-the-auditingprofession-is-transforming-to-meet-future-challenges
+
+In the sentence “They have traditionally recruited people” (third paragraph), “they” refers to:
+
+A) digital technologies;
+B) business models;
+C) range of skills;
+D) all auditors;
+E) audit firms.
+
+(CONTROLADORIA-GERAL DA UNIÃO - FGV - 2021)
+
+5 - TEXT
+
+How the auditing profession is transforming to meet future challenges
+
+The way that audit professionals work has recently undergone the biggest and fastest change that
+any of us have experienced in our working lives. COVID-19 has accelerated audit firms’ transition
+toward new ways of operating that will outlast the immediate effects of the pandemic.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                            11
+         www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+The sudden shift to remote and flexible working by both audit firms and the companies they audit
+adds a new dimension to the challenge already faced in adapting the audit to a fast-evolving
+corporate world. Companies’ business models are growing more complex as they move through
+digital transformation, and this is placing new demands on audit professionals. However, new
+ways of working will bring important benefits as well as posing challenges that have to be
+addressed.
+
+As digital technologies and data analysis become increasingly central to the audit process – as
+well as to companies’ business models – audit firms will require a more diverse range of skills.
+They have traditionally recruited people with business backgrounds but, in the future, all auditors
+will need an increased level of technological understanding.
+
+In addition, audit firms will require more people with significant expertise in STEM subjects
+(science, technology, engineering and mathematics) to enable them to leverage technology
+effectively for audit purposes. Not all these specialists will become qualified auditors, but some
+undoubtedly will, and their arrival will increase the diversity of audit teams.
+
+The personal characteristics audit firms look for in new team members will evolve as well.
+Traditionally, firms have emphasized personal integrity and professional skepticism in audit
+professionals, and these attributes will undoubtedly remain vital. But in the new and
+fast-developing environment, auditors will also need to develop even deeper knowledge of
+business, a powerful curiosity about technologies and an agile mindset that embraces disruption.
+
+The shift in people’s working lives has been extraordinary. However, the reaction to the COVID-19
+pandemic has demonstrated that, when the situation demands it, audit firms are capable of
+rapidly making significant changes to the way they operate.
+
+Increased flexibility will bring other important benefits, especially if it results in firms placing more
+emphasis on performance in terms of output and productivity. More broadly, the changes
+brought about by COVID-19 will help to accelerate cultural change in organizations and make
+them more open to different ways of working.
+
+[…]
+
+                                                                                            Source: Adapted from
+          https://www.ey.com/en_gl/assurance/how-the-auditingprofession-is-transforming-to-meet-future-challenges
+
+In the first paragraph, the sentence “new ways of operating that will outlast the immediate effects
+of the pandemic” implies that these innovations will:
+
+A) end as the virus disappears;
+B) remain beyond the calamity;
+C) fade out with the adversities;
+D) be considered with much caution;
+E) abate at the outbreak of the disease.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                            12
+         www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+(CONTROLADORIA-GERAL DA UNIÃO - FGV - 2021)
+
+6 - TEXT
+
+How the auditing profession is transforming to meet future challenges
+
+The way that audit professionals work has recently undergone the biggest and fastest change that
+any of us have experienced in our working lives. COVID-19 has accelerated audit firms’ transition
+toward new ways of operating that will outlast the immediate effects of the pandemic.
+
+The sudden shift to remote and flexible working by both audit firms and the companies they audit
+adds a new dimension to the challenge already faced in adapting the audit to a fast-evolving
+corporate world. Companies’ business models are growing more complex as they move through
+digital transformation, and this is placing new demands on audit professionals. However, new
+ways of working will bring important benefits as well as posing challenges that have to be
+addressed.
+
+As digital technologies and data analysis become increasingly central to the audit process – as
+well as to companies’ business models – audit firms will require a more diverse range of skills.
+They have traditionally recruited people with business backgrounds but, in the future, all auditors
+will need an increased level of technological understanding.
+
+In addition, audit firms will require more people with significant expertise in STEM subjects
+(science, technology, engineering and mathematics) to enable them to leverage technology
+effectively for audit purposes. Not all these specialists will become qualified auditors, but some
+undoubtedly will, and their arrival will increase the diversity of audit teams.
+
+The personal characteristics audit firms look for in new team members will evolve as well.
+Traditionally, firms have emphasized personal integrity and professional skepticism in audit
+professionals, and these attributes will undoubtedly remain vital. But in the new and
+fast-developing environment, auditors will also need to develop even deeper knowledge of
+business, a powerful curiosity about technologies and an agile mindset that embraces disruption.
+
+The shift in people’s working lives has been extraordinary. However, the reaction to the COVID-19
+pandemic has demonstrated that, when the situation demands it, audit firms are capable of
+rapidly making significant changes to the way they operate.
+
+Increased flexibility will bring other important benefits, especially if it results in firms placing more
+emphasis on performance in terms of output and productivity. More broadly, the changes
+brought about by COVID-19 will help to accelerate cultural change in organizations and make
+them more open to different ways of working.
+
+[…]
+
+                                                                                            Source: Adapted from
+          https://www.ey.com/en_gl/assurance/how-the-auditingprofession-is-transforming-to-meet-future-challenges
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                            13
+         www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+The excerpt that clearly refers to a specific requirement expected from auditing professionals
+from now on is:
+
+A) “(…) when the situation demands it, audit firms are capable of rapidly making significant
+changes to the way they operate”;
+B) “The personal characteristics audit firms look for in new team members will evolve as well”;
+C) “They have traditionally recruited people with business backgrounds (…)”;
+D) “(…) all auditors will need an increased level of technological understanding”;
+E) “new ways of working will bring important benefits as well as posing challenges that have to be
+addressed”.
+
+
+(CONTROLADORIA-GERAL DA UNIÃO - FGV - 2021)
+
+7 - TEXT:
+
+Professional skepticism and why it matters to audit stakeholders
+
+In auditing, the concept of professional skepticism is ubiquitous. Just as a Jedi in Star Wars is
+constantly trying to hone his understanding of the “force”, an auditor is constantly crafting his or
+her ability to apply professional skepticism. It is professional skepticism that provides the
+foundation for decision-making when conducting an attestation engagement.
+
+A brief definition
+
+The professional standards define professional skepticism as “an attitude that includes a
+questioning mind, being alert to conditions that may indicate possible misstatement due to fraud
+or error, and a critical assessment of audit evidence.” Given this definition, one quickly realizes
+that professional skepticism can’t be easily measured. Nor is it something that is cultivated
+overnight. It is a skill developed over time and a skill that auditors should constantly build and
+refine.
+
+Recently, the extent to which professional skepticism is being employed has gained a lot of
+criticism. Specifically, regulatory bodies argue that auditors are not skeptical enough in carrying
+out their duties. However, as noted in the white paper titled Scepticism: The Practitioners’ Take,
+published by the Institute of Chartered Accountants in England and Wales, simply asking for more
+skepticism is not a practical solution to this issue, nor is it necessarily always desirable. There is an
+inevitable tug of war between professional skepticism and audit efficiency. The more skeptical the
+auditor, typically, the more time it takes to complete the audit.
+
+Why does it matter? Audit quality.
+
+First and foremost, how your auditor applies professional skepticism to your audit directly impacts
+the quality of their service. Applying an appropriate level of professional skepticism enhances the
+likelihood the auditor will understand your industry, lines of business, business processes, and any
+nuances that make your company different from others, as it naturally causes the auditor to ask
+questions that may otherwise go unasked.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                    14
+         www.estrategiaconcursos.com.br                                                               47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+Applying skepticism internally
+
+By its definition, professional skepticism is a concept that specifically applies to auditors, and is
+not on point when it comes to other audit stakeholders. This is because the definition implies that
+the individual applying professional skepticism is independent from the information he or she is
+analyzing. Other audit stakeholders, such as members of management or the board of directors,
+are naturally advocates for the organizations they manage and direct and therefore can’t be
+considered independent, whereas an auditor is required to remain independent.
+
+However, rather than audit stakeholders applying professional skepticism as such, these other
+stakeholders should apply an impartial and diligent mindset to their work and the information
+they review. This allows the audit stakeholder to remain an advocate for his or her organization,
+while applying critical skills similar to those applied in the exercise of professional skepticism. This
+nuanced distinction is necessary to maintain the limited scope to which the definition of
+professional skepticism applies: the auditor.
+
+It is also important to be critical of your own work, and never become complacent. This may be
+the most difficult type of skepticism to apply, as most of us do not like to have our work criticized.
+However, critically reviewing one’s own work, essentially as an informal first level of review, will
+allow you to take a step back and consider it from a different vantage point, which may in turn
+help detect errors otherwise left unnoticed. Essentially, you should both consider evidence that
+supports the initial conclusion and evidence that may be contradictory to that conclusion.
+
+The discussion in auditing circles about professional skepticism and how to appropriately apply it
+continues. It is a challenging notion that’s difficult to adequately articulate.
+
+                                                                                               Source: Adapted from
+                https://www.berrydunn.com/news-detail/professionalskepticism-and-why-it-matters-to-audit-stakeholders
+
+The extract that refers specifically to a clash that cannot be avoided is:
+
+A) “There is an inevitable tug of war between professional skepticism and audit efficiency”;
+B) “By its definition, professional skepticism is a concept that specifically applies to auditors, and
+is not on point when it comes to other audit stakeholders”;
+C) “First and foremost, how your auditor applies professional skepticism to your audit directly
+impacts the quality of their service”;
+D) “This nuanced distinction is necessary to maintain the limited scope to which the definition of
+professional skepticism applies: the auditor”;
+E) “Essentially, you should both consider evidence that supports the initial conclusion and
+evidence that may be contradictory to that conclusion”.
+
+
+(MINISTÉRIO PÚBLICO DO ESTADO DE AMAPÁ - CESPE (CEBRASPE) - 2021)
+8 - Text 3A9-I
+
+Amazon said Monday it will begin selling the cashierless checkout technology that powers its Go
+stores to other retailers. The “Just Walk Out” technology enables shoppers to “take what they
+want and leave” without the need to stop and stand in a checkout line. Cameras and other
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                15
+         www.estrategiaconcursos.com.br                                                                           47
+
+                                       
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+sensors through the store monitor which items shoppers take with them and charge them
+automatically when they leave.
+
+Amazon told CNBC it has already inked several deals with retailers interested in bringing the
+cashierless technology to their stores. An Amazon spokesperson declined to comment on which
+companies plan to use the technology or how much Amazon is charging them to use it. Amazon
+said it takes a few weeks for it to install the cashierless technology in retailers’ stores, depending
+on whether it’s being implemented in a new or existing store. For existing stores, Amazon said it
+will “work with retailer to install the technology while minimizing impact on current operations.”
+
+Unlike at Amazon Go stores, where users scan the Go app on a turnstile when they enter,
+shoppers scan their credit card on the turnstile at a store with the Just Walk Out technology. If
+shoppers need a receipt, they can visit a kiosk at the store and enter their email address, Amazon
+said. A receipt will be automatically sent to their email address the next time they visit any store
+with the cashierless technology.
+
+Amazon can tailor marketing and gain valuable insights into customer purchasing habits by
+tracking activity at its Go stores. However, Amazon said it won’t collect any other user data
+beyond a shopper’s email in order to send receipts. “Shoppers can think of this as similar to
+typical security camera footage,” Amazon added.
+
+The move comes as Amazon continues to build out its network of 25 Go stores across the
+country. Last month, Amazon launched its first, full-size, cashierless supermarket, called Go
+Grocery, not far from its Seattle headquarters. CNBC previously reported Amazon is considering
+bringing the technology to airport shops and movie theaters.
+
+Amazon said its Go stores will begin acccaepting cash last year after the company came under fire
+for discriminating against the unbanked. Amazon told CNBC it will be up to retailers to decide
+whether they want to accept cash at stores that license the company’s Just Walk Out technology.
+Some states, like New Jersey, have new laws banning stores that don’t accept cash.
+
+                                                                                     Internet: <www.cnbc.com> (adapted).
+
+It can be concluded from the text 3A9-I that:
+
+A) the cashierless checkout technology and the Amazon Go stores work pretty much the same
+way.
+B) one of these technology’s disadvantages is that shoppers will not be able to receive a receipt
+of their purchase.
+C) in both “Just Walk Out” technology and Amazon Go stores the customers have to scan their
+credit cards.
+D) retailers which will have this cashierless checkout technology will not have the choice to accept
+cash at their stores.
+E) Amazon Go stores will start accepting cash, for they have been accused of discrimination
+against people who do not have a bank account.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                   16
+         www.estrategiaconcursos.com.br                                                                              47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+(MINISTÉRIO PÚBLICO DO ESTADO DE AMAPÁ - CESPE (CEBRASPE) - 2021)
+
+9 - Text 3A9-I
+
+Amazon said Monday it will begin selling the cashierless checkout technology that powers its Go
+stores to other retailers. The “Just Walk Out” technology enables shoppers to “take what they
+want and leave” without the need to stop and stand in a checkout line. Cameras and other
+sensors through the store monitor which items shoppers take with them and charge them
+automatically when they leave.
+
+Amazon told CNBC it has already inked several deals with retailers interested in bringing the
+cashierless technology to their stores. An Amazon spokesperson declined to comment on which
+companies plan to use the technology or how much Amazon is charging them to use it. Amazon
+said it takes a few weeks for it to install the cashierless technology in retailers’ stores, depending
+on whether it’s being implemented in a new or existing store. For existing stores, Amazon said it
+will “work with retailer to install the technology while minimizing impact on current operations.”
+
+Unlike at Amazon Go stores, where users scan the Go app on a turnstile when they enter,
+shoppers scan their credit card on the turnstile at a store with the Just Walk Out technology. If
+shoppers need a receipt, they can visit a kiosk at the store and enter their email address, Amazon
+said. A receipt will be automatically sent to their email address the next time they visit any store
+with the cashierless technology.
+
+Amazon can tailor marketing and gain valuable insights into customer purchasing habits by
+tracking activity at its Go stores. However, Amazon said it won’t collect any other user data
+beyond a shopper’s email in order to send receipts. “Shoppers can think of this as similar to
+typical security camera footage,” Amazon added.
+
+The move comes as Amazon continues to build out its network of 25 Go stores across the
+country. Last month, Amazon launched its first, full-size, cashierless supermarket, called Go
+Grocery, not far from its Seattle headquarters. CNBC previously reported Amazon is considering
+bringing the technology to airport shops and movie theaters.
+
+Amazon said its Go stores will begin acccaepting cash last year after the company came under fire
+for discriminating against the unbanked. Amazon told CNBC it will be up to retailers to decide
+whether they want to accept cash at stores that license the company’s Just Walk Out technology.
+Some states, like New Jersey, have new laws banning stores that don’t accept cash.
+
+                                                                                     Internet: <www.cnbc.com> (adapted).
+
+Taking the text 3A9-I into consideration, choose the correct option.
+
+A) Amazon has invented and already started selling its cashierlesss checkout technology to other
+stores.
+B) With Amazon’s new technology, customers can take whatever they want without the need to
+stand in a checkout line or pay for the items.
+C) There are some other stores interested in the “Just Walk Out” technology, but Amazon doesn’t
+know which companies plan to use it.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                   17
+         www.estrategiaconcursos.com.br                                                                              47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+D) The time it will take to implement this new technology in retailers’ stores depends on whether
+this store is new or is already open to the public.
+E) Amazon is not worried if the store that wants this cashierless technology installed will have
+great impacts on current operations.
+
+(POLÍCIA MILITAR DO ESTADO DE SÃO PAULO - FGV - 2020)
+
+10 - How facial recognition technology aids police
+
+Police officers’ ability to recognize and locate individuals with a history of committing crime is vital
+to their work. In fact, it is so important that officers believe possessing it is fundamental to the
+craft of effective street policing, crime prevention and investigation. However, with the total
+police workforce falling by almost 20 percent since 2010 and recorded crime rising, police forces
+are turning to new technological solutions to help enhance their capability and capacity to
+monitor and track individuals about whom they have concerns
+
+One such technology is Automated Facial Recognition (known as AFR). This works by analyzing
+key facial features, generating a mathematical representation of them, and then comparing them
+against known faces in a database, to determine possible matches. While a number of UK and
+international police forces have been enthusiastically exploring the potential of AFR, some groups
+have spoken about its legal and ethical status. They are concerned that the technology
+significantly extends the reach and depth of surveillance by the state.
+
+Until now, however, there has been no robust evidence about what AFR systems can and cannot
+deliver for policing. Although AFR has become increasingly familiar to the public through its use
+at airports to help manage passport checks, the environment in such settings is quite controlled.
+Applying similar procedures to street policing is far more complex. Individuals on the street will
+be moving and may not look directly towards the camera. Levels of lighting change, too, and the
+system will have to cope with the vagaries of the British weather.
+
+[…]
+
+legal and ethical concerns and issues that still need to be considered. But in order for these to be
+meaningfully debated and assessed by citizens, regulators and law-makers, we need a detailed
+understanding of precisely what the technology can realistically accomplish. Sound evidence,
+rather than references to science fiction technology --- as seen in films such as Minority Report ---
+is essential.
+
+With this in mind, one of our conclusions is that in terms of describing how AFR is being applied
+in policing currently, it is more accurate to think of it as “assisted facial recognition,” as opposed
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                   18
+         www.estrategiaconcursos.com.br                                                              47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+to a fully automated system. Unlike border control functions -- where the facial recognition is
+more of an automated system -- when supporting street policing, the algorithm is not deciding
+whether there is a match between a person and what is stored in the database. Rather, the system
+makes suggestions to a police operator about possible similarities. It is then down to the operator
+to confirm or refute them.
+
+                                                           By Bethan Davies, Andrew Dawson, Martin Innes (Source:
+                       https://gcn.com/articles/2018/11/30/facial-recognitionpolicing.aspx, accessed May 30th, 2020)
+
+The word that may replace “In fact” in “In fact, it is so important”, without change in meaning, is
+
+A) Specifically.
+B) Presently.
+C) Currently.
+D) Notably.
+E) Actually.
+
+(CONTROLADORIA-GERAL DA UNIÃO - FGV - 2021)
+
+11 - TEXT
+
+How the auditing profession is transforming to meet future challenges
+
+The way that audit professionals work has recently undergone the biggest and fastest change that
+any of us have experienced in our working lives. COVID-19 has accelerated audit firms’ transition
+toward new ways of operating that will outlast the immediate effects of the pandemic.
+
+The sudden shift to remote and flexible working by both audit firms and the companies they audit
+adds a new dimension to the challenge already faced in adapting the audit to a fast-evolving
+corporate world. Companies’ business models are growing more complex as they move through
+digital transformation, and this is placing new demands on audit professionals. However, new
+ways of working will bring important benefits as well as posing challenges that have to be
+addressed.
+
+As digital technologies and data analysis become increasingly central to the audit process – as
+well as to companies’ business models – audit firms will require a more diverse range of skills.
+They have traditionally recruited people with business backgrounds but, in the future, all auditors
+will need an increased level of technological understanding.
+
+In addition, audit firms will require more people with significant expertise in STEM subjects
+(science, technology, engineering and mathematics) to enable them to leverage technology
+effectively for audit purposes. Not all these specialists will become qualified auditors, but some
+undoubtedly will, and their arrival will increase the diversity of audit teams.
+
+The personal characteristics audit firms look for in new team members will evolve as well.
+Traditionally, firms have emphasized personal integrity and professional skepticism in audit
+professionals, and these attributes will undoubtedly remain vital. But in the new and
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                               19
+         www.estrategiaconcursos.com.br                                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+fast-developing environment, auditors will also need to develop even deeper knowledge of
+business, a powerful curiosity about technologies and an agile mindset that embraces disruption.
+
+The shift in people’s working lives has been extraordinary. However, the reaction to the COVID-19
+pandemic has demonstrated that, when the situation demands it, audit firms are capable of
+rapidly making significant changes to the way they operate.
+
+Increased flexibility will bring other important benefits, especially if it results in firms placing more
+emphasis on performance in terms of output and productivity. More broadly, the changes
+brought about by COVID-19 will help to accelerate cultural change in organizations and make
+them more open to different ways of working.
+
+[…]
+
+                                                                                            Source: Adapted from
+          https://www.ey.com/en_gl/assurance/how-the-auditingprofession-is-transforming-to-meet-future-challenges
+
+Based on the information provided by the text, mark the statements below as true (T) or false (F).
+
+( ) Changes in audit operations have been progressing at an unhurried pace.
+
+( ) The pandemic has had an impact on the way auditors work.
+
+( ) A few experts from different areas may become auditors.
+
+The statements are, respectively:
+
+A) F – T – T;
+B) T – F – F;
+C) T – F – T;
+D) T – T – F;
+E) F – T – F.
+
+
+(CONTROLADORIA-GERAL DA UNIÃO - FGV - 2021)
+
+12 - TEXT
+
+Professional skepticism and why it matters to audit stakeholders
+
+In auditing, the concept of professional skepticism is ubiquitous. Just as a Jedi in Star Wars is
+constantly trying to hone his understanding of the “force”, an auditor is constantly crafting his or
+her ability to apply professional skepticism. It is professional skepticism that provides the
+foundation for decision-making when conducting an attestation engagement.
+
+A brief definition
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                            20
+         www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+The professional standards define professional skepticism as “an attitude that includes a
+questioning mind, being alert to conditions that may indicate possible misstatement due to fraud
+or error, and a critical assessment of audit evidence.” Given this definition, one quickly realizes
+that professional skepticism can’t be easily measured. Nor is it something that is cultivated
+overnight. It is a skill developed over time and a skill that auditors should constantly build and
+refine.
+
+Recently, the extent to which professional skepticism is being employed has gained a lot of
+criticism. Specifically, regulatory bodies argue that auditors are not skeptical enough in carrying
+out their duties. However, as noted in the white paper titled Scepticism: The Practitioners’ Take,
+published by the Institute of Chartered Accountants in England and Wales, simply asking for more
+skepticism is not a practical solution to this issue, nor is it necessarily always desirable. There is an
+inevitable tug of war between professional skepticism and audit efficiency. The more skeptical the
+auditor, typically, the more time it takes to complete the audit.
+
+Why does it matter? Audit quality.
+
+First and foremost, how your auditor applies professional skepticism to your audit directly impacts
+the quality of their service. Applying an appropriate level of professional skepticism enhances the
+likelihood the auditor will understand your industry, lines of business, business processes, and any
+nuances that make your company different from others, as it naturally causes the auditor to ask
+questions that may otherwise go unasked.
+
+Applying skepticism internally
+
+By its definition, professional skepticism is a concept that specifically applies to auditors, and is
+not on point when it comes to other audit stakeholders. This is because the definition implies that
+the individual applying professional skepticism is independent from the information he or she is
+analyzing. Other audit stakeholders, such as members of management or the board of directors,
+are naturally advocates for the organizations they manage and direct and therefore can’t be
+considered independent, whereas an auditor is required to remain independent.
+
+However, rather than audit stakeholders applying professional skepticism as such, these other
+stakeholders should apply an impartial and diligent mindset to their work and the information
+they review. This allows the audit stakeholder to remain an advocate for his or her organization,
+while applying critical skills similar to those applied in the exercise of professional skepticism. This
+nuanced distinction is necessary to maintain the limited scope to which the definition of
+professional skepticism applies: the auditor.
+
+It is also important to be critical of your own work, and never become complacent. This may be
+the most difficult type of skepticism to apply, as most of us do not like to have our work criticized.
+However, critically reviewing one’s own work, essentially as an informal first level of review, will
+allow you to take a step back and consider it from a different vantage point, which may in turn
+help detect errors otherwise left unnoticed. Essentially, you should both consider evidence that
+supports the initial conclusion and evidence that may be contradictory to that conclusion.
+
+The discussion in auditing circles about professional skepticism and how to appropriately apply it
+continues. It is a challenging notion that’s difficult to adequately articulate.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                    21
+         www.estrategiaconcursos.com.br                                                               47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+                                                                                               Source: Adapted from
+                https://www.berrydunn.com/news-detail/professionalskepticism-and-why-it-matters-to-audit-stakeholders
+
+The function of the extract “whereas an auditor is required to remain independent” (fifth
+paragraph) is to bring out a(n):
+
+A) gross misunderstanding;
+B) contrasting situation;
+C) impending matter;
+D) appalling context;
+E) startling episode.
+
+
+(PREFEITURA MUNICIPAL DO SALVADOR (BA) - FGV - 2019)
+
+13 - TEXT
+
+Throughout the last 15 years our society has undergone two major changes: Firstly, there has
+been a steady rise of cultural and linguistic diversity, due to migration, multiculturalism and global
+economic integration; secondly, there has been the rapid development of technological devices
+and the world-wide expansion of new communications media. These changes directly affect the
+lives of our pupils at home and at school and thus have an important impact on curricular
+development, teaching objectives, contents and methodologies – starting as early as in primary
+school. […]
+
+While traditionally being literate solely referred to the ability to read and write in a standardized
+form of one language, literate practices today incorporate multimodal, critical, cultural, and
+media competencies next to traditional-functional language skills, like reading, writing, speaking,
+mediating, and listening in many languages.
+
+One major aspect in this context is the changing nature of texts that has developed from
+advances in technology. Language learners today need to be able to cope with different kinds of
+texts, including multimodal, interactive, linear, and nonlinear texts, texts in different languages,
+texts with several possible meanings, texts being delivered on paper, screens, or live, and texts
+that comprise one or more semiotic system. In order to prepare students to actively engage in a
+socially diverse, globalized, and technological world, teachers need to find new forms of teaching
+and learning and provide opportunities for their pupils to explore, learn about, and critically
+engage with a broad variety of texts and differing literate practices. Still, the question remains
+open as to how these principles and objectives of a multiliteracies pedagogy translate into
+examples of good practice in school settings.
+
+(Source: adapted from ELSNER, D. Developing multiliteracies, plurilingual awareness & critical thinking in the primary
+                           language classroom with multilingual virtual talking books. Encuentro 20, 2011, pp. 27-
+                                                                      38.https://archive.org/details/ERIC_ED530011)
+
+If teachers are to “find new forms of teaching and learning”, they must
+
+A) try them on.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                 22
+         www.estrategiaconcursos.com.br                                                                            47
+
+                                       
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+B) do them over.
+C) look for them.
+D) take them back.
+E) turn them down.
+
+
+(PREFEITURA MUNICIPAL DO SALVADOR (BA) - FGV - 2019)
+14 - TEXT:
+
+Throughout the last 15 years our society has undergone two major changes: Firstly, there has
+been a steady rise of cultural and linguistic diversity, due to migration, multiculturalism and global
+economic integration; secondly, there has been the rapid development of technological devices
+and the world-wide expansion of new communications media. These changes directly affect the
+lives of our pupils at home and at school and thus have an important impact on curricular
+development, teaching objectives, contents and methodologies – starting as early as in primary
+school. […]
+
+While traditionally being literate solely referred to the ability to read and write in a standardized
+form of one language, literate practices today incorporate multimodal, critical, cultural, and
+media competencies next to traditional-functional language skills, like reading, writing, speaking,
+mediating, and listening in many languages.
+
+One major aspect in this context is the changing nature of texts that has developed from
+advances in technology. Language learners today need to be able to cope with different kinds of
+texts, including multimodal, interactive, linear, and nonlinear texts, texts in different languages,
+texts with several possible meanings, texts being delivered on paper, screens, or live, and texts
+that comprise one or more semiotic system. In order to prepare students to actively engage in a
+socially diverse, globalized, and technological world, teachers need to find new forms of teaching
+and learning and provide opportunities for their pupils to explore, learn about, and critically
+engage with a broad variety of texts and differing literate practices. Still, the question remains
+open as to how these principles and objectives of a multiliteracies pedagogy translate into
+examples of good practice in school settings.
+
+(Source: adapted from ELSNER, D. Developing multiliteracies, plurilingual awareness & critical thinking in the primary
+                           language classroom with multilingual virtual talking books. Encuentro 20, 2011, pp. 27-
+                                                                      38.https://archive.org/details/ERIC_ED530011)
+
+“Thus” in “thus have an important impact” can be replaced without change in meaning by
+
+A) even.
+B) indeed.
+C) moreover.
+D) therefore.
+E) nonetheless.
+
+
+(PREFEITURA MUNICIPAL DO SALVADOR (BA) - FGV - 2019)
+
+15 - TEXT
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                 23
+         www.estrategiaconcursos.com.br                                                                            47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+What to Know About the Controversy Surrounding the Movie Green Book
+
+Depending on who you ask, Green Book is either the pinnacle of movie magic or a whitewashing
+sham.
+
+The film, which took home the prize for Best Picture at the 91st Academy Awards, as well as
+honors for Mahershala Ali as Best Supporting Actor and Nick Vallelonga, Brian Currie and Peter
+Farrelly for Best Original Screenplay, depicts the burgeoning friendship between a black classical
+pianist and his Italian- American driver as they travel the 1960s segregated South on a concert
+tour. But while Green Book was an awards frontrunner all season, its road to Oscar night was
+riddled with missteps and controversies over its authenticity and racial politics.
+
+Green Book is about the relationship between two real-life people: Donald Shirley and Tony “Lip”
+Vallelonga. Shirley was born in 1927 and grew up in a well-off black family in Florida, where he
+emerged as a classical piano prodigy: he possessed virtuosic technique and a firm grasp of both
+classical and pop repertoire. He went on to perform regularly at Carnegie Hall— right below his
+regal apartment—and work with many prestigious orchestras, like the Chicago Symphony and the
+New York Philharmonic. But at a time when prominent black classical musicians were few and far
+between due to racist power structures, he never secured a spot in the upper echelons of the
+classical world. (African Americans still only make up 1.8 percent of musicians playing in
+orchestras nationwide, according to a recent study.)
+
+Vallelonga was born in 1930 to working-class Italian parents and grew up in the Bronx. As an adult
+he worked as a bouncer, a maître d’ and a chauffeur, and he was hired in 1962 to drive Shirley on
+a concert tour through the Jim Crow South. The mismatched pair spent one and a half years
+together on the road — though it’s condensed to just a couple of months in the film — wriggling
+out of perilous situations and learning about each other’s worlds. Vallelonga would later become
+an actor and land a recurring role on The Sopranos.
+
+In the 1980s, Vallelonga’s son, Nick, approached his father and Shirley about making a movie
+about their friendship. For reasons that are now contested, Shirley rebuffed these requests at the
+time. […]
+
+                                              (Source: from http://time.com/5527806/green-book-movie-controversy/)
+
+The verb in “Shirley rebuffed these requests at the time” can be replaced by
+
+A) reconsidered.
+B) reaffirmed.
+C) received.
+D) recalled.
+E) rejected.
+
+
+(PREFEITURA MUNICIPAL DO SALVADOR (BA) - FGV - 2019)
+
+16 - TEXT
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                             24
+         www.estrategiaconcursos.com.br                                                                        47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+Here are six reviews on Green Book:
+
+1.The screenplay essentially turns Shirley into a black man who thematically shapeshifts into
+whoever will make the story appealing to white audiences - and that’s inexcusable. Lawrence
+Ware New York Times
+
+2.Green Book is effective and affecting while being careful to avoid overdosing its audience on
+material that some might deem too shocking or upsetting. James Berardinelli ReelViews
+
+3.In a world that seems to get uglier every day, this movie’s gentle heart and mere humanity feel
+like a salve. Leah Greenblatt Entertainment Weekly
+
+4.A bizarre fish-out-of-water comedy masquerading as a serious awards-season contender by
+pretending to address the deep wound of racial inequality while demonstrating its profound
+inability, intellectually and dramatically, to do that. Kevin Maher Times (UK)
+
+5.Sometimes life is stranger than art, sometimes art imitates life, and sometimes life imitates art. If
+life starts imitating hopeful art - that’s uplifting. That’s the goal of art, as I see it. “Green Book”
+uplifts. Mark Jackson Epoch Times
+
+6.There’s not much here you haven’t seen before, and very little that can’t be described as crude,
+obvious and borderline offensive, even as it tries to be uplifting and affirmative. A.O. Scott New
+York Times
+
+                                                   (Source: https://www.rottentomatoes.com/m/green_book/reviews/)
+
+The option that indicates only negative reviews are:
+
+A) 1 – 3 – 6.
+B) 2 – 3 – 4.
+C) 1 – 4 – 6.
+D) 2 – 3 – 6.
+E) 3 – 4 – 6.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                            25
+         www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+(PREFEITURA MUNICIPAL DE NITERÓI (RJ) - FGV - 2018)
+
+17 - READ TEXT I AND ANSWER THE QUESTION.
+
+TEXT I
+
+(Source:
+http://www.information-age.com/approach-cloud-computingcyber-security-2017-123466624/
+Retrieved on January 26th, 2018)
+
+How to approach cloud computing and cyber security in 2017
+
+The adoption of cloud computing has been on the up since as far back as 2008, when a survey
+conducted by the Pew Research Institute found that cloud services were used by nearly 69% of
+Americans. Since then, the industry has experienced hypergrowth and exceeded the already vast
+predictions of how big it would become.
+
+IDC predicts that the cloud computing market in 2017 will be worth $107 billion and, according
+to Gartner, by 2020 a corporate ‘no-cloud’ policy will be as unusual as a ‘no- nternet’ policy would
+be today. Indeed, it would be difficult to imagine an organisation in 2017 that did not use
+webmail, file sharing and storage, and data backup.
+
+As the use of cloud computing spreads so does awareness of the associated risks. At the time of
+writing, there have been 456 data breaches worldwide this year according to the Identity Theft
+Resource Center (ITRC). The ITRC also noted a 40% increase in data breaches in 2016 compared
+to the previous year. Yet, despite the well-documented cases of data breaches, organisations
+continue to invest in and adopt cloud computing services because the benefits usually outweigh
+the risks.
+
+To understand why the growth of cloud computing has continued in the face of high-profile data
+breaches, look first to what it can offer an organisation.
+
+Cheaper, bigger, better
+
+Cloud computing is a virtual environment that can adapt to meet user needs. It is not constrained
+by physical limits, and is easily scalable – making it an obvious choice for start-ups. Cloud
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa               26
+         www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+computing makes state-of-the-art capability available to anyone with an internet connection and a
+browser, reducing hardware and IT personnel costs.
+
+Cloud services and software applications are managed and upgraded off-site by the provider,
+meaning organisations can access technology they would not have been able to afford to install
+and manage on their own. The popularity of the cloud essentially comes down to its provision of
+advanced, nextgeneration IT resources in an environment that is cheaper and more scalable than
+local networks.
+
+The risks involved with cloud computing are mostly securitybased. Clouds are often made up of
+multiple entities, which means that no configuration can be more secure than its weakest link. The
+link between separate entities means that attacks to multiple sites can occur simultaneously.
+When cloud providers do not employ adequate cyber security measures, those clouds become a
+target for cybercriminals.
+
+Yet, it’s not all bad news. A user survey conducted by one cloud service provider found that
+concerns about security fell to 25% compared to 29% last year. And as more becomes known
+about security risks so too does our knowledge around what organisations can do to protect
+themselves.
+
+ (Source: http://www.information-age.com/approach-cloud-computingcyber-security-2017-123466624/. Retrieved on
+                                                                                          January 25th, 2018)
+
+The phrase “so does awareness of the associated risks” (third paragraph) implies that this kind of
+awareness
+
+A) is missing.
+B) is inexistent.
+C) has declined.
+D) is increasing.
+E) has vanished.
+
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+18 - Leia o texto a seguir.
+
+Microphone Though many video cameras have microphones built in, you’ll get better quality
+audio with a lavalier or headset microphone, because the mic itself can be much closer to the
+source of the audio.
+
+Our ears and brain can filter out ambient noise so we can listen to what’s important, but
+microphones cannot, and a mic placed several feet away from the subject will pick up a lot of
+extra noise (heating/air conditioning systems, automotive traffic, people walking in a hallway, etc.)
+that will be noticeable and probably distracting in the final recording.
+
+If possible, record a minute or several minutes of the subject speaking normally as they will during
+the interview and listen to the recording to see how much extra noise is audible; the less, the
+better.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                        27
+         www.estrategiaconcursos.com.br                                                                   47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+Tip: get the mic as close to the subject as you reasonably can without it being visually distracting.
+
+                          (How to Record High-Quality Audio and Video, Andrew Minion, 3 Apr 2014. Disponível em:
+                   https://computers.tutsplus.com/tutorials/ how-to-record-high-quality-audio-and-video-cms-19668)
+
+De acordo com o texto,
+
+A) deve-se utilizar um filtro para a retirada do ruído ambiente.
+B) um áudio de melhor qualidade será obtido com microfones embutidos das câmeras de vídeo
+do que um microfone de lapela ou headset.
+C) não se deve colocar o microfone muito próximo de quem for falar, pois isso causa distração
+visual.
+D) gravar um pequeno tempo falando-se normalmente como se fosse a entrevista, para depois
+ouvir essa gravação, permite avaliar quanto ruído audível se encontra presente
+E) ruído ambiente captado pelos microfones não são tão importantes, pois nossos ouvidos e
+cérebro podem filtrá-los.
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+19 - Considere a figura e o texto a seguir, para responder à questão
+
+Keep Families Together Act
+
+This bill prohibits an agent or contractor of the Department of Homeland Security, the
+Department of Justice, or the Department of Health and Human Services from removing a child
+who is under the age of 18 and has no permanent immigration status from his or her parent or
+legal guardian at or near the port of entry or within 100 miles of the U.S. border unless:
+
+- an authorized state court determines that it is in the child's best interests to be removed;
+
+- a state or county child welfare official with expertise in child trauma and development
+determines that it is in the child's best interests to be removed because of abuse or neglect; or
+
+- the Chief Patrol Agent or the Area Port Director authorizes separation based on a documented
+finding that the child is a trafficking victim or is at significant risk of becoming a victim, a strong
+likelihood exists that the adult is not the parent or legal guardian, or the child is in danger of
+abuse or neglect.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                             28
+         www.estrategiaconcursos.com.br                                                                        47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+An agency may not remove a child from a parent or legal guardian solely for the policy goals of
+deterring migration to the United States or of promoting immigration law compliance.
+
+The bill sets forth presumptions: (1) in favor of family and sibling unity and parental rights, and (2)
+that detention is not in the best interests of families and children.
+
+The Government Accountability Office shall conduct a study of the prosecution of asylum seekers.
+
+                                       (Adapted from: https://www.congress.gov/bill/115th-congress/senate-bill/3036)
+
+De acordo com o projeto de lei apresentado,
+
+A) a detenção pode ser a melhor solução no caso de crianças suspeitas de serem vítimas de
+tráfico
+B) os direitos dos pais e a união familiar devem prevalecer em qualquer circunstância
+C) nenhum indivíduo menor de idade deve ser separado de seus pais, mesmo sob suspeita de
+que o adulto acompanhante não seja seu genitor.
+D) abuso ou negligência por parte dos pais configura situação que justifica a criança ser separada
+deles.
+E) uma criança só pode ser separada dos pais em caso de violação da lei da imigração.
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+20 - TEXT
+
+Keep Families Together Act
+
+This bill prohibits an agent or contractor of the Department of Homeland Security, the
+Department of Justice, or the Department of Health and Human Services from removing a child
+who is under the age of 18 and has no permanent immigration status from his or her parent or
+legal guardian at or near the port of entry or within 100 miles of the U.S. border unless:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                               29
+         www.estrategiaconcursos.com.br                                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+    ● - an authorized state court determines that it is in the child's best interests to be removed;
+    ● - a state or county child welfare official with expertise in child trauma and development
+      determines that it is in the child's best interests to be removed because of abuse or
+      neglect; or
+    ● - the Chief Patrol Agent or the Area Port Director authorizes separation based on a
+      documented finding that the child is a trafficking victim or is at significant risk of becoming
+      a victim, a strong likelihood exists that the adult is not the parent or legal guardian, or the
+      child is in danger of abuse or neglect.
+
+An agency may not remove a child from a parent or legal guardian solely for the policy goals of
+deterring migration to the United States or of promoting immigration law compliance.
+
+The bill sets forth presumptions: (1) in favor of family and sibling unity and parental rights, and (2)
+that detention is not in the best interests of families and children.
+
+The Government Accountability Office shall conduct a study of the prosecution of asylum seekers.
+
+                                       (Adapted from: https://www.congress.gov/bill/115th-congress/senate-bill/3036)
+
+O projeto de lei de que trata o texto
+
+A) foi aprovado pelo Senado em junho de 2018.
+B) foi encaminhado ao Comitê do Judiciário em junho de 2018.
+C) foi apresentado por uma senadora republicana.
+D) visa diminuir o fluxo migratório para os Estados Unidos.
+E) objetiva reforçar o controle nas fronteiras dos Estados Unidos
+
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+21 - Para responder a questão a seguir, considere o texto abaixo.
+
+Bill Introduction Limits. State legislators are faced with two conflicting pressures. On the one
+hand, lawmakers are asked to sponsor a great deal of legislation because constituents and
+interest groups insist “there ought to be a law” for every public problem.         , legal provisions
+specify the length of time that most legislative bodies may remain in session. The ability to
+consider a steadily increasing volume of bills is not necessarily compatible with restricted session
+time. In response, many chambers have experimented with ways to curb the amount of legislation
+that enters the process. The most direct approach is to set a numerical limit on bill introductions.
+
+                                         (Adapted from: http://www.ncsl.org/documents/legismgt/ILP/96Tab3Pt1.pdf)
+
+Segundo o texto,
+
+A) o número de proposições apresentadas tem diminuído devido à limitação do tempo das
+sessões.
+B) as sessões da assembleia legislativa não têm limite de duração.
+C) toda proposição apresentada deve ser votada dentro de um período estipulado.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                               30
+         www.estrategiaconcursos.com.br                                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+D) é consenso que deve haver uma lei para todo problema público.
+E) há certa incompatibilidade entre o número de proposições apresentadas e o tempo limitado
+das sessões.
+
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+22 - Para responder a questão a seguir, considere o texto abaixo.
+
+Reno, Nevada, Improves Efficiency while Complying with Stringent Open Meeting Law
+Requirements
+
+ADAMANT ABOUT TRANSPARENCY
+
+The Reno City Council meets regularly to set priorities, approve the budget and address issues
+facing the community. These meetings are guided by incredibly stringent open meeting law
+requirements. Staff must post the agenda, along with all supporting materials, on their website at
+least three days prior to a meeting. Additionally, if any documents are presented during a Council
+meeting to help make a decision, it must be uploaded within 24 hours after the meeting.
+
+As a Senior Management Analyst, Jaime Schroeder has been responsible for all staff reports,
+supporting materials and the agendas for the Reno City Council and the Reno Redevelopment
+Agency Board since early 2012. Back then, the agency was using a government shareware
+product. “We realized we had quickly outgrown that system,” recalls Jaime.
+
+The City’s communications and technology departments conducted a thorough search of
+alternatives and narrowed the list down to three contenders. “We looked at Accela Legislative
+Management and realized it was the full package,” says Jaime. “It was something we felt we
+could implement and get comfortable with quickly.”
+
+HOW ACCELA EMPOWERS RENO
+
+One of the things Jaime appreciates about Accela is that “they believe in their product so much,
+you don’t have to sign on for a year. With Accela, we didn’t feel they were trying to get the most
+money they could from the agency. We felt they truly were a company that wanted to work with
+us and were understanding of all the different requirements we had.”
+
+City Council meetings are on average four to six hours long. In the past, citizens had to fast
+forward and rewind through an entire meeting online in order to find what they were looking for.
+“The great thing about this product and why we chose it is that the video of each meeting is
+integrated with the meeting documents and it also has time-stamp features, making it easy for
+staff and citizens to quickly find what they’re interested in. I love that transparency.”
+
+THE BOTTOM LINE
+
+Once a document is posted online, staff and citizens alike can access it through a meeting portal
+24/7. When citizens request a Council or staff report, employees can simply direct them to the
+portal, where they can click on the meeting date, see the agenda and then click on the item that
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa             31
+         www.estrategiaconcursos.com.br                                                        47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+interests them. When the media requests information, the Communications department can send
+links to staff reports online, saving time, paper and money and helping to ensure accurate media
+coverage.
+
+In the future, the City of Reno is looking forward to using the electronic voting feature available
+within Accela Digital Boardroom that shows meeting participants’ votes on a screen during the
+meeting in real time.
+
+                                     (Adapted from https://www.accela.com/company/customers/sucess-stories/reno)
+
+De acordo com o texto,
+
+A) o novo portal das reuniões está sendo muito apreciado tanto pelos membros do Conselho
+quanto pelos cidadãos em geral
+B) toda atualização do portal é realizada no período entre 0h00 e 7h00
+C) informações solicitadas pela imprensa podem ser atendidas mediante envio do link dos
+relatórios dos membros do Conselho Municipal.
+D) o painel eletrônico de votação é mais uma funcionalidade do Accela Legislative Management
+já implantada.
+E) os vídeos das reuniões ainda demandam paciência para se encontrar a informação desejada.
+
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+23 - Para responder a questão a seguir, considere o texto abaixo.
+
+Legislative Management and Information System
+
+In May 2001, the Sangguniang Panlalawigan (SP − Provincial Council in English) under the
+leadership of Vice-Governor Loreto Leo S. Ocampos embarked on the computerization of its
+legislative function through the acquisition of the “Legislative Management and Tracking
+System”. The “Legislative Management and Tracking System” or “Legtrack” as it is commonly
+called, is a software program developed as a tool to track, monitor and store communications,
+requests, proposed resolutions and ordinances, communications, Sangguniang Bayan Resolutions
+and ordinances from different municipalities and cities to be acted upon.
+
+The Provincial Government only spent sixty-six thousand pesos (P 66,000.00) for the cost of
+installation, airfare and accommodation of two Philippine Business for Social Progress (PBSP)
+consultants and the training of five SP personnel on its operation and application. Now, over a
+million worth of software program was given to the Sangguniang Panlalawigan for free.
+
+The SP’s “Legtrack” can be considered as one of the most updated versions of the Tracking
+System used by different Local Government Units in the country. It also holds the distinction of
+being the first “Legtrack” to be synced to a Paperless Legislation Program.
+
+The actual performance of the Sangguniang Panlalawigan and its individual members can also be
+gauged through statistics on session attendance; committee meeting attendance; committee
+reports made, number of resolutions and ordinances authored, sponsored and passed.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                           32
+         www.estrategiaconcursos.com.br                                                                      47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+Furthermore, the System upgrade(s) enhances not only the intellectual capability of the
+Secretariat but also its technical competence in support to the Sanggunian’s Office vows to be
+responsive, active and sensitive to the needs of the people. It has undergone a total of seven
+upgrades over the years.
+
+                             (Adapted from http://sp.misocc.gov.ph/legislative-management-and-information-system)
+
+De acordo com o texto, o Legtrack
+
+A) está programado para responder consultas do público em geral.
+B) custou mais de um milhão de pesos.
+C) exige grande capacidade intelectual do Secretariado.
+D) está sincronizado com um Programa de Legislação Sem Papel.
+E) é a versão mais atualizada do Tracking System usado por outros órgãos do país.
+
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+24 - Considere o texto a seguir para responder a questão a seguir.
+
+U.S. immigration law provides foreign nationals with a variety of visas to become lawful
+permanent residents (get a Green Card) through employment in the United States. These
+employment-based (EB) “preference immigrant” categories include:
+
+Employment-Based Immigration: EB-1 Priority Workers
+
+This preference is reserved for persons of extraordinary ability in the sciences, arts, education,
+business or athletics; outstanding researchers or university professors; and executives or
+managers of multinational corporations. This category is less costly and takes less time to
+complete than other classifications. Although this is the fastest way to get an employment-based
+green card, it is extremely document-heavy and the USCIS reviews this petition with a high level
+of scrutiny.
+
+Employment-Based Immigration: EB-2 Advanced Workers
+
+There are three types of EB-2 green cards:
+
+− Professionals who hold advanced degrees
+
+− Foreign nationals with exceptional knowledge in the sciences, arts or business
+
+− Professionals whose work benefits the national interest of the U.S.
+
+Applicants (with the exception of applicants applying for an exemption known as National Interest
+Waiver) must generally have an approved labor certification, a job offer, and their employer must
+have filed an Immigrant Petition for Alien Worker (Form I-140) with the USCIS.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                            33
+         www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+This category has several stages that need to be successfully completed prior to green card
+sponsorship. This proves to be a lengthier and more rigorous process than the EB-1 green card.
+
+Employment-Based Immigration: EB-3 Skilled/Other Workers
+
+This preference is reserved for professionals with a bachelor’s degree (or foreign equivalent);
+skilled workers, including foreign nationals with at least two years of training or work experience
+who may or may not hold a degree; and other or unskilled workers filling a job that requires less
+than two years of training or experience. This category is the most common with a higher number
+of foreign nationals that qualify under this preference category and has a lengthy average
+approval waiting period of six to nine years.
+
+      (Adapted from: https://resources.envoyglobal.com/blog/employment-based-immigration-a-complete-overview)
+
+Segundo o texto,
+
+A) solicitantes de visto EB-3 devem ter, no mínimo, formação superior.
+B) a categoria com maior número de solicitações e com maior tempo de espera é a EB-3
+C) mesmo profissionais cuja ocupação seja de interesse nacional devem provar que têm uma
+oferta de emprego.
+D) o formulário I-140 deve ser submetido diretamente ao USCIS pelo solicitante.
+E) nenhum trabalhador com menos de dois anos de experiência em seu campo de atuação pode
+solicitar um visto EB-3
+
+
+(TRIBUNAL REGIONAL ELEITORAL DO MATO GROSSO - CESPE (CEBRASPE) - 2015)
+
+25 - TEXT
+
+The systems analyst programmer is responsible for the analysis, design, development and support
+of custom solutions to support the judiciary and court staff. The position requires independent
+work habits on complex technical programming assignments and is responsible for independent
+problem resolution. General supervision is received from a technical supervisor who provides
+guidance in project assignments and reviews work for achievement of desired results and
+objectives. The duties of a systems analyst programmer working in a court include: meeting with
+judiciary, court staff and other agencies to identify business process improvements; gathering
+project requirements; assisting users in defining needs; proposing solutions which will meet the
+user’s needs; determining the need for new software, evaluating alternatives, and developing or
+acquiring suitable programs; testing, debugging, and implementing these programs; and
+maintaining documentation for them.
+
+                                                                                     Internet: <www.ncsc.org> (adapted).
+
+The systems analyst programmer
+
+A) is in charge of collecting project requirements.
+B) defines needs and proposes solutions.
+C) must be able to find out the need for a new software whenever
+he is asked to.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                   34
+         www.estrategiaconcursos.com.br                                                                              47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+D) should avoid evaluating developing suitable programs.
+E) meets with judiciary to evaluate business process improvements.
+
+
+(TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - FCC - 2022)
+
+26 - Atenção: Para responder à questão, leia o texto abaixo.
+
+Before cloud computing came into existence, companies were required to download applications
+or programs on their physical PCs or on-premises servers to be able to use them. For any
+organization, building and managing its own IT infrastructure or data centers is a huge challenge.
+Even for those who own their own data centers, allocating a large number of IT administrators
+and resources is a struggle.
+
+The introduction of cloud computing was a paradigm shift in the history of the technology
+industry. Rather than creating and managing their own IT infrastructure and paying for servers,
+power and real estate, etc., cloud computing allows businesses to rent computing resources from
+cloud service providers. This helps businesses avoid paying heavy upfront costs and the
+complexity of managing their own data centers. By renting cloud services, companies pay only for
+what they use such as computing resources and disk space. This allows companies to anticipate
+costs with greater accuracy.
+
+Since cloud service providers do the heavy lifting of managing and maintaining the IT
+infrastructure, it saves a lot of time, effort and money for businesses. The cloud also gives
+organizations the ability to seamlessly upscale or downscale their computing infrastructure as and
+when needed. Compared to the traditional on-premises data center model, the cloud offers easy
+access to data from anywhere and on any device with internet connectivity, thereby enabling
+effective collaboration and enhanced productivity.
+
+(Adaptado de: MCDERMOTT, Matt. Cloud Computing: Benefits, Disadvantages & Types of Cloud
+Computing Services. Disponível em: https://www.business2community.com)
+
+In the fragment from the second paragraph “Rather than creating and managing their own IT
+infrastructure”, the underlined expression can be replaced without any change in the meaning of
+the sentence by
+
+A) Apart from
+B) As opposed to
+C) In spite of
+D) Together with
+E) Instead of
+
+(TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - FCC - 2022)
+
+27 - Atenção: Para responder à questão, leia o texto abaixo.
+
+Before cloud computing came into existence, companies were required to download applications
+or programs on their physical PCs or on-premises servers to be able to use them. For any
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa             35
+         www.estrategiaconcursos.com.br                                                        47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+organization, building and managing its own IT infrastructure or data centers is a huge challenge.
+Even for those who own their own data centers, allocating a large number of IT administrators
+and resources is a struggle.
+
+The introduction of cloud computing was a paradigm shift in the history of the technology
+industry. Rather than creating and managing their own IT infrastructure and paying for servers,
+power and real estate, etc., cloud computing allows businesses to rent computing resources from
+cloud service providers. This helps businesses avoid paying heavy upfront costs and the
+complexity of managing their own data centers. By renting cloud services, companies pay only for
+what they use such as computing resources and disk space. This allows companies to anticipate
+costs with greater accuracy.
+
+Since cloud service providers do the heavy lifting of managing and maintaining the IT
+infrastructure, it saves a lot of time, effort and money for businesses. The cloud also gives
+organizations the ability to seamlessly upscale or downscale their computing infrastructure as and
+when needed. Compared to the traditional on-premises data center model, the cloud offers easy
+access to data from anywhere and on any device with internet connectivity, thereby enabling
+effective collaboration and enhanced productivity.
+
+(Adaptado de: MCDERMOTT, Matt. Cloud Computing: Benefits, Disadvantages & Types of Cloud
+Computing Services. Disponível em: https://www.business2community.com)
+
+No trecho For any organization, building and managing its own IT infrastructure or data centers is
+a huge challenge (1º parágrafo), o segmento sublinhado tem sentido equivalente, em português,
+a
+
+A) criar e administrar.
+B) construir e distribuir.
+C) local e gerência.
+D) elaborar e gerir.
+E) desenvolvimento e coordenação.
+
+(TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - FCC - 2022)
+
+28 - Atenção: Para responder à questão, leia o texto abaixo.
+
+Before cloud computing came into existence, companies were required to download applications
+or programs on their physical PCs or on-premises servers to be able to use them. For any
+organization, building and managing its own IT infrastructure or data centers is a huge challenge.
+Even for those who own their own data centers, allocating a large number of IT administrators
+and resources is a struggle.
+
+The introduction of cloud computing was a paradigm shift in the history of the technology
+industry. Rather than creating and managing their own IT infrastructure and paying for servers,
+power and real estate, etc., cloud computing allows businesses to rent computing resources from
+cloud service providers. This helps businesses avoid paying heavy upfront costs and the
+complexity of managing their own data centers. By renting cloud services, companies pay only for
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa             36
+         www.estrategiaconcursos.com.br                                                        47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+what they use such as computing resources and disk space. This allows companies to anticipate
+costs with greater accuracy.
+
+Since cloud service providers do the heavy lifting of managing and maintaining the IT
+infrastructure, it saves a lot of time, effort and money for businesses. The cloud also gives
+organizations the ability to seamlessly upscale or downscale their computing infrastructure as and
+when needed. Compared to the traditional on-premises data center model, the cloud offers easy
+access to data from anywhere and on any device with internet connectivity, thereby enabling
+effective collaboration and enhanced productivity.
+
+(Adaptado de: MCDERMOTT, Matt. Cloud Computing: Benefits, Disadvantages & Types of Cloud
+Computing Services. Disponível em: https://www.business2community.com)
+
+Depreende-se do texto que a computação em nuvem
+
+A) dificulta o acesso a dados armazenados nos servidores de uma organização, na medida em
+que exige a presença física do usuário.
+B) beneficia os usuários da comunidade acadêmica, apesar de ter sido planejada para a aplicação
+no universo corporativo.
+C) reduz os custos, uma vez que os usuários só precisam pagar pelo que utilizarem, como, por
+exemplo, espaço em disco, quando e onde precisarem.
+D) permite que os usuários planejem antecipadamente o que precisarão usar, pois podem
+reservar com antecedência os recursos necessários.
+E) é um modelo de infraestrutura eficiente, contudo demanda muito esforço, tempo e dinheiro
+para ser implantado.
+
+(TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - FCC - 2022)
+
+29 - Atenção: Para responder à questão, baseie-se no texto abaixo.
+
+BYOD (Bring Your Own Device) refers to the policy of allowing employees to supply their own
+computing devices for use at work. Employers save money by eliminating hardware purchasing
+and maintenance overhead, and employees enjoy the freedom of choice to use whichever mobile
+phone, tablet or laptop that best meets their preferences.
+
+For example, a user may have a Windows PC for work and a MacBook for a personal laptop. The
+keyboard shortcuts for each platform are slightly different, making it easy to mangle copy-paste
+functions in word processors and spreadsheets. Using the same BYOD MacBook for work and
+personal computing eliminates these switchover errors.
+
+Even for non-SaaS organizations, user error typically represents a third of all data loss, second
+only to hardware failure. The reduction in user error gained from BYOD policies is present
+regardless of whether an employee is creating a document in Google Apps or Microsoft Word.
+
+There has yet been no rigorous study of the change in rates of user error before and after
+adopting BYOD policies. Nonetheless, it’s safe to assume that some level of user error is reduced
+by familiarity and comfort with BYOD devices.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa             37
+         www.estrategiaconcursos.com.br                                                        47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+YOD can’t make your data invulnerable, but combined with good security policies, regular user
+training and effective data backup, it can make a noticeable difference in the availability and
+integrity of your company data.
+
+(Disponível em: https://www.wired.com)
+
+In the fragment from the fourth paragraph "Nonetheless, it’s safe to assume that some level of
+user error is reduced by familiarity and comfort with BYOD devices" the underlined expression
+can be replaced, without any change in the meaning of the sentence, by:
+
+A) However
+B) Besides
+C) In fact
+D) Therefore
+E) Likewise
+
+(TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - FCC - 2022)
+
+30 - Atenção: Para responder à questão, baseie-se no texto abaixo.
+
+BYOD (Bring Your Own Device) refers to the policy of allowing employees to supply their own
+computing devices for use at work. Employers save money by eliminating hardware purchasing
+and maintenance overhead, and employees enjoy the freedom of choice to use whichever mobile
+phone, tablet or laptop that best meets their preferences.
+
+For example, a user may have a Windows PC for work and a MacBook for a personal laptop. The
+keyboard shortcuts for each platform are slightly different, making it easy to mangle copy-paste
+functions in word processors and spreadsheets. Using the same BYOD MacBook for work and
+personal computing eliminates these switchover errors.
+
+Even for non-SaaS organizations, user error typically represents a third of all data loss, second
+only to hardware failure. The reduction in user error gained from BYOD policies is present
+regardless of whether an employee is creating a document in Google Apps or Microsoft Word.
+
+There has yet been no rigorous study of the change in rates of user error before and after
+adopting BYOD policies. Nonetheless, it’s safe to assume that some level of user error is reduced
+by familiarity and comfort with BYOD devices.
+
+YOD can’t make your data invulnerable, but combined with good security policies, regular user
+training and effective data backup, it can make a noticeable difference in the availability and
+integrity of your company data.
+
+(Disponível em: https://www.wired.com)
+
+According to the text, Bring Your Own Device (BYOD) policies:
+
+A) Benefit organizations with poor security and access policies.
+B) Eliminate the necessity of user training and data backup.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa            38
+         www.estrategiaconcursos.com.br                                                       47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+C) Increase the risk of data loss and hardware malfunction.
+D) Reduce user mistakes caused by using different platforms.
+E) Demand users to create documents in Google Apps.
+
+(COMPANHIA DO METROPOLITANO DE SÃO PAULO - FCC - 2019)
+
+31 - The London Underground
+
+The London Underground (also known simply as the Underground, or by its nickname the Tube) is
+a public rapid transit system serving London, England and some parts of the adjacent counties of
+Buckinghamshire, Essex and Hertfordshire in the United Kingdom.
+
+The Underground has its origins in the Metropolitan Railway, the world's first underground
+passenger railway. Opened in January 1863, it is now part of the Circle, Hammersmith & City and
+Metropolitan lines; the first line to operate underground electric traction trains, the City & South
+London Railway in 1890, is now part of the Northern line. The network has expanded to 11 lines,
+and in 2017/18 carried 1.357 billion passengers, making it the world's 11th busiest metro system.
+The 11 lines collectively handle up to 5 million passengers a day.
+
+Despite its name, only 45% of the system is underground in tunnels, with much of the network in
+the outer environs of London being on the surface.
+
+As of 2015, 92% of operational expenditure is covered by passenger fares.
+
+Early years
+
+The idea of an underground railway linking the City of London with the urban centre was
+proposed in the 1830s, and the Metropolitan Railway was granted permission to build such a line
+in 1854. To prepare construction, a short test tunnel was built in 1855 in Kibblesworth, a small
+town with geological properties similar to London. This test tunnel was used for two years in the
+development of the first underground train, and was later, in 1861, filled up. The world's first
+underground railway opened in January 1863 between Paddington and Farringdon using gas-lit
+wooden carriages hauled by steam locomotives.
+
+While steam locomotives were in use on the Underground there were I health reports. There were
+many instances of passengers collapsing whilst travelling, due to heat and pollution, leading for
+calls to clean the air through the installation of garden plants. The Metropolitan even encouraged
+beards for staff to act as an air filter. There were other reports claiming beneficial outcomes of
+using the Underground, including the designation of Great Portland Street as a "sanatorium for
+[sufferers of ...] asthma and bronchial complaints", tonsillitis could be cured with acid gas and the
+Twopenny Tube cured anorexia.
+
+During the war many tube stations were used as air-raid shelters. On 3 March 1943, a test of the
+air-raid warning sirens, together with the firing of a new type of anti-aircraft rocket, resulted in a
+crush of people attempting to take shelter in Bethnal Green Underground station. A total of 173
+people, including 62 children, died, making this both the worst civilian disaster of World War II,
+and the largest loss of life in a single incident on the London Underground network.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                 39
+         www.estrategiaconcursos.com.br                                                            47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+A different kind of accident occurred on 28 February 1975, a southbound train on the Northern
+City Line failed to stop at its Moorgate terminus and crashed into the wall at the end of the
+tunnel, in the Moorgate tube crash. There were 43 deaths and 74 injuries, the greatest loss of life
+during peacetime on the London Underground.
+
+A few years later, on 18 November 1987, fire broke out in an escalator at King's Cross St. Pancras
+tube station. The resulting fire cost the lives of 31 people and injured a further 100. London
+Underground were strongly criticised in the aftermath for their attitude to fires underground, and
+publication of the report into the fire led to the resignation of senior management of both London
+Underground and London Regional Transport. To comply with new safety regulations issued as a
+result of the fire, and to combat graffiti, a train refurbishment project was launched in July 1991.
+
+(Adapted from: https://en.wikipedia.org)
+
+Segundo o texto,
+
+A) o acidente no metrô londrino em 1943 foi causado por negligência humana.
+B) um ataque aéreo durante a Segunda Guerra matou 173 pessoas que se refugiaram numa
+estação de metrô.
+C) o maior incidente civil em tempos de guerra com fatalidades no metrô londrino ocorreu em
+1943.
+D) o acidente com o trem que bateu no muro do terminal de Moorgate foi o pior em toda a
+história do metrô londrino.
+E) o incêndio de um dos elevadores da estação King's Cross St. Pancras que matou 31 pessoas e
+feriu outras 100, levou a novas regras de segurança.
+
+
+(COMPANHIA DO METROPOLITANO DE SÃO PAULO - FCC - 2019)
+
+32 - The London Underground
+
+The London Underground (also known simply as the Underground, or by its nickname the Tube) is
+a public rapid transit system serving London, England and some parts of the adjacent counties of
+Buckinghamshire, Essex and Hertfordshire in the United Kingdom.
+
+The Underground has its origins in the Metropolitan Railway, the world's first underground
+passenger railway. Opened in January 1863, it is now part of the Circle, Hammersmith & City and
+Metropolitan lines; the first line to operate underground electric traction trains, the City & South
+London Railway in 1890, is now part of the Northern line. The network has expanded to 11 lines,
+and in 2017/18 carried 1.357 billion passengers, making it the world's 11th busiest metro system.
+The 11 lines collectively handle up to 5 million passengers a day.
+
+Despite its name, only 45% of the system is underground in tunnels, with much of the network in
+the outer environs of London being on the surface.
+
+As of 2015, 92% of operational expenditure is covered by passenger fares.
+
+Early years
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa               40
+         www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+The idea of an underground railway linking the City of London with the urban centre was
+proposed in the 1830s, and the Metropolitan Railway was granted permission to build such a line
+in 1854. To prepare construction, a short test tunnel was built in 1855 in Kibblesworth, a small
+town with geological properties similar to London. This test tunnel was used for two years in the
+development of the first underground train, and was later, in 1861, filled up. The world's first
+underground railway opened in January 1863 between Paddington and Farringdon using gas-lit
+wooden carriages hauled by steam locomotives.
+
+While steam locomotives were in use on the Underground there were I health reports. There were
+many instances of passengers collapsing whilst travelling, due to heat and pollution, leading for
+calls to clean the air through the installation of garden plants. The Metropolitan even encouraged
+beards for staff to act as an air filter. There were other reports claiming beneficial outcomes of
+using the Underground, including the designation of Great Portland Street as a "sanatorium for
+[sufferers of ...] asthma and bronchial complaints", tonsillitis could be cured with acid gas and the
+Twopenny Tube cured anorexia.
+
+During the war many tube stations were used as air-raid shelters. On 3 March 1943, a test of the
+air-raid warning sirens, together with the firing of a new type of anti-aircraft rocket, resulted in a
+crush of people attempting to take shelter in Bethnal Green Underground station. A total of 173
+people, including 62 children, died, making this both the worst civilian disaster of World War II,
+and the largest loss of life in a single incident on the London Underground network.
+
+A different kind of accident occurred on 28 February 1975, a southbound train on the Northern
+City Line failed to stop at its Moorgate terminus and crashed into the wall at the end of the
+tunnel, in the Moorgate tube crash. There were 43 deaths and 74 injuries, the greatest loss of life
+during peacetime on the London Underground.
+
+A few years later, on 18 November 1987, fire broke out in an escalator at King's Cross St. Pancras
+tube station. The resulting fire cost the lives of 31 people and injured a further 100. London
+Underground were strongly criticised in the aftermath for their attitude to fires underground, and
+publication of the report into the fire led to the resignation of senior management of both London
+Underground and London Regional Transport. To comply with new safety regulations issued as a
+result of the fire, and to combat graffiti, a train refurbishment project was launched in July 1991.
+
+(Adapted from: https://en.wikipedia.org)
+
+De acordo com o texto, o metrô de Londres
+
+A) tem a maior parte de sua rede subterrânea, inclusive nos subúrbios.
+B) começou a ser construído em 1855, mas só foi inaugurado em 1863.
+C) deu origem à Metropolitan Railway, que hoje integra duas de suas linhas.
+D) atende até 5 milhões de passageiros por dia em suas 11 linhas.
+E) tem seu custo operacional financiado pelas passagens de seus usuários desde 2015.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                 41
+         www.estrategiaconcursos.com.br                                                            47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+(COMPANHIA DO METROPOLITANO DE SÃO PAULO - FCC - 2019)
+
+33 - The London Underground
+
+The London Underground (also known simply as the Underground, or by its nickname the Tube) is
+a public rapid transit system serving London, England and some parts of the adjacent counties of
+Buckinghamshire, Essex and Hertfordshire in the United Kingdom.
+
+The Underground has its origins in the Metropolitan Railway, the world's first underground
+passenger railway. Opened in January 1863, it is now part of the Circle, Hammersmith & City and
+Metropolitan lines; the first line to operate underground electric traction trains, the City & South
+London Railway in 1890, is now part of the Northern line. The network has expanded to 11 lines,
+and in 2017/18 carried 1.357 billion passengers, making it the world's 11th busiest metro system.
+The 11 lines collectively handle up to 5 million passengers a day.
+
+Despite its name, only 45% of the system is underground in tunnels, with much of the network in
+the outer environs of London being on the surface.
+
+As of 2015, 92% of operational expenditure is covered by passenger fares.
+
+Early years
+
+The idea of an underground railway linking the City of London with the urban centre was
+proposed in the 1830s, and the Metropolitan Railway was granted permission to build such a line
+in 1854. To prepare construction, a short test tunnel was built in 1855 in Kibblesworth, a small
+town with geological properties similar to London. This test tunnel was used for two years in the
+development of the first underground train, and was later, in 1861, filled up. The world's first
+underground railway opened in January 1863 between Paddington and Farringdon using gas-lit
+wooden carriages hauled by steam locomotives.
+
+While steam locomotives were in use on the Underground there were _____I_____ health reports.
+There were many instances of passengers collapsing whilst travelling, due to heat and pollution,
+leading for calls to clean the air through the installation of garden plants. The Metropolitan even
+encouraged beards for staff to act as an air filter. There were other reports claiming beneficial
+outcomes of using the Underground, including the designation of Great Portland Street as a
+"sanatorium for [sufferers of ...] asthma and bronchial complaints", tonsillitis could be cured with
+acid gas and the Twopenny Tube cured anorexia.
+
+During the war many tube stations were used as air-raid shelters. On 3 March 1943, a test of the
+air-raid warning sirens, together with the firing of a new type of anti-aircraft rocket, resulted in a
+crush of people attempting to take shelter in Bethnal Green Underground station. A total of 173
+people, including 62 children, died, making this both the worst civilian disaster of World War II,
+and the largest loss of life in a single incident on the London Underground network.
+
+A different kind of accident occurred on 28 February 1975, a southbound train on the Northern
+City Line failed to stop at its Moorgate terminus and crashed into the wall at the end of the
+tunnel, in the Moorgate tube crash. There were 43 deaths and 74 injuries, the greatest loss of life
+during peacetime on the London Underground.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                 42
+         www.estrategiaconcursos.com.br                                                            47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+A few years later, on 18 November 1987, fire broke out in an escalator at King's Cross St. Pancras
+tube station. The resulting fire cost the lives of 31 people and injured a further 100. London
+Underground were strongly criticised in the aftermath for their attitude to fires underground, and
+publication of the report into the fire led to the resignation of senior management of both London
+Underground and London Regional Transport. To comply with new safety regulations issued as a
+result of the fire, and to combat graffiti, a train refurbishment project was launched in July 1991.
+
+(Adapted from: https://en.wikipedia.org)
+
+A palavra que preenche corretamente a lacuna I é
+
+A) contrasting
+B) alarming
+C) similar
+D) glowing
+E) soothing
+
+
+(COMPANHIA DO METROPOLITANO DE SÃO PAULO - FCC - 2019)
+
+34 - Using the Washington, D.C. Metro Subway System
+
+By Rachel Cooper
+
+Updated 07/10/19
+
+The Washington Metro, the District's regional subway system, provides a clean, safe, and reliable
+way to get around almost all of the major attractions in Washington, D.C. The Metro does extend
+to the suburbs of Maryland and Virginia.
+
+I the Metrorail trains can be crowded with commuters during rush hour and when there is a big
+event going on downtown, taking the Washington Metro is usually cheaper and easier than
+finding a place to park in the city. Several Metro stations are helpful sightseeing stops.
+
+The Metro Lines
+
+Since opening in 1976, the Metrorail network has grown to include six lines, 91 stations, and 117
+miles of track. It is the thirdbusiest rapid transit system in the United States in the number of
+passenger trips after New York City and Chicago.
+
+Hours
+
+The Metro begins operation at 5 a.m. on weekdays, 7 a.m. on Saturdays, and 8 a.m. on Sundays.
+Service ends at 11:30 p.m. Monday through Thursday, 1 a.m. Friday and Saturday, and 11 p.m.
+on Sundays, although the last trains leave their terminals about a half an hour before these times.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa               43
+         www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+Trains run frequently averaging four to 10 minutes between trains with frequency increasing
+during rush hour times. Night and weekend service varies between eight and 20 minutes, with
+trains generally scheduled only every 20 minutes.
+
+Metro Farecards
+
+A SmartTrip Metro farecard is required to ride the Metro. The rechargeable, proximity card is
+encoded with any amount up to $300. If you register your card, and you lose it, or it is stolen, you
+do not lose the value of the card. Fares range from $2 to $6 depending on your destination and
+the time of day. Fares are cheaper after 9:30 a.m. until 3 p.m. and after 7 p.m. until close. An
+all-day Metro pass is available for $14.75. Metro charges reduced fares on all federal holidays.
+
+(Adapted from: https://www.tripsavvy.com)
+
+De acordo com o texto,
+
+A) o cartão do metrô pode ser carregado com até US$ 300,00.
+B) o último trem aos domingos parte do terminal às 23h00.
+C) o metrô de Washington, D.C. supera os de Nova York e Chicago em número de viagens por
+passageiro.
+D) o metrô de Washington, D.C. é uma das maiores atrações da cidade por permitir acesso a
+vários pontos turísticos.
+E) a tarifa do metrô varia apenas nos horários de pico, quando os trens são mais frequentes.
+
+
+(COMPANHIA DO METROPOLITANO DE SÃO PAULO - FCC - 2019)
+
+35 - Using the Washington, D.C. Metro Subway System
+
+By Rachel Cooper
+
+Updated 07/10/19
+
+The Washington Metro, the District's regional subway system, provides a clean, safe, and reliable
+way to get around almost all of the major attractions in Washington, D.C. The Metro does extend
+to the suburbs of Maryland and Virginia.
+
+___I___ the Metrorail trains can be crowded with commuters during rush hour and when there is a
+big event going on downtown, taking the Washington Metro is usually cheaper and easier than
+finding a place to park in the city. Several Metro stations are helpful sightseeing stops.
+
+The Metro Lines
+
+Since opening in 1976, the Metrorail network has grown to include six lines, 91 stations, and 117
+miles of track. It is the thirdbusiest rapid transit system in the United States in the number of
+passenger trips after New York City and Chicago.
+
+Hours
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa               44
+         www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+The Metro begins operation at 5 a.m. on weekdays, 7 a.m. on Saturdays, and 8 a.m. on Sundays.
+Service ends at 11:30 p.m. Monday through Thursday, 1 a.m. Friday and Saturday, and 11 p.m.
+on Sundays, although the last trains leave their terminals about a half an hour before these times.
+
+Trains run frequently averaging four to 10 minutes between trains with frequency increasing
+during rush hour times. Night and weekend service varies between eight and 20 minutes, with
+trains generally scheduled only every 20 minutes.
+
+Metro Farecards
+
+A SmartTrip Metro farecard is required to ride the Metro. The rechargeable, proximity card is
+encoded with any amount up to $300. If you register your card, and you lose it, or it is stolen, you
+do not lose the value of the card. Fares range from $2 to $6 depending on your destination and
+the time of day. Fares are cheaper after 9:30 a.m. until 3 p.m. and after 7 p.m. until close. An
+                                                         ==219a34==
+
+all-day Metro pass is available for $14.75. Metro charges reduced fares on all federal holidays.
+
+(Adapted from: https://www.tripsavvy.com)
+
+A palavra que preenche corretamente a lacuna I é
+
+A) Despite
+B) Because
+C) Therefore
+D) Although
+E) But
+
+……….
+
+Bons Estudos ….
+                                 “Ganhar não é tudo, mas querer ganhar é.”
+                                                  Vince Lombardi
+                                                   Rodrigo Perni
+
+                            Instagram: www.instagram.com/coachrodrigoperni
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa               45
+         www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+. Túlio Lages
+  Rodrigo Perni
+Aula 00 07
+  Aula
+
+Gabarito
+
+1 - Letra E
+2 - Letra B
+3 - Letra B
+4 - Letra E
+5 - Letra B
+6 - Letra D
+7 - Letra A
+8 - Letra E
+9 - Letra D
+10 - Letra E
+11 - Letra A
+12 - Letra B
+13 - Letra C
+14 - Letra D
+15 - Letra E
+16 - Letra C
+17 - Letra D
+18 - Letra D
+19 - Letra D
+20 - Letra B
+21 - Letra E
+22 - Letra C
+23 - Letra D
+24 - Letra B
+25 - Letra A
+26 - Letra E
+27 - Letra A
+28 - Letra C
+29 - Letra A
+30 - Letra D
+31 - Letra C
+32 - Letra D
+33 - Letra A
+34 - Letra A
+35 - Letra D
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   46
+         www.estrategiaconcursos.com.br                                              47
+
+                                      
+
+
+---
+
+---

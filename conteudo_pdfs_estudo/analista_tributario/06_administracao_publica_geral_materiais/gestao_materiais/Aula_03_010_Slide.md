@@ -1,0 +1,187 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_010_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: COMPRAS NO SETOR PÚBLICO – IV
+artigos_citados:
+- Art. 25.
+- Artigo 25
+- artigo 25
+- artigo 25o
+---
+
+# COMPRAS NO SETOR PÚBLICO – IV
+
+---
+
+---
+
+COMPRAS NO SETOR PÚBLICO – IV
+LEI 14.133/2021
+
+                                                       Prof. Ricardo Campanario
+
+                  
+
+
+---
+
+       Edital de Licitação
+       Definição
+
+      ❑ O edital de licitação é o ato convocatório que tem por finalidade fixar as condições
+        necessárias à participação dos licitantes, ao desenvolvimento da licitação e à futura
+        contratação, além de estabelecer um elo entre a Administração e os licitantes, que deve
+        ser permanentemente seguido por todas as partes.
+
+      ❑ É no edital que estão contidas todas as informações e regras sobre o processo licitatório,
+        que passam a vincular tanto as empresas participantes quanto o próprio órgão que está
+        realizando o procedimento, trazendo segurança para todas as partes envolvidas e
+        garantindo que as mesmas normas e condições serão aplicadas a todos os licitantes.
+
+      ❑ Esse procedimento garante a aplicação de boa parte dos princípios previstos pelo instituto
+        da licitação como impessoalidade, igualdade e a própria vinculação ao instrumento
+        convocatório.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Edital de Licitação
+       Artigo 25 Lei 14.133/2021
+
+      ❑ Editais de licitação tipicamente contém as seguintes informações: condições de pagamento,
+        instruções e normas para recursos e condições de recebimento do objeto da licitação. Veja a
+        seguir o que diz o artigo 25 da Lei 14.133/2021:
+                 Art. 25. O edital deverá conter o objeto da licitação e as regras relativas à convocação, ao julgamento, à habilitação,
+                 aos recursos e às penalidades da licitação, à fiscalização e à gestão do contrato, à entrega do objeto e às condições de
+                 pagamento.
+
+
+      ❑ Como anexos, geralmente contém: projeto básico e/ou executivo, orçamento estimado, minuta
+        do contrato, especificações complementares e Termo de Referência, conforme parágrafo 3o do
+        mesmo artigo:
+                 § 3º Todos os elementos do edital, incluídos minuta de contrato, termos de referência, anteprojeto, projetos e
+                 outros anexos, deverão ser divulgados em sítio eletrônico oficial na mesma data de divulgação do edital, sem
+                 necessidade de registro ou de identificação para acesso.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+       Edital de Licitação
+       Artigo 25 Lei 14.133/2021
+
+      ❑ Além disso, o artigo 25o em seus diversos parágrafos traz, na nova Lei, diversas menções a preocupações sociais,
+        ambientais e de inclusão, como a preocupação com a utilização de materiais e mão de obra local (§2o),
+        responsabilidade do contratado quanto ao licenciamento ambiental (§5o), exigência do emprego de mulheres
+        vítimas de violência ou egressos do sistema prisional (§9o), entre outras. Observe a seguir:
+
+                  Art. 25. O edital deverá conter o objeto da licitação e as regras relativas à convocação, ao julgamento, à habilitação,
+                  aos recursos e às penalidades da licitação, à fiscalização e à gestão do contrato, à entrega do objeto e às condições de
+                  pagamento.
+
+                  § 1º Sempre que o objeto permitir, a Administração adotará minutas padronizadas de edital e de contrato com
+                  cláusulas uniformes.
+
+                  § 2º Desde que, conforme demonstrado em estudo técnico preliminar, não sejam causados prejuízos à competitividade
+                  do processo licitatório e à eficiência do respectivo contrato, o edital poderá prever a utilização de mão de obra,
+                  materiais, tecnologias e matérias-primas existentes no local da execução, conservação e operação do bem, serviço ou
+                  obra.
+
+                  § 3º Todos os elementos do edital, incluídos minuta de contrato, termos de referência, anteprojeto, projetos e outros
+                  anexos, deverão ser divulgados em sítio eletrônico oficial na mesma data de divulgação do edital, sem necessidade de
+                  registro ou de identificação para acesso...
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+       Edital de Licitação
+       Artigo 25 Lei 14.133/2021
+
+
+                 § 4º Nas contratações de obras, serviços e fornecimentos de grande vulto, o edital deverá prever a
+                 obrigatoriedade de implantação de programa de integridade pelo licitante vencedor, no prazo de
+                 6 (seis) meses, contado da celebração do contrato, conforme regulamento que disporá sobre as
+                 medidas a serem adotadas, a forma de comprovação e as penalidades pelo seu descumprimento.
+
+                 § 5º O edital poderá prever a responsabilidade do contratado pela:
+
+                 I - obtenção do licenciamento ambiental;
+
+                 II - realização da desapropriação autorizada pelo poder público.
+
+                 § 6º Os licenciamentos ambientais de obras e serviços de engenharia licitados e contratados nos
+                 termos desta Lei terão prioridade de tramitação nos órgãos e entidades integrantes do Sistema
+                 Nacional do Meio Ambiente (Sisnama) e deverão ser orientados pelos princípios da celeridade, da
+                 cooperação, da economicidade e da eficiência.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Edital de Licitação
+       Artigo 25 Lei 14.133/2021
+
+                 § 7º Independentemente do prazo de duração do contrato, será obrigatória a previsão no edital de índice
+                 de reajustamento de preço, com data-base vinculada à data do orçamento estimado e com a possibilidade
+                 de ser estabelecido mais de um índice específico ou setorial, em conformidade com a realidade de mercado
+                 dos respectivos insumos.
+
+                 § 8º Nas licitações de serviços contínuos, observado o interregno mínimo de 1 (um) ano, o critério de
+                 reajustamento será por:
+
+                 I - reajustamento em sentido estrito, quando não houver regime de dedicação exclusiva de mão de obra ou
+                 predominância de mão de obra, mediante previsão de índices específicos ou setoriais;
+
+                 II - repactuação, quando houver regime de dedicação exclusiva de mão de obra ou predominância de mão
+                 de obra, mediante demonstração analítica da variação dos custos.
+
+                 § 9º O edital poderá, na forma disposta em regulamento, exigir que percentual mínimo da mão de obra
+                 responsável pela execução do objeto da contratação seja constituído por:
+
+                 I - mulheres vítimas de violência doméstica;
+
+                 II - oriundos ou egressos do sistema prisional.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,2615 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 11_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Raciocínio Lógico Matemático
+---
+
+# Raciocínio Lógico Matemático
+
+Aula 10
+                          Receita Federal (Analista Tributário)
+                                     Raciocínio Lógico Matemático
+
+                                                            Autor:
+                                        Equipe Exatas Estratégia
+                                                      Concursos
+
+
+                                                27 de Março de 2023
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 10
+
+                                                                                     Índice
+1) Princípio da Casa dos Pombos
+
+
+2) Princípio da Casa dos Pombos Tradicional
+
+
+3) Princípio da Casa dos Pombos Generalizado
+
+
+4) Outros Casos de Aplicação do Princípio
+
+
+5) Questões Comentadas - Princípio da Casa dos Pombos Generalizado - FGV
+
+
+6) Questões Comentadas - Outros Casos de Aplicação do Princípio - FGV
+
+
+7) Lista de Questões - Princípio da Casa dos Pombos Generalizado - FGV
+
+
+8) Lista de Questões - Outros Casos de Aplicação do Princípio - FGV
+
+                Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                           64
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+                                APRESENTAÇÃO DA AULA
+Fala, pessoal!
+
+A aula de hoje será sobre o Princípio da Casa dos Pombos, também conhecido como Princípio das Gavetas
+de Dirichlet.
+
+Trata-se de um conceito teórico relativamente simples, cuja complexidade se apresenta mais na resolução
+das questões. Por esse motivo, a teoria será relativamente curta, de modo que será dada maior ênfase à
+resolução de exercícios.
+
+                          Conte comigo nessa caminhada =)
+
+                          Prof. Eduardo Mocellin.
+
+                                @edu.mocellin
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           3
+        www.estrategiaconcursos.com.br                                                              64
+
+                                    
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 10
+
+PRINCÍPIO DA CASA DOS POMBOS
+
+                                          Princípio da Casa dos Pombos
+
+
+                                  Princípio da Casa dos Pombos tradicional
+     Se tivermos n pombos para serem distribuídos em n−1 casas, pelo menos uma casa deverá abrigar no
+                                             mínimo 2 pombos.
+
+                                  Princípio da Casa dos Pombos generalizado
+      Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                             mínimo ⌈n/k⌉ pombos.
+    Obs.: ⌈n/k⌉ representa o arredondamento para o primeiro inteiro maior do que n/k.
+                                                      ==219a34==
+
+                                   Outros casos de aplicação do princípio
+    Nem sempre questões relacionadas ao Princípio da Casa dos Pombos ou Princípio do Azarado se
+    apresentam nos formatos clássicos. Para essas questões, devemos sempre testar o caso limite, ou seja, o
+    “caso azarado”.
+
+       Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                     4
+       www.estrategiaconcursos.com.br                                                                         64
+
+                                   
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Princípio da Casa dos Pombos tradicional
+
+O Princípio da Casa dos Pombos em sua forma tradicional é relativamente intuitivo. Para entendê-lo, veja a
+seguinte situação:
+
+     Temos 10 pombos e devemos abrigar todos eles em 9 gaiolas (ou casas). A conclusão que se
+     pode tirar é:
+
+                         Pelo menos uma casa deverá abrigar no mínimo 2 pombos.
+
+     Vamos ver com calma como podemos chegar nessa conclusão.
+
+     Inicialmente, veja que uma possibilidade de abrigar os 10 pombos em 9 casas seria colocar todos
+     em uma única casa. Ficaríamos, nesse caso, com 8 casas vazias e com uma casa abrigando todos
+     os 10 pombos. Veja que nesse caso específico é verdade que:
+
+                             Pelo menos uma casa abriga no mínimo 2 pombos.
+
+     Outra possibilidade de abrigar os 10 pombos em 9 casas seria colocar três pombos em três casas,
+     um pombo em uma casa e deixar as outras 5 casas vazias. Veja que nesse caso específico também
+     é verdade que:
+
+                             Pelo menos uma casa abriga no mínimo 2 pombos.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              5
+        www.estrategiaconcursos.com.br                                                                 64
+
+                                    
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 10
+
+   Existem diversas maneiras de abrigar os 10 pombos em 9 casas. Vamos agora testar o caso limite
+   em que tentamos ocupar todas as casas com um número igual de pombos. Perceba que se
+   colocarmos um pombo em cada uma das 9 casas, um pombo vai ficar desabrigado.
+
+                                                     ==219a34==
+
+   Nesse caso limite, o último pombo que restou deve ser abrigado necessariamente em uma casa
+   já ocupada. A consequência disso é que:
+
+                       Pelo menos uma casa deverá abrigar no mínimo 2 pombos.
+
+   Veja que a conclusão de que "pelo menos uma casa deverá abrigar no mínimo 2 pombos" é uma
+   conclusão que vale para todos os casos particulares do problema. Essa conclusão é obtida ao se
+   testar o caso limite, ou seja, o caso em que se tenta deixar todas as casas ocupadas com um
+   número igual de pombos.
+
+      Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            6
+      www.estrategiaconcursos.com.br                                                                64
+
+                                  
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+            Na aplicação do Princípio da Casa dos Pombos, deve-se identificar o caso limite em que
+                      tentamos ocupar todas as casas com um número igual de pombos.
+
+Esqueçamos os 10 pombos e as 9 casas! Podemos enunciar uma regra para quando temos n pombos e n-1
+casas:
+
+             Se tivermos n pombos para serem distribuídos em n-1 casas, pelo menos uma casa
+                                  deverá abrigar no mínimo 2 pombos.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           7
+        www.estrategiaconcursos.com.br                                                               64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Princípio da Casa dos Pombos generalizado
+
+Os problemas relacionados ao Princípio da Casa dos Pombos raramente apresentam o formato de n pombos
+e n-1 casas. Veja essa nova situação:
+
+     Temos 19 pombos e devemos abrigar todos eles em 9 gaiolas (ou casas). A conclusão que se
+     pode tirar é:
+
+                         Pelo menos uma casa deverá abrigar no mínimo 3 pombos.
+
+     Novamente, essa conclusão é obtida ao se testar o caso limite, ou seja, o caso em que se tenta
+     deixar todas as casas ocupadas com um número igual de pombos. Vamos tentar colocar 2
+     pombos em cada uma das 9 casas.
+
+     Nesse novo caso limite em que ocupamos todas as 9 casas com 2 pombos, o último pombo que
+     restou dos 19 deve ser abrigado necessariamente em uma casa já ocupada. Nesse caso, a
+     conclusão que se chega é:
+
+                         Pelo menos uma casa deverá abrigar no mínimo 3 pombos.
+
+No novo caso limite acima, tivemos apenas um pombo restando sem casa. O que aconteceria se tivéssemos
+um número um pouco maior de pombos? Vamos verificar uma nova situação:
+
+     Temos 22 pombos e devemos abrigar todos eles em 9 casas. A conclusão que se pode tirar é
+     exatamente a mesma do caso em que tínhamos 19 pombos e 9 casas:
+
+                         Pelo menos uma casa deverá abrigar no mínimo 3 pombos.
+
+     Novamente, no caso limite, vamos tentar deixar todas as casas ocupadas com um número igual
+     de pombos. Isso significa que devemos colocar 2 pombos em cada uma das 9 casas.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            8
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 10
+
+   Observe que restaram temos todas as 9 casas com 2 pombos e ficamos com 4 pombos
+   desabrigados.
+
+   Existem várias maneiras de abrigar esses últimos 4 pombos. Poderíamos, por exemplo, colocar 2
+   na primeira casa e 2 na segunda casa:
+
+   Apesar das diversas maneiras de se colocar os 4 pombos restantes nas 9 casas, temos a garantia
+   do seguinte:
+
+                       Pelo menos uma casa deverá abrigar no mínimo 3 pombos.
+
+   Essa conclusão fica explícita quando colocamos os 4 pombos restantes em casas diferentes. Veja:
+
+      Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             9
+      www.estrategiaconcursos.com.br                                                                 64
+
+                                  
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Podemos generalizar o Princípio da Casa dos Pombos para quaisquer números de pombos e casas:
+
+                                 Princípio da Casa dos Pombos Generalizado
+
+            Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá
+                                     abrigar no mínimo ⌈n/k⌉ pombos.
+
+              Obs.: ⌈n/k⌉ representa o arredondamento para o primeiro inteiro maior do que n/k.
+
+Vamos utilizar essa generalização para o exemplo que acabamos de ver:
+
+     Temos 22 pombos e devemos abrigar todos eles em 9 casas. Qual a conclusão que se pode
+     obter?
+
+     A generalização do Princípio da Casa dos Pombos nos diz que:
+
+            Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá
+                                     abrigar no mínimo ⌈n/k⌉ pombos.
+
+     Para o exemplo em questão, n = 22 e k = 9. Vamos obter ⌈n/k⌉.
+
+                                              ⌈n/k⌉ = ⌈22/9⌉ = ⌈2,44⌉
+
+     Qual é o valor de ⌈2,44⌉? Simples! É o primeiro inteiro maior do que 2,44, ou seja, é 3.
+
+                                                 ⌈n/k⌉= ⌈2,44⌉= 3
+
+     Perceba que, com a aplicação direta da "fórmula", chegamos na mesma conclusão:
+
+        Se tivermos 22 pombos para serem distribuídos em 9 casas, pelo menos uma casa deverá
+                                    abrigar no mínimo 3 pombos.
+
+As questões de concurso público no geral não costumam apresentar o problema em forma de "casas" e de
+"pombos", de modo que se faz necessário identificar quais são as "casas" e quais são os "pombos" do
+problema. Vejamos dois exemplos:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        10
+        www.estrategiaconcursos.com.br                                                            64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+(BANESTES/2021) Um escritório de investimentos possui 86 clientes que são atendidos por 6 consultores.
+Cada consultor deve atender a no mínimo 9 e no máximo 20 clientes.
+É correto concluir que:
+a) pelo menos 1 consultor atende a mais de 14 clientes;
+b) um consultor atende a 16 clientes;
+c) é possível que todos os consultores atendam a um mesmo número de clientes;
+d) é possível que 3 dos consultores atendam o número máximo de clientes por consultor;
+e) não é possível que 3 dos consultores atendam o número mínimo de clientes por consultor.
+Comentários:
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir os 86
+clientes (“pombos”) aos 6 consultores (“casas”).       ==219a34==
+
+   “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                       mínimo ⌈n/k⌉ pombos.”
+
+
+Para o exemplo em questão, n = 86 e k = 6. Vamos obter ⌈n/k⌉.
+                                          ⌈n/k⌉ = ⌈86/6⌉ = ⌈14,33⌉ = 15
+
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+ “Se tivermos 86 clientes para serem atendidos por 6 consultores, pelo menos um consultor atende a no
+                                         mínimo 15 clientes.”
+
+
+Como “pelo menos um consultor atende a no mínimo 15 clientes”, é correto afirmar que “pelo menos 1
+consultor atende a mais de 14 clientes”.
+Gabarito: Letra A.
+
+
+(FunSaúde CE/2021) Em uma mesa de bar, 7 amigos tomaram 24 latas de cerveja. É correto afirmar que:
+a) um deles tomou exatamente 4 latas.
+b) todos tomaram, pelo menos, 2 latas.
+c) alguém ficou sem beber.
+d) um dos amigos tomou exatamente 3 latas.
+e) um dos amigos tomou, no mínimo, 4 latas.
+Comentários:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            11
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir as 24 latas
+de cerveja (“pombos”) aos 7 amigos (“casas”).
+   “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                       mínimo ⌈n/k⌉ pombos.”
+
+
+Para o exemplo em questão, n = 24 e k = 7. Vamos obter ⌈n/k⌉.
+                                            ⌈n/k⌉ = ⌈24/7⌉ = ⌈3,43⌉ = 4
+
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+   “Se tivermos 24 latas de cerveja para serem tomadas por 7 amigos, pelo menos um amigo tomou no
+                                        mínimo 4 latas de cerveja.”
+
+
+Logo, é correto afirmar que “um dos amigos tomou, no mínimo, 4 latas”.
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            12
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Outros casos de aplicação do princípio
+
+A aplicação clássica do Princípio da Casa dos Pombos ocorre quando são dados o número de pombos (n) e
+de casas (k) e, em seguida, pede-se a conclusão de que "pelo menos uma casa deverá abrigar no mínimo
+⌈n/k⌉ pombos."
+Muitas vezes esse princípio é cobrado de maneira indireta nas questões de concurso público. Um exemplo
+disso é quando é pedido o número mínimo de pombos para garantirmos a conclusão quando são dados o
+número de casas e a conclusão do caso. Veja um exemplo de enunciado:
+
+     Temos disponíveis 9 casas para os pombos. Qual o número mínimo de pombos para garantirmos
+     que três pombos estarão em uma mesma casa?
+
+     Observe que, nesse exemplo, é dado o número de casas (9) e é dada a conclusão (três pombos
+     estarão em uma mesma casa). Pede-se o número mínimo de pombos para garantirmos a
+     conclusão.
+
+Para esse tipo de questão exemplificado, e também para outras questões que fogem da aplicação clássica,
+devemos usar a regra básica de se identificar o caso limite ("caso azarado") do problema.
+Vale ressaltar que o Princípio da Casa dos Pombos também é conhecido por Princípio do Azarado. Para
+ilustrar essa nova forma de se chamar o Princípio da Casa dos Pombos, bem como para exemplificar formas
+não clássicas de se cobrar o princípio, vamos a um exemplo resolvido:
+
+     Em uma festa compareceram muitas pessoas. Qual o número mínimo de pessoas na festa para
+     garantirmos que ao menos três pessoas fazem aniversário no mesmo dia? Considere que um
+     ano tem 365 dias.
+
+     Observe que nesse exemplo é dado o número de dias: 365 dias. Também é dada a conclusão: ao
+     menos três pessoas fazem aniversário no mesmo dia. Pergunta-se o número mínimo de pessoas
+     que devemos alocar nos dias para garantirmos a conclusão.
+
+     Digamos que nessa festa tenha 365 pessoas. Podemos ter a garantia de que ao menos três
+     pessoas fazem aniversário no mesmo dia? Não, pois podemos ter o “azar” de todas as 365
+     pessoas terem nascido uma em cada um dos 365 dias do ano.
+
+     Vamos supor então que tenhamos 600 pessoas na festa. Nesse caso, podemos ter a garantia de
+     que ao menos três pessoas fazem aniversário no mesmo dia? Não, pois podemos ter o “azar”,
+     por exemplo, de termos nos primeiros 235 dias do ano sempre 2 pessoas fazendo aniversário e
+     nos 130 dias restantes termos sempre uma pessoa fazendo aniversário.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          13
+        www.estrategiaconcursos.com.br                                                              64
+
+                                    
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+         Observe que, mesmo que tenhamos 730 pessoas nessa festa, não temos a garantia de que ao
+         menos três pessoas fazem aniversário no mesmo dia, pois podemos ter o “azar” de que em cada
+         um dos 365 dias apenas 2 pessoas fazem aniversário.
+
+         Note, então, que o caso limite ("caso azarado") do problema ocorre quando temos 730 pessoas
+         na festa de modo que em cada um dos 365 dias apenas 2 pessoas fazem aniversário.
+
+         Veja que, ao adicionar uma pessoa, temos a garantia de que ao menos três pessoas fazem
+         aniversário no mesmo dia. Isso porque, mesmo considerado o caso mais azarado, a pessoa de
+         número 731 fará aniversário em um dia em que já temos ao menos duas pessoas fazendo
+         aniversário.
+
+         Logo, para garantirmos que três pessoas fazem aniversário no mesmo dia, devemos ter no
+         mínimo 731 pessoas na festa.
+
+Boa parte das questões de concurso público não se apresentam nos formatos tradicional ou generalizado do
+Princípio da Casa dos Pombos. Nessas questões, também devemos encontrar o caso limite, ou seja, o “caso
+azarado”. Vejamos dois exemplos:
+
+(MPE GO/2022) Em uma urna há 3 bolas brancas, 4 amarelas, 5 vermelhas e 6 pretas. São retiradas ao acaso
+dessa urna N bolas.
+Se há certeza de que, entre as bolas retiradas há, pelo menos, uma bola amarela ou uma bola preta, o menor
+valor possível de N é
+a) 8.
+b) 9.
+c) 10.
+d) 11.
+e) 12.
+Comentários:
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+Ao retirar as bolas do saco, poderíamos ter um "caso azarado" em que retiramos 3 bolas brancas e 5
+vermelhas. Nesse caso, temos um total de 8 bolas retiradas sem que se tenha uma bola amarela ou uma
+bola preta.
+Note que, mesmo no caso mais azarado possível, ao retirar a 9ª bola teremos retirado uma bola amarela
+ou uma bola preta.
+Logo, ao retirarmos 9 bolas, obrigatoriamente teremos uma bola da cor amarela ou preta. O gabarito,
+portanto, é letra B.
+Gabarito: Letra B.
+
+
+           Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          14
+           www.estrategiaconcursos.com.br                                                              64
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+(SEFAZ ES/2022) Em um grupo de 70 pessoas, há 50 capixabas e 40 torcedores do Vasco.
+Em relação a esse grupo de pessoas, é correto concluir que
+a) no máximo 20 são capixabas torcedores do Vasco.
+b) no mínimo 20 não são nem capixabas nem torcedores do Vasco.
+c) exatamente 30 são capixabas não torcedores do Vasco.
+d) no máximo 40 são capixabas torcedores do Vasco.
+e) é possível que nenhuma delas seja capixaba torcedor do Vasco.
+Comentários:
+
+                                                       ==219a34==
+
+Temos um grupo de 70 pessoas, em que há 50 capixabas e 40 torcedores do Vasco.
+Vamos analisar as alternativas, verificando aquela que apresenta uma conclusão inequívoca. Em cada
+análise, é interessante testar sempre o caso limite.
+Antes de verificarmos as alternativas, cumpre destacar que o enunciado da questão não impede que
+tenhamos pessoas que não são capixabas nem torcedores do Vasco.
+
+
+a) no máximo 20 são capixabas torcedores do Vasco. ERRADO.
+Como não há impedimento de que tenhamos pessoas que não são capixabas nem torcedores do Vasco, é
+possível que todos os 40 torcedores do Vasco sejam capixabas.
+Nesse caso, teremos 20 pessoas que não são nem capixabas nem torcedores do Vasco.
+
+b) no mínimo 20 não são nem capixabas nem torcedores do Vasco. ERRADO.
+Na alternativa anterior, ao testar caso limite em que todos os torcedores do Vasco são capixabas, obtivemos
+que no máximo 20 pessoas não são nem capixabas nem torcedores do Vasco.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              15
+        www.estrategiaconcursos.com.br                                                                  64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Podemos, por exemplo, ter uma situação em que não existem pessoas que não são nem capixabas nem
+torcedores do Vasco. Essa situação é obtida minimizando a intersecção entre capixabas e torcedores do
+Vasco.
+
+c) exatamente 30 são capixabas não torcedores do Vasco. ERRADO.
+Como não há impedimento de que tenhamos pessoas que não são capixabas nem torcedores do Vasco, é
+possível que todos os 40 torcedores do Vasco sejam capixabas. Assim, dentre os 50 capixabas, é possível
+que tenhamos apenas 10 que não são torcedores do Vasco.
+
+d) no máximo 40 são capixabas torcedores do Vasco. CERTO. Esse é o gabarito.
+Temos um total de 40 torcedores do Vasco. Ao fazer com que todos eles sejam capixabas, temos que no
+máximo 40 são capixabas torcedores do Vasco.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          16
+        www.estrategiaconcursos.com.br                                                              64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+e) é possível que nenhuma delas seja capixaba torcedor do Vasco. ERRADO.
+Note que, se nenhum capixaba for torcedor do Vasco, o universo total de pessoas não poderia ser 70. Isso
+porque seria necessário termos um universo de no mínimo 40 + 50 = 90 pessoas, caso em que teríamos 0
+pessoas que não são capixabas nem torcedores do Vasco.
+
+Gabarito: Letra D.
+
+É isso aí, pessoal! Quanto à teoria de Princípio da Casa dos Pombos ficamos por aqui. Agora é o momento de
+solidificarmos o conteúdo aprendido por meio de muitas questões.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             17
+        www.estrategiaconcursos.com.br                                                                 64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+                          QUESTÕES COMENTADAS – FGV
+
+Princípio da casa dos pombos generalizado
+
+  (FGV/TRT MA/2022) Em uma caixa há 18 bolas. A bola mais leve pesa 20 gramas e a mais pesada, 24
+gramas. O peso de cada bola é um número inteiro de gramas. É correto concluir que:
+a) pelo menos uma bola pesa 22 gramas.
+b) nenhuma bola pesa 22 gramas.
+c) a média dos pesos de todas as bolas é 22 gramas.
+d) pelo menos 4 bolas têm o mesmo peso.
+e) a soma dos pesos de todas as bolas é maior do que 396 gramas.
+
+Comentários:
+
+Note que o peso de cada bola deve ser um número inteiro entre 20 e 24 gramas. Isso significa que temos
+cinco diferentes possibilidades de peso: 20g, 21g, 22g, 23g e 24g.
+
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir as 18 bolas
+(“pombos”) às 5 diferentes possibilidades de peso (“casas”).
+
+   “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                       mínimo ⌈n/k⌉ pombos.”
+
+Para o exemplo em questão, n = 18 e k = 5. Vamos obter ⌈n/k⌉.
+
+                                            ⌈n/k⌉ = ⌈18/5⌉ = ⌈3,6⌉ = 4
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+
+ “Se tivermos 18 bolas para serem distribuídas em 5 possibilidades pesos, pelo menos uma possibilidade
+                              de peso deverá atender no mínimo 4 bolas.”
+
+Em outras palavras, é correto afirmar que pelo menos 4 bolas têm o mesmo peso.
+
+Gabarito: Letra D.
+
+  (FGV/BANESTES/2021) Um escritório de investimentos possui 86 clientes que são atendidos por 6
+consultores. Cada consultor deve atender a no mínimo 9 e no máximo 20 clientes.
+É correto concluir que:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            18
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+a) pelo menos 1 consultor atende a mais de 14 clientes;
+b) um consultor atende a 16 clientes;
+c) é possível que todos os consultores atendam a um mesmo número de clientes;
+d) é possível que 3 dos consultores atendam o número máximo de clientes por consultor;
+e) não é possível que 3 dos consultores atendam o número mínimo de clientes por consultor.
+
+Comentários:
+
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir os 86
+clientes (“pombos”) aos 6 consultores (“casas”).
+
+   “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                       mínimo ⌈n/k⌉ pombos.”
+                                                       ==219a34==
+
+Para o exemplo em questão, n = 86 e k = 6. Vamos obter ⌈n/k⌉.
+
+                                          ⌈n/k⌉ = ⌈86/6⌉ = ⌈14,33⌉ = 15
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+
+ “Se tivermos 86 clientes para serem atendidos por 6 consultores, pelo menos um consultor atende a no
+                                         mínimo 15 clientes.”
+
+Como “pelo menos um consultor atende a no mínimo 15 clientes”, é correto afirmar que “pelo menos 1
+consultor atende a mais de 14 clientes”.
+
+Gabarito: Letra A.
+
+ (FGV/FunSaúde CE/2021) Em uma mesa de bar, 7 amigos tomaram 24 latas de cerveja. É correto afirmar
+que:
+a) um deles tomou exatamente 4 latas.
+b) todos tomaram, pelo menos, 2 latas.
+c) alguém ficou sem beber.
+d) um dos amigos tomou exatamente 3 latas.
+e) um dos amigos tomou, no mínimo, 4 latas.
+
+Comentários:
+
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir as 24 latas
+de cerveja (“pombos”) aos 7 amigos (“casas”).
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            19
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+   “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                       mínimo ⌈n/k⌉ pombos.”
+
+Para o exemplo em questão, n = 24 e k = 7. Vamos obter ⌈n/k⌉.
+
+                                            ⌈n/k⌉ = ⌈24/7⌉ = ⌈3,43⌉ = 4
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+
+   “Se tivermos 24 latas de cerveja para serem tomadas por 7 amigos, pelo menos um amigo tomou no
+                                       mínimo 4 latas de cerveja.”
+
+Logo, é correto afirmar que “um dos amigos tomou, no mínimo, 4 latas”.
+
+Gabarito: Letra E.
+
+ (FGV/Pref. Salvador/2019) Gisele quer guardar seus 101 mangás (histórias em quadrinhos japonesas) em
+um pequeno gaveteiro com 7 gavetas. Em cada gaveta cabem, no máximo, 20 mangás.
+É correto concluir que
+a) uma gaveta ficará vazia.
+b) cinco gavetas ficarão com 20 mangás.
+c) cada gaveta terá pelo menos um mangá.
+d) pelo menos uma gaveta ficará com mais de 14 mangás.
+e) nenhuma gaveta ficará vazia.
+
+Comentários:
+
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir os 101
+mangás (“pombos”) às 7 gavetas (“casas”).
+
+   “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                       mínimo ⌈n/k⌉ pombos.”
+
+Para o exemplo em questão, n = 101 e k = 7. Vamos obter ⌈n/k⌉.
+
+                                          ⌈n/k⌉ = ⌈101/7⌉ = ⌈14,43⌉ = 15
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+
+“Se tivermos 101 mangás para serem distribuídos em 7 gavetas, pelo menos uma gaveta deverá conter no
+                                        mínimo 15 mangás.”
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           20
+        www.estrategiaconcursos.com.br                                                               64
+
+                                    
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+Logo, é correto afirmar que “pelo menos uma gaveta ficará com mais de 14 mangás”.
+
+Gabarito: Letra D.
+
+
+  (FGV/SEE PE/2016) Em uma sala há 63 pessoas.
+Considere a sentença: “Pelo menos N pessoas dessa sala fazem aniversário no mesmo mês”.
+O maior valor de N para o qual a sentença dada é sempre verdadeira é
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+e) 10.
+
+Comentários:
+
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir as 63
+pessoas (“pombos”) aos 12 meses do ano (“casas”).
+
+    “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                        mínimo ⌈n/k⌉ pombos.”
+
+Para o exemplo em questão, n = 63 e k = 12. Vamos obter ⌈n/k⌉.
+
+                                            ⌈n/k⌉ = ⌈63/12⌉ = ⌈5,25⌉ = 6
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+
+    “Se tivermos 63 pessoas para fazer aniversário em 12 meses, pelo menos um mês deverá conter no
+                               mínimo 6 pessoas que fazem aniversário.”
+
+Logo, é correto afirmar que “Pelo menos 6 pessoas dessa sala fazem aniversário no mesmo mês”.
+
+Gabarito: Letra A.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           21
+         www.estrategiaconcursos.com.br                                                               64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+  (FGV/TJ PI/2015) Um grupo de 6 estagiários foi designado para rever 50 processos e cada processo
+deveria ser revisto por apenas um dos estagiários. No final do trabalho, todos os estagiários trabalharam
+e todos os processos foram revistos.
+É correto afirmar que:
+a) um dos estagiários reviu 10 processos;
+b) todos os estagiários reviram, cada um, pelo menos 5 processos;
+c) um dos estagiários só reviu 2 processos;
+d) quatro estagiários reviram 7 processos e dois estagiários reviram 6 processos;
+e) pelo menos um dos estagiários reviu 9 processos ou mais.
+
+Comentários:
+
+Veja que esse é um caso típico de Princípio da Casa dos Pombos generalizado. Devemos atribuir os 50
+processos (“pombos”) aos 6 estagiários (“casas”).
+
+   “Se tivermos n pombos para serem distribuídos em k casas, pelo menos uma casa deverá abrigar no
+                                       mínimo ⌈n/k⌉ pombos.”
+
+Para o exemplo em questão, n = 50 e k = 6. Vamos obter ⌈n/k⌉.
+
+                                            ⌈n/k⌉ = ⌈50/6⌉ = ⌈8,33⌉ = 9
+
+Perceba que a conclusão, contextualizando para o problema em tela, fica:
+
+ “Se tivermos 50 processos para serem distribuídos entre 6 estagiários, pelo menos um estagiário receber
+                                       no mínimo 9 processos.”
+
+Logo, é correto afirmar que “pelo menos um dos estagiários reviu 9 processos ou mais”.
+
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            22
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+                         QUESTÕES COMENTADAS – FGV
+
+Outros casos de aplicação do princípio
+
+ (FGV/TRT MA/2022) Uma urna tem 15 bolas. Sobre essas bolas, sabe-se que:
+• Pelo menos 3 delas são azuis.
+• Dadas 4 quaisquer dessas bolas, pelo menos uma não é azul.
+É correto concluir que
+a) exatamente 11 dessas bolas são azuis.
+b) exatamente 11 dessas bolas não são azuis.
+c) pelo menos 4 dessas bolas são azuis.
+d) exatamente 12 dessas bolas não são azuis.
+e) no máximo 4 dessas bolas não são azuis.
+
+Comentários:
+
+Temos um total de 15 bolas na urna. Inicialmente, temos a seguinte informação:
+
+• Pelo menos 3 delas são azuis.
+
+Com base somente nessa informação, note que podemos ter 3, 4, 5, ... , até 15 bolas azuis.
+
+Vejamos agora a próxima informação:
+
+• Dadas 4 quaisquer dessas bolas, pelo menos uma não é azul.
+
+Note que, para garantir que dentre 4 bolas quaisquer pelo menos uma não é azul, é possível que tenhamos,
+com base somente nessa informação, 3, 2, 1 ou nenhuma bola azul.
+
+Veja que, com base nas duas informações apresentadas, é necessário que tenhamos exatamente 3 bolas
+azuis.
+
+Como temos um total de 15 bolas, é correto afirmar que exatamente 15−3 = 12 bolas não são azuis.
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           23
+        www.estrategiaconcursos.com.br                                                               64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+ (FGV/SEFAZ ES/2022) Em um grupo de 70 pessoas, há 50 capixabas e 40 torcedores do Vasco.
+Em relação a esse grupo de pessoas, é correto concluir que
+a) no máximo 20 são capixabas torcedores do Vasco.
+b) no mínimo 20 não são nem capixabas nem torcedores do Vasco.
+c) exatamente 30 são capixabas não torcedores do Vasco.
+d) no máximo 40 são capixabas torcedores do Vasco.
+e) é possível que nenhuma delas seja capixaba torcedor do Vasco.
+
+Comentários:
+
+Temos um grupo de 70 pessoas, em que há 50 capixabas e 40 torcedores do Vasco.
+
+Vamos analisar as alternativas, verificando aquela que apresenta uma conclusão inequívoca. Em cada
+análise, é interessante testar sempre o caso limite.
+
+Antes de verificarmos as alternativas, cumpre destacar que o enunciado da questão não impede que
+tenhamos pessoas que não são capixabas nem torcedores do Vasco.
+
+a) no máximo 20 são capixabas torcedores do Vasco. ERRADO.
+
+Como não há impedimento de que tenhamos pessoas que não são capixabas nem torcedores do Vasco, é
+possível que todos os 40 torcedores do Vasco sejam capixabas.
+
+Nesse caso, teremos 20 pessoas que não são nem capixabas nem torcedores do Vasco.
+
+b) no mínimo 20 não são nem capixabas nem torcedores do Vasco. ERRADO.
+
+Na alternativa anterior, ao testar caso limite em que todos os torcedores do Vasco são capixabas, obtivemos
+que no máximo 20 pessoas não são nem capixabas nem torcedores do Vasco.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              24
+        www.estrategiaconcursos.com.br                                                                  64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Podemos, por exemplo, ter uma situação em que não existem pessoas que não são nem capixabas nem
+torcedores do Vasco. Essa situação é obtida minimizando a intersecção entre capixabas e torcedores do
+Vasco.
+
+c) exatamente 30 são capixabas não torcedores do Vasco. ERRADO.
+
+Como não há impedimento de que tenhamos pessoas que não são capixabas nem torcedores do Vasco, é
+possível que todos os 40 torcedores do Vasco sejam capixabas. Assim, dentre os 50 capixabas, é possível
+que tenhamos apenas 10 que não são torcedores do Vasco.
+
+d) no máximo 40 são capixabas torcedores do Vasco. CERTO. Esse é o gabarito.
+
+Temos um total de 40 torcedores do Vasco. Ao fazer com que todos eles sejam capixabas, temos que no
+máximo 40 são capixabas torcedores do Vasco.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          25
+        www.estrategiaconcursos.com.br                                                              64
+
+                                    
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+e) é possível que nenhuma delas seja capixaba torcedor do Vasco. ERRADO.
+
+Note que, se nenhum capixaba for torcedor do Vasco, o universo total de pessoas não poderia ser 70. Isso
+porque seria necessário termos um universo de no mínimo 40 + 50 = 90 pessoas, caso em que teríamos 0
+pessoas que não são capixabas nem torcedores do Vasco.
+
+Gabarito: Letra D.
+
+  (FGV/MPE GO/2022) Em uma urna há 3 bolas brancas, 4 amarelas, 5 vermelhas e 6 pretas. São retiradas
+ao acaso dessa urna N bolas.
+Se há certeza de que, entre as bolas retiradas há, pelo menos, uma bola amarela ou uma bola preta, o
+menor valor possível de N é
+a) 8.
+b) 9.
+c) 10.
+d) 11.
+e) 12.
+
+Comentários:
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          26
+         www.estrategiaconcursos.com.br                                                              64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Ao retirar as bolas do saco, poderíamos ter um "caso azarado" em que retiramos 3 bolas brancas e 5
+vermelhas. Nesse caso, temos um total de 8 bolas retiradas sem que se tenha uma bola amarela ou uma
+bola preta.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 9ª bola teremos retirado uma bola amarela
+ou uma bola preta.
+
+Logo, ao retirarmos 9 bolas, obrigatoriamente teremos uma bola da cor amarela ou preta. O gabarito,
+portanto, é letra B.
+
+Gabarito: Letra B.
+
+   (FGV/TJ TO/2022) Em um grupo de 40 advogados, 30 estão inscritos para um Concurso A e 25 estão
+inscritos para um Concurso B. É correto concluir que:
+a) no máximo 15 deles estão inscritos nos dois concursos;
+b) no máximo 10 deles não estão inscritos nem no Concurso A nem no Concurso B;
+c) no máximo 10 deles estão inscritos apenas no Concurso A;
+d) no mínimo 15 deles estão inscritos apenas no Concurso B;
+e) no mínimo 5 deles não estão inscritos nem no Concurso A nem no Concurso B.
+
+Comentários:
+
+Temos um grupo de 40 advogados, em que há 30 inscritos para um Concurso A e 25 inscritos para um
+Concurso B.
+
+Vamos analisar as alternativas, verificando aquela que apresenta uma conclusão inequívoca. Em cada
+análise, é interessante testar sempre o caso limite.
+
+Antes de verificarmos as alternativas, cumpre destacar que o enunciado da questão não impede que
+tenhamos advogados que não estejam inscritos no Concurso A nem no concurso B.
+
+a) no máximo 15 deles estão inscritos nos dois concursos. ERRADO.
+
+Como não há impedimento de que tenhamos advogados que não estejam inscritos no Concurso A nem no
+concurso B, é possível que todos os 25 que se inscreveram no Concurso B estejam inscritos no Concurso A.
+Nesse caso, teremos 10 advogados que não estão inscritos no Concurso A nem no concurso B.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           27
+        www.estrategiaconcursos.com.br                                                               64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+b) no máximo 10 deles não estão inscritos nem no Concurso A nem no Concurso B. CERTO. Esse é o
+gabarito.
+
+Para maximizarmos o número de advogados que não estão inscritos nem no Concurso A nem no Concurso
+B, devemos maximizar o número de advogados que fazem os dois concursos. Essa situação ocorre
+justamente quando todos aqueles que fazem o concurso B também fazem o concurso A.
+
+Assim, é correto afirmar que no máximo 10 advogados não estão inscritos nem no Concurso A nem no
+Concurso B.
+
+c) no máximo 10 deles estão inscritos apenas no Concurso A. ERRADO.
+
+Para maximizar o número de pessoas inscritas apenas no Concurso A, devemos minimizar o número de
+pessoas que estão inscritas nos dois concursos.
+
+Para melhor compreensão, suponha que 𝑥 advogados estão inscritos nos dois concursos e 𝑦 advogados não
+estão inscritos nem no Concurso A nem no Concurso B. Temos a seguinte representação:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        28
+        www.estrategiaconcursos.com.br                                                            64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Veja que o número de advogados que estão inscritos apenas no Concurso A é (30 − 𝑥). Para maximizar
+(30 − 𝑥), devemos minimizar o valor de 𝑥.
+
+Sabemos que a soma das regiões do diagrama é igual a 40. Logo:
+
+                                       (30 − 𝑥) + 𝑥 + (25 − 𝑥) + 𝑦 = 40
+
+                                                55 − 𝑥 + 𝑦 = 40
+
+                                                   𝑥 = 15 + 𝑦
+
+A situação em que 𝑥 é mínimo ocorre quando 𝑦 = 0, isto é, quando zero advogados não estão inscritos nem
+no Concurso A nem no Concurso B. Ficamos com a seguinte situação:
+
+Logo, no máximo 15 advogados estão inscritos apenas no Concurso A.
+
+d) no mínimo 15 deles estão inscritos apenas no Concurso B. ERRADO.
+
+É possível que nenhuma pessoa esteja inscrita apenas no Concurso B. Esse caso ocorre quando todos que se
+inscreveram no Concurso B também se inscreveram no Concurso A.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           29
+        www.estrategiaconcursos.com.br                                                               64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+e) no mínimo 5 deles não estão inscritos nem no Concurso A nem no Concurso B. ERRADO.
+
+É possível que tenhamos zero advogados que não estão inscritos nem no Concurso A nem no Concurso B,
+conforme diagrama apresentado na alternativa C.
+
+Gabarito: Letra B.
+
+ (FGV/CM Aracaju/2021) Em uma sala há N pessoas. Uma dessas pessoas afirma: “Pelo menos 4 pessoas
+dessa sala fazem aniversário no mesmo mês”.
+Para que essa afirmativa seja obrigatoriamente verdadeira, o valor mínimo de N é:
+a) 15;
+b) 16;
+c) 36;
+d) 37;
+e) 48.
+
+Comentários:
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                     30
+         www.estrategiaconcursos.com.br                                                         64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Temos um total de 12 meses no ano. Veja que, se por "azar" tivermos 3 pessoas fazendo aniversário em cada
+um dos 12 meses, temos um total de 3 × 12 = 36 pessoas sem que 4 pessoas façam aniversário no mesmo
+mês.
+
+Partindo-se desse "caso azarado", ao adicionar mais uma pessoa, necessariamente teremos um mês em que
+4 pessoas fazem aniversário.
+
+Logo, o valor mínimo de pessoas para que pelo menos 4 façam aniversário no mesmo mês é:
+
+                                                   𝑁 = 36 + 1
+
+                                                       = 37
+
+Gabarito: Letra D.
+
+  (FGV/FunSaúde CE/2021) Em uma sala há 10 pessoas: 4 advogados, 3 engenheiros, 2 técnicos
+administrativos e 1 auditor.
+É correto afirmar que:
+a) sorteando 4 pessoas ao acaso, 2 serão advogados.
+b) sorteando 5 pessoas ao acaso, pelo menos uma delas será um engenheiro.
+c) sorteando 6 pessoas ao acaso, teremos pessoas de três profissões diferentes.
+d) sorteando 7 pessoas ao acaso, pelo menos uma será um advogado.
+e) sorteando 8 pessoas ao acaso, pelo menos uma será um técnico administrativo.
+
+Comentários:
+
+Vamos analisar as alternativas, verificando aquela que apresenta uma conclusão necessariamente
+verdadeira.
+
+a) sorteando 4 pessoas ao acaso, 2 serão advogados. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao sortear 4 pessoas, podemos obter 3
+engenheiros e 1 técnico administrativo, por exemplo.
+
+b) sorteando 5 pessoas ao acaso, pelo menos uma delas será um engenheiro. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao sortear 5 pessoas, podemos obter 4
+advogados e 1 técnico administrativo, por exemplo.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            31
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+c) sorteando 6 pessoas ao acaso, teremos pessoas de três profissões diferentes. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao sortear 6 pessoas, podemos obter 4
+advogados e 2 engenheiros, por exemplo.
+
+d) sorteando 7 pessoas ao acaso, pelo menos uma será um advogado. CERTO. Esse é o gabarito.
+
+Veja que essa conclusão é necessariamente verdadeira. Podemos pensar em um caso limite em que se evita
+obter advogados. Nesse caso, veja que podemos obter somente 6 pessoas: 3 engenheiros, 2 técnicos
+administrativos e 1 auditor.
+
+Ao sortear a sétima pessoa, note que ela necessariamente ela será um advogado. Portanto, sorteando 7
+pessoas, é necessariamente verdadeiro que pelo menos uma será um advogado.
+
+e) sorteando 8 pessoas ao acaso, pelo menos uma será um técnico administrativo. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao sortear 8 pessoas, podemos obter 4
+advogados e 3 engenheiros e 1 auditor, por exemplo.
+
+Gabarito: Letra D.
+
+  (FGV/PM CE/2021) Uma urna A contém 20 bolas vermelhas e uma urna B contém 21 bolas azuis. Essas
+são as únicas bolas nas duas urnas.
+Transferem-se, aleatoriamente, 5 bolas da urna A para a urna B.
+A seguir, também aleatoriamente, transferem-se 6 bolas da urna B para a urna A.
+É correto concluir que, ao final,
+a) há exatamente uma bola azul na urna A.
+b) há exatamente 15 bolas azuis na urna B.
+c) não há bolas vermelhas na urna B.
+d) há, no mínimo, uma bola vermelha na urna B.
+e) há, no máximo, 6 bolas azuis na urna A.
+
+Comentários:
+
+Inicialmente, temos 20 bolas vermelhas na urna A e 21 bolas azuis na urna B.
+
+Na sequência, realiza-se uma transferência de 5 bolas (que necessariamente são vermelhas) da urna A para
+a urna B. Ficamos com a seguinte configuração:
+
+   •   Urna A: 15 bolas vermelhas.
+   •   Urna B: 21 bolas azuis e 5 bolas vermelhas.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           32
+        www.estrategiaconcursos.com.br                                                               64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Depois dessa transferência, são transferidas 6 bolas quaisquer da urna B para a urna A. Com base nessa
+informação, vamos avaliar as alternativas, assinalando aquela que apresenta uma conclusão
+necessariamente verdadeira.
+
+a) há exatamente uma bola azul na urna A. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao transferir 6 bolas quaisquer da urna B
+para a urna A, podemos transferir 6 bolas azuis, por exemplo. Nesse caso, ficamos com a seguinte
+configuração:
+
+   •   Urna A: 6 bolas azuis e 15 bolas vermelhas.
+   •   Urna B: 15 bolas azuis e 5 bolas vermelhas.
+
+b) há exatamente 15 bolas azuis na urna B. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao transferir 6 bolas quaisquer da urna B
+para a urna A, podemos transferir 1 bola azul e 5 bolas vermelhas, por exemplo. Nesse caso, ficamos com a
+seguinte configuração:
+
+   •   Urna A: 1 bola azul e 20 bolas vermelhas.
+   •   Urna B: 20 bolas azuis.
+
+c) não há bolas vermelhas na urna B. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao transferir 6 bolas quaisquer da urna B
+para a urna A, podemos transferir 6 bolas azuis, por exemplo. Nesse caso, ficamos com a seguinte
+configuração:
+
+   •   Urna A: 6 bolas azuis e 15 bolas vermelhas.
+   •   Urna B: 15 bolas azuis e 5 bolas vermelhas.
+
+d) há, no mínimo, uma bola vermelha na urna B. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Isso porque, ao transferir 6 bolas quaisquer da urna B
+para a urna A, podemos transferir 1 bola azul e 5 bolas vermelhas, por exemplo. Nesse caso, ficamos com a
+seguinte configuração:
+
+   •   Urna A: 1 bola azul e 20 bolas vermelhas.
+   •   Urna B: 20 bolas azuis.
+
+e) há, no máximo, 6 bolas azuis na urna A. CERTO. Esse é o gabarito.
+
+Conforme já vimos antes de avaliarmos as alternativas, a primeira transferência nos traz a seguinte
+configuração:
+
+   •   Urna A: 15 bolas vermelhas.
+   •   Urna B: 21 bolas azuis e 5 bolas vermelhas.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            33
+        www.estrategiaconcursos.com.br                                                                64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Ao transferir 6 bolas quaisquer da urna B para a urna A, perceba que, para maximizar o número de bolas
+azuis na urna A, é necessário que essa transferência ocorra com as 6 bolas azuis. Nesse caso, ficamos com a
+seguinte configuração final:
+
+   •   Urna A: 6 bolas azuis e 15 bolas vermelhas.
+   •   Urna B: 15 bolas azuis e 5 bolas vermelhas.
+
+Portanto, é necessariamente verdadeiro que após as transferências há, no máximo, 6 bolas azuis na urna A.
+
+Gabarito: Letra E.
+
+  (FGV/IMBEL/2021) No tabuleiro representado a seguir, são colocadas 26 fichas. Cada ficha ocupa uma
+casa e cada casa ocupada só contém uma ficha.
+
+É correto afirmar que
+a) todas as colunas têm pelo menos 3 casas ocupadas.
+b) alguma linha tem, pelo menos, 6 casas ocupadas.
+c) alguma coluna não tem casas ocupadas.
+d) nenhuma coluna tem mais de 3 casas ocupadas.
+e) todas as linhas têm, pelo menos, 4 casas ocupadas.
+
+Comentários:
+
+Note que, no tabuleiro em questão, temos 5 linhas e 7 colunas. Vamos analisar as alternativas, verificando
+aquela que apresenta uma conclusão necessariamente verdadeira.
+
+a) todas as colunas têm pelo menos 3 casas ocupadas. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Veja que, com as 26 fichas, podemos ocupar o tabuleiro
+do seguinte modo, por exemplo.
+
+                                           X    X    X    X    X   X
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              34
+        www.estrategiaconcursos.com.br                                                                  64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+b) alguma linha tem, pelo menos, 6 casas ocupadas. CERTO. Esse é o gabarito.
+
+Nessa alternativa, devemos testar o caso limite.
+
+Temos 5 linhas. Veja que, se evitarmos a possibilidade de ocupar 6 casas em uma linha, podemos ocupar,
+no máximo, 5 × 5 = 25 casas.
+
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+
+Partindo-se desse caso limite, ao se adicionar mais uma ficha no tabuleiro, de modo a totalizar 26,
+necessariamente teremos uma linha com 6 casas ocupadas.
+
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+                                           X    X    X    X    X
+                                           X    X    X    X    X   X
+                                           X    X    X    X    X
+
+Logo, é correto afirmar que necessariamente alguma linha tem, pelo menos, 6 casas ocupadas.
+
+c) alguma coluna não tem casas ocupadas. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. Veja que, com as 26 fichas, podemos ocupar o tabuleiro
+do seguinte modo, por exemplo.
+
+                                           X    X    X    X    X   X     X
+                                           X    X    X    X    X   X     X
+                                           X    X    X    X    X   X
+                                           X    X    X    X    X   X
+
+
+d) nenhuma coluna tem mais de 3 casas ocupadas. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. O exemplo da alternativa C mostra que podemos ter
+colunas com 3 casas ocupadas.
+
+e) todas as linhas têm, pelo menos, 4 casas ocupadas. ERRADO.
+
+Essa conclusão não é necessariamente verdadeira. O exemplo da alternativa C mostra que podemos ter
+linhas sem nenhuma casa ocupada.
+
+Gabarito: Letra B.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          35
+        www.estrategiaconcursos.com.br                                                              64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+  (FGV/Pref Angra/2019) Uma urna X contém apenas 17 bolas azuis e uma urna Y contém apenas 13 bolas
+vermelhas. Treze bolas são passadas da urna X para a urna Y e, a seguir, onze bolas escolhidas
+aleatoriamente são passadas da urna Y para a urna X.
+Após essas transferências, é correto afirmar que
+a) há treze bolas azuis na urna Y.
+b) há onze bolas vermelhas na urna X.
+c) há, no mínimo, quatro bolas azuis na urna X.
+d) há, no mínimo, seis bolas vermelhas na urna Y.
+e) o número de bolas vermelhas na urna X é igual ao número de bolas azuis na urna Y.
+
+Comentários:
+
+Inicialmente, temos 17 bolas azuis na urna X e 13 bolas vermelhas na urna Y.
+
+Na sequência, realiza-se uma transferência de 13 bolas (que necessariamente são azuis) da urna X para a
+urna Y. Ficamos com a seguinte configuração:
+
+   •   Urna X: 4 bolas azuis.
+   •   Urna Y: 13 bolas azuis e 13 bolas vermelhas.
+
+Depois dessa transferência, são transferidas 11 bolas quaisquer da urna Y para a urna X. Com base nessa
+informação, vamos avaliar as alternativas, assinalando aquela que apresenta uma conclusão
+necessariamente verdadeira.
+
+a) há treze bolas azuis na urna Y. ERRADO.
+
+b) há onze bolas vermelhas na urna X. ERRADO.
+
+Essas duas conclusões não são necessariamente verdadeiras. Isso porque, ao transferir 11 bolas quaisquer
+da urna Y para a urna X, podemos transferir 11 bolas azuis, por exemplo. Nesse caso, ficamos com a seguinte
+configuração:
+
+   •   Urna X: 15 bolas azuis.
+   •   Urna Y: 2 bolas azuis e 13 bolas vermelhas.
+
+c) há, no mínimo, quatro bolas azuis na urna X. CERTO. Esse é o gabarito.
+
+Ao transferir 11 bolas quaisquer da urna Y para a urna X, perceba que, para minimizar o número de bolas
+azuis na urna X, é necessário que essa transferência ocorra com 11 bolas vermelhas. Nesse caso, ficamos
+com a seguinte configuração final:
+
+   •   Urna X: 4 bolas azuis e 11 bolas vermelhas.
+   •   Urna Y: 13 bolas azuis e 2 bolas vermelhas.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              36
+        www.estrategiaconcursos.com.br                                                                  64
+
+                                     
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+Portanto, é necessariamente verdadeiro que após as transferências há, no mínimo, quatro bolas azuis na
+urna X.
+
+d) há, no mínimo, seis bolas vermelhas na urna Y. ERRADO.
+
+e) o número de bolas vermelhas na urna X é igual ao número de bolas azuis na urna Y. ERRADO.
+
+Essas duas conclusões não são necessariamente verdadeiras. Conforme visto na alternativa C, se a última
+transferência ocorrer com 11 bolas vermelhas, por exemplo, ficaremos com a seguinte configuração
+possível:
+
+    •    Urna X: 4 bolas azuis 11 bolas vermelhas.
+    •    Urna Y: 13 bolas azuis e 2 bolas vermelhas.
+
+Gabarito: Letra C.
+
+   (FGV/Pref. Salvador/2019) Um baralho contém 13 cartas de cada um dos naipes: ouros, copas, espadas
+e paus. Ao todo, são 52 cartas (13×4).
+Com as cartas embaralhadas e, sem ver qualquer uma delas, o número mínimo de cartas que devem ser
+retiradas desse baralho para que se tenha a certeza que existam, entre elas, pelo menos 5 cartas do mesmo
+naipe é
+a) 6.
+b) 17.
+c) 25.
+d) 26.
+e) 31.
+
+Comentários:
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Ao retirar as cartas do baralho, poderíamos ter um "caso azarado" em que retiramos 4 cartas de ouros, 4 de
+copas, 4 de espadas e 4 de paus. Nesse caso, temos um total de 16 cartas retiradas sem que se tenha pelo
+menos 5 cartas do mesmo naipe.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 17ª carta teremos pelo menos 5 cartas do
+mesmo naipe.
+
+Logo, ao retirarmos 17 cartas, com certeza teremos pelo menos 5 cartas do mesmo naipe. O gabarito,
+portanto, é letra B.
+
+Gabarito: Letra B.
+
+          Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           37
+          www.estrategiaconcursos.com.br                                                               64
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+    (FGV/ALERO/2018) Em uma gaveta há 4 meias brancas, 6 meias pretas e 8 meias azuis.
+O número mínimo de meias que deve ser retirado da gaveta, sem lhes ver a cor, para ter certeza de haver
+retirado pelo menos duas meias azuis é
+a) 4.
+b) 6.
+c) 8.
+d) 10.
+e) 12.
+
+Comentários:
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Ao retirar as meias da gaveta, poderíamos ter um "caso azarado" em que retiramos 4 meias brancas, 6 meias
+pretas e 1 meia azul. Nesse caso, temos um total de 11 meias retiradas sem que se tenha duas meias azuis.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 12ª meia teremos duas meias azuis.
+
+Logo, ao retirarmos 12 meias, com certeza teremos duas meias azuis. O gabarito, portanto, é letra E.
+
+Gabarito: Letra E.
+
+   (FGV/Pref. Salvador/2019) Em uma classe de 20 estudantes, 12 são meninas. Além disso, dos 20
+estudantes, 15 gostam de Matemática.
+É correto concluir que
+a) nenhuma menina gosta de Matemática.
+b) todas as meninas gostam de Matemática.
+c) no máximo 7 meninas gostam de Matemática.
+d) no mínimo 7 meninas gostam de Matemática.
+e) exatamente 7 meninas gostam de Matemática.
+
+Comentários:
+
+Observe que, se de 20 estudantes 12 são meninas, temos que 20 − 12 = 8 são meninos. Portanto, temos os
+seguintes dados que podem ser extraídos do enunciado:
+
+    •    12 estudantes são meninas;
+    •    8 estudantes são meninos; e
+    •    15 estudantes gostam de Matemática.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            38
+         www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Note que, se testarmos o "caso azarado" em que todos os 8 meninos gostam de Matemática, ainda assim
+teríamos 15−8 = 7 estudantes que gostam de Matemática. Esses estudantes necessariamente serão
+meninas, de modo que, inevitavelmente, no mínimo 7 meninas gostam de Matemática. O gabarito,
+portanto, é letra D.
+
+Vamos agora avaliar as outras alternativas.
+
+Com base nos dados apresentados pelo problema, observe que não temos restrições quanto ao número
+máximo de meninas que podem gostar de Matemática, contanto que esse número não ultrapasse o total
+de meninas.
+
+Poderíamos, por exemplo, ter 10 meninas que gostam de matemática. Nesse caso:
+
+    •    10 meninas gostam de matemática;
+    •    12 − 10 = 2 meninas não gostam de matemática;
+    •    15 − 10 = 5 meninos gostam de matemática;
+    •    8 − 5 = 3 meninos não gostam de matemática.
+
+Observe que o caso apresentado respeita os dados do enunciado. Com base nesse exemplo, podemos
+eliminar as alternativas A, B, C e E.
+
+Gabarito: Letra D.
+
+  (FGV/MPE RJ/2019) Um saco contém bolas brancas, vermelhas, azuis e pretas, sendo 5 de cada cor.
+Antônio retirou no escuro certa quantidade de bolas e disse: “Entre as bolas que retirei, há três da mesma
+cor”.
+Para que a frase dita por Antônio seja obrigatoriamente verdadeira, o número mínimo de bolas que ele
+retirou do saco é:
+a) 9;
+b) 10;
+c) 11;
+d) 12;
+e) 13.
+
+Comentários:
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Ao retirar as bolas do saco, poderíamos ter um "caso azarado" em que retiramos 2 bolas brancas, 2
+vermelhas, 2 azuis e 2 pretas. Nesse caso, temos um total de 8 bolas retiradas sem que se tenha três da
+mesma cor.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 9ª bola teremos três bolas da mesma cor.
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            39
+         www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Logo, ao retirarmos 9 bolas, obrigatoriamente teremos três bolas da mesma cor. O gabarito, portanto, é
+letra A.
+
+Gabarito: Letra A.
+
+   (FGV/TJ SC/2018) Em uma urna há 5 bolas amarelas, 7 bolas verdes e 4 bolas azuis. O número mínimo
+de bolas a ser retirado aleatoriamente da urna, sem lhes ver a cor, para se ter certeza de que serão
+retiradas pelo menos duas bolas verdes é:
+a) 14;
+b) 13;
+c) 11;
+d) 9;
+e) 8.
+
+Comentários:
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Ao retirar as bolas da urna, poderíamos ter um "caso azarado" em que retiramos 5 bolas amarelas, 4 azuis
+e 1 verde. Nesse caso, temos um total de 10 bolas retiradas sem que se tenha duas bolas verdes.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 11ª bola teremos duas bolas verdes.
+
+Logo, ao retirarmos 11 bolas, obrigatoriamente teremos duas bolas verdes. O gabarito, portanto, é letra C.
+
+Gabarito: Letra C.
+
+   (FGV/BANESTES/2018) Em uma gaveta há 9 meias brancas, 10 meias pretas e 11 meias vermelhas. O
+número mínimo de meias que devem ser retiradas da gaveta, sem lhes ver a cor, para ter certeza de haver
+retirado pelo menos duas meias pretas é:
+a) 2;
+b) 19;
+c) 20;
+d) 21;
+e) 22.
+
+Comentários:
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            40
+         www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Ao retirar as meias das gavetas, poderíamos ter um "caso azarado" em que retiramos 9 meias brancas, 11
+vermelhas e 1 preta. Nesse caso, temos um total de 21 meias retiradas sem que se tenha duas meias pretas.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 22ª meia teremos duas meias pretas.
+
+Logo, ao retirarmos 22 meias, com certeza teremos duas meias pretas. O gabarito, portanto, é letra E.
+
+Gabarito: Letra E.
+
+   (FGV/CGM Niterói/2018) Em uma urna há 3 bolas vermelhas, 5 bolas verdes, 4 bolas brancas e 6 bolas
+pretas. Retiram-se, aleatoriamente, N bolas da urna.
+O valor mínimo de N, para que possamos garantir que entre as N bolas retiradas haja pelo menos duas
+bolas vermelhas, é                                      ==219a34==
+
+a) 17.
+b) 16.
+c) 15.
+d) 14.
+e) 2.
+
+Comentários:
+
+Nessa questão, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Ao retirar as bolas da urna, poderíamos ter um "caso azarado" em que retiramos 1 bola vermelha, 5 verdes,
+4 brancas e 6 pretas. Nesse caso, temos um total de 16 bolas retiradas sem que se tenha duas bolas
+vermelhas.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 17ª bola teremos duas bolas vermelhas.
+
+Logo, ao retirarmos 17 bolas, podemos garantir que teremos duas bolas vermelhas. O gabarito, portanto, é
+letra A.
+
+Gabarito: Letra A.
+
+    (FGV/CGM/2018) Em um saco há 10 fichas iguais na forma e no tamanho, porém de 4 cores diferentes:
+4 são brancas, 3 são pretas, 2 são azuis e 1 é vermelha.
+É correto afirmar que, retirando do saco, ao acaso,
+a) 4 fichas, cada ficha terá uma cor diferente.
+b) 6 fichas, teremos fichas de apenas 3 cores.
+c) 7 fichas, pelo menos uma delas será branca.
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             41
+         www.estrategiaconcursos.com.br                                                                 64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+d) 5 fichas, uma delas será preta.
+e) 8 fichas, pelo menos uma delas será azul.
+
+Comentários:
+
+No saco, temos 4 fichas brancas, 3 pretas, 2 azuis e 1 vermelha. Vamos verificar cada alternativa.
+
+a) Ao retirar 4 fichas, cada ficha terá uma cor diferente. ERRADO.
+
+Ao retirar 4 fichas, podemos tirar as 4 brancas. Logo, não necessariamente cada ficha retirada terá uma cor
+diferente.
+
+b) Ao retirar 6 fichas, teremos fichas de apenas 3 cores. ERRADO.
+
+Ao retirar 6 fichas, podemos tirar as 2 brancas, 1 preta, 1 azul e 1 vermelha. Logo, não necessariamente
+teremos fichas de apenas 3 cores
+
+c) Ao retirar 7 fichas, pelo menos uma delas será branca. CERTO.
+
+Nessa alternativa, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Ao retirar as fichas do saco, poderíamos ter um "caso azarado" em que retiramos 3 pretas, 2 azuis e 1
+vermelha. Nesse caso, temos um total de 6 fichas retiradas sem que se tenha uma ficha branca.
+
+Note que, mesmo no caso mais azarado possível, ao retirar a 7ª ficha teremos uma ficha branca.
+
+Logo, ao retirarmos 7 fichas, podemos garantir que pelo menos uma delas será branca. O gabarito, portanto,
+é letra C.
+
+d) Ao retirar 5 fichas, uma delas será preta. ERRADO.
+
+Ao retirar 5 fichas, podemos tirar as 4 brancas e 1 azul. Logo, não necessariamente teremos alguma ficha
+preta.
+
+e) Ao retirar 8 fichas, pelo menos uma delas será azul. ERRADO.
+
+Ao retirar 8 fichas, podemos tirar as 4 brancas, as 3 pretas e a única vermelha. Logo, não necessariamente
+teremos alguma ficha azul.
+
+Gabarito: Letra C.
+
+   (FGV/ALERO/2018) Sete crianças brincam com um jogo em que cada partida tem um só vencedor.
+Como as partidas são rápidas, em uma tarde elas jogaram 50 partidas.
+É correto afirmar que
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              42
+        www.estrategiaconcursos.com.br                                                                  64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+a) cada uma das crianças venceu, pelo menos, 5 partidas.
+b) uma das crianças venceu exatamente 7 partidas.
+c) é possível que todas elas tenham vencido mesmo número de partidas.
+d) 4 crianças venceram 8 partidas cada uma e 3 crianças venceram 6 partidas cada uma.
+e) uma delas venceu, pelo menos, 8 partidas.
+
+Comentários:
+
+Vamos avaliar cada alternativa.
+
+a) cada uma das crianças venceu, pelo menos, 5 partidas. ERRADO.
+
+Não podemos dizer que cada uma das crianças venceu, pelo menos, 5 partidas. Isso porque, pelos dados
+apresentados no enunciado, poderíamos ter uma única criança que venceu as 50 partidas.
+
+b) uma das crianças venceu exatamente 7 partidas. ERRADO.
+
+Novamente, pelos dados do problema, poderíamos ter uma única criança que venceu as 50 partidas. Logo,
+não se pode afirmar que uma das crianças venceu exatamente 7 partidas.
+
+c) é possível que todas elas tenham vencido mesmo número de partidas. ERRADO.
+
+Ao dividir as 50 partidas pelas 7 crianças, obtemos o quociente 7 e resto 1. Isso significa que não é possível
+que todas tenham vencido o mesmo número de partidas.
+
+d) 4 crianças venceram 8 partidas cada uma e 3 crianças venceram 6 partidas cada uma. ERRADO.
+
+Novamente, pelos dados do problema, poderíamos ter uma única criança que venceu as 50 partidas. Logo,
+não se pode afirmar que 4 crianças venceram 8 partidas cada uma e 3 crianças venceram 6 partidas cada
+uma.
+
+e) uma delas venceu, pelo menos, 8 partidas. CERTO.
+
+Nessa alternativa, devemos testar o caso limite, ou seja, o "caso azarado".
+
+Note que, se por "azar" cada criança ganhou 7 partidas, temos um total de 7×7 = 49 partidas jogadas.
+
+Note que, mesmo no caso mais azarado possível, ao realizar o 50ª jogo teremos uma criança que venceu 8
+partidas.
+
+Logo, ao realizar 50 partidas, podemos garantir que uma criança venceu, pelo menos, 8 partidas. O gabarito,
+portanto, é letra E.
+
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                 43
+        www.estrategiaconcursos.com.br                                                                     64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+   (FGV/TRT 12/2017) Uma gaveta A tem sete canetas vermelhas e uma gaveta B tem sete canetas azuis.
+Essas são as únicas canetas contidas nas duas gavetas. Retiram-se três canetas da gaveta A, que são então
+colocadas na gaveta B. Agora, retiram-se, aleatoriamente, quatro canetas da gaveta B, que são então
+colocadas na gaveta A.
+Após essas transferências, é correto afirmar que:
+a) só ficaram canetas azuis na gaveta B;
+b) só ficaram canetas vermelhas na gaveta A;
+c) há pelo menos uma caneta vermelha na gaveta B;
+d) há pelo menos uma caneta azul na gaveta A;
+e) há mais canetas azuis na gaveta B do que canetas vermelhas na gaveta A.
+
+Comentários:
+
+Inicialmente, a gaveta A tem 7 canetas vermelhas e a gaveta B tem 7 canetas azuis. Ao retirar 3 canetas da
+gaveta A e colocar na gaveta B, ficamos com a seguinte distribuição:
+
+   •   Gaveta A: 4 canetas vermelhas;
+   •   Gaveta B: 3 canetas vermelhas e 7 canetas azuis.
+
+Na sequência, foram retiradas 4 canetas da gaveta B para serem colocadas na gaveta A.
+
+Note que, mesmo no "caso azarado" em que retiramos todas as 3 canetas vermelhas da gaveta B, ao
+retirarmos um total de 4 canetas temos que ao menos uma caneta retirada é azul.
+
+Como as canetas retiradas de B foram colocadas na gaveta A, é correto afirmar que há pelo menos uma
+caneta azul na gaveta A.
+
+Gabarito: Letra D.
+
+   (FGV/MPE RJ/2016) Trabalham em um escritório 11 pessoas, sendo que, no assunto futebol, 3 são
+vascaínos, 2 são tricolores, 2 são botafoguenses e 4 são flamenguistas.
+É correto afirmar que:
+a) em qualquer grupo de 7 dessas pessoas há, pelo menos, um vascaíno;
+b) em qualquer grupo de 6 dessas pessoas há torcedores de, pelo menos, três times;
+c) em qualquer grupo de 8 dessas pessoas há, pelo menos, um flamenguista;
+d) em qualquer grupo de 5 dessas pessoas há, pelo menos, um botafoguense;
+e) em qualquer grupo de 4 dessas pessoas há, pelo menos, duas pessoas que torcem pelo mesmo time.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             44
+        www.estrategiaconcursos.com.br                                                                 64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Vamos comentar cada alternativa, sabendo que temos 3 vascaínos, 2 tricolores, 2 botafoguenses e 4
+flamenguistas.
+
+a) em qualquer grupo de 7 dessas pessoas há, pelo menos, um vascaíno. ERRADO.
+
+Podemos ter um grupo de 7 pessoas com 1 tricolor, 2 botafoguenses e 4 flamenguistas.
+
+b) em qualquer grupo de 6 dessas pessoas há torcedores de, pelo menos, três times. ERRADO.
+
+Podemos ter um grupo de 6 pessoas com 2 vascaínos e 4 flamenguistas.
+
+c) em qualquer grupo de 8 dessas pessoas há, pelo menos, um flamenguista. CERTO.
+
+Se selecionarmos pessoas para formar um grupo evitando flamenguistas, poderíamos selecionar todos os 3
+vascaínos, os 2 tricolores e os 4 botafoguenses. Nesse "caso limite", temos um total de 7 pessoas.
+
+Para formar um grupo de 8 pessoas, note que mesmo no caso mais "azarado" possível inevitavelmente
+selecionaremos um flamenguista.
+
+Logo, é correto afirmar que em qualquer grupo de 8 pessoas há, pelo menos, um flamenguista.
+
+d) em qualquer grupo de 5 dessas pessoas há, pelo menos, um botafoguense. ERRADO.
+
+Podemos ter um grupo de 5 pessoas com 1 tricolor e 4 flamenguistas.
+
+e) em qualquer grupo de 4 dessas pessoas há, pelo menos, duas pessoas que torcem pelo mesmo time.
+ERRADO.
+
+Podemos ter um grupo de 4 pessoas com 1 vascaíno, 1 tricolor, 1 botafoguense e 1 flamenguista.
+
+Gabarito: Letra C.
+
+   (FGV/Pref. Salvador/2019) Pedro tem 33 moedas e um tabuleiro quadriculado com 5 linhas e 10
+colunas. Após Pedro colocar todas as suas moedas no tabuleiro, uma por quadrícula, é verdade que
+a) nenhuma linha do tabuleiro ficou vazia.
+b) pelo menos uma linha do tabuleiro ficou vazia.
+c) alguma linha do tabuleiro ficou com exatamente 3 moedas.
+d) alguma linha do tabuleiro ficou com mais de 6 moedas.
+e) alguma linha do tabuleiro ficou com exatamente 6 moedas.
+
+Comentários:
+
+Vamos analisar cada alternativa.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         45
+        www.estrategiaconcursos.com.br                                                             64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+a) nenhuma linha do tabuleiro ficou vazia. ERRADO.
+
+Podemos ter uma linha vazia, conforme o exemplo abaixo:
+
+b) pelo menos uma linha do tabuleiro ficou vazia. ERRADO.
+
+c) alguma linha do tabuleiro ficou com exatamente 3 moedas. ERRADO.
+
+e) alguma linha do tabuleiro ficou com exatamente 6 moedas. ERRADO.
+
+Podemos colocar no tabuleiro as 33 moedas de modo que:
+
+   •   Nenhuma linha fique vazia;
+   •   Nenhuma linha tenha exatamente 3 moedas; e
+   •   Nenhuma linha tenha exatamente 6 moedas.
+
+Abaixo, temos um contraexemplo que contradiz as alternativas B, C e E.
+
+d) alguma linha do tabuleiro ficou com mais de 6 moedas. CERTO.
+
+Nessa alternativa, devemos testar o caso limite.
+
+Note que, ao evitar que tenhamos mais de 6 moedas em uma das 5 linhas, podemos fazer uso de, no
+máximo, 6×5 = 30 moedas:
+
+Devemos adicionar mais 3 moedas no tabuleiro para totalizar as 33 moedas. Note que, inevitavelmente,
+alguma linha necessariamente ficará com mais de 6 moedas. Exemplos:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                       46
+        www.estrategiaconcursos.com.br                                                           64
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+Veja, portanto, que não é possível fazer com que todas as linhas fiquem com 6 moedas ou menos. Logo,
+necessariamente alguma linha do tabuleiro ficou com mais de 6 moedas.
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                       47
+        www.estrategiaconcursos.com.br                                                           64
+
+                                    
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+                                LISTA DE QUESTÕES – FGV
+
+Outros casos de aplicação do princípio
+
+  (FGV/TRT MA/2022) Uma urna tem 15 bolas. Sobre essas bolas, sabe-se que:
+• Pelo menos 3 delas são azuis.
+• Dadas 4 quaisquer dessas bolas, pelo menos uma não é azul.
+É correto concluir que
+a) exatamente 11 dessas bolas são azuis.
+b) exatamente 11 dessas bolas não são azuis.
+c) pelo menos 4 dessas bolas são azuis.
+d) exatamente 12 dessas bolas não são azuis.
+e) no máximo 4 dessas bolas não são azuis.
+
+
+  (FGV/SEFAZ ES/2022) Em um grupo de 70 pessoas, há 50 capixabas e 40 torcedores do Vasco.
+Em relação a esse grupo de pessoas, é correto concluir que
+a) no máximo 20 são capixabas torcedores do Vasco.
+b) no mínimo 20 não são nem capixabas nem torcedores do Vasco.
+c) exatamente 30 são capixabas não torcedores do Vasco.
+d) no máximo 40 são capixabas torcedores do Vasco.
+e) é possível que nenhuma delas seja capixaba torcedor do Vasco.
+
+
+  (FGV/MPE GO/2022) Em uma urna há 3 bolas brancas, 4 amarelas, 5 vermelhas e 6 pretas. São retiradas
+ao acaso dessa urna N bolas.
+Se há certeza de que, entre as bolas retiradas há, pelo menos, uma bola amarela ou uma bola preta, o
+menor valor possível de N é
+a) 8.
+b) 9.
+c) 10.
+d) 11.
+e) 12.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                       48
+         www.estrategiaconcursos.com.br                                                           64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+  (FGV/TJ TO/2022) Em um grupo de 40 advogados, 30 estão inscritos para um Concurso A e 25 estão
+inscritos para um Concurso B. É correto concluir que:
+a) no máximo 15 deles estão inscritos nos dois concursos;
+b) no máximo 10 deles não estão inscritos nem no Concurso A nem no Concurso B;
+c) no máximo 10 deles estão inscritos apenas no Concurso A;
+d) no mínimo 15 deles estão inscritos apenas no Concurso B;
+e) no mínimo 5 deles não estão inscritos nem no Concurso A nem no Concurso B.
+
+
+ (FGV/CM Aracaju/2021) Em uma sala há N pessoas. Uma dessas pessoas afirma: “Pelo menos 4 pessoas
+dessa sala fazem aniversário no mesmo mês”.
+Para que essa afirmativa seja obrigatoriamente verdadeira, o valor mínimo de N é:
+a) 15;
+b) 16;
+c) 36;
+d) 37;
+e) 48.
+
+
+  (FGV/FunSaúde CE/2021) Em uma sala há 10 pessoas: 4 advogados, 3 engenheiros, 2 técnicos
+administrativos e 1 auditor.
+É correto afirmar que:
+a) sorteando 4 pessoas ao acaso, 2 serão advogados.
+b) sorteando 5 pessoas ao acaso, pelo menos uma delas será um engenheiro.
+c) sorteando 6 pessoas ao acaso, teremos pessoas de três profissões diferentes.
+d) sorteando 7 pessoas ao acaso, pelo menos uma será um advogado.
+e) sorteando 8 pessoas ao acaso, pelo menos uma será um técnico administrativo.
+
+
+  (FGV/PM CE/2021) Uma urna A contém 20 bolas vermelhas e uma urna B contém 21 bolas azuis. Essas
+são as únicas bolas nas duas urnas.
+Transferem-se, aleatoriamente, 5 bolas da urna A para a urna B.
+A seguir, também aleatoriamente, transferem-se 6 bolas da urna B para a urna A.
+É correto concluir que, ao final,
+a) há exatamente uma bola azul na urna A.
+b) há exatamente 15 bolas azuis na urna B.
+
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                   49
+         www.estrategiaconcursos.com.br                                                       64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+c) não há bolas vermelhas na urna B.
+d) há, no mínimo, uma bola vermelha na urna B.
+e) há, no máximo, 6 bolas azuis na urna A.
+
+
+  (FGV/IMBEL/2021) No tabuleiro representado a seguir, são colocadas 26 fichas. Cada ficha ocupa uma
+casa e cada casa ocupada só contém uma ficha.
+
+É correto afirmar que
+a) todas as colunas têm pelo menos 3 casas ocupadas.
+b) alguma linha tem, pelo menos, 6 casas ocupadas.
+c) alguma coluna não tem casas ocupadas.
+d) nenhuma coluna tem mais de 3 casas ocupadas.
+e) todas as linhas têm, pelo menos, 4 casas ocupadas.
+
+
+ (FGV/Pref Angra/2019) Uma urna X contém apenas 17 bolas azuis e uma urna Y contém apenas 13 bolas
+vermelhas. Treze bolas são passadas da urna X para a urna Y e, a seguir, onze bolas escolhidas
+aleatoriamente são passadas da urna Y para a urna X.
+Após essas transferências, é correto afirmar que
+a) há treze bolas azuis na urna Y.
+b) há onze bolas vermelhas na urna X.
+c) há, no mínimo, quatro bolas azuis na urna X.
+d) há, no mínimo, seis bolas vermelhas na urna Y.
+e) o número de bolas vermelhas na urna X é igual ao número de bolas azuis na urna Y.
+
+
+   (FGV/Pref. Salvador/2019) Um baralho contém 13 cartas de cada um dos naipes: ouros, copas, espadas
+e paus. Ao todo, são 52 cartas (13×4).
+Com as cartas embaralhadas e, sem ver qualquer uma delas, o número mínimo de cartas que devem ser
+retiradas desse baralho para que se tenha a certeza que existam, entre elas, pelo menos 5 cartas do mesmo
+naipe é
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            50
+        www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+a) 6.
+b) 17.
+c) 25.
+d) 26.
+e) 31.
+
+
+    (FGV/ALERO/2018) Em uma gaveta há 4 meias brancas, 6 meias pretas e 8 meias azuis.
+O número mínimo de meias que deve ser retirado da gaveta, sem lhes ver a cor, para ter certeza de haver
+retirado pelo menos duas meias azuis é
+a) 4.
+b) 6.
+c) 8.
+d) 10.
+e) 12.
+
+
+   (FGV/Pref. Salvador/2019) Em uma classe de 20 estudantes, 12 são meninas. Além disso, dos 20
+estudantes, 15 gostam de Matemática.
+É correto concluir que
+a) nenhuma menina gosta de Matemática.
+b) todas as meninas gostam de Matemática.
+c) no máximo 7 meninas gostam de Matemática.
+d) no mínimo 7 meninas gostam de Matemática.
+e) exatamente 7 meninas gostam de Matemática.
+
+
+   (FGV/MPE RJ/2019) Um saco contém bolas brancas, vermelhas, azuis e pretas, sendo 5 de cada cor.
+Antônio retirou no escuro certa quantidade de bolas e disse: “Entre as bolas que retirei, há três da mesma
+cor”.
+Para que a frase dita por Antônio seja obrigatoriamente verdadeira, o número mínimo de bolas que ele
+retirou do saco é:
+a) 9;
+b) 10;
+c) 11;
+d) 12;
+e) 13.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            51
+         www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+   (FGV/TJ SC/2018) Em uma urna há 5 bolas amarelas, 7 bolas verdes e 4 bolas azuis. O número mínimo
+de bolas a ser retirado aleatoriamente da urna, sem lhes ver a cor, para se ter certeza de que serão
+retiradas pelo menos duas bolas verdes é:
+a) 14;
+b) 13;
+c) 11;
+d) 9;
+e) 8.
+
+
+   (FGV/BANESTES/2018) Em uma gaveta há 9 meias brancas, 10 meias pretas e 11 meias vermelhas. O
+número mínimo de meias que devem ser retiradas da gaveta, sem lhes ver a cor, para ter certeza de haver
+                                                        ==219a34==
+
+retirado pelo menos duas meias pretas é:
+a) 2;
+b) 19;
+c) 20;
+d) 21;
+e) 22.
+
+
+   (FGV/CGM Niterói/2018) Em uma urna há 3 bolas vermelhas, 5 bolas verdes, 4 bolas brancas e 6 bolas
+pretas. Retiram-se, aleatoriamente, N bolas da urna.
+O valor mínimo de N, para que possamos garantir que entre as N bolas retiradas haja pelo menos duas
+bolas vermelhas, é
+a) 17.
+b) 16.
+c) 15.
+d) 14.
+e) 2.
+
+
+    (FGV/CGM/2018) Em um saco há 10 fichas iguais na forma e no tamanho, porém de 4 cores diferentes:
+4 são brancas, 3 são pretas, 2 são azuis e 1 é vermelha.
+É correto afirmar que, retirando do saco, ao acaso,
+a) 4 fichas, cada ficha terá uma cor diferente.
+b) 6 fichas, teremos fichas de apenas 3 cores.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         52
+         www.estrategiaconcursos.com.br                                                             64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+c) 7 fichas, pelo menos uma delas será branca.
+d) 5 fichas, uma delas será preta.
+e) 8 fichas, pelo menos uma delas será azul.
+
+
+   (FGV/ALERO/2018) Sete crianças brincam com um jogo em que cada partida tem um só vencedor.
+Como as partidas são rápidas, em uma tarde elas jogaram 50 partidas.
+É correto afirmar que
+a) cada uma das crianças venceu, pelo menos, 5 partidas.
+b) uma das crianças venceu exatamente 7 partidas.
+c) é possível que todas elas tenham vencido mesmo número de partidas.
+d) 4 crianças venceram 8 partidas cada uma e 3 crianças venceram 6 partidas cada uma.
+e) uma delas venceu, pelo menos, 8 partidas.
+
+
+    (FGV/TRT 12/2017) Uma gaveta A tem sete canetas vermelhas e uma gaveta B tem sete canetas azuis.
+Essas são as únicas canetas contidas nas duas gavetas. Retiram-se três canetas da gaveta A, que são então
+colocadas na gaveta B. Agora, retiram-se, aleatoriamente, quatro canetas da gaveta B, que são então
+colocadas na gaveta A.
+Após essas transferências, é correto afirmar que:
+a) só ficaram canetas azuis na gaveta B;
+b) só ficaram canetas vermelhas na gaveta A;
+c) há pelo menos uma caneta vermelha na gaveta B;
+d) há pelo menos uma caneta azul na gaveta A;
+e) há mais canetas azuis na gaveta B do que canetas vermelhas na gaveta A.
+
+
+   (FGV/MPE RJ/2016) Trabalham em um escritório 11 pessoas, sendo que, no assunto futebol, 3 são
+vascaínos, 2 são tricolores, 2 são botafoguenses e 4 são flamenguistas.
+É correto afirmar que:
+a) em qualquer grupo de 7 dessas pessoas há, pelo menos, um vascaíno;
+b) em qualquer grupo de 6 dessas pessoas há torcedores de, pelo menos, três times;
+c) em qualquer grupo de 8 dessas pessoas há, pelo menos, um flamenguista;
+d) em qualquer grupo de 5 dessas pessoas há, pelo menos, um botafoguense;
+e) em qualquer grupo de 4 dessas pessoas há, pelo menos, duas pessoas que torcem pelo mesmo time.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            53
+        www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+   (FGV/Pref. Salvador/2019) Pedro tem 33 moedas e um tabuleiro quadriculado com 5 linhas e 10
+colunas. Após Pedro colocar todas as suas moedas no tabuleiro, uma por quadrícula, é verdade que
+a) nenhuma linha do tabuleiro ficou vazia.
+b) pelo menos uma linha do tabuleiro ficou vazia.
+c) alguma linha do tabuleiro ficou com exatamente 3 moedas.
+d) alguma linha do tabuleiro ficou com mais de 6 moedas.
+e) alguma linha do tabuleiro ficou com exatamente 6 moedas.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         54
+        www.estrategiaconcursos.com.br                                                             64
+
+                                    
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 10
+
+                                        GABARITO – FGV
+
+Outros casos de aplicação do princípio
+
+ LETRA D                                   LETRA B                          LETRA E
+ LETRA D                                   LETRA C                          LETRA A
+ LETRA B                                    LETRA B                         LETRA C
+ LETRA B                                    LETRA E                         LETRA E
+ LETRA D                                    LETRA D                         LETRA D
+ LETRA D                                    LETRA A                         LETRA C
+ LETRA E                                    LETRA C                         LETRA D
+
+       Receita Federal (Analista Tributário) Raciocínio Lógico Matemático             55
+       www.estrategiaconcursos.com.br                                                 64
+
+                                   
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+                                LISTA DE QUESTÕES – FGV
+
+Outros casos de aplicação do princípio
+
+  (FGV/SEFAZ ES/2022) Em um grupo de 70 pessoas, há 50 capixabas e 40 torcedores do Vasco.
+Em relação a esse grupo de pessoas, é correto concluir que
+a) no máximo 20 são capixabas torcedores do Vasco.
+b) no mínimo 20 não são nem capixabas nem torcedores do Vasco.
+c) exatamente 30 são capixabas não torcedores do Vasco.
+d) no máximo 40 são capixabas torcedores do Vasco.
+e) é possível que nenhuma delas seja capixaba torcedor do Vasco.
+
+
+  (FGV/MPE GO/2022) Em uma urna há 3 bolas brancas, 4 amarelas, 5 vermelhas e 6 pretas. São retiradas
+ao acaso dessa urna N bolas.
+Se há certeza de que, entre as bolas retiradas há, pelo menos, uma bola amarela ou uma bola preta, o
+menor valor possível de N é
+a) 8.
+b) 9.
+c) 10.
+d) 11.
+e) 12.
+
+
+   (FGV/TJ TO/2022) Em um grupo de 40 advogados, 30 estão inscritos para um Concurso A e 25 estão
+inscritos para um Concurso B. É correto concluir que:
+a) no máximo 15 deles estão inscritos nos dois concursos;
+b) no máximo 10 deles não estão inscritos nem no Concurso A nem no Concurso B;
+c) no máximo 10 deles estão inscritos apenas no Concurso A;
+d) no mínimo 15 deles estão inscritos apenas no Concurso B;
+e) no mínimo 5 deles não estão inscritos nem no Concurso A nem no Concurso B.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                       56
+         www.estrategiaconcursos.com.br                                                           64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+  (FGV/CM Aracaju/2021) Em uma sala há N pessoas. Uma dessas pessoas afirma: “Pelo menos 4 pessoas
+dessa sala fazem aniversário no mesmo mês”.
+Para que essa afirmativa seja obrigatoriamente verdadeira, o valor mínimo de N é:
+a) 15;
+b) 16;
+c) 36;
+d) 37;
+e) 48.
+
+
+  (FGV/FunSaúde CE/2021) Em uma sala há 10 pessoas: 4 advogados, 3 engenheiros, 2 técnicos
+administrativos e 1 auditor.
+É correto afirmar que:
+a) sorteando 4 pessoas ao acaso, 2 serão advogados.
+b) sorteando 5 pessoas ao acaso, pelo menos uma delas será um engenheiro.
+c) sorteando 6 pessoas ao acaso, teremos pessoas de três profissões diferentes.
+d) sorteando 7 pessoas ao acaso, pelo menos uma será um advogado.
+e) sorteando 8 pessoas ao acaso, pelo menos uma será um técnico administrativo.
+
+
+  (FGV/PM CE/2021) Uma urna A contém 20 bolas vermelhas e uma urna B contém 21 bolas azuis. Essas
+são as únicas bolas nas duas urnas.
+Transferem-se, aleatoriamente, 5 bolas da urna A para a urna B.
+A seguir, também aleatoriamente, transferem-se 6 bolas da urna B para a urna A.
+É correto concluir que, ao final,
+a) há exatamente uma bola azul na urna A.
+b) há exatamente 15 bolas azuis na urna B.
+c) não há bolas vermelhas na urna B.
+d) há, no mínimo, uma bola vermelha na urna B.
+e) há, no máximo, 6 bolas azuis na urna A.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                    57
+         www.estrategiaconcursos.com.br                                                        64
+
+                                     
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+  (FGV/IMBEL/2021) No tabuleiro representado a seguir, são colocadas 26 fichas. Cada ficha ocupa uma
+casa e cada casa ocupada só contém uma ficha.
+
+É correto afirmar que
+a) todas as colunas têm pelo menos 3 casas ocupadas.
+b) alguma linha tem, pelo menos, 6 casas ocupadas.
+c) alguma coluna não tem casas ocupadas.                ==219a34==
+
+d) nenhuma coluna tem mais de 3 casas ocupadas.
+e) todas as linhas têm, pelo menos, 4 casas ocupadas.
+
+
+  (FGV/Pref Angra/2019) Uma urna X contém apenas 17 bolas azuis e uma urna Y contém apenas 13 bolas
+vermelhas. Treze bolas são passadas da urna X para a urna Y e, a seguir, onze bolas escolhidas
+aleatoriamente são passadas da urna Y para a urna X.
+Após essas transferências, é correto afirmar que
+a) há treze bolas azuis na urna Y.
+b) há onze bolas vermelhas na urna X.
+c) há, no mínimo, quatro bolas azuis na urna X.
+d) há, no mínimo, seis bolas vermelhas na urna Y.
+e) o número de bolas vermelhas na urna X é igual ao número de bolas azuis na urna Y.
+
+
+   (FGV/Pref. Salvador/2019) Um baralho contém 13 cartas de cada um dos naipes: ouros, copas, espadas
+e paus. Ao todo, são 52 cartas (13×4).
+Com as cartas embaralhadas e, sem ver qualquer uma delas, o número mínimo de cartas que devem ser
+retiradas desse baralho para que se tenha a certeza que existam, entre elas, pelo menos 5 cartas do mesmo
+naipe é
+a) 6.
+b) 17.
+c) 25.
+d) 26.
+e) 31.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                           58
+         www.estrategiaconcursos.com.br                                                               64
+
+                                     
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 10
+
+    (FGV/ALERO/2018) Em uma gaveta há 4 meias brancas, 6 meias pretas e 8 meias azuis.
+O número mínimo de meias que deve ser retirado da gaveta, sem lhes ver a cor, para ter certeza de haver
+retirado pelo menos duas meias azuis é
+a) 4.
+b) 6.
+c) 8.
+d) 10.
+e) 12.
+
+
+   (FGV/Pref. Salvador/2019) Em uma classe de 20 estudantes, 12 são meninas. Além disso, dos 20
+estudantes, 15 gostam de Matemática.
+É correto concluir que
+a) nenhuma menina gosta de Matemática.
+b) todas as meninas gostam de Matemática.
+c) no máximo 7 meninas gostam de Matemática.
+d) no mínimo 7 meninas gostam de Matemática.
+e) exatamente 7 meninas gostam de Matemática.
+
+
+   (FGV/MPE RJ/2019) Um saco contém bolas brancas, vermelhas, azuis e pretas, sendo 5 de cada cor.
+Antônio retirou no escuro certa quantidade de bolas e disse: “Entre as bolas que retirei, há três da mesma
+cor”.
+Para que a frase dita por Antônio seja obrigatoriamente verdadeira, o número mínimo de bolas que ele
+retirou do saco é:
+a) 9;
+b) 10;
+c) 11;
+d) 12;
+e) 13.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            59
+         www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+   (FGV/TJ SC/2018) Em uma urna há 5 bolas amarelas, 7 bolas verdes e 4 bolas azuis. O número mínimo
+de bolas a ser retirado aleatoriamente da urna, sem lhes ver a cor, para se ter certeza de que serão
+retiradas pelo menos duas bolas verdes é:
+a) 14;
+b) 13;
+c) 11;
+d) 9;
+e) 8.
+
+
+   (FGV/BANESTES/2018) Em uma gaveta há 9 meias brancas, 10 meias pretas e 11 meias vermelhas. O
+número mínimo de meias que devem ser retiradas da gaveta, sem lhes ver a cor, para ter certeza de haver
+retirado pelo menos duas meias pretas é:
+a) 2;
+b) 19;
+c) 20;
+d) 21;
+e) 22.
+
+
+   (FGV/CGM Niterói/2018) Em uma urna há 3 bolas vermelhas, 5 bolas verdes, 4 bolas brancas e 6 bolas
+pretas. Retiram-se, aleatoriamente, N bolas da urna.
+O valor mínimo de N, para que possamos garantir que entre as N bolas retiradas haja pelo menos duas
+bolas vermelhas, é
+a) 17.
+b) 16.
+c) 15.
+d) 14.
+e) 2.
+
+
+    (FGV/CGM/2018) Em um saco há 10 fichas iguais na forma e no tamanho, porém de 4 cores diferentes:
+4 são brancas, 3 são pretas, 2 são azuis e 1 é vermelha.
+É correto afirmar que, retirando do saco, ao acaso,
+a) 4 fichas, cada ficha terá uma cor diferente.
+b) 6 fichas, teremos fichas de apenas 3 cores.
+
+         Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         60
+         www.estrategiaconcursos.com.br                                                             64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+c) 7 fichas, pelo menos uma delas será branca.
+d) 5 fichas, uma delas será preta.
+e) 8 fichas, pelo menos uma delas será azul.
+
+
+   (FGV/ALERO/2018) Sete crianças brincam com um jogo em que cada partida tem um só vencedor.
+Como as partidas são rápidas, em uma tarde elas jogaram 50 partidas.
+É correto afirmar que
+a) cada uma das crianças venceu, pelo menos, 5 partidas.
+b) uma das crianças venceu exatamente 7 partidas.
+c) é possível que todas elas tenham vencido mesmo número de partidas.
+d) 4 crianças venceram 8 partidas cada uma e 3 crianças venceram 6 partidas cada uma.
+e) uma delas venceu, pelo menos, 8 partidas.
+
+
+    (FGV/TRT 12/2017) Uma gaveta A tem sete canetas vermelhas e uma gaveta B tem sete canetas azuis.
+Essas são as únicas canetas contidas nas duas gavetas. Retiram-se três canetas da gaveta A, que são então
+colocadas na gaveta B. Agora, retiram-se, aleatoriamente, quatro canetas da gaveta B, que são então
+colocadas na gaveta A.
+Após essas transferências, é correto afirmar que:
+a) só ficaram canetas azuis na gaveta B;
+b) só ficaram canetas vermelhas na gaveta A;
+c) há pelo menos uma caneta vermelha na gaveta B;
+d) há pelo menos uma caneta azul na gaveta A;
+e) há mais canetas azuis na gaveta B do que canetas vermelhas na gaveta A.
+
+
+   (FGV/MPE RJ/2016) Trabalham em um escritório 11 pessoas, sendo que, no assunto futebol, 3 são
+vascaínos, 2 são tricolores, 2 são botafoguenses e 4 são flamenguistas.
+É correto afirmar que:
+a) em qualquer grupo de 7 dessas pessoas há, pelo menos, um vascaíno;
+b) em qualquer grupo de 6 dessas pessoas há torcedores de, pelo menos, três times;
+c) em qualquer grupo de 8 dessas pessoas há, pelo menos, um flamenguista;
+d) em qualquer grupo de 5 dessas pessoas há, pelo menos, um botafoguense;
+e) em qualquer grupo de 4 dessas pessoas há, pelo menos, duas pessoas que torcem pelo mesmo time.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            61
+        www.estrategiaconcursos.com.br                                                                64
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 10
+
+   (FGV/Pref. Salvador/2019) Pedro tem 33 moedas e um tabuleiro quadriculado com 5 linhas e 10
+colunas. Após Pedro colocar todas as suas moedas no tabuleiro, uma por quadrícula, é verdade que
+a) nenhuma linha do tabuleiro ficou vazia.
+b) pelo menos uma linha do tabuleiro ficou vazia.
+c) alguma linha do tabuleiro ficou com exatamente 3 moedas.
+d) alguma linha do tabuleiro ficou com mais de 6 moedas.
+e) alguma linha do tabuleiro ficou com exatamente 6 moedas.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         62
+        www.estrategiaconcursos.com.br                                                             64
+
+                                    
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 10
+
+                                        GABARITO – FGV
+
+Outros casos de aplicação do princípio
+
+ LETRA D                                   LETRA B                          LETRA E
+ LETRA B                                    LETRA E                         LETRA D
+ LETRA B                                    LETRA D                         LETRA C
+ LETRA D                                    LETRA A                         LETRA D
+ LETRA D                                    LETRA C
+ LETRA E                                    LETRA E
+ LETRA B                                    LETRA A
+ LETRA C                                    LETRA C
+
+       Receita Federal (Analista Tributário) Raciocínio Lógico Matemático             63
+       www.estrategiaconcursos.com.br                                                 64
+
+                                   
+
+
+---
+
+---

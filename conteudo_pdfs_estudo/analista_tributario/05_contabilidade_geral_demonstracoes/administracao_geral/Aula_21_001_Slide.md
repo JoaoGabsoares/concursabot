@@ -1,0 +1,786 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 21_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '21'
+titulo_aula: CPC 04 – ATIVO INTANGÍVEL
+artigos_citados:
+- Art. 183.
+---
+
+# CPC 04 – ATIVO INTANGÍVEL
+
+---
+
+---
+
+CPC 04 – ATIVO INTANGÍVEL
+
+
+                                            Prof. Gilmar Possati
+
+       
+
+
+---
+
+ASPECTOS INTRODUTÓRIOS
+
+
+                                          Prof. Gilmar Possati
+
+     
+
+
+---
+
+Objetivos
+
+q definir o tratamento contábil dos ativos intangíveis
+  que não são abrangidos especificamente em outro
+  Pronunciamento.
+q mensurar o valor contábil dos ativos intangíveis,
+  exigindo divulgações específicas sobre esses ativos.
+
+                   
+
+
+---
+
+ Alcance
+
+Todos os ativos intangíveis de um modo geral com algumas
+exceções.
+
+                   
+
+
+---
+
+ Alcance
+
+Todos os ativos intangíveis de um modo geral com algumas
+exceções.
+
+                   
+
+
+---
+
+ Definição
+
+“Ativo intangível é um ativo não monetário identificável
+sem substância física”.
+
+                   
+
+
+---
+
+Definição
+
+    Itens Monetários X Itens Não Monetários
+
+               
+
+
+---
+
+Definição
+
+Os ativos intangíveis não podem ser tocados, não
+visualizamos. Logo, a característica de identificação é
+fundamental para a existência de um ativo intangível.
+
+                   
+
+
+---
+
+Definição
+Um ativo intangível é identificável quando:
+a. for separável (puder ser separado da entidade e vendido,
+transferido, licenciado, alugado ou trocado, individualmente ou junto
+com um contrato, ativo ou passivo relacionado, independente da
+intenção de uso pela entidade); Exemplos: Marcas, Patentes, Fórmulas,
+etc.
+ou
+b. resultar de direitos contratuais ou outros direitos legais,
+independentemente de tais direitos serem transferíveis ou separáveis
+da entidade ou de outros direitos e obrigações. Exemplo: Concessões.
+
+
+                         
+
+
+---
+
+Definição
+
+            
+
+
+---
+
+CADE/2014
+A distinção básica entre ativo intangível e goodwill reside
+no fato de o primeiro ser, necessariamente, identificável,
+ao passo que o ágio derivado da expectativa de
+rentabilidade futura (goodwill) não é identificado
+individualmente apesar de ser um ativo que representa
+benefícios econômicos futuros, gerados por outros ativos
+adquiridos em uma combinação de negócios.
+
+                     
+
+
+---
+
+ANATEL/2014
+
+Acerca dos ativos intangíveis e do teste de impairment,
+julgue o item a seguir.
+
+Um ativo intangível consiste em um direito monetário não
+identificável e não dotado de substância física.
+
+                    
+
+
+---
+
+PF/2014
+
+Acerca das regras contábeis que envolvem ativos
+intangíveis de companhias abertas, julgue o item que se
+segue.
+
+Ativos monetários identificáveis e sem substância física
+devem ser classificados contabilmente como ativos
+intangíveis.
+
+                    
+
+
+---
+
+RECONHECIMENTO
+
+                                       Prof. Gilmar Possati
+
+  
+
+
+---
+
+Reconhecimento
+
+          
+
+
+---
+
+MPE-SC/2014
+Para que um item possa ser reconhecido como ativo intangível, a
+legislação exige que a organização demonstre que ele é:
+a) identificável, não controlável, gerador de benefícios econômicos
+futuros e mensurável.
+b) identificável, controlável, gerador de benefícios econômicos futuros
+e mensurável.
+c) identificável, controlável, não gerador de benefícios econômicos
+futuros e mensurável.
+d) identificável, controlável, gerador de benefícios econômicos futuros
+e não mensurável.
+e) não identificável, controlável, gerador de benefícios econômicos
+futuros e mensurável.
+                         
+
+
+---
+
+SUDENE/2013
+Quanto ao reconhecimento de um ativo intangível, é correto afirmar que
+ocorrerá quando
+a) for provável que os benefícios econômicos atribuíveis ao ativo forem
+gerados em favor da entidade ou daquela a quem se pretende vender.
+b) o custo for mensurado com confiabilidade.
+c) o método de custo aplicado for o de recuperabilidade.
+d) for pelo valor justo a data de reavaliação com a contrapartida na
+reserva de reavaliação do patrimônio líquido.
+e) a entidade adquirir o bem intangível pelo custo histórico deduzido da
+depreciação acumulada.
+
+
+                         
+
+
+---
+
+Exemplo
+
+A Marca Coca-Cola Zero deve ser reconhecida no balanço
+patrimonial da Companhia Coca-Cola?
+
+                  
+
+
+---
+
+Exemplo
+Requisito 1: Atender à definição de ativo intangível
+1. A Marca Coca-Cola Zero é não monetária, identificável e sem
+substância física?
+
+
+Requisito 2: Atender aos critérios de reconhecimento
+2. É provável a geração de benefícios econômicos futuros decorrente
+da Marca Coca-Cola Zero?
+
+                       
+
+
+---
+
+Exemplo
+Requisito 1: Atender à definição de ativo intangível
+1. A Marca Coca-Cola Zero é não monetária, identificável e sem
+substância física?
+
+
+Requisito 2: Atender aos critérios de reconhecimento
+2. É provável a geração de benefícios econômicos futuros decorrente
+da Marca Coca-Cola Zero?
+
+                       
+
+
+---
+
+Exemplo
+Requisito 2: Atender aos critérios de reconhecimento
+3. O custo da Marca Coca-Cola Zero pode ser mensurado com
+confiabilidade?
+
+QUALQUER marca gerada internamente não deve ser reconhecida como
+ativo intangível no balanço patrimonial.
+
+                      
+
+
+---
+
+Marcas, títulos de publicações, listas de clientes e outros
+itens similares, gerados internamente, não devem ser
+reconhecidos como ativos intangíveis.
+Os gastos incorridos com marcas, títulos de publicações,
+listas de clientes e outros itens similares não podem ser
+separados dos custos relacionados ao desenvolvimento
+do negócio como um todo. Dessa forma, esses itens não
+devem ser reconhecidos como ativos intangíveis.
+
+
+                    
+
+
+---
+
+Exemplo
+
+Requisito 1: Atender à definição de ativo intangível
+1. A Marca Guaraná Jesus é não monetária, identificável e sem
+substância física?
+
+                     
+
+
+---
+
+ Exemplo
+
+ Requisito 2: Atender aos critérios de reconhecimento
+ 2. É provável a geração de benefícios econômicos futuros decorrente
+ da Marca Guaraná Jesus?
+
+
+Requisito 3: Atender aos critérios de reconhecimento
+3. O custo da Marca Guaraná Jesus pode ser mensurado com
+confiabilidade?
+
+                         
+
+
+---
+
+MPU/2015
+
+O ativo intangível gerado internamente não deve ser
+reconhecido nas demonstrações contábeis.
+
+                 
+
+
+---
+
+25. Normalmente, o preço que a entidade paga para adquirir
+separadamente um ativo intangível reflete sua expectativa sobre a
+probabilidade de os benefícios econômicos futuros esperados,
+incorporados no ativo, serem gerados a seu favor. Em outras palavras, a
+entidade espera que haverá benefícios econômicos a seu favor, mesmo
+que haja incerteza em relação à época e ao valor desses benefícios
+econômicos. Portanto, a condição de probabilidade a que se refere o
+item 21(a) [for provável que os benefícios econômicos futuros esperados
+atribuíveis ao ativo serão gerados em favor da entidade] é sempre
+considerada atendida para ativos intangíveis adquiridos separadamente.
+
+26. Além disso, o custo de ativo intangível adquirido em separado pode
+normalmente ser mensurado com confiabilidade, sobretudo quando o
+valor é pago em dinheiro ou com outros ativos monetários.
+
+                        
+
+
+---
+
+Aquisição Separada
+
+       Custo de ativo intangível adquirido separadamente
+ Preço de Compra
+ (+) impostos de importação e impostos não recuperáveis
+ (+) qualquer custo diretamente atribuível à preparação do
+ ativo para a finalidade proposta
+ (-) descontos comerciais, abatimentos e outros itens
+ semelhantes
+
+                    
+
+
+---
+
+Aquisição Separada
+
+            Custos diretamente atribuíveis (exemplos)
+ Custos de benefícios aos empregados incorridos diretamente
+ para que o ativo fique em condições operacionais (de uso ou
+ funcionamento)
+ Honorários profissionais diretamente relacionados para que o
+ ativo fique em condições operacionais
+ Custos com testes para verificar se o ativo está funcionando
+ adequadamente
+
+                     
+
+
+---
+
+Aquisição Separada
+
+          Não fazem parte do custo de ativo intangível
+custos incorridos na introdução de novo produto ou serviço
+(incluindo propaganda e atividades promocionais)
+custos da transferência das atividades para novo local ou para
+nova categoria de clientes (incluindo custos de treinamento)
+custos administrativos e outros custos indiretos.
+
+                     
+
+
+---
+
+TRE-RO/2013
+No reconhecimento inicial, o custo de ativo intangível adquirido
+separadamente inclui
+a) custos com testes para verificar se o ativo está funcionando
+adequadamente.
+b) custos de transferência da atividade para nova categoria de
+clientes.
+c) custos administrativos.
+d) impostos recuperáveis sobre compra.
+e) custos na introdução de novo produto ou serviço.
+
+                             
+
+
+---
+
+Aquisição como parte de combinação de
+negócios
+ Se um ativo intangível for adquirido em uma combinação
+ de negócios, o seu custo deve ser o valor justo na data de
+ aquisição.
+
+                     
+
+
+---
+
+Aquisição por meio de subvenção ou
+assistência governamentais
+
+Uma entidade tem a faculdade de reconhecer
+inicialmente ao valor justo tanto o ativo intangível
+quanto a concessão governamental. Se uma entidade
+optar por não reconhecer inicialmente ao valor justo o
+ativo, ela deve reconhecer o ativo inicialmente ao valor
+nominal (ou outro tratamento permitido pelo CPC 07)
+acrescido de quaisquer gastos que sejam diretamente
+atribuídos à preparação do ativo para o uso pretendido.
+
+                   
+
+
+---
+
+Permuta de Ativos
+
+ O custo de ativo intangível é mensurado pelo valor justo a não ser
+ que:
+ i. a operação de permuta não tenha natureza comercial; ou
+ ii. o valor justo do ativo recebido e do ativo cedido não possa ser
+ mensurado com confiabilidade.
+ O CPC 04 destaca que o ativo adquirido deve ser mensurado
+ dessa forma mesmo que a entidade não consiga dar baixa
+ imediata ao ativo cedido.
+
+                        
+
+
+---
+
+Ágio derivado da expectativa de
+rentabilidade futura (goodwill) gerado
+internamente
+
+ O ágio derivado da expectativa de rentabilidade futura
+ (goodwill) gerado internamente não deve ser
+ reconhecido como ativo.
+
+                    
+
+
+---
+
+Ativo intangível gerado
+internamente
+
+              
+
+
+---
+
+Exame de Suficiência CFC/2014.1
+
+Segundo a NBC TG 04(R1) – Ativo Intangível, são exemplos de
+atividades de pesquisa, EXCETO:
+a) projeto de ferramentas, gabaritos, moldes e matrizes que
+envolvam nova tecnologia.
+b) atividades destinadas à obtenção de novo conhecimento.
+c) busca, avaliação e seleção final das aplicações dos resultados
+de pesquisa ou outros conhecimentos.
+d) busca de alternativas para materiais, dispositivos, produtos,
+processos, sistemas ou serviços.
+
+                       
+
+
+---
+
+TJ-CE/2014
+
+             
+
+
+---
+
+TJ-CE/2014
+Suponha que a Cia. ABC mantenha três projetos internos em fase de pesquisa
+e apresente os gastos incorridos e estimados expostos na tabela acima.
+Suponha, ainda, que a Cia. ABC tenha encerrado o exercício social em 31 de
+dezembro de 2013. Com base nessa situação hipotética e considerando os
+pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis, os
+relatórios contábil-financeiros de 2013 da Cia. ABC apresentarão o
+reconhecimento de
+a) R$ 850.000 em ativos intangíveis — projetos internos em fase de pesquisa.
+b) R$ 850.000 em ativos intangíveis — projetos internos — e R$ 650.000 em
+despesas a realizar.
+c) R$ 600.000 em despesas de projetos internos em fase de pesquisa.
+d) R$ 850.000 em despesas de projetos internos em fase de pesquisa.
+e) R$ 600.000 em ativos intangíveis — projetos internos em fase de pesquisa.
+
+                           
+
+
+---
+
+Custo de ativo                        intangível        gerado
+internamente
+
+O custo de ativo intangível gerado internamente se
+restringe à soma dos gastos incorridos a partir da data
+em que o ativo intangível atende aos critérios de
+reconhecimento
+
+                   
+
+
+---
+
+TCE-RS/2014
+Em janeiro de 2013, a empresa Pipa Ltda. iniciou o desenvolvimento de um
+novo produto, tendo incorrido em gastos até o mês de abril no valor de R$
+150.000,00. A partir do mês de maio, os critérios para reconhecimento de
+ativos intangíveis foram identificados pela empresa. Ao final do ano de 2013,
+os gastos com o desenvolvimento do produto totalizaram R$ 215.000,00. A
+empresa estima que o Valor Residual, no final da vida útil prevista para o
+projeto, será de R$ 75.000,00. O valor a ser apresentado no Balanço
+Patrimonial de 31/12/2013, para a conta intangíveis é, em reais,
+a) 10.000,00
+b) 150.000,00
+c) 140.000,00
+d) 75.000,00
+e) 65.000,00
+
+                           
+
+
+---
+
+MENSURAÇÃO
+
+
+                                      Prof. Gilmar Possati
+
+ 
+
+
+---
+
+Mensuração
+
+Art. 183. No balanço, os elementos do ativo serão avaliados segundo
+os seguintes critérios:
+VII – os direitos classificados no intangível, pelo custo incorrido na
+aquisição deduzido do saldo da respectiva conta de amortização;
+
+
+24. Um ativo intangível deve ser reconhecido inicialmente ao
+custo.
+
+
+                        
+
+
+---
+
+ SABESP/2014
+A empresa Boas Ideias adquiriu, em 02/01/2013, uma Marca por R$ 300.000 à
+vista. Adicionalmente, a empresa incorreu em gastos de R$ 50.000 para
+registro dessa Marca. Na data da aquisição, a empresa Boas Ideias estimou
+que a vida útil da Marca era indefinida. O ativo adquirido pela empresa Boas
+Ideias é mensurado, na data da aquisição, pelo
+a) valor pago pela aquisição da Marca.
+b) custo amortizado.
+c) custo incorrido.
+d) valor de reposição.
+e) valor de mercado.
+
+                            
+
+
+---
+
+Método do Custo
+
+Após o seu reconhecimento inicial, um ativo intangível
+deve ser apresentado ao custo, menos a eventual
+amortização acumulada e a perda acumulada.
+
+                  
+
+
+---
+
+PF/2014
+
+Acerca das regras contábeis que envolvem ativos intangíveis de
+companhias abertas, julgue o item que se segue.
+O reconhecimento inicial de um ativo intangível deve ser feito por
+meio de seu custo. Após esse reconhecimento inicial, e se não houver
+restrição por parte de lei ou norma legal regularmente estabelecida, a
+entidade pode optar pelo método de custo ou pelo método de
+reavaliação para atualizar o valor contábil desse ativo.
+
+                        
+
+
+---
+
+Método de Reavaliação
+
+Após o seu reconhecimento inicial, se permitido
+legalmente, um ativo intangível pode ser apresentado
+pelo seu valor reavaliado, correspondente ao seu valor
+justo à data da reavaliação.
+
+                  
+
+
+---
+
+Vida Útil
+Vida útil é:
+a) o período de tempo no qual a entidade espera utilizar
+um ativo; ou
+b) o número de unidades de produção ou de unidades
+semelhantes que a entidade espera obter pela utilização
+do ativo.
+
+                   
+
+
+---
+
+Vida Útil
+A entidade deve avaliar se a vida útil de ativo intangível é definida
+ou indefinida e, no primeiro caso, a duração ou o volume de
+produção ou unidades semelhantes que formam essa vida útil.
+A entidade deve atribuir vida útil indefinida a um ativo intangível
+quando, com base na análise de todos os fatores relevantes, não
+existe um limite previsível para o período durante o qual o ativo
+deverá gerar fluxos de caixa líquidos positivos para a entidade.
+
+                        
+
+
+---
+
+Vida Útil
+
+ Um ativo intangível com vida útil definida deve ser
+ amortizado, enquanto a de um ativo intangível com
+ vida útil indefinida não deve ser amortizado.
+
+                  
+
+
+---
+
+TCE-RO/2013
+
+Se a vida útil do ativo intangível for indefinida, nenhuma
+amortização deve ser contabilizada.
+
+                    
+
+
+---
+
+ISS-CUIBÁ/2014
+Em 01/01/2013, uma empresa adquiriu os direitos para uso de uma
+marca por cinco anos. O contrato é renovável a cada cinco anos a
+custo insignificante, e a empresa pretende renová-lo por mais quinze
+anos, acreditando que, após este período, a marca não terá mais
+retorno.
+A vida útil a ser estabelecida pelo direito de utilização da marca, em
+01/01/2013, é
+a) de cinco anos.
+b) de dez anos.
+c) de quinze anos.
+d) de vinte anos.
+e) indefinida.
+                        
+
+
+---
+
+PF/2014
+Em relação a mensuração de ativos, reavaliação, teste de
+recuperabilidade, impairment, depreciação, amortização e exaustão,
+julgue o próximo item.
+ A amortização de ativo intangível, independentemente de sua vida útil,
+deve ser suspensa a partir do momento em que o bem for classificado como
+disponível para venda, voltando a ser depreciado normalmente se essa
+situação for revertida.
+
+                          
+
+
+---
+
+ ISS-RECIFE
+Em 31/12/2011, uma entidade encerrou a criação de um software. Na
+criação, gastou R$ 100.000,00 em pesquisas e R$ 200.000,00 no
+desenvolvimento, já comprovada a viabilidade para produzir e utilizar o ativo.
+Depois de pronto o novo software, a entidade gastou R$ 80.000,00 em
+publicidade a fim de promovê-lo.
+ A entidade começou a utilizar o software em 01/01/2012, estimando que ele
+seria utilizado por cinco anos. Já em 31/12/2012, a entidade constatou que
+poderia ter retorno de R$ 150.000,00 com o software.
+
+                           
+
+
+---
+
+Em 31/12/2013, o valor contábil do software era de
+a) R$ 112.500,00.
+b) R$ 120.000,00.
+c) R$ 150.000,00.
+d) R$ 180.000,00.
+e) R$ 228.000,00.
+
+                         
+
+
+---
+
+---
+
+---
+
+FUB/2015
+(FUB/2015) A vida útil de determinado ativo intangível foi considerada
+indefinida, pois, com base na análise dos fatos relevantes, não foi
+possível prever um período durante o qual seriam gerados fluxos de
+caixa líquidos positivos para a empresa. Nessa situação, o impairment
+test deve ser aplicado anualmente a esse intangível.
+
+                        
+
+
+---
+
+Baixa e Alienação
+O ativo intangível deve ser baixado:
+§ por ocasião de sua alienação; ou
+§ quando não são esperados benefícios econômicos futuros com a
+  sua utilização ou alienação.
+Os ganhos ou perdas decorrentes da baixa de ativo intangível devem
+ser determinados pela diferença entre o valor líquido da alienação, se
+houver, e o valor contábil do ativo.
+
+    Ganho/Perda = Valor Líquido da Alienação – Valor Contábil
+
+
+                        
+
+
+---
+
+OBRIGADO
+
+
+     
+
+
+---
+
+---

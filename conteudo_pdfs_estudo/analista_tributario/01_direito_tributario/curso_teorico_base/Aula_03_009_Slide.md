@@ -1,0 +1,1809 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 03_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: DIREITO TRIBUTÁRIO
+artigos_citados:
+- ART. 421
+- ART. 423
+- ART. 434
+- art. 145
+- art. 153
+- art. 230
+- art. 409.
+- art. 438
+sumulas_citadas:
+- Súmula 545
+- Súmula Vinculante 19
+- Súmula Vinculante 29
+- Súmula Vinculante 41
+---
+
+# DIREITO TRIBUTÁRIO
+
+---
+
+---
+
+DIREITO TRIBUTÁRIO
+      TRF 4
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+   Prof. Fábio Dutra
+
+                       @proffabiodutra                Fábio Dutra     ProfFabioDutraConcursos
+
+Espécies Tributárias
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+ESPÉCIES TRIBUTÁRIAS
+TAXAS – BASE DE CÁLCULO,
+PREÇO PÚBLICO E
+JURISPRUDÊNCIA
+                                               Prof. Fábio Dutra
+
+          
+
+
+---
+
+   Base de Cálculo da Taxa
+      ❑ O valor da taxa deve possuir relação com o custo da atividade
+        estatal.
+
+Espécies Tributárias
+Prof. Fábio Dutra                                               @ProfFabioDutra
+                           
+
+
+---
+
+   Base de Cálculo da Taxa
+      ❑ As taxas não podem ter base de cálculo próprias de impostos nem
+        ser calculada em função do capital das empresas. (CTN)
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                 @ProfFabioDutra
+                            
+
+
+---
+
+   Base de Cálculo da Taxa
+
+       Súmula Vinculante 29 - É constitucional a adoção, no cálculo do valor
+       de taxa, de um ou mais elementos da base de cálculo própria de
+       determinado imposto, desde que não haja integral identidade entre
+       uma base e outra.
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                              
+
+
+---
+
+   Taxa x Preço Público
+
+
+                        Taxa                                     Preço Público (Tarifa)
+             Possui natureza tributária                      Não possui natureza tributária
+                  Decorre de lei                           Decorre de contrato administrativo
+          Não há manifestação de vontade                      Há manifestação de vontade
+                Caráter compulsório                                Caráter facultativo
+         Regime jurídico de direito público                Regime jurídico de direito privado
+        Cobrada por pessoa jurídica de direito            Cobrada por pessoa jurídica de direito
+                      público                                      público e privado
+                 Receita derivada                                  Receita originária
+
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                                          @ProfFabioDutra
+                                   
+
+
+---
+
+   Jurisprudência sobre Taxas
+    ❑ O serviço de iluminação pública não pode ser remunerado mediante taxa.
+      [Súmula Vinculante 41.]
+
+
+    ❑ A taxa cobrada exclusivamente em razão dos serviços públicos de coleta,
+      remoção e tratamento ou destinação de lixo ou resíduos provenientes de
+      imóveis não viola o art. 145, II, da CF. [Súmula Vinculante 19.]
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+   Jurisprudência sobre Taxas
+       ❑ A emissão de guia de recolhimento de tributos é de interesse exclusivo da
+         Administração, sendo mero instrumento de arrecadação, não envolvendo
+         a prestação de um serviço público ao contribuinte. A jurisprudência do STF
+         se consolidou no sentido de ser inconstitucional a instituição e a cobrança
+         de taxas por emissão ou remessa de carnês/guias de recolhimento de
+         tributos. (STF, RE 789.218 RG/MG)
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                 
+
+
+---
+
+   Jurisprudência sobre Taxas
+    ❑ JURISPRUDÊNCIA DE 2019:
+
+    ❑ A taxa anual de segurança contra incêndio tem como fato gerador a
+      prestação de atividade essencial geral e indivisível pelo corpo de
+      bombeiros, sendo de utilidade genérica, devendo ser custeada pela
+      receita dos impostos. (STF, ADI 2908)
+
+    ❑ JURISPRUDÊNCIA DE 2025:
+
+    ❑ Constitucionalidade das taxas de prevenção e combate a incêndios,
+      busca, salvamento e resgate instituídas por estados-membros.
+    ❑ (STF, Tema 1282)
+Espécies Tributárias
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                            
+
+
+---
+
+   Jurisprudência sobre Taxas
+    ❑ Preços de serviços públicos e taxas não se confundem, porque estas,
+      diferentemente daqueles, são compulsórias e têm sua cobrança
+      condicionada à prévia autorização orçamentária, em relação à lei que as
+      instituiu. [Súmula 545.]
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+ Jurisprudência sobre Taxas
+  ❑ “1. O Estado-membro é competente para a instituição de taxa pelo
+    exercício regular do poder de polícia sobre as atividades de pesquisa,
+    lavra, exploração ou aproveitamento, de recursos minerários, realizada no
+    Estado. 2. É inconstitucional a instituição de taxa de polícia que exceda
+    flagrante e desproporcionalmente os custos da atividade estatal de
+    fiscalização.”
+  ❑ [ADI 7.400, rel. min. Luís Roberto Barroso, j. 18.12.2023, P, Informativo STF
+    1.121.]
+
+
+     ❑ RESUMO:
+     ❑ Estado tem competência para taxa de fiscalização sobre atividades de
+           pesquisa, lavra, exploração ou aproveitamento, de recursos minerários.
+     ❑ Porém, o valor da taxa deve corresponder aos custos da atividade estatal
+Espécies Tributárias
+Prof. Fábiode
+           Dutrafiscalização.                                                     @ProfFabioDutra
+                                     
+
+
+---
+
+   Jurisprudência sobre Taxas
+    ❑ Lei n. 7.591/2011. Estado do Pará. Taxa de controle, acompanhamento e
+      fiscalização das atividades de pesquisa, lavra, exploração e aproveitamento de
+      recursos minerários. A instituição de taxa em razão do exercício de poder de
+      polícia por Estado-Membro, respeitadas as características essenciais do tributo,
+      não afronta o art. 145, II, da Constituição Federal. É admissível a utilização, a
+      título de elemento para a quantificação tributária, do volume de minério
+      extraído, porquanto razoável a conclusão de que, quanto maior a quantidade,
+      maior pode ser o impacto social e ambiental do empreendimento e, assim,
+      maior deve ser o grau de controle e de fiscalização do poder público. [ADI
+      4.786, rel. min. Nunes Marques, j. 1º-8-2022, P, DJE de 14-10-2022.]
+
+    ❑ RESUMO:
+    ❑ Estado tem competência para taxa de fiscalização sobre atividades de
+           pesquisa, lavra, exploração ou aproveitamento, de recursos minerários.
+    ❑ Admite-se a utilização, a título de elemento para a quantificação tributária, do
+           volume de minério extraído
+Espécies Tributárias
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                  
+
+
+---
+
+   Jurisprudência sobre Taxas
+    ❑ Consoante a jurisprudência da Corte, taxas judiciárias e custas judiciais,
+      embora pertençam à espécie tributária taxa, possuem características
+      distintas, não havendo que se falar em bis in idem na cobrança de ambos
+      os tributos.
+    ❑ [ADI 5.688, red. do ac. min. Dias Toffoli, j. 25-10-2021, P, DJE de 18-2-
+      2022.]
+
+    ❑ Custas Judiciais: envolvem o financiamento dos serviços prestados pelos
+      distribuidores, escrivães, secretarias de tribunais, oficiais de justiça etc.
+
+    ❑ Taxa Judiciária: Envolvem a atuação dos magistrados e do Ministério
+      Público.
+
+    ❑ Emolumentos: São taxas cobradas no âmbito extrajudicial por tabeliães e
+Espécies Tributárias
+      registradores por cada ato
+Prof. Fábio Dutra                  a ser realizado.                      @ProfFabioDutra
+
+
+---
+
+   Jurisprudência sobre Taxas
+    ❑ O valor exigido do usuário do serviço, na integralidade, tem natureza de
+      emolumento, devido ao notário ou registrador em razão da prestação do
+      serviço público correspondente. Sobre o valor dos emolumentos incide,
+      por sua vez, taxa decorrente do exercício do poder de polícia pelo Poder
+      Judiciário, cujo contribuinte é o próprio notário ou registrador.
+      Constitucionalidade da destinação de parcela dos emolumentos às
+      atividades estatais essenciais à Justiça, o que inclui os serviços
+      administrativos dos Tribunais e o ressarcimento dos oficiais de registro ou
+      de notas pela prática de atos gratuitos.
+    ❑ [ADI 2.567, rel. min. Nunes Marques, j. 22-8-2023, P, DJE de 2-10-2023.]
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                               
+
+
+---
+
+ Jurisprudência sobre Taxas
+      ❑ Mostra-se constitucional a instituição de taxa referente à realização de
+            perícia e diligências a pedido do contribuinte no âmbito do processo
+            administrativo fiscal, pois consubstanciam serviços públicos, colocados à
+            disposição do sujeito passivo da obrigação tributária, específicos e
+            divisíveis de utilização não compulsória. (...) A instituição de taxa sem
+            razoável equivalência recíproca entre o valor exigido do contribuinte e o
+            efetivo custo da atividade estatal referida acarreta grave violação dos
+            princípios da proporcionalidade e da comutatividade. Tal como instituída,
+            no caso, a taxa revela-se inconstitucional, pois o estabelecimento de um
+            valor fixo para realização de perícias e diligências sem levar em
+            consideração a complexidade, o lapso temporal para sua execução, os
+            valores envolvidos na apuração do crédito fiscal e o custo efetivo do
+            serviço público evidenciam a desproporcionalidade e desconexão da
+            comutatividade ou referibilidade.
+Espécies Tributárias
+            [ADI 6.145, rel. min. Rosa Weber, j. 14-9-2022, P, DJE de 24-10-2022.] @ProfFabioDutra
+      ❑ Dutra
+Prof. Fábio
+                                   
+
+
+---
+
+   Jurisprudência sobre Taxas
+    ❑ Conflita com a Constituição Federal a criação, pelo Estado, de taxa a ser
+      satisfeita por sociedade seguradora, tendo em conta atendimento, no
+      âmbito do SUS, de vítima de sinistro coberto pelo DPVAT.
+    ❑ [ADI 3.281, rel. min. Marco Aurélio, j. 24-2-2021, P, DJE de 19-3-2021.]
+
+Espécies Tributárias
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+ESPÉCIES TRIBUTÁRIAS
+   QUESTÕES FCC
+
+
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+ FCC/TRF3 – Analista Judiciário/2024
+ De acordo com a disciplina estabelecida na Constituição Federal de 1988 e no Código
+ Tributário Nacional (CTN), há uma relação estreita entre os institutos Jurídicos do 'tributo· e
+ do "imposto", de modo que tributo é
+ a) espécie e imposto é gênero, sendo que imposto é toda prestação pecuniária
+ compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de
+ ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente
+ vinculada, como ocorre, por exemplo, com a instituição e cobrança da taxa de coleta de lixo.
+ b) gênero e imposto é espécie, sendo que imposto é o tributo que tem como fato gerador o
+ exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público
+ específico e divisível, prestado ao contribuinte ou posto à sua disposição, como ocorre, por
+ exemplo, com a cobrança do Imposto de Renda. do Imposto de Renda.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                         @ProfFabioDutra
+                                    
+
+
+---
+
+ FCC/TRF3 – Analista Judiciário/2024
+ c) espécie e imposto é gênero, sendo que imposto é toda prestação pecuniária
+ compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de
+ ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente
+ vinculada, como ocorre, por exemplo, com a instituição e cobrança do Imposto de Renda.
+ d) gênero e imposto é espécie, sendo que imposto é o tributo cuja obrigação tem por fato
+ gerador uma situação independente de qualquer atividade estatal específica, relativa ao
+ contribuinte, como ocorre, por exemplo, com a instituição e cobrança da taxa de coleta de
+ lixo.
+ e) gênero e imposto é espécie, sendo que imposto é o tributo cuja obrigação tem por fato
+ gerador uma situação independente de qualquer atividade estatal específica, relativa ao
+ contribuinte, como ocorre, por exemplo, com a instituição e cobrança do Imposto de Renda.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra E                                             @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/PGE-GO-Procurador/2024
+ A despeito de existir controvérsia doutrinária acerca do tema, o Código Tributário Nacional
+ prevê como espécies tributárias os impostos, as taxas e as contribuições de melhoria.
+ Acerca das taxas, é INCORRETO afirmar:
+ a) É inconstitucional a cobrança de taxa de matrícula nas universidades públicas.
+ b) A instituição de taxas para o custeio do serviço de segurança pública é inconstitucional,
+ ante a ausência dos requisitos da especificidade e da divisibilidade do serviço.
+ c) As taxas diferem dos impostos por serem instituídas como contrapartida a uma atuação
+ estatal específica, razão pela qual a cobrança da taxa de polícia demanda prova da efetiva
+ ocorrência de atividade fiscalizatória estatal sobre o contribuinte.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                                  
+
+
+---
+
+ FCC/PGE-GO-Procurador/2024
+ d) Uma vez que a Justiça Comum Estadual presta o serviço público de exercício da
+ jurisdição, compete aos Estados fixar, por lei, taxas judiciárias, que podem ter como base de
+ cálculo o valor da causa nos processos judiciais promovidos junto à Justiça Estadual, desde
+ que a legislação fixe limites máximos e respeite a razoabilidade.
+ e) As taxas não podem ter base de cálculo própria de impostos, sendo constitucional,
+ todavia, a adoção, para seu cálculo, de um ou mais elementos da base de cálculo própria de
+ determinado imposto, desde que não haja integral identidade entre uma base e outra.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra C                                                 @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/Pref. J. Guararapes/2024
+ No ano de 2023, determinado Município pernambucano decidiu criar as seguintes taxas
+ municipais relativamente aos bens Imóveis localizados em seu território:
+ I. Taxa Municipal de Transmissão Causa Mortis e Doações (TMTCMD), cujos fatos geradores
+ coincidiam com os fatos geradores do ICD (ou ITCMD) pernambucano;
+ II. Taxa Municipal Territorial Rural (TMTR), cujos fatos geradores coincidiam com os fatos
+ geradores do ITR, e
+ III. Taxa Municipal Predial e Territorial Urbana (TMPTU), cujos fatos geradores coincidiam
+ com os fatos geradores do IPTU do próprio Município.
+ Considerando as leis acima referidas bem como as regras da Constituição Federal de 1588
+ acerca dessa matéria, verifica-se que o referido Município
+ a) só poderia ter criado a TMPTU,
+ b) só poderia ter criado a TMTR e a TMPTU.
+ c) só poderia ter criado a TMTCMD.
+ d) não poderia ter criado nenhuma dessas três taxas.
+ e) poderia ter criado essas três taxas.
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                              @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/Pref. J. Guararapes/2024
+ Determinado Município pernambucano construiu uma rodovia com a finalidade de facilitar
+ o acesso às pousadas. aos hotéis fazenda e aos clubes de campo da sua zona rural. A
+ despesa total realizada foi de R$ 3.000.000.00, sendo que 27 dos 30 imóveis localizados na
+ zona beneficiada pela obra tiveram um acréscimo de valor de R$ 100.000.00 cada um,
+ enquanto que o Hotel Fazenda Balinha teve um acréscimo de R$ 250.000.00, a Pousada
+ Muito Chie teve um acréscimo de R$ 50.000,00 e o Clube de Campo Ensolarado teve uma
+ valorização de R$ 150.000,00. Nesse caso. com base nas normas do Código Tributário
+ Nacional acerca da contribuição de melhoria.
+ a) a lei que instituir a contribuição de melhoria nesse Município deverá fixar um prazo de.
+ no mínimo, 10 dias úteis. para impugnação de quaisquer dos elementos constantes da lei
+ relativa a essa contribuição.
+ b) esse Município poderá cobrar, a titulo de contribuição de melhoria, de cada um desses
+ 30 proprietários, o valor de R$ 100.000,00. imóvel.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+ FCC/Pref. J. Guararapes/2024
+ c) a lei que instituir a contribuição de melhoria nesse Município deverá fixar um prazo de,
+ no mínimo, 15 dias corridos, para impugnação de qualquer dos elementos constantes da lei
+ relativa a essa contribuição.
+ d) esse Município poderá cobrar, a título de contribuição de melhoria, de cada um desses
+ proprietários, quantia correspondente a 90% da valorização do respectivo imóvel.
+ e) esse Município poderá cobrar, a título de contribuição de melhoria, de cada um desses
+ proprietários, quantia correspondente à valorização do respectivo imóvel.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                               @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/COPERGÁS-Contador/2023
+ Determinado município instituiu tributo com as seguintes características: prestação
+ pecuniária compulsória, em moeda, que não constitui sanção de ato ilícito, instituída em
+ decreto municipal e cobrada mediante atividade administrativa plenamente vinculada. A
+ criação desse tributo fere o Código Tributário Nacional, uma vez que deveria
+ a) prever prestação pecuniária facultativa.
+ b) indicar forma de pagamento alternativa.
+ c) constituir também sanção de ato ilícito.
+ d) ter havido instituição em lei.
+ e) possibilitar a cobrança mediante atividade administrativa não vinculada.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                             @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/SEFAZ-AP-AUDITOR/2023
+ Determinado Município resolve instituir taxa de coleta de lixo urbano, utilizando como base
+ de cálculo o valor venal dos imóveis localizados no seu perímetro urbano. À luz da
+ Constituição Federal, a
+ a) instituição desta taxa é constitucional, tendo em vista a coleta de lixo ser prestação de
+ serviço público e o imóvel estar localizado no município instituidor.
+ b) base de cálculo de imposto pode ser utilizada na cobrança de taxa, desde que o fato
+ gerador seja a prestação de serviço público ou o exercício do poder de polícia.
+ c) espécie tributária instituída é taxa, porque o que determina a natureza jurídica do tributo
+ é sua denominação, sendo irrelevante a base de cálculo, neste caso, ser idêntica à do IPTU.
+ d) base de cálculo de imposto pode ser utilizada na cobrança de taxa, desde que o fato
+ gerador seja a prestação de serviço público, mas não o exercício do poder de polícia.
+ e) instituição da referida taxa, no caso, é inconstitucional, porque, na medida em que o
+ valor venal do imóvel já constitui a base de cálculo do IPTU, esse valor não pode ser
+ adotado como base de cálculo da taxa de coleta de lixo urbano.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra E                                                  @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/MPE-PE-PROMOTOR/2022
+ À luz da disciplina constitucional dos princípios gerais do poder de tributar:
+ a) Somente a União poderá instituir contribuições para custeio de regime próprio de
+ previdência social, cobradas dos servidores ativos, dos aposentados e dos pensionistas, que
+ poderão ter alíquotas progressivas de acordo com o valor da base de contribuição ou dos
+ proventos de aposentadoria e de pensões.
+ b) A União, mediante medida provisória, poderá instituir empréstimos compulsórios para
+ atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa
+ ou sua iminência.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+ FCC/MPE-PE-PROMOTOR/2022
+ c) Compete exclusivamente aos Estados Federados instituir contribuições sociais, de
+ intervenção no domínio econômico e de interesse das categorias profissionais ou
+ econômicas, como instrumento de sua atuação nas respectivas áreas.
+ d) Quando houver déficit atuarial, a contribuição ordinária dos aposentados e pensionistas
+ poderá incidir sobre o valor dos proventos de aposentadoria e de pensões que supere o
+ salário mínimo.
+ e) Estados, Municípios e Distrito Federal poderão instituir contribuição, na forma das
+ respectivas leis, para o custeio do serviço de iluminação pública, facultada sua cobrança na
+ fatura de consumo de energia elétrica.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                                @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/SEFAZ-PE-AUDITOR/2022
+ Os entes políticos União, Estados, DF e Municípios necessitam arrecadar tributos suficientes
+ à realização de suas respectivas gestões governamentais. Para tanto, diversas espécies
+ tributárias devem ser instituídas.
+ Nos termos previstos no Código Tributário Nacional, a espécie tributária a ser instituída e a
+ respectiva destinação do seu produto arrecadado, para cobrir os gastos, é
+ a) imposto na fiscalização da emissão de passaporte.
+ b) taxa de serviço público na utilização de rede de esgoto instalada.
+ c) contribuição de melhoria na realização de qualquer obra pública.
+ d) taxa de polícia nas atividades gerais do ente político respectivo.
+ e) taxa de serviço público na fiscalização de higiene em bares e restaurantes.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra B                                                 @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/Pref. São Paulo-SP/2012
+ Um contribuinte deixou de emitir o documento fiscal referente a uma prestação de serviço
+ tributada pelo ISS, tributo de competência municipal, e, como consequência, foi-lhe
+ aplicada penalidade pecuniária pelo descumprimento dessa obrigação acessória (art. 230,
+ caput, inciso V, alínea "a" do Decreto Municipal 52.703/11)
+ Essa penalidade pecuniária
+ a) é taxa, pois tem a finalidade de ressarcir o erário pelo dano causado pelo
+ descumprimento de uma obrigação acessória.
+ b) é imposto, pois está prevista na legislação do ISS.
+ c) não é imposto, mas é tributo, em sentido amplo, pois tem natureza compulsória.
+ d) é tributo, porque é cobrado por meio de atividade vinculada, conforme estabelece o
+ Código Tributário Nacional.
+ e) não é tributo, pois sanção pelo cometimento de ato ilícito não pode ser definida como
+ tributo.
+
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra E                                             @ProfFabioDutra
+                                     
+
+
+---
+
+IMUNIDADES TRIBUTÁRIAS
+     QUESTÕES FCC
+
+
+                                           Prof. Fábio Dutra
+
+      
+
+
+---
+
+ FCC/Pref. J. Guararapes/2024
+ De acordo com a Constituição federal de 1988, sem prejuízo de outras garantias
+ asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e
+ aos Municípios instituir
+ a) impostos sobre patrimônio, renda ou serviços dos partidos políticos, exceto com
+ relação às suas fundações.
+ b) contribuição de melhoria, decorrente de obras públicas.
+ c) impostos sobre o patrimônio, a renda e os serviços relacionados com as
+ finalidades essenciais de entidades religiosas e templos de qualquer culto, inclusive
+ suas organizações assistenciais e beneficentes.
+ d) qualquer contribuição, por meio de lei, para custeio de regime próprio de
+ previdência social, cobradas dos servidores ativos, dos aposentados e dos
+ pensionistas.
+ e) tratamento desigual entre contribuintes que se encontrem em situação
+ equivalente, permitida a distinção em razão de ocupação profissional ou função
+ por eles exercida.
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra C                                          @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/Pref. J. Guararapes-Proc./2024
+ As imunidades constituem limitações constitucionais ao exercício das competências
+ tributárias instituídas pela própria Constituição. É dizer, ao mesmo tempo que a
+ Constituição autoriza que um determinado ente público institua um tributo sobre
+ um certo fenômeno econômico, ela já prevê barreiras ao exercício desta
+ competência, de modo que sequer chega a surgir no mundo jurídico a
+ possibilidade de tributação daquelas específicas situações. Nos termos da
+ Constituição e da jurisprudência vinculante do STF,
+ a) são imunes ao ITR as pequenas propriedades rurais, assim definidas em lei,
+ exploradas por proprietários que não possuam outros imóveis.
+ b) são imunes ao IPTU os imóveis de propriedade de entidades religiosas
+ utilizados para fins de culto, não o sendo, porém, os imóveis locados por estas
+ entidades para os mesmos fins.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                              
+
+
+---
+
+ FCC/Pref. J. Guararapes-Proc./2024
+ c) empresas estatais delegatárias de serviços públicos essenciais são beneficiárias
+ da imunidade tributária recíproca, ainda que distribuam lucros a acionistas privados
+ e atuem em regime de concorrência no mercado.
+ d) a imunidade relativa a livros, jornais, periódicos e o papel destinado a sua
+ impressão se estende aos livros eletrônicos (e-books), mas não aos suportes
+ utilizados exclusivamente para fixá-los.
+ e) segue sendo imune ao IPTU imóvel de propriedade da União cedido a particular
+ para fins de exploração de atividade lucrativa.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra A                                         @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/Pref. J. Guararapes/2024
+ A Instituição de Educação Cultura & Saber, com sede em Ipojuca/PE, é uma
+ entidade sem fins lucrativos e que atende a todos os requisitos legais necessários
+ para usufruir da imunidade constitucional sobre patrimônio, renda e serviços. Ela é
+ proprietária de um casarão antigo, no Município de Jaboatão dos Guararapes/PE.
+ que se encontra alugado para a empresa Buffet dos Nobres Ltda., que ali promove
+ festas e recepções. À renda proveniente da locação desse imóvel é aplicada nas
+ atividades para as quais essa instituição foi constituída. De acordo com Súmula
+ Vinculante do Supremo Tribunal Federal, há imunidade
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                               
+
+
+---
+
+ FCC/Pref. J. Guararapes/2024
+ a) tanto do ISS como do IPTU devido pela Instituição de Educação ao Município de
+ Jaboatão dos Guararapes.
+ b) do ISS devido pela empresa Buffet dos Nobres Lida. ao Município de Jaboatão
+ dos Guararapes.
+ c) do IPTU devido pela Instituição de Educação ao Município de Jaboatão dos
+ Guararapes.
+ d) do IPTU devido pela empresa Buffet dos Nobres Lida. na qualidade de
+ contribuinte, ao Município de Ipojuca, sede da empresa locadora do imóvel.
+ e) do ISS devido pela Instituição de Educação ao Município de Jaboatão dos
+ Guararapes.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra C                                     @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/PGE-AM-Procurador/2022
+  Apesar da inspiração laica, a Constituição Federal outorga imunidade tributária
+ aos “templos de qualquer culto”, por razões históricas e por reconhecer o trabalho
+ filantrópico e social desenvolvido por grande parte das organizações religiosas. A
+ respeito da imunidade dos “templos de qualquer culto”, nos termos da
+ Constituição Federal e da jurisprudência do Supremo Tribunal Federal, analise os
+ itens a seguir:
+ I. A imunidade tributária religiosa abrange o ICMS importação, desde que
+ comprovado que os bens importados pela organização religiosa se destinam à
+ finalidade essencial da entidade.
+  II. A imunidade tributária religiosa abrange o ICMS, ainda que a organização
+ religiosa seja somente contribuinte de fato na operação na qual o imposto poderia
+ incidir.
+ III. A imunidade tributária religiosa impede a cobrança do IPTU do imóvel em que o
+ templo se situe, ainda que locado de terceiro.
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                               
+
+
+---
+
+ FCC/PGE-AM-Procurador/2022
+ IV. Os imóveis utilizados como cemitérios confessionais, de propriedade de
+ organizações religiosas, são imunes ao IPTU.
+ Está correto o que se afirma APENAS em
+ a) I, II e III.
+ b) I e II.
+ c) III e IV.
+ d) I, III e IV.
+ e) II e IV.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                    @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/MPE-PE-PROMOTOR/2022
+ Nos termos da Constituição Federal, sem prejuízo de outras garantias asseguradas ao
+ contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios,
+ a) instituir impostos sobre patrimônio, renda ou serviços dos partidos políticos,
+ exceto suas fundações, das entidades sindicais dos trabalhadores, das instituições de
+ educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei.
+ b) instituir tratamento desigual entre contribuintes que se encontrem em situação
+ equivalente, sendo permitida, contudo, distinção em razão de ocupação profissional
+ ou função por eles exercida.
+ c) exigir ou aumentar tributo sem lei complementar que o estabeleça.
+ d) instituir impostos sobre livros, jornais, periódicos, exceto o papel destinado à sua
+ impressão.
+ e) instituir impostos sobre fonogramas e videofonogramas musicais produzidos no
+ Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em
+ geral interpretadas por artistas brasileiros bem como os suportes materiais ou
+ arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias
+ ópticas de leitura a laser.
+Direito Tributário
+Prof. Fábio Dutra   Gabarito: Letra E                                             @ProfFabioDutra
+                                    
+
+
+---
+
+FCC/Pref. de Manaus-Técnico/2019
+ De acordo com a Constituição Federal, o Município pode
+ a) instituir, lançar e cobrar o IPTU relativamente a bem imóvel no qual se realizam
+ os cultos e cerimônias religiosos e cujo proprietário é a instituição religiosa “HÁ
+ VIDA NO ALÉM”.
+ b) instituir, lançar e cobrar o ITCMD em relação aos serviços gratuitos de
+ orientação pedagógica e educacional prestados pela instituição de educação
+ “Escola para Todos Ltda.”, instituição sem fins lucrativos.
+ c) cobrar o ITBI no exercício subsequente àquele em que tiver sido publicada a lei
+ que aumentou sua base de cálculo, dispensada a observância do princípio da
+ anterioridade nonagesimal.
+ d) instituir, lançar e cobrar o ISSQN sobre a prestação de serviços de fonografia,
+ atinente à produção, no território do Município, de fonogramas contendo poesias
+ não musicadas, de autoria do poeta chileno Pablo Neruda, e recitadas por artista
+ de nacionalidade chilena.
+ e) instituir, lançar e cobrar o IPTU sobre a propriedade de imóvel em que funciona
+ a Secretaria
+Direito Tributário  de Fazenda
+                   Gabarito:   do Estado,
+                             Letra D           imóvel este que é de propriedade do governo
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+ estadual.                          
+
+
+---
+
+ FCC/SEFAZ GO - Auditor/2018
+ A Constituição Federal contempla várias regras que têm por finalidade limitar o
+ poder de tributar das pessoas jurídicas de direito público interno. De acordo com
+ essas regras, é vedado aos Estados
+ a) instituir tratamento desigual entre contribuintes que se encontrem em situação
+ equivalente, facultada, para fins de desoneração tributária total ou parcial, a
+ distinção em razão de origem étnica, de nível de escolaridade, de ocupação
+ profissional e de função por eles exercida.
+ b) cobrar tributos em relação a fatos geradores ocorridos antes do início da
+ regulamentação da lei que os houver instituído, aumentado ou reduzido.
+ c) cobrar tributos antes de decorridos noventa dias da data em que haja sido
+ regulamentada a lei que os instituiu ou aumentou, podendo o referido prazo ser
+ reduzido, nos casos em que seu término ocorrer no exercício subsequente,
+ hipótese em que o tributo poderá ser cobrado desde o primeiro dia do novo
+ exercício.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                              
+
+
+---
+
+ FCC/SEFAZ GO - Auditor/2018
+ d) estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos
+ interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização
+ de vias conservadas pelo Poder Público.
+ e) instituir impostos sobre videofonogramas musicais produzidos no Mercosul,
+ contendo obras musicais ou literomusicais de autores brasileiros, e obras em geral,
+ interpretadas por artistas brasileiros ou por artistas cidadãos de países integrantes
+ do Mercosul, bem como sobre os suportes materiais ou arquivos digitais que os
+ contenham, inclusive na etapa de replicação industrial de mídias ópticas de leitura
+ a laser.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                          @ProfFabioDutra
+                                     
+
+
+---
+
+IMPOSTO SELETIVO
+REGRAS CONSTITUCIONAIS
+
+                                               Prof. Fábio Dutra
+
+          
+
+
+---
+
+  Imposto Seletivo
+   ❑ Imposto Seletivo
+
+
+   Art. 153. Compete à União instituir impostos sobre:
+   (...)
+
+   VIII - produção, extração, comercialização ou importação de bens e serviços
+   prejudiciais à saúde ou ao meio ambiente, nos termos de lei complementar. (Incluído
+   pela Emenda Constitucional nº 132, de 2023)
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                 
+
+
+---
+
+  Imposto Seletivo
+   ❑ Três imunidades previstas para esse imposto são:
+
+   ❑ Não incidirá sobre exportações;
+
+   ❑ Não incidirá sobre operações com energia elétrica e com telecomunicações.
+
+   ❑ Não incidirá sobre os bens ou serviços cujas alíquotas sejam reduzidas em razão de
+     regimes diferenciados de tributação para o IBS e para a CBS (EC 132/2023, art. 9º, §
+     9º).
+
+Direito Tributário
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                 
+
+
+---
+
+  Imposto Seletivo
+   ❑ Imposto Seletivo:
+
+   Art. 9º
+   (...)
+   § 9º O imposto previsto no art. 153, VIII, da Constituição Federal não incidirá
+   sobre os bens ou serviços cujas alíquotas sejam reduzidas nos termos do § 1º
+   deste artigo.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+  Imposto Seletivo
+                        Produtos/Serviços com Redução de Alíquotas do IBS/CBS
+                     Serviços de educação                              Alimentos destinados ao consumo humano
+                                                                          Produtos de higiene pessoal e limpeza
+                      Serviços de saúde                             majoritariamente consumidos por famílias de baixa
+                                                                                            renda
+                                                                     Produtos agropecuários, aquícolas, pesqueiros,
+                     Dispositivos médicos
+                                                                        florestais e extrativistas vegetais in natura
+       Dispositivos de acessibilidade para pessoas com
+                                                                                 Insumos agropecuários e aquícolas
+                          deficiência
+                                                                  Produções artísticas, culturais, de eventos, jornalísticas
+                       Medicamentos                                  e audiovisuais nacionais, atividades desportivas e
+                                                                                 comunicação institucional
+                                                                   Bens e serviços relacionados a soberania e segurança
+       Produtos de cuidados básicos à saúde menstrual                 nacional, segurança da informação e segurança
+                                                                                         cibernética
+   Serviços de transporte público coletivo de passageiros
+        rodoviário e metroviário de caráter urbano,
+                semiurbano e metropolitano
+Direito Tributário
+Prof. Fábio Dutra                                                                                                    @ProfFabioDutra
+                                            
+
+
+---
+
+  Imposto Seletivo
+   ❑ Regras Constitucionais:
+   ❑ Incidirá uma única vez sobre o bem ou serviço;
+
+Direito Tributário
+Prof. Fábio Dutra                                               @ProfFabioDutra
+                           
+
+
+---
+
+  Imposto Seletivo
+   ❑ Regras Constitucionais:
+
+
+   ❑ Não integrará sua própria base de cálculo;
+
+
+   ❑ Integrará a base de cálculo do ICMS, do ISS, do IBS e da CBS.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                            
+
+
+---
+
+  Imposto Seletivo
+   ❑ Regras Constitucionais:
+
+
+   ❑ Poderá ter o mesmo fato gerador e base de cálculo de outros
+     tributos;
+
+Direito Tributário
+Prof. Fábio Dutra                                             @ProfFabioDutra
+                         
+
+
+---
+
+  Imposto Seletivo
+   ❑ Regras Constitucionais:
+
+
+   ❑ Terá suas alíquotas fixadas em lei ordinária, podendo ser específicas,
+     por unidade de medida adotada, ou ad valorem;
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                            
+
+
+---
+
+  Imposto Seletivo
+   ❑ Regras Constitucionais:
+   ❑ Na extração, o imposto será cobrado independentemente da
+     destinação, caso em que a alíquota máxima corresponderá a 1% do
+     valor de mercado do produto.
+
+
+   O campo de incidência desse imposto abrange:
+
+   ❑ Produção;
+   ❑ Extração;
+   ❑ Comercialização;
+   ❑ Importação;
+
+Direito Tributário
+Prof. Fábio Dutra                                              @ProfFabioDutra
+                          
+
+
+---
+
+  Imposto Seletivo
+
+
+   O Imposto Seletivo deve obedecer:
+
+   ❑ ao princípio da anterioridade anual;
+
+   ❑ ao princípio da anterioridade nonagesimal (noventena);
+
+   ❑ ao princípio da irretroatividade;
+
+Direito Tributário
+Prof. Fábio Dutra                                                 @ProfFabioDutra
+                             
+
+
+---
+
+Imposto Seletivo
+      RESUMO DAS REGRAS CONSTITUCIONAIS:
+                1. Não incide sobre exportações, energia elétrica e telecomunicações
+                2. Incide uma única vez (monofásico)
+                3. Não integra sua própria base de cálculo
+                4. Integra a base de ICMS, ISS, IBS, CBS
+                5. Pode ter mesmo fato gerador e base de cálculo de outros tributos
+                6. Alíquotas em lei ordinária, podendo ser ad valorem ou específicas
+                7. Extração: alíquota máxima de 1% do valor de mercado
+
+
+Direito Tributário
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                       
+
+
+---
+
+---
+
+---
+
+IMPOSTO SELETIVO
+LC 214/2025
+
+                                               Prof. Fábio Dutra
+
+          
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ Consideram-se prejudiciais à saúde ou ao meio ambiente os bens classificados nos
+        códigos da NCM/SH e o carvão mineral, e os serviços listados no Anexo XVII,
+        referentes a:
+      I - veículos;
+      II - embarcações e aeronaves;
+      III - produtos fumígenos;
+      IV - bebidas alcoólicas;
+      V - bebidas açucaradas;
+      VI - bens minerais;
+      VII - concursos de prognósticos e fantasy sport.
+
+Direito Tributário
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ NÃO INCIDÊNCIAS DO IMPOSTO
+
+
+      ❑ Exportações (imunidade constitucional)
+      ❑ Operações com energia elétrica e telecomunicações (expressamente
+        excluídas)
+      ❑ Bens/serviços cujas alíquotas sejam reduzidas pelo §1º do art. 9º da EC
+        132/2023
+                ❑    Exemplos: Medicamentos, serviços de educação, insumos
+                     agropecuários, etc.
+
+Direito Tributário
+                                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                                       
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ MOMENTO DO FATO GERADOR (ART. 412, LC 214/2025)
+      ❑ Primeiro fornecimento
+      ❑ Arrematação em leilão
+      ❑ Transferência não onerosa do bem produzido
+      ❑ Incorporação ao ativo imobilizado do fabricante
+      ❑ Extração de bem mineral
+      ❑ Consumo do bem pelo fabricante
+      ❑ Fornecimento/pagamento do serviço (o que ocorrer primeiro)
+      ❑ Importação de bens/serviços
+Direito Tributário
+                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ EXEMPLOS DE INCIDÊNCIA
+
+
+      ❑ Transferência não onerosa: Doação de cigarro ou bebida da fábrica para
+        terceiros
+
+
+      ❑ Incorporação ao ativo: Montadora que fica com o veículo produzido em
+        frota interna
+
+
+      ❑ Extração: Mineradora retira minério do solo (IS incide independentemente
+        da destinação)
+Direito Tributário
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ BASE DE CÁLCULO: REGRAS GERAIS
+      ❑ Alíquota Ad valorem: Valor da operação (venda, arrematação, importação,
+        etc.)
+      ❑ Alíquota Específica: Quantidade, peso, volume, unidade
+
+
+      ❑ Não integra: O próprio IS, IBS, CBS, descontos incondicionais, e (até 2032)
+        ICMS/ISS
+      ❑ Integra: Custos adicionais (juros, frete, seguro), outros tributos não
+        excluídos expressamente
+
+Direito Tributário
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ BASE DE CÁLCULO NA ALÍQUOTA ESPECÍFICA
+      ❑ Por unidade de medida: Kg, litro, maço, etc.
+
+
+      ❑ Produtos fumígenos ou bebidas alcoólicas: Geralmente combinam uma
+        parcela ad valorem + parcela específica
+
+
+      ❑ Quando a tributação for baseada em alíquota específica (isto é, por unidade de
+        medida, como peso, volume ou quantidade), os bens fornecidos como bonificação
+        devem ser incluídos na base de cálculo.
+
+
+Direito Tributário
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ ALÍQUOTAS: VEÍCULOS (ART. 419 A 420)
+      ❑ Definidas por lei ordinária
+      ❑ Critérios de graduação:
+                ❑    Potência do motor
+                ❑    Eficiência energética (menor consumo, menor impacto ambiental)
+                ❑    Emissões de poluentes
+      ❑ Redução a zero: Para veículos adquiridos por pessoas com deficiência ou
+        motoristas de táxi, até certo limite de valor (R$ 200.000,00), conforme LC
+        214/2025, art. 420
+
+Direito Tributário
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                         
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ ALÍQUOTAS: AERONAVES E EMBARCAÇÕES (ART. 421)
+
+
+      ❑ Definidas por lei ordinária
+
+
+      ❑ Graduação: Pode levar em conta sustentabilidade ambiental
+
+
+      ❑ Alíquota zero possível: Aeronaves e embarcações de zero emissão ou alta
+        eficiência energético-ambiental
+
+
+Direito Tributário
+                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ ALÍQUOTAS: DEMAIS PRODUTOS (ART. 422)
+
+
+      ❑ Lei ordinária estabelecerá critérios
+
+
+      ❑ Produtos fumígenos: Alíquota cumulada (ad valorem + específica)
+
+
+      ❑ Bebidas alcoólicas: Progressividade conforme categoria e teor alcoólico
+
+
+      ❑ Minerais extraídos: Alíquota limitada (0,25%)
+Direito Tributário
+                                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ EXEMPLO DE APLICAÇÃO DE ALÍQUOTAS
+
+
+      ❑ Produtos fumígenos: Cigarros (NCM 24.02), charutos, fumo picado
+                ❑    Alíquota ad valorem + R$ X por maço, p. ex.
+
+      ❑ Bebidas alcoólicas: Alíquota específica conforme teor alcoólico + adicional
+        ad valorem
+                ❑    Exemplos: Cerveja pode ter alíquota menor do que destilados
+
+Direito Tributário
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                        
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ IS E GÁS NATURAL (ART. 423)
+
+
+      ❑ Alíquota zero: Gás natural utilizado como insumo industrial ou combustível
+        para transporte (ex.: GNV)
+
+
+      ❑ Obrigação de declaração: Adquirente/importador deve declarar a
+        destinação
+
+
+      ❑ Desvio de uso: Exige recolhimento do IS + multa e juros
+
+Direito Tributário
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ IS E GÁS NATURAL (ART. 423) – Se houver desvio de Finalidade:
+      1) Recolher o Imposto Seletivo:
+      •      O valor do imposto será calculado com base na alíquota regular, conforme o § 2º do
+             art. 422, que prevê alíquotas para bens minerais extraídos.
+      2) Pagar Multa e Juros de Mora:
+      •      Além do imposto devido, o responsável também deverá arcar com multa e juros de
+             mora, conforme estabelecido no § 2º do art. 29 da Lei Complementar.
+      3) Responsabilidade Tributária:
+      •      Adquirente: É o responsável tributário.
+      •      Importador: É o contribuinte.
+
+Direito Tributário
+                                                                                        @ProfFabioDutra
+Prof. Fábio Dutra
+                                       
+
+
+---
+
+IMPOSTO SELETIVO
+LC 214/2025
+PARTE 2
+                                               Prof. Fábio Dutra
+
+          
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ SUJEIÇÃO PASSIVA: CONTRIBUINTES (ART. 424)
+      ❑ Fabricante: Na primeira comercialização, incorporação ao ativo, consumo
+        próprio, etc.
+      ❑ Importador: Na entrada do bem no território nacional
+      ❑ Arrematante: Arrematação em leilão público
+      ❑ Produtor-extrativista: Quando extrai bem mineral
+      ❑ Fornecedor do serviço: Inclusive domiciliado no exterior;
+
+Direito Tributário
+                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ SUJEIÇÃO PASSIVA: CONTRIBUINTES (ART. 424)
+      1) Fabricante:
+        ❑ Primeira comercialização: Quando o fabricante realiza a primeira venda do
+          bem, seja para revendedores, consumidores finais ou outros intermediários.
+        ❑ Incorporação ao ativo imobilizado: Caso o bem produzido seja incorporado ao
+          ativo imobilizado do próprio fabricante (ex.: um veículo fabricado e utilizado
+          na frota interna da empresa).
+        ❑ Transação não onerosa: Quando o bem é transferido sem contrapartida
+          financeira, como em doações ou cessões gratuitas.
+        ❑ Consumo interno: Quando o fabricante utiliza o bem que produziu para seu
+          próprio consumo, sem comercialização.
+Direito Tributário
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ SUJEIÇÃO PASSIVA: CONTRIBUINTES (ART. 424)
+      2) Importador: O importador é considerado contribuinte quando realiza a entrada de
+          bens estrangeiros no território nacional.
+
+
+      3) Arrematante: O arrematante torna-se contribuinte ao adquirir o bem em leilão,
+         momento em que ocorre a transferência de propriedade do bem.
+
+
+      4) Produtor-Extrativista: O produtor que realiza a extração de bens minerais ou outros
+      recursos naturais é contribuinte pelo recolhimento do imposto.
+
+Direito Tributário
+                                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ SUJEIÇÃO PASSIVA: CONTRIBUINTES (ART. 424)
+      5) Fornecedor de Serviços: O fornecedor de serviços, mesmo que residente ou
+         domiciliado no exterior, é contribuinte quando a operação envolve serviços sujeitos
+         ao Imposto Seletivo, conforme o inciso VII do § 1º do art. 409.
+
+
+          ❑ Observação: O dispositivo citado se refere aos concursos de prognósticos
+            e fantasy sport.
+
+Direito Tributário
+                                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      SUJEIÇÃO PASSIVA: RESPONSÁVEIS (ART. 425)
+
+
+      ❑      Transportador: Se transportar produtos sem documentação
+      ❑      Possuidor/detentor: Se estiver com mercadoria sem documento fiscal
+      ❑      Irregularidades na exportação: Produtos que deveriam ser exportados, mas
+             desviados; proprietário ou possuidor podem ser responsabilizados
+      ❑      Solidariedade: O fabricante pode responder solidariamente se concorreu para a
+             irregularidade
+
+Direito Tributário
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                      
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      SUJEIÇÃO PASSIVA: RESPONSÁVEIS (ART. 425)
+      ❑ A responsabilidade tributária não se aplica quando os produtos estão em situações
+        regulares de trânsito para exportação, como:
+
+      ❑      Uso ou consumo de bordo (alínea a): Produtos destinados a embarcações ou
+             aeronaves de tráfego internacional, pagos em moeda conversível.
+      ❑      Lojas francas (alínea b): Produtos vendidos em duty-free, conforme
+             regulamentação do Decreto-Lei nº 1.455/1976.
+      ❑      Empresas comerciais exportadoras (alínea c): Produtos comprados por
+             exportadoras, enviados diretamente para embarque ou recintos alfandegados.
+      ❑      Remessa a recintos alfandegados (alínea d): Produtos em trânsito para despacho
+             aduaneiro de exportação.
+
+
+Direito Tributário
+                                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ APURAÇÃO DO TRIBUTO (ARTS. 430 E 431)
+
+
+      ❑ Período de apuração: Mensal
+
+
+      ❑ Consolidação: Todas as operações do contribuinte, em todos os
+        estabelecimentos, unificadas
+
+
+      ❑ Não gera créditos para o adquirente (monofásico)
+
+
+Direito Tributário
+                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ PAGAMENTO (ARTS. 432 E 433)
+
+
+      ❑ Obrigação: Sujeito passivo deve recolher o valor apurado
+
+
+      ❑ Centralização da Apuração: Um único estabelecimento efetua o
+        pagamento
+
+
+      ❑ Split payment: Possibilidade de retenção do imposto no momento da
+        liquidação financeira (evitando sonegação)
+
+Direito Tributário
+                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ DEVOLUÇÕES E ABATIMENTOS (ART. 418)
+
+
+      ❑ Devolução de bens: Gera direito a abatimento do IS cobrado na operação
+        original
+
+
+      ❑ Período de apuração: Pode ser abatido no mesmo período ou em períodos
+        subsequentes
+
+
+      ❑ Finalidade: Evitar oneração quando a operação é desfeita
+
+Direito Tributário
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ OUTRAS DISPOSIÇÕES FINAIS (ARTS. 436 A 438)
+
+
+      ❑ Atualização de alíquotas específicas: Anual, via IPCA (art. 436)
+
+
+      ❑ DTE: Autoriza a Receita Federal do Brasil (RFB) a implementar o Domicílio
+        Tributário Eletrônico para notificações e intimações (art. 437)
+
+
+      ❑ Regulamentação: Editada pelo Poder Executivo da União (art. 438)
+
+
+Direito Tributário
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ INCIDÊNCIA NA IMPORTAÇÃO (ART. 434 E SEGUINTES)
+
+
+      ❑ Fato gerador: Entrada de bens estrangeiros no território nacional
+      ❑ Alíquota ad valorem: Base de cálculo = valor aduaneiro + II (Imposto de
+        Importação)
+
+Direito Tributário
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ INCIDÊNCIA NA IMPORTAÇÃO (ART. 434 E SEGUINTES)
+
+
+      ❑ Fato gerador: Entrada de bens estrangeiros no território nacional
+      ❑ Alíquota ad valorem: Base de cálculo = valor aduaneiro + II (Imposto de
+             Importação)
+      1. Valor aduaneiro: Corresponde ao valor real do bem importado.
+      2. Acréscimo do Imposto sobre a Importação (II): O montante do II também compõe a
+         base de cálculo do Imposto Seletivo.
+
+Direito Tributário
+                                                                                @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ INCIDÊNCIA NA IMPORTAÇÃO (ART. 434 E SEGUINTES)
+
+
+      ❑ Pagamento: Normalmente no registro da declaração de importação
+        (DUIMP)
+
+
+      ❑ Suspensão do Pagamento: regimes aduaneiros especiais, como exemplo:
+      •      Regime de Permanência Temporária: Bens importados para uso temporário no
+             Brasil, sem alteração definitiva de propriedade.
+      •      Regimes de Aperfeiçoamento (Drawback): Insumos importados para utilização na
+             fabricação de bens que serão exportados.
+Direito Tributário
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+Imposto Seletivo (LC 214/25)
+      ❑ ISENÇÃO NA IMPORTAÇÃO
+
+
+      ❑ Art. 435. São isentas do pagamento do Imposto Seletivo na importação de
+        bens materiais:
+      ❑ I - as bagagens de viajantes e de tripulantes, acompanhadas ou
+        desacompanhadas, quando submetidas ao regime de tributação especial; e
+      ❑ II - as remessas internacionais, quando submetidas ao regime de tributação
+        simplificada.
+
+Direito Tributário
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+---
+
+PRINCÍPIOS TRIBUTÁRIOS
+    QUESTÕES FCC
+
+
+                                           Prof. Fábio Dutra
+
+      
+
+
+---
+
+ FCC/Pref. J. Guararapes-Proc/2024
+ Constitui princípio que deve ser observado pelo Sistema Tributário Nacional, de
+ acordo com dispositivo inserido pela EC nº 132/2023, a
+ a) redução das desigualdades sociais e regionais.
+ b) neutralidade.
+ c) defesa do meio ambiente.
+ d) justiça federativa.
+ e) busca do pleno emprego.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra C                                    @ProfFabioDutra
+                                     
+
+
+---
+
+FCC/PGE-GO-Procurador/2024
+ A Emenda Constitucional nº 132/2023 veiculou a primeira ampla reforma do
+ Sistema Tributário Nacional realizada desde a promulgação da Constituição
+ Federal de 1988, e seu eixo central é a simplificação da cobrança de impostos
+ sobre o consumo, com vistas a incentivar o crescimento econômico. De acordo
+ com dispositivo constitucional inserido por esta emenda, o Sistema Tributário
+ Nacional deve observar os seguintes princípios:
+ a) Simplicidade, segurança jurídica, redução das desigualdades regionais e sociais,
+ busca do pleno emprego e tratamento favorecido para as empresas de pequeno
+ porte.
+ b) Simplicidade, transparência, justiça tributária, cooperação e defesa do meio
+ ambiente.
+ c) Simplicidade, transparência, segurança jurídica, busca do pleno emprego e
+ defesa do meio ambiente.
+ d) Simplicidade, transparência, legalidade, isonomia e anterioridade.
+ e) Simplicidade, segurança jurídica, autossuficência fiscal, isonomia e defesa do
+ meio
+Direito        ambiente.
+        Tributário
+                   Gabarito: Letra B
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                               
+
+
+---
+
+ FCC/SEFAZ-AP-FISCAL/2023
+ Determinado Município, pretendendo recompor perdas na arrecadação tributária
+ ocorridas no período da pandemia, em 2019 e 2020, resolveu, por meio de lei
+ ordinária municipal, publicada no Diário Oficial do Município, em 29 de dezembro
+ de 2021 (quarta-feira), instituir contribuição para o custeio do serviço de iluminação
+ pública, devendo sua cobrança ser feita na fatura de consumo da energia elétrica.
+ Nessa hipótese, esses fatos geradores serão alcançados pela referida contribuição
+ a) a partir de 01 de janeiro de 2022 em respeito à anterioridade.
+ b) a partir de 30 de dezembro de 2021, dia útil seguinte à sua instituição.
+ c) após 90 dias contados da sua instituição.
+ d) retroativamente aos dois últimos anos de sua instituição devido às perdas de
+ arrecadação tributária na pandemia.
+ e) a partir de 29 de dezembro de 2021, data de sua instituição.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra C                                           @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/SEFAZ-AP-AUDITOR/2023
+ Suponha que a União, depois de ter decretado estado de calamidade pública,
+ resolvesse instituir, por meio de publicação no Diário Oficial, já em dezembro de
+ 2022, empréstimo compulsório sobre o consumo de combustíveis, para fazer frente
+ às despesas extraordinárias decorrentes dos prejuízos causados pela referida
+ calamidade. Nesse caso, a União
+ a) não poderia instituir este tributo, tendo em vista que a competência para sua
+ instituição seria dos Estados atingidos pela calamidade, e sua efetiva cobrança
+ poderia ser feita em 2022, não se aplicando neste caso a anterioridade anual ou
+ nonagesimal.
+ b) poderia instituir este tributo e sua efetiva cobrança deveria ser feita a partir de
+ 01/01/2023, em observância ao princípio da anterioridade anual.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+ FCC/SEFAZ-AP-AUDITOR/2023
+ c) poderia instituir este tributo e sua efetiva cobrança deveria ser feita em 2023,
+ observando-se, além da anterioridade anual, a anterioridade nonagesimal.
+ d) poderia instituir este tributo e sua efetiva cobrança poderia ser feita em 2022,
+ não se aplicando, neste caso, a anterioridade anual ou nonagesimal.
+ e) não poderia instituir este tributo, tendo em vista que a competência para sua
+ instituição seria dos Estados atingidos pela calamidade, e sua efetiva cobrança
+ deveria ser feita a partir de 01/01/2023, em observância ao princípio da
+ anterioridade anual.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                        @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/SEFAZ-PE-AUDITOR/2022
+ Determinado Estado brasileiro aumenta alíquota do ICMS em operações internas
+ com veículos de passeio, mediante a publicação no Diário Oficial de 28/09/2022 de
+ Lei Ordinária Estadual, estabelecendo data inicial de vigência em 28/10/2022, com
+ o objetivo de fortalecer o erário enfraquecido no período da Pandemia de Covid-
+ 19. Nos termos previstos na Constituição Federal de 1988, a nova alíquota prevista
+ por esta Lei Ordinária Estadual deve ser aplicada aos fatos geradores do ICMS
+ ocorridos a partir
+ a) da data da publicação da lei.
+ b) do primeiro dia do exercício financeiro seguinte à publicação da lei.
+ c) do exercício financeiro seguinte à publicação da lei, devendo ser observada
+ também a anterioridade nonagesimal.
+ d) da data de vigência prevista na própria lei.
+ e) do nonagésimo dia após a data de vigência prevista na própria lei.
+
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra C                                       @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/SEFAZ-PE-AUDITOR/2022
+ A União publica no seu Diário Oficial decreto concedendo isenção de ICMS a
+ diversos produtos da cesta básica, no intuito de reduzir os preços ao consumidor
+ final. Nos termos previstos na Constituição Federal de 1988, esta isenção
+ a) seria constitucional, se fosse concedida por Lei Complementar Federal.
+ b) seria constitucional, se fosse concedida por Lei Ordinária Federal.
+ c) seria constitucional, se fosse concedida por Resolução do Senado Federal.
+ d) é inconstitucional, porque a União não pode conceder isenção de tributo
+ Estadual.
+ e) é inconstitucional, porque a União não pode conceder isenção de imposto
+ Estadual, apesar de ter a possibilidade de conceder isenção de imposto Municipal.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra D                                      @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/TRT23-Analista/2022
+ Caso houvesse sido publicada, em 17 de novembro de 2020, uma lei federal
+ aumentando a alíquota do Imposto de Renda, relativamente a diversos tipos de
+ rendimento tributados, o respectivo crédito tributário, majorado em razão dessa
+ lei, só poderia ser cobrado a partir de
+ a) 18 de novembro de 2020.
+ b) 1º de janeiro de 2021.
+ c) 15 de fevereiro de 2021.
+ d) 16 de fevereiro de 2021.
+ e) 18 de novembro de 2021.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra B                                    @ProfFabioDutra
+                                     
+
+
+---
+
+ FCC/PGE-AM-Analista/2022
+ O princípio da anterioridade nonagesimal foi instituído, como regra, pela Emenda
+ Constitucional no 42/2003. Nos termos da Constituição Federal, é exceção ao
+ princípio da anterioridade nonagesimal a majoração
+ a) dos impostos sobre produtos industrializados, importação e exportação.
+ b) da base de cálculo do imposto sobre propriedade de veículos automotores e da
+ alíquota do imposto sobre importação.
+ c) da alíquota do imposto predial territorial urbano e somente da base de cálculo
+ do imposto sobre operações financeiras.
+ d) do empréstimo compulsório instituído para atender despesas extraordinárias
+ provenientes de guerra e da alíquota do imposto sobre produtos industrializados.
+ e) das bases de cálculo do imposto sobre propriedade predial urbana e imposto
+ sobre propriedade territorial rural.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra B                                      @ProfFabioDutra
+                                     
+
+
+---
+
+FCC/SEFAZ-PE-AUDITOR/2022
+ A Constituição federal estabelece limitações ao poder de tributar. Neste contexto,
+ é vedado
+ a) à União instituir tratamento tributário ou favores fiscais diferentes, para
+ contribuintes que tenham domicílio ou residência em diferentes locais ou regiões.
+ b) cobrar tributos federais sobre fonogramas e videofonogramas, produzidos no
+ Brasil ou importados, desde que contenham obras cinematográficas, musicais ou
+ literomusicais.
+ c) conceder qualquer subsídio, isenção, redução de base de cálculo, concessão de
+ crédito presumido, anistia ou remissão, relativos a impostos, taxas ou
+ contribuições.
+ d) aos Estados e ao Distrito Federal instituir tributo que não seja uniforme em todo
+ seu território, admitida a concessão de incentivos fiscais destinados a combater a
+ fome e a pobreza, em localidades específicas.
+ e) aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença
+ tributária entre bens e serviços, de qualquer natureza, em razão de sua
+ procedência
+Direito Tributário   ou destino.
+                   Gabarito:  Letra E
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                               
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+---
+
+---

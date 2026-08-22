@@ -1,0 +1,499 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 08_012_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+LOGÍSTICA E GESTÃO DE
+CONTRATOS
+BANCAS DIVERSAS - V
+                                             Prof. Ricardo Campanario
+
+        
+
+
+---
+
+       Questão Comentada
+     01. (IADES/APEX/Analista/2018) Entre outros fatores, o estabelecimento de um sistema
+     de distribuição de produtos em nível internacional deve considerar:
+     a) a localização geográfica dos mercados.
+     b) a distância entre os produtores de insumos e as unidades fabris.
+     c) a estruturação da força de vendas.
+     d) os hábitos socioculturais que envolvem a compra dos produtos.
+     e) os benefícios buscados na compra pelos consumidores.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (IADES/APEX/Analista/2018) Entre outros fatores, o estabelecimento de um sistema
+     de distribuição de produtos em nível internacional deve considerar:
+     a) a localização geográfica dos mercados.
+     b) a distância entre os produtores de insumos e as unidades fabris.
+     c) a estruturação da força de vendas.
+     d) os hábitos socioculturais que envolvem a compra dos produtos.
+     e) os benefícios buscados na compra pelos consumidores.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INSTITUTO AOCP/UEFS/Técnico Universitário/2018) Assinale a alternativa que apresenta os
+     processos englobados pela logística.
+     a) Processos de suprimento, precificação, customização, embalagem e acondicionamento.
+     b) Processos de compra, transporte, armazenagem e conservação e controle de estoque.
+     c) Processos de produção, empilhamento, movimentação e dimensionamento de pedidos.
+     d) Processos de planejamento, classificação, layout, posição e previsão de vendas.
+     e) Processos de organização, instalações, relacionamentos e localização.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INSTITUTO AOCP/UEFS/Técnico Universitário/2018) Assinale a alternativa que apresenta os
+     processos englobados pela logística.
+     a) Processos de suprimento, precificação, customização, embalagem e acondicionamento.
+     b) Processos de compra, transporte, armazenagem e conservação e controle de estoque.
+     c) Processos de produção, empilhamento, movimentação e dimensionamento de pedidos.
+     d) Processos de planejamento, classificação, layout, posição e previsão de vendas.
+     e) Processos de organização, instalações, relacionamentos e localização.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (CEBRASPE/FUB/Administrador/2018) Julgue o item seguinte, relativo à estrutura de
+     distribuição. Os estudos de trade-off incluem abordagens não apenas junto aos canais
+     de distribuição, mas também em todos os sistemas de produção, de distribuição e
+     comercial.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (CEBRASPE/FUB/Administrador/2018) Julgue o item seguinte, relativo à estrutura de
+     distribuição. Os estudos de trade-off incluem abordagens não apenas junto aos canais
+     de distribuição, mas também em todos os sistemas de produção, de distribuição e
+     comercial.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+        Trade off é o termo que representa a análise do custo-benefício no processo de tomada de decisão. O gestor para obter ganhos em
+        todo o sistema, possivelmente terá que abrir mão de alguns ganhos em partes específicas deste mesmo sistema.
+
+        Aplica-se não só nas análises junto aos canais de distribuição, mas também nos sistemas de produção, distribuição e comercial, ou seja,
+        do que se deve abrir mão em cada uma dessas áreas para a conquista de benefícios ainda maiores?
+
+        As análises de trade-offs devem ser feitas em todas as esferas da cadeia logística, seja nos canais de distribuição, sistemas de produção,
+        de distribuição, comercial, estoques, além dos demais processos da empresa.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                        
+
+
+---
+
+       Questão Comentada
+     04. (CEBRASPE/FUB/Assistente/2018) A respeito da administração de patrimônio,
+     materiais e logística, julgue o item a seguir. O ciclo crítico de atividades logísticas
+     corresponde às atividades de transportes, manutenção de estoques e processamento de
+     pedidos.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+ Atividades Logísticas
+❑ Um conceito que é cobrado com alguma frequência em
+  provas refere-se as atividades logísticas. Muitas vezes a
+  cobrança refere-se diretamente a classificação criada por
+  Ronald Ballou, que divide as atividades logísticas em primárias
+  e de apoio. São elas:
+
+                                        
+
+
+---
+
+       Questão Comentada
+     04. (CEBRASPE/FUB/Assistente/2018) A respeito da administração de patrimônio,
+     materiais e logística, julgue o item a seguir. O ciclo crítico de atividades logísticas
+     corresponde às atividades de transportes, manutenção de estoques e processamento de
+     pedidos.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (DIRENS AERONÁUTICA/CIAAR/Estágio de Oficiais/2018) A palavra Logística tem
+     origem da palavra francesa Logistique, que significa “arte de planejar”, logo, um sistema
+     de logística envolve a gestão de tarefas como processamento de:
+     a) aprendizagem, manutenção, mudança, utilização de materiais e etiquetagem.
+     b) imagem, testes, remoção de materiais, combinação de estocagem e escolha de modal.
+     c) relações, direcionamento, alteração de meios de transporte, encaixotamento e
+     execução de tarefas.
+     d) pedidos, estoques, transportes, combinação de armazenamento, manuseio de
+     materiais e embalagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (DIRENS AERONÁUTICA/CIAAR/Estágio de Oficiais/2018) A palavra Logística tem
+     origem da palavra francesa Logistique, que significa “arte de planejar”, logo, um sistema
+     de logística envolve a gestão de tarefas como processamento de:
+     a) aprendizagem, manutenção, mudança, utilização de materiais e etiquetagem.
+     b) imagem, testes, remoção de materiais, combinação de estocagem e escolha de modal.
+     c) relações, direcionamento, alteração de meios de transporte, encaixotamento e
+     execução de tarefas.
+     d) pedidos, estoques, transportes, combinação de armazenamento, manuseio de
+     materiais e embalagem.
+     GABARITO - D
+
+        Definição de Logística para Ronald Ballou: “A logística empresarial trata de todas atividades de
+        movimentação e armazenagem, que facilitam o fluxo de produtos desde o ponto de aquisição da
+        matéria-prima até o ponto de consumo final, assim como dos fluxos de informação que colocam os
+        produtos em movimento, com o propósito de providenciar níveis de serviço adequados aos
+        clientes a um custo razoável. ”
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                           
+
+
+---
+
+       Questão Comentada
+     06. (ACEP/Pref. Mun. Aracati-CE/Administrador/2018) A logística/cadeia de suprimentos é um conjunto
+     de atividades funcionais (transportes, controle de estoques, etc) que se repetem inúmeras vezes ao
+     longo do canal pelo qual as matérias primas vão sendo convertidas em produtos acabados, aos quais se
+     agrega valor ao consumidor. Julgue as afirmativas a seguir.
+     I – Canal físico de suprimento refere-se à lacuna tempo e espaço entre os pontos de processamento da
+     instituição e seus clientes.
+     II – Canal físico de distribuição diz respeito à lacuna em tempo e espaço entre as fontes materiais
+     imediatas de uma instituição e seus pontos de processamento.
+     III – Canal logístico reverso diz respeito à vida de um produto que não se encerra com a sua entrega ao
+     consumidor. Produtos tornam-se obsoletos, danificados ou inoperantes e são devolvidos aos seus
+     pontos de origem para conserto ou descarte.
+     Marque a alternativa correta.
+     a) Apenas a alternativa II está correta.
+     b) Apenas a alternativa III está correta.
+     c) Somente as alternativas I e III estão corretas.
+     d) As alternativas I, II e III estão corretas.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Canais Físicos & Canais Logísticos
+       Ronald Ballou
+
+         De acordo com o autor o canal físico de suprimentos refere-se à lacuna de tempo e
+         espaço entre as fontes materiais imediatas de uma empresa e seus pontos de
+         processamento.
+
+         De uma maneira semelhante, o canal físico de distribuição refere-se à lacuna de tempo e
+         espaço entre os pontos de processamento da empresa e seus clientes.
+
+         Já o canal logístico reverso diz respeito à vida de um produto que não se encerra com a
+         sua entrega ao consumidor. Produtos tornam-se obsoletos, danificados ou inoperantes e
+         são devolvidos aos seus pontos de origem para conserto ou descarte.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (ACEP/Pref. Mun. Aracati-CE/Administrador/2018) A logística/cadeia de suprimentos é um conjunto
+     de atividades funcionais (transportes, controle de estoques, etc) que se repetem inúmeras vezes ao
+     longo do canal pelo qual as matérias primas vão sendo convertidas em produtos acabados, aos quais se
+     agrega valor ao consumidor. Julgue as afirmativas a seguir.
+     I – Canal físico de suprimento refere-se à lacuna tempo e espaço entre os pontos de processamento da
+     instituição e seus clientes.
+     II – Canal físico de distribuição diz respeito à lacuna em tempo e espaço entre as fontes materiais
+     imediatas de uma instituição e seus pontos de processamento.
+     III – Canal logístico reverso diz respeito à vida de um produto que não se encerra com a sua entrega ao
+     consumidor. Produtos tornam-se obsoletos, danificados ou inoperantes e são devolvidos aos seus
+     pontos de origem para conserto ou descarte.
+     Marque a alternativa correta.
+     a) Apenas a alternativa II está correta.
+     b) Apenas a alternativa III está correta.
+     c) Somente as alternativas I e III estão corretas.
+     d) As alternativas I, II e III estão corretas.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (ACEP/Pref. Mun. Aracati-CE/Almoxarife/2018) Sobre a unitização de cargas, trata-se
+     da arrumação de pequenos volumes em unidades maiores padronizadas, para que
+     possam ser mecanicamente movimentadas (FRANCISCHINI; GURGEL, 2013). É uma
+     vantagem da carga unitizada:
+     a) exigência de equipamentos de movimentação e armazenamento, aumentando o custo.
+     b) redução da ocupação volumétrica em veículos de transporte.
+     c) dificulta a movimentação de cargas maiores.
+     d) redução do tempo de carga e descarga.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Unitização da Carga
+        Carga constituída de embalagens de transporte, arranjadas ou
+        acondicionadas de modo que possibilite o seu manuseio, transporte e
+        armazenagem por meios mecânicos, como uma unidade.
+        A unitização da carga permite a maximização da utilização dos
+        equipamentos de transporte, paleteiras e empilhadeiras.
+        A carga unitizada facilita bastante tanto o carregamento como a
+        descarga nos momentos de embarque e desembarque. Em linhas gerais,
+        vejamos as principais vantagens da unitização:
+        •     Redução do número de volumes a manipular;
+        •     Racionalização do espaço útil
+        •     Menor número de manuseios de carga;
+        •     Utilização de menos mão-de-obra;
+        •     Possibilidade de mecanização das operações de carga e descarga;
+        •     Diminuição do tempo de embarque e desembarque;
+        •     Redução dos custos de embarque e desembarque;
+        •     Redução dos custos com embalagens;
+        •     Diminuição das avarias e roubos de mercadorias;
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     07. (ACEP/Pref. Mun. Aracati-CE/Almoxarife/2018) Sobre a unitização de cargas, trata-se
+     da arrumação de pequenos volumes em unidades maiores padronizadas, para que
+     possam ser mecanicamente movimentadas (FRANCISCHINI; GURGEL, 2013). É uma
+     vantagem da carga unitizada:
+     a) exigência de equipamentos de movimentação e armazenamento, aumentando o custo.
+     b) redução da ocupação volumétrica em veículos de transporte.
+     c) dificulta a movimentação de cargas maiores.
+     d) redução do tempo de carga e descarga.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (IBADE/SEJUDH MT/Assistente do Sistema Socioeducativo/2018) A administração
+     de materiais é uma das áreas mais importantes das organizações, influindo bastante nos
+     custos de funcionamento das mesmas. Esta é uma das razões pela qual uma boa
+     administração de materiais reduz custos e melhora os resultados da empresa, mantendo
+     seu foco principal na determinação do que, quando, como e quanto comprar, ao menor
+     custo, desde a compra junto ao fornecedor até a entrega ao cliente final. A
+     administração de materiais é intimamente associada à(ao):
+     a) Ecologia.
+     b) Procedimento.
+     c) Franquia.
+     d) Custo intangível.
+     e) Logística.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (IBADE/SEJUDH MT/Assistente do Sistema Socioeducativo/2018) A administração
+     de materiais é uma das áreas mais importantes das organizações, influindo bastante nos
+     custos de funcionamento das mesmas. Esta é uma das razões pela qual uma boa
+     administração de materiais reduz custos e melhora os resultados da empresa, mantendo
+     seu foco principal na determinação do que, quando, como e quanto comprar, ao menor
+     custo, desde a compra junto ao fornecedor até a entrega ao cliente final. A
+     administração de materiais é intimamente associada à(ao):
+     a) Ecologia.
+     b) Procedimento.                Definição de Logística para Ronald Ballou: “A logística empresarial trata de todas atividades de
+     c) Franquia.                    movimentação e armazenagem, que facilitam o fluxo de produtos desde o ponto de aquisição da
+                                     matéria-prima até o ponto de consumo final, assim como dos fluxos de informação que colocam os
+     d) Custo intangível.            produtos em movimento, com o propósito de providenciar níveis de serviço adequados aos
+                                     clientes a um custo razoável. ”
+     e) Logística.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     09. (FEPESE/ABEPRO/Teste/2019) Como forma de auxiliar as empresas a planejar e controlar suas necessidades de
+     recursos foram desenvolvidos os sistemas de informação denominados MRP. Analise as afirmativas abaixo sobre os
+     sistemas MRP.
+     1. O Materials Requirements Planning, também denominado de MRP I, foi inicialmente desenvolvido nos anos 60 com o
+     objetivo de determinar quanto de cada material é necessário em cada momento e etapa do processo produtivo. Esse
+     cálculo é realizado com base na análise dos pedidos em carteira, assim como das previsões de pedidos que a empresa
+     espera receber.
+     2. O Enterprise Resource Planning, também denominado de ERP, consiste em um sistema intermediário entre o MRP I e
+     MRP II, integrando diversas áreas da empresa, mas sem a capacidade de realizar ciclos de realimentação, também
+     denominado MRP de ciclo fechado.
+     3. O Manufacturing Resource Planning, também denominado de MRP II, consiste em uma extensão do MRP I para outras
+     áreas da empresa, sendo definido como um plano global para o planejamento e monitoramento de todos os recursos de
+     uma empresa.
+     Assinale a alternativa que indica todas as afirmativas corretas.
+     a) É correta apenas a afirmativa 1.
+     b) É correta apenas a afirmativa 3.
+     c) São corretas apenas as afirmativas 1 e 2.
+     d) São corretas apenas as afirmativas 1 e 3.
+     e) São corretas as afirmativas 1, 2 e 3.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       MRP I x MRP II x ERP
+       MRP I - O Materials Requirements Planning, também denominado de MRP I, foi inicialmente
+       desenvolvido nos anos 60 com o objetivo de determinar quanto de cada material é
+       necessário em cada momento e etapa do processo produtivo. Esse cálculo é realizado com
+       base na análise dos pedidos em carteira, assim como das previsões de pedidos que a
+       empresa espera receber.
+
+       MRP II - A partir dos anos 80 surge o MRP II (Manufacturing Resources Planning) que significa
+       Planejamento dos Recursos de Manufatura ou Planejamento dos Recursos de Produção. O
+       MRP II permite que as empresas avaliem as implicações de demanda futura nas áreas
+       financeira e de engenharia, assim como as necessidades de materiais.
+                                                                                                       ERP - Enterprise
+       ERP - O ERP (Enterprise Resource Planning), é um sistema de informação que integra todos
+       os dados e processos de uma organização em um único sistema. A integração pode ser vista
+       sob a perspectiva funcional (sistemas de: finanças, contabilidade, recursos humanos,            MRP II - Manufacturing
+       fabricação, marketing, vendas, compras, etc) e sob a perspectiva sistêmica (sistema de          (FIN+ENG)
+       processamento de transações, sistemas de informações gerenciais, sistemas de apoio a
+       decisão, etc). Não é um intermediário entre o MRP I e o MRP II, mas sim uma versão que vai
+       além deles.
+                                                                                                       MRP - Materials
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     09. (FEPESE/ABEPRO/Teste/2019) Como forma de auxiliar as empresas a planejar e controlar suas necessidades de
+     recursos foram desenvolvidos os sistemas de informação denominados MRP. Analise as afirmativas abaixo sobre os
+     sistemas MRP.
+     1. O Materials Requirements Planning, também denominado de MRP I, foi inicialmente desenvolvido nos anos 60 com o
+     objetivo de determinar quanto de cada material é necessário em cada momento e etapa do processo produtivo. Esse
+     cálculo é realizado com base na análise dos pedidos em carteira, assim como das previsões de pedidos que a empresa
+     espera receber.
+     2. O Enterprise Resource Planning, também denominado de ERP, consiste em um sistema intermediário entre o MRP I e
+     MRP II, integrando diversas áreas da empresa, mas sem a capacidade de realizar ciclos de realimentação, também
+     denominado MRP de ciclo fechado.
+     3. O Manufacturing Resource Planning, também denominado de MRP II, consiste em uma extensão do MRP I para outras
+     áreas da empresa, sendo definido como um plano global para o planejamento e monitoramento de todos os recursos de
+     uma empresa.
+     Assinale a alternativa que indica todas as afirmativas corretas.
+     a) É correta apenas a afirmativa 1.
+     b) É correta apenas a afirmativa 3.
+     c) São corretas apenas as afirmativas 1 e 2.
+     d) São corretas apenas as afirmativas 1 e 3.
+     e) São corretas as afirmativas 1, 2 e 3.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

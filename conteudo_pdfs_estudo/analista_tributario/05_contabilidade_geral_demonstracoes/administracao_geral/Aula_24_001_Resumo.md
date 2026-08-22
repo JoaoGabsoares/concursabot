@@ -1,0 +1,186 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 24_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '24'
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Contabilidade Geral e
+
+Avançada - CPC 28 - Propriedade para Investimento. Trata-se de um material pensado para lhe
+
+ajudar em todo esse processo, visando, inclusive, uma economia de tempo de confecção de
+
+materiais, tempo que é o bem mais precioso de um concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                  1
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 23.
+
+                                 
+
+
+---
+
+     RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+Propriedades para investimentos (CPC 28)
+
+
+  ● Propriedade para investimento é a propriedade (terreno ou edifício – ou parte de
+
+    edifício – ou ambos) mantida (pelo proprietário ou pelo arrendatário como ativo
+
+    de direito de uso) para auferir aluguel ou para valorização do capital ou para
+
+    ambas e, não, para:
+
+
+       ○ uso na produção ou fornecimento de bens ou serviços ou
+
+
+       ○ para finalidades administrativas; ou venda no curso ordinário do negócio.
+
+                                                                                               2
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 23.
+
+                              
+
+
+---
+
+  ● A Propriedade para Investimento é classificada no Ativo Não Circulante –
+
+     Investimentos.
+
+                              Exemplos de acordo com o CPC 28
+
+    Propriedades para Investimento                       Não se enquadram como Propriedades
+                                                                        para Investimento:
+
+
+1) Terrenos mantidos para valorização de 1) Propriedade destinada à venda no
+
+capital a longo prazo e não para venda a decurso ordinário das atividades ou em
+
+curto   prazo    no    curso      ordinário      dos vias de construção ou desenvolvimento
+
+negócios;                                               para tal venda;
+
+
+2) Terrenos mantidos para futuro uso 2)                          Propriedade            ocupada   pelo
+
+correntemente indeterminado.                            proprietário;
+
+
+3) Edifício que seja propriedade da 3) Propriedade que é arrendada a outra
+
+entidade (ou ativo de direito de uso entidade sob arrendamento financeiro.
+
+relativo a edifício mantido pela entidade)
+
+e que seja arrendado sob um ou mais
+
+arrendamentos operacionais.
+
+                                                                                                  3
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 23.
+
+                                 
+
+
+---
+
+● Quando um imóvel alugado será classificado como Imobilizado e quando será
+
+  classificado com Propriedade para Investimentos?
+
+
+     ○ Se o aluguel estiver vinculado à atividade da empresa (residência na
+
+        floresta para mineradores, casas na fazenda para os trabalhadores rurais,
+
+        etc) é imobilizado.
+
+
+     ○ Se o aluguel não estiver vinculado à atividade da empresa, e se destina
+
+        apenas a gerar renda, então será classificado como propriedade para
+
+        investimento.
+
+
+● Após a mensuração inicial, quais critérios podem ser adotados para a avaliação
+
+  de uma propriedade para Investimento?
+
+
+     ○ Inicialmente, a propriedade para investimento é avaliada pelo custo.
+
+        Todavia, o custo histórico pode sofrer variações subsequentes. Assim, a
+
+        entidade deve adotar, para mensurações posteriores, ou o método do
+
+        valor justo ou o método do custo, utilizando-se, assim, dessa política
+
+        contábil para todas as suas propriedades para investimento.
+
+
+     ○ Se forem pelo valor justo, não há depreciação. Pelo custo, são
+
+        depreciadas normalmente.
+
+                                                                                             4
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 23.
+
+                            
+
+
+---

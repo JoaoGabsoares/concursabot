@@ -1,0 +1,1687 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 12_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: TEMAS ESPECIAIS DE PORTUGUÊS
+---
+
+# TEMAS ESPECIAIS DE PORTUGUÊS
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                        Profª. Adriana Figueiredo
+
+                   
+
+
+---
+
+TEMAS ESPECIAIS DE PORTUGUÊS
+
+                                               Profª. Adriana Figueiredo
+
+          
+
+
+---
+
+                           CADERNO 9
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                           REGÊNCIA VERBAL
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+REGÊNCIA É a parte da gramática que estuda as relações de dependência dos termos na
+frase. Pode ser verbal ou nominal. Trataremos aqui da regência de verbos que exigem um
+estudo particular.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+                           VERBOS QUE MUDAM DE
+                           REGÊNCIA E MUDAM DE
+                                 SENTIDO
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+- ASPIRAR
+T.D. (inspirar, sorver)
+T.I. (almejar, desejar)
+
+
+1) Naquela fazenda, aspirávamos ___________ puro. (o ar/ao ar)
+
+2)Aspiro ___________ felicidade.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+- VISAR
+T.D. (mirar, apontar; pôr o visto)
+T.I. (desejar, aspirar- modernamente já se aceita com preposição)
+
+3)O policial visava _________ alvo. (o/ao)
+
+
+4)Visou _________ passaporte. (o/ao)
+
+
+5)Aquele candidato visava _________ aprovação (a/à).
+
+
+6)Eles só visam__________lucro. (o/ao)
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+- ASSISTIR
+T.I. (ver, presenciar; caber, competir)
+T.D. ou T.I. (dar assistência)
+INTRANSITIVO(morar–forma desusada)
+
+
+7)Assisti ___________ programa de entrevistas horrorizado.
+
+
+8)Assiste ___________ trabalhadores o direito à greve. (o/aos)
+
+
+9)Assistiu ___________ enfermo com dedicação. (o/ao)
+
+
+10)Assisto ___________ Búzios. (a/em)
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+- IMPLICAR
+T.D. (acarretar)
+T.I. (ter implicância, perturbar; envolver-se - pronominal, com preposição EM)
+
+
+11) Entre renunciar ao princípio da autoridade ou ir contra um desejo do grupo, qualquer
+escolha implicava _________ desgaste. (um/num)
+
+
+12) Quando era pequeno todos implicavam _________. (com ele/nele)
+
+
+13) O diretor implicou-se _________ negócios escusos. (em/por)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+01. IBADE - 2019 - SEE-AC - Professor - Língua Portuguesa
+
+"Do mesmo modo que é mal-educado sentar-se à mesa com um chapéu na cabeça,
+assistir a uma aula usando um boné também o é."
+
+No período destacado do texto, está correto o uso da preposição “a” após o verbo
+“assistir", uma vez que esse verbo, no sentido de “ver, presenciar", é transitivo
+indireto. Entre as alternativas abaixo, assinale aquela em que há erro quanto à
+regência verbal:
+
+A) Atualmente, o patrão assiste em Paris.
+B) Esteve no cinema e assistiu um filme incrível.
+C) A mãe assistiu o filho em suas necessidades.
+D) Assistiu, incrédulo, ao acidente.
+E) Ontem, assistiu a um excelente show.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+02. CESGRANRIO - Banco do Brasil - Escriturário
+
+De acordo com as regras de regência verbal estabelecidas pela norma-padrão da
+Língua Portuguesa, o elemento destacado está adequadamente empregado em:
+
+
+A) Os inadimplentes infringem aos regulamentos estabelecidos pelas financeiras ao
+deixar de cumprir os prazos dos empréstimos.
+
+B) Os comerciantes elogiaram aos bancos às medidas tomadas a favor de seus
+empreendimentos.
+
+C) Vários executivos procuram realizar cursos de especialização porque cobiçam aos
+estágios mais avançados da carreira.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+02. CESGRANRIO - Banco do Brasil - Escriturário
+
+D) Os funcionários mais graduados das grandes empresas aspiram aos melhores
+cargos tendo em vista o aumento de seu poder aquisitivo.
+
+E) Algumas grandes empresas responsáveis pelas redes sociais ludibriam aos
+princípios estabelecidos por lei ao permitir postagens agressivas.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+03. VUNESP - TJ-SP - Escrevente Técnico Judiciário
+Leia o que segue.
+
+I. Muitos dos que assistiram o simpósio sobre reciclagem saíram desapontados.
+II. Muitos catadores antipatizam com os projetos da prefeitura.
+III. A comunidade visa uma política mais eficiente para a destinação do lixo.
+IV. Alguns moradores aspiram uma cidade mais limpa.
+
+De acordo com a norma padrão da língua, a regência verbal está correta em
+
+A) I.
+B) II.
+C) III.
+D) I e III.
+E) II e IV.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+                           VERBOS COM MAIS DE UMA
+                           REGÊNCIA SEM ALTERAÇÃO
+                                 SEMÂNTICA
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+- ATENDER
+T.D. ou T.I. (para coisa ou pessoa)
+
+
+14)Atendia com paciência ___________ advogados. (o/aos)
+
+
+15)Atendeu ___________ reivindicações dos médicos. (as/às)
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+- RESPONDER
+T.D. (objeto direto do que se responde)
+T.I. (p/coisa ou pessoa que se responde)
+T.D.I.(direto p/ coisa e indireto p/pessoa)
+
+16)Respondi _________ não iria ao jogo. (que/de que)
+
+
+17)Respondi _________ ataques. (os/aos)
+
+
+18)Respondeu _________ pais. (os/aos)
+
+
+19)Respondeu _________ filhos que não perturbasse. (os/aos) suj.
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+- PAGAR/PERDOAR
+T.D. (para coisa)
+T.I. (para pessoa)
+T.D.I. (direito para coisa e indireto para pessoa)
+
+
+20)Paguei _________ despesa _________ gerente. (a/à; o/ao)
+
+21)Paguei _________ impostos. (os/aos)
+
+22)Perdoei _________ dívida. (a/à)
+
+23)Paguei _________ funcionários.
+
+24)Perdoei _________ funcionário. (o/ao)
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+- PEDIR
+T.D.I.
+
+
+25) Pedia ajuda ____ amigos. (os/aos)
+
+
+26) Pedia calma _________ mais alterados. (os/aos)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+- ESQUECER/LEMBRAR
+T.I. (pronominal)
+T.D. (não pronominal)
+
+
+27)Esqueci _________ livros. (os/dos)
+
+
+28)Esqueci-me _________ livros. (os/dos)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+- DEPARAR
+T.D. ou T.I. (encontrar de repente)
+T.I. (pronominal)
+
+29) Ao chegar deparei ___________________. (meu amigo/com meu amigo)
+
+30) Ao chegar deparei-me ___________________. (um conhecido/com um conhecido)
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+04. CAIP-IMES - IPREM - Auxiliar Contábil
+Observe a regência do verbo “atender" nos períodos abaixo.
+
+I- O auxiliar atendeu o pessoal na recepção.
+II- O auxiliar atendeu ao pedido de seu superior.
+III- Jonas, atenda o telefone.
+IV- Alguém está tocando a campainha. Você pode atender?
+
+A regência verbal está correta:
+
+A) apenas nos itens I e II
+B) nos itens I, II, III e IV.
+C) apenas nos itens III e IV.
+D) apenas nos itens II e III.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+05. CESGRANRIO - Transpetro - Técnico de Administração e Controle
+Júnior
+De acordo com a norma-padrão, a frase que contém desvio em termos de regência
+é:
+
+
+A) Assistiram ao jogo milhares de pessoas.
+
+B) O funcionário visou o passaporte do professor.
+
+C) A aeromoça procedeu à chamada dos passageiros.
+
+D) O patrão deixou de pagar o empregado na sexta-feira.
+
+E) O estudante de Direito aspirava à carreira diplomática.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+06. CESGRANRIO - IBGE - Supervisor de Pesquisas - Tecnologia de
+Informação e Comunicação
+Observa-se obediência à norma-padrão, no que se refere à regência verbal, em:
+
+
+A) A pobreza implica em muito sofrimento.
+
+B) Os governantes devem assistir aos pobres, diminuindo seu sofrimento.
+
+C) Todos aspiram a uma vida mais justa.
+
+D) A população não raro esquece dos menos favorecidos.
+
+E) É importante desejarmos ao fim da pobreza.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+07. IBFC - PC-RJ - Oficial de Cartório
+
+No verso “perdoar o ódio que nos cerca”, a regência do verbo “perdoar” está sendo
+empregada corretamente. Assinale a opção que apresenta um erro quanto à
+regência desse mesmo verbo.
+
+A) O pai perdoou o delito da filha.
+B) Não perdoaram aos meninos infratores.
+C) Perdoem os desvios gramaticais dos artistas.
+D) Perdoei à minha melhor amiga pela mentira.
+E) Não é comum perdoarem aos desvios de conduta.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+08. FGV - TRE-PA - Analista Judiciário
+
+Infelizmente, ainda hoje assistimos no Brasil a fenômenos... (L.67-68) No trecho
+acima, foi empregada a regência do verbo em completo acordo com a norma culta.
+Assinale a alternativa em que isso NÃO tenha ocorrido.
+
+A) O povo aspira a governos menos corruptos.
+B) Ele assiste em Belém.
+C) O combate à corrupção implica em medidas éticas por parte das empresas.
+D) As empresas pagaram aos funcionários na data correta.
+E) Muitas vezes o povo esquece o passado dos políticos.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+                           VERBOS DIFÍCEIS
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+- PREFERIR
+T.D.I. (com preposição A para o objeto indireto. Não se aceitam expressões como “mais”,
+“(do) que”, “antes”.
+
+
+31) Prefiro a democracia _________ totalitarismo. (o/ao)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+- CHEGAR/IR
+INTRANSITIVO (preposição A + adjunto adverbial de lugar)
+
+
+32) Cheguei ___________ estádio atrasado. (ao/no)
+
+
+33) Fui ___________ supermercado. (ao/no)
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+- MORAR, RESIDIR, SITUAR preposição EM + adjunto adverbio de lugar
+
+
+34) Moro/Resido _________ rua dez. (à/na)
+
+
+35) O imóvel situado _________ rua dez está à venda. (à/na)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+09. Instituto Excelência - 2019 - Prefeitura de Lucélia - SP - Auxiliar de
+Enfermagem (002)
+
+Escolha a alternativa que, de acordo com as regras de regência verbal da norma
+culta, utiliza a preposição de forma equivocada.
+
+
+A) Ela aspira à carreira de modelo.
+
+B) Assisti a muitos filmes semana passada.
+
+C) Sempre chego em casa muito tarde.
+
+D) Minha família assiste em São Paulo.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+10. CONSULPLAN - TRE-RS - Analista Judiciário - Administrativa
+
+Assinale a alternativa em que a regência verbal é INCORRETA:
+
+
+A) Os colegas de Antônio implicam com o seu jeito de andar.
+
+B) José prefere vinho a cerveja.
+
+C) O policial visou toda a documentação do motorista.
+
+D) Ela sempre se levanta cedo para aspirar o ar da manhã.
+
+E) Um advogado assistiu ao motorista que atropelou aquele rapaz.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+11. VUNESP - PC-SP - Desenhista Técnico-Pericial
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+11. VUNESP - PC-SP - Desenhista Técnico-Pericial
+
+O texto apresenta construções com os verbos “pedir” e “ir” que merecem correção,
+pois estão em desacordo com a norma-padrão. Assinale a alternativa em que eles
+estão empregados corretamente.
+
+A) ... pedir um empréstimo ao banco /Aonde é que você vai?
+B) ... pedir a um empréstimo do banco. / Aonde é que você vai?
+C) ... pedir de um empréstimo ao banco. / Vou no banco.
+D) ... pedir a um empréstimo no banco. / Aonde é que você vai?
+E) ... pedir de um empréstimo do banco. / Vou no banco.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                           MISCELÂNEA
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+12. CONSULPLAN - CREA-RJ - Engenheiro Civil
+
+Assinale a alternativa INCORRETA quanto à regência:
+
+
+A) As pessoas vão à praia e deixam lá os restos de alimentos, plásticos, garrafas.
+
+B) Não me lembro de quando o conheci e o namorei.
+
+C) As pessoas não visam à preservação da natureza, pensando na vida do planeta.
+
+D) O povo prefere sujar os espaços públicos a jogar o lixo nos lugares certos.
+
+E) Todos aspiram um mundo melhor, mas poucos agem para que isso aconteça.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+13. INSTITUTO AOCP - 2019 - PC-ES - Escrivão de Polícia
+
+Considere a regência dos verbos em destaque e assinale a alternativa correta.
+
+A) O projeto aspira a aproximação com a comunidade.
+
+B) O projeto visa à aproximação com a comunidade.
+
+C) Como os adolescentes preferem mais as atividades lúdicas, elas são a base da
+segunda etapa.
+
+D) Os policiais capixabas assistem à comunidade no que ela necessita.
+
+E) Os policiais capixabas visam na comunidade o que ela necessita.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+14. VUNESP - 2020 - Câmara de Bragança Paulista - SP - Assistente de
+Gestão e Políticas Públicas
+Assinale a alternativa em que a regência está em conformidade com a norma-
+padrão.
+
+A) O homem desde sempre ansiou em vencer a distância, e a história mostrou que
+ele foi capaz nisso.
+
+B) O homem desde sempre aspirou por vencer a distância, e a história mostrou que
+ele esteve apto disso.
+
+C) O homem desde sempre pretendeu de vencer a distância, e a história mostrou
+que ele esteve apto nisso.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+14. VUNESP - 2020 - Câmara de Bragança Paulista - SP - Assistente de
+Gestão e Políticas Públicas
+
+
+D) O homem desde sempre aspirou de vencer a distância, e a história mostrou que
+ele esteve apto para isso.
+
+E) O homem desde sempre ansiou por vencer a distância, e a história mostrou que
+ele foi capaz disso.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+15. VUNESP - 2021 - Prefeitura de Guarulhos - SP - Especialista em Saúde
+(Biologia)
+Assinale a alternativa em que a regência está correta, conforme a norma padrão da
+língua portuguesa.
+
+
+A) Durante a pandemia, ficou urgente que o governo procedesse o pagamento de
+um auxílio emergencial, visando o bem-estar das camadas menos favorecidas da
+população.
+
+B) É possível que ela prefira mais trabalhar em casa, em home office, do que voltar
+ao escritório todos os dias como antes da pandemia, quando despendia muito
+tempo no trânsito.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+15. VUNESP - 2021 - Prefeitura de Guarulhos - SP - Especialista em Saúde
+(Biologia)
+C) A notícia da prorrogação da data do exame do ENEM não agradou os estudantes
+que haviam se preparado e estavam ansiosos de realizar a prova o mais rápido
+possível.
+
+D) Preferia trabalhar na roça, cuidar das hortaliças, a viver na cidade, cercado pelo
+cinza dos prédios; gostava de acordar cedo com o canto dos pássaros e com o
+rumor dos animais.
+
+E) Lendo o romance, ela se identificou e se simpatizou com as personagens
+femininas, porque lhe parecera que há muito aquelas senhoras faziam parte de sua
+vida.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+16. CESGRANRIO - 2019 - UNIRIO - Assistente em Administração
+
+Considere a seguinte passagem do Texto III: “A uma dezena de metros, olhos
+curiosos viam o intruso montar o caniço” (ℓ. 21-22)
+
+A reescritura na qual a regência do verbo destacada NÃO está de acordo com a
+norma-padrão é:
+
+A) A uma dezena de metros, olhos curiosos espiavam o intruso, que montava seu
+caniço.
+
+B) A uma dezena de metros, olhos curiosos observavam o intruso a montar o
+caniço.
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+16. CESGRANRIO - 2019 - UNIRIO - Assistente em Administração
+
+C) A uma dezena de metros, olhos curiosos assistiam o intruso montar o caniço.
+
+D) A uma dezena de metros, olhos curiosos espreitavam o intruso montando o
+caniço.
+
+E) A uma dezena de metros, olhos curiosos deleitavam-se com o intruso a montar
+seu caniço.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+17. VUNESP - 2021 - Prefeitura de Guarulhos - SP - Professor de
+Educação Infantil - Atuação Multidisciplinar
+Quanto à regência, a frase – ... tornamos o egoísmo um hábito. – (5º parágrafo) é
+corretamente substituída, sem prejuízo do sentido e de acordo com a norma-
+padrão, por:
+
+A) ... transformamos o egoísmo em um hábito.
+B) ... convertemos o egoísmo para um hábito.
+C) ... alteramos o egoísmo com um hábito.
+D) ... trocamos o egoísmo sob um hábito.
+E) ... revertemos o egoísmo de um hábito.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                            CESPE
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+18. CESPE - TCU - Auditor Federal de Controle Externo
+
+Na linha 8, o emprego da preposição em “dessa liderança” justifica-se pela regência
+do verbo exigir.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+19. CESPE / CEBRASPE - 2021 - MPE-SC - Promotor de Justiça Substituto -
+Prova 2
+
+No trecho “medidas políticas que visam acabar com a exclusão social, cultural e
+econômica”, o verbo visar está empregado como transitivo direto e significa
+direcionar o olhar, mirar.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+20. CESPE / CEBRASPE - 2022 - DPE-RS - Defensor Público
+
+A supressão da preposição “a”, em “lojas que se recusam a atender clientes de
+determinada raça” (quarto período do último parágrafo), prejudicaria a correção
+gramatical do texto.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+21. CESPE / CEBRASPE - 2019 - TJ-AM - Assistente Judiciário - Suporte ao
+Usuário de Informática
+
+A correção gramatical do texto seria preservada caso se inserisse a preposição a
+imediatamente após “atende” (ℓ.19) — atende a.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+22. CESPE - 2018 - STM - Cargos de Nível Superior - Conhecimentos
+Básicos (Exceto cargos 1, 2 e 8)
+
+Mantendo-se a correção gramatical e os sentidos originais do texto, a forma verbal
+“deseje” (ℓ.18) poderia ser substituída por aspire a.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+23. CESPE / CEBRASPE - 2021 - AL-CE - Técnico Legislativo
+
+1º PARÁGRAFO
+
+E de repente aquela dor intolerável no olho esquerdo, este lacrimejando, e o
+mundo se tornando turvo. E torto: pois fechando um olho, o outro
+automaticamente se entrefecha. Quatro vezes no decorrer de menos de um ano
+um objeto estranho entrou no meu olho esquerdo: duas vezes ciscos, uma vez um
+grão de areia, outra um cílio. Das quatro vezes tive que procurar um oftalmologista
+de plantão. Da última vez, perguntei ao doutor Murilo Carvalho, cirurgião dos
+Oculistas Associados, e também um artista em potencial que realiza sua vocação
+através de cuidar por assim dizer de nossa visão de mundo:
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+23. CESPE / CEBRASPE - 2021 - AL-CE - Técnico Legislativo
+
+No primeiro parágrafo do texto CG5A1-I, seria gramaticalmente correto substituir a
+forma verbal “perguntei”, em “perguntei ao doutor Murilo Carvalho”, por
+interroguei, desde que o segmento “ao doutor” fosse substituído por do doutor.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+24. CESPE - TCE-RN - Conhecimentos Básicos para o Cargo 1
+
+Mantém-se a correção gramatical do texto se o trecho “informar ao Tribunal de
+Contas do Estado do Rio Grande do Norte (TCE/RN) os atos ilegítimos” (L. 4 e 5) for
+reescrito da seguinte forma: informar ao Tribunal de Contas do Estado do Rio
+Grande do Norte (TCE/RN) sobre os atos ilegítimos.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+25. CESPE - INSS - Técnico do Seguro Social
+
+A correção gramatical e o sentido do texto seriam preservados, caso se substituísse
+o trecho “lembrei-me de que” (l.18) por lembrei que.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+26. CESPE - SEE-AL - Professor - Língua Portuguesa
+
+Na linha 8, a forma verbal “implica” aceita dupla regência, razão pela qual pode ser
+seguida por “a”, como no texto, ou por na, ao reger o elemento “negação”.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+27. CESPE - 2019 - SEFAZ-RS - Auditor Fiscal da Receita Estadual - Bloco I
+
+Mantendo-se a correção gramatical e o sentido original do trecho “O direito
+tributário brasileiro depara-se com grandes desafios” (ℓ. 1 e 2), do texto 1A1-I, o
+segmento “depara-se com” poderia ser substituído por depara com.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. CESPE / CEBRASPE - 2020 - Ministério da Economia - Tecnologia da
+Informação - Segurança da Informação e Proteção de Dados
+
+
+No trecho “deparamos com uma realidade única e definida”, no sexto período do
+texto, a supressão da preposição “com” prejudicaria a correção gramatical do texto.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+                  PARTE 2 - REGÊNCIA VERBAL COM
+                             PRONOMES
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                           PRONOMES RELATIVOS
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+REGÊNCIA COM PRONOMES RELATIVOS
+
+
+O vestido a que me refiro.
+
+
+A amiga com quem conversei.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                           EXERCÍCIOS DE FIXAÇÃO
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+Complete as lacunas com a(s) forma(s) adequada(s).
+
+1) Há fatos ____________ nunca esquecemos. (que/de que)
+
+2) Aludiram a incidentes ____________ já ninguém se lembrava. (que/de que)
+
+3) Este autor tem ideias ____________ todos simpatizamos. (de que/com que)
+
+4) Qual o cargo ____________ aspiras? (que/a que)
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+5) O homem possui um inimigo que o aterroriza e ____________ prefere nem pensar: a dor.
+(do qual/no qual)
+
+
+6) O projeto, ____________ também se vincularão mulheres e crianças, tem o apoio da
+Organização Mundial de Saúde. (que/ a que/ ao qual/ em que)
+
+
+7) Surgiu uma mulher ____________ figura já nos referimos. (cuja/a cuja)
+
+
+8) Surgiu uma mulher ____________ figura havia um ar de grande dama decadente.
+(cuja/em cuja)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                 ONDE = EM QUE
+
+OBSERVAÇÕES      AONDE = A QUE
+IMPORTANTES
+
+                DONDE = DE QUE
+
+                       Prof. Adriana Figueiredo
+              
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                       VUNESP/CESGRANRIO
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+29. CESGRANRIO - Banco da Amazônia - Técnico Científico - Tecnologia
+da Informação
+O período que atende às exigências da norma-padrão da língua portuguesa, no que
+diz respeito à regência verbal, é:
+
+A) A maioria dos problemas os quais lidamos são fáceis de resolver.
+
+B) Esse livro, cujos capítulos estudei, vai ser avaliado na prova.
+
+C) O tratamento que falou não está disponível na rede pública.
+
+D) Lya Luft, cujas ideias temos simpatia, é uma boa escritora.
+
+E) Ela é a amiga que conto para me fazer companhia hoje.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+30. CESGRANRIO - 2018 - Petrobras - Administrador Júnior
+
+
+Considere a seguinte frase:
+
+“Os lançamentos tecnológicos a que o autor se refere podem resultar em
+comportamentos impulsivos nos consumidores desses produtos”.
+
+A utilização da preposição destacada a é obrigatória para atender às exigências da
+regência do verbo “referir-se”, de acordo com a norma-padrão da língua
+portuguesa.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+30. CESGRANRIO - 2018 - Petrobras - Administrador Júnior
+
+É também obrigatório o uso de uma preposição antecedendo o pronome que
+destacado em:
+
+A) Os consumidores, ao adquirirem um produto que quase ninguém possui, recém-
+lançado no mercado, passam a ter uma sensação de superioridade.
+
+B) Muitos aparelhos difundidos no mercado nem sempre trazem novidades que
+justifiquem seu preço elevado em relação ao modelo anterior.
+
+C) O estudo de mapeamento cerebral que o pesquisador realizou foi importante
+para mostrar que o vício em novidades tecnológicas cresce cada vez mais.
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+30. CESGRANRIO - 2018 - Petrobras - Administrador Júnior
+
+D) O hormônio chamado dopamina é responsável por causar sensações de prazer
+que levam as pessoas a se sentirem recompensadas.
+
+E) As pessoas, na maioria das vezes, gastam muito mais do que o seu orçamento
+permite em aparelhos que elas não necessitam.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+31. VUNESP - 2022 - VUNESP - Assistente Administrativo II - Edital nº 55
+Considere o seguinte trecho do 4o parágrafo.
+
+• “Se pensarmos nos nossos antepassados, havia momentos de vida ou morte
+para os quais os nossos cães nos podiam alertar, para podermos agir rapidamente”
+
+Se o verbo “alertar” for substituído por “avisar”, a expressão em destaque deverá
+ser substituída por
+
+A) nos quais
+B) dos quais
+C) em que
+D) de quem
+E) cujos
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+32. CESGRANRIO - TCE-RO - Técnico em Informática
+A situação ___________ se deparou o surpreendeu. Tendo em vista a regência
+verbal, a opção que completa corretamente a frase acima é:
+
+
+A) a que.
+
+B) com que.
+
+C) de que.
+
+D) para que.
+
+E) sobre a qual.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                           FCC/FGV
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+33. FCC - 2019 - DETRAN-SP - Agente Estadual de Trânsito
+É adequado o emprego de ambos os elementos sublinhados na frase:
+
+
+A) As promessas de que não cumprimos são aquelas à quem emprestamos a maior
+ênfase.
+
+
+B) A ênfase com cuja ele se exprime não faz ninguém confiar nada ao que ele diga.
+
+
+C) A frase de Bertrand Russel na qual o autor se refere é uma verdade onde
+ninguém duvida.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+33. FCC - 2019 - DETRAN-SP - Agente Estadual de Trânsito
+D) A frase que a tradução está entre parênteses expressa uma denúncia para os
+excessos do amor.
+
+E) A sinceridade é um sentimento em que não cabe exagero, nada conspira contra
+sua força.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+34. FCC - 2019 - Prefeitura de Manaus - AM - Técnico Fazendário
+
+Está correto o emprego dos elementos sublinhados na seguinte frase:
+
+
+A) A violência dos nossos instintos, de cuja ninguém escapa, ignora os ideais da
+civilização, quando não lhes perverte de modo radical.
+
+B) Às pessoas de quem compete zelar pelos bons princípios não devem se render à
+violência, aonde estes se sacrificam.
+
+C) Aquele espelho grande e anônimo, em cujo se reproduz nossa imagem, dá bem a
+medida da pessoa em que cada um aspira a ser.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+34. FCC - 2019 - Prefeitura de Manaus - AM - Técnico Fazendário
+
+D) São fortes os impulsos para a violência, mas devemos resisti-los, pois
+representam graves riscos dos quais podemos incorrer.
+
+E) O poder hegemônico a que muitos aspiram não se tornará uma obsessão para
+quem o considera dentro de parâmetros críticos.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+35. FGV - 2021 - IMBEL - Cargos de Nível Médio
+“A história é um pesadelo do qual estou tentando acordar.” Nesta frase emprega-se
+corretamente a expressão “do qual” em função de ter sido empregado o verbo
+“acordar”.
+
+Assinale a opção em que o termo sublinhado está empregado corretamente.
+
+A) “A cultura histórica tem o objetivo de manter viva a consciência de que a
+sociedade humana tem do próprio passado.”
+B) “A história é uma galeria de quadros de onde há poucos originais e muitas
+cópias.”
+C) ”Compra não o que consideras oportuno, mas no que te falta.”
+D) “A maior parte das coisas de que dizemos e fazemos não é necessária.”
+E) “Esses são os problemas de que devemos falar na reunião.”
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                           PRONOMES PESSOAIS
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+• O/A/OS/AS - complemento sem preposição.
+Ex.: Vi-o no cinema.
+
+
+• LHE/LHES - complemento com preposição
+Ex.: Obedeci-lhe prontamente.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+OBSERVAÇÕES
+              ME, TE, SE, NOS, VOS                           Obedeceu-me/Viu-me.
+IMPORTANTES
+
+                                 Prof. Adriana Figueiredo
+                        
+
+
+---
+
+                           EXERCÍCIOS DE FIXAÇÃO
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+Use o(s)/a(s) ou lhe(s).
+
+
+1) A reincidência poderá acarretar-_________ penalidades severas. (lo/lhe)
+
+2) Não _________ desobedecerei jamais. (o/lhe)
+
+3) Eu _________ ajudei naquela árdua tarefa. (o/lhe)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+4) Por que um mendigo dormindo incomodou-_________ tanto? (os/lhes)
+
+5) A minha resposta não _________ satisfez. (o/lhe)
+
+6) Seu pai, que é libanês e tem uma loja de roupas no Brás, _________ presenteou com o
+Maverick 74 da família. (o/lhe)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+36. VUNESP -- Prefeitura de São Bernardo do Campo - SP - Oficial
+Administrativo I
+No trecho do 1° parágrafo “O consultor Carlos Tabacow instalou 18 placas no teto
+de sua casa, o que lhe permitiu se livrar da conta de luz”, o pronome lhe, em
+destaque, está corretamente empregado, assim como em:
+
+A) Um empresário cobriu o lago com painéis solares e lhe transformou em um lago
+decorativo.
+
+B) A escola instalou painéis solares para produzir energia, usando-lhe para iluminar
+as salas de aula.
+
+C) O consumidor gerará a própria energia, o que lhe dará independência das
+companhias elétricas.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+36. VUNESP -- Prefeitura de São Bernardo do Campo - SP - Oficial
+Administrativo I
+D) O mercado de energia solar cresceu, mas muitos brasileiros ainda não lhe
+conhecem.
+
+E) A microgeração de energia solar é favorecida pelo clima do país que recebe
+muita luz solar e lhe aproveita.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+37. VUNESP - Câmara Municipal de Guaratinguetá - SP - Auxiliar
+Legislativo
+ Assinale a alternativa que reescreve frases do texto empregando corretamente o
+ pronome destacado, segundo prevê a norma-padrão.
+
+ A) Fui à livraria, comprei um romance e presenteei-lhe ao Hermes.
+
+ B) Romances? Ouvi dizer que o Hermes não gosta nem de ver-lhes...
+
+ C) Romances? Ouvi dizer que o Hermes não gosta de ler eles.
+
+ D) Comprei um belo romance de José de Alencar e o dei ao Hermes.
+
+ E) Sabe o Hermes? Dei-o um romance no dia dos namorados.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+38. VUNESP - 2021 - Prefeitura de Ribeirão Preto - SP - Agente de
+Administração
+Assinale a alternativa que atende à norma-padrão de regência verbal da língua
+portuguesa.
+
+A) A falta de água e a perda do gado implicaram na partida do sertanejo.
+
+B) O sertanejo aspira o momento em que a chuva irá cair novamente e o verde se
+espalhará na plantação.
+
+C) Rosinha anseia com o momento de rever seu namorado.
+
+D) O sertanejo informou Rosinha de sua partida, deixando-lhe seu coração.
+
+E) O sertanejo não suportou assistir o desmatamento do sertão.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+39. VUNESP - 2019 - Prefeitura de Campinas - SP - Auditor Fiscal
+Tributário Municipal
+Quanto à regência verbal e ao emprego e à colocação pronominal, o trecho “...
+mesmo quando o incomoda.” (2º parágrafo) estará corretamente reescrito,
+conforme a norma-padrão da língua, em:
+
+A) ... mesmo quando o causa incômodo.
+
+B) ... mesmo quando causa-o incômodo.
+
+C) ... mesmo quando lhe causa incômodo.
+
+D) ... mesmo quando causa-lhe incômodo.
+
+E) ... mesmo quando causa-no incômodo.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+40. FGV - 2020 - TJ-RS - Oficial de Justiça
+
+Uma outra estratégia para evitar-se a repetição de palavras consiste na substituição
+da segunda ocorrência da palavra por um pronome pessoal.
+A frase em que isso foi feito de forma adequada é:
+
+A) Os meninos procederam mal, por isso lhes condenaram;
+
+B) Comprei o livro ontem, mas vou revendê-lo;
+
+C) Os chefes deram as ordens, por isso os obedeci;
+
+D) João estava na festa, mas não no viram sair;
+
+E) As meninas estavam no shopping, mas não encontrei-las.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+CEBRASPE
+
+                                     Profª. Adriana Figueiredo
+
+---
+
+41. CESPE - STM - Analista Judiciário - Revisão de Texto
+
+No trecho “estado de que meu coração precisava” (ℓ. 19 e 20), a preposição “de” é
+regida pela formal verbal “precisava”, não pela palavra “estado”.
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+42. CESPE - ANS - Técnico em Regulação de Saúde Suplementar
+
+Na linha 11, o emprego de preposição em “das quais” é exigido pela regência de
+“origem”.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+43. CESPE - 2018 - TCE-MG - Conhecimentos Gerais e Específicos
+
+Na linha 14 do texto CG1A1-I, o termo “de que” poderia ser substituído, sem
+alteração da correção gramatical e dos sentidos do texto, por do qual
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+44. CESPE - FUB - Conhecimentos Básicos - Nível Intermediário - Cargo 8
+
+A substituição de “no qual” (l.3) por em que prejudica a correção gramatical do
+texto.
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+45. CESPE - 2020 - SEFAZ-AL - Auditor de Finanças e Controle de
+Arrecadação da Fazenda Estadual
+
+A substituição da expressão “das quais” (l.19) por que preservaria tanto o sentido
+quanto a correção gramatical do período.
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+46. CESPE - 2020 - SEFAZ-DF - Auditor Fiscal
+
+No trecho “os investidores reconhecem cada vez mais o impacto, para a sociedade,
+das empresas nas quais investem” (l. 35 a 37), a substituição de “nas quais” por
+aonde prejudicaria a correção gramatical do texto.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+47. CESPE - FUNPRESP-EXE - Conhecimentos Básicos - Cargos de 1 a 6 e 8
+
+A substituição do pronome “o", em “reduziu-o a artigos" (l. 11 e 12), por lhe
+preservaria a correção gramatical do texto.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+48. CESPE / CEBRASPE - SUFRAMA - Nível Superior - Conhecimentos
+Básicos
+
+O pronome “os”, em “os levou consigo” (l.11), poderia ser corretamente substituído
+por lhes.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+49. CESPE - FUB - Cargos de Nível Médio - Conhecimentos Básicos
+
+Na linha 10, o pronome “lhes” poderia ser substituído por os, sem prejuízo da
+correção gramatical do texto, dada a possibilidade de dupla regência do verbo
+oferecer.
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+50. CESPE / CEBRASPE - 2021 - TCE-RJ - Analista de Controle Externo -
+Especialidade: Ciências Contábeis
+
+ A correção gramatical do trecho “Tinha às vezes vontade de chamar o feitor e dar
+ ordens” (l.15) seria mantida caso ele fosse reescrito da seguinte forma: Tinha às
+ vezes vontade de chamar o feitor e dá-lo ordens.
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                      @professoraadrianafigueiredo
+
+            https://www.youtube.com/user/professoraadrianaf
+
+                 facebook.com/prof.adriana.figueiredo
+
+
+                  
+
+
+---
+
+---

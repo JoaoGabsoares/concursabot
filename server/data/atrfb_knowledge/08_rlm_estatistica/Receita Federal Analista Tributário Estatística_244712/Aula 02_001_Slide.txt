@@ -1,0 +1,275 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ESTATÍSTICA
+
+                                              Prof. Jhoni Zini
+
+
+
+
+         https://t.me/KakashiAssinaturasBot
+NOTAÇÃO DE SOMATÓRIO
+
+
+                                             Prof. Jhoni Zini
+
+
+
+        https://t.me/KakashiAssinaturasBot
+          SOMATÓRIO
+
+                                      ⋯
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                      https://t.me/KakashiAssinaturasBot
+          EXEMPLO
+      X1 = 2
+
+      X2 = 4
+
+      X3 = 6
+
+      X4 = 8
+
+      X5 = 10
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                    https://t.me/KakashiAssinaturasBot
+          EXEMPLO
+      X1 = 5
+
+      X2 = 7
+
+      X3 = 10
+
+      X4 = 12
+
+      X5 = 12
+
+      X6 = 15
+
+      X7 = 20
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                    https://t.me/KakashiAssinaturasBot
+MEDIDAS DE POSIÇÃO
+
+
+                                             Prof. Jhoni Zini
+
+
+
+        https://t.me/KakashiAssinaturasBot
+          MEDIDAS DE POSIÇÃO
+           MÉDIA
+           MODA
+           MEDIANA
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                      https://t.me/KakashiAssinaturasBot
+          MEDIDAS DE POSIÇÃO
+           Indicam um ponto central onde, geralmente, está localizada a
+           maioria das observações.
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                               https://t.me/KakashiAssinaturasBot
+MÉDIA ARITMÉTICA
+SIMPLES
+                                              Prof. Jhoni Zini
+
+
+
+         https://t.me/KakashiAssinaturasBot
+          MEDIDAS ARITMÉTICA
+          SIMPLES
+         É a média tradicional, aquela em que somamos os elementos e
+         dividimos pela quantidade de elementos.
+
+
+                       ∑
+                   ̅
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                             https://t.me/KakashiAssinaturasBot
+          MEDIDAS ARITMÉTICA
+          SIMPLES
+        Calcule a média aritmética simples entre 3, 7 e 14.
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                                https://t.me/KakashiAssinaturasBot
+          MEDIDAS ARITMÉTICA
+          SIMPLES
+        Calcule a média entre 4, 6, 10 e 12.
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                               https://t.me/KakashiAssinaturasBot
+          QUESTÃO 1
+       O quadro abaixo apresenta a quantidade de peças produzidas em
+       quatro dias de trabalho em certa indústria. Sendo assim, assinalar a
+       alternativa que apresenta o valor da média diária de peças produzidas:
+
+                         Peças
+             Dia
+                       produzidas
+                   1      140
+                   2      95
+                   3      109
+                   4      124
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                                    https://t.me/KakashiAssinaturasBot
+          QUESTÃO 2
+       Se a média aritmética entre x, x∑1, 2x+1 e 4 é igual a 10, determine o
+       valor de x.
+       A. 6
+       B. 7
+       C. 8
+       D. 9
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                               https://t.me/KakashiAssinaturasBot
+          QUESTÃO 3
+Elisabeth faz parte de um grupo de 10 funcionários, cuja média de
+idade é de 33 anos. No final do ano, Elisabeth irá se aposentar e,
+consequentemente, sair do grupo, passando a média das idades a ser
+de 30 anos. Com base nesse caso hipotético, é correto afirmar que
+Elisabeth se aposentou com
+A. 57 anos de idade.
+B. 58 anos de idade.
+C. 59 anos de idade.
+D60 anos de idade.
+E. 61 anos de idade.
+ESTATÍSTICA
+Prof. JHONI ZINI
+                         https://t.me/KakashiAssinaturasBot
+          QUESTÃO 4
+  Elisabeth faz parte de um grupo de 10 funcionários, cuja média de idade é
+  de 33 anos. No final do ano, Elisabeth irá se aposentar e,
+  consequentemente, sair do grupo, passando a média das idades a ser de
+  30 anos. Com base nesse caso hipotético, é correto afirmar que Elisabeth
+  se aposentou com
+  A. 57 anos de idade.
+  B. 58 anos de idade.
+  C. 59 anos de idade.
+  D60 anos de idade.
+  E. 61 anos de idade.
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                            https://t.me/KakashiAssinaturasBot
+MÉDIA ARITMÉTICA
+PONDERADA
+                                              Prof. Jhoni Zini
+
+
+
+         https://t.me/KakashiAssinaturasBot
+     MÉDIA ARITMÉTICA
+  É aPONDERADA
+     média que trabalha com pesos, com importância maior para alguns
+  valores .
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                           https://t.me/KakashiAssinaturasBot
+          EXEMPLO
+                   Valor   6                    5                   4
+                   Peso    4                    3                   3
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                               https://t.me/KakashiAssinaturasBot
+          EXEMPLO
+           idade Frequência absoluta
+                   20               1
+                   25               4
+                   30               5
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                                https://t.me/KakashiAssinaturasBot
+          QUESTÃO 1
+       Em uma empresa, os funcionários são classificados em atendentes,
+       técnicos ou gerentes. A tabela abaixo mostra a quantidade de
+       funcionários de cada categoria e o salário que cada um recebe.
+
+                                 Número de
+                   Categoria                 Salário em reais
+                                funcionários
+                   Atendente              10            1800
+                      Técnico              8            3000
+                     Gerente               2            4200
+
+
+  Nessa empresa, o salário médio dos seus funcionários é de:
+  A. 2480 reais; B. 2520 reais; C. 2640 reais; D. 2700 reais; E. 3000 reais.
+ESTATÍSTICA
+Prof. JHONI ZINI
+                                       https://t.me/KakashiAssinaturasBot
+          QUESTÃO 1
+                                 Número de
+                   Categoria                 Salário em reais
+                                funcionários
+                   Atendente              10            1800
+                      Técnico              8            3000
+                     Gerente               2            4200
+
+
+
+
+ESTATÍSTICA
+Prof. JHONI ZINI
+                                       https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

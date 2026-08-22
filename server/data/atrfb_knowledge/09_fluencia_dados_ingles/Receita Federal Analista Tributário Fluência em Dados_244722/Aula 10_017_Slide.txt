@@ -1,0 +1,18 @@
+       K-Medoide (hard)
+         ● análogo ao K-means
+         ● medoide           -          objeto                          mais                  centralmente
+           localizado do grupo
+         ● k-medoides        escolhe        objetos                         da         própria             base
+           como             os            centros                                dos                    grupos,
+           k-means      calcula     o      centro                      do        grupo           a        partir
+           dos objetos neles contidos.
+         ● Mais robusto a ruídos e outliers
+
+
+
+                                                                             Understanding K-Means, K-Means++ and, K-
+                                                                             Medoids Clustering Algorithms | by Satyam
+                                                                             Kumar | Towards Data Science
+Prof. Raphael Lacerda
+                                  https://t.me/KakashiAssinaturasBot
+

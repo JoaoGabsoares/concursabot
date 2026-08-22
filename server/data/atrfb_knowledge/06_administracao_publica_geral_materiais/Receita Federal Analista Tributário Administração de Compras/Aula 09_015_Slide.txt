@@ -1,0 +1,493 @@
+LOGÍSTICA E SUPPLY CHAIN MANAGEMENT
+QUESTÕES COMENTADAS
+FGV - II
+
+                                                   Prof. Ricardo Campanario
+
+
+
+
+              https://t.me/KakashiAssinaturasBot
+4002272986
+
+      (FGV/TCE/PE -Analista de Gestão - Administração/2025) A cadeia de suprimentos é um sistema
+      complexo que envolve múltiplas áreas e processos com o objetivo de atender de forma eficaz às
+      necessidades do cliente final. Uma gestão eficiente da cadeia pressupõe integração entre essas
+      áreas e obediência a certos princípios operacionais e estratégicos.
+      Com base nessa concepção, assinale a afirmativa que caracteriza corretamente um aspecto da
+      cadeia de suprimentos.
+      A) O planejamento de compras deve priorizar o menor custo por unidade, mesmo que isso
+      gere excedente de materiais no estoque.
+      B)      A produção deve ser programada conforme a capacidade instalada da fábrica,
+      independentemente da demanda do cliente final.
+      C)     A área de distribuição opera de forma autônoma em relação ao planejamento de
+      produção, garantindo flexibilidade na entrega ao cliente final.
+      D) A coordenação entre as áreas da cadeia de suprimentos é desejável, mas não interfere
+      diretamente na qualidade do atendimento ao cliente final.
+      E)     A gestão integrada da cadeia busca alinhar as decisões de compras, produção e
+      distribuição com as necessidades do cliente e com as metas organizacionais.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+       Logística
+       Principais conceitos e definições
+     ❑ O conceito de logística vem ganhando muita importância pois o sucesso nesta
+       atividade (as vezes ainda vista como atividade suporte) pode gerar uma grande
+       vantagem competitiva à organização, seja ela pública ou privada.
+     ❑ Um dos conceitos aceitos para logística é de Martin Christopher (2011):
+      Processo de gestão estratégica da aquisição, movimentação e armazenagem de
+      materiais, peças e estoques finais (e os fluxos de informação relacionados) por meio da
+      organização e seus canais de comercialização, de tal forma que as rentabilidades atual e
+      futura sejam maximizadas através da execução de pedidos, visando custo-benefício.
+
+
+
+     ricardocampanario
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+4002272986
+
+      (FGV/TCE/PE -Analista de Gestão - Administração/2025) A cadeia de suprimentos é um sistema
+      complexo que envolve múltiplas áreas e processos com o objetivo de atender de forma eficaz às
+      necessidades do cliente final. Uma gestão eficiente da cadeia pressupõe integração entre essas
+      áreas e obediência a certos princípios operacionais e estratégicos.
+      Com base nessa concepção, assinale a afirmativa que caracteriza corretamente um aspecto da
+      cadeia de suprimentos.
+      A) O planejamento de compras deve priorizar o menor custo por unidade, mesmo que isso
+      gere excedente de materiais no estoque.
+      B)      A produção deve ser programada conforme a capacidade instalada da fábrica,
+      independentemente da demanda do cliente final.
+      C)     A área de distribuição opera de forma autônoma em relação ao planejamento de
+      produção, garantindo flexibilidade na entrega ao cliente final.
+      D) A coordenação entre as áreas da cadeia de suprimentos é desejável, mas não interfere
+      diretamente na qualidade do atendimento ao cliente final.
+      E)     A gestão integrada da cadeia busca alinhar as decisões de compras, produção e
+      distribuição com as necessidades do cliente e com as metas organizacionais.
+      Gabarito: E
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001987106
+
+      (FGV/TCE-RR/Técnico Administrativo/2025) Uma fabricante de roupas, surgida durante a
+      pandemia com o objetivo de empregar costureiras independentes, decide assumir maior
+      controle de sua cadeia produtiva ao abrir lojas próprias, visando oferecer aos clientes um
+      serviço mais customizado. Concernentes com os conceitos de logística, a situação
+      apresentada no enunciado representa um exemplo de
+      A)        Logísitca Reversa
+      B)        Integração Vertical
+      C)        Integração Horizontal
+      D)        Layoutização Estacionária
+      E)        Kanban
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001987106
+
+      (FGV/TCE-RR/Técnico Administrativo/2025) Uma fabricante de roupas, surgida durante a
+      pandemia com o objetivo de empregar costureiras independentes, decide assumir maior
+      controle de sua cadeia produtiva ao abrir lojas próprias, visando oferecer aos clientes um
+      serviço mais customizado. Concernentes com os conceitos de logística, a situação
+      apresentada no enunciado representa um exemplo de
+      A)        Logísitca Reversa
+      B)        Integração Vertical
+      C)        Integração Horizontal
+      D)        Layoutização Estacionária
+      E)        Kanban
+
+      Gabarito: B
+
+       A Integração vertical se caracteriza pelo controle de mais de uma etapa da
+       cadeia de produção ou distribuição. É exatamente o que o enunciado
+       propõem, ou seja, o fabricante do produto adquire ou constrói lojas para
+       executar a comercialização dos produtos por ele fabricados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                           ricardocampanario
+                                                 https://t.me/KakashiAssinaturasBot
+4001389333
+
+      (FGV/ALEMA/Agente Legislativo/2023) Em função dos novos contextos da sociedade, a
+      gestão de materiais tem se adaptado e buscado novas soluções para fazer frente aos
+      problemas considerados mais urgentes a serem enfrentados.
+      Nesse sentido,
+      A) a paletização, embora gere atrasos por ineficiente aproveitamento do espaço, previne
+      as perdas e desperdícios por mau acondicionamento.
+      B) o Kanban permite a eliminação da necessidade de estoques, por meio do emprego
+      do sistema de produção empurrada.
+      C) a metodologia ágil redesenha radicalmente os processos, priorizando conceitos de
+      acessibilidade, minimizando o uso de sistemas de informação.
+      D) o Supply Chain Management reduz a necessidade de mão-de-obra, aproveitando-se
+      de sistemas de parceria e terceirização, reduzindo os custos sociais.
+      E) a logística reversa possibilita coletar ou recuperar os resíduos do produto após seu
+      consumo, reforçando o desenvolvimento sustentável.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+       Cadeias de Suprimento
+       Resumo
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                    ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+       Pós Consumo x Pós Venda
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                         ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001389333
+
+      (FGV/ALEMA/Agente Legislativo/2023) Em função dos novos contextos da sociedade, a
+      gestão de materiais tem se adaptado e buscado novas soluções para fazer frente aos
+      problemas considerados mais urgentes a serem enfrentados.
+      Nesse sentido,
+      A) a paletização, embora gere atrasos por ineficiente aproveitamento do espaço, previne
+      as perdas e desperdícios por mau acondicionamento.
+      B) o Kanban permite a eliminação da necessidade de estoques, por meio do emprego
+      do sistema de produção empurrada.
+      C) a metodologia ágil redesenha radicalmente os processos, priorizando conceitos de
+      acessibilidade, minimizando o uso de sistemas de informação.
+      D) o Supply Chain Management reduz a necessidade de mão-de-obra, aproveitando-se
+      de sistemas de parceria e terceirização, reduzindo os custos sociais.
+      E) a logística reversa possibilita coletar ou recuperar os resíduos do produto após seu
+      consumo, reforçando o desenvolvimento sustentável.
+
+      Gabarito: E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001381091
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) Logística Reversa é aquela encarregada,
+      dentro do ciclo de vida do produto, de tratar todo o canal reverso que a logística
+      empresarial proporciona, sendo, dessa forma, um processo com foco nos retornos no
+      mercado e não necessariamente um processo que vise o alcance da sustentabilidade.
+      Existe uma atividade no fluxo reverso, muito comum no caso de celulares e tablets, em que
+      o produto é submetido a um processo de revisão técnico-funcional, com substituição de
+      alguns componentes e realização de testes de desempenho que garantam que ele
+      apresente as mesmas funções do produto original.
+      Essa atividade de fluxo pós-consumo é conhecida como:
+      A) reciclagem;
+      B) reuso;
+      C) remanufatura;
+      D) disposição final;
+      E) redução na fonte.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+       Cadeias de Suprimento
+       Resumo
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                    ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+       Pós Consumo x Pós Venda
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                         ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001381091
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) Logística Reversa é aquela encarregada,
+      dentro do ciclo de vida do produto, de tratar todo o canal reverso que a logística
+      empresarial proporciona, sendo, dessa forma, um processo com foco nos retornos no
+      mercado e não necessariamente um processo que vise o alcance da sustentabilidade.
+      Existe uma atividade no fluxo reverso, muito comum no caso de celulares e tablets, em que
+      o produto é submetido a um processo de revisão técnico-funcional, com substituição de
+      alguns componentes e realização de testes de desempenho que garantam que ele
+      apresente as mesmas funções do produto original.
+      Essa atividade de fluxo pós-consumo é conhecida como:
+      A) reciclagem;
+      B) reuso;                  Neste caso a banca descreve o processo de remanufatura, no qual alguns
+                                 componentes são substituídos para que o produto possa voltar a funcionar
+      C) remanufatura;
+                                 com todas suas propriedades.
+      D) disposição final;
+      E) redução na fonte.
+
+      Gabarito: C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                        ricardocampanario
+                                              https://t.me/KakashiAssinaturasBot
+4001381108
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) A Logística Reversa é a área da logística
+      que planeja, opera e controla o fluxo de retorno dos bens de pós-venda e de pós-
+      consumo.
+      Já a Logística Verde é aquela que busca diminuir os impactos ambientais da logística pelo
+      aumento da eficiência, redução de desperdícios, controle dos resíduos e da contaminação,
+      e pelo emprego dos 5 Rs.
+      Nenhuma dessas duas áreas da logística engloba a outra, mas elas apresentam atividades
+      em comum, como:
+      A) reciclagem;
+      B) redução das emissões na distribuição ao consumidor;
+      C) redução de embalagens na entrega ao consumidor;
+      D) retorno dos produtos em consignação;
+      E) retorno da mercadoria por garantia contra defeito.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+       Cadeias de Suprimento
+       Resumo
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                    ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+       Pós Consumo x Pós Venda
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                         ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001381108
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) A Logística Reversa é a área da logística
+      que planeja, opera e controla o fluxo de retorno dos bens de pós-venda e de pós-
+      consumo.
+      Já a Logística Verde é aquela que busca diminuir os impactos ambientais da logística pelo
+      aumento da eficiência, redução de desperdícios, controle dos resíduos e da contaminação,
+      e pelo emprego dos 5 Rs.
+      Nenhuma dessas duas áreas da logística engloba a outra, mas elas apresentam atividades
+      em comum, como:
+      A) reciclagem;
+      B) redução das emissões na distribuição ao consumidor;
+      C) redução de embalagens na entrega ao consumidor;
+      D) retorno dos produtos em consignação;
+      E) retorno da mercadoria por garantia contra defeito.
+
+      Gabarito: A
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001381046
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) As atividades de um sistema logístico
+      típico podem ser classificadas em atividades-chave, que são aquelas mais importantes, e
+      em atividades de suporte, que darão apoio à realização das atividades-chave.
+      As quatro atividades-chave de um sistema logístico típico são:
+      A) transporte; serviços ao cliente; armazenagem; compras;
+      B) transporte; serviços ao cliente; gerência de estoque; fluxos de informação e
+      processamento de pedidos;
+      C) transporte; armazenagem; gerência de estoque; manutenção de informações;
+      D) transporte; armazenagem; manuseio de materiais; manutenção de informações;
+      E) transporte; serviços ao cliente; gerência de estoque; compras.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+Atividades Logísticas
+Primárias e de Apoio
+❑ Note que, embora o autor use terminologia específica, as três
+  atividades que ele rotula como atividades primárias:
+  processamento de pedidos, manutenção de estoques e
+  transporte, estão diretamente ligadas aos três grandes grupos
+  de atividades que estudamos em administração de materiais.
+
+
+
+
+                                                                         ricardocampanario
+                                             https://t.me/KakashiAssinaturasBot
+4001381046
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) As atividades de um sistema logístico
+      típico podem ser classificadas em atividades-chave, que são aquelas mais importantes, e
+      em atividades de suporte, que darão apoio à realização das atividades-chave.
+      As quatro atividades-chave de um sistema logístico típico são:
+      A) transporte; serviços ao cliente; armazenagem; compras;
+      B) transporte; serviços ao cliente; gerência de estoque; fluxos de informação e
+      processamento de pedidos;
+      C) transporte; armazenagem; gerência de estoque; manutenção de informações;
+      D) transporte; armazenagem; manuseio de materiais; manutenção de informações;
+      E) transporte; serviços ao cliente; gerência de estoque; compras.
+
+      Gabarito: D
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001381118
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) Um centro de distribuição (CD) é um espaço físico onde
+      os produtos oriundos de grandes fabricantes ficam armazenados para serem distribuídos aos mercados por
+      meio de pontos de vendas ou diretamente até a porta do cliente final. Nos últimos anos, o CD tem figurado
+      como um valioso elemento no avanço da logística como um dos principais fatores de sucesso das empresas.
+      Nesse contexto, a implantação do conceito de cross-docking em CDs trouxe uma série de benefícios para a
+      logística de distribuição dentro de uma cadeia de suprimento.
+      Os benefícios (vantagens) gerados pela implantação do cross-docking em CDs são:
+      A) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter mais áreas para
+      estocagem; reduzir os custos de capital imobilizado em estoques;
+      B) acelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais áreas para
+      estocagem; ampliar os custos de capital imobilizado em estoques;
+      C) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos áreas para
+      estocagem; reduzir os custos de capital imobilizado em estoques;
+      D) desacelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos áreas para
+      estocagem; reduzir os custos de capital imobilizado em estoques;
+      E) desacelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais áreas para
+      estocagem; ampliar os custos de capital imobilizado em estoques.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                           ricardocampanario
+                                                 https://t.me/KakashiAssinaturasBot
+       Cross Docking & Transit Point
+                                                                                 O cross docking é um método de distribuição, no
+                                                                                 qual a mercadoria recebida num armazém ou
+                                                                                 centro de distribuição, não é estocada, mas sim
+                                                                                 preparada para o carregamento e distribuição ou
+                                                                                 expedição a fim de ser entregue ao cliente ou
+                                                                                 consumidor imediatamente, ou, pelo menos, o
+                                                                                 mais rapidamente possível.
+                                                                                 No cross docking, quando alguém compra
+                                                                                 determinado produto em um site, ele é enviado a
+                                                                                 um centro de distribuição ou armazém que, por
+                                                                                 meio de um sistema organizado de redistribuição,
+                                                                                 o envia para o cliente.
+                                                                                 Em suma, o cross-docking é a transferência das
+                                                                                 mercadorias entregues, do ponto de recebimento,
+                                                                                 diretamente para o ponto de entrega, com tempo
+                                                                                 de estocagem limitado ou, se possível, nulo.
+                                                                                 Trabalha com múltiplos fornecedores, que atendem
+                                                                                 clientes comuns, sendo essa a maior diferença entre
+                                                                                 o cross docking e o transit point, que geralmente é
+                                                                                 um “CD sem estoque”, servindo a uma única
+                                                                                 organização.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                         ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+4001381118
+
+      (FGV/DPE RS/Apoio Especializado/Logística/2023) Um centro de distribuição (CD) é um espaço físico onde
+      os produtos oriundos de grandes fabricantes ficam armazenados para serem distribuídos aos mercados por
+      meio de pontos de vendas ou diretamente até a porta do cliente final. Nos últimos anos, o CD tem figurado
+      como um valioso elemento no avanço da logística como um dos principais fatores de sucesso das empresas.
+      Nesse contexto, a implantação do conceito de cross-docking em CDs trouxe uma série de benefícios para a
+      logística de distribuição dentro de uma cadeia de suprimento.
+      Os benefícios (vantagens) gerados pela implantação do cross-docking em CDs são:
+      A) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter mais áreas para
+      estocagem; reduzir os custos de capital imobilizado em estoques;
+      B) acelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais áreas para
+      estocagem; ampliar os custos de capital imobilizado em estoques;
+      C) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos áreas para
+      estocagem; reduzir os custos de capital imobilizado em estoques;
+      D) desacelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos áreas para
+      estocagem; reduzir os custos de capital imobilizado em estoques;
+      E) desacelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais áreas para
+      estocagem; ampliar os custos de capital imobilizado em estoques.
+      Gabarito: C
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                           ricardocampanario
+                                                 https://t.me/KakashiAssinaturasBot
+62129124
+
+      (FGV/DPE RJ/Técnico/2019) Uma organização opera em um ambiente estável e previsível.
+      Nesse tipo de ambiente, é recomendado que a organização adote, no âmbito da gestão
+      de sua cadeia de valor:
+      A) manutenção de baixos níveis de estoque e redução dos custos de produção;
+      B) escolha de fornecedores flexíveis e sistemas just in time;
+      C) manutenção de estoques na cadeia e busca de fornecedores de baixo custo;
+      D) estrutura organizacional por processos e priorização da flexibilidade na entrega dos
+      produtos;
+      E) descentralização do processo de compras e priorização da rapidez na entrega dos
+      produtos.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                      ricardocampanario
+                                            https://t.me/KakashiAssinaturasBot
+62129124
+
+      (FGV/DPE RJ/Técnico/2019) Uma organização opera em um ambiente estável e previsível.
+      Nesse tipo de ambiente, é recomendado que a organização adote, no âmbito da gestão
+      de sua cadeia de valor:
+      A) manutenção de baixos níveis de estoque e redução dos custos de produção;
+      B) escolha de fornecedores flexíveis e sistemas just in time;
+      C) manutenção de estoques na cadeia e busca de fornecedores de baixo custo;
+      D) estrutura organizacional por processos e priorização da flexibilidade na entrega dos
+      produtos;
+      E) descentralização do processo de compras e priorização da rapidez na entrega dos
+      produtos.
+                                     O ambiente estável e previsível permite que a organização estime com alto grau de
+      Gabarito: A                    acerto a demanda futura. Isso faz com que o risco de quebra de estoque seja muito
+                                     menor o que, por sua vez, permite que se trabalhe com níveis mais baixos de
+                                     estoques, evitando seus custos indesejados de guarda e transporte e, mesmo assim,
+                                     não expondo demasiadamente a organização a paralisações no processo produtivo.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                                    ricardocampanario
+                                                          https://t.me/KakashiAssinaturasBot
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                                Prof. Ricardo Campanario
+
+
+
+
+        ricardocampanario  https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

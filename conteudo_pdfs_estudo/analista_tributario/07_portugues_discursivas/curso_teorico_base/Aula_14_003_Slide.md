@@ -1,0 +1,2248 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 14_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Temas Especiais
+---
+
+# Temas Especiais
+
+---
+
+Temas Especiais
+  de Português
+                                          Profª. Adriana
+                                            Figueiredo
+
+     
+
+
+---
+
+CADERNO 16
+                                        Profª. Adriana
+                                          Figueiredo
+
+   
+
+
+---
+
+SENTIDO PRÓPRIO E
+SENTIDO FIGURADO
+                                           Profª. Adriana
+                                             Figueiredo
+
+      
+
+
+---
+
+             SENTIDO                                  Minha mulher é linda.
+             PRÓPRIO/
+            DENOTAÇÃO
+
+
+SEMÂNTICA
+
+              SENTIDO
+             FIGURADO/                               Minha mulher é uma flor.
+            CONOTAÇÃO
+
+                         Prof. Adriana Figueiredo
+                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE
+  FIXAÇÃO
+                                         Profª. Adriana
+                                           Figueiredo
+
+    
+
+
+---
+
+I. Use :
+
+(1) sentido denotativo(próprio)
+(2) sentido conotativo(figurado)
+
+1. Não conseguimos o atendimento no banco. (                        )
+
+
+2. Ele foi muito doce e atencioso comigo. (                     )
+
+
+3. O sujeito que assaltou a loja estava mascarado. (                    )
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+4. A bateria das crianças parece não acabar. (                         )
+
+
+5. "Minha memória não se desgrudava daquela cena ,e meu olhar
+apagava a paisagem a meu redor". ( )
+
+
+6. O funcionário estava meio confuso com os dados. ( )
+
+
+7. "Humorismo é a arte de fazer cócegas no raciocínio dos outros". (
+ )
+
+
+8.
+Profª Chorou          intensamente até dormir. ( )
+      Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE
+ CONCURSO
+                                        Profª. Adriana
+                                          Figueiredo
+
+   
+
+
+---
+
+01. Instituto Consulplan - 2023 - CORE-PB -
+Assistente Administrativo
+Assinale a afirmativa que contém um exemplo de linguagem
+conotativa.
+
+A) “Varreu tudo, espanou, esfregou e... nada.”
+
+B) “A sala estava um brinco; dava até gosto ver.”
+
+C) “A patroa, enfim, contrariando os seus hábitos, tomou uma
+atitude: [...]”
+
+D) “Levantou-se cauteloso, para não acordar ninguém, e desceu as
+escadas, rumo à geladeira.”
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+01. Instituto Consulplan - 2023 - CORE-PB -
+Assistente Administrativo
+Assinale a afirmativa que contém um exemplo de linguagem
+conotativa.
+
+A) “Varreu tudo, espanou, esfregou e... nada.”
+
+B) “A sala estava um brinco; dava até gosto ver.”
+
+C) “A patroa, enfim, contrariando os seus hábitos, tomou uma
+atitude: [...]”
+
+D) “Levantou-se cauteloso, para não acordar ninguém, e desceu as
+escadas, rumo à geladeira.”
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+02. VUNESP - 2023 - Prefeitura de Guarulhos - SP -
+Arquiteto
+No texto, está empregada em sentido figurado a palavra destacada
+em:
+
+A) Uma casa com quintal e espaço para montar um escritório já
+era um sonho de Giovanna Almeida…
+
+B) Ela morava no Brooklyn quando teve de se isolar em casa
+durante o pico da pandemia.
+
+C) Na época em que ainda frequentava o escritório, ela gastava
+uma hora no trajeto entre a casa e o trabalho.
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+02. VUNESP - 2023 - Prefeitura de Guarulhos - SP -
+Arquiteto
+D) Basta dar uma caminhada pela rua 57, entre a Quinta e a Sexta
+avenidas para entender o que está acontecendo.
+
+E) Para voltar a ser uma cidade vibrante, será necessário manter,
+também, artistas, funcionários de hotéis e de restaurantes…
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+02. VUNESP - 2023 - Prefeitura de Guarulhos - SP -
+Arquiteto
+D) Basta dar uma caminhada pela rua 57, entre a Quinta e a Sexta
+avenidas para entender o que está acontecendo.
+
+E) Para voltar a ser uma cidade vibrante, será necessário manter,
+também, artistas, funcionários de hotéis e de restaurantes…
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+03. VUNESP - 2023 - Prefeitura de Peruíbe - SP -
+Professor de Educação Básica
+
+Assinale a afirmação correta acerca do termo destacado na
+passagem do texto.
+
+A) ... um grupo se encontra às 7 horas da manhã para observar
+pássaros... – está empregado em sentido próprio, significando
+fotografar.
+
+B) ... existem várias outras formas de vida, vivendo e
+sobrevivendo. – está empregado em sentido figurado, significando
+concepções.
+
+C) Durante os encontros, sempre há um biólogo que conduz o
+grupo...
+Profª                 – está empregado em sentido próprio, significando
+      Adriana Figueiredo
+                            
+
+
+---
+
+03. VUNESP - 2023 - Prefeitura de Peruíbe - SP -
+Professor de Educação Básica
+
+D) “Nosso papel é ser um trampolim para a observação de
+aves...” – está empregado em sentido figurado, significando meio.
+
+E) No final de cada passarinhada, após o piquenique
+comunitário...   – está empregado em sentido figurado,
+significando comemorativo.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+03. VUNESP - 2023 - Prefeitura de Peruíbe - SP -
+Professor de Educação Básica
+
+D) “Nosso papel é ser um trampolim para a observação de
+aves...” – está empregado em sentido figurado, significando meio.
+
+E) No final de cada passarinhada, após o piquenique
+comunitário...   – está empregado em sentido figurado,
+significando comemorativo.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+04. Instituto Consulplan - 2023 - Prefeitura de
+Orlândia - SP - Consultor Jurídico
+
+“Quem redigia um atropelamento julgava-se um estilista. E a
+própria vaidade o remunerava. Cada qual era um pavão enfático.
+Escrevia na véspera e no dia seguinte via-se impresso, sem o
+retoque de uma vírgula. Havia uma volúpia autoral inenarrável. E
+nenhum estilo era profanado por uma emenda, jamais".
+
+Em relação às palavras destacadas, analise as afirmativas a seguir.
+I. “Enfático” designa aquilo que dá seriedade, importância a algo e
+está empregada, no contexto, em sentido conotativo.
+II. “Volúpia” designa luxúria ou grande prazer dos sentidos e
+sensações e está empregada, no contexto, em sentido denotativo.
+III. “Profanado” designa aquilo que é sagrado e foi tratado com
+desprezo,
+Profª                  ofendido, maculado e está empregada, no contexto, em
+      Adriana Figueiredo
+                             
+
+
+---
+
+04. Instituto Consulplan - 2023 - Prefeitura de
+Orlândia - SP - Consultor Jurídico
+
+Está correto o que se afirma em
+
+A) I, II e III.
+
+B) I e II, apenas.
+
+C) I e III, apenas.
+
+D) II e III, apenas.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+04. Instituto Consulplan - 2023 - Prefeitura de
+Orlândia - SP - Consultor Jurídico
+
+Está correto o que se afirma em
+
+A) I, II e III.
+
+B) I e II, apenas.
+
+C) I e III, apenas.
+
+D) II e III, apenas.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+05. FCC - 2022 - TRT - 9ª REGIÃO (PR) - Analista
+Judiciário - Área Administrativa - Contabilidade
+ Depois que vê a garota ele corre se olhar no espelho: não pode
+negar, meio feio? quase feio? Numa palavra, feio. Dia seguinte
+desiste do bigode ralo. Quem sabe costeleta ou cavanhaque? A
+menina o enfeitiça. Possuído, sim. Febrícula, sonho delirante, falta
+de ar, sede mas não de água. Ela surge enrolada no garfo do
+suculento espaguete à bolonhesa. De sainha xadrez na primeira
+tarde, ó deliciosa bolacha Maria com geleia de uva. Formigas de
+fogo mordem sob a camisa quando ela vem na rua, brincando
+com                   o  arco-íris   na    ponta       dos     dedos.
+           Consegue afinal apertar-lhe a mãozinha na luva de crochê, ri
+(descuidoso de ser feio) dentro de seus olhos glaucos. Discutem o
+narizinho, quem sabe arrebitado, segundo ela. E para ele, nada
+mais bonito que tal narizinho. Meio do sono acorda, olho arregalado
+Profª Adriana Figueiredo
+no escuro. A sua imagem o percorre, impetuoso vento por uma
+                            
+
+
+---
+
+05. FCC - 2022 - TRT - 9ª REGIÃO (PR) - Analista
+Judiciário - Área Administrativa - Contabilidade
+
+           Em guarda no portão, as mãos suadas, fumando. Ela aparece: um
+caramanchão florido de glicínia azul. Olhinho esquivo que fixa e foge. O
+sorriso (uma virgem fatal?) na pequena boca fresca. Um dentinho ectópico
+no lado esquerdo, onde a palavra tiau esbarra quando sai. Ah, se ela
+deixar, passa o resto da vida adorando esse dentinho. Espera outras vezes,
+fumando aflito, um cigarro aceso no outro. Ele mesmo um cigarro em
+chamas. A mocinha não quer lhe dar a mão. Como pode, uma santinha
+disfarçada na terra? Depois, deu.
+          Brava, ainda mais linda. Toda rosa, o lenço no pescoço, gatinha
+na janela depois do banho. A curva altaneira da testa, os cachos loiros
+arrepiados ao vento. Ai, não, uma pérola na orelha. A pérola da orelha. Uma
+divina orelhinha esquerda, sabe o que é? A voz meio rouca: Adivinhe o que
+eu tenho na mão? “Bem, pode ser tanta coisa.” Bala de mel, seu bobo. Pra
+você       que não merece. Já esquecido de timidez e feiura: “Sabe o que eu
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+05. FCC - 2022 - TRT - 9ª REGIÃO (PR) - Analista
+Judiciário - Área Administrativa - Contabilidade
+
+A expressão em destaque mantém no texto o seu sentido
+denotativo em:
+
+
+A) Ele mesmo um cigarro em chamas.
+B) Toda rosa, o lenço no pescoço, gatinha na janela depois do
+banho.
+C) Formigas de fogo mordem sob a camisa.
+D) não pode negar, meio feio?
+E) brincando com o arco-íris na ponta dos dedos.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+05. FCC - 2022 - TRT - 9ª REGIÃO (PR) - Analista
+Judiciário - Área Administrativa - Contabilidade
+
+A expressão em destaque mantém no texto o seu sentido
+denotativo em:
+
+
+A) Ele mesmo um cigarro em chamas.
+B) Toda rosa, o lenço no pescoço, gatinha na janela depois do
+banho.
+C) Formigas de fogo mordem sob a camisa.
+D) não pode negar, meio feio?
+E) brincando com o arco-íris na ponta dos dedos.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+06. FCC - 2022 - PGE-AM - Assistente Procuratorial
+
+
+• Quincas Borba trazia aquele grãozinho de sandice (2º parágrafo).
+
+• nem antes, nem depois da moléstia que lentamente o comeu. (2º
+parágrafo).
+
+• Regia então uma escola de meninos, que fechou para tratar do
+enfermo. (2º parágrafo).
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+06. FCC - 2022 - PGE-AM - Assistente Procuratorial
+
+
+Os termos sublinhados acima estão empregados, respectivamente,
+
+em                                                                     sentido
+
+A) figurado, figurado e figurado.
+
+B) literal, figurado e literal.
+
+C) figurado, figurado e literal.
+
+D) figurado, literal e literal.
+
+E) literal, literal e figurado.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+06. FCC - 2022 - PGE-AM - Assistente Procuratorial
+
+
+Os termos sublinhados acima estão empregados, respectivamente,
+
+em                                                                     sentido
+
+A) figurado, figurado e figurado.
+
+B) literal, figurado e literal.
+
+C) figurado, figurado e literal.
+
+D) figurado, literal e literal.
+
+E) literal, literal e figurado.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. FGV - 2023 - TJ-BA - Juiz Leigo
+Tanto o discurso científico quanto o discurso jornalístico são
+tipicamente associados ao emprego de uma linguagem
+predominantemente conotativa. É possível identificar, no texto ,
+várias palavras que foram usadas em sentido figurado.
+
+A única alternativa em que a palavra sublinhada NÃO foi
+empregada em sentido figurado é:
+
+A) “O grupo que manteve essas células registrou perdas menos
+significativas de neurônios e de movimento quando comparado aos
+demais roedores.”;
+
+B) “Uma característica, a positiva, que protege contra a perda
+neuronal, talvez se manifeste no início da doença, e a outra
+Profª Adriana Figueiredo
+característica, a negativa, que impulsiona essa perda neuronal”;
+                         
+
+
+---
+
+07. FGV - 2023 - TJ-BA - Juiz Leigo
+C) "Isso reforça a importância de desenvolvermos formas de
+diagnósticos mais assertivas para as doenças neurodegenerativas,
+para assim chegarmos a soluções terapêuticas. [...]”;
+
+D) “O Laboratório de Neurobiologia Celular agora se aprofunda nos
+resultados obtidos e nas hipóteses levantadas e também estuda as
+possíveis implicações da micróglia em modelos animais da doença
+de Alzheimer.”;
+
+E) “O Laboratório de Neurobiologia Celular agora se aprofunda nos
+resultados obtidos e nas hipóteses levantadas e também estuda as
+possíveis implicações da micróglia em modelos animais da doença
+de Alzheimer”.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. FGV - 2023 - TJ-BA - Juiz Leigo
+Tanto o discurso científico quanto o discurso jornalístico são
+tipicamente associados ao emprego de uma linguagem
+predominantemente conotativa. É possível identificar, no texto ,
+várias palavras que foram usadas em sentido figurado.
+
+A única alternativa em que a palavra sublinhada NÃO foi
+empregada em sentido figurado é:
+
+A) “O grupo que manteve essas células registrou perdas menos
+significativas de neurônios e de movimento quando comparado aos
+demais roedores.”;
+
+B) “Uma característica, a positiva, que protege contra a perda
+neuronal, talvez se manifeste no início da doença, e a outra
+Profª Adriana Figueiredo
+característica, a negativa, que impulsiona essa perda neuronal”;
+                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+08. FGV - 2023 - CGM - RJ - Contador
+Em função do seu potencial didático, a linguagem figurada costuma
+ser amplamente utilizada em reportagens sobre conteúdos
+científicos, cuja compreensão nem sempre é trivial para o leitor
+leigo. Dentre as passagens abaixo, a única em que a palavra
+sublinhada NÃO apresenta sentido figurado é:
+
+A) “Eles analisaram as placentas de 17 gestantes.” (1º parágrafo);
+
+B) “E, ao chegar a este mundo, somos bombardeados por ele.” (2º
+parágrafo);
+
+C) “e descobriram que, nelas, ‘chovem’ mais de 1.000 toneladas de
+microplásticos por ano, o equivalente a 120 milhões de garrafas
+PET.” (2º parágrafo);
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+08. FGV - 2023 - CGM - RJ - Contador
+
+D) “Ou seja: não estamos apenas sendo soterrados pelo plástico.”
+(4º parágrafo);
+
+E) “Eles encontraram uma bactéria capaz de ‘comer’ esse material,
+transformando-o em energia para sobreviver.” (12º parágrafo).
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+08. FGV - 2023 - CGM - RJ - Contador
+Em função do seu potencial didático, a linguagem figurada costuma
+ser amplamente utilizada em reportagens sobre conteúdos
+científicos, cuja compreensão nem sempre é trivial para o leitor
+leigo. Dentre as passagens abaixo, a única em que a palavra
+sublinhada NÃO apresenta sentido figurado é:
+
+A) “Eles analisaram as placentas de 17 gestantes.” (1º parágrafo);
+
+B) “E, ao chegar a este mundo, somos bombardeados por ele.” (2º
+parágrafo);
+
+C) “e descobriram que, nelas, ‘chovem’ mais de 1.000 toneladas de
+microplásticos por ano, o equivalente a 120 milhões de garrafas
+PET.” (2º parágrafo);
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+09. CESPE / CEBRASPE - 2023 - SME do Recife - PE -
+Professor II - Disciplina: Língua Portuguesa
+(...)
+
+O amor bate na porta,
+o amor bate na aorta,
+fui abrir e me constipei.
+Cardíaco e melancólico,
+o amor ronca na horta
+entre pés de laranjeira
+entre uvas meio verdes
+e desejos já maduros.
+
+(...)
+ Carlos Drummond de Andrade, Poesia Completa. Rio de Janeiro: Nova Aguilar, 2006, p. 46-
+Profª Adriana Figueiredo                                         48 (com adaptações).
+                                  
+
+
+---
+
+09. CESPE / CEBRASPE - 2023 - SME do Recife - PE -
+Professor II - Disciplina: Língua Portuguesa
+
+Nessa estrofe, a forma verbal “me constipei”, no contexto em que
+aparece, está empregada em sentido denotativo.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+09. CESPE / CEBRASPE - 2023 - SME do Recife - PE -
+Professor II - Disciplina: Língua Portuguesa
+
+Nessa estrofe, a forma verbal “me constipei”, no contexto em que
+aparece, está empregada em sentido denotativo.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+10. CESPE / CEBRASPE - 2023 - SME do Recife - PE -
+Professor II
+(...)
+
+A experiência de encontrar os livros certos nos momentos certos da
+vida, esses livros que nos fascinam e que nos vão transformando
+em leitores paulatinamente, não tem uma rota única nem uma
+metodologia específica; por isso, os mediadores de leitura não são
+fáceis de definir. No entanto, basta lembrar como descobrimos, nos
+primeiros anos da vida, esses livros que deixaram rastros em nossa
+infância e, talvez, aparecerão nítidas algumas figuras que foram
+nossos mediadores de leitura: esses adultos íntimos que deram
+vida às páginas de um livro, essas vozes que liam para nós, essas
+mãos e esses rostos que nos apresentavam os mundos possíveis e
+as emoções dos livros.
+Profª Adriana Figueiredo
+(...)                      
+
+
+---
+
+10. CESPE / CEBRASPE - 2023 - SME do Recife - PE -
+Professor II
+
+
+A palavra “rastros” (último período ) é tomada em seu sentido
+denotativo.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+10. CESPE / CEBRASPE - 2023 - SME do Recife - PE -
+Professor II
+
+
+A palavra “rastros” (último período ) é tomada em seu sentido
+denotativo.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+SINÔNIMO E
+ANTÔNIMO
+                                       Profª. Adriana
+                                         Figueiredo
+
+  
+
+
+---
+
+Sinônimos: palavras que têm sentido igual ou muito parecido.
+
+Ex.: belo / bonito ; casa / lar
+
+
+a) sinônimos perfeitos:                 palavras de significados idênticos
+( morrer / falecer)
+
+b) sinônimos imperfeitos: palavras de significados semelhantes
+( feliz / alegre)
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+Antônimos : palavras que têm sentido contrário.
+
+Ex.: aberto / fechado
+
+a) contrários: não há contradição.
+Ex. : leve / pesado
+
+b) contraditórios: um termo elimina o outro.
+Ex.: guerra / paz
+
+c) correlativos: exercem função semelhante.
+Ex.: pai / mãe
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE
+  FIXAÇÃO
+                                         Profª. Adriana
+                                           Figueiredo
+
+    
+
+
+---
+
+II. Use ( C ) para certo e ( E ) para errado
+
+1. Em "Imagens realistas borram a linha entre o que é real e o que
+é ficção", os vocábulos sublinhados são sinônimos. ( )
+
+2. Um antônimo de "prolixo" é "conciso". (                      )
+
+3. Um sinônimo de "adorável" é "agradável".(                        )
+
+4. O antônimo de "rápido" é "acelerado". (                      )
+
+5. "Inoportuno" é um sinônimo de "inconveniente".(                      )
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+6. "Dócil" é um antônimo de "amável". ( )
+
+7. "Rígido" é um antônimo de "flexível". ( )
+
+8. Em " O tapete está sob a mesa" e "O tapete está debaixo da
+mesa", os vocábulos sublinhados são antônimos . ( )
+
+9. "Ilações" é um sinônimo de "inferências". (                  )
+
+10. Em "Ele se veste diferente, tem um estilo próprio" ,o vocábulo
+sublinhado é um sinônimo de "peculiar". ( )
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE
+ CONCURSO
+                                        Profª. Adriana
+                                          Figueiredo
+
+   
+
+
+---
+
+11. Consulplan - 2023 - CORE-PB - Assistente
+Administrativo
+O significado atribuído às palavras pode ser diferente considerando
+o contexto no qual estiverem inseridas. A partir de tal pressuposto,
+sem que haja prejuízo da coerência e sentido textuais
+apresentados, assinale a proposta inadequada de substituição para
+a palavra ou expressão destacada a seguir.
+
+
+A) “Reunida na cozinha, a criadagem confabulava.” – enraivecia;
+atormentava
+
+
+B) “Tachada de desleixada, a arrumadeira caprichou na limpeza.”
+– definida; qualificada
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+11. Consulplan - 2023 - CORE-PB - Assistente
+Administrativo
+C) “Madame esbanjou suas essências com uma altivez digna de
+uma rainha a caminho do cadafalso.” – forca; guilhotina
+
+D) “Há dias já que buscavam uma explicação para os odores
+esquisitos que vinham da sala de visitas.” (1º§) – anormais;
+incomuns
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+11. Consulplan - 2023 - CORE-PB - Assistente
+Administrativo
+O significado atribuído às palavras pode ser diferente considerando
+o contexto no qual estiverem inseridas. A partir de tal pressuposto,
+sem que haja prejuízo da coerência e sentido textuais
+apresentados, assinale a proposta inadequada de substituição para
+a palavra ou expressão destacada a seguir.
+
+
+A) “Reunida na cozinha, a criadagem confabulava.” – enraivecia;
+atormentava
+
+
+B) “Tachada de desleixada, a arrumadeira caprichou na limpeza.”
+– definida; qualificada
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+12. VUNESP - 2023 - Prefeitura de São Paulo - SP -
+Fiscal de Posturas Municipal
+Considere as passagens:
+
+• O tempo é meado do século 19. (1º parágrafo)
+
+• Incensado pelo filósofo Walter Benjamin, o "flâneur" virou um
+ícone... (1º parágrafo)
+
+• Caminhar sem destino desafiava o utilitarismo. (2º parágrafo)
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+12. VUNESP - 2023 - Prefeitura de São Paulo - SP -
+Fiscal de Posturas Municipal
+
+
+Os termos destacados significam, correta e respectivamente:
+
+
+A) algo aquém da metade; parâmetro; despertava.
+B) algo além da metade; representante; afrontava.
+C) bem próximo à metade; modelo; estimulava.
+D) aproximadamente a metade; símbolo; opunha-se.
+E) exatamente a metade; mito; harmonizava-se.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+12. VUNESP - 2023 - Prefeitura de São Paulo - SP -
+Fiscal de Posturas Municipal
+
+
+Os termos destacados significam, correta e respectivamente:
+
+
+A) algo aquém da metade; parâmetro; despertava.
+B) algo além da metade; representante; afrontava.
+C) bem próximo à metade; modelo; estimulava.
+D) aproximadamente a metade; símbolo; opunha-se.
+E) exatamente a metade; mito; harmonizava-se.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+13. VUNESP - 2023 - DPE-SP - Agente de Defensoria
+Pública - Arquiteto
+Leia o fragmento a seguir.
+
+      A atividade dos mares se comporta como uma espécie de
+ferramenta de captação do calor do planeta e, com isso, alivia os
+efeitos catastróficos (ou, ao menos, os mais perniciosos) do efeito
+estufa. […] O relatório da Organização Meteorológica Mundial é
+taxativo e deixa um alerta equivalente a uma advertência.
+
+(Flávio Tavares, A crise do clima, fruto da cegueira. Disponível
+em:<estadão.com.br>. Acesso em 07.05.2023)
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+13. VUNESP - 2023 - DPE-SP - Agente de Defensoria
+Pública - Arquiteto
+Assinale a alternativa que aponta, correta e respectivamente,
+sinônimos das palavras destacadas.
+
+
+A) agressivos … restritivo
+B) desastrosos … consensual
+C) exacerbados … conclusivo
+D) nocivos … categórico
+E) detectáveis … cabal
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+13. VUNESP - 2023 - DPE-SP - Agente de Defensoria
+Pública - Arquiteto
+Assinale a alternativa que aponta, correta e respectivamente,
+sinônimos das palavras destacadas.
+
+
+A) agressivos … restritivo
+B) desastrosos … consensual
+C) exacerbados … conclusivo
+D) nocivos … categórico
+E) detectáveis … cabal
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+14. VUNESP - 2023 - DPE-SP - Oficial de Defensoria
+
+Considere as passagens do texto:
+
+• … enchiam de mensagens amáveis as ruas de outrora. (2º
+parágrafo)
+
+• As casas de platibanda expunham todos os seus disparates
+felizes… (4º parágrafo)
+
+• E ouvia-se a sua linguagem com enternecimento. (4º
+parágrafo)
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+14. VUNESP - 2023 - DPE-SP - Oficial de Defensoria
+
+Os termos destacados significam, correta e respectivamente:
+
+A) tempos passados; absurdos; brandura.
+
+B) tempos sombrios; descasos; atenção.
+
+C) tempos longínquos; momentos; compadecimento.
+
+D) tempos modernos; despropósitos; distração.
+
+E) tempos imaginados; contrassensos; comiseração.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+14. VUNESP - 2023 - DPE-SP - Oficial de Defensoria
+
+Os termos destacados significam, correta e respectivamente:
+
+A) tempos passados; absurdos; brandura.
+
+B) tempos sombrios; descasos; atenção.
+
+C) tempos longínquos; momentos; compadecimento.
+
+D) tempos modernos; despropósitos; distração.
+
+E) tempos imaginados; contrassensos; comiseração.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+15. FCC - 2023 - Copergás - PE - Técnico Operacional
+Edificações
+Eu iria comprar frutas e uma lista pequena de coisas, além da
+minha indefectível água mineral com gás.
+
+O termo grifado no trecho acima pode ser substituído, sem prejuízo
+de sentido, por:
+
+
+A) insossa
+B) insípida
+C) inacessível
+D) invicta
+E)    infalível
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+15. FCC - 2023 - Copergás - PE - Técnico Operacional
+Edificações
+Eu iria comprar frutas e uma lista pequena de coisas, além da
+minha indefectível água mineral com gás.
+
+O termo grifado no trecho acima pode ser substituído, sem prejuízo
+de sentido, por:
+
+
+A) insossa
+B) insípida
+C) inacessível
+D) invicta
+E)    infalível
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+16. FCC - 2023 - TRT - 18ª Região (GO) - Analista
+Judiciário
+[Acerca da “Igualdade”]
+   “Liberdade, Igualdade, Fraternidade” foi o grito de guerra da
+Revolução Francesa. Hoje há disciplinas inteiras − ramos da
+filosofia, da ciência política e dos estudos jurídicos − que têm a
+“igualdade” como tema central de estudos. Todos concordam
+que a igualdade é um valor; ninguém parece concordar quanto ao
+que se refere o termo. Igualdade de oportunidades? Igualdade de
+condições? Igualdade formal perante a lei?
+    Estaremos falando de uma ideologia, a crença de que todos na
+sociedade deveriam ser iguais − claro que não em todos os
+aspectos, mas nos mais importantes? Ou será uma sociedade em
+que as pessoas são efetivamente iguais? O que isso significaria de
+fato, na prática, em ambos os casos? Que todos os membros da
+sociedade têm igual acesso à terra, ou tratam uns aos outros
+Profª Adriana Figueiredo
+                          
+
+
+---
+
+16. FCC - 2023 - TRT - 18ª Região (GO) - Analista
+Judiciário
+    A igualdade seria o apagamento do indivíduo ou a celebração do
+indivíduo? Numa sociedade, por exemplo, em que os mais poderosos
+são tratados como divindades e tomam as decisões mais importantes,
+é possível falar em igualdade? E as relações de gênero? Muitas
+sociedades tratadas como “igualitárias” na verdade têm seu
+igualitarismo restrito aos homens adultos. Em casos assim,
+podemos falar em igualdade de gêneros?
+    Como não existe nenhuma resposta clara e consensual a
+questões desse tipo, o uso do termo “igualitário” tem levado a
+discussões infindáveis. Para alguns teóricos do século XVII, a igualdade
+se manifestava no estado da Natureza. Igualdade, pois, seria um termo
+definido por omissão: identificaria uma humanidade que pudesse estar
+livre depois de removidas todas as armadilhas da civilização. Povos
+“igualitários” seriam, pois, aqueles sem príncipes, sem juízes, sem
+inspetores, sem sacerdotes, possivelmente sem cidades, sem escrita
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+16. FCC - 2023 - TRT - 18ª Região (GO) - Analista
+Judiciário
+  Não há dúvida, pensando-se sempre no ideal de “igualdade”, de
+que algo deu muito errado no mundo. Uma ínfima parte da
+população controla o destino de quase todos os outros, e de uma
+maneira cada vez mais desastrosa.
+
+
+Adaptado de: GRAEBER, David, e WENGROW, David. O despertar de
+tudo − Uma nova história da humanidade. Trad. Denise Bottmann e
+Claudio Marcondes. São Paulo: Companhia das Letras, 2022, p. 91 a
+                                                     94, passim)
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+16. FCC - 2023 - TRT - 18ª Região (GO) - Analista
+Judiciário
+Considerando-se o contexto, traduz-se adequadamente o sentido
+de um segmento do texto em:
+
+A) têm a “igualdade” como tema central de estudos (1º parágrafo)
+= trabalham de modo igualitário um conceito essencial
+
+B) tratam uns aos outros com igual dignidade (2º parágrafo) =
+fazem-se dignos do mesmo tratamento
+
+C) igualitarismo restrito aos homens adultos (3º parágrafo) =
+restrição de igualdade entre os mais bem formados
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+16. FCC - 2023 - TRT - 18ª Região (GO) - Analista
+Judiciário
+D) resposta clara e consensual a questões desse tipo (4º parágrafo)
+= solução límpida para as dissensões de tal ordem
+
+E) estariam ausentes todos os sinais mais evidentes (4º parágrafo)
+= não se apresentariam os traços mais visíveis
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+16. FCC - 2023 - TRT - 18ª Região (GO) - Analista
+Judiciário
+D) resposta clara e consensual a questões desse tipo (4º parágrafo)
+= solução límpida para as dissensões de tal ordem
+
+E) estariam ausentes todos os sinais mais evidentes (4º parágrafo)
+= não se apresentariam os traços mais visíveis
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+17. FGV - 2023 - TJ-BA - Juiz Leigo
+
+"Esses resultados sugerem um possível alvo para o tratamento da
+doença no futuro, quando descobrirmos mecanismos capazes de
+ativar a micróglia de maneira benéfica" (Texto 1, 4º parágrafo)
+
+"Isso reforça a importância de desenvolvermos formas de
+diagnósticos mais assertivas para as doenças neurodegenerativas,
+para assim chegarmos a soluções terapêuticas.” (Texto 1, 7º
+parágrafo)
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+17. FGV - 2023 - TJ-BA - Juiz Leigo
+
+No contexto das passagens acima, as palavras que melhor
+poderiam substituir os adjetivos sublinhados, preservando o
+significado original, são, respectivamente:
+
+
+A) eventual e insistentes;
+B) iminente e asseverativas;
+C) crível e declarativas;
+D) exequível e sutis;
+E) potencial e categóricas.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+17. FGV - 2023 - TJ-BA - Juiz Leigo
+
+No contexto das passagens acima, as palavras que melhor
+poderiam substituir os adjetivos sublinhados, preservando o
+significado original, são, respectivamente:
+
+
+A) eventual e insistentes;
+B) iminente e asseverativas;
+C) crível e declarativas;
+D) exequível e sutis;
+E) potencial e categóricas.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+18. FGV - 2023 - PGM - Niterói - Técnico de
+Procuradoria
+Leia a seguinte frase de um economista:
+
+“Preço” e “valor” significam a mesma coisa, mas “não tem preço” e
+“não tem valor” são antônimos.
+
+O pensamento abaixo que mostra uma estruturação apoiada em
+antônimos, é:
+
+A) A dor é uma advertência, assim como os pequenos prejuízos nos
+negócios nos ensinam a ser prudentes;
+
+B) Não se acomode com a maré mansa, uma grande onda pode
+estar se preparando;
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+18. FGV - 2023 - PGM - Niterói - Técnico de
+Procuradoria
+C) Acelerar demais a economia acaba levando a uma derrapagem
+perigosa;
+
+D) O comércio internacional não é um jogo de damas, é um jogo de
+interesses;
+
+E) A concorrência é uma prática dolorosa, mas produz ótimos
+resultados.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+18. FGV - 2023 - PGM - Niterói - Técnico de
+Procuradoria
+Leia a seguinte frase de um economista:
+
+“Preço” e “valor” significam a mesma coisa, mas “não tem preço” e
+“não tem valor” são antônimos.
+
+O pensamento abaixo que mostra uma estruturação apoiada em
+antônimos, é:
+
+A) A dor é uma advertência, assim como os pequenos prejuízos nos
+negócios nos ensinam a ser prudentes;
+
+B) Não se acomode com a maré mansa, uma grande onda pode
+estar se preparando;
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+19. CESPE / CEBRASPE - 2023 - SERPRO - Analista
+
+Texto CB1A1-I
+
+       Os pais pediram que o menino fosse dormir cedo para que
+pudesse acordar à hora da passagem do ano. A julgar pela
+insistência da recomendação, o ano não passaria se ele não se
+deitasse. O que seria, francamente, um problemão — e para o
+mundo todo. Se o ano não virasse, tudo o que estava para
+acontecer a partir da meia-noite bruscamente ficaria retido nas
+malas, nos pacotes, na escuridão. Por respeito à humanidade, o
+garoto acatou. Quer dizer, mais ou menos — ficaria na cama de
+olhos fechados, igual quando brincava de morto, mas dormir
+mesmo não dormiria. Só estando acordado seria possível devassar
+de vez o mistério da passagem do ano.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+19. CESPE / CEBRASPE - 2023 - SERPRO - Analista
+
+O verbo “devassar” (último período ) é empregado com o mesmo
+sentido de descobrir.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+19. CESPE / CEBRASPE - 2023 - SERPRO - Analista
+
+O verbo “devassar” (último período ) é empregado com o mesmo
+sentido de descobrir.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+20. CESPE / CEBRASPE - 2023 - FUB - Técnico de
+Laboratório
+(...)
+
+A lembrança de quem partiu, bem visível nos chimpanzés, que se
+enlutam quando perdem um ente querido, tornou-se uma marca
+indelével de nossa espécie.
+
+A respeito das ideias, dos sentidos e dos aspectos linguísticos do
+texto precedente, julgue o item que se segue.
+
+O vocábulo “indelével” está empregado com o mesmo sentido de
+permanente.
+
+
+Certo
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+20. CESPE / CEBRASPE - 2023 - FUB - Técnico de
+Laboratório
+(...)
+
+A lembrança de quem partiu, bem visível nos chimpanzés, que se
+enlutam quando perdem um ente querido, tornou-se uma marca
+indelével de nossa espécie.
+
+A respeito das ideias, dos sentidos e dos aspectos linguísticos do
+texto precedente, julgue o item que se segue.
+
+O vocábulo “indelével” está empregado com o mesmo sentido de
+permanente.
+
+
+Certo
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+HOMÔNIMOS E
+ PARÔNIMOS
+                                        Profª. Adriana
+                                          Figueiredo
+
+   
+
+
+---
+
+Homônimos : palavras que apresentam significados diferentes,
+mas que são pronunciadas da mesma forma.
+
+Ex.: cem / sem
+
+a) Perfeitos : iguais na fonia e na grafia ( morro = monte / morro
+= verbo morrer)
+b) Homófonos : grafia diferente, mesma fonia ( cela / sela)
+c) Homógrafos : mesma grafia, fonia diferente ( colher = talher /
+colher = verbo colher)
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Parônimos : palavras que apresentam significados diferentes de
+mesma escrita e som parecido.
+
+Ex. : eminente / iminente
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE
+  FIXAÇÃO
+                                         Profª. Adriana
+                                           Figueiredo
+
+    
+
+
+---
+
+III. Use a forma correta do homônimo ou parônimo
+entre parênteses.
+1.As nuvens fizeram o temporal parecer __________. (eminente /
+iminente)
+
+2.Os    assaltantes    passaram                          ____________   pelos   vigias.
+( despercebidos / desapercebidos)
+
+3.O taxista nunca deixa de _________ o taxímetro. ( aferir / auferir)
+
+4.Pensou em ___________ grandes lucros. ( aferir / auferir)
+
+5.Ela comprou um aparelho na __________ de artigos para o lar.
+( sessão / seção / cessão)
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+6.Em minha estada no Rio de Janeiro,visitei o ___________ Imperial.
+(Paço / Passo)
+
+7.Temos que saber __________ o conhecimento da ignorância.
+( diferir / deferir)
+
+8.O animal possuía uma longa _________ ( calda / cauda)
+
+9.À espera da bofetada, ___________ fortemente os olhos. ( serrou /
+cerrou)
+
+10.Esta instituição ____________ todos os anos ajuda os pobres com
+roupa e comida. ( beneficente / beneficiente)
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE
+ CONCURSO
+                                        Profª. Adriana
+                                          Figueiredo
+
+   
+
+
+---
+
+21. IBADE - 2022 - SES-MG - D01 - Área de Direito
+
+A alternativa que contém INADEQUAÇÃO quanto ao emprego de
+homônimos ou de parônimos é:
+
+A) Cidadãos iminentes passaram por aquela tribuna.
+B)       Organizaram       uma   festa            beneficente          em   prol   dos   mais
+vulneráveis.
+C) O paço episcopal fica no centro daquela cidade interiorana.
+D) Receba o preito de nossa admiração pelo seu sucesso.
+E) O tráfico de escravos denegriu a história brasileira.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+21. IBADE - 2022 - SES-MG - D01 - Área de Direito
+
+A alternativa que contém INADEQUAÇÃO quanto ao emprego de
+homônimos ou de parônimos é:
+
+A) Cidadãos iminentes passaram por aquela tribuna.
+B)       Organizaram       uma   festa            beneficente          em   prol   dos   mais
+vulneráveis.
+C) O paço episcopal fica no centro daquela cidade interiorana.
+D) Receba o preito de nossa admiração pelo seu sucesso.
+E) O tráfico de escravos denegriu a história brasileira.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+22. Instituto Consulplan - 2021 - TJM-MG - Analista
+Judiciário
+Algumas formas verbais do verbo “haver” são parônimas de formas
+verbais de outros verbos, como “houve” e “ouve”. A ortografia de
+algumas palavras pode gerar dúvida em razão do expresso
+anteriormente. Assinale, a seguir, o livre comentário relacionado à
+temática textual em que há plena correção linguística.
+
+A) O eminente poeta afirmou que a simplicidade da vida deve ser
+valorizada por cada um de nós.
+
+B) Para acender na vida, é preciso não só muito trabalho e
+dedicação, mas também companheirismo.
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+22. Instituto Consulplan - 2021 - TJM-MG - Analista
+Judiciário
+C) Muitas vezes o homem passa pelo outro com tanto desprezo que
+o seu semelhante passa a ser alguém desapercebido.
+
+D) A vivência humana requer o exercício da solidariedade para que
+aja o alcance dos objetivos estabelecidos para o coletivo.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+22. Instituto Consulplan - 2021 - TJM-MG - Analista
+Judiciário
+Algumas formas verbais do verbo “haver” são parônimas de formas
+verbais de outros verbos, como “houve” e “ouve”. A ortografia de
+algumas palavras pode gerar dúvida em razão do expresso
+anteriormente. Assinale, a seguir, o livre comentário relacionado à
+temática textual em que há plena correção linguística.
+
+A) O eminente poeta afirmou que a simplicidade da vida deve ser
+valorizada por cada um de nós.
+
+B) Para acender na vida, é preciso não só muito trabalho e
+dedicação, mas também companheirismo.
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+23. IBADE - SEE-AC - Assistente Educacional
+
+No fragmento “entre outros com a presença de cães nas
+sessões,...”, a palavra destacada é flexão no plural de ‘sessão’,
+essa, por sua vez, é confundida comumente com ‘seção’ e
+‘cessão’. Considerando as formas exemplificadas (em destaque
+para melhor leitura), são empregos de:
+
+
+A) homônimas homógrafas.
+B) homônimas homófonas.
+C) homônimas perfeitas.
+D) parônimas.
+E)    antônimas.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+23. IBADE - SEE-AC - Assistente Educacional
+
+No fragmento “entre outros com a presença de cães nas
+sessões,...”, a palavra destacada é flexão no plural de ‘sessão’,
+essa, por sua vez, é confundida comumente com ‘seção’ e
+‘cessão’. Considerando as formas exemplificadas (em destaque
+para melhor leitura), são empregos de:
+
+
+A) homônimas homógrafas.
+B) homônimas homófonas.
+C) homônimas perfeitas.
+D) parônimas.
+E)    antônimas.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+24. IBADE - Prefeitura de São Felipe D`Oeste - RO -
+Auxiliar de Serviços Diversos
+As palavras “passarão” (verbo) e “passarão” (pássaro grande) são
+reconhecidos pela gramática como HOMÔNIMOS. Dentre as
+alternativas abaixo, a que NÃO apresenta um par de homônimos é:
+
+
+A) cesto / sexto.
+B) sessão / cessão.
+C) cheque / xeque.
+D) calda / cauda.
+E) deferir / diferir.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+24. IBADE - Prefeitura de São Felipe D`Oeste - RO -
+Auxiliar de Serviços Diversos
+As palavras “passarão” (verbo) e “passarão” (pássaro grande) são
+reconhecidos pela gramática como HOMÔNIMOS. Dentre as
+alternativas abaixo, a que NÃO apresenta um par de homônimos é:
+
+
+A) cesto / sexto.
+B) sessão / cessão.
+C) cheque / xeque.
+D) calda / cauda.
+E) deferir / diferir.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+25. FCC - TRE-PE - Técnico Judiciário - Área
+Administrativa
+O par grifado que constitui exemplo de parônimos está em:
+
+
+A) No espaço de uma noite, o rio havia transbordado e inundado o
+quintal da casa.
+Pela manhã, foi possível constatar a força destrutiva das águas.
+
+B) O rio se convertera em um caudaloso fluxo de águas sujas.
+O menino se assustou com a violência barrenta das águas.
+
+C) Famílias eminentes podiam ir para o campo, fugindo do bulício
+da cidade.
+Eram iminentes os riscos causados pela inundação das águas
+barrentas             do rio.
+Profª Adriana Figueiredo
+                          
+
+
+---
+
+25. FCC - TRE-PE           -      Técnico                       Judiciário   -   Área
+Administrativa
+D) Era urgente a necessidade de obras para a contenção do rio.
+Havia heroísmo na concentração dos homens que lutavam contra a
+corrente.
+
+E) No pomar atrás da casa havia frutas, entre elas, mangas e cajus.
+Em mangas de camisa, homens tentavam salvar o que as águas
+levavam.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+25. FCC - TRE-PE - Técnico Judiciário - Área
+Administrativa
+O par grifado que constitui exemplo de parônimos está em:
+
+
+A) No espaço de uma noite, o rio havia transbordado e inundado o
+quintal da casa.
+Pela manhã, foi possível constatar a força destrutiva das águas.
+
+B) O rio se convertera em um caudaloso fluxo de águas sujas.
+O menino se assustou com a violência barrenta das águas.
+
+C) Famílias eminentes podiam ir para o campo, fugindo do bulício
+da cidade.
+Eram iminentes os riscos causados pela inundação das águas
+barrentas             do rio.
+Profª Adriana Figueiredo
+                          
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+26. FCC - TJ-SE - Programador de computador
+Constituem parônimos       os             vocábulos             grifados   nas   frases
+apresentadas em:
+
+A) Constava do relatório a descrição pormenorizada da destruição
+do centro de treinamento decorrente da invasão de torcedores.
+Com discrição e muita simpatia, o novo jogador logo conquistou a
+confiança da torcida.
+
+B) O descontentamento dos torcedores culminou com um protesto
+no próprio estádio.
+Como protesto contra as medidas tomadas pela diretoria,
+funcionários se recusaram a trabalhar.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+26. FCC - TJ-SE - Programador de computador
+C) Torcedores descontentes invadiram a sede do clube e a
+depredaram.
+Com sede de vitória, os torcedores estimulavam o time ao ataque.
+
+D) O recinto foi atacado por bombas de fabricação caseira.
+Na festa junina soltaram-se bombas e fogos de artifício coloridos.
+
+E) Os feridos no confronto foram encaminhados ao hospital mais
+próximo.
+Vários espectadores ficaram feridos no último festival.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+26. FCC - TJ-SE - Programador de computador
+Constituem parônimos       os             vocábulos             grifados   nas   frases
+apresentadas em:
+
+A) Constava do relatório a descrição pormenorizada da destruição
+do centro de treinamento decorrente da invasão de torcedores.
+Com discrição e muita simpatia, o novo jogador logo conquistou a
+confiança da torcida.
+
+B) O descontentamento dos torcedores culminou com um protesto
+no próprio estádio.
+Como protesto contra as medidas tomadas pela diretoria,
+funcionários se recusaram a trabalhar.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+27. FGV - 2023 - Prefeitura de São José dos Campos
+- SP - Agente Educador
+Assinale a frase em que houve troca indevida entre parônimos.
+
+
+A) Os emigrantes em Paris são numerosos.
+
+B) O time entrou em campo com o moral alto.
+
+C) O conserto do carro custou caro.
+
+D) Nessa conjuntura atual, todos se prejudicam.
+
+E) Foi feito o acerto de contas.
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+27. FGV - 2023 - Prefeitura de São José dos Campos -
+SP - Agente Educador
+Assinale a frase em que houve troca indevida entre parônimos.
+
+
+A) Os emigrantes em Paris são numerosos.
+
+B) O time entrou em campo com o moral alto.
+
+C) O conserto do carro custou caro.
+
+D) Nessa conjuntura atual, todos se prejudicam.
+
+E) Foi feito o acerto de contas.
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+28. FGV - 2023 - SMF-RJ - Fiscal de Rendas
+A frase em que a palavra sublinhada mostra emprego indevido em
+função de um parônimo, é:
+
+A) Virtudes não são acidentes da natureza. Virtudes são algo que se
+constrói (acidente/incidente);
+
+B) Uma ideia medíocre que desperta entusiasmo irá mais longe do
+que uma grande ideia que não expira entusiasmo algum
+(expirar/inspirar);
+
+C) Coloque uma pitada de ousadia em tudo o que você fizer
+(pitada/pontada);
+
+D) Para se chegar na fonte é preciso nadar contra a corrente
+Profª Adriana Figueiredo
+(fonte/fronte);           
+
+
+---
+
+28. FGV - 2023 - SMF-RJ - Fiscal de Rendas
+A frase em que a palavra sublinhada mostra emprego indevido em
+função de um parônimo, é:
+
+A) Virtudes não são acidentes da natureza. Virtudes são algo que se
+constrói (acidente/incidente);
+
+B) Uma ideia medíocre que desperta entusiasmo irá mais longe do
+que uma grande ideia que não expira entusiasmo algum
+(expirar/inspirar);
+
+C) Coloque uma pitada de ousadia em tudo o que você fizer
+(pitada/pontada);
+
+D) Para se chegar na fonte é preciso nadar contra a corrente
+Profª Adriana Figueiredo
+(fonte/fronte);           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+29. FGV - 2022 - IBGE - Agente Censitário - Municipal
+e Supervisor
+Parônimos são palavras semelhantes, mas de sentido diferente; a
+frase abaixo em que a forma sublinhada mostra uma forma de um
+parônimo/homônimo mal-empregada é
+
+
+A) O aumento era tão pequeno que passou despercebido.
+B) Ela trabalhava na seção de perfumes da loja.
+C) Falou acerca da situação política.
+D) Não estou feliz aqui; vou imigrar.
+E) Pensou em auferir grandes lucros
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+29. FGV - 2022 - IBGE - Agente Censitário - Municipal
+e Supervisor
+Parônimos são palavras semelhantes, mas de sentido diferente; a
+frase abaixo em que a forma sublinhada mostra uma forma de um
+parônimo/homônimo mal-empregada é
+
+
+A) O aumento era tão pequeno que passou despercebido.
+B) Ela trabalhava na seção de perfumes da loja.
+C) Falou acerca da situação política.
+D) Não estou feliz aqui; vou imigrar.
+E) Pensou em auferir grandes lucros
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+30. CESPE                  /   CEBRASPE          -       PC-RR            -   Auxiliar   de
+Necropsia
+
+Gramaticalmente, são consideradas homógrafas palavras que têm
+a mesma grafia, mas sentidos diferentes. São exemplo disso as
+palavras “sessão” e cessão.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+30. CESPE                  /   CEBRASPE          -       PC-RR            -   Auxiliar   de
+Necropsia
+
+Gramaticalmente, são consideradas homógrafas palavras que têm
+a mesma grafia, mas sentidos diferentes. São exemplo disso as
+palavras “sessão” e cessão.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueire
+
+    
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                    @professoraadrianafigueiredo
+
+           https://www.youtube.com/user/
+           professoraadrianaf
+
+               facebook.com/prof.adriana.figueiredo
+
+
+                
+
+
+---
+
+---

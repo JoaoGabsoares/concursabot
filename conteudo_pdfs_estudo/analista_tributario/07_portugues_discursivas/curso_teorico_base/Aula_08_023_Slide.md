@@ -1,0 +1,1489 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 08_023_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: TEMAS
+---
+
+# TEMAS
+
+---
+
+TEMAS
+  ESPECIAIS
+  DE                                    Profª. Adriana
+                                        Figueiredo
+
+
+  PORTUGUÊS
+   
+
+
+---
+
+CADERNO
+28
+                                      Profª. Adriana
+                                      Figueiredo
+
+ 
+
+
+---
+
+ FUNÇÕES
+SINTÁTICAS
+                                        Profª. Adriana
+                                        Figueiredo
+
+   
+
+
+---
+
+   TERMOS
+ACESSÓRIOS DA
+   ORAÇÃO                                Profª. Adriana
+                                         Figueiredo
+
+    
+
+
+---
+
+ PARTE I - Aposto,
+vocativo e adjunto
+    adverbial                              Profª. Adriana
+                                           Figueiredo
+
+      
+
+
+---
+
+ Adjunto Adverbial
+ Vocábulo ou expressão que denota alguma circunstância (tempo,
+ lugar, modo...) do fato expresso pelo verbo. Pode ainda modificar o
+ adjetivo ou o próprio advérbio.
+
+
+ Ex.: Falavam muito.       Homem muito bom.                                  Saíram
+ muito cedo.
+      (verbo)                                                   (adjetivo)
+       (advérbio)
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE
+   FIXAÇÃO                               Profª. Adriana
+                                         Figueiredo
+
+    
+
+
+---
+
+Identifique o adjunto adverbial nas frases a seguir.
+ a) Aquela aluna estuda muito.
+
+ b) Decidimos comprar a casa amanhã.
+
+ c) Talvez seja melhor sairmos.
+
+ d) Sairemos muito tarde.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                           OBSERVAÇÃO IMPORTANTE:
+
+
+ ADJUNTO ADVERBIAL x OBJETO INDIRETO
+
+
+ Algumas palavras morrem de exaustão. (adjunto adverbial de
+ causa)
+
+
+ Vamos resolver o problema com calma. (adjunto adverbial de
+ modo)
+
+
+ Respondi ao chefe. (objeto indireto)
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+EXERCÍCIOS DE
+   FIXAÇÃO                               Profª. Adriana
+                                         Figueiredo
+
+    
+
+
+---
+
+Classifique o termo destacado como objeto indireto
+ou adjunto adverbial
+ a) Viajaremos pela manhã.
+
+ b) Ela gostou do filme.
+
+ c) A aluna resolveu a questão com rapidez.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+Classifique o termo destacado como objeto indireto
+ou adjunto adverbial
+ d) Aquelas pessoas carecem de atenção.
+
+ e) “Entre por essa porta agora...”
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ QUESTÕES DE
+CONCURSO                                Profª. Adriana
+                                        Figueiredo
+
+   
+
+
+---
+
+VUNESP
+                                      Profª. Adriana
+                                      Figueiredo
+
+ 
+
+
+---
+
+VUNESP - TJ-SP - Técnico Judiciário
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - TJ-SP - Técnico Judiciário
+ A questão baseia na charge, publicada em setembro de 2005, por
+ ocasião da morte do humorista Ronald Golias.
+ O termo Cride, considerado o seu emprego na frase, deve ser
+ classificado como
+
+ A) aposto.
+ B) sujeito indeterminado.
+ C) vocativo.
+ D) predicativo.
+ E) complemento verbal.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+VUNESP - TJ-SP - Técnico Judiciário
+ A questão baseia na charge, publicada em setembro de 2005, por
+ ocasião da morte do humorista Ronald Golias.
+ O termo Cride, considerado o seu emprego na frase, deve ser
+ classificado como
+
+ A) aposto.
+ B) sujeito indeterminado.
+ C) vocativo.
+ D) predicativo.
+ E) complemento verbal.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - Prefeitura de São José dos Campos – SP –
+Professor
+Leia o texto para responder à questão.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - Prefeitura de São José dos Campos – SP –
+Professor
+Analisando-se a expressão “Meu gatinho” no 1º e no 3º quadrinho,
+ é correto afirmar que possui
+
+ A) a mesma referência nos dois empregos, sendo sujeito da oração
+ na segunda ocorrência.
+
+
+ B) diferentes referências nos dois empregos, sendo vocativo na
+ primeira ocorrência.
+
+
+ C) a mesma referência nos dois empregos, sendo aposto da oração
+ na segunda ocorrência.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - Prefeitura de São José dos Campos – SP –
+Professor
+Analisando-se a expressão “Meu gatinho” no 1º e no 3º quadrinho,
+ é correto afirmar que possui
+
+
+ D) a mesma referência nos dois empregos, sendo vocativo na
+ segunda ocorrência.
+
+
+ E) diferentes referências nos dois empregos, sendo vocativo na
+ segunda ocorrência.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - Prefeitura de São José dos Campos – SP –
+Professor
+Analisando-se a expressão “Meu gatinho” no 1º e no 3º quadrinho,
+ é correto afirmar que possui
+
+
+ D) a mesma referência nos dois empregos, sendo vocativo
+ na segunda ocorrência.
+
+
+ E) diferentes referências nos dois empregos, sendo vocativo na
+ segunda ocorrência.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – PC – SP - Escrivão de Polícia
+    A dificuldade de negar ajuda ou pedido tem raízes na pré-
+ história, quando se percebeu que as chances de sobrevivência
+ eram maiores se as pessoas se organizassem em bandos e
+ colaborassem umas com as outras do que se vagassem sozinhas
+ por ambientes inóspitos e cheios de perigo. “Agindo em conjunto, a
+ humanidade se mostrou capaz de obter ganhos para sua
+ sobrevivência. Por isso, se uma pessoa lhe pede um favor, a
+ reação natural é colaborar com ela”, explica Ariovaldo Silva Júnior,
+ neurocientista   da    UFMG.     Nos   tempos    modernos,     esse
+ condicionamento virou, em algumas pessoas, motivo de enorme
+ angústia, sintoma de um distúrbio conhecido como ansiedade de
+ insinuação. O problema se manifesta cada vez que o indivíduo se
+ vê, de alguma forma, forçado a fazer algo que não quer, apenas
+ para não se sentir rejeitado pelos pares. Albert Einstein, um dos
+Profª Adriana Figueiredo
+ mais brilhantes angustiados, escreveu: “Toda vez que diz sim
+                            
+
+
+---
+
+VUNESP – PC – SP - Escrivão de Polícia
+ A função sintática do trecho destacado em – Albert Einstein, um
+ dos mais brilhantes angustiados, escreveu:.. – é de
+
+ A) objeto direto.
+
+ B) predicativo do sujeito.
+
+ C) aposto.
+
+ D) complemento nominal.
+
+ E) adjunto adnominal.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+VUNESP – PC – SP - Escrivão de Polícia
+ A função sintática do trecho destacado em – Albert Einstein, um
+ dos mais brilhantes angustiados, escreveu:.. – é de
+
+ A) objeto direto.
+
+ B) predicativo do sujeito.
+
+ C) aposto.
+
+ D) complemento nominal.
+
+ E) adjunto adnominal.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – MPE – SP – Auxiliar de Promotoria
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – MPE – SP – Auxiliar de Promotoria
+No 1° quadrinho, na fala da menina “...estou com um doente em
+casa”, o trecho destacado estabelece sentido de
+
+
+ A) finalidade.
+
+
+ B) ausência.
+
+
+ C) companhia.
+
+
+ D) assunto.
+
+
+ E) modo.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – MPE – SP – Auxiliar de Promotoria
+No 1° quadrinho, na fala da menina “...estou com um doente em
+casa”, o trecho destacado estabelece sentido de
+
+
+ A) finalidade.
+
+
+ B) ausência.
+
+
+ C) companhia.
+
+
+ D) assunto.
+
+
+ E) modo.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ VUNESP - TJ-SP - Técnico Judiciário
+ O texto a seguir é uma das muitas piadas que circulam pela
+ Internet.
+ Leia-o para responder a questão.
+
+ A filha entra no escritório do pai, com o marido a tiracolo, e
+ indaga sem rodeios:
+ — Papai, ______ você não coloca meu marido no lugar do seu sócio
+ que acaba de falecer?
+ E o pai responde de pronto:
+ — Olhe, filha, converse com o pessoal da funerária! Por mim,
+ tudo bem...
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ VUNESP - TJ-SP - Técnico Judiciário
+ Observe as ocorrências do termo com:
+ – com o marido a tiracolo;
+ – com o pessoal da funerária.
+
+ Sobre elas, é correto afirmar que
+
+ A) formam, nos dois casos, expressões que complementam o
+ verbo da oração – são, pois, seus objetos.
+
+ B) a primeira forma uma expressão indicativa de companhia; a
+ segunda, a expressão que complementa o verbo da oração.
+
+ C) formam, nos dois casos,                               expressões   indicativas   de
+ circunstância, no caso, assunto.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ VUNESP - TJ-SP - Técnico Judiciário
+ Observe as ocorrências do termo com:
+ – com o marido a tiracolo;
+ – com o pessoal da funerária.
+
+ Sobre elas, é correto afirmar que
+
+
+ D) a primeira forma a expressão que complementa o verbo da
+ oração; a segunda, uma expressão adverbial indicativa de assunto.
+
+ E) formam, nos dois casos, expressões que qualificam o sujeito da
+ oração em que ocorrem, sendo, pois, apostos.
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ VUNESP - TJ-SP - Técnico Judiciário
+ Observe as ocorrências do termo com:
+ – com o marido a tiracolo;
+ – com o pessoal da funerária.
+
+ Sobre elas, é correto afirmar que
+
+ A) formam, nos dois casos, expressões que complementam o
+ verbo da oração – são, pois, seus objetos.
+
+ B) a primeira forma uma expressão indicativa de companhia; a
+ segunda, a expressão que complementa o verbo da oração.
+
+ C) formam, nos dois casos,                               expressões   indicativas   de
+ circunstância, no caso, assunto.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC
+                                     Profª. Adriana
+                                     Figueiredo
+
+---
+
+IBFC – Prefeitura de Candeias – BA – Auxiliar de
+Serviços
+ Ao estudarGerais
+               a Sintaxe da Língua, é importante identificar a
+ diferença entre o aposto e o vocativo: o primeiro estabelece
+ relação sintática com outro termo da oração e o segundo não. Leia
+ as frases abaixo e assinale a alternativa que não apresenta aposto.
+
+
+ A) As alunas novas, Michele e Paloma, vieram transferidas de
+ Minas Gerais.
+
+
+ B) Manoel, o pintor do bairro, reformou o meu carro.
+
+
+ C) A mãe comprou o material: lápis, borracha, caderno e canetas.
+
+
+ D) Não perca tempo com isto, João; comece logo o seu trabalho.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – Prefeitura de Candeias – BA – Auxiliar de
+Serviços
+ Ao estudarGerais
+               a Sintaxe da Língua, é importante identificar a
+ diferença entre o aposto e o vocativo: o primeiro estabelece
+ relação sintática com outro termo da oração e o segundo não. Leia
+ as frases abaixo e assinale a alternativa que não apresenta aposto.
+
+
+ A) As alunas novas, Michele e Paloma, vieram transferidas de
+ Minas Gerais.
+
+
+ B) Manoel, o pintor do bairro, reformou o meu carro.
+
+
+ C) A mãe comprou o material: lápis, borracha, caderno e canetas.
+
+
+ D) Não perca tempo com isto, João; comece logo o seu
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – EMDEC – SP
+ Em “As sinapses, conexões cerebrais, se dão de maneira
+ acelerada nos primeiros anos da vida.” (4°§), encontra-se
+ destacada uma função sintática. Trata-se do:
+
+
+ A) complemento nominal
+
+ B) vocativo
+
+
+ C) predicativo do sujeito
+
+
+ D) aposto
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+IBFC – EMDEC – SP
+ Em “As sinapses, conexões cerebrais, se dão de maneira
+ acelerada nos primeiros anos da vida.” (4°§), encontra-se
+ destacada uma função sintática. Trata-se do:
+
+
+ A) complemento nominal
+
+ B) vocativo
+
+
+ C) predicativo do sujeito
+
+
+ D) aposto
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2022 – Prefeitura de Dourados – MS –
+Analista de Tecnologia da Informação
+ Leia o excerto: “Ensinado por seu pai, um modesto fabricante de
+ sabão e velas nos EUA, Franklin aprendeu a ler e escrever muito
+ cedo (...)”. Analise as afirmativas abaixo e assinale a alternativa
+ que contenha a mesma estrutura de aposto.
+
+
+ I. Benjamin Franklin foi, certamente, uma das figuras mais
+ importantes da história norte-americana.
+
+
+ II. Nascido em Boston, no estado de Massachusetts em 1706, fruto
+ da união de Joshua (...) com Abdiah.
+
+
+ III. Apesar de trabalhar muito, Franklin sempre encontrou tempo
+ para estudar e ser autodidata.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2022 – Prefeitura de Dourados – MS –
+Analista de Tecnologia da Informação
+
+
+ A) I apenas.
+
+
+ B) II apenas.
+
+
+ C) III apenas.
+
+
+ D) I e II apenas.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2022 – Prefeitura de Dourados – MS –
+Analista de Tecnologia da Informação
+
+
+ A) I apenas.
+
+
+ B) II apenas.
+
+
+ C) III apenas.
+
+
+ D) I e II apenas.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2022 – IBGE – Agente                                      Censitário           de
+Administração
+ Texto III    e Informática
+
+
+    A Proposta de Emenda à Constituição (PEC) que inclui a
+ proteção de dados pessoais como direito fundamental do cidadão,
+ aprovada pelo Senado nesta semana, é extremamente
+ relevante para os dias de hoje, de acordo com o professor da
+ Singularity University e especialista em digital, Ricardo Cavallini.
+   Em entrevista à CNN, ele afirmou que o conceito de
+ privacidade mudou muito. “No mundo conectado, tudo é
+ gravado, ninguém mais será anônimo, não tem mais escolha, a
+ cada milissegundo tem alguém capturando dados sobre a gente,
+ com quem fala, onde está, por onde passa”, explicou.
+
+Profª Adriana Figueiredo
+                           (Matéria publicada        em 22/10/2021. Disponível em: https://www.cnnbrasil.
+                                         
+
+
+---
+
+IBFC – 2022 – IBGE – Agente Censitário de
+Administração   e Informática
+ Em todas as passagens   abaixo, retiradas do texto, destacam-se
+ termos ou expressões de caráter adverbial, EXCETO em:
+
+
+ A) “aprovada pelo Senado nesta semana” .
+
+ B) “é extremamente relevante para os dias de hoje” .
+
+
+ C) “o conceito de privacidade mudou muito” .
+
+
+ D) “No mundo conectado, tudo é gravado” .
+
+
+ E) “com quem fala, onde está,” .
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2022 – IBGE – Agente Censitário de
+Administração   e Informática
+ Em todas as passagens   abaixo, retiradas do texto, destacam-se
+ termos ou expressões de caráter adverbial, EXCETO em:
+
+
+ A) “aprovada pelo Senado nesta semana” .
+
+ B) “é extremamente relevante para os dias de hoje” .
+
+
+ C) “o conceito de privacidade mudou muito” .
+
+
+ D) “No mundo conectado, tudo é gravado” .
+
+
+ E) “com quem fala, onde está,” .
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+    FCC
+                                     Profª. Adriana
+                                     Figueiredo
+
+---
+
+FCC – Prefeitura de São José do Rio Preto – SP -
+Técnico em Radiologia
+Para responder à questão, considere os quadrinhos abaixo.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – Prefeitura de São José do Rio Preto – SP -
+Técnico
+Em Vocêem nãoRadiologia
+               entende de segurança, Charlie Brown, o elemento
+sublinhado corresponde ao vocativo, por meio do qual se invoca o
+interlocutor do discurso. Do mesmo modo, o vocativo está
+sublinhado na seguinte frase:
+
+
+ A) Participantes do programa de fidelidade terão um desconto de
+ 50% na compra do ingresso.
+
+
+ B) Ambientalistas, hoje, irão ao parlamento para dialogar com os
+ representantes do governo.
+
+
+ C) Alunos do último ano, tradicionalmente, fazem uma viagem
+ antes da festa de formatura.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – Prefeitura de São José do Rio Preto – SP -
+Técnico
+Em Vocêem nãoRadiologia
+               entende de segurança, Charlie Brown, o elemento
+sublinhado corresponde ao vocativo, por meio do qual se invoca o
+interlocutor do discurso. Do mesmo modo, o vocativo está
+sublinhado na seguinte frase:
+
+
+ D) Senhores passageiros, não se esqueçam de afivelar seus cintos
+ de segurança.
+
+
+ E) Gestantes e lactantes, por precaução, foram desaconselhadas a
+ tomar a vacina.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – Prefeitura de São José do Rio Preto – SP -
+Técnico
+Em Vocêem nãoRadiologia
+               entende de segurança, Charlie Brown, o elemento
+sublinhado corresponde ao vocativo, por meio do qual se invoca o
+interlocutor do discurso. Do mesmo modo, o vocativo está
+sublinhado na seguinte frase:
+
+
+ D) Senhores passageiros, não se esqueçam de afivelar seus
+ cintos de segurança.
+
+
+ E) Gestantes e lactantes, por precaução, foram desaconselhadas a
+ tomar a vacina.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – 2022 – TRT 22a Região - PI - Técnico Judiciário
+Atenção: Para responder à questão, considere o poema abaixo do
+escritor piauiense Mário Faustino.
+
+
+ Esse estoque de amor que acumulei
+ Ninguém veio comprar a preço justo.
+ Preparei meu castelo para um rei
+ Que mal me olhou, passando, e a quanto custo.
+
+
+ Meu tesouro amoroso há muito as traças
+ Comeram, secundadas por ladrões.
+ A luz abandonou as ondas lassas
+ De refletir um sol que só se põe
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+FCC – 2022 – TRT 22a Região - PI - Técnico Judiciário
+
+ Sozinho. Agora vou por meus infernos
+ Sem fantasma buscar entre fantasmas.
+ E marcho contra o vento, sobre eternos
+
+
+ Desertos sem retorno, onde olharás
+ Mas sem o ver, estrela cega, o rastro
+ Que até aqui deixei, seguindo um astro.
+
+ (FAUSTINO, Mário. O homem e sua hora. São Paulo: Companhia das
+ Letras, 2009)
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – 2022 – TRT 22a Região - PI - Técnico Judiciário
+No poema, o eu lírico dirige-se, mediante vocativo, a
+
+
+ A) meu castelo (1ª estrofe)
+
+
+ B) estrela cega (4ª estrofe)
+
+
+ C) tesouro amoroso (2ª estrofe)
+
+
+ D) ondas lassas (2ª estrofe)
+
+
+ E) meus infernos (3ª estrofe)
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+FCC – 2022 – TRT 22a Região - PI - Técnico Judiciário
+No poema, o eu lírico dirige-se, mediante vocativo, a
+
+
+ A) meu castelo (1ª estrofe)
+
+
+ B) estrela cega (4ª estrofe)
+
+
+ C) tesouro amoroso (2ª estrofe)
+
+
+ D) ondas lassas (2ª estrofe)
+
+
+ E) meus infernos (3ª estrofe)
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – TRT 24a Região - MS - Técnico Judiciário
+         Aspectos Culturais de Mato Grosso do Sul
+    A cultura de Mato Grosso do Sul é o conjunto de manifestações
+ artístico-culturais desenvolvidas pela população sul-mato- -
+ grossense muito influenciada pela cultura paraguaia. Essa cultura
+ estadual retrata, também, uma mistura de várias outras
+ contribuições das muitas migrações ocorridas em seu território.
+    O artesanato, uma das mais ricas expressões culturais
+ de um povo, no Mato Grosso do Sul, evidencia crenças,
+ hábitos, tradições e demais referências culturais do
+ Estado. É produzido com matérias primas da própria região e
+ manifesta a criatividade e a identidade do povo sul-mato-
+ grossense por meio de trabalhos em madeira, cerâmica, fibras,
+ osso, chifre, sementes, etc.
+        As peças em geral trazem à tona temas referentes ao Pantanal
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FCC – TRT 24a Região - MS - Técnico Judiciário
+O artesanato, uma das mais ricas expressões culturais de um
+povo, no Mato Grosso do Sul, evidencia crenças, hábitos, tradições
+e demais referências culturais do Estado. (2o parágrafo)
+
+
+ No contexto, o trecho destacado veicula a ideia de
+
+
+ A) explicação.
+ B) proporção.
+ C) concessão.
+ D) finalidade.
+ E) conclusão.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – TRT 24a Região - MS - Técnico Judiciário
+O artesanato, uma das mais ricas expressões culturais de um
+povo, no Mato Grosso do Sul, evidencia crenças, hábitos, tradições
+e demais referências culturais do Estado. (2o parágrafo)
+
+
+ No contexto, o trecho destacado veicula a ideia de
+
+
+ A) explicação.
+ B) proporção.
+ C) concessão.
+ D) finalidade.
+ E) conclusão.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+   FGV
+                                     Profª. Adriana
+                                     Figueiredo
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+
+ TEXTO 1 - PARÁGRAFO 7
+
+
+    Pertencem ao reino Protista, aquele em que os biólogos põem as
+ coisas que eles não sabem direito o que são (rs). Um saco de gatos
+ taxonômico. Protistas não são fungos, animais nem plantas. Mas
+ suas células têm estruturas complexas que esses seres
+ vivos grandões também apresentam – como um núcleo
+ para guardar o DNA, e usinas de geração de energia chamadas
+ mitocôndrias. [...]
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+
+ TEXTO 1 - PARÁGRAFO 8
+
+    Existem protistas multicelulares, visíveis a olho nu, como as
+ algas (pois é, elas não são plantas). Mas muitos, como as amebas
+ e protozoários, são feitos de uma célula só. É o caso dos
+ coanoflagelados. Vistos no microscópio, eles têm a forma de uma
+ bola em cima de um cone. Como a silhueta de um buraco de
+ fechadura, ou de um peão de xadrez. A bola é a célula em si, onde
+ fica o DNA e o resto do maquinário biológico. Já o cone é formado
+ por 30 ou 40 microvilosidades, filamentos que parecem tentáculos
+ de uma água-viva. Do centro desse cone, emerge um
+ filamento maior, chamado flagelo, parecido com o que
+ equipa os espermatozoides – e com a mesma função:
+Profª Adriana Figueiredo
+ nadar. O conjunto da obra fica assim:
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+
+ TEXTO 1 - PARÁGRAFO 12
+
+
+    Vale esclarecer algo: isso não quer dizer que nossos ancestrais
+ sejam os mesmos coanoflagelados que hoje nadam pelados em
+ Santos. Eles eram, isso sim, um protista pré-histórico, que existiu
+ há uns 700 milhões de anos, muito parecido tanto com os
+ coanoflagelados quanto com as células das esponjas – e
+ cuja linhagem se bifurcou para dar origem a ambos. [...]
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+
+ TEXTO 1 - PARÁGRAFO 13
+
+    A hipótese esponjosa de Haeckel permaneceu incólume, por 140
+ anos, como nossa melhor explicação para a origem dos animais.
+ Até que apareceram as carambolas do mar – nome popular dos
+ ctenóforos, bichos aquáticos translúcidos e gelatinosos, que
+ lembram águas-vivas com forma de bola de rugby. Em 2017, um
+ estudo comparativo de genomas identificou as carambolas, e não
+ as esponjas, na raiz da irradiação dos animais. E essa conclusão
+ tem respaldo no registro fóssil: no sul da China, há um fóssil de
+ carambola de 631 milhões de anos na formação geológica
+ de Doushantuo – uma data que corresponde à época mais
+ aceita para a origem dos seres multicelulares.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+
+ TEXTO 1 - PARÁGRAFO 14
+
+    Nem uma coisa nem outra são suficientes para tirar o trono
+ pioneiro das esponjas. Afinal, sempre dá para encontrar um
+ fóssil mais antigo – neste exato momento, uma potencial
+ esponja de 890 milhões de anos está gerando debate entre
+ paleontólogos. O registro geológico não é uma foto perfeita da
+ realidade, principalmente quando estamos tratando de animais
+ moles, que geralmente se decompõem sem deixar rastro. Além
+ disso, análises filogenéticas estão sujeitas a alguma incerteza:
+ métodos e pesquisadores diferentes extraem conclusões distintas
+ dos mesmos DNAs.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+Dada a necessidade de explicar assuntos técnicos para um público
+leigo, textos de divulgação científica tipicamente contêm apostos
+explicativos.
+
+
+ Dentre as alternativas abaixo, aquela em que a sequência isolada
+ por travessão funciona como aposto explicativo é:
+
+
+ A) “Mas suas células têm estruturas complexas que esses seres
+ vivos grandões também apresentam – como um núcleo para
+ guardar o DNA [...]” (Texto 1, 7º parágrafo);
+
+
+ B) “Do centro desse cone, emerge um filamento maior, chamado
+ flagelo, parecido com o que equipa os espermatozoides – e com a
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+Dada a necessidade de explicar assuntos técnicos para um público
+leigo, textos de divulgação científica tipicamente contêm apostos
+explicativos.
+
+
+ Dentre as alternativas abaixo, aquela em que a sequência isolada
+ por travessão funciona como aposto explicativo é:
+
+
+ C) “[...] muito parecido tanto com os coanoflagelados quanto com
+ as células das esponjas – e cuja linhagem se bifurcou para dar
+ origem a ambos.” (Texto 1, 12º parágrafo);
+
+
+ D) “[...] há um fóssil de carambola de 631 milhões de anos na
+ formação geológica de Doushantuo – uma data que corresponde à
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+Dada a necessidade de explicar assuntos técnicos para um público
+leigo, textos de divulgação científica tipicamente contêm apostos
+explicativos.
+
+
+ Dentre as alternativas abaixo, aquela em que a sequência isolada
+ por travessão funciona como aposto explicativo é:
+
+
+ E) “Afinal, sempre dá para encontrar um fóssil mais antigo – neste
+ exato momento, uma potencial esponja de 890 milhões de anos
+ está gerando debate entre paleontólogos.” (Texto 1, 14º
+ parágrafo).
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – TJ – SE – Analista Judiciário
+Dada a necessidade de explicar assuntos técnicos para um público
+leigo, textos de divulgação científica tipicamente contêm apostos
+explicativos.
+
+
+ Dentre as alternativas abaixo, aquela em que a sequência isolada
+ por travessão funciona como aposto explicativo é:
+
+
+ C) “[...] muito parecido tanto com os coanoflagelados quanto com
+ as células das esponjas – e cuja linhagem se bifurcou para dar
+ origem a ambos.” (Texto 1, 12º parágrafo);
+
+
+ D) “[...] há um fóssil de carambola de 631 milhões de anos
+ na formação geológica de Doushantuo – uma data que
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2022 – Prefeitura de Santo André - SP –
+Agente     de     Políticas  Públicas     e    Gestão
+Governamental
+Assinale a opção que apresenta a frase construída com todos os
+termos e em ordem direta (sujeito + verbo + complemento +
+adjunto adverbial).
+
+
+ A) Colombo sai da Espanha, no dia 3 de agosto.
+
+
+ B) Para chegar lá, os portugueses desciam até o final da África.
+
+
+ C) Colombo, convencido de que a Terra era redonda, dobra à
+ direita.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+FGV – 2022 – Prefeitura de Santo André - SP –
+Agente     de     Políticas  Públicas     e    Gestão
+Governamental
+Assinale a opção que apresenta a frase construída com todos os
+termos e em ordem direta (sujeito + verbo + complemento +
+adjunto adverbial).
+
+
+ D) Tudo isso passou a ter um valor extraordinário para os europeus
+ do século XV.
+
+
+ E) O genovês Cristóvão Colombo consegue, na Espanha, em 1492,
+ o patrocínio dos reis Fernando II e Isabel I para uma viagem à
+ Índia.
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2022 – Prefeitura de Santo André - SP –
+Agente     de     Políticas  Públicas     e    Gestão
+Governamental
+Assinale a opção que apresenta a frase construída com todos os
+termos e em ordem direta (sujeito + verbo + complemento +
+adjunto adverbial).
+
+
+ D) Tudo isso passou a ter um valor extraordinário para os
+ europeus do século XV.
+
+
+ E) O genovês Cristóvão Colombo consegue, na Espanha, em 1492,
+ o patrocínio dos reis Fernando II e Isabel I para uma viagem à
+ Índia.
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 - Câmara dos Deputados – Analista
+Legislativo - Informática Legislativa
+Leia o texto a seguir
+
+
+    A união dos confeiteiros do Rio de Janeiro confeccionou, por
+ ocasião do quarto centenário da cidade, a praia de Copacabana
+ em massa e pasta de amêndoas, num bolo de 400 quilos. O bolo
+ representa a praia, os pequenos montes ao redor e inúmeros
+ outros detalhes. Os realizadores deste doce monumental esperam
+ angariar uma grande soma de dinheiro já que será dividido em
+ 1000 pedaços, que serão vendidos a R$20 cada um. Os trinta
+ confeiteiros que o fabricaram utilizaram 2000 ovos, 150kg de
+ farinha e 50 litros de leite, além de xaropes variados.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 - Câmara dos Deputados – Analista
+Legislativo - Informática Legislativa
+ Assinale a opção que indica corretamente o paciente da forma
+verbal destacada e a sua função sintática.
+
+
+ A) confeccionou: a praia de Copacabana em massa e pasta de
+ amêndoas / objeto direto.
+
+
+ B) representa: a praia / objeto direto.
+
+
+ C) esperam angariar: uma grande soma de dinheiro / adjunto
+ adverbial.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+FGV – 2023 - Câmara dos Deputados – Analista
+Legislativo - Informática Legislativa
+ Assinale a opção que indica corretamente o paciente da forma
+verbal destacada e a sua função sintática.
+
+
+ D) será dividido: pedaços / sujeito.
+
+
+ E) utilizaram: os trinta confeiteiros / sujeito.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FGV – 2023 - Câmara dos Deputados – Analista
+Legislativo - Informática Legislativa
+ Assinale a opção que indica corretamente o paciente da forma
+verbal destacada e a sua função sintática.
+
+
+ A) confeccionou: a praia de Copacabana em massa e pasta
+ de amêndoas / objeto direto.
+
+
+ B) representa: a praia / objeto direto.
+
+
+ C) esperam angariar: uma grande soma de dinheiro / adjunto
+ adverbial.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAA
+Í
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                    @professoraadrianafigu
+                    eiredo
+
+           https://www.youtub
+           e.com/user/professoraadrianaf
+
+               facebook.com/
+               prof.adriana.figueiredo
+                
+
+
+---
+
+---

@@ -1,0 +1,975 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 20_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '20'
+titulo_aula: RESUMO DE DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 208.
+- Art. 222.
+- art. 196
+- art. 198
+- art. 203
+- art. 206
+- art. 218
+- art. 220
+sumulas_citadas:
+- Súmula Vinculante nº 12
+---
+
+# RESUMO DE DIREITO CONSTITUCIONAL
+
+RESUMO DE DIREITO CONSTITUCIONAL
+
+
+Seguridade Social
+
+  ● A seguridade social compreende um conjunto integrado de ações de iniciativa
+
+    dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos
+
+    à saúde, à previdência e à assistência social (art. 194, CF/88).
+
+
+Princípios constitucionais da seguridade social
+
+  ● Universalidade da cobertura e do atendimento;
+
+  ● Uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+
+    rurais;
+
+  ● Seletividade e distributividade na prestação dos benefícios e serviços;
+
+  ● Irredutibilidade do valor dos benefícios;
+
+  ● Equidade na forma de participação no custeio;
+
+  ● Diversidade da base de financiamento, identificando-se, em rubricas contábeis
+
+    específicas para cada área, as receitas e as despesas vinculadas a ações de saúde,
+
+    previdência e assistência social, preservado o caráter contributivo da previdência
+
+    social;
+
+  ● Caráter democrático e descentralizado da administração, mediante gestão
+
+    quadripartite, com participação dos trabalhadores, dos empregadores, dos
+
+    aposentados e do Governo nos órgãos colegiados.
+
+                          
+
+
+---
+
+Financiamento da Seguridade Social
+
+     Art. 195. A seguridade social será financiada por toda a sociedade, de
+
+     forma direta e indireta, nos termos da lei, mediante recursos
+
+     provenientes dos orçamentos da União, dos Estados, do Distrito Federal
+
+     e dos Municípios, e das seguintes contribuições sociais:
+
+
+     I - do empregador, da empresa e da entidade a ela equiparada na
+
+     forma da lei, incidentes sobre:
+
+
+     a) a folha de salários e demais rendimentos do trabalho pagos ou
+
+     creditados, a qualquer título, à pessoa física que lhe preste serviço,
+
+     mesmo sem vínculo empregatício;
+
+
+     b) a receita ou o faturamento;
+
+
+     c) o lucro;
+
+
+     II - do trabalhador e dos demais segurados da previdência social,
+
+     podendo ser adotadas alíquotas progressivas de acordo com o valor do
+
+     salário de contribuição, não incidindo contribuição sobre aposentadoria
+
+     e pensão concedidas pelo Regime Geral de Previdência Social;
+
+
+     III - sobre a receita de concursos de prognósticos.
+
+
+     IV - do importador de bens ou serviços do exterior, ou de quem a lei a
+
+     ele equiparar.
+
+                          
+
+
+---
+
+       ○ (*) Nenhum benefício ou serviço da seguridade social poderá ser criado,
+
+          majorado ou estendido sem a correspondente fonte de custeio total.
+
+       ○ (*) As contribuições sociais para a seguridade social só poderão ser exigidas
+
+          após decorridos noventa dias da data da publicação da lei que as houver
+
+          instituído ou modificado. Elas não obedecem ao princípio da anterioridade.
+
+       ○ (*) As receitas dos Estados, do Distrito Federal e dos Municípios destinadas
+
+          à   seguridade       social    constarão        dos       respectivos   orçamentos,   não
+
+          integrando o orçamento da União.
+
+
+Previdência Social
+
+
+  ● A previdência social será organizada sob a forma de regime geral, de caráter
+
+    contributivo e de filiação obrigatória. A previdência destina-se a proteger uma
+
+    série de riscos sociais.
+
+              Evento de risco                                       Benefício
+
+                 Doença                           Auxílio doença ou auxílio acidente
+
+                 Invalidez                            Aposentadoria por invalidez
+
+                  Morte                                     Pensão por morte
+
+                                                      Aposentadoria por idade /
+              Idade avançada                         Aposentadoria por tempo de
+                                                            contribuição
+
+               Maternidade                                 Salário-maternidade
+
+        Desemprego involuntário                           Seguro-desemprego
+
+                               
+
+
+---
+
+        ○ (*) A CF/88 prevê o salário-família e o auxílio reclusão para os dependentes
+
+          dos segurados de baixa renda.
+
+
+ ● Nenhum benefício que substitua o salário de contribuição ou o rendimento do
+
+   trabalho do segurado terá valor mensal inferior ao salário mínimo (art. 201, § 2º).
+
+ ● Todos os salários de contribuição considerados para o cálculo de benefício serão
+
+   devidamente atualizados, na forma da lei (art. 201, § 3º).
+
+ ● É vedada a filiação ao regime geral de previdência social, na qualidade de
+
+   segurado facultativo, de pessoa participante de regime próprio de previdência
+
+   (art. 201, § 5º).
+
+
+Saúde
+
+
+ ● Segundo o art. 196, CF/88, “a saúde é direito de todos e dever do Estado,
+
+   garantido mediante políticas sociais e econômicas que visem à redução do
+
+   risco de doença e de outros agravos e ao acesso universal e igualitário às ações
+
+   e serviços para sua promoção, proteção e recuperação”.
+
+        ○ (*) A saúde é direito de todos, independentemente de contribuição.
+
+ ● As ações e serviços públicos de saúde são de relevância pública. Por isso, a
+
+   regulamentação, fiscalização e controle das ações e serviços públicos de saúde
+
+   cabe ao Estado (Poder Público). No entanto, a execução das ações e serviços de
+
+   saúde cabe ao Poder Público e, também, à iniciativa privada (pessoas físicas e
+
+   jurídicas de direito privado).
+
+                          
+
+
+---
+
+● As ações e serviços públicos de saúde integram uma rede regionalizada e
+
+   hierarquizada e constituem um sistema único (SUS). São três as diretrizes de
+
+   organização do SUS:
+
+      ○ descentralização, com direção única em cada esfera de governo;
+
+      ○ atendimento integral, com prioridade para as atividades preventivas, sem
+
+         prejuízo dos serviços assistenciais e;
+
+      ○ participação da comunidade.
+
+● A assistência à saúde é livre à iniciativa privada. As instituições privadas poderão
+
+   participar de forma complementar do sistema único de saúde, segundo
+
+   diretrizes deste, mediante contrato de direito público ou convênio, tendo
+
+   preferência as entidades filantrópicas e as sem fins lucrativos.
+
+      ○ (*) É vedada a destinação de recursos públicos para auxílios ou subvenções
+
+         às instituições privadas com fins lucrativos.
+
+      ○ (*) É vedada a participação direta ou indireta de empresas ou capitais
+
+         estrangeiros na assistência à saúde no País, salvo nos casos previstos em
+
+         lei.
+
+
+● Os gestores locais do SUS poderão admitir agentes comunitários de saúde e
+
+   agentes de combate às endemias por meio de processo seletivo público, de
+
+   acordo com a natureza e complexidade de suas atribuições e requisitos
+
+   específicos para sua atuação (art. 198, § 4º).
+
+      ○ (*) Emenda Constitucional nº 120/2022: O vencimento dos agentes
+
+         comunitários de saúde e dos agentes de combate às endemias, que não
+
+         será inferior a 2 salários mínimos, fica sob responsabilidade da União, e
+
+                          
+
+
+---
+
+           cabe aos Estados, ao Distrito Federal e aos Municípios estabelecer, além de
+
+           outros consectários e vantagens, incentivos, auxílios, gratificações e
+
+           indenizações, a fim de valorizar o trabalho desses profissionais.
+
+
+Assistência Social
+
+  ● A assistência social será prestada a quem dela necessitar, independentemente
+
+     de contribuição à seguridade social.
+
+  ● Os objetivos da assistência social são os seguintes (art. 203, I a VI):
+
+        ○ a proteção à família, à maternidade, à infância, à adolescência e à velhice;
+
+        ○ o amparo às crianças e adolescentes carentes;
+
+        ○ a promoção da integração ao mercado de trabalho;
+
+        ○ a habilitação e reabilitação das pessoas portadoras de deficiência e a
+
+           promoção de sua integração à vida comunitária;
+
+        ○ a garantia de um salário mínimo de benefício mensal à pessoa portadora
+
+           de deficiência e ao idoso que comprovem não possuir meios de prover à
+
+           própria manutenção ou de tê-la provida por sua família, conforme dispuser
+
+           a lei;
+
+        ○ a redução da vulnerabilidade socioeconômica de famílias em situação de
+
+           pobreza ou de extrema pobreza.
+
+
+Diretrizes para as ações de assistência social
+
+  ● descentralização político-administrativa, cabendo a coordenação e as normas
+
+     gerais à esfera federal e a coordenação e a execução dos respectivos programas
+
+                            
+
+
+---
+
+    às esferas estadual e municipal, bem como a entidades beneficentes e de
+
+    assistência social.
+
+  ● participação da população, por meio de organizações representativas, na
+
+    formulação das políticas e no controle das ações em todos os níveis.
+
+Educação, Cultura e Desporto
+
+Da Educação
+
+  ● A educação, direito de todos e dever do Estado e da família, será promovida e
+
+    incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento
+
+    da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o
+
+    trabalho (art. 205).
+
+
+Princípios do ensino
+
+
+     Art. 206. O ensino será ministrado com base nos seguintes princípios:
+
+
+     I - igualdade de condições para o acesso e permanência na escola;
+
+
+     II - liberdade de aprender, ensinar, pesquisar e divulgar o pensamento,
+
+     a arte e o saber;
+
+
+     III - pluralismo de ideias e de concepções pedagógicas, e coexistência
+
+     de instituições públicas e privadas de ensino;
+
+
+     IV - gratuidade do ensino público em estabelecimentos oficiais;
+
+                           
+
+
+---
+
+   V - valorização dos profissionais da educação escolar, garantidos, na
+
+   forma da lei, planos de carreira, com ingresso exclusivamente por
+
+   concurso público de provas e títulos, aos das redes públicas;
+
+
+   VI - gestão democrática do ensino público, na forma da lei;
+
+
+   VII - garantia de padrão de qualidade.
+
+
+   VIII - piso salarial profissional nacional para os profissionais da
+
+   educação escolar pública, nos termos de lei federal.
+
+
+   IX - garantia do direito à educação e à aprendizagem ao longo da vida.
+
+
+   Parágrafo único. A lei disporá sobre as categorias de trabalhadores
+
+   considerados profissionais da educação básica e sobre a fixação de
+
+   prazo para a elaboração ou adequação de seus planos de carreira, no
+
+   âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
+
+
+     ○ (*) O ensino é livre à iniciativa privada, atendidas as seguintes condições:
+
+           ■ i) cumprimento das normas gerais da educação nacional e;
+
+           ■ ii) autorização e avaliação de qualidade pelo Poder Público.
+
+     ○ (*) Súmula Vinculante nº 12: “A cobrança de taxa de matrícula nas
+
+        universidades públicas viola o disposto no art. 206, IV, da CF.”
+
+
+● As universidades gozam de autonomia didático-científica, administrativa e de
+
+  gestão financeira e patrimonial. Deverão, ainda, obedecer ao princípio da
+
+  indissociabilidade   entre    ensino,      pesquisa        e inovação. É facultado às
+
+                        
+
+
+---
+
+    universidades admitir professores, técnicos e cientistas estrangeiros, na forma da
+
+    lei.
+
+
+Efetivação do direito à educação
+
+     Art. 208. O dever do Estado com a educação será efetivado mediante a
+
+     garantia de:
+
+
+     I - educação básica obrigatória e gratuita dos 4 (quatro) aos 17
+
+     (dezessete) anos de idade, assegurada inclusive sua oferta gratuita
+
+     para todos os que a ela não tiveram acesso na idade própria;
+
+
+     II - progressiva universalização do ensino médio gratuito;
+
+
+     III   - atendimento educacional especializado aos portadores de
+
+     deficiência, preferencialmente na rede regular de ensino;
+
+
+     IV - educação infantil, em creche e pré-escola, às crianças até 5 (cinco)
+
+     anos de idade;
+
+
+     V - acesso aos níveis mais elevados do ensino, da pesquisa e da criação
+
+     artística, segundo a capacidade de cada um;
+
+
+     VI - oferta de ensino noturno regular, adequado às condições do
+
+     educando;
+
+                          
+
+
+---
+
+   VII - atendimento ao educando, em todas as etapas da educação
+
+   básica,      por   meio      de    programas         suplementares          de   material
+
+   didático-escolar, transporte, alimentação e assistência à saúde.
+
+
+     ○ (*) O ensino religioso, de matrícula facultativa, constituirá disciplina dos
+
+         horários normais das escolas públicas de ensino fundamental.
+
+     ○ (*) Os Estados e o Distrito Federal atuarão prioritariamente no ensino
+
+         fundamental e médio. Os Municípios atuarão prioritariamente no ensino
+
+         fundamental e na educação infantil.
+
+             Níveis de ensino                              Atuação prioritária
+
+               Ensino médio                                       Estados e DF
+
+           Ensino fundamental                          Estados e DF / Municípios
+
+             Educação infantil                                    Municípios
+
+
+● A distribuição dos recursos públicos assegurará prioridade ao atendimento das
+
+  necessidades do ensino obrigatório, no que se refere a universalização, garantia
+
+  de padrão de qualidade e equidade, nos termos do plano nacional de educação
+
+  (art. 212, § 3º).
+
+     ○ (*) Emenda Constitucional nº 108/2020: O padrão mínimo de qualidade
+
+         considerará as condições adequadas de oferta e terá como referência o
+
+         Custo Aluno Qualidade (CAQ), pactuados em regime de colaboração na
+
+         forma disposta em lei complementar, conforme o parágrafo único do art.
+
+         23 da Constituição.
+
+                             
+
+
+---
+
+       ○ (*) A União, os Estados, o Distrito Federal e os Municípios exercerão ação
+
+          redistributiva em relação a suas escolas.
+
+
+  ● A União aplicará, anualmente, nunca menos de 18%, e os Estados, o Distrito
+
+    Federal e os Municípios 25%, no mínimo, da receita resultante de impostos,
+
+    compreendida       a   proveniente        de     transferências,   na   manutenção   e
+
+    desenvolvimento do ensino.
+
+  ● As atividades de pesquisa, de extensão e de estímulo e fomento à inovação
+
+    realizadas por universidades e/ou por instituições de educação profissional e
+
+    tecnológica poderão receber apoio financeiro do Poder Público (art. 213, § 2º).
+
+
+Da Cultura
+
+
+  ● Acesso à cultura
+
+
+     Art. 215. O Estado garantirá a todos o pleno exercício dos direitos
+
+     culturais e acesso às fontes da cultura nacional, e apoiará e incentivará
+
+     a valorização e a difusão das manifestações culturais.
+
+
+     § 1º O Estado protegerá as manifestações das culturas populares,
+
+     indígenas e afro-brasileiras, e das de outros grupos participantes do
+
+     processo civilizatório nacional.
+
+
+       ○ (*) A CF/88 consagrou uma concepção multiculturalista, na medida em
+
+          que evidencia a importância dos diversos grupos étnicos na formação da
+
+          cultura brasileira.
+
+                           
+
+
+---
+
+       ○ A lei estabelecerá o Plano Nacional de Cultura, de duração plurianual.
+
+
+  ● Segundo o art. 216, CF/88 constituem patrimônio cultural brasileiro os bens de
+
+    natureza material e imaterial, tomados individualmente ou em conjunto,
+
+    portadores de referência à identidade, à ação, à memória dos diferentes grupos
+
+    formadores da sociedade brasileira.
+
+  ● A CF/88 determinou o tombamento de todos os documentos e sítios detentores
+
+    de reminiscências históricas dos antigos quilombos.
+
+  ● O Sistema Nacional de Cultura, organizado em regime de colaboração, de
+
+    forma descentralizada e participativa, institui um processo de gestão e promoção
+
+    conjunta de políticas públicas de cultura, democráticas e permanentes,
+
+    pactuadas entre os entes da Federação e a sociedade, tendo por objetivo
+
+    promover o desenvolvimento humano, social e econômico com pleno exercício
+
+    dos direitos culturais.
+
+       ○ (*) O Sistema Nacional de Cultura fundamenta-se na política nacional de
+
+          cultura e nas suas diretrizes, estabelecidas no Plano Nacional de Cultura.
+
+          (*) Os Estados, o Distrito Federal e os Municípios organizarão seus
+
+          respectivos sistemas de cultura em leis próprias.
+
+
+Do Desporto
+
+
+  ● Segundo o art. 217, CF/88, é dever do Estado fomentar práticas desportivas
+
+    formais e não-formais, como direito de cada um.
+
+                              
+
+
+---
+
+  ● Princípios:
+
+       ○ Autonomia das entidades desportivas dirigentes e associações, quanto a
+
+          sua organização e funcionamento.
+
+       ○ Prioridade dos recursos públicos para o desporto educacional e, em
+
+          casos específicos, para o desporto de alto rendimento.
+
+       ○ Tratamento diferenciado para o desporto profissional e o não- profissional.
+
+       ○ Proteção e incentivo às manifestações desportivas de criação nacional.
+
+
+  ● Segundo o art. 217, § 1º, o Poder Judiciário somente admitirá ações relativas à
+
+    disciplina e às competições desportivas após esgotarem-se as instâncias da
+
+    justiça desportiva, regulada em lei. Trata-se de um caso de jurisdição
+
+    condicionada.
+
+Ciência, Tecnologia e Inovação
+
+  ● O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa, a
+
+    capacitação científica e tecnológica e a inovação. A pesquisa científica básica e
+
+    tecnológica receberá tratamento prioritário do Estado. A pesquisa tecnológica
+
+    voltar-se-á preponderantemente para a solução dos problemas brasileiros e para
+
+    o desenvolvimento do sistema produtivo nacional e regional.
+
+  ● É facultado aos Estados e ao Distrito Federal vincular parcela de sua receita
+
+    orçamentária a entidades públicas de fomento ao ensino e à pesquisa científica
+
+    e tecnológica (art. 218, § 5º).
+
+  ● A União, os Estados, o Distrito Federal e os Municípios poderão firmar
+
+    instrumentos de cooperação com órgãos e entidades públicos e com entidades
+
+                             
+
+
+---
+
+    privadas, inclusive para o compartilhamento de recursos humanos especializados
+
+    e capacidade instalada, para a execução de projetos de pesquisa, de
+
+    desenvolvimento científico e tecnológico e de inovação, mediante contrapartida
+
+    financeira ou não financeira assumida pelo ente beneficiário, na forma da lei.
+
+  ● O Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI) será organizado
+
+    em regime de colaboração entre entes, tanto públicos quanto privados, com
+
+    vistas a promover o desenvolvimento científico e tecnológico e a inovação. As
+
+    normas gerais do SNCTI serão objeto de lei federal.
+
+
+Da Comunicação Social
+
+
+  ● Segundo o art. 220, caput, CF/88, “a manifestação do pensamento, a criação, a
+
+    expressão e a informação, sob qualquer forma, processo ou veículo não sofrerão
+
+    qualquer restrição, observado o disposto nesta Constituição”. Nesse sentido, é
+
+    vedada toda e qualquer censura de natureza política, ideológica e artística.
+
+  ● Os meios de comunicação social não podem, direta ou indiretamente, ser objeto
+
+    de monopólio ou oligopólio (art. 220, § 5º).
+
+  ● Restrição a estrangeiros:
+
+
+     Art. 222. A propriedade de empresa jornalística e de radiodifusão
+
+     sonora e de sons e imagens é privativa de brasileiros natos ou
+
+     naturalizados há mais de dez anos, ou de pessoas jurídicas constituídas
+
+     sob as leis brasileiras e que tenham sede no País.
+
+                           
+
+
+---
+
+§ 1º Em qualquer caso, pelo menos setenta por cento do capital total e
+
+do capital votante das empresas jornalísticas e de radiodifusão sonora
+
+e de sons e imagens deverá pertencer, direta ou indiretamente, a
+
+brasileiros natos ou naturalizados há mais de dez anos, que exercerão
+
+obrigatoriamente a gestão das atividades e estabelecerão o conteúdo
+
+da programação.
+
+
+§ 2º A responsabilidade editorial e as atividades de seleção e direção da
+
+programação      veiculada      são     privativas      de   brasileiros   natos   ou
+
+naturalizados há mais de dez anos, em qualquer meio de comunicação
+
+social.
+
+
+§ 3º Os meios de comunicação social eletrônica, independentemente da
+
+tecnologia utilizada para a prestação do serviço, deverão observar os
+
+princípios enunciados no art. 221, na forma de lei específica, que
+
+também garantirá a prioridade de profissionais brasileiros na execução
+
+de produções nacionais.
+
+
+§ 4º Lei disciplinará a participação de capital estrangeiro nas empresas
+
+de que trata o § 1º.
+
+
+§ 5º As alterações de controle societário das empresas de que trata o § 1º
+
+serão comunicadas ao Congresso Nacional.
+
+                       
+
+
+---
+
+  ● Compete ao Poder Executivo outorgar e renovar concessão, permissão e
+
+    autorização para o serviço de radiodifusão sonora e de sons e imagens,
+
+    observado o princípio da complementaridade dos sistemas privado, público e
+
+    estatal. O ato de outorga ou renovação somente produzirá efeitos legais após
+
+    deliberação do Congresso Nacional. O prazo da concessão ou permissão será de
+
+    10 anos para as emissoras de rádio e de 15 anos para as emissoras de televisão.
+
+       ○ (*) A não renovação da concessão ou permissão dependerá de aprovação
+
+          de, no mínimo, dois quintos do Congresso Nacional, em votação nominal.
+
+
+Do Meio Ambiente
+
+
+  ● Segundo    o   art.   225,   CF/88,     “todos     têm      direito   ao   meio   ambiente
+
+    ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia
+
+    qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de
+
+    defendê-lo e preservá-lo para as presentes e futuras gerações”.
+
+       ○ (*) O direito ao meio ambiente é um direito de 3a geração.
+
+  ● Na ADI nº 4983/CE, o STF declarou a inconstitucionalidade de lei estadual que
+
+    regulamentava a vaquejada como atividade desportiva e cultural. Em reação
+
+    legislativa, o Congresso Nacional editou a EC nº 96/2017, segundo a qual não se
+
+    consideram cruéis as práticas desportivas que utilizem animais, desde que
+
+    sejam manifestações culturais, registradas como bem de natureza imaterial
+
+    integrante do patrimônio cultural brasileiro, devendo ser regulamentadas por lei
+
+    específica que assegure o bem-estar dos animais envolvidos.
+
+                           
+
+
+---
+
+  ● Com o objetivo de proteger o meio ambiente, determina a Constituição que
+
+    aquele que explorar recursos minerais fica obrigado a recuperar o meio ambiente
+
+    degradado, de acordo com solução técnica exigida pelo órgão público
+
+    competente, na forma da lei (art. 225, § 2º).
+
+  ● As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os
+
+    infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas,
+
+    independentemente da obrigação de reparar os danos causados (art. 225, § 3º). É
+
+    possível, portanto, a responsabilização penal de pessoa jurídica em razão de dano
+
+    ao meio ambiente.
+
+       ○ (*) Segundo o STF, “é admissível a condenação de pessoa jurídica pela
+
+          prática de crime ambiental, ainda que absolvidas as pessoas físicas
+
+          ocupantes de cargo de presidência ou de direção do órgão responsável
+
+          pela prática criminosa” (RE 548. 181).
+
+  ● A Floresta Amazônica brasileira, a Mata Atlântica, a Serra do Mar, o Pantanal
+
+    Mato-Grossense e a Zona Costeira são patrimônio nacional, e sua utilização
+
+    far-se-á, na forma da lei, dentro de condições que assegurem a preservação do
+
+    meio ambiente, inclusive quanto ao uso dos recursos naturais (art. 225, § 4º).
+
+  ● As usinas que operem com reator nuclear deverão ter sua localização definida
+
+    em lei federal, sem o que não poderão ser instaladas (art. 225, § 6º).
+
+
+Família, criança, adolescente, jovem e idoso
+
+
+  ● A família é a base da sociedade e, por isso, tem especial proteção do Estado.
+
+    Segundo a doutrina, a CF/88 consagrou uma pluralidade de modelos de família,
+
+                           
+
+
+---
+
+  abrangendo as uniões estáveis e as famílias monoparentais. Segundo o STF, as
+
+  uniões homoafetivas também são entidades familiares.
+
+● O casamento é civil e gratuita a sua celebração. O casamento religioso tem
+
+  efeito civil, nos termos das lei. Os direitos e deveres referentes à sociedade
+
+  conjugal são exercidos igualmente pelo homem e pela mulher. O casamento
+
+  civil pode ser dissolvido pelo divórcio.
+
+● É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente
+
+  e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à
+
+  educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à
+
+  liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de
+
+  toda forma de negligência, discriminação, exploração, violência, crueldade e
+
+  opressão.
+
+     ○ (*) A adoção será assistida pelo Poder Público, na forma da lei, que
+
+        estabelecerá casos e condições de sua efetivação por parte de estrangeiros.
+
+     ○ (*) Os filhos, havidos ou não da relação do casamento, ou por adoção, terão
+
+        os mesmos direitos e qualificações, proibidas quaisquer designações
+
+        discriminatórias relativas à filiação.
+
+     ○ (*) Os menores de 18 anos são penalmente inimputáveis, estando
+
+        sujeitos às normas da legislação especial.
+
+● Segundo o art. 230, CF/88, a família, a sociedade e o Estado têm o dever de
+
+  amparar as pessoas idosas, assegurando sua participação na comunidade,
+
+  defendendo sua dignidade e bem-estar e garantindo-lhes o direito à vida. Os
+
+  programas de amparo aos idosos serão executados preferencialmente em seus
+
+                         
+
+
+---
+
+    lares. Aos maiores de 65 anos, é garantida a gratuidade dos transportes coletivos
+
+    urbanos.
+
+
+Índios
+
+
+  ● Segundo o art. 231, CF/88, são reconhecidos aos índios sua:
+
+         ○ organização social, costumes, línguas, crenças e tradições e;
+
+         ○ os direitos originários sobre as terras que tradicionalmente ocupam,
+
+            competindo à União demarcá-las, proteger e fazer respeitar todos os seus
+
+            bens.
+
+  ● (*) Os índios têm apenas a posse das terras tradicionalmente por eles ocupadas;
+
+    a propriedade dessas terras é da União (art. 20, XI, CF/88).
+
+  ● As terras tradicionalmente ocupadas pelos índios destinam-se a sua posse
+
+    permanente, cabendo-lhes o usufruto exclusivo das riquezas do solo, dos rios e
+
+    dos lagos nelas existentes.
+
+  ● As    terras    tradicionalmente        ocupadas        pelos   índios   são   inalienáveis   e
+
+    indisponíveis, e os direitos sobre elas, imprescritíveis.
+
+  ● O aproveitamento dos recursos hídricos, incluídos os potenciais energéticos, a
+
+    pesquisa e a lavra das riquezas minerais em terras indígenas só podem ser
+
+    efetivados com autorização do Congresso Nacional, ouvidas as comunidades
+
+    afetadas, ficando-lhes assegurada participação nos resultados da lavra, na forma
+
+    da lei (art. 231, § 3º).
+
+  ● É vedada a remoção dos grupos indígenas de suas terras, salvo:
+
+                               
+
+
+---
+
+     ○ "ad referendum" do Congresso Nacional, em caso de catástrofe ou
+
+        epidemia que ponha em risco sua população, ou;
+
+     ○ no interesse da soberania do País, após deliberação do Congresso Nacional,
+
+        garantido, em qualquer hipótese, o retorno imediato logo que cesse o risco.
+
+● Os índios, suas comunidades e organizações são partes legítimas para
+
+  ingressar em juízo em defesa de seus direitos e interesses, intervindo o
+
+  Ministério Público em todos os atos do processo (art. 232).
+
+                        
+
+
+---

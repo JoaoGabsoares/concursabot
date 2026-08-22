@@ -1,0 +1,6835 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 14_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Índice
+---
+
+# Índice
+
+Índice
+1) Ferramentas Estratégicas
+
+
+2) Questões Ferramentas Estratégicas - FGV
+
+---
+
+Olá, amigos do Estratégia Concursos, tudo bem?
+Preparados para mais uma aula? Então vamos em frente! ☺
+Um grande abraço,
+Stefan Fantini
+
+Para tirar dúvidas e ter acesso a dicas e conteúdos gratuitos, siga meu Instagram, se inscreva no
+meu Canal no YouTube e participe do meu canal no TELEGRAM:
+
+                                  @prof.stefan.fantini
+                          https://www.instagram.com/prof.stefan.fantini
+
+                                      Stefan Fantini
+                 https://www.youtube.com/channel/UCptbQWFe4xIyYBcMG-PNNrQ
+
+                                                                                           3
+
+
+---
+
+                                 t.me/admconcursos
+
+Os canais foram feitos especialmente para você! Então, será um enorme prazer contar com a sua
+presença nos nossos canais! ☺
+
+                                                                                        4
+
+
+---
+
+Sumário
+
+Principais Ferramentas Estratégicas 
+
+   1 - Diagnóstico organizacional 
+
+      1.1 - Análise SWOT (Matriz SWOT)
+
+   2 - Análise de Portfólio 
+
+      2.1 - Matriz BCG 
+
+      2.2 - Matriz GE/McKinsey 
+
+      2.3 - Matriz Ansoff 
+
+   3 - Vantagem Competitiva 
+
+      3.1 - Cinco Forças de Porter 
+
+      3.2 – Estratégias Competitivas Genéricas
+
+      3.3 - Cadeia de Valor 
+
+   4 - Elaboração do Plano de Ação 
+
+      4.1 - Ferramenta 5W2H 
+
+   5 - Controle, Acompanhamento e Análise de Desempenho 
+
+      5.1 - Balanced Scorecard - BSC
+
+      5.2 - Matriz GUT 
+
+Resumo Estratégico 
+
+                                                                                                                                            5
+
+
+---
+
+              PRINCIPAIS FERRAMENTAS ESTRATÉGICAS
+Diversas ferramentas são utilizadas na gestão estratégica e no planejamento estratégico.
+
+Veremos, nessa aula, as principais ferramentas que costumam ser objeto de questões de prova.
+
+1 - Diagnóstico organizacional
+
+1.1 - Análise SWOT (Matriz SWOT)
+
+A Análise SWOT é uma ferramenta utilizada na etapa do diagnóstico organizacional.
+
+Ela é utilizada para buscar entender a “posição atual” da organização. Consiste, basicamente, na
+análise do ambiente interno (forças e fraquezas) e do ambiente externo (ameaças e
+oportunidades).
+
+É pautada na ideia de que o administrador deve identificar as forças e fraquezas da organização,
+bem como as oportunidades e ameaças do ambiente externo, com o objetivo de elaborar uma
+estratégia que compatibilize todos esses aspectos com vistas a assegurar o sucesso da organização.
+
+O acrostico “SWOT” deriva das seguintes palavras em inglês: Strengths (Forças), Weakness
+(Fraquezas), Opportunities (Oportunidades) e Threats (Ameaças). Em português, também é
+conhecida como matriz “FOFA”.
+
+
+                  •Strengths
+          S        (forças)                              F      •Forças
+
+         W        •Weakness
+                   (fraquezas)                          O       •Oportunidades
+
+          O       •Opportunities
+                   (oportunidades)                       F      •Fraquezas
+
+          T       •Threats
+                   (ameaças)                             A      •Ameaças
+
+                                                                                            6
+
+
+---
+
+A análise interna do ambiente organizacional (microambiente) busca entender quais são os pontos
+fortes (forças) e os pontos fracos (fraquezas) da organização. A organização procura “entender ela
+mesma”. As forças e as fraquezas são elementos controláveis, ou seja, podem ser controlados pela
+organização.
+
+       Forças: são os pontos fortes, que colocam a organização em uma posição favorável
+       (vantagem competitiva). São os “diferenciais” da organização em relação a seus
+       concorrentes. Como exemplo de forças podem-se citar: boa quantidade de ativos (imóveis,
+       equipamentos, etc.), qualificação dos recursos humanos, localização privilegiada, patentes,
+       etc.
+
+       Fraquezas: são os pontos fracos da organização, que a colocam em uma posição
+       desfavorável (desvantagem em relação à concorrência). Podemos citar como exemplos de
+       fraquezas: ausência de tecnologia adequada, pouca quantidade de ativos, mão de obra
+       pouco qualificada, mau posicionamento no mercado, má imagem no mercado, etc.
+
+A análise externa do ambiente externo no qual a organização está inserida (macroambiente) tem
+por objetivo identificar as oportunidades e as ameaças (desafios). Tratam-se de elementos não
+controláveis, ou seja, que não podem ser controlados pela organização.
+
+       Oportunidades: São elementos externos que influenciam positivamente a organização. Se
+       houver interesse e condições, a organização deve buscar identificar e prever esses
+       elementos (acontecimentos) no intuito de aproveitá-los da melhor maneira possível. São
+       exemplos de oportunidades: alteração favorável na carga tributária, crescimento do país,
+       mudança na política econômica do governo, falência de um concorrente, novos clientes,
+       poucos concorrentes, etc.
+
+       Ameaças (desafios): São elementos externos que influenciam negativamente a
+       organização. Podem prejudicar sobremaneira os resultados organizacionais. Contudo, se
+       forem identificadas em tempo hábil, essas consequências negativas poderão ser mitigadas
+       ou até mesmo anuladas. Como exemplo de ameaças pode-se citar: um grande concorrente
+       entrando no mercado, escassez de matéria prima e de mão de obra, nova legislação
+       restritiva, etc.
+
+                                  Ambiente INTERNO                    Ambiente EXTERNO
+                                (aspectos controláveis)           (aspectos não controláveis)
+    Aspectos POSITIVOS
+  (ajudam a organização)
+                                        Forças                         Oportunidades
+
+    Aspectos NEGATIVOS
+ (atrapalham a organização)
+                                      Fraquezas                           Ameaças
+
+                                                                                                7
+
+
+---
+
+A partir do cruzamento das variáveis internas e externas que foram identificadas, surgem algumas
+situações que fazem com que a organização se veja diante de algum desses cenários:
+
+      Alavancagem = Forças + Oportunidades.
+
+      A organização deve buscar potencializar ainda mais as suas forças, para aproveitar da
+      melhor maneira possível as oportunidades.
+
+      Por exemplo: Imagine que um grande concorrente faliu. Portanto, a organização poderá
+      aproveitar um maior número de clientes (que antes compravam os produtos da
+      concorrência). Então, a organização pode utilizar suas reservas financeiras (forças) para
+      contratar mais profissionais e comprar mais matéria-prima (mais forças), no intuito de
+      alavancar a produção e aproveitar esse crescimento do número de clientes (oportunidades).
+
+      Limitações = Fraquezas + Oportunidades.
+
+      A organização está diante de oportunidades ambientais que podem ser aproveitadas.
+      Contudo, as suas fraquezas a impedem (ou limitam) de aproveitar essas oportunidades.
+
+      Por exemplo: Utilizemos o exemplo anterior. Mas, desta vez, imagine que a organização não
+      possui reservas financeiras (fraquezas) para contratar mais profissionais e comprar mais
+      matéria-prima para aumentar a produção. Portanto, não conseguirá atender todos esses
+      novos clientes (oportunidades).
+
+      Vulnerabilidades = Forças + Ameaças.
+
+      As ameaças externas deixam a organização vulnerável. Contudo, a organização pode utilizar
+      suas forças internas para mitigar (ou eliminar) essas ameaças.
+
+      Por exemplo: Pense que o concorrente adquiriu uma nova tecnologia que produz maior
+      quantidade, em menor tempo e com um menor custo (ameaças). A organização pode,
+      então, utilizar suas reservas financeiras (forças) para buscar uma tecnologia semelhante,
+      que também reduza seus custos de produção e aumente a produtividade.
+
+      Problemas = Fraquezas + Ameaças.
+
+      Surgem ameaças externas e a organização não possui meios para mitigar ou eliminar o
+      resultado provocado por essas ameaças. Portanto, isso é um grande problema!
+
+      Por exemplo: Pense no exemplo anterior. Contudo, desta vez, a organização não possui
+      reservas financeiras (fraquezas) para adquirir uma nova tecnologia. Portanto, o seu
+      concorrente irá produzir mais, em menor tempo e com menores custos (ameaças). A chance
+      do concorrente dominar o mercado será muito grande. Isso é um problema para a
+      organização.
+
+                                                                                           8
+
+
+---
+
+                                       ESQUEMATIZANDO!
+
+                                    Alavancagem
+
+                           Forças              Oportunidades
+
+                                    Vulnerabilidade
+
+
+                                      Limitações
+
+                          Fraquezas                Ameaças
+
+                                      Problemas
+
+A organização jamais poderá diminuir ou eliminar diretamente as ameaças (trata-se de
+um elemento externo, não controlável).
+
+O que a organização pode tentar é mitigar ou eliminar os resultados (os impactos)
+provocados por essas ameaças.
+
+A mesma coisa acontece com as oportunidades, que também são elementos externos
+(não controláveis).
+
+                                                                                       9
+
+
+---
+
+A combinação dos fatores internos e externos indica o cenário que a organização se encontra
+(alavancagem, vulnerabilidade, limitações ou problemas). Diante disso, de acordo com cada um
+desses cenários, faz-se necessário que a organização adote alguma das seguintes estratégias:
+
+      Desenvolvimento = Forças + Oportunidades.
+
+      É a estratégia adotada pela organização quando ela se vê diante de forças internas e
+      oportunidades externas (cenário de Alavancagem).
+
+      Nessa hora, pode ocorrer o desenvolvimento de mercado, desenvolvimento de novos
+      produtos, desenvolvimento das capacidades organizacionais, etc.
+
+      Por exemplo: O concorrente faliu (oportunidade de novos clientes) e a organização possui
+      recursos (forças) para produzir mais. Portanto, agora é hora da organização se desenvolver,
+      ou seja, vender seus produtos para esses “novos clientes” (desenvolvimento de mercado).
+
+      Crescimento = Fraquezas + Oportunidades.
+
+      Trata-se da estratégia utilizada pela organização quando há oportunidades no ambiente,
+      mas a organização possui pontos fracos. Ou seja, a organização não possui meios suficientes
+      para aproveitar essas oportunidades (cenário de Limitações).
+
+      Um exemplo muito comum são as joint ventures, ou seja, uma estratégia na qual duas
+      empresas se associam para produzirem determinado produto e entrarem em um novo
+      mercado.
+
+      Por exemplo: Imagine o exemplo anterior, em que uma grande empresa concorrente do
+      mercado de automóveis faliu. Pense agora que a “Empresa A” possui muita mão de obra e
+      tecnologia, e “expertise”, mas não possui recursos financeiros para comprar matéria-prima
+      para aumentar a produção; por outro lado, a “Empresa B” possui muita matéria-prima e
+      recursos financeiros, mas não possui mão de obra, tecnologia e nem a “expertise” adequada
+      para aumentar a sua produção. Diante desse cenário, as empresas A e B decidem se associar
+      para produzirem juntas automóveis. Assim, ambas empresas conseguem aproveitar as
+      oportunidades do mercado, e ambas empresas crescem, para, futuramente, terem
+      condições de se desenvolverem sozinhas.
+
+      Manutenção = Forças + Ameaças.
+
+      É uma estratégia organizacional adotada quando há ameaças no ambiente, mas a
+      organização possui pontos fortes para combatê-las (cenário de Vulnerabilidade). A
+      organização busca se defender dessas ameaças.
+
+                                                                                           10
+
+
+---
+
+        Djalma Oliveira1 propõe que existem três estratégias de manutenção:
+
+                Estratégia de estabilidade: Busca a manutenção de um estado de equilíbrio.
+
+                Estratégia de nicho: A organização busca focar em um único segmento, produto ou
+                mercado em que atua, para dominar esse segmento e preservar suas vantagens
+                competitivas.
+
+                Estratégia de especialização: A organização busca conquistar ou manter a liderança
+                no mercado mediante a concentração dos esforços de expansão em uma única (ou
+                em poucas) atividade.
+
+        Por exemplo: O concorrente adquiriu uma nova tecnologia que produz maior quantidade,
+        em menor tempo e com um menor custo (ameaças). A organização pode, então, utilizar
+        suas reservas financeiras (forças) para buscar uma tecnologia semelhante, que também
+        reduza seus custos de produção e aumente a produtividade. Nesse caso, está buscando a
+        manutenção de um estado de equilíbrio (estratégia de estabilidade).
+
+        Sobrevivência = Fraquezas + Ameaças.
+
+        Trata-se da estratégia utilizada quando surgem ameaças externas e a organização possui
+        pontos fracos, ou seja, não possui meios para mitigar ou eliminar o resultado dessas
+        ameaças (cenário de Problemas). A organização busca, literalmente, “sobreviver”. (risos)
+
+        A organização pode adotar algumas estratégias nessa situação, tais como: redução de
+        custos, desinvestimentos e, se nada disso funcionar, poderá adotar a estratégia de
+        liquidação do negócio.
+
+A seguir, esquematizarei os cenários e as estratégias, cruzando as variáveis internas e externas. É
+muito importante que você memorize as informações do esquema a seguir. ☺
+
+1
+ OLIVEIRA, Djalma de Pinho Rebouças de. Planejamento Estratégico: conceitos, metodologia e práticas, 33ª edição. São Paulo,
+Atlas: 2015, p. 198-199.
+
+                                                                                                                    11
+
+
+---
+
+                                               ESQUEMATIZANDO!
+
+
+                                                                     Ambiente INTERNO
+                                                                       (controlável)
+
+                                                     Fraquezas                            Forças
+
+
+                                               Cenário: Problemas                Cenário: Vulnerabilidade
+
+                         Ameaças               Estratégia: Sobrevivência         Estratégia: Manutenção
+
+ Ambiente EXTERNO
+  (não controlável)
+                                               Cenário: Limitações               Cenário: Alavancagem
+                       Oportunidades
+                                               Estratégia: Crescimento           Estratégia: Desenvolvimento
+
+(FGV – Câmara de Aracaju - SE - Assistente Administrativo – 2021)
+
+A análise Swot é uma ferramenta de planejamento estratégico utilizada para a realização de um
+diagnóstico organizacional da empresa.
+
+Dentre os elementos tipicamente considerados na análise Swot, podem ser elencados:
+
+a) fraquezas e competitividade;
+
+b) barreiras de entrada e oportunidades;
+
+c) situação política e produtos substitutos;
+
+d) forças e ameaças;
+
+e) produtos abacaxis e estrelas.
+
+Comentários:
+
+                                                                                                          12
+
+
+---
+
+A Análise SWOT é utilizada para buscar entender a “posição atual” da organização. Consiste,
+basicamente, na análise do ambiente interno (forças e fraquezas) e do ambiente externo (ameaças
+e oportunidades).
+
+O gabarito é a letra D.
+
+(CESPE – IPHAN – Analista I - 2018)
+
+A matriz SWOT, ferramenta utilizada em planejamentos estratégicos, mapeia tanto oportunidades
+quanto ameaças, as quais são tipicamente associadas à dimensão interna da organização.
+
+Comentários:
+
+De fato, a matriz SWOT identifica tanto as oportunidades quanto as ameaças. Contudo, as ameaças
+e as oportunidades estão relacionadas ao ambiente externo.
+
+Gabarito: errada.
+
+(FGV – COMPESA– Analista de Gestão - 2018)
+
+A análise SWOT é um instrumento bastante utilizado pelas organizações para verificar sua posição
+estratégica no setor e auxiliá-la na decisão sobre os próximos passos que devem ser tomados.
+Em relação à análise SWOT, assinale a afirmativa correta.
+
+a) A carência de funcionários em um órgão público pode ser considerada uma ameaça.
+
+b) O aumento do valor do barril de petróleo pode ser visto como uma força de uma estatal
+petrolífera.
+
+c) A possibilidade de criação de novos tributos de exportação pode ser considerada uma ameaça
+para um frigorífico que vende prioritariamente para o Oriente Médio.
+
+d) O alto número de patentes de uma empresa de tecnologia é um exemplo de oportunidade.
+
+e) O surgimento da rede 5G é uma fraqueza das operadoras de telefonia móvel.
+
+Comentários:
+
+Excelente questão para sedimentarmos os entendimentos!
+
+Letra A: errada. Trata-se de uma fraqueza (ponto fraco), pois é um aspecto relacionado ao
+ambiente interno da organização. É um elemento controlável, ou seja, a organização pode
+contratar mais funcionários para suprir essa carência.
+
+                                                                                           13
+
+
+---
+
+Letra B: errada. Trata-se de uma oportunidade (a petrolífera irá se beneficiar com esse aumento),
+visto que é um elemento não controlável relacionado ao ambiente externo.
+
+Letra C: correta. Perfeito! A ameaça é um elemento não controlável, constante do ambiente
+externo, que influencia negativamente a organização. No caso narrado, a criação de novos tributos
+de exportação (fator que não pode ser controlado pela organização) irá influenciar negativamente
+o frigorífico que tem suas vendas concentradas prioritariamente nas exportações ao Oriente
+Médio.
+
+Letra D: errada. A assertiva trouxe um exemplo de força (aspecto interno). O alto número de
+patentes são pontos fortes que colocam a organização em uma posição favorável (vantagem
+competitiva).
+
+Letra E: errada. O surgimento da rede 5G é um elemento externo, não controlável, que pode ser
+considerado uma ameaça (caso as operadoras não estiverem preparadas para isso) ou uma
+oportunidade (caso elas já possuam tecnologias preparadas para a rede 5G).
+
+O gabarito é a letra C.
+
+(CESPE – TRT 7a Região – Analista Judiciário - 2017)
+
+Entre os elementos avaliados na matriz SWOT, estão
+
+a) as forças, que são variáveis ambientais desfavoráveis.
+
+b) as forças, que são variáveis ambientais favoráveis.
+
+c) as fraquezas, que são variáveis internas desfavoráveis.
+
+d) as oportunidades, que são variáveis internas favoráveis.
+
+Comentários:
+
+Letra A: errada. As forças são variáveis internas favoráveis.
+
+Letra B: errada. As forças são variáveis internas favoráveis.
+
+Letra C: correta. De fato, as fraquezas são variáveis organizacionais internas desfavoráveis.
+
+Letra D: errada. As oportunidades são variáveis ambientais (externas) favoráveis.
+
+O gabarito é a letra C.
+
+                                                                                                14
+
+
+---
+
+2 - Análise de Portfólio
+
+Imagine que você seja proprietário de uma “casa de sucos naturais”. De início, você só vendia
+sucos naturais de morango, laranja, abacaxi e limão. Depois, começou a vender lanches naturais e,
+posteriormente, começou a vender sorvetes.
+
+Contudo, você se deparou com um grande problema: a receita gerada pela casa de sucos começou
+a cair, e você não também não tinha mais espaço físico para estocar tantos produtos.
+
+É exatamente aí que entra a análise de portfólios! Em linhas gerais, você tentará identificar quais
+são aqueles produtos que trazem lucros e quais estão dando “prejuízo”.
+
+Quem sabe, a venda de sorvetes tenha sido uma má ideia, uma vez que aumentou
+significativamente o valor da conta de energia elétrica (por conta dos freezers), e você está
+localizado em uma cidade muito fria (os clientes não compram muitos sorvetes). Ou, talvez, os
+lanches naturais não estejam vendendo muito bem, e causando um desperdício de mão de obra e
+matéria-prima.
+
+Pode ser, ainda, que o mercado de refrigerantes esteja crescendo e talvez seja interessante incluir
+esse produto no portfólio.
+
+Portanto, as ferramentas de análise de portfólio buscam auxiliar o administrador a traçar as
+melhores estratégias relacionadas à alocação de seus recursos.
+
+2.1 - Matriz BCG
+
+Também chamada de Matriz de Crescimento e Participação, foi desenvolvida pelos consultores da
+empresa de consultoria americana Boston Consulting Group.
+
+Essa ferramenta classifica os produtos de uma organização de acordo com o “crescimento do
+mercado“ e “participação do produto nesse mercado”. O objetivo é definir e focar a prioridade
+dos investimentos (alocar os recursos disponíveis da melhor maneira possível).
+
+Em outras palavras, a Matriz BCG tem por objetivo identificar quais produtos tem um maior
+potencial de gerar lucros, e quais devem ser descartados (para evitar prejuízos).
+
+Portanto, a partir dessas duas variáveis (Crescimento no mercado e Participação do produto no
+mercado) a BCG formulou a tabela a seguir:
+
+                                                                                             15
+
+
+---
+
+                                                        Participação do produto no mercado
+
+                                                        Alta                         Baixa
+
+
+                                             Alto
+                    Crescimento do Mercado
+
+                                                        Estrela                 Interrogação /
+                                                                              Em questionamento
+                                             Baixo
+
+                                                     Vaca Leiteira       Abacaxi / Cachorro (vira-lata)
+
+
+Vamos entender o que essa tabela significa:
+
+        Estrela: São os produtos (ou unidades de negócio) que possuem alta participação em um
+        mercado que, por sua vez, está em elevado crescimento. Portanto, tem grande potencial de
+        lucratividade.
+
+        Contudo, para que a empresa mantenha sua alta participação no mercado, esses produtos
+        ainda dependem de grandes investimentos (caso contrário, a empresa “perde” espaço no
+        mercado). Assim, nesta fase, essas unidades (ou produtos) tendem a manter um equilíbrio
+        no fluxo de caixa2 (se, por um lado, os investimentos são elevados; por outro, os retornos
+        financeiros com as vendas também são altos).
+
+        Essa participação no mercado é muito importante. Caso o produto venha a “perder
+        participação” no mercado, poderá se tornar uma “interrogação”. Por outro lado, se a
+        empresa mantiver a alta participação do produto no mercado, ele poderá se tornar uma
+        “vaca leiteira” quando o mercado parar de crescer (daqui a pouco você entenderá melhor
+        esse conceito).
+
+        Interrogação: O mercado está em alto crescimento; contudo, a participação do produto
+        neste mercado é baixa.
+
+        “O que isso significa?”
+
+2
+ Em apertada síntese, equilíbrio no fluxo de caixa significa que as entradas de recursos financeiros são iguais aos desembolsos
+de recursos financeiros. Ou seja, a organização fica no “zero a zero”.
+
+                                                                                                                        16
+
+
+---
+
+      Significa que a organização está fazendo investimentos, mas não está obtendo o retorno
+      esperado (devido à baixa participação de seu produto no mercado).
+
+      “O que pode ser feito?”
+
+      A organização poderá fazer grandes investimentos para tentar aumentar a participação
+      deste produto no mercado, e transformá-lo em uma “estrela”.
+
+      Contudo, não é certeza que isso ocorrerá. Os resultados são incertos. Isso porque outras
+      empresas concorrentes podem investir “mais pesado” ainda, dificultando a consolidação da
+      empresa nesse mercado; ou então o mercado poderá “esfriar” (tratava-se de “mercado
+      temporário”).
+
+      “E se nada for feito?”
+
+      A empresa arcará com os prejuízos desse produto que, futuramente, se tornará um
+      “abacaxi”.
+
+      Vaca Leiteira: Também conhecida como “mina”, trata-se do melhor momento para lucrar!
+
+      O mercado está estabilizado (cresce de forma bem lenta); portanto, não são necessários
+      grandes investimentos para que a empresa mantenha seu produto em destaque no
+      mercado. É hora da empresa que está “consolidada” no mercado e possui uma grande
+      “fatia” dele, auferir seus lucros.
+
+      Abacaxi (Cachorros): São aqueles produtos que têm pequena participação em um mercado
+      que está em baixo crescimento. É o pior cenário possível. Esses produtos vão “sugando” os
+      recursos da organização.
+
+      Se possível, podem ser traçadas estratégias para “recuperação” do produto. Contudo, em
+      geral, esses produtos não representam boas oportunidades de investimento. Então, via de
+      regra, esses produtos “abacaxi” devem ser abandonados e a organização deve “sair” desse
+      mercado.
+
+      Os abacaxis devem ser minimizados e evitados em uma organização.
+
+O que acontece, é que os produtos possuem um ciclo de vida:
+
+Quando um novo produto é lançado no mercado, ele surge como uma “interrogação”.
+
+                                                                                         17
+
+
+---
+
+Esse mercado, então, vai crescendo de forma acelerada (fase de crescimento do mercado), e são
+necessários grandes investimentos para que a empresa aumente (e mantenha) a sua participação
+no mercado, a fim de transformar seu produto em uma “estrela”.
+
+Depois, o mercado diminui o ritmo de crescimento, tornando-se estável (fase de maturidade do
+mercado). Nesse momento, os produtos tornam-se “vacas leiteiras”, pois, no mercado maduro, as
+empresas não precisam fazer grandes investimentos para manterem suas posições e participações
+no mercado. Isso acontece porque, nessa fase, os consumidores já têm as suas “preferências”.
+
+Por fim, devido a uma série de fatores (por exemplo: avanço tecnológico, hábitos de consumo,
+etc.) as vendas começam a cair, e a organização começa a ter uma baixa participação no mercado.
+Além disso, o próprio mercado também começa a reduzir cada vez mais, transformando esse
+produto em um “abacaxi”.
+
+Claro que esse ciclo não é uma “regra”. Mas, se você parar alguns segundos para pensar,
+perceberá que faz todo o sentido. Lembre-se de todas as “explosões” que alguns mercados já
+tiveram, como por exemplo: as lan houses, o MSN (quem se lembra?), o ORKUT, os saudosos
+“bicinhos virtuais” (agora fui longe, hein? risos).
+
+Um outro mercado que podemos citar é o de câmeras fotográficas. Os smartphones estão ficando
+cada dia mais poderosos, registrando fotos e gravando vídeos em altíssimas resoluções. Até
+quando as câmeras fotográficas irão aguentar? Será que em breve se tornarão “abacaxis”?
+
+(FGV – TJ-DFT - Analista Judiciário – Administração – 2022)
+
+Para subsidiar seu processo de formulação e planejamento estratégico, uma empresa utilizou-se
+da matriz BCG para análise de seu portfólio de produtos. Os resultados foram: produto A – alta
+taxa de crescimento do mercado e alta participação no mercado; produto B – baixa taxa de
+crescimento do mercado e alta participação no mercado; produto C – baixa taxa de crescimento do
+mercado e baixa participação no mercado; produto D – alta taxa de crescimento do mercado e
+baixa participação no mercado.
+
+Com base no modelo da matriz BCG, é correto afirmar que:
+
+a) o produto A é um produto “vaca leiteira”, gerador de elevados fluxos financeiros que devem ser
+usados para equilibrar o fluxo de caixa dos demais produtos;
+
+b) o produto B é um produto “ponto de interrogação”, que pode se tornar um produto “estrela” se
+aumentar a sua participação no mercado;
+
+                                                                                           18
+
+
+---
+
+c) o produto C é um produto “cachorro”, que pode se tornar uma “vaca leiteira” se a taxa de
+crescimento de seu mercado aumentar significativamente;
+
+d) o produto D é um produto “ponto de interrogação”, no qual a empresa deve investir para
+aumentar sua participação no mercado;
+
+e) o produto A é um produto “estrela”, gerador de elevados fluxos financeiros que devem ser
+usados para financiar o crescimento de outros negócios.
+
+Comentários:
+
+Vejamos a classificação de cada um dos produtos:
+
+Produto A – alta taxa de crescimento do mercado e alta participação no mercado. = Produto
+Estrela.
+
+Produto B – baixa taxa de crescimento do mercado e alta participação no mercado. = Vaca
+Leiteira.
+
+Produto C – baixa taxa de crescimento do mercado e baixa participação no mercado. =
+Abacaxi/Cachorro.
+
+Produto D – alta taxa de crescimento do mercado e baixa participação no mercado. =
+Interrogação.
+
+Vejamos as alternativas:
+
+Letra A: errada. O produto A é um produto Estrela.
+
+Letra B: errada. O produto B é um produto Vaca Leiteira.
+
+Letra C: errada. De fato, o produto C é um produto Cachorro. Entretanto, a segunda parte da
+assertiva está errada. Isso, pois, se a taxa de crescimento de seu mercado aumentar
+significativamente, o produto Cachorro poderá se tornar uma Interrogação.
+
+Letra D: correta. Isso mesmo! Em um produto Interrogação, a organização poderá fazer grandes
+investimentos para tentar aumentar a participação deste produto no mercado, e transformá-lo em
+uma Estrela.
+
+Letra E: errada. De fato, o produto A é um produto Estrela. Contudo, a segunda parte da assertiva
+está errada. Isso, pois, no produto Estrela, para que a empresa mantenha sua alta participação no
+mercado, esses produtos ainda dependem de grandes investimentos (caso contrário, a empresa
+“perde” espaço no mercado). Assim, nesta fase, essas unidades (ou produtos) tendem a manter
+um equilíbrio no fluxo de caixa (se, por um lado, os investimentos são elevados; por outro, os
+retornos financeiros com as vendas também são altos).
+
+                                                                                           19
+
+
+---
+
+O gabarito é a letra D.
+
+(CS-UFG – Câmara de Goiânia-GO – Assessor Técnico Legislativo - 2018)
+
+A matriz BCG é Cma técnica de análise de portfólio e seleção de estratégias que se baseia no
+estudo de duas dimensões: a participação relativa de mercado e a taxa de crescimento do
+mercado. De acordo com essa matriz, os produtos ou unidades de negócios que têm participação
+elevada em mercados com altas taxas de crescimento são chamados de
+
+a) vacas leiteiras.
+
+b) vira-latas.
+
+c) estrelas.
+
+d) pontos de interrogação.
+
+Comentários:
+
+Produtos (ou unidades de negócio) que possuem alta participação em um mercado que, por sua
+vez, está em elevado crescimento, são classificados como Estrelas.
+
+O gabarito é a letra C.
+
+2.2 - Matriz GE/McKinsey
+
+Após o surgimento da Matriz BCG, a General Eletric (GE), auxiliada pela empresa de consultoria
+McKinsey Company, desenvolveu uma fermenta de análise de portfólio que tinha por objetivo ser
+mais completa que a Matriz BCG.
+
+A Matriz GE (também chamada de Matriz de Atratividade do Mercado e Força Competitiva) é
+uma ferramenta que traz um maior número de indicadores que a Matriz BCG.
+
+As variáveis básicas da Matriz GE são: atratividade do mercado (ou atratividade da indústria) e
+força competitiva (ou posição competitiva / força do negócio).
+
+O objetivo é o mesmo da matriz BCG: realizar a análise do portfólio dos produtos com o intuito de
+auxiliar as organizações a desenvolverem de uma melhor maneira as suas estratégias.
+
+Contudo, a Matriz GE possui 09 quadrantes (ou seja, 05 quadrantes a mais que a matriz BCG) e
+esses quadrantes são resultados do cruzamento dos eixos: “atratividade do mercado” e “força
+competitiva”. Vejamos:
+
+                                                                                           20
+
+
+---
+
+                                                                    Força Competitiva
+                                                       Alta              Média             Baixa
+
+                                           Alta
+                                                   Investimento e     Investimento e     Cautela e
+                                                    Crescimento        Crescimento      Seletividade
+                 Atratividade do Mercado
+
+                                           Média
+
+                                                   Investimento e       Cautela e       Desivenstir ou
+                                                    Crescimento        Seletividade        Colher
+                                           Baixa
+
+                                                     Cautela e         Desivenstir ou   Desivenstir ou
+                                                    Seletividade          Colher           Colher
+
+A Matriz de Negócios da GE analisa a viabilidade de diferentes negócios (Unidades Estratégicas de
+Negócios – UENs). Assim, é possível ter uma visão geral de quais áreas devem continuar recebendo
+investimentos.
+
+A Força Competitiva pode ser medida, por exemplo, pela capacidade tecnológica da organização,
+por sua imagem no mercado, pela grau de penetração da empresa no mercado, por seus preços
+diferenciados, pelo nível de atendimento, pela fidelidade dos clientes, etc.
+
+Por sua vez, a Atratividade do Mercado pode ser medida, por exemplo, pelo potencial do
+mercado, pelo crescimento do mercado, pelo tamanho do mercado, pela lucratividade do
+mercado, etc.
+
+A lógica da Matriz GE é bastante simples:
+
+Quadrante verde = Investir recursos naquelas atividades, produtos ou UENs que apresentam alta
+atratividade do mercado, combinada com uma elevada força competitiva por parte da
+organização. Portanto, deve-se manter o produto, investir no mercado, e buscar o crescimento.
+
+Quadrante amarelo = Manter cautela em relação aqueles produtos ou UENs que se encontram
+“na média”. Ou seja, deve-se analisar se vale a pena manter o produto/UEN no mercado. Devem
+ser selecionados para receber investimentos apenas aquelas UENs, produtos ou atividades que
+têm maior potencial de crescimento.
+
+Quadrante vermelho = Desinvestir os recursos que se encontram alocados nas atividades,
+produtos ou UENs que possuem baixa atratividade no mercado aliada a uma fraca posição
+competitiva no mercado. Portanto, deve-se vender o produto/UEN e sair do mercado.
+
+                                                                                                         20
+
+
+---
+
+(FGV – TCE-TO - Auditor de Controle Externo – Administração – 2022)
+
+Para subsidiar seu processo de formulação e planejamento estratégico, uma empresa utilizou-se
+da matriz GE/McKinsey para análise de seu portfólio de negócios. Os resultados foram:
+
+• unidade de negócio A - alta atratividade da indústria e posição competitiva média;
+
+• unidade de negócio B - média atratividade da indústria e posição competitiva alta;
+
+• unidade de negócio C - média atratividade da indústria e posição competitiva baixa;
+
+• unidade de negócio D - alta atratividade da indústria e posição competitiva baixa;
+
+• unidade de negócio E - baixa atratividade da indústria e posição competitiva alta.
+
+Com base no modelo da matriz GE/McKinsey, é correto afirmar que a empresa deve:
+
+a) deixar de investir nas unidades de negócio C e E;
+
+b) concentrar seus investimentos na unidade de negócio A e deixar de investir na unidade de
+negócio E;
+
+c) investir seletivamente nas unidades de negócio D e E;
+
+d) investir seletivamente nas unidades de negócio A e B e utilizar seus fluxos de caixa para financiar
+a unidade de negócio E;
+
+e) investir seletivamente nas unidades de negócio A e B e utilizar seus fluxos de caixa para financiar
+a unidade de negócio D.
+
+Comentários:
+
+Letra A: errada. De fato, a estratégia para a unidade de negócio C seria “desinvestir ou colher”.
+Contudo, a estratégia para a unidade de negócio E seria “cautela e seletividade”.
+
+Letra B: errada. De fato, a estratégia para a unidade de negócio A seria “investimento e
+crescimento”. Contudo, a estratégia para a unidade de negócio E seria “cautela e seletividade”.
+
+Letra C: correta. De fato, a estratégia para as unidades de negócio D e E seria “cautela e
+seletividade” (investir seletivamente).
+
+                                                                                                21
+
+
+---
+
+Letra D: errada. A estratégia para as unidades de negócio A e B seria “investimento e
+crescimento”. Por outro lado, a estratégia para a unidade de negócio E seria “cautela e
+seletividade” (investir seletivamente).
+
+Letra E: errada. A estratégia para as unidades de negócio A e B seria “investimento e
+crescimento”. Por outro lado, a estratégia para a unidade de negócio D seria “cautela e
+seletividade” (investir seletivamente).
+
+O gabarito é a letra C.
+
+(CESPE – STJ – Técnico Judiciário - 2015)
+
+A matriz McKinsey-GE é utilizada para análise de portfólio com o objetivo, entre outros, de se
+decidir quanto uma unidade estratégica de negócios (UEN) deve receber de investimentos ou quais
+UENs devem parar de receber investimentos.
+
+Comentários:
+
+Isso mesmo! A Matriz GE-Mckinsey é uma ferramenta de análise de portfólio que utiliza as
+variáveis atratividade do mercado (ou atratividade da indústria) e força competitiva (ou posição
+competitiva / força do negócio), com o intuito de verificar quais UENs devem receber
+investimentos e quais devem parar de receber investimentos.
+
+Gabarito: correta.
+
+
+2.3 - Matriz Ansoff
+
+O grande diferencial da Matriz Ansoff em relação às matrizes anteriores (BCG e GE) é que a Matriz
+Ansoff leva em consideração os “novos” produtos e mercados (além dos produtos e mercados já
+existentes).
+
+Ou seja, a Matriz Ansoff considera a possibilidade da organização criar novos produtos para
+mercados que já existem; ou então, “criar” um mercado completamente novo!
+
+“Como assim produtos e mercados ‘novos’ e ‘existentes’, Stefan?”
+
+                                                                                           22
+
+
+---
+
+Um exemplo de um mercado novo, seriam viagens ao planeta Marte. E um produto novo, seria um
+carro-foguete que possa te levar ao planeta Marte.
+
+Vamos “brincar” um pouquinho, com alguns exemplos, para facilitar o entendimento:
+
+       Um produto novo para um mercado existente: O Uber! Trata-se de um produto novo
+       (aplicativo que conecta motoristas a passageiros), para um mercado que já existia
+       (transporte de passageiros).
+
+       Um produto existente para um mercado novo: Os relógios “inteligentes” (produto
+       existente) que futuramente poderão ser utilizados para a realização de pequenos exames
+       (mercado novo da área da saúde).
+
+       Um produto novo para um mercado novo: Um carro-foguete para realizar viagens ao
+       planeta Marte.
+
+       Um produto existente para um mercado existente: Um jogo de video game para os
+       amantes de games.
+
+As variáveis da Matriz Ansoff são: Produtos e Mercados. Vejamos como é a estrutura dessa Matriz:
+
+                                                             Produtos
+                                               Existentes                   Novos
+                              Existentes
+
+                                             Penetração de         Desenvolvimento de
+                                               Mercado                  Produto
+                   Mercados
+
+                              Novos
+
+                                           Desenvolvimento de
+                                                                        Diversificação
+                                                Mercado
+
+A Matriz Ansoff classifica 04 tipos de estratégias:
+
+       Penetração de mercado: A organização busca aumentar a sua participação em um mercado
+       existente, através de produtos que também já existem. Por exemplo: uma empresa de táxi
+       fecha parcerias com diversas empresas para a realização de “viagens corporativas”.
+
+                                                                                           23
+
+
+---
+
+       Desenvolvimento de Mercado: Nesse tipo de estratégia, a organização busca explorar um
+       mercado novo, através de produtos que já existem. Por exemplo: uma empresa de cartão
+       de crédito lança um produto (cartão de crédito – produto existente) para crianças (mercado
+       novo).
+
+       Desenvolvimento de Produto: É a estratégia que tem por objetivo explorar mercados que já
+       existem, com a criação de novos produtos. Por exemplo: o Uber, conforme já explicamos.
+
+       Diversificação: Aqui é tudo novo! Trata-se da estratégia que tem por objetivo explorar um
+       mercado novo, com a criação de novos produtos.
+
+A Matriz Ansoff tem por objetivo auxiliar o gestor a avaliar oportunidades de crescimento em
+determinados mercados ou unidades de negócio específicas.
+
+(FUNRIO – AL-RR – Administrador - 2018)
+
+Na matriz de Ansoff, a estratégia de explorar novos mercados com novos produtos, se denomina
+
+a) penetração de mercado.
+
+b) desenvolvimento de mercado.
+
+c) desenvolvimento de produtos.
+
+d) diversificação.
+
+Comentários:
+
+De acordo com a Matriz Ansoff, a estratégia de explorar novos mercados, com novos produtos,
+chama-se Diversificação.
+
+O gabarito é a letra D.
+
+3 - Vantagem Competitiva
+
+3.1 - Cinco Forças de Porter
+
+O Modelo de Porter é uma técnica que facilita estabelecer o direcionamento estratégico e
+competitivo das organizações.
+
+                                                                                           24
+
+
+---
+
+Para Porter (1989) “Estratégia competitiva é a busca de uma posição competitiva favorável em
+uma indústria, a arena fundamental onde ocorre a concorrência. A estratégia competitiva visa a
+estabelecer uma posição lucrativa e sustentável contra as forças que determinam a concorrência
+na indústria.”
+
+Djalma Oliveira3, por sua vez, explica que “estratégia competitiva é a posição que uma empresa,
+uma UEN ou uma corporação adota, conscientemente ou não, dentro do setor ou indústria em que
+atua, e com base na qual ela se defende contra as forças competitivas ou procura influenciá-las a
+seu favor”.
+
+Michael Porter, professor de Harvard, é um renomado autor que desenvolveu diversos trabalhos
+na área da gestão estratégica.
+
+De acordo com Porter, é de extrema importância que a estratégia organizacional leve em
+consideração e entenda a estrutura do mercado no qual a organização está inserida, bem como as
+interações que ocorrem nesse ambiente.
+
+Para isso, Porter identificou 05 forças competitivas (Cinco forças de Porter): Ameaça de Novos
+Entrantes, Ameaça de Produtos Substitutos, Poder de Barganha dos Fornecedores, Poder de
+Barganha dos Clientes e Rivalidade entre Concorrentes (concorrência no setor).
+
+                                                                             Ameaça de
+                                                                              Novos
+                                                                             Entrantes
+
+                                                                             Rivalidade
+                                     Poder de                                   entre                                 Poder de
+                                   Barganha dos                             Concorrentes                            Barganha dos
+                                   Fornecedores                            (Concorrência                              Clientes
+                                                                             no setor)
+
+                                                                             Ameaça de
+                                                                              Produtos
+                                                                             Substitutos
+
+3 OLIVEIRA, Djalma de Pinho Rebouças de. Estratégia Empresarial & vantagem competitiva: como estabelecer, implementar e avaliar. São Paulo, Atlas: 2014, p.377
+
+                                                                                                                                                                 25
+
+
+---
+
+Ameaça de Novos Entrantes
+
+Trata-se da ameaça de novas empresas concorrentes entrarem no setor, com o objetivo de
+conquistar parte do mercado.
+
+A entrada de novas empresas no setor, contudo, se depara com algumas barreiras, bem como com
+a reação das organizações concorrentes que já estão no mercado.
+
+Para Porter, as barreiras que dificultam a entrada de uma empresa no setor são as seguintes:
+
+      Economias de escala: Economia de escala significa que quanto maior a produção, menor
+      será o custo unitário do produto final. Nesse sentido, a existência de economias de escala
+      força esse novo concorrente que pretende entrar no mercado a: 1) entrar no mercado com
+      grande escala, e arriscar-se a forte resposta (reação) dos concorrentes já existentes ou; 2)
+      entrar no mercado com baixa escala e ter custos superiores, deixando-o em uma situação
+      de desvantagem.
+
+      Diferenciação do produto: As empresas que estão firmadas no setor já possuem produtos
+      “conhecidos”, e os consumidores já têm suas “preferências” por esses produtos. Isso faz
+      com que a empresa que deseja entrar no setor tenha que fazer altos investimentos para
+      tentar “quebrar” essa “lealdade” dos consumidores. Quanto maior a diferenciação de um
+      produto no mercado, tanto maior será a barreira para a entrada de novas empresas.
+
+      Necessidade de capital: Para ingressar no mercado a empresa terá de investir muitos
+      recursos financeiros. Mesmo que a empresa tenha esse dinheiro, isso é um risco, pois pode
+      ser que esses recursos financeiros não sejam recuperados. Quanto maior a necessidade de
+      capital para ingressar em um mercado, maior será a barreira.
+
+      Custos de troca: Os custos de troca (ou custos de mudança), se referem aos custos que o
+      cliente terá com a mudança de um fornecedor. Por exemplo: um laboratório de análises
+      clínicas possui um “equipamento X” que realiza um determinado exame. Caso esse
+      laboratório venha a adquirir um novo equipamento que surgiu no mercado (o
+      “equipamento Y”) terá um custo com o treinamento dos funcionários, um custo com a
+      compra de novos equipamentos “suplementares” que são necessários para a correta
+      operação do “equipamento Y”, entre outros.
+
+      Esses custos de troca (também chamados de “custos únicos”, pois ocorrem apenas uma
+      vez, no início da mudança) são uma grande barreira para a entrada de novos concorrentes
+      no mercado, pois os clientes tendem a manter os produtos atuais, ao invés de comprarem
+      um produto que tenha todos esses custos de troca envolvidos.
+
+      Acesso aos canais de distribuição: Os canais de distribuição, por exemplo, são os
+      “varejistas” que vendem os produtos finais ao consumidor. Muitos desses canais de
+      distribuição trabalham apenas com a venda de determinadas “marcas” de produtos, e
+      muitos deles têm, inclusive, parcerias firmadas com essas marcas. Muito provavelmente
+
+                                                                                               26
+
+
+---
+
+      você já deve ter ouvido aquela famosa frase: “Só tem PEPSI, pode ser?”. É exatamente isso.
+      O novo concorrente que pretende entrar no mercado terá de tentar convencer os canais de
+      distribuição a aceitarem os seus produtos (isso pode ser feitos através de promoções,
+      preços mais acessíveis, maiores retornos ao canal de distribuição, etc.)
+
+      Quanto mais restrito e quanto menor o número dos canais de distribuição, tanto maior será
+      a barreira para a entrada de novos concorrentes.
+
+      Demais desvantagens de custos: Tratam-se de outras desvantagens de custo (que não
+      estão relacionadas à economia de escala). Por exemplo:
+
+             -custos com o registro de patentes;
+             -necessidade de se estabelecer em uma localização geográfica privilegiada;
+             -acesso às matérias-primas (muitas vezes as empresas que já estão no mercado
+             “monopolizam” todas as matérias-primas e fornecedores existentes);
+             -subsídios governamentais (grandes empresas que já estão consolidadas no mercado
+             possuem subsídios governamentais, o que torna muito difícil que as novas empresas
+             que pretendem entrar no mercado consigam “concorrer” com esse tipo de
+             vantagem) e;
+             -curva de aprendizagem/experiência (as empresas já existentes são mais
+             “experientes”; A tendência é que os custos unitários dos produtos diminuam à
+             medida em que as empresas vão ganhando e acumulando experiência).
+
+      Ação governamental: muitas vezes, o governo pode proibir ou impor restrições à entrada
+      em determinado setor, ou então dificultar a concessão de licenças para o ingresso e
+      funcionamento de um novo concorrente.
+
+Em suma, se existem muitas barreiras de entrada, a ameaça de novos entrantes é baixa. Por
+outro lado, se existem poucas barreiras de entrada, a ameaça de novos concorrentes é alta.
+
+Ameaça de Produtos Substitutos
+
+Os produtos substitutos são “produtos similares”, ou seja, desempenham a mesma função do
+produto que está atualmente disponível no mercado.
+
+Essa força busca medir o impacto que um produto substituto pode exercer em um mercado.
+
+A substituição pode ser direta ou indireta.
+
+      Substituição direta: por exemplo, a margarina é um substituto da manteiga; couro sintético,
+      é um substituto de couro legitimo; carne de frango, é um substituto da carne bovina.
+
+                                                                                           27
+
+
+---
+
+      Substituição indireta: por exemplo, os smartphones que substituíram as câmeras
+      fotográficas, retirando o interesse dos consumidores em adquirirem esse último produto.
+
+Quanto mais atrativos (em relação de preço, ou custo/benefício) forem os produtos substitutos,
+tanto maior será a ameaça que eles provocam em determinado setor.
+
+Poder de Barganha dos Fornecedores
+
+O poder de barganha dos fornecedores se refere ao “poder de negociação” dos fornecedores.
+
+Essa força representa o impacto que os fornecedores exercem sobre o mercado.
+
+Os fornecedores tornam-se “poderosos” quando:
+
+      - poucos fornecedores dominam o setor;
+
+      - não há produtos substitutivos para venda; então, o fornecedor não precisa “brigar” contra
+      produtos substitutivos;
+
+      - o setor para o qual o fornecedor vende não representa o seu principal cliente (pois,
+      quando o setor é um “cliente” importante, os fornecedores tendem a praticar melhores
+      preços para “proteger” esse mercado). Imagine que você possua um “minimercado” e vá
+      até a fábrica da Nestlé para comprar 100 pacotes de biscoito (ou bolacha, rs) recheado. Com
+      certeza eles não te darão “muita bola” e os preços que você irá pagar serão bem mais altos
+      do que os preços que eles oferecem à rede de supermercados Carrefour, por exemplo. Isso
+      acontece porque você (ou o setor de “minimercados”) não representa o principal cliente da
+      Nestlé.
+
+      - o produto vendido pelo fornecedor é um insumo muito importante para o setor
+      comprador;
+
+      - os produtos fornecidos são bastante diferenciados e/ou estão atrelados a “custos de
+      troca” para o setor comprador;
+
+      - os fornecedores conseguem “integrar para frente”, ou seja, eles conseguem assumir os
+      negócios dos seus clientes. Por exemplo: uma fabricante de automóveis que decide abrir
+      uma concessionária. Nesse caso, ela poderá praticar preços muito melhores do que as
+      concessionárias para as quais vendia os seus carros anteriormente.
+
+                                                                                            28
+
+
+---
+
+Poder de Barganha dos Clientes
+
+O poder de barganha dos clientes se refere ao “poder de negociação” dos clientes.
+
+Essa força representa o impacto que os clientes exercem sobre o mercado. Os clientes forçam os
+“preços” para baixo.
+
+O cliente (comprador) torna-se “poderoso” quando:
+
+      - é o principal comprador (principal cliente) de um determinado fornecedor, ou seja, as
+      quantidades compradas por ele representam uma parcela significativa do total de vendas
+      do fornecedor;
+
+      - os produtos ou insumos representam a maior parte dos seus custos; assim, o cliente
+      torna-se mais seletivo e cauteloso para comprar com melhores preços;
+
+      - os produtos não são “diferenciados”, assim, o cliente comprador tem opção de comprar
+      outros produtos substitutivos;
+
+      - os produtos estão atrelados a pequenos (ou não possuem) custos de troca. Nesse caso, o
+      cliente não fica “amarrado” a determinado fornecedor;
+
+      - os lucros do cliente são baixos. Portanto, o cliente buscar minimizar seus custos com as
+      compras;
+
+      - o cliente tem a possibilidade de fazer a “integração para trás”. Ou seja, o cliente
+      comprador pode começar a produzir o produto ou insumo vendido pelo fornecedor;
+
+      - o produto adquirido não interfere na qualidade dos produtos produzidos pelo comprador,
+      então, ele pode discutir o preço;
+
+      - o cliente comprador conhece muito bem os preços praticados no mercado bem como
+      conhece os custos do fornecedor; isso lhe dá um maior poder de negociação.
+
+Rivalidade entre Concorrentes (concorrência no setor)
+
+Trata-se da força que mede a rivalidade do mercado, ou seja, avalia como está a concorrência no
+mercado.
+
+                                                                                          29
+
+
+---
+
+A rivalidade (ou concorrência) aumenta na presença de alguns fatores estruturais, e pode ser
+medida através da análise dos seguintes fatores4:
+
+        Número de concorrentes: quanto maior a quantidade de empresas no mercado, maior será
+        a rivalidade.
+
+        Equilíbrio entre os concorrentes: Mesmo se existirem poucos concorrentes, mas todos
+        esses concorrentes forem aparentemente equilibrados (ou seja, possuem aparentemente o
+        mesmo tamanho e a mesma quantidade de recursos), a rivalidade tende a ser maior. Isso
+        porque as empresas irão “brigar” entre si, para demonstrar quem é o “líder do mercado”.
+
+        Crescimento lento do setor: com o baixo crescimento do setor, as empresas precisam
+        “brigar” para conquistarem “fatias” do mercado. De diferente modo ocorre em mercados
+        que estão em acelerado crescimento, pois, nesse tipo de mercado, há “espaço” para todos
+        crescerem.
+
+        Elevados custos fixos: as empresas que possuem elevados custos fixos, em relação ao valor
+        adicionado em seus produtos, tendem a sentirem-se mais pressionadas, e isso faz com que
+        elas diminuam os valores de seus preços. Da mesma forma ocorre com aquelas empresas
+        que fabricam produtos que são difíceis de serem armazenados (as empresas tendem a
+        praticar preços mais baixos para “queimar” rápido o estoque).
+
+        Ausência de diferenciação ou de custos de troca: A rivalidade é muito maior quando não
+        existe diferenciação entre os produtos (os clientes podem optar facilmente por outros
+        produtos iguais ou similares). Da mesma forma ocorre quando não há custos de troca: a
+        rivalidade aumenta, pois os compradores podem optar por outra empresa a qualquer
+        tempo.
+
+        Problemas de economias de escala: quando são colocados muitos produtos no mercado, a
+        oferta (de produtos) fica maior do que a procura (demanda dos clientes), e isso tende a
+        gerar uma queda nos preços.
+
+        Diversidade entre concorrentes: cada empresa tem a sua maneira de agir e de pensar
+        estrategicamente. Isso dificulta às empresas a imaginarem quais são as estratégias de seus
+        concorrentes. Além disso, dificulta a celebração de “acordos” e de “consensos”, pois cada
+        um tem a sua própria ideia e visão de mercado. Então, os concorrentes ficam “batendo
+        cabeça” uns com os outros, mesmo que isso seja maléfico a todos eles.
+
+        Decisões estratégias: algumas empresas podem estar dispostas a tomar certas atitudes
+        mais arriscadas, e isso pode deixar a rivalidade ainda mais acentuada. Por exemplo: O Ifood
+        pode começar a distribuir milhares de cupons de descontos de R$ 20,00, mesmo que isso
+
+
+4
+ OLIVEIRA, Djalma de Pinho Rebouças de. Estratégia Empresarial & vantagem competitiva: como estabelecer, implementar e
+avaliar. São Paulo, Atlas: 2014, p.382-383.
+
+                                                                                                               30
+
+
+---
+
+      não lhe traga lucro algum. O intuito, nesta estratégia, é fortalecer a marca no mercado, e
+      atrair a lealdade dos clientes.
+
+      Existência de elevadas barreiras de saída do setor: as barreiras de saída podem ser
+      diversas: barreiras emocionais (lealdade aos empregados, orgulho de fechar o negócio,
+      medo), restrições governamentais, custos elevados de saída (indenizações, custas
+      trabalhistas), ativos muito especializados (por exemplo, a empresa possui equipamentos
+      muito especializados que não conseguiriam ser vendidos por um preço razoável no
+      mercado) etc. Isso faz com que as empresas continuem no mercado, mesmo obtendo
+      resultados negativos.
+
+Porter explica que é importante que as empresas construam vantagens competitivas e adotem
+posições defensivas, no intuito de que sejam capazes de combater essas cinco forças competitivas
+que acabamos de estudar. Segundo ele, isso poderá ser feito através da adoção de 03 tipos de
+estratégias competitivas genéricas, as quais estudaremos a seguir.
+
+(FGV – Prefeitura de Salvador – Técnico de Nível Superior - 2017)
+
+As opções a seguir destacam elementos que compõem a Teoria das Cinco Forças para análise da
+vantagem competitiva das empresas, à exceção de uma. Assinale-a.
+
+a) Produtos substitutos.
+
+b) Compradores.
+
+c) Agências reguladoras.
+
+d) Fornecedores.
+
+e) Concorrentes.
+
+Comentários:
+
+As 05 forças competitivas de Porter são: Ameaça de Novos Entrantes, Ameaça de Produtos
+Substitutos, Poder de Barganha dos Fornecedores, Poder de Barganha dos Clientes (Compradores)
+e Rivalidade entre Concorrentes (concorrência no setor).
+
+Conforme podemos observar, a alternativa C (Agências reguladoras) não traz uma das 05 forças
+competitivas de Porter e, portanto, é o nosso gabarito.
+
+                                                                                          31
+
+
+---
+
+O gabarito é a letra C.
+
+3.2 – Estratégias Competitivas Genéricas
+
+Para Porter (1986) “a essência da formulação de uma estratégia competitiva é relacionar uma
+companhia ao seu meio ambiente”. Segundo ele, existem 03 estratégias competitivas genéricas
+que as organizações poderão adotar (isolada ou conjuntamente) para enfrentar as forças
+competitivas, com o objetivo de tornar as organizações mais competitivas. São elas:
+
+      Liderança de custo (liderança em custo total): Essa estratégia busca tornar a organização
+      mais competitiva através da fabricação de produtos mais baratos do que os produtos dos
+      concorrentes. A organização busca liderar os custos do mercado e, desta forma, combater
+      as cinco forças competitivas.
+
+      A organização que adota esta estratégia está orientada para a eficiência e deverá ter boas
+      economias de escala, bem como um bom controle e redução de custos. A “curva de
+      aprendizagem/experiência” (já estudamos ela nesta aula) também é um fator que influencia
+      bastante e ajuda a organização a atingir o objetivo de liderar os custos do mercado.
+
+      Diferenciação: Trata-se de uma estratégia que tem por objetivo o desenvolvimento de
+      produtos diferenciados, ou seja, a empresa busca criar produtos que sejam reconhecidos
+      pelos clientes como “únicos” e “inigualáveis”.
+
+      Isso poderá ser feito, por exemplo, através da utilização de uma tecnologia específica, ou
+      simplesmente por conta do design do produto. O objetivo é fazer com que os clientes se
+      tornem fiéis à marca e reconheçam que as características desse produto justificam o seu
+      preço. Busca-se fazer com que os clientes possuam uma forte identidade com o produto
+      (ou marca).
+
+      Um bom exemplo são os produtos da Apple. As pessoas que possuem um Iphone, por
+      exemplo, o consideram o melhor smartphone do mercado, e não se desfazem dele por
+      nada! (risos). Perceba que, muitas vezes, o Iphone pode até não ser o melhor smartphone
+      do mercado; mas, a Apple conseguiu criar essa imagem de “produto diferenciado”. Note
+      que o próprio logo da Apple (uma maça) é um aspecto (design) que contribui bastante para
+      a diferenciação da marca.
+
+      Enfoque (Focalização): Consiste em uma estratégia de atuação em determinados nichos de
+      mercado. O foco poderá ser em um mercado muito especializado (mercado específico) ou
+      em determinados perfis de consumidores (consumidores específicos).
+
+      Exemplo de mercado específico: carros de luxo; Exemplo de consumidores específicos:
+      produtos sem lactose ou sem açúcar para pessoas que têm algum tipo de restrição.
+
+                                                                                          32
+
+
+---
+
+      Isso é feito com o objetivo de concentrar e focalizar os esforços da organização em um
+      determinado mercado, grupo de clientes ou segmento de produtos, no intuito conseguir
+      atender aos clientes de maneira muito mais completa, efetiva e eficiente do que a
+      concorrência (que atua em áreas mais amplas).
+
+      Como resultado, a empresa poderá se destacar pela qualidade e diferenciação do produto
+      (enfoque na diferenciação) ou então poderá se destacar pelos seus preços diferenciados
+      (enfoque na liderança de custo). Portanto, conforme se observa, além do enfoque
+      “genérico” adotado em determinado segmento ou mercado, a empresa,
+      consequentemente, focará em alguma (ou em ambas) das duas estratégias anteriores.
+      Vejamos:
+
+            Considerando "Todo" o                             Foco em determinado
+                  mercado                                            nicho
+
+                                                      Enfoque de                Enfoque de
+   Diferenciação           Liderança de custo
+                                                     Diferenciação          Liderança de Custo
+
+(FEPESE – CELESC – Administrator - 2018)
+
+Assinale a alternativa que completa corretamente o sentido da frase de Michael Porter abaixo.
+
+A essência da formulação de uma estratégia competitiva é:
+
+a) Agregar valor ao seu produto ou serviço.
+
+b) Ampliar o mercado de atuação da empresa.
+
+c) Importar insumos e exportar produtos acabados.
+
+d) Relacionar uma empresa com seu meio ambiente.
+
+e) Investir em marketing e no desenvolvimento de pessoas.
+
+                                                                                            33
+
+
+---
+
+Comentários:
+
+Para Porter (1986) “a essência da formulação de uma estratégia competitiva é relacionar uma
+companhia ao seu meio ambiente”.
+
+O gabarito é a letra D.
+
+(FEPESE – CELESC – Administrator - 2018)
+
+Michael Porter descreveu as 3 Estratégias Genéricas que empresas usam para enfrentar as Forças
+Competitivas que influenciam concorrência de um setor.
+
+Assinale a alternativa correta no tocante às Estratégias Genéricas de Porter.
+
+a) Liderança em preço, diferenciação e enfoque.
+
+b) Liderança em custo total, diferenciação e enfoque.
+
+c) Investimento em pessoas, investimento em marketing e enfoque.
+
+d) Investimento em pessoas, diferenciação e enfoque.
+
+e) Investimento em pessoas, investimento em marketing e investimento em tecnologia.
+
+Comentários:
+
+As 03 estratégias competitivas genéricas de Porter são: Liderança em custo (ou liderança em custo
+total), diferenciação e enfoque (ou focalização).
+
+O gabarito é a letra B.
+
+3.3 - Cadeia de Valor
+
+Porter criou também outro conceito bastante importante: a cadeia de valor.
+
+Cadeia de valor pode ser conceituada como as atividades físicas e tecnológicas que a empresa
+desempenha para a criação de um produto final para seus clientes. Em outras palavras, é um
+conjunto de atividades que a empresa realiza para elaborar, produzir e comercializar os seus
+produtos e serviços. Ou seja, ela demonstra todas as etapas, desde a entrada da matéria-prima e
+sua transformação em produto, até a chegada deste produto ao cliente final.
+
+A análise da cadeia de valor permite que a empresa compreenda quais as partes de suas operações
+geram mais valor e quais as melhores formas para a organização implementar suas estratégias
+genéricas. Trata-se do mapeamento dos fluxos mais importantes dentro da organização.
+
+                                                                                           34
+
+
+---
+
+Através da cadeia de valor, a empresa busca conhecer e compreender suas vantagens
+competitivas. Uma vantagem competitiva é aquele “algo a mais” que a organização possui e que a
+permite oferecer produtos e serviços “diferenciados” em relação aos oferecidos pelos
+concorrentes. Trata-se da capacidade que a organização tem de poder oferecer um maior “valor
+agregado” aos seus clientes.
+
+De acordo com Porter (1989) “a vantagem competitiva não pode ser compreendida observando-se
+a empresa como um todo. Ela tem sua origem nas inúmeras atividades distintas que uma empresa
+executa no projeto, na produção, no marketing, na entrega e no suporte de seu produto. Cada
+uma destas atividades pode contribuir para a posição dos custos relativos de uma empresa, além
+de criar uma base para a diferenciação.”
+
+Quando uma empresa possui vantagem competitiva, ela consegue combater e responder melhor
+às cinco forças competitivas.
+
+A cadeia de valor relaciona as diversas atividades estratégicas relevantes da organização e as
+segmenta em atividades principais (ou primárias) e atividades de apoio (ou secundárias).
+
+-Atividades principais (ou primarias): são aquelas relacionadas ao “caminho” completo que um
+produto percorre, ou seja, vai desde a recepção da matéria-prima, fabricação do produto,
+comercialização deste produto no mercado, distribuição aos clientes e, inclusive, o serviço de pós-
+venda.
+
+As atividades primárias são as seguintes:
+
+      Logística interna (ou Logística de entrada): são as atividades relacionadas com o
+      recebimento e armazenagem dos insumos, controle de estoque, e distribuição interna dos
+      insumos.
+
+      Operações: são as atividades necessárias para transformar os insumos no produto final. São
+      as atividades operacionais relacionadas ao processamento dos insumos. Por exemplo:
+      trabalho com máquinas, montagem, embalagem, etc.
+
+      Logística externa (ou Logística de saída): relaciona-se as atividades de coleta,
+      armazenamento e distribuição dos produtos finais para os compradores. Fazem parte
+      dessas atividades, por exemplo: o processamento de pedidos, a programação das entregas,
+      operações com veículos de entrega, etc.
+
+      Marketing e Vendas: tratam-se das atividades relacionadas a proporcionar meios para que
+      os clientes possam adquirir os produtos, ou seja, atividades que criam os “canais de venda”,
+      bem como atividades relacionadas às formas de induzir e persuadir os clientes a comprarem
+      esses produtos. Por exemplo: propagandas em televisão, campanhas de descontos, etc.
+
+                                                                                             35
+
+
+---
+
+      Serviços: são atividades realizadas para aumentar ou manter o valor de algum produto. Por
+      exemplo: instalação, treinamento, reparos, consertos, fornecimento de peças, etc. Tratam-
+      se dos “serviços de pós-venda”.
+
+-Atividades de apoio (ou secundárias): são aquelas que dão suporte às atividades primárias.
+
+Vejamos quais são elas:
+
+      Aquisição (compras): são as atividades relacionadas à compra de insumos que serão
+      utilizados em toda a cadeia de valor.
+
+      Desenvolvimento de tecnologia: envolvem tanto as atividades de tecnologia propriamente
+      ditas, bem como a “expertise” e o “know-how” envolvidos com a criação e fabricação do
+      produto. Essas atividades aperfeiçoam os produtos e os processos que as organizações
+      realizam para produzi-los.
+
+      Gerência de Recursos Humanos: tratam-se de atividades associadas ao recrutamento,
+      seleção, contratação, treinamento, desenvolvimento, aperfeiçoamento e remuneração do
+      pessoal envolvido na organização.
+
+      Infraestrutura da empresa: são as atividades de administração geral da empresa, tais como:
+      planejamento, contabilidade, assessoria jurídica, gerência de qualidade, etc.
+
+Agora, vamos entender a figura da cadeira de valor elaborada por Porter:
+
+                                                                                              36
+
+
+---
+
+Perceba que a Infraestrutura da Empresa está “isolada”, pois ela serve de base para o
+funcionamento de todas as atividades primarias da organização.
+
+Por outro lado, as outras 03 atividades de apoio (Gerência de Recursos Humanos,
+Desenvolvimento de Tecnologia e Aquisição) estão com linhas tracejadas. Isso quer dizer que
+essas atividades se relacionam com todas as atividades primarias, podendo gerar valor em cada
+uma delas de forma separada ou conjunta.
+
+As atividades primarias, por sua vez, não possuem linhas tracejadas. Isso significa que elas podem
+gerar valor à empresa “por elas mesmas”, ou seja, de acordo com seu próprio funcionamento.
+
+Por fim, veja que todas as atividades (primárias e de apoio) estão aptas a produzirem margem.
+Margem é o valor da diferença entre o custo de produção e o valor percebido pelo cliente.
+
+“Como assim, Stefan?”
+
+Imagine que você queira me vender um colchão, o qual você comprou por R$ 1.000,00 (custo de
+produção). Então, você começa a me explicar que o colchão possui espuma da NASA, que alivia dor
+nas costas, e que tem garantia de 10 anos. Nessa hora, eu começo a imaginar que o colchão deve
+custar R$ 5.000,00 (valor percebido pelo cliente). Portanto, essa diferença de R$ 4.000,00 é a
+margem.
+
+Mesmo que, de início, você tenha imaginado em me vender o colchão por R$ 2.000,00, você
+tentará chegar o mais próximo possível do valor de R$ 5.000,00. Isso acontece pois você conseguiu
+“gerar” valor neste produto.
+
+É o que pode acontecer, por exemplo, com o valor de um Iphone. Talvez, o custo de produção dele
+possa ser bem baixo. Mas, a Apple conseguiu agregar valor nesse produto, fazendo com que ele
+seja visto como um produto valioso pelos seus clientes. Assim, pode “aproveitar” muito bem a
+margem que foi gerada.
+
+Portanto, podemos concluir que o objetivo das empresas é gerar valor em seus produtos, para que
+seja possível auferir maiores lucros. Conforme vimos na cadeia de valor de Porter, essa “geração
+de valor” pode ser feita através das mais variadas atividades.
+
+                                                                                            37
+
+
+---
+
+(IF-MS – IF-MS – Administrator - 2019)
+
+O conceito de Cadeia de Valor de Michael Porter (Livro Vantagem Competitiva: criando e
+sustentando um desempenho superior, 16ª Edição. Rio de Janeiro: Campus, 1989) é um modelo
+que ajuda a analisar atividades específicas por meio das quais as empresas criam valor e vantagem
+competitiva. Marque a alternativa que contenha as atividades principais da Cadeia de Valor.
+
+a) Promoção, treinamento, aquisição, infraestrutura e gerência de RH.
+
+b) Logística externa, logística interna, desenvolvimento de tecnologia e infraestrutura e operações.
+
+c) Aquisição, desenvolvimento de tecnologia, promoção e infraestrutura da empresa.
+
+d) Pode ser por meio dos recursos e competências.
+
+e) Logística interna, operações, logística externa, marketing e vendas e serviço.
+
+Comentários:
+
+As atividades principais (ou primárias) são: Logística interna, Operações, Logística externa,
+Marketing e Vendas e Serviços.
+
+O gabarito é a letra E.
+
+(CESGRANRIO – Petrobrás – Analista de Sistemas Júnior - 2018)
+
+Considere a cadeia de valor de uma empresa, conforme o modelo de Porter, e as possibilidades da
+aplicação de sistemas de informação nos seus diversos processos empresariais básicos, tanto de
+apoio quanto primários.
+
+Considere ainda os três exemplos seguintes de Sistemas de Informação:
+
+(i) Otimização de Sistema de Entrega para Distribuidores
+
+(ii) Serviços de Pós-venda
+
+(iii) Análise Inteligente de Currículo em Processo de Treinamento de Pessoal
+
+Esses sistemas são aplicados, respectivamente, a processos empresariais categorizados na cadeia
+de valor da empresa como
+
+                                                                                               38
+
+
+---
+
+a) primários, de apoio, primários
+
+b) de apoio, primários, de apoio
+
+c) primários, primários, de apoio
+
+d) primários, de apoio, de apoio
+
+e) de apoio, primários, primários
+
+Comentários:
+
+É uma ótima questão para consolidarmos o entendimento das diferenças entre atividades
+primárias e atividades de apoio. Vejamos cada um dos sistemas mencionados pelo enunciado:
+
+(i) Otimização de Sistema de Entrega para Distribuidores: A otimização do sistema de entregas
+relaciona-se a “distribuição dos produtos finais para os consumidores”. Trata-se, portanto, de
+sistema associado à logística de saída (atividade primária).
+
+(ii) Serviços de Pós-venda: Os serviços de pós-venda são atividades primárias, realizadas para
+aumentar ou manter o valor dos produtos.
+
+(iii) Análise Inteligente de Currículo em Processo de Treinamento de Pessoal: A análise de currículo
+está relacionada a gerência de recursos humanos (atividade de apoio).
+
+O gabarito é a letra C.
+
+(FGV – Prefeitura de Salvador-BA – Técnico de Nível Superior - 2017)
+
+O uso da cadeia de valor se justifica para analisar a vantagem competitiva de uma organização ou
+sua falta por meio do detalhamento de suas atividades.
+
+Nesse sentido, assinale (V) para a afirmativa verdadeira e (F) para a falsa.
+
+( ) A cadeia de valor de Porter está detalhada em atividades primárias e secundárias.
+
+( ) Os serviços (ou pós venda) foram propostos como uma atividade primária da organização.
+
+( ) A logística externa está classificada como uma atividade secundária da organização.
+
+As afirmativas são, respectivamente,
+
+a) V – V – F.
+
+b) F – V – V.
+
+                                                                                              39
+
+
+---
+
+c) V – F – F.
+
+d) F – V – F.
+
+e) V – V – V.
+
+Comentários:
+
+A primeira assertiva está correta. A cadeia de valor de Porter relaciona as diversas atividades
+estratégicas relevantes da organização e as segmenta em: atividades principais (ou primárias) e
+atividades de apoio (ou secundárias).
+
+A segunda assertiva está correta. As atividades primárias são: Logística interna, Operações,
+Logística externa, Marketing e Vendas e Serviços (serviços de pós venda).
+
+A terceira assertiva está errada. Conforme vimos acima, a logística externa é classificada como
+uma atividade primária.
+
+O gabarito é a letra A.
+
+4 - Elaboração do Plano de Ação
+
+4.1 - Ferramenta 5W2H
+
+A ferramenta 5W2H tem por objetivo facilitar o planejamento das atividades. Trata-se,
+basicamente, de um “check-list” que auxilia o gestor a traçar os planos de ação para que os
+objetivos sejam alcançados.
+
+Ao elaborar um plano de ação utilizando-se da ferramenta 5W2H, deve-se responder a 07
+perguntas: (5W2H deriva das inicias das seguintes palavras em inglês: What, Why, Who, Where,
+When, How, How much).
+
+                                                                                          40
+
+
+---
+
+                •What? (O que?)
+       W        •O que deve ser feito? (Indica qual ação deve ser realizada)
+
+                •Why? (Por que?)
+       W        •Por que deve ser feito? (Indica poruqe a ação deve ser realizada)
+
+                •Who? (Quem?)
+       W        •Quem deve fazer? (Indica os responsáveis pela execução da ação)
+
+                •Where? (Onde?)
+       W        •Onde deve ser realizado? (Indica a localização que deve ser realizada a ação)
+
+                •When? (Quando?)
+       W        •Quando deve ser realizado? (Indica os prazos a serem obedecidos)
+
+                •How? (Como?)
+        H       •Como deve ser realizado? (Indica o processo de execução da ação)
+
+                •How much? (Quanto?)
+        H       •Quanto custará? (Indica o orçamento que deverá ser alocado para a ação)
+
+
+A ferramenta 5W2H funciona como um mapeamento das atividades. Embora não seja o seu
+objetivo principal, essa ferramenta também auxilia na execução e possibilita uma visão de controle
+dos planos de ação, uma vez que se torna mais fácil acompanhar o andamento dos planos de ação
+e verificar se estão no caminho correto para o atingimento das metas e dos objetivos
+estabelecidos.
+
+(FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+Na execução de análise dos processos administrativos de uma organização, um consultor elaborou
+três perguntas:
+
+I. O que deve ser feito?
+
+II. Quem deve fazer?
+
+III. Como deve ser realizado?
+
+Consideradas à luz da ferramenta 5W2H, utilizada para auxiliar no desenvolvimento de planos de
+ação, assinale a opção que indica as perguntas que estão associadas a essa ferramenta.
+
+                                                                                                 41
+
+
+---
+
+a) I, II e III.
+
+b) I e II, somente.
+
+c) II e III, somente.
+
+d) I e III, somente.
+
+e) I, somente.
+
+Comentários:
+
+Ao elaborar um plano de ação utilizando-se da ferramenta 5W2H, deve-se responder a 07
+perguntas: What (O que deve ser feito?), Why, Who (Quem deve fazer?), Where, When, How
+(Como deve ser realizado?), How much).
+
+O gabarito é a letra A.
+
+(FCC – TCE-RO – Analista de Controle Externo - Adaptada)
+
+A ferramenta 5W2H é utilizada na melhoria de processos e o what significa o que deverá ser feito,
+ou seja, a descrição da solução escolhida e os objetivos de melhoria a serem atingidos.
+
+Comentários:
+
+Isso mesmo! A ferramenta 5W2H é utilizada para a melhoria dos processos. Ela busca facilitar o
+planejamento das atividades. O “what” indica o que deve ser feito, ou seja, qual ação deve ser
+realizada.
+
+Gabarito: correta.
+
+5 - Controle, Acompanhamento e Análise de Desempenho
+
+5.1 - Balanced Scorecard - BSC
+
+O processo de definição das estratégias e objetivos organizacionais, inicialmente, passa por uma
+etapa mais qualitativa (mais subjetiva). Contudo, é necessário que, posteriormente, os resultados
+pretendidos sejam quantificados. Afinal, “o que não se pode medir, não se pode administrar”.
+
+O monitoramento e avaliação dos “meios” (dos caminhos) e dos fins (dos resultados) deve ser
+realizado continuamente.
+
+                                                                                           42
+
+
+---
+
+À vista disso, Kaplan e Norton desenvolveram uma ferramenta estratégica denominada Balanced
+Scorecard (BSC). Trata-se de um sistema balanceado de monitoramento de resultados que tem por
+objetivo a implementação e o acompanhamento da estratégia organizacional, por meio do
+estabelecimento de indicadores, objetivos e metas.
+
+O objetivo do BSC é justamente retirar o caráter subjetivo (qualitativo) da estratégia, e transformá-
+la em algo mais objetivo (quantitativo).
+
+“Como assim, Stefan?”
+
+Vejamos a missão e a visão organizacional do Uber:
+
+      Missão Uber: “Dar acesso a transporte confiável para todas as pessoas, em todos os
+      lugares”.
+
+      Visão Uber: “Ser a empresa com o transporte mais inteligente com menos carros e maior
+      acesso”
+
+Trata-se de algo bastante subjetivo (qualitativo), não é mesmo?
+
+É nessa hora que entra o BSC. Ele busca transformar essa subjetividade em algo mais “paupável”,
+algo mais objetivo e quantificável. Em outras palavras, o BSC tem por objetivo desdobrar os planos
+estratégicos, a missão e a visão, em objetivos, desafios e metas.
+
+Por exemplo:
+
+O uber poderia desdobrar sua missão e visão em um objetivo mais quantificável: ter 100 mil
+motoristas em todas as capitais do Brasil até 2025. Esse objetivo, por sua vez, pooeria ser
+desdobrado em uma meta: ter, pelo menos, 50 mil motoristas em, pelo menos, metade das
+capitais do Brasil, até 2020.
+
+Perceba que, agora, estamos diante de algo bem mais objetivo, bem mais quantificável, e que é
+bem mais fácil de ser monitorado, medido e avaliado, não é mesmo?
+
+Portanto, o BSC consiste em uma ferramenta que traduz e “desdobra” a missão, visão e os planos
+estratégicos em objetivos, desafios e metas, através da criação de indicadores que possam
+acompanhar, monitorar e medir o andamento dos objetivos, bem como acompanhar e aferir o
+atingimento dos resultados.
+
+                                                                                               43
+
+
+---
+
+Os indicadores são variáveis que permitem mensurar o andamento dos processos e dos resultados.
+Antigamente, os únicos indicadores que eram utilizados eram os indicadores financeiros. Contudo,
+para Kaplan e Norton, os indicadores financeiros não são suficientes para aferirem e monitorarem
+toda a complexidade organizacional.
+
+Assim, Kaplan e Norton desenvolveram uma ferramenta que leva em consideração medidas
+financeiras (indicadores financeiros) e medidas não financeiras (indicadores estratégicos). O BSC
+considera que as medidas (indicadores) podem ocorrem sob quatro perspectivas: Perspectiva
+Financeira, Perspectiva do Cliente, Perspectiva dos Processos Internos, Perspectiva do
+Aprendizado e Crescimento. Para cada uma dessas perspectivas são desenvolvidos indicadores.
+
+     O BSC não está limitado aos indicadores financeiros!
+
+     Ele leva em consideração o equilíbrio entre 04 diferentes perspectivas: Financeira;
+     Cliente; Processos Internos e; Aprendizado e Crescimento.
+
+Vejamos cada uma dessas perspectivas:
+
+Perspectiva financeira
+
+Tratam-se de indicadores que demonstram se a execução da estratégia está contribuindo para a
+melhoria dos resultados financeiros. É nessa perspectiva que se analisavam o crescimento da
+receita e a produtividade.
+
+Relacionam-se à lucratividade, fluxo de caixa, retorno sobre o capital investido.
+
+Trata-se da perspectiva que demonstra como a organização é vista pelos seus investidores,
+proprietários e acionistas. Por esse motivo, também é conhecida como “perspectiva do acionista”.
+
+É a perspectiva que tem por objetivo responder à seguinte pergunta: “Como a organização atende
+aos interesses dos acionistas?”.
+
+                                                                                           44
+
+
+---
+
+Perspectiva do cliente
+
+Essa perspectiva busca identificar os segmentos (de clientes e de mercados) nos quais a
+organização pretende atuar. São identificados, também, as medidas de desempenho que serão
+utilizadas nesses segmentos.
+
+Os indicadores têm por objetivo demonstrar como a organização é vista pelo cliente.
+
+Exemplos: captação de clientes, retenção de clientes, satisfação dos clientes, “lucratividade” dos
+clientes, qualidade dos produtos, tempo de atendimento, etc.
+
+É a perspectiva que tem por objetivo responder à seguinte pergunta: “Como os clientes veem a
+organização?”.
+
+Perspectiva dos processos internos
+
+Essa perspectiva identifica os processos internos críticos nos quais a empresa deve focar para
+alcançar a excelência e o sucesso (fatores críticos de sucesso). Ou seja, onde a organização deve se
+superar, ou, o que a organização deve fazer (internamente), para satisfazer às necessidades dos
+clientes.
+
+Tratam-se dos processos que servem de alicerce para as outras perspectivas. Ou seja, essa
+perspectiva mapeia os processos que geram impacto na obtenção dos resultados financeiros e
+sobre a satisfação dos clientes.
+
+Essa perspectiva tem por objetivo melhorar os processos existentes, bem como desenvolver
+processos novos.
+
+Relacionam-se a indicadores de tempo, capacitação dos funcionários, qualidade, produtividade,
+etc.
+
+É a perspectiva que tem por objetivo responder à seguinte pergunta: “Em quais processos a
+organização deve ser realmente boa e eficiente?”.
+
+Perspectiva do aprendizado e crescimento (ou inovação)
+
+Nessa perspectiva os indicadores buscam demonstrar como a organização pode aprender e
+melhorar constantemente, aumentando continuamente a sua eficiência operacional. É nessa
+perspectiva que estão os ativos intangíveis da organização.
+
+Relaciona-se, principalmente, a três variáveis:
+
+                                                                                              45
+
+
+---
+
+      Capital humano (Pessoas): envolve os conhecimentos, competências, habilidades e
+      talentos dos funcionários (ou seja, o “know-how” ou a “expertise” dos funcionários) que são
+      necessários ao desenvolvimento dos planos estratégicos.
+
+      Capital de informação (Sistemas): são os sistemas de informação, banco de dados,
+      infraestrutura de informação e redes que são necessários e importantes para a execução
+      das atividades.
+
+      Capital organizacional (Procedimentos organizacionais): está relacionado à liderança,
+      motivação, trabalho em equipe, cultura organizacional, etc. Tratam-se dos aspectos
+      relacionados à motivação dos funcionários para o atingimento dos objetivos, bem como do
+      alinhamento dos objetivos individuais de cada funcionário, com os objetivos
+      organizacionais.
+
+Exemplos de alguns indicadores: nível de satisfação do funcionário, “lucratividade” do funcionário,
+treinamento do funcionário, capacitação do funcionário, rotatividade dos funcionários, etc.
+
+É a perspectiva que tem por objetivo responder à seguinte pergunta: “Como podemos continuar
+melhorando e adicionando valor agregado ao que fazemos?’’
+
+Vamos elaborar um exemplo para que você absorva e entenda as quatro perspectivas.
+
+Imagine que você tenha uma sorveteria e irá investir R$ 50.000,00 em insumos e equipamentos
+novos. O primeiro passo é criar o indicador para analisar o “retorno desse capital investido”
+(perspectiva financeira).
+
+Você chega à conclusão de que irá precisar vender 10 mil sorvetes por mês, para ter um retorno
+desse capital.
+
+Você cria, então, um indicador para avaliar o “tempo de produção dos sorvetes” (perspectiva de
+processos internos), para verificar se será possível atingir a meta de produção.
+
+Além disso, você terá que vender esses 10 mil sorvetes por mês. Então, você cria dois indicadores:
+“nível de satisfação do cliente” e “retenção dos clientes” (perspectiva do cliente). Seu objetivo é
+medir se os clientes estão satisfeitos com a sorveteria e estão retornando à sorveteria todos os
+finais de semana para comparem sorvetes, pois só assim você conseguirá vender 10 mil sorvetes
+por mês.
+
+                                                                                             46
+
+
+---
+
+Por fim, você cria um indicador de “satisfação do funcionário” e um indicador de “capacitação do
+funcionário” (perspectiva do Aprendizado e Crescimento). Isso é importante para que você
+consiga avaliar se os funcionários estão satisfeitos e se estão continuamente capacitados a
+exercerem suas funções, para que o nível de produção não diminua (ou então aumente).
+
+Continuando...
+
+Norton e Kaplan destacam, ainda, que essas perspectivas têm uma relação de causa e efeito entre
+si. Por exemplo: se os funcionários forem melhor capacitados (perspectiva do Aprendizado e
+Crescimento), consequentemente produzirão mais eficientemente (melhoria da perspectiva de
+processos internos). Isso poderá reduzir os custos da produção, aumentar a qualidade do produto
+e reduzir o custo do produto (melhoria da perspectiva do cliente). Os clientes mais satisfeitos irão
+comprar mais. Então, consequentemente, os resultados financeiros também aumentam (melhoria
+da perspectiva financeira).
+
+É importante que você saiba que os mencionados autores previram que essas quatro perspectivas
+podem ser “adaptadas” à realidade de cada organização. Por exemplo: as organizações públicas,
+mesmo que não visem lucro, podem utilizar-se do BSC. Nesse caso, poderiam “adaptar” a
+perspectiva financeira a uma “perspectiva de recursos necessários a implementação das políticas
+públicas”. Da mesma forma, a perspectiva do cliente, pode ser adaptada a uma “perspectiva do
+cidadão”, por exemplo.
+
+O que se nota é que os nomes podem ser diferentes, mas a essência é a mesma.
+
+Com o objetivo de traduzir as estratégias em objetivos e resultados, Kaplan e Norton sustentam
+que o BSC deve seguir 04 passos, no intuito de integrar o planejamento estratégico ao orçamento
+operacional a longo prazo. São eles:
+
+      1 - Estabelecimento de metas de superação;
+
+      2 - Identificação e racionalização das iniciativas estratégicas;
+
+      3 - identificação de iniciativas críticas que envolvam mais de uma unidade de negócios; e
+
+      4 - Vinculação da estratégia à alocação de recursos e aos orçamentos anuais.
+
+Para Kaplan e Norton há 03 pessoas que desempenham papéis críticos para a formulação e
+incorporação do BSC. São elas:
+
+      O arquiteto: É o alto executivo (normalmente da área de apoio) que é responsável pela
+      construção e incorporação do BSC ao sistema gerencial da empresa.
+
+                                                                                              47
+
+
+---
+
+      O agente de mudanças: É um representante do executivo principal. Ele auxilia na
+      incorporação do BSC aos processos gerenciais, ou seja, ajuda a moldar a rotina de uso do
+      BSC (novo sistema gerencial).
+
+      O comunicador: É o responsável por comunicar as novas estratégias aos funcionários, bem
+      como conquistar o apoio e incentivar a adesão de todos os funcionários ao novo sistema
+      gerencial.
+
+Para Kaplan e Norton, o BSC seria um modelo apto a criar “organizações orientadas para a
+estratégia”. Nesse sentido, eles destacam 05 princípios de organizações focalizadas na estratégia:
+
+      Traduzir a estratégia em termos operacionais: deve-se “descrever” a estratégia, indicando
+      os objetivos os quais devem ser perseguidos.
+
+      Alinhar a organização com a estratégia: todas as áreas da organização devem atuar de
+      forma sinérgica, alinhadas à estratégia organizacional. Deve-se criar sinergias (focalizar os
+      esforços) entre as áreas da organização.
+
+      Transformar a estratégia em uma tarefa rotineira de todos: todos os funcionários da
+      organização devem ser comunicados (de forma clara e objetiva) sobre a estratégia, para que
+      a compreendam e realizem suas tarefas do “dia a dia” de forma a contribuir para o sucesso
+      da estratégia.
+
+      Fazer da estratégia um processo contínuo: Os funcionários da organização devem
+      compreender que a estratégia não é um processo estático; mas sim um processo dinâmico,
+      que deve ser continuamente discutido, revisto e melhorado. Isso é feito através de
+      reuniões, relatórios, etc.
+
+      Mobilizar as mudanças por meio de lideranças executivas fortes e eficazes: A liderança
+      executiva é de fundamental importância para “gerir as mudanças”, e liderar as equipes para
+      que os resultados sejam atingidos. O objetivo é que as mudanças necessárias sejam
+      implementadas sem causar conflitos e tensão entre as partes envolvidas.
+
+De acordo com Kaplan e Norton, o BSC tem as seguintes funções:
+
+      - Esclarecimento e atualização da estratégia;
+
+      - Comunicação da estratégia para toda a empresa;
+
+      - Alinhamento das metas das áreas e das pessoas envolvidas com a estratégia;
+
+      - Associação dos objetivos estratégicos às metas de longo prazo e aos orçamentos anuais;
+
+      - Identificação e alinhamento das iniciativas estratégicas;
+
+                                                                                             48
+
+
+---
+
+      - Avaliações de desempenho e resultados periódicas;
+
+      - Obtenção de feedbacks para conhecimento e aperfeiçoamento da estratégia.
+
+Por fim, vale destacar que o BSC é composto por 05 elementos principais:
+
+      - Mapa estratégico: Descreve a estratégia da organização através de objetivos inter-
+      relacionados e distribuídos nas quatro perspectivas (Financeira, Cliente, Processos Internos
+      e Aprendizado e Crescimento)
+
+      - Objetivos estratégicos: Indicam o resultado final que a organização pretende alcançar. É o
+      estado futuro desejado. São os fins que a organização pretender alcançar, e para os quais
+      direcionará todos os seus esforços e recursos. É orientado para o longo prazo.
+
+      - Indicadores: Trata-se da maneira pela qual serão acompanhadas e medidas as ações para
+      que os objetivos sejam alcançados e obtenha-se êxito na estratégia organizacional.
+
+      - Metas: São “etapas” que devem ser realizadas para o alcance dos objetivos. Representam
+      os níveis de desempenho ou taxas de melhoria que são requeridos para que o objetivo
+      estratégico seja alcançado.
+
+      - Plano de ação (iniciativa): Descrevem o conjunto de ações que devem ser realizadas para
+      que os objetivos estratégicos sejam alcançados.
+
+     O BSC traduz a missão, a visão e a estratégia organizacional, através de um mapa
+     estratégico, composto por objetivos estratégicos que estão distribuídos nas diferentes
+     perspectivas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento), as
+     quais estão inter-relacionadas por uma relação de causa e efeito; associando-se, ainda,
+     os objetivos estratégicos a indicadores, metas e planos de ação.
+
+5.1.1 - Mapa Estratégico
+
+O mapa estratégico é uma “representação gráfica” que traz a missão, a visão e a estratégia
+organizacional, descrevendo objetivos estratégicos que estão inter-relacionados e distribuídos
+nas quatro perspectivas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento).
+
+                                                                                               49
+
+
+---
+
+O mapa estratégico facilita a visualização da estratégia, ou seja, facilita a “comunicação” da
+estratégia, para que as pessoas consigam compreender a estratégia da organização e saibam o
+caminho que devem seguir.
+
+     O mapa estratégico permite a visualização das relações de causa e efeito entre as
+     perspectivas estratégicas (Financeira, Cliente, Processos Internos e Aprendizado e
+     Crescimento) e os objetivos estratégicos da organização.
+
+Kaplan e Norton elencam alguns princípios que norteiam o mapa estratégico:
+
+      -a estratégia equilibra forças contraditórias;
+
+      -a estratégia baseia-se em proposição de valor diferenciada para os clientes;
+
+      -o valor é criado por meio dos processos internos;
+
+      -a estratégia é composta por temas complementares e simultâneos; e
+
+      -o alinhamento estratégico determina o valor dos ativos intangíveis.
+
+Como exemplo, trago o mapa estratégico da Volkswagen do Brasil, elaborado para o ano de 2014:
+
+                                                                                          50
+
+
+---
+
+(FGV – IMBEL – Administrador - 2021)
+
+Um administrador está buscando uma ferramenta de medição de desempenho que não tenha,
+como foco exclusivo, indicadores financeiros. Analisando outras perspectivas, é adequado o uso do
+
+                                                                                           51
+
+
+---
+
+a) ebitda
+
+b) break even point
+
+c) balanced scorecard
+
+d) payback descontado
+
+e) margem de contribuição
+
+Comentários:
+
+Kaplan e Norton desenvolveram uma ferramenta estratégica denominada Balanced Scorecard
+(BSC). Para Kaplan e Norton, os indicadores financeiros não são suficientes para aferirem e
+monitorarem toda a complexidade organizacional. Portanto, os autores desenvolveram uma
+ferramenta que leva em consideração medidas financeiras (indicadores financeiros) e medidas não
+financeiras (indicadores estratégicos).
+
+Lembre-se: O BSC não está limitado aos indicadores financeiros! Ele leva em consideração o
+equilíbrio entre 04 diferentes perspectivas: Financeira; Cliente; Processos Internos e; Aprendizado
+e Crescimento.
+
+O gabarito é a letra C.
+
+(FCC – Prefeitura de Recife-PE – Assistente de Gestão Pública - 2019)
+
+Considere que uma empresa municipal tenha decidido utilizar, para apoiar seu planejamento
+estratégico e avaliar resultados, o Balanced Scorecard (BSC). Durante a aplicação de tal
+metodologia foram utilizados mapas estratégicos, cuja função precípua consiste em
+
+a) visualizar as estratégias, identificando as relações de causa e efeito entre as perspectivas.
+
+b) identificar a lacuna existente entre os insumos necessários e aqueles disponíveis na organização.
+
+c) identificar as forças e fraquezas da organização, com a análise dos cenários internos.
+
+d) mapear os desafios e oportunidades existentes no ambiente em que se insere a organização.
+
+e) mapear os principais processos de trabalho que fazem parte da cadeia de valor da organização.
+
+Comentários:
+
+Letra A: correta. Isso mesmo! O mapa estratégico permite a visualização das relações de causa e
+efeito entre as perspectivas estratégicas (Financeira, Cliente, Processos Internos e Aprendizado e
+Crescimento) e os objetivos estratégicos da organização.
+
+                                                                                                   52
+
+
+---
+
+Letra B: errada. Trata-se de conceito relacionado ao mapeamento de competências.
+
+Letra C: errada. A assertiva descreve um conceito da Analise SWOT.
+
+Letra D: errada. A assertiva destaca um conceito relacionado à Analise SWOT.
+
+Letra E: errada. Trata-se de conceito relacionado ao mapeamento de processos.
+
+O gabarito é a letra A.
+
+(FCC – AFAP – Assistente Administrativo - 2019)
+
+O Balanced Scorecard (BSC) é uma metodologia comumente utilizada pelas organizações para a
+implementação de seu planejamento estratégico e possui, como uma de suas principais
+características,
+
+a) a prevalência da perspectiva financeira, que se sobrepõe às demais.
+
+b) o equilíbrio entre diferentes perspectivas, incluindo a dos clientes.
+
+c) a desconsideração de aspectos financeiros, com prevalência da perspectiva do aprendizado.
+
+d) a fixação de indicadores apenas para a perspectiva dos processos internos.
+
+e) a adoção de metas atreladas à perspectiva do crescimento, que engloba as demais.
+
+Comentários:
+
+Letra A: errada. Nenhuma das perspectivas prevalece sobre as demais. Há um equilíbrio entre as
+perspectivas.
+
+Letra B: correta. Isso mesmo! Há um equilíbrio entre as diferentes perspectivas (Financeira;
+Cliente; Processos Internos e; Aprendizado e Crescimento).
+
+Letra C: errada. Conforme vimos, os aspectos financeiros também são considerados. Além disso,
+não há prevalência entre as perspectivas.
+
+Letra D: errada. São fixados indicadores para todas as perspectivas.
+
+Letra E: errada. Nada disso. A perspectiva de aprendizado e crescimento não engloba as demais.
+
+O gabarito é a letra B.
+
+(FCC – DPE-AM – Assistente Técnico de Defensoria - 2018)
+
+                                                                                           53
+
+
+---
+
+O Balanced Scorecard − BSC, desenvolvido por Robert Kaplan e David Norton na década de 1990,
+preconiza o estabelecimento de objetivos estratégicos da organização e a correspondente
+avaliação sob as perspectivas
+
+a) dos fatores econômicos e dos fatores de bem-estar pessoal.
+
+b) operacional, gerencial e mercadológica, todas estritamente financeiras.
+
+c) institucional, ligada à governança, e social, ligada à cidadania.
+
+d) financeira; do cliente, dos processos internos e do aprendizado organizacional.
+
+e) do curto prazo, estritamente financeira, e do longo prazo, visando à perenidade da organização.
+
+Comentários:
+
+As perspectivas estratégicas são: Financeira, Cliente, Processos Internos e Aprendizado e
+Crescimento.
+
+O gabarito é a letra D.
+
+(Quadrix – CONTER – Analista Administrativo - 2017)
+
+Robert S. Kaplan e David P. Norton, criadores do Balanced Scorecard (BSC), sustentam a
+necessidade de se seguirem quatro passos para o uso do BSC, a longo prazo, num processo
+integrado de planejamento e orçamento operacional. São eles:
+
+a) estruturação sequencial da gestão do negócio, da gestão de serviços, da gestão orçamentária e
+da gestão de controle da qualidade.
+
+b) adesão da maior parte dos integrantes da Organização ao Control Objectives for Information
+and Related Technologies(COBIT), seguida de capacitação acerca do BSC, da adoção do Enterprise
+Resource Planning (ERP) e, por fim, do Strategic Activity System (SAS).
+
+c) adoção da Pirâmide da Performance, seguida da Tableau de Bord, da Sustainability
+Scorecard (SSC) e, por fim, do Strategic Activity System (SAS).
+
+d) implementação sequencial da Matriz BCG, da Matriz de Ansoff, da Matriz SGC e da Matriz GE.
+
+e) estabelecimento de metas de superação, identificação e racionalização das iniciativas
+estratégicas, identificação de iniciativas críticas que envolvam mais de uma unidade de negócios e
+vinculação da estratégia à alocação de recursos e aos orçamentos anuais.
+
+Comentários:
+
+                                                                                             54
+
+
+---
+
+Com o objetivo de traduzir as estratégias em objetivos e resultados, Kaplan e Norton sustentam
+que o BSC deve seguir 04 passos, no intuito de integrar o planejamento estratégico ao orçamento
+operacional a longo prazo. São eles:
+
+         1 - Estabelecimento de metas de superação;
+
+         2 - Identificação e racionalização das iniciativas estratégicas;
+
+         3 - identificação de iniciativas críticas que envolvam mais de uma unidade de negócios; e
+
+         4 - Vinculação da estratégia à alocação de recursos e aos orçamentos anuais.
+
+O gabarito é a letra E.
+
+(FCC – TRT 13a – Técnico Judiciário - 2014)
+
+De acordo com os mentores do Balanced Scorecard - BSC, Robert Kaplan e David Norton,
+desempenham papel crítico na construção do BSC:
+
+I. O arquiteto, correspondente a um alto executivo da organização designado para a construção do
+BSC e pela sua inclusão no sistema gerencial.
+
+II. O comunicador, que tem a responsabilidade de conquistar o apoio e a adesão de todos os
+membros da organização quanto ao novo sistema gerencial a ser implementado.
+
+III. Os capacitadores, designados para moldar as ações de rotina decorrentes do novo sistema
+gerencial.
+
+Está correto o que consta APENAS em
+
+a) I.
+
+b) I e II.
+
+c) II.
+
+d) I e III.
+
+e) II e III.
+
+Comentários:
+
+Para Kaplan e Norton há 03 pessoas que desempenham papéis críticos para a construção e
+incorporação do BSC. São elas:
+
+                                                                                               55
+
+
+---
+
+O arquiteto: É o alto executivo (normalmente da área de apoio) que é responsável pela construção
+e incorporação (inclusão) do BSC ao sistema gerencial da empresa.
+
+O agente de mudanças: É um representante do executivo principal. Ele auxilia na incorporação do
+BSC aos processos gerenciais, ou seja, ajuda a moldar a rotina de uso do BSC.
+
+O comunicador: É o responsável por comunicar as novas estratégias aos funcionários, bem como
+conquistar o apoio e incentivar a adesão de todos os funcionários ao novo sistema gerencial.
+
+Perceba que a terceira assertiva utilizou o termo “capacitadores” ao invés de “agente de
+mudanças”, o que tornou a assertiva errada.
+
+O gabarito é a letra B.
+
+5.2 - Matriz GUT
+
+A Matriz GUT (ou Matriz Gravidade, Urgência e Tendência) é uma ferramenta utilizada para
+priorizar os problemas. Ela auxilia os gestores a avaliarem os diversos problemas e “priorizar”
+aqueles mais importantes.
+
+São utilizados três fatores para avaliar e quantificar os problemas: Gravidade (G), Urgência (U) e
+Tendência (T).
+
+      Gravidade: para quantificarmos o nível de gravidade, precisamos avaliar se o problema
+      afeta os objetivos ou resultados da organização. Analisa-se o grau de dano ou prejuízo que
+      esse problema poderá trazer à organização. Ou seja, analisa-se o impacto do problema
+      sobre a organização.
+
+      Urgência: avalia-se o prazo que a organização possui para agir sobre o problema, ou seja,
+      analisa-se “quando” esse problema irá ocorrer e quanto tempo a organização terá para
+      resolver essa situação.
+
+      Tendência: avalia de que forma esse problema irá se desenvolver caso a organização não
+      atue sobre ele. Trata-se do “padrão de desenvolvimento” da situação. Em outras palavras,
+      avalia o quanto pior (ou melhor) serão os impactos desse problema com o passar do tempo.
+      A tendência do problema pode indicar três situações:
+
+             -estabilidade: mesmo sem intervenção da organização, o problema se manterá
+             estável com o passar do tempo.
+
+             -agravamento: caso a organização não atue sobre o problema, ele irá se agravar com
+             o passar do tempo.
+
+                                                                                            56
+
+
+---
+
+             -atenuação: trata-se do problema que irá “regredir” com o passar do tempo, mesmo
+             que a organização não atue sobre ele.
+
+Após a análise (que é realizada através de algumas “perguntas-padrão”), os problemas da
+organização recebem notas (que variam de 1 a 5) para cada um desses fatores (Gravidade,
+Urgência e Tendência).
+
+Essas notas são multiplicadas e, então, pode ser possível estabelecer o grau de importância de
+cada problema. Quanto maior for o resultado obtido, maior será a prioridade do problema.
+
+Vejamos um exemplo:
+
+            Problema      Gravidade         Urgência         Tendência        GxUxT
+              Alpha           5                 1                1               5
+              Beta            1                 2                4               8
+             Gamma            2                 4                4               32
+              Delta           4                 2                5               40
+             Epsilon          3                 3                1               9
+              Zeta            5                 2                3               30
+
+O problema “delta” é, portanto, o problema mais prioritário. O problema “alpha”, por sua vez, é o
+problema que está classificado como de menor prioridade.
+
+Você pode perceber, ainda, que o problema “alpha” é bastante grave! Contudo, o grau de
+urgência dele é pequeno (pode ser um problema que irá ocorrer somente daqui a 10 anos, por
+exemplo). Além disso, com o passar do tempo, o problema “alpha” será atenuado (tendência de
+atenuação).
+
+Enquanto isso, o problema “beta” é pouco grave. Contudo, é um problema que irá se agravar com
+o passar do tempo (tendência de agravamento). Além disso, é um pouco mais urgente que o
+problema “alpha”. Portanto, o problema “beta” tem um nível de prioridade maior do que o
+problema “alpha”.
+
+(FGV – Câmara de Aracaju - SE - Assistente Administrativo – 2021)
+
+Em função da multiplicidade de tarefas exercidas, muitas vezes os gestores incorrem em decisões
+erradas ao priorizar a solução de determinados problemas e negligenciar outros de maior
+importância.
+
+                                                                                           57
+
+
+---
+
+Nesse sentido, é uma importante ferramenta para a priorização de problemas:
+
+a) Gestão 5S;
+
+b) Matriz GUT;
+
+c) Análise BCG;
+
+d) Reengenharia;
+
+e) Avaliação incremental.
+
+Comentários:
+
+É a Matriz GUT (ou Matriz Gravidade, Urgência e Tendência) que é uma ferramenta utilizada para
+priorizar os problemas.
+
+O gabarito é a letra B.
+
+(FGV – AL-BA – Técnico de Nível Superior - 2014)
+
+Um determinado gerente de departamento vê‐se a volta com numerosos problemas no ambiente
+de trabalho e precisa estabelecer um método que priorize esses problemas e a análise dos riscos
+envolvidos. Considerando as ferramentas de gestão de qualidade, assinale a opção que indica a
+que melhor se adapta a este contexto
+
+a) 5W2H.
+
+b) Brainstorming.
+
+c) Diagrama de árvore.
+
+d) Estratificação.
+
+e) Matriz GUT.
+
+Comentários:
+
+A ferramenta utilizada para “priorizar os problemas” analisando os riscos envolvidos, é a Matriz
+GUT.
+
+O gabarito é a letra E.
+
+                                                                                          58
+
+
+---
+
+                                 RESUMO ESTRATÉGICO
+
+                                             Análise SWOT
+
+A Análise SWOT é uma ferramenta utilizada na etapa do diagnóstico organizacional.
+
+Consiste, basicamente, na análise do ambiente interno (forças e fraquezas) e do ambiente
+externo (ameaças e oportunidades).
+
+                                     Ambiente INTERNO                            Ambiente EXTERNO
+                                   (aspectos controláveis)                   (aspectos não controláveis)
+    Aspectos POSITIVOS
+  (ajudam a organização)
+                                          Forças                                 Oportunidades
+
+    Aspectos NEGATIVOS
+ (atrapalham a organização)
+                                        Fraquezas                                    Ameaças
+
+                                                                       Ambiente INTERNO
+                                                                         (controlável)
+
+                                                       Fraquezas                              Forças
+
+
+                                                 Cenário: Problemas                  Cenário: Vulnerabilidade
+
+                              Ameaças            Estratégia: Sobrevivência           Estratégia: Manutenção
+
+  Ambiente EXTERNO
+   (não controlável)
+                                                 Cenário: Limitações                 Cenário: Alavancagem
+                        Oportunidades
+                                                 Estratégia: Crescimento             Estratégia: Desenvolvimento
+
+                                                                                                              59
+
+
+---
+
+                                                                    Matriz BCG
+
+Também chamada de Matriz de Crescimento e Participação, é uma ferramenta de análise de
+portfólio que classifica os produtos de uma organização de acordo com o “crescimento do
+mercado“ e “participação do produto nesse mercado”.
+
+                                                      Participação do produto no mercado
+
+                                                     Alta                              Baixa
+                                      Alto
+             Crescimento do Mercado
+
+                                                     Estrela                      Interrogação /
+                                                                                Em questionamento
+                                      Baixo
+
+                                                 Vaca Leiteira             Abacaxi / Cachorro (vira-lata)
+
+
+         Estrela                                   Interrogação                   Vaca Leitera                      Abacaxi
+ •Alta participação no                        •Baixa participação no         •Alta participação no          •Baixa participação em
+  mercado que está em                          mercado que está em            mercado que está em            um mercado que está em
+  alto crescimento                             alto crescimento               baixo crescimento              baixo crescimento
+ •Exige grandes                               •Organização faz               •Não exige grandes             •Produto que "suga" os
+  investimentos                                investimentos mas não          investimentos (pois o          recursos da organização
+ •Equilibrio no fluxo de                       obtém retorno (devido à        mercado está em baixo         •Em geral, não
+  caixa                                        baixa participação no          crescimento)                   representam boas
+ •Tem grande potencial de                      mercado)                      •É a hora de lucrar!            oportunidades e devem
+  lucratividade                               •Se nao fizer nada: virará                                     ser abandonados
+                                               um "abacaxi"                                                 •A organização deve "sair"
+                                              •Deve buscar aumentar a                                        desse mercado
+                                               participação do produto
+                                               no mercado para tentar
+                                               transformá‐lo em
+                                               "estrela"
+
+                                                                                                                               60
+
+
+---
+
+                                                             Matriz GE/McKinsey
+
+Fermenta de análise de portfólio que tinha por objetivo ser mais completa que a Matriz BCG.
+
+  As variáveis básicas da Matriz GE são: atratividade do mercado (ou atratividade da indústria) e
+                   força competitiva (ou posição competitiva / força do negócio).
+                                                                     Força Competitiva
+                                                        Alta              Média               Baixa
+                                            Alta
+
+                                                    Investimento e     Investimento e       Cautela e
+                                                     Crescimento        Crescimento        Seletividade
+                  Atratividade do Mercado
+
+                                            Média
+
+                                                    Investimento e       Cautela e        Desivenstir ou
+                                                     Crescimento        Seletividade         Colher
+                                            Baixa
+
+                                                      Cautela e         Desivenstir ou    Desivenstir ou
+                                                     Seletividade          Colher            Colher
+
+         • Investir                                        • Manter cautela              • Desinvestir.
+         • Buscar o crescimento                            • Selecionar UENs,            • Deve-se vender o
+                                                             produtos ou                   produto/UEN e sair do
+                                                             atividades que têm            mercado.
+                                                             maior potencial de
+                                                             crescimento.
+
+         Quadrante                                          Quadrante                    Quadrante
+         VERDE                                              AMARELO                      VERMELHO
+
+                                                                                                                   61
+
+
+---
+
+                                                           Matriz Ansoff
+
+As variáveis da Matriz Ansoff são: Produtos e Mercados. A partir dessas variáveis, ela classifica 04
+tipos de estratégia: Penetração de Mercado, Desenvolvimento de Produto, Desenvolvimento de
+Mercado e Diversificação.
+
+                                                             Produtos
+                                              Existentes                       Novos
+                             Existentes
+
+                                            Penetração de            Desenvolvimento de
+                                              Mercado                     Produto
+                  Mercados
+
+                             Novos
+
+                                          Desenvolvimento de
+                                                                           Diversificação
+                                               Mercado
+
+                                                   Cinco Forças de Porter
+
+                                                             Ameaça de
+                                                              Novos
+                                                             Entrantes
+
+                                                             Rivalidade
+                               Poder de                         entre                         Poder de
+                             Barganha dos                   Concorrentes                    Barganha dos
+                             Fornecedores                   (Concorrência                     Clientes
+                                                              no setor)
+
+                                                             Ameaça de
+                                                              Produtos
+                                                             Substitutos
+
+                                                                                                           62
+
+
+---
+
+Ameaça de Novos Entrantes
+
+Trata-se da ameaça de novas empresas concorrentes entrarem no setor, com o objetivo de
+conquistar parte do mercado. Se existem muitas barreiras de entrada, a ameaça de novos
+entrantes é baixa. Por outro lado, se existem poucas barreiras de entrada, a ameaça de novos
+concorrentes é alta.
+
+Barreiras que dificultam a entrada:
+
+      -Economias de escala
+      -Diferenciação do produto
+      -Necessidade de capital
+      -Custos de troca
+      -Acesso aos canais de distribuição
+      -Demais desvantagens de custos
+      -Ação governamental
+
+
+Ameaça de Produtos Substitutos
+
+Essa força busca medir o impacto que um produto substituto pode exercer em um mercado.
+
+Quanto mais atrativos (em relação de preço, ou custo/benefício) forem os produtos substitutos,
+tanto maior será a ameaça que eles provocam em determinado setor.
+
+Poder de Barganha dos Fornecedores
+
+Se refere ao “poder de negociação” dos fornecedores.
+
+Os fornecedores tornam-se “poderosos” quando:
+
+      - poucos fornecedores dominam o setor;
+      - não há produtos substitutivos para venda;
+      - o setor para o qual o fornecedor vende não representa o seu principal cliente
+      - é um insumo muito importante para o setor comprador;
+      - os produtos fornecidos são bastante diferenciados e/ou estão atrelados a “custos de
+      troca” para o setor comprador;
+      - os fornecedores conseguem “integrar para frente”
+
+                                                                                         63
+
+
+---
+
+Poder de Barganha dos Clientes
+
+Se refere ao “poder de negociação” dos clientes.
+
+O cliente (comprador) torna-se “poderoso” quando:
+
+        - é o principal comprador de um determinado fornecedor,
+        - os produtos ou insumos representam a maior parte dos seus custos
+        - os produtos não são “diferenciados”
+        - os produtos estão atrelados a pequenos (ou não possuem) custos de troca
+        - os lucros do cliente são baixos.
+        - o cliente tem a possibilidade de fazer a “integração para trás”
+        - o produto adquirido não interfere na qualidade dos produtos produzidos
+        - o cliente comprador conhece muito bem os preços praticados no e os custos do
+        fornecedor
+
+Rivalidade entre Concorrentes (concorrência no setor)
+
+Trata-se da força que mede a rivalidade do mercado, ou seja, avalia como está a concorrência no
+mercado.
+
+A rivalidade (ou concorrência) aumenta na presença de alguns fatores estruturais e pode ser
+medida através da análise dos seguintes fatores5:
+
+        - Número de concorrentes
+        - Equilíbrio entre os concorrentes
+        - Crescimento lento do setor
+        - Elevados custos fixos: Ausência de diferenciação ou de custos de troca
+        - Problemas de economias de escala
+        - Diversidade entre concorrentes
+        - Decisões estratégias
+        - Existência de elevadas barreiras de saída do setor
+
+5
+ OLIVEIRA, Djalma de Pinho Rebouças de. Estratégia Empresarial & vantagem competitiva: como estabelecer, implementar e
+avaliar. São Paulo, Atlas: 2014, p.382-383.
+
+                                                                                                               64
+
+
+---
+
+                               Estratégias Competitivas Genéricas
+
+Segundo Porter, existem 03 estratégias competitivas genéricas que as organizações poderão
+adotar (isolada ou conjuntamente) para enfrentar as forças competitivas, com o objetivo de tornar
+as organizações mais competitivas.
+
+      -Liderança de custo (liderança em custo total): Essa estratégia busca tornar a organização
+      mais competitiva através da produção de produtos mais baratos do que os produtos dos
+      concorrentes. A organização que adota esta estratégia está orientada para a eficiência.
+
+      -Diferenciação: Trata-se de uma estratégia que tem por objetivo o desenvolvimento de
+      produtos diferenciados, ou seja, a empresa busca criar produtos que sejam reconhecidos
+      pelos clientes como “únicos” e “inigualáveis”.
+
+      -Enfoque (Focalização): Consiste em uma estratégia de atuação em determinados nichos de
+      mercado. O foco poderá ser em um mercado muito especializado (mercado específico) ou
+      em determinados perfis de consumidores (consumidores específicos). Como resultado, a
+      empresa poderá se destacar pela qualidade e diferenciação do produto (enfoque na
+      diferenciação) ou então poderá se destacar pelos seus preços diferenciados (enfoque na
+      liderança de custo).
+
+             Considerando "Todo" o                             Foco em determinado
+                   mercado                                            nicho
+
+                                                       Enfoque de                Enfoque de
+    Diferenciação          Liderança de custo
+                                                      Diferenciação          Liderança de Custo
+
+                                                                                            65
+
+
+---
+
+                                        Cadeia de Valor
+
+É um conjunto de atividades que a empresa realiza para elaborar, produzir e comercializar os seus
+produtos e serviços. Através do mapeamento dos fluxos mais importantes dentro da organização,
+ela busca conhecer e compreender suas vantagens competitivas.
+
+
+                                      Logística interna        Recebimento, armazenagem, estoque e
+                                        (de entrada)              distribuição interna de insumos
+
+                                                              Atividades necessárias ao processamento
+                                         Operações                          dos insumos
+                     Atividades       Logística externa       Coleta, armazenamento e distribuição dos
+                     Principais          (de saída)                        produtos finais
+                    (Primárias)
+                                                              Induzir e proporcionar meios para que os
+                                     Marketing e Vendas           clientes adquiram os produtos e
+
+                                           Serviços            Aumentar ou manter valor dos produtos
+                                         (Pós‐venda)                (Instalação, consertos, etc.)
+    CADEIA DE
+     VALOR
+
+                                     Aquisição (compras)                Compra de insumos
+
+                                     Desenvolvimento de        Tecnologia propriamente dita e também
+                   Atividades de         tecnologia                  "know‐how" e "expertise"
+                       Apoio
+                   (Secundádias)     Gerência de Recursos       Recrutamento, seleção, contratação,
+                                          Humanos                       treinamento, etc.
+
+                                       Infraestrutura da       Atividades da adminsitração geral da
+                                            empresa          empresa (planejamento, contabilidade, etc.)
+
+                                                                                                   66
+
+
+---
+
+                                            Ferramenta 5W2H
+
+A ferramenta 5W2H tem por objetivo facilitar o planejamento das atividades e auxiliar o gestor a
+traçar os planos de ação.
+
+                 •What? (O que?)
+        W        •O que deve ser feito? (Indica qual ação deve ser realizada)
+
+                 •Why? (Por que?)
+        W        •Por que deve ser feito? (Indica poruqe a ação deve ser realizada)
+
+                 •Who? (Quem?)
+        W        •Quem deve fazer? (Indica os responsáveis pela execução da ação)
+
+                 •Where? (Onde?)
+        W        •Onde deve ser realizado? (Indica a localização que deve ser realizada a ação)
+
+                 •When? (Quando?)
+        W        •Quando deve ser realizado? (Indica os prazos a serem obedecidos)
+
+                 •How? (Como?)
+         H       •Como deve ser realizado? (Indica o processo de execução da ação)
+
+                 •How much? (Quanto?)
+         H       •Quanto custará? (Indica o orçamento que deverá ser alocado para a ação)
+
+                                                Matriz GUT
+
+Ferramenta utilizada para priorizar os problemas. Utilizam-se três fatores:
+
+
+                                                    GUT
+
+
+                                                 Urgência:
+             Gravidade:                                                               Têndencia:
+                                         Prazo que a organização
+     Impacto do problema sobre                                                  Forma que esse problema
+                                         possui apra agir sobre o
+           a organização.                                                          irá se desenvolver
+                                                problema
+
+
+Quanto maiores as notas dos resultados obtidos, maior será a prioridade do problema.
+
+                                                                                                          67
+
+
+---
+
+                                             Balanced Scorecard (BSC)
+
+
+     O BSC traduz a missão, a visão e a estratégia organizacional, através de um mapa
+     estratégico, composto por objetivos estratégicos que estão distribuídos nas diferentes
+     perspectivas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento), as
+     quais estão inter-relacionadas por uma relação de causa e efeito; associando-se, ainda,
+     os objetivos estratégicos a indicadores, metas e planos de ação.
+
+Abaixo, irei esquematizar alguns aspectos e características principais do BSC.
+
+                                Financeira                      Melhoria dos resultados financeiros (Perspectiva do acionista)
+
+                                 Cliente                                   "Como a organização é vista pelo cliente"
+ Perspectivas
+                            Processos Internos                             Processos internos críticos para o sucesso
+
+                     Aprendizado e Crescimento                      Ativos intangíveis (Pessoas, Sistemas e Procedimentos)
+
+                                                         Estabelecimento de metas de superação
+
+                                                 Identificação e racionalização das iniciativas estratégicas
+                04 Passos
+                                       Identificação de iniciativas críticas que envolvam mais de uma unidade
+                                                                       de negócios
+                                           Vinculação da estratégia à alocação de recursos e aos orçamentos
+                                                                          anuais
+
+                                                           Alto executivo responsável pela construção e implementação do
+                               Arquiteto
+                                                                                         BSC
+
+   03 Pessoas           Agente de Mudanças                 Auxilia na incorporação e ajuda a moldar a rotina de uso do BSC
+
+                                                           Responsável por comunicar as estratégias, conquistar o apoio e
+                              Comunicador
+                                                                       incentivar a adesão dos funcionários
+
+                                                                                                                         68
+
+
+---
+
+                                          Traduzir a estratégia em termos operacionais
+
+
+                                              Alinhar a organização com a estratégia
+
+05 Princípios                       Transformar a estratégia em uma tarefa rotineira de todos
+
+
+                                            Fazer da estratégia um processo contínuo
+
+
+                          Mobilizar as mudanças por meio de lideranças executivas fortes e eficazes
+
+                                           Esclarecimento e atualização da estratégia
+
+
+                                         Comunicação da estratégia para toda a empresa
+
+                                Alinhamento das metas das áreas e das pessoas envolvidas com a
+                                                         estratégia
+
+  Funções                      Associação dos objetivos estratégicos às metas de longo prazo e aos
+                                                       orçamento anuais
+
+                                     Identificação e alinhamento das iniciativas estratégicas
+
+
+                                       Avaliações de desempenho e resultados periódicas
+
+                                Obtenção de feedbacks para conhecimento e aperfeiçoamento da
+                                                          estratégia
+
+                                                      Mapa estratégico
+
+                                                   Objetivos estratégicos
+
+                05 elementos                            Indicadores
+
+                                                           Metas
+
+                                                  Plano de ação (iniciativa)
+
+                                                                                                      69
+
+
+---
+
+                                         Mapa Estratégico
+
+“Representação gráfica” que permite a visualização das relações de causa e efeito entre as
+perspectivas estratégicas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento) e
+os objetivos estratégicos da organização.
+
+                                              a estratégia equilibra forças contraditórias
+
+                                   a estratégia baseia‐se em proposição de valor diferenciada para os
+                                                                clientes
+         Princípios que norteiam
+           o mapa estratégico              o valor é criado por meio dos processos internos
+
+
+                                   a estratégia é composta por temas complementares e simultâneos
+
+
+                                   o alinhamento estratégico determina o valor dos ativos intangíveis
+
+                                                                                                        70
+
+
+---
+
+                         QUESTÕES COMENTADAS
+1. (FGV – TJ-DFT - Analista Judiciário – Administração – 2022)
+
+  Para subsidiar seu processo de formulação e planejamento estratégico, uma empresa utilizou-se
+  da matriz BCG para análise de seu portfólio de produtos. Os resultados foram: produto A – alta
+  taxa de crescimento do mercado e alta participação no mercado; produto B – baixa taxa de
+  crescimento do mercado e alta participação no mercado; produto C – baixa taxa de crescimento
+  do mercado e baixa participação no mercado; produto D – alta taxa de crescimento do mercado
+  e baixa participação no mercado.
+
+  Com base no modelo da matriz BCG, é correto afirmar que:
+
+  a) o produto A é um produto “vaca leiteira”, gerador de elevados fluxos financeiros que devem
+  ser usados para equilibrar o fluxo de caixa dos demais produtos;
+
+  b) o produto B é um produto “ponto de interrogação”, que pode se tornar um produto “estrela”
+  se aumentar a sua participação no mercado;
+
+  c) o produto C é um produto “cachorro”, que pode se tornar uma “vaca leiteira” se a taxa de
+  crescimento de seu mercado aumentar significativamente;
+
+  d) o produto D é um produto “ponto de interrogação”, no qual a empresa deve investir para
+  aumentar sua participação no mercado;
+
+  e) o produto A é um produto “estrela”, gerador de elevados fluxos financeiros que devem ser
+  usados para financiar o crescimento de outros negócios.
+
+Comentários:
+
+Vejamos a classificação de cada um dos produtos:
+
+Produto A – alta taxa de crescimento do mercado e alta participação no mercado. = Produto
+Estrela.
+
+
+---
+
+Produto B – baixa taxa de crescimento do mercado e alta participação no mercado. = Vaca
+Leiteira.
+
+Produto C – baixa taxa de crescimento do mercado e baixa participação no mercado. =
+Abacaxi/Cachorro.
+
+Produto D – alta taxa de crescimento do mercado e baixa participação no mercado. =
+Interrogação.
+
+Vejamos as alternativas:
+
+Letra A: errada. O produto A é um produto Estrela.
+
+Letra B: errada. O produto B é um produto Vaca Leiteira.
+
+Letra C: errada. De fato, o produto C é um produto Cachorro. Entretanto, a segunda parte da
+assertiva está errada. Isso, pois, se a taxa de crescimento de seu mercado aumentar
+significativamente, o produto Cachorro poderá se tornar uma Interrogação.
+
+Letra D: errada. Isso mesmo! Em um produto Interrogação, a organização poderá fazer grandes
+investimentos para tentar aumentar a participação deste produto no mercado, e transformá-lo em
+uma Estrela.
+
+Letra E: errada. De fato, o produto A é um produto Estrela. Contudo, a segunda parte da assertiva
+está errada. Isso, pois, no produto Estrela, para que a empresa mantenha sua alta participação no
+mercado, esses produtos ainda dependem de grandes investimentos (caso contrário, a empresa
+“perde” espaço no mercado). Assim, nesta fase, essas unidades (ou produtos) tendem a manter
+um equilíbrio no fluxo de caixa (se, por um lado, os investimentos são elevados; por outro, os
+retornos financeiros com as vendas também são altos).
+
+O gabarito é a letra D.
+
+2. (FGV – TCE-TO - Auditor de Controle Externo – Administração – 2022)
+
+  Para subsidiar seu processo de formulação e planejamento estratégico, uma empresa utilizou-se
+  da matriz GE/McKinsey para análise de seu portfólio de negócios. Os resultados foram:
+
+  • unidade de negócio A - alta atratividade da indústria e posição competitiva média;
+
+  • unidade de negócio B - média atratividade da indústria e posição competitiva alta;
+
+  • unidade de negócio C - média atratividade da indústria e posição competitiva baixa;
+
+  • unidade de negócio D - alta atratividade da indústria e posição competitiva baixa;
+
+
+---
+
+  • unidade de negócio E - baixa atratividade da indústria e posição competitiva alta.
+
+  Com base no modelo da matriz GE/McKinsey, é correto afirmar que a empresa deve:
+
+  a) deixar de investir nas unidades de negócio C e E;
+
+  b) concentrar seus investimentos na unidade de negócio A e deixar de investir na unidade de
+  negócio E;
+
+  c) investir seletivamente nas unidades de negócio D e E;
+
+  d) investir seletivamente nas unidades de negócio A e B e utilizar seus fluxos de caixa para
+  financiar a unidade de negócio E;
+
+  e) investir seletivamente nas unidades de negócio A e B e utilizar seus fluxos de caixa para
+  financiar a unidade de negócio D.
+
+Comentários:
+
+A Matriz GE possui 09, resultados do cruzamento dos eixos: “atratividade do mercado” e “força
+competitiva”. Vejamos:
+
+                                                                   Força Competitiva
+                                                      Alta              Média             Baixa
+                                          Alta
+
+                                                  Investimento e     Investimento e     Cautela e
+                                                   Crescimento        Crescimento      Seletividade
+                Atratividade do Mercado
+
+                                          Média
+
+                                                  Investimento e       Cautela e       Desivenstir ou
+                                                   Crescimento        Seletividade        Colher
+                                          Baixa
+
+                                                    Cautela e         Desivenstir ou   Desivenstir ou
+                                                   Seletividade          Colher           Colher
+
+Letra A: errada. De fato, a estratégia para a unidade de negócio C seria “desinvestir ou colher”.
+Contudo, a estratégia para a unidade de negócio E seria “cautela e seletividade”.
+
+Letra B: errada. De fato, a estratégia para a unidade de negócio A seria “investimento e
+crescimento”. Contudo, a estratégia para a unidade de negócio E seria “cautela e seletividade”.
+
+
+---
+
+Letra C: correta. De fato, a estratégia para as unidades de negócio D e E seria “cautela e
+seletividade” (investir seletivamente).
+
+Letra D: errada. A estratégia para as unidades de negócio A e B seria “investimento e
+crescimento”. Por outro lado, a estratégia para a unidade de negócio E seria “cautela e
+seletividade” (investir seletivamente).
+
+Letra E: errada. A estratégia para as unidades de negócio A e B seria “investimento e
+crescimento”. Por outro lado, a estratégia para a unidade de negócio D seria “cautela e
+seletividade” (investir seletivamente).
+
+O gabarito é a letra C.
+
+3. (FGV – IMBEL - Supervisor - Administrador – Reaplicação – 2021)
+
+  Uma montadora fabrica um tradicional veículo esportivo que tem alta participação no mercado.
+  Apesar disso, considera-se que esse mercado de esportivos tem baixas perspectivas de
+  crescimento, tendendo a se manter próximo da estabilidade.
+
+  Considerando que essa montadora realiza a gestão de portfólio por meio da Matriz BCG, é
+  correto esperar que a montadora desenvolva ações como
+
+  a) a descontinuação do produto de forma imediata, enquanto ainda não existem custos
+  irrecuperáveis.
+
+  b) a realização de pesados investimentos e marketing, visando aumentar a rentabilidade do
+  esportivo.
+
+  c) a manutenção de gastos baixos relativos ao produto, adotando uma estratégia de
+  manutenção.
+
+  d) a implementação de novos produtos nesse mercado, aproveitando-se da concorrência
+  reduzida.
+
+  e) a utilização de procedimentos de dumping, objetivando estender o prazo de maturidade do
+  mercado.
+
+Comentários:
+
+O enunciado nos diz que o veículo tem alta participação no mercado que tem baixas perspectivas
+de crescimento, tendendo a se manter próximo da estabilidade. Desta forma, estamos diante de
+um produto Vaca Leiteira.
+
+Trata-se do melhor momento para lucrar! O mercado está estabilizado (cresce de forma bem
+lenta); portanto, não são necessários grandes investimentos para que a empresa mantenha seu
+
+
+---
+
+produto em destaque no mercado. É hora da empresa que está “consolidada” no mercado e possui
+uma grande “fatia” dele, “manter” sua posição no mercado (com investimentos baixos), e auferir
+seus lucros.
+
+Desta forma, o gabarito é a letra C.
+
+O gabarito é a letra C.
+
+4. (FGV – Prefeitura de Paulínia - SP - Agente de Apoio Administrativo – 2021)
+
+  Um administrador, após assumir a gestão de uma fábrica, encontrou problemas de qualidade
+  que comprometem os resultados da empresa.
+
+  Assinale a opção que indica a ferramenta de gestão da qualidade que ele poderá utilizar para
+  priorizar os problemas, evitando perder tempo com questões de pouca relevância.
+
+  a) Estratégias competitivas genéricas.
+
+  b) 5Ps.
+
+  c) Funil gerencial.
+
+  d) Matriz GUT.
+
+  e) Benchmarking concorrencial.
+
+Comentários:
+
+É a Matriz GUT (ou Matriz Gravidade, Urgência e Tendência) que é uma ferramenta utilizada para
+priorizar os problemas.
+
+O gabarito é a letra D.
+
+5. (FGV – Câmara de Aracaju - SE - Assistente Administrativo – 2021)
+
+  A análise Swot é uma ferramenta de planejamento estratégico utilizada para a realização de um
+  diagnóstico organizacional da empresa.
+
+  Dentre os elementos tipicamente considerados na análise Swot, podem ser elencados:
+
+  a) fraquezas e competitividade;
+
+  b) barreiras de entrada e oportunidades;
+
+  c) situação política e produtos substitutos;
+
+
+---
+
+  d) forças e ameaças;
+
+  e) produtos abacaxis e estrelas.
+
+Comentários:
+
+A Análise SWOT é utilizada para buscar entender a “posição atual” da organização. Consiste,
+basicamente, na análise do ambiente interno (forças e fraquezas) e do ambiente externo (ameaças
+e oportunidades).
+
+O gabarito é a letra D.
+
+6. (FGV – Câmara de Aracaju - SE - Assistente Administrativo – 2021)
+
+  Em função da multiplicidade de tarefas exercidas, muitas vezes os gestores incorrem em
+  decisões erradas ao priorizar a solução de determinados problemas e negligenciar outros de
+  maior importância.
+
+  Nesse sentido, é uma importante ferramenta para a priorização de problemas:
+
+  a) Gestão 5S;
+
+  b) Matriz GUT;
+
+  c) Análise BCG;
+
+  d) Reengenharia;
+
+  e) Avaliação incremental.
+
+Comentários:
+
+É a Matriz GUT (ou Matriz Gravidade, Urgência e Tendência) que é uma ferramenta utilizada para
+priorizar os problemas.
+
+O gabarito é a letra B.
+
+7. (FGV – IMBEL - Supervisor - Administrador – Reaplicação – 2021)
+
+  A IMBEL iniciou em janeiro de 2020 a produção de materiais bélicos elaborados com a utilização
+  de uma nova tecnologia importada dos Estados Unidos. Em meados do ano, no entanto, o
+  governo sinalizou com uma possível redução dos tributos para a entrada de qualquer produto
+  oriundo dos Estados Unidos, inclusive de armamentos com tecnologia similar à utilizada pela
+  IMBEL.
+
+
+---
+
+  Considerando a situação hipotética apresentada e relacionando com o entendimento da análise
+  SWOT, essa ação do governo representa, para a IMBEL, um exemplo de
+
+  a) fraqueza.
+
+  b) fator crítico de sucesso.
+
+  c) ameaça.
+
+  d) oportunidade.
+
+  e) risco.
+
+Comentários:
+
+A redução dos tributos para a entrada de qualquer produto oriundo dos Estados Unidos, inclusive
+de armamentos com tecnologia similar à utilizada pela IMBEL, é uma ameaça para a IMBEL. Ou
+seja, trata-se de um aspecto do ambiente externo (não controlável) que pode prejudicar a
+organização (influência negativamente a IMBEL).
+
+Afinal, com a redução dos tributos, as pessoas poderá ser mais vantajoso financeiramente para as
+pessoas importar diretamente os armamentos (ao invés de comprar da IMBEL).
+
+O gabarito é a letra C.
+
+8. (FGV – IMBEL - Supervisor - Administrador – Reaplicação – 2021)
+
+  O Balanced Scorecard (BSC) é uma ferramenta que auxilia no desdobramento de objetivos
+  estratégicos em ações operacionais, por meio do uso de indicadores.
+
+  Considerando que o correto funcionamento do BSC depende do bom desempenho de
+  determinadas pessoas que exercem papéis críticos na sua incorporação, assinale a opção que
+  compreende os termos utilizados para se referir a essas pessoas.
+
+  a) Arquiteto, agente de mudanças e comunicador.
+
+  b) Engenheiro, porta-voz e administrador.
+
+  c) Agente de mudanças, desenhista e executor.
+
+  d) Arquiteto, engenheiro e desenhista.
+
+  e) Administrador, supervisor e operário.
+
+Comentários:
+
+
+---
+
+Para Kaplan e Norton há 03 pessoas que desempenham papéis críticos para a formulação e
+incorporação do BSC. São elas:
+
+      O arquiteto: É o alto executivo (normalmente da área de apoio) que é responsável pela
+      construção e incorporação do BSC ao sistema gerencial da empresa.
+
+      O agente de mudanças: É um representante do executivo principal. Ele auxilia na
+      incorporação do BSC aos processos gerenciais, ou seja, ajuda a moldar a rotina de uso do
+      BSC (novo sistema gerencial).
+
+      O comunicador: É o responsável por comunicar as novas estratégias aos funcionários, bem
+      como conquistar o apoio e incentivar a adesão de todos os funcionários ao novo sistema
+      gerencial.
+
+O gabarito é a letra A.
+
+9. (FGV – FUNSAÚDE - CE - Analista Administrativo – Suprimentos – 2021)
+
+  Uma organização pretende expandir seus negócios para um novo setor. Pensando nisso, ela fez
+  um estudo, pautado no modelo das Cinco Forças de Porter, e opta por buscar um mercado com
+  baixo poder de barganha dos clientes e a seguinte característica:
+
+  a) diferenciação nos produtos.
+
+  b) economias de escala.
+
+  c) baixos custos de troca.
+
+  d) transparência em relação aos preços praticados no mercado.
+
+  e) produto representando parte significativa dos gastos dos clientes.
+
+Comentários:
+
+O cliente (comprador) tem alto poder de barganha, e torna-se “poderoso” quando:
+
+      - é o principal comprador (principal cliente) de um determinado fornecedor, ou seja, as
+      quantidades compradas por ele representam uma parcela significativa do total de vendas do
+      fornecedor;
+
+      - os produtos ou insumos representam a maior parte dos seus custos; assim, o cliente
+      torna-se mais seletivo e cauteloso para comprar com melhores preços;
+
+      - os produtos não são “diferenciados”, assim, o cliente comprador tem opção de comprar
+      outros produtos substitutivos;
+
+
+---
+
+      - os produtos estão atrelados a pequenos (ou não possuem) custos de troca. Nesse caso, o
+      cliente não fica “amarrado” a determinado fornecedor;
+
+      - os lucros do cliente são baixos. Portanto, o cliente buscar minimizar seus custos com as
+      compras;
+
+      - o cliente tem a possibilidade de fazer a “integração para trás”. Ou seja, o cliente
+      comprador pode começar a produzir o produto ou insumo vendido pelo fornecedor;
+
+      - o produto adquirido não interfere na qualidade dos produtos produzidos pelo comprador,
+      então, ele pode discutir o preço;
+
+      - o cliente comprador conhece muito bem os preços praticados no mercado bem como
+      conhece os custos do fornecedor; isso lhe dá um maior poder de negociação.
+
+Portanto, se a organização está buscando um mercado com baixo poder de barganha dos clientes,
+deve buscar um mercado com característica de diferenciação nos produtos.
+
+Quando os produtos fornecidos são bastante diferenciados são os fornecedores que se tornam
+poderosos (ou seja, os clientes têm baixo poder de barganha).
+
+O gabarito é a letra A.
+
+10.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Suprimentos – 2021)
+
+  O Balanced Scorecard (BSC) surgiu como reação às críticas aos modelos estratégicos utilizados
+  em determinado período, argumentando que esses modelos eram frágeis. Assinale a opção que
+  apresenta uma razão para a fragilidade desses modelos.
+
+  a) Focavam os aspectos objetivos em detrimento dos subjetivos.
+
+  b) Estipulavam diretrizes inatingíveis para os grupos funcionais.
+
+  c) Estavam limitados aos indicadores financeiros.
+
+  d) Decorriam de uma concepção relativista do funcionário.
+
+  e) Flexibilizavam de forma exagerada as medições.
+
+Comentários:
+
+Antigamente, os únicos indicadores que eram utilizados eram os indicadores financeiros. Contudo,
+para Kaplan e Norton, os indicadores financeiros não são suficientes para aferirem e monitorarem
+toda a complexidade organizacional.
+
+
+---
+
+Assim, Kaplan e Norton desenvolveram uma ferramenta que leva em consideração medidas
+financeiras (indicadores financeiros) e medidas não financeiras (indicadores estratégicos)
+
+O gabarito é a letra C.
+
+11.    (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  Na execução de análise dos processos administrativos de uma organização, um consultor
+  elaborou três perguntas:
+
+  I. O que deve ser feito?
+
+  II. Quem deve fazer?
+
+  III. Como deve ser realizado?
+
+  Consideradas à luz da ferramenta 5W2H, utilizada para auxiliar no desenvolvimento de planos
+  de ação, assinale a opção que indica as perguntas que estão associadas a essa ferramenta.
+
+  a) I, II e III.
+
+  b) I e II, somente.
+
+  c) II e III, somente.
+
+  d) I e III, somente.
+
+  e) I, somente.
+
+Comentários:
+
+Ao elaborar um plano de ação utilizando-se da ferramenta 5W2H, deve-se responder a 07
+perguntas: What (O que deve ser feito?), Why, Who (Quem deve fazer?), Where, When, How
+(Como deve ser realizado?), How much).
+
+O gabarito é a letra A.
+
+12.    (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  O diagnóstico organizacional é um processo ou etapa do planejamento estratégico em que o
+  administrador busca entender a situação geral da organização e seu contexto de atuação,
+  realizando análises dos ambientes interno e externo. Em relação a esse diagnóstico, é correto
+  dizer que ele pode ser realizado por meio da(o)
+
+  a) Matriz BCG.
+
+
+---
+
+  b) Diagrama de Ishikawa.
+
+  c) Análise SWOT.
+
+  d) Modelo Base Zero.
+
+  e) Benchmarking.
+
+Comentários:
+
+A Análise SWOT é uma ferramenta utilizada na etapa do diagnóstico organizacional. Ela é utilizada
+para buscar entender a “posição atual” da organização. Consiste, basicamente, na análise do
+ambiente interno (forças e fraquezas) e do ambiente externo (ameaças e oportunidades).
+
+O gabarito é a letra C.
+
+13.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  Os responsáveis por uma organização que, em determinada circunstância, devem priorizar
+  determinados problemas para direcionar ações de enfrentamento específicas, podem utilizar
+  uma ferramenta conhecida por Matriz GUT, que foi desenvolvida justamente com essa
+  finalidade. Assinale a opção que apresenta um dos critérios abordados pela Matriz GUT.
+
+  a) Gravidade.
+
+  b) Utilidade.
+
+  c) Temporalidade.
+
+  d) Usabilidade.
+
+  e) Globalidade.
+
+Comentários:
+
+A Matriz GUT é uma ferramenta utilizada para priorizar os problemas. Ela auxilia os gestores a
+avaliarem os diversos problemas e “priorizar” aqueles mais importantes.
+
+São utilizados três fatores para avaliar e quantificar os problemas: Gravidade (G), Urgência (U) e
+Tendência (T).
+
+O gabarito é a letra A.
+
+14.   (FGV – IMBEL - Engenheiro de Controle de Qualidade – 2021)
+
+
+---
+
+  Na gestão de desempenho organizacional, o Balanced Scorecard procura ligar o mapeamento
+  estratégico da organização com um conjunto de medidores de desempenho, de forma a
+  destacar as nuances e as interligações entre as diversas áreas dessa organização. Na
+  implantação desse sistema, é necessário considerar alguns elementos conceituais, à exceção de
+  um. Assinale-o.
+
+  a) Objetivos estratégicos.
+
+  b) Iniciativas estratégicas.
+
+  c) Relações de causa e efeito.
+
+  d) Fatores críticos de sucesso.
+
+  e) Planejamento racional compreensivo.
+
+Comentários:
+
+Letra A: errada. Os objetivos estratégicos consistem em um dos elementos principais do BSC.
+
+Letra B: errada. Um dos 04 passos, no intuito de integrar o planejamento estratégico ao orçamento
+operacional a longo prazo, é justamente a identificação e racionalização das iniciativas
+estratégicas.
+
+Letra C: errada. As 04 perspectivas do BSC têm uma relação de causa e efeito.
+
+Letra D: errada. A perspectiva dos processos internos identifica os processos internos críticos nos
+quais a empresa deve focar para alcançar a excelência e o sucesso (fatores críticos de sucesso).
+
+Letra E: correta. De fato, a assertiva trouxe um conceito que não está relacionado ao BSC.
+
+O gabarito é a letra E.
+
+15.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Suprimentos – 2021)
+
+  O diagnóstico organizacional é a etapa do planejamento estratégico em que o administrador
+  busca entender a situação geral da organização e seu contexto de atuação, analisando os
+  ambientes interno e externo. Em relação a esse diagnóstico, ele é realizado por meio da(o)
+
+  a) Matriz BCG.
+
+  b) Diagrama de Ishikawa.
+
+  c) Análise SWOT.
+
+  d) Modelo Base Zero.
+
+
+---
+
+  e) Benchmarking.
+
+Comentários:
+
+A Análise SWOT é uma ferramenta utilizada na etapa do diagnóstico organizacional. Ela é utilizada
+para buscar entender a “posição atual” da organização. Consiste, basicamente, na análise do
+ambiente interno (forças e fraquezas) e do ambiente externo (ameaças e oportunidades).
+
+O gabarito é a letra C.
+
+16.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  O processo de mapeamento dos fluxos mais importantes dentro de uma organização,
+  permitindo que a empresa conheça e compreenda suas vantagens competitivas, está
+  relacionado ao conceito de
+
+  a) análise de custo-benefício.
+
+  b) blueprinting.
+
+  c) diamante competitivo.
+
+  d) análise da cadeia de valor.
+
+  e) análise ABC.
+
+Comentários:
+
+A análise da cadeia de valor permite que a empresa compreenda quais as partes de suas
+operações geram mais valor e quais as melhores formas para a organização implementar suas
+estratégias genéricas. Trata-se do mapeamento dos fluxos mais importantes dentro da
+organização. Através da cadeia de valor, a empresa busca conhecer e compreender suas vantagens
+competitivas.
+
+O gabarito é a letra D.
+
+17.   (FGV – TJ-RO - Analista Judiciário – Administrador – 2021)
+
+  Um gerente participa do processo de planejamento estratégico da organização em que trabalha.
+  A organização pretende adotar uma estratégia de diversificação de seus negócios. O gerente
+  recebeu a incumbência de realizar uma análise do potencial de lucratividade de determinada
+  indústria, para subsidiar a formulação da estratégia de diversificação. Nessa situação, uma
+  ferramenta adequada para analisar a estrutura da indústria, com vistas a avaliar sua
+  atratividade, seria:
+
+
+---
+
+  a) matriz de Ansoff;
+
+  b) análise BCG;
+
+  c) análise SWOT;
+
+  d) modelo das cinco forças competitivas de Porter;
+
+  e) matriz GE/McKinsey.
+
+Comentários:
+
+É o Modelo das Cinco Forças Competitivas de Porter que permite analisar a estrutura da indústria,
+com vistas a avaliar sua atratividade. Esse modelo facilita estabelecer o direcionamento estratégico
+e competitivo das organizações.
+
+De acordo com Porter, é de extrema importância que a estratégia organizacional leve em
+consideração e entenda a estrutura do mercado no qual a organização está inserida, bem como as
+interações que ocorrem nesse ambiente. Para isso, Porter identificou 05 forças competitivas (Cinco
+forças de Porter): Ameaça de Novos Entrantes, Ameaça de Produtos Substitutos, Poder de
+Barganha dos Fornecedores, Poder de Barganha dos Clientes e Rivalidade entre Concorrentes
+(concorrência no setor).
+
+O gabarito é a letra D.
+
+18.   (FGV – IMBEL – Administrador - 2021)
+
+  Um administrador está buscando uma ferramenta de medição de desempenho que não tenha,
+  como foco exclusivo, indicadores financeiros. Analisando outras perspectivas, é adequado o uso
+  do
+
+  a) ebitda
+
+  b) break even point
+
+  c) balanced scorecard
+
+  d) payback descontado
+
+  e) margem de contribuição
+
+Comentários:
+
+Kaplan e Norton desenvolveram uma ferramenta estratégica denominada Balanced Scorecard
+(BSC). Para Kaplan e Norton, os indicadores financeiros não são suficientes para aferirem e
+
+
+---
+
+monitorarem toda a complexidade organizacional. Portanto, os autores desenvolveram uma
+ferramenta que leva em consideração medidas financeiras (indicadores financeiros) e medidas não
+financeiras (indicadores estratégicos).
+
+Lembre-se: O BSC não está limitado aos indicadores financeiros! Ele leva em consideração o
+equilíbrio entre 04 diferentes perspectivas: Financeira; Cliente; Processos Internos e; Aprendizado
+e Crescimento.
+
+O gabarito é a letra C.
+
+19.   (FGV – IMBEL – Analista - 2021)
+
+  Sobre as informações obtidas por meio da análise SWOT, assinale a opção que indica a
+  considerada como elemento controlável.
+
+  a) A entrada de novo concorrente no mercado.
+
+  b) A falência de empresa concorrente.
+
+  c) O início de nova guerra mundial.
+
+  d) A força de trabalho qualificada.
+
+  e) O aumento da tributação.
+
+Comentários:
+
+A única alternativa que traz um elemento controlável é a letra D (força de trabalho qualificada). A
+força de trabalho qualificada é uma força da organização (aspecto do ambiente interno, que ajuda
+a organização).
+
+Todas as demais alternativas trazem aspectos do ambiente externo (ou seja, elementos não
+controláveis).
+
+O gabarito é a letra D.
+
+20.   (FGV – Câmara de Aracaju-SE – Analista Administrativo - 2021)
+
+  O Balanced Scorecard é uma metodologia de gestão que busca descrever e traduzir a estratégia
+  da organização por meio de diferentes perspectivas, integradas e relacionadas.
+
+  Sobre o Balanced Scorecard, é correto afirmar que:
+
+  a) utiliza exclusivamente indicadores financeiros suportados por análise corporativa;
+
+
+---
+
+  b) caminha de forma integrada ao parâmetro 5S, adotando uma filosofia de zero defeito;
+
+  c) adota, em parte, a política de contingenciamento, ligando procedimentos matriciais com
+  explícitos;
+
+  d) considera que a melhoria dos processos internos é necessária para uma melhor entrega de
+  valor ao cliente;
+
+  e) baseia-se em um sistema de pontuação estatística, utilizando a garantia de qualidade como
+  uma das barreiras de entrada.
+
+Comentários:
+
+A perspectiva dos processos internos identifica os processos internos críticos nos quais a empresa
+deve focar para alcançar a excelência e o sucesso (fatores críticos de sucesso). Ou seja, onde a
+organização deve se superar, ou, o que a organização deve fazer (internamente), para satisfazer às
+necessidades dos clientes.
+
+Trata-se dos processos que servem de alicerce para as outras perspectivas. Ou seja, essa
+perspectiva mapeia os processos que geram impacto na obtenção dos resultados financeiros e
+sobre a satisfação dos clientes.
+
+O gabarito é a letra D.
+
+21.   (FGV - Prefeitura de Niterói - Analista de Políticas Públicas - 2018)
+
+  A startup XYZ, que desenvolve aplicativos para smartphones, descobre que as principais
+  fabricantes do aparelho vão passar a utilizar um sistema operacional incompatível com seus
+  produtos. Visando realizar uma análise do ambiente do mercado para orientá-la na definição de
+  sua estratégia, a startup opta por utilizar a ferramenta conhecida por matriz SWOT,
+  classificando a atitude das fabricantes como
+
+  a) oportunidade.
+
+  b) força.
+
+  c) fraqueza.
+
+  d) ameaça.
+
+  e) neutralidade.
+
+Comentários:
+
+
+---
+
+A atitude das fabricantes de celulares é classificada, na análise SWOT, como uma ameaça. Ou seja,
+tratam-se de elementos externos que influenciam negativamente a startup XYZ e podem
+prejudicar os seus resultados.
+
+O gabarito é a letra D.
+
+22.   (FGV - Prefeitura de Niterói - Analista de Políticas Públicas - 2018)
+
+  Uma nova lei é editada prevendo que todos os novos taxistas, a partir da edição da lei, deverão
+  ter curso superior.
+
+  Conforme a concepção do modelo das 5 forças proposto por Michael Porter, essa medida pode
+  ser entendida como
+
+  a) a criação de uma barreira de entrada a novos concorrentes.
+
+  b) o aumento do poder de barganha dos consumidores.
+
+  c) uma intervenção protecionista no domínio econômico.
+
+  d) um incentivo governamental à educação.
+
+  e) a ampliação da competitividade no setor.
+
+Comentários:
+
+A lei mencionada pelo enunciado é uma barreira de entrada (ação governamental) que está
+impondo restrições à entrada em determinado setor (táxis). Perceba que, após a edição da lei, será
+mais difícil (a pessoa precisará ter ensino superior) conseguir a concessão de licenças para o
+ingresso e funcionamento no setor de táxis.
+
+O gabarito é a letra A.
+
+23.   (FGV – MPE-AL – Analista do Ministério Público - 2018)
+
+  Sobre a matriz BCG, que disseminou o conceito do posicionamento da “vaca leiteira” e outras
+  imagens na linguagem do marketing, assinale a afirmativa correta.
+
+  a) A inadequação para análise de setores da indústria, por ter sido desenvolvida por uma
+  empresa da área de vacinas.
+
+  b) “Cachorros” ou “abacaxis” são negócios ou unidades de negócio com baixa participação em
+  mercados estáticos ou em declínio.
+
+  c) “Fazendas” são negócios ou unidades de negócio que demandam uma colheita intensiva.
+
+
+---
+
+  d) O uso da matriz tipicamente requer o uso de uma árvore de decisão complexa.
+
+  e) A matriz BCG permite uma visão ampliada das estratégias competitivas propostas por Michael
+  Porter.
+
+Comentários:
+
+Letra A: errada. A Matriz BCG foi desenvolvida por uma empresa de consultoria americana (Boston
+Consulting Group), e pode sim ser utilizada para os setores da indústria.
+
+Letra B: correta. De fato, os “abacaxis” ou “cachorros” são aqueles produtos ou unidades de
+negócio que tem baixa participação em mercados que estão estáticos ou em declínio.
+
+Letra C: errada. Não existe a classificação “fazendas” na Matriz BCG.
+
+Letra D: errada. Nada disso! A Matriz BCG analisa o portfólio através de duas variáveis:
+Crescimento no mercado e Participação do produto no mercado.
+
+Letra E: errada. Assertiva totalmente “sem pé, nem cabeça”.
+
+O gabarito é a letra B.
+
+24.   (FGV – AL-RO – Assistente Legislativo - 2018)
+
+  Uma empresa pública de ferrovias, ao perceber a necessidade de se posicionar de forma mais
+  efetiva no setor, desenvolve uma análise de cenário por meio da ferramenta Matriz SWOT.
+  Assinale a opção que apresenta um exemplo de inferência que pode surgir da aplicação dessa
+  ferramenta.
+
+  a) A crise no país é uma ameaça que deve ser controlada pela empresa.
+
+  b) A falência de uma concorrente do setor é uma oportunidade a ser aproveitada.
+
+  c) A redução da regulação do setor aumenta o poder de barganha dos consumidores.
+
+  d) A aquisição de novos trens elétricos pela empresa deve ser enquadrada como estrela no
+  portfólio.
+
+  e) A expansão da malha ferroviária é uma decisão não programada.
+
+Comentários:
+
+Letra A: errada. De fato, a crise econômica é uma ameaça identificada no ambiente externo.
+Contudo, os aspectos identificados no ambiente externo (ameaças e oportunidades) são
+elementos que não podem ser controlados pela organização.
+
+
+---
+
+Letra B: correta. Perfeito! A falência de um concorrente é uma oportunidade, visto que a
+organização poderá “aproveitar” os clientes que antes consumiam da empresa concorrente que
+faliu.
+
+Letra C: errada. Trata-se de um conceito relacionado às “Cinco Forças de Porter” (e não à Matriz
+SWOT).
+
+Letra D: errada. Trata-se de um assunto relacionado à Matriz BCG (e não a Matriz SWOT).
+
+Letra E: errada. Essa assertiva não tem qualquer relação com o enunciado da questão.
+
+O gabarito é a letra B.
+
+25.   (FGV – MPE-AL – Analista do Ministério Público - 2018)
+
+  No final da década de 1970 foi promulgado, nos Estados Unidos, o Airline Deregulation Act, que
+  retirou os controles federais sobre o setor aéreo americano e criou condições de livre mercado
+  para o setor, o que conduziu a um aumento na oferta de voos e à redução das tarifas. Tendo
+  como referência o modelo de análise estratégica das 5 forças, proposto por Michael Porter, para
+  as empresas aéreas americanas, que já operavam no país, a desregulamentação do mercado
+  significou
+
+  a) a ampliação da oferta de produtos substitutos.
+
+  b) uma recomposição do poder de barganha dos fornecedores.
+
+  c) a simplificação das barreiras não tarifárias.
+
+  d) uma redução das barreiras de entrada no setor.
+
+  e) a integração das forças produtivas setoriais.
+
+Comentários:
+
+Os controles federais sobre o setor aéreo eram considerados barreiras de entrada no setor. Com a
+desregulamentação, houve uma redução das barreiras de entrada (ou seja, ficou mais “fácil”
+entrar no setor).
+
+O gabarito é a letra D.
+
+26.   (FGV – Câmara de Salvador-BA – Analista Legislativo - 2018)
+
+  “João”,”sexta-feira”e “R$ 50” foram as descrições encontradas em alguns dos campos de um
+  mesmo registro de uma conhecida ferramenta de gestão de qualidade, que é:
+
+
+---
+
+  a) a matriz de Priorização;
+
+  b) a estratificação;
+
+  c) o gráfico de Pareto;
+
+  d) o histograma;
+
+  e) o 5W2H.
+
+Comentários:
+
+Não, meu amigo. Não é uma questão de raciocínio lógico (risos).
+
+Vamos analisar:
+
+       Quem? João! (Who?)
+
+       Quando? Sexta-feira. (When?)
+
+       Quanto? R$ 50. (How Much?)
+
+Agora ficou fácil, certo? ☺
+
+Tratam-se de descrições encontradas nos campos da ferramenta 5W2H.
+
+O gabarito é a letra E.
+
+27.   (FGV – AL-RO – Assistente Legislativo - 2018)
+
+  Assinale a opção que apresenta o conceito de Balanced Scorecard.
+
+  a) É o sistema de informação que reúne indicadores de desempenho que servem de base para
+  um mapa estratégico construído a partir dos indicadores financeiros.
+
+  b) É a ferramenta de gestão que se traduz em um mapa estratégico, em que são apresentados
+  os índices de qualidade e as medidas financeiras do desempenho passado.
+
+  c) É o conjunto de indicadores que representa problemas ou riscos potenciais, através de
+  quantificações que buscam estabelecer prioridades para abordá-los.
+
+  d) É a ferramenta que permite o mapeamento dos processos da organização e a padronização
+  dos mesmos, visando à melhoria da qualidade e à redução de custos.
+
+  e) É o sistema que traduz a missão e a estratégia da empresa em um conjunto de medidas de
+  desempenho que serve de base para um sistema de medição e gestão estratégica.
+
+
+---
+
+Comentários:
+
+Letra A: errada. O BSC não está limitado aos indicadores financeiros! Ele leva em consideração o
+equilíbrio das 04 diferentes perspectivas: Financeira; Cliente; Processos Internos e; Aprendizado e
+Crescimento.
+
+Letra B: errada. No mapa estratégico são apresentados indicadores de desempenho. Além disso,
+não está limitado às “medidas financeiras de desempenho passado”.
+
+Letra C: errada. Tratam-se de características da Matriz GUT.
+
+Letra D: errada. Este conceito não está relacionado ao BSC.
+
+Letra E: correta. Bingo! O BSC consiste em uma ferramenta que traduz e “desdobra” a missão,
+visão e os planos estratégicos em objetivos, desafios e metas, através da criação de indicadores
+que possam acompanhar, monitorar e medir o andamento dos objetivos, bem do acompanhar e
+aferir o atingimento dos resultados.
+
+O gabarito é a letra E.
+
+28.   (FGV – AL-RO – Analista Legislativo - 2018)
+
+  Após a utilização de uma usual ferramenta de análise estratégica, uma empresa fabricante de
+  produtos de luxo verifica os seguintes pontos:
+
+  1-Mão de obra experiente.
+
+  2-Baixo capital de giro.
+
+  3-Aumento da renda da população.
+
+  4-Entrada de fortes concorrentes no setor.
+
+  Com base nos pontos identificados, assinale a opção que indica a ferramenta utilizada pela
+  empresa.
+
+  a) Matriz ANSOFF.
+
+  b) Análise BCG.
+
+  c) Design Thinking.
+
+  d) Análise SWOT.
+
+  e) Benchmarking.
+
+
+---
+
+Comentários:
+
+Analisemos cada um dos pontos verificados:
+
+      1-Mão de obra experiente = Trata-se de um ponto forte (força) da organização. É um
+      elemento interno organizacional.
+
+      2-Baixo capital de giro. = Trata-se de um ponto fraco (fraqueza) da organização. É um
+      elemento interno organizacional.
+
+      3-Aumento da renda da população. = Trata-se de uma oportunidade identificada no
+      ambiente externo. Um fator que pode influenciar positivamente a organização.
+
+      4-Entrada de fortes concorrentes no setor. = Trata-se de uma ameaça identificada no
+      ambiente externo. É um elemento que pode influenciar negativamente a organização.
+
+Com base nos pontos identificados (força, fraqueza, oportunidade e ameaça), estamos diante da
+Matriz SWOT.
+
+O gabarito é a letra D.
+
+29.   (FGV – AL-RO – Analista Legislativo - 2018)
+
+  Uma empresa do setor de e-commerce elabora o mapa estratégico para a realização
+  do Balanced Scorecard.
+
+  Relacione os objetivos estratégicos, listados a seguir, às perspectivas correspondentes.
+
+  1. Aumentar o lucro líquido.
+
+  2. Aumentar o nível de satisfação dos funcionários.
+
+  3. Reduzir as devoluções de produtos.
+
+  4. Aumentar o market-share.
+
+  ( ) Perspectiva Financeira.
+
+  ( ) Perspectiva do Cliente.
+
+  ( ) Perspectiva dos Processos Internos.
+
+  ( ) Perspectiva do aprendizado e crescimento.
+
+  Assinale a opção que apresenta a sequência correta, segundo a ordem apresentada.
+
+
+---
+
+  a) 1 – 2 - 3 – 4.
+
+  b) 1 – 4 – 3 - 2.
+
+  c) 3 – 2 – 1 – 4.
+
+  d) 2 – 1 – 4 – 3.
+
+  e) 4 – 2 – 3 – 1.
+
+Comentários:
+
+(1) Perspectiva Financeira. = Aumentar o lucro líquido.
+
+(4) Perspectiva do Cliente. = Aumentar o market-share.
+
+Market-share representa o grau de participação de uma empresa no mercado (levando em
+consideração as vendas de determinado produto). É a “fatia” de mercado que a organização
+possui.
+
+Portanto, para aumentar o Market-share, é necessário aumentar o nível de satisfação dos clientes
+(perspectiva do cliente).
+
+(3) Perspectiva dos Processos Internos. = Reduzir as devoluções de produtos.
+
+Normalmente, os produtos são devolvidos pois apresentam algum problema/defeito. Então,
+devem ser melhorados os processos internos organizacionais para que o número de produtos
+defeituosos reduzam e, consequentemente, diminuam as devoluções.
+
+(2) Perspectiva do aprendizado e crescimento. = Aumentar o nível de satisfação dos funcionários.
+
+O nível de satisfação do funcionário é um indicador relacionado à perspectiva do aprendizado e
+crescimento.
+
+O gabarito é a letra B.
+
+30.   (FGV – Prefeitura de Salvador-BA – Técnico de Nível Superior - 2017)
+
+  Com referência à essência de se relacionar uma empresa ao seu meio ambiente, analise as
+  afirmativas a seguir.
+
+  I. O grau da concorrência em uma indústria depende das cinco forças competitivas básicas que
+  devem ser analisadas.
+
+  II. A indústria estabelecida busca se beneficiar com barreiras a novos entrantes. Patentes são
+  um exemplo eficaz.
+
+
+---
+
+  III. A presença de grupos fortes de compradores permite que a indústria atue proativamente na
+  criação de mais barreiras à entrada.
+
+  Está correto o que se afirma em:
+
+  a) I, apenas.
+
+  b) II, apenas.
+
+  c) III, apenas.
+
+  d) I e II, apenas.
+
+  e) I, II e III.
+
+Comentários:
+
+A primeira assertiva está correta. O grau de concorrência de um indústria depende das cinco
+forças competitivas de Porter.
+
+A segunda assertiva está correta. A indústria que já está estabelecida no mercado prefere que não
+entrem novos concorrentes no mercado. Portanto, elas buscam se beneficiar com as barreiras que
+dificultam a entrada de novas empresas no setor. As patentes são um bom exemplo disso! Isso
+porque caso a “empresa x” tenha uma patente do “produto x”, uma nova “empresa Y” não poderá
+entrar no mercado para comercializar esse “produto x”.
+
+A terceira assertiva está errada. A presença de “grupos fortes de compradores” está relacionada
+ao “poder de barganha dos clientes”. Portanto, não tem “nada a ver” com a “criação de barreiras
+de entrada”.
+
+O gabarito é a letra D.
+
+31.    (FGV – SEPOG-RO – Analista de Planejamento e Finanças - 2017)
+
+  A análise SWOT, também chamada em português de análise FOFA, é uma das ferramentas mais
+  difundidas nos processos de planejamento estratégico. A análise SWOT permite compreender a
+  situação da organização em seu ambiente de atuação e subsidiar escolhas estratégicas futuras.
+  Utilizando a análise SWOT, uma empresa identificou que o envelhecimento da população
+  brasileira poderia abrir espaços para inovar e utilizar suas linhas de produção automatizadas
+  para desenvolver e colocar no mercado novos equipamentos de cuidados médicos domiciliares
+  (home care).
+
+  Para identificar essa possível estratégia, a empresa relacionou
+
+  a) uma força de mercado com uma ocasião propícia.
+
+
+---
+
+  b) uma fraqueza dos concorrentes com uma oportunidade de utilização dos recursos internos.
+
+  c) uma falha de mercado com uma ameaça à economia brasileira.
+
+  d) uma força dada pelos recursos internos com uma oportunidade representada por uma
+  tendência demográfica.
+
+  e) uma fragilidade no atendimento à saúde pública com uma ameaça representada pela
+  globalização da concorrência.
+
+Comentários:
+
+A empresa mencionada pelo enunciado identificou uma oportunidade no ambiente externo
+(envelhecimento da população) aliada a uma força organizacional (sua capacidade de produção
+automatizada para produzir produtos para o mercado médico domiciliar).
+
+O gabarito é a letra D.
+
+32.    (FGV – Prefeitura de Salvador – Técnico de Nível Superior - 2017)
+
+  A Análise SWOT combina elementos internos e externos à organização, permitindo à mesma
+  realizar seu processo de planejamento estratégico.
+
+  Nesse sentido, assinale (V) para a afirmativa verdadeira e (F) para a falsa.
+
+  ( ) Os elementos da ambiência interna, mesmo que comparativamente à concorrência, se
+  traduzem em pontos fracos e fortes.
+
+  ( ) As oportunidades provém do ambiente externo, garantindo o melhor funcionamento da
+  organização frente aos concorrentes.
+
+  ( ) O planejamento deve minimizar as ameaças, pois elas incidem negativamente tanto na sua
+  organização quanto na sua aplicação.
+
+  As afirmativas são, respectivamente,
+
+  a) F – V – F.
+
+  b) F – V – V.
+
+  c) V – F – F.
+
+  d) V – V – F.
+
+  e) V – V – V.
+
+
+---
+
+Comentários:
+
+A primeira assertiva está correta. Com efeito, os elementos organizacionais internos se traduzem
+em pontos fortes (forças) e pontos fracos (fraquezas). Para essa análise, pode ser utilizado o
+benchmarking, que consiste, basicamente, em analisar as melhores práticas adotadas pelas
+empresas concorrentes, e compará-las com as práticas adotadas pela organização.
+
+A segunda assertiva está errada. De fato, as oportunidades provém do ambiente externo.
+Contudo, as oportunidades não “garantem o melhor funcionamento da organização frente aos
+concorrentes”. A organização somente conseguirá usufruir das oportunidades se identificá-las em
+tempo hábil e tiver condições de aproveitá-las.
+
+A terceira assertiva está errada. Muito cuidado! As ameaças são elementos não controláveis.
+Portanto, a organização não pode “minimizar as ameaças”. O que a organização pode (e deve) é
+minimizar os impactos (resultados negativos) que essas ameaças podem causar.
+
+O gabarito é a letra C.
+
+33.   (FGV – Prefeitura de Salvador-BA – Técnico de Nível Superior - 2017)
+
+  Com relação às estratégias competitivas genéricas, assinale V para a afirmativa verdadeira e F
+  para a falsa.
+
+  ( ) O conceito de estratégia genérica decorre da necessidade de atuar de modo eficiente em
+  todas as etapas da produção.
+
+  ( ) A liderança de custo é buscada como alternativa para que a empresa não tenha que atuar na
+  indústria como um todo.
+
+  ( ) A diferenciação é uma estratégia competitiva que uma vez alcançada permite obter margens
+  mais altas e lealdade.
+
+  As afirmativas são, respectivamente,
+
+  a) F – V – F.
+
+  b) F – V – V.
+
+  c) V – F – F.
+
+  d) V – V – F.
+
+  e) F – F – V.
+
+Comentários:
+
+
+---
+
+Analisemos cada uma das assertivas:
+
+A primeira assertiva está errada. Existem 03 estratégias competitivas genéricas que poderão ser
+utilizadas pelas organizações para torná-las mais competitivas. São elas: Liderança de custo,
+Diferenciação e Enfoque.
+
+Cada uma dessas estratégias tem a sua peculiaridade. A liderança de custo, por exemplo, é voltada
+para a eficiência, uma vez que busca tornar a organização mais competitiva através da produção
+de produtos mais baratos.
+
+A diferenciação, por outro lado, tem por objetivo o desenvolvimento de produtos “diferenciados”,
+que sejam reconhecidos pelos clientes como “únicos”.
+
+Por fim, a estratégia de enfoque visa à atuação em determinados nichos de mercado. Nesse caso, o
+foco poderá ser em um mercado muito especializado (mercado específico) ou em determinados
+perfis de consumidores (consumidores específicos).
+
+Portanto, a assertiva não está correta, pois não são todas as estratégias genéricas que estão
+“voltadas para a necessidade de atuação de modo eficiente em todas as etapas de produção”.
+
+A estratégia genérica que está voltada para a atuação de modo eficiente nas etapas de produção é
+a “liderança de custos”.
+
+A segunda assertiva está errada. A estratégia “liderança de custo” leva em consideração a
+organização como um todo.
+
+É a estratégia de “Enfoque” que visa à atuação em determinados nichos de mercado, ou seja,
+trata-se de uma alternativa para que a empresa não tenha que atuar na indústria como um todo.
+
+A terceira assertiva está correta. Perfeito! A diferenciação tem por objetivo o desenvolvimento de
+produtos “diferenciados”. Os consumidores começam a visualizar esses produtos como “únicos”,
+“inigualáveis”. Assim, além dos clientes tornarem-se “leais” a esses produtos, o “valor percebido
+pelo cliente” aumenta, ou seja, eles começam a acreditar que esses produtos “custam mais caro” e
+que realmente há motivos para isso. Portanto, as margens sobem e, consequentemente, os lucros
+também!
+
+O gabarito é a letra E.
+
+34.   (FGV – Prefeitura de Salvador-BA – Técnico de Nível Superior - 2017)
+
+  Com relação às atividades descritas por Porter na Cadeia de Valores, analise as afirmativas a
+  seguir.
+
+  I. Tanto a logística interna quanto a logística externa são consideradas atividades primárias das
+  empresas.
+
+
+---
+
+  II. Quando a Cadeia de Valor é detalhada o suficiente, o desempenho relativo da empresa pode
+  ser determinado.
+
+  III. Sua utilização permite mostrar potencialidades para alianças estratégicas e acordos de fusões
+  e aquisições.
+
+  Está correto o que se afirma em
+
+  a) I, apenas.
+
+  b) II, apenas.
+
+  c) III, apenas.
+
+  d) I e II, apenas.
+
+  e) I, II e III.
+
+Comentários:
+
+A primeira assertiva está correta. As atividades primárias são: Logística interna, Operações,
+Logística externa, Marketing e Vendas e Serviços.
+
+A segunda assertiva está correta. Avaliar e determinar o desempenho relativo da organização é
+um dos objetivos de se elaborar uma cadeia de valor.
+
+A terceira assertiva está correta. Através da cadeia de valor, a empresa busca mapear os fluxos
+mais importantes para conhecer e compreender suas vantagens competitivas. De fato, isso
+permite a visualização de potencialidades para alianças estratégicas e acordos de fusões e
+aquisições.
+
+O gabarito é a letra E.
+
+35.    (FGV – CODEBA – Analista Portuário - 2016)
+
+  Entre os fatores que devem ser considerados, quando se estabelecem estratégias de expansão
+  para uma organização, estão os mercados a serem explorados e os produtos em
+  desenvolvimento.
+
+  Igor Ansoff, considerado o precursor da gestão estratégica, criou a Matriz Ansoff na qual
+  apresenta uma distribuição 2X2 que combina tipos de produtos e de mercados para formular as
+  estratégias adequadas.
+
+  Assinale a opção que apresenta a estratégia que inclui a combinação, de acordo com a Matriz
+  Ansoff, de mercados novos e produtos tradicionais.
+
+
+---
+
+  a) Desenvolvimento de produto.
+
+  b) Diversificação de produtos e mercados.
+
+  c) Desenvolvimento de mercado.
+
+  d) Penetração de mercado.
+
+  e) Penetração de produto.
+
+Comentários:
+
+Vejamos a Matriz Ansoff:
+
+                                                                     Produtos
+                                                       Existentes                   Novos
+                                      Existentes
+
+                                                     Penetração de         Desenvolvimento de
+                                                       Mercado                  Produto
+                           Mercados
+
+                                      Novos
+
+                                                   Desenvolvimento de
+                                                                                Diversificação
+                                                        Mercado
+
+Conforme se extrai da Matriz acima, a estratégia que combina mercados novos e produtos
+tradicionais (ou existentes) chama-se Desenvolvimento de mercado.
+
+O gabarito é a letra C.
+
+36.    (FCC – SEFAZ-BA – Auditor Fiscal - 2019)
+
+  A metodologia Balanced Scorecard (BSC) é comumente utilizada como ferramenta no âmbito do
+  planejamento estratégico de organizações públicas e privadas, tendo como uma de suas
+  características marcantes
+
+  a) a definição, ao final do planejamento, da missão da entidade, ou seja, da forma como ela
+  pretende ser reconhecida no futuro.
+
+  b) a preponderância da perspectiva financeira em relação às demais: dos clientes, dos processos
+  internos, e de motivação.
+
+  c) o uso intensivo da tecnologia da informação, somente sendo passível de aplicação em
+  plataformas digitais específicas, como o ERP.
+
+
+---
+
+  d) a utilização do mapa estratégico, que é um diagrama no qual ficam claras as relações de
+  causas e efeitos (precedência) entre os objetivos estratégicos.
+
+  e) a identificação da lacuna, ou gap, existente entre as competências disponíveis na organização
+  e aquelas de excelência em sua área de atuação.
+
+Comentários:
+
+Letra A: errada. O BSC consiste em uma ferramenta que traduz a missão, visão e os planos
+estratégicos, em objetivos, desafios e metas, através da criação de indicadores que possam
+acompanhar, monitorar e medir o andamento dos objetivos, bem do acompanhar e aferir o
+atingimento dos resultados.
+
+A assertiva trouxe o conceito de visão organizacional, ou seja, a forma como a organização
+pretende ser reconhecida no futuro.
+
+A Missão, por sua vez, é a “razão de ser” (ou “razão de existir”) da organização.
+
+Letra B: errada. As 04 perspectivas são: Financeira, Cliente, Processos Internos e Aprendizado e
+Crescimento. Além disso, as perspectivas são equilibradas, ou seja, não há preponderância (ou
+prevalência) de qualquer das perspectivas sobre as demais.
+
+Letra C: errada. Nada disso! O BSC não pressupõe o uso intensivo da tecnologia da informação.
+Além disso, não tem sua aplicação restrita à plataformas digitais específicas.
+
+Letra D: correta. Assertiva perfeita! O mapa estratégico é uma “representação gráfica” que facilita
+a visualização da estratégia, e é composto por objetivos estratégicos que estão distribuídos nas
+diferentes perspectivas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento), as
+quais estão inter-relacionadas por uma relação de causa e efeito.
+
+Letra E: errada. A assertiva trouxe um conceito relacionado ao mapeamento por competências.
+
+O gabarito é a letra D.
+
+37.   (IF-PA – IF-PA - Administrator - 2019)
+
+  Pedro Valente é administrador de uma organização pública de ensino vinculada à União - e, ao
+  chegar para cumprir expediente, recebe de sua equipe o relato de que naquele dia, há
+  diferentes demandas a resolver:
+
+  1. Prazo modificado para a entrega de um projeto estruturante do órgão, antecipando-a;
+
+  2. A detecção de 23 não conformidades nos dados recebidos pelo setor, para subsidiar um
+  relatório que Pedro e sua equipe devem entregar no dia seguinte, para subsidiar a alta
+  administração em uma decisão importante;
+
+
+---
+
+  3. O afastamento imprevisto de duas pessoas que compõem a equipe, por licença saúde;
+
+  4. A interdição de duas salas do setor, por problemas estruturais no telhado do complexo
+  predial;
+
+  5. Um pedido do departamento de Recursos Humanos para que seja encaminhada a relação de
+  pretensão de férias da equipe para o ano seguinte;
+
+  6. A informação de que o veículo destinado aos trabalhos externos do setor será retirado de
+  circulação para manutenção, sem substituição por veículo de reserva.
+
+  Pedro, para priorizar as demandas corretamente, poderá utilizar:
+
+  a) Análise SWOT
+
+  b) Diagrama de Afinidades
+
+  c) Diagrama de Ishikawa
+
+  d) Plano de Ação 5W2H
+
+  e) Matriz GUT
+
+Comentários:
+
+Quanto o objetivo é “priorizar problemas” (ou “priorizar demandas”), utilizamos a Matriz GUT.
+
+O gabarito é a letra E.
+
+38.   (FCC - Prefeitura Recife-PE - Analista de Planejamento, Orçamento e Gestão - 2019)
+
+  Suponha que uma entidade integrante da Administração indireta do Município (sociedade de
+  economia mista municipal) pretenda aplicar a metodologia Balanced Scorecard (BSC) no âmbito
+  de seu planejamento estratégico. Nesse contexto, a utilização dos denominados mapas
+  estratégicos
+
+  a) corresponde à representação dos principais processos de trabalho existentes na organização,
+  com a identificação das ineficiências a serem superadas.
+
+  b) avalia a posição ocupada pela organização no mercado em que atua, público ou privado,
+  comparativamente a outras consideradas de excelência.
+
+  c) estabelece o caminho a ser percorrido pela organização para a consecução de seus objetivos,
+  com a definição de todas as ações correspondentes.
+
+
+---
+
+  d) define os objetivos estratégicos, metas e indicadores de desempenho aptos a fornecer
+  informações mensuráveis sobre os resultados obtidos.
+
+  e) possibilita a visualização das relações de causa e efeito entre as perspectivas estratégicas e os
+  objetivos da organização.
+
+Comentários:
+
+O mapa estratégico permite a visualização das relações de causa e efeito entre as perspectivas
+estratégicas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento) e os objetivos
+estratégicos da organização.
+
+O gabarito é a letra E.
+
+39.   (FCC – SEAD-AP – Assistente Administrativo - 2018)
+
+  Uma das ferramentas bastante difundidas, aplicáveis na elaboração do planejamento
+  estratégico das organizações públicas e privadas, é a Matriz SWOT, a qual
+
+  a) aponta as competências necessárias para os objetivos perseguidos pela organização e as
+  contrapõem àquelas efetivamente disponíveis, indicando a lacuna existente.
+
+  b) corresponde a um diagrama de causas e efeitos das falhas identificadas na organização,
+  voltado à elaboração de metas e indicadores.
+
+  c) representa, graficamente, os aspectos internos identificados a partir do diagnóstico
+  institucional (forças e fraquezas) e os aspectos externos (ameaças e oportunidades).
+
+  d) apresenta uma comparação estruturada dos principais aspectos da organização com
+  referenciais de entidades de qualidade reconhecida (benchmarkings).
+
+  e) corresponde a um gráfico de barras verticais (histograma) que permite identificar os fatores
+  críticos a serem enfrentados para o aprimoramento dos processos de trabalho.
+
+Comentários:
+
+A análise SWOT buscar entender e representar, graficamente, a “posição atual” da organização.
+Consiste, basicamente, no diagnóstico do ambiente organizacional interno (forças e fraquezas) e
+do ambiente externo (ameaças e oportunidades).
+
+O gabarito é a letra C.
+
+40.   (FEPESE – CELESC – Administrador - 2018)
+
+
+---
+
+  Michael Porter, um dos maiores mentores da estratégia empresarial, descreveu as 5 Forças
+  Competitivas que influenciam concorrência de um setor, bem como as empresas e suas
+  estratégias.
+
+  Assinale a alternativa que não integra as 5 Forças Competitivas de Michael Porter.
+
+  a) Decisões Governamentais
+
+  b) Ameaça de Novos Entrantes
+
+  c) Poder de Compra dos Compradores
+
+  d) Poder de Negociação dos Fornecedores
+
+  e) Ameaça de Produtos ou Serviços Substitutos
+
+Comentários:
+
+As 05 forças competitivas de Porter são: Ameaça de Novos Entrantes, Ameaça de Produtos
+Substitutos, Poder de Barganha dos Fornecedores (Poder de negociação dos fornecedores),
+Poder de Barganha dos Clientes (Poder de compra dos compradores) e Rivalidade entre
+Concorrentes (concorrência no setor).
+
+O gabarito é a letra A.
+
+41.    (FCC – MPE-PE – Técnico Ministerial - 2018)
+
+  O Balanced Scorecard- BSC é uma metodologia que prioriza o equilíbrio organizacional a partir
+  das perspectivas:
+
+  I. financeira.
+
+  II. dos processos internos.
+
+  III. dos clientes.
+
+  IV. do aprendizado e crescimento.
+
+  V. dos fatores exógenos.
+
+  Está correto o que se afirma APENAS em
+
+  a) I,II,III e IV.
+
+  b) I,III e V.
+
+
+---
+
+  c) I,II, III e V.
+
+  d) I e III.
+
+  e) II e III.
+
+Comentários:
+
+As 04 perspectivas são: Financeira; Cliente; Processos Internos e; Aprendizado e Crescimento.
+
+O gabarito é a letra A.
+
+42.    (CESPE – MPU – Técnico do MPU - 2018)
+
+  Situação hipotética: Após a realização de uma análise SWOT em determinada organização,
+  identificou-se que o cenário nacional estava favorável ao debate de assuntos trabalhistas e que
+  os trabalhadores da organização possuíam conhecimento altamente especializado em direito do
+  trabalho.
+
+  Assertiva: Nesse caso, o cenário favorável ao debate de assuntos trabalhistas constitui uma
+  oportunidade, e o conhecimento dos trabalhadores, uma força; juntas, oportunidade e força
+  favorecem estratégias de fortalecimento da organização.
+
+Comentários:
+
+A oportunidade identificada no ambiente externo, aliada às forças da organização, indicam um
+cenário de alavancagem onde a organização deve adotar a estratégia de desenvolvimento.
+Perceba que a CESPE considerou “estratégia de fortalecimento” como sinônimo de “estratégia de
+desenvolvimento”.
+
+Gabarito: correta.
+
+43.    (FCC – Câmara Legislativa do Distrito Federal – Consultor Técnico Legislativo - 2018)
+
+  Considere que no bojo do desenvolvimento do planejamento estratégico de uma organização
+  tenha sido utilizada, como ferramenta na fase de mapeamento, a Matriz SWOT. Com tal
+  ferramenta serão identificados(as)/estabelecidos(as)
+
+  a) as forças e fraquezas da organização e os desafios e oportunidades apresentados pelo cenário
+  externo.
+
+  b) os indicadores de desempenho, financeiros e gerenciais, e as ações para o atingimento dos
+  resultados fixados.
+
+
+---
+
+  c) as metas de curto, médio e longo prazo, bem como as equipes responsáveis por cada
+  conjunto de metas.
+
+  d) as medidas a serem adotadas para aprimoramento da atuação da organização e os prazos
+  correspondentes.
+
+  e) os paradigmas de excelência adotados para a atuação da organização e os critérios de
+  avaliação dos resultados alcançados
+
+Comentários:
+
+A matriz SWOT consiste na identificação das forças e fraquezas (constantes do ambiente
+organizacional interno) e das ameaças e oportunidades (constantes do ambiente externo).
+
+O gabarito é a letra A.
+
+44.   (CESPE – TCE-MG – Analista de Controle Externo - 2018)
+
+  Um órgão de controle federal, ao ter finalizado uma auditoria, recomendou que a organização
+  pública auditada adotasse medidas para aprimorar seu controle financeiro, a fim de mensurar a
+  percepção da qualidade do serviço prestado e elevar a eficiência de seus processos.
+
+  A ferramenta gerencial adequada para atender às três recomendações apresentadas à
+  organização auditada é
+
+  a) o balanced scorecard.
+
+  b) o planejamento estratégico.
+
+  c) o planejamento tático.
+
+  d) a matriz SWOT.
+
+  e) o planejamento operacional.
+
+Comentários:
+
+A ferramenta adequada para aprimorar o controle financeiro (perspectiva financeira), mensurar a
+percepção da qualidade do serviço prestado (perspectiva do cliente) e elevar a eficiência dos
+processos (perspectiva de processos internos), é o Balanced Scorecard (BSC).
+
+O gabarito é a letra A.
+
+45.   (CESGRANRIO – Liquigás – Profissional de Vendas - 2018)
+
+
+---
+
+  Nos últimos três anos, a taxa anual de crescimento do mercado de aparelhos de refrigeração
+  caiu de 20% para 8% ao ano. Ainda assim, a participação relativa de mercado da unidade
+  estratégica de negócio da empresa YYX permaneceu muito elevada, com vendas duas vezes
+  maiores        do       que        as       do       concorrente         mais        próximo.
+  De acordo com a Matriz BCG, a unidade estratégica de negócio da YYX é classificada como
+
+  a) estrela
+
+  b) vaca leiteira
+
+  c) produto relacional
+
+  d) animal de estimação
+
+  e) ponto de interrogação
+
+Comentários:
+
+Perceba que a taxa de crescimento do mercado caiu (baixo crescimento do mercado) e a
+participação do produto no mercado continua muito elevada (alta participação do produto no
+mercado).
+
+Trata-se, portanto, de uma UEN (unidade estratégica de negócio) que está enquadrada como “vaca
+leiteira”.
+
+O gabarito é a letra B.
+
+46.   (FCC – TRT 2a Região – Analista Judiciário - 2018)
+
+  As metodologias consagradas para implementação de planejamento estratégico no âmbito das
+  organizações públicas e privadas contemplam, como etapa relevante, o denominado
+  diagnóstico institucional, muitas vezes utilizando como ferramenta a Matriz SWOT, que procura
+  identificar
+
+  a) as ações de longo prazo, correspondentes à missão da organização, e as de curto prazo,
+  representativas dos cenários identificados.
+
+  b) os processos de trabalho necessários para a consecução dos resultados almejados em função
+  dos valores institucionais identificados no mapeamento correspondente.
+
+  c) a visão de futuro da organização, correspondente à sua essência e razão de ser, e que faz
+  parte do quadro de indicadores estabelecido nesta etapa.
+
+  d) internamente, as forças e fraquezas da organização e, externamente, os desafios e
+  oportunidades existentes no cenário em que se insere.
+
+
+---
+
+  e) os projetos estratégicos da organização e as competências existentes para realizá-los,
+  encadeados em uma representação gráfica na forma de fluxograma.
+
+Comentários:
+
+A Matriz SWOT busca identificar as forças e fraquezas (ambiente interno organizacional) bem
+como as ameaças/desafios e oportunidades (ambiente externo no qual a organização está
+inserida).
+
+O gabarito é a letra D.
+
+47.    (CESPE – EMAP – Analista Portuário - 2018)
+
+  Na matriz SWOT, são consideradas a participação marginal, a participação média e a
+  participação elevada dos produtos ou serviços de uma empresa no mercado.
+
+Comentários:
+
+É a Matriz BCG que leva em consideração as variáveis Crescimento no mercado e Participação do
+produto no mercado.
+
+A Matriz SWOT busca identificar as forças, as fraquezas, as ameaças e as oportunidades.
+
+Gabarito: errada.
+
+48.   (CESPE – EMAP – Analista Portuário - 2018)
+
+  Situação hipotética: Uma organização identificou em seu processo de análise ambiental que
+  suas unidades em outros municípios contam com quadro de pessoal carente de capacitação,
+  com corpo gerencial pouco comprometido com os objetivos traçados e com equipamentos
+  obsoletos.
+
+  Assertiva: Nessa situação, de acordo com a análise SWOT, é correto afirmar que a organização
+  identificou ameaças ao alcance de seus objetivos.
+
+Comentários:
+
+Trata-se de uma fraqueza identificada no ambiente interno da organização. Ou seja, um ponto
+fraco que coloca a organização em uma posição desfavorável. É um elemento controlável, visto
+que a organização poderá capacitar melhor seus funcionários e buscar motivá-los para que
+aumentem o seu comprometimento com os objetivos organizacionais.
+
+Gabarito: errada.
+
+49.   (CESPE – MPU – Técnico do MPU - 2018)
+
+
+---
+
+  Situação hipotética: Na elaboração do planejamento estratégico de um órgão público que
+  utiliza a metodologia BSC (balanced scorecard), definiu-se o objetivo estratégico “desenvolver
+  competências de liderança”.
+
+  Assertiva: Nessa metodologia, o referido objetivo deve ser classificado na perspectiva interna.
+
+Comentários:
+
+Trata-se de uma variável relacionada ao “capital humano” (competências dos profissionais da
+organização). Portanto, é um objetivo que deve ser classificado na perspectiva do aprendizado e
+crescimento.
+
+Gabarito: errada.
+
+50.   (CESGRANRIO – Petrobrás – Técnico - 2018)
+
+  Diversas empresas, inclusive as de petróleo, utilizam no seu planejamento estratégico,
+  ferramentas e técnicas para identificar forças, oportunidades, fraquezas e ameaças.
+
+  Uma dessas ferramentas é
+
+  a) CRM
+
+  b) MRP I
+
+  c) MRP II
+
+  d) Matriz BCG
+
+  e) Matriz SWOT
+
+Comentários:
+
+Essa é moleza!
+
+É a Matriz SWOT que busca identificar as forças, as fraquezas, as ameaças e as oportunidades.
+
+O gabarito é a letra E.
+
+51.   (CESPE – EBSERH – Tecnólogo em Gestão Pública - 2018)
+
+  A liberação para comercializar produtos importados no mercado nacional rompe a barreira à
+  entrada de concorrentes, identificada como uma das forças do modelo de Porter.
+
+Comentários:
+
+
+---
+
+Perfeito! A liberação para o comércio de produtos importados reduz barreiras para a entrada de
+novos concorrentes no mercado.
+
+Gabarito: correta.
+
+52.   (CESPE – EBSERH – Tecnólogo em Gestão Pública - 2018)
+
+  De acordo com a utilização da metodologia BSC, as competências dos profissionais de uma
+  instituição fazem parte dos ativos intangíveis e são classificadas na perspectiva interna.
+
+Comentários:
+
+De fato, as competências dos profissionais de uma instituição fazem parte dos ativos intangíveis.
+Contudo, são classificadas na perspectiva do aprendizado e crescimento.
+
+Gabarito: errada.
+
+53.    (CESGRANRIO – Liquigás – Profissional de Vendas - 2018)
+
+  O corpo diretor estava preparando uma análise ambiental que desse suporte ao planejamento
+  estratégico da empresa. Para tanto, decidiu utilizar a Análise S.W.O.T. e partiu para o
+  levantamento dos componentes do ambiente de negócios. Os consultores contratados para
+  auxiliar nessa análise apontaram que uma nova regra tributária estava sendo discutida pelo
+  governo e que isso traria diminuição de impostos para as matérias-primas usadas pela empresa
+  na fabricação de seus produtos. Além disso, consideraram que há uma certa estabilidade, e a
+  economia do país não deve sofrer sobressaltos nos próximos meses.
+  Os dois componentes apontados serão classificados na Matriz S.W.O.T. como
+
+  a) ameaças
+
+  b) fraquezas
+
+  c) pontos fortes
+
+  d) pontos fracos
+
+  e) oportunidades
+
+Comentários:
+
+Os componentes identificados no enunciado (“diminuição da carga tributária” e “estabilidade
+econômica”) são classificados na Matriz SWOT como oportunidades. Isso porque são elementos
+externos que não podem ser controlados pela organização e que, nesse exemplo, influenciam
+positivamente a organização. Ou seja, a organização, prevendo e identificando esses
+acontecimentos, poderá aproveitá-los.
+
+
+---
+
+O gabarito é a letra E.
+
+54.       (CESPE – EMAP – Analista Portuário - 2018)
+
+  A matriz de portfólio é conhecida também como matriz BCG.
+
+Comentários:
+
+Pelo fato da Matriz BCG ser a principal e mais conhecida matriz de análise de portfólio, alguns
+autores (assim como o CESPE), consideram “matriz de portfólio” e “matriz BCG” como sinônimos.
+
+Gabarito: correta.
+
+55.       (FCC – SABESP – Analista de Gestão - 2018)
+
+  Considere as proposições abaixo.
+
+  I. SWOT é uma matriz de análise das forças, fraquezas, oportunidades e ameaças de um
+  negócio.
+
+  II. A matriz SWOT faz parte do plano de negócios para criação de uma nova empresa, enquanto
+  a matriz FOFA é a recomendada para o empreendedorismo individual.
+
+  III. A análise SWOT pode ser aplicada não só para a constituição de um novo negócio, mas
+  também para definir oportunidades e ameaças para as ações planejadas dentro de uma
+  instituição já em funcionamento.
+
+  Está correto o que se afirma APENAS em
+
+  a) II.
+
+  b) I.
+
+  c) I e II.
+
+  d) III.
+
+  e) I e III.
+
+Comentários:
+
+A primeira assertiva está correta. Isso mesmo. A Matriz SWOT busca identificar as forças, as
+fraquezas, as ameaças e as oportunidades.
+
+A segunda assertiva está errada. Matriz SWOT e Matriz FOFA são sinônimos (são a mesma coisa).
+A diferença é que a primeira se refere às iniciais em inglês (Strengths, Weakness, Opportunities e
+
+
+---
+
+Threats) enquanto a segunda traz as inicias em português (Forças, Fraquezas, Oportunidades e
+Ameaças).
+
+A terceira assertiva está correta. Perfeito! A Matriz SWOT pode ser utilizada tanto para a
+constituição de novos negócios quanto para negócios que já estão em funcionamento.
+
+O gabarito é a letra E.
+
+56.   (Colégio Pedro II – Colégio Pedro II – Professor - 2018)
+
+  O Modelo das 5 Forças Competitivas, de Michael Porter, é um dos mais conhecidos na literatura
+  de gestão estratégica. Uma das forças apresentadas pelo modelo é a Ameaça de entrada de
+  novos competidores. A fim de dificultar essa entrada, podem existir barreiras de entrada em
+  determinado setor.
+
+  Assinale a alternativa que apresenta um exemplo de barreira de entrada
+
+  a) Os compradores de um determinado setor apresentam lucros econômicos pouco
+  significativos.
+
+  b) Os fornecedores de determinado setor vendem produtos exclusivos ou altamente
+  diferenciados.
+
+  c) Um determinado setor possui um grande número de empresas participantes, todas com
+  tamanho e capacidade competitiva semelhantes
+
+  d) Uma empresa possui uma grande parte do mercado consumidor, produzindo em grande
+  quantidade e, com isso, obtendo custos unitários mais baixos.
+
+Comentários:
+
+Letra A: errada. Trata-se de um exemplo que representa a força do Poder de Barganha dos
+Clientes.
+
+Letra B: errada. A assertiva trouxe um exemplo associado à força do Poder de Barganha dos
+Fornecedores.
+
+Letra C: errada. Um mercado “homogêneo”, ou seja, com um grande número de empresas
+“homogêneas” (empresas com tamanho e capacidade competitiva semelhantes), não se trata de
+uma barreira de entrada.
+
+Letra D: correta. Isso mesmo. Diferentemente do que acabamos de ver na alternativa acima, um
+mercado não “homogêneo”, onde existe uma empresa extremamente forte que possui uma
+grande fatia do mercado consumidor, sendo capaz de produzir em grande quantidade com custos
+unitários mais baixo, é sim uma barreira de entrada para novos entrantes.
+
+
+---
+
+Isso pois a “nova empresa entrante” não terá as mesmas vantagens competitivas (em relação aos
+custos) que essa grande empresa possui. Portanto, se ela decidir entrar no mercado, deverá arcar,
+inicialmente, com lucros bem menores (ou até prejuízos). Isso é uma barreira de entrada que
+“afasta” os novos entrantes.
+
+Resumidamente, tratam-se das economias de escala, um tipo de barreira que dificulta a entrada
+de uma empresa no setor.
+
+O gabarito é a letra D.
+
+57.   (VUNESP – PC-BA – Investigador de Polícia - 2018)
+
+  Um primeiro passo para se estruturar uma organização por processos é a identificação da
+  própria organização por meio do mapeamento dos fluxos mais importantes, das partes
+  interessadas e suas necessidades, da estrutura organizacional e dos objetivos estratégicos da
+  organização. Essa primeira fase representa a construção
+
+  a) das Hipóteses Prévias.
+
+  b) da Função Gerencial.
+
+  c) da Cadeia de Valor.
+
+  d) da Hierarquia Organizacional.
+
+  e) dos Indicadores de Gestão.
+
+Comentários:
+
+É a cadeia de valor que busca a identificação e conhecimento da “própria” organização, através do
+mapeamento dos fluxos organizacionais mais importantes.
+
+O gabarito é a letra C.
+
+58.   (CESPE – STM – Analista Judiciário - 2018)
+
+  As dimensões que constituem a ferramenta BSC (balanced scorecard) incluem a mensuração da
+  aprendizagem organizacional, que permite gerar indicadores sobre os fatores críticos de sucesso
+  para a organização.
+
+Comentários:
+
+Isso mesmo! A aprendizagem é uma das perspectivas que devem ser mensurada para gerar
+indicadores sobre os fatores críticos de sucesso organizacional.
+
+
+---
+
+Gabarito: correta.
+
+59.   (CESPE – STM – Analista Judiciário - 2018)
+
+  É desaconselhada a aplicação do BSC (balanced scorecard) na administração pública, pois o
+  objetivo da organização que utilize essa ferramenta é o lucro.
+
+Comentários:
+
+Nada disso! O BSC pode (e deve) ser utilizado no setor público. Nesse caso, serão feitas as devidas
+“adaptações”.
+
+Gabarito: errada.
+
+60.   (CESPE – STM – Técnico Judiciário - 2018)
+
+  A metodologia SWOT é uma ferramenta de análise comumente utilizada em processos de
+  planejamento estratégico que permite analisar, de forma complementar, cenários internos e
+  externos de uma dada organização.
+
+Comentários:
+
+Perfeito! No cenário interno analisam-se as forças e as fraquezas; no cenário externo analisam-se
+as oportunidades e as ameaças.
+
+Gabarito: correta.
+
+61.   (UFPR – Itaipu – Profissional de Nível Superior - 2017)
+
+  De acordo com Ansoff, um negócio pode se aprimorar ao se elaborarem estratégias analisando-
+  se seu mercado e produtos existentes. Nesse sentido, o autor propõe uma matriz com quatro
+  tipos de possíveis estratégias. São estratégias que estão de acordo com a Matriz de Ansoff,
+  EXCETO:
+
+  a) penetração.
+
+  b) desenvolvimento de produto.
+
+  c) desenvolvimento de mercado.
+
+  d) combate à concorrência.
+
+  e) diversificação.
+
+Comentários:
+
+
+---
+
+A Matriz Ansoff classifica 04 tipos de estratégias: Penetração de mercado, Desenvolvimento de
+Mercado, Desenvolvimento de Produto e Diversificação.
+
+O gabarito é a letra D.
+
+62.    (COPEVE-UFAL – Prefeitura de Maceió – Técnico Administrativo - 2017)
+
+  Uma escola que utiliza a ferramenta 5W2H fez um estudo sobre uma reforma que deve ser feita
+  no prédio da diretoria. As pessoas responsáveis pelo estudo entregaram o resultado em folhas
+  numeradas de 1 a 7. O resumo dos estudos apresentados em cada folha foi: a folha 1 mostra
+  que deve ser contratada uma empresa de construção para a execução do serviço; a folha 2
+  sinaliza o senhor João José da Silva; a folha 3 explica que a reforma é para adequar o setor à
+  demanda de atendimento de matrícula; a folha 4 explica que algumas pessoas a serem
+  atendidas ficam atualmente na área externa do prédio; a folha 5 diz que a obra deve ser
+  realizada de 20/08/2017 a 20/10/2017; a folha 6 descreve que o orçamento máximo previsto é
+  de R$ 25.000,00; e a folha 7 tem descrito que a obra vai ser realizada no prédio da diretoria da
+  escola. Conforme a ferramenta 5W2H utilizada pela escola, qual é a sequência que representa
+  as perguntas referentes às respostas constantes nas folhas entregues e enumeradas?
+
+  a) How, Who, What, Why, When, How Much e Where.
+
+  b) How, Who, Why, What, When, How Much e Where.
+
+  c) Who, Why, What, How, When, Where e How Much.
+
+  d) What, Who, How, Why, Where, How Much e When.
+
+  e) Where, Who, What, Why, When, How e How Much.
+
+Comentários:
+
+A questão nos informa que uma escola fez um estudo, utilizando a ferramenta 5W2H, sobre uma
+reforma que deverá ser realizada no prédio da diretoria, e nos pede para analisarmos cada uma
+das “folhas” que constam desse estudo.
+
+Vamos analisar cada uma das “folhas” mencionadas pelo enunciado:
+
+folha 1: mostra que deve ser contratada uma empresa de construção para a execução do serviço
+
+pergunta: Como (How) a reforma será feita?
+
+resposta: Contratando-se uma empresa de construção especializada.
+
+folha 2: sinaliza o senhor João José da Silva
+
+
+---
+
+Essa folha indica quem (Who) deverá fazer a contratação (ou, talvez, ser o responsável pelo
+projeto).
+
+folha 3: explica que a reforma é para adequar o setor à demanda de atendimento de matrícula
+
+pergunta: O que (What) deve ser feito?
+
+resposta: adequar, mediante uma reforma, o setor à demanda de atendimento.
+
+De fato, penso que a banca “forçou” um pouco nessa parte. A melhor resposta para a pergunta “O
+que deve ser feito?” seria: “uma reforma no prédio da diretoria”.
+
+Entretanto, conforme você irá observar, isso não impedia que o aluno acertasse a questão.
+
+folha 4: explica que algumas pessoas a serem atendidas ficam atualmente na área externa do
+prédio
+
+pergunta: Por que (Why?) a reforma deve ser feita?
+
+resposta: Pois, atualmente, algumas pessoas ficam na área externa.
+
+folha 5: diz que a obra deve ser realizada de 20/08/2017 a 20/10/2017
+
+Quando (When) a obra deve ser realizada?
+
+folha 6: descreve que o orçamento máximo previsto é de R$ 25.000,00
+
+Quanto (How Much) custará essa obra? (indica o orçamento)
+
+folha 7: tem descrito que a obra vai ser realizada no prédio da diretoria da escola
+
+Onde (Where) essa obra será realizada?
+
+O gabarito é a letra A.
+
+63.   (CESPE – TCE-PA – Auditor de Controle Externo - 2016)
+
+  A análise SWOT é uma importante ferramenta de apoio ao diagnóstico organizacional, que
+  permite a uma organização identificar pontos fracos para o alcance dos seus objetivos, como,
+  por exemplo, detectar a impossibilidade de acesso a matérias-primas disponíveis no mercado e
+  necessárias à realização de seu negócio.
+
+Comentários:
+
+Questão muito bem elaborada!
+
+
+---
+
+A assertiva tenta induzir o candidato a pensar que a “impossibilidade de acessar matérias-primas”
+é uma ameaça.
+
+Entretanto, perceba que a assertiva deixa claro que as “matérias-primas estão disponíveis no
+mercado”. O que acontece, é que a organização detectou sua impossibilidade de adquiri-las
+(talvez, por falta de recursos).
+
+Portanto, de fato, trata-se de um ponto fraco (fraqueza) da organização.
+
+Somente poderia ser considerado uma ameaça se a assertiva dissesse “escassez”, “ausência” ou
+“falta” de matéria prima no mercado.
+
+Excelente questão!
+
+Gabarito: correta.
+
+64.   (FCC – Copergás-PE – Analista Administrativo - 2016)
+
+  A Matriz BCG é uma análise gráfica desenvolvida por Bruce Henderson para a empresa de
+  consultoria empresarial americana Boston Consulting Group em 1970. Esta matriz é uma das
+  formas mais usuais de representação do posicionamento de produtos ou unidades estratégicas
+  de negócio da empresa em relação a variáveis externas e internas. Os produtos devem ser
+  posicionados na matriz e classificados de acordo com cada quadrante. De acordo com referida
+  classificação, um produto enquadrado como “vaca leiteira” assim o é porque
+
+  a) tem a pior característica quanto a fluxo de caixa, pois exige altos investimentos e apresenta
+  baixo retorno sobre ativos e tem baixa participação de mercado.
+
+  b) a baixa participação de mercado gera poucos lucros, mas estes estão associados a um baixo
+  investimento devido ao crescimento do mercado praticamente nulo.
+
+  c) exige grandes investimentos e é referência no mercado, gerando receitas e desfrutando de
+  taxas de crescimento potencialmente elevadas. Fica frequentemente em equilíbrio quanto ao
+  fluxo de caixa.
+
+  d) os lucros e a geração de caixa são altos e, como o crescimento do mercado é baixo, não são
+  necessários grandes investimentos.
+
+  e) é considerado um produto fora do mercado, sem perspectiva de geração de caixa e
+  “sugando” portanto a capacidade de investimento da empresa.
+
+Comentários:
+
+
+---
+
+Letra A: errada. Mercado em alto crescimento (necessidade de altos investimentos), associado a
+uma baixa participação do produto no mercado (baixos retornos) são características do “ponto de
+interrogação”.
+
+Letra B: errada. Baixa participação no mercado (baixos lucros) associada a um mercado estático ou
+em baixo crescimento, são características do “abacaxi/cachorro”.
+
+Letra C: errada. Mercado em alto crescimento (necessidade de altos investimentos), associado a
+uma alta participação no mercado (produto “referência” de mercado, gerando retorno), e que
+mantém um frequente equilíbrio no fluxo de caixa, são característica de um produto “estrela”.
+
+Letra D: correta. Bingo! As características trazidas pela assertiva se referem a um produto “vaca
+leiteira”: alta participação no mercado (lucros) associada a um mercado em baixo crescimento
+(não são necessários grandes investimentos).
+
+Letra E: errada. A assertiva trouxe características do produto “abacaxi/cachorro”.
+
+O gabarito é a letra D.
+
+65.   (FCC – Prefeitura de Teresina-PI – Técnico de Nível Superior - 2016)
+
+  O modelo de cadeia de valor de Michael Porter (1998) tem um enfoque sistêmico e apresenta
+  uma cadeia de atividades comum a todos os negócios, onde os inputs e outputs passam por
+  mudanças em função das relações entre fornecedores e consumidores. Neste sentido o sistema
+  compreende atividades primárias e de suporte. Para o autor, são consideradas atividades
+  primárias:
+
+  a) infraestrutura, gestão de recursos humanos, desenvolvimento tecnológico, aquisição/compra.
+
+  b) logística de entrada, operações, logística de saída, marketing e vendas, serviços.
+
+  c) infraestrutura, logística de entrada, gestão de recursos humanos, desenvolvimento
+  tecnológico, logística de saída.
+
+  d) marketing e vendas,         serviços;   gestão   de    recursos   humanos,    desenvolvimento,
+  aquisição/compra.
+
+  e) logística de entrada, marketing, infraestrutura, logística de saída.
+
+Comentários:
+
+As atividades primárias são: Logística interna (ou de entrada), Operações, Logística externa (ou
+de saída), Marketing e Vendas e Serviços.
+
+
+---
+
+As atividades de apoio (ou secundárias) são: Aquisição (compras), Desenvolvimento de tecnologia,
+Gerência de Recursos Humanos e Infraestrutura da Empresa.
+
+O gabarito é a letra B.
+
+66.   (CESPE – TCE-PE – Analista de Controle - 2016)
+
+  A respeito das ferramentas utilizadas para a elaboração do planejamento estratégico e a
+  definição de visão e missão, assinale a opção correta.
+
+  a) A ferramenta 5W2H corresponde a um formulário cuja finalidade é auxiliar no controle e
+  execução das tarefas da organização.
+
+  b) Na análise SWOT de um tribunal, a identificação da existência, no mercado, de cursos
+  altamente recomendados para capacitações em assuntos jurídicos representa uma
+  oportunidade.
+
+  c) Inspirar, na sociedade, a certeza do controle dos recursos públicos caracteriza uma visão de
+  futuro, por se referir àquilo que determinado órgão almeja alcançar em um determinado
+  período de tempo.
+
+  d) Na análise SWOT de um órgão, as forças do ambiente interno juntamente com as
+  oportunidades do mercado promovem uma situação de estabilidade, com predominância de
+  crescimento.
+
+  e) O aspecto tendência, na matriz GUT (gravidade, urgência e tendência), representa o potencial
+  de resolução de um problema: atribui-se maior pontuação conforme seja grande a
+  probabilidade de solucionar a situação.
+
+Comentários:
+
+Letra A: errada. Primeiro, a ferramenta 5W2H não é um “formulário”. (Um formulário é um
+documento “padrão”, ou seja, algo “engessado”).
+
+A ferramenta 5W2H é um “questionário” que deve ser respondido para facilitar o planejamento
+das atividades e auxiliar o gestor a traçar os planos de ação para que os objetivos sejam
+alcançados.
+
+Portanto, sua finalidade é auxiliar o planejamento das atividades.
+
+Vale lembrar que, embora não seja o seu objetivo principal, essa ferramenta também auxilia na
+execução e possibilita uma visão de controle dos planos de ação, uma vez que torna-se mais fácil
+acompanhar o andamento dos planos de ação e verificar se estão no caminho correto para o
+atingimento das metas e dos objetivos estabelecidos.
+
+
+---
+
+Letra B: correta. Isso mesmo! Trata-se de um elemento ambiental externo que pode influenciar
+positivamente (oportunidade) o Tribunal. Caso esse Tribunal possua recursos financeiros (forças)
+para pagar esses cursos aos seus servidores, ele conseguirá aproveitar essa oportunidade.
+
+Letra C: errada. Trata-se de um conceito relacionado à missão organizacional (provavelmente de
+um Tribunal de Contas). Perceba que é algo “atual”, ou seja, a “razão de ser” de um Tribunal de
+Contas é fiscalizar as contas públicas e inspirar na sociedade a certeza desse controle.
+
+A visão, por outro lado, é algo almejado para o “futuro”.
+
+Letra D: errada. Forças + Oportunidades promovem um cenário de alavancagem, onde a estratégia
+a ser adotada deve ser o desenvolvimento.
+
+Letra E: errada. De fato, o aspecto tendência representa o potencial de resolução de um problema
+ao longo do tempo. Contudo, atribui-se menor pontuação conforme seja grande a probabilidade
+de solucionar a situação.
+
+Por outro lado, é atribuída uma pontuação maior para aqueles problemas cujas probabilidades de
+solução são baixas.
+
+O gabarito é a letra B.
+
+67.   (FUNCAB – CRF-RO – Administrador - 2014)
+
+  A ferramenta conhecida como “produto versus mercado”, que em um mercado específico,
+  auxilia o gestor na avaliação das oportunidades de crescimento de uma determinada unidade de
+  negócio, é conhecida como:
+
+  a) matriz de Ansoff.
+
+  b) brainstorming.
+
+  c) análise SWOT.
+
+  d) ciclo PDCA.
+
+  e) benchmarking.
+
+Comentários:
+
+A ferramenta que leva em consideração as variáveis “produtos” e “mercados”, e tem por objetivo
+auxiliar o gestor na avaliação das oportunidades de crescimento de determinado mercado ou de
+determinada unidade de negócio específica, é a Matriz Ansoff.
+
+O gabarito é a letra A.
+
+
+---
+
+68.   (FCC – TRF 3a Região – Técnico Judiciário - 2014)
+
+  Dentre as atividades do Gerenciamento de Incidentes da ITIL v3 atualizada em 2011, está a
+  priorização de incidente. Esta atividade é realizada criando-se uma matriz de risco relacionada a
+  urgência do tratamento do incidente e o impacto que o incidente poderá causar na operação da
+  empresa. Deve-se usar, nesta atividade, a matriz de definição de prioridade
+
+  a) SWOT.
+
+  b) BCG.
+
+  c) GUT.
+
+  d) RACI.
+
+  e) de Ansoff.
+
+Comentários:
+
+A Matriz que tem por objetivo “priorizar os problemas”, ou seja, quantificar e analisar os níveis de
+gravidade, urgência, e tendência (padrão de desenvolvimento) é a Matriz GUT.
+
+O gabarito é a letra C.
+
+69.   (CESPE – MTE – Auditor Fiscal do Trabalho - 2013)
+
+  A matriz de portfólio de produtos, também chamada de matriz de crescimento e participação, é
+  uma técnica de seleção de estratégias que se baseia no estudo da participação dos produtos da
+  empresa no mercado e que retrata as seguintes fontes de lucros e resultados: estrelas, pontos
+  de interrogação, vacas leiteiras e vira-latas.
+
+Comentários:
+
+A assertiva trouxe, corretamente, as características da Matriz BCG. Perceba que o CESPE utilizou o
+termo “matriz de portfólio” como sinônimo de Matriz BCG.
+
+Gabarito: correta.
+
+
+---
+
+                                LISTA DE QUESTÕES
+1. (FGV – TJ-DFT - Analista Judiciário – Administração – 2022)
+
+  Para subsidiar seu processo de formulação e planejamento estratégico, uma empresa utilizou-se
+  da matriz BCG para análise de seu portfólio de produtos. Os resultados foram: produto A – alta
+  taxa de crescimento do mercado e alta participação no mercado; produto B – baixa taxa de
+  crescimento do mercado e alta participação no mercado; produto C – baixa taxa de crescimento
+  do mercado e baixa participação no mercado; produto D – alta taxa de crescimento do mercado
+  e baixa participação no mercado.
+
+  Com base no modelo da matriz BCG, é correto afirmar que:
+
+  a) o produto A é um produto “vaca leiteira”, gerador de elevados fluxos financeiros que devem
+  ser usados para equilibrar o fluxo de caixa dos demais produtos;
+
+  b) o produto B é um produto “ponto de interrogação”, que pode se tornar um produto “estrela”
+  se aumentar a sua participação no mercado;
+
+  c) o produto C é um produto “cachorro”, que pode se tornar uma “vaca leiteira” se a taxa de
+  crescimento de seu mercado aumentar significativamente;
+
+  d) o produto D é um produto “ponto de interrogação”, no qual a empresa deve investir para
+  aumentar sua participação no mercado;
+
+  e) o produto A é um produto “estrela”, gerador de elevados fluxos financeiros que devem ser
+  usados para financiar o crescimento de outros negócios.
+
+2. (FGV – TCE-TO - Auditor de Controle Externo – Administração – 2022)
+
+  Para subsidiar seu processo de formulação e planejamento estratégico, uma empresa utilizou-se
+  da matriz GE/McKinsey para análise de seu portfólio de negócios. Os resultados foram:
+
+  • unidade de negócio A - alta atratividade da indústria e posição competitiva média;
+
+  • unidade de negócio B - média atratividade da indústria e posição competitiva alta;
+
+
+---
+
+  • unidade de negócio C - média atratividade da indústria e posição competitiva baixa;
+
+  • unidade de negócio D - alta atratividade da indústria e posição competitiva baixa;
+
+  • unidade de negócio E - baixa atratividade da indústria e posição competitiva alta.
+
+  Com base no modelo da matriz GE/McKinsey, é correto afirmar que a empresa deve:
+
+  a) deixar de investir nas unidades de negócio C e E;
+
+  b) concentrar seus investimentos na unidade de negócio A e deixar de investir na unidade de
+  negócio E;
+
+  c) investir seletivamente nas unidades de negócio D e E;
+
+  d) investir seletivamente nas unidades de negócio A e B e utilizar seus fluxos de caixa para
+  financiar a unidade de negócio E;
+
+  e) investir seletivamente nas unidades de negócio A e B e utilizar seus fluxos de caixa para
+  financiar a unidade de negócio D.
+
+3. (FGV – IMBEL - Supervisor - Administrador – Reaplicação – 2021)
+
+  Uma montadora fabrica um tradicional veículo esportivo que tem alta participação no mercado.
+  Apesar disso, considera-se que esse mercado de esportivos tem baixas perspectivas de
+  crescimento, tendendo a se manter próximo da estabilidade.
+
+  Considerando que essa montadora realiza a gestão de portfólio por meio da Matriz BCG, é
+  correto esperar que a montadora desenvolva ações como
+
+  a) a descontinuação do produto de forma imediata, enquanto ainda não existem custos
+  irrecuperáveis.
+
+  b) a realização de pesados investimentos e marketing, visando aumentar a rentabilidade do
+  esportivo.
+
+  c) a manutenção de gastos baixos relativos ao produto, adotando uma estratégia de
+  manutenção.
+
+  d) a implementação de novos produtos nesse mercado, aproveitando-se da concorrência
+  reduzida.
+
+  e) a utilização de procedimentos de dumping, objetivando estender o prazo de maturidade do
+  mercado.
+
+
+---
+
+4. (FGV – Prefeitura de Paulínia - SP - Agente de Apoio Administrativo – 2021)
+
+  Um administrador, após assumir a gestão de uma fábrica, encontrou problemas de qualidade
+  que comprometem os resultados da empresa.
+
+  Assinale a opção que indica a ferramenta de gestão da qualidade que ele poderá utilizar para
+  priorizar os problemas, evitando perder tempo com questões de pouca relevância.
+
+  a) Estratégias competitivas genéricas.
+
+  b) 5Ps.
+
+  c) Funil gerencial.
+
+  d) Matriz GUT.
+
+  e) Benchmarking concorrencial.
+
+5. (FGV – Câmara de Aracaju - SE - Assistente Administrativo – 2021)
+
+  A análise Swot é uma ferramenta de planejamento estratégico utilizada para a realização de um
+  diagnóstico organizacional da empresa.
+
+  Dentre os elementos tipicamente considerados na análise Swot, podem ser elencados:
+
+  a) fraquezas e competitividade;
+
+  b) barreiras de entrada e oportunidades;
+
+  c) situação política e produtos substitutos;
+
+  d) forças e ameaças;
+
+  e) produtos abacaxis e estrelas.
+
+6. (FGV – Câmara de Aracaju - SE - Assistente Administrativo – 2021)
+
+  Em função da multiplicidade de tarefas exercidas, muitas vezes os gestores incorrem em
+  decisões erradas ao priorizar a solução de determinados problemas e negligenciar outros de
+  maior importância.
+
+  Nesse sentido, é uma importante ferramenta para a priorização de problemas:
+
+  a) Gestão 5S;
+
+  b) Matriz GUT;
+
+
+---
+
+  c) Análise BCG;
+
+  d) Reengenharia;
+
+  e) Avaliação incremental.
+
+7. (FGV – IMBEL - Supervisor - Administrador – Reaplicação – 2021)
+
+  A IMBEL iniciou em janeiro de 2020 a produção de materiais bélicos elaborados com a utilização
+  de uma nova tecnologia importada dos Estados Unidos. Em meados do ano, no entanto, o
+  governo sinalizou com uma possível redução dos tributos para a entrada de qualquer produto
+  oriundo dos Estados Unidos, inclusive de armamentos com tecnologia similar à utilizada pela
+  IMBEL.
+
+  Considerando a situação hipotética apresentada e relacionando com o entendimento da análise
+  SWOT, essa ação do governo representa, para a IMBEL, um exemplo de
+
+  a) fraqueza.
+
+  b) fator crítico de sucesso.
+
+  c) ameaça.
+
+  d) oportunidade.
+
+  e) risco.
+
+8. (FGV – IMBEL - Supervisor - Administrador – Reaplicação – 2021)
+
+  O Balanced Scorecard (BSC) é uma ferramenta que auxilia no desdobramento de objetivos
+  estratégicos em ações operacionais, por meio do uso de indicadores.
+
+  Considerando que o correto funcionamento do BSC depende do bom desempenho de
+  determinadas pessoas que exercem papéis críticos na sua incorporação, assinale a opção que
+  compreende os termos utilizados para se referir a essas pessoas.
+
+  a) Arquiteto, agente de mudanças e comunicador.
+
+  b) Engenheiro, porta-voz e administrador.
+
+  c) Agente de mudanças, desenhista e executor.
+
+  d) Arquiteto, engenheiro e desenhista.
+
+  e) Administrador, supervisor e operário.
+
+
+---
+
+9. (FGV – FUNSAÚDE - CE - Analista Administrativo – Suprimentos – 2021)
+
+  Uma organização pretende expandir seus negócios para um novo setor. Pensando nisso, ela fez
+  um estudo, pautado no modelo das Cinco Forças de Porter, e opta por buscar um mercado com
+  baixo poder de barganha dos clientes e a seguinte característica:
+
+  a) diferenciação nos produtos.
+
+  b) economias de escala.
+
+  c) baixos custos de troca.
+
+  d) transparência em relação aos preços praticados no mercado.
+
+  e) produto representando parte significativa dos gastos dos clientes.
+
+10.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Suprimentos – 2021)
+
+  O Balanced Scorecard (BSC) surgiu como reação às críticas aos modelos estratégicos utilizados
+  em determinado período, argumentando que esses modelos eram frágeis. Assinale a opção que
+  apresenta uma razão para a fragilidade desses modelos.
+
+  a) Focavam os aspectos objetivos em detrimento dos subjetivos.
+
+  b) Estipulavam diretrizes inatingíveis para os grupos funcionais.
+
+  c) Estavam limitados aos indicadores financeiros.
+
+  d) Decorriam de uma concepção relativista do funcionário.
+
+  e) Flexibilizavam de forma exagerada as medições.
+
+11.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  Na execução de análise dos processos administrativos de uma organização, um consultor
+  elaborou três perguntas:
+
+  I. O que deve ser feito?
+
+  II. Quem deve fazer?
+
+  III. Como deve ser realizado?
+
+  Consideradas à luz da ferramenta 5W2H, utilizada para auxiliar no desenvolvimento de planos
+  de ação, assinale a opção que indica as perguntas que estão associadas a essa ferramenta.
+
+
+---
+
+  a) I, II e III.
+
+  b) I e II, somente.
+
+  c) II e III, somente.
+
+  d) I e III, somente.
+
+  e) I, somente.
+
+12.    (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  O diagnóstico organizacional é um processo ou etapa do planejamento estratégico em que o
+  administrador busca entender a situação geral da organização e seu contexto de atuação,
+  realizando análises dos ambientes interno e externo. Em relação a esse diagnóstico, é correto
+  dizer que ele pode ser realizado por meio da(o)
+
+  a) Matriz BCG.
+
+  b) Diagrama de Ishikawa.
+
+  c) Análise SWOT.
+
+  d) Modelo Base Zero.
+
+  e) Benchmarking.
+
+13.    (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  Os responsáveis por uma organização que, em determinada circunstância, devem priorizar
+  determinados problemas para direcionar ações de enfrentamento específicas, podem utilizar
+  uma ferramenta conhecida por Matriz GUT, que foi desenvolvida justamente com essa
+  finalidade. Assinale a opção que apresenta um dos critérios abordados pela Matriz GUT.
+
+  a) Gravidade.
+
+  b) Utilidade.
+
+  c) Temporalidade.
+
+  d) Usabilidade.
+
+  e) Globalidade.
+
+14.    (FGV – IMBEL - Engenheiro de Controle de Qualidade – 2021)
+
+
+---
+
+  Na gestão de desempenho organizacional, o Balanced Scorecard procura ligar o mapeamento
+  estratégico da organização com um conjunto de medidores de desempenho, de forma a
+  destacar as nuances e as interligações entre as diversas áreas dessa organização. Na
+  implantação desse sistema, é necessário considerar alguns elementos conceituais, à exceção de
+  um. Assinale-o.
+
+  a) Objetivos estratégicos.
+
+  b) Iniciativas estratégicas.
+
+  c) Relações de causa e efeito.
+
+  d) Fatores críticos de sucesso.
+
+  e) Planejamento racional compreensivo.
+
+15.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Suprimentos – 2021)
+
+  O diagnóstico organizacional é a etapa do planejamento estratégico em que o administrador
+  busca entender a situação geral da organização e seu contexto de atuação, analisando os
+  ambientes interno e externo. Em relação a esse diagnóstico, ele é realizado por meio da(o)
+
+  a) Matriz BCG.
+
+  b) Diagrama de Ishikawa.
+
+  c) Análise SWOT.
+
+  d) Modelo Base Zero.
+
+  e) Benchmarking.
+
+16.   (FGV – FUNSAÚDE - CE - Analista Administrativo – Administração – 2021)
+
+  O processo de mapeamento dos fluxos mais importantes dentro de uma organização,
+  permitindo que a empresa conheça e compreenda suas vantagens competitivas, está
+  relacionado ao conceito de
+
+  a) análise de custo-benefício.
+
+  b) blueprinting.
+
+  c) diamante competitivo.
+
+  d) análise da cadeia de valor.
+
+
+---
+
+  e) análise ABC.
+
+17.   (FGV – TJ-RO - Analista Judiciário – Administrador – 2021)
+
+  Um gerente participa do processo de planejamento estratégico da organização em que trabalha.
+  A organização pretende adotar uma estratégia de diversificação de seus negócios. O gerente
+  recebeu a incumbência de realizar uma análise do potencial de lucratividade de determinada
+  indústria, para subsidiar a formulação da estratégia de diversificação. Nessa situação, uma
+  ferramenta adequada para analisar a estrutura da indústria, com vistas a avaliar sua
+  atratividade, seria:
+
+  a) matriz de Ansoff;
+
+  b) análise BCG;
+
+  c) análise SWOT;
+
+  d) modelo das cinco forças competitivas de Porter;
+
+  e) matriz GE/McKinsey.
+
+18.   (FGV – IMBEL – Administrador - 2021)
+
+  Um administrador está buscando uma ferramenta de medição de desempenho que não tenha,
+  como foco exclusivo, indicadores financeiros. Analisando outras perspectivas, é adequado o uso
+  do
+
+  a) ebitda
+
+  b) break even point
+
+  c) balanced scorecard
+
+  d) payback descontado
+
+  e) margem de contribuição
+
+19.   (FGV – IMBEL – Analista - 2021)
+
+  Sobre as informações obtidas por meio da análise SWOT, assinale a opção que indica a
+  considerada como elemento controlável.
+
+  a) A entrada de novo concorrente no mercado.
+
+  b) A falência de empresa concorrente.
+
+
+---
+
+  c) O início de nova guerra mundial.
+
+  d) A força de trabalho qualificada.
+
+  e) O aumento da tributação.
+
+20.   (FGV – Câmara de Aracaju-SE – Analista Administrativo - 2021)
+
+  O Balanced Scorecard é uma metodologia de gestão que busca descrever e traduzir a estratégia
+  da organização por meio de diferentes perspectivas, integradas e relacionadas.
+
+  Sobre o Balanced Scorecard, é correto afirmar que:
+
+  a) utiliza exclusivamente indicadores financeiros suportados por análise corporativa;
+
+  b) caminha de forma integrada ao parâmetro 5S, adotando uma filosofia de zero defeito;
+
+  c) adota, em parte, a política de contingenciamento, ligando procedimentos matriciais com
+  explícitos;
+
+  d) considera que a melhoria dos processos internos é necessária para uma melhor entrega de
+  valor ao cliente;
+
+  e) baseia-se em um sistema de pontuação estatística, utilizando a garantia de qualidade como
+  uma das barreiras de entrada.
+
+21.   (FGV - Prefeitura de Niterói - Analista de Políticas Públicas - 2018)
+
+  A startup XYZ, que desenvolve aplicativos para smartphones, descobre que as principais
+  fabricantes do aparelho vão passar a utilizar um sistema operacional incompatível com seus
+  produtos. Visando realizar uma análise do ambiente do mercado para orientá-la na definição de
+  sua estratégia, a startup opta por utilizar a ferramenta conhecida por matriz SWOT,
+  classificando a atitude das fabricantes como
+
+  a) oportunidade.
+
+  b) força.
+
+  c) fraqueza.
+
+  d) ameaça.
+
+  e) neutralidade.
+
+22.   (FGV - Prefeitura de Niterói - Analista de Políticas Públicas - 2018)
+
+
+---
+
+  Uma nova lei é editada prevendo que todos os novos taxistas, a partir da edição da lei, deverão
+  ter curso superior.
+
+  Conforme a concepção do modelo das 5 forças proposto por Michael Porter, essa medida pode
+  ser entendida como
+
+  a) a criação de uma barreira de entrada a novos concorrentes.
+
+  b) o aumento do poder de barganha dos consumidores.
+
+  c) uma intervenção protecionista no domínio econômico.
+
+  d) um incentivo governamental à educação.
+
+  e) a ampliação da competitividade no setor.
+
+23.   (FGV – MPE-AL – Analista do Ministério Público - 2018)
+
+  Sobre a matriz BCG, que disseminou o conceito do posicionamento da “vaca leiteira” e outras
+  imagens na linguagem do marketing, assinale a afirmativa correta.
+
+  a) A inadequação para análise de setores da indústria, por ter sido desenvolvida por uma
+  empresa da área de vacinas.
+
+  b) “Cachorros” ou “abacaxis” são negócios ou unidades de negócio com baixa participação em
+  mercados estáticos ou em declínio.
+
+  c) “Fazendas” são negócios ou unidades de negócio que demandam uma colheita intensiva.
+
+  d) O uso da matriz tipicamente requer o uso de uma árvore de decisão complexa.
+
+  e) A matriz BCG permite uma visão ampliada das estratégias competitivas propostas por Michael
+  Porter.
+
+24.   (FGV – AL-RO – Assistente Legislativo - 2018)
+
+  Uma empresa pública de ferrovias, ao perceber a necessidade de se posicionar de forma mais
+  efetiva no setor, desenvolve uma análise de cenário por meio da ferramenta Matriz SWOT.
+  Assinale a opção que apresenta um exemplo de inferência que pode surgir da aplicação dessa
+  ferramenta.
+
+  a) A crise no país é uma ameaça que deve ser controlada pela empresa.
+
+  b) A falência de uma concorrente do setor é uma oportunidade a ser aproveitada.
+
+
+---
+
+  c) A redução da regulação do setor aumenta o poder de barganha dos consumidores.
+
+  d) A aquisição de novos trens elétricos pela empresa deve ser enquadrada como estrela no
+  portfólio.
+
+  e) A expansão da malha ferroviária é uma decisão não programada.
+
+25.   (FGV – MPE-AL – Analista do Ministério Público - 2018)
+
+  No final da década de 1970 foi promulgado, nos Estados Unidos, o Airline Deregulation Act, que
+  retirou os controles federais sobre o setor aéreo americano e criou condições de livre mercado
+  para o setor, o que conduziu a um aumento na oferta de voos e à redução das tarifas. Tendo
+  como referência o modelo de análise estratégica das 5 forças, proposto por Michael Porter, para
+  as empresas aéreas americanas, que já operavam no país, a desregulamentação do mercado
+  significou
+
+  a) a ampliação da oferta de produtos substitutos.
+
+  b) uma recomposição do poder de barganha dos fornecedores.
+
+  c) a simplificação das barreiras não tarifárias.
+
+  d) uma redução das barreiras de entrada no setor.
+
+  e) a integração das forças produtivas setoriais.
+
+26.   (FGV – Câmara de Salvador-BA – Analista Legislativo - 2018)
+
+  “João”,”sexta-feira”e “R$ 50” foram as descrições encontradas em alguns dos campos de um
+  mesmo registro de uma conhecida ferramenta de gestão de qualidade, que é:
+
+  a) a matriz de Priorização;
+
+  b) a estratificação;
+
+  c) o gráfico de Pareto;
+
+  d) o histograma;
+
+  e) o 5W2H.
+
+27.   (FGV – AL-RO – Assistente Legislativo - 2018)
+
+  Assinale a opção que apresenta o conceito de Balanced Scorecard.
+
+
+---
+
+  a) É o sistema de informação que reúne indicadores de desempenho que servem de base para
+  um mapa estratégico construído a partir dos indicadores financeiros.
+
+  b) É a ferramenta de gestão que se traduz em um mapa estratégico, em que são apresentados
+  os índices de qualidade e as medidas financeiras do desempenho passado.
+
+  c) É o conjunto de indicadores que representa problemas ou riscos potenciais, através de
+  quantificações que buscam estabelecer prioridades para abordá-los.
+
+  d) É a ferramenta que permite o mapeamento dos processos da organização e a padronização
+  dos mesmos, visando à melhoria da qualidade e à redução de custos.
+
+  e) É o sistema que traduz a missão e a estratégia da empresa em um conjunto de medidas de
+  desempenho que serve de base para um sistema de medição e gestão estratégica.
+
+28.   (FGV – AL-RO – Analista Legislativo - 2018)
+
+  Após a utilização de uma usual ferramenta de análise estratégica, uma empresa fabricante de
+  produtos de luxo verifica os seguintes pontos:
+
+  1-Mão de obra experiente.
+
+  2-Baixo capital de giro.
+
+  3-Aumento da renda da população.
+
+  4-Entrada de fortes concorrentes no setor.
+
+  Com base nos pontos identificados, assinale a opção que indica a ferramenta utilizada pela
+  empresa.
+
+  a) Matriz ANSOFF.
+
+  b) Análise BCG.
+
+  c) Design Thinking.
+
+  d) Análise SWOT.
+
+  e) Benchmarking.
+
+29.   (FGV – AL-RO – Analista Legislativo - 2018)
+
+  Uma empresa do setor de e-commerce elabora o mapa estratégico para a realização
+  do Balanced Scorecard.
+
+
+---
+
+  Relacione os objetivos estratégicos, listados a seguir, às perspectivas correspondentes.
+
+  1. Aumentar o lucro líquido.
+
+  2. Aumentar o nível de satisfação dos funcionários.
+
+  3. Reduzir as devoluções de produtos.
+
+  4. Aumentar o market-share.
+
+  ( ) Perspectiva Financeira.
+
+  ( ) Perspectiva do Cliente.
+
+  ( ) Perspectiva dos Processos Internos.
+
+  ( ) Perspectiva do aprendizado e crescimento.
+
+  Assinale a opção que apresenta a sequência correta, segundo a ordem apresentada.
+
+  a) 1 – 2 - 3 – 4.
+
+  b) 1 – 4 – 3 - 2.
+
+  c) 3 – 2 – 1 – 4.
+
+  d) 2 – 1 – 4 – 3.
+
+  e) 4 – 2 – 3 – 1.
+
+30.   (FGV – Prefeitura de Salvador-BA – Técnico de Nível Superior - 2017)
+
+  Com referência à essência de se relacionar uma empresa ao seu meio ambiente, analise as
+  afirmativas a seguir.
+
+  I. O grau da concorrência em uma indústria depende das cinco forças competitivas básicas que
+  devem ser analisadas.
+
+  II. A indústria estabelecida busca se beneficiar com barreiras a novos entrantes. Patentes são
+  um exemplo eficaz.
+
+  III. A presença de grupos fortes de compradores permite que a indústria atue proativamente na
+  criação de mais barreiras à entrada.
+
+  Está correto o que se afirma em:
+
+
+---
+
+  a) I, apenas.
+
+  b) II, apenas.
+
+  c) III, apenas.
+
+  d) I e II, apenas.
+
+  e) I, II e III.
+
+31.    (FGV – SEPOG-RO – Analista de Planejamento e Finanças - 2017)
+
+  A análise SWOT, também chamada em português de análise FOFA, é uma das ferramentas mais
+  difundidas nos processos de planejamento estratégico. A análise SWOT permite compreender a
+  situação da organização em seu ambiente de atuação e subsidiar escolhas estratégicas futuras.
+  Utilizando a análise SWOT, uma empresa identificou que o envelhecimento da população
+  brasileira poderia abrir espaços para inovar e utilizar suas linhas de produção automatizadas
+  para desenvolver e colocar no mercado novos equipamentos de cuidados médicos domiciliares
+  (home care).
+
+  Para identificar essa possível estratégia, a empresa relacionou
+
+  a) uma força de mercado com uma ocasião propícia.
+
+  b) uma fraqueza dos concorrentes com uma oportunidade de utilização dos recursos internos.
+
+  c) uma falha de mercado com uma ameaça à economia brasileira.
+
+  d) uma força dada pelos recursos internos com uma oportunidade representada por uma
+  tendência demográfica.
+
+  e) uma fragilidade no atendimento à saúde pública com uma ameaça representada pela
+  globalização da concorrência.
+
+32.    (FGV – Prefeitura de Salvador – Técnico de Nível Superior - 2017)
+
+  A Análise SWOT combina elementos internos e externos à organização, permitindo à mesma
+  realizar seu processo de planejamento estratégico.
+
+  Nesse sentido, assinale (V) para a afirmativa verdadeira e (F) para a falsa.
+
+  ( ) Os elementos da ambiência interna, mesmo que comparativamente à concorrência, se
+  traduzem em pontos fracos e fortes.
+
+
+---
+
+  ( ) As oportunidades provém do ambiente externo, garantindo o melhor funcionamento da
+  organização frente aos concorrentes.
+
+  ( ) O planejamento deve minimizar as ameaças, pois elas incidem negativamente tanto na sua
+  organização quanto na sua aplicação.
+
+  As afirmativas são, respectivamente,
+
+  a) F – V – F.
+
+  b) F – V – V.
+
+  c) V – F – F.
+
+  d) V – V – F.
+
+  e) V – V – V.
+
+33.   (FGV – Prefeitura de Salvador-BA – Técnico de Nível Superior - 2017)
+
+  Com relação às estratégias competitivas genéricas, assinale V para a afirmativa verdadeira e F
+  para a falsa.
+
+  ( ) O conceito de estratégia genérica decorre da necessidade de atuar de modo eficiente em
+  todas as etapas da produção.
+
+  ( ) A liderança de custo é buscada como alternativa para que a empresa não tenha que atuar na
+  indústria como um todo.
+
+  ( ) A diferenciação é uma estratégia competitiva que uma vez alcançada permite obter margens
+  mais altas e lealdade.
+
+  As afirmativas são, respectivamente,
+
+  a) F – V – F.
+
+  b) F – V – V.
+
+  c) V – F – F.
+
+  d) V – V – F.
+
+  e) F – F – V.
+
+34.   (FGV – Prefeitura de Salvador-BA – Técnico de Nível Superior - 2017)
+
+
+---
+
+  Com relação às atividades descritas por Porter na Cadeia de Valores, analise as afirmativas a
+  seguir.
+
+  I. Tanto a logística interna quanto a logística externa são consideradas atividades primárias das
+  empresas.
+
+  II. Quando a Cadeia de Valor é detalhada o suficiente, o desempenho relativo da empresa pode
+  ser determinado.
+
+  III. Sua utilização permite mostrar potencialidades para alianças estratégicas e acordos de fusões
+  e aquisições.
+
+  Está correto o que se afirma em
+
+  a) I, apenas.
+
+  b) II, apenas.
+
+  c) III, apenas.
+
+  d) I e II, apenas.
+
+  e) I, II e III.
+
+35.    (FGV – CODEBA – Analista Portuário - 2016)
+
+  Entre os fatores que devem ser considerados, quando se estabelecem estratégias de expansão
+  para uma organização, estão os mercados a serem explorados e os produtos em
+  desenvolvimento.
+
+  Igor Ansoff, considerado o precursor da gestão estratégica, criou a Matriz Ansoff na qual
+  apresenta uma distribuição 2X2 que combina tipos de produtos e de mercados para formular as
+  estratégias adequadas.
+
+  Assinale a opção que apresenta a estratégia que inclui a combinação, de acordo com a Matriz
+  Ansoff, de mercados novos e produtos tradicionais.
+
+  a) Desenvolvimento de produto.
+
+  b) Diversificação de produtos e mercados.
+
+  c) Desenvolvimento de mercado.
+
+  d) Penetração de mercado.
+
+  e) Penetração de produto.
+
+
+---
+
+36.   (FCC – SEFAZ-BA – Auditor Fiscal - 2019)
+
+  A metodologia Balanced Scorecard (BSC) é comumente utilizada como ferramenta no âmbito do
+  planejamento estratégico de organizações públicas e privadas, tendo como uma de suas
+  características marcantes
+
+  a) a definição, ao final do planejamento, da missão da entidade, ou seja, da forma como ela
+  pretende ser reconhecida no futuro.
+
+  b) a preponderância da perspectiva financeira em relação às demais: dos clientes, dos processos
+  internos, e de motivação.
+
+  c) o uso intensivo da tecnologia da informação, somente sendo passível de aplicação em
+  plataformas digitais específicas, como o ERP.
+
+  d) a utilização do mapa estratégico, que é um diagrama no qual ficam claras as relações de
+  causas e efeitos (precedência) entre os objetivos estratégicos.
+
+  e) a identificação da lacuna, ou gap, existente entre as competências disponíveis na organização
+  e aquelas de excelência em sua área de atuação.
+
+37.   (IF-PA – IF-PA - Administrator - 2019)
+
+  Pedro Valente é administrador de uma organização pública de ensino vinculada à União - e, ao
+  chegar para cumprir expediente, recebe de sua equipe o relato de que naquele dia, há
+  diferentes demandas a resolver:
+
+  1. Prazo modificado para a entrega de um projeto estruturante do órgão, antecipando-a;
+
+  2. A detecção de 23 não conformidades nos dados recebidos pelo setor, para subsidiar um
+  relatório que Pedro e sua equipe devem entregar no dia seguinte, para subsidiar a alta
+  administração em uma decisão importante;
+
+  3. O afastamento imprevisto de duas pessoas que compõem a equipe, por licença saúde;
+
+  4. A interdição de duas salas do setor, por problemas estruturais no telhado do complexo
+  predial;
+
+  5. Um pedido do departamento de Recursos Humanos para que seja encaminhada a relação de
+  pretensão de férias da equipe para o ano seguinte;
+
+  6. A informação de que o veículo destinado aos trabalhos externos do setor será retirado de
+  circulação para manutenção, sem substituição por veículo de reserva.
+
+  Pedro, para priorizar as demandas corretamente, poderá utilizar:
+
+
+---
+
+  a) Análise SWOT
+
+  b) Diagrama de Afinidades
+
+  c) Diagrama de Ishikawa
+
+  d) Plano de Ação 5W2H
+
+  e) Matriz GUT
+
+38.   (FCC - Prefeitura Recife-PE - Analista de Planejamento, Orçamento e Gestão - 2019)
+
+  Suponha que uma entidade integrante da Administração indireta do Município (sociedade de
+  economia mista municipal) pretenda aplicar a metodologia Balanced Scorecard (BSC) no âmbito
+  de seu planejamento estratégico. Nesse contexto, a utilização dos denominados mapas
+  estratégicos
+
+  a) corresponde à representação dos principais processos de trabalho existentes na organização,
+  com a identificação das ineficiências a serem superadas.
+
+  b) avalia a posição ocupada pela organização no mercado em que atua, público ou privado,
+  comparativamente a outras consideradas de excelência.
+
+  c) estabelece o caminho a ser percorrido pela organização para a consecução de seus objetivos,
+  com a definição de todas as ações correspondentes.
+
+  d) define os objetivos estratégicos, metas e indicadores de desempenho aptos a fornecer
+  informações mensuráveis sobre os resultados obtidos.
+
+  e) possibilita a visualização das relações de causa e efeito entre as perspectivas estratégicas e os
+  objetivos da organização.
+
+39.   (FCC – SEAD-AP – Assistente Administrativo - 2018)
+
+  Uma das ferramentas bastante difundidas, aplicáveis na elaboração do planejamento
+  estratégico das organizações públicas e privadas, é a Matriz SWOT, a qual
+
+  a) aponta as competências necessárias para os objetivos perseguidos pela organização e as
+  contrapõem àquelas efetivamente disponíveis, indicando a lacuna existente.
+
+  b) corresponde a um diagrama de causas e efeitos das falhas identificadas na organização,
+  voltado à elaboração de metas e indicadores.
+
+  c) representa, graficamente, os aspectos internos identificados a partir do diagnóstico
+  institucional (forças e fraquezas) e os aspectos externos (ameaças e oportunidades).
+
+
+---
+
+  d) apresenta uma comparação estruturada dos principais aspectos da organização com
+  referenciais de entidades de qualidade reconhecida (benchmarkings).
+
+  e) corresponde a um gráfico de barras verticais (histograma) que permite identificar os fatores
+  críticos a serem enfrentados para o aprimoramento dos processos de trabalho.
+
+40.    (FEPESE – CELESC – Administrador - 2018)
+
+  Michael Porter, um dos maiores mentores da estratégia empresarial, descreveu as 5 Forças
+  Competitivas que influenciam concorrência de um setor, bem como as empresas e suas
+  estratégias.
+
+  Assinale a alternativa que não integra as 5 Forças Competitivas de Michael Porter.
+
+  a) Decisões Governamentais
+
+  b) Ameaça de Novos Entrantes
+
+  c) Poder de Compra dos Compradores
+
+  d) Poder de Negociação dos Fornecedores
+
+  e) Ameaça de Produtos ou Serviços Substitutos
+
+41.    (FCC – MPE-PE – Técnico Ministerial - 2018)
+
+  O Balanced Scorecard- BSC é uma metodologia que prioriza o equilíbrio organizacional a partir
+  das perspectivas:
+
+  I. financeira.
+
+  II. dos processos internos.
+
+  III. dos clientes.
+
+  IV. do aprendizado e crescimento.
+
+  V. dos fatores exógenos.
+
+  Está correto o que se afirma APENAS em
+
+  a) I,II,III e IV.
+
+  b) I,III e V.
+
+  c) I,II, III e V.
+
+
+---
+
+  d) I e III.
+
+  e) II e III.
+
+42.    (CESPE – MPU – Técnico do MPU - 2018)
+
+  Situação hipotética: Após a realização de uma análise SWOT em determinada organização,
+  identificou-se que o cenário nacional estava favorável ao debate de assuntos trabalhistas e que
+  os trabalhadores da organização possuíam conhecimento altamente especializado em direito do
+  trabalho.
+
+  Assertiva: Nesse caso, o cenário favorável ao debate de assuntos trabalhistas constitui uma
+  oportunidade, e o conhecimento dos trabalhadores, uma força; juntas, oportunidade e força
+  favorecem estratégias de fortalecimento da organização.
+
+43.    (FCC – Câmara Legislativa do Distrito Federal – Consultor Técnico Legislativo - 2018)
+
+  Considere que no bojo do desenvolvimento do planejamento estratégico de uma organização
+  tenha sido utilizada, como ferramenta na fase de mapeamento, a Matriz SWOT. Com tal
+  ferramenta serão identificados(as)/estabelecidos(as)
+
+  a) as forças e fraquezas da organização e os desafios e oportunidades apresentados pelo cenário
+  externo.
+
+  b) os indicadores de desempenho, financeiros e gerenciais, e as ações para o atingimento dos
+  resultados fixados.
+
+  c) as metas de curto, médio e longo prazo, bem como as equipes responsáveis por cada
+  conjunto de metas.
+
+  d) as medidas a serem adotadas para aprimoramento da atuação da organização e os prazos
+  correspondentes.
+
+  e) os paradigmas de excelência adotados para a atuação da organização e os critérios de
+  avaliação dos resultados alcançados
+
+44.    (CESPE – TCE-MG – Analista de Controle Externo - 2018)
+
+  Um órgão de controle federal, ao ter finalizado uma auditoria, recomendou que a organização
+  pública auditada adotasse medidas para aprimorar seu controle financeiro, a fim de mensurar a
+  percepção da qualidade do serviço prestado e elevar a eficiência de seus processos.
+
+  A ferramenta gerencial adequada para atender às três recomendações apresentadas à
+  organização auditada é
+
+
+---
+
+  a) o balanced scorecard.
+
+  b) o planejamento estratégico.
+
+  c) o planejamento tático.
+
+  d) a matriz SWOT.
+
+  e) o planejamento operacional.
+
+45.   (CESGRANRIO – Liquigás – Profissional de Vendas - 2018)
+
+  Nos últimos três anos, a taxa anual de crescimento do mercado de aparelhos de refrigeração
+  caiu de 20% para 8% ao ano. Ainda assim, a participação relativa de mercado da unidade
+  estratégica de negócio da empresa YYX permaneceu muito elevada, com vendas duas vezes
+  maiores        do       que        as       do       concorrente         mais        próximo.
+  De acordo com a Matriz BCG, a unidade estratégica de negócio da YYX é classificada como
+
+  a) estrela
+
+  b) vaca leiteira
+
+  c) produto relacional
+
+  d) animal de estimação
+
+  e) ponto de interrogação
+
+46.   (FCC – TRT 2a Região – Analista Judiciário - 2018)
+
+  As metodologias consagradas para implementação de planejamento estratégico no âmbito das
+  organizações públicas e privadas contemplam, como etapa relevante, o denominado
+  diagnóstico institucional, muitas vezes utilizando como ferramenta a Matriz SWOT, que procura
+  identificar
+
+  a) as ações de longo prazo, correspondentes à missão da organização, e as de curto prazo,
+  representativas dos cenários identificados.
+
+  b) os processos de trabalho necessários para a consecução dos resultados almejados em função
+  dos valores institucionais identificados no mapeamento correspondente.
+
+  c) a visão de futuro da organização, correspondente à sua essência e razão de ser, e que faz
+  parte do quadro de indicadores estabelecido nesta etapa.
+
+
+---
+
+  d) internamente, as forças e fraquezas da organização e, externamente, os desafios e
+  oportunidades existentes no cenário em que se insere.
+
+  e) os projetos estratégicos da organização e as competências existentes para realizá-los,
+  encadeados em uma representação gráfica na forma de fluxograma.
+
+47.   (CESPE – EMAP – Analista Portuário - 2018)
+
+  Na matriz SWOT, são consideradas a participação marginal, a participação média e a
+  participação elevada dos produtos ou serviços de uma empresa no mercado.
+
+48.   (CESPE – EMAP – Analista Portuário - 2018)
+
+  Situação hipotética: Uma organização identificou em seu processo de análise ambiental que
+  suas unidades em outros municípios contam com quadro de pessoal carente de capacitação,
+  com corpo gerencial pouco comprometido com os objetivos traçados e com equipamentos
+  obsoletos.
+
+  Assertiva: Nessa situação, de acordo com a análise SWOT, é correto afirmar que a organização
+  identificou ameaças ao alcance de seus objetivos.
+
+49.   (CESPE – MPU – Técnico do MPU - 2018)
+
+  Situação hipotética: Na elaboração do planejamento estratégico de um órgão público que
+  utiliza a metodologia BSC (balanced scorecard), definiu-se o objetivo estratégico “desenvolver
+  competências de liderança”.
+
+  Assertiva: Nessa metodologia, o referido objetivo deve ser classificado na perspectiva interna.
+
+50.   (CESGRANRIO – Petrobrás – Técnico - 2018)
+
+  Diversas empresas, inclusive as de petróleo, utilizam no seu planejamento estratégico,
+  ferramentas e técnicas para identificar forças, oportunidades, fraquezas e ameaças.
+
+  Uma dessas ferramentas é
+
+  a) CRM
+
+  b) MRP I
+
+  c) MRP II
+
+  d) Matriz BCG
+
+  e) Matriz SWOT
+
+
+---
+
+51.   (CESPE – EBSERH – Tecnólogo em Gestão Pública - 2018)
+
+  A liberação para comercializar produtos importados no mercado nacional rompe a barreira à
+  entrada de concorrentes, identificada como uma das forças do modelo de Porter.
+
+52.   (CESPE – EBSERH – Tecnólogo em Gestão Pública - 2018)
+
+  De acordo com a utilização da metodologia BSC, as competências dos profissionais de uma
+  instituição fazem parte dos ativos intangíveis e são classificadas na perspectiva interna.
+
+53.   (CESGRANRIO – Liquigás – Profissional de Vendas - 2018)
+
+  O corpo diretor estava preparando uma análise ambiental que desse suporte ao planejamento
+  estratégico da empresa. Para tanto, decidiu utilizar a Análise S.W.O.T. e partiu para o
+  levantamento dos componentes do ambiente de negócios. Os consultores contratados para
+  auxiliar nessa análise apontaram que uma nova regra tributária estava sendo discutida pelo
+  governo e que isso traria diminuição de impostos para as matérias-primas usadas pela empresa
+  na fabricação de seus produtos. Além disso, consideraram que há uma certa estabilidade, e a
+  economia do país não deve sofrer sobressaltos nos próximos meses.
+  Os dois componentes apontados serão classificados na Matriz S.W.O.T. como
+
+  a) ameaças
+
+  b) fraquezas
+
+  c) pontos fortes
+
+  d) pontos fracos
+
+  e) oportunidades
+
+54.   (CESPE – EMAP – Analista Portuário - 2018)
+
+  A matriz de portfólio é conhecida também como matriz BCG.
+
+55.   (FCC – SABESP – Analista de Gestão - 2018)
+
+  Considere as proposições abaixo.
+
+  I. SWOT é uma matriz de análise das forças, fraquezas, oportunidades e ameaças de um
+  negócio.
+
+  II. A matriz SWOT faz parte do plano de negócios para criação de uma nova empresa, enquanto
+  a matriz FOFA é a recomendada para o empreendedorismo individual.
+
+
+---
+
+  III. A análise SWOT pode ser aplicada não só para a constituição de um novo negócio, mas
+  também para definir oportunidades e ameaças para as ações planejadas dentro de uma
+  instituição já em funcionamento.
+
+  Está correto o que se afirma APENAS em
+
+  a) II.
+
+  b) I.
+
+  c) I e II.
+
+  d) III.
+
+  e) I e III.
+
+56.       (Colégio Pedro II – Colégio Pedro II – Professor - 2018)
+
+  O Modelo das 5 Forças Competitivas, de Michael Porter, é um dos mais conhecidos na literatura
+  de gestão estratégica. Uma das forças apresentadas pelo modelo é a Ameaça de entrada de
+  novos competidores. A fim de dificultar essa entrada, podem existir barreiras de entrada em
+  determinado setor.
+
+  Assinale a alternativa que apresenta um exemplo de barreira de entrada
+
+  a) Os compradores de um determinado setor apresentam lucros econômicos pouco
+  significativos.
+
+  b) Os fornecedores de determinado setor vendem produtos exclusivos ou altamente
+  diferenciados.
+
+  c) Um determinado setor possui um grande número de empresas participantes, todas com
+  tamanho e capacidade competitiva semelhantes
+
+  d) Uma empresa possui uma grande parte do mercado consumidor, produzindo em grande
+  quantidade e, com isso, obtendo custos unitários mais baixos.
+
+57.       (VUNESP – PC-BA – Investigador de Polícia - 2018)
+
+  Um primeiro passo para se estruturar uma organização por processos é a identificação da
+  própria organização por meio do mapeamento dos fluxos mais importantes, das partes
+  interessadas e suas necessidades, da estrutura organizacional e dos objetivos estratégicos da
+  organização. Essa primeira fase representa a construção
+
+  a) das Hipóteses Prévias.
+
+
+---
+
+  b) da Função Gerencial.
+
+  c) da Cadeia de Valor.
+
+  d) da Hierarquia Organizacional.
+
+  e) dos Indicadores de Gestão.
+
+58.   (CESPE – STM – Analista Judiciário - 2018)
+
+  As dimensões que constituem a ferramenta BSC (balanced scorecard) incluem a mensuração da
+  aprendizagem organizacional, que permite gerar indicadores sobre os fatores críticos de sucesso
+  para a organização.
+
+59.   (CESPE – STM – Analista Judiciário - 2018)
+
+  É desaconselhada a aplicação do BSC (balanced scorecard) na administração pública, pois o
+  objetivo da organização que utilize essa ferramenta é o lucro.
+
+60.   (CESPE – STM – Técnico Judiciário - 2018)
+
+  A metodologia SWOT é uma ferramenta de análise comumente utilizada em processos de
+  planejamento estratégico que permite analisar, de forma complementar, cenários internos e
+  externos de uma dada organização.
+
+61.   (UFPR – Itaipu – Profissional de Nível Superior - 2017)
+
+  De acordo com Ansoff, um negócio pode se aprimorar ao se elaborarem estratégias analisando-
+  se seu mercado e produtos existentes. Nesse sentido, o autor propõe uma matriz com quatro
+  tipos de possíveis estratégias. São estratégias que estão de acordo com a Matriz de Ansoff,
+  EXCETO:
+
+  a) penetração.
+
+  b) desenvolvimento de produto.
+
+  c) desenvolvimento de mercado.
+
+  d) combate à concorrência.
+
+  e) diversificação.
+
+62.   (COPEVE-UFAL – Prefeitura de Maceió – Técnico Administrativo - 2017)
+
+
+---
+
+  Uma escola que utiliza a ferramenta 5W2H fez um estudo sobre uma reforma que deve ser feita
+  no prédio da diretoria. As pessoas responsáveis pelo estudo entregaram o resultado em folhas
+  numeradas de 1 a 7. O resumo dos estudos apresentados em cada folha foi: a folha 1 mostra
+  que deve ser contratada uma empresa de construção para a execução do serviço; a folha 2
+  sinaliza o senhor João José da Silva; a folha 3 explica que a reforma é para adequar o setor à
+  demanda de atendimento de matrícula; a folha 4 explica que algumas pessoas a serem
+  atendidas ficam atualmente na área externa do prédio; a folha 5 diz que a obra deve ser
+  realizada de 20/08/2017 a 20/10/2017; a folha 6 descreve que o orçamento máximo previsto é
+  de R$ 25.000,00; e a folha 7 tem descrito que a obra vai ser realizada no prédio da diretoria da
+  escola. Conforme a ferramenta 5W2H utilizada pela escola, qual é a sequência que representa
+  as perguntas referentes às respostas constantes nas folhas entregues e enumeradas?
+
+  a) How, Who, What, Why, When, How Much e Where.
+
+  b) How, Who, Why, What, When, How Much e Where.
+
+  c) Who, Why, What, How, When, Where e How Much.
+
+  d) What, Who, How, Why, Where, How Much e When.
+
+  e) Where, Who, What, Why, When, How e How Much.
+
+63.   (CESPE – TCE-PA – Auditor de Controle Externo - 2016)
+
+  A análise SWOT é uma importante ferramenta de apoio ao diagnóstico organizacional, que
+  permite a uma organização identificar pontos fracos para o alcance dos seus objetivos, como,
+  por exemplo, detectar a impossibilidade de acesso a matérias-primas disponíveis no mercado e
+  necessárias à realização de seu negócio.
+
+64.   (FCC – Copergás-PE – Analista Administrativo - 2016)
+
+  A Matriz BCG é uma análise gráfica desenvolvida por Bruce Henderson para a empresa de
+  consultoria empresarial americana Boston Consulting Group em 1970. Esta matriz é uma das
+  formas mais usuais de representação do posicionamento de produtos ou unidades estratégicas
+  de negócio da empresa em relação a variáveis externas e internas. Os produtos devem ser
+  posicionados na matriz e classificados de acordo com cada quadrante. De acordo com referida
+  classificação, um produto enquadrado como “vaca leiteira” assim o é porque
+
+  a) tem a pior característica quanto a fluxo de caixa, pois exige altos investimentos e apresenta
+  baixo retorno sobre ativos e tem baixa participação de mercado.
+
+  b) a baixa participação de mercado gera poucos lucros, mas estes estão associados a um baixo
+  investimento devido ao crescimento do mercado praticamente nulo.
+
+
+---
+
+  c) exige grandes investimentos e é referência no mercado, gerando receitas e desfrutando de
+  taxas de crescimento potencialmente elevadas. Fica frequentemente em equilíbrio quanto ao
+  fluxo de caixa.
+
+  d) os lucros e a geração de caixa são altos e, como o crescimento do mercado é baixo, não são
+  necessários grandes investimentos.
+
+  e) é considerado um produto fora do mercado, sem perspectiva de geração de caixa e
+  “sugando” portanto a capacidade de investimento da empresa.
+
+65.   (FCC – Prefeitura de Teresina-PI – Técnico de Nível Superior - 2016)
+
+  O modelo de cadeia de valor de Michael Porter (1998) tem um enfoque sistêmico e apresenta
+  uma cadeia de atividades comum a todos os negócios, onde os inputs e outputs passam por
+  mudanças em função das relações entre fornecedores e consumidores. Neste sentido o sistema
+  compreende atividades primárias e de suporte. Para o autor, são consideradas atividades
+  primárias:
+
+  a) infraestrutura, gestão de recursos humanos, desenvolvimento tecnológico, aquisição/compra.
+
+  b) logística de entrada, operações, logística de saída, marketing e vendas, serviços.
+
+  c) infraestrutura, logística de entrada, gestão de recursos humanos, desenvolvimento
+  tecnológico, logística de saída.
+
+  d) marketing e vendas,         serviços;   gestão   de    recursos   humanos,    desenvolvimento,
+  aquisição/compra.
+
+  e) logística de entrada, marketing, infraestrutura, logística de saída.
+
+66.   (CESPE – TCE-PE – Analista de Controle - 2016)
+
+  A respeito das ferramentas utilizadas para a elaboração do planejamento estratégico e a
+  definição de visão e missão, assinale a opção correta.
+
+  a) A ferramenta 5W2H corresponde a um formulário cuja finalidade é auxiliar no controle e
+  execução das tarefas da organização.
+
+  b) Na análise SWOT de um tribunal, a identificação da existência, no mercado, de cursos
+  altamente recomendados para capacitações em assuntos jurídicos representa uma
+  oportunidade.
+
+  c) Inspirar, na sociedade, a certeza do controle dos recursos públicos caracteriza uma visão de
+  futuro, por se referir àquilo que determinado órgão almeja alcançar em um determinado
+  período de tempo.
+
+
+---
+
+  d) Na análise SWOT de um órgão, as forças do ambiente interno juntamente com as
+  oportunidades do mercado promovem uma situação de estabilidade, com predominância de
+  crescimento.
+
+  e) O aspecto tendência, na matriz GUT (gravidade, urgência e tendência), representa o potencial
+  de resolução de um problema: atribui-se maior pontuação conforme seja grande a
+  probabilidade de solucionar a situação.
+
+67.   (FUNCAB – CRF-RO – Administrador - 2014)
+
+  A ferramenta conhecida como “produto versus mercado”, que em um mercado específico,
+  auxilia o gestor na avaliação das oportunidades de crescimento de uma determinada unidade de
+  negócio, é conhecida como:
+
+  a) matriz de Ansoff.
+
+  b) brainstorming.
+
+  c) análise SWOT.
+
+  d) ciclo PDCA.
+
+  e) benchmarking.
+
+68.   (FCC – TRF 3a Região – Técnico Judiciário - 2014)
+
+  Dentre as atividades do Gerenciamento de Incidentes da ITIL v3 atualizada em 2011, está a
+  priorização de incidente. Esta atividade é realizada criando-se uma matriz de risco relacionada a
+  urgência do tratamento do incidente e o impacto que o incidente poderá causar na operação da
+  empresa. Deve-se usar, nesta atividade, a matriz de definição de prioridade
+
+  a) SWOT.
+
+  b) BCG.
+
+  c) GUT.
+
+  d) RACI.
+
+  e) de Ansoff.
+
+69.   (CESPE – MTE – Auditor Fiscal do Trabalho - 2013)
+
+  A matriz de portfólio de produtos, também chamada de matriz de crescimento e participação, é
+  uma técnica de seleção de estratégias que se baseia no estudo da participação dos produtos da
+
+
+---
+
+empresa no mercado e que retrata as seguintes fontes de lucros e resultados: estrelas, pontos
+de interrogação, vacas leiteiras e vira-latas.
+
+
+---
+
+                GABARITO
+1. Letra D    24. Letra B   47. ERRADA
+2. Letra C    25. Letra D   48. ERRADA
+3. Letra C    26. Letra E   49. ERRADA
+4. Letra D    27. Letra E   50. Letra E
+5. Letra D    28. Letra D   51. CORRETA
+6. Letra B    29. Letra B   52. ERRADA
+7. Letra C    30. Letra D   53. Letra E
+8. Letra A    31. Letra D   54. CORRETA
+9. Letra A    32. Letra C   55. Letra E
+10. Letra C   33. Letra E   56. Letra D
+11. Letra A   34. Letra E   57. Letra C
+12. Letra C   35. Letra C   58. CORRETA
+13. Letra A   36. Letra D   59. ERRADA
+14. Letra E   37. Letra E   60. CORRETA
+15. Letra C   38. Letra E   61. Letra D
+16. Letra D   39. Letra C   62. Letra A
+17. Letra D   40. Letra A   63. CORRETA
+18. Letra C   41. Letra A   64. Letra D
+19. Letra D   42. CORRETA   65. Letra B
+20. Letra D   43. Letra A   66. Letra B
+21. Letra D   44. Letra A   67. Letra A
+22. Letra A   45. Letra B   68. Letra C
+23. Letra B   46. Letra D   69. CORRETA
+
+
+---
+
+Referências Bibliográficas
+
+ANDERSEN, Torben Juul. Gestão estratégica : uma introdução / tradução de Ariovaldo Griesi; revisão
+técnica de Cristina Pastore. – São Paulo: Saraiva, 2014.
+
+BOONE, Louis E, David L. Kurtz, Marketing Contemporâneo, [tradução Roberta Schneider]. São Paulo:
+Cengage Learning, 2009. Título original: Contemporary marketing.
+
+CHIAVENATO, Idalberto. Administração Geral e Pública: Provas e Concursos, 5ª edição. São Paulo, Manole:
+2018.
+
+CHIAVENATO, Idalberto. Administração nos novos tempos: os novos horizontes em administração, 3ª
+edição. Barueri, Manole: 2014.
+
+CHIAVENATO, Idalberto. Administração: teoria, processo e pratica, 5ª edição. Barueri, Manole: 2014.
+
+CHIAVENATO, Idalberto, MATOS, Francisco Gomes de. Visão e ação estratégica: os caminhos da
+competitividade, 3ª edição. Barueri, Manole: 2009.
+
+COSTA, Eliezer Arantes da. Gestão estratégica: da empresa que temos para a empresa que queremos, 2ª
+edição. São Paulo, Saraiva: 2007.
+
+GOMES, Luiz Flavio Autran Monteiro. GOMES, Carlos Francisco Simões. Tomada de decisão gerencial:
+enfoque multicritério, 5ª edição – Rio de Janeiro: Método, 2017.
+
+HARRISON, Jeffrey S., HITT, Michael A., HOSKISSON, Robert E., IRELAND, R. Duane, Estratégia Competitiva,
+(Tradução da 2ª edição Norte Americana, Tradutor: Roberto Galman; Revisão Técnica: Felipe Borini), 2008.
+Título original: Competing for advantage.
+
+KAPLAN, Robert S. NORTON, David P. Alinhamento: utilizando o Balanced Scorecard para criar sinergias
+corporativas. 1ª edição. Rio de Janeiro, Elsevier: 2006.
+
+MAXIMIANO, Antonio Cesar Amaru. Introdução à Adminstração, 8ª edição. São Paulo, Atlas: 2011.
+
+OLIVEIRA, Djalma de Pinho Rebouças de. Estratégia Empresarial & vantagem competitiva: como
+estabelecer, implementar e avaliar. São Paulo, Atlas: 2014.
+
+OLIVEIRA, Djalma de Pinho Rebouças de. Planejamento Estratégico: conceitos, metodologia e práticas,
+33ª edição. São Paulo, Atlas: 2015.
+
+PALUDO, Augustinho Vicente. Administração Geral e Pública para AFRF e AFT, 3ª edição. Rio de Janeiro,
+Editora Método: 2017.
+
+PORTER, Michael. Vantagem Competitiva: criando e sustentando um desempenho superior. 43ª edição.
+Rio de Janeiro, Elsevier: 1989.
+
+SERRA, Fernando Ribeiro, FERREIRA, Manuel Portugal, TORRES Alexandre Pavan, TORRES Maria Candida,
+Gestão estratégica, 2ª edição. São Paulo, Atlas: 2014.
+
+
+---
+
+SOBRAL, F., & PECI, A. Administração: teoria e prática no contexto brasileiro, 4ª edição. São Paulo,
+Pearson Prentice Hall: 2008.
+
+TAVARES, Mauro Calixta. Gestão estratégica, 3ª edição. São Paulo, Atlas: 2010.
+
+
+---

@@ -1,0 +1,314 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 06_008_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: DIREITO PREVIDENCIÁRIO
+artigos_citados:
+- art. 219
+sumulas_citadas:
+- Súmula 425
+---
+
+# DIREITO PREVIDENCIÁRIO
+
+---
+
+---
+
+DIREITO PREVIDENCIÁRIO
+
+                                            Prof. Rubens Mauricio
+
+       
+
+
+---
+
+ Rubens Maurício
+@profrubensmauricio
+Previdenciário Diagramado
+Prof. Rubens Maurício
+
+                                                             Prof. Rubens Mauricio
+
+                        
+
+
+---
+
+RETENÇÃO DE 11%
+
+
+                                                 Prof. Rubens Mauricio
+
+            
+
+
+---
+
+        Retenção de 11%
+
+
+                           A retenção de 11% foi instituídas pela lei nº 9.711/98,
+                                     estando vigente desde 02/1999.
+
+
+                           Tal sistemática da retenção de 11% é adotada quando
+                            uma empresa (prestadora de serviço ou contratada)
+                         presta serviço a outra empresa (tomadora ou contratante)
+
+
+                                                            cessão de mão-de-obra
+                          mediante
+                                                                             empreitada
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                             
+
+
+---
+
+        Retenção de 11%
+
+
+                                 Conceito de cessão de mão-de-obra
+
+                         Entende-se como cessão de mão-de-obra a colocação à disposição
+                         do contratante, em suas dependências ou nas de terceiros, de
+                         segurados que realizem serviços contínuos, relacionados ou não com
+                         a atividade fim da empresa, independentemente da natureza e da
+                         forma de contratação, inclusive por meio de trabalho temporário na
+                         forma da lei nº 6.019, de 3 de janeiro de 1974.
+
+                                         O serviço é executado nas dependências do
+                                          contratante ou na de terceiros, nunca nas
+                                            próprias dependências do contratado.
+
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                               
+
+
+---
+
+        Retenção de 11%
+
+
+                                       Conceito de empreitada
+                         Empreitada de mão-de-obra é a execução, contratualmente
+                         estabelecida, de tarefa, de obra ou de serviço, por preço ajustado,
+                         com ou sem fornecimento de material ou uso de equipamentos, que
+                         podem ou não ser utilizados, realizada nas dependências da empresa
+                         contratante, nas de terceiros ou nas da empresa contratada, tendo
+                         como objeto um resultado pretendido.
+
+                                            não há qualquer restrição ao lugar em
+                                              que o serviço deva ser executado
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                                
+
+
+---
+
+        Retenção de 11%
+
+
+                           Procedimento da retenção
+
+                         Empresa contratante (tomadora)
+
+                           Deverá reter 11% do valor bruto da nota
+                           fiscal, fatura ou recibo de prestação de
+                               serviços emitido pela contratada
+
+                            Deverá recolher a importância retida,
+                           em nome da contratada, até o dia 20 do
+                          mês seguinte ao da emissão da nota fiscal.
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                  
+
+
+---
+
+        Retenção de 11%
+
+
+                            Procedimento da retenção
+
+                         Empresa contratada (prestadora)
+                             deverá destacar na nota fiscal o valor
+                             da retenção para a seguridade social.
+                         elaborar folha de pagamento e GFIP para cada
+                             obra ou estabelecimento contratante.
+                           compensar o valor retido pela contratante
+                         quando do recolhimento de suas contribuições
+                            incidentes sobre a folha de pagamento.
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                   
+
+
+---
+
+        Retenção de 11%
+
+
+                              Adicional RAT - Aposentadoria Especial
+
+                              O percentual de 11% será acrescido de
+                               +                                  +                               +
+                               4%            ou                   3%                   ou         2%
+
+                         aposent. especial           aposent. especial                      aposent. especial
+                           após 15 anos                após 20 anos                           após 25 anos
+
+                                    relativamente aos serviços prestados
+                                        pelos segurados empregados
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                                  
+
+
+---
+
+        Retenção de 11%
+
+
+                                                  Observações
+                         Na contratação de serviços em que a contratada se obriga a fornecer
+                         material ou dispor de equipamentos, fica facultada ao contratado a
+                         discriminação, na nota fiscal, fatura ou recibo, do valor correspondente
+                         ao material ou equipamentos, que será excluído da retenção, desde
+                         que contratualmente previsto e devidamente comprovado.
+
+                         A retenção se presumirá feita. A empresa contratante não
+                           pode alegar omissão para se eximir do recolhimento.
+
+                                A retenção exclui a responsabilidade solidária.
+
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                                 
+
+
+---
+
+        Retenção de 11%
+
+
+                                            Hipóteses de retenção
+
+                         art. 219 § 2º
+                              RPS
+                                 Serviços realizados mediante cessão de mão-de-obra
+
+                                           A lista de serviços realizados mediante
+                                         cessão de mão-de-obra, sujeitos a retenção,
+                                          é exaustiva, e encontra-se relacionada no
+                                              § 2º do art. 219 do Regulamento
+                                                    da Previdência Social
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                                
+
+
+---
+
+        Retenção de 11%
+
+
+                                              Hipóteses de retenção
+
+                         art. 219 § 3º
+                              RPS
+                                              Serviços contratados mediante
+                                               empreitada de mão-de-obra
+
+                                              a lista de serviços contratados mediante
+                                               empreitada de mão-de-obra, sujeitos a
+                                                 retenção, é exaustiva, e encontra-se
+                                         relacionada no § 3º do art. 219 do Regulamento
+                                                        da Previdência Social.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                                  
+
+
+---
+
+        Retenção de 11%
+
+
+                                 Empresa optante pelo Simples Nacional
+
+                         Súmula 425
+                            STJ
+                                      Súmula 425 do superior tribunal de justiça - STJ
+
+                                       “a retenção da contribuição para a seguridade
+                                        social pelo tomador do serviço não se aplica
+                                            às empresas optantes pelo simples”.
+
+                                 Exceto em relação às empresas optantes pelo simples nacional
+                                     que exerçam atividades de construção civil, vigilância,
+                                 limpeza e conservação (continuam sujeitos à retenção de 11%)
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                                 
+
+
+---
+
+        Retenção de 11%
+
+
+                                Contribuição Previdenciária sobre a Receita Bruta
+
+                             Lei
+                         12.546/2011
+                                       retenção nas empresas prestadoras beneficiadas
+                                           pela desoneração da folha de pagamento
+
+
+                                             a empresa contratante deverá reter
+                                            3,5% do valor bruto da nota fiscal ou
+                                               fatura de prestação de serviços.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                                
+
+
+---
+
+        Retenção de 11%
+
+                                     Cooperativa de Trabalho
+
+
+                         Não haverá retenção de 11% sobre o valor bruto da
+                          nota fiscal emitida por cooperativa de trabalho.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                         
+
+
+---

@@ -1,0 +1,952 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Trilhas Estratégicas, Simulados e Monitoria
+tags:
+- trilhas
+- planejamento
+- simulados
+- ciclo_estudos
+arquivo_origem: Aula 09_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Livro Eletrônico
+artigos_citados:
+- Art. 5º
+- art. 5º
+---
+
+# Livro Eletrônico
+
+Livro Eletrônico
+
+                               Trilha 07
+
+Receita Federal (Analista Tributário) Trilha Estratégica
+Professor: Guilherme Carvalho, Glesler Sales Maldonado
+
+                  
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+TRILHA ESTRATÉGICA - ANALISTA-TRIBUTÁRIO DA
+         RECEITA FEDERAL DO BRASIL
+Olá, pessoal!
+
+Esperamos que os estudos estejam em dia.
+
+Nessa semana, iniciaremos a Trilha Estratégica nº 07 para o concurso de Analista-Tributário da
+Receita Federal do Brasil.
+
+Caso vocês ainda não tenham terminado a Trilha nº 06, não se preocupem! Finalizem aquela e, aí
+sim, comecem a Trilha dessa semana.
+
+              “O sucesso é a soma de pequenos esforços repetidos dia após dia.”
+                                                              (Robert Collier)
+
+Não se esqueçam do link da nossa Comunidade de Alunos da Área Fiscal no Telegram. Vocês
+podem fazer a inscrição clicando no endereço eletrônico logo abaixo:
+
+                         Inscreva-se na Comunidade de alunos da Área Fiscal
+
+                                      
+
+Agora, sem mais delongas, vamos aos estudos, vamos detonar esta Trilha!
+
+A cada dia que passa que passa, você está mais próximo de se tornar Analista-Tributário da
+Receita Federal do Brasil.
+
+                                                                                            1
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                             TRILHA ESTRATÉGICA 07
+Disponibilizaremos, individualmente, nesta seção, as Trilhas de cada uma das disciplinas
+trabalhadas por nós. O objetivo é que o aluno possa fazer ajustes no seu estudo a depender do
+nível em que ele está em determinada matéria.
+
+                   Matéria                                                   Trilha de Disciplina
+    Administração de Compras e Materiais                              http://estrategi.ac/s8pmuf
+         Administração Financeira                                      http://estrategi.ac/i49ply
+            Administração Geral                                        http://estrategi.ac/zjquiu
+           Administração Pública                                      http://estrategi.ac/hhtwx0
+                Contabilidade                                         http://estrategi.ac/6as99x
+           Direito Administrativo                                      http://estrategi.ac/zft0pi
+           Direito Constitucional                                          http://estrategi.ac/asslij
+            Direito Previdenciário                                     http://estrategi.ac/vsr4dq
+              Direito Tributário                                       http://estrategi.ac/be9d16
+                  Estatística                                          http://estrategi.ac/b5lzpu
+             Fluência em Dados                                             http://estrategi.ac/xj5lzf
+                    Inglês                                             http://estrategi.ac/e83itz
+            Legislação Aduaneira                                       http://estrategi.ac/b69jaf
+            Legislação Tributária                                      http://estrategi.ac/ib6bq3
+                  Português                                            http://estrategi.ac/5jbbzt
+       Raciocínio Lógico Matemático                                    http://estrategi.ac/6ld8x9
+
+                                                                                                        2
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+Segue resumo das tarefas que abordaremos nesta trilha.
+
+  Tarefa          Disciplina                                       Resumo das tarefas
+
+106           Português             Estudo da aula 03, todo conteúdo do tópico “Pronomes”.
+
+107           Contabilidade         Estudo da aula 16 (toda teoria); e resolução de 5 questões.
+
+108           Dir. Tributário       Resolução de questões da aula 01.
+
+109           Constitucional        Estudo da aula 03, de “Direitos Individuais e Coletivos Inciso
+                                    XXXII” até “Direitos Individuais e Coletivos Inciso XLVII”,
+                                    inclusive.
+
+110           RLM                   Revisão da aula 05 (Verdades e Mentiras); e resolução de
+                                    questões do SQ.
+
+111           Dir. Admin.           Revisão da Aula 03 a partir da resolução de 40 questões no SQ.
+
+112           Português             Estudo da aula 03, todo conteúdo do tópico “Colocação
+                                    Pronominal”.
+
+113           Contabilidade         Prática de exercícios da aula 16 - Resolução de 25 questões do
+                                    PDF.
+
+114           Dir. Tributário       Revisão da aula 01 e solução de caderno do SQ.
+
+115           Constitucional        Estudo da aula 03, de “Direitos Individuais e Coletivos Inciso
+                                    XLVIII” até o final da primeira parte da aula (§ 4º); e resolução de
+                                    15 questões.
+
+116           RLM                   Estudo da aula 06 (Raciocínio Sequencial); e resolução de 7
+                                    questões.
+
+117           Dir. Admin.           Revisão da Aula 04 a partir da resolução de 40 questões no SQ.
+
+118           Contabilidade         Treino da Aula 16 - resolução de 34 questões do SQ.
+
+119           RLM                   Revisão da aula 06 (Raciocínio Sequencial); e resolução de 20
+                                    questões do PDF.
+
+120           Dir. Admin.           Revisão da Aula 05 a partir da resolução de 40 questões no SQ.
+
+                                                                                                       3
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                  TAREFA 106
+
+                                                     Português
+
+Estudo da aula 03, todo conteúdo do tópico “Pronomes”.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Nesta tarefa abordaremos os Pronomes e a Colocação Pronominal.
+
+Sobre os Pronomes, temos diversas subclassificações, que devem ser entendidas, e não
+decoradas.
+
+Na verdade, em muitas vezes a classificação é bem intuitiva, por exemplo:
+
+- os interrogativos são palavras que utilizamos em perguntas (quantos, quem, quais, etc.);
+
+- os indefinidos são abstratos e não trazem pessoa ou quantidade certa (ninguém, alguém, muito,
+mais, etc.); - os possessivos indicam posse (meu, seu, nosso, etc.);
+
+- os demonstrativos apontam coisas ou pessoas dentro do tempo e espaço (esse, aquele, nesse,
+isto, aquilo, etc);
+
+- os relativos apontam alguma relação (que, os quais, cujo, etc.);
+
+- os de tratamento indicam trato com determinadas autoridades (Vossa Senhoria, Vossa Excelência,
+etc.);
+
+- os pessoais indicam pessoas (eu, tu, ele, nós, vós, eles).
+
+Então, apesar de assustar pela quantidade de classificações, na maioria dos casos conseguimos
+acertar utilizando nossa intuição.
+
+Atenção especial aos seguintes tópicos:
+
+1. Emprego e substituição dos pronomes relativos (que, o qual, cujo, quem e onde).
+
+2. Concordância verbal nos pronomes de tratamento (Vossa Senhoria ...), a qual é feita na terceira
+pessoa, use o macete: trocar por você.
+
+3. Regras para união de pronomes oblíquos.
+
+Resolva as questões que aparecem ao longo da teoria.
+
+                                                                                                4
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+Guilherme Carvalho, Glesler Sales Maldonado
+Trilha 07
+
+                                                                         5
+      Receita Federal (Analista Tributário) Trilha Estratégica
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                  TAREFA 107
+
+                                    Contabilidade Geral e Avançada
+
+Estudo da aula 16 (toda teoria); e resolução de 5 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Nesta tarefa, você irá estudar os Princípios da Contabilidade. Tais princípios foram extraídos da
+Resolução 750/1993, revogada no ano de 2016, mas que ainda constitui base para o estudo da
+disciplina e segue sendo cobrada atualmente. Apenas para entendimento, ao revogar a referida
+resolução, o CPC trouxe o seguinte trecho: “Revogar a Resolução nº 750/1993, porém, não
+significa que os Princípios de Contabilidade estejam extintos. A revogação das resoluções visa
+à unicidade conceitual, indispensável para evitar divergências na concepção doutrinária e teórica,
+que poderiam comprometer aspectos formais das Normas Brasileiras de Contabilidade (NBCs)”.
+Por isso, segue sendo importante seu estudo.
+
+Primeiramente, perceba que os princípios são de observância obrigatória e, em suas aplicações,
+deve-se privilegiar a essência das transações sobre sua forma legal (aspectos já vistos ao longo do
+estudo).
+
+É importante principalmente memorizar os princípios e suas definições. Há um mnemônico que
+pode ajudá-lo:
+
+Entidade: diferencia o patrimônio da entidade dentro os diversos patrimônios existentes (ou seja,
+não se confunde o patrimônio da entidade com o patrimônio dos sócios);
+
+Continuidade: a entidade deve continuar em operação no futuro;
+
+Oportunidade: informações íntegras e tempestivas;
+
+Registro pelo Valor Original: os componentes patrimoniais devem ser inicialmente registrados
+pelos valores originais das transações (ou seja, adota-se o custo histórico), sendo substituídos
+posteriormente por outras bases de mensuração. É importante saber a definição de cada uma
+delas, pois comumente é cobrado em prova. O professor destaca palavras-chave que podem te
+ajudar a se lembrar. Importante saber que a atualização monetária já foi considerada um princípio,
+mas posteriormente se tornou uma das variações do princípio do Registro pelo Valor Original;
+
+Competência: as transações devem ser reconhecidas nos períodos a que se referem,
+independentemente de recebimento ou pagamento. Além disso, deve haver simultaneidade na
+confrontação das receitas e despesas;
+
+                                                                                                 6
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+Prudência: adoção do menor valor para o ativo e do maior valor para o passivo, quando houver
+alternativas igualmente válidas.
+
+Mnemônico: ECO Re Com Pru
+
+Por fim, resolva as questões de 1 a 5 ao final do PDF. Leia os comentários, a fim de fixar o conteúdo
+estudado.
+
+                                                                                                   7
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                  TAREFA 108
+
+                                                Direito Tributário
+
+Resolução de questões da aula 01.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Dirija-se para a lista de questões complementares comentadas e resolva as seguintes questões:
+pares de todas as listas
+
+Não perca muito tempo em cada questão. Aborde cada uma delas como se estivesse fazendo uma
+prova. Primeiramente, faça uma cognição sumária e marque a alternativa. Em seguida, veja o
+gabarito. Se acertou e não restou qualquer dúvida, passe para a próxima questão. Caso tenha
+                                                         ==219a34==
+
+errado ou tenha ficado entre duas ou mais alternativas, leia os comentários do professor. Se
+necessário, veja o dispositivo legal que respalda a justificativa da resposta da questão.
+
+Atenção: Marque as questões que errar para revisá-las em uma próxima oportunidade.
+
+                                                                                           8
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                  TAREFA 109
+
+                                            Direito Constitucional
+
+Estudo da aula 03, de “Direitos Individuais e Coletivos Inciso XXXII” até “Direitos Individuais
+e Coletivos Inciso XLVII”, inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Continuando o estudo do art. 5º, grife os principais pontos na própria aula. É importante ter um
+material de revisão sobre esse assunto com os principais pontos e peculiaridades de cada inciso.
+
+Nas páginas dessa aula, há muitos detalhes acerca dos incisos, mas destaco algumas informações
+que você deverá marcar e revisar sempre.
+
+O direito à informação não é irrestrito, além das informações que podem violar a segurança da
+sociedade e do Estado, informações pessoais também devem ser preservadas (ver quadro); o
+direito à petição e à certidão independe do pagamento de taxas – é uma imunidade; no Brasil,
+onde vigora o sistema de jurisdição una, todas as decisões da esfera administrativa podem ser
+submetidas ao controle judicial, sendo que em 4 situações é preciso antes postular ou mesmo
+esgotar a esfera administrativa; preste atenção não só à literalidade do inciso XXXVIII, que costuma
+ser bastante cobrada, como também às exceções à competência do tribunal do júri, que são os
+casos de foro por prerrogativa de função, e, aprofundando, à peculiaridade (exceção da exceção!)
+quando o foro é estabelecido apenas em Constituição Estadual.
+
+ As próximas considerações referem-se à retroatividade da lei benéfica e à possibilidade de
+atingir até mesmo os casos transitados em julgado. O mnemônico – 3T + hediondos não tem
+graça! – e o esquema, que tratam dos incisos XLI ao XLIV, devem ser memorizados, pois caem
+muito em provas.
+
+Quanto à vedação à transcendência das penas, saiba que existe a possibilidade de o dever de
+reparar danos ser transferido aos herdeiros, no limite do patrimônio recebido.
+
+Os próximos incisos estão relacionados aos tipos de penas admitidas e vedadas (veja o quadro-
+resumo). Tais incisos, quando presentes em provas, restringem-se à literalidade.
+
+                                                                                                  9
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 110
+
+                                      Raciocínio Lógico Matemático
+
+Revisão da aula 05 (Verdades e Mentiras); e resolução de questões do SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Vamos fazer mais uma revisão do nosso PDF. Revise as fórmulas e as principais informações da aula
+
+Após, resolva as questões do link a seguir:
+
+http://questo.es/989bk4
+
+Ao final, leia apenas os comentários das questões que errou ou que teve dúvida.
+
+Caso identifique algum ponto da matéria que não esteja tão bem consolidado, retorne à respectiva
+aula do curso regular e reforce este ponto.
+
+                                                                                              10
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 111
+
+                                            Direito Administrativo
+
+Revisão da Aula 03 a partir da resolução de 40 questões no SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Antes de continuar avançando na teoria, vamos revisar parte do que já estudamos até aqui. Este é
+um momento muito importante do nosso estudo, pois é na revisão que fixamos os principais
+conceitos estudados – e, assim, ativamos a memória de longo prazo para que nada se perca.
+
+Nesta tarefa você realizará uma breve revisão da teoria estudada na referida aula. Aproveite para
+rever seu resumo, marcações, esquemas e anotações. Uma sugestão é utilizar a Marcação dos
+Aprovados.
+
+Após, para consolidar a aprendizagem dos assuntos estudados na Aula, vamos fazer essa bateria
+de questões no SQ:
+
+Link: http://questo.es/ikzk0g
+
+Procure resolver as questões de forma proativa: antes de marcar o gabarito, fale para você mesmo
+a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do conteúdo.
+
+Depois leia os comentários do professor e melhore seus grifos/resumos no que julgar importante
+para futuras revisões.
+
+Lembre-se que o estudo por questões é mais ativo e dinâmico do que simplesmente quando se
+lê um material teórico, uma vez que, quando você responde uma questão, você tem que acessar
+aquele conteúdo teórico na sua memória, forçando assim seu cérebro.
+
+Assim, quando você resolve muitas questões, você percebe quais conteúdos são mais cobrados,
+concentrando melhor seus esforços nesses, potencializando assim seu tempo disponível.
+
+                                                                                              11
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 112
+
+                                                     Português
+
+Estudo da aula 03, todo conteúdo do tópico “Colocação Pronominal”.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+A segunda parte do material trata de Colocação Pronominal. Perceba que esse tópico se resume
+nas seguintes posições do pronome oblíquo átono:
+
+- Próclise: Pronome antes do verbo;
+
+- Ênclise: Pronome depois do verbo;
+
+- Mesóclise: Pronome no meio do verbo.
+
+Em geral, a ênclise pode ser considerada a forma padrão de colocação pronominal.
+
+Faça uma leitura atenta sobre as regras pertinentes a colocação pronominal e entenda,
+principalmente, as regras para o uso da próclise diante de palavras atrativas (advérbios,
+pronomes relativos, interrogativos, conjunções subordinativas e, normalmente, as negações), elas
+despencam nas provas.
+
+Atente para as PROIBIÇÕES GERAIS e as REGRAS ESPECIAIS.
+
+Por fim, orientamos que resolva as questões que aparecem ao longo da teoria.
+
+                                                                                             12
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 113
+
+                                    Contabilidade Geral e Avançada
+
+Prática de exercícios da aula 16 - Resolução de 25 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Inicialmente, faça uma breve revisão do conteúdo estudado na aula. Você pode fazer isso por meio
+de suas marcações e/ou pela leitura do resumo da aula
+
+Em seguida, resolva as questões 6 a 30 presentes ao final do PDF, marcando aquelas que tiver
+dúvida.
+
+A seguir, vá até a seção de Questões Comentadas e estude os comentários daquelas que errar ou
+que tiver qualquer tipo de dúvida. Isso é fundamental para internalizar o conteúdo, sanar
+dificuldades e acertar questões similares futuramente. Todas essas questões devem ser marcadas
+para serem resolvidas novamente em futuras revisões.
+
+Feito isso, quero que você volte ao seu PDF, e verifique a qualidade dos seus grifos, para
+melhorá-los, se for o caso (“tudo que foi cobrado nas questões, estava grifado em meu material?”).
+Afinal, agora você já domina melhor o conteúdo, e tem maior conhecimento sobre a forma como
+a matéria é cobrada.
+
+                                                                                              13
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 114
+
+                                               Direito Tributário
+
+Revisão da aula 01 e solução de caderno do SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Treine os assuntos estudados na aula 01 com as questões do caderno do SQ no link:
+
+http://questo.es/yunx74
+
+Depois, resolva novamente as questões que tiver errado ou que tenha deixado dúvidas, revisando
+o assunto pelo material teórico.
+
+Faça uma leitura atenta da jurisprudência e dos dispositivos legais transcritos na aula.
+
+Caso tenha tempo, faça as questões ímpares das listas da aula em PDF.
+
+                                                                                           14
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 115
+
+                                            Direito Constitucional
+
+Estudo da aula 03, de “Direitos Individuais e Coletivos Inciso XLVIII” até o final da primeira
+parte da aula (§ 4º); e resolução de 15 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Prosseguindo no estudo do art. 5º, é importante que você continue com as anotações ou grifos
+dos principais pontos da aula, pois ele é muito exigido em provas.
+
+Dando continuidade, leia rapidamente os incisos relativos à individualização da pena. Tais incisos,
+quando presentes em provas, restringem-se à literalidade, bem como o artigo relacionado à
+extradição. Quanto a este último, é preciso ter em mente que o brasileiro nato não pode ser
+extraditado, mas deve-se conhecer as hipóteses que permitem a do naturalizado (veja o quadro).
+
+Leia com muita atenção as considerações sobre os próximos incisos. Entenda o princípio do devido
+processo legal e seus 3 subprincípios, bem como a garantia ao contraditório e à ampla defesa.
+Importante saber o posicionamento do STF em relação a estes incisos e à licitude/ilicitude de
+provas (veja o quadro respectivo).
+
+Prossiga lendo as observações do professor sobre os incisos seguintes, há grande chance de serem
+cobrados na sua prova.
+
+Por fim, importante salientar que, apesar de a Constituição Federal dispor que é possível a prisão
+do depositário infiel, isto já não mais se aplica. Por dívida, apenas aquele que não paga a pensão
+alimentícia pode ser preso.
+
+Após o mapa-mental que trata dos atos gratuitos (necessários ao exercício da cidadania), leia com
+atenção a novidade trazida pelo inciso LXXIX (incluído pela EC 115/2022) que assegura a proteção
+de dados pessoais, passando a ser um direito fundamental expresso.
+
+Leia os parágrafos 1º ao 4º com intuito de conhecê-los.
+
+Ao final da leitura, resolva as questões abaixo com o intuito de reforçar o que foi lido na teoria e já
+conhecer como as bancas costumam explorar tais assuntos.
+
+- Questões pares de 01 a 30 da Lista - Direitos e Deveres Individuais e Coletivos – Art. 5º -
+XXXII a LXXIX.
+
+Sugiro que você resolva as questões pela lista com comentários, leia todas as alternativas antes de
+marcar o gabarito e só então veja a resposta. Isso vai ajudá-lo a ir se apropriando do conteúdo.
+Depois, leia os comentários do professor e grife o que julgar importante para futuras revisões.
+
+                                                                                                   15
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+E não esqueça de deixar assinaladas as questões que você errar, ou responder com dúvida. Elas
+serão muito úteis nas nossas revisões.
+
+                                                                                          16
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 116
+
+                                               Raciocínio Lógico
+
+Estudo da aula 06 (Raciocínio Sequencial); e resolução de 7 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Aqui, caro aluno, temos uma aula bem interessante, em que será abordado o Raciocínio
+Sequencial. Nela, veremos as principais sequências cobradas em Provas de Concurso, assim como
+outras sequencias específicas.
+
+Inicie a leitura da Aula de maneira mais fluída, acompanhando os exemplos trazidos pelo professor,
+e tentando identificar a regra de formação das sequências apresentadas.
+
+Uma sequência bastante tradicional em Provas de Concurso é a Sequência de Fibonacci, em que,
+de maneira geral, possui cada termo formado pela soma dos dois termos anteriores (com o 1º e 2º
+termos valendo 1).
+
+Já em relação à Progressão Aritmética (PA), é importante saber que a razão é constante e
+representada pela letra “r”. Uma Progressão Aritmética pode ser classificada como crescente (r >
+0), decrescente (r < 0) ou constante (r = 0).
+
+Para resolver as questões de PA, é fundamental conhecer as fórmulas do “Termo geral da P.A.” e
+da Soma dos termos da P.A, conforme abaixo:
+
+Na Progressão Geométrica (PG), é importante memorizar que a razão é constante e representada
+pela letra “q”. Para calcular a razão da P.G., devemos calcular a divisão entre dois termos
+consecutivos.
+
+Uma Progressão Geométrica pode ser classificada como crescente, decrescente, alternante,
+constante e alternada.
+
+Para resolver as questões de PG, é fundamental conhecer a fórmula do “Termo geral da P.G.”,
+conforme abaixo:
+
+                                                                                              17
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+Já para as demais sequências que possuem um raciocínio muito específico, o aprendizado virá
+através da resolução de questões. Por isso, é fundamental resolver diversas questões deste
+assunto, e sempre que necessário, veja a resolução do professor.
+
+A seguir, resolva as questões:
+
+1 a 3 da lista “Sequências Numéricas - FGV”;
+
+1 e 2 da lista “Sequências de Figuras - FGV”;
+
+1 e 2 da lista “Sequência de Letras e Palavras - FGV”.
+
+Utilize a lista sem comentários ao final do PDF.
+
+Após, recorra ao comentário do professor naquelas que errar ou ficar em dúvidas, marcando-as
+para futuras revisões.
+
+                                                                                         18
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 117
+
+                                            Direito Administrativo
+
+Revisão da Aula 04 a partir da resolução de 40 questões no SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Antes de continuar avançando na teoria, vamos revisar parte do que já estudamos até aqui. Este é
+um momento muito importante do nosso estudo, pois é na revisão que fixamos os principais
+conceitos estudados – e, assim, ativamos a memória de longo prazo para que nada se perca.
+
+Nesta tarefa você realizará uma breve revisão da teoria estudada na referida aula. Aproveite para
+rever seu resumo, marcações, esquemas e anotações. Uma sugestão é utilizar a Marcação dos
+Aprovados.
+
+Após, para consolidar a aprendizagem dos assuntos estudados na Aula, vamos fazer essa bateria
+de questões no SQ:
+
+Link: http://questo.es/m213j1
+
+Procure resolver as questões de forma proativa: antes de marcar o gabarito, fale para você mesmo
+a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do conteúdo.
+
+Depois leia os comentários do professor e melhore seus grifos/resumos no que julgar importante
+para futuras revisões.
+
+Lembre-se que o estudo por questões é mais ativo e dinâmico do que simplesmente quando se
+lê um material teórico, uma vez que, quando você responde uma questão, você tem que acessar
+aquele conteúdo teórico na sua memória, forçando assim seu cérebro.
+
+Assim, quando você resolve muitas questões, você percebe quais conteúdos são mais cobrados,
+concentrando melhor seus esforços nesses, potencializando assim seu tempo disponível.
+
+                                                                                              19
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 118
+
+                                    Contabilidade Geral e Avançada
+
+Treino da Aula 16 - resolução de 34 questões do SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Para consolidar a aprendizagem dos assuntos estudados na Aula, vamos fazer essa bateria de
+questões no SQ:
+
+Link: http://questo.es/iih5lw
+
+Procure resolver as questões de forma proativa: antes de marcar o gabarito, fale para você mesmo
+a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do conteúdo.
+Depois leia os comentários do professor e melhore seus grifos/resumos no que julgar importante
+para futuras revisões.
+
+                                                                                             20
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                   TAREFA 119
+
+                                               Raciocínio Lógico
+
+Revisão da aula 06 (Raciocínio Sequencial); e resolução de 20 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Vamos fazer uma revisão do nosso PDF. Primeiramente, revise as fórmulas e as principais
+informações da aula.
+
+Após, resolva as seguintes questões:
+
+4 a 11 da lista “Sequências Numéricas - FGV”;
+
+3 a 7 da lista “Sequências de Figuras - FGV”;
+
+3 a 7 da lista “Sequência de Letras e Palavras - FGV”.
+
+Caso tenha dificuldade em algum ponto, faça uma revisão mais aprofundada da teoria.
+
+Para finalizar a tarefa, se sobrar tempo, refaça as questões que errou das tarefas anteriores que se
+referem a essa aula.
+
+                                                                                                21
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                                  TAREFA 120
+
+                                            Direito Administrativo
+
+Revisão da Aula 05 a partir da resolução de 40 questões no SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Antes de continuar avançando na teoria, vamos revisar parte do que já estudamos até aqui. Este é
+um momento muito importante do nosso estudo, pois é na revisão que fixamos os principais
+conceitos estudados – e, assim, ativamos a memória de longo prazo para que nada se perca.
+
+Nesta tarefa você realizará uma breve revisão da teoria estudada na referida aula. Aproveite para
+rever seu resumo, marcações, esquemas e anotações. Uma sugestão é utilizar a Marcação dos
+Aprovados.
+
+Após, para consolidar a aprendizagem dos assuntos estudados na Aula, vamos fazer essa bateria
+de questões no SQ:
+
+Link: http://questo.es/4bmwbq
+
+Procure resolver as questões de forma proativa: antes de marcar o gabarito, fale para você mesmo
+a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do conteúdo.
+
+Depois leia os comentários do professor e melhore seus grifos/resumos no que julgar importante
+para futuras revisões.
+
+Lembre-se que o estudo por questões é mais ativo e dinâmico do que simplesmente quando se
+lê um material teórico, uma vez que, quando você responde uma questão, você tem que acessar
+aquele conteúdo teórico na sua memória, forçando assim seu cérebro.
+
+Assim, quando você resolve muitas questões, você percebe quais conteúdos são mais cobrados,
+concentrando melhor seus esforços nesses, potencializando assim seu tempo disponível.
+
+                                                                                              22
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 07
+
+                                    DICA ESTRATÉGICA
+DICA ESTRATÉGICA 07: “A CORAGEM DE ENFRENTAR SEUS MEDOS”
+
+Diz uma antiga fábula que um camundongo vivia angustiado com medo do gato.
+
+Um mágico teve pena dele e o transformou em gato. Mas aí ele ficou com medo de cão, por isso
+o mágico o transformou em pantera.
+
+Então ele começou a temer os caçadores.
+
+A essa altura o mágico desistiu. Transformou-o em camundongo novamente e disse:
+
+– Nada que eu faça por você vai ajudá-lo, porque você tem apenas a coragem de um camundongo.
+
+Do mesmo jeito, em nossas vidas, é preciso coragem para romper com o projeto que nos é
+imposto.
+
+Mas saiba que coragem não é a ausência do medo, é sim a capacidade de avançar, apesar do
+medo. Caminhar para frente e enfrentar as adversidades, vencendo os medos…
+
+É isto que devemos fazer. Não podemos nos derrotar, nos entregar por causa dos medos.
+
+Por hoje é isso, pessoal. Vou ficando por aqui. Coragem para vencer os estudos! 😉
+
+Mas você também pode me encontrar ↴
+
+Newsletter ☛ https://gleslermaldonado.substack.com
+
+Telegram ☛ 
+
+                    “Quando desistir não for uma opção, o sucesso é inevitável”
+
+                                                                           Glesler Maldonado
+
+                                                                                               23
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+Guilherme Carvalho, Glesler Sales Maldonado
+Trilha 07
+
+ 1. As Trilhas Estratégicas são meras sugestões de estudo com base em determinado objetivo
+    (área de concurso, concurso específico ou perfil). O aluno deve ficar livre para que possa
+    segui-la à risca ou fazer adaptações para o seu próprio estilo e rotina de estudo.
+ 2. Os professores do Estratégia, ao elaborarem os seus materiais, possuem o objetivo de
+    ensinar todo o conteúdo exigido pelo edital programático do concurso, além de estabelecer
+    uma sequência ideal de estudo do ponto de vista pedagógico e considerando que o aluno
+    terá tempo de estudar todo o seu material.
+ 3. Já os coaches, ao elaborarem as Trilhas Estratégicas, possuem o objetivo de fazer o aluno
+    estudar o conteúdo de acordo com um determinado custo x benefício, porém muitas vezes
+    fugindo da recomendação didática de estudo proposta pelos professores para que os
+    alunos possam fazer um estudo direcionado.
+ 4. Como dizemos sempre: o ideal é estudar todos os assuntos, revisar tudo, fazer muitos
+    exercícios de todos os assuntos e chegar na prova bom em todos os assuntos também.
+    Entretanto, são poucos aqueles alunos que dispõem de tempo para isso!
+ 5. Nosso objetivo aqui é sugerir uma sequência de estudos baseada na experiência de
+    coaches aprovados em diversos concursos para que possamos dar orientações e maiores
+    chances de aprovação aos alunos.
+
+                                                                                           24
+      Receita Federal (Analista Tributário) Trilha Estratégica
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+---

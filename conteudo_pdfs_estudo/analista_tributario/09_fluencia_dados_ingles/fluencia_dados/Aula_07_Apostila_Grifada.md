@@ -1,0 +1,5375 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 07_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Índice
+---
+
+# Índice
+
+Índice
+1)  Análise de Informações - Modelagem Lógica - Modelo Relacional
+
+
+)  Análise de Informações - Modelagem Lógica - Tabelas                                                                                                                                       8
+
+3)  Análise de Informações - Modelagem Lógica - Álgebra Relacional                                                                                                                          11
+)  Análise de Informações - Modelagem Lógica - Visões (Views)                                                                                                                              23
+..............................................................................................................................................................................................
+
+)  Análise de Informações - Modelagem Lógica - Índices (Index)                                                                                                                             26
+
+6)  Análise de Informações - Modelagem Lógica - Chaves                                                                                                                                      28
+..............................................................................................................................................................................................
+
+)  Análise de Informações - Modelagem Lógica - Relacionamentos                                                                                                                             34
+
+8)  Análise de Informações - Modelagem Lógica - Regras de Codd                                                                                                                              38
+)  Análise de Informações - Modelagem Lógica - IDEF1X                                                                                                                                      42
+..............................................................................................................................................................................................
+
+)   Resumo - Análise de Informações - Modelagem Lógica                                                                                                                                    47
+
+11)   Mapa Mental - Análise de Informações - Modelagem Lógica                                                                                                                               52
+)   Questões Comentadas - Análise de Informações - Modelagem Lógica - Multibancas                                                                                                         55
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Análise de Informações - Modelagem Lógica - Multibancas                                                                                                         112
+
+
+---
+
+                      APRESENTAÇÃO DO TÓPICO
+Meus queridos, o tópico de modelagem lógica é extremamente importante! Essa é a base para tudo
+que vamos fazer em um banco de dados. Aqui veremos os conceitos de tabelas, visões, índices e
+chaves. Vamos ver como entidades que foram imaginadas em um modelo conceitual se
+transformam em um modelo lógico e como elas podem interagir entre si. Esse é talvez um dos
+tópicos mais importantes do nosso curso, então prestem bastante atenção...
+
+      PROFESSOR DIEGO CARVALHO - www.instagram.com/professordiegocarvalho
+
+Galera, todos os tópicos da aula possuem Faixas de Incidência, que indicam se o assunto cai
+muito ou pouco em prova. Diego, se cai pouco para que colocar em aula? Cair pouco não significa
+que não cairá justamente na sua prova! A ideia aqui é: se você está com pouco tempo e precisa ver
+somente aquilo que cai mais, você pode filtrar pelas incidências média, alta e altíssima; se você tem
+tempo sobrando e quer ver tudo, vejam também as incidências baixas e baixíssimas. Fechado?
+
+                                       INCIDÊNCIA EM PROVA: baixíssima
+                                         INCIDÊNCIA EM PROVA: baixa
+                                         INCIDÊNCIA EM PROVA: média
+                                         INCIDÊNCIA EM PROVA: ALTA
+                                       INCIDÊNCIA EM PROVA: Altíssima
+
+Além disso, essas faixas não são por banca – é baseado tanto na quantidade de vezes que caiu em
+prova independentemente da banca e também em minhas avaliações sobre cada assunto...
+
+
+---
+
+---
+
+---
+
+                                     MODELAGEM LÓGICA
+                                                                                      INCIDÊNCIA EM PROVA: baixíssima
+
+
+Pessoal, chegou a hora de estudar a modelagem lógica – que é um tipo de modelagem menos
+abstrata mais próxima do modelo físico! Existem diversas implementações de modelo lógico:
+
+                                      Principais Modelos de dados
+             MODELO                               MODELO                               MODELO
+             PLANO                                EM REDE                           HIERÁRQUIICO
+
+    Consiste em matrizes simples,      Permite que várias tabelas sejam    Variação do Modelo em Rede que
+   bidimensionais, compostas por       utilizadas simultaneamente por      limita as relações a uma estrutura
+  elementos de dados – é a base de           meio de referências ou          semelhante à estrutura de uma
+        planilhas eletrônicas.                   apontadores.                            árvore.
+
+            MODELO                                MODELO                             MODELO
+      ORIENTADA A OBJETOS                       relacional                    HIERÁRQUICO-RELACIONAL
+
+                                       Trata os dados como uma coleção     Combina a simplicidade do modelo
+  Trata os dados como objetos que
+                                       de tabelas compostas por linhas e        relacional com algumas
+ possuem propriedades (atributos) e
+                                      colunas e relacionadas por meio de     funcionalidades avançadas do
+        operações (métodos).
+                                                    chaves.                   modelo orientado a objetos.
+
+
+---
+
+Modelo Relacional
+                                                                                                INCIDÊNCIA EM PROVA: ALTA
+
+
+                                                               Galera, nós podemos dizer que os bancos de dados
+                                                               relacionais são aqueles que se baseiam no princípio
+                                                               de que todos os dados devem estar armazenados
+                                                               em tabelas. Criado em 1970, ele foi proposto
+                                                               originalmente para separar o armazenamento
+                                                               físico dos dados de sua representação conceitual,
+                                                               e para fornecer uma base matemática para a
+                                                               representação e a consulta dos dados
+                                                               fundamentado em lógica de predicados e teoria
+                                                               dos conjuntos.
+
+Quando você abre um arquivo do Excel, você visualiza os dados em uma tabela! Concordam? Isso
+não significa que os dados estejam também armazenados fisicamente no banco de dados como
+uma tabela – uma coisa é a representação física dos dados e outra coisa é a representação
+conceitual! O Modelo de Dados trata da representação conceitual dos dados fisicamente
+armazenados. E esse lance de base matemática, professor? Eu nem curto matemática...
+
+Relaxa, galera! Isso só significa que o Modelo Relacional é capaz de representar dados por meio
+de uma linguagem matemática, utilizando teoria de conjuntos e lógica de predicado de
+primeira ordem. O Modelo de Dados Relacional também introduziu linguagens de consulta mais
+intuitivas do que as que existiam anteriormente, oferecendo uma alternativa às interfaces de
+linguagem de programação e tornando muito mais rápida a escrita de novas consultas.
+
+Uma das melhores utilidades de um banco de dados é poder consultá-lo. Vocês se lembram do
+exemplo da multa? Pois é, você estava consultando uma base de dados por multas de um
+determinado veículo. No entanto, o banco de dados relacional não fala português ou inglês... ele
+possui a língua dele! Fiquem tranquilos que vai chegar a hora de falar sobre isso também, apenas
+guardem que os modelos relacionais trouxeram linguagens mais intuitivas.
+
+
+     (EBSERH – 2013) Ao longo da história da tecnologia foram criados os seguintes modelos
+     padrões de Banco de Dados, EXCETO:
+
+     a) Hierárquico.
+     b) em Rede.
+     c) Binário.
+     d) Relacional.
+     _______________________
+     Comentários: todos são modelos padrões, exceto o Modelo Binário (Letra C).
+
+
+---
+
+Galera, o modelo relacional efetivamente representa o banco de dados como uma coleção de
+relações. O que é uma relação? Informalmente, cada relação é semelhante a uma tabela de valores
+em que cada linha na tabela representa uma coleção de valores de dados relacionados. Uma linha
+representa um fato que normalmente corresponde a uma entidade ou relacionamento do mundo
+real. Entendido?
+
+Os nomes das tabelas e das colunas são usados para ajudar a interpretar o significado dos
+valores em cada linha. Exemplo: uma tabela em que cada linha representa fatos sobre alunos
+provavelmente se chamará ALUNO. As colunas dessa tabela especificam como interpretar os valores
+em que cada valor se encontra, sendo que todos os valores em uma coluna são do mesmo tipo de
+dado (Exemplo: NOME DO ALUNO, NUMERO DO ALUNO, TIPO DE ALUNO, CURSO).
+
+                                                                           Tabela/relação
+                  Coluna/atributo*
+
+     Diego Carvalho                      1357981                          Bolsista                 Ciência da Computação
+     Renato da Costa                     2121578                          Regular                Engenharia da Computação
+
+                                                              Domínio/tipo                                       Linha/tupla
+
+                       * A quantidade de colunas de uma relação é chamada de Grau ou Aridade da Relação.
+
+
+Então, vamos lá! Nós sabemos que o Modelo Relacional é baseado em tabelas compostas de linhas
+e colunas. Na terminologia formal, a tabela é chamada de relação, as linhas são chamadas de
+tuplas e as colunas são chamadas de atributos. Por fim, o Domínio trata do tipo de dados que
+descreve os tipos de valores possíveis que podem aparecer em cada coluna. Exemplo: uma coluna
+DATA DE NASCIMENTO permite valores de data apenas. Vamos resumir:
+
+
+---
+
+(IFB – 2017) Segundo Elmasri (2011), na terminologia formal do modelo relacional, uma
+linha, um cabeçalho de coluna e a tabela, são chamados, respectivamente, de:
+
+a) Registro, atributo, domínio
+b) Tupla, atributo e relação
+c) Registro, atributo e relação
+d) Relação, domínio e registro
+e) Relação, tupla e registro
+_______________________
+Comentários: na terminologia formal, uma linha é uma tupla; um cabeçalho de coluna é um atributo; e uma tabela é uma
+relação (Letra B).
+
+(MPE/RN – 2010) Na terminologia do Modelo Relacional, cada linha da tabela é chamada
+de I a tabela é denominada II o nome da coluna é denominado III. As lacunas I, II e III são
+preenchidas de forma correta, respectivamente, por:
+
+a) registro, arquivo e campo.
+b) tupla, relação e atributo.
+c) esquema, instância e domínio.
+d) registro, relação e domínio.
+e) tupla, instância e atributo.
+_______________________
+Comentários: cada linha da tabela é chamada de tupla; a tabela é denominada relação; e o nome da coluna é denominado
+atributo (Letra B).
+
+(TCE/SE – 2011) Uma instância de uma tabela relacional, formada por uma lista
+ordenada de colunas. Trata-se de:
+
+a) tupla.
+b) chave estrangeira.
+c) domínio.
+d) cardinalidade.
+e) atributo.
+_______________________
+Comentários: a instância de uma tabela é também chamada de tupla (Letra A).
+
+
+---
+
+A definição dada de relações implica certas características que tornam uma relação diferente de um
+arquivo ou uma tabela. Professor, você não disse que relações são tabelas? Grosso modo, elas são a
+mesma coisa! Sendo rigoroso, há algumas pequenas diferenças de características que veremos
+logo abaixo. Vem comigo...
+
+                     Uma relação é definida como um conjunto de tuplas. Tanto na matemática quanto na
+                     modelagem relacional de bancos de dados, trata-se de um conjunto de elementos não
+                     duplicados que não possuem ordem entre si. Logo, as tuplas em uma relação não possuem
+                     nenhuma ordem em particular, isto é, uma relação não é sensível à ordenação das linhas. Por
+                     que, professor? Porque muitas ordens podem ser especificadas para uma mesma relação – você
+                     pode escolher ordenar uma relação de diversas maneiras diferentes em relação às tuplas.
+
+                     Em uma relação, é irrelevante a ordenação das tuplas, mas a ordenação dos atributos/colunas
+                     pode ser relevante dependendo do nível de abstração. Existe uma divergência na literatura
+                     quanto a ordenação dos componentes em uma tupla. Edgar Codd, no artigo original que
+                     estabeleceu cos conceitos do modelo relacional, afirma que a ordem das colunas é significativa.
+                     Navathe segue nessa mesma linha, afirmando que uma tupla é uma lista ordenada de valores,
+                     de modo que a ordem dos valores em uma tupla — e, portanto, dos atributos em um esquema
+                     de relação — é importante. Entretanto, o mesmo Navathe complementa seu texto com a
+                     seguinte frase: “... em um nível mais abstrato, a ordem dos atributos e seus valores não é tão
+                     importante, desde que a correspondência entre atributos e valores seja mantida”.
+                     Cada valor em uma tupla é um valor atômico, ou seja, ele não é divisível em componentes dentro
+                     da estrutura básica do modelo relacional. Logo, atributos compostos ou multivalorados não são
+                     permitidos. Um conceito importante é o dos valores NULL, que são usados para representar os
+                     valores de atributos que podem ser desconhecidos ou não se aplicam a uma tupla. Um valor
+                     especial – chamado NULL – é usado nesses casos. Imaginem a famosa tabela de alunos de uma
+                     escola com uma coluna adicional: Telefone Residencial! Muitas pessoas atualmente não
+                     possuem mais telefone residencial – eu, por exemplo, não possuo. Se eu estudo nessa escola e
+                     não possuo um telefone residencial, o que a coluna de Telefone Residencial deve armazenar?
+                     Nada, porque ou o valor é desconhecido ou o valor não existe ou o valor não se aplica!
+                     O esquema de relação pode ser interpretado como uma declaração ou um tipo de afirmação (ou
+                     asserção). Como assim, professor? Lembrem-se novamente da Tabela ALUNO! Uma entidade
+                     de aluno tem um Nome, CPF, Telefone, Endereço, Idade, entre outros. Cada tupla na relação
+                     pode então ser interpretada como um fato ou uma instância em particular da afirmação.
+                     Algumas relações podem representar fatos sobre entidades e outras sobre relacionamentos.
+
+     (TCE/PE – 2017) Em uma relação, os nomes das colunas são únicos, as linhas são distintas
+     entre si, e a ordem da disposição das linhas e colunas é irrelevante para o banco de dados.
+     _______________________
+     Comentários: os nomes das colunas são realmente únicos; as linhas são realmente distintas entre si; e a ordem da disposição
+     das linhas é realmente irrelevante, mas a ordem da disposição das colunas é relevante (Errado).
+
+
+---
+
+Vamos agora falar sobre Álgebra Relacional! Vocês se lembram que nós falamos que o Modelo
+Relacional utiliza uma fundamentação teórica de teoria dos conjuntos? Pois é, agora nós vamos
+entender isso melhor! A Álgebra Relacional recebia pouca atenção fora do campo da matemática
+pura até à publicação em 1970 do modelo relacional de dados de Edgar Frank Codd. Codd propôs a
+tal álgebra como a base das linguagens de consulta de banco de dados.
+
+Definimos – assim – a álgebra relacional como uma linguagem de consulta formal, isto é, uma
+coleção de operações de alto nível sobre relações ou conjuntos cujo resultado seja uma nova
+relação ou conjunto. As operações em questão são: Seleção, Projeção, Produto Cartesiano, União,
+Diferença, Junção e Intersecção. Sendo que as cinco primeiras são primitivas (não podem ser
+obtidas a partir de outras) e as duas últimas são derivadas.
+
+
+     (TCE/ES – 2013) O conjunto de operações cujo resultado seja uma nova relação e que
+     envolve seleção, projeção, união e produto cartesiano é denominado:
+
+     a) mapeamento de cardinalidades.
+     b) álgebra relacional.
+     c) generalização.
+     d) chave primária
+     e) herança.
+     _______________________
+     Comentários: conjunto de operações cujo resultado seja uma nova relação é a Álgebra Relacional. Lembrem-se sempre de que
+     qualquer operação sobre uma tabela resultará em uma nova tabela (Letra B).
+
+
+---
+
+               σ
+
+
+                                     σ        LISTA DE condições              (RELAÇÃO)
+                                       -- SELECIONA LINHAS QUE SATISFAZEM UM PREDICADO OU UMA CONDIÇÃO --
+
+
+Trata-se de uma operação unária que filtra as linhas de uma tabela que satisfazem um conjunto
+de condições ou predicados. Vamos ver um exemplo: imaginem que desejamos selecionar apenas
+os professores maiores de 35 anos da tabela abaixo. Para tal, nós poderíamos realizar a seguinte
+operação algébrica: σ IDADE>35 (PROFESSOR).
+
+
+  NOME PROFESSOR             CPF           IDADE               NOME DISCIPLINA                               NATURALIDADE
+  DIEGO CARVALHO        111.111.111-11       21                  INFORMÁTICA                                DISTRITO FEDERAL
+  RENATO DA COSTA      222.222.222-22        54                  INFORMÁTICA                                  RIO DE JANEIRO
+    RICARDO VALE       333.333.333-33        40            DIREITO CONSTITUCIONAL                             MINAS GERAIS
+  ROSENVAL JÚNIOR      444.444.444-44        32               DIREITO AMBIENTAL                               Minas gerais
+  HERBERT ALMEIDA      555.555.555-55        19            DIREITO ADMINISTRATIVO                            Espírito santo
+
+  NOME PROFESSOR             CPF           IDADE               NOME DISCIPLINA                               NATURALIDADE
+  RENATO DA COSTA       222.222.222-22       54                  INFORMÁTICA                                 RIO DE JANEIRO
+    RICARDO VALE        333.333.333-33       40            DIREITO CONSTITUCIONAL                            MINAS GERAIS
+
+Notem que o resultado só contempla Renato da Costa e Ricardo Vale porque eles possuem idade
+maior que 35. Lembrando que você pode utilizar quantas condições desejar :)
+
+
+     (CEHAP/PB – 2009) A álgebra relacional é a base matemática de bancos de dados
+     relacionais. A álgebra relacional pode ser definida como linguagem de consulta formal e
+     procedimental. Para banco de dados, podem ser utilizadas diversas operações
+     provenientes da teoria de conjuntos. A seleção (select), em banco de dados relacional, é:
+
+     a) o resultado de todas as tuplas que pertencem às relações presentes em uma operação.
+     b) uma relação que parte de duas outras, levando as tuplas comuns e não-comuns a
+     ambas.
+     c) utilizada para escolher subconjunto de tuplas em uma relação que satisfaça condição
+     de seleção predefinida.
+     d) executada em apenas uma relação, e o resultado é uma nova relação.
+     _______________________
+     Comentários: (a) Errado, isso seria uma união; (b) Errado, isso seria um produto; (c) Correto, definição clássica da operação de
+     seleção; (d) Correto, não vejo nenhum erro nesse item, mas a banca o considerou errado (Letra C).
+
+
+---
+
+                                     π       LISTA DE ATRIBUTOS              (RELAÇÃO)
+                                      -- PROJETA UMA NOVA TABELA APENAS COM OS ATRIBUTOS ESPECIFICADOS --
+
+
+Trata-se de uma operação unária que seleciona as colunas especificadas de todas as linhas da
+relação, excluindo as linhas duplicadas do resultado (chamadas de duplicatas). Em contraste com
+a operação de Seleção – que seleciona as linhas que satisfazem uma condição –, a operação de
+Projeção projeta as colunas especificadas na lista de atributos. Vamos ver um exemplo:
+
+Imaginem que desejamos projetar uma nova tabela apenas com o Nome e CPF dos professores.
+Para tal, nós poderíamos realizar a seguinte operação algébrica: π nome PROFESSOR, cpf (PROFESSOR).
+
+
+  NOME PROFESSOR             CPF           IDADE               NOME DISCIPLINA                               NATURALIDADE
+  DIEGO CARVALHO        111.111.111-11       21                  INFORMÁTICA                                DISTRITO FEDERAL
+  RENATO DA COSTA      222.222.222-22        54                  INFORMÁTICA                                  RIO DE JANEIRO
+    RICARDO VALE       333.333.333-33        40            DIREITO CONSTITUCIONAL                             MINAS GERAIS
+  ROSENVAL JÚNIOR      444.444.444-44        32               DIREITO AMBIENTAL                               Minas gerais
+  HERBERT ALMEIDA      555.555.555-55        19            DIREITO ADMINISTRATIVO                            Espírito santo
+
+                                                NOME PROFESSOR                  CPF
+                                                 DIEGO CARVALHO            111.111.111-11
+                                                RENATO DA COSTA           222.222.222-22
+                                                  RICARDO VALE            333.333.333-33
+                                                ROSENVAL JÚNIOR           444.444.444-44
+                                                HERBERT ALMEIDA           555.555.555-55
+
+
+     (MPE/ES – 2013) Dentre os diversos tipos de operações disponibilizadas em um banco
+     de dados relacional está, por exemplo, a realização de consultas sobre valores
+     armazenados em tabelas. A operação que consiste em definir quais devem ser as colunas
+     a serem exibidas em uma consulta é a:
+
+     a) divisão.
+     b) multiplexação.
+     c) projeção.
+     d) seleção.
+     e) união.
+     _______________________
+     Comentários: definir ou selecionar as colunas que devem ser exibidas é uma Projeção (Letra C).
+
+
+---
+
+                              (Relação A)                        X (Relação B)
+                         -- RESULTA EM UMA NOVA TABELA COM TODAS AS COMBINAÇÕES DE LINHAS DE AMBAS AS RELAÇÕES --
+
+
+Também chamado de Produto Cruzado ou Junção Cruzada, trata-se de uma operação binária que
+produz um resultado que combina as linhas de uma tabela com as linhas de outra tabela.
+
+
+   NOME PROFESSOR             CPF                                                                NOME DISCIPLINA      código
+    DIEGO CARVALHO       111.111.111-11                                                            INFORMÁTICA         101
+   RENATO DA COSTA      222.222.222-22                                                       DIREITO CONSTITUCIONAL    102
+     RICARDO VALE       333.333.333-33                                                          DIREITO AMBIENTAL      103
+   ROSENVAL JÚNIOR      444.444.444-44                                                       DIREITO ADMINISTRATIVO    104
+   HERBERT ALMEIDA      555.555.555-55
+
+
+            NOME PROFESSOR                            CPF                               NOME DISCIPLINA               CÓDIGO
+             DIEGO CARVALHO                      111.111.111-11                           INFORMÁTICA                  101
+            RENATO DA COSTA                     222.222.222-22                            Informática                  101
+              RICARDO VALE                      333.333.333-33                            Informática                  101
+            ROSENVAL JÚNIOR                     444.444.444-44                            Informática                  101
+            HERBERT ALMEIDA                     555.555.555-55                            informática                  101
+             DIEGO CARVALHO                      111.111.111-11                     DIREITO CONSTITUCIONAL             102
+            RENATO DA COSTA                     222.222.222-22                      DIREITO CONSTITUCIONAL             102
+              RICARDO VALE                      333.333.333-33                      DIREITO CONSTITUCIONAL             102
+            ROSENVAL JÚNIOR                     444.444.444-44                      DIREITO CONSTITUCIONAL             102
+            HERBERT ALMEIDA                     555.555.555-55                      DIREITO CONSTITUCIONAL             102
+             DIEGO CARVALHO                      111.111.111-11                        DIREITO AMBIENTAL               103
+            RENATO DA COSTA                     222.222.222-22                         DIREITO AMBIENTAL               103
+              RICARDO VALE                      333.333.333-33                         DIREITO AMBIENTAL               103
+            ROSENVAL JÚNIOR                     444.444.444-44                         DIREITO AMBIENTAL               103
+            HERBERT ALMEIDA                     555.555.555-55                         DIREITO AMBIENTAL               103
+             DIEGO CARVALHO                      111.111.111-11                     DIREITO ADMINISTRATIVO             104
+            RENATO DA COSTA                     222.222.222-22                      DIREITO ADMINISTRATIVO             104
+              RICARDO VALE                      333.333.333-33                      DIREITO ADMINISTRATIVO             104
+            ROSENVAL JÚNIOR                     444.444.444-44                      DIREITO ADMINISTRATIVO             104
+            HERBERT ALMEIDA                     555.555.555-55                      DIREITO ADMINISTRATIVO             104
+
+Notem que o resultado contempla todas as combinações das duas tabelas. Além disso, a
+quantidade de colunas é igual à soma das colunas das tabelas e a quantidade de linhas é igual ao
+
+
+---
+
+produto da quantidade de linhas de cada tabela. Dessa forma, a tabela resultante tem quatro
+colunas porque ambas as tabelas do produto cartesiano possuem duas colunas (2+2 = 4). Ademais,
+a tabela resultante tem vinte linhas porque as combinações geram 5*4 = 20 linhas.
+
+
+     (UFC – 2018) De acordo com a álgebra relacional, marque a opção que contenha apenas
+     operações fundamentais.
+
+     a) Divisão, seleção, diferença.
+     b) Agregação, projeção, união.
+     c) Junção natural, seleção, projeção.
+     d) Seleção, projeção, produto cartesiano.
+     e) Interseção, produto cartesiano, junção natural.
+     _______________________
+     Comentários: (a) Errado, divisão não é uma operação da álgebra relacional; (b) Errado, agregação não é uma operação da
+     álgebra relacional; (c) Errado, junção natural não é uma operação da álgebra relacional; (d) Correto; (e) Errado, junção natural
+     não é uma operação da álgebra relacional (Letra D).
+
+
+---
+
+             ⋈
+
+
+                           RELAÇÃO a                     ⋈            condição        RELAÇÃO b
+                       -- RESULTA EM UMA NOVA TABELA COM TODAS AS COMBINAÇÕES DE LINHAS QUE SATISFAZEM ALGUMA CONDIÇÃO --
+
+
+Assim como o Produto Cartesiano, trata-se de uma operação binária que produz um resultado
+que combina as linhas de uma tabela com as linhas de outra tabela. No entanto, isso gera um
+bocado de linhas que não tem nenhum sentido, portanto a junção realiza uma seleção de linhas cujo
+valor de uma determinada coluna de uma tabela é igual ao valor de uma determinada coluna de
+outra tabela. Professor, não entendi nada! Relaxem, vocês vão entender com o exemplo...
+
+Se desejarmos – em uma única tabela – as linhas da Tabela                 e da Tabela                                             cujo
+          seja igual a            , temos que: PROFESSOR ⋈ CÓDIGO = CÓDIGO DISCIPLINA.
+
+
+ NOME PROFESSOR       CPF              CÓDIGO                                                             NOME DISCIPLINA              Código
+  DIEGO CARVALHO 111.111.111-11         101                                                                 INFORMÁTICA                 101
+ RENATO DA COSTA 222.222.222-22         101                                                           DIREITO CONSTITUCIONAL            102
+   RICARDO VALE  333.333.333-33         102                                                              DIREITO AMBIENTAL              103
+ ROSENVAL JÚNIOR 444.444.444-44         103                                                           DIREITO ADMINISTRATIVO            104
+ HERBERT ALMEIDA 555.555.555-55         104
+
+
+             NOME PROFESSOR                              CPF                    CÓDIGO                            NOME DISCIPLINA
+              DIEGO CARVALHO                        111.111.111-11               101                                INFORMÁTICA
+             RENATO DA COSTA                       222.222.222-22                101                                Informática
+               RICARDO VALE                        333.333.333-33                102                          DIREITO CONSTITUCIONAL
+             ROSENVAL JÚNIOR                       444.444.444-44                103                             DIREITO AMBIENTAL
+             HERBERT ALMEIDA                       555.555.555-55                104                          DIREITO ADMINISTRATIVO
+
+Notem quem a Operação Junção remove as colunas duplicadas, caso contrário teríamos duas
+colunas com o nome de CÓDIGO. Bacana?
+
+
+     (MPE/RS – 2008) Quando dois conjuntos de dados são concatenados de acordo com
+     uma determinada condição, representa o resultado da operação relacional:
+
+     a) junção      b) união                            c) restrição                     d) projeção                   e) intersecção
+     _______________________
+     Comentários: dois conjuntos de dados concatenados dada uma condição é operação da junção (Letra A).
+
+
+---
+
+          ⋃
+
+                                    TABELA a                    ⋃ TABELA b
+                          -- RESULTA NA UNIÃO DAS LINHAS DE DUAS TABELAS COM ELIMINAÇÃO AUTOMÁTICA DE DUPLICATAS --
+
+
+Trata-se de uma operação binária que produz como resultado uma nova tabela que contém
+todas as linhas da primeira tabela seguidas de todas as linhas da segunda tabela. A tabela
+resultante possui a mesma quantidade de colunas que as tabelas originais, e tem um número de
+linhas que é – no máximo – igual à soma das linhas de ambas as tabelas. Por que, professor? Porque
+essa operação elimina automaticamente qualquer linha que esteja duplicada.
+
+Professor, é possível unir duas tabelas que tenham quantidades de colunas diferentes? Não! Vamos
+ver um exemplo: vamos unir as Tabelas PROFESSOR e ALUNO na Tabela RESULTADO.
+
+
+       NOME           CPF                CÓDIGO                                              NOME                   CPF         CÓDIGO
+  DIEGO CARVALHO 000.000.000-00           101                                              romário             555.555.555-55    101
+ RENATO DA COSTA 111.111.111-11           101                                           Roberto carlos         666.666.666-66    101
+   RICARDO VALE  222.222.222-22           102                                            Ronaldo fofo          777.777.777-77    102
+ ROSENVAL JÚNIOR 333.333.333-33           103                                              Rivaldo             888.888.888-88    103
+ HERBERT ALMEIDA 444.444.444-44           104                                           Ronaldo gaúcho         999.999.999-99    104
+
+                   NOME                                            CPF                                                CÓDIGO
+              DIEGO CARVALHO                                 000.000.000-00                                            101
+             RENATO DA COSTA                                  111.111.111-11                                           101
+               RICARDO VALE                                  222.222.222-22                                            102
+             ROSENVAL JÚNIOR                                 333.333.333-33                                            103
+             HERBERT ALMEIDA                                 444.444.444-44                                            104
+                  romário                                    555.555.555-55                                            101
+             Roberto carlos                                  666.666.666-66                                            101
+               Ronaldo fofo                                  777.777.777-77                                            102
+                  Rivaldo                                    888.888.888-88                                            103
+             Ronaldo gaúcho                                  999.999.999-99                                            104
+
+Observação importante: essa operação somente pode ser realizada se as tabelas forem união
+compatíveis, isto é, possuírem a mesma estrutura. Como assim, professor? Basicamente, a mesma
+estrutura contempla dois requisitos: (1) as tabelas devem possuir a mesma quantidade de colunas;
+(2) as colunas das tabelas devem possuir o mesmo domínio. Cara, professor... agora deu ruim para
+mim! Pode explicar melhor? Claro que eu posso!
+
+
+---
+
+Suponham que temos duas tabelas: uma com cinco colunas e outra com apenas duas colunas. A
+união dessas duas tabelas geraria essa coisa esquisita mostrada abaixo:
+
+
+                        COLUNA 1         COLUNA 2   COLUNA 3    COLUNA 4        COLUNA 5
+                         VALOR            VALOR      VALOR       VALOR           VALOR
+                         VALOR            VALOR      VALOR       VALOR           VALOR
+                         VALOR            VALOR
+                         VALOR            VALOR
+                                                       ?           ?              ?
+E se as tabelas tivessem colunas com domínios diferentes? Vejam as duas tabelas abaixo! Elas
+possuem a mesma quantidade de colunas, mas observem que a Coluna DATA DE NASCIMENTO e a
+Coluna CÓDIGO possuem domínios diferentes. A primeira guarda somente datas e o segundo guarda
+somente números. Isso não é permitido porque uma coluna pode ter apenas um único domínio.
+Vocês entenderam essa parada? Caso não, mandem ver no fórum...
+
+
+       NOME           CPF          Dt nascimento                    NOME               CPF        CÓDIGO
+  DIEGO CARVALHO 000.000.000-00     12/10/1988                    romário        555.555.555-55    101
+ RENATO DA COSTA 111.111.111-11     11/04/1961                 Roberto carlos    666.666.666-66    101
+   RICARDO VALE  222.222.222-22     17/07/1979                  Ronaldo fofo     777.777.777-77    102
+ ROSENVAL JÚNIOR 333.333.333-33     01/12/1983                    Rivaldo        888.888.888-88    103
+ HERBERT ALMEIDA 444.444.444-44     28/02/1977                 Ronaldo gaúcho    999.999.999-99    104
+
+
+---
+
+                      ∩
+
+
+                                         TABELA a                    ∩ TABELA b
+                          -- RESULTA EM UMA NOVA TABELA QUE CONTÉM OS ELEMENTOS EM COMUM ÀS DUAS TABELAS SEM REPETIÇÕES --
+
+
+Trata-se de uma operação binária que produz como resultado uma tabela que contém, sem
+repetições, todos os elementos que são comuns às duas tabelas fornecidas como operandos. É
+importante ressaltar que a mesma restrição que valia para a operação de União também vale para
+a operação de Intersecção, isto é, as tabelas devem ser união compatíveis e possuir a mesma
+quantidade de colunas e elas devem possuir o mesmo domínio. Bacana?
+
+
+       NOME               CPF               Dt nascimento                                 NOME                     CPF         Dt nascimento
+  DIEGO CARVALHO     111.111.111-11          12/10/1988                              DIEGO CARVALHO           111.111.111-11    12/10/1988
+ RENATO DA COSTA    222.222.222-22           11/04/1961                               Marcos girão           666.666.666-66     01/08/1968
+   RICARDO VALE     333.333.333-33           17/07/1979                               Décio terror           777.777.777-77     27/06/1976
+ ROSENVAL JÚNIOR    444.444.444-44           01/12/1983                             RENATO DA COSTA          999.999.999-99     11/04/1961
+ HERBERT ALMEIDA    555.555.555-55           28/02/1977                             Guilherme neves          888.888.888-88     11/04/1961
+
+                   NOME                                               CPF                                          Dt nascimento
+              DIEGO CARVALHO                                     111.111.111-11                                      12/10/1988
+
+Professor, por que Renato da Costa não está na intersecção? Cuidado! São duas pessoas com o
+mesmo NOME e DT NASCIMENTO, mas possuem CPF diferentes – são apenas homônimos.
+
+
+     (UFRJ – 2010) Dadas duas relações A e B do mesmo tipo, uma relação de tipo igual, cujo
+     conteúdo contém todas as tuplas que aparecem tanto em A quanto em B, será obtida
+     por meio da operação relacional:
+
+     a) união.
+     b) interseção.
+     c) projeção.
+     d) junção.
+     e) produto cartesiano.
+     _______________________
+     Comentários: essa questão possui uma redação bastante ambígua. “Tanto em A quanto em B” pode significar uma união ou
+     uma interseção. De toda forma, a questão considerou como correta a interseção, mas eu acredito que caberia recurso (Letra B).
+
+
+---
+
+                                         TABELA a TABELA b           -
+                       -- RESULTA EM UMA NOVA TABELA QUE CONTÉM AS LINHAS PRESENTES NA TABELA A E AUSENTES NA TABELA B --
+
+
+Trata-se de uma operação binária que produz como resultado uma tabela que contém todas as
+linhas que existem na primeira tabela e não existem na segunda tabela. No caso do exemplo
+abaixo, observem que o resultado trará as linhas que estão na Tabela PROFESSOR ESCOLAR que não
+estão na Tabela PROFESSOR UNIVERSITÁRIO. Fácil, não é?
+
+
+       NOME              CPF             Dt nascimento                                  NOME                      CPF         Dt nascimento
+  DIEGO CARVALHO    111.111.111-11        12/10/1988                               DIEGO CARVALHO            111.111.111-11    12/10/1988
+ RENATO DA COSTA   222.222.222-22         11/04/1961                                Marcos girão            666.666.666-66     01/08/1968
+   RICARDO VALE    333.333.333-33         17/07/1979                                Décio terror            777.777.777-77     27/06/1976
+ ROSENVAL JÚNIOR   444.444.444-44         01/12/1983                              RENATO DA COSTA           222.222.222-22     11/04/1961
+ HERBERT ALMEIDA   555.555.555-55         28/02/1977                              Guilherme neves           888.888.888-88     11/04/1985
+
+                                           NOME                     CPF                Dt nascimento
+                                       RICARDO VALE           333.333.333-33            17/07/1979
+                                     ROSENVAL JÚNIOR          444.444.444-44            01/12/1983
+                                     HERBERT ALMEIDA          555.555.555-55            28/02/1977
+
+     (TCE/PA – 2012) Em banco de dados, a diferença entre duas instâncias é:
+
+     a) o conjunto de todas as instâncias i pertencentes a A ou B ou ambos, quando A e B
+     possuem uma união compatível.
+
+     b) o conjunto de todas as instâncias i pertencentes a A e B, quando A e B possuem uma
+     união compatível.
+
+     c) o conjunto de todas as instâncias i pertencentes a A mas não pertencentes a B, quando
+     A e B possuem uma união compatível.
+
+     d) o conjunto de todas as instâncias i, quando i é a concatenação de uma instância x de A
+     com uma instância y de B.
+
+     e) o conjunto de valores n, tais que os pares (n, m) aparecem em A para todos os valores
+     m que aparecem em B.
+
+
+---
+
+     _______________________
+     Comentários: trata-se do conjunto de todas as linhas pertencentes a A, mas não pertencentes a B, quando A e B possuem uma
+     união compatível. Ignorem – por ora – as outras opções e alguns termos (Letra C).
+
+Vamos resumir o que vimos sobre as operações de Álgebra Relacional? A tabela abaixo apresenta
+tudo que vocês precisam saber, mas antes vamos ver dois detalhes: primeiro, uma operação
+pode ser unária, quando trata de apenas de uma tabela (Ex: σ(T1)); e pode ser binária, quando trata
+de duas tabelas (Ex: T1 ⋈ T2); segundo, uma operação é dita comutativa quando a ordem da
+operação é indiferente. Vamos ver um exemplo?
+
+  σCONDIÇÃO1(σCONDIÇÃO2(TABELA)) = σCONDIÇÃO2(σCONDIÇÃO1(TABELA))
+Observem que a ordem das condições está invertida, mas o resultado é o mesmo! Logo, a
+ordem das operações é indiferente. Uma dúvida muito comum no fórum de dúvidas trata da
+comutatividade em operações de projeção. Vamos imaginar uma tabela que possua seis colunas:
+A, B, C, D, E, F. Nós vamos executar duas operações de projeção, isto é, faremos a primeira e depois
+faremos outra no resultado da primeira. As operações serão: πA,B (πA,B,C,D(TABELA)).
+
+Observe que na operação de projeção interna, o resultado foi a seleção das colunas A, B, C, D. Na
+operação de projeção externa – aplicado sobre o resultado da operação de projeção interna –, o
+resultado foi a seleção das colunas A, B. Agora vamos fazer o inverso: πA,B,C,D (πA,B(TABELA)).
+Observe que na operação de projeção interna, o resultado foi a seleção das colunas A, B. No
+entanto, não é possível fazer a operação de projeção externa sobre esse resultado. Por que?
+
+Porque a operação de projeção externa buscaria selecionar as colunas A, B, C, D de A, B. Isso não
+faz nenhum sentido! Como eu vou selecionar quatro colunas de uma tabela que só possui duas
+colunas? Como a ordem das operações não é indiferente, podemos afirmar que a operação de
+projeção não é comutativa. Das operações estudadas em aulas, apenas a operação de projeção e
+diferença não são comutativas. Vamos agora à tabela que resume o que vimos:
+
+
+                                                             Seleciona todas as linhas que satisfazem a condição de
+                 σ(T1)         Sim             Unária        seleção de uma Tabela T1.
+
+                                                             Produz uma nova tabela com apenas algumas das colunas de
+                 Π(T1)         Não             Unária        uma tabela T1 e remove linhas duplicadas.
+
+                                                             Produz uma nova tabela com todas as combinações
+                T1 X T2        Sim            Binária        possíveis de linhas de duas tabelas T 1 e T2.
+
+                                                             Produz uma nova tabela com todas as combinações
+                T1 ⋈ T2        Sim            Binária        possíveis de linhas de duas tabelas T 1 e T2 que satisfazem
+                                                             uma condição de seleção.
+
+
+---
+
+                                                           Produz uma nova tabela que inclui todas as linhas das Tabela
+           T1 ⋃ T2          Sim             Binária        T1 e T2, eliminando as duplicatas – as tabelas devem ser
+                                                           união-compatíveis.
+                                                           Produz uma tabela que inclui todas as linhas em comum das
+           T1 ∩ T2          Sim             Binária        Tabela T1 e T2 – as tabelas devem ser união-compatíveis.
+
+                                                           Produz uma tabela que inclui todas as linhas de uma Tabela
+            T1 - T2         Não             Binária        T1 que não estão na Tabela T 2 – as tabelas devem ser união
+                                                           compatíveis.
+
+
+(PETROBRÁS – 2012) A Álgebra Relacional define várias operações. Algumas delas
+operam apenas uma relação (unárias), outras operam com duas relações (binárias). As
+operações project (projeção), union (união) e select (seleção) são, respectivamente,
+operações:
+
+a) unária, unária, unária
+b) binária, unária, binária
+c) binária, binária, unária
+d) unária, binária, unária
+e) unária, binária, binária
+_______________________
+Comentários: projeção é unária, união é binária e seleção é unária (Letra D).
+
+
+---
+
+Galera, nós vimos que uma view é, em geral, um subconjunto do banco de dados, isto é, se você
+deseja visualizar apenas uma parte dos dados de uma ou mais tabelas, você pode criar uma visão
+personalizada dos dados. Ela não necessariamente existe em forma física – ela é considerada,
+portanto, uma tabela virtual. A definição formal afirma que uma view é basicamente uma única
+tabela que é derivada de outras tabelas (reais ou virtuais). Como é, professor?
+
+Pensa comigo: um banco de dados relacional possui um bocado de tabelas – essas tabelas são
+tabelas reais cujas linhas estão armazenadas fisicamente no banco de dados. Uma view funciona
+como uma tabela virtual cujo comportamento se assemelha a uma tabela real de banco de
+dados, no entanto sem armazenar os dados – essas estruturas sempre dependem da base de
+dados que está realmente armazenada fisicamente.
+
+Por ser uma tabela virtual, há uma limitação das possíveis operações de atualização que podem ser
+aplicadas às views, mas não há qualquer limitação à operação de consulta de uma view. O que
+você quer dizer com isso, professor? Eu quero dizer que até é possível inserir, atualizar ou excluir
+dados de uma view – exceto quando a view não é atualizável1. No entanto, você sempre poderá
+consultar uma view – não há nenhuma limitação quanto a isso!
+
+A melhor maneira de entender é por meio de um exemplo! Em primeiro lugar, vejam na imagem
+anterior que a view é basicamente um subconjunto de tabelas de um banco de dados ou do
+relacionamento entre tabelas de um banco de dados. Em segundo lugar, vejam a tabela a seguir
+que apresenta diversas colunas que armazenam dados sobre professores, como Nome, CPF, Idade,
+Disciplina e Naturalidade.
+
+
+1 Em geral, uma view é considerada atualizável quando trata apenas de uma tabela, entre outras regras.
+
+
+---
+
+        NOME              CPF         IDADE            DISCIPLINA                NATURALIDADE
+  DIEGO CARVALHO     111.111.111-11     21           INFORMÁTICA                DISTRITO FEDERAL
+  RENATO DA COSTA   222.222.222-22      54           INFORMÁTICA                  RIO DE JANEIRO
+    RICARDO VALE    333.333.333-33      40     DIREITO CONSTITUCIONAL             MINAS GERAIS
+  ROSENVAL JÚNIOR   444.444.444-44      32        DIREITO AMBIENTAL               Minas gerais
+  HERBERT ALMEIDA   555.555.555-55      19     DIREITO ADMINISTRATIVO            Espírito santo
+
+Essa tabela seria uma tabela real armazenada fisicamente no banco de dados. No entanto, vamos
+supor um contexto em que eu não precise visualizar todas essas colunas – o que eu preciso mesmo
+é visualizar a todo momento NOME e CPF dos Professores. O que eu posso fazer? Eu posso criar uma
+view que contenha apenas essas duas colunas e que seria criada por meio de uma consulta
+previamente definida, analisada e otimizada.
+
+Notem que essa view me oferece uma nova maneira de observar dados de um ou mais tabelas –
+sim, uma view pode envolver qualquer quantidade de tabelas! Além disso, podemos afirmar que o
+uso de view em banco de dados é uma forma de aumentar a sua segurança, uma vez que ela
+impede o acesso direto aos dados de uma tabela, ocultando colunas e fornecendo somente os
+dados considerados necessários aos usuários.
+
+Dito isso, eu preciso contar para vocês que existe um tipo específico de view que permite que ela
+seja armazenada – trata-se da View Materializada. Esse tipo de view é armazenado de forma não
+volátil, isto é, ela é de fato armazenada fisicamente, em constraste com as views tradicionais.
+Ademais, o desempenho de acesso é melhor que o de uma view não materializada, visto que o
+resultado de uma view materializada já fica armazenado no banco de dados.
+
+                                        Apenas para sedimentar o estudo, vamos ver só mais um
+                                        exemplo. Quem aí tem acesso ao nosso sistema de questões? Lá
+                                        nós temos infinitas questões sobre diversas disciplinas
+                                        espalhadas em várias tabelas diferentes na base de dados. No
+                                        entanto, você não quer estudar todas essas disciplinas, você quer
+                                        poder escolher questões só de temas pertinentes ao seu edital. O
+                                        que você pode fazer? Criar um caderno de questões! Nesse
+                                        caderno, você coloca algumas questões de direito administrativo,
+                                        algumas de direito constitucional e algumas de informática,
+                                        porque é a melhor matéria do universo. Ora, esse caderno é um
+                                        subconjunto dos dados criado de forma personalizada por você.
+
+Foi criada alguma nova tabela física no banco de dados? Não, imaginem se – para cada caderno de
+usuário – fosse criada uma nova tabela física no banco de dados! Seria inviável e desnecessário! Na
+verdade, foi criada uma tabela virtual, isto é, uma tabela que não existe fisicamente, mas que
+
+
+---
+
+é derivada de diversas outras tabelas de acordo com as necessidades particulares de um
+indivíduo ou um conjunto de indivíduos. E como é o nome dessa tabela virtual? View!
+
+
+    (Banco da Amazônia – 2010) É possível inserir, excluir e atualizar registros diretamente
+    de uma view.
+    _______________________
+    Comentários: é possível inserir, excluir e atualizar registros diretamente em uma view desde que ela seja atualizável, isto é, a
+    view somente envolva uma única tabela (Correto).
+
+    (AL/SP – 2010) Maneira alternativa de observação de dados de uma ou mais entidades –
+    tabelas –, que compõe uma base de dados. Pode ser considerada como uma tabela
+    virtual ou uma consulta armazenada. Trata-se de:
+
+    a) table shadow.
+    b) view.
+    c) shadow table.
+    d) table blour.
+    e) blour table.
+    _______________________
+    Comentários: a tabela virtual ou consulta armazenada é a famosa view (Letra B).
+
+    (TCE/ES – 2013) Uma forma de observação de dados de uma ou mais entidades que
+    compõem uma base de dados e que é considerada uma tabela virtual ou consulta
+    armazenada denomina-se:
+
+    a) esquema conceitual.
+    b) entidade.
+    c) chave primária.
+    d) integridade referencial.
+    e) views.
+    _______________________
+    Comentários: a tabela virtual ou consulta armazenada é a famosa view (Letra E).
+
+    (MEC – 2015) O uso de views materializadas permite aumentar o desempenho do banco
+    de dados, pois minimiza o acesso às tabelas de dados e torna mais rápida a execução das
+    consultas.
+    _______________________
+    Comentários: o desempenho de views materializadas é melhor porque reduz o acesso aos dados e porque a execução das
+    consultas é mais rápida, uma vez que ela já está armazenada (Correto).
+
+
+---
+
+Galera, a primeira página desse livro eletrônico possui um índice. Qual é a sua maior utilidade?
+Basicamente, ele ajuda a encontrar informações no livro de forma mais rápida. Se não houvesse um
+índice e você estivesse interessado em estudar apenas álgebra relacional, você teria que percorrer
+todo o livro até encontrar esse tópico. Por meio do índice, você consegue encontrar em página
+está esse tópico e acessá-lo diretamente de forma rápida e sem complicações.
+
+Dessa forma, podemos concluir que os índices são uma estrutura de acesso utilizados para
+otimizar o desempenho de consultas a registros em uma base de dados relacional. Ele permite
+ao servidor de banco de dados encontrar e trazer linhas específicas muito mais rápido do que faria
+sem o índice. No entanto, os índices também produzem trabalho adicional para o sistema de banco
+de dados como um todo devendo, portanto, serem utilizados com parcimônia.
+
+
+     (AL/SP – 2010) Sua utilização tem como finalidade principal agilizar a consulta,
+     possibilitando a localização ágil de um registro na tabela. Esta descrição refere-se a:
+
+     a) Index       b) Constraint                               c) View                     d) Join             e) Having
+     _______________________
+     Comentários: o recurso que permite agilizar consultas possibilitando buscas ágeis é o Index (Letra A).
+
+     (MPE/ES – 2013) Uma das decisões a serem tomadas no projeto físico de um banco de
+     dados relacional é a criação de estruturas que possibilitem a obtenção mais rápida dos
+     dados das consultas. Tal estrutura é composta pelos (pelas):
+
+     a) logs.    b) índices.                           c) gatilhos.                 d) privilégios.           e) permissões.
+     _______________________
+     Comentários: a estrutura que permite obter dados de forma mais rápida é o índice (Letra B).
+
+
+---
+
+Chaves
+                                                                                 INCIDÊNCIA EM PROVA: ALTA
+
+
+Vamos lá! No Modelo Relacional, uma tabela é definida como um conjunto de linhas. Por definição,
+todos os elementos de um conjunto são distintos; logo, todas as linhas em uma relação também
+precisam ser distintas. O que isso significa? Isso significa que duas linhas não podem ter a mesma
+combinação de valores para todas as suas colunas. Agora chegamos a um dos conceitos mais
+importantes quando falamos de banco de dados: chaves!
+
+Uma superchave é um conjunto de uma ou mais colunas que, tomadas coletivamente, permitem
+identificar de maneira unívoca uma linha de uma tabela. Em outras palavras, não podem existir duas
+ou mais linhas de uma tabela com o mesmo valor de uma superchave. Dizemos, portanto, que
+uma superchave especifica uma restrição de chave, isto é, duas linhas não podem ter os
+mesmos valores de superchave.
+
+No entanto, uma superchave pode ter atributos redundantes, de modo que um conceito mais
+útil é o de uma chave, que não tem redundância. Como assim, professor? Vejam a tabela abaixo:
+nós poderíamos dizer que uma possível chave seria {NOME + CPF + IDADE + DISCIPLINA +
+NATURALIDADE}. Notem que esse conjunto de atributos, tomados coletivamente, identificam de
+maneira unívoca qualquer linha da tabela. Bacana?
+
+                                           TABELA PROFESSOR
+       NOME             CPF        IDADE       DISCIPLINA                  NATURALIDADE
+                    111.111.111-
+   DIEGO CARVALHO                   21        INFORMÁTICA                DISTRITO FEDERAL
+                         11
+                    222.222.222-
+  RENATO DA COSTA                   54        INFORMÁTICA                 RIO DE JANEIRO
+                         22
+
+
+---
+
+                    333.333.333-
+   RICARDO VALE                    40     DIREITO CONSTITUCIONAL            MINAS GERAIS
+                         33
+                    444.444.444-
+  ROSENVAL JÚNIOR                  32       DIREITO AMBIENTAL               Minas gerais
+                         44
+                    555.555.555-
+  HERBERT ALMEIDA                  19     DIREITO ADMINISTRATIVO           Espírito santo
+                         55
+
+No entanto, vocês concordam comigo que há uma redundância nessa superchave? Não é obrigatório
+ter uma chave composta por todas as colunas. Acompanhem meu raciocínio:
+
+                    { NOME + CPF + IDADE + DISCIPLINA + NATURALIDADE }
+                       Essa superchave é composta por todas as cinco colunas.
+                              { NOME + CPF + IDADE + DISCIPLINA }
+                          Essa superchave é composta por quatro colunas.
+                                     { NOME + CPF + IDADE }
+                            Essa superchave é composta por três colunas.
+                                           { NOME + CPF }
+                           Essa superchave é composta por duas colunas.
+                                                { CPF }
+                            Essa superchave é composta por uma coluna.
+
+Percebam que, se nós eliminamos quatro colunas, ainda é possível identificar de forma unívoca
+qualquer linha dessa tabela, então todas as colunas eliminadas estavam redundantes. Por que?
+Porque { CPF} é um identificador único – nunca duas pessoas terão o mesmo { CPF }. Além disso,
+podemos concluir que toda tabela possui pelo menos uma superchave padrão, que é o conjunto
+de todas as colunas de uma tabela. Perfeito?
+
+Agora vou dizer uma coisa para vocês: um conceito mais interessante que o de superchave é o
+conceito de chave. Uma chave também precisa identificar de forma unívoca qualquer linha de uma
+tabela, mas precisa satisfazer outra condição: ela precisa ser uma superchave mínima, isto é, uma
+superchave da qual não podemos remover nenhum atributo e ainda mantermos uma restrição
+de chave. Para que um atributo seja considerado chave, deve ser único e mínimo.
+
+Além disso, é importante salientar que há uma diferença entre superchave e chave composta. Uma
+chave composta é uma superchave mínima que possui mais de um atributo. Como é, Diego?
+Suponha que uma tabela não possui nenhum atributo que sozinho identifica uma linha/registro.
+Você pode escolher como chave composta, por exemplo, { NOME + DATA DE NASCIMENTO}. Essa
+combinação é única e mínima, logo é chave e superchave.
+
+Por outro lado, a combinação { NOME + DATA DE NASCIMENTO + NACIONALIDADE} não é uma chave
+composta, porque ela não é mínima, visto que { NOME + DATA DE NASCIMENTO} já identificava
+univocamente uma linha/registro em uma tabela. Logo, uma chave composta é uma superchave
+
+
+---
+
+mínima que possui mais de um atributo. Lembrando novamente que uma chave (primária,
+candidata, etc) é uma superchave mínima.
+
+Dito isso, podemos concluir que qualquer conjunto de colunas que inclua { CPF } será considerada
+uma superchave. No entanto, { NOME + CPF + IDADE } não será uma chave, porque remover { NOME}
+ou { IDADE } ou ambos do conjunto ainda nos deixa com uma superchave. Em outras palavras, uma
+chave é uma superchave com a propriedade adicional de que a remoção de qualquer uma de
+suas colunas a faz deixar de identificar unicamente uma linha da tabela.
+
+Em geral, uma tabela pode ter mais de uma chave. Nesse caso, cada uma das chaves é chamada de
+Chave Candidata. Por exemplo: imaginem que na tabela acima houvesse também uma coluna de {
+RG }. Ora, tanto { CPF } quanto { RG } identificam de forma unívoca uma linha de uma tabela, uma vez
+que não existem duas pessoas com o mesmo { RG } ou { CPF }. Logo, qualquer uma das duas poderia
+ser escolhida para ser a chave primária de uma tabela. Chave o que, professor?
+
+Pois é, mais um conceito! É comum designar uma das chaves candidatas como chave primária
+de uma relação. Essa é a chave candidata cujos valores são utilizados para identificar linhas em uma
+tabela. Notem que, quando uma tabela possui várias chaves candidatas, a escolha de uma para se
+tornar a chave primária é um tanto quanto arbitrária; porém, normalmente, é melhor escolher uma
+chave primária com uma única coluna ou um pequeno número de colunas.
+
+Por fim, as chaves candidatas que não foram escolhidas para serem chaves primárias são
+designadas como chaves únicas ou chaves secundárias. Bem, pessoal, nós falamos bastante sobre
+os tipos de chave. Agora vamos falar um pouquinho sobre os tipos de restrições! Navathe afirma
+que no banco de dados relacional normalmente haverá muitas relações, e as tuplas nessas relações
+costumam estar relacionadas de várias maneiras.
+
+O estado do banco de dados inteiro corresponderá aos estados de todas as suas relações em
+determinado ponto no tempo. Em geral, existem muitas restrições (ou constraints) sobre os valores
+reais em um estado do banco de dados. Essas restrições são derivadas das regras no minimundo
+que o banco de dados representa. As diversas restrições sobre os dados podem ser especificadas
+em um banco de dados relacional na forma de restrições, que podem ser divididas em três tipos:
+
+ Restrições Implícitas: também chamadas de restrições inerentes ao modelo, são restrições
+  inerentes ao modelo de dados (Ex: não são permitidas tuplas duplicadas em uma relação – trata-
+  se de uma restrição implícita ao próprio modelo de dados relacional).
+
+               subTIPOS DE RESTRIÇÃO                                    DESCRIÇÃO
+                                        Restringe que uma chave primária se repita – uma chave primária diferencia
+      Restrição de chave OU UNICIDADE   de forma única os registros de uma relação.
+
+
+---
+
+ Restrições Explícitas: também chamadas de restrições baseadas no esquema, são restrições
+  que podem ser expressas diretamente nos esquemas do modelo de dados. Em geral,
+  especificando-as via DDL (Ex: o campo NOME não pode conter números).
+
+                     subTIPOS DE RESTRIÇÃO                                                 DESCRIÇÃO
+                                                  Restringe que um campo de uma relação tenha valores diferentes daqueles
+    Restrição de INTEGRIDADE DE domínio definidos para o campo específico.
+
+                                                  Restringe que uma chave primária tenha valores nulos (NULL). Pode ser
+   Restrição de Integridade de ENTIDADE           considerada uma subcategoria da restrição de domínio.
+
+                                                  Restringe que a chave estrangeira de uma tabela seja inconsistente com a
+  Restrição de Integridade Referencial chave candidata da tabela referenciada.
+
+                                                  Restringe que uma chave primária se repita, isto é, uma chave primária
+      Restrição de INTEGRIDADE DE chave diferencia de forma única os registros (linhas) de uma relação (tabela).
+
+
+ Restrições Semânticas: também chamadas de restrições baseadas na aplicação, não podem
+  ser expressas diretamente nos esquemas do modelo de dados, e, portanto, devem ser expressas
+  e impostas pela aplicação (Ex: o número de telefone não pode ter mais de 10 dígitos).
+
+                     subTIPOS DE RESTRIÇÃO                                                 DESCRIÇÃO
+                                                  Assegura que o conteúdo dos campos de um banco de dados reflita de
+    RESTRIÇÃO DE INTEGRIDADE SEMÂNTICA            forma precisa as regras de negócio1.
+
+Vamos detalhar um pouco mais! A restrição de integridade de entidade afirma que nenhum valor
+de chave primária pode ser NULL. Por que? Galera, o valor da chave primária é utilizado para
+identificar linhas individuais em uma tabela. Ter valores NULL para a chave primária implica que
+não podemos identificar algumas linhas. Por exemplo: se duas ou mais linhas tivessem NULL para
+suas chaves primárias, não conseguiríamos distingui-las ao tentar referenciá-las por outras tabelas.
+
+As restrições de integridade de chave e as restrições de integridade de entidade são
+especificadas sobre relações individuais. A restrição de integridade referencial é um pouco
+diferente, ela é especificada entre duas tabelas e utilizada para manter a consistência entre linhas
+nas duas tabelas. Informalmente, a restrição de integridade referencial afirma que uma linha em
+uma tabela que referencia outra tabela precisa se referir a uma linha existente nessa tabela.
+
+Eu sei que está confuso, então é hora de vermos um exemplo para clarear as ideias! Imaginem um
+cenário em que um professor pode ministrar diversas disciplinas, mas uma disciplina só pode ser
+
+1
+  Não são diretamente expressas no esquema do banco de dados e devem ser construídas para refletir as regras de negócio específicas do minimundo
+sendo modelado. Em geral, empregam-se triggers (ou gatilhos). Ex: o salário de um funcionário não deve ser superior ao salário de seu supervisor.
+
+
+---
+
+ministrada por um único professor. Observem abaixo que a chave primária da Tabela PROFESSOR se
+tornou uma chave estrangeira da Tabela DISCIPLINA, no entanto continua referenciando a Tabela
+Professor. Por isso, dizemos que se trata de uma restrição de integridade referencial.
+
+
+                                                                              CHAVE ESTRANGEIRA (REFERENCIA A TABELA PROFESSOR)
+
+
+                     TABELA professor                                                              TABELA disciplina
+        CPF professor              NOME PROFESSOR                               código             NOME DISCIPLINA          CPF professor
+        111.111.111-11               DÉCIO TERROR                                101                  PORTUGUÊS             111.111.111-11
+        222.222.222-22             GUILHERME NEVES                                                      DIREITO
+                                                                                  102                                       333.333.333-33
+        333.333.333-33               RICARDO VALE                                                   CONSTITUCIONAL
+        444.444.444-44             ROSENVAL JÚNIOR                                                      DIREITO
+                                                                                  103                                       555.555.555-55
+        555.555.555-55             HERBERT ALMEIDA                                                  ADMINISTRATIVO
+        666.666.666-66               Marcos girão                                 104             DIREITO AMBIENTAL         444.444.444-44
+                                                                                  105              NOÇÕES DE LÓGICA         222.222.222-22
+       CHAVE PRIMÁRIA (TABELA PROFESSOR)
+                                                                                  106            DIREITO TRIBUTÁRIO         333.333.333-33
+                                                                                  CHAVE PRIMÁRIA (TABELA DISCIPLINA)
+
+Para ser considerada uma chave estrangeira, ela deve satisfazer duas regras: primeiro, as colunas
+que a compõem devem ter o mesmo domínio que as colunas da chave candidata da tabela
+referenciada; segundo, o valor da chave estrangeira em uma relação deve ocorrer também na
+tabela referenciada ou ser nula (veremos no próximo tópico). Por fim, é possível haver um auto-
+relacionamento, isto é, uma coluna referenciar outra coluna da mesma tabela.
+
+           TIPOS DE chave                  Em inglês                                           descrição
+                                                           Conjunto de uma ou mais colunas que, tomadas coletivamente,
+             SUPERCHAVE                    SUPERKEY
+                                                           permitem identificar de maneira unívoca uma linha.
+                                                           Superchaves de tamanho mínimo, candidatas a serem possíveis
+          CHAVE CANDIDATA               CANDIDATE KEY
+                                                           chaves primárias de uma tabela.
+                                                           Chaves cujas colunas são utilizadas para identificar linhas em uma
+           CHAVE PRIMÁRIA                PRIMARY KEY
+                                                           tabela – em geral, vêm sublinhada.
+                                                           Chaves candidatas a serem possíveis chaves primárias de uma
+  CHAVE SECUNDÁRIA/alternativa          SECONDARY KEY
+                                                           tabela, mas que não foram escolhidas.
+                                                           Chaves de uma tabela que fazem referência à chave candidata de
+         CHAVE ESTRANGEIRA                FOREIGN KEY
+                                                           outra tabela, ou até mesmo da própria tabela.
+                                                           Chaves primárias artificiais criadas para identificar de maneira
+          Chave substituta              Surrogate key
+                                                           unívoca uma linha2.
+
+2
+  Professor, para que criar uma chave artificial se nós podemos usar as chaves naturais de uma tabela? Galera, há uma infinidade de sistemas que
+utilizam, por exemplo, CPF para identificar uma pessoa. E se o governo cria um cadastro único de pessoas que tem outro formato de forma que as
+pessoas não precisam mais ter CPF? É improvável, mas – para garantir – é interessante utilizar chaves substitutas (Surrogate Keys).
+
+
+---
+
+                                    ATENÇÃO
+CESPE   O CESPE – INFELIZMENTE – TEM ADOTADO O ENTENDIMENTO DE QUE A CHAVE ESTRANGEIRA
+        REFERENCIA A CHAVE PRIMÁRIA (E, NÃO, CANDIDATA) DE OUTRA TABELA (OU DA MESMA TABELA).
+
+
+---
+
+Relacionamentos
+                                                                                                              INCIDÊNCIA EM PROVA: média
+
+
+Pessoal, nós vimos no tópico anterior que tabelas podem se relacionar por meio de chaves. Agora,
+o que é um relacionamento? Um relacionamento nada mais é que uma associação entre tabelas!
+Vocês sabem que um banco de dados é composto por diversas tabelas (Professor, Aluno, Disciplina,
+etc). Embora as informações estejam separadas em cada uma das tabelas, na prática devem
+existir relacionamentos entre essas tabelas. Como assim, professor?
+
+Ora, um Professor ministra uma Disciplina, assim como um Aluno estuda uma Disciplina. Em um
+Banco de Dados, precisamos de alguma maneira para representar estes relacionamentos que
+ocorrem em nosso dia a dia em termos das tabelas e de seus atributos. Isto é possível com a
+utilização de relacionamentos entre tabelas, os quais podem ser de três tipos: um-para-um (1:1),
+um-para-muitos (1:N) ou muitos-para-muitos (N:M).
+
+Professor, o que são esses números e letras ao lado dos relacionamentos? Nós chamamos isso de
+cardinalidade! Ela se refere à exclusividade dos valores de dados contidos em uma determinada
+coluna de uma tabela do banco de dados. Em outras palavras, é o número máximo e mínimo de
+ocorrências de uma entidade que estão associadas às ocorrências de outra entidade que participa
+do relacionamento. Fiquem tranquilos, vocês vão entender isso logo mais...
+
+Relacionamento Um-Para-Um (1:1)
+
+Trata-se de um relacionamento em que uma linha de uma tabela está associada com uma linha
+de outra tabela. Exemplo: suponha uma Tabela País, que armazena o nome de todos os países do
+mundo; e uma Tabela Capital, que armazena o nome das capitais de todos os países do mundo.
+Sabe-se que um país possui somente uma capital e uma capital só é capital de um único país. Logo,
+trata-se de um relacionamento um-para-um (1:1).
+
+                                      É POSSÍVEL ESCOLHER QUAL TABELA RECEBERÁ A CHAVE ESTRANGEIRA
+
+                    TABELA PAÍS                                                                 TABELA CAPITAL
+      CÓDIGO PAÍS                         PAÍS                               CÓDIGO CAPITAL            CAPITAL         CÓDIGO PAÍS
+         100                            Holanda                                   123                   Hanói             500
+         200                           Austrália                                  234                Budapeste            400
+         300                           Colômbia                                   345                  nairóbi            600
+         400                            Hungria                                   456                amsterdam            100
+         500                             Vietnã                                   567                 Camberra            200
+         600                             Quênia                                   678                  Bogotá             300
+       CHAVE PRIMÁRIA (TABELA PAÍS)                                                CHAVE PRIMÁRIA (TABELA CAPITAL)
+
+
+---
+
+     (QUADRIX – 2019) Em um modelo entidade-relacionamento (MER), diz-se que, em um
+     relacionamento 1..1 – um para um, cada entidade pode referenciar múltiplas unidades
+     daquele com o qual se relaciona.
+     _______________________
+     Comentários: esse seria um relacionamento N:N e, não, 1:1. N relacionamento 1:1, cada entidade pode referenciar apenas uma
+     unidade daquele com o qual se relaciona (Errado).
+
+Relacionamento Um-Para-Muitos (1:N)
+
+Trata-se de um relacionamento em que uma linha de uma tabela está associada a diversas
+linhas de outra tabela. Exemplo: suponha uma Tabela Pessoa, que armazena dados de diversas
+pessoas; e uma Tabela Cartão, que armazena dados sobre diversos cartões. Em nosso contexto,
+sabe-se que uma pessoa pode possuir zero ou vários cartões, mas um cartão só pode pertencer a
+uma única pessoa. Bacana?
+
+                          A CHAVE PRIMÁRIA DA TABELA PESSOA SE TORNA CHAVE ESTRANGEIRA DA TABELA CARTÃO
+
+                     TABELA pessoa                                                             TABELA cartão
+         CPF                          NOME                                  código           bandeira                    CPF
+    111.111.111-11                DÉCIO TERROR                               101            MASTERCARD              111.111.111-11
+   222.222.222-22               GUILHERME NEVES                              102                VISA               333.333.333-33
+   333.333.333-33                 RICARDO VALE                               103          AMERICAN EXPRESS         555.555.555-55
+   444.444.444-44               ROSENVAL JÚNIOR                              104            DINERS CLUB            444.444.444-44
+   555.555.555-55               HERBERT ALMEIDA                              105                ELO                222.222.222-22
+   666.666.666-66                Marcos girão                                106             hipercard             333.333.333-33
+      CHAVE PRIMÁRIA (TABELA pessoa)                                             CHAVE PRIMÁRIA (TABELA cartão)
+
+     (UFVJM/MG – 2017) Em um relacionamento entre duas entidades, em que a primeira
+     pode se relacionar com vários registros na segunda, e a segunda se relaciona com apenas
+     uma na primeira, tem-se:
+
+     a) Relacionamento 1-1                                             b) Relacionamento 1-N
+     c) Relacionamento N-N                                             d) Relacionamento N-M
+     _______________________
+     Comentários: se a primeira pode se relacionar com vários registros da segunda e a segunda se relaciona com apenas uma na
+     primeira, temos um Relacionamento 1-N (Letra B).
+
+Relacionamento Muitos-Para-Muitos (N:M)
+
+
+---
+
+Trata-se de um relacionamento em que várias linhas de uma tabela se associam a várias linhas
+de outra tabela. Exemplo: suponha uma Tabela Professor, que armazena dados de diversos
+professores; e uma Tabela Aluno, que armazena dados sobre diversos alunos. Em nosso contexto,
+sabe-se que um professor pode ter diversos alunos e um aluno pode ter diversos professores, por
+isso se trata de um relacionamento muitos-para-muitos.
+
+A solução é criar uma tabela associativa, que possui esse nome porque associa elementos de ambas
+as tabelas, como é apresentado no esquema seguinte:
+
+         TABELA professor                                                                                  TABELA aluno
+ Cpf professor           NOME                                                                      CPF aluno           NOME
+  111.111.111-11   DIEGO CARVALHO                                                                666.666.666-66       romário
+ 222.222.222-22    RENATO DA COSTA                     TABELA associativa                        777.777.777-77    Roberto carlos
+ 333.333.333-33      RICARDO VALE                Cpf professor        CPF aluno                  888.888.888-88     Ronaldo fofo
+ 444.444.444-44    ROSENVAL JÚNIOR                111.111.111-11    666.666.666-66               999.999.999-99       Rivaldo
+                                                 222.222.222-22     777.777.777-77
+                                                 333.333.333-33     888.888.888-88
+                                                 444.444.444-44     999.999.999-99
+
+
+      (SEFAZ/RS – 2018) No mapeamento de um modelo entidade-relacionamento para um
+      modelo relacional de banco de dados, o tipo de relacionamento que implica a criação de
+      uma terceira tabela para onde serão transpostos as chaves primárias e os eventuais
+      atributos das duas tabelas originais é denominado:
+
+      a) relacionamento N:N.
+      b) relacionamento 1:1.
+      c) relacionamento 1:N.
+      d) autorrelacionamento 1:N.
+      e) relacionamento ternário.
+      _______________________
+      Comentários: se o relacionamento implica a criação de uma terceira tabela onde serão transpostas as chaves primárias e os
+      eventuais atributos das tabelas originais, trata-se de um relacionamento N:N (Letra A).
+
+Agora mudando um pouco de assunto: vocês se lembram que eu disse que chaves estrangeiras podem
+ser nulas? Pois é, uma dúvida muito comum que eu recebo no fórum de dúvidas trata justamente
+desse ponto. Como uma chave primária não pode ser nula, mas uma chave estrangeira que referencia
+
+
+---
+
+uma chave primária pode ser nula? Galera, quando existe um relacionamento não obrigatório, é
+possível que uma instância não esteja associada a outra entidade.
+
+Vamos pensar em um contexto em que uma prefeitura deseja armazenar dados sobre os alunos e
+escolas de uma cidade. Para tal, ela possui uma tabela de alunos e outra de escolas, sabendo que
+um aluno pode estar frequentando zero ou uma escola e uma escola pode possuir zero ou vários
+alunos. Como assim, Diego? Esse é o relacionamento não obrigatório, ou seja, a cardinalidade
+mínima é zero.
+
+Nesse contexto, é possível concluir que estamos falando de um relacionamento 1:N entre escola e
+aluno, em que a chave primária de escola se torna chave estrangeira de aluno. A prefeitura pode
+verificar todas as escolas da cidade e armazenar na tabela de escolas. Da mesma forma, ela pode
+verificar todas as crianças em idade escolar e armazenar na tabela de alunos. Nesse contexto, pode
+haver crianças na tabela de alunos cuja coluna de chave estrangeira seja nula.
+
+Percebam na tabela seguinte que Davi não possui nenhum valor em sua coluna de chave
+estrangeira, logo ela é – sim – nula. Como pode ocorrer isso, professor? Galera, um aluno pode não
+estar matriculado em nenhuma escola por não ter dinheiro; por ter que trabalhar para ajudar os
+pais; por estar fazendo algum tratamento de saúde; por ainda não ter feito inscrição em nenhuma
+escola. Sei lá... o importante é que a chave estrangeira pode ser nula!
+
+                         A CHAVE PRIMÁRIA DA TABELA escola SE TORNA CHAVE ESTRANGEIRA DA TABELA aluno
+
+                   TABELA escola                                                            TABELA aluno
+   código_escola                     NOME                            código_aluno              nome          Código_escola
+        001                Colégio Leonardo da vinci                      101                  Alice              001
+        002                   Colégio dom pedro II                        102                Bernardo             001
+        003              Colégio marista champagnat                       103                  Clara              004
+        004                    Colégio la salle                           104                   Davi
+                                                                          105                   enzo             002
+                                                                          106                fernanda            004
+      CHAVE PRIMÁRIA (TABELA escola)                                         CHAVE PRIMÁRIA (TABELA aluno)
+
+
+---
+
+Vamos falar agora sobre as 12 Regras de Codd! Primeira informação interessante: Edgar F. Codd é
+simplesmente o cara que criou o modelo de banco de dados relacional – ele era um matemático
+britânico que criou as bases para grande parte da disciplina de banco de dados. Segunda informação
+interessante: as 12 regras de Codd eram 13! É o que, Diego? Sim, é porque são enumeradas de 0 a
+12, mas – no total – são 13 regras.
+
+E sobre o que tratam essas regras? Elas tratam de doze regras que definem o que é necessário para
+que um Sistema Gerenciador de Banco de Dados (SGBD) seja considerado relacional. Nós sabemos
+que existem SGBDs que obedecem a diversos paradigmas diferentes, como orientados a objetos,
+hierárquicos, multidimensionais, entre outros – as regras que veremos a seguir tratam tão somente
+dos requisitos para um paradigma relacional. Vamos conhecê-las...
+
+           Regra Fundamental/Base
+
+Para que um sistema que seja considerado como um SGBD Relacional, ele deverá gerenciar bancos
+de dados exclusivamente através de suas capacidades relacionais (tabelas, linhas, colunas,
+restrições, etc). Em outras palavras, não é só o armazenamento dos dados em si que deve obedecer
+a regras relacionais, mas também seu gerenciamento como controle de permissão, catálogo de
+metadados, controle de concorrência – tudo gerenciado como tabelas.
+
+           Regra da Informação
+
+Todas as informações (todas mesmo, inclusive metadados) de um banco de dados relacional devem
+ser representadas logicamente como dados dentro de colunas pertencentes a registros de uma
+tabela. Em outras palavras, existe uma – e apenas uma – maneira de representar os dados: como
+valores dentro de colunas dentro de registros de uma tabela. Lembrando que uma tabela é
+composta por linhas ou registros, que contêm colunas, que armazenam valores.
+
+           Regra de Garantia de Acesso
+
+Ora, todos os dados devem ser acessíveis. Logo, deve-se garantir que todos os valores de uma
+tabela possam ser acessados por meio de uma combinação de nome de tabela, valor de chave
+primária e nome de coluna. Em outras palavras, o nome de uma tabela é capaz de identificá-la em
+um banco de dados; o valor da chave primária permite que eu identifique uma linha específica dessa
+tabela; e o nome de uma coluna permite que eu encontre um determinado valor dessa linha.
+
+           Regra do Tratamento Sistemático de Valores Nulos
+
+Os valores nulos (que são diferentes da cadeia de caracteres vazia, do valor zero ou de qualquer
+outro número) são suportados pelo SGBD Relacional para representar informação ausente ou não
+
+
+---
+
+aplicável e tratados de uma maneira sistemática, independentemente do tipo de dados. Em outras
+palavras, o sistema deve ser capaz de tratar sistematicamente valores nulos – não importa se uma
+determinada coluna armazena um determinado tipo, ela deverá ser capaz de tratar o valor nulo.
+
+           Regra do Catálogo Online baseado no Modelo Relacional
+
+A descrição do banco de dados está representada, no nível lógico, da mesma maneira que os dados
+comuns, de forma que os usuários autorizados possam aplicar a eles a mesma linguagem relacional
+de consulta utilizada para consultar dados normais. Em outras palavras, o catálogo de dados deve
+ser armazenado e gerenciado como um dado comum, isto é, em tabelas do banco de dados
+disponíveis aos usuários autorizados. Trata-se de uma consequência da Regra 0!
+
+Professor, por que é um catálogo online? Ora, lembrem-se que o catálogo armazena dados sobre os
+dados, logo alterações nas estruturas dos dados alteram também os metadados de forma online.
+
+           Regra da Sublinguagem Ampla/Compreensiva de Dados
+
+O Banco de Dados Relacional pode oferecer suporte a múltiplas linguagens e meios de acesso. No
+entanto, deve existir pelo menos uma linguagem declarativa bem definida com suporte às
+seguintes operações: (1) definição de dados; (2) definição de views; (3) manipulação de dados; (4)
+restrições de integridade; (5) autorização; (6) controle de transação. Aqui basta lembrar da
+Linguagem SQL (Structured Query Language).
+
+A SQL possui diversas sublinguagens: (1) DDL, para definição de dados; (2) VDL, para definição de
+views; (3) DML, para manipulação de dados; (4) DDL, para restrições de integridade; (5) DCL, para
+autorização; e (6) TCL, para controle de transação. Por que ela é uma linguagem declarativa? Porque
+não há uma preocupação em fazer um passo a passo para executar uma rotina – faz-se apenas uma
+ou mais declarações. O sistema é responsável por executar a rotina da maneira que bem entender.
+
+O SGBD pode até ser manipulado por várias linguagens, interface gráfica, etc – desde que exista ao
+menos uma linguagem que englobe todas as funcionalidades listadas anteriormente.
+
+           Regra da Atualização por meio de Views
+
+Toda view teoricamente atualizável deve ser também atualizável na prática por meio do sistema.
+Essa é uma regra complicada de entender – sugiro memorizá-la! Lembrem-se que as views nem
+sempre podem ser atualizáveis, ou seja, uma alteração na view nem sempre gera uma mudança de
+estado nas tabelas associadas. No entanto, se uma determinada view for teoricamente atualizável,
+deverá ser possível atualizá-la via sistema.
+
+           Regra da Inserção, Atualização e Exclusão de Alto Nível
+
+A capacidade de gerenciar uma relação base ou uma relação derivada com um só operando se aplica
+não somente à extração de dados, mas também à inserção, atualização e remoção dos dados. Em
+
+
+---
+
+outras palavras, se você é capaz de fazer consultas a um conjunto de dados por meio de comandos
+de alto nível (isto é, utilizando comandos simples), você também deverá ser capaz de fazer
+inserções, atualizações e exclusões da mesma maneira.
+
+Ex o comando select * from tabela busca todas as linhas de uma determinada tabela. Ora, se isso
+pode ser feito para recuperar dados, também deve poder ser feito para outros comandos.
+
+           Regra da Independência Física de Dados
+
+Aplicações e recursos permanecem logicamente inalterados quando ocorrem mudanças no
+método de acesso ou na forma de armazenamento físico. Logo, quando for necessária alguma
+modificação na forma como os dados são armazenados fisicamente, nenhuma alteração deve ser
+necessária nas aplicações que fazem uso do banco de dados. Devem também permanecer
+inalterados os mecanismos de consulta e manipulação de dados utilizados pelos usuários finais.
+
+           Regra da Independência Lógica de Dados
+
+Aplicações e recursos ad hoc (formas mais flexíveis de pesquisar informações sobre dados) não são
+afetados logicamente quando de alterações de estruturas de tabela que preservem os valores
+originais da tabela (alteração da ordem ou inserção de colunas). Alterações nas relações e
+nas views causam pouco ou nenhum impacto nas aplicações. É possível alterar o esquema
+conceitual do banco sem ter que modificar os esquemas externos ou aplicações.
+
+           Regra da Independência de Integridade
+
+As aplicações não são afetadas quando ocorrem mudanças nas regras de restrições de integridade.
+Deve ser possível que todas as regras de integridade sejam definidas na linguagem relacional e
+armazenadas no catálogo de sistema e, não, no nível de aplicação. As várias formas de integridade
+do banco de dados (integridade de entidade, referencial, restrição, etc) precisam ser estabelecidas
+dentro do catálogo do sistema e ser totalmente independente da lógica dos aplicativos.
+
+Exemplo: um programador não precisará criar regras de restrições de integridade na lógica de
+programação de uma aplicação específica porque tudo isso é gerenciado pelo SGBD.
+
+           Regra da Independência de Distribuição
+
+Aplicações não são logicamente afetadas quando ocorrem mudanças geográficas de dados, ou seja,
+os usuários finais não devem perceber o fato de o banco de dados ser distribuído ou local. Sistemas
+de Banco de Dados Distribuídos podem estar espalhados em diversas plataformas, interligados em
+rede, e podem, inclusive, estar fisicamente distantes entre si. Essa capacidade de distribuição não
+pode afetar a funcionalidade do sistema e dos aplicativos que fazem uso do banco de dados.
+
+Em outras palavras, a localização física dos dados não deve ser da preocupação do usuário, ou seja,
+o usuário não enxerga nem é afetado pela localização dos dados – diz-se que a localização física dos
+
+
+---
+
+dados é transparente para o usuário. Ele vai trabalhar com os dados e executar comandos da mesma
+maneira que faria se todos os dados estivessem armazenados no mesmo servidor e no mesmo local
+físico dele.
+
+           Regra da Não-Transposição/Subversão
+
+Se um sistema possui uma linguagem de baixo nível, essa linguagem não pode ser usada para
+subverter as regras de integridades e as restrições definidas no nível mais alto. Linguagens de baixo
+nível são aquelas mais próximas da linguagem do hardware e mais distantes da linguagem do
+usuário – geralmente são capazes de executar tarefas mais restritas para um programador comum,
+acessando alguns recursos em nível de hardware.
+
+Em outras palavras, o sistema deve ser capaz de impedir que qualquer usuário ou programador
+passe por cima de todos os mecanismos de segurança, das regras de integridade do banco de dados
+e das restrições, utilizando algum recurso ou linguagem de baixo nível que eventualmente possam
+ser oferecidos pelo próprio sistema. Bem, essas são as Treze Regras de Codd – cai muito pouco de
+forma direta, mas cai bastante de forma indireta, portanto... atenção!
+
+
+---
+
+Notação IDEF1X
+                                                                                INCIDÊNCIA EM PROVA: baixíssima
+
+
+IDEF1X (Integration Definition for Information Modeling) é uma linguagem/método de modelagem
+de dados cujo propósito inclui oferecer meios para definir uma visão de dados independente de
+aplicação que possa ser validada por usuários e que representa a estrutura e a semântica das
+informações de um sistema. Embora aplicada no nível conceitual, incorpora muitas características
+de projeto de banco de dados (modelagem lógica).
+
+Fiquem tranquilos porque ela é bem fácil de aprender! Em primeiro lugar, baseia-se em três
+estruturas fundamentais: Entidades, Atributos e Relacionamentos.
+
+
+                  Entidade independente                       ENTIDADE DEPENDENTE
+
+Da mesma forma da Notação Pé-de-Galinha, as entidades são representadas graficamente como
+retângulos com uma linha divisória horizontal – nós já sabemos que entidades são basicamente
+objetos de mesma natureza. Caso o retângulo seja com arestas retas, trata-se da representação de
+uma entidade independente; caso o retângulo seja com arestas arredondadas, trata-se da
+representação de uma entidade dependente (entidade fraca).
+
+
+                                               pessoa
+                                   Id_pessoa ( FK )
+                                   CPF ( AK )
+                                   Endereço
+                                   Data de nascimento ( O )
+
+
+Já os atributos são identificados por seu nome único e domínio respectivo - o nome é expresso no
+singular e descreve a característica representada pelo atributo. O tipo do atributo pode ser
+identificado entre parênteses: (PK) para representar uma chave primária; (FK) para representar uma
+chave estrangeira; (AK) para representar uma chave alternativa; e (O) para representar que um
+atributo é opcional. Chaves primárias são inscritas acima da divisão horizontal do retângulo.
+
+Por fim, temos os relacionamentos, que representam regras ou restrições do ambiente de negócios.
+A determinação do relacionamento entre duas entidades está, portanto, completamente ligada à
+compreensão que se tem do sistema sob estudo. Relacionamentos podem ser classificados em duas
+
+
+---
+
+categorias independentes: relacionamentos identificadores ou não identificadores                     e
+relacionamentos mandatórios/obrigatórios ou não mandatórios/não obrigatórios (opcionais).
+
+Relacionamento identificador entre duas entidades (E1 → E2) indica que uma instância de E2
+(entidade-filha) não pode ser completamente identificada sem uma instância de E1 (entidade-pai).
+Já relacionamento obrigatório entre duas entidades (E1 → E2) indica que a cardinalidade mínima
+de E1 é 1. Dessa forma, podemos inferir que um relacionamento identificador sempre será
+obrigatório. Por que, Diego?
+
+Porque se uma instância de E2 não pode ser completamente identificada sem uma instância de E1,
+significa que uma instância de E1 é obrigatória. Já um relacionamento não identificador pode ser
+classificado em mandatório ou opcional. Ele é considerado mandatório quando uma instância de
+E2 não precisa de uma instância de E1 para ser identificado, porém o ambiente de negócios obriga
+que exista uma instância de E1 associada à instância de E2.
+
+Em outras palavras, a chave primária de E1 se torna chave estrangeira em E2. Essa chave não é
+necessária para identificar E2, mas é obrigatória. Imagine que um Canil (E1) aloja diversos animais
+(E2), mas que um animal (E2) está alojado em apenas um canil (E1). A chave primária de E1 se torna
+chave estrangeira de E2. Para identificar um animal, é necessário saber seu canil? Não, é possível usar
+o código do animal. No entanto, pelas regras de negócio, o valor da chave estrangeira é obrigatório.
+
+Em cenário semelhante, um relacionamento não identificador pode ser classificado como opcional
+(não mandatório/não obrigatório). Isso ocorre quando uma instância de E2 não precisa de uma
+instância de E1 para ser identificado e o ambiente de negócios não impõe nenhuma obrigação que
+exista uma instância de E1 associada à instância de E2. Em outras palavras, uma instância de E2 não
+precisa necessariamente estar associada a uma instância de E1.
+
+Em outras palavras, a chave primária de E1 se torna chave estrangeira em E2. No entanto, essa
+chave não é necessária para identificar E2 e sequer é obrigatória. Vocês se lembram que chaves
+estrangeiras podem ser nulas? Pois é! Imagine que um Canil (E1) aloja diversos animais (E2), mas que
+um animal (E2) não precisa estar alojado em um canil (E1). A chave primária de E1 se torna chave
+estrangeira de E2.
+
+
+---
+
+Para identificar um animal, é necessário saber seu canil? Não, é possível usar o código do animal.
+Além disso, pelas regras de negócio, o valor da chave estrangeira pode ser nulo (opcional).
+
+Em suma, relacionamentos identificadores e não identificadores são representados conforme
+apresenta a tabela a seguir. Além disso, é importante notar que a chave estrangeira fica acima da
+linha divisória do retângulo apenas em relacionamentos identificadores, porque – nesse caso – ela
+faz parte da chave primária. Quando o relacionamento é não identificador, a chave estrangeira fica
+abaixo da linha divisória do retângulo porque ela não faz parte da chave primária.
+
+                          Relacionamento identificador
+                      Relacionamento Não-identificador
+
+Um relacionamento pode ser obrigatório (quando a sua cardinalidade mínima é maior que zero) ou
+opcional (quando a sua cardinalidade mínima é zero). Quanto à cardinalidade, temos:
+
+      cardinalidade                Significado                              exemplo
+ (sem indicação)           0, 1 ou mais                  Um FUNCIONÁRIO possui 0, 1 ou mais FILHOS.
+ Letra P                   1 ou mais (vem de Positivo)   Um GRUPO é composto de 1 ou mais PESSOAS.
+ Letra Z                   0 ou 1 (vem de Zero)          Um ESTUDANTE possui 0 ou 1 BOLSAS DE ESTUDO.
+ Letra N                   Exatamente N                  Um NAVIO possui exatamente 6 TURBINAS.
+
+
+Agora vamos ver como os relacionamentos são representados de acordo com cada classificação e
+cardinalidades. Da esquerda para a direita, temos a entidade-pai e a entidade-filha. Logo, a leitura
+é: uma instância da entidade-pai está relacionada à (cardinalidade?) instâncias da entidade-filha
+(Ex: uma instância da Entidade 1 está relacionada a 0, 1 ou muitas instâncias da Entidade 2; uma
+instância da Entidade 1 está relacionada a uma ou mais instâncias da Entidade 2; entre outros).
+
+      CARDINALIDADE                      IDENTIFICAdor                        NÃO IDENTIFICador
+
+    MUITOS-PARA-MUITOS                                                                –
+
+
+---
+
+    ZERO, UM OU MUITOS
+
+                                                   Z                                      Z
+          ZERO OU UM
+
+
+                                                   P                                      P
+          UM OU MAIS
+
+
+                                                   N                                      N
+    UM A EXATAMENTE N
+
+Agora note uma coisa interessante que já foi cobrada em prova de concurso: quando temos um
+relacionamento não identificador e não obrigatório, a entidade-pai (à esquerda) pode ser zero.
+Dessa forma, trata-se de um relacionamento opcional e utilizamos um losango para representá-lo.
+Por que, professor? Isso é apenas uma convenção! Um dia alguém decidiu que era uma exceção e
+que deveria ser representado dessa maneira.
+
+     RELACIONAMENTO                IDENTIFICAdor                      NÃO IDENTIFICador
+
+ RELACIONAMENTO OPCIONAL                  –
+
+
+Por fim, é importante enfatizar que muitas questões simplesmente misturam DER, IDEF1X e
+Notação Pé-De-Galinha em um mesmo diagrama! Não há nada de errado nisso...
+
+
+     (PETROBRÁS – 2014) O diagrama a seguir apresenta um modelo de entidades e
+     relacionamentos segundo a notação da Engenharia de Informação.
+
+     A notação equivalente em IDEF1X é:
+
+     a)
+     b)
+     c)
+     d)
+     e)
+     _______________________
+
+
+---
+
+Comentários: inicialmente vamos analisar a notação pé-de-galinha (lembrando que a leitura é de dentro para fora): do lado
+esquerdo, temos um círculo vazio e um único traço, representando uma cardinalidade (0,1); do lado direito, temos um círculo
+vazio e o pé de galinha, representando uma cardinalidade (0,N). Além disso, temos dois retângulos com arestas retas e, não,
+arredondadas, logo se trata de uma entidade independente com um relacionamento não-identificador (linha tracejada). Para
+transpor para a notação equivalente em IDEF1X, temos que utilizar também uma linha tracejada.
+
+Do lado direito (entidade-filha), temos uma cardinalidade (0,N), logo ela pode ser representada por um círculo preto; do lado
+esquerdo (entidade-pai), temos uma cardinalidade (0,1), logo ela pode ser representada por um losango vazio. Por que, Diego?
+Se a cardinalidade mínima é zero, significa que se trata de um relacionamento opcional, isto é, uma Coleção pode ter zero, um
+ou vários ItemColeção, e um ItemColeção pertence a nenhuma ou exatamente uma Coleção. Logo, a equivalência é:
+
+(Gabarito: Letra A)
+
+
+---
+
+                                                           RESUMO
+
+                            Representa dados por meio de uma linguagem matemática, utilizando teoria de conjuntos
+        MODELO
+                            e lógica de predicado de primeira ordem – ele efetivamente representa o banco de dados
+      RELACIONAL            como uma coleção de relações.
+
+
+                                                Principais Modelos de dados
+                 MODELO                                         MODELO                                        MODELO
+                 PLANO                                          EM REDE                                    HIERÁRQUIICO
+
+      Consiste em matrizes simples,             Permite que várias tabelas sejam utilizadas    Variação do Modelo em Rede que limita as
+ bidimensionais, compostas por elementos        simultaneamente por meio de referências         relações a uma estrutura semelhante à
+de dados – é a base de planilhas eletrônicas.               ou apontadores.                            estrutura de uma árvore.
+               MODELO                                           MODELO                                      MODELO
+         ORIENTADA A OBJETOS                                  relacional                             HIERÁRQUICO-RELACIONAL
+
+Trata os dados como objetos que possuem            Trata os dados como uma coleção de         Combina a simplicidade do modelo relacional
+   propriedades (atributos) e operações          tabelas compostas por linhas e colunas e      com algumas funcionalidades avançadas do
+                (métodos).                           relacionadas por meio de chaves.                 modelo orientado a objetos.
+
+
+                                                                                   Tabela/relação
+
+                         Coluna/atributo*
+                                                               ALUNO
+       NOME DO ALUNO                      NUMERO DO ALUNO                     TIPO DE ALUNO                         CURSO
+      Diego Carvalho                            1357981                         Bolsista                 Ciência da Computação
+      Renato da Costa                           2121578                         Regular                Engenharia da Computação
+
+                                                                   Domínio/tipo                                               Linha/tupla
+
+                           * A quantidade de colunas de uma relação é chamada de Grau ou Aridade da Relação.
+
+
+---
+
+           TABELA                                    RELAÇÃO                                 representa os dados e os
+                                                                                          relacionamentos entre os dados
+
+            LINHA                                     TUPLA                            coleção ou registro de valores de dados
+                                                                                                    relacionados
+
+          COLUNA                                    ATRIBUTO                              dados que ajudam a interpretar o
+                                                                                         significado dos valores das linhas
+
+    tipo de dado                                    domínio                            descreve os tipos de valores que podem
+                                                                                            ser exibidos em uma coluna
+
+            GRAU                                    ARIDADE                             NÚMERO DE COLUNAS PRESENTES EM UMA
+                                                                                                     RELAÇÃO
+
+                          Coleção de operações de alto nível sobre relações ou conjuntos cujo resultado seja uma
+Álgebra relacional
+                          nova relação ou conjunto.
+
+
+ OPERAÇÃO       SÍMBOLO COMUTATiva        ARIDADE                              FINALIDADE
+                                                       Seleciona todas as linhas que satisfazem a condição de
+ SELEÇÃO         σ(T1)        Sim          Unária      seleção de uma Tabela T1.
+
+                                                       Produz uma nova tabela com apenas algumas das colunas de
+ PROJEÇÃO        Π(T1)        Não          Unária      uma tabela T1 e remove linhas duplicadas.
+
+                                                       Produz uma nova tabela com todas as combinações
+ PRODUTO
+                T1 X T2       Sim         Binária      possíveis de linhas de duas tabelas T1 e T2.
+CARTESIANO
+                                                       Produz uma nova tabela com todas as combinações
+  JUNÇÃO        T1 ⋈ T2       Sim         Binária      possíveis de linhas de duas tabelas T1 e T2 que satisfazem
+                                                       uma condição de seleção.
+                                                       Produz uma nova tabela que inclui todas as linhas das Tabela
+  UNIÃO         T1 ⋃ T2       Sim         Binária      T1 e T2, eliminando as duplicatas – as tabelas devem ser
+                                                       união-compatíveis.
+                                                       Produz uma tabela que inclui todas as linhas em comum das
+INTERSECÇÃO T1 ∩ T2           Sim         Binária      Tabela T1 e T2 – as tabelas devem ser união-compatíveis.
+
+                                                       Produz uma tabela que inclui todas as linhas de uma Tabela
+DIFERENÇA       T1 - T2       Não         Binária      T1 que não estão na Tabela T2 – as tabelas devem ser união
+                                                       compatíveis.
+
+
+                          É basicamente uma única tabela que é derivada de outras tabelas (reais ou virtuais). Uma
+       View               view funciona como uma tabela virtual cujo comportamento se assemelha a uma tabela
+      (visão)             real de banco de dados, no entanto sem armazenar os dados – essas estruturas sempre
+                          dependem da base de dados que está realmente armazenada fisicamente.
+
+
+---
+
+                         Modo comum de melhorar o desempenho de um banco de dados, agilizando consultas por
+        Index            meio da localização ágil de um registro na tabela.
+       (índice)
+
+
+ Restrições Implícitas: também chamadas de restrições inerentes ao modelo, são restrições
+  inerentes ao modelo de dados (Ex: não são permitidas tuplas duplicadas em uma relação – trata-
+  se de uma restrição implícita ao próprio modelo de dados relacional).
+
+                  subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                          Restringe que uma chave primária se repita – uma chave primária diferencia
+      Restrição de chave OU UNICIDADE     de forma única os registros de uma relação.
+
+ Restrições Explícitas: também chamadas de restrições baseadas no esquema, são restrições
+  que podem ser expressas diretamente nos esquemas do modelo de dados. Em geral,
+  especificando-as via DDL (Ex: o campo NOME não pode conter números).
+
+                  subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                          Restringe que um campo de uma relação tenha valores diferentes daqueles
+   Restrição de INTEGRIDADE DE domínio definidos para o campo específico.
+
+                                          Restringe que uma chave primária tenha valores nulos (NULL). Pode ser
+  Restrição de Integridade de ENTIDADE    considerada uma subcategoria da restrição de domínio.
+
+                                          Restringe que a chave estrangeira de uma tabela seja inconsistente com a
+ Restrição de Integridade Referencial chave candidata da tabela referenciada.
+
+                                          Restringe que uma chave primária se repita, isto é, uma chave primária
+    Restrição de INTEGRIDADE DE chave diferencia de forma única os registros (linhas) de uma relação (tabela).
+
+
+ Restrições Semânticas: também chamadas de restrições baseadas na aplicação, não podem
+  ser expressas diretamente nos esquemas do modelo de dados, e, portanto, devem ser expressas
+  e impostas pela aplicação (Ex: o número de telefone não pode ter mais de 10 dígitos).
+
+                  subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                          Assegura que o conteúdo dos campos de um banco de dados reflita de
+   RESTRIÇÃO DE INTEGRIDADE SEMÂNTICA     forma precisa as regras de negócio.
+
+        TIPOS DE chave             Em inglês                                  descrição
+                                                 Conjunto de uma ou mais colunas que, tomadas coletivamente,
+          SUPERCHAVE                SUPERKEY
+                                                 permitem identificar de maneira unívoca uma linha.
+
+
+---
+
+                                                         Superchaves de tamanho mínimo, candidatas a serem possíveis
+       CHAVE CANDIDATA                 CANDIDATE KEY
+                                                         chaves primárias de uma tabela.
+                                                         Chaves cujas colunas são utilizadas para identificar linhas em uma
+        CHAVE PRIMÁRIA                  PRIMARY KEY
+                                                         tabela – em geral, vêm sublinhada.
+                                                         Chaves candidatas a serem possíveis chaves primárias de uma
+ CHAVE SECUNDÁRIA/alternativa          SECONDARY KEY
+                                                         tabela, mas que não foram escolhidas.
+                                                         Chaves de uma tabela que fazem referência à chave candidata de
+      CHAVE ESTRANGEIRA                 FOREIGN KEY
+                                                         outra tabela, ou até mesmo da própria tabela.
+                                                         Chaves primárias artificiais criadas para identificar de maneira
+       Chave substituta                Surrogate key
+                                                         unívoca uma linha.
+
+
+Relacionamento 1:1: trata-se de um relacionamento em que uma linha de uma tabela está
+associada com uma e apenas uma linha de outra tabela (*ou fundir ambas as tabelas).
+
+                                       É POSSÍVEL ESCOLHER QUAL TABELA RECEBERÁ A CHAVE ESTRANGEIRA
+
+                     TABELA PAÍS                                                                  TABELA CAPITAL
+      CÓDIGO PAÍS                          PAÍS                               CÓDIGO CAPITAL            CAPITAL         CÓDIGO PAÍS
+         100                             Holanda                                   123                   Hanói             500
+         200                            Austrália                                  234                Budapeste            400
+         300                            Colômbia                                   345                  nairóbi            600
+         400                             Hungria                                   456                amsterdam            100
+         500                              Vietnã                                   567                 Camberra            200
+         600                              Quênia                                   678                  Bogotá             300
+        CHAVE PRIMÁRIA (TABELA PAÍS)                                                CHAVE PRIMÁRIA (TABELA CAPITAL)
+
+Relacionamento 1:N: trata-se de um relacionamento em que uma linha de uma tabela está
+associada a diversas linhas de outra tabela.
+
+                          A CHAVE PRIMÁRIA DA TABELA PESSOA SE TORNA CHAVE ESTRANGEIRA DA TABELA CARTÃO
+
+                    TABELA pessoa                                                                  TABELA cartão
+        CPF                           NOME                                     código             bandeira                 CPF
+   111.111.111-11                 DÉCIO TERROR                                  101              MASTERCARD           111.111.111-11
+   222.222.222-22               GUILHERME NEVES                                 102                  VISA             333.333.333-33
+   333.333.333-33                 RICARDO VALE                                  103            AMERICAN EXPRESS       555.555.555-55
+   444.444.444-44               ROSENVAL JÚNIOR                                 104              DINERS CLUB          444.444.444-44
+   555.555.555-55               HERBERT ALMEIDA                                 105                  ELO              222.222.222-22
+   666.666.666-66                Marcos girão                                   106               hipercard           333.333.333-33
+      CHAVE PRIMÁRIA (TABELA pessoa)                                                CHAVE PRIMÁRIA (TABELA cartão)
+
+
+---
+
+Relacionamento N:M: trata-se de um relacionamento em que várias linhas de uma tabela se
+associam a várias linhas de outra tabela.
+
+        TABELA professor                                                               TABELA aluno
+ Cpf professor          NOME                                                    CPF aluno         NOME
+ 111.111.111-11   DIEGO CARVALHO                                               666.666.666-
+                                                                                                 romário
+ 222.222.222-22   RENATO DA COSTA                TABELA associativa                 66
+ 333.333.333-33     RICARDO VALE            Cpf professor      CPF aluno       777.777.777-
+                                                                                              Roberto carlos
+ 444.444.444-44   ROSENVAL JÚNIOR                             666.666.666-          77
+                                            111.111.111-11
+                                                                   66          888.888.888-
+                                                                                               Ronaldo fofo
+                                                              777.777.777-          88
+                                            222.222.222-22
+                                                                   77          999.999.999-
+                                                                                                 Rivaldo
+                                                              888.888.888-          99
+                                            333.333.333-33
+                                                                   88
+                                                              999.999.999-
+                                            444.444.444-44
+                                                                   99
+
+
+                                                     ATENÇÃO
+    CESPE            O CESPE – INFELIZMENTE – TEM ADOTADO O ENTENDIMENTO DE QUE A CHAVE ESTRANGEIRA
+                     REFERENCIA A CHAVE PRIMÁRIA (E, NÃO, CANDIDATA) DE OUTRA TABELA (OU DA MESMA TABELA).
+
+ REGRAS DE
+                                                             DESCRIÇÃO
+     CODD
+  REGRA 00    Regra Fundamental/Base
+  REGRA 01    Regra da Informação
+  Regra 02    Regra de Garantia de Acesso
+  Regra 03    Regra do Tratamento Sistemático de Valores Nulos
+  Regra 04    Regra do Catálogo Online baseado no Modelo Relacional
+  Regra 05    Regra da Sublinguagem Ampla/Compreensiva de Dados
+  Regra 06    Regra da Atualização por meio de Views
+  Regra 07    Regra da Inserção, Atualização e Exclusão de Alto Nível
+  Regra 08    Regra da Independência Física de Dados
+  Regra 09    Regra da Independência Lógica de Dados
+  Regra 10    Regra da Independência de Integridade
+  Regra 11    Regra da Independência de Distribuição
+  Regra 12    Regra da Não-Transposição/Subversão
+
+
+---
+
+MAPA MENTAL
+
+
+---
+
+---
+
+---
+
+                   QUESTÕES COMENTADAS – CESPE
+
+1. (CESPE / CNMP - 2023) Um registro é um conjunto de itens de dados que possuem um conjunto
+   de atributos que pertencem a determinada entidade.
+
+Comentários:
+
+Perfeito! Um registro, em um contexto de banco de dados, é um conjunto de itens de dados que
+compartilham uma mesma estrutura e representam uma instância de uma entidade específica.
+
+                                                                               Gabarito: Correto
+
+2. (CESPE / SEPLAN-RR - 2023) No modelo relacional de dados todas as relações necessitam de
+   uma chave primária formada por uma ou mais tuplas que identificam um único registro.
+
+Comentários:
+
+Na verdade, o modelo relacional de dados, cada relação (ou tabela) deve ter uma chave primária,
+mas essa chave não é necessariamente formada por uma ou mais tuplas. Na verdade, a chave
+primária é composta por uma ou mais colunas que identificam de forma única cada registro (ou
+tupla) dentro da relação.
+
+                                                                                Gabarito: Errado
+
+3. (CESPE / SEPLAN-RR - 2023) No modelo relacional, as estruturas de dados lógicas não são
+   separadas das estruturas de armazenamento físico, o que significa que os administradores de
+   banco de dados não podem gerenciar o armazenamento de dados físicos sem afetar o acesso a
+   esses dados como uma estrutura lógica.
+
+Comentários:
+
+Na verdade, no modelo relacional, as estruturas de dados lógicas são separadas das estruturas de
+armazenamento físico, o que permite aos administradores de banco de dados gerenciar o
+armazenamento de dados físicos de forma independente da estrutura lógica dos dados. Essa
+separação entre a estrutura lógica e a estrutura física permite que os administradores de banco de
+dados otimizem o armazenamento de dados de acordo com as necessidades do sistema, sem afetar
+a forma como os dados são acessados e manipulados como uma estrutura lógica.
+
+                                                                                Gabarito: Errado
+
+
+---
+
+4. (CESPE / TCE-SC - 2022) Em bancos de dados relacionais, o mapeamento do relacionamento
+   não deve seguir a cardinalidade, pois a pluralidade dos tipos de cardinalidade (0, 1 e n) dificulta
+   o mapeamento; ele deve ser realizado com base apenas na chave primária.
+
+Comentários:
+
+Que viagem! O mapeamento de relacionamentos em bancos de dados relacionais deve – sim –
+considerar a cardinalidade, que é a relação entre as entidades nas tabelas. A cardinalidade é
+fundamental para definir como as tabelas estão relacionadas. A chave primária é importante, mas
+sozinha não é suficiente para determinar completamente os relacionamentos – especialmente
+quando existem associações entre múltiplas entidades.
+
+Logo, o mapeamento de relacionamentos deve levar em consideração tanto a chave primária
+quanto a cardinalidade para garantir a integridade e a precisão das relações entre as tabelas.
+
+                                                                                    Gabarito: Errado
+
+5. (CESPE / TCE-SC - 2022) Considere que, no modelo entidade relacionamento mostrado a
+   seguir, IdDoenca, IdPessoa e IdDoencaPessoa sejam respectivamente chaves primárias simples
+   de Doenca, Pessoa e Doenca_Pessoa.
+
+   Nesse caso, a modelagem está incorreta, pois, sendo Doenca_Pessoa uma tabela associativa às
+   chaves estrangeiras IdPessoa e IdDoenca, nela contidas, deveriam fazer parte da chave primária
+   de Doenca_Pessoa, uma vez que os relacionamentos #1 e #2 são identificados.
+
+Comentários:
+
+Vamos analisar diversos pontos da questão:
+
+ Temos quatro tabelas e suas respectivas chaves primárias: Cidade (idCidade), Pessoa (idPessoa),
+  Doenca (idDoenca) e Doenca_Pessoa (idDoenca_Pessoa);
+
+
+---
+
+ Temos um relacionamento 1:N entre Pessoa e Cidade, isto é, uma pessoa vem de uma – e
+  somente uma – cidade; e uma cidade possui diversas pessoas;
+
+ Pessoa e Doenca possuem um relacionamento N:N, logo é necessário haver uma tabela
+  associativa Doenca_Pessoa para representar a cardinalidade desse relacionamento;
+
+ Há um relacionamento 1:N entre Doenca e Doenca_Pessoa (#1) e um relacionamento 1:N entre
+  Pessoa e Doenca_Pessoa (#2);
+
+ Um relacionamento identificado ocorre quando uma tabela-filha tem uma chave primária que
+  inclui uma chave estrangeira que faz referência à chave primária da tabela-pai;
+
+ A tabela associativa Doenca_Pessoa possui uma chave primária (idDoencaPessoa) e duas
+  chaves estrangeiras (idPessoa e idDoenca);
+
+ Logo, a chave primária de Doenca_Pessoa (idDoencaPessoa) não inclui chaves estrangeiras
+  referentes às chaves primárias das tabelas referenciadas (idPessoa e idDoenca);
+
+ Para que fossem relacionamentos identificados, a chave primária de Doenca_Pessoa não
+  deveria ser idDoencaPessoa e, sim, uma composição de (idPessoa, idDoenca).
+
+ Dessa forma, não temos relacionamentos identificados – razão pela qual a questão foi
+  considerada incorreta.
+
+ Essa modelagem poderia conter relacionamentos identificados? Sim, desde que a chave primária
+  de Doenca_Pessoa fosse (idPessoa, idDoenca).
+
+Detalhe: o relacionamento identificado seria ideal quando uma mesma pessoa só pode pegar uma
+mesma doença uma vez (Ex: Catapora); e o relacionamento não identificado quando uma mesma
+pessoa pode pegar uma mesma doença diversas vezes (Ex: Gripe).
+
+                                                                             Gabarito: Errado
+
+6. (CESPE / FUNPRESP-EXE - 2022) Seguindo uma visão relacional, além de seus próprios
+   atributos, a entidade ENDERECO deve possuir como chave estrangeira a chave primária
+   CODIGO da tabela PESSOA.
+
+Comentários:
+
+Perfeito! O endereço deve necessariamente estar associado a uma pessoa, nesse caso, na tabela
+endereço haverá uma coluna com o código da pessoa que está atrela a tal endereço.
+
+                                                                            Gabarito: Correto
+
+
+---
+
+7. (CESPE / FUNPRESP-EXE - 2022) View é uma visualização customizada de uma ou mais
+   tabelas, com seus dados armazenados fisicamente e montada a partir da execução de uma
+   consulta.
+
+Comentários:
+
+Na verdade, uma view é uma tabela virtual, dessa forma seus dados não são armazenados
+fisicamente, mas sim virtualmente. A exceção é a view materializada, que é armazenada
+fisicamente, mas a questão trata da view tradicional.
+
+                                                                                Gabarito: Errado
+
+8. (CESPE / PC-PB - 2022) Na álgebra relacional, a operação que permite combinar informações
+   de duas relações quaisquer é:
+
+   a) o produto cartesiano.
+   b) a seleção.
+   c) a projeção.
+   d) a renomeação.
+   e) a união.
+
+Comentários:
+
+O produto cartesiano é a operação binária que produz um resultado que combina as linhas de uma
+tabela com as linhas de outra tabela.
+
+                                                                                Gabarito: Letra A
+
+9. (CESPE / SEFAZ-AL – 2021) Em um banco de dados relacional, uma chave externa fornece uma
+   relação entre duas tabelas, ou seja, ela é a chave principal de uma tabela e, portanto, aparece
+   como atributo em outra tabela.
+
+Comentários:
+
+Em primeiro lugar, chave externa é um nome alternativo para chave estrangeira, logo ela realmente
+fornece uma relação entre duas tabelas. Além disso, chave principal é um nome alternativo para
+chave primária. Dito isso, uma chave estrangeira realmente fornece uma relação entre duas tabelas.
+Nós sabemos que uma chave estrangeira não será necessariamente chave primária de outra tabela,
+visto que ela poderá referenciar uma chave candidata.
+
+
+---
+
+A despeito disso, sabemos que o CESPE ignora essa possibilidade e trata há vários anos que uma
+chave estrangeira referencia necessariamente a chave primária da tabela referenciada. Logo, é uma
+jurisprudência da banca – não há como discutir!
+
+Apenas para exemplificar, vamos imaginar que tenhamos um relacionamento 1:N entre Pessoa-
+Carro. Em outras palavras, uma pessoa pode ter vários carros, mas um carro só pode pertencer a
+uma pessoa em nosso contexto. Logo, temos que:
+
+TABELA PESSOA
+- ID_PESSOA (PK)
+- COD_CPF
+- NOME_PESSOA
+
+TABELA CARRO
+- ID_CARRO (PK)
+- ID_PESSOA (FK) REFERENCES PESSOA (ID_PESSOA)
+
+Esse é o cenário previsto pela banca em que a chave primária de PESSOA é uma chave estrangeira
+em CARRO. No entanto, poderíamos ter um outro cenário:
+
+TABELA PESSOA
+- ID_PESSOA (PK)
+- COD_CPF
+- NOME_PESSOA
+
+TABELA CARRO
+- ID_CARRO (PK)
+- COD_CPF (FK) REFERENCES PESSOA (COD_CPF)
+
+Ora, CPF também é uma chave candidata e pode ser referenciada. Nesse caso, a chave estrangeira
+(externa) não é chave primária (principal) da tabela PESSOA. No entanto, como já discutimos, essa
+banca não costuma considerar essa possibilidade. Uma outra interpretação da questão é que,
+mesmo no primeiro cenário, a chave externa não é a chave principal da tabela – ela apenas
+referencia a chave principal de uma tabela, logo a questão estaria incorreta!
+
+                                                                               Gabarito: Correto
+
+10. (CESPE / ISS-Aracaju – 2021) Em um banco de dados relacional, a condição que garante que
+    valores não possam se repetir dentro da mesma coluna denomina-se:
+
+   a) Foregin key.
+   b) Cláusula unique.
+   c) Domain restriction.
+   d) Índice cluster.
+   e) Reference key.
+
+
+---
+
+Comentários:
+
+A condição que garante que valores não possam se repetir dentro da mesma coluna é a cláusula
+UNIQUE. Quando uma coluna possui a restrição UNIQUE, garante-se que todos os valores dessa
+coluna são diferentes entre si (lembrando que toda chave primária é automaticamente UNIQUE).
+
+                                                                                 Gabarito: Letra B
+
+11. (CESPE / SEFAZ - RS – 2019) Uma das regras de Codd para o modelo relacional consiste:
+
+   a) na independência de distribuição.
+   b) na presença de uma linguagem de programação no SGBD que promova interface com o
+   banco de dados, com a segurança e com a atualização dos dados.
+   c) na subversão das regras de integridade ou restrições quando utilizada uma linguagem de
+   baixo nível.
+   d) no não tratamento das atualizações de visões de dados.
+   e) na dependência de dados físicos (mudança na memória e no método de acesso).
+
+Comentários:
+
+(a) Correto, trata-se da Regra 11; (b) Errado, esse item parece ter relação com a Regra 05, mas essa
+regra fala de ao menos uma sublinguagem declarativa que promova definição de dados, definição
+de visualizações, manipulação de dados, restrições de integridade, autorização e controle de
+transações, logo não vejo relação direta com o que propõe o item; (c) Errado, a Regra 12 trata
+justamente da não subversão das restrições; (d) Errado, a Regra 06 trata justamente do tratamento
+de atualizações por meio de visões (views) de dados; (e) Errado, a Regra 08 trata justamente da
+independência física dos dados.
+
+                                                                                 Gabarito: Letra A
+
+12. (CESPE / APEX-BRASIL – 2021) Não pode ter valor nulo em uma tabela do banco de dados um
+    campo:
+
+   a) que seja chave estrangeira.
+   b) que tenha sido utilizado em um índice.
+   c) que seja chave primária.
+   d) que represente uma data de nascimento.
+
+Comentários:
+
+Todos os outros podem ser nulos, exceto a chave primária. Inclusive a chave estrangeira? Sim,
+conforme explicado em aula.
+
+                                                                                 Gabarito: Letra C
+
+
+---
+
+13. (CESPE / TCE-RJ – 2021) Superchaves e chaves primárias são utilizadas para diferenciar de
+    maneira única as instâncias de uma entidade, assim como para facilitar o processamento.
+
+Comentários:
+
+Perfeito! Ambas permitem diferenciar de maneira única instâncias de uma entidade, facilitando o
+processamento (lembrando que uma chave primária é uma superchave mínima). Professor, elas
+facilitam o processamento? Sim, tente fazer transações sem ter uma chave – o processamento
+poderá ser bem mais complexo.
+
+                                                                               Gabarito: Correto
+
+14. CESPE / TCE-RJ – 2021) No modelo relacional de bancos de dados, os elementos ficam
+    armazenados em tabelas bidimensionais simples, contendo linhas (registros) e colunas
+    (campos), e os elementos de um arquivo do banco podem relacionar-se com diversos elementos
+    de outros arquivos.
+
+Comentários:
+
+No modelo relacional, os elementos realmente ficam armazenados em tabelas bidimensionais
+simples, contendo linhas (registros) e colunas (campos). É importante destacar que – de acordo com
+Navathe – um arquivo é um termo informal para uma coleção de registros (tabela).
+
+                                                                               Gabarito: Correto
+
+15. CESPE / Polícia Federal – 2021) Se uma tabela de banco de dados tiver 205 atributos, então
+    isso significa que ela tem 205 registros.
+
+Comentários:
+
+Não, significa que ela tem 205 colunas! Lembrem-se: Atributos > Colunas e Tuplas > Linhas.
+
+                                                                                Gabarito: Errado
+
+16. (CESPE / Polícia Federal – 2021) Uma hiperchave é uma tupla que permite recuperar uma
+    relação de uma tabela.
+
+Comentários:
+
+Não existe o conceito de hiperchave! Além disso, não faz sentido “recuperar uma relação de uma
+tabela” porque uma relação é uma tabela!
+
+
+---
+
+                                                                               Gabarito: Errado
+
+17. (CESPE / ME – 2020) Chaves estrangeiras não podem ser nulas e cada registro na tabela deve
+    possuir uma, e somente uma, chave estrangeira.
+
+Comentários:
+
+Chaves estrangeiras – quando não tiverem restrições explícitas na declaração da coluna – podem
+receber valores nulos. Essa situação acontece quando temos relacionamentos não obrigatórios.
+Nestes casos, quando uma instância de uma determinada entidade, não estiver relacionada a uma
+instância da outra entidade, o valor da chave estrangeira será nulo.
+
+                                                                               Gabarito: Errado
+
+18. (CESPE / ME – 2020) Uma view é uma tabela que é atualizada no momento em que uma das
+    tabelas consultadas é atualizada; a view permite consultas ao banco de dados de forma mais
+    rápida quando comparada à utilização de índices.
+
+Comentários:
+
+A questão inverteu os conceitos! Um view índice permite consultas ao banco de dados de forma
+mais rápida quando comparada à utilização de índices views.
+
+                                                                               Gabarito: Errado
+
+19. (CESPE / ME – 2020) Em um banco de dados relacional, a chave candidata a primária é formada
+    por um ou mais atributos que identificam uma única tupla.
+
+Comentários:
+
+Numa relação com mais de uma chave, temos um conjunto de chaves candidatas a chave primária.
+Em cada relação, apenas um conjunto de atributos pode ser escolhido como chave primária, sendo
+que toda chave identifica unicamente cada uma das linhas ou tuplas de uma relação. Logo, em um
+banco de dados relacional, a chave candidata a primária realmente é formada por um ou mais
+atributos que identificam uma única tupla.
+
+                                                                              Gabarito: Correto
+
+20. (CESPE / ME – 2020) A restrição de integridade referencial exige que os valores que aparecem
+    nos atributos especificados de qualquer tupla na relação referenciadora também apareçam nos
+    atributos de pelo menos uma tupla na relação referenciada.
+
+
+---
+
+Comentários:
+
+A restrição de integridade referencial restringe que a chave estrangeira de uma tabela seja
+inconsistente com a chave candidata da tabela referenciada. Em outras palavras, essa restrição
+existe para manter a consistência das tuplas entre as relações. Logo, a restrição de integridade
+referencial realmente exige que os valores que aparecem nos atributos especificados de qualquer
+tupla na relação referenciadora também apareçam nos atributos de pelo menos uma tupla na
+relação referenciada.
+
+                                                                               Gabarito: Correto
+
+21. (CESPE / ME – 2020) Um banco de dados relacional organiza os dados em tabelas e os vincula,
+    com base em campos-chave, e essas relações permitem recuperar e combinar dados de uma ou
+    mais tabelas com uma única consulta.
+
+Comentários:
+
+Bancos de dados relacionais realmente organizam dados em tabelas e esses dados se vinculam
+entre tabelas por meio de campos/colunas e chaves. Essas relações – de fato – permitem recuperar
+e combinar dados de uma ou mais tabelas com uma única consulta.
+
+                                                                               Gabarito: Correto
+
+22. (CESPE / ME – 2020) Analise o diagrama IDEF1X (pé de galinha) mostrado a seguir.
+
+   Sobre esse diagrama e sua implementação relacional correspondente, assinale a afirmativa
+   correta.
+
+   a) A1 em T2 pode ser nulo, independentemente de A2 em T2 ser nulo ou não.
+   b) A1 em T2 pode ser nulo somente se A2 em T2 for nulo.
+   c) O relacionamento entre T1 e T2 é “não identificador”.
+   d) Um registro qualquer de T2 pode não estar relacionado a algum registro de T1.
+   e) Em T2, A2 e A1, concatenados, constituem um identificador para T2.
+
+Comentários:
+
+Batendo o olho no diagrama, já podemos identificar diversas características importantes: (1) temos
+uma linha sólida e, não, tracejada. Logo, temos um relacionamento identificador; (2) T2 é
+
+
+---
+
+representado como um retângulo com arestas arredondadas, logo se trata de uma entidade
+dependente; (3) a chave primária de T1 se torna chave estrangeira em T2, logo se trata de um
+relacionamento um-para-muitos; (4) em T2, a chave estrangeira está na parte de cima da linha
+divisória de atributos, o que indica que a chave estrangeira (A1) compõe a chave primária da
+Entidade T2 junto com o atributo A2. (5) Pela notação pé-de-galinha, temos (1,1) do lado esquerdo
+e (0,N) do lado direito. Dito tudo isso, vamos analisar os itens:
+
+(a) Errado, não pode ser nulo em nenhuma hipótese porque A1 compõe a chave primária de T2; (b)
+Errado, não pode ser nulo em nenhuma hipótese porque A1 compõe a chave primária de T2; (c)
+Errado, trata-se de um relacionamento identificador – baste ver que temos uma linha sólida e, não,
+tracejada; (d) Errado, isso significaria que que A1 poderia ser nulo e, conforme já vimos, ele não
+pode; (e) Correto, ambos compõem a chave primária de T2.
+
+                                                                                  Gabarito: Letra E
+
+23. (CESPE / Polícia Federal – 2018) Situação hipotética: Ao analisar um computador, Marcos
+    encontrou inúmeros emails, vídeos e textos advindos, em sua maioria, de comentários em redes
+    sociais. Descobriu também que havia relação entre vários vídeos e textos encontrados em um
+    diretório específico. Assertiva: Nessa situação, tendo como referência somente essas
+    informações, Marcos poderá inferir que se trata de um grande banco de dados relacional, visto
+    que um diretório é equivalente a uma tabela e cada arquivo de texto é equivalente a uma tupla;
+    além disso, como cada arquivo possui um código único, poderá deduzir que esse código é a
+    chave primária que identifica o arquivo de forma unívoca.
+
+Comentários:
+
+De jeito algum! Um banco de dados relacional trata de dados estruturados em linhas e colunas de
+tabelas. E-mails, vídeos e textos advindos de comentários em redes sociais – em regra – não são
+dados estruturados. Além disso, diretório não seria uma tabela e o arquivo de texto não seria uma
+tupla. E quem disse que cada arquivo possui um código único? Além disso, chaves primárias possuem
+outras características além de serem unívocas. Enfim... tudo errado!
+
+                                                                                   Gabarito: Errado
+
+24. (CESPE / FUB – 2018) Álgebra relacional é um conjunto de operações sobre relações, sendo
+    gerada dessas operações uma relação de saída.
+
+Comentários:
+
+Perfeito, perfeito, perfeito! Álgebra relacional é um conjunto de operações sobre relações? Sim. Além
+disso, lembrem-se que toda operação em uma relação resultará em outra relação como saída. Se
+você fizer uma seleção, projeção, produto cartesiano, qualquer uma gerará como saída outra
+relação.
+
+
+---
+
+                                                                                  Gabarito: Correto
+
+CPF
+NOME
+DATA DE NASCIMENTO
+NOME DO PAI
+NOME DA MAE
+TELEFONE
+CEP
+NUMERO
+
+As informações anteriormente apresentadas correspondem aos campos de uma tabela de um banco de
+dados, a qual é acessada por mais de um sistema de informação e também por outras tabelas. Esses
+dados são utilizados para simples cadastros, desde a consulta até sua alteração, e também para
+prevenção à fraude, por meio de verificação dos dados da tabela e de outros dados em diferentes bases
+de dados ou outros meios de informação.
+
+25. (CESPE / Polícia Federal – 2018) A referida tabela faz parte de um banco de dados relacional.
+
+Comentários:
+
+O texto fala em uma tabela acessada por um sistema de informação e também acessada por outras
+tabelas, logo a tabela referenciada realmente faz parte de um banco de dados relacional
+(mencionou que é relacional, lembrem-se de tabelas).
+
+                                                                                  Gabarito: Correto
+
+26. (CESPE / TCE-PE – 2017) Uma visão (view) é derivada de uma ou mais relações e armazena os
+    dados em uma tabela física do banco de dados, visando tornar ágeis as consultas.
+
+Comentários:
+
+Uma view é realmente derivada de uma ou mais relações, no entanto ela é uma tabela virtual que
+não armazena dados. A questão provavelmente se refere às views materializadas, que são tipos
+específicos de view que permitem o armazenamento em uma tabela real.
+
+                                                                                   Gabarito: Errado
+
+27. (CESPE / TCE-PE – 2017) A chave estrangeira (foreign key) é o campo que estabelece o
+    relacionamento entre duas tabelas de bancos distintos, sendo necessariamente chave primária
+    na tabela de um dos bancos.
+
+
+---
+
+Comentários:
+
+Opa! A chave estrangeira realmente é o campo que estabelece o relacionamento entre duas
+tabelas, no entanto essas tabelas devem pertencer ao mesmo banco.
+
+                                                                                   Gabarito: Errado
+
+28. (CESPE / TCE-PA – 2016) Em bancos de dados relacionais, chave estrangeira é aquela que
+    permite uma ligação lógica entre duas tabelas — a chave estrangeira de uma tabela se liga
+    logicamente à chave primária de outra tabela.
+
+Comentários:
+
+
+                                            ATENÇÃO
+    CESPE       O CESPE – INFELIZMENTE – TEM ADOTADO O ENTENDIMENTO DE QUE A CHAVE ESTRANGEIRA
+                REFERENCIA A CHAVE PRIMÁRIA (E, NÃO, CANDIDATA) DE OUTRA TABELA (OU DA MESMA TABELA).
+
+
+Perfeito! O entendimento do CESPE é de que a chave estrangeira de uma tabela se liga logicamente
+à chave primária de outra tabela e, não, à chave candidata.
+
+                                                                                  Gabarito: Correto
+
+29. (CESPE / TCE-SC – 2016) Denomina-se visão uma tabela única derivada de uma ou mais tabelas
+    básicas do banco. Essa tabela existe em forma física e viabiliza operações ilimitadas de
+    atualização e consulta.
+
+Comentários:
+
+Primeiro, ela realmente é uma tabela única derivada de uma ou mais tabelas básicas do banco. No
+entanto, ela existe em forma virtual o que – via de regra – inviabiliza operações de atualização.
+
+                                                                                   Gabarito: Errado
+
+30. (CESPE / TCE-SC - 2016) Em bancos de dados relacionais, as tabelas que compartilham um
+    elemento de dado em comum podem ser combinadas para apresentar dados solicitados pelos
+    usuários.
+
+Comentários:
+
+A questão trata de junções! Essas operações utilizam atributos que operam sobre o mesmo domínio
+presentes em cada uma das tabelas. Esses atributos são utilizados para combinar uma tabela com
+a outra toda vez que tivermos os mesmos valores em ambas as tabelas.
+
+
+---
+
+                                                                               Gabarito: Correto
+
+Considerando a figura apresentada, que ilustra o modelo de um banco de dados hipotético, julgue
+o item que se segue.
+
+31. (CESPE / TCE-PA – 2016) Projeção é uma operação binária que realiza a junção de duas tabelas
+    e gera, como resultado, uma tabela com todas as combinações dos atributos de entrada.
+
+Comentários:
+
+Projeção é uma operação binária? Não, é unária – opera sobre uma única tabela! Realiza a junção de
+duas tabelas e gera, como resultado, uma tabela com todas as combinações dos atributos de entrada?
+Não, a operação responsável por isso é o Produto Cartesiano.
+
+                                                                                Gabarito: Errado
+
+32. (CESPE / TCE-PA – 2016) No modelo relacional de dados, uma tabela é um conjunto ordenado
+    de campos.
+
+Comentários:
+
+No modelo relacional de dados, uma tabela é um conjunto não ordenado de tuplas/linhas e, não, de
+campos; uma tupla é um conjunto ordenado de campos.
+
+                                                                                Gabarito: Errado
+
+33. (CESPE / Prefeitura de Niterói-RJ – 2015) Na questão seguinte há referência a um banco de
+    dados denominado banco BD, cujo esquema relacional e respectivo preenchimento são
+    ilustrados a seguir.
+
+
+---
+
+São definidas para essas tabelas chaves primárias e/ou candidatas, de acordo com o quadro a
+seguir.
+
+ A notação IDEF1X é utilizada para a modelagem de bancos de dados, especialmente do tipo
+ relacional. Dos modelos apresentados, o que representa adequadamente o banco BD é:
+
+a)
+
+b)
+
+c)
+
+
+---
+
+   d)
+
+   e)
+
+Comentários:
+
+Notem que não há chaves estrangeiras nas tabelas CLIENTE e PRODUTO. Já a tabela VENDA
+contém duas chaves estrangeiras que referenciam as chaves primárias de CLIENTE e PRODUTO.
+Além disso, notem que a chave primária de VENDA é composta por (pedido,item). Logo, a chave
+primária (1,1) está relacionada ao codigoC (1002) e codigoP (99); a chave primária (1,2) está
+relacionada ao codigoC (1002) e codigoP (88).
+
+Agora vamos analisar a relação entre PRODUTO e VENDA: notem que um produto pode estar
+relacionado a várias vendas (Ex: temos codigoP = 99 com venda = (1,1) e codigoP = 99 com venda =
+(12,1)). Ocorre que um produto também pode estar relacionado a nenhuma venda (Ex: o produto
+cujo codigoP = 77 não está relacionado a nenhuma venda). Já uma venda deve estar relacionada a
+exatamente um produto – note que não há uma mesma venda relacionada com nenhum ou vários
+produtos. Dito isso, a relação PRODUTO-VENDA tem cardinalidade (1,1)(0,N).
+
+Agora vamos analisar a relação entre CLIENTE e VENDA: notem que um cliente pode estar
+relacionado a várias vendas (Ex: temos codigoC = 1002 com venda = (1,1) e codigoC = 1002 com
+venda = (1,2)). Ocorre que um cliente também pode estar relacionado a nenhuma venda (Ex: o
+cliente cujo codigoC = 1001 não está relacionado a nenhuma venda). Já uma venda deve estar
+relacionada a exatamente um cliente – note que não há uma mesma venda relacionada com
+nenhum ou vários clientes. Dito isso, a relação CLIENTE-VENDA tem cardinalidade (1,1)(0,N).
+
+               CLIENTE (1,1)(0,N) ––––– VENDA ––––– (0,N)(1,1) PRODUTO
+
+(a) Errado. Como não há linhas conectando as tabelas, elas não possuem nenhum relacionamento;
+(b) Errado. O atributo codigoC não faz parte da chave primária de VENDA, logo deveria constar
+abaixo da linha horizontal do retângulo; (c) Errado. O atributo codigoC não faz parte da chave
+primária de VENDA, logo deveria constar abaixo da linha divisória do retângulo – e a cardinalidade
+está incorreta; (d) Correto. Note que codigoC e codigoP não fazem parte da chave primária, logo
+estão na parte de baixo da linha divisória do retângulo. Além disso, do lado esquerdo temos dois
+traços (1,1) e um círculo com um pé-de-galinha (0,N); do lado direito temos um círculo e um pé-de-
+galinha (0,N) e dois traços (1,1). Logo, representam a cardinalidade correta do relacionamento; (e)
+Errado. Do lado esquerdo, temos dois traços (1,1) e um círculo com um traço (0,1), o que não
+
+
+---
+
+representa corretamente o relacionamento; do lado direito, temos um círculo com um traço (0,1) e
+dois traços (1,1), o que também não representa corretamente o relacionamento.
+
+                                                                                      Gabarito: Letra D
+
+34. (CESPE / TRE-MT – 2015) Assinale a opção que apresenta corretamente o modelo de dados em
+    que uma linha é chamada de tupla, um cabeçalho de coluna é chamado de atributo e uma tabela
+    é chamada de relação:
+
+   a) modelo de dados XML
+   b) modelo relacional de dados
+   c) modelo de dados em rede
+   d) modelo de dados hierárquico
+   e) modelo de dados híbrido de registro integrado
+
+Comentários:
+
+
+               TABELA                      RELAÇÃO                     representa os dados e os
+                                                                    relacionamentos entre os dados
+
+               LINHA                        TUPLA                      coleção de valores de dados
+                                                                              relacionados
+
+             COLUNA                       ATRIBUTO                  dados que ajudam a interpretar o
+                                                                    significado dos valores das linhas
+
+Essa correspondência de nomenclaturas faz parte do modelo relacional de dados.
+
+                                                                                      Gabarito: Letra B
+
+35. (CESPE / TCU – 2015) Em um banco de dados estruturado de acordo com o modelo relacional,
+    todos os elementos dos dados são colocados em tabelas bidimensionais, organizados em linhas
+    e colunas, o que simplifica o acesso e a manipulação dos dados. Operações matematicamente
+    conhecidas como de produto cartesiano, de seleção e de projeção também apoiam a
+    manipulação de dados aderentes ao modelo relacional.
+
+Comentários:
+
+Perfeito! A base do modelo relacional é uma relação, que é basicamente uma tabela bidimensional
+organizada em linhas e colunas. Além disso, ele fornece uma base matemática para a representação
+e a consulta dos dados fundamentado em lógica de predicados e teoria dos conjuntos. Dessa forma,
+operações matematicamente conhecidas da álgebra relacional ajudam a suportar a manipulação
+de dados (Ex: Produto Cartesiano, Junção, Seleção, Projeção, etc).
+
+
+---
+
+                                                                               Gabarito: Correto
+
+36. (CESPE / MEC – 2015) Chave candidata é um atributo especial capaz de identificar uma
+   instância de determinada entidade de maneira única. Assim, durante a modelagem relacional
+   de dados, todas as chaves candidatas nas entidades em análise se tornam chaves primárias
+   dessas entidades.
+
+Comentários:
+
+A primeira parte da questão está correta – uma chave candidata é basicamente uma possível chave
+primária de uma relação. No entanto, apenas uma das chaves candidatas se torna chave primária
+uma vez que só pode haver uma única chave primária por entidade.
+
+                                                                               Gabarito: Errado
+
+37. (CESPE / MEC – 2015) View é um objeto que permite implementar a segurança em um banco
+    de dados, omitindo dados irrelevantes para algum grupo de usuário. No entanto, não é
+    permitido criar uma view com base na definição de outra view.
+
+Comentários:
+
+A primeira parte da questão está perfeita, no entanto é permitido – sim – criar uma view com base
+na definição de outra view.
+
+                                                                               Gabarito: Errado
+
+38. (CESPE / TRE-MT – 2015) O conjunto de um ou mais campos cujos valores, considerando-se a
+    combinação de todos os campos da tupla, nunca se repetem e que podem ser usados como um
+    índice para os demais campos da tabela do banco de dados é denominado de:
+
+   a) domínio.
+   b) primeira forma normal.
+   c) dicionário de dados.
+   d) chave estrangeira.
+   e) chave primária.
+
+Comentários:
+
+O conjunto de um ou mais campos cujos valores, considerando-se a combinação de todos os
+campos da tupla, nunca se repetem e que podem ser usados como um índice para os demais
+campos da tabela do banco de dados é o conceito clássico de chave primária.
+
+
+---
+
+                                                                               Gabarito: Letra E
+
+39. (CESPE / TRE-GO – 2015) Uma chave primária identifica um único valor de uma tupla no banco
+    de dados e não possui mais de um atributo na tabela.
+
+Comentários:
+
+Uma chave primária pode ser composta por diversos atributos – não há restrições de quantidade de
+atributos de uma chave primária.
+
+                                                                               Gabarito: Errado
+
+40. (CESPE / CGE-PI – 2015) Em um relacionamento de tabelas de um banco de dados relacional, a
+    chave estrangeira serve para referenciar uma entidade dentro de outra tabela, facilitando,
+    assim, a busca e o agrupamento dessas entidades.
+
+Comentários:
+
+O ideal seria que a questão dissesse que a chave estrangeira serve para referenciar uma coluna ou
+um atributo dentro de outra tabela. Forçando bastaaaaaaaaaaaaaaaaante a barra, ele aceitou
+“entidade” como o termo correto, mas está impreciso.
+
+                                                                               Gabarito: Correto
+
+41. (CESPE / TCU - 2015) Chave primária é um campo, ou um conjunto de campos, que abriga
+   valores que individualizam cada registro. Esse campo não pode repetir-se em uma mesma
+   tabela.
+
+Comentários:
+
+Perfeito! Se vocês quiserem guardar uma definição de chave primária, essa está impecável! Ela não
+pode se repetir em uma mesma tabela e abriga valores que individualizam cada registro ou linha de
+uma tabela.
+
+                                                                               Gabarito: Correto
+
+42. (CESPE / MEC – 2015) A operação PROJEÇÃO seleciona algumas colunas e linhas da
+    relação/tabela, enquanto descarta outras.
+
+Comentários:
+
+Na verdade, a projeção seleciona apenas colunas e, não, linhas.
+
+
+---
+
+                                                                                 Gabarito: Errado
+
+43. (CESPE / MPOG – 2015) Relações definidas como conjuntos matemáticos e representadas na
+    implementação física em bancos de dados por tabelas podem conter tuplas duplicadas.
+
+Comentários:
+
+Relações podem ser definidas como conjuntos matemáticos? Sim! Elas podem ser representadas na
+implementação física de bancos de dados por tabelas? Sim! Elas podem conter tuplas duplicadas? Não,
+tanto na matemática quanto na modelagem relacional de bancos de dados, uma relação é um
+conjunto de elementos não duplicados que não possuem ordem entre si.
+
+                                                                                 Gabarito: Errado
+
+44. (CESPE / MEC – 2015) Integridade referencial baseia-se na ligação das informações das chaves
+    estrangeiras com as chaves primárias, ou candidatas a primárias, da tabela de referência.
+
+Comentários:
+
+Perfeito! A Restrição de Integridade Referencial restringe que a chave estrangeira de uma tabela
+seja inconsistente com a chave candidata da tabela referenciada. Em geral, trata-se da chave
+primária, mas isso não é obrigatório. Logo, o termo mais correto é chave candidata.
+
+                                                                                Gabarito: Correto
+
+45. (CESPE / MPOG – 2015) Relações definidas como conjuntos matemáticos e representadas na
+    implementação física em bancos de dados por tabelas podem conter tuplas duplicadas.
+
+Comentários:
+
+Relações podem ser definidas como conjuntos matemáticos? Sim! Elas podem ser representadas na
+implementação física de bancos de dados por tabelas? Sim! Elas podem conter tuplas duplicadas? Não,
+tanto na matemática quanto na modelagem relacional de bancos de dados, uma relação é um
+conjunto de elementos não duplicados que não possuem ordem entre si.
+
+                                                                                 Gabarito: Errado
+
+46.(CESPE / MEC – 2015) Integridade referencial baseia-se na ligação das informações das chaves
+   estrangeiras com as chaves primárias, ou candidatas a primárias, da tabela de referência.
+
+Comentários:
+
+
+---
+
+Perfeito! A Restrição de Integridade Referencial restringe que a chave estrangeira de uma tabela
+seja inconsistente com a chave candidata da tabela referenciada. Em geral, trata-se da chave
+primária, mas isso não é obrigatório. Logo, o termo mais correto é chave candidata.
+
+                                                                                   Gabarito: Correto
+
+47. (CESPE / TJDFT – 2015) Em um banco de dados relacional, a chave estrangeira que existe em
+    uma tabela deve ser chave primária em outra tabela.
+
+Comentários:
+
+
+                                             ATENÇÃO
+    CESPE        O CESPE – INFELIZMENTE – TEM ADOTADO O ENTENDIMENTO DE QUE A CHAVE ESTRANGEIRA
+                 REFERENCIA A CHAVE PRIMÁRIA (E, NÃO, CANDIDATA) DE OUTRA TABELA (OU DA MESMA TABELA).
+
+
+Para o CESPE, a chave estrangeira que existe em uma tabela deve ser chave primária em outra
+tabela.
+
+                                                                                   Gabarito: Correto
+
+48.(CESPE / MPU – 2013) Uma chave primária não existe sem uma chave estrangeira
+   correspondente.
+
+Comentários:
+
+É claro que existe – não existe nenhuma limitação quanto a isso!
+
+                                                                                    Gabarito: Errado
+
+49.(CESPE / TRT-ES – 2013) Chave estrangeira é o atributo ou conjunto de atributos que se refere
+   ou é relacionado com alguma chave primária ou única de uma tabela, podendo ser inclusive da
+   mesma tabela.
+
+Comentários:
+
+
+                                             ATENÇÃO
+    CESPE        O CESPE – INFELIZMENTE – TEM ADOTADO O ENTENDIMENTO DE QUE A CHAVE ESTRANGEIRA
+                 REFERENCIA A CHAVE PRIMÁRIA (E, NÃO, CANDIDATA) DE OUTRA TABELA (OU DA MESMA TABELA).
+
+
+Para o CESPE, a chave estrangeira se refere a chave primária de outra tabela (ou outra chave única).
+Essa chave pode ser inclusive da mesma tabela? Sim, no caso de um auto-relacionamento.
+
+
+---
+
+                                                                                   Gabarito: Correto
+
+50. CESPE / Banco da Amazônia – 2012) A operação da álgebra relacional SELECT extrai as tuplas
+    específicas de uma relação, e a operação PROJECT extrai atributos específicos de uma relação.
+
+Comentários:
+
+Perfeito! SELECT é a Operação de Seleção, que extrai linhas específicas de uma tabela. Já a
+Operação de Projeção (PROJECT) extrai colunas específicas de uma tabela.
+
+                                                                                   Gabarito: Correto
+
+51. (CESPE / TJ-RO – 2012) Associado a uma tabela, sempre existe um índice, que é uma estrutura
+   usada para melhorar a velocidade de acesso aos dados da tabela.
+
+Comentários:
+
+Não, senhor! Índices são opcionais e, não, obrigatórios.
+
+                                                                                    Gabarito: Errado
+
+52. (CESPE / BASA – 2012) O valor de uma chave estrangeira que apareça em uma tabela deve,
+    necessariamente, ser considerado como chave primária de outra tabela.
+
+Comentários:
+
+
+                                             ATENÇÃO
+    CESPE        O CESPE – INFELIZMENTE – TEM ADOTADO O ENTENDIMENTO DE QUE A CHAVE ESTRANGEIRA
+                 REFERENCIA A CHAVE PRIMÁRIA (E, NÃO, CANDIDATA) DE OUTRA TABELA (OU DA MESMA TABELA).
+
+
+Em primeiro lugar, não deve ser necessariamente de outra tabela – pode ser da própria tabela em
+um auto-relacionamento. Em segundo lugar, o valor da chave estrangeira pode ser nulo e jamais o
+valor de uma chave primária pode ser nulo. Esse era o entendimento até cerca de 2014! A próxima
+questão mostra que a partir de 2015 eles simplesmente mudaram de entendimento.
+
+                                                                                    Gabarito: Errado
+
+53. (CESPE / CORREIOS – 2011) No acesso aos dados de tabelas em um banco de dados, a
+    utilização de índices melhora o desempenho de acesso do usuário final.
+
+Comentários:
+
+
+---
+
+Perfeito! A maior vantagem da utilização de índices é melhorar o desempenho de acesso e consulta
+do usuário final.
+
+                                                                                       Gabarito: Correto
+
+54. (CESPE / MEC – 2011) Quando se transforma um modelo conceitual em um modelo lógico, os
+    dados passam a ser vistos como estruturas de dados voltadas para as características do modelo
+    lógico escolhido (hierárquico, rede, relacional etc.).
+
+Comentários:
+
+Exato! Quando se faz uma conversão do modelo conceitual (mais abstrato) para o modelo lógico
+(menos abstrato), os dados passam a ser visualizados como estruturas de dados voltadas para as
+características do modelo lógico escolhido. Por exemplo: se for o modelo relacional, os dados
+passam a ser vistos como tabelas.
+
+                                                                                       Gabarito: Correto
+
+55. (CESPE / EBC – 2011) O modelo relacional de banco de dados possui uma estrutura de dados
+    em forma de tabela em que as colunas representam os atributos ou os campos, e as linhas
+    representam os registros ou as instâncias da relação.
+
+Comentários:
+
+
+               TABELA                       RELAÇÃO                      representa os dados e os
+                                                                      relacionamentos entre os dados
+
+               LINHA                          TUPLA                      coleção de valores de dados
+                                                                                relacionados
+
+              COLUNA                       ATRIBUTO                   dados que ajudam a interpretar o
+                                                                      significado dos valores das linhas
+
+Perfeito! O modelo relacional é estruturado em forma de tabelas em que colunas representam
+atributos/campos e linhas representam registros/instâncias de uma relação.
+
+                                                                                       Gabarito: Correto
+
+56. (CESPE / MEC – 2011) A restrição de integridade de entidade estabelece que nenhum valor de
+    chave primária e chave estrangeira pode ser nulo. Se houver valores nulos para as chaves, então
+    não será possível identificar alguma tupla.
+
+Comentários:
+
+
+---
+
+Opa... a chave primária não pode ser nula, mas a chave estrangeira, pode sim!
+
+                                                                                Gabarito: Errado
+
+
+---
+
+                      QUESTÕES COMENTADAS – FCC
+
+57. (FCC / SEFAZ-AP – 2022) Considere que durante a modelagem de um banco de dados relacional
+    observou-se a existência de duas entidades, Produto e Venda, que se relacionam com
+    cardinalidade muitos-para-muitos, uma vez que em uma venda pode haver vários produtos e
+    um determinado produto pode estar qualificado em várias vendas (no caso, unidades diferentes
+    do mesmo produto). Como os sistemas gerenciadores de banco de dados relacionais existentes
+    não implementam relacionamento muitos-para-muitos, para criar as tabelas referentes às
+    entidades no banco de dados será necessário:
+
+   a) estabelecer uma relação de herança, onde a tabela Venda herdará os atributos da tabela
+   Produto.
+
+   b) criar uma tabela filha para Produto e uma para Venda e relacionar estas tabelas filhas com
+   cardinalidade um-para-muitos.
+
+   c) que a chave primária da tabela Venda apareça como chave estrangeira na tabela Produto e
+   que a chave primária da tabela Produto apareça como chave estrangeira na tabela Venda.
+
+   d) criar uma tabela de ligação entre Produto e Venda, onde o relacionamento muitos-para-
+   muitos será dividido em dois relacionamentos um-para-um.
+
+   e) criar uma tabela associativa, onde o relacionamento muitos-para-muitos será desmembrado
+   em dois relacionamentos do tipo um-para-muitos.
+
+Comentários:
+
+Questão clássica! Como sistemas gerenciadores de bancos de dados relacionais não implementam
+relacionamento muitos-para-muitos, para criar as tabelas referentes às entidades no banco de
+dados será necessário criar uma terceira tabela – chamada tabela associativa ou tabela de ligação –
+que conecte as tabelas Produto e Venda de forma que essas duas tabelas tenham uma relação de
+um-para-muitos com a tabela associativa. Lembrem-se sempre: será necessária uma terceira tabela
+para representar relacionamentos N:M de tal forma que as tabelas tenham um relacionamento 1:N
+para com a tabela associativa.
+
+                                                                                 Gabarito: Letra E
+
+Considere as seguintes tabelas relacionais e seus respectivos campos:
+
+   Tabela1: CPF-Contribuinte, Nome-Contribuinte, Idade-Contribuinte
+   Tabela2: CNPJ-Contribuinte, RazaoSocial, UF, CPF-Contribuinte
+   CPF-Contribuinte e CNPJ-Contribuinte são definidos como Primary-Key, Unique.
+
+
+---
+
+58. (FCC / SEFAZ-AP – 2022) O campo:
+
+   a) CNPJ-Contribuinte é considerado chave estrangeira na Tabela2.
+   b) CNPJ-Contribuinte é considerado chave estrangeira na Tabela1.
+   c) CPF-Contribuinte é considerado chave estrangeira na Tabela2.
+   d) CPF-Contribuinte não é considerado chave estrangeira na Tabela2 porque é Unique
+   na Tabela1.
+   e) CPF-Contribuinte é considerado chave estrangeira na Tabela1.
+
+Comentários:
+
+A Tabela1 possui três atributos e a Tabela2 possui quatro atributos, sendo que os atributos CPF-
+Contribuinte e CNPJ-Contribuinte são chave primária de suas respectivas tabelas. A questão não
+deixa explícito em seu código (o que eu considero um problema grave), mas é possível inferir que o
+atributo CPF-Contribuinte na Tabela2 é uma chave estrangeira que referencia o atributo CPF-
+Contribuinte na Tabela1. Dito isso, vamos analisar item a item:
+
+(a) Errado, é considerado chave primária; (b) Errado, esse campo nem existe na Tabela1; (c) Correto;
+(d) Errado, ele é considerado chave estrangeira na Tabela2; (e) Errado, é considerado chave
+primária.
+
+                                                                                 Gabarito: Letra C
+
+59. (FCC / SEFAZ-AP – 2022) Com base nessas informações, é correto afirmar:
+
+   a) A Tabela1 se relaciona com a Tabela2 na ordem de cardinalidade n:1.
+   b) A Tabela1 não seria uma entidade no Modelo Entidade-Relacionamento porque o CPF-
+   Contribuinte está em duas tabelas.
+   c) Ambas as tabelas se relacionam em cardinalidade n:m.
+   d) A Tabela1 se relaciona com a Tabela2 na ordem de cardinalidade 1:n.
+   e) A Tabela2 e a Tabela1 podem ser unificadas em uma única tabela relacional normalizada.
+
+Comentários:
+
+Inferindo que CPF-Contribuinte na Tabela2 é chave estrangeira que referencia CPF-Contribuinte da
+Tabela1, vamos analisar os itens:
+
+(a) Errado. Vocês se lembram que a forma de modelar um relacionamento 1:N é inserindo a chave
+estrangeira para o lado N do relacionamento? Ora, se a chave estrangeira está na Tabela2, então
+temos um relacionamento 1:N entre Tabela1 e Tabela2. Dito de outra forma, temos um
+relacionamento N:1 entra Tabela 2 e Tabela1; (b) Errado, isso não impede que a Tabela1 seja uma
+entidade no MER; (c) Errado, conforme vimos nós temos um relacionamento N:1 entra Tabela 2 e
+
+
+---
+
+Tabela1. Se o relacionamento fosse N:M, deveria existir uma tabela associativa; (d) Correto; (e)
+Errado. Seria possível unificá-las em uma única tabela relacional, mas não de forma normalizada.
+Se você unificá-las, alguns atributos ficarão repetidos, o que fere o princípio da normalização.
+
+                                                                                   Gabarito: Letra D
+
+60. (FCC / TRF4 – 2019) Dentre as regras de Codd que caracterizam Bancos de Dados Relacionais, a
+    regra da Independência de Integridade estipula que as várias formas de integridade relacional
+    de banco de dados:
+
+   a) precisam ser definidas na linguagem relacional e armazenadas dentro do catálogo do sistema
+   ou dicionário de dados, e ser totalmente independentes da lógica dos aplicativos.
+
+   b) podem ser representadas em tabelas relacionais específicas que se relacionam com as tabelas
+   de cada aplicativo. Quando um aplicativo mudar, a regra de independência muda
+   automaticamente.
+
+   c) precisam ser definidas na linguagem de cada aplicativo e armazenadas como tabelas
+   relacionais dentro do banco de cada aplicativo, pois somente desta forma, ao mudar o
+   aplicativo, as regras de integridade mudarão também, automaticamente.
+
+   d) podem ser definidas em linguagem natural ou em Shell script e armazenadas no dicionário de
+   dados ou dentro do catálogo do sistema; contudo, não há como garantir que elas sejam
+   totalmente independentes da lógica dos aplicativos na totalidade das situações.
+
+   e) devem ser escritas em linguagem hierárquica ou de rede pois, desta forma, tanto a hierarquia
+   das tabelas quanto os links entre elas, como ocorre nos bancos em rede, conduzirão às
+   mudanças automáticas das integridades ao se mudar algum aplicativo.
+
+Comentários:
+
+(a) Correto, trata-se da Regra 10; (b) Errado, isso fere a Regra 10, visto regras de um aplicativo são
+independentes de regras de restrições de integridade de uma base de dados relacional, logo não
+são modificadas com alterações em um aplicativo; (c) Errado, mudanças no aplicativo não afetam
+as regras de integridade; (d) Errado, devem ser escritas em linguagem relacional e devem ser
+logicamente independentes de aplicativos; (e) Errado, devem ser escritas em linguagem relacional
+e devem ser logicamente independentes de aplicativos.
+
+                                                                                   Gabarito: Letra A
+
+61. (FCC / SEFAZ - SP – 2009) Considere a seguinte regra de Codd, aplicada aos bancos de dados
+    relacionais: A descrição do banco de dados é representada no nível lógico da mesma forma que os
+
+
+---
+
+   dados ordinários, permitindo que usuários autorizados utilizem a mesma linguagem relacional
+   aplicada aos dados regulares. O sentido dessa regra diz respeito à:
+
+   a) formação do catálogo.
+   b) manipulação, por meio de visões.
+   c) independência física.
+   d) independência lógica.
+   e) independência de distribuição.
+
+Comentários:
+
+A questão trata da Regra 04 – Catálogo baseado no Modelo Relacional:
+
+O catálogo do sistema, que contém a descrição lógica da base de dados, deve ser representado da
+mesma forma que os dados comuns. Essa descrição do banco de dados é representada no nível lógico
+da mesma forma que os dados ordinários, permitindo que usuários autorizados utilizem a mesma
+linguagem relacional aplicada aos dados regulares.
+
+                                                                              Gabarito: Letra A
+
+62. (FCC/ TRF – 4 REGIÃO(RS) – 2011) No contexto de banco de dados relacional, das 12 regras
+    definidas por Codd, aquela que determina que os programas de aplicação e as operações
+    interativas devem permanecer logicamente inalteradas, quaisquer que sejam as trocas
+    efetuadas nas representações de armazenamento e métodos de acesso, chama-se
+    independência:
+
+   a) lógica dos dados.
+   b) física dos dados.
+   c) de acesso.
+   d) de integridade.
+   e) de distribuição.
+
+Comentários:
+
+A questão trata da Regra 08 – Independência Física de Dados:
+
+Aplicações e recursos permanecem logicamente inalterados quando ocorrem mudanças no método de
+acesso ou na forma de armazenamento físico. Logo, quando for necessária alguma modificação na
+forma como os dados são armazenados fisicamente, nenhuma alteração deve ser necessária nas
+aplicações que fazem uso do banco de dados. Devem também permanecer inalterados os mecanismos
+de consulta e manipulação de dados utilizados pelos usuários finais.
+
+
+---
+
+                                                                                 Gabarito: Letra B
+
+63. (FCC / TRE-AP – 2015) Leia, abaixo, a descrição das propriedades de um modelo lógico de dados
+    e assinale a única alternativa que corresponde a essa descrição do modelo. Ao contrário de seus
+    antecessores, não se baseia num paradigma de estruturação de dados particular e sim em um
+    fundamento matemático específico. Representa o Banco de Dados como uma coleção de
+    tabelas, constituídas de atributos e tuplas.
+
+   a) Modelo em Redes.
+   b) Modelo Hierárquico.
+   c) Modelo Relacional.
+   d) Modelo Matemático.
+   e) Modelo Orientado a Objetos.
+
+Comentários:
+
+Fundamenta-se em um modelo matemático específico? Não se baseia em paradigmas de estrutura
+de dados particular? O Modelo Relacional fornece uma base matemática para a representação e a
+consulta dos dados fundamentado em lógica de predicados e teoria dos conjuntos.
+
+                                                                                 Gabarito: Letra C
+
+64.FCC / TJ-APP – 2014) Uma das formas de se garantir a integridade em um banco de dados é por
+   meio da definição de atributos, como a chave primária que:
+
+   a) sempre é formada por apenas um atributo.
+   b) não pode ser composta por atributos numéricos.
+   c) não pode ser composta por mais do que 3 atributos.
+   d) pode ser composta por mais de 1 atributo.
+   e) é formada por um único tipo de atributo, que é o que estabelece uma sequência numérica.
+
+Comentários:
+
+(a) Errado. Uma chave primária pode ser composta, isto é, formada por mais de um atributo; (b)
+Errado. Uma chave primária pode – sim – ser composta por atributos numéricos; (c) Errado. Uma
+chave primária pode – sim – ser composta por mais de três atributos; (d) Correto. Uma chave
+primária pode ser composta por mais de um atributo; (e) Errado. Uma chave primária pode ser
+formada por atributos de diversos tipos.
+
+                                                                                Gabarito: Letra D
+
+
+---
+
+65. (FCC / TJ-AP – 2014) Em um banco de dados, uma maneira de aumentar a segurança é a
+    ocultação de dados de um usuário. Um recurso que pode ser utilizado na ocultação de dados que
+    o usuário não tem necessidade de acessar, denomina-se:
+
+      a) procedure.
+      b) script.
+      c) trigger.
+      d) trilha.
+      e) view.
+
+Comentários:
+
+Um recurso que pode ser utilizado na ocultação de dados que o usuário não tem necessidade de
+acessar, denomina-se view. Ela é um subconjunto do banco de dados, isto é, se você deseja
+visualizar apenas uma parte dos dados de uma tabela, você pode criar uma visão personalizada dos
+dados, sendo considerada basicamente uma tabela que é derivada de outras tabelas.
+
+                                                                                Gabarito: Letra E
+
+66.      (FCC / SEFAZ-PE – 2014) Um Sistema de Gerenciamento de Banco de Dados (SGBD) é um
+      software com recursos específicos para facilitar a manipulação das informações dos bancos de
+      dados e o desenvolvimento de programas aplicativos. A forma como os dados serão
+      armazenados no banco de dados é definida pelo modelo do SGBD. Os principais modelos são:
+      hierárquico, em rede, orientado a objetos e:
+
+      a) procedural.
+      b) orientado a serviços.
+      c) relacional.
+      d) orientado a componentes.
+      e) funcional.
+
+Comentários:
+
+Os principais modelos de bancos de dados são: hierárquico, em rede, orientado a objetos e...
+relacional. Aliás, esse é o principal modelo de banco de dados!
+
+                                                                                Gabarito: Letra C
+
+
+---
+
+                      QUESTÕES COMENTADAS – FGV
+
+67. (FGV / SEAD-AP – 2022) Considere a tabela TABX, implementada num banco de dados
+    relacional com a instância exibida a seguir.
+
+   TABX
+
+   Excetuada a linha de títulos, assinale o número de linhas produzidas pela execução do comando
+   SQL a seguir.
+
+                              SELECT DISTINCT A, C FROM TABX
+
+   a) 4
+   b) 3
+   c) 2
+   d) 1
+   e) 0
+
+Comentários:
+
+O DISTINCT é utilizado para retornar apenas valores distintos. Logo, devemos excluir as linhas
+duplicadas nas colunas A e C. Para ficar mais didáticos, vamos executar essa linha sem o DISTINCT:
+
+                                    SELECT A, C FROM TABX
+
+
+---
+
+Agora vejam que há linhas repetidas! Logo, o operador DISTINCT permite excluir essa linha repetida
+no resultado da consulta:
+
+                                SELECT DISTINCT A, C FROM TABX
+
+Logo, temos três linhas.
+
+                                                                                    Gabarito: Letra B
+
+68. (FGV / SEFAZ-BA – 2022) Com relação aos conceitos de banco de dados relacionais, analise
+   as afirmativas a seguir.
+
+   I. Instância do banco se refere à supressão de detalhes da organização e do armazenamento de
+   dados, descartando para um melhor conhecimento desses dados os recursos essenciais.
+
+   II. Modelo de dados se refere a uma coleção de conceitos que podem ser utilizados para
+   descrever a estrutura de um banco de dados, oferecendo os meios necessários para alcançar
+   essa abstração.
+
+   III. Abstração de dados refere aos conjuntos de dados e metadados e usuários presentes no
+   servidor de dados em um determinado instante.
+
+   Está correto o que se afirma em:
+
+   a) I, somente.
+   b) II, somente.
+   c) III, somente.
+   d) I e II, somente.
+   e) I e III, somente.
+
+Comentários:
+
+(I) Errado, essa é a definição de abstração de dados; (II) Correto; (III) Errado, essa é a definição de
+instância do banco de dados.
+
+
+---
+
+                                                                                Gabarito: Letra B
+
+69. (FGV / SEFAZ-AM – 2022) A estrutura de dados usada em índices multiníveis dinâmicos em
+   banco de dados relacionais, que garantem que tais estruturas sempre estejam balanceadas e
+   que o espaço desperdiçado pela exclusão de itens de dados, se houver, nunca se torne excessivo,
+   é denominada:
+
+   a) fila.
+   b) hash.
+   c) bitmap.
+   d) árvore B.
+   e) árvore binária.
+
+Comentários:
+
+Questão completamente sem noção! A estrutura de dados que utiliza índices multiníveis dinâmicos
+que permite balanceamento das estruturas é a Árvore B. Ocorre que esse é um assunto
+extremamente aprofundado, que existe o conhecimento de diversas estruturas de dados mais
+simples até podermos entender essa estrutura de dado mais complexa.
+
+Árvore B é uma estrutura de dados em árvore, auto-balanceada, que armazena dados classificados
+e permite pesquisas, acesso sequencial, inserções e remoções em tempo logarítmico. Já o Índice
+em Árvore B é um índice de árvore balanceada possui acesso eficiente para consultas de intervalos.
+A atualização de uma Árvore B é relativamente eficiente, porém seu desempenho pode se degradar
+conforme o arquivo aumenta de tamanho.
+
+Trata-se de uma estrutura de dados bastante complicada e que não faz sentido cobrar em prova
+sem que esteja previsto especificamente no edital. Enfim... questão para pular e ser feliz!
+
+                                                                                Gabarito: Letra D
+
+70. (FGV / IBGE - 2017) Na década de 80, Edgar Frank Codd definiu um conjunto de regras para
+    definir o que são bancos de dados relacionais. A opção que NÃO faz parte dessas regras, é:
+
+   a) qualquer visualização que teoricamente possa ser atualizada deve ser realizada através do
+   próprio sistema;
+
+   b) aplicativos e recursos ad hoc não devem ser afetados logicamente quando os métodos de
+   acesso ou as estruturas de armazenamento físico forem alterados;
+
+   c) restrições de integridade necessitam ser especificadas dentro dos programas de aplicação, de
+   modo que mudanças nessas restrições sejam observadas por essas aplicações;
+
+
+---
+
+   d) todas as informações no banco devem ser representadas logicamente como valores de coluna
+   em linhas dentro das tabelas;
+
+   e) os usuários finais e aplicativos não devem conhecer nem serem afetados pela localização dos
+   dados.
+
+Comentários:
+
+(a) Correto, trata-se da Regra 06; (b) Correto, trata-se da Regra 08; (c) Errado, elas não necessitam
+ser especificadas dentro dos programas de aplicação e eventuais mudanças não precisam ser
+observadas pela aplicação. Na verdade, elas precisam ser definidas na linguagem relacional e
+armazenadas dentro do catálogo do sistema – além de ser totalmente independentes da lógica dos
+aplicativos; (d) Correto, trata-se da Regra 00; (e) Correto, trata-se da Regra 11.
+
+                                                                       Gabarito: Letra C
+71. (FGV / MPE-AL – 2018) Em um banco de dados relacional, um nome da tabela, uma chave
+    primária e um nome de coluna garantem o acesso a:
+
+   a) um dado.
+   b) um SGBD.
+   c) uma linguagem de consulta.
+   d) uma partição.
+   e) uma visão.
+
+Comentários:
+
+O nome da tabela permite identificar uma tabela específica; uma chave primária de uma tabela
+específica permite identificar uma linha específica; e um nome de coluna com uma linha específica
+de uma determinada tabela permite identificar um dado.
+
+                                                                                  Gabarito: Letra A
+
+72. (FGV / AL-RO – 2018) No processo de otimização e processamento de consultas em bancos de
+    dados relacionais, a construção da query tree (ou árvore de consulta) é feita com base nas
+    operações da Álgebra Relacional. Assinale a opção que indica as operações primitivas dessa
+    álgebra, ou seja, as operações que não podem ser expressas por combinações das demais
+    operações:
+
+   a) Diferença, Divisão, Projeção, Produto, Seleção.
+   b) Diferença, Projeção, Produto, Seleção, União.
+   c) Divisão, Interseção, Junção, Produto, Seleção, União.
+   d) Junção, Projeção, Produto, Seleção, União.
+   e) Junção, Produto, Projeção, Seleção, União.
+
+
+---
+
+Comentários:
+
+As operações primitivas são aquelas que não podem ser obtidas a partir de outras: seleção,
+projeção, produto cartesiano, união e diferença. Já as outras são consideradas operações
+derivadas, porque podem ser obtidas a partir de outras operações.
+
+                                                                              Gabarito: Letra B
+
+73. (FGV / MPE-AL – 2018) No contexto da otimização de consultas para bancos de dados, a
+    Álgebra Relacional tem um papel importante, especialmente na construção das query trees para
+    a representação de planos de execução. As operações primitivas da AR são definidas como as
+    operações que não podem ser expressas por meio das demais operações. Assinale a opção que
+    apresenta a lista que contém as cinco operações primitivas da AR.
+
+   a) Diferença, divisão, projeção, seleção e união.
+   b) Diferença, produto, projeção, seleção e união.
+   c) Interseção, produto, projeção, seleção e união.
+   d) Divisão, interseção, junção, seleção e união.
+   e) Junção, produto, projeção, seleção e união.
+
+Comentários:
+
+As operações primitivas são aquelas que não podem ser obtidas a partir de outras: seleção,
+projeção, produto cartesiano, união e diferença. Já as outras são consideradas operações
+derivadas, porque podem ser obtidas a partir de outras operações.
+
+                                                                              Gabarito: Letra B
+
+74. (FGV / AL-RO – 2018) O diagrama IDEF1X exibido a seguir será referenciado na questão
+    seguinte.
+
+   Considere o relacionamento estabelecido entre as entidades E1 e E2 no diagrama IDEF1X.
+   Assinale a opção que apresenta a leitura correta que deve ser feita dessa representação.
+
+   a) A cada elemento de E1 está associado um e somente um elemento de E2.
+   b) A cada elemento de E1 estão associados entre 1 e N elementos de E2.
+   c) A cada elemento de E2 está associado um e somente um elemento de E1.
+   d) A cada elemento de E2 estão associados entre 1 e N elementos de E1.
+
+
+---
+
+    e) A cada elemento de E2 podem estar associados zero ou um elemento de E1.
+
+Comentários:
+
+(a) Errado. Temos um círculo e um pé-de-galinha do lado direito, logo a cada elemento de E1 está
+associado zero ou vários elementos de E2; (b) Errado, conforme comentário do item anterior; (c)
+Correto. Temos dois traços do lado esquerdo, logo cada elemento de E2 está associado um e
+somente um elemento de E1; (d) Errado, conforme comentário do item anterior; (e) Errado,
+conforme comentário anterior.
+
+                                                                                      Gabarito: Letra C
+
+75. (FGV / AL-RO – 2018) Na representação de esquemas para bancos de dados relacionais por
+    meio da notação IDEF1X, os relacionamentos podem ser identificadores ou não identificadores.
+    Sobre a consequência do uso de relacionamentos identificadores, assinale a afirmativa correta.
+
+   a) Uma tabela não pode participar em mais de um relacionamento identificador.
+   b) A cardinalidade de um relacionamento identificador deve ser 1:1.
+   c) A tabela do lado N do relacionamento deve possuir uma chave primária que independa da
+   chave estrangeira decorrente do relacionamento.
+   d) A chave estrangeira decorrente do relacionamento deve fazer parte da chave primária da
+   tabela.
+   e) A chave estrangeira decorrente do relacionamento deve permitir a preenchimento com
+   valores nulos.
+
+Comentários:
+
+(a) Errado, não existe essa limitação; (b) Errado, é possível utilizar outra cardinalidade; (c) Errado, a
+chave primária do lado N do relacionamento deve possuir uma chave primária composta que
+depende da chave estrangeira decorrente do relacionamento; (d) Correto, a chave primária da
+entidade-filha é composta pela chave estrangeira que referencia a chave primária da entidade-pai,
+além de um identificador; (e) Errado, a chave estrangeira não pode ser nula em um relacionamento
+identificador porque ela compõe a chave primária da entidade-filha.
+
+                                                                                     Gabarito: Letra D
+
+76. (FGV / AL-RO – 2018) Com relação ao diagrama IDEF1X, considere as afirmativas a seguir sobre
+    um eventual esquema relacional, com tabelas E1 e E2, que implemente aquele diagrama.
+
+
+---
+
+  I. A coluna A1, de E1, deve permitir valores nulos.
+  II. A coluna AA de E1 não pode conter repetições de valores não nulos.
+  III. A coluna A1, de E2, deve permitir valores nulos.
+
+  Está correto o que se afirma em
+
+   a) I, somente.
+   b) II, somente.
+   c) III, somente.
+   d) I e II, somente.
+   e) II e III, somente.
+
+Comentários:
+
+(I) Errado, dado que E1 em A1 é chave primária, logo não pode ser nula; (II) Correto. Notem que E1
+está em um auto-relacionamento com cardinalidade (0,1)(0,1). Logo, essa chave estrangeira pode
+ser nula porque não faz parte da chave primária de E2. No entanto, sua cardinalidade máxima é 1,
+logo não pode haver repetição de valor não-nulos – ou não tem nenhum valor ou tem apenas um;
+(III) Errado, essa chave estrangeira não pode ser nula dado que compõe a chave primária de E2
+
+                                                                                 Gabarito: Letra B
+
+77. (FGV / IBGE – 2017) Em relação a banco de dados relacionais, analise as afirmativas abaixo:
+
+   I. Uma chave primária identifica um registro de forma única, não podendo eventualmente
+   assumir valor nulo.
+   II. Uma chave estrangeira não pode apontar para uma chave primária da mesma tabela.
+   III. Uma chave candidata é aquela que define uma combinação de atributos entre tabelas, mas
+   não pode ser uma chave primária.
+
+   Está correto o que se afirma em:
+
+   a) I;
+   b) II;
+   c) III;
+   d) I e II;
+   e) I, II e III.
+
+Comentários:
+
+(I) Correto, toda chave primária deve identificar um registro univocamente e não pode ser nula; (II)
+Errado, ela pode – sim – no caso de um autorrelacionamento; (III) Errado, uma chave candidata é
+uma possível chave primária.
+
+
+---
+
+                                                                                 Gabarito: Letra A
+
+78. (FGV / COMPESA – 2016) A teoria de consultas para bancos de dados relacionais supõe cinco
+    operações primitivas para a álgebra relacional, o que significa que o efeito de nenhuma dessas
+    cinco operações pode ser obtido pela combinação das demais. Assinale a opção que indica a lista
+    dessas operações.
+
+   a) Seleção, projeção, produto, união e junção.
+   b) Junção, projeção, produto, união e divisão.
+   c) Seleção, projeção, produto, junção e diferença.
+   d) Seleção, projeção, junção, interseção e diferença.
+   e) Seleção, projeção, produto, união e diferença.
+
+Comentários:
+
+As operações primitivas são aquelas que não podem ser obtidas a partir de outras: seleção,
+projeção, produto cartesiano, união e diferença. Já as outras são consideradas operações
+derivadas, porque podem ser obtidas a partir de outras operações.
+
+                                                                                 Gabarito: Letra E
+
+79. (FGV / COMPESA – 2016) Analise o diagrama ER, exibido a seguir com a notação IDEF1X pé-
+    de-galinha.
+
+   Analise, ainda, a lista de possíveis requisitos para uma implementação relacional desse modelo.
+
+   I. A1 em R2 deve ter uma restrição do tipo UNIQUE.
+   II. A1 em R2 não deve permitir valores nulos.
+   III. A1 em R1 deve constituir a chave primária.
+   IV. A2 em R2 deve permitir valores nulos.
+
+   Assinale a opção que indica a quantidade de requisitos corretamente estabelecidos.
+
+   a) Zero.
+   b) Um.
+   c) Dois.
+   d) Três.
+   e) Quatro.
+
+
+---
+
+Comentários:
+
+(I) Correto, dado que A1 é a chave primária de R1; (II) Errado, pode permitir valores nulos, dado que
+não compõe a chave primária de R2; (III) Correto, A1 é a chave primária de R1; (IV) Errado, dado que
+A2 é a chave primária de R2. Logo, temos dois requisitos corretamente estabelecidos.
+
+                                                                                  Gabarito: Letra C
+
+80.(FGV / TCE-SE – 2015) Diagramas entidade-relacionamento na notação IDEF1X distinguem
+   relacionamentos identificadores e não identificadores. A presença de um relacionamento
+   identificador faz com que:
+
+   a) os atributos que compõem a chave estrangeira correspondente possam assumir valores
+   nulos;
+
+   b) a cardinalidade do relacionamento torne-se, obrigatoriamente, 1:1;
+
+   c) os atributos que compõem a chave estrangeira correspondente passem a compor a chave
+   primária da tabela estrangeira;
+
+   d) os atributos que compõem a chave estrangeira constituam, por si só, uma chave candidata da
+   tabela estrangeira;
+
+   e) seja estabelecida uma relação de especialização entre as duas entidades conectadas.
+
+Comentários:
+
+(a) Errado, a chave estrangeira não pode assumir valor nulo porque ela faz parte da chave primária
+da entidade dependente; (b) Errado, é possível utilizar outra cardinalidade; (c) Correto. Como se
+trata de um relacionamento identificador, a entidade-filha é dependente da entidade-pai. Logo, ela
+não tem existência própria – para que possa ser identificada, precisa de chave primária da entidade
+pai como chave estrangeira, além de um atributo identificador próprio. Logo, sua chave primária é
+composta pelos atributos que compõem a chave estrangeira além de seu identificador próprio; (d)
+Errado, não existe o conceito de “tabela estrangeira”; (e) Errado, não implica em nenhuma relação
+de especialização.
+
+                                                                                  Gabarito: Letra C
+
+81. (FGV / TJ-PI – 2015) Analise o diagrama ER construído sob a notação IDEF1X.
+
+
+---
+
+   Está correto concluir que:
+
+   a) cada instância de X está relacionada a uma única instância de Y;
+   b) cada instância de X está relacionada a zero, uma ou mais instâncias de Y;
+   c) cada instância de Y está relacionada a uma única instância de X;
+   d) cada instância de Y está relacionada a zero, uma ou mais instâncias de X;
+   e) cada instância de Y está relacionada a uma ou mais instâncias de X.
+
+Comentários:
+
+Note que temos uma junção da notação pé-de-galinha com a notação IDEF1X. Vamos aproveitar
+essa questão para analisar diversos aspectos: note que a chave primária de X é chave estrangeira
+em Y, logo podemos presumir que se trata de um relacionamento um-para-muitos. Além disso, é
+possível notar que o retângulo tem arestas retas, logo se trata de um relacionamento não-
+identificador. Ademais, a chave estrangeira está na parte inferior do retângulo, logo realmente se
+trata de um relacionamento não-identificador.
+
+Agora vamos analisar a cardinalidade: na esquerda, temos um traço e um círculo, logo se trata de
+uma cardinalidade (0,1); da direita, temos um círculo e um pé-de-galinha, logo se trata de uma
+cardinalidade (0,N). Dito isso, podemos julgar cada item: (a) Errado, está relacionada a zero, uma
+ou mais instâncias de Y; (b) Correto; (c) Errado, está relacionada a zero ou uma instância de X; (d)
+Errado, idem (c); (e) Errado, idem (c).
+
+                                                                                  Gabarito: Letra B
+
+82. (FGV / AL-MT – 2013) Com relação às definições dos diferentes tipos de chaves em um projeto
+    de Banco de Dados, analise as afirmativas a seguir.
+
+   I. Em alguns casos, mais de uma coluna ou combinações de colunas podem servir para distinguir
+   uma linha das demais. Se uma das colunas (ou combinação de colunas) é escolhida como chave
+   primária, as demais são denominadas chaves estrangeiras.
+
+   II. Uma chave estrangeira é uma coluna ou uma combinação de colunas cujos valores aparecem
+   necessariamente na chave primária de uma tabela. A chave estrangeira é o mecanismo que
+   permite a implementação de relacionamentos em um banco de dados relacional.
+
+
+---
+
+   III. Uma chave primária é uma coluna ou uma combinação de colunas cujos valores não
+   distinguem uma linha das demais dentro de uma tabela.
+
+   a) se somente a afirmativa I estiver correta.
+   b) se somente a afirmativa II estiver correta.
+   c) se somente a afirmativa III estiver correta.
+   d) se somente as afirmativas I e II estiverem corretas.
+   e) se todas as afirmativas estiverem corretas.
+
+Comentários:
+
+(I) Errado, elas são denominadas chaves secundárias ou alternativas; (II) Errado, não aparecem
+necessariamente na chave primária de uma tabela – pode ser em uma chave candidata. Além disso,
+ela pode ser nula, logo não necessariamente apareceria em outra tabela; (III) Errado, cujos valores
+distinguem uma linha das demais dentro de uma tabela. No entanto, a banca considerou que o
+segundo item está correto – o que eu discordo!
+
+                                                                                 Gabarito: Letra B
+
+83. (FGV / Senado Federal – 2012) Fabricantes de armas são obrigados a imprimir um número de
+    série em cada uma de suas armas, identificando assim, unicamente, cada arma produzida. No
+    modelo de dados para um certo fabricante de armas, existe uma entidade chamada "arma" com
+    um atributo chamado "num_serie".
+
+   Com referência a este cenário, para a entidade "arma", "num_serie" é um atributo do tipo:
+
+   a) Chave alternativa (alternate key).
+   b) Chave composta (composite key).
+   c) Chave primária (primary key).
+   d) Chave estrangeira (foreign key).
+   e) Chave migrada (migrated key).
+
+Comentários:
+
+Se ela identifica unicamente cada arma, trata-se de uma chave primária.
+
+                                                                                 Gabarito: Letra C
+
+84.(FGV / BADESC – 2010) A chave estrangeira se encontra na própria tabela de um
+   autorelacionamento do(s) tipo(s):
+
+   a) 1:1 e 1:N
+   b) 1:1 e N:N
+
+
+---
+
+   c) 1:N e N:N
+   d) somente N:N
+   e) 1:1, 1:N e N:N
+
+Comentários:
+
+Relacionamentos N:N sempre gerarão uma nova tabela, logo a chave estrangeira não se encontrará
+na própria tabela.
+
+                                                                                Gabarito: Letra A
+
+85. (FGV / BADESC – 2010) No intuito de determinar, entre duas entidades, se um relacionamento
+    do tipo N:M possui um atributo, aplica-se um teste com a descrição do referido atributo. Esse
+    teste deve:
+
+   a) conter somente a entidade que deve conter o atributo.
+   b) conter as duas entidades que participam do relacionamento.
+   c) conter nenhuma das entidades participantes do relacionamento.
+   d) conter somente a entidade em que o atributo não deve se encontrar.
+   e) conter apenas uma das entidades que participa do relacionamento.
+
+Comentários:
+
+(a) Errado, se ele contiver somente a entidade que deve conter o atributo, então o atributo é da
+entidade e, não, do relacionamento; (b) Correto, se o atributo é do relacionamento, então ele é um
+atributo de ambas as entidades; (c) Errado, se ele não contiver nenhuma das entidades
+participantes, então não é um atributo do relacionamento; (d) Errado, o teste deve conter
+necessariamente as duas entidades; (e) Errado, o teste deve conter necessariamente as duas
+entidades.
+
+                                                                                Gabarito: Letra B
+
+86. (FGV / DETRAN-RN – 2010) Assinale a alternativa que corresponde ao recurso do modelo de
+   entidade-relacionamento, cuja definição é “ser um conjunto de um ou mais atributos que,
+   tomados coletivamente, permite-se identificar de maneira unívoca uma entidade em um
+   conjunto de entidades”:
+
+   a) Chave primária.
+   b) Superchave.
+   c) Especialização.
+   d) Generalização.
+   e) Herança de atributo.
+
+Comentários:
+
+
+---
+
+Um ser um conjunto de um ou mais atributos que, tomados coletivamente, permite-se identificar
+de maneira unívoca uma entidade em um conjunto de entidades é a definição de uma superchave.
+Professor, não poderia ser chave primária? Poderia, mas – como se trata de uma definição – a chave
+primária deveria ter explícito em sua definição que se tratava de um conjunto de um ou mais
+atributos irredutíveis/mínimos.
+
+                                                                                Gabarito: Letra B
+
+87. (FGV / BADESC – 2010) Considere o seguinte texto.
+
+   "Conjunto de um ou mais atributos que, tomados coletivamente, nos permitem identificar, de
+   maneira única, uma entidade em um conjunto de entidades"
+
+   O texto acima é a definição de:
+
+   a) Chave.
+   b) Surrogate.
+   c) Superchave.
+   d) Chave primária.
+   e) Chave candidata.
+
+Comentários:
+
+Essa é a definição clássica de superchave! Professor, não poderia ser chave primária ou candidata?
+Poderia, mas – como se trata de uma definição – a chave primária deveria ter explícito em sua
+definição que se tratava de um conjunto de um ou mais atributos irredutíveis/mínimos. Como não
+está explícito, a definição mais precisa é de superchave.
+
+                                                                                Gabarito: Letra C
+
+88. (FGV / MEC – 2009) No contexto de Banco de Dados, um conceito assegura que um valor que
+   aparece em uma tabela para um determinado conjunto de atributos apareça em outro conjunto
+   de atributos de outra tabela. Por exemplo, se CRISTALINA é o nome de uma filial que aparece
+   em uma tupla da tabela CONTA, então deve existir uma tupla CRISTALINA na tabela AGENCIA.
+   Esse conceito é definido como um sistema de regras utilizado para garantir que os
+   relacionamentos entre tuplas de tabelas relacionadas sejam válidas e que não exclui ou altera,
+   acidentalmente, dados relacionados. Trata-se do seguinte conceito:
+
+   a) Integridade Funcional
+   b) Dependência Funcional
+   c) Integridade Relacional
+   d) Dependência Referencial
+   e) Integridade Referencial
+
+
+---
+
+Comentários:
+
+O conceito definido como um sistema de regras utilizado para garantir que os relacionamentos
+entre tuplas de tabelas relacionadas sejam válidas e que não exclui ou altera, acidentalmente, dados
+relacionados é a integridade referencial (por meio de chaves estrangeiras).
+
+                                                                                  Gabarito: Letra E
+
+89. (FGV / MEC – 2009) As restrições de integridade resguardam o Banco de Dados contra danos
+   acidentais, assegurando que mudanças feitas por usuários autorizados não resultem na perda
+   de consistência de dados. A restrição de integridade, na qual um valor que aparece em uma
+   relação para um determinado conjunto de atributos aparece também em outro conjunto de
+   atributos em outra relação (tabela), é conhecida por:
+
+   a) Integridade de Duplicação.
+   b) Integridade de Domínio.
+   c) Integridade Referencial.
+   d) Integridade de Chave.
+   e) Integridade de Vazio.
+
+Comentários:
+
+A restrição de integridade, na qual um valor que aparece em uma relação para um determinado
+conjunto de atributos aparece também em outro conjunto de atributos em outra relação (tabela),
+é conhecida por integridade referencial! Bastava lembrar da chave estrangeira! Eu só tenho uma
+ressalva: a restrição de integridade não é necessariamente em relação a outra relação, pode ser em
+relação à própria relação (no caso de um autorrelacionamento).
+
+                                                                                 Gabarito: Letra C
+
+90.(FGV / Senado Federal – 2008) Com relação ao conceito de chave estrangeira, é correto afirmar
+   que:
+
+   a) os atributos que formam uma chave estrangeira não podem fazer parte da chave primária da
+   relação.
+   b) toda chave estrangeira deve ser inicializada com o valor nulo.
+   c) uma chave estrangeira não pode assumir valores duplicatas.
+   d) as chaves estrangeiras servem para implementar a restrição de integridade referencial do
+   modelo relacional.
+   e) uma chave estrangeira não pode assumir o valor nulo.
+
+Comentários:
+
+
+---
+
+(a) Errado, isso pode ocorrer em entidades fracas ou em auto-relacionamentos; (b) Errado, isso
+simplesmente não existe; (c) Errado, também pode assumir valores duplicados; (d) Correto; (e)
+Errado, chaves estrangeiras podem ser nulas – chaves primárias, não.
+
+                                                                            Gabarito: Letra D
+
+
+---
+
+           QUESTÕES COMENTADAS – DIVERSAS BANCAS
+
+91. (QUADRIX / CRF-GO – 2022) A técnica IDEF (Integrated Definition), a exemplo da técnica
+    BPMN, foi originalmente idealizada para representar e modelar processos de negócio, sendo a
+    categoria IDEF1X a categoria relativa à descrição do processo.
+
+Comentários:
+
+IDEF (família da categoria IDEF1X) não é utilizado para representar e modelar processos de negócio
+e, sim, para modelar dados. A questão foi anulada porque o conteúdo não estava previsto no edital.
+
+                                                                                Gabarito: Anulada
+
+92. (FEPESE / ISS-Criciúma – 2022) Sobre restrições no modelo relacional, associe o tipo de
+    restrição à sua respectiva descrição.
+
+   Coluna 1 – Tipos de restrição
+   1. Restrição implícitas
+   2. Restrições explícitas
+   3. Restrições semânticas
+
+   Coluna 2 – Descrição
+   ( ) Não podem ser expressas diretamente nos esquemas do modelo de dados.
+   ( ) São restrições inerentes ao modelo de dados e baseadas neles.
+   ( ) Definidas pela DDL e expressas nos esquemas do modelo de dados.
+
+   Assinale a alternativa que indica a sequência correta, de cima para baixo.
+
+   a) 1 – 2 – 3
+   b) 1 – 3 – 2
+   c) 2 – 1 – 3
+   d) 3 – 1 – 2
+   e) 3 – 2 – 1
+
+Comentários:
+
+ Restrições Implícitas: também chamadas de restrições inerentes ao modelo, são restrições
+  inerentes ao modelo de dados (Ex: não são permitidas tuplas duplicadas em uma relação – trata-
+  se de uma restrição implícita ao próprio modelo de dados relacional).
+
+                  subTIPOS DE RESTRIÇÃO                       DESCRIÇÃO
+
+
+---
+
+                                      Restringe que uma chave primária se repita – uma chave primária diferencia
+      Restrição de chave OU UNICIDADE de forma única os registros de uma relação.
+
+
+ Restrições Explícitas: também chamadas de restrições baseadas no esquema, são restrições
+  que podem ser expressas diretamente nos esquemas do modelo de dados. Em geral,
+  especificando-as via DDL (Ex: o campo NOME não pode conter números).
+
+                subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                        Restringe que um campo de uma relação tenha valores diferentes daqueles
+   Restrição de INTEGRIDADE DE domínio definidos para o campo específico.
+
+                                        Restringe que uma chave primária tenha valores nulos (NULL). Pode ser
+  Restrição de Integridade de ENTIDADE considerada uma subcategoria da restrição de domínio.
+
+                                      Restringe que a chave estrangeira de uma tabela seja inconsistente com a
+ Restrição de Integridade Referencial chave candidata da tabela referenciada.
+
+                                        Restringe que uma chave primária se repita, isto é, uma chave primária
+    Restrição de INTEGRIDADE DE chave diferencia de forma única os registros (linhas) de uma relação (tabela).
+
+
+ Restrições Semânticas: também chamadas de restrições baseadas na aplicação, não podem
+  ser expressas diretamente nos esquemas do modelo de dados, e, portanto, devem ser expressas
+  e impostas pela aplicação (Ex: o número de telefone não pode ter mais de 10 dígitos).
+
+                subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                      Assegura que o conteúdo dos campos de um banco de dados reflita de
+   RESTRIÇÃO DE INTEGRIDADE SEMÂNTICA forma precisa as regras de negócio.
+
+
+Logo, temos que: (3) Não podem ser expressas diretamente nos esquemas do modelo de dados; (1)
+São restrições inerentes ao modelo de dados e baseadas neles; (2) Definidas pela DDL e expressas
+nos esquemas do modelo de dados.
+
+                                                                                              Gabarito: Letra D
+
+93. (FEPESE / ISS-Criciúma – 2022) São todos tipos de restrições ou constraints que podem ser
+    expressos diretamente nos esquemas do modelo de dados relacional e esquemas de bancos de
+    dados relacional, incluídas na linguagem de definição de dados (DDL).
+
+   1. De domínio
+   2. Integridade Semântica
+   3. Integridade Referencial
+   4. Integridade de Entidade
+
+
+---
+
+   Assinale a alternativa que indica todas as afirmativas corretas.
+
+   a) São corretas apenas as afirmativas 1, 2 e 3.
+   b) São corretas apenas as afirmativas 1, 2 e 4.
+   c) São corretas apenas as afirmativas 1, 3 e 4.
+   d) São corretas apenas as afirmativas 2, 3 e 4.
+   e) São corretas as afirmativas 1, 2, 3 e 4.
+
+Comentários:
+
+ Restrições Implícitas: também chamadas de restrições inerentes ao modelo, são restrições
+  inerentes ao modelo de dados (Ex: não são permitidas tuplas duplicadas em uma relação – trata-
+  se de uma restrição implícita ao próprio modelo de dados relacional).
+
+                subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                      Restringe que uma chave primária se repita – uma chave primária diferencia
+      Restrição de chave OU UNICIDADE de forma única os registros de uma relação.
+
+
+ Restrições Explícitas: também chamadas de restrições baseadas no esquema, são restrições
+  que podem ser expressas diretamente nos esquemas do modelo de dados. Em geral,
+  especificando-as via DDL (Ex: o campo NOME não pode conter números).
+
+                subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                        Restringe que um campo de uma relação tenha valores diferentes daqueles
+   Restrição de INTEGRIDADE DE domínio definidos para o campo específico.
+
+                                       Restringe que uma chave primária tenha valores nulos (NULL). Pode ser
+  Restrição de Integridade de ENTIDADE considerada uma subcategoria da restrição de domínio.
+
+                                      Restringe que a chave estrangeira de uma tabela seja inconsistente com a
+ Restrição de Integridade Referencial chave candidata da tabela referenciada.
+
+                                        Restringe que uma chave primária se repita, isto é, uma chave primária
+    Restrição de INTEGRIDADE DE chave diferencia de forma única os registros (linhas) de uma relação (tabela).
+
+
+ Restrições Semânticas: também chamadas de restrições baseadas na aplicação, não podem
+  ser expressas diretamente nos esquemas do modelo de dados, e, portanto, devem ser expressas
+  e impostas pela aplicação (Ex: o número de telefone não pode ter mais de 10 dígitos).
+
+                subTIPOS DE RESTRIÇÃO                                   DESCRIÇÃO
+                                        Assegura que o conteúdo dos campos de um banco de dados reflita de
+   RESTRIÇÃO DE INTEGRIDADE SEMÂNTICA forma precisa as regras de negócio.
+
+
+---
+
+A Restrição de Integridade Semântica é a única que não pode ser expressa diretamente nos
+esquemas do modelo de dados relacional e esquemas de bancos de dados relacional e não estão
+incluídas na linguagem de definição de dados (DDL). Lembrando que esse tipo de restrição são
+representações das regras de negócio, logo são específicas do negócio em si (Ex: um funcionário de
+determinado departamento não pode ter menos de 30 anos).
+
+                                                                                Gabarito: Letra C
+
+94.(IFB / IFB – 2017) Segundo Elmasri (2011), na terminologia formal do modelo relacional, uma
+   linha, um cabeçalho de coluna e a tabela, são chamados, respectivamente, de:
+
+   a) Registro, atributo, domínio
+   b) Tupla, atributo e relação
+   c) Registro, atributo e relação
+   d) Relação, domínio e registro
+   e) Relação, tupla e registro
+
+Comentários:
+
+Na terminologia formal do modelo relacional (lógico), uma linha é uma tupla; um cabeçalho de
+coluna é um atributo; e uma tabela é uma relação.
+
+                                                                                Gabarito: Letra B
+
+95. (IBFC / Polícia Científica – 2017) No modelo relacional, cada registro de uma tabela tem um
+    identificador único chamado de chave primária. Assinale a alternativa que indica o nome da
+    chave primária quando utilizada como referência em outro registro de outra tabela:
+
+   a) chave secundária
+   b) chave derivada
+   c) chave estrangeira
+   d) chave de ligação
+   e) chave de índice
+
+Comentários:
+
+O nome da chave primária quando utilizada como referência a um registro de outra tabela é Chave
+Estrangeira. Elas basicamente fazem referência à chave primária de outra tabela ou até mesmo da
+própria tabela.
+
+                                                                                Gabarito: Letra C
+
+
+---
+
+96. (IF-CE / IF-CE – 2017) Do ponto de vista de um banco de dados relacional, um ou mais campos
+   que, com os valores juntos, devem determinar que o registro não poderá se repetir na mesma
+   tabela. Em relação a esta visão, trata-se da:
+
+   a) entidade fraca.
+   b) chave estrangeira.
+   c) chave composta.
+   d) entidade forte.
+   e) chave primária.
+
+Comentários:
+
+A questão trata da Chave Primária: conjunto de um ou mais atributos, cujos valores nunca se
+repetem, isto é, são capazes de identificar uma instância de uma entidade.
+
+                                                                               Gabarito: Letra E
+
+97. (CS-UFG / DEMAE-GO – 2017) O principal objetivo dos índices em bancos de dados relacionais
+    é:
+
+   a) ter controle central dos dados e dos programas.
+   b) melhorar o desempenho de consultas submetidas ao banco de dados.
+   c) permitir a modificação da estrutura de uma tabela.
+   d) alterar o valor de um determinado atributo de uma ou de várias linhas de uma tabela.
+
+Comentários:
+
+Nenhuma das alternativas faz sentido em relação aos índices – exceto melhorar o desempenho de
+consultas submetidas ao banco de dados.
+
+                                                                               Gabarito: Letra B
+
+98.    (IF/PA / IF/PA – 2016) Analise as seguintes afirmações sobre Banco de Dados:
+
+   I. Conceitualmente, uma relação não é sensível à ordenação das tuplas.
+   II. Em uma tupla, o valor de cada atributo deve ser um valor atômico do domínio.
+   III. Uma transação pode envolver diversas operações no banco, razão pela qual não é
+   considerada operação atômica para o banco.
+
+   É correto apenas o que se afirma em:
+
+   a) I.
+
+
+---
+
+   b) II.
+   c) III.
+   d) I e II.
+   e) II e III.
+
+Comentários:
+
+(I) Correto. Uma relação poderia ser ordenada de diversas maneiras, logo não faz sentido se
+imaginar uma ordenação; (II) Correto. O valor de cada atributo é realmente um valor atômico do
+domínio; (III) Errado. Cada operação é uma transação.
+
+                                                                                 Gabarito: Letra D
+
+99.   (FCM / IFF-RS – 2015) Em um banco de dados relacional, algumas regras são aplicadas às
+   chaves, assim:
+
+   a) não é possível a criação de uma tabela sem chave primária.
+   b) a chave primária de uma tabela deve ser sempre única e não nula.
+   c) as chaves, primária e estrangeira, de uma tabela, devem ser do tipo numérico.
+   d) a cláusula UNIQUE, aplicada à chave estrangeira, é responsável pela integridade referencial
+   do relacionamento.
+   e) as chaves primárias podem ser compostas por um ou mais atributos, porém as chaves
+   estrangeiras devem ser compostas somente por um atributo.
+
+Comentários:
+
+(a) Errado. É possível – apesar de não ser uma boa prática – criar uma tabela sem chave primária;
+(b) Correto. A chave primária deve – sim – ser sempre única e não-nula; (c) Errado. Não existe esse
+tipo de restrição; (d) Errado. A cláusula UNIQUE é responsável pela restrição de unicidade do
+relacionamento; (e) Errado. Chaves estrangeiras também podem ser compostas por um ou mais
+atributos.
+
+                                                                                 Gabarito: Letra B
+
+100. (IESES / MSGAS – 2015) No projeto de banco de dados relacional, a integridade de entidades
+   é uma característica que necessita ser garantida. Nesse contexto, assinale a alternativa correta:
+
+   a) A integridade de entidades estabelece que o valor da chave primária deve ser um número
+   sequencial auto-incrementado.
+
+   b) A integridade de entidades estabelece que nenhum valor da chave primária pode ser null.
+
+
+---
+
+   c) A integridade de entidades é utilizada para manter a consistência entre duas relações, sendo
+   que esta é possível por meio de chaves estrangeiras.
+
+   d) A integridade de entidades estabelece que as chaves primárias devem ser formadas por um
+   único atributo.
+
+Comentários:
+
+          TIPOS DE RESTRIÇÃO                                            DESCRIÇÃO
+                                        Restringe que uma chave primária se repita – uma chave primária diferencia
+   Restrição de chave OU UNICIDADE
+                                        de forma única os registros de uma relação.
+                                        Restringe que um campo de uma relação tenha valores diferentes daqueles
+  Restrição de INTEGRIDADE DE domínio
+                                        definidos para o campo específico.
+                                        Restringe que uma chave primária tenha valores nulos (NULL). Pode ser
+ Restrição de Integridade de ENTIDADE
+                                        considerada uma subcategoria da restrição de domínio.
+                                        Restringe que a chave estrangeira de uma tabela seja inconsistente com a
+ Restrição de Integridade Referencial
+                                        chave candidata da tabela referenciada.
+
+
+A Restrição de Integridade de Entidade estabelece que nenhum valor de chave primária pode ser
+NULL (Nulo).
+
+                                                                                              Gabarito: Letra B
+
+101. (CETAP / MPCM – 2015) Sobre o conceito de chave primária, relacionado a um registro em
+   um banco de dados, selecione a afirmação falsa:
+
+   a) Pode ser formado por um campo ou um conjunto de campos.
+   b) Não pode conter valores nulos.
+   c) Deve formar um valor único para cada registro.
+   d) Pode ser utilizada para relacionar o registro com outras tabelas.
+   e) Deve ser declarado de um tipo de dados INTEIRO.
+
+Comentários:
+
+(a) Correto. Uma Chave Primária pode ser composta; (b) Correto. Uma Chave Primária não pode
+conter valores nulos (Restrição de Entidade); (c) Correto. Uma Chave Primária deve ter valores
+únicos para cada registro (Restrição de Chave); (d) Correto. Uma Chave Primária pode ser Chave
+Estrangeira de outra tabela; (e) Errado. Uma Chave Primária não precisa ser obrigatoriamente do
+tipo INTEIRO.
+
+                                                                                              Gabarito: Letra E
+
+102. (NC-UFPR / ITAIPU BINACIONAL – 2015) Quando uma chave primária de uma tabela é
+   usada como atributo em outra tabela, nessa outra tabela ela será chamada de:
+
+
+---
+
+   a) Chave dupla.
+   b) Chave candidata.
+   c) Chave importada.
+   d) Chave estrangeira.
+   e) Chave secundária.
+
+Comentários:
+
+        TIPOS DE chave            Em inglês                                 descrição
+                                                Conjunto de uma ou mais colunas que, tomadas coletivamente,
+         SUPERCHAVE               SUPERKEY
+                                                permitem identificar de maneira unívoca uma linha.
+                                                Superchaves de tamanho mínimo, candidatas a serem possíveis
+       CHAVE CANDIDATA          CANDIDATE KEY
+                                                chaves primárias de uma tabela.
+                                                Chaves cujas colunas são utilizadas para identificar linhas em uma
+        CHAVE PRIMÁRIA           PRIMARY KEY
+                                                tabela – em geral, vêm sublinhada.
+                                                Chaves candidatas a serem possíveis chaves primárias de uma
+ CHAVE SECUNDÁRIA/alternativa   SECONDARY KEY
+                                                tabela, mas que não foram escolhidas.
+                                                Chaves de uma tabela que fazem referência à chave candidata de
+      CHAVE ESTRANGEIRA          FOREIGN KEY
+                                                outra tabela, ou até mesmo da própria tabela.
+                                                Chaves primárias artificiais criadas para identificar de maneira
+       Chave substituta         Surrogate key
+                                                unívoca uma linha.
+
+
+(a) Errado. Essa chave não existe; (b) Errado. Essa chave é uma possível chave primária; (c) Errado.
+Essa chave não existe; (d) Correto. Essa chave é uma chave primária de outra tabela; (e) Errado.
+Essa chave é uma chave candidata que não foi escolhida para ser chave primária.
+
+                                                                                              Gabarito: Letra D
+
+103. (CESGRANRIO / Banco da Amazônia – 2014) Para responder à questão, tenha como
+   referência o diagrama de entidades e relacionamentos, apresentado abaixo, que representa
+   parte do modelo de dados de uma instituição financeira.
+
+
+---
+
+  Que representação gráfica do modelo ER proposta pela notação IDEF1X representa
+  ““relacionamento existente entre Conta e Cliente?
+
+  a)
+
+  b)
+
+  c)
+
+  d)
+
+  e)
+
+Comentários:
+
+
+---
+
+Note que a Entidade Cliente tem arestas retas e a Entidade Cliente tem arestas arredondadas, logo
+se trata de um relacionamento identificador. Dessa forma, já podemos descartar a alternativa (a),
+dado que ela representa o relacionamento com uma linha tracejada. Também podemos eliminar a
+alternativa (e), porque no IDEF1X não existe essa notação com setas. Também podemos eliminar a
+alternativa (d), porque no IDEF1X não existe essa notação com apenas uma linha. Também
+podemos eliminar a alternativa (c), porque no IDEF1X não existe essa notação com círculo vazio.
+
+E por que a alternativa (b) está correta? Porque temos um pé-de-galinha em ambas as entidades,
+logo representa um relacionamento muitos-para-muitos. No IDEF1X, esse relacionamento é
+representado com um círculo preto em cada entidade.
+
+                                                                                Gabarito: Letra B
+
+104. (VUNESP / PRODEST-ES – 2014) Sobre a chave primária de uma tabela de um banco de
+   dados relacional, é correto afirmar que:
+
+   a) pode conter, no máximo, três atributos.
+   b) pode ser composta por mais de um atributo.
+   c) não há chave primária em tabelas com até 100 registros.
+   d) não pode conter atributos do tipo textual.
+   e) não pode conter atributos do tipo numérico.
+
+Comentários:
+
+(a) Errado. Uma chave primária pode conter mais de três atributos; (b) Correto. Uma chave primária
+pode – sim – ser composta por mais de um atributo; (c) Errado. Uma chave primária pode estar
+presente em tabelas com infinitos registros; (d) Errado. Uma chave primária pode – sim – conter
+atributos do tipo textual; (e) Errado. Uma chave primária pode – sim – conter atributos do tipo
+numérico.
+
+                                                                                Gabarito: Letra B
+
+105. (VUNESP / DESENVOLVESP – 2014) Em um banco de dados relacional deve haver, em cada
+   uma de suas relações, um conjunto de um ou mais atributos que não admite valores iguais, nesse
+   conjunto, para qualquer par de tuplas da relação. Esse conjunto de atributos tem a seguinte
+   denominação:
+
+   a) abstração.
+   b) chave primária.
+   c) domínio.
+   d) índice.
+   e) instância.
+
+
+---
+
+Comentários:
+
+Conjunto de um ou mais atributos que não admite valores iguais? Deve estar contida em toda
+relação? A questão trata claramente das chaves primárias: conjunto de um ou mais atributos cujos
+valores nunca se repetem para qualquer par de tuplas de uma relação.
+
+                                                                                 Gabarito: Letra B
+
+106. (CESGRANRIO / PETROBRAS – 2014) A álgebra relacional fornece um alicerce formal para
+   as operações do modelo relacional. Um técnico de informática reconhece que essas operações
+   permitem que um usuário especifique solicitações como expressões da álgebra relacional, nas
+   quais a(o):
+
+   a) operação PROJEÇÃO é usada para escolher um subconjunto das tuplas de uma relação que
+   satisfaça uma condição de seleção.
+
+   b) operação de PROJEÇÃO mantém quaisquer tuplas duplicadas, de modo que o resultado dessa
+   operação é um conjunto de tuplas que pode conter tuplas repetidas.
+
+   c) operação PROJEÇÃO pode selecionar certas colunas da tabela e descartar outras.
+
+   d) operação SELEÇÃO é usada para incluir todas as tuplas de duas relações em uma única
+   relação, sendo que as tuplas duplicadas são eliminadas.
+
+   e) resultado da operação SELEÇÃO pode ser visualizado como uma partição vertical da relação
+   original em duas relações: uma tem as colunas (atributos) necessárias e contém o resultado da
+   operação, e a outra contém as colunas descartadas.
+
+Comentários:
+
+(a) Errado. Essa operação seleciona colunas de uma tabela dada uma condição; (b) Errado. Essa
+operação elimina duplicatas (tuplas repetidas); (c) Correto. Essa operação seleciona colunas de uma
+tabela dada uma condição; (d) Errado. Essa operação seleciona tuplas de uma tabela dada uma
+condição; (e) Errado. Essa operação seleciona tuplas de uma tabela dada uma condição;
+
+                                                                                 Gabarito: Letra C
+
+107. (UEPA / SEAD - 2013) A estrutura de planejamento na maior parte das bases de dados segue
+   três modelos lógicos de bases de dados. São eles:
+
+   a) hierárquico, rede e relacional.
+   b) empresarial, departamental e distribuído.
+
+
+---
+
+   c) normalizado, não normalizado e padronizado.
+   d) tático, estratégico e global.
+   e) estratégico, empresarial e hierárquico.
+
+Comentários:
+
+A maior parte das bases de dados segue três modelos lógicos: hierárquico, rede e relacional.
+
+                                                                                   Gabarito: Letra A
+
+108. (SELECON / EMGEPRON - 2012) Considere:
+
+   I. Regra 1 - Todas as informações são representadas de forma explícita no nível lógico e
+   exatamente em apenas uma forma, por valores em tabelas.
+
+   II. Regra 2 - Cada um e qualquer valor atômico (datum) possui a garantia de ser logicamente
+   acessado pela combinação do nome da tabela, do valor da chave primária e do nome da coluna.
+
+   III. Regra 3 - Valores nulos não devem ser utilizados de forma sistemática, independente do tipo
+   de dado ainda que para representar informações inexistentes e informações inaplicáveis.
+
+   Das regras de Codd para bancos de dados relacionais, está correto o que consta em:
+
+   a) I, apenas.
+   b) II, apenas.
+   c) I e II, apenas.
+   d) II e III, apenas.
+   e) I, II e III.
+
+Comentários:
+
+As duas primeiras regras estão corretas, mas a terceira está errada. Valores nulos devem ser
+suportados de forma sistemática, independentemente do tipo de dado, ainda que para representar
+informações inexistentes e informações inaplicáveis. Vejamos a Regra 03:
+
+Os valores nulos (que são diferentes da cadeia de caracteres vazia, do valor zero ou de qualquer outro
+número) são suportados pelo SGBD Relacional para representar informação ausente ou não aplicável
+e tratados de uma maneira sistemática, independentemente do tipo de dados. Em outras palavras, o
+sistema deve ser capaz de tratar sistematicamente valores nulos – não importa se uma determinada
+coluna armazena um determinado tipo, ela deverá ser capaz de tratar o valor nulo.
+
+                                                                                   Gabarito: Letra C
+
+
+---
+
+109. (FIP / Câmara Municipal De São José Dos Campos/SP – 2009) Em um banco de dados
+   relacional, duas tabelas foram concatenadas de forma a atender uma determinada condição. O
+   resultado dessa operação representa a operação relacional de:
+
+   a) união.
+   b) projeção.
+   c) seleção.
+   d) intersecção.
+   e) junção.
+
+Comentários:
+
+A concatenação de tabelas para atender uma condição é a operação de... junção.
+
+                                                                             Gabarito: Letra E
+
+
+---
+
+                         LISTA DE QUESTÕES – CESPE
+
+1. (CESPE / CNMP - 2023) Um registro é um conjunto de itens de dados que possuem um conjunto
+   de atributos que pertencem a determinada entidade.
+
+2. (CESPE / SEPLAN-RR - 2023) No modelo relacional de dados todas as relações necessitam de
+   uma chave primária formada por uma ou mais tuplas que identificam um único registro.
+
+3. (CESPE / SEPLAN-RR - 2023) No modelo relacional, as estruturas de dados lógicas não são
+   separadas das estruturas de armazenamento físico, o que significa que os administradores de
+   banco de dados não podem gerenciar o armazenamento de dados físicos sem afetar o acesso a
+   esses dados como uma estrutura lógica.
+
+4. (CESPE / TCE-SC - 2022) Em bancos de dados relacionais, o mapeamento do relacionamento
+   não deve seguir a cardinalidade, pois a pluralidade dos tipos de cardinalidade (0, 1 e n) dificulta
+   o mapeamento; ele deve ser realizado com base apenas na chave primária.
+
+5. (CESPE / TCE-SC - 2022) Considere que, no modelo entidade relacionamento mostrado a
+   seguir, IdDoenca, IdPessoa e IdDoencaPessoa sejam respectivamente chaves primárias simples
+   de Doenca, Pessoa e Doenca_Pessoa.
+
+   Nesse caso, a modelagem está incorreta, pois, sendo Doenca_Pessoa uma tabela associativa às
+   chaves estrangeiras IdPessoa e IdDoenca, nela contidas, deveriam fazer parte da chave primária
+   de Doenca_Pessoa, uma vez que os relacionamentos #1 e #2 são identificados.
+
+6. (CESPE / FUNPRESP-EXE - 2022) Seguindo uma visão relacional, além de seus próprios
+   atributos, a entidade ENDERECO deve possuir como chave estrangeira a chave primária
+   CODIGO da tabela PESSOA.
+
+7. (CESPE / FUNPRESP-EXE - 2022) View é uma visualização customizada de uma ou mais
+   tabelas, com seus dados armazenados fisicamente e montada a partir da execução de uma
+   consulta.
+
+
+---
+
+8. (CESPE / PC-PB - 2022) Na álgebra relacional, a operação que permite combinar informações
+   de duas relações quaisquer é:
+
+   a) o produto cartesiano.
+   b) a seleção.
+   c) a projeção.
+   d) a renomeação.
+   e) a união.
+
+9. (CESPE / SEFAZ-AL – 2021) Em um banco de dados relacional, uma chave externa fornece uma
+   relação entre duas tabelas, ou seja, ela é a chave principal de uma tabela e, portanto, aparece
+   como atributo em outra tabela.
+
+10. (CESPE / ISS-Aracaju – 2021) Em um banco de dados relacional, a condição que garante que
+    valores não possam se repetir dentro da mesma coluna denomina-se:
+
+   a) Foregin key.
+   b) Cláusula unique.
+   c) Domain restriction.
+   d) Índice cluster.
+   e) Reference key.
+
+11. (CESPE / SEFAZ - RS – 2019) Uma das regras de Codd para o modelo relacional consiste:
+
+   a) na independência de distribuição.
+   b) na presença de uma linguagem de programação no SGBD que promova interface com o
+   banco de dados, com a segurança e com a atualização dos dados.
+   c) na subversão das regras de integridade ou restrições quando utilizada uma linguagem de
+   baixo nível.
+   d) no não tratamento das atualizações de visões de dados.
+   e) na dependência de dados físicos (mudança na memória e no método de acesso).
+
+12. (CESPE / APEX-BRASIL – 2021) Não pode ter valor nulo em uma tabela do banco de dados um
+    campo:
+
+   a) que seja chave estrangeira.
+   b) que tenha sido utilizado em um índice.
+   c) que seja chave primária.
+   d) que represente uma data de nascimento.
+
+13. (CESPE / TCE-RJ – 2021) Superchaves e chaves primárias são utilizadas para diferenciar de
+    maneira única as instâncias de uma entidade, assim como para facilitar o processamento.
+
+
+---
+
+14. CESPE / TCE-RJ – 2021) No modelo relacional de bancos de dados, os elementos ficam
+    armazenados em tabelas bidimensionais simples, contendo linhas (registros) e colunas
+    (campos), e os elementos de um arquivo do banco podem relacionar-se com diversos elementos
+    de outros arquivos.
+
+15. CESPE / Polícia Federal – 2021) Se uma tabela de banco de dados tiver 205 atributos, então
+    isso significa que ela tem 205 registros.
+
+16. (CESPE / Polícia Federal – 2021) Uma hiperchave é uma tupla que permite recuperar uma
+    relação de uma tabela.
+
+17. (CESPE / ME – 2020) Chaves estrangeiras não podem ser nulas e cada registro na tabela deve
+    possuir uma, e somente uma, chave estrangeira.
+
+18. (CESPE / ME – 2020) Uma view é uma tabela que é atualizada no momento em que uma das
+    tabelas consultadas é atualizada; a view permite consultas ao banco de dados de forma mais
+    rápida quando comparada à utilização de índices.
+
+19. (CESPE / ME – 2020) Em um banco de dados relacional, a chave candidata a primária é formada
+    por um ou mais atributos que identificam uma única tupla.
+
+20. (CESPE / ME – 2020) A restrição de integridade referencial exige que os valores que aparecem
+    nos atributos especificados de qualquer tupla na relação referenciadora também apareçam nos
+    atributos de pelo menos uma tupla na relação referenciada.
+
+21. (CESPE / ME – 2020) Um banco de dados relacional organiza os dados em tabelas e os vincula,
+    com base em campos-chave, e essas relações permitem recuperar e combinar dados de uma ou
+    mais tabelas com uma única consulta.
+
+22. (CESPE / ME – 2020) Analise o diagrama IDEF1X (pé de galinha) mostrado a seguir.
+
+   Sobre esse diagrama e sua implementação relacional correspondente, assinale a afirmativa
+   correta.
+
+   a) A1 em T2 pode ser nulo, independentemente de A2 em T2 ser nulo ou não.
+   b) A1 em T2 pode ser nulo somente se A2 em T2 for nulo.
+   c) O relacionamento entre T1 e T2 é “não identificador”.
+   d) Um registro qualquer de T2 pode não estar relacionado a algum registro de T1.
+
+
+---
+
+   e) Em T2, A2 e A1, concatenados, constituem um identificador para T2.
+
+23. (CESPE / Polícia Federal – 2018) Situação hipotética: Ao analisar um computador, Marcos
+    encontrou inúmeros emails, vídeos e textos advindos, em sua maioria, de comentários em redes
+    sociais. Descobriu também que havia relação entre vários vídeos e textos encontrados em um
+    diretório específico. Assertiva: Nessa situação, tendo como referência somente essas
+    informações, Marcos poderá inferir que se trata de um grande banco de dados relacional, visto
+    que um diretório é equivalente a uma tabela e cada arquivo de texto é equivalente a uma tupla;
+    além disso, como cada arquivo possui um código único, poderá deduzir que esse código é a
+    chave primária que identifica o arquivo de forma unívoca.
+
+24. (CESPE / FUB – 2018) Álgebra relacional é um conjunto de operações sobre relações, sendo
+    gerada dessas operações uma relação de saída.
+
+   CPF
+   NOME
+   DATA DE NASCIMENTO
+   NOME DO PAI
+   NOME DA MAE
+   TELEFONE
+   CEP
+   NUMERO
+
+   As informações anteriormente apresentadas correspondem aos campos de uma tabela de um banco
+   de dados, a qual é acessada por mais de um sistema de informação e também por outras tabelas.
+   Esses dados são utilizados para simples cadastros, desde a consulta até sua alteração, e também
+   para prevenção à fraude, por meio de verificação dos dados da tabela e de outros dados em
+   diferentes bases de dados ou outros meios de informação.
+
+25. (CESPE / Polícia Federal – 2018) A referida tabela faz parte de um banco de dados relacional.
+
+26. (CESPE / TCE-PE – 2017) Uma visão (view) é derivada de uma ou mais relações e armazena os
+    dados em uma tabela física do banco de dados, visando tornar ágeis as consultas.
+
+27. (CESPE / TCE-PE – 2017) A chave estrangeira (foreign key) é o campo que estabelece o
+    relacionamento entre duas tabelas de bancos distintos, sendo necessariamente chave primária
+    na tabela de um dos bancos.
+
+28. (CESPE / TCE-PA – 2016) Em bancos de dados relacionais, chave estrangeira é aquela que
+    permite uma ligação lógica entre duas tabelas — a chave estrangeira de uma tabela se liga
+    logicamente à chave primária de outra tabela.
+
+
+---
+
+29. (CESPE / TCE-SC – 2016) Denomina-se visão uma tabela única derivada de uma ou mais tabelas
+    básicas do banco. Essa tabela existe em forma física e viabiliza operações ilimitadas de
+    atualização e consulta.
+
+30. (CESPE / TCE-SC - 2016) Em bancos de dados relacionais, as tabelas que compartilham um
+    elemento de dado em comum podem ser combinadas para apresentar dados solicitados pelos
+    usuários.
+
+Considerando a figura apresentada, que ilustra o modelo de um banco de dados hipotético, julgue
+o item que se segue.
+
+31. (CESPE / TCE-PA – 2016) Projeção é uma operação binária que realiza a junção de duas tabelas
+    e gera, como resultado, uma tabela com todas as combinações dos atributos de entrada.
+
+32. (CESPE / TCE-PA – 2016) No modelo relacional de dados, uma tabela é um conjunto ordenado
+    de campos.
+
+33. (CESPE / Prefeitura de Niterói-RJ – 2015) Na questão seguinte há referência a um banco de
+    dados denominado banco BD, cujo esquema relacional e respectivo preenchimento são
+    ilustrados a seguir.
+
+
+---
+
+  São definidas para essas tabelas chaves primárias e/ou candidatas, de acordo com o quadro a
+  seguir.
+
+   A notação IDEF1X é utilizada para a modelagem de bancos de dados, especialmente do tipo
+   relacional. Dos modelos apresentados, o que representa adequadamente o banco BD é:
+
+   a)
+
+   b)
+
+   c)
+
+   d)
+
+   e)
+
+34. (CESPE / TRE-MT – 2015) Assinale a opção que apresenta corretamente o modelo de dados em
+    que uma linha é chamada de tupla, um cabeçalho de coluna é chamado de atributo e uma tabela
+    é chamada de relação:
+
+   a) modelo de dados XML
+   b) modelo relacional de dados
+   c) modelo de dados em rede
+
+
+---
+
+   d) modelo de dados hierárquico
+   e) modelo de dados híbrido de registro integrado
+
+35. (CESPE / TCU – 2015) Em um banco de dados estruturado de acordo com o modelo relacional,
+    todos os elementos dos dados são colocados em tabelas bidimensionais, organizados em linhas
+    e colunas, o que simplifica o acesso e a manipulação dos dados. Operações matematicamente
+    conhecidas como de produto cartesiano, de seleção e de projeção também apoiam a
+    manipulação de dados aderentes ao modelo relacional.
+
+36. (CESPE / MEC – 2015) Chave candidata é um atributo especial capaz de identificar uma
+   instância de determinada entidade de maneira única. Assim, durante a modelagem relacional
+   de dados, todas as chaves candidatas nas entidades em análise se tornam chaves primárias
+   dessas entidades.
+
+37. (CESPE / MEC – 2015) View é um objeto que permite implementar a segurança em um banco
+    de dados, omitindo dados irrelevantes para algum grupo de usuário. No entanto, não é
+    permitido criar uma view com base na definição de outra view.
+
+38. (CESPE / TRE-MT – 2015) O conjunto de um ou mais campos cujos valores, considerando-se a
+    combinação de todos os campos da tupla, nunca se repetem e que podem ser usados como um
+    índice para os demais campos da tabela do banco de dados é denominado de:
+
+   a) domínio.
+   b) primeira forma normal.
+   c) dicionário de dados.
+   d) chave estrangeira.
+   e) chave primária.
+
+39. (CESPE / TRE-GO – 2015) Uma chave primária identifica um único valor de uma tupla no banco
+    de dados e não possui mais de um atributo na tabela.
+
+40. (CESPE / CGE-PI – 2015) Em um relacionamento de tabelas de um banco de dados relacional, a
+    chave estrangeira serve para referenciar uma entidade dentro de outra tabela, facilitando,
+    assim, a busca e o agrupamento dessas entidades.
+
+41. (CESPE / TCU - 2015) Chave primária é um campo, ou um conjunto de campos, que abriga
+   valores que individualizam cada registro. Esse campo não pode repetir-se em uma mesma
+   tabela.
+
+42. (CESPE / MEC – 2015) A operação PROJEÇÃO seleciona algumas colunas e linhas da
+    relação/tabela, enquanto descarta outras.
+
+43. (CESPE / MPOG – 2015) Relações definidas como conjuntos matemáticos e representadas na
+    implementação física em bancos de dados por tabelas podem conter tuplas duplicadas.
+
+
+---
+
+44. (CESPE / MEC – 2015) Integridade referencial baseia-se na ligação das informações das chaves
+    estrangeiras com as chaves primárias, ou candidatas a primárias, da tabela de referência.
+
+45. (CESPE / MPOG – 2015) Relações definidas como conjuntos matemáticos e representadas na
+    implementação física em bancos de dados por tabelas podem conter tuplas duplicadas.
+
+46.(CESPE / MEC – 2015) Integridade referencial baseia-se na ligação das informações das chaves
+   estrangeiras com as chaves primárias, ou candidatas a primárias, da tabela de referência.
+
+47. (CESPE / TJDFT – 2015) Em um banco de dados relacional, a chave estrangeira que existe em
+    uma tabela deve ser chave primária em outra tabela.
+
+48.(CESPE / MPU – 2013) Uma chave primária não existe sem uma chave estrangeira
+   correspondente.
+
+49.(CESPE / TRT-ES – 2013) Chave estrangeira é o atributo ou conjunto de atributos que se refere
+   ou é relacionado com alguma chave primária ou única de uma tabela, podendo ser inclusive da
+   mesma tabela.
+
+50. CESPE / Banco da Amazônia – 2012) A operação da álgebra relacional SELECT extrai as tuplas
+    específicas de uma relação, e a operação PROJECT extrai atributos específicos de uma relação.
+
+51. (CESPE / TJ-RO – 2012) Associado a uma tabela, sempre existe um índice, que é uma estrutura
+   usada para melhorar a velocidade de acesso aos dados da tabela.
+
+52. (CESPE / BASA – 2012) O valor de uma chave estrangeira que apareça em uma tabela deve,
+    necessariamente, ser considerado como chave primária de outra tabela.
+
+53. (CESPE / CORREIOS – 2011) No acesso aos dados de tabelas em um banco de dados, a
+    utilização de índices melhora o desempenho de acesso do usuário final.
+
+54. (CESPE / MEC – 2011) Quando se transforma um modelo conceitual em um modelo lógico, os
+    dados passam a ser vistos como estruturas de dados voltadas para as características do modelo
+    lógico escolhido (hierárquico, rede, relacional etc.).
+
+55. (CESPE / EBC – 2011) O modelo relacional de banco de dados possui uma estrutura de dados
+    em forma de tabela em que as colunas representam os atributos ou os campos, e as linhas
+    representam os registros ou as instâncias da relação.
+
+56. (CESPE / MEC – 2011) A restrição de integridade de entidade estabelece que nenhum valor de
+    chave primária e chave estrangeira pode ser nulo. Se houver valores nulos para as chaves, então
+    não será possível identificar alguma tupla.
+
+
+---
+
+                          LISTA DE QUESTÕES – FCC
+
+57. (FCC / SEFAZ-AP – 2022) Considere que durante a modelagem de um banco de dados relacional
+    observou-se a existência de duas entidades, Produto e Venda, que se relacionam com
+    cardinalidade muitos-para-muitos, uma vez que em uma venda pode haver vários produtos e
+    um determinado produto pode estar qualificado em várias vendas (no caso, unidades diferentes
+    do mesmo produto). Como os sistemas gerenciadores de banco de dados relacionais existentes
+    não implementam relacionamento muitos-para-muitos, para criar as tabelas referentes às
+    entidades no banco de dados será necessário:
+
+   a) estabelecer uma relação de herança, onde a tabela Venda herdará os atributos da tabela
+   Produto.
+
+   b) criar uma tabela filha para Produto e uma para Venda e relacionar estas tabelas filhas com
+   cardinalidade um-para-muitos.
+
+   c) que a chave primária da tabela Venda apareça como chave estrangeira na tabela Produto e
+   que a chave primária da tabela Produto apareça como chave estrangeira na tabela Venda.
+
+   d) criar uma tabela de ligação entre Produto e Venda, onde o relacionamento muitos-para-
+   muitos será dividido em dois relacionamentos um-para-um.
+
+   e) criar uma tabela associativa, onde o relacionamento muitos-para-muitos será desmembrado
+   em dois relacionamentos do tipo um-para-muitos.
+
+Considere as seguintes tabelas relacionais e seus respectivos campos:
+
+   Tabela1: CPF-Contribuinte, Nome-Contribuinte, Idade-Contribuinte
+   Tabela2: CNPJ-Contribuinte, RazaoSocial, UF, CPF-Contribuinte
+   CPF-Contribuinte e CNPJ-Contribuinte são definidos como Primary-Key, Unique.
+
+58. (FCC / SEFAZ-AP – 2022) O campo:
+
+   a) CNPJ-Contribuinte é considerado chave estrangeira na Tabela2.
+   b) CNPJ-Contribuinte é considerado chave estrangeira na Tabela1.
+   c) CPF-Contribuinte é considerado chave estrangeira na Tabela2.
+   d) CPF-Contribuinte não é considerado chave estrangeira na Tabela2 porque é Unique
+   na Tabela1.
+   e) CPF-Contribuinte é considerado chave estrangeira na Tabela1.
+
+59. (FCC / SEFAZ-AP – 2022) Com base nessas informações, é correto afirmar:
+
+
+---
+
+   a) A Tabela1 se relaciona com a Tabela2 na ordem de cardinalidade n:1.
+   b) A Tabela1 não seria uma entidade no Modelo Entidade-Relacionamento porque o CPF-
+   Contribuinte está em duas tabelas.
+   c) Ambas as tabelas se relacionam em cardinalidade n:m.
+   d) A Tabela1 se relaciona com a Tabela2 na ordem de cardinalidade 1:n.
+   e) A Tabela2 e a Tabela1 podem ser unificadas em uma única tabela relacional normalizada.
+
+60. (FCC / TRF4 – 2019) Dentre as regras de Codd que caracterizam Bancos de Dados Relacionais, a
+    regra da Independência de Integridade estipula que as várias formas de integridade relacional
+    de banco de dados:
+
+   a) precisam ser definidas na linguagem relacional e armazenadas dentro do catálogo do sistema
+   ou dicionário de dados, e ser totalmente independentes da lógica dos aplicativos.
+
+   b) podem ser representadas em tabelas relacionais específicas que se relacionam com as tabelas
+   de cada aplicativo. Quando um aplicativo mudar, a regra de independência muda
+   automaticamente.
+
+   c) precisam ser definidas na linguagem de cada aplicativo e armazenadas como tabelas
+   relacionais dentro do banco de cada aplicativo, pois somente desta forma, ao mudar o
+   aplicativo, as regras de integridade mudarão também, automaticamente.
+
+   d) podem ser definidas em linguagem natural ou em Shell script e armazenadas no dicionário de
+   dados ou dentro do catálogo do sistema; contudo, não há como garantir que elas sejam
+   totalmente independentes da lógica dos aplicativos na totalidade das situações.
+
+   e) devem ser escritas em linguagem hierárquica ou de rede pois, desta forma, tanto a hierarquia
+   das tabelas quanto os links entre elas, como ocorre nos bancos em rede, conduzirão às
+   mudanças automáticas das integridades ao se mudar algum aplicativo.
+
+61. (FCC / SEFAZ - SP - 2009) Considere a seguinte regra de Codd, aplicada aos bancos de dados
+    relacionais: A descrição do banco de dados é representada no nível lógico da mesma forma que os
+    dados ordinários, permitindo que usuários autorizados utilizem a mesma linguagem relacional
+    aplicada aos dados regulares. O sentido dessa regra diz respeito à:
+
+   a) formação do catálogo.
+   b) manipulação, por meio de visões.
+   c) independência física.
+   d) independência lógica.
+   e) independência de distribuição.
+
+62. (FCC/ TRF – 4 REGIÃO(RS) - 2011) No contexto de banco de dados relacional, das 12 regras
+    definidas por Codd, aquela que determina que os programas de aplicação e as operações
+    interativas devem permanecer logicamente inalteradas, quaisquer que sejam as trocas
+
+
+---
+
+      efetuadas nas representações de armazenamento e métodos de acesso, chama-se
+      independência:
+
+      a) lógica dos dados.
+      b) física dos dados.
+      c) de acesso.
+      d) de integridade.
+      e) de distribuição.
+
+63. (FCC / TRE-AP – 2015) Leia, abaixo, a descrição das propriedades de um modelo lógico de dados
+    e assinale a única alternativa que corresponde a essa descrição do modelo. Ao contrário de seus
+    antecessores, não se baseia num paradigma de estruturação de dados particular e sim em um
+    fundamento matemático específico. Representa o Banco de Dados como uma coleção de
+    tabelas, constituídas de atributos e tuplas.
+
+      a) Modelo em Redes.
+      b) Modelo Hierárquico.
+      c) Modelo Relacional.
+      d) Modelo Matemático.
+      e) Modelo Orientado a Objetos.
+
+64.FCC / TJ-APP – 2014) Uma das formas de se garantir a integridade em um banco de dados é por
+   meio da definição de atributos, como a chave primária que:
+
+      a) sempre é formada por apenas um atributo.
+      b) não pode ser composta por atributos numéricos.
+      c) não pode ser composta por mais do que 3 atributos.
+      d) pode ser composta por mais de 1 atributo.
+      e) é formada por um único tipo de atributo, que é o que estabelece uma sequência numérica.
+
+65. (FCC / TJ-AP – 2014) Em um banco de dados, uma maneira de aumentar a segurança é a
+    ocultação de dados de um usuário. Um recurso que pode ser utilizado na ocultação de dados que
+    o usuário não tem necessidade de acessar, denomina-se:
+
+      a) procedure.
+      b) script.
+      c) trigger.
+      d) trilha.
+      e) view.
+
+66.      (FCC / SEFAZ-PE – 2014) Um Sistema de Gerenciamento de Banco de Dados (SGBD) é um
+      software com recursos específicos para facilitar a manipulação das informações dos bancos de
+      dados e o desenvolvimento de programas aplicativos. A forma como os dados serão
+
+
+---
+
+armazenados no banco de dados é definida pelo modelo do SGBD. Os principais modelos são:
+hierárquico, em rede, orientado a objetos e:
+
+a) procedural.
+b) orientado a serviços.
+c) relacional.
+d) orientado a componentes.
+e) funcional.
+
+
+---
+
+                          LISTA DE QUESTÕES – FGV
+
+67. (FGV / SEAD-AP – 2022) Considere a tabela TABX, implementada num banco de dados
+    relacional com a instância exibida a seguir.
+
+   TABX
+
+   Excetuada a linha de títulos, assinale o número de linhas produzidas pela execução do comando
+   SQL a seguir.
+
+                             SELECT DISTINCT A, C FROM TABX
+
+   a) 4
+   b) 3
+   c) 2
+   d) 1
+   e) 0
+
+68. (FGV / SEFAZ-BA – 2022) Com relação aos conceitos de banco de dados relacionais, analise
+   as afirmativas a seguir.
+
+   I. Instância do banco se refere à supressão de detalhes da organização e do armazenamento de
+   dados, descartando para um melhor conhecimento desses dados os recursos essenciais.
+
+   II. Modelo de dados se refere a uma coleção de conceitos que podem ser utilizados para
+   descrever a estrutura de um banco de dados, oferecendo os meios necessários para alcançar
+   essa abstração.
+
+   III. Abstração de dados refere aos conjuntos de dados e metadados e usuários presentes no
+   servidor de dados em um determinado instante.
+
+   Está correto o que se afirma em:
+
+
+---
+
+   a) I, somente.
+   b) II, somente.
+   c) III, somente.
+   d) I e II, somente.
+   e) I e III, somente.
+
+69. (FGV / SEFAZ-AM – 2022) A estrutura de dados usada em índices multiníveis dinâmicos em
+   banco de dados relacionais, que garantem que tais estruturas sempre estejam balanceadas e
+   que o espaço desperdiçado pela exclusão de itens de dados, se houver, nunca se torne excessivo,
+   é denominada:
+
+   a) fila.
+   b) hash.
+   c) bitmap.
+   d) árvore B.
+   e) árvore binária.
+
+70. (FGV / IBGE - 2017) Na década de 80, Edgar Frank Codd definiu um conjunto de regras para
+    definir o que são bancos de dados relacionais. A opção que NÃO faz parte dessas regras, é:
+
+   a) qualquer visualização que teoricamente possa ser atualizada deve ser realizada através do
+   próprio sistema;
+
+   b) aplicativos e recursos ad hoc não devem ser afetados logicamente quando os métodos de
+   acesso ou as estruturas de armazenamento físico forem alterados;
+
+   c) restrições de integridade necessitam ser especificadas dentro dos programas de aplicação, de
+   modo que mudanças nessas restrições sejam observadas por essas aplicações;
+
+   d) todas as informações no banco devem ser representadas logicamente como valores de coluna
+   em linhas dentro das tabelas;
+
+   e) os usuários finais e aplicativos não devem conhecer nem serem afetados pela localização dos
+   dados.
+
+71. (FGV / MPE-AL – 2018) Em um banco de dados relacional, um nome da tabela, uma chave
+    primária e um nome de coluna garantem o acesso a:
+
+   a) um dado.
+   b) um SGBD.
+   c) uma linguagem de consulta.
+   d) uma partição.
+   e) uma visão.
+
+
+---
+
+72. (FGV / AL-RO – 2018) No processo de otimização e processamento de consultas em bancos de
+    dados relacionais, a construção da query tree (ou árvore de consulta) é feita com base nas
+    operações da Álgebra Relacional. Assinale a opção que indica as operações primitivas dessa
+    álgebra, ou seja, as operações que não podem ser expressas por combinações das demais
+    operações:
+
+   a) Diferença, Divisão, Projeção, Produto, Seleção.
+   b) Diferença, Projeção, Produto, Seleção, União.
+   c) Divisão, Interseção, Junção, Produto, Seleção, União.
+   d) Junção, Projeção, Produto, Seleção, União.
+   e) Junção, Produto, Projeção, Seleção, União.
+
+73. (FGV / MPE-AL – 2018) No contexto da otimização de consultas para bancos de dados, a
+    Álgebra Relacional tem um papel importante, especialmente na construção das query trees para
+    a representação de planos de execução. As operações primitivas da AR são definidas como as
+    operações que não podem ser expressas por meio das demais operações. Assinale a opção que
+    apresenta a lista que contém as cinco operações primitivas da AR.
+
+   a) Diferença, divisão, projeção, seleção e união.
+   b) Diferença, produto, projeção, seleção e união.
+   c) Interseção, produto, projeção, seleção e união.
+   d) Divisão, interseção, junção, seleção e união.
+   e) Junção, produto, projeção, seleção e união.
+
+74. (FGV / AL-RO – 2018) O diagrama IDEF1X exibido a seguir será referenciado na questão
+    seguinte.
+
+   Considere o relacionamento estabelecido entre as entidades E1 e E2 no diagrama IDEF1X.
+   Assinale a opção que apresenta a leitura correta que deve ser feita dessa representação.
+
+   a) A cada elemento de E1 está associado um e somente um elemento de E2.
+   b) A cada elemento de E1 estão associados entre 1 e N elementos de E2.
+   c) A cada elemento de E2 está associado um e somente um elemento de E1.
+   d) A cada elemento de E2 estão associados entre 1 e N elementos de E1.
+   e) A cada elemento de E2 podem estar associados zero ou um elemento de E1.
+
+75. (FGV / AL-RO – 2018) Na representação de esquemas para bancos de dados relacionais por
+    meio da notação IDEF1X, os relacionamentos podem ser identificadores ou não identificadores.
+    Sobre a consequência do uso de relacionamentos identificadores, assinale a afirmativa correta.
+
+
+---
+
+   a) Uma tabela não pode participar em mais de um relacionamento identificador.
+   b) A cardinalidade de um relacionamento identificador deve ser 1:1.
+   c) A tabela do lado N do relacionamento deve possuir uma chave primária que independa da
+   chave estrangeira decorrente do relacionamento.
+   d) A chave estrangeira decorrente do relacionamento deve fazer parte da chave primária da
+   tabela.
+   e) A chave estrangeira decorrente do relacionamento deve permitir a preenchimento com
+   valores nulos.
+
+76. (FGV / AL-RO – 2018) Com relação ao diagrama IDEF1X, considere as afirmativas a seguir sobre
+    um eventual esquema relacional, com tabelas E1 e E2, que implemente aquele diagrama.
+
+  I. A coluna A1, de E1, deve permitir valores nulos.
+  II. A coluna AA de E1 não pode conter repetições de valores não nulos.
+  III. A coluna A1, de E2, deve permitir valores nulos.
+
+  Está correto o que se afirma em
+
+   a) I, somente.
+   b) II, somente.
+   c) III, somente.
+   d) I e II, somente.
+   e) II e III, somente.
+
+77. (FGV / IBGE – 2017) Em relação a banco de dados relacionais, analise as afirmativas abaixo:
+
+   I. Uma chave primária identifica um registro de forma única, não podendo eventualmente
+   assumir valor nulo.
+   II. Uma chave estrangeira não pode apontar para uma chave primária da mesma tabela.
+   III. Uma chave candidata é aquela que define uma combinação de atributos entre tabelas, mas
+   não pode ser uma chave primária.
+
+   Está correto o que se afirma em:
+
+   a) I;
+   b) II;
+   c) III;
+   d) I e II;
+
+
+---
+
+   e) I, II e III.
+
+78. (FGV / COMPESA – 2016) A teoria de consultas para bancos de dados relacionais supõe cinco
+    operações primitivas para a álgebra relacional, o que significa que o efeito de nenhuma dessas
+    cinco operações pode ser obtido pela combinação das demais. Assinale a opção que indica a lista
+    dessas operações.
+
+   a) Seleção, projeção, produto, união e junção.
+   b) Junção, projeção, produto, união e divisão.
+   c) Seleção, projeção, produto, junção e diferença.
+   d) Seleção, projeção, junção, interseção e diferença.
+   e) Seleção, projeção, produto, união e diferença.
+
+79. (FGV / COMPESA – 2016) Analise o diagrama ER, exibido a seguir com a notação IDEF1X pé-
+    de-galinha.
+
+   Analise, ainda, a lista de possíveis requisitos para uma implementação relacional desse modelo.
+
+   I. A1 em R2 deve ter uma restrição do tipo UNIQUE.
+   II. A1 em R2 não deve permitir valores nulos.
+   III. A1 em R1 deve constituir a chave primária.
+   IV. A2 em R2 deve permitir valores nulos.
+
+   Assinale a opção que indica a quantidade de requisitos corretamente estabelecidos.
+
+   a) Zero.
+   b) Um.
+   c) Dois.
+   d) Três.
+   e) Quatro.
+
+80.(FGV / TCE-SE – 2015) Diagramas entidade-relacionamento na notação IDEF1X distinguem
+   relacionamentos identificadores e não identificadores. A presença de um relacionamento
+   identificador faz com que:
+
+   a) os atributos que compõem a chave estrangeira correspondente possam assumir valores
+   nulos;
+
+   b) a cardinalidade do relacionamento torne-se, obrigatoriamente, 1:1;
+
+
+---
+
+   c) os atributos que compõem a chave estrangeira correspondente passem a compor a chave
+   primária da tabela estrangeira;
+
+   d) os atributos que compõem a chave estrangeira constituam, por si só, uma chave candidata da
+   tabela estrangeira;
+
+   e) seja estabelecida uma relação de especialização entre as duas entidades conectadas.
+
+81. (FGV / TJ-PI – 2015) Analise o diagrama ER construído sob a notação IDEF1X.
+
+   Está correto concluir que:
+
+   a) cada instância de X está relacionada a uma única instância de Y;
+   b) cada instância de X está relacionada a zero, uma ou mais instâncias de Y;
+   c) cada instância de Y está relacionada a uma única instância de X;
+   d) cada instância de Y está relacionada a zero, uma ou mais instâncias de X;
+   e) cada instância de Y está relacionada a uma ou mais instâncias de X.
+
+82. (FGV / AL-MT – 2013) Com relação às definições dos diferentes tipos de chaves em um projeto
+    de Banco de Dados, analise as afirmativas a seguir.
+
+   I. Em alguns casos, mais de uma coluna ou combinações de colunas podem servir para distinguir
+   uma linha das demais. Se uma das colunas (ou combinação de colunas) é escolhida como chave
+   primária, as demais são denominadas chaves estrangeiras.
+
+   II. Uma chave estrangeira é uma coluna ou uma combinação de colunas cujos valores aparecem
+   necessariamente na chave primária de uma tabela. A chave estrangeira é o mecanismo que
+   permite a implementação de relacionamentos em um banco de dados relacional.
+
+   III. Uma chave primária é uma coluna ou uma combinação de colunas cujos valores não
+   distinguem uma linha das demais dentro de uma tabela.
+
+   a) se somente a afirmativa I estiver correta.
+   b) se somente a afirmativa II estiver correta.
+   c) se somente a afirmativa III estiver correta.
+   d) se somente as afirmativas I e II estiverem corretas.
+
+
+---
+
+   e) se todas as afirmativas estiverem corretas.
+
+83. (FGV / Senado Federal – 2012) Fabricantes de armas são obrigados a imprimir um número de
+    série em cada uma de suas armas, identificando assim, unicamente, cada arma produzida. No
+    modelo de dados para um certo fabricante de armas, existe uma entidade chamada "arma" com
+    um atributo chamado "num_serie".
+
+   Com referência a este cenário, para a entidade "arma", "num_serie" é um atributo do tipo:
+
+   a) Chave alternativa (alternate key).
+   b) Chave composta (composite key).
+   c) Chave primária (primary key).
+   d) Chave estrangeira (foreign key).
+   e) Chave migrada (migrated key).
+
+84.(FGV / BADESC – 2010) A chave estrangeira se encontra na própria tabela de um
+   autorelacionamento do(s) tipo(s):
+
+   a) 1:1 e 1:N
+   b) 1:1 e N:N
+   c) 1:N e N:N
+   d) somente N:N
+   e) 1:1, 1:N e N:N
+
+85. (FGV / BADESC – 2010) No intuito de determinar, entre duas entidades, se um relacionamento
+    do tipo N:M possui um atributo, aplica-se um teste com a descrição do referido atributo. Esse
+    teste deve:
+
+   a) conter somente a entidade que deve conter o atributo.
+   b) conter as duas entidades que participam do relacionamento.
+   c) conter nenhuma das entidades participantes do relacionamento.
+   d) conter somente a entidade em que o atributo não deve se encontrar.
+   e) conter apenas uma das entidades que participa do relacionamento.
+
+86. (FGV / DETRAN-RN – 2010) Assinale a alternativa que corresponde ao recurso do modelo de
+   entidade-relacionamento, cuja definição é “ser um conjunto de um ou mais atributos que,
+   tomados coletivamente, permite-se identificar de maneira unívoca uma entidade em um
+   conjunto de entidades”:
+
+   a) Chave primária.
+   b) Superchave.
+   c) Especialização.
+   d) Generalização.
+   e) Herança de atributo.
+
+
+---
+
+87. (FGV / BADESC – 2010) Considere o seguinte texto.
+
+   "Conjunto de um ou mais atributos que, tomados coletivamente, nos permitem identificar, de
+   maneira única, uma entidade em um conjunto de entidades"
+
+   O texto acima é a definição de:
+
+   a) Chave.
+   b) Surrogate.
+   c) Superchave.
+   d) Chave primária.
+   e) Chave candidata.
+
+88. (FGV / MEC – 2009) No contexto de Banco de Dados, um conceito assegura que um valor que
+   aparece em uma tabela para um determinado conjunto de atributos apareça em outro conjunto
+   de atributos de outra tabela. Por exemplo, se CRISTALINA é o nome de uma filial que aparece
+   em uma tupla da tabela CONTA, então deve existir uma tupla CRISTALINA na tabela AGENCIA.
+   Esse conceito é definido como um sistema de regras utilizado para garantir que os
+   relacionamentos entre tuplas de tabelas relacionadas sejam válidas e que não exclui ou altera,
+   acidentalmente, dados relacionados. Trata-se do seguinte conceito:
+
+   a) Integridade Funcional
+   b) Dependência Funcional
+   c) Integridade Relacional
+   d) Dependência Referencial
+   e) Integridade Referencial
+
+89. (FGV / MEC – 2009) As restrições de integridade resguardam o Banco de Dados contra danos
+   acidentais, assegurando que mudanças feitas por usuários autorizados não resultem na perda
+   de consistência de dados. A restrição de integridade, na qual um valor que aparece em uma
+   relação para um determinado conjunto de atributos aparece também em outro conjunto de
+   atributos em outra relação (tabela), é conhecida por:
+
+   a) Integridade de Duplicação.
+   b) Integridade de Domínio.
+   c) Integridade Referencial.
+   d) Integridade de Chave.
+   e) Integridade de Vazio.
+
+90.(FGV / Senado Federal – 2008) Com relação ao conceito de chave estrangeira, é correto afirmar
+   que:
+
+
+---
+
+a) os atributos que formam uma chave estrangeira não podem fazer parte da chave primária da
+relação.
+b) toda chave estrangeira deve ser inicializada com o valor nulo.
+c) uma chave estrangeira não pode assumir valores duplicatas.
+d) as chaves estrangeiras servem para implementar a restrição de integridade referencial do
+modelo relacional.
+e) uma chave estrangeira não pode assumir o valor nulo.
+
+
+---
+
+                  LISTA DE QUESTÕES – DIVERSAS BANCAS
+
+91. (QUADRIX / CRF-GO – 2022) A técnica IDEF (Integrated Definition), a exemplo da técnica
+    BPMN, foi originalmente idealizada para representar e modelar processos de negócio, sendo a
+    categoria IDEF1X a categoria relativa à descrição do processo.
+
+92. (FEPESE / ISS-Criciúma – 2022) Sobre restrições no modelo relacional, associe o tipo de
+    restrição à sua respectiva descrição.
+
+   Coluna 1 – Tipos de restrição
+   1. Restrição implícitas
+   2. Restrições explícitas
+   3. Restrições semânticas
+
+   Coluna 2 – Descrição
+   ( ) Não podem ser expressas diretamente nos esquemas do modelo de dados.
+   ( ) São restrições inerentes ao modelo de dados e baseadas neles.
+   ( ) Definidas pela DDL e expressas nos esquemas do modelo de dados.
+
+   Assinale a alternativa que indica a sequência correta, de cima para baixo.
+
+   a) 1 – 2 – 3
+   b) 1 – 3 – 2
+   c) 2 – 1 – 3
+   d) 3 – 1 – 2
+   e) 3 – 2 – 1
+
+93. (FEPESE / ISS-Criciúma – 2022) São todos tipos de restrições ou constraints que podem ser
+    expressos diretamente nos esquemas do modelo de dados relacional e esquemas de bancos de
+    dados relacional, incluídas na linguagem de definição de dados (DDL).
+
+   1. De domínio
+   2. Integridade Semântica
+   3. Integridade Referencial
+   4. Integridade de Entidade
+
+   Assinale a alternativa que indica todas as afirmativas corretas.
+
+   a) São corretas apenas as afirmativas 1, 2 e 3.
+   b) São corretas apenas as afirmativas 1, 2 e 4.
+   c) São corretas apenas as afirmativas 1, 3 e 4.
+   d) São corretas apenas as afirmativas 2, 3 e 4.
+
+
+---
+
+   e) São corretas as afirmativas 1, 2, 3 e 4.
+
+94.(IFB / IFB – 2017) Segundo Elmasri (2011), na terminologia formal do modelo relacional, uma
+   linha, um cabeçalho de coluna e a tabela, são chamados, respectivamente, de:
+
+   a) Registro, atributo, domínio
+   b) Tupla, atributo e relação
+   c) Registro, atributo e relação
+   d) Relação, domínio e registro
+   e) Relação, tupla e registro
+
+95. (IBFC / Polícia Científica – 2017) No modelo relacional, cada registro de uma tabela tem um
+    identificador único chamado de chave primária. Assinale a alternativa que indica o nome da
+    chave primária quando utilizada como referência em outro registro de outra tabela:
+
+   a) chave secundária
+   b) chave derivada
+   c) chave estrangeira
+   d) chave de ligação
+   e) chave de índice
+
+
+96. (IF-CE / IF-CE – 2017) Do ponto de vista de um banco de dados relacional, um ou mais campos
+   que, com os valores juntos, devem determinar que o registro não poderá se repetir na mesma
+   tabela. Em relação a esta visão, trata-se da:
+
+   a) entidade fraca.
+   b) chave estrangeira.
+   c) chave composta.
+   d) entidade forte.
+   e) chave primária.
+
+97. (CS-UFG / DEMAE-GO – 2017) O principal objetivo dos índices em bancos de dados relacionais
+    é:
+
+   a) ter controle central dos dados e dos programas.
+   b) melhorar o desempenho de consultas submetidas ao banco de dados.
+   c) permitir a modificação da estrutura de uma tabela.
+   d) alterar o valor de um determinado atributo de uma ou de várias linhas de uma tabela.
+
+98.   (IF/PA / IF/PA – 2016) Analise as seguintes afirmações sobre Banco de Dados:
+
+   I. Conceitualmente, uma relação não é sensível à ordenação das tuplas.
+   II. Em uma tupla, o valor de cada atributo deve ser um valor atômico do domínio.
+
+
+---
+
+   III. Uma transação pode envolver diversas operações no banco, razão pela qual não é
+   considerada operação atômica para o banco.
+
+   É correto apenas o que se afirma em:
+
+   a) I.
+   b) II.
+   c) III.
+   d) I e II.
+   e) II e III.
+
+99. (FCM / IFF-RS – 2015) Em um banco de dados relacional, algumas regras são aplicadas às
+   chaves, assim:
+
+   a) não é possível a criação de uma tabela sem chave primária.
+   b) a chave primária de uma tabela deve ser sempre única e não nula.
+   c) as chaves, primária e estrangeira, de uma tabela, devem ser do tipo numérico.
+   d) a cláusula UNIQUE, aplicada à chave estrangeira, é responsável pela integridade referencial
+   do relacionamento.
+   e) as chaves primárias podem ser compostas por um ou mais atributos, porém as chaves
+   estrangeiras devem ser compostas somente por um atributo.
+
+100. (IESES / MSGAS – 2015) No projeto de banco de dados relacional, a integridade de entidades
+   é uma característica que necessita ser garantida. Nesse contexto, assinale a alternativa correta:
+
+   a) A integridade de entidades estabelece que o valor da chave primária deve ser um número
+   sequencial auto-incrementado.
+
+   b) A integridade de entidades estabelece que nenhum valor da chave primária pode ser null.
+
+   c) A integridade de entidades é utilizada para manter a consistência entre duas relações, sendo
+   que esta é possível por meio de chaves estrangeiras.
+
+   d) A integridade de entidades estabelece que as chaves primárias devem ser formadas por um
+   único atributo.
+
+101. (CETAP / MPCM – 2015) Sobre o conceito de chave primária, relacionado a um registro em
+   um banco de dados, selecione a afirmação falsa:
+
+   a) Pode ser formado por um campo ou um conjunto de campos.
+   b) Não pode conter valores nulos.
+   c) Deve formar um valor único para cada registro.
+   d) Pode ser utilizada para relacionar o registro com outras tabelas.
+   e) Deve ser declarado de um tipo de dados INTEIRO.
+
+
+---
+
+102. (NC-UFPR / ITAIPU BINACIONAL – 2015) Quando uma chave primária de uma tabela é
+   usada como atributo em outra tabela, nessa outra tabela ela será chamada de:
+
+   a) Chave dupla.
+   b) Chave candidata.
+   c) Chave importada.
+   d) Chave estrangeira.
+   e) Chave secundária.
+
+103. (CESGRANRIO / Banco da Amazônia – 2014) Para responder à questão, tenha como
+   referência o diagrama de entidades e relacionamentos, apresentado abaixo, que representa
+   parte do modelo de dados de uma instituição financeira.
+
+   Que representação gráfica do modelo ER proposta pela notação IDEF1X representa
+   ““relacionamento existente entre Conta e Cliente?
+
+   a)
+
+
+---
+
+   b)
+
+   c)
+
+   d)
+
+   e)
+
+104. (VUNESP / PRODEST-ES – 2014) Sobre a chave primária de uma tabela de um banco de
+   dados relacional, é correto afirmar que:
+
+   a) pode conter, no máximo, três atributos.
+   b) pode ser composta por mais de um atributo.
+   c) não há chave primária em tabelas com até 100 registros.
+   d) não pode conter atributos do tipo textual.
+   e) não pode conter atributos do tipo numérico.
+
+105. (VUNESP / DESENVOLVESP – 2014) Em um banco de dados relacional deve haver, em cada
+   uma de suas relações, um conjunto de um ou mais atributos que não admite valores iguais, nesse
+   conjunto, para qualquer par de tuplas da relação. Esse conjunto de atributos tem a seguinte
+   denominação:
+
+   a) abstração.
+   b) chave primária.
+   c) domínio.
+   d) índice.
+   e) instância.
+
+106. (CESGRANRIO / PETROBRAS – 2014) A álgebra relacional fornece um alicerce formal para
+   as operações do modelo relacional. Um técnico de informática reconhece que essas operações
+   permitem que um usuário especifique solicitações como expressões da álgebra relacional, nas
+   quais a(o):
+
+   a) operação PROJEÇÃO é usada para escolher um subconjunto das tuplas de uma relação que
+   satisfaça uma condição de seleção.
+
+
+---
+
+   b) operação de PROJEÇÃO mantém quaisquer tuplas duplicadas, de modo que o resultado dessa
+   operação é um conjunto de tuplas que pode conter tuplas repetidas.
+
+   c) operação PROJEÇÃO pode selecionar certas colunas da tabela e descartar outras.
+
+   d) operação SELEÇÃO é usada para incluir todas as tuplas de duas relações em uma única
+   relação, sendo que as tuplas duplicadas são eliminadas.
+
+   e) resultado da operação SELEÇÃO pode ser visualizado como uma partição vertical da relação
+   original em duas relações: uma tem as colunas (atributos) necessárias e contém o resultado da
+   operação, e a outra contém as colunas descartadas.
+
+107. (UEPA / SEAD - 2013) A estrutura de planejamento na maior parte das bases de dados segue
+   três modelos lógicos de bases de dados. São eles:
+
+   a) hierárquico, rede e relacional.
+   b) empresarial, departamental e distribuído.
+   c) normalizado, não normalizado e padronizado.
+   d) tático, estratégico e global.
+   e) estratégico, empresarial e hierárquico.
+
+108. (SELECON / EMGEPRON - 2012) Considere:
+
+   I. Regra 1 - Todas as informações são representadas de forma explícita no nível lógico e
+   exatamente em apenas uma forma, por valores em tabelas.
+
+   II. Regra 2 - Cada um e qualquer valor atômico (datum) possui a garantia de ser logicamente
+   acessado pela combinação do nome da tabela, do valor da chave primária e do nome da coluna.
+
+   III. Regra 3 - Valores nulos não devem ser utilizados de forma sistemática, independente do tipo
+   de dado ainda que para representar informações inexistentes e informações inaplicáveis.
+
+   Das regras de Codd para bancos de dados relacionais, está correto o que consta em:
+
+   a) I, apenas.
+   b) II, apenas.
+   c) I e II, apenas.
+   d) II e III, apenas.
+   e) I, II e III.
+
+109. (FIP / Câmara Municipal De São José Dos Campos/SP – 2009) Em um banco de dados
+   relacional, duas tabelas foram concatenadas de forma a atender uma determinada condição. O
+   resultado dessa operação representa a operação relacional de:
+
+
+---
+
+a) união.
+b) projeção.
+c) seleção.
+d) intersecção.
+e) junção.
+
+
+---
+
+                 GABARITO
+
+1. CORRETO    38. LETRA E   75. LETRA D
+2. ERRADO     39. ERRADO    76. LETRA B
+3. ERRADO     40. CORRETO   77. LETRA A
+4. ERRADO     41. CORRETO   78. LETRA E
+5. ERRADO     42. ERRADO    79. LETRA C
+6. CORRETO    43. ERRADO    80.LETRA C
+7. ERRADO     44. CORRETO   81. LETRA B
+8. LETRA A    45. ERRADO    82. LETRA B
+9. CORRETO    46.CORRETO    83. LETRA C
+10. LETRA B   47. CORRETO   84.LETRA A
+11. LETRA A   48.ERRADO     85. LETRA B
+12. LETRA C   49.CORRETO    86. LETRA B
+13. CORRETO   50. CORRETO   87. LETRA C
+14. CORRETO   51. ERRADO    88. LETRA E
+15. ERRADO    52. ERRADO    89. LETRA C
+16. ERRADO    53. CORRETO   90.LETRA D
+17. ERRADO    54. CORRETO   91. ANULADA
+18. ERRADO    55. CORRETO   92. LETRA D
+19. CORRETO   56. ERRADO    93. LETRA C
+20. CORRETO   57. LETRA E   94.LETRA B
+21. CORRETO   58. LETRA C   95. LETRA C
+22. LETRA E   59. LETRA D   96. LETRA E
+23. ERRADO    60. LETRA A   97. LETRA B
+24. CORRETO   61. LETRA A   98. LETRA D
+25. CORRETO   62. LETRA B   99. LETRA B
+26. ERRADO    63. LETRA C   100. LETRA B
+27. ERRADO    64.LETRA D    101. LETRA E
+28. CORRETO   65. LETRA E   102. LETRA D
+29. ERRADO    66. LETRA C   103. LETRA B
+30. CORRETO   67. LETRA B   104. LETRA B
+31. ERRADO    68. LETRA B   105. LETRA B
+32. ERRADO    69. LETRA D   106. LETRA C
+33. LETRA D   70. LETRA C   107. LETRA A
+34. LETRA B   71. LETRA A   108. LETRA C
+35. CORRETO   72. LETRA B   109. LETRA E
+36. ERRADO    73. LETRA B
+37. ERRADO    74. LETRA C
+
+
+---

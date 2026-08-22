@@ -1,0 +1,398 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: SISTEMAS DE CONTROLE DE
+---
+
+# SISTEMAS DE CONTROLE DE
+
+---
+
+---
+
+SISTEMAS DE CONTROLE DE
+ESTOQUES
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Controle de Estoques
+       Como gerenciar e reduzir estoques sem afetar a produção
+       ❑ Controlar estoques é um tema preocupante para os fabricantes. Criar e implantar
+         fórmulas para reduzir estoques sem afetar o processo produtivo e sem o crescimento
+         dos custos é um dos maiores desafios dos empresários e gestores ao longo do
+         processo de gestão de materiais.
+       ❑ As fórmulas do LEC (lote econômico de compras) já não servem por completo, pois
+         consideram muito mais o "quanto" do que o "quando" em relação ao momento da
+         compra e, atualmente, devemos analisar todos os fatores envolvidos, além da própria
+         política da empresa, e só aí definir o quanto e quando comprar.
+       ❑ Nesse contexto, a maioria das empresas não enfatiza mais o quanto e sim quando
+         comprar. Hoje, possuir em estoque a quantidade correta no momento inadequado,
+         não adianta e nem resolve nada, pois é justamente a determinação dos prazos que
+         mais importa no processo.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Controle de Estoques
+       Instrumentos além do “Ponto do Pedido”
+
+       ❑ Até então o ponto de pedido era a maneira utilizada pra determinar quando
+         comprar, porém baseava se em um consumo previsto durante o tempo de reposição.
+         Para isso utilizava-se da fórmula do ponto de pedidos.
+       ❑ A partir de agora temos sistemas de controle de estoques mais eficientes e com
+         muito mais precisão, como o MRP e outros que estudaremos mais adiante. Antes
+         disso vamos conhecer os modelos mais simples de cálculo de reposição de estoque.
+       ❑ E, é bom lembrar, o que cai na prova é teoria e não prática. Portanto, devemos
+         estudar todos os métodos cobrados, mesmo aqueles que na prática já não são mais
+         tão eficientes. Vamos a eles.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Uma má gestão de estoque pode gerar estoques altos, o que
+     é um erro muito cometido, por haver medo de não se ter produtos suficientes para atender a demanda
+     de clientes. O grande problema de um alto acúmulo de estoque é a alta probabilidade de perda,
+     causando, consequentemente, capital parado e evitando um giro de estoque lucrativo para a
+     organização.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Uma má gestão de estoque pode gerar estoques altos, o que
+     é um erro muito cometido, por haver medo de não se ter produtos suficientes para atender a demanda
+     de clientes. O grande problema de um alto acúmulo de estoque é a alta probabilidade de perda,
+     causando, consequentemente, capital parado e evitando um giro de estoque lucrativo para a
+     organização.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Sistemas de Reposição Contínua
+       Sistemas de “Duas Gavetas”
+       ❑ A principal característica do sistema de reposição contínua é que o estoque é reposto quando um
+         nível pré-determinado de estoque é atingido. É um sistema de gatilho que dispara ao se chegar a
+         um mínimo estipulado. Ele ainda se divide em dois métodos: sistema de "duas gavetas" e de
+         máximos e mínimos.
+
+       ❑ Sistema de "duas gavetas" ou de reposição por quantidade: pode ser considerado os sistema
+         mais simples de reposição de estoques e, por isso, é recomendado para os itens da Classe C.
+
+       ❑ Nesse sistema temos em uma gaveta (caixa ou qualquer outro compartimento) um nível de
+         estoque para suprir o abastecimento durante o período combinado. Tão logo esse material se
+         esgote a primeira gaveta é abastecida com materiais provenientes da segunda gaveta, que
+         armazena todo o volume estocado do item e é disparado um pedido de reposição.
+
+       ❑ Indicado para pequenos comércios varejistas, reduz ao máximo o processo burocrático de
+         reposição de material.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Sistemas de Reposição Contínua
+       Sistemas de “Máximos e Mínimos”
+       ❑ Sistema de máximos e mínimos (também chamado de sistema de quantidades fixas):
+         nessa metodologia o sistema de reposição é automático.
+       ❑ Tem-se um volume de estoques mais um estoque de segurança. Tão logo o nível de
+         segurança é atingido deve ser recebido um novo lote de material, evitando o
+         consumo do estoque mínimo (ou de segurança). A data correta de compra para que
+         se verifique essa situação é o ponto do pedido.
+       ❑ Esse volume de segurança serve como um colchão e suporta as demandas da
+         organização enquanto a nova remessa de material não é entregue.
+       ❑ Abrange os itens das classes A, B e C, é razoavelmente automatizado e permite a
+         utilização da metodologia do Lote Econômico de Compras.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Sistemas de Reposição Periódica
+       Ciclos de tempo independente de volume do estoque
+
+       ❑ No sistema de revisão periódica teoricamente não há preocupação com o estoque mínimo para a
+         definição do momento da compra e por isso ele também é conhecido como sistema de estoque
+         máximo. Nesse sistema o material é reposto periodicamente em ciclos iguais de tempos e na
+         quantidade que será demandada no período seguinte.
+
+       ❑ O processo de reabastecimento é feito em períodos pré-estabelecidos, independentemente do
+         nível em que se encontra. A cada período é checado o volume faltante para se atingir o estoque
+         máximo (demanda prevista para o período seguinte) e esse volume é completado. É como ir ao
+         posto de gasolina todos os domingos e encher o tanque, independentemente de quanto foi
+         consumido ao longo da semana, considerando que você imagina que vai consumir um tanque
+         inteiro de combustível até o domingo seguinte.
+
+       ❑ Note que o volume adquirido a cada período fixo de abastecimento deve variar porém, o seu
+         limite é sempre o mesmo, fixado pela demanda aguardada para o período seguinte.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Analista de Administração/2021) O sistema de controle de estoques que é
+     baseado em um determinado nível de estoque, que sinaliza a necessidade de repor certa quantidade de
+     material sempre que esse nível de estoque for atingido, é o sistema:
+     a) ABC
+     b) Revisão Períódica
+     c) UEPS
+     d) Revisão Contínua
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Analista de Administração/2021) O sistema de controle de estoques que é
+     baseado em um determinado nível de estoque, que sinaliza a necessidade de repor certa quantidade de
+     material sempre que esse nível de estoque for atingido, é o sistema:
+     a) ABC
+     b) Revisão Períódica
+     c) UEPS
+     d) Revisão Contínua
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRF-RR/Assistente Administrativo/2021) Suponha‐se que, em um estoque com sistema de
+     reposição contínua, um produto possua consumo médio de quinhentas unidades por mês, seu tempo
+     de reposição após o pedido de compra seja de 60 dias e o estoque mínimo desse produto seja de
+     trezentas unidades. Nesse caso, é correto afirmar que o ponto de pedido do produto será quando o
+     estoque chegar a mil e trezentas unidades.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRF-RR/Assistente Administrativo/2021) Suponha‐se que, em um estoque com sistema de
+     reposição contínua, um produto possua consumo médio de quinhentas unidades por mês, seu tempo
+     de reposição após o pedido de compra seja de 60 dias e o estoque mínimo desse produto seja de
+     trezentas unidades. Nesse caso, é correto afirmar que o ponto de pedido do produto será quando o
+     estoque chegar a mil e trezentas unidades.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP
+       Planeja e adapta a necessidade de materiais
+       ❑ O MRP é um dos sistemas de planejamento e controle de materiais mais usados atualmente.
+
+       ❑ É um sistema que estabelece uma série de procedimentos, regras e critérios de modo a atender
+         as necessidades de produção numa sequência de tempo logicamente determinada pra cada item
+         componente do produto final.
+
+       ❑ O sistema é capaz de planejar diferentes necessidades de materiais a cada alteração sofrida pelo
+         programa de produção, pelos registros de inventários ou mesmo pela composição de produtos
+         acabados.
+
+       ❑ Dessa forma pode ser considerado um sistema que se propõe a definir as quantidades necessárias
+         e o tempo exato para utilização dos materiais na fabricação dos respectivos produtos finais.
+
+       ❑ O processo inicia-se pela informação de quando e, especialmente quanto, o usuário pretende
+         consumir. Com base nessa informação o sistema espalha os dados para cada um dos itens
+         componentes do produto final e o processamento é iniciado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP
+       Utilizado na produção empurrada e nunca no JIT
+       ❑ O principal elemento do MRP é o seu Programa Mestre de Produção (ou PMP). Este programa
+         baseia-se na carteira de pedidos dos clientes e nas previsões de demanda. É responsável por
+         orientar todo o sistema MRP, trazendo todas as informações sobre o produto final, ou seja, quais
+         os componentes e quando serão agregados ou transformados no produto final que se pretende
+         produzir.
+
+       ❑ O horizonte de planejamento do sistema gira em torno de um ano, geralmente dividido em
+         semanas.
+
+       ❑ O MRP é tipicamente um método de "empurrar" os estoques, ou seja, programa a produção,
+         independente de sua comercialização prévia (ao contrário de métodos como o Just in Time e o
+         Kanban, que estudaremos mais adiante).
+
+       ❑ Outra característica marcante do MRP é sua rápida adaptabilidade à mudanças na composição do
+         produto final. Tão logo o produto varie, suas partes e componentes são recalculados e
+         replanejados ao longo do processo.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP e suas variações
+       Vantagens x Desvantagens
+
+                                                                                 Enterprise
+
+                                                                                 Manufacturing
+                                                                                 (FIN+ENG)
+
+                                                                                 Materials
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDATEC/CRP-7/Administrador/2019) O sistema Just-in-Time trouxe uma nova visão para o processo
+     produtivo. Foi introduzido na empresa japonesa Toyota nos anos 1950 e se tornou uma revolução na
+     maneira de gerenciar estoques. Sendo assim, assinale a alternativa INCORRETA em relação a esse
+     sistema.
+     a) É um sistema de produção puxada.
+     b) Busca manter estoques mínimos.
+     c) Os fornecedores são encarados como parceiros, não como adversários.
+     d) A finalidade do sistema é comprar ou produzir no momento certo com intuito de reduzir os custos
+     de estoques.
+     e) O sistema MRP (Material Requirement Planning) foi desenvolvido seguindo as premissas do Justin-
+     time, buscando integrar a filosofia de redução de desperdício com a tecnologia existente a partir dos
+     anos 1990.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDATEC/CRP-7/Administrador/2019) O sistema Just-in-Time trouxe uma nova visão para o processo
+     produtivo. Foi introduzido na empresa japonesa Toyota nos anos 1950 e se tornou uma revolução na
+     maneira de gerenciar estoques. Sendo assim, assinale a alternativa INCORRETA em relação a esse
+     sistema.
+     a) É um sistema de produção puxada.
+     b) Busca manter estoques mínimos.
+     c) Os fornecedores são encarados como parceiros, não como adversários.
+     d) A finalidade do sistema é comprar ou produzir no momento certo com intuito de reduzir os custos
+     de estoques.
+     e) O sistema MRP (Material Requirement Planning) foi desenvolvido seguindo as premissas do Justin-
+     time, buscando integrar a filosofia de redução de desperdício com a tecnologia existente a partir dos
+     anos 1990.
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CESGRANRIO/TRANSPETRO/Contador Junior/2018) Um dos principais insumos para a parametrização
+     de um sistema MRP – Materials Requirements Planning é o(a.)
+     a) custo da operação
+     b) equipamento de produção
+     c) pessoa que vai produzir
+     d) plano de operações
+     e) quantidade a produzir
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CESGRANRIO/TRANSPETRO/Contador Junior/2018) Um dos principais insumos para a parametrização
+     de um sistema MRP – Materials Requirements Planning é o(a.)
+     a) custo da operação
+     b) equipamento de produção
+     c) pessoa que vai produzir
+     d) plano de operações
+     e) quantidade a produzir
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

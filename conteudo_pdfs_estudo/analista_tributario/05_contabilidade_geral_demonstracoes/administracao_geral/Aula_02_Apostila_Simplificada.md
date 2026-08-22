@@ -1,0 +1,1085 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 02_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Possati
+---
+
+# Possati
+
+Aula 01
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                        Possati
+
+                                                         Autor:
+                                               Gilmar Possati
+
+                                         12 de Fevereiro de 2025
+
+---
+
+   Gilmar Possati
+   Aula 01
+
+                                                   PATRIMÔNIO
+Sumário
+
+1 – Patrimônio: Componentes Patrimoniais 
+
+   1.1. Componentes Patrimoniais
+
+   1.2. Definições dos Elementos Patrimoniais 
+
+      1.2.1. Ativo 
+
+      1.2.2. Passivo 
+
+      1.2.3. Patrimônio Líquido 
+
+   1.3. Diferença entre Capital e Patrimônio 
+
+   1.4. Situação Líquida e Equação Fundamental do Patrimônio 
+
+   1.5. Representação Gráfica dos Estados Patrimoniais
+
+2 – Questões Comentadas 
+
+3 – Lista das Questões Comentadas 
+
+4 – Gabarito 
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                                                  1
+           www.estrategiaconcursos.com.br                                                                                                        23
+
+                                               
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+            1 – PATRIMÔNIO: COMPONENTES PATRIMONIAIS
+
+1.1. Componentes Patrimoniais
+Devemos ter o entendimento inicial de que os bens e direitos representam o ativo da empresa,
+ou seja, os elementos positivos do patrimônio, e as obrigações, por sua vez, o passivo, ou seja,
+os elementos negativos do patrimônio.
+Os bens alvo de controle da Contabilidade são os monetários, ou seja, aqueles que podem ser
+avaliados economicamente. Segundo a doutrina, os bens podem ser classificados em:
+a) Bens numerários: relacionados com as disponibilidades financeiras (dinheiro) da entidade. Como
+exemplos, pode-se citar: caixa, bancos, aplicações financeiras de liquidez imediata, entre outros.
+                                                         ==219a34==
+
+b) Bens de venda: destinados à comercialização da entidade. Exemplos: matérias-primas,
+mercadorias, entre outros.
+c) Bens de renda: são os bens que não são essenciais à manutenção das atividades da entidade.
+Tais bens podem gerar renda, por exemplo, imóveis para aluguel e ações de empresas
+coligadas/controladas.
+d) Bens de uso: são essenciais à manutenção das atividades da entidade. Tais bens dividem-se em
+tangíveis (corpóreos, concretos, materiais) e intangíveis (incorpóreos, abstratos, imateriais).
+Exemplos:
+Bens tangíveis: veículos, terrenos, mercadorias, imóveis, etc.
+Bens intangíveis: marcas, patentes, softwares, etc.
+Em um distribuidor de alimentos, por exemplo, as mercadorias são bens de venda, e os caminhões
+utilizados para a distribuição de alimentos são bens de uso.
+Os direitos, como vimos no quadro acima, representam os valores a receber de terceiros, gerados
+por meio de operações da entidade.
+Exemplos:
+Duplicatas a receber, adiantamento a fornecedores, impostos a recuperar, empréstimos a
+coligadas/controladas, juros a receber, etc.
+As obrigações representam as dívidas que a entidade contrata junto a terceiros.
+Exemplos:
+Duplicatas a pagar, adiantamento de clientes, impostos a recolher, empréstimos de
+coligadas/controladas, juros a pagar, etc.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               2
+        www.estrategiaconcursos.com.br                                                        23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+1.2. Definições dos Elementos Patrimoniais
+Caros estudantes, até agora estudamos que os bens e direitos compõem o Ativo e as obrigações
+o Passivo. Pois bem... agora vamos ver as definições formais desses componentes, previstas no
+pronunciamento CPC 00 e atualmente alvo de exigência nos concursos de todos os níveis.
+1.2.1. Ativo
+Segundo o CPC 00 (R2),
+
+Ativo é um recurso econômico presente controlado pela entidade como resultado de
+eventos passados. Recurso econômico é um direito que tem o potencial de produzir
+benefícios econômicos.
+
+Vale destacar que essa é a nova definição vigente a partir de 2020. Mas, na essência não muda
+nada em relação à definição passada, senão vejamos:
+A definição possui três características que são fundamentais para que um item seja considerado
+como ativo: ter o potencial de produzir benefício econômico, ser controlado pela entidade e
+ser resultante de um evento ocorrido no passado. Portanto, algo só pode ser considerado ativo
+quando cumprir as três condições em conjunto. Passemos à análise de cada um dos elementos
+que compõem a definição de ativo.
+Potencial de produzir benefício econômico: é a essência de um ativo e refere-se ao potencial de
+contribuição, seja direta ou indiretamente, para o fluxo de caixa ou equivalente de caixa da
+entidade. Este benefício pode ser sob a forma de algo que será convertido em caixa ou que pode
+reduzir as saídas de caixa. Exemplo: aquisição de equipamento que irá reduzir os custos de
+produção.
+Segundo a Estrutura Conceitual (R2), recurso econômico é um direito que tem o potencial de
+produzir benefícios econômicos para a entidade ao autorizá-la ou ao permiti-la fazer, por exemplo,
+um ou mais dos seguintes atos:
+(a) receber fluxos de caixa contratuais ou outro recurso econômico;
+(b) trocar recursos econômicos com outra parte em condições favoráveis;
+(c) produzir fluxos de entrada de caixa ou evitar fluxos de saída de caixa, por exemplo:
+(i) utilizando o recurso econômico individualmente ou em combinação com outros recursos
+econômicos para produzir produtos ou prestar serviços;
+(ii) utilizando o recurso econômico para melhorar o valor de outros recursos econômicos; ou
+(iii) arrendando o recurso econômico a outra parte;
+(d) receber caixa ou outros recursos econômicos por meio da venda do recurso econômico; ou
+(e) extinguir passivos por meio da transferência do recurso econômico.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               3
+        www.estrategiaconcursos.com.br                                                        23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Imagine que a empresa tenha uma duplicata a receber resultante de uma venda a prazo. Caso o
+cliente esteja falido, essa duplicata é somente um papel sem possibilidade de obter benefício
+econômico futuro. Portanto, nesse caso, essa duplicata não é um ativo.
+Outro exemplo seria o caso de uma máquina sem nenhuma perspectiva de uso por parte da
+entidade e sem possibilidade de ter um comprador. Perceba que, nesse caso, essa máquina não
+pode ser considerada como um ativo, pois não há possibilidade de obter benefício econômico
+futuro.
+Portanto, caro estudante, perceba que a condição de algo ser “bens e direitos” não garante, por
+si só, que seja um ativo. Os exemplos acima mostram situações em que existe um bem e o mesmo
+não pode ser considerado um ativo.
+Essa perspectiva, inclusive, foi algo acrescentado no texto da “nova” Estrutura Conceitual, senão
+vejamos:
+
+  Nem todos os direitos da entidade são ativos dessa entidade – para serem ativos da entidade,
+  os direitos devem ter tanto o potencial de produzir para a entidade benefícios econômicos
+  além daqueles disponíveis para todas as outras partes como serem controlados pela entidade.
+  Por exemplo, direitos disponíveis para todas as partes sem custo significativo – como direitos
+  de acesso a bens públicos, tais como direitos públicos de passagem, ou know-how que seja
+  de domínio público – normalmente não são ativos para as entidades que os detêm.
+
+Controle pela entidade: refere-se ao fato de que o benefício futuro deve ser controlado por uma
+entidade em particular. Perceba que a definição não utiliza o termo propriedade, desvinculando a
+parte legal da econômica. Trata-se da essência sobre a forma. O exemplo clássico citado pela
+doutrina é o arrendamento financeiro, em que os bens pertencem ao arrendador, porém ficam
+sob controle do arrendatário, devendo, portanto, serem contabilizados como ativo pelo
+arrendatário. Segundo o CPC 00 (R2),
+
+ A entidade controla um recurso econômico se ela tem a capacidade presente de direcionar o
+ uso do recurso econômico e obter os benefícios econômicos que podem fluir dele. Controle inclui
+ a capacidade presente de impedir outras partes de direcionar o uso do recurso econômico e de
+ obter os benefícios econômicos que podem fluir dele. Ocorre que, se uma parte controla um
+ recurso econômico, nenhuma outra parte controla esse recurso.
+
+Resultado de eventos passados: o ativo é resultado de um evento já ocorrido. A presença desse
+termo evita a inclusão dos denominados ativos contingentes como ativo da entidade. Imagine um
+imóvel que a empresa ainda não adquiriu. Nesse caso, esse recurso ainda não pode ser
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              4
+        www.estrategiaconcursos.com.br                                                        23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+considerado um ativo, haja vista que ainda não ocorreu a compra do imóvel, mesmo que já esteja
+aprovado no orçamento.
+
+(AFT) Em relação ao patrimônio, julgue o item subsequente.
+Créditos incobráveis e estoques de medicamentos vencidos não representam ativos.
+Comentários
+O ativo é um recurso econômico presente controlado pela entidade como resultado de eventos
+passados Recurso econômico é um direito que tem o potencial de produzir benefícios econômicos.
+Perceba que tanto os créditos incobráveis como os estoques de medicamentos vencidos não
+possuem a capacidade de gerar benefícios econômicos e, portanto, não podem ser considerados
+ativos.
+Gabarito: Certo
+
+Galera, essa definição tem que estar na veia, no sangue!
+1.2.2. Passivo
+Segundo o CPC 00 (R2),
+
+Passivo é uma obrigação presente da entidade de transferir um recurso econômico como
+resultado de eventos passados.
+
+Essa é a nova definição prevista pela Estrutura Conceitual. Vale destacar a definição “antiga” que
+em essência permanece perfeitamente válida.
+
+Passivo é uma obrigação presente da entidade, derivada de eventos já ocorridos, cuja
+liquidação se espera que resulte em saída de recursos capazes de gerar benefícios
+econômicos.
+
+Assim como no ativo, a definição pode ser dividida em três elementos fundamentais: é uma
+obrigação atual da entidade, resulta de eventos passados e a obrigação é a de transferir um
+recurso econômico. Portanto, algo só pode ser considerado passivo quando cumprir as três
+condições em conjunto. Sendo assim, passemos à análise de cada um dos elementos que
+compõem a definição de passivo.
+Obrigação atual: Imagine a situação de um passivo em que a entidade já quitou a dívida. Nesse
+caso, isso não pode constar no balanço como um passivo, haja vista que não representa uma
+obrigação presente. Segundo o CPC 00 (R2),
+
+A obrigação é o dever ou responsabilidade que a entidade não tem a capacidade prática de
+evitar. A obrigação é sempre devida à outra parte (ou partes). A outra parte (ou partes) pode
+ser uma pessoa ou outra entidade, grupo de pessoas ou outras entidades, ou a sociedade
+em geral. Não é necessário conhecer a identidade da parte (ou partes) para quem a obrigação
+é devida.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                 5
+        www.estrategiaconcursos.com.br                                                           23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Resultado de eventos passados: Imagine a seguinte hipótese. Uma empresa necessitando de
+recursos vai até uma instituição financeira para obter um empréstimo. Para tanto, efetua seu
+cadastro, preenche os formulários necessários e tem seu cadastro aprovado. Apesar de todos os
+trâmites terem sido cumpridos, além do desejo de os administradores captarem o empréstimo,
+esse ainda não foi assinado, inexistindo um evento passado, no caso a assinatura do contrato.
+Assim, nessa situação, não podemos classificar esse fato como passivo.
+Transferência de Recurso Econômico: O passivo pressupõe não ser possível evitar a obrigação.
+Destaca-se que a liquidação da obrigação pode ser realizada de diversas formas, por exemplo,
+pagamento em dinheiro, transferência de outros ativos, prestação de serviços, substituição de uma
+obrigação por outra, entre outras. Segundo o CPC 00 (R2),
+
+Para satisfazer a esse critério, a obrigação deve ter o potencial de exigir que a entidade
+transfira um recurso econômico para outra parte (ou partes). Para que esse potencial exista,
+não é necessário que seja certo, ou mesmo provável, que a entidade será obrigada a transferir
+um recurso econômico – a transferência pode, por exemplo, ser obrigada somente se ocorrer
+evento futuro incerto especificado. É necessário somente que a obrigação já exista e que, em
+pelo menos uma circunstância, exigirá que a entidade transfira um recurso econômico.
+
+(SPTrans) Uma característica essencial para a existência de passivo é
+a) que a entidade tenha uma obrigação presente.
+b) a decisão administrativa para adquirir ativos no futuro, mediante reuniões com fornecedores.
+c) o recebimento de ativos.
+d) a divulgação da informação.
+e) a decisão administrativa de política mercadológica ou de imagem de melhoria de produtos.
+Comentários
+E aí, pessoal, barbada, não? Observe que o conhecimento do conceito é suficiente para
+“matarmos” esse tipo de questão. Como vimos, o Passivo é uma obrigação presente da entidade
+de transferir um recurso econômico como resultado de eventos passados.
+Gabarito: A
+
+1.2.3. Patrimônio Líquido
+Segundo o CPC 00 (R2),
+
+Patrimônio líquido é a participação residual nos ativos da entidade após a dedução de
+todos os seus passivos.
+
+Veja que a atual definição é praticamente idêntica à definição anterior:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                6
+        www.estrategiaconcursos.com.br                                                          23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Patrimônio Líquido é o valor residual dos ativos da entidade depois de deduzidos todos
+os seus passivos.
+
+Perceba que essa definição mostra o patrimônio líquido em função de definições prévias
+estudadas anteriormente, de ativo e passivo. Sendo assim, podemos afirmar que se trata de uma
+definição residual.
+
+(MS/2013) Patrimônio líquido é o valor residual entre investimentos e capitais de terceiros.
+Comentários
+Como vimos, pela definição da Estrutura Conceitual (CPC 00), o patrimônio líquido é o valor
+residual dos ativos da entidade depois de deduzidos todos os seus passivos. Para complicar a
+banca colocou expressões sinônimas para ativo (investimentos) e passivo (capitais de terceiros).
+Gabarito: Certo
+
+Aproveitando a deixa, a seguir temos alguns sinônimos exigidos em concursos para o ativo,
+passivo e patrimônio líquido. Isso é muito importante!
+
+                              Sinônimos para os componentes patrimoniais
+
+                    Ativo                              Passivo                      Patrimônio Líquido
+
+             Patrimônio Bruto                     Passivo Exigível                    Situação Líquida
+
+             Capital Aplicado                  Capital de Terceiros                    Capital Próprio
+
+             Capital Investido                     Capital Alheio                    Recursos Próprios
+
+        Aplicações dos Recursos               Recursos de terceiros                Passivo Não Exigível
+
+               Investimentos                                                     Riqueza Própria (líquida)
+
+1.3. Diferença entre Capital e Patrimônio
+De forma bem objetiva, devemos saber o seguinte:
+
+Capital: é o conjunto de elementos que o proprietário da empresa possui para iniciar
+suas atividades.
+
+Exemplo: A Comercial “Tchê Bagual Produtos Campeiros S.A” subscreve em dinheiro um capital
+no valor de R$ 10.000,00 e o valor de R$ 5.000,00 em móveis. Logo o valor de R$ 15.000,00
+constituirá o valor do capital inicial da empresa. Destaca-se que o capital inicial pode ser composto
+por: dinheiro, bens móveis e imóveis, direitos a receber (duplicatas, por exemplo), etc.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                             7
+        www.estrategiaconcursos.com.br                                                                       23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Patrimônio: compreende o conjunto de bens, direitos e obrigações pertencentes a uma
+entidade.
+
+Como já estudamos essa parte no tópico “Aspectos Introdutórios” não entraremos em maiores
+detalhes.
+Acho relevante nesse momento destacar os conceitos doutrinários referentes ao capital.
+
+Capital Próprio – são os recursos originários dos sócios ou acionistas da entidade ou
+decorrentes de suas operações sociais.
+
+É um sinônimo utilizado para descrever o Patrimônio Líquido (PL).
+
+Capital de Terceiros – são os recursos originários de terceiros utilizados para a aquisição
+de ativos sob controle da entidade.
+
+É um sinônimo utilizado para descrever o Passivo Exigível (PE).
+
+Capital à Disposição da Empresa – corresponde à soma do capital próprio com o capital de
+terceiros. A soma do capital à disposição da empresa corresponde à soma do total do ativo
+da entidade.
+Capital Autorizado – limite previsto no estatuto para novas subscrições de capital. Trata-se
+de uma autorização prévia do estatuto para aumento do capital por meio de subscrições
+dentro de determinado limite. Logo, é o valor que consta do estatuto e pode ser aumentado
+sem alterá-lo até o limite nele fixado. Assim, quando o limite do capital autorizado é atingido,
+deve-se elaborar um novo estatuto (ou alterar o antigo) para fixar um novo limite.
+Capital Subscrito - é o capital fixado no estatuto ou contrato social, para que sócios possam
+subscrever as ações ou cotas em que divide o capital social. Subscrição é o compromisso
+para realizar o capital inicial. É o valor que os sócios assumem o compromisso de realizar a
+título de capital social. A subscrição pode ser relativa a compromisso de realização inicial ou
+aumento de capital, que pode ser inferior ao capital autorizado.
+Capital a Realizar ou a Integralizar – refere-se à parcela do capital ainda não integralizada
+pelos proprietários (sócios), permitindo que o valor do capital reflita adequadamente
+somente o montante que ingressou na empresa. É uma conta redutora do capital social.
+Capital Integralizado – refere-se à parcela do capital já integralizada pelos proprietários
+(sócios).
+
+Assim, temos:
+Capital Subscrito
+(-) Capital integralizado
+(=) Capital a integralizar
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                   8
+        www.estrategiaconcursos.com.br                                                             23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+1.4. Situação Líquida e Equação Fundamental do Patrimônio
+A equação patrimonial demonstra que o total do ativo é igual ao total do passivo.
+Como já sabemos, o patrimônio = bens + direitos (elementos positivos do patrimônio) +
+obrigações (elementos negativos do patrimônio).
+O Patrimônio Líquido é a diferença entre os elementos positivos do patrimônio e os elementos
+negativos do patrimônio.
+
+PL = elementos positivos do patrimônio - elementos negativos do patrimônio.
+PL = Bens + Direitos - Obrigações
+
+Assim, chegamos à equação patrimonial: A = P + PL, em que:
+A = Ativo (Bens + Direitos)
+P = Passivo* (Obrigações)
+PL = Patrimônio Líquido
+* Tecnicamente, o mais correto seria Passivo Exigível (PE). As bancas erroneamente chamam o
+Passivo Exigível somente de Passivo.
+O Balanço Patrimonial pode ser assim representado:
+
+                         ATIVO                                                    PASSIVO
+
+   Bens                                                   Obrigações (Passivo Exigível)
+   Direitos                                               Patrimônio Líquido (Passivo Não Exigível)
+
+   Total = Bens + Direitos                                Total = Obrigações + PL
+
+Algumas conclusões que podemos extrair da equação patrimonial e que são exigidas em
+concursos (basicamente é o jogo de palavras, os sinônimos que vimos acima):
+1ª) Passivo Total = Passivo Exigível + Passivo Não Exigível
+2ª) Capital Total à disposição da empresa = Capital de Terceiros + Capital Próprio
+Como o total do ativo (capital aplicado) é igual ao total do passivo (capital total à disposição da
+empresa), temos:
+                       Capital Aplicado = Capital Total à Disposição da Empresa
+3ª) Origem dos Recursos = Recursos de Terceiros + Recursos Próprios
+Como o total do ativo (aplicações dos recursos) é igual ao total do passivo (origem dos recursos),
+temos:
+                             Aplicações dos Recursos = Origem dos Recursos
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                      9
+        www.estrategiaconcursos.com.br                                                                23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+(TCE-RO) Contabilmente, entende-se como riqueza líquida de uma empresa a(o):
+a) soma de bens e direitos.
+b) soma dos saldos de Caixa e Bancos.
+c) conjunto de direitos.
+d) seu Patrimônio.
+e) total de bens e direitos, menos as obrigações.
+Comentários
+A riqueza líquida, ou patrimônio líquido, é a diferença entre os elementos positivos do patrimônio
+(bens e direitos) e os elementos negativos do patrimônio (obrigações).
+Gabarito: E
+
+1.5. Representação Gráfica dos Estados Patrimoniais
+1º Caso: SL > 0
+Situação Líquida positiva (total de bens e direitos é maior que o total das obrigações).
+Expressões sinônimas: Situação Líquida Positiva; Situação Líquida Ativa; Situação Líquida
+Superavitária.
+
+                                     A > P à A – P > 0 à SL > 0
+
+Observe que a situação líquida é positiva quando o ativo é maior que o passivo exigível.
+2º Caso: SL = 0
+Situação Líquida nula (total de bens e direitos é igual ao total das obrigações).
+Expressões sinônimas: Situação Líquida Nula; Situação Líquida Compensada.
+
+                                     A = P à A – P = 0 à SL = 0
+
+3º Caso: SL < 0
+Situação Líquida negativa (total de bens e direitos é menor que o total das obrigações).
+Expressões sinônimas: Situação Líquida Negativa; Situação Líquida Passiva; Situação Líquida
+Deficitária; Passivo a Descoberto.
+                                          A < P à A – P < 0 à SL < 0
+Quando o valor do passivo é maior que o do ativo, ocorre a situação de passivo a descoberto.
+Conclusão: A seguinte relação é aplicável a todas as entidades:
+                                 A ≥ 0, P ≥ 0 e SL > 0 ou SL < 0 ou SL = 0
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              10
+        www.estrategiaconcursos.com.br                                                        23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+O valor registrado no patrimônio líquido de uma companhia nunca pode ser superior ao valor
+total de seus ativos.
+Tanto o ativo como o passivo podem ser maior ou igual a zero. No entanto, jamais poderão
+ser negativos.
+O patrimônio líquido pode ser positivo, negativo ou nulo.
+
+Dúvida de aluno: Professor, não entendi muito bem esse enunciado: "o valor registrado no
+patrimônio líquido de uma companhia nunca pode ser superior ao valor total de seus ativos".
+Poderia explicar melhor?
+Vamos lembrar da equação fundamental da contabilidade:
+A (ativo) = P (passivo) + PL (patrimônio líquido)
+Se A < PL, necessariamente o valor de P (passivo) teria que ser negativo, o que é impossível.
+Conforme estudamos, o que você poderia ter é um patrimônio líquido negativo (o ativo e o passivo
+jamais serão negativos).
+
+
+(TCE-SP) É correto afirmar que
+a) é impossível que o valor do patrimônio líquido de uma entidade com fins lucrativos seja
+negativo.
+b) as contas do passivo, na escrituração contábil regular, aumentam por débito e diminuem por
+crédito.
+c) o livro Diário e o livro Caixa são de escrituração obrigatória, de acordo com o disposto na
+legislação comercial.
+d) o valor dos débitos escriturados nas contas pode exceder o dos créditos, utilizando-se o método
+das partidas dobradas na escrituração comercial, se a entidade apresentar lucro no exercício
+respectivo.
+e) o valor registrado no patrimônio líquido de uma companhia nunca pode ser superior ao valor
+total de seus ativos.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                11
+        www.estrategiaconcursos.com.br                                                          23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Comentários
+Vamos analisar as opções individualmente.
+Opção A: Como estudamos, o PL corresponde à diferença entre o ativo e o passivo exigível. Caso
+o passivo exigível seja maior que o ativo teremos uma situação líquida negativa (passivo a
+descoberto):
+                                          A < P à A – P < 0 à SL < 0
+Portanto, é plenamente possível que o valor do patrimônio líquido de uma entidade com fins
+lucrativos seja negativo. Sendo assim, a alternativa está errada.
+Opção B: é exatamente o contrário. As contas do passivo, na escrituração contábil regular,
+aumentam por Crédito e diminuem por débito. Estudaremos o assunto com os devidos detalhes
+em momento oportuno. Portanto, alternativa errada.
+Opção C: O livro caixa é facultativo e o livro diário é obrigatório por expressa previsão no Código
+Civil. Também veremos isso em momento oportuno. Desse modo, a alternativa está errada.
+Opção D: Pelo método das partidas dobradas, o total dos débitos sempre é igual ao total dos
+créditos. Estudaremos o assunto em momento oportuno. Portanto, alternativa errada.
+Opção E: O PL corresponde à diferença entre o ativo e o passivo exigível. Como o menor valor
+para o PE é 0, nessa situação limite, o PL é igual ao ativo. Assim, podemos afirmar que o valor
+registrado no patrimônio líquido de uma companhia nunca pode ser superior ao valor total de
+seus ativos. Sendo assim, a alternativa está certa e é o nosso gabarito.
+Gabarito: E
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               12
+        www.estrategiaconcursos.com.br                                                         23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+                               2 – QUESTÕES COMENTADAS
+1. (Simulado/2020) A situação líquida de uma entidade pode ser superior ao valor total de seus
+ativos.
+Comentários
+O PL corresponde à diferença entre o ativo e o passivo exigível. Como o menor valor para o PE é
+0, nessa situação limite, o PL é igual ao ativo. Assim, podemos afirmar que o valor registrado no
+patrimônio líquido (situação líquida) de uma entidade jamais pode ser superior ao valor total de
+seus ativos.
+Gabarito: Errado
+
+2. (Simulado/2020) Denomina-se passivo a descoberto a situação em que o total de exigibilidades
+supera o total de bens e direitos, implicando na existência de patrimônio líquido negativo.
+Comentários
+Lembre-se que passivo a descoberto é sinônimo de situação líquida negativa:
+SL < 0
+Situação Líquida negativa (total de bens e direitos é menor que o total das obrigações).
+Expressões sinônimas: Situação Líquida Passiva; Situação Líquida Deficitária; Passivo a Descoberto.
+Gabarito: Certo
+3. (CESPE/CAGE-RS/2018) Se, ao final de determinado ano, o ativo de uma empresa era de R$
+60.000 e o passivo, de R$ 200.000, então o valor de seu patrimônio líquido era negativo em R$
+140.000.
+Comentários
+Basta aplicar a equação patrimonial (A = P + PL). Assim, temos:
+60.000,00 = 200.000,00 + PL              >>>>> PL = - 140.000,00
+Nesse caso temos uma situação líquida negativa.
+Gabarito: Certo
+
+4. (CESPE/CAGE-RS/2018) Na equação patrimonial ativo = passivo + patrimônio líquido, o
+patrimônio líquido está diretamente relacionado ao ativo.
+Comentários
+Segundo a equação do patrimônio (A = P + PL), quanto maior for o passivo e/ou o patrimônio
+líquido maior será o valor do ativo. Logo, o ativo é diretamente relacionado com o passivo e o
+patrimônio líquido. Com esse raciocínio já podemos eliminar as opções “D” e “E”.
+Utilizando a equação Patrimônio Líquido = Ativo - Passivo, constatamos que o PL é diretamente
+relacionado com o ativo e inversamente relacionado com o passivo.
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               13
+         www.estrategiaconcursos.com.br                                                        23
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Gabarito: Certo
+
+5. (CESPE/TRE-BA/2017) Ao analisar a equação patrimonial de uma empresa, um técnico em
+contabilidade constatou que o valor total do passivo correspondia ao dobro do valor do
+patrimônio líquido. Nessa situação hipotética, o total do ativo da empresa equivale a três vezes o
+total do patrimônio líquido.
+Comentários
+Nesse tipo de questão, uma dica é atribuir valores. Assim, vamos supor que o patrimônio líquido
+seja 100. A questão nos informa que o passivo corresponde ao dobro do PL. Logo, o passivo será
+200. Agora, aplicando a equação do patrimônio, temos:
+A = P + PL
+A = 200 + 100 >>> A = 300
+Logo, podemos afirmar que nessa situação o total do ativo da empresa equivale a três vezes o
+total do patrimônio líquido.
+Gabarito: Certo
+6. (CESPE/DPU/2016) Havendo liquidação de empresa em situação líquida nula ou equilibrada, o
+seu ativo será suficiente apenas para o pagamento das dívidas com terceiros, não sendo suficiente
+para o pagamento do capital próprio.
+Comentários
+A equação patrimonial é dada por A = PE + PL em que:
+A = Ativo
+PE = Passivo Exigível
+PL = Patrimônio Líquido
+Em situação líquida nula a empresa apresenta valor do ativo igual ao valor do passivo exigível (A
+= PE). Como o passivo exigível representa as dívidas com terceiros, podemos afirmar que nessa
+situação, o ativo da empresa é suficiente apenas para o pagamento das dívidas com terceiros
+(passivo exigível), não sendo suficiente para o pagamento do capital próprio (PL).
+Gabarito: Certo
+7. (CESPE/TELEBRAS/2015) A situação líquida nula ocorre caso o passivo seja igual ao patrimônio
+líquido.
+Comentários
+SL = 0
+Situação Líquida nula (total de bens e direitos é igual ao total das obrigações).
+Expressões sinônimas: Situação Líquida Nula; Situação Líquida Compensada.
+
+                                          A = P à A – P = 0 à SL = 0
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              14
+         www.estrategiaconcursos.com.br                                                       23
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Assim, observa-se que a situação líquida nula ocorre quando o total do ativo é igual ao total das
+obrigações (PE + PL).
+Gabarito: Errado
+
+8. (CESPE/TELEBRAS/2015) A situação líquida patrimonial será sempre positiva caso o patrimônio
+líquido seja positivo.
+Comentários
+Patrimônio líquido positivo é sinônimo de situação líquida positiva.
+Gabarito: Certo
+
+9. (CESPE/TELEBRAS/2015) O passivo a descoberto ocorre quando o ativo é igual ao passivo,
+fazendo com que o patrimônio líquido seja zero.
+Comentários
+Quando o ativo é igual ao passivo temos uma situação líquida neutra. O passivo a descoberto
+ocorre quando o PL é negativo, ou seja, quando a situação líquida é negativa.
+Gabarito: Errado
+
+10. (CESPE/Auditor/TCE-RN/2015) A existência de saldo total de passivo maior que o saldo total
+de ativo configura que o direito dos sócios é negativo.
+Comentários
+A existência de saldo total de passivo maior que o saldo total de ativo configura um passivo a
+descoberto (SL < 0). Logo, nesse caso o PL (ou o “direito dos sócios”, conforme afirma a assertiva)
+é negativo.
+Nesse item a banca usa um sinônimo incomum para PL: direito dos sócios. Mais um para a nossa
+“caixa de ferramentas”. Saber os sinônimos é primordial!
+Gabarito: Certo
+
+11. (CESPE/TCE-ES/2012) Denomina-se passivo a descoberto a situação em que o total de
+exigibilidades supera o total de bens e direitos, implicando na inexistência de patrimônio líquido.
+Comentários
+Denomina-se passivo a descoberto a situação em que o total de exigibilidades supera o total de
+bens e direitos, implicando na existência de um patrimônio líquido negativo.
+Gabarito: Errado
+
+12. (CESPE/TRT21/2010) Muitas são as condições em que a equação patrimonial de uma entidade
+pode apresentar-se, mas em nenhuma hipótese a situação líquida pode ser maior do que o ativo
+total.
+Comentários
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               15
+        www.estrategiaconcursos.com.br                                                         23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+O item está certo. Para facilitar a visualização, imagine a situação em que uma empresa tenha
+apenas 100,00 de capital social. Como a origem de recursos deve ser igual à aplicação de recursos,
+nesse caso o ativo dessa empresa será de 100,00 também, pois não há capitais de terceiros
+(passivo exigível). Perceba que não há como o ativo ser menor que o patrimônio líquido (situação
+líquida).
+Gabarito: Certo
+13. (FGV/BANESTES/2018) Ao analisar diversos Balanços Patrimoniais de empresas, um analista
+percebe que tanto o lado esquerdo como o lado direito desse tipo de relatório contábil sempre
+apresentam o mesmo total em unidades monetárias. Uma maneira de entender essa constatação
+é que tanto as aplicações como as origens de recursos da empresa são sempre retratadas,
+respectivamente, como:
+a) “Ativo” e “Passivo + Patrimônio Líquido”;
+b) “Passivo + Patrimônio Líquido” e “Ativo”;
+c) “Patrimônio Líquido” e “Ativo”;
+d) “Patrimônio Líquido” e “Passivo”;
+e) “Passivo” e “Patrimônio Líquido”.
+Comentários
+O total do ATIVO (aplicações dos recursos) é igual ao total do PASSIVO + PL (origem dos
+recursos).
+Gabarito: A
+
+14. (FGV/MRE/2016) Um dos objetivos da Contabilidade é o controle patrimonial, que se dá a
+partir do registro adequado dos fatos que alteram os seus elementos. No controle do patrimônio,
+a riqueza líquida de uma entidade ao final de um período pode ser obtida pelo confronto de:
+a) ativos, receitas e provisões;
+b) ativos e passivos financeiros;
+c) bens, direitos e obrigações;
+d) receitas e despesas;
+e) obrigações exigíveis e não exigíveis.
+Comentários
+Riqueza líquida é sinônimo de patrimônio líquido.
+                              Sinônimos para os componentes patrimoniais
+                  Ativo                          Passivo           Patrimônio Líquido
+      Patrimônio Bruto                  Passivo Exigível       Situação Líquida
+      Capital Aplicado                  Capital de Terceiros   Capital Próprio
+      Capital Investido                 Capital Alheio         Recursos Próprios
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              16
+        www.estrategiaconcursos.com.br                                                        23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+      Aplicações dos Recursos               Recursos de terceiros              Passivo Não Exigível
+      Investimentos                                                            Riqueza Própria (líquida)
+A equação patrimonial demonstra que o total do ativo é igual ao total do passivo.
+Como já sabemos, o patrimônio = bens + direitos (elementos positivos do patrimônio) +
+obrigações (elementos negativos do patrimônio).
+O Patrimônio Líquido é a diferença entre os elementos positivos do patrimônio e os elementos
+negativos do patrimônio.
+            PL = elementos positivos do patrimônio - elementos negativos do patrimônio.
+                                      PL = Bens + Direitos - Obrigações
+Do exposto, percebe-se que a riqueza líquida de uma entidade ao final de um período pode ser
+obtida pelo confronto de bens, direitos e obrigações.
+Gabarito: C
+15. (NC-UFPR/UFPR/2019) A respeito das origens e aplicações de recursos representados em um
+Balanço Patrimonial, considere as seguintes afirmativas:
+1. O Ativo contém todas as contas de origens dos recursos de uma entidade.
+2. Os recursos oriundos de fontes próprias de uma entidade são representados pelo valor do
+Patrimônio Líquido.
+3. Os recursos oriundos de terceiros são representados pelos valores das Obrigações.
+4. O Passivo contém todas as contas de aplicações dos recursos de uma entidade.
+Assinale a alternativa correta.
+a) Somente a afirmativa 1 é verdadeira.
+b) Somente as afirmativas 2 e 3 são verdadeiras.
+c) Somente as afirmativas 1, 2 e 4 são verdadeiras.
+d) Somente as afirmativas 1, 3 e 4 são verdadeiras.
+e) Somente as afirmativas 2, 3 e 4 são verdadeiras.
+Comentários
+Vamos analisar as assertivas.
+a. Errado. O ativo representa aplicação de recursos e não origem.
+b. Certo. Recursos oriundos de fontes próprias = Recursos Próprios = PL. Saber os sinônimos é
+fundamental!
+c. Certo. Recursos oriundos de terceiros = obrigações = passivo exigível.
+d. Errado. O passivo representa origem de recursos e não aplicação.
+Gabarito: B
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                           17
+        www.estrategiaconcursos.com.br                                                                     23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+16. (VUNESP/CM Serrana/2019) Quando a representação gráfica a seguir é a situação patrimonial
+da empresa, pode-se considerar que
+
+                                                 Ativo
+                                                               Passivo
+                                                   PL
+
+a) a empresa encontra-se em situação confortável.
+b) a empresa está com PL positivo, somado ao Ativo.
+c) a empresa está com PL positivo.
+d) o Ativo da empresa é igual ao Passivo mais PL.
+e) o Passivo da empresa está a descoberto.
+Comentários
+Nesse caso temos uma situação em que o passivo é maior que o ativo. Logo, temos uma situação
+líquida negativa, ou seja, o passivo da empresa está a descoberto.
+Gabarito: E
+
+17. (VUNESP/CM Indaiatuba/2018) Indique a alternativa correta, relativa à estrutura básica do
+balanço patrimonial, no que se refere à sua equação:
+a) Ativo menos passivo é igual às Receitas menos as Despesas.
+b) Ativo menos passivo é igual ao Patrimônio Líquido.
+c) Ativo mais passivo é igual ou maior que o Patrimônio Líquido.
+d) Ativo nunca é menor que o Passivo, menos o Patrimônio Líquido.
+e) Ativo é igual ao Passivo.
+Comentários
+De acordo com a equação fundamental do patrimônio, Ativo = Passivo + PL. Assim,
+Ativo – Passivo = PL
+Gabarito: B
+18. (UFG/SANEAGO/2018) A equação patrimonial demonstra que o total do Ativo é exatamente
+igual ao total do Passivo. A situação patrimonial denominada pela expressão “passivo a
+descoberto” ocorre quando o
+a) total dos passivos da entidade é maior que o patrimônio líquido.
+b) total dos ativos da entidade é maior que o total de suas obrigações com terceiros.
+c) passivo exigível da sociedade é maior que o total de seus ativos.
+d) ativo diferido da entidade é maior que o capital social.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                           18
+        www.estrategiaconcursos.com.br                                                     23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+Comentários
+A situação de “passivo a descoberto” ocorre quando temos uma situação líquida negativa.
+SL < 0
+Situação Líquida negativa (total de bens e direitos é menor que o total das obrigações).
+Expressões sinônimas: Situação Líquida Negativa; Situação Líquida Passiva; Situação Líquida
+Deficitária; Passivo a Descoberto.
+
+                                          A < P à A – P < 0 à SL < 0
+
+Gabarito: C
+19. (FBC/Exame CFC/2013.1) No Balanço Patrimonial de uma sociedade empresária verificou-se
+que o ativo aumentou R$ 80.000,00, durante o ano de 2012, e o passivo exigível teve um acréscimo
+de R$ 70.000,00. Diante das informações acima, o Patrimônio Líquido nesse período:
+a) Aumentou em R$10.000,00.
+b) Aumentou em R$80.000,00.
+c) Reduziu em R$10.000,00.
+d) Reduziu em R$70.000,00.
+Comentários
+Essa questão pode ser facilmente resolvida por meio da equação patrimonial: A = P + PL.
+Substituindo os valores informados na questão temos:
+80.000 = 70.000 + PL
+PL = 10.000
+Logo, percebe-se que o patrimônio líquido aumentou em R$ 10.000,00.
+Gabarito: A
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                            19
+         www.estrategiaconcursos.com.br                                                     23
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+                   3 – LISTA DAS QUESTÕES COMENTADAS
+1. (Simulado/2020) A situação líquida de uma entidade pode ser superior ao valor total de seus
+ativos.
+2. (Simulado/2020) Denomina-se passivo a descoberto a situação em que o total de exigibilidades
+supera o total de bens e direitos, implicando na existência de patrimônio líquido negativo.
+3. (CESPE/CAGE-RS/2018) Se, ao final de determinado ano, o ativo de uma empresa era de R$
+60.000 e o passivo, de R$ 200.000, então o valor de seu patrimônio líquido era negativo em R$
+140.000.
+4. (CESPE/CAGE-RS/2018) Na equação patrimonial ativo = passivo + patrimônio líquido, o
+patrimônio líquido está diretamente relacionado ao ativo.
+5. (CESPE/TRE-BA/2017) Ao analisar a equação patrimonial de uma empresa, um técnico em
+contabilidade constatou que o valor total do passivo correspondia ao dobro do valor do
+patrimônio líquido. Nessa situação hipotética, o total do ativo da empresa equivale a três vezes o
+total do patrimônio líquido.
+6. (CESPE/DPU/2016) Havendo liquidação de empresa em situação líquida nula ou equilibrada, o
+seu ativo será suficiente apenas para o pagamento das dívidas com terceiros, não sendo suficiente
+para o pagamento do capital próprio.
+7. (CESPE/TELEBRAS/2015) A situação líquida nula ocorre caso o passivo seja igual ao patrimônio
+líquido.
+8. (CESPE/TELEBRAS/2015) A situação líquida patrimonial será sempre positiva caso o patrimônio
+líquido seja positivo.
+9. (CESPE/TELEBRAS/2015) O passivo a descoberto ocorre quando o ativo é igual ao passivo,
+fazendo com que o patrimônio líquido seja zero.
+10. (CESPE/Auditor/TCE-RN/2015) A existência de saldo total de passivo maior que o saldo total
+de ativo configura que o direito dos sócios é negativo.
+11. (CESPE/TCE-ES/2012) Denomina-se passivo a descoberto a situação em que o total de
+exigibilidades supera o total de bens e direitos, implicando na inexistência de patrimônio líquido.
+12. (CESPE/TRT21/2010) Muitas são as condições em que a equação patrimonial de uma entidade
+pode apresentar-se, mas em nenhuma hipótese a situação líquida pode ser maior do que o ativo
+total.
+13. (FGV/BANESTES/2018) Ao analisar diversos Balanços Patrimoniais de empresas, um analista
+percebe que tanto o lado esquerdo como o lado direito desse tipo de relatório contábil sempre
+apresentam o mesmo total em unidades monetárias. Uma maneira de entender essa constatação
+é que tanto as aplicações como as origens de recursos da empresa são sempre retratadas,
+respectivamente, como:
+a) “Ativo” e “Passivo + Patrimônio Líquido”;
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               20
+        www.estrategiaconcursos.com.br                                                         23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+b) “Passivo + Patrimônio Líquido” e “Ativo”;
+c) “Patrimônio Líquido” e “Ativo”;
+d) “Patrimônio Líquido” e “Passivo”;
+e) “Passivo” e “Patrimônio Líquido”.
+14. (FGV/MRE/2016) Um dos objetivos da Contabilidade é o controle patrimonial, que se dá a
+partir do registro adequado dos fatos que alteram os seus elementos. No controle do patrimônio,
+a riqueza líquida de uma entidade ao final de um período pode ser obtida pelo confronto de:
+a) ativos, receitas e provisões;
+b) ativos e passivos financeiros;
+c) bens, direitos e obrigações;
+d) receitas e despesas;
+e) obrigações exigíveis e não exigíveis.
+15. (NC-UFPR/UFPR/2019) A respeito das origens e aplicações de recursos representados em um
+Balanço Patrimonial, considere as seguintes afirmativas:
+1. O Ativo contém todas as contas de origens dos recursos de uma entidade.
+2. Os recursos oriundos de fontes próprias de uma entidade são representados pelo valor do
+Patrimônio Líquido.
+3. Os recursos oriundos de terceiros são representados pelos valores das Obrigações.
+4. O Passivo contém todas as contas de aplicações dos recursos de uma entidade.
+Assinale a alternativa correta.
+a) Somente a afirmativa 1 é verdadeira.
+b) Somente as afirmativas 2 e 3 são verdadeiras.
+c) Somente as afirmativas 1, 2 e 4 são verdadeiras.
+d) Somente as afirmativas 1, 3 e 4 são verdadeiras.
+e) Somente as afirmativas 2, 3 e 4 são verdadeiras.
+16. (VUNESP/CM Serrana/2019) Quando a representação gráfica a seguir é a situação patrimonial
+da empresa, pode-se considerar que
+
+                                                 Ativo
+                                                               Passivo
+                                                   PL
+
+a) a empresa encontra-se em situação confortável.
+b) a empresa está com PL positivo, somado ao Ativo.
+c) a empresa está com PL positivo.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                           21
+        www.estrategiaconcursos.com.br                                                     23
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 01
+
+d) o Ativo da empresa é igual ao Passivo mais PL.
+e) o Passivo da empresa está a descoberto.
+17. (VUNESP/CM Indaiatuba/2018) Indique a alternativa correta, relativa à estrutura básica do
+balanço patrimonial, no que se refere à sua equação:
+a) Ativo menos passivo é igual às Receitas menos as Despesas.
+b) Ativo menos passivo é igual ao Patrimônio Líquido.
+c) Ativo mais passivo é igual ou maior que o Patrimônio Líquido.
+d) Ativo nunca é menor que o Passivo, menos o Patrimônio Líquido.
+e) Ativo é igual ao Passivo.
+18. (UFG/SANEAGO/2018) A equação patrimonial demonstra que o total do Ativo é exatamente
+igual ao total do Passivo. A situação patrimonial denominada pela expressão “passivo a
+descoberto” ocorre quando o
+a) total dos passivos da entidade é maior que o patrimônio líquido.
+b) total dos ativos da entidade é maior que o total de suas obrigações com terceiros.
+c) passivo exigível da sociedade é maior que o total de seus ativos.
+d) ativo diferido da entidade é maior que o capital social.
+19. (FBC/Exame CFC/2013.1) No Balanço Patrimonial de uma sociedade empresária verificou-se
+que o ativo aumentou R$ 80.000,00, durante o ano de 2012, e o passivo exigível teve um acréscimo
+de R$ 70.000,00. Diante das informações acima, o Patrimônio Líquido nesse período:
+a) Aumentou em R$10.000,00.
+b) Aumentou em R$80.000,00.
+c) Reduziu em R$10.000,00.
+d) Reduziu em R$70.000,00.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                            22
+        www.estrategiaconcursos.com.br                                                      23
+
+                                     
+
+
+---
+
+Gilmar Possati
+Aula 01
+
+                                            4 – GABARITO
+
+     1.          2.        3.         4.         5.         6.        7.         8.      9.    10.
+
+     E           C         C          C          C          C         E          C       E     C
+
+     11.         12.       13.        14.        15.        16.        17.       18.     19.
+
+     E           C         A          C          B          E         B          C       A
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     23
+      www.estrategiaconcursos.com.br                                                                 23
+
+                                   
+
+
+---
+
+---

@@ -1,0 +1,233 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 01_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Língua Espanhola
+---
+
+# Língua Espanhola
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+                          COGNATOS VERDADEIROS E FALSOS
+
+
+                                                                       Prof. Adolfo Sá (vídeos)
+                                                                       Prof. Ena Smith (pdfs)
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                                  
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+
+               COGNATOS VERDADEIROS
+Palavras similares à Língua Portuguesa e que realmente são
+o que parecem ser.
+
+                     
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+
+Messi − who makes an estimated $41 million a
+year, about half from sponsors − reached a
+settlement with Spain’s tax authorities earlier this
+summer, agreeing to pay the amount he apparently
+owed, plus interest. The matter was settled, or so it
+seemed. Messi could go back to dazzling the world
+with his athleticism and creativity.
+                    
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+       Activity snacking may help with type 1 diabetes – study
+
+Walking for three minutes every half an hour could help improve blood
+sugar levels, a small trial presented at a UK diabetes charity's conference
+suggests.
+
+The study of 32 people with type 1 diabetes showed blood sugar levels
+lowered when they took regular walking breaks over a seven-hour period.
+
+Diabetes UK said these "activity snacks" could offer practical, cost-free
+changes.
+
+Type 1 diabetes affects about   400,000 people in the UK.
+                           
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+          Biodiversity targets may be slipping out of reach – study
+
+Ambitious targets to halt the decline in nature may already be slipping out of
+reach, a study suggests.
+
+Scientists say the effects of climate change and habitat loss on animal
+populations have been underestimated.
+
+They say bringing back wildlife may take longer than expected and that unless we
+act now global biodiversity targets will be out of reach.
+
+In December almost 200 countries agreed to halt the decline in nature by the end
+                             of the decade.https://www.bbc.com/news/science-environment-65315823
+                                
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+
+               FALSOS COGNATOS
+Pretend = Fingir
+
+
+He pretends to be a doctor.
+Ele ﬁnge ser médico.
+
+
+A palavra que signiﬁca “pretender” é Intend.
+                    
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+
+Library = Biblioteca
+
+
+A library is not a luxury but one of the necessities of life.
+(Henry Beecher).
+Uma biblioteca não é um luxo, mas sim uma das
+necessidades da vida.
+
+
+A palavra que signiﬁca “livraria” é bookstore.
+
+                       
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+
+Exit = saída, sair
+Actually = Na verdade, na realidade, de fato
+
+
+Actually, everyone on the bus had to exit.
+Na verdade, todos no ônibus tiveram que sair/descer.
+
+
+A palavra que signiﬁca “atualmente” é currently e “êxito” é
+success.
+
+                      
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+1. They intend to go to Europe next year.
+a) entendem b) pretendemc) informam d) compram
+2. I went to a lecture on AIDS last month. The speaker was a
+very famous American doctor.
+a) leitura b) palestra    c) revista d) médico
+3. We’re too weak to push this big heavy car.
+a) puxar b) empurrar c) levantar                          d) dirigir
+4. The three policemen arrested the thief. He is in jail now.
+a) soltaram   b) arrastaram               c) perseguiram d) prenderam
+                         
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+1. They intend to go to Europe next year.
+a) entendem b) pretendem                c) informam d) compram
+2. I went to a lecture on AIDS last month. The speaker was a
+very famous American doctor.
+a) leitura b) palestra c) revista d) médico
+3. We’re too weak to push this big heavy car.
+a) puxar b) empurrar c) levantar                        d) dirigir
+4. The three policemen arrested the thief. He is in jail now.
+a) soltaram   b) arrastaram             c) perseguiram d)
+                       
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+5. I think we should resume our work. Lunch time is over.
+a) resumir   b) sintetizar c) recomeçar d) terminar
+6. He has prejudice against Brazilian wine although he has
+never tasted it.
+a) prejuízo b) ódio        c) preconceito       d)
+premonição
+7. He was injured in the accident and had to go to the
+hospital.
+a) morto b) acusado    c) ferido d) injuriado
+8. Have you read the notice on the board? The test was
+postponed.          
+
+
+---
+
+Cognatos Verdadeiros e Falsos
+5. I think we should resume our work. Lunch time is over.
+a) resumir   b) sintetizar c) recomeçar     d) terminar
+6. He has prejudice against Brazilian wine although he has
+never tasted it.
+a) prejuízo b) ódio        c) preconceito       d)
+premonição
+7. He was injured in the accident and had to go to the
+hospital.
+a) morto b) acusado    c) ferido d) injuriado
+8. Have you read the notice on the board? The test was
+postponed.          
+
+
+---
+
+OBRIGADO!
+                                          Prof. Adolfo
+                                          Sá
+
+
+     
+
+
+---
+
+---

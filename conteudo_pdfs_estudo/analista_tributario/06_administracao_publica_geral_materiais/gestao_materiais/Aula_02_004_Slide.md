@@ -1,0 +1,382 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 02_004_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: TIPOS DE CLASSIFICAÇÃO - I
+---
+
+# TIPOS DE CLASSIFICAÇÃO - I
+
+---
+
+---
+
+TIPOS DE CLASSIFICAÇÃO - I
+
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Tipos de Classificação
+       Conhecendo os principais tipos antes de aprofundar
+       ❑    Outra importante padronização no que diz respeito à classificação de materiais é a adoção de classificações com base em
+            tipos pré-definidos ou "quebras" comumente adotadas pelas organização. Vamos conhecer as principais e mais cobradas
+            em provas de concurso:
+
+       ❑    Em linhas gerais os principais tipos de classificação são os seguintes:
+        •     Tipo de Demanda
+        •     Criticidade
+        •     Aplicação
+        •     Perecibilidade
+        •     Periculosidade
+        •     Possibilidade de fazer ou comprar
+        •     Tipos de estocagem
+        •     Dificuldade de aquisição
+        •     Mercado fornecedor
+        •     Valor do consumo ou ABC
+        •     Importância Operacional ou XYZ
+        •     Permanentes ou de Consumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Tipos de Classificação
+       Tipos de Demanda: “de estoque” e “não de estoque”
+
+       ❑ Em relação ao tipo de demanda temos os chamados materiais "de estoque" e os
+         materiais "não de estoque".
+       ❑ Os materiais de estoque são aqueles consumidos rotineiramente ao longo do
+         processo de produção e, por isso, devem ser sempre adquiridos e estar
+         continuamente à disposição quando requisitados, ou seja, devem possuir estoque.
+       ❑ Geralmente possuem sistemas de reposição automática de estoques, que não exigem
+         a participação do usuário, minimizando o risco de desabastecimento.
+       ❑ Os materiais de estoque podem ser subdivididos quanto à aplicação, quanto ao valor
+         de consumo (Curva ABC) e quanto à importância operacional (XYZ). Veremos todas
+         essas subdivisões mais adiante.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Tipos de Demanda: “de estoque” e “não de estoque”
+    ❑ Já os materiais de não estoque são consumidos com menor frequência, têm demanda irregular ou
+      mesmo imprevisível e, portanto, muitas vezes não têm previsão de utilização. Dessa forma, não
+      devem ser mantidos em estoque em função dos custos diretos e indiretos de tal opção. Quando a
+      organização necessita deles, compra para utilização imediata, sendo raros os casos em que são
+      comprados para utilização posterior.
+
+    ❑ Nesse contexto, ao contrário dos materiais "de estoque", os materiais "não de estoque" não
+      possuem critérios e parâmetros para o ressuprimento automático, geralmente exigindo o
+      envolvimento do usuário para identificar a necessidade de abastecimento por meio de solicitação
+      direta de aquisição.
+                                                                Tipo de
+                                                               Demanda
+
+
+                                                                             "Não de
+                                               "De Estoque"
+Administração de Materiais para Concursos
+                                                                             Estoque"
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Criticidade
+
+     ❑ Esse tipo de classificação se aplica especificamente a empresas industriais.
+     ❑ São considerados materiais críticos aqueles materiais de reposição específica de um
+       equipamento ou de um grupo de equipamentos iguais, cuja demanda não é
+       previsível e cuja decisão de estocar é tomada com base na análise de risco ao qual a
+       empresa está sujeita caso esses materiais não estejam disponíveis quando necessário.
+
+                  Em outras palavras, são peças de reposição de equipamentos que não podem parar
+                  sob pena de paralisar todo o processo produtivo da organização.
+
+
+     ❑ Precisam estar disponíveis e em estoque para qualquer necessidade, mesmo que isso
+       represente alguns custos à organização. Permanecerão estocados até a sua utilização
+       e não estarão sujeitos ao controle de obsolescência.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Criticidade
+
+                             Razões para a estocagem                                                Características
+                 Problemas de obtenção                                                Importado
+                                                                                      Fornecedor único
+                                                                                      Escasso no mercado
+                                                                                      Estratégico
+                                                                                      Difícil fabricação ou obtenção
+                 Econômicas                                                           Elevado valor
+                                                                                      Elevado custo de armazenagem
+                                                                                      Elevado custo de transporte
+                 Armazenagem e Transporte                                             Perecível
+                                                                                      Alta periculosidade
+                                                                                      Elevado peso
+                                                                                      Grandes dimensões
+                 Previsão                                                             Utilização de difícil previsão
+                 Segurança                                                            Reposição de alto custo
+                                                                                      Equipamento vital da produção
+                Tabelas adaptadas de Viana (2002),páginas diversas
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                             
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Aplicação
+
+       ❑ Em relação à aplicação os materiais também devem ser classificados em diferentes
+         categorias.
+       ❑ Aqui é importante perceber que o fluxo dos materiais ao longo da cadeia produtiva
+         faz com que eles se modifiquem gradativamente ao longo do processo e, com isso,
+         migrem de categoria ao longo da cadeia. Assim, conforme vão sendo transformados,
+         os materiais vão recebendo diferentes classificações e passam a se enquadrar em
+         diferentes classes de materiais.
+       ❑ Vamos conhecer a classificação mais comum adotada em relação à aplicação: matéria
+         prima -> materiais em processamento -> materiais semiacabados -> materiais
+         acabados -> produtos acabados.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Aplicação – Matérias Primas
+
+       ❑ Matérias primas: constituem os insumos empregados diretamente no processo
+         produtivo, ou seja, todos os itens iniciais necessários para a produção. Isso significa
+         que a produção é totalmente dependente da entrada de matéria prima para ter sua
+         sequência garantida.
+       ❑ A matéria prima é geralmente adquirida de fornecedores externos. Quando a
+         produção é interna temos o processo conhecido por verticalização.
+       ❑ A falta de matéria prima paralisa o processo produtivo. Veja alguns exemplos de
+         matéria prima para entender melhor o conceito: Tecelagem -> fios, tintas,
+         pigmentos, etc.; Produção de TVs -> parafusos e porcas, circuitos elétricos, caixa de
+         plástico, etc.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Aplicação – Materiais em Processamento
+
+       ❑ Materiais em Processamento (também chamado de materiais "em vias", em
+         fabricação ou em processo): são aproveitados na elaboração do produto final da
+         empresa e caracterizam-se por estarem sendo processados (ou transformados) ao
+         longo das diversas seções que compõem o processo produtivo da empresa.
+       ❑ Não estão mais no almoxarifado (deixaram de ser matérias primas) e nem estão no
+         depósito pois ainda não são produtos acabados. São materiais que ingressaram na
+         organização como matéria prima, passam por etapa do processo produtivo e serão
+         transformados em produtos acabados.
+       ❑ Assim, já não são mais matérias primas, mas ainda não estão prontos. Encontram-se
+         na linha de produção, como um circuito elétrico que será aplicado a um televisor.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Aplicação – Materiais Semiacabados
+
+       ❑ Materiais semiacabados: processamento em estágio intermediário de acabamento.
+       ❑ Fase mais adiantada que a fase anterior, de processamento. Aqui o componente está
+         parcialmente acabado ou "quase pronto".
+       ❑ Diferem dos materiais em processamento pelo estágio um pouco mais avançado,
+         encontrando-se literalmente quase acabados, faltando apenas algumas etapas do
+         processo produtivo para se transformarem em materiais acabados ou mesmo
+         produtos acabados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Aplicação – Materiais Acabados
+
+
+       ❑ Materiais acabados (ou componentes): são os componentes.
+       ❑ Peças acabadas e isoladas ou componentes já acabados e prontos para serem
+         anexados ao produto final.
+       ❑ São partes prontas ou pré-montadas que, quando juntadas ou integradas,
+         constituirão o produto acabado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Quanto à Aplicação – Produtos Acabados
+
+
+       ❑ Produtos acabados: produtos finalizados que podem ser colocados à venda.
+       ❑ O processamento já está encerrado de maneira completa.
+       ❑ É o estágio final do processo produtivo, tendo passado por todas as fases anteriores:
+         matéria prima, material em processamento, material semiacabado, material acabado
+         ou componentes.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Outros Materiais
+
+       ❑ Materiais auxiliares ou improdutivos: compreende todo e qualquer material não
+         incorporado às características do produto fabricado, como materiais de limpeza, de
+         escritório e outros materiais de consumo utilizados em outros setores da organização
+         que não o processo de manutenção.
+       ❑ Materiais de manutenção: materiais de consumo, com utilização repetitiva, aplicados
+         em manutenção.
+       ❑ Materiais de consumo geral: não utilizados diretamente no processo produtivo.
+         Materiais de consumo, com utilização repetitiva, aplicados em diversos setores da
+         empresa, para fins que não sejam os de manutenção.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Aplicação em Resumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (IBADE/Pref. Mun. Santa Luzia D'Oeste-RO/Agente Administrativo/2020) De acordo com
+     os autores clássicos da administração, os materiais são classificados em função do seu
+     estágio no processo produtivo da organização. Os materiais que são denominados
+     componentes e prontos para serem anexados ao produto são considerados:
+     a) Matérias primas
+     b) Materiais em processamento
+     c) Materiais semiacabados
+     d) Materiais acabados
+     e) Materiais auxiliares
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (IBADE/Pref. Mun. Santa Luzia D'Oeste-RO/Agente Administrativo/2020) De acordo com
+     os autores clássicos da administração, os materiais são classificados em função do seu
+     estágio no processo produtivo da organização. Os materiais que são denominados
+     componentes e prontos para serem anexados ao produto são considerados:
+     a) Matérias primas
+     b) Materiais em processamento
+     c) Materiais semiacabados
+     d) Materiais acabados
+     e) Materiais auxiliares
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (IADES/ARCON-PA/Auxiliar Serviços Públicos/2018) Os insumos e os materiais básicos que
+     ingressam no processo produtivo da empresa são classificados como
+     a) matéria-prima.
+     b) material semiacabado.
+     c) materiais em processamento.
+     d) produto final.
+     e) componentes.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (IADES/ARCON-PA/Auxiliar Serviços Públicos/2018) Os insumos e os materiais básicos que
+     ingressam no processo produtivo da empresa são classificados como
+     a) matéria-prima.
+     b) material semiacabado.
+     c) materiais em processamento.
+     d) produto final.
+     e) componentes.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

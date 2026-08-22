@@ -1,0 +1,70 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 01_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ASPECTOS INTRODUTÓRIOS
+---
+
+# ASPECTOS INTRODUTÓRIOS
+
+ASPECTOS INTRODUTÓRIOS
+         FCC
+
+                                            Prof. Gilmar Possati
+
+       
+
+
+---
+
+(FCC/TCE-PI/2005)
+As funções administrativa e econômica da contabilidade são, respectivamente,
+a) apurar o resultado da entidade e prestar informações ao Fisco Federal.
+b) elaborar as demonstrações de resultado e do fluxo de caixa das entidades.
+c) o controle do patrimônio e a apuração do resultado das atividade das aziendas
+(entidades).
+d) divulgar o lucro por ação das sociedades e elaborar as notas explicativas das
+demonstrações contábeis.
+e) o controle do patrimônio de pessoas jurídicas de direito privado e a auditoria dos
+gastos por elas realizados.
+
+                                   
+
+
+---
+
+(FCC/TRT21/2003)
+O objeto da Contabilidade é
+a) a conta.
+b) o lançamento (registro).
+c) o balanço patrimonial.
+d) a demonstração do resultado do exercício.
+e) o patrimônio.
+
+                                  
+
+
+---
+
+(FCC/TRT21/2003)
+O patrimônio, em Contabilidade, é definido como um conjunto de
+a) direitos.
+b) bens, direitos e obrigações.
+c) direitos e obrigações.
+d) bens, direitos, obrigações e patrimônio líquido.
+e) recursos.
+
+                                    
+
+
+---

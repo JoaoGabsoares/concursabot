@@ -1,0 +1,543 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_020_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: ARMAZENAGEM E MOVIMENTAÇÃO
+---
+
+# ARMAZENAGEM E MOVIMENTAÇÃO
+
+---
+
+---
+
+ARMAZENAGEM E MOVIMENTAÇÃO
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - XII
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (FUNDATEC/IF RS/Assistente/2022) Em Dias (2012), o objetivo de um sistema de localização de
+     materiais deve estabelecer os princípios necessários à perfeita identificação da localização dos materiais
+     estocados sob a responsabilidade do almoxarifado. Deverá ser utilizada uma simbologia (codificação)
+     representativa de cada local de estocagem, abrangendo até o menor espaço de uma unidade de
+     estocagem. Cada conjunto de códigos, apresentado sob a forma _____________ , deve indicar,
+     precisamente, o posicionamento de cada material estocado, facilitando as operações de movimentação,
+     inventário, etc. As prateleiras devem ser identificadas por letras, cuja sequência deve ser iniciada em A
+     no sentido de baixo para cima da estante e o escaninho por números no sentido do corredor principal
+     para a parede lateral. Assinale a alternativa que preenche corretamente a lacuna do trecho acima.
+     a) geográfica
+     b) numérica
+     c) Específica
+     d) Alfabética
+     e) alfanumérica
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (FUNDATEC/IF RS/Assistente/2022) Em Dias (2012), o objetivo de um sistema de localização de
+     materiais deve estabelecer os princípios necessários à perfeita identificação da localização dos materiais
+     estocados sob a responsabilidade do almoxarifado. Deverá ser utilizada uma simbologia (codificação)
+     representativa de cada local de estocagem, abrangendo até o menor espaço de uma unidade de
+     estocagem. Cada conjunto de códigos, apresentado sob a forma _____________ , deve indicar,
+     precisamente, o posicionamento de cada material estocado, facilitando as operações de movimentação,
+     inventário, etc. As prateleiras devem ser identificadas por letras, cuja sequência deve ser iniciada em A
+     no sentido de baixo para cima da estante e o escaninho por números no sentido do corredor principal
+     para a parede lateral. Assinale a alternativa que preenche corretamente a lacuna do trecho acima.
+     a) geográfica
+     b) numérica
+     c) Específica
+     d) Alfabética
+     e) alfanumérica
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRBM 3/Assistente Administrativo/2022) A respeito da administração de
+     materiais, julgue o item. O almoxarifado está diretamente ligado à movimentação e ao
+     transporte interno de cargas.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Movimentação
+       O mais comum é que o material seja movimentado
+
+     ❑ Para que o processo produtivo possa acontecer, ao menos um dos três elementos que compõem
+       o layout da organização precisa se movimentar: homem, máquina ou material. Caso nenhum dos
+       três se movimento o processo produtivo não ocorre.
+
+     ❑ Na maioria dos processos na indústria quem se move é o material porém há processos especiais
+       como na construção de aviões, navios ou equipamentos muito pesados em que homens e
+       máquinas é que se movimentam em torno do material, mas é uma exceção. É o caso do layout de
+       posição fixa.
+
+     ❑ Como em todas as outras atividades do processo de gestão de materiais, a movimentação
+       também têm custos, com o agravante que não gera qualquer valor ao produto acabado, podendo
+       apenas tornar o seu processo produtivo mais ou menos eficiente. Dessa forma é um dos alvos
+       mais importantes para a eficiência da gestão do processo e para o seu barateamento, pois só
+       gera custo...
+
+     ❑ Vamos entender a seguir quais são os principais objetivos e finalidades do processo de
+       movimentação.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRBM 3/Assistente Administrativo/2022) A respeito da administração de
+     materiais, julgue o item. O almoxarifado está diretamente ligado à movimentação e ao
+     transporte interno de cargas.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRBM 3/Assistente Administrativo/2022) A respeito da administração de
+     materiais, julgue o item. Qualquer funcionário do almoxarifado pode ser responsável pela
+     manutenção do sistema de localização de materiais.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRBM 3/Assistente Administrativo/2022) A respeito da administração de
+     materiais, julgue o item. Qualquer funcionário do almoxarifado pode ser responsável pela
+     manutenção do sistema de localização de materiais.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+     De acordo com Paoleschi (2019),
+     “O almoxarife é o responsável por toda atividade administrativa do almoxarifado, como a
+     conferência de uma nota fiscal com o Pedido de Compras”.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (INSTITUTO CONSULPLAN/ISGH HRVJ/Auxiliar/2022) Devido aos sintomas de gripe, Fernanda
+     precisou faltar ao trabalho e procurou atendimento médico hospitalar. Chegando ao local, Fernanda
+     notou que a unidade, mantida pela Prefeitura, estava lotada. A maioria das pessoas estava aguardando
+     o atendimento de pé, pois havia pouquíssimas cadeiras no local, além disso, o ambiente estava bem
+     quente e mal-iluminado. Finalmente, quando chegou a sua vez, foi encaminhada ao consultório médico
+     que ficava em outra ala do hospital; porém, no caminho, precisou pedir informações a um enfermeiro,
+     pois não estava encontrando o local exato. Após o atendimento, Fernanda recebeu uma receita médica
+     e foi à farmácia municipal, que funciona em outra ala para solicitar o medicamento gratuitamente. Na
+     farmácia, Fernanda encontrou a medicação; contudo, não pôde levá-la porque estava vencida. São
+     consideradas condições que indicam problemas no arranjo físico do hospital, com base no caso
+     hipotético, EXCETO:
+     a) Estocagem desnecessária de materiais.
+     b) Uso inadequado de cores no ambiente.
+     c) Distância entre atividades complementares e afins.
+     d) Desenvolvimento de atividades em espaços inadequados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (INSTITUTO CONSULPLAN/ISGH HRVJ/Auxiliar/2022) Devido aos sintomas de gripe, Fernanda
+     precisou faltar ao trabalho e procurou atendimento médico hospitalar. Chegando ao local, Fernanda
+     notou que a unidade, mantida pela Prefeitura, estava lotada. A maioria das pessoas estava aguardando
+     o atendimento de pé, pois havia pouquíssimas cadeiras no local, além disso, o ambiente estava bem
+     quente e mal-iluminado. Finalmente, quando chegou a sua vez, foi encaminhada ao consultório médico
+     que ficava em outra ala do hospital; porém, no caminho, precisou pedir informações a um enfermeiro,
+     pois não estava encontrando o local exato. Após o atendimento, Fernanda recebeu uma receita médica
+     e foi à farmácia municipal, que funciona em outra ala para solicitar o medicamento gratuitamente. Na
+     farmácia, Fernanda encontrou a medicação; contudo, não pôde levá-la porque estava vencida. São
+     consideradas condições que indicam problemas no arranjo físico do hospital, com base no caso
+     hipotético, EXCETO:
+     a) Estocagem desnecessária de materiais.
+     b) Uso inadequado de cores no ambiente.
+     c) Distância entre atividades complementares e afins.
+     d) Desenvolvimento de atividades em espaços inadequados.
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (FURB/Pref. Mun. Blumenau-SC/Agente/2022) A movimentação de bens patrimoniais
+     para fora da instalação ou dependência onde estão localizados, em decorrência da
+     necessidade de conserto, manutenção ou da sua utilização temporária por outro centro
+     de responsabilidade ou outro órgão, quando devidamente autorizado, caracteriza o(a):
+     a) Arrendamento.
+     b) Incorporação.
+     c) Tombamento.
+     d) Empréstimo.
+     e) Saída provisória.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (FURB/Pref. Mun. Blumenau-SC/Agente/2022) A movimentação de bens patrimoniais
+     para fora da instalação ou dependência onde estão localizados, em decorrência da
+     necessidade de conserto, manutenção ou da sua utilização temporária por outro centro
+     de responsabilidade ou outro órgão, quando devidamente autorizado, caracteriza o(a):
+     a) Arrendamento.          a) Arrendamento.
+     b) Incorporação.          O arrendamento é a operação de remanejamento, por arrendamento, de bens entre as Unidades Administrativas estaduais e
+                               terceiros, por um período determinado de tempo, com o envolvimento de transação financeira.
+     c) Tombamento.            b) Incorporação.
+     d) Empréstimo.            A incorporação diz respeito a inclusão de um bem no acervo patrimonial do Estado, bem como a adição do seu valor à conta
+                               do ativo imobilizado.
+     e) Saída provisória.      c) Tombamento.
+     GABARITO - E              O tombamento identifica cada material permanente com um número único de registro patrimonial, denominado Número de
+                               Tombamento. Ele está relacionado com um das etapas da incorporação de um bem em uma determinada unidade
+                                                Administrativa e não com a movimentação de materiais.
+
+                                                d) Empréstimo.
+                                                O empréstimo é a operação de remanejamento de bens entre Unidades Administrativas ou entre estas e terceiros, por
+                                                um período determinado de tempo, sem envolvimento de transação financeira.
+
+                                                e) Saída provisória.
+                                                A saída provisória caracteriza-se pela movimentação de bens patrimoniais para fora da instalação ou dependência onde
+                                                estão localizados, em decorrência da necessidade de conserto, manutenção ou da sua utilização temporária por
+                                                outra Unidade Administrativa, quando devidamente autorizado.
+                                                Fonte: CAVALCANTE (2015).
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         
+
+
+---
+
+       Questão Comentada
+     06. (CEBRASPE/FUB/Administrador/2022) Julgue o próximo item, a respeito de
+     recebimento, armazenagem, transporte e distribuição de recursos materiais. A
+     movimentação de cada item de material, se manual ou por equipamentos, interfere no
+     leiaute do almoxarifado.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       As Leis da Movimentação
+       Importante conhecer!
+
+     ❑ Existem algumas "leis de movimentação" que valem a pena ser estudadas pois ajudarão você a
+       entender e resolver várias questões de prova. Além disso resumem bem o assunto. Vamos a elas:
+               - Obediência ao fluxo das operações: trajetória dos materiais deve seguir a sequência das operações, de preferência de
+               forma linear.
+               - Mínima distância: eliminação do zigue zague e redução de distâncias no fluxo dos materiais.
+               - Mínima manipulação: evitar a manipulação ao longo do processo, priorizando o transporte mecânico.
+               - Segurança e satisfação: selecionar equipamentos que ampliem a segurança e a satisfação dos envolvidos.
+               - Padronização: equipamentos padronizados possuem custos e manutenção inferiores aos especializados.
+               - Flexibilidade: equipamentos devem ser capazes de atuar com vários tipos de materiais e cargas.
+               - Máxima utilização do equipamento: equipamento deve estar ocupado o tempo todo.
+               - Máxima utilização da gravidade: sempre que possível priorizar o transporte por gravidade, usando para isso pequenas
+               elevações mecânicas.
+               - Máxima utilização do espaço disponível: utilizar sempre o espaço vertical.
+               - Método alternativo: quando falhar o plano A é necessário ter o plano B de movimentação já desenhado.
+               - Menor custo total: o custo total é que deve ser o decisor na escolha do equipamento e não custos intermediários
+               como o de aquisição, operacional ou de manutenção.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                        
+
+
+---
+
+       Questão Comentada
+     06. (CEBRASPE/FUB/Administrador/2022) Julgue o próximo item, a respeito de
+     recebimento, armazenagem, transporte e distribuição de recursos materiais. A
+     movimentação de cada item de material, se manual ou por equipamentos, interfere no
+     leiaute do almoxarifado.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (INSTITUTO AOCP/IF RO/Técnico/2022) A gestão da movimentação e armazenagem se relaciona à
+     gestão física da movimentação e armazenagem dos materiais realizada em armazéns e depósitos. Sobre
+     esse assunto, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).
+     I. As atividades de manuseio de materiais envolvem o recebimento, o manuseio interno e a expedição
+     dos materiais.
+     II. Manuseio interno inclui toda e qualquer movimentação dos produtos dentro do armazém.
+     III. Para definir o planejamento das atividades de movimentação e armazenagem, é necessário conhecer
+     o layout dos armazéns.
+     a) Apenas I.
+     b) Apenas II.
+     c) Apenas I e II.
+     d) Apenas I e III.
+     e) I, II e III.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Layout
+       Arranjo de homens, máquinas e materiais
+
+     ❑ Definido de maneira simples, o layout nada mais é do que “o arranjo de homens, máquinas e
+       materiais”, podendo ser definido tecnicamente como:
+
+        A integração do fluxo típico de materiais, da operação dos equipamentos de movimentação,
+        combinado com as características que conferem maior produtividade ao elemento humano; isto
+        para que a armazenagem de determinado produto se processe dentro do padrão máximo de
+        economia e rendimento.
+
+     ❑ O layout influi desde a seleção ou adequação do local, assim como no projeto de construção,
+       modificação ou ampliação, de acordo com a necessidade da organização.
+
+     ❑ Atua ainda diretamente na distribuição e localização dos componentes e estações de trabalho,
+       assim como na movimentação de materiais, máquinas e operários.
+
+     ❑ Em linhas gerais o layout é iniciado com a aplicabilidade da elaboração de um projeto, sendo
+       finalizado no momento de sua concretização. Para que um projeto seja bem sucedido, é
+       necessária a existência de um planejamento que incorpore um layout.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (INSTITUTO AOCP/IF RO/Técnico/2022) A gestão da movimentação e armazenagem se relaciona à
+     gestão física da movimentação e armazenagem dos materiais realizada em armazéns e depósitos. Sobre
+     esse assunto, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).
+     I. As atividades de manuseio de materiais envolvem o recebimento, o manuseio interno e a expedição
+     dos materiais.
+     II. Manuseio interno inclui toda e qualquer movimentação dos produtos dentro do armazém.
+     III. Para definir o planejamento das atividades de movimentação e armazenagem, é necessário conhecer
+     o layout dos armazéns.
+     a) Apenas I.
+     b) Apenas II.
+     c) Apenas I e II.
+     d) Apenas I e III.
+     e) I, II e III.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) A representação do estoque e
+     suas movimentações de um item, também chamado de “kardex”, é o(a):
+     a) Ficha de controle de estoque.
+     b) Ordem de compra.
+     c) Contagem cíclica.
+     d) Codificação.
+     e) Cut off.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Ficha de Controle de Estoque
+       Usada no Sistema Kardex
+       ❑ O fichário de estoque – também denominado banco de dados sobre materiais – é um conjunto de documentos e
+         informações que servem para informar, analisar e controlar os estoques de materiais.
+
+       ❑ Quando o fichário de estoque ocupa um arquivo normal, o seu processamento é manual. Quando se utiliza o
+         processamento de dados com a ajuda de computador ou microcomputador, tem-se um banco de dados.
+
+       ❑ Mesmo com toda a possibilidade de informatização do processo, ainda há organizações que mantém seus
+         registros de estoques em fichas e que processam pedidos e análises de inventário manualmente.
+
+       ❑ O elemento chave desse sistema manual, ou sistema Kardex - como é normalmente chamado -, é a ficha ou cartão
+         de registro de estoques, que compõem um fichário de estoques.
+
+       ❑ O fichário de estoque é composto por um conjunto de fichas de estoque ou planilhas de estoque. Cada empresa
+         define o tipo de ficha de estoque mais apropriado as suas necessidades e ao grua de sofisticação pretendido em
+         seu processamento.
+
+       ❑ De acordo com Ronald Ballou, "a maioria das informações necessárias para controlar o item estão contidas nessas
+         fichas", que devem registrar cada transação de venda ou entrega de reposição, assim como os saldos de
+         estoque.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) A representação do estoque e
+     suas movimentações de um item, também chamado de “kardex”, é o(a):
+     a) Ficha de controle de estoque.
+     b) Ordem de compra.
+     c) Contagem cíclica.
+     d) Codificação.
+     e) Cut off.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CREMERO/Assistente Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. Somente as características físicas
+     do material impactam na escolha dos métodos para manuseio e estocagem.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CREMERO/Assistente Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. Somente as características físicas
+     do material impactam na escolha dos métodos para manuseio e estocagem.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+        Na verdade, as características físicas e químicas do material são predominantes na escolha dos
+        métodos de manuseio e estocagem. Essa é uma abordagem literal da obra de Viana.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CRM SC/Assistente Administrativo/2022) Acerca das noções de
+     administração de materiais, julgue o item. A quantidade de material manipulado por vez e
+     a frequência com que são realizadas as diversas movimentações estão ligadas às variações
+     que o material sofre durante o processo, ao seu grau de especialização e às características
+     dos produtos nas diversas fases.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CRM SC/Assistente Administrativo/2022) Acerca das noções de
+     administração de materiais, julgue o item. A quantidade de material manipulado por vez e
+     a frequência com que são realizadas as diversas movimentações estão ligadas às variações
+     que o material sofre durante o processo, ao seu grau de especialização e às características
+     dos produtos nas diversas fases.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+      Marco Aurelio Dias - A quantidade de material manipulado por vez e a frequência com que são
+      realizadas as diversas movimentações estão ligadas às variações que o material sofre durante o
+      processo, ao seu grau de especialização e às características dos produtos nas diversas fases.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+       ricardocampanario
+                   
+
+
+---
+
+---

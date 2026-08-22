@@ -1,0 +1,158 @@
+  DEMONSTRAÇÃO DOS FLUXOS DE CAIXA I
+A DEMONSTRAÇÃO DOS FLUXOS DE CAIXA (DFC) INDICA AS                                        LEI Nº 6.404/76 (LEI DAS SOCIEDADES POR AÇÕES)
+ALTERAÇÕES OCORRIDAS, DURANTE O EXERCÍCIO, NO SALDO DE
+CAIXA E EQUIVALENTES DE CAIXA, SEGREGADAS EM TRÊS FLUXOS
+
+❑ OPERACIONAL
+❑ FINANCEIRO
+                                                                                                         A DFC É OBRIGATÓRIA PARA
+❑ INVESTIMENTOS                                                                           ❑ COMPANHIAS ABERTAS
+                                                                                          ❑ COMPANHIAS FECHADAS COM PATRIMÔNIO LÍQUIDO SUPERIOR A 2
+                                                                                          MILHÕES
+
+
+
+
+ CPC 03 (R2) - DEMONSTRAÇÃO DOS FLUXOS DE CAIXA
+
+                  A DFC PROPORCIONA AOS USUÁRIOS DAS DEMONSTRAÇÕES CONTÁBEIS UMA BASE PARA AVALIAR A CAPACIDADE DE A ENTIDADE
+                  GERAR CAIXA E EQUIVALENTES DE CAIXA, BEM COMO AS NECESSIDADES DA ENTIDADE DE UTILIZAÇÃO DESSES FLUXOS DE CAIXA
+
+
+                                ❑ CAIXA → NUMERÁRIO EM ESPÉCIE E DEPÓSITOS BANCÁRIOS DISPONÍVEIS
+
+                  DEFINIÇÕES    ❑ EQUIVALENTES DE CAIXA → APLICAÇÕES FINANCEIRAS DE CURTO PRAZO, DE ALTA LIQUIDEZ, QUE SÃO PRONTAMENTE
+                                CONVERSÍVEIS EM MONTANTE CONHECIDO DE CAIXA E QUE ESTÃO SUJEITAS A UM INSIGNIFICANTE RISCO DE MUDANÇA DE
+                                VALOR
+
+
+
+
+                                                                                                                                 CONTABILIDADE GERAL
+                                                     https://t.me/KakashiAssinaturasBot                                         ESTRATÉGIA CONCURSOS
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA II
+                                                                                        CPC 03 (R2) - DEMONSTRAÇÃO DOS FLUXOS DE CAIXA
+
+
+ATIVIDADES OPERACIONAIS → PRINCIPAIS ATIVIDADES GERADORAS DE RECEITA DA ENTIDADE E
+OUTRAS ATIVIDADES QUE NÃO SÃO DE INVESTIMENTO E TAMPOUCO DE FINANCIAMENTO
+
+
+                                    RECEBIMENTO                                         PAGAMENTO
+
+                         VENDA DE MERCADORIAS                        FORNECEDORES DE MERCADORIAS
+
+ PRINCIPAIS EXEMPLOS     PRESTAÇÃO DE SERVIÇOS                       FORNECEDORES DE SERVIÇOS
+
+                         ROYALTIES, HONORÁRIOS, COMISSÕES            EMPREGADOS
+
+                         IMPOSTO DE RENDA (RESTITUIÇÃO)              IMPOSTO DE RENDA (PAGAMENTO)
+
+
+
+ATIVIDADES DE INVESTIMENTO → REFERENTES À AQUISIÇÃO E À VENDA DE ATIVOS DE LONGO
+PRAZO E DE OUTROS INVESTIMENTOS NÃO INCLUÍDOS NOS EQUIVALENTES DE CAIXA
+
+
+                                      RECEBIMENTO                                               PAGAMENTO
+
+                         VENDA DE IMOBILIZADO                                 AQUISIÇÃO DE IMOBILIZADO
+
+ PRINCIPAIS EXEMPLOS     VENDA DE INTANGÍVEL                                  AQUISIÇÃO DE INTANGÍVEL
+
+                         VENDA DE OUTROS ATIVOS DE LONGO PRAZO                AQUISIÇÃO DE OUTROS ATIVOS DE LONGO PRAZO
+
+                         VENDA DE PARTICIPAÇÕES SOCIETÁRIAS                   COMPRA DE PARTICIPAÇÕES SOCIETÁRIAS
+                                                                                                                           CONTABILIDADE GERAL
+                                                   https://t.me/KakashiAssinaturasBot                                     ESTRATÉGIA CONCURSOS
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA II
+                                                                                             CPC 03 (R2) - DEMONSTRAÇÃO DOS FLUXOS DE CAIXA
+ATIVIDADES FINANCIAMENTO → AQUELAS QUE RESULTAM EM MUDANÇAS NO TAMANHO E NA
+COMPOSIÇÃO DO CAPITAL PRÓPRIO E NO CAPITAL DE TERCEIROS DA ENTIDADE
+
+                                                RECEBIMENTO                                                    PAGAMENTO
+
+                                EMISSÃO DE AÇÕES/INSTRUMENTOS PATRIMONIAIS                      RESGATE DE AÇÕES/INSTRUMENTOS PATRIMONIAIS
+ PRINCIPAIS EXEMPLOS
+                                   DEBÊNTURES (CAIXA RECEBIDO PELA EMISSÃO)                            AMORTIZAÇÃO DE EMPRÉSTIMOS
+
+                                       EMPRÉSTIMOS, NOTAS PROMISSÓRIAS                                 PAGAMENTO DE ARRENDAMENTO
+
+
+UMA ÚNICA TRANSAÇÃO PODE INCLUIR FLUXOS DE CAIXA CLASSIFICADOS EM MAIS DE UMA ATIVIDADE
+
+                                                            • JUROS → ATIVIDADE OPERACIONAL
+ EX. PAGAMENTO DE EMPRÉSTIMO (PRINCIPAL + JUROS)
+                                                            • PRINCIPAL → ATIVIDADE DE FINANCIAMENTO
+
+CLASSIFICAÇÃO DE JUROS, DIVIDENDOS E JUROS SOBRE O CAPITAL PRÓPRIO RECEBIDOS/PAGOS
+
+                                      CPC ENCORAJA      ALTERNATIVA
+                       PAGAMENTO       OPERACIONAL     FINANCIAMENTO
+      JUROS
+                       RECEBIMENTO     OPERACIONAL      INVESTIMENTO
+
+JUROS SOBRE CAPITAL    PAGAMENTO      FINANCIAMENTO     OPERACIONAL
+PRÓPRIO E DIVIDENDO    RECEBIMENTO     OPERACIONAL      INVESTIMENTO                                                                          CONTABILIDADE GERAL
+                                                        https://t.me/KakashiAssinaturasBot                                                   ESTRATÉGIA CONCURSOS
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA III
+
+  FLUXO DE CAIXA (FC) = FLUXO OPERACIONAL (FCO) + FLUXO DE INVESTIMENTOS (FCI) + FLUXO DE INVESTIMENTOS (FCF)
+
+
+  A DFC PODE SER ELABORADA PELO MÉTODO DIRETO OU PELO MÉTODO INDIRETO
+
+                                           A DIFERENÇA ENTRE OS MÉTODOS ESTÁ SOMENTE NO FLUXO OPERACIONAL
+
+
+                              USAMOS AS CONTAS PATRIMONIAIS E AJUSTAMOS PELAS CONTAS DE RESULTADO
+
+    MÉTODO DIRETO
+                                                                 ❑ SALDO INICIAL (SI) + ENTRADAS (E) – SAÍDAS (S) = SALDO FINAL (SF)
+                              FÓRMULA UNIVERSAL                  ❑ SI E SF VÊM DAS CONTAS PATRIMONIAIS (BALANÇO PATRIMONIAL)
+
+                                                                 ❑ E E S VÊM DO DAS CONTAS DE RESULTADO (DRE)
+
+
+
+
+                                                                                                                              CONTABILIDADE GERAL
+                                            https://t.me/KakashiAssinaturasBot                                               ESTRATÉGIA CONCURSOS
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA III                                                           O RESULTADO DO LUCRO AJUSTADO MAIS O SALDO
+                                                                                               DA VARIAÇÃO DAS CONTAS PATRIMONIAIS SERÁ O
+                                                                                               FLUXO OPERACIONAL
+
+
+                                                                                               OS FLUXOS DAS ATIVIDADES DE INVESTIMENTO E
+        MÉTODO INDIRETO              TRÊS PASSOS PARA ENCONTRAR O FLUXO OPERACIONAL            FINANCIAMENTO SÃO IGUAIS NOS DOIS MÉTODOS
+
+
+                                     ❑ PASSO 1 → PEGAR O LUCRO LÍQUIDO DO EXERCÍCIO
+
+                                     ❑ PASSO 2 → AJUSTAR AS RECEITAS E DESPESAS QUE NÃO AFETARAM O CAIXA
+
+                                     ❑ PASSO 3 → ELIMINAR O EFEITO DAS VENDAS E COMPRAS A PRAZO DO CAIXA
+
+
+
+                                                SUBTRAIR DO LUCRO LÍQUIDO AS RECEITAS
+  LUCRO AJUSTADO (PASSOS 1 E 2)                                                              AJUSTE DAS CONTAS PATRIMONIAIS (PASSO 3)
+                                                QUE NÃO RESULTAM EM ENTRADA DE CAIXA
+
+                                                              PRINCIPAIS EXEMPLOS
+
+                                                  ▪ EQUIVALÊNCIA PATRIMONIAL
+                                                  ▪ RECEITA FINANCEIRA NÃO RECEBIDA
+SOMAR AO LUCRO LÍQUIDO AS DESPESAS                                                          AJUSTAMOS AS VARIAÇÕES DOS ATIVOS E PASSIVOS
+QUE NÃO RESULTAM EM SAÍDA DE CAIXA                                                          RELACIONADOS COM AS ATIVIDADES OPERACIONAIS
+
+         PRINCIPAIS EXEMPLOS
+                                                                                                               ATIVO            PASSIVO
+  ▪ DEPRECIAÇÃO                                                                               AUMENTO      DIMINUI O CAIXA   AUMENTA O CAIXA
+  ▪ AMORTIZAÇÃO
+                                                                                             DIMINUIÇÃO    AUMENTA O CAIXA   DIMINUI O CAIXA
+  ▪ EXAUSTÃO
+  ▪ DESPESAS FINANCEIRA NÃO PAGA
+  ▪ EQUIVALÊNCIA PATRIMONIAL                                                                                             CONTABILIDADE GERAL
+                                                     https://t.me/KakashiAssinaturasBot                                 ESTRATÉGIA CONCURSOS
+

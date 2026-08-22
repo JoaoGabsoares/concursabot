@@ -1,0 +1,174 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 05_019_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: LÓGICA DE ARGUMENTAÇÃO
+---
+
+# LÓGICA DE ARGUMENTAÇÃO
+
+Prof. Brunno Lima
+
+                    
+
+
+---
+
+LÓGICA DE ARGUMENTAÇÃO
+
+
+                                          Prof. Brunno Lima
+
+     
+
+
+---
+
+RESOLUÇÃO DE QUESTÕES
+
+                                          Prof. Brunno Lima
+
+     
+
+
+---
+
+ (FGV/TRT-12ª REGIÃO/2017)
+ Sabe-se que:
+ Se X é vermelho, então Y não é verde.
+ Se X não é vermelho, então Z não é azul.
+ Se Y é verde, então Z é azul.
+ Logo, deduz-se que:
+ (A) X é vermelho;
+ (B) X não é vermelho;
+ (C) Y é verde;
+ (D) Y não é verde;
+ (E) Z não é azul.
+
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+ GABARITO:
+ (D) Y não é verde.
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+ (FGV/TJ-AM/2013)
+ Considere como verdadeiras as sentenças a seguir.
+ I. Se André não é americano, então Bruno é francês.
+ II. Se André é americano então Carlos não é inglês.
+ III. Se Bruno não é francês então Carlos é inglês.
+ Logo, tem‐se obrigatoriamente que
+ (A) Bruno é francês.
+ (B) André é americano.
+ (C) Bruno não é francês.
+ (D) Carlos é inglês.
+ (E) André não é americano.
+
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+ GABARITO:
+ (A) Bruno é francês.
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+ (CESPE/PC-CE/2012)
+ Das proposições “Se há corrupção, aumenta-se a concentração de renda”,
+ “Se aumenta a concentração de renda, acentuam-se as desigualdades
+ sociais” e “Se se acentuam as desigualdades sociais, os níveis de violência
+ crescem” é correto inferir que “Se há corrupção, os níveis de violência
+ crescem”.
+ (   ) CERTO        (   ) ERRADO
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+ GABARITO:
+ CERTO
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+ (UFPR/PREFEITURA DE CURITIBA/2019)
+ Considere verdadeiras as seguintes proposições:
+ Se está chovendo, então faz frio.
+ O mar não está calmo ou posso mergulhar.
+ Está chovendo ou o mar está calmo.
+ Dessas proposições, conclui-se corretamente que:
+ a) faz frio ou posso mergulhar.
+ b) está chovendo e posso mergulhar.
+ c) o mar está calmo.
+ d) não faz frio e não posso mergulhar.
+ e) se faz frio, então está chovendo.
+
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+ GABARITO:
+ a) faz frio ou posso mergulhar.
+
+LÓGICA DE ARGUMENTAÇÃO - RESOLUÇÃO DE QUESTÕES
+Prof. Brunno Lima
+
+                                          
+
+
+---
+
+OBRIGADO
+                                        Prof. Brunno Lima
+
+   
+
+
+---

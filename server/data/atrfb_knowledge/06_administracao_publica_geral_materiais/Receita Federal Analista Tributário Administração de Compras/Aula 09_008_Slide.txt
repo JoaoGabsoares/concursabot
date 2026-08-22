@@ -1,0 +1,640 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+QUESTÕES COMENTADAS
+LOGÍSTICA E GESTÃO DE
+CONTRATOS
+FGV
+                                              Prof. Ricardo Campanario
+
+
+
+
+         https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (FGV/ALERO/Assistente Legislativo/2018) As empresas, devido ao aumento da circulação de mercadorias e à
+     pressão para reduzir custos e aumentar vendas, passaram a se empenhar em desenvolver uma cadeia logística mais
+     eficiente. O conceito de Logística foi então revisto e renovado. Sobre o conceito de Logística, analise as afirmativas a
+     seguir.
+     I. Logística é a parte da cadeia de suprimentos que faz a integração de processos chaves de negócio, como uma rede
+     de opções, tanto de facilidades quanto de distribuição, que desenvolve produtos, compra materiais, transforma
+     produtos primários em acabados e os distribui para os clientes.
+     II. Logística é a parte dos processos da cadeia de suprimentos que planeja, implementa e controla o efetivo fluxo e
+     estocagem de bens, serviços e informações correlatas, desde o ponto de origem até o ponto de consumo.
+     III. Logística Integrada se refere às atividades associadas ao fluxo de informação, de bens e serviços, integradas com a
+     cadeia de suprimentos, desde a empresa fornecedora de matéria prima até o cliente final.
+     Está correto o que se afirma em:
+     a) I, apenas.
+     b) II, apenas.
+     c) III, apenas.
+     d) I e II, apenas.
+     e) I, II e III.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (FGV/ALERO/Assistente Legislativo/2018) As empresas, devido ao aumento da circulação de mercadorias e à
+     pressão para reduzir custos e aumentar vendas, passaram a se empenhar em desenvolver uma cadeia logística mais
+     eficiente. O conceito de Logística foi então revisto e renovado. Sobre o conceito de Logística, analise as afirmativas a
+     seguir.
+     I. Logística é a parte da cadeia de suprimentos que faz a integração de processos chaves de negócio, como uma rede
+     de opções, tanto de facilidades quanto de distribuição, que desenvolve produtos, compra materiais, transforma
+     produtos primários em acabados e os distribui para os clientes.
+     II. Logística é a parte dos processos da cadeia de suprimentos que planeja, implementa e controla o efetivo fluxo e
+     estocagem de bens, serviços e informações correlatas, desde o ponto de origem até o ponto de consumo.
+     III. Logística Integrada se refere às atividades associadas ao fluxo de informação, de bens e serviços, integradas com a
+     cadeia de suprimentos, desde a empresa fornecedora de matéria prima até o cliente final.
+     Está correto o que se afirma em:
+     a) I, apenas.
+     b) II, apenas.
+     c) III, apenas.
+     d) I e II, apenas.
+     e) I, II e III.
+     GABARITO - B
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (FGV/ALERO/Assistente Legislativo/2018) A Logística Integrada planeja, coordena e
+     controla todas as atividades necessárias para que o produto chegue ao cliente com
+     qualidade e custo equilibrado. Os componentes ou atividades de um sistema logístico
+     podem ser organizados em atividades chave ou principais e as de apoio ou suporte.
+     Assinale a opção que apresenta as atividades principais de um sistema logístico.
+     a) Armazenagem, fluxo de materiais, embalagens, entrega ao cliente final.
+     b) Planejamento de rotas, compras, entrega ao cliente final, arquivamento e pós-venda.
+     c) Padrões de serviço ao cliente, transporte, administração de estoques, fluxo de
+     informações e processamento de pedidos.
+     d) Administração de estoques, armazenagem, manuseio de materiais, compras e
+     programação de entregas.
+     e) Embalagem, compras, programação de entregas, transporte e entrega ao cliente final.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+Atividades Logísticas
+❑ Note que, embora o autor use terminologia específica, as três
+  atividades que ele rotula como atividades primárias:
+  processamento de pedidos, manutenção de estoques e
+  transporte, estão diretamente ligadas aos três grandes grupos
+  de atividades que estudamos em administração de materiais.
+
+
+
+
+                                       https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (FGV/ALERO/Assistente Legislativo/2018) A Logística Integrada planeja, coordena e
+     controla todas as atividades necessárias para que o produto chegue ao cliente com
+     qualidade e custo equilibrado. Os componentes ou atividades de um sistema logístico
+     podem ser organizados em atividades chave ou principais e as de apoio ou suporte.
+     Assinale a opção que apresenta as atividades principais de um sistema logístico.
+     a) Armazenagem, fluxo de materiais, embalagens, entrega ao cliente final.
+     b) Planejamento de rotas, compras, entrega ao cliente final, arquivamento e pós-venda.
+     c) Padrões de serviço ao cliente, transporte, administração de estoques, fluxo de
+     informações e processamento de pedidos.
+     d) Administração de estoques, armazenagem, manuseio de materiais, compras e
+     programação de entregas.
+     e) Embalagem, compras, programação de entregas, transporte e entrega ao cliente final.
+     GABARITO - C
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FGV/ALERO/Assistente Legislativo/2018) Um gerente de logística de uma empresa
+     de comercialização de eletrônicos deseja aumentar a eficiência de sua cadeia de
+     suprimentos e, para tanto, solicita a realização de um estudo para determinar a taxa de
+     giro do estoque (TGE) nos últimos anos de operação. O resultado desse estudo indicou
+     que a TGE atual é de 12 vezes por ano e que, de acordo com a composição de custos
+     de estoque da empresa, uma TGE de 24 vezes por ano minimizaria o custo total do lote
+     de compra. Considerando que o número de unidades vendidas no ano permaneça
+     constante, o gerente deveria:
+     a) aumentar em duas vezes o estoque médio anual da empresa.
+     b) reduzir à metade o estoque médio anual da empresa.
+     c) aumentar em quatro vezes o estoque médio anual da empresa.
+     d) reduzir a um quarto o estoque médio anual da empresa.
+     e) aumentar em oito vezes o estoque médio anual da empresa.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FGV/ALERO/Assistente Legislativo/2018) Um gerente de logística de uma empresa
+     de comercialização de eletrônicos deseja aumentar a eficiência de sua cadeia de
+     suprimentos e, para tanto, solicita a realização de um estudo para determinar a taxa de
+     giro do estoque (TGE) nos últimos anos de operação. O resultado desse estudo indicou
+     que a TGE atual é de 12 vezes por ano e que, de acordo com a composição de custos
+     de estoque da empresa, uma TGE de 24 vezes por ano minimizaria o custo total do lote
+     de compra. Considerando que o número de unidades vendidas no ano permaneça
+     constante, o gerente deveria:
+     a) aumentar em duas vezes o estoque médio anual da empresa.
+     b) reduzir à metade o estoque médio anual da empresa.
+     c) aumentar em quatro vezes o estoque médio anual da empresa.
+     d) reduzir a um quarto o estoque médio anual da empresa.
+     e) aumentar em oito vezes o estoque médio anual da empresa.
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (FGV/IBGE/Analista Censitário/2017) A respeito da logística reversa, é correto
+     afirmar que:
+     a) prevê o retorno dos produtos à cadeia produtiva, percorrendo o seu ciclo de vida;
+     b) torna o produto mais oneroso, mas agrega valor ecológico;
+     c) atua na verificação de defeitos de funcionamento dos produtos após o consumo;
+     d) atua na verificação dos impactos ambientais causados pelos produtos após a venda;
+     e) prioriza o reuso dos produtos após o término de seu ciclo de vida.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Cadeias de Suprimento
+       Cadeia Reversa
+
+      ❑ A cadeia reversa, também chamada de logística reversa, justamente inverte o sentido
+        que estávamos observando até agora. Diz respeito ao fluxo contrário, ou seja, dos
+        clientes até o produtor. Esse termo em geral é usado para descrever o processo de
+        "trazer de volta" os produtos após o final de suas "vidas úteis", ou mesmo nos casos
+        de recall, reparos ou reutilização. Também chamada de "a montante" (também raro,
+        mas fique atento).
+      ❑ A logística reversa define o envio do produto desde o seu local de consumo até o
+        ponto adequado da cadeia de suprimento para que seja dado o tratamento
+        adequado aos resíduos (descarte correto ou reciclagem, evitando danos ambientais
+        como vimos em logística sustentável) ou para que algum valor seja gerado
+        novamente ao produto, como nos casos de remanufatura (vasilhames que são lavados
+        e reutilizados, por exemplo).
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Cadeias de Suprimento
+       Cadeia Reversa
+
+      ❑ Do ponto de vista normativo, a Lei 12.305/2010 que institui a Política Nacional de
+        Resíduos Sólidos traz em seu artigo 3º, inciso XII, a definição legal e vigente de
+        logística reversa:
+
+                   Art. 3o Para os efeitos desta Lei, entende-se por:
+                   ...
+                   XII - logística reversa: instrumento de desenvolvimento econômico e social
+                   caracterizado por um conjunto de ações, procedimentos e meios
+                   destinados a viabilizar a coleta e a restituição dos resíduos sólidos ao setor
+                   empresarial, para reaproveitamento, em seu ciclo ou em outros ciclos
+                   produtivos, ou outra destinação final ambientalmente adequada;
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (FGV/IBGE/Analista Censitário/2017) A respeito da logística reversa, é correto
+     afirmar que:
+     a) prevê o retorno dos produtos à cadeia produtiva, percorrendo o seu ciclo de vida;
+     b) torna o produto mais oneroso, mas agrega valor ecológico;
+     c) atua na verificação de defeitos de funcionamento dos produtos após o consumo;
+     d) atua na verificação dos impactos ambientais causados pelos produtos após a venda;
+     e) prioriza o reuso dos produtos após o término de seu ciclo de vida.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (FGV/SUDENE/Agente Administrativo/2013) Com relação à abordagem logística da
+     Administração de Materiais, analise as afirmativas a seguir.
+     I. Estabelece como objetivo principal supervisionar os almoxarifados e estabelecer
+     método de estocagem adequado.
+     II. Busca, por meio de previsão e estimativa flexibilizar o fluxo dos produtos.
+     III. Tem como função estudar a maneira de como a Administração otimiza os recursos de
+     suprimentos, de estoques e de distribuição dos produtos e serviços.
+     Assinale:
+     a) se todas as afirmativas estiverem corretas.
+     b) se somente as afirmativas I e III estiverem corretas.
+     c) se somente as afirmativas I e II estiverem corretas.
+     d) se somente a afirmativa II estiver correta.
+     e) se somente a afirmativa III estiver correta.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (FGV/SUDENE/Agente Administrativo/2013) Com relação à abordagem logística da
+     Administração de Materiais, analise as afirmativas a seguir.
+     I. Estabelece como objetivo principal supervisionar os almoxarifados e estabelecer
+     método de estocagem adequado.
+     II. Busca, por meio de previsão e estimativa flexibilizar o fluxo dos produtos.
+     III. Tem como função estudar a maneira de como a Administração otimiza os recursos de
+     suprimentos, de estoques e de distribuição dos produtos e serviços.
+     Assinale:
+     a) se todas as afirmativas estiverem corretas.
+     b) se somente as afirmativas I e III estiverem corretas.
+     c) se somente as afirmativas I e II estiverem corretas.
+     d) se somente a afirmativa II estiver correta.
+     e) se somente a afirmativa III estiver correta.
+     GABARITO - A
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (FGV/SUDENE/Engenheiro/2013) A logística está baseada em três atividades
+     conhecidas como atividades primárias. A integração dessas três atividades é fator crítico
+     para que uma cadeia logística tenha um serviço adequado. Assinale a alternativa que
+     apresenta as três atividades logísticas conhecidas como atividades primárias.
+     a) Suprimento, manutenção de estoque e sistema de informação.
+     b) Transporte, sistema de informação e suprimento.
+     c) Transporte, manutenção de estoques e sistema de informação.
+     d) Processamento de pedidos, manutenção de estoques e sistema de informação.
+     e) Processamento de pedidos, transporte e manutenção de estoques.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+Atividades Logísticas
+❑ Note que, embora o autor use terminologia específica, as três
+  atividades que ele rotula como atividades primárias:
+  processamento de pedidos, manutenção de estoques e
+  transporte, estão diretamente ligadas aos três grandes grupos
+  de atividades que estudamos em administração de materiais.
+
+
+
+
+                                       https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (FGV/SUDENE/Engenheiro/2013) A logística está baseada em três atividades
+     conhecidas como atividades primárias. A integração dessas três atividades é fator crítico
+     para que uma cadeia logística tenha um serviço adequado. Assinale a alternativa que
+     apresenta as três atividades logísticas conhecidas como atividades primárias.
+     a) Suprimento, manutenção de estoque e sistema de informação.
+     b) Transporte, sistema de informação e suprimento.
+     c) Transporte, manutenção de estoques e sistema de informação.
+     d) Processamento de pedidos, manutenção de estoques e sistema de informação.
+     e) Processamento de pedidos, transporte e manutenção de estoques.
+     GABARITO - E
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (FGV/CODEBA/Técnico Portuário/2016) O Sistema Logístico organiza o processo de
+     produção e venda de produtos sujeitos a operações de manuseamento e transporte.
+     Assinale a opção que apresenta corretamente os três ciclos do sistema logístico.
+     a) Ciclo de produção, ciclo de armazenamento e ciclo de transporte.
+     b) Ciclo do produtor, ciclo do estoquista e ciclo do distribuidor.
+     c) Ciclo da produção, ciclo do atacadista e ciclo do varejo.
+     d) Ciclo de aprovisionamento, ciclo de apoio à produção e ciclo de distribuição física.
+     e) Ciclo montagem, ciclo de distribuição e ciclo de aprovisionamento.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+        A questão baseia-se em citação literal à Moura, que informa que os três ciclos do sistema logístico são:
+        aprovisionamento, apoio à produção e distribuição física.
+        •      Ciclo de aprovisionamento (abastecimento): visa à obtenção de produtos e materiais de fornecedores externos,
+               destinados à produção, ao consumo ou à revenda.
+        •      Ciclo de apoio à produção: associa-se aos fluxos de entrada de matérias-primas e outros inputs utilizados na
+               gestão de operações ou de produção.
+        •      Ciclo de distribuição física: incumbida pela gestão dos fluxos de produto e informação a jusante do processo
+               produtivo, assegurando que os produtos cheguem em condições adequadas aos clientes, por meio de redes de
+               distribuição, sobretudo com as atividades de stock, transporte e armazenagem.
+        Note que, como sempre, os três grandes blocos de atividades, independentemente do autor, estão sempre ligados
+        as três atividades abaixo: compras, armazenamento e distribuição.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (FGV/CODEBA/Técnico Portuário/2016) O Sistema Logístico organiza o processo de
+     produção e venda de produtos sujeitos a operações de manuseamento e transporte.
+     Assinale a opção que apresenta corretamente os três ciclos do sistema logístico.
+     a) Ciclo de produção, ciclo de armazenamento e ciclo de transporte.
+     b) Ciclo do produtor, ciclo do estoquista e ciclo do distribuidor.
+     c) Ciclo da produção, ciclo do atacadista e ciclo do varejo.
+     d) Ciclo de aprovisionamento, ciclo de apoio à produção e ciclo de distribuição física.
+     e) Ciclo montagem, ciclo de distribuição e ciclo de aprovisionamento.
+     GABARITO - D
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (FGV/PROCEMPA/Analista Administrativo/2014) No atual cenário de alta competitividade, a
+     atuação das organizações e empresas públicas e privadas tem se pautado na busca de inserção no
+     mercado econômico mundial integrado. Para tanto, assume relevância o papel da logística para a
+     racionalização dos seus processos produtivos de forma a maximizar os recursos organizacionais.
+     Nesse sentido, as organizações que visam atuar competitivamente, devem coordenar suas atividades
+     logísticas sob uma nova perspectiva, que considere a importância das análises logísticas como:
+     a) conhecimentos táticos que contribuem como suporte para as decisões gerencias.
+     b) especialidades técnicas que contribuem como suporte para as decisões estratégicas.
+     c) elementos estratégicos essenciais para a formulação e para a tomada de decisões estratégicas.
+     d) conhecimentos táticos que contribuem como suporte para as decisões estratégicas.
+     e) elementos técnicos que contribuem como suporte para as decisões gerenciais.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (FGV/PROCEMPA/Analista Administrativo/2014) No atual cenário de alta competitividade, a
+     atuação das organizações e empresas públicas e privadas tem se pautado na busca de inserção no
+     mercado econômico mundial integrado. Para tanto, assume relevância o papel da logística para a
+     racionalização dos seus processos produtivos de forma a maximizar os recursos organizacionais.
+     Nesse sentido, as organizações que visam atuar competitivamente, devem coordenar suas atividades
+     logísticas sob uma nova perspectiva, que considere a importância das análises logísticas como:
+     a) conhecimentos táticos que contribuem como suporte para as decisões gerencias.
+     b) especialidades técnicas que contribuem como suporte para as decisões estratégicas.
+     c) elementos estratégicos essenciais para a formulação e para a tomada de decisões estratégicas.
+     d) conhecimentos táticos que contribuem como suporte para as decisões estratégicas.
+     e) elementos técnicos que contribuem como suporte para as decisões gerenciais.
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (FGV/IBGE/Analista Censitário/2017) Com o desenvolvimento tecnológico, os problemas
+     logísticos tornaram-se cada vez mais complexos, exigindo maior visão sistêmica das organizações e
+     do mercado. A proliferação de variedades de produtos leva a uma grande diversidade e quantidade
+     de itens, o que conduz a uma situação complexa de administração dos estoques. Uma das mais
+     importantes tendências da logística empresarial moderna é o uso de operadores logísticos, que têm
+     como característica:
+     a) prestar serviço padronizado e genérico, concentrando-se em uma única atividade logística;
+     b) possuir conhecimentos práticos especializados e limitados;
+     c) oferecer serviços sob medida, com capacidade de análise e planejamento logístico;
+     d) apresentar contratos de serviços que tendem a ser de curto e médio prazo (seis meses a um ano);
+     e) oferecer custo específico minimizado da atividade contratada para a empresa contratante.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Impactos da Globalização
+       Personalização de produtos e serviços
+
+      ❑ A produção em massa, mesmo que em modelos mais enxutos, vem perdendo espaço para
+        formatos mais ágeis de manufatura que levam em conta sobretudo o consumidor, olhando o
+        tempo todo para fora e não exclusivamente para o processo produtivo e suas características.
+
+      ❑ O conceito de manufatura ágil procura integrar de fato a empresa e o mercado, permitindo que a
+        empresa se adapte rapidamente as mudanças e atenda o consumidor na medida de seus desejos
+        no que diz respeito a preço, especificações, qualidade, volume e prazos de entrega.
+
+      ❑ Tal comportamento requer também a utilização de operadores logísticos que ofereçam serviços
+        customizados, capazes de atender as necessidades das organizações, agora voltadas
+        essencialmente aos seus consumidores.
+
+      ❑ A personalização de produtos e serviços, que passa pelo conceito de manufatura ágil, baseia-se
+        em quatro pilares principais: entrega de valor ao cliente, prontidão para a mudança, valorização
+        dos conhecimentos e habilidades e formação de parcerias/integração virtual.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (FGV/IBGE/Analista Censitário/2017) Com o desenvolvimento tecnológico, os problemas
+     logísticos tornaram-se cada vez mais complexos, exigindo maior visão sistêmica das organizações e
+     do mercado. A proliferação de variedades de produtos leva a uma grande diversidade e quantidade
+     de itens, o que conduz a uma situação complexa de administração dos estoques. Uma das mais
+     importantes tendências da logística empresarial moderna é o uso de operadores logísticos, que têm
+     como característica:
+     a) prestar serviço padronizado e genérico, concentrando-se em uma única atividade logística;
+     b) possuir conhecimentos práticos especializados e limitados;
+     c) oferecer serviços sob medida, com capacidade de análise e planejamento logístico;
+     d) apresentar contratos de serviços que tendem a ser de curto e médio prazo (seis meses a um ano);
+     e) oferecer custo específico minimizado da atividade contratada para a empresa contratante.
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (FGV/SEPOG RO/Técnico em Políticas Públicas e Gestão Governamental/2017)
+     Sobre o processo logístico, analise as afirmativas a seguir.
+     I. A distribuição física é o processo que começa na fábrica e faz as mercadorias
+     chegarem aos clientes, dentro dos prazos e ao menor custo.
+     II. A cadeia da demanda avalia o processo de como os próprios fornecedores da
+     empresa obtém seus insumos desde as matérias primas.
+     III. A logística de mercado planeja e controla os fluxos físicos de materiais e de
+     produtos finais entre os pontos de origem e os pontos de uso, com o objetivo de
+     atender aos clientes.
+     Está correto o que se afirma em:
+     a) II, apenas.
+     b) I e II, apenas.
+     c) II e III, apenas.
+     d) I e III, apenas.
+     e) I, II e III.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (FGV/SEPOG RO/Técnico em Políticas Públicas e Gestão Governamental/2017)
+     Sobre o processo logístico, analise as afirmativas a seguir.
+     I. A distribuição física é o processo que começa na fábrica e faz as mercadorias
+     chegarem aos clientes, dentro dos prazos e ao menor custo.
+     II. A cadeia da demanda avalia o processo de como os próprios fornecedores da
+     empresa obtém seus insumos desde as matérias primas.
+     III. A logística de mercado planeja e controla os fluxos físicos de materiais e de
+     produtos finais entre os pontos de origem e os pontos de uso, com o objetivo de
+     atender aos clientes.
+     Está correto o que se afirma em:
+     a) II, apenas.
+     b) I e II, apenas.
+     c) II e III, apenas.
+     d) I e III, apenas.
+     e) I, II e III.
+     GABARITO - D
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     11. (FGV/Pref. Paulínia-SP/Agente/2016) Graças à administração de recursos materiais, é
+     possível aumentar a eficiência dos processos, reduzir custos e controlar tanto os insumos
+     utilizados quanto o tempo gasto na cadeia de distribuição. Dentre os benefícios listados
+     a seguir, assinale V para o verdadeiro e F para o falso.
+     ( ) Melhor coordenação com fornecedores e clientes.
+     ( ) Fluxo constante e controlado de materiais e informação.
+     ( ) Níveis superiores de utilização de equipamento.
+     Os benefícios apresentados são, respectivamente,
+     a) V, F e V.
+     b) F, F e F.
+     c) V, V e F.
+     d) F, F e V.
+     e) V, V e V.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     11. (FGV/Pref. Paulínia-SP/Agente/2016) Graças à administração de recursos materiais, é
+     possível aumentar a eficiência dos processos, reduzir custos e controlar tanto os insumos
+     utilizados quanto o tempo gasto na cadeia de distribuição. Dentre os benefícios listados
+     a seguir, assinale V para o verdadeiro e F para o falso.
+     ( ) Melhor coordenação com fornecedores e clientes.
+     ( ) Fluxo constante e controlado de materiais e informação.
+     ( ) Níveis superiores de utilização de equipamento.
+     Os benefícios apresentados são, respectivamente,
+     a) V, F e V.
+     b) F, F e F.
+     c) V, V e F.
+     d) F, F e V.
+     e) V, V e V.
+     GABARITO - E
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     12. (FGV/COMPESA/Analista de Gestão/2014) O gerenciamento da cadeia de suprimentos (Supply
+     Chain Management) administra o sistema de logística integrada da empresa e as tecnologias
+     avançadas, para planejar e controlar fatores com o objetivo de produzir e distribuir produtos e
+     serviços para satisfazer o cliente. Com relação aos objetivos do gerente da Supply Chain,
+     assinale V para a afirmativa verdadeira e F para a falsa.
+     ( ) Satisfazer o cliente no médio prazo e no longo prazo, criando um diferencial em relação à
+     concorrência.
+     ( ) Minimizar os custos financeiros, pelo uso de menos capital de giro.
+     ( ) Maximizar o desperdício, evitando atividades que não agregam valor.
+     As afirmativas são, respectivamente,
+     a) V, V e V.
+     b) V, V e F.
+     c) F, V e F.
+     d) F, F e V.
+     e) V, F e F.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     12. (FGV/COMPESA/Analista de Gestão/2014) O gerenciamento da cadeia de suprimentos (Supply
+     Chain Management) administra o sistema de logística integrada da empresa e as tecnologias
+     avançadas, para planejar e controlar fatores com o objetivo de produzir e distribuir produtos e
+     serviços para satisfazer o cliente. Com relação aos objetivos do gerente da Supply Chain,
+     assinale V para a afirmativa verdadeira e F para a falsa.
+     ( ) Satisfazer o cliente no médio prazo e no longo prazo, criando um diferencial em relação à
+     concorrência.
+     ( ) Minimizar os custos financeiros, pelo uso de menos capital de giro.
+     ( ) Maximizar o desperdício, evitando atividades que não agregam valor.
+     As afirmativas são, respectivamente,
+     a) V, V e V.
+     b) V, V e F.
+     c) F, V e F.
+     d) F, F e V.
+     e) V, F e F.
+     GABARITO - C
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     13. (FGV/INEA/Analista Ambiental/2013) Contrato é o roteiro de relacionamento com o fornecedor responsável por
+     parte dos produtos ou serviços utilizados pela empresa. A partir dessa afirmativa, relacione alguns objetivos do
+     gerenciamento de contrato com as respectivas definições.
+     1. Qualidade do Fornecimento
+     2. Redução de Custos
+     3. Garantia de Fornecimento
+     4. Informação Atualizada
+     ( ) Consiste em instrumentalizar mecanismos que reduzam ao máximo as hipóteses de falhas na prestação;
+     ( ) Consiste em obter o produto ou serviço, dentro de sua especifidade, de forma a melhor servir à contratante;
+     ( ) Consiste no domínio do panorama como um todo e a possibilidade de obtenção imediata da informação
+     individualizada. É requisito de sobrevivência profissional no mundo contemporâneo.
+     ( ) Consiste em negociar quedas proporcionais no preço do objeto contratado, mediante reavaliação ou
+     redimensionamento do mesmo.
+     Assinale a alternativa que mostre a relação correta, de cima para baixo.
+     a) 1 – 3 – 4 – 2
+     b) 3 – 1 – 2 – 1
+     c) 1 – 2 – 3 – 4
+     d) 3 – 1 – 4 – 2
+     e) 2 – 4 – 3 – 1
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     13. (FGV/INEA/Analista Ambiental/2013) Contrato é o roteiro de relacionamento com o fornecedor responsável por
+     parte dos produtos ou serviços utilizados pela empresa. A partir dessa afirmativa, relacione alguns objetivos do
+     gerenciamento de contrato com as respectivas definições.
+     1. Qualidade do Fornecimento
+     2. Redução de Custos
+     3. Garantia de Fornecimento
+     4. Informação Atualizada
+     ( ) Consiste em instrumentalizar mecanismos que reduzam ao máximo as hipóteses de falhas na prestação;
+     ( ) Consiste em obter o produto ou serviço, dentro de sua especifidade, de forma a melhor servir à contratante;
+     ( ) Consiste no domínio do panorama como um todo e a possibilidade de obtenção imediata da informação
+     individualizada. É requisito de sobrevivência profissional no mundo contemporâneo.
+     ( ) Consiste em negociar quedas proporcionais no preço do objeto contratado, mediante reavaliação ou
+     redimensionamento do mesmo.
+     Assinale a alternativa que mostre a relação correta, de cima para baixo.
+     a) 1 – 3 – 4 – 2
+     b) 3 – 1 – 2 – 1
+     c) 1 – 2 – 3 – 4
+     d) 3 – 1 – 4 – 2
+     e) 2 – 4 – 3 – 1
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

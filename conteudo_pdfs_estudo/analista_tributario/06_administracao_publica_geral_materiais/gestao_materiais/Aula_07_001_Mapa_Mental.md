@@ -1,0 +1,321 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '07'
+titulo_aula: CONCEITOS GERAIS DE TRANSPORTE E NATUREZA DAS CARGAS
+---
+
+# CONCEITOS GERAIS DE TRANSPORTE E NATUREZA DAS CARGAS
+
+CONCEITOS GERAIS DE TRANSPORTE E NATUREZA DAS CARGAS
+
+  Transporte: movimentação de alguma coisa de um lugar para o outro                                                  Natureza dos produtos a transportar
+
+   Refere-se exclusivamente às cargas de produtos acabados que saem do                                                                 consolidada, peso individual de até 4
+                                                                                                            Carga geral
+                      depósito com destino ao mercado                                                                                               toneladas
+
+                                                                                                                                         sem embalagem e em grandes
+A movimentação de materiais é interna e termina quando o produto acabado                                                                        quantidades
+                           chega ao depósito
+                                                                                                 Carga a granel líquida e sólida
+
+                                                                                                                                        líquidos, grãos, carvão ou cascalho
+              A chamada "entrega" é parte da distribuição física
+
+
+                                                                                                                                      exige licença especial, mas trafega em
+                                                                                                        Carga semi-especial
+     Representa os meios pelos quais os produtos chegam aos clientes ou                                                                          qualquer estrada
+                               intermediários
+
+
+                                                                                                                                     exige estudo da rota: avenidas, pontes e
+                                                                                                          Carga especial
+                                                                                                                                                    viadutos
+ A distribuição interna vai do almoxarifado ao requisitante, dentro da empresa
+
+
+                                                                                                          Carga perigosa                cerca de 3 mil itens em 9 classes
+
+                                                                                                                                                    ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                 SELEÇÃO DO MODAL, INTERMODALIDADE E MULTIMODALIDADE
+
+
+                                              Diferença entre o preço de venda do produto na origem e no local de consumo
+
+
+ A seleção da modalidade                                                                             Carga: tamanho, peso, valor unitário,
+ depende de dois fatores                                                                                     embalagem e prazo
+        principais           Custo do transporte entre o centro de produção e o local de
+                                                     consumo
+                                                                                                 Modal: infraestrutura, tempo de viagem, custo
+                                                                                                                     e frete
+
+                                                                                                   cada modalidade tem tempos próprios de
+                                                       Tempo
+                                                                                                                  entrega
+
+
+ Outros fatores da escolha                                                                       carga, descarga e embalagem reduzem perdas
+                                                     Manuseio
+                                                                                                                    e custos
+
+
+                                                  Rotas de viagem                                   a roteirização é fator crítico da operação
+
+                             Intermodalidade: emissão individual de documento por modal e divisão de responsabilidade entre transportadores
+
+
+Uso de mais de um modal no          Multimodalidade: emissão de apenas um documento cobrindo o trajeto total, da origem ao destino
+       mesmo trajeto
+
+                                      Atenção: multimodal é regido por um único contrato; intermodal tem um contrato por trecho
+
+                                                                                                                                      ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                               ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                             GERENCIAMENTO DA ATIVIDADE DE TRANSPORTE
+
+                                                      Três pilares do Departamento de Transportes e
+Frota própria ou transportadores terceirizados                                                                            Participação dos modais no Brasil
+                                                                         Logística
+
+  Cada situação exige análise do cenário: o que é                                         acima do mercado,            Rodoviário 60-70% da carga; ferroviário 15%;
+                                                           Custos
+ vantajoso para uma organização pode gerar custo                                        inviabilizam a operação                cabotagem 10%; aéreo 1%
+             desnecessário para outra
+
+
+                                                                                         críticos em perecíveis;     Agências: ANTT (terrestre), ANTAQ (aquaviário) e
+                                                           Prazos                       atrasos geram perda de                        ANAC (aéreo)
+A transportadora remunera seu serviço pelo frete e                                                vendas
+adicionais, considerando custos diretos e indiretos
+
+                                                                                                                        Os três pilares são a base das vantagens
+                                                                                                                       competitivas e dos diferenciais de mercado
+                                                                                       embalagem preserva o
+ A frota própria exige gerir aquisição, manutenção,                                   produto até o cliente, sem
+    pessoal, roteirização e mudanças de cenário                                                avaria
+
+                                                         Qualidade
+
+O planejamento cabe a um especialista, que decide
+          quais modais usar ou conjugar                                                 críticos: carga, descarga,
+                                                                                        percurso e transbordos
+
+                                                                                                                                           ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                             MODAIS TERRESTRES: RODOVIÁRIO E FERROVIÁRIO
+
+Transporte rodoviário: usa estradas e rodovias, do depósito até o cliente                                Transporte ferroviário: limitado pela malha ferroviária existente
+
+     Modal mais flexível - transporte porta a porta (door to door, D2D)                                Custo reduzido pelo grande número de vagões de uma única composição
+
+                                                                                                            Velocidade homogênea e mais baixa, com traçado pré-fixado
+Custos operacionais elevados: carga limitada por veículo, motorista e ajudante
+
+
+                                                                                                         É o modal menos flexível; embarque e desembarque só nos terminais
+
+Depende da infraestrutura: estradas, pedágios, combustíveis e riscos de roubo
+                                                                                                        Quase sempre exige transbordo para outro modal completar o trajeto
+
+
+         Indicado para volumes menores e prazos de entrega curtos
+                                                                                                           Cargas de maior volume e peso, com prazos de entrega dilatados
+
+
+     Não tem barreiras geográficas e pode movimentar qualquer produto
+                                                                                                         Tração elétrica, a diesel ou a vapor, com vagões de formatos variados
+
+                                                                                                 Atenção: a flexibilidade do ferroviário é baixa; se a banca afirmar o contrário,
+                                                                                                     associando alta flexibilidade a baixo custo operacional, está errado
+
+                                                                                                                                                         ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                           MODAIS AQUAVIÁRIO, AÉREO, DUTOVIÁRIO E INTERMODAL
+
+      Transporte aquaviário: efetuado por navios, barcos e barcaças                                          Transporte dutoviário: por dutos ou tubos, para petróleo e gás
+
+
+         Divide-se em marítimo (mares), fluvial (rios) e lacustre (lagos)                                           Elevado investimento inicial e elevado custo de capital
+
+
+                                                                                                                     Baixos custos operacionais, mas baixa flexibilidade
+Marítimo: longo curso (entre nações) e cabotagem (entre portos, sem perder a
+                                costa de vista)
+                                                                                                          Indicado apenas para materiais específicos, ao contrário dos demais modais
+
+ Baixo custo unitário, muito lento e dependente das condições meteorológicas
+
+
+                                                                                                             Transporte intermodal: tráfego misto, com várias modalidades
+  Fluvial e lacustre são pouco usados no Brasil, apesar do potencial das bacias
+
+                                                                                                                 Usado para localidades de difícil acesso ou extrema distância
+
+
+                                                                                                               Exige planejamento logístico para definir o modal de cada trecho
+     Transporte aéreo: aeronaves de carga, de passageiros ou mistas
+
+
+      Maior agilidade e prioridade de entrega, porém é o modal mais caro
+
+
+    Cargas nobres, de pequeno volume e alto valor, ou locais de difícil acesso
+
+                                                                                                                                                             ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                          DISTRIBUIÇÃO FÍSICA: CONCEITO, ETAPAS E FORNECIMENTO
+
+Distribuição física (conceito de Marco Aurélio
+                                                                   Etapas da distribuição                                 Processos de fornecimento
+                      Dias)
+
+                                                                                            retirar o material
+Utilização de canais de distribuição e facilidades   Separação/prepara                                                                  entrega por tabelas de
+                                                                                            acondicionado no
+ operacionais para maximizar a lucratividade,               ção                                                                        provisão, sem requisição
+                                                                                                armazém
+  equilibrando atendimento ao cliente e custo
+                    incorrido
+
+                                                                                                                                      uso facultativo, em épocas
+                                                                                     após conferência, liberar o    Por pressão
+                                                                                                                                             combinadas
+                                                                                      material para transporte
+    É o elo entre a fábrica e a área comercial, e
+      influencia a rentabilidade da empresa
+                                                        Expedição
+                                                                                                                                        limpeza, expediente e
+                                                                                                                                         gêneros alimentícios
+                                                                                         destina-se a usuários
+Deixou de ser vista apenas como fonte geradora de                                        internos ou clientes
+                       custos                                                                  externos
+
+                                                                                                                                       o mais comum no dia a
+                                                                                                                                        dia das organizações
+
+A empresa aceita aumentar o custo da distribuição                                                                  Por requisição
+  quando isso gera mais valor ao produto, como
+            menor prazo de entrega                                                                                                        entrega mediante
+                                                                                                                                         requisição de uso do
+                                                                                                                                                usuário
+
+                                                                                                                                     ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                             ESTRUTURAS FÍSICAS, CANAIS DE DISTRIBUIÇÃO E GRAU DE ATENDIMENTO
+
+                           Sistema de vendas próprio: produção em massa e
+                                        distribuição acelerada
+
+                          Sistema de vendas de terceiros: produtos populares
+                                       que se vendem sozinhos
+   Quatro estruturas                                                                                                  A escolha avalia clientes, produtos, intermediários,
+físicas de distribuição                                                                                                    concorrentes, empresa e meio ambiente
+                          Agentes e representantes comissionados: produtos
+                                         morosos ou de luxo
+                                                                                                                          Fabricante - Cliente: venda sob pressão,
+                                                                                                                      concorrência aguda ou preferência do comprador
+                             Distribuidores especializados: uso técnico e                        Três opções de
+                                     industrial, com exclusividade
+                                                                                               estratégia de canais
+                                                                                                                          Fabricante - Varejista - Cliente: muitos
+                                                                                                                      consumidores, produtos perecíveis, preço unitário
+                                                                                                                                           alto
+                             Grau de atendimento = pedidos entregues /
+                                         pedidos realizados
+                                                                                                                        Fabricante - Atacadista - Varejista - Cliente:
+                                                                                                                       sistema tradicional, para bens de conveniência
+Grau de atendimento:
+                            Dificilmente será de 100%, pois atender todos os
+conceito próximo do                 pedidos costuma ser caro demais
+  nível de serviço
+
+                            Varejista vende ao consumidor final; atacadista
+                                   vende a varejistas e comerciantes
+
+                                                                                                                                               ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                    CUSTOS DE DISTRIBUIÇÃO, ROTEIRIZAÇÃO E FATOR DE ESTIVA
+
+                                Venda direta ao consumidor: método mais dispendioso - grande equipe de vendas, muitas entregas e alto risco de
+                                                                                 crédito
+
+Estratégias de distribuição e
+        seus custos                  Venda ao varejo: centralização e volume reduzem custo e risco, mas a negociação de preço é duríssima
+
+
+                                       Venda por atacadistas e distribuidores: reduz pessoal, porém insere mais um intermediário no lucro
+
+                                                 Objetivo é reduzir ao mínimo o tempo total do percurso e o número de veículos
+
+
+ Roteirização: escolha do                          Modelo inspirado no comportamento das formigas e no rastro de feromônio
+ melhor trajeto de origem e
+          destino
+                                                                                                      controla de forma integrada custos, frota e
+                                        TMS (Transportation Management System)
+                                                                                                                     rastreamento
+
+                                           Volume em metros cúbicos ocupado por uma tonelada métrica de mercadoria embalada
+
+
+                                                Quanto menor o fator de estiva, melhor: cabe mais mercadoria no mesmo espaço
+       Fator de estiva
+
+                                                                                                       carreta de 90 m³ x 300 kg = 27.000 kg de
+                                No rodoviário usa-se o fator 300 (300 kg por metro cúbico)
+                                                                                                                       payload
+
+                                                                                                                                        ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---

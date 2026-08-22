@@ -1,0 +1,2927 @@
+                                                      Aula 04
+                          Receita Federal (Analista Tributário)
+                                             Fluência em Dados
+
+
+
+
+                                                           Autor:
+                                     Diego Carvalho, Emannuelle
+                        Gouveia Rolim, Equipe Informática
+                                           e TI, Renato da Costa
+
+                                             08 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+      Aula 04
+
+
+
+
+                                                                                     Índice
+1) Análise de Informações - Banco de Dados
+..............................................................................................................................................................................................3
+
+2) Questões Comentadas - Análise de Informações - Banco de Dados - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            26
+
+3) Lista de Questões - Análise de Informações - Banco de Dados - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            46
+
+
+
+
+                Receita Federal (Analista Tributário) Fluência em Dados                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           58
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                                        APRESENTAÇÃO
+Futuros colegas de serviço público, iniciamos aqui a nossa aula de conceitos básicos de banco de
+dados. Galera, essa disciplina pode ser bastante extensa e complexa, por outro lado o nosso
+objetivo aqui é simplesmente entender seus conceitos mais fundamentais. Fiquem relaxados que
+ao final dessa aula vocês vão dizer: “Ahhhh... fácil demais, professor!”. É sério, assunto tranquilo e
+interessante! Prometo que vocês vão curtir...
+
+       PROFESSOR DIEGO CARVALHO - www.instagram.com/professordiegocarvalho
+
+
+
+
+Galera, todos os tópicos da aula possuem Faixas de Incidência, que indicam se o assunto cai
+muito ou pouco em prova. Diego, se cai pouco para que colocar em aula? Cair pouco não significa
+que não cairá justamente na sua prova! A ideia aqui é: se você está com pouco tempo e precisa ver
+somente aquilo que cai mais, você pode filtrar pelas incidências média, alta e altíssima; se você tem
+tempo sobrando e quer ver tudo, vejam também as incidências baixas e baixíssimas. Fechado?
+
+                                             INCIDÊNCIA EM PROVA: baixíssima
+                                                INCIDÊNCIA EM PROVA: baixa
+                                               INCIDÊNCIA EM PROVA: média
+                                                INCIDÊNCIA EM PROVA: ALTA
+                                              INCIDÊNCIA EM PROVA: Altíssima
+
+Além disso, essas faixas não são por banca – é baseado tanto na quantidade de vezes que caiu em
+prova independentemente da banca e também em minhas avaliações sobre cada assunto...
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                     3
+        www.estrategiaconcursos.com.br                                                             58
+
+                                    https://t.me/KakashiAssinaturasBot
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 04
+
+
+
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        4
+      www.estrategiaconcursos.com.br                                                 58
+
+                                  https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                                       BANCO DE DADOS
+Conceitos Básicos
+                                                                                       INCIDÊNCIA EM PROVA: baixíssima
+
+
+Galera, agora vamos falar sobre Banco de Dados! Vamos ver a definição de banco de dados de
+acordo com três dos mais consagrados autores desse tema:
+
+De acordo com C. J. Date:
+
+       Banco de dados é uma coleção de dados persistentes que é utilizada por sistemas de aplicação
+       de uma organização, cujo esquema e conteúdo são definidos, organizados e mantidos pelo
+       Sistema de Gerenciamento de Banco de Dados (SGBD).
+
+De acordo com Abraham Siberschatz:
+
+       Um banco de dados é uma coleção de dados persistentes, utilizados pelas aplicações de uma
+       organização, que são independentes de programas de aplicação e dispositivos de
+       armazenamento físico.
+
+De acordo com Ramez Elmasri:
+
+       Um banco de dados é uma coleção de dados relacionados, representando informações sobre um
+       domínio específico. Ele é projetado para ser construído, mantido e acessado de forma
+       conveniente e eficiente.
+
+No entanto, o uso comum do termo banco de dados normalmente é mais restrito e tem as
+seguintes propriedades implícitas:
+
+▪ Propriedade #1: um banco de dados representa algum aspecto do mundo real – algumas
+  vezes chamado de Minimundo ou Universo de Discurso. As mudanças no minimundo são
+  refletidas no banco de dados;
+
+▪ Propriedade #2: um banco de dados é uma coleção logicamente coerente de dados inter-
+  relacionados com algum significado inerente. Galera, se você tiver uma variedade aleatória de
+  dados, você não tem um banco de dados;
+
+▪ Propriedade #3: um banco de dados é projetado, construído e populado com dados para uma
+  finalidade específica. Possui um grupo definido de usuários e algumas aplicações específicas
+  nas quais esses usuários estão interessados.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                    5
+        www.estrategiaconcursos.com.br                                                                            58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+A definição ficou mais clara agora? Um banco de dados representa algum aspecto do mundo real
+por meio de dados logicamente relacionados para uma finalidade específica. Quando pensamos
+em nosso dia a dia, é possível notar que interagimos com bancos de dados o tempo inteiro – desde
+quando sacamos dinheiro em um caixa eletrônico até quando compramos um produto em uma loja
+online ou visualizamos nossas redes sociais. E o que são dados?
+
+De acordo com o autor Ramez Elmasri, dados são fatos brutos, que podem consistir em números,
+palavras, imagens, sons, vídeos ou qualquer forma de informações que ainda não tenham sido
+processadas ou organizadas para obter um significado específico. Os dados, por si só, não
+possuem contexto ou relevância imediata, sendo apenas representações simbólicas de eventos,
+entidades ou conceitos.
+
+A transformação dos dados em informações significativas ocorre por meio do processo de
+organização, interpretação e análise, geralmente realizado por sistemas de gerenciamento de
+banco de dados para fornecer suporte à tomada de decisões e à execução de tarefas. Ainda de
+acordo com Elmasri, a complexidade e o tamanho dos bancos de dados como considerações
+importantes no projeto e gerenciamento de sistemas de banco de dados.
+
+▪ Complexidade: a complexidade de um banco de dados está relacionada à quantidade e
+  variedade de informações que ele armazena, bem como às relações e interações entre os dados.
+  Bancos de dados complexos podem envolver várias tabelas, relacionamentos complexos,
+  restrições de integridade e processos de recuperação avançados. A complexidade aumenta os
+  desafios do projeto, implementação e manutenção do banco de dados.
+
+▪ Tamanho: o tamanho de um banco de dados se refere à quantidade de dados armazenados no
+  sistema. Elmasri destaca que o tamanho dos bancos de dados pode variar amplamente, desde
+  pequenos conjuntos de dados até enormes volumes de informações. Ele enfatiza que o tamanho
+  do banco de dados pode impactar a capacidade de armazenamento, desempenho, eficiência e
+  custo de gerenciamento do sistema.
+
+Outra característica importante é que bancos de dados podem ser gerados e mantidos de forma
+manual ou computadorizada. A geração e manutenção manual de bancos de dados envolvem o
+uso de técnicas tradicionais, nas quais os dados são inseridos, atualizados e consultados por meio
+de interações humanas diretas. Esse processo pode incluir a criação de tabelas, definição de
+esquemas, inserção de registros e realização de consultas utilizando comandos de consulta.
+
+Por outro lado, a geração e manutenção computadorizada de bancos de dados envolvem o uso de
+Sistemas de Gerenciamento de Banco de Dados (SGBDs), que automatizam muitas das tarefas
+relacionadas ao gerenciamento de dados. Os SGBDs fornecem interfaces e linguagens de consulta
+que permitem aos usuários definir a estrutura do banco de dados, inserir e atualizar os dados de
+forma eficiente, realizar consultas complexas e gerenciar a segurança e integridade dos dados.
+
+Vamos resumir: um banco de dados é uma coleção de dados logicamente relacionados que
+representam algum aspecto do mundo real, podendo ter qualquer tamanho e complexidade, e
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 6
+        www.estrategiaconcursos.com.br                                                         58
+
+                                    https://t.me/KakashiAssinaturasBot
+    Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+    Aula 04
+
+
+
+
+podendo ser manual ou computadorizado. Aliás, quanto maior e mais complexo um banco de
+dados, maior a necessidade de organizar e gerenciar as informações de modo que os usuários
+possam consultar, recuperar e atualizar os dados quando necessário.
+
+Nós já fizemos algumas menções, mas agora vamos falar um pouco mais sobre os Sistemas
+Gerenciadores de Bancos de Dados (SGBDs).
+
+De acordo com C. J. Date:
+
+           Um sistema gerenciador de banco de dados é um software que permite que um usuário defina,
+           crie e mantenha um banco de dados e forneça facilidades para manipulação dos dados
+           armazenados.
+
+De acordo com Abraham Siberschatz:                                                  ==219a34==
+
+
+
+
+           Um sistema gerenciador de banco de dados é um software que permite aos usuários definir, criar,
+           manipular e controlar o acesso aos bancos de dados. Ele fornece mecanismos para
+           armazenamento, recuperação, atualização e segurança dos dados.
+
+De acordo com Ramez Elmasri:
+
+           Um SGBD é um software que permite a criação, a manutenção e a utilização de um banco de
+           dados. Ele fornece uma interface para que os usuários definam a estrutura do banco de dados,
+           insiram e atualizem os dados, realizem consultas e executem outras operações de
+           gerenciamento do banco de dados.
+
+Em suma, um SGBD é uma coleção de programas que facilita o processo de definição, construção,
+manipulação, compartilhamento, proteção e manutenção de um banco de dados:
+
+              processos                                                                          DESCRIÇÃO
+                                 Processo que envolve especificar os tipos, estruturas e restrições dos dados a serem
+                Definição
+                                 armazenados1;
+                                 Processo que envolve armazenar os dados em algum meio controlado pelo sistema
+            Construção
+                                 gerenciador de banco de dados;
+                                 Processo que inclui funções como consulta – para recuperar dados específicos; atualização –
+           Manipulação
+                                 para refletir mudanças no minimundo; e geração de relatórios;
+                                 Processo que permite que diversos usuários e programas acessem um banco de dados
+  Compartilhamento
+                                 simultaneamente;
+                                 Processo que inclui a proteção do sistema contra defeitos (ou falhas) de hardware ou
+                Proteção
+                                 software, e proteção de segurança contra acesso não autorizado ou malicioso;
+
+
+
+1 Detalhe importante: a definição/descrição do banco de dados fica armazenada no próprio banco de dados na forma de um catálogo ou dicionário – esses dados sobre o banco de dados
+são chamados de metadados.
+
+
+
+
+             Receita Federal (Analista Tributário) Fluência em Dados                                                                                                          7
+             www.estrategiaconcursos.com.br                                                                                                                                  58
+
+                                                        https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                       Processo que permite a evolução à medida que os requisitos mudam com o tempo, uma vez
+       manutenção
+                       que um banco de dados pode ter um ciclo de vida de muitos anos.
+
+
+Atualmente existem diversos Sistemas Gerenciadores de Bancos de Dados no mercado como é
+possível ver na tabela seguinte:
+
+               SGBD                                               DESCRIÇÃO
+                       É um SGBD relacional amplamente utilizado, conhecido por sua confiabilidade, escalabilidade
+             Oracle
+                       e recursos avançados.
+                       É um SGBD de código aberto que se destaca pela sua facilidade de uso, desempenho e
+              Mysql
+                       popularidade em aplicações web.
+                       É um SGBD relacional desenvolvido pela Microsoft, utilizado principalmente em ambientes
+        Sql server
+                       Windows. Oferece recursos abrangentes e integração com outras tecnologias Microsoft.
+                       É um SGBD de código aberto conhecido por sua robustez, confiabilidade e recursos
+       Postgresql
+                       avançados, como suporte a dados geoespaciais.
+                       É um SGBD NoSQL orientado a documentos, projetado para escalabilidade e flexibilidade,
+            Mongodb
+                       sendo amplamente utilizado em aplicações web e mobile.
+                       É um SGBD relacional que oferece alto desempenho, segurança e suporte a múltiplas
+             Ibm db2
+                       plataformas, sendo utilizado em diversos setores da indústria.
+
+
+Agora vejam que interessante: nós temos o banco de dados (coleção organizada de dados
+relacionados) e temos o SGBD (software que possui funcionalidades que permitem acessar,
+manipular, gerenciar, etc o banco de dados), mas ainda faltam as aplicações. O que seria isso, Diego?
+Aplicações são os programas que utilizam os dados armazenados no banco de dados para
+realizar suas funções.
+
+Essas aplicações podem ser desenvolvidas em diversas linguagens de programação e são
+responsáveis por solicitar e manipular os dados por meio de consultas e atualizações.
+
+
+
+
+                   APLICAÇÕES
+                   APLICAÇÕES
+                   APLICAÇÕES
+                   APLICAÇÕES
+As aplicações enviam consultas ou solicitações a um SGBD, que por sua vez acessa um banco
+de dados. Querem ver um exemplo? Vamos imaginar uma loja online! Nesse caso, o banco de dados
+armazena dados sobre produtos disponíveis para venda, clientes registrados, pedidos realizados e
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                  8
+        www.estrategiaconcursos.com.br                                                                          58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+histórico de compras. O SGBD, por sua vez, é responsável por gerenciar esse banco de dados,
+garantindo a integridade, a segurança e a eficiência das operações realizadas sobre os dados.
+
+As aplicações desse sistema podem incluir:
+
+▪ Página de Cadastro: permite aos clientes criar uma conta na loja, coletando informações
+  pessoais como nome, endereço e informações de pagamento. Quando um cliente se cadastra,
+  os dados fornecidos são armazenados no banco de dados por meio do SGBD.
+
+▪ Página de Produtos: exibe uma lista de produtos disponíveis na loja. Essa página consulta o
+  banco de dados por meio do SGBD para obter as informações sobre os produtos, como nome,
+  descrição, preço e disponibilidade.
+
+▪ Carrinho de Compras: permite aos clientes adicionar produtos ao carrinho de compras. Essa
+  aplicação atualiza o banco de dados por meio do SGBD, registrando os itens selecionados pelo
+  cliente.
+
+▪ Finalização do Pedido: processa os pedidos dos clientes. Quando um cliente finaliza o pedido,
+  essa aplicação registra as informações do pedido no banco de dados por meio do SGBD,
+  incluindo os itens selecionados, o valor total e o endereço de entrega.
+
+▪ Histórico de Compras: exibe o histórico de compras de um cliente. Essa aplicação consulta o
+  banco de dados por meio do SGBD para obter informações sobre os pedidos anteriores do
+  cliente, como data, itens comprados e status do pedido.
+
+                                                   Nesse exemplo, o banco de dados armazena os dados
+                                                   relacionados à loja online, o SGBD gerencia esses
+                                                   dados, garantindo a consistência e a integridade, e as
+                                                   aplicações interagem com o banco de dados por meio
+                                                   do SGBD para realizar operações como cadastro de
+                                                   clientes, consulta de produtos, registro de pedidos e
+                                                   exibição de histórico de compras. Para finalizar, é
+                                                   importante ressaltar que a união do BD com SGBD é
+                                                   chamada de Sistema de Banco de Dados (SBD).
+
+                                                              SBD = BD + SGBD +
+                                                                [aplicações]
+                                                                  Lembrando que aplicações não são obrigatórias!
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                    9
+        www.estrategiaconcursos.com.br                                                                             58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Características de Banco de Dados
+                                                                                           INCIDÊNCIA EM PROVA: baixa
+
+
+Diversas características distinguem a abordagem de banco de dados da técnica muito mais antiga
+de escrever programas customizados para acessar os dados armazenados em arquivos. No
+processamento de arquivo tradicional, cada usuário define e implementa os arquivos necessários
+para uma aplicação específica como parte da programação da aplicação. Por exemplo: um usuário,
+o departamento de registro acadêmico, pode manter arquivos sobre os alunos e suas notas.
+
+Os programas para imprimir o histórico do aluno e entrar com novas notas são implementados
+como parte da aplicação. Um segundo usuário, o departamento de finanças, pode registrar as
+mensalidades dos alunos e seus pagamentos. Embora os dois usuários estejam interessados em
+dados sobre os alunos, cada usuário mantém arquivos separados — e programas para manipular
+esses arquivos —, pois cada um requer algum dado não disponível nos arquivos do outro usuário.
+
+Essa redundância na definição e no armazenamento de dados resulta em espaço de
+armazenamento desperdiçado e em esforços redundantes para manter os dados comuns
+atualizados. Na abordagem de banco de dados, um único repositório mantém dados que são
+definidos uma vez e depois acessados por vários usuários, repetidamente, por meio de
+consultas, transações e programas de aplicação.
+
+As principais características da abordagem de banco de dados versus a abordagem de
+processamento de arquivos são as seguintes:
+
+                                  CARACTERÍSTICAS DA ABORDAGEM DE BANCO DE DADOS
+                         Natureza de autodescrição de um sistema de banco de dados
+                          Isolamento entre programas e dados, e abstração de dados
+                                   Suporte de múltiplas visões dos dados
+                     Compartilhamento de dados e processamento de transação multiusuário
+
+
+Natureza de autodescrição de um sistema de banco de dados
+
+A palavra “autodescrição” já dá a dica! Os bancos de dados não contêm apenas dados – eles
+contêm também uma definição ou descrição completa da estrutura e restrições desses dados.
+Então, se ele armazena uma tabela com dados sobre as notas de um aluno, ele também armazenará
+os dados sobre essa tabela. Que dados, professor? Ele armazena qual o nome da tabela, o nome de
+suas colunas, o tamanho de cada coluna, entre outros.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                  10
+        www.estrategiaconcursos.com.br                                                                           58
+
+                                    https://t.me/KakashiAssinaturasBot
+    Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+    Aula 04
+
+
+
+
+Vejam que a imagem acima não traz informações sobre os alunos, você não consegue ver nenhum
+nome de aluno, nem idade, nada disso. A imagem acima traz informações sobre a tabela que
+armazena dados de alunos. Os bancos de dados possuem um catálogo2 com informações de cada
+tabela, sendo que as informações armazenadas no catálogo são chamadas de metadados, uma vez
+que trazem dados sobre os dados.
+
+Isolamento entre programas e dados, e abstração de dados
+
+Vocês se lembram da imagem de algumas páginas atrás em que nós definimos Aplicações, SGBD e
+Banco de Dados? Pois é, tudo separado bonitinho! No processamento de arquivos, as aplicações
+eram misturadas com a estrutura de arquivos. É por essa razão que dizemos que há um
+isolamento entre programas e dados. Se você modifica suas aplicações, não interfere nos dados;
+se você modifica seus dados, não interfere nas aplicações. Prosseguindo...
+
+Vocês sabem o que quer dizer abstração? Essa é uma palavra muito comum na área de tecnologia da
+informação e é bom que vocês saibam responder de bate-pronto: abstração é a subtração de
+detalhes. Como consequência, podemos concluir que quanto mais abstrato, menos detalhes; e
+quanto menos abstrato, mais detalhes. A seguir temos uma imagem aérea da Catedral de Brasília.
+Pergunta: qual delas é mais abstrata? Da direita! Por quê? Porque tem menos detalhes.
+
+A característica que permite a independência de dados da aplicação e a independência da
+operação da aplicação é chamada de abstração de dados. Um SGBD oferece aos usuários uma
+representação conceitual de dados que não inclui muitos dos detalhes de como os dados são
+armazenados ou como as operações são implementadas. De maneira informal, um modelo de
+dados é uma abstração de dados usada para oferecer essa representação conceitual.
+
+
+
+
+A abstração é a base para se conseguir o isolamento entre programas e dados. Por quê? Porque a
+aplicação não precisa de detalhes do SGBD – ela precisa apenas de uma interface. Pensando em
+um exemplo mais grosseiro: quando você quer que os correios façam uma entrega para outra
+
+
+
+2 Catálogo de Dados é também chamado de Dicionário de Dados.
+
+
+
+
+             Receita Federal (Analista Tributário) Fluência em Dados                        11
+             www.estrategiaconcursos.com.br                                                 58
+
+                                                     https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+pessoa, você não quer saber se eles vão enviar de carro, navio ou avião – você só precisa ter a
+garantia de que a entrega seja realizada.
+
+Suporte de Múltiplas Visões de Dados
+
+Pessoal, eu falei para vocês que o banco de dados funciona como um repositório central de dados –
+diferente dos arquivos. Dessa forma, é possível que várias aplicações tentem acessá-lo e cada
+uma pode ter uma necessidade diferente. Imagine que uma determinada aplicação não precise
+visualizar toooodos os dados – pode ser que ela precise acessar apenas alguns. Logo, nós podemos
+afirmar que aplicações diferentes exigem pontos de vista ou visões diferentes do banco.
+
+Uma visão (ou view) é, em geral, um subconjunto do banco de dados. Dessa forma, se você deseja
+visualizar apenas uma parte dos dados de uma tabela, você pode criar uma visão personalizada
+apenas para a sua aplicação ou para um conjunto de usuários. Eu sei que isso pode não estar tão
+claro agora, mas ficará mais claro quando prosseguirmos com a teoria. Guardem apenas que um
+banco de dados oferece suporte a múltiplas visões de dados.
+
+Compartilhamento de Dados e Processamento de Transação
+
+Um SGBD multiusuário é todo aquele SGBD que suporta que múltiplas aplicações – também
+chamadas de usuários – acessem o banco de dados ao mesmo tempo. Galera, isso é essencial se o
+dado para múltiplas aplicações estiver sendo mantido em um único banco de dados. O SGBD
+precisa incluir um software de controle de concorrência para garantir que vários usuários
+interajam simultaneamente com o banco de dados sem problemas.
+
+Imagine a seguinte situação hipotética: o departamento de finanças e o departamento pedagógico
+da escola tem acesso a mesma tabela de dados pessoais dos alunos. Concordam? Agora imaginem
+que José, do Departamento de Finanças, tente atualizar um dado pessoal ao mesmo tempo
+que Maria, do Departamento Pedagógico, também tenta atualizar exatamente o mesmo dado.
+O que vai acontecer? Merd#%@, professor! Nada! Nadica de nada...
+
+Sabe por quê? Porque o SGBD possui um software de controle de concorrência para garantir que
+vários usuários tentando atualizar o mesmo dado façam isso de uma maneira controlada, de modo
+que o resultado dessas transações seja correto. Imagine você tentando reservar o assento na janela
+em um voo internacional ao mesmo tempo que outra pessoa esteja tentando reservar o mesmo
+assento. O SGBD garante que operações concorrentes operem de maneira correta!
+
+De acordo com outro doutrinador (C. J. Date), uma abordagem de banco de dados possui os
+seguintes benefícios: o dado pode ser compartilhado; a redundância pode ser reduzida;
+inconsistências podem ser evitadas; pode-se utilizar o suporte a transações; a integridade pode ser
+mantida; a segurança pode ser aperfeiçoada; requisitos conflitantes podem ser balanceados; e
+padrões podem ser utilizados.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 12
+        www.estrategiaconcursos.com.br                                                          58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Transações de Banco de Dados
+                                                                                       INCIDÊNCIA EM PROVA: ALTA
+
+
+Galera, eu passei direto por uma palavrinha importantíssima alguns páginas atrás: transação.
+Vamos ver sua definição de acordo com nossos autores favoritos:
+
+De acordo com C. J. Date:
+
+       Uma transação é uma unidade de programa de usuário que trata do acesso e possivelmente da
+       atualização do banco de dados. Uma transação é uma sequência de uma ou mais ações
+       (operações) de acesso ao banco de dados, como leitura, gravação, exclusão, inserção, etc.
+
+De acordo com Abraham Siberschatz:
+
+       Uma transação é uma sequência de ações executadas como uma unidade indivisível de trabalho.
+       Uma transação pode realizar várias operações de banco de dados, como leitura e gravação, e
+       garante a consistência do banco de dados por meio da preservação das propriedades ACID.
+
+De acordo com Ramez Elmasri:
+
+       Uma transação é uma sequência de operações de banco de dados que é tratada como uma
+       unidade indivisível de trabalho. Ela representa uma tarefa lógica completa realizada por um
+       usuário/aplicação, envolvendo a leitura e/ou modificação dos dados armazenados.
+
+Em suma, uma transação é um programa em execução ou processo que inclui um ou mais
+acessos ao banco de dados, como fazer a leitura de dados ou inserir, excluir e atualizar dados
+do banco. Ela executa um acesso logicamente correto a um banco de dados quando ela é executada
+de forma completa e sem interferência de outras transações. Elas possuem quatro propriedades
+importantíssimas:
+
+Atomicidade
+
+Essa propriedade indica que uma transação é uma unidade indivisível de trabalho, onde todas
+as suas operações são tratadas como uma única entidade. Se uma operação falhar em qualquer
+momento, todas as operações da transação são desfeitas e o banco de dados retorna ao estado
+anterior à transação. A atomicidade em transações de banco de dados pode ser explicada por meio
+de uma analogia com uma transferência bancária.
+
+Imagine que você precisa transferir dinheiro de uma conta para outra. A atomicidade garante que
+a transferência seja tratada como uma operação indivisível, ou seja, ou ela é realizada
+completamente ou não é realizada de forma alguma. Analogamente, pense na transferência
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                             13
+        www.estrategiaconcursos.com.br                                                                      58
+
+                                    https://t.me/KakashiAssinaturasBot
+    Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+    Aula 04
+
+
+
+
+bancária como uma transação. Durante essa transação, duas ações são executadas: a retirada de
+dinheiro da conta de origem e o depósito na conta de destino.
+
+A atomicidade garante que essas ações ocorram em conjunto, de forma que se uma delas
+falhar, a transação inteira é revertida e nenhuma modificação é feita no banco de dados. Por
+exemplo, se ocorrer um problema técnico durante a transferência, e o dinheiro for retirado da conta
+de origem, mas não for depositado na conta de destino, a atomicidade garante que a transação seja
+revertida, e o dinheiro seja devolvido à conta de origem.
+
+Isso evita que o banco de dados fique em um estado inconsistente, onde parte da transação foi
+realizada e a outra não. Dessa forma, a atomicidade assegura que as operações de uma
+transação sejam tratadas como uma unidade indivisível, garantindo a consistência e a
+integridade do banco de dados. Quando uma transação é desfeita, dizemos que houve um rollback
+e quando uma transação é confirmada, dizemos que houve um commit.
+
+Consistência
+
+Essa propriedade garante que uma transação leva o banco de dados de um estado consistente
+para outro estado consistente. Isso significa que as restrições de integridade 3 definidas no banco
+de dados são mantidas durante a execução da transação, preservando a validade e a coerência dos
+dados. A consistência em transações de banco de dados pode ser explicada por meio de uma
+analogia com a montagem de um quebra-cabeça.
+
+Imagine que você está montando um quebra-cabeça com várias peças. Cada peça representa um
+dado ou uma informação no banco de dados. A consistência garante que todas as peças estejam
+corretamente encaixadas, formando uma imagem completa e sem contradições. Analogamente,
+pense na montagem do quebra-cabeça como uma transação no banco de dados. Durante essa
+transação, várias operações são executadas para inserir, atualizar ou excluir dados.
+
+A consistência garante que, ao final da transação, o banco de dados esteja em um estado
+coerente e livre de contradições. Por exemplo, se uma operação atualiza um dado em uma tabela
+e outra operação tenta ler esse dado ao mesmo tempo, a consistência garante que a leitura só
+ocorra após a atualização estar concluída. Isso evita que a leitura seja feita com dados
+desatualizados ou inconsistentes.
+
+Da mesma forma, a consistência garante que as restrições e regras definidas para os dados sejam
+obedecidas. Por exemplo, se uma transação tentar inserir um novo registro que viole uma restrição
+de integridade, como uma chave primária duplicada, a consistência garante que a transação seja
+abortada e o banco de dados permaneça consistente. Ela garante que operações sejam realizadas
+de forma que o banco de dados mantenha um estado coerente, sem violações de restrições.
+
+
+
+3
+ Regra ou condição definida em um banco de dados para garantir a consistência e a validade dos dados armazenados. Essas restrições são aplicadas
+para evitar que dados inválidos, inconsistentes ou que violem regras específicas sejam inseridos, atualizados ou excluídos do banco de dados.
+
+
+
+           Receita Federal (Analista Tributário) Fluência em Dados                                                                          14
+           www.estrategiaconcursos.com.br                                                                                                   58
+
+                                             https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Assim como todas as peças do quebra-cabeça se encaixam corretamente, todas as operações do
+banco de dados se combinam para formar um todo consistente.
+
+Isolamento
+
+Essa propriedade garante que o resultado de uma transação seja invisível para outras
+transações em execução simultaneamente. Cada transação é executada de forma isolada, como
+se fosse a única transação em execução, evitando interferências ou efeitos colaterais indesejados
+causados por transações concorrentes. Para entender isso melhor, vamos imaginar uma sala de
+estudo em uma biblioteca.
+
+Nessa sala, várias pessoas estão estudando em suas respectivas mesas. Cada pessoa está focada
+em seu próprio trabalho, lendo, escrevendo e pesquisando. No entanto, mesmo que estejam no
+mesmo ambiente, cada pessoa está isolada em sua própria mesa, sem interferências ou acesso aos
+materiais ou anotações de outras pessoas. Da mesma forma, o isolamento refere-se à capacidade
+de garantir que as transações ocorram independentemente umas das outras.
+
+Cada transação é como uma pessoa em sua mesa de estudo, realizando suas operações no banco
+de dados sem afetar as operações de outras transações. O isolamento garante que as transações
+sejam executadas de forma independente, sem interferências ou conflitos, preservando a
+integridade e consistência dos dados. Para finalizar, agora vamos ver a última propriedade de uma
+transação: durabilidade.
+
+Durabilidade
+
+Essa propriedade assegura que os resultados de uma transação confirmada sejam permanentes
+e persistam mesmo em caso de falhas subsequentes do sistema. Após o término bem-sucedido
+de uma transação, suas alterações são armazenadas de forma permanente no banco de dados e
+não podem ser perdidas. Para entender melhor essa propriedade, vamos imaginar que você está
+escrevendo um livro e salvando-o em seu computador.
+
+Ao final de cada dia de trabalho, você faz uma cópia de backup do livro e armazena em um local
+seguro, como uma gaveta trancada. Mesmo que ocorra algum problema com o seu computador,
+como uma falha de energia ou uma pane no sistema, você pode ter a tranquilidade de que o seu
+trabalho está protegido e pode ser recuperado a partir do backup. Essa analogia ilustra o
+conceito de durabilidade em um banco de dados.
+
+Durabilidade refere-se à capacidade de garantir que as alterações feitas em um banco de dados
+sejam permanentes, mesmo em caso de falhas ou interrupções. Assim como você armazena o
+backup do seu livro em um local seguro, no banco de dados, as alterações realizadas em transações
+concluídas são registradas de forma persistente em disco ou outro meio de armazenamento
+durável.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                               15
+        www.estrategiaconcursos.com.br                                                        58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Isso garante que, mesmo em caso de falhas de hardware, quedas de energia ou outros incidentes,
+as alterações feitas no banco de dados não serão perdidas e podem ser recuperadas
+posteriormente. A durabilidade é uma propriedade essencial para garantir a confiabilidade e a
+integridade dos dados em um sistema de banco de dados. Vamos colocar tudo em um contexto
+agora! Vamos imaginar um cenário: transferência de dinheiro de uma conta para outra.
+
+▪ Atomicidade: se um débito for realizado com sucesso em uma conta, o crédito correspondente
+  é realizado na outra conta;
+▪ Consistência: a soma dos valores em ambas as contas é o mesmo no começo e no final da
+  transação;
+▪ Isolamento: outra transação visualiza o dinheiro a ser transferido em uma conta ou em outra,
+  mas jamais em ambas ou em nenhuma;
+▪ Durabilidade: as mudanças realizadas em uma conta não serão desfeitas após terem sido
+  finalizadas com sucesso.
+
+                                             PROPRIEDADES DE UMA TRANSAÇÃO
+                        Uma transação é uma unidade de processamento atômica que deve ser executada
+  A     ATOMICIDADE     integralmente até o fim ou não deve ser executada.
+                        – Responsável: Subsistema de Recuperação.
+                        A execução de uma transação deve levar o banco de dados de um estado consistente a um
+  C    CONSISTÊNCIA     outro estado consistente.
+                        – Responsável: Programador ou Módulo de Restrições de Integridade.
+                        Cada transação deve parecer executar isoladamente das demais, embora diversas
+  I     ISOLAMENTO      transações possam estar executando concorrentemente.
+                        – Responsável: Subsistema de Controle de Concorrência.
+                        Os efeitos de uma transação em caso de sucesso devem persistir no banco de dados mesmo
+  D    DURABILIDADE     em casos de quedas de energia, travamentos ou erros.
+                        – Responsável: Subsistema de Recuperação.
+
+
+
+Principais Papeis (Roles)
+                                                                                             INCIDÊNCIA EM PROVA: baixíssima
+
+
+Para um pequeno banco de dados pessoal, uma pessoa normalmente define, constrói e manipula o
+banco de dados, e não existe compartilhamento. Porém, em grandes organizações, muitas pessoas
+estão envolvidas no projeto, uso e manutenção de um grande banco de dados, com centenas ou
+milhares de usuários. Vamos conhecer nos próximos subtópicos dois dos principais personagens
+ou papeis importantes no contexto de bancos de dados:
+
+Administrador de Banco de Dados
+
+Em qualquer organização na qual muitas pessoas utilizam os mesmos recursos, há uma necessidade
+de um administrador principal supervisionar e gerenciar esses recursos. Em um ambiente de banco
+de dados, o recurso principal é o próprio banco de dados, e o recurso secundário é o SGBD e o
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                         16
+        www.estrategiaconcursos.com.br                                                                                  58
+
+                                      https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+software relacionado. A administração desses recursos é de responsabilidade do Administrador
+de Banco de Dados (DBA – DataBase Administrator).
+
+O Administrador de Banco de Dados é responsável por autorizar o acesso ao banco de dados,
+coordenar e monitorar seu uso e adquirir recursos de software e hardware conforme a necessidade.
+Ele também é responsável por problemas como falhas na segurança e demora no tempo de
+resposta do sistema. Em grandes organizações, ele é auxiliado por uma equipe que executa essas
+funções.
+
+Administrador de Dados
+
+Tendo em vista que os dados constituem um dos bens mais valiosos da empresa, é imperativo que
+deva existir alguma pessoa que entenda esses dados e as necessidades da empresa com relação a
+esses dados, em um nível elevado de administração: esse é o Administrador de Dados. Assim, é
+seu trabalho decidir, para começar, que dados devem ser armazenados no banco de dados, além
+de estabelecer normas para manter e tratar esses dados, uma vez que venham a ser armazenados.
+
+------
+
+Um exemplo de tal norma seria a de determinar quem pode executar quais operações sobre quais
+dados em que circunstâncias - em outras palavras, uma norma de segurança de dados.
+
+▪ DBA é um papel mais técnico: ele não trata do significado dos dados – ele trata das tarefas
+  operacionais do dia a dia; cuida dos backups; concede ou retira permissões de acesso; e verifica
+  o desempenho do Sistema Gerenciador de Banco de Dados (SGBD).
+
+▪ AD é um papel mais estratégico: ele trata das atividades estratégicas da organização; sabe o
+  significado dos dados armazenados; sabe quem os utiliza e quem os gerencia; trata eventuais
+  redundâncias de dados; etc.
+
+
+Arquitetura ANSI/SPARC (Três Esquemas)
+                                                                                       INCIDÊNCIA EM PROVA: média
+
+
+
+
+         Receita Federal (Analista Tributário) Fluência em Dados                                             17
+         www.estrategiaconcursos.com.br                                                                      58
+
+                                     https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Três das quatro características importantes que vimos sobre a abordagem de banco de dados são
+(1) uso de um catálogo para armazenar a descrição (esquema) do banco de dados de modo a torná-
+lo autodescritivo, (2) isolamento de programas e dados (independência entre dados e operação do
+programa) e (3) suporte para múltiplas visões do usuário. Para ajudar a alcançar e visualizar essas
+características, foi proposto a Arquitetura ANSI/SPARC (ou Arquitetura de Três Esquemas).
+
+A Arquitetura ANSI/SPARC se divide em três níveis independentes: externo, conceitual e interno.
+Antes de entrarmos nos detalhes de cada um, vamos entender primeiramente o que é um esquema
+e o que é uma instância de um banco de dados. Falando de maneira bem simples, um esquema é
+uma descrição da estrutura de um banco de dados. Em outras palavras, ele se refere à forma como
+os dados são armazenados, organizados e relacionados entre si.
+
+O esquema descreve a estrutura das tabelas, os tipos de dados dos campos, as chaves primárias
+e estrangeiras, as restrições de integridade e outras informações importantes para representar
+e manipular os dados de forma coerente. Imagine que você está construindo uma casa: o esquema
+seria equivalente ao projeto arquitetônico da casa, que define a estrutura, layout e características
+principais.
+
+Ele descreve os cômodos, os tipos de materiais a serem usados, as dimensões das janelas e portas,
+o posicionamento dos móveis, entre outros detalhes importantes. O esquema da casa fornece uma
+representação abstrata do projeto, permitindo que você entenda como a casa será construída e
+como os elementos se relacionam entre si. Ele serve como um guia para os construtores, arquitetos
+e outros profissionais envolvidos na construção, garantindo que todos sigam um plano comum.
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                  18
+        www.estrategiaconcursos.com.br                                                           58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Da mesma forma, em um banco de dados, o esquema descreve a estrutura lógica dos dados,
+especificando as tabelas, os campos, os relacionamentos e outras características. Ele funciona
+como um projeto que orienta a criação e o uso do banco de dados, garantindo consistência e
+coerência na manipulação dos dados. O esquema de um banco de dados, portanto, é análogo ao
+projeto arquitetônico de uma casa.
+
+Em outras palavras, assim como o projeto arquitetônico da casa é usado como referência durante a
+construção e manutenção da mesma, o esquema de um banco de dados é usado como base para
+projetar, desenvolver e gerenciar o banco de dados de forma consistente ao longo do tempo. Já
+uma Instância (ou Estado) é o conjunto de dados armazenados no banco e um determinado
+momento de operação.
+
+Trata-se da representação dos dados armazenados no banco de dados em um determinado
+instante de tempo. Podemos entender uma instância de banco de dados como um instantâneo
+dos dados contidos no banco de dados em um determinado momento. Ela representa o conjunto
+de valores e relacionamentos atualmente presentes nas tabelas e outros objetos do banco de
+dados. Por exemplo, considere um banco de dados de uma loja online.
+
+A instância pode incluir informações como a lista de produtos disponíveis, os pedidos feitos pelos
+clientes e os estoques atuais. Esses dados estão em conformidade com o esquema do banco de
+dados, ou seja, seguem a estrutura definida pelos tipos de tabelas, colunas e relacionamentos
+especificados no esquema. À medida que ocorrem operações de inserção, atualização ou exclusão
+de dados, a instância do banco de dados é modificada, refletindo o estado mais recente dos dados.
+
+Cada vez que os dados são alterados, uma nova instância é gerada para refletir as atualizações
+feitas. Logo, a instância de banco de dados é a representação concreta dos dados armazenados
+em um banco de dados em um determinado momento, enquanto o esquema descreve a
+estrutura lógica e as regras de organização dos dados no banco de dados. Pronto! Agora estamos
+melhor preparados para entender a Arquitetura ANSI/SPARC.
+
+Nível Externo
+Também conhecido como Nível de Visão ou Nível Lógico do Usuário é o mais próximo dos
+usuários – ou seja, é aquele que se ocupa do modo como os dados são vistos ou percebidos por
+usuários individuais. A maior parte dos usuários não está interessada no banco de dados inteiro,
+mas somente em alguma parte restrita dele; assim, haverá muitas visões externas distintas, cada
+qual consistindo em uma representação mais ou menos abstrata de alguma parte do banco.
+
+A visão que um usuário tem dessa parte será um tanto abstrata quando comparada com como os
+dados são fisicamente armazenados. Os níveis externo e conceitual são níveis de modelo, enquanto
+o nível interno é um nível de implementação; em outras palavras, os níveis externo e conceitual são
+definidos em termos de construções voltadas para o usuário, como registros e campos, enquanto o
+nível interno é definido em termos de construções voltadas para a máquina, como bits e bytes.
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 19
+        www.estrategiaconcursos.com.br                                                          58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Essa visão externa do usuário é o conteúdo do banco de dados visto por determinado usuário – para
+esse usuário, a visão externa é o próprio banco de dados. Por exemplo, um usuário do
+Departamento de Pessoal poderia considerar o banco de dados como uma coleção de registros de
+departamentos e empregados, e poderia não ter nenhum conhecimento de registros de
+fornecedores e peças, vistas pelos usuários do Departamento de Compras.
+
+Nível Conceitual
+
+Também conhecido como Nível Lógico de Comunidade (ou apenas Nível Lógico), é um nível
+indireto entre os níveis interno e externo. A visão conceitual é uma representação de todo o
+conteúdo de informações do banco de dados, mais uma vez (como no caso de uma visão externa)
+em uma forma um tanto abstrata, em comparação com o modo como os dados são armazenados
+fisicamente.
+
+Em geral, ela também será bastante diferente do modo como os dados são visualizados por
+qualquer usuário em particular. Trata-se de uma maneira de descrever a estrutura do banco de
+dados inteiro para uma comunidade de usuários, isto é, quais dados são armazenados em todo o
+banco de dados e como os dados estão inter-relacionados. Esse nível oculta os detalhes das
+estruturas de armazenamento físico e se concentra na descrição de entidades.
+
+O nível conceitual faz uma ponte entre o nível externo e o nível interno por meio de um
+mapeamento conceitual/interno de dados. O nível externo descrevia apenas parte do banco de
+dados; já o nível conceitual descreve todo o banco de dados e se concentra em definir quais
+dados estão armazenados e quais são as relações entre esses dados. Agora finalmente podemos
+estudar o nível interno...
+
+Nível Interno
+
+Também conhecido como Nível de Armazenamento ou Nível Físico, é o meio mais próximo do
+meio de armazenamento físico, isto é, aquele que se ocupa com o modo como os dados estão
+fisicamente armazenados no banco de dados e no hardware do computador – além da definição
+das estruturas físicas que permitem obter um desempenho satisfatório. Ele descreve os detalhes
+completos do armazenamento de dados e dos caminhos de acesso para o banco de dados.
+
+A visão interna é uma representação de baixo nível do banco de dados por inteiro; ela consiste em
+muitas ocorrências de cada um dos vários tipos de registros internos. Ela está mais longe dos
+usuários e mais próximo do banco de dados – cuidando da representação física em que os
+registros são armazenados. Saiba que existe apenas um esquema interno para um único esquema
+conceitual para várias visões externas. Ok?
+
+
+                                         Tipos de mapeamento
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                               20
+        www.estrategiaconcursos.com.br                                                        58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Um mapeamento é o processo de associação entre elementos de um conjunto de dados para outro
+conjunto de dados. O mapeamento externo/conceitual traduz visões externas para a visão
+conceitual, garantindo a adequação e coerência entre as diferentes perspectivas do banco de
+dados. Isso permite que os usuários tenham uma representação compreensível e consistente dos
+dados, independentemente das suas necessidades e formas de acesso.
+
+Já o mapeamento conceitual/interno é o processo de traduzir a visão lógica e abstrata do banco
+de dados (nível conceitual) em uma representação física e de baixo nível que possa ser armazenada
+e manipulada pelo SGBD (nível interno). Ele assegura que a estrutura e as regras definidas no nível
+conceitual sejam adequadamente refletidas na implementação física do banco de dados. Em regra,
+o mapeamento externo/conceitual ocorre após o mapeamento conceitual/interno.
+
+
+                                                   analogia
+Por fim, vamos utilizar uma analogia para resumir a Arquitetura ANSI/SPARC. Imagine uma
+biblioteca com um vasto acervo de livros. A biblioteca possui uma equipe de funcionários que
+trabalha em diferentes departamentos, cada um desempenhando um papel específico no
+funcionamento da biblioteca. Na Arquitetura ANSI/SPARC, a biblioteca como um todo é o sistema
+de banco de dados, e cada departamento representa um componente da arquitetura.
+
+O Departamento de Catalogação é responsável por organizar e classificar os livros de acordo com
+um sistema padronizado. Isso seria equivalente ao nível conceitual, que define a estrutura e
+organização dos dados no banco de dados. O Departamento de Armazenamento é encarregado de
+armazenar os livros nas prateleiras de acordo com as categorias definidas pelo Departamento de
+Catalogação.
+
+Ele seria equivalente ao nível interno, que descreve como os dados são armazenados fisicamente
+em dispositivos de armazenamento. Por fim, o Departamento de Atendimento ao Leitor permite
+que os leitores acessem os livros, fornecendo orientações, auxiliando na localização dos livros e
+facilitando o empréstimo. Esse departamento representa as visões externas, que são as diferentes
+formas pelas quais os usuários podem visualizar e acessar os dados.
+
+Logo, o nível externo é comparável ao catálogo da biblioteca, onde os usuários podem pesquisar
+por títulos de livros, autores ou assuntos específicos; o nível conceitual seria como a forma como os
+livros estão organizados nas prateleiras da biblioteca; e o nível interno corresponde à forma como
+os livros estão fisicamente armazenados nas estantes da biblioteca. O mapeamento
+externo/conceitual/interno pode ser comparado à jornada de um usuário da biblioteca.
+
+O usuário consulta o catálogo (mapeamento externo) para encontrar informações sobre um livro
+específico. Com base nessas informações, ele navega pelas prateleiras (mapeamento conceitual)
+até encontrar o livro desejado. Por fim, o livro é retirado da prateleira (mapeamento interno) para
+ser lido. A Arquitetura ANSI/SPARC visa separar claramente esses componentes, permitindo
+que o gerenciamento seja mais flexível, seguro, eficiente e independente.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                   21
+        www.estrategiaconcursos.com.br                                                            58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                                      Independência dos Dados
+Quando estamos falando sobre independência de dados, estamos tratando da capacidade de
+modificar a definição dos esquemas de determinado nível, sem afetar o esquema de nível
+superior. Existem dois níveis de independência de dados: a independência física e a independência
+lógica. Ressalto que se um sistema de banco de dados provê independência física dos dados, não
+se pode inferir que esse sistema também permite independência lógica de dados.
+
+▪ Independência Lógica dos Dados: refere-se à capacidade de alterar a estrutura lógica do banco
+  de dados sem afetar os programas de aplicação que o utilizam. Isso significa que as alterações
+  na estrutura lógica, como adicionar ou remover tabelas, modificar relacionamentos ou
+  atributos, não devem exigir que os programas de aplicação sejam alterados. A independência
+  lógica de dados é alcançada por meio do uso de visões, consultas e camadas de abstração que
+  separam a estrutura lógica do banco de dados da forma como os dados são manipulados pelas
+  aplicações.
+
+▪ Independência Física dos Dados: refere-se à capacidade de alterar a estrutura física do banco
+  de dados sem afetar os programas de aplicação ou a estrutura lógica do banco de dados. Isso
+  significa que as alterações na forma como os dados são armazenados fisicamente, como a
+  alteração do tipo de armazenamento, a reorganização dos dados ou a mudança para um
+  servidor diferente, não devem exigir alterações nos programas de aplicação ou na estrutura
+  lógica do banco de dados. Ela é alcançada por meio de camadas de abstração, como o SGBD,
+  que oculta os detalhes da implementação física do banco de dados dos programas de aplicação.
+
+
+Projetos de Banco de Dados
+                                                                                       INCIDÊNCIA EM PROVA: ALTA
+
+
+Existe uma outra classificação que também representa a estrutura ou projeto de um banco de dados
+em diferentes níveis de abstração – chama-se Projeto de Banco de Dados. Trata-se de um processo
+específico de projeto de banco de dados que visa criar um banco de dados eficiente e funcional. Nós
+vimos que a Arquitetura ANSI/SPARC é m modelo conceitual que estabelece a estrutura geral do
+projeto de banco de dados em três níveis: externo, conceitual e interno.
+
+Já o Projeto de Banco de Dados é um processo específico que abrange a criação de modelos para
+implementar um banco de dados eficiente. Nesse caso, também é dividido em três partes, mas
+agora dividimos em modelo conceitual, modelo lógico e modelo físico. Cuidado para não confundir
+as nomenclatures das duas classificações durante a prova. Embora haja semelhanças entre as
+divisões em camadas, as abordagens e os objetivos são diferentes entre esses dois conceitos.
+
+Modelo Conceitual (ou Modelo de Alto Nível)
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                             22
+        www.estrategiaconcursos.com.br                                                                      58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+O modelo conceitual é a representação abstrata e independente de qualquer Sistema
+Gerenciador de Banco de Dados específico. Ele descreve os conceitos e as relações entre os dados
+de forma geral, sem considerar aspectos técnicos de implementação. O objetivo principal do
+modelo conceitual é capturar as regras de negócio, as entidades, os relacionamentos e as restrições
+que serão representados no banco de dados.
+
+Esse modelo oferece conceitos que são mais próximos ao modo como muitos usuários
+compreendem os dados. Em geral, é utilizado para envolver o cliente e discutir os aspectos do
+negócio e, não, da tecnologia, visto que não há limitações ou tecnologias específicas. Nessa
+etapa, são utilizados diagramas como o Modelo Entidade-Relacionamento (MER) ou o Modelo de
+Dados Orientado a Objetos (MDOO) para representar esses elementos de forma gráfica e intuitiva.
+
+Modelo Lógico (ou Modelo de Implementação ou Representativo)
+
+Também chamado de Modelo Representativo, trata-se de uma adaptação do modelo
+conceitual para um tipo específico de SGBD. Ele traduz as entidades, relacionamentos e restrições
+do modelo conceitual em estruturas e recursos oferecidos pelo SGBD escolhido. Ele oferece
+conceitos que podem ser facilmente entendidos pelos usuários finais, mas que não está muito longe
+do modo como os dados são organizados e armazenados no computador.
+
+Em geral, eles ocultam muitos detalhes do armazenamento de dados em disco, mas podem ser
+implementados diretamente em um sistema de computador. Nesse caso, ele constitui uma
+representação para um banco de dados de um tipo específico, utilizando as estruturas suportadas
+por ele. Logo, o modelo lógico depende do tipo particular de SGBD utilizado (Ex: SGBDs
+Relacionais, SGBDs Orientados a Objetos, entre outros).
+
+Modelo Físico (ou Modelo Baixo Nível)
+
+O modelo físico é a implementação concreta do banco de dados, especificando os detalhes de
+armazenamento, organização dos dados em disco, indexação, otimização de desempenho e
+outros aspectos técnicos. Nessa etapa, o modelo lógico é mapeado para a estrutura física do
+SGBD. O modelo físico também leva em consideração fatores de desempenho, como o
+dimensionamento de hardware, configurações de cache e estratégias de otimização de consultas.
+
+O resultado final do modelo físico é um conjunto de scripts ou comandos que serão executados para
+criar o banco de dados no SGBD específico que foi escolhido. Esse modelo oferece conceitos que
+descrevem os detalhes de como os dados são armazenados no computador e costumam ser
+voltados para especialistas de computadores e, não, para usuários finais. Eu lembro novamente:
+esse modelo é totalmente dependente do SGBD.
+
+------
+
+
+
+
+         Receita Federal (Analista Tributário) Fluência em Dados                                23
+         www.estrategiaconcursos.com.br                                                         58
+
+                                     https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Vamos utilizar uma analogia para ilustrar a diferença entre os modelos conceitual, lógico e físico no
+contexto do projeto de banco de dados. Imagine que você deseja construir uma casa. O modelo
+conceitual seria equivalente a um esboço inicial dos principais elementos da casa, como o número
+de quartos, banheiros, sala, cozinha, etc. Nessa etapa, você está preocupado principalmente em
+definir os requisitos e o layout geral da casa, sem entrar em detalhes técnicos de construção.
+
+O modelo lógico seria como a planta baixa detalhada da casa. Nesse estágio, você traduz o esboço
+inicial em um projeto mais concreto, especificando a localização exata dos cômodos, as dimensões,
+as conexões entre eles e outros detalhes arquitetônicos. A planta baixa permite que você tenha uma
+visão clara da estrutura da casa, mas ainda não aborda aspectos como o tipo de material de
+construção ou as cores das paredes.
+
+Por fim, o modelo físico seria como a construção real da casa. Aqui, você considera todos os
+detalhes práticos e técnicos envolvidos na construção, como os materiais de construção, os
+sistemas elétricos e hidráulicos, o acabamento interno e externo, entre outros. O modelo físico é a
+implementação concreta do projeto, onde cada elemento é construído de acordo com as
+especificações definidas anteriormente no modelo lógico.
+
+É importante observar que essas etapas são progressivas, com cada modelo fornecendo um
+detalhamento maior em relação ao anterior.
+
+                          GRAU DE                                  Compreensão pelo
+      MODELO                                   DEPENDÊNCIA                                     Exemplo
+                         ABSTRAÇÃO                                   usuário final
+                                                                                         Modelo Entidade-
+ MODELO CONCEITUAL          Alto                Nenhuma                   Fácil
+                                                                                          Relacionamento
+                                           Somente Software                            Relacional, Orientado a
+   MODELO LÓGICO           Médio                                          Médio
+                                            (Tipo do SGBD)                             Objetos, Hieráquico, etc
+                                          Hardware e Software                           Oracle, MySQL, SQL
+    MODELO FÍSICO          Baixo                                          Difícil
+                                           (SGBD Específico)                                 Server, etc
+
+
+Nessa tabela, temos um ponto que costuma causar alguns problemas de interpretação nos
+alunos: trata-se da dependência. Na primeira linha, nós vimos que o modelo conceitual não tem
+nenhuma dependência; já o modelo lógico depende apenas do software (mais especificamente do
+tipo do software); por fim, o modelo físico depende tanto do hardware quanto do software (mas,
+nesse caso, não é do tipo de software, e sim do software específico).
+
+Primeiro ponto: quando a tabela fala de software, ela está se referindo ao SGBD (eu coloquei
+“software” na tabela porque esse é o termo utilizado pela maioria das questões). Segundo
+ponto: quando a tabela fala de SGBD Específico, estamos falando dos produtos disponíveis
+atualmente no mercado. Nós temos diversas marcas importantes, tais como: Oracle, MySQL, SQL
+Server, Redis, PostgreSQL, DB2, SQLite, entre outros.
+
+Terceiro ponto: quando a tabela fala de Tipo de SGBD, estamos falando da estrutura de organização
+dos dados. Nesse sentido, temos diversos tipos:
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                               24
+        www.estrategiaconcursos.com.br                                                                        58
+
+                                     https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+     Tipos de sgbd                                                Descrição
+                   Dados são organizados em tabelas com relacionamentos baseados em chaves primárias e
+       relacional
+                   estrangeiras.
+                   Dados são organizados em uma estrutura de árvore, em que um registro-pai se relaciona com
+       hierárquico
+                   vários registros-filhos – e a navegação é feita da raiz para as folhas.
+                   Dados são organizados em estrutura flexível que permite a associais diversas entre os registros
+           em rede
+                   do banco de dados.
+       orientado a   Dados são organizados em objetos, em que os dados só podem ser manipulados pelos
+           objetos   métodos definidos pela classe de que estes objetos pertencem.
+       Orientado a   Dados são organizados em documentos, facilitando o armazenamento de dados não
+      documentos     estruturados ou semiestruturados.
+       Orientado a   Dados são organizados como um conjunto de chaves e valores, otimizado para leitura e escrita
+      Chave-valor    rápida.
+       Orientado a   Dados são organizados como grafos, facilitando relacionamentos complexos e consultas
+            grafos   eficientes.
+
+
+E onde está o problema, professor? O problema é que algumas questões afirmam que o modelo
+lógico depende do software, mas não especificam que ela está se referindo ao tipo de software
+(relacional, hierárquico, etc) ou ao produto específico (Oracle, MySQL, etc). Nós vamos adotar –
+portanto – o entendimento considerado na maioria das questões, isto é, o modelo lógico é
+dependente do software (SGBD).
+
+Uma dúvida muito comum que eu recebo no fórum de dúvidas trata de como diferenciar se uma
+questão está tratando da Arquitetura ANSI/SPARC ou do Projeto de Banco de Dados. Bem, em
+regra, se uma questão não mencionar nada em seu enunciado, ela tratará do Projeto de Banco de
+Dados. Em geral, quando uma questão deseja trata da Arquitetura ANSI/SPARC, ela deixa explícito
+no enunciado. Bacana?
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                 25
+        www.estrategiaconcursos.com.br                                                                          58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                      QUESTÕES COMENTADAS – CESPE
+
+1. (CESPE / SEFAZ-SE – 2022) As técnicas de controle de concorrência são usadas para garantir a
+   propriedade de não interferência ou isolamento das transações executadas simultaneamente.
+   Algumas das principais técnicas usadas para controlar a execução concorrente de transações
+   são baseadas no conceito de bloqueio de itens de dados.
+
+   Considerando os tipos de bloqueios, assinale a opção que contém o esquema de bloqueio que
+   possui dois estados — bloqueado e desbloqueado — e que é considerado muito restritivo para
+   itens de banco de dados, porque no máximo uma transação pode manter um bloqueio em
+   determinado item.
+
+   a) bloqueios compartilhados
+   b) bloqueios binários
+   c) bloqueios exclusivos
+   d) bloqueio em duas fases conservador
+   e) bloqueio em duas fases básico
+
+Comentários:
+
+Questão absurdamente aprofundada! Eu acho completamente inviável explicar estratégias de
+controle de concorrência em aula. De todo modo, as técnicas de controle de concorrência são
+usadas para garantir a propriedade de não interferência ou isolamento das transações executadas
+simultaneamente. Um SGBD deve ser capaz de garantir que apenas planos de execução
+serializáveis e recuperáveis sejam permitidos e que nenhuma ação de transações efetivadas seja
+perdida ao desfazer transações canceladas. Normalmente, um SGBD utiliza um protocolo de
+bloqueio para conseguir isso. Bloqueio é um pequeno objeto de controle associado a um objeto do
+banco de dados. Protocolo de bloqueio é um conjunto de regras a serem seguidas por transação (e
+impostas pelo SGBD) para garantir que, mesmo intercalando as ações de várias transações, o
+resultado seja idêntico à execução de todas as transações em alguma ordem serial.
+
+(a) Errado. Bloqueios compartilhados permitem que um item de dado seja acessado por mais de
+uma transação para leitura; (b) Correto. Bloqueios binários são simples, mas também muito
+restritivos para fins de controle de concorrência e, portanto, não são muito utilizados na prática –
+ele pode ter dois estados ou valores: bloqueado e desbloqueado. Se o valor do bloqueio em X for 1,
+o item não pode ser acessado. Se for 0, o item pode ser acessado quando solicitado; (c) Errado.
+Bloqueios compartilhados são sinônimos de bloqueios exclusivos; (d) Errado. Esse tipo de bloqueio
+bloqueia todos os itens aos quais terá acesso, antes de iniciar o seu processamento. Se algum dos
+itens não puder ser bloqueado, a transação não bloqueia nenhum item e espera até que todos os
+itens estejam disponíveis para bloqueio; (e) Errado. Esse tipo de bloqueio é utilizado para garantir
+escalonamentos serializáveis – as operações de bloqueio e desbloqueio nas transações devem
+seguir protocolos (Ex: Two-Phase Locking).
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                  26
+        www.estrategiaconcursos.com.br                                                           58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                                                                                       Gabarito: Letra B
+
+2. (CESPE / Polícia Federal – 2021) Em um sistema gerenciador de banco de dados, as restrições
+   de integridade garantem que os dados possam ser armazenados, consultados e utilizados com
+   confiabilidade.
+
+Comentários:
+
+Perfeito! O objetivo das restrições de integridade é garantir a exatidão e a consistência dos dados
+em um banco de dados relacional, de tal forma que eles possam ser armazenados, consultados e
+utilizados com confiabilidade.
+
+                                                                                       Gabarito: Correto
+
+3. (CESPE / Polícia Federal – 2021) Atomicidade refere-se à propriedade de um sistema
+   gerenciador de banco de dados (SGBD) que garante que os dados armazenados sejam
+   indivisíveis.
+
+Comentários:
+
+Atomicidade refere-se à propriedade que garante que os dados armazenados as transações sejam
+indivisíveis. Existe o conceito de atributo simples ou atômico, mas isso ocorre dentro do contexto
+de modelagem conceitual e, não, no contexto de um Sistema Gerenciador de Banco de Dados
+(SGBD). O gabarito preliminar veio como errado, mas a banca anulou no definitivo. Eu discordo,
+mas vida que segue...
+
+                                                                                       Gabarito: Anulada
+
+4. (CESPE / APEX-BRASIL – 2021) Assinale a opção em que o termo apresentado corresponde a
+   uma sequência de instruções de consulta e(ou) atualização de banco de dados:
+
+   a) commit
+   b) rollback
+   c) truncate
+   d) transaction
+
+Comentários:
+
+Uma Transação (Transaction) corresponde a uma sequência de instruções de consulta e(ou)
+atualização de banco de dados.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      27
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                                                                                       Gabarito: Letra D
+
+5. (CESPE / ME – 2020) Um esquema de banco de dados é um conjunto de regras que governa um
+   banco de dados ou todo o conjunto de objetos pertencentes a determinado usuário.
+
+Comentários:
+
+O esquema é a descrição das regras e objetos de um banco de dados. Se pensarmos no modelo
+relacional, o esquema definirá nomes das colunas, seus tipos de dados e restrições de integridade.
+
+                                                                                       Gabarito: Correto
+
+6. (CESPE / TJ-PA – 2020) Um sistema de banco de dados proporciona a empresas o controle
+   centralizado de todos os seus dados. O funcionamento do banco de dados baseia-se em
+   unidades lógicas de trabalho conhecidas como:
+
+   a) entidades.
+   b) ocorrências.
+   c) registros.
+   d) tabelas.
+   e) transações.
+
+Comentários:
+
+(a) Errado. Esse é um conceito associado ao modelo entidade-relacionamento. As entidades
+representam as "coisas" do mundo real que queremos modelar. Por exemplo: uma loja pode ter o
+interesse de armazenar informações dos seus clientes e dos seus produtos. Cliente e Produto são
+entidades do modelo; (b) Errado. Uma ocorrência é uma linha da tabela (também chamada de
+registro); (c) Errado. Um registro é uma linha da tabela (também chamado de ocorrência); (d)
+Errado. As tabelas são estruturas compostas por linhas e colunas. São utilizadas para armazenar
+dados nos bancos relacionais; (e) Correto. Uma transação é uma unidade lógica de trabalho que
+executa um conjunto de operações no banco de dados. Essas operações podem inserir, remover,
+modificar ou recuperar dados nas tabelas. Ao final da transação, é possível confirmar as alterações
+realizadas (COMMIT) ou descartar as alterações (ROLLBACK).
+
+                                                                                       Gabarito: Letra E
+
+7. (CESPE / TJ-AM – 2019) Uma das vantagens de utilizar sistema gerenciador de banco de dados
+   é o fato de ele realizar o controle da redundância de dados, o que impede a ocorrência de
+   inconsistências entre os arquivos.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      28
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+De fato, ele realiza o controle de redundância de dados. Isso impede a ocorrência de inconsistência
+entre os arquivos? Eu acho que o ideal seria dizer que isso evita a inconsistência, mas podemos
+relevar. Lembrando que, às vezes, há motivos comerciais ou técnicos plausíveis para manter várias
+cópias distintas dos mesmos dados (redundância controlada) como para melhorar o desempenho
+das consultas.
+
+                                                                                       Gabarito: Correto
+
+8. (CESPE / TJ-AM – 2019) Na arquitetura ANSI/SPARC de um SGBD, o nível interno trata do
+   armazenamento físico dos dados, o nível externo trata do modo como os dados são visualizados
+   por usuários individuais, e o nível conceitual oferece uma visão comunitária dos dados.
+
+Comentários:
+
+Perfeito! O objetivo da arquitetura de três esquemas é separar as aplicações do usuário do banco
+de dados físico. Nessa arquitetura, os esquemas podem ser definidos nos três níveis a seguir:
+
+1. O nível interno tem um esquema interno, que descreve a estrutura do armazenamento físico do
+banco de dados. O esquema interno usa um modelo de dados físico e descreve os detalhes
+completos do armazenamento de dados e caminhos de acesso para o banco de dados.
+
+2. O nível conceitual tem um esquema conceitual, que descreve a estrutura do banco de dados
+inteiro para uma comunidade de usuários. O esquema conceitual oculta os detalhes das estruturas
+de armazenamento físico e se concentra na descrição de entidades, tipos de dados,
+relacionamentos, operações do usuário e restrições.
+
+3. O nível externo ou de visão inclui uma série de esquemas externos ou visões do usuário. Cada
+esquema externo descreve a parte do banco de dados em que um grupo de usuários em particular
+está interessado e oculta o restante do banco de dados do grupo de usuários.
+
+                                                                                       Gabarito: Correto
+
+9. (CESPE / STM - 2018) O modelo conceitual, que reflete uma estrutura simplificada do banco de
+   dados, é responsável por registrar como os dados estão armazenados no sistema de
+   gerenciamento de banco de dados (SGBD).
+
+Comentários:
+
+Opaa... o responsável por dizer como os dados estão armazenados no Sistema Gerenciador de
+Banco de Dados (SGBD) é o Modelo Físico! O Modelo Conceitual é responsável por dizer apenas
+quais serão os dados armazenados.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      29
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                                                                                       Gabarito: Errado
+
+10. (CESPE / TCE-PB - 2018) A respeito de SGBD, assinale a opção correta.
+
+   a) Um SGBD é um software que não prevê as funções de definição, recuperação e alteração de
+   dados, sendo essa tarefa a função básica de um sistema de banco de dados.
+
+   b) A consistência de dados é o princípio que determina a manutenção de determinado dado em
+   vários arquivos diferentes.
+
+   c) Conforme o princípio da atomicidade, caso ocorra erro em determinada transação, todo o
+   conjunto a ela relacionado será desfeito até o retorno ao estado inicial, como se a transação
+   nunca tivesse sido executada.
+
+   d) O controle de concorrência é o princípio que garante e permite a manipulação, no mesmo
+   momento, de um mesmo dado por mais de uma pessoa ou um sistema.
+
+   e) Um SGBD, por definição, não é flexível, dada a dificuldade de mudar a estrutura dos dados
+   quando os requisitos mudam.
+
+Comentários:
+
+(a) Errado. Sistema de Banco de Dados = SGBD + BD e as funções de definição, recuperação e
+alteração de dados são de responsabilidade do SGBD;
+
+(b) Errado. Quem determina a manutenção de determinado dado em vários arquivos diferentes é a
+redundância;
+
+(c) Correto. Perfeito! Lembrem-se: uma transação atômica é uma série indivisível e irredutível de
+operações de banco de dados, de modo que todas elas ocorram completamente ou não ocorram;
+
+(d) Errado. O controle de concorrência é na verdade um mecanismo e, não, um princípio.
+
+(e) Errado. Pelo contrário, uma das maiores vantagens de um SGBD é sua flexibilidade, permitindo
+modificar a estrutura dos dados quando requisitos se modificam.
+
+                                                                                       Gabarito: Letra C
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      30
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                          QUESTÕES COMENTADAS – FCC
+11. (FCC / DPE-RS – 2017) O dicionário de dados de um banco de dados relacional:
+
+   a) não se aplica a tabelas com pequeno número de registros.
+   b) não considera o armazenamento da lista de atributos chave das tabelas.
+   c) armazena, dentre outras informações, nomes de tabelas e de seus atributos.
+   d) ignora os domínios de cada atributo das tabelas.
+   e) somente se aplica a tabelas com grande número de atributos.
+
+Comentários:
+
+A definição/descrição do banco de dados fica armazenada no próprio banco de dados na forma de
+um catálogo ou dicionário de dados – esses dados sobre o banco de dados são chamados de
+metadados. Dito isso, vamos aos itens: (a) Errado, aplica-se a tabelas de quaisquer quantidades de
+registros; (b) Errado, ele considera o armazenamento de todos os atributos de uma tabela – chave
+ou não-chave; (c) Correto, armazena diversas informações como nomes de tabelas e seus atributos;
+(d) Errado, ele armazena os domínios de cada atributo das tabelas; (e) Errado, aplica-se a tabelas
+de quaisquer quantidades de registros.
+
+                                                                                       Gabarito: Letra C
+
+12. (FCC / DPE-SP - 2015) As transações em bancos de dados distribuídos precisam preservar as
+    propriedades conhecidas como ACID. Dentre estas propriedades está a:
+
+   a) Atomicidade.
+   b) Confidencialidade.
+   c) Autenticidade.
+   d) Integridade.
+   e) Disponibilidade.
+
+Comentários:
+
+As propriedades ACID são: Atomicidade, Consistência, Isolamento e Durabilidade. A
+Confidencialidade, Autenticidade, Integridade e Disponibilidade são princípios fundamentais da
+segurança da informação e nada tem a ver com as propriedades de uma transação.
+
+                                                                                       Gabarito: Letra A
+
+13. (FCC / SABESP - 2014) Um SGBD possui a capacidade de mudar o esquema interno sem ter de
+    alterar o esquema conceitual, consequentemente não havendo necessidade de alteração do
+    esquema externo. As mudanças no esquema interno podem ser necessárias para que alguns
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      31
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   arquivos físicos possam ser reorganizados, por exemplo, pela criação de estruturas de acesso
+   adicionais para aperfeiçoar o desempenho da recuperação ou atualização de dados.
+
+   Essa característica de um SGBD é denominada:
+
+   a) modelo lógico de dados.
+   b) modelo físico de dados.
+   c) independência modular.
+   d) representação conceitual.
+   e) independência física de dados.
+
+Comentários:
+
+A primeira frase já mata a questão: “Um SGBD possui a capacidade de mudar o esquema interno sem
+ter de alterar o esquema conceitual, consequentemente não havendo necessidade de alteração do
+esquema externo” – trata-se da independência física de dados. Vejamos:
+
+- Independência Física dos Dados: trata da capacidade de alterar o esquema interno sem ter de
+alterar o esquema conceitual. Logo, os esquemas externos também não precisam ser alterados. O
+mapeamento nível conceitual para o interno é a chave para a independência física de dados.
+
+                                                                                       Gabarito: Letra E
+
+14. (FCC / TJ-AP – 2014) Em um determinado momento, a coleção das informações armazenadas
+    em um banco de dados é:
+
+   a) o esquema desse banco de dados.
+   b) uma instância desse banco de dados.
+   c) um metamodelo desse banco de dados.
+   d) o projeto geral desse banco de dados.
+   e) uma partição desse banco de dados.
+
+Comentários:
+
+A coleção das informações armazenadas em um banco de dados em um determinado momento é
+também chamada de instância de um banco de dados. Instância (ou Estado) é o conjunto de dados
+armazenados no banco em um determinado momento de operação. O esquema é a descrição da
+estrutura dos dados; a instância são os dados em si!
+
+                                                                                       Gabarito: Letra B
+
+15. (FCC / TCE-AM – 2012) O modelo conceitual de dados:
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      32
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   a) é aquele em que os objetos, suas características e relacionamentos têm a representação de
+   acordo com as regras de implementação e limitantes impostos por algum tipo de tecnologia.
+
+   b) é aquele em que os objetos, suas características e relacionamentos têm a representação fiel
+   ao ambiente observado, independente de limitações quaisquer impostas por tecnologias,
+   técnicas de implementação ou dispositivos físicos.
+
+   c) é aquele elaborado respeitando-se e implementando-se conceitos tais como chaves de
+   acesso, controle de chaves duplicadas, itens de repetição (arrays), normalização, ponteiros e
+   integridade referencial, entre outros.
+
+   d) é a fase da modelagem na qual é necessário considerar todas as particularidades de
+   implementação, principalmente o modelo que será utilizado para a implementação futura.
+
+   e) está sempre associado às fases de projeto, contrastando com o modelo lógico, que sempre
+   está associado à fase de análise, quando utilizado com as metodologias de desenvolvimento de
+   sistemas e implementado por ferramentas CASE.
+
+Comentários:
+
+(a) Errado, o modelo conceitual é independente de tecnologia; (b) Correto; (c) Errado, o modelo
+conceitual não trata de conceitos como chave de acesso, controle de chaves duplicadas, arrays,
+normalização, entre outros; (d) Errado, o modelo conceitual é um esboço, logo não precisa
+considerar todas as particularidades de implementação; (e) Errado, é o inverso – nas fases de
+análise, busca-se representar o problema e nas fases de projeto, busca-se representar a solução do
+problema. Logo, a fase de análise está mais ligada ao modelo conceitual enquanto a fase de projeto
+está mais ligada ao modelo lógico.
+
+                                                                                       Gabarito: Letra B
+
+16. (FCC / MPE-SE – 2013) A capacidade de alterar o esquema conceitual sem mudar o esquema
+   externo ou os programas, podendo modificar o esquema conceitual para expandir o banco de
+   dados (adicionando um tipo de registro ou item de dados), variar as restrições ou reduzir o banco
+   de dados (removendo um tipo de registro ou item de dados) é chamada de:
+
+   a) modularidade.
+   b) modelo conceitual.
+   c) independência lógica de dados.
+   d) polimorfismo.
+   e) agregação.
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      33
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+A capacidade de alterar o esquema conceitual sem mudar o esquema externo ou os programas é
+chamado de independência lógica de dados. A independência lógica dos dados trata da capacidade
+de alterar o esquema conceitual sem precisar modificar os esquemas externos ou aplicações. O
+mapeamento nível externo para o conceitual é a chave para a independência lógica de dados.
+
+                                                                                       Gabarito: Letra C
+
+17. (FCC / TCE-SP - 2010) A propriedade das transações de um SGBD que garante: “ou todas as
+    operações da transação são refletidas corretamente no banco de dados ou nenhuma o será” é
+    a:
+
+   a) Atomicidade.
+   b) Isolamento.
+   c) Consistência.
+   d) Integridade.
+   e) Durabilidade.
+
+Comentários:
+
+A propriedade de atomicidade estabelece que: uma transação é uma unidade de processamento
+atômica que deve ser executada integralmente até o fim ou não deve ser executada de maneira
+alguma – em conformidade com o enunciado da questão.
+
+                                                                                       Gabarito: Letra A
+
+18. (FCC / TRT 20 - 2010) Em relação à execução de uma transação em um banco de dados,
+    considere:
+
+   Para que uma transação seja efetivada, todas as ações que compõem a respectiva unidade de
+   trabalho devem ser concluídas com sucesso. Caso contrário, a ação que constituiu falha e a
+   transação devem ser desfeitas.
+
+   A afirmação refere-se a uma das quatro propriedades da integridade de uma transação,
+   denominada:
+
+   a) Atomicidade.
+   b) Isolamento.
+   c) Durabilidade.
+   d) Consistência.
+   e) Efetividade.
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      34
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+A questão afirma que – para que uma transação seja efetivada, todas as ações que compõem a
+respectiva unidade de trabalho devem ser concluídas com sucesso ou a ação que constituiu a falha
+e a transação devem ser desfeitas. Trata-se, evidentemente, da propriedade de atomicidade – que
+é a propriedade que mais cai em provas de banco de dados.
+
+                                                                                       Gabarito: Letra A
+
+19. (FCC / TCE-SP – 2009) Considerando que os dados constituem um dos bens mais valiosos de
+    uma empresa, é necessário que haja um papel que tenha a responsabilidade central pelos dados,
+    principalmente entendendo as necessidades empresariais nos altos níveis da organização. Tal
+    papel é mais adequadamente desempenhado pela:
+
+   a) administração de banco de dados.
+   b) administração de dados.
+   c) alta administração da organização.
+   d) análise de sistemas.
+   e) gerência de sistemas.
+
+Comentários:
+
+A questão trata da padronização dos dados corporativos. Entender a organização e sua relação com
+as informações de forma a gerenciar os dados de maneira eficiente é reponsabilidade da equipe de
+administração de dados.
+
+                                                                                       Gabarito: Letra B
+
+20. (FCC / TCE-SP – 2009) As três visões da arquitetura básica de um SGBD, pela ordem, desde a
+    mais próxima do usuário até a mais distante, são:
+
+   a) externa, conceitual e interna.
+   b) externa, interna e conceitual.
+   c) conceitual, interna e externa.
+   d) conceitual, externa e interna.
+   e) interna, conceitual e externa.
+
+Comentários:
+
+As três visões da arquitetura básica de um SGBD, pela ordem, desde a mais próxima do usuário até
+a mais distante, são externa, conceitual e interna.
+
+                                                                                       Gabarito: Letra A
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      35
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                         QUESTÕES COMENTADAS – FGV
+21. (FGV / SEAD-AP – 2022) Os sistemas gerenciadores de bancos de dados são largamente
+    utilizados em aplicações computacionais, pois oferecem um conjunto de propriedades
+    importantes para a segurança e confiabilidade dos dados, conhecido pela sigla ACID.
+
+   O propósito da propriedade correspondente à letra I na referida sigla é:
+
+   a) garantir a independência dos dados em relação ao hardware empregado.
+   b) garantir a independência dos dados em relação ao sistema gerenciador de dados.
+   c) garantir o isolamento das transições quando executadas por processos concomitantes.
+   d) permitir a integração de diferentes gerenciadores de bancos de dados.
+   e) permitir a inter-relação de diferentes padrões internacionais de codificação de dados.
+
+Comentários:
+
+ACID (Atomicidade, Consistência, Isolamento e Durabilidade). O Isolamento trata do conjunto de
+técnicas que tentam evitar que transações paralelas interfiram umas nas outras, fazendo com que
+o resultado de várias transações em paralelo seja o mesmo resultado que essas transações teriam
+caso fossem executadas sequencialmente (uma após a outra).
+
+                                                                                       Gabarito: Letra C
+
+22. (FGV / TJ-RO – 2021) No contexto da implementação de bancos de dados, o acrônimo ACID
+    denota o conjunto de propriedades que devem ser observadas por sistemas transacionais. Essas
+    quatro propriedades são:
+
+   a) Amorfabilidade, Concorrência, Integridade e Durabilidade;
+   b) Atomicidade, Consistência, Isolamento e Durabilidade;
+   c) Atualização, Coesão, Inserção e Deleção;
+   d) Auditabilidade, Conformidade, Independência e Distribuição;
+   e) Automação, Concorrência, Integridade e Distribuição.
+
+Comentários:
+
+[A] – Atomicidade
+[C] – Consistência
+[I] – Isolamento
+[D] – Durabilidade
+
+                                                                                       Gabarito: Letra B
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      36
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+23. (FGV / MPE-AL– 2018) O conjunto de programas responsável pelo gerenciamento de uma base
+    de dados e que, entre outras funções, suporta uma linguagem de consulta, gera relatórios e
+    disponibiliza uma interface para que os seus clientes possam incluir, alterar ou consultar dados,
+    é chamado de:
+
+   a) Banco de Dados Relacional (BDR).
+   b) Dicionário de Dados (DD).
+   c) Modelo Entidade Relacionamento (MER).
+   d) Sistema de Suporte à Decisão (SSD).
+   e) Sistema Gerenciador de Bancos de Dados (SGBD).
+
+Comentários:
+
+O conjunto de programas responsável pelo gerenciamento de uma base de dados é o Sistema
+Gerenciador de Bancos de Dados (SGBD).
+
+                                                                                       Gabarito: Letra E
+
+24. (FGV / Prefeitura de Paulínia - SP – 2016) A execução de transações de bancos de dados deve
+    observar um conjunto de propriedades, cuja finalidade é a manutenção da integridade dos
+    dados armazenados nas tabelas. Assinale a opção que apresenta as propriedades usualmente
+    implementadas nos sistemas gerenciadores de bancos de dados:
+
+   a) Independência de dados e integridade referencial.
+   b) Manutenção de logs e extração de backups.
+   c) Segurança, criptografia e sigilo.
+   d) Atomicidade, durabilidade, consistência e isolamento.
+   e) Performance, segurança e escalabilidade.
+
+Comentários:
+
+As propriedades de transações usualmente implementadas nos sistemas gerenciadores de bancos
+de dados são: ACID (Atomicidade, Consistência, Isolamento e Durabilidade).
+
+                                                                                       Gabarito: Letra D
+
+25. (FGV / DPE-RJ – 2014) A sigla DBA é usualmente empregada para designar um profissional que
+    é responsável:
+
+   a) pela administração, instalação, configuração e monitoramento de instalações de bancos de
+   dados.
+   b) pela concepção, desenvolvimento e implantação de sistemas gerenciadores de bancos de
+   dados.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      37
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   c) pelo processo de coleta e exploração de dados para geração de novos conhecimentos.
+   d) pelo teste e manutenção de sistemas WEB construídos sob a égide de metodologias ágeis.
+   e) pelo treinamento e certificação para utilização de gerenciadores de bancos de dados.
+
+Comentários:
+
+(a) Correto; (b) Errado, quem concebe, desenvolve e implanta SGBD é o programador da empresa
+produtora do SGBD; (c) Errado, não faz qualquer sentido; (d) Errado, também não faz o mínimo
+sentido; (e) Errado, ele não é responsável por treinamento e certificação para utilização de
+gerenciadores de bancos de dados.
+
+                                                                                       Gabarito: Letra A
+
+26. (FGV / AL-MT – 2013) Características que distinguem a abordagem de bancos de dados
+    relacionais e centralizados da abordagem tradicional, baseada em processamento de arquivos,
+    estão listadas a seguir à exceção de uma. Assinale-a.
+
+   a) Compartilhamento de dados e processamento de transações multiusuários.
+   b) Suporte para múltiplas visões de dados.
+   c) Isolamento entre os programas e os dados.
+   d) Dados são armazenados e tratados somente como cadeias de caracteres.
+   e) Natureza autodescritiva do sistema de bancos de dados.
+
+Comentários:
+
+A penúltima opção não está no rol das quatro características, portanto está errada.
+
+                                                                                       Gabarito: Letra D
+
+27. (FGV / AL-MT – 2013) O modelo de dados abstrato que descreve a estrutura de um banco de
+    dados de forma independente de um SGBD chama-se modelo:
+
+   a) lógico.
+   b) conceitual.
+   c) físico.
+   d) algorítmico.
+   e) funcional.
+
+Comentários:
+
+Se é independente de um SGBD, trata-se do Modelo Conceitual.
+
+                                                                                       Gabarito: Letra B
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      38
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+28. (FGV / BADESC - 2010) A arquitetura de um SGBD ou a arquitetura de um sistema de banco de
+    dados, também denominada de arquitetura ANSI/SPARC em três níveis, determina que um
+    SGBD descreva como os dados devem ser armazenados e acessados e conter estes mesmos
+    dados de fato armazenados.
+
+   As terminologias desta arquitetura que contêm essas descrições e os dados de fato
+   armazenados, são respectivamente:
+
+   a) esquema físico e nível físico.
+   b) nível físico e esquema físico.
+   c) nível físico e esquema conceitual.
+   d) nível conceitual e esquema físico.
+   e) nível conceitual e esquema conceitual.           ==219a34==
+
+
+
+
+Comentários:
+
+A terminologia que contém a descrição do banco de dados é o esquema; já a terminologia que
+contém os dados de fato armazenados é o nível físico/interno; a descrição respectiva do nível físico
+é o esquema físico/interno.
+
+                                                                                       Gabarito: Letra A
+
+29. (FGV / SEFAZ-RJ – 2008) No funcionamento de um sistema de gerenciamento de banco de
+    dados, uma situação de falha ocorre quando dois usuários tentam alterar, simultaneamente, um
+    mesmo registro. Por exemplo, no caso de dois clientes de uma empresa de cartões de crédito
+    tentarem realizar, num dado instante, a liquidação de um mesmo boleto da mesma fatura, um
+    deles receberá uma mensagem de falha. A situação descrita é conhecida por:
+
+   a) Multlock.
+   b) Crashing.
+   c) Overlock.
+   d) Locking.
+   e) Deadlock.
+
+Comentários:
+
+Questão extremamente polêmica! Um lock ocorre quando um processo bloqueia/trava um
+determinado registro para que ele não seja alterado por outra transação. Já um deadlock ocorre
+quando há um lock mútuo, isto é, dois ou mais processos bloqueiam/travam um ao outro,
+resultando em um impasse porque ambos esperam a liberação um do outro. Ocorre que a questão
+menciona no exemplo que somente um dos clientes recebeu uma mensagem de falha, logo se
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      39
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+trataria de um lock (caso fosse um deadlock, ambos receberiam uma mensagem de falha). Dito isso,
+meu gabarito seria Locking, mas a banca considerou Deadlock.
+
+                                                                                       Gabarito: Letra E
+
+30. (FGV / SEFAZ-MS - 2006) A implementação de Sistemas Gerenciadores de Banco de Dados -
+    SGBD proporciona duas grandes vantagens, que consistem em:
+
+   I. impedir que um determinado código ou chave em uma tabela não tenha correspondência em
+   outra tabela.
+
+   II. permitir o armazenamento da informação em um único local com acesso descentralizado e,
+   sendo compartilhada com vários sistemas, os usuários estarão utilizando uma informação
+   confiável.
+
+   Essas vantagens são conhecidas por:
+
+   a) Manutenção de Integridade / Eliminação de Inconsistências.
+   b) Independência dos Dados / Eliminação de Redundâncias.
+   c) Independência dos Dados / Eliminação de Inconsistências.
+   d) Restrições de Segurança / Eliminação de Inconsistências.
+   e) Restrições de Segurança / Eliminação de Redundâncias.
+
+Comentários:
+
+Impedir que um determinado código ou chave em uma tabela não tenha correspondência em outra
+tabela é uma restrição de integridade – que a questão chamou de manutenção de integridade. Ela
+é especificada entre duas tabelas e utilizada para manter a consistência entre linhas nas duas
+tabelas.
+
+Permitir o armazenamento da informação em um único local com acesso descentralizado e, sendo
+compartilhada com vários sistemas, os usuários estarão utilizando uma informação confiável –
+trata-se de uma eliminação de inconsistências. A inconsistência ocorre quando um mesmo campo
+tem valores diferentes em sistemas diferentes.
+
+Exemplo: o estado civil de uma pessoa é solteiro em um sistema e casado em outro. Isto ocorre
+porque esta pessoa atualizou o campo em um sistema e não o atualizou em outro. Quando o dado
+é armazenado em um único local e compartilhado pelos sistemas, este problema não ocorre. Dessa
+forma, trata-se de Manutenção de Integridade/Eliminação de Inconsistências.
+
+                                                                                       Gabarito: Letra A
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      40
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+             QUESTÕES COMENTADAS – DIVERSAS BANCAS
+31. (FADESP / SEFA-PA – 2022) A informação armazenada do catálogo do Sistema Gerenciador de
+    Banco de Dados (SGBD), que possui a estrutura de cada arquivo, o tipo e o formato de
+    armazenamento de cada item de dados, é chamada de:
+
+   a) recovery
+   b) data center
+   c) data mining
+   d) metadados
+   e) índices
+
+Comentários:
+
+As informações do catálogo são dados sobre os próprios dados (estrutura, tipo, formato, etc), logo
+são chamadas de metadados.
+
+                                                                                       Gabarito: Letra D
+
+32. (FADESP / SEFA-PA – 2022) Sobre as características de um Sistema Gerenciador de Banco de
+    Dados (SGBD), julgue verdadeira (V) ou falsa (F) cada uma das afirmativas a seguir.
+
+   I. Um SGBD tem como propriedade a dependência dos dados do programa. A estrutura dos
+   arquivos de dados é armazenada no catálogo do SGDB separadamente dos programas de
+   acesso.
+
+   II. Um SGDB multiusuário precisa oferecer suporte para definir múltiplas visões dos dados. Por
+   exemplo, uma visão pode ser um subconjunto do banco de dados ou conter um dado virtual que
+   é derivado dos arquivos do banco de dados.
+
+   III. Um SGDB precisa garantir que as transações concorrentes sejam realizadas de maneira
+   correta, ou seja, quando vários usuários tentarem atualizar o mesmo dado é preciso garantir o
+   controle de concorrência para que o resultado das operações seja correto.
+
+   A sequência correta é:
+
+   a) I - F; II - V; III - V.
+   b) I - F; II - F; III - V.
+   c) I - V; II - V; III - V.
+   d) I - F; II - F; III - F.
+   e) I - V; II - V; III - F.
+
+
+
+
+         Receita Federal (Analista Tributário) Fluência em Dados                                     41
+         www.estrategiaconcursos.com.br                                                              58
+
+                                     https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Comentários:
+
+(I) Errado, SGBD tem como propriedade a independência dos dados do programa; (II) Correto; (III)
+Correto.
+
+                                                                                       Gabarito: Letra A
+
+33. (QUADRIX / Prefeitura de Jataí – 2019) Com relação aos conceitos e às definições de banco de
+    dados, assinale a alternativa correta:
+
+   a) Um banco de dados não é formado por um conjunto de arquivos, mas sim por um conjunto
+   de dados com as mesmas características.
+
+   b) Um banco de dados é um conjunto de dados organizados, com o objetivo de armazenamento
+   persistente dos dados, que possui mecanismos de manipulação e recuperação de informações.
+
+   c) Um banco de dados é um conjunto integrado de dados não relacionados logicamente.
+
+   d) A melhor definição para banco de dados é que ele é uma representação estática, visto que os
+   dados não podem sofrer alterações temporais.
+
+   e) O banco de dados é uma estrutura de compartilhamento parcial, ou seja, os dados existentes
+   em um banco de dados não podem ser compartilhados por várias pessoas; apenas uma pessoa
+   por vez pode ter acesso ao banco de dados
+
+Comentários:
+
+(a) Errado, todo banco de dados digital é formado – em última instância – por um conjunto de
+arquivos; (b) Correto, ele realmente tem o objetivo de persistir os dados e possui mecanismos de
+manipulação e recuperação de dados; (c) Errado, os dados são logicamente relacionados; (d)
+Errado, bancos de dados possuem uma representação dinâmica, podendo alterar dados e modelos
+para se ajustar ao minimundo que eles descrevem; (e) Errado, os dados do banco de dados são
+compartilhados entre diferentes grupos de usuários – em geral, cada grupo possui a visão de apenas
+parte do banco de dados.
+
+                                                                                       Gabarito: Letra B
+
+34. (QUADRIX / CREA-TO – 2019) Em um banco de dados, é necessária a abstração dos dados, de
+    tal forma que o usuário não se importe com a forma como eles estão armazenados.
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      42
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+Abstração é a retirada/redução de detalhes. Um banco de dados abstrai a complexidade de como
+os dados estão efetivamente armazenados. Em outras palavras, o usuário não se preocupa com a
+maneira como os dados estão fisicamente armazenados – ele se preocupa apenas com os valores
+dos dados em si.
+
+                                                                                       Gabarito: Correto
+
+35. (CETREDE / Prefeitura de Itaitinga – 2019) Antigamente, os bancos de dados eram manuais.
+    Atualmente com a difusão tecnológica a grande maioria dos bancos de dados são digitais. Eles
+    compõem um conjunto estruturado de dados que obedecem a um modelo de dados e são
+    armazenados em formato digital – em um hardware (geralmente, um servidor da rede –
+    storage). NÃO é vantagem de um banco de dados,
+
+   a) maior volume de dados armazenado.
+   b) ocupar maior espaço físico.
+   c) maior velocidade de acesso aos dados.
+   d) permite o compartilhamento de informações.
+   e) persistência dos dados: depois de muitos anos, ainda podem ser acessados.
+
+Comentários:
+
+(a) Errado, essa é uma vantagem de bancos de dados; (b) Correto, essa não é uma vantagem de
+bancos de dados porque, na verdade, eles ocupam menor espaço físico podendo armazenar mais
+dados em um espaço menor; (c) Errado, essa é uma vantagem de bancos de dados; (d) Errado, essa
+é uma vantagem de bancos de dados; (e) Errado, essa é uma vantagem de bancos de dados.
+
+                                                                                       Gabarito: Letra B
+
+36. (IADES / CRN3 – 2019) No que se refere aos conceitos gerais de banco de dados, assinale a
+    alternativa correta.
+
+   a) Os dados, independentes ou não, de um banco de dados formam necessariamente uma
+   informação.
+
+   b) Os projetistas, também conhecidos como administradores do banco de dados (database
+   administrators), são os usuários iniciantes ou paramétricos do sistema.
+
+   c) Um banco de dados não representa um aspecto do mundo real.
+
+   d) Uma planilha do Microsoft Excel ou uma lista de contatos (nome, telefone e e-mail) de uma
+   agenda configuram um banco de dados.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      43
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   e) A edição ou a alteração dos dados de um banco de dados é muito onerosa ao administrador,
+   o que torna comum a prática de sua total exclusão.
+
+Comentários:
+
+(a) Errado, dados e informações são conceitos distintos e os dados não formam necessariamente
+informações; (b) Errado, os projetistas não são usuários iniciantes; (c) Errado, um banco de dados
+representa uma porção do mundo real, que pode ser chamado de minimundo ou Universo de
+Discurso. Qualquer alteração sofrida por esse minimundo deve ser refletida no banco de dados; (d)
+Correto, eles podem ser considerados um banco de dados; (e) Errado, não é necessariamente
+onerosa – pode ser, inclusive, extremamente simples.
+
+                                                                                       Gabarito: Letra D
+
+37. (IDCAP / Prefeitura de Canaã – 2019) A coleção de informações armazenadas de um banco de
+    dados é chamada de:
+
+   a) Parâmetros.
+   b) Instância.
+   c) Esquema.
+   d) Arquitetura.
+   e) Projeto.
+
+Comentários:
+
+A coleção de informações armazenadas de um banco de dados é chamada de instância. Instância
+(ou Estado) é o conjunto de dados armazenados no banco e um determinado momento de operação
+– o esquema é a descrição da estrutura dos dados; a instância são os dados em si!
+
+                                                                                       Gabarito: Letra B
+
+38. (SUGEP / UFRPE – 2019) O padrão de ANSI/SPARC para arquitetura de SGBD define uma
+    arquitetura em três níveis. São eles:
+
+   a) nível interno, nível de usuário e nível físico.
+   b) nível interno, nível externo e nível conceitual.
+   c) nível externo, nível de tabelas e nível físico.
+   d) nível conceitual, nível de usuário e nível de arquivos.
+   e) nível de tabelas, nível de arquivos e nível de visão.
+
+Comentários:
+
+Os três níveis são: nível interno, nível externo e nível conceitual.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      44
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                                                                                       Gabarito: Letra B
+
+39. (CONSULPLAN / TRF 2ª REGIÃO - 2017) Em banco de dados relacional à arquitetura mais
+    difundida na literatura é a Arquitetura “Three-Schema” (também conhecida como arquitetura
+    ANSI/SPARC), proposta por Tsichritzis & Klug em 1978. A arquitetura “three-schema” pode ser
+    utilizada para explicar conceitos de independência de dados, que podem ser definidos como a
+    capacidade de alterar o esquema de um nível sem ter que alterar o esquema no próximo nível
+    superior. Um SGBD é uma coleção de arquivos e programas inter-relacionados permitindo a
+    consulta e modificação de dados, no qual é possível ter uma abstração dos dados em 3 níveis; na
+    arquitetura ANSI/SPARC são conhecidos como:
+
+   a) Lógico, físico e hierárquico.
+   b) Interno, conceitual e externo.
+   c) Relacional, rede e hierárquico.
+   d) Conceitual, relacional e hierárquico.
+
+Comentários:
+
+A Arquitetura ANSI/SPARC (Três Esquemas) se divide em três níveis independentes de abstração
+de dados: interno, conceitual e externo.
+
+                                                                                       Gabarito: Letra B
+
+40. (INSTITUTO AOCP / EBSERH - 2015) A técnica utilizada para a especificação e explorar
+    estrutura orientada a dados para um banco de dados é chamada de Modelagem de dados. Para
+    entender como os modelos de dados podem ser usados na prática, depara-se com três estilos
+    básicos de modelos de dados. Quais são esses estilos?
+
+   a) Modelos Conceituais, Modelos Lógicos e Modelos de Contexto.
+   b) Modelos Conceituais, Modelos de Contexto e Modelos Físicos.
+   c) Modelos de Contexto, Modelos Lógicos e Modelos Físicos.
+   d) Modelos Conceituais, Modelos Lógicos e Modelos Físicos.
+   e) Modelos de Aplicações, Modelos de Contexto e Modelos Conceituais.
+
+Comentários:
+
+Existem três modelos que representam a estrutura ou projeto de um banco de dados em diferentes
+níveis de abstração: Modelo Conceitual, Modelo Lógico e Modelo Físico.
+
+                                                                                       Gabarito: Letra D
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      45
+        www.estrategiaconcursos.com.br                                                               58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                      QUESTÕES COMENTADAS – CESPE
+
+1. (CESPE / SEFAZ-SE – 2022) As técnicas de controle de concorrência são usadas para garantir a
+   propriedade de não interferência ou isolamento das transações executadas simultaneamente.
+   Algumas das principais técnicas usadas para controlar a execução concorrente de transações
+   são baseadas no conceito de bloqueio de itens de dados.
+
+   Considerando os tipos de bloqueios, assinale a opção que contém o esquema de bloqueio que
+   possui dois estados — bloqueado e desbloqueado — e que é considerado muito restritivo para
+   itens de banco de dados, porque no máximo uma transação pode manter um bloqueio em
+   determinado item.
+
+   a) bloqueios compartilhados
+   b) bloqueios binários
+   c) bloqueios exclusivos
+   d) bloqueio em duas fases conservador
+   e) bloqueio em duas fases básico
+
+2. (CESPE / Polícia Federal – 2021) Em um sistema gerenciador de banco de dados, as restrições
+   de integridade garantem que os dados possam ser armazenados, consultados e utilizados com
+   confiabilidade.
+
+3. (CESPE / Polícia Federal – 2021) Atomicidade refere-se à propriedade de um sistema
+   gerenciador de banco de dados (SGBD) que garante que os dados armazenados sejam
+   indivisíveis.
+
+4. (CESPE / APEX-BRASIL – 2021) Assinale a opção em que o termo apresentado corresponde a
+   uma sequência de instruções de consulta e(ou) atualização de banco de dados:
+
+   a) commit
+   b) rollback
+   c) truncate
+   d) transaction
+
+5. (CESPE / ME – 2020) Um esquema de banco de dados é um conjunto de regras que governa um
+   banco de dados ou todo o conjunto de objetos pertencentes a determinado usuário.
+
+6. (CESPE / TJ-PA – 2020) Um sistema de banco de dados proporciona a empresas o controle
+   centralizado de todos os seus dados. O funcionamento do banco de dados baseia-se em
+   unidades lógicas de trabalho conhecidas como:
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             46
+        www.estrategiaconcursos.com.br                                                      58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   a) entidades.
+   b) ocorrências.
+   c) registros.
+   d) tabelas.
+   e) transações.
+
+7. (CESPE / TJ-AM – 2019) Uma das vantagens de utilizar sistema gerenciador de banco de dados
+   é o fato de ele realizar o controle da redundância de dados, o que impede a ocorrência de
+   inconsistências entre os arquivos.
+
+8. (CESPE / TJ-AM – 2019) Na arquitetura ANSI/SPARC de um SGBD, o nível interno trata do
+   armazenamento físico dos dados, o nível externo trata do modo como os dados são visualizados
+   por usuários individuais, e o nível conceitual oferece uma visão comunitária dos dados.
+
+9. (CESPE / STM - 2018) O modelo conceitual, que reflete uma estrutura simplificada do banco de
+   dados, é responsável por registrar como os dados estão armazenados no sistema de
+   gerenciamento de banco de dados (SGBD).
+
+10. (CESPE / TCE-PB - 2018) A respeito de SGBD, assinale a opção correta.
+
+   a) Um SGBD é um software que não prevê as funções de definição, recuperação e alteração de
+   dados, sendo essa tarefa a função básica de um sistema de banco de dados.
+
+   b) A consistência de dados é o princípio que determina a manutenção de determinado dado em
+   vários arquivos diferentes.
+
+   c) Conforme o princípio da atomicidade, caso ocorra erro em determinada transação, todo o
+   conjunto a ela relacionado será desfeito até o retorno ao estado inicial, como se a transação
+   nunca tivesse sido executada.
+
+   d) O controle de concorrência é o princípio que garante e permite a manipulação, no mesmo
+   momento, de um mesmo dado por mais de uma pessoa ou um sistema.
+
+   e) Um SGBD, por definição, não é flexível, dada a dificuldade de mudar a estrutura dos dados
+   quando os requisitos mudam.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                              47
+        www.estrategiaconcursos.com.br                                                       58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                          QUESTÕES COMENTADAS – FCC
+11. (FCC / DPE-RS – 2017) O dicionário de dados de um banco de dados relacional:
+
+   a) não se aplica a tabelas com pequeno número de registros.
+   b) não considera o armazenamento da lista de atributos chave das tabelas.
+   c) armazena, dentre outras informações, nomes de tabelas e de seus atributos.
+   d) ignora os domínios de cada atributo das tabelas.
+   e) somente se aplica a tabelas com grande número de atributos.
+
+12. (FCC / DPE-SP - 2015) As transações em bancos de dados distribuídos precisam preservar as
+    propriedades conhecidas como ACID. Dentre estas propriedades está a:
+
+   a) Atomicidade.
+   b) Confidencialidade.
+   c) Autenticidade.
+   d) Integridade.
+   e) Disponibilidade.
+
+13. (FCC / SABESP - 2014) Um SGBD possui a capacidade de mudar o esquema interno sem ter de
+    alterar o esquema conceitual, consequentemente não havendo necessidade de alteração do
+    esquema externo. As mudanças no esquema interno podem ser necessárias para que alguns
+    arquivos físicos possam ser reorganizados, por exemplo, pela criação de estruturas de acesso
+    adicionais para aperfeiçoar o desempenho da recuperação ou atualização de dados.
+
+   Essa característica de um SGBD é denominada:
+
+   a) modelo lógico de dados.
+   b) modelo físico de dados.
+   c) independência modular.
+   d) representação conceitual.
+   e) independência física de dados.
+
+14. (FCC / TJ-AP – 2014) Em um determinado momento, a coleção das informações armazenadas
+    em um banco de dados é:
+
+   a) o esquema desse banco de dados.
+   b) uma instância desse banco de dados.
+   c) um metamodelo desse banco de dados.
+   d) o projeto geral desse banco de dados.
+   e) uma partição desse banco de dados.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                              48
+        www.estrategiaconcursos.com.br                                                       58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+15. (FCC / TCE-AM – 2012) O modelo conceitual de dados:
+
+   a) é aquele em que os objetos, suas características e relacionamentos têm a representação de
+   acordo com as regras de implementação e limitantes impostos por algum tipo de tecnologia.
+
+   b) é aquele em que os objetos, suas características e relacionamentos têm a representação fiel
+   ao ambiente observado, independente de limitações quaisquer impostas por tecnologias,
+   técnicas de implementação ou dispositivos físicos.
+
+   c) é aquele elaborado respeitando-se e implementando-se conceitos tais como chaves de
+   acesso, controle de chaves duplicadas, itens de repetição (arrays), normalização, ponteiros e
+   integridade referencial, entre outros.
+
+   d) é a fase da modelagem na qual é necessário considerar todas as particularidades de
+                                                       ==219a34==
+
+
+
+
+   implementação, principalmente o modelo que será utilizado para a implementação futura.
+
+   e) está sempre associado às fases de projeto, contrastando com o modelo lógico, que sempre
+   está associado à fase de análise, quando utilizado com as metodologias de desenvolvimento de
+   sistemas e implementado por ferramentas CASE.
+
+16. (FCC / MPE-SE – 2013) A capacidade de alterar o esquema conceitual sem mudar o esquema
+   externo ou os programas, podendo modificar o esquema conceitual para expandir o banco de
+   dados (adicionando um tipo de registro ou item de dados), variar as restrições ou reduzir o banco
+   de dados (removendo um tipo de registro ou item de dados) é chamada de:
+
+   a) modularidade.
+   b) modelo conceitual.
+   c) independência lógica de dados.
+   d) polimorfismo.
+   e) agregação.
+
+17. (FCC / TCE-SP - 2010) A propriedade das transações de um SGBD que garante: “ou todas as
+    operações da transação são refletidas corretamente no banco de dados ou nenhuma o será” é
+    a:
+
+   a) Atomicidade.
+   b) Isolamento.
+   c) Consistência.
+   d) Integridade.
+   e) Durabilidade.
+
+18. (FCC / TRT 20 - 2010) Em relação à execução de uma transação em um banco de dados,
+    considere:
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                  49
+        www.estrategiaconcursos.com.br                                                           58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   Para que uma transação seja efetivada, todas as ações que compõem a respectiva unidade de
+   trabalho devem ser concluídas com sucesso. Caso contrário, a ação que constituiu falha e a
+   transação devem ser desfeitas.
+
+   A afirmação refere-se a uma das quatro propriedades da integridade de uma transação,
+   denominada:
+
+   a) Atomicidade.
+   b) Isolamento.
+   c) Durabilidade.
+   d) Consistência.
+   e) Efetividade.
+
+19. (FCC / TCE-SP – 2009) Considerando que os dados constituem um dos bens mais valiosos de
+    uma empresa, é necessário que haja um papel que tenha a responsabilidade central pelos dados,
+    principalmente entendendo as necessidades empresariais nos altos níveis da organização. Tal
+    papel é mais adequadamente desempenhado pela:
+
+   a) administração de banco de dados.
+   b) administração de dados.
+   c) alta administração da organização.
+   d) análise de sistemas.
+   e) gerência de sistemas.
+
+20. (FCC / TCE-SP – 2009) As três visões da arquitetura básica de um SGBD, pela ordem, desde a
+    mais próxima do usuário até a mais distante, são:
+
+   a) externa, conceitual e interna.
+   b) externa, interna e conceitual.
+   c) conceitual, interna e externa.
+   d) conceitual, externa e interna.
+   e) interna, conceitual e externa.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                               50
+        www.estrategiaconcursos.com.br                                                        58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+                         QUESTÕES COMENTADAS – FGV
+21. (FGV / SEAD-AP – 2022) Os sistemas gerenciadores de bancos de dados são largamente
+    utilizados em aplicações computacionais, pois oferecem um conjunto de propriedades
+    importantes para a segurança e confiabilidade dos dados, conhecido pela sigla ACID.
+
+   O propósito da propriedade correspondente à letra I na referida sigla é:
+
+   a) garantir a independência dos dados em relação ao hardware empregado.
+   b) garantir a independência dos dados em relação ao sistema gerenciador de dados.
+   c) garantir o isolamento das transições quando executadas por processos concomitantes.
+   d) permitir a integração de diferentes gerenciadores de bancos de dados.
+   e) permitir a inter-relação de diferentes padrões internacionais de codificação de dados.
+
+22. (FGV / TJ-RO – 2021) No contexto da implementação de bancos de dados, o acrônimo ACID
+    denota o conjunto de propriedades que devem ser observadas por sistemas transacionais. Essas
+    quatro propriedades são:
+
+   a) Amorfabilidade, Concorrência, Integridade e Durabilidade;
+   b) Atomicidade, Consistência, Isolamento e Durabilidade;
+   c) Atualização, Coesão, Inserção e Deleção;
+   d) Auditabilidade, Conformidade, Independência e Distribuição;
+   e) Automação, Concorrência, Integridade e Distribuição.
+
+23. (FGV / MPE-AL– 2018) O conjunto de programas responsável pelo gerenciamento de uma base
+    de dados e que, entre outras funções, suporta uma linguagem de consulta, gera relatórios e
+    disponibiliza uma interface para que os seus clientes possam incluir, alterar ou consultar dados,
+    é chamado de:
+
+   a) Banco de Dados Relacional (BDR).
+   b) Dicionário de Dados (DD).
+   c) Modelo Entidade Relacionamento (MER).
+   d) Sistema de Suporte à Decisão (SSD).
+   e) Sistema Gerenciador de Bancos de Dados (SGBD).
+
+24. (FGV / Prefeitura de Paulínia - SP – 2016) A execução de transações de bancos de dados deve
+    observar um conjunto de propriedades, cuja finalidade é a manutenção da integridade dos
+    dados armazenados nas tabelas. Assinale a opção que apresenta as propriedades usualmente
+    implementadas nos sistemas gerenciadores de bancos de dados:
+
+   a) Independência de dados e integridade referencial.
+   b) Manutenção de logs e extração de backups.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                   51
+        www.estrategiaconcursos.com.br                                                            58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   c) Segurança, criptografia e sigilo.
+   d) Atomicidade, durabilidade, consistência e isolamento.
+   e) Performance, segurança e escalabilidade.
+
+25. (FGV / DPE-RJ – 2014) A sigla DBA é usualmente empregada para designar um profissional que
+    é responsável:
+
+   a) pela administração, instalação, configuração e monitoramento de instalações de bancos de
+   dados.
+   b) pela concepção, desenvolvimento e implantação de sistemas gerenciadores de bancos de
+   dados.
+   c) pelo processo de coleta e exploração de dados para geração de novos conhecimentos.
+   d) pelo teste e manutenção de sistemas WEB construídos sob a égide de metodologias ágeis.
+   e) pelo treinamento e certificação para utilização de gerenciadores de bancos de dados.
+
+26. (FGV / AL-MT – 2013) Características que distinguem a abordagem de bancos de dados
+    relacionais e centralizados da abordagem tradicional, baseada em processamento de arquivos,
+    estão listadas a seguir à exceção de uma. Assinale-a.
+
+   a) Compartilhamento de dados e processamento de transações multiusuários.
+   b) Suporte para múltiplas visões de dados.
+   c) Isolamento entre os programas e os dados.
+   d) Dados são armazenados e tratados somente como cadeias de caracteres.
+   e) Natureza autodescritiva do sistema de bancos de dados.
+
+27. (FGV / AL-MT – 2013) O modelo de dados abstrato que descreve a estrutura de um banco de
+    dados de forma independente de um SGBD chama-se modelo:
+
+   a) lógico.
+   b) conceitual.
+   c) físico.
+   d) algorítmico.
+   e) funcional.
+
+28. (FGV / BADESC - 2010) A arquitetura de um SGBD ou a arquitetura de um sistema de banco de
+    dados, também denominada de arquitetura ANSI/SPARC em três níveis, determina que um
+    SGBD descreva como os dados devem ser armazenados e acessados e conter estes mesmos
+    dados de fato armazenados.
+
+   As terminologias desta arquitetura que contêm essas descrições e os dados de fato
+   armazenados, são respectivamente:
+
+   a) esquema físico e nível físico.
+   b) nível físico e esquema físico.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             52
+        www.estrategiaconcursos.com.br                                                      58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   c) nível físico e esquema conceitual.
+   d) nível conceitual e esquema físico.
+   e) nível conceitual e esquema conceitual.
+
+29. (FGV / SEFAZ-RJ – 2008) No funcionamento de um sistema de gerenciamento de banco de
+    dados, uma situação de falha ocorre quando dois usuários tentam alterar, simultaneamente, um
+    mesmo registro. Por exemplo, no caso de dois clientes de uma empresa de cartões de crédito
+    tentarem realizar, num dado instante, a liquidação de um mesmo boleto da mesma fatura, um
+    deles receberá uma mensagem de falha. A situação descrita é conhecida por:
+
+   a) Multlock.
+   b) Crashing.
+   c) Overlock.
+   d) Locking.
+   e) Deadlock.
+
+30. (FGV / SEFAZ-MS - 2006) A implementação de Sistemas Gerenciadores de Banco de Dados -
+    SGBD proporciona duas grandes vantagens, que consistem em:
+
+   I. impedir que um determinado código ou chave em uma tabela não tenha correspondência em
+   outra tabela.
+
+   II. permitir o armazenamento da informação em um único local com acesso descentralizado e,
+   sendo compartilhada com vários sistemas, os usuários estarão utilizando uma informação
+   confiável.
+
+   Essas vantagens são conhecidas por:
+
+   a) Manutenção de Integridade / Eliminação de Inconsistências.
+   b) Independência dos Dados / Eliminação de Redundâncias.
+   c) Independência dos Dados / Eliminação de Inconsistências.
+   d) Restrições de Segurança / Eliminação de Inconsistências.
+   e) Restrições de Segurança / Eliminação de Redundâncias.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                              53
+        www.estrategiaconcursos.com.br                                                       58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+             QUESTÕES COMENTADAS – DIVERSAS BANCAS
+31. (FADESP / SEFA-PA – 2022) A informação armazenada do catálogo do Sistema Gerenciador de
+    Banco de Dados (SGBD), que possui a estrutura de cada arquivo, o tipo e o formato de
+    armazenamento de cada item de dados, é chamada de:
+
+   a) recovery
+   b) data center
+   c) data mining
+   d) metadados
+   e) índices
+
+32. (FADESP / SEFA-PA – 2022) Sobre as características de um Sistema Gerenciador de Banco de
+    Dados (SGBD), julgue verdadeira (V) ou falsa (F) cada uma das afirmativas a seguir.
+
+   I. Um SGBD tem como propriedade a dependência dos dados do programa. A estrutura dos
+   arquivos de dados é armazenada no catálogo do SGDB separadamente dos programas de
+   acesso.
+
+   II. Um SGDB multiusuário precisa oferecer suporte para definir múltiplas visões dos dados. Por
+   exemplo, uma visão pode ser um subconjunto do banco de dados ou conter um dado virtual que
+   é derivado dos arquivos do banco de dados.
+
+   III. Um SGDB precisa garantir que as transações concorrentes sejam realizadas de maneira
+   correta, ou seja, quando vários usuários tentarem atualizar o mesmo dado é preciso garantir o
+   controle de concorrência para que o resultado das operações seja correto.
+
+   A sequência correta é:
+
+   a) I - F; II - V; III - V.
+   b) I - F; II - F; III - V.
+   c) I - V; II - V; III - V.
+   d) I - F; II - F; III - F.
+   e) I - V; II - V; III - F.
+
+33. (QUADRIX / Prefeitura de Jataí – 2019) Com relação aos conceitos e às definições de banco de
+    dados, assinale a alternativa correta:
+
+   a) Um banco de dados não é formado por um conjunto de arquivos, mas sim por um conjunto
+   de dados com as mesmas características.
+
+   b) Um banco de dados é um conjunto de dados organizados, com o objetivo de armazenamento
+   persistente dos dados, que possui mecanismos de manipulação e recuperação de informações.
+
+         Receita Federal (Analista Tributário) Fluência em Dados                              54
+         www.estrategiaconcursos.com.br                                                       58
+
+                                     https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   c) Um banco de dados é um conjunto integrado de dados não relacionados logicamente.
+
+   d) A melhor definição para banco de dados é que ele é uma representação estática, visto que os
+   dados não podem sofrer alterações temporais.
+
+   e) O banco de dados é uma estrutura de compartilhamento parcial, ou seja, os dados existentes
+   em um banco de dados não podem ser compartilhados por várias pessoas; apenas uma pessoa
+   por vez pode ter acesso ao banco de dados
+
+34. (QUADRIX / CREA-TO – 2019) Em um banco de dados, é necessária a abstração dos dados, de
+    tal forma que o usuário não se importe com a forma como eles estão armazenados.
+
+35. (CETREDE / Prefeitura de Itaitinga – 2019) Antigamente, os bancos de dados eram manuais.
+    Atualmente com a difusão tecnológica a grande maioria dos bancos de dados são digitais. Eles
+    compõem um conjunto estruturado de dados que obedecem a um modelo de dados e são
+    armazenados em formato digital – em um hardware (geralmente, um servidor da rede –
+    storage). NÃO é vantagem de um banco de dados,
+
+   a) maior volume de dados armazenado.
+   b) ocupar maior espaço físico.
+   c) maior velocidade de acesso aos dados.
+   d) permite o compartilhamento de informações.
+   e) persistência dos dados: depois de muitos anos, ainda podem ser acessados.
+
+36. (IADES / CRN3 – 2019) No que se refere aos conceitos gerais de banco de dados, assinale a
+    alternativa correta.
+
+   a) Os dados, independentes ou não, de um banco de dados formam necessariamente uma
+   informação.
+
+   b) Os projetistas, também conhecidos como administradores do banco de dados (database
+   administrators), são os usuários iniciantes ou paramétricos do sistema.
+
+   c) Um banco de dados não representa um aspecto do mundo real.
+
+   d) Uma planilha do Microsoft Excel ou uma lista de contatos (nome, telefone e e-mail) de uma
+   agenda configuram um banco de dados.
+
+   e) A edição ou a alteração dos dados de um banco de dados é muito onerosa ao administrador,
+   o que torna comum a prática de sua total exclusão.
+
+37. (IDCAP / Prefeitura de Canaã – 2019) A coleção de informações armazenadas de um banco de
+    dados é chamada de:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                               55
+        www.estrategiaconcursos.com.br                                                        58
+
+                                    https://t.me/KakashiAssinaturasBot
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 04
+
+
+
+
+   a) Parâmetros.
+   b) Instância.
+   c) Esquema.
+   d) Arquitetura.
+   e) Projeto.
+
+38. (SUGEP / UFRPE – 2019) O padrão de ANSI/SPARC para arquitetura de SGBD define uma
+    arquitetura em três níveis. São eles:
+
+   a) nível interno, nível de usuário e nível físico.
+   b) nível interno, nível externo e nível conceitual.
+   c) nível externo, nível de tabelas e nível físico.
+   d) nível conceitual, nível de usuário e nível de arquivos.
+   e) nível de tabelas, nível de arquivos e nível de visão.
+
+39. (CONSULPLAN / TRF 2ª REGIÃO - 2017) Em banco de dados relacional à arquitetura mais
+    difundida na literatura é a Arquitetura “Three-Schema” (também conhecida como arquitetura
+    ANSI/SPARC), proposta por Tsichritzis & Klug em 1978. A arquitetura “three-schema” pode ser
+    utilizada para explicar conceitos de independência de dados, que podem ser definidos como a
+    capacidade de alterar o esquema de um nível sem ter que alterar o esquema no próximo nível
+    superior. Um SGBD é uma coleção de arquivos e programas inter-relacionados permitindo a
+    consulta e modificação de dados, no qual é possível ter uma abstração dos dados em 3 níveis; na
+    arquitetura ANSI/SPARC são conhecidos como:
+
+   a) Lógico, físico e hierárquico.
+   b) Interno, conceitual e externo.
+   c) Relacional, rede e hierárquico.
+   d) Conceitual, relacional e hierárquico.
+
+40. (INSTITUTO AOCP / EBSERH - 2015) A técnica utilizada para a especificação e explorar
+    estrutura orientada a dados para um banco de dados é chamada de Modelagem de dados. Para
+    entender como os modelos de dados podem ser usados na prática, depara-se com três estilos
+    básicos de modelos de dados. Quais são esses estilos?
+
+   a) Modelos Conceituais, Modelos Lógicos e Modelos de Contexto.
+   b) Modelos Conceituais, Modelos de Contexto e Modelos Físicos.
+   c) Modelos de Contexto, Modelos Lógicos e Modelos Físicos.
+   d) Modelos Conceituais, Modelos Lógicos e Modelos Físicos.
+   e) Modelos de Aplicações, Modelos de Contexto e Modelos Conceituais.
+
+
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 56
+        www.estrategiaconcursos.com.br                                                          58
+
+                                    https://t.me/KakashiAssinaturasBot
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 04
+
+
+
+
+                                               GABARITO
+1. LETRA B                              15. LETRA B                              29. LETRA E
+2. CORRETO                              16. LETRA C                              30. LETRA A
+3. ANULADA                              17. LETRA A                              31. LETRA D
+4. LETRA D                              18. LETRA A                              32. LETRA A
+5. CORRETO                              19. LETRA B                              33. LETRA B
+6. LETRA E                              20. LETRA A                              34. CORRETO
+7. CORRETO                              21. LETRA C                              35. LETRA B
+8. CORRETO                              22. LETRA B                              36. LETRA D
+9. ERRADO                               23. LETRA E                              37. LETRA B
+10. LETRA C                             24. LETRA D                              38. LETRA B
+11. LETRA C                             25. LETRA A                              39. LETRA B
+12. LETRA A                             26. LETRA D                              40. LETRA D
+13. LETRA E                             27. LETRA B
+14. LETRA B                             28. LETRA A
+
+
+
+
+       Receita Federal (Analista Tributário) Fluência em Dados                                 57
+       www.estrategiaconcursos.com.br                                                          58
+
+                                   https://t.me/KakashiAssinaturasBot
+

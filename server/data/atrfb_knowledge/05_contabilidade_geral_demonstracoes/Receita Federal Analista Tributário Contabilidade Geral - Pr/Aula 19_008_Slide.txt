@@ -1,0 +1,638 @@
+NBC TG 16 – Estoques
+Questões FGV Comentadas
+Prof. Gilmar Possati
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+(FGV/Pref. Caraguatatuba/2024)                                           Questões Comentadas FGV
+
+
+
+
+Em 01/01/2023, uma loja adquiriu 20 relógios para revenda por R$1.400. Para
+levar o estoque do fornecedor à loja, alugou um veículo por R$400 e contratou
+um motorista, cujos honorários pelo serviço foram de R$200. Além disso, a
+gasolina gasta diretamente no trajeto foi de R$100. Assinale a opção que indica o
+custo unitário do relógio em 01/01/2023.
+a) R$70,00.
+b) R$80,00.
+c) R$90,00.
+d) R$95,00.
+e) R$105,00.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/TJ-SE/2023)                                                        Questões Comentadas FGV
+
+
+
+Uma empresa comercial determinou os seguintes valores para seu estoque no
+final em 20X3:
+•     Custo histórico R$ 100.000;
+•     Custo de substituição R$ 70.000;
+• Valor realizável líquido R$ 90.000;
+•     Valor realizável líquido mais uma margem de lucro normal R$ 98.000;
+•     Valor justo R$ 95.000.
+Considerando-se as informações apresentadas, o valor que a empresa deve
+mensurar no estoque no Balanço Patrimonial é de:
+a) R$ 70.000;
+b) R$ 85.000;
+c) R$ 90.000;
+d) R$ 95.000;
+e) R$ 100.000.
+
+      @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FGV/CGE-SC/2023)                                                        Questões Comentadas FGV
+
+
+
+Em 02/01/X0, um estabelecimento comercial adquiriu para revenda 100 unidades
+de um produto a R$50,00 cada. Como a compra foi feita à vista, o
+estabelecimento recebeu um desconto e pagou R$4.800. Assinale a opção que
+indica a contabilização da compra no balanço patrimonial da loja em 02/01/X0,
+sem considerar a saída de caixa.
+a) Ativo Circulante: Estoques R$4.800.
+b) Ativo Circulante: Estoques R$4.800 e Despesa financeira a apropriar R$200.
+c) Ativo Circulante: Estoques R$4.800 e Passivo Circulante: Receita a apropriar
+R$200.
+d) Ativo Circulante: Estoques R$5.000 e conta redutora de estoque R$200.
+e) Ativo Circulante: Estoques R$5.000 e Passivo Circulante: Despesa financeira a
+pagar R$200.
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-MG/2023)                                                       Questões Comentadas FGV
+
+
+Uma loja vendia calculadoras. Em 31/12/X0, não havia calculadoras no estoque. Em
+02/01/X1, a loja adquiriu 100 calculadoras. O preço unitário cobrado pelo fabricante
+foi de R$ 100,00, mas a loja recebeu um desconto de 10% sobre o preço. Além disso,
+a loja pagou o frete de R$ 200,00. Ainda, a loja estimou que o custo de estocagem
+das calculadoras era de R$ 400,00. No primeiro trimestre de X1, 30 calculadoras
+foram vendidas por R$ 110,00 cada. Em 01/04, o preço baixou para R$ 95,00 e foram
+vendidas 10 calculadoras no segundo trimestre. Já em 01/07, o preço baixou para R$
+85,00. No trimestre foram vendidas 40 calculadoras. Em 01/10 o preço foi ajustado
+para R$ 100,00. Nesse trimestre, 8 calculadoras foram vendidas. Assinale a opção que
+indica o lucro bruto da loja, no ano de X1.
+a) R$ 178,00.
+b) R$ 250,00.
+c) R$ 354,00.
+d) R$ 538,00.
+e) R$ 634,00.
+
+        @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+Preço (unitário)           100                                                                     Questões Comentadas FGV
+(+) Frete (unitário)       2
+(-) Desconto Incondicional (10)
+(=) Custo Unitário         92
+                     Período              Custo                      VRL           Mensuração
+                                                                                    Estoque
+                     1º Trim.                92                      110               92
+                     2º Trim.                92                      95                92
+                     3º Trim.                92                      85                85
+                     4º Trim.                92                      100               92
+
+                                                         1º trim.            2º trim.   3º trim.        4º trim.
+                Preço de Venda                             110                  95         85             100
+                (-) CMV                                    (92)                (92)       (85)            (92)
+                (=) Lucro Bruto (unitário)                  18                  3           0              8
+                (x) Quantidade                              30                  10         40              8
+                (=) Lucro Bruto Total                      540                  30          0              64
+
+
+        @profgilmarpossati      @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FGV/Receita Federal/2023)                                               Questões Comentadas FGV
+
+
+
+Na contabilização do estoque de uma entidade do setor industrial, os gastos com
+armazenamento foram incluídos no valor dos estoques, reconhecidos no ativo. Em
+relação a esses gastos, pode-se afirmar que
+a) foram pagos à vista.
+b) seu montante é considerado material, frente ao custo das mercadorias.
+c) foram incorridos para trazer os estoques à sua condição e localização atuais.
+d) foram necessários ao processo produtivo entre uma e outra fase de produção.
+e) deverão ser amortizados mensalmente, com base na vida útil estimada do estoque.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+                                                                           Questões Comentadas FGV
+
+
+
+
+16. Exemplos de itens não incluídos no custo dos estoques e reconhecidos como
+despesa do período em que são incorridos:
+(a) valor anormal de desperdício de materiais, mão-de-obra ou outros insumos de
+produção;
+(b) gastos com armazenamento, a menos que sejam necessários ao processo
+produtivo entre uma e outra fase de produção;
+(c) despesas administrativas que não contribuem para trazer o estoque ao seu
+local e condição atuais; e
+(d) despesas de comercialização, incluindo a venda e a entrega dos bens e
+serviços aos clientes.
+
+
+
+
+         @profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/Receita Federal/2023)                                               Questões Comentadas FGV
+
+
+
+O custo dos estoques de bens ou serviços produzidos e segregados para projetos
+específicos deve ser atribuído pelo uso
+a) do custo médio ponderado fixo.
+b) do custo médio ponderado móvel.
+c) do último que entra, primeiro que sai.
+d) do primeiro que entra, primeiro que sai.
+e) da identificação específica dos custos individuais.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+                                                                          Questões Comentadas FGV
+
+
+
+
+23. O custo dos estoques de itens que não são normalmente intercambiáveis e
+de bens ou serviços produzidos e segregados para projetos específicos deve ser
+atribuído pelo uso da identificação específica dos seus custos individuais.
+24. A identificação específica do custo significa que são atribuídos custos
+específicos a itens identificados do estoque. Este é o tratamento apropriado para
+itens que sejam segregados para um projeto específico, independentemente de
+eles terem sido comprados ou produzidos. Porém, quando há grandes
+quantidades de itens de estoque que sejam geralmente intercambiáveis, a
+identificação específica de custos não é apropriada. Em tais circunstâncias, um
+critério de valoração dos itens que permanecem nos estoques deve ser usado.
+
+
+
+        @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+(FGV/Receita Federal/2023)                                                   Questões Comentadas FGV
+
+
+
+Uma entidade vende canetas personalizadas. Em 01/01/X0, não havia estoque. Em 02/01/X0, ela
+adquiriu 500 unidades de canetas para personalização e venda por R$6.000, para pagamento em 3
+meses. Se as canetas tivessem sido adquiridas à vista, o custo unitário seria de R$10,00. Na data da
+aquisição, a entidade incorreu em gastos com frete e seguro, respectivamente, de R$800 e R$700.
+Para a personalização das 500 canetas são gastos R$1.000 em material. Além disso, é utilizada uma
+máquina que foi adquirida por R$10.000 e tem capacidade estimada em 5.000 canetas. A máquina
+é depreciada de acordo com o método dos benefícios gerados e a entidade não considera valor
+residual. Ainda, os gastos com o armazenamento das 500 canetas prontas eram de R$1.500. Após
+prontas, 50 canetas foram descartadas, por estarem com qualidade inferior ao esperado. Em
+31/01/X0, as canetas foram colocadas à venda por R$20,00. A entidade destina aos vendedores
+uma comissão de 10% sobre o preço de venda. Assinale a opção que indica o valor contabilizado
+como estoque em 31/01/X0.
+a) R$5.850.
+b) R$6.750.
+c) R$7.650.
+d) R$8.100.
+e) R$9.000.
+         @profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+                                                                                           Questões Comentadas FGV
+Preço de compra 5.000,00 (500 x 10,00)
+(+) Frete                 800
+(+) Seguro                700
+(+) Material              1.000
+(+) Depreciação           1.000 (10.000/5.000)x500
+(=) Custo Total           8.500,00
+                                                                        Valor realizável líquido = 20,00 – 2,00
+Custo Unitário            17,00 (8.500/500)                             (comissão) = 18,00
+
+
+   A questão informa que houve uma perda de 50 canetas (50 x 17,00 = 850).
+   Logo, o valor contabilizado como estoque em 31/01/X0 fica: 8.500,00 – 850 =
+   7.650,00
+
+
+            @profgilmarpossati     @canalcontabilizando
+                                           https://t.me/KakashiAssinaturasBot
+                                                                           Questões Comentadas FGV
+
+
+“a entidade geralmente compra estoques com condição para pagamento a prazo. A
+negociação pode efetivamente conter um elemento de financiamento, como, por exemplo,
+uma diferença entre o preço de aquisição em condição normal de pagamento e o valor
+pago; essa diferença deve ser reconhecida como despesa de juros durante o período do
+financiamento”.
+  12. Os custos de transformação de estoques incluem os custos diretamente relacionados
+  com as unidades produzidas ou com as linhas de produção, como pode ser o caso da
+  mão de obra direta. Também incluem a alocação sistemática de custos indiretos de
+  produção, fixos e variáveis, que sejam incorridos para transformar os materiais em
+  produtos acabados. Os custos indiretos de produção fixos são aqueles que permanecem
+  relativamente constantes independentemente do volume de produção, tais como
+  a depreciação e a manutenção de edifícios e instalações fabris, máquinas, equipamentos e
+  ativos de direito de uso utilizados no processo de produção e o custo de gestão e de
+  administração da fábrica. Os custos indiretos de produção variáveis são aqueles que
+  variam diretamente, ou quase diretamente, com o volume de produção, tais como
+  materiais indiretos e certos tipos de mão de obra indireta.
+         @profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FGV/Pref. RJ/2023)                                                      Questões Comentadas FGV
+
+
+
+Uma empresa comercial vende pacotes de um produto. O estoque de pacotes
+está registrado, em 31 de dezembro de 20X3, a um custo de R$ 50,00 cada.
+Durante a auditoria, os auditores observaram que o preço de venda subsequente
+de cada pacote em 15 de janeiro de 20X4 era de R$ 40,00 cada. Ainda, nesse dia,
+uma diligência revelou que, durante o levantamento físico do estoque, um
+vazamento de água danificou parte do estoque. Consequentemente, a empresa
+gastou um total de R$ 15,00 por pacote para consertar e reaplicar cola nos
+pacotes. O valor realizável líquido e a redução (perda) do estoque equivalem,
+respectivamente, a:
+a) R$ 45,00 e R$ 10,00;
+b) R$ 40,00 e R$ 15,00;
+c) R$ 35,00 e R$ 25,00;
+d) R$ 30,00 e R$ 15,00;
+e) R$ 25,00 e R$ 25,00.
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+                                                                             Questões Comentadas FGV
+
+
+                              VRL = 40,00 – 15,00 = 25,00
+“o custo dos estoques pode não ser recuperável se esses estoques estiverem
+danificados, se se tornarem total ou parcialmente obsoletos ou se os seus preços de
+venda tiverem diminuído. O custo dos estoques pode também não ser recuperável
+se os custos estimados de acabamento ou os custos estimados a serem incorridos
+para realizar a venda tiverem aumentado. A prática de reduzir o valor de custo dos
+estoques (write down) para o valor realizável líquido é consistente com o ponto de
+vista de que os ativos não devem ser escriturados por quantias superiores àquelas
+que se espera que sejam realizadas com a sua venda ou uso”.
+
+                                 VRL = 40,00 – 15,00 = 25,00
+                                 Perdas = 10,00 + 15,00 = 25,00
+
+
+         @profgilmarpossati     @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FGV/TCE-BA/2023)                                                        Questões Comentadas FGV
+
+
+
+Uma empresa varejista de eletrônicos compra computadores de um fabricante e
+os armazena em depósitos antes de serem entregues em suas diversas lojas. A
+empresa então transfere esses computadores entre armazéns internos, gastando
+R$ 100.000. Ainda, após transportá-los até uma de suas lojas, acabou incorrendo
+em mais uma transferência entre lojas no valor de R$ 20.000. Considerando-se as
+informações apresentadas, os custos dos estoques:
+a) se manterão, independentemente dos gastos apresentados;
+b) aumentarão em R$ 20.000 e as despesas aumentarão em R$ 100.000;
+c) reduzirão em R$ 100.000 e as despesas aumentarão em R$ 20.000;
+d) aumentarão em R$ 120.000;
+e) aumentarão em R$ 100.000 e as despesas aumentarão em R$ 20.000.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/MPE-GO/2022)                                                        Questões Comentadas FGV
+
+
+Em 05/01/X0, uma entidade adquiriu R$10.000 em estoque. O valor equivalia a
+100 unidades do produto “k”. A entidade incorreu em custos de transporte e de
+seguro, no valor de, respectivamente, R$2.000 e R$4.000. Além disso, comprou
+um móvel para armazenar o estoque por R$2.000, com vida útil estimada em dois
+anos. A entidade paga a seus vendedores comissão de 10% sobre o preço de
+venda, por cada unidade vendida.
+Em janeiro de X0, a entidade vendeu metade do estoque por R$200,00 cada.
+Em fevereiro de X0, o preço unitário passou a ser R$150,00. No mês, dez
+unidades foram vendidas.
+Assinale a opção que indica o valor total do estoque do produto em 28/02/X0.
+a) R$5.400.
+b) R$5.760.
+c) R$6.000.
+d) R$6.400.
+e) R$7.200.
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-AM/2022)                                                       Questões Comentadas FGV
+
+
+Uma entidade adquire mercadorias para revenda no valor de R$50.000 à vista. A alíquota incidente
+do ICMS é de 18%. Assinale a opção que indica os lançamentos contábeis na entidade, no
+momento da compra.
+a) D – Estoque: R$50.000.
+   C - ICMS a recuperar: R$9.000.
+   C – Caixa: R$41.000.
+b) D – Estoque: R$50.000.
+   D - ICMS a recuperar: R$9.000.
+   C - ICMS a pagar: R$9.000.
+   C – Caixa: R$50.000.
+c) D – Estoque: R$50.000.
+   D - ICMS a recuperar: R$9.000.
+   C – Caixa: R$59.000.
+d) D – Estoque: R$41.000.
+   D - ICMS a recuperar: R$9.000.
+   C – Caixa: R$50.000.
+e) D – Estoque: R$41.000.
+   C - ICMS a pagar: R$9.000.
+   C – Caixa: R$32.000.
+         @profgilmarpossati  @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/SEFAZ-AM/2022)                                                      Questões Comentadas FGV
+
+
+
+
+Assinale a opção que indica exemplo de itens que não são incluídos no custo dos
+estoques, de acordo com o Pronunciamento Técnico CPC 16 (R1) - Estoques.
+a) Custos com seguro.
+b) Custos de transporte.
+c) Imposto de importação.
+d) Valor anormal de desperdício de materiais.
+e) Tributos não recuperáveis junto ao FISCO.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+                                                                            Questões Comentadas FGV
+
+
+11. O custo de aquisição dos estoques compreende o preço de compra, os impostos de
+importação e outros tributos (exceto os recuperáveis junto ao fisco), bem como os custos de
+transporte, seguro, manuseio e outros diretamente atribuíveis à aquisição de produtos acabados,
+materiais e serviços. Descontos comerciais, abatimentos e outros itens semelhantes devem ser
+deduzidos na determinação do custo de aquisição
+16. Exemplos de itens não incluídos no custo dos estoques e reconhecidos como despesa do
+período em que são incorridos:
+(a) valor anormal de desperdício de materiais, mão-de-obra ou outros insumos de produção;
+(b) gastos com armazenamento, a menos que sejam necessários ao processo produtivo entre
+uma e outra fase de produção;
+(c) despesas administrativas que não contribuem para trazer o estoque ao seu local e condição
+atuais; e
+(d) despesas de comercialização, incluindo a venda e a entrega dos bens e serviços aos clientes.
+
+
+          @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+(FGV/PC-RN/2021)                                                        Questões Comentadas FGV
+
+
+
+
+No Balanço Patrimonial, as contas do Ativo são organizadas em dois grandes
+grupos, de acordo com o prazo de realização destas no ciclo operacional da
+entidade.
+Em geral, itens adquiridos para estoque com o objetivo de comercialização
+devem ser classificados como:
+a) ativo circulante;
+b) ativo realizável a longo prazo;
+c) custo das mercadorias vendidas;
+d) despesas antecipadas;
+
+
+
+
+      @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                        Questões Comentadas FGV
+
+
+Uma fábrica produz e vende camisetas. O custo unitário de produção da camiseta
+é de R$16. No processo de fabricação de duzentas camisetas, houve um erro e
+metade delas saiu com defeito, de modo que não poderão ser utilizadas. Assinale
+a opção que indica o reconhecimento das camisetas da fábrica em suas
+demonstrações contábeis.
+a) Balanço patrimonial - Ativo Circulante - Estoques - R$3.200.
+b) Demonstração do Resultado do Exercício - Custo dos Produtos Vendidos -
+R$3.200.
+c) Balanço patrimonial - Ativo Circulante - Estoques R$1.600; Demonstração do
+Resultado do Exercício - Despesas Operacionais - R$1.600.
+d) Demonstração do Resultado do Exercício - Custo dos Produtos Vendidos -
+R$1.600; Demonstração do Resultado do Exercício - Despesas Operacionais
+R$1.600.
+e) Demonstração do Resultado do Exercício - Custo dos Produtos Vendidos -
+R$1.600; Demonstração do Resultado do Exercício - Perdas R$1.600.
+      @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+                                                                         Questões Comentadas FGV
+
+
+
+
+34. Quando os estoques são vendidos, o custo escriturado desses itens deve ser
+reconhecido como despesa do período em que a respectiva receita é
+reconhecida. A quantia de qualquer redução dos estoques para o valor realizável
+líquido e todas as perdas de estoques devem ser reconhecidas como despesa do
+período em que a redução ou a perda ocorrerem. A quantia de toda reversão de
+redução de estoques, proveniente de aumento no valor realizável líquido, deve
+ser registrada como redução do item em que for reconhecida a despesa ou a
+perda, no período em que a reversão ocorrer.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                        Questões Comentadas FGV
+
+
+
+
+Uma empresa teve todo o seu estoque destruído em um incêndio. O fato será
+contabilizado nas demonstrações contábeis da empresa como
+a) custo do estoque, na Demonstração do Resultado do Exercício.
+b) redutora da receita, na Demonstração do Resultado do Exercício.
+c) despesa, na Demonstração do Resultado do Exercício.
+d) custo do estoque, no Balanço Patrimonial.
+e) perdas com estoques, no Balanço Patrimonial.
+
+
+
+
+      @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                         Questões Comentadas FGV
+
+
+
+
+Em 02/01/X0, uma empresa adquiriu estoques no valor de R$ 60.000. Como a
+compra foi à vista, a empresa recebeu um desconto de 10% sobre o preço. Além
+disso, o fornecedor pagou o frete, que era de R$ 2.000, enquanto a empresa
+contratou e pagou o seguro de transporte, no valor de R$ 5.000. Ainda, a
+empresa comprou um armário para armazenamento do estoque, no valor de R$
+10.000. Assinale a opção que indica o custo de aquisição do estoque, evidenciado
+no Balanço Patrimonial da empresa.
+a) R$ 59.000,00.
+b) R$ 61.000,00.
+c) R$ 65.000,00.
+d) R$ 71.000,00.
+e) R$ 77.000,00.
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                         Questões Comentadas FGV
+
+
+
+
+Em 01/01/X0, o estoque de uma empresa era avaliado em R$ 2.000. Este era
+composto por 20 bolsas, que eram vendidas por R$ 120. No mês de janeiro, a
+empresa fez uma promoção e as bolsas passaram a ser vendidas por R$ 90. No
+mês, cinco bolsas foram vendidas. Assinale a opção que indica o valor do estoque
+final de bolsas, em 31/01/X0.
+a) R$ 450,00
+b) R$ 500,00
+c) R$ 1.350,00
+d) R$ 1.500,00
+e) R$ 1.800,00
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                        Questões Comentadas FGV
+
+
+
+
+Na contabilização do custo dos estoques, os itens a seguir devem ser
+reconhecidos na Demonstração do Resultado do Exercício como despesa do
+período em que são incorridos, à exceção de um. Assinale-o.
+a) Valor anormal de desperdício de materiais, mão de obra ou outros insumos de
+produção.
+b) Impostos de importação e outros tributos, exceto os recuperáveis junto ao
+Fisco.
+c) Despesas de comercialização, incluindo a venda e a entrega dos bens e
+serviços aos clientes.
+d) Despesas administrativas que não contribuem para trazer o estoque ao seu
+local e condição atuais.
+e) Gastos com armazenamento, a menos que sejam necessários ao processo
+produtivo entre uma e outra fase de produção.
+
+      @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                        Questões Comentadas FGV
+
+
+
+
+Assinale a opção que indica um exemplo do que deve ser incluído no custo do
+estoque
+a) Impostos de importação e outros tributos que não são recuperáveis junto ao
+Fisco.
+b) Valor anormal de desperdício de materiais, mão-de-obra ou outros insumos de
+produção.
+c) Gastos com armazenamento que não é necessário ao processo produtivo.
+d) Despesas administrativas que não contribuem para trazer o estoque ao seu
+local e condição atuais.
+e) Despesas de comercialização, incluindo a venda e a entrega dos bens e
+serviços aos clientes.
+
+
+
+
+      @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                        Questões Comentadas FGV
+
+
+
+
+Uma entidade possui em seu estoque grande quantidade de itens que possuem
+margens semelhantes. Ela mensura o custo dos estoques pela redução do seu
+preço de venda na percentagem apropriada da margem bruta.
+Assinale a opção que indica o método de mensuração de custo dos estoques
+utilizado pela entidade.
+a) Primeiro que entra, primeiro que sai.
+b) Custo Médio Ponderado.
+c) Custo Padrão.
+d) Método do Varejo.
+e) Identificação Específica.
+
+
+
+
+      @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+                                                                         Questões Comentadas FGV
+
+
+
+22. O método de varejo é muitas vezes usado no setor de varejo para mensurar
+estoques de grande quantidade de itens que mudam rapidamente, itens que têm
+margens semelhantes e para os quais não é praticável usar outros métodos de
+custeio. O custo do estoque deve ser determinado pela redução do seu preço de
+venda na percentagem apropriada da margem bruta. A percentagem usada deve
+levar em consideração o estoque que tenha tido seu preço de venda reduzido
+abaixo do preço de venda original. É usada muitas vezes uma percentagem média
+para cada departamento de varejo.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FGV/IMBEL/2021)                                                         Questões Comentadas FGV
+
+
+
+
+Uma loja revendia caixas de madeira. Em 01/01/X0 ela não possuía caixas em seu
+estoque. Na data, ela adquiriu trinta caixas por R$20 cada. Além disso, ela pagou
+o frete para a entrega das caixas, no valor total de R$150. No mês de janeiro, ela
+vendeu dez caixas por R$30 cada. Em fevereiro, as caixas passaram a ser vendidas
+por R$22. No mês, quinze caixas foram vendidas. Assinale a opção que indica o
+estoque de caixas em 28/02/X0.
+a) R$100.
+b) R$110.
+c) R$125.
+d) R$150.
+e) R$330.
+
+
+
+
+       @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+                                                                  Questões Comentadas FGV
+
+
+
+
+          Prof. Gilmar Possati
+                            @profgilmarpossati
+
+
+
+                            Contabilizando
+
+
+
+                            @canalcontabilizando
+
+
+
+
+@profgilmarpossati   @canalcontabilizando
+                             https://t.me/KakashiAssinaturasBot
+

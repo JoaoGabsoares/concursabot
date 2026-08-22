@@ -1,0 +1,4123 @@
+                                                      Aula 03
+                          Receita Federal (Analista Tributário)
+                               Direito Tributário Jurisprudencial
+
+
+
+
+                                                           Autor:
+                                                    Fábio Dutra
+
+
+
+
+                                            17 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Fábio Dutra
+      Aula 03
+
+
+
+
+                                                                                     Índice
+1) Competência Tributária - Teoria
+..............................................................................................................................................................................................3
+
+2) Impostos da União - Teoria
+..............................................................................................................................................................................................6
+
+3) Impostos dos Estados e DF - Teoria
+..............................................................................................................................................................................................
+                                                                                                                                                                                            18
+
+4) Impostos dos Municípios e do DF - Teoria
+..............................................................................................................................................................................................
+                                                                                                                                                                                            38
+
+5) DTJ - Competência Tributária e Impostos da CF - Súmulas Abordadas na Aula
+..............................................................................................................................................................................................
+                                                                                                                                                                                            53
+
+6) Questões Comentadas - Competência Tributária, Impostos da União, dos Estados, do DF e dos Municípios
+..............................................................................................................................................................................................
+                                                                                                                                                                                            58
+
+7) Lista de Questões - Competência Tributária, Impostos da União, dos Estados, do DF e dos Municípios
+..............................................................................................................................................................................................
+                                                                                                                                                                                            69
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                           77
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+                          COMPETÊNCIA TRIBUTÁRIA
+A respeito da competência tributária, sabe-se que uma de suas características é a indelegabilidade, não
+sendo possível que um ente delegue a sua competência para instituir determinado imposto, por exemplo, a
+outro. Vejamos o que diz o caput art. 7º do CTN:
+
+        Art. 7º A competência tributária é indelegável, salvo atribuição das funções de arrecadar
+        ou fiscalizar tributos, ou de executar leis, serviços, atos ou decisões administrativas em
+        matéria tributária, conferida por uma pessoa jurídica de direito público a outra, nos
+        termos do § 3º do artigo 18 da Constituição (referência a outra CF).
+
+
+
+
+        A delegação da função de arrecadar e fiscalizar os tributos instituídos, bem como as demais
+        atribuições administrativas citadas no art. 7º do CTN denomina-se capacidade tributária
+        ativa.
+
+Podemos dizer, então, que a capacidade tributária ativa é a aptidão para que a pessoa jurídica seja inserida
+no polo ativo (ou sujeito ativo) da relação jurídica constituída com a ocorrência do fato gerador. Em outras
+palavras, trata-se do poder de exigir o tributo. Tal atribuição, nos termos do art. 119 CTN, só pode ser
+realizada por pessoa jurídica de direito público.
+
+Em relação às pessoas jurídicas de direito privado, deve-se ter muito cuidado, caso seja abordada a
+possibilidade de assumirem a capacidade tributária ativa, em função da jurisprudência mais recente do STJ.
+Vamos acompanhar:
+
+
+
+
+Um breve histórico da jurisprudência...
+
+Em 2016, a Segunda Turma do STJ, ao julgar o REsp 1.555.158/AL, decidiu que é farta a jurisprudência desta
+Casa que reconhece a legitimidade ativa das entidades do sistema "S" para a cobrança das respectivas
+contribuições adicionais, quando por si fiscalizadas/lançadas.
+
+Em 2019, a Primeira Turma do STJ, AgInt no REsp 1824474 / RJ, afirmou novamente que: a jurisprudência
+desta Corte é no sentido de que as entidades do sistema "S" possuem legitimidade ativa para a cobrança das
+respectivas Contribuições adicionais, quando por si fiscalizadas/lançadas.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          3
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Com base nesse histórico, já tivemos questões abordando a possibilidade de as entidades do sistema “S”
+integrarem o polo ativo na relação tributária. Porém, o julgado mais recente da Primeira Seção do STJ não
+admite a delegação da capacidade tributária ativa a entidades do Sistema “S”:
+
+     PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SENAI. AUTO DE
+     INFRAÇÃO. LAVRATURA NA VIGÊNCIA DA LEI N. 11.457/2007. NULIDADE. MODULAÇÃO DE
+     EFEITOS. REJEIÇÃO.
+
+     1. O Supremo Tribunal Federal já decidiu que as contribuições destinadas ao SESC, SESI, SENAI e
+     SENAC foram recepcionadas pelo art. 240 da Constituição Federal e são contribuições sociais
+     gerais, enquanto as mais recentes (SEBRAE, APEX-BRASIL, APS e ABDI) têm natureza jurídica de
+     contribuição de intervenção no domínio econômico (CIDE).
+
+     2. As contribuições de terceiros são, portanto, tributos, de modo que, em regra, o crédito
+     tributário correspondente somente pode ser constituído, de forma privativa, pela autoridade
+                                                         ==219a34==
+
+
+
+
+     administrativa por meio do lançamento, na forma do art. 142 do CTN.
+
+     3. Com a entrada em vigor da Lei n. 11.457/2007, por força das disposições contidas
+     especialmente em seus arts. 2º e 3º e por ostentarem os serviços sociais autônomos integrantes
+     do denominado Sistema "S" natureza de pessoa jurídica de direito privado e não integrarem a
+     administração pública, cabe tão somente à Secretaria de Receita Federal do Brasil, em regra,
+     proceder às atividades de tributação, fiscalização, arrecadação e cobrança das contribuições de
+     terceiros.
+
+     4. Prevalência do entendimento consagrado no acórdão embargado, no sentido de que é nulo o
+     ato de fiscalização conduzido pelo SENAI na vigência da Lei n. 11.457/2007, que culminou na
+     lavratura de auto de infração destinado à exigência de contribuição adicional.
+
+     5. Nos casos de embargos de divergência, não se pode extrair das normas processuais vigentes a
+     tese de eficácia além das partes para o julgado, de modo a ensejar, eventualmente, modulação
+     de efeitos, que, no caso, não deve ser acolhida .
+
+     6. Embargos de divergência em recurso especial desprovidos.
+
+     Modulação de efeitos rejeitada.
+
+     (STJ, AgInt no AREsp 2394679 / SP, Primeira Turma, Julgamento em 22/04/2024)
+
+Vamos continuar...
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IPVA. LEI ESTADUAL. ALÍQUOTAS
+DIFERENCIADAS EM RAZÃO DO TIPO DO VEÍCULO.
+
+1.Os Estados-membros estão legitimados a ditar as normas gerais referentes ao IPVA, no exercício
+da competência concorrente prevista no artigo 24, § 3º, da Constituição do Brasil.
+
+2.O Supremo possui orientação no sentido de que não há tributo progressivo quando as alíquotas são
+diferenciadas segundo critérios que não levam em consideração a capacidade contributiva.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       4
+        www.estrategiaconcursos.com.br                                                                 77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Agravo regimental a que se nega provimento”.
+
+(STF, RE 466.480-AgR/MG, Rel. Min. Eros Grau, 24/06/2008)
+
+Para entender melhor o julgado, faz-se necessário saber que o CTN foi editado sob a égide da CF/46. Nessa
+CF, não havia previsão para IPVA, de forma que o CTN não contemplou o referido imposto.
+
+Como hoje existe tal previsão constitucional, não havendo, contudo, normas gerais editadas pela União
+sobre o IPVA, o STF entendeu que se aplica o disposto no art. 24, § 3º, da CF/88, que diz o seguinte:
+
+§ 3º - Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para
+atender a suas peculiaridades.
+
+
+
+
+QUESTÃO INÉDITA
+Não existem normas gerais constantes no Código Tributário Nacional a respeito do Imposto sobre a
+Propriedade de Veículos Automotores de competência estadual.
+
+Comentário: Realmente, não há. O CTN foi editado sob a égide da CF/46. Nessa CF, não havia previsão para
+IPVA, de forma que o CTN não contemplou o referido imposto.
+
+Gabarito: Correta
+
+Trecho do voto do Min. Carlos Velloso: “É que a técnica da competência residual da União é para o
+legislador ordinário (C.F., art. 154, I) e não para o constituinte derivado.”
+
+(STF, ADI 939/DF, Pleno, Rel. Min Sydney Sanches, Julgamento em 15/12/1993)
+
+Para o STF, a competência residual prevista na CF/88 é para o legislador ordinário e não para o constituinte
+derivado. O que isso quer dizer? Ora, quando o legislador for instituir um imposto novo (uso da competência
+residual), deverá obedecer a regra prevista no art. 154, I (que diz respeito a não cumulatividade e o não bis
+in idem).
+
+No entanto, quando uma emenda constitucional acrescenta um novo imposto na CF/88, o constituinte
+derivado não está sujeito ao art. 154, I. Entendido?
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            5
+        www.estrategiaconcursos.com.br                                                                     77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+         IMPOSTOS PREVISTOS NA CONSTITUIÇÃO
+                   FEDERAL DE 1988
+Vamos tratar agora dos principais julgados referentes a todos os impostos previstos na CF/88, separando-os
+conforme a competência tributária de cada ente.
+
+
+Impostos de Competência da União
+
+Imposto de Importação
+
+De acordo com o art. 19 do CTN, o fato gerador do II ocorre com a entrada dos produtos estrangeiros no
+território nacional. Para o Decreto-lei 37/1966, considera-se ocorrido o fato gerador na data do registro da
+declaração de importação de mercadoria submetida a despacho para consumo. Para o STJ, não há
+incompatibilidade entre as normas:
+
+"Ementa: (...) Não obstante o fato gerador do imposto de importação se dê com a entrada da
+mercadoria estrangeira em território nacional, torna-se necessária a fixação de um critério temporal
+a que se atribua a exatidão e certeza para se completar o inteiro desenho do fato gerador. Assim,
+embora o fato gerador do tributo se dê com a entrada da mercadoria em território nacional, ele
+apenas se aperfeiçoa com o registro da Declaração de Importação no caso de regime comum e, nos
+termos precisos do parágrafo único, do artigo 1º, do Decreto-Lei nº 37/66, "com a entrada no território
+nacional a mercadoria que contar como tendo sido importada e cuja a falta seja apurada pela
+autoridade aduaneira".
+
+(STJ, REsp 362.910/PR, Primeira Turma, Rel. Min. José Delgado, Julgamento em 16/04/2002)
+
+
+
+
+QUESTÃO INÉDITA
+O fato gerador do Imposto de Importação se dá com a entrada da mercadoria em território nacional, mas se
+aperfeiçoa com o registro da Declaração de Importação no caso de regime comum, sendo este o momento
+exato em que o fato gerador considera-se ocorrido.
+
+Comentário: Esta é a jurisprudência do STJ a respeito do momento em que o fato gerador do II considera-se
+ocorrido.
+
+Gabarito: Correta
+
+“Recurso extraordinário em que se argumento a não incidência do II e do IPI sobre operação de
+importação de sistema de tomografia computadorizada, amparada por contrato de arrendamento
+mercantil. Alegada insubmissão do arrendamento mercantil, quer seria um serviço, ao fato gerador do
+imposto de importação (art. 153, I, da Constituição). Inconsistência. Por se tratar de tributos
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          6
+        www.estrategiaconcursos.com.br                                                                    77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+diferentes, com hipóteses de incidência específicas (prestação de serviços e importação, entendida
+como a entrada de bem em território nacional – art. 19 do CTN), a incidência concomitante do II e do
+ISS não implica bitributação ou de violação de pretensa exclusividade e preferência de cobrança do
+ISS.
+
+(STF, RE 429.306, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento em 01/02/2011)
+
+Não ocorre bitributação no caso apresentado pelo STF, pois há dois fatos geradores distintos: importação e
+prestação de serviços.
+
+Imposto de Exportação
+
+“Não é qualquer registro no SISCOMEX que corresponde à expedição do documento equivalente à guia
+de exportação prevista no § 1º, in fine, do art. 1º do DL 1.578/1977, como determinante da ocorrência
+do fato gerador do tributo. Somente o Registro de Exportação corresponde e se equipara à Guia de
+Exportação. Editada a Resolução 2.112/1994 do Banco Central do Brasil depois dos registros de venda,
+mas antes dos registros de exportação, submetem-se as operações respectivas às alíquotas nelas
+fixadas, visto que tal fixação se dera antes da ocorrência do fato gerador.”
+
+(STF, AI 578.372-AgR,Segunda Turma, Rel. Min. Ellen Gracie, Julgamento em 09/02/2010)
+
+Para efeito de cálculo do IE, considera-se ocorrido o fato gerador na data do Registro de Exportação, ainda
+que a saída da mercadoria ocorra em momento posterior.
+
+No que se refere à atribuição para alteração de alíquotas do Imposto de Exportação, o STF se posicionou da
+seguinte maneira:
+
+EMENTA: (...)I - É compatível com a Carta Magna a norma infraconstitucional que atribui a órgão
+integrante do Poder Executivo da União a faculdade de estabelecer as alíquotas do Imposto de
+Exportação. II - Competência que não é privativa do Presidente da República. III - Inocorrência de
+ofensa aos arts. 84, caput, IV e parágrafo único, e 153, § 1º, da Constituição Federal ou ao princípio de
+reserva legal. Precedentes. IV - Faculdade discricionária atribuída à Câmara de Comércio Exterior -
+CAMEX, que se circunscreve ao disposto no Decreto-Lei 1.578/1977 e às demais normas
+regulamentares. V - Recurso extraordinário conhecido e desprovido.
+
+(STF, Pleno, RE 570.680/RS, Rel. Min. Ricardo Lewandowski, Julgamento em 28/10/2009)
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com a Constituição Federal de 1988, as alíquotas do Imposto de Exportação não se submetem ao
+princípio da legalidade. Dessa forma, a jurisprudência do STF é no sentido de que somente o Presidente da
+República pode alterá-las.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            7
+        www.estrategiaconcursos.com.br                                                                      77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Comentário: De acordo com o STF, a competência não é privativa do Presidente da República, podendo, tais
+alíquotas, serem alteradas pela CAMEX.
+
+Gabarito: Errada
+
+Imposto sobre a Renda e Proventos de Qualquer Natureza:
+
+Relativamente ao IR, precisamos saber que, conforme o art. 43, do CTN, o imposto, de competência da União,
+sobre a renda e proventos de qualquer natureza tem como fato gerador a aquisição da disponibilidade
+econômica ou jurídica:
+
+I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;
+
+II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos no
+inciso anterior.
+
+ “Conforme jurisprudência reiterada deste STF, não cabe ao Poder Judiciário autorizar a correção
+monetária da tabela progressiva do Imposto de Renda na ausência de previsão legal nesse sentido.
+Entendimento cujo fundamento é o uso regular do poder estatal de organizar a vida econômica e
+financeira do país no espaço próprio das competências dos Poderes Executivo e Legislativo.”
+
+(STF,RE 388.312, Plenário, Rel. p/ac. Min. Cármen Lúcia, Julgamento em 01/08/2011)
+
+De acordo com a jurisprudência, é necessária a edição de lei para correção da tabela progressiva do Imposto
+de Renda.
+
+
+
+
+QUESTÃO INÉDITA
+Conforme jurisprudência pacífica do STF, é facultado ao Poder Judiciário autorizar a correção monetária da
+tabela progressiva do Imposto de Renda, caso não haja previsão legal.
+
+Comentário: De acordo com o STF, o Judiciário não tem essa autonomia para corrigir tabela do IR. Trata-se
+de matéria sujeita ao princípio da legalidade, ou seja, deve ser corrigida pelo Legislativo.
+
+Gabarito: Errada
+
+A legislação tributária específica prevê os casos de rendimentos tributáveis e os casos de rendimentos isentos
+e não tributáveis. Nessa linha, vejamos alguns dispositivos que estabelecem rendimentos tributáveis:
+
+São tributáveis as férias, inclusive as pagas em dobro, transformadas em pecúnia ou indenizadas,
+acrescidas dos respectivos abonos. (RIR, art. 43, II)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            8
+        www.estrategiaconcursos.com.br                                                                     77
+
+                                      https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 03
+
+
+
+É tributável a licença especial ou licença-prêmio, inclusive quando convertida em pecúnia. (RIR, art.
+43, III)
+
+O candidato deve saber que as férias transformadas em pecúnia são as chamadas férias vendidas, em que o
+trabalhador opta por trabalhar e recebe-las. No que se refere às férias indenizadas, trata-se do valor pago
+ao trabalhador em caso de rescisão do contrato de trabalho.
+
+Conforme acabamos de ver, em ambos os casos, as férias são consideradas rendimentos tributáveis pela
+legislação tributária (RIR/2018). Todavia, o entendimento da jurisprudência não é o mesmo. Vejamos duas
+importantes súmulas do STJ:
+
+Súmula STJ 125 – O pagamento de férias não gozadas por necessidade do serviço não está sujeito a
+incidência do imposto de renda.
+
+Súmula STJ 386 – São isentas de imposto de renda as indenizações de férias proporcionais e o respectivo
+adicional.
+
+Observação: A Súmula 125 se refere às férias vendidas, ou seja, aquelas transformadas em pecúnia. Já
+a Súmula 386 se refere às férias indenizadas, em caso de rescisão contratual.
+
+Sobre a licença-prêmio não gozada por necessidade de serviço, também temos entendimento do STJ distinto
+do que prevê a legislação tributária:
+
+Súmula STJ 136 – O pagamento de licença-prêmio não gozada por necessidade do serviço não está
+sujeito ao imposto de renda.
+
+Veja que o entendimento jurisprudencial se distingue do que consta na legislação. E então, caro candidato(a),
+o que fazer na hora da prova?
+
+Devemos considerar que houve incorporação da jurisprudência na legislação tributária, com base no art. 19,
+da Lei 10.522/2002, com redação dada pela Lei 11.033/2004, o qual autoriza a Procuradoria-Geral da
+Fazenda Nacional autorizada a não contestar, a não interpor recurso ou a desistir do que tenha sido
+interposto, desde que inexista outro fundamento relevante, na hipótese de a decisão versar sobre matérias
+que, em virtude de jurisprudência pacífica do Supremo Tribunal Federal, do Superior Tribunal de Justiça, do
+Tribunal Superior do Trabalho e do Tribunal Superior Eleitoral, sejam objeto de ato declaratório do
+Procurador-Geral da Fazenda Nacional, aprovado pelo Ministro de Estado da Fazenda.
+
+A ideia é não “perder tempo” com matérias que serão rechaçadas pelos tribunais superiores, por já ter sido
+formada jurisprudência pacífica sobre tais casos, como as súmulas sobre férias e licença-prêmio, vistas
+acima. Quanto à Receita Federal, o § 4º, do art. 19, da lei supracitada, estabelece que este órgão não
+constituirá os créditos tributários relativos a essas matérias. Então, vamos resumir os casos que já foram
+inclusive inseridos na redação da IN RFB 1.500/2014, dispensando a retenção de IRRF e tributação na DAA:
+
+•       Férias não gozadas por necessidade do serviço, pagas a servidor público em pecúnia;
+
+•     Férias e licença-prêmio não gozadas por necessidade do serviço, pagas em pecúnia, na hipótese de o
+empregado não ser servidor público;
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         9
+          www.estrategiaconcursos.com.br                                                                  77
+
+                                        https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 03
+
+
+
+•       Férias proporcionais convertidas em pecúnia;
+
+•       Abono pecuniário de férias;
+
+•       Férias em dobro ao empregado na rescisão contratual;
+
+•      Adicional de 1/3 previsto na CF/88, quando agregado a pagamento de férias - simples ou
+proporcionais - vencidas e não gozadas, convertidas em pecúnia, em razão de rescisão do contrato de
+trabalho.
+
+Professor, e se houver o gozo das férias, e o funcionário recebeu o adicional de 1/3. Será tributado neste
+caso? É evidente que sim! ☺
+
+
+
+Saber se indenização é, ou não, renda, para o efeito do artigo 153, III, da Constituição, é questão
+constitucional, como entendeu o acórdão recorrido, até porque não pode a Lei infraconstitucional
+definir como renda o que insitamente não o seja.
+
+(STF, RE 188.684/SP, Primeira Turma, Rel. Min. Moreira Alves, Julgamento em 16/04/2002)
+
+No que se refere aos rendimentos recebidos em dinheiro, a título de alimentos ou pensões, em cumprimento
+de decisão judicial ou acordo, a legislação os considerava como tributáveis:
+
+Art. 46. São tributáveis os valores percebidos, em dinheiro, a título de alimentos ou pensões, em cumprimento
+de decisão judicial ou acordo homologado judicialmente, inclusive a prestação de alimentos provisionais.
+(Regulamento do Imposto de Renda – Decreto 9580/18)
+
+Porém, quanto a esse aspecto, preciso te atualizar a respeito da jurisprudência do STF em 2022, que afastou
+a incidência dessa norma tributária (ADIN 5422): atualmente, não incide IRPF sobre valores decorrentes do
+direito de família percebidos pelos alimentados a título de alimentos ou de pensões alimentícias.
+
+Para finalizar o tópico, elencamos abaixo algumas das principais jurisprudências do STF e STJ para
+memorização. Como são muitas jurisprudências (e aqui, apenas as mais relevantes), recomendamos, pelo
+menos, uma leitura atenta:
+
+Súmula 627 STJ - O contribuinte faz jus à concessão ou à manutenção da isenção do imposto de renda, não
+se lhe exigindo a demonstração da contemporaneidade dos sintomas da doença nem da recidiva da
+enfermidade.
+
+Súmula 598 STJ - É desnecessária a apresentação de laudo médico oficial para o reconhecimento judicial da
+isenção do imposto de renda, desde que o magistrado entenda suficientemente demonstrada a doença
+grave por outros meios de prova.
+
+Súmula 590 STJ - Constitui acréscimo patrimonial a atrair a incidência do imposto de renda, em caso de
+liquidação de entidade de previdência privada, a quantia que couber a cada participante, por rateio do
+patrimônio, superior ao valor das respectivas contribuições à entidade em liquidação, devidamente
+atualizadas e corrigidas.
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        10
+          www.estrategiaconcursos.com.br                                                                  77
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Súmula 498 STJ -Não incide imposto de renda sobre a indenização por danos morais.
+
+Súmula 463 STJ - Incide imposto de renda sobre os valores percebidos a título de indenização por horas
+extraordinárias trabalhadas, ainda que decorrentes de acordo coletivo.
+
+Súmula 447 STJ - Os Estados e o Distrito Federal são partes legítimas na ação de restituição de imposto de
+renda retido na fonte proposta por seus servidores.
+
+Súmula 386 STJ -São isentas de imposto de renda as indenizações de férias proporcionais e o respectivo
+adicional.
+
+Súmula 262 STJ - Incide o imposto de renda sobre o resultado das aplicações financeiras realizadas pelas
+cooperativas.
+
+ADI 5.422 STF - Não incide IR sobre valores percebidos a título de alimentos ou de pensão alimentícia.
+
+Tema 962 STF - É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic
+recebidos em razão de repetição de indébito tributário.
+
+
+
+Imposto sobre Produtos Industrializados
+
+Vamos iniciar o estudo da jurisprudência do STJ sobre o IPI, relativamente às operações de revenda de
+produtos industrializados importados do exterior.
+
+No tocante ao estudo do fato gerador do IPI, vejamos o que diz o art. 46 do CTN:
+
+        Art. 46. O imposto, de competência da União, sobre produtos industrializados tem como
+        fato gerador:
+
+        I - o seu desembaraço aduaneiro, quando de procedência estrangeira;
+
+        II - a sua saída dos estabelecimentos a que se refere o parágrafo único do artigo 51;
+
+        III - a sua arrematação, quando apreendido ou abandonado e levado a leilão.
+
+        Parágrafo único. Para os efeitos deste imposto, considera-se industrializado o produto que
+        tenha sido submetido a qualquer operação que lhe modifique a natureza ou a finalidade,
+        ou o aperfeiçoe para o consumo.
+
+
+
+De modo sucinto, são três os fatos geradores do IPI: o desembaraço aduaneiro, caso o produto seja de
+procedência estrangeira (I); a saída do produto industrializado do estabelecimento industrial ou equiparado
+a industrial (II); e a arrematação, quando apreendido ou abandonado e levado a leilão (III).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         11
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+De acordo com a legislação do IPI, o importador, ao revender os produtos importados do exterior, se
+submete a duas incidências do imposto: uma na importação, com o desembaraço aduaneiro; outra na
+revenda de tais produtos, com a saída deles do estabelecimento do importador.
+
+A lógica da segunda incidência consiste na equiparação do estabelecimento importador a industrial,
+tornando-se contribuinte do IPI pela segunda vez. Afinal, podem ser contribuintes do IPI não só o
+estabelecimento industrial, mas também os que a lei a este equiparar.
+
+Ademais, o IPI é um imposto não cumulativo, isso significa que o valor pago a título do imposto por ocasião
+do desembaraço aduaneiro da mercadoria importada pode ser compensado com o IPI devido na saída do
+produto do estabelecimento importador.
+
+Este sempre foi um tema muito polêmico, e os contribuintes alegavam ofensa ao princípio da isonomia, por
+haver tributação excessiva sobre o importador, se comparado à indústria nacional.
+                                                         ==219a34==
+
+
+
+
+A respeito deste assunto, devemos ressaltar que o STJ já decidiu já decidiu tanto pela improcedência do
+segundo fato gerador, quanto pela sua legitimidade. Mas isso não importa para você, amigo concurseiro.
+O que é relevante para a sua prova é que o tema chegou ao STF, que reconheceu a repercussão geral do
+tema (tema 906) quando do julgamento do Recurso Extraordinário 946.648/SC.
+
+E, em resumo, o Supremo Tribunal Federal definiu a seguinte tese (que pode cair na prova): É constitucional
+a incidência do Imposto sobre Produtos Industrializados - IPI no desembaraço aduaneiro de bem
+industrializado e na saída do estabelecimento importador para comercialização no mercado interno".
+
+Então, falou em revenda de mercadorias importadas, lembre-se que há dois fatos geradores do IPI: uma na
+importação, e outro com a saída da mercadoria do estabelecimento importador.
+
+
+
+
+        Guarde o seguinte: na revenda de mercadorias importadas, ocorrem dois fatos geradores
+        do IPI (legítimos, de acordo com o STF):
+
+        1º fato gerador: desembaraço aduaneiro;
+
+        2º fato gerador: saída da mercadoria do estabelecimento importador (revenda).
+
+Ainda sobre o fato gerador do IPI, precisamos destacar a Súmula 671 do STJ:
+
+        Súmula 671 STJ – Não incide o IPI quando sobrevém furto ou roubo do produto
+        industrializado após sua saída do estabelecimento industrial ou equiparado e antes de sua
+        entrega ao adquirente.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        12
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Ainda sobre o IPI, o STF decidiu o seguinte:
+
+"Imposto sobre Produtos Industrializados – Direito a crédito – Correção monetária – Resistência do
+Fisco – Possibilidade – Precedentes. A jurisprudência do Tribunal está pacificada no sentido de ser
+devida a correção monetária de créditos tributários quando, por óbice do Fisco, a compensação não
+ocorre no momento adequado."
+
+(STF, AI 619.664-AgR, Primeira Turma, Rel. Min. Marco Aurélio, Julgamento em 16/12/2008)
+
+Seguindo a mesma linha, o STJ sumulou o seguinte entendimento em 2009:
+
+Súmula STJ 411 - É devida a correção monetária ao creditamento do IPI quando há oposição ao seu
+aproveitamento decorrente de resistência ilegítima do Fisco.
+
+Sobre o princípio da não cumulatividade, obrigatório ao IPI, o STF já decidiu que não há o aproveitamento
+de crédito quando os insumos sejam desonerados (isento, sujeitos à alíquota zero ou não tributáveis), na
+fabricação de bens tributados:
+
+"Ementa: (...) 2. O princípio da não-cumulatividade é alicerçado especialmente sobre o direito à
+compensação, o que significa que o valor a ser pago na operação posterior sofre a diminuição do que
+pago anteriormente, pressupondo, portanto, dupla incidência tributária. Assim, se nada foi pago na
+entrada do produto, nada há a ser compensado. 3. O aproveitamento dos créditos do IPI não se
+caracteriza quando a matéria-prima utilizada na fabricação de produtos tributados reste
+desonerada, sejam os insumos isentos, sujeitos à alíquota zero ou não tributáveis. Isso porque a
+compensação com o montante devido na operação subsequente pressupõe, necessariamente, a
+existência de crédito gerado na operação anterior, o que não ocorre nas hipóteses exoneratórias."
+
+(STF, 592.917-AgR/RJ, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 31/05/2011)
+
+Este é mais um assunto cuja jurisprudência tornou-se vinculada:
+
+Súmula Vinculante 58 - Inexiste direito a crédito presumido de IPI relativamente à entrada de insumos
+isentos, sujeitos à alíquota zero ou não tributáveis, o que não contraria o princípio da não
+cumulatividade.
+
+
+
+
+QUESTÃO INÉDITA
+O STF entende que, no que se refere ao princípio da não cumulatividade aplicável ao IPI, ainda que a
+aquisição de matéria-prima seja desonerada do imposto, subsiste o direito de creditamento por parte do
+estabelecimento industrial.
+
+Comentário: O STF decidiu exatamente o contrário, ou seja, se nada foi pago na entrada do produto, não há
+nada a ser compensado, no momento da saída do produto industrializado.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        13
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Gabarito: Errada
+
+
+
+
+Se nada foi cobrado a título de IPI na entrada dos insumos, não há direito a crédito de IPI, relativo a essa
+aquisição. Guarde isso!
+
+“Mas e quando as saídas que forem desoneradas, professor?” Excelente pergunta!
+
+"CREDITAMENTO DO IPI. PRINCÍPIO DA NÃO-CUMULATIVIDADE. AQUISIÇÃO DE MATÉRIA-PRIMA,
+PRODUTO INTERMEDIÁRIO E MATERIAL DE EMBALAGEM DESTINADOS À INDUSTRIALIZAÇÃO DE
+PRODUTOS ISENTOS OU SUJEITOS AO REGIME DE ALÍQUOTA ZERO. LEI 9.779/99. NOVEL
+JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O direito ao crédito de IPI, fundado no princípio
+da não-cumulatividade, decorrente da aquisição de matéria-prima, produto intermediário e material
+de embalagem utilizados na fabricação de produtos isentos ou sujeitos ao regime de alíquota zero,
+exsurgiu apenas com a vigência da Lei 9.779/99 (...)"
+
+(STJ, REsp 860.369/PE, Primeira Seção, Min. Rel. Luiz Fux, Julgamento em 25/11/2009)
+
+O direito ao crédito do IPI quando da industrialização de produtos isentos ou sujeitos a alíquota zero
+somente passou a existir após a vigência da Lei 9.779/99. Perceba que o STJ se posicionou na mesma linha
+da jurisprudência do STF, de forma que podemos considerar que o STF também entende dessa maneira.
+
+Ainda de acordo com o STJ (AgRg no REsp 1.213.196/RS), a interpretação da Lei 9.779/99 deve ser estrita
+(você já deve saber que, de acordo com o art. 111 do CTN, as isenções são interpretadas de forma literal),
+não abrangendo, por exemplo, saídas de produtos não tributados.
+
+No que se refere à aquisição de bens integrantes do ativo permanente da empresa, também não haverá
+direito a creditamento, conforme a seguinte súmula do STJ:
+
+Súmula STJ 495 - A aquisição de bens integrantes do ativo permanente da empresa não gera direito a
+creditamento de IPI.
+
+Além disso, em fevereiro de 2016 o STF encerrou o julgamento do RE 723.651/RS, decidindo que é legítima
+a incidência do IPI na importação de automóveis por pessoas físicas para uso próprio. A decisão foi tomada
+com repercussão geral reconhecida e é muito relevante para fins de concurso público, já que o STJ e o
+próprio STF já decidiram em sentido contrário.
+
+O raciocínio da decisão leva em consideração que a cobrança do IPI na importação dos veículos não afronta
+o princípio da não cumulatividade nem implica bitributação. A manutenção de sua incidência, por outro lado,
+preserva o princípio da isonomia, uma vez que promove igualdade de condições tributárias entre o
+fabricante nacional, já sujeito ao imposto em território nacional, e o fornecedor estrangeiro.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         14
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Na ocasião, o STF teve a oportunidade de julgar a modulação dos efeitos dessa decisão para apenas alcançar
+casos futuros. Contudo, a modulação foi rejeitada e isso significa que a decisão tomada pelos Ministros da
+Suprema Corte alcançará as operações de importação de veículos pelas pessoas físicas realizadas antes da
+decisão do STF.
+
+
+
+
+Jurisprudência do STF: É legítima a incidência do IPI na importação de automóveis por pessoas físicas para
+uso próprio.
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com a jurisprudência do Supremo Tribunal Federal, não há incidência do Imposto sobre Produtos
+Industrializados sobre a importação de automóveis realizada por pessoas físicas, desde que para uso próprio.
+
+Comentário: Conforme estudamos, o STF decidiu que é legítima a incidência do IPI na importação de
+automóveis por pessoas físicas para uso próprio.
+
+Gabarito: Errada
+
+Imposto sobre Operações Financeiras
+
+De início, destaque-se que não há incidência do IOF sobre saques efetuados em caderneta de poupança:
+
+Súmula STF 664 - É inconstitucional o inciso V do art. 1º da Lei 8.033/90, que instituiu a incidência do
+imposto nas operações de crédito, câmbio e seguros - IOF sobre saques efetuados em caderneta de
+poupança.
+
+Vale ressaltar que, em relação à alienação de salvados pelas companhias seguradoras, não há incidência de
+ICMS, mas IOF. Os bens salvados pelas seguradoras são aqueles objetos resgatados do sinistro do bem
+principal (veículos batidos, por exemplo), e que ainda possuem algum valor econômico. A respeito desse
+assunto, temos a Súmula Vinculante 32:
+
+Súmula Vinculante 32 – O ICMS não incide sobre a alienação de salvados de sinistros pelas seguradoras.
+
+
+
+
+EMENTA: IOF: incidência sobre operações de factoring (L. 9.532/97, art. 58): aparente
+constitucionalidade que desautoriza a medida cautelar. O âmbito constitucional de incidência possível
+do IOF sobre operações de crédito não se restringe às praticadas por instituições financeiras, de tal
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           15
+        www.estrategiaconcursos.com.br                                                                     77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+modo que, à primeira vista, a lei questionada poderia estendê-la às operações de factoring, quando
+impliquem financiamento (factoring com direito de regresso ou com adiantamento do valor do crédito
+vincendo - conventional factoring); quando, ao contrário, não contenha operação de crédito, o
+factoring, de qualquer modo, parece substantivar negócio relativo a títulos e valores mobiliários,
+igualmente susceptível de ser submetido por lei à incidência tributária questionada.
+
+(ADI 1.763-MC/DF, Plenário, Rel. Min. Sepúlveda Pertence, Julgamento em 20/08/1998)
+
+Ante o exposto, as operações de factoring estão sujeitas ao IOF. Memorize isso!
+
+TRIBUTÁRIO – IOF – INCIDÊNCIA SOBRE MÚTUO NÃO MERCANTIL – LEGALIDADE DA LEI 9.779/99.
+
+1. A lei 9.779/99, dentro do absoluto contexto do art. 66 CTN, estabeleceu, como hipótese de
+incidência do IOF, o resultado de mútuo.
+
+(STJ, REsp 522.294/RS, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 09/12/2003)
+
+Contrato de mútuo significa empréstimo de coisa fungível e consumível, como, por exemplo, dinheiro. Sobre
+o resultado dessa operação, haverá incidência do IOF, conforme jurisprudência do STJ.
+
+Ademais, vale destacar que, no caso específico do IOF, o CTN permitiu que a lei instituidora do imposto
+previsse quem são os contribuintes, podendo ser qualquer das partes na operação tributada:
+
+        Art. 66. Contribuinte do imposto é qualquer das partes na operação tributada, como
+        dispuser a lei.
+
+Sobre os contribuintes do IOF, vale destacar a jurisprudência do STF (Tema 104 Repercussão Geral): É
+constitucional a incidência do IOF sobre operações de crédito correspondentes a mútuo de recursos
+financeiros entre pessoas jurídicas ou entre pessoa jurídica e pessoa física, não se restringindo às
+operações realizadas por instituições financeiras.
+
+Imposto sobre propriedade Territorial Rural
+
+De acordo com o art. 31 do CTN, o contribuinte do ITR é o proprietário do imóvel, o titular de seu domínio
+útil, ou o seu possuidor a qualquer título. De acordo com o STF, se o imóvel é invadido, não se faz possível a
+cobrança do ITR, tendo em vista que o há perda do domínio e dos direitos inerentes à propriedade:
+
+TRIBUTÁRIO. ITR. INCIDÊNCIA SOBRE IMÓVEL. INVASÃO DO MOVIMENTO "SEM TERRA". PERDA DO
+DOMÍNIO E DOS DIREITOS INERENTES À PROPRIEDADE. IMPOSSIBILIDADE DA SUBSISTÊNCIA DA
+EXAÇÃO TRIBUTÁRIA. PRINCÍPIO DA PROPORCIONALIDADE. RECURSO ESPECIAL NÃO PROVIDO. 3.
+Ofende os princípios básicos da razoabilidade e da justiça o fato do Estado violar o direito de garantia
+de propriedade e, concomitantemente, exercer a sua prerrogativa de constituir ônus tributário sobre
+imóvel expropriado por particulares (proibição do venire contra factum proprium).
+
+4. A propriedade plena pressupõe o domínio, que se subdivide nos poderes de usar, gozar, dispor e
+reinvidicar a coisa. Em que pese ser a propriedade um dos fatos geradores do ITR, essa propriedade não
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           16
+        www.estrategiaconcursos.com.br                                                                     77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+é plena quando o imóvel encontra-se invadido, pois o proprietário é tolhido das faculdades inerentes
+ao domínio sobre o imóvel.
+
+(STJ, REsp 1.144.982/PR, Segunda Turma, Rel. Min. Mauro Campbell Marques, Julgamento em
+13/10/2009)
+
+
+
+
+QUESTÃO INÉDITA
+O senhor José Antônio possui uma fazenda, sendo, pois, contribuinte do ITR. Num dado momento, sua
+fazenda é invadida pelo movimento “sem terra”. Neste caso, o rico fazendeiro deve continuar arcando com
+o ônus tributário, mesmo perdendo o domínio sobre suas terras.
+
+Comentário: De acordo com o STF, não subsiste a exação tributária, caso haja perda do domínio e dos direitos
+inerentes à propriedade. Portanto, o fazendeiro não terá que arcar com o ITR, e a questão está errada.
+
+Gabarito: Errada
+
+Imposto sobre Grandes Fortunas
+
+Não há jurisprudência relevante sobre esse imposto que nem mesmo foi instituído pela União.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         17
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+Impostos de Competência dos Estados e do Distrito Federal
+
+Imposto sobre Transmissão “causa mortis” e doação, de quaisquer bens ou
+direitos
+
+No que se refere ao ITCMD, é importante conhecermos algumas súmulas do STF:
+
+Súmula STF 331 - É legítima a incidência do imposto de transmissão causa mortis no inventário por
+morte presumida.
+
+Ainda que não se encontre o cadáver, sendo este o caso de morte presumida, incidirá o ITCMD.
+
+Seguem abaixo algumas súmulas referentes ao ITCMD:
+
+Súmula STF 115 - Sobre os honorários do advogado contratado pelo inventariante, com a homologação
+do juiz, não incide o Imposto de Transmissão Causa Mortis.
+
+Além de não incidir o imposto sobre o valor relativo aos honorários do advogado, foi cristalizado também
+o entendimento da inexigibilidade da exação antes da homologação do cálculo, isto é, antes do julgamento
+do cálculo pelo juiz.
+
+Súmula STF 114 - O Imposto de Transmissão Causa Mortis não é exigível antes da homologação do
+cálculo.
+
+Súmula STF 112 - O imposto de transmissão "causa mortis" é devido pela alíquota vigente ao tempo da
+abertura da sucessão.
+
+Sobre a Súmula 112, é importante que você saiba que a abertura da sucessão ocorre no momento da morte!
+Esse é o momento em que se considera ocorrido o fato gerador do ITCMD, em caso de morte, é claro.
+
+É interessante observar ainda o entendimento do STF pacificado na Súmula 113, que estabeleceu o seguinte:
+
+Súmula STF 113 - O Imposto de Transmissão Causa Mortis é calculado sobre o valor dos bens na data
+da avaliação.
+
+Para entendermos sua redação, é necessário sabermos que sua redação foi editada em 1962, antes da lei de
+correção monetária (1964). O objetivo era evitar que o ITCMD incidisse sobre o valor venal dos bens na data
+do óbito, de modo que, não havendo naquela época lei que regesse a correção monetária, o Fisco restaria
+prejudicado (por conta do processo inflacionário), no caso de inadimplemento por parte do contribuinte.
+
+Destaque-se ainda que se duas pessoas realizaram um contrato de compra e venda de imóvel, a prazo, e que
+o promitente vendedor falece antes da quitação da dívida. Incide ITCMD sobre o saldo restante a receber?
+Para o STF, incide:
+
+Súmula STF 590 - Calcula-se o imposto de transmissão "causa mortis" sobre o saldo credor da promessa
+de compra e venda de imóvel, no momento da abertura da sucessão do promitente vendedor.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        18
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+Ainda sobre o ITCMD, o STF entende que tal imposto possui características que tornam possível graduá-lo
+conforme a capacidade contributiva de cada um. Observe o julgado a seguir:
+
+“EMENTA: RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. LEI ESTADUAL:
+PROGRESSIVIDADE DE ALÍQUOTA DE IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO DE
+BENS E DIREITOS. CONSTITUCIONALIDADE. ART. 145, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA.
+PRINCÍPIO DA IGUALDADE MATERIAL TRIBUTÁRIA. OBSERVÂNCIA DA CAPACIDADE CONTRIBUTIVA.
+RECURSO EXTRAORDINÁRIO PROVIDO.”.
+
+(...)
+
+Transcrição parcial do voto da Min. Ellen Gracie:
+
+“Por revelar efetiva e atual capacidade contributiva inerente ao acréscimo patrimonial, o imposto sobre
+transmissão “causa mortis”, também conhecido como imposto sobre heranças ou sobre a sucessão, é
+um imposto que bem se vocaciona à tributação progressiva.”
+
+(STF, RE 562.045/RS, Rel. Min. Ricardo Lewandowski, julgado em 06/02/2013, publicado em
+27/11/2013)
+
+Com a publicação da Emenda Constitucional 132/2023 (Reforma Tributária), a CF passou a exigir que o
+ITCMD seja progressivo. Senão, vejamos:
+
+         Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre: (Redação dada
+         pela Emenda Constitucional nº 3, de 1993)
+
+         I - transmissão causa mortis e doação, de quaisquer bens ou direitos;(Redação dada pela
+         Emenda Constitucional nº 3, de 1993)
+
+         (...)
+
+         § 1º O imposto previsto no inciso I: (Redação dada pela Emenda Constitucional nº 3, de
+         1993)
+
+         (...)
+
+         VI - será progressivo em razão do valor do quinhão, do legado ou da doação; (Incluído
+         pela Emenda Constitucional nº 132, de 2023)
+
+O posicionamento acima do STF continua sendo relevante, para entendermos que a Suprema Corte tem a
+sua jurisprudência seguindo essa linha.
+
+Além disso, não é possível aos Estados fixar suas alíquotas, de forma a criar vinculação ao teto estabelecido
+por Resolução do Senado Federal:
+
+TRIBUTA - FIXAÇÃO DE ALÍQUOTA X TETO - IMPOSTO DE TRANSMISSÃO CAUSA MORTIS - LEI Nº
+10.260/89, DO ESTADO DE PERNAMBUCO. Não se coaduna com o sistema constitucional norma
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         19
+         www.estrategiaconcursos.com.br                                                                   77
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+reveladora de automaticidade quanto à alíquota do imposto de transmissão causa mortis, a
+evidenciar a correspondência com o limite máximo fixado em resolução do Senado Federal.
+
+(STF, RE 213.266/PE, Plenário, Rel. Min. Marco Aurélio, Julgamento em 20/10/1999)
+
+Assim, por exemplo, não seria possível estabelecer em lei que a alíquota do ITCMD seria o teto estipulado
+pelo Senado, de maneira que, se o teto é alterado, automaticamente estaria alterada a alíquota vigente no
+Estado.
+
+Quero te explicar rapidamente como foi estabelecida a incidência do ITCMD na CF/88, de modo a dirimir
+dúvidas sobre qual Estado teria competência para tributá-lo, a depender das operações. Afinal, temos uma
+jurisprudência relevante sobre o tema.
+
+Em se tratando de bens imóveis e respectivos direitos, compete ao Estado da situação do bem ou ao Distrito
+Federal. Veja que nesse caso específico não importa se a transmissão é causa mortis ou doação.
+
+No que se refere aos bens móveis, títulos e créditos, importa-nos saber a que título ocorreu a transmissão,
+se foi por sucessão causa mortis ou por doação. No primeiro caso (causa mortis), o imposto cabe ao Estado
+onde se processar o inventário ou arrolamento. No segundo (doação), compete ao Estado onde tiver
+domicílio o doador.
+
+A CF/88 (art. 155, § 1º, III) também prescreve que o ITCMD terá a competência para sua instituição regulada
+por lei complementar se o doador tiver domicilio ou residência no exterior ou se o de cujus possuía bens,
+era residente ou domiciliado ou teve o seu inventário processado no exterior.
+
+Por fim, é interessante considerarmos que o STF já decidiu que “é vedado aos estados e ao Distrito Federal
+instituir o ITCMD nas hipóteses referidas no art. 155, § 1º, III, da Constituição Federal sem a intervenção
+da lei complementar exigida pelo referido dispositivo constitucional”. Trata-se de decisão em sede de
+repercussão geral (Tema 825) e que, portanto, tem muita relevância para as provas de concursos públicos!
+
+
+
+
+Os casos de lei complementar devem ser associados às seguintes palavras-chave: exterior, doador
+e de cujus (falecido).
+
+Tenha cuidado com questões que mencionam donatário, em vez de doador!
+
+STF decidiu que os Estados não podem tributar tais situações sem que haja lei complementar
+sobre a matéria.
+
+Imposto sobre a Circulação de Mercadorias e prestação de Serviços
+
+Uma característica constitucional do ICMS é possibilidade de ser seletivo, isto é, poderá ou não ser seletivo,
+em função da essencialidade das mercadorias e dos serviços (art. 155, § 2º, III). Conferir caráter seletivo ao
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           20
+        www.estrategiaconcursos.com.br                                                                     77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+ICMS significa tornar sua incidência inversamente proporcional ao grau de essencialidade das mercadorias e
+serviços. Assim, mercadorias supérfluas (menos essenciais) sofreriam tributação com alíquotas mais
+elevadas! Mas, lembre-se, trata-se de um critério facultativo, no que diz respeito ao ICMS.
+
+Mas precisamos memorizar que o STF decidiu que não se pode estabelecer alíquotas maiores para os
+serviços de telecomunicações e fornecimento de energia elétrica, uma vez que são essenciais.
+
+Vamos entender melhor!
+
+Normalmente, os Estados fixam uma alíquota básica do ICMS, para as operações em geral, e estabelecem
+algumas alíquotas específicas para determinados produtos. O que o STF decidiu é que serviços essenciais,
+como telecomunicações e fornecimento de energia elétrica, não podem sofrer uma carga tributária mais
+elevada que as demais operações, em contraponto com o que prevê a regra da seletividade. Trata-se do
+Tema nº 745 da Repercussão Geral. Por isso, importante para sua prova!
+
+
+
+
+O ICMS deve ser não cumulativo e pode ser seletivo.
+
+O IPI deve ser não cumulativo e deve ser seletivo.
+
+STF: Telecomunicações e Fornecimento de energia elétrica não podem ter alíquotas mais elevadas
+do que aquela aplicável às demais operações.
+
+Vale destacar a incidência do ICMS sobre a entrada de bem ou mercadoria importados do exterior por pessoa
+física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade,
+assim como sobre o serviço prestado no exterior. Nesse caso, considera-se ocorrido o fato gerador com o
+desembaraço aduaneiro:
+
+Súmula Vinculante 48 - Na entrada de mercadoria importada do exterior, é legítima a cobrança do
+ICMS por ocasião do desembaraço aduaneiro.
+
+Observação: Esta súmula vinculante possui a mesma redação da Súmula 661 do STF. Isso significa
+que já se tratava de entendimento pacífico no STF
+
+De acordo com o STJ, não havendo a circulação jurídica (transferência de propriedade) das mercadorias, não
+há que se falar em cobrança de ICMS. Por exemplo, no deslocamento de mercadoria de um para outro
+estabelecimento do mesmo contribuinte ocorre apenas trânsito físico.
+
+Súmula STJ 166 - Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um
+para outro estabelecimento do mesmo contribuinte.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         21
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Esta jurisprudência é muito relevante! E temos, ainda, o Tema 1099 de Repercussão Geral, no âmbito do STF,
+pela não incidência do ICMS em tais operações, ainda que os estabelecimentos do mesmo contribuinte
+estejam localizados em Estados distintos, isto é, ainda que se trata de uma operação interestadual:
+
+        Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo
+        contribuinte localizados em estados distintos, visto não haver a transferência da
+        titularidade ou a realização de ato de mercancia. (STF, Tema 1099)
+
+Atualmente, com a LC 204/2023, a redação da Lei Kandir (LC 87/96) também prevê que não se considera
+ocorrido o fato gerador do imposto na saída de mercadoria de estabelecimento para outro de mesma
+titularidade, mantendo-se o crédito relativo às operações e prestações anteriores em favor do contribuinte.
+
+Destaque-se que a LC 87/96 também estabeleceu como contribuintes as pessoas físicas ou jurídicas que
+realizem com habitualidade ou em volume que caracterize intuito comercial as operações descritas no art.
+155, II, da CF/88 (acima transcrito).
+
+Súmula STF 573 - Não constitui fato gerador do imposto de circulação de mercadorias a saída física de
+máquinas, utensílios e implementos a título de comodato.
+
+No entender da Corte Suprema, não há direito à correção monetária dos créditos escriturais do ICMS, se
+não houver lei estadual autorizadora:
+
+“Conforme orientação firmada pelo STF, depende de lei autorizadora a correção monetária de créditos
+escriturais do ICMS. Orientação que também se aplica aos casos de créditos acumulados, transpostos
+de um período de apuração aos sucessivos.”
+
+(STF, AI 388.888-AgR,Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento em 31/08/2010)
+
+Também não há incidência do ICMS sobre operação de venda pela agência de automóveis de veículo usado,
+consignado pelo proprietário.
+
+TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. ICMS.
+OPERAÇÃO DE VENDA PELA AGÊNCIA DE AUTOMÓVEIS DE VEÍCULO USADO CONSIGNADO PELO
+PROPRIETÁRIO. NÃO INCIDÊNCIA. 1. Recurso especial pelo qual se discute se a operação de venda
+promovida por agência de automóveis de veículo usado consignado pelo proprietário está sujeita, ou
+não, à incidência de ICMS a ser pago pelo estabelecimento comercial. (...) 4. Ponderado esse
+entendimento jurisprudencial, constata-se que a mera consignação do veículo cuja venda deverá ser
+promovida por agência de automóveis não representa circulação jurídica da mercadoria, porquanto
+não induz à transferência da propriedade ou da posse da coisa, inexistindo, dessa forma, troca de
+titularidade a ensejar o fato gerador do ICMS.
+
+(STJ, REsp 1.321.681/DF, Primeira Turma, Rel. Min. Benedito Gonçalves, Julgamento em 26/02/2013)
+
+Súmula Vinculante 32 - O ICMS não incide sobre a alienação de salvados de sinistro pelas seguradoras.
+
+Conforme já estudamos (ADI 1.648), sobre essa operação há a incidência do IOF, mas não de ICMS (na
+dúvida, volte lá e confira a questão já cobrada sobre o tema).
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        22
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+É importante saber também que o fornecimento de mercadorias com a simultânea prestação de serviço em
+bares, restaurantes e estabelecimentos similares está sujeito à tributação unicamente pelo ICMS, nos termos
+do art. 155, § 2º, IX, “b”:
+
+Súmula STJ 163 - O fornecimento de mercadorias com a simultânea prestação de serviços em bares,
+restaurantes e estabelecimentos similares constitui fato gerador do ICMS a incidir sobre o valor total
+da operação.
+
+Contudo, tal exigência somente se torna legítima, havendo lei estadual que a estabeleça:
+
+Súmula STF 574 - Sem lei estadual que a estabeleça, é ilegítima a cobrança do imposto de circulação
+de mercadorias sobre o fornecimento de alimentação e bebidas em restaurante ou estabelecimento
+similar.
+
+Por outro lado, o serviço de composição gráfica foi previsto na LC 116/2003, o que o faz sujeito unicamente
+ao ISS:
+
+Súmula STJ 156 - A prestação de serviço de composição gráfica, personalizada e sob encomenda, ainda
+que envolva fornecimento de mercadorias, está sujeita, apenas, ao ISS.
+
+Devido ao fato de a venda de bens do ativo fixo da empresa não se enquadrar no conceito de mercadoria e
+essa operação não ser realizada com habitualidade, não ocorre fato gerador do ICMS:
+
+EMENTA: ICMS. VENDA DE BENS NO ATIVO FIXO DA EMPRESA. NÃO INCIDÊNCIA DO TRIBUTO. A venda
+de bens do ativo fixo da empresa não se enquadra na hipótese de incidência determinada pelo art.
+155, I, b, da Carta Federal, tendo em vista que, em tal situação, inexiste circulação no inexiste
+circulação no sentido jurídico-tributário: os bens não se ajustam ao conceito de mercadorias e as
+operações não são efetuadas com habitualidade. Recurso extraordinário não conhecido.
+
+(STF, RE 194.300/SP, Primeira Turma, Rel. Min. Ilmar Galvão, Julgamento em 24/04/1997)
+
+Súmula STJ 237 - Nas operações com cartão de crédito, os encargos relativos ao financiamento não são
+considerados no cálculo do ICMS.
+
+Vale ressaltar que as operações de transformação de sociedades não estão sujeitas ao ICMS, tendo em vista
+que não ocorre qualquer operação comercial, de acordo com o posicionamento do STJ:
+
+TRIBUTÁRIO - ICMS - COMERCIAL - SOCIEDADE COMERCIAL - TRANSFORMAÇÃO - INCORPORAÇÃO -
+FUSÃO - CISÃO - FATO GERADOR - INEXISTÊNCIA. I - Transformação, incorporação, fusão e cisão
+constituem várias facetas de um só instituto: a transformação das sociedades. Todos eles são
+fenômenos de natureza civil, envolvendo apenas as sociedades objeto da metamorfose e os respectivos
+donos de cotas ou ações. Em todo o encadeamento da transformação não ocorre qualquer operação
+comercial. (...) IV - A transformação em qualquer de suas facetas das sociedades não é fato gerador
+de ICMS.
+
+(STJ, REsp 242.721/SC, Primeira Turma, Rel. Min. Humberto Gomes de Barros, Julgamento em
+19/06/2001)
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         23
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Sobre a incidência do ICMS sobre operações de leasing internacional, o STF decidiu o seguinte:
+
+(...) 3. Precedente: RE 461968, Rel. Min. EROS GRAU, Tribunal Pleno, julgado em 30/05/2007, Dje
+23/08/2007, onde restou assentado que o imposto não é sobre a entrada de bem ou mercadoria
+importada, senão sobre essas entradas desde que elas sejam atinentes a operações relativas à
+circulação desses mesmos bens ou mercadorias. 4. Deveras, não incide o ICMS na operação de
+arrendamento mercantil internacional, salvo na hipótese de antecipação da opção de compra, quando
+configurada a transferência da titularidade do bem. Consectariamente, se não houver aquisição de
+mercadoria, mas mera posse decorrente do arrendamento, não se pode cogitar de circulação
+econômica.
+
+(STF, Plenário, RE 540.829/SP, Rel. Min. Gilmar Mendes, Julgamento em 11/09/2014)
+
+Dessa forma, devemos entender que, em tais operações, não incide o ICMS na operação de arrendamento
+mercantil internacional, salvo na hipótese de antecipação da opção de compra, quando configurada a
+transferência da titularidade do bem. Na esteira desse entendimento, o Plenário do STF demonstrou, no
+julgamento do RE 226.899, proferido em 01/10/2014, que na importação de mercadoria do exterior,
+amparada por contrato de leasing, em que não há opção de compra, sendo o bem suscetível de devolução
+ao arrendador, não há incidência do ICMS.
+
+Seguindo o mesmo raciocínio, a Suprema Corte já considerou que não há operação relativa à circulação de
+mercadoria sujeita à incidência do ICMS em operação de arrendamento mercantil contratado pela indústria
+aeronáutica de grande porte para viabilizar o uso, pelas companhias de navegação aérea, de aeronaves por
+ela construídas. Dada a relevância do assunto por já ter sido objeto de provas, transcrevemos um trecho da
+ementa do julgado:
+
+“1. A importação de aeronaves e/ou peças ou equipamentos que as componham em regime de
+leasing não admite posterior transferência ao domínio do arrendatário. 2. A circulação de
+mercadoria é pressuposto de incidência do ICMS. O imposto --- diz o artigo 155, II da Constituição do
+Brasil --- é sobre "operações relativas à circulação de mercadorias e sobre prestações de serviços de
+transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se
+iniciem no exterior". 3. Não há operação relativa à circulação de mercadoria sujeita à incidência do
+ICMS em operação de arrendamento mercantil contratado pela indústria aeronáutica de grande
+porte para viabilizar o uso, pelas companhias de navegação aérea, de aeronaves por ela
+construídas.”
+
+(STF, RE 461.968/SP, Plenário, Rel. Min. Eros Grau, Julgamento em 30/05/2007)
+
+Portanto, a respeito das operações de leasing, podemos guardar o seguinte esquema:
+Leasing realizado dentro do país (sem importação) → não incide ICMS, a não ser quando da venda do bem
+ao arrendatário.
+Leasing internacional → não incide ICMS, salvo se houver antecipação da opção de compra.
+Leasing internacional de aeronaves → não incide ICMS (porque, na prática, não ocorre a transferência do
+bem)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        24
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Agora vamos falar sobre a incidência de ISS/ICMS sobre softwares! O entendimento atual do STF, resultado
+do julgamento das ADIs 5659 e 1945 é o de que há incidência de ISS, e não ICMS, sobre os softwares de
+computador.
+
+Vou te explicar melhor!
+
+Existem programas de computador (softwares) que são elaborados por encomenda do cliente, isto é, são
+customizados conforme as exigências do encomendante. Normalmente, em tais casos, o fornecimento do
+software ocorre mediante o licenciamento ou cessão do direito de seu uso.
+
+Existem também os softwares “prontos” ou padronizados, que são comercializados em massa, como um
+antivírus ou um software de edição de fotos e vídeos, por exemplo. Esses últimos eram conhecidos como
+“softwares de prateleira”, em uma referência ao modo como eram antigamente vendidos em prateleiras de
+estabelecimentos varejistas (em que você teria acesso ao conteúdo do programa, adquirindo um CD-ROM).
+
+E por haver essa diferença entre os dois tipos de softwares, a jurisprudência antiga do STF era a de que
+incidiria ISS sobre o fornecimento de software mediante licenciamento ou cessão do direito de uso, e ICMS
+sobre os “softwares de prateleira”.
+
+A partir de 2021, o entendimento majoritário da Suprema Corte é o de que há apenas incidência do ISS
+sobre os softwares, sejam eles padronizados ou produzidos por encomenda. Logo, não cabe a incidência
+do ICMS! Preste atenção!
+
+Esta decisão também vale para os serviços de streaming de áudio e vídeo, como Netflix, Amazon Prime,
+Spotify etc, por não haver cessão definitiva do serviço para o consumidor e por não haver mudança de
+titularidade do bem. Esta afirmação que acabamos de fazer caiu literalmente em um concurso! Atenção!
+
+Mas você não pode se esquecer da Súmula 662 do STF, que trata da comercialização de exemplares de obras
+cinematográficas (embora videocassetes não sejam mais utilizados, a súmula ainda continua vigente e pode
+cair na sua prova):
+
+Súmula STF 662 - É legítima a incidência do ICMS na comercialização de exemplares de obras
+cinematográficas, gravados em fitas de videocassete.
+
+O entendimento do STJ é o de que só incide ICMS sobre o valor da tarifa de energia elétrica correspondente
+à demanda de potência efetivamente utilizada, não havendo, portanto incidência desse imposto sobre a
+demanda contratada pelo adquirente:
+
+Súmula STJ 391 - O ICMS incide sobre o valor da tarifa de energia elétrica correspondente à demanda
+de potência efetivamente utilizada.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       25
+        www.estrategiaconcursos.com.br                                                                 77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+Esta é, inclusive a jurisprudência do STF, em sede de repercussão geral (Tema 176):
+
+
+
+
+        A demanda de potência elétrica não é passível, por si só, de tributação via ICMS, porquanto
+        somente integram a base de cálculo desse imposto os valores referentes àquelas operações
+        em que haja efetivo consumo de energia elétrica pelo consumidor. (STF, Tema 176)
+
+
+
+
+Súmula STJ 457 - Os descontos incondicionais nas operações mercantis não se incluem na base de
+cálculo do ICMS.
+
+Devemos sempre ter em mente que a desoneração do comércio exterior como pressuposto para o
+desenvolvimento nacional com a diminuição das desigualdades regionais. Assim sendo, em 2021, o STJ
+também sumulou o entendimento no sentido de que, nas exportações de mercadorias para o exterior,
+também não incide ICMS sobre o serviço de transporte interestadual:
+
+Súmula STJ 649 - Não incide ICMS sobre o serviço de transporte interestadual de mercadorias
+destinadas ao exterior.
+
+Cabe destacar que esta jurisprudência do STJ tem relação com a previsão no art. 3º, inciso II, da LC 87/96,
+que a isenção de ICMS sobre operações e prestações de mercadorias destinadas ao exterior se estende
+inclusive ao transporte interestadual de tais mercadorias. Ou seja, o STJ não estar a estender a imunidade
+da exportação (previsão na própria CF) aos serviços de transporte interestadual.
+
+Até porque existe jurisprudência do STF com repercussão geral reconhecida (Tema 475), no sentido da não
+aplicação da imunidade referente às exportações em relação às operações e prestações anteriores à
+exportação.
+
+        A imunidade a que se refere o art. 155, § 2º, X, "a", da CF não alcança operações ou
+        prestações anteriores à operação de exportação. (STF, Tema 475)
+
+
+
+
+Não incide ICMS sobre o serviço de transporte interestadual de mercadorias destinadas ao exterior.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        26
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Ainda sobre a imunidade do ICMS sobre operações de exportação de mercadorias e serviços para o exterior,
+o STF proferiu uma importante decisão, cuja ementa será parcialmente transcrita abaixo:
+
+“O conceito de receita, acolhido pelo art. 195, I, b, da CF, não se confunde com o conceito contábil.”
+
+“Sob o específico prisma constitucional, receita bruta pode ser definida como o ingresso financeiro
+que se integra no patrimônio na condição de elemento novo e positivo, sem reservas ou condições.”
+
+“O aproveitamento dos créditos de ICMS por ocasião da saída imune para o exterior não gera receita
+tributável. Cuida-se de mera recuperação do ônus econômico advindo do ICMS, assegurada
+expressamente pelo art. 155, § 2º, X, a, da CF.“
+
+“Adquirida a mercadoria, a empresa exportadora pode creditar-se do ICMS anteriormente pago, mas
+somente poderá transferir a terceiros o saldo credor acumulado após a saída da mercadoria com
+destino ao exterior (art. 25, § 1º, da LC 87/1996).”
+
+(STF, Plenário, RE 606.107/RS, Rel. Min. Rosa Weber, Julgamento em 22/05/2013, com repercussão
+geral)
+
+Além de prestar atenção nas principais frases retiradas da ementa deste julgamento, o candidato deve saber
+que a imunidade do ICMS sobre exportação permite o aproveitamento dos créditos de ICMS decorrentes
+das operações e prestações que antecedem as exportações.
+
+O mecanismo é aplicável, por exemplo, àquelas mercadorias que são frutos de uma cadeia de produção e
+comercialização, antes de serem efetivamente destinadas ao exterior.
+
+Outro benefício concedido aos exportadores é possibilidade de transferir a outros contribuintes (terceiros)
+os créditos acumulados de exportações que não foram compensados com os débitos de ICMS.
+
+
+
+
+Decorar a literalidade dos principais julgamentos é sempre o melhor caminho para se dar bem em provas
+que envolvam jurisprudência.
+
+
+
+
+Não há incidência de ICMS sobre serviços acessórios, intermediários ou suplementares à transmissão de
+informações de qualquer natureza:
+
+1. A prestação de serviços conexos ao de comunicação (que são preparatórios, acessórios ou
+intermediários da comunicação) não se confunde com a prestação da atividade fim do processo de
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         27
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+transmissão (emissão ou recepção) de informações de qualquer natureza, esta sim, passível de
+incidência pelo ICMS.
+
+2. Desse modo, a despeito de alguns deles serem essenciais à efetiva prestação do serviço de
+comunicação e admitirem a cobrança de tarifa pela prestadora do serviço (concessionária de serviço
+público), por assumirem o caráter de atividade meio, não constituem, efetivamente, serviços de
+comunicação, razão pela qual não é possível a incidência do ICMS.
+
+(STJ, AgRg no REsp 1.197.495/GO, Primeira Turma, Rel. Min. Napoleão Nunes Maia Filho, Julgamento
+em 30/08/2013)
+
+Súmula STJ 350 - O ICMS não incide sobre o serviço de habilitação de telefone celular.
+
+O mesmo raciocínio foi utilizado pelo STJ (AgRg no Ag 1.108.510/RJ) para os serviços acessórios ou
+preparatórios de TV a cabo.
+
+Também precisamos saber que a produção de programas televisivos não se sujeita ao ICMS (AgRg no REsp
+788.583/MG), entretanto, a transmissão de sinais onerosa (a veículação dos programas na TV a cabo) está
+sujeita ao imposto (AgRg no REsp 1.064.596/SP).
+
+Outra jurisprudência relevante (não vou inseri-la aqui, pois sua ementa é demasiadamente extensa) diz
+respeito à incidência do ICMS sobre operações de roaming de telefone celular (REsp 1.202.437/MT):
+
+1. Incide ICMS sobre operações de roaming;
+
+2. Sujeito passivo: operadora que viabilizou a chamada (aquela que possui cobertura na área de onde partiu
+a ligação);
+
+3. Sujeito ativo: Estado em que estiver instalada a estação que receber a solicitação do serviço (onde se
+localiza a operadora que viabilizou a chamada).
+
+Súmula STJ 334 - O ICMS não incide no serviço dos provedores de acesso à Internet.
+
+Entendeu o STJ, com base no art. 61, da Lei 9.472/97, que o serviço prestado pelos provedores é serviço de
+valor adicionado, assim considerado como a atividade que acrescenta, a um serviço de telecomunicações
+que lhe dá suporte e com o qual não se confunde, novas utilidades relacionadas ao acesso, armazenamento,
+apresentação, movimentação ou recuperação de informações. Não constitui, portanto, serviço de
+telecomunicação.
+
+Observação: A Lei 9.472/97 dispõe sobre a organização dos serviços de telecomunicações, a criação
+e funcionamento de um órgão regulador e outros aspectos institucionais.
+
+Nessa esteira, ao julgar o REsp 674.188, o STJ também entendeu que não cabe ISS sobre tal serviço, já que
+não se equipara aos serviços de informática listados no rol de serviços tributáveis pelo referido imposto
+municipal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       28
+        www.estrategiaconcursos.com.br                                                                 77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+É importantíssimo conhecer também a decisão do STF no âmbito do julgamento do RE 912.888/SP, ocorrido
+em 2016, relativa à incidência do ICMS sobre a tarifa de assinatura básica mensal cobrada pelas
+prestadoras de serviço de telefonia:
+
+O Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incide sobre a tarifa de assinatura básica
+mensal cobrada pelas prestadoras de serviço de telefonia, independentemente da franquia de minutos
+concedida ou não ao usuário.
+
+(STF, Plenário, RE 912.888/SP, Rel. Min. Teori Zavascki, 13/10/2016)
+
+Primeiramente, é importante entender que o STF decidiu que a tarifa de assinatura básica mensal não
+configura serviço, mas sim como uma contraprestação pelo serviço de comunicação propriamente dito,
+prestado pelas concessionárias de telefonia e consistente no fornecimento, em caráter continuado, das
+condições materiais para que ocorra a comunicação entre o usuário e terceiro, o que atrai a incidência do
+ICMS. Desse modo, é irrelevante, para fins de incidência do imposto, estar incluída nesta tarifa a franquia
+de minutos, situação em que haveria a efetiva comunicação entre o usuário e terceiro, pelas razões acima
+expostas.
+
+É evidente que, não fosse tal entendimento da Suprema Corte, a base de cálculo do ICMS acabaria sendo
+definida discricionariamente pela Anatel, ou até mesmo pelas próprias prestadoras, já que o valor da tarifa
+básica mensal poderia ser majorado, em contrapartida da redução do valor cobrado pelas franquias de
+minutos.
+
+Pela importância do julgado, vamos considerar o seguinte exemplo: João paga mensalmente R$ 100,00 em
+sua fatura de telefone, sendo R$ 20,00, correspondente à tarifa de assinatura básica mensal, e R$ 80,00,
+correspondente a uma franquia de minutos contratada junto à prestadora do serviço de telefonia. Em
+determinado momento, esta prestadora poderia realizar uma alteração nos valores, definindo como tarifa
+de assinatura básica mensal o valor de R$ 60,00, reduzindo o valor da franquia de minutos contratada por
+João para R$ 40,00.
+
+Analisando a situação ventilada, na prática, João iria pagar R$ 100,00, de igual modo. Porém, a base de
+cálculo do ICMS seria reduzida de R$ 80,00 para R$ 40,00, caso não fosse considerada a jurisprudência do
+Supremo Tribunal Federal. Ficou claro? ☺
+
+
+
+
+QUESTÃO INÉDITA
+O Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incide sobre a tarifa de assinatura básica
+mensal cobrada pelas prestadoras de serviço de telefonia, independentemente da franquia de minutos
+concedida ou não ao usuário.
+
+Comentário: Quando se diz “independentemente” em uma questão de prova, a tendência dos incautos é
+optar por definir o gabarito como “errada”. Contudo, diante do que estudamos neste informativo, ficou claro
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         29
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+que o ICMS pode incidir sobre a tarifa de assinatura básica mensal cobrada pelas prestadoras de serviço de
+telefonia, mesmo que ausente a franquia de minutos concedida ou não ao usuário.
+
+Gabarito: Correta
+
+No que se refere aos serviços meramente acessórios, o STJ já decidiu que:
+
+2. A jurisprudência do STJ encontra-se pacificada no sentido de que o disposto no art. 2º, III, da LC
+87/96, só contempla o ICMS sobre os serviços de comunicação stricto sensu, não sendo possível, pela
+tipicidade fechada do direito tributário, estender-se aos serviços meramente acessórios ou
+preparatórios. Precedentes.
+
+(STJ,REsp 848.490/RJ, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 16/09/2008)
+
+No caso julgado, o STJ decidiu que não há incidência de ICMS sobre locação de pagers, por se tratar de
+atividade acessória.
+
+Destaque-se que, para o STF, o fornecimento de água tratada à população não se caracteriza como operação
+de circulação de mercadoria, não havendo, portanto, incidência de ICMS:
+
+EMENTA Tributário. ICMS. Fornecimento de água tratada por concessionárias de serviço público. Não
+incidência. Ausência de fato gerador. 1. O fornecimento de água potável por empresas
+concessionárias desse serviço público não é tributável por meio do ICMS. 2. As águas em estado
+natural são bens públicos e só podem ser exploradas por particulares mediante concessão, permissão
+ou autorização. 3. O fornecimento de água tratada à população por empresas concessionárias,
+permissionárias ou autorizadas não caracteriza uma operação de circulação de mercadoria. 4.
+Precedentes da Corte. Tema já analisado na liminar concedida na ADI nº 567, de relatoria do Ministro
+Ilmar Galvão, e na ADI nº 2.224-5-DF, Relator o Ministro Néri da Silveira. 5. Recurso extraordinário a
+que se nega provimento.
+
+(STF, RE 607.056/RJ, Plenário, Rel. Min. Dias Toffoli, Julgamento em 10/04/2013)
+
+Note ainda que:
+
+Súmula STJ 432 - As empresas de construção civil não estão obrigadas a pagar ICMS sobre mercadorias
+adquiridas como insumos em operações interestaduais.
+
+Este caso se refere à cobrança da alíquota diferencial de ICMS, quando determinada empresa é consumidora
+final da mercadoria e contribuinte do imposto. No entender do STJ, tais empresas não são contribuintes do
+ICMS, de modo que não estão sujeitas ao pagamento do diferencial de alíquotas (diferença entre alíquota
+estadual e a interna do estado do destinatário).
+
+Ocorre que a Súmula 432 foi publicada antes do advento da EC 87/2015, a qual determinou que até mesmo
+os consumidores finais de mercadorias em operações interestaduais, quando não contribuintes do imposto,
+estão sujeitos ao diferencial de alíquotas do ICMS. Portanto, não obstante o fato de esta súmula continuar
+vigente, perdeu-se o seu sentido. Por não ter sido cancelada, não é de se duvidar que ainda possa cair em
+provas. Portanto, preste muita atenção!
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         30
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Por falarmos na EC 87/2015, a única diferença trazida é que, no caso de aquisição por consumidor final não
+contribuinte do ICMS, aplicava-se tão somente a alíquota interna do Estado remetente. Ou seja, o Estado
+destinatário não recebia qualquer imposto, em operações interestaduais para consumidores finais,
+quando não forem contribuintes do ICMS.
+
+Observação: Nas operações em que o adquirente consumidor final era contribuinte do ICMS, a
+tributação já ocorria da forma como é atualmente, após a EC 87/2015.
+
+Essa forma de tributação trouxe grande prejuízo arrecadatório ao Estado destinatário, com o crescimento
+exponencial das vendas pela internet (comércio eletrônico). Afinal de contas, muitas pessoas deixaram de
+comprar em lojas físicas dentro do seu Estado (operação que geraria ICMS a pagar às lojas físicas) para
+adquirirem produtos via e-commerce.
+
+
+
+
+Essa nova forma de tributação aplica-se não somente nos casos de vendas pela internet, mas em
+toda e qualquer operação interestadual, destinada a consumidor final, contribuinte ou não do
+ICMS.
+
+A solução foi alterar a nossa CF/88, direcionando parte da arrecadação tributária em tais operações ao
+Estado onde estiver localizado o destinatário das mercadorias ou serviços. Por isso, foi previsto o diferencial
+de alíquotas para o Estado destinatário, conhecido como DIFAL.
+
+Chamo a sua atenção para o seguinte: antes da EC 87/2015, o Estado remetente recebia o ICMS calculado
+pela sua alíquota interna. Após a referida emenda constitucional, o Estado remetente passou a receber tão
+somente o ICMS calculado pela alíquota interestadual, menor do que sua alíquota interna. Logo, embora o
+Estado destinatário tenha se beneficiado com a alteração no texto constitucional, o Estado remetente
+acabou tendo sua receita reduzida, não é mesmo?
+
+Refrisando que foi dito alguns parágrafos acima, a diferença fundamental da EC 87/2015 é que,
+anteriormente, no caso de aquisição por consumidor final não contribuinte do ICMS, aplicava-se tão
+somente a alíquota interna do Estado remetente. Ou seja, o Estado destinatário não recebia qualquer
+imposto, em operações interestaduais para consumidores finais, quando não forem contribuintes do
+ICMS.
+
+Assim, sendo, você deve perceber que houve a inclusão de uma incidência, anteriormente não existente,
+para os Estados destinatários: não recebiam nada antes da EC 87/2015, e agora passam a ter direito ao
+DIFAL.
+
+Tranquilo, até aqui, certo?! Mas, vamos lá, pois eu preciso aprofundar um pouco esse assunto contigo...
+
+Essa nova incidência (DIFAL para o Estado destinatário) trata de pontos que devem ser regulados em lei
+complementar, por exigência do art. 155, § 2º, XII, da CF/88. Então, ao julgar a Ação Direta de
+Inconstitucionalidade (ADI) 5469, o STF decidiu ser inconstitucional a cobrança do Diferencial de Alíquota do
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            31
+        www.estrategiaconcursos.com.br                                                                      77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+Imposto sobre Circulação de Mercadorias e Serviços (Difal/ICMS), introduzida pela Emenda Constitucional
+(EC) 87/2015, sem a edição de lei complementar para disciplinar esse mecanismo de compensação,
+conforme o Tema de Repercussão Geral nº 1093:
+
+        A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda
+        Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais.
+        (STF, Tema 1093)
+
+A referida exigência de lei complementar foi suprida com a edição da LC 190/2022, que alterou a LC 87/96,
+para tratar desses aspectos do DIFAL, mas não pôs fim à celeuma. Afinal, você já sabe que nem a CF nem as
+normas gerais de Direito Tributário (como a LC 87/96 e LC 190/2022) instituem novas bases de incidências
+do imposto, devendo ocorrer alteração na legislação local de cada Estado, para incidência tributária.
+
+
+
+
+Nessa linha, por prever formalmente a possibilidade de cobrança do diferencial de alíquotas, surgiu uma
+questão se as normas teriam que observar os princípios da anterioridade anual e nonagesimal, previstos
+constitucionalmente e aplicáveis ao ICMS, sobre as operações em geral.
+
+Na prática, a LC 190/2022 fez referência apenas ao art. 150, III, “c”, da CF (princípio da noventena), e a
+cobrança do DIFAL em 2022 começou a ser efetivada pelos Estados, o que deu margem para nova discussão,
+sobre o descumprimento da anterioridade anual.
+
+E é claro que isso chegou ao Poder Judiciário! Porém, com o julgamento da ADI 7066, o STF decidiu que a Lei
+Complementar nº 190/2022 não estabeleceu nova relação tributária e, consequentemente, deve ter vigência
+após 90 dias de sua promulgação, fixando a necessidade de observação apenas da anterioridade
+nonagesimal.
+
+Ademais, há que se observar os princípios da anterioridade anual e nonagesimal, previstos
+constitucionalmente e aplicáveis ao ICMS, sobre as operações em geral. Poderíamos falar mais sobre esta
+discussão, porém, para a sua prova, por enquanto, basta o que você já viu! Ok? :)
+
+Continuando, vejamos a Súmula 431 do STJ:
+
+Súmula STJ 431 - É ilegal a cobrança de ICMS com base no valor da mercadoria submetido ao regime
+de pauta fiscal.
+
+A fim de que você entenda melhor qual é a real proibição do STJ, acompanhe o seguinte raciocínio:
+
+1 - Está consolidado na jurisprudência da 1ª Seção, deste Superior Tribunal de Justiça, que é impossível,
+segundo as regras do ordenamento jurídico tributário, prestigiar-se a cobrança de ICMS com base no
+valor da mercadoria apurado em pauta fiscal.
+
+(...)
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          32
+          www.estrategiaconcursos.com.br                                                                    77
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+3 - "O art. 148, do CTN, somente pode ser invocado para estabelecimento de bases de cálculo, que
+levam ao cálculo do tributo devido, quando a ocorrência dos fatos geradores é comprovada, mas o
+valor ou preço de bens, direitos, serviços ou atos jurídicos registrados pelo contribuinte não mereçam
+fé, ficando a Fazenda Pública autorizada a arbitrar o preço, dentro de processo regular. A invocação
+desse dispositivo somente é cabível, como magistralmente comenta Aliomar Baleeiro, quando o sujeito
+passivo for omisso, reticente ou mendaz em relação a valor ou preço de bens, direitos, serviços (...)"
+
+(STJ, AgRg no REsp 119337, Primeira Turma, Rel. Min. José Delgado, Julgamento 22/06/1999)
+
+Vejamos, então, que este assunto também já caiu em prova:
+
+Vejamos, a partir de agora, algumas decisões dos tribunais acerca do princípio da não cumulatividade,
+aplicável ao ICMS:
+
+1. O creditamento do ICMS somente é factível nas hipóteses restritas constantes do § 1º, do artigo 20,
+da Lei Complementar nº 87/96, qual seja a entrada de mercadorias que façam parte da atividade
+do estabelecimento. Consectariamente, é de clareza hialina que o direito de creditamento do ICMS
+pago anteriormente somente exsurge quando se tratar de insumos que se incorporam ao produto
+final ou que são consumidos no curso do processo de industrialização.
+
+(STJ, REsp 889.414/RJ, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 17/04/2008)
+
+Portanto, se o insumo não se incorpora ao produto final nem é consumido no curso do processo de
+industrialização, não há que se falar em creditamento de ICMS.
+
+Ainda sobre a não cumulatividade do ICMS, o STJ publicou a seguinte súmula:
+
+Súmula STJ 509 - É lícito ao comerciante de boa-fé aproveitar os créditos de ICMS decorrentes de nota
+fiscal posteriormente declarada inidônea, quando demonstrada a veracidade da compra e venda.
+
+O caso se refere ao comerciante de boa-fé que adquire mercadoria, cuja nota fiscal só é declarada inidônea
+pelo fisco em momento posterior ao negócio jurídico. Nesse caso, no entender do Superior Tribunal de
+Justiça, é lícito o aproveitamento dos créditos, em face do princípio da não cumulatividade.
+
+O sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou
+o estabelecimento do destinatário jurídico da mercadoria (alínea "a" do inciso IX do § 2o do art. 155
+da Carta de Outubro); pouco importando se o desembaraço aduaneiro ocorreu por meio de ente
+federativo diverso. Recurso extraordinário desprovido.
+
+(STF, RE 299.079/RJ, Primeira Turma, Rel. Min. Carlos Britto, Julgamento em 30/06/2004)
+
+Outra jurisprudência já cobrada em prova de concursos públicos:
+
+ICMS - MERCADORIA IMPORTADA - INTERMEDIAÇÃO - TITULARIDADE DO TRIBUTO. O Imposto sobre
+Circulação de Mercadorias e Serviços cabe ao Estado em que localizado o porto de desembarque e o
+destinatário da mercadoria, não prevalecendo a forma sobre o conteúdo, no que procedida a
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         33
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+importação por terceiro consignatário situado em outro Estado e beneficiário de sistema tributário
+mais favorável.
+
+(STF, RE 268.586/SP, Primeira Turma, Rel. Min. Marco Aurélio, Julgamento em 24/05/2005)
+
+Observação: No primeiro caso, houve, de fato, a compra da mercadoria. No segundo, houve uma
+simulação. Essa é a diferença entre as duas situações decididas pelo STF.
+
+Este foi o Tema de Repercussão Geral nº 520, que demonstra a pacífica jurisprudência do STF:
+
+        O sujeito ativo da obrigação tributária de ICMS incidente sobre mercadoria importada é o
+        Estado-membro no qual está domiciliado ou estabelecido o destinatário legal da operação
+        que deu causa à circulação da mercadoria, com a transferência de domínio. (STF, Tema
+        520)                                             ==219a34==
+
+
+
+
+Quando há operações interestaduais em que se verifique algum tipo de benefício fiscal no Estado de origem,
+o crédito de ICMS deve corresponder ao que foi efetivamente recolhido, e não ao que seria
+presumidamente pago em uma operação normal:
+
+“A jurisprudência desta Corte possui entendimento firmado no sentido de que, nas operações
+interestaduais, o creditamento do ICMS na operação subsequente deve corresponder ao montante
+que foi efetivamente recolhido na operação anterior.”
+
+(STF, RE 491.651-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, Julgamento em 08/05/2012)
+
+A jurisprudência do STF firmou-se no sentido da constitucionalidade da inclusão, na base de cálculo
+do ICMS, do acréscimo correspondente ao financiamento realizado pelo próprio alienante nas
+vendas a prazo, sempre que integre o valor da operação.
+
+(STF, AI 697.323-AgR/SP, Primeira Turma, Rel. Min. Rosa Weber, Julgamento em 26/02/2013)
+
+No mesmo sentido, “a jurisprudência do STF entende que não há diferenciação entre operações de venda
+à vista e a prazo, para fins de incidência de ICMS” (AI 559.807-AgR).
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com posicionamento firmado pelo STF, é constitucional a inclusão na base de cálculo do ICMS do
+acréscimo correspondente ao financiamento realizado pelo próprio alienante de vendas a prazo, desde que
+integre o valor da operação.
+
+Comentário: É exatamente esse o entendimento do STF. Leve-o para a prova.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       34
+        www.estrategiaconcursos.com.br                                                                 77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Gabarito: Correta
+
+Outro tema importante para abordarmos aqui em nossa aula de jurisprudência é a tributação de TUSD e
+TUST! Vamos por partes...
+
+Sabemos que as operações com energia elétrica são tributadas pelo ICMS, isto é, estão dentro do seu campo
+de incidência, por força de regra constitucional! A energia elétrica é equiparada a mercadoria para fins de
+incidência do ICMS.
+
+Acerca da tributação sobre energia elétrica, temos que nos lembrar do seguinte:
+
+Operações Interestaduais: não incide ICMS sobre energia elétrica (CF, art. 155, § 2º, X, “b”);
+
+Únicos impostos incidentes sobre energia elétrica: ICMS, II, IE, IBS
+
+Agora vamos entender melhor sobre as tarifas cobradas pelo uso do sistema de distribuição e transmissão
+da energia elétrica:
+
+        TUSD (Tarifa de Uso do Sistema de Distribuição): É o valor cobrado pelo uso da rede
+        elétrica após a energia ser transmitida, ou seja, na etapa de distribuição até o consumidor
+        final (casas, comércios, indústrias).
+
+        → É paga à concessionária distribuidora (ex: Cemig, Enel, CPFL).
+
+        TUST (Tarifa de Uso do Sistema de Transmissão): É a tarifa cobrada pelo uso da rede de
+        transmissão de alta tensão, que leva a energia das usinas geradoras até as distribuidoras.
+
+        → É paga ao operador do sistema de transmissão, sob regulação da ANEEL.
+
+Um ponto que precisamos esclarecer aqui é o seguinte: essas tarifas entrariam na base de cálculo do ICMS?!
+
+Com a edição da LC 194/2022, houve a previsão na Lei Kandir (LC 87/96) da seguinte regra de não incidência
+(grifamos):
+
+        Art. 3º O imposto não incide sobre:
+
+        (...)
+
+        X - serviços de transmissão e distribuição e encargos setoriais vinculados às operações com
+        energia elétrica. (Incluído pela Lei Complementar nº 194, de 2022)
+
+Após tal norma, em 2023, alguns governadores ingressaram com a ADI 7195, sendo deferida tutela cautelar
+para suspender os efeitos do art. 3º, X, da Lei Complementar nº 87/96, com redação dada pela Lei
+Complementar nº 194/2022.
+
+Quanto a esse aspecto, temos o Tema 956 de Repercussão Geral pelo STF:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        35
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+     Tema 956 Repercussão Geral - É infraconstitucional, a ela se aplicando os efeitos da ausência de
+     repercussão geral, a controvérsia relativa a inclusão dos valores pagos a título de Tarifa de Uso
+     do Sistema de Transmissão (TUST) e Tarifa de Uso do Sistema de Distribuição (TUSD) na base de
+     cálculo do ICMS incidente sobre a circulação de energia elétrica.
+
+Nesse contexto, o STJ consolidou a sua jurisprudência no Tema Repetitivo 986, com a seguinte tese:
+
+     Tema Repetitivo 986 - A Tarifa de Uso do Sistema de Transmissão (TUST) e/ou a Tarifa de Uso de
+     Distribuição (TUSD), quando lançada na fatura de energia elétrica, como encargo a ser suportado
+     diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º,
+     II, 'a', da LC 87/1996, a base de cálculo do ICMS.
+
+Em suma, para a sua prova, a minha recomendação é que memorize o Tema Repetitivo 986!
+
+Agora, para finalizarmos, quero que faça uma leitura em algumas teses fixadas pelo Supremo Tribunal
+Federal, com repercussão geral, e que podem muito bem serem formuladas como questões na sua prova:
+
+Diferencial de alíquota de ICMS (DIFAL) e Simples Nacional (Tema 517): “É constitucional a imposição
+tributária de diferencial de alíquota do ICMS pelo Estado de destino na entrada de mercadoria em seu
+território devido por sociedade empresária aderente ao Simples Nacional, independentemente da posição
+desta na cadeia produtiva ou da possibilidade de compensação dos créditos.”
+
+ICMS sobre energia elétrica devido ao Estado de destino (Tema 689): “Segundo o artigo 155, § 2º, X, b, da
+CF/1988, cabe ao Estado de destino, em sua totalidade, o ICMS sobre a operação interestadual de
+fornecimento de energia elétrica a consumidor final, para emprego em processo de industrialização, não
+podendo o Estado de origem cobrar o referido imposto.”
+
+Inadimplência dos usuários nos serviços de telecomunicações (Tema 705): “A inadimplência do usuário não
+afasta a incidência ou a exigibilidade do ICMS sobre serviços de telecomunicações.”
+
+Constitucionalidade de lei que concede remissão de ICMS decorrentes de benefícios fiscais
+inconstitucionais (Tema 817): É constitucional a lei estadual ou distrital que, com amparo em convênio do
+CONFAZ, conceda remissão de créditos de ICMS oriundos de benefícios fiscais anteriormente julgados
+inconstitucionais.
+
+Incidência do ICMS nas vendas realizadas por locadoras de veículos (Tema 1012): “É constitucional a
+incidência do ICMS sobre a operação de venda, realizada por locadora de veículos, de automóvel com menos
+de 12 (doze) meses de aquisição da montadora.”
+
+ICMS, regime de antecipação tributária e reserva de lei complementar para substituição tributária (Tema
+456): “A antecipação, sem substituição tributária, do pagamento do ICMS para momento anterior à
+ocorrência do fato gerador necessita de lei em sentido estrito. A substituição tributária progressiva do ICMS
+reclama previsão em lei complementar federal”.
+
+Para este último caso, resumimos o seguinte:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             36
+        www.estrategiaconcursos.com.br                                                                       77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Regime de antecipação do pagamento do imposto sem substituição tributária: necessidade de lei ordinária
+pelo Estado que o definir;
+
+Regime de substituição tributária para o ICMS: necessidade de lei complementar (CF, art. 155, § 2º, XII, “b”)
+
+
+
+
+Imposto sobre a Propriedade de Veículos Automotores
+
+No que diz respeito ao IPVA, é importante que você não se esqueça do julgado que vimos no início dessa
+aula, que diz que “Os Estados-membros estão legitimados a ditar as normas gerais referentes ao IPVA, no
+exercício da competência concorrente prevista no artigo 24, § 3º, da Constituição do Brasil.”
+
+"Ementa: (...) 1. Em arrendamento mercantil, a arrendante é responsável solidária para o
+adimplemento da obrigação tributária concernente ao IPVA, nos termos do art. 1º, § 7º da Lei Federal
+n. 7.431/85, por ser ela possuidora indireta do bem arrendado e conservar a propriedade até o final
+do pacto."
+
+(STJ, REsp 897.205/DF, Segunda Turma, Rel. Min. HUmberto Martins, Julgamento em 13/03/2007)
+
+EMENTA: IPVA - Imposto sobre Propriedade de Veículos Automotores (CF, art. 155, III; CF 69, art. 23, III
+e § 13, cf. EC 27/85): campo de incidência que não inclui embarcações e aeronaves.
+
+(STF, RE 134.509/AM, Plenário, Rel. Min. Marco Aurélio, Julgamento em 29/05/2002)
+
+Ainda sobre o IPVA, é importante considerarmos a jurisprudência do Supremo Tribunal Federal, ao julgar o
+RE 1.016.605, com repercussão geral, no sentido de que o imposto é devido ao Estado do domicílio do
+proprietário do veículo, onde, de acordo com a legislação de trânsito, licenciado e registrado.
+
+Nesse sentido, temos o Tema 708 de Repercussão Geral:
+
+        A Constituição autoriza a cobrança do Imposto sobre a Propriedade de Veículos
+        Automotores (IPVA) somente pelo Estado em que o contribuinte mantém sua sede ou
+        domicílio tributário. (STF, Tema 708)
+
+A decisão evita a “guerra fiscal do IPVA”, já que a tendência é que os Estados reduzam suas alíquotas para
+atraírem contribuintes que, mesmo domiciliados em outros Estados, registram seus veículos no Estado que
+definir a menor alíquota. Trata-se de prática comum no caso de empresas com grandes frotas de veículos.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           37
+        www.estrategiaconcursos.com.br                                                                     77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+Impostos de Competência dos Municípios
+
+Imposto sobre Propriedade Territorial Urbana
+
+“É inconstitucional a majoração do IPTU sem edição de lei em sentido formal, vedada a atualização,
+por ato do Executivo, em percentual superior aos índices oficiais.”
+
+(STF, RE 648.245, Plenário, Rel. Min. Gilmar Mendes, Julgamento em 01/08/2013, DJE de 24/02/2014,
+com repercussão geral)
+
+Com a EC 132/2023 (Reforma Tributária), tal previsão passou a constar na CF/88:
+
+        Art.156.
+
+        (...)
+
+        §1º
+
+        (...)
+
+        III – ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios
+        estabelecidos em lei municipal.
+
+No que se refere à tributação com base em alíquotas diversas em razão da destinação do imóvel, há que se
+destacar o seguinte:
+
+EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. TRIBUTÁRIO.
+IPTU. ALÍQUOTAS DIFERENCIADAS. OFENSA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA I - A jurisprudência
+da Corte é no sentido de que não viola a Constituição Federal a fixação de alíquotas diversas do IPTU
+em razão da destinação do imóvel. Precedentes II - Agravo regimental improvido.
+
+(STF, AI 470.555/RJ, Primeira Turma, Rel. Min. Ricardo Lewandowski, Julgamento em 21/06/2007)
+
+Outra jurisprudência importante do STF a respeito do IPTU diz respeito à progressividade de alíquotas:
+
+Súmula STF 668 - É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda
+Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o
+cumprimento da função social da propriedade urbana.
+
+A EC 29/00 acrescentou dois incisos ao § 1º do art. 156 da CF/88. O primeiro diz respeito à possibilidade de
+se ter alíquotas progressivas em função do valor do imóvel. O segundo menciona a permissão para se
+estabelecer alíquotas diferentes de acordo com a localização e o uso do imóvel.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         38
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Por conseguinte, diversas normas tributárias municipais foram consideradas inconstitucionais, por preverem
+progressividade em momento anterior à EC 29/00. Neste caso, de acordo com o STF, o IPTU nesse período
+pode ser cobrado, considerando a menor alíquota prevista na lei tributária que previa a progressividade
+(Tema 226):
+
+        Declarada inconstitucional a progressividade de alíquota tributária, é devido o tributo
+        calculado pela alíquota mínima correspondente, de acordo com a destinação do imóvel.
+        (STF, RE 602347)
+
+Por outro lado, o Plenário do STF decidiu em 11/05/2020, que são constitucionais as leis municipais
+anteriores à Emenda Constitucional n° 29/2000, que instituíram alíquotas diferenciadas de IPTU para imóveis
+edificados e não edificados, residenciais e não residenciais (Tema 523):
+
+        São constitucionais as leis municipais anteriores à Emenda Constitucional n° 29/2000, que
+        instituíram alíquotas diferenciadas de IPTU para imóveis edificados e não edificados,
+        residenciais e não residenciais. (STF, RE 666156)
+
+
+
+
+QUESTÃO INÉDITA
+A câmara de vereadores do município XY editou uma lei, em 2002, prevendo alíquotas progressivas em
+função do valor do imóvel. Nesse sentido, conforme jurisprudência do STF, a referida lei é inconstitucional.
+
+Comentário: A lei foi editada depois da EC 29/2000. Por esse motivo, a lei é considerada constitucional,
+conforme o posicionamento do STF.
+
+Gabarito: Errada
+
+Guarde também que é inconstitucional a progressividade de alíquotas do IPTU em função do número de
+imóveis do contribuinte. Sobre o assunto, vejamos o que diz a Súmula 589 do STF:
+
+Súmula STF 589 - É inconstitucional a fixação de adicional progressivo do Imposto Predial e Territorial
+Urbano em função do número de imóveis do contribuinte.
+
+
+
+
+Súmula STF 539 - É constitucional a lei do município que reduz o imposto predial urbano sobre imóvel
+ocupado pela residência do proprietário, que não possua outro.
+
+
+
+
+EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE
+A PROPRIEDADE IMÓVEL TERRITORIAL E URBANA. IPTU. PROGRESSIVIDADE. ALÍQUOTA ÚNICA.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          39
+        www.estrategiaconcursos.com.br                                                                    77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+VARIAÇÃO DA BASE DE CÁLCULO CONFORME A ESSENCIALIDADE OU A FRIVOLIDADE DO BEM (TIPOS
+DE IMÓVEL PRECÁRIO, POPULAR, MÉDIO, FINO E LUXO). ÍNDICE PRÓPRIO PARA MENSURAR A
+CAPACIDADE CONTRIBUTIVA E DAR DIMENSÃO EXTRAFISCAL À EXAÇÃO. UTILIZAÇÃO ANTES DA EC
+29/2000. IMPOSSIBILIDADE. (...) 2. O efeito extrafiscal ou a calibração do valor do tributo de acordo
+com a capacidade contributiva não são obtidos apenas pela modulação da alíquota. O
+escalonamento da base de cálculo pode ter o mesmo efeito. 3. Ao associar o tipo de construção
+(precário, popular, médio, fino e luxo) ao escalonamento crescente da avaliação do valor venal do
+imóvel, a Lei 3.326/1996 do Município de Campo Grande passou a graduar o valor do tributo de
+acordo com índice hábil à mensuração da frivolidade ou da essencialidade do bem, além de lhe
+conferir mais matizes para definição da capacidade contributiva. Impossibilidade, nos termos do texto
+constitucional anterior à inovação trazida pela EC 29/2000. Agravo regimental ao qual se nega
+provimento.
+
+(STF, AI 583.636-AgR/MS, Segunda Turma, Min. Rel. Joaquim Barbosa, Julgamento em 06/04/2010)
+
+A base de cálculo do IPTU é o valor venal do imóvel. Contudo, para se chegar ao valor venal, vários critérios
+são utilizados pelos municípios. Um dos critérios poderia ser o tipo de construção (precário, popular, médio,
+fino e luxo). Ou seja, à medida que o padrão da construção aumente, haverá consequente escalonamento
+da base de cálculo. Como o tributo é calculado multiplicando-se a base de cálculo pela alíquota, de acordo
+com a Suprema Corte, é possível conferir progressividade ao tributo, variando a base de cálculo e mantendo
+alíquota única.
+
+Complementando este assunto, quero trazer também uma jurisprudência interessante do STF que permite
+que o Poder Executivo realize avaliação individualizada (apuração da base de cálculo do imposto), para fins
+de cobrança do IPTU, de imóvel novo não previsto na Planta Genérica de Valores:
+
+     Tema 1084 Repercussão Geral STF - É constitucional a lei municipal que delega ao Poder
+     Executivo a avaliação individualizada, para fins de cobrança do IPTU, de imóvel novo não previsto
+     na Planta Genérica de Valores, desde que fixados em lei os critérios para a avaliação técnica e
+     assegurado ao contribuinte o direito ao contraditório.
+
+
+
+
+        Sobre o que estávamos falando: a Planta Genérica de Valores (PGV) é uma ferramenta
+        definida por lei municipal que serve para determinar o valor venal dos imóveis. Ela utiliza
+        critérios como:
+
+        Localização do imóvel (se está em uma área mais valorizada ou periférica);
+
+        Uso ou destinação (residencial, comercial, industrial, etc.);
+
+        Padrão de construção (simples, médio, luxo, entre outros).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          40
+        www.estrategiaconcursos.com.br                                                                    77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+         Com base nesses fatores, a PGV calcula o valor do metro quadrado de cada imóvel, o que
+         permite que a prefeitura determine o valor total do imóvel e, assim, aplique a alíquota do
+         IPTU (Imposto Predial e Territorial Urbano). É um instrumento essencial para garantir que
+         a tributação seja proporcional às características e à localização do imóvel.
+
+Acerca da incidência do IPTU, destacamos que o art. 32. § 1º, do CTN, previu os melhoramentos necessários
+para se considerar determinada área como zona urbana, considerando a disposição em lei municipal. De
+acordo com o referido dispositivo, para a lei municipal definir determinada área como zona urbana, é
+necessário observar o requisito mínimo da existência de melhoramentos indicados em pelo menos 2 (dois)
+dos incisos seguintes, construídos ou mantidos pelo Poder Público:
+
+I - meio-fio ou calçamento, com canalização de águas pluviais;
+
+II - abastecimento de água;
+
+III - sistema de esgotos sanitários;
+
+IV - rede de iluminação pública, com ou sem posteamento para distribuição domiciliar;
+
+V - escola primária ou posto de saúde a uma distância máxima de 3 (três) quilômetros do imóvel considerado.
+
+Ainda sobre o tema, o § 2º, do mesmo artigo, previu que a lei municipal pode considerar urbanas as áreas
+urbanizáveis, ou de expansão urbana, constantes de loteamentos aprovados pelos órgãos competentes,
+destinados à habitação, à indústria ou ao comércio, mesmo que localizados fora das zonas definidas nos
+termos do § 1º.
+
+Nessa linha, o STJ já chancelou seu entendimento na Súmula 626:
+
+Súmula STJ 626 - A incidência do IPTU sobre imóvel situado em área considerada pela
+
+lei local como urbanizável ou de expansão urbana não está condicionada à existência dos
+melhoramentos elencados no art. 32, § 1º, do CTN.
+
+Portanto, meus amigos, o STJ permite que o Município cobre o IPTU em loteamentos aprovados, mesmo
+que inexistentes os melhoramentos previstos no art. 32, § 1º, do CTN.
+
+Acrescentamos que, em questões que versem sobre a incidência do ITR/IPTU, é muito importante se ater a
+outro detalhe importantíssimo, previsto não no CTN, mas no DL 57/1966, o qual já teve a sua validade
+reconhecida pela jurisprudência e define uma regra para incidência do ITR até mesmo sobre imóveis
+localizados na zona urbana do Município, desde que seja utilizado em exploração vegetal, agrícola, pecuária
+ou agroindustrial.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       41
+         www.estrategiaconcursos.com.br                                                                 77
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+Um imóvel pode estar localizado em uma região que é definida em lei como zona urbana do Município e,
+mesmo assim, sobre ele incidir o ITR.
+
+O art. 15, do Decreto-Lei 57/66, estabelece que, ainda que o imóvel esteja localizado em área urbana do
+município, caso seja utilizado em exploração extrativa vegetal, agrícola, pecuária ou agroindustrial,
+incidirá ITR, e não IPTU.
+
+Como sabemos, ambos os impostos incidem sobre propriedade de imóveis, sendo o IPTU incidente sobre os
+bens imóveis urbanos, e o IPTU, sobre o bens imóveis rurais.
+
+Dessa forma, seguindo o disposto acima, mesmo que o imóvel esteja localizado em área definida em lei como
+zona urbana do Município, sobre ele incidirá o ITR, e não o IPTU.
+
+DICA DE PROVA: Não se preocupe, pois quando a questão de prova cobrar essa regra do DL 57/66, haverá
+indícios, como a referência à finalidade dada ao imóvel, à jurisprudência do STJ ou mesmo a referência
+expressa ao referido diploma normativo.
+
+Segue abaixo a decisão do STJ a respeito da validade do DL 57/66:
+
+TRIBUTÁRIO. IPTU. ITR. FATO GERADOR. IMÓVEL SITUADO NA ZONA URBANA. LOCALIZAÇÃO.
+DESTINAÇÃO. CTN, ART. 32. DECRETO-LEI N. 57/66. VIGÊNCIA. 1. Ao ser promulgado, o Código
+Tributário Nacional valeu-se do critério topográfico para delimitar o fato gerador do Imposto sobre a
+Propriedade Predial e Territorial Urbana (IPTU) e o Imposto sobre a Propriedade Territorial Rural (ITR):
+se o imóvel estivesse situado na zona urbana, incidiria o IPTU; se na zona rural, incidiria o ITR. 2. Antes
+mesmo da entrada em vigor do CTN, o Decreto-Lei nº 57/66 alterou esse critério, estabelecendo
+estarem sujeitos à incidência do ITR os imóveis situados na zona rural quando utilizados em
+exploração vegetal, agrícola, pecuária ou agroindustrial. 3. A jurisprudência reconheceu validade ao
+DL 57/66, o qual, assim como o CTN, passou a ter o status de lei complementar em face da
+superveniente Constituição de 1967. Assim, o critério topográfico previsto no art. 32 do CTN deve ser
+analisado em face do comando do art. 15 do DL 57/66, de modo que não incide o IPTU quando o
+imóvel situado na zona urbana receber quaisquer das destinações previstas nesse diploma legal.
+
+(STJ, REsp 492.869/PR, Primeira Turma, Min. Rel. Teori Albino Zavascki, Julgamento em 15/02/2005)
+
+O entendimento do STJ a respeito da posse do imóvel (REsp 325.489) é o de que para ser considerado
+contribuinte do IPTU, há que exercer a posse sobre o imóvel com animus domini - ou animus definitivo -, que
+quer dizer intenção de ser dono. Nesse rumo, podemos afirmar que o locatário, comodatário ou
+arrendatário de imóvel não pode ser considerado como contribuinte do IPTU:
+
+TRIBUTÁRIO - IPTU - CONTRIBUINTE - POSSUIDOR - ART. 34 DO CTN.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              42
+        www.estrategiaconcursos.com.br                                                                        77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+1. O IPTU é imposto que tem como contribuinte o proprietário ou o possuidor por direito real que
+exerce a posse com animus definitivo - art. 34 do CTN.
+
+2. O comodatário é possuidor por relação de direito pessoal e, como tal, não é contribuinte do IPTU
+do imóvel que ocupa.
+
+3. Não sendo contribuinte o possuidor e confundindo-se, no Município, as posições de proprietário do
+imóvel e de sujeito ativo para a cobrança do IPTU, resulta indevido o tributo.
+
+4. Recurso especial improvido.
+
+(STJ, REsp 325.489/SP, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 19/11/2002)
+
+
+
+
+Destaque-se que a posse ad usucapionem, isto é, aquela que dá origem ao usucapião, é apta a gerar a
+obrigação tributária do IPTU, por estar prestes a se transformar em propriedade, havendo verdadeiro animus
+domini.
+
+Observação: Durante o curso, o candidato acaba tendo que aprender diversos termos em latim.
+Sempre que possível, facilitamos o aprendizado, mas em alguns casos, é importante conhecer os
+termos utilizados em provas! ☺
+
+Em razão dessa jurisprudência do STJ, foi editada a Súmula 614 (em maio de 2018), no sentido de que, por
+não haver relação jurídica entre a Fazenda Pública e o locatário, este não possui legitimidade ativa para
+discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado:
+
+Súmula STJ 614 - O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de
+IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos.
+
+
+
+
+Este tema relativo à condição de posse com animus domini para incidência tributária do IPTU deve ser
+considerado com muita cautela. Isso porque, a partir de 2017, o posicionamento do Supremo Tribunal
+Federal diverge do STJ.
+
+Ao julgar os Recursos Extraordinários 594.015/SP, 601.720/RJ e 434.251/RJ, o STF decidiu, em um caso
+envolvendo inaplicabilidade da imunidade recíproca a contratos de cessão do uso à empresas privadas de
+imóvel pertencente à União, que a definição do contribuinte do IPTU no art. 34, do CTN, “ou seu possuidor
+a qualquer título” não exige a posse com “animus domini”, alterando o seu clássico entendimento sobre o
+assunto.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            43
+        www.estrategiaconcursos.com.br                                                                      77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+É evidente que, uma vez inaplicável a imunidade ao caso, e considerando que a União, proprietária do imóvel,
+já é imune de qualquer forma, a discussão repousaria sobre a empresa privada que estaria utilizando o imóvel
+público.
+
+Dica de Prova: Diante da celeuma, é improvável a cobrança do tema em prova. Se cair, vamos investigar se
+a questão exige o posicionamento do STF, que é este que acabamos de expor, ou a Súmula do STJ, que deve
+ser considerada correta também.
+
+Com base nesse raciocínio, você poderia até questionar quem seria o contribuinte em caso de contrato de
+promessa de compra e venda do imóvel. Nesse caso, o STJ foi claro:
+
+A jurisprudência desta Corte Superior é no sentido de que tanto o promitente comprador (possuidor
+a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a
+propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do
+IPTU.
+
+(STJ, REsp 1.111.202/SP, Primeira Seção, Rel. Min. Mauro Campbell Marques, Julgamento em
+10/06/2009)
+
+Isso significa que cabe ao legislador municipal eleger o sujeito passivo do IPTU, contemplando qualquer das
+situações previstas no CTN (proprietário, titular do domínio útil, ou o seu possuidor a qualquer título). Assim
+sendo, nada impede o promitente comprador e o proprietário (promitente vendedor) figurarem como
+sujeitos passivos do IPTU!
+
+Acrescentamos também que, de acordo com entendimento esposado pela Segunda Turma do STJ (REsp
+1.482.184-RS), o fato de parte de um imóvel urbano ter sido declarada como Área de Preservação
+Permanente (APP) e, além disso, sofrer restrição administrativa consistente na proibição de construir (nota
+non aedificandi) não impede a incidência de IPTU sobre toda a área do imóvel. Segundo a Corte, cuida-se
+de um ônus a ser suportado, o que não gera o cerceamento total da disposição, utilização ou alienação da
+propriedade, como ocorre, por exemplo, nas desapropriações.
+
+Imposto sobre a Transmissão de Bens Imóveis
+
+A respeito do ITBI, não há muito o que guardar. O mais relevante está mencionado no nosso curso, a seguir:
+
+“Imposto de transmissão de imóveis, inter vivos – ITBI: alíquotas progressivas: a CF não autoriza a
+progressividade das alíquotas, realizando-se o princípio da capacidade contributiva
+proporcionalmente ao preço da venda.”
+
+(STF, RE 234.105, Plenário, Rel. Min. Carlos Velloso, Julgamento em 08/04/1999)
+
+Na mesma direção, tome conhecimento da Súmula 656 do STF:
+
+Súmula STF 656 - É inconstitucional a lei que estabelece alíquotas progressivas para o imposto de
+transmissão inter vivos de bens imóveis – ITBI com base no valor venal do imóvel.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            44
+        www.estrategiaconcursos.com.br                                                                      77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+Ademais, o mero contrato de promessa não constitui fato gerador do ITBI, sendo necessária a existência de
+registro do instrumento no cartório competente:
+
+“RECURSO EXTRAORDINÁRIO - IMPOSTO DE TRANSMISSÃO INTERVIVOS DE BENS IMÓVEIS - FATO
+GERADOR - CESSÃO DE DIREITOS. A cobrança do Imposto de Transmissão Intervivos de Bens Imóveis
+está vinculada à existência de registro do instrumento no cartório competente.”
+
+(STF, AI 646.443-AgR, Primeira Turma, Rel. Min. Marco Aurélio, Julgamento em 16/12/2008)
+
+
+
+
+Cuidado! Embora exista a Súmula 328 do STF (editada em 1963!), atualmente a competência para instituir
+imposto sobre transferência de bens imóveis a título gratuito é dos Estados (por meio do ITCMD). O ITBI, de
+competência municipal, incide sobre transmissões onerosas!
+
+Antes de finalizarmos o estudo da jurisprudência relativa ao ITBI, é de se ressaltar que, não obstante as bases
+de cálculo de ambos impostos sejam o valor venal do imóvel, o STJ já decidiu que não necessariamente tais
+valores devem ser iguais. Vejamos:
+
+“TRIBUTÁRIO. ITBI. IPTU. BASES DE CÁLCULO. VALOR VENAL. IDENTIDADE NECESSÁRIA. INEXISTÊNCIA.
+
+1. O valor venal do imóvel apurado para fins de ITBI não coincide, necessariamente, com aquele
+adotado para lançamento do IPTU.
+
+(...)
+
+(STJ,REsp 848.490/RJ, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 16/09/2008)
+
+
+
+
+Leve para a prova:
+
+→ As bases de cálculo do IPTU e do ITBI são o valor venal do imóvel. (CORRETA)
+
+→ As bases de cálculo do IPTU e do ITBI devem ser iguais. (ERRADA)
+
+
+
+
+QUESTÃO INÉDITA
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           45
+         www.estrategiaconcursos.com.br                                                                     77
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+O valor venal do imóvel apurado para fins de ITBI não coincide, necessariamente, com aquele adotado para
+lançamento do IPTU.
+
+Comentário: Existe grande probabilidade de cair uma questão simples assim, copiando a literalidade da
+ementa do julgado do STJ. Neste caso, a questão está correta.
+
+Gabarito: Correta
+
+O fato gerador do ITBI abrange a transmissão "inter vivos", a qualquer título, por ato oneroso, de bens
+imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como
+cessão de direitos a sua aquisição (CF/88, art. 156, II).
+
+Insta observar também que o ITBI não incide sobre a transmissão de bens ou direitos incorporados ao
+patrimônio de pessoa jurídica em realização de capital, nem sobre a transmissão de bens ou direitos
+decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade
+preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou
+arrendamento mercantil.
+
+
+
+
+        As regras detalhadas sobre “atividade preponderante” constam no art. 37 do CTN,
+        resumido abaixo.
+
+        Atividade Preponderante: É considerada atividade preponderante quando mais de 50% da
+        receita operacional da pessoa jurídica adquirente, nos dois anos anteriores e nos dois anos
+        subsequentes à aquisição, provém de transações de venda ou locação de propriedade
+        imobiliária ou cessão de direitos de sua aquisição.
+
+        Empresas Novas ou Recentes: Se a pessoa jurídica adquirente iniciou suas atividades após
+        a aquisição ou até dois anos antes dela, a preponderância é apurada considerando os três
+        primeiros anos seguintes à aquisição.
+
+        Imposto Devido: Se confirmada a preponderância da atividade, o imposto torna-se devido
+        sobre o valor do bem ou direito na data da aquisição, conforme a lei vigente naquela data.
+
+        Transmissão Integral do Patrimônio: As regras deste artigo não se aplicam à transmissão
+        de bens ou direitos realizada juntamente com a totalidade do patrimônio da pessoa jurídica
+        alienante.
+
+Assim sendo, preste atenção: se um sócio pretende integralizar o capital social da sua empresa com um
+imóvel, não há incidência de ITBI (realização de capital). Da mesma forma, se a empresa Alfa incorpora a
+empresa Beta, todo o patrimônio de Beta é transferido para Alfa (inclusive os bens imóveis), sem incidência
+do ITBI, por haver imunidade tributária. Entendido?
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         46
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Mas vale destacar a jurisprudência do STF, no sentido da incidência do ITBI, quando o valor dos bens
+integralizados ultrapassar o limite do capital social a ser integralizado (Tema 796):
+
+        A imunidade em relação ITBI, prevista no inciso I do § 2º do art. 156 da Constituição Federal,
+        não alcança o valor dos bens que exceder o limite do capital social a ser integralizado. (STF,
+        RE 796376)
+
+
+
+
+Imposto sobre Serviços de Qualquer Natureza
+
+Vejamos, a partir de agora, o último assunto da nossa aula: o ISS! Sobre o tema, temos as seguintes
+jurisprudências:
+
+“(…) De igual maneira, é firme a orientação de que não incide o ISS sobre a atividade-meio utilizada
+na prestação do serviço, como é o caso da atividade de secretaria (anotação de recados e digitação
+de mensagens) envolvida na prestação de serviços de "radiochamada" por intermédio de pagers.”
+
+(STJ,REsp 848.490/RJ, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 16/09/2008)
+
+Atividade-meio indispensável ao alcance da atividade-fim não sofre incidência de ISS. Esse entendimento é
+pacífico no âmbito do STJ.
+
+Além disso, destaque-se que não há incidência de ISS, quando fica clara a ausência de prestação de serviços
+a terceiros:
+
+     TRIBUTÁRIO. INCORPORAÇÃO IMOBILIÁRIA. CONSTRUÇÃO FEITA PELO INCORPORADOR EM
+     TERRENO PRÓPRIO. ISS. NÃO INCIDÊNCIA. AUSÊNCIA DE PRESTAÇÃO DE SERVIÇO A TERCEIRO. 1.
+     Nos termos da jurisprudência desta Corte, não incide ISS na hipótese de construção feita pelo
+     próprio incorporador, haja vista que, se a construção é realizada por ele próprio, em terreno
+     próprio, não há falar em prestação de serviços a terceiros, mas a si próprio, o que
+     descaracteriza o fato gerador.
+
+     (STJ, AgRg REsp 1.295.814/MS, Rel. Min. Sérgio Kukina, Julgamento em 03/10/2013)
+
+Agora vamos falar sobre a incidência de ISS/ICMS sobre softwares! O entendimento atual do STF, resultado
+do julgamento das ADIs 5659 e 1945 é o de que há incidência de ISS, e não ICMS, sobre os softwares de
+computador.
+
+Vou te explicar melhor!
+
+Existem programas de computador (softwares) que são elaborados por encomenda do cliente, isto é, são
+customizados conforme as exigências do encomendante. Normalmente, em tais casos, o fornecimento do
+software ocorre mediante o licenciamento ou cessão do direito de seu uso.
+
+Existem também os softwares “prontos” ou padronizados, que são comercializados em massa, como um
+antivírus ou um software de edição de fotos e vídeos, por exemplo. Esses últimos eram conhecidos como
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         47
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+“softwares de prateleira”, em uma referência ao modo como eram antigamente vendidos em prateleiras de
+estabelecimentos varejistas (em que você teria acesso ao conteúdo do programa, adquirindo um CD-ROM).
+
+E por haver essa diferença entre os dois tipos de softwares, a jurisprudência antiga do STF era a de que
+incidiria ISS sobre o fornecimento de software mediante licenciamento ou cessão do direito de uso, e ICMS
+sobre os “softwares de prateleira”.
+
+A partir de 2021, o entendimento majoritário da Suprema Corte é o de que há apenas incidência do ISS
+sobre os softwares, sejam eles padronizados ou produzidos por encomenda. Logo, não cabe a incidência
+do ICMS! Preste atenção!
+
+Esta decisão também vale para os serviços de streaming de áudio e vídeo, como Netflix, Amazon Prime,
+Spotify etc, por não haver cessão definitiva do serviço para o consumidor e por não haver mudança de
+titularidade do bem. Esta afirmação que acabamos de fazer caiu literalmente em um concurso! Atenção!
+
+Ainda sobre a relação de incidência ICMS/ISS, é relevante destacar o Tema 379 de Repercussão Geral, em
+que o STF fixou a seguinte tese (referente às farmácias de manipulação):
+
+        No tocante às farmácias de manipulação, incide o ISS sobre as operações envolvendo o
+        preparo e o fornecimento de medicamentos encomendados para posterior entrega aos
+        fregueses, em caráter pessoal, para consumo; incide o ICMS sobre os medicamentos de
+        prateleira por elas produzidos, ofertados ao público consumidor. (STF, RE 605552)
+
+
+
+
+        Softwares (padronizados ou por encomenda), inclusive streaming (Netflix, Spotfy):
+        incidência exclusiva do ISS.
+
+        Medicamentos manipulados sob encomenda: ISS
+
+        Medicamentos de prateleira: ICMS
+
+Ademais, o STF também já editou súmula vinculante, vedando a incidência do ISS sobre operações de locação
+de bens móveis:
+
+Súmula Vinculante 31 - É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza
+– ISS sobre operações de locação de bens móveis.
+
+A jurisprudência do STF se baseia no raciocínio que a mera locação de bens móveis não constitui obrigação
+de fazer, não sendo legítima, por exemplo, a incidência de ISS sobre locação de veículos ou DVDs. Ressalte-
+se, porém, que a referida súmula não exonera a incidência do ISS sobre a prestação de serviços concomitante
+à locação de bens móveis:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        48
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+“A Súmula Vinculante 31 não exonera a prestação de serviços concomitante à locação de bens móveis
+do pagamento do ISS. Se houver ao mesmo tempo locação de bem móvel e prestação de serviços, o
+ISS incide sobre o segundo fato, sem atingir o primeiro.”
+
+(STF, ARE 656.709-AgR, Segunda Turma, Rel. Min. Joaquim Barbosa, Julgamento em 14/02/2012)
+
+
+
+
+Ainda sobre o ISS, cabe destacarmos que é um imposto que incide sobre serviços de qualquer natureza,
+definidos por meio de lei complementar. Trata-se de uma lista que estabelece todos os serviços tributáveis
+pelo referido imposto municipal. Quanto a essa lista, a jurisprudência do STJ é no sentido que, embora a
+Lista de Serviços seja taxativa, admite-se a interpretação dos itens lá previstos de forma extensiva para
+serviços congêneres.
+
+É interessante conhecer também a jurisprudência relevante sobre o ISS (Tema 296):
+
+        É taxativa a lista de serviços sujeitos ao ISS a que se refere o art. 156, III, da Constituição
+        Federal, admitindo-se, contudo, a incidência do tributo sobre as atividades inerentes aos
+        serviços elencados em lei em razão da interpretação extensiva. (STF, RE 784439)
+
+Embora a Lista de Serviços seja taxativa, admite-se a interpretação dos itens lá previstos de forma extensiva
+para serviços congêneres.
+
+    É relevante citar que o ISS incide sobre as atividades das operadoras de plano de saúde (Tema 581),
+apesar de, em fevereiro de 2019, o Supremo Tribunal Federal ter reconhecido que o ISS não incide sobre o
+seguro saúde, mas apenas sobre os serviços de planos de saúde:
+
+        As operadoras de planos de saúde realizam prestação de serviço sujeita ao Imposto sobre
+        Serviços de Qualquer Natureza - ISSQN, previsto no art. 156, III, da CRFB/88. (STF, RE
+        651703)
+
+Destacamos, ainda, a possibilidade de incidência do ISS sobre o leasing financeiro, conforme Tema 125 de
+Repercussão Geral:
+
+        É constitucional a incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre as
+        operações de arrendamento mercantil (leasing financeiro). (STF, RE 592905)
+
+No leasing financeiro, o arrendador é uma instituição financeira, que adquire o bem no mercado e realiza o
+contrato de leasing. Neste caso, é feita a cessão do direito de uso do bem ao arrendatário. E, ao final do
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          49
+        www.estrategiaconcursos.com.br                                                                    77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+prazo fixado no contrato, o arrendatário pode adquirir o bem por valor residual fixado na contratação do
+leasing.
+
+Uma súmula a respeito do arrendamento mercantil:
+
+     Súmula STJ 138 - O ISS incide na operação de arrendamento mercantil de coisas móveis.
+
+O STF também decidiu que é constitucional a incidência de ISS sobre contratos de franquia (franchising),
+conforme Tema 300 de Repercussão Geral:
+
+        É constitucional a incidência de Imposto sobre Serviços de Qualquer Natureza (ISS) sobre
+        contratos de franquia (franchising) (itens 10.04 e 17.08 da lista de serviços prevista no
+        Anexo da Lei Complementar 116/2003). (STF, RE 603136)
+
+Também foi julgada a constitucionalidade da incidência do ISS sobre a prestação de serviços de registros
+públicos, cartorários e notariais (Tema 688):
+
+        É constitucional a incidência do ISS sobre a prestação de serviços de registros públicos,
+        cartorários e notariais, devidamente previstos em legislação tributária municipal. (STF, RE
+        756915)
+
+Mais um tema relevante é a incidência do ISS obre serviços de distribuição e venda de bilhetes e demais
+produtos de loteria (Tema 700):
+
+        É constitucional a incidência de ISS sobre serviços de distribuição e venda de bilhetes e
+        demais produtos de loteria, bingos, cartões, pules ou cupons de apostas, sorteios e prêmios
+        (item 19 da Lista de Serviços Anexa à Lei Complementar 116/2003). Nesta situação, a base
+        de cálculo do ISS é o valor a ser remunerado pela prestação do serviço, independentemente
+        da cobrança de ingresso, não podendo corresponder ao valor total da aposta. (STF, RE
+        634764)
+
+Vejamos a Súmula 274 do STJ:
+
+     Súmula STJ 274 - O ISS incide sobre o valor dos serviços de assistência médica, incluindo-se neles
+     as refeições, os medicamentos e as diárias hospitalares.
+
+Isso significa que, além dos procedimentos médicos em si, itens como refeições fornecidas aos pacientes,
+medicamentos utilizados durante a assistência e as diárias de internação hospitalar também estão sujeitos à
+incidência do ISS. Ou seja, a base de cálculo do imposto engloba todos os serviços e insumos que compõem
+a assistência médica.
+
+Vejamos agora a Súmula 524:
+
+     Súmula STJ 524 - No tocante à base de cálculo, o ISSQN incide apenas sobre a taxa de
+     agenciamento quando o serviço prestado por sociedade empresária de trabalho temporário for
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          50
+        www.estrategiaconcursos.com.br                                                                    77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+     de intermediação, devendo, entretanto, englobar também os valores dos salários e encargos
+     sociais dos trabalhadores por ela contratados nas hipóteses de fornecimento de mão de obra.
+
+Temos também a Súmula 588:
+
+     Súmula STJ 588 - O imposto sobre serviços não incide sobre os depósitos, as comissões e taxas de
+     desconto, cobrados pelos estabelecimentos bancários.
+
+Veja, os depósitos feitos pelos clientes, assim como as comissões e as taxas de desconto cobradas pelos
+bancos em suas operações, não são consideradas prestações de serviço para fins de incidência do ISS.
+Portanto, essas atividades financeiras estão fora do escopo do imposto sobre serviços.
+
+E, por fim, quero destacar uma jurisprudência que eu já vi cair em prova:
+
+     É constitucional a inclusão do Imposto Sobre Serviços de Qualquer Natureza -ISS na base de
+                                                         ==219a34==
+
+
+
+
+     cálculo da Contribuição Previdenciária sobre a Receita Bruta – CPRB. (STF, RE 1285845)
+
+A CPRB é a contribuição previdenciária patronal, que foi prevista no art. 8º da Lei 12.546/2011, criando uma
+forma de substituição da contribuição previdenciária patronal incidente sobre as remunerações pagas pelas
+empresas de determinados setores. Assim, tais empresas ficariam sujeitas a uma contribuição sobre a sua
+receita brut (excluídos as vendas canceladas e os descontos incondicionais concedidos).
+
+Assim, o STF decidiu que a empresa não poderia abater da sua receita bruta o valor do ISS, afinal, como dito,
+É constitucional a inclusão do Imposto Sobre Serviços de Qualquer Natureza -ISS na base de cálculo da
+Contribuição Previdenciária sobre a Receita Bruta – CPRB.
+
+Sobre os serviços feitos sob encomenda, guarde o seguinte:
+
+Súmula STJ 156 – A prestação de serviço de composição gráfica, personalizada e sob encomenda, ainda
+que envolva fornecimento de mercadorias, esta sujeita, apenas, ao ISS.
+
+Na mesma linha, temos o julgado abaixo:
+
+AGRAVO REGIMENTAL. PROCESSO CIVIL. TEMPESTIVIDADE DO RECURSO ESPECIAL. OCORRÊNCIA.
+TRIBUTÁRIO. INDUSTRIALIZAÇÃO POR ENCOMENDA. BENEFICIAMENTO DE MATÉRIA-PRIMA.
+INCIDÊNCIA DO ISSQN. APLICAÇÃO DA SÚMULA 83/STJ. Verifica-se que, no caso dos autos, deve incidir
+o ISS porquanto,trata-se de serviços personalizados feitos em conformidade com o interesse
+exclusivo do cliente, distintos dos serviços destinados ao público em geral.
+
+(STJ, AgRg no AREsp 328.624/ES, Segunda Turma, Rel. Min. Humberto Martins, Julgamento
+17/09/2013)
+
+Vamos memorizar também uma importante súmula do STJ:
+
+Súmula STJ 167 - O fornecimento de concreto, por empreitada, para construção civil, preparado no
+trajeto até a obra em betoneiras acopladas a caminhões, e prestação de serviço, sujeitando-se apenas
+a incidência do ISS.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          51
+        www.estrategiaconcursos.com.br                                                                    77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+Ainda no que concerne ao ISS, sabemos que o referido imposto incide o serviço de transporte municipal, mas
+não intermunicipal (entre dois Municípios), sendo este tributado pelo ICMS, não é verdade?
+
+Há que se atentar, no entanto, para a jurisprudência do Superior Tribunal de Justiça, quanto à incidência do
+ISS sobre o serviço de transporte de passageiros em regiões metropolitanas, quando o serviço se inicia em
+determinado Município, percorre região de outro Município vizinho, e retorna ao Município de origem:
+
+TRIBUTÁRIO. ISSQN. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE DE PASSAGEIROS QUE SE INICIA E
+TERMINA EM UM MESMO MUNICÍPIO. SERVIÇO ESTRITAMENTE MUNICIPAL. CARACTERIZAÇÃO.
+COMPETÊNCIA MUNICIPAL. ARTIGO 156, III, DA CF/1988.
+
+1. O Imposto Sobre Serviços de Qualquer Natureza - ISSQN incide sobre a prestação de serviço de
+transporte que comece e termine no território de um único Município, ainda que, por uma questão
+de traçado de ruas, o veículo transportador acabe perpassando, em alguns trechos do percurso, pelos
+lindes de outro Município, o que não retira a natureza estritamente municipal do contrato de
+transporte celebrado entre o prestador e o tomador do serviço.
+
+(...)
+
+(STJ, REsp 879.797/MG, Rel. Min. Luiz Fux, Primeira Turma, Julgamento 04/11/2008)
+
+Caro aluno(a), por hoje é só!
+
+Um abraço e até a próxima aula!
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        52
+         www.estrategiaconcursos.com.br                                                                  77
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+            SÚMULAS ABORDADAS DURANTE A AULA
+Súmula STJ 396: A jurisprudência do STJ aborda um caso excepcionalíssimo acerca da legitimidade ativa de
+pessoas jurídicas de direito privado, que é o caso da CNA:
+
+Súmula STJ 396 - A Confederação Nacional da Agricultura tem legitimidade ativa para a cobrança da
+contribuição sindical rural.
+
+Súmula STJ 495: A jurisprudência do STJ é pacífica no sentido de que não há direito a creditamento de IPI,
+referente à aquisição de bens integrantes do ativo permanente da empresa:
+
+Súmula STJ 495 - A aquisição de bens integrantes do ativo permanente da empresa não gera direito a
+creditamento de IPI.
+
+Súmula STF 664: O STF decidiu que não incide IOF sobre saques efetuados em caderneta de poupança:
+
+Súmula STF 664 - É inconstitucional o inciso V do art. 1º da Lei 8.033/90, que instituiu a incidência do
+imposto nas operações de crédito, câmbio e seguros - IOF sobre saques efetuados em caderneta de
+poupança.
+
+Súmula STF 573: O conceito de circulação de mercadorias está relacionado à circulação jurídica da
+mercadoria, e não a mera movimentação física, de um lugar para outro. Assim, deve haver mudança de
+propriedade para que se caracterize o fato gerador do ICMS, o que não ocorre nas operações de comodato:
+
+Súmula STF 573 - Não constitui fato gerador do imposto de circulação de mercadorias a saída física de
+máquinas, utensílios e implementos a título de comodato.
+
+Súmula STJ 166:
+
+Súmula STJ 166 - Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um
+para outro estabelecimento do mesmo contribuinte.
+
+Súmula Vinculante 58: O ICMS, na importação, tem o seu fato gerador ocorrido com o desembaraço
+aduaneiro:
+
+Súmula Vinculante 58 - Inexiste direito a crédito presumido de IPI relativamente à entrada de insumos
+isentos, sujeitos à alíquota zero ou não tributáveis, o que não contraria o princípio da não
+cumulatividade.
+
+Súmula Vinculante 48: O ICMS, na importação, tem o seu fato gerador ocorrido com o desembaraço
+aduaneiro:
+
+Súmula Vinculante 48 - Na entrada de mercadoria importada do exterior, é legítima a cobrança do
+ICMS por ocasião do desembaraço aduaneiro.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           53
+        www.estrategiaconcursos.com.br                                                                     77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Súmula STJ 163: No caso de fornecimento de mercadorias juntamente com a prestação de serviços, se os
+serviços não foram definidos na lei complementar, incide apenas ICMS sobre o valor total da operação:
+
+Súmula STJ 163 - O fornecimento de mercadorias com simultânea prestação de serviços em bares,
+restaurantes e estabelecimentos similares constitui fato gerador do ICMS a incidir sobre o valor total
+da operação.
+
+Súmula STF 574: O STF já decidiu que, não havendo lei estadual estabelecendo a incidência do ICMS sobre o
+fornecimento de alimentação e bebidas em restaurante ou estabelecimento similar, sua cobrança é ilegítima:
+
+Súmula STF 574 - Sem lei estadual que a estabeleça, é ilegítima a cobrança do imposto de circulação
+de mercadorias sobre o fornecimento de alimentação e bebidas em restaurante ou estabelecimento
+similar.
+
+Súmula Vinculante 32: Nas alienações de salvados de sinistro pelas seguradoras, há incidência apenas do
+                                                         ==219a34==
+
+
+
+
+IOF, não incidindo ICMS:
+
+Súmula Vinculante 32 - O ICMS não incide sobre a alienação de salvados de sinistro pelas seguradoras.
+
+Súmula STF 662: Ocorre incidência de ICMS sobre a comercialização em massa de exemplares de obras
+cinematográficas:
+
+Súmula STF 662 - É legítima a incidência do ICMS na comercialização de exemplares de obras
+cinematográficas, gravados em fitas de videocassete.
+
+Súmula STJ 391: Em relação ao fornecimento de energia elétrica, o entendimento do STJ é o de que só incide
+ICMS sobre o valor da tarifa de energia elétrica correspondente à demanda de potência efetivamente
+utilizada, não havendo, portanto incidência desse imposto sobre a demanda contratada pelo adquirente:
+
+Súmula STJ 391 - O ICMS incide sobre o valor da tarifa de energia elétrica correspondente à demanda
+de potência efetivamente utilizada.
+
+Súmula STJ 457:
+
+Súmula STJ 457 - Os descontos incondicionais nas operações mercantis não se incluem na base de
+cálculo do ICMS.
+
+Súmula STJ 432: O STJ já decidiu que as empresas de construção civil não são contribuintes do ICMS,
+relativamente às operações de aquisição de mercadorias para utilização como insumos em suas obras, já que
+a atividade de construção civil é qualificada como prestação de serviços, sujeitando-se à incidência do ISS:
+
+Súmula STJ 432 - As empresas de construção civil não estão obrigadas a pagar ICMS sobre mercadorias
+adquiridas como insumos em operações interestaduais.
+
+Observação: Consideramos imprescindível a leitura da explicação na aula sobre esta súmula.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         54
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Súmula STJ 237:
+
+Súmula STJ 237 - Nas operações com cartão de crédito, os encargos relativos ao financiamento não são
+considerados no cálculo do ICMS.
+
+Súmula STJ 431: O STJ já decidiu que é ilegal a utilização de uma tabela fixa de valor de mercadorias (pauta
+fiscal) para a definição da base de cálculo do ICMS, sem considerar o valor real da operação:
+
+Súmula STJ 431 - É ilegal a cobrança de ICMS com base no valor da mercadoria submetido ao regime
+de pauta fiscal.
+
+Súmula STJ 334:
+
+Súmula STJ 334 – O ICMS não incide no serviço dos provedores de acesso à internet.
+
+Súmula STJ 350:
+
+Súmula STJ 350 - O ICMS não incide sobre o serviço de habilitação de telefone celular.
+
+Súmula STF 112: O fato gerador do ITCMD é a transmissão, por causa mortis ou por doação, de quaisquer
+bens ou direitos. No caso de sucessão causa mortis, considera-se ocorrido o fato gerador do ITCMD no
+momento da abertura da sucessão, que se dá no momento exato da morte. Consequentemente, deve-se
+considerar a alíquota vigente nesta data:
+
+Súmula STF 112 - O imposto de transmissão "causa mortis" é devido pela alíquota vigente ao tempo da
+abertura da sucessão.
+
+Súmula STF 331: Para o STF, ocorre o fato gerador também no caso de inventário por morte presumida:
+
+Súmula STF 331 - É legítima a incidência do imposto de transmissão causa mortis no inventário por
+morte presumida.
+
+Súmula STF 115: O STF também já decidiu que o ITCMD não incide sobre os honorários do advogado
+contratado pelo inventariante:
+
+Súmula STF 115 - Sobre os honorários do advogado contratado pelo inventariante, com a homologação
+do juiz, não incide o imposto de transmissão "causa mortis".
+
+Súmula STF 113: Com a ocorrência do fato gerador, faz-se necessária a avaliação dos bens do espólio (bens
+deixados pelo falecido), o cálculo do imposto devido e a homologação deste cálculo. No que se refere ao
+valor dos bens, o STF entende que o ITCMD deve ser calculado sobre o valor dos bens na data da avaliação:
+
+Súmula STF 113 - O imposto de transmissão "causa mortis" é calculado sobre o valor dos bens na data
+da avaliação.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         55
+        www.estrategiaconcursos.com.br                                                                   77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Súmula STF 114: Relativamente ao momento de exigência, a Suprema Corte entende que o ITCMD não é
+exigível antes da homologação do cálculo:
+
+Súmula STF 114 - O imposto de transmissão "causa mortis" não é exigível antes da homologação do
+cálculo.
+
+Súmula STJ 160: O STJ já decidiu que é vedado ao Município atualizar o IPTU por meio de ato infralegal
+(decreto) em percentual superior ao índice oficial de correção monetária, já que neste caso teríamos uma
+clara majoração do imposto, submetida, portanto, à reserva de lei:
+
+Súmula STJ 160 – É defeso, ao Município, atualizar o IPTU, mediante decreto, em percentual superior
+ao índice oficial de correção monetária.
+
+Súmula STF 668: O STF já decidiu que, antes da EC 29/00, lei municipal que tenha estabelecido alíquotas
+progressivas para o IPTU é inconstitucional, salvo se destinada a assegurar o cumprimento da função social
+da propriedade urbana (progressividade extrafiscal):
+
+Súmula STF 668 - É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda
+Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o
+cumprimento da função social da propriedade urbana.
+
+Súmula STF 589: O STF decidiu que é inconstitucional a progressividade do IPTU com base no número de
+imóveis do contribuinte:
+
+Súmula STF 589 - É inconstitucional a fixação de adicional progressivo do imposto predial e territorial
+urbano em função do número de imóveis do contribuinte.
+
+Súmula STF 539: De acordo com o STF, é constitucional lei municipal que reduza o IPTU sobre o imóvel
+ocupado pela residência do proprietário, que não possua outro:
+
+Súmula STF 539 - É constitucional a lei do município que reduz o imposto predial urbano sobre imóvel
+ocupado pela residência do proprietário, que não possua outro.
+
+Súmula STJ 397:
+
+Súmula STJ 397 - O contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu
+endereço.
+
+Súmula STF 656: A progressividade das alíquotas do ITBI é inconstitucional, conforme consta na redação da
+Súmula 656 do STF:
+
+Súmula STF 656 - É inconstitucional a lei que estabelece alíquotas progressivas para o imposto de
+transmissão inter vivos de bens imóveis - ITBI com base no valor venal do imóvel.
+
+Súmula Vinculante 31: De acordo com a jurisprudência do STF, a locação de bens móveis não constitui
+prestação de serviços, sendo inconstitucional a incidência do ISS sobre tais operações:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          56
+        www.estrategiaconcursos.com.br                                                                    77
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+Súmula Vinculante 31 - É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza
+– ISS sobre operações de locação de bens móveis.
+
+Súmula STJ 156:
+
+Súmula STJ 156 – A prestação de serviço de composição gráfica, personalizada e sob encomenda, ainda
+que envolva fornecimento de mercadorias, esta sujeita, apenas, ao ISS.
+
+Súmula STJ 167:
+
+Súmula STJ 167 - O fornecimento de concreto, por empreitada, para construção civil, preparado no
+trajeto até a obra em betoneiras acopladas a caminhões, é prestação de serviço, sujeitando-se apenas
+a incidência do ISS.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        57
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+
+     QUESTÕES COMPLEMENTARES COMENTADAS
+1. FGV/CAGE-RS-Auditor/2025
+
+Considere a seguinte situação hipotética:
+
+A empresa Alfa atua no ramo de combustíveis e é contribuinte substituída para fins do ICMS substituição
+tributária para frente. Numa operação recente, a empresa Alfa revendeu mercadorias por um preço 10%
+menor do que a base de cálculo presumida para o recolhimento do tributo.
+
+De acordo com a jurisprudência dos tribunais superiores sobre o tema, avalie os itens a seguir.
+
+I. Não se aplica ao caso do enunciado a regra de restituição de tributos prevista no Art. 166 do CTN, que trata
+do pagamento indevido.
+
+II. O montante pago a título de substituição tributária no momento da operação anterior à revenda feita pela
+empresa Alfa era indevido e deve ser restituído.
+
+III. Trata-se, na hipótese, de ICMS incluído no preço da mercadoria vendida, o que exige a comprovação do
+não repasse financeiro para fins de repetição do indébito.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II e III, apenas.
+
+c) II, apenas.
+
+d) I, II e III.
+
+e) I e II, apenas.
+
+Comentário:
+
+Letra A: Correta. De acordo com o STF e o STJ, na hipótese de venda por valor inferior à base presumida no
+regime de substituição tributária progressiva do ICMS, não se aplica a regra do art. 166 do CTN (repetição
+condicionada à comprovação de não repasse financeiro).
+
+Letra B: Errada. O pagamento inicial (antecipado) não foi indevido, já que a base presumida era válida no
+momento da operação original. A restituição é da diferença, não do montante integral.
+
+Letra C: Errada. A repetição do ICMS recolhido por substituição tributária, na hipótese em análise, não exige
+comprovação da ausência de repasse econômico ao consumidor (STF, RE 593849/MG).
+
+Gabarito: A
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         58
+           www.estrategiaconcursos.com.br                                                                   77
+
+                                         https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+
+2. FGV/CAGE-RS-Auditor/2025
+
+De acordo com o entendimento do Supremo Tribunal Federal, exarado no RE 970821/RS, o diferencial de
+alíquota consiste no recolhimento, pelo Estado de destino, da diferença entre a alíquota interestadual e a
+interna, de modo a equilibrar a partilha do ICMS em operações que envolvem entes federados diversos.
+
+Acerca do assunto, avalie os itens a seguir.
+
+I. Segundo o STF, é constitucional a cobrança de diferencial de alíquota do ICMS pelo Estado de destino na
+entrada de mercadoria em seu território devido por sociedade empresária do Simples Nacional,
+independentemente da posição desta na cadeia produtiva ou da possibilidade de compensação dos créditos.
+
+II. O STF considerou constitucional a cobrança do ICMS-Difal com base na existência de decreto estadual,
+que regulamenta os dispositivos de Lei Complementar.
+
+III. A cobrança do ICMS-Difal de empresas optantes do Simples Nacional exige, além da previsão em Lei
+Complementar, a existência de lei estadual em sentido estrito.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e III, apenas.
+
+e) II e III, apenas.
+
+Comentário:
+
+Item I: Correto. Segundo o STF, é constitucional a cobrança do ICMS-Difal em relação às empresas optantes
+do Simples Nacional. Embora essas empresas tenham regime tributário simplificado, não estão dispensadas
+da incidência do diferencial de alíquota, independentemente da posição que ocupam na cadeia produtiva ou
+da possibilidade de aproveitamento dos créditos, em conformidade com o art. 13, § 1º, XIII, da LC 123/2006.
+Este posicionamento foi consolidado pelo STF no julgamento do RE 970.821/RS (Tema 517).
+
+Item II: Errado. O STF, no julgamento do ARE 1.460.254, deixou claro que não basta um decreto estadual
+regulamentando a cobrança do ICMS-Difal. Para que seja válida tal cobrança, exige-se lei estadual em sentido
+estrito, observando o princípio da legalidade tributária (art. 150, I, da CF/88).
+
+Item III: Correto. De acordo com o STF, além da Lei Complementar Federal exigida pelo art. 146, III, "a", da
+CF/88, também é necessária a existência de lei estadual específica (lei em sentido estrito) para regulamentar
+a cobrança do ICMS-Difal das empresas optantes pelo Simples Nacional. Trata-se de aplicação direta dos
+princípios constitucionais da legalidade e anterioridade tributária, conforme decidido no julgamento do ARE
+1.460.254.
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         59
+         www.estrategiaconcursos.com.br                                                                   77
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+Gabarito: D
+
+3. FUNDATEC/Pref. Porto Alegre - Auditor Fiscal/2025
+
+De acordo com a jurisprudência do Supremo Tribunal Federal, compete aos Municípios instituir imposto
+sobre serviços de qualquer natureza não compreendidos no art. 155, II, definidos em lei complementar.
+Nesse sentido, analise as assertivas abaixo:
+
+I. É constitucional a cobrança de imposto sobre serviços de qualquer natureza sobre a franquia postal.
+
+II. É inconstitucional a incidência do ISS no licenciamento ou na cessão de direito de uso de programas de
+computação desenvolvidos para clientes de forma personalizada, nos termos do subitem 1.05 da lista anexa
+à LC nº 116/03.
+
+III. Incide ISS sobre as operações de venda de medicamentos preparados por farmácias de manipulação sob
+encomenda, e ICMS sobre as operações de venda de medicamentos por elas ofertados em prateleira aos
+consumidores.
+
+Quais estão corretas?
+
+a) Apenas I.
+
+b) Apenas II.
+
+c) Apenas I e II.
+
+d) Apenas I e III.
+
+e) I, II e III.
+
+Comentário:
+
+Item I: Correto. A incidência do ISS sobre a franquia postal é constitucional, pois o contrato de franquia está
+previsto na Lista de Serviços da LC 116/03, nos subitens 10.04 e 17.08. O STF, no julgamento da ADI 4784,
+entendeu que a franquia postal envolve uma relação complexa, com obrigações de dar e fazer, não sendo
+possível dissociá-las para excluir a incidência do ISS.
+
+Item II: Errado. O ISS incide sobre o licenciamento ou cessão de direito de uso de softwares personalizados,
+conforme decisão do STF no RE 688.223 (Tema 590). O tribunal afastou a distinção tradicional entre software
+de prateleira e personalizado, considerando que qualquer programa de computador envolve prestação de
+serviço. Assim, conforme a ADI 5659, o licenciamento de software deve ser tributado pelo ISS, e não pelo
+ICMS.
+
+Item III: Correto. A tributação das farmácias de manipulação segue a jurisprudência do STF no RE 605.552,
+que diferencia as operações realizadas:
+
+     •    ICMS sobre a venda de medicamentos de prateleira (circulação de mercadorias);
+     •    ISS sobre a manipulação de medicamentos sob encomenda, pois envolve um serviço personalizado.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         60
+           www.estrategiaconcursos.com.br                                                                   77
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Gabarito: D
+
+4. FGV/TCE-PA-Auditor/2024
+
+Com base na legislação e na jurisprudência sobre a modalidade de lançamento do crédito tributário referente
+ao IPTU, assinale a afirmativa correta.
+
+a) O IPTU é um tributo sujeito ao lançamento por homologação, devendo o contribuinte apresentar os
+valores devidos ao fisco municipal.
+
+b) O IPTU é um tributo sujeito ao lançamento ofício, sendo o contribuinte notificado pelo envio do carnê ao
+seu endereço.
+
+c) O lançamento do IPTU se dá por declaração, sendo responsabilidade do contribuinte declarar os
+elementos quantitativos do fato gerador.                 ==219a34==
+
+
+
+
+d) O lançamento do IPTU se dá por autodeclaração, devendo o fisco municipal conferir os dados e lançar o
+crédito.
+
+e) O IPTU é um tributo sujeito ao lançamento misto, cabendo ao contribuinte declarar os elementos e ao
+fisco municipal homologar o lançamento.
+
+Gabarito: B
+
+Comentário:
+
+Letra A: Errada. O IPTU não é tributo sujeito a lançamento por homologação.
+
+Letra B: Certa. O lançamento do IPTU se dá de ofício, com notificação por meio do envio do carnê ao
+endereço do contribuinte, conforme Súmula 397 do STJ.
+
+Letra C: Errada. Não se configura lançamento por declaração.
+
+Letra D: Errada. Não se trata de autodeclaração.
+
+Letra E: Errada. Não é um lançamento misto.
+
+5. FGV/TT (Pref SJC)/Pref SJC/2024
+
+Para a integralização do capital social de uma empresa, no montante de R$ 700.000 (setecentos mil reais)
+um dos sócios integralizou 5 imóveis de sua propriedade ao patrimônio da sociedade. Todavia, os bens
+reservados excediam em R$ 300.000 (trezentos mil reais) o valor necessário para compor o capital da pessoa
+jurídica. Esse valor remanescente foi, então, lançado como reserva de capital da empresa.
+
+No que se refere à tributação do ITBI sobre a operação descrita, avalie as afirmativas a seguir.
+
+I. O fato gerador do tributo somente ocorre com a transferência efetiva da propriedade no cartório de
+registro de imóveis.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        61
+        www.estrategiaconcursos.com.br                                                                  77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+II. Há imunidade na integralização do capital por meio de bens imóveis, desde que a atividade da empresa
+não se vincule à compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento
+mercantil.
+
+III. Há imunidade para qualquer incorporação de bens ou direitos ao patrimônio da pessoa jurídica que tenha
+sido efetivada pelo sócio, para integralização do capital social subscrito.
+
+IV. Sobre a diferença do valor dos bens imóveis que superar o capital subscrito a ser integralizado, incidirá a
+tributação pelo ITBI.
+
+Estão corretas as afirmativas
+
+a) I, II e III.
+
+b) I, II e IV.
+
+c) II e III, apenas.
+
+d) I, III e IV.
+
+e) III e IV, apenas.
+
+Comentário:
+
+Item I: Correto. O fato gerador do ITBI é a transferência de propriedade imobiliária, que ocorre no momento
+do registro no cartório de imóveis, conforme jurisprudência do STJ (Repetitivo 1124).
+
+Item II: Correto. Existe imunidade no ITBI para a integralização de bens imóveis no capital social, desde que
+a atividade principal da empresa não seja a venda, locação ou arrendamento desses bens, de acordo com a
+Constituição.
+
+Item III: Errado. A imunidade do ITBI não se aplica automaticamente a qualquer transferência de bens para
+a integralização de capital; ela está limitada ao montante do capital subscrito.
+
+Item IV: Correto. O valor dos imóveis que excede o necessário para a integralização do capital social subscrito
+está sujeito ao ITBI, conforme entendimento do STF.
+
+Gabarito: Letra B
+
+6. FGV/Pref. Nova Iguaçu-Auditor Fiscal/2024
+
+A competência tributária envolve o poder de instituir tributos e legislar sobre todos os aspectos destes, além
+de fiscalizar e cobrar os respectivos créditos tributários.
+
+As modalidades de competência tributária em sentido estrito podem ser classificadas como
+
+a) competência privativa; competência objetiva ou específica e competência residual.
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         62
+           www.estrategiaconcursos.com.br                                                                   77
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+b) competência exclusiva ou privada; competência objetiva ou subjetiva e competência residual.
+
+c) competência exclusiva ou privativa; competência comum e competência residual.
+
+d) competência comum ou objetiva; competência específica ou subjetiva e competência privativa.
+
+e) competência exclusiva ou subjetiva; competência estatal e competência privada.
+
+Gabarito: C
+
+Comentário:
+
+Letra A: Errada. Não há classificação doutrinária de competência tributária como “objetiva ou específica”.
+
+Letra B: Errada. “Competência objetiva” ou “subjetiva” não é classificação comum.
+
+Letra C: Correta. A doutrina geralmente reconhece as competências privativa (ou exclusiva), comum e
+residual conforme a CF/1988 (arts. 145 a 154). A competência privativa atribui tributos específicos a um ente,
+a comum pode ser exercida por todos os entes (como taxas) e a residual permite à União criar novos impostos
+não previstos na CF, via lei complementar (art. 154, I, CF).
+
+Letra D: Errada. Não se classifica competência em “objetiva ou subjetiva” na forma proposta.
+
+Letra E: Errada. Competências “subjetiva” e “privada” não são classificações usuais.
+
+7. FGV/Pref. Caraguatatuba-Fiscal/2024
+
+Com relação às disposições gerais do Código Tributário Nacional, avalie se as afirmativas a seguir são
+verdadeiras (V) ou falsas (F).
+
+( ) A atribuição constitucional de competência tributária compreende a competência legislativa plena,
+ressalvadas, dentre outras limitações, a da Lei Orgânica do Município
+
+( ) Caso um tributo tenha receita distribuída, no todo ou em parte, a várias pessoas jurídicas de direito
+público, a competência legislativa também é compartilhada
+
+( ) A atribuição da função de arrecadar tributos pode ser conferida de uma pessoa jurídica de direito público
+para outra.
+
+As afirmativas são, respectivamente,
+
+a) V – F – V.
+
+b) V – V – F.
+
+c) V – F – F.
+
+d) F – V – F.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          63
+         www.estrategiaconcursos.com.br                                                                    77
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+e) F – V – V.
+
+Gabarito: A
+
+Comentário:
+
+Item I: Certo. A competência tributária abrange a competência legislativa plena e é atribuída pela
+Constituição, mas, de acordo com o CTN, deve respeitar também a Lei Orgânica do Município e demais
+limitações constitucionais (art. 6º do CTN).
+
+Item II: Falso. A distribuição de receita não altera a competência legislativa. O CTN (art. 6º, parágrafo único)
+prevê que, mesmo havendo repartição de receitas, a competência legislativa permanece com o ente
+originalmente definido pela Constituição.
+
+Item III: Certo. A capacidade tributária ativa (arrecadar, fiscalizar) pode ser atribuída de uma pessoa jurídica
+de direito público a outra (art. 7º, CTN), embora a competência para instituir tributos seja indelegável.
+
+8. CEBRASPE/FINEP-Analista-Jurídica/2024
+
+A respeito da competência tributária, assinale a opção correta, considerando a jurisprudência dos tribunais
+superiores e o disposto no Código Tributário Nacional (CTN).
+
+a) A competência tributária é delegável, mediante convênio, a pessoas jurídicas de direito público, ficando
+estas investidas, inclusive, do poder de legislar sobre o tributo objeto da delegação.
+
+b) Eventual revogação da delegação da competência tributária por prazo determinado só produzirá efeitos
+se ratificada pela pessoa jurídica de direito público delegatária.
+
+c) Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público
+pertencem à competência legislativa daquela a que tenham sido atribuídos.
+
+d) O não exercício da competência tributária pelo município autoriza o seu exercício pelo estado-membro
+em que aquele se localiza, visto que a Constituição Federal de 1988 (CF) prescreve o dever fundamental de
+pagar tributos.
+
+e) A concessão de isenção pelo ente competente, no caso de tributos cuja receita seja distribuída, no todo
+ou em parte, a outras pessoas jurídicas de direito público, depende da anuência destas, sob pena de ofensa
+ao pacto federativo.
+
+Gabarito: C
+
+Comentário:
+
+Letra A: Incorreta. A competência tributária é indelegável (art. 7º do CTN). Não é possível delegar a
+competência para legislar sobre tributos a outra pessoa jurídica, mesmo que de direito público.
+
+Letra B: Incorreta. A revogação da atribuição das funções de arrecadar ou fiscalizar tributos pode ser feita
+unilateralmente pela pessoa jurídica que a conferiu, sem necessidade de ratificação (art. 7º, §2º, do CTN).
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             64
+        www.estrategiaconcursos.com.br                                                                       77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+Letra C: Correta. Os tributos cuja receita é distribuída a outras pessoas jurídicas de direito público pertencem
+à competência legislativa do ente a que foram atribuídos (art. 6º, parágrafo único, do CTN).
+
+Letra D: Incorreta. O não exercício da competência tributária por um município não autoriza o estado a
+exercer essa competência (art. 8º do CTN). A competência tributária é incaducável.
+
+Letra E: Incorreta. A concessão de isenção não depende da anuência de outros entes que recebem parte da
+receita do tributo. O ente competente pode conceder isenções independentemente.
+
+9. CEBRASPE/Procurador -TCE-RJ/2023
+
+No que diz respeito à competência tributária, julgue o item a seguir.
+
+As entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical têm
+capacidade tributária ativa para cobrar contribuições dos seus contribuintes.
+
+Comentário: Excepcionalmente cobrada em provas, existe jurisprudência favorável à atribuição da
+capacidade tributária ativa para pessoas jurídicas de direito privado. Vale lembrar que tal posicionamento só
+deve ser adotado em casos específicos, como nesta questão, que cita uma situação específica e não afirma
+genericamente a possibilidade de tal delegação.
+
+Gabarito: Certo
+
+10. FGV/ISS-Cuiabá-Auditor Fiscal/2024
+
+Acerca do regime constitucional do Novo Imposto Seletivo incidente sobre produção, extração,
+comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, julgue as
+afirmativas abaixo:
+
+I. Integrará sua própria base de cálculo.
+
+II. Terá suas alíquotas fixadas em lei complementar, podendo ser específicas, por unidade de medida
+adotada, ou ad valorem.
+
+III. Não incidirá sobre as operações com energia elétrica e com telecomunicações.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+e) II e III, apenas.
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            65
+         www.estrategiaconcursos.com.br                                                                      77
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Comentário:
+
+Item I: Errado. O Imposto Seletivo não integra sua própria base de cálculo, ou seja, o valor do tributo não é
+incluído no montante sobre o qual ele incide. Isso está previsto no art. 153, § 6º, III da Constituição Federal.
+
+Item II: Errado. As alíquotas do Imposto Seletivo serão fixadas por lei ordinária, e não por lei complementar.
+Além disso, elas podem ser específicas (por unidade de medida) ou ad valorem (percentual sobre o valor do
+bem ou serviço). Amigos, esse ponto está claramente estabelecido no art. 153, § 6º, VI da Constituição
+Federal.
+
+Item III: Correto. O Imposto Seletivo não incidirá sobre operações com energia elétrica e telecomunicações,
+conforme o art. 153, § 6º, I da Constituição Federal.
+
+Gabarito: C
+
+11. VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Uma sociedade anônima recebeu como contribuição para a formação do seu capital social imóvel no valor
+de R$ 300.000,00 (trezentos mil reais), tendo sido emitidas e subscritas, entretanto, como retribuição pela
+transferência do imóvel, ações no montante equivalente apenas a R$ 200.000,00 (duzentos mil reais). A
+respeito desta situação hipotética, com base na legislação e jurisprudência tributárias nacionais, assinale a
+alternativa correta.
+
+A) Não haveria a incidência do ITBI caso o aporte de capital fosse realizado em sociedade limitada em lugar
+de sociedade anônima.
+
+B) Incide o ITBI sobre a diferença entre o valor do bem e o valor do capital subscrito e integralizado.
+
+C) O ITBI não incide nas transferências de bens para formação do capital de empresas, independentemente
+da atividade social a que se dediquem.
+
+D) Trata-se de hipótese expressamente tratada pela legislação federal como situação de isenção de ITBI, em
+relação à diferença de valores observada.
+
+E) O ITBI incide apenas sobre transferências em valor superior a R$ 500.000,00 (quinhentos mil reais) quando
+realizadas para aporte de capital em empresa.
+
+Comentário: De acordo com a jurisprudência do STF, a imunidade em relação ao ITBI, prevista no inciso I do
+§ 2º do art. 156 da Constituição Federal, não alcança o valor dos bens que exceder o limite do capital social
+a ser integralizado (RE 796376).
+
+Alternativa A: Errada. Não há qualquer variação em relação à incidência do ITBI, conforme a forma societária.
+
+Alternativa B: Correta. Conforme a jurisprudência citada, haverá incidência do ITBI sobre o valor excedente.
+
+Alternativa C: Errada. A depender da atividade social da empresa, haverá incidência do ITBI, embora a regra
+seja não incidir o referido imposto.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             66
+        www.estrategiaconcursos.com.br                                                                       77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+Alternativa D: Errada. A situação seria, na verdade, de imunidade tributária, prevista no art. 156, § 2º, da CF,
+não fosse a diferença citada, e a jurisprudência do STF.
+
+Alternativa E: Errada. Não há qualquer regra nesse sentido.
+
+Gabarito: B
+
+12. FCC/DPE-RS-Defensor Público/2018
+
+Quanto ao entendimento jurisprudencial do Superior Tribunal de Justiça e do Supremo Tribunal Federal
+sobre o imposto incidente sobre a circulação de mercadorias e serviços (ICMS), analise as assertivas abaixo:
+
+I. Constitui fato gerador do ICMS o deslocamento de mercadorias de um para outro estabelecimento do
+mesmo contribuinte.
+
+II. O ICMS incide no serviço dos provedores de acesso à internet.
+
+III. O ICMS não incide sobre o serviço de habilitação de telefone celular.
+
+IV. O ICMS não incide sobre o fornecimento de água tratada por concessionária de serviço público.
+
+V. É devida a cobrança de ICMS nas operações ou prestações de serviço de transporte terrestre interestadual
+e intermunicipal de passageiros e de cargas.
+
+Está correto o que consta APENAS de:
+
+a) II, III e IV.
+
+b) I, IV e V.
+
+c) III, IV e V.
+
+d) I, II e III.
+
+e) II e V.
+
+Comentário:
+
+Item I: Considerando a Súmula 166, do STJ, não constitui fato gerador do ICMS o deslocamento de
+mercadorias de um para outro estabelecimento do mesmo contribuinte, por não haver circulação jurídica da
+mercadoria. Item errado.
+
+Item II: Conforme dispõe a Súmula 334, do STJ, o ICMS não incide no serviço dos provedores de acesso à
+internet.. Item errado.
+
+Item III: Conforme dispõe a Súmula 350, do STJ, o ICMS não incide sobre o serviço de habilitação de telefone
+celular. Item correto.
+
+
+
+             Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        67
+             www.estrategiaconcursos.com.br                                                                  77
+
+                                           https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+Item IV: De acordo com a jurisprudência do STF, o ICMS não incide sobre o fornecimento de água tratada
+por concessionária de serviço público. Item correto.
+
+Item V: O ICMS incide sobre o serviço de transporte interestadual e intermunicipal de cargas e também de
+passageiros. Item correto.
+
+Gabarito: Letra C
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     68
+        www.estrategiaconcursos.com.br                                                               77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+
+                                          LISTA DE QUESTÕES
+1. FGV/CAGE-RS-Auditor/2025
+
+Considere a seguinte situação hipotética:
+
+A empresa Alfa atua no ramo de combustíveis e é contribuinte substituída para fins do ICMS substituição
+tributária para frente. Numa operação recente, a empresa Alfa revendeu mercadorias por um preço 10%
+menor do que a base de cálculo presumida para o recolhimento do tributo.
+
+De acordo com a jurisprudência dos tribunais superiores sobre o tema, avalie os itens a seguir.
+
+I. Não se aplica ao caso do enunciado a regra de restituição de tributos prevista no Art. 166 do CTN, que trata
+do pagamento indevido.
+
+II. O montante pago a título de substituição tributária no momento da operação anterior à revenda feita pela
+empresa Alfa era indevido e deve ser restituído.
+
+III. Trata-se, na hipótese, de ICMS incluído no preço da mercadoria vendida, o que exige a comprovação do
+não repasse financeiro para fins de repetição do indébito.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II e III, apenas.
+
+c) II, apenas.
+
+d) I, II e III.
+
+e) I e II, apenas.
+
+2. FGV/CAGE-RS-Auditor/2025
+
+De acordo com o entendimento do Supremo Tribunal Federal, exarado no RE 970821/RS, o diferencial de
+alíquota consiste no recolhimento, pelo Estado de destino, da diferença entre a alíquota interestadual e a
+interna, de modo a equilibrar a partilha do ICMS em operações que envolvem entes federados diversos.
+
+Acerca do assunto, avalie os itens a seguir.
+
+I. Segundo o STF, é constitucional a cobrança de diferencial de alíquota do ICMS pelo Estado de destino na
+entrada de mercadoria em seu território devido por sociedade empresária do Simples Nacional,
+independentemente da posição desta na cadeia produtiva ou da possibilidade de compensação dos créditos.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         69
+           www.estrategiaconcursos.com.br                                                                   77
+
+                                         https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+II. O STF considerou constitucional a cobrança do ICMS-Difal com base na existência de decreto estadual,
+que regulamenta os dispositivos de Lei Complementar.
+
+III. A cobrança do ICMS-Difal de empresas optantes do Simples Nacional exige, além da previsão em Lei
+Complementar, a existência de lei estadual em sentido estrito.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e III, apenas.
+
+e) II e III, apenas.
+
+3. FUNDATEC/Pref. Porto Alegre - Auditor Fiscal/2025
+
+De acordo com a jurisprudência do Supremo Tribunal Federal, compete aos Municípios instituir imposto
+sobre serviços de qualquer natureza não compreendidos no art. 155, II, definidos em lei complementar.
+Nesse sentido, analise as assertivas abaixo:
+
+I. É constitucional a cobrança de imposto sobre serviços de qualquer natureza sobre a franquia postal.
+
+II. É inconstitucional a incidência do ISS no licenciamento ou na cessão de direito de uso de programas de
+computação desenvolvidos para clientes de forma personalizada, nos termos do subitem 1.05 da lista anexa
+à LC nº 116/03.
+
+III. Incide ISS sobre as operações de venda de medicamentos preparados por farmácias de manipulação sob
+encomenda, e ICMS sobre as operações de venda de medicamentos por elas ofertados em prateleira aos
+consumidores.
+
+Quais estão corretas?
+
+a) Apenas I.
+
+b) Apenas II.
+
+c) Apenas I e II.
+
+d) Apenas I e III.
+
+e) I, II e III.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                      70
+           www.estrategiaconcursos.com.br                                                                77
+
+                                         https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+
+4. FGV/TCE-PA-Auditor/2024
+
+Com base na legislação e na jurisprudência sobre a modalidade de lançamento do crédito tributário referente
+ao IPTU, assinale a afirmativa correta.
+
+a) O IPTU é um tributo sujeito ao lançamento por homologação, devendo o contribuinte apresentar os
+valores devidos ao fisco municipal.
+
+b) O IPTU é um tributo sujeito ao lançamento ofício, sendo o contribuinte notificado pelo envio do carnê ao
+seu endereço.
+
+c) O lançamento do IPTU se dá por declaração, sendo responsabilidade do contribuinte declarar os
+elementos quantitativos do fato gerador.
+
+d) O lançamento do IPTU se dá por autodeclaração, devendo o fisco municipal conferir os dados e lançar o
+crédito.
+
+e) O IPTU é um tributo sujeito ao lançamento misto, cabendo ao contribuinte declarar os elementos e ao
+fisco municipal homologar o lançamento.
+
+5. FGV/TT (Pref SJC)/Pref SJC/2024
+
+Para a integralização do capital social de uma empresa, no montante de R$ 700.000 (setecentos mil reais)
+um dos sócios integralizou 5 imóveis de sua propriedade ao patrimônio da sociedade. Todavia, os bens
+reservados excediam em R$ 300.000 (trezentos mil reais) o valor necessário para compor o capital da pessoa
+jurídica. Esse valor remanescente foi, então, lançado como reserva de capital da empresa.
+
+No que se refere à tributação do ITBI sobre a operação descrita, avalie as afirmativas a seguir.
+
+I. O fato gerador do tributo somente ocorre com a transferência efetiva da propriedade no cartório de
+registro de imóveis.
+
+II. Há imunidade na integralização do capital por meio de bens imóveis, desde que a atividade da empresa
+não se vincule à compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento
+mercantil.
+
+III. Há imunidade para qualquer incorporação de bens ou direitos ao patrimônio da pessoa jurídica que tenha
+sido efetivada pelo sócio, para integralização do capital social subscrito.
+
+IV. Sobre a diferença do valor dos bens imóveis que superar o capital subscrito a ser integralizado, incidirá a
+tributação pelo ITBI.
+
+Estão corretas as afirmativas
+
+a) I, II e III.
+
+b) I, II e IV.
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         71
+           www.estrategiaconcursos.com.br                                                                   77
+
+                                         https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+c) II e III, apenas.
+
+d) I, III e IV.
+
+e) III e IV, apenas.
+
+6. FGV/Pref. Nova Iguaçu-Auditor Fiscal/2024
+
+A competência tributária envolve o poder de instituir tributos e legislar sobre todos os aspectos destes, além
+de fiscalizar e cobrar os respectivos créditos tributários.
+
+As modalidades de competência tributária em sentido estrito podem ser classificadas como
+
+a) competência privativa; competência objetiva ou específica e competência residual.
+
+b) competência exclusiva ou privada; competência objetiva ou subjetiva e competência residual.
+
+c) competência exclusiva ou privativa; competência comum e competência residual.
+
+d) competência comum ou objetiva; competência específica ou subjetiva e competência privativa.
+
+e) competência exclusiva ou subjetiva; competência estatal e competência privada.
+
+7. FGV/Pref. Caraguatatuba-Fiscal/2024
+
+Com relação às disposições gerais do Código Tributário Nacional, avalie se as afirmativas a seguir são
+verdadeiras (V) ou falsas (F).
+
+( ) A atribuição constitucional de competência tributária compreende a competência legislativa plena,
+ressalvadas, dentre outras limitações, a da Lei Orgânica do Município
+
+( ) Caso um tributo tenha receita distribuída, no todo ou em parte, a várias pessoas jurídicas de direito
+público, a competência legislativa também é compartilhada
+
+( ) A atribuição da função de arrecadar tributos pode ser conferida de uma pessoa jurídica de direito público
+para outra.
+
+As afirmativas são, respectivamente,
+
+a) V – F – V.
+
+b) V – V – F.
+
+c) V – F – F.
+
+d) F – V – F.
+
+e) F – V – V.
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         72
+          www.estrategiaconcursos.com.br                                                                   77
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 03
+
+
+
+
+8. CEBRASPE/FINEP-Analista-Jurídica/2024
+
+A respeito da competência tributária, assinale a opção correta, considerando a jurisprudência dos tribunais
+superiores e o disposto no Código Tributário Nacional (CTN).
+
+a) A competência tributária é delegável, mediante convênio, a pessoas jurídicas de direito público, ficando
+estas investidas, inclusive, do poder de legislar sobre o tributo objeto da delegação.
+
+b) Eventual revogação da delegação da competência tributária por prazo determinado só produzirá efeitos
+se ratificada pela pessoa jurídica de direito público delegatária.
+
+c) Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público
+pertencem à competência legislativa daquela a que tenham sido atribuídos.
+
+d) O não exercício da competência tributária pelo município autoriza o seu exercício pelo estado-membro
+em que aquele se localiza, visto que a Constituição Federal de 1988 (CF) prescreve o dever fundamental de
+pagar tributos.
+
+e) A concessão de isenção pelo ente competente, no caso de tributos cuja receita seja distribuída, no todo
+ou em parte, a outras pessoas jurídicas de direito público, depende da anuência destas, sob pena de ofensa
+ao pacto federativo.
+
+9. CEBRASPE/Procurador -TCE-RJ/2023
+
+No que diz respeito à competência tributária, julgue o item a seguir.
+
+As entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical têm
+capacidade tributária ativa para cobrar contribuições dos seus contribuintes.
+
+10. FGV/ISS-Cuiabá-Auditor Fiscal/2024
+
+Acerca do regime constitucional do Novo Imposto Seletivo incidente sobre produção, extração,
+comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, julgue as
+afirmativas abaixo:
+
+I. Integrará sua própria base de cálculo.
+
+II. Terá suas alíquotas fixadas em lei complementar, podendo ser específicas, por unidade de medida
+adotada, ou ad valorem.
+
+III. Não incidirá sobre as operações com energia elétrica e com telecomunicações.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             73
+        www.estrategiaconcursos.com.br                                                                       77
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+e) II e III, apenas.
+
+11. VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Uma sociedade anônima recebeu como contribuição para a formação do seu capital social imóvel no valor
+de R$ 300.000,00 (trezentos mil reais), tendo sido emitidas e subscritas, entretanto, como retribuição pela
+transferência do imóvel, ações no montante equivalente apenas a R$ 200.000,00 (duzentos mil reais). A
+respeito desta situação hipotética, com base na legislação e jurisprudência tributárias nacionais, assinale a
+alternativa correta.
+
+A) Não haveria a incidência do ITBI caso o aporte de capital fosse realizado em sociedade limitada em lugar
+de sociedade anônima.
+
+B) Incide o ITBI sobre a diferença entre o valor do bem e o valor do capital subscrito e integralizado.
+
+C) O ITBI não incide nas transferências de bens para formação do capital de empresas, independentemente
+da atividade social a que se dediquem.
+
+D) Trata-se de hipótese expressamente tratada pela legislação federal como situação de isenção de ITBI, em
+relação à diferença de valores observada.
+
+E) O ITBI incide apenas sobre transferências em valor superior a R$ 500.000,00 (quinhentos mil reais) quando
+realizadas para aporte de capital em empresa.
+
+12. FCC/DPE-RS-Defensor Público/2018
+
+Quanto ao entendimento jurisprudencial do Superior Tribunal de Justiça e do Supremo Tribunal Federal
+sobre o imposto incidente sobre a circulação de mercadorias e serviços (ICMS), analise as assertivas abaixo:
+
+I. Constitui fato gerador do ICMS o deslocamento de mercadorias de um para outro estabelecimento do
+mesmo contribuinte.
+
+II. O ICMS incide no serviço dos provedores de acesso à internet.
+
+III. O ICMS não incide sobre o serviço de habilitação de telefone celular.
+
+IV. O ICMS não incide sobre o fornecimento de água tratada por concessionária de serviço público.
+
+V. É devida a cobrança de ICMS nas operações ou prestações de serviço de transporte terrestre interestadual
+e intermunicipal de passageiros e de cargas.
+
+Está correto o que consta APENAS de:
+
+a) II, III e IV.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       74
+           www.estrategiaconcursos.com.br                                                                 77
+
+                                         https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 03
+
+
+
+b) I, IV e V.
+
+c) III, IV e V.
+
+d) I, II e III.
+
+e) II e V.
+
+
+
+
+                                                              ==219a34==
+
+
+
+
+             Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   75
+             www.estrategiaconcursos.com.br                                             77
+
+                                           https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 03
+
+
+
+
+                                                GABARITO
+ 1. A
+ 2. D
+ 3. D
+ 4. B
+ 5. B
+ 6. C
+ 7. A
+ 8. C
+ 9. Certo
+ 10. C
+ 11. B
+ 12. C
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   76
+      www.estrategiaconcursos.com.br                                             77
+
+                                    https://t.me/KakashiAssinaturasBot
+

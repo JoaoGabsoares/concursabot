@@ -1,0 +1,452 @@
+                          APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Contabilidade Geral e
+
+Avançada – DLPA e DMPL. Trata-se de um material pensado para lhe ajudar em todo esse
+
+processo, visando, inclusive, uma economia de tempo de confecção de materiais, tempo que é
+
+o bem mais precioso de um concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+
+
+
+                                                                                                  1
+
+
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                                 https://t.me/KakashiAssinaturasBot
+       RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+
+DLPA e DMPL
+
+
+
+A demonstração das mutações do patrimônio líquido é a demonstração que evidencia,
+
+como o próprio nome sugere, as modificações neste grupo patrimonial.
+
+
+A demonstração de lucros ou prejuízos acumulados demonstra as movimentações da
+
+conta lucros ou prejuízos acumulados, passando desde o saldo do início do período (se
+
+for prejuízo) até a recepção do lucro (que vem da DRE) e sua distribuição.
+
+
+A DLPA demonstra o dividendo por ação do capital social. Distinga-se da
+
+Demonstração do Resultado do Exercício (DRE) que demonstra o lucro ou prejuízo por
+
+ação do capital.
+
+
+
+
+                                                                                                 2
+
+
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                                https://t.me/KakashiAssinaturasBot
+Um primeiro ponto a salientar é que a DLPA pode ser incluída na DMPL. Vejam que a
+
+lei afirma que o que pode ocorrer é a inclusão da primeira na segunda e não a
+
+substituição de uma por outra. Esta questão é recorrente em provas e não podemos
+
+errar!
+
+
+         Estrutura - Demonstração dos lucros ou prejuízos acumulados
+
+         Saldo do início do exercício (só se for prejuízo acumulado)
+
+         (+/-) Ajustes de exercícios anteriores
+
+         (+) Reversão de reservas de lucros do período
+
+         (+) Lucro líquido do exercício
+
+         (-) Transferência para reservas de lucros
+
+         a) Reserva Legal
+
+         b) Reserva Estatutária
+
+         c) Reservas para contingências
+
+         d) Reserva de retenção de lucros
+
+         e) Reserva de lucros a realizar
+
+         f) Reserva de incentivos fiscais
+
+         g) Reserva Especial de dividendo obrigatório não distribuído
+
+         h) Reserva específica de prêmio na emissão de debêntures
+
+         (-) Dividendos propostos
+
+         (-) Parcela dos lucros incorporada ao capital social
+
+         (-) Dividendos intermediários
+
+         Saldo no fim do período
+
+
+
+
+                                                                                               3
+
+
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+A conta lucros acumulados não pode mais constar no Balanço Patrimonial, quando do
+
+fechamento    da      demonstração.           Ressalve-se,       contudo,       que     a   conta   prejuízos
+
+acumulados pode subsistir ao término do exercício, diminuindo o PL, tendo, assim,
+
+saldo devedor.
+
+
+
+
+O prejuízo do exercício será obrigatoriamente absorvido pelos lucros acumulados,
+
+pelas reservas de lucros e pela reserva legal, nessa ordem.
+
+
+
+
+                                                                                                          4
+
+
+
+                 **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                                  https://t.me/KakashiAssinaturasBot
+As reservas de lucros que podem ser constituídas a partir de existência de lucro no
+
+exercício são:
+
+                                           Reservas de lucros
+
+                                              Reserva legal
+
+                                         Reservas estatutárias
+
+                                   Reservas para contingências
+
+                                   Reservas de incentivos fiscais
+
+                                  Reservas de retenção de lucros
+
+                                    Reserva de lucros a realizar
+
+                                Reserva especial para dividendos
+                                  obrigatórios não distribuídos
+
+
+
+
+Pela constituição:
+
+
+D – Lucros acumulados
+
+
+C – Reservas de lucros
+
+
+
+
+                                                                                                   5
+
+
+
+                 **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                                  https://t.me/KakashiAssinaturasBot
+Os dividendos representam a remuneração do capital dos sócios. Quando você
+
+emprega dinheiro em uma sociedade, espera receber um retorno. E o principal
+
+recebimento dos sócios são os dividendos.
+
+
+
+
+                                             Dividendos
+
+           Estatuto expresso             Fixa o quanto quiser
+
+                                         Lucro líquido do
+                                         exercício
+
+                                          - Reserva legal
+         Estatuto omisso (base
+          de cálculo): 50% do            - Reserva para
+              lucro líquido              contingências
+            ajustado, que é
+             encontrado da               + Reversão de reserva para
+           seguinte maneira              contingências
+
+                                          - Reserva de incentivos fiscais (facultativo)
+
+                                          - Reserva emissão de debent. (facultativo)
+
+                                         Mínimo 25% do valor do lucro ajustado
+             Se fixar depois
+                                         acima
+
+
+
+
+                                                                                                6
+
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                               https://t.me/KakashiAssinaturasBot
+Reserva legal
+
+
+
+
+Reservas estatutárias
+
+
+         Reservas estatutárias. Podem ser previstas no estatuto, se:
+
+                                 Indicar a sua finalidade
+
+                                      Fixar os critérios
+
+                            Fixar a parcela a ser destinada
+
+                              Estabelecer o limite máximo
+
+
+
+
+                                                                                             7
+
+
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Reserva de contingências
+
+
+
+
+                             Reserva para contingência
+
+                    Compensação de perda em exercício futuro;
+
+        Segrega no PL parcela de lucros que poderia ir para dividendos;
+
+        É revertida para lucros acumulados (ocorrendo ou não o evento),
+                          integrando BC dos dividendos
+
+                Conta do PL, reserva de lucros. Não afeta resultado;
+
+        Exemplos: geadas, inundações, secas, empresas que operam com
+         períodos altamente lucrativos e depois com baixa lucratividade.
+
+
+
+
+                           Provisões para contingências
+
+                Cobertura de perda em que já houve fato gerador;
+
+          Constituída independente do lucro ou prejuízo do exercício;
+
+                         Não há reversão de valores, em regra.
+
+          Conta do passivo e contrapartida em despesa no resultado;
+
+               Exemplos: indenizações contratuais, contingências
+
+
+
+
+                                                                                              8
+
+
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+Reserva de incentivos fiscais
+
+
+As doações e subvenções governamentais, antes do advento das mudanças contábeis,
+
+eram registradas à conta de reserva de capital. Pois bem, agora essas doações são
+
+registradas como receita (lembrem-se de que as receitas são contas de resultado).
+
+
+
+
+Reserva de lucros a realizar
+
+
+No exercício em que o montante do dividendo obrigatório, calculado nos termos do
+
+estatuto ou do art. 202 da Lei das S/A, ultrapassar a parcela realizada do lucro líquido
+
+do exercício, a assembleia-geral poderá, por proposta dos órgãos da administração,
+
+destinar o excesso à constituição de reserva de lucros a realizar.
+
+
+
+
+                                                                                                 9
+
+
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                                https://t.me/KakashiAssinaturasBot
+Reserva especial para dividendos obrigatórios não distribuídos
+
+
+A regra é a distribuição de dividendos ao final de cada exercício social. Contudo, como
+
+todo negócio está sujeito a risco, pode acontecer de a empresa possuir lucro, mas não
+
+possuir situação financeira ou patrimonial que permita o pagamento de dividendos,
+
+como, por exemplo, quando a empresa tem um volume extraordinário de
+
+empréstimos a serem quitados, ou quando está em recuperação judicial ou
+
+extrajudicial. Poderá, assim, constituir reserva especial para dividendos obrigatórios
+
+não distribuídos.
+
+
+
+
+Reserva de retenção de lucros
+
+
+A finalidade dessa reserva é financiar projetos de investimentos, e não pode afetar
+
+(diminuir) os dividendos obrigatórios. Mas, ao invés de distribuir todo o lucro na forma
+
+de dividendos adicionais, a empresa pode constituir a reserva de retenção de lucros.
+
+
+Para isso, a empresa deve preparar um orçamento de capital, aprovado pela
+
+Assembleia de acionistas, com todas as fontes e aplicações de capital, fixo ou
+
+circulante.
+
+
+
+
+                                                                                                 10
+
+
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                                https://t.me/KakashiAssinaturasBot
+O orçamento poderá ter prazo de até 5 exercícios, salvo no caso de execução, por prazo
+
+maior, de projeto de investimento.
+
+
+
+
+Demonstração das mutações do patrimônio líquido
+
+
+A Demonstração das Mutações do Patrimônio Líquido (DMPL) é mais completa que a
+
+DLPA. Esta última torna-se apenas uma coluna da DMPL. A Lei 6404/76 permite que a
+
+DLPA seja incluída na DMPL.
+
+
+A Instrução CVM nº 59/86 tornou a DMPL obrigatória para as companhias abertas.
+
+
+
+
+                                                                                                11
+
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 11.
+
+
+
+                               https://t.me/KakashiAssinaturasBot
+

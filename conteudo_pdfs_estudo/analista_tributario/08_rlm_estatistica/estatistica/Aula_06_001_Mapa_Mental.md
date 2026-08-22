@@ -1,0 +1,102 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 06_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '06'
+titulo_aula: PRINCÍPIO                      • Eventos concomitantes (ocorre um E outro)
+---
+
+# PRINCÍPIO                      • Eventos concomitantes (ocorre um E outro)
+
+PRINCÍPIO                      • Eventos concomitantes (ocorre um E outro)
+                  MULTIPLICATIVO
+                                                   • Se você tem 3 calças e 5 blusas, o número de maneiras de escolher uma
+                 (MULTIPLICAÇÃO)
+                                                      calça E uma blusa é o produto: 3 x 5 = 15
+
+   ANÁLISE
+                 PRINCÍPIO ADITIVO                 • Eventos mutuamente exclusivos (ocorre um OU outro)
+COMBINATÓRIA:
+                      (SOMA)                       • Se você tem 3 calças e 4 shorts, o número de maneiras de escolher uma
+ PRINCÍPIOS DE
+                                                      calça OU um short é a soma: 3 + 4 = 7
+  CONTAGEM
+
+
+                                                   • Considerar o pior cenário para garantir a situação desejada
+                   PRINCÍPIO DO                    • O número de pessoas necessárias para garantir que haverá pelo menos
+                     POMBO                            2 pessoas nascidas no mesmo mês é igual a 13. Isso porque, no pior
+                                                      cenário, as pessoas serão de meses diferentes até a 12ª pessoa.
+
+                                                                                                               PRINCÍPIOS DE CONTAGEM
+                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                     Fatorial: produto de um número com todos os números
+  ANÁLISE COMBINATÓRIA                     CONCEITO                  menores que ele (utilizamos o símbolo !):
+
+        FATORIAL                                                                         5! = 5 x 4 x 3 x 2 x 1 = 120
+                                                                     As técnicas da análise combinatória são baseadas no fatorial.
+
+ANÁLISE COMBINATÓRIA
+                                           CONCEITO                  Permutação – O número de maneiras de ordenar os
+    PERMUTAÇÃO                                                       elementos, como em uma fila.
+
+
+ PERMUTAÇÃO                                                                                         O número de maneiras
+                       Os elementos são todos distintos. A                                          de organizar uma fila
+   SIMPLES             permutação de n elementos é igual a n!.                                      de 5 pessoas é 5!
+
+                                                                                                     O número de maneiras
+                       Alguns   elementos    se   repetem.                                           de ordenar a palavra
+PERMUTAÇÃO COM         Dividimos a permutação de todos os n                                          ANALISE, em que há 7
+                       elementos pela permutação dos k                                               letras, sendo 2 delas
+   REPETIÇÃO           elementos que se repetem.                                                     iguais (A) é 7!/2!
+
+                                                                                                         O número de
+                       Número de maneiras de ordenar                                                     maneiras de
+ PERMUTAÇÃO            elementos dispostos em círculo. A                                                 organizar uma
+                       permutação circular de n elementos é                                              ciranda de 8
+   CIRCULAR
+                       igual ao fatorial de n - 1.                                                       pessoas é 7!
+
+
+                                                                                                                             PERMUTAÇÃO
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                             ANÁLISE
+                                                       COMBINATÓRIA
+
+                    ARRANJO                                                                              COMBINAÇÃO
+
+O   número     de    maneiras    de    selecionar                                   O número de maneiras de selecionar elementos,
+elementos, de modo que a ordem importe.                                             de modo que a ordem não importe. Por exemplo,
+
+Por exemplo, um sorteio de prêmios diferentes.                                      sortear pessoas para formar um grupo.
+
+O arranjo de k elementos, dentre n, é igual ao                                      Na combinação, dividimos a fórmula do arranjo
+fatorial de n dividido pelo fatorial de n - k:                                      pelo fatorial dos k elementos selecionados.
+
+                                                                                         O número de maneiras de sortear 3 pessoas
+O número de maneiras de sortear 3 pessoas                                                para fazerem a mesma tarefa em grupo, de um
+para receberem prêmios diferentes, de um                                                 total de 10 pessoas é:
+total de 10 pessoas é:
+
+                                                                                                                                  ANÁLISE COMBINATÓRIA
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---

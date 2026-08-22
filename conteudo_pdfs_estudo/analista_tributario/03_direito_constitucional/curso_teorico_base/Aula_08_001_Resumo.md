@@ -1,0 +1,94 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 08_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: 08
+titulo_aula: PARTIDOS POLÍTICOS
+artigos_citados:
+- Art. 17
+- art. 17
+---
+
+# PARTIDOS POLÍTICOS
+
+PARTIDOS POLÍTICOS
+1) Os partidos políticos são entidades de direito privado. É livre a criação, fusão, incorporação e
+extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o
+pluripartidarismo, os direitos fundamentais da pessoa humana (art. 17, CF/88). Os partidos
+políticos devem ter caráter nacional.
+
+2) Os partidos políticos são proibidos de receber recursos financeiros de entidade ou governo
+estrangeiro ou de subordinar-se a estes.
+
+3) Os partidos políticos devem prestar contas à Justiça Eleitoral.
+
+4) Os partidos políticos têm liberdade para definir sua estrutura interna, bem como estabelecer
+regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios.
+
+5) Os partidos políticos têm liberdade para definir sua organização e funcionamento e adotar os
+critérios de escolha e o regime de suas coligações nas eleições majoritárias. Com a EC nº
+97/2017, ficaram proibidas as coligações nas eleições proporcionais, regra essa válida a partir das
+eleições de 2020.
+
+6) Desde a EC nº 52/2006, não há obrigatoriedade de simetria das coligações em âmbito
+nacional, estadual e municipal.
+
+7) Os partidos políticos adquirem personalidade jurídica na forma da lei civil, mediante inscrição
+do ato constitutivo no respectivo registro. Após adquirirem personalidade jurídica, os partidos
+políticos deverão registrar seus estatutos no TSE, o que lhes confere capacidade política.
+
+8) É vedada a utilização pelos partidos políticos de organização paramilitar.
+
+9) Emenda Constitucional nº 97/2017: Instituiu no ordenamento jurídico brasileiro uma “cláusula
+de barreira”. Os recursos do fundo partidário e o acesso gratuito ao rádio e à televisão somente
+estarão disponíveis para os partidos políticos que cumprirem os requisitos do art. 17, § 3º, CF/88:
+
+     Art. 17 (...)
+     § 3º Somente terão direito a recursos do fundo partidário e acesso gratuito ao rádio e à
+     televisão, na forma da lei, os partidos políticos que alternativamente:
+     I - obtiverem, nas eleições para a Câmara dos Deputados, no mínimo, 3% (três por cento)
+     dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com
+     um mínimo de 2% (dois por cento) dos votos válidos em cada uma delas; ou
+     II - tiverem elegido pelo menos quinze Deputados Federais distribuídos em pelo menos um
+     terço das unidades da Federação.
+(*) A EC nº 97/2017 prevê um regime de transição até 2030, quando a “cláusula de barreira”
+estará efetivamente implementada.
+
+(*) A desfiliação e a infidelidade partidárias resultarão na perda do mandato dos parlamentares
+eleitos pelo sistema proporcional, salvo justa causa (por exemplo, desvio de orientação
+ideológica do partido). Tal regra não se aplica, segundo o art. 17, § 5º, CF/88, aos parlamentares
+eleitos por partidos políticos que não cumprem a “cláusula de barreira”.
+
+                                
+
+
+---
+
+10) Emenda Constitucional nº 111/2021: Incluiu na redação da CF/88 a cláusula de fidelidade
+partidária para Deputados Federais, Deputados Estaduais, Deputados Distritais e Vereadores
+(parlamentares eleitos pelo sistema proporcional), os quais perderão o mandato se se desligarem
+do partido pelo qual tenham sido eleitos, salvo nos casos de anuência do partido ou de outras
+hipóteses de justa causa estabelecidas em lei, não computada, em qualquer caso, a migração de
+partido para fins de distribuição de recursos do fundo partidário ou de outros fundos públicos e
+de acesso gratuito ao rádio e à televisão.
+
+11) Emenda Constitucional nº 117/2022: Incluiu medidas e ações a fim de incentivar a presença
+de mulheres em cargos políticos, a exemplo da aplicação mínima de 5% dos recursos do fundo
+partidário na criação e manutenção de programas de promoção e difusão da participação política
+das mulheres.
+
+12) Emenda Constitucional nº 133/2024: os partidos políticos devem aplicar 30% dos recursos
+públicos do Fundo Especial de Financiamento de Campanha e do Fundo Partidário destinado às
+campanhas eleitorais nas candidaturas de pessoas pretas ou pardas.
+
+                              
+
+
+---

@@ -1,0 +1,335 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 20_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: CPC 27 – ATIVO IMOBILIZADO
+artigos_citados:
+- art. 183
+---
+
+# CPC 27 – ATIVO IMOBILIZADO
+
+---
+
+---
+
+CPC 27 – ATIVO IMOBILIZADO
+
+                                             Pr of . Gi l mar Possat i
+
+        
+
+
+---
+
+  ASPECTOS
+INTRODUTÓRIOS
+
+                                       Pr of . Gi l mar Possat i
+
+  
+
+
+---
+
+Objetivo
+
+Est abel ecer     o   t r at ament o   cont ábi l  par a     at i vos
+i mobi l i zados,   de     f or ma   que     os   usuár i os      das
+demonst r ações cont ábei s possam di scer ni r a i nf or mação
+sobr e o i nvest i ment o da ent i dade em seus at i vos
+i mobi l i zados, bem como suas mut ações
+
+                        
+
+
+---
+
+  Alcance
+
+Deve      ser    apl i cado   na    cont abi l i zação de at i vos
+i mobi l i zados, excet o quando out r o Pr onunci ament o exi j a
+ou per mi t a t r at ament o cont ábi l di f er ent e.
+
+                       
+
+
+---
+
+Alcance
+O CPC 27 dest aca que el e não se apl i ca aos segui nt es
+at i vos:
+a) at i vos i mobi l i zados cl assi fi cados como mant i dos par a
+venda;
+b) at i vos bi ol ógi cos r el aci onados com a              at i vi dade
+agr í col a que não sej am pl ant as por t ador as;
+c) r econheci ment o e mensur ação de at i vos de expl or ação
+e aval i ação;
+d) di r ei t os sobr e j azi das e r eser vas mi ner ai s t ai s como
+pet r ól eo,   gás nat ur al ,   car vão mi ner al ,    dol omi t a e
+r ecur sos não r enovávei s semel hant es.
+                        
+
+
+---
+
+Definição
+At i vo i mobi l i zado: é o i t e m t a ngí v e l qu e :
+( a ) é ma nt i do par a us o na pr oduç ão ou f or ne c i me nt o
+de me r c ador i as ou s e r v i ç os , par a al ugue l a out r os ,
+ou pa r a f i n s a dmi ni s t r a t i v os ; e
+( b ) s e e s pe r a ut i l i z ar por ma i s de um pe r í od o.
+Co r r e s po nde m aos di r e i t os que t e nha m por obj e t o be ns
+c o r pó r e o s de s t i nados à manut e nç ão das at i v i dade s d a
+e n t i d ade ou e x e r c i dos c om e s s a f i nal i dade , i nc l us i v e
+os de c or r e nt e s de op e r a ç õe s que t r ans f i r am a e l a o s
+be ne f í c i os , os r i s c o s e o c on t r o l e de s s e s be ns .
+
+                           
+
+
+---
+
+Reconhecimento
+O custo de um item de ativo imobilizado deve ser
+reconhecido como ativo se, e apenas se (princípio do
+reconhecimento):
+
+a) for   provável  que    futuros    benefícios
+   econômicos associados ao item fluirão para a
+   entidade; e
+
+b) o custo do         item              puder          ser   mensurado
+confiavelmente.
+                  
+
+
+---
+
+Reconhecimento
+
+Sobressalentes, peças de reposição, ferramentas e
+equipamentos de uso interno são classificados como
+ativo imobilizado quando a entidade espera usá-los
+por mais de um período.
+
+                 
+
+
+---
+
+Mensuração no Reconhecimento
+
+Os direitos classificados no imobilizado serão avaliados pelo
+custo de aquisição, deduzido do saldo da respectiva conta de
+depreciação, amortização ou exaustão (art. 183, V, Lei n.
+6.404/76).
+
+                     
+
+
+---
+
+Mensuração no Reconhecimento
+
+
+                  Custo de ativo imobilizado
+Preço de Aquisição
+(+) impostos de importação e impostos não recuperáveis
+(+) qualquer custo diretamente atribuível para colocar o ativo
+no local e condição necessárias ao seu funcionamento
+(-) descontos comerciais, abatimentos e outros itens
+semelhantes
+
+                     
+
+
+---
+
+Mensuração no Reconhecimento
+
+        Custos diretamente atribuíveis (exemplos)
+ Custos de benefícios aos empregados decorrentes
+ diretamente da construção ou aquisição de item do ativo
+ imobilizado
+ Custos de preparação do local
+ Custos de frete e de manuseio (para recebimento e
+ instalação)
+ Custos de instalação e montagem
+ Custos com testes para verificar se o ativo está
+ funcionando corretamente
+ Honorários profissionais.
+                  
+
+
+---
+
+Mensuração no Reconhecimento
+
+       Não fazem parte do custo de ativo imobilizado
+  Custos de abertura de nova instalação;
+  Custos incorridos na introdução de novo produto ou
+  serviço (incluindo propaganda e atividades promocionais);
+  Custos da transferência das atividades para novo local ou
+  para nova categoria de clientes (incluindo custos de
+  treinamento);
+  Custos administrativos e outros custos indiretos.
+  O reconhecimento dos custos no valor contábil de um item do ativo imobilizado
+  cessa quando o item está no local e nas condições operacionais pretendidas pela
+  administração.
+
+                            
+
+
+---
+
+CNJ/2013
+Atualmente, o reconhecimento dos custos no valor
+contábil de um item do ativo imobilizado cessa quando
+o item está no local e nas condições operacionais
+pretendidas pela administração. Entretanto, os custos
+incorridos no uso, na transferência ou na reinstalação
+de um item são incluídos no seu valor contábil, como,
+por exemplo, os custos de realocação ou reorganização
+de parte das operações da entidade.
+
+                  
+
+
+---
+
+Custos Subsequentes
+               Custos Subsequentes (CPC 27)
+Manutenção Periódica: não compõe o custo do ativo imobilizado.
+Valor é reconhecido como despesa no resultado. Inclui o custo de
+pequenas peças.
+
+Substituição de peças (importantes) em intervalos
+regulares: a entidade reconhece no valor contábil de um item do
+ativo imobilizado o custo da peça reposta (compõe o custo do ativo
+imobilizado).
+
+Inspeções regulares importantes: custo da inspeção é
+reconhecido no valor contábil do item do ativo imobilizado como uma
+substituição (compõe o custo do ativo imobilizado).
+                       
+
+
+---
+
+CNJ/2013
+Uma entidade não deve reconhecer os gastos de
+manutenção usual de um item do ativo imobilizado no
+valor contábil desse item. Pelo contrário, quando
+incorridos, esses custos são reconhecidos no resultado.
+
+                  
+
+
+---
+
+Mensuração após o Reconhecimento
+
+ Método do Custo ou Método da Reavaliação
+
+              
+
+
+---
+
+Método do Custo
+Após o reconhecimento como ativo, um item do ativo
+imobilizado deve ser apresentado ao custo menos qualquer
+depreciação e perda por redução ao valor recuperável
+acumuladas (CPC 01).
+
+                   
+
+
+---
+
+Depreciação
+Após o reconhecimento como ativo, um item do ativo
+imobilizado deve ser apresentado ao custo menos
+qualquer depreciação e perda por redução ao valor
+recuperável acumuladas (CPC 01).
+
+                 
+
+
+---
+
+Exame de Suficiência 2015.1
+Uma Sociedade Empresária adquiriu um equipamento, por R$25.000,00, para
+uso em suas atividades. Para deixá-lo em condições de uso, foi necessário
+gastar mais R$1.500,00. O equipamento ficou pronto para uso no dia 2.1.2014,
+e a empresa estima usar o equipamento por 5 anos. O valor residual é estimado
+em R$2.500,00, para qualquer método de depreciação adotado. A vida útil
+estimada do equipamento é de 12.000 horas. O equipamento tem capacidade
+para produzir 8.000 unidades de produto. O equipamento foi utilizado durante
+todo o ano de 2014; operou por 2.600 horas; e produziu 1.800 unidades. Com
+base nos dados acima, é CORRETO afirmar que a despesa com depreciação,
+no ano de 2014, foi de:
+a) R$4.800,00, apurados com base no Método das Quotas Constantes.
+b) R$5.416,67, apurados com base no Método das Horas de Produção.
+c) R$5.962,50, apurados com base no Método das Unidades Produzidas.
+d) R$7.500,00, apurados com base no Método da Soma dos Dígitos.
+                           
+
+
+---
+
+---
+
+---
+
+Baixa
+O valor contábil de um item do ativo imobilizado deve ser
+baixado:
+a) por ocasião de sua alienação; ou
+b) quando não há expectativa de benefícios econômicos
+futuros com a sua utilização ou alienação.
+
+                   
+
+
+---
+
+Divulgação
+As demonstrações contábeis devem divulgar, para cada
+classe de ativo imobilizado:
+a) os critérios de mensuração utilizados para determinar o
+valor contábil bruto;
+b) os métodos de depreciação utilizados;
+c) as vidas úteis ou as taxas de depreciação utilizadas;
+d) o valor contábil bruto e a depreciação acumulada (mais
+as perdas por redução ao valor recuperável acumuladas)
+no início e no final do período;
+e) a conciliação do valor contábil no início e no final do
+período.
+                    
+
+
+---
+
+---
+
+OBRIGADO
+
+
+    
+
+
+---
+
+---

@@ -1,0 +1,4488 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 06_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Passo Estratégico de Raciocínio Lógico
+---
+
+# Passo Estratégico de Raciocínio Lógico
+
+Aula 05
+                          Receita Federal (Analista Tributário)
+                     Passo Estratégico de Raciocínio Lógico
+                                                   Matemático
+
+                                                        Autor:
+                                         Allan Maux Santana
+
+                                            06 de Julho de 2024
+
+---
+
+      Allan Maux Santana
+      Aula 05
+
+                                                                                     Índice
+1) Análise FGV - RFB - Pós Edital
+
+
+2) Análise Combinatória
+
+
+3) Probabilidade
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           92
+
+                                                             
+
+
+---
+
+  Allan Maux Santana
+  Aula 05
+
+                                    ANÁLISE ESTATÍSTICA
+Inicialmente, convém destacar os percentuais de incidência de todos os assuntos previstos em
+nosso curso – quanto maior o percentual de incidência de um determinado assunto, maior será sua
+importância para nosso certame. Nossa análise será executada tendo em vista concursos realizados
+no período de 2018 a 2022.
+Temos um total de 55 questões de RLM distribuídas nos concursos realizados pela FGV, nível
+superior na área fiscal.
+                                                                                                   Grau de
+                                          ASSUNTOS
+                                                                                                  incidência
+
+                  ESTRUTURAS LÓGICAS / DIAGRAMAS LÓGICOS                                          25,45%
+
+                    ANÁLISE COMBINATÓRIA / PROBABILIDADE                                          21,82%
+
+              PORCENTAGEM / OPERACÕES COM NÚMEROS REAIS                                           16,36%
+
+            LÓGICA DE ARGUMENTAÇÃO / RACIOCÍNIO SEQUENCIAL                                        14,55%
+
+    NOÇOES DE GEOMETRIA / TRIGONOMETRIA / GEOMETRIA ANALÍTICA                                      7,27%
+
+        RAZÃO / PROPORÇÃO / REGRA DE TRÊS SIMPLES E COMPOSTA                                       5,45%
+
+      MATRIZES / DETERMINANTES / SISTEMAS DE EQUAÇÕES LINEARES                                     5,45%
+
+                   MODA / MÉDIA / MEDIANA / DESVIO PADRÃO                                          3,64%
+
+                                             TOTAL                                                 100,0%
+
+
+A quantidade de questões para o curso do Passo Estratégico é por volta de 5, desde que envolvam
+todo o conteúdo. No entanto, para o que material fique mais rico em exercícios para vocês, resolvi
+elaborar os PDFs com uma quantidade maior de questões de bancas diversas também.
+
+
+        A PEDIDO DOS ALUNOS, ESTOU COMEÇANDO, AGORA
+        EM 2023, UM NOVO PROJETO DE AULAS EM VÍDEO,
+        SIGAM:
+
+                                                Prof. Allan Maux
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático             3
+        www.estrategiaconcursos.com.br                                                                      92
+
+                                    
+
+
+---
+
+   Allan Maux Santana
+   Aula 05
+
+                         ANÁLISE COMBINATÓRIA - 2024
+Sumário
+
+   O que é mais cobrado dentro do assunto 
+
+Roteiro de revisão e pontos do assunto que merecem destaque 
+
+   Análise Combinatória 
+
+   Princípio Fundamental da Contagem / Arranjo 
+
+   Combinação 
+
+   Anagramas 
+
+Aposta Estratégica 
+
+Pegadinhas Estratégicas 
+
+Questões estratégicas 
+
+   Questões CESGRANRIO 
+
+   Questões FGV 
+
+   Questões CEBRASPE 
+
+   Questões Diversas 
+
+   Questões VUNESP 
+
+   Questões Instituto AOCP 
+
+Lista de Questões Estratégicas 
+
+   Questões CESGRANRIO 
+
+   Gabarito - CESGRANRIO 
+
+   Questões FGV 
+
+   Gabarito - FGV 
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                             4
+           www.estrategiaconcursos.com.br                                                                                                     92
+
+                                              
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+  Questões CEBRASPE 
+
+  Gabarito - CEBRASPE 
+
+  Questões Diversas 
+
+  Gabarito – Questões Diversas 
+
+  Questões VUNESP 
+
+  Gabarito – VUNESP 
+
+  Questões Instituto AOCP 
+
+  Gabarito – Instituto AOCP 
+
+O que é mais cobrado dentro do assunto
+
+Vamos, a seguir, para direcionar melhor o seu estudo, entender como cada assunto é cobrado pela
+banca.
+
+                                      Análise Combinatória                                                               Incidência
+                                        PERMUTAÇÃO SIMPLES                                                                    29,0%
+                        PRINCÍPIO FUNDAMENTAL DA CONTAGEM                                                                     26,0%
+                                     COMBINAÇÃO                                                                               23,0%
+                                       ARRANJO                                                                                22,0%
+                                                     TOTAL                                                                   100,0%
+
+Temos uma boa distribuição das questões pelo assunto.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                          5
+          www.estrategiaconcursos.com.br                                                                                                  92
+
+                                            
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto
+e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a seguir:
+
+
+Análise Combinatória
+
+O tão temido assunto, Análise Combinatória, dos concurseiros em geral. De fato, algumas
+questões são bem complicadas de serem interpretadas, mas há uma quantidade bem mais
+significativa de questões diretas e são essas aí que temos o compromisso com acerto, ok?
+
+Como o próprio nome diz vamos analisar o total de possibilidades de determinado evento
+acontecer. Existem algumas formas de fazermos essas contagens, veremos a seguir.
+
+                  A PRIMEIRA é pelo método tradicional, necessitando memorizar algumas
+                  fórmulas e aplicá-las às situações que envolvem os agrupamentos.
+
+                  A SEGUNDA maneira, que por sinal é a que eu uso, não envolve fórmula alguma,
+                  basta apenas você conhecer o Princípio Fundamental da Contagem – PFC – e
+                  correr para o abraço.
+
+Estranho, não acham?
+
+Mas é isso mesmo. Porém, aqui existe um grave problema, não pelo método, mas sim pela forma
+que o “camarada” que elabora as questões nos dá nas opções das alternativas a serem marcadas,
+ao encontrarmos o resultado da questão.
+
+Eu, particularmente, acho um absurdo determinar a forma de resolução das questões, nas opções
+das escolhas das alternativas. Apesar de serem poucas questões que cobram esse método
+tradicional de resolução, eu irei ensinar a vocês as duas maneiras. É que algumas vezes a resposta
+vem com a própria fórmula e não como um resultado numérico.
+
+A TERCEIRA é contarmos caso a caso. Às vezes, até dá para fazermos isso, quando a quantidade
+de possibilidades é pequena.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   6
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Mas vamos lá!
+
+E, finalmente, Allan, o que é Análise Combinatória ou Estratégia de Contagem?
+
+Como o próprio nome do assunto nos diz: deveremos analisar as combinações possíveis de
+acontecer determinada situação, através da contagem. No entanto, na hora da prova não dá para
+ficar contando caso a caso e evento por evento, por isso vamos estudar estratégias de contagem,
+que são formas simples para calcularmos e encontrarmos o total de possibilidades.
+
+
+Princípio Fundamental da Contagem / Arranjo
+
+Imagine você nesse momento chegando ao banco. Mas, obviamente, você não está sozinho, há
+mais 06 pessoas num tumulto danado e ninguém sabe quem chegou primeiro.
+
+De repente, chega a gerente do banco querendo organizar a fila de acordo com a ordem de
+chegada, mas, devido ao grande tumulto, ninguém sabe de ordem alguma.
+
+O que fazer? Como organizar a fila? Hummm!!
+
+A gerente pensa e acha uma Comentários: distribui números de 1 a 6 e, em seguida, faz um sorteio
+para determinar a ordem.
+
+Pergunto: De quantas formas distintas essa fila poderia ser organizada?
+
+Percebam vocês que para uma situação se diferenciar da outra, basta apenas que uma pessoa
+troque de lugar, não é?
+
+                                          1º           2º        3º       4º        5º   6º
+                       Caixa do Banco
+
+                                        Allan       Abraão Túlio André Ana José
+
+                                        Abraão       Allan     Túlio André Ana José
+
+Vejam que apesar de termos as mesmas pessoas, por se tratar de uma fila, que possui ordem, uma
+simples troca de posição entre duas pessoas implicará em agrupamentos distintos.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   7
+        www.estrategiaconcursos.com.br                                                            92
+
+                                               
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Na Análise Combinatória, chamamos esse tipo de agrupamento de ARRANJO. Para calcularmos o
+total de agrupamentos basta você utilizar os métodos:
+
+Pense comigo, quantas pessoas poderiam o ocupar a 1ª posição da fila, e a 2ª e a 3ª e a 4ª....?
+
+Qualquer uma das 06 pessoas poderia ocupar a 1ª posição, ok?
+
+Já a 2ª posição não haveria um total de 06 possibilidades, visto que 01 pessoa já ocupou a 1ª
+posição, certo? Seriam 05 possibilidades e assim sucessivamente para as demais posições até
+chegar na 6ª posição com apenas uma possibilidade, a última pessoa.
+
+                Para encontrarmos o total de possibilidades, basta multiplicarmos todos os
+                números acima: 6 x 5 x 4 x 3 x 2 x 1 = 720.
+
+                Portanto, 720 corresponde ao total de possibilidades de agrupamentos que
+                podem ser feitos com 6 pessoas numa fila de um banco. Pessoal, essa
+                multiplicação entre números consecutivos até o 1 pode ser representada da
+                seguinte forma 6 x 5 x 4 x 3 x 2 x 1 = 6! (Seis fatorial).
+
+Agora, se a gerente do banco optasse em sortear apenas 3 pessoas, então de quantas maneiras
+ela poderia organizar essa fila?
+
+Aqui, pessoal, o raciocínio é o mesmo, vejamos:
+
+Para a 1ª posição na fila teríamos qualquer uma das 6 pessoas. Para a 2ª posição só teríamos 5
+pessoas e para a 3ª posição 4 pessoas. Então para calcularmos o total de possibilidades, basta
+você fazer o produto:
+
+                                                  =6x5x4=
+
+                                            = 120 possibilidades =
+
+E com fórmulas, como seria?
+
+Pela fórmula de Arranjo:
+                                                               𝒏!
+                                             A n, p = (
+                                                            𝒏 − 𝒑)!
+
+                                                              𝟔!
+                                                 A6,3 = (𝟔
+                                                              % 𝟑)!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   8
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                     𝟔𝒙𝟓𝒙𝟒𝒙𝟑!
+                                                 =               =
+                                                         𝟑!
+                                                  =6x5x4=
+
+                                                      = 120 =
+
+
+Combinação
+
+Vamos mudar a situação.
+
+Imagine que você e mais 6 pessoas estão concorrendo para ganhar uma viagem ao exterior, mas
+que apenas 3 pessoas ganharão esse prêmio no sorteio.
+
+Todos vão para o mesmo lugar. Não importa a ordem do sorteio. Ganhará que for sorteado, apenas
+isso. De quantas maneiras distinta esse grupo de 3 pessoas poderá ser formado?
+
+Gente, percebam que aqui, nesse agrupamento de pessoas, diferentemente do que ocorreu no
+exemplo da fila do banco, pouco importa a sequência do sorteio, pois a viagem será feita pelas
+3 pessoas sorteadas, pouco importando a ordem, ok? Pensem ai um pouco...! Vocês acham que
+nesse caso haverá menos possibilidades ou mais, caso a ordem importasse?
+
+Acertou quem respondeu menos possibilidades. Vejam que no caso da fila do banco para que um
+agrupamento se diferenciasse do outro, bastaria apenas a permuta de posições entre duas
+pessoas.
+
+Aqui não, pessoal, pois como a ordem do sorteio não determinará um novo agrupamento, logo a
+simples inversão da ordem dos nomes sorteados não computará como uma nova possibilidade a
+ser somada no total das possibilidades. Para que tenhamos um novo agrupamento formado, será
+necessário a inclusão de uma nova pessoa no grupo, ok?
+
+Resolvendo o problema SEM fórmulas:
+
+                                                      𝟕∙𝟔∙𝟓
+                                                  =             =
+                                                      𝟑∙ 𝟐∙𝟏
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   9
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                            = 35 possibilidades =
+
+Vamos entender a reComentários:
+
+1º O numerador da fração indica o total de possibilidades caso a ordem de escolha determinasse
+uma nova situação. Caso fosse uma situação de ARRANJO. Ok?
+
+2º O denominador da fração exclui justamente as possibilidades que não precisam ser
+contabilizadas, pois a simples inversão do sorteio não determinará uma nova situação.
+
+Resolvendo o problema COM fórmulas:
+
+                                                                 𝒏!
+                                             C n, p =
+                                                          𝒑!(𝒏 ' 𝒑)!
+
+                                                            𝟕!
+                                              C7,3 =                  =
+                                                        𝟑!(𝟕%𝟑)!
+                                                   𝟕 𝒙 𝟔 𝒙 𝟓 𝒙 𝟒!
+                                               =                      =
+                                                       𝟑! 𝒙 𝟒!
+                                                       𝟕∙ 𝟔 ∙𝟓
+                                                   =             =
+                                                       𝟑∙𝟐∙𝟏
+                                            = 35 possibilidades =
+
+Comparem as duas soluções, com e sem fórmulas, e vejam que o que destaquei em azul nas duas
+situações representam a mesma coisa.
+
+Ai, meus caros, cabe a você escolher a melhor forma de responder as questões. Eu prefiro resolver
+pelo método mais simples, ou seja, sem fórmulas, pois já vamos direto ao ponto. Porém, como
+falei antes, faz-se necessário, em alguns casos, saber a fórmula para pode encaixar na alternativa
+certa.
+
+Antes de começarmos a fazer as questões, fiquem ligados nisso:
+
+
+                               Nas questões de Análise Combinatória e Probabilidade vale o
+                               seguinte:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   10
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                               O uso do conectivo “e” será substituído por uma operação de
+                               multiplicação.
+
+                               O uso do conectivo “ou” será substituído por uma operação de
+                               adição.
+
+                                                         E                  Multiplicação
+                       Conectivo
+                                                       OU                        Adição
+
+
+Exemplo 01:
+
+Um procedimento padrão para aumentar a capacidade do número de senhas de banco é
+acrescentar mais caracteres a essa senha. Essa prática, além de aumentar as possibilidades de
+senha, gera um aumento na segurança. Deseja-se colocar dois novos caracteres na senha de
+um banco, um no início e outro no final. Definiu-se que esses novos caracteres devem ser vogais
+e o sistema conseguirá diferenciar maiúsculas de minúsculas.
+
+Com essa prática, o número de senhas possíveis ficará multiplicado por:
+
+Comentários:
+
+Percebam que em momento algum foi dito na questão a quantidade de caracteres da senha antiga,
+pois será indiferente para resolver a questão. O importante é sabermos que serão incluídos dois
+novos caracteres – que também será indiferente onde eles serão colocados. Como são 05 vogais
+e serão diferenciadas as maiúsculas das minúsculas, na verdade teremos ai um total de 2 x 5 = 10
+novas opções para cada caractere. Logo, o total de possibilidades será de 10 x 10 = 100.
+
+Lembram da dica? Conectivo “e”, devemos multiplicar; será utilizado um caractere e o outro,
+                                      por isso:
+
+                                                   = 10 x 10 =
+
+                                                     = 100 =
+
+Exemplo 02:
+
+A senha de acesso a um jogo de computador consiste em quatro caracteres alfabéticos ou
+numéricos, sendo o primeiro necessariamente alfabético. O número de senhas possíveis será,
+então de:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   11
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Comentários:
+
+Comecemos sempre pela restrição:
+
+1º caractere: necessariamente alfabético, logo 26 possibilidades;
+
+2º caractere: alfabético ou (+) numérico: 10 + 26 = 36 possibilidades;
+
+3º caractere: alfabético ou (+) numérico: 10 + 26 = 36 possibilidades;
+
+4º caractere: alfabético ou (+) numérico: 10 + 26 = 36 possibilidades.
+
+                                        O total de possibilidades será de:
+
+                                                 = 26 x 36 x 36 x 36 =
+
+                                                      = 26 x 363 =
+
+Exemplo 03:
+
+A diretoria de uma empresa é constituída por 7 diretores brasileiros e 4 japoneses. Uma
+comissão de seis diretores, sendo três brasileiros e três japoneses, será formada para
+representar a empresa em uma reunião. O número de comissões diferentes que podem ser
+formadas é igual a:
+
+Comentários:
+
+A comissão será formada por brasileiros e (multiplicação) japoneses, ok?
+
+Percebam que a ordem de escolha não importará na formação de uma nova comissão.
+
+Uma nova comissão será formada se for incluída uma nova pessoa. Logo, teremos um caso de
+COMBINAÇÃO, que é um tipo de agrupamento em que a disposição dos elementos dentro do
+grupo não determinará um novo grupo, ok?
+
+Com fórmulas:
+
+               𝟕!            𝟕!         𝟕 𝐱 𝟔 𝐱 𝟓 𝐱 𝟒!       𝟕𝐱𝟔𝐱𝟓
+C7,3 =                 =            =                    =            = 𝟑𝟓 (Comissões de brasileiros)
+         𝟑!(𝟕 % 𝟑)!        𝟑!𝐱 𝟒!           𝟑! 𝐱 𝟒!           𝟑𝐱𝟐
+               𝟒!            𝟒!         𝟒 𝐱 𝟑!
+C4,3 =                 =            =            = 𝟒 (Comissões de japoneses)
+         𝟑!(𝟒 % 𝟑)!        𝟑!𝐱 𝟏!         𝟑!
+
+Como o grupo será formado por comissões de brasileiros E japoneses, logo deveremos
+multiplicar os resultados obtidos: 35 x 4 = 140.
+
+Sem fórmulas:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático        12
+         www.estrategiaconcursos.com.br                                                                 92
+
+                                        
+
+
+---
+
+    Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                   𝟕𝐱𝟔𝐱𝟓                             𝟒 𝐱 𝟑 𝐱𝟐
+               =         (𝐜𝐨𝐦𝐢𝐬𝐬ã𝐨 𝐝𝐞 𝐛𝐫𝐚𝐬𝐢𝐥𝐞𝐢𝐫𝐨𝐬) ∙          (𝐜𝐨𝐦𝐢𝐬𝐬ã𝐨 𝐝𝐞 𝐣𝐚𝐩𝐨𝐧𝐞𝐬𝐞𝐬) =
+                     𝟑!                                 𝟑!
+                                                      = 35 x 4 =
+
+                                                       = 140 =
+
+
+Anagramas
+
+                          Anagrama é um conjunto de “palavras” que podem ser formadas
+                          com a permutação de letras de uma palavra dada, mas não precisa,
+                          necessariamente ter sentido.
+
+               “Os anagramas da palavra perito, por exemplo, são: RTOPIE, TORIEP.”
+
+                                      APOSTA ESTRATÉGICA
+
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem
+    cobrados em prova, considerando o histórico de questões da banca em provas de nível
+    semelhante à nossa, bem como as inovações no conteúdo, na legislação e nos entendimentos
+    doutrinários e jurisprudenciais1.
+
+Nossa Aposta Estratégica converge exatamente, meus amigos, na sucinta, mas, importante,
+diferença entre as duas maneiras de agrupar coisas:
+
+                                             Arranjo e Combinação.
+
+1
+ Vale deixar claro que nem sempre será possível realizar uma aposta estratégica para um determinado
+assunto, considerando que às vezes não é viável identificar os pontos mais prováveis de serem cobrados
+a partir de critérios objetivos ou minimamente razoáveis.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   13
+          www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Sabemos, muito bem, que algumas questões de Análise Combinatória são bem chatinhas de serem
+interpretadas, principalmente pelo curto prazo de tempo que temos para respondê-las.
+
+No entanto, veremos que há uma quantidade bem mais significativa de questões que são
+respondidas diretamente pelo Princípio Fundamental da Contagem – PFC – ou, simplesmente,
+com o uso direto das Fórmulas de Arranjo e Combinação, portanto:
+
+                                      Tipos de Agrupamentos
+                        ARRANJO                                                COMBINAÇÃO
+                    Ordem Importa                                            Ordem Não Importa
+
+ Filas de Bancos, pódios, organização de cadeiras,                 Sorteios de prêmios, jogos lotéricos,
+  grupos COM elementos de funções específicas                      grupos com elementos SEM funções
+                       etc.                                                  específicas etc.
+
+                             PEGADINHAS ESTRATÉGICAS
+
+Querido aluno, cada assertiva abaixo contém uma "casca de banana" – será que você vai
+escorregar em alguma? (rs)
+
+A ideia aqui é induzi-lo levemente a cometer erros, não com o intuito de desanimá-lo, mas para
+que você aumente a retenção do conteúdo estudado!
+
+Vamos lá?
+
+1. Em um determinado tribunal temos 20 analistas e temos que escolher 3 destes para
+representar a instituição em um workshop sobre gestão administrativa. A melhor maneira de
+escolher esses 3 analistas é através de um arranjo.
+Aqui queremos passar para vocês as diferenças entre arranjo e combinações.
+Para resolver questões que envolvam arranjo e combinação temos que ter em mente os seguintes
+passos:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático            14
+        www.estrategiaconcursos.com.br                                                                     92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   è Se os elementos são iguais usamos o Princípio Fundamental da contagem;
+   è Se os elementos forem distintos utilizaremos o Arranjo, a combinação ou a permutação;
+   è Se a ordem for importante – será arranjo ou permutação (quando o número de elementos
+     (n) é igual ao número de agrupamento (p)).
+   è Se a ordem não for importante – será uma combinação.
+
+
+Para identificar se será um arranjo ou uma combinação termos que fazer os seguintes passos:
+1) Achar um resultado possível;
+2) inverter a ordem desse resultado
+Se nessa inversão não houver diferença, então trata-se de uma combinação. Mas se houver será
+um arranjo.
+Nesse exemplo dado no item, temos 20 analistas e desejamos escolher 3 para participar de um
+workshop. Vamos imaginar que entre esses analistas Maria, José e Carlos.
+1) resultado possível: Maria – José – Carlos.
+2) inverte o resultado: Carlos – José – Maria.
+Vejam que mesmo invertendo o resultado teremos os mesmos analistas participando do workshop.
+Logo, como o resultado foi igual temos uma combinação. Teremos uma combinação sempre que
+                                                               !!
+estamos falando de grupo, comissão, time =𝐶!,# = (!&#)!#!?.
+
+Agora se ao invés de selecionar 3 analistas para ir a um workshop, fossem escolhidos para ganhar
+prêmios de produtividade, nesse caso teríamos um arranjo.
+1) resultado possível: Maria – José – Carlos.
+2) inverte o resultado: Carlos – José – Maria.
+Aqui teríamos resultados diferentes, pois Maria ganharia o primeiro prêmio na primeira
+                                                                                            !!
+possibilidade e o último na segunda. Logo, trata-se de um arranjo =𝐴!,# = (!&#)!?.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   15
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+Questões CESGRANRIO
+
+Q.01 (Técnico - CMB / 2024)
+Em uma vitrine de uma loja estão expostos 5 camisas, 2 calças, 1 saia e 2 pares de sapatos.
+
+De quantas maneiras diferentes é possível um cliente se vestir usando 3 peças, sem usar saia e
+calça ao mesmo tempo?
+a) 10
+b) 15
+c) 30
+d) 35
+e) 40
+Comentários:
+Essa questão envolve o conceito do Princípio Fundamental da Contagem (PFC).
+Vamos aos itens:
+  • Camisas: 5
+  • Calças: 2
+  • Saia: 1
+  • Sapatos: 2
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   16
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Vejam que existem condições (restrições) que devem ser, necessariamente, atendidas, são elas:
+
+                         •   Uso de apenas 3 peças; e
+                         •   Não pode usar saia e calça simultaneamente
+
+Então as situações permitidas são:
+           = Camisa e Calça e Sapato OU Camisa e Saia e Sapato =
+Prezados alunos, preciso lembra-los de uma coisa:
+
+Trocamos o conectivo “e” por uma operação de multiplicação, já o “ou” por uma adição, ok?
+
+Vamos às contas:
+                                             =5∙2∙2+5∙1∙2=
+                                                   = 20 + 10 =
+                                             = 30 possibilidades =
+Gabarito: C
+
+Q.02 (Analista Bancário - BNB / 2024)
+Em uma agência bancária, há 4 funcionários que atuam na gerência de atendimento ao cliente
+e 5 funcionários que atuam na gerência administrativa. Um grupo de 5 funcionários dessa
+agência deve ser formado para participar de uma reunião, atendendo-se à seguinte restrição:
+2 atuando na gerência de atendimento ao cliente, e os 3 restantes, na gerência administrativa.
+
+Qual o número máximo de grupos diferentes que poderiam ser formados, atendendo-se a tal
+restrição?
+   a) 12
+   b) 24
+   c) 60
+   d) 120
+   e) 720
+Comentários:
+Vamos separar as informações:
+
+   •   Gerência de atendimento: 4 funcionários;
+   •   Gerência administrativa: 5 funcionários; e
+   •   Grupo: composto por 5 funcionários
+
+Agora, meus amigos, vamos às restrições impostas pelo enunciado da questão:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   17
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                         •   2 funcionários na gerência de atendimento; e
+                         •   3 funcionários na gerência administrativa
+Mais uma vez vamos usar do mesmo raciocínio visto na parte teórica:
+
+   1) Resolvendo com a fórmula de Combinação:
+
+                                                    = C4,2 ∙ C5,3 =
+                                                      (!                *!
+                                                =)!((&))! ∙ +!(*&+)!=
+                                                           ==219a34==
+
+                                                      = 6 ∙ 10 =
+
+                                             = 60 possibilidades =
+
+
+   2) Resolvendo pelo PFC (c/ ajuste):
+
+                                                    4∙3 5∙4∙3
+                                                =       ∙     =
+                                                     2!   3!
+                                                      = 6 ∙ 10 =
+
+                                             = 60 possibilidades =
+
+Gabarito: C
+
+Q.03 (Escriturário - BANRISUL / 2023)
+Sete clientes de um banco devem ser colocados em fila única para atendimento. Sabe-se que
+há três clientes com idade igual ou superior a 65 anos, que devem ocupar as primeiras três
+posições da fila, necessariamente, sem qualquer restrição adicional de ordenação entre eles.
+Os clientes com menos de 65 anos deverão ocupar as 4 últimas posições da fila, também sem
+qualquer restrição adicional de ordenação entre eles. Atendendo às restrições colocadas, até
+quantas filas distintas poderiam ser montadas?
+   a) 12
+   b) 24
+   c) 144
+   d) 2520
+   e) 5040
+
+Comentários:
+Vamos organizar os 7 clientes obedecendo às seguintes restrições:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   18
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                         •   Idade igual ou superior a 65 anos: 3 clientes (primeiras posições)
+                         •   Idade menor do que 65 anos: 4 clientes (últimas posições)
+
+Prezados, nessa questão vamos utilizar simplesmente o PFC , ok?
+
+                                            =3∙2∙1x4∙3∙2∙1=
+
+                                                    = 6 x 24 =
+
+                                            = 144 possibilidades =
+
+
+Gabarito: C
+
+Q.04 (Escriturário - BANRISUL / 2023)
+Um investidor muito supersticioso escolhe, mensalmente, um conjunto de três tipos de
+investimento para aplicar alguma quantia. Ele toma por regra dispor apenas dos mesmos nove
+tipos de investimentos e nunca repetir, em um mesmo mês, o mesmo conjunto de três tipos já
+usados em qualquer mês anterior. Por exemplo, se no 1o mês ele escolheu os investimentos de
+tipos A, B e C; no 2o mês, A, B e D; e no 3o mês, E, F e G, então ele não poderá investir
+novamente, num mesmo mês, por exemplo, no conjunto dos investimentos de tipos A, B e C,
+por já tê-lo usado no 1o mês.
+
+Considerando-se as condições descritas, o número máximo de meses em que o investidor
+poderá fazer esses investimentos é
+  a) 84
+  b) 60
+  c) 56
+  d) 48
+  e) 35
+Comentários:
+Meus amigos corujas, a questão parece complicada, mas é bem simples.
+
+Precisamos, tão somente, determinar de quantas formas distintas podemos combinar os 9
+investimentos agrupados de 3 em 3.
+
+Percebam que a ordem dos investimentos dentro do grupo não implicará num diferente.
+
+Exemplo: A, B e C é o mesmo grupo de investimento do B, A e C.
+Sendo assim, nossa solução será dada por:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   19
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                        = C9,3 =
+
+                                                            9!
+                                                   =               =
+                                                       3! (9 − 3)!
+                                                             9!
+                                                       =           =
+                                                           3! (6)!
+                                                       9 ∙ 8 ∙ 7 ∙ 6!
+                                                   =                  =
+                                                          3! ∙ 6!
+
+                                               = 84 possibilidades =
+
+Gabarito: A
+
+Q.05 (CESGRANRIO / PETROBRAS / Petróleo Júnior / 2018)
+  Uma arena esportiva possui exatamente 8 portões, numerados de 1 a 8. Essa arena é
+  considerada aberta se, e somente se, pelo menos um dos seus portões estiver aberto. Por
+  exemplo, seguem três maneiras diferentes de se ter essa arena aberta:
+      •     Quando apenas o portão 3 está aberto;
+      •     Quando apenas o portão 6 está aberto;
+      •     Quando apenas os portões 3, 7 e 8 estão abertos.
+  O número total de maneiras diferentes de se ter essa arena aberta é:
+  a) 40.320.
+  b) 40.319.
+  c) 256.
+  d) 255.
+  e) 36.
+
+Comentários:
+
+Pessoal, vejam que temos 8 portões e cada deles pode estar aberto ou fechado. Desta forma, o
+total de possibilidades de cada um dos portões é apresentada da seguinte forma:
+
+                                         =2x2x2x2x2x2x2x2=
+
+                                                           = 28 =
+
+                                                        = 256 =
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   20
+          www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Sendo que, para que a arena esteja aberta é suficiente que apenas um dos portões esteja aberto.
+Logo, ela estará fechada em apenas uma hipótese, isto é, quando todos os portões estiverem
+fechados e isso só irá acontecer uma única vez. Portanto, basta eliminar uma das possibilidades.
+
+                                                    256 - 1 = 255
+
+Uma bela de uma pegadinha aí, hein? Observem que na alternativa “C” tem a opção 256 para o
+candidato que se esqueceu de excluir a possibilidades de todos os portões estarem fechados.
+
+Gabarito: D
+
+Q.06 (CESGRANRIO - Escriturário (BB) /"Sem Área"/2018)
+  Um professor elaborou 10 questões diferentes para uma prova, das quais 2 são fáceis, 5
+  são de dificuldade média, e 3 são difíceis. No momento, o professor está na fase de
+  montagem da prova. A montagem da prova é a ordem segundo a qual as 10 questões
+  serão apresentadas. O professor estabeleceu o seguinte critério de distribuição das
+  dificuldades das questões, para ser seguido na montagem da prova:
+
+  De quantas formas diferentes o professor pode montar a prova seguindo o critério
+  estabelecido?
+  a) 2520.
+  b) 128.
+  c) 6.
+  d) 1440.
+  e) 252.
+
+Comentários:
+
+Pessoal, nessa questão utilizaremos o Princípio Fundamental da Contagem (PFC).
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   21
+          www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Pelo enunciado temos 10 questões distribuídas da seguinte forma:
+
+   •   2 fácies
+   •   5 médias
+   •   3 difíceis
+
+Aplicando o PFC.
+
+                                      2 1 5 4 3 2 1 3 2 2
+                                      Fácies Médias Difíceis
+
+Fazendo as multiplicações teremos o seguinte:
+
+                                   =2x1x5x4x3x2x1x3x2x1=
+
+                                                 = 2 x 120 x 6 =
+
+                                                    = 1440 =
+
+Gabarito: D
+
+Q.07 (CESGRANRIO / Geólogo (PETROBRAS) / Júnior/2018)
+  Uma Organização sem fins lucrativos decidiu construir 3 estações de monitoramento
+  sísmico, idênticas. Sabe-se que cada estação deverá ficar em um terreno diferente e que
+  a Organização possui um total de 20 terrenos atualmente disponíveis.
+  De quantas formas diferentes essa Organização poderá escolher os 3 terrenos que
+  receberão as estações, dentre os 20 terrenos que possui?
+  a) 8.000.
+  b) 6.840.
+  c) 3.420.
+  d) 1.140.
+  e) 60.
+
+Comentários:
+
+Nessa questão como as 3 estações são idênticas não importa a ordem. Desta forma, utilizaremos
+uma combinação de 20 elementos tomados 3 a 3.
+
+A fórmula da combinação é a seguinte:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   22
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                             𝒏!
+                                              𝑪𝒏,𝒑 =
+                                                        𝒑! (𝒏 − 𝒑)!
+                                            20!       20!      20 ∙ 19 ∙ 18 ∙ 17!
+                             𝐶),,+ =               =         =
+                                       3! (20 − 3)! 3! ∙ 17!    3 ∙ 2 ∙ 1 ∙ 17!
+
+Fazendo as simplificações ficamos com,
+
+                                               𝐶),,+ = 10 ∙ 19 ∙ 6
+
+                                                  𝐶),,+ = 1.140
+
+Gabarito: D
+
+Q.08 (CESGRANRIO / TRANSPETRO / Transporte Marítimo / 2018)
+  De um quadro de profissionais com quatro engenheiros e cinco técnicos pretende-se
+  formar um grupo de cinco profissionais com, pelo menos, um engenheiro e um técnico.
+  Nessas condições, quantas possibilidades diferentes existem de formação desse grupo de
+  cinco profissionais?
+  a) 19.
+  b) 20.
+  c) 120.
+  d) 125.
+  e) 126.
+
+Comentários:
+
+Pessoal, temos os seguintes dados
+
+   •   4 engenheiros;
+   •   5 técnicos;
+   •   Total de 9 profissionais.
+
+Queremos formar um grupo com 5 profissionais, sendo que temos que ter, pelo mesmo, um
+engenheiro e um técnico. Fazendo a combinação de 20 tomados 5 a 5 teremos o seguinte:
+
+                                                             𝒏!
+                                              𝑪𝒏,𝒑 =
+                                                        𝒑! (𝒏 − 𝒑)!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   23
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                             9!       9!     9 ∙ 8 ∙ 7 ∙ 6 ∙ 5!
+                               𝐶-,* =              =       =
+                                        5! (9 − 5)! 5! ∙ 4! 5! ∙ 4 ∙ 3 ∙ 2 ∙ 1
+
+Fazendo as simplificações teremos o seguinte:
+
+                                            𝐶-,* = 9 ∙ 2 ∙ 7 = 126
+
+Com essa combinação total é possível que um dos grupos tenha apenas técnicos, pois temos 5
+técnicos. Desta forma, teremos que eliminar um dos grupos ficando com 125.
+
+Gabarito: D
+
+Q.09 (CESGRANRIO / Administrador Júnior / TRANSPETRO /2018)
+  Um certo time de vôlei possui 15 jogadores: 4 meios de rede, 5 ponteiros, 3 opostos e 3
+  levantadores. Desses jogadores, 12 devem ser relacionados para uma partida, sendo que,
+  dentre os jogadores relacionados, deve haver, pelo menos, 1 levantador, 1 oposto, 2
+  ponteiros e 2 meios de rede para compor o time titular. O treinador deve especificar na
+  súmula quem serão os jogadores titulares e quem serão os reservas.
+  De quantas formas ele pode fazer isso?
+  a) 540.
+  b) 6480.
+  c) 12960.
+  d) 45360.
+  e) 62370.
+
+Comentários:
+
+Nessa questão, temos as seguintes informações:
+
+    •   Total de jogadores = T = 15
+    •   Meio de rede = MR = 4
+    •   Ponteiros = P = 5
+    •   Opostos = O = 3
+    •   Levantadores = L = 3
+
+Desses jogadores, 12 irão para partida. Sendo que, pelo menos, 1 L, 1 O, 2 P, 2 MR deve compor
+o time. Logo, podemos fazer a seguinte representação:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   24
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+       L         O              P                MR                               Outros
+
+Vejam que que o Levantador e o Opostos irão ocupar pelo menos uma posição cada e os Ponteiros
+e Meios de Rede pelo menos duas posições cada. Desta forma, temos que tirar esses jogadores
+primeiro e só depois fazer a combinação com o restante.
+
+     C3,1      C3,1         C5,2                C4,2
+      L         O           P                   MR                               Outros
+
+Vejam que depois que atendemos as condições dadas pela banca irão ficar faltando 6 jogadores
+para compor os outros. Sendo assim, teremos uma combinação de C9,6 (dos 15 jogadores já foram
+selecionados 6 e restaram 9 para escolher os 6 faltantes).
+
+     C3,1      C3,1         C5,2                C4,2                             C9,6
+      L         O           P                   MR                               Outros
+
+Agora que a questão estar estruturada iremos utilizar a fórmula da combinação.
+
+                                                               𝑛!
+                                                 𝐶!,# =
+                                                          𝑝! (𝑛 − 𝑝)!
+
+                                                  3!       3!     3 ∙ 2!
+                                    𝐶+,. =              =       =        =3
+                                             1! (3 − 1)! 1! ∙ 2! 1 ∙ 2!
+
+                                         5!       5!     5 ∙ 4 ∙ 3!
+                           𝐶*,) =              =       =            = 5 ∙ 2 = 10
+                                    2! (5 − 2)! 2! ∙ 3! 2 ∙ 1 ∙ 3!
+
+                                         4!       4!     4 ∙ 3 ∙ 2!
+                           𝐶(,) =              =       =            =2 ∙ 3=6
+                                    2! (4 − 2)! 2! ∙ 2! 2 ∙ 1 ∙ 2!
+
+                                     9!       9!     9 ∙ 8 ∙ 7 ∙ 6!
+                       𝐶-,/ =              =       =                = 3 ∙ 4 ∙ 7 = 84
+                                6! (9 − 6)! 6! ∙ 3! 6! ∙ 3 ∙ 2 ∙ 1
+
+                                         = C3,1 ∙ C3,1∙ C5,2 ∙ C4,2 ∙ C9,6 =
+
+                                               = 3∙ 3 ∙ 10 ∙ 6 ∙ 84 =
+
+                                                       = 45.360 =
+
+OBS: Pessoal, essas combinações poderiam ser feitas pelo atalho. Apenas a C9,6 que seria melhor
+pela fórmula.
+
+Quando temos uma combinação de qualquer número por 1 a resposta é o próprio o número.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   25
+        www.estrategiaconcursos.com.br                                                            92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                      C3,1 = 3
+
+As outras combinações poderiam ter sido feitas da seguinte forma:
+
+                                                           5 ∙ 4
+                                                  𝐶*,) =         = 10
+                                                           2 ∙ 1
+                                                           4 ∙ 3
+                                                  𝐶(,) =         =6
+                                                           2 ∙ 1
+                                                  9 ∙ 8 ∙ 7 ∙ 6 ∙ 5 ∙ 4
+                                         𝐶-,/ =                         =
+                                                  6 ∙ 5 ∙ 4 ∙ 3 ∙ 2 ∙ 1
+
+                                                    =3 ∙ 4 ∙7=
+
+                                                      = 𝟖𝟒 =
+
+Gabarito: D
+
+Questões FGV
+
+Q.01 (FGV / SEFAZ-ES / CONSULTOR / 2022)
+Dois casais irão se sentar em 4 cadeiras consecutivas de uma fila de um cinema.
+O número de maneiras de eles sentarem nas 4 cadeiras, de modo que cada casal se sente
+junto, é igual a
+      a) 4.
+      b) 6.
+      c) 8.
+      d) 12.
+      e) 16.
+Comentários:
+A melhor forma de resolver as questões de Análise Combinatória é se colocar no lugar da
+situação, pense:
+O casal deve se sentar juntos, ok?
+Você olha para os quatros inicialmente e consegue enxergar quantas possibilidades de
+escolha para coloca na primeira cadeira?
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   26
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                            4 possibilidades
+Agora, quando foi escolher o próximo não haverá como escolher visto que deverá ser
+necessariamente o cônjuge do primeiro, ok?
+
+                                             1 possibilidade
+Na terceira cadeira, você terá duas possibilidades e na última cadeira apenas uma, ok?
+Agora, pelo PFC basta multiplicarmos:
+
+                                             =4x1x2x1=
+                                         = 8 possibilidades =
+Gabarito: C
+Q.02 (FGV / SEFAZ-BA / AGENTE DE TRIBUTOS / 2022)
+Quatro pessoas deverão fazer um trabalho de pesquisa sobre certo tema. O trabalho pode
+ser feito individualmente ou em dupla.
+O número de modos diferentes que essas 4 pessoas podem se arrumar para fazer o trabalho
+é
+   a) 6.
+   b) 8.
+   c) 9.
+   d) 10.
+   e) 12.
+Comentários:
+
+                    O trabalho pode ser feito individualmente ou em dupla.
+
+O número de modos diferentes que essas 4 pessoas podem se arrumar para fazer o trabalho
+é:
+
+O conectivo OU deve ser trocado por uma operação de adição, ok?
+Parte 1:
+                                            INDIVIDUALMENTE:
+Só há 04 possibilidades, visto que são 4 pessoas.
+Parte 2:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   27
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                     DUPLA:
+Como a ordem não implicará em um novo agrupamento, temos uma combinação.
+Ou você usa a forma de combinação ou o PFC, mas se lembrem de dividir o resultado por
+2!
+Assim: 4 x 3 = 12 (se fosse arranjo seria essa a resposta), mas como é combinação vamos
+dividir por 2!, portanto temos um total de 06 possibilidades.
+Agora, basta somarmos 06 e 04.
+Gabarito: D
+Q.03 (FGV / EPE / 2022)
+De um grupo composto por cinco homens e cinco mulheres, serão sorteados ao acaso
+dois homens e duas mulheres para formar um subgrupo representativo do grupo.
+O número de diferentes subgrupos que podem ser formados é igual a:
+   a) 60.
+   b) 80.
+   c) 100.
+   d) 120.
+   e) 160.
+Comentários:
+Questão bem simples, ou iremos fazer C5,2 x C5,2, ou pelo PFC dividindo por 2!.
+C5,2 = 10, como são dois subgrupos, logo 10 x 10 = 100
+Gabarito: C
+Q.04 (FGV / Pref. Angra dos Reis / Monitor / 2019)
+O número de filas que pode ser formado com três pessoas, X, Y e Z, é
+(a) 2
+(b) 3
+(c) 4
+(d) 5
+(e) 6
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   28
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Uma simples questão do Princípio Fundamental da Contagem (PFC) que será resolvida apenas por
+multiplicações, ok?
+Não se esqueçam de que o PFC será usado apenas quando a troca interna entre elementos
+determinará um novo grupo, ok?
+Veja que serão formadas FILAS. Nas filas, a simples troca de posição de um elemento com o outro
+determinará uma nova situação, ok?
+Logo, nossa resposta será:
+                                                      = 3∙2∙1=
+                                                        =6=
+Gabarito: E
+Q.05 (FGV / Assembleia Legislativa de RO / Assistente Legislativo / 2018)
+Em um circuito elétrico há 4 disjuntores que podem ficar, cada um deles, independente
+dos demais, nas posições “ligado” ou “desligado”.
+O número de maneiras diferentes de se posicionar (“ligado” ou “desligado”) esses 4
+disjuntores é:
+(a) 4
+(b) 6
+(c) 8
+(d) 12
+(e) 16
+Comentários:
+Temos aqui mais uma questão do PFC. Sabemos que são 04 disjuntores e que so existem
+02 maneiras para cada um estar. Ou ligado ou desligado.
+Logo, nossa resposta é dada por:
+                                                       = 24 =
+                                                       = 16 =
+Gabarito: E
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   29
+         www.estrategiaconcursos.com.br                                                            92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Questões CEBRASPE
+
+
+Q.01 (Cebraspe / Pref. São Cristóvão / Professor / 2019)
+Com relação a sistemas lineares e análise combinatória, julgue o próximo item.
+Situação hipotética: No jogo de basquete, cada um dos cinco jogadores de um time
+pode ocupar as seguintes posições: armador, ala armador, ala, líbero e pivô. O elenco
+do time Alfa é formado por 2 armadores, 2 alas armadores, 3 alas, 2 líberos e 3 pivôs.
+Assertiva: Nessa situação, sabendo-se que em quadra jogam apenas 5 jogadores por
+time e que os demais ficam no banco, é correto afirmar que existem 216 formas distintas
+de montar o time Alfa para iniciar a partida com exatamente um pivô, um armador e um
+ala.
+   • Certo
+   • Errado
+Comentários:
+Vamos separar as informações para não gerar confusão e falta de atenção, no momento
+dos cálculos:
+Total de Jogadores em Quadra: 05
+Posições: armador, ala armador, ala, líbero e pivô
+Elenco do Time: 2 armadores, 2 alas armadores, 3 alas, 2 líberos e 3 pivôs
+Quantas formas distintas existem com: um pivô, um armador e um ala
+Devem figurar no time, necessariamente, no time:
+                                      01 pivô, 01 armador e 01 ala
+                                                = 03 ∙ 02 ∙ 03 =
+                                                      = 18 =
+Como as posições de pivô, armador e ala só podem ter 1 jogador, logo sobram:
+                             2 alas armadores e 2 líberos (4 jogadores).
+As opções para completar as duas últimas posições de quadra são:
+                                               4 ∙ 3 = 12 formas
+                                         No total, temos 18 ∙ 12 =
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   30
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                              216 formas diferentes para montar o time
+Gabarito: Certo
+Q.02 (Cebraspe/ Polícia Federal / Escrivão / 2018)
+Para cumprimento de um mandado de busca e apreensão serão designados um
+delegado, 3 agentes (para a segurança da equipe na operação) e um escrivão. O efetivo
+do órgão que fará a operação conta com 4 delegados, entre eles o delegado Fonseca;
+12 agentes, entre eles o agente Paulo; e 6 escrivães, entre eles o escrivão Estêvão.
+Em relação a essa situação hipotética, julgue o item a seguir.
+Considerando todo o efetivo do órgão responsável pela operação, há mais de 5.000
+maneiras distintas de se formar uma equipe para dar cumprimento ao mandado.
+   • Certo.
+   • Errado.
+Comentários:
+O problema pede que se calcule o número de maneiras distintas de se formar uma equipe com as
+condições dadas.
+Temos um problema cujo agrupamento é determinado por Combinações, visto que a simples troca
+interna de posição entre elementos não determinará um grupo distinto do outro, ok?
+
+
+                                 01 delegado E 03 agentes E 01 escrivão
+        Vejam que iremos trocar os conectivos “E” pela operação de multiplicação, ok?
+
+        A questão ate quis enganar o candidato dando os nomes de alguns elementos,
+        mas isso nada muda, ok?
+
+O número total de possibilidades para a formação da equipe é igual a:
+                                               = 𝐶(,. ∙ 𝐶.),+ ∙ 𝐶/,. =
+Uma Dica para ganhar velocidade:
+Quando o “p” da Cn,p for 1, o resultado será o próprio “n”.
+                                            Logo: C4,1 = 4 e C6,1 = 6
+                                                 = 4 ∙ 𝐶.),+ ∙ 6 =
+                                                  = 4 ∙ 220 ∙ 6 =
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   31
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                     = 5280 =
+
+
+Gabarito: Certo
+Q.03 (Cebraspe/ Papiloscopista POLC-AL / 2023)
+Com relação a tópicos de matemática, julgue o item a seguir.
+Considerando-se que sete executivos de uma empresa devem sentar-se em uma mesa
+circular de forma que o presidente e o vice-presidente da empresa sentem-se lado a
+lado, há 720 formas diferentes para os executivos sentarem-se à mesa.
+C – Certo
+E – Errado
+Comentários:
+A questão trata de Permutação Circular . Para facilitar a vida do concurseiro é importante
+que ele saiba a simples fórmula para resolver esse problema:
+
+               Permutação Circular de “n” elementos é dada por:
+                                                     (n – 1)!
+
+
+Daria para matarmos a questão a partir daí simplesmente porque são 7 executivos, logo se
+não houvesse a condição de presidente e vice ficarem juntos, nossa solução seria dada por:
+                                           Pcircular (7 elementos) = (7 – 1)!
+                                                       = 6! =
+                                                      = 720 =
+No entanto, sabemos que nossa resposta será inferior a esse montante por conta da
+condição, ok? Logo nosso item está errado.
+Porém, meus caros, como o presidente e o vice-presidente devem sentar-se lado a lado ,
+podemos considerá-lo como um único "conjunto" que irá sentar-se junto das outras 5
+pessoas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   32
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+O cálculo então será o da permutação de 6 - 1 = 5 elementos:
+
+
+                                           Pcircular (6 elementos) = (6 – 1)!
+                                                       = 5! =
+                                                      = 120 =
+
+
+Devemos observar ainda que o presidente e o vice-presidente podem permutar entre si,
+o que se dá de 2! maneiras.
+
+
+                                                    = 2! ∙120=
+                                                      = 240 =
+Gabarito: Errado
+
+Q.04 (Cebraspe/ TRT 8ª / 2023)
+Entre seis técnicos judiciários de determinado tribunal, três serão escolhidos para
+compor uma comissão e os outros três serão designados como suplentes.
+Nessa situação hipotética, considerando-se que os seis técnicos judiciários sejam
+igualmente capazes, a quantidade de maneiras em que a distribuição dos técnicos
+poderá ser feita é igual a
+   a) 18.
+   b) 20.
+   c) 216.
+   d) 720.
+   e) 729.
+Comentários:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   33
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                  A nossa primeira preocupação é saber se o
+                                  agrupamento é de Arranjo (ordem importa) ou
+                                  Combinação (ordem NÃO importa).
+
+
+Como funções não foram definidas para cada pessoa, logo a ordem não importa por isso temos
+uma Combinação.
+Temos uma comissão de 3 + outra de 3 também só que de suplentes, podemos organizá-las da
+seguinte forma:
+                                                  = C6,3 ∙ C3,3 =
+                                                    = 20 ∙ 1=
+                                                       = 20
+
+                           Na primeira escolha, há um total de 6 possibilidades das quais
+                           serão escolhidas 3, logo: C6,3.
+
+                           Para os suplentes restaram 3 pessoas para formarem o grupo de
+                           3, portanto: C3,3.
+
+Gabarito: B
+
+
+Q.05 (Cebraspe/ Cadete CBM-TO / 2023)
+Considere que em certo quartel haja sete soldados e cinco cabos disponíveis. A
+quantidade de equipes diferentes de seis pessoas, com três cabos e três soldados, que
+podem ser formadas a partir dos militares disponíveis nesse quartel é igual a:
+   a) 350.
+   b) 665.280.
+   c) 924.
+   d) 2.520.
+Comentários:
+Solução bem simples:
+C/ Fórmulas:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   34
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                  = C7,3 ∙ C5,3 =
+                                                   = 35 ∙ 10 =
+                                                     = 350 =
+
+
+S/ Fórmulas:
+                                                 𝟕∙𝟔∙𝟓 𝟓∙𝟒∙𝟑
+                                             =         ∙      =
+                                                   𝟑!      𝟑!
+                                                  = 35 ∙ 10 =
+                                                     = 350 =
+
+
+Gabarito: A
+
+Questões Diversas
+
+Q.01 (ENEM / 2017)
+Uma empresa construirá sua página na internet e espera atrair um público de aproximadamente
+um milhão de clientes. Para acessar essa página, será necessária uma senha com formato a ser
+definido pela empresa. Existem cinco opções de formato oferecidas pelo programador,
+descritas no quadro, em que “L” e “D” representam, respectivamente, letra maiúscula e dígito.
+
+As letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem
+se repetir em qualquer das opções.
+A empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja
+superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do
+número esperado de clientes.
+A opção que mais se adequa às condições da empresa é:
+ a) I
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   35
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+b) II
+c) III
+d) IV
+e) V
+
+Comentários:
+
+Bem, pessoal, essa é aquela questão do tipo “chatinha e trabalhosa”.
+
+O cara tem que verificar alternativa por alternativa para ver qual se encaixa na restrição dada pelo
+enunciado.
+Nesses tipos de questões, geralmente, a resposta correta está na alternativa “D” ou “E”, a ideia
+do examinador, nesse tipo de questão, não é somente saber se você detém o conhecimento e a
+habilidade para resolução do problemas, ele quer também que você perca tempo fazendo o
+número máximo possível de cálculos e é por isso que as respostas certas sempre estão nas últimas
+alternativas.
+                                                 Vejamos:
+
+
+                       𝟏. 𝟎𝟎𝟎. 𝟎𝟎𝟎 < 𝑻𝒐𝒕𝒂𝒍 𝒅𝒆 𝑺𝒆𝒏𝒉𝒂𝒔 ≤ 𝟐. 𝟎𝟎𝟎. 𝟎𝟎𝟎
+
+Vamos resolver a questão observando a ordem inversa das alternativas e a condição imposta pelo
+enunciado.
+           A resolução será feita pelo Princípio Fundamental da Contagem P.F.C.
+                        Temos 26 letras e 10 algarismos disponíveis.
+
+Na opção (E): L L L D D à 26 ∙ 26 ∙ 26 ∙ 10 ∙ 10 = 1.757.600
+Haahah encontramos logo a resposta, pois o número acima satisfaz de imediato a condição
+imposta. Se você começasse pelo caminho normal de todos os alunos, você demoraria um tempo
+4 vezes maior, pois iria testar as alternativas (A), (B), (C), (D) e somente depois iria achar a condição
+sendo satisfeita na opção (E).
+Apenas 42% dos candidatos acertaram essa questão.
+
+Gabarito: E
+
+
+Questões VUNESP
+
+Q.01(VUNESP / PC-SP / Perito Criminal / 2023)
+
+A seguir são mostrados dois exemplos de anagramas das letras da palavra PERITO. Os
+anagramas exemplos são: RTOPIE, TORIEP. Considere que a lista de todos os anagramas
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático      36
+         www.estrategiaconcursos.com.br                                                               92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+possíveis das letras da palavra PERITO esteja em ordem alfabética. A palavra PERITO, que é
+um desses anagramas, está, nessa lista, na posição de número:
+   a) 412.
+   b) 428.
+   c) 374.
+   d) 286.
+   e) 319.
+
+Comentários:
+
+O examinador deu a dica do que seria anagrama, percebeu?
+
+                           “Os anagramas exemplos são: RTOPIE, TORIEP.”
+
+                        Anagrama é um conjunto de “palavras” que podem ser formadas
+                        com a permutação de letras de uma palavra dada, mas não precisa,
+                        necessariamente ter sentido.
+
+Vamos à questão:
+
+Considere que a lista de todos os anagramas possíveis das letras da palavra PERITO esteja em
+ORDEM ALFABÉTICA. A palavra PERITO, que é um desses anagramas, está, nessa lista, na
+posição de número:
+
+Vamos escrever as letras da palavra PERITO em ordem alfabética:
+
+                                             {E, I, O, P, R, T}
+
+Em ordem alfabética, começando com:
+
+E: 5! = 120
+
+I: 5! = 120
+
+O: 5! = 120
+
+Para chegarmos ao resultado acima, fixamos a primeira letra e permutamos as 5 seguintes, ok?
+
+Logo, a permutação das demais 5 letras é dada por:
+
+                                          5! = 5∙4∙3∙2∙1 = 120
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   37
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   •   Até então temos 360 anagramas antes da palavra PERITO, anulando, portanto, as
+       alternativas “D” e “E” que são inferiores a esse valor, beleza?
+
+Agora, vamos fixar a letra “P” no início dos próximos anagramas, para identificarmos qual a posição
+da palavra PERITO, obedecendo, obviamente, a ordem alfabética:
+
+Vejam que em ordem alfabética, temos:
+
+                                             {E, I, O, P, R, T}
+
+PE _ _ _ _:
+
+   •   Usando a letra “I” (para obedecer a ordem alfabética):
+
+                                             {E, I, O, P, R, T}
+
+PEI_ _ _: 3∙2∙1 = 6 anagramas
+
+   •   Usando a letra “O” (para obedecer a ordem alfabética):
+
+                                             {E, I, O, P, R, T}
+
+PEO_ _ _: 3∙2∙1 = 6 anagramas
+
+Agora, por último, vamos usar a letra “R”:
+
+PERIOT e PERITO
+
+Logo, posição será: 360 + 6 + 6 + 2 = 374º
+
+Gabarito: C
+
+
+Questões Instituto AOCP
+
+Q.01 (PM-PE – Soldado / 2024)
+
+Em uma operação conjunta e simultânea nas favelas do Recife, a Polícia Militar de Pernambuco,
+a Polícia Civil e a Polícia Federal destacaram parte do seu efetivo para a logística da ação. Sabe-
+se que, para essa finalidade, foram destacados 8 policiais militares, 6 policiais civis e 5 federais
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   38
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+para comporem a equipe com 3 policiais militares, 2 civis e 2 federais. De quantas formas essas
+equipes de 7 policiais podem ser montadas a partir dos 19 policiais destacados?
+   a) 8400
+   b) 81
+   c) 50388
+   d) 201600
+   e) 4385
+
+Comentários:
+
+Estamos diante de uma questão de Combinação. Ok?
+
+Reparem que a ordem na composição dos elementos de dentro equipe não implicará em grupos
+distintos. Os grupos serão distintos apenas se trocarmos as suas composições.
+
+   •   Policiais Militares: 8 p/ formar grupos de 3; ou seja: C8,3
+   •   Policiais Civis: 6 p/ formar grupos de 2; C6,2
+   •   Policiais Federais: 5 p/ formar grupos de 2. C5,2
+
+Vejam que as equipes serão formadas por PM e PC e PF, certinho?
+
+Logo, iremos substituir os conectivos “E” por uma operação aritmética de multiplicação, portanto,
+temos que:
+
+                                             = C 8,3 ∙ C6,2 ∙ C5,2 =
+
+                                            8!          6!          5!
+                                   =              ∙           ∙            =
+                                       3! (8 − 3)! 2! (6 − 2)! 2! (5 − 2)!
+
+                                                8!        6!        5!
+                                         =            ∙         ∙          =
+                                             3! ∙ (5)! 2! ∙ (4)! 2! ∙ (3)!
+
+                                                8!        6!        5!
+                                         =            ∙         ∙          =
+                                             3! ∙ (5)! 2! ∙ (4)! 2! ∙ (3)!
+
+                                      8 ∙ 7 ∙ 6 ∙ 5!    6 ∙ 5 ∙ 4!    5 ∙ 4 ∙ 3!
+                                 =                    ∙             ∙              =
+                                     3 ∙ 2 ∙ 1! ∙ (5)! 2 ∙ 1! ∙ (4)! 2 ∙ 1! ∙ (3)!
+
+                                                  8∙7∙6 6∙5 5∙4
+                                              =        ∙   ∙    =
+                                                    6    2   2
+
+                                                  =8∙7∙6∙5∙5=
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   39
+        www.estrategiaconcursos.com.br                                                            92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                           = 8400 possibilidades =
+
+Pessoal, há outra forma mais prática de fazer a questão, conforme ensinei na parte teórica, vejamos:
+
+                                                8∙7∙6 6∙5 5∙4
+                                            =        ∙    ∙    =
+                                                  3!   2!   2!
+
+O numerador da fração é simplesmente determinado pelo PFC, já o denominador é a quantidade
+de elementos que comporão o grupo a ser formado em fatorial, ok?
+
+Gabarito: A
+
+Q.02 (PM-PE – Soldado / 2024)
+
+O comando da Polícia Militar de Pernambuco pretende formar uma equipe para atuar em uma
+operação não rotineira em Recife. Para tanto, determinou que sejam selecionadas 5 pessoas
+das 12 que compõem o grupo de 2º Tenente da PM. O comando também determinou que a
+equipe deveria ser composta obrigatoriamente por homens e mulheres, de modo que a
+quantidade de mulheres seja superior à de homens. De quantas maneiras essa escolha pode
+ser feita se, no grupo de 2º Tenente da PM, o número de homens disponíveis é igual ao número
+de mulheres disponíveis?
+    a) 390
+    b) 5760
+    c) 396
+    d) 27000
+    e) 792
+
+Comentários:
+
+O número de mulheres deverá ser superior ao de homens, logo nossa composição será:
+
+                • 3 mulheres e 2 homens ou 4 mulheres e 1 homem
+
+                                       = C6,3 ∙ C6,2 + C6,4 ∙ C6,1 =
+
+Podemos resolver a expressão anterior efetuando as devidas simplificações, ou simplesmente
+faremos pelo método mais prático e rápido:
+
+                                          6∙5∙4 6∙5 6∙5∙4∙3 6
+                                      =        ∙    +      ∙ =
+                                            3!   2!    4!   1!
+
+                                                = 20 ∙ 15 + 15 ∙ 6=
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   40
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                   = 300 + 90 =
+
+                                             = 390 possibilidades =
+
+Percebam que usamos a operação de adição simplesmente porque o grupo poderá ser formado
+por 3 mulheres e 2 homens ou 4 mulheres e 1 homem.
+
+
+Sendo assim, substituímos o conectivo ou por uma adição, ok?
+
+Gabarito: A
+
+Q.03 (PM-DF – Soldado / 2023)
+
+Certa receita pedia que fossem usados “tomates” no preparo de certo alimento, sem mais
+instruções. Um homem, que nunca havia cozinhado, teve várias dúvidas sobre o preparo e
+percebeu que não havia uma forma única de se usar os tomates. Ao ir ao supermercado, viu
+que havia a opção de comprar “tomate cereja”, “tomate saladete” e “tomate longa vida”. Em
+casa, ficou em dúvida se deixaria com ou sem pele, da mesma forma que não sabia se deixava
+as sementes ou retirava. Se considerarmos todas as maneiras de se cozinhar, desde a escolha
+do tipo de tomate, escolher deixar ou retirar a pele, deixar ou retirar as sementes, quantas são
+essas maneiras?
+    a) 12
+    b) 9
+    c) 7
+    d) 6
+    e) 3
+
+Comentários:
+
+Bem, gente, essa questão pode ser resolvida de duas formas, mas ambas pelo PFC, vejamos:
+
+Forma 1:
+
+Temos:
+
+     3 tipos de tomates E 2 opções (c/ ou s/ pele) E 2 opções (c/ ou s/ semente)
+
+Vimos na parte teórica que o conectivo “E” deve ser substituído por uma multiplicação, portanto:
+
+                                                    = 3 ∙2 ∙2 =
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   41
+         www.estrategiaconcursos.com.br                                                            92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                            = 12 possibilidades =
+
+Forma 2:
+
+Vamos usar:
+
+               Tomate Cereja OU Tomate Saladete OU Tomate Longa Vida
+
+Trocamos o conectivo “OU” por uma operação de adição, no entanto, para cada tipo de tomate
+temos 4 possibilidades distintas de escolhas, logo:
+
+                                                  =4+4+4=
+
+                                            = 12 possibilidades =
+
+Gabarito: A
+
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+
+Questões CESGRANRIO
+
+
+Q.01 (Técnico - CMB / 2024)
+Em uma vitrine de uma loja estão expostos 5 camisas, 2 calças, 1 saia e 2 pares de sapatos.
+
+De quantas maneiras diferentes é possível um cliente se vestir usando 3 peças, sem usar saia e
+calça ao mesmo tempo?
+a) 10
+b) 15
+c) 30
+d) 35
+e) 40
+
+Q.02 (Analista Bancário - BNB / 2024)
+Em uma agência bancária, há 4 funcionários que atuam na gerência de atendimento ao cliente
+e 5 funcionários que atuam na gerência administrativa. Um grupo de 5 funcionários dessa
+agência deve ser formado para participar de uma reunião, atendendo-se à seguinte restrição:
+2 atuando na gerência de atendimento ao cliente, e os 3 restantes, na gerência administrativa.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   42
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Qual o número máximo de grupos diferentes que poderiam ser formados, atendendo-se a tal
+restrição?
+   a) 12
+   b) 24
+   c) 60
+   d) 120
+   e) 720
+
+Q.04 (Escriturário - BANRISUL / 2023)
+Um investidor muito supersticioso escolhe, mensalmente, um conjunto de três tipos de
+investimento para aplicar alguma quantia. Ele toma por regra dispor apenas dos mesmos nove
+tipos de investimentos e nunca repetir, em um mesmo mês, o mesmo conjunto de três tipos já
+usados em qualquer mês anterior. Por exemplo, se no 1o mês ele escolheu os investimentos de
+tipos A, B e C; no 2o mês, A, B e D; e no 3o mês, E, F e G, então ele não poderá investir
+novamente, num mesmo mês, por exemplo, no conjunto dos investimentos de tipos A, B e C,
+por já tê-lo usado no 1o mês.
+
+Considerando-se as condições descritas, o número máximo de meses em que o investidor
+poderá fazer esses investimentos é
+  a) 84
+  b) 60
+  c) 56
+  d) 48
+  e) 35
+
+Q.05 (CESGRANRIO / PETROBRAS / Petróleo Júnior / 2018)
+  Uma arena esportiva possui exatamente 8 portões, numerados de 1 a 8. Essa arena é
+  considerada aberta se, e somente se, pelo menos um dos seus portões estiver aberto. Por
+  exemplo, seguem três maneiras diferentes de se ter essa arena aberta:
+      •     Quando apenas o portão 3 está aberto;
+      •     Quando apenas o portão 6 está aberto;
+      •     Quando apenas os portões 3, 7 e 8 estão abertos.
+  O número total de maneiras diferentes de se ter essa arena aberta é:
+  a) 40.320.
+  b) 40.319.
+  c) 256.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   43
+          www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+  d) 255.
+  e) 36.
+Q.06 (CESGRANRIO - Escriturário (BB) /"Sem Área"/2018)
+  Um professor elaborou 10 questões diferentes para uma prova, das quais 2 são fáceis, 5
+  são de dificuldade média, e 3 são difíceis. No momento, o professor está na fase de
+  montagem da prova. A montagem da prova é a ordem segundo a qual as 10 questões
+  serão apresentadas. O professor estabeleceu o seguinte critério de distribuição das
+  dificuldades das questões, para ser seguido na montagem da prova:
+
+  De quantas formas diferentes o professor pode montar a prova seguindo o critério
+  estabelecido?
+  a) 2520.
+  b) 128.
+  c) 6.
+  d) 1440.
+  e) 252.
+Q.07 (CESGRANRIO / Geólogo (PETROBRAS) / Júnior/2018)
+  Uma Organização sem fins lucrativos decidiu construir 3 estações de monitoramento
+  sísmico, idênticas. Sabe-se que cada estação deverá ficar em um terreno diferente e que
+  a Organização possui um total de 20 terrenos atualmente disponíveis.
+  De quantas formas diferentes essa Organização poderá escolher os 3 terrenos que
+  receberão as estações, dentre os 20 terrenos que possui?
+  a) 8.000.
+  b) 6.840.
+  c) 3.420.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   44
+          www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+  d) 1.140.
+  e) 60.
+Q.08 (CESGRANRIO / TRANSPETRO / Transporte Marítimo / 2018)
+  De um quadro de profissionais com quatro engenheiros e cinco técnicos pretende-se
+  formar um grupo de cinco profissionais com, pelo menos, um engenheiro e um técnico.
+  Nessas condições, quantas possibilidades diferentes existem de formação desse grupo de
+  cinco profissionais?
+  a) 19.
+  b) 20.
+  c) 120.
+  d) 125.
+  e) 126.
+
+
+Q.09 (CESGRANRIO / Administrador Júnior / TRANSPETRO /2018)
+  Um certo time de vôlei possui 15 jogadores: 4 meios de rede, 5 ponteiros, 3 opostos e 3
+  levantadores. Desses jogadores, 12 devem ser relacionados para uma partida, sendo que,
+  dentre os jogadores relacionados, deve haver, pelo menos, 1 levantador, 1 oposto, 2
+  ponteiros e 2 meios de rede para compor o time titular. O treinador deve especificar na
+  súmula quem serão os jogadores titulares e quem serão os reservas.
+  De quantas formas ele pode fazer isso?
+  a) 540.
+  b) 6480.
+  c) 12960.
+  d) 45360.
+  e) 62370.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   45
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Gabarito - CESGRANRIO
+
+    1            2          3           4            5           6          7           8          9   10
+    C            C          C           A            D           D          D           D          D
+
+Questões FGV
+
+Q.01 (FGV / SEFAZ-ES / CONSULTOR / 2022)
+Dois casais irão se sentar em 4 cadeiras consecutivas de uma fila de um cinema.
+O número de maneiras de eles sentarem nas 4 cadeiras, de modo que cada casal se sente
+junto, é igual a
+        a) 4.
+        b) 6.
+        c) 8.
+        d) 12.
+        e) 16.
+Q.02 (FGV / SEFAZ-BA / AGENTE DE TRIBUTOS / 2022)
+Quatro pessoas deverão fazer um trabalho de pesquisa sobre certo tema. O trabalho pode
+ser feito individualmente ou em dupla.
+O número de modos diferentes que essas 4 pessoas podem se arrumar para fazer o trabalho
+é
+   a) 6.
+   b) 8.
+   c) 9.
+   d) 10.
+   e) 12.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático            46
+         www.estrategiaconcursos.com.br                                                                     92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Q.03 (FGV / EPE / 2022)
+De um grupo composto por cinco homens e cinco mulheres, serão sorteados ao acaso
+dois homens e duas mulheres para formar um subgrupo representativo do grupo.
+O número de diferentes subgrupos que podem ser formados é igual a
+   a) 60.
+   b) 80.
+   c) 100.
+   d) 120.
+   e) 160.
+Q.04 (FGV / Pref. Angra dos Reis / Monitor / 2019)
+O número de filas que pode ser formado com três pessoas, X, Y e Z, é
+   a) 2
+   b) 3
+   c) 4
+   d) 5
+   e) 6
+
+
+Q.05 (FGV / Assembleia Legislativa de RO / Assistente Legislativo / 2018)
+Em um circuito elétrico há 4 disjuntores que podem ficar, cada um deles, independente
+dos demais, nas posições “ligado” ou “desligado”.
+O número de maneiras diferentes de se posicionar (“ligado” ou “desligado”) esses 4
+disjuntores é:
+   a) 4
+   b) 6
+   c) 8
+   d) 12
+   e) 16
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   47
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Gabarito - FGV
+
+                                 1           2           3           4            5
+                                 C           D           C           E            E
+
+Questões CEBRASPE
+
+
+Q.01 (Cebraspe / Pref. São Cristóvão / Professor / 2019)
+Com relação a sistemas lineares e análise combinatória, julgue o próximo item.
+Situação hipotética: No jogo de basquete, cada um dos cinco jogadores de um time
+pode ocupar as seguintes posições: armador, ala armador, ala, líbero e pivô. O elenco
+do time Alfa é formado por 2 armadores, 2 alas armadores, 3 alas, 2 líberos e 3 pivôs.
+Assertiva: Nessa situação, sabendo-se que em quadra jogam apenas 5 jogadores por
+time e que os demais ficam no banco, é correto afirmar que existem 216 formas distintas
+de montar o time Alfa para iniciar a partida com exatamente um pivô, um armador e um
+ala.
+   • Certo
+   • Errado
+Q.02 (Cebraspe/ Polícia Federal / Escrivão / 2018)
+Para cumprimento de um mandado de busca e apreensão serão designados um
+delegado, 3 agentes (para a segurança da equipe na operação) e um escrivão. O efetivo
+do órgão que fará a operação conta com 4 delegados, entre eles o delegado Fonseca;
+12 agentes, entre eles o agente Paulo; e 6 escrivães, entre eles o escrivão Estêvão.
+Em relação a essa situação hipotética, julgue o item a seguir.
+Considerando todo o efetivo do órgão responsável pela operação, há mais de 5.000
+maneiras distintas de se formar uma equipe para dar cumprimento ao mandado.
+   • Certo.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   48
+        www.estrategiaconcursos.com.br                                                            92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   • Errado.
+
+
+Q.03 (Cebraspe/ Papiloscopista POLC-AL / 2023)
+Com relação a tópicos de matemática, julgue o item a seguir.
+Considerando-se que sete executivos de uma empresa devem sentar-se em uma mesa
+circular de forma que o presidente e o vice-presidente da empresa sentem-se lado a
+lado, há 720 formas diferentes para os executivos sentarem-se à mesa.
+C – Certo
+E – Errado
+
+
+Q.04 (Cebraspe/ TRT 8ª / 2023)
+Entre seis técnicos judiciários de determinado tribunal, três serão escolhidos para
+compor uma comissão e os outros três serão designados como suplentes.
+Nessa situação hipotética, considerando-se que os seis técnicos judiciários sejam
+igualmente capazes, a quantidade de maneiras em que a distribuição dos técnicos
+poderá ser feita é igual a
+   a) 18.
+   b) 20.
+   c) 216.
+   d) 720.
+   e) 729.
+
+
+Q.05 (Cebraspe/ Cadete CBM-TO / 2023)
+Considere que em certo quartel haja sete soldados e cinco cabos disponíveis. A
+quantidade de equipes diferentes de seis pessoas, com três cabos e três soldados, que
+podem ser formadas a partir dos militares disponíveis nesse quartel é igual a:
+   a) 350.
+   b) 665.280.
+   c) 924.
+   d) 2.520.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   49
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Gabarito - CEBRASPE
+
+    1          2           3           4            5           6           7           8         9   10
+    C          C           E           B            E
+
+Questões Diversas
+
+
+Q.01 (ENEM / 2017)
+Uma empresa construirá sua página na internet e espera atrair um público de aproximadamente
+um milhão de clientes. Para acessar essa página, será necessária uma senha com formato a ser
+definido pela empresa. Existem cinco opções de formato oferecidas pelo programador,
+descritas no quadro, em que “L” e “D” representam, respectivamente, letra maiúscula e dígito.
+
+As letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem
+se repetir em qualquer das opções.
+A empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja
+superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do
+número esperado de clientes.
+A opção que mais se adequa às condições da empresa é:
+    a) I
+    b) II
+    c) III
+    d) IV
+    e) V
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático            50
+        www.estrategiaconcursos.com.br                                                                     92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Gabarito – Questões Diversas
+
+                                                         1
+                                                         E
+
+Questões VUNESP
+
+Q.01(VUNESP / PC-SP / Perito Criminal / 2023)
+
+A seguir são mostrados dois exemplos de anagramas das letras da palavra PERITO. Os
+anagramas exemplos são: RTOPIE, TORIEP. Considere que a lista de todos os anagramas
+possíveis das letras da palavra PERITO esteja em ordem alfabética. A palavra PERITO, que é
+um desses anagramas, está, nessa lista, na posição de número:
+   a) 412.
+   b) 428.
+   c) 374.
+   d) 286.
+   e) 319.
+
+
+Gabarito – VUNESP
+
+                                                         1
+                                                         C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   51
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Questões Instituto AOCP
+
+Q.01 (PM-PE – Soldado / 2024)
+
+Em uma operação conjunta e simultânea nas favelas do Recife, a Polícia Militar de Pernambuco,
+a Polícia Civil e a Polícia Federal destacaram parte do seu efetivo para a logística da ação. Sabe-
+se que, para essa finalidade, foram destacados 8 policiais militares, 6 policiais civis e 5 federais
+para comporem a equipe com 3 policiais militares, 2 civis e 2 federais. De quantas formas essas
+equipes de 7 policiais podem ser montadas a partir dos 19 policiais destacados?
+   a) 8400
+   b) 81
+   c) 50388
+   d) 201600
+   e) 4385
+
+Q.02 (PM-PE – Soldado / 2024)
+
+O comando da Polícia Militar de Pernambuco pretende formar uma equipe para atuar em uma
+operação não rotineira em Recife. Para tanto, determinou que sejam selecionadas 5 pessoas
+das 12 que compõem o grupo de 2º Tenente da PM. O comando também determinou que a
+equipe deveria ser composta obrigatoriamente por homens e mulheres, de modo que a
+quantidade de mulheres seja superior à de homens. De quantas maneiras essa escolha pode
+ser feita se, no grupo de 2º Tenente da PM, o número de homens disponíveis é igual ao número
+de mulheres disponíveis?
+    a) 390
+    b) 5760
+    c) 396
+    d) 27000
+    e) 792
+
+Q.03 (PM-DF – Soldado / 2023)
+
+Certa receita pedia que fossem usados “tomates” no preparo de certo alimento, sem mais
+instruções. Um homem, que nunca havia cozinhado, teve várias dúvidas sobre o preparo e
+percebeu que não havia uma forma única de se usar os tomates. Ao ir ao supermercado, viu
+que havia a opção de comprar “tomate cereja”, “tomate saladete” e “tomate longa vida”. Em
+casa, ficou em dúvida se deixaria com ou sem pele, da mesma forma que não sabia se deixava
+as sementes ou retirava. Se considerarmos todas as maneiras de se cozinhar, desde a escolha
+do tipo de tomate, escolher deixar ou retirar a pele, deixar ou retirar as sementes, quantas são
+essas maneiras?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   52
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   a) 12
+   b) 9
+   c) 7
+   d) 6
+   e) 3
+
+Gabarito – Instituto AOCP
+
+                                             1           2           3
+                                             A           A           A
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   53
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+   Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                 PROBABILIDADE
+Sumário
+
+   O que é mais cobrado dentro do assunto 
+
+Roteiro de revisão e pontos do assunto que merecem destaque 
+
+   Probabilidade 
+
+      Tipos de Probabilidades 
+
+   Teorema de Bayes 
+
+Pegadinhas Estratégicas 
+
+Questões estratégicas 
+
+   Questões CEBRASPE 
+
+   Questões FGV 
+
+   Questões FCC 
+
+Lista de Questões Estratégicas
+
+   Questões CEBRASPE 
+
+   Gabarito - CEBRASPE 
+
+   Questões FGV 
+
+   Gabarito - FGV 
+
+   Questões FCC 
+
+   Gabarito - FCC 
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                             54
+           www.estrategiaconcursos.com.br                                                                                                      92
+
+                                              
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+O que é mais cobrado dentro do assunto
+
+Vamos analisar agora como se comporta a incidência dos sub assuntos da nossa aula de hoje.
+Assim, você será melhor direcionado nos seus estudos, vejam:
+
+                                                                                                   Grau de
+                                    Probabilidade
+                                                                                                  incidência
+        PROBLEMAS INTRODUTÓRIOS DE PROBABILIDADE                                                    46,9%
+              PROBABILIDADE DA INTERSERCÇÃO                                                         15,5%
+   CÁLCULO DE PROBABILIDADE USANDO ANÁLISE COMBINATÓRIA                                             13,3%
+                  PROBABILIDADE DA UNIÃO                                                            13,3%
+                PROBABILIDADE CONDICIONAL                                                            6,6%
+         PROBABILIDADE DO EVENTO COMPLEMENTAR                                                        4,4%
+                          TOTAL                                                                    100,00%
+
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto
+e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os passos a seguir:
+
+
+Probabilidade
+
+Fala, gente, beleza?
+
+Estamos aqui diante de um assunto que muitas vezes exige do candidato um nível um pouco mais
+aguçado de interpretações, mas que, ao mesmo, também, é o assunto que possui as questões
+mais fáceis de serem resolvidas.
+
+Se você é um aluno iniciante da matemática, fique bem atento aos conceitos básicos da
+Probabilidade, pois eles poderão garantir umas questões a mais em seu certame, ok?
+
+Faça o básico nesse conteúdo, quando as questões são muito difíceis há um nivelamento pra baixo
+no nível do conteúdo, visto que, muito possivelmente, até o candidato que sabe bastante do
+assunto poderá errar a questão.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                55
+        www.estrategiaconcursos.com.br                                                                         92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+               Os candidatos focam suas preocupações em decorar as fórmulas desse
+               assunto, que não são poucas, mas e se eu lhe disser que vamos resolver
+               todas as questões sem fórmulas, você ficará mais feliz? ;)
+
+                  Então, é isso que vamos fazer. Carga máxima!! Sua hora vai chegar!!
+
+Precisamos saber o conceito matemática de probabilidade que será representado por uma fração,
+vejam:
+
+Qual a Probabilidade de sair o número 4 no lançamento de um dado?
+
+Sua resposta é, ou não, intuitiva?
+
+                                                         𝟏
+                                                     =     =
+                                                         𝟔
+De imediato, temos a resposta na nossa cabeça. Basicamente, Probabilidade é:
+
+
+                                           𝑶 𝒒𝒖𝒆 𝑽𝒐𝒄ê 𝑸𝒖𝒆𝒓 𝑨𝒄𝒐𝒏𝒕𝒆ç𝒂
+                             𝑷(𝑬) =
+                                         𝑫𝒊𝒂𝒏𝒕𝒆 𝒅𝒐 𝒒𝒖𝒆 𝑷𝒐𝒅𝒆 𝑨𝒄𝒐𝒏𝒕𝒆𝒄𝒆𝒓
+
+
+Considerando que devemos usar os nomes técnicos das coisas, logo:
+
+
+                                                     𝑬𝑽𝑬𝑵𝑻𝑶
+                                     𝑷(𝑬) =
+                                                 𝑬𝑺𝑷𝑨Ç𝑶 𝑨𝑴𝑶𝑺𝑻𝑹𝑨𝑳
+
+
+                             EVENTO                           ESPAÇO AMOSTRAL
+                  É o conjunto formado por aquilo             É o conjunto formado por tudo
+                    que você quer que aconteça                  aquilo que possa acontecer
+
+Fica mais fácil de entender assim né? Rsrsrs... tamos cheios de linguagens técnicas rebuscadas que
+somente os autores entendem... ;)
+
+Sim, a última coisa que vocês precisam saber eu até já falei na aula de Análise Combinatória, mas
+vamos lembrar:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   56
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                Nas questões de Análise Combinatória e Probabilidade vale o
+                                seguinte:
+
+                                O uso do conectivo “e” será substituído por uma operação de
+                                multiplicação.
+
+                                O uso do conectivo “ou” será substituído por uma operação de
+                                adição.
+
+                                                           E                 Multiplicação
+                       Conectivo
+                                                          OU                     Adição
+
+
+Pegando o mesmo exemplo sobre o lançamento do dado, para entendermos o uso dos conectivos:
+
+Se eu perguntasse a probabilidade de sair um número par ou ímpar?
+
+   •   Sair par: 1/2
+   •   Sair ímpar: 1/2
+                                𝟏       𝟏
+   •   Sair par OU ímpar:           +       = 1= 100%.
+                                𝟐       𝟐
+
+Agora, se a perguntasse fosse: em dois lançamentos consecutivos de um dado, qual a
+probabilidade de sair par no primeiro lançamento e ímpar no segundo?
+
+   •   Sair par: 1/2
+   •   Sair ímpar: 1/2
+                            𝟏       𝟏        𝟏
+   •   Sair par E ímpar:        ∙       =        = 25%
+                            𝟐       𝟐        𝟒
+
+Vamos, agora, dar um exemplo que envolve logo tudo o que falei acima, ok?
+
+Se você entender direitinho, acabou o assunto. Caso contrário, passem para as Questões
+Estratégicas para dar uma treinada nas questões mais simples, beleza?
+
+        EXEMPLO 01:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   57
+        www.estrategiaconcursos.com.br                                                            92
+
+                                        
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+        Um morador de uma região metropolitana tem 50% de probabilidade de
+        atrasar-se para o trabalho quando chove na região; caso não chova, sua
+        probabilidade de atraso é de 25%. Para um determinado dia, o serviço de
+        meteorologia estima em 30% a probabilidade de ocorrência de chuva na
+        região.
+
+        Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o
+        qual foi dada a estimativa de chuva?
+
+Comentários:
+
+Vejam que não iremos usar fórmulas. Bastará apenas usar o conceito de probabilidade e os
+conectivos.
+
+                                          ATRASAR NÃO ATRASAR
+                                 CHOVER     50%       50%
+                               NÃO CHOVER   25%       75%
+
+   Para um determinado dia, o serviço de meteorologia estima em 30% a probabilidade de
+                              ocorrência de chuva na região.
+
+Sabe-se que existe a probabilidade de 30% de chover, logo 70% de não chover.
+
+                                         PERGUNTA DA QUESTÃO
+
+        Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o
+        qual foi dada a estimativa de chuva?
+
+Percebam que o atraso existe chovendo ou não chovendo, ou seja:
+
+                                              Temos duas situações:
+
+
+               Chove (30%) e (MULTIPLICA) ele atrasa (50%) C/ a chuva ou (SOMA) Não
+                         chove (70%) e (MULTIPLICA) ele atrasa (25%) S/ chuva.
+
+                                               𝟑𝟎 𝟓𝟎   𝟕𝟎 𝟐𝟓
+                                          =      ∙   +   ∙    =
+                                              𝟏𝟎𝟎 𝟏𝟎𝟎 𝟏𝟎𝟎 𝟏𝟎𝟎
+
+                                                = 𝟎, 𝟏𝟓 + 𝟎, 𝟏𝟕𝟓 =
+
+                                                    = 𝟎, 𝟑𝟐𝟓 =
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   58
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                    = 32,5% =
+
+        EXEMPLO 02:
+
+        Numa avenida existem 10 semáforos. Por causa de uma pane no sistema, os
+        semáforos ficaram sem controle durante uma hora, e fixaram suas luzes
+        unicamente em verde ou vermelho. Os semáforos funcionam de forma
+                                                                                   𝟐
+        independente; a probabilidade de acusar a cor verde é de e a de acusar a cor
+                                                                                   𝟑
+                             𝟏
+        vermelha é de . Uma pessoa percorreu a pé toda essa avenida durante o
+                             𝟑
+        período da pane, observando a cor da luz de cada um desses semáforos. Qual
+        a probabilidade de que esta pessoa tenha observado exatamente um sinal na
+        cor verde?
+
+Comentários:
+
+Gente, observem logo que ele não falou que seria exatamente “apenas” um sinal em específico,
+mas que seria exatamente um sinal na cor verde.
+Isso impacta diretamente no resultado da questão.
+Percebam se ele pedisse a probabilidade de o 1º sinal ser verde, teríamos o seguinte:
+                                            2 1 $
+                                          = ∙- / =
+                                            3 3
+
+                                               2
+                                                  =    =
+                                              3%&
+No entanto, qualquer (desde que seja apenas 01) um dos dez sinais pode estar verde, logo
+devemos multiplicar a resposta acima por 10, vejam:
+
+                                                        𝟐
+                                                   =       ∙ 𝟏𝟎 =
+                                                       𝟑𝟏𝟎
+
+Tipos de Probabilidades
+
+Tem uma fórmula para cada tipo, mas não precisa decorar, conforme falei antes, ok?
+
+                                           PROBABILIDADES
+        CONDICIONAL                          DA INTERSERCÇÃO                            DA UNIÃO
+                                        P/ termos a probabilidade da             Basta usarmos aqui a ideia
+ Determinada condição que é
+                                        interseção, devemos apenas                  da união entre dois
+  conhecida à priori, isto é,
+                                         isolar o termo presente na                conjuntos, conforme
+    antes de se calcular a
+                                          fórmula da Probabilidade                aprendemos na aula de
+  probabilidade do evento
+                                                 Condicional                       Teoria dos Conjuntos
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático               59
+        www.estrategiaconcursos.com.br                                                                        92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                   𝑷(𝑨 ∩ 𝑩)
+      𝑷(𝑨|𝑩) =                          𝑷(𝑨 ∩ 𝑩) = 𝑷(𝑨|𝑩) ∙ 𝑷(𝑩)               𝑷(𝑨 ∪ 𝑩) = 𝑷(𝑨) + 𝑷(𝑩) − 𝑷(𝑨 ∩ 𝑩)
+                    𝑷(𝑩)
+
+
+Vamos fazer todas as questões a seguir sem o uso dessas danadas ai de cima, ok?
+
+E, por fim, a Probabilidade de determinado Evento acontecer sempre estará no intervalo de 0 a 1,
+ok?
+
+Sendo 1, teremos o Evento chamado de Certo.
+
+Sendo 0, o Evento será impossível.
+
+
+Teorema de Bayes
+
+O Teorema de Bayes é uma aplicação da probabilidade condicional, bastante utilizado em
+questões que tratam de margem de erro em um resultado ou valores de falso positivo.
+
+Assim, o Teorema de Bayes busca conciliar essa probabilidade a priori com a probabilidade
+condicional.
+
+Portanto, não precisamos entender o Teorema de Bayes como se fosse um novo assunto, podemos
+utilizar, também, a mesma ideia da resolução pela probabilidade condicional, utilizando a
+multiplicação, quando do uso do conectivo “e”.
+
+
+                              PEGADINHAS ESTRATÉGICAS
+
+Querido aluno, cada assertiva abaixo contém uma "casca de banana" – será que você
+vai escorregar em alguma? (rs)
+
+A ideia aqui é induzi-lo levemente a cometer erros, não com o intuito de desanimá-lo,
+mas para que você aumente a retenção do conteúdo estudado!
+
+Vamos lá?
+
+1. Sabe-se que a probabilidade tem como finalidade o estudo da possibilidade ou chance de
+acontecer um determinado evento. Para calcular a probabilidade de ocorrência de um evento
+X, em um determinado evento aleatório, considerando que cada elemento não possui a mesma
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático               60
+        www.estrategiaconcursos.com.br                                                                        92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+chance de acontecer, basta determinar fração entre os resultados possíveis pelos resultados
+favoráveis.
+Esse item foi colocado apenas para conceituar a probabilidade. A probabilidade tem como
+finalidade o estudo da possibilidade ou chance de ocorrer um determinado evento. E para calcular
+a probabilidade de um evento qualquer X, em um experimento aleatório, considerando que cada
+elemento possui a mesma chance de acontecer, basta determinar a fração entre os resultados
+favoráveis pelos resultados possíveis.
+A probabilidade tem valor máximo de 100% quando o evento é certo e zero quando o evento é
+impossível. Desta forma, ela só pode assumir valores entre 0 e 1 (0 ≤ P(X) ≤1).
+
+
+2. Dizemos que dois eventos são mutuamente excludentes quando a chance de ocorrência ou
+não ocorrência de um deles não afeta a probabilidade de outro. Além disso, a soma de dois
+eventos nesse tipo de probabilidade é sempre igual a zero.
+Nesse item, houve uma troca de conceitos, pois será um evento independente. Além disso, a soma
+das probabilidades de dois eventos mutuamente excludentes é sempre igual a 1.
+Pessoal, resolvemos fazer um resumo dos tipos de probabilidade para este item. É muito
+importante ter essas probabilidades e fórmulas na mente na hora da prova.
+1) Probabilidade da intersecção – quando a chance de ocorrência conjunta de dois ou mais
+eventos. Nesse caso, os eventos serão ligados pelo convectivo “e”.
+                                            𝑃(𝐴 𝑒 𝐵) = 𝑃(𝐴). 𝑃(𝐵|𝐴)
+Sendo P(B|A) a probabilidade de ocorrer o evento B sabendo que o evento A já ocorreu.
+2) Probabilidade de eventos interdependentes – dois eventos (A e B) são considerados
+independentes quando a chance de ocorrência ou não ocorrência de um deles não afeta a
+probabilidade de ocorrência do outro. Essa probabilidade é dada pela multiplicação das
+probabilidades de cada evento.
+                                             𝑃(𝐴 𝑒 𝐵) = 𝑃(𝐴). 𝑃(𝐵)
+3) Probabilidade de eventos mutuamente excludentes – dois eventos (A e B) são considerados
+mutuamente excludentes (exclusivos) se eles não podem ocorrer simultaneamente. Desta forma,
+se dois eventos são mutualmente excludentes termos o seguinte:
+   •   P(A|B) = 0 à probabilidade de A ocorrer dado que B ocorreu é 0;
+   •   P(B|A) = 0 à probabilidade de B ocorrer dado que A ocorreu é 0;
+   •   P(A e B) = 0 à probabilidade de A e B ocorrerem simultaneamente é 0;
+   •   P(A) + P(B) = 1 à a soma das probabilidades de A e B será sempre 100%.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   61
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+4) Probabilidade da união e dois eventos – quando dois eventos estão ligados entre si pelo
+conectivo “ou”.
+                                    𝑃(𝐴 𝑜𝑢 𝐵) = 𝑃(𝐴) + 𝑃(𝐵) − 𝑃(𝐴 𝑒 𝐵)
+Se A e B forem mutualmente excludentes a probabilidade da união fica reduzida a:
+                           𝑃(𝐴 𝑜𝑢 𝐵) = 𝑃(𝐴) + 𝑃(𝐵)
+Pois, como vimos P(A e B) é igual a zero para eventos mutuamente excludentes.
+5) Probabilidade do evento complementar – dois eventos são complementares quando,
+simultaneamente, a união dos dois eventos resulta no espaço amostral, e eles são mutuamente
+excludentes. De forma geral é representado por uma barra em cima da letra.
+                                                𝑃(𝐴) + 𝑃(𝐴̅) = 1
+Na resolução das questões, quando aparece a expressão “pelo menos 1” é mais fácil calcular a
+probabilidade do evento complementar.
+6) probabilidade Condicional – quando se deseja calcular a probabilidade de um evento A, dado
+que o evento B ocorreu. Essa probabilidade é representada por P(A|B).
+                                                           𝑃(𝐴 𝑒 𝐵)
+                                               𝑃(𝐴|𝐵) =
+                                                            𝑃(𝐵)
+Quando os eventos A e B são independentes, a probabilidade de o evento A ocorrer dado que
+ocorreu B, será sempre igual a P(A), pois A não depende de B. O contrário é verdadeiro.
+                                                 𝑃(𝐴|𝐵) = 𝑃(𝐴)
+                                                 𝑃(𝐵|𝐴) = 𝑃(𝐵)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   62
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+Questões CEBRASPE
+
+Q.01 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue
+A probabilidade de se acertar os 6 números sorteados na Mega Sena com a aposta de um
+                                         𝟓𝟒!
+volante com 6 números é igual a
+                                         𝟔𝟎!
+
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+Vamos lá:
+Evento: 01 volante
+Espaço Amostral: Combinação de 60 bolas 6 a 6.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   63
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Temos uma combinação visto que a ordem pouco importará no resultado do sorteio, tanto faz o
+número 12, por exemplo, ser o 1º ou 6º sorteado.
+                                         $%!               𝟔𝟎!
+Espaço Amostral = 𝐶$%,$ =                             =            (espaço amostral)
+                                   $!($%)$)!              𝟔!∙𝟓𝟒!
+Pessoal, eu não fiz as simplificações acima, visto que a questão nos dá como referencial esse valor
+𝟓𝟒!
+   .
+𝟔𝟎!
+                                      Probabilidade do Evento
+                                                                 𝟏
+                                                           =    𝟔𝟎!     =
+                                                               𝟔!∙𝟓𝟒!
+
+                                                           𝟔! ∙ 𝟓𝟒!
+                                                       =            =
+                                                             𝟔𝟎!
+                                  𝟔!∙𝟓𝟒!       𝟓𝟒!
+                 Comparando                a         vemos claramente que o item está errado.
+                                   𝟔𝟎!         𝟔𝟎!
+
+Fiquem atentos para não perder tempo com cálculos desnecessários.
+Gabarito: Errado
+
+
+Q.02 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue
+Se p for a probabilidade de se acertar na Mega Sena com a aposta de um volante com 6
+números distintos, então, apostando-se 8 números, a probabilidade de acerto será igual a 28p
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+Apostando apenas 6 números, teríamos 1 possibilidade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   64
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Apostando 8 números, precisaríamos acertar apenas 06, ou seja, temos C (8,6) possibilidades de
+acertar os 6 números sendo sorteadas 6 bolas.
+                                       Logo C (8,6) = 28 possibilidades.
+Gabarito: Certo
+
+
+Q.03 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+Espera-se que, ao longo de 2020, exatamente 9 decisões sejam favoráveis ao advogado.
+   •    C – CERTO
+   •    E - ERRADO
+Comentários:
+Veja essa parte do enunciado:
+       É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável
+Basta calcularmos ¾ de 12 = 09
+Gabarito: Certo
+
+
+Q.04 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   65
+         www.estrategiaconcursos.com.br                                                            92
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Espera-se que a primeira decisão desfavorável ao advogado ocorra somente depois de, pelo
+menos, quatro decisões favoráveis a ele.
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+Temos que a cada 04 decisões, 03 são favoráveis e 01 desfavorável, ok?
+Percebam que precisamos de 03 favoráveis, e a partir daí teremos uma desfavorável.
+Logo, são pelo menos 03, e não pelo menos 04.
+Ok?
+Gabarito: Errado
+
+
+Q.05 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+A probabilidade de Y ser inferior a 2 é superior a 1%.
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+Sabemos que Y representa a quantidade de decisões emitidas pelo tribunal favoráveis ao
+advogado.
+Precisamos chegar a:
+                         A probabilidade de Y ser inferior a 2 é superior a 1%.
+Ou seja:
+Precisamos determinar a Probabilidade de Y = 0 ou(+) Y = 01 decisões favoráveis acontecer.
+Temos a probabilidade de todas decisões serem desfavoráveis, ou seja, zero favorável:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   66
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                          •   P (Y=0) = (1/4)¹² = (1/256)³
+Temos a probabilidade de 01 decisão ser favorável, ou seja, 03 desfavoráveis:
+                                   •    P (Y=1) = 12 ∙ (3/4) ∙ (1/4)¹¹ = 36/256³
+
+Vejam que multiplicamos o resultado por 12, visto que essa decisão favorável pode aparecer em
+12 possíveis posições, ok?
+
+          Agora, basta somarmos, visto que poderá acontecer uma situação ou outra:
+
+                                   •   P (Y<2) = 1/256³ + 36/256³ = 37/256³
+Percebe-se que o resultado é bem inferior a 1%.
+Gabarito: Errado
+
+
+Q.06 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+Y = 0 é evento impossível.
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+Para calcular a probabilidade de que nenhuma das petições tenha resultado favorável, ou
+seja, todas as 12 petições tenham resultado desfavoráveis, temos que calcular a probabilidade de
+o resultado ser desfavorável (complementar).
+P (Y = 0) = (1/4)12 (diferente de zero).
+Gabarito: Errado
+
+
+Q.07 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   67
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Se Carlos estiver presente na aula ministrada pela professora Paula, a probabilidade de ele
+aprender o conteúdo abordado é de 80%; se ele estiver ausente, essa probabilidade cai para
+0%. Em 25% das aulas da professora Paula, Carlos está ausente.
+Com relação a essa situação hipotética, julgue o item seguinte.
+Se Carlos não aprendeu o conteúdo ministrado na aula da professora Paula, então a
+probabilidade de ele ter estado presente na aula é inferior a 50%.
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+P(Aprendeu / Presente) = 80% e pelo complementar P(não Aprendeu / Presente) = 100% - 80% =
+20%.
+P(Aprendeu / Ausente) = 0%
+P(Ausente) = 25% complementar P(Presente) = 100% - 25% = 75%
+                        Pela teoria de Probabilidade Total, podemos calcular:
+           P(Aprendeu) = 0,8 ∙ 0,75 + 0 ∙ 25 = 0,6 complementar P(não Aprendeu) = 0,4
+Pelo Teorema de Bayes, a probabilidade é dada por:
+                                       =P(Presente / não Aprendeu)=
+       =P(não Aprendeu / Presente) x P(Presente) / P(não aprendeu) = 0,2 x 0,75 / 0,4 =
+                                                    =37,5%=
+Assim, a probabilidade é inferior a 50% e está correto.
+Gabarito: Certo
+
+
+Q.08 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+Se Carlos estiver presente na aula ministrada pela professora Paula, a probabilidade de ele
+aprender o conteúdo abordado é de 80%; se ele estiver ausente, essa probabilidade cai para
+0%. Em 25% das aulas da professora Paula, Carlos está ausente.
+Com relação a essa situação hipotética, julgue o item seguinte.
+A probabilidade de Carlos não aprender o conteúdo ministrado pela professora Paula é inferior
+a 25%.
+   •   C – CERTO
+   •   E – ERRADO
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   68
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Comentários:
+                                              •   A = Carlos aprende;
+                               •    B = Carlos não aprende, complementar de A;
+                                        •   C = Carlos presente na aula; e
+                           •       D = Carlos ausente na aula, complementar de C.
+                                              Dados do enunciado:
+                                                   P(A|C) = 0,8
+                                                    P(A|D) = 0
+                                                    P(D) = 0,25
+                                      Pelo evento complementar, temos:
+                                                   P(B|C) = 0,2
+                                                     P(B|D) = 1
+                                                    P(C) = 0,75
+                                       P(B) = P(B|C) ∙P(C) + P(B|D) ∙P(D) =
+                                             =0,2 ∙ 0,75 + 1 ∙ 0,25 =
+                                                  =0,15 + 0,25 =
+                                                      =0,40 =
+                                                      =40%=
+Gabarito: Errado
+
+
+Q.09 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+Se Carlos estiver presente na aula ministrada pela professora Paula, a probabilidade de ele
+aprender o conteúdo abordado é de 80%; se ele estiver ausente, essa probabilidade cai para
+0%. Em 25% das aulas da professora Paula, Carlos está ausente.
+Com relação a essa situação hipotética, julgue o item seguinte.
+O evento “Carlos não aprendeu o conteúdo ministrado pela professora Paula, dado que estava
+ausente na aula.” é evento certo, isto é, a probabilidade de esse evento ocorrer é igual a 1.
+   •   C – CERTO
+   •   E - ERRADO
+Comentários:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   69
+        www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+A é o evento em que Carlos se ausenta da aula;
+B é o evento em que Carlos participa da aula e é complementar de A;
+C é o evento em que Carlos não aprendeu o conteúdo; e
+D é o evento em que Carlos aprendeu o conteúdo e é complementar de C.
+                                       P(C|A) = 1 - P(D|A) = 1 - 0 = 1.
+Gabarito: Certo
+
+
+Q.10 (CEBRASPE / TJPA / Analista Judiciário / 2019)
+Em um sistema informatizado, as senhas são formadas por três letras distintas, em uma ordem
+específica. Esse sistema bloqueia a conta do usuário a partir da quinta tentativa errada de
+inserção da senha. Abel fez seu cadastro no sistema, mas, após certo tempo sem utilizá-lo,
+esqueceu-se da senha, lembrando-se apenas de que ela era formada com as letras do seu
+nome, sem repetição.
+Nessa situação hipotética, a probabilidade de Abel, inserindo senhas com base apenas nas
+informações de que ele se lembra, conseguir acessar a sua conta sem bloqueá-la é igual a
+   (a) 3/192
+   (b) 3/72
+   (c) 3/24
+   (d) 3/18
+   (e) 3/4
+Comentários:
+Vamos separar as informações que julgamos importantes, ok?
+Senha: formada por 03 letras distintas (ordem específica)
+Bloqueio da conta: a partir da 5ª tentativa.
+Senha de Abel: Letras do seu nome {a, b, e, l} sem repetição.
+Para que ele acesse sua conta sem bloqueá-la, ele poderá errar no máximo 04 vezes, pois a partir
+da 5ª tentativa errada o sistema já é bloqueado.
+Vamos determinar a quantidade de anagramas sem repetição da palavra:
+                                                       ABEL
+
+
+Pelo princípio fundamental da contagem existem:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   70
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                   4! = 4*3*2*1
+                                                 24 anagramas
+Se temos 24 anagramas, e 05 tentativas, logo, necessariamente, nas 04 primeiras erradas teríamos
+a certeza de que ainda não existiria o bloqueio, logo teríamos uma probabilidade igual a:
+                                                       4/24
+                                                        1/6
+                                                     = 3/18 =
+Gabarito: D
+
+
+Q.11 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue:
+A probabilidade de a primeira bola sorteada ser um número múltiplo de 8 é de 10%.
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+Uma questão cheia de informações, mas no final ela só nos pede que calculemos a probabilidade
+de a 1ª bola sorteada ser um número múltiplo de 8, ok?
+M(8) = {8, 16, 24, 32, 40, 48, 56} / Nosso Evento possui m total de 07 números.
+Espaço Amostral = 60
+                                                 Probabilidade
+                                                      =7/60=
+                                                      11,66%
+Percebam que não precisaríamos fazer qualquer cálculo, visto que para que a probabilidade fosse
+de 10%, nosso evento deveria ser igual a 6.
+Gabarito: Errado
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   71
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Q.12 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue
+A cada número sorteado, a probabilidade de determinado número dos restantes ser sorteado
+aumenta
+   •   C – CERTO
+   •   E – ERRADO
+Comentários:
+Uma questão bem conceitual.
+Vejam essa informação da questão:
+               À medida que uma bola é retirada, ela não volta para dentro do globo.
+Isso significa que, cada vez mais, haverá menos bolas dentro do globo. Portanto, nosso espaço
+amostral será reduzido a cada nova bola retirada, por conseguinte, a probabilidade irá sempre
+aumentando.
+Gabarito: Certo
+
+
+Q.13 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Considere-se que o professor dessa sala tenha escolhido um estudante, aleatoriamente, para
+responder uma pergunta no quadro e que, após responder a pergunta, o estudante tenha
+voltado ao seu assento. Se o professor repetir este processo mais uma vez, a probabilidade de
+que o primeiro estudante seja escolhido nas duas vezes será igual a 1/900.
+C – Certo
+E – Errado
+Comentários:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   72
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Temos um total de 30 estudantes, logo probabilidade de 1 ser escolhido aleatoriamente (sorteio)
+é dada por:
+                                                                     𝟏
+                                                       =               =
+                                                                    𝟑𝟎
+No entanto, o comando da questão é:
+   Qual a probabilidade de o estudante ser sorteado na primeira E na segunda vezes. Ok?
+
+Vimos que o conectivo “E” (na análise combinatória / probabilidade) é substituído pela operação
+matemática da MULTIPLICAÇÃO, logo, temos que a probabilidade de o aluno ser sorteado duas
+vezes seguidas é dada por:
+                                                       ==219a34==
+
+                                                       1     1
+                                                   =      ∙    =
+                                                       30 30
+                                                          1
+                                                         900
+
+
+Gabarito: Certo
+
+
+Q.14 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Caso, em um conjunto com 30 estudantes, 12 estudantes gostem de matemática, 15 estudantes
+gostem de geografia e 7 estudantes gostem de matemática e geografia, então a probabilidade
+de um estudante selecionado ao acaso gostar de matemática ou de geografia será igual a 2/3.
+C – Certo
+E – Errado
+Comentários:
+O nosso ESPAÇO AMOSTRAL corresponde ao total de estudantes: 30
+O EVENTO é representado por estudantes de que gostam de Matemática OU Geografia :
+
+                       Muito cuidado com o uso do conectivo OU.
+No estudo da Teoria dos Conjuntos o conectivo “OU” representa a união entre os conjuntos.
+O conjunto formado por pessoas de que gostam de Matemática ou Geografia é formado por:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   73
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   o Pessoas gostam apenas de Matemática;
+   o Pessoas gostam apenas de Geografia; e
+
+   o Pessoas gostam de ambas as matérias .
+Vamos analisar a seguinte parte do enunciado:
+12 estudantes gostem de matemática, 15 estudantes gostem de geografia e 7 estudantes
+gostem de matemática e geografia.
+Vejam que há 7 alunos que gostam de ambas as matérias, ou seja, eles são representados pelo
+conjunto intersecção.
+
+                                  Matemática                                 Geografia
+
+
+                                    12 – 7           5       7      8         15 – 7
+
+                                                   Intersecção (sempre
+                                                    comecem a preencher os
+                                                      diagramas por aqui)
+
+O total de pessoas que gostam de Matemática ou Geografia é dado por:
+                                                  =5+7+8=
+                                                      = 20 =
+Logo, a nossa probabilidade será dada por:
+                                                 EVENTO (20)
+                                         =                       =
+                                             ESPAÇO AMOSTAL (30)
+                                                          20
+                                                      =      =
+                                                          30
+                                                          𝟐
+                                                         = =
+                                                          𝟑
+
+
+Podemos também encontrar a união entre os dois conjuntos com o uso da seguinte fórmula:
+
+
+                                   n (M ∪ G) = n (M) + n (G) – n (M ∩ G)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   74
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                           n (M ∪ G) = 12 + 15 – 7
+
+                                                 n (M ∪ G) = 20
+Gabarito: Certo
+
+
+Q.15 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Se dois estudantes forem aleatoriamente escolhidos nessa turma, então a probabilidade dos
+dois estudantes serem da zona urbana é menor que 1/2.
+C – Certo
+E – Errado
+Comentários:
+Vamos fazer por partes:
+Primeiro:
+
+   o Espaço Amostral: 30
+   o Evento: 20 (zona urbana)
+Segundo:
+
+   o Espaço Amostral: 29 (redução de 1 estudante que foi sorteado primeiro)
+   o Evento: 19 (idem)
+
+
+Logo, nossa probabilidade será dada por:
+                                                       20 19
+                                                   =      ∙  =
+                                                       30 29
+                                                         𝟑𝟖
+                                                         𝟖𝟕
+                                          38/87 é menor do que 1/2
+Uma outra solução poderia ser encontrada por ANÁLISE COMBINATÓRIA da seguinte forma:
+   o   Espaço Amostral: C30,2 (total de duplas que podem escolhidas)
+   o   Evento: C20,2 (total de duplas que podem escolhidas da zona urbana)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   75
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                                                          𝑪𝟑𝟎,𝟐
+                                                    𝑃=
+                                                          𝑪𝟐𝟎,𝟐
+
+
+Gabarito: Certo
+
+
+Q.16 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Se dois estudantes forem aleatoriamente escolhidos nessa turma, então a probabilidade de
+pelo menos um deles ser da zona rural é inferior a 5/9.
+C – Certo
+E – Errado
+Comentários:
+Para que pelo menos um deles seja da zona rural é complementar de os serem da zona urbana.
+Portanto, fica mais fácil determinarmos a probabilidade de os dois serem da zona urbana.
+Essa conta a gente já fez na questão anterior: 38/87,
+Logo a probabilidade complementar será de:
+                                                  = 1 – 38/87 =
+                                                  = 1 – 0,437 =
+                               = 0,563 que é superior aos 5/9 = 0,5555 =
+Gabarito: Errado
+
+
+Questões FGV
+
+Q.01 (FGV / Pref. Angra dos Reis / Especialista em Desportos/ 2019)
+Peter é um ótimo lançador de dardos. A cada lançamento, a probabilidade de Peter acertar o
+alvo é de 90% e independe de Peter ter acertado ou não o alvo em lançamentos anteriores.
+Após fazer dois lançamentos em sequência, a probabilidade de Peter ter acertado o alvo nos
+dois lançamentos é de
+(a) 180%
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   76
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+(b) 90%
+(c) 81%
+(d) 72%
+(e) 60%
+Solução:
+De cara, a gente exclui, de imediato, a alternativa “A”, ok?
+
+                Não há como a probabilidade de determinado evento acontecer ser
+                                        superior a 100%.
+
+Pessoal, aprendemos, na parte teórica do assunto, várias fórmulas para solução das questões de
+Probabilidade, mas o que vale, na prática, é o seguinte:
+
+                                                         E                       Multiplicação
+               Conectivo
+                                                       OU                              Adição
+
+Após fazer dois lançamentos em sequência, a probabilidade de Peter ter acertado o alvo nos
+dois lançamentos é de:
+Acima temos a pergunta da questão, ok?
+Percebam que Peter deverá acertar o alvo no Primeiro E Segundo lançamentos, ok?
+Como sabemos que a probabilidade de ele acertar cada lançamento é de 90%, logo:
+                                                      90 90
+                                                        ∙
+                                                     100 100
+                                                        81%
+Gabarito: C
+Q.02 (FGV / Assembleia Legislativa de RO / Analista Legislativo / 2018)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   77
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Uma moeda é lançada quatro vezes. A probabilidade de saírem mais caras do que coroas é de:
+(a) 4/16
+(b) 5/16
+(c) 6/16
+(d) 7/16
+(e) 8/16
+Solução:
+Num total de 04 lançamentos, a probabilidade de saírem mais caras do que coroas acontece
+quando:
+   1. Saírem 03 caras (C) + 01 coroa (K):
+                                                      1 1 1 1
+                                                       ∙ ∙ ∙
+                                                      2 2 2 2
+                                                          𝟏
+                                                         𝟏𝟔
+Mas, vejam que essa probabilidade pode acontecer da seguinte forma:
+                                                    (C, C, C, K)
+                                                    (C, C, K, C)
+                                                    (C, K, C, C)
+                                                    (K, C, C, C)
+                       Logo, a probabilidade de saírem 03 caras + 01 coroa será de:
+                                                                𝟏
+                                                         𝟒∙
+                                                               𝟏𝟔
+                                                              𝟒
+                                                             𝟏𝟔
+   2. Saírem 04 caras:
+                                                      1 1 1 1
+                                                       ∙ ∙ ∙
+                                                      2 2 2 2
+                                                          𝟏
+                                                         𝟏𝟔
+  Percebam que deve acontecer uma situação OU a outra, logo devemos somar as
+  probabilidades, ok?
+                                                         𝟒        𝟏
+                                                     = 𝟏𝟔 + 𝟏𝟔 =
+                                                             𝟓
+                                                        =         =
+                                                             𝟏𝟔
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   78
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Gabarito: B
+Q.03 (FGV / ASSISTENTE / SEFAZ-AM / 2022)
+Em uma urna há 5 bolas iguais, cada uma com uma letra da sigla SEFAZ. Todas as bolas têm
+letras diferentes entre si.
+Retiram-se, aleatoriamente, 2 bolas da urna.
+A probabilidade de que tenham sido retiradas as 2 vogais é de
+   a) 1/5
+   b) 2/5
+   c) 3/5
+   d) 3/10
+   e) 1/10
+Comentários:
+  Na primeira retirada: 2/5
+  Na segunda retirada: 1/4
+
+  Como é uma retirada e outra, devemos multiplicar as frações, logo:
+                                                       𝟐 𝟏
+                                                     =   ∙ =
+                                                       𝟓 𝟒
+                                                         𝟏
+                                                      =    =
+                                                        𝟏𝟎
+Gabarito: E
+
+Questões FCC
+
+Q.01 (FCC / Auditor Fiscal de Tributos I (São Luís) /2018
+As 6 vagas da garagem de um pequeno edifício recém-construído serão sorteadas entre os
+proprietários dos 6 apartamentos, de modo que cada apartamento terá direito a uma vaga.
+As vagas ficam localizadas lado a lado ao longo de uma parede. Dois irmãos, proprietários
+dos apartamentos 1 e 2, gostariam que suas vagas ficassem localizadas lado a lado. A
+probabilidade de que isso aconteça é igual a
+  a) 𝟏/𝟐
+  b) 𝟏/𝟑
+  c)   𝟏/𝟒
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   79
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+  d) 𝟏/𝟓
+  e) 𝟏/𝟔
+
+Comentários:
+Vamos, a princípio, definir logo o total de possibilidades de escolher duas vagas dentre as 6
+disponíveis através da combinação de 6 possibilidades combinadas de duas a duas, visto que
+a ordem não importa, ok?
+
+                                                                 𝟔!
+                                                 C6,2 =
+                                                           𝟐! ∙ (𝟔 ) 𝟐)!
+                                                                 𝟔!
+                                                    C6,2 =
+                                                              𝟐! ∙ 𝟒!
+
+                                                 15 possibilidades
+
+Vamos elencar as possibilidades de tal forma que fiquem uma ao lado da outra:
+1 e 2 (1) ou
+2 e 3 (2) ou
+3 e 4 (3) ou
+4 e 5 (4) ou
+5 e 6 (5)
+Temos um total, portanto, de 05 possibilidades. Logo:
+                                          𝑬𝒗𝒆𝒏𝒕𝒐         𝟓   𝟏
+                                𝐏=                    =    =
+                                    𝑬𝒔𝒑𝒂ç𝒐 𝑨𝒎𝒐𝒔𝒕𝒓𝒂      𝟏𝟓 𝟑
+Gabarito: B
+
+Q.02 (FCC / Administração de Empresas/ 2017)
+Em um trecho de pedágio de uma rodovia no interior do Estado passam, pelas cabines, um
+total de 2.300 carretas de dois e três eixos, onde 1.725 são carretas de dois eixos. A
+probabilidade de passar uma carreta de três eixos pelas cabines é de
+a) 30%.
+b) 20%.
+c) 33%.
+d) 15%.
+e) 25%.
+
+Comentários:
+
+Questão muitooooo fácil.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   80
+          www.estrategiaconcursos.com.br                                                            92
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Total de Carretas de 03 eixos: 2.300 – 1.725 = 575
+
+                                                    575
+                                          𝑃(𝐸) =        = 0,25 = 𝟐𝟓%
+                                                   2300
+
+Gabarito: E
+
+Q.03 (FCC - Professor (SEC BA)/Padrão P/Matemática/2018)
+  Uma sala de aula com 40 alunos fez uma pesquisa sobre a ocorrência de dengue no
+  contexto familiar. A pesquisa consistia em tabular, no universo de 120 pessoas, se cada
+  aluno e seus respectivos pais e mães já tiveram dengue, ou não. As respostas estão
+  tabuladas abaixo.
+
+                                                Teve dengue                 Não teve dengue
+
+                       Alunos                            1                              39
+
+               Pais dos alunos                           2                              38
+
+               Mães dos alunos                           0                              40
+
+   Sorteando-se ao acaso uma das 120 pessoas pesquisadas, a probabilidade de que ela
+  tenha respondido na pesquisa que já teve dengue é igual a
+  a) 2,5%.
+  b) 2,3%.
+  c) 7,8%.
+  d) 3,8%.
+  e) 1,4%.
+
+Comentários:
+
+Pessoal, temos mais uma questão de resolução simples. O único cuidado aqui é deduzir que os 40
+alunos já estão incluídos no universo das 120 pessoas, ok?
+
+                                                   3
+                                        𝑃(𝐸) =        = 0,025 = 𝟐, 𝟓%
+                                                  120
+
+Gabarito: A
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   81
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+                       LISTA DE QUESTÕES ESTRATÉGICAS
+
+Questões CEBRASPE
+
+Q.01 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue
+A probabilidade de se acertar os 6 números sorteados na Mega Sena com a aposta de um
+                                         𝟓𝟒!
+volante com 6 números é igual a
+                                         𝟔𝟎!
+
+   •   C – CERTO
+   •   E - ERRADO
+Q.02 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue
+Se p for a probabilidade de se acertar na Mega Sena com a aposta de um volante com 6
+números distintos, então, apostando-se 8 números, a probabilidade de acerto será igual a 28p
+   •   C – CERTO
+   •   E - ERRADO
+Q.03 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   82
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+Espera-se que, ao longo de 2020, exatamente 9 decisões sejam favoráveis ao advogado.
+   •   C – CERTO
+   •   E - ERRADO
+Q.04 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+Espera-se que a primeira decisão desfavorável ao advogado ocorra somente depois de, pelo
+menos, quatro decisões favoráveis a ele.
+   •   C – CERTO
+   •   E - ERRADO
+Q.05 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+A probabilidade de Y ser inferior a 2 é superior a 1%.
+   •   C – CERTO
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   83
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   •   E - ERRADO
+Q.06 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+É igual a 3/4 a probabilidade de determinado advogado conseguir decisão favorável a si em
+cada petição protocolada por ele na vara cível de certo tribunal. O plano desse advogado é
+protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis
+ou não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em
+que são protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias
+X e Y, em que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira
+decisão não favorável ao advogado, e Y = quantidade de decisões emitidas pelo tribunal
+favoráveis ao advogado.
+Y = 0 é evento impossível.
+   •   C – CERTO
+   •   E - ERRADO
+Q.07 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+Se Carlos estiver presente na aula ministrada pela professora Paula, a probabilidade de ele
+aprender o conteúdo abordado é de 80%; se ele estiver ausente, essa probabilidade cai para
+0%. Em 25% das aulas da professora Paula, Carlos está ausente.
+Com relação a essa situação hipotética, julgue o item seguinte.
+Se Carlos não aprendeu o conteúdo ministrado na aula da professora Paula, então a
+probabilidade de ele ter estado presente na aula é inferior a 50%.
+   •   C – CERTO
+   •   E - ERRADO
+Q.08 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+Se Carlos estiver presente na aula ministrada pela professora Paula, a probabilidade de ele
+aprender o conteúdo abordado é de 80%; se ele estiver ausente, essa probabilidade cai para
+0%. Em 25% das aulas da professora Paula, Carlos está ausente.
+Com relação a essa situação hipotética, julgue o item seguinte.
+A probabilidade de Carlos não aprender o conteúdo ministrado pela professora Paula é inferior
+a 25%.
+   •   C – CERTO
+   •   E - ERRADO
+Q.09 (CEBRASPE / TJAM / Analista Judiciário / 2019)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   84
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Se Carlos estiver presente na aula ministrada pela professora Paula, a probabilidade de ele
+aprender o conteúdo abordado é de 80%; se ele estiver ausente, essa probabilidade cai para
+0%. Em 25% das aulas da professora Paula, Carlos está ausente.
+Com relação a essa situação hipotética, julgue o item seguinte.
+O evento “Carlos não aprendeu o conteúdo ministrado pela professora Paula, dado que estava
+ausente na aula. “ é evento certo, isto é, a probabilidade de esse evento ocorrer é igual a 1.
+   •   C – CERTO
+   •   E - ERRADO
+Q.10 (CEBRASPE / TJPA / Analista Judiciário / 2019)
+Em um sistema informatizado, as senhas são formadas por três letras distintas, em uma ordem
+específica. Esse sistema bloqueia a conta do usuário a partir da quinta tentativa errada de
+inserção da senha. Abel fez seu cadastro no sistema, mas, após certo tempo sem utilizá-lo,
+esqueceu-se da senha, lembrando-se apenas de que ela era formada com as letras do seu
+nome, sem repetição.
+Nessa situação hipotética, a probabilidade de Abel, inserindo senhas com base apenas nas
+informações de que ele se lembra, conseguir acessar a sua conta sem bloqueá-la é igual a
+   (a) 3/192
+   (b) 3/72
+   (c) 3/24
+   (d) 3/18
+   (e) 3/4
+Q.11 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue:
+A probabilidade de a primeira bola sorteada ser um número múltiplo de 8 é de 10%.
+   •   C – CERTO
+   •   E – ERRADO
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   85
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+Q.12 (CEBRASPE / Prefeitura de São Cristóvão (SE) / Professor / 2019)
+A sorte de ganhar ou perder, num jogo de azar, não depende da habilidade do jogador, mas
+exclusivamente das probabilidades dos resultados. Um dos jogos mais populares no Brasil é a
+Mega Sena, que funciona da seguinte forma: de 60 bolas, numeradas de 1 a 60, dentro de um
+globo, são sorteadas seis bolas. À medida que uma bola é retirada, ela não volta para dentro
+do globo. O jogador pode apostar de 6 a 15 números distintos por volante e receberá o prêmio
+se acertar os seis números sorteados. Também são premiados os acertadores de 5 números ou
+de 4 números.
+A partir dessas informações, julgue o item que se segue
+A cada número sorteado, a probabilidade de determinado número dos restantes ser sorteado
+aumenta
+   •   C – CERTO
+   •   E – ERRADO
+
+
+Q.13 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Considere-se que o professor dessa sala tenha escolhido um estudante, aleatoriamente, para
+responder uma pergunta no quadro e que, após responder a pergunta, o estudante tenha
+voltado ao seu assento. Se o professor repetir este processo mais uma vez, a probabilidade de
+que o primeiro estudante seja escolhido nas duas vezes será igual a 1/900.
+C – Certo
+E – Errado
+
+
+Q.14 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Caso, em um conjunto com 30 estudantes, 12 estudantes gostem de matemática, 15 estudantes
+gostem de geografia e 7 estudantes gostem de matemática e geografia, então a probabilidade
+de um estudante selecionado ao acaso gostar de matemática ou de geografia será igual a 2/3.
+C – Certo
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   86
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+E – Errado
+
+
+Q.15 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Se dois estudantes forem aleatoriamente escolhidos nessa turma, então a probabilidade dos
+dois estudantes serem da zona urbana é menor que 1/2.
+C – Certo
+E – Errado
+
+
+Q.16 (CEBRASPE / Prof. II – Pref. Recife / 2023)
+Em uma sala de aula há 30 estudantes. 20 desses estudantes moram na zona urbana e os outros
+10 moram na zona rural.
+Com base nessa situação hipotética, julgue o item a seguir.
+Se dois estudantes forem aleatoriamente escolhidos nessa turma, então a probabilidade de
+pelo menos um deles ser da zona rural é inferior a 5/9.
+C – Certo
+E – Errado
+
+Gabarito - CEBRASPE
+
+    1           2          3           4            5           6           7           8          9   10
+   EE          CC         CC          EE           EE          EE          CC          EE         CC   D
+   11          12         13          14           15          16          17          18         19   20
+   EE          CC         CC          CC           CC          EE
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático             87
+        www.estrategiaconcursos.com.br                                                                      92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   •   CC – CERTO
+   •   EE - ERRADO
+
+Questões FGV
+
+Q.01 (FGV / Pref. Angra dos Reis / Especialista em Desportos/ 2019)
+Peter é um ótimo lançador de dardos. A cada lançamento, a probabilidade de Peter acertar o
+alvo é de 90% e independe de Peter ter acertado ou não o alvo em lançamentos anteriores.
+Após fazer dois lançamentos em sequência, a probabilidade de Peter ter acertado o alvo nos
+dois lançamentos é de
+(a) 180%
+(b) 90%
+(c) 81%
+(d) 72%
+(e) 60%
+Q.02 (FGV / Assembleia Legislativa de RO / Analista Legislativo / 2018)
+Uma moeda é lançada quatro vezes. A probabilidade de saírem mais caras do que coroas é de:
+(a) 4/16
+(b) 5/16
+(c) 6/16
+(d) 7/16
+(e) 8/16
+Q.03 (FGV / ASSISTENTE / SEFAZ-AM / 2022)
+Em uma urna há 5 bolas iguais, cada uma com uma letra da sigla SEFAZ. Todas as bolas têm
+letras diferentes entre si.
+Retiram-se, aleatoriamente, 2 bolas da urna.
+A probabilidade de que tenham sido retiradas as 2 vogais é de
+   a) 1/5
+   b) 2/5
+   c) 3/5
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   88
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+   d) 3/10
+   e) 1/0
+
+
+Gabarito - FGV
+
+                                             1           2           3
+                                             C           B           E
+
+Questões FCC
+
+Q.01 (FCC / Auditor Fiscal de Tributos I (São Luís) /2018
+As 6 vagas da garagem de um pequeno edifício recém-construído serão sorteadas entre os
+proprietários dos 6 apartamentos, de modo que cada apartamento terá direito a uma vaga.
+As vagas ficam localizadas lado a lado ao longo de uma parede. Dois irmãos, proprietários
+dos apartamentos 1 e 2, gostariam que suas vagas ficassem localizadas lado a lado. A
+probabilidade de que isso aconteça é igual a:
+a) 𝟏/𝟐
+b) 𝟏/𝟑
+c) 𝟏/𝟒
+d) 𝟏/𝟓
+e) 𝟏/𝟔
+Q.02 (FCC / Administração de Empresas/ 2017)
+Em um trecho de pedágio de uma rodovia no interior do Estado passam, pelas cabines, um
+total de 2.300 carretas de dois e três eixos, onde 1.725 são carretas de dois eixos. A
+probabilidade de passar uma carreta de três eixos pelas cabines é de:
+ a) 30%.
+ b) 20%.
+ c) 33%.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   89
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+ d) 15%.
+ e) 25%.
+Q.03 (FCC - Professor (SEC BA)/Padrão P/Matemática/2018)
+  Uma sala de aula com 40 alunos fez uma pesquisa sobre a ocorrência de dengue no
+  contexto familiar. A pesquisa consistia em tabular, no universo de 120 pessoas, se cada
+  aluno e seus respectivos pais e mães já tiveram dengue, ou não. As respostas estão
+  tabuladas abaixo.
+
+                                                  Teve dengue               Não teve dengue
+
+                       Alunos                            1                              39
+
+               Pais dos alunos                           2                              38
+
+               Mães dos alunos                           0                              40
+
+   Sorteando-se ao acaso uma das 120 pessoas pesquisadas, a probabilidade de que ela
+  tenha respondido na pesquisa que já teve dengue é igual a
+  a) 2,5%.
+  b) 2,3%.
+  c) 7,8%.
+  d) 3,8%.
+  e) 1,4%.
+
+
+Gabarito - FCC
+
+                                              1          2           3
+                                              B          E           A
+
+   •   CC – CERTO
+   •   EE - ERRADO
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   90
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+. Túlio
+   AulaLages
+        05
+Aula 00
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   91
+        www.estrategiaconcursos.com.br                                                            92
+
+                                    
+
+
+---
+
+---

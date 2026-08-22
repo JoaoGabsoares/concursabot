@@ -1,0 +1,13238 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 09_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Índice
+artigos_citados:
+- Art. 1º
+- Art. 21
+- Art. 23
+- Art. 31
+- 'art.
+
+  22'
+- art. 24
+- art. 32
+- artigo 23
+sumulas_citadas:
+- Súmula 637
+- Súmula 701
+- Súmula 702
+- Súmula Vinculante nº 46
+- Súmula Vinculante nº 49
+- Súmula nº 650
+---
+
+# Índice
+
+Índice
+1) Teoria Geral do Estado - O Estado
+
+
+2) Teoria Geral do Estado - Características da Federação
+
+
+3) Teoria Geral do Estado - Classificação das Federações
+
+
+4) A Federação Brasileira e a União (art. 18, CF/88)
+
+
+5) Organização Político-Administrativa - Estados (art. 25, CF/88)
+
+
+6) Organização Político-Administrativa - Distrito Federal (art. 32, CF/88)
+
+
+7) Organização Político-Administrativa - Municípios (art. 29 e art. 29-A, CF/88)
+
+
+8) Organização Político-Administrativa - Territórios Federais (art. 33, CF/88)
+
+
+9) Alterações na estrutura da federação (art. 18, §§ 3º e 4º, CF/88)
+
+
+10) Vedações Federativas (art. 19, CF/88)
+
+
+11) Bens Públicos - Bens da União (art. 20, CF/88)
+
+
+12) Bens Públicos - Bens dos Estados (art. 26, CF/88)
+
+
+13) Repartição de Competências e a Federação Brasileira
+
+
+14) Competências Exclusivas e Privativas da União (art. 21 - art. 22, CF/88)
+
+
+15) Repartição de Competências - Competências Comuns dos Entes Federativos (art. 23, CF/88)
+
+
+16) Repartição de Competências - Competências Legislativas Concorrentes (art. 24, CF/88)
+
+
+17) Repartição de Competências - Competências dos Estados e do Distrito Federal (art. 25, CF/88)
+
+
+18) Repartição de Competências - Competências dos Municípios (art. 30, CF/88)
+
+
+19) Intervenção - Intervenção Federal (art. 34, CF/88)
+
+
+20) Intervenção - Intervenção Estadual (art. 35, CF/88)
+
+
+21) Intervenção - O Controle Político na Intervenção
+
+
+22) Questões Comentadas - Repartição de Competências - FGV
+
+
+23) Questões Comentadas - Intervenção - FGV
+
+
+24) Questões Comentadas - Teoria Geral do Estado e Organização Político Administrativa - FGV
+
+
+25) Lista de Questões - Teoria Geral do Estado e Organização Político Administrativa - FGV
+
+
+26) Lista de Questões - Repartição de Competências - FGV
+
+
+27) Lista de Questões - Intervenção - FGV
+
+                                                                                                                                                                                          2
+                                                                                                                                                                                        268
+
+
+---
+
+                 TEORIA GERAL DO ESTADO E ORGANIZAÇÃO
+                        POLÍTICO-ADMINISTRATIVA
+Teoria Geral do Estado: O Estado
+A doutrina tradicional considera que os elementos constitutivos do Estado são o território, o
+povo e o governo soberano. O território é a dimensão física sobre a qual o Estado exerce seus
+poderes; é o domínio espacial (material) onde vigora uma determinada ordem jurídica estatal. O
+povo é a dimensão pessoal do Estado, são os seus nacionais. O governo, por sua vez, é a
+dimensão política; ele deve ser soberano, ou seja, sua vontade não se subordina a nenhum outro
+poder, seja no plano interno ou no plano internacional.
+Sintetizando o conceito de Estado, Manoel Gonçalves Ferreira Filho afirma que “o Estado é uma
+associação humana (povo), radicada em base espacial (território), que vive sob o comando de
+uma autoridade (poder) não sujeita a qualquer outra (soberana).”1
+Os Estados possuem diferentes maneiras de se organizar, isto é, existem diferentes formas de
+Estado. Forma de estado, ressalte-se, é a maneira pela qual o poder está distribuído no interior
+do Estado; em outras palavras, ela ilustra a distribuição territorial do poder.
+Assim, os Estados podem ser classificados em:
+       a) Estado unitário: nesse tipo de Estado, o poder político está territorialmente
+       centralizado. Existe, aqui, a centralização política do poder. O poder está centralizado em
+       um núcleo estatal único, do qual se irradiam todas as decisões; no Estado unitário, só
+       existe um centro produtor de normas. Um exemplo de Estado unitário é Portugal. O Brasil,
+       até a promulgação da Constituição de 1891, também foi um Estado unitário.
+       Para que se possa ter governabilidade, admite-se, no Estado unitário, a descentralização
+       administrativa. É o que se chama de Estado unitário descentralizado administrativamente.
+       Nesse tipo de Estado, mantém-se a centralização política, mas a execução dos serviços
+       públicos e das políticas públicas é descentralizada.
+
+        Parte da doutrina reconhece, ainda, os chamados Estados regionais, dos quais
+        seriam exemplos Itália e Espanha.2 Esses seriam um modelo intermediário entre o
+        Estado unitário e o Estado federal. Neles, além da descentralização
+        administrativa, parcela do poder político também é descentralizada. São estados
+        unitários descentralizados administrativa e politicamente.
+
+1
+  FERREIRA FILHO, Manoel Gonçalves. Curso de Direito Constitucional, 38ª edição. Editora Saraiva, São Paulo,
+2012, pp. 75-76.
+2
+  FERREIRA FILHO, Manoel Gonçalves. Curso de Direito Constitucional, 38ª edição. Editora Saraiva, São Paulo,
+2012, pp. 75-76.
+
+
+                                                                                                          3
+                                                                                                         230
+
+
+---
+
+      b) Estado federal: nesse tipo de Estado, o poder político está territorialmente
+      descentralizado. Há várias pessoas jurídicas com capacidade política, cada uma delas
+      dotada de autonomia política. São vários os centros produtores de normas,
+      permitindo-nos afirmar que, no Estado federal, existe uma pluralidade de ordenamentos
+      jurídicos.
+      O Brasil é um exemplo de Estado federal, possuindo, como entes federativos, a União, os
+      Estados, o Distrito Federal e os Municípios. Todos eles são dotados de autonomia política,
+      que lhes é garantida pela Constituição Federal. Mais à frente, estudaremos em detalhes as
+      características de uma federação.
+Há que se tomar cuidado para não confundir a federação com a confederação.
+Na federação, há uma união indissolúvel de entes autônomos que tem como fundamento uma
+Constituição, a qual consagra e protege o pacto federativo contra violações. Assim, a federação
+não pode ser desmantelada: não há direito de secessão.
+                                              ==106d==
+
+A confederação não é uma forma de estado propriamente dita, mas, sim, uma reunião de
+Estados soberanos. O vínculo é estabelecido entre esses Estados soberanos com base em um
+tratado internacional, o qual pode ser denunciado (dissolvido). Ao contrário da federação,
+portanto, a confederação forma-se a partir de um vínculo dissolúvel. A confederação é uma
+referência histórica, pois não existe nenhuma atualmente. Historicamente, cita-se como exemplo
+de Confederação os EUA, entre os anos de 1781 a 1787.3
+
+(TJ-ES – 2023) A organização político-administrativa da República Federativa do Brasil
+compreende a União, os estados, os territórios, o Distrito Federal e os municípios, todos
+autônomos, nos termos da CF.
+Comentários:
+Pegadinha! Os Territórios não são entes federativos. Questão errada.
+
+3
+  CARVALHO, Kildare Gonçalves. Direito Constitucional: Teoria do Estado e da Constituição, Direito
+Constitucional Positivo, 16ª edição. Ed. Del Rey. Belo Horizonte, 2010.
+
+
+                                                                                                4
+                                                                                               230
+
+
+---
+
+(DPE-RO – 2015) A Constituição da República Federativa do Brasil adotou, como forma de
+Estado, a federação. A existência dessa federação é caracterizada pela subordinação dos
+Estados, do Distrito Federal e dos Municípios à União, nos termos da Constituição da República
+Federativa do Brasil.
+Comentários:
+A relação que se estabelece entre a União, os Estados, o Distrito Federal e os Municípios não é
+de subordinação. Não há que se falar em hierarquia entre os entes federativos. Questão errada.
+
+                                                                                             5
+                                                                                            230
+
+
+---
+
+                 TEORIA GERAL DO ESTADO: A FEDERAÇÃO
+Características da federação:
+
+A federação, conforme já afirmamos, tem como característica central a descentralização do poder
+político. Os entes federativos são dotados de autonomia política, que se manifesta por meio de 4
+(quatro) aptidões:
+      a) Auto-organização: os entes federativos têm competência para se auto-organizar. Os
+      estados auto-organizam-se por meio da elaboração das Constituições Estaduais,
+      exercitando o Poder Constituinte Derivado Decorrente. Os municípios também se
+      auto-organizam, por meio da elaboração das suas Leis Orgânicas. O Prof. Paulo Gonet
+      chama o poder de auto-organização dos estados de capacidade de autoconstituição.1
+      b) Autolegislação: muitos autores entendem que a capacidade de autolegislação estaria
+      compreendida dentro da capacidade de auto-organização.2 No entanto, podemos
+      considerá-la uma capacidade diferente. Autolegislação é a capacidade de os entes
+      federativos editarem suas próprias leis. Em razão dessa característica é que podemos dizer
+      que, em uma federação, há diferentes centros produtores de normas e, em consequência,
+      pluralidade de ordenamentos jurídicos.
+      c) Autoadministração: é o poder que os entes federativos têm para exercer suas
+      atribuições de natureza administrativa, tributária e orçamentária. Assim, os entes
+      federativos elaboram seus próprios orçamentos, arrecadam seus próprios tributos e
+      executam políticas públicas, dentro da esfera de atuação de cada um, segundo a
+      repartição constitucional de competências.
+      d) Autogoverno: os entes federativos têm poder para eleger seus próprios representantes.
+      É com base nessa capacidade que os Estados elegem seus Governadores e os municípios,
+      os seus Prefeitos.
+Os Estados organizam-se sob a forma de uma federação por razões geográficas e culturais.3 Com
+efeito, um Estado com território muito extenso possui, normalmente, grandes diferenças culturais
+e de desenvolvimento, o que exige uma atuação estatal que não esteja preocupada somente
+com os anseios nacionais (do todo), mas também com as idiossincrasias (peculiaridades) locais.
+Dessa forma, o estabelecimento de um Estado federal tem como ponto de partida uma decisão
+do Poder Constituinte. É a Constituição, afinal, que estabelecerá o pacto federativo e criará
+mecanismos tendentes a protegê-lo. Na CF/88, essa decisão política se revela logo no art. 1º,
+caput, que dispõe que a República Federativa do Brasil é formada pela união indissolúvel dos
+Estados e Municípios e do Distrito Federal.
+
+1
+  MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Curso de Direito
+Constitucional, 6ª edição. Editora Saraiva, São Paulo, 2011. pp. 828.
+2
+  MASSON, Nathalia. Manual de Direito Constitucional, Ed. Juspodium, Salvador: 2013, pp. 429.
+3
+  MENDES, Gilmar Ferreira; COELHO, Inocêncio Mártires; BRANCO, Paulo Gustavo Gonet. Curso de Direito
+Constitucional, 6ª edição. Editora Saraiva, São Paulo, 2011. pp. 832.
+
+
+                                                                                                  6
+                                                                                                 230
+
+
+---
+
+Podemos afirmar que uma federação deve possuir as seguintes características:4
+       a) Repartição constitucional de competências: para que a ação estatal seja o mais eficaz
+       possível, cada ente federativo é dotado de uma gama de atribuições que lhe são próprias.
+       A repartição de competências entre os entes federativos é definida pela Constituição.
+       Ressalte-se que, no Estado federal, existe também uma repartição de rendas. Nesse
+       sentido, a CF/88 estabelece regras sobre o repasse aos Estados e Municípios de receitas
+       oriundas dos impostos federais. Segundo a doutrina, há que existir um equilíbrio entre
+       competências e rendas, de modo que não seria possível, aos entes federativos, executar
+       suas atribuições sem recursos financeiros suficientes para tanto.
+       b) Indissolubilidade do vínculo federativo: em uma federação, não existe direito de
+       secessão; em outras palavras, os entes federativos estão ligados por um vínculo
+       indissolúvel.
+                                                   ==106d==
+
+       c) Nacionalidade única: os cidadãos dos estados da federação possuem uma
+       nacionalidade única; não há nacionalidades parciais. Aquele que nasce em Minas Gerais,
+       São Paulo ou Pernambuco terá a nacionalidade brasileira.
+       d) Rigidez constitucional: em um Estado federal, é necessário que exista uma Constituição
+       escrita e rígida, que proteja o pacto federativo. Isso decorre do fato de que é a
+       Constituição que estabelece o funcionamento da federação, logo ela somente poderá ser
+       modificada por um procedimento mais dificultoso e solene. Ressalte-se que, no Brasil, o
+       princípio federativo é uma cláusula pétrea, portanto não pode ser objeto de deliberação
+       emenda constitucional que tenda a aboli-lo.
+       Como decorrência da rigidez constitucional, existirá, em um Estado federal, um
+       mecanismo de controle de constitucionalidade das leis. Com isso, busca-se evitar que um
+       ente federativo invada a esfera de competência de outro.
+       e) Existência de mecanismo de intervenção: conforme já estudamos, não há direito de
+       secessão em uma federação. Assim, atos que contrariem o pacto federativo darão ensejo
+       à utilização dos mecanismos de intervenção (intervenção federal ou estadual, dependendo
+       do caso). Por meio desse mecanismo, fica suprimida, temporariamente, a autonomia
+       política de um ente federativo.
+       f) Existência de um Tribunal Federativo: é necessário que exista um Tribunal com a
+       competência para solucionar litígios envolvendo os entes federativos. No Brasil, o STF atua
+       como Tribunal federativo ao processar e julgar, originariamente, as causas e os conflitos
+       entre a União e os Estados ou entre os Estados. Cabe destacar que o STF não julga os
+       conflitos envolvendo Municípios.
+       g) Participação dos entes federativos na formação da vontade nacional: nas federações,
+       deve existir um órgão legislativo representante dos poderes regionais. No Brasil, esse
+       órgão é o Senado Federal, que representa os Estados e o Distrito Federal. Destaque-se
+       que, na federação brasileira, os Municípios não participam da vontade nacional.
+4
+ MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 636.
+
+
+                                                                                                          7
+                                                                                                         137
+
+
+---
+
+(MPE-RO – 2023) A autonomia política dos entes federados é exercida por meio de
+autolegislação, auto-organização e autogoverno.
+Comentários:
+É exatamente isso: auto-organização (elaborar as próprias Constituições ou Leis Orgânicas),
+autolegislação (legislar dentro de suas competências constitucionais) e autogoverno (eleger os
+representantes e ser governado por eles) são os traços da autonomia. Pode ser citada também a
+autoadministração. Questão correta.
+(MP-PI – 2018) Em casos excepcionais, é admitido o direito de secessão aos estados da
+Federação.
+Comentários:
+Em uma federação, não se admite o direito de secessão. Questão errada.
+
+                                                                                            8
+                                                                                           230
+
+
+---
+
+                TEORIA GERAL DO ESTADO: A FEDERAÇÃO
+Classificação das federações
+
+Não há homogeneidade entre as federações; ao contrário, cada uma delas possui características
+peculiares. Isso levou a doutrina a estabelecer diferentes classificações para as federações:
+a) Quanto à origem: as federações podem ser formadas por agregação ou por segregação
+(desagregação).
+      No federalismo por agregação, a formação do Estado federal ocorre a partir da reunião de
+      Estados soberanos que o preexistiam. Um exemplo histórico desse tipo de federação são
+      os EUA, que se formaram a partir da reunião das 13 Colônias. Diz-se que, nesse caso,
+      houve um movimento centrípeto (direcionado ao centro).
+      No federalismo por segregação, um Estado que antes era unitário se descentraliza
+      politicamente. Um exemplo desse tipo de federação é o próprio Brasil. Até 1891, o Brasil
+      era um Estado unitário. Com a Constituição de 1891, passamos a ter um Estado federal: as
+      províncias tornaram-se estados membros e passaram a ser dotadas de autonomia política.
+      Diz-se que, nesse caso, a federação formou-se a partir de um movimento centrífugo
+      (direcionado para fora).
+b) Quanto à concentração de poder: as federações podem ser classificadas, quanto à
+concentração de poder, em centrípetas ou centrífugas.
+      Na federação centrípeta, o poder está concentrado no centro; portanto o governo central
+      detém a maior parte do poder. Assim, nesse tipo de federação, há maior concentração de
+      poder na União, em detrimento dos Estados. Destaque-se que as federações que se
+      formaram por um movimento centrífugo (por exemplo, o Brasil) têm uma tendência de
+      serem centrípetas quanto à concentração de poder.
+      Na federação centrífuga, o poder está mais concentrado na periferia; em outras palavras,
+      as entidades regionais detêm a maior parte do poder, a maior parte das competências.
+      Portanto, nesse tipo de federação, há uma grande descentralização, com menor
+      concentração do poder no governo central e ampliação dos poderes regionais. Ressalte-se
+      que as federações que se formaram por um movimento centrípeto (por exemplo, os EUA)
+      têm uma tendência de serem centrífugas quanto à concentração de poder.
+
+       Existe, ainda, o federalismo de equilíbrio, assim chamado aquele em que se
+       busca a distribuição equitativa de poderes entre os governos centrais e regionais.
+
+                                                                                             9
+                                                                                            230
+
+
+---
+
+c) Quanto ao equacionamento de desigualdades: as federações podem ser classificadas como
+simétricas ou assimétricas.
+      Nas federações simétricas, há uma distribuição igualitária de competências e de receitas
+      entre os entes federativos; trata-se de modelo especialmente eficaz quando há
+      homogeneidade socioeconômica entre os entes federativos.
+      Nas federações assimétricas, por sua vez, há o reconhecimento de que existem
+      disparidades socioeconômicas entre os entes federativos; busca-se, portanto, por meio de
+      políticas públicas e opções feitas no texto constitucional, reduzir essas desigualdades.
+      Embora exista certa controvérsia doutrinária, o mais seguro para a prova é considerar que
+      o Brasil é uma federação assimétrica. Com efeito, há diversos dispositivos na CF/88
+      destinados a reduzir desigualdades regionais. Cita-se, como exemplo, o art. 3º, III, que
+      dispõe como objetivo fundamental da RFB reduzir as desigualdades regionais.
+                                             ==106d==
+
+d) Quanto à repartição de competências: segundo esse critério, há dois tipos de federação,
+federação dual (clássica) ou federação cooperativa (neoclássica).
+      Na federação dual, os entes federados possuem competências próprias, que são exercidas
+      sem qualquer comunicação com os demais entes. Cada um atua na sua esfera,
+      independentemente do outro.
+      Na federação cooperativa, os entes federados exercem suas competências em conjunto
+      com os outros. As competências são repartidas pela Constituição de modo a permitir a
+      atuação conjunta dos entes federativos. O Brasil adota um federalismo de cooperação;
+      com efeito, a CF/88 estabeleceu competências comuns a todos os entes federativos (art.
+      23) e competências concorrentes entre a União, os Estados e o Distrito Federal (art. 24).
+
+(MPE-RO – 2023) O Estado federal é uma forma de organização dos estados que privilegia a
+centralização do exercício do poder na esfera federal.
+Comentários:
+Ao contrário do que afirma a questão, é da natureza federativa privilegiar a descentralização do
+exercício do poder. Questão errada.
+(SEAP-DF – 2015) A República Federativa do Brasil classifica-se como federação por
+desagregação.
+Comentários:
+A federação brasileira formou-se por um movimento centrífugo (direcionado para fora), o que
+caracteriza o federalismo por desagregação. O Brasil era um Estado unitário até a Constituição
+de 1891, oportunidade em que se descentralizou politicamente. Questão correta.
+
+                                                                                             10
+                                                                                             230
+
+
+---
+
+(SEAP-DF – 2015) Enquanto federação, a República Federativa do Brasil comporta o direito de
+secessão por parte dos entes federados.
+Comentários:
+O vínculo federativo é indissolúvel, ou seja, não há direito de secessão por parte dos entes
+federados. Questão errada.
+(Câmara dos Deputados – 2014) Entre as características comuns do Estado Federal incluem-se a
+representação das unidades federativas no poder legislativo central, a existência de um tribunal
+constitucional e a intervenção para a manutenção da federação.
+Comentários:
+Todas essas são características de uma federação. Questão correta.
+
+                                                                                             11
+                                                                                             230
+
+
+---
+
+                                A FEDERAÇÃO BRASILEIRA
+Segundo o art. 18 da CF/88, “a organização político-administrativa da República Federativa do
+Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos
+termos desta Constituição”. Os Territórios não são entes federativos, portanto não possuem
+autonomia política.
+Até a promulgação da CF/88, os Municípios não eram considerados entes federativos; com a
+promulgação da atual Carta Magna, eles passaram a também ser dotados de autonomia política.
+Com base nisso, a doutrina dominante reconhece que a federação brasileira é de 3º grau.1
+Há que se dizer que autonomia difere de soberania. Os entes federativos (União, Estados, Distrito
+Federal e Municípios) são todos autônomos, isto é, são dotados de auto-organização,
+autolegislação, autoadministração e autogoverno, dentro dos limites estabelecidos pela
+Constituição Federal. Note-se que há um limitador ao poder dos entes federativos.
+A soberania é atributo apenas da República Federativa do Brasil (RFB), do Estado federal em seu
+conjunto. A União é quem representa a RFB no plano internacional (art. 21, inciso I), mas possui
+apenas autonomia, jamais soberania.
+O art. 18, § 1º, da CF/88 determina que Brasília é a capital federal. Brasília não se confunde com
+o Distrito Federal, ocupando apenas parte do seu território.
+
+União
+
+A União é pessoa jurídica de direito público interno, sem personalidade internacional, autônoma,
+com competências administrativas e legislativas enumeradas pela Carta Magna. É esse ente
+federativo que representa a República Federativa do Brasil no plano internacional.
+A União é o ente federativo que atua em nome da federação. No que diz respeito à sua
+competência legislativa, pode editar leis nacionais (às quais se submetem todos os habitantes do
+território nacional) ou leis federais (que alcançam apenas aqueles que estão sob a jurisdição da
+União, como é o caso dos servidores públicos federais). Como exemplo de lei federal, citamos a
+Lei nº 8.112/90, que trata do regime jurídico dos servidores públicos federais.
+Segundo o art. 18, § 2º, os Territórios Federais integram a União; eles não são dotados de
+autonomia política, sendo considerados meras descentralizações administrativas. Por isso, são
+considerados pela doutrina autarquias territoriais da União. Atualmente, não existe nenhum
+Território Federal.
+
+1
+ O Prof. Manoel Gonçalves Ferreira Filho diz que o federalismo brasileiro é de 2º grau, apesar de reconhecer a
+existência de 3 (três) ordens jurídicas. Segundo ele, haveria um grau da União para os Estados e outro grau, dos
+Estados para os Municípios.
+
+
+                                                                                                             12
+                                                                                                             230
+
+
+---
+
+Estados
+Os Estados-membros ou Estados federados1, assim como a União, são entes autônomos,
+apresentando personalidade jurídica de direito público interno. São dotados de autonomia
+política, por isso apresentam capacidade de auto-organização, autolegislação, autoadministração
+e autogoverno.
+A preservação da autonomia dos estados-membros embasou a decisão do STF que impediu a
+convocação de governadores por Comissão Parlamentar de Inquérito (CPI) instaurada pelo
+Senado Federal. Segundo o Supremo, "caracteriza excesso de poder a ampliação do poder
+investigativo das CPIs para atingir a esfera de competência dos estados federados ou as
+atribuições exclusivas — competências autônomas — do Tribunal de Contas da União".2
+O art. 25 da CF/88 dispõe sobre a capacidade de auto-organização e autolegislação dos
+Estados-membros:
+
+           Art. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que
+           adotarem, observados os princípios desta Constituição.
+
+A auto-organização dos Estados-membros manifesta-se por meio da elaboração de suas
+Constituições, fruto do exercício do Poder Constituinte Derivado Decorrente da atuação de suas
+Assembleias Legislativas. Já a autolegislação ocorre pela edição de suas próprias leis, resultando
+da atuação do legislador ordinário, também nas Assembleias Legislativas.
+Segundo o STF, é inconstitucional norma de Constituição estadual que preveja quórum diverso
+de 3/5 (três quintos) dos membros do Poder Legislativo para aprovação de emendas
+constitucionais3. Ou seja, qualquer alteração no texto da Constituição Estadual deve ser aprovada
+por 3/5 (três quintos) dos Deputados Estaduais.
+No exercício da sua capacidade de auto-organização e de autolegislação, isto é, ao elaborar suas
+leis e Constituição, os Estados deverão obedecer aos:
+          a) Princípios constitucionais sensíveis: esses princípios estão enumerados taxativamente
+          pela Constituição (art. 34, VII). O nome “sensíveis” deve-se ao fato de que eles são de
+          observância obrigatória, sob pena de intervenção federal, ou seja, caso contrariados,
+          provocam uma reação.4
+
+           Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto para:
+           (...)
+           VII - assegurar a observância dos seguintes princípios constitucionais:
+           a) forma republicana, sistema representativo e regime democrático;
+           b) direitos da pessoa humana;
+
+1
+ Não confunda Estado federado (sinônimo de Estado-membro) com Estado federal (sinônimo de República
+Federativa do Brasil). Os primeiros são parte do segundo.
+2
+    ADPF 848 MC-Ref/DF, Rel. Min. Rosa Weber, julgamento virtual finalizado em 25.6.2021.
+3
+ ADI 6453/RO, Rel. Min. Rosa Weber, julgado em 11/2/2022.
+4
+ MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 697.
+
+
+                                                                                                         13
+                                                                                                         137
+
+
+---
+
+        c) autonomia municipal;
+        d) prestação de contas da administração pública, direta e indireta;
+        e) aplicação do mínimo exigido da receita resultante de impostos estaduais,
+        compreendida a proveniente de transferências, na manutenção e
+        desenvolvimento do ensino e nas ações e serviços públicos de saúde.
+
+       b) Princípios constitucionais extensíveis: são normas de organização que a Lei
+       Fundamental estendeu a Estados-membros, Municípios e Distrito Federal.5 Encontram-se
+       dispostos em normas espalhadas pelo texto da Carta Magna. É o caso dos fundamentos e
+       objetivos fundamentais da RFB, por exemplo (art. 1º, I a V; art. 3º, I a IV e art. 4º, I a X,
+       CF/88).
+       c) Princípios constitucionais estabelecidos: são normas espalhadas pelo texto da
+       Constituição que, além de organizarem a própria federação, estabelecem preceitos
+       centrais de observância pelos Estados-membros em sua auto-organização.6 Exemplo: arts.
+                                                   ==106d==
+
+       27; 28, 37, I a XXI, §§ 1º a 6º; 39 a 41, CF.
+Segundo o STF, “se é certo que a nova Carta Política contempla um elenco menos abrangente
+de princípios constitucionais sensíveis, a denotar, com isso, a expansão de poderes jurídicos na
+esfera das coletividades autônomas locais, o mesmo não se pode afirmar quanto aos princípios
+federais extensíveis e aos princípios constitucionais estabelecidos, os quais, embora
+disseminados pelo texto constitucional, posto que não é tópica a sua localização, configuram
+acervo expressivo de limitações dessa autonomia local, cuja identificação – até mesmo pelos
+efeitos restritivos que deles decorrem – impõe-se realizar” (STF, Pleno, ADI no 216/PB, RTJ
+146/388).
+Para fixarmos melhor quais são os princípios constitucionais sensíveis, que tal um esquema?
+
+5
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 697.
+6
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 697.
+
+
+                                                                                                          14
+                                                                                                          137
+
+
+---
+
+Os Estados também possuem capacidade de autogoverno, elegendo seus representantes nos
+Poderes Legislativo e Executivo, os quais não terão qualquer vínculo de subordinação ao poder
+central. A Constituição Federal também estabelece regras de organização para os Poderes
+Legislativo, Executivo e Judiciário estaduais.
+O Poder Legislativo estadual é unicameral, sendo formado apenas pela Assembleia Legislativa.
+Esse modelo é diferente do Poder Legislativo federal, que é bicameral, composto pelo Senado
+Federal e pela Câmara dos Deputados.
+Veja o que dispõe o artigo 27, §1º, da Carta Magna:
+
+           § 1º - Será de quatro anos o mandato dos Deputados Estaduais,
+           aplicando-se-lhes as regras desta Constituição sobre sistema eleitoral,
+           inviolabilidade, imunidades, remuneração, perda de mandato, licença,
+           impedimentos e incorporação às Forças Armadas.
+
+Os deputados estaduais são eleitos para mandatos de quatro anos, pelo sistema proporcional.
+Seu número é determinado pela regra estabelecida no art. 27, caput, da Carta Magna:
+
+           Art. 27. O número de Deputados à Assembleia Legislativa corresponderá ao
+           triplo da representação do Estado na Câmara dos Deputados e, atingido o
+           número de trinta e seis, será acrescido de tantos quantos forem os Deputados
+           Federais acima de doze.
+           [...]
+           § 2º O subsídio dos Deputados Estaduais será fixado por lei de iniciativa da
+           Assembléia Legislativa, na razão de, no máximo, setenta e cinco por cento
+           daquele estabelecido, em espécie, para os Deputados Federais, observado o
+           que dispõem os arts. 39, § 4º, 57, § 7º, 150, II, 153, III, e 153, § 2º, I.
+           § 3º Compete às Assembléias Legislativas dispor sobre seu regimento interno,
+           polícia e serviços administrativos de sua secretaria, e prover os respectivos
+           cargos.
+           § 4º A lei disporá sobre a iniciativa popular no processo legislativo estadual.
+
+O número de deputados estaduais será, então, o triplo dos deputados federais. Se um
+Estado-membro possuir 10 deputados federais, ele terá, por consequência, 30 deputados
+estaduais (3 x 10). Se um Estado tiver 11 deputados federais, ele terá 33 deputados estaduais (3 x
+11). No entanto, uma vez atingido o número de 36, serão acrescidos tantos quantos forem os
+Deputados Federais acima de 12. Assim, caso um estado tenha 20 deputados federais, fazemos a
+conta (3 x 12) + (20-12), o que totaliza 44 deputados estaduais.
+No entendimento do Supremo Tribunal Federal7, o subsídio dos deputados estaduais deve ser
+fixado por lei em sentido formal (CF, art. 27, § 2º). Além disso, a vinculação do valor do subsídio
+dos deputados estaduais ao quantum estipulado pela União aos deputados federais é
+incompatível com o princípio federativo e com a autonomia dos entes federados (CF/88, art. 18,
+caput).
+
+7
+    ADI 6437/MT, Rel. Min. Rosa Weber, julgamento virtual ﬁnalizado em 28.5.2021.
+
+
+                                                                                                15
+                                                                                                230
+
+
+---
+
+Deve ser editada lei estadual específica para fixar a remuneração dos deputados estaduais e dos
+outros agentes públicos, sendo vedado o reajuste remuneratório automático ("efeito repique" ou
+"efeito dominó"), pois é vedada a vinculação ou a equiparação remuneratória em relação aos
+agentes políticos ou servidores públicos em geral (art. 37, inciso XIII, da CF/88).
+Sabe-se que as atribuições básicas do Poder Legislativo são a inovação da ordem jurídica e o
+exercício da fiscalização. Nesse sentido, o legislativo estadual detém competência para convocar
+e solicitar informações a certas autoridades (Secretários de Estado, por exemplo). Nesse sentido,
+segundo o STF, é “incompatível com a Constituição Federal ato normativo estadual que amplie
+as atribuições de fiscalização do Legislativo local e o rol de autoridades submetidas à solicitação
+de informações” (ADI 5.289, rel. min. Marco Aurélio, j. 7-6-2021).
+Em relação às mesas diretoras das assembleias legislativas, o STF firmou um importante
+entendimento a respeito da eleição e reeleição dos membros desses órgãos diretivos das casas
+legislativas estaduais. Veja:
+
+        (i) a eleição dos membros das Mesas das Assembleias Legislativas estaduais deve
+        observar o limite de uma única reeleição ou recondução, limite cuja observância
+        independe de os mandatos consecutivos referirem-se à mesma legislatura;
+        (ii) a vedação à reeleição ou recondução aplica-se somente para o mesmo cargo
+        da mesa diretora, não impedindo que membro da mesa anterior se mantenha no
+        órgão de direção, desde que em cargo distinto;
+        (iii) o limite de uma única reeleição ou recondução, acima veiculado, deve
+        orientar a formação da Mesa da Assembleia Legislativa no período posterior à
+        data de publicação da ata de julgamento da ADI 6.524, de modo que não serão
+        consideradas, para fins de inelegibilidade, as composições eleitas antes de
+        7.1.2021, salvo se configurada a antecipação fraudulenta das eleições como burla
+        ao entendimento do Supremo Tribunal Federal [ADI 6688/PR, relator Ministro
+        Gilmar Mendes, julgamento virtual finalizado em 7.12.2022].
+
+No que se refere ao Poder Executivo estadual, destaca-se o art. 28 da Constituição:
+
+        Art. 28. A eleição do Governador e do Vice-Governador de Estado, para
+        mandato de 4 (quatro) anos, realizar-se-á no primeiro domingo de outubro, em
+        primeiro turno, e no último domingo de outubro, em segundo turno, se houver,
+        do ano anterior ao do término do mandato de seus antecessores, e a posse
+        ocorrerá em 6 de janeiro do ano subsequente, observado, quanto ao mais, o
+        disposto no art. 77 desta Constituição. (Redação dada pela Emenda
+        Constitucional nº 111, de 2021).
+        § 1º Perderá o mandato o Governador que assumir outro cargo ou função na
+        administração pública direta ou indireta, ressalvada a posse em virtude de
+        concurso público e observado o disposto no art. 38, I, IV e V.
+
+
+                                                                                                16
+                                                                                                230
+
+
+---
+
+        § 2º Os subsídios do Governador, do Vice-Governador e dos Secretários de
+        Estado serão fixados por lei de iniciativa da Assembleia Legislativa, observado o
+        que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I.
+
+A partir da promulgação da Emenda Constitucional nº 111, de 28 de setembro de 2021, o texto
+constitucional estabelece que a posse do Governador e do Vice-Governador se dará em 6 de
+janeiro do ano subsequente ao da eleição. Antes da emenda, a data prevista na redação da
+Constituição era 1º de janeiro. Todavia, tal alteração só produzirá efeito prático a partir das
+eleições de 2026. Os Governadores eleitos em 2022 tomaram posse em 1º de janeiro de 2023 e
+seus mandatos durarão até a posse de seus sucessores, em 6 de janeiro de 2027.
+
+        É inconstitucional, por violação ao princípio democrático, norma de Constituição
+        estadual que, a pretexto de disciplinar a dupla vacância no último biênio do
+        mandato do chefe do Poder Executivo, suprime a realização de eleições [ADI
+        7137/SP, relatora Ministra Rosa Weber, julgamento virtual finalizado em
+        19.8.2022].
+
+Observe que os subsídios do Governador, do Vice-Governador e dos secretários de Estado são
+fixados por lei, a partir de projeto apresentado pela Assembleia Legislativa. Sujeitam-se,
+portanto, a veto do Governador. Seus valores servem como limite remuneratório (teto) no âmbito
+do Poder Executivo estadual, exceto para os procuradores estaduais, cujo teto salarial será de
+90,25% do subsídio de Ministro do STF (CF, art. 37, XI).8
+Mesmo diante dessa regra, os Estados-membros podem adotar um limite diverso para
+Legislativo, Executivo e Judiciário, um teto único. É o que determina o art. 37, §12, da
+Constituição:
+
+        § 12. Para os fins do disposto no inciso XI do caput deste artigo, fica facultado
+        aos Estados e ao Distrito Federal fixar, em seu âmbito, mediante emenda às
+        respectivas Constituições e Lei Orgânica, como limite único, o subsídio mensal
+        dos Desembargadores do respectivo Tribunal de Justiça, limitado a noventa
+        inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do
+        Supremo Tribunal Federal, não se aplicando o disposto neste parágrafo aos
+        subsídios dos Deputados Estaduais e Distritais e dos Vereadores.
+
+No que concerne ao Poder Judiciário, estabelece a Constituição que os Estados organizarão sua
+Justiça, observados os princípios nela estabelecidos (art. 125, caput, CF/88). A Carta Magna
+determina, ainda, que a competência dos tribunais será definida na Constituição do Estado,
+sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça (art. 125, § 1º, CF/88).
+
+8
+ O subsídio dos Defensores públicos estaduais também tem como teto remuneratório o subsídio dos
+Desembargadores do Tribunal de Justiça.
+
+
+                                                                                                17
+                                                                                                230
+
+
+---
+
+A lei estadual poderá criar, mediante proposta do Tribunal de Justiça, a Justiça Militar estadual,
+constituída, em primeiro grau, pelos juízes de direito e pelos Conselhos de Justiça e, em segundo
+grau, pelo próprio Tribunal de Justiça ou por Tribunal de Justiça Militar nos Estados em que o
+efetivo militar seja superior a vinte mil integrantes (art. 125, § 3º, CF/88).
+Além de auto-organização, autolegislação e autogoverno, os Estados possuem
+autoadministração. Assim, são competentes para se administrarem, no exercício das atribuições
+definidas pela Constituição.
+Determina a Carta Magna que os Estados poderão, mediante lei complementar, instituir regiões
+metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de
+municípios limítrofes, para integrar a organização, o planejamento e a execução de funções
+públicas de interesse comum (art. 25, § 3º, CF/88). São, portanto, 3 (três) os requisitos para que
+os estados atuem nesse sentido:
+          a) Lei complementar estadual;
+          b) Os municípios envolvidos devem ser limítrofes;
+          c) Finalidade de integrar a organização, o planejamento e a execução de funções públicas
+          de interesse comum.
+Mas, afinal, o que são microrregiões, regiões metropolitanas e aglomerados urbanos?
+As regiões metropolitanas são formadas por um conjunto de Municípios cujas sedes se unem,
+com certa continuidade urbana, em torno de um Município-polo. As microrregiões, por sua vez,
+são formadas por Municípios limítrofes, sem continuidade urbana, com características
+homogêneas e problemas administrativos comuns. Finalmente, os aglomerados urbanos são
+áreas urbanas cujos Municípios apresentam tendência à complementaridade de suas funções,
+exigindo, por isso, um planejamento integrado e uma ação coordenada dos entes públicos. É o
+caso da Baixada Santista, por exemplo.
+Em 2013, o STF julgou Ação Direta de Inconstitucionalidade que versava sobre a criação da
+Região Metropolitana do Rio de Janeiro e a Microrregião dos Lagos.9 Na oportunidade, o
+Tribunal considerou que:
+          a) A criação de regiões metropolitanas depende da edição de lei complementar, sendo
+          compulsória a participação dos Municípios. Em outras palavras, a participação de
+          Município em região metropolitana não pode estar condicionada à prévia manifestação da
+          respectiva Câmara dos Vereadores. A obrigatoriedade de participação dos Municípios em
+          região metropolitana e microrregião não viola a autonomia municipal.
+          b) O “interesse comum” que leva à criação de regiões metropolitanas e microrregiões
+          inclui funções e serviços públicos supramunicipais. Como exemplo, cita-se o caso da
+          atividade de saneamento básico, que extrapola o interesse local.
+          c) Quando se cria uma região metropolitana, não há uma mera transferência de
+          competências para o Estado. Ao contrário, deve haver uma divisão de responsabilidades
+          entre o Estado e os Municípios. O poder decisório e o poder concedente (dos serviços
+          públicos) não podem ficar apenas nas mãos do Estado. Deve ser constituído um órgão
+          colegiado responsável pelo poder decisório e pelo poder concedente. A participação dos
+
+9
+    ADI 1.842, Rel. Min. Gilmar Mendes, DJe: 13.09.2013.
+
+
+                                                                                               18
+                                                                                               230
+
+
+---
+
+          entes nesse órgão colegiado não precisa ser paritária, desde que apta a prevenir a
+          concentração do poder decisório no âmbito de um único ente.
+          No mesmo sentido, o STF entende ser inconstitucional norma que prevê a concentração
+          excessiva do poder decisório nas mãos de só um dos entes públicos integrantes de região
+          metropolitana10.
+
+(Pref. Fortaleza – 2023) Todos os estados brasileiros podem adotar sua própria Constituição e
+editar suas leis, desde que não infrinjam as normas e os princípios estabelecidos na Constituição
+Federal.
+Comentários:
+É exatamente isso: os entes federados brasileiros subnacionais (estados, Distrito Federal e
+municípios) são dotados da capacidade de auto-organização, elaborando suas próprias
+constituições (no caso dos Estados) e leis orgânicas (Distrito Federal e municípios). Questão
+correta.
+(PGE-RJ – 2022) Os estados poderão, mediante lei ordinária, instituir regiões metropolitanas,
+aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes.
+Comentários:
+Conforme determina a CF/88 (art. 25, § 3º), compete aos Estados, a partir de lei complementar
+estadual, a instituição de regiões metropolitanas aglomerações urbanas e microrregiões,
+constituídas por agrupamentos de municípios limítrofes. Questão errada.
+(TCE-RJ – 2015) A função pública do saneamento básico frequentemente extrapola o interesse
+local e passa a ter natureza de interesse comum no caso de instituição de regiões metropolitanas,
+aglomerações urbanas e microrregiões, motivo pelo qual, nessas hipóteses, é constitucional a
+transferência ao Estado-membro do poder concedente de funções e serviços públicos de
+saneamento básico.
+Comentários:
+Não se pode simplesmente transferir ao Estado-membro o poder concedente de funções e
+serviços públicos de saneamento básico. Deve haver uma divisão de responsabilidades entre o
+Estado e os Municípios. Questão errada.
+(PRF – 2014) Na Federação brasileira, a União é entidade soberana, enquanto os estados
+membros e o Distrito Federal são entidades autônomas.
+Comentários:
+A União também é um ente federativo dotado de autonomia. A República Federativa do Brasil é
+que possui soberania. Questão errada.
+
+10
+     ADI 6573/AL, 6911/AL e ADPF 863/AL, Rel. Min. Edson Fachin, julgamento virtual ﬁnalizado em 13.5.2022.
+
+
+                                                                                                              19
+                                                                                                          230
+
+
+---
+
+Distrito Federal
+A natureza jurídica do Distrito Federal tem gerado algumas discussões. Alguns autores defendem
+que ele tem natureza híbrida, por apresentar algumas características dos Estados e outras dos
+Municípios. Para José Afonso da Silva, o Distrito Federal não é nem Estado nem Município. Já o
+STF afirma que o Distrito Federal é um ente federativo com autonomia parcialmente tutelada
+pela União.
+O Distrito Federal é ente federado autônomo e, como tal, dispõe de auto-organização,
+autoadministração, autolegislação e autogoverno (CF, arts. 18, 32 e 34). A auto-organização do
+Distrito Federal manifesta-se por meio de Lei Orgânica, votada em dois turnos com interstício
+mínimo de dez dias e aprovada por dois terços da Câmara Legislativa, que a promulgará,
+atendidos os princípios estabelecidos na Constituição (art. 32, caput, CF/88):
+
+        Art. 32. O Distrito Federal, vedada sua divisão em Municípios, reger- se-á por lei
+        orgânica, votada em dois turnos com interstício mínimo de dez dias, e aprovada
+        por dois terços da Câmara Legislativa, que a promulgará, atendidos os princípios
+        estabelecidos nesta Constituição.
+        § 1º Ao Distrito Federal são atribuídas as competências legislativas reservadas
+        aos Estados e Municípios.
+        § 2º A eleição do Governador e do Vice-Governador, observadas as regras do art.
+        77, e dos Deputados Distritais coincidirá com a dos Governadores e Deputados
+        Estaduais, para mandato de igual duração.
+        § 3º Aos Deputados Distritais e à Câmara Legislativa aplica-se o disposto no art.
+        27.
+        § 4º Lei federal disporá sobre a utilização, pelo Governo do Distrito Federal, da
+        polícia civil, da polícia penal, da polícia militar e do corpo de bombeiros militar.
+
+No que se refere à autolegislação, o Distrito Federal apresenta uma característica peculiar: a ele
+são atribuídas as competências legislativas reservadas aos Estados e Municípios (CF, art. 32, §1º e
+art. 147). Não se pode, porém, dizer que o Distrito Federal apresenta todas as competências
+legislativas dos Estados-membros. Algumas não lhe foram estendidas, como é o caso, por
+exemplo, da competência para dispor sobre sua organização judiciária, que é privativa da União
+(art. 22, XVII, CF).
+Além disso, ao contrário dos Estados-membros, a competência para organizar e manter, no seu
+âmbito, o Ministério Público, o Poder Judiciário, a polícia civil, a polícia militar, a polícia penal e o
+corpo de bombeiros militar é da União (CF, art. 21, XIII e XIV).
+Já no que tange ao autogoverno, a eleição do Governador e do Vice-Governador segue as
+regras da eleição para Presidente da República. A dos deputados distritais segue a regra dos
+deputados estaduais.
+Outra peculiaridade do Distrito Federal é que, diferentemente do que ocorre com os demais
+entes federados, não há previsão constitucional para alteração dos seus limites territoriais.
+Ressalta-se, ainda, que, ao contrário dos Estados-membros, o Distrito Federal não pode ser
+dividido em Municípios (art. 32, caput, CF/88).
+
+                                                                                                      20
+                                                                                                      230
+
+
+---
+
+Além disso, vale reforçar que o Distrito Federal não pode organizar nem manter o Judiciário, o
+Ministério Público, as polícias civil, penal e militar e o corpo de bombeiros. Todos esses órgãos
+são organizados e mantidos pela União, cabendo a ela legislar sobre a matéria. Nesse sentido,
+determina a Súmula Vinculante nº 39 que “compete privativamente à União legislar sobre
+vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito
+Federal”.
+
+       “O Distrito Federal é uma unidade federativa de compostura singular, dado que:
+       a) desfruta de competências que são próprias dos Estados e dos Municípios,
+                                             ==106d==
+
+       cumulativamente (art. 32, § 1°, CF); b) algumas de suas instituições elementares
+       são organizadas e mantidas pela União (art. 21, XIII e XIV, CF); c) os serviços
+       públicos a cuja prestação está jungido são financiados, em parte, pela mesma
+       pessoa federada central, que é a União (art. 21, XIV, parte final, CF). Conquanto
+       submetido a regime constitucional diferenciado, o Distrito Federal está bem mais
+       próximo da estruturação dos Estados-membros do que da arquitetura
+       constitucional dos Municípios. Isso porque: a) ao tratar da competência
+       concorrente, a Lei Maior colocou o Distrito Federal em pé de igualdade com os
+       Estados e a União (art. 24); b) ao versar o tema da intervenção, a Constituição
+       dispôs que a "União não intervirá nos Estados nem no Distrito Federal" (art. 34),
+       reservando para os Municípios um artigo em apartado (art. 35); c) o Distrito
+       Federal tem, em plenitude, os três orgânicos Poderes estatais, ao passo que os
+       Municípios somente dois (inciso I do art. 29); d) a Constituição tratou de maneira
+       uniforme os Estados-membros e o Distrito Federal quanto ao número de
+       deputados distritais, à duração dos respectivos mandatos, aos subsídios dos
+       parlamentares, etc. (§ 3º do art. 32); e) no tocante à legitimação para propositura
+       de ação direta de inconstitucionalidade perante o STF, a Magna Carta dispensou
+       à Mesa da Câmara Legislativa do Distrito Federal o mesmo tratamento dado às
+       assembleias legislativas estaduais (inciso IV do art. 103); f) no modelo
+       constitucional brasileiro, o Distrito Federal se coloca ao lado dos
+       Estados-membros para compor a pessoa jurídica da União; g) tanto os
+       Estados-membros como o Distrito Federal participam da formação da vontade
+       legislativa da União (arts. 45 e 46). A LC 101/2000 conferiu ao Distrito Federal um
+       tratamento rimado com a sua peculiar e favorecida situação tributário-financeira,
+       porquanto desfruta de fontes cumulativas de receitas tributárias, na medida em
+       que adiciona às arrecadações próprias dos Estados aquelas que timbram o perfil
+       constitucional dos Municípios. Razoável é o critério de que se valeram os
+       dispositivos legais agora questionados. Se irrazoabilidade houvesse, ela estaria
+       em igualar o Distrito Federal aos Municípios, visto que o primeiro é,
+       superlativamente, aquinhoado com receitas tributárias. Ademais, goza do favor
+       constitucional de não custear seus órgãos judiciário e ministerial público, tanto
+       quanto a sua defensoria pública, polícias civil e militar e ainda seu corpo de
+
+                                                                                              21
+                                                                                              230
+
+
+---
+
+        bombeiros militar” [ADI 3.756, rel. min. Ayres Britto, j. 21-6-2007, P, DJ de
+        19-10-2007].
+
+(MPE/RO – 2023) É vedada ao Distrito Federal a sua divisão em municípios.
+Comentários:
+Conforme informa o caput do art. 32 da CF/88, é vedada a divisão do Distrito Federal em
+municípios. Questão correta.
+(FUB – 2015) A autonomia do Distrito Federal e sua organização político-administrativa têm
+limitações constitucionais.
+Comentários:
+A autonomia do Distrito Federal é parcialmente tutelada pela União, ou seja, apresenta
+limitações previstas na CF/88. Como exemplo, é competência da União organizar e manter a
+polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar do Distrito Federal.
+Questão correta.
+
+                                                                                                  22
+                                                                                                  230
+
+
+---
+
+Municípios
+Os Municípios são entes autônomos, sendo sua autonomia alçada, pela Constituição Federal, à
+condição de princípio constitucional sensível (CF, art. 34, VII, “c”). Essa autonomia se baseia na
+capacidade de auto-organização, autolegislação, autogoverno e autoadministração.
+Segundo Alexandre de Moraes, pode-se dizer que o Município se auto-organiza por meio de sua
+Lei Orgânica Municipal; autolegisla-se por meio das leis municipais; autogoverna-se por meio da
+eleição direta de seu Prefeito, Vice-Prefeito e vereadores sem qualquer ingerência dos Governos
+Federal e Estadual; e, por fim, autoadministra-se ao pôr em exercício suas competências
+administrativas, tributárias e legislativas, diretamente conferidas pela Constituição Federal. 1
+Nos Municípios, ao contrário do que acontece nos demais entes da federação, não há Poder
+Judiciário. O Poder Legislativo, assim como nos Estados-membros, é unicameral.
+No que diz respeito à auto-organização, determina a Carta da República que a Lei Orgânica do
+município será votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois
+terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios
+estabelecidos nessa Constituição, na Constituição do respectivo Estado. Serão objeto da Lei
+Orgânica a organização dos órgãos da Administração, a relação entre os Poderes, bem como a
+disciplina da competência legislativa do Município.2
+O poder de auto-organização dos Municípios é limitado pela Constituição Federal (art. 29,
+CF/88). É apenas ela que fixará os parâmetros limitadores do poder de auto-organização dos
+Municípios. Segundo o STF, tais limites não podem ser atenuados nem agravados pela
+Constituição do Estado.3
+É necessário que se tenha em mente que as Leis Orgânicas devem respeitar os princípios
+previstos no texto constitucional. Assim, vale a pena destacar o seguinte:
+a)​  Os princípios fundamentais da República Federativa do Brasil (art. 1º - art. 4º, CF/88)
+devem ser observados pelos Municípios.
+b)​   Os direitos e garantias fundamentais previstos na CF/88 devem ser observados em âmbito
+municipal.
+c)​    A repartição de competências entre os entes federativos, definida pela CF/88, deve ser
+observada pela Lei Orgânica Municipal.
+d)​    As regras gerais do processo legislativo previstas na CF/88 devem ser aplicadas, por
+simetria, ao processo legislativo municipal definido pelas Leis Orgânicas.
+e)​    Os princípios da Administração Pública previstos na CF/88 também se aplicam à esfera
+municipal.
+f)​     Além dos demais direitos e garantias definidos pela Constituição do Estado.
+
+
+1
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo Editora Atlas:
+2010, pp. 714.
+2
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo Editora Atlas:
+2010, pp. 714.
+3
+  ADI 2.112 MC, rel. min. Sepúlveda Pertence, j. 11-5-2000, P, DJ de 18-5-2001.
+
+                                                                                                                         23
+                                                                                                                        230
+
+
+---
+
+Além disso, a Constituição Federal de 1988 prevê, em seu art. 29, regras gerais de organização
+para os Municípios. Em outras palavras, a CF/88 estabelece diretrizes a serem observadas pelas
+Leis Orgânicas dos Municípios.
+Compete à Lei Orgânica fixar o número de Vereadores, observados os limites máximos definidos
+pela Constituição, escalonados segundo o número de habitantes do Município. Nos Municípios
+com até 15 mil habitantes, por exemplo, o número máximo de Vereadores é 9 (nove); já nos
+Municípios com mais de 8 milhões de habitantes, o número máximo de Vereadores é 55
+(cinquenta e cinco).
+
+       Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o
+       interstício mínimo de dez dias, e aprovada por dois terços dos membros da
+       Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta
+       Constituição, na Constituição do respectivo Estado e os seguintes preceitos:
+       I - eleição do Prefeito, do Vice-Prefeito e dos Vereadores, para mandato de
+       quatro anos, mediante pleito direto e simultâneo realizado em todo o País;
+       II - eleição do Prefeito e do Vice-Prefeito realizada no primeiro domingo de
+       outubro do ano anterior ao término do mandato dos que devam suceder,
+       aplicadas as regras do art. 77, no caso de Municípios com mais de duzentos mil
+       eleitores;
+       III - posse do Prefeito e do Vice-Prefeito no dia 1º de janeiro do ano subsequente
+       ao da eleição;
+       IV - para a composição das Câmaras Municipais, será observado o limite máximo
+       de:
+       a) 9 (nove) Vereadores, nos Municípios de até 15.000 (quinze mil) habitantes;
+       b) 11 (onze) Vereadores, nos Municípios de mais de 15.000 (quinze mil) habitantes
+       e de até 30.000 (trinta mil) habitantes;
+       c) 13 (treze) Vereadores, nos Municípios com mais de 30.000 (trinta mil)
+       habitantes e de até 50.000 (cinquenta mil) habitantes;
+       d) 15 (quinze) Vereadores, nos Municípios de mais de 50.000 (cinquenta mil)
+       habitantes e de até 80.000 (oitenta mil) habitantes;
+       e) 17 (dezessete) Vereadores, nos Municípios de mais de 80.000 (oitenta mil)
+       habitantes e de até 120.000 (cento e vinte mil) habitantes;
+       f) 19 (dezenove) Vereadores, nos Municípios de mais de 120.000 (cento e vinte
+       mil) habitantes e de até 160.000 (cento sessenta mil) habitantes;
+       g) 21 (vinte e um) Vereadores, nos Municípios de mais de 160.000 (cento e
+       sessenta mil) habitantes e de até 300.000 (trezentos mil) habitantes;
+       h) 23 (vinte e três) Vereadores, nos Municípios de mais de 300.000 (trezentos mil)
+       habitantes e de até 450.000 (quatrocentos e cinquenta mil) habitantes;
+       i) 25 (vinte e cinco) Vereadores, nos Municípios de mais de 450.000 (quatrocentos
+       e cinquenta mil) habitantes e de até 600.000 (seiscentos mil) habitantes;
+
+                                                                                            24
+                                                                                            230
+
+
+---
+
+j) 27 (vinte e sete) Vereadores, nos Municípios de mais de 600.000 (seiscentos mil)
+habitantes e de até 750.000 (setecentos cinquenta mil) habitantes;
+k) 29 (vinte e nove) Vereadores, nos Municípios de mais de 750.000 (setecentos e
+cinquenta mil) habitantes e de até 900.000 (novecentos mil) habitantes;
+l) 31 (trinta e um) Vereadores, nos Municípios de mais de 900.000 (novecentos
+mil) habitantes e de até 1.050.000 (um milhão e cinquenta mil) habitantes;
+m) 33 (trinta e três) Vereadores, nos Municípios de mais de 1.050.000 (um milhão
+e cinquenta mil) habitantes e de até 1.200.000 (um milhão e duzentos mil)
+habitantes;
+n) 35 (trinta e cinco) Vereadores, nos Municípios de mais de 1.200.000 (um milhão
+e duzentos mil) habitantes e de até 1.350.000 (um milhão e trezentos e cinquenta
+mil) habitantes;
+o) 37 (trinta e sete) Vereadores, nos Municípios de 1.350.000 (um milhão e
+trezentos e cinquenta mil) habitantes e de até 1.500.000 (um milhão e quinhentos
+mil) habitantes;
+p) 39 (trinta e nove) Vereadores, nos Municípios de mais de 1.500.000 (um milhão
+e quinhentos mil) habitantes e de até 1.800.000 (um milhão e oitocentos mil)
+habitantes;
+q) 41 (quarenta e um) Vereadores, nos Municípios de mais de 1.800.000 (um
+milhão e oitocentos mil) habitantes e de até 2.400.000 (dois milhões e
+quatrocentos mil) habitantes;
+r) 43 (quarenta e três) Vereadores, nos Municípios de mais de 2.400.000 (dois
+milhões e quatrocentos mil) habitantes e de até 3.000.000 (três milhões) de
+habitantes;
+s) 45 (quarenta e cinco) Vereadores, nos Municípios de mais de 3.000.000 (três
+milhões) de habitantes e de até 4.000.000 (quatro milhões) de habitantes;
+t) 47 (quarenta e sete) Vereadores, nos Municípios de mais de 4.000.000 (quatro
+milhões) de habitantes e de até 5.000.000 (cinco milhões) de habitantes;
+u) 49 (quarenta e nove) Vereadores, nos Municípios de mais de 5.000.000 (cinco
+milhões) de habitantes e de até 6.000.000 (seis milhões) de habitantes;
+v) 51 (cinquenta e um) Vereadores, nos Municípios de mais de 6.000.000 (seis
+milhões) de habitantes e de até 7.000.000 (sete milhões) de habitantes;
+w) 53 (cinquenta e três) Vereadores, nos Municípios de mais de 7.000.000 (sete
+milhões) de habitantes e de até 8.000.000 (oito milhões) de habitantes; e
+x) 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito
+milhões) de habitantes;
+V - subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados
+por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37,
+XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
+
+                                                                                      25
+                                                                                      230
+
+
+---
+
+       VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais
+       em cada legislatura para a subsequente, observado o que dispõe esta
+       Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e
+       os seguintes limites máximos:
+       a) em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores
+       corresponderá a vinte por cento do subsídio dos Deputados Estaduais;
+       b) em Municípios de dez mil e um a cinquenta mil habitantes, o subsídio máximo
+       dos Vereadores corresponderá a trinta por cento do subsídio dos Deputados
+       Estaduais;
+       c) em Municípios de cinquenta mil e um a cem mil habitantes, o subsídio máximo
+       dos Vereadores corresponderá a quarenta por cento do subsídio dos Deputados
+       Estaduais;
+       d) em Municípios de cem mil e um a trezentos mil habitantes, o subsídio máximo
+       dos Vereadores corresponderá a cinquenta por cento do subsídio dos Deputados
+       Estaduais;
+       e) em Municípios de trezentos mil e um a quinhentos mil habitantes, o subsídio
+       máximo dos Vereadores corresponderá a sessenta por cento do subsídio dos
+       Deputados Estaduais;
+       f) em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos
+       Vereadores corresponderá a setenta e cinco por cento do subsídio dos
+       Deputados Estaduais;
+       VII - o total da despesa com a remuneração dos Vereadores não poderá
+       ultrapassar o montante de cinco por cento da receita do Município;
+       VIII - inviolabilidade dos Vereadores por suas opiniões, palavras e votos no
+       exercício do mandato e na circunscrição do Município;
+       IX - proibições e incompatibilidades, no exercício da vereança, similares, no que
+       couber, ao disposto nesta Constituição para os membros do Congresso Nacional
+       e na Constituição do respectivo Estado para os membros da Assembléia
+       Legislativa;
+       X- julgamento do Prefeito perante o Tribunal de Justiça;
+       XI - organização das funções legislativas e fiscalizadoras da Câmara Municipal;
+       XII - cooperação das associações representativas no planejamento municipal;
+       XIII - iniciativa popular de projetos de lei de interesse específico do Município, da
+       cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento
+       do eleitorado;
+       XIV - perda do mandato do Prefeito, nos termos do art. 28, parágrafo único .
+
+O Prefeito e Vice-Prefeito serão eleitos pelo sistema majoritário, para mandato de 4 (quatro)
+anos. A eleição é realizada no primeiro domingo de outubro do ano anterior ao término do
+mandato dos que devem suceder. No caso de Municípios com mais de 200.000 eleitores, a
+
+                                                                                               26
+                                                                                               230
+
+
+---
+
+eleição de Prefeito e Vice-Prefeito ocorrerá pelo sistema majoritário de 2 turnos; caso o número
+de eleitores seja inferior a 200.000, haverá apenas 1 (um) turno de votação.
+Lembre-se que os §§ 12 e 13 do art. 14 da CF/88 foram incluídos por meio da Emenda
+Constitucional nº 111, de 28 de setembro de 2021. A intenção do legislador constituinte foi
+aproveitar a mobilização logística das eleições municipais para viabilizar as consultas populares
+locais (a exemplo dos plebiscitos) aprovadas pelas Câmaras Municipais e encaminhadas para a
+Justiça Eleitoral. Atenção ao seguinte detalhe: a formalização da realização dessas consultas
+populares deve ser encaminhada à Justiça Eleitoral até 90 dias antes da data das eleições
+municipais.
+Não deverá ser utilizada a propaganda eleitoral gratuita no rádio e na televisão para
+manifestação específica (favorável ou contrária) em relação às consultas populares. Por outro
+lado, isso pode ser feito durante as próprias campanhas eleitorais.
+
+        Art. 14 [...]
+        § 12 - Serão realizadas concomitantemente às eleições municipais as consultas
+        populares sobre questões locais aprovadas pelas Câmaras Municipais e
+        encaminhadas à Justiça Eleitoral até 90 (noventa) dias antes da data das eleições,
+        observados os limites operacionais relativos ao número de quesitos.
+        § 13 - As manifestações favoráveis e contrárias às questões submetidas às
+        consultas populares nos termos do § 12 ocorrerão durante as campanhas
+        eleitorais, sem a utilização de propaganda gratuita no rádio e na televisão.
+
+O artigo 29, X, da Constituição trata do julgamento do Prefeito perante o Tribunal de Justiça.
+Considerando que o constituinte não foi muito claro nessa determinação, o STF entende que a
+competência do Tribunal de Justiça para julgar prefeitos limita-se aos crimes de competência da
+justiça comum estadual. Nos demais casos, a competência originária cabe ao respectivo tribunal
+de segundo grau. Assim, em caso de crimes eleitorais, a competência será do Tribunal Regional
+Eleitoral; nos crimes federais, a competência será do Tribunal Regional Federal. Acerca disso, veja
+a redação da Súmula 702-STF:
+
+        Súmula 702/STF: A competência do tribunal de justiça para julgar prefeitos
+        restringe-se aos crimes de competência da Justiça comum estadual; nos demais
+        casos, a competência originária caberá ao respectivo tribunal de segundo grau.
+
+Há duas importantes súmulas do STJ sobre esse assunto. A primeira delas é a Súmula 208, que
+determina que “compete à Justiça Federal processar e julgar prefeito municipal por desvio de
+verba sujeita a prestação de contas perante órgão federal”. A segunda é a Súmula 209, que
+estabelece que “compete à Justiça Estadual processar e julgar prefeito por desvio de verba
+transferida e incorporada ao patrimônio municipal”. Ainda segundo o STJ, o Prefeito será
+julgado pelo Tribunal de Justiça (e não pelo tribunal do júri) no caso de crimes dolosos contra a
+vida.
+Destaca-se, porém, que a Constituição Federal prevê a competência originária do Tribunal de
+Justiça, salvo as exceções anteriormente mencionadas, apenas para o processo e julgamento das
+infrações penais comuns contra o Prefeito Municipal. Não se admite a extensão interpretativa
+para se considerar a existência de foro por prerrogativa de função para as ações populares, ações
+
+                                                                                                27
+                                                                                                230
+
+
+---
+
+civis públicas e demais ações de natureza cível. Essa proibição também vale para as ações de
+improbidade administrativa, por ausência de previsão constitucional específica.
+No que se refere aos crimes de responsabilidade praticados pelo Prefeito Municipal, é
+importante que os classifiquemos em próprios ou impróprios. Enquanto os primeiros são
+infrações político-administrativas, cuja sanção corresponde à perda do mandato e à suspensão
+dos direitos políticos, os segundos são verdadeiras infrações penais, apenados com penas
+privativas de liberdade. Os crimes próprios deverão ser julgados pela Câmara Municipal,
+enquanto os crimes impróprios deverão ser julgados pelo Judiciário, independentemente do
+pronunciamento da Câmara de Vereadores.
+A Constituição prevê algumas hipóteses de crime de responsabilidade do Prefeito em seu art.
+29-A, § 2º (rol exemplificativo): efetuar repasse que supere os limites definidos no artigo 29-A;
+não enviar o repasse até o dia vinte de cada mês; ou enviá-lo a menor em relação à proporção
+fixada na Lei Orçamentária.
+                                              ==106d==
+
+       Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os
+       subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas,
+       não poderá ultrapassar os seguintes percentuais, relativos ao somatório da
+       receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158
+       e 159 desta Constituição, efetivamente realizado no exercício anterior:
+       I - 7% (sete por cento) para Municípios com população de até 100.000 (cem mil)
+       habitantes;
+       II - 6% (seis por cento) para Municípios com população entre 100.000 (cem mil) e
+       300.000 (trezentos mil) habitantes;
+       III - 5% (cinco por cento) para Municípios com população entre 300.001 (trezentos
+       mil e um) e 500.000 (quinhentos mil) habitantes;
+       IV - 4,5% (quatro inteiros e cinco décimos por cento) para Municípios com
+       população entre 500.001 (quinhentos mil e um) e 3.000.000 (três milhões) de
+       habitantes;
+       V - 4% (quatro por cento) para Municípios com população entre 3.000.001 (três
+       milhões e um) e 8.000.000 (oito milhões) de habitantes;
+       VI - 3,5% (três inteiros e cinco décimos por cento) para Municípios com
+       população acima de 8.000.001 (oito milhões e um) habitantes.
+       § 1º A Câmara Municipal não gastará mais de setenta por cento de sua receita
+       com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores.
+       § 2º Constitui crime de responsabilidade do Prefeito Municipal:
+       I - efetuar repasse que supere os limites definidos neste artigo;
+       II - não enviar o repasse até o dia vinte de cada mês; ou
+       III - enviá-lo a menor em relação à proporção fixada na Lei Orçamentária.
+
+É competência da União dispor sobre crimes de responsabilidade. Nesse sentido, estabelece a
+Súmula Vinculante nº 46 que “a definição dos crimes de responsabilidade e o estabelecimento
+
+
+                                                                                               28
+                                                                                               137
+
+
+---
+
+das respectivas normas de processo e julgamento são de competência legislativa privativa da
+União”. Não cabe ao Município, portanto, legislar sobre crimes de responsabilidade a serem
+praticados por autoridades municipais.
+
+A norma federal que atualmente define os crimes de responsabilidade do Prefeito é o
+Decreto-Lei nº 201/1967. Nessa norma, há dois tipos de crimes de responsabilidade do Prefeito:
+os crimes de responsabilidade próprios e os crimes de responsabilidade impróprios.
+
+a) Crimes de responsabilidade próprios: são infrações político-administrativas, sujeitas ao
+julgamento pela Câmara Municipal e sancionadas com a perda do mandato. O art. 4º do
+Decreto-Lei nº 201/1967 relaciona esses crimes:
+
+       Art. 4º São infrações político-administrativas dos Prefeitos Municipais sujeitas ao
+       julgamento pela Câmara dos Vereadores e sancionadas com a cassação do
+       mandato:
+       I - Impedir o funcionamento regular da Câmara;
+       II - Impedir o exame de livros, folhas de pagamento e demais documentos que
+       devam constar dos arquivos da Prefeitura, bem como a verificação de obras e
+       serviços municipais, por comissão de investigação da Câmara ou auditoria,
+       regularmente instituída;
+       III - Desatender, sem motivo justo, as convocações ou os pedidos de informações
+       da Câmara, quando feitos a tempo e em forma regular;
+       IV - Retardar a publicação ou deixar de publicar as leis e atos sujeitos a essa
+       formalidade;
+       V - Deixar de apresentar à Câmara, no devido tempo, e em forma regular, a
+       proposta orçamentária;
+       VI - Descumprir o orçamento aprovado para o exercício financeiro,
+       VII - Praticar, contra expressa disposição de lei, ato de sua competência ou
+       omitir-se na sua prática;
+       VIII - Omitir-se ou negligenciar na defesa de bens, rendas, direitos ou interesses
+       do Município sujeito à administração da Prefeitura;
+       IX - Ausentar-se do Município, por tempo superior ao permitido em lei, ou
+       afastar-se da Prefeitura, sem autorização da Câmara dos Vereadores;
+       X - Proceder de modo incompatível com a dignidade e o decoro do cargo.
+
+b) Crimes de responsabilidade impróprios: apesar de o Decreto-lei nº 201/1967 se referir a eles
+como sendo “crimes de responsabilidade”, eles são verdadeiras infrações penais, apenadas com
+penas privativas de liberdade. O julgamento pela prática desses crimes caberá ao Poder
+Judiciário, independentemente de qualquer pronunciamento da Câmara Municipal.
+
+       Art. 1º São crimes de responsabilidade dos Prefeitos Municipal, sujeitos ao
+       julgamento do Poder Judiciário, independentemente do pronunciamento da
+       Câmara dos Vereadores:
+
+
+                                                                                             29
+                                                                                             230
+
+
+---
+
+I - apropriar-se de bens ou rendas públicas, ou desviá-los em proveito próprio ou
+alheio;
+Il - utilizar-se, indevidamente, em proveito próprio ou alheio, de bens, rendas ou
+serviços públicos;
+Ill - desviar, ou aplicar indevidamente, rendas ou verbas públicas;
+IV - empregar subvenções, auxílios, empréstimos ou recursos de qualquer
+natureza, em desacordo com os planos ou programas a que se destinam;
+V - ordenar ou efetuar despesas não autorizadas por lei, ou realizá-Ias em
+desacordo com as normas financeiras pertinentes;
+VI - deixar de prestar contas anuais da administração financeira do Município a
+Câmara de Vereadores, ou ao órgão que a Constituição do Estado indicar, nos
+prazos e condições estabelecidos;
+VII - Deixar de prestar contas, no devido tempo, ao órgão competente, da
+aplicação de recursos, empréstimos subvenções ou auxílios internos ou externos,
+recebidos a qualquer título;
+VIII - Contrair empréstimo, emitir apólices, ou obrigar o Município por títulos de
+crédito, sem autorização da Câmara, ou em desacordo com a lei;
+IX - Conceder empréstimo, auxílios ou subvenções sem autorização da Câmara,
+ou em desacordo com a lei;
+X - Alienar ou onerar bens imóveis, ou rendas municipais, sem autorização da
+Câmara, ou em desacordo com a lei;
+XI - Adquirir bens, ou realizar serviços e obras, sem concorrência ou coleta de
+preços, nos casos exigidos em lei;
+XII - Antecipar ou inverter a ordem de pagamento a credores do Município, sem
+vantagem para o erário;
+XIII - Nomear, admitir ou designar servidor, contra expressa disposição de lei;
+XIV - Negar execução a lei federal, estadual ou municipal, ou deixar de cumprir
+ordem judicial, sem dar o motivo da recusa ou da impossibilidade, por escrito, à
+autoridade competente;
+XV - Deixar de fornecer certidões de atos ou contratos municipais, dentro do
+prazo estabelecido em lei.
+XVI – deixar de ordenar a redução do montante da dívida consolidada, nos
+prazos estabelecidos em lei, quando o montante ultrapassar o valor resultante da
+aplicação do limite máximo fixado pelo Senado Federal;
+XVII – ordenar ou autorizar a abertura de crédito em desacordo com os limites
+estabelecidos pelo Senado Federal, sem fundamento na lei orçamentária ou na
+de crédito adicional ou com inobservância de prescrição legal;
+XVIII – deixar de promover ou de ordenar, na forma da lei, o cancelamento, a
+amortização ou a constituição de reserva para anular os efeitos de operação de
+
+
+                                                                                     30
+                                                                                     230
+
+
+---
+
+       crédito realizada com      inobservância   de limite, condição ou montante
+       estabelecido em lei;
+       XIX – deixar de promover ou de ordenar a liquidação integral de operação de
+       crédito por antecipação de receita orçamentária, inclusive os respectivos juros e
+       demais encargos, até o encerramento do exercício financeiro; ​
+       XX – ordenar ou autorizar, em desacordo com a lei, a realização de operação de
+       crédito com qualquer um dos demais entes da Federação, inclusive suas
+       entidades da administração indireta, ainda que na forma de novação,
+       refinanciamento ou postergação de dívida contraída anteriormente;
+       XXI – captar recursos a título de antecipação de receita de tributo ou contribuição
+       cujo fato gerador ainda não tenha ocorrido;
+       XXII – ordenar ou autorizar a destinação de recursos provenientes da emissão de
+       títulos para finalidade diversa da prevista na lei que a autorizou;
+       XXIII – realizar ou receber transferência voluntária em desacordo com limite ou
+       condição estabelecida em lei.
+
+       Súmula 701/STF: A extinção do mandato do prefeito não impede a instauração
+       de processo pela prática dos crimes previstos no art. 1º do DL 201/1967.
+
+O inciso XIV do art. 29 da Constituição do Brasil/1988 estabelece que as prescrições do art. 28
+relativas à perda do mandato de governador se aplicam ao prefeito, qualificando-se, assim, como
+preceito de reprodução obrigatória por parte dos Estados-membros e Municípios:
+
+       Art. 28 [...]
+       § 1º Perderá o mandato o Governador que assumir outro cargo ou função na
+       administração pública direta ou indireta, ressalvada a posse em virtude de
+       concurso público e observado o disposto no art. 38, I, IV e V.
+
+Não é permitido, aos entes da Federação, modificar ou ampliar esses critérios. Se a Constituição
+do Brasil não sanciona com a perda do cargo de governador aquele que assume cargo público
+em virtude de concurso realizado após sua eleição, não podem fazê-lo as constituições estaduais
+ou as leis orgânicas municipais.
+
+                                                                                             31
+                                                                                             230
+
+
+---
+
+A Constituição Federal não outorgou foro especial aos Vereadores perante o Tribunal de Justiça.
+Por outro lado, algumas Constituições estaduais estendem o foro por prerrogativa de função para
+outras autoridades e agentes públicos (vereadores, vice-governadores e vice-prefeitos, por
+exemplo). Entretanto, no entendimento mais atual do STF a respeito desse tema, as
+Constituições Estaduais não podem instituir novas hipóteses de foro por prerrogativa de função
+além daquelas previstas na Constituição Federal.4
+A Carta Magna limitou-se a conceder aos Vereadores inviolabilidade por suas opiniões, palavras
+e votos no exercício do mandato e na circunscrição do Município (CF, art. 29, VIII), a chamada
+imunidade material. Isso quer dizer que eles não poderão ser responsabilizados na esfera civil,
+penal ou administrativa por suas opiniões, palavras e votos proferidos em razão do exercício da
+função. Observação: ao contrário dos Deputados Federais e Senadores, a imunidade material
+dos Vereadores está limitada à circunscrição do Município. Os Vereadores não gozam de
+qualquer imunidade à prisão.
+No que concerne ao subsídio dos vereadores, a Constituição determina, em seu artigo 29, VI,
+que ele será ﬁxado pelas respectivas Câmaras Municipais em cada legislatura para a
+
+4
+    ADI 6501/PA, 6508/RO, 6515/AM, 6516/AL, Rel. Min. Roberto Barroso, julgamento virtual ﬁnalizado em 20.8.2021.
+
+
+                                                                                                                    32
+                                                                                                                    230
+
+
+---
+
+subsequente, observado o que dispõe a Carta Magna, os critérios estabelecidos na respectiva Lei
+Orgânica e os seguintes limites máximos:
+                                   De                        De
+      No de           Até                  De 50.001 a                De 300.001     Acima de
+                                10.001 a                  100.001 a
+    habitantes       10.000                 100.000                    a 500.000     500.000
+                                 50.000                    300.000
+      Subsídio
+    máximo do
+    vereador (%
+                       20%         30%          40%           50%          60%         75%
+      subsídio
+     deputados
+     estaduais)
+O caput do art. 29-A traz os percentuais que se apresentam como limites para a despesa total do
+Poder Legislativo Municipal, inclusive as despesas relacionadas aos subsídios dos Vereadores.
+Atualmente, são excluídas as despesas com os servidores inativos. Contudo, com a aprovação da
+Emenda Constitucional nº 109/2021, a partir da próxima legislatura municipal, que terá início no
+ano de 2025 (portanto, após as eleições municipais de 2024), os gastos com pessoal inativo e
+pensionistas serão incluídos no total da despesa do Legislativo Municipal.
+Esses percentuais se aplicam em relação ao somatório da receita tributária e das repartições das
+receitas tributárias previstas na CF/88 (artigos 153, § 5º, 158 e 159).
+Note que, quanto maior a população do Município, menor será o percentual máximo em relação
+às receitas do ente federativo. Veja a seguir:
+
+                                                                                              33
+                                                                                             230
+
+
+---
+
+Dispõe, ainda, a Carta Magna, em seu art. 29-A, § 1º, que a Câmara Municipal não gastará mais
+de 70% (setenta por cento) de sua receita com folha de pagamento, incluído o gasto com o
+subsídio de seus Vereadores. Segundo o art. 29, VII, o total da despesa com a remuneração dos
+Vereadores não poderá ultrapassar o montante de 5% (cinco por cento) da receita do Município.
+Segundo o art. 29-A, § 3º, o Presidente da Câmara Municipal cometerá crime de
+responsabilidade quando a Câmara Municipal gastar mais de 70% da sua receita com folha de
+pagamento.
+
+(Pref. Fortaleza-CE – 2023) Os municípios têm número de vereadores com base no total de
+eleitores.
+Comentários:
+O número de vereadores é deﬁnido conforme a população do município, e não com base no
+total de eleitores. Questão errada.
+(PC-AL – 2023) Como os municípios integram a estrutura da Federação brasileira, representantes
+seus compõem o Poder Legislativo federal, de modo a contribuir na formação da vontade
+legislativa da União.
+Comentários:
+A despeito do fato de os municípios serem entidades federativas e integrarem a estrutura da
+federação, não há representantes dos municípios no Congresso Nacional. Tem-se uma Casa
+composta por representantes do povo (Câmara dos Deputados) e outra Casa integrada por
+representantes dos estados (Senado Federal). Questão errada.
+(MPE-PB – 2023) De acordo com o que estabelece a Constituição Federal, o Município rege-se
+por lei orgânica, que deverá ser votada em dois turnos, com o interstício mínimo de 15 dias, e
+aprovada por maioria absoluta dos membros da Câmara Municipal.
+Comentários:
+Conforme o art. 29 da CF/88, a lei orgânica municipal deve ser votada em 2 turnos, com o
+interstício mínimo de 10 dias, e aprovada por 2/3 (dois terços) dos membros da Câmara
+Municipal. Questão errada.
+(TRF 1a Região – 2015) Não se considera o município entidade federativa, embora se reconheça
+que ele dispõe de capacidade de auto-organização, autogoverno e autoadministração.
+Comentários:
+O Município é também um ente federativo. Ele dispõe de capacidade de auto-organização,
+autogoverno e autoadministração. Questão errada.
+(TCM-SP – 2015) Lei orgânica municipal, como projeção da autonomia municipal, deve disciplinar
+a organização municipal consoante os balizamentos estabelecidos pela Constituição da
+República, não sendo possível que a Constituição Estadual o faça.
+
+
+                                                                                            34
+                                                                                           230
+
+
+---
+
+Comentários:
+A Lei Orgânica é o instrumento por meio do qual o Município manifesta o seu poder de
+auto-organização, sendo, portanto, projeção da autonomia municipal. A organização municipal é
+matéria que cabe à Lei Orgânica, devendo observar as regras gerais estabelecidas pela CF/88. A
+Constituição Estadual não pode versar sobre a organização municipal, sob pena de violar o pacto
+federativo. Questão correta.
+(TCM-SP – 2015) Nos Municípios com menos de 200 mil eleitores, a Lei Orgânica deve definir se
+a eleição seguirá o sistema majoritário de um ou dois turnos.
+Comentários:
+Isso não é matéria de Lei Orgânica. A CF/88 estabelece que, nos municípios com mais de 200 mil
+eleitores, a eleição seguirá o sistema majoritário de 2 (dois) turnos. Questão errada.
+
+                                                                                            35
+                                                                                            230
+
+
+---
+
+Territórios Federais
+
+Os Territórios Federais integram a União, sendo considerados meras descentralizações
+administrativas; a doutrina chama-os, por isso, de autarquias territoriais da União. Portanto, eles
+não são entes federativos e não possuem autonomia política.
+Atualmente, não existe nenhum Território Federal. Com a CF/88, os territórios de Roraima e do
+Amapá foram transformados em estados federados; por sua vez, o território de Fernando de
+Noronha foi incorporado ao estado de Pernambuco.
+
+        Art. 33. A lei disporá sobre a organização administrativa e judiciária dos
+        Territórios.
+        § 1º Os Territórios poderão ser divididos em Municípios, aos quais se aplicará, no
+        que couber, o disposto no Capítulo IV deste Título.
+        § 2º As contas do Governo do Território serão submetidas ao Congresso
+        Nacional, com parecer prévio do Tribunal de Contas da União.
+        § 3º Nos Territórios Federais com mais de cem mil habitantes, além do
+        Governador nomeado na forma desta Constituição, haverá órgãos judiciários de
+        primeira e segunda instância, membros do Ministério Público e defensores
+        públicos federais; a lei disporá sobre as eleições para a Câmara Territorial e sua
+        competência deliberativa.
+
+Apesar de não existir, atualmente, nenhum Território Federal, eles poderão ser criados a qualquer
+tempo. Para a criação dos Territórios Federais, é necessária lei complementar. Apesar de não
+serem entes federativos, os Territórios poderão ser divididos em Municípios.
+O Poder Executivo nos Territórios Federais é chefiado pelo Governador, que não é eleito pelo
+povo. O Governador do Território é nomeado pelo Presidente da República, com nome
+aprovado previamente, por voto secreto, após arguição pública pelo Senado Federal. Compete
+privativamente à União legislar sobre a organização administrativa dos Territórios (art. 22, XVII).
+As contas do Governo do Território são submetidas ao Congresso Nacional, com parecer prévio
+do Tribunal de Contas da União (TCU). Isso se deve à vinculação dos Territórios com a União; nos
+Estados-membros da federação, as contas dos Governadores são submetidas à apreciação da
+respectiva Assembleia Legislativa.
+Existe Poder Legislativo nos Territórios?
+Sim, existe. O Poder Legislativo nos Territórios é exercido pela Câmara Territorial. Segundo o art.
+33, §3º, CF/88, a lei disporá sobre as eleições da Câmara Territorial e sua competência legislativa.
+A Câmara Territorial exercerá apenas a função típica de legislar; a função de controle externo da
+administração dos territórios é exercida pelo Congresso Nacional, com o auxílio do TCU.
+Cada um dos Territórios elege 4 Deputados Federais; trata-se, portanto, de número fixo, não
+proporcional à população. Os Territórios, por não serem entes federativos, não elegem
+Senadores. Isso se deve ao fato de que os Senadores são representantes dos Estados e do
+Distrito Federal; permitir que os Territórios elegessem Senadores significaria, em certa medida,
+equipará-los aos Estados.
+
+                                                                                                 36
+                                                                                                 230
+
+
+---
+
+O Poder Judiciário, nos Territórios Federais, é organizado e mantido pela União. Com efeito, a
+União tem a competência privativa para organizar e manter o Poder Judiciário do Distrito Federal
+e Territórios. Nos Territórios Federais, a jurisdição e as atribuições cometidas aos juízes federais
+caberão aos juízes da justiça local, na forma da lei.
+Assim como o Poder Judiciário, o Ministério Público, nos Territórios Federais, é organizado e
+mantido pela União. Assim, temos o TJDFT (Tribunal de Justiça do Distrito Federal e Territórios) e
+o MPDFT (Ministério Público do Distrito Federal e Territórios).
+Existe, ainda, a Defensoria Pública dos Territórios, também organizada e mantida pela União.
+Cuidado! Aqui, não há que se falar mais em Defensoria Pública do Distrito Federal e Territórios
+(DPDFT). Isso acontece porque, após a EC nº 69/2012, a Defensoria Pública do Distrito Federal
+(DPDF) passou a ser organizada e mantida pelo próprio Distrito Federal. Temos, então, dois
+órgãos diferentes: a Defensoria Pública do DF (organizada e mantida pelo DF) e a Defensoria
+Pública dos Territórios (organizada e mantida pela União).
+                                               ==106d==
+
+Quando os Territórios tiverem mais de cem mil habitantes, além do Governador, haverá órgãos
+judiciários de primeira e segunda instância, membros do Ministério Público e defensores
+públicos federais. Em outras palavras, haverá representações do Poder Judiciário, do Ministério
+Público e da Defensoria Pública nos territórios em que a população for maior do que 100.000
+habitantes.
+
+(TJ/ES – 2023) A organização político-administrativa da República Federativa do Brasil
+compreende a União, os estados, os territórios, o Distrito Federal e os municípios, todos
+autônomos, nos termos da CF.
+Comentários:
+Os territórios não são autônomos, até porque não são entes federativos, nos termos do art. 18 da
+CF/88:
+Art. 18. A organização político-administrativa da República Federativa do Brasil compreende a
+União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta
+Constituição.
+Questão errada.
+(TRT/13ª Região - 2022) Os dois Territórios existentes fazem parte da União, não sendo
+considerados entes federativos.
+Comentários:
+Não há atualmente nenhum território no Brasil. Se existisse algum, seria considerado autarquia
+territorial da União, e não ente federado. Questão errada.
+
+                                                                                                 37
+                                                                                                 230
+
+
+---
+
+Alterações na estrutura da federação
+Formação dos Estados
+A federação é cláusula pétrea do texto constitucional, ou seja, não pode ser objeto de emenda
+constitucional que seja tendente à sua abolição. Todavia, a federação poderá sofrer alterações
+em sua estrutura. As alterações na estrutura dos Estados ocorrerão nos termos do art. 18, § 3º,
+CF/88:
+
+        § 3º Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se
+        para se anexarem a outros, ou formarem novos Estados ou Territórios Federais,
+        mediante aprovação da população diretamente interessada, através de
+        plebiscito, e do Congresso Nacional, por lei complementar.
+
+A leitura do dispositivo supracitado permite-nos afirmar que há 5 (cinco) diferentes tipos de
+alteração na estrutura dos Estados:
+       a) Fusão: um Estado A une-se a um Estado B, formando o Estado C. Com isso, há a
+       formação de um terceiro e novo ente federado, distinto dos anteriores e com
+       personalidade própria. Os Estados que lhe deram origem não mais existirão.
+       b) Incorporação: um Estado A incorpora-se ao Estado B, o qual continua a existir. O Estado
+       A deixa de existir e o território do Estado B aumenta. Perceba que, na incorporação, um
+       dos entes federativos mantém a sua personalidade jurídica. Na história do Brasil, temos
+       um exemplo de incorporação. O Estado de Guanabara incorporou-se ao Estado do Rio de
+       Janeiro.
+       c) Subdivisão ou cisão: um Estado A subdivide-se, dando origem aos Estados B e C. O
+       Estado A deixa de existir, surgindo dois novos Estados (duas novas personalidades
+       jurídicas). A subdivisão de um Estado pode dar origem a novos Estados ou territórios.
+       Existe proposta para que o Maranhão seja subdividido em Maranhão do Sul e Maranhão
+       do Norte. Esse seria um bom exemplo de subdivisão.
+       d) Desmembramento-anexação: ocorre quando um ou mais Estados cedem parte de seu
+       território para que esse seja anexado ao território de outro Estado. Seria o caso, por
+       exemplo, em que o Estado A perde parcela do seu território, que é anexada ao território
+       do Estado B. Perceba que, nessa operação, não houve extinção de nenhum Estado. O
+       Estado A perdeu parte de seu território, mas continuou existindo.
+       e) Desmembramento-formação: ocorre quando um ou mais Estados cedem parte de seu
+       território para que haja a formação de um novo ente. Foi o que aconteceu com Goiás,
+       quando esse cedeu parte de seu território para a formação do estado do Tocantins.
+       Perceba que, nessa operação, não houve extinção de nenhum Estado. Goiás perdeu parte
+       do seu território, mas deu origem a um novo Estado-membro.
+E quais são os requisitos para que sejam realizadas essas alterações na estrutura dos Estados?
+De início, será necessário que se proceda à consulta às populações diretamente interessadas,
+mediante a realização de um plebiscito. Caso a população seja desfavorável, a modificação
+territorial será impossível. Já quando favorável, a decisão final sobre a modificação territorial é do
+Congresso Nacional, pois esse poderá editar ou não a lei complementar.
+
+                                                                                                   38
+                                                                                                   230
+
+
+---
+
+Na ADIN nº 2.650/DF, o STF considerou que se deve dar ao termo
+“população diretamente interessada” o significado de que, nos casos de desmembramento,
+incorporação ou subdivisão de Estado, deve ser consultada, mediante plebiscito, toda a
+população do(s) Estado(s) afetado(s), e não apenas a população da área a ser desmembrada,
+incorporada ou subdividida.
+Após a manifestação favorável da população diretamente interessada, será necessária a oitiva das
+Assembleias Legislativas dos estados interessados. Cabe destacar que a consulta às Assembleias
+Legislativas é meramente opinativa, o que quer dizer que, mesmo que a Assembleia Legislativa
+seja desfavorável à mudança territorial, o Congresso Nacional pode editar a lei complementar
+que aprova a subdivisão, incorporação ou desmembramento.
+Consultada a população (mediante plebiscito) e feita a oitiva das Assembleias Legislativa, resta
+apenas a edição de lei complementar, o que é um ato discricionário do Congresso Nacional. Esse
+é o passo final para a alteração na estrutura dos Estados. Assim, em resumo, os requisitos para a
+formação de Estados são os seguintes:
+      a) Consulta prévia, por plebiscito, às populações diretamente interessadas;
+      b) Oitiva das Assembleias Legislativas dos estados interessados (art. 48, VI, CF/88);
+      c) Edição de lei complementar pelo Congresso Nacional.
+Observe que a formação dos Territórios obedece aos mesmos requisitos necessários para a
+incorporação, subdivisão e desmembramento de Estado.
+
+Formação dos Municípios
+A formação de Municípios é regulada pelo art. 18, § 4º, da Constituição, cuja redação foi dada
+pela EC nº 15/1996:
+
+        § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios,
+        far-se-ão por lei estadual, dentro do período determinado por Lei Complementar
+        Federal, e dependerão de consulta prévia, mediante plebiscito, às populações
+        dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade
+        Municipal, apresentados e publicados na forma da lei.
+
+De 1988 até 1996, a criação de Municípios era bem simples. As restrições não eram tão grandes
+e, como consequência disso, multiplicaram-se os Municípios. Na tentativa de moralizar a criação
+de Municípios, foi promulgada a EC nº 15/1996, cujas regras estão válidas até hoje.
+E quais são os requisitos para a criação de Municípios?
+São 5 (cinco) os requisitos para a criação, incorporação, fusão e desmembramento de municípios:
+      a) Edição de lei complementar federal pelo Congresso Nacional, fixando genericamente o
+      período dentro do qual poderá ocorrer a criação, incorporação, fusão e desmembramento
+      de municípios. Uma lei complementar que regulamenta em parte essa previsão
+      constitucional foi recentemente promulgada (Lei Complementar nº 230/2026);
+      b) Aprovação de lei ordinária federal determinando os requisitos genéricos e a forma de
+      divulgação, apresentação e publicação dos estudos de viabilidade municipal;
+
+                                                                                              39
+                                                                                              268
+
+
+---
+
+          c) Divulgação dos estudos de viabilidade municipal, na forma estabelecida pela lei
+          mencionada acima;
+          d) Consulta prévia, por plebiscito, às populações dos Municípios envolvidos. O resultado
+          do plebiscito, quando desfavorável, impede a criação do novo Município. Por outro lado,
+          caso seja favorável, caberá à Assembleia Legislativa decidir se irá ou não criar o Município.
+          No entendimento do STF, a "consulta plebiscitária é verdadeira condição de
+          procedibilidade da norma que altera limites municipais, constituindo relevante meio de
+          exercício da soberania popular1."
+          e) Aprovação de lei ordinária estadual pela Assembleia Legislativa determinando a criação,
+          incorporação, fusão e desmembramento do(s) município(s). Trata-se de ato discricionário
+          da Assembleia Legislativa.
+O Congresso Nacional hesitou bastante para editar a lei complementar citada no art. 18, § 4º, da
+CF/88, pois a promulgação dela só ocorreu em 15 de abril de 2026.
+                                                         ==8b9==
+
+Vamos a um rápido histórico: prevalece um entendimento de que novos municípios não podem
+ser criados. Aliás, esse impedimento existe desde a promulgação da Emenda Constitucional nº
+15/1996. A esse respeito, o STF inclusive possui uma tese fixada quando do julgamento da ADI
+4711, cujo teor é o seguinte: "É inconstitucional lei estadual que permita a criação, incorporação,
+fusão e desmembramento de municípios sem a edição prévia das leis federais previstas no art.
+18, § 4º, da CF/1988, com redação dada pela Emenda Constitucional nº 15/1996".
+No entanto, a realidade foi diferente. Mesmo após a promulgação da EC nº 15/96, foram criados
+centenas de Municípios pelo Brasil afora. A doutrina chamou-os de “Municípios putativos”, pois
+existiam de fato, mas sua criação havia sido inválida, inconstitucional.
+Como não poderia ser diferente, o STF foi chamado a apreciar o problema na ADIN nº 3.682/MT.
+Na oportunidade, a Corte reconheceu a mora do Congresso Nacional, que deu “ensejo à
+conformação e à consolidação de estados de inconstitucionalidade”. Foi atestada a
+inconstitucionalidade da criação dos Municípios. Todavia, em nome da segurança jurídica, o STF
+“passou a bola” para o Congresso Nacional; não poderia o STF, da noite para o dia, determinar a
+extinção de Municípios.
+O Congresso Nacional editou, então, a Emenda Constitucional nº 57/2008, que convalidou os
+atos de criação, fusão, incorporação e desmembramento de Municípios, cuja lei tenha sido
+publicada até 31 de dezembro de 2006, atendidos os requisitos estabelecidos na legislação do
+respectivo Estado à época de sua criação.
+No entanto, segundo o STF2, a EC nº 57/2008 não convalidou a criação, fusão, incorporação e
+desmembramento de municípios realizados sem consulta prévia, mediante plebiscito, às
+populações dos municípios envolvidos. Em consequência, Município resultante de
+desmembramento realizado em desacordo com o art. 18, § 4º, da CF/1988 não detém
+legitimidade ativa para a cobrança de IPTU de imóvel situado em território a ele acrescido.
+Porém, agora o cenário já é outro. Com a Lei Complementar nº 230/2026, finalmente tivemos o
+estabelecimento do período determinado apenas para o desmembramento de parte de um
+
+1
+    ADI 1.825, Rel. Min. Luiz Fux, julgamento em 15.4.2020.
+2
+    RE 614.384/SE (Tema 559). Rel. Min. Dias Toffoli, julgamento em 29.04.2022.
+
+
+                                                                                                    40
+                                                                                                    268
+
+
+---
+
+Município para incorporação a outro. Ela não se aplica para criação, fusão ou incorporação
+integral de municípios.
+
+       A LC 230/2026 veda expressamente que o desmembramento de um Município
+       resulte na criação de um novo Município!
+
+O período para o desmembramento previsto na LC 230/2026 é de 15 anos, contados a partir da
+publicação da lei (15 de abril de 2026).
+O passo a passo para o desmembramento exige, cumulativamente, as seguintes etapas:
+   ●​ Estudos de Viabilidade Municipal (EVM): deve haver, obrigatoriamente, a apresentação de
+      um EVM com análise econômico-financeira e fiscal prévia dos dois municípios envolvidos
+      na configuração do eventual desmembramento;
+   ●​ Consulta Popular via plebiscito único: A vontade da população é aferida de forma
+      conjunta nos dois municípios, mediante um único plebiscito;
+   ●​ Lei Estadual: Após aprovação plebiscitária e com o parecer favorável dos estudos de
+      viabilidade, o desmembramento depende de aprovação por lei ordinária estadual. Essa lei
+      fixará os novos limites territoriais dos Municípios envolvidos.
+
+       A iniciativa do processo de desmembramento compete à Assembleia Legislativa
+       do respectivo Estado, de acordo com a Constituição Estadual e regras
+       regimentais próprias, cabendo-lhe, ainda, tomar as providências necessárias para
+       a realização do Estudo de Viabilidade Municipal (EVM).
+
+Após a conclusão e ampla divulgação do EVM, a Assembleia Legislativa deve deliberar sobre o
+decreto legislativo convocatório de plebiscito às populações dos Municípios envolvidos. Uma vez
+aprovado o decreto legislativo, o Tribunal Regional Eleitoral vai adotar as providências
+providências para a realização do plebiscito, preferencialmente na mesma data das eleições
+gerais ou municipais.
+A distribuição de novos valores do Fundo de Participação dos Municípios e das demais
+transferências constitucionais e legais decorrentes do desmembramento ocorre após o término
+do exercício financeiro seguinte ao da aprovação da lei estadual que fixar os novos limites
+intermunicipais.
+
+                                                                                            41
+                                                                                            268
+
+
+---
+
+(DPE-RS – 2022) De acordo com as regras constitucionais, é possível a incorporação de Estados
+federados entre si, a subdivisão ou o desmembramento para se anexarem a outros e também a
+formação de novos Estados, mediante aprovação da população diretamente interessada, por
+meio de plebiscito, e do Congresso Nacional, por lei complementar.
+Comentários:
+A questão vai ao encontro das previsões do art. 18, § 3º, da CF/88. Questão correta.
+(TJ-PR – 2017) Segundo o STF, o desmembramento de município previsto na CF é norma de
+eficácia contida.
+Comentários:
+O desmembramento de município é norma de eficácia limitada, uma vez que é necessária a
+edição de lei complementar federal definindo o período dentro do qual podem ocorrer
+alterações federativas envolvendo Municípios. Questão errada.
+(TRE-SP – 2017) No caso de desmembramento de Estado, não é necessária a consulta à
+população do território remanescente, uma vez que a Constituição Federal exige apenas a
+consulta da população diretamente interessada.
+Comentários:
+Na ADIN nº 2.650/DF, o STF considerou que se deve dar ao termo
+“população diretamente interessada” o significado de que, nos casos de desmembramento,
+incorporação ou subdivisão de Estado, deve ser consultada, mediante plebiscito, toda a
+população do(s) Estado(s) afetado(s), e não apenas a população da área a ser desmembrada,
+incorporada ou subdividida. Questão errada.
+(MPE-PR – 2014) Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para
+se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação
+da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei
+complementar.
+Comentários:
+É exatamente o que prevê o art. 18, § 3º, CF/88. Questão correta.
+
+                                                                                           42
+                                                                                          268
+
+
+---
+
+                                VEDAÇÕES FEDERATIVAS
+A Constituição estabelece, em seu art. 19, algumas vedações aos entes federados. São as
+chamadas vedações federativas.
+
+        Art. 19. É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+        I - estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o
+        funcionamento ou manter com eles ou seus representantes relações de
+        dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse
+        público;
+        II - recusar fé aos documentos públicos;
+        III - criar distinções entre brasileiros ou preferências entre si.
+
+No que se refere ao inciso I, observa-se que o Brasil é um Estado laico, leigo ou não confessional,
+não adotando qualquer religião oficial. Entretanto, admite-se a colaboração de interesse público
+com os cultos religiosos ou igrejas, na forma da lei. Seria o caso em que, após uma enchente, o
+Município solicita a uma igreja que abrigue as pessoas desabrigadas por aquele desastre natural.
+O inciso II veda que um ente da Federação recuse fé a documentos públicos produzidos por
+outro, em virtude de sua procedência. Assim, a Receita Federal do Brasil não pode recusar fé a
+uma certidão negativa de débito emitida pela Secretaria da Fazenda do Tocantins, por exemplo.
+Trata-se de uma garantia que visa fortalecer o pacto federativo.
+Finalmente, o inciso III, acima, também reforça o pacto federativo ao vedar que os entes da
+federação criem preferências entre si ou entre brasileiros, em função de sua naturalidade. Assim,
+é vedado, por exemplo, que um concurso público estabeleça que somente os naturais de Minas
+Gerais poderão concorrer a determinada vaga. Esse é o princípio da isonomia federativa.
+
+(MPE-RO – 2023) É vedado aos entes que compõem a organização político-administrativa do
+Brasil recusar fé aos documentos públicos.
+Comentários:
+É o que estabelece o art. 19, inciso II, da CF/88. Questão correta.
+(MPE-RO – 2023) Os municípios podem criar distinções entre brasileiros e preferências entre si.
+Comentários:
+Ao contrário: conforme o art. 19, III, é vedado aos entes federativos criar distinções entre
+brasileiros ou preferências entre si. Questão errada.
+
+                                                                                                  42
+                                                                                                  230
+
+
+---
+
+Bens Públicos
+Bens da União
+O art. 20 relaciona os bens da União:
+
+       Art. 20. São bens da União:
+       I - os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;
+       II - as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e
+       construções militares, das vias federais de comunicação e à preservação
+       ambiental, definidas em lei;
+       III - os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou
+       que banhem mais de um Estado, sirvam de limites com outros países, ou se
+       estendam a território estrangeiro ou dele provenham, bem como os terrenos
+       marginais e as praias fluviais;
+       IV as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias
+       marítimas; as ilhas oceânicas e as costeiras, excluídas, destas, as que contenham
+       a sede de Municípios, exceto aquelas áreas afetadas ao serviço público e a
+       unidade ambiental federal, e as referidas no art. 26, II;
+       V - os recursos naturais da plataforma continental e da zona econômica exclusiva;
+       VI - o mar territorial;
+       VII - os terrenos de marinha e seus acrescidos;
+       VIII - os potenciais de energia hidráulica;
+       IX - os recursos minerais, inclusive os do subsolo;
+       X - as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos;
+       XI - as terras tradicionalmente ocupadas pelos índios.
+
+O inciso I mostra-nos que o art. 20, ao tratar dos bens da União, trouxe um rol exemplificativo.
+Isso acontece porque são bens da União os que atualmente lhe pertencem e os que lhe vierem a
+ser atribuídos.
+O inciso II trata das terras devolutas, que são terras públicas, ou seja, que não estão no nome de
+nenhum particular. Existem terras devolutas da União e terras devolutas dos Estados. São bens
+da União as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e
+construções militares, das vias federais de comunicação e à preservação ambiental. Por outro
+lado, são bens dos Estados as terras devolutas que não forem da União.
+O inciso III trata do domínio hídrico. Serão rios federais aqueles que banharem mais de um
+Estado (ex.: Rio São Francisco, Rio Tocantins). Também são bens da União os rios que se
+estendam a território estrangeiro ou dele provenham (ex.: Rio Amazonas). Por outro lado, os rios
+que banham apenas um Estado são bens daquele Estado.
+
+                                                                                               43
+                                                                                               230
+
+
+---
+
+No inciso IV, verifica-se que as ilhas fluviais e lacustres nas zonas limítrofes (fronteira) com outros
+países são bens da União. Por outro lado, as ilhas fluviais e lacustres que não estejam em zonas
+limítrofes serão bens dos Estados.
+As ilhas oceânicas e costeiras são bens da União. No entanto, as ilhas costeiras, quando forem
+sede de Município, não serão bens da União. Cita-se como exemplo a ilha em que está contido o
+Município de Vitória. Essa ilha costeira não é bem da União, mas do próprio Município de Vitória.
+Os incisos V e VI tratam do domínio marítimo. O mar territorial e os recursos naturais da
+plataforma continental e da zona econômica exclusiva são bens da União. Cita-se que, na
+plataforma continental, há uma enorme riqueza, especialmente de petróleo.
+O inciso VII trata dos terrenos de marinha, que também são bens da União. Apenas para que se
+tenha uma noção, de forma bem grosseira, são terrenos de marinha aqueles que são adjacentes
+ao litoral, a 33 metros medidos para a parte da terra (ou seja, 33 metros para dentro do
+continente). Segundo o STF, mesmo que os terrenos de marinha estejam situados em ilhas
+costeiras sede de Municípios, eles serão bens da União.1 De modo mais simples, todos os
+                                                    ==106d==
+
+terrenos de marinha serão bens da União, inclusive aqueles situados em ilhas que sejam bens de
+Municípios.
+O inciso VIII trata dos potenciais de energia hidráulica. Mesmo nos rios estaduais (que banham
+apenas um Estado), os potenciais de energia hidráulica serão bens da União.
+O inciso IX trata dos recursos minerais, inclusive os do subsolo. Suponha que um fazendeiro
+descubra uma mina de ouro em suas terras. Esse ouro será, por incrível que pareça, um bem da
+União. Cabe destacar que é assegurada, nos termos da lei, à União, aos Estados, ao Distrito
+Federal e aos Municípios, participação no resultado da exploração de petróleo ou gás natural, de
+recursos hídricos para fins de geração de energia elétrica e de outros recursos minerais no
+respectivo território, plataforma continental, mar territorial ou zona econômica exclusiva, ou
+compensação financeira por essa exploração.
+Para enriquecer nossos conhecimentos, reproduzirei o art. 176 da Carta Magna:
+
+           Art. 176. As jazidas, em lavra ou não, e demais recursos minerais e os potenciais
+           de energia hidráulica constituem propriedade distinta da do solo, para efeito de
+           exploração ou aproveitamento, e pertencem à União, garantida ao
+           concessionário a propriedade do produto da lavra.
+
+Suponhamos, como exemplo, que seja encontrada uma mina de ouro em uma fazenda do Sr.
+João da Silva, em Goiás. A propriedade da fazenda continuará sendo do Sr. João, embora o ouro
+encontrado seja da União. Caso uma concessionária venha a explorar essa jazida, deverá pagar
+royalties à União, proprietária dos recursos minerais. O produto da lavra (ouro extraído),
+entretanto, será da concessionária.
+O inciso X trata das cavidades naturais subterrâneas (grutas) e sítios arqueológicos e
+pré-históricos.
+O inciso XI dispõe que as terras tradicionalmente ocupadas pelos índios são bens da União. A
+palavra “tradicionalmente” não diz respeito ao tempo de ocupação, mas, sim, ao modo de
+
+1
+    RE 636199/ES, Rel. Min. Rosa Weber, julgamento em 27.4.2017.
+
+
+                                                                                                    44
+                                                                                                    230
+
+
+---
+
+ocupação indígena. Segundo o STF, essas terras são bens da União, mas de usufruto exclusivo
+dos índios.
+Nesse sentido, vale mencionarmos a Súmula nº 650, do STF, cujo enunciado é o seguinte: Os
+incisos I e XI do art. 20 da CF não alcançam terras de aldeamentos extintos, ainda que ocupadas
+por indígenas em passado remoto.
+Daí a importância da expressão “tradicionalmente ocupadas pelos índios” para assegurar que o
+bem pertence à União. Terras outrora ocupadas por indígenas e que atualmente correspondem a
+aldeamentos extintos não estão inseridas dentro dos bens da União.
+
+       No âmbito infraconstitucional, o Decreto-Lei nº 9.760, de 5 de setembro de 1946,
+       dispõe sobre os bens imóveis da União. Nessa norma, estão incluídos, entre os
+       bens imóveis da União, aqueles localizados em zonas sob a influência das marés.
+       O STF, ao julgar a ADPF 1.008/DF (Rel. Min. Cármen Lúcia, julgamento finalizado
+       em 19.05.2023), decidiu que é compatível com a atual ordem constitucional a
+       norma que inclui entre os bens imóveis da União as zonas onde se faça sentir a
+       influência das marés.
+       Os bens pertencentes à União na data da promulgação da Constituição Federal
+       de 1988 foram mantidos em sua titularidade e as zonas de influência das marés
+       são consideradas como terrenos de marinha, os quais integram o patrimônio da
+       União.
+
+.
+
+                                                                                            45
+                                                                                            230
+
+
+---
+
+Bens Públicos
+
+Bens dos estados
+
+Os bens dos estados estão no art. 26 da CF/88:
+
+       Art. 26. Incluem-se entre os bens dos Estados:
+       I - as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito,
+       ressalvadas, neste caso, na forma da lei, as decorrentes de obras da União;
+       II - as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio,
+       excluídas aquelas sob domínio da União, Municípios ou terceiros;
+       III - as ilhas fluviais e lacustres não pertencentes à União;
+                                                ==106d==
+
+       IV - as terras devolutas não compreendidas entre as da União.
+
+Em relação às águas superficiais, deve-se atentar para o fato de que tais águas devem estar
+integralmente contidas no território do Estado-membro. Caso contrário, tais águas pertencerão à
+União, nos termos do art. 20, inciso III, da CF/88.
+Cabe salientar que compete ao Supremo Tribunal Federal solucionar conflitos entre a União e os
+Estados que envolvam a propriedade de bens públicos, nos termos do art. 102, inciso I, alínea
+"f".
+
+       A jurisprudência do STF, por diversas vezes, reconheceu que as terras dos
+       aldeamentos indígenas que se extinguiram antes da Constituição de 1891, por
+       haverem perdido o caráter de bens destinados a uso especial, passaram à
+       categoria de terras devolutas. Uma vez reconhecidos como terras devolutas, por
+       força do art. 64 da Constituição de 1891, os aldeamentos extintos transferiram-se
+       ao domínio dos Estados. Portanto, os aldeamentos indígenas extintos antes da
+       edição da primeira Constituição republicana são bens dos Estados [ADI 255, rel.
+       p/ o ac. min. Ricardo Lewandowski, j. 16-3-2011, P, DJE de 24-5-2011].
+
+                                                                                            46
+                                                                                            230
+
+
+---
+
+                              REPARTIÇÃO DE COMPETÊNCIAS
+
+Repartição de competências e a federação brasileira
+Na federação, o poder político é descentralizado; os entes federados são dotados, portanto, de
+autonomia política. E essa autonomia dos entes federativos pressupõe a existência de uma
+repartição de competências.
+O Estado federal tem como uma de suas principais características, portanto, a existência de uma
+repartição constitucional de competências: a Constituição Federal delimita as atribuições de cada
+um dos entes federativos. Nesse sentido, a repartição constitucional de competências pode ser
+considerada um elemento fundamental da federação.
+O objetivo da repartição de competências na CF/88 é dividir o poder político entre os entes
+federados de forma racional e equilibrada, garantindo o federalismo de equilíbrio entre União,
+Estados, Distrito Federal e Municípios. Ao repartir competências entre os entes federativos, a
+Constituição está harmonizando a convivência entre União, Estados, Distrito Federal e
+Municípios, bem como viabilizando o pacto federativo.1
+A repartição de competências é baseada em dois princípios: i) princípio da predominância do
+interesse; e ii) princípio da subsidiariedade.
+Segundo o princípio da predominância do interesse, a União cuidará das matérias de
+predominância do interesse geral (nacional); aos Estados, caberão as matérias de interesse
+regional; e aos Municípios, caberão as matérias de interesse local. Como exemplos da aplicação
+do princípio da predominância do interesse, citamos os seguintes:
+         a) emissão de moeda: o interesse predominante é o nacional, logo a competência é da
+         União.
+         b) assegurar a defesa nacional: o interesse predominante é o nacional, logo a competência
+         é da União.
+         c) fixação do horário de funcionamento de agências bancárias: como está em jogo o
+         sistema financeiro nacional, o interesse é geral, portanto a competência é da União.
+         d) fixação do horário de funcionamento de estabelecimentos comerciais: como o interesse
+         é local, a competência é dos Municípios.
+O princípio da subsidiariedade, por sua vez, baseia-se na lógica de que, sempre que for possível,
+as questões devem ser resolvidas pelo ente federativo que estiver mais próximo da tomada de
+decisões. Como exemplo, citamos as competências para dispor sobre transporte.
+          a) A exploração do transporte municipal é matéria de competência dos Municípios. Veja
+          que cada Município consegue regular satisfatoriamente o transporte urbano (municipal).
+          b) A exploração do transporte intermunicipal é matéria de competência dos Estados.
+          Perceba que um Município (sozinho) não consegue regular o transporte intermunicipal (o
+
+
+1
+    MASSON, Nathalia. Manual de Direito Constitucional. Ed. Juspodium, Salvador, 2013, pp. 453.
+
+
+                                                                                                  47
+                                                                                                  137
+
+
+---
+
+      qual envolve mais de um Município). Portanto, os entes federativos que conseguem
+      cumprir satisfatoriamente essa tarefa são os Estados.
+      c) A exploração dos serviços de transporte rodoviário interestadual e internacional de
+      passageiros é competência da União. Veja que um Estado (sozinho) não consegue regular
+      satisfatoriamente o transporte interestadual e internacional; só a União conseguirá fazê-lo.
+
+                                              ==106d==
+
+Na definição de José Afonso da Silva, competência é a “faculdade juridicamente atribuída a uma
+entidade, órgão, ou agente do Poder Público para emitir decisões. Competências são as diversas
+modalidades de poder de que se servem os órgãos ou entidades estatais para realizar as suas
+funções”.
+Há 2 (duas) técnicas de repartição de competências: i) repartição horizontal; e ii) repartição
+vertical.
+Na repartição horizontal, a Constituição outorga, aos entes federativos, competência para atuar
+em áreas específicas, sem a interferência de um sobre o outro, sob pena de
+inconstitucionalidade. Esse tipo de repartição de competências é característico dos Estados que
+adotam um federalismo dual ou clássico.
+Na repartição vertical, as competências serão exercidas em conjunto pelos entes federativos, que
+irão, portanto, atuar de forma coordenada. Esse tipo de repartição de competências é
+característica dos Estados que adotam um federalismo de cooperação ou neoclássico.
+A Constituição Federal de 1988, ao repartir competências entre os entes federativos, utilizou as 2
+(duas) técnicas. Ao definir as competências exclusivas e privativas da União, foi adotada a técnica
+de repartição horizontal; por sua vez, ao estabelecer as competências comuns e as competências
+concorrentes, resta caracterizada a repartição vertical. Por utilizar a repartição vertical de
+competências, diz-se que o Brasil adota um federalismo de cooperação ou neoclássico.
+A repartição de competências na federação brasileira é, todavia, mais complexa do que isso. Ela
+é estruturada da seguinte forma:
+      a) A CF/88 enumera expressamente as competências da União (arts. 21 e 22). As
+      competências da União são exclusivas ou privativas. As competências exclusivas são
+      indelegáveis, caracterizando-se por serem administrativas (estão relacionadas à prestação
+      de serviços públicos pela União). Já as competências privativas são delegáveis,
+      caracterizando-se por serem legislativas.
+
+                                                                                                48
+                                                                                                230
+
+
+---
+
+      b) A CF/88 enumera expressamente as competências dos Municípios. (art. 30).
+      c) A CF/88 não lista as competências dos Estados. Por isso, diz-se que os Estados
+      possuem competência remanescente. As matérias que não foram atribuídas pela CF/88 à
+      União ou aos Municípios serão outorgadas aos Estados.
+      d) A CF/88 estabelece competências comuns, que são de todos os entes federativos, em
+      conjunto. Utilizou-se, aqui, da técnica de repartição vertical de competências.
+      e) A CF/88 estabelece competências concorrentes entre a União, os Estados e o Distrito
+      Federal. Nas competências concorrentes, verticalmente repartidas, cabe à União
+      estabelecer as normas gerais e, aos Estados e Distrito Federal, a competência
+      suplementar.
+Um questionamento importante que se deve fazer é sobre a possibilidade ou não de alteração da
+repartição de competências por Emenda Constitucional. A repartição de competências é uma
+cláusula pétrea?
+A doutrina considera que a repartição de competências pode ser alterada por emenda
+constitucional, desde que essa alteração não represente uma ameaça tendente a abolir a forma
+federativa de Estado (essa, sim, uma cláusula pétrea). Assim, apenas não seria válida uma
+emenda constitucional que reduzisse de forma substancial a autonomia de um ou mais entes
+federados.
+
+                                                                                           49
+                                                                                          230
+
+
+---
+
+                                ‭R‭E‬ PARTIÇÃO‬ ‭DE‬ ‭C‭O
+                                                        ‬ MPETÊNCIAS‬
+
+‭Competências Exclusivas e Privativas da União‬
+
+‭ s‬‭competências‬‭exclusivas‬‭e‬‭privativas‬‭da‬‭União‬‭estão‬‭enumeradas,‬‭respectivamente,‬‭no‬‭art.‬‭21‬
+A
+‭e‬ ‭art.‬ ‭22‬ ‭da‬ ‭Constituição‬ ‭Federal.‬ ‭Destaque-se‬ ‭que‬ ‭ambas‬ ‭são‬ ‭competências‬ ‭expressas‬
+ ‭(explícitas) no texto constitucional.‬
+‭ o‬ ‭art.‬ ‭21,‬ ‭estão‬ ‭as‬ ‭chamadas‬ ‭competências‬ ‭exclusivas‬ ‭da‬‭União.‬‭Trata-se‬‭de‬‭competências‬‭de‬
+N
+‭natureza‬‭administrativa‬‭ou‬‭material‬‭,‬‭isto‬‭é,‬‭estão‬‭relacionadas‬‭à‬‭prestação‬‭(execução)‬‭de‬‭serviços‬
+ ‭públicos‬ ‭pela‬ ‭União.‬ ‭São‬ ‭competências‬ ‭indelegáveis‬‭:‬ ‭mesmo‬ ‭diante‬ ‭da‬ ‭omissão‬ ‭da‬ ‭União,‬ ‭não‬
+  ‭podem os demais entes federados atuar no âmbito dessas matérias.‬
+‭Vejamos, a seguir, as competências exclusivas da União.‬
+
+          ‭Art. 21‬‭. Compete à União:‬
+          I‭‬ ‭-‬ ‭manter‬ ‭relações‬ ‭com‬ ‭Estados‬ ‭estrangeiros‬ ‭e‬ ‭participar‬ ‭de‬ ‭organizações‬
+           ‭internacionais;‬
+
+‭ ‬ ‭União‬ ‭é‬ ‭o‬ ‭ente‬ ‭federativo‬ ‭que‬ ‭detém‬ ‭a‬ ‭competência‬ ‭para‬‭representar‬‭o‬‭Estado‬‭brasileiro‬‭no‬
+A
+‭plano‬‭internacional‬‭.‬‭Destaque-se‬‭que‬‭a‬‭soberania‬‭é‬‭atributo‬‭da‬‭República‬‭Federativa‬‭do‬‭Brasil;‬‭a‬
+ ‭União é ente dotado de autonomia.‬
+
+          ‭II‬‭- declarar a guerra e celebrar a paz;‬
+          ‭III‬‭- assegurar a defesa nacional;‬
+          I‭V‬ ‭-‬ ‭permitir,‬ ‭nos‬ ‭casos‬ ‭previstos‬ ‭em‬ ‭lei‬ ‭complementar,‬ ‭que‬ ‭forças‬ ‭estrangeiras‬
+           ‭transitem pelo território nacional ou nele permaneçam temporariamente;‬
+
+‭ sses‬ ‭três‬ ‭dispositivos‬ ‭estão‬ ‭relacionados‬ ‭à‬ ‭defesa‬ ‭nacional‬‭,‬ ‭cuja‬ ‭competência‬ ‭é‬ ‭exclusiva‬ ‭da‬
+E
+‭União.‬
+
+          ‭V‬‭- decretar o estado de sítio, o estado de defesa‬‭e a intervenção federal;‬
+
+‭ ‬ ‭estado‬ ‭de‬ ‭sítio,‬ ‭o‬ ‭estado‬ ‭de‬ ‭defesa‬ ‭e‬ ‭a‬ ‭intervenção‬ ‭federal‬ ‭compõem‬ ‭o‬ ‭chamado‬ ‭sistema‬
+O
+‭constitucional‬ ‭de‬ ‭crises.‬ ‭Trata-se‬ ‭de‬ ‭elementos‬ ‭de‬ ‭estabilização‬‭constitucional‬‭.‬‭O‬‭Presidente‬‭da‬
+ ‭República‬ ‭é‬ ‭a‬ ‭autoridade‬ ‭competente‬ ‭para‬ ‭decretar‬ ‭o‬ ‭estado‬ ‭de‬ ‭sítio,‬ ‭o‬ ‭estado‬ ‭de‬ ‭defesa‬ ‭e‬ ‭a‬
+  ‭intervenção federal.‬
+
+          ‭VI‬‭- autorizar e fiscalizar a produção e o comércio‬‭de material bélico;‬
+
+‭ om‬ ‭base‬ ‭nesse‬ ‭dispositivo,‬ ‭o‬ ‭STF‬ ‭decidiu‬ ‭que‬ ‭é‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭autorize‬ ‭a‬
+C
+‭utilização,‬ ‭pelas‬ ‭polícias‬ ‭civil‬ ‭e‬ ‭militar,‬ ‭de‬ ‭armas‬ ‭de‬ ‭fogo‬ ‭apreendidas‬‭.‬ ‭Segundo‬ ‭a‬ ‭Corte,‬ ‭“‭a
+                                                                                                                            ‬‬
+ ‭competência‬ ‭exclusiva‬ ‭da‬ ‭União‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭material‬ ‭bélico,‬ ‭complementada‬ ‭pela‬
+
+                                                                                                                          50
+                                                                                                                          230
+
+
+---
+
+c‭ ompetência‬‭para‬‭autorizar‬‭e‬‭fiscalizar‬‭a‬‭produção‬‭de‬‭material‬‭bélico,‬‭abrange‬‭a‬‭disciplina‬‭sobre‬
+ ‭a destinação de armas apreendidas e em situação irregular‬‭.”‬‭1‬
+‭ inda‬ ‭segundo‬ ‭o‬ ‭STF,‬ ‭já‬ ‭que‬ ‭compete‬ ‭à‬ ‭União‬ ‭autorizar‬ ‭e‬ ‭fiscalizar‬ ‭o‬ ‭armamento‬ ‭produzido‬ ‭e‬
+A
+‭comercializado‬‭no‬‭País,‬‭é‬‭incompatível‬‭com‬‭a‬‭Constituição‬‭Federal‬‭a‬‭concessão‬‭de‬‭porte‬‭de‬‭arma‬
+ ‭a procuradores estaduais por lei estadual‬‭2‬‭.‬
+
+         ‭VII‬‭- emitir moeda;‬
+         ‭ III‬‭-‬‭administrar‬‭as‬‭reservas‬‭cambiais‬‭do‬‭País‬‭e‬‭fiscalizar‬‭as‬‭operações‬‭de‬‭natureza‬
+         V
+         ‭financeira,‬‭especialmente‬‭as‬‭de‬‭crédito,‬‭câmbio‬‭e‬‭capitalização,‬‭bem‬‭como‬‭as‬‭de‬
+          ‭seguros e de previdência privada;‬
+
+‭ om‬ ‭base‬ ‭no‬ ‭inciso‬ ‭VIII,‬ ‭o‬ ‭STF‬ ‭entende‬ ‭que‬ ‭é‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭estabeleça‬ ‭a‬
+C
+‭obrigatoriedade‬ ‭de‬ ‭utilização‬‭,‬ ‭pelas‬ ‭agências‬ ‭bancárias,‬ ‭de‬ ‭equipamento‬ ‭que‬ ‭ateste‬ ‭a‬
+ ‭autenticidade‬ ‭de‬‭cédulas.‬‭3‬ ‭Ora,‬‭se‬‭a‬‭competência‬‭para‬‭a‬‭fiscalização‬‭das‬‭operações‬‭de‬‭natureza‬
+  ‭financeira‬ ‭é‬ ‭competência‬ ‭exclusiva‬ ‭da‬ ‭União,‬ ‭não‬ ‭cabe‬ ‭aos‬ ‭Estados‬ ‭editar‬ ‭lei‬ ‭que‬ ‭estabeleça‬
+   ‭medida voltada para essa finalidade.‬
+
+         I‭X‬‭-‬‭elaborar‬‭e‬‭executar‬‭planos‬‭nacionais‬‭e‬‭regionais‬‭de‬‭ordenação‬‭do‬‭território‬‭e‬
+          ‭de desenvolvimento econômico e social;‬
+         ‭X‬‭- manter o serviço postal e o correio aéreo nacional;‬
+
+‭ ‬ ‭STF‬ ‭considera‬ ‭que,‬ ‭com‬ ‭base‬ ‭no‬ ‭inciso‬ ‭X,‬ ‭é‬ ‭constitucional‬ ‭a‬ ‭atribuição‬ ‭de‬ ‭monopólio‬ ‭do‬
+O
+‭serviço postal à Empresa Brasileira de Correios e Telégrafos.‬‭4‬
+
+         ‭ I‬ ‭-‬ ‭explorar,‬ ‭diretamente‬ ‭ou‬‭mediante‬‭autorização,‬‭concessão‬‭ou‬‭permissão,‬‭os‬
+         X
+         ‭serviços‬ ‭de‬ ‭telecomunicações,‬ ‭nos‬ ‭termos‬ ‭da‬ ‭lei,‬ ‭que‬ ‭disporá‬ ‭sobre‬ ‭a‬
+          ‭organização‬ ‭dos‬ ‭serviços,‬ ‭a‬ ‭criação‬ ‭de‬ ‭um‬ ‭órgão‬ ‭regulador‬ ‭e‬ ‭outros‬ ‭aspectos‬
+           ‭institucionais;‬
+
+‭ ‬ ‭União‬ ‭tem‬ ‭competência‬ ‭privativa‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭telecomunicações‬‭.‬ ‭Com‬ ‭base‬ ‭nesse‬
+A
+‭entendimento, o STF considera que:‬
+        ‭ )‬‭É‬‭inconstitucional‬‭lei‬‭estadual‬‭ou‬‭distrital‬‭que‬‭proíba‬‭as‬‭empresas‬‭de‬‭telecomunicações‬
+        a
+        ‭de cobrarem‬‭taxas para a instalação do segundo ponto de acesso‬‭à internet.‬‭5‬
+        ‭ )‬ ‭É‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭ou‬ ‭distrital‬ ‭que‬ ‭estabeleça‬ ‭a‬ ‭possibilidade‬ ‭de‬ ‭acúmulo‬
+        b
+        ‭das‬‭franquias‬‭de‬‭minutos‬‭mensais‬‭ofertados‬‭pelas‬‭operadoras‬‭de‬‭telefonia,‬‭determinando‬
+         ‭a‬ ‭transferência‬ ‭dos‬ ‭minutos‬ ‭não‬ ‭utilizados‬‭no‬‭mês‬‭de‬‭sua‬‭aquisição,‬‭enquanto‬‭não‬‭forem‬
+          ‭utilizados, para os meses subsequentes.‬
+
+‭1‬
+      ‭ TF, ADIN 3258. Rel. Min. Joaquim Barbosa. 06.04.2005.‬
+      S
+‭2‬
+      ‭ADI 6985/AL. Rel. Min. Alexandre de Moraes, julgamento virtual finalizado em 25.02.2022.‬
+‭3‬
+       ‭STF, ADIN 3515, Rel. Min. Cezar Peluso. 01.08.2011.‬
+ ‭4‬
+        ‭STF, ADPF 46, Rel. Min. Eros Grau. 05.08.2009.‬
+  ‭5‬
+         ‭STF, ADIN 4083. Rel. Min. Carmen Lucia. 25.11.2010.‬
+
+
+                                                                                                                       51
+                                                                                                                       230
+
+
+---
+
+       c‭ )‬ ‭É‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭determine‬ ‭que‬ ‭as‬ ‭empresas‬ ‭telefônicas‬ ‭criem‬ ‭ou‬
+        ‭mantenham‬ ‭um‬ ‭cadastro‬ ‭de‬ ‭assinantes‬ ‭interessados‬ ‭em‬ ‭receber‬ ‭ofertas‬ ‭de‬ ‭produtos‬ ‭ou‬
+         ‭serviços.‬‭6‬
+       ‭ )‬ ‭É‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭obrigue‬ ‭empresas‬ ‭de‬ ‭telefonia‬ ‭móvel‬ ‭a‬ ‭instalarem‬
+       d
+       ‭equipamentos de bloqueio do serviço de celular em presídio‬‭.‬‭7‬
+       ‭ )‬ ‭É‬ ‭inconstitucional‬ ‭norma‬ ‭estadual‬ ‭que‬ ‭obrigue‬ ‭empresa‬ ‭privada‬ ‭de‬ ‭telefonia‬‭celular‬‭e‬
+       e
+       ‭instituição‬‭de‬‭ensino‬‭a‬‭garantir‬‭idênticos‬‭benefícios‬‭promocionais‬‭tanto‬‭aos‬‭novos‬‭clientes‬
+        ‭quanto aos antigos‬‭8‬‭.‬
+       f‭ )‬ ‭É‬ ‭inconstitucional‬ ‭—‬ ‭por‬ ‭violar‬ ‭a‬ ‭competência‬ ‭da‬ ‭União‬ ‭privativa‬ ‭para‬ ‭legislar‬ ‭sobre‬
+        ‭telecomunicações‬‭(art.‬‭22,‬‭IV)‬‭e‬‭exclusiva‬‭para‬‭explorar‬‭esses‬‭serviços‬‭(art.‬‭21,‬‭XI)‬‭—‬‭norma‬
+         ‭estadual‬ ‭que‬ ‭institua‬ ‭a‬ ‭obrigatoriedade‬ ‭de‬ ‭licenciamento‬ ‭ambiental‬ ‭para‬ ‭a‬‭instalação‬‭de‬
+          ‭Rede‬ ‭de‬ ‭Transmissão‬ ‭de‬ ‭Sistemas‬ ‭de‬ ‭Telefonia‬ ‭e‬ ‭de‬ ‭Estações‬ ‭Rádio‬ ‭Base‬ ‭(ERBs)‬ ‭e‬
+           ‭Equipamentos de Telefonia sem Fio em seu território local‬‭9‬‭.‬
+       ‭ )‬ ‭Afronta‬ ‭o‬ ‭princípio‬ ‭da‬ ‭separação‬ ‭dos‬ ‭poderes,‬ ‭sendo‬ ‭inconstitucional‬‭,‬ ‭a‬ ‭anulação‬
+       g
+       ‭judicial‬ ‭de‬ ‭cláusula‬ ‭de‬ ‭contrato‬ ‭de‬ ‭concessão‬ ‭firmado‬ ‭por‬ ‭Agência‬ ‭Reguladora‬ ‭e‬
+        ‭prestadora‬ ‭de‬ ‭serviço‬ ‭de‬ ‭telefonia‬ ‭que,‬ ‭em‬ ‭observância‬ ‭aos‬ ‭marcos‬ ‭regulatórios‬
+         ‭estabelecidos‬ ‭pelo‬ ‭Legislador,‬ ‭autoriza‬ ‭a‬ ‭incidência‬ ‭de‬ ‭reajuste‬ ‭de‬ ‭alguns‬ ‭itens‬ ‭tarifários‬
+          ‭em‬‭percentual‬‭superior‬‭ao‬‭do‬‭índice‬‭inflacionário‬‭fixado‬‭,‬‭quando‬‭este‬‭não‬‭é‬‭superado‬‭pela‬
+           ‭média ponderada de todos os itens‬‭10‬‭.‬
+
+         ‭XII‬‭- explorar, diretamente ou mediante autorização,‬‭concessão ou permissão:‬
+         ‭a)‬‭os serviços de radiodifusão sonora, e de sons e‬‭imagens;‬
+         ‭ )‬ ‭os‬ ‭serviços‬ ‭e‬ ‭instalações‬ ‭de‬ ‭energia‬ ‭elétrica‬ ‭e‬ ‭o‬ ‭aproveitamento‬ ‭energético‬
+         b
+         ‭dos‬‭cursos‬‭de‬‭água,‬‭em‬‭articulação‬‭com‬‭os‬‭Estados‬‭onde‬‭se‬‭situam‬‭os‬‭potenciais‬
+          ‭hidroenergéticos;‬
+         ‭c)‬‭a navegação aérea, aeroespacial e a infraestrutura‬‭aeroportuária;‬
+         ‭ )‬ ‭os‬ ‭serviços‬ ‭de‬ ‭transporte‬ ‭ferroviário‬ ‭e‬ ‭aquaviário‬ ‭entre‬ ‭portos‬ ‭brasileiros‬ ‭e‬
+         d
+         ‭fronteiras nacionais, ou que transponham os limites de Estado ou Território;‬
+         ‭ )‬ ‭os‬ ‭serviços‬ ‭de‬ ‭transporte‬ ‭rodoviário‬ ‭interestadual‬ ‭e‬ ‭internacional‬ ‭de‬
+         e
+         ‭passageiros;‬
+         ‭f)‬‭os portos marítimos, fluviais e lacustres;‬
+
+‭ esse‬ ‭dispositivo,‬ ‭estão‬ ‭enumerados‬ ‭diversos‬ ‭serviços‬ ‭públicos‬ ‭da‬ ‭competência‬ ‭da‬ ‭União.‬
+N
+‭Destaque-se‬‭que‬‭todos‬‭eles‬‭poderão‬‭ser‬‭explorados‬‭diretamente‬‭pela‬‭União‬‭ou,‬‭então,‬‭por‬‭meio‬
+ ‭de‬‭autorização, concessão‬‭ou permissão‬‭(exploração‬‭indireta).‬
+
+
+‭6‬
+      ‭ TF, ADI 3959/SP. Rel. Min. Luís Roberto Barroso, 20.04.2016.‬
+      S
+‭7‬
+      ‭ADI 5356/MS. Rel. Min. Edson Fachin. rel. p/ o acórdão Min. Marco Aurélio. Julgamento: 03.08.2016.‬
+‭8‬
+       ‭ADI 5399/SP e ADI 6191/SP. Rel. Min. Roberto Barroso. Julgamento: 09.06.2022.‬
+ ‭9‬
+     ‭ADI 7321/AL. Rel. Min. Gilmar Mendes, julgamento virtual finalizado em 2.6.2023.‬
+  ‭10‬
+        ‭RE 1059819/PE. Rel. Min. Marco Aurélio, red. p/ Ac.‬‭Min. Alexandre de Moraes, julgamento em 21.02.2022.‬
+
+
+                                                                                                                        52
+                                                                                                                       230
+
+
+---
+
+            ‭ III‬ ‭-‬ ‭organizar‬ ‭e‬ ‭manter‬ ‭o‬ ‭Poder‬ ‭Judiciário,‬ ‭o‬ ‭Ministério‬ ‭Público‬ ‭do‬ ‭Distrito‬
+            X
+            ‭Federal e dos Territórios e a Defensoria Pública dos Territórios;‬
+            ‭ IV‬‭-‬‭organizar‬‭e‬‭manter‬‭a‬‭polícia‬‭civil,‬‭a‬‭polícia‬‭penal,‬‭a‬‭polícia‬‭militar‬‭e‬‭o‬‭corpo‬
+            X
+            ‭de‬‭bombeiros‬‭militar‬‭do‬‭Distrito‬‭Federal,‬‭bem‬‭como‬‭prestar‬‭assistência‬‭financeira‬
+             ‭ao‬ ‭Distrito‬ ‭Federal‬ ‭para‬ ‭a‬ ‭execução‬ ‭de‬ ‭serviços‬ ‭públicos,‬ ‭por‬ ‭meio‬ ‭de‬ ‭fundo‬
+              ‭próprio;‬
+
+‭ sses‬ ‭dois‬ ‭dispositivos‬ ‭são‬ ‭muito‬ ‭importantes‬ ‭e‬ ‭com‬ ‭grandes‬ ‭chances‬ ‭de‬ ‭serem‬ ‭cobrados‬ ‭em‬
+E
+‭prova.‬ ‭Com‬ ‭base‬ ‭neles,‬ ‭a‬ ‭doutrina‬ ‭entende‬ ‭que‬ ‭o‬ ‭Distrito‬ ‭Federal‬ ‭tem‬ ‭uma‬ ‭autonomia‬
+ ‭parcialmente tutelada pela União‬‭.‬
+  ‭ ‬ ‭partir‬ ‭do‬ ‭inciso‬ ‭XIV,‬ ‭o‬ ‭STF‬ ‭editou‬ ‭a‬ ‭Súmula‬ ‭Vinculante‬ ‭nº‬ ‭39,‬ ‭segundo‬ ‭a‬ ‭qual‬ ‭“‭c‬ ompete‬
+  A
+ ‭privativamente‬ ‭à‬ ‭União‬ ‭legislar‬ ‭sobre‬‭vencimentos‬‭dos‬‭membros‬‭das‬‭polícias‬‭civil‬‭e‬‭militar‬‭e‬‭do‬
+‭corpo de bombeiros militar do Distrito Federal‬‭”.‬
+                                                             ==106d==
+
+‭ iquem‬ ‭atentos,‬ ‭ainda,‬ ‭para‬ ‭o‬ ‭fato‬ ‭de‬ ‭que,‬ ‭desde‬ ‭a‬ ‭Emenda‬ ‭Constitucional‬ ‭nº‬ ‭69/2012,‬ ‭a‬
+F
+‭Defensoria‬‭Pública do DF‬‭passou a ser‬‭organizada e‬‭mantida pelo próprio Distrito Federal‬‭.‬
+
+         ‭ ‬‭EC‬‭nº‬‭104/2019‬‭criou‬‭as‬‭polícias‬‭penais‬‭federal,‬‭estaduais‬‭e‬‭distrital.‬‭A‬‭polícia‬‭penal‬
+         A
+         ‭do Distrito Federal‬‭será organizada e mantida pela‬‭União‬‭.‬
+
+            ‭ V‬ ‭-‬ ‭organizar‬ ‭e‬ ‭manter‬ ‭os‬ ‭serviços‬ ‭oficiais‬ ‭de‬ ‭estatística,‬‭geografia,‬‭geologia‬‭e‬
+            X
+            ‭cartografia de âmbito nacional;‬
+            ‭ VI‬ ‭-‬ ‭exercer‬ ‭a‬ ‭classificação,‬ ‭para‬ ‭efeito‬ ‭indicativo,‬ ‭de‬ ‭diversões‬ ‭públicas‬ ‭e‬ ‭de‬
+            X
+            ‭programas de rádio e televisão;‬
+            ‭XVII‬‭- conceder anistia;‬
+
+‭ om‬ ‭base‬ ‭no‬ ‭inciso‬ ‭XVII,‬ ‭o‬ ‭STF‬ ‭considerou‬ ‭que‬ ‭a‬ ‭Lei‬‭da‬‭Anistia‬‭,‬‭que‬‭concedeu‬‭anistia‬‭àqueles‬
+C
+‭que cometeram crimes durante a época da ditadura, é constitucional.‬‭11‬
+‭ estaque-se‬ ‭que‬ ‭a‬‭concessão‬‭de‬‭anistia‬‭para‬‭crimes‬‭é‬‭competência‬‭da‬‭União‬‭;‬‭por‬‭outro‬‭lado,‬‭a‬
+D
+‭concessão‬ ‭de‬ ‭anistia‬ ‭para‬ ‭infrações‬ ‭administrativas‬ ‭de‬ ‭servidores‬ ‭públicos‬ ‭estaduais‬ ‭é‬
+ ‭competência dos‬‭Estados‬‭.‬
+
+            ‭ VIII‬‭-‬‭planejar‬‭e‬‭promover‬‭a‬‭defesa‬‭permanente‬‭contra‬‭as‬‭calamidades‬‭públicas,‬
+            X
+            ‭especialmente as secas e as inundações;‬
+
+‭ ‬
+11
+      ‭ADPF 153, Rel. Min. Eros Grau. 29.04.2010.‬
+
+
+                                                                                                                          53
+                                                                                                                          230
+
+
+---
+
+          ‭ IX‬ ‭-‬ ‭instituir‬ ‭sistema‬ ‭nacional‬ ‭de‬ ‭gerenciamento‬ ‭de‬ ‭recursos‬ ‭hídricos‬ ‭e‬ ‭definir‬
+          X
+          ‭critérios de outorga de direitos de seu uso;‬
+          ‭ X‬ ‭-‬ ‭instituir‬ ‭diretrizes‬ ‭para‬ ‭o‬ ‭desenvolvimento‬ ‭urbano,‬ ‭inclusive‬ ‭habitação,‬
+          X
+          ‭saneamento básico e transportes urbanos;‬
+          ‭XXI‬‭- estabelecer princípios e diretrizes para o sistema‬‭nacional de viação;‬
+          ‭XXII‬‭- executar os serviços de polícia marítima, aeroportuária‬‭e de fronteiras;‬
+
+‭ om‬‭base‬‭no‬‭inciso‬‭XXII,‬‭a‬‭Polícia‬‭Federal‬‭é‬‭o‬‭órgão‬‭que‬‭executa‬‭os‬‭serviços‬‭de‬‭polícia‬‭marítima,‬
+C
+‭aeroportuária e de fronteiras.‬
+
+          ‭ XIII‬‭-‬‭explorar‬‭os‬‭serviços‬‭e‬‭instalações‬‭nucleares‬‭de‬‭qualquer‬‭natureza‬‭e‬‭exercer‬
+          X
+          ‭monopólio‬ ‭estatal‬ ‭sobre‬ ‭a‬ ‭pesquisa,‬ ‭a‬ ‭lavra,‬ ‭o‬ ‭enriquecimento‬ ‭e‬
+           ‭reprocessamento,‬ ‭a‬ ‭industrialização‬ ‭e‬ ‭o‬ ‭comércio‬ ‭de‬ ‭minérios‬ ‭nucleares‬ ‭e‬ ‭seus‬
+            ‭derivados, atendidos os seguintes princípios e condições:‬
+          ‭ )‬ ‭toda‬ ‭atividade‬ ‭nuclear‬ ‭em‬ ‭território‬ ‭nacional‬ ‭somente‬‭será‬‭admitida‬‭para‬‭fins‬
+          a
+          ‭pacíficos e mediante aprovação do Congresso Nacional;‬
+          ‭ )‬ ‭sob‬ ‭regime‬ ‭de‬‭permissão,‬‭são‬‭autorizadas‬‭a‬‭comercialização‬‭e‬‭a‬‭utilização‬‭de‬
+          b
+          ‭radioisótopos para pesquisa e uso agrícolas e industriais;‬
+          c‭ )‬ ‭sob‬ ‭regime‬ ‭de‬ ‭permissão,‬ ‭são‬ ‭autorizadas‬ ‭a‬ ‭produção,‬ ‭a‬‭comercialização‬‭e‬‭a‬
+           ‭utilização de radioisótopos para pesquisa e uso médicos;‬
+          ‭d)‬‭a responsabilidade civil por danos nucleares independe‬‭da existência de culpa;‬
+          ‭XXIV‬‭- organizar, manter e executar a inspeção do‬‭trabalho;‬
+          ‭ XV‬ ‭-‬ ‭estabelecer‬ ‭as‬ ‭áreas‬ ‭e‬ ‭as‬ ‭condições‬ ‭para‬ ‭o‬ ‭exercício‬ ‭da‬ ‭atividade‬ ‭de‬
+          X
+          ‭garimpagem, em forma associativa.‬
+
+‭ ‬ ‭União‬ ‭detém‬ ‭o‬ ‭monopólio‬ ‭estatal‬ ‭sobre‬ ‭a‬ ‭pesquisa,‬ ‭a‬ ‭lavra,‬ ‭o‬ ‭enriquecimento‬ ‭e‬
+A
+‭reprocessamento,‬ ‭a‬ ‭industrialização‬ ‭e‬ ‭o‬ ‭comércio‬ ‭de‬ ‭minérios‬ ‭nucleares‬ ‭e‬ ‭seus‬ ‭derivados‬‭.‬ ‭Por‬
+ ‭outro‬ ‭lado,‬ ‭a‬ ‭CF/88‬ ‭também‬ ‭assegura‬ ‭à‬ ‭iniciativa‬ ‭privada‬ ‭a‬ ‭possibilidade‬ ‭de‬ ‭participar‬ ‭de‬
+  ‭algumas‬‭atividades‬‭relacionadas‬‭aos‬‭radioisótopos,‬‭uma‬‭vez‬‭que‬‭há‬‭muitos‬‭usos‬‭relevantes‬‭sobre‬
+   ‭a energia nuclear.‬
+‭ esde‬‭que‬‭para‬‭pesquisa‬‭e‬‭usos‬‭médicos‬‭,‬‭é‬‭lícito‬‭à‬‭iniciativa‬‭privada‬‭produzir‬‭radioisótopos‬‭.‬‭Para‬
+D
+‭a‬‭utilização‬‭na‬‭agricultura‬‭e‬‭na‬‭indústria‬‭(ou‬‭seja,‬‭áreas‬‭diversas‬‭da‬‭medicina),‬‭caberia‬‭à‬‭iniciativa‬
+ ‭privada‬ ‭apenas‬ ‭comercializar‬ ‭e‬ ‭utilizar‬ ‭os‬ ‭radioisótopos,‬ ‭permanecendo‬ ‭a‬ ‭produção‬ ‭sob‬ ‭o‬
+  ‭monopólio da União.‬
+‭A Emenda Constitucional nº 115/2022 incluiu o inciso XXVI ao art. 21, cuja redação é a seguinte:‬
+
+          ‭ XVI‬ ‭-‬ ‭organizar‬ ‭e‬ ‭fiscalizar‬ ‭a‬ ‭proteção‬ ‭e‬ ‭o‬ ‭tratamento‬ ‭de‬ ‭dados‬ ‭pessoais,‬ ‭nos‬
+          X
+          ‭termos da lei.‬
+
+‭
+Antes ‬ de
+        ‭ ‬ mais
+             ‭    ‬ nada,
+                    ‭        ‬é
+                              ‭ ‬ importante
+                                  ‭            ‬ ‭lembrar‬ ‭que‬ ‭a‬ ‭mesma‬ ‭Emenda‬ ‭incluiu‬ ‭a‬ ‭proteção‬ ‭de‬‭dados‬
+pessoais
+‭         ‬ no
+            ‭ ‬ art.
+                ‭ ‬ 5º‭ ‬ da‭ ‬ CF/88,
+                                ‭        ‬ tornando-se
+                                           ‭                 ‬ ‭um‬ ‭direito‬ ‭fundamental.‬ ‭Nesse‬ ‭contexto,‬‭compete‬‭à‬
+União
+‭     ‬ organizar
+        ‭           ‬e‭ ‬ ﬁscalizar
+                          ‭         ‬a
+                                     ‭ ‬ proteção
+                                         ‭           ‬ ‭e‬ ‭o‬ ‭tratamento‬ ‭de‬ ‭dados‬‭pessoais,‬‭algo‬‭que,‬‭na‬‭prática,‬
+
+
+                                                                                                                         54
+                                                                                                                         230
+
+
+---
+
+‭ eve‬ ‭ser‬ ‭desempenhado‬ ‭pela‬ ‭Autoridade‬ ‭Nacional‬ ‭de‬ ‭Proteção‬ ‭de‬ ‭Dados‬ ‭(ANPD),‬ ‭conforme‬
+d
+‭previsão da Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).‬
+‭ o‬ ‭art.‬ ‭22,‬ ‭estão‬ ‭as‬ ‭competências‬ ‭privativas‬ ‭da‬ ‭União.‬ ‭São‬ ‭competências‬ ‭legislativas‬‭,‬ ‭isto‬ ‭é,‬
+N
+‭estão relacionadas à edição de normas pela União. São também competências‬‭delegáveis‬‭.‬
+‭Vejamos, a seguir, as competências privativas da União.‬
+
+         ‭Art. 22‬‭. Compete privativamente à União legislar sobre:‬
+         I‭‬ ‭-‬ ‭direito‬ ‭civil,‬ ‭comercial,‬ ‭penal,‬ ‭processual,‬ ‭eleitoral,‬ ‭agrário,‬ ‭marítimo,‬
+          ‭aeronáutico, espacial e do trabalho;‬
+
+‭ á‬ ‭farta‬ ‭jurisprudência‬ ‭sobre‬ ‭esse‬ ‭dispositivo.‬ ‭Citamos,‬ ‭a‬ ‭seguir,‬ ‭as‬ ‭mais‬ ‭importantes‬ ‭para‬ ‭sua‬
+H
+‭prova:‬
+        ‭ )‬ ‭A‬ ‭União‬ ‭tem‬ ‭competência‬ ‭privativa‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭direito‬ ‭penal‬‭,‬ ‭inclusive‬ ‭sobre‬
+        a
+        ‭crimes‬ ‭de‬ ‭responsabilidade‬‭.‬‭Segundo‬‭a‬‭Súmula‬‭Vinculante‬‭nº‬‭46,‬‭“‬‭a‬‭definição‬‭dos‬‭crimes‬
+         ‭de‬ ‭responsabilidade‬ ‭e‬ ‭o‬ ‭estabelecimento‬ ‭das‬ ‭respectivas‬ ‭normas‬ ‭de‬ ‭processo‬ ‭e‬
+          ‭julgamento‬ ‭são‬ ‭da‬ ‭competência‬ ‭legislativa‬ ‭privativa‬ ‭da‬ ‭União”.‬ ‭Nesse‬ ‭sentido,‬ ‭é‬
+           ‭inconstitucional‬ ‭norma‬ ‭de‬ ‭constituição‬ ‭estadual‬ ‭que‬ ‭disponha‬ ‭sobre‬ ‭o‬ ‭processamento‬ ‭e‬
+            ‭julgamento de governador e vice-governador nos casos de crime de responsabilidade‬‭12‬‭.‬
+        ‭ )‬ ‭Segundo‬ ‭o‬ ‭STF,‬ ‭é‬ ‭inconstitucional‬ ‭a‬ ‭lei‬ ‭distrital‬ ‭ou‬ ‭estadual‬ ‭que‬ ‭disponha‬ ‭sobre‬
+        b
+        ‭condições‬ ‭do‬ ‭exercício‬ ‭ou‬ ‭criação‬ ‭de‬ ‭profissão,‬ ‭sobretudo‬ ‭quando‬ ‭esta‬ ‭diga‬ ‭respeito‬ ‭à‬
+         ‭segurança‬ ‭de‬ ‭trânsito.‬‭13‬ ‭Assim,‬ ‭não‬ ‭pode‬ ‭uma‬ ‭lei‬ ‭estadual‬ ‭regulamentar‬ ‭a‬ ‭profissão‬ ‭de‬
+          ‭motoboy‬‭, uma vez que é competência privativa da União‬‭legislar sobre direito do trabalho.‬
+        c‭ )‬‭Segundo‬‭o‬‭STF,‬‭é‬‭inconstitucional‬‭lei‬‭estadual‬‭que‬‭limite‬‭o‬‭valor‬‭das‬‭quantias‬‭cobradas‬
+         ‭pelo‬ ‭uso‬ ‭de‬ ‭estacionamento‬‭.‬ ‭A‬ ‭inconstitucionalidade‬ ‭da‬ ‭lei‬ ‭estadual‬ ‭deve-se‬ ‭ao‬ ‭fato‬ ‭de‬
+          ‭que é competência privativa da União legislar sobre direito civil.‬
+        ‭ )‬ ‭Segundo‬ ‭o‬ ‭STF,‬ ‭é‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭disponha‬ ‭sobre‬ ‭atos‬ ‭de‬ ‭juiz,‬
+        d
+        ‭direcionando‬ ‭sua‬ ‭atuação‬ ‭em‬ ‭face‬ ‭de‬ ‭situações‬ ‭específicas‬‭14‬‭.‬ ‭Isso‬ ‭acontece‬ ‭porque‬
+         ‭compete privativamente à União legislar sobre‬‭direito‬‭processual‬‭.‬
+        ‭ )‬‭Segundo‬‭o‬‭STF,‬‭é‬‭inconstitucional‬‭lei‬‭estadual‬‭que‬‭discipline‬‭o‬‭valor‬‭que‬‭deve‬‭ser‬‭dado‬
+        e
+        ‭a‬ ‭uma‬ ‭causa‬‭15‬‭.‬ ‭Novamente,‬ ‭a‬ ‭razão‬ ‭para‬ ‭isso‬ ‭é‬ ‭o‬ ‭fato‬ ‭de‬ ‭que‬ ‭a‬‭União‬‭tem‬‭competência‬
+         ‭privativa para legislar sobre direito processual.‬
+        f‭ )‬ ‭Segundo‬ ‭o‬ ‭STF,‬ ‭é‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭impõe‬ ‭a‬ ‭obrigatoriedade‬ ‭da‬
+         ‭prestação‬‭de‬‭serviço‬‭de‬‭segurança‬‭em‬‭estacionamento‬‭16‬‭.‬‭A‬‭inconstitucionalidade‬‭deve-se‬
+          ‭ao‬ ‭fato‬ ‭de‬ ‭que‬ ‭é‬ ‭competência‬ ‭privativa‬ ‭da‬ ‭União‬ ‭legislar‬ ‭sobre‬ ‭direito‬ ‭civil.‬ ‭Além‬ ‭disso,‬
+           ‭considera‬ ‭o‬ ‭STF‬ ‭que,‬ ‭ao‬ ‭impor‬ ‭a‬ ‭obrigatoriedade‬ ‭do‬ ‭serviço‬ ‭de‬‭segurança‬‭para‬‭aqueles‬
+‭12‬
+       ‭ DI 4811/MG. Rel. Min. Gilmar Mendes, julgamento virtual finalizado em 13.12.2021.‬
+       A
+‭13‬
+       ‭ADI 3610. Rel. Min. Cezar Peluso. 01.08.2011.‬
+‭14‬
+        ‭ADI 2.257, Rel. Min. Eros Grau, j. 06.04.05, DJ de 26.08.05.‬
+ ‭15‬
+         ‭ADI 2.655, Rel. Min. Ellen Gracie, j. 09.03.04, DJ de 26.03.04.‬
+  ‭16‬
+          ‭ADI 451/RJ, Rel. Min. Roberto Barroso, julgamento em 1º.8.2017.‬
+
+
+                                                                                                                             55
+                                                                                                                            230
+
+
+---
+
+        ‭ ue‬ ‭operam‬ ‭estacionamentos,‬ ‭há‬ ‭uma‬ ‭intromissão‬ ‭indevida‬ ‭do‬ ‭Estado‬ ‭na‬ ‭atividade‬
+        q
+        ‭econômica, violando o princípio da livre iniciativa.‬
+        ‭ )‬‭Segundo‬‭o‬‭STF,‬‭é‬‭inconstitucional‬‭a‬‭previsão,‬‭por‬‭lei‬‭estadual,‬‭de‬‭“prazo‬‭de‬‭tolerância”,‬
+        g
+        ‭a‬ ‭impedir‬ ‭que‬ ‭o‬ ‭nome‬ ‭do‬ ‭consumidor‬ ‭inadimplente‬ ‭seja‬ ‭imediatamente‬ ‭inscrito‬ ‭em‬
+         ‭cadastro ou banco de dados‬‭17‬‭.‬
+        ‭ )‬ ‭É‬ ‭inconstitucional‬‭,‬ ‭por‬ ‭violação‬ ‭ao‬ ‭princípio‬ ‭da‬ ‭simetria‬ ‭e‬ ‭à‬ ‭competência‬ ‭privativa‬ ‭da‬
+        h
+        ‭União‬‭para‬‭legislar‬‭sobre‬‭o‬‭tema‬‭(CF/1988,‬‭art.‬‭22,‬‭I),‬‭norma‬‭de‬‭Constituição‬‭estadual‬‭que‬
+         ‭amplie‬‭o‬‭rol‬‭de‬‭autoridades‬‭sujeitas‬‭à‬‭fiscalização‬‭direta‬‭pelo‬‭Poder‬‭Legislativo‬‭e‬‭à‬‭sanção‬
+          ‭por crime de responsabilidade‬‭.‬‭18‬
+        i‭)‬‭É‬‭inconstitucional‬‭,‬‭por‬‭violar‬‭o‬‭art.‬‭22,‬‭I,‬‭da‬‭CF/1988‬‭(direito‬‭coletivo‬‭do‬‭trabalho),‬‭norma‬
+         ‭distrital‬ ‭que‬ ‭obrigue‬ ‭os‬ ‭sindicatos‬ ‭a‬ ‭divulgarem‬ ‭na‬ ‭internet‬ ‭a‬ ‭prestação‬ ‭de‬ ‭contas‬ ‭das‬
+          ‭verbas‬ ‭recebidas‬ ‭a‬ ‭título‬ ‭de‬ ‭contribuição‬ ‭confederativa,‬ ‭sindical‬ ‭e‬ ‭de‬ ‭outros‬ ‭recursos‬
+           ‭recebidos do Distrito Federal‬‭19‬‭.‬
+        j‭)‬ ‭É‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭obrigue‬ ‭as‬ ‭operadoras‬‭de‬‭planos‬‭saúde‬‭a‬‭assegurar‬
+         ‭atendimento‬ ‭médico-hospitalar‬ ‭integral‬ ‭e‬ ‭adequado‬ ‭às‬ ‭pessoas‬ ‭com‬ ‭deficiência‬‭20‬‭.‬ ‭Essas‬
+          ‭regras‬‭interferem‬‭nas‬‭relações‬‭contratuais‬‭estabelecidas‬‭entre‬‭as‬‭operadoras‬‭de‬‭planos‬‭de‬
+           ‭saúde‬ ‭e‬ ‭seus‬ ‭usuários,‬ ‭sendo‬ ‭uma‬ ‭matéria‬ ‭de‬ ‭direito‬ ‭civil‬ ‭e‬ ‭concernente‬ ‭à‬ ‭política‬ ‭de‬
+            ‭seguros, de competência legislativa privativa da União.‬
+        k‭ )‬ ‭É‬ ‭inconstitucional‬ ‭norma‬ ‭do‬ ‭provimento‬ ‭do‬ ‭Conselho‬ ‭da‬ ‭Magistratura‬ ‭estadual‬ ‭que‬
+         ‭proíba‬ ‭o‬ ‭juiz‬ ‭de‬ ‭converter‬ ‭os‬ ‭autos‬ ‭de‬‭prisão‬‭em‬‭flagrante‬‭em‬‭diligência‬‭21‬‭.‬‭Isso‬‭acontece‬
+          ‭porque,‬ ‭a‬ ‭norma,‬ ‭além‬ ‭de‬ ‭desbordar‬ ‭dos‬ ‭limites‬ ‭do‬ ‭poder‬ ‭regulamentar,‬ ‭invade‬ ‭a‬
+           ‭competência‬‭privativa‬‭da‬‭União‬‭para‬‭legislar‬‭sobre‬‭Direito‬‭Processual‬‭Penal‬‭(art.‬‭22,‬‭inciso‬
+            ‭I).‬
+        l‭)‬‭É‬‭inconstitucional‬‭,‬‭por‬‭violação‬‭à‬‭competência‬‭da‬‭União‬‭para‬‭legislar‬‭sobre‬‭direito‬‭civil‬‭e‬
+         ‭seguros‬ ‭(art.‬ ‭22,‬ ‭I‬ ‭e‬ ‭VII),‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭estabeleça‬ ‭obrigações‬ ‭contratuais‬ ‭para‬
+          ‭operadoras de planos de saúde‬‭22‬‭.‬
+
+          ‭II‬‭- desapropriação;‬
+          I‭II‬ ‭-‬ ‭requisições‬ ‭civis‬ ‭e‬ ‭militares,‬ ‭em‬ ‭caso‬ ‭de‬ ‭iminente‬ ‭perigo‬ ‭e‬ ‭em‬ ‭tempo‬ ‭de‬
+           ‭guerra;‬
+          ‭IV‬‭- águas, energia, informática, telecomunicações‬‭e radiodifusão;‬
+          ‭V‬‭- serviço postal;‬
+          ‭VI‬‭- sistema‬‭monetário‬‭e de medidas, títulos e garantias‬‭dos metais;‬
+
+‭17‬
+    ‭ADI‬ ‭5224/SP,‬ ‭5252/SP,‬ ‭5273/SP‬ ‭e‬ ‭5978/SP,‬ ‭Rel.‬ ‭Min.‬ ‭Rosa‬ ‭Weber,‬ ‭julgamento‬ ‭virtual‬ ‭finalizado‬ ‭em‬
+‭08.03.2022.‬
+‭18‬
+         ‭ DI 6640/PE e ADI 6645/AM, relator Min. Edson Fachin, julgamento virtual finalizado em 19.8.2022.‬
+         A
+‭19‬
+         ‭ADI 5349/DF, relatora Min. Rosa Weber, julgamento virtual finalizado em 19.8.2022 (sexta-feira), às 23:59.‬
+‭20‬
+          ‭ADI 7029/PB. Rel. Min. Cármen Lúcia. Julgamento em 06.5.2022.‬
+ ‭21‬
+       ‭ADI 4662/SP, relator Min. Dias Toffoli, julgamento virtual finalizado em 15.8.2022.‬
+  ‭22‬
+        ‭ADI 7208/MT, relator Min. Roberto Barroso, julgamento virtual finalizado em 24.3.2023.‬
+
+
+                                                                                                                           56
+                                                                                                                           230
+
+
+---
+
+              ‭VII‬‭- política de crédito, câmbio, seguros e transferência de valores;‬
+              ‭VIII‬‭- comércio exterior e interestadual;‬
+              ‭IX‬‭- diretrizes da política nacional de transportes;‬
+              ‭X‬‭- regime dos portos, navegação lacustre, fluvial,‬‭marítima, aérea e aeroespacial;‬
+
+‭ sses‬ ‭dispositivos‬ ‭poderão‬ ‭ser‬ ‭cobrados‬ ‭na‬ ‭prova‬ ‭em‬ ‭sua‬ ‭literalidade.‬ ‭Merece‬ ‭destaque‬ ‭um‬
+E
+‭entendimento‬ ‭do‬ ‭STF‬ ‭a‬ ‭respeito‬ ‭de‬ ‭radiodifusão,‬ ‭uma‬ ‭vez‬ ‭que‬ ‭compete‬ ‭à‬ ‭União‬ ‭dispor,‬
+ ‭privativamente, sobre radiodifusão de sons e imagens:‬
+            ‭ )‬ ‭É‬ ‭inconstitucional‬ ‭lei‬‭estadual‬‭que‬‭fixe‬‭a‬‭obrigatoriedade‬‭de‬‭divulgação‬‭diária‬‭de‬‭fotos‬
+            a
+            ‭de crianças desaparecidas em noticiários de TV e em jornais de estado-membro‬‭23‬‭.‬
+            ‭ )‬ ‭É‬ ‭inconstitucional‬‭,‬ ‭por‬ ‭ofensa‬ ‭à‬ ‭competência‬ ‭privativa‬ ‭da‬ ‭União‬ ‭para‬ ‭legislar‬ ‭sobre‬
+            b
+            ‭telecomunicações,‬ ‭lei‬ ‭estadual‬ ‭que‬ ‭vede‬ ‭a‬ ‭aplicação‬ ‭de‬ ‭multa‬ ‭por‬ ‭quebra‬ ‭de‬ ‭fidelidade‬
+             ‭nos‬ ‭serviços‬ ‭de‬ ‭TV‬ ‭por‬ ‭assinatura,‬ ‭telefonia,‬ ‭internet‬ ‭e‬ ‭serviços‬ ‭assemelhados,‬‭enquanto‬
+              ‭perdurar a pandemia da covid-19‬‭24‬‭.‬
+
+              ‭XI‬‭- trânsito e transporte;‬
+
+‭ ‬ ‭União‬ ‭tem‬ ‭competência‬ ‭privativa‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭trânsito‬ ‭e‬ ‭transporte.‬ ‭Logo,‬ ‭são‬
+A
+‭inconstitucionais‬‭:‬
+            ‭a)‬‭lei estadual ou distrital que estabeleça a obrigatoriedade‬‭do uso de cinto de segurança;‬
+            ‭ )‬ ‭lei‬ ‭estadual‬ ‭ou‬ ‭distrital‬ ‭que‬ ‭comine‬ ‭penalidades‬ ‭a‬ ‭quem‬ ‭seja‬ ‭flagrado‬ ‭em‬ ‭estado‬ ‭de‬
+            b
+            ‭embriaguez na condução de veículo automotor;‬
+            c‭ )‬ ‭lei‬ ‭estadual‬ ‭ou‬ ‭distrital‬ ‭que‬ ‭disponha‬ ‭sobre‬ ‭instalação‬ ‭de‬ ‭aparelho,‬ ‭equipamento‬ ‭ou‬
+             ‭qualquer‬ ‭outro‬ ‭meio‬ ‭tecnológico‬ ‭de‬‭controle‬‭de‬‭velocidade‬‭de‬‭veículos‬‭automotores‬‭nas‬
+              ‭vias públicas;‬
+            ‭ )‬ ‭lei‬ ‭estadual‬ ‭ou‬ ‭distrital‬ ‭que‬ ‭torne‬ ‭obrigatório‬ ‭a‬ ‭qualquer‬ ‭veículo‬ ‭automotor‬ ‭transitar‬
+            d
+            ‭permanentemente com os faróis acesos nas rodovias.‬
+‭ o‬ ‭exercício‬ ‭de‬ ‭sua‬ ‭competência‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭trânsito‬ ‭e‬ ‭transportes,‬ ‭a‬ ‭União‬ ‭editou‬ ‭lei‬
+N
+‭atribuindo‬ ‭aos‬ ‭Municípios‬ ‭a‬ ‭competência‬‭para‬‭regulamentar‬‭e‬‭fiscalizar‬‭o‬‭transporte‬‭privado‬‭de‬
+ ‭passageiros‬ ‭por‬ ‭aplicativos‬ ‭móveis‬ ‭(ex.:‬ ‭Uber,‬ ‭Cabify...).‬ ‭Ao‬ ‭atribuir‬ ‭essa‬ ‭competência‬ ‭aos‬
+  ‭Municípios,‬‭a‬‭lei‬‭federal‬‭estabeleceu‬‭certos‬‭parâmetros‬‭a‬‭serem‬‭observados‬‭para‬‭que‬‭a‬‭atividade‬
+   ‭seja‬ ‭permitida,‬ ‭como‬ ‭a‬ ‭apresentação‬ ‭de‬ ‭certidão‬ ‭negativa‬ ‭de‬ ‭antecedentes‬ ‭criminais‬ ‭pelo‬
+    ‭motorista.‬
+‭ lguns‬ ‭Municípios,‬ ‭todavia,‬ ‭proibiram‬ ‭o‬ ‭uso‬‭de‬‭veículos‬‭cadastrados‬‭em‬‭aplicativos,‬‭indo‬‭muito‬
+A
+‭além‬‭do‬‭que‬‭lhes‬‭possibilitava‬‭a‬‭lei‬‭federal.‬‭Chamado‬‭a‬‭apreciar‬‭o‬‭tema,‬‭o‬‭STF‬‭decidiu‬‭que‬‭esse‬
+ ‭tipo‬ ‭de‬ ‭proibição‬ ‭é‬ ‭inconstitucional‬‭,‬ ‭violando‬ ‭a‬ ‭livre‬ ‭iniciativa‬ ‭e‬ ‭a‬ ‭livre‬ ‭concorrência‬ ‭e‬
+  ‭contrariando‬ ‭os‬ ‭parâmetros‬ ‭fixados‬ ‭pelo‬ ‭legislador‬ ‭federal.‬‭25‬ ‭Segundo‬ ‭a‬ ‭Corte,‬ ‭o‬ ‭exercício‬ ‭de‬
+
+‭23‬
+       ‭ADI 5292/SC, relatora Min. Cármen Lúcia, julgamento virtual finalizado em 25.3.2022.‬
+‭24‬
+       ‭ADI 7211/RJ, relator Min. Alexandre de Moraes, julgamento virtual finalizado em 30.9.2022.‬
+‭25‬
+       ‭RE 1054110/SP. Rel. Min. Roberto Barroso, 09.05.2019.‬
+
+
+                                                                                                                           57
+                                                                                                                           230
+
+
+---
+
+‭ tividades‬ ‭econômicas‬ ‭e‬ ‭profissionais‬ ‭deve‬ ‭ser‬ ‭protegido‬ ‭de‬ ‭coerções‬ ‭estatais‬ ‭arbitrárias,‬
+a
+‭devendo qualquer forma de restrição estar apoiada no princípio da proporcionalidade.‬
+
+         ‭Muito cuidado na hora da prova!‬
+         ‭É‬‭competência privativa‬‭da União‬‭LEGISLAR‬‭sobre trânsito‬‭e transporte.‬
+         ‭ ‬ ‭competência‬ ‭comum‬ ‭da‬ ‭União,‬ ‭dos‬ ‭Estados,‬ ‭do‬ ‭Distrito‬ ‭Federal‬ ‭e‬ ‭dos‬
+         É
+         ‭Municípios‬ ‭estabelecer‬ ‭e‬ ‭implantar‬ ‭política‬ ‭de‬ ‭educação‬ ‭para‬ ‭a‬ ‭segurança‬ ‭do‬
+          ‭trânsito.‬
+
+         ‭XII‬‭- jazidas, minas, outros recursos minerais e metalurgia;‬
+         ‭XIII‬‭- nacionalidade, cidadania e naturalização;‬
+         ‭XIV‬‭- populações indígenas;‬
+         ‭XV‬‭- emigração e imigração, entrada, extradição e‬‭expulsão de estrangeiros;‬
+         ‭ VI‬ ‭-‬ ‭organização‬‭do‬‭sistema‬‭nacional‬‭de‬‭emprego‬‭e‬‭condições‬‭para‬‭o‬‭exercício‬
+         X
+         ‭de profissões;‬
+         ‭ VII‬ ‭-‬ ‭organização‬ ‭judiciária,‬ ‭do‬ ‭Ministério‬ ‭Público‬ ‭do‬ ‭Distrito‬ ‭Federal‬ ‭e‬ ‭dos‬
+         X
+         ‭Territórios‬ ‭e‬ ‭da‬ ‭Defensoria‬ ‭Pública‬ ‭dos‬ ‭Territórios,‬ ‭bem‬ ‭como‬ ‭organização‬
+          ‭administrativa destes;‬
+         ‭XVIII‬‭- sistema estatístico, sistema cartográfico‬‭e de geologia nacionais;‬
+         ‭XIX‬‭- sistemas de poupança, captação e garantia da‬‭poupança popular;‬
+
+‭Esses dispositivos poderão ser cobrados em prova na sua literalidade.‬
+
+         ‭XX‬‭- sistemas de consórcios e sorteios;‬
+
+‭ om‬ ‭base‬ ‭nesse‬ ‭dispositivo,‬‭o‬‭STF‬‭editou‬‭a‬‭Súmula‬‭Vinculante‬‭nº‬‭2‬‭:‬‭“É‬‭inconstitucional‬‭a‬‭lei‬‭ou‬
+C
+‭ato‬ ‭normativo‬ ‭estadual‬ ‭ou‬ ‭distrital‬ ‭que‬ ‭disponha‬ ‭sobre‬ ‭sistemas‬ ‭de‬ ‭consórcios‬ ‭e‬ ‭sorteios,‬
+ ‭inclusive bingos e loterias‬‭”.‬
+
+         ‭ XI‬ ‭-‬ ‭normas‬ ‭gerais‬ ‭de‬ ‭organização,‬ ‭efetivos,‬ ‭material‬ ‭bélico,‬ ‭garantias,‬
+         X
+         ‭convocação,‬ ‭mobilização,‬ ‭inatividades‬ ‭e‬ ‭pensões‬ ‭das‬ ‭polícias‬ ‭militares‬ ‭e‬ ‭dos‬
+          ‭corpos de bombeiros militares;‬
+         ‭ XII‬ ‭-‬ ‭competência‬ ‭da‬ ‭polícia‬ ‭federal‬ ‭e‬ ‭das‬ ‭polícias‬ ‭rodoviária‬ ‭e‬ ‭ferroviária‬
+         X
+         ‭federais;‬
+         ‭XXIII‬‭- seguridade social;‬
+         ‭XXIV‬‭- diretrizes e bases da educação nacional;‬
+
+
+                                                                                                                  58
+                                                                                                                  230
+
+
+---
+
+            ‭XXV‬‭- registros públicos;‬
+            ‭XXVI‬‭- atividades nucleares de qualquer natureza;‬
+
+‭ ‬ ‭preciso‬ ‭estarmos‬ ‭atentos‬ ‭para‬ ‭algumas‬ ‭pegadinhas‬ ‭que‬ ‭podem‬ ‭ser‬ ‭feitas‬ ‭pela‬ ‭banca‬
+É
+‭examinadora:‬
+‭ )‬ ‭É‬ ‭competência‬ ‭privativa‬ ‭da‬ ‭União‬‭legislar‬‭sobre‬‭seguridade‬‭social‬‭.‬‭No‬‭entanto,‬‭legislar‬‭sobre‬
+a
+‭previdência‬ ‭social‬ ‭é‬ ‭competência‬ ‭concorrente‬ ‭da‬ ‭União,‬ ‭dos‬ ‭Estados‬ ‭e‬‭do‬‭Distrito‬‭Federal‬‭(art.‬
+ ‭24).‬
+‭ )‬ ‭É‬ ‭competência‬ ‭privativa‬ ‭da‬ ‭União‬ ‭legislar‬ ‭sobre‬‭diretrizes‬‭e‬‭bases‬‭da‬‭educação‬‭nacional‬‭.‬‭No‬
+b
+‭entanto,‬‭legislar‬‭sobre‬‭educação‬‭é‬‭competência‬‭concorrente‬‭da‬‭União,‬‭dos‬‭Estados‬‭e‬‭do‬‭Distrito‬
+ ‭Federal‬‭(art. 24).‬
+‭ a‬ ‭ADI‬ ‭nº‬ ‭4060/SC,‬ ‭o‬ ‭STF‬ ‭considerou‬ ‭que‬ ‭a‬ ‭competência‬ ‭legislativa‬ ‭concorrente‬ ‭do‬
+N
+‭estado-membro‬ ‭para‬ ‭dispor‬ ‭sobre‬ ‭educação‬ ‭e‬ ‭ensino‬‭(CF/88,‬‭art.‬‭24,‬‭IX)‬‭autoriza‬‭a‬‭fixação,‬‭por‬
+ ‭lei‬ ‭estadual,‬ ‭do‬ ‭número‬ ‭máximo‬ ‭de‬ ‭alunos‬ ‭em‬ ‭sala‬ ‭de‬ ‭aula‬‭.‬ ‭Assim,‬ ‭não‬ ‭há‬ ‭violação‬ ‭à‬
+  ‭competência privativa da União‬‭para legislar sobre‬‭diretrizes e bases da educação nacional.‬‭26‬
+  ‭ or‬ ‭sua‬ ‭vez,‬ ‭na‬ ‭ADI‬ ‭nº‬ ‭4167,‬ ‭o‬ ‭STF‬ ‭reconheceu‬ ‭a‬ ‭competência‬ ‭da‬ ‭União‬ ‭para‬ ‭dispor‬ ‭sobre‬
+  P
+  ‭“‭n‬ ormas‬‭gerais‬‭relativas‬‭ao‬‭piso‬‭de‬‭vencimento‬‭dos‬‭professores‬‭da‬‭educação‬‭básica‬‭,‬‭de‬‭modo‬‭a‬
+‭utilizá-lo‬ ‭como‬ ‭mecanismo‬ ‭de‬ ‭fomento‬ ‭ao‬ ‭sistema‬ ‭educacional‬ ‭e‬ ‭de‬ ‭valorização‬ ‭profissional,‬ ‭e‬
+ ‭não‬‭apenas‬‭como‬‭instrumento‬‭de‬‭proteção‬‭mínima‬‭ao‬‭trabalhador‬‭”.‬‭Além‬‭disso,‬‭na‬‭mesma‬‭ADI,‬
+   ‭o‬‭STF‬‭considerou‬‭que‬‭é‬‭constitucional‬‭a‬‭norma‬‭geral‬‭federal‬‭que‬‭reserva‬‭o‬‭percentual‬‭mínimo‬‭de‬
+    ‭1/3 da carga horária dos docentes da educação básica para‬‭dedicação às atividades extraclasse‬‭.‬
+‭ m‬‭relação‬‭a‬‭atividades‬‭nucleares,‬‭o‬‭STF‬‭julgou‬‭inconstitucionais‬‭os‬‭dispositivos‬‭de‬‭Constituições‬
+E
+‭Estaduais‬‭que‬‭tratam‬‭sobre‬‭a‬‭proibição‬‭de‬‭depósito‬‭de‬‭rejeitos‬‭atômicos‬‭no‬‭território‬‭estadual‬‭27‬‭.‬
+ ‭O‬ ‭STF‬ ‭entende‬ ‭que‬ ‭isso‬ ‭invade‬‭a‬‭competência‬‭privativa‬‭da‬‭União‬‭para‬‭legislar‬‭sobre‬‭atividades‬
+  ‭nucleares.‬
+
+            ‭ XVII‬‭-‬‭normas‬‭gerais‬‭de‬‭licitação‬‭e‬‭contratação,‬‭em‬‭todas‬‭as‬‭modalidades,‬‭para‬
+            X
+            ‭as‬‭administrações‬‭públicas‬‭diretas,‬‭autárquicas‬‭e‬‭fundacionais‬‭da‬‭União,‬‭Estados,‬
+             ‭Distrito‬ ‭Federal‬ ‭e‬ ‭Municípios,‬ ‭obedecido‬ ‭o‬ ‭disposto‬ ‭no‬ ‭art.‬ ‭37,‬ ‭XXI,‬ ‭e‬ ‭para‬ ‭as‬
+              ‭empresas‬‭públicas‬‭e‬‭sociedades‬‭de‬‭economia‬‭mista,‬‭nos‬‭termos‬‭do‬‭art.‬‭173,‬‭§‬‭1°,‬
+               ‭III;‬
+            ‭ XVIII‬ ‭-‬ ‭defesa‬ ‭territorial,‬ ‭defesa‬ ‭aeroespacial,‬ ‭defesa‬ ‭marítima,‬ ‭defesa‬ ‭civil‬ ‭e‬
+            X
+            ‭mobilização nacional;‬
+            ‭XXIX‬‭- propaganda comercial;‬
+            ‭XXX‬‭- proteção e tratamento de dados pessoais.‬
+            ‭ arágrafo‬ ‭único‬‭.‬ ‭Lei‬ ‭complementar‬ ‭poderá‬ ‭autorizar‬ ‭os‬ ‭Estados‬ ‭a‬‭legislar‬‭sobre‬
+            P
+            ‭questões específicas das matérias relacionadas neste artigo.‬
+
+‭Sobre esses dispositivos, destacamos o seguinte:‬
+
+‭ ‬
+26
+      ‭ADI 4060/SC, Rel. Min. Luiz Fux. Data de Julg: 25.02.2015.‬
+‭ ‬
+27
+      ‭ADI 6905, Rel. Min. Cármen Lúcia. Julgamento em 11.10.2021.‬
+
+
+                                                                                                                          59
+                                                                                                                          230
+
+
+---
+
+           ‭ )‬‭As‬‭normas‬‭gerais‬‭de‬‭licitação‬‭e‬‭contratação‬‭são‬‭da‬‭competência‬‭privativa‬‭da‬‭União.‬‭No‬
+           a
+           ‭entanto, normas específicas sobre licitação e contratos podem ser editadas pelos Estados.‬
+           ‭ )‬‭Segundo‬‭o‬‭STF,‬‭é‬‭constitucional‬‭a‬‭lei‬‭municipal‬‭que‬‭veda‬‭a‬‭realização,‬‭em‬‭bens‬‭imóveis‬
+           b
+           ‭do‬ ‭Município‬‭,‬ ‭de‬ ‭eventos‬ ‭patrocinados‬ ‭por‬ ‭empresas‬ ‭ligadas‬ ‭à‬ ‭comercialização‬ ‭de‬
+            ‭bebidas‬ ‭alcóolicas‬ ‭e‬ ‭cigarros.‬‭28‬ ‭Nesse‬ ‭caso,‬ ‭não‬ ‭há‬ ‭violação‬ ‭à‬ ‭competência‬ ‭privativa‬ ‭da‬
+             ‭União‬ ‭para‬ ‭legislar‬‭sobre‬‭propaganda‬‭comercial,‬‭pois‬‭trata-se‬‭de‬‭uma‬‭restrição‬‭imposta‬‭à‬
+              ‭Administração Pública municipal.‬
+           c‭ )‬‭A‬‭proteção‬‭de‬‭dados‬‭pessoais‬‭,‬‭além‬‭de‬‭ser‬‭um‬‭direito‬‭fundamental‬‭,‬‭é‬‭uma‬‭matéria‬‭que‬
+            ‭deve‬ ‭ser‬ ‭legislada‬ ‭pela‬ ‭União.‬ ‭A‬ ‭Lei‬ ‭Federal‬ ‭nº‬ ‭13.709/2018‬ ‭(Lei‬ ‭Geral‬ ‭de‬ ‭Proteção‬ ‭de‬
+             ‭Dados Pessoais) aborda o assunto.‬
+‭ ‬ ‭art.‬ ‭22‬ ‭relaciona‬ ‭as‬ ‭matérias‬ ‭cuja‬ ‭iniciativa‬ ‭privativa‬ ‭é‬ ‭da‬ ‭União,‬ ‭ou‬ ‭seja,‬ ‭os‬ ‭demais‬ ‭entes‬
+O
+‭federados‬ ‭não‬ ‭podem‬ ‭legislar,‬ ‭mesmo‬ ‭diante‬ ‭da‬ ‭omissão‬ ‭da‬ ‭União.‬ ‭Entretanto,‬ ‭é‬‭possível‬‭que‬
+ ‭Estados‬‭e‬‭Distrito‬‭Federal‬‭(jamais‬‭Municípios!)‬‭legislem‬‭sobre‬‭questões‬‭específicas‬‭(nunca‬‭gerais!)‬
+  ‭dessas‬ ‭matérias,‬ ‭desde‬ ‭que‬ ‭a‬ ‭União‬‭lhes‬‭delegue‬‭tal‬‭competência‬‭por‬‭lei‬‭complementar.‬‭Nessa‬
+   ‭hipótese,‬ ‭Estados-membros‬ ‭e‬ ‭Distrito‬ ‭Federal‬ ‭apenas‬ ‭podem‬ ‭fazer‬ ‭o‬ ‭que‬ ‭foi‬ ‭permitido‬ ‭pela‬
+    ‭União‬ ‭via‬ ‭delegação‬ ‭legislativa,‬ ‭uma‬ ‭vez‬ ‭que‬ ‭a‬ ‭competência‬ ‭originária‬ ‭permanece‬
+     ‭exclusivamente dela, em caráter pleno.‬
+‭ lém‬‭disso,‬‭caso‬‭haja‬‭a‬‭delegação‬‭legislativa,‬‭ela‬‭deverá‬‭contemplar‬‭todos‬‭os‬‭Estados-membros‬
+A
+‭e‬ ‭o‬ ‭Distrito‬ ‭Federal‬‭.‬‭Portanto,‬‭ao‬‭contrário‬‭da‬‭competência‬‭do‬‭art.‬‭21‬‭da‬‭CF,‬‭a‬‭competência‬‭do‬
+ ‭art.‬‭22‬‭é‬‭delegável‬‭.‬‭Na‬‭falta‬‭da‬‭delegação,‬‭é‬‭inconstitucional‬‭qualquer‬‭lei‬‭estadual‬‭ou‬‭do‬‭Distrito‬
+  ‭Federal que disponha sobre as matérias do art. 22 da Constituição.‬
+‭ estaca-se,‬ ‭ainda,‬ ‭que‬ ‭nada‬ ‭impede‬ ‭que‬ ‭a‬ ‭União‬ ‭retome,‬ ‭a‬ ‭qualquer‬ ‭momento,‬ ‭sua‬
+D
+‭competência,‬ ‭legislando‬ ‭sobre‬ ‭a‬ ‭matéria‬ ‭delegada.‬ ‭Isso‬ ‭acontece‬ ‭porque‬ ‭a‬ ‭delegação‬ ‭não‬ ‭se‬
+ ‭confunde‬‭com‬‭renúncia‬‭de‬‭competência‬‭.‬‭Como‬‭se‬‭disse‬‭anteriormente,‬‭a‬‭competência‬‭originária‬
+  ‭permanece sendo da União.‬
+‭ ara‬ ‭Alexandre‬ ‭de‬ ‭Moraes,‬ ‭a‬ ‭delegação‬ ‭de‬ ‭assuntos‬ ‭da‬ ‭competência‬ ‭legislativa‬ ‭privativa‬ ‭da‬
+P
+‭União aos Estados depende do cumprimento de‬‭três requisitos‬‭:‬
+           ‭ )‬ ‭Requisito‬ ‭formal‬‭:‬ ‭a‬ ‭delegação‬ ‭deve‬ ‭ser‬ ‭objeto‬ ‭de‬ ‭lei‬ ‭complementar‬ ‭devidamente‬
+           a
+           ‭aprovada pelo Congresso Nacional;‬
+           ‭ )‬ ‭Requisito‬ ‭material‬‭:‬ ‭só‬ ‭poderá‬ ‭haver‬ ‭delegação‬ ‭de‬ ‭um‬‭ponto‬‭específico‬‭da‬‭matéria‬‭de‬
+           b
+           ‭um dos incisos do art. 22 da CF/88, pois a delegação não se reveste de generalidade.‬
+           c‭ )‬ ‭Requisito‬ ‭implícito‬‭:‬‭a‬‭proibição,‬‭constante‬‭do‬‭art.‬‭19‬‭da‬‭Carta‬‭Magna,‬‭de‬‭que‬‭os‬‭entes‬
+            ‭federativos‬‭criem‬‭preferências‬‭entre‬‭si,‬‭implica‬‭que‬‭a‬‭lei‬‭complementar‬‭editada‬‭pela‬‭União‬
+             ‭deverá‬ ‭delegar‬ ‭a‬ ‭matéria‬ ‭igualmente‬ ‭a‬ ‭todos‬ ‭os‬ ‭Estados,‬ ‭sob‬ ‭pena‬ ‭de‬ ‭ferir‬ ‭o‬ ‭pacto‬
+              ‭federativo.‬
+
+‭ ‬
+28
+      ‭RE 305470/SP, Rel. Min. Ellen Gracie, Rel p/ o ac. Min. Teori Zavascki. 18.10.2016.‬
+
+
+                                                                                                                            60
+                                                                                                                           230
+
+
+---
+
+          ‭ ‬ ‭Prof.‬ ‭José‬ ‭Afonso‬ ‭da‬ ‭Silva‬ ‭classifica‬ ‭a‬ ‭competência‬‭legislativa‬‭da‬‭União‬‭em‬‭3‬
+          O
+          ‭(três) tipos:‬‭29‬
+          ‭ )‬‭Competência‬‭para‬‭legislar‬‭sobre‬‭direito‬‭administrativo‬‭.‬‭Abrange,‬‭entre‬‭outras,‬
+          a
+          ‭a‬ ‭competência‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭desapropriação,‬ ‭requisições‬ ‭civis‬ ‭e‬ ‭militares,‬
+           ‭atividades‬ ‭nucleares,‬ ‭serviço‬ ‭postal,‬ ‭defesa‬ ‭civil‬ ‭e‬ ‭política‬ ‭de‬ ‭crédito,‬ ‭câmbio‬ ‭e‬
+            ‭seguro.‬
+          ‭ )‬ ‭Competência‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭direito‬ ‭material‬‭,‬ ‭não‬ ‭administrativo,‬ ‭ou‬
+          b
+          ‭substancial.‬ ‭Compreende‬ ‭a‬ ‭competência‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭direito‬ ‭civil,‬
+           ‭comercial,‬ ‭penal,‬ ‭político-eleitoral‬ ‭(incluindo‬ ‭nacionalidade,‬ ‭cidadania‬ ‭e‬
+            ‭naturalização),‬ ‭agrário,‬ ‭marítimo‬‭,‬ ‭aeronáutico,‬ ‭espacial,‬ ‭e‬ ‭do‬ ‭trabalho,‬
+             ‭populações‬ ‭indígenas,‬ ‭condições‬ ‭para‬ ‭o‬ ‭livre‬ ‭exercício‬ ‭de‬ ‭profissões‬ ‭e‬
+              ‭seguridade social.‬
+          c‭ )‬ ‭Competência‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭direito‬ ‭processual‬‭.‬ ‭Compreende‬ ‭a‬
+           ‭competência‬ ‭para‬‭legislar‬‭sobre‬‭direito‬‭processual‬‭do‬‭trabalho,‬‭processual‬‭penal‬
+            ‭e processual civil.‬
+
+(‭Pref.‬ ‭Fortaleza‬ ‭–‬ ‭2023)‬ ‭A‬ ‭União‬ ‭tem‬ ‭competência‬ ‭exclusiva‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭a‬ ‭proteção‬ ‭e‬ ‭o‬
+ ‭tratamento de dados pessoais.‬
+‭Comentários:‬
+‭29‬
+   ‭ ILVA,‬ ‭José‬ ‭Afonso‬ ‭da.‬ ‭Curso‬ ‭de‬ ‭Direito‬ ‭Constitucional‬‭Positivo‬‭,‬‭35ª‬‭edição.‬‭Editora‬‭Malheiros,‬‭São‬‭Paulo,‬
+   S
+‭2012. pp. 502-503.‬
+
+
+                                                                                                                                  61
+                                                                                                                                 137
+
+
+---
+
+‭ uidado:‬ ‭nos‬ ‭termos‬ ‭do‬ ‭caput‬ ‭do‬ ‭art.‬ ‭22‬ ‭da‬ ‭CF/88,‬ ‭quanto‬ ‭à‬ ‭competência‬ ‭para‬ ‭legislar,‬ ‭a‬
+C
+‭competência da União é‬‭privativa‬‭, e não exclusiva.‬
+(‭TCE-RJ‬ ‭–‬ ‭2022)‬ ‭É‬ ‭competência‬‭comum‬‭da‬‭União,‬‭dos‬‭estados,‬‭do‬‭DF‬‭e‬‭dos‬‭municípios‬‭legislar‬
+ ‭sobre trânsito e transporte.‬
+‭Comentários:‬
+‭Trata-se de competência‬‭privativa‬‭da União, nos termos‬‭do art. 22, XI da CF/88. Questão errada.‬
+(‭PM-RJ‬‭–‬‭2021)‬‭O‬‭Estado‬‭Alfa,‬‭com‬‭o‬‭alegado‬‭objetivo‬‭de‬‭zelar‬‭pela‬‭infância‬‭e‬‭juventude,‬‭editou‬
+ ‭a‬ ‭Lei‬ ‭nº‬ ‭XX/2021,‬ ‭disciplinando‬ ‭a‬ ‭propaganda‬ ‭comercial‬ ‭de‬ ‭bebidas‬ ‭alcoólicas,‬ ‭vedando‬ ‭a‬
+  ‭veiculação‬ ‭de‬ ‭conteúdos‬ ‭que‬ ‭pudessem‬ ‭dissimular‬ ‭os‬ ‭seus‬ ‭efeitos‬ ‭nocivos‬ ‭a‬ ‭essa‬ ‭camada‬ ‭da‬
+   ‭população.‬ ‭À‬ ‭luz‬ ‭da‬ ‭sistemática‬ ‭constitucional,‬ ‭é‬ ‭correto‬ ‭afirmar‬ ‭que‬ ‭a‬ ‭Lei‬ ‭nº‬ ‭XX/2021‬ ‭é‬
+    ‭inconstitucional, já que a matéria deve ser disciplinada em lei complementar da União.‬
+‭Comentários:‬
+‭ e‬ ‭acordo‬ ‭com‬ ‭o‬ ‭art.‬ ‭22,‬ ‭XXIX,‬ ‭compete‬ ‭privativamente‬ ‭à‬ ‭União‬ ‭legislar‬ ‭sobre‬ ‭propaganda‬
+D
+‭comercial.‬ ‭Esse‬ ‭aspecto‬ ‭está‬ ‭correto‬ ‭na‬ ‭questão,‬ ‭pois,‬ ‭de‬ ‭fato,‬ ‭a‬ ‭lei‬ ‭do‬ ‭Estado‬ ‭Alfa‬ ‭é‬
+ ‭inconstitucional.‬‭Contudo,‬‭a‬‭edição‬‭de‬‭lei‬‭complementar‬‭não‬‭é‬‭um‬‭requisito‬‭constitucional‬‭para‬‭o‬
+  ‭exercício‬ ‭dessa‬ ‭competência.‬ ‭Sempre‬ ‭que‬ ‭for‬ ‭o‬ ‭caso‬ ‭de‬ ‭lei‬ ‭complementar,‬ ‭haverá‬ ‭menção‬
+   ‭expressa‬ ‭por‬ ‭parte‬ ‭da‬ ‭Constituição.‬ ‭Logo,‬ ‭lei‬ ‭ordinária‬ ‭federal‬ ‭é‬ ‭suficiente‬ ‭para‬ ‭legislar‬ ‭sobre‬
+    ‭propaganda comercial. Questão errada.‬
+(‭DPE-PR‬‭–‬‭2017)‬‭Segundo‬‭o‬‭entendimento‬‭do‬‭Supremo‬‭Tribunal‬‭Federal,‬‭por‬‭se‬‭tratar‬‭de‬‭infração‬
+ ‭político-administrativa‬‭e‬‭não‬‭propriamente‬‭de‬‭crime,‬‭o‬‭chamado‬‭crime‬‭de‬‭responsabilidade‬‭pode‬
+  ‭ser‬ ‭definido‬ ‭pela‬ ‭União,‬ ‭Estados‬ ‭e‬ ‭Distrito‬ ‭Federal,‬ ‭eis‬ ‭que‬ ‭a‬ ‭competência‬ ‭legislativa‬ ‭é‬
+   ‭concorrente.‬
+‭Comentários:‬
+‭ ‬ ‭Súmula‬ ‭Vinculante‬ ‭nº‬ ‭46‬ ‭dispõe‬ ‭que‬ ‭“‬‭a‬ ‭definição‬ ‭dos‬ ‭crimes‬ ‭de‬ ‭responsabilidade‬ ‭e‬ ‭o‬
+A
+‭estabelecimento‬ ‭das‬ ‭respectivas‬ ‭normas‬ ‭de‬ ‭processo‬ ‭e‬ ‭julgamento‬ ‭são‬ ‭de‬ ‭competência‬
+ ‭legislativa‬‭privativa‬‭da‬‭União‬‭”.‬‭Pode-se‬‭dizer,‬‭desse‬‭modo,‬‭que‬‭é‬‭competência‬‭privativa‬‭da‬‭União‬
+  ‭legislar sobre direito penal, inclusive sobre crimes de responsabilidade. Questão errada.‬
+(‭TJDFT‬‭–‬‭2015)‬‭Um‬‭estado‬‭da‬‭Federação‬‭editou‬‭lei‬‭que‬‭proíbe‬‭a‬‭contratação,‬‭pela‬‭administração‬
+ ‭desse‬‭estado,‬‭de‬‭empresas‬‭de‬‭parentes‬‭de‬‭ocupantes‬‭de‬‭cargo‬‭de‬‭governador‬‭e‬‭de‬‭secretário‬‭de‬
+  ‭Estado.‬ ‭Nesse‬ ‭caso,‬ ‭a‬ ‭lei‬ ‭editada‬ ‭é‬ ‭inconstitucional‬ ‭por‬ ‭violar‬ ‭a‬ ‭exclusividade‬ ‭da‬ ‭União‬ ‭para‬
+   ‭legislar sobre licitações e contratos.‬
+‭Comentários:‬
+‭ ‬ ‭União‬ ‭tem‬ ‭competência‬ ‭privativa‬ ‭para‬ ‭legislar‬ ‭sobre‬ ‭normas‬ ‭gerais‬ ‭de‬ ‭licitação‬ ‭e‬ ‭contratos‬
+A
+‭administrativos.‬ ‭Nada‬ ‭impede,‬ ‭todavia,‬ ‭que‬ ‭os‬ ‭estados‬ ‭editem‬ ‭leis‬ ‭sobre‬ ‭questões‬ ‭específicas‬
+ ‭sobre‬ ‭licitações‬ ‭e‬ ‭contratos.‬ ‭Portanto,‬ ‭a‬ ‭lei‬ ‭mencionada‬ ‭na‬ ‭assertiva‬ ‭é‬ ‭plenamente‬ ‭compatível‬
+  ‭com a CF/88. Questão errada.‬
+(‭TJ-PB‬ ‭–‬ ‭2015)‬ ‭Na‬ ‭hipótese‬ ‭de‬ ‭uma‬ ‭lei‬ ‭estadual‬ ‭estabelecer‬ ‭restrições‬ ‭ao‬ ‭ingresso,‬
+ ‭armazenamento‬ ‭e‬ ‭comercialização‬ ‭de‬ ‭produtos‬ ‭agrícolas‬ ‭importados‬ ‭no‬ ‭âmbito‬ ‭do‬
+  ‭estado-membro,‬ ‭estará‬ ‭caracterizada‬ ‭invasão‬ ‭da‬ ‭competência‬ ‭privativa‬ ‭da‬ ‭União‬ ‭para‬ ‭legislar‬
+   ‭sobre comércio exterior.‬
+‭Comentários:‬
+
+                                                                                                                           62
+                                                                                                                          230
+
+
+---
+
+‭ ‬ ‭competência‬ ‭privativa‬ ‭da‬ ‭União‬ ‭legislar‬ ‭sobre‬ ‭comércio‬ ‭exterior‬ ‭(art.‬ ‭22,‬ ‭VIII).‬ ‭Logo,‬ ‭uma‬ ‭lei‬
+É
+‭estadual que trate do tema estará invadindo competência da União. Questão correta.‬
+(‭TJ-PB‬ ‭–‬ ‭2015)‬ ‭Caso‬ ‭um‬ ‭estado-membro‬ ‭inove‬ ‭a‬ ‭ordem‬ ‭jurídica‬ ‭ao‬ ‭editar‬ ‭lei‬ ‭que‬ ‭proíba‬ ‭às‬
+ ‭empresas‬‭de‬‭telecomunicação‬‭a‬‭cobrança‬‭de‬‭taxa‬‭para‬‭a‬‭instalação‬‭do‬‭segundo‬‭ponto‬‭de‬‭acesso‬
+  ‭à‬ ‭Internet,‬ ‭não‬ ‭haverá‬ ‭inconstitucionalidade,‬ ‭pois‬ ‭o‬ ‭estado‬ ‭terá‬ ‭agido‬ ‭no‬ ‭âmbito‬ ‭de‬ ‭sua‬
+   ‭competência para legislar sobre proteção do consumidor. ‬
+‭Comentários:‬
+‭ ‬ ‭STF‬ ‭considera‬ ‭que‬ ‭é‬ ‭inconstitucional‬ ‭lei‬ ‭estadual‬ ‭ou‬ ‭distrital‬ ‭que‬ ‭proíba‬ ‭as‬ ‭empresas‬ ‭de‬
+O
+‭telecomunicações‬ ‭de‬ ‭cobrarem‬ ‭taxas‬ ‭para‬ ‭a‬ ‭instalação‬‭do‬‭segundo‬‭ponto‬‭de‬‭acesso‬‭à‬‭internet.‬
+ ‭Isso acontece porque se trata de matéria da competência da União. Questão errada.‬
+(‭TJ-PB‬ ‭–‬ ‭2015)‬‭É‬‭inconstitucional‬‭norma‬‭federal‬‭que‬‭reserve‬‭percentual‬‭mínimo‬‭de‬‭carga‬‭horária‬
+ ‭dos‬‭docentes‬‭da‬‭educação‬‭básica‬‭para‬‭dedicação‬‭às‬‭atividades‬‭extraclasse,‬‭visto‬‭que‬‭a‬‭matéria‬‭é‬
+  ‭de interesse local, cuja definição deve atender a circunstâncias peculiares de cada região.‬
+‭Comentários:‬
+‭ e‬‭acordo‬‭com‬‭o‬‭Supremo‬‭Tribunal‬‭Federal,‬‭é‬‭constitucional‬‭a‬‭norma‬‭geral‬‭federal‬‭que‬‭reserva‬‭o‬
+D
+‭percentual‬‭mínimo‬‭de‬‭1/3‬‭da‬‭carga‬‭horária‬‭dos‬‭docentes‬‭da‬‭educação‬‭básica‬‭para‬‭dedicação‬‭às‬
+ ‭atividades extraclasse. Questão errada.‬
+(‭TCE-RJ‬‭–‬‭2015)‬‭É‬‭inconstitucional‬‭lei‬‭estadual‬‭que,‬‭no‬‭exercício‬‭da‬‭competência‬‭legislativa‬‭para‬
+ ‭dispor‬‭sobre‬‭legislação‬‭e‬‭ensino,‬‭fixe‬‭número‬‭máximo‬‭de‬‭alunos‬‭em‬‭sala‬‭de‬‭aula,‬‭por‬‭se‬‭tratar‬‭de‬
+  ‭norma geral afeta às diretrizes e bases da educação nacional.‬
+‭Comentários:‬
+‭ ‬‭plenamente‬‭compatível‬‭com‬‭a‬‭CF/88‬‭lei‬‭estadual‬‭que‬‭fixe‬‭o‬‭número‬‭máximo‬‭de‬‭alunos‬‭em‬‭sala‬
+É
+‭de‬‭aula.‬‭Segundo‬‭o‬‭STF,‬‭essa‬‭lei‬‭estadual‬‭não‬‭viola‬‭a‬‭competência‬‭privativa‬‭da‬‭União‬‭para‬‭legislar‬
+ ‭sobre diretrizes e bases da educação nacional. Questão errada.‬
+(‭FUB‬ ‭–‬ ‭2015)‬ ‭O‬ ‭constituinte‬ ‭brasileiro‬ ‭proibiu‬ ‭que‬ ‭a‬ ‭União‬ ‭delegasse‬ ‭aos‬ ‭estados‬ ‭e‬ ‭ao‬‭Distrito‬
+ ‭Federal a competência para legislar sobre matérias de sua competência privativa.‬
+‭Comentários:‬
+‭ ‬ ‭União‬ ‭poderá,‬ ‭mediante‬ ‭lei‬ ‭complementar,‬ ‭autorizar‬ ‭os‬ ‭Estados‬ ‭a‬ ‭legislarem‬ ‭sobre‬ ‭questões‬
+A
+‭específicas‬‭das‬‭matérias‬‭de‬‭sua‬‭competência‬‭privativa.‬‭É‬‭o‬‭que‬‭prevê‬‭o‬‭art.‬‭22,‬‭parágrafo‬‭único,‬
+ ‭da CF/88. Questão errada.‬
+
+                                                                                                                          63
+                                                                                                                         230
+
+
+---
+
+                          REPARTIÇÃO DE COMPETÊNCIAS
+
+Competências Comuns dos Entes Federativos
+
+O art. 23 trata de competências comuns a todos os entes federativos. São competências de
+natureza administrativa (material). Também são chamadas de competências concorrentes
+administrativas, paralelas ou cumulativas da União.
+Vamos ler juntos o art. 23?
+
+        Art. 23. É competência comum da União, dos Estados, do Distrito Federal e dos
+        Municípios:
+        I - zelar pela guarda da Constituição, das leis e das instituições democráticas e
+        conservar o patrimônio público;
+        II - cuidar da saúde e assistência pública, da proteção e garantia das pessoas
+        portadoras de deficiência;
+        III - proteger os documentos, as obras e outros bens de valor histórico, artístico e
+        cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos;
+        IV - impedir a evasão, a destruição e a descaracterização de obras de arte e de
+        outros bens de valor histórico, artístico ou cultural;
+        V - proporcionar os meios de acesso à cultura, à educação, à ciência, à
+        tecnologia, à pesquisa e à inovação;
+        VI - proteger o meio ambiente e combater a poluição em qualquer de suas
+        formas;
+        VII - preservar as florestas, a fauna e a flora;
+        VIII - fomentar a produção agropecuária e organizar o abastecimento alimentar;
+        IX - promover programas de construção de moradias e a melhoria das condições
+        habitacionais e de saneamento básico;
+        X - combater as causas da pobreza e os fatores de marginalização, promovendo a
+        integração social dos setores desfavorecidos;
+        XI - registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e
+        exploração de recursos hídricos e minerais em seus territórios;
+        XII - estabelecer e implantar política de educação para a segurança do trânsito.
+        Parágrafo único. Leis complementares fixarão normas para a cooperação entre a
+        União e os Estados, o Distrito Federal e os Municípios, tendo em vista o
+        equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
+
+                                                                                               64
+                                                                                               230
+
+
+---
+
+Note que essas são matérias de competência administrativa de todos os entes da Federação, de
+forma solidária, com inexistência de subordinação em sua atuação. Trata-se tipicamente de
+interesses difusos, ou seja, interesses de toda a coletividade.
+No que se refere à lei complementar prevista no parágrafo único do art. 23 da Constituição,
+nota-se que ela tem como finalidade evitar conflitos e dispersão de recursos, coordenando-se as
+ações dos entes federativos em prol de melhores resultados.
+
+       Os municípios — no limite de seu interesse local e desde que em harmonia com
+                                              ==106d==
+
+       a disciplina estabelecida pelos demais entes federados — possuem competência
+       para legislar sobre meio ambiente, e, caso sua regulamentação seja mais
+       protetiva, pode ter prevalência sobre a legislação federal ou estadual. Afinal de
+       contas, a proteção ao meio ambiente é, concomitantemente, competência
+       administrativa comum a todos os entes federativos (CF/88, art. 23, VI). [RE
+       732686/SP, relator Ministro Luiz Fux, julgamento finalizado em 19.10.2022].
+       É constitucional a instituição, por lei municipal, de feriado local para a
+       comemoração do Dia da Consciência Negra, a ser celebrado em 20 de
+       novembro, em especial porque a data representa um símbolo de resistência
+       cultural e configura ação afirmativa contra o preconceito racial. Segundo o texto
+       constitucional, a atuação comissiva do Poder Público há de ser implementada
+       para combater quaisquer formas de discriminação, em especial pelo repúdio ao
+       racismo (CF/1988, arts. 4º, VIII, e 5º, XLII) na promoção do bem de todos,
+       objetivo fundamental da República Federativa do Brasil e competência comum
+       das unidades federativas (CF/1988, art. 23, I e X). A consagração, pelo ente
+       federado local, da data comemorativa de alta significação étnica como feriado
+       permite a reflexão sobre o tema, propicia o debate e preserva a memória, dando
+       efetividade ao direito fundamental à cultura [ADPF 634/SP, relatora Ministra
+       Cármen Lúcia, julgamento finalizado em 30.11.2022].
+       É inconstitucional, por invadir a competência municipal para legislar sobre
+       assuntos de interesse local (CF/1988, art. 30, I e V), lei estadual que concede, por
+       período determinado, isenção das tarifas de água e esgoto e de energia elétrica
+       aos consumidores residenciais, industriais e comerciais. A Constituição Federal
+       estabelece a competência comum de todos os entes federativos para a
+       promoção de melhorias das condições do saneamento básico (CF/88, art. 23, IX),
+       cabendo à União instituir as respectivas diretrizes (CF/88, art. 21, XX). [ADI
+       6912/MG, relator Ministra Alexandre de Moraes, julgamento virtual finalizado em
+       15.8.2022, às 23:59].
+
+                                                                                              65
+                                                                                              230
+
+
+---
+
+(IBAMA – 2022) Em razão da essencialidade do direito ambiental, compete privativamente à
+União fiscalizar as concessões de direitos de pesquisa e exploração de recursos minerais nos
+estados-membros.
+Comentários:
+Essa é uma das duas competências materiais comuns da União, Estados, Distrito Federal e
+Municípios e está presente no inciso XI do art. 23 da Constituição Federal. Questão errada.
+(IBAMA – 2022) Mediante lei ordinária federal, poderão ser fixadas normas para cooperação
+entre a União, os estados, o Distrito Federal e os municípios com o objetivo de promover o
+equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
+Comentários:
+Essas normas de cooperação, objetivando o equilíbrio do desenvolvimento e do bem-estar em
+âmbito nacional, deverão ser fixadas em leis complementares de cada ente federado, nos termos
+do art. 23, parágrafo único, da Constituição Federal. Questão errada.
+
+                                                                                           66
+                                                                                          230
+
+
+---
+
+                         REPARTIÇÃO DE COMPETÊNCIAS
+Competências legislativas concorrentes
+O art. 24 trata da chamada competência concorrente, que se caracteriza por ser uma
+competência legislativa. Vamos ler o artigo na íntegra?
+
+      Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar
+      concorrentemente sobre:
+      I - direito tributário, financeiro, penitenciário, econômico e urbanístico;
+      II - orçamento;
+      III - juntas comerciais;
+      IV - custas dos serviços forenses;
+      V - produção e consumo;
+      VI - florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos
+      recursos naturais, proteção do meio ambiente e controle da poluição;
+      VII - proteção ao patrimônio histórico, cultural, artístico, turístico e paisagístico;
+      VIII - responsabilidade por dano ao meio ambiente, ao consumidor, a bens e
+      direitos de valor artístico, estético, histórico, turístico e paisagístico;
+      IX - educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa,
+      desenvolvimento e inovação;
+      X - criação, funcionamento e processo do juizado de pequenas causas;
+      XI - procedimentos em matéria processual;
+      XII - previdência social, proteção e defesa da saúde;
+      XIII - assistência jurídica e Defensoria pública;
+      XIV - proteção e integração social das pessoas portadoras de deficiência;
+      XV - proteção à infância e à juventude;
+      XVI - organização, garantias, direitos e deveres das polícias civis.
+      § 1º - No âmbito da legislação concorrente, a competência da União limitar-se-á a
+      estabelecer normas gerais.
+      § 2º - A competência da União para legislar sobre normas gerais não exclui a
+      competência suplementar dos Estados.
+      § 3º - Inexistindo lei federal sobre normas gerais, os Estados exercerão a
+      competência legislativa plena, para atender a suas peculiaridades.
+      § 4º - A superveniência de lei federal sobre normas gerais suspende a eficácia da
+      lei estadual, no que lhe for contrário.
+
+
+                                                                                               67
+                                                                                               230
+
+
+---
+
+A competência legislativa concorrente é atribuída à União, aos Estados e ao Distrito Federal (os
+Municípios não foram contemplados!). A competência da União está limitada ao estabelecimento
+de regras gerais. Fixadas essas regras, caberá aos Estados e ao Distrito Federal complementar a
+legislação federal (é a chamada competência suplementar dos Estados-membros e Distrito
+Federal).
+Caso a União não edite as normas gerais, Estados e Distrito Federal exercerão competência
+legislativa plena, para atender a suas peculiaridades. Entretanto, caso a União, posteriormente ao
+exercício da competência legislativa plena pelos Estados e Distrito Federal, edite a regra geral,
+ela suspenderá a eficácia da lei estadual (veja que não se fala em revogação, mas em suspensão!)
+apenas no que for contrária àquela. Ocorre, então, um bloqueio de competência, não podendo
+mais o Estado legislar sobre normas gerais, como vinha fazendo.
+Observa-se que a Carta Magna adotou o modelo de competência concorrente não cumulativa,
+em que há repartição vertical, isto é, dentro de um mesmo campo material, reservou as regras
+gerais à União e deixou, aos Estados, a complementação. Na competência concorrente
+                                                       ==106d==
+
+cumulativa (não adotada pela Carta Magna), não há limites prévios para o exercício da
+competência, que pode ser igualmente exercida por todos os entes federativos.
+No modelo adotado pelo Brasil (competência concorrente não cumulativa), não pode a lei
+estadual contrariar as normas gerais adotadas pela União, sob pena de inconstitucionalidade.
+Segundo o STF, é inconstitucional lei estadual que amplie a definição estabelecida por lei federal,
+em matéria de competência concorrente.1 Não pode o Estado, ao editar norma específica, ir
+além do que lhe permite a norma geral da União.
+Nesse sentido, decidiu o STF que é inconstitucional lei estadual que disponha sobre a
+obrigatoriedade de informações nas embalagens dos produtos alimentícios comercializados no
+âmbito de Estado-membro.2 Apesar de “produção e consumo” ser matéria da competência
+concorrente (art. 24, V), o Código de Defesa do Consumidor já tratou integralmente sobre
+“informações em embalagens de produtos comercializados”, sendo a regulamentação estadual
+indevida.
+Por outro lado, por se tratar de assunto atinente a direito econômico, o STF julgou constitucional
+lei estadual que concede aos professores das redes públicas estadual e municipais de ensino o
+benefício da meia-entrada nos estabelecimentos de lazer e entretenimento3.
+Em relação a assunto consumerista, no exercício da competência prevista no inciso VIII do art. 24,
+o STF julgou constitucional lei estadual que obrigue empresas prestadoras de serviços de
+televisão por assinatura e estabelecimentos comerciais de vendas no varejo e no atacado — que
+já possuam Serviço de Atendimento ao Consumidor (SAC) —, a fornecerem atendimento
+telefônico gratuito a seus clientes4.
+Ainda sobre o inciso VIII do art. 24, o STF decidiu, no âmbito da ADI 7027/PB (Rel. Min. Gilmar
+Mendes, julgamento virtual finalizado em 17.12.2022), que norma estadual que obriga pessoas
+idosas a assinarem fisicamente contratos de operação de crédito firmados por meio eletrônico ou
+
+
+1
+    ADI 1.245, Rel. Min. Eros Grau. 26-8-2005.
+2
+    ADI 750/RJ, rel. Min. Gilmar Mendes, julgamento em 3.8.2017.
+3
+    ADI 3753/SP. Rel. Min. Dias Toffoli, julgamento virtual ﬁnalizado em 08.04.2022.
+4
+    ADI 4118/RJ, relatora Min. Rosa Weber, julgamento virtual ﬁnalizado em 25.2.2022.
+
+
+                                                                                                68
+                                                                                                230
+
+
+---
+
+telefônico é constitucional. Trata-se de uma medida adequada e proporcional em relação à
+proteção das pessoas idosas.
+Outro ponto de destaque é que a competência suplementar dos Estados-membros e do Distrito
+Federal pode ser dividida em duas espécies: i) competência complementar; e ii) competência
+supletiva. A primeira dependerá de existência prévia de lei federal, a ser especificada pelos
+Estados-membros e pelo Distrito Federal. Já a segunda surgirá quando da inércia da União em
+editar a lei federal, permitindo aos Estados-membros e ao Distrito Federal exercerem a
+competência legislativa plena, tanto para a edição de normas de caráter geral quanto de normas
+específicas.
+
+(MPE-RO – 2023) A competência concorrente atribui a todos os entes federativos o poder de
+legislar sobre as atribuições explicitadas no texto constitucional.
+Comentários:
+Cuidado: a competência concorrente não inclui os municípios. Nos termos do art. 24 da CF/88,
+ela é prevista apenas para União, Estados e Distrito Federal. Questão errada.
+(TELEBRAS – 2022) A competência legislativa acerca de responsabilidade por danos ao
+consumidor é concorrente entre União, estados e Distrito Federal.
+Comentários:
+De fato, compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre
+responsabilidade por dano ao consumidor, conforme o inciso VIII do art. 24 da CF/88. Questão
+correta.
+(MPU – 2018) Legislar sobre a responsabilidade por dano ao meio ambiente compete
+concorrentemente à União, aos Estados e ao Distrito Federal.
+Comentários:
+
+
+                                                                                           69
+                                                                                           230
+
+
+---
+
+É competência concorrente da União, Estados e Distrito Federal legislar sobre responsabilidade
+por dano ao meio ambiente (art. 24, VIII, CF/88). Questão correta.
+(MPU – 2018) Caso não exista lei federal que disponha normas gerais relativas a tecnologia, os
+estados poderão exercer a competência legislativa plena, necessária ao atendimento de suas
+peculiaridades.
+Comentários:
+É competência concorrente da União, Estados e Distrito Federal legislar sobre tecnologia (art. 24,
+IX, CF/88). No âmbito da competência concorrente, a União irá legislar sobre normas gerais, ao
+passo que os Estados e Distrito Federal irão editar normas específicas. Diante da ausência de lei
+federal de normas gerais, os Estados e o Distrito Federal poderão exercer a competência
+legislativa plena. Questão correta.
+(TCU – 2015) Compete privativamente à União legislar sobre direitos e garantias fundamentais.
+Comentários:
+Não se pode dizer que é competência privativa da União legislar sobre direitos fundamentais. O
+art. 24 da Carta Magna prevê que vários direitos fundamentais são objeto da competência
+legislativa concorrente entre União, Estados e Distrito Federal. Entre eles, encontram-se, por
+exemplo, a educação, o ensino e a proteção à infância e à juventude.
+(Instituto Rio Branco – 2015) Compete à União manter relações com Estados estrangeiros,
+declarar a guerra e celebrar a paz, mas se insere no âmbito da competência concorrente da
+União, dos estados e do Distrito Federal assegurar a defesa nacional e permitir que forças
+estrangeiras transitem por seus territórios.
+Comentários:
+Também é competência da União assegurar a defesa nacional (art. 24, IV) e permitir que forças
+estrangeiras transitem pelo território nacional (art. 21, IV).Questão errada.
+(TRT 8ª Região – 2015) A responsabilidade por dano ao meio ambiente, ao consumidor, a bens e
+direitos de valor artístico, estético, histórico, turístico e paisagístico é de competência
+concorrente da União, Estados e Distrito Federal e, por isso, inexistindo lei federal sobre normas
+gerais, os Estados exercerão a competência legislativa plena, independente de suas
+peculiaridades.
+Comentários:
+De fato, é competência concorrente da União, Estados e Distrito Federal legislar sobre
+responsabilidade por dano ao meio ambiente, ao consumidor, a bens e direitos de valor artístico,
+estético, histórico, turístico e paisagístico (art. 24, VIII). Se não houver lei federal, os Estados
+poderão exercer a competência legislativa plena, mas o farão para atender a suas peculiaridades.
+O erro da questão está em falar que a competência legislativa plena será exercida pelos Estados
+“independente de suas peculiaridades”. Questão errada.
+(TJ-RR – 2015) Na Constituição brasileira de 1988, competências comuns e concorrentes têm
+natureza legislativa.
+Comentários:
+As competências comuns têm natureza material (administrativa), e as competências concorrentes
+têm natureza legislativa. Questão errada.
+
+                                                                                                 70
+                                                                                                 230
+
+
+---
+
+(SEAP-DF – 2015) Compete à União, aos estados e ao Distrito Federal legislar concorrentemente
+acerca de procedimentos em matéria processual.
+Comentários:
+É isso mesmo! É competência concorrente legislar sobre procedimentos em matéria processual
+(art. 24, XI). Questão correta.
+(MPE-SC – 2014) Em matéria de competência comum legislativa, a superveniência de lei federal
+sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.
+Comentários:
+A competência comum é material, não legislativa. No âmbito da competência concorrente é que
+a superveniência de lei federal sobre normas gerais suspende a eficácia de lei estadual, no que
+lhe for contrária. Questão errada.
+
+                                                                                             71
+                                                                                            230
+
+
+---
+
+                        REPARTIÇÃO DE COMPETÊNCIAS
+
+Competências dos Estados e do Distrito Federal
+
+A Constituição não lista taxativamente as competências dos Estados-membros, reservando-lhes a
+chamada competência remanescente ou residual (art. 25, §1º, CF):
+
+       § 1º - São reservadas aos Estados as competências que não lhes sejam vedadas
+       por esta Constituição.
+
+Essa técnica foi adotada originariamente pela Constituição norte-americana e, desde então, por
+todas as Constituições brasileiras, por privilegiar a autonomia dos Estados-membros em relação à
+União. Isso acontece porque permite que a maior parte das competências seja dos Estados, uma
+vez que as competências da União são listadas taxativamente, enquanto as dos
+Estados-membros são indefinidas.
+Entretanto, é errado afirmar que nenhuma competência dos Estados está expressa na
+Constituição. A Carta Magna enumera isoladamente algumas competências dos Estados. Veja
+quais são as mais cobradas em concursos, a partir da leitura das correspondentes normas
+constitucionais:
+
+       Art. 25, § 2º - Cabe aos Estados explorar diretamente, ou mediante concessão,
+       os serviços locais de gás canalizado, na forma da lei, vedada a edição de medida
+       provisória para a sua regulamentação;
+       Art. 25, § 3º - Os Estados poderão, mediante lei complementar, instituir regiões
+       metropolitanas, aglomerações urbanas e microrregiões, constituídas por
+       agrupamentos de municípios limítrofes, para integrar a organização, o
+       planejamento e a execução de funções públicas de interesse comum.
+       Art. 125. Os Estados organizarão sua Justiça, observados os princípios
+       estabelecidos nesta Constituição.
+
+Destaca-se, ainda, que a Constituição atribui ao Distrito Federal as competências legislativas,
+administrativas e tributárias reservadas aos estados e aos municípios (CF, art. 32, §1º).
+Contudo, há exceções (competências estaduais que não foram atribuídas ao Distrito Federal). Os
+Estados possuem competência para organizar e manter seu Poder Judiciário, Ministério Público,
+polícia civil, polícia militar e corpo de bombeiros militar. No Distrito Federal, todas essas
+instituições são organizadas e mantidas pela União.
+Também é importante destacar que nem toda a competência residual foi atribuída aos Estados.
+Há uma exceção: compete à União instituir os impostos residuais, não previstos na Constituição,
+desde que sejam não cumulativos e não tenham fato gerador ou base de cálculo próprios dos
+discriminados na Carta Magna. Trata-se da chamada competência residual tributária. Nesse caso,
+competirá à União tanto legislar sobre o tema quanto exercer a capacidade tributária ativa.
+
+                                                                                             72
+                                                                                             230
+
+
+---
+
+Ao apreciar questões atinentes às competências dos Estados, o STF tem alguns entendimentos
+relevantes, a seguir citados:
+       a) É constitucional lei estadual que obrigue as empresas prestadoras de serviços de
+       internet móvel e banda larga na modalidade pós-paga a apresentarem, na fatura mensal,
+       gráficos sobre o registro médio diário de entrega da velocidade de recebimento e envio
+       de dados pela rede mundial de computadores. Normas sobre direito do consumidor
+       admitem regulamentação concorrente pelos estados-membros, nos termos do art. 24, V,
+       da Constituição Federal1.
+       b) Competência dos estados, do Distrito Federal e dos municípios para imunizar
+       adolescentes de 12 a 17 anos contra a covid-19. O entendimento, unânime, foi tomado
+       na Arguição de Descumprimento de Preceito Fundamental (ADPF) 756.
+       c) É inconstitucional norma de constituição estadual que disponha sobre o depósito de
+       lixo atômico e a instalação de usinas nucleares.2 Trata-se de um assunto que se insere nas
+                                             ==106d==
+
+       competências da União.
+       d) É constitucional a proibição, por lei estadual, de que instituições financeiras,
+       correspondentes bancários e sociedades de arrendamento mercantil façam
+       telemarketing, oferta comercial, proposta, publicidade ou qualquer tipo de atividade
+       tendente a convencer aposentados e pensionistas a celebrarem contratos de
+       empréstimo.3
+       e) Os estados-membros detêm competência administrativa para explorar loterias. A
+       competência da União para legislar exclusivamente sobre sistemas de consórcios e
+       sorteios, inclusive loterias, não obsta a competência material para a exploração dessas
+       atividades pelos entes estaduais ou municipais.4
+       f) É inconstitucional, por invadir a competência municipal para legislar sobre assuntos de
+       interesse local (CF/1988, art. 30, I e V), lei estadual que conceda, por período
+       determinado, isenção das tarifas de água e esgoto e de energia elétrica aos
+       consumidores residenciais, industriais e comerciais5.
+       g) É inconstitucional lei estadual que imponha aos prestadores privados de serviços de
+       ensino e de telefonia celular a obrigação de estender o benefício de novas promoções
+       aos clientes preexistentes6.
+
+1
+  ADI 6893/ES, Rel. Min. Cármen Lúcia, julgamento virtual finalizado em 8.10.2021.
+2
+  ADIs 6.895, 6.909 e 6.913.
+3
+  ADI 6727/PR, Rel. Min. Cármen Lúcia, julgamento virtual finalizado em 11.5.2021.
+4
+  ADPF 492, ADPF 493 e ADI 4.986.
+5
+  ADI 6912/MG, Rel. Min. Alexandre de Moraes, julgamento virtual finalizado em 15.8.2022.
+6
+   ADI 5399/SP, 6191/SP e 6333 ED/PE, Rel. Min. Gilmar Mendes, Red. Ac. Min. Alexandre de Moraes,
+julgamento em 09.06.2022.
+
+
+                                                                                               73
+                                                                                              230
+
+
+---
+
+         h) É inconstitucional norma de Constituição estadual que imponha condições locais para
+         a construção de instalações nucleares e de energia elétrica7 e que disponha sobre
+         serviços de atividades nucleares de qualquer natureza8.
+         i) Compete aos estados-membros a definição do prazo de validade de bilhetes de
+         transporte rodoviário intermunicipal de passageiros9. O prazo de validade do bilhete,
+         mais elastecido ou não, corresponde a um benefício que, por sua natureza, tem um
+         custo. Incumbe ao Estado, como titular da exploração do transporte rodoviário
+         intermunicipal, fixar a política tarifária à luz dos elementos que nela possam influenciar, tal
+         como o prazo de validade do bilhete (art. 175, CF/88).
+         j) É inconstitucional — por violar a competência privativa da União para legislar sobre
+         direito penal e material bélico (CF/1988, art. 22, I e XXI) — norma estadual que conceda,
+         de forma incondicionada, o porte de arma de fogo a agentes penitenciários10.
+         k) É incompatível com a Constituição Federal de 1988 — por violar a competência da
+         União para definir os princípios básicos a serem seguidos na execução dos serviços
+         notariais e de registro (CF/1988, art. 236) — norma estadual que objetive regulamentar a
+         forma de provimento de suas serventias extrajudiciais, fixando regras do concurso para
+         ingresso e remoção nos respectivos cartórios11.
+         l) É constitucional lei estadual que proíba, no âmbito de seu território, a fabricação, a
+         venda e a comercialização de armas de brinquedo que simulam armas de fogo reais12.
+
+(TCE-RJ – 2022) Em hipóteses excepcionais, é permitida a edição de medida provisória para
+regulamentar a exploração dos serviços de gás canalizado em determinado estado.
+Comentários:
+Esse tipo de serviço prestado nos Estados (localmente) não pode ser regulamentado em medida
+provisória, por força do art. 25, § 2º, da Constituição Federal. Questão errada.
+
+7
+  ADI 7076/PR, Rel. Min. Roberto Barroso, julgamento virtual finalizado em 24.6.2022 (sexta-feira), às 23:59.
+8
+  ADI 6858/AM, Rel. Min. Ricardo Lewandowski, julgamento virtual finalizado em 1º.7.2022.
+9
+  ADI 4289/DF, Rel. Min. Rosa Weber, julgado em 8.4.2022.
+10
+   ADI 5076/RO, Rel. Min. Gilmar Mendes, julgamento virtual finalizado em 10.3.2023 (sexta-feira), às 23:59.
+11
+   ADPF 209/SP, Rel. Min. Gilmar Mendes, julgamento virtual finalizado em 2.5.2023 (terça-feira), às 23:59.
+12
+   ADI 5126/SP. Rel. Min. Gilmar Mendes, julgamento virtual finalizado em 16.12.2022 (sexta-feira), às 23:59.
+
+
+                                                                                                                74
+                                                                                                                230
+
+
+---
+
+                         REPARTIÇÃO DE COMPETÊNCIAS
+
+Competências dos Municípios
+
+As competências dos Municípios são listadas, em sua maior parte, no artigo 30 da Constituição.
+Nele, há competências materiais (administrativas) e legislativas.
+
+       Art. 30. Compete aos Municípios:
+       I - legislar sobre assuntos de interesse local;
+       II - suplementar a legislação federal e a estadual no que couber;
+       III - instituir e arrecadar os tributos de sua competência, bem como aplicar suas
+       rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes
+       nos prazos fixados em lei;
+       IV - criar, organizar e suprimir distritos, observada a legislação estadual;
+       V - organizar e prestar, diretamente ou sob regime de concessão ou permissão,
+       os serviços públicos de interesse local, incluído o de transporte coletivo, que tem
+       caráter essencial;
+       VI - manter, com a cooperação técnica e financeira da União e do Estado,
+       programas de educação infantil e de ensino fundamental;
+       VII - prestar, com a cooperação técnica e financeira da União e do Estado,
+       serviços de atendimento à saúde da população;
+       VIII - promover, no que couber, adequado ordenamento territorial, mediante
+       planejamento e controle do uso, do parcelamento e da ocupação do solo
+       urbano;
+       IX - promover a proteção do patrimônio histórico-cultural local, observada a
+       legislação e a ação fiscalizadora federal e estadual.
+
+A competência legislativa dos municípios subdivide-se em exclusiva e suplementar:
+      a) Competência exclusiva para legislar sobre assuntos de interesse local (CF, art. 30, I);
+      b) Competência suplementar, para suplementar a legislação federal ou estadual, no que
+      couber (CF, art. 30, II). Destaque-se que os Municípios poderão, inclusive, suplementar a
+      legislação federal ou estadual que trate de matéria afeta à competência concorrente. É o
+      caso, por exemplo, da legislação tributária municipal, que suplementa a legislação federal
+      e estadual.
+A competência administrativa dos Municípios autoriza sua atuação sobre matérias de interesse
+local, especialmente sobre aquelas constantes dos incisos III a IX do art. 30 da Carta Magna.
+
+                                                                                                   75
+                                                                                                   230
+
+
+---
+
+Questão complexa é definir exatamente o que é ou não considerado interesse local. A
+jurisprudência do STF já teve a oportunidade de se firmar em distintas situações relacionadas ao
+tema:
+a) Segundo o STF, o Município é competente para fixar o horário de funcionamento de
+estabelecimento comercial (Súmula Vinculante nº 38, STF). Esse entendimento também abrange
+drogarias, farmácias e plantões obrigatórios desses locais.
+
+       Súmula 419 – STF: Os Municípios têm competência para regular o horário do
+       comércio local, desde que não infrinjam leis estaduais ou federais válidas.
+
+b) O STF considera que o Município é competente para, dispondo sobre a segurança de sua
+população, impor a estabelecimentos bancários a obrigação de instalarem portas eletrônicas,
+com detector de metais, travamento e retorno automático e vidros à prova de balas.
+Entende, ainda, a Corte que o Município pode editar legislação própria, com fundamento na
+                                              ==106d==
+
+autonomia constitucional que lhe é inerente (CF, art. 30, I), com o objetivo de determinar, às
+instituições financeiras, que instalem, em suas agências, em favor dos usuários dos serviços
+bancários (clientes ou não), equipamentos destinados a proporcionar-lhes segurança (tais como
+portas eletrônicas e câmaras filmadoras) ou a propiciar-lhes conforto, mediante oferecimento de
+instalações sanitárias, ou fornecimento de cadeiras de espera, ou, ainda, colocação de
+bebedouros.
+Não há, portanto, necessidade de que essa legislação municipal obedeça a diretrizes definidas
+em lei federal ou estadual, dado que a competência para tratar do assunto é do Município (AI
+347.717-AgR, Rel. Min. Celso de Mello, julgamento em 31-5-2005, Segunda Turma, DJ de
+5-8-2005).
+c) O STF entende que a fixação do horário de funcionamento das agências bancárias, por estar
+relacionada ao sistema financeiro nacional, extrapola o interesse local. Portanto, não é de
+competência dos Municípios.
+d) Segundo o STF, o Município é competente para legislar sobre limite de tempo de espera em
+fila dos usuários dos serviços prestados pelos cartórios localizados no seu respectivo território,
+sem que isso represente ofensa à competência privativa da União para legislar sobre registros
+públicos. Também entende a Corte que o Município possui competência para legislar sobre
+tempo de atendimento em filas nos estabelecimentos bancários, tratando-se de assunto de
+interesse local, o que não se confunde com a atividade-fim do banco.
+e) É constitucional lei estadual que concede “meia passagem” aos estudantes nos transportes
+coletivos intermunicipais. Já no caso de serviço de transporte local, a competência para dispor a
+respeito é da legislação municipal.
+f) É inconstitucional lei municipal que obriga ao uso de cinto de segurança e proíbe transporte
+de menores de 10 anos no banco dianteiro dos veículos, por ofender a competência privativa da
+União Federal para legislar sobre trânsito (CF, art. 22, XI).
+g) Ofende o princípio da livre concorrência lei municipal que impeça a instalação de
+estabelecimentos comerciais do mesmo ramo em determinada área (Súmula Vinculante nº 49).
+
+
+                                                                                               76
+                                                                                               137
+
+
+---
+
+Seria o caso, por exemplo, de uma lei municipal que impedisse a existência de dois restaurantes
+em uma mesma rua. Essa lei seria inconstitucional, por violar o princípio da livre concorrência.
+Ao debater a aprovação da Súmula Vinculante nº 49, os Ministros do STF deixaram claro que ela
+deveria ser encarada como um princípio geral, não devendo se aplicar a todos os casos. Nesse
+sentido, o STF reconhece a constitucionalidade de lei municipal que fixa distanciamento mínimo
+entre postos de revenda de combustíveis, por motivo de segurança.1
+
+        Súmula Vinculante 49: Ofende o princípio da livre concorrência lei municipal que
+        impede a instalação de estabelecimentos comerciais do mesmo ramo em
+        determinada área.
+
+h) Segundo o STF, o Município é competente para legislar sobre meio ambiente, desde que haja
+interesse local. A existência de interesse local deverá ser fundamentada pelo Município e poderá
+resultar, inclusive, em legislação ambiental mais restritiva do que a da União e dos Estados.2 No
+mesmo sentido, a CF dispõe, no art. 182, a competência material dos municípios para a
+execução da política de desenvolvimento urbano, o que torna inconstitucional norma de
+constituição estadual que vede aos municípios a possibilidade de alterarem a destinação, os fins
+e os objetivos originários de loteamentos definidos como áreas verdes ou institucionais.3
+No Brasil, adota-se o princípio da predominância do interesse, em que a União cuidará das
+matérias de predominância do interesse geral (nacional); aos Estados, caberão as matérias de
+interesse regional; e, aos Municípios, caberão as matérias de interesse local. Com base nesse
+princípio é que o STF vem rechaçando algumas práticas de Estados que poderiam acarretar em
+redução da autonomia dos Municípios em relação a assuntos de interesse local.
+i) É inconstitucional lei municipal que estabeleça limitações à instalação de sistemas
+transmissores de telecomunicações por afronta à competência privativa da União para legislar
+sobre telecomunicações, nos termos dos artigos. 21, XI, e 22, IV, da Constituição Federal4.
+j) Compete aos Municípios legislar sobre a obrigatoriedade de instalação de hidrômetros
+individuais nos edifícios e condomínios, em razão do preponderante interesse local envolvido5.
+k) Os Municípios podem instituir serviço de prestação de assistência jurídica à população
+carente. Isso não afronta nem conflita com as atribuições da Defensoria Pública6.
+l) Cabe aos municípios promover o licenciamento ambiental das atividades ou empreendimentos
+que possam causar impacto ambiental de âmbito local7.
+m) É inconstitucional, por invadir a competência municipal para legislar sobre assuntos de
+interesse local (CF/1988, art. 30, I e V), lei estadual que conceda, por período determinado,
+
+1
+  RE 566.836, Rel. Min. Cármen Lúcia. 27.11.2008.
+2
+  ARE 748206 AgR/SC, Rel Min. Celso de Mello, 14.03.2017.
+3
+  ADI 6602/SP, Rel. Min. Cármen Lúcia, julgamento virtual finalizado em 11.6.2021.
+4
+  ADPF 732/SP, Rel. Min. Ricardo Lewandowski, julgamento virtual finalizado em 26.4.2021.
+5
+  RE 738481/SE, Tema 849, Rel. Min. Edson Fachin, julgamento virtual finalizado em 16.8.2021.
+6
+  ADPF 279, Rel. Min. Cármen Lúcia, julgamento em 03.11.2021.
+7
+  ADI 2142/CE, Rel. Min. Roberto Barroso, julgamento virtual finalizado em 24.6.2022.
+
+
+                                                                                                77
+                                                                                                230
+
+
+---
+
+isenção das tarifas de água e esgoto e de energia elétrica aos consumidores residenciais,
+industriais e comerciais8.
+n) É constitucional - formal e materialmente - lei municipal que obrigue à substituição de sacos e
+sacolas plásticos por sacos e sacolas biodegradáveis9.
+o) Os municípios podem instituir taxa para fiscalização do uso e ocupação do solo por torres e
+antenas de transmissão e recepção de dados e voz, desde que observada a proporcionalidade
+com o custo da atividade municipal subjacente (CF/1988, art. 30, VIII). Frise-se que a instituição
+de taxa de fiscalização do funcionamento de torres e antenas de transmissão e recepção de
+dados e voz é de competência privativa da União, nos termos do art. 22, IV, da Constituição
+Federal, não competindo aos Municípios instituir referida taxa10.
+p) É inconstitucional — por tratar de matéria que diz respeito a norma de direito econômico e
+contrariar a disciplina conferida a benefício já previsto no art. 23 da Lei federal 10.741/2003
+(Estatuto do Idoso) — lei municipal que institua o acesso gratuito de idosos às salas de cinema da
+cidade, de segunda a sexta-feira11.
+q) É constitucional – formal e materialmente – lei municipal que proíba a soltura de fogos de
+artifício e artefatos pirotécnicos produtores de estampidos12.
+r) É constitucional lei municipal que, ao regulamentar apenas o seu interesse local, sem criar
+novas figuras ou institutos de licitação ou contratação, estabeleça diretrizes gerais para a
+prorrogação e relicitação dos contratos de parceria entre o município e a iniciativa privada13.
+s) É inconstitucional o Município estabelecer a obrigação de ressarcimento de tarifa aos usuários
+de transporte público por interrupção ou não conclusão da viagem, por violar competência da
+União em legislar sobre trânsito e transporte14.
+t) É inconstitucional norma municipal que imponha a inclusão de produtos locais em cardápios,
+em afronta aos princípios da livre iniciativa, livre concorrência e da ordem econômica.
+u) É inconstitucional norma municipal que imponha obrigatoriedade de supermercados e
+estabelecimentos similares de prestarem a seus clientes serviços de acondicionamento ou
+embalagem das compras, pois interfere indevidamente na liberdade de organização da atividade
+empresarial, ofendendo os princípios da livre iniciativa e da razoabilidade.
+
+8
+  ADI 6912/MG, Rel. Min. Alexandre de Moraes, julgamento virtual finalizado em 15.8.2022.
+9
+  RE 732686/SP. Rel. Min. Luiz Fux, j. 19.10.2022.
+10
+   RE 776594/SP, relator Ministro Dias Toffoli, julgamento virtual finalizado em 2.12.2022 (sexta-feira), às 23:59.
+11
+   ARE 1307028 AgR/SP, relator Ministro Edson Fachin, redator do acórdão Ministro Gilmar Mendes, julgado em
+22.11.2022.
+12
+   RE 1.210.727/SP, relator Ministro Luiz Fux, julgamento virtual finalizado em 8.5.2023 (segunda-feira), às 23:59.
+13
+   ADPF 971/SP, relator Ministro Gilmar Mendes, julgamento virtual finalizado em 26.5.2023 (sexta-feira), às 23:59.
+14
+   ADI 4338, Rel. Min. Rosa Weber, j. 23/08/2019, p. 09/09/2019.
+
+
+                                                                                                                78
+                                                                                                                230
+
+
+---
+
+(PGE-RR – 2023) Segundo o Supremo Tribunal Federal (STF), em se tratando de assunto de
+interesse predominantemente local, os municípios têm competência para legislar sobre direito
+ambiental.
+Comentários:
+Desde que o faça de maneira fundamentada e restando evidenciado o caráter de interesse local
+da matéria, a jurisprudência do STF reconhece a possibilidade de o município legislar sobre
+direito ambiental. Questão correta.
+(PGE-ES – 2023) É constitucional lei municipal que obrigue a substituição de sacos e sacolas de
+plástico por sacos e sacolas biodegradáveis.
+Comentários:
+É isso mesmo: conforme a tese de repercussão geral fixada no Tema 970, é constitucional lei
+municipal que obrigue à substituição de sacos e sacolas plásticos por sacos e sacolas
+biodegradáveis. Questão correta.
+(Pref. Teresina/PI – 2022) Não se insere entre as competências dos Municípios legislar sobre
+procedimentos em matéria processual.
+Comentários:
+Legislar sobre procedimentos em matéria processual é uma competência concorrente entre
+União, Estados e Distrito Federal, não dizendo respeito a qualquer competência municipal.
+Questão correta.
+(TJ-PB – 2015) É constitucional lei municipal que fixe o horário de funcionamento das agências
+bancárias e que disponha sobre o tempo máximo de permanência dos usuários nas filas, por se
+tratar de matéria de interesse local.
+Comentários:
+A fixação do horário de funcionamento de agências bancárias é matéria que extrapola o interesse
+local, ou seja, lei municipal que tratar do assunto será inconstitucional. A matéria é de
+competência da União, por se tratar de assunto relacionado ao sistema financeiro nacional.
+Questão errada.
+(TJ-PB – 2015) Se a Constituição de determinado estado-membro reconhecer aos estudantes o
+direito de pagar a metade da tarifa de transporte coletivo municipal, não haverá invasão da
+competência municipal para legislar sobre o tema, por se tratar de benefício estabelecido em
+Constituição estadual.
+Comentários:
+É competência do Município dispor sobre “meia passagem” aos estudantes nos transportes
+coletivos municipais. Logo, houve invasão da competência municipal. Questão errada.
+
+                                                                                            79
+                                                                                            230
+
+
+---
+
+Passaremos, agora, à análise da fiscalização do Município. Veja o que determina o art. 31 da
+Constituição acerca da fiscalização dos Municípios:
+
+       Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo
+       Municipal, mediante controle externo, e pelos sistemas de controle interno do
+       Poder Executivo Municipal, na forma da lei.
+       § 1º - O controle externo da Câmara Municipal será exercido com o auxílio dos
+       Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais
+       de Contas dos Municípios, onde houver, vedada sua extinção, criação ou
+       instalação.
+
+Verifica-se, portanto, que a fiscalização do Município será feita pelo Legislativo Municipal
+(controle externo) e pelo Executivo Municipal (controle interno), na forma da lei. No controle
+externo, a Câmara Municipal contará com o auxílio dos Tribunais de Contas do Estado ou do
+Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver. Note,
+entretanto, a vedação feita pela Constituição em outro parágrafo do mesmo artigo:
+
+       § 4º - É vedada a criação de Tribunais, Conselhos ou órgãos de Contas
+       Municipais.
+
+A Constituição Federal de 1988 proíbe que sejam criados órgãos de contas municipais. Eles até
+existem, mas só aqueles que foram criados previamente à Constituição de 1988: o TCM-SP e o
+TCM-RJ. Depois da CF/88, nenhum órgão de contas municipal foi criado, pois isso é proibido
+pela Carta Magna.
+Importante notar também que, após a Emenda Constitucional nº 139/2026, ficou expressamente
+vedada no texto constitucional a extinção de Tribunais de Contas. Em suma: não podem ser
+criados novos Tribunais de Contas Municipais (a exemplo do TCM/SP e TCM/RJ), mas também
+não se pode extinguir aqueles que já existem.
+Podem existir órgãos estaduais com competência para o controle externo da Administração
+Pública de todos os municípios de um determinado estado. São os Conselhos ou Tribunais de
+Contas dos Municípios. É o caso, por exemplo, do TCM-GO, que é órgão estadual com
+competência sobre todos os Municípios de Goiás.
+Caso não exista um órgão de contas municipal (criado antes da CF/88) ou um órgão de contas
+estadual com competência sobre todos os Municípios do estado, o controle externo da
+Administração Pública municipal caberá ao Tribunal de Contas do Estado (TCE).
+Em síntese, o controle externo da Administração Pública municipal poderá ser feito por 3 (três)
+tipos de órgãos diferentes:
+      a) Órgão de contas municipal: Aplica-se quando há órgãos de contas municipais criados
+      antes da CF/88. É o caso do TCM-RJ e TCM-SP.
+      b) Órgão de contas estadual com competência sobre todos os Municípios do estado: São
+      órgãos de contas estaduais, mas que têm como tarefa o controle externo da
+      Administração Pública dos Municípios do estado. É o caso do TCM-GO, TCM-BA e
+      TCM-PA.
+
+                                                                                             80
+                                                                                            230
+
+
+---
+
+          c) Tribunal de Contas do Estado (TCEs): Naqueles estados em que não existirem os órgãos
+          de contas a que fizemos alusão anteriormente, o controle externo da Administração
+          Pública municipal será competência do TCE.
+Antes da PEC 139/2026, houve a extinção do Tribunal de Contas dos Municípios do Ceará
+(TCM-CE), pois o STF entendeu que os Estados teriam autonomia para decidir se o controle
+externo das Administrações Municipais será feito por Tribunal de Contas dos Municípios (TCM)
+ou por Tribunal de Contas Estadual (TCE), materializando-se tal decisão por norma constitucional
+estadual.15 Com base nesse entendimento, o STF julgou constitucional, na ocasião, a extinção do
+TCM-CE por emenda à Constituição Estadual. A Corte ainda destacou que não havia
+necessidade de participação dos Municípios no processo legislativo referente a essa matéria.
+
+           Art. 31, § 2º - O parecer prévio, emitido pelo órgão competente sobre as contas
+           que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de
+           dois terços dos membros da Câmara Municipal.
+
+Porém, após a PEC 139/2026, os Tribunais de Contas foram considerados órgãos permanentes e
+essenciais, conforme se verifica no art. 75 da CF/88:
+
+           Art. 75. Os Tribunais de Contas são instituições permanentes, essenciais ao
+           exercício do controle externo, e as normas estabelecidas nesta Seção aplicam-se,
+           no que couber, à organização, composição e fiscalização dos Tribunais de Contas
+           dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de
+           Contas dos Municípios, vedada sua extinção, criação ou instalação.
+
+A parte final do art. 75 agora expressamente veda a extinção, criação ou instalação de tribunais
+de contas.
+Ainda quanto ao trabalho dos Tribunais de Contas estaduais em relação à apreciação das contas
+dos agentes públicos municipais, é relevante citar um entendimento do STF. Segundo a tese
+fixada pela Corte, o "Município prejudicado é o legitimado para a execução de crédito
+decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em
+razão de danos causados ao erário municipal"16. Significa dizer que, caso o TCE aplique uma
+multa a uma determinada pessoa, o Município é quem deverá atuar no sentido de executar o
+crédito a que tem direito.
+Para entender o tema “julgamento das contas do Prefeito”, será necessário que se saiba a
+diferença entre contas de governo e contas de gestão.
+As contas de governo têm caráter político e são de responsabilidade do Chefe do Poder
+Executivo. São julgadas pelo Poder Legislativo, cabendo aos Tribunais de Contas tão somente
+apreciá-las. É o que se extrai do art. 71, I, CF/88:
+
+           Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o
+           auxílio do Tribunal de Contas da União, ao qual compete:
+           I - apreciar as contas prestadas anualmente pelo Presidente da República,
+           mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de
+           seu recebimento;
+
+15
+     ADI 5.763/CE, Rel. Min. Marco Aurélio, julgamento em 26.10.2017.
+16
+     RE 1.003.433, Rel. Min. Marco Aurélio, Rel. p/ Ac. Min. Alexandre de Moraes, julgamento em 15.09.2021.
+
+
+                                                                                                              81
+                                                                                                              230
+
+
+---
+
+Já as contas de gestão têm caráter técnico e são de responsabilidade dos administradores
+públicos. São julgadas pelos Tribunais de Contas. É o que se extrai do art. 71, II, CF/88:
+
+       Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o
+       auxílio do Tribunal de Contas da União, ao qual compete:
+       (...)
+       II - julgar as contas dos administradores e demais responsáveis por dinheiros,
+       bens e valores públicos da administração direta e indireta, incluídas as fundações
+       e sociedades instituídas e mantidas pelo Poder Público federal, e as contas
+       daqueles que derem causa a perda, extravio ou outra irregularidade de que
+       resulte prejuízo ao erário público;
+
+Em alguns Municípios, notadamente nos menores, pode haver uma particularidade. O Prefeito,
+ao contrário do Presidente da República e dos Governadores, pode também ser ordenador de
+despesas e, portanto, ser responsável pelas contas de governo e pelas contas de gestão. Assim,
+havia controvérsias quanto à competência para o julgamento das contas de governo e contas de
+gestão em nível municipal.
+Apenas para esclarecer, ordenador de despesas é a autoridade cujos atos resultam em emissão
+de empenho, autorização de pagamento, suprimento ou dispêndio de recursos públicos. Nos
+Municípios menores, às vezes por ausência de pessoal, o Prefeito acaba desempenhando
+também essa função ao invés de delegá-la a outro agente público da Administração.
+Acerca disso, o STF tinha um entendimento (RE nº 846.826) de que tanto as contas de governo
+quanto as contas de gestão do Prefeito seriam julgadas politicamente pela Câmara Municipal. Os
+Tribunais de Contas elaborariam um parecer prévio, mas que teriam um caráter meramente
+opinativo. No entanto, em decisão mais recente, o STF fixou um novo entendimento a respeito.
+Veja:
+
+       I - Prefeitos que ordenam despesas têm o dever de prestar contas, seja por
+       atuarem como responsáveis por dinheiros, bens e valores públicos da
+       administração, seja na eventualidade de darem causa a perda, extravio ou outra
+       irregularidade que resulte em prejuízo ao erário;
+       II - Compete aos Tribunais de Contas, nos termos do art. 71, II, da Constituição
+       Federal de 1988, o julgamento das contas de Prefeitos que atuem na qualidade
+       de ordenadores de despesas;
+       III - A competência dos Tribunais de Contas, quando atestada a irregularidade de
+       contas de gestão prestadas por Prefeitos ordenadores de despesa, se restringe à
+       imputação de débito e à aplicação de sanções fora da esfera eleitoral,
+
+
+                                                                                            82
+                                                                                            230
+
+
+---
+
+       independentemente de ratificação pelas Câmaras Municipais, preservada a
+       competência exclusiva destas para os fins do art. 1º, inciso I, alínea g, da Lei
+       Complementar nº 64/1990 (ADPF 982, Rel. Min. Flávio Dino, j. 24.02.2025, p.
+       17.03.2025).
+
+Portanto, atualmente, os Prefeitos que atuam como ordenadores de despesa têm suas contas
+apreciadas e julgadas pelo Tribunal de Contas competente.
+Há que se destacar, porém, que o parecer dos Tribunais de Contas sobre as contas do Prefeito
+somente deixará de prevalecer pelo voto de 2/3 dos membros da Câmara Municipal. Em outras
+palavras, supondo que o Tribunal de Contas tenha recomendado a rejeição das contas do
+Prefeito, o quórum exigido para que esse parecer seja afastado será de 2/3 dos membros da
+Câmara Municipal. Temos, então, um quórum qualificado para que o parecer do Tribunal de
+Contas não prevaleça.
+
+       A LC nº 64/90 prevê que ficarão inelegíveis os gestores públicos que tenham
+       suas contas rejeitadas por decisão irrecorrível de órgão competente.
+       Suponha, então, que o Tribunal de Contas tenha rejeitado as contas do Prefeito.
+       A Câmara Municipal fica inerte e não julga as contas. O que acontecerá? Será
+       isso suficiente para que o Prefeito fique inelegível?
+       Não se admite o “julgamento ficto” das contas do Prefeito. Isso quer dizer que a
+       rejeição pelo Tribunal de Contas não é suficiente para tornar o Prefeito inelegível.
+       É preciso que a Câmara Municipal decida nesse sentido, não sendo possível
+       obrigá-la a julgar em tempo razoável as contas do Prefeito.
+
+(PGM - Fortaleza – 2017) Os municípios não gozam de autonomia para criar novos tribunais,
+conselhos ou órgãos de contas municipais.
+Comentários:
+A Carta Magna veda que os municípios criem novos tribunais, conselhos ou órgãos de contas
+municipais (art. 31, § 4o, CF). Os Estados, entretanto, podem criar um órgão de controle externo
+denominado Conselho ou Tribunal de Contas dos Municípios para auxiliarem as Câmaras de
+Vereadores no controle externo. Questão correta.
+
+                                                                                              83
+                                                                                              230
+
+
+---
+
+                                       INTERVENÇÃO
+Intervenção Federal
+A autonomia dos entes federados poderá ser temporariamente suprimida, em algumas situações
+excepcionais, determinadas taxativamente pela Constituição. Nesses casos, haverá intervenção
+da União sobre Estados ou Distrito Federal, sobre Municípios situados em Territórios (a chamada
+intervenção federal) ou, ainda, intervenção do Estado em seus Municípios (intervenção estadual).
+A intervenção pode ser conceituada, portanto, como um mecanismo de supressão temporária da
+autonomia política de um ente federativo, típico de um Estado federal. Trata-se de elemento de
+estabilização constitucional, devendo ser utilizado quando o princípio federativo estiver em risco.
+Segundo o STF, a intervenção, por ser medida de caráter excepcional, é limitada pelo princípio
+da proporcionalidade.
+
+        A União não pode decretar intervenção em Município situado em um Estado.
+        Somente pode ser decretada intervenção federal em Municípios localizados em
+        Territórios Federais.
+        A intervenção em Município situado em um Estado é caso de intervenção
+        estadual.
+
+A competência para decretar intervenção é do Chefe do Poder Executivo. No caso de
+intervenção federal, a tarefa será do Presidente da República; já na intervenção estadual, a
+competência é do Governador.
+As hipóteses de intervenção federal nos Estados são dispostas em rol taxativo (“numerus
+clausus”) no art. 34 da CF:
+        Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto para:
+        I - manter a integridade nacional;
+        II - repelir invasão estrangeira ou de uma unidade da Federação em outra;
+        III - pôr termo a grave comprometimento da ordem pública;
+        IV - garantir o livre exercício de qualquer dos Poderes nas unidades da
+        Federação;
+        V - reorganizar as finanças da unidade da Federação que:
+            a) suspender o pagamento da dívida fundada por mais de dois anos
+        consecutivos, salvo motivo de força maior;
+
+                                                                                                84
+                                                                                                230
+
+
+---
+
+               b) deixar de entregar aos Municípios receitas tributárias fixadas nesta
+           Constituição, dentro dos prazos estabelecidos em lei;
+           VI - prover a execução de lei federal, ordem ou decisão judicial;
+           VII - assegurar a observância dos seguintes princípios constitucionais:
+           a) forma republicana, sistema representativo e regime democrático;
+           b) direitos da pessoa humana;
+           c) autonomia municipal;
+           d) prestação de contas da administração pública, direta e indireta.
+           e) aplicação do mínimo exigido da receita resultante de impostos estaduais,
+           compreendida a proveniente de transferências, na manutenção e
+           desenvolvimento do ensino e nas ações e serviços públicos de saúde.
+
+Nos casos previstos no art. 34, I, II, III e V, o Presidente da República age de ofício,
+independentemente de provocação. É a chamada intervenção federal espontânea.
+Já no caso do art. 34, IV, VI e VII, a decretação de intervenção pelo Presidente da República
+depende de provocação. Nessas situações, o Presidente não decreta a intervenção de ofício: ele
+precisa ser provocado. É o que se chama de intervenção federal provocada.
+Quando houver coação ou impedimento ao livre exercício do Poder Executivo e Legislativo (art.
+34, IV), a intervenção dependerá de solicitação, ao Presidente da República, do Poder que está
+sofrendo a coação ou o impedimento. Caberá ao Presidente decidir acerca da conveniência e
+oportunidade de atender ao pedido. A decretação da intervenção, portanto, será ato
+discricionário do Presidente da República.
+Por outro lado, quando houver coação ou impedimento ao livre exercício do Poder Judiciário em
+uma unidade da federação (art. 34, IV), a intervenção dependerá de requisição do STF. Nesse
+caso, como se trata de “requisição”, a decretação de intervenção será um ato vinculado do
+Presidente da República. Havendo requisição, o Presidente deverá decretar a intervenção federal.
+A requisição também irá ocorrer para prover a execução de ordem ou decisão judicial (art. 34,
+VI). Esse será o caso em que houver descumprimento de ordem emanada do Poder Judiciário.
+Uma situação bastante comum, que já levou a diversos pedidos de intervenção analisados pelo
+STF, é a que diz respeito ao não pagamento de precatórios.1
+O STF tem sido bastante cauteloso ao analisar esses casos, manifestando o entendimento de que
+não é autorizada a intervenção federal quando os recursos do Estado são limitados e existem
+outras obrigações relevantes a serem cumpridas pelo Poder Público. Há que se observar, então, a
+cláusula da reserva do possível. Segundo o STF, “a intervenção, como medida extrema, deve
+atender à máxima da proporcionalidade”.2
+A competência para proceder à requisição dependerá de onde emanou a decisão judicial que
+está sendo descumprida. Assim, a requisição será feita:
+          a) Pelo TSE, no caso de descumprimento de ordem ou decisão da Justiça Eleitoral;
+
+1
+    O precatório é uma ordem judicial para pagamento de débitos dos entes federativos.
+2
+    IF nº 164 / SP. Rel. Min. Gilmar Mendes. DJe: 13.12.2003.
+
+
+                                                                                             85
+                                                                                             230
+
+
+---
+
+      b) Pelo STJ, no caso de descumprimento de ordem ou decisão do STJ;
+      c) Pelo STF, no caso de descumprimento de ordem ou decisão do próprio STF, da Justiça
+      do Trabalho ou da Justiça Militar.
+A competência para proceder à requisição também será do STJ quando a decisão descumprida
+for da Justiça Federal ou da Justiça Estadual, salvo quando estiver relacionada a alguma questão
+constitucional, hipótese em que a requisição será efetuada pelo STF.
+Ressalte-se mais uma vez que, diante de requisição, o Presidente da República deverá decretar a
+intervenção federal, não cabendo qualquer consideração acerca da conveniência e oportunidade
+do ato.
+Finalmente, ainda existem casos em que a intervenção provocada dependerá do provimento,
+pelo STF, de representação do Procurador-Geral da República (PGR). São as hipóteses do art. 34,
+VI, 1ª parte (“prover a execução de lei federal”) e do art. 34, VII (“assegurar a observância dos
+princípios constitucionais sensíveis”). Nessas situações, o Procurador-Geral da República irá
+                                               ==106d==
+
+efetuar representação junto ao STF; caso haja provimento da representação pela Corte Suprema,
+será dada ciência ao Presidente da República para que, no prazo improrrogável de 15 dias, seja
+decretada a intervenção.
+A representação do PGR para prover a execução de lei federal é chamada de ação de
+executoriedade de lei federal. Por sua vez, a representação do PGR para assegurar a observância
+dos princípios constitucionais sensíveis é denominada Ação Direta de Inconstitucionalidade
+Interventiva (ADIN Interventiva).
+A doutrina considera que a ADIN Interventiva é uma ação que possui duplo efeito:
+      a) efeito jurídico: invalidação do ato que violou um princípio constitucional sensível.
+      b) efeito político: abre caminho para a decretação de intervenção pelo Presidente da
+      República.
+
+(TJDFT – 2023) No caso de intervenção para garantir a execução de decisão judicial ou lei
+federal, a competência para decretá-la é privativa do governador do estado em que a decisão ou
+a lei tiver de ser cumprida.
+Comentários:
+Para prover a execução de lei federal, ordem ou decisão judicial, a intervenção depende de ato
+do Presidente da República, mas que depende de provocação (intervenção federal provocada).
+Questão errada.
+(PGE-PR – 2015) A ausência de recursos para pagamento de dívidas judiciárias (precatórios),
+segundo entendimento do Supremo Tribunal Federal, denota vícios na execução orçamentária e,
+independentemente de dolo, enseja intervenção federal no Estado.
+Comentários:
+
+
+                                                                                                86
+                                                                                                230
+
+
+---
+
+O STF entende que não caberá intervenção quando o não pagamento de precatórios decorrer da
+ausência de recursos. Questão errada.
+(PGE-PR – 2015) Para a decretação da intervenção federal em Estado da Federação, o Presidente
+da República deverá solicitar autorização ao Poder Legislativo, o qual decidirá em vinte e quatro
+horas.
+Comentários:
+A intervenção não depende de autorização do Poder Legislativo. Primeiro, o Presidente da
+República decreta a intervenção; depois, o decreto interventivo é submetido ao controle político
+do Congresso Nacional. Questão errada.
+(TJ-AL – 2015) Em caso de desobediência a ordem ou decisão judicial, fica condicionada a
+decretação de intervenção federal nos Estados à requisição do Superior Tribunal de Justiça caso
+a ordem judicial inobservada seja proveniente de órgão integrante da Justiça do Trabalho, desde
+que seus fundamentos estejam amparados em legislação infraconstitucional.
+Comentários:
+No caso de descumprimento de ordem judicial proveniente da Justiça do Trabalho, a intervenção
+será cabível após requisição do STF. Questão errada.
+(FUB – 2015) A União tem competência para intervir nos estados e no Distrito Federal, mas em
+nenhuma hipótese poderá intervir em municípios localizados em estados-membros.
+Comentários:
+De fato, a União não poderá intervir em Municípios situados em estados-membros. Admite-se
+intervenção federal nos Municípios localizados em Territórios Federais. Questão correta.
+(TRF 5ª Região – 2015) A intervenção federal para pôr termo a grave comprometimento da
+ordem pública independe de provimento do Poder Judiciário.
+Comentários:
+É isso mesmo. A intervenção federal para “pôr termo a grave comprometimento da ordem
+pública” é um caso de intervenção federal espontânea. O Presidente da República decretará a
+intervenção independentemente da participação de qualquer outro poder estatal. Questão
+correta.
+(TJDFT – 2014) A CF prevê hipótese de intervenção federal em município.
+Comentários:
+É possível a intervenção federal em Município localizado em Território Federal. Questão correta.
+
+                                                                                               87
+                                                                                               230
+
+
+---
+
+                                               INTERVENÇÃO
+
+Intervenção Estadual
+
+As hipóteses em que os Estados poderão intervir em seus Municípios ou em que a União poderá
+intervir nos Municípios situados em seus Territórios estão previstas no art. 35 da CF/88:
+
+           Art. 35. O Estado não intervirá em seus Municípios, nem a União nos Municípios
+           localizados em Território Federal, exceto quando:
+           I - deixar de ser paga, sem motivo de força maior, por dois anos consecutivos, a
+           dívida fundada;
+           II - não forem prestadas contas devidas, na forma da lei;
+                                                        ==106d==
+
+           III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção
+           e desenvolvimento do ensino e nas ações e serviços públicos de saúde;
+           IV - o Tribunal de Justiça der provimento a representação para assegurar a
+           observância de princípios indicados na Constituição Estadual, ou para prover a
+           execução de lei, de ordem ou de decisão judicial.
+
+A intervenção estadual é medida excepcional, uma vez que a regra é a autonomia municipal, que
+foi, inclusive, alçada ao status de princípio constitucional sensível. Em razão disso, a intervenção
+estadual somente poderá ocorrer nas hipóteses taxativamente elencadas no art. 35, CF/88.
+Como ato político que é, a intervenção estadual compete ao Governador do Estado.
+No caso previsto no inciso IV, a representação é formulada pelo Procurador-Geral de Justiça.
+Caso haja provimento pelo Tribunal de Justiça, o Governador deverá decretar a intervenção
+estadual. Por outro lado, caso seja negado provimento pelo Tribunal de Justiça, não haverá que
+se falar em intervenção.
+Destaque-se, ainda, que a decisão do TJ que negar provimento à representação do
+Procurador-Geral de Justiça não poderá ser objeto de recurso extraordinário ao STF. Isso
+acontece porque essa decisão não é jurídica, possuindo, ao contrário, natureza
+político-administrativa.
+Segundo o entendimento do STF1, é inconstitucional norma constitucional estadual pela qual se
+preveja hipótese de intervenção estadual em municípios não contemplada no art. 35 da
+Constituição Federal (CF). Portanto, somente as hipóteses do art. 35 da CF/88 é que autorizam
+intervenção estadual em municípios, não tendo eficácia prática disposição de Constituição
+Estadual que vai além das hipóteses da CF/88.
+
+1
+    ADI 6616/AC, relatora Min. Cármen Lúcia, julgamento virtual ﬁnalizado em 26.4.2021.
+
+
+                                                                                                 88
+                                                                                                 230
+
+
+---
+
+       Súmula 637 – STF: Não cabe recurso extraordinário contra acórdão de Tribunal
+       de Justiça que defere pedido de intervenção estadual em Município.
+
+(Pref. Fortaleza-CE – 2023) Segundo o Supremo Tribunal Federal (STF), excepcionalmente, a
+constituição estadual pode, considerando que as situações previstas no art. 35 da Constituição
+Federal de 1988 são exemplificativas, elencar outras hipóteses de intervenção estadual.
+Comentários:
+A jurisprudência do STF é firme no sentido de que a Constituição Estadual não pode trazer
+hipóteses de intervenção estadual diferentes daquelas que são elencadas no art. 35 da CF/88.
+Este último artigo contempla um rol taxativo. Questão errada.
+(TELEBRAS – 2022) É constitucional norma de constituição estadual que preveja como hipótese
+de intervenção do estado-membro em município a prática comprovada de atos de corrupção na
+administração municipal.
+Comentários:
+Não há possibilidade de o constituinte derivado decorrente incluir, na Carta Estadual, outras
+hipóteses de intervenção de estado-membro em municípios além daquelas previstas no art. 35
+da CF/1988. Questão errada.
+(TRF 5ª Região – 2015) Caberá recurso extraordinário contra acórdão de tribunal de justiça que
+defira pedido de intervenção estadual em município.
+Comentários:
+Não é cabível recurso extraordinário contra decisão do TJ que defira a intervenção. Isso acontece
+porque essa decisão não é jurídica, possuindo, ao contrário, natureza político-administrativa
+Questão errada.
+
+                                                                                               89
+                                                                                              230
+
+
+---
+
+O Controle Político na Intervenção
+Sabe-se que a intervenção federal será decretada pelo Chefe do Poder Executivo. Para isso, ele
+edita um decreto. É o chamado decreto interventivo, que especificará a amplitude, o prazo e as
+condições de execução e, se couber, nomeará o interventor.
+Esse decreto será submetido à apreciação do Congresso Nacional (no caso de intervenção
+federal) ou da Assembleia Legislativa (no caso de intervenção estadual). A submissão do decreto
+ao Poder Legislativo irá ocorrer no prazo de 24 horas. Caso o Congresso ou a Assembleia
+Legislativa não estejam funcionando, será feita convocação extraordinária, no mesmo prazo de
+24 horas.
+Esse é, portanto, o controle político da intervenção, realizado pelo Poder Legislativo.
+Destaque-se que, caso haja a rejeição do decreto interventivo pelo Congresso Nacional ou pela
+Assembleia Legislativa, o Presidente da República ou o Governador deverá cessar a intervenção
+imediatamente.                               ==106d==
+
+O controle político do Poder Legislativo está dispensado nas seguintes situações:
+      a) Intervenção federal para prover a execução de lei federal, ordem ou decisão judicial;
+      b) Intervenção federal em caso de afronta aos princípios sensíveis da Constituição.
+Nesses casos (art. 34, VI e VII), a Constituição estabelece que, dispensada a apreciação pelo
+Congresso Nacional ou pela Assembleia Legislativa, o decreto limitar-se-á a suspender a
+execução do ato impugnado se essa medida bastar ao restabelecimento da normalidade. Caso,
+porém, essa medida não for suficiente para restabelecer a normalidade, o Presidente da
+República decretará a intervenção federal, que será submetida ao controle político do Congresso
+Nacional.
+Nos demais casos (art. 34, I, II, III, IV e V), uma das consequências da intervenção será o
+afastamento temporário das autoridades de seus cargos. Cessados os motivos da intervenção, as
+autoridades afastadas de seus cargos a estes voltarão, salvo impedimento legal.
+
+(TJDFT – 2014) A intervenção federal da União nos estados estará sempre sujeita ao controle
+político do Congresso Nacional, que apreciará o decreto interventivo.
+
+Comentários:
+
+Em determinadas situações, a intervenção federal não se sujeita ao controle político do
+Congresso Nacional. São elas as seguintes: a) intervenção federal para prover a execução de lei
+federal, ordem ou decisão judicial; b) intervenção federal em caso de afronta aos princípios
+sensíveis da Constituição.
+
+Questão errada.
+
+
+                                                                                                 90
+                                                                                                 230
+
+
+---
+
+                              QUESTÕES COMENTADAS
+
+Repartição de competências
+
+1.​   (FGV/PC-MG/Delegado de Polícia Substituto/2025) No Estado Alfa, constatou-se que um
+dos óbices à ampliação do número de habitações atendidas pelo saneamento básico decorria do
+elevado custo envolvido, que não era suportado por muitos municípios.
+
+Por essa razão, foram iniciados estudos, pelo Poder Executivo do referido ente federativo com o
+objetivo de identificar se Alfa poderia, ou não, editar um padrão normativo que, de alguma
+maneira, disciplinasse a sua participação no processo decisório relacionado à exploração do
+referido serviço.
+
+Ao fim dos estudos, constatou-se corretamente que
+
+A)​    é competência privativa da União legislar sobre águas, logo, o objetivo alvitrado não pode
+ser alcançado por norma estadual.
+
+B)​   é possível que uma lei complementar estadual congregue os entes federativos municipais
+em uma estrutura territorial, com órgãos próprios, de adesão facultativa e maioria de votos de
+Alfa.
+
+C)​    é possível a edição de lei ordinária estadual que crie uma estrutura territorial, com órgãos
+próprios, à qual os municípios limítrofes possam voluntariamente aderir, que passará a gerir o
+serviço.
+
+D)​   o serviço de saneamento consubstancia típico interesse local, logo, é matéria de
+competência privativa dos municípios, que não lhes pode ser subtraída, sob pena de afronta à
+sua autonomia política.
+
+E)​     é possível a edição de norma estadual específica, que imponha a adesão dos municípios
+limítrofes a uma estrutura territorial, com órgãos próprios, nos quais Alfa, embora possa
+participar, não deve contar com a maioria dos votos.
+
+Comentários:
+
+LETRA A. INCORRETA. De fato, legislar sobre águas é competência privativa da União (art. 22, IV,
+CF). No entanto, promover programas de construção de moradias e a melhoria das condições
+habitacionais e de saneamento básico é competência comum de todos os entes federados
+(União, Estados, Distrito Federal e Municípios), segundo artigo 23, IX, CF.
+
+LETRA B. INCORRETA. É compulsória! O STF ao julgar a ADI 1842 entendeu: “A função pública
+do saneamento básico frequentemente extrapola o interesse local e passa a ter natureza de
+interesse comum no caso de instituição de regiões metropolitanas, aglomerações urbanas e
+microrregiões, nos termos do art. 25, § 3º, da Constituição Federal. Para o adequado
+atendimento do interesse comum, a integração municipal do serviço de saneamento básico pode
+
+
+                                                                                                92
+                                                                                                268
+
+
+---
+
+ocorrer tanto voluntariamente, por meio de gestão associada, empregando convênios de
+cooperação ou consórcios públicos, consoante o arts. 3º, II, e 24 da Lei Federal 11.445/2007 e o
+art. 241 da Constituição Federal, como compulsoriamente, nos termos em que prevista na lei
+complementar estadual que institui as aglomerações urbanas”.
+
+LETRA C. INCORRETA. Lei ordinária não é o instrumento normativo adequado para o caso em
+virtude da previsão constante no artigo 25, § 3º, CF: § 3º Os Estados poderão, mediante lei
+complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões,
+constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o
+planejamento e a execução de funções públicas de interesse comum.
+
+LETRA D. INCORRETA. Como decidido pelo STF no julgamento da ADI 1842/RJ, a função
+pública do saneamento básico frequentemente extrapola o interesse local e passa a ter natureza
+de interesse comum no caso de instituição de regiões metropolitanas, aglomerações urbanas e
+microrregiões, nos termos do art. 25, § 3º, da Constituição Federal.
+
+LETRA E. CORRETA. Gabarito da questão! Realmente, é possível a edição de norma estadual
+específica, que imponha a adesão dos municípios limítrofes a uma estrutura territorial, com
+órgãos próprios, nos quais Alfa, embora possa participar, não deve contar com a maioria dos
+votos. De acordo com o STF, em seu julgado da ADI 1842:
+
+                     (…) 4. Aglomerações urbanas e saneamento básico. O art. 23, IX, da
+                     Constituição Federal conferiu competência comum à União, aos estados e
+                     aos municípios para promover a melhoria das condições de saneamento
+                     básico. Nada obstante a competência municipal do poder concedente do
+                     serviço público de saneamento básico, o alto custo e o monopólio natural
+                     do serviço, além da existência de várias etapas – como captação,
+                     tratamento, adução, reserva, distribuição de água e o recolhimento,
+                     condução e disposição final de esgoto – que comumente ultrapassam os
+                     limites territoriais de um município, indicam a existência de interesse comum
+                     do serviço de saneamento básico. A função pública do saneamento básico
+                     frequentemente extrapola o interesse local e passa a ter natureza de
+                     interesse comum no caso de instituição de regiões metropolitanas,
+                     aglomerações urbanas e microrregiões, nos termos do art. 25, § 3º, da
+                     Constituição Federal. Para o adequado atendimento do interesse comum, a
+                     integração municipal do serviço de saneamento básico pode ocorrer tanto
+                     voluntariamente, por meio de gestão associada, empregando convênios de
+                     cooperação ou consórcios públicos, consoante o arts. 3º, II, e 24 da Lei
+                     Federal 11.445/2007 e o art. 241 da Constituição Federal, como
+                     compulsoriamente, nos termos em que prevista na lei complementar
+                     estadual que institui as aglomerações urbanas. (...).”
+
+Gabarito: Letra E.
+
+2.​   (FGV/TCE-PI/Auditor de Controle Externo/2025) Após ampla mobilização popular, o
+Município Alfa editou a Lei municipal nº X, dispondo que os jovens de até vinte e um anos de
+
+
+                                                                                               93
+                                                                                               268
+
+
+---
+
+idade teriam direito a concessão de desconto de 50% sobre o preço do ingresso cobrado por
+casas de diversões situadas em seu território.
+
+Esse diploma normativo foi muito festejado no ambiente social, pois nem a legislação do Estado
+em cujo território Alfa está situado nem a legislação da União contêm preceito similar. Apesar
+disso, a associação dos empresários do setor, os quais teriam seus lucros reduzidos, criticou
+duramente a Lei municipal nº X, tendo solicitado que um especialista analisasse a sua
+conformidade constitucional, mais especificamente se Alfa poderia legislar sobre a matéria.
+
+Assinale a opção que apresenta o esclarecimento correto dado à associação.
+
+(A) Compete privativamente à União legislar sobre produção e consumo, logo, a Lei municipal nº
+X é inconstitucional nesse aspecto.
+
+(B) O Município Alfa somente tem competência para legislar sobre a matéria se houver lei
+complementar federal autorizativa.
+
+(C) Todos os entes federativos possuem competência legislativa comum para legislar sobre lazer,
+logo, a Lei municipal nº X é constitucional nesse aspecto.
+
+(D) Se trata de típico interesse local, logo, Alfa tem competência privativa para legislar sobre a
+matéria, o que torna a Lei municipal nº X constitucional nesse aspecto.
+
+(E) O Município Alfa pode suplementar a legislação federal e estadual em matéria de direito
+econômico, logo, a Lei municipal nº X é constitucional nesse aspecto.
+
+Comentários:
+
+LETRA A. INCORRETA. O disposto no enunciado trata de matéria de direito econômico e não de
+produção e consumo. Pegadinha da FGV!
+
+LETRA B. INCORRETA. A Constituição não impõe a edição de lei complementar para que os
+Municípios tenham competência para suplementar sobre matéria de competência concorrente
+entre a União, conforme o art. 30, inciso II da CRFB/88.
+
+LETRA C. INCORRETA. A hipótese aduzida pelo enunciado não se trata de lazer, mas sim sobre
+direito econômico. (art. 24, inciso I da CRFB/88)
+
+LETRA D. INCORRETA. De forma alguma. A matéria tratada no enunciado é de competência
+concorrente e não privativa do Município. A lei municipal nº X é constitucional, porque ela
+suplementa a lei federal e estadual, de acordo com os art. 24, inciso I e 30, inciso II da CRFB/88.
+
+LETRA E. CORRETA. É o nosso gabarito. A Constituição possibilita que os Municípios
+suplementem lei federal e estadual naquilo que couber. O enunciado trata de direito econômico,
+que é matéria de competência legislativa concorrente entre a União, Estados e DF. Desse modo,
+é possível que a Lei Municipal suplemente tal matéria, logo, a lei nº X é constitucional, de acordo
+com os art. 24, inciso I e 30, inciso II da CRFB/88.
+
+Vale destacar que o art. 24 da CRFB não menciona expressamente os Municípios. Todavia,
+cumpre destacar que o Supremo Tribunal Federal (RE 586224/STF) entende que o Município
+
+
+                                                                                                 94
+                                                                                                268
+
+
+---
+
+pode legislar sobre assuntos de interesse local, nos termos do art. 30 da CRFB/88, desde que
+traga questões atinentes ao próprio município.
+
+Gabarito: Letra E.
+
+3.​     (FGV/TCE-RR/Analista Administrativo/2025) Com o objetivo de reduzir os grandes
+impactos ao meio-ambiente ocasionados pela exploração de recursos minerais, o Município
+Beta, ao aprovar o seu plano diretor, veiculado pela Lei municipal no X, definiu as áreas do seu
+território em que essa exploração seria permitida. A medida, apesar de muito comemorada pela
+coletividade, foi duramente criticada pelas sociedades empresárias que exploram essa atividade
+econômica, o que redundou em discussões a respeito da conformidade constitucional do
+referido diploma normativo.
+
+À luz da sistemática constitucional, é correto afirmar que a Lei municipal nº X é
+
+a) constitucional, pois se trata de típico interesse local.
+b) inconstitucional, pois compete privativamente à União legislar sobre a matéria.
+c) constitucional, pois todos os entes federativos têm competência concorrente para proteger o
+meio ambiente.
+d) inconstitucional, pois o Estado em que Beta está localizado possui competência residual para
+legislar sobre a matéria.
+e) inconstitucional, pois a matéria já é disciplinada pela ordem constitucional, não havendo a
+possibilidade de incursão legislativa por nenhum ente federativo.
+
+Comentários:
+
+LETRA A. INCORRETA. Pessoal, os recursos minerais são matérias de competência privativa da
+União, não sendo permitido que os Municípios editem normas sobre o tema, casos contrário, a
+norma será declarada inconstitucional (art. 22, inciso XII da CRFB/88).
+
+LETRA B. CORRETA. É o nosso gabarito! A Lei municipal nº X deve ser declarada inconstitucional,
+uma vez que fere a competência privativa da União, já cabe só a ela editar normas que versem
+sobre recursos minerais, de acordo com o art. 22, inciso XII da CRFB/88:
+
+                      Art. 22. Compete privativamente à União legislar sobre:
+
+                      XII - jazidas, minas, outros recursos minerais e metalurgia;
+
+LETRA C. INCORRETA. Primeiramente, é competência comum da União, Estados, DF e
+Municípios proteger o meio ambiente. Ademais, a hipótese aduzida no enunciado não versa
+sobre o meio ambiente, mas sim sobre exploração dos recursos minerais, sendo essa matéria de
+
+                                                                                             95
+                                                                                             268
+
+
+---
+
+competência privativa da União. Portanto, a Lei municipal nº X deve ser declarada
+inconstitucional por violação de competência, de acordo com o art. 22, inciso XII da CRFB/88.
+
+LETRA D. INCORRETA. De fato, deve ser declarada inconstitucional, no entanto, o motivo é a
+violação de competência, já que cabe privativamente à União legislar sobre a exploração dos
+recursos minerais, consoante art. 22, inciso XII da CRFB/88. Ademais, tal competência não é
+residual da União, podendo os Estados legislarem sobre questões específicas sobre o tema,
+desde que haja lei complementar que autorize.
+
+LETRA E. INCORRETA. De forma alguma! É possível que a União e os Estados editem normas
+sobre a exploração dos recursos minerais. No entanto essa matéria só pode ser utilizada pelos
+Estados se houver lei complementar que autorize, de acordo com o parágrafo único do art. 22 da
+CRFB/88.
+
+Gabarito: Letra B.
+
+4.​     (FGV/TCE-RR/Auditor de Controle Externo/2025) O Município Alfa, importante polo
+turístico do Estado Beta, editou a Lei municipal nº X, dispondo que a instalação de obra ou
+atividade potencialmente causadora de significativa degradação do bioma típico do território
+municipal estaria condicionada à realização de estudo prévio de impacto ambiental.
+
+Apesar desse diploma normativo ter sido muito comemorado pelos ambientalistas, foi
+duramente criticado pelos setores econômicos atingidos, que teriam os seus custos ampliados
+em razão do estudo exigido, passando a sustentar a sua inconstitucionalidade.
+
+À luz da sistemática constitucional, é correto afirmar que a Lei municipal no X incursionou em
+matéria de competência legislativa
+
+a) privativa de Alfa, logo é constitucional.
+b) comum entre todos os entes federativos, devendo prevalecer o interesse mais específico, in
+casu, o local, logo é constitucional.
+c) privativa da União, logo é inconstitucional, salvo se houver lei complementar federal
+autorizando o exercício dessa competência pelos Municípios.
+d) concorrente entre a União, os Estados e o Distrito Federal, logo os Municípios somente
+podem discipliná-la à falta de norma de nível federativo mais elevado.
+e) concorrente entre a União, os Estados e o Distrito Federal, mas os Municípios podem
+suplementar as normas existentes em prol do interesse local, logo é constitucional.
+
+Comentários:
+
+                                                                                            96
+                                                                                           268
+
+
+---
+
+LETRA A. INCORRETA. Totalmente equivocada! Não há previsão na Constituição Federal de
+matéria de competência privativa dos Municípios.
+
+LETRA B. INCORRETA. Não se trata de matéria comum entre os entes federados, mas sim de
+competência concorrente entre a União, Estados e DF, de acordo com o art. 24, inciso VI da
+CRFB/88. No entanto, a Constituição possibilita que os Municípios podem, tanto legislar sobre
+assunto de interesse local, como pode suplementar lei federal e estadual no que couber:
+
+                     Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar
+                     concorrentemente sobre:
+
+                     VI - florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e
+                     dos recursos naturais, proteção do meio ambiente e controle da poluição;
+
+                     Art. 30. Compete aos Municípios:
+
+                     I - legislar sobre assuntos de interesse local;
+
+                     II - suplementar a legislação federal e a estadual no que couber;
+
+LETRA C. INCORRETA. Legislar sobre a proteção do meio ambiente é matéria de competência
+concorrente entre a União, Estados e DF. No entanto, os municípios podem legislar sobre
+assuntos de interesse local ou suplementar as normas federal e estadual naquilo que couber.
+Assim, a Lei municipal nº X é constitucional, consoante art. 30, incisos I e II da CRFB/88.
+
+LETRA D. INCORRETA. Apesar de se matéria de competência legislativa concorrente entre a
+União, Estados e DF, os Municípios pode legislar sobre assuntos de interesse local, bem como
+pode suplementar a legislação federal e estadual, naquilo que couber, de acordo com o art. 30,
+incisos I e II da CRFB/88.
+
+LETRA E. CORRETA. Exatamente! O disposto no enunciado trata-se de matéria de competência
+legislativa concorrente entre a União, Estados e DF. No entanto, o Texto Constitucional possibilita
+aos Municípios, suplementar a legislação federal e estadual, no que couber. Portanto, a Lei
+municipal nº X é constitucional.
+
+Gabarito: Letra E.
+
+5.​    (FGV/PC-MG/Perito Criminal/2025) O Estado Alfa, no exercício da competência legislativa
+concorrente em matéria de integração de pessoas com determinada espécie de deficiência,
+editou a Lei Estadual nº X. Em momento posterior, a União, que ainda não tinha legislado sobre
+essa matéria em particular, editou a Lei Federal nº Y, estabelecendo normas gerais a respeito da
+temática em sentido diametralmente oposto ao da referida lei estadual. Considerando a situação
+descrita, é correto afirmar que
+
+
+                                                                                                97
+                                                                                                268
+
+
+---
+
+a) a Lei Estadual nº X foi revogada.
+b) a eficácia da Lei Estadual nº X está suspensa.
+c) a Lei Estadual nº X continuará a ser aplicada pelo período indicado na Lei Federal nº Y.
+d) a Lei Estadual nº X, em razão do princípio da especialidade, continuará a ser aplicada em Alfa.
+e) a Lei Estadual nº X continuará a ser aplicada nos 12 meses subsequentes à entrada em vigor da
+Lei Federal nº Y.
+
+Comentários:
+
+LETRA A. INCORRETA. Atenção! A lei estadual não é revogada, mas tem a sua eficácia suspensa,
+em de ser oposta lei federal superveniente (art. 24, § 4º da CRFB/88).
+
+LETRA B. CORRETA. É o nosso gabarito! A Constituição permite que na falta de lei federal, o
+Estado legisle sobre matérias de competência corrente, para atender às suas peculiaridades. No
+entanto, na superveniência de lei federal, que versa sobre as normas gerais, a norma estadual
+terá sua eficácia suspensa, no que lhe for contrária, conforme art. 24, §§ 3º e 4º da CRFB/88:
+
+                     Art. 24 (...)
+
+                     § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a
+                     competência legislativa plena, para atender a suas peculiaridades.
+
+                     § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                     da lei estadual, no que lhe for contrário.
+
+LETRA C. INCORRETA. A lei estadual não continuará a ser aplicada, na verdade ela terá sua
+eficácia suspensa, já que seu conteúdo vai de encontro a lei federal superveniente, conforme art.
+24, § 4º da CRFB/88.
+
+LETRA D. INCORRETA. A eficácia da norma estadual deve ser suspensa, em razão de contrair a
+lei federal superveniente. Quanto ao princípio da especialidade, não se aplica no caso em
+questão.
+
+LETRA E. INCORRETA. Não! A lei estadual não deve ser aplicada, já que com a superveniência
+da lei federal, ela terá sua eficácia suspensa, em razão da sua contrariedade, de acordo com o §
+4º do art. 24 da CRFB/88.
+
+Gabarito: Letra B.
+
+6.​   (FGV/TCE-PA/Auditor de Controle Externo/2024) O estado Alfa, no exercício da
+competência legislativa concorrente com a União, editou a Lei nº W, dispondo sobre diversos
+aspectos afetos à inovação. Em momento posterior, a União, que ainda não tinha legislado sobre
+
+                                                                                                98
+                                                                                                268
+
+
+---
+
+a matéria, editou a Lei nº X, dispondo sobre as normas gerais, de caráter nacional, a serem
+observados pelos entes subnacionais, em sentido totalmente contrário ao da Lei nº W.
+
+Alguns anos depois, a União editou a Lei nº Y, que apenas revogou a Lei nº X, o que permite
+concluir que a Lei nº W:
+
+a) readquiriu validade;
+
+b) permanece revogada;
+
+c) voltou a produzir efeitos;
+
+d) foi automaticamente repristinada;
+
+e) somente seria repristinada se houvesse previsão expressa nesse sentido, o que não ocorreu.
+
+Comentário:
+
+LETRA A. INCORRETA. Em razão de haver conflito entre a lei estadual e a lei federal
+superveniente, a norma estadual teve sua eficácia suspensa, de acordo com o § 4º do art. 24 da
+CRFB/88, o que significa que não estava produzindo efeitos no período de vigência da Lei nº X,
+mas continuava válida nesse mesmo período. Além disso, o nosso ordenamento jurídico não
+permite a repristinação de norma de forma automática, devendo ser expressamente declarada.
+
+                      § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                      da lei estadual, no que lhe for contrário.
+
+                      Decreto-Lei nº 4.657/42
+
+                      Art. 2º (...)
+
+                      § 3o Salvo disposição em contrário, a lei revogada não se restaura por ter a
+                      lei revogadora perdido a vigência.
+
+LETRA B. INCORRETA. Cuidado com a pegadinha! A Lei estadual nº W não foi revogada, apenas
+teve a sua eficácia suspensa, já que conflitava com a Lei federal nº X. Logo, a com revogação da
+lei federal, a norma estadual voltará a produzir seus efeitos, conforme art. 24, § 4º da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! A lei estadual W voltou a produzir efeitos, porque no
+período de vigência da Lei federal, em razão do conflito, ela teve seus efeitos suspensos. No
+entanto, com a revogação da lei federal, a norma estadual voltou a produzir seus efeitos,
+conforme art. 24, § 4º da CRFB/88:
+
+                      § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                      da lei estadual, no que lhe for contrário.
+
+LETRA D. INCORRETA. De forma alguma! Não houve revogação da lei estadual, ela apenas teve
+seus efeitos suspensos. Além disso, não é possível a repristinação de forma automática, apenas é
+permitido se for expressamente previsto, de acordo com o Decreto-Lei n 4.657/42:
+
+                      Art. 2º (...)
+
+                                                                                                99
+                                                                                                268
+
+
+---
+
+                      § 3o Salvo disposição em contrário, a lei revogada não se restaura por ter a
+                      lei revogadora perdido a vigência.
+
+LETRA E. INCORRETA. O nosso ordenamento jurídico apenas permite a repristinação se for
+devidamente expresso em lei. No entanto, o caso em análise não se trata de repristinação,
+porque não se trata de lei revogada, mas sim de lei que teve sua eficácia suspensa por conflito
+de matéria com a lei federal.
+
+Gabarito: Letra C.
+
+7.​    (FGV/Prefeitura de Vitória-ES/GCM Guarda Municipal/2024) Roger, após ser eleito
+Prefeito do Município Alfa, busca informações, junto aos seus assessores, sobre temáticas que
+ingressam na competência material comum dos entes federativos, visando à implementação das
+suas promessas de campanha, tão logo seja empossado no cargo público. Nesse cenário,
+considerando as disposições da Constituição Federal, é competência comum da União, dos
+Estados, do Distrito Federal e dos Municípios
+
+a) instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e
+transportes urbanos.
+
+b) exercer a classificação, para efeito indicativo, de diversões públicas e de programas de rádio e
+televisão.
+
+c) organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei.
+
+d) autorizar e fiscalizar a produção e o comércio de material bélico.
+
+e) preservar as florestas, a fauna e a flora.
+
+Comentários:
+
+LETRA A. INCORRETA. A instituição de diretrizes para o desenvolvimento urbano, incluindo
+habitação, saneamento básico e transporte urbano é competência apenas da União, de acordo
+com o art. 21, inciso XX da CRFB/88:
+
+                      XX - instituir diretrizes para o desenvolvimento urbano, inclusive habitação,
+                      saneamento básico e transportes urbanos;
+
+LETRA B. INCORRETA. Trata-se de competência da União, de acordo com o art. 21, inciso XVI da
+CRFB/88:
+
+                      XVI - exercer a classificação, para efeito indicativo, de diversões públicas e
+                      de programas de rádio e televisão;
+
+LETRA C. INCORRETA. É competência da União organizar e fiscalizar a proteção e o tratamento
+de dados pessoais, nos termos da lei, consoante art. 21, inciso XXVI da CRFB/88:
+
+                      XXVI - organizar e fiscalizar a proteção e o tratamento de dados pessoais,
+                      nos termos da lei.
+
+                                                                                                 100
+                                                                                                 268
+
+
+---
+
+LETRA D. INCORRETA. Apenas a União pode autorizar e fiscalizar a produção e comercialização
+de material bélico, de acordo com o art. 21, inciso VI da CRFB/88:
+
+                     I - autorizar e fiscalizar a produção e o comércio de material bélico;
+
+LETRA E. CORRETA. É o nosso gabarito! É de competência comum da União, Estados, DF e
+Municípios preservar as florestas, fauna e flora, consoante art. 23, inciso VII da CRFB/88:
+
+                     VII - preservar as florestas, a fauna e a flora;
+
+Gabarito: Letra E.
+
+8.​   (FGV/STN/Auditor Federal de Finanças e Controle/2024) O Estado Beta editou a Lei
+estadual nº Y, dispondo, no território estadual, sobre determinada temática afeta à ciência, à
+tecnologia e à pesquisa. Poucos dias depois, sobreveio a Lei federal nº W, editada pela União,
+ente federativo que ainda não tinha incursionado nessa temática. Os comandos deste último
+diploma normativo, que veiculou os aspectos básicos da disciplina normativa da referida
+temática, de modo a estabelecer um tratamento uniforme em todos os quadrantes da
+Federação, dispuseram em sentido diametralmente oposto ao da Lei estadual nº X.
+
+Considerando os balizamentos oferecidos pela sistemática constitucional, é correto afirmar que
+
+a) a Lei federal nº W revogou a Lei estadual nº X.
+
+b) a Lei federal nº W avançou em matéria de competência legislativa estadual, sendo, portanto,
+inconstitucional.
+
+c) apesar de ter a sua eficácia suspensa, com a superveniência da Lei federal nº W, a Lei estadual
+nº X continua válida.
+
+d) a lei federal nº W e a lei estadual nº X coexistirão na ordem jurídica, sendo que esta última
+somente será aplicada no âmbito do Estado Beta.
+
+e) como o Estado Beta incursionou em matéria de competência privativa da União, a Lei estadual
+nº X era inválida, logo, a Lei federal nº W não produziu nenhum efeito útil sobre ela.
+
+Comentário:
+
+LETRA A. INCORRETA. A lei federal nº W não revogou a Lei estadual nº X, esta apenas teve sua
+eficácia suspensa em razão de serem conflitantes, de acordo com art. 24, § 4º da CRFB/88:
+
+                     § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                     da lei estadual, no que lhe for contrário.
+
+LETRA B. INCORRETA. Por se tratar de matéria de competência concorrente, à União compete a
+edição de norma geral sobre o tema, logo é constitucional (art. 24, § 1º da CRFB/88).
+
+LETRA C. CORRETA. É o nosso gabarito! Pelas leis serem conflitantes, a norma estadual terá sua
+eficácia suspensa, no entanto continua válida, de acordo com art. 24, § 4º da CRFB/88:
+
+                                                                                               101
+                                                                                               268
+
+
+---
+
+                     § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                     da lei estadual, no que lhe for contrário.
+
+LETRA D. INCORRETA. Se existir conflito entre as normas, a lei estadual deverá ter sua eficácia
+suspensa, sendo apenas a lei federal aplicada, inclusive no Estado Beta, de acordo com art. 24, §
+4º da CRFB/88.
+
+LETRA E. INCORRETA. Na verdade, trata-se de matéria concorrente, assim o Estado Beta não
+violou a competência da União ao legislar sobre ciência, tecnologia e pesquisa, conforme art. 24,
+inciso IX da CRFB/88:
+
+                     IX - educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa,
+                     desenvolvimento e inovação;
+
+Gabarito: Letra C.
+
+9.​    (FGV/TCE-PA/Auditor de Controle Externo/2024) XX, Deputado Estadual no âmbito da
+Assembleia Legislativa do Estado do Pará, almejava apresentar projeto de lei sobre determinada
+temática. Após alentada análise de sua assessoria, foi constatado que a referida temática se
+inseria no rol de competências legislativas privativas da União. Além disso, também se verificou
+que a União ainda não tinha editado uma lei disciplinando a referida temática.
+
+À luz da Constituição do Estado do Pará, é correto afirmar, em relação à competência legislativa
+da Assembleia Legislativa do Estado do Pará, que esse ente
+
+a) pode legislar sobre a temática, se houver autorização da União por meio de lei complementar.
+
+b) não pode legislar sobre a temática, não sendo possível a concessão de autorização ou de
+delegação pela União.
+
+c) somente pode legislar sobre a temática nos casos em que a Constituição da República adota o
+instituto do reenvio.
+
+d) pode legislar sobre a temática, sendo que a superveniência da lei da União revogará a lei
+estadual, caso dela destoe.
+
+e) pode legislar sobre a temática, sendo que a superveniência da lei da União suspenderá a
+eficácia da lei estadual, caso dela destoe.
+
+Comentário:
+
+LETRA A. CORRETA. De cara, o nosso gabarito! É possível que os Estados venham a legislar
+sobre matérias de competência privativa da União, desde que haja Lei complementar
+autorizando, de acordo com o parágrafo único do art. 22 da CRFB/88:
+
+                     Parágrafo único. Lei complementar poderá autorizar os Estados a legislar
+                     sobre questões específicas das matérias relacionadas neste artigo.
+
+LETRA B. INCORRETA. Veja bem, a Constituição Federal permite a delegação realizada pela
+União, através de lei complementar, para Estados legislarem sobre normas gerais de acordo com
+o parágrafo único do art. 22 da CRFB/88.
+
+                                                                                              102
+                                                                                              268
+
+
+---
+
+LETRA C. INCORRETA. Nada a ver! Os Estados apenas podem legislar sobre matéria de
+competência privativa da União, se houver delegação, através da edição de lei complementar
+autorizando, conforme parágrafo único do art. 22 da CRFB/88.
+
+LETRA D. INCORRETA. Estamos diante de matéria de competência privativa da União, isso
+significa que apenas é possível que os Estados legislem sobre essas matérias se houver edição de
+lei complementar autorizando, conforme parágrafo único do art. 22 da CRFB/88.
+
+LETRA E. INCORRETA. Essa regra se aplica no caso de competência concorrente. O caso em
+análise, trata de competência privativa, sendo apenas possível que os Estados legislem sobre
+matérias desse âmbito se houver delegação, através da edição de lei complementar autorizando,
+conforme parágrafo único do art. 22 da CRFB/88.
+
+Gabarito: Letra A.
+
+10.​ (FGV/TCE-PA/Auditor de Controle Externo/2024) O Deputado Estadual Pedro pretendia
+apresentar à Assembleia Legislativa do Estado Delta projeto de lei versando sobre matéria de
+competência legislativa concorrente entre a União, os Estados e o Distrito Federal. Após
+promover alentada busca, constatou que nem a União nem o Estado Delta tinha legislado sobre
+a matéria.
+
+À luz da divisão constitucional de competências, Pedro concluiu corretamente que o Estado
+Delta
+
+a) somente pode legislar sobre a matéria após a União.
+
+b) pode legislar sobre a matéria, desde que seja expressamente autorizado pela União.
+
+c) pode legislar sobre a matéria, sendo que a superveniência de normas gerais da União
+revogará a lei estadual na hipótese de colidência.
+
+d) pode legislar sobre a matéria, sendo que a superveniência de normas gerais da União
+suspenderá a eficácia da lei estadual na hipótese de colidência.
+
+e) pode legislar sobre a matéria, sendo que a superveniência de normas gerais da União não terá
+influência sobre a lei estadual, ainda que sejam colidentes.
+
+Comentário:
+
+LETRA A. INCORRETA. Na ocasião de competência concorrente, em que há ausência de lei
+federal, o Estado exercerá a competência legislativa plena (art. 24, § 3º CRFB/88).
+
+LETRA B. INCORRETA. Não é necessário autorização da União, uma vez que se trata de
+competência concorrente, cabendo aos Estados legislar para atender às suas peculiaridades, de
+acordo com art. 24, § 3º da CRFB/88.
+
+LETRA C. INCORRETA. Não! A superveniência de normas gerais da União não revoga a lei
+estadual, mas apenas suspende sua eficácia na hipótese de colidência (art. 24, § 4º, CRFB/88).
+
+                                                                                             103
+                                                                                             268
+
+
+---
+
+LETRA D. CORRETA. É o nosso gabarito! O Estado Delta pode legislar sobre a matéria,
+exercendo a competência plena. Na hipótese de superveniência de lei federal, havendo conflito
+entre elas, a norma estadual terá sua eficácia suspensa, conforme art. 24, § 4º da CRFB/88:
+
+                     § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                     da lei estadual, no que lhe for contrário.
+
+LETRA E. INCORRETA. De forma alguma! Com a superveniência de lei federal, ocorrendo conflito
+entre as normas, a lei estadual terá sua eficácia suspensa (art. 24, § 4º da CRFB/88)
+
+Gabarito: Letra D.
+
+11.​ (FGV/TRF 1ª Região/Analista Judiciário – Área Administrativa/2024) O estado Alfa, à
+mingua de normas da União disciplinando a respectiva temática, editou a Lei estadual nº X. Em
+momento posterior, a União editou a Lei nº Y, em sentido diametralmente oposto ao da Lei
+estadual nº X.
+
+Considerando os balizamentos estabelecidos pela ordem constitucional, é correto afirmar que a
+Lei nº Y:
+
+a) não deve ser aplicada no território de Alfa, enquanto a Lei estadual nº X permanecer em vigor;
+
+b) revoga a Lei estadual nº X, mas apenas se a temática estiver inserida na competência
+legislativa privativa da União;
+
+c) deve ser considerada nula, considerando o princípio federativo da especialização legislativa
+nos entes de menor proporção;
+
+d) suspende a eficácia da Lei estadual nº X, caso veicule normas gerais e a matéria se insira na
+competência legislativa concorrente;
+
+e) revoga a Lei estadual nº X se a temática estiver inserida na competência legislativa privativa da
+União ou na competência legislativa concorrente.
+
+Comentários:
+
+LETRA A. INCORRETA. Se a lei estadual tratar de matéria de competência concorrente e houver
+conflito entre as normas federal e estadual, a lei federal será aplicada em todo território nacional,
+ocorrendo a suspensão de efeitos da lei estadual (art. 24, § 4º , CRFB/88.
+
+LETRA B. INCORRETA. Totalmente equivocada! Se a matéria tratar de competência privativa da
+União, a lei estadual será decretada inconstitucional. Em contrapartida, se a matéria for de
+competência concorrente, a Lei federal não revoga a lei estadual. O que pode ocorrer é a
+suspensão da eficácia da norma estadual, se houver conflito entre as leis (24, § 4º, CRFB/88).
+
+LETRA C. INCORRETA. Não! A norma estadual não deve ser declarada nula. O enunciado nos faz
+entender que se trata de matéria de competência concorrente e nesse caso, com a
+superveniência de lei federal, a norma estadual sofrerá suspensão na sua eficácia, se houver
+conflito entre elas, conforme 24, § 4º da CRFB/88.
+
+                                                                                                  104
+                                                                                                  268
+
+
+---
+
+LETRA D. CORRETA! Exatamente! Na ocasião de competência legislativa concorrente e na
+ausência de norma geral federal, os Estados poderão exercer a competência legislativa plena. No
+entanto, com a superveniência da norma geral, a lei estadual poderá sofrer suspensão na sua
+eficácia, naquilo que lhe for contrário conforme 24, §§ 3º e 4º da CRFB/88:
+
+                     § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a
+                     competência legislativa plena, para atender a suas peculiaridades.
+
+                     § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                     da lei estadual, no que lhe for contrário.
+
+LETRA E. INCORRETA. Muita atenção, pessoal! Não se trata de revogação da norma. Se
+houvesse violação de competência, a lei seria decretada inconstitucional. Ademais, na hipótese
+de ser matéria de competência concorrente, a lei estadual pode sofrer suspensão da sua eficácia
+naquilo que lhe for contrário conforme 24, § 4º da CRFB/88.
+
+Gabarito: Letra D.
+
+12.​ (FGV/TRF 1ª Região/Técnico Judiciário – Área Administrativa/2024) Maria, deputada
+estadual junto à Assembleia Legislativa do estado Alfa, almejava apresentar um projeto de lei
+versando sobre questão afeta ao direito civil. Por tal razão, consultou sua assessoria sobre a
+possibilidade, ou não, de a lei estadual incursionar nessa matéria.
+
+Foi corretamente esclarecido a Maria que a matéria é de competência legislativa:
+
+a) residual, indicativo de que se trata de matéria de competência implícita dos estados e do
+Distrito Federal;
+
+b) privativa da União, o que não obsta o seu exercício pelos estados e pelo Distrito Federal nos
+termos do disposto em lei ordinária;
+
+c) privativa da União, indicativo de que não pode ser exercida pelos estados e pelo Distrito
+Federal, salvo se houver autorização daquele ente federativo;
+
+d) concorrente entre os estados, o Distrito Federal e a União, prevalecendo a lei estadual, em
+razão da prevalência do interesse local, caso conflite com a lei nacional;
+
+e) concorrente entre os estados, o Distrito Federal e a União; logo, a lei estadual pode versar
+sobre a temática, desde que observadas as normas gerais de caráter nacional.
+
+Comentário:
+
+LETRA A. INCORRETA. Claro que não! Não se trata de matéria de competência residual, tendo
+em vista que está expressamente previsto na Constituição Federal que compete privativamente à
+União legislar sobre Direito Civil, conforme art. 22, inciso I da CRFB/88:
+
+                     Art. 22. Compete privativamente à União legislar sobre:
+
+                     I - direito civil, comercial, penal, processual, eleitoral, agrário, marítimo,
+                     aeronáutico, espacial e do trabalho;
+
+                                                                                                105
+                                                                                                268
+
+
+---
+
+LETRA B. INCORRETA. Por se tratar de matéria de competência privativa da União, os demais
+entes federados não podem exercê-la, exceto se houver lei complementar editada pela União,
+que autorize, conforme parágrafo único do art. 22 da CRFB/88.
+
+LETRA C. CORRETA. Exatamente! As matéria de competência privativa da União, não podem ser
+objetos de leis dos demais entes federativos, apenas se houver a edição de lei complementar,
+pela própria União, autorizando seu exercício, conforme parágrafo único do art. 22 da CRFB/88:
+
+                     Parágrafo único. Lei complementar poderá autorizar os Estados a legislar
+                     sobre questões específicas das matérias relacionadas neste artigo.
+
+LETRA D. INCORRETA. A matéria de Direito Civil é de competência privativa da União,
+significando que os Estados, DF e Municípios não podem legislar sobre esse tema conforme art.
+22, inciso I da CRFB/88.
+
+LETRA E. INCORRETA. Não se trata de matéria de competência concorrente, mas sim privativa
+da União, não sendo possível que lei estadual verse sobre a temática, exceto se houver lei
+complementar que autorize, de acordo com o art. 22, inciso I e parágrafo único da CRFB/88.
+
+Gabarito: Letra C.
+
+13.​ (FGV/Câmara Municipal de Fortaleza-CE/Consultor Legislativo/2024) Antônio, Presidente
+da Câmara Municipal de Alfa, no meio da legislatura, iniciou estudos com o objetivo de
+aumentar o subsídio recebido pelos vereadores da Casa Legislativa.
+
+Ao analisar os balizamentos oferecidos pela Constituição da República em relação à medida
+alvitrada, Antônio concluiu corretamente que
+
+a) a fixação do novo valor recebe a influência de critérios demográficos.
+
+b) o valor é automaticamente atualizado com base no subsídio dos Deputados Federais.
+
+c) o novo valor somente se tornará eficaz no exercício financeiro seguinte ao da sua fixação.
+
+d) em razão da autonomia municipal, o novo valor não sofre balizamentos pelos subsídios
+adotados em outros níveis federativos.
+
+e) a fixação do novo valor deve levar em conta que a remuneração total dos vereadores não
+pode ultrapassar dez por cento da receita do Município Alfa.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! De acordo com a Constituição Federal, os subsídios dos
+vereadores têm como critério de fixação a quantidade de habitantes, consoante art. 29, inciso VI
+da CRFB/88:
+
+                     VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras
+                     Municipais em cada legislatura para a subsequente, observado o que dispõe
+                     esta Constituição, observados os critérios estabelecidos na respectiva Lei
+                     Orgânica e os seguintes limites máximos:
+
+                                                                                                106
+                                                                                                268
+
+
+---
+
+LETRA B. INCORRETA. De forma alguma! Os subsídios dos vereadores não se baseiam nos
+valores percebidos pelos Deputados Federais. O critério de fixação está vinculado a quantidade
+de habitantes no município em que cumpre mandato (art. 29, inciso VI, CRFB/88).
+
+LETRA C. INCORRETA. Atenção! Os novos valores dos subsídios apenas se tornam eficazes na
+legislatura seguinte à sua fixação, conforme art. 29, inciso VI da CRFB/88.
+
+LETRA D. INCORRETA. Claro que não! A fixação dos subsídios dos vereadores deve respeitar os
+critérios estabelecidos pela Constituição Federal (art. 29, inciso VI da CRFB/88).
+
+LETRA E. INCORRETA. A limitação dos subsídios dos vereadores não está relacionada a receita
+municipal, mas sim a quantidade de habitantes, conforme o art. 29, inciso VI da CRFB/88.
+
+Gabarito: Letra A.
+
+14.​ (FGV/Prefeitura de Caraguatatuba-SP/Procurador/2024) Maria, professora de Direito
+Municipal, instou João, seu aluno, a apresentar quatro características afetas ao regime
+estipendial dos vereadores.
+
+Em resposta, João, entre outras informações, afirmou que:
+
+I. é fixado em lei;
+
+II. é fixado em uma legislatura para viger na subsequente;
+
+III. a Câmara não pode gastar mais de sessenta por cento de sua receita com folha de
+pagamento, incluindo o gasto com subsídio dos Vereadores; e
+
+IV. o total da despesa com o estipêndio dos vereadores não pode superar cinco por cento da
+receita do Município.
+
+À luz da sistemática constitucional, em relação às respostas de João, está correto o que se afirma
+em
+
+a) I, II, III e IV.
+
+b) II e III, apenas.
+
+c) II e IV, apenas.
+
+d) I, III e IV, apenas.
+
+e) I, II e III, apenas.
+
+Comentário:
+
+LETRA A. INCORRETA. Os itens I e III estão errados. Quanto ao item I, os subsídios dos
+vereadores não são fixados por lei, mas sim pela Câmara Municipal, respeitando os limites
+estabelecidos no art. 29, inciso VI da CRFB/88. Já o III, está errado, porque a Câmara Municipal
+não pode gastar mais de setenta por cento de sua receita com folha de pagamento, incluindo os
+subsídios dos vereadores, conforme art. 29-A, § 1º
+
+                                                                                               107
+                                                                                               268
+
+
+---
+
+                     VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras
+                     Municipais em cada legislatura para a subsequente, observado o que dispõe
+                     esta Constituição, observados os critérios estabelecidos na respectiva Lei
+                     Orgânica e os seguintes limites máximos:
+
+                     Art. 29-A.
+
+                     § 1º - A Câmara Municipal não gastará mais de setenta por cento de sua
+                     receita com folha de pagamento, incluído o gasto com o subsídio de seus
+                     Vereadores.
+
+LETRA B. INCORRETA. Apenas o item II está correto, já que os subsídios dos vereadores serão
+fixados pelas Câmaras Municipais em uma legislatura, para viger na seguinte, conforme art. 29,
+inciso VI da CRFB/88:
+
+                     VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras
+                     Municipais em cada legislatura para a subsequente, observado o que dispõe
+                     esta Constituição, observados os critérios estabelecidos na respectiva Lei
+                     Orgânica e os seguintes limites máximos:
+
+LETRA C. CORRETA. É o nosso gabarito! Apenas os Itens II e IV está em conformidade com a
+Constituição. O Texto Constitucional expressa que a fixação dos subsídios dos vereadores ocorre
+em uma legislatura para viger na subsequente, conforme art. 29, inciso VI da CRFB/88. Além
+disso, a Constituição nos diz que o total de despesas com a remuneração dos vereadores não
+podem ultrapassar o percentual de 5% da receita do Município:
+
+                     VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras
+                     Municipais em cada legislatura para a subsequente, observado o que dispõe
+                     esta Constituição, observados os critérios estabelecidos na respectiva Lei
+                     Orgânica e os seguintes limites máximos:
+
+                     VII - o total da despesa com a remuneração dos Vereadores não poderá
+                     ultrapassar o montante de cinco por cento da receita do Município;
+
+LETRA D. INCORRETA. Apenas o item IV está correto. A Constituição estabelece que as
+despesas relativas aos subsídios dos vereadores não podem ultrapassar 5% da receita do
+Município, conforme art. 29, inciso VII da CRFB/88.
+
+LETRA E. INCORRETA. Os itens I e III estão em desconformidade com a Constituição Federal. I -
+não é necessário a edição de lei para fixar os subsídios dos vereadores, tendo em visto que são
+realizados pela Câmara Municipal, respeitando os limites estabelecidos no art. 29, inciso VI da
+CRFB/88. III - está errado, porque a Constituição prevê que a Câmara Municipal não pode gastar
+mais de setenta por cento de sua receita com folha de pagamento, incluindo os subsídios dos
+vereadores, conforme art. 29-A, § 1º.
+
+Gabarito: Letra C.
+
+15.​ (FGV/TCE GO/Auditor de Controle Externo/2024) O artigo 31 da Constituição Federal do
+Brasil estabelece que a fiscalização no âmbito municipal será conduzida pelo Poder Legislativo
+
+                                                                                            108
+                                                                                            268
+
+
+---
+
+Municipal, por meio de controle externo, e pelos sistemas de controle interno do Poder
+Executivo Municipal, conforme determinado pela legislação.
+
+Assinale a opção que indica o órgão que auxilia o controle externo da Câmara Municipal.
+
+a) Controladoria do Estado.
+
+b) Tribunal de Contas do Estado.
+
+c) Secretaria da Fazenda.
+
+d) Secretaria de Auditoria.
+
+e) Conselho de Controle.
+
+Comentário:
+
+LETRA A. INCORRETA. A Controladoria do Estado não atua diretamente no controle externo
+municipal.
+
+LETRA B. CORRETA. O Tribunal de Contas do Estado (TCE) tem a função de auxiliar o controle
+externo da Câmara Municipal, conforme previsto no artigo 31 da Constituição Federal.
+
+LETRA C. INCORRETA. A Secretaria da Fazenda é um órgão do Poder Executivo.
+
+LETRA D. INCORRETA. Auditorias podem ser feitas, mas não é um órgão reconhecido que atue
+como auxílio ao controle externo da Câmara Municipal.
+
+LETRA E. INCORRETA. Não existe uma figura formal chamada "Conselho de Controle".
+
+Gabarito: Letra B.
+
+16.​ (FGV/TJ-AP/2024) O deputado estadual João almejava apresentar projeto de lei
+disciplinando determinada matéria no território do Estado Sigma. Ao analisar a Constituição da
+República, com o objetivo de verificar se o estado poderia legislar sobre a matéria, constatou
+que se tratava de matéria de competência legislativa concorrente. Verificou, ainda, que a União
+não tinha legislado sobre a referida matéria.
+
+Por tal razão, João concluiu, corretamente, que:
+
+a) a falta de legislação da União impede que o estado legisle sobre a matéria;
+
+b) a falta de legislação da União não impede que o estado legisle sobre a matéria, sendo que a
+sua superveniência acarretará a revogação da lei estadual que lhe seja contrária;
+
+c) o estado tem competência plena para legislar sobre a matéria, mas a superveniência de norma
+geral da União suspende a eficácia da lei estadual no que lhe for contrária;
+
+                                                                                            109
+                                                                                            268
+
+
+---
+
+d) nessa espécie de competência, o interesse do ente menor prevalece sobre o do ente maior, o
+que significa dizer que a superveniência de norma geral da União não afetará a lei estadual que
+lhe seja contrária;
+
+e) nessa espécie de competência, cada ente federativo deve legislar sobre a matéria apenas em
+relação aos seus órgãos, de modo que haja concorrência em relação à matéria e segmentação na
+perspectiva territorial.
+
+Comentários:
+
+LETRA A. INCORRETA. Se a União não legislar sobre normas gerais de determinada matéria de
+competência legislativa concorrente, a Constituição indica em seu § 3º do art. 24, que os Estados
+terão competência legislativa plena, para atender as peculiaridades de seu território.
+
+LETRA B. INCORRETA. A superveniência de norma geral da União não revoga a lei estadual,
+apenas a suspende naquilo em que lhe for contrário, de acordo com o art. 24, § 4º da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! Na falta de norma geral da União, o Estado possui
+competência plena para legislar sobre a matéria e a superveniência da lei federal, suspende a
+eficácia da lei estadual naquilo que lhe for contrário, de acordo com o art. 24, § 3º e 4º da
+CRFB/88.
+
+                     §3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a
+                     competência legislativa plena, para atender a suas peculiaridades.
+
+                     §4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                     da lei estadual, no que lhe for contrário.
+
+LETRA D. INCORRETA. A superveniência de lei federal sobre normas gerais suspende a eficácia
+da lei estadual, no que lhe for contrário.
+
+LETRA E. INCORRETA. Na verdade, a União edita normas gerais sobre os temas dos incisos. Já
+aos Estados e DF é permitido que complementem a legislação federal, de acordo com o art. 24
+da CRFB/88
+
+Gabarito: Letra C.
+
+17.​ (FGV/TJ-AP/2024) Pedro, estudante de direito, foi questionado por seu professor em
+relação às fases do processo legislativo para a elaboração de uma lei orgânica municipal. De
+acordo com Pedro:
+
+(1) o projeto deve ser aprovado em dois turnos de votação;
+
+(2) pelo voto de dois terços dos membros da Câmara Municipal; e
+
+(3) com a sanção do chefe do Poder Executivo.
+
+                                                                                              110
+                                                                                              268
+
+
+---
+
+Ao analisar as afirmações de Pedro em relação ao processo legislativo, o professor observou,
+corretamente, que:
+
+a) todas estão certas;
+
+b) apenas a afirmação 2 está certa;
+
+c) apenas a afirmação 3 está certa;
+
+d) apenas a afirmação 1 e 2 estão certas;
+
+e) apenas a afirmação 1 e 3 estão certas.
+
+Comentários:
+
+LETRA A. INCORRETA. Apenas as afirmativas 01 e 02 estão de acordo com o art. 29 da CRFB/88,
+sendo errada a afirmativa 3.
+
+LETRA B. INCORRETA. Na verdade, assim como a afirmativa 02, a 01 também está correta,
+tendo previsão no art. 29 da CRFB/88.
+
+LETRA C. INCORRETA. A afirmativa 03 está em desacordo com a Constituição, já que não é
+necessária a sanção do chefe do Poder Executivo para que haja a promulgação da Lei Orgânica,
+sendo a Câmara Legislativa responsável por essa atribuição, de acordo com o art. 29 da
+CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! De acordo com o art. 29 da CRFB/88, o projeto de lei
+orgânica deve ser aprovado em dois turnos de votação e pelo voto de dois terços dos membros
+da Câmara Municipal.
+
+                     Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com
+                     o interstício mínimo de dez dias, e aprovada por dois terços dos membros
+                     da Câmara Municipal, que a promulgará, atendidos os princípios
+                     estabelecidos nesta Constituição, na Constituição do respectivo Estado e os
+                     seguintes preceitos: (...)
+
+LETRA E. INCORRETA. A afirmativa 01 está de acordo com o art. 29 da CRFB/88, já a 03 está
+equivocada, já que não é necessária a sanção do chefe do Poder Executivo para que haja a
+promulgação da Lei Orgânica, sendo a Câmara Legislativa responsável por essa atribuição.
+
+Gabarito: Letra D.
+
+18.​ (FGV/TJ-AP/2024) O Art. 23 da Constituição Federal define as instâncias às quais compete
+a responsabilidade de proporcionar meios de acesso à cultura, educação, ciência, tecnologia,
+pesquisa e inovação.
+
+A ação de uma das esferas competentes é:
+
+                                                                                              111
+                                                                                              268
+
+
+---
+
+a) a família incentiva o aprendizado em ciência e tecnologia através de atividades e discussões
+em casa;
+
+b) organizações comunitárias promovem atividades artísticas que destacam as tradições da
+comunidade;
+
+c) empresas investem em pesquisa e desenvolvimento, impulsionando o avanço científico e
+tecnológico;
+
+d) municípios desenvolvem bibliotecas públicas, promovem eventos culturais e investem em
+tecnologia para escolas;
+
+e) ONGs realizam programas educacionais em áreas como alfabetização, especialmente em
+comunidades carentes.
+
+Comentários:
+
+LETRA A. INCORRETA. Não há tal previsão no art. 23 da CRFB/88. A família é uma entidade
+privada.
+
+LETRA B. INCORRETA. Não existe essa previsão no art. 23 da CRFB/88. As organizações
+comunitárias são entidades privadas.
+
+LETRA C. INCORRETA. As empresas são entidades privadas. Logo, não tem tal previsão no art.
+23 da CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! Os Municípios possuem competência comum com os
+demais entes federativos, no que se refere a proporcionar meios de acesso à cultura, educação,
+ciência, tecnologia, pesquisa e inovação, de acordo com o art. 23, inciso V da CRFB/88, vejamos:
+
+                     Art. 23. É competência comum da União, dos Estados, do Distrito Federal e
+                     dos Municípios:
+
+                     (...)
+
+                     V - proporcionar os meios de acesso à cultura, à educação, à ciência, à
+                     tecnologia, à pesquisa e à inovação;
+
+                     Parágrafo único. Leis complementares fixarão normas para a cooperação
+                     entre a União e os Estados, o Distrito Federal e os Municípios, tendo em
+                     vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional.
+
+LETRA E. INCORRETA. As ONGs não possuem competência comum com a União, Estados, DF e
+Municípios, uma vez que são entidades privadas.
+
+Gabarito: Letra D.
+
+                                                                                             112
+                                                                                             268
+
+
+---
+
+19.​ (FGV/CVM/2024) Em razão de uma grande mobilização popular, o estado Alfa editou a Lei
+nº X, que estabeleceu diversas medidas direcionadas a garantir o cumprimento das obrigações
+assumidas, junto ao público, pelas sociedades empresárias que explorem sorteios no território
+estadual. Apesar de atender aos anseios da coletividade, diversas sociedades empresárias da
+área sustentaram a inconstitucionalidade da Lei nº X.
+
+À luz da sistemática constitucional, é correto afirmar que:
+
+a) os sorteios envolvem aspectos culturais de cunho essencialmente local; logo, a competência
+legislativa é municipal, e a Lei nº X é inconstitucional;
+
+b) a competência para legislar sobre a matéria é privativa da União; logo, não poderia ser
+exercida pelo estado Alfa em nenhuma hipótese, sendo inconstitucional a Lei nº X;
+
+c) a Lei nº X somente será considerada constitucional caso a União tenha editado lei
+complementar, delegando competência legislativa aos estados para legislar sobre a matéria;
+
+d) como a competência legislativa nessa matéria é concorrente entre a União e os estados, a Lei
+nº X é constitucional, caso não tenham sido afrontadas eventuais normas gerais editadas pela
+União;
+
+e) é de competência comum de todos os entes federativos legislar sobre a matéria, observados,
+sempre, os balizamentos legais estabelecidos pelo ente maior; logo, a Lei nº X é constitucional.
+
+Comentários:
+
+LETRA A. INCORRETA. Os sorteios são matérias de competência privativa da União, de acordo
+com o art. 22, inciso XX da CRFB/88.
+
+LETRA B. INCORRETA. Apesar de ser matéria de competência privativa da União, ela poderia ser
+exercida pelo Estado Alfa se a União editasse lei complementar delegando a competência
+legislativa sobre a matéria para os Estados, sendo a lei nesse caso, constitucional, de acordo com
+o art. 22, parágrafo único da CRFB/88.
+
+LETRA C. CORRETA. Nos termos do art. 22, XX, compete privativamente à União legislar sobre
+sistemas de consórcios e sorteios. Em razão da Constituição permitir que haja delegação da
+competência legislativa privativa da União sobre o tema, por lei complementar, a Lei nº X poderá
+ser considerada constitucional, de acordo com o art. 22, parágrafo único da CRFB/88.
+
+LETRA D. INCORRETA. A competência para legislar sobre sorteios é privativa União, não
+concorrente, conforme art. 22, inciso XX, parágrafo único da CRFB/88.
+
+LETRA E. INCORRETA. Não é de competência comum dos entes, mas privativa da União,
+conforme art. 22, inciso XX, parágrafo único da CRFB/88.
+
+Gabarito: Letra C.
+
+
+                                                                                               113
+                                                                                               268
+
+
+---
+
+20.​ (FGV/TCE-GO/2024) Um município brasileiro fictício promulgou lei instituindo nova
+modalidade de licitação denominada pife. Em seguimento, a novel legislação foi regulamentada
+pelo Prefeito Municipal e três editais de licitação, com a nova modalidade, foram publicados
+com o objetivo de contratar obras públicas.
+
+O Corpo de Auditoria do Tribunal de Contas com jurisdição sobre o município examinou o caso
+e, considerando o disposto no artigo 22, XXVII da Constituição Federal que atribui competência
+privativa à União para legislar sobre normas gerais de licitação e contratação, em todas as
+modalidades, para as administrações públicas diretas e indireta de todos os entes federados,
+representou ao Plenário quanto a constitucionalidade da norma.
+
+Tendo por orientação o prescrito na Súmula 347 do Supremo Tribunal Federal, é correto afirmar
+que a representação deve ser
+
+a) conhecida, uma vez cumprir os requisitos de legitimidade, porém não provida, uma vez que
+falece competência aos Tribunais de Contas para apreciação da constitucionalidade de leis.
+
+b) conhecida, uma vez cumprir os requisitos de legitimidade, e parcialmente provida, uma vez
+que o Tribunal de Contas poderá determinar a sustação dos editais de licitação, contudo não
+poderá se pronunciar quanto a lei e o decreto, haja vista falecer competência para apreciação da
+constitucionalidade.
+
+c) conhecida, uma vez cumprir os requisitos de legitimidade, e provida, determinando-se a
+sustação dos três editais e que a Administração Pública se abstenha de aplicar as referidas lei e
+regulamentação às suas licitações, uma vez que atos doravante praticados com base nos
+referidos normativos serão considerados como irregulares e implicarão na responsabilização
+pessoal dos agentes que lhes derem causa.
+
+d) conhecida, uma vez cumprir os requisitos de legitimidade, e provida, determinando-se a
+sustação dos três editais e, quanto as normas, somente sendo possível, representar ao poder
+competente à apreciação da inconstitucionalidade.
+
+e) conhecida e provida, sendo declarada a inconstitucionalidade da norma com efeito erga
+omnes.
+
+Comentários:
+
+A questão apresenta dois dados importantes: O artigo e a súmula.
+
+O artigo 22, XXVII da Constituição Federal estabelece que somente a União tem competência
+privativa para legislar sobre normas gerais de licitação e contratação. Isso implica que leis
+municipais que criem novas modalidades de licitação podem ser consideradas inconstitucionais.
+
+Para que nós possamos responder esta questão é fundamental analisarmos também a sumula em
+questão:
+
+                                                                                              114
+                                                                                              268
+
+
+---
+
+                     Súmula 347-STF: O Tribunal de Contas, no exercício de suas atribuições,
+                     pode apreciar a constitucionalidade uma vez que atos doravante praticados
+                     com base nos referidos normativos serão considerados como irregulares e
+                     implicarão na responsabilização pessoal dos agentes que lhes derem causa.
+
+Essa interpretação sugere que o Tribunal de Contas pode considerar a constitucionalidade das
+leis como parte de sua função de controle. Isso se torna crucial, pois eventuais atos
+administrativos praticados com base em normas inconstitucionais podem resultar em
+consequências para os agentes responsáveis. Portanto, a função do Tribunal se alinha à proteção
+do ordenamento jurídico e à responsabilização dos agentes públicos, respeitando a separação
+dos poderes, mas também promovendo uma efetiva análise crítica das normas em vigor.
+
+O nosso gabarito é a LETRA C!
+
+(...)
+
+A representação deve ser conhecida e provida. Somente o Poder Judiciário tem competência
+para declarar a inconstitucionalidade de uma norma com efeito erga omnes, e não os Tribunais
+de Contas.
+
+Uma vez que o Tribunal de Contas tem legitimidade para apreciar a questão e os requisitos para
+a representação foram cumpridos. O Tribunal deve determinar a sustação dos três editais de
+licitação, pois foram elaborados com base em uma norma que contraria a competência privativa
+da União. Deve ser determinado que a Administração se abstenha de aplicar a referida lei e
+regulamentação nas licitações futuras. Qualquer ato praticado com base nessa norma poderá ser
+considerado irregular e resultar em responsabilização pessoal dos agentes envolvidos.
+
+Desta forma, as alternativas A, B, D e E estão incorretas.
+
+LETRA C. CORRETA. Deverá ser conhecida, uma vez que cumprir os requisitos de legitimidade, e
+provida, suspendendo os editais e a norma, pois os atos futuros serão irregulares e os
+responsáveis punidos.
+
+Sobre a A:
+
+                     (...) O Tribunal de Contas da União, órgão sem função jurisdicional, não
+                     pode declarar a inconstitucionalidade de lei federal com efeitos erga omnes
+                     e vinculantes no âmbito de toda a Administração Pública Federal. (...)
+                     Impossibilidade de o controle difuso exercido administrativamente pelo
+                     Tribunal de Contas trazer consigo a transcendência dos efeitos, de maneira
+                     a afastar incidentalmente a aplicação de uma lei federal, não só para o caso
+                     concreto, mas para toda a Administração Pública Federal, extrapolando os
+                     efeitos concretos e interpartes e tornando-os erga omnes e vinculantes. (...)
+                     É inconcebível a hipótese de o Tribunal de Contas da União, órgão sem
+                     qualquer função jurisdicional, permanecer a exercer controle de
+                     constitucionalidade – principalmente, como no presente caso, em que
+                     simplesmente afasta a incidência de dispositivos legislativos para TODOS os
+                     processos da Corte de Contas – nos julgamentos de seus processos, sob o
+
+
+                                                                                               115
+                                                                                               268
+
+
+---
+
+                     pretenso argumento de que lhe seja permitido em virtude do conteúdo
+                     da Súmula 347 do STF, editada em 1963, cuja subsistência, obviamente,
+                     ficou comprometida pela promulgação da Constituição Federal de 1988.
+                     [MS 35.410, rel. min. Alexandre de Moraes, 2021)
+
+Gabarito: Letra C.
+
+21.​ (FGV/TCE GO/2024) O Estado Alfa editou a Lei nº X, em matéria de competência
+legislativa concorrente com a União, em momento no qual este ente federativo ainda não tinha
+editado nenhuma norma a respeito da temática. Apesar desse diploma normativo ter sido
+enaltecido pela coletividade, muitos argumentavam com a sua inconstitucionalidade.
+
+À luz da sistemática constitucional vigente, é correto afirmar que o Estado Alfa
+
+a) não poderia ter editado a Lei nº X enquanto a União não legislasse sobre a temática.
+
+b) somente poderia legislar sobre a temática se houvesse lei complementar autorizando-o.
+
+c) editou corretamente a Lei nº X, e, caso colida com norma geral que venha a ser editada pela
+União, continuará válida, mas se tornará ineficaz.
+
+d) tinha competência legislativa plena para legislar sobre a temática, sendo que a Lei nº X será
+tida como revogada quando sobrevier a lei da União.
+
+e) pode legislar sobre a temática, sendo que a Lei nº X tem preeminência, no âmbito do seu
+território, em relação às normas gerais que venham a ser editadas pela União.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, o Estado Alfa poderia ter editado a Lei nº X!
+
+LETRA B. INCORRETA. Não há necessidade de lei complementar autorizando.
+
+LETRA C. CORRETA. O art. 24 da CRFB/88 estabelece a competência legislativa concorrente
+entre a União, Estados e DF. Isso significa que cabe à União editar normas gerais sobre os temas
+dos incisos. Se a União se mantiver inerte, não editando a norma geral, o §3º autoriza que os
+Estados e DF legislem integralmente sobre a matéria, até que a União exerça a sua competência.
+Essa é a expressão da competência suplementar supletiva.
+
+LETRA D. INCORRETA. Não é correto falar em revogação, sim em suspensão.
+
+LETRA E. INCORRETA. É errado afirmar que a Lei nº X tem preeminência, no âmbito do seu
+território, em relação às normas gerais que venham a ser editadas pela União. Caso a União edite
+a norma geral depois dos Estados e Distrito Federal, o §4º do art. 24 da CRFB/88 determina que
+a lei federal poderá suspender a eficácia da lei estadual/distrital.
+
+Gabarito: Letra C.
+
+                                                                                             116
+                                                                                             268
+
+
+---
+
+22.​ (FGV/TJ-RJ/2024) O Tribunal de Contas do Estado Alfa, ao apreciar as contas de governo
+do Chefe do Poder Executivo do Município Beta, constatou que não foi aplicada a receita
+mínima em saúde e educação. Por tal razão, decidiu pela sua rejeição, com a correlata aplicação
+das sanções cabíveis ao referido agente.
+
+Tendo em vista as competências estabelecidas na Constituição da República, é correto afirmar
+que
+
+a) o Tribunal de Contas agiu corretamente ao rejeitar as contas e aplicar as sanções.
+
+b) por ser um órgão estadual, o Tribunal de Contas não poderia apreciar as contas apresentadas
+por um agente municipal.
+
+c) o Tribunal de Contas agiu corretamente ao rejeitar as contas, mas não poderia aplicar sanções
+de competência privativa da Câmara Municipal.
+
+d) o Tribunal de Contas deveria apenas emitir parecer prévio, que somente deixaria de prevalecer
+pelo voto de dois terços dos membros da Câmara Municipal.
+
+e) o julgamento das contas é privativo da Câmara Municipal, cabendo ao Tribunal de Contas
+apenas emitir parecer prévio, que será livremente apreciado por aquele órgão.
+
+Comentários:
+
+LETRA A. INCORRETA.        Não agiu corretamente. Deveria apenas ter emitido o parecer, não
+rejeitado as contas!
+
+LETRA B. INCORRETA. Poderia apreciar, não julgar.
+
+LETRA C. INCORRETA. O Tribunal de Contas não agiu corretamente ao rejeitar as contas,
+deveria apenas ter emitido parecer.
+
+LETRA D. CORRETA. O parecer prévio, emitido pelo órgão competente sobre as contas que o
+Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos
+membros da Câmara Municipal, conforme o art. 31, §2º da CRFB/88. O parecer emitido é prévio
+ao julgamento, que será realizado pela Câmara Municipal. O parecer só poderá ser derrubado
+por decisão de 2/3 dos membros da Câmara Municipal.
+
+LETRA E. INCORRETA. Não é tão livre assim. O parecer só poderá ser derrubado por decisão de
+2/3 dos membros da Câmara Municipal.
+
+Gabarito: Letra D.
+
+23.​ (FGV/TJ-RJ/2024) A Lei nº X, do Estado Alfa, dispôs que as sociedades empresárias que
+exploram o serviço de telecomunicações em seu território devem informar aos respectivos
+usuários, em caráter prévio, a identificação dos funcionários que precisarão ingressar em suas
+residências. A medida foi muito comemorada pelos usuários do serviço, considerando o
+
+                                                                                             117
+                                                                                             268
+
+
+---
+
+aumento de sua segurança, mas criticada pelas sociedades empresárias do setor, que
+argumentavam com o possível aumento dos custos operacionais para a implementação da
+medida.
+
+À luz da sistemática constitucional, é correto afirmar que a Lei nº X
+
+a) afeta o equilíbrio econômico-financeiro do contrato de concessão, alterando, com isso, o ato
+jurídico perfeito, indicativo de sua inconstitucionalidade.
+
+b) afronta a competência exclusiva da União para explorar o serviço de telefonia, ainda que isto
+ocorra de modo indireto, por uma concessionária.
+
+c) somente será compatível com a ordem constitucional caso haja lei complementar da União
+delegando essa competência aos Estados.
+
+d) versa sobre matéria tipicamente local, o que afronta a competência legislativa privativa dos
+Municípios.
+
+e) é resultado da competência concorrente entre a União e o Estado Alfa para legislar sobre
+consumo.
+
+Comentários:
+
+LETRA A. INCORRETA. A inconstitucionalidade se apresenta porque o tema é de competência
+privativa da União.
+
+LETRA B. INCORRETA. Em verdade, está afetando a competência legislativa da União!
+
+LETRA C. CORRETA. O art. 22 da CRFB/88 estabelece que compete privativamente à União
+legislar sobre: IV - águas, energia, informática, telecomunicações e radiodifusão. Conforme o PU
+do art. 22 da CRFB/88, Lei complementar poderá autorizar os Estados a legislar sobre questões
+específicas das matérias relacionadas neste artigo.
+
+LETRA D. INCORRETA. A competência para legislar sobre telecomunicações é da União, não
+dos Municípios.
+
+LETRA E. INCORRETA. A competência não é concorrente, é privativa da União.
+
+Gabarito: Letra C.
+
+24.​ (FGV/TJ-MS/2024)        Determinada      temática      está     sujeita    à    competência
+legislativa concorrente da União, dos estados e do Distrito Federal. Ao realizar essa constatação,
+Ana, deputada estadual que pretendia apresentar uma proposição legislativa sobre a referida
+temática, concluiu corretamente que:
+
+a) as normas específicas editadas pelo estado preponderam sobre as normas nacionais editadas
+pela União;
+
+                                                                                               118
+                                                                                               268
+
+
+---
+
+b) os municípios não podem incursionar na temática, mesmo para suplementar normas da União
+ou do estado;
+
+c) os entes federativos podem legislar livremente sobre a temática, que irá viger no respectivo
+nível federativo;
+
+d) a superveniência de norma geral da União, que colida com norma estadual, não revoga esta
+última, apenas suspende a sua eficácia;
+
+e) as normas gerais editadas pelo estado devem ser observadas pelos municípios situados em
+seu território, mas são preteridas pelas normas gerais da União.
+
+Comentários:
+
+LETRA A. INCORRETA. Na competência legislativa concorrente, a União cria normas gerais,
+enquanto os estados têm a possibilidade de complementar essas normas com detalhes
+adicionais. No entanto, caso a União edite uma norma específica, esta terá prioridade sobre a
+norma estadual.
+
+LETRA B. INCORRETA. O Supremo Tribunal Federal entende que o Município pode legislar sobre
+assuntos de interesse local, nos termos do art. 30 da CRFB/88, desde que traga questões
+atinentes ao próprio município. Vejamos o que diz o RE 586224/STF:
+
+                     “o município é competente para legislar sobre o meio ambiente, com União
+                     e Estado, no limite de seu interesse local, e desde que tal regramento seja
+                     suplementar e harmônico à disciplina estabelecida pelos demais entes
+                     federados”.
+
+LETRA C. INCORRETA. Não é tão livre assim! Os Estados podem suplementar a legislação
+federal.
+
+LETRA D. CORRETA. É o nosso gabarito! De acordo com o §4º do art. 24 da CRFB/88, no caso
+de superveniência de uma norma geral da União que conflite com uma norma estadual, não
+ocorrerá a revogação da lei estadual, mas a suspensão de sua eficácia.
+
+LETRA E. INCORRETA. A alternativa está errada, porque os Municípios devem observar as
+normas Estaduais, mas estas não podem ir de encontro às normas federais.
+
+Gabarito: Letra D.
+
+25.​ (FGV/TJ-MS/2024) A Lei Complementar nº X (LCX), do estado Alfa, com o objetivo
+de ampliar os canais de acesso aos órgãos de segurança pública e facilitar a investigação penal,
+conferiu à Defensoria Pública o poder de requisitar a instauração de inquérito policial. A
+medida, muito comemorada por alguns setores da sociedade, foi criticada por outros.
+
+Considerando a divisão constitucional de competências entre os entes federativos, é correto
+afirmar que:
+
+                                                                                             119
+                                                                                             268
+
+
+---
+
+a) compete privativamente à União legislar sobre processo penal;
+
+b) o estado Alfa pode suplementar as normas da União sobre a Defensoria Pública;
+
+c) o estado Alfa pode legislar concorrentemente com a União sobre procedimentos em matéria
+penal;
+
+d) compete apenas ao estado Alfa, no exercício de sua competência residual, legislar sobre
+Defensoria Pública;
+
+e) a assistência aos necessitados, em suas distintas formas de expressão, é de competência
+comum da União e dos estados.
+
+Comentários:
+
+LETRA A. CORRETA. O inquérito policial faz parte da matéria processual, não sendo possível ser
+objeto de lei estadual, já que estaria indo de encontro com a determinação constitucional,
+porque a competência legislativa é privativa da União. Confira a determinação constitucional:
+
+                     Art. 22. Compete privativamente à União legislar sobre:
+
+                     I - direito civil, comercial, penal, processual, eleitoral, agrário, marítimo,
+                     aeronáutico, espacial e do trabalho.
+
+LETRA B. INCORRETA. De acordo com o art. 24, XIII da CRFB/88, a União, os Estados e o Distrito
+Federal têm a competência de legislar concorrentemente sobre "assistência jurídica e defensoria
+pública". O §1º do mesmo dispositivo esclarece que, no contexto da legislação concorrente, a
+União tem a função de estabelecer apenas normas gerais. Os Estados, por outro lado, exercem a
+competência suplementar, permitindo que legislem para complementar essas normas gerais.
+
+LETRA C. INCORRETA. A alternativa está errada, porque a competência para legislar sobre
+matéria penal é privativa da União, não sendo possível os Estados legislarem sobre a matéria,
+conforme dispõe o art. 22, inciso I da CRFB/88.
+
+LETRA D. INCORRETA. É de competência concorrente entre a União, Estados e DF legislar sobre
+a Defensoria Pública, de acordo com o art. 24, inciso XIII da CRFB/88.
+
+LETRA E. INCORRETA. A assistência aos necessitados, especialmente no que se refere à
+assistência jurídica aos necessitados, é classificada como competência concorrente, não como
+competência comum. De acordo com o artigo 24, inciso XIII, da CRFB/88, a União tem a
+responsabilidade de estabelecer normas gerais, enquanto os Estados podem complementar essa
+legislação.
+
+Gabarito: Letra A.
+
+                                                                                                120
+                                                                                                268
+
+
+---
+
+26.​ (FGV/TJ-SC/2024) Em determinada temática de competência legislativa concorrente entre
+a União e os estados, a deputada estadual Maria constatou que aquele ente federativo ainda
+não editara nenhuma norma em sua esfera de competência.
+
+À luz desse quadro, Maria concluiu corretamente que o estado:
+
+a) não pode legislar sobre a temática;
+
+b) pode legislar sobre a temática, desde que o Congresso Nacional referende a norma que for
+editada;
+
+c) pode legislar livremente sobre a temática e, caso sobrevenha lei da União, a lei estadual será
+tida como revogada;
+
+d) pode legislar livremente sobre a temática e, caso sobrevenha lei da União, a lei estadual terá
+sua eficácia suspensa naquilo que colidir com a referida lei;
+
+e) somente pode legislar sobre a temática se a União editar lei complementar delegando a
+competência legislativa aos entes federativos de natureza subnacional.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa está errada, tendo em vista que se trata de matéria de
+competência legislativa concorrente, podendo os Estados exercer a competência legislativa
+plena, em caso de ausência de norma geral federal, de acordo com o art. 24, § 3º da CRFB/88.
+
+LETRA B. INCORRETA. Não é necessário o referendo do Congresso Nacional.
+
+LETRA C. INCORRETA. Caso sobrevenha lei da União, a lei estadual não será revogada, mas sim
+suspensa naquilo em que for de encontro com a lei federal.
+
+LETRA D. CORRETA. É o nosso gabarito! Como se trata de competência legislativa concorrente,
+os Estados poderão legislar livremente sobre a matéria, exercendo a competência plena no caso
+de inércia da União.
+
+Além disso, se surgir normal federal posterior, a lei Estadual terá sua eficácia suspensa, naquilo
+em que for de encontro com a norma federal, de acordo com o art. 24, §§ 3º e 4º da CRFB/88:
+
+                     § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a
+                     competência legislativa plena, para atender a suas peculiaridades.
+
+                     § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia
+                     da lei estadual, no que lhe for contrário.
+
+                                                                                               121
+                                                                                               268
+
+
+---
+
+LETRA E. INCORRETA. Mais uma vez. Trata-se de matéria de competência legislativa
+concorrente, não sendo necessário que a União edite lei complementar autorizando os Estados
+legislarem sobre determinada matéria, de acordo com o art. 24 da CRFB/88.
+
+Gabarito: Letra D.
+
+27.​ (FGV/TJ-SC/2024) João questionou o seu professor em relação às características
+da organização político-administrativa dos entes federativos; mais especificamente em relação à
+possibilidade, ou não, de o ente maior editar as normas básicas de organização
+política (separação dos poderes, processo legislativo etc.) a serem observadas pelos entes
+menores, vale dizer, a União em relação aos estados e aos municípios e o estado em relação
+aos municípios situados em seu território.
+
+O professor respondeu corretamente que:
+
+a) embora não seja obrigatório, o ente maior tem a faculdade de editar as normas básicas de
+organização política a serem observadas pelos entes menores;
+
+b) apesar de o ente maior não poder editar as normas básicas de organização política dos entes
+menores, estes últimos estão obrigados a seguir os princípios afetos às normas básicas do ente
+maior;
+
+c) a edição de normas básicas de organização política, pelo ente maior, a serem observadas pelos
+entes menores, não afasta a possibilidade de estes últimos virem a suplementá-las, o que deve
+ser referendado pelo ente maior;
+
+d) a autonomia política dos entes federados se manifesta apenas na execução das normas básicas
+de organização política previstas na Constituição da República, não sendo possível que os entes
+menores tenham normas próprias;
+
+e) em razão da autonomia política dos entes federativos, o ente maior não pode editar normas
+básicas de organização política dos entes menores, os quais também não estão obrigados
+a seguir os princípios afetos às normas básicas do ente maior.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa está errada, porque o ente maior não possui competência
+para editar as normas básicas de organização política, em razão da autonomia, autoadministração
+e autolegislação que cada ente federativo detém.
+
+LETRA B. CORRETA. É o nosso gabarito! Em razão da autonomia que a Constituição atribui a
+cada ente federativo, a União não possui a competência de editar as normas básicas de
+organização política dos entes menores, no entanto, os Estados, DF e Municípios devem observar
+os princípios norteadores das normas básicas do ente maior, isto é, da União.
+
+
+                                                                                             122
+                                                                                             268
+
+
+---
+
+LETRA C. INCORRETA. Apesar da edição de normas básicas de organização política pelo ente
+maior não afastar a possibilidade de os entes menores virem a suplementá-las, a Constituição
+Federal não estabelece a necessidade de referendo da União.
+
+LETRA D. INCORRETA. A alternativa está errada, porque os entes federados são dotados de
+autonomia nos aspectos da administração, finanças, legislação e governo, no entanto, devem
+observar os princípios norteadores das normas básicas do ente maior.
+
+LETRA E. INCORRETA. Os entes menores possuem a obrigação de observar os princípios afetos
+às normas básicas do ente maior.
+
+Gabarito: Letra B.
+
+28.​ (FGV/TJ-SC/2024) A Lei X, editada pelo estado Alfa, no exercício da
+competência legislativa concorrente, proibiu a comercialização, no território estadual, de
+determinado produto comprovadamente nocivo à saúde humana. Ocorre que, ao ser editada a
+Lei X, encontrava-se em pleno vigor a Lei Y, editada pela União uma década antes,
+que estabelecia as diretrizes básicas para a comercialização do referido produto no território
+nacional.
+
+A disparidade entre as Leis X e Y gerou grande debate entre organizações da sociedade civil,
+que almejavam a cessação da comercialização do produto no território do estado Alfa, e
+a associação representativa dos respectivos produtores, que defendia a continuidade da
+comercialização.
+
+Considerando os distintos aspectos dessa narrativa, é correto afirmar que:
+
+a) a Lei X deve ter sua eficácia suspensa até que seja revogada ou declarada inconstitucional a Lei
+Y;
+
+b) apesar de não observar o balizamento oferecido pelas normas gerais editadas pela União, a
+Lei X pode ser aplicada caso se reconheça a inconstitucionalidade da Lei Y;
+
+c) a dissonância entre as Leis X e Y indica que aquela invadiu competência legislativa própria da
+União; logo, ainda que esta última seja materialmente inconstitucional, a Lei X não pode ser
+aplicada;
+
+d) na competência legislativa concorrente, a competência estadual, no caso de preexistência de
+lei da União, é criada por esta última; logo, ao afrontá-la, a Lei X sequer ultrapassou o plano da
+existência; portanto, não pode ser aplicada;
+
+e) a Lei Y deve produzir ou deixar de produzir efeitos em todo o território nacional; logo,
+romperia com a isonomia admitir que deixasse de ser aplicada no território de Alfa, por
+ser materialmente inconstitucional, aplicando-se a Lei X.
+
+                                                                                                123
+                                                                                                268
+
+
+---
+
+Comentários:
+
+LETRA A. INCORRETA. A Lei nº X não pode ter sua eficácia suspensa, uma vez que surgiu
+posteriormente a edição da norma federal Y, isto é, não houve inércia da União, logo o Estado
+não poderia exercer a competência legislativa plena, de acordo com o § 3º do art. 24 da
+CRFB/88,
+
+LETRA B. CORRETA. É o nosso gabarito! Mesmo que a Lei Estadual nº X não tenha observado a
+Lei Federal nº Y, poderá vir a ser aplicada, na hipótese de a norma federal ser reconhecida
+inconstitucional por afrontar o direito constitucional à saúde, conforme entendimento firmado
+pelo STF na ADI nº 3.937. Isso porque, conforme o § 3º do art. 24 da CRFB/88, inexistindo lei
+federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender
+a suas peculiaridades.
+
+LETRA C. INCORRETA. Trata-se de competência legislativa concorrente, sendo também de
+competência do Estado legislar sobre o tema. Além disso, caso a norma federal seja declarada
+inconstitucional, a norma estadual poderá ser aplicada, uma vez que está em consonância com os
+preceitos constitucionais, conforme o entendimento do STF, na ADI nº 3.937.
+
+LETRA D. INCORRETA. Uma vez que a norma estadual pode vir a ser aplicada, caso a norma
+federal seja declarada inconstitucional, uma vez que está em consonância com os preceitos
+constitucionais, conforme o entendimento do STF, na ADI nº 3.937.
+
+LETRA E. INCORRETA. A alternativa está errada, porque a Lei X pode ser aplicada caso se
+reconheça a inconstitucionalidade da Lei Y.
+
+Gabarito: Letra B.
+
+29.​ (FGV/TJ-SC/2024) O estado Alfa editou a Lei Estadual nº X, assegurando o benefício da
+gratuidade para certos agentes públicos estaduais no exercício de suas funções, tanto em
+estacionamentos públicos do estado como em estacionamentos explorados pela iniciativa
+privada. Apesar de muito comemorada pelos beneficiários dos seus comandos, foi duramente
+criticada por outros setores da sociedade. Sensível a essa situação, o diretório nacional
+do partido político Beta, com representação no Congresso Nacional, solicitou que sua assessoria
+analisasse a conformidade constitucional da Lei Estadual nº X ̶mais especificamente, se o estado
+Alfa poderia legislar sobre a matéria.
+
+Foi corretamente esclarecido ao diretório nacional de Beta que:
+
+a) somente os municípios têm competência para legislar sobre a matéria;
+
+b) somente a União tem competência para legislar sobre a matéria;
+
+c) a Lei Estadual nº X somente será constitucional caso não haja lei da União dispondo em
+sentido contrário;
+
+
+                                                                                             124
+                                                                                             268
+
+
+---
+
+d) o estado Alfa somente tem competência para legislar sobre a matéria em relação aos
+estacionamentos públicos, não em relação aos privados;
+
+e) o estado Alfa tem competência para legislar sobre a matéria, estabelecendo a gratuidade
+tanto nos estacionamentos públicos como nos privados
+
+Comentários:
+
+LETRA A. INCORRETA. Trata-se de matéria de competência legislativa privativa da União, de
+acordo com o art. 22, inciso I da CRFB/88.
+
+LETRA B. INCORRETA. A alternativa está errada, tendo em vista que se tratando de lei que tenha
+como objeto estacionamento público há competência comum entre a União, os Estados, o
+Distrito Federal e os Municípios.
+
+LETRA C. INCORRETA. A Lei Estadual nº X é inconstitucional, por violar matéria privativa da
+União.
+
+LETRA D. CORRETA. É o nosso gabarito! De fato, o Estado Alfa só terá competência sobre
+matéria relativa aos estacionamentos públicos, uma vez que é de competência comum da União,
+Estados, DF e Municípios estabelecer e implantar política de educação para a segurança do
+trânsito, de acordo com o art. 23, inciso XII da CRFB/88. As matérias relacionadas às relações
+privadas são de competência privativa da União.
+
+LETRA E. INCORRETA. Os Estados não possuem competência para legislar matéria relacionada
+aos estacionamentos privados, já que é de competência privativa União, de acordo com o art. 22,
+inciso I da CRFB/88.
+
+Gabarito: Letra D.
+
+30.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Com o objetivo de promover o desenvolvimento
+da atividade econômica em sentido estrito no território estadual, o Estado Alfa editou a Lei nº X.
+Esse diploma normativo assegurou o acesso a um “programa estadual de financiamento”, às
+sociedades empresárias sediadas no Estado que produzissem o produto WW e contratassem,
+para o escoamento de ao menos 30% de sua produção, pessoas jurídicas ou físicas com sede no
+mesmo Estado.
+
+À luz da sistemática constitucional, é correto afirmar que o Estado Alfa
+
+a) não tem competência para legislar sobre política de crédito, logo, a Lei nº XX é
+inconstitucional.
+
+b) possui liberdade de conformação para fomentar o exercício da atividade econômica em seu
+território, não havendo óbice a que tal seja feito da forma estabelecida na Lei nº XX.
+
+
+                                                                                               125
+                                                                                               268
+
+
+---
+
+c) não incursionou no exercício da atividade econômica, apenas estabelecendo requisitos para o
+acesso a um programa estatal, o que se situa no âmbito de sua autonomia política.
+
+d) ao editar a Lei nº XX, afrontou, sem justificativa plausível, a livre concorrência, além de adotar
+tratamento diferenciado em relação aos transportadores com sede em Alfa.
+
+e) além de ter competência para legislar sobre direito econômico, a Lei nº XX se alinha aos
+objetivos constitucionais de redução das desigualdades regionais e da busca do pleno emprego.
+
+Comentários:
+
+LETRA A. INCORRETA. Os Estados podem legislar sobre questões específicas de política de
+crédito, desde que seja editada Lei Complementar autorizando, de acordo com o art. 22, inciso
+VII e parágrafo único da CRFB/88.
+
+LETRA B. INCORRETA. Apesar de o Estado possuir liberdade para fomentar o exercício da
+atividade econômica, tal exercício deve observar os ditames da Constituição.
+
+LETRA C. INCORRETA. A alternativa está errada, já que o incentivo disciplinado na Lei nº X não
+se situa no âmbito de sua autonomia política. Em verdade, afronta o princípio da livre
+concorrência.
+
+LETRA D. CORRETA. É o nosso gabarito! Ao editar a Lei nº X, o Estado afrontou, sem justificativa
+plausível, a livre concorrência, adotando tratamento diferenciado aos transportadores do Estado
+Alfa. O STF, em sede de ADI nº 5472/GO, firmou entendimento de que atentam contra a livre
+concorrência os requisitos para fruição dos subsídios financeiros e econômicos criados por ente
+federativo às sociedades empresárias do ramo automobilístico sediadas em seu território.
+
+LETRA E. INCORRETA. A alternativa está errada, porque a Lei afrontou a livre concorrência!
+
+Gabarito: Letra D.
+
+31.​ (FGV/TCE-ES/Analista de Controle Externo - Auditoria Governamental/2023) João,
+deputado estadual, solicitou que sua assessoria jurídica elaborasse projeto de lei a respeito de
+certa matéria, conforme as diretrizes que estabeleceu. Ato contínuo, a assessoria esclareceu que
+a referida matéria se enquadrava no conceito constitucional de competência legislativa
+concorrente, o que significa dizer que o projeto a ser elaborado:
+
+a) somente pode disciplinar a matéria se a União tiver editado normas gerais a respeito da
+respectiva temática;
+
+b) pode disciplinar a matéria, mas deve observar as normas gerais editadas pela União e, à falta
+destas, será pleno o espaço de conformação do Poder Legislativo estadual;
+
+c) pode disciplinar a matéria, e, caso haja conflito com normas federais, deve prevalecer a norma
+estadual, considerando o princípio da especificidade do interesse;
+
+
+                                                                                                  126
+                                                                                                  268
+
+
+---
+
+d) pode disciplinar a matéria, e, caso haja conflito com a norma geral editada pela União, a
+norma estadual será considerada revogada;
+
+e) pode disciplinar a matéria, caso venha a ser autorizado pela União, devendo prevalecer a
+norma de maior hierarquia caso haja conflito com normas federais ou municipais.
+
+Comentários:
+
+LETRA A. INCORRETA. Segundo o § 3º do art. 24 da CRFB/88, inexistindo lei federal sobre
+normas gerais, os Estados exercerão a competência legislativa plena para atender a suas
+peculiaridades.
+
+LETRA B. CORRETA. É o nosso gabarito e reflete a exata previsão do art. 24, §2º e 3º da
+CRFB/88. Vejamos:
+
+§ 2º A competência da União para legislar sobre normas gerais não exclui a competência
+suplementar dos Estados.
+
+§ 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa
+plena, para atender a suas peculiaridades.
+
+LETRA C. INCORRETA. Temos aqui uma pegadinha! Se tivermos a superveniência da norma geral
+federal, haverá a suspensão da eficácia da norma estadual, naquilo que for contrário. (art. 24, § 4º
+da CRFB/88).
+
+LETRA D. INCORRETA. A norma estadual não será considerada revogada. Haverá apenas a
+suspensão da eficácia. Ainda sim, suspende naquilo que for contrário, pois em havendo
+compatibilidade a norma estadual continua produzindo efeitos na ordem jurídica.
+
+LETRA E. INCORRETA. Nada a ver! Não há necessidade de autorização pela União. Essa
+alternativa não encontra amparo no art. 24 da CRFB/88.
+
+Gabarito: Letra B.
+
+32.​ (FGV/CGE-SC/2023) O Chefe do Poder Executivo do Município Alfa foi informado por sua
+assessoria a respeito da necessidade de ser encaminhada a prestação de contas anual ao
+Tribunal de Contas. Ao questionar sua assessoria a respeito do papel desempenhado pelo
+Tribunal de Contas na análise das contas apresentadas, foi-lhe corretamente informado que esse
+órgão deve
+
+A) julgar as contas, quer sejam de gestão, quer de governo, sendo cabível recurso para a Câmara
+Municipal de Alfa.
+
+B) apenas emitir parecer em relação às contas de governo e às contas de gestão, sendo que a
+Câmara Municipal de Alfa somente poderá rejeitá-lo pelo voto de dois terços dos seus membros.
+
+                                                                                                 127
+                                                                                                 268
+
+
+---
+
+C) julgar as contas de governo e emitir parecer prévio em relação às contas de gestão, não
+estando a Câmara Municipal de Alfa vinculada a este último, podendo acolhê-lo ou rejeitá-lo
+livremente.
+
+D) julgar as contas de gestão e emitir parecer prévio em relação às contas de governo, sendo que
+a Câmara Municipal de Alfa somente poderá rejeitar este último pelo voto de três quintos dos
+seus membros.
+
+E) julgar as contas de gestão e emitir parecer prévio em relação às contas de governo, sendo que
+a Câmara Municipal de Alfa somente poderá rejeitar este último pelo voto da maioria absoluta
+dos seus membros.
+
+Comentários:
+
+Questão bem interessante sobre o tema do controle das contas públicas municipais, previsto no
+artigo 31 da Constituição Federal de 1988.
+
+O dispositivo acima traz, em seu caput e §1º, que a fiscalização do Município será exercida pelo
+Poder Legislativo Municipal com auxílio do Tribunal de Contas Municipal (onde houver) ou
+Tribunal de Contas dos Municípios.
+
+Importante explicar que estamos diante de um controle externo, ou seja, um controle exercido
+por um Poder sobre outro.
+
+Há o julgamento das contas do Chefe do Poder Executivo pela Câmara Municipal, sendo o
+Tribunal de Contas responsável pela emissão de um parecer prévio, conforme dispõe o §2º do
+art. 31 da CF/88.
+
+Na ADI 3.077 foi firmado que tal parecer é meramente opinativo, mas imprescindível, “só
+deixando de prevalecer por decisão de 2/3 dos membros da Câmara Municipal”.
+
+Além disso, no RE 848826, o pleno firmou o seguinte entendimento:
+
+“para fins do art. 1º, inciso I, alínea g, da Lei Complementar nº 64/90, alterado pela Lei
+Complementar nº 135/2010, a apreciação das contas de prefeito, tanto as de governo quanto as
+de gestão, será exercida pelas Câmaras Municipais, com o auxílio dos Tribunais de Contas
+competentes, cujo parecer prévio somente deixará de prevalecer por decisão de 2/3 dos
+vereadores”.
+
+Dessa forma, temos a seguinte análise!
+
+Letra A. INCORRETA. O Tribunal de Contas não julgar as contas, quer sejam de gestão, quer de
+governo. Essa competência é da Câmara Municipal.
+
+Letra B. CORRETA. a O Tribunal de Contas deve apenas emitir parecer em relação às contas de
+governo e às contas de gestão, sendo que a Câmara Municipal de Alfa somente poderá rejeitá-lo
+pelo voto de dois terços dos seus membros.
+
+
+                                                                                             128
+                                                                                             268
+
+
+---
+
+Letra C. INCORRETA. O Tribunal de Contas não julga as contas de governo. Na verdade, esse
+órgão emite um parecer prévio em relação as contas de prefeito (contas de governo e de
+gestão). Além disso, o parecer apenas deixará de prevalecer, quando há decisão de 2/3 dos
+vereadores.
+
+Letra D. INCORRETA. O Tribunal de Contas não julga as contas de gestão. Esse órgão emite
+parecer prévio em relação às contas de prefeito (contas de governo e de gestão), sendo que a
+Câmara Municipal de Alfa somente poderá rejeitar este último pelo voto de 2/3 dos seus
+membros.
+
+Letra D. INCORRETA. O Tribunal de Contas não julgar as contas de gestão. Esse órgão emite
+parecer prévio em relação às contas de prefeito (contas de governo e de gestão), sendo que a
+Câmara Municipal de Alfa somente poderá rejeitar este último pelo voto de 2/3 dos seus
+membros.
+
+Gabarito: Letra B
+
+33.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Em razão de uma grave crise econômica
+decorrente de diversos fatores circunstanciais, o Estado Alfa editou a Lei nº X, determinando a
+suspensão temporária, por um trimestre, das consignações voluntárias contratadas por
+servidores públicos estaduais.
+
+Irresignada com o teor desse diploma normativo, uma associação que congregava as instituições
+financeiras solicitou que o seu advogado analisasse a compatibilidade formal desse diploma
+normativo com a Constituição Federal de 1988.
+
+Foi corretamente informado à associação que a Lei nº X
+
+a) por versar sobre regime jurídico dos servidores públicos, é mera projeção da autonomia
+política do Estado Alfa, não apresentando nenhum vício.
+
+b) no plano objetivo, a Lei nº X apenas preserva o interesse público ao evitar que o
+endividamento comprometa a estabilidade econômica dos servidores estaduais.
+
+c) não apresenta qualquer vício, pois a matéria versa sobre proteção do consumidor, de
+competência legislativa concorrente entre a União, os Estados e o Distrito Federal.
+
+d) em razão do seu nítido viés econômico, não apresenta vício, considerando a competência
+legislativa concorrente entre a União, os Estados e o Distrito Federal para legislar sobre a
+temática.
+
+e) avança em temática própria da competência legislativa da União, considerando a natureza da
+relação jurídica em que se projetará, salvo se existir lei complementar lhe delegando essa
+competência.
+
+                                                                                            129
+                                                                                            268
+
+
+---
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, trata de matéria privativa da União, conforme art. 22, I e VII
+da CRFB/88, bem como entendimento do STF ADI 6484: “É inconstitucional lei estadual que
+determina a suspensão temporária da cobrança das consignações voluntárias contratadas por
+servidores públicos estaduais”. (STF, ADI 6484/RN, 2020).
+
+LETRA B. INCORRETA. A Lei nº X é formalmente inconstitucional por violar a competência
+privativa da União. Além disso, existe vício de inconstitucionalidade material por violação ao
+princípio da segurança jurídica, tendo em vista que a lei estadual promove intervenção
+desproporcional em relações privadas validamente constituídas (STF, ADI 6484).
+
+LETRA C. INCORRETA. A Lei nº X apresenta vício formal e material.
+
+LETRA D. INCORRETA. Mais uma vez, a Lei nº X apresenta vício material e formal! Não se trata
+de competência concorrente, mas sim privativa da União para legislar sobre o assunto.
+
+LETRA E. CORRETA. É o nosso gabarito! O STF (ADI nº 6484/RN), firmou entendimento de que
+os Estados não estão autorizados a editar norma a respeito da regulação da consignação de
+crédito por servidores públicos. Há vício de inconstitucionalidade formal (art. 22, I e VII,
+CRFB/88), pois versa sobre a competência privativa da União.
+
+Gabarito: Letra E.
+
+34.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Estado Alfa, com o objetivo de estimular e
+valorizar o exercício da atividade docente nos distintos níveis da educação básica, editou a Lei nº
+X, assegurando o direito à meia-entrada, aos professores das redes estadual e municipal de
+ensino, em casas de diversões. A medida, apesar de amplamente elogiada pelos seus
+beneficiários, os professores, foi duramente criticada por uma associação representativa das
+sociedades empresárias que atuam no ramo de diversões, que a consideraram flagrantemente
+inconstitucional.
+
+À luz da sistemática constitucional, é correto afirmar que
+
+a) o Estado Alfa incursionou em matéria própria de sua competência legislativa concorrente, de
+modo a prestigiar bens e valores de estatura constitucional.
+
+b) a Lei nº X afronta o direito de propriedade e a liberdade contratual, ingressando em matéria
+própria do direito civil, de competência legislativa privativa da União.
+
+c) qualquer medida de intervenção no domínio econômico deve prestigiar o princípio da
+isonomia, o que não ocorreu no caso concreto, pois a Lei nº X não se estende aos professores
+das redes federal e privada.
+
+                                                                                                130
+                                                                                                268
+
+
+---
+
+d) a educação e a cultura, na perspectiva constitucional, ocupam posições preferentes, em
+abstrato, quando cotejadas com a livre iniciativa, o que demonstra a constitucionalidade da Lei nº
+X ao conceder a meia entrada.
+
+e) a meia-entrada assegurada somente é compatível com a ordem constitucional em relação aos
+professores estaduais, não quanto aos professores municipais, que devem ser alcançados pela
+legislação própria desse ente federativo.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, temos aqui o nosso gabarito! O Estado Alfa ao editar Lei nº X
+instituindo meia-entrada aos professores das redes estaduais e municipais em casas de diversões
+explorou matéria de sua própria competência concorrente, prestigiando bens e valores da
+estatura constitucional (art. 24, inciso I e §2º da CRFB/88 e ADI 3753).
+
+LETRA B. INCORRETA. A alternativa está errada, tendo em vista que a matéria tratada pela Lei nº
+X (direito econômico) é de competência concorrente. Ou seja, não houve violação à competência
+privativa da União.
+
+LETRA C. INCORRETA. De acordo com o entendimento jurisprudencial do STF (ADI 3753), não
+há violação ao princípio da isonomia, de modo que a referida Lei está de acordo com a
+Constituição.
+
+LETRA D. INCORRETA. A educação, cultura e a livre iniciativa estão previstas no texto
+Constitucional, mas não existe a mencionada preferência na CRFB/88.
+
+LETRA E. INCORRETA. A alternativa está errada, porque a Lei nº X é compatível com a ordem
+constitucional, tanto com relação aos professores da rede estadual, como da rede municipal.
+
+Gabarito: Letra A.
+
+35.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Com o objetivo de preservar a qualidade de
+vida da população, que vinha sendo afetada pela crescente industrialização verificada no
+território do Município Alfa, esse ente federativo editou a Lei nº X. De acordo com esse diploma
+normativo, a emissão de gases poluentes em níveis superiores aos padrões aceitos, que foram
+fixados em conformidade com os referenciais científicos prevalecentes, acarretaria a aplicação da
+penalidade de multa.
+
+À luz da sistemática constitucional, é correto afirmar que
+
+a) o Município Alfa tem competência comum com os demais entes federativos para assegurar a
+proteção do direito fundamental ao meio ambiente sadio.
+
+b) a Lei nº X somente será considerada constitucional caso a União tenha editado lei
+complementar delegando competência legislativa aos Municípios.
+
+                                                                                               131
+                                                                                               268
+
+
+---
+
+c) na ausência de norma federal ou estadual que obste a atuação do Município, a Lei nº X deve
+ser considerada constitucional.
+
+d) a Lei nº X é inconstitucional, pois compete privativamente à União legislar sobre
+responsabilização por dano ambiental.
+
+e) por se tratar de típico interesse local, que só ao Município interessa, a Lei nº X é constitucional.
+
+Comentários:
+
+LETRA A. INCORRETA. Cuidado! A competência comum disposta no art. 23 da CRFB/88 é uma
+competência administrativa, do tipo material e não legislativa.
+
+LETRA B. INCORRETA. Não há necessidade de delegação!
+
+LETRA C. CORRETA. É o nosso gabarito! De fato, de acordo com o entendimento jurisprudencial
+do STF (RE 194704), na ausência de norma federal que, de forma nítida, retire a presunção de
+que gozam os entes menores para, nos assuntos de interesse comum e concorrente, exercerem
+plenamente sua autonomia, detêm os Estados e Municípios, nos seus respectivos âmbitos de
+atuação, competência normativa.
+
+LETRA D. INCORRETA. A matéria não é de competência legislativa privativa da União! Em
+verdade, é de competência legislativa concorrente, vejamos:
+
+Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+
+VI - florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais,
+proteção do meio ambiente e controle da poluição.
+
+VIII - responsabilidade por dano ao meio ambiente, ao consumidor, a bens e direitos de valor
+artístico, estético, histórico, turístico e paisagístico.
+
+Conforme o entendimento firmado no RE 586224, o STF entende que “o município é
+competente para legislar sobre o meio ambiente, com União e Estado, no limite de seu interesse
+local, e desde que tal regramento seja suplementar e harmônico à disciplina estabelecida pelos
+demais entes federados” (art. 24, VI c/c 30, I e II da CRFB).
+
+ LETRA E. INCORRETA. Mesmo sendo assunto de interesse local, o Município precisar respeitar a
+disciplina estabelecida pelos demais entes federados.
+
+Gabarito: Letra C.
+
+36.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Após amplas discussões com representantes da
+sociedade civil, um grupo de Deputados Estaduais apresentou projeto de lei instituindo a
+exigência de depósito prévio de 100% do valor da condenação para a interposição de recurso
+no Juizado Especial Cível, o qual seria perdido em favor do Estado, caso fosse negado
+
+
+                                                                                                    132
+                                                                                                    268
+
+
+---
+
+provimento ao recurso. O objetivo almejado era o de assegurar a estabilidade das relações
+sociais e contornar a onda demandista que vinha sobrecarregando os serviços jurisdicionais, em
+prejuízo da própria população. Após o regular processo legislativo, o projeto foi aprovado, o que
+culminou com a publicação da Lei estadual nº X.
+
+À luz da sistemática estabelecida na Constituição da República de 1988, é correto afirmar que o
+referido diploma normativo é
+
+a) inconstitucional, em razão do vício de iniciativa, pois, além do caráter cautelar, o depósito
+prévio ostenta nítida natureza tributária, o que atrai a iniciativa privativa do Governador.
+
+b) inconstitucional, em razão do vício de iniciativa, pois somente o Tribunal de Justiça poderia
+apresentar o projeto, por dizer respeito à atividade jurisdicional.
+
+c) constitucional, considerando que o Estado tem competência legislativa concorrente com a
+União para legislar sobre procedimento.
+
+d) constitucional, na medida em que a razoável duração do processo exige a adoção de medidas
+que busquem abreviar a relação processual.
+
+e) inconstitucional, considerando que a disciplina do depósito prévio é alcançada pela
+competência legislativa privativa da União.
+
+Comentários:
+
+LETRA A. INCORRETA. A justificativa está errada! É inconstitucional por violar competência
+legislativa privativa da União!
+
+LETRA B. INCORRETA. Em verdade, viola a CRFB/88 por afrontar competência legislativa
+privativa da União. Portanto, a justificativa está errada.
+
+LETRA C. INCORRETA. O tema não é de competência concorrente.
+
+LETRA D. INCORRETA. Não é constitucional, tendo em vista que viola a competência legislativa
+privativa da União.
+
+LETRA E. CORRETA. É o nosso gabarito! A Lei Estadual é inconstitucional, uma vez que a matéria
+do depósito prévio pertence ao direito processual, tema de competência legislativa privativa da
+União, conforme o art. 22, I da CRFB/88 e entendimento do STF na ADI 2699.
+
+Gabarito: Letra E.
+
+37.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Procon do Estado Alfa, órgão de proteção ao
+consumidor vinculado à Assembleia Legislativa desse ente federativo, vinha recebendo inúmeras
+representações, formuladas por consumidores, contra a técnica de propaganda utilizada por
+determinada corporação. Afinal, essa pessoa jurídica, ao divulgar seus produtos, direcionados ao
+público infanto-juvenil, criava narrativas fantasiosas, que, embora estimulassem o consumo,
+
+
+                                                                                              133
+                                                                                              268
+
+
+---
+
+jamais conseguiam atender às expectativas geradas. Em razão desse estado de coisas, foi
+editada a Lei estadual nº X, na qual eram estabelecidos balizamentos para essa espécie de
+propaganda, dispondo especialmente sobre a vedação de manipulação da realidade, de modo a
+criar expectativas fantasiosas junto aos consumidores em potencial.
+
+Apesar de muito comemorada por inúmeras famílias, a associação das empresas do setor
+solicitou que sua assessoria analisasse a compatibilidade da Lei nº X com a Constituição da
+República de 1988, sendo-lhe corretamente respondido que
+
+a) por ser o Procon um órgão estadual, a Lei nº X mostra-se constitucional ao disciplinar matéria
+afeta à sua atuação.
+
+b) a Lei nº X versa sobre matéria de competência legislativa privativa da União, sendo, portanto,
+inconstitucional.
+
+c) como o Estado tem competência concorrente com a União para legislar sobre direito do
+consumidor, a Lei nº X é constitucional.
+
+d) a Lei nº X é direcionada à proteção da criança e do adolescente, matéria de competência
+legislativa comum entre todos os entes federativos.
+
+e) a divulgação de produtos, enquanto técnica de convencimento, é protegida pela liberdade de
+expressão, sendo a Lei nº X inconstitucional, por configurar censura prévia, embora Alfa possa
+legislar sobre a matéria.
+
+Comentários:
+
+LETRA A. INCORRETA. A Lei Estadual nº X, deve ser declarada inconstitucional, uma vez que
+infringe a competência privativa da União (art. 22, XXIX da CRFB/88).
+
+LETRA B. CORRETA. É o nosso gabarito! De fato, a Lei Estadual nº X versa sobre matéria de
+competência legislativa privativa da União, devendo ser declarada inconstitucional. O art. 22,
+XXIX da CRFB/88 estabelece que compete privativamente à União legislar sobre propaganda
+comercial.
+
+LETRA C. INCORRETA. Não se trata de competência concorrente, mas sim de matéria legislativa
+privativa da União.
+
+LETRA D. INCORRETA. Não se trata de competência legislativa comum. Não existe esse tipo de
+competência em nossa Constituição. A matéria é de competência legislativa privativa da União.
+
+ LETRA E. INCORRETA. Mais uma vez, é inconstitucional por violar a competência legislativa
+privativa da União.
+
+Gabarito: Letra B.
+
+                                                                                              134
+                                                                                              268
+
+
+---
+
+38.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Distrito Federal editou a Lei nº X, criando uma
+gratificação para policiais militares e bombeiros militares do Distrito Federal que estejam
+vinculados ao gabinete do Governador, a ser custeada por esse ente federativo.
+
+Irresignado com o teor desse diploma normativo, que reputava manifestamente inconstitucional,
+o Diretório Nacional do Partido Político Alfa solicitou a análise de sua assessoria, sendo-lhe
+corretamente respondido que
+
+A) a Lei nº X apresenta vício formal, pois a matéria deveria ser disciplinada em lei complementar.
+
+B) não há qualquer mácula à competência legislativa da União na lei distrital que criou a referida
+gratificação, nos termos indicados.
+
+C) o Distrito Federal possui competência legislativa concorrente com a União para legislar sobre a
+matéria, logo, a Lei nº X é constitucional.
+
+D) como referidos agentes estão estatutariamente vinculados ao Distrito Federal, esse ente
+federativo exerceu uma competência legislativa que lhe é própria.
+
+E) compete privativamente à União organizar e manter a polícia militar e o corpo de bombeiros
+militar do Distrito Federal, logo, este último ente federativo não pode legislar sobre a temática.
+
+Comentários:
+
+LETRA A. INCORRETA. Não há necessidade de lei complementar, não existe tal reserva. Logo,
+pode ser feita por lei ordinária!
+
+LETRA B. CORRETA. Nos termos da ADI nº 677, não há óbice constitucional a se conferirem
+vantagens específicas a servidores da polícia militar designados para serviços no Gabinete do
+Governador do Distrito Federal.
+
+LETRA C. INCORRETA. A matéria não é de competência concorrente. O tema envolve
+competência da União.
+
+LETRA D. INCORRETA. Na verdade, os agentes estão vinculados à União!
+
+LETRA E. INCORRETA. Conforme a ADI nº 677, não há qualquer violação à competência
+legislativa da União na lei distrital que criou a referida gratificação, nos termos indicados.
+
+Gabarito LETRA B.
+
+39.​ (FGV/CÂMARA DOS DEPUTADOS/2023) A Comissão de Constituição e Justiça da
+Câmara dos Vereadores do Município Alfa recebeu três projetos de lei para a análise de
+compatibilidade formal com a Constituição da República de 1988. O projeto X determinava a
+instalação de hidrômetros individuais nos edifícios e condomínios que viessem a ser construídos
+no território municipal. O projeto Y estabelecia requisitos a serem observados pelas sociedades
+empresárias que viessem a explorar o serviço local de gás canalizado. Por fim, o projeto Z
+estabelecia detalhado regramento para a exploração da atividade de cremação de cadáveres.
+
+Ao analisar os projetos X, Y e Z na perspectiva da competência do Município Alfa para legislar
+sobre a matéria, a referida Comissão concluiu corretamente que
+
+
+                                                                                                135
+                                                                                                268
+
+
+---
+
+a) todos são constitucionais.
+
+b) apenas o projeto Y é constitucional.
+
+c) apenas o projeto X é constitucional.
+
+c) apenas os projetos Y e Z são constitucionais.
+
+e) apenas os projetos X e Z são constitucionais.
+
+Comentários:
+
+Questão bacana sobre a Competência dos Municípios.
+
+Para uma análise mais dinâmica, vamos analisar cada item indicado no enunciado.
+
+1. O projeto X determinava a instalação de hidrômetros individuais nos edifícios e condomínios
+que viessem a ser construídos no território municipal.
+
+Em sede de RE 738481/SE, o STF firmou entendimento no sentido de que compete aos
+municípios legislar sobre a obrigatoriedade de instalação de hidrômetros individuais nos edifícios
+e condomínios, em razão do preponderante interesse local envolvido.
+
+Tal entendimento foi firmado tomando como base o art. 30, inciso I e V da CRFB/88, porque o
+fornecimento de água é um serviço de interesse local, cabendo assim a competência do
+Município.
+
+Logo, podemos afirmar que o projeto de lei X é constitucional!
+
+2. O projeto Y estabelecia requisitos a serem observados pelas sociedades empresárias que
+viessem a explorar o serviço local de gás canalizado.
+
+De acordo com o art. 25, § 2º, a exploração do serviço de gás canalizado é de competência dos
+Estados, assim não é possível a edição de projeto de lei municipal que o discipline.
+
+Logo, o projeto de lei Y é inconstitucional.
+
+3. O projeto Z estabelecia detalhado regramento para a exploração da atividade de cremação
+de cadáveres.
+
+Sobre a hipótese trazida pelo projeto Z, o STF, em sede de ADI nº 1221/RJ, entendeu que a
+matéria de serviços funerários é considerada serviço público inserido na competência legislativa
+municipal, uma vez que é abrangido pela disposição do art. 30, já que se trata de interesse local.
+
+Assim, o projeto de Lei Z é constitucional.
+
+Portanto, podemos afirmar que o nosso gabarito é a LETRA E!
+
+A seguir, apresento um comentário pra cada alternativa.
+
+(...)
+
+LETRA A. INCORRETA. A alternativa está errada, porque o projeto de lei Y é inconstitucional,
+visto que a exploração do serviço de gás canalizado é de competência dos Estados.
+
+                                                                                               136
+                                                                                               268
+
+
+---
+
+LETRA B. INCORRETA. Como vimos, o projeto de lei Y é inconstitucional.
+
+LETRA C. INCORRETA. A alternativa está errada, porque o projeto de lei Z também é
+constitucional.
+
+LETRA D. INCORRETA. Mais uma vez, o projeto de lei Y é inconstitucional.
+
+LETRA E. CORRETA. É o nosso gabarito! De fato, os projetos de lei X e Z são constitucionais por
+se tratar de matéria de competência municipal.
+
+Gabarito LETRA E.
+
+40.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Conforme fora publicado no diário oficial, o
+Tribunal de Contas do Estado Alfa iria analisar, em sua próxima sessão plenária, os seguintes
+feitos:
+
+I. contas de governo apresentadas pelo Prefeito do Município Alfa.
+
+II. contas de gestão apresentadas pelo Prefeito do Município Beta.
+
+III. contas apresentadas pelo ex-Prefeito do Município Sigma, em sua atuação como ordenador
+de despesas na Presidência da Câmara Municipal de Sigma.
+
+Em todos os feitos seria analisada a preliminar de ilegitimidade do referido Tribunal para julgar
+as contas, devendo se limitar a oferecer parecer prévio.
+
+À luz da sistemática constitucional, é correto afirmar, em relação aos feitos I, II e III, que a
+preliminar deve ser
+
+a) acolhida apenas em I.
+
+b) acolhida apenas em I e II.
+
+c) acolhida em todos os feitos.
+
+d) rejeitada em todos os feitos.
+
+e) acolhida inicialmente apenas em I e II, e, a depender do disposto na Lei Orgânica Municipal,
+também em III.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa está errada, porque a preliminar também deve ser acolhida
+na situação II. De acordo com o STF, a apreciação das contas de prefeito, tanto as de governo
+quanto as de gestão, será exercida pelas Câmaras Municipais, com o auxílio dos Tribunais de
+Contas competentes, cujo parecer prévio somente deixará de prevalecer por decisão de 2/3 dos
+vereadores. (STF, RE 848826)
+
+LETRA B. CORRETA. É o nosso gabarito! O Tribunal de Contas deve oferecer parecer prévio das
+contas de governo apresentadas pelo Prefeito do Município Alfa e as Contas de Gestão
+apresentadas pelo Prefeito do Município Beta, nos termos do art. 31, §2º da CRFB/88.
+
+                                                                                              137
+                                                                                              268
+
+
+---
+
+No caso das contas apresentadas pelo ex-Prefeito do Município Sigma, em sua atuação como
+ordenador de despesas na Presidência da Câmara Municipal de Sigma, cabe ao Tribunal de
+Contas do Estado realizar o julgamento dessas contas.
+
+LETRA C. INCORRETA. As contas dos Presidentes das Câmaras Municipais devem ser julgadas
+pelo TCE. Inclusive, foi o entendimento firmado na ADI 1964 pelo Supremo Tribunal.
+
+LETRA D. INCORRETA. A alternativa está errada, porque deve ser acolhida na situação dos itens I
+e II.
+
+LETRA E. INCORRETA. Não deve ser acolhida a situação prevista no item III.
+
+Gabarito LETRA B.
+
+41.​ (FGV/CÂMARA DOS DEPUTADOS/2023) No corrente ano, o Estado Alfa editou a Lei nº
+123, de iniciativa parlamentar, dispondo sobre o transporte individual de passageiros por táxi na
+região metropolitana formada pelos Municípios X, Y e Z. O mesmo diploma normativo criou uma
+autarquia estadual com competência para fiscalizar a referida atividade.
+
+A medida gerou grande insatisfação entre os munícipes de X, Y e Z, considerando que influía em
+diversas questões de interesse local, incluindo a própria identidade visual dos veículos.
+
+Com os olhos voltados à sistemática constitucional e aos balizamentos oferecidos pela narrativa,
+é correto afirmar que
+
+a) além de a matéria dizer respeito ao interesse local e à autonomia municipal, a temática afeta à
+autorização de serviço, por caracterizar desconcentração administrativa, é de iniciativa privativa
+do Chefe do Poder Executivo.
+
+b) em razão da competência privativa da União para legislar sobre trânsito e transporte, os
+Municípios, ao disciplinarem o serviço de táxi, somente seriam limitados pela lei federal, não
+podendo a Lei nº 123 incursionar na temática.
+
+c) a Lei nº 123 somente se mostrará harmônica com a ordem constitucional caso a União tenha
+delegado, por meio de lei complementar, não aos Municípios, mas aos Estados, a disciplina da
+matéria.
+
+d) o serviço de táxi é tipicamente municipal, sendo que o deslocamento para outros Municípios
+da região metropolitana é episódico, refletindo o mero exercício do direito de ir e vir.
+
+e) a Lei nº 123 não apresenta qualquer incompatibilidade com a ordem constitucional, pois o
+Município não pode disciplinar serviço que ultrapasse o seu perímetro territorial.
+
+Comentários:
+
+LETRA A. INCORRETA. Não diz respeito ao interesse local, já que ultrapassa os limites territoriais
+do Município. No mais, o tema não é de iniciativa privativa do Chefe do Poder Executivo.
+
+LETRA B. INCORRETA. A alternativa está errada, porque ainda que a competência para legislar
+seja privativa da União, pode os Estados, autorizados por Lei Complementar, legislar sobre
+
+                                                                                               138
+                                                                                               268
+
+
+---
+
+matérias específicas relacionadas no art. 22 da CRFB/88, conforme o parágrafo único do mesmo
+dispositivo.
+
+LETRA C. INCORRETA. A alternativa está errada, porque a União não pode delegar a disciplina
+da matéria, mas sim pode autorizar, mediante Lei Complementar que os Estados legislem sobre
+questões específicas da matéria.
+
+LETRA D. INCORRETA. O serviço de táxi ocorre nas regiões intermunicipais, sendo competência
+dos Estados regular questões específicas sobre seu funcionamento.
+
+LETRA E. CORRETA. É o nosso gabarito! De fato, a referida lei não apresenta qualquer
+incompatibilidade com a Constituição Federal.
+
+Gabarito LETRA E.
+
+42.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Um grupo de Vereadores do Município Sigma
+iniciou a realização de estudos para a criação de divisões administrativas de Sigma, consoante
+critérios demográficos e territoriais, destituídas de personalidade jurídica, com o objetivo de
+contribuir para a desconcentração dos serviços públicos municipais.
+
+Ao ouvirem a consultoria da Casa Legislativa a respeito dos balizamentos a serem observados
+para que o seu objetivo fosse posto em prática, foi-lhes corretamente informado que, nos
+termos da Constituição da República de 1988,
+
+a) tanto a concentração como a divisão metropolitana devem ter os seus requisitos estabelecidos
+em lei complementar federal.
+
+b) é exigida lei de iniciativa privativa do Prefeito Municipal, sendo ainda exigida a consulta à
+população diretamente interessada.
+
+c) embora seja matéria de competência do Município Sigma, deve ser observada a legislação
+estadual editada a respeito da criação das referidas divisões.
+
+d) a matéria consubstancia interesse tipicamente local, a ser analisada pela Câmara Municipal de
+Sigma, sendo vedada a ingerência de qualquer outro ente federativo.
+e) a iniciativa é vedada, por produzir efeitos práticos semelhantes ao desmembramento de
+Município, o que pressupõe a edição de lei complementar federal sobre a temática.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa está errada, porque de acordo com o já mencionado art. 30,
+inciso IV da CRFB/88, para que haja a concentração ou divisão metropolitana deve ser respeitada
+a legislação estadual, não a lei complementar federal.
+
+LETRA B. INCORRETA. Os referidos requisitos não são exigidos!
+
+LETRA C. CORRETA. É o nosso gabarito! De fato, mesmo sendo a matéria de competência do
+Município, deverá ser observada a legislação estadual, nos termos no do art. 30, inciso IV da
+CRFB/88.
+
+                                                                                             139
+                                                                                             268
+
+
+---
+
+LETRA D. INCORRETA. A alternativa está errada, já que é essencial que seja observada a
+legislação estadual. Portanto, podemos afirmar que há sim ingerência de outros entes no
+procedimento em análise.
+
+LETRA E. INCORRETA. A alternativa está errada, porque a Constituição prevê expressamente a
+possibilidade de o Município criar divisões administrativas, nos termos do art. 30, inciso IV da
+CRFB/88.
+
+Gabarito: Letra C.
+
+43.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Após amplo debate entre os Vereadores do
+Município Alfa, o Regimento Interno da Câmara Municipal foi alterado, passando a dispor
+detalhadamente sobre a organização das funções legislativas e fiscalizadoras da Câmara
+Municipal. A medida foi muito comemorada por diversas lideranças partidárias, considerando a
+situação de verdadeira anomia, na perspectiva exclusivamente municipal, vivenciada até então, já
+que a Lei Orgânica passava ao largo dessa temática, sendo utilizadas, por simetria, as normas da
+Constituição da República de 1988.
+
+Por outro lado, o Partido Político Sigma, de oposição e que configurava minoria na Câmara
+Municipal, ficou irresignado com a referida disciplina, por entender que a matéria deveria
+assumir natureza legal, e solicitou que o seu advogado analisasse a compatibilidade da novel
+disciplina com a Constituição da República de 1988.
+
+O advogado respondeu corretamente que a matéria
+
+a) deveria ser disciplinada na Lei Orgânica de Alfa, não no Regimento Interno da respectiva
+Câmara Municipal.
+
+b) foi corretamente disciplinada no Regimento Interno da Câmara Municipal de Alfa,
+considerando o autogoverno do Poder Legislativo.
+
+c) não dependia de disciplina em norma infraconstitucional, pois a temática já é prevista de
+maneira exauriente na Constituição da República de 1988.
+
+d) não prescindia da participação do Chefe do Poder Executivo no processo de elaboração
+normativa, indicativo de que deveria ser disciplinada em lei.
+
+e) além de estar disciplinada de maneira exauriente na Constituição da República de 1988, é
+expressamente vedada a realização de qualquer inovação em sede regimental.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, o nosso gabarito! Como restou explicado, a organização das
+funções legislativas e fiscalizadoras das Câmaras Municipais devem ser disciplinada pela Lei
+Orgânica do Município, não sendo possível tal matéria ser tratada através de Regimento Interno,
+já que violaria o inciso XI do art. 29 da CRFB/88.
+
+LETRA B. INCORRETA. A alternativa está errada, porque não pode ser tratada por meio de
+Regimento Interno da Câmara Municipal, já que é matéria que deve estar disciplinada na Lei
+Orgânica Municipal.
+
+
+                                                                                             140
+                                                                                             268
+
+
+---
+
+LETRA C. INCORRETA. A organização das funções legislativas e fiscalizadoras das Câmaras
+Municipais deve ser disciplinada pela Lei Orgânica Municipal. Vale ressaltar que a matéria não
+está prevista de forma exauriente na CRFB/88.
+
+LETRA D. INCORRETA. Na verdade, a matéria só pode ser prevista pela Lei Orgânica Municipal.
+
+LETRA E. INCORRETA. A matéria não está disciplinada de forma exauriente na Constituição
+Federal, devendo ser disciplinada pela Lei Orgânica do Município.
+
+Gabarito LETRA A.
+
+44.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Após realizar inúmeras audiências públicas, com
+setores governamentais e da sociedade civil organizada, além de usuários do serviço, o
+Município Alfa editou a Lei nº X, estabelecendo prazos para o atendimento das demandas do
+usuário do serviço, elencando medidas de segurança e criando um órgão próprio de fiscalização
+das concessionárias do serviço local de gás canalizado.
+
+Irresignada com o teor da Lei nº X, a associação das sociedades empresárias do setor consultou
+seu advogado e solicitou a análise da compatibilidade formal do referido diploma normativo
+com a Constituição da República de 1988.
+
+O advogado respondeu corretamente que
+
+a) por se tratar de matéria de interesse local, Alfa pode legislar sobre a matéria.
+
+b) compete privativamente à União legislar sobre a matéria, o que impede que Alfa nela
+incursione.
+
+c) apesar de a Lei nº XX decorrer da autonomia municipal, ela não pode afetar os contratos em
+curso.
+
+d) como a Lei nº X influi na atividade das concessionárias, ela afeta o juízo de valor do ente
+federativo concedente.
+
+e) Alfa pode apenas suplementar as normas da União, que tem competência legislativa privativa
+nessa matéria.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, se trata de matéria de competência do Estado.
+
+LETRA B. INCORRETA. Não se trata de competência privativa da União!
+
+LETRA C. INCORRETA. A alternativa está errada, porque a matéria é competência dos Estados,
+que apesar disso, não podem interferir nas relações jurídico-contratuais entre o poder
+concedente federal e as empresas concessionárias.
+
+LETRA D. CORRETA. É o nosso gabarito! De fato, como a Lei nº X influi na atividade das
+concessionárias, ela afeta o juízo de valor do ente federativo concedente, o que não é permitido,
+nos termos da ADI 3729.
+
+LETRA E. INCORRETA. A matéria é de competência dos Estados, não da União.
+
+                                                                                              141
+                                                                                              268
+
+
+---
+
+Gabarito LETRA D.
+
+45.​ (FGV/CÂMARA DOS DEPUTADOS/2023) João, vereador no Município Alfa, pretendia
+iniciar tratativas com seus pares para discutir o valor da contraprestação estipendial
+mensalmente paga aos edis. Para subsidiar as conversas, solicitou que um estagiário do seu
+gabinete realizasse breve estudo dos balizamentos a serem observados.
+
+Ao fim do estudo, o estagiário apresentou, entre outras conclusões, que
+
+I. a soma do vencimento base com a representação de gabinete e demais gratificações pagas
+não poderia ultrapassar o valor recebido pelos Deputados Estaduais, conforme os balizamentos
+constitucionais.
+
+II. o valor a ser recebido mensalmente pelos vereadores deveria ser definido em lei.
+
+III. a lei somente produzirá efeitos no exercício financeiro seguinte ao da sua publicação.
+
+IV. a Câmara Municipal de Alfa não pode gastar mais de setenta por cento de sua receita com
+folha de pagamento, incluído o gasto com os valores pagos aos Vereadores.
+
+Ao cotejar as conclusões do estagiário com a Constituição da República de 1988, João concluiu
+corretamente que
+
+a) todas estão certas.
+
+b) apenas a conclusão II está certa.
+
+c) apenas a conclusão IV está certa.
+
+d) apenas as conclusões III e IV estão certas.
+
+e) apenas as conclusões I, II e III estão certas.
+
+Comentários:
+
+Aqui, precisamos ter conhecimento sobre os Vereadores.
+
+Vamos analisar cada afirmativa?
+
+I. a soma do vencimento base com a representação de gabinete e demais gratificações pagas
+não poderia ultrapassar o valor recebido pelos Deputados Estaduais, conforme os balizamentos
+constitucionais.
+
+A afirmativa é inverídica, porque os vereadores recebem através de subsídios, não englobando
+representação em gabinete e gratificações, vejamos:
+
+Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo
+de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará,
+atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e
+os seguintes preceitos: (...)
+
+                                                                                              142
+                                                                                              268
+
+
+---
+
+VI - o subsídio dos vereadores será fixado pelas respectivas Câmaras Municipais em cada
+legislatura para a subseqüente, observado o que dispõe esta Constituição, observados os
+critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos:
+
+a) em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores corresponderá a
+vinte por cento do subsídio dos Deputados Estaduais.
+
+II. o valor a ser recebido mensalmente pelos vereadores deveria ser definido em lei.
+
+A afirmativa está errada, porque o subsídio recebido pelos vereadores é fixado pelas respectivas
+Câmaras Municipais, não por lei, vejamos:
+
+Art. 29. (...) VI da CRFB/88: o subsídio dos Vereadores será fixado pelas respectivas Câmaras
+Municipais em cada legislatura para a subseqüente, observado o que dispõe esta Constituição,
+observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos.
+
+III. a lei somente produzirá efeitos no exercício financeiro seguinte ao da sua publicação.
+
+A afirmativa está errada, porque o subsídio fixado pelas respectivas Câmaras Municipais passa a
+produzir efeitos na legislatura seguinte a sua fixação, não no exercício financeiro seguinte,
+vejamos:
+
+VI – o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada
+legislatura para a subseqüente, observado o que dispõe esta Constituição, observados os
+critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos.
+
+Uma legislatura é o período de quatro anos de execução das atividades pelo Congresso
+Nacional.
+
+IV. a Câmara Municipal de Alfa não pode gastar mais de setenta por cento de sua receita com
+folha de pagamento, incluído o gasto com os valores pagos aos Vereadores.
+
+A afirmativa está de acordo com o texto constitucional, conforme disposição do art. 29-A, § 1º da
+CRFB/88:
+
+§ 1º A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de
+pagamento, incluído o gasto com o subsídio de seus Vereadores.
+
+Assim, podemos concluir que o nosso gabarito é a LETRA C!
+
+Agora, confira as outras alternativas.
+
+(...)
+
+LETRA A. INCORRETA. Apenas a alternativa IV está correta, de acordo com o art. 29-A, § 1º da
+CRFB/88!
+
+LETRA B. INCORRETA. O item II está em desacordo com Constituição, porque o subsídio
+recebido pelos vereadores é fixado pelas respectivas Câmaras Municipais, não por lei.
+
+LETRA C. CORRETA. É o nosso gabarito! Apenas o item IV está correto, conforme art. 29-A, §1º
+da CRFB/88.
+
+                                                                                              143
+                                                                                              268
+
+
+---
+
+LETRA D. INCORRETA. A alternativa está errada, porque o item III está em desacordo com a
+CRFB/88, já que o subsídio fixado pelas respectivas Câmaras Municipais passa a produzir efeitos
+na legislatura seguinte a sua fixação, não no exercício financeiro seguinte.
+
+LETRA E. INCORRETA. Como vimos, os itens I, II e III estão incorretos.
+
+Gabarito LETRA C.
+
+46.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Considerando o elevado quantitativo de
+prestadores de serviço de transporte individual remunerado de passageiros, quer atuando
+mediante autorização do poder público, quer atuando sem prévio cadastro público, um vereador
+propôs, no Município Alfa, um projeto de lei sobre a matéria. De acordo com essa proposição,
+também motivada por críticas frequentes à qualidade do serviço, os motoristas que não atuavam
+como autorizatários, não estando sujeitos, portanto, à fiscalização periódica dos veículos,
+somente poderiam circular nos finais de semana, enquanto os demais poderiam circular em
+todos os dias da semana. A proposição foi efusivamente comemorada por alguns e duramente
+criticada por outros.
+
+À luz da sistemática constitucional, é correto afirmar que o Município Alfa
+
+a) não pode incursionar na matéria objeto da proposição, considerando a competência legislativa
+privativa da União.
+
+b) pode legislar livremente sobre a matéria objeto da proposição, considerando que se trata de
+típico interesse local.
+
+c) não pode estabelecer regras sobre a regulamentação e a fiscalização do serviço, considerando
+o bem jurídico envolvido.
+
+d) por se tratar de matéria de competência legislativa concorrente entre a União e os Estados,
+pode apenas suplementar a legislação desses entes federativos.
+
+e) embora possa dispor sobre regulação e fiscalização dessa espécie de transporte, está adstrito
+às normas fixadas pelo legislador federal no exercício de sua competência privativa.
+
+Comentários:
+
+LETRA A. INCORRETA. Os Municípios podem dispor sobre a regulação e fiscalização desse tipo
+de transporte, mas deve a lei local observar os parâmetros determinados pela União. Estamos
+diante de tema que passa pela competência da União, nos termos dos arts. 22, IX, XI e XVI, da
+CRFB/88.
+
+LETRA B. INCORRETA. A alternativa está errada, porque não é possível legislar livremente sobre
+a matéria. É preciso observar as determinações da União. Ou seja, o Município submete-se
+apenas à regulação proporcionalmente definida em lei federal, nos termos do art. 3º, VIII, da Lei
+Federal n.º 12.965/2014 (Marco Civil da Internet) e a Lei Federal n.º 12.587/2012 (Política
+Nacional de Mobilidade Urbana). (STF, ADPF 449, 2019)
+
+                                                                                              144
+                                                                                              268
+
+
+---
+
+LETRA C. INCORRETA. Na verdade, o Município pode dispor sobre a regulação e fiscalização
+desse tipo de transporte! Todavia, deve observar a regulação proporcionalmente definida em lei
+federal, pois se trata de matéria de competência privativa da União.
+
+LETRA D. INCORRETA. Mais uma vez, os Municípios podem dispor sobre a regulação e
+fiscalização desse tipo de transporte. No entanto, a lei local deve observar os parâmetros
+determinados pela União.
+
+LETRA E. CORRETA. É o nosso gabarito! De fato, embora possa dispor sobre regulação e
+fiscalização dessa espécie de transporte, o Município está adstrito às normas fixadas pelo
+legislador federal no exercício de sua competência privativa. (arts. 22, IX, XI e XVI, da CRFB/88).
+
+Gabarito LETRA E.
+
+47.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Estado Beta, com o objetivo de ampliar o
+nível de proteção das pessoas vulneráveis economicamente, assistidas pela Defensoria Pública
+estadual, e por identificar uma grande resistência dos órgãos de segurança pública em investigar
+certos ilícitos rotineiramente praticados em detrimento dessa camada da população, editou a Lei
+Complementar nº X. De acordo com esse diploma normativo, a Defensoria Pública poderia
+requisitar a instauração de inquérito policial, no âmbito estadual, sempre que, no exercício de
+suas atribuições, identificasse a possível prática de infração penal.
+
+Sobre a Lei Complementar nº X, à luz da sistemática constitucional, assinale a afirmativa correta.
+
+a) Adentra em seara própria do processo penal, sendo, por essa razão, formalmente
+inconstitucional.
+
+b) Insere-se na competência legislativa concorrente do Estado Beta para legislar sobre
+procedimentos.
+
+c) Disciplina as atribuições das estruturas de segurança pública estaduais, que serão as
+destinatárias das respectivas requisições.
+
+d) Reflete o exercício da competência legislativa para disciplinar a Defensoria Pública do
+respectivo Estado, sendo, portanto, constitucional.
+
+e) Apresenta vício material ao conferir, à Defensoria Pública, atribuição que a Constituição da
+República conferiu privativamente ao Ministério Público.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, temos aqui o nosso gabarito! A norma estadual viola a
+competência privativa da União para tratar de matéria de processo penal, nos termos do art. 22, I
+da CRFB/88. Assim, não pode o Estado Beta legislar sobre o assunto. Assim, a lei complementar
+nº. X deve ser declarada formalmente inconstitucional, já que desrespeitou as regras de
+repartição de competências previstas na Constituição Federal.
+
+LETRA B. INCORRETA. A alternativa está errada, tendo em vista que não é competência
+legislativa concorrente, mas sim privativa da União por está inserida na matéria de processo penal
+(art. 22, inciso I da CRFB/88).
+
+
+                                                                                                145
+                                                                                                268
+
+
+---
+
+LETRA C. INCORRETA. De acordo com o entendimento do STF, a requisição de inquérito policial
+é atividade ligada à persecução penal, assim trata-se de matéria de processo penal, que é de
+competência privativa da União. Não pode o Estado legislar sobre o assunto.
+
+LETRA D. INCORRETA. Como vimos, é competência privativa da União. Não podemos pensar em
+“competência legislativa para disciplinar a Defensoria Pública”.
+
+LETRA E. INCORRETA. A Lei está eivada de vício formal (não material) por adentrar na
+competência legislativa privativa da União, de acordo com o art. 22, inciso I da CRFB/88. Temos
+violação às regras de repartição de competência.
+
+Gabarito LETRA A.
+
+48.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Estado Alfa, no qual se identificava intensa
+atuação de seguidores de religiões em cujos rituais era realizado o sacrifício de animais, editou a
+Lei estadual nº XX, direcionada à proteção animal, que autorizou expressamente essa prática.
+
+Sobre a Lei estadual nº XX, assinale a afirmativa correta.
+
+a) Afronta a competência privativa da União para legislar sobre fauna.
+
+b) É compatível com o princípio constitucional da igualdade e com a necessidade de proteger a
+liberdade religiosa.
+
+c) Apresenta vício material ao desconsiderar, no plano infraconstitucional, vedação expressa da
+Constituição da República.
+
+d) Embora se insira na competência concorrente do Estado para legislar sobre meio ambiente,
+afronta a competência privativa da União para legislar sobre liberdades fundamentais.
+
+e) Ao tornar lícita a conduta que indicou, influiu diretamente no exercício da competência
+privativa da União para legislar sobre direito penal, descriminalizando a conduta indicada.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, a referida matéria é de competência legislativa concorrente,
+conforme o art. 24, inciso VI da CRFB/88.
+
+LETRA B. CORRETA. É o nosso gabarito! De fato, a Lei Estadual nº XX, de acordo com o
+entendimento jurisprudencial, se coaduna com o princípio constitucional da igualdade e com a
+necessidade de proteger a liberdade religiosa. Nesse sentido, o STF entende que é “É
+constitucional a lei de proteção animal que, a fim de resguardar a liberdade religiosa, permite o
+sacrifício ritual de animais em cultos de religiões de matriz africana”. (STF, RE nº 494601/RS,
+2019)
+
+LETRA C. INCORRETA. Não há vício material! Em verdade, é compatível com a CRFB/88.
+
+LETRA D. INCORRETA. A Lei Estadual XX trata de matéria legislativa concorrente. Assim, não
+afronta a competência privativa da União.
+
+                                                                                                146
+                                                                                                268
+
+
+---
+
+LETRA E. INCORRETA. A matéria objeto da Lei Estadual nº XX não abrange conteúdo de direito
+penal. Portanto, a referida lei não violou competência privativa da União.
+
+Gabarito LETRA B.
+
+49.​ (FGV/ALE-MA/2023) Após amplo levantamento, a Secretaria de Patrimônio do Estado Alfa
+constatou a existência de uma larga faixa de terra, ao sul do seu território, que jamais recebera
+qualquer destinação pelo Poder Público ou integrara o patrimônio de um particular. Essa faixa de
+terra, ademais, era considerada indispensável, pelos biólogos, à preservação de um ecossistema
+próximo. Considerando as dificuldades de fluxo de caixa do Estado Alfa, a referida Secretaria
+sugeriu ao Governador do Estado a alienação dessa faixa de terra.
+
+É correto afirmar que a sugestão apresentada
+
+a) não pode ser acolhida por se tratar de terra pertencente à União.
+
+b) não pode ser acolhida, por se tratar de terra pertencente aos Municípios.
+
+c) pode ser acolhida, o que pressupõe prévia autorização da Assembleia Legislativa.
+
+d) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+faixa de terra tiver sido declarada como área de preservação ambiental.
+
+e) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+indispensabilidade à proteção ambiental tiver sido reconhecida em lei da União.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, o nosso gabarito! De fato, o Estado Alfa não pode alienar as terras
+devolutas, por se tratar de terra pertencente à União.
+
+LETRA B. INCORRETA. Não pertence aos Municípios, pertence à União!
+
+LETRA C. INCORRETA. Não é necessária a autorização da Assembleia Legislativa, uma vez que as
+terras devolutas pertencem à União.
+
+LETRA D. INCORRETA. As terras devolutas não podem ser acolhidas por se tratar de bem da
+União.
+
+LETRA E. INCORRETA. As terras devolutas não podem ser acolhidas por se tratar de bem da
+União.
+
+Gabarito: Letra A.
+
+50.​ (FGV/TJ-SE/2023) Com o alegado objetivo de proteger os interesses dos consumidores
+situados em seu território, estabelecendo um equilíbrio entre os referenciais de oferta e
+demanda, o Estado-membro Alfa editou a Lei estadual nº X, dispondo que a produção das
+indústrias localizadas em seu território somente poderia ser direcionada ao exterior caso fosse
+certificado, pela Secretaria de Estado competente, que o mercado local fora regularmente
+atendido em suas demandas regulares.
+
+                                                                                              147
+                                                                                              268
+
+
+---
+
+À luz da divisão de competências legislativas prevista na Constituição da República de 1988, a
+Lei estadual nº X é:
+
+a) inconstitucional, pois o interesse local deve ser disciplinado em lei municipal;
+
+b) inconstitucional, pois compete privativamente à União legislar sobre a matéria;
+
+c) constitucional, pois os Estados possuem competência legislativa residual nessa matéria;
+
+d) constitucional, pois é competência comum da União, dos Estados e do Distrito Federal legislar
+sobre a matéria;
+
+e) constitucional, desde que observadas as normas gerais editadas pela União, pois os Estados e
+o Distrito Federal possuem competência legislativa concorrente com a União.
+
+Comentários:
+
+LETRA A. INCORRETA. Apesar de a norma ser inconstitucional, a justificativa está errada, já que
+tal matéria não deve ser objeto de lei municipal, apenas a União tem competência para legislar
+sobre comércio exterior.
+
+LETRA B. CORRETA. É o nosso gabarito! A lei instituída pelo Estado Alfa deve ser declarada
+inconstitucional, uma vez que invadiu matéria privativa da União para legislar sobre Comércio
+Exterior (art. 22, inciso VIII da CRFB/88).
+
+LETRA C. INCORRETA. A lei é inconstitucional, já que trata de matéria privativa da União.
+
+LETRA D. INCORRETA. A matéria objeto da lei não é comum entre os entes federativos, mas sim
+privativa da União.
+
+LETRA E. INCORRETA. A lei não é constitucional, já que não está inserida no rol de competência
+legislativa concorrente entre a União, Estados e DF, é matéria privativa da União.
+
+Gabarito: Letra B.
+
+51.​ (FGV/TJ-ES/2023) O Município Alfa, de grande potencial turístico, com o objetivo de
+estimular o desenvolvimento de uma cultura “municipalista”, editou a Lei municipal nº X,
+dispondo que as empresas da área de turismo somente poderiam contratar pessoas residentes
+há mais de dez anos no referido Município. Essa vedação somente seria excepcionada caso
+demonstrada a inexistência de pessoas que preenchessem esse requisito.
+À luz da sistemática estabelecida na Constituição da República de 1988, a Lei municipal nº X é:
+a) constitucional, considerando que os Municípios devem legislar sobre os interesses locais;​
+
+
+b) inconstitucional, pois é vedado aos entes federativos criar quaisquer preferências entre
+brasileiros;​
+
+                                                                                                148
+                                                                                                268
+
+
+---
+
+c) constitucional, considerando que cada ente federativo é livre para estabelecer as distinções
+que mais se ajustem aos interesses da respectiva população; ​
+​
+d) constitucional, considerando que a Lei municipal nº X limita-se a reproduzir o comando
+constitucional que excepciona a igualdade formal para alcançar a igualdade material;​
+​
+e) inconstitucional, pois o tratamento diferenciado só é possível em relação a brasileiros
+residentes em regiões diferentes, face à obrigação de reduzir as desigualdades regionais.
+Comentários:
+LETRA A. INCORRETA. A Lei é inconstitucional, uma vez que viola os arts. 19, III e 22, inciso I da
+CRFB/88.
+LETRA B. CORRETA. É o nosso gabarito! De fato, a Lei nº X editada pelo Município é
+inconstitucional, já que é vedado que os entes federativos criem preferências entre os brasileiros.
+LETRA C. INCORRETA. A Lei nº X é inconstitucional, não sendo permitido que os entes
+federativos promovam a distinção entre os brasileiros.
+LETRA D. INCORRETA. A Lei é inconstitucional por violar o comando do art. 19, inciso III da
+CRFB/88, que veda a distinção e preferência entre os brasileiros. Além disso, a referida lei tratou
+de matéria de competência legislativa privativa da União disposta no art. 22, inciso I, da
+CRFB/88. Temos aqui uma inconstitucionalidade formal.
+LETRA E. INCORRETA. Em regra, não é possível a criação de distinção e preferência entre
+brasileiros residentes em regiões diferentes, conforme disposição do art. 19, inciso III da
+CRFB/88.
+
+Gabarito: Letra B.
+
+
+52.​ (FGV/TCE-BA/2023) O Estado Alfa, com o objetivo de preservar o equilíbrio de um
+importante ecossistema existente em seu território, editou a Lei nº X e criou o serviço de
+controle e preservação ambiental. Além disso, o mesmo diploma normativo inseriu, entre as
+fontes de custeio desse serviço, taxa correspondente a um percentual da arrecadação das
+sociedades empresárias que atuam na geração de energia elétrica, realizando o aproveitamento
+energético dos cursos de água existentes no território de Alfa, atividade considerada
+potencialmente poluidora.
+À luz da sistemática constitucional, é correto afirmar que a Lei nº X é:
+a) inconstitucional, pois compete privativamente à União legislar sobre proteção do meio
+ambiente;
+b) constitucional, pois, por se tratar de curso de água pertencente a Alfa, cabe a esse ente
+legislar sobre a matéria.
+
+                                                                                                149
+                                                                                                268
+
+
+---
+
+c) constitucional, considerando a aderência da atividade ao território de Alfa e a competência
+legislativa concorrente;
+d) inconstitucional, pois a fixação de taxa em percentual da receita das sociedades empresárias
+tem efeito de confisco;
+e) inconstitucional, por se tratar de intervenção indevida do Estado em atividade econômica
+explorada pela União.
+
+                                                                                            150
+                                                                                            268
+
+
+---
+
+Comentários:
+
+LETRA A. INCORRETA. Não é hipótese de proteção do meio ambiente. Além disso, a
+competência para legislar sobre matéria de proteção do meio ambiente é do tipo concorrente,
+nos termos do art. 24, inciso VI da CRFB/88:
+
+Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:​
+​
+(...)​
+​
+VI - florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais,
+proteção do meio ambiente e controle da poluição.
+
+LETRA B. INCORRETA. A alternativa está totalmente em desacordo com a Constituição, uma vez
+que a Lei nº X é inconstitucional, por tratar de atividade econômica de competência da União,
+vejamos:
+
+Art. 21. Compete à União:
+
+(...)
+
+XII - explorar, diretamente ou mediante autorização, concessão ou permissão:
+
+(...)
+
+b) os serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de
+água, em articulação com os Estados onde se situam os potenciais hidroenergéticos;
+
+LETRA C. INCORRETA. A alternativa também está errada, tendo em vista ser inconstitucional a
+medida (art. 21, inciso XII, alínea b da CRFB/88). Não se trata de competência do tipo
+concorrente.
+
+LETRA D. INCORRETA. A alternativa está errada, porque a natureza da taxa estabelecida pela Lei
+nº X, não tem efeito de confisco.
+
+LETRA E. CORRETA. É o nosso gabarito! Como vimos, a Lei é inconstitucional, já que o Estado
+violou competência legislativa privativa da União para legislar sobre o assunto, de acordo com o
+art. 21, inciso XII, alínea “b” da CRFB/88.
+
+Gabarito: Letra E.
+
+53.​ (FGV/PREF. RJ/2023) Em razão de sucessivos conflitos deflagrados em condomínios
+edilícios que contavam com um único hidrômetro, de modo que o valor a ser pago em razão do
+fornecimento de água deveria ser rateado entre os condôminos, o Município Alfa editou a Lei nº
+X, dispondo que somente seria concedido habite-se, às construções iniciadas após a sua
+publicação, caso contassem com hidrômetros individuais para cada unidade autônoma.
+
+
+                                                                                                 151
+                                                                                                 268
+
+
+---
+
+Irresignado com o teor da Lei municipal nº X, a associação das empresas de construção
+consultou a sua assessoria jurídica em relação à compatibilidade desse diploma normativo com a
+Constituição da República de 1988, sendo-lhe corretamente respondido que:
+
+a) a Lei municipal no X afrontou a livre iniciativa, o que decorreu da oneração excessiva das
+empresas de construção;
+
+b) o Município Alfa tinha competência para legislar sobre a matéria, em razão do preponderante
+interesse local;
+
+c) somente a União poderia legislar sobre a matéria, que incursiona nos direitos dos usuários dos
+serviços públicos;
+
+d) o serviço de fornecimento de água, ainda que delegado aos Municípios, é tipicamente
+estadual, logo, somente o Estado poderia legislar sobre a matéria,
+
+e) a Lei municipal n° X poderia ter incursionado na temática, desde que essa competência tenha
+                                              ==8b9==
+
+sido reconhecida pelas normas gerais editadas pela União.
+
+Comentários:
+
+Letra A. INCORRETA. É errado afirmar que a Lei municipal no. X afrontou a livre iniciativa, tendo
+em vista que compete aos Municípios legislar sobre assuntos de interesse local, de acordo com o
+art. 30, I da CRFB/88.
+
+Letra B. CORRETA. É o gabarito da questão! O Município Alfa tinha competência para legislar
+sobre a matéria, em razão do preponderante interesse local, nos termos do art. 30, I da CRFB/88
+e entendimentos firmados no STF.
+
+Letra C. INCORRETA. A União não pode legislar sobre a matéria, já que, de acordo com o art. 30,
+I da CRFB/88, a competência é dos Municípios para tratar sobre assuntos de interesse local.
+
+Letra D. INCORRETA. De acordo com o entendimento do STF, a competência não é dos Estados,
+mas sim dos Municípios, vejamos: “Compete aos municípios legislar sobre a obrigatoriedade de
+instalação de hidrômetros individuais nos edifícios e condomínios, em razão do preponderante
+interesse local envolvido. (STF, RE 738481, julgado em 17/08/2021)”
+Letra E. INCORRETA. Não há necessidade de a competência ter sido reconhecida pelas normas
+gerais editadas pela União. Em razão do preponderante interesse local envolvido, a competência
+legislativa nesse caso é do Município. Cuidado!!!!
+
+Gabarito: Letra B.
+
+
+54.​ (FGV/ALE-MA/2023) Em razão de ampla mobilização popular, o Estado Alfa, com o
+objetivo de proteger as vítimas e as testemunhas de infrações penais, editou a Lei nº XX, a partir
+de projeto de lei de iniciativa parlamentar, estatuindo o sigilo no boletim de ocorrência e no
+inquérito policial no âmbito do referido ente federativo.
+
+                                                                                               152
+                                                                                               268
+
+
+---
+
+Por entender que a Lei nº XX era flagrantemente prejudicial à sua atividade, a associação dos
+veículos de comunicação social solicitou que sua assessoria jurídica analisasse a compatibilidade
+desse diploma normativo com a ordem constitucional.
+
+A assessoria respondeu corretamente que a Lei nº XX é
+
+a) inconstitucional, por violar a liberdade de informação.
+
+b) inconstitucional, pois está presente o vício de iniciativa.
+
+c) constitucional, por se enquadrar no âmbito da competência legislativa residual dos Estados.
+
+d) inconstitucional, por violar a competência privativa da União para legislar sobre processo
+penal.
+
+e) constitucional, por se ajustar à competência concorrente entre a União e os Estados para
+legislar sobre matéria procedimental.
+
+Comentários:
+
+LETRA A. INCORRETA. Não viola a liberdade de informação, já que tal direito não é absoluto,
+podendo ser relativizado em detrimento de outro direito fundamental.
+
+LETRA B. INCORRETA. Não existe vício de iniciativa, já que o Estado possui competência
+concorrente para legislar sobre procedimentos em matéria processual.
+
+LETRA C. INCORRETA. Não se trata de competência legislativa residual, sim concorrente,
+prevista na CRFB/88, em seu art. 24, inciso XI.
+
+LETRA D. INCORRETA. Não se trata de matéria privativa da União, estamos diante da
+competência legislativa concorrente.
+
+LETRA E. CORRETA. É o nosso gabarito! De fato, a Lei nº XX é constitucional, já que o Estado
+possui competência concorrente para legislar sobre procedimentos em matéria processual.
+
+Gabarito: Letra E
+
+
+55.​ (FGV/ALE-MA/2023) Com o objetivo de incentivar a solidariedade social e zelar pela
+saúde coletiva, o Estado Alfa editou a Lei nº XX, determinando que as sociedades empresárias
+que explorem o serviço de telefonia em seu território insiram, nas faturas de consumo,
+mensagens de incentivo à doação de sangue.
+
+Irresignado com o teor da Lei nº XX, o Partido Político Delta ingressou com ação direta de
+inconstitucionalidade perante o Supremo Tribunal Federal, argumentando a incompatibilidade
+entre esse diploma normativo e a Constituição da República.
+
+À luz dessa narrativa, é correto afirmar que o referido Tribunal deve julgar o pedido
+
+a) procedente, considerando a evidente afronta à livre iniciativa e ao princípio da
+proporcionalidade.
+
+                                                                                                 153
+                                                                                                 268
+
+
+---
+
+b) procedente, considerando que a União figura como poder concedente nos contratos de
+concessão do serviço de telefonia.
+
+c) procedente, considerando que compete privativamente à União legislar sobre seguridade
+social em suas distintas vertentes.
+
+d) improcedente, considerando que a matéria é de competência comum entre a União, os
+Estados, o Distrito Federal e os Municípios.
+
+e) improcedente, considerando que os Estados possuem competência concorrente com a União
+para legislar sobre proteção à saúde.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, o Tribunal deve julgar o pedido improcedente! O Estado
+tem competência concorrente com a União para legislar sobre a saúde, conforme art. 24, inciso
+XII e a ADI nº 6088 do STF.
+
+LETRA B. INCORRETA. O pedido do Partido Político deve ser julgado improcedente, já que os
+Estados, bem como o DF podem legislar sobre matéria de proteção e defesa à saúde.
+
+LETRA C. INCORRETA. Como já vimos, pedido do Partido Político Delta foi julgado
+improcedente.
+
+LETRA D. INCORRETA. O tema não é de competência comum, é de competência concorrente.
+
+LETRA E. CORRETA. É o nosso gabarito! De fato, o pedido ajuizado pelo Partido Político Delta
+deve ser julgado improcedente, porque os Estados possuem competência concorrente com a
+União para legislar sobre proteção à saúde.
+
+Gabarito: Letra E
+
+
+56.​ (FGV/ALE-MA/2023) A Constituição do Estado Alfa foi objeto de emenda em relação à
+disciplina das competências do Tribunal de Contas Estadual. De acordo com a disciplina
+estabelecida pela emenda, as contas de governo apresentadas pelos chefes dos poderes
+municipais seriam julgadas pelas Câmaras Municipais, considerando o parecer prévio do Tribunal
+de Contas, que somente deixaria de prevalecer por decisão de dois terços dos membros dessas
+Câmaras.
+
+À luz da sistemática estabelecida na Constituição da República, é correto afirmar que a referida
+emenda é
+
+a) materialmente constitucional, pois reproduz comandos já veiculados pela Constituição da
+República.
+
+b) materialmente inconstitucional, pois as Câmaras Municipais somente têm competência para
+julgar as contas do Chefe do Poder Executivo.
+
+c) formalmente inconstitucional, pois, em razão da autonomia dos Municípios, a matéria deveria
+ser disciplinada nas leis orgânicas municipais.
+
+
+                                                                                             154
+                                                                                             268
+
+
+---
+
+d) formal e materialmente constitucional, pois cabe às Constituições estaduais veicular as regras e
+os princípios aos quais estão vinculados os Municípios.
+
+e) materialmente inconstitucional, pois fere a autonomia municipal o quórum qualificado de
+votação para que deixe de prevalecer o parecer do Tribunal de Contas.
+
+Comentários:
+
+LETRA A. INCORRETA. Em verdade, é materialmente inconstitucional, tendo em vista que a
+Câmara Municipal detém a competência para julgar as contas do Chefe do Poder Executivo e
+não de outros poderes.
+
+LETRA B. CORRETA. A emenda deve ser considerada inconstitucional, já que a Câmara Municipal
+detém a competência para julgar as contas do Chefe do Poder Executivo. É o nosso gabarito!
+
+LETRA C. INCORRETA. A emenda é inconstitucional, mas a justificativa está errada. Não é porque
+a matéria “deveria ser disciplinada nas leis orgânicas municipais”. Conforme vimos nas
+alternativas A e B, a Câmara Municipal detém a competência para julgar as contas do Chefe do
+Poder Executivo
+
+LETRA D. INCORRETA. A emenda é materialmente inconstitucional, visto que compete à Câmara
+Municipal julgar as contas do Chefe do Poder Executivo, não de outros poderes.
+
+LETRA E. INCORRETA. Não há violação à autonomia municipal. O quórum está previsto no
+próprio art. 31, §2º da CRFB/88. Possui amparo Constitucional.
+
+Gabarito: Letra B.
+
+57.​ (FGV/ALE-MA/2023) Em razão do crescimento do número de roubos, mediante o
+emprego de arma de fogo, no território do Estado Alfa, foi editada a Lei estadual nº X. De
+acordo com esse diploma normativo, que foi objeto de severas críticas por parte da entidade
+representativa das instituições financeiras, era obrigatória, sob pena de multa, a instalação de
+equipamentos de segurança nas agências bancárias. Além das críticas, foram obtidos diversos
+provimentos jurisdicionais nos quais era desautorizada a aplicação da Lei estadual nº X sob o
+argumento de sua inconstitucionalidade.
+
+À luz dessa narrativa, é correto afirmar que a Lei estadual nº X é
+
+a) constitucional, porque o Estado pode legislar em matérias afetas à segurança pública.
+
+b) inconstitucional, por afrontar a competência privativa da União para legislar sobre segurança
+pública.
+
+c) inconstitucional, por afrontar a competência dos Municípios para legislar sobre assuntos de
+interesse local.
+
+d) constitucional, considerando que as regras afetas às construções edilícias devem ser
+uniformizadas em lei estadual.
+
+
+                                                                                                155
+                                                                                                268
+
+
+---
+
+e) não pode ser objeto de ação ajuizada perante o Supremo Tribunal Federal cujo pedido seja o
+reconhecimento de sua constitucionalidade.
+
+Comentários:
+
+LETRA A. CORRETA. Opa! Temos o nosso gabarito aqui! Por se tratar de matéria de segurança
+pública, o STF entendeu ser Constitucional os entes federados editarem norma referente a
+obrigatoriedade de instalações de equipamentos de segurança nas agências bancárias,
+objetivando a diminuição do número de roubos. (STF, ADI 3921)
+
+LETRA B. INCORRETA. A competência para legislar acerca da segurança pública não é privativa
+da União, podendo os Estados e Municípios editar norma referente ao tema.
+
+LETRA C. INCORRETA. Não compete apenas aos Municípios!
+
+LETRA D. INCORRETA. Não há que se falar em regras afetas a construções edilícias. A lei é
+constitucional por se tratar de matéria de segurança pública, que pode ser disciplinada pela
+União, Estados e Municípios.
+
+LETRA E. INCORRETA. Conforme o art. 1º, PU, inciso I da Lei 9.882/99, temos o cabimento de
+uma ADPF: I - quando for relevante o fundamento da controvérsia constitucional sobre lei ou ato
+normativo federal, estadual ou municipal, incluídos os anteriores à Constituição. No caso, é
+possível o ajuizamento de uma ADPF visando o reconhecimento de Constitucionalidade da Lei
+Estadual.
+
+Gabarito: Letra A.
+
+58.​ (FGV/TCE-ES/2023) João, deputado estadual, solicitou que sua assessoria jurídica
+elaborasse projeto de lei a respeito de certa matéria, conforme as diretrizes que estabeleceu.
+Ato contínuo, a assessoria esclareceu que a referida matéria se enquadrava no conceito
+constitucional de competência legislativa concorrente, o que significa dizer que o projeto a ser
+elaborado:
+
+a) somente pode disciplinar a matéria se a União tiver editado normas gerais a respeito da
+respectiva temática;
+
+b) pode disciplinar a matéria, mas deve observar as normas gerais editadas pela União e, à falta
+destas, será pleno o espaço de conformação do Poder Legislativo estadual;
+
+c) pode disciplinar a matéria, e, caso haja conflito com normas federais, deve prevalecer a norma
+estadual, considerando o princípio da especificidade do interesse;
+
+d) pode disciplinar a matéria, e, caso haja conflito com a norma geral editada pela União, a
+norma estadual será considerada revogada;
+
+e) pode disciplinar a matéria, caso venha a ser autorizado pela União, devendo prevalecer a
+norma de maior hierarquia caso haja conflito com normas federais ou municipais.
+
+                                                                                              156
+                                                                                              268
+
+
+---
+
+Comentários:
+
+Letra A. INCORRETA. Segundo o § 3º do art. 24 da CRFB/88, inexistindo lei federal sobre normas
+gerais, os Estados exercerão a competência legislativa plena para atender a suas peculiaridades.
+
+Letra B. CORRETA. É o nosso gabarito e reflete a exata previsão do art. 24, §2º e 3º da CRFB/88.
+Vejamos:
+
+§ 2º A competência da União para legislar sobre normas gerais não exclui a competência
+suplementar dos Estados.
+
+§ 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa
+plena, para atender a suas peculiaridades.
+
+Letra C. INCORRETA. Temos aqui uma pegadinha! Se tivermos a superveniência da norma geral
+federal, haverá a suspensão da eficácia da norma estadual, naquilo que for contrário. (art. 24, § 4º
+da CRFB/88).
+
+Letra D. INCORRETA. Não será considerada revogada. Haverá apenas a suspensão da eficácia da
+norma estadual. Ainda sim, suspende naquilo que for contrário, pois em havendo
+compatibilidade a norma estadual continua produzindo efeitos na ordem jurídica.
+
+Letra E. INCORRETA. Nada a ver! Não há necessidade de autorização pela União. Essa alternativa
+não encontra amparo no art. 24 da CRFB/88.
+
+Gabarito: Letra B.
+
+59.​ (FGV/TCE-ES/2023) O governador do Estado Alfa, com o objetivo de conter o processo
+de crescente endividamento dos servidores públicos estaduais, o que, a seu ver, assumira
+“contornos quase patológicos”, apresentou o Projeto de Lei nº XX, que deu origem à Lei
+estadual nº YY. De acordo com esse diploma normativo, ficava suspensa, por cento e oitenta
+dias, a cobrança, com desconto em folha, das consignações voluntárias contratadas por
+servidores públicos.
+
+Irresignada com o teor desse diploma normativo, a associação das instituições de crédito
+solicitou que o seu advogado se manifestasse a respeito da constitucionalidade da Lei estadual
+nº YY, sendo-lhe corretamente respondido que esse diploma normativo é:
+
+a) inconstitucional, mas apenas em relação aos débitos já constituídos, o que decorre da afronta à
+segurança jurídica, não em relação aos débitos futuros, considerando a competência concorrente
+com a União;
+
+b) constitucional, desde que a União tenha editado lei complementar, delegando a competência
+legislativa aos Estados;
+
+                                                                                                 157
+                                                                                                 268
+
+
+---
+
+c) inconstitucional, pois compete privativamente à União legislar sobre política de crédito, além
+de a Lei estadual nº YY afrontar a segurança jurídica;
+
+d) constitucional, pois compete aos Estados suplementar a legislação da União em matéria de
+relações de consumo e de proteção ao crédito;
+
+e) constitucional, pois compete privativamente aos Estados legislar sobre o regime jurídico dos
+seus servidores, o que inclui a definição dos valores passíveis de serem descontados, ou não, em
+folha de pagamento.
+
+Comentários:
+
+Letra A. INCORRETA. A lei é inconstitucional pois compete privativamente à União legislar sobre
+política de crédito, nos termos do art. 22, incisos I e VII da CRFB/88. Além disso, o tema já foi
+consolidado pelo STF. Há inconstitucionalidade formal e material. (STF. Plenário. ADI 6484, Rel.
+Roberto Barroso, julgado em 05/10/2020)
+
+Letra B. INCORRETA. Nada disso! Alternativa sem pé e cabeça rs. A lei estadual desrespeita a
+Constituição, tendo em vista o art. 22, incisos I e VII da Constituição Federal.
+
+Letra C. CORRETA. Temos aqui o nosso gabarito!!! A norma é inconstitucional, pois compete
+privativamente à União legislar sobre política de crédito e Direito Civil, além da Lei estadual nº.
+YY afrontar a segurança jurídica (art. 22, incisos I e VII da CRFB/88 e ADI 6484 STF)
+
+Letra D. INCORRETA. A medida não é constitucional. Pelo contrário, a norma é inconstitucional.
+Outro detalhe! A alternativa fala em “relações de consumo”. Na verdade, o tema é sobre política
+de crédito e direito civil, cuja competência é da União.
+
+Letra E. INCORRETA. A lei é inconstitucional, tendo em vista o art. 22, incisos I e VII da
+Constituição Federal de 1988.
+
+Gabarito: Letra C.
+
+60.​ (FGV/CGE-SC/2023) O Município Alfa, situado em localidade bucólica e muito procurado
+por pessoas que almejavam se afastar da agitação dos centros urbanos, editou a Lei nº XX. Esse
+diploma normativo estabeleceu a vedação de que correspondências fossem distribuídas e
+entregues nos horários que indicou, nos quais, conforme fora apurado em audiências públicas,
+grande parte dos munícipes preferia não ser incomodada. Em caso de descumprimento da
+vedação, seria aplicada a penalidade de multa e, na hipótese de reincidência, a de cassação do
+alvará. Irresignada com o teor da Lei nº XX, uma associação comercial situada no Município Alfa
+consultou um advogado a respeito de sua compatibilidade formal com a Constituição da
+República, sendo-lhe corretamente respondido que o referido diploma normativo é
+
+A) constitucional, pois o Município Alfa pode suplementar as normas editadas pela União e pelo
+Estado em matéria de proteção ao consumidor.
+
+                                                                                                158
+                                                                                                268
+
+
+---
+
+B) inconstitucional, pois compete privativamente à União legislar sobre o exercício de atividade
+econômica.
+
+C) constitucional, pois trata de matéria tipicamente local, de competência legislativa do
+Município Alfa.
+
+D) constitucional, pois é competência comum de todos os entes federativos zelar pela proteção à
+saúde.
+
+E) inconstitucional, pois compete privativamente à União legislar sobre serviço postal.
+
+Comentários:
+
+Letra A. INCORRETA. A medida é inconstitucional, pois o serviço postal é de competência
+privativa da União (art. 22, V da CF). O item é equivocado ao relacionar o tema com normas de
+proteção ao consumidor. O examinador tentou induzir você ao erro com a competência
+concorrente prevista no art. 24, VIII da CF, que direciona responsabilização ao consumidor. Mas,
+este dispositivo não se amolda ao enunciado da questão.
+
+Letra B. INCORRETA. Embora a medida seja inconstitucional, a justificativa está errada rs. Não
+existe competência privativa da União para legislar sobre o “exercício da atividade econômica”.
+Em verdade, o exercício da atividade é um princípio geral encampado no art. 170 da CF, no
+contexto da ordem econômica e financeira. (livre exercício ou livre concorrência)
+
+Letra C. INCORRETA. Não se pode falar em constitucionalidade da medida com fundamento em
+assunto de interesse local do Município (art. 30, I, CF), já que o ato estaria violando competência
+de outro ente federado, no caso a União, em assunto privativo para legislar sobre serviço postal.
+O próprio STF tem entendimento nesse sentido ao julgar a ADPF 222.
+
+Letra D. INCORRETA. Opa!! Muito cuidado! Embora tenhamos competência comum dos entes
+federados para cuidar da saúde (art. 23, II), assim como competência concorrente para legislar
+sobre normas de proteção e defesa da saúde (art. 24, XII), a questão não guarda conexão com
+essa temática rs. O examinador está tentando induzir você ao erro! O tema central é sobre a
+distribuição de correspondências, que está relacionado ao serviço postal, sendo competência
+privativa da União legislar sobre o assunto (art. 22, V da CF).
+
+Letra E. CORRETA. De fato, é o nosso gabarito! E o fundamento é na competência privativa da
+União para legislar sobre serviço postal, nos termos do art. 22, V da CF. Há um vício de forma,
+uma incompatibilidade formal, ou seja, uma inconstitucionalidade nomodinâmica.
+
+Gabarito: Letra E.
+
+                                                                                                159
+                                                                                                268
+
+
+---
+
+                             QUESTÕES COMENTADAS
+
+Intervenção
+
+1.​   (FGV/PC-MG/Investigador de Polícia/2025) Foi identificada uma grave crise política no
+Município Beta, localizado no território do Estado Sigma e no qual está situado um importante
+porto nacional, de grande relevância estratégica para a exportação de determinado gênero
+alimentício.
+
+Por essa razão, diversas estruturas orgânicas federais se reuniram com o objetivo de apresentar
+ao Presidente da República proposta de decretação de intervenção federal no referido
+município. Com isso, almejavam evitar possíveis impactos na balança comercial brasileira.
+
+Ao fim da reunião, concluiu-se corretamente que
+
+A)​   a decretação da intervenção pressupõe prévia autorização do Supremo Tribunal Federal.
+
+B)​    em razão do nível federativo no qual os fatos ocorreram, a União não pode decretar a
+intervenção.
+
+C)​    a intervenção pode ser decretada, considerando que a narrativa não descreve típico
+interesse local.
+
+D)​   a decretação da intervenção pressupõe requerimento nesse sentido do Chefe do Poder
+Executivo de Beta.
+
+E)​   a intervenção pode ser decretada pelo Presidente da República independentemente da
+provocação de outro órgão.
+
+Comentários:
+
+LETRA A. INCORRETA. A decretação da intervenção não pressupõe prévia autorização do
+Supremo Tribunal Federal, não precisa de autorização de sua autorização.
+
+LETRA B. CORRETA. Somente podemos falar em decretação de intervenção federal em
+Municípios localizados em Territórios Federais (art. 34 da CRFB/88). A intervenção em Município
+situado em um Estado não poderá ser decretada pela União; É em verdade hipótese de
+intervenção estadual.
+
+LETRA C. INCORRETA. Não pode ser decretada, pois a União não intervém nos Municípios,
+somente os localizados em territórios federais.
+
+LETRA D. INCORRETA. Não depende de pedido do prefeito, ou seja, não depende de
+requerimento do Chefe do Poder Executivo de Beta.
+
+                                                                                              160
+                                                                                              268
+
+
+---
+
+LETRA E. INCORRETA. Em verdade, a intervenção não pode ser decretada!
+
+Gabarito: Letra B.
+
+2.​     (FGV/TCE-RR/Analista Administrativo/2025) Foi divulgado em diversos meios de
+comunicação social que o estado Alfa não tinha repassado aos municípios situados em seu
+território, no prazo devido, 50% do produto da arrecadação do imposto sobre a propriedade de
+veículos automotores licenciados em seus territórios, receita que, por imperativo constitucional,
+pertence aos municípios. Essa situação gerou grande insatisfação junto às lideranças partidárias
+e foi iniciado um movimento de âmbito nacional para que fosse decretada a intervenção da
+União em Alfa.
+
+Nesse caso é correto afirmar que a situação descrita
+
+a) configura hipótese de intervenção espontânea, cabendo ao Congresso Nacional apreciar o
+respetivo decreto após a sua edição.
+b) configura hipótese de intervenção provocada, cabendo ao Congresso Nacional autorizar a
+expedição do respectivo decreto.
+c) não pode acarretar a decretação de intervenção federal, considerando tratar-se de mero
+descumprimento de obrigação financeira.
+d) pode acarretar a intervenção, o que pressupõe o ajuizamento de ação direta interventiva e o
+seu correlato provimento pelo Supremo Tribunal Federal.
+e) configura hipótese de intervenção solicitada, exigindo a provocação de um dos municípios
+afetados pela ausência de repasse das receitas tributárias.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, temos o nosso gabarito! Geralmente, a União não intervirá nos
+Estados e no DF, apenas nas hipóteses descritas no art. 34 da CRFB. No caso narrado, podemos
+observar que é possível a União intervir no Estado em que não repassou aos municípios receitas
+tributárias dentro dos prazos estabelecidos em lei.
+
+Além disso, o art. 158, inciso III, diz que pertence aos Municípios 50% (cinquenta por cento) do
+produto da arrecadação do imposto do Estado sobre a propriedade de veículos automotores
+licenciados em seus territórios. Portanto concluímos que a União pode intervir de forma
+espontânea no Estado Alfa, cabendo ao CN apreciar o decreto após a sua edição:
+
+                     Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto
+                     para:
+
+                     V - reorganizar as finanças da unidade da Federação que:
+
+                                                                                              161
+                                                                                              268
+
+
+---
+
+                     b) deixar de entregar aos Municípios receitas tributárias fixadas nesta
+                     Constituição, dentro dos prazos estabelecidos em lei;
+
+LETRA B. INCORRETA. Claro que não! A hipótese narrada, configura caso de intervenção
+espontânea, de acordo com o art. 34, inciso V, alínea “b” da CRFB/88.
+
+LETRA C. INCORRETA. De forma alguma! A falta de repasse de receitas tributárias pertencentes
+aos Municípios, enseja na intervenção espontânea da União no respectivo Estado, de acordo com
+o art. 34, inciso V, alínea “b” da CRFB/88.
+
+LETRA D. INCORRETA. Na realidade, a ADI interventiva só deve ser ajuizada, quando houver
+violação aos princípios sensíveis, disciplinados no art. 34, inciso VII da CRFB/88.
+
+LETRA E. INCORRETA. Não! O enunciado nos traz uma situação de intervenção espontânea,
+podendo a União intervir no Estado Alfa, sem necessitar de provocação do ente interessado, de
+acordo com o art. 34, inciso V, alínea “b” da CRFB/88.
+
+Gabarito: Letra A.
+
+3.​    (FGV/PC-SC/Delegado/2024) O Município Alfa não aplica o mínimo exigido da receita
+municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de
+saúde. Em audiência pública determinado vereador progressista sustenta que esta situação
+enseja intervenção estadual no Município.
+
+A partir da correção da alegação feita pelo vereador na hipótese narrada e conforme as regras
+constitucionais vigentes, é correto afirmar que
+
+a) a decretação da intervenção estadual dependerá de provimento pelo Tribunal de Justiça, de
+representação do Procurador-Geral de Justiça.
+
+b) a decretação da intervenção estadual ocorrerá ex officio por ato do Governador de Estado.
+
+c) a decretação da intervenção estadual dependerá de provimento, pelo Supremo Tribunal
+Federal, de representação do Procurador-Geral da República.
+
+d) a decretação da intervenção estadual dispensará a apreciação pela Assembleia Legislativa.
+
+e) a decretação da intervenção estadual dependerá de solicitação da Assembleia Legislativa.
+
+Comentário:
+
+LETRA. A. INCORRETA. Pessoal, a situação narrada se enquadra na intervenção espontânea, não
+sendo necessário provimento do TJ, nem de representação do PGJ, de acordo com o art. 35,
+inciso III da CRFB/88.
+
+LETRA B. CORRETA. É o nosso gabarito! O art. 35 da CRFB/88 traz hipóteses de intervenção
+espontânea ou ex officio, e dentre elas podemos encontrar a da não aplicação do mínimo exigido
+
+                                                                                               162
+                                                                                               268
+
+
+---
+
+da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços
+públicos de saúde. Vejamos:
+
+                     Art. 35. O Estado não intervirá em seus Municípios, nem a União nos
+                     Municípios localizados em Território Federal, exceto quando:
+
+                     III - não tiver sido aplicado o mínimo exigido da receita municipal na
+                     manutenção e desenvolvimento do ensino e nas ações e serviços públicos
+                     de saúde;
+
+LETRA C. INCORRETA. Não é necessária a edição de provimento pelo STJ, menos ainda de
+representação do PGR, tendo em vista que se trata de hipótese de intervenção espontânea ou ex
+officio por ato do próprio Governador do Estado, consoante art. 35, inciso III da CRFB/88.
+
+LETRA D. INCORRETA. De acordo com o Texto Constitucional, as hipóteses aludidas nos incisos I
+a III do art. 35 da CRFB/1988 se sujeitam ao controle político perante a Assembleia legislativa,
+consoante art. 36, §§ 1ª e 3º da CRFB/88:
+
+                     Art. 36. A decretação da intervenção dependerá:
+
+                     § 1º O decreto de intervenção, que especificará a amplitude, o prazo e as
+                     condições de execução e que, se couber, nomeará o interventor, será
+                     submetido à apreciação do Congresso Nacional ou da Assembleia
+                     Legislativa do Estado, no prazo de vinte e quatro horas.
+
+                     § 3º Nos casos do art. 34, VI e VII, ou do art. 35, IV, dispensada a apreciação
+                     pelo Congresso Nacional ou pela Assembleia Legislativa, o decreto
+                     limitar-se-á a suspender a execução do ato impugnado, se essa medida
+                     bastar ao restabelecimento da normalidade.
+
+LETRA E. INCORRETA. Não depende de solicitação da Assembleia Legislativa, tendo em vista
+que se trata de hipótese de intervenção espontânea ou ex officio do Governador do Estado, de
+acordo com o art. 35, inciso III da CRFB/88.
+
+Gabarito: Letra B.
+
+4.​     (FGV/TJ-SC/Juiz/2024) Em uma gincana jurídica, os grupos participantes foram
+questionados a respeito da funcionalidade dos denominados “princípios constitucionais
+sensíveis”, mais especificamente se a sua infringência apresenta características similares na
+perspectiva da decretação da intervenção nos estados ou nos municípios. O grupo Alfa
+sustentou que a ação direta interventiva é essencial para a decretação da intervenção em
+município em razão da não aplicação do mínimo exigido da receita municipal na manutenção e
+desenvolvimento do ensino. O grupo Beta defendeu que a decretação de intervenção em
+município, em situações que correspondem à violação aos referidos princípios, reproduzidos
+inclusive na Constituição Estadual, pode ser provocada ou espontânea. Por fim, o grupo Gama
+sustentou que a decretação de intervenção em estado, em razão da afronta aos princípios
+constitucionais sensíveis, sempre se dá na modalidade provocada.
+
+                                                                                                 163
+                                                                                                 268
+
+
+---
+
+Ao final, os jurados concluíram, corretamente, em relação às conclusões dos referidos grupos,
+que:
+
+a) todas estão erradas;
+
+b) apenas a de Beta está certa;
+
+c) apenas a de Gama está certa;
+
+d) apenas as de Alfa e Gama estão certas;
+
+e) apenas as de Beta e Gama estão certas.
+
+Comentário:
+
+LETRA A. INCORRETA. Apenas o grupo Alfa está errado, tendo em vista que o art. 35 da
+Constituição Federal versa sobre a intervenção ex officio dos Estados em seus municípios, sendo
+uma das hipóteses a não aplicação do mínimo exigido da receita municipal na manutenção e
+desenvolvimento do ensino. Assim, o Estado pode intervir no Município que violou tal princípio,
+sem a necessidade do ajuizamento da ADI interventiva (art. 35, inciso III da CRFB/88).
+
+LETRA B. INCORRETA. Além do grupo Beta, a afirmação do grupo Gama também está correta.
+O art. 34, inciso VII, alíneas “a” a “e”, trata sobre os princípios sensíveis, e na ocorrência de
+violação de tais princípios é necessário o ajuizamento da chamada ADI interventiva.
+
+                    VII - assegurar a observância dos seguintes princípios constitucionais:
+
+                    a) forma republicana, sistema representativo e regime democrático;
+
+                    b) direitos da pessoa humana;
+
+                    c) autonomia municipal;
+
+                    d) prestação de contas da administração pública, direta e indireta.
+
+                    e) aplicação do mínimo exigido da receita resultante de impostos estaduais,
+                    compreendida a proveniente de transferências, na manutenção e
+                    desenvolvimento do ensino e nas ações e serviços públicos de saúde.
+
+LETRA C. INCORRETA. Além do grupo Gama, o grupo Beta também está correto. Quanto ao
+tema, a intervenção estadual pode ocorrer com base no artigo 35, III, da Constituição Federal,
+não sendo nesse caso, necessário o ajuizamento da ADI interventiva. No entanto, a questão aduz
+que os princípios sensíveis previstos no artigo 34, VII, da CRFB/88, foram incorporados na
+Constituição Estadual. Assim, a CE estabelece como princípio sensível a aplicação do mínimo
+exigido da receita oriunda de impostos estaduais, incluindo as transferências, para a manutenção
+e desenvolvimento do ensino e para as ações e serviços públicos de saúde. Dessa maneira, a
+intervenção pode ser realizada por meio do ajuizamento da ADI interventiva.
+
+LETRA D. INCORRETA. O entendimento do grupo Alfa está em desconformidade com a
+Constituição Federal, tendo em vista que a intervenção do Estado em seus Municípios pode se
+dar ex officio pelo próprio Governador o Estado, sem a necessidade de provocação de terceiro
+interessado, de acordo com o art. 35, inciso III da CRFB/88: “não tiver sido aplicado o mínimo
+
+                                                                                              164
+                                                                                              268
+
+
+---
+
+exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços
+públicos de saúde”.
+
+LETRA E. CORRETA. Exatamente! Apenas os grupos Beta e Gama estão corretos. Quanto ao
+grupo Beta, a intervenção estadual pode ocorrer com base no artigo 35, III, da Constituição
+Federal, não sendo nesse caso, necessário o ajuizamento da ADI interventiva. No entanto, a
+questão aduz que os princípios sensíveis (art. 34, VII, da CRFB/88) foram incorporados na
+Constituição Estadual.
+
+Por essa razão, é possível que a intervenção ocorra através do ajuizamento da ADI interventiva. O
+apontamento do grupo Gama também está correto, já que se trata de princípios sensíveis, e a
+ocorrência de violação enseja na intervenção, através da ADI interventiva.
+
+Gabarito: Letra E.
+
+5.​   (FGV/Câmara de Fortaleza/Analista Legislativo/2024) O Poder Executivo Município Alfa
+vinha descumprindo reiteradamente, conforme divulgado pela imprensa e devidamente
+corroborado por investigações realizadas pelo Ministério Público, os princípios estabelecidos na
+Constituição Estadual.
+
+Em razão desse quadro, o Governador do Estado consultou sua assessoria em relação à
+possibilidade de ser decretada a intervenção estadual no Município Alfa, sendo-lhe corretamente
+respondido que
+
+a) trata-se de hipótese de cabimento de intervenção provocada, o que pressupõe o provimento
+de representação pelo órgão competente.
+
+b) em razão da autonomia municipal, somente a inobservância dos princípios estabelecidos na
+lei orgânica de Alfa poderiam ensejar a decretação da intervenção.
+
+c) a decretação da intervenção é possível, o que deve ocorrer, de ofício, por iniciativa do Chefe
+do Poder Executivo do Estado, com submissão do decreto à Assembleia Legislativa.
+
+d) a afronta aos princípios estabelecidos na Constituição Estadual deve ser previamente
+reconhecida pela Assembleia Legislativa, permitindo o início do processo de intervenção.
+
+e) as hipóteses de intervenção, com a correlata suspensão do pacto federativo, estão
+exaustivamente previstas na Constituição da República, logo, a inobservância da intervenção
+estadual não pode ensejar a sua decretação.
+
+Comentário:
+
+LETRA A. CORRETA. De cara, temos o nosso gabarito! A Constituição disciplina que a ocorrência
+de violação de princípios dispostos na Constituição Estadual, resultará na intervenção provocada,
+a qual dependerá da edição de provimento de representação pelo órgão competente:
+
+                     Art. 34 (...)
+
+                     VII - assegurar a observância dos seguintes princípios constitucionais:
+
+                     Art. 35 (...)
+
+
+                                                                                               165
+                                                                                               268
+
+
+---
+
+                     IV - o Tribunal de Justiça der provimento a representação para assegurar a
+                     observância de princípios indicados na Constituição Estadual, ou para
+                     prover a execução de lei, de ordem ou de decisão judicial.
+
+LETRA B. INCORRETA. De forma alguma! O descumprimento dos princípios constitucionais
+estaduais também resulta na decretação de intervenção, de acordo com o art. 35, inciso IV da
+CRFB/88: “o Tribunal de Justiça der provimento a representação para assegurar a observância de
+princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de
+decisão judicial”.
+LETRA C. INCORRETA. No caso proposto pelo enunciado, a intervenção ocorre na modalidade
+provocada, dependendo de solicitação pelo órgão competente.
+
+LETRA D. INCORRETA. A provocação pode ocorrer por outro órgão competente, não sendo
+necessariamente pela Assembleia Legislativa. Compete a ela o reconhecimento do processo de
+intervenção.
+
+LETRA E. INCORRETA. Pessoal, a intervenção estadual é prevista na Constituição Federal,
+portanto é errado afirmar que ela não pode ser decretada por inobservância de princípios
+estaduais. Vejamos: “Art. 35 (...) IV - o Tribunal de Justiça der provimento a representação para
+assegurar a observância de princípios indicados na Constituição Estadual, ou para prover a
+execução de lei, de ordem ou de decisão judicial”.
+
+Gabarito: Letra A.
+
+6.​   (FGV/ALE-SC/Analista Legislativo/2024) De acordo com informações divulgadas pela
+imprensa, o Município Alfa vinha descumprindo diversas obrigações previstas na Constituição da
+República, bem como alguns princípios indicados na Constituição Estadual. Determinado
+repórter, ao consultar um especialista na matéria em relação à possibilidade, ou não, desse
+estado de coisas acarretar a intervenção do Estado em Alfa, foi corretamente informado de que
+
+a) a intervenção é possível, mas sempre pressupõe o provimento de representação pelo Tribunal
+de Justiça.
+
+b) a intervenção espontânea é possível na hipótese de não prestação de contas devidas
+conforme os balizamentos estabelecidos em lei.
+
+c) é possível que a afronta aos princípios indicados na Constituição Estadual acarrete a
+decretação da intervenção em Alfa, o que será feito, de ofício, pelo Governador.
+
+d) somente é necessário o provimento de representação, pelo Tribunal de Justiça, para a
+decretação da intervenção, no caso de recusa de cumprimento de ordem ou decisão judicial.
+
+e) em razão do escalonamento federativo, que impede a decretação de intervenção, pela União,
+em Alfa, somente a afronta as normas estaduais podem acarretar a intervenção.
+
+Comentário:
+
+LETRA A. INCORRETA. Claro que não! A Constituição também possibilita a intervenção
+espontânea ou ex officio, que nesse caso é exercida pelo próprio Governador do Estado.
+
+
+                                                                                              166
+                                                                                              268
+
+
+---
+
+LETRA B. CORRETA. É o nosso gabarito! Na hipótese de determinado Município não prestar as
+contas devidas, o Estado em que o ente faz parte, poderá intervir, cuja intervenção ocorrerá de
+forma espontânea pelo Governador do Estados, de acordo com o art. 35, inciso II da CRFB/88:
+“II - não forem prestadas contas devidas, na forma da lei”.
+
+LETRA C. INCORRETA. Não! Na ocorrência de violação dos princípios indicados na Constituição
+Estadual, resultará na intervenção provocada, sendo necessário provocação do órgão
+competente, de acordo com o art. 35, inciso IV da CRFB/88:
+
+                     IV - o Tribunal de Justiça der provimento a representação para assegurar a
+                     observância de princípios indicados na Constituição Estadual, ou para
+                     prover a execução de lei, de ordem ou de decisão judicial.
+
+LETRA D. INCORRETA. Também é necessário a edição de provimento de representação, pelo
+Tribunal de Justiça, para a decretação da intervenção em razão da violação dos princípios
+indicados na Constituição Estadual, conforme art. 35, inciso IV da CRFB/88.
+
+LETRA E. INCORRETA. De forma alguma! A União não pode intervir diretamente nos municípios.
+Quanto à intervenção estadual, esta não está atrelada exclusivamente à violação das normas
+estaduais.
+
+Gabarito: Letra B.
+
+7.​    (FGV/TJ-SC/Analista Jurídico/2024) Diversas organizações da sociedade civil organizada
+peticionaram ao governador do estado Alfa solicitando que fossem adotadas as medidas
+necessárias para a decretação de intervenção estadual no município Beta. A solicitação decorria
+do fato de, há três exercícios financeiros, não serem prestadas as contas devidas, conforme
+prescrito em lei.
+
+Ao consultar o procurador-geral do estado em relação à possibilidade, ou não, de ser decretada
+a intervenção almejada, foi corretamente informado ao chefe do Poder Executivo que:
+
+a) é necessário provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+privativa do Ministério Público;
+
+b) é possível a decretação da intervenção, pelo governador do estado, após prévia aprovação
+pela Assembleia Legislativa;
+
+c) a não apresentação de contas enseja a tomada de contas especial, pelo Tribunal de Contas,
+não a decretação da intervenção;
+
+d) é possível a decretação da intervenção, pelo governador do estado, independente de
+provimento de representação pelo Tribunal de Justiça;
+
+e) é necessário o provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+disjuntiva e concorrente entre o Ministério Público e o governador do estado.
+
+Comentários:
+
+                                                                                            167
+                                                                                            268
+
+
+---
+
+LETRA A. INCORRETA. Só é necessário o provimento de representação pelo Tribunal de Justiça
+para assegurar a observância de princípios indicados na Constituição Estadual ou ainda para
+prover a execução da lei, de ordem ou de decisão judicial (inciso IV do art. 35 da CRFB/88).
+
+LETRA B. INCORRETA. Quando há a falta de prestação de contas o Governador do Estado é que
+pode ser decretada a intervenção sem necessidade da prévia aprovação da Assembleia
+Legislativa.
+
+LETRA C. INCORRETA. A alternativa está errada, tendo em vista que não há o que se falar em
+tomada de contas especial pelo Tribunal de Contas. O que ocorrerá é a decretação de
+intervenção posta pelo Governador, de acordo com o art. 35, inciso II da CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! Na hipótese de não prestação de contas, a Constituição
+prevê que o Governador possui a competência de decretar a intervenção estadual, sem a
+necessidade de provimento de representação pelo Tribunal de Justiça (art. 35, inciso II da
+CRFB/88). Aplica-se a necessidade de provimento pelo TJ para a hipótese do início IV do art. 35:
+“IV - o Tribunal de Justiça deu provimento a representação para assegurar a observância de
+princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de
+decisão judicial”.
+
+LETRA E. INCORRETA. Não se faz necessário o provimento de ação interventiva, pelo Tribunal de
+Justiça, de legitimidade disjuntiva e concorrente entre o Ministério Público e o governador do
+estado, de acordo com o art. 35, inciso II da CRFB/88.
+
+Gabarito: Letra D.
+
+8.​    (FGV/PME-RJ/Oficial/2024) Como o município Beta, situado no território do estado Alfa,
+não vinha pagando há três exercícios financeiros a dívida pública com prazo para amortização
+superior a doze meses, foi cogitada a possibilidade de o governador do estado decretar a
+intervenção estadual em Beta.
+
+Ao consultar a Procuradoria-geral do Estado, foi corretamente esclarecido ao chefe do Poder
+Executivo estadual que a decretação da intervenção:
+
+a) pode ocorrer na modalidade voluntária;
+
+b) pressupõe o ajuizamento de ação própria;
+
+c) exige requisição do Tribunal de Justiça de Alfa;
+
+d) depende de solicitação da Câmara Municipal de Beta;
+
+e) está condicionada à representação da Assembleia Legislativa de Alfa.
+
+Comentário:
+
+                                                                                             168
+                                                                                             268
+
+
+---
+
+LETRA A. CORRETA. Exatamente! No caso proposto, a intervenção ocorre de forma voluntária,
+cabendo ao próprio Governador do Estado decretar. Esse tipo de intervenção não necessita de
+provocação por outra entidade, de acordo com o art. 35, inciso I da CRFB/88:
+
+                     Art. 35. O Estado não intervirá em seus Municípios, nem a União nos
+                     Municípios localizados em Território Federal, exceto quando:
+
+                     I - deixar de ser paga, sem motivo de força maior, por dois anos
+                     consecutivos, a dívida fundada;
+
+LETRA B. INCORRETA. Não precisa de ajuizamento de ação própria, uma vez que a hipótese
+narrada pode desencadear a intervenção espontânea, cabendo ao Governador decretá-la de
+ofício, de acordo com o art. 35, inciso I da CRFB/88.
+
+LETRA C. INCORRETA. Apenas é necessário requisição do Tribunal de Justiça para assegurar a
+observância de princípios indicados na Constituição Estadual, ou para prover a execução de lei,
+de ordem ou de decisão judicial, conforme art. 35, inciso IV da CRFB/88: “o Tribunal de Justiça
+der provimento a representação para assegurar a observância de princípios indicados na
+Constituição Estadual, ou para prover a execução de lei, de ordem ou de decisão judicial”.
+LETRA D. INCORRETA. Nesse caso, não é necessária a solicitação da Câmara Municipal para que
+seja decretada a intervenção, podendo o Governador agir de ofício (art. 35, inciso I da CRFB/88).
+
+LETRA E. INCORRETA. Não é necessária a representação da Assembleia Legislativa para
+decretação da intervenção, nesse caso, conforme art. 35, inciso I da CRFB/88.
+
+Gabarito: Letra A.
+
+9.​    (FGV/TRF 1ª Região/Oficial de Justiça Avaliador Federal/2024) O governador do estado
+Alfa, por discordar de forma veemente de determinada política nacional delineada pela União na
+Lei nº Y, decorrente do exercício da competência legislativa privativa desse ente federativo,
+editou o Decreto nº X. O Decreto determinou que as estruturas da Administração Pública Direta
+e Indireta do Poder Executivo do estado Alfa não observassem os termos da Lei nº Y, em razão
+de sua manifesta inconstitucionalidade.
+
+Como o Decreto nº X vinha sendo cumprido, a assessoria do presidente da República foi instada
+a analisar a possibilidade de ser decretada a intervenção da União no estado Alfa, tendo
+concluído corretamente que:
+
+a) a hipótese não enseja o cabimento da intervenção, mas, sim, o ajuizamento de ação
+declaratória de constitucionalidade da Lei nº Y;
+
+b) a hipótese não enseja o cabimento da intervenção, mas, sim, o ajuizamento de ação direta de
+inconstitucionalidade do Decreto nº X;
+
+c) a hipótese é de decretação de intervenção voluntária, cabendo ao Congresso Nacional
+analisar o decreto de intervenção a posteriori;
+
+                                                                                              169
+                                                                                              268
+
+
+---
+
+d) a decretação da intervenção está condicionada ao provimento de representação interventiva,
+a ser julgada pelo Supremo Tribunal Federal;
+
+e) a hipótese não enseja o cabimento da intervenção, mas, sim, o ajuizamento de arguição de
+descumprimento de preceito fundamental do Decreto nº X.
+
+Comentário:
+
+LETRA A. INCORRETA. A inobservância de lei federal, enseja na intervenção provocada, sendo
+necessário a edição de provimento de representação interventiva, que deve ser julgada pelo STF,
+de acordo com os arts. 34, inciso VI e art. 36, inciso II da CRFB/88:
+
+                     VI - prover a execução de lei federal, ordem ou decisão judicial;
+
+                     Art. 36. A decretação da intervenção dependerá:
+
+                     II - de provimento, pelo Supremo Tribunal Federal, de representação do
+                     Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de
+                     recusa à execução de lei federal.
+
+LETRA B. INCORRETA. Nesse caso, é cabível a intervenção, que deve ocorrer de forma
+provocada, dependendo de provimento do STF, visando a execução da lei federal, de acordo
+com os arts. os arts. 34, inciso VI e art. 36, inciso II da CRFB/88.
+
+LETRA C. INCORRETA. Apesar da situação descrita ser hipótese de intervenção, esta deve ser de
+forma provocada e não voluntária, dependendo de provimento do STF, através da representação
+do PGR, para fazer valer a execução da lei federal (arts. 34, inciso VI e art. 36, inciso II da
+CRFB/88).
+
+LETRA D. CORRETA. Exatamente! A não execução de lei federal acarreta na intervenção da
+União, no entanto, é necessário provimento do STF, com representação do PGR, conforme arts.
+34, inciso VI e art. 36, inciso II da CRFB/88
+
+                     VI - prover a execução de lei federal, ordem ou decisão judicial;
+
+                     Art. 36. A decretação da intervenção dependerá:
+
+                     II - de provimento, pelo Supremo Tribunal Federal, de representação do
+                     Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de
+                     recusa à execução de lei federal.
+
+LETRA E. INCORRETA. Não cabe ADPF na situação narrada, mas sim da intervenção provocada,
+sendo necessário provimento do STF, com representação do PGR, visando a execução da lei
+federal, consoante arts. 34, inciso VI e 36, inciso II da CRFB/88.
+
+Gabarito: Letra D.
+
+                                                                                            170
+                                                                                            268
+
+
+---
+
+10.​ (FGV/TCE-PA/Auditor de Controle Externo - Área de Fiscalização – Contabilidade/2024) O
+Poder Executivo do Estado Alfa estava envolvido em uma grande crise institucional, com
+reiteradas situações de descumprimento de comandos normativos veiculados em leis federais.
+Por tal razão, a oposição ao governo consultou um especialista em relação à possibilidade
+desses fatos ensejarem a decretação de intervenção federal.
+
+O especialista esclareceu corretamente que
+
+a) é cabível a intervenção, a ser decretada pelo Presidente da República após provocação do
+Congresso Nacional.
+
+b) é cabível a intervenção provocada, sendo que há somente um legitimado para o ajuizamento
+da respectiva representação.
+
+c) apesar da gravidade da situação, a hipótese não se enquadra no rol daquelas que autorizam a
+decretação da intervenção federal.
+
+d) é cabível a intervenção espontânea, a ser decretada pelo Presidente da República, com
+posterior manifestação do Congresso Nacional.
+
+e) é cabível a intervenção após o provimento, pelo Tribunal de Justiça ou pelo Tribunal de
+Contas, da representação que venha a ser apresentada.
+
+Comentários:
+
+LETRA A. INCORRETA. A decretação dependerá de provimento do STF requisitado pelo
+Procurador-Geral da República, de acordo com o art. 36, inciso III da CRFB/88.
+
+LETRA B. CORRETA. A hipótese indicada pelo enunciado é passível de intervenção provocada,
+sendo o Procurador-Geral da República (PGR) o único legitimado, de acordo com o art. 34, inciso
+VI combinado com o art. 36, III da CRFB/88.
+
+                    Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto
+                    para:
+
+                    VI - prover a execução de lei federal, ordem ou decisão judicial;
+
+                    Art. 36. A decretação da intervenção dependerá:
+
+                    III - de provimento, pelo Supremo Tribunal Federal, de representação do
+                    Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de
+                    recusa à execução de lei federal.
+
+LETRA C. INCORRETA. Na verdade, a hipótese se enquadra no rol daquelas que autorizam a
+decretação da intervenção federal, de acordo com o art. 34, inciso VI e art. 36, inciso III da
+CRFB/88.
+
+
+                                                                                            171
+                                                                                            268
+
+
+---
+
+LETRA D. INCORRETA. Não se trata de intervenção espontânea, mas sim provocada, tendo
+como legitimado o Procurador-Geral da República (PGR), que dependerá do provimento do STF,
+de acordo com o art. 36, inciso III da CRFB/88.
+
+LETRA E. INCORRETA. No caso, é cabível a intervenção após o provimento do STF, não do
+Tribunal de Justiça ou Tribunal de Contas, de acordo com o art. 36, inciso III da CRFB/88.
+
+Gabarito: Letra B.
+
+11.​ (FGV/TJ-SC/2024)Diversas organizações da sociedade civil organizada peticionaram ao
+governador do estado Alfa solicitando que fossem adotadas as medidas necessárias para a
+decretação de intervenção estadual no município Beta. A solicitação decorria do fato de, há
+três exercícios financeiros, não serem prestadas as contas devidas, conforme prescrito em lei.
+
+Ao consultar o procurador-geral do estado em relação à possibilidade, ou não, de ser decretada
+a intervenção almejada, foi corretamente informado ao chefe do Poder Executivo que:
+
+a) é necessário provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+privativa do Ministério Público;
+
+b) é possível a decretação da intervenção, pelo governador do estado, após prévia aprovação
+pela Assembleia Legislativa;
+
+c) a não apresentação de contas enseja a tomada de contas especial, pelo Tribunal de Contas,
+não a decretação da intervenção;
+
+d) é possível a decretação da intervenção, pelo governador do estado, independente de
+provimento de representação pelo Tribunal de Justiça;
+
+e) é necessário o provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+disjuntiva e concorrente entre o Ministério Público e o governador do estado.
+
+Comentários:
+
+LETRA A. INCORRETA. Só é necessário o provimento de representação pelo Tribunal de Justiça
+para assegurar a observância de princípios indicados na Constituição Estadual ou ainda para
+prover a execução da lei, de ordem ou de decisão judicial (inciso IV do art. 35 da CRFB/88).
+
+LETRA B. INCORRETA. Quando há a não prestação de contas o Governador do Estado pode
+decretar a intervenção sem necessidade da prévia aprovação da Assembleia Legislativa.
+
+LETRA C. INCORRETA. A alternativa está errada, tendo em vista que não há o que se falar em
+tomada de contas especial pelo Tribunal de Contas. O que ocorrerá é a decretação de
+intervenção posta pelo Governador, de acordo com o art. 35, inciso II da CRFB/88.
+
+                                                                                           172
+                                                                                           268
+
+
+---
+
+LETRA D. CORRETA. É o nosso gabarito! Na hipótese de não prestação de contas, a Constituição
+prevê que o Governador possui a competência de decretar a intervenção estadual, sem a
+necessidade de provimento de representação pelo Tribunal de Justiça, conforme o art. 35, inciso
+II da CRFB/88. Aplica-se a necessidade de provimento pelo TJ para a hipótese do início IV do art.
+35: IV - o Tribunal de Justiça der provimento a representação para assegurar a observância de
+princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de
+decisão judicial.
+
+LETRA E. INCORRETA. Não se faz necessário o provimento de ação interventiva, pelo Tribunal de
+Justiça, de legitimidade disjuntiva e concorrente entre o Ministério Público e o governador do
+estado, de acordo com o art. 35, inciso II da CRFB/88.
+
+Gabarito: Letra D.
+
+12.​ (FGV/CÂMARA DOS DEPUTADOS/2023)Ana e Maria realizaram alentada análise a
+respeito das distinções conceituais entre a intervenção passível de ser decretada pela União em
+Estado, e aquela passível de ser decretada pelo Estado em Município, quando não forem
+prestadas contas pela administração pública direta em harmonia com a sistemática estabelecida
+pela ordem jurídica.
+
+Ao fim de suas reflexões, Ana e Maria concluíram corretamente que
+
+a) a situação descrita na narrativa não justifica a intervenção da União no Estado.
+
+b) em ambos os casos estamos perante situações de intervenção provocada.
+
+c) em ambos os casos estamos perante situações de intervenção espontânea.
+
+d) enquanto a decretação da intervenção da União é classificada como provocada, a do Estado é
+espontânea.
+
+e) enquanto a decretação da intervenção da União é classificada como espontânea, a do Estado
+é provocada.
+
+Comentários:
+
+LETRA A. INCORRETA. Trata-se sim de uma medida de intervenção. Segundo o art. 34, VII, “d”
+da CRFB/88, a União não intervirá nos Estados nem no Distrito Federal, exceto para: VII -
+assegurar a observância dos seguintes princípios constitucionais: d) prestação de contas da
+administração pública direta e indireta.
+
+LETRA B. INCORRETA. A hipótese de intervenção estadual indicada no art. 35, II da CRFB/88 é
+classificada como espontânea. O Governador age de ofício.
+
+LETRA C. INCORRETA. A hipótese de intervenção federal prevista no art. 34, VII da CRFB/88, é
+classificada como provocada.
+
+
+                                                                                              173
+                                                                                              268
+
+
+---
+
+LETRA D. CORRETA. É o nosso gabarito! A hipótese de intervenção federal prevista no art. 34,
+VII da CRFB/88, é classificada como provocada. Já a de intervenção estadual indicada no art. 35,
+II da CRFB/88 é classificada como espontânea.
+
+LETRA E. INCORRETA. Pegadinha! A banca inverteu aqui! Na verdade, a decretação da
+intervenção da União é classificada como provocada, a do Estado é espontânea.
+
+Gabarito: Letra D.
+
+13.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Um Estado da Região Norte do país está
+passando por grande instabilidade institucional em razão de uma greve das forças de segurança
+pública, o que compromete a ordem pública. Já um Estado da Região Sul está passando por
+comoção grave, decorrente da atuação de grupos separatistas, que almejam criar um novo
+Estado de Direito, independente da República Federativa do Brasil, o que compromete a paz
+social da população dessa Região.
+
+Apesar da efervescência dos acontecimentos que eclodiram no território nacional, inúmeros
+parlamentares, sensíveis à necessidade de ser realizada uma reforma tributária, iniciaram a
+colheita de assinaturas para a apresentação de proposta de emenda à Constituição.
+
+Sobre a hipótese narrada, à luz da sistemática constitucional, assinale a afirmativa correta.
+
+a) Os acontecimentos verificados nos Estados das Regiões Norte e Sul do País não geram
+reflexos no processo legislativo, mas podem ensejar tanto a decretação da intervenção federal
+como a decretação do estado de defesa.
+
+b) Os acontecimentos verificados nos Estados das Regiões Norte e Sul do País geram reflexos no
+processo legislativo, configurando limites circunstanciais para a reforma constitucional, e se
+harmonizam apenas com a decretação do estado de defesa.
+
+c) Os limites circunstanciais de reforma constitucional estarão presentes apenas nas situações em
+que sejam detectadas instabilidades de caráter nacional, ensejando, em caráter sequencial, a
+decretação do estado de defesa e do estado de sítio, o que não é o caso.
+
+d) Os acontecimentos verificados nos Estados das Regiões Norte e Sul do País podem vir a
+ensejar a decretação do estado de sítio, o que pressupõe a insuficiência das medidas adotadas
+durante a intervenção federal e o estado de defesa, mas não geram reflexos na reforma
+constitucional alvitrada pelos parlamentares.
+
+e) Os acontecimentos verificados no Estado da Região Norte podem ensejar a decretação da
+intervenção federal e do estado de defesa, enquanto aqueles verificados no Estado da Região
+Sul só se harmonizam com a decretação do estado de sítio, sendo que apenas os últimos
+consubstanciam limite circunstancial de reforma constitucional.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, o nosso gabarito! De fato, as situações dispostas no enunciado não
+geram, por si só, reflexos no processo legislativo. No entanto, é possível que ocorra a
+intervenção federal ou o estado de defesa, nos termos do art. 34, III c/c art. 136 da CRFB/88.
+
+
+                                                                                                174
+                                                                                                268
+
+
+---
+
+Isso porque, segundo o art. 60, §1º da CRFB/88, a Constituição não poderá ser emendada na
+vigência de intervenção federal, de estado de defesa ou de estado de sítio. Todavia, o
+entendimento da doutrina é que até podemos ter apresentação de proposta, discussão e
+votação, por exemplo. O que não podemos ter é a promulgação de uma emenda Constitucional.
+
+LETRA B. INCORRETA. A situação descrita na Região Norte e Sul do país não gera, por si só,
+reflexos no processo legislativo. Além disso, no caso da Região Norte, temos a hipótese de
+intervenção federal e não decretação do estado de defesa. O examinador tentou confundir você.
+
+LETRA C. INCORRETA. Os limites circunstanciais de reforma constitucional estão dispostos no
+art. 60, §1º da CRFB/88, que estabelece que a Constituição não poderá ser emendada na
+vigência de intervenção federal, de estado de defesa ou de estado de sítio. Ou seja, não é
+correto afirmar que estarão presentes apenas nas situações em que sejam detectadas
+instabilidades de caráter nacional.
+
+Além disso, s.m.j, temos um outro problema aqui. A alternativa atrela as situações de
+instabilidade ao estado de defesa e de sítio apenas, não mencionando a possibilidade de
+intervenção federal.
+
+LETRA D. INCORRETA. A situação dos Estados do Norte e Sul do país não é passível de
+decretação de estado de sítio. Conforme o art. 137 da CRFB/88, temos que:
+
+Art. 137. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de
+Defesa Nacional, solicitar ao Congresso Nacional autorização para decretar o estado de sítio nos
+casos de:
+
+I - comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia
+de medida tomada durante o estado de defesa (não cita a intervenção federal);
+
+II - declaração de estado de guerra ou resposta a agressão armada estrangeira.
+
+LETRA E. INCORRETA. Temos dois erros aqui. Como vimos, a situação dos Estados do Norte
+enseja a intervenção federal e não o estado de defesa. Além disso, para a região sul, temos a
+possibilidade de estado de defesa e não de sítio como mencionado.
+
+Gabarito LETRA A.
+
+14.​ (FGV/ALEMA/2023) O Procurador-Geral da República ajuizou representação interventiva,
+perante o Supremo Tribunal Federal (STF), sob o argumento de que o Estado Alfa não aplicou o
+mínimo exigido da receita resultante de impostos estaduais em ações e serviços públicos de
+saúde.
+
+Considerando os termos dessa narrativa e a sistemática jurídica afeta à respectiva temática, é
+correto afirmar que se trata de processo.
+
+a) subjetivo, sendo que a procedência do pedido, pelo STF, vincula o Presidente da República em
+relação à necessidade de decretação da intervenção.
+
+b) objetivo, sendo que a procedência do pedido, pelo STF, produz o efeito de decretação da
+intervenção, cabendo ao Presidente da República a nomeação do interventor.
+
+
+                                                                                             175
+                                                                                             268
+
+
+---
+
+c) de controle de constitucionalidade, sendo que a procedência do pedido, pelo STF, somente
+atesta a injuridicidade, cabendo ao Presidente da República avaliar a conveniência de decretar a
+intervenção.
+
+d) de controle da efetividade dos direitos fundamentais, sendo que o Supremo Tribunal Federal
+somente analisará o pedido formulado após o decurso do prazo constitucional para a correção,
+pelo Estado Alfa, da injuridicidade detectada.
+
+e) de conflito federativo, sendo que a procedência do pedido pelo STF desconstituirá os atos
+inconstitucionais e possibilitará que o Congresso Nacional avalie a conveniência da intervenção, a
+ser decretada pelo Presidente da República.
+
+Comentários:
+
+LETRA A. CORRETA. De cara é o nosso gabarito! No caso de ajuizamento de uma representação
+interventiva pelo PGR perante o STF, em razão de o Estado não ter aplicado o mínimo exigido da
+receita resultante de impostos estaduais em ações e serviços públicos de saúde, se o STF acata o
+pedido do PGR essa medida vinculará o Presidente da República.
+
+LETRA B. INCORRETA. A procedência por parte do STF não produz efeito de decretação, sendo
+necessário o posicionamento do Presidente da República com relação à intervenção em si
+(expedição do decreto interventivo).
+
+LETRA C. INCORRETA. A procedência do pedido pelo STF, vincula o Presidente à necessidade
+de decretação da intervenção.
+
+LETRA D. INCORRETA. É desnecessário o decurso do prazo para a correção.
+
+LETRA E. INCORRETA. Segundo o art. 36, §3º da CRFB/88, nos casos do art. 34, VI e VII, ou do
+art. 35, IV, dispensada a apreciação pelo Congresso Nacional ou pela Assembleia Legislativa, o
+decreto limitar-se-á a suspender a execução do ato impugnado, se essa medida bastar ao
+restabelecimento da normalidade.
+
+Gabarito: Letra A.
+
+15.​ (FGV/TCE-ES/2023) O prefeito do Município Alfa tomou conhecimento de que o
+governador do Estado Beta, em cujo território o Alfa está situado, decretou a intervenção
+estadual espontânea no Município. Para tanto, foi invocado, como fundamento do decreto
+estadual, que o Município Alfa: (1º) está se negando a executar as normas de licitações e
+contratos administrativos editadas pela União; (2º) não vem pagando a dívida flutuante; e (3º)
+não aplicou, nos dois últimos exercícios financeiros, o mínimo exigido da receita municipal na
+manutenção e desenvolvimento do ensino.
+Irresignado com a decretação da intervenção, o prefeito municipal solicitou que o
+procurador-geral do Município se manifestasse a respeito de sua compatibilidade com a
+Constituição da República de 1988.
+
+Foi corretamente informado ao prefeito municipal, em relação à compatibilidade, com a ordem
+constitucional, dos três fundamentos invocados no decreto de intervenção, que:
+
+
+                                                                                               176
+                                                                                               268
+
+
+---
+
+a) todos foram corretamente invocados;
+
+b) apenas o 2º fundamento foi corretamente invocado;
+
+c) apenas o 3º fundamento foi corretamente invocado;
+
+d) apenas o 1º e o 2º fundamentos foram corretamente invocados;
+
+e) apenas o 1º e o 3º fundamentos foram corretamente invocados.
+
+Comentários:
+
+Letra A. INCORRETA. Nem todos estão corretos! Apenas o fundamento 3 está correto e em
+perfeita harmonia com o artigo 35, III da CRFB/88.
+
+Letra B. INCORRETA. O 2º fundamento não foi corretamente invocado, de acordo com o art. 35,
+I da CRFB/88. O art. 35, I da CRFB/88, fala em dívida fundada como hipótese de intervenção
+estadual, não flutuante.
+Letra C. CORRETA!!! Apenas o 3º fundamento foi corretamente invocado por estar em perfeita
+harmonia com o artigo 35, III da CFRB/88.
+
+Letra D INCORRETA. O 1º e 2º fundamentos não foram corretamente invocados, de acordo com
+Art. 35, IV da CRFB/88 (fundamento 1) e art. 35, I da CRFB/88 (fundamento 2).
+
+Letra E. INCORRETA. O fundamento 1 não foi corretamente invocado e está errado, de acordo
+com o art. 35, IV da CRFB/88.
+
+Gabarito: Letra C.
+
+16.​ (FGV/Câmara dos Deputados - Consultor Legislativo/2023) A intervenção é um
+instrumento clássico garantidor da indissolubilidade do pacto federativo, sendo, portanto, um
+elemento estabilizador dos estados federais, na medida em que sua decretação excepciona o
+princípio da autonomia dos entes federados (União, Estados-membros, Distrito Federal e
+Municípios) somente em casos extremos de ameaça a tal equilíbrio. Com rigor, a intervenção
+federal deve ser vislumbrada como o último remédio para se manter a integridade nacional e a
+ordem jurídica constitucional. Em linhas gerais, a Intervenção Federal, diferentemente dos
+institutos do Estado de Defesa e do Estado de Sítio, não é uma excepcionalidade ao Estado
+Democrático de Direito visto que a Constituição não prevê para aquele instituto a possibilidade
+de suspensão de direitos ou garantias fundamentais.
+
+Com relação ao fenômeno da intervenção no Estado Democrático de Direito, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) O governador do Estado Alfa decidiu afastar a execução da Lei Federal 123/23. Ato contínuo,
+o Procurador-Geral da República (PGR), mediante requerimento da parte interessada, ajuizou
+Ação Direta de Inconstitucionalidade Interventiva (ADINT) perante Supremo Tribunal Federal
+
+                                                                                            177
+                                                                                            268
+
+
+---
+
+(STF), para fins de intervenção federal. O STF, em decisão final de mérito, julgou procedente o
+pedido de intervenção federal, enviando-a para o Presidente da República, para que este
+decretasse a intervenção no Estado Alfa. Mesmo sem concordar com tal decisão do STF, o
+Presidente da República decreta a intervenção federal do Estado Alfa. Na situação apresentada,
+o STF e o Presidente da República agiram conforme lhes autoriza a Constituição.
+
+( ) O governador do Distrito Federal deixou de cumprir decisões do Tribunal de Justiça do
+Distrito Federal e Territórios (TJDFT), o qual, mediante requerimento da parte interessada,
+comunicou a desobediência ao Superior Tribunal de Justiça (STJ), para fins de intervenção
+federal. O STJ entendeu procedente o pedido de intervenção federal e, em seguida, enviou
+requisição ao Presidente da República para que este decretasse a intervenção federal do Distrito
+Federal. Na situação apresentada, o STJ agiu conforme lhe autoriza a Constituição.
+
+( ) Em um determinado estado da Federação, o governador violou um dos princípios
+constitucionais sensíveis previstos no art. 34, inciso VII, alíneas a-e, da Constituição Federal. Ato
+contínuo, o Presidente do Tribunal de Justiça Local (TJL) envia requisição para o Presidente da
+República (PGR), que aquiescendo resolve então decretar a intervenção federal no referido
+Estado. Na situação apresentada, o Presidente do Tribunal de Justiça Local e o Presidente da
+República agiram conforme lhes autoriza a Constituição.
+
+As afirmativas são, respectivamente, na ordem apresentada,
+
+a) V — V — V.
+
+b) F — F — V.
+
+c) V — F — V.
+
+d) F — V — F.
+
+e) V — V — F.
+
+Comentários:
+
+LETRA A. INCORRETA. A assertiva 3 é falsa, pois a requisição não cabe ao Tribunal de Justiça,
+mas sim ao Procurador Geral da República - PGR. Além disso, a representação será dirigida ao
+STF e não ao Presidente da República. (art. 36, III da CRFB/88)
+
+LETRA B. INCORRETA. As assertivas 1 e 2 estão de acordo com a constituição, já a 3 está falsa.
+
+LETRA C. INCORRETA. A assertiva 2 está correta, já a assertiva 3 está errada.
+
+LETRA D. INCORRETA. A assertiva 1 está correta.
+
+LETRA E. CORRETA. As assertivas 1 e 2 estão de acordo com a Constituição, já a 3 está falsa,
+veja:
+
+
+                                                                                                  178
+                                                                                                  268
+
+
+---
+
+Sobre a assertiva I: é verdadeira, uma vez que relata o que dispõe os art. 34, inciso VI e art. 36,
+inciso III ambos da CRFB/88, vejamos:
+
+                      Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto
+                      para:
+
+                      VI - prover a execução de lei federal, ordem ou decisão judicial.
+
+                      (...)
+
+                      Art. 36. A decretação da intervenção dependerá:
+
+                      III - de provimento, pelo Supremo Tribunal Federal, de representação do
+                      Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de
+                      recusa à execução de lei federal.
+
+Sobre a assertiva II: o STJ agiu corretamente, já que o art. 34, inciso VI e art. 36, inciso II permite
+essa atuação, vejamos:
+
+                      Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto
+                      para:
+
+                      VI - prover a execução de lei federal, ordem ou decisão judicial.
+
+                      Art. 36. A decretação da intervenção dependerá:
+
+                      II - no caso de desobediência a ordem ou decisão judiciária, de
+                      requisição do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou
+                      do Tribunal Superior Eleitoral.
+
+Em relação à competência para proceder à requisição, esta dependerá de onde emanou a
+decisão judicial que está sendo descumprida. Teremos uma competência do STJ quando a
+decisão descumprida for de competência da Justiça Federal ou da Justiça Estadual, salvo quando
+estiver relacionada a alguma questão constitucional, hipótese em que a requisição será efetuada
+pelo STF.
+
+Portanto, está verdadeira a mencionada assertiva.
+
+Sobre a assertiva III: na verdade, não cabe ao TJ, sim ao Procurador-Geral da República, na
+hipótese mencionada. Além disso a representação será dirigida ao STF, não ao Presidente da
+República, vejamos:
+
+                      Art. 34. A União não intervirá nos Estados nem no Distrito Federal, exceto
+                      para:
+
+                      VII - assegurar a observância dos seguintes princípios constitucionais:
+
+
+                                                                                                    179
+                                                                                                    268
+
+
+---
+
+                     a) forma republicana, sistema representativo e regime democrático;
+
+                     b) direitos da pessoa humana;
+
+                     c) autonomia municipal;
+
+                     d) prestação de contas da administração pública, direta e indireta.
+
+                     e) aplicação do mínimo exigido da receita resultante de impostos estaduais,
+                     compreendida a proveniente de transferências, na manutenção e
+                     desenvolvimento do ensino e nas ações e serviços públicos de saúde.
+
+                     Art. 36. A decretação da intervenção dependerá:
+
+                     III - de provimento, pelo Supremo Tribunal Federal, de representação do
+                     Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de
+                     recusa à execução de lei federal.
+
+Gabarito: Letra E.
+
+17.​ (FGV/SENADO FEDERAL/Consultor Legislativo - Orçamento e Análise Econômica/2022)
+Ana, professora e estudiosa do federalismo, foi questionada por uma aluna a respeito dos
+balizamentos constitucionais a serem observados para a decretação de intervenção no ente
+federativo que não aplicar a receita mínima exigida na manutenção e desenvolvimento do
+ensino, conforme previsto na Constituição da República.
+
+Ao contínuo ao questionamento, Ana respondeu corretamente no sentido de que
+
+a) a intervenção da União nos Estados e no Distrito Federal será da espécie provocada, enquanto
+a intervenção do Estado em seus Municípios será espontânea.
+
+b) a intervenção da União nos Estados e no Distrito Federal será da espécie espontânea,
+enquanto a intervenção do Estado em seus Municípios será provocada.
+
+c) se trata de violação a um dos princípios sensíveis previstos na ordem constitucional, sendo que
+a intervenção, nesse caso, em qualquer ente federativo, sempre será provocada.
+
+d) se trata de violação a um dos princípios sensíveis previstos na ordem constitucional, sendo que
+a intervenção, nesse caso, em qualquer ente federativo, sempre será espontânea.
+
+e) embora a ordem constitucional admitida a decretação da intervenção, observados os
+princípios do contraditório e da ampla defesa, é imperativa a realização de prévia mediação, sob
+supervisão do Supremo Tribunal Federal.
+
+                                                                                               180
+                                                                                               268
+
+
+---
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! Sobre a intervenção federal, temos o seguinte:
+
+                    Art. 34 da CRFB/88: A União não intervirá nos Estados nem no Distrito
+                    Federal, exceto para:
+
+                    (...)
+
+                    VII - assegurar a observância dos seguintes princípios constitucionais:
+
+                    (...)
+
+                    e) aplicação do mínimo exigido da receita resultante de impostos estaduais,
+                    compreendida a proveniente de transferências, na manutenção e
+                    desenvolvimento do ensino e nas ações e serviços públicos de saúde.
+
+A intervenção federal provocada é aquela decretação de intervenção realizada pelo Presidente
+da República que depende de um ato provocação. Tal fato ocorre por uma solicitação ou
+requisição. A hipótese do art. 34, VII da CRFB/88 é de intervenção federal provocada, conforme
+o art. 36, III da CRFB/88, confira:
+
+                    Art. 36 da CRFB/88: A decretação da intervenção dependerá:
+
+                    (...)
+
+                    III - de provimento, pelo Supremo Tribunal Federal, de representação do
+                    Procurador-Geral da República, na hipótese do art. 34, VII, e no caso de
+                    recusa à execução de lei federal.
+
+Com relação à Intervenção Estadual, a CRFB/88 dispõe o seguinte:
+
+                    Art. 35 da CRFB/88: O Estado não intervirá em seus Municípios, nem a
+                    União nos Municípios localizados em Território Federal, exceto quando:
+
+                    (...)
+
+                    III - não tiver sido aplicado o mínimo exigido da receita municipal na
+                    manutenção e desenvolvimento do ensino e nas ações e serviços públicos
+                    de saúde.
+
+Perceba que não há qualquer condição para a decretação da intervenção, assim ela ocorrerá de
+forma espontânea.
+
+LETRA B. INCORRETA. Na verdade, a intervenção da União nos Estados e DF se dará de forma
+provocada. Já a dos Estados em seus Municípios será de forma espontânea.
+
+
+                                                                                              181
+                                                                                              268
+
+
+---
+
+LETRA C. INCORRETA. Nem sempre será provocada, depende do ente!
+
+LETRA D. INCORRETA. Nem sempre será espontânea, depende do ente!
+
+LETRA E. INCORRETA. Não há necessidade de mediação.
+
+Gabarito: Letra A.
+
+18.​ (FGV/TJ-MS - 2022) O Tribunal de Contas do Estado Alfa, ao apreciar as contas de
+governo apresentadas pelo prefeito do Município Beta nos três últimos exercícios financeiros,
+detectou a não aplicação do mínimo exigido da receita municipal em ações e serviços públicos
+de saúde. Em razão desse estado de coisas, o prefeito foi informado sobre a existência de um
+forte movimento popular para que seja decretada a intervenção do Estado Alfa no Município
+                                            ==8b9==
+
+Beta. Essa intervenção, considerando a narrativa apresentada, é da modalidade:
+a) provocada e pressupõe o acolhimento de representação, de iniciativa do Ministério Público,
+pelo Tribunal de Justiça, com edição de decreto pelo governador e posterior apreciação da
+Assembleia Legislativa;
+b) provocada e pressupõe o acolhimento de representação, de iniciativa do Tribunal de Contas,
+pelo Tribunal de Justiça, com edição de decreto pelo governador e posterior apreciação da
+Assembleia Legislativa;
+c) espontânea, devendo ser objeto de deliberação da Assembleia Legislativa, a partir de
+provocação de grupos populares, com posterior edição de decreto pelo governador;
+d) provocada e pressupõe representação do Tribunal de Contas, com apreciação da Assembleia
+Legislativa e posterior edição de decreto pelo governador;
+e) espontânea, devendo ser objeto de decreto do governador do Estado, com posterior
+apreciação da Assembleia Legislativa.
+Comentários:
+A questão trouxe o conhecimento do candidato acerca da intervenção, constante no art. 35 da
+CF/88.
+Art. 35. O Estado não intervirá em seus Municípios, nem a União nos Municípios
+localizados em Território Federal, exceto quando:
+III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e
+desenvolvimento do ensino e nas ações e serviços públicos de saúde."
+
+A doutrina elenca basicamente três tipos de intervenção: 01 - intervenção espontânea, 02 - por
+solicitação, 03 - por requisição.
+No caso concreto trazido pela questão, trata-se da intervenção espontânea, a ser realizada pelo
+Governador do Estado através de decreto interventivo, por simetria ao modelo federal. Ademais,
+deve tal decreto ser submetido à Assembleia Legislativa, no prazo de 24 horas, para realização
+de controle político da intervenção (art. 36, §1º, CF).
+O gabarito é a letra E.
+
+
+                                                                                            182
+                                                                                            268
+
+
+---
+
+19.​ (FGV/TCE-AM - 2021) O Município Beta, apesar de ter sido regularmente intimado,
+deixou de cumprir inúmeras ordens judiciais sem que houvesse qualquer justificativa para esse
+proceder, que não a ausência de vontade política em cumpri-las.
+Nesse caso, para que o Estado possa intervir no referido Município, é necessário:
+a) provimento de representação pelo Tribunal de Justiça, edição do decreto de intervenção e sua
+apreciação pela Assembleia Legislativa;
+b) representação do Tribunal de Justiça, edição do decreto de intervenção e sua apreciação pela
+Assembleia Legislativa;
+c) provimento de representação pelo Tribunal de Justiça e edição do decreto de intervenção;
+d) deliberação da Assembleia Legislativa e edição do decreto de intervenção;
+e) representação do Tribunal de Justiça e edição do decreto de intervenção.
+Comentários:
+A alternativa C está correta e é o gabarito da questão.
+O instituto da intervenção é um instrumento trazido pelo legislador constituinte de 1988 visando
+permitir a chamada supressão da autonomia dos entes federados.
+Quando pensamos em intervenção devemos ter em mente a possibilidade de um Estado ou
+Município ter sua autonomia política limitada.
+A regra é a não intervenção de um ente sobre o outro. Contudo, de modo peculiar e
+excepcional, é possível que nós tenhamos o instituto da intervenção.
+Art. 35: O Estado não intervirá em seus Municípios, nem a União nos Municípios
+localizados em Território Federal, exceto quando:
+IV - o Tribunal de Justiça der provimento a representação para assegurar a observância
+de princípios indicados na Constituição Estadual, ou para prover a execução de lei, de
+ordem ou de decisão judicial.
+Art.36, § 3º: Nos casos do art. 34, VI e VII, ou do art. 35, IV, dispensada a apreciação pelo
+Congresso Nacional ou pela Assembleia Legislativa, o decreto limitar-se-á a suspender a
+execução do ato impugnado, se essa medida bastar ao restabelecimento da
+normalidade.
+
+Repare que não há nesse caso deliberação por parte da Assembleia Legislativa.
+O gabarito é a letra C.
+
+
+20.​ (FGV / Prefeitura de Niterói – 2018) O Município XYZ, situado no Estado ABC, enfrenta,
+neste momento, grave situação de insegurança, devido a diários conflitos envolvendo traficantes
+fortemente armados. Tais conflitos já deixaram dezenas de mortos em um período de duas
+semanas, e as tentativas de resposta da polícia foram objeto de retaliação por parte de
+bandidos, aterrorizando a população local. Nesse caso,
+
+                                                                                                183
+                                                                                                268
+
+
+---
+
+a) a União ou o Estado ABC podem intervir no Município XYZ, com o fim de ver restabelecida a
+ordem pública, gravemente comprometida pelos eventos descritos.
+b) pode o Estado ABC intervir no Município XYZ, com o propósito de fazer cessar ameaça à
+segurança pública e à ordem constitucional estabelecida.
+c) a União pode intervir no Estado ABC para pôr fim ao grave comprometimento da ordem
+pública, mas o Estado ABC não pode intervir no Município XYZ nessa hipótese.
+d) a União pode intervir no Município XYZ para o restabelecimento da ordem pública gravemente
+comprometida, devendo submeter o decreto de intervenção à apreciação do Congresso
+Nacional.
+e) não está configurada hipótese de intervenção federal ou estadual, uma vez que esta requer,
+nos termos da Constituição da República, atuação dolosa por parte do Estado ou do Município.
+Comentários:
+A União só pode intervir em Municípios situados em Territórios. Não pode intervir no Município
+XYZ, situado no Estado ABC (art. 35, “caput”, CF). Entretanto, a União pode intervir no Estado
+ABC para pôr fim a grave comprometimento da ordem pública, nos termos do art. 34, III, da
+Constituição.
+O Estado ABC, por sua vez, não pode intervir no Município XYZ para restabelecer a ordem
+pública, por falta de previsão constitucional nesse sentido. Relembremos quais são as hipóteses
+de intervenção estadual:
+
+Art. 35. O Estado não intervirá em seus Municípios, nem a União nos Municípios
+localizados em Território Federal, exceto quando:
+I – deixar de ser paga, sem motivo de força maior, por dois anos consecutivos, a dívida
+fundada;
+II – não forem prestadas contas devidas, na forma da lei;
+III – não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e
+desenvolvimento do ensino e nas ações e serviços públicos de saúde;
+IV – o Tribunal de Justiça der provimento a representação para assegurar a observância
+de princípios indicados na Constituição Estadual, ou para prover a execução de lei, de
+ordem ou de decisão judicial.
+
+O gabarito é a letra C.
+
+                                                                                            184
+                                                                                            268
+
+
+---
+
+                              QUESTÕES COMENTADAS
+
+Teoria Geral do Estado e Organização Político-Administrativa
+
+1.​   (FGV/CAGE RS/Auditor/2025) Determinadas forças políticas do Estado Alfa almejavam
+que a região sudeste do seu território fosse desmembrada para formar um território federal, o
+que contava com considerável adesão de parte da população de Alfa e era duramente criticada
+por outra parte.
+
+Ao consultarem um especialista em relação à conformidade constitucional desse objetivo,
+foi-lhes corretamente esclarecido que
+
+a) apesar de os territórios não integrarem a Federação, não há óbice constitucional à realização
+do objetivo almejado.
+
+b) na medida em que Alfa terá parte de sua autonomia política restringida, é vedada a realização
+do objetivo almejado.
+
+c) é possível a realização desse objetivo, mas será necessária a aprovação da população
+diretamente interessada e a edição de lei ordinária federal.
+
+d) é possível a realização desse objetivo, mas será necessária a confluência de leis, estadual e
+federal, considerando que parte do território de Alfa será absorvida pela União.
+
+e) é possível a realização desse objetivo, mas será necessária a aprovação da população
+diretamente interessada, mediante referendo, e do Congresso Nacional, por lei complementar.
+
+Comentários:
+
+LETRA A. CORRETA. De cara o nosso gabarito! Pessoal, os territórios não são entes federativos,
+tendo em vista que não possuem autonomia. Assim, observamos que se trata de
+descentralização administrativa da União. Devemos lembrar que apenas a União, Estados, DF e
+Municípios são entes federados, vejamos:
+
+                    Art. 18. A organização político-administrativa da República Federativa do
+                    Brasil compreende a União, os Estados, o Distrito Federal e os Municípios,
+                    todos autônomos, nos termos desta Constituição.
+
+LETRA B. INCORRETA. Claro que não! A Constituição prevê o desmembramento do Estado para
+formação de Território Federal, desde que haja aprovação da população diretamente afetada, de
+acordo com o § 3º, do art. 18 da CRFB/88.
+
+                                                                                             185
+                                                                                             268
+
+
+---
+
+LETRA C. INCORRETA. Na verdade, será necessário a aprovação da população diretamente
+interessada, através de plebiscito e do Congresso Nacional por meio de lei complementar, e não
+ordinária (§ 3º do art. 18 da CRFB/88).
+
+LETRA D. INCORRETA. Não há previsão constitucional que afirme ser necessário a confluência de
+leis estadual e federal, bastando apenas que a população interessada aprove por meio de
+plebiscito, assim como o Congresso Nacional através de lei complementar, conforme
+vislumbramos no art. 18, § 3º da CRFB/88:
+
+                     §3º Os Estados podem incorporar-se entre si, subdividir-se ou
+                     desmembrar-se para se anexarem a outros, ou formarem novos Estados ou
+                     Territórios Federais, mediante aprovação da população diretamente
+                     interessada, através de plebiscito, e do Congresso Nacional, por lei
+                     complementar.
+
+LETRA E. INCORRETA. Não! Aprovação da população diretamente interessada será através do
+plebiscito. Não cabe referendo nessa hipótese.
+
+Gabarito: Letra A.
+
+2.​   (FGV/PC-MG/Médico Legista/2025) Lideranças políticas dos Municípios Alfa e Beta,
+situados no Estado Sigma, iniciaram um debate público no qual sustentavam que o primeiro
+desses municípios deveria ser incorporado ao segundo. Em razão da plena aceitação da
+proposta no ambiente sociopolítico, analisaram a Constituição da República de 1988 e
+constataram que, sem prejuízo de outras exigências previstas na ordem jurídica, a referida
+incorporação pressupõe
+
+a) a edição de leis municipais no âmbito de Alfa e Beta.
+
+b) o referendo das populações dos municípios envolvidos.
+
+c) a edição de lei complementar estadual autorizativa da incorporação.
+
+d) a realização pela Assembleia Legislativa de Sigma, de estudo de viabilidade municipal.
+
+e) a realização de consulta prévia às populações dos municípios envolvidos, no período fixado em
+lei complementar federal.
+
+Comentários:
+
+LETRA A. INCORRETA. Para que haja a incorporação é necessário a edição de leis estaduais e
+não municipais, de acordo com o art. 18, § 4º da CRFB/88.
+
+                                                                                             186
+                                                                                             268
+
+
+---
+
+LETRA B. INCORRETA. No caso de incorporação é necessária a prévia consulta da população
+interessada, através do plebiscito.
+
+LETRA C. INCORRETA. Na realidade, deve ser feito dentro do período determinado por Lei
+Complementar Federal (§ 4º do art. 18 da CRFB/88).
+
+LETRA D. INCORRETA. Não! A divulgação dos Estudos de Viabilidade Municipal deve ser
+apresentada e publicada na forma da lei, conforme art. 18, § 4º da CRFB/88.
+
+LETRA E. CORRETA. É o nosso gabarito! No caso apresentado, é necessário consulta prévia a
+população envolvida, através do plebiscito, após divulgação dos Estudos de Viabilidade
+Municipal, apresentados na forma da lei, de acordo com o art. 18, § 4º da CRFB/88:
+
+                     § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios,
+                     far-se-ão por lei estadual, dentro do período determinado por Lei
+                     Complementar Federal, e dependerão de consulta prévia, mediante
+                     plebiscito, às populações dos Municípios envolvidos, após divulgação dos
+                     Estudos de Viabilidade Municipal, apresentados e publicados na forma da
+                     lei.
+
+Gabarito: Letra E.
+
+3.​   (FGV/Prefeitura de São José dos Campos-SP/Procurador/2024) Lei do Estado Gama
+estabeleceu que as unidades escolares da rede estadual de ensino e as bibliotecas públicas
+estaduais ficam obrigadas a manter em seus acervos ao menos um exemplar da Bíblia Sagrada e
+que os respectivos exemplares deverão ser colocados à disposição de alunos, professores e
+demais usuários, em local visível e de fácil acesso. A norma observou, entretanto, que a
+obrigatoriedade prevista não implica restrição ou impedimento para a manutenção, nos acervos
+públicos, de livros sagrados de outras tradições religiosas.
+
+Diante do exposto e da jurisprudência do Supremo Tribunal Federal, é correto afirmar que a
+referida Lei é
+
+a) constitucional, pois tal previsão observa os princípios da laicidade estatal, da liberdade
+religiosa e da isonomia entre os cidadãos.
+
+b) inconstitucional, pois tal previsão ofende os princípios da laicidade estatal, da liberdade
+religiosa e da isonomia entre os cidadãos.
+
+c) constitucional, pois tal previsão garante a efetividade do acesso ao direito fundamental à
+educação a todos os cidadãos.
+
+                                                                                           187
+                                                                                           268
+
+
+---
+
+d) inconstitucional, pois tal previsão ofende a competência privativa da União para legislar sobre
+normas gerais de educação.
+
+e) inconstitucional, pois observa o preâmbulo da Constituição, que não é dotado de força
+normativa, como as demais normas constitucionais e não pode servir de parâmetro de controle.
+
+Comentários:
+
+LETRA A. INCORRETA. A referida lei é inconstitucional, tendo em vista que afronta os princípios
+da laicidade estatal, da liberdade religiosa e da isonomia, de acordo com o entendimento do
+STF.
+
+LETRA B. CORRETA. É o nosso gabarito! O STF entendeu pela inconstitucionalidade da lei que
+impõe a manutenção de exemplares de Bíblia em escolas e bibliotecas públicas estaduais,
+porque afronta à laicidade estatal, bem como a liberdade religiosa:
+
+                     A imposição legal de manutenção de exemplares de Bíblias em escolas e
+                     bibliotecas públicas estaduais configura contrariedade à laicidade estatal e à
+                     liberdade religiosa consagrada pela Constituição da República de 1988”.
+                     STF. Plenário. ADI 5258/AM, Rel. Min. Cármen Lúcia, 2021 (Info 1012).
+
+LETRA C. INCORRETA. Claro que não! A lei fere a laicidade estatal e liberdade religiosa, de
+acordo com o entendimento do STF.
+
+LETRA D. INCORRETA. Apesar de ser inconstitucional, o motivo para está em desconformidade
+com o Texto Constitucional é a afronta à laicidade estatal e a liberdade religiosa, de acordo o
+entendimento jurisprudencial do STF.
+
+LETRA E. INCORRETA. É inconstitucional, por ir de encontro com a laicidade estatal e à
+liberdade religiosa, prevista no art. 19, inciso I do CRFB/88 e o entendimento do STF: “Art. 19. É
+vedado à União, aos Estados, ao Distrito Federal e aos Municípios: (...) I - estabelecer cultos
+religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou
+seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a
+colaboração de interesse público”.
+
+Gabarito: Letra B.
+
+4.​   (FGV/Prefeitura de São José dos Campos-SP/Analista em Gestão Municipal/2024) O
+Município Beta se notabilizou como importante polo turístico de uma região brasileira, fazendo
+que o ensino profissionalizante fosse direcionado ao atendimento dessa importante atividade
+econômica. Com o objetivo de realizar o aproveitamento dessa mão de obra especializada, de
+modo a alcançar o pleno emprego, foi editada a Lei no Y, dispondo que as sociedades
+empresárias, que admitissem pessoas residentes no Município Beta há mais de 5 (cinco) anos,
+
+                                                                                                188
+                                                                                                268
+
+
+---
+
+receberiam benefícios fiscais. Irresignado com o teor da Lei no Y, Antônio consultou o seu
+advogado a respeito da compatibilidade desse diploma normativo com a Constituição da
+República, sendo-lhe corretamente informado que esse diploma normativo
+
+a) afronta a competência concorrente da União e dos Estados para legislar sobre turismo.
+
+b) estabelece preferência indevida entre brasileiros, o que é vedado pela ordem constitucional.
+
+c) foi editado com base na competência do Município Beta para legislar sobre assuntos de
+interesse local.
+
+d) somente será considerada constitucional caso a sua edição tenha sido antecedida de prévio
+estudo de impacto financeiro.
+
+e) somente será considerado constitucional caso esteja lastreado nas normas gerais sobre
+interesse local editadas pela União.
+
+Comentários:
+
+LETRA A. INCORRETA. De modo algum! O caso narrado aborda tema que é interesse local do
+Município, sendo este, único Ente competente para legislar sobre o tema. Ademais, a hipótese
+trata dos benefícios fiscais e tratamento discriminatório e não sobre turismo.
+
+LETRA B. CORRETA. É o nosso gabarito! A Constituição proíbe que os entes federados criem
+distinções entre brasileiros ou preferências entre si, de acordo com o art. 19, inciso III da
+CRFB/88: “”(...) III - criar distinções entre brasileiros ou preferências entre si.
+
+LETRA C. INCORRETA. Apesar dos Municípios possuírem competências para legislar sobre
+assuntos de interesse local, a lei proposta pelo enunciado, ultrapassa essa jurisdição, tendo em
+vista que estabelece distinções entre os brasileiros ou preferências entre si.
+
+Tal situação é vedada pela Constituição, tornando a Lei nº Y, inconstitucional, de acordo com o
+art. 19, inciso III da CRFB/88: “III - criar distinções entre brasileiros ou preferências entre si”.
+
+LETRA D. INCORRETA. Não é o prévio estudo de impacto financeiro que a torna inconstitucional,
+mas sim a criação de distinção entre os brasileiros ou ainda preferências entre si, conforme art.
+19, inciso III da CRFB/88.
+
+LETRA E. INCORRETA. O erro da Lei nº Y foi criar distinção entre os brasileiros e preferências
+entre eles, violando disposição constitucional, conforme art. 19, inciso III da CRFB/88.
+
+                                                                                                 189
+                                                                                                 268
+
+
+---
+
+Gabarito: Letra B.
+
+5.​    (FGV/Câmara Municipal de SP/Consultor Técnico Legislativo/2024) A Constituição Federal
+de 1988, em seu Art. 18, § 4º, prevê alguns requisitos para a criação de novos Municípios. Os
+requisitos a seguir estão previstos no texto constitucional, à exceção de um. Assinale-o.
+
+a) Deve ser feita por lei municipal.
+
+b) Deve ser feita dentro do período determinado por Lei Complementar Federal.
+
+c) Dependerá de consulta prévia às populações dos Municípios envolvidos.
+
+d) Dependerá de realização de plebiscito.
+
+e) Será feita apenas após a divulgação dos Estudos de Viabilidade Municipal.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! O enunciado pede para assinalar a única alternativa
+errada. Quanto a criação de novos Municípios, esse fenômeno deve ocorrer através da edição de
+lei estadual e não municipal, conforme art. 18, § 4º da CRFB/88:
+
+                     § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios,
+                     far-se-ão por lei estadual, dentro do período determinado por Lei
+                     Complementar Federal, e dependerão de consulta prévia, mediante
+                     plebiscito, às populações dos Municípios envolvidos, após divulgação dos
+                     Estudos de Viabilidade Municipal, apresentados e publicados na forma da
+                     lei.
+
+LETRA B. INCORRETA. Um dos requisitos para criação de um Município é que deve ocorrer
+dentro do período determinado pela Lei Complementar Federal, conforme art. 18, § 4º da
+CRFB/88.
+
+LETRA C. INCORRETA. Pegadinha de prova! A criação de um Município depende de consulta
+prévia da população envolvida.
+
+LETRA D. INCORRETA. É necessário que haja o plebiscito na criação de Município, conforme
+determina o art. 18, § 4º da CRFB/88.
+
+LETRA E. INCORRETA. A Constituição determina que a criação de Município apenas deve
+ocorrer após a divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na
+forma da lei. (art. 18, § 4º da CRFB/88).
+
+
+                                                                                           190
+                                                                                           268
+
+
+---
+
+Gabarito: Letra A.
+
+6.​   (FGV/Câmara de Fortaleza-CE/Consultor Legislativo/2024) Um forte movimento popular
+passou a defender a necessidade de criação do Município Alfa, o que deveria ocorrer a partir de
+desmembramento de parte do território do Município Beta. De acordo os defensores dessa
+tese, o território que seria integrado ao futuro Município Alfa, apesar de contar com um
+importante polo industrial, vinha recebendo pouca atenção dos poderes constituídos.
+
+Ao consultar um especialista na matéria, foi corretamente informado ao líder do grupo que
+
+a) com a reforma constitucional de 1996, ocorreu a estabilização federativa, sendo vedada a
+alteração dos entes federados.
+
+b) essa criação estaria condicionada apenas à consulta às populações interessadas, ao estudo de
+viabilidade municipal e à edição de lei estadual.
+
+c) não é possível cogitar a criação de Alfa sem que, antes, a Constituição Estadual seja objeto de
+emenda, ampliando o número de Municípios situados em seu território.
+
+d) além da consulta às populações interessadas e da elaboração de estudos de viabilidade
+municipal, ainda seria necessária a edição de diplomas normativos pela União e pelo Estado.
+
+e) o processo de criação de Alfa somente pode ser deflagrado após a edição de lei estadual que
+disponha nesse sentido, sendo esse diploma normativo de iniciativa privativa do Governador do
+Estado.
+
+Comentários:
+
+LETRA A. INCORRETA. Na realidade, a Constituição permite a criação de novos Municípios,
+desde que seja respeitado os requisitos disposto no Texto Constitucional, de acordo com o art.
+18, § 4º da CRFB/88:
+
+                     § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios,
+                     far-se-ão por lei estadual, dentro do período determinado por Lei
+                     Complementar Federal, e dependerão de consulta prévia, mediante
+                     plebiscito, às populações dos Municípios envolvidos, após divulgação dos
+                     Estudos de Viabilidade Municipal, apresentados e publicados na forma da
+                     lei.
+
+LETRA B. INCORRETA. Além da consulta prévia à população envolvida, o estudo de viabilidade e
+a lei estadual, é necessário que esse fenômeno ocorra dentro do período determinado pela Lei
+Complementar Federal, conforme art. 18, § 4º da CRFB/88.
+
+
+                                                                                               191
+                                                                                               268
+
+
+---
+
+LETRA C. INCORRETA. Não é necessário que a Constituição Estadual seja emendada para a
+criação de novos Municípios. A Constituição Federal exige que haja consulta prévia à população
+envolvida, através do plebiscito, estudo de viabilidade, bem como a edição de diplomas
+normativos estadual e federal.
+
+LETRA D. CORRETA. É o nosso gabarito! A Constituição possibilita a criação de Municípios,
+sendo necessário a consulta prévia a população envolvida, através do plebiscito, a elaboração de
+estudo de viabilidade, bem como a edição de diplomas normativos estadual e federal, consoante
+art. 18, 4º da CRFB/88:
+
+                     § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios,
+                     far-se-ão por lei estadual, dentro do período determinado por Lei
+                     Complementar Federal, e dependerão de consulta prévia, mediante
+                     plebiscito, às populações dos Municípios envolvidos, após divulgação dos
+                     Estudos de Viabilidade Municipal, apresentados e publicados na forma da
+                     lei.
+
+LETRA E. INCORRETA. Não é de iniciativa governamental. A criação de municípios depende de
+um procedimento específico disposto no art. 18, § 4º da CRFB/88.
+
+Gabarito: Letra D.
+
+7.​    (FGV/TJ-SC/Analista Administrativo/2024) João questionou o seu professor em relação às
+características da organização político-administrativa dos entes federativos; mais
+especificamente em relação à possibilidade, ou não, de o ente maior editar as normas básicas de
+organização política (separação dos poderes, processo legislativo etc.) a serem observadas pelos
+entes menores, vale dizer, a União em relação aos estados e aos municípios e o estado em
+relação aos municípios situados em seu território.
+
+O professor respondeu corretamente que:
+
+a) embora não seja obrigatório, o ente maior tem a faculdade de editar as normas básicas de
+organização política a serem observadas pelos entes menores;
+
+b) apesar de o ente maior não poder editar as normas básicas de organização política dos entes
+menores, estes últimos estão obrigados a seguir os princípios afetos às normas básicas do ente
+maior;
+
+c) a edição de normas básicas de organização política, pelo ente maior, a serem observadas
+pelos entes menores, não afasta a possibilidade de estes últimos virem a suplementá-las, o que
+deve ser referendado pelo ente maior;
+
+                                                                                             192
+                                                                                             268
+
+
+---
+
+d) a autonomia política dos entes federados se manifesta apenas na execução das normas
+básicas de organização política previstas na Constituição da República, não sendo possível que
+os entes menores tenham normas próprias;
+
+e) em razão da autonomia política dos entes federativos, o ente maior não pode editar normas
+básicas de organização política dos entes menores, os quais também não estão obrigados a
+seguir os princípios afetos às normas básicas do ente maior.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa está errada, porque o ente maior não possui competência
+para editar as normas básicas de organização política, em razão da autonomia, autoadministração
+e autolegislação que cada ente federativo detém.
+
+LETRA B. CORRETA. É o nosso gabarito! Em razão da autonomia que a Constituição atribui a
+cada ente federativo, a União não possui a competência de editar as normas básicas de
+organização política dos entes menores, no entanto, os Estados, DF e Municípios devem observar
+os princípios norteadores das normas básicas do ente maior, isto é, da União.
+
+LETRA C. INCORRETA. Apesar da edição de normas básicas de organização política pelo ente
+maior não afastar a possibilidade de os entes menores virem a suplementá-las, a Constituição
+Federal não estabelece a necessidade de referendo da União.
+
+LETRA D. INCORRETA. A alternativa está errada, porque os entes federados são dotados de
+autonomia nos aspectos da administração, finanças, legislação e governo, no entanto, devem
+observar os princípios norteadores das normas básicas do ente maior.
+
+LETRA E. INCORRETA. Os entes menores possuem a obrigação de observar os princípios afetos
+às normas básicas do ente maior.
+
+Gabarito: Letra B.
+
+8.​    (FGV/TJ-AP/Analista Judiciário – Apoio Especializado – Administração/2024) Pedro,
+estudante de direito, foi questionado por seu professor em relação às fases do processo
+legislativo para a elaboração de uma lei orgânica municipal. De acordo com Pedro:
+(1) o projeto deve ser aprovado em dois turnos de votação;
+(2) pelo voto de dois terços dos membros da Câmara Municipal; e
+(3) com a sanção do chefe do Poder Executivo.
+Ao analisar as afirmações de Pedro em relação ao processo legislativo, o professor observou,
+corretamente, que:
+
+                                                                                            193
+                                                                                            268
+
+
+---
+
+a) todas estão certas;
+b) apenas a afirmação 2 está certa;
+c) apenas a afirmação 3 está certa;
+d) apenas a afirmação 1 e 2 estão certas;
+e) apenas a afirmação 1 e 3 estão certas.
+Comentários:
+LETRA A. INCORRETA. Apenas as afirmativas 01 e 02 estão de acordo com o art. 29 da CRFB/88,
+sendo errada a afirmativa 3.
+LETRA B. INCORRETA. Na verdade, assim como a afirmativa 02, a 01 também está correta,
+tendo previsão no art. 29 da CRFB/88.
+LETRA C. INCORRETA. A afirmativa 03 está em desacordo com a Constituição, já que não é
+necessária a sanção do chefe do Poder Executivo para que haja a promulgação da Lei Orgânica,
+sendo a Câmara Legislativa responsável por essa atribuição, de acordo com o art. 29 da
+CRFB/88.
+LETRA D. CORRETA. É o nosso gabarito! De acordo com o art. 29 da CRFB/88, o projeto de lei
+orgânica deve ser aprovado em dois turnos de votação e pelo voto de dois terços dos membros
+da Câmara Municipal.
+                     Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com
+                     o interstício mínimo de dez dias, e aprovada por dois terços dos membros
+                     da Câmara Municipal, que a promulgará, atendidos os princípios
+                     estabelecidos nesta Constituição, na Constituição do respectivo Estado e os
+                     seguintes preceitos: (...)
+LETRA E. INCORRETA. A afirmativa 01 está de acordo com o art. 29 da CRFB/88, já a 03 está
+equivocada, já que não é necessária a sanção do chefe do Poder Executivo para que haja a
+promulgação da Lei Orgânica, sendo a Câmara Legislativa responsável por essa atribuição.
+Gabarito: Letra D.
+
+9.​   (FGV/Prefeitura de Vitória-ES/Guarda Civil Municipal/2024) Em uma palestra realizada no
+âmbito de uma universidade pública, Matheus, palestrante, leciona sobre as discussões e
+controvérsias acadêmicas atuais que versam sobre a criação, a incorporação, a fusão e o
+desmembramento de Municípios no Brasil. Nesse cenário, considerando as disposições da
+Constituição Federal, é correto afirmar que a criação, a incorporação, a fusão e o
+desmembramento de Municípios, far-se-ão por lei
+
+a) municipal, dentro do período determinado por Lei Complementar Estadual, e dependerão de
+consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+                                                                                              194
+                                                                                              268
+
+
+---
+
+b) municipal, dentro do período determinado por Lei Complementar Estadual, e dependerão de
+consulta prévia, mediante referendo, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+c) estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de
+consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+d) estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de
+consulta prévia, mediante referendo, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+e) federal, dentro do período determinado por Lei Complementar Estadual, e dependerão de
+consulta prévia, mediante referendo, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+Comentários:
+
+LETRA A. INCORRETA. A criação, fusão, incorporação e desmembramento de Município deve ser
+feito por lei estadual e não municipal, que ocorrerá dentro do período previsto pela Lei
+Complementar Federal e não estadual, de acordo com o art. 18, § 4º da CRFB/88.
+
+LETRA B. INCORRETA. Não é municipal, mas sim estadual. Além disso, deve ser feita dentro do
+período previsto pela lei complementar federal e não estadual.
+
+LETRA C. CORRETA. É o nosso gabarito! A Constituição determina que a criação, fusão,
+incorporação e desmembramento de um Município deve ocorrer através de lei estadual,
+obedecendo o período determinado pela Lei Complementar Federal, sendo necessário a
+consulta prévia da população envolvida, mediante plebiscito, após a divulgação do Estado de
+Viabilidade Municipal, apresentado e publicado na forma da lei, de acordo com art. 18, § 4º da
+CRFB/88:
+
+                    § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios,
+                    far-se-ão por lei estadual, dentro do período determinado por Lei
+                    Complementar Federal, e dependerão de consulta prévia, mediante
+                    plebiscito, às populações dos Municípios envolvidos, após divulgação dos
+                    Estudos de Viabilidade Municipal, apresentados e publicados na forma da
+                    lei.
+
+                                                                                           195
+                                                                                           268
+
+
+---
+
+LETRA D. INCORRETA. A consulta prévia a população envolvida deve ocorrer através do
+plebiscito e não referendo, de acordo com o art. 18, § 4º da CRFB/88:
+
+LETRA E. INCORRETA. Deve ser editada lei estadual, sendo tal fenômeno ocorrendo dentro do
+período determinado por lei complementar federal. Além disso, a consulta prévia a população,
+deve ser realizada através do plebiscito, conforme o art. 18, § 4º da CRFB/88:
+
+Gabarito: Letra C.
+
+10.​ (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo/2023) Após amplo debate entre
+os Vereadores do Município Alfa, o Regimento Interno da Câmara Municipal foi alterado,
+passando a dispor detalhadamente sobre a organização das funções legislativas e fiscalizadoras
+da Câmara Municipal. A medida foi muito comemorada por diversas lideranças partidárias,
+considerando a situação de verdadeira anomia, na perspectiva exclusivamente municipal,
+vivenciada até então, já que a Lei Orgânica passava ao largo dessa temática, sendo utilizadas,
+por simetria, as normas da Constituição da República de 1988.
+Por outro lado, o Partido Político Sigma, de oposição e que configurava minoria na Câmara
+Municipal, ficou irresignado com a referida disciplina, por entender que a matéria deveria
+assumir natureza legal, e solicitou que o seu advogado analisasse a compatibilidade da novel
+disciplina com a Constituição da República de 1988.
+O advogado respondeu corretamente que a matéria
+a) deveria ser disciplinada na Lei Orgânica de Alfa, não no Regimento Interno da respectiva
+Câmara Municipal.
+b) foi corretamente disciplinada no Regimento Interno da Câmara Municipal de Alfa,
+considerando o autogoverno do Poder Legislativo.
+c) não dependia de disciplina em norma infraconstitucional, pois a temática já é prevista de
+maneira exauriente na Constituição da República de 1988.
+d) não prescindia da participação do Chefe do Poder Executivo no processo de elaboração
+normativa, indicativo de que deveria ser disciplinada em lei.
+e) além de estar disciplinada de maneira exauriente na Constituição da República de 1988, é
+expressamente vedada a realização de qualquer inovação em sede regimental.
+Comentários:
+LETRA A. CORRETA. De cara, o nosso gabarito! Como restou explicado, a organização das
+funções legislativas e fiscalizadoras das Câmaras Municipais devem ser disciplinadas pela Lei
+Orgânica do Município, não sendo possível tal matéria ser tratada através de Regimento Interno,
+já que violaria o inciso XI do art. 29 da CRFB/88.
+LETRA B. INCORRETA. A alternativa está errada, porque não pode ser tratada por meio de
+Regimento Interno da Câmara Municipal, já que é matéria que deve estar disciplinada na Lei
+Orgânica Municipal.
+
+                                                                                            196
+                                                                                            268
+
+
+---
+
+LETRA C. INCORRETA. A organização das funções legislativas e fiscalizadoras das Câmaras
+Municipais deve ser disciplinada pela Lei Orgânica Municipal. Vale ressaltar que a matéria não
+está prevista de forma exauriente na CRFB/88.
+LETRA D. INCORRETA. Na verdade, a matéria só pode ser prevista pela Lei Orgânica Municipal.
+LETRA E. INCORRETA. A matéria não está disciplinada de forma exauriente na Constituição
+Federal, devendo ser disciplinada pela Lei Orgânica do Município.
+Gabarito LETRA A.
+
+11.​ (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo/2023) João, vereador no
+Município Alfa, pretendia iniciar tratativas com seus pares para discutir o valor da
+contraprestação estipendial mensalmente paga aos edis. Para subsidiar as conversas, solicitou
+que um estagiário do seu gabinete realizasse breve estudo dos balizamentos a serem
+observados.
+Ao fim do estudo, o estagiário apresentou, entre outras conclusões, que
+I. a soma do vencimento base com a representação de gabinete e demais gratificações pagas
+não poderia ultrapassar o valor recebido pelos Deputados Estaduais, conforme os balizamentos
+constitucionais.
+II. o valor a ser recebido mensalmente pelos vereadores deveria ser definido em lei.
+III. a lei somente produzirá efeitos no exercício financeiro seguinte ao da sua publicação.
+IV. a Câmara Municipal de Alfa não pode gastar mais de setenta por cento de sua receita com
+folha de pagamento, incluído o gasto com os valores pagos aos Vereadores.
+Ao cotejar as conclusões do estagiário com a Constituição da República de 1988, João concluiu
+corretamente que
+a) todas estão certas.
+b) apenas a conclusão II está certa.
+c) apenas a conclusão IV está certa.
+d) apenas as conclusões III e IV estão certas.
+e) apenas as conclusões I, II e III estão certas.
+Comentários:
+Aqui, precisamos ter conhecimento sobre os Vereadores. Vamos analisar cada afirmativa?
+I. a soma do vencimento base com a representação de gabinete e demais gratificações pagas
+não poderia ultrapassar o valor recebido pelos Deputados Estaduais, conforme os balizamentos
+constitucionais.
+A afirmativa é inverídica, porque os vereadores recebem através de subsídios, não englobando
+representação em gabinete e gratificações, vejamos:
+
+                                                                                              197
+                                                                                              268
+
+
+---
+
+                      Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com
+                      o interstício mínimo de dez dias, e aprovada por dois terços dos membros
+                      da Câmara Municipal, que a promulgará, atendidos os princípios
+                      estabelecidos nesta Constituição, na Constituição do respectivo Estado e os
+                      seguintes preceitos: (...)
+                      VI - o subsídio dos vereadores será fixado pelas respectivas Câmaras
+                      Municipais em cada legislatura para a subsequente, observado o que dispõe
+                      esta Constituição, observados os critérios estabelecidos na respectiva Lei
+                      Orgânica e os seguintes limites máximos:
+                      a) em Municípios de até dez mil habitantes, o subsídio máximo dos
+                      Vereadores corresponderá a vinte por cento do subsídio dos Deputados
+                      Estaduais.
+II. o valor a ser recebido mensalmente pelos vereadores deveria ser definido em lei.
+A afirmativa está errada, porque o subsídio recebido pelos vereadores é fixado pelas respectivas
+Câmaras Municipais, não por lei, vejamos:
+                      Art. 29. (...) VI da CRFB/88: o subsídio dos Vereadores será fixado pelas
+                      respectivas Câmaras Municipais em cada legislatura para a subsequente,
+                      observado o que dispõe esta Constituição, observados os critérios
+                      estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos.
+III. a lei somente produzirá efeitos no exercício financeiro seguinte ao da sua publicação.
+A afirmativa está errada, porque o subsídio fixado pelas respectivas Câmaras Municipais passa a
+produzir efeitos na legislatura seguinte a sua fixação, não no exercício financeiro seguinte,
+vejamos:
+                      VI – o subsídio dos Vereadores será fixado pelas respectivas Câmaras
+                      Municipais em cada legislatura para a subsequente, observado o que
+                      dispõe esta Constituição, observados os critérios estabelecidos na
+                      respectiva Lei Orgânica e os seguintes limites máximos.
+Uma legislatura é o período de quatro anos de execução das atividades pelo Congresso
+Nacional.
+IV. a Câmara Municipal de Alfa não pode gastar mais de setenta por cento de sua receita com
+folha de pagamento, incluído o gasto com os valores pagos aos Vereadores.
+A afirmativa está de acordo com o texto constitucional, conforme disposição do art. 29-A, § 1º da
+CRFB/88:
+                      § 1º A Câmara Municipal não gastará mais de setenta por cento de sua
+                      receita com folha de pagamento, incluído o gasto com o subsídio de seus
+                      Vereadores.
+Assim, podemos concluir que o nosso gabarito é a LETRA C!
+Agora, confira as outras alternativas.
+(...)
+
+                                                                                               198
+                                                                                               268
+
+
+---
+
+LETRA A. INCORRETA. Apenas a alternativa IV está correta, de acordo com o art. 29-A, § 1º da
+CRFB/88!
+LETRA B. INCORRETA. O item II está em desacordo com Constituição, porque o subsídio
+recebido pelos vereadores é fixado pelas respectivas Câmaras Municipais, não por lei.
+LETRA C. CORRETA. É o nosso gabarito! Apenas o item IV está correto, conforme art. 29-A, §1º
+da CRFB/88.
+LETRA D. INCORRETA. A alternativa está errada, porque o item III está em desacordo com a
+CRFB/88, já que o subsídio fixado pelas respectivas Câmaras Municipais passa a produzir efeitos
+na legislatura seguinte à sua fixação, não no exercício financeiro seguinte.
+LETRA E. INCORRETA. Como vimos, os itens I, II e III estão incorretos.
+Gabarito Letra C.
+
+12.​ (FGV/ISS-RJ/Fiscal de Rendas/2023) O presidente da República editou a Medida
+Provisória n° X, com base nos referenciais de relevância e urgência, estabelecendo os requisitos
+para a criação de Territórios Federais. Após a tramitação constitucional, com a realização de
+calorosos debates no âmbito do Poder Legislativo, o texto da lei de conversão foi aprovado com
+modificações substanciais em relação à proposta apresentada, vindo a ser ato contínuo,
+promulgado pelo presidente do Congresso Nacional, daí advindo a Lei federal n° Y.
+Nesse caso, à luz da sistemática constitucional, é correto afirmar que a narrativa acima:
+a) não apresenta qualquer irregularidade;
+b) somente apresenta irregularidade em relação à matéria objeto da medida provisória;
+c) somente apresenta irregularidade em relação à aprovação de modificações à medida
+provisória;
+d) somente apresenta irregularidade em relação à matéria objeto da medida provisória e ao não
+encaminhamento da proposição à sanção presidencial;
+e) somente apresenta irregularidade em relação à aprovação de modificações à medida
+provisória e ao não encaminhamento da proposição à sanção presidencial.
+Comentários:
+Letra A. INCORRETA. É errado dizer que a narrativa não apresenta qualquer irregularidade, pois
+temos problemas em relação à matéria objeto da medida provisória e ao não encaminhamento
+da proposição à sanção presidencial (art. 18, §2º e 62, § 1º, III da CRFB/88).
+Letra B. INCORRETA. Cuidado!! Também há irregularidade quanto ao não encaminhamento da
+proposição à sanção presidencial, pois o texto aprovado com modificações deverá ser
+encaminhado ao Presidente da República para sanção ou veto.
+Letra C. INCORRETA. Temos irregularidade em relação à matéria objeto da medida provisória,
+segundo o art. 62, § 1º, III CRFB/88.
+
+                                                                                             199
+                                                                                             268
+
+
+---
+
+Letra D. CORRETA. Opa, temos o gabarito! Somente apresenta irregularidade em relação à
+matéria objeto da medida provisória e ao não encaminhamento da proposição à sanção
+presidencial, nos termos do art. 18, §2º e 62, § 1º, III da Constituição Federal.
+Letra E. INCORRETA. Hum! O detalhe é que temos uma irregularidade em relação à matéria
+objeto da medida provisória, segundo o art. 62, § 1º, III CRFB/88. O item está errado!
+Gabarito: Letra D.
+
+13.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Em iniciativa muito criticada por diversos
+parlamentares, o Presidente da República editou a Medida Provisória nº X, dispondo sobre a
+possibilidade de os territórios federais serem criados, bem como sobre os requisitos a serem
+preenchidos para a sua reintegração ao Estado de origem. Apesar da resistência, a Medida
+Provisória nº X foi apreciada em ambas as Casas do Congresso Nacional, as quais, com o voto
+favorável da maioria simples dos respectivos membros, a converteram na Lei nº Y.
+
+Irresignado com o processo legislativo cujo desfecho foi a edição da Lei nº Y, o Partido Político
+Alfa, que conta com representação apenas na Câmara dos Deputados, consultou o seu
+advogado a respeito da conformidade constitucional desse diploma normativo.
+
+Foi corretamente respondido a Alfa que
+
+a) a Medida Provisória nº X apresenta vício quanto ao seu objeto.
+
+b) o quórum de aprovação da Medida Provisória nº X acarretou vício insanável na Lei nº Y.
+
+c) eventuais vícios de inconstitucionalidade da Medida Provisória nº X não se comunicam com a
+Lei nº Y.
+
+d) como os territórios federais integram a União, não é possível transitarem desse ente federativo
+para os Estados.
+
+e) o território federal, enquanto ente federativo, deve ter o surgimento, a alteração e a extinção
+estabelecidos pela ordem jurídica, podendo tornar-se, ou não, um Estado.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! A Medida Provisória nº X editada pelo Presidente da
+República apresenta vício quanto a seu objeto, justamente por tratar de matéria reservada à Lei
+Complementar (criação dos Territórios Federais), conforme os arts. 18, §2º e 62, §1º inciso III
+ambos da CRFB/88.
+
+LETRA B. INCORRETA. O vício não está no quórum de aprovação, mas sim no objeto.
+
+                                                                                               200
+                                                                                               268
+
+
+---
+
+LETRA C. INCORRETA. Na verdade, os vícios da MP se comunicam com a Lei nº Y.
+
+LETRA D. INCORRETA. É possível transitar da União para os Estados, conforme o art. 18, §2º da
+CRFB/88. De acordo com o referido dispositivo, os Territórios Federais integram a União, e sua
+criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei
+complementar.
+
+ LETRA E. INCORRETA. Os territórios federais não são entes federativos. Conforme o
+entendimento doutrinário, são meras autarquias territoriais da União.
+
+Gabarito: Letra A.
+
+14.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Município Alfa foi criado, em momento
+posterior à promulgação da Emenda Constitucional nº 15/1997, mais especificamente em 2007,
+com base exclusivamente em permissivo da Lei nº X, do Estado Alfa, em cujo território estava
+localizado, e sem a realização de consulta prévia às populações diretamente interessadas.
+
+Em demanda na qual se opuseram os Municípios Alfa e Beta, este último, do qual Alfa fora
+desmembrado, argumentava que a referida criação era inconstitucional, logo, não poderia
+realizar o lançamento do imposto sobre a propriedade predial e territorial urbana (IPTU) dos
+imóveis situados no território que fora ilicitamente atribuído a Alfa. Afinal, a competência
+tributária seria de Beta, pois o seu território não fora desmembrado de forma válida. Alfa, por
+sua vez, argumentava que sua criação, promovida por lei publicada em 2007, foi posteriormente
+convalidada pela Emenda Constitucional nº 57/2008, logo, fazia jus ao IPTU.
+
+À luz da sistemática constitucional, é correto afirmar que a criação de Alfa:
+
+a) embora tenha sido irregular, foi convalidada pela Emenda Constitucional nº. 57/2008.
+
+b) por ter decorrido da prática de ato inconstitucional, não poderia ser convalidado em momento
+posterior.
+
+c) não foi convalidada pela Emenda Constitucional nº. 57/2008, apenas porque a lei de criação
+foi publicada em momento inadequado.
+
+d) não foi convalidada pela Emenda Constitucional nº. 57/2008, apenas porque não fora ouvida,
+mediante plebiscito, a população diretamente interessada.
+
+e) não foi convalidada pela Emenda Constitucional nº. 57/2008, já que a lei de criação foi
+publicada em momento inadequado e não fora ouvida, mediante plebiscito, a população
+diretamente interessada.
+
+Comentários:
+
+                                                                                            201
+                                                                                            268
+
+
+---
+
+LETRA A. INCORRETA. A alternativa está errada, porque a lei não foi convalidada pela Emenda
+Constitucional nº 57/2008. A lei do Município Alfa nasce em 2007, ao passo que a EC nº 57/08,
+em seu art. 96, convalidou o processo de alteração territorial dos municípios até 2006. Além
+disso, não houve a observância da consulta prévia por meio do plebiscito.
+
+LETRA B. INCORRETA. Poderia ter sido convalidada se tivesse sido publicada a Lei do Município
+Alfa até 2006 e respeitado o processo de consulta prévia por meio do plebiscito.
+
+LETRA C. INCORRETA. Além de ter sido publicada em momento inadequado, ou seja, após o
+ano de 2006, ainda sim não ocorreu a consulta prévia à população interessada por meio do
+instrumento do plebiscito.
+
+LETRA D. INCORRETA. A alternativa está errada, pois a lei foi publicada em momento
+inadequado, conforme vimos nas alternativas anteriores.
+
+LETRA E. CORRETA. É o nosso gabarito! De fato, a lei não foi convalidada pela EC nº. 57/08, já
+que foi publicada em momento inadequado (após 2006), bem como não foi realizado o
+plebiscito com a consulta prévia à população interessada, nos termos do 18, § 4º da CRFB/88.
+Assim, observou o Supremo Tribunal Federal - STF no julgamento da ADI nº 3.682/MT e mais
+recentemente no RE 614384 (Tema 559).
+
+Gabarito LETRA E.
+
+15.​ (FGV/TJ-SE/2023) O Município Alfa, de grande potencial turístico, com o objetivo de
+estimular o desenvolvimento de uma cultura “municipalista”, editou a Lei municipal nº X,
+dispondo que as empresas da área de turismo somente poderiam contratar pessoas residentes
+há mais de dez anos no referido Município. Essa vedação somente seria excepcionada caso
+demonstrada a inexistência de pessoas que preenchessem esse requisito.
+
+À luz da sistemática estabelecida na Constituição da República de 1988, a Lei municipal nº X é:
+
+a) constitucional, considerando que os Municípios devem legislar sobre os interesses locais;
+
+b) inconstitucional, pois é vedado aos entes federativos criar quaisquer preferências entre
+brasileiros;
+
+c) constitucional, considerando que cada ente federativo é livre para estabelecer as distinções
+que mais se ajustem aos interesses da respectiva população;
+
+d) constitucional, considerando que a Lei municipal nº X limita-se a reproduzir o comando
+constitucional que excepciona a igualdade formal para alcançar a igualdade material;
+
+e) inconstitucional, pois o tratamento diferenciado só é possível em relação a brasileiros
+residentes em regiões diferentes, face à obrigação de reduzir as desigualdades regionais.
+
+Comentários:
+
+
+                                                                                               202
+                                                                                               268
+
+
+---
+
+LETRA A. INCORRETA. A Lei é inconstitucional, uma vez que viola os arts. 19, III e 22, inciso I da
+CRFB/88.
+
+LETRA B. CORRETA. É o nosso gabarito! De fato, a Lei nº X editada pelo Município é
+inconstitucional, já que é vedado que os entes federativos criem preferências entre os brasileiros.
+
+LETRA C. INCORRETA. A Lei nº X é inconstitucional, não sendo permitido que os entes
+federativos promovam a distinção entre os brasileiros.
+
+LETRA D. INCORRETA. A Lei é inconstitucional por violar o comando do art. 19, inciso III da
+CRFB/88, que veda a distinção e preferência entre os brasileiros. Além disso, a referida lei tratou
+de matéria de competência legislativa privativa da União disposta no art. 22, inciso I, da
+CRFB/88. Temos aqui uma inconstitucionalidade formal.
+
+LETRA E. INCORRETA. Em regra, não é possível a criação de distinção e preferência entre
+brasileiros residentes em regiões diferentes, conforme disposição do art. 19, inciso III da
+CRFB/88.
+
+Gabarito: Letra B.
+
+16.​ (FGV/ALE-MA/2023) O Deputado Federal João, com o objetivo de honrar compromisso
+assumido junto à sua base eleitoral, solicitou que sua assessoria analisasse a possibilidade de a
+região norte do Estado- membro Alfa ser desmembrada e formar um novo Estado-membro da
+federação brasileira.
+
+Após alentada pesquisa, a assessoria concluiu corretamente que o almejado desmembramento
+da região norte de Alfa, à luz da Constituição da República,
+
+a) não é possível, considerando a indissolubilidade da federação brasileira.
+
+b) é possível, desde que haja aprovação da população diretamente interessada e do Congresso
+Nacional, por meio de lei complementar.
+
+c) é possível, desde que o desmembramento seja acolhido em plebiscito pela população de Alfa
+e a Constituição Estadual seja alterada para modificar os limites do seu território.
+
+d) não é possível, considerando que a mobilidade da federação, no plano endógeno, está
+adstrita aos Municípios, e, no plano exógeno, pressupõe a incorporação de novos territórios.
+
+e) é possível, sendo necessário o referendo da proposta pela população da região norte de Alfa,
+conforme normas estabelecidas pelo Congresso Nacional e a edição de lei complementar
+estadual.
+
+                                                                                                203
+                                                                                                268
+
+
+---
+
+Comentários:
+
+Letra A. INCORRETA. Pegadinha!!!! Não é possível que um Estado se desmembre para formar
+um novo Estado dotado de soberania. É o chamado princípio da indissolubilidade do vínculo
+federativo.Entretanto, é possível que um Estado se desmembre para formar um novo Estado
+dotado apenas de autonomia, permanecendo dentro do modelo federal e desde que respeite a
+organização político-administrativa.
+
+Letra B. CORRETA. Segundo a Constituição, podemos ter alteração territorial na estrutura dos
+Estados, de modo que estes “podem incorporar-se entre si, subdividir-se ou desmembrar-se para
+se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação
+da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei
+complementar. (art. 18, §3º da CRFB/88)
+
+Letra C. INCORRETA. Não há necessidade de alteração da Constituição Estadual para modificar
+os limites do seu território.
+
+Letra D. INCORRETA. Nada a ver. Alternativa sem sentido algum rs. É possível a alteração
+territorial, desde que haja aprovação da população diretamente interessada e do Congresso
+Nacional, por meio de lei complementar.
+
+Letra E. INCORRETA. Humm...que maldade do examinador!! Não é referendo, mas sim
+plebiscito. Vale destacar que, na visão do STF, a consulta popular a ser feita por plebiscito deve
+ser para toda a população interessada. (E não apenas à população que faz parte do território
+desmembrado ou incorporado, por exemplo) (art. 18, §3º da CRFB/88)
+
+Gabarito: Letra B.
+
+17.​ (FGV/ALE-MA/2023) Após amplo levantamento, a Secretaria de Patrimônio do Estado
+Alfa constatou a existência de uma larga faixa de terra, ao sul do seu território, que jamais
+recebera qualquer destinação pelo Poder Público ou integrara o patrimônio de um particular.
+Essa faixa de terra, ademais, era considerada indispensável, pelos biólogos, à preservação de um
+ecossistema próximo. Considerando as dificuldades de fluxo de caixa do Estado Alfa, a referida
+Secretaria sugeriu ao Governador do Estado a alienação dessa faixa de terra.
+
+É correto afirmar que a sugestão apresentada
+
+a) não pode ser acolhida por se tratar de terra pertencente à União.
+
+b) não pode ser acolhida, por se tratar de terra pertencente aos Municípios.
+
+c) pode ser acolhida, o que pressupõe prévia autorização da Assembleia Legislativa.
+
+                                                                                               204
+                                                                                               268
+
+
+---
+
+d) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+faixa de terra tiver sido declarada como área de preservação ambiental.
+
+e) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+indispensabilidade à proteção ambiental tiver sido reconhecida em lei da União.
+
+Comentários:
+
+A questão trata dos Bens Pertencentes à União, dispostos no art. 20, II da CRFB/88.
+
+Entre esses bens, podemos encontrar as terras devolutas, que são àquelas terras públicas sem
+destinação pelo Poder Público, não integrando nenhum patrimônio de particular, mesmo que
+venham a estar em sua posse de forma irregular.
+
+Vale a leitura do art. 20, inciso II:
+
+Art. 20. São bens da União:
+
+(...)
+
+II - as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções
+militares, das vias federais de comunicação e à preservação ambiental, definidas em lei.
+
+Portanto, podemos afirmar que o Estado Alfa não pode alienar a referida terra, uma vez que
+pertence à União.
+
+Logo podemos concluir que o nosso gabarito é a LETRA A!
+
+Para finalizar, faça uma análise das demais alternativas.
+
+(...)
+
+LETRA A. CORRETA. De cara, o nosso gabarito! De fato, o Estado Alfa não pode alienar as terras
+devolutas, por se tratar de terra pertencente à União.
+
+LETRA B. INCORRETA. Não pertence aos Municípios, pertence à União!
+
+LETRA C. INCORRETA. Não é necessária a autorização da Assembleia Legislativa, uma vez que as
+terras devolutas pertencem à União.
+
+LETRA D. INCORRETA. As terras devolutas não podem ser acolhidas por se tratar de bem da
+União.
+
+LETRA E. INCORRETA. As terras devolutas não podem ser acolhidas por se tratar de bem da
+União.
+
+Gabarito: Letra A.
+
+                                                                                             205
+                                                                                             268
+
+
+---
+
+18.​ (FGV/SEFAZ MG/2023) O Deputado Estadual João constatou que determinada faixa de
+terras situada na área territorial do Município Beta e, por via reflexa, no território do Estado Alfa,
+no qual Beta estava inserido, jamais integrou o patrimônio de um particular e, além disso, jamais
+teve qualquer destinação atribuída pelo Poder Público.
+
+Com o intuito de saber se essas terras efetivamente pertenciam ao Estado Alfa, de modo que
+pudessem ser objeto de alguma política pública, João consultou sua assessoria, que respondeu
+corretamente no sentido de que terras dessa natureza,
+
+A) independentemente de qualquer especificidade, sempre pertencem à União.
+
+B) independentemente de qualquer especificidade, sempre pertencem ao Estado.
+
+C) independentemente de qualquer especificidade, sempre pertencem ao Município.
+
+D) pertencem ao Estado, excluídas apenas aquelas que, por imperativo constitucional e legal,
+pertencem à União.
+
+E) pertencem ao Município, excluídas apenas aquelas que, por imperativo constitucional e legal,
+pertencem à União ou ao Estado.
+
+Comentários:
+
+Letra A. INCORRETA. As terras devolutas nem sempre serão pertencentes à União. De acordo
+com o art. 26, IV da CF/88, elas podem ser bens dos Estados. Para isso, não devem ser
+indispensáveis à defesa das fronteiras, das fortificações e construções militares, das vias federais
+de comunicação e à preservação ambiental, definidas em lei, conforme art. 20, II da CF/88.
+
+Letra B. INCORRETA. Serão dos Estados as terras devolutas que não são bens da União,
+conforme art. 26, inciso IV da CRFB/88. Lembrando que as terras devolutas da União serão
+apenas aquelas “indispensáveis à defesa das fronteiras, das fortificações e construções militares,
+das vias federais de comunicação e à preservação ambiental, definidas em lei”. (art. 20, inciso II
+da CRFB/88)
+
+Letra C. INCORRETA. Nada a ver. Não se trata de bens dos Municípios. As terras devolutas
+podem ser dos Estados ou da União. Quando se enquadra na hipótese do art. 20, inciso II da
+CRFB/88, pertence à União. Caso contrário, será bem dos Estados.
+
+Letra D. CORRETA. É o entendimento firmado a partir da leitura conjunta do art. 20. inciso II e
+art. 26, inciso IV, ambos da CRFB/88. Assim, pertencem ao Estado, excluídas apenas aquelas que,
+por imperativo constitucional e legal, pertencem à União. Temos o nosso gabarito aqui!
+
+Letra E. INCORRETA. A partir da leitura conjunta do art. 20, II e art. 26, IV ambos da CRFB/88, as
+terras devolutas podem ser dos Estados ou da União. Não podem ser bens dos Municípios.
+
+
+                                                                                                   206
+                                                                                                   268
+
+
+---
+
+Gabarito: Letra D.
+
+19.​ (FGV/TCE-PI - 2021) O Estado Alfa recebeu recursos decorrentes de sua participação no
+resultado da exploração, em seu território, de petróleo, xisto betuminoso e gás natural,
+figurando a União como poder concedente dessas atividades.
+
+À luz da sistemática constitucional, é correto afirmar que os referidos recursos:
+
+a) devem ser repassados mediante convênio, sujeitando-se à fiscalização do Tribunal de Contas
+da União;
+
+b) são receitas originárias do Estado Alfa, sujeitando-se apenas à fiscalização do respectivo
+Tribunal de Contas;                            ==8b9==
+
+c) devem ser fiscalizados pelos Tribunais de Contas da União e do Estado Alfa, pois estão
+vinculados a ambos os entes;
+
+d) apenas podem ser utilizados para amortização da dívida com a União, sendo fiscalizados pelo
+Tribunal de Contas da União;
+
+e) podem ser fiscalizados pelo Tribunal de Contas da União ou pelo do Estado Alfa, conforme
+dispuser o ajuste com a União.
+
+Comentários:
+
+A alternativa B está correta e é o gabarito da questão.
+
+O entendimento jurisprudencial acerca do caso é que, embora os recursos naturais da plataforma
+continental e os recursos minerais sejam bens da União (art. 20, V e IX, CF), a participação ou
+compensação aos Estados, DF e Municípios no resultado da exploração de petróleo, xisto
+betuminoso e gás natural são receitas originárias destes últimos entes federativos (Art. 20, §1º,
+CF).
+
+Segundo o STF (ADI 4606), “as rendas obtidas nos termos do art. 20, § 1º, da CF constituem
+receita patrimonial originária, cuja titularidade – que não se confunde com a dos recursos
+naturais objetos de exploração – pertence a cada um dos entes federados afetados pela
+atividade econômica”.
+
+Com base no entendimento do STF fixado no MS 24312 DF, “embora os recursos naturais da
+plataforma continental e os recursos minerais sejam bens da União (CF, art. 20, V e IX), a
+participação ou compensação aos Estados, Distrito Federal e Municípios no resultado da
+exploração de petróleo, xisto betuminoso e gás natural são receitas originárias destes últimos
+entes federativos (CF, art. 20, § 1º). É inaplicável, ao caso, o disposto no art. 71, VI da Carta
+Magna que se refere, especificamente, ao repasse efetuado pela União - mediante convênio,
+acordo ou ajuste - de recursos originariamente federais”.
+
+                                                                                              207
+                                                                                              268
+
+
+---
+
+Portando, restaria afastada a competência do TCU para fiscalizar tais valores. Desse modo, cabe
+ao TCE realizar tal fiscalização.
+
+20.​ (FGV/PM-RJ - 2021) A Constituição do Estado Alfa, com o objetivo de conter o crescente
+déficit público, sabidamente acentuado em razão da drástica diminuição do turismo e da
+consequente redução da arrecadação tributária, estabeleceu a correspondência, considerando a
+população local, dos subsídios dos Vereadores dos Municípios situados em seu território com o
+dos Deputados Estaduais.
+
+À luz da sistemática constitucional, é correto afirmar que a Constituição do Estado Alfa
+
+a) não pode dispor livremente sobre a matéria, que deve ser disciplinada em cada lei orgânica.
+
+b) não pode dispor livremente sobre a matéria, que é disciplinada na Constituição da República.
+
+c) não pode dispor livremente sobre a matéria, que deve ser disciplinada em resolução de cada
+Câmara Municipal.
+
+d) pode dispor livremente sobre a matéria, de modo que cada Estado pode definir os patamares
+máximos tidos como adequados.
+
+e) pode dispor livremente sobre a matéria, mas sem exaurir a disciplina, que deve ser
+complementada pela lei orgânica de cada Município.
+
+Comentários:
+
+A alternativa B está correta e é o gabarito da questão.
+
+A Constituição do Estado Alfa não pode dispor livremente sobre a matéria, que é disciplinada na
+Constituição da República. Vejamos como a CF/88 trata o tema:
+
+Art. 29, VI - o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada
+legislatura para a subsequente, observado o que dispõe esta Constituição, observados os
+critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos:
+a) em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores corresponderá a
+vinte por cento do subsídio dos Deputados Estaduais;
+b) em Municípios de dez mil e um a cinquenta mil habitantes, o subsídio máximo dos Vereadores
+corresponderá a trinta por cento do subsídio dos Deputados Estaduais;
+c) em Municípios de cinquenta mil e um a cem mil habitantes, o subsídio máximo dos Vereadores
+corresponderá a quarenta por cento do subsídio dos Deputados Estaduais;
+d) em Municípios de cem mil e um a trezentos mil habitantes, o subsídio máximo dos Vereadores
+corresponderá a cinquenta por cento do subsídio dos Deputados Estaduais
+e) em Municípios de trezentos mil e um a quinhentos mil habitantes, o subsídio máximo dos
+Vereadores corresponderá a sessenta por cento do subsídio dos Deputados Estaduais;
+
+                                                                                                 208
+                                                                                                 268
+
+
+---
+
+f) em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores
+corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais.
+
+Portanto, o assunto já é tratado na CF/88, que impõe limites à Lei Orgânica do Município no que
+se refere ao subsídio dos Vereadores.
+
+21.​ (FGV / DPE-RJ – 2019) Determinado vereador almejava apresentar projeto de lei fixando o
+subsídio a ser pago aos integrantes da Câmara Municipal, tendo solicitado que sua assessoria se
+pronunciasse sobre a existência de algum limite constitucional a esse respeito.
+
+A assessoria respondeu corretamente que, à luz da sistemática constitucional:
+
+a) não existem limites a serem observados;
+
+b) os limites existentes somente estão relacionados à população do Município;
+
+c) os limites existentes estão relacionados ao subsídio dos deputados estaduais;
+
+d) os limites existentes estão relacionados à população do Município e ao subsídio dos
+deputados estaduais;
+
+e) os limites existentes somente estão relacionados ao subsídio dos deputados federais.
+
+Comentários:
+O subsídio pago aos vereadores tem seu valor limitado pela Constituição, de acordo com a
+população do Município, em valor percentual do subsídio dos deputados estaduais (art. 29, VI,
+CF). A título de exemplo, em Municípios de até dez mil habitantes, o subsídio máximo dos
+Vereadores corresponderá a vinte por cento do subsídio dos Deputados Estaduais. O gabarito é
+a letra D.
+
+22.​ (FGV / DPE-RJ – 2019) A Câmara dos Vereadores do Município Alfa aprovou o diploma
+normativo que regeria o Município, por dois terços dos seus membros, após dois turnos de
+votação, com o interstício de dez dias entre cada uma delas.
+
+O referido diploma normativo, na sistemática constitucional, é:
+
+a) a Constituição Municipal;
+
+b) a Lei Orgânica Municipal;
+
+c) a Lei Complementar Municipal;
+
+d) a Lei Ordinária Municipal;
+
+e) o Estatuto Municipal.
+
+                                                                                            209
+                                                                                            268
+
+
+---
+
+Comentários:
+Esse diploma normativo é a Lei Orgânica Municipal. O art. 29 da Carta Magna prevê que o
+Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez
+dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará,
+atendidos os princípios estabelecidos na Constituição e na Constituição do respectivo Estado. O
+gabarito é a letra B.
+
+23.​ (FGV / TJ-SC – 2018) O Município Alfa editou a Lei nº 22/2018, dispondo sobre o horário
+de funcionamento do comércio local, o qual foi considerado inadequado pelos representantes
+dos lojistas. Considerando os prejuízos financeiros que poderiam advir dessa situação, o
+Sindicato dos Lojistas solicitou ao seu departamento jurídico que esclarecesse se o Município
+poderia legislar sobre a matéria.
+
+À luz da sistemática constitucional, o departamento jurídico informou corretamente que a Lei nº
+22/2018 é:
+
+a) constitucional, desde que a lei municipal não ultrapasse os limites estabelecidos nas normas
+gerais editadas pelo Estado;
+
+b) inconstitucional, pois a medida terá reflexos nas relações trabalhistas, matéria de competência
+privativa da União;
+
+c) inconstitucional, pois compete privativamente à União editar sobre direito econômico e
+restringir a livre iniciativa;
+
+d) inconstitucional, pois o princípio da isonomia exige que o trato da matéria seja uniforme,
+exigindo lei estadual;
+
+e) constitucional, pois compete aos Municípios legislar sobre matérias de interesse local.
+
+Comentários:
+Segundo o STF, o Município é competente para fixar o horário de funcionamento de
+estabelecimento comercial (Súmula Vinculante nº 38, STF). Esse entendimento também abrange
+drogarias, farmácias e seus plantões obrigatórios. Portanto, a Lei no 22/2018 é constitucional. O
+gabarito é a letra E.
+
+                                                                                               210
+                                                                                               268
+
+
+---
+
+                                 LISTA DE QUESTÕES
+Teoria Geral do Estado e Organização Político-Administrativa
+
+1.​   (FGV/CAGE RS/Auditor/2025) Determinadas forças políticas do Estado Alfa almejavam
+que a região sudeste do seu território fosse desmembrada para formar um território federal, o
+que contava com considerável adesão de parte da população de Alfa e era duramente criticada
+por outra parte.
+
+Ao consultarem um especialista em relação à conformidade constitucional desse objetivo,
+foi-lhes corretamente esclarecido que
+
+a) apesar de os territórios não integrarem a Federação, não há óbice constitucional à realização
+do objetivo almejado.
+
+b) na medida em que Alfa terá parte de sua autonomia política restringida, é vedada a realização
+do objetivo almejado.
+
+c) é possível a realização desse objetivo, mas será necessária a aprovação da população
+diretamente interessada e a edição de lei ordinária federal.
+
+d) é possível a realização desse objetivo, mas será necessária a confluência de leis, estadual e
+federal, considerando que parte do território de Alfa será absorvida pela União.
+
+e) é possível a realização desse objetivo, mas será necessária a aprovação da população
+diretamente interessada, mediante referendo, e do Congresso Nacional, por lei complementar.
+
+2.​   (FGV/PC-MG/Médico Legista/2025) Lideranças políticas dos Municípios Alfa e Beta,
+situados no Estado Sigma, iniciaram um debate público no qual sustentavam que o primeiro
+desses municípios deveria ser incorporado ao segundo. Em razão da plena aceitação da
+proposta no ambiente sociopolítico, analisaram a Constituição da República de 1988 e
+constataram que, sem prejuízo de outras exigências previstas na ordem jurídica, a referida
+incorporação pressupõe
+
+a) a edição de leis municipais no âmbito de Alfa e Beta.
+
+b) o referendo das populações dos municípios envolvidos.
+
+c) a edição de lei complementar estadual autorizativa da incorporação.
+
+d) a realização pela Assembleia Legislativa de Sigma, de estudo de viabilidade municipal.
+
+
+                                                                                             211
+                                                                                             268
+
+
+---
+
+e) a realização de consulta prévia às populações dos municípios envolvidos, no período fixado em
+lei complementar federal.
+
+3.​   (FGV/Prefeitura de São José dos Campos-SP/Procurador/2024) Lei do Estado Gama
+estabeleceu que as unidades escolares da rede estadual de ensino e as bibliotecas públicas
+estaduais ficam obrigadas a manter em seus acervos ao menos um exemplar da Bíblia Sagrada e
+que os respectivos exemplares deverão ser colocados à disposição de alunos, professores e
+demais usuários, em local visível e de fácil acesso. A norma observou, entretanto, que a
+obrigatoriedade prevista não implica restrição ou impedimento para a manutenção, nos acervos
+públicos, de livros sagrados de outras tradições religiosas.
+
+Diante do exposto e da jurisprudência do Supremo Tribunal Federal, é correto afirmar que a
+referida Lei é
+
+a) constitucional, pois tal previsão observa os princípios da laicidade estatal, da liberdade
+religiosa e da isonomia entre os cidadãos.
+
+b) inconstitucional, pois tal previsão ofende os princípios da laicidade estatal, da liberdade
+religiosa e da isonomia entre os cidadãos.
+
+c) constitucional, pois tal previsão garante a efetividade do acesso ao direito fundamental à
+educação a todos os cidadãos.
+
+d) inconstitucional, pois tal previsão ofende a competência privativa da União para legislar sobre
+normas gerais de educação.
+
+e) inconstitucional, pois observa o preâmbulo da Constituição, que não é dotado de força
+normativa, como as demais normas constitucionais e não pode servir de parâmetro de controle.
+
+4.​   (FGV/Prefeitura de São José dos Campos-SP/Analista em Gestão Municipal/2024) O
+Município Beta se notabilizou como importante polo turístico de uma região brasileira, fazendo
+que o ensino profissionalizante fosse direcionado ao atendimento dessa importante atividade
+econômica. Com o objetivo de realizar o aproveitamento dessa mão de obra especializada, de
+modo a alcançar o pleno emprego, foi editada a Lei no Y, dispondo que as sociedades
+empresárias, que admitissem pessoas residentes no Município Beta há mais de 5 (cinco) anos,
+receberiam benefícios fiscais. Irresignado com o teor da Lei no Y, Antônio consultou o seu
+advogado a respeito da compatibilidade desse diploma normativo com a Constituição da
+República, sendo-lhe corretamente informado que esse diploma normativo
+
+a) afronta a competência concorrente da União e dos Estados para legislar sobre turismo.
+
+
+                                                                                               212
+                                                                                               268
+
+
+---
+
+b) estabelece preferência indevida entre brasileiros, o que é vedado pela ordem constitucional.
+
+c) foi editado com base na competência do Município Beta para legislar sobre assuntos de
+interesse local.
+
+d) somente será considerada constitucional caso a sua edição tenha sido antecedida de prévio
+estudo de impacto financeiro.
+
+e) somente será considerado constitucional caso esteja lastreado nas normas gerais sobre
+interesse local editadas pela União.
+
+5.​    (FGV/Câmara Municipal de SP/Consultor Técnico Legislativo/2024) A Constituição Federal
+de 1988, em seu Art. 18, § 4º, prevê alguns requisitos para a criação de novos Municípios. Os
+requisitos a seguir estão previstos no texto constitucional, à exceção de um. Assinale-o.
+
+a) Deve ser feita por lei municipal.
+
+b) Deve ser feita dentro do período determinado por Lei Complementar Federal.
+
+c) Dependerá de consulta prévia às populações dos Municípios envolvidos.
+
+d) Dependerá de realização de plebiscito.
+
+e) Será feita apenas após a divulgação dos Estudos de Viabilidade Municipal.
+
+6.​   (FGV/Câmara de Fortaleza-CE/Consultor Legislativo/2024) Um forte movimento popular
+passou a defender a necessidade de criação do Município Alfa, o que deveria ocorrer a partir de
+desmembramento de parte do território do Município Beta. De acordo os defensores dessa
+tese, o território que seria integrado ao futuro Município Alfa, apesar de contar com um
+importante polo industrial, vinha recebendo pouca atenção dos poderes constituídos.
+
+Ao consultar um especialista na matéria, foi corretamente informado ao líder do grupo que
+
+a) com a reforma constitucional de 1996, ocorreu a estabilização federativa, sendo vedada a
+alteração dos entes federados.
+
+b) essa criação estaria condicionada apenas à consulta às populações interessadas, ao estudo de
+viabilidade municipal e à edição de lei estadual.
+
+                                                                                              213
+                                                                                              268
+
+
+---
+
+c) não é possível cogitar a criação de Alfa sem que, antes, a Constituição Estadual seja objeto de
+emenda, ampliando o número de Municípios situados em seu território.
+
+d) além da consulta às populações interessadas e da elaboração de estudos de viabilidade
+municipal, ainda seria necessária a edição de diplomas normativos pela União e pelo Estado.
+
+e) o processo de criação de Alfa somente pode ser deflagrado após a edição de lei estadual que
+disponha nesse sentido, sendo esse diploma normativo de iniciativa privativa do Governador do
+Estado.
+
+7.​    (FGV/TJ-SC/Analista Administrativo/2024) João questionou o seu professor em relação às
+características da organização político-administrativa dos entes federativos; mais
+especificamente em relação à possibilidade, ou não, de o ente maior editar as normas básicas de
+organização política (separação dos poderes, processo legislativo etc.) a serem observadas pelos
+entes menores, vale dizer, a União em relação aos estados e aos municípios e o estado em
+relação aos municípios situados em seu território.
+
+O professor respondeu corretamente que:
+
+a) embora não seja obrigatório, o ente maior tem a faculdade de editar as normas básicas de
+organização política a serem observadas pelos entes menores;
+
+b) apesar de o ente maior não poder editar as normas básicas de organização política dos entes
+menores, estes últimos estão obrigados a seguir os princípios afetos às normas básicas do ente
+maior;
+
+c) a edição de normas básicas de organização política, pelo ente maior, a serem observadas
+pelos entes menores, não afasta a possibilidade de estes últimos virem a suplementá-las, o que
+deve ser referendado pelo ente maior;
+
+d) a autonomia política dos entes federados se manifesta apenas na execução das normas
+básicas de organização política previstas na Constituição da República, não sendo possível que
+os entes menores tenham normas próprias;
+
+e) em razão da autonomia política dos entes federativos, o ente maior não pode editar normas
+básicas de organização política dos entes menores, os quais também não estão obrigados a
+seguir os princípios afetos às normas básicas do ente maior.
+
+                                                                                               214
+                                                                                               268
+
+
+---
+
+8.​    (FGV/TJ-AP/Analista Judiciário – Apoio Especializado – Administração/2024) Pedro,
+estudante de direito, foi questionado por seu professor em relação às fases do processo
+legislativo para a elaboração de uma lei orgânica municipal. De acordo com Pedro:
+(1) o projeto deve ser aprovado em dois turnos de votação;
+(2) pelo voto de dois terços dos membros da Câmara Municipal; e
+(3) com a sanção do chefe do Poder Executivo.
+Ao analisar as afirmações de Pedro em relação ao processo legislativo, o professor observou,
+corretamente, que:
+a) todas estão certas;
+b) apenas a afirmação 2 está certa;
+c) apenas a afirmação 3 está certa;
+d) apenas a afirmação 1 e 2 estão certas;
+e) apenas a afirmação 1 e 3 estão certas.
+
+9.​   (FGV/Prefeitura de Vitória-ES/Guarda Civil Municipal/2024) Em uma palestra realizada no
+âmbito de uma universidade pública, Matheus, palestrante, leciona sobre as discussões e
+controvérsias acadêmicas atuais que versam sobre a criação, a incorporação, a fusão e o
+desmembramento de Municípios no Brasil. Nesse cenário, considerando as disposições da
+Constituição Federal, é correto afirmar que a criação, a incorporação, a fusão e o
+desmembramento de Municípios, far-se-ão por lei
+
+a) municipal, dentro do período determinado por Lei Complementar Estadual, e dependerão de
+consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+b) municipal, dentro do período determinado por Lei Complementar Estadual, e dependerão de
+consulta prévia, mediante referendo, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+c) estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de
+consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+d) estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de
+consulta prévia, mediante referendo, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+                                                                                           215
+                                                                                           268
+
+
+---
+
+e) federal, dentro do período determinado por Lei Complementar Estadual, e dependerão de
+consulta prévia, mediante referendo, às populações dos Municípios envolvidos, após divulgação
+dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+10.​ (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo/2023) Após amplo debate entre
+os Vereadores do Município Alfa, o Regimento Interno da Câmara Municipal foi alterado,
+passando a dispor detalhadamente sobre a organização das funções legislativas e fiscalizadoras
+da Câmara Municipal. A medida foi muito comemorada por diversas lideranças partidárias,
+considerando a situação de verdadeira anomia, na perspectiva exclusivamente municipal,
+vivenciada até então, já que a Lei Orgânica passava ao largo dessa temática, sendo utilizadas,
+por simetria, as normas da Constituição da República de 1988.
+Por outro lado, o Partido Político Sigma, de oposição e que configurava minoria na Câmara
+Municipal, ficou irresignado com a referida disciplina, por entender que a matéria deveria
+assumir natureza legal, e solicitou que o seu advogado analisasse a compatibilidade da novel
+disciplina com a Constituição da República de 1988.
+O advogado respondeu corretamente que a matéria
+a) deveria ser disciplinada na Lei Orgânica de Alfa, não no Regimento Interno da respectiva
+Câmara Municipal.
+b) foi corretamente disciplinada no Regimento Interno da Câmara Municipal de Alfa,
+considerando o autogoverno do Poder Legislativo.
+c) não dependia de disciplina em norma infraconstitucional, pois a temática já é prevista de
+maneira exauriente na Constituição da República de 1988.
+d) não prescindia da participação do Chefe do Poder Executivo no processo de elaboração
+normativa, indicativo de que deveria ser disciplinada em lei.
+e) além de estar disciplinada de maneira exauriente na Constituição da República de 1988, é
+expressamente vedada a realização de qualquer inovação em sede regimental.
+
+11.​ (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo/2023) João, vereador no
+Município Alfa, pretendia iniciar tratativas com seus pares para discutir o valor da
+contraprestação estipendial mensalmente paga aos edis. Para subsidiar as conversas, solicitou
+que um estagiário do seu gabinete realizasse breve estudo dos balizamentos a serem
+observados.
+Ao fim do estudo, o estagiário apresentou, entre outras conclusões, que
+I. a soma do vencimento base com a representação de gabinete e demais gratificações pagas
+não poderia ultrapassar o valor recebido pelos Deputados Estaduais, conforme os balizamentos
+constitucionais.
+II. o valor a ser recebido mensalmente pelos vereadores deveria ser definido em lei.
+
+                                                                                           216
+                                                                                           268
+
+
+---
+
+III. a lei somente produzirá efeitos no exercício financeiro seguinte ao da sua publicação.
+IV. a Câmara Municipal de Alfa não pode gastar mais de setenta por cento de sua receita com
+folha de pagamento, incluído o gasto com os valores pagos aos Vereadores.
+Ao cotejar as conclusões do estagiário com a Constituição da República de 1988, João concluiu
+corretamente que
+a) todas estão certas.
+b) apenas a conclusão II está certa.
+c) apenas a conclusão IV está certa.
+d) apenas as conclusões III e IV estão certas.
+e) apenas as conclusões I, II e III estão certas.
+
+12.​ (FGV/ISS-RJ/Fiscal de Rendas/2023) O presidente da República editou a Medida
+Provisória n° X, com base nos referenciais de relevância e urgência, estabelecendo os requisitos
+para a criação de Territórios Federais. Após a tramitação constitucional, com a realização de
+calorosos debates no âmbito do Poder Legislativo, o texto da lei de conversão foi aprovado com
+modificações substanciais em relação à proposta apresentada, vindo a ser ato contínuo,
+promulgado pelo presidente do Congresso Nacional, daí advindo a Lei federal n° Y.
+Nesse caso, à luz da sistemática constitucional, é correto afirmar que a narrativa acima:
+a) não apresenta qualquer irregularidade;
+b) somente apresenta irregularidade em relação à matéria objeto da medida provisória;
+c) somente apresenta irregularidade em relação à aprovação de modificações à medida
+provisória;
+d) somente apresenta irregularidade em relação à matéria objeto da medida provisória e ao não
+encaminhamento da proposição à sanção presidencial;
+e) somente apresenta irregularidade em relação à aprovação de modificações à medida
+provisória e ao não encaminhamento da proposição à sanção presidencial.
+
+
+13.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Em iniciativa muito criticada por diversos
+parlamentares, o Presidente da República editou a Medida Provisória nº X, dispondo sobre a
+possibilidade de os territórios federais serem criados, bem como sobre os requisitos a serem
+preenchidos para a sua reintegração ao Estado de origem. Apesar da resistência, a Medida
+Provisória nº X foi apreciada em ambas as Casas do Congresso Nacional, as quais, com o voto
+favorável da maioria simples dos respectivos membros, a converteram na Lei nº Y.
+
+Irresignado com o processo legislativo cujo desfecho foi a edição da Lei nº Y, o Partido Político
+Alfa, que conta com representação apenas na Câmara dos Deputados, consultou o seu
+advogado a respeito da conformidade constitucional desse diploma normativo.
+
+
+                                                                                              217
+                                                                                              268
+
+
+---
+
+Foi corretamente respondido a Alfa que
+
+a) a Medida Provisória nº X apresenta vício quanto ao seu objeto.
+
+b) o quórum de aprovação da Medida Provisória nº X acarretou vício insanável na Lei nº Y.
+
+c) eventuais vícios de inconstitucionalidade da Medida Provisória nº X não se comunicam com a
+Lei nº Y.
+
+d) como os territórios federais integram a União, não é possível transitarem desse ente federativo
+para os Estados.
+
+e) o território federal, enquanto ente federativo, deve ter o surgimento, a alteração e a extinção
+estabelecidos pela ordem jurídica, podendo tornar-se, ou não, um Estado.
+
+14.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Município Alfa foi criado, em momento
+posterior à promulgação da Emenda Constitucional nº 15/1997, mais especificamente em 2007,
+com base exclusivamente em permissivo da Lei nº X, do Estado Alfa, em cujo território estava
+localizado, e sem a realização de consulta prévia às populações diretamente interessadas.
+
+Em demanda na qual se opuseram os Municípios Alfa e Beta, este último, do qual Alfa fora
+desmembrado, argumentava que a referida criação era inconstitucional, logo, não poderia
+realizar o lançamento do imposto sobre a propriedade predial e territorial urbana (IPTU) dos
+imóveis situados no território que fora ilicitamente atribuído a Alfa. Afinal, a competência
+tributária seria de Beta, pois o seu território não fora desmembrado de forma válida. Alfa, por
+sua vez, argumentava que sua criação, promovida por lei publicada em 2007, foi posteriormente
+convalidada pela Emenda Constitucional nº 57/2008, logo, fazia jus ao IPTU.
+
+À luz da sistemática constitucional, é correto afirmar que a criação de Alfa:
+
+a) embora tenha sido irregular, foi convalidada pela Emenda Constitucional nº. 57/2008.
+
+b) por ter decorrido da prática de ato inconstitucional, não poderia ser convalidado em momento
+posterior.
+
+c) não foi convalidada pela Emenda Constitucional nº. 57/2008, apenas porque a lei de criação
+foi publicada em momento inadequado.
+
+d) não foi convalidada pela Emenda Constitucional nº. 57/2008, apenas porque não fora ouvida,
+mediante plebiscito, a população diretamente interessada.
+
+e) não foi convalidada pela Emenda Constitucional nº. 57/2008, já que a lei de criação foi
+publicada em momento inadequado e não fora ouvida, mediante plebiscito, a população
+diretamente interessada.
+
+15.​ (FGV/TJ-SE/2023) O Município Alfa, de grande potencial turístico, com o objetivo de
+estimular o desenvolvimento de uma cultura “municipalista”, editou a Lei municipal nº X,
+dispondo que as empresas da área de turismo somente poderiam contratar pessoas residentes
+há mais de dez anos no referido Município. Essa vedação somente seria excepcionada caso
+demonstrada a inexistência de pessoas que preenchessem esse requisito.
+
+
+                                                                                               218
+                                                                                               268
+
+
+---
+
+À luz da sistemática estabelecida na Constituição da República de 1988, a Lei municipal nº X é:
+
+a) constitucional, considerando que os Municípios devem legislar sobre os interesses locais;
+
+b) inconstitucional, pois é vedado aos entes federativos criar quaisquer preferências entre
+brasileiros;
+
+c) constitucional, considerando que cada ente federativo é livre para estabelecer as distinções
+que mais se ajustem aos interesses da respectiva população;
+
+d) constitucional, considerando que a Lei municipal nº X limita-se a reproduzir o comando
+constitucional que excepciona a igualdade formal para alcançar a igualdade material;
+
+e) inconstitucional, pois o tratamento diferenciado só é possível em relação a brasileiros
+residentes em regiões diferentes, face à obrigação de reduzir as desigualdades regionais.
+
+16.​ (FGV/ALEMA/2023) O Deputado Federal João, com o objetivo de honrar compromisso
+assumido junto à sua base eleitoral, solicitou que sua assessoria analisasse a possibilidade de a
+região norte do Estado- membro Alfa ser desmembrada e formar um novo Estado-membro da
+federação brasileira.
+
+Após alentada pesquisa, a assessoria concluiu corretamente que o almejado desmembramento
+da região norte de Alfa, à luz da Constituição da República,
+
+a) não é possível, considerando a indissolubilidade da federação brasileira.
+
+b) é possível, desde que haja aprovação da população diretamente interessada e do Congresso
+Nacional, por meio de lei complementar.
+
+c) é possível, desde que o desmembramento seja acolhido em plebiscito pela população de Alfa
+e a Constituição Estadual seja alterada para modificar os limites do seu território.
+
+d) não é possível, considerando que a mobilidade da federação, no plano endógeno, está
+adstrita aos Municípios, e, no plano exógeno, pressupõe a incorporação de novos territórios.
+
+e) é possível, sendo necessário o referendo da proposta pela população da região norte de Alfa,
+conforme normas estabelecidas pelo Congresso Nacional e a edição de lei complementar
+estadual.
+
+17.​ (FGV/ALEMA/2023) Após amplo levantamento, a Secretaria de Patrimônio do Estado Alfa
+constatou a existência de uma larga faixa de terra, ao sul do seu território, que jamais recebera
+qualquer destinação pelo Poder Público ou integrara o patrimônio de um particular. Essa faixa de
+terra, ademais, era considerada indispensável, pelos biólogos, à preservação de um ecossistema
+próximo. Considerando as dificuldades de fluxo de caixa do Estado Alfa, a referida Secretaria
+sugeriu ao Governador do Estado a alienação dessa faixa de terra.
+
+É correto afirmar que a sugestão apresentada
+
+                                                                                               219
+                                                                                               268
+
+
+---
+
+a) não pode ser acolhida por se tratar de terra pertencente à União.
+
+b) não pode ser acolhida, por se tratar de terra pertencente aos Municípios.
+
+c) pode ser acolhida, o que pressupõe prévia autorização da Assembleia Legislativa.
+
+d) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+faixa de terra tiver sido declarada como área de preservação ambiental.
+
+e) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+indispensabilidade à proteção ambiental tiver sido reconhecida em lei da União.
+
+18.​ (FGV/SEFAZ MG/2023) O Deputado Estadual João constatou que determinada faixa de
+terras situada na área territorial do Município Beta e, por via reflexa, no território do Estado Alfa,
+no qual Beta estava inserido, jamais integrou o patrimônio de um particular e, além disso, jamais
+                                                ==8b9==
+
+teve qualquer destinação atribuída pelo Poder Público.
+
+Com o intuito de saber se essas terras efetivamente pertenciam ao Estado Alfa, de modo que
+pudessem ser objeto de alguma política pública, João consultou sua assessoria, que respondeu
+corretamente no sentido de que terras dessa natureza,
+
+A) independentemente de qualquer especificidade, sempre pertencem à União.
+
+B) independentemente de qualquer especificidade, sempre pertencem ao Estado.
+
+C) independentemente de qualquer especificidade, sempre pertencem ao Município.
+
+D) pertencem ao Estado, excluídas apenas aquelas que, por imperativo constitucional e legal,
+pertencem à União.
+
+E) pertencem ao Município, excluídas apenas aquelas que, por imperativo constitucional e legal,
+pertencem à União ou ao Estado.
+
+19.​ (FGV/TCE-PI - 2021) O Estado Alfa recebeu recursos decorrentes de sua participação no
+resultado da exploração, em seu território, de petróleo, xisto betuminoso e gás natural,
+figurando a União como poder concedente dessas atividades.
+
+À luz da sistemática constitucional, é correto afirmar que os referidos recursos:
+
+a) devem ser repassados mediante convênio, sujeitando-se à fiscalização do Tribunal de Contas
+da União;
+
+b) são receitas originárias do Estado Alfa, sujeitando-se apenas à fiscalização do respectivo
+Tribunal de Contas;
+
+c) devem ser fiscalizados pelos Tribunais de Contas da União e do Estado Alfa, pois estão
+vinculados a ambos os entes;
+
+
+                                                                                                   220
+                                                                                                   268
+
+
+---
+
+d) apenas podem ser utilizados para amortização da dívida com a União, sendo fiscalizados pelo
+Tribunal de Contas da União;
+
+e) podem ser fiscalizados pelo Tribunal de Contas da União ou pelo do Estado Alfa, conforme
+dispuser o ajuste com a União.
+
+20.​ (FGV/PM-RJ - 2021) A Constituição do Estado Alfa, com o objetivo de conter o crescente
+déficit público, sabidamente acentuado em razão da drástica diminuição do turismo e da
+consequente redução da arrecadação tributária, estabeleceu a correspondência, considerando a
+população local, dos subsídios dos Vereadores dos Municípios situados em seu território com o
+dos Deputados Estaduais.
+
+À luz da sistemática constitucional, é correto afirmar que a Constituição do Estado Alfa
+
+a) não pode dispor livremente sobre a matéria, que deve ser disciplinada em cada lei orgânica.
+
+b) não pode dispor livremente sobre a matéria, que é disciplinada na Constituição da República.
+
+c) não pode dispor livremente sobre a matéria, que deve ser disciplinada em resolução de cada
+Câmara Municipal.
+
+d) pode dispor livremente sobre a matéria, de modo que cada Estado pode definir os patamares
+máximos tidos como adequados.
+
+e) pode dispor livremente sobre a matéria, mas sem exaurir a disciplina, que deve ser
+complementada pela lei orgânica de cada Município.
+
+21.​ (FGV / DPE-RJ – 2019) Determinado vereador almejava apresentar projeto de lei fixando o
+subsídio a ser pago aos integrantes da Câmara Municipal, tendo solicitado que sua assessoria se
+pronunciasse sobre a existência de algum limite constitucional a esse respeito.
+A assessoria respondeu corretamente que, à luz da sistemática constitucional:
+a) não existem limites a serem observados;
+b) os limites existentes somente estão relacionados à população do Município;
+c) os limites existentes estão relacionados ao subsídio dos deputados estaduais;
+d) os limites existentes estão relacionados à população do Município e ao subsídio dos
+deputados estaduais;
+e) os limites existentes somente estão relacionados ao subsídio dos deputados federais.
+
+
+22.​ (FGV / DPE-RJ – 2019) A Câmara dos Vereadores do Município Alfa aprovou o diploma
+normativo que regeria o Município, por dois terços dos seus membros, após dois turnos de
+votação, com o interstício de dez dias entre cada uma delas.
+
+
+                                                                                                 221
+                                                                                                 268
+
+
+---
+
+O referido diploma normativo, na sistemática constitucional, é:
+a) a Constituição Municipal;
+b) a Lei Orgânica Municipal;
+c) a Lei Complementar Municipal;
+d) a Lei Ordinária Municipal;
+e) o Estatuto Municipal.
+
+
+23.​ (FGV / TJ-SC – 2018) O Município Alfa editou a Lei nº 22/2018, dispondo sobre o horário
+de funcionamento do comércio local, o qual foi considerado inadequado pelos representantes
+dos lojistas. Considerando os prejuízos financeiros que poderiam advir dessa situação, o
+Sindicato dos Lojistas solicitou ao seu departamento jurídico que esclarecesse se o Município
+poderia legislar sobre a matéria.
+À luz da sistemática constitucional, o departamento jurídico informou corretamente que a Lei nº
+   22/2018 é:
+a) constitucional, desde que a lei municipal não ultrapasse os limites estabelecidos nas normas
+gerais editadas pelo Estado;
+b) inconstitucional, pois a medida terá reflexos nas relações trabalhistas, matéria de competência
+privativa da União;
+c) inconstitucional, pois compete privativamente à União editar sobre direito econômico e
+restringir a livre iniciativa;
+d) inconstitucional, pois o princípio da isonomia exige que o trato da matéria seja uniforme,
+exigindo lei estadual;
+e) constitucional, pois compete aos Municípios legislar sobre matérias de interesse local.
+
+                                                                                               222
+                                                                                               268
+
+
+---
+
+GABARITO
+
+ 1.​ LETRA A
+ 2.​ LETRA E
+ 3.​ LETRA B
+ 4.​ LETRA B
+ 5.​ LETRA A
+ 6.​ LETRA D
+ 7.​ LETRA B
+ 8.​ LETRA D
+ 9.​ LETRA C
+ 10.​LETRA A
+ 11.​LETRA C
+ 12.​LETRA D
+ 13.​LETRA A
+ 14.​LETRA E
+ 15.​LETRA B
+ 16.​LETRA B
+ 17.​LETRA A
+ 18.​LETRA D
+ 19.​LETRA B
+ 20.​LETRA B
+ 21.​LETRA D
+ 22.​LETRA B
+ 23.​LETRA E
+
+               223
+               268
+
+
+---
+
+                                  LISTA DE QUESTÕES
+
+Repartição de competências
+
+1.​   (FGV/PC-MG/Delegado de Polícia Substituto/2025) No Estado Alfa, constatou-se que um
+dos óbices à ampliação do número de habitações atendidas pelo saneamento básico decorria do
+elevado custo envolvido, que não era suportado por muitos municípios.
+
+Por essa razão, foram iniciados estudos, pelo Poder Executivo do referido ente federativo com o
+objetivo de identificar se Alfa poderia, ou não, editar um padrão normativo que, de alguma
+maneira, disciplinasse a sua participação no processo decisório relacionado à exploração do
+referido serviço.
+
+Ao fim dos estudos, constatou-se corretamente que
+
+A)​    é competência privativa da União legislar sobre águas, logo, o objetivo alvitrado não pode
+ser alcançado por norma estadual.
+
+B)​   é possível que uma lei complementar estadual congregue os entes federativos municipais
+em uma estrutura territorial, com órgãos próprios, de adesão facultativa e maioria de votos de
+Alfa.
+
+C)​    é possível a edição de lei ordinária estadual que crie uma estrutura territorial, com órgãos
+próprios, à qual os municípios limítrofes possam voluntariamente aderir, que passará a gerir o
+serviço.
+
+D)​   o serviço de saneamento consubstancia típico interesse local, logo, é matéria de
+competência privativa dos municípios, que não lhes pode ser subtraída, sob pena de afronta à
+sua autonomia política.
+
+E)​     é possível a edição de norma estadual específica, que imponha a adesão dos municípios
+limítrofes a uma estrutura territorial, com órgãos próprios, nos quais Alfa, embora possa
+participar, não deve contar com a maioria dos votos.
+
+2.​    (FGV/TCE-PI/Auditor de Controle Externo/2025) Após ampla mobilização popular, o
+Município Alfa editou a Lei municipal nº X, dispondo que os jovens de até vinte e um anos de
+idade teriam direito a concessão de desconto de 50% sobre o preço do ingresso cobrado por
+casas de diversões situadas em seu território.
+
+Esse diploma normativo foi muito festejado no ambiente social, pois nem a legislação do Estado
+em cujo território Alfa está situado nem a legislação da União contêm preceito similar. Apesar
+disso, a associação dos empresários do setor, os quais teriam seus lucros reduzidos, criticou
+duramente a Lei municipal nº X, tendo solicitado que um especialista analisasse a sua
+conformidade constitucional, mais especificamente se Alfa poderia legislar sobre a matéria.
+
+
+                                                                                                224
+                                                                                                268
+
+
+---
+
+Assinale a opção que apresenta o esclarecimento correto dado à associação.
+
+(A) Compete privativamente à União legislar sobre produção e consumo, logo, a Lei municipal nº
+X é inconstitucional nesse aspecto.
+
+(B) O Município Alfa somente tem competência para legislar sobre a matéria se houver lei
+complementar federal autorizativa.
+
+(C) Todos os entes federativos possuem competência legislativa comum para legislar sobre lazer,
+logo, a Lei municipal nº X é constitucional nesse aspecto.
+
+(D) Se trata de típico interesse local, logo, Alfa tem competência privativa para legislar sobre a
+matéria, o que torna a Lei municipal nº X constitucional nesse aspecto.
+
+(E) O Município Alfa pode suplementar a legislação federal e estadual em matéria de direito
+econômico, logo, a Lei municipal nº X é constitucional nesse aspecto.
+
+3.​     (FGV/TCE RR/Analista Administrativo/2025) Com o objetivo de reduzir os grandes
+impactos ao meio-ambiente ocasionados pela exploração de recursos minerais, o Município
+Beta, ao aprovar o seu plano diretor, veiculado pela Lei municipal no X, definiu as áreas do seu
+território em que essa exploração seria permitida.A medida, apesar de muito comemorada pela
+coletividade, foi duramente criticada pelas sociedades empresárias que exploram essa atividade
+econômica, o que redundou em discussões a respeito da conformidade constitucional do
+referido diploma normativo.
+À luz da sistemática constitucional, é correto afirmar que a Lei municipal nº X é
+a) constitucional, pois se trata de típico interesse local.
+b) inconstitucional, pois compete privativamente à União legislar sobre a matéria.
+c) constitucional, pois todos os entes federativos têm competência concorrente para proteger o
+meio ambiente.
+d) inconstitucional, pois o Estado em que Beta está localizado possui competência residual para
+legislar sobre a matéria.
+e) inconstitucional, pois a matéria já é disciplinada pela ordem constitucional, não havendo a
+possibilidade de incursão legislativa por nenhum ente federativo.
+
+4.​   (FGV/TCE RR/Auditor/2025) O Município Alfa, importante polo turístico do Estado Beta,
+editou a Lei municipal nº X, dispondo que a instalação de obra ou atividade potencialmente
+causadora de significativa degradação do bioma típico do território municipal estaria
+condicionada à realização de estudo prévio de impacto ambiental.
+Apesar desse diploma normativo ter sido muito comemorado pelos ambientalistas, foi
+duramente criticado pelos setores econômicos atingidos, que teriam os seus custos ampliados
+em razão do estudo exigido, passando a sustentar a sua inconstitucionalidade.
+
+
+                                                                                               225
+                                                                                               268
+
+
+---
+
+À luz da sistemática constitucional, é correto afirmar que a Lei municipal no X incursionou em
+matéria de competência legislativa
+a) privativa de Alfa, logo é constitucional.
+b) comum entre todos os entes federativos, devendo prevalecer o interesse mais específico, in
+casu, o local, logo é constitucional.
+c) privativa da União, logo é inconstitucional, salvo se houver lei complementar federal
+autorizando o exercício dessa competência pelos Municípios.
+d) concorrente entre a União, os Estados e o Distrito Federal, logo os Municípios somente
+podem discipliná-la à falta de norma de nível federativo mais elevado.
+e) concorrente entre a União, os Estados e o Distrito Federal, mas os Municípios podem
+suplementar as normas existentes em prol do interesse local, logo é constitucional.
+
+5.​    (FGV/PC MG/Perito Criminal/2025) O Estado Alfa, no exercício da competência legislativa
+concorrente em matéria de integração de pessoas com determinada espécie de deficiência,
+editou a Lei Estadual nº X. Em momento posterior, a União, que ainda não tinha legislado sobre
+essa matéria em particular, editou a Lei Federal nº Y, estabelecendo normas gerais a respeito da
+temática em sentido diametralmente oposto ao da referida lei estadual. Considerando a situação
+descrita, é correto afirmar que
+a) a Lei Estadual nº X foi revogada.
+b) a eficácia da Lei Estadual nº X está suspensa.
+c) a Lei Estadual nº X continuará a ser aplicada pelo período indicado na Lei Federal nº Y.
+d) a Lei Estadual nº X, em razão do princípio da especialidade, continuará a ser aplicada em Alfa.
+e) a Lei Estadual nº X continuará a ser aplicada nos 12 meses subsequentes à entrada em vigor da
+Lei Federal nº Y.
+
+6.​   (FGV/TCE-PA/Auditor de Controle Externo/2024) O estado Alfa, no exercício da
+competência legislativa concorrente com a União, editou a Lei nº W, dispondo sobre diversos
+aspectos afetos à inovação. Em momento posterior, a União, que ainda não tinha legislado sobre
+a matéria, editou a Lei nº X, dispondo sobre as normas gerais, de caráter nacional, a serem
+observados pelos entes subnacionais, em sentido totalmente contrário ao da Lei nº W.
+
+Alguns anos depois, a União editou a Lei nº Y, que apenas revogou a Lei nº X, o que permite
+concluir que a Lei nº W:
+
+a) readquiriu validade;
+
+b) permanece revogada;
+
+c) voltou a produzir efeitos;
+
+
+                                                                                                226
+                                                                                                268
+
+
+---
+
+d) foi automaticamente repristinada;
+
+e) somente seria repristinada se houvesse previsão expressa nesse sentido, o que não ocorreu.
+
+7.​   (FGV/Pref Vitória/Guarda Municipal/2024) Roger, após ser eleito Prefeito do Município
+Alfa, busca informações, junto aos seus assessores, sobre temáticas que ingressam na
+competência material comum dos entes federativos, visando à implementação das suas
+promessas de campanha, tão logo seja empossado no cargo público. Nesse cenário,
+considerando as disposições da Constituição Federal, é competência comum da União, dos
+Estados, do Distrito Federal e dos Municípios
+
+a) instituir diretrizes para o desenvolvimento urbano, inclusive habitação, saneamento básico e
+transportes urbanos.
+
+b) exercer a classificação, para efeito indicativo, de diversões públicas e de programas de rádio e
+televisão.
+
+c) organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei.
+
+d) autorizar e fiscalizar a produção e o comércio de material bélico.
+
+e) preservar as florestas, a fauna e a flora.
+
+8.​   (FGV/STN/Auditor Federal de Finanças e Controle/2024) O Estado Beta editou a Lei
+estadual nº Y, dispondo, no território estadual, sobre determinada temática afeta à ciência, à
+tecnologia e à pesquisa. Poucos dias depois, sobreveio a Lei federal nº W, editada pela União,
+ente federativo que ainda não tinha incursionado nessa temática. Os comandos deste último
+diploma normativo, que veiculou os aspectos básicos da disciplina normativa da referida
+temática, de modo a estabelecer um tratamento uniforme em todos os quadrantes da
+Federação, dispuseram em sentido diametralmente oposto ao da Lei estadual nº X.
+
+Considerando os balizamentos oferecidos pela sistemática constitucional, é correto afirmar que
+
+a) a Lei federal nº W revogou a Lei estadual nº X.
+
+b) a Lei federal nº W avançou em matéria de competência legislativa estadual, sendo, portanto,
+inconstitucional.
+
+c) apesar de ter a sua eficácia suspensa, com a superveniência da Lei federal nº W, a Lei estadual
+nº X continua válida.
+
+d) a lei federal nº W e a lei estadual nº X coexistirão na ordem jurídica, sendo que esta última
+somente será aplicada no âmbito do Estado Beta.
+
+e) como o Estado Beta incursionou em matéria de competência privativa da União, a Lei estadual
+nº X era inválida, logo, a Lei federal nº W não produziu nenhum efeito útil sobre ela.
+
+                                                                                                227
+                                                                                                268
+
+
+---
+
+9.​    (FGV/TCE-PA/Auditor de Controle Externo/2024) XX, Deputado Estadual no âmbito da
+Assembleia Legislativa do Estado do Pará, almejava apresentar projeto de lei sobre determinada
+temática. Após alentada análise de sua assessoria, foi constatado que a referida temática se
+inseria no rol de competências legislativas privativas da União. Além disso, também se verificou
+que a União ainda não tinha editado uma lei disciplinando a referida temática.
+
+À luz da Constituição do Estado do Pará, é correto afirmar, em relação à competência legislativa
+da Assembleia Legislativa do Estado do Pará, que esse ente
+
+a) pode legislar sobre a temática, se houver autorização da União por meio de lei complementar.
+
+b) não pode legislar sobre a temática, não sendo possível a concessão de autorização ou de
+delegação pela União.
+
+c) somente pode legislar sobre a temática nos casos em que a Constituição da República adota o
+instituto do reenvio.
+
+d) pode legislar sobre a temática, sendo que a superveniência da lei da União revogará a lei
+estadual, caso dela destoe.
+
+e) pode legislar sobre a temática, sendo que a superveniência da lei da União suspenderá a
+eficácia da lei estadual, caso dela destoe.
+
+10.​ (FGV/TCE-PA/Auditor de Controle Externo/2024) O Deputado Estadual Pedro pretendia
+apresentar à Assembleia Legislativa do Estado Delta projeto de lei versando sobre matéria de
+competência legislativa concorrente entre a União, os Estados e o Distrito Federal. Após
+promover alentada busca, constatou que nem a União nem o Estado Delta tinha legislado sobre
+a matéria.
+
+À luz da divisão constitucional de competências, Pedro concluiu corretamente que o Estado
+Delta
+
+a) somente pode legislar sobre a matéria após a União.
+
+b) pode legislar sobre a matéria, desde que seja expressamente autorizado pela União.
+
+c) pode legislar sobre a matéria, sendo que a superveniência de normas gerais da União
+revogará a lei estadual na hipótese de colidência.
+
+d) pode legislar sobre a matéria, sendo que a superveniência de normas gerais da União
+suspenderá a eficácia da lei estadual na hipótese de colidência.
+
+e) pode legislar sobre a matéria, sendo que a superveniência de normas gerais da União não terá
+influência sobre a lei estadual, ainda que sejam colidentes.
+
+11.​ (FGV/TRF1/AJ/2024) O estado Alfa, à mingua de normas da União disciplinando a
+respectiva temática, editou a Lei estadual nº X. Em momento posterior, a União editou a Lei nº Y,
+em sentido diametralmente oposto ao da Lei estadual nº X.
+
+                                                                                              228
+                                                                                              268
+
+
+---
+
+Considerando os balizamentos estabelecidos pela ordem constitucional, é correto afirmar que a
+Lei nº Y:
+
+a) não deve ser aplicada no território de Alfa, enquanto a Lei estadual nº X permanecer em vigor;
+
+b) revoga a Lei estadual nº X, mas apenas se a temática estiver inserida na competência
+legislativa privativa da União;
+
+c) deve ser considerada nula, considerando o princípio federativo da especialização legislativa
+nos entes de menor proporção;
+
+d) suspende a eficácia da Lei estadual nº X, caso veicule normas gerais e a matéria se insira na
+competência legislativa concorrente;
+
+e) revoga a Lei estadual nº X se a temática estiver inserida na competência legislativa privativa da
+União ou na competência legislativa concorrente.
+
+12.​ (FGV/TRF1/TJ/2024) Maria, deputada estadual junto à Assembleia Legislativa do estado
+Alfa, almejava apresentar um projeto de lei versando sobre questão afeta ao direito civil. Por tal
+razão, consultou sua assessoria sobre a possibilidade, ou não, de a lei estadual incursionar nessa
+matéria.
+
+Foi corretamente esclarecido a Maria que a matéria é de competência legislativa:
+
+a) residual, indicativo de que se trata de matéria de competência implícita dos estados e do
+Distrito Federal;
+
+b) privativa da União, o que não obsta o seu exercício pelos estados e pelo Distrito Federal nos
+termos do disposto em lei ordinária;
+
+c) privativa da União, indicativo de que não pode ser exercida pelos estados e pelo Distrito
+Federal, salvo se houver autorização daquele ente federativo;
+
+d) concorrente entre os estados, o Distrito Federal e a União, prevalecendo a lei estadual, em
+razão da prevalência do interesse local, caso conflite com a lei nacional;
+
+e) concorrente entre os estados, o Distrito Federal e a União; logo, a lei estadual pode versar
+sobre a temática, desde que observadas as normas gerais de caráter nacional.
+
+13.​ (FGV/Câmara de Fortaleza/Consultor Legislativo/2024) Antônio, Presidente da Câmara
+Municipal de Alfa, no meio da legislatura, iniciou estudos com o objetivo de aumentar o subsídio
+recebido pelos vereadores da Casa Legislativa.
+
+Ao analisar os balizamentos oferecidos pela Constituição da República em relação à medida
+alvitrada, Antônio concluiu corretamente que
+
+a) a fixação do novo valor recebe a influência de critérios demográficos.
+
+b) o valor é automaticamente atualizado com base no subsídio dos Deputados Federais.
+
+                                                                                                 229
+                                                                                                 268
+
+
+---
+
+c) o novo valor somente se tornará eficaz no exercício financeiro seguinte ao da sua fixação.
+
+d) em razão da autonomia municipal, o novo valor não sofre balizamentos pelos subsídios
+adotados em outros níveis federativos.
+
+e) a fixação do novo valor deve levar em conta que a remuneração total dos vereadores não
+pode ultrapassar dez por cento da receita do Município Alfa.
+
+14.​ (FGV/Pref Caraguatatuba/Procurador/2024) Maria, professora de Direito Municipal, instou
+João, seu aluno, a apresentar quatro características afetas ao regime estipendial dos vereadores.
+
+Em resposta, João, entre outras informações, afirmou que:
+
+I. é fixado em lei;
+
+II. é fixado em uma legislatura para viger na subsequente;
+
+III. a Câmara não pode gastar mais de sessenta por cento de sua receita com folha de
+pagamento, incluindo o gasto com subsídio dos Vereadores; e
+
+IV. o total da despesa com o estipêndio dos vereadores não pode superar cinco por cento da
+receita do Município.
+
+À luz da sistemática constitucional, em relação às respostas de João, está correto o que se afirma
+em
+
+a) I, II, III e IV.
+
+b) II e III, apenas.
+
+c) II e IV, apenas.
+
+d) I, III e IV, apenas.
+
+e) I, II e III, apenas.
+
+15.​ (FGV/TCE GO/Auditor de Controle Externo/2024) O artigo 31 da Constituição Federal do
+Brasil estabelece que a fiscalização no âmbito municipal será conduzida pelo Poder Legislativo
+Municipal, por meio de controle externo, e pelos sistemas de controle interno do Poder
+Executivo Municipal, conforme determinado pela legislação.
+
+Assinale a opção que indica o órgão que auxilia o controle externo da Câmara Municipal.
+
+a) Controladoria do Estado.
+
+b) Tribunal de Contas do Estado.
+
+c) Secretaria da Fazenda.
+
+d) Secretaria de Auditoria.
+
+                                                                                                230
+                                                                                                268
+
+
+---
+
+e) Conselho de Controle.
+
+16.​ (FGV/TJ-AP/2024) O deputado estadual João almejava apresentar projeto de lei
+disciplinando determinada matéria no território do Estado Sigma. Ao analisar a Constituição da
+República, com o objetivo de verificar se o estado poderia legislar sobre a matéria, constatou
+que se tratava de matéria de competência legislativa concorrente. Verificou, ainda, que a União
+não tinha legislado sobre a referida matéria.
+
+Por tal razão, João concluiu, corretamente, que:
+
+a) a falta de legislação da União impede que o estado legisle sobre a matéria;
+
+b) a falta de legislação da União não impede que o estado legisle sobre a matéria, sendo que a
+sua superveniência acarretará a revogação da lei estadual que lhe seja contrária;
+
+c) o estado tem competência plena para legislar sobre a matéria, mas a superveniência de norma
+geral da União suspende a eficácia da lei estadual no que lhe for contrária;
+
+d) nessa espécie de competência, o interesse do ente menor prevalece sobre o do ente maior, o
+que significa dizer que a superveniência de norma geral da União não afetará a lei estadual que
+lhe seja contrária;
+
+e) nessa espécie de competência, cada ente federativo deve legislar sobre a matéria apenas em
+relação aos seus órgãos, de modo que haja concorrência em relação à matéria e segmentação na
+perspectiva territorial.
+
+17.​ (FGV/TJ-AP/2024) Pedro, estudante de direito, foi questionado por seu professor em
+relação às fases do processo legislativo para a elaboração de uma lei orgânica municipal. De
+acordo com Pedro:
+
+(1) o projeto deve ser aprovado em dois turnos de votação;
+
+(2) pelo voto de dois terços dos membros da Câmara Municipal; e
+
+(3) com a sanção do chefe do Poder Executivo.
+
+Ao analisar as afirmações de Pedro em relação ao processo legislativo, o professor observou,
+corretamente, que:
+
+a) todas estão certas;
+
+b) apenas a afirmação 2 está certa;
+
+c) apenas a afirmação 3 está certa;
+
+                                                                                            231
+                                                                                            268
+
+
+---
+
+d) apenas a afirmação 1 e 2 estão certas;
+
+e) apenas a afirmação 1 e 3 estão certas.
+
+18.​ (FGV/TJ-AP/2024) O Art. 23 da Constituição Federal define as instâncias às quais compete
+a responsabilidade de proporcionar meios de acesso à cultura, educação, ciência, tecnologia,
+pesquisa e inovação.
+
+A ação de uma das esferas competentes é:
+
+a) a família incentiva o aprendizado em ciência e tecnologia através de atividades e discussões
+em casa;
+
+b) organizações comunitárias promovem atividades artísticas que destacam as tradições da
+comunidade;
+
+c) empresas investem em pesquisa e desenvolvimento, impulsionando o avanço científico e
+tecnológico;
+
+d) municípios desenvolvem bibliotecas públicas, promovem eventos culturais e investem em
+tecnologia para escolas;
+
+e) ONGs realizam programas educacionais em áreas como alfabetização, especialmente em
+comunidades carentes.
+
+19.​ (FGV/CVM/2024) Em razão de uma grande mobilização popular, o estado Alfa editou a Lei
+nº X, que estabeleceu diversas medidas direcionadas a garantir o cumprimento das obrigações
+assumidas, junto ao público, pelas sociedades empresárias que explorem sorteios no território
+estadual. Apesar de atender aos anseios da coletividade, diversas sociedades empresárias da
+área sustentaram a inconstitucionalidade da Lei nº X.
+
+À luz da sistemática constitucional, é correto afirmar que:
+
+a) os sorteios envolvem aspectos culturais de cunho essencialmente local; logo, a competência
+legislativa é municipal, e a Lei nº X é inconstitucional;
+
+b) a competência para legislar sobre a matéria é privativa da União; logo, não poderia ser
+exercida pelo estado Alfa em nenhuma hipótese, sendo inconstitucional a Lei nº X;
+
+c) a Lei nº X somente será considerada constitucional caso a União tenha editado lei
+complementar, delegando competência legislativa aos estados para legislar sobre a matéria;
+
+d) como a competência legislativa nessa matéria é concorrente entre a União e os estados, a Lei
+nº X é constitucional, caso não tenham sido afrontadas eventuais normas gerais editadas pela
+União;
+
+e) é de competência comum de todos os entes federativos legislar sobre a matéria, observados,
+sempre, os balizamentos legais estabelecidos pelo ente maior; logo, a Lei nº X é constitucional.
+
+
+                                                                                             232
+                                                                                             268
+
+
+---
+
+20.​ (FGV/TCE GO/2024) Um município brasileiro fictício promulgou lei instituindo nova
+modalidade de licitação denominada pife. Em seguimento, a novel legislação foi regulamentada
+pelo Prefeito Municipal e três editais de licitação, com a nova modalidade, foram publicados
+com o objetivo de contratar obras públicas.
+
+O Corpo de Auditoria do Tribunal de Contas com jurisdição sobre o município examinou o caso
+e, considerando o disposto no artigo 22, XXVII da Constituição Federal que atribui competência
+privativa à União para legislar sobre normas gerais de licitação e contratação, em todas as
+modalidades, para as administrações públicas diretas e indireta de todos os entes federados,
+representou ao Plenário quanto a constitucionalidade da norma.
+
+Tendo por orientação o prescrito na Súmula 347 do Supremo Tribunal Federal, é correto afirmar
+que a representação deve ser
+
+a) conhecida, uma vez cumprir os requisitos de legitimidade, porém não provida, uma vez que
+falece competência aos Tribunais de Contas para apreciação da constitucionalidade de leis.
+
+b) conhecida, uma vez cumprir os requisitos de legitimidade, e parcialmente provida, uma vez
+que o Tribunal de Contas poderá determinar a sustação dos editais de licitação, contudo não
+poderá se pronunciar quanto a lei e o decreto, haja vista falecer competência para apreciação da
+constitucionalidade.
+
+c) conhecida, uma vez cumprir os requisitos de legitimidade, e provida, determinando-se a
+sustação dos três editais e que a Administração Pública se abstenha de aplicar as referidas lei e
+regulamentação às suas licitações, uma vez que atos doravante praticados com base nos
+referidos normativos serão considerados como irregulares e implicarão na responsabilização
+pessoal dos agentes que lhes derem causa.
+
+d) conhecida, uma vez cumprir os requisitos de legitimidade, e provida, determinando-se a
+sustação dos três editais e, quanto as normas, somente sendo possível, representar ao poder
+competente à apreciação da inconstitucionalidade.
+
+e) conhecida e provida, sendo declarada a inconstitucionalidade da norma com efeito erga
+omnes.
+
+21.​ (FGV/TCE GO/2024) O Estado Alfa editou a Lei nº X, em matéria de competência
+legislativa concorrente com a União, em momento no qual este ente federativo ainda não tinha
+editado nenhuma norma a respeito da temática. Apesar desse diploma normativo ter sido
+enaltecido pela coletividade, muitos argumentavam com a sua inconstitucionalidade.
+
+À luz da sistemática constitucional vigente, é correto afirmar que o Estado Alfa
+
+a) não poderia ter editado a Lei nº X enquanto a União não legislasse sobre a temática.
+
+b) somente poderia legislar sobre a temática se houvesse lei complementar autorizando-o.
+
+c) editou corretamente a Lei nº X, e, caso colida com norma geral que venha a ser editada pela
+União, continuará válida, mas se tornará ineficaz.
+
+
+                                                                                              233
+                                                                                              268
+
+
+---
+
+d) tinha competência legislativa plena para legislar sobre a temática, sendo que a Lei nº X será
+tida como revogada quando sobrevier a lei da União.
+
+e) pode legislar sobre a temática, sendo que a Lei nº X tem preeminência, no âmbito do seu
+território, em relação às normas gerais que venham a ser editadas pela União.
+
+22.​ (FGV/TJ-RJ/2024) O Tribunal de Contas do Estado Alfa, ao apreciar as contas de governo
+do Chefe do Poder Executivo do Município Beta, constatou que não foi aplicada a receita
+mínima em saúde e educação. Por tal razão, decidiu pela sua rejeição, com a correlata aplicação
+das sanções cabíveis ao referido agente.
+
+Tendo em vista as competências estabelecidas na Constituição da República, é correto afirmar
+que
+
+a) o Tribunal de Contas agiu corretamente ao rejeitar as contas e aplicar as sanções.
+
+b) por ser um órgão estadual, o Tribunal de Contas não poderia apreciar as contas apresentadas
+por um agente municipal.
+
+c) o Tribunal de Contas agiu corretamente ao rejeitar as contas, mas não poderia aplicar sanções
+de competência privativa da Câmara Municipal.
+
+d) o Tribunal de Contas deveria apenas emitir parecer prévio, que somente deixaria de prevalecer
+pelo voto de dois terços dos membros da Câmara Municipal.
+
+e) o julgamento das contas é privativo da Câmara Municipal, cabendo ao Tribunal de Contas
+apenas emitir parecer prévio, que será livremente apreciado por aquele órgão.
+
+23.​ (FGV/TJ-RJ/2024) A Lei nº X, do Estado Alfa, dispôs que as sociedades empresárias que
+exploram o serviço de telecomunicações em seu território devem informar aos respectivos
+usuários, em caráter prévio, a identificação dos funcionários que precisarão ingressar em suas
+residências. A medida foi muito comemorada pelos usuários do serviço, considerando o
+aumento de sua segurança, mas criticada pelas sociedades empresárias do setor, que
+argumentavam com o possível aumento dos custos operacionais para a implementação da
+medida.
+
+À luz da sistemática constitucional, é correto afirmar que a Lei nº X
+
+a) afeta o equilíbrio econômico-financeiro do contrato de concessão, alterando, com isso, o ato
+jurídico perfeito, indicativo de sua inconstitucionalidade.
+
+b) afronta a competência exclusiva da União para explorar o serviço de telefonia, ainda que isto
+ocorra de modo indireto, por uma concessionária.
+
+c) somente será compatível com a ordem constitucional caso haja lei complementar da União
+delegando essa competência aos Estados.
+
+                                                                                             234
+                                                                                             268
+
+
+---
+
+d) versa sobre matéria tipicamente local, o que afronta a competência legislativa privativa dos
+Municípios.
+
+e) é resultado da competência concorrente entre a União e o Estado Alfa para legislar sobre
+consumo.
+
+24.​ (FGV/TJ-MS/2024)        Determinada      temática      está     sujeita    à    competência
+legislativa concorrente da União, dos estados e do Distrito Federal. Ao realizar essa constatação,
+Ana, deputada estadual que pretendia apresentar uma proposição legislativa sobre a referida
+temática, concluiu corretamente que:
+
+a) as normas específicas editadas pelo estado preponderam sobre as normas nacionais editadas
+pela União;
+
+b) os municípios não podem incursionar na temática, mesmo para suplementar normas da União
+ou do estado;
+
+c) os entes federativos podem legislar livremente sobre a temática, que irá viger no respectivo
+nível federativo;
+
+d) a superveniência de norma geral da União, que colida com norma estadual, não revoga esta
+última, apenas suspende a sua eficácia;
+
+e) as normas gerais editadas pelo estado devem ser observadas pelos municípios situados em
+seu território, mas são preteridas pelas normas gerais da União.
+
+25.​ (FGV/TJ-MS/2024) A Lei Complementar nº X (LCX), do estado Alfa, com o objetivo
+de ampliar os canais de acesso aos órgãos de segurança pública e facilitar a investigação penal,
+conferiu à Defensoria Pública o poder de requisitar a instauração de inquérito policial. A
+medida, muito comemorada por alguns setores da sociedade, foi criticada por outros.
+
+Considerando a divisão constitucional de competências entre os entes federativos, é correto
+afirmar que:
+
+a) compete privativamente à União legislar sobre processo penal;
+
+b) o estado Alfa pode suplementar as normas da União sobre a Defensoria Pública;
+
+c) o estado Alfa pode legislar concorrentemente com a União sobre procedimentos em matéria
+penal;
+
+d) compete apenas ao estado Alfa, no exercício de sua competência residual, legislar sobre
+Defensoria Pública;
+
+e) a assistência aos necessitados, em suas distintas formas de expressão, é de competência
+comum da União e dos estados.
+
+                                                                                               235
+                                                                                               268
+
+
+---
+
+26.​ (FGV/TJ-SC/2024) Em determinada temática de competência legislativa concorrente entre
+a União e os estados, a deputada estadual Maria constatou que aquele ente federativo ainda
+não editara nenhuma norma em sua esfera de competência.
+
+À luz desse quadro, Maria concluiu corretamente que o estado:
+
+a) não pode legislar sobre a temática;
+
+b) pode legislar sobre a temática, desde que o Congresso Nacional referende a norma que for
+editada;
+
+c) pode legislar livremente sobre a temática e, caso sobrevenha lei da União, a lei estadual será
+tida como revogada;
+
+d) pode legislar livremente sobre a temática e, caso sobrevenha lei da União, a lei estadual terá
+sua eficácia suspensa naquilo que colidir com a referida lei;
+
+e) somente pode legislar sobre a temática se a União editar lei complementar delegando a
+competência legislativa aos entes federativos de natureza subnacional.
+
+27.​ (FGV/TJ-SC/2024) João questionou o seu professor em relação às características
+da organização político-administrativa dos entes federativos; mais especificamente em relação à
+possibilidade, ou não, de o ente maior editar as normas básicas de organização
+política (separação dos poderes, processo legislativo etc.) a serem observadas pelos entes
+menores, vale dizer, a União em relação aos estados e aos municípios e o estado em relação
+aos municípios situados em seu território.
+
+O professor respondeu corretamente que:
+
+a) embora não seja obrigatório, o ente maior tem a faculdade de editar as normas básicas de
+organização política a serem observadas pelos entes menores;
+
+b) apesar de o ente maior não poder editar as normas básicas de organização política dos entes
+menores, estes últimos estão obrigados a seguir os princípios afetos às normas básicas do ente
+maior;
+
+c) a edição de normas básicas de organização política, pelo ente maior, a serem observadas pelos
+entes menores, não afasta a possibilidade de estes últimos virem a suplementá-las, o que deve
+ser referendado pelo ente maior;
+
+d) a autonomia política dos entes federados se manifesta apenas na execução das normas
+básicas de organização política previstas na Constituição da República, não sendo possível que
+os entes menores tenham normas próprias;
+
+e) em razão da autonomia política dos entes federativos, o ente maior não pode editar normas
+básicas de organização política dos entes menores, os quais também não estão obrigados
+a seguir os princípios afetos às normas básicas do ente maior.
+
+
+                                                                                              236
+                                                                                              268
+
+
+---
+
+28.​ (FGV/TJ-SC/2024) A Lei X, editada pelo estado Alfa, no exercício da
+competência legislativa concorrente, proibiu a comercialização, no território estadual, de
+determinado produto comprovadamente nocivo à saúde humana. Ocorre que, ao ser editada a
+Lei X, encontrava-se em pleno vigor a Lei Y, editada pela União uma década antes,
+que estabelecia as diretrizes básicas para a comercialização do referido produto no território
+nacional.
+
+A disparidade entre as Leis X e Y gerou grande debate entre organizações da sociedade civil,
+que almejavam a cessação da comercialização do produto no território do estado Alfa, e
+a associação representativa dos respectivos produtores, que defendia a continuidade da
+comercialização.
+
+Considerando os distintos aspectos dessa narrativa, é correto afirmar que:
+
+a) a Lei X deve ter sua eficácia suspensa até que seja revogada ou declarada inconstitucional a Lei
+Y;
+
+b) apesar de não observar o balizamento oferecido pelas normas gerais editadas pela União, a
+Lei X pode ser aplicada caso se reconheça a inconstitucionalidade da Lei Y;
+
+c) a dissonância entre as Leis X e Y indica que aquela invadiu competência legislativa própria da
+União; logo, ainda que esta última seja materialmente inconstitucional, a Lei X não pode ser
+aplicada;
+
+d) na competência legislativa concorrente, a competência estadual, no caso de preexistência de
+lei da União, é criada por esta última; logo, ao afrontá-la, a Lei X sequer ultrapassou o plano da
+existência; portanto, não pode ser aplicada;
+
+e) a Lei Y deve produzir ou deixar de produzir efeitos em todo o território nacional; logo,
+romperia com a isonomia admitir que deixasse de ser aplicada no território de Alfa, por
+ser materialmente inconstitucional, aplicando-se a Lei X.
+
+29.​ (FGV/TJ-SC/2024) O estado Alfa editou a Lei Estadual nº X, assegurando o benefício da
+gratuidade para certos agentes públicos estaduais no exercício de suas funções, tanto em
+estacionamentos públicos do estado como em estacionamentos explorados pela iniciativa
+privada. Apesar de muito comemorada pelos beneficiários dos seus comandos, foi duramente
+criticada por outros setores da sociedade. Sensível a essa situação, o diretório nacional
+do partido político Beta, com representação no Congresso Nacional, solicitou que sua assessoria
+analisasse a conformidade constitucional da Lei Estadual nº X ̶mais especificamente, se o estado
+Alfa poderia legislar sobre a matéria.
+
+Foi corretamente esclarecido ao diretório nacional de Beta que:
+
+a) somente os municípios têm competência para legislar sobre a matéria;
+
+b) somente a União tem competência para legislar sobre a matéria;
+
+                                                                                                237
+                                                                                                268
+
+
+---
+
+c) a Lei Estadual nº X somente será constitucional caso não haja lei da União dispondo em
+sentido contrário;
+
+d) o estado Alfa somente tem competência para legislar sobre a matéria em relação aos
+estacionamentos públicos, não em relação aos privados;
+
+e) o estado Alfa tem competência para legislar sobre a matéria, estabelecendo a gratuidade
+tanto nos estacionamentos públicos como nos privados
+
+30.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Com o objetivo de promover o desenvolvimento
+da atividade econômica em sentido estrito no território estadual, o Estado Alfa editou a Lei nº X.
+Esse diploma normativo assegurou o acesso a um “programa estadual de financiamento”, às
+sociedades empresárias sediadas no Estado que produzissem o produto WW e contratassem,
+para o escoamento de ao menos 30% de sua produção, pessoas jurídicas ou físicas com sede no
+mesmo Estado.
+
+À luz da sistemática constitucional, é correto afirmar que o Estado Alfa
+
+a) não tem competência para legislar sobre política de crédito, logo, a Lei nº XX é
+inconstitucional.
+
+b) possui liberdade de conformação para fomentar o exercício da atividade econômica em seu
+território, não havendo óbice a que tal seja feito da forma estabelecida na Lei nº XX.
+
+c) não incursionou no exercício da atividade econômica, apenas estabelecendo requisitos para o
+acesso a um programa estatal, o que se situa no âmbito de sua autonomia política.
+
+d) ao editar a Lei nº XX, afrontou, sem justificativa plausível, a livre concorrência, além de adotar
+tratamento diferenciado em relação aos transportadores com sede em Alfa.
+
+e) além de ter competência para legislar sobre direito econômico, a Lei nº XX se alinha aos
+objetivos constitucionais de redução das desigualdades regionais e da busca do pleno emprego.
+
+Comentários:
+
+LETRA A. INCORRETA. Os Estados podem legislar sobre questões específicas de política de
+crédito, desde que seja editada Lei Complementar autorizando, de acordo com o art. 22, inciso
+VII e parágrafo único da CRFB/88.
+
+LETRA B. INCORRETA. Apesar de o Estado possuir liberdade para fomentar o exercício da
+atividade econômica, tal exercício deve observar os ditames da Constituição.
+
+LETRA C. INCORRETA. A alternativa está errada, já que o incentivo disciplinado na Lei nº X não
+se situa no âmbito de sua autonomia política. Em verdade, afronta o princípio da livre
+concorrência.
+
+
+                                                                                                  238
+                                                                                                  268
+
+
+---
+
+LETRA D. CORRETA. É o nosso gabarito! Ao editar a Lei nº X, o Estado afrontou, sem justificativa
+plausível, a livre concorrência, adotando tratamento diferenciado aos transportadores do Estado
+Alfa. O STF, em sede de ADI nº 5472/GO, firmou entendimento de que atentam contra a livre
+concorrência os requisitos para fruição dos subsídios financeiros e econômicos criados por ente
+federativo às sociedades empresárias do ramo automobilístico sediadas em seu território.
+
+LETRA E. INCORRETA. A alternativa está errada, porque a Lei afrontou a livre concorrência!
+
+Gabarito: Letra D.
+
+31.​ (FGV/TCE-ES/Analista de Controle Externo - Auditoria Governamental/2023) João,
+deputado estadual, solicitou que sua assessoria jurídica elaborasse projeto de lei a respeito de
+certa matéria, conforme as diretrizes que estabeleceu. Ato contínuo, a assessoria esclareceu que
+a referida matéria se enquadrava no conceito constitucional de competência legislativa
+concorrente, o que significa dizer que o projeto a ser elaborado:
+
+a) somente pode disciplinar a matéria se a União tiver editado normas gerais a respeito da
+respectiva temática;
+
+b) pode disciplinar a matéria, mas deve observar as normas gerais editadas pela União e, à falta
+destas, será pleno o espaço de conformação do Poder Legislativo estadual;
+
+c) pode disciplinar a matéria, e, caso haja conflito com normas federais, deve prevalecer a norma
+estadual, considerando o princípio da especificidade do interesse;
+
+d) pode disciplinar a matéria, e, caso haja conflito com a norma geral editada pela União, a
+norma estadual será considerada revogada;
+
+e) pode disciplinar a matéria, caso venha a ser autorizado pela União, devendo prevalecer a
+norma de maior hierarquia caso haja conflito com normas federais ou municipais.
+
+32.​ (FGV/CGE-SC/2023) O Chefe do Poder Executivo do Município Alfa foi informado por sua
+assessoria a respeito da necessidade de ser encaminhada a prestação de contas anual ao
+Tribunal de Contas. Ao questionar sua assessoria a respeito do papel desempenhado pelo
+Tribunal de Contas na análise das contas apresentadas, foi-lhe corretamente informado que esse
+órgão deve
+
+A) julgar as contas, quer sejam de gestão, quer de governo, sendo cabível recurso para a Câmara
+Municipal de Alfa.
+
+B) apenas emitir parecer em relação às contas de governo e às contas de gestão, sendo que a
+Câmara Municipal de Alfa somente poderá rejeitá-lo pelo voto de dois terços dos seus membros.
+
+                                                                                              239
+                                                                                              268
+
+
+---
+
+C) julgar as contas de governo e emitir parecer prévio em relação às contas de gestão, não
+estando a Câmara Municipal de Alfa vinculada a este último, podendo acolhê-lo ou rejeitá-lo
+livremente.
+
+D) julgar as contas de gestão e emitir parecer prévio em relação às contas de governo, sendo que
+a Câmara Municipal de Alfa somente poderá rejeitar este último pelo voto de três quintos dos
+seus membros.
+
+E) julgar as contas de gestão e emitir parecer prévio em relação às contas de governo, sendo que
+a Câmara Municipal de Alfa somente poderá rejeitar este último pelo voto da maioria absoluta
+dos seus membros.
+
+33.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Em razão de uma grave crise econômica
+decorrente de diversos fatores circunstanciais, o Estado Alfa editou a Lei nº X, determinando a
+suspensão temporária, por um trimestre, das consignações voluntárias contratadas por
+servidores públicos estaduais.
+
+Irresignada com o teor desse diploma normativo, uma associação que congregava as instituições
+financeiras solicitou que o seu advogado analisasse a compatibilidade formal desse diploma
+normativo com a Constituição Federal de 1988.
+
+Foi corretamente informado à associação que a Lei nº X
+
+a) por versar sobre regime jurídico dos servidores públicos, é mera projeção da autonomia
+política do Estado Alfa, não apresentando nenhum vício.
+
+b) no plano objetivo, a Lei nº X apenas preserva o interesse público ao evitar que o
+endividamento comprometa a estabilidade econômica dos servidores estaduais.
+
+c) não apresenta qualquer vício, pois a matéria versa sobre proteção do consumidor, de
+competência legislativa concorrente entre a União, os Estados e o Distrito Federal.
+
+d) em razão do seu nítido viés econômico, não apresenta vício, considerando a competência
+legislativa concorrente entre a União, os Estados e o Distrito Federal para legislar sobre a
+temática.
+
+e) avança em temática própria da competência legislativa da União, considerando a natureza da
+relação jurídica em que se projetará, salvo se existir lei complementar lhe delegando essa
+competência.
+
+34.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Estado Alfa, com o objetivo de estimular e
+valorizar o exercício da atividade docente nos distintos níveis da educação básica, editou a Lei nº
+X, assegurando o direito à meia-entrada, aos professores das redes estadual e municipal de
+ensino, em casas de diversões. A medida, apesar de amplamente elogiada pelos seus
+beneficiários, os professores, foi duramente criticada por uma associação representativa das
+sociedades empresárias que atuam no ramo de diversões, que a consideraram flagrantemente
+inconstitucional.
+
+                                                                                                240
+                                                                                                268
+
+
+---
+
+À luz da sistemática constitucional, é correto afirmar que
+
+a) o Estado Alfa incursionou em matéria própria de sua competência legislativa concorrente, de
+modo a prestigiar bens e valores de estatura constitucional.
+
+b) a Lei nº X afronta o direito de propriedade e a liberdade contratual, ingressando em matéria
+própria do direito civil, de competência legislativa privativa da União.
+
+c) qualquer medida de intervenção no domínio econômico deve prestigiar o princípio da
+isonomia, o que não ocorreu no caso concreto, pois a Lei nº X não se estende aos professores
+das redes federal e privada.
+
+d) a educação e a cultura, na perspectiva constitucional, ocupam posições preferentes, em
+abstrato, quando cotejadas com a livre iniciativa, o que demonstra a constitucionalidade da Lei nº
+X ao conceder a meia entrada.
+
+e) a meia-entrada assegurada somente é compatível com a ordem constitucional em relação aos
+professores estaduais, não quanto aos professores municipais, que devem ser alcançados pela
+legislação própria desse ente federativo.
+
+35.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Com o objetivo de preservar a qualidade de
+vida da população, que vinha sendo afetada pela crescente industrialização verificada no
+território do Município Alfa, esse ente federativo editou a Lei nº X. De acordo com esse diploma
+normativo, a emissão de gases poluentes em níveis superiores aos padrões aceitos, que foram
+fixados em conformidade com os referenciais científicos prevalecentes, acarretaria a aplicação da
+penalidade de multa.
+
+À luz da sistemática constitucional, é correto afirmar que
+
+a) o Município Alfa tem competência comum com os demais entes federativos para assegurar a
+proteção do direito fundamental ao meio ambiente sadio.
+
+b) a Lei nº X somente será considerada constitucional caso a União tenha editado lei
+complementar delegando competência legislativa aos Municípios.
+
+c) na ausência de norma federal ou estadual que obste a atuação do Município, a Lei nº X deve
+ser considerada constitucional.
+
+d) a Lei nº X é inconstitucional, pois compete privativamente à União legislar sobre
+responsabilização por dano ambiental.
+
+e) por se tratar de típico interesse local, que só ao Município interessa, a Lei nº X é constitucional.
+
+36.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Após amplas discussões com representantes da
+sociedade civil, um grupo de Deputados Estaduais apresentou projeto de lei instituindo a
+exigência de depósito prévio de 100% do valor da condenação para a interposição de recurso
+no Juizado Especial Cível, o qual seria perdido em favor do Estado, caso fosse negado
+provimento ao recurso. O objetivo almejado era o de assegurar a estabilidade das relações
+
+                                                                                                    241
+                                                                                                    268
+
+
+---
+
+sociais e contornar a onda demandista que vinha sobrecarregando os serviços jurisdicionais, em
+prejuízo da própria população. Após o regular processo legislativo, o projeto foi aprovado, o que
+culminou com a publicação da Lei estadual nº X.
+
+À luz da sistemática estabelecida na Constituição da República de 1988, é correto afirmar que o
+referido diploma normativo é
+
+a) inconstitucional, em razão do vício de iniciativa, pois, além do caráter cautelar, o depósito
+prévio ostenta nítida natureza tributária, o que atrai a iniciativa privativa do Governador.
+
+b) inconstitucional, em razão do vício de iniciativa, pois somente o Tribunal de Justiça poderia
+apresentar o projeto, por dizer respeito à atividade jurisdicional.
+
+c) constitucional, considerando que o Estado tem competência legislativa concorrente com a
+União para legislar sobre procedimento.
+
+d) constitucional, na medida em que a razoável duração do processo exige a adoção de medidas
+que busquem abreviar a relação processual.
+
+e) inconstitucional, considerando que a disciplina do depósito prévio é alcançada pela
+competência legislativa privativa da União.
+
+37.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Procon do Estado Alfa, órgão de proteção ao
+consumidor vinculado à Assembleia Legislativa desse ente federativo, vinha recebendo inúmeras
+representações, formuladas por consumidores, contra a técnica de propaganda utilizada por
+determinada corporação. Afinal, essa pessoa jurídica, ao divulgar seus produtos, direcionados ao
+público infanto-juvenil, criava narrativas fantasiosas, que, embora estimulassem o consumo,
+jamais conseguiam atender às expectativas geradas. Em razão desse estado de coisas, foi
+editada a Lei estadual nº X, na qual eram estabelecidos balizamentos para essa espécie de
+propaganda, dispondo especialmente sobre a vedação de manipulação da realidade, de modo a
+criar expectativas fantasiosas junto aos consumidores em potencial.
+
+Apesar de muito comemorada por inúmeras famílias, a associação das empresas do setor
+solicitou que sua assessoria analisasse a compatibilidade da Lei nº X com a Constituição da
+República de 1988, sendo-lhe corretamente respondido que
+
+a) por ser o Procon um órgão estadual, a Lei nº X mostra-se constitucional ao disciplinar matéria
+afeta à sua atuação.
+
+b) a Lei nº X versa sobre matéria de competência legislativa privativa da União, sendo, portanto,
+inconstitucional.
+
+c) como o Estado tem competência concorrente com a União para legislar sobre direito do
+consumidor, a Lei nº X é constitucional.
+
+d) a Lei nº X é direcionada à proteção da criança e do adolescente, matéria de competência
+legislativa comum entre todos os entes federativos.
+
+                                                                                              242
+                                                                                              268
+
+
+---
+
+e) a divulgação de produtos, enquanto técnica de convencimento, é protegida pela liberdade de
+expressão, sendo a Lei nº X inconstitucional, por configurar censura prévia, embora Alfa possa
+legislar sobre a matéria.
+
+38.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Distrito Federal editou a Lei nº X, criando uma
+gratificação para policiais militares e bombeiros militares do Distrito Federal que estejam
+vinculados ao gabinete do Governador, a ser custeada por esse ente federativo.
+
+Irresignado com o teor desse diploma normativo, que reputava manifestamente inconstitucional,
+o Diretório Nacional do Partido Político Alfa solicitou a análise de sua assessoria, sendo-lhe
+corretamente respondido que
+
+A) a Lei nº X apresenta vício formal, pois a matéria deveria ser disciplinada em lei complementar.
+
+B) não há qualquer mácula à competência legislativa da União na lei distrital que criou a referida
+gratificação, nos termos indicados.
+
+C) o Distrito Federal possui competência legislativa concorrente com a União para legislar sobre a
+matéria, logo, a Lei nº X é constitucional.
+
+D) como referidos agentes estão estatutariamente vinculados ao Distrito Federal, esse ente
+federativo exerceu uma competência legislativa que lhe é própria.
+
+E) compete privativamente à União organizar e manter a polícia militar e o corpo de bombeiros
+militar do Distrito Federal, logo, este último ente federativo não pode legislar sobre a temática.
+
+39.​ (FGV/CÂMARA DOS DEPUTADOS/2023) A Comissão de Constituição e Justiça da
+Câmara dos Vereadores do Município Alfa recebeu três projetos de lei para a análise de
+compatibilidade formal com a Constituição da República de 1988. O projeto X determinava a
+instalação de hidrômetros individuais nos edifícios e condomínios que viessem a ser construídos
+no território municipal. O projeto Y estabelecia requisitos a serem observados pelas sociedades
+empresárias que viessem a explorar o serviço local de gás canalizado. Por fim, o projeto Z
+estabelecia detalhado regramento para a exploração da atividade de cremação de cadáveres.
+
+Ao analisar os projetos X, Y e Z na perspectiva da competência do Município Alfa para legislar
+sobre a matéria, a referida Comissão concluiu corretamente que
+
+a) todos são constitucionais.
+
+b) apenas o projeto Y é constitucional.
+
+c) apenas o projeto X é constitucional.
+
+c) apenas os projetos Y e Z são constitucionais.
+
+e) apenas os projetos X e Z são constitucionais.
+
+40.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Conforme fora publicado no diário oficial, o
+Tribunal de Contas do Estado Alfa iria analisar, em sua próxima sessão plenária, os seguintes
+feitos:
+
+I. contas de governo apresentadas pelo Prefeito do Município Alfa.
+
+                                                                                                243
+                                                                                                268
+
+
+---
+
+II. contas de gestão apresentadas pelo Prefeito do Município Beta.
+
+III. contas apresentadas pelo ex-Prefeito do Município Sigma, em sua atuação como ordenador
+de despesas na Presidência da Câmara Municipal de Sigma.
+
+Em todos os feitos seria analisada a preliminar de ilegitimidade do referido Tribunal para julgar
+as contas, devendo se limitar a oferecer parecer prévio.
+
+À luz da sistemática constitucional, é correto afirmar, em relação aos feitos I, II e III, que a
+preliminar deve ser
+
+a) acolhida apenas em I.
+
+b) acolhida apenas em I e II.
+
+c) acolhida em todos os feitos.
+
+d) rejeitada em todos os feitos.
+
+e) acolhida inicialmente apenas em I e II, e, a depender do disposto na Lei Orgânica Municipal,
+também em III.
+
+41.​ (FGV/CÂMARA DOS DEPUTADOS/2023) No corrente ano, o Estado Alfa editou a Lei nº
+123, de iniciativa parlamentar, dispondo sobre o transporte individual de passageiros por táxi na
+região metropolitana formada pelos Municípios X, Y e Z. O mesmo diploma normativo criou uma
+autarquia estadual com competência para fiscalizar a referida atividade.
+
+A medida gerou grande insatisfação entre os munícipes de X, Y e Z, considerando que influía em
+diversas questões de interesse local, incluindo a própria identidade visual dos veículos.
+
+Com os olhos voltados à sistemática constitucional e aos balizamentos oferecidos pela narrativa,
+é correto afirmar que
+
+a) além de a matéria dizer respeito ao interesse local e à autonomia municipal, a temática afeta à
+autorização de serviço, por caracterizar desconcentração administrativa, é de iniciativa privativa
+do Chefe do Poder Executivo.
+
+b) em razão da competência privativa da União para legislar sobre trânsito e transporte, os
+Municípios, ao disciplinarem o serviço de táxi, somente seriam limitados pela lei federal, não
+podendo a Lei nº 123 incursionar na temática.
+
+c) a Lei nº 123 somente se mostrará harmônica com a ordem constitucional caso a União tenha
+delegado, por meio de lei complementar, não aos Municípios, mas aos Estados, a disciplina da
+matéria.
+
+d) o serviço de táxi é tipicamente municipal, sendo que o deslocamento para outros Municípios
+da região metropolitana é episódico, refletindo o mero exercício do direito de ir e vir.
+
+e) a Lei nº 123 não apresenta qualquer incompatibilidade com a ordem constitucional, pois o
+Município não pode disciplinar serviço que ultrapasse o seu perímetro territorial.
+
+                                                                                               244
+                                                                                               268
+
+
+---
+
+42.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Um grupo de Vereadores do Município Sigma
+iniciou a realização de estudos para a criação de divisões administrativas de Sigma, consoante
+critérios demográficos e territoriais, destituídas de personalidade jurídica, com o objetivo de
+contribuir para a desconcentração dos serviços públicos municipais.
+
+Ao ouvirem a consultoria da Casa Legislativa a respeito dos balizamentos a serem observados
+para que o seu objetivo fosse posto em prática, foi-lhes corretamente informado que, nos
+termos da Constituição da República de 1988,
+
+a) tanto a concentração como a divisão metropolitana devem ter os seus requisitos estabelecidos
+em lei complementar federal.
+
+b) é exigida lei de iniciativa privativa do Prefeito Municipal, sendo ainda exigida a consulta à
+população diretamente interessada.
+
+c) embora seja matéria de competência do Município Sigma, deve ser observada a legislação
+estadual editada a respeito da criação das referidas divisões.
+
+d) a matéria consubstancia interesse tipicamente local, a ser analisada pela Câmara Municipal de
+Sigma, sendo vedada a ingerência de qualquer outro ente federativo.
+e) a iniciativa é vedada, por produzir efeitos práticos semelhantes ao desmembramento de
+Município, o que pressupõe a edição de lei complementar federal sobre a temática.
+
+43.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Após amplo debate entre os Vereadores do
+Município Alfa, o Regimento Interno da Câmara Municipal foi alterado, passando a dispor
+detalhadamente sobre a organização das funções legislativas e fiscalizadoras da Câmara
+Municipal. A medida foi muito comemorada por diversas lideranças partidárias, considerando a
+situação de verdadeira anomia, na perspectiva exclusivamente municipal, vivenciada até então, já
+que a Lei Orgânica passava ao largo dessa temática, sendo utilizadas, por simetria, as normas da
+Constituição da República de 1988.
+
+Por outro lado, o Partido Político Sigma, de oposição e que configurava minoria na Câmara
+Municipal, ficou irresignado com a referida disciplina, por entender que a matéria deveria
+assumir natureza legal, e solicitou que o seu advogado analisasse a compatibilidade da novel
+disciplina com a Constituição da República de 1988.
+
+O advogado respondeu corretamente que a matéria
+
+a) deveria ser disciplinada na Lei Orgânica de Alfa, não no Regimento Interno da respectiva
+Câmara Municipal.
+
+b) foi corretamente disciplinada no Regimento Interno da Câmara Municipal de Alfa,
+considerando o autogoverno do Poder Legislativo.
+
+c) não dependia de disciplina em norma infraconstitucional, pois a temática já é prevista de
+maneira exauriente na Constituição da República de 1988.
+
+d) não prescindia da participação do Chefe do Poder Executivo no processo de elaboração
+normativa, indicativo de que deveria ser disciplinada em lei.
+
+
+                                                                                             245
+                                                                                             268
+
+
+---
+
+e) além de estar disciplinada de maneira exauriente na Constituição da República de 1988, é
+expressamente vedada a realização de qualquer inovação em sede regimental.
+
+44.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Após realizar inúmeras audiências públicas, com
+setores governamentais e da sociedade civil organizada, além de usuários do serviço, o
+Município Alfa editou a Lei nº X, estabelecendo prazos para o atendimento das demandas do
+usuário do serviço, elencando medidas de segurança e criando um órgão próprio de fiscalização
+das concessionárias do serviço local de gás canalizado.
+
+Irresignada com o teor da Lei nº X, a associação das sociedades empresárias do setor consultou
+seu advogado e solicitou a análise da compatibilidade formal do referido diploma normativo
+com a Constituição da República de 1988.
+
+O advogado respondeu corretamente que
+
+a) por se tratar de matéria de interesse local, Alfa pode legislar sobre a matéria.
+
+b) compete privativamente à União legislar sobre a matéria, o que impede que Alfa nela
+incursione.
+
+c) apesar de a Lei nº XX decorrer da autonomia municipal, ela não pode afetar os contratos em
+curso.
+
+d) como a Lei nº X influi na atividade das concessionárias, ela afeta o juízo de valor do ente
+federativo concedente.
+
+e) Alfa pode apenas suplementar as normas da União, que tem competência legislativa privativa
+nessa matéria.
+
+45.​ (FGV/CÂMARA DOS DEPUTADOS/2023) João, vereador no Município Alfa, pretendia
+iniciar tratativas com seus pares para discutir o valor da contraprestação estipendial
+mensalmente paga aos edis. Para subsidiar as conversas, solicitou que um estagiário do seu
+gabinete realizasse breve estudo dos balizamentos a serem observados.
+
+Ao fim do estudo, o estagiário apresentou, entre outras conclusões, que
+
+I. a soma do vencimento base com a representação de gabinete e demais gratificações pagas
+não poderia ultrapassar o valor recebido pelos Deputados Estaduais, conforme os balizamentos
+constitucionais.
+
+II. o valor a ser recebido mensalmente pelos vereadores deveria ser definido em lei.
+
+III. a lei somente produzirá efeitos no exercício financeiro seguinte ao da sua publicação.
+
+IV. a Câmara Municipal de Alfa não pode gastar mais de setenta por cento de sua receita com
+folha de pagamento, incluído o gasto com os valores pagos aos Vereadores.
+
+Ao cotejar as conclusões do estagiário com a Constituição da República de 1988, João concluiu
+corretamente que
+
+
+                                                                                              246
+                                                                                              268
+
+
+---
+
+a) todas estão certas.
+
+b) apenas a conclusão II está certa.
+
+c) apenas a conclusão IV está certa.
+
+d) apenas as conclusões III e IV estão certas.
+
+e) apenas as conclusões I, II e III estão certas.
+
+46.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Considerando o elevado quantitativo de
+prestadores de serviço de transporte individual remunerado de passageiros, quer atuando
+mediante autorização do poder público, quer atuando sem prévio cadastro público, um vereador
+propôs, no Município Alfa, um projeto de lei sobre a matéria. De acordo com essa proposição,
+também motivada por críticas frequentes à qualidade do serviço, os motoristas que não atuavam
+                                                    ==8b9==
+
+como autorizatários, não estando sujeitos, portanto, à fiscalização periódica dos veículos,
+somente poderiam circular nos finais de semana, enquanto os demais poderiam circular em
+todos os dias da semana. A proposição foi efusivamente comemorada por alguns e duramente
+criticada por outros.
+
+À luz da sistemática constitucional, é correto afirmar que o Município Alfa
+
+a) não pode incursionar na matéria objeto da proposição, considerando a competência legislativa
+privativa da União.
+
+b) pode legislar livremente sobre a matéria objeto da proposição, considerando que se trata de
+típico interesse local.
+
+c) não pode estabelecer regras sobre a regulamentação e a fiscalização do serviço, considerando
+o bem jurídico envolvido.
+
+d) por se tratar de matéria de competência legislativa concorrente entre a União e os Estados,
+pode apenas suplementar a legislação desses entes federativos.
+
+e) embora possa dispor sobre regulação e fiscalização dessa espécie de transporte, está adstrito
+às normas fixadas pelo legislador federal no exercício de sua competência privativa.
+
+47.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Estado Beta, com o objetivo de ampliar o
+nível de proteção das pessoas vulneráveis economicamente, assistidas pela Defensoria Pública
+estadual, e por identificar uma grande resistência dos órgãos de segurança pública em investigar
+certos ilícitos rotineiramente praticados em detrimento dessa camada da população, editou a Lei
+Complementar nº X. De acordo com esse diploma normativo, a Defensoria Pública poderia
+requisitar a instauração de inquérito policial, no âmbito estadual, sempre que, no exercício de
+suas atribuições, identificasse a possível prática de infração penal.
+
+Sobre a Lei Complementar nº X, à luz da sistemática constitucional, assinale a afirmativa correta.
+
+a) Adentra em seara própria do processo penal, sendo, por essa razão, formalmente
+inconstitucional.
+
+                                                                                                247
+                                                                                                268
+
+
+---
+
+b) Insere-se na competência legislativa concorrente do Estado Beta para legislar sobre
+procedimentos.
+
+c) Disciplina as atribuições das estruturas de segurança pública estaduais, que serão as
+destinatárias das respectivas requisições.
+
+d) Reflete o exercício da competência legislativa para disciplinar a Defensoria Pública do
+respectivo Estado, sendo, portanto, constitucional.
+
+e) Apresenta vício material ao conferir, à Defensoria Pública, atribuição que a Constituição da
+República conferiu privativamente ao Ministério Público.
+
+48.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Estado Alfa, no qual se identificava intensa
+atuação de seguidores de religiões em cujos rituais era realizado o sacrifício de animais, editou a
+Lei estadual nº XX, direcionada à proteção animal, que autorizou expressamente essa prática.
+
+Sobre a Lei estadual nº XX, assinale a afirmativa correta.
+
+a) Afronta a competência privativa da União para legislar sobre fauna.
+
+b) É compatível com o princípio constitucional da igualdade e com a necessidade de proteger a
+liberdade religiosa.
+
+c) Apresenta vício material ao desconsiderar, no plano infraconstitucional, vedação expressa da
+Constituição da República.
+
+d) Embora se insira na competência concorrente do Estado para legislar sobre meio ambiente,
+afronta a competência privativa da União para legislar sobre liberdades fundamentais.
+
+e) Ao tornar lícita a conduta que indicou, influiu diretamente no exercício da competência
+privativa da União para legislar sobre direito penal, descriminalizando a conduta indicada.
+
+49.​ (FGV/ALEMA/2023) Após amplo levantamento, a Secretaria de Patrimônio do Estado Alfa
+constatou a existência de uma larga faixa de terra, ao sul do seu território, que jamais recebera
+qualquer destinação pelo Poder Público ou integrara o patrimônio de um particular. Essa faixa de
+terra, ademais, era considerada indispensável, pelos biólogos, à preservação de um ecossistema
+próximo. Considerando as dificuldades de fluxo de caixa do Estado Alfa, a referida Secretaria
+sugeriu ao Governador do Estado a alienação dessa faixa de terra.
+
+É correto afirmar que a sugestão apresentada
+
+a) não pode ser acolhida por se tratar de terra pertencente à União.
+
+b) não pode ser acolhida, por se tratar de terra pertencente aos Municípios.
+
+c) pode ser acolhida, o que pressupõe prévia autorização da Assembleia Legislativa.
+
+d) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+faixa de terra tiver sido declarada como área de preservação ambiental.
+
+e) pode ser acolhida, o que decorre do poder de gestão do Chefe do Poder Executivo, salvo se a
+indispensabilidade à proteção ambiental tiver sido reconhecida em lei da União.
+
+                                                                                                248
+                                                                                                268
+
+
+---
+
+50.​ (FGV/TJ SE/2023) Com o alegado objetivo de proteger os interesses dos consumidores
+situados em seu território, estabelecendo um equilíbrio entre os referenciais de oferta e
+demanda, o Estado-membro Alfa editou a Lei estadual nº X, dispondo que a produção das
+indústrias localizadas em seu território somente poderia ser direcionada ao exterior caso fosse
+certificado, pela Secretaria de Estado competente, que o mercado local fora regularmente
+atendido em suas demandas regulares.
+
+À luz da divisão de competências legislativas prevista na Constituição da República de 1988, a
+Lei estadual nº X é:
+
+a) inconstitucional, pois o interesse local deve ser disciplinado em lei municipal;
+
+b) inconstitucional, pois compete privativamente à União legislar sobre a matéria;
+
+c) constitucional, pois os Estados possuem competência legislativa residual nessa matéria;
+
+d) constitucional, pois é competência comum da União, dos Estados e do Distrito Federal legislar
+sobre a matéria;
+
+e) constitucional, desde que observadas as normas gerais editadas pela União, pois os Estados e
+o Distrito Federal possuem competência legislativa concorrente com a União.
+
+51.​ (FGV/TJ ES/2023) O Município Alfa, de grande potencial turístico, com o objetivo de
+estimular o desenvolvimento de uma cultura “municipalista”, editou a Lei municipal nº X,
+dispondo que as empresas da área de turismo somente poderiam contratar pessoas residentes
+há mais de dez anos no referido Município. Essa vedação somente seria excepcionada caso
+demonstrada a inexistência de pessoas que preenchessem esse requisito.
+   À luz da sistemática estabelecida na Constituição da República de 1988, a Lei municipal nº X
+   é:
+   a) constitucional, considerando que os Municípios devem legislar sobre os interesses locais;​
+
+
+   b) inconstitucional, pois é vedado aos entes federativos criar quaisquer preferências entre
+   brasileiros;​
+
+
+   c) constitucional, considerando que cada ente federativo é livre para estabelecer as distinções
+   que mais se ajustem aos interesses da respectiva população; ​
+   ​
+   d) constitucional, considerando que a Lei municipal nº X limita-se a reproduzir o comando
+   constitucional que excepciona a igualdade formal para alcançar a igualdade material;​
+   ​
+   e) inconstitucional, pois o tratamento diferenciado só é possível em relação a brasileiros
+   residentes em regiões diferentes, face à obrigação de reduzir as desigualdades regionais.
+
+                                                                                               249
+                                                                                               268
+
+
+---
+
+52.​ (FGV/TCE BA/2023) O Estado Alfa, com o objetivo de preservar o equilíbrio de um
+importante ecossistema existente em seu território, editou a Lei nº X e criou o serviço de
+controle e preservação ambiental. Além disso, o mesmo diploma normativo inseriu, entre as
+fontes de custeio desse serviço, taxa correspondente a um percentual da arrecadação das
+sociedades empresárias que atuam na geração de energia elétrica, realizando o aproveitamento
+energético dos cursos de água existentes no território de Alfa, atividade considerada
+potencialmente poluidora.
+   À luz da sistemática constitucional, é correto afirmar que a Lei nº X é:
+   a) inconstitucional, pois compete privativamente à União legislar sobre proteção do meio
+   ambiente;
+   b) constitucional, pois, por se tratar de curso de água pertencente a Alfa, cabe a esse ente
+   legislar sobre a matéria.
+   c) constitucional, considerando a aderência da atividade ao território de Alfa e a competência
+   legislativa concorrente;
+   d) inconstitucional, pois a fixação de taxa em percentual da receita das sociedades
+   empresárias tem efeito de confisco;
+   e) inconstitucional, por se tratar de intervenção indevida do Estado em atividade econômica
+   explorada pela União.
+53.​ (FGV/PREF. RJ/2023) Em razão de sucessivos conflitos deflagrados em condomínios
+edilícios que contavam com um único hidrômetro, de modo que o valor a ser pago em razão do
+fornecimento de água deveria ser rateado entre os condôminos, o Município Alfa editou a Lei nº
+X, dispondo que somente seria concedido habite-se, às construções iniciadas após a sua
+publicação, caso contassem com hidrômetros individuais para cada unidade autônoma.
+
+Irresignado com o teor da Lei municipal nº X, a associação das empresas de construção
+consultou a sua assessoria jurídica em relação à compatibilidade desse diploma normativo com a
+Constituição da República de 1988, sendo-lhe corretamente respondido que:
+
+a) a Lei municipal no X afrontou a livre iniciativa, o que decorreu da oneração excessiva das
+empresas de construção;
+
+b) o Município Alfa tinha competência para legislar sobre a matéria, em razão do preponderante
+interesse local;
+
+c) somente a União poderia legislar sobre a matéria, que incursiona nos direitos dos usuários dos
+serviços públicos;
+
+d) o serviço de fornecimento de água, ainda que delegado aos Municípios, é tipicamente
+estadual, logo, somente o Estado poderia legislar sobre a matéria,
+
+e) a Lei municipal n° X poderia ter incursionado na temática, desde que essa competência tenha
+sido reconhecida pelas normas gerais editadas pela União.
+
+                                                                                              250
+                                                                                              268
+
+
+---
+
+54.​ (FGV/ALEMA/2023) Em razão de ampla mobilização popular, o Estado Alfa, com o
+objetivo de proteger as vítimas e as testemunhas de infrações penais, editou a Lei nº XX, a partir
+de projeto de lei de iniciativa parlamentar, estatuindo o sigilo no boletim de ocorrência e no
+inquérito policial no âmbito do referido ente federativo.
+
+Por entender que a Lei nº XX era flagrantemente prejudicial à sua atividade, a associação dos
+veículos de comunicação social solicitou que sua assessoria jurídica analisasse a compatibilidade
+desse diploma normativo com a ordem constitucional.
+
+A assessoria respondeu corretamente que a Lei nº XX é
+
+a) inconstitucional, por violar a liberdade de informação.
+
+b) inconstitucional, pois está presente o vício de iniciativa.
+
+c) constitucional, por se enquadrar no âmbito da competência legislativa residual dos Estados.
+
+d) inconstitucional, por violar a competência privativa da União para legislar sobre processo
+penal.
+
+e) constitucional, por se ajustar à competência concorrente entre a União e os Estados para
+legislar sobre matéria procedimental.
+
+55.​ (FGV/ALEMA/2023) Com o objetivo de incentivar a solidariedade social e zelar pela saúde
+coletiva, o Estado Alfa editou a Lei nº XX, determinando que as sociedades empresárias que
+explorem o serviço de telefonia em seu território insiram, nas faturas de consumo, mensagens de
+incentivo à doação de sangue.
+
+Irresignado com o teor da Lei nº XX, o Partido Político Delta ingressou com ação direta de
+inconstitucionalidade perante o Supremo Tribunal Federal, argumentando a incompatibilidade
+entre esse diploma normativo e a Constituição da República.
+
+À luz dessa narrativa, é correto afirmar que o referido Tribunal deve julgar o pedido
+
+a) procedente, considerando a evidente afronta à livre iniciativa e ao princípio da
+proporcionalidade.
+
+b) procedente, considerando que a União figura como poder concedente nos contratos de
+concessão do serviço de telefonia.
+
+c) procedente, considerando que compete privativamente à União legislar sobre seguridade
+social em suas distintas vertentes.
+
+d) improcedente, considerando que a matéria é de competência comum entre a União, os
+Estados, o Distrito Federal e os Municípios.
+
+e) improcedente, considerando que os Estados possuem competência concorrente com a União
+para legislar sobre proteção à saúde.
+
+56.​ (FGV/ALEMA/2023) A Constituição do Estado Alfa foi objeto de emenda em relação à
+disciplina das competências do Tribunal de Contas Estadual. De acordo com a disciplina
+estabelecida pela emenda, as contas de governo apresentadas pelos chefes dos poderes
+
+                                                                                                 251
+                                                                                                 268
+
+
+---
+
+municipais seriam julgadas pelas Câmaras Municipais, considerando o parecer prévio do Tribunal
+de Contas, que somente deixaria de prevalecer por decisão de dois terços dos membros dessas
+Câmaras.
+
+À luz da sistemática estabelecida na Constituição da República, é correto afirmar que a referida
+emenda é
+
+a) materialmente constitucional, pois reproduz comandos já veiculados pela Constituição da
+República.
+
+b) materialmente inconstitucional, pois as Câmaras Municipais somente têm competência para
+julgar as contas do Chefe do Poder Executivo.
+
+c) formalmente inconstitucional, pois, em razão da autonomia dos Municípios, a matéria deveria
+ser disciplinada nas leis orgânicas municipais.
+
+d) formal e materialmente constitucional, pois cabe às Constituições estaduais veicular as regras e
+os princípios aos quais estão vinculados os Municípios.
+
+e) materialmente inconstitucional, pois fere a autonomia municipal o quórum qualificado de
+votação para que deixe de prevalecer o parecer do Tribunal de Contas.
+
+
+57.​ (FGV/ALEMA/2023) Em razão do crescimento do número de roubos, mediante o emprego
+de arma de fogo, no território do Estado Alfa, foi editada a Lei estadual nº X. De acordo com
+esse diploma normativo, que foi objeto de severas críticas por parte da entidade representativa
+das instituições financeiras, era obrigatória, sob pena de multa, a instalação de equipamentos de
+segurança nas agências bancárias. Além das críticas, foram obtidos diversos provimentos
+jurisdicionais nos quais era desautorizada a aplicação da Lei estadual nº X sob o argumento de
+sua inconstitucionalidade.
+
+À luz dessa narrativa, é correto afirmar que a Lei estadual nº X é
+
+a) constitucional, porque o Estado pode legislar em matérias afetas à segurança pública.
+
+b) inconstitucional, por afrontar a competência privativa da União para legislar sobre segurança
+pública.
+
+c) inconstitucional, por afrontar a competência dos Municípios para legislar sobre assuntos de
+interesse local.
+
+d) constitucional, considerando que as regras afetas às construções edilícias devem ser
+uniformizadas em lei estadual.
+
+e) não pode ser objeto de ação ajuizada perante o Supremo Tribunal Federal cujo pedido seja o
+reconhecimento de sua constitucionalidade.
+
+
+58.​ (FGV/TCE ES/2023) João, deputado estadual, solicitou que sua assessoria jurídica
+elaborasse projeto de lei a respeito de certa matéria, conforme as diretrizes que estabeleceu.
+
+                                                                                                252
+                                                                                                268
+
+
+---
+
+Ato contínuo, a assessoria esclareceu que a referida matéria se enquadrava no conceito
+constitucional de competência legislativa concorrente, o que significa dizer que o projeto a ser
+elaborado:
+
+a) somente pode disciplinar a matéria se a União tiver editado normas gerais a respeito da
+respectiva temática;
+
+b) pode disciplinar a matéria, mas deve observar as normas gerais editadas pela União e, à falta
+destas, será pleno o espaço de conformação do Poder Legislativo estadual;
+
+c) pode disciplinar a matéria, e, caso haja conflito com normas federais, deve prevalecer a norma
+estadual, considerando o princípio da especificidade do interesse;
+
+d) pode disciplinar a matéria, e, caso haja conflito com a norma geral editada pela União, a
+norma estadual será considerada revogada;
+
+e) pode disciplinar a matéria, caso venha a ser autorizado pela União, devendo prevalecer a
+norma de maior hierarquia caso haja conflito com normas federais ou municipais.
+
+59.​ (FGV/TCE ES/2023) O governador do Estado Alfa, com o objetivo de conter o processo
+de crescente endividamento dos servidores públicos estaduais, o que, a seu ver, assumira
+“contornos quase patológicos”, apresentou o Projeto de Lei nº XX, que deu origem à Lei
+estadual nº YY. De acordo com esse diploma normativo, ficava suspensa, por cento e oitenta
+dias, a cobrança, com desconto em folha, das consignações voluntárias contratadas por
+servidores públicos.
+
+Irresignada com o teor desse diploma normativo, a associação das instituições de crédito
+solicitou que o seu advogado se manifestasse a respeito da constitucionalidade da Lei estadual
+nº YY, sendo-lhe corretamente respondido que esse diploma normativo é:
+
+a) inconstitucional, mas apenas em relação aos débitos já constituídos, o que decorre da afronta à
+segurança jurídica, não em relação aos débitos futuros, considerando a competência concorrente
+com a União;
+
+b) constitucional, desde que a União tenha editado lei complementar, delegando a competência
+legislativa aos Estados;
+
+c) inconstitucional, pois compete privativamente à União legislar sobre política de crédito, além
+de a Lei estadual nº YY afrontar a segurança jurídica;
+
+d) constitucional, pois compete aos Estados suplementar a legislação da União em matéria de
+relações de consumo e de proteção ao crédito;
+
+e) constitucional, pois compete privativamente aos Estados legislar sobre o regime jurídico dos
+seus servidores, o que inclui a definição dos valores passíveis de serem descontados, ou não, em
+folha de pagamento.
+
+                                                                                               253
+                                                                                               268
+
+
+---
+
+60.​ (FGV/CGE SC/2023) O Município Alfa, situado em localidade bucólica e muito procurado
+por pessoas que almejavam se afastar da agitação dos centros urbanos, editou a Lei nº XX. Esse
+diploma normativo estabeleceu a vedação de que correspondências fossem distribuídas e
+entregues nos horários que indicou, nos quais, conforme fora apurado em audiências públicas,
+grande parte dos munícipes preferia não ser incomodada. Em caso de descumprimento da
+vedação, seria aplicada a penalidade de multa e, na hipótese de reincidência, a de cassação do
+alvará. Irresignada com o teor da Lei nº XX, uma associação comercial situada no Município Alfa
+consultou um advogado a respeito de sua compatibilidade formal com a Constituição da
+República, sendo-lhe corretamente respondido que o referido diploma normativo é
+
+A) constitucional, pois o Município Alfa pode suplementar as normas editadas pela União e pelo
+Estado em matéria de proteção ao consumidor.
+
+B) inconstitucional, pois compete privativamente à União legislar sobre o exercício de atividade
+econômica.
+
+C) constitucional, pois trata de matéria tipicamente local, de competência legislativa do
+Município Alfa.
+
+D) constitucional, pois é competência comum de todos os entes federativos zelar pela proteção à
+saúde.
+
+E) inconstitucional, pois compete privativamente à União legislar sobre serviço postal..
+
+                                                                                             254
+                                                                                             268
+
+
+---
+
+              GABARITO                 ​
+
+1.​ E                    46.​LETRA E
+2.​ E                    47.​LETRA A
+3.​ B                    48.​LETRA B
+4.​ E                    49.​LETRA A
+5.​ B                    50.​LETRA B
+6.​ C                    51.​LETRA B
+7.​ E                    52.​LETRA E
+8.​ C                    53.​LETRA B
+9.​ A                    54.​LETRA E
+10.​D                    55.​LETRA E
+11.​D                    56.​LETRA B
+12.​C                    57.​LETRA A
+13.​A                    58.​LETRA B
+14.​C                    59.​LETRA C
+15.​B                    60.​LETRA E
+16.​LETRA C
+17.​LETRA D
+18.​LETRA D
+19.​LETRA C
+20.​LETRA C
+21.​LETRA C
+22.​LETRA D
+23.​LETRA C
+24.​LETRA D
+25.​LETRA A
+26.​LETRA D
+27.​LETRA B
+28.​LETRA B
+29.​LETRA D
+30.​LETRA D
+31.​LETRA B
+32.​LETRA B
+33.​LETRA E
+34.​LETRA A
+35.​LETRA C
+36.​LETRA E
+37.​LETRA B
+38.​LETRA B
+39.​LETRA E
+40.​LETRA B
+41.​LETRA E
+42.​LETRA C
+43.​LETRA A
+44.​LETRA D
+45.​LETRA C
+
+
+                                           255
+                                           268
+
+
+---
+
+                                 LISTA DE QUESTÕES
+
+Intervenção
+
+1.​   (FGV/PC-MG/Investigador de Polícia/2025) Foi identificada uma grave crise política no
+Município Beta, localizado no território do Estado Sigma e no qual está situado um importante
+porto nacional, de grande relevância estratégica para a exportação de determinado gênero
+alimentício.
+
+Por essa razão, diversas estruturas orgânicas federais se reuniram com o objetivo de apresentar
+ao Presidente da República proposta de decretação de intervenção federal no referido
+município. Com isso, almejavam evitar possíveis impactos na balança comercial brasileira.
+
+Ao fim da reunião, concluiu-se corretamente que
+
+A)​   a decretação da intervenção pressupõe prévia autorização do Supremo Tribunal Federal.
+
+B)​    em razão do nível federativo no qual os fatos ocorreram, a União não pode decretar a
+intervenção.
+
+C)​    a intervenção pode ser decretada, considerando que a narrativa não descreve típico
+interesse local.
+
+D)​   a decretação da intervenção pressupõe requerimento nesse sentido do Chefe do Poder
+Executivo de Beta.
+
+E)​   a intervenção pode ser decretada pelo Presidente da República independentemente da
+provocação de outro órgão.
+
+2.​     (FGV/TCE-RR/Analista Administrativo/2025) Foi divulgado em diversos meios de
+comunicação social que o estado Alfa não tinha repassado aos municípios situados em seu
+território, no prazo devido, 50% do produto da arrecadação do imposto sobre a propriedade de
+veículos automotores licenciados em seus territórios, receita que, por imperativo constitucional,
+pertence aos municípios. Essa situação gerou grande insatisfação junto às lideranças partidárias
+e foi iniciado um movimento de âmbito nacional para que fosse decretada a intervenção da
+União em Alfa.
+
+Nesse caso é correto afirmar que a situação descrita
+
+a) configura hipótese de intervenção espontânea, cabendo ao Congresso Nacional apreciar o
+respetivo decreto após a sua edição.
+
+                                                                                              256
+                                                                                              268
+
+
+---
+
+b) configura hipótese de intervenção provocada, cabendo ao Congresso Nacional autorizar a
+expedição do respectivo decreto.
+c) não pode acarretar a decretação de intervenção federal, considerando tratar-se de mero
+descumprimento de obrigação financeira.
+d) pode acarretar a intervenção, o que pressupõe o ajuizamento de ação direta interventiva e o
+seu correlato provimento pelo Supremo Tribunal Federal.
+e) configura hipótese de intervenção solicitada, exigindo a provocação de um dos municípios
+afetados pela ausência de repasse das receitas tributárias.
+
+3.​    (FGV/PC-SC/Delegado/2024) O Município Alfa não aplica o mínimo exigido da receita
+municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de
+saúde. Em audiência pública determinado vereador progressista sustenta que esta situação
+enseja intervenção estadual no Município.
+
+A partir da correção da alegação feita pelo vereador na hipótese narrada e conforme as regras
+constitucionais vigentes, é correto afirmar que
+
+a) a decretação da intervenção estadual dependerá de provimento pelo Tribunal de Justiça, de
+representação do Procurador-Geral de Justiça.
+
+b) a decretação da intervenção estadual ocorrerá ex officio por ato do Governador de Estado.
+
+c) a decretação da intervenção estadual dependerá de provimento, pelo Supremo Tribunal
+Federal, de representação do Procurador-Geral da República.
+
+d) a decretação da intervenção estadual dispensará a apreciação pela Assembleia Legislativa.
+
+e) a decretação da intervenção estadual dependerá de solicitação da Assembleia Legislativa.
+
+4.​     (FGV/TJ-SC/Juiz/2024) Em uma gincana jurídica, os grupos participantes foram
+questionados a respeito da funcionalidade dos denominados “princípios constitucionais
+sensíveis”, mais especificamente se a sua infringência apresenta características similares na
+perspectiva da decretação da intervenção nos estados ou nos municípios. O grupo Alfa
+sustentou que a ação direta interventiva é essencial para a decretação da intervenção em
+município em razão da não aplicação do mínimo exigido da receita municipal na manutenção e
+desenvolvimento do ensino. O grupo Beta defendeu que a decretação de intervenção em
+município, em situações que correspondem à violação aos referidos princípios, reproduzidos
+inclusive na Constituição Estadual, pode ser provocada ou espontânea. Por fim, o grupo Gama
+sustentou que a decretação de intervenção em estado, em razão da afronta aos princípios
+constitucionais sensíveis, sempre se dá na modalidade provocada.
+
+Ao final, os jurados concluíram, corretamente, em relação às conclusões dos referidos grupos,
+que:
+
+a) todas estão erradas;
+
+                                                                                               257
+                                                                                               268
+
+
+---
+
+b) apenas a de Beta está certa;
+
+c) apenas a de Gama está certa;
+
+d) apenas as de Alfa e Gama estão certas;
+
+e) apenas as de Beta e Gama estão certas.
+
+5.​   (FGV/Câmara de Fortaleza/Analista Legislativo/2024) O Poder Executivo Município Alfa
+vinha descumprindo reiteradamente, conforme divulgado pela imprensa e devidamente
+corroborado por investigações realizadas pelo Ministério Público, os princípios estabelecidos na
+Constituição Estadual.
+
+Em razão desse quadro, o Governador do Estado consultou sua assessoria em relação à
+possibilidade de ser decretada a intervenção estadual no Município Alfa, sendo-lhe corretamente
+respondido que
+
+a) trata-se de hipótese de cabimento de intervenção provocada, o que pressupõe o provimento
+de representação pelo órgão competente.
+
+b) em razão da autonomia municipal, somente a inobservância dos princípios estabelecidos na
+lei orgânica de Alfa poderiam ensejar a decretação da intervenção.
+
+c) a decretação da intervenção é possível, o que deve ocorrer, de ofício, por iniciativa do Chefe
+do Poder Executivo do Estado, com submissão do decreto à Assembleia Legislativa.
+
+d) a afronta aos princípios estabelecidos na Constituição Estadual deve ser previamente
+reconhecida pela Assembleia Legislativa, permitindo o início do processo de intervenção.
+
+e) as hipóteses de intervenção, com a correlata suspensão do pacto federativo, estão
+exaustivamente previstas na Constituição da República, logo, a inobservância da intervenção
+estadual não pode ensejar a sua decretação.
+
+6.​   (FGV/ALE-SC/Analista Legislativo/2024) De acordo com informações divulgadas pela
+imprensa, o Município Alfa vinha descumprindo diversas obrigações previstas na Constituição da
+República, bem como alguns princípios indicados na Constituição Estadual. Determinado
+repórter, ao consultar um especialista na matéria em relação à possibilidade, ou não, desse
+estado de coisas acarretar a intervenção do Estado em Alfa, foi corretamente informado de que
+
+a) a intervenção é possível, mas sempre pressupõe o provimento de representação pelo Tribunal
+de Justiça.
+
+b) a intervenção espontânea é possível na hipótese de não prestação de contas devidas
+conforme os balizamentos estabelecidos em lei.
+
+c) é possível que a afronta aos princípios indicados na Constituição Estadual acarrete a
+decretação da intervenção em Alfa, o que será feito, de ofício, pelo Governador.
+
+                                                                                              258
+                                                                                              268
+
+
+---
+
+d) somente é necessário o provimento de representação, pelo Tribunal de Justiça, para a
+decretação da intervenção, no caso de recusa de cumprimento de ordem ou decisão judicial.
+
+e) em razão do escalonamento federativo, que impede a decretação de intervenção, pela União,
+em Alfa, somente a afronta as normas estaduais podem acarretar a intervenção.
+
+7.​    (FGV/TJ-SC/Analista Jurídico/2024) Diversas organizações da sociedade civil organizada
+peticionaram ao governador do estado Alfa solicitando que fossem adotadas as medidas
+necessárias para a decretação de intervenção estadual no município Beta. A solicitação decorria
+do fato de, há três exercícios financeiros, não serem prestadas as contas devidas, conforme
+prescrito em lei.
+
+Ao consultar o procurador-geral do estado em relação à possibilidade, ou não, de ser decretada
+a intervenção almejada, foi corretamente informado ao chefe do Poder Executivo que:
+
+a) é necessário provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+privativa do Ministério Público;
+
+b) é possível a decretação da intervenção, pelo governador do estado, após prévia aprovação
+pela Assembleia Legislativa;
+
+c) a não apresentação de contas enseja a tomada de contas especial, pelo Tribunal de Contas,
+não a decretação da intervenção;
+
+d) é possível a decretação da intervenção, pelo governador do estado, independente de
+provimento de representação pelo Tribunal de Justiça;
+
+e) é necessário o provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+disjuntiva e concorrente entre o Ministério Público e o governador do estado.
+
+8.​    (FGV/PME-RJ/Oficial/2024) Como o município Beta, situado no território do estado Alfa,
+não vinha pagando há três exercícios financeiros a dívida pública com prazo para amortização
+superior a doze meses, foi cogitada a possibilidade de o governador do estado decretar a
+intervenção estadual em Beta.
+
+Ao consultar a Procuradoria-geral do Estado, foi corretamente esclarecido ao chefe do Poder
+Executivo estadual que a decretação da intervenção:
+
+a) pode ocorrer na modalidade voluntária;
+
+b) pressupõe o ajuizamento de ação própria;
+
+c) exige requisição do Tribunal de Justiça de Alfa;
+
+d) depende de solicitação da Câmara Municipal de Beta;
+
+e) está condicionada à representação da Assembleia Legislativa de Alfa.
+
+                                                                                            259
+                                                                                            268
+
+
+---
+
+9.​    (FGV/TRF 1ª Região/Oficial de Justiça Avaliador Federal/2024) O governador do estado
+Alfa, por discordar de forma veemente de determinada política nacional delineada pela União na
+Lei nº Y, decorrente do exercício da competência legislativa privativa desse ente federativo,
+editou o Decreto nº X. O Decreto determinou que as estruturas da Administração Pública Direta
+e Indireta do Poder Executivo do estado Alfa não observassem os termos da Lei nº Y, em razão
+de sua manifesta inconstitucionalidade.
+
+Como o Decreto nº X vinha sendo cumprido, a assessoria do presidente da República foi instada
+a analisar a possibilidade de ser decretada a intervenção da União no estado Alfa, tendo
+concluído corretamente que:
+
+a) a hipótese não enseja o cabimento da intervenção, mas, sim, o ajuizamento de ação
+declaratória de constitucionalidade da Lei nº Y;
+
+b) a hipótese não enseja o cabimento da intervenção, mas, sim, o ajuizamento de ação direta de
+inconstitucionalidade do Decreto nº X;
+
+c) a hipótese é de decretação de intervenção voluntária, cabendo ao Congresso Nacional
+analisar o decreto de intervenção a posteriori;
+
+d) a decretação da intervenção está condicionada ao provimento de representação interventiva,
+a ser julgada pelo Supremo Tribunal Federal;
+
+e) a hipótese não enseja o cabimento da intervenção, mas, sim, o ajuizamento de arguição de
+descumprimento de preceito fundamental do Decreto nº X.
+
+10.​ (FGV/TCE-PA/Auditor de Controle Externo - Área de Fiscalização – Contabilidade/2024) O
+Poder Executivo do Estado Alfa estava envolvido em uma grande crise institucional, com
+reiteradas situações de descumprimento de comandos normativos veiculados em leis federais.
+Por tal razão, a oposição ao governo consultou um especialista em relação à possibilidade
+desses fatos ensejarem a decretação de intervenção federal.
+
+O especialista esclareceu corretamente que
+
+a) é cabível a intervenção, a ser decretada pelo Presidente da República após provocação do
+Congresso Nacional.
+
+b) é cabível a intervenção provocada, sendo que há somente um legitimado para o ajuizamento
+da respectiva representação.
+
+c) apesar da gravidade da situação, a hipótese não se enquadra no rol daquelas que autorizam a
+decretação da intervenção federal.
+
+d) é cabível a intervenção espontânea, a ser decretada pelo Presidente da República, com
+posterior manifestação do Congresso Nacional.
+
+                                                                                           260
+                                                                                           268
+
+
+---
+
+e) é cabível a intervenção após o provimento, pelo Tribunal de Justiça ou pelo Tribunal de
+Contas, da representação que venha a ser apresentada.
+
+11.​ (FGV/TJ-SC/2024)Diversas organizações da sociedade civil organizada peticionaram ao
+governador do estado Alfa solicitando que fossem adotadas as medidas necessárias para a
+decretação de intervenção estadual no município Beta. A solicitação decorria do fato de, há
+três exercícios financeiros, não serem prestadas as contas devidas, conforme prescrito em lei.
+
+Ao consultar o procurador-geral do estado em relação à possibilidade, ou não, de ser decretada
+a intervenção almejada, foi corretamente informado ao chefe do Poder Executivo que:
+
+a) é necessário provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+privativa do Ministério Público;
+
+b) é possível a decretação da intervenção, pelo governador do estado, após prévia aprovação
+pela Assembleia Legislativa;
+
+c) a não apresentação de contas enseja a tomada de contas especial, pelo Tribunal de Contas,
+não a decretação da intervenção;
+
+d) é possível a decretação da intervenção, pelo governador do estado, independente de
+provimento de representação pelo Tribunal de Justiça;
+
+e) é necessário o provimento de ação interventiva, pelo Tribunal de Justiça, de legitimidade
+disjuntiva e concorrente entre o Ministério Público e o governador do estado.
+
+12.​ (FGV/CÂMARA DOS DEPUTADOS/2023)Ana e Maria realizaram alentada análise a
+respeito das distinções conceituais entre a intervenção passível de ser decretada pela União em
+Estado, e aquela passível de ser decretada pelo Estado em Município, quando não forem
+prestadas contas pela administração pública direta em harmonia com a sistemática estabelecida
+pela ordem jurídica.
+
+Ao fim de suas reflexões, Ana e Maria concluíram corretamente que
+
+a) a situação descrita na narrativa não justifica a intervenção da União no Estado.
+
+b) em ambos os casos estamos perante situações de intervenção provocada.
+
+c) em ambos os casos estamos perante situações de intervenção espontânea.
+
+d) enquanto a decretação da intervenção da União é classificada como provocada, a do Estado é
+espontânea.
+
+e) enquanto a decretação da intervenção da União é classificada como espontânea, a do Estado
+é provocada.
+
+
+                                                                                            261
+                                                                                            268
+
+
+---
+
+13.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Um Estado da Região Norte do país está
+passando por grande instabilidade institucional em razão de uma greve das forças de segurança
+pública, o que compromete a ordem pública. Já um Estado da Região Sul está passando por
+comoção grave, decorrente da atuação de grupos separatistas, que almejam criar um novo
+Estado de Direito, independente da República Federativa do Brasil, o que compromete a paz
+social da população dessa Região.
+
+Apesar da efervescência dos acontecimentos que eclodiram no território nacional, inúmeros
+parlamentares, sensíveis à necessidade de ser realizada uma reforma tributária, iniciaram a
+colheita de assinaturas para a apresentação de proposta de emenda à Constituição.
+
+Sobre a hipótese narrada, à luz da sistemática constitucional, assinale a afirmativa correta.
+
+a) Os acontecimentos verificados nos Estados das Regiões Norte e Sul do País não geram
+reflexos no processo legislativo, mas podem ensejar tanto a decretação da intervenção federal
+como a decretação do estado de defesa.
+
+b) Os acontecimentos verificados nos Estados das Regiões Norte e Sul do País geram reflexos no
+processo legislativo, configurando limites circunstanciais para a reforma constitucional, e se
+harmonizam apenas com a decretação do estado de defesa.
+
+c) Os limites circunstanciais de reforma constitucional estarão presentes apenas nas situações em
+que sejam detectadas instabilidades de caráter nacional, ensejando, em caráter sequencial, a
+decretação do estado de defesa e do estado de sítio, o que não é o caso.
+
+d) Os acontecimentos verificados nos Estados das Regiões Norte e Sul do País podem vir a
+ensejar a decretação do estado de sítio, o que pressupõe a insuficiência das medidas adotadas
+durante a intervenção federal e o estado de defesa, mas não geram reflexos na reforma
+constitucional alvitrada pelos parlamentares.
+
+e) Os acontecimentos verificados no Estado da Região Norte podem ensejar a decretação da
+intervenção federal e do estado de defesa, enquanto aqueles verificados no Estado da Região
+Sul só se harmonizam com a decretação do estado de sítio, sendo que apenas os últimos
+consubstanciam limite circunstancial de reforma constitucional.
+
+14.​ (FGV/ALEMA/2023) O Procurador-Geral da República ajuizou representação interventiva,
+perante o Supremo Tribunal Federal (STF), sob o argumento de que o Estado Alfa não aplicou o
+mínimo exigido da receita resultante de impostos estaduais em ações e serviços públicos de
+saúde.
+
+Considerando os termos dessa narrativa e a sistemática jurídica afeta à respectiva temática, é
+correto afirmar que se trata de processo.
+
+a) subjetivo, sendo que a procedência do pedido, pelo STF, vincula o Presidente da República em
+relação à necessidade de decretação da intervenção.
+
+b) objetivo, sendo que a procedência do pedido, pelo STF, produz o efeito de decretação da
+intervenção, cabendo ao Presidente da República a nomeação do interventor.
+
+                                                                                                262
+                                                                                                268
+
+
+---
+
+c) de controle de constitucionalidade, sendo que a procedência do pedido, pelo STF, somente
+atesta a injuridicidade, cabendo ao Presidente da República avaliar a conveniência de decretar a
+intervenção.
+
+d) de controle da efetividade dos direitos fundamentais, sendo que o Supremo Tribunal Federal
+somente analisará o pedido formulado após o decurso do prazo constitucional para a correção,
+pelo Estado Alfa, da injuridicidade detectada.
+
+e) de conflito federativo, sendo que a procedência do pedido pelo STF desconstituirá os atos
+inconstitucionais e possibilitará que o Congresso Nacional avalie a conveniência da intervenção, a
+ser decretada pelo Presidente da República.
+
+15.​ (FGV/TCE-ES/2023) O prefeito do Município Alfa tomou conhecimento de que o
+governador do Estado Beta, em cujo território o Alfa está situado, decretou a intervenção
+estadual espontânea no Município. Para tanto, foi invocado, como fundamento do decreto
+estadual, que o Município Alfa: (1º) está se negando a executar as normas de licitações e
+contratos administrativos editadas pela União; (2º) não vem pagando a dívida flutuante; e (3º)
+não aplicou, nos dois últimos exercícios financeiros, o mínimo exigido da receita municipal na
+manutenção e desenvolvimento do ensino.
+Irresignado com a decretação da intervenção, o prefeito municipal solicitou que o
+procurador-geral do Município se manifestasse a respeito de sua compatibilidade com a
+Constituição da República de 1988.
+
+Foi corretamente informado ao prefeito municipal, em relação à compatibilidade, com a ordem
+constitucional, dos três fundamentos invocados no decreto de intervenção, que:
+
+a) todos foram corretamente invocados;
+
+b) apenas o 2º fundamento foi corretamente invocado;
+
+c) apenas o 3º fundamento foi corretamente invocado;
+
+d) apenas o 1º e o 2º fundamentos foram corretamente invocados;
+
+e) apenas o 1º e o 3º fundamentos foram corretamente invocados.
+
+16.​ (FGV/Câmara dos Deputados - Consultor Legislativo/2023) A intervenção é um
+instrumento clássico garantidor da indissolubilidade do pacto federativo, sendo, portanto, um
+elemento estabilizador dos estados federais, na medida em que sua decretação excepciona o
+princípio da autonomia dos entes federados (União, Estados-membros, Distrito Federal e
+Municípios) somente em casos extremos de ameaça a tal equilíbrio. Com rigor, a intervenção
+federal deve ser vislumbrada como o último remédio para se manter a integridade nacional e a
+ordem jurídica constitucional. Em linhas gerais, a Intervenção Federal, diferentemente dos
+institutos do Estado de Defesa e do Estado de Sítio, não é uma excepcionalidade ao Estado
+
+                                                                                               263
+                                                                                               268
+
+
+---
+
+Democrático de Direito visto que a Constituição não prevê para aquele instituto a possibilidade
+de suspensão de direitos ou garantias fundamentais.
+
+Com relação ao fenômeno da intervenção no Estado Democrático de Direito, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) O governador do Estado Alfa decidiu afastar a execução da Lei Federal 123/23. Ato contínuo,
+o Procurador-Geral da República (PGR), mediante requerimento da parte interessada, ajuizou
+Ação Direta de Inconstitucionalidade Interventiva (ADINT) perante Supremo Tribunal Federal
+(STF), para fins de intervenção federal. O STF, em decisão final de mérito, julgou procedente o
+pedido de intervenção federal, enviando-a para o Presidente da República, para que este
+decretasse a intervenção no Estado Alfa. Mesmo sem concordar com tal decisão do STF, o
+Presidente da República decreta a intervenção federal do Estado Alfa. Na situação apresentada,
+o STF e o Presidente da República agiram conforme lhes autoriza a Constituição.
+                                               ==8b9==
+
+( ) O governador do Distrito Federal deixou de cumprir decisões do Tribunal de Justiça do
+Distrito Federal e Territórios (TJDFT), o qual, mediante requerimento da parte interessada,
+comunicou a desobediência ao Superior Tribunal de Justiça (STJ), para fins de intervenção
+federal. O STJ entendeu procedente o pedido de intervenção federal e, em seguida, enviou
+requisição ao Presidente da República para que este decretasse a intervenção federal do Distrito
+Federal. Na situação apresentada, o STJ agiu conforme lhe autoriza a Constituição.
+
+( ) Em um determinado estado da Federação, o governador violou um dos princípios
+constitucionais sensíveis previstos no art. 34, inciso VII, alíneas a-e, da Constituição Federal. Ato
+contínuo, o Presidente do Tribunal de Justiça Local (TJL) envia requisição para o Presidente da
+República (PGR), que aquiescendo resolve então decretar a intervenção federal no referido
+Estado. Na situação apresentada, o Presidente do Tribunal de Justiça Local e o Presidente da
+República agiram conforme lhes autoriza a Constituição.
+
+As afirmativas são, respectivamente, na ordem apresentada,
+
+a) V — V — V.
+
+b) F — F — V.
+
+c) V — F — V.
+
+d) F — V — F.
+
+e) V — V — F.
+
+17.​ (FGV/SENADO FEDERAL/Consultor Legislativo - Orçamento e Análise Econômica/2022)
+Ana, professora e estudiosa do federalismo, foi questionada por uma aluna a respeito dos
+
+
+                                                                                                  264
+                                                                                                  268
+
+
+---
+
+balizamentos constitucionais a serem observados para a decretação de intervenção no ente
+federativo que não aplicar a receita mínima exigida na manutenção e desenvolvimento do
+ensino, conforme previsto na Constituição da República.
+
+Ao contínuo ao questionamento, Ana respondeu corretamente no sentido de que
+
+a) a intervenção da União nos Estados e no Distrito Federal será da espécie provocada, enquanto
+a intervenção do Estado em seus Municípios será espontânea.
+
+b) a intervenção da União nos Estados e no Distrito Federal será da espécie espontânea,
+enquanto a intervenção do Estado em seus Municípios será provocada.
+
+c) se trata de violação a um dos princípios sensíveis previstos na ordem constitucional, sendo que
+a intervenção, nesse caso, em qualquer ente federativo, sempre será provocada.
+
+d) se trata de violação a um dos princípios sensíveis previstos na ordem constitucional, sendo que
+a intervenção, nesse caso, em qualquer ente federativo, sempre será espontânea.
+
+e) embora a ordem constitucional admitida a decretação da intervenção, observados os
+princípios do contraditório e da ampla defesa, é imperativa a realização de prévia mediação, sob
+supervisão do Supremo Tribunal Federal.
+
+18.​ (FGV/TJ-MS - 2022) O Tribunal de Contas do Estado Alfa, ao apreciar as contas de
+governo apresentadas pelo prefeito do Município Beta nos três últimos exercícios financeiros,
+detectou a não aplicação do mínimo exigido da receita municipal em ações e serviços públicos
+de saúde. Em razão desse estado de coisas, o prefeito foi informado sobre a existência de um
+forte movimento popular para que seja decretada a intervenção do Estado Alfa no Município
+Beta. Essa intervenção, considerando a narrativa apresentada, é da modalidade:
+a) provocada e pressupõe o acolhimento de representação, de iniciativa do Ministério Público,
+pelo Tribunal de Justiça, com edição de decreto pelo governador e posterior apreciação da
+Assembleia Legislativa;
+b) provocada e pressupõe o acolhimento de representação, de iniciativa do Tribunal de Contas,
+pelo Tribunal de Justiça, com edição de decreto pelo governador e posterior apreciação da
+Assembleia Legislativa;
+c) espontânea, devendo ser objeto de deliberação da Assembleia Legislativa, a partir de
+provocação de grupos populares, com posterior edição de decreto pelo governador;
+d) provocada e pressupõe representação do Tribunal de Contas, com apreciação da Assembleia
+Legislativa e posterior edição de decreto pelo governador;
+e) espontânea, devendo ser objeto de decreto do governador do Estado, com posterior
+apreciação da Assembleia Legislativa.
+
+                                                                                               265
+                                                                                               268
+
+
+---
+
+19.​ (FGV/TCE-AM - 2021) O Município Beta, apesar de ter sido regularmente intimado,
+deixou de cumprir inúmeras ordens judiciais sem que houvesse qualquer justificativa para esse
+proceder, que não a ausência de vontade política em cumpri-las.
+Nesse caso, para que o Estado possa intervir no referido Município, é necessário:
+a) provimento de representação pelo Tribunal de Justiça, edição do decreto de intervenção e sua
+apreciação pela Assembleia Legislativa;
+b) representação do Tribunal de Justiça, edição do decreto de intervenção e sua apreciação pela
+Assembleia Legislativa;
+c) provimento de representação pelo Tribunal de Justiça e edição do decreto de intervenção;
+d) deliberação da Assembleia Legislativa e edição do decreto de intervenção;
+e) representação do Tribunal de Justiça e edição do decreto de intervenção.
+
+
+20.​ (FGV / Prefeitura de Niterói – 2018) O Município XYZ, situado no Estado ABC, enfrenta,
+neste momento, grave situação de insegurança, devido a diários conflitos envolvendo traficantes
+fortemente armados. Tais conflitos já deixaram dezenas de mortos em um período de duas
+semanas, e as tentativas de resposta da polícia foram objeto de retaliação por parte de
+bandidos, aterrorizando a população local. Nesse caso,
+a) a União ou o Estado ABC podem intervir no Município XYZ, com o fim de ver restabelecida a
+ordem pública, gravemente comprometida pelos eventos descritos.
+b) pode o Estado ABC intervir no Município XYZ, com o propósito de fazer cessar ameaça à
+segurança pública e à ordem constitucional estabelecida.
+c) a União pode intervir no Estado ABC para pôr fim ao grave comprometimento da ordem
+pública, mas o Estado ABC não pode intervir no Município XYZ nessa hipótese.
+d) a União pode intervir no Município XYZ para o restabelecimento da ordem pública gravemente
+comprometida, devendo submeter o decreto de intervenção à apreciação do Congresso
+Nacional.
+e) não está configurada hipótese de intervenção federal ou estadual, uma vez que esta requer,
+nos termos da Constituição da República, atuação dolosa por parte do Estado ou do Município.
+
+                                                                                              266
+                                                                                              268
+
+
+---
+
+              GABARITO   ​
+
+1.​ B
+2.​ A
+3.​ B
+4.​ E
+5.​ A
+6.​ B
+7.​ D
+8.​ A
+9.​ D
+10.​B
+11.​D
+12.​D
+13.​A
+14.​A
+15.​C
+16.​E
+17.​A
+18.​LETRA E
+19.​LETRA C
+20.​LETRA C
+
+                             267
+                             268
+
+
+---

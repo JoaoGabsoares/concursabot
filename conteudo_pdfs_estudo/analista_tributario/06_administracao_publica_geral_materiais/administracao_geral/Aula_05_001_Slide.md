@@ -1,0 +1,2079 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: FUNÇÃO ORGANIZAÇÃO
+---
+
+# FUNÇÃO ORGANIZAÇÃO
+
+---
+
+---
+
+FUNÇÃO ORGANIZAÇÃO
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+Função Organização
+
+                           •Dividir o trabalho, atribuir as responsabilidades e estabelecer as autoridades.
+                           •Estabelecer os meios e os recursos necessários para se alcançar o objetivo
+                            proposto pelo planejamento.
+             Organização   •Está relacionada à alocação de recursos para equipes, pessoas, órgãos e
+                            departamentos e à atribuição (alocação) de tarefas.
+                           •Tem foco em "coisas" / recursos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Função Organização
+Componentes
+
+                                Tarefas
+
+                                Pessoas
+    Componentes da Função
+        Organização
+                                 Órgãos
+
+                                Relações
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            
+
+
+---
+
+Função Organização
+Abrangência
+
+                                                              Organização no Nível Global
+                        Nível Institucional
+                                                               -Abrange toda a empresa
+                        (Nível Estratégico)
+                                                   -Desenho Organizacional (Estrutura Organizacional)
+
+                                                         Organização no Nível Departamental
+                    Nível Departamental
+                                                -Abrange departamentos, áreas, ou unidades da empresa
+                          (Nível Tático)           -Desenho Departamental (Departamentalização)
+
+                                                     Organização no nível das Tarefas e Operações
+                        Nível Operacional           -É focado em cada tarefa, atividade ou operação
+                                                -Modelagem do trabalho (Trabalho isolado ou em equipe)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+                        (CESPE – EMAP – Analista Portuário - 2016)
+Estabelecer responsabilidades pela execução das tarefas, distribuir tarefas entre as
+várias unidades organizacionais e alocar recursos para o funcionamento da
+organização caracterizam ações da função organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+ESTRUTURA ORGANIZACIONAL
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+Estrutura Organizacional
+Sistemas
+
+                        Autoridade             Responsabilidade
+
+                         Decisão                 Comunicação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Estrutura Organizacional
+Fatores Condicionantes
+
+                                             Fator Humano
+
+
+                                      Fator objetivos, estratégias e
+                                                políticas
+Fatores Condicionantes da Estrutura
+          Organizacional
+                                            Fator Tecnologia
+
+                                        Fator Ambiente Externo
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+                        (FEPESE – UFS – Assistente – 2018 - ADAPTADA)
+São componentes da Estrutura Organizacional os seguintes sistemas, EXCETO:
+a) Sistema de responsabilidade
+b) Sistema de autoridade
+c) Sistema informal
+d) Sistema de comunicação
+e) Sistema de tomada de decisão
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Estrutura Organizacional
+Elementos
+                        Especialização do             Indica até que ponto as atividades podem ser
+                            Trabalho                        divididas em tarefas separadas.
+
+                        Departamentalizaç             Indica qual é a base para o agrupamento de
+                               ão                                        tarefas.
+
+                           Cadeia de                Indica a “quem” os indivíduos (ou grupos) devem
+ Elementos da              Comando                                    se reportar.
+   Estrutura
+ Organizacional           Amplitude de                Indica quantas pessoas cada executivo pode
+                           Controle                         dirigir de forma eficaz e eficiente.
+
+                         Centralização e              Indica “onde” fica a autoridade no processo
+                        Descentralização                               decisório.
+
+                                                           Indica até que ponto existirá regras e
+                          Formalização                   regulamentos para dirigir e coordenar os
+                                                                funcionários e os executivos.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+                        (CESPE – INMETRO – Analista Executivo - ADAPTADA) A
+Entre os elementos que devem ser observados no projeto de uma estrutura
+organizacional, incluem-se: especialização do trabalho; departamentalização; cadeia
+de comando; amplitude de controle; centralização e descentralização; e
+formalização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – IBGE – Agente Censitário - 2017)
+O processo de organização segue alguns princípios básicos e exige que se tomem
+decisões acerca de certos elementos, entre eles:
+a) especialização do trabalho e amplitude de controle;
+b) missão e visão organizacionais;
+c) cultura organizacional e sistemas de gestão;
+d) divisão de tarefas e definição de metas;
+e) estrutura e estratégia organizacionais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Elementos da Estrutura Organizacional
+Especialização do Trabalho
+
+                                                                  Especialização Vertical
+                                                                   (Níveis hierárquicos)
+
+                                                                  Especialização Horizontal
+                                                                   (Departamentalização)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Elementos da Estrutura Organizacional
+Departamentalização
+
+Departamentalização é a maneira de alocação de pessoas, recursos, e atividades
+homogêneas em unidades organizacionais (departamentos, áreas, etc.), com o objetivo de
+obter uma melhor coordenação e focalização dos esforços.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização Funcional
+
+                                                       Diretoria
+                                                      (Indústria)
+
+                        Departamento      Departamento         Departamento   Departamento
+                        de Produção        de Vendas            Financeiro       de RH
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Tipos de Departamentalização
+                                           Departamentalização Funcional
+
+
+                             Vantagens                                           Desvantagens
+
+                          Especialização do trabalho                                    Foco introvertido
+
+                                                                           Dificuldade em adaptar-se às mudanças
+                 Favorece a convergência e a focalização dos
+                                 esforços
+                                                                               Foco em “objetivos funcionais”
+
+                        Maior estabilidade e segurança                       Conflito de Interesses e de Objetivos
+
+                                                                                       Superespecialização
+                        Aumento da economia de escala
+
+                                                                                   Perda da visão “macro”
+                 Concentra as competências de maneira eficaz              Dificuldade de coordenação, integração e
+                                                                           comunicação entre os departamentos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                  
+
+
+---
+
+                        (CESPE – TCE-PB – Agente de Documentação - 2018)
+A departamentalização é um método de subdivisão do trabalho e dos trabalhadores
+em unidades organizacionais distintas. Uma desvantagem da departamentalização
+funcional está relacionada
+a) à concentração de trabalhadores com habilidades específicas em apenas um foco
+de atividade
+b) à elevação dos custos administrativos, uma vez que cada unidade tem sua própria
+equipe especializada em determinada atividade.
+c) ao direcionamento da organização para as necessidades do público-alvo, e não
+para as funções internas.
+d) a dificuldades na execução de tarefas complexas e de grande amplitude.
+e) a dificuldades de comunicação interdepartamental.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização por Produto (ou Serviço)
+
+                                                            Diretoria
+                                                          (Fábrica de
+                                                           Bebidas)
+
+
+                             Divisão de                                           Divisão de
+                              Cervejas                                           Refrigerantes
+
+             Departamento   Departamento      Departamento        Departamento   Departamento    Departamento
+              de Vendas      de Produção       de Compras          de Vendas      de Produção     de Compras
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Tipos de Departamentalização
+                             Departamentalização por Produto (ou Serviço)
+
+
+                               Vantagens                                             Desvantagens
+                  Fixa a responsabilidade dos departamentos
+                  para um produto ou linha de produtos (ou                               Aumento de custos
+                                   serviços)
+
+                                                                                   Risco de obsolescência técnica
+                  Facilita a coordenação interdepartamental
+
+                                                                             Contraindicada para empresas com poucos
+                    Facilita a coordenação dos resultados                      produtos ou poucas linhas de produtos
+                                   esperados
+                                                                                     Prejudica a especialização
+
+                            Permite maior flexibilidade
+                                                                              Pode causar insegurança e ansiedade nos
+                                                                                            profissionais
+
+                        Propicia a inovação e a criatividade                Dificuldade em estabelecer as políticas gerais
+                                                                                            da empresa
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                    
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização por Produto (ou Serviço)
+
+                                                       Diretoria
+                                                     (Fábrica de
+                                                      Bebidas)
+
+
+                                                                             Departamento
+                         Departamento
+                                                                                    de
+                          de Cervejas
+                                                                              Refrigerantes
+
+
+               Área de     Área de           Área de               Área de     Área de        Área de
+               Vendas      Produção          Compras               Vendas      Produção       Compras
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (CESPE – TC-DF – Analista de Administração)
+A departamentalização por serviços no atendimento ao cidadão facilita a atividade
+fim e a cooperação interdepartamental, embora acarrete aumento de custo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (Prefeitura do Rio de Janeiro – PGM-RJ – Auxiliar)
+O tipo de departamentalização que apresenta como principal vantagem facilitar a
+coordenação intradepartamental e a inovação, que fixa a responsabilidade para um
+produto ou serviço, sendo indicada para circunstâncias externas e mutáveis, e que
+permite flexibilidade é a por:
+a) processos
+b) funções
+c) clientes
+d) produtos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – TRE-TO – Técnico Judiciário - 2017)
+A estruturação organizacional baseada nos produtos que a organização oferece ao
+mercado denomina-se
+a) departamentalização funcional.
+b) organização horizontalizada.
+c) departamentalização por produtos.
+d) departamentalização por projetos.
+e) organização matricial.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização por Cliente (por Clientela)
+
+                                              Diretoria de Vendas
+                                               (Loja de Roupas)
+
+                        Departamento             Departamento               Departamento
+                         Masculino                 Feminino                    Infantil
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Tipos de Departamentalização
+
+                                             Departamentalização por Cliente
+
+                                   Vantagens                                            Desvantagens
+
+                                 Conhecimento do cliente                       Pode transformar as demais atividades da
+                                                                               empresa em “secundárias” ou “acessórias”
+
+
+                             Atendimento contínuo e rápido
+                                                                               Sacrifício dos demais objetivos da empresa
+
+                           Tirar proveito dos grupos de clientes
+                                                                                O processo decisório da organização fica
+                                                                                  dependente das decisões do cliente
+                        Adequação aos diferentes tipos de clientes
+
+                                                                               Podem surgir dificuldades de coordenação
+                        Reforça a cultura de atendimento ao cliente                   entre os departamentos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                   
+
+
+---
+
+                        (QUADRIX – CRM-DF – Assistente Administrativo - 2018)
+A departamentalização por clientela tem a desvantagem de poder deixar os demais
+objetivos da organização sacrificados em função da satisfação do cliente.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização por Processo
+
+                                                             Diretoria de
+                                                               Produção
+                                                              (Fábrica de
+                                                             automóveis)
+
+               Montagem do   Montagem do                                              Instalação dos   Colocação das
+                                                   Lataria                  Pintura
+                  chassi       Motor                                                      vidros           rodas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Tipos de Departamentalização
+                                            Departamentalização por Processo
+
+
+                                 Vantagens                                              Desvantagens
+
+                                 Processos integrados                                   Inflexibilidade dos processos
+
+
+                        Maiores economias de escala (vantagens
+                                    econômicas)                              Depende de tecnologia fixa e permanente e de
+                                                                                  produtos estáveis e permanentes
+                    Maiores níveis de produtividade e qualidade
+                         (melhor utilização dos recursos)
+                                                                                          Perda da visão “macro”
+                                  Aumento da eficácia
+
+
+                                                                                          Maior risco operacional
+                          Otimização do arranjo físico (layout)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                   
+
+
+---
+
+                        (CESPE – ABIN – Oficial Técnico de Inteligência - 2018)
+A departamentalização por processos propicia otimizar o arranjo físico e o uso de
+recursos, embora se caracterize por baixa flexibilidade para mudanças
+organizacionais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização por Projetos
+
+                                                      Diretoria
+                                                    (Construtora)
+
+                        Gerência do       Gerência do         Gerência do   Gerência do
+                         Projeto A         Projeto B           Projeto C     Projeto D
+                         (Prédio)           (Casa)              (Praça)      (Estrada)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Tipos de Departamentalização
+                                             Departamentalização por Projetos
+
+                                   Vantagens                                            Desvantagens
+                          Focalização e Convergência de Esforços                             Temporalidade
+
+                        Aumenta o grau de responsabilidade coletiva
+                                                                                          Medo de desemprego
+                             Eficiência na alocação de recursos
+
+                                                                                        Foco exclusivo no projeto
+                                 Equipes multidisciplinares
+
+
+                               Flexibilidade e adaptabilidade                  Comunicação deficiente e inadequado sistema
+                                                                                                decisório
+
+                              Melhor cumprimento dos prazos
+                                                                                  Problemas relacionados ao tamanho da
+                                                                                                 equipe
+                         Melhor atendimento às necessidades dos
+                                        clientes
+                        Produtos altamente complexos / resultados                 Requer alocação de altos investimentos
+                            efetivos em problemas complexos
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                   
+
+
+---
+
+                        (CESPE – EBSERH – Analista Administrativo - 2018)
+Entre as vantagens da departamentalização por projetos em uma organização
+incluem-se o foco na integração de esforços e o fato de que esse tipo de
+departamentalização constitui uma solução inteligente para produtos complexos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização Territorial (Geográfica)
+
+                                                       Diretoria
+                                                        Geral
+
+                    Superintendência              Superintendência          Superintendência
+                       do Brasil                    dos Estados              da Alemanha
+                                                      Unidos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Tipos de Departamentalização
+                                              Departamentalização Territorial
+
+                                  Vantagens                                             Desvantagens
+                         Administradores consideram uma maior                    Dificulta o controle efetuado pelo nível
+                                      abrangência                                               estratégico
+                         Melhor acompanhamento das variações e
+                            preferências locais e/ou regionais               Duplicação das instalações físicas e de pessoas
+
+                              Melhoria na tomada de decisão
+                                                                               Desequilíbrio no processo administrativo da
+                                                                                                 empresa
+                           Possibilita vantagens econômicas em
+                              determinadas operações locais
+                                                                                          Desequilíbrio de poder
+                        Ações e respostas mais rápidas às demandas
+
+                                                                                        Dificuldade de coordenação
+                        Melhor treinamento e capacitação do pessoal
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                   
+
+
+---
+
+                        (CESPE – PGE-PE – Assistente de Procuradoria - 2019)
+Caso uma organização, para estabelecer seus departamentos, deseje considerar a
+distribuição territorial de suas atividades, ela deverá observar as técnicas de
+departamentalização geográfica.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização Híbrida (Mista)
+
+                                                            Diretoria
+                                                             Geral
+
+                              Departamento               Departamento               Departamento
+                               de Projetos              de Contabilidade              de Vendas
+                              (por Projeto)               (Funcional)                (Territorial)
+
+                  Projeto A     Projeto B             Projeto C            Região Norte         Região Sul
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+                        (IESES – CRA-SC - 2013)
+O modelo de departamentalização que estabelece mais de um critério para
+composição das partes da estrutura de uma organização, é conhecido por:
+a) Departamentalização Regional.
+b) Departamentalização Mista.
+c) Departamentalização Clássica.
+d) Departamentalização Funcional.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Departamentalização
+Departamentalização por Matriz (Matricial ou “em Grade”)
+
+                                                 iretoria eral
+
+                epartamento de         epartamento                epartamento    epartamento de
+                   Projetos            Financeiro                   urídico     ecursos umanos
+                            )                    )                          )              )
+
+
+                        Projeto A
+
+                        Projeto
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Tipos de Departamentalização
+                                                     Departamentalização Matricial
+
+                                    Vantagens                                            Desvantagens
+                        Maior aprimoramento da capacidade técnica da
+                                         equipe                                             Conflito de comando
+
+                           Coordenação mais coerente das equipes                            Conflito de interesses
+                          Facilita a cooperação interdisciplinar entre
+                                         departamentos                            Propensão a s m       “     s”       d .
+
+                          Maior grau de especialização das atividades                         Conflito de papéis
+
+                          Maior otimização na utilização dos recursos           Dificulta a coordenação em razão da autoridade
+                                                                                                     dual
+                            Melhor cumprimento dos prazos e dos
+                                                                                   Enfraquecimento da coordenação vertical
+                                    orçamento previstos
+                                                                                     Dificuldade de coordenação entre o
+                               Melhor atendimento aos clientes                  departamento de projetos e os departamentos
+                                                                                                 funcionais.
+                               Aprimora a coordenação lateral.                 Dificuldade em definir claramente as atribuições
+                                                                                            e as responsabilidades
+                        Permite maior flexibilidade e adaptabilidade da
+                              organização ao ambiente mutável.                   Perda excessiva de tempo em reuniões para
+                                                                                   discutir problemas e solucionar conflitos
+                          Promove o “conflito construtivo” entre os
+                                                                                  Exige que os gestores tenham maturidade e
+Prof. Stefan Fantini            membros da organização.
+                                                                                competências de relacionamento interpessoal.
+ @prof.stefan.fantini
+                                                  
+
+
+---
+
+                        (IF-TO – IF-TO – Assistente em Administração - 2019)
+O desenho departamental é o agrupamento, com base em um critério específico de
+homogeneidade das atividades e correspondentes recursos em unidades
+organizacionais. Com base no assunto, a departamentalização que não leva em
+consideração o princípio clássico de unidade de comando estabelecido por Fayol,
+tendo em vista a sua característica de responsabilidade compartilhada, corresponde
+a:
+a) Departamentalização territorial.
+b) Departamentalização por cliente.
+c) Departamentalização funcional.
+d) Departamentalização por processo.
+e) Departamentalização matricial.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (IESES – CEGÁS – Assistente - 2017)
+Assinale a alternativa que se refere à departamentalização matricial:
+a) Ocorre quando há mais de um tipo de distribuição de tarefa ocorrendo ao mesmo
+tempo.
+b) Os funcionários são agrupados conforme a função que exercem na empresa.
+c) Consiste na distribuição de departamentos conforme sua localização geográfica.
+d) Cada departamento é direcionado a um público-alvo do produto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Elementos da Estrutura Organizacional
+Cadeia de Comando
+
+                              Autoridade
+      Cadeia de Comando
+                          Unidade de comando
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Elementos da Estrutura Organizacional
+Cadeia de Comando
+
+                                                       Diretor Geral
+
+                                                                                       Diretor de
+                          Diretor de
+                                                                                       Recursos
+                          Marketing
+                                                                                       Humanos
+
+                                                                             Gerente de          Gerente de
+             Gerente de   Gerente de              Gerente de
+                                                                            Recrutamento        Treinamento e
+              Criação        Arte                  Redação
+                                                                             e Seleção           Capacitação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+                        (FUNRIO – IF-PA – Auxiliar em Administração - 2016)
+A linha contínua de autoridade que se estende do topo até a base da organização e
+que evidencia quem se subordina a quem denomina-se
+a) cadeia de comando.
+b) delegação.
+c) centralização.
+d) descentralização.
+e) atribuição indireta.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Elementos da Estrutura Organizacional
+Amplitude de Controle
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Elementos da Estrutura Organizacional
+Amplitude de Controle
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+                        (FGV – Câmara de Salvador-BA – Assistente - 2018)
+O processo de organização é pautado por alguns princípios ou elementos básicos,
+formulados por autores como Fayol e Weber. O número de subordinados pelos
+quais um gestor é responsável e que determina, no processo de organização,
+formatos mais verticais ou horizontais das estruturas organizacionais é conhecido
+como:
+a) cadeia de comando;
+b) amplitude de controle;
+c) descentralização;
+d) divisão do trabalho;
+e) especialização horizontal.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – IBE – Agente Censitário Administrativo - 2017)
+Um princípio básico do processo de organização diz respeito à definição do número
+de subordinados sob responsabilidade de cada gestor.
+Esse princípio é conhecido como:
+a) amplitude de controle;
+b) nível de alçada;
+c) especialização do trabalho;
+d) departamentalização;
+e) unidade de comando.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Elementos da Estrutura Organizacional
+Centralização x Descentralização
+                                                                    Centralização
+                                     Vantagens                                            Desvantagens
+                            Decisões mais alinhadas aos objetivos
+                                      organizacionais                                       Decisões mais lentas
+
+                                                                                     Os tomadores de decisão estão mais
+                         ecisões são baseadas em uma visão “global”
+                                                                                 “distantes” das pessoas e das situações que
+                                        da empresa
+                                                                                             requerem a decisão
+
+                                                                                  Pode resultar em decisões inadequadas e
+                              Maior uniformidade nas decisões
+                                                                                         longes da realidade “local”
+
+                            Os tomadores de decisão são pessoas mais             Desestimula a inovação e a criatividade por
+                         preparadas e possuem maior competência para            parte dos participantes dos níveis mais baixos
+                        decidir (melhor aproveitamento dos especialistas)                       (subordinados)
+
+
+                               Facilita o controle organizacional               Por envolver muitas pessoas na comunicação,
+                                                                                     podem ocorrer distorções pessoais
+
+
+                        Minimiza os erros que podem advir da falta de
+                         capacidade dos subordinados para decidir               Aumento da desmotivação dos subordinados
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                     
+
+
+---
+
+Elementos da    Estrutura                    Organizacional
+                        Minimiza os erros que podem advir da falta de
+           capacidade dos subordinados para decidir Aumento da desmotivação dos subordinados
+
+Centralização x Descentralização
+                                                             Descentralização
+                                     Vantagens                                          Desvantagens
+                         Decisões mais rápidas, mais flexíveis e mais                    Decisões menos uniformes
+                              eficientes para a realidade “local”
+                                                                                Decisões consideram apenas uma parte da
+                            Os tomadores de decisão estão mais                       organização (visão mais estreita)
+                         “próximos” das pessoas e das situações que
+                                    requerem a decisão                         Os tomadores de decisão, normalmente, não
+                                                                              estão preparados e não possuem a competência
+                                                                                        necessária para decidirem
+                              Maior qualidade das informações
+                                                                                  Os especialistas são “mal aproveitados”
+
+                           Estimula a criatividade e a inovação dos
+                             participantes dos níveis mais baixos                    Dificulta o controle organizacional
+                                       (subordinados)
+                                                                                     Maior dificuldade para encontrar os
+                        Estimula o interesse e a responsabilidade por                    responsáveis pela decisão
+                                   parte dos subordinados
+                                                                               Maior custo, por exigir melhor treinamento e melhor
+                                                                                salário dos administradores dos níveis mais baixos
+
+                          Aumento da motivação dos subordinados
+                                                                              Deve haver uma boa coordenação entre as áreas
+Prof. Stefan Fantini                                                           para que sejam evitadas decisões conflitantes
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+Descentralização x Delegação x Desconcentração
+
+                        Descentralização                                                        Delegação
+                      Ocorre a traferência da autoridade e da                            Ocorre a transferência da autoridade. A
+                     responsabilidade, de modo permanente                             responsabilidade (pelas funções delegadas),
+                                                                                        continua sendo da pessoa que delegou.
+               Não é necessário que haja "hierarquia" entre as partes
+                                   envolvidas.                                       É necessário que haja hierarquia entre as partes
+                                                                                   envolvidas no processo de delegação. A delegação é
+                                                                                  feita para alguma pessoa hierarquicamente inferior.
+                  É ligada ao "cargo". É uma abordagem menos
+                                    "pessoal".
+                                                                                 É ligada à "pessoa". É uma abordagem mais "pessoal"
+
+                  Normalmente, atinge vários níveis hierárquicos
+                                                                                           Atinge apenas um nível hierárquico
+
+                          Possui um caráter mais formal
+
+                                                                                            Possui um caráter mais informal
+                            É mais "estável" no tempo
+
+                                                                                              É menos "estável" no tempo
+                 Ocorre a mudança na estrutura organizacional
+
+                                                                                      Não há necessidade de mudança na estrutura
+               Requer alteração do estatuto ou regimento para que                                   organizacional.
+                  o procedimento seja devidamente formalizado
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+Descentralização x Delegação x Desconcentração
+
+                       Descentralização
+               ocorre a transferência do poder
+              decisório (da autoridade) para os
+                níveis mais baixos da empresa                        Desconcentração
+                 (níveis tático e operacional).
+                                                             ocorre a separação e distribuição
+                                                                  “física” das atividades
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+                        (FCC –MPE-AM – Administrador)
+A atribuição de autoridade e responsabilidade diretas a um subordinado para que
+ele realize tarefas pelas quais o gestor normalmente é responsável denomina-se
+a) delegação de autoridade.
+b) autoridade de staff.
+c) cadeia de comando.
+d) autoridade de linha.
+e) unidade de comando.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE –TRE-PA – Analista Judiciário - ADAPTADA)
+A descentralização ocorre quando há delegação de autoridade e não de
+responsabilidade na tomada de decisões pelos escalões hierárquicos inferiores.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – INPI – Analista de Planejamento - ADAPTADA)
+A transferência de poder decorrente da descentralização e da delegação assegura a
+autonomia dos níveis inferiores da organização, eximindo, assim, a responsabilidade
+da autoridade que fez a delegação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (MARINHA – MARINHA – Quadro Complementar - 2017)
+Segundo Chiavenato (2011), a transferência de autoridade e responsabilidade; para
+subordinados, a pulverização do nível decisório para os níveis mais baixos e o dever
+de desempenhar a tarefa ou atividade para o qual se foi designado são conceitos de,
+respectivamente;
+a) eficiência, eficácia e efetividade social.
+b) descentralização, delegação e responsabilidade.
+c) delegação, descentralização e responsabilidade.
+d) delegação, descentralização e autoridade.
+e) descentralização, delegação e autoridade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – TRE-PR – Analista Judiciário – 2017 - ADAPTADA)
+Entre as vantagens da descentralização está o atendimento mais eficiente às
+peculiaridades das situações locais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (COMVEST – UFAM – Administrador – 2018)
+Os pares conceituais “centralização / descentralização” e “concentração /
+desconcentração” são utilizados como princípios de estruturação organizacional para
+fazer referência, respectivamente, à (ao):
+a) Concentração ou dispersão de pessoas em áreas físicas da organização; distribuição
+física de unidades departamentais.
+b) Distribuição física de unidades departamentais; concentração ou dispersão de pessoas
+em áreas físicas da organização.
+c) Excesso ou ausência de burocracia nas organizações; intensidade do uso da tecnologia
+da informação.
+d) Distribuição física de unidades departamentais na organização; distribuição de poder e
+autoridade no âmbito da hierarquia organizacional.
+e) Distribuição de poder e autoridade no âmbito da hierarquia organizacional;
+distribuição física de unidades departamentais na organização.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (COMVEST – UFAM – Administrador – 2018)
+Os pares conceituais “centralização / descentralização” e “concentração /
+desconcentração” são utilizados como princípios de estruturação organizacional para
+fazer referência, respectivamente, à (ao):
+a) Concentração ou dispersão de pessoas em áreas físicas da organização; distribuição
+física de unidades departamentais.
+b) Distribuição física de unidades departamentais; concentração ou dispersão de pessoas
+em áreas físicas da organização.
+c) Excesso ou ausência de burocracia nas organizações; intensidade do uso da tecnologia
+da informação.
+d) Distribuição física de unidades departamentais na organização; distribuição de poder e
+autoridade no âmbito da hierarquia organizacional.
+e) Distribuição de poder e autoridade no âmbito da hierarquia organizacional;
+distribuição física de unidades departamentais na organização.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Elementos da Estrutura Organizacional
+Formalização
+
+A formalização indica até que ponto existirão regras e regulamentos para dirigir e coordenar
+os funcionários e os executivos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Estrutura Organizacional
+Estrutura Organizacional x Departamentalização
+
+                    Estrutura organizacional
+                    -mais amplo e abrangente                         Departamentalização
+                                                                -é um dos elementos da estrutura
+                                                                         organizacional
+                                                             -elemento que se preocupa em “como
+                                                                    agrupar as atividades”.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Estrutura Organizacional
+Organograma
+
+                                                             Diretor Geral
+
+                        Diretor de                            Diretor                          Diretor
+                        Produção                            Administrativo                    Comercial
+
+               Gerente de        Gerente de         Gerente de          Gerente de   Gerente de       Gerente de
+               Produção           Compras              RH               Contratos     Vendas          Marketing
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+Estrutura Organizacional
+Organização Formal x Organização Informal
+
+                          Organização                                                      Organização
+                            Formal                                                           Informal
+                              Criada propositalmente                                    Surge naturalmente (espontaneidade)
+
+
+                        Baseada na racionalidade e na lógica                                    Baseada na afinidade
+
+
+                             É planejada e estruturada                                   Não é planejada e nem estruturada
+
+
+                              Regras e regulamentos                                        Não existem regras ou manuais
+
+
+                          É representada no organograma                                     Não aparece no organograma
+
+
+                            Objetivos pré-estabelecidos                                      Não possui objetivos claros
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                   
+
+
+---
+
+Estrutura Organizacional
+Diferenciação e Integração
+
+                          Diferenciação
+                 A organização enquanto sistema
+               aberto tende a se diferenciar, através
+                  da especialização das funções
+                     (diferenciação interna) e                                  Integração
+                          hierarquização.
+                                                                          -É o movimento oposto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Estrutura Organizacional
+Organização Mecanicista x Organização Orgânica
+
+                                  Organização
+                                  Mecanicista                                                                Organização
+                                 (mecanística)                                                                Orgânica
+                 Estrutura b          á
+                                       baseada em uma minuciosa d v sã d                     Estruturas     g        z s fl xív s com pouca divisão de
+                                             b h                                                                       trabalho
+                       Cargos ocupados por especialistas com atribuições                      Cargos continuamente modificados e redefinidos por meio da
+                                    claramente definidas.                                           interação entre pessoas que participam da tarefa
+                  ecisões             z d s e concentradas na cúpula da empresa
+                                                                                               ecisões d s                z d s e delegadas aos níveis inferiores
+                 H       q      íg d de autoridade baseada no comando único                    Tarefas executadas por meio do conhecimento que as
+                                                                                                       pessoas têm da empresa como um todo
+                                       Sistema rígido de controle                              H     q    fl xív , com predomínio da        çã
+                        Predomínio da        çã v      entre superior e                                 sobre a vertical horizontalização)
+                                         subordinado.                                         M      m      d d               dm s      v menos níveis
+                     Amplitude de controle administrativo mais estreita (mais                                         hierarquicos)
+                                      níveis hierárquicos)
+                                                                                                   Maior         f b d d nas comunicações informais
+                             Ênfase nas regras e procedimentos formais
+                                                                                              Ênfase nos        í    sd                m    h m       d T
+                        Ênfase nos        í   s   v s sd T          C áss                                          d sR      çõ s H m   s
+
+                                                                                                             Ambiente m áv           imprevisível)
+                                      Ambiente Es áv   previsível)
+
+                                                                                                                             Adh
+Prof. Stefan Fantini                            B
+ @prof.stefan.fantini
+                                                         
+
+
+---
+
+                        (CESPE – EMAP - 2018)
+Os sistemas organizacionais das empresas mecanicistas são apropriados a situações de
+mercado dinâmicas com forte concorrência e variação tecnológica.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Simples (Estrutura Simples)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Linear (Estrutura Linear)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              
+
+
+---
+
+Tipos de Estrutura Organizacional
+                                                          Estrutura Linear
+
+                                 Vantagens                                             Desvantagens
+
+                         Clara definição das responsabilidades
+                                                                                      Não favorece a especialização
+
+                            Clareza das linhas de comando
+                                                                                Tendência a sobrecarregar os níveis
+                                                                                     hierárquicos superiores
+
+                         Fácil implementação e compreensão
+
+
+                                                                                                 Rigidez
+                        Indicada para ambientes permanentes e
+                                       estáveis
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+                        (QUADRIX – COFECI – Auxiliar Administrativo - 2017)
+Entre as características da organização linear, é possível citar a presença de linhas
+informais de comunicação e a descentralização das decisões.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Funcional (Estrutura Funcional)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Tipos de Estrutura Organizacional
+                                                         Estrutura Funcional
+
+                                    Vantagens                                          Desvantagens
+                                 Melhor supervisão técnica                                    Visão “micro”
+
+                                                                               Requer uma maior (e mais difícil) coordenação
+                                                                              interdepartamental (requer maiores esforços de
+                        Máximo de especialização nos diversos órgãos                 coordenação interdepartamental)
+
+                                                                               Diluição da autoridade pode gerar perda de
+                                                                                         autoridade de comando
+                        Permite o aperfeiçoamento dos funcionários
+
+                                                                                  Dificulta o controle e a manutenção da
+                                                                                                  disciplina
+                        Separação entre a função de planejamento e
+                             as funções de controle e execução
+                                                                               Tendência à “competição” entre os diversos
+                                                                              especialistas, podendo gerar tensão e conflitos
+
+                                   Comunicações diretas
+                                                                                          Confusão de objetivos
+
+
+                                     Supervisão direta
+                                                                                 Dificuldade de saber a quem se reportar
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                  
+
+
+---
+
+                        (CESPE – FUB – Assistente em Administração - 2013)
+A estrutura funcional é fundamentada na técnica de supervisão direta e especialização
+do trabalho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – SERPRO – Analista - 2013)
+Em geral, a empresa que se pauta na estrutura funcional apresenta modelo
+organizacional que exige um árduo esforço para sinergia interdepartamental. Essa
+estrutura torna a empresa menos flexível em processos de adaptação às mudanças
+externas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Linha-staff (Estrutura Linha-staff)
+
+                                                      Diretoria
+
+                             Assessoria Jurídica
+
+                        Departamento de            Departamento de         Departamento de
+                           Produção                   Marketing                Vendas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Tipos de Estrutura Organizacional
+
+
+                                                   Estrutura Linha-Staff
+
+                                Vantagens                                            Desvantagens
+                    Unidade de comando, incrementada por uma                Podem ocorrer conflitos entre os “órgãos e
+                        assessoria especializada e inovadora                     linhas” e os “órgãos de staff”
+
+                    Possibilita a atividade conjunta e coordenada           Dificuldade em obter (e manter) o equilíbrio
+                             dos órgãos de linha e de staff                              entre linha e staff.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+                        (CESPE – EMAP – Analista Portuário - 2018)
+A organização linha-assessoria, um dos tipos de arquitetura organizacional, permite a
+coexistência eficiente da estrutura linear com a funcional.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Divisional (Estrutura Divisional)
+
+
+                                                           Diretoria
+
+                                   Gerência de Recursos
+                                        Humanos
+
+                        Divisão de Refrigerantes                               Divisão de Cervejas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Tipos de Estrutura Organizacional
+                                                        Estrutura Divisional
+                                  Vantagens                                            Desvantagens
+                        Melhor coordenação em função do produto                        Duplicidade de recursos
+
+                        Aumento da flexibilidade e adaptabilidade                          Custos elevados
+
+                              Maior capacidade de resposta                     Difícil integração e coordenação entre as
+                                                                                                 divisões
+
+                            Maior “proximidade” com o cliente               Pode ocorrer a “competição” entre as divisões
+
+                        Facilita o controle de desempenho de cada            Os interesses das divisões podem se sobrepor
+                                           divisão                                 aos interesses globais da empresa
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                  
+
+
+---
+
+                        (FCC – SABESP – Técnico em Gestão - 2018)
+No contexto da evolução histórica da teoria das organizações merece destaque a
+contribuição de Alfred Sloan, consistente na estrutura divisional, cuja característica
+principal é a
+a) abordagem da organização como um sistema aberto que sofre interação com o meio
+ambiente e a ele deve se adaptar com o denominado ajuste espontâneo.
+b) desverticalização pelo critério funcional, mantida a apuração de resultados de forma
+centralizada pela organização.
+c) ênfase em projetos, com criação de unidades de duração vinculada ao tempo de
+desenvolvimento e conclusão do projeto correspondente.
+d) divisão em departamentos, exclusivamente os de clientela ou mercado, com ênfase na
+aplicação do conceito de unidade de direção.
+e) existência de unidades que operam com relativa autonomia, inclusive para apuração
+de lucro ou prejuízo, denominadas centros de resultado.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Matricial (Estrutura Matricial ou “em grade”)
+
+                                                 iretoria eral
+
+                 epartamento de        epartamento                epartamento    Departamento de
+                    Projetos           Financeiro                   urídico     Recursos Humanos
+                             )                   )                          )      (Funcional)
+
+
+                        Projeto A
+
+                        Projeto
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Tipos de Estrutura Organizacional
+                                                           Estrutura Matricial
+
+
+                                   Vantagens                                             Desvantagens
+
+                     Maior otimização na utilização dos recursos                          Conflito de comando
+
+                          Melhor cumprimento dos prazos e dos
+                                  orçamento previstos                            Conflito de interesses entre gerentes de
+                                                                                     projetos e gerentes funcionais
+                             Melhor atendimento aos clientes
+                                                                                   Dificuldade em definir claramente as
+                                                                                    atribuições e as responsabilidades
+                    Aproveita as vantagens da estrutura funcional
+                               e da estrutura divisional
+                                                                                Dificuldade de coordenação (por conta da
+                        Maior flexibilidade e alta adaptabilidade ao                       dupla subordinação)
+                                          ambiente
+                                                                                   Maior dificuldade para encontrar os
+                    Indicada para ambientes instáveis e dinâmicos                 responsáveis por eventuais problemas
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                    
+
+
+---
+
+                        (CESPE – FUB – Assistente em Administração - 2018)
+A estrutura organizacional matricial combina a competência técnica da estrutura
+funcional com a ação orientada para o resultado da organização de projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Adhocrática (Estrutura temporária)
+
+                                   Equipes temporárias de trabalho, autônomas, autossuficientes e multidisciplinares
+
+                                                                  Tarefas temporárias
+
+                                                            Descentralização da autoridade
+
+                                                         Alta Flexibilidade e adaptabilidade
+
+                                                  Mutabilidade e variação das responsabilidades
+   Principais características da
+             adhocracia
+                                                               Criatividade e Inovação
+
+                                                             Confiança na comunicação
+
+                                                      Bastante liberdade para executar o trabalho
+
+                                                          Foco no objetivo a ser cumprido
+
+                                                                  Ajustamento mútu
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+                        (QUADRIX – CRA-PR – Auxiliar Administrativo - 2019)
+A adhocracia é um sistema organizacional que se baseia na criação de grupos de
+tamanho variável para a execução de um projeto específico, findo o qual o grupo será
+dissolvido.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organização Burocrática (Estrutura Burocrática)
+
+                    Características                                                                       Disfunções
+         Legalidade das normas e regulamentos (formalismo)                                             Excesso de formalismo
+
+                                                                                                         Modelo autorreferido
+            Formalidade nas comunicações (formalismo)
+                                                                                                         Excesso de Rigidez
+                Racionalidade e Divisão do trabalho                                                Dificuldade em aceitar mudanças
+
+                                                                                                 Resultados ficam em segundo plano
+                          Impessoalidade
+                                                                                                Despersonalização do relacionamento
+
+                        Hierarquia funcional                                               Categorização como base do processo decisório
+
+                                                                                             Lentidão no processo de tomada de decisões
+                   Padronização e Previsibilidade
+                                                                                         Internalização das regras e Apego extremo às normas
+                Meritocracia e Competência Técnica
+                                                                                                       Perda da visão "macro"
+
+                          Especialização                                            Excesso de conformidade às rotinas e aos procedimentos
+
+                                                                                                   Exibição de sinais de autoridade
+Prof. Stefan Fantini     Profissionalização
+                                                                                           Conflitos e dificuldade no atendimento a cidadãos
+ @prof.stefan.fantini
+                                                    
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organizações Formais Modernas
+
+                                                 Formalidade
+
+
+ 03 Características Principais das
+                                               Impessoalidade
+    Organizañizações Formias
+
+
+                                              Profissionalismo
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Tipos de Estrutura Organizacional
+Organizações Formais Modernas
+
+                                        Divisão do Trabalho
+
+
+                                          Especialização
+
+
+   Principais características (ou            Hierarquia
+      princípios básicos) das
+      Organizações Formais
+             Modernas               Distribuição da Autoridade e
+                                        da Responsabilidade
+
+                                     Amplitude Administrativa
+                                     (Amplitude de Controle)
+
+                                           Racionalismo
+                                          (Racionalidade)
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (FCC – TRE-RR – Abalista Judiciário - 2015)
+As sociedades modernas são constituídas de organizações, que podem ser formais ou
+não. Quanto às organizações formais modernas ou burocracias, para distingui-las das
+organizações ou grupos informais, elas apresentam como características principais,
+a) formalização das comunicações, impessoalidade nos relacionamentos e
+profissionalismo como critério de contratação e de promoção.
+b) estrutura organizacional formada por níveis hierárquicos rígidos, regras implícitas e
+individualismo.
+c) divisão de trabalho coordenada para reunir, unificar e harmonizar as atividades da
+organização, previstas nos fluxogramas.
+d) departamentalização por função, que define as responsabilidades dos servidores
+individualmente e como integrantes de um grupo.
+e) são coercitivas, utilitárias e normatizadas.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CCV – UFC – Administrador - 2017)
+De acordo com Max Weber, as organizações formais modernas baseiam-se em leis, que
+as pessoas aceitam por acreditarem que são racionais. Qualquer sociedade, organização
+ou grupo que se baseie em leis racionais é uma burocracia e apresenta três
+características principais:
+a) Informalidade, pessoalidade e profissionalismo.
+b) Formalidade, impessoalidade e profissionalismo.
+c) Impessoalidade, falta de controle e excesso de chefias.
+d) Rigidez nos processos, pessoalidade e falta de controle.
+e) Rigidez nos processos, centralização do poder e falta de profissionalismo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESGRANRIO – LIQUIGÁS – Profissional Júnior - 2018)
+As estruturas burocráticas foram idealizadas de forma a eliminar a variabilidade dos
+resultados numa organização em que os administradores possuíssem diferentes
+habilidades, experiências e objetivos. Muitas organizações hoje são burocráticas. Uma
+burocracia pode ser eficiente e produtiva, entretanto, não é o modelo apropriado para
+todas as organizações.
+A estrutura burocrática apresenta algumas limitações, tais como:
+a) fatores situacionais e racionalidade dos trabalhadores ignorados; pressupostos
+motivacionais simplistas; tarefas da alta administração excluídas
+b) flexibilidade organizacional limitada; processo de tomada de decisão lento;
+despersonalização dos relacionamentos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESGRANRIO – LIQUIGÁS – Profissional Júnior - 2018)
+(...)
+c) conflito entre organização formal e informal; dilema entre coordenação e
+comunicação livre; dilema entre a necessidade de um planejamento centralizado e a
+necessidade de iniciativa individual
+d) utilização de grupos de trabalho semiautônomos; simplificação do cargo pelo próprio
+ocupante; equalização do poder
+e) reducionismo; pensamento sintético; mecanicismo
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – Prefeitura de Cuiabá-MT – Especialista - 2015)
+No texto a seguir (Perrow, C - 1970): “... Obstetrícia e Ginecologia é um departamento
+relativamente rotinizado, tendo mesmo alguma semelhança com uma linha de
+montagem na qual a mãe se move de quarto para quarto e de enfermeira para
+enfermeira durante o previsível trabalho de parto. É também uma das unidades do
+hospital muitas vezes acusada de impessoalidade e despersonalização. Todavia para a
+mãe o nascimento é único, mas não para o médico e o resto da equipe, que passam por
+isso muitas vezes em um dia.”
+Segundo Mintzberg, essa descrição caracteriza o departamento como uma
+a) estrutura simples.
+b) estrutura burocrática.
+c) estrutura hierarquizada.
+d) estrutura divisionalizada.
+e) forma organizacional mista.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – TCE-PB – Agente - 2018)
+Entre as características das organizações formais modernas destacam-se a
+a) resistência às mudanças, o individualismo e a relação de antagonismo.
+b) flexibilidade nas atribuições e responsabilidades, o racionalismo e a amplitude
+administrativa.
+c) relação de coesão, a especialização e a colaboração espontânea.
+d) divisão do trabalho, a especialização e as regras implícitas.
+e) hierarquia, o racionalismo e a especialização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Estruturas Organizacionais Emergentes
+Organização em Rede (Estrutura em Rede)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                           
+
+
+---
+
+Tipos de Estruturas Organizacionais Emergentes
+Organização em Rede (Estrutura em Rede)
+
+                             Alta flexibilidade e adaptabilidade a ambientes complexos e imprevisíveis
+
+                                                      Baixos custos operacionais
+
+
+   Principais vantagens da
+                                             Rápida resposta às demandas ambientais
+    organização em rede
+
+
+                                                 Permite a virtualização do negócio
+
+                                     Possibilidade de proliferação das unidades de negócio
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+                        (FGV – Prefeitura de Osasco-SP – Oficial - 2014)
+A organização X é formada por um conjunto de diferentes organizações cujas atividades
+são coordenadas por contratos, acordos e relações interpessoais, e não pela criação de
+estruturas hierárquicas formais, custosas e rígidas. Pode-se afirmar que a organização X
+possui uma perspectiva de:
+a) organização em rede;
+b) ecologia populacional;
+c) dependência de recursos;
+d) neo-institucionalismo;
+e) hierarquia das organizações.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Estruturas Organizacionais Emergentes
+Organização Virtual (Estrutura Virtual)
+
+                                        terceirização
+
+
+                         tecnologias de informação e comunicação
+
+      Principais
+  características da                 desfronteirização
+ Organização Virtual
+
+                                bastante flexível e maleável
+
+
+                        custos operacionais são extremamente baixos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Tipos de Estruturas Organizacionais Emergentes
+Organização sem Fronteiras (Estrutura sem Fronteiras))
+
+                                utiliza fortemente a tecnologia
+
+
+      Principais        eliminar as fronteiras verticais e horizontais e
+  características da            quebrar as barreiras externas
+  Organização sem
+     Fronteiras                 eliminar a cadeia de comando
+
+                        os departamentos são substituídos por equipes
+                                        autônomas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Tipos de Estruturas Organizacionais Emergentes
+Organização de Equipe (Estrutura de Equipe)
+
+                        que utiliza as equipes como meio de coordenação
+
+
+      Principais            descentralização do processo decisório
+  características da
+   Organização de        exige profissionais que sejam, ao mesmo tempo,
+       Equipe                     generalistas e especialistas
+
+                                permite uma maior flexibilidade
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Estruturas Organizacionais de Mintzberg
+06 Partes Básicas
+
+                  Cúpula estratégica
+                                                   é daqui que todo o sistema é supervisionado.
+                  (Ápice estratégico)
+
+                            Linha
+                                           é o “elo” entre a cúpula estratégica e o núcleo operacional
+                        intermediária
+
+                          Núcleo          é aqui que estão as pessoas responsáveis pela execução das
+                        operacional       atividades relacionadas à fabricação e à prestação de serviços
+  06 partes
+   básicas
+                    Tecnoestrutura                      é onde estão os analistas/especialistas.
+
+                   Equipe de apoio
+                                            são unidades auxiliares, que tem a função de dar suporte às
+                    (assessoria de
+                                                 demais atividades desenvolvidas pela empresa.
+                        apoio)
+
+                                         é a “cultura” forte da empresa. Consiste nas crenças e tradições
+                         Ideologia
+                                               da empresa, que a diferenciam das demais empresas.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Estruturas Organizacionais de Mintzberg
+06 Partes Básicas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Estruturas Organizacionais de Mintzberg
+06 Mecanismos Básicos de Coordenação
+
+                           Ajustamento mútuo                    coordenação é realizada pelos próprios trabalhadores
+
+
+                            Supervisão direta                    a coordenação é realizada por uma pessoa específica
+
+
+                            Padronização dos               a padronização dos processos facilita a coordenação e o controle
+       06                 processos de trabalho                                    das atividades
+  mecanismos
+   básicos de
+  coordenação           Padronização de resultados         a padronização dos resultados facilita a coordenação e o controle
+                           (saídas ou “outputs”)                                   dos resultados.
+
+                              Padronização de
+                                                                    aqui, quem é padronizado é o próprio trabalhador.
+                        habilidades e conhecimento
+
+                        Padronização de normas e              aqui, os trabalhadores compartilham um conjunto comum de
+                                 regras                           crenças, as quais ajudam a coordenar os trabalhos.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Estruturas Organizacionais de Mintzberg
+06 Estruturas Básicas Organizacionais
+
+                        Estrutura Simples (estrutura        É composta por poucos gerentes de topos e pouquíssimos (ou
+                             empreendedora ou                   inexistentes) gerentes intermediários (trata-se de uma
+                                empresarial)                     estrutura “achatada” com alta amplitude de controle).
+                          Burocracia Mecanizada                  trata-se da estrutura onde as funções e as tarefas são
+                         (burocracia de máquina)                             especializadas e padronizadas.
+
+                          Burocracia Profissional            Trata-se de uma estrutura burocrática um pouco mais flexível
+                               (burocracia                   e descentralizada (os profissionais tomam decisões dentro de
+ 06 Estruturas              profissionalizada)                                  suas áreas específicas)
+    Básicas
+Organizacionais          Forma Divisionalizada ou               É o tipo de estrutura que utiliza a departamentalização
+                          Estrutura Diversificada
+                        (burocracia divisionalizada)                                    hibrida.
+                                                             trata-se de uma estrutura temporária que busca aproveitar as
+                           Estrutura Adhocrática
+                               (adhocracia)                 habilidades dos diferentes especialistas que existem dentro da
+                                                                          empresa para projetos específicos
+
+                           Estrutura Missionária                 é o tipo de estrutura fortemente baseado nas crenças.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                               
+
+
+---
+
+Estruturas Organizacionais de Mintzberg
+
+                                                 • Burocracia Mecanizada
+                  Organizações Mecanísticas      • Burocracia Profissional
+                  (Desenhos Mecanísticos):       • Burocracia Divisionalizada
+
+                   Organizações Orgânicas        • Estrutura Simples
+                   (Desenhos Orgânicos):         • Adhocracias
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Estruturas Organizacionais de Mintzberg
+Tipo de estrutura x Principal mecanismo de coordenação x Ponto principal da organização
+
+           Tipo de Configuração (Estrutura)     Principal Mecanismo de Coordenação     Ponto Principal (Ponto-Chave)
+
+                  Estrutura Simples                       Supervisão direta                 Cúpula estratégica
+
+               Burocracia Mecanizada          Padronização dos processos de trabalho         Tecnoestrutura
+
+               Burocracia Profissional              Padronização das habilidades           Núcleo Operacional
+
+                Forma Divisionalizada               Padronização dos resultados            Linha Intermediária
+
+                     Adhocracia                         Ajustamento mútuo                  Assessoria de Apoio
+
+                     Missionária                 Padronização das normas e regras                Ideologia
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+---
+
+---

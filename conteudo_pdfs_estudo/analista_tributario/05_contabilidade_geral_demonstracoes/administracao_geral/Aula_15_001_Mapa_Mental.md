@@ -1,0 +1,237 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 15_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '15'
+titulo_aula: CONTROLE DE ESTOQUE I
+---
+
+# CONTROLE DE ESTOQUE I
+
+CONTROLE DE ESTOQUE I
+       SEGUNDO O CPC 16 (R1), ESTOQUES SÃO ATIVOS
+• MANTIDOS PARA VENDA NO CURSO NORMAL DOS NEGÓCIOS
+• EM PROCESSO DE PRODUÇÃO PARA VENDA
+• NA FORMA DE MATERIAIS OU SUPRIMENTOS A SEREM CONSUMIDOS OU
+TRANSFORMADOS NO PROCESSO DE PRODUÇÃO OU NA PRESTAÇÃO DE SERVIÇOS
+
+O CONTROLE DE ESTOQUE PODE SER FEITO POR MEIO DE INVENTÁRIO PERIÓDICO OU DE INVENTÁRIO PERMANENTE
+
+     INVENTÁRIO PERIÓDICO: OS ESTOQUES SÃO AVALIADOS NA DATA DO BALANÇO, ATRAVÉS DO INVENTÁRIO FÍSICO
+
+         APURAÇÃO DO CUSTO DAS MERCADORIAS VENDIDAS (CMV)                       CMV = ESTOQUE INICIAL + COMPRAS - ESTOQUE FINAL
+
+
+         CONTA MISTA MERCADORIAS            POSSUI CARACTERÍSTICAS DE CONTA PATRIMONIAL E DE CONTA DE RESULTADO
+
+                                               CONTA MISTA MERCADORIAS
+                                            ESTOQUE INICIAL
+                                                                              VENDAS
+                                            COMPRAS
+                                            ESTOQUE FINAL
+
+         NO FINAL DO PERÍODO, AO APURAR O ESTOQUE FINAL, PODEMOS CALCULAR O RESULTADO COM MERCADORIAS (LUCRO OU PREJUÍZO BRUTO)
+
+     INVENTÁRIO PERMANENTE: OS ESTOQUES SÃO CONTROLADOS DE FORMA CONTÍNUA, A CADA OPERAÇÃO DE VENDA
+
+
+                                                                                                                                   CONTABILIDADE GERAL
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                CONTROLE DE ESTOQUE II
+
+                                                                                              PEPS - PRIMEIRO QUE ENTRA É O PRIMEIRO QUE SAI
+       MAIS UTILIZADO NA INDÚSTRIA AERONÁUTICA, NAVAL, ENTRE OUTROS
+
+CUSTO ESPECÍFICO: CADA ITEM DE ESTOQUE POSSUI UM CUSTO PRÓPRIO                                        UEPS - ÚLTIMO QUE ENTRA É O PRIMEIRO QUE SAI
+
+                                                                                                                                 NÃO É ACEITO PELA LEGISLAÇÃO
+
+                                  MÉTODOS DE APURAÇÃO DO CUSTO DO ESTOQUE                                                             CUSTO MÉDIO
+
+MÉTODO DO VAREJO: O CUSTO DO ESTOQUE É DETERMINADO PELA REDUÇÃO                                            • MÉDIA PONDERADA FIXA: A PARTIR DO ESTOQUE
+                                                                                                             INICIAL E DAS ENTRADAS, CALCULAMOS O CUSTO MÉDIO
+DO SEU PREÇO DE VENDA NA PERCENTAGEM APROPRIADA DA MARGEM BRUTA
+                                                                                                              QUE SERÁ USADO PARA TODAS AS SAÍDAS DO MÊS
+                                                                                                           • MÉDIA PONDERADA MÓVEL: CALCULA-SE O CUSTO
+     USADO PARA ESTOQUES DE GRANDE QUANTIDADE DE ITENS QUE MUDAM RAPIDAMENTE                                 MÉDIO VIGENTE NA DATA DE CADA VENDA (MAIS
+                                                                                                             UTILIZADO)
+
+                                                                                                                                             CONTABILIDADE GERAL
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                     TABELA DE CONTROLE DE ESTOQUE                                                   CONTROLE DE ESTOQUE III
+                                     PEPS
+              ENTRADA                    VENDA                                 SALDO
+DATA
+        QUANT. V. UNIT. TOTAL QUANT. V. UNIT. TOTAL QUANT. V. UNIT.                           TOTAL
+XX.XX
+XX.XX
+                                      CMV                     ESTOQUE FINAL
+
+                                        RELAÇÕES ENTRE PEPS, UEPS E CUSTO MÉDIO
+
+              ECONOMIA DEFLACIONÁRIA (INCOMUM)                                                  ECONOMIA INFLACIONÁRIA (SITUAÇÃO MAIS USUAL)
+
+    MÉTODO           CMV        ESTOQUE FINAL       LUCRO                                   MÉTODO           CMV         ESTOQUE FINAL         LUCRO
+       UEPS         MENOR           MAIOR           MAIOR                                   UEPS            MAIOR           MENOR              MENOR
+       PEPS          MAIOR          MENOR          MENOR                                     PEPS           MENOR            MAIOR             MAIOR
+MÉDIA PONDERADA FICA NO MEIO     FINA NO MEIO    FINA NO MEIO                   MÉDIA PONDERADA FICA NO MEIO             FINA NO MEIO     FINA NO MEIO
+                                                                                COMO O UEPS GERA MENOR LUCRO, DIMINUI O IMPOSTO A SER PAGO.
+                                                                                POR ISSO, É PROIBIDO PELA LEGISLAÇÃO.
+
+
+                                                                                                                                      CONTABILIDADE GERAL
+                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                            AS QUESTÕES DE OPERAÇÕES COM MERCADORIAS COBRAM BASICAMENTE
+        OPERAÇÕES COM
+                                                          • CONHECIMENTO DA AVALIAÇÃO DOS ESTOQUES
+        MERCADORIAS E                                     • OPERAÇÕES QUE ENVOLVEM A PARTE INICIAL DA DRE (DA RECEITA BRUTA ATÉ O
+                                                            LUCRO BRUTO E APURAÇÃO DO CMV)
+         TRIBUTAÇÃO I                                     • TRIBUTAÇÃO SOBRE AS MERCADORIAS
+                                                          • INVENTÁRIO PERIÓDICO E PERMANENTE
+                                                                                                                   •   IPI
+                                                                                                                   •   ICMS
+             OS PRINCIPAIS TRIBUTOS INCIDENTES NA COMPRA E NA VENDA DE MERCADORIAS SÃO                             •   PIS
+                                                                                                                   •   COFINS
+
+
+TRIBUTOS   RECUPERÁVEIS/NÃO  CUMULATIVOS: É                                               QUADRO RESUMO DOS TRIBUTOS
+POSSÍVEL COMPENSAR O MONTANTE PAGO EM UMA
+OPERAÇÃO COM AQUILO QUE É DEVIDO EM OUTRA                                                      IMPOSTO      JÁ ESTÁ INCLUSO
+                                                                    ICMS
+                                                                                              POR DENTRO       NO PREÇO
+• GERAM DIREITO A CRÉDITOS E DÉBITOS NO SENTIDO FISCAL
+                                                                                                              CUMULATIVO        0,65%
+• TRIBUTOS NÃO RECUPERÁVEIS NÃO PERMITEM ESSA                                                 TRIBUTO POR
+                                                                      PIS
+COMPENSAÇÃO                                                                                     DENTRO
+                                                                                                            NÃO CUMULATIVO      1,65%
+
+                                                                                                              CUMULATIVO        3,0%
+          TRIBUTOS POR FORA E POR DENTRO                                                      TRIBUTO POR
+                                                                 COFINS
+                                                                                                DENTRO
+• POR FORA: SEU VALOR NÃO ESTÁ INCLUÍDO NO PREÇO DO                                                         NÃO CUMULATIVO      7,6%
+PRODUTO
+• POR DENTRO: SEU VALOR ESTÁ INCLUÍDO NO PREÇO DO                                              IMPOSTO      DEVE SER INCLUSO
+                                                                      IPI
+                                                                                               POR FORA        NO PREÇO
+PRODUTO                                                                                                                             CONTABILIDADE GERAL
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+        OPERAÇÕES COM MERCADORIAS E TRIBUTAÇÃO II
+
+COMPRA DE MATÉRIA PRIMA (MP) PARA PRODUÇÃO: IPI, ICMS, PIS E COFINS SÃO RECUPERÁVEIS
+
+COMPRA DE MERCADORIA PARA INDUSTRIALIZAÇÃO OU COMERCIALIZAÇÃO: NÃO INCLUI O IPI NA BASE DE CÁLCULO DO ICMS
+
+         CONDIÇÃO             OPERAÇÃO REALIZADA ENTRE CONTRIBUINTES E QUE CONFIGURE FATO GERADOR DOS DOIS IMPOSTOS
+
+
+COMPRA DE MERCADORIA PARA CONSUMO/IMOBILIZADO: INCLUI O IPI NA BASE DE CÁLCULO DO ICMS
+
+        O IPI TAMBÉM SERÁ INCLUÍDO NA BASE DE CÁLCULO DO PIS E COFINS, PARA O ADQUIRENTE
+
+        O IPI NÃO É RECUPERÁVEL
+                                     ICMS RECUPERÁVEL               1/48 POR MÊS
+        NO CASO DE IMOBILIZADO
+                                     PIS/COFINS RECUPERÁVEIS                       IMEDIATAMENTE
+
+
+COMPRA DE MERCADORIA PARA REVENDA POR EMPRESA COMERCIAL (AQUISIÇÃO DE INDÚSTRIA)
+
+        O IPI NÃO É RECUPERÁVEL
+
+        O IPI NÃO ENTRA NA BASE DE CÁLCULO DO ICMS
+
+        O IPI ENTRA NA BASE DE CÁLCULO DO PIS/COFINS
+
+COMPRA DE MERCADORIA PARA REVENDA POR EMPRESA COMERCIAL (AQUISIÇÃO DE EMPRESA COMERCIAL)
+
+        NÃO HÁ INCIDÊNCIA DE IPI                                                                                       CONTABILIDADE GERAL
+                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+ CRITÉRIO DE AVALIAÇÃO                                                                                         CPC 16 (R1)
+
+     DOS ESTOQUES I                                                   • OS ESTOQUES DEVEM SER MENSURADOS PELO VALOR DE CUSTO OU PELO VALOR
+                                                                        REALIZÁVEL LÍQUIDO (DOS DOIS, O MENOR)
+                                                                      • VALOR REALIZÁVEL LÍQUIDO: PREÇO DE VENDA ESTIMADO NO CURSO NORMAL DOS
+                                                                           NEGÓCIOS DEDUZIDO DOS CUSTOS ESTIMADOS PARA SUA CONCLUSÃO E DOS GASTOS
+                                                                           ESTIMADOS NECESSÁRIOS PARA SE CONCRETIZAR A VENDA
+                                                                      • CUSTO DO ESTOQUE
+
+
+                                                Inclui                                                                         Não inclui
+                  (+) Preço de compra
+                  (+) Impostos de importação e outros tributos (exceto recuperáveis)                (-) Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS não
+                  (+) Custo de transportes                                                          cumulativos. Revenda: ICMS, PIS, COFINS não cumulativos)
+                  (+) Seguro                                                                        (-) Descontos comerciais
+                  (+) Manuseio                                                                      (-) Abatimentos
+                  (+) Custos diretamente atribuíveis
+
+       LEI Nº 6.404/76 (LEI DAS SOCIEDADE ANÔNIMAS)                                              Valor de mercado
+                                                                                                                               Valor realizável líquido
+                                                                                                    (valor justo)
+• OS ESTOQUES DEVEM SER AVALIADOS PELO CUSTO DE AQUISIÇÃO/PRODUÇÃO
+  OU VALOR DE MERCADO (DOS DOIS, O MENOR)                                                                                      Valor de Venda - Gastos
+                                                                                                   Valor Externo
+• VALOR DE MERCADO (VALOR JUSTO): PREÇO QUE SERIA RECEBIDO PELA VENDA                                                                Necessários
+  DE UM ATIVO OU QUE SERIA PAGO PELA TRANSFERÊNCIA DE UM PASSIVO EM UMA                                                   Específico para a entidade
+  TRANSAÇÃO NÃO FORÇADA ENTRE PARTICIPANTES DO MERCADO NA DATA DE                              É um valor de mercado
+                                                                                                                        (considera suas características)
+  MENSURAÇÃO
+• ATENÇÃO! O VALOR DE MERCADO (VALOR JUSTO) É DIFERENTE DE VALOR
+  REALIZÁVEL LÍQUIDO
+                                                                                                                                             CONTABILIDADE GERAL
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              RESULTADO BRUTO COM MERCADORIAS
+
+O RESULTADO BRUTO COM MERCADORIAS OU RESULTADO COM MERCADORIAS
+EQUIVALE AO LUCRO BRUTO NA DEMONSTRAÇÃO DO RESULTADO (DRE)
+
+      RECEITA BRUTA
+      (-) DEDUÇÕES DA RECEITA
+      - DEVOLUÇÕES DE VENDAS
+      - CANCELAMENTO DE VENDAS
+      - DESCONTOS INCONDICIONAIS CONCEDIDOS
+      - ABATIMENTOS CONCEDIDOS
+      - IMPOSTOS SOBRE VENDAS (ICMS, PIS E COFINS)
+      - AJUSTE E VALOR PRESENTE DE CLIENTES
+      (=) RECEITA LÍQUIDA
+      (-) CUSTOS DAS MERCADORIAS VENDIDAS
+      (=) LUCRO BRUTO OU RESULTADO COM MERCADORIAS
+                                                                                    CONTABILIDADE GERAL
+                                                 ESTRATÉGIA CONCURSOS
+
+
+---

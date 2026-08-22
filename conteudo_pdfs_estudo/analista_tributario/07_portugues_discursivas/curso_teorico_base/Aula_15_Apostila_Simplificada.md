@@ -1,0 +1,6002 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 15_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: Língua Portuguesa
+---
+
+# Língua Portuguesa
+
+Aula 14
+                          Receita Federal (Analista Tributário)
+                                              Língua Portuguesa
+
+                                                            Autor:
+                                     Equipe Português Estratégia
+                                       Concursos, Felipe Luccas
+
+
+                                             16 de Setembro de 2025
+
+---
+
+      Equipe Português Estratégia Concursos, Felipe Luccas
+      Aula 14
+
+                                                                                     Índice
+1) Noções Iniciais de Tipologia Textual
+
+
+2) Tipo x Gênero
+
+
+3) Narração
+
+
+4) Descrição
+
+
+5) Injunção
+
+
+6) Dissertação
+
+
+7) Funções da Linguagem
+
+
+8) Questões Comentadas - Narração - FGV
+
+
+9) Questões Comentadas - Descrição - FGV
+
+
+10) Questões Comentadas - Injunção - FGV
+
+
+11) Questões Comentadas - Dissertação - FGV
+
+
+12) Questões Comentadas - Funções da linguagem - FGV
+
+
+13) Lista de Questões - Narração - FGV
+
+
+14) Lista de Questões - Descrição - FGV
+
+
+15) Lista de Questões - Injunção - FGV
+
+
+16) Lista de Questões - Dissertação - FGV
+
+
+17) Lista de Questões - Funções da linguagem - FGV
+
+
+18) Inferência e Relações Lógicas
+
+
+19) Estratégias Argumentativas Manipulação FGV - teoria
+
+
+20) Noções Iniciais de Interpretação de Textos
+
+
+21) Linguagem Verbal x Linguagem Não verbal
+
+
+22) Linguagem Literária x Linguagem Não literária
+
+
+23) Intertextualidade
+
+
+24) Interpretação e Compreensão
+
+
+25) Julgamento de Assertivas
+
+
+26) Questões Comentadas - Compreensão e Interpretação - FGV
+
+
+27) Lista de Questões - Compreensão e Interpretação - FGV
+
+                Receita Federal (Analista Tributário) Língua Portuguesa                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                          137
+
+                                                             
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                   CONSIDERAÇÕES INICIAIS
+Olá, pessoal!
+Professora e Coach Patrícia Manzato aqui para estudarmos o tópico mais cobrado nos concursos
+públicos: interpretação de textos e gêneros textuais!
+A tipologia textual se refere fundamentalmente ao tipo de texto e a sua estrutura e apresentação.
+Diferencia-se um tipo do outro pela presença de traços linguísticos predominantes.
+Normalmente, em concursos públicos, as bancas examinadoras têm cobrado com mais
+profundidade o tipo dissertação e suas subvariantes argumentativa e expositiva.
+A descrição quase não é cobrada, por ser muito fácil de identificar, mas também deve ser
+estudada, pois permeia os outros tipos de texto e pode induzir o aluno a marcar que um texto é
+uma descrição pura...
+Por fim, se quiser conhecer melhor meu trabalho e ter ainda mais dicas de Estudos e de Língua
+Portuguesa, me siga nas redes sociais
+Grande abraço e ótimos estudos!
+Profª Patrícia Manzato
+
+     @prof.patriciamanzato
+
+     Prof. Patrícia Manzato
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                3
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                            TIPO X GÊNERO
+Gênero textual é um conjunto de características comuns de um texto. É um conceito mais
+específico que o conceito de “tipo” textual, que se define fundamentalmente pela “finalidade”.
+Um gênero narrativo que tem sido bastante cobrado é a crônica, que se caracteriza por
+apresentar reflexões sobre fatos cotidianos, da vida social, do dia a dia, aparentemente banais.
+Dentro dessa temática, pode ser humorística, crítica, intimista. Geralmente é narrada em primeira
+pessoa e transmite a visão particular do autor. Sua linguagem é direta e geralmente informal,
+registrando a fala literal e espontânea dos personagens.
+Pode haver presença de lirismo e ironia. Contudo, há crônicas de alguns autores, especialmente
+clássicos, em que se verifica registro formal e erudito da língua.
+Antes de detalhar cada um dos tipos, vamos relembrar a diferença entre Tipo e Gênero:
+                                                       ==219a34==
+
+Em suma, os tipos textuais principais são poucos, mas os gêneros são inúmeros e estão sempre
+surgindo novos, de modo a abranger as novas “situações comunicativas”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                4
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+(PREF. CAMBORIU - SC / PROFESSOR / 2021)
+Sobre tipologias textuais, assinale a alternativa correta.
+A) Os gêneros textuais são formas de comunicação a serviço das tipologias textuais.
+B) As tipologias textuais podem ser classificadas em primárias e secundárias.
+C) As tipologias textuais são ferramentas essenciais a serviço dos gêneros textuais.
+D) O site, o blog, o chat, o e-mail são exemplos de tipologias textuais recentes advindas da
+presença marcante de um novo suporte tecnológico na comunicação: a Internet.
+E) Para a produção de um tipo textual, o autor deve valer-se sempre do nível de linguagem
+cuidada, ou seja, culta.
+Comentários:
+Questão um pouco mais técnica. Vejamos as alternativas:
+A) ERRADA. É o contrário: a tipologia é que auxilia os gêneros.
+B) ERRADA. Não há essa classificação para tipologia textual.
+C) CERTA.
+D) ERRADA. O site, o blog, o chat, o e-mail são exemplos de gêneros textuais.
+E) ERRADA. O nível de linguagem depende do gênero a ser utilizado. Gabarito letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           5
+        www.estrategiaconcursos.com.br                                                   137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                                NARRAÇÃO
+A narração tem a finalidade de contar uma história, isto é, retratar acontecimentos, reais ou
+imaginários, sucessivos num lapso temporal, de forma linear ou não linear. É dinâmica, pois traz
+uma mudança de estado, uma sequência de fatos, uma relação de antes e depois.
+Os elementos da narrativa são narrador, enredo, tempo (quando), lugar/espaço (onde),
+personagens (quem) e um encadeamento de eventos (o quê) que se desenvolvem ou se
+complicam até um clímax e um posterior desfecho.
+Por narrar acontecimentos em sequência no tempo-espaço, o tempo verbal predominante é o
+pretérito perfeito, embora também possa ocorrer o pretérito imperfeito ou até o presente,
+quando se pretende aproximar os acontecimentos do tempo da narração.
+Não há uma estrutura rígida para a construção de um enredo, contudo a narrativa normalmente
+parte de um “fato narrativo inicial”, um evento que dá a referência inicial a partir do qual o
+enredo vai se desenvolver. Deve haver uma relação de causalidade entre os eventos, uma
+integração lógica das ações e acontecimentos, pois o relato de vários eventos desconexos não
+constitui um enredo, que deve ter uma unidade lógica.
+O enredo da narrativa geralmente vai partir de um estado inicial de harmonia, que será
+interrompido por um fato gerador de desarmonia e conflito, que causará a busca por uma
+solução. Então, essa busca se desenrolará em várias outras ações e outros conflitos, até um
+clímax e um desfecho da história. Basta pensar em qualquer filme ou romance e perceberemos
+esse desenvolvimento. A banca não costuma cobrar isso de forma teórica, mas pode perguntar
+sobre a motivação dos personagens.
+
+     Não há uma sequência rígida: as narrações podem ocorrer de forma muito
+     simplificada, resumidas ao relato de algumas poucas ações sequenciais.
+
+A característica mais marcante de uma narração é a sequência temporal. A passagem do tempo
+narrativo geralmente se explicita por meio de advérbios de tempo, orações temporais, tempos
+verbais específicos. Contudo, pode vir implícita:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               6
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+        João deixou uma panela de feijão no fogo e foi à padaria comprar pão. Quando
+        voltou, antes de entrar em casa, parou para brincar com seu cachorro e então
+        sentiu um cheiro forte. Ao entrar em casa, percebeu que o feijão queimara.
+        Desligou o fogo e gritou um palavrão bem alto.
+
+
+Observe as marcas temporais: os verbos estão conjugados no pretérito perfeito, indicando ações
+perfeitamente concluídas. Os advérbios de tempo “antes”, “depois” e as orações temporais
+“quando voltou” e “ao entrar” sinalizam explicitamente a distribuição das ações na linha
+cronológica. Em “desligou o fogo E gritou”, o “E” aditivo é uma marca implícita da passagem do
+tempo, pois também indica uma ação seguida da outra.
+As narrativas podem seguir cronologias irregulares, tempos psicológicos, em que os eventos são
+narrados dentro da consciência do narrador e não coincidem com o tempo real. Também podem
+ser contadas de trás para frente, em “flashback”.
+O ritmo da narrativa também pode variar, podemos ter uma “narrativa direta”, que se desenvolve
+rapidamente, com foco em levar o leitor diretamente ao desfecho. Esse é o caso das piadas,
+anedotas, tirinhas.
+Também podemos ter uma “narrativa indireta”, que se desenvolve de forma mais lenta, com
+muitas interrupções e digressões do narrador, com rodeios, devaneios, pausas para descrições e
+intercalação de subnarrativas de eventos secundários. Esse é o estilo de narração de grandes
+obras, como “Memórias Póstumas de Brás Cubas” de Machado de Assis e “Dom Quixote” de
+Miguel de Cervantes.
+Quanto ao elemento “personagens”, é importante lembrar que são seres humanos ou
+humanizados (entidades personificadas, com atitude humana). Podem ser principais e
+secundários, de acordo com sua importância na narrativa.
+O personagem protagonista é um dos principais e conduz a ação. Sua experiência é o foco da
+narrativa, que geralmente se funda na solução de um conflito ou busca do personagem principal.
+O personagem antagonista é aquele que se opõe ao objetivo do protagonista. Suas ações geram
+obstáculos que ajudam a desenvolver a narrativa em outras ações e outras subtramas. Pessoal,
+isso é bem simples, basta pensar nos “heróis” e “vilões” dos filmes e quadrinhos.
+Os principais gêneros textuais narrativos são charges, piadas, contos, novelas, crônicas e
+romances.
+
+Tipos de narrador
+
+O narrador pode apresentar diversos graus de interferência na história.
+Pode ser um narrador personagem, que conta a história em primeira pessoa e faz parte dela. Sua
+fala também pode vir registrada como a de um personagem comum, reproduzida literalmente ou
+indiretamente, com a pontuação pertinente. A narrativa em primeira pessoa é impregnada pela
+opinião e pelas impressões do narrador. Veja o exemplo:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             7
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+        "Não tínhamos dinheiro para passagem de ônibus a próxima cidade, de modo
+        que meu amigo sugeriu irmos de trem de carga, a condução dos espertos.
+        Quando anoiteceu, corremos a nos esconder num vagão vazio. Ofegantes,
+        fechamos a pesada porta e nos estendemos sobre o chão. Estávamos cansados e
+        famintos."
+
+
+Pode ser um narrador observador, que narra a história em terceira pessoa, como se a assistisse
+de fora, traz o relato de uma testemunha.
+
+        "...Ele andava calmamente, a rua estava escura dificultando sua caminhada, mas
+        ele parecia não se importar, andava lentamente como se a escuridão não o
+        assustasse..."
+
+
+Por fim, pode ser um narrador onisciente, que não só narra a história, mas também tem pleno
+conhecimento do pensamento e das emoções dos personagens, bem como sobre o passado e o
+futuro dos acontecimentos. Não há segredos para ele, pode desvelar a tendência e a
+personalidade dos personagens, mesmo que esses mesmos não saibam. Ele conhece a verdade
+da narrativa.
+
+        “Ele sofria como um tolo desde a despedida dela. Dizia para si mesmo um
+        milhão de vezes que ela um dia voltaria. Mas no fundo, o idiota se obrigava a
+        acreditar nesta imbecil fantasia. Afinal, era a única coisa que o impedia de
+        estourar os próprios miolos”.
+
+Tipos de discurso do narrador
+O narrador dispõe de 3 tipos de discurso para estruturar sua narrativa e mostrar ao leitor as falas,
+as emoções e o pensamentos dos personagens. São eles: o discurso direto, o indireto e o
+indireto livre.
+
+Discurso direto
+É narrado em primeira pessoa, retratando as exatas palavras dos personagens.
+Caracteriza-se pelo uso de verbos dicendi ou declarativos, como dizer, falar, afirmar, ponderar,
+retrucar, redarguir, replicar, perguntar, responder, pensar, refletir, indagar e outros que exerçam
+essa função. A pontuação se caracteriza pela presença de dois pontos, travessões ou aspas para
+isolar as falas, que são claramente alternadas, bem como de sinais gráficos, como interjeições,
+interrogações e exclamações, para indicar o sentimento que as permeia.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   8
+        www.estrategiaconcursos.com.br                                                           137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+        "- Por que veio tão tarde? perguntou-lhe Sofia, logo que apareceu à porta do
+        jardim, em Santa Teresa.
+        - Sempre é tarde para os amigos, replicou Sofia, em ar de censura."
+        (Machado de Assis, Quincas Borba, cap. XXXIV)
+
+Discurso indireto
+É narrado em terceira pessoa e o narrador incorpora a fala dos personagens a sua própria fala,
+também utilizando os verbos de elocução (discendi ou declarativos) como dizer, falar, afirmar,
+ponderar, retrucar, redarguir, replicar, perguntar, responder, pensar, refletir, indagar.
+Trata-se de uma paráfrase, uma reescritura das falas, agindo o narrador como intérprete e
+informante do que foi dito. Geralmente traz uma oração subordinada substantiva, com a
+conjunção "que".
+
+        “A certo ponto da conversação, Glória me disse que desejava muito conhecer
+        Carlota e perguntou por que não a levei comigo."
+        “Capitu segredou-me que a escrava desconfiara, e ia talvez contar às outras”
+
+
+Discurso indireto livre
+É um discurso híbrido, haja vista que concilia características dos dois anteriores.
+Há absoluta liberdade formal e sintática por parte do narrador, que mistura reproduções literais
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               9
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+das falas com paráfrases, que alterna pensamentos e registro de falas e ações, aproximando a
+fala do narrador e do personagem, como se ambos falassem em uníssono.
+
+        "Quincas Borba calou-se de exausto, e sentou-se ofegante. Rubião acudiu,
+        levando-lhe água e pedindo que se deitasse para descansar; mas o enfermo após
+        alguns minutos, respondeu que não era nada. Perdera o costume de fazer
+        discursos é o que era."
+
+Por ser o discurso mais difícil de ser percebido, vamos sintetizar suas principais características:
+
+   ✔​ As falas das personagens (feitas na 1ª pessoa) surgem espontaneamente dentro discurso
+       do narrado (na 3ª pessoa);
+   ✔​ Não há marcas que indiquem a separação das falas do narrador e da personagem;
+
+   ✔​ Não é introduzido por verbos de elocução, nem por sinais de pontuação ou conjunções;
+
+   ✔​ Por vezes, é difícil delimitar o início e o fim da voz da personagem, já que está inserida
+       dentro da voz do narrador;
+   ✔​ O discurso do narrador transmite o sentido do discurso da personagem;
+
+   ✔​ O narrador é onisciente de todas as falas, sentimentos, reações e pensamentos da
+       personagem.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                       10
+        www.estrategiaconcursos.com.br                                                                137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Passagem do discurso direto para o indireto
+Essa conversão é cobrada em prova e deve observar algumas mudanças.
+Todas essas mudanças são lógicas e decorrentes da própria passagem de uma fala literal para
+uma fala recontada. Então, vamos sistematizar essas regras gerais.
+
+                                                       ==219a34==
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                          11
+        www.estrategiaconcursos.com.br                                                  137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+        — Fujam agora— ordenou o General.
+        O general ordenou que fugissem imediatamente (naquele momento).
+
+        Pedro: Eu confesso— Quero viver sem pensar tanto em mim mesmo—.
+        Pedro confessou que queria viver sem pensar tanto em si mesmo.
+
+
+Observe que a conversão do discurso direto para o indireto está sinalizada principalmente pelo
+verbo “declarativo” (verbo discendi), ou seja, aquele que introduz a fala (disse, declarou, afirmou,
+respondeu, retrucou etc), seguido da oração com conjunção integrante "que", "quem".
+Então, muitas vezes somente o verbo declarativo é passado para o discurso indireto e os verbos
+do restante da fala são mantidos nos tempos originais.
+      — “Pedro não desistirá” — disse João. (Discurso Direto)
+      João disse que Pedro não desistiria.
+      João disse que Pedro não desistirá.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  12
+        www.estrategiaconcursos.com.br                                                           137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+(CREF - 20ª Região / 2019)
+“A prática demonstra isso: um quadro de emoções negativas conduz à depressão e a outros
+males”, diz ele.
+De acordo com o texto, julgue o item a seguir.
+O emprego do sinal de dois pontos à linha 21 justifica‐se por introduzir discurso direto.
+Comentários:
+De fato, dois pontos podem ser utilizados para iniciar uma fala / discurso direto, mas não é o
+caso da questão. No trecho, a pontuação é utilizada para iniciar uma enumeração. Questão
+incorreta.
+
+Opinião do autor/narrador
+Percebemos que o discurso direto é mais objetivo, pois narra falas literais, exatamente como
+proferidas, de modo que o leitor pode julgar por si mesmo a atitude dos personagens. Então, o
+discurso direto ajuda a construir “veracidade” e “credibilidade” no que foi dito.
+Já no discurso indireto e indireto livre, o narrador divide com o leitor seu próprio ponto de vista,
+sua própria leitura dos fatos. Inclusive, ao recontar as falas dos outros, já pode estar inserindo seu
+viés na própria escolha das palavras.
+Nesse contexto, a opinião do narrador (ou do locutor de um texto argumentativo) pode ser
+verificada em algumas pistas, palavras que indicam em algum nível as verdadeiras impressões
+sobre o que se fala. Essas expressões que indicam ponto de vista são chamadas de
+“modalizadores”:
+      Ex: Pedro infelizmente não tinha chegado ainda, devia estar no maldito trânsito e
+      fatalmente perderia o início do evento que lutara para organizar.
+No exemplo acima, os advérbios “infelizmente” e “fatalmente” indicam que o locutor considera
+negativos o acontecimento de perder o início do evento. Então, tais expressões revelam um viés
+“afetivo” e “subjetivo”.
+O advérbio “ainda” indica que há na fala expectativa ou convicção de que ele já deveria ter
+chegado. Se o advérbio utilizado fosse “já” (ele já chegou), o sentido seria outro e revelaria a
+visão de que ele chegou mais rápido que o esperado.
+O verbo “devia” foi usado como um modalizador, para indicar “possibilidade/probabilidade”, de
+modo que sabemos que não há certeza absoluta naquela declaração. Se fosse usado outro
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    13
+        www.estrategiaconcursos.com.br                                                             137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+verbo, como “poderia”, ou um uma forma verbal mais categórica, como “estava”, os sentidos
+seriam outros e a visão do fato pareceria outra.
+O adjetivo “maldito” expressa verdadeiro rancor contra o “trânsito”.
+O verbo “lutar” também indica que o autor considera o ato de “organizar” o evento uma tarefa
+difícil, que exigia esforço e encontrava oposição, enfim, uma luta.
+Esses são apenas alguns indícios de opinião do narrador/autor, examinados num pequeno
+período. No texto, qualquer estrutura ou classe de palavras (verbos, adjetivos, advérbios,
+palavras denotativas, interjeições) pode ser vestígio de uma opinião subjacente.
+O que foi dito acima não é exclusivo para “narradores”: vale para a opinião do autor em
+dissertações, argumentações, propagandas, artigos, matérias jornalísticas e qualquer gênero
+textual.
+Cuidado, não é qualquer adjetivo ou advérbio que necessariamente indica um juízo de valor!
+Muitas vezes eles têm caráter mais objetivo, embasado em uma situação concreta. É preciso
+analisar o contexto e as opções da questão.
+
+(CÂMARA DE FORTALEZA (CE) / 2019 - Adaptada)
+''Propriedade de escravos” − dizia Torres Homem [...] − “era uma monstruosa violação do direito
+natural.” (1º parágrafo)
+
+
+Transposto para o discurso indireto, o trecho transcrito acima assume a seguinte redação: "Torres
+Homem dizia que propriedade de escravos é uma monstruosa violação do direito natural."
+Comentários:
+O trecho original está no discurso direto, no qual o autor faz uso dos "verbos de elocução"
+("dizer"). Para a conversão para o discurso indireto, teremos que fazer a conversão para a 3ª
+pessoa, já que há intervenção do narrador no discurso, pois utiliza as suas próprias palavras para
+reproduzir as falas dos personagens.
+O correto seria: "Torres Homem dizia que propriedade de escravos era uma monstruosa violação
+do direito natural.". Questão incorreta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                14
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                                DESCRIÇÃO
+Descrever é caracterizar, relatar em detalhes características de pessoas, objetos, imagens, cenas,
+situações, emoções, sentimentos. A descrição é uma pormenorização estática, uma pausa no
+tempo, geralmente uma interrupção da narração, para apresentação de traços dos seres. Para
+isso, se utiliza de muitos adjetivos, verbos de ligação que indicam estado e orações e locuções
+adjetivas para caracterização.
+O tempo mais usual é o pretérito imperfeito, por indicar uma ação continuada ou rotineira: era,
+fazia, estava, parecia...
+A descrição quase sempre está presente em outros tipos textuais, assim como dificilmente é
+encontrada na sua forma pura, de modo que também é comumente permeada por trechos
+narrativos ou dissertativos. Nas provas de concurso, o mais comum é a descrição aparecer dentro
+                                                       ==219a34==
+
+de uma narração.
+Difere-se fundamentalmente da narração por trazer acontecimentos simultâneos, que ocorrem ao
+mesmo tempo, sem progressão temporal e sem relação de anterioridade e posterioridade. As
+ações podem descrever uma rotina, ações habituais, sem foco narrativo.
+A descrição está para uma foto, assim como a narração está para um filme.
+Além disso, a descrição é o tipo textual que predomina em gêneros como manuais,
+propagandas, biografias, relatórios, definições e verbetes, tutoriais.
+Vejamos agora essas características nos textos que vêm sendo cobrados:
+
+(CGU / 2022)
+“A imagem era de uma pessoa que não podia inspirar outro sentimento que não o do respeito,
+porque seu aspecto mostrava uma face larga com um grande nariz e pequenos olhos abaixo de
+grossas sobrancelhas. Uns lábios finos se desenhavam sob um bigode tímido, tudo isso com uma
+pele morena bastante fresca com traços de ótima saúde. A cabeça era suportada por um corpo
+bastante avantajado...”
+Esse pequeno fragmento é exemplo de um texto descritivo. A afirmação correta sobre ele é:
+(A) a descrição se limita a características físicas de uma pessoa, particularmente de sua cabeça;
+(B) a tendência global dos traços descritivos apresentados é caracterizar uma pessoa por sua
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                     15
+        www.estrategiaconcursos.com.br                                                              137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+firmeza e elegância;
+(C) a estratégia descritiva empregada é a de dar uma ideia do todo, mostrando a seguir detalhes
+desse todo;
+(D) o observador encarregado da descrição faz questão de ser bastante objetivo, sem
+interferências de caráter subjetivo;
+(E) as características apresentadas, relativas ao aspecto geral da pessoa descrita, não confirmam a
+imagem de respeito referida no início do texto.
+Comentários:
+(A) Incorreto. A descrição não se limita a características físicas de uma pessoa, particularmente de
+sua cabeça; fala também da sua aura respeitável e do corpo avantajado.
+(B) Incorreto. Não há nada que descreva firmeza e elegância;
+(C) Correto. A estratégia descritiva empregada é a de dar uma ideia do todo, começando pela
+imagem geral da pessoa (respeitável), mostrando a seguir detalhes desse todo (face, nariz, olhos,
+bigodes).
+(D) o observador encarregado da descrição faz questão de ser bastante objetivo, sem
+interferências de caráter subjetivo;
+(E) as características apresentadas, relativas ao aspecto geral da pessoa descrita, não confirmam a
+imagem de respeito referida no início do texto.
+Gabarito letra C.
+
+
+(PGE-PE / 2019)
+Passávamos férias na fazenda da Jureia, que ficava na região de lindas propriedades cafeeiras.
+Íamos de automóvel até Barra do Piraí, onde pegávamos um carro de boi. Lembro-me do aboio
+do condutor, a pé, ao lado dos animais, com uma vara: “Xô, Marinheiro! Vâmu, Teimoso!”. Tenho
+ótimas recordações de lá e uma foto da qual gosto muito, da minha infância, às gargalhadas,
+vestindo um macacão que minha própria mãe costurava, com bastante capricho. Ela fazia um
+para cada dia da semana, assim, eu podia me esbaldar e me sujar à vontade, porque sempre
+teria um macacão limpo para usar no dia seguinte.
+                                                                  Jô Soares. O livro de Jô: uma autobiografia
+                                                  desautorizada. São Paulo: Companhia das Letras, 2017.
+O texto é essencialmente descritivo, pois detalha lembranças acerca das viagens de férias que a
+personagem e sua família faziam com frequência durante a sua infância.
+Comentários:
+Essencialmente, predominantemente, principalmente o texto é narrativo, pois há clara sucessão
+de fatos e objetivo último de contar uma história, narrar uma sequência de ações ao longo do
+tempo.
+Questão incorreta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           16
+        www.estrategiaconcursos.com.br                                                                    137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                                 INJUNÇÃO
+O texto injuntivo traz instruções ao leitor para realizar certa tarefa. Ensina, orienta, interpela ou
+obriga o leitor a fazer alguma coisa.
+Sua principal característica é apresentar verbos no imperativo, em comandos neutros, genéricos e
+impessoais, para prescrever alguma ação do leitor. O uso do infinitivo impessoal também é usado
+como estratégia de neutralidade, pois omite o agente:
+      Ex: Passo 1, remover a embalagem. Passo 2, inserir CD de instalação.
+Observamos esse tipo textual em gêneros como leis, regulamentos, contratos, manuais de instrução,
+receitas de bolo, tutoriais.
+
+                                                       ==219a34==
+
+(PREF. CORDILHEIRA ALTA - SC / 2019 - adaptada)
+                               3 truques para tirar as manchas mais difíceis
+Agora você pode comer aquela macarronada sem se preocupar. Testamos todas as fórmulas
+milagrosas para garantir que suas roupas fiquem sempre limpas.
+1. Molho de tomate
+1 colher de sopa de sabão em pó; 1/2 copo de água; 1 colher de sopa de lustra-móveis; 2
+colheres de sopa de água sanitária.
+Modo de fazer
+Dilua o sabão em pó na água e misture-o aos outros ingredientes. Aplique a solução sobre a
+mancha e deixa-a repousar de 5 a 10 minutos. Use uma escova de dentes para esfregar. Enxágue.
+Se não sair, repita o processo.
+2. Óleo ou gordura
+1 colher de sopa de lustra-móveis; 1/2 colher de sopa de detergente.
+Modo de fazer
+Aplique a solução e deixe repousar de 5 a 10 minutos. Use uma escova de dentes para esfregar e
+enxágue. Se não sair, repita o processo.
+3. Vinho
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   17
+        www.estrategiaconcursos.com.br                                                            137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+1 colher de sopa de sabão em pó; 1/2 copo de água; 5 colheres de sopa de produto para
+limpeza pesada (usado para limpar azulejo e fogão); 5 colheres de sopa de água sanitária.
+Modo de fazer
+Aplique a solução e deixe repousar de 5 a 10 minutos. A mancha ficará marrom: não se
+preocupe, é normal. Use uma escova de dentes para esfregar e enxágue.​
+O texto apresenta:
+A) Uma história.​      ​       B) Uma notícia.​          ​        C) Instruções.
+D) Uma poesia.​        ​       E) Uma propaganda.
+Comentários:
+O texto claramente é injuntivo / instrucional: é um passo a passo de como tirar manchas difíceis.
+Gabarito: Letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                18
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                              DISSERTAÇÃO
+Agora veremos o assunto mais importante desta aula e talvez deste curso. Digo isso porque a
+dissertação é o tipo textual mais cobrado, tanto em tipologia quando nas questões de português
+que trazem textos. Conhecer a estruturação desse tipo vai ser vital na interpretação em geral,
+pois aprenderemos as estratégias argumentativas que são objeto de questões de compreensão e
+das provas discursivas, além de ficarmos familiares com a estruturação correta de um parágrafo e
+de um texto.
+O texto dissertativo basicamente expõe ideias, razões, teorias, raciocínios, abstrações, por meio
+de relações lógicas sequenciadas no texto, dentro de uma estrutura específica (introdução,
+desenvolvimento e conclusão), sem necessária progressão temporal. Por ser neutra, atemporal e
+clara, marca-se pelo uso dos verbos no presente, porque indicam verdades universais: “a água
+ferve a 100 graus”; “a terra gira em torno do sol”.
+A dissertação pode ser objetiva, também chamada de expositiva; ou subjetiva, também chamada
+de argumentativa ou opinativa. Veremos também que há subtipos para um texto argumentativo e
+para um texto expositivo.
+Na maioria das provas, a banca espera que o candidato saiba identificar textos dissertativos com
+diferentes finalidades.
+
+Texto dissertativo expositivo (puro)
+A finalidade essencial de um texto expositivo é trazer conceitos, discutir um assunto de maneira
+impessoal e objetiva, ou seja, sem defesa clara de uma opinião. Não há defesa de tese, apenas
+exposição clara e atemporal de ideias.
+Diz-se que o autor é impessoal e o leitor é universal. O autor explana o que sabe de forma neutra
+e permite que o leitor forme sua própria opinião. Pode ocorrer que a opinião do autor
+transpareça pelo sentido dos modalizadores (marcas linguísticas de opinião), mas não é seu
+objetivo primário criar debate e convencer o leitor.
+
+        "Com a pandemia, o planejamento de diversos certames previstos para 2020
+        acabou sendo prejudicado. Por outro lado, já está sendo observada uma abertura
+        gradual da economia em alguns Estados, fato que deve se replicar no resto do
+        Brasil."
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               19
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Texto dissertativo expositivo-informativo
+É um subtipo do expositivo. Esse texto visa acrescentar informação nova ao leitor, ao contrário
+do expositivo puro, que não pressupõe que a informação discutida seja nova para quem lê.
+É comum ocorrerem no texto informativo trechos descritivos, como dados, estatísticas; ou
+narrativos, como relatos de acontecimentos, mas é a finalidade do texto que deve ser o critério
+de identificação do tipo textual. Não é por trazer relato de um crime que um texto com clara
+finalidade de trazer informação nova ao leitor (sobre uma ação da polícia, por exemplo) deve ser
+classificado como uma narrativa.
+Atentem para isso, pois quase todo texto dissertativo traz elementos de outra tipologia.
+
+        "Foi encaminhado, em agosto de 2020, ao Congresso Nacional, o Projeto de Lei
+        Orçamentária Anual (PLOA). A proposta trouxe a previsão de receitas e despesas
+        da União para 2021, incluindo a criação de vagas.
+        O anexo V do documento prevê o provimento de 50.946 cargos no Poder
+        Executivo Federal, os quais estão distribuídos da seguinte maneira (...)"
+
+Texto dissertativo argumentativo
+O texto argumentativo, além de discutir e informar, defende uma tese, uma opinião pessoal,
+tendo como finalidade principal o convencimento do leitor.
+Para persuadi-lo, o autor se utiliza de modalizadores e de operadores argumentativos,
+construindo fundamentação para seus argumentos por via de relações lógicas organizadas numa
+estrutura argumentativa progressiva.
+A linguagem utilizada é clara, impessoal (embora parcial), culta. A primeira pessoa é utilizada
+para realçar a inclusão do autor no universo de ideias discutidas e seu alinhamento aos
+argumentos utilizados, bem como para envolver o leitor. Também é comum o uso da terceira
+pessoa, com verbos no presente do indicativo, como estratégia para sugerir que as informações
+são fatos. Os verbos são semanticamente carregados e sugerem ou corroboram a opinião que
+está sendo defendida. Esses argumentos são apresentados de forma estruturada, com
+progressão.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              20
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Operadores argumentativos
+Para comprovar sua opinião e sua tese, o autor deverá estabelecer algumas relações de sentido
+para relacionar suas ideias e seus raciocínios. Para isso, poderá usar conectivos diversos,
+conjunções, advérbios, palavras denotativas.
+As conjunções são operadores argumentativos, pois ajudam a construir argumentos e relações
+lógicas diversas. Em suma, introduzem ideias e argumentos, estabelecendo entre eles relações
+de tempo, concessão, condição, proporcionalidade, comparação, conformidade, causa,
+consequência, adição, alternância, conclusão, explicação, oposição.
+Advérbios e palavras denotativas também funcionam como operadores argumentativos, pois
+estabelecem entre argumentos relações de inclusão, exclusão, retificação, realce, prioridade,
+predominância, relevância, esclarecimento.
+Não vou aprofundar muito aqui, pois já vimos essas relações todas no estudo das classes
+(conjunções, advérbios, preposições, palavras denotativas), mas é bom saber que a banca pode
+chamar de “operadores argumentativos ou discursivos” esses termos e os sentidos que
+estabelecem na construção do texto.
+Dessa forma, podemos dizer que as conjunções aditivas são operadores que “somam
+argumentos”, as conjunções adversativas “opõem argumentos”, as alternativas “excluem ou
+alternam” argumentos, assim por diante.
+
+A estrutura argumentativa
+Como dito, a dissertação argumentativa traz uma progressão lógica de argumentos. Em nível
+estrutural, essa progressão toma a forma de introdução, desenvolvimento e conclusão.
+Na introdução, o autor apresenta o tema, a ideia principal, sua tese.
+No desenvolvimento, o autor traz argumentos de apoio ao convencimento.
+Na conclusão, o autor retoma a ideia central, apresentada na introdução, e consolida seu
+raciocínio. Nesse parágrafo, geralmente ele oferece soluções para os problemas discutidos, faz
+constatações e reitera sua opinião de forma mais incisiva.
+Existe grande liberdade na forma com que os autores constroem suas argumentações. Alguns
+autores concluem logo no início, depois justificam sua posição, outros trazem sua tese somente
+no final.
+Vejamos em detalhes cada uma dessas partes.
+
+Introdução
+A introdução deve conter a tese, ou seja, uma afirmação que deverá ser sustentada no decorrer
+dos parágrafos. Se o autor pudesse sintetizar todo seu texto numa sentença, essa seria sua tese.
+A opinião do autor aqui aparece de modo brando e será reiterada de modo forte na conclusão.
+Também é na introdução que o autor tenta seduzir o leitor, captar seu interesse, atraindo-o para
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               21
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+continuar lendo.
+
+Desenvolvimento
+No desenvolvimento deve constar a fundamentação da opinião “levantada” na introdução.
+A ideia central de um parágrafo de desenvolvimento é chamada de tópico frasal ou pequena
+tese. Ele é a síntese do argumento, a ideia mais importante do parágrafo, e geralmente vem no
+início (não necessariamente).
+É importante destacar que o parágrafo segue uma estrutura análoga ao texto argumentativo
+como um todo, ou seja, o parágrafo de desenvolvimento também tem a sua introdução, que
+geralmente coincide com o tópico frasal.
+O período seguinte deve trazer uma ampliação desse tópico, sustentando-o por meio de
+argumentos e contra-argumentos, raciocínios lógicos, exemplos, comparações, narrativas,
+                                                       ==219a34==
+
+citações de autoridades, dados estatísticos ou outra forma de desenvolvimento. Por fim, pode
+haver uma conclusão que retoma a ideia-núcleo ou anuncia o tópico frasal do próximo
+argumento.
+A estrutura do parágrafo argumentativo pode ser vista assim:
+
+        Cada argumento deve vir separado em um parágrafo, por clareza e por destacar
+        mais ainda a estrutura dissertativo-argumentativa.
+        Essa regra é tão importante que as bancas geralmente descontam pontos por
+        parágrafos que trazem mais de uma ideia.
+
+Para ilustrar essa teoria, vamos focar no segundo parágrafo de desenvolvimento retirado da
+prova da CVM:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            22
+        www.estrategiaconcursos.com.br                                                    137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+          O potencial das energias propriamente "limpas" e renováveis é enorme,
+          comparativamente ao que já existe: ventos, marés, correntes marítimas e fluviais,
+          energia solar. Elas deverão constituir um nó importante na matriz energética
+          mundial. Entretanto, admite-se que ainda assim continuarão sendo apenas
+          complementares e não suficientes para substituir o petróleo.
+          Um dos problemas dessas energias limpas é que o seu potencial não é
+          regularmente distribuído no mundo entre as nações consumidoras (1). O Saara,
+          Mogavi e o Nordeste brasileiro são exemplos de ricos potenciais de energia solar,
+          mas em que isso beneficia os grandes consumidores do norte da Europa? (2) O
+          Nordeste brasileiro, assim como a região de Bengala e outras regiões tropicais,
+          tem enorme potencial eólico. Mas não são só eles: a Dinamarca produz 75% da
+          energia que consome pelos ventos (3). Poucos países podem rivalizar com o
+          Brasil quanto à energia hidrelétrica. Nenhuma dessas fontes energéticas limpas e
+          renováveis poderá, por si, constituir-se no sucessor do petróleo em nível mundial
+          (4).
+Sintetizando a progressão lógica e estrutural desse texto, temos: a) As fontes renováveis são
+importantes, b) mas, serão apenas um complemento, pois não estão distribuídas de forma
+regular pelo mundo, conforme exemplos, c) portanto, não são capazes de substituir o petróleo.
+Veja que a estrutura de um único parágrafo reflete a macroestrutura do texto
+dissertativo-argumentativo.
+
+(MPE-GO / 2022)
+Texto 2
+“O alfabeto? É um pouco difícil saber exatamente o que o ‘o’ significa, porque existem vários
+assim chamados alfabetos que não começam por a e b. Ogham, o sistema do irlandês antigo,
+começava com BLF; a escrita medieval alemã, o rúnico, cujos caracteres se chamavam runas,
+começavam com seis letras que lhe deram o nome. O etíope começava com h-l. (....) Porém,
+apesar das modificações, persistia um ideal comum: captar os sons da fala por meio de um
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                             23
+          www.estrategiaconcursos.com.br                                                      137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+conjunto de duas ou três dúzias de sinais únicos, cada um dos quais correspondendo a um som
+falado. Na verdade, como veremos, trata-se de uma vã esperança.”
+Os exemplos citados no Texto 2 têm a finalidade de
+(A) abrir caminho para novas discussões.
+(B) mostrar o conhecimento do autor sobre o tema.
+(C) enriquecer a informação do texto.
+(D) comprovar uma afirmação anterior.
+(E) demonstrar a existência de vários alfabetos.
+Comentários:
+Essencialmente, essa questão é sobre o uso de exemplos como técnica argumentativa. O
+exemplo é o que faz uma ideia abstrata parecer concreta para o ouvinte, como eventos
+verificáveis daquela ideia apresentada.
+existem vários assim chamados alfabetos que não começam por a e b. (tese)
+Ogham, o sistema do irlandês antigo, começava com BLF; a escrita medieval alemã, o rúnico,
+cujos caracteres se chamavam runas, começavam com seis letras que lhe deram o nome. O
+etíope começava com h-l. (argumento - exemplos que comprovam existirem alfabetos que não
+começam por a e b)
+Gabarito letra D.
+
+
+(SEPLAG-RECIFE (PE) / 2019 - Adaptada)
+                                    Quem não gosta de samba
+“Como se dá que ritmos e melodias, embora tão somente sons, se assemelhem a estados da
+alma?”, pergunta Aristóteles. Há pessoas que não suportam a música; mas há também uma
+venerável linhagem de moralistas que não suporta a ideia do que a música é capaz de suscitar
+nos ouvintes. Platão condenou certas escalas e ritmos musicais e propôs que fossem banidos da
+cidade ideal. Santo Agostinho confessou-se vulnerável aos “prazeres do ouvido” e se penitenciou
+por sua irrefreável propensão ao “pecado da lascívia musical”. Calvino alerta os fiéis contra os
+perigos do caos, volúpia e emefinação que ela provoca. Descartes temia que a música pudesse
+superexcitar a imaginação.
+O que todo esse medo da música – ou de certos tipos de música – sugere? O vigor e o tom dos
+ataques traem o melindre. Eles revelam não só aquilo que afirmam – a crença num suposto
+perigo moral da música − , mas também o que deixam transparecer. O pavor pressupõe uma viva
+percepção da ameaça. Será exagero, portanto, detectar nesses ataques um índice da especial
+força da sensualidade justamente naqueles que tanto se empenharam em preveni-la e erradicá-la
+nos outros?
+O que mais violentamente repudiamos está em nós mesmos. Por vias oblíquas ou com plena
+ciência do fato, nossos respeitáveis moralistas sabiam muito bem do que estavam falando.
+                                             (Adaptado de: GIANETTI, Eduardo. Trópicos utópicos. São Paulo:
+                                                                     Companhia das Letras, 2016, p. 23-24)
+A frase O vigor e o tom dos ataques traem o melindre contém um argumento semelhante ao que
+está na seguinte frase: O que mais violentamente repudiamos está em nós mesmos. (3º
+parágrafo).
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         24
+        www.estrategiaconcursos.com.br                                                                  137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Comentários:
+O autor, quando se refere ao “vigor e o tom dos ataques”, fala da intensidade com que os
+moralistas por ele citados atacam a música, o que é semelhante a repudiar violentamente.
+Da mesma maneira, o “melindre”, ou o sentimento de vergonha é traído pela maneira como
+atacam a música, pois, na verdade, estão envergonhados por causa da atração interior pelos
+encantos da música, argumento semelhante a “repudiamos está em nós mesmos”. Questão
+correta.
+
+                                    Finalidade predominante dos Textos
+              Expositivo/Explicativo/Informativo: Expor informações e conhecimentos
+                    Opinativo/Argumentativo: Convencer, defender uma opinião.
+                                    Polêmico: Contrabalancear opiniões.
+                               Instrucional: Normatizar, prescrever, ensinar.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         25
+        www.estrategiaconcursos.com.br                                                 137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                   FUNÇÕES DA LINGUAGEM
+A comunicação ocorre na interação de vários elementos integrados: um emissor, uma
+mensagem, um receptor para essa mensagem, que tem um tema, um assunto, um contexto, um
+referente.
+Há outros elementos: a mensagem é transmitida por determinado “meio”, um “canal”, e utiliza
+um determinado sistema de signos conhecidos pelas partes, chamado “código”.
+
+No contexto de “adequação” ou “inadequação” de uma variante linguística, temos que ponderar
+qual é a finalidade daquela situação comunicativa, que se reflete em diversas “funções da
+linguagem”.
+A depender do objetivo, a linguagem vai “focar” em algum dos elementos envolvidos na
+comunicação. Às vezes, o foco do discurso recai sobre o conteúdo do texto; às vezes, sobre a
+forma que esse conteúdo é passado. Pode também recair sobre o assunto em si.
+Vejamos a característica principal de cada função da linguagem.
+FUNÇÃO EMOTIVA:
+O foco recai sobre o próprio “emissor”.
+O “eu” é o centro da mensagem, que se apresenta como subjetiva e pessoal. Por esse motivo,
+reflete o ânimo e as emoções.
+Essa função da linguagem predomina em poemas líricos e em prosa intimista.
+Como marcas textuais, temos o uso de interjeições, exclamações, reticências, vocativos, verbos
+em primeira pessoa, adjetivos valorativos.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            26
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+     Oh? como és linda, mulher que passas
+     Que me sacias e suplicias
+     Dentro das noites, dentro dos dias?
+     (Vinícius de Moraes)
+
+
+     Sinto que viver é inevitável. Posso na primavera ficar horas sentada fumando, apenas
+     sendo. Ser às vezes sangra. Mas não há como não sangrar pois é no sangue que sinto
+     a primavera. Dói. A primavera me dá coisas. Dá do que viver E sinto que um dia na
+     primavera é que vou morrer de amor pungente e coração enfraquecido.
+     (Clarice Lispector)
+FUNÇÃO FÁTICA:
+O foco da mensagem recai sobre o próprio “canal” em que ela é transmitida. Visa a testar,
+estabelecer, manter ou encerrar a comunicação.
+Nessa função se encaixam as saudações, os iniciadores de conversa, os marcadores
+conversacionais de confirmação: alô? Tá ouvindo? Tudo bem? Como vai? Dá licença? Certo? Ok?
+Entendeu? Todos comigo? Hein? Falou... Ok.. Bom dia...
+Vejamos a tirinha:
+
+Note que na tirinha do Cascão e do Cebolinha, o efeito de humor é construído justamente pelo
+uso da função fática.
+FUNÇÃO APELATIVA OU CONATIVA:
+O foco recai sobre o interlocutor, o ouvinte. A finalidade é convencê-lo ou influenciá-lo. Por isso,
+é permeada por discurso em segunda pessoa (Tu e Você) e verbos no imperativo.
+Por objetivar induzir o ouvinte a fazer algo, esta é a linguagem predominante em sermões e em
+propaganda.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  27
+        www.estrategiaconcursos.com.br                                                           137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+FUNÇÃO REFERENCIAL OU DENOTATIVA:
+A ênfase está no referente, isto é, no assunto, no conteúdo, na informação.
+A linguagem tende a ser objetiva, expositiva, e por isso costuma fazer uso de recursos
+impessoalizadores como a terceira pessoa, tempos verbais afirmativos como o futuro e o
+presente do indicativo.
+A linguagem é concisa e objetiva, típica dos textos jornalísticos, didáticos, científicos e outros
+que tenham como finalidade primária informar ou ensinar.
+
+
+FUNÇÃO POÉTICA OU CONOTATIVA:
+A ênfase está na própria mensagem, na forma em que é construída e transmitida (de forma
+criativa, elaborada, com recursos figurativos), diferentemente da função referencial, que foca no
+conteúdo em si.
+Essa é a linguagem literária, por isso, encontraremos recursos como figuras de estilo ou
+linguagem (linguagem conotativa, figurada), neologismos, construções criativas e
+deliberadamente recheadas de polissemia e ambiguidade.
+
+     Um texto pode ter indícios de várias funções de linguagem, mas uma será considerada
+     predominante.
+     Por exemplo, um texto poético pode também estar permeado pela linguagem
+     emotiva, com muitas referências ao próprio narrador/eu-lírico e seus sentimentos.
+     Porém, a função predominante será a poética.
+
+Vejamos alguns exemplos de poesia e anúncio criativo que exploram essa função:
+      “...Eu, que tantas vezes não tenho tido paciência para tomar banho,
+      Eu, que tantas vezes tenho sido ridículo, absurdo,
+      Que tenho enrolado os pés publicamente nos tapetes das etiquetas,
+      Que tenho sido grotesco, mesquinho, submisso e arrogante,
+      Que tenho sofrido enxovalhos e calado,
+      Que quando não tenho calado, tenho sido mais ridículo ainda...”
+                                                                   (Fernando Pessoa, Poema em linha reta)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        28
+        www.estrategiaconcursos.com.br                                                                137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+FUNÇÃO METALINGUÍSTICA:
+O foco está no código utilizado na transmissão da mensagem. O código é usado para explicar o
+próprio código, ou seja, a língua explica a língua.
+Esta aula é um exemplo, pois uso a linguagem para falar sobre a própria linguagem. Além disso,
+                                                       ==219a34==
+
+encontraremos a metalinguagem em verbetes de dicionários, em resenhas, em manuais de
+redação e gramáticas, em filmes que falam de filmes, em atores que interpretam atores, em
+poemas que falam sobre a poesia.
+A metalinguagem também ocorre em outras formas de expressão que não a prosa e a poesia.
+Observe as figuras abaixo:
+
+Para finalizar e facilitar seu entendimento e memorização, deixo aqui um resumo das funções que
+acabamos de estudar:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              29
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+(ALAP / 2020 - adaptada)
+Entrando na Câmara, verifiquei que a grandiosa representação que eu fazia do legislador, não se
+me tinha diminuído com o exame da opaca figura do doutor Castro. Era uma exceção, mas
+certamente os outros deviam ser quase semideuses, mais que homens, pois eu queria-os com
+força e com faculdades capazes de atender e de pesar tão vários fatos, tão desencontradas
+considerações, tantas e tão sutis condições da existência de cada e da de todos. Para tirar regras
+seguras para a vida total desse entrechoque de paixões, de desejos, de ideias e de vontades, o
+legislador tinha que ter a ciência da terra e a clarividade do céu e sentir bem nítido o alvo incerto
+para que marchamos, na bruma do futuro fugidio. Quanta penetração! Quanto amor! Que estudo
+e saber não lhe eram exigidos! Era preciso tudo, tudo! A Teologia e a Física, a Alquimia! ... Era
+preciso saber tudo e sentir tudo! Era na verdade um vasto e levantado ofício!
+
+
+Os elementos do texto estão predominantemente concentrados no emissor, explícito nas
+impressões e exclamações proferidas pelo narrador.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   30
+        www.estrategiaconcursos.com.br                                                            137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Comentários:
+Logo no início, percebe-se que a função emotiva é a que se destaca no texto uma vez que os
+verbos são conjugados em primeira pessoa, ou seja, o foco está em quem fala (emissor). Além
+disso, as impressões pessoais do emissor ficam explícitas com o uso de exclamações, que
+denotam certa admiração.
+Percebe-se que o emissor fica encantado. Por isso, pode-se dizer que a função do texto é a
+emotiva já que o foco está em suas impressões pessoais. Questão correta.
+Agora que já vimos toda a teoria, é hora de Praticar!
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                          31
+        www.estrategiaconcursos.com.br                                                  137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                QUESTÕES COMENTADAS - NARRAÇÃO - FGV
+   1. (FGV / PGM-NITERÓI / 2023)
+Um texto anônimo encontrado em um pequeno jornal de um bairro registrava: “Chamo-me
+Pedro Álvares Cabral. Quero dizer que acabo de descobrir uma terra que parece muito grande,
+habitada por gente estranha, que vive em completa inocência, pois não escondem seus corpos,
+como nós. Não sei o que acontecerá a este lugar no futuro, principalmente me preocupa o fato
+de virem descobrir muitas riquezas nele, mas espero que Deus o proteja dos homens. Daqui a
+alguns dias voltarei para Lisboa e darei as boas-novas ao rei. Vou registrar diariamente os
+acontecimentos mais notáveis dessa descoberta”.
+Sobre a estrutura desse pequeno texto, é correto afirmar que:
+A) neste caso, o narrador e o autor são a mesma pessoa;
+B) o foco principal da narrativa está na apresentação das diferenças entre os índios e os
+europeus;
+C) o narrador deste pequeno texto mostra uma visão nostálgica de um passado já distante;
+D) as características da linguagem empregada no texto tentam indicar que se trata de um
+momento já distante no tempo;
+E) o texto projeta uma visão futura positiva para o Brasil.
+Comentários:
+Inicialmente, é preciso distinguir "autor" de "narrador". O autor é quem cria a obra, o narrador é
+quem conta a história. No livro "Dom Casmurro", o autor é Machado de Assis, e o narrador é
+Bentinho.
+Não é Machado de Assis quem conta a história, nem bentinho quem escreve a obra.
+Contudo, no caso dessa questão, o relato é feito em nome próprio. O narrador é o próprio autor
+do texto, não há um terceiro fictício eleito para contar essa história:
+“Chamo-me Pedro Álvares Cabral. Quero dizer que acabo de descobrir uma terra que parece
+muito grande, habitada por gente estranha, que vive em completa inocência, pois não escondem
+seus corpos, como nós.
+Vejamos.
+B) Incorreto. Não podemos dizer que "o foco principal da narrativa está na apresentação das
+diferenças entre os índios e os europeus", porque há apenas um pequeno segmento apontando
+diferença: "não escondem seus corpos, como nós". O foco é informar o descobrimento.
+C) Incorreto. Não há nenhuma menção a qualquer passado já distante.
+D) Incorreto. No momento da narração, o texto está no presente.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                32
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+E) Incorreto. O texto projeta uma visão futura duvidosa, nem positiva, nem negativa: Não sei o
+que acontecerá a este lugar no futuro, principalmente me preocupa o fato de virem descobrir
+muitas riquezas nele, mas espero que Deus o proteja dos homens.
+Gabarito letra A.
+
+
+   2. (FGV / PGM-NITERÓI / 2023)
+Observe o texto narrativo a seguir. “São duas e meia da manhã. Cada vez que eu tento
+levantar-me, minha cabeça parece girar e tenho que apoiar-me na parede para não cair. Não sei
+exatamente o que está acontecendo, se este desconforto é fruto de bebida ou de remédios
+exagerados. Tento deitar de novo e procuro ficar imóvel para ver se o incômodo vai embora.
+Vamos ver...” A afirmativa adequada a esse fragmento de narração é:
+A) como na maioria dos textos narrativos, este também se utiliza prioritariamente do pretérito
+perfeito do indicativo;
+B) o texto exemplifica uma narrativa simultânea, em que o narrador relata os fatos no momento
+em que ocorrem;
+C) a narrativa mostra um momento íntimo, procurando inquietar o leitor sobre o estado psíquico
+do personagem;
+D) o texto narrativo acima é direto, sem qualquer interrupção dos fatos narrados;
+E) o texto mostra, como num diário, as impressões e observações do narrador sobre pequenos e
+grandes acontecimentos de sua vida diária.
+Comentários:
+A) Incorreto. O texto se utiliza prioritariamente do presente do indicativo;
+B) Correto. O texto exemplifica uma narrativa simultânea, em que o narrador relata os fatos no
+momento em que ocorrem: ele age e diz imediatamente o que sente:
+
+Cada vez que eu tento levantar-me, minha cabeça parece girar e tenho que apoiar-me na parede
+para não cair.
+
+Tento deitar de novo e procuro ficar imóvel para ver se o incômodo vai embora.
+
+Por isso também os verbos no presente.
+C) Incorreto. A narrativa mostra um momento íntimo, procurando inquietar o leitor sobre o estado
+físico do personagem;
+D) Incorreto. Há interrupção dos fatos narrados, com comentários do narrador;
+E) Incorreto. Não há observações do narrador sobre pequenos e grandes acontecimentos de sua
+vida diária; temos narração de um breve momento pontual: o narrador às duas da manhã.
+Gabarito letra B.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              33
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   3. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+“Qual é a verdadeira extensão da vida humana?” é um exemplo de frase em discurso direto que,
+se colocada em discurso indireto, deveria estar reescrita do seguinte modo:
+“Ele perguntou qual era a verdadeira extensão da vida humana”.
+Assinale a pergunta a seguir que está corretamente reescrita em discurso indireto.
+A) Qual é o seu nome? / Ele perguntou qual era o nome dela.
+B) Onde Pedro foi ontem? / Ele perguntou onde Pedro ia ontem.
+C) Bernardo chegará amanhã? / Ele perguntou se Bernardo chegava amanhã.
+D) Eles foram ontem ao cinema? / Ele perguntou se eles vão ontem ao cinema.
+E) Qual o preço pago pelo livro? / Ele perguntou qual seria o preço pago pelo livro.
+Comentário:
+Discurso direto é o discurso relatado, recontado, reformulado pelo narrador, em terceira pessoa.
+Por isso, há adaptação em verbos, pronomes e advérbios.
+Qual é o seu nome? / Ele perguntou qual era o nome dela.
+Notem que o presente virou pretérito imperfeito e o pronome possessivo “seu” virou “dela”, na
+terceira pessoa.
+Vejamos as demais:
+B) Onde Pedro foi ontem? / Ele perguntou onde Pedro fora ontem.
+C) Bernardo chegará amanhã? / Ele perguntou se Bernardo chegaria amanhã.
+D) Eles foram ontem ao cinema? / Ele perguntou se eles foram cinema no dia anterior.
+E) Qual o preço pago pelo livro? / Ele perguntou qual havia sido o preço pago pelo livro.
+Gabarito Letra A
+
+
+   4. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Leia com atenção o texto a seguir:
+“Ao levantar a cabeça ficou deslumbrado. Entre suas botas de borracha, negras, brilhantes, viu o
+rosto de seu companheiro mal barbeado, prematuramente velho. Fechou os olhos por um
+instante. Respirou. Logo percorreu com o olhar seu próprio corpo: a calça de tecido amarelo com
+as botas até o meio da perna; o cinto abaixo do umbigo; a camisa cáqui fazendo uma ruga, uma
+pequena elevação acima do cinto; a jaqueta aberta, grande, como as asas de um pássaro morto”.
+                                                                          (Contos completos, Inácio AldecoA)
+Assinale a afirmativa correta sobre esse segmento textual.
+A) trata-se de um texto narrativo, interrompido por um segmento descritivo.
+B) o texto é exclusivamente descritivo, tendo por objeto as roupas do personagem descrito.
+C) descrito em primeira pessoa, pode ser visto como um autorretrato.
+D) os segmentos descritivos do texto são de caráter objetivo, destacando-se aspectos negativos
+   da roupa descrita.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                          34
+        www.estrategiaconcursos.com.br                                                                   137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+E) a descrição realizada mostra o aspecto físico do personagem, mas também seu lado psíquico.
+Comentário:
+Questão direta. O texto é narrativo, mostra uma sequência de ações: levantou a cabeça, viu um
+rosto, fechou os olhos, respirou...
+Além disso, como é natural em textos narrativos, os personagens e a cena é descrita: botas de
+borracha, rosto mal barbeado, velho...
+É bom lembrar que dificilmente um trecho terá uma tipologia pura. A descrição normalmente
+permeia uma narração, como ocorre aqui.
+Gabarito Letra A
+
+
+   5. (FGV / MPE-RJ / OFICIAL / 2019)
+  Texto 4                                              ==219a34==
+
+Assim que toca o sinal indicando o fim das aulas, um grupo de alunos sai correndo das salas. Eles
+não estão com pressa de ir embora, como seria de se esperar após nove horas e meia de
+atividade escolar, mas para ir ao pátio, onde vão ensaiar para a fanfarra ou treinar handebol.
+Em um colégio onde 30% dos alunos repetiam ou abandonavam os estudos, houve um receio
+inicial em aumentar o tempo de classe, com o período integral. A solução surpreendeu, fez
+aumentar o interesse dos jovens pelos estudos e melhorou os indicadores educacionais da
+unidade.
+O primeiro parágrafo do texto 4 mistura dois tipos de textos, que são:
+A) narrativo / dissertativo-expositivo;
+B) narrativo / descritivo;
+C) descritivo / dissertativo-argumentativo;
+D) descritivo / dissertativo-expositivo;
+E) dissertativo-expositivo / dissertativo-argumentativo.
+Comentários:
+Note que o trecho “Assim que toca o sinal indicando o fim das aulas, um grupo de alunos sai
+correndo das salas” conta a cena e dá início a uma sequência de fatos. Além disso, o trecho “Eles
+não estão com pressa de ir embora, como seria de se esperar após nove horas e meia de
+atividade escolar, mas para ir ao pátio, onde vão ensaiar para a fanfarra ou treinar handebol”
+expõe a situação dos alunos. Gabarito letra A.
+
+
+   6. (FGV / PREF. DE SALVADOR - BA / PROFESSOR / 2019)
+“Oscar tinha um sítio. Um dia Oscar resolveu levar na camioneta um pouco de esterco do sítio,
+que era no interior de Minas, para o jardim de sua casa na capital. Na barreira foi interpelado
+pelo guarda:
+- O que é que o senhor está levando aí nesse saco?
+- Esterco – respondeu Oscar, farejando aborrecimento: - Por quê? Não lhe cheira bem?
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               35
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+- O senhor tem a guia? – o guarda perguntou, imperturbável.
+- Guia?
+- É preciso de uma guia, o senhor não sabia disso?”
+                                                                            Fernando Sabino, A mulher do vizinho
+
+
+Considerando-se que um texto narrativo supõe a sequência cronológica de ações ou
+acontecimentos, as formas verbais que documentam uma sequência temporal são
+A) tinha / resolveu levar.
+B) era / foi interpelado.
+C) foi interpelado / está levando.
+D) está levando / farejando.
+E) farejando / sabia.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. "Tinha" está flexionado no Pretérito Imperfeito do Indicativo e "resolveu levar", no
+Pretérito Perfeito do Indicativo. Assim, não há sequência temporal.
+B) ERRADA. "Era" está flexionado no Pretérito Imperfeito do Indicativo e "foi interpelado", no
+Pretérito Perfeito. Assim, não há sequência temporal.
+C) CERTA. A diferença na flexão verbal entre "foi interpelado" (Pretérito Perfeito) e "está
+levando" (Presente) permite que haja uma progressão temporal das ações.
+D) ERRADA. "Está levando" está flexionado no Presente do Indicativo e "farejando", no
+gerúndio. Como ambas as flexões estão relacionadas ao presente, não há sequência temporal.
+E) ERRADO. Não há relação no texto entre as ações que trazem os verbos ("farejando" e
+"sabia"), por isso não se pode falar em progressão. Gabarito letra C.
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                            36
+          www.estrategiaconcursos.com.br                                                                     137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+               QUESTÕES COMENTADAS - DESCRIÇÃO - FGV
+   1. (FGV / MPE-SP / 2023)
+Assinale a opção que apresenta a frase que exemplifica o gênero textual descritivo.
+A) Quem investe hoje na produção deveria receber um diploma de burrice.
+B) Fazer bons negócios é ver primeiro.
+C) Quando o assunto é dinheiro, todos os homens pertencem à mesma religião.
+D) Não fale sobre as minhas dívidas, a menos que você queira pagá-las.
+E) Desconfiai do primeiro movimento: é sempre generoso.
+Comentários:
+As bancas em geral enquadram verbetes e definições como textos "expositivos/explicativos".
+Contudo, no entendimento da FGV, textos que trazem "definições" são classificados como
+"descritivos".
+B) Fazer bons negócios é ver primeiro. (Definição do que é "fazer bons negócios" > texto
+descritivo).
+Em A, C e D, temos textos argumentativos, pois trazem, essencialmente, opiniões. Na letra E,
+temos um texto injuntivo, pois traz uma instrução, um comando, um conselho.
+Gabarito letra B.
+
+
+   2. (FGV / TJ-RN / 2023)
+Observe a seguinte descrição machadiana (Dom Casmurro) da casa onde mora o narrador e que
+procurou copiar a antiga casa onde morava na infância:
+"Construtor e pintor entenderam bem as indicações que lhes fiz: é o mesmo prédio assobradado,
+três janelas de frente, varanda ao fundo, as mesmas alcovas e salas. Na principal destas, a pintura
+do teto e das paredes é mais ou menos igual, umas grinaldas de flores miúdas e grandes
+pássaros que as tornam nos bicos, de espaço a espaço. Nos quatro cantos do teto as figuras das
+estações , e ao centro das paredes os medalhões de César, Augusto, Nero e Massinissa, com os
+nomes por baixo..."
+Sobre a estratégia descritiva empregada nesse texto, é correto afirmar que:
+A) a descrição é feita de cima para baixo, com inicial apreciação visual das partes superiores e,
+em seguida, das inferiores;
+B) o movimento descritivo parte do aspecto interior da casa para a visão do seu exterior;
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 37
+        www.estrategiaconcursos.com.br                                                          137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+C) a descrição inclui aspectos que implicitamente mostram a situação econômica do narrador e o
+gosto estético da família;
+D) o texto é construído com riqueza de detalhes e identificação objetiva de todos os elementos
+descritos;
+E) os elementos descritos no texto são frutos de impressões tácteis do narrador.
+Comentários:
+A) Incorreto. A descrição é feita de fora para dentro.
+B) Incorreto. O movimento descritivo parte do aspecto exterior da casa para a visão do seu
+interior;
+C) Correto. De fato, a descrição inclui aspectos que implicitamente mostram a situação
+econômica do narrador, como (medalhões de César, Augusto, Nero e Massinissa, medalhões de
+                                                       ==219a34==
+
+imperadores, que ornavam casas dos mais ricos) e também o gosto estético da família (umas
+grinaldas de flores miúdas e grandes pássaros que as tornam nos bicos, de espaço a espaço);
+D) Incorreto. Não é totalmente detalhado e objetivo, basta olhar a expressão "mais ou menos".
+E) Incorreto. Os elementos descritos no texto são frutos de impressões visuais do narrador.
+Gabarito letra C.
+
+
+   3. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+Observe o segmento textual a seguir.
+RADAR: Esse aparelho, que baseia seu funcionamento na reflexão de ondas hertzianas, toma seu
+nome das iniciais das palavras inglesas radio detection and ranging, equivalentes a “detecção e
+localização por rádio”.
+Esse segmento textual deve ser classificado como:
+A) argumentativo, com argumentos de base histórica;
+B) narrativo, com relato de etapas de uma invenção;
+C) descritivo, com explicações metalinguísticas;
+D) narrativo-descritivo, com informações ligadas ao tempo;
+E) argumentativo-narrativo, com defesa de ideias.
+Comentário:
+Aí vai uma jurisprudência FGV. Para essa banca, as definições são textos “descritivos”. Temos a
+definição de “Radar”, então a única resposta possível seria a letra C.
+Metalinguístico significa que o código é utilizado para falar de si mesmo; a língua portuguesa é
+usada para explicar a própria língua portuguesa.
+Gabarito Letra C
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 38
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   4. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto descritivo:
+“No final da rua, o trator levantava uma poeirada incrível, sujando todos os carros estacionados e
+o interior das residências. Mais próximo às casas, os operários arrastavam pedras para a
+construção de um paredão que cercaria o pequeno regato que ainda teimava em correr pelo
+local. Junto ao meu portão, a terra acumulada impedia a movimentação do que quer que fosse”.
+
+
+A estratégia empregada nessa descrição é bem definida do seguinte modo:
+A) a descrição mostra elementos de longe para perto da focalização descritiva.
+B) o texto apela particularmente para os sentidos da visão e da audição na transmissão de dados
+descritivos.
+C) a sequência descritiva parte do geral para o específico.
+D) o observador do texto não descreve integralmente a cena por não poder movimentar-se.
+E) o movimento do texto descritivo acima vai do alto para baixo, terminando por aproximar-se do
+observador.
+Comentário:
+Pessoal, percebam que parece ter havido um “zoom” na imagem. A descrição começa de longe,
+panoramicamente, olhando a rua, a fumaça como um todo. Depois, aproxima-se das casas.
+Depois, aproxima-se de uma casa específica, mostrando o portão.
+Em suma, a descrição mostra elementos de longe para perto, um foco cada vez mais próximo.
+Gabarito Letra A
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Dvorak aproximou-se do alto da colina e debruçou-se sobre uma pequena pedra para olhar a
+paisagem abaixo. Observou que havia uma grande caverna, cercada de vegetação, mas não
+conseguiu identificar a entrada. Fez um sinal para que o grupo o acompanhasse e começou a
+descer cuidadosamente a encosta.
+
+
+Acima aparece um pequeno texto narrativo; a frase, retirada desse texto, que mostra valor
+descritivo é:
+A) Dvorak aproximou-se do alto da colina;
+B) debruçou-se sobre uma pequena pedra;
+C) havia uma grande caverna, cercada de vegetação;
+D) não conseguiu identificar a entrada;
+E) Fez um sinal para que o grupo o acompanhasse.
+Comentários:
+Note que o trecho "grande caverna, cercada de vegetação" possui valor descritivo, pois qualifica
+a caverna. Gabarito: Letra C.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                39
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   6. (FGV / MPE-RJ / ANALISTA / 2019)
+Observe o seguinte texto descritivo a seguir.
+“A casa estava situada em centro de terreno; era bastante grande, com duas salas, quatro
+quartos, dois banheiros e um pequeno quintal. O piso de todos os cômodos era de cerâmica
+cinzenta e cada um deles possuía uma iluminação diferente”.
+
+
+Nesse caso, a estratégia discursiva parte:
+A) de longe para perto;
+B) de cima para baixo;
+C) das partes para o todo;
+D) de baixo para cima;
+E) do todo para as partes.
+Comentários:
+A estratégia discursiva do texto parte do todo (“casa”, “terreno”) para as partes (“salas, quatro
+quartos, dois banheiros e um pequeno quintal”).
+Gabarito letra E.
+
+
+   7. (FGV / MPE-RJ / ANALISTA / 2019)
+“No programa ‘O Brasil visto do alto’ só se observam as belezas do país”. Nesse pequeno texto
+há uma referência a uma marca dos textos descritivos que é:
+A) a impossibilidade de descrever todos os dados do real;
+B) a necessidade de só se descreverem alguns dos dados do que é observado;
+C) o desejo de se descreverem somente os dados esteticamente positivos;
+D) a limitação da posição do observador que o torna incapaz de descrever todos os dados do
+que observa;
+E) a dificuldade de o observador descrever dados que ele desconhece.
+Comentários:
+Há limitação, pois o olhar é unicamente pelo alto, que acaba por revelar apenas as belezas. Não
+conseguimos enxergar as outras faces.
+Gabarito letra D.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               40
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                 QUESTÕES COMENTADAS - INJUNÇÃO - FGV
+   1. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto:
+“Para fazer um bom cozido, eu aconselho, em primeiro lugar, a escolher carnes de excelente
+qualidade e, como segundo passo, comprar legumes em um pequeno vendedor, já que
+certamente eles serão mais frescos que os do supermercado. O tempo de cozimento é o pulo do
+gato: é preciso deixar perto de cinco horas em fogo brando. Os seus convidados irão felicitá-lo”.
+Tal estruturação textual faz com que esse texto seja um exemplo clássico do texto
+A) injuntivo, por centralizar sua estruturação em ordens ou conselhos.
+B) descritivo, por mostrar características e qualidades das realidades nomeadas.
+C) narrativo, por indicar as diversas etapas evolutivas na preparação de um prato.
+D) expositivo, por focalizar as preocupações básicas na preparação de um prato, sem
+interferência do enunciador.
+E) argumentativo, por defender uma tese apoiada em sua própria experiência.
+Comentário:
+Questão direta de tipologia: o texto injuntivo é aquele que dá instruções, comandos gerais, que
+ensina algum procedimento. Um dos exemplos mais clássicos é a receita culinária. Aqui, temos
+então um modelo do texto injuntivo ou instrucional.
+Gabarito Letra A
+
+
+   2. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+Há diferentes tipos de frases: A) declarativa - formula uma declaração, afirmativa ou negativa; B)
+imperativa ou injuntiva - expressa uma ordem ou uma proibição, um pedido ou um conselho; C)
+interrogativa - pergunta algo; D) exclamativa - traduz emoções, sentimentos.
+Assinale a frase abaixo que deve ser classificada como injuntiva.
+A) Você pode dizer-me as horas?
+B) Está quente aqui dentro!
+C) Você está muito anêmico!
+D) Que frio!
+E) Eu tenho a tua palavra de honra?
+Comentários:
+Pessoal, devemos buscar a resposta no próprio enunciado. A banca diz que frase injuntiva é a
+que, entre outras funções, faz um pedido.
+Temos um pedido apenas em: Você pode dizer-me as horas?
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                41
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Pela classificação proposta, teríamos:
+B) exclamativa.
+C) exclamativa.
+D) exclamativa.
+E) interrogativa.
+Gabarito Letra A
+
+                                                       ==219a34==
+
+        Receita Federal (Analista Tributário) Língua Portuguesa           42
+        www.estrategiaconcursos.com.br                                    137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+             QUESTÕES COMENTADAS - DISSERTAÇÃO - FGV
+   1.​ (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte fragmento de texto argumentativo, proferido por Rousseau:
+“Os pensamentos mais brilhantes podem surgir no cérebro de uma criança, ou os melhores
+termos em sua boca, assim como riquezas em suas mãos, sem que isso signifique que os
+pensamentos e as riquezas lhe pertençam; não há propriedade verdadeira de qualquer tipo nessa
+idade.
+As coisas ditas por uma criança não são para ela o que são para nós, nem mesmo ocorrem as
+mesmas ideias. Tais ideias são desprovidas, em sua mente, de ligações ou sequências; nada de
+fixo, nada de seguro em tudo o que ela pensa”.
+O encadeamento entre parágrafos é muito importante nos textos argumentativos; no caso desse
+texto, tal encadeamento é feito pela seguinte estratégia:
+A)​ aumentando a extensão do texto, por meio de novos exemplos das afirmações já realizadas
+    no parágrafo anterior.
+B)​ retomando as afirmações anteriores, com o acréscimo de argumentos de autoridade.
+C)​ esclarecendo uma afirmação anterior, com a apresentação de afirmações de caráter subjetivo.
+D)​ repetindo informações de modo a apresentar as mesmas ideias anteriores, com novas
+    palavras.
+E)​ modificando o que foi dito anteriormente, para a apresentação de algo mais científico.
+Comentário:
+Se o texto é argumentativo, teremos uma estrutura “tese + argumento”, materializada em
+“comentário + justificativa”.
+No primeiro parágrafo, temos o comentário: “não há propriedade verdadeira de qualquer tipo
+nessa idade”
+No segundo parágrafo, temos a justificativa: “As coisas ditas por uma criança não são para ela o
+que são para nós, nem mesmo ocorrem as mesmas ideias. Tais ideias são desprovidas, em sua
+mente, de ligações ou sequências; nada de fixo, nada de seguro em tudo o que ela pensa”
+Contudo, essa justificativa tem natureza subjetiva, pois simplesmente representa uma opinião do
+autor. Ele simplesmente afirma, sem grandes elaborações, que as coisas ditas por crianças não
+são fixas, nem seguras...
+Vejamos o erro das demais:
+A) Incorreto. Não há novos exemplos das afirmações já realizadas no parágrafo anterior.
+B) Incorreto. Não há argumentos de autoridade, apenas sua própria voz no texto.
+D) Incorreto. Não está repetindo informações, está justificando o parágrafo anterior.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               43
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+E) Incorreto. Não está modificando o que foi dito anteriormente, está apresentando um
+argumento pessoal, sem nada de mais científico.
+Gabarito Letra C
+
+
+   2.​ (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto argumentativo:
+“Creio que todos os brasileiros devem defender o respeito à nossa Constituição, principalmente
+pela proximidade das eleições. Não se pode aceitar que qualquer um dos poderes da República
+possa atentar contra essa base de segurança institucional, que é a nossa Carta Magna”.
+Sobre a estrutura argumentativa desse texto, assinale a observação adequada.
+A)​ a defesa da tese apresentada apela para argumentos de intimidação, em função das próximas
+    eleições.
+B)​ os argumentos apresentados se apoiam na autoridade dos defensores da tese.
+C)​ as opiniões do enunciador do texto servem de único argumento para a defesa da
+    Constituição.
+D)​ a estruturação do texto se utiliza do método indutivo, partindo do específico para o geral.
+E)​ a exemplificação é uma das estratégias do argumentador para a defesa do que entende como
+    correto.
+Comentário:
+Sejamos objetivos: o autor o utiliza o verbo “creio”, em primeira pessoa. Trata-se evidentemente
+de uma opinião. Se observarmos, perceberemos que ele basicamente repete essa opinião como
+se fosse um argumento:
+“brasileiros devem defender o respeito à constituição” (pois) não se pode aceitar atentar contra a
+constituição.
+Ou seja: tem que respeitar porque tem que respeitar.
+A) Incorreto. Não há intimidação, apenas uma repetição da opinião.
+B) Incorreto. Não há autoridade, apenas opinião própria.
+D) Incorreto. Não há exemplo, apenas repetição da opinião.
+Rigorosamente, poderíamos até dizer que o autor incidiu na falácia do círculo vicioso, pois
+basicamente repetiu a tese com outras palavras.
+Gabarito Letra C
+
+
+   3.​ (FGV – Cerimonialista Legislativo - Câmara Taubaté-SP / 2022)
+A maioria dos textos mostra um tipo de introdução qualquer, como uma preparação de terreno
+para o que vai ser abordado.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   44
+        www.estrategiaconcursos.com.br                                                            137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Observe o seguinte texto: “Quem joga bola é menino, menina brinca com boneca”, “Mulher que
+pratica esportes se masculiniza!” Durante séculos pensamentos desse tipo afastaram as mulheres
+dos esportes”.
+No caso desse texto, a introdução apresenta o seguinte tipo
+A) alusão histórica.
+B) interrogação.
+C) citação.
+D) definição.
+E) divisão.
+Comentário:
+São falas de terceiros, reproduzidas fielmente, entre aspas. São exemplos de discurso direto.
+Temos a técnica de introdução chamada “Citação”.       ==219a34==
+
+Gabarito Letra C
+
+
+   4.​ (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto, iniciado por uma interrogação:
+“Há remédio que possa ser utilizado contra o uso indiscriminado de agrotóxicos? O único
+caminho sensato, como faziam nossos antepassados, parece ser o do controle biológico das
+pragas”.
+Nesse caso, considerando-se o texto, a pergunta inicial
+A) não supõe uma resposta possível.
+B) já é respondida pelo próprio texto.
+C) mostra mais de uma possibilidade de resposta.
+D) é puramente retórica, ou seja, não é para ser respondida.
+E) tem a finalidade de provocar a curiosidade do leitor.
+Comentário:
+A pergunta trouxe uma resposta imediata: O único caminho sensato, como faziam nossos
+antepassados, parece ser o do controle biológico das pragas
+A) Incorreto. Já trouxe uma resposta possível.
+C) Incorreto. Mostra apenas uma possibilidade de resposta.
+D) Incorreto. Não é puramente retórica, pois foi respondida.
+E) Incorreto. Não há curiosidade, pois é respondida imediatamente.
+Gabarito Letra B
+
+
+   5.​ (FGV / MPE-RJ / ANALISTA / 2019)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             45
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+O segmento textual abaixo                 que     deve     ser    classificado   predominantemente   como
+dissertativo-argumentativo é:
+A) “A cozinha feliz, que consiste no casamento de produtos naturais, um com o outro, é a
+antítese da cozinha feita para impressionar”;
+B) “Restaurante sofisticado: aquele que serve comida fria de propósito”;
+C) “Aprendi que esparramar as ervilhas no prato dá a impressão de que você comeu mais e, por
+isso, eu as esparramei”;
+D) “Eu cozinho com vinho, às vezes até mesmo acrescento comida a ele”;
+E) “A comida era belíssima: folhas verdes com cenouras amarelas, cercadas de carne vermelha e
+pimentão verde”.
+Comentários:
+Observe que na Alternativa A, há a presença de linguagem culta, objetiva e sem presença de
+verbos     flexionados   na   primeira     pessoa. Essas são    características do    texto
+dissertativo-argumentativo. Gabarito letra A.
+
+
+   6.​ (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+“A redução da maioridade penal é urgente, pois, como mostram as pesquisas de opinião, 98%
+da nossa população apoia a redução da maioridade penal.”
+Nesse caso, a opinião expressa está apoiada em um argumento
+A) autoritário​​       ​
+B) narrativo​ ​        ​
+C) causal
+D) opinativo​ ​        ​
+E) tendencioso.
+Comentários:
+Note que, ao dizer que " como mostram as pesquisas de opinião", o autor quer dar a entender
+que essa é uma informação validada por uma autoridade no assunto. Quando há o uso desse
+tipo de recurso, dizemos que é um argumento de autoridade ou autoritário. Gabarito letra A.
+
+
+   7.​ (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019 - Adaptada)
+Em 18 de novembro de 2011, o jornal A Tarde publicou a seguinte manchete:
+"Babas’ roubam espaço de banhistas na orla de Salvador”.
+Sobre os componentes da manchete, pode-se afirmar que ela é construída de forma não
+opinativa, como recomenda a informação jornalística.
+Comentários:
+Note que a manchete é sim construída de forma opinativa. Essa ideia pode ser confirmada pelo
+emprego de "roubar" para dizer que há um aumento do número de "babas" na orla da praia.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        46
+        www.estrategiaconcursos.com.br                                                                 137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+O candidato deveria saber, inclusive que "baba", na Bahia, significa futebol e, na questão, está
+relacionado com os jogadores na praia. Questão incorreta.
+
+   8.​ (FGV / TJ-SC / ANALISTA / 2018)
+                                                      Texto 1
+                             Stephen Hawking, A Mente Que Superou Tudo
+Em reverência ao gênio que revolucionou o estudo da cosmologia, o mundo prestou tributo a
+Stephen Hawking no dia seguinte a sua morte. O cientista britânico, símbolo da superação, teve
+papel decisivo na divulgação científica e virou um ícone pop. (O Globo, 15/3/2018)
+
+
+O texto 1 é uma pequena notícia de primeira página de O Globo, cujo conteúdo é ampliado em
+reportagem no interior do jornal.
+A marca mais característica de ser este um texto resumido é:
+A) a presença marcante de frases curtas;
+B) a preferência por sinais de pontuação em lugar de conectivos;
+C) a ausência de adjetivos e advérbios;
+D) a seleção de temas de destaque;
+E) a utilização de verbos indicadores de ação rápida.
+Comentários:
+O resumo é um gênero textual com duas principais características: a síntese e a objetividade.
+Nele os pontos essenciais, ideias ou fatos principais que foram desenvolvidos no decorrer de
+outro texto são dispostos e apresentados.
+Todos os outros pontos das alternativas (“a presença marcante de frases curtas”; “a preferência
+por sinais de pontuação em lugar de conectivos”; “a ausência de adjetivos e advérbios” e “a
+utilização de verbos indicadores de ação rápida”) podem até aparecer em resumos, mas não
+caracterizam esse tipo textual.
+Gabarito letra D.
+
+
+   9.​ (FGV / TJ-CE / TÉCNICO / 2019)
+Observe o seguinte diálogo:
+A – Não há justiça sobre a terra.
+B – Por acaso, existe no céu?
+
+
+Sendo esse um texto argumentativo, o segundo argumentador apela para a seguinte estratégia:
+A) emprega um argumento de autoridade religiosa;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              47
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+B) utiliza-se de uma opinião pessoal como argumento;
+C) foge do assunto, apresentando uma pergunta;
+D) constrói um círculo vicioso;
+E) opõe-se ao primeiro, com apelo ao bom senso.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. Não há argumento de autoridade por B, ele apenas está mudando o foco da
+discussão.
+B) ERRADA. A mudança de foco não se faz por uma opinião, mas por uma pergunta.
+C) CERTA.
+D) ERRADA. Apenas pelo trecho apresentado não se pode afirmar que há um círculo vicioso.
+E) ERRADA. Não há oposição direta, mas mudança de foco. Gabarito: Letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            48
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   QUESTÕES COMENTADAS - FUNÇÕES DA LINGUAGEM - FGV
+   1. (FGV / CGE-PB / 2024)
+
+Texto 3
+“De origem ainda incerta, o pão, base da alimentação da quase totalidade dos seres humanos, é
+conhecido desde o período Neolítico. Inicialmente, era feito de grãos de cereais triturados com
+pedras, amassado com água e colocado sobre pedras quentes ou debaixo de cinzas para assar, o
+que resultava em um pão achatado, duro e seco”.
+A função de linguagem predominante no texto 3 é:
+A) metalinguística, pois explica a origem do vocábulo “pão”;
+B) emotiva, pois mostra opiniões pessoais de quem escreve;
+C) poética, pois constrói o texto com preocupações estéticas;
+D) referencial, pois fornece dados reais sobre a história do pão;
+E) conativa, pois tenta convencer o leitor das informações dadas.
+Comentários:
+O texto é objetivo, informativo, neutro e focado na realidade. Temos então um texto em que
+predomina a função referencial, com foco no conteúdo, na informação em si.
+Gabarito letra D.
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                            49
+          www.estrategiaconcursos.com.br                                                     137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                    LISTA DE QUESTÕES - NARRAÇÃO - FGV
+   1. (FGV / PGM-NITERÓI / 2023)
+Um texto anônimo encontrado em um pequeno jornal de um bairro registrava: “Chamo-me
+Pedro Álvares Cabral. Quero dizer que acabo de descobrir uma terra que parece muito grande,
+habitada por gente estranha, que vive em completa inocência, pois não escondem seus corpos,
+como nós. Não sei o que acontecerá a este lugar no futuro, principalmente me preocupa o fato
+de virem descobrir muitas riquezas nele, mas espero que Deus o proteja dos homens. Daqui a
+alguns dias voltarei para Lisboa e darei as boas-novas ao rei. Vou registrar diariamente os
+acontecimentos mais notáveis dessa descoberta”.
+Sobre a estrutura desse pequeno texto, é correto afirmar que:
+A) neste caso, o narrador e o autor são a mesma pessoa;
+B) o foco principal da narrativa está na apresentação das diferenças entre os índios e os
+europeus;
+C) o narrador deste pequeno texto mostra uma visão nostálgica de um passado já distante;
+D) as características da linguagem empregada no texto tentam indicar que se trata de um
+momento já distante no tempo;
+E) o texto projeta uma visão futura positiva para o Brasil.
+
+
+   2. (FGV / PGM-NITERÓI / 2023)
+Observe o texto narrativo a seguir. “São duas e meia da manhã. Cada vez que eu tento
+levantar-me, minha cabeça parece girar e tenho que apoiar-me na parede para não cair. Não sei
+exatamente o que está acontecendo, se este desconforto é fruto de bebida ou de remédios
+exagerados. Tento deitar de novo e procuro ficar imóvel para ver se o incômodo vai embora.
+Vamos ver...” A afirmativa adequada a esse fragmento de narração é:
+A) como na maioria dos textos narrativos, este também se utiliza prioritariamente do pretérito
+perfeito do indicativo;
+B) o texto exemplifica uma narrativa simultânea, em que o narrador relata os fatos no momento
+em que ocorrem;
+C) a narrativa mostra um momento íntimo, procurando inquietar o leitor sobre o estado psíquico
+do personagem;
+D) o texto narrativo acima é direto, sem qualquer interrupção dos fatos narrados;
+E) o texto mostra, como num diário, as impressões e observações do narrador sobre pequenos e
+grandes acontecimentos de sua vida diária.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             50
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   3. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+“Qual é a verdadeira extensão da vida humana?” é um exemplo de frase em discurso direto que,
+se colocada em discurso indireto, deveria estar reescrita do seguinte modo:
+“Ele perguntou qual era a verdadeira extensão da vida humana”.
+Assinale a pergunta a seguir que está corretamente reescrita em discurso indireto.
+A) Qual é o seu nome? / Ele perguntou qual era o nome dela.
+B) Onde Pedro foi ontem? / Ele perguntou onde Pedro ia ontem.
+C) Bernardo chegará amanhã? / Ele perguntou se Bernardo chegava amanhã.
+D) Eles foram ontem ao cinema? / Ele perguntou se eles vão ontem ao cinema.
+E) Qual o preço pago pelo livro? / Ele perguntou qual seria o preço pago pelo livro.
+                                                       ==219a34==
+
+   4. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Leia com atenção o texto a seguir:
+“Ao levantar a cabeça ficou deslumbrado. Entre suas botas de borracha, negras, brilhantes, viu o
+rosto de seu companheiro mal barbeado, prematuramente velho. Fechou os olhos por um
+instante. Respirou. Logo percorreu com o olhar seu próprio corpo: a calça de tecido amarelo com
+as botas até o meio da perna; o cinto abaixo do umbigo; a camisa cáqui fazendo uma ruga, uma
+pequena elevação acima do cinto; a jaqueta aberta, grande, como as asas de um pássaro morto”.
+                                                                          (Contos completos, Inácio AldecoA)
+Assinale a afirmativa correta sobre esse segmento textual.
+A) trata-se de um texto narrativo, interrompido por um segmento descritivo.
+B) o texto é exclusivamente descritivo, tendo por objeto as roupas do personagem descrito.
+C) descrito em primeira pessoa, pode ser visto como um autorretrato.
+D) os segmentos descritivos do texto são de caráter objetivo, destacando-se aspectos negativos
+   da roupa descrita.
+E) a descrição realizada mostra o aspecto físico do personagem, mas também seu lado psíquico.
+
+
+   5. (FGV / MPE-RJ / OFICIAL / 2019)
+  Texto 4
+Assim que toca o sinal indicando o fim das aulas, um grupo de alunos sai correndo das salas. Eles
+não estão com pressa de ir embora, como seria de se esperar após nove horas e meia de
+atividade escolar, mas para ir ao pátio, onde vão ensaiar para a fanfarra ou treinar handebol.
+Em um colégio onde 30% dos alunos repetiam ou abandonavam os estudos, houve um receio
+inicial em aumentar o tempo de classe, com o período integral. A solução surpreendeu, fez
+aumentar o interesse dos jovens pelos estudos e melhorou os indicadores educacionais da
+unidade.
+O primeiro parágrafo do texto 4 mistura dois tipos de textos, que são:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                          51
+        www.estrategiaconcursos.com.br                                                                   137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+A) narrativo / dissertativo-expositivo;
+B) narrativo / descritivo;
+C) descritivo / dissertativo-argumentativo;
+D) descritivo / dissertativo-expositivo;
+E) dissertativo-expositivo / dissertativo-argumentativo.
+
+
+   6. (FGV / PREF. DE SALVADOR - BA / PROFESSOR / 2019)
+“Oscar tinha um sítio. Um dia Oscar resolveu levar na camioneta um pouco de esterco do sítio,
+que era no interior de Minas, para o jardim de sua casa na capital. Na barreira foi interpelado
+pelo guarda:
+- O que é que o senhor está levando aí nesse saco?
+- Esterco – respondeu Oscar, farejando aborrecimento: - Por quê? Não lhe cheira bem?
+- O senhor tem a guia? – o guarda perguntou, imperturbável.
+- Guia?
+- É preciso de uma guia, o senhor não sabia disso?”
+                                                                            Fernando Sabino, A mulher do vizinho
+
+
+Considerando-se que um texto narrativo supõe a sequência cronológica de ações ou
+acontecimentos, as formas verbais que documentam uma sequência temporal são
+A) tinha / resolveu levar.
+B) era / foi interpelado.
+C) foi interpelado / está levando.
+D) está levando / farejando.
+E) farejando / sabia.
+
+                                                   GABARITO
+                                                       1. LETRA A
+                                                       2. LETRA B
+                                                       3. LETRA A
+                                                       4. LETRA A
+                                                       5. LETRA A
+                                                       6. LETRA C
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                            52
+          www.estrategiaconcursos.com.br                                                                     137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                    LISTA DE QUESTÕES - DESCRIÇÃO - FGV
+   1. (FGV / MPE-SP / 2023)
+Assinale a opção que apresenta a frase que exemplifica o gênero textual descritivo.
+A) Quem investe hoje na produção deveria receber um diploma de burrice.
+B) Fazer bons negócios é ver primeiro.
+C) Quando o assunto é dinheiro, todos os homens pertencem à mesma religião.
+D) Não fale sobre as minhas dívidas, a menos que você queira pagá-las.
+E) Desconfiai do primeiro movimento: é sempre generoso.
+
+
+   2. (FGV / TJ-RN / 2023)
+Observe a seguinte descrição machadiana (Dom Casmurro) da casa onde mora o narrador e que
+procurou copiar a antiga casa onde morava na infância:
+"Construtor e pintor entenderam bem as indicações que lhes fiz: é o mesmo prédio assobradado,
+três janelas de frente, varanda ao fundo, as mesmas alcovas e salas. Na principal destas, a pintura
+do teto e das paredes é mais ou menos igual, umas grinaldas de flores miúdas e grandes
+pássaros que as tornam nos bicos, de espaço a espaço. Nos quatro cantos do teto as figuras das
+estações , e ao centro das paredes os medalhões de César, Augusto, Nero e Massinissa, com os
+nomes por baixo..."
+Sobre a estratégia descritiva empregada nesse texto, é correto afirmar que:
+A) a descrição é feita de cima para baixo, com inicial apreciação visual das partes superiores e,
+em seguida, das inferiores;
+B) o movimento descritivo parte do aspecto interior da casa para a visão do seu exterior;
+C) a descrição inclui aspectos que implicitamente mostram a situação econômica do narrador e o
+gosto estético da família;
+D) o texto é construído com riqueza de detalhes e identificação objetiva de todos os elementos
+descritos;
+E) os elementos descritos no texto são frutos de impressões tácteis do narrador.
+
+
+   3. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+Observe o segmento textual a seguir.
+RADAR: Esse aparelho, que baseia seu funcionamento na reflexão de ondas hertzianas, toma seu
+nome das iniciais das palavras inglesas radio detection and ranging, equivalentes a “detecção e
+localização por rádio”.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 53
+        www.estrategiaconcursos.com.br                                                          137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Esse segmento textual deve ser classificado como:
+A) argumentativo, com argumentos de base histórica;
+B) narrativo, com relato de etapas de uma invenção;
+C) descritivo, com explicações metalinguísticas;
+D) narrativo-descritivo, com informações ligadas ao tempo;
+E) argumentativo-narrativo, com defesa de ideias.
+
+
+   4. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto descritivo:
+“No final da rua, o trator levantava uma poeirada incrível, sujando todos os carros estacionados e
+o interior das residências. Mais próximo às casas, os operários arrastavam pedras para a
+                                                       ==219a34==
+
+construção de um paredão que cercaria o pequeno regato que ainda teimava em correr pelo
+local. Junto ao meu portão, a terra acumulada impedia a movimentação do que quer que fosse”.
+
+
+A estratégia empregada nessa descrição é bem definida do seguinte modo:
+A) a descrição mostra elementos de longe para perto da focalização descritiva.
+B) o texto apela particularmente para os sentidos da visão e da audição na transmissão de dados
+descritivos.
+C) a sequência descritiva parte do geral para o específico.
+D) o observador do texto não descreve integralmente a cena por não poder movimentar-se.
+E) o movimento do texto descritivo acima vai do alto para baixo, terminando por aproximar-se do
+observador.
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Dvorak aproximou-se do alto da colina e debruçou-se sobre uma pequena pedra para olhar a
+paisagem abaixo. Observou que havia uma grande caverna, cercada de vegetação, mas não
+conseguiu identificar a entrada. Fez um sinal para que o grupo o acompanhasse e começou a
+descer cuidadosamente a encosta.
+Acima aparece um pequeno texto narrativo; a frase, retirada desse texto, que mostra valor
+descritivo é:
+A) Dvorak aproximou-se do alto da colina;
+B) debruçou-se sobre uma pequena pedra;
+C) havia uma grande caverna, cercada de vegetação;
+D) não conseguiu identificar a entrada;
+E) Fez um sinal para que o grupo o acompanhasse.
+
+
+   6. (FGV / MPE-RJ / ANALISTA / 2019)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                54
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Observe o seguinte texto descritivo a seguir.
+“A casa estava situada em centro de terreno; era bastante grande, com duas salas, quatro
+quartos, dois banheiros e um pequeno quintal. O piso de todos os cômodos era de cerâmica
+cinzenta e cada um deles possuía uma iluminação diferente”.
+
+
+Nesse caso, a estratégia discursiva parte:
+A) de longe para perto;
+B) de cima para baixo;
+C) das partes para o todo;
+D) de baixo para cima;
+E) do todo para as partes.
+
+
+   7. (FGV / MPE-RJ / ANALISTA / 2019)
+“No programa ‘O Brasil visto do alto’ só se observam as belezas do país”. Nesse pequeno texto
+há uma referência a uma marca dos textos descritivos que é:
+A) a impossibilidade de descrever todos os dados do real;
+B) a necessidade de só se descreverem alguns dos dados do que é observado;
+C) o desejo de se descreverem somente os dados esteticamente positivos;
+D) a limitação da posição do observador que o torna incapaz de descrever todos os dados do
+que observa;
+E) a dificuldade de o observador descrever dados que ele desconhece.
+
+                                                 GABARITO
+                                                     1. LETRA B
+                                                     2. LETRA C
+                                                     3. LETRA C
+                                                     4. LETRA A
+                                                     5. LETRA C
+                                                     6. LETRA E
+                                                     7. LETRA D
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            55
+        www.estrategiaconcursos.com.br                                                    137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                     LISTA DE QUESTÕES - INJUNÇÃO - FGV
+   1. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto:
+“Para fazer um bom cozido, eu aconselho, em primeiro lugar, a escolher carnes de excelente
+qualidade e, como segundo passo, comprar legumes em um pequeno vendedor, já que
+certamente eles serão mais frescos que os do supermercado. O tempo de cozimento é o pulo do
+gato: é preciso deixar perto de cinco horas em fogo brando. Os seus convidados irão felicitá-lo”.
+Tal estruturação textual faz com que esse texto seja um exemplo clássico do texto
+A) injuntivo, por centralizar sua estruturação em ordens ou conselhos.
+B) descritivo, por mostrar características e qualidades das realidades nomeadas.
+C) narrativo, por indicar as diversas etapas evolutivas na preparação de um prato.
+D) expositivo, por focalizar as preocupações básicas na preparação de um prato, sem
+interferência do enunciador.
+E) argumentativo, por defender uma tese apoiada em sua própria experiência.
+
+
+   2. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+Há diferentes tipos de frases: A) declarativa - formula uma declaração, afirmativa ou negativa; B)
+imperativa ou injuntiva - expressa uma ordem ou uma proibição, um pedido ou um conselho; C)
+interrogativa - pergunta algo; D) exclamativa - traduz emoções, sentimentos.
+Assinale a frase abaixo que deve ser classificada como injuntiva.
+A) Você pode dizer-me as horas?
+B) Está quente aqui dentro!
+C) Você está muito anêmico!
+D) Que frio!
+E) Eu tenho a tua palavra de honra?
+
+                                                 GABARITO
+                                                     1. LETRA A
+                                                     2. LETRA A
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                56
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                  LISTA DE QUESTÕES - DISSERTAÇÃO - FGV
+   1. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte fragmento de texto argumentativo, proferido por Rousseau:
+“Os pensamentos mais brilhantes podem surgir no cérebro de uma criança, ou os melhores
+termos em sua boca, assim como riquezas em suas mãos, sem que isso signifique que os
+pensamentos e as riquezas lhe pertençam; não há propriedade verdadeira de qualquer tipo nessa
+idade.
+As coisas ditas por uma criança não são para ela o que são para nós, nem mesmo ocorrem as
+mesmas ideias. Tais ideias são desprovidas, em sua mente, de ligações ou sequências; nada de
+fixo, nada de seguro em tudo o que ela pensa”.
+O encadeamento entre parágrafos é muito importante nos textos argumentativos; no caso desse
+texto, tal encadeamento é feito pela seguinte estratégia:
+A) aumentando a extensão do texto, por meio de novos exemplos das afirmações já realizadas
+   no parágrafo anterior.
+B) retomando as afirmações anteriores, com o acréscimo de argumentos de autoridade.
+C) esclarecendo uma afirmação anterior, com a apresentação de afirmações de caráter subjetivo.
+D) repetindo informações de modo a apresentar as mesmas ideias anteriores, com novas
+   palavras.
+E) modificando o que foi dito anteriormente, para a apresentação de algo mais científico.
+
+
+   2. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto argumentativo:
+“Creio que todos os brasileiros devem defender o respeito à nossa Constituição, principalmente
+pela proximidade das eleições. Não se pode aceitar que qualquer um dos poderes da República
+possa atentar contra essa base de segurança institucional, que é a nossa Carta Magna”.
+Sobre a estrutura argumentativa desse texto, assinale a observação adequada.
+A) a defesa da tese apresentada apela para argumentos de intimidação, em função das próximas
+   eleições.
+B) os argumentos apresentados se apoiam na autoridade dos defensores da tese.
+C) as opiniões do enunciador do texto servem de único argumento para a defesa da
+   Constituição.
+D) a estruturação do texto se utiliza do método indutivo, partindo do específico para o geral.
+E) a exemplificação é uma das estratégias do argumentador para a defesa do que entende como
+   correto.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  57
+        www.estrategiaconcursos.com.br                                                           137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   3. (FGV – Cerimonialista Legislativo - Câmara Taubaté-SP / 2022)
+A maioria dos textos mostra um tipo de introdução qualquer, como uma preparação de terreno
+para o que vai ser abordado.
+Observe o seguinte texto: “Quem joga bola é menino, menina brinca com boneca”, “Mulher que
+pratica esportes se masculiniza!” Durante séculos pensamentos desse tipo afastaram as mulheres
+dos esportes”.
+No caso desse texto, a introdução apresenta o seguinte tipo
+A) alusão histórica.
+B) interrogação.
+C) citação.
+D) definição.
+E) divisão.
+
+
+   4. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte texto, iniciado por uma interrogação:
+“Há remédio que possa ser utilizado contra o uso indiscriminado de agrotóxicos? O único
+caminho sensato, como faziam nossos antepassados, parece ser o do controle biológico das
+pragas”.
+Nesse caso, considerando-se o texto, a pergunta inicial
+A) não supõe uma resposta possível.
+B) já é respondida pelo próprio texto.
+C) mostra mais de uma possibilidade de resposta.
+D) é puramente retórica, ou seja, não é para ser respondida.
+E) tem a finalidade de provocar a curiosidade do leitor.
+
+
+   5. (FGV / MPE-RJ / ANALISTA / 2019)
+O segmento textual abaixo                 que     deve     ser    classificado   predominantemente   como
+dissertativo-argumentativo é:
+A) “A cozinha feliz, que consiste no casamento de produtos naturais, um com o outro, é a
+antítese da cozinha feita para impressionar”;
+B) “Restaurante sofisticado: aquele que serve comida fria de propósito”;
+C) “Aprendi que esparramar as ervilhas no prato dá a impressão de que você comeu mais e, por
+isso, eu as esparramei”;
+D) “Eu cozinho com vinho, às vezes até mesmo acrescento comida a ele”;
+E) “A comida era belíssima: folhas verdes com cenouras amarelas, cercadas de carne vermelha e
+pimentão verde”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        58
+        www.estrategiaconcursos.com.br                                                                 137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   6. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+“A redução da maioridade penal é urgente, pois, como mostram as pesquisas de opinião, 98%
+da nossa população apoia a redução da maioridade penal.”
+Nesse caso, a opinião expressa está apoiada em um argumento
+A) autoritário
+B) narrativo
+C) causal
+D) opinativo
+E) tendencioso.
+
+
+   7. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019 - Adaptada)
+                                                       ==219a34==
+
+Em 18 de novembro de 2011, o jornal A Tarde publicou a seguinte manchete:
+"Babas’ roubam espaço de banhistas na orla de Salvador”.
+Sobre os componentes da manchete, pode-se afirmar que ela é construída de forma não
+opinativa, como recomenda a informação jornalística.
+
+
+   8. (FGV / TJ-SC / ANALISTA / 2018)
+                                                      Texto 1
+                             Stephen Hawking, A Mente Que Superou Tudo
+Em reverência ao gênio que revolucionou o estudo da cosmologia, o mundo prestou tributo a
+Stephen Hawking no dia seguinte a sua morte. O cientista britânico, símbolo da superação, teve
+papel decisivo na divulgação científica e virou um ícone pop. (O Globo, 15/3/2018)
+
+
+O texto 1 é uma pequena notícia de primeira página de O Globo, cujo conteúdo é ampliado em
+reportagem no interior do jornal.
+A marca mais característica de ser este um texto resumido é:
+A) a presença marcante de frases curtas;
+B) a preferência por sinais de pontuação em lugar de conectivos;
+C) a ausência de adjetivos e advérbios;
+D) a seleção de temas de destaque;
+E) a utilização de verbos indicadores de ação rápida.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             59
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   9. (FGV / TJ-CE / TÉCNICO / 2019)
+Observe o seguinte diálogo:
+A – Não há justiça sobre a terra.
+B – Por acaso, existe no céu?
+Sendo esse um texto argumentativo, o segundo argumentador apela para a seguinte estratégia:
+A) emprega um argumento de autoridade religiosa;
+B) utiliza-se de uma opinião pessoal como argumento;
+C) foge do assunto, apresentando uma pergunta;
+D) constrói um círculo vicioso;
+E) opõe-se ao primeiro, com apelo ao bom senso.
+
+                                                 GABARITO
+
+                                                     1. LETRA C
+                                                     2. LETRA C
+                                                     3. LETRA C
+                                                     4. LETRA B
+                                                     5. LETRA A
+                                                     6. LETRA A
+                                                   7. INCORRETA
+                                                     8. LETRA D
+                                                     9. LETRA C
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           60
+        www.estrategiaconcursos.com.br                                                    137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+          LISTA DE QUESTÕES - FUNÇÕES DA LINGUAGEM - FGV
+   1. (FGV / CGE-PB / 2024)
+
+Texto 3
+
+“De origem ainda incerta, o pão, base da alimentação da quase totalidade dos seres humanos, é
+conhecido desde o período Neolítico. Inicialmente, era feito de grãos de cereais triturados com
+pedras, amassado com água e colocado sobre pedras quentes ou debaixo de cinzas para assar, o
+que resultava em um pão achatado, duro e seco”.
+
+
+A função de linguagem predominante no texto 3 é:
+A) metalinguística, pois explica a origem do vocábulo “pão”;
+B) emotiva, pois mostra opiniões pessoais de quem escreve;
+C) poética, pois constrói o texto com preocupações estéticas;
+D) referencial, pois fornece dados reais sobre a história do pão;
+E) conativa, pois tenta convencer o leitor das informações dadas.
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                           61
+          www.estrategiaconcursos.com.br                                                    137
+
+                                       
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 14
+
+                                               GABARITO
+                                                   1. LETRA D
+
+                                                     ==219a34==
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           62
+      www.estrategiaconcursos.com.br                                    137
+
+                                   
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                       NOÇÕES INICIAIS
+Fala aí, pessoal! Tudo bem com vocês? Espero que sim!
+Nesta aula, temos um grande desafio: finalmente entender as questões de interpretação da FGV de uma
+forma clara o suficiente que permita prever e acertar o que virá na nossa prova. Muita gente odeia a FGV,
+por achar que as questões são arbitrárias ou sem cabimento, alguns inclusive optam por nem estudar
+profundamente o edital de Português por achar que "não vale a pena", "vou errar de qualquer forma".
+Calma! Calma! Não é bem assim!
+É bem verdade que a FGV elabora questões difíceis, com uma linguagem própria e desafiadora, e muitas
+vezes "entubou" nos alunos gabaritos muito controversos ou notoriamente incorretos. No entanto,
+observando a banca nos últimos anos, podemos perceber que o maior desafio é realmente conhecer os
+"modelos" e a "forma de cobrança", traduzir os enunciados e descobrir qual é o cerne das questões, muitas
+vezes oculto por um enunciado nebuloso.
+A FGV "oculta" em suas questões conhecimentos profundos de lógica, argumentação, semântica, linguística
+e pragmática. Por exemplo, no edital pode aparecer apenas "texto argumentativo" ou até "tipologia textual",
+mas, nas questões em si, ela vai exigir conhecimento de "silogismo, método dedutivo, indutivo, analogias,
+estratégias argumentativas, falácias", entre outros temas específicos, e isso vai aparecer de maneira bem
+vaga nas alternativas.
+Por outro lado, resolvendo um bom número de questões e observando os conceitos mais recorrentes,
+começamos a achar as questões mais "familiares", como ocorre com as demais bancas.
+Em suma, quero dizer que é sim possível "mapear" a FGV e acertar a maior parte das questões com algum
+nível de previsibilidade, desde que façamos uma preparação detalhada e específica para ela. Somente
+estudando com foco na banca, com entendimentos e teorias próprios da banca, é que vocês finalmente
+conseguirão tirar essa "pedra no sapato".
+Venham comigo; ao final desta aula, vocês certamente vão achar o "inimigo" muito menos apavorante do
+que antes. Vai valer muito a pena!
+
+                                             INFERÊNCIAS
+Quando estudamos "interpretação de texto", aprendemos que há questões mais diretas, mais literais, cuja
+resposta repousa numa mera consulta à literalidade do texto; esse tipo de questão é chamado didaticamente
+de "questão de recorrência ao texto" ou de "compreensão do texto", justamente por ser normalmente
+resolvida com uma leitura mais superficial do que está explícito. Basicamente, o aluno só precisa encontrar
+uma "paráfrase", isto é, uma reescritura de parte do texto, com outras palavras, mas sentido notoriamente
+equivalente ao da alternativa ou item analisado.
+Exemplos de questões de "recorrência"
+FGV / PREF. MANAUS / 2022
+“Os mais preciosos ingredientes de uma refeição são as pessoas que a compartilham.”
+Segundo esse pensamento, a melhor coisa de uma refeição é(são)
+(A) a companhia que está conosco.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         63
+        www.estrategiaconcursos.com.br                                                                  137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+(B) os temperos utilizados nos pratos.
+(C) o sabor que mostra a comida.
+(D) a quantidade servida.
+(E) o local em que ela é realizada.
+Comentários:
+Literalíssima! Sejamos práticos: "as pessoas que compartilham a refeição" são a companhia, não é mesmo?
+Se são "os mais preciosos ingredientes", são a "melhor coisa". Meros sinônimos, paráfrases: reescrituras com
+mesmo sentido.
+Gabarito letra A.
+FGV / PREF. MANAUS / 2022
+“Os que se empanturram e os que se embebedam não sabem nem comer nem beber”.
+Essa frase condena
+(A) os gastos exagerados com a comida.
+(B) o tempo que se perde ao comer e beber.
+(C) o fato de comer sem horários fixos.
+(D) o hábito de beber durante as refeições.
+(E) os exageros nas refeições.
+Comentários:
+"Comer" é um verbo "neutro"; já "empanturrar" denota comer exageradamente. O mesmo vale para
+"embebedar-se". Então, o que a frase condena não é o comer ou o beber, mas sim o excesso, o exagero. Não
+há relação alguma com gastos, tempo, horários fixos ou beber comendo.
+Gabarito letra E.
+Por outro lado, existem as questões menos óbvias, que dependem de uma análise mais cuidadosa, baseada
+em pistas textuais; estas têm como fundamento alguma informação implícita, algo mais subentendido ou
+pressuposto no texto, vão depender de um raciocínio mais sofisticado, de deduções, conclusões baseadas
+em premissas. São chamadas de questões de "interpretação" propriamente dita, ou questões de
+"inferência".
+Exemplos de questões de "inferência"
+FGV / PREF. MANAUS / 2022
+Um comediante disse a seguinte frase: “Adoro a sogra da minha mulher.”
+Nesse caso, ele está dizendo que adora sua
+(A) mãe.       (B) filha.      (C) cunhada. (D) tia.              (E) irmã.
+Comentários:
+A sogra de um homem é a mãe do seu cônjuge; logo, a sogra da mulher é a mãe do cônjuge, do comediante.
+Gabarito letra A.
+A inferência é um raciocínio concluído ou desenvolvido a partir de indícios, de pistas, de sinais, de vestígios:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                              64
+        www.estrategiaconcursos.com.br                                                                      137
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+a dedução é um tipo de inferência. De uma informação A se extrai uma informação B. Para fazer essas
+deduções, é preciso analisar "relações lógicas" diversas, que dão fundamento, sentido, legitimidade,
+coerência às afirmações que são feitas. Aqui, associamos a lógica e a argumentação.
+De forma cotidiana, menos técnica, chamamos as opiniões de "argumentos", os fundamentos de "tese" ou
+até misturamos os conceitos, chamando qualquer ideia apresentada de "argumentação". Conceitualmente,
+de forma rigorosa, "tese" é uma proposição, é uma ideia, uma opinião; "argumento" é o fundamento, a
+justificativa, o embasamento lógico que sustenta essa ideia. Argumento é uma afirmação que serve de
+suporte/base/fundamento para uma outra. Então, "tese" + "argumento" é basicamente "opinião" +
+"justificativa".
+Resumindo, o processo argumentativo que vai aparecer em nossa prova é oferecer uma tese e algum tipo
+de sustentação a ela, para que o leitor concorde com a tese, para que este chegue "à mesma conclusão" do
+orador/argumentador ou que reconheça que a tese é razoável, lógica, fundamentada na razão. Raciocínios
+adequados dão coerência e consistência às cadeias de pensamento.
+As "relações lógicas" que embasam uma conclusão são infinitas, mas podemos citar como as mais
+importantes: a dedução, a indução, a explicação, a causalidade, a analogia, a exemplificação, a citação de
+autoridades e a de dados estatísticos.
+Precisamos dominar essas relações lógicas, entendidas aqui como o tipo de raciocínio ou estratégia
+argumentativa utilizados para "sustentar/embasar/fundamentar" uma determinada ideia. Vamos em frente!
+
+                                    RACIOCÍNIO DEDUTIVO
+O raciocínio dedutivo é aquele que parte do geral para o particular (esse conceito despenca em prova!). De
+uma regra geral, é possível extrair uma conclusão a respeito de um caso específico. Normalmente, vai
+aparecer com uma estrutura lógica chamada de "silogismo", composta por duas premissas e uma conclusão.
+Vejamos exemplos da própria FGV:
+       Todo carioca é brasileiro.
+       João é carioca.
+       João é brasileiro.
+A proposição "Todo carioca é brasileiro" traz uma regra geral "todo"; a proposição "João é carioca" é o caso
+particular em análise; " João é brasileiro" é a conclusão particular extraída do raciocínio, que partiu de uma
+regra geral. A conclusão válida deve decorrer das premissas, assumidas como verdadeiras. Vejamos mais
+um exemplo:
+       Todos os que têm febre estão doentes.
+       João tem febre.
+       João está doente.
+Nessa relação lógica, podemos subentender um "se —> então": SE "Todos os que têm febre estão doentes"
+e "João tem febre"; LOGO/ENTÃO: "João está doente".
+Agora, cuidado: muitas vezes temos problemas no raciocínio dedutivo, que vão acarretar uma conclusão
+inválida. Um dos erros mais comuns é confundir a regra geral com seu inverso. Como assim? Observe:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                            65
+        www.estrategiaconcursos.com.br                                                                    137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Todo carioca é brasileiro (todo A é B), mas isso não implica o seu contrário: Todo brasileiro é carioca (todo B
+é A). Temos brasileiros que não são cariocas, como mineiros, gaúchos, baianos. Basta que algum/pelo menos
+um brasileiro não seja carioca para invalidar o raciocínio.
+Isso é o que a lógica chama de condições suficientes ou necessárias. Ser carioca é condição suficiente para
+ser brasileiro, basta ser carioca para estar contido no conjunto dos brasileiros. No entanto, não é condição
+necessária, pois é possível ser brasileiro sem necessariamente ser carioca.
+Vejamos outro exemplo de conclusão inválida:
+       Se há rosas, então há espinhos.
+       Há espinhos.
+       Logo, há rosas.
+Haver rosas é suficiente para haver espinhos; mas haver espinhos não necessariamente implica haver rosas.
+Pode haver espinhos de outra fonte. Parece óbvio aqui, mas isso aparece recorrentemente em questões
+incorretas. Veja:
+       (FGV- SEDUC AM)
+       Todo supermercado vende refrigerante
+       Meu posto de gasolina vende refrigerante
+       Meu posto de gasolina é um supermercado
+Temos um erro de raciocínio, isto é, uma falácia. Todo supermercado vende refrigerante, ok. Mas será que
+todo local que vende refrigerante é um supermercado? Logicamente, não!
+Guardem isso ao analisar o método dedutivo: todo A é B, mas nem todo B é A.
+Vejamos aqui outros exemplos de raciocínio dedutivo, todos de provas recentes da FGV:
+      Todos os dias o metrô está cheio; hoje deve estar também;
+      Após as chuvas, as ruas ficam alagadas; hoje deve ter chovido durante toda a noite;
+      A torcida do Corinthians está presente em todos os jogos; domingo não deve ser diferente;
+      Os carros brasileiros ainda mostram deficiências; o meu automóvel enguiçou ontem.
+
+FGV / TCE AM / 2021
+Texto 1 – O tribunal do júri
+“São pagos todos os que compõem o tribunal do júri. O presidente, o procurador da justiça, os advogados,
+os porteiros, possivelmente as testemunhas; a que título só os jurados, que deixam seus negócios, hão de
+trabalhar de graça?” (Machado de Assis)
+Na argumentação de Machado de Assis (texto 1) foi utilizado um processo de raciocínio que:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                             66
+        www.estrategiaconcursos.com.br                                                                     137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+A parte do geral para o particular, caracterizando o que se denomina método dedutivo;
+B cita um depoimento de autoridade incontestável para, em seguida, propor obediência a esse depoimento;
+C demonstra historicamente uma verdade para mostrar o que questiona como um absurdo;
+D indica uma situação particular, generalizando-a, o que se denomina método indutivo;
+E cria uma situação absurda para opor-se a ela.
+Comentários:
+Aqui temos claro exemplo de raciocínio dedutivo. Parte-se do geral— "todos os que compõem o tribunal do
+júri são pagos"— para o particular: "os jurados são pagos". Organizando em silogismo, modelo do raciocínio
+dedutivo, temos:
+São pagos todos os que compõem o tribunal do júri.
+Os jurados compõem o tribunal do júri.
+Logo, os jurados são pagos.
+Vejamos o erro das outras:
+B cita um depoimento de autoridade incontestável para, em seguida, propor obediência a esse depoimento;
+Incorreto. Não há discurso de autoridade aqui, muito menos incontestável.
+C demonstra historicamente uma verdade para mostrar o que questiona como um absurdo;
+Incorreto. Não há nenhum tipo de consideração histórica, referência ao passado, nada. Tampouco há esse
+tipo de valoração como "absurdo". Aliás, segundo o raciocínio, os jurados receberem seria bem "razoável",
+já que todos recebem.
+D indica uma situação particular, generalizando-a, o que se denomina método indutivo;
+Incorreto. Parte de uma regra geral: "todos são pagos".
+E cria uma situação absurda para opor-se a ela.
+Incorreto. Essa alternativa representa a falácia do espantalho, que não tem relação alguma com essa
+questão.
+Gabarito letra A
+FGV / IBGE / 2021
+Um pequeno adorno doméstico traz estas palavras: “Uma casa com cachorro é um lar feliz”. Deduz-se dessa
+frase que:
+A uma casa sem cachorro é um lar infeliz;
+B a causa da felicidade de um lar é a presença de um cão;
+C os cães são os melhores amigos do homem;
+D um cachorro traz felicidade aos casais sem filhos;
+E seria conveniente que todos tivéssemos cachorros.
+Comentários:
+Essa questão foi considerada dificílima, mas veja que pode ser resolvida pela aplicação do método dedutivo.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         67
+        www.estrategiaconcursos.com.br                                                                  137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+“Uma casa com cachorro é um lar feliz”
+A ideia é:
+“SE uma casa tem cachorro, ENTÃO é um lar feliz”
+“TODA CASA com cachorro é um lar feliz”
+Vejam as opções:
+A uma casa sem cachorro é um lar infeliz;
+Incorreto. Aqui houve a inversão da premissa. Não podemos afirmar nada sobre a casa que não tem
+cachorro. Uma casa com cachorro é feliz, mas isso não implica que uma casa sem cachorro seja infeliz! A casa
+pode ser feliz por outros motivos; eu tenho apenas gatos e minha casa é feliz. Em suma:
+Método dedutivo: todo A é B, mas necessariamente nem todo B é A.
+B a causa da felicidade de um lar é a presença de um cão;
+Incorreto. Temos outra redação para o mesmo problema da A. A casa pode ser feliz por outra causa.
+C os cães são os melhores amigos do homem;
+Incorreto. C de "canabinoide"; não há nada no texto se referindo a "amigo do homem". Se não há nada no
+texto, não podemos fazer afirmações.
+D um cachorro traz felicidade aos casais sem filhos;
+Incorreto. D de "Delírio De Droga"; não há nada no texto se referindo a "casais sem filho".
+E seria conveniente que todos tivéssemos cachorros.
+Correto. Este é nosso gabarito! Pensem: se o autor se deu ao trabalho de colocar uma placa na casa dele
+declarando que "uma casa com cachorro é um lar feliz", é evidente que ele ama cachorro e acha que o
+cachorro traz a felicidade para qualquer casa. Então, é evidente que ele "recomenda" que todos tenham
+cães. Para ele é aconselhável, conveniente, que todos tivéssemos cães.
+É isso, pessoal, uma questão muito representativa do estilo FGV. A questão se baseia numa inferência e no
+método dedutivo, ainda que de forma implícita nas alternativas.
+Gabarito letra E.
+FGV / PC-AM / 2022
+Uma frase de Nietzche diz:
+“O aumento da sabedoria pode ser medido com exatidão pela diminuição do mau humor”.
+Essa frase significa que
+(A) quanto mais sabemos, mais aumentamos nosso mau humor.
+(B) quanto menos sabemos, mais aumentamos nosso mau humor.
+(C) quanto menos sabemos, menos diminui nosso mau humor.
+(D) o aumento da sabedoria está em relação direta com o mau humor.
+(E) há uma relação inversa entre o aumento da sabedoria e o do mau humor.
+Comentários:
+Questão capciosa:
+
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                                         68
+         www.estrategiaconcursos.com.br                                                                  137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Vejam que existe uma relação proporcional inversa:
+"aumento da sabedoria" > "diminuição do mau-humor"
+Quanto mais "aumento da sabedoria" > menos "mau-humor" (diminuição do mau-humor)
+Portanto: (E) há uma relação inversa entre o aumento da sabedoria e o do mau humor.
+Vejamos as demais:
+(A) quanto mais sabemos, mais aumentamos nosso mau humor.
+Incorreto. Pelo contrário.
+(B) quanto menos sabemos, mais aumentamos nosso mau humor.
+Incorreto. Muito perigosa, parece lógica. Contudo, a relação é entre "aumento de sabedoria" e "diminuição
+do mau-humor"; estritamente, não podemos dizer nada sobre "saber menos", o cenário de diminuição do
+saber não está previsto na relação lógica, apenas o de aumento.
+Novamente: Método dedutivo: todo A é B, mas necessariamente nem todo B é A.
+(C) quanto menos sabemos, menos diminui nosso mau humor.
+Incorreto. Novamente, a relação é entre "aumento de sabedoria" e "diminuição do mau-humor";
+estritamente, não podemos dizer nada sobre "saber menos", o cenário de diminuição do saber não está
+previsto na relação lógica, apenas o de aumento.
+(D) o aumento da sabedoria está em relação direta com o mau humor.
+Incorreto. A relação é inversa.
+Gabarito letra E.
+
+
+                                    RACIOCÍNIO INDUTIVO
+O raciocínio indutivo é aquele que vai do particular para o geral (esse conceito despenca em prova). De um
+ou alguns eventos específicos, é possível extrair uma conclusão a respeito de um caso geral. O mecanismo
+básico é generalizar uma observação de casos particulares.
+       O cobre conduz eletricidade.
+       O ouro conduz eletricidade.
+       A prata conduz eletricidade.
+       Os metais conduzem eletricidade.
+Observando alguns metais em particular que conduzem eletricidade, chega-se à conclusão de que todos eles,
+em geral, conduzem eletricidade.
+Observem exemplos corretos da própria FGV:
+       (FGV- TRT SC- Analista / 2017) Analise o seguinte raciocínio:
+       Observando alguns turistas brasileiros, deduzimos que os sulistas são mais ricos que os nordestinos.
+       Esse raciocínio é do tipo indutivo (do particular para o geral); a inferência realizada é fruto da
+       generalização
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                          69
+        www.estrategiaconcursos.com.br                                                                   137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+       “O livro de Laurentino Gomes sobre a escravidão é de dimensão agradável e de preço acessível, por
+       isso deve vender bastante."
+       O hospital Getúlio Vargas atendeu ontem um número excessivo de emergências e enfrentou as
+       dificuldades oriundas da falta de pessoal, mas, na verdade, os hospitais públicos, em todas as grandes
+       cidades, estão passando por isso;
+Contudo, o raciocínio indutivo, justamente por se basear num mecanismo generalizante, poder apresentar
+falhas que invalidam a conclusão: a generalização indevida e a criação de estereótipos. A indução malfeita é
+fonte de julgamentos e preconceitos. A falácia da generalização excessiva/indevida/apressada ocorre
+justamente porque a conclusão vai se basear numa amostra não representativa, por ser pequena ou
+específica demais.
+Vejamos:
+     Ex: Sua tia no jantar diz: "Seu primo passou no Banco do Brasil estudando apenas com apostila da banca
+     de jornal; logo, todos podem passar em concurso público sem fazer um preparatório".
+Será que esse primo isoladamente é suficiente para criar uma regra universal? Será que representa a
+realidade dos concurseiros em geral? Evidentemente, não! Aqui temos uma generalização indevida.
+     Ex: Um gato me atacou do nada quando eu era criança; logo, gatos são traiçoeiros e agressivos.
+Novamente, percebam que o exemplo isolado gato, baseado na experiência pessoal, anedótica, não
+representa de forma alguma uma regra geral; muito pelo contrário, é fato que a maioria dos gatos é dócil.
+Aqui temos novamente uma generalização indevida que invalida a conclusão.
+Já a criação de estereótipos pode ser percebida nos rótulos, nos arquétipos, nos modelos de comportamento
+ou características de certos grupos, que muitas vezes até se consolidaram numa visão cultural difundida, mas
+que não são necessariamente verdadeiras:
+     Ex: Os japoneses são inteligentes.
+     Ex: Os cariocas surfam e gostam de samba.
+     Ex: Os americanos são ricos.
+     Ex: Os italianos falam gesticulando muito.
+     Ex: As mulheres são intuitivas e os homens são práticos.
+Observem que as sentenças acima representam generalizações, mas por configurarem uma rotulação de
+grupos específicos, recebem o nome específico de "estereótipos".
+
+FGV / PREF. Manaus / 2022
+Leia o julgamento equivocado sobre alguns profissionais médicos, a seguir.
+“O clínico é aquele sujeito que sabe tudo e não resolve nada. O cirurgião não sabe nada e resolve tudo. O
+psiquiatra não sabe nada e não resolve nada.”
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           70
+        www.estrategiaconcursos.com.br                                                                    137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Esse julgamento mostra erro grave, já que apoia sua argumentação em
+A uma generalização excessiva.
+B testemunhos de autoridade.
+C analogias indevidas.
+D um conjunto de opiniões alheias.
+E uma pesquisa não identificada.
+Comentários:
+A banca já anunciou que existe um "julgamento equivocado". Não podemos afirmar que todo clínico sabe
+tudo, nem que todo cirurgião resolve tudo, tampouco que o psiquiatra não sabe ou resolve nada. São
+generalizações excessivas.
+B testemunhos de autoridade.
+Incorreto. Testemunho de autoridade não é erro; trata-se de estratégia argumentativa baseada na opinião
+de um especialista.
+C analogias indevidas.
+Incorreto. Não há analogia, porque não há comparação.
+D um conjunto de opiniões alheias.
+Incorreto. A opinião é própria, não alheia.
+E uma pesquisa não identificada.
+Incorreto. Não há pesquisa, apenas opinião própria.
+FGV / PC-AM / 2022
+Assinale a frase a seguir que se apoia em um raciocínio indutivo.
+(A) Os turistas amam curiosidades, daí que um bom guia tenha um bom estoque delas em seu repertório.
+(B) Um filme de terror como este pode causar impactos graves em pessoas mais sensíveis, daí ser bom evitá-
+los.
+(C) Os livros são ótimos companheiros, por isso acabo de comprar um para me fazer companhia no final de
+semana.
+(D) Os novos celulares são miniaturas de computadores; em função disso, algumas empresas investem em
+programas cada vez mais complicados.
+
+(E) As eleições são o ponto mais alto do processo democrático; as próximas vão ser ferrenhamente
+disputadas.
+Comentários:
+O raciocínio indutivo parte do particular para o geral; então, devemos procurar um evento/comentário/fato
+específico que servirá de base para uma conclusão supostamente aplicável a casos gerais.
+
+É o que temos em:
+
+(B) Um filme de terror como este (específico) pode causar impactos graves em pessoas mais sensíveis, daí
+ser bom (pessoas em geral) evitá-los.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        71
+        www.estrategiaconcursos.com.br                                                                 137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+(Se este filme específico causa impactos em pessoas específicas >> então é bom todo mundo evitar)
+
+Nas demais opções temos raciocínio dedutivo, partindo do geral para o particular.
+Os turistas em geral; os livros em geral; os novos celulares em geral; as eleições em geral...
+Gabarito letra B.
+FGV / PC-AM / 2022
+O raciocínio abaixo é construído a partir de uma estratégia:
+“Examinando as jabuticabeiras de seu terreno, chegou à conclusão de que o melhor seria contratar um
+engenheiro agrônomo que pudesse auxiliá-lo no controle de pragas”.
+A estratégia utilizada pode ser explicada do seguinte modo:
+(A) vai do particular para o geral.
+(B) parte do todo para as partes.                      ==219a34==
+
+(C) estabelece uma relação de causa e efeito.
+(D) se fundamenta em experiências pessoais.
+(E) cria uma analogia entre ideias.
+Comentários:
+Aqui, temos um raciocínio indutivo: vai do particular para o geral.
+Examinando as jabuticabeiras de seu terreno (o terreno específico dele e, ainda, árvores específicas desse
+terreno)
+Concluiu que o melhor seria contratar um engenheiro agrônomo que pudesse auxiliá-lo no controle de
+pragas (controle de pragas em geral, das árvores em geral do terreno)
+A banca pede a estratégia para o raciocínio.
+(B) Incorreto. Não há relação saindo do todo para as partes.
+(C) Incorreto. Não uma relação de causa e efeito, mas sim uma inferência indutiva.
+(D) Incorreto. De fato, se fundamenta em uma de suas experiências pessoais, mas essa não é a estratégia.
+(E) Incorreto. Não cria uma analogia entre ideias, pois não há comparação.
+Gabarito letra A.
+
+
+                                             CAUSALIDADE
+A relação de causalidade é mais conhecida como relação "causa-efeito". A causa é um evento
+cronologicamente anterior que gera um resultado. O efeito, ou consequência, é o evento cronologicamente
+posterior que decorre necessariamente do anterior, ou seja, da causa. O fato A (causa) faz com que o fato B
+(consequência) ocorra. Existe não só uma relação de antes e depois, mas também uma decorrência
+obrigatória, uma dependência necessária entre os eventos: a causa é condição para a existência do efeito.
+Vejamos exemplos de relação causa-efeito:
+      Ex: A rua está molhada, porque choveu.
+A chuva foi o evento anterior que gerou a água, que então molhou o chão. O chão molhado é resultado
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         72
+        www.estrategiaconcursos.com.br                                                                  137
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+decorrente da chuva.
+     Ex: Como a batida foi forte, carro ficou destruído.
+O que destruiu o carro? O impacto da forte batida. A destruição é consequência de um evento anterior: a
+batida. Um gerou diretamente o outro, então temos relação de causalidade.
+     Ex: Devido à crise no comércio mundial, o Brasil exportou menos.
+O que fez o Brasil exportar menos? Uma crise no comércio mundial, do qual o Brasil faz parte. Então, a
+redução no comércio mundial acarretou a redução no comércio brasileiro.
+A FGV cobra recorrentemente essa relação, observe como aparece em prova:
+     A Polícia Militar chegou e o bandido ficou com medo
+Ficou com medo porque a PM chegou! Observe que a conjunção "E" aqui introduz a consequência.
+     “Atentados contra cristãos matam 44 no Egito e país decreta emergência”.
+Egito decretou emergência porque houve 44 mortes! Observe que a conjunção "E" aqui introduz a
+consequência.
+     “O sentimento de vingança é tão agradável, que muitas vezes o homem deseja ser ofendido para poder
+     se vingar”
+O homem deseja se vingar porque a vingança é agradável. Aqui temos o clássico "que" conjunção
+consecutiva, atrelada a um elemento intensificador "tão".
+     “Se reforma for adiada, direitos serão perdidos”
+Aqui, a causa é hipotética e o efeito dependente de uma condição. Mesmo assim, em sentido amplo, temos
+também uma relação causa-efeito. Os direitos serão perdidos por causa do adiamento (caso haja).
+     “...o uso de variedades de fumo geneticamente selecionadas para reduzir o pH da fumaça, o emprego
+     de papel mais poroso e filtros com mais perfurações, / tornaram menos aversivas, mais profundas e
+     prolongadas as inalações...”.
+A inalação ficou menos aversiva porque foram utilizados fumos selecionados com menor acidez na fumaça
+e melhores filtros! Observe não há um conectivo expresso introduzindo a oração com a consequência.
+
+                                              EXPLICAÇÃO
+Na prática, a explicação é basicamente a justificativa para um comentário, um esclarecimento que sustenta
+uma afirmação anterior. Aprendemos no estudo das conjunções que, geralmente, a oração explicativa vem
+após um verbo no imperativo:
+     Ex: Leve um guarda-chuva, pois vai chover.
+     Ex: Estude muito, que a prova será difícil.
+Isso guarda estreita relação com a teoria da argumentação, em que temos "tese" (opinião/afirmação/ideia)
++ "argumento" (justificativa/sustentação lógica da ideia). Após fazer uma afirmação, muitas vezes há
+necessidade de justificar ou esclarecer o que foi dito.
+A explicação pode tomar outras formas sintáticas, temos diversos termos explicativos em nossa gramática:
+     Ex: Putin, o presidente da Rússia, invadiu a Ucrânia. (aposto explicativo- revela quem é Putin)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        73
+        www.estrategiaconcursos.com.br                                                                 137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+     Ex: Ele só tinha um arrependimento: não ter investido nas amizades. (oração apositiva - lembrem: o
+     sinal de dois-pontos tem a função de anunciar um esclarecimento)
+     Ex: O carro elétrico, que não depende de gasolina, tornou-se muito popular. (oração adjetiva
+     explicativa- acrescenta um informação acessória em relação ao carro elétrico)
+
+                             ATENÇÃO: não confunda "causa" com "explicação".
+        Ex: A rua está molhada, porque choveu. (causa: a chuva foi o evento cronologicamente
+        anterior que fez com que a rua ficasse molhada)
+        Ex: Choveu, porque a rua está molhada. (explicação: o falante vê a rua molhada e conclui
+        que choveu, apenas justifica sua afirmação anterior; estar molhado é algo que acontece
+        depois, jamais poderia ser a causa; veja também que o conectivo está na frase " a rua está
+        molhada": se isso fosse considerado causa, implicaríamos que molhar o chão causa chuva,
+        o que é um absurdo!)
+
+Para sedimentar, vejam mais exemplos de prova:
+     “As bulas de remédios são inúteis para os consumidores. Além de trazer informações desnecessárias e
+     assustadoras, vêm carregadas de advertências confusas...
+Foi feita uma afirmação categórica: bulas são inúteis. Como se justifica essa afirmação? Argumentando que
+trazem informações desnecessárias, confusas e assustadoras. Temos comentário + justificativa > tese +
+argumento.
+     A inteligência é como ferro: sem usar, enferruja.
+Aqui, temos uma explicação da analogia (comparação de casos semelhantes). Por que é como ferro? Qual o
+ponto em comum dessa comparação? Aí vem o esclarecimento, após sinal de dois-pontos: sem usar,
+enferruja.
+
+                                                 EXEMPLO
+O exemplo tem a função textual de tornar concreta uma ideia mais abstrata. Já notaram como o exemplo
+ajuda muito tornar os assuntos mais próximos e factíveis? Vejam um exemplo cotidiano:
+     Ex: Nossa oferta de emprego envolve muitos benefícios!
+     Ex: Faculdade não é importante, muitos milionários abandonaram a faculdade.
+Ok... Quais? Quem? Ficou abstrato... Vejam como tudo fica mais claro e concreto com exemplos:
+     Ex: Nossa oferta de emprego envolve muitos benefícios, como, por exemplo, vale-refeição, vale-
+     alimentação, cartão corporativo, bônus de eficiência, plano de saúde, plano odontológico.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                       74
+        www.estrategiaconcursos.com.br                                                                137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+     Ex: Faculdade não é importante, muitos milionários abandonaram a faculdade, como Bill Gates, Steve
+     Jobs e Eike Batista.
+Por isso se diz que o exemplo "concretiza" uma tese e serve como estratégia argumentativa. Trata-se de um
+caso particular citado para comprovar uma tese. Vejam como caiu em prova:
+     Ex: “Certos gêneros de filmes (os filmes de terror ou de ficção científica, por exemplo) criam um grande
+     estresse no espectador.”
+As formas gramaticais mais comums para indicar exemplos é o "como" e o "por exemplo".
+
+                                                ANALOGIA
+A analogia é uma forma de comparação, mas específica, porque oferece situações em domínios diferentes
+para ilustrar um ponto em comum. A analogia permite uma conclusão a partir de casos semelhantes ou
+correspondentes. Esse raciocínio é muito utilizado na medicina, por exemplo:
+     Ex: João teve febre, dor de cabeça, dores musculares, fadiga e vermelhidão. Estava com dengue.
+        Maria teve febre, dor de cabeça, dores musculares, fadiga e vermelhidão. Logo, está com dengue.
+A grande semelhança dos casos permite uma conclusão semelhante. Se os elementos parecidos forem
+poucos, se a semelhança não for significativa, ou se as situações forem até diferentes, teremos uma falácia
+de analogia indevida. É o que ocorre no exemplo abaixo:
+     Ex: João teve febre, dor de cabeça, dores musculares, fadiga e vermelhidão. Estava com dengue.
+        Maria teve febre e corrimento. Logo, está com dengue. (analogia fraca/indevida)
+     Ex: Os pássaros voam; morcegos voam. Logo, morcegos são pássaros. (analogia fraca/indevida)
+Vejamos exemplos de prova:
+     Ex: Aquele casamento era uma prisão sem progressão de regime.
+Aqui, há a comparação entre um casamento e um regime de privação de liberdade, o ponto em comum é a
+ausência de liberdade ou perspectiva de redução da pena.
+     Ex: “Se o átomo fosse do tamanho de uma bola de futebol e seu núcleo estivesse no Cristo Redentor, no
+     Rio de Janeiro, os elétrons estariam em órbita em Salvador. Por isso somos formados por espaços
+     vazios.”
+A semelhança repousa na ideia de distância, os "espaços vazios". A distância entre núcleo e elétrons está
+para a distância entre Rio e Salvador.
+     Ex: A inteligência é como ferro: sem usar, enferruja.
+A primeira parte é uma analogia, compara inteligência e ferro. Depois vem a explicação da imagem: ambos
+enferrujam se não forem usados.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           75
+        www.estrategiaconcursos.com.br                                                                    137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+FGV / MPE-GO / 2022
+Texto 2
+“O alfabeto? É um pouco difícil saber exatamente o que o ‘o’ significa, porque existem vários assim chamados
+alfabetos que não começam por a e b. Ogham, o sistema do irlandês antigo, começava com BLF; a escrita
+medieval alemã, o rúnico, cujos caracteres se chamavam runas, começavam com seis letras que lhe deram
+o nome. O etíope começava com h-l. (....) Porém, apesar das modificações, persistia um ideal comum: captar
+os sons da fala por meio de um conjunto de duas ou três dúzias de sinais únicos, cada um dos quais
+correspondendo a um som falado. Na verdade, como veremos, trata-se de uma vã esperança.”
+Os exemplos citados no Texto 2 têm a finalidade de
+(A) abrir caminho para novas discussões.
+(B) mostrar o conhecimento do autor sobre o tema.
+(C) enriquecer a informação do texto.
+(D) comprovar uma afirmação anterior.
+(E) demonstrar a existência de vários alfabetos.
+Comentários:
+Essencialmente, essa questão é sobre o uso de exemplos como técnica argumentativa. O exemplo é o que
+faz uma ideia abstrata parecer concreta para o ouvinte, como eventos verificáveis daquela ideia apresentada.
+existem vários assim chamados alfabetos que não começam por a e b. (tese)
+Ogham, o sistema do irlandês antigo, começava com BLF; a escrita medieval alemã, o rúnico, cujos caracteres
+se chamavam runas, começavam com seis letras que lhe deram o nome. O etíope começava com h-l.
+(argumento - exemplos que comprovam existirem alfabetos que não começam por a e b)
+Gabarito letra D.
+FGV / PC-AM / 2022
+Observe a pequena fábula abaixo:
+“Um cão atravessava um pequeno rio com um pedaço de carne na boca. Ao ver a sua imagem refletida na
+água, pensou que se tratava de um outro cão, com um pedaço de carne muito maior do que o seu.
+Abandonou o seu pedaço e, por ganância, perdeu o seu almoço.”
+(Esopo)
+O segmento sublinhado corresponde a uma explicação, que tem a função no texto de
+(A) dar uma informação nova ao leitor.
+(B) criar uma sensação de realidade e não de ficção.
+(C) atrasar a ação da fábula, para criar suspense.
+(D) justificar outra ação da narrativa.
+(E) caracterizar o cão como ganancioso.
+Comentários:
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                        76
+          www.estrategiaconcursos.com.br                                                                 137
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+A função de mencionar que o cão viu sua própria imagem na água é explicar/justificar seu ato seguinte:
+abandonar o pedaço que tinha na boca. Em suma, é explicar o motivo de o cão soltar o pedaço e perder seu
+almoço: justificar outra ação da narrativa.
+Cuidado, sintaticamente, a oração é adverbial temporal. Indica tempo, mas sua "função" no texto é mais do
+que indicar um momento, e sim explicar a confusão que o animal fez. "Função no texto" remete ao papel
+argumentativo, lógico, não apenas o sentido isolado da expressão.
+Gabarito letra D.
+FGV / PREF. MANAUS / 2022
+“Bem-aventuradas as pessoas que nada esperam, porque não ficarão decepcionadas.”
+As pessoas não ficarão decepcionadas porque
+(A) nada vão receber.
+(B) vão receber menos que os demais.
+(C) vão ganhar mais que todos.
+(D) vão ser presenteadas com algo inesperado.
+(E) nunca vão ter um bem qualquer.
+Comentários:
+Aqui temos uma frase seguida de justificativa, uma relação explicativa. Decepção é uma infelicidade com os
+resultados esperados. Logo, quem não espera nada não tem como ficar decepcionado, porque não espera
+nada e nunca recebe algo negativo em relação às expectativas, justamente porque não as tinha. Isso foi o
+que banca quis dizer com "nada vão receber".
+Concordo que uma redação melhor seria: "nada vão receber de diferente das expectativas", mas é a
+alternativa mais próxima que temos.
+(B) Incorreto. Não sabemos se vão receber menos que os demais.
+(C) Incorreto. Não sabemos se vão receber mais (ou menos) que todos.
+(D) Incorreto. Não vão ser presenteadas com algo inesperado, pois não há nada esperado.
+(E) Incorreto. Não sabemos se nunca vão ter um bem qualquer, apenas que não vão se decepcionar.
+Gabarito letra A.
+FGV / Câmara Aracaju / 2021
+“PMs do Ceará aceitam proposta e encerram motim”
+Essa manchete é composta de duas orações; a relação lógica que se estabelece entre elas é:
+A a segunda oração indica a causa da primeira;
+B a primeira oração é confirmada pela segunda;
+C a segunda oração ocorre após a primeira;
+D a segunda oração é uma explicação da primeira;
+E as duas orações são cronologicamente simultâneas.
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        77
+        www.estrategiaconcursos.com.br                                                                 137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Aqui, temos o contexto de um "motim" ou "greve". PMs do Ceará aceitam uma proposta e,
+consequentemente, encerram o motim. A proposta aceita é a causa, isto é, o evento cronologicamente
+anterior que acarreta o fim do motim.
+Então, a primeira oração é a causa (ocorre antes); a segunda é a consequência (ocorre depois).
+Gabarito letra C.
+FGV / TCE PI / 2021
+Texto 1 – Notícia
+“Cientistas americanos apresentaram ontem resultados preliminares de uma vacina contra o fumo. O
+medicamento impede que a nicotina – componente do tabaco que causa dependência – chegue ao cérebro.
+Em ratos vacinados, até 64% da nicotina injetada deixou de atingir o sistema nervoso central.”
+(O Globo, 18/12/99)
+No texto 1, o segmento “componente do tabaco que causa dependência” tem a função de:
+A explicar o funcionamento da nicotina no organismo;
+B indicar o significado do vocábulo “nicotina”;
+C mostrar o perigo do uso da nicotina;
+D modificar uma informação dada anteriormente;
+E alertar o leitor para o risco do fumo para a saúde.
+Comentários:
+Pessoal, temos aqui um aposto explicativo, justamente para esclarecer o que é a nicotina, indicar seu
+significado. A função no texto é "explicar"!
+
+
+O medicamento impede que a nicotina – componente do tabaco que causa dependência – chegue ao
+cérebro.
+Gabarito letra B
+
+                                                 FALÁCIAS
+As falácias são "erros de raciocínio", por definição. No entanto, também podem ser usadas como estratégias
+argumentativas na retórica, para vencer/convencer o oponente num debate. As duas análises aparecem em
+prova. As falácias, em sua maioria, decorrem da aplicação inadequada dos variados raciocínios que
+estudamos na aula. Vejamos as mais relevantes para a FGV:
+
+         Falácia da Generalização Precipitada/Apressada/Indevida
+
+Comecemos por uma das falácias mais cobradas ultimamente.
+A generalização indevida decorre normalmente do método indutivo, quando os casos particulares são
+específicos demais ou pouco representativos. Basicamente, é um problema da "amostra", de uma
+enumeração insuficiente.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        78
+        www.estrategiaconcursos.com.br                                                                 137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Ex: Pedro, Maria, Marcelo, Andreia, Teresa, Francisco têm olhos azuis.
+Pedro, Maria, Marcelo, Andreia, Teresa, Francisco são brasileiros.
+Então, todos os brasileiros têm olhos azuis.
+Ex: Comprei um carro chinês e nunca tive problemas. Logo, os carros chineses são excelentes!
+
+        Falácia do Argumento Circular
+
+Baseia-se na mera repetição da ideia, com outras palavras, como se fosse uma fundamentação. São
+tautologias, mera repetição.
+Ex: Comer salada é muito saudável, pois faz bem para o organismo.
+Ex: “Você está completamente equivocado, pois o que falou não faz o menor sentido.”
+Ex: “Deus existe pois a Bíblia afirma isso. A Bíblia tem autoridade porque foi inspirada por Deus”.
+
+        Falácia da Petição de Princípio
+
+Consiste em "embutir" capciosamente uma conclusão dentro da premissa, de modo que o oponente não
+perceba que está aceitando uma declaração implícita. Guarda estreita relação com os "pressupostos".
+Ex: O candidato então admite que não mais desvia verbas públicas?
+O advérbio "mais" já implica que desviava antes; se o oponente responder que sim ou que não, está
+aceitando essa tese implícita.
+
+        Falácia Ad Hominem (ataque ao homem)
+
+Consiste em atacar a pessoa que argumenta em vez de o argumento em si.
+Ex: Você não pode afirmar nada sobre a ditatura de 1964 porque não é um historiador.
+Ex: Pessoas céticas não acreditam em alienígenas porque têm a mente muito fechada.
+Ex: Obviamente esse candidato não será um bom presidente, pois ele foi um péssimo militar.
+Ex: O pai diz ao filho: "você não deve comer tanta fritura, porque não é saudável". O filho responde: "e você
+que fuma?"
+Ex: A esposa reclama ao marido: "você não me ajuda com as tarefas da casa"; este argumenta: "você não
+pode falar nada, pois age como uma louca ciumenta".
+OBS: Essa falácia tem uma variante conhecida como "tu quoque: tu também", que se traduz no ditado "faça
+o que eu digo, mas não faça o que eu faço":
+Ex: "Dizes que eu não devo beber, mas não estás sóbrio faz mais de um ano."
+Também pode ser chamada de "falácia do apelo à hipocrisia", justamente porque a pessoa não pratica o que
+prega.
+
+        Falácia do Espantalho
+
+Consiste em distorcer o argumento da pessoa, para atacar a versão caricata do argumento em vez de o
+argumento original.
+Ex: O candidato A declara: é necessário investir mais na educação superior para melhorar a qualificação
+técnica da força de trabalho.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           79
+        www.estrategiaconcursos.com.br                                                                    137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+O candidato B argumenta: lamentável que o senhor defenda abertamente o abandono do ensino básico, o
+futuro das crianças mais pobres que tanto precisam do governo, para gastar o dinheiro público na formação
+de meia dúzia de tecnólogos.
+Observem que o candidato B distorce a fala do oponente a um nível absurdo, desviando a atenção da ideia
+original e criando uma versão muito mais fácil de refutar.
+
+         Falácia do Apelo a Autoridade Irrelevante
+
+O discurso de autoridade é uma estratégia argumentativa válida, desde que tal autoridade seja realmente
+competente e consagrada para emitir opiniões sobre determinado campo do conhecimento. Se a autoridade
+é irrelevante, vaga, ou não especializada, temos um problema no raciocínio.
+Ex: Minha cantora sertaneja favorita defende que não se deve estudar tantas horas por dia para o concurso,
+pois isso prejudica a memória.
+Um cantor, sertanejo ou não— isso é irrelevante—, como regra geral, não é modelo de autoridade para servir
+de argumento em discussões sobre "memória", "funcionamento do cérebro" ou "estudos para concurso".
+Ex: Cientistas sul-americanos provam que a inflação é culpa do governo.
+Quais cientistas? A fonte é vaga! A ideia foi atribuída a um "coletivo indefinido". Pesquisas, dados estatísticos
+e autoridades não identificadas não são argumentos robustos para sustentar uma tese.
+
+         Falácia do Equívoco ou da Ambiguidade
+
+Quando o sentido de uma expressão é claro, não ambíguo, dizemos que é "inequívoco", daí o nome desta
+falácia, que ocorre quando uma expressão é utilizada com sentidos diferentes.
+Ex: "Como você pode dizer que não tem fé, quando age com fé o tempo todo? Fecha negócios, confia em
+amigos e até fica noivo?".
+Percebam que "fé" foi empregado com dois sentidos: como "crença espiritual ou religiosa" e como
+"confiança geral nas pessoas".
+
+         Falácia da Falsa Dicotomia ou Falso Dilema
+
+Consiste em criar uma disjunção exclusiva, isto é, em criar uma situação que só prevê dois cenários
+excludentes, sem considerar qualquer outra possibilidade. OU A ou B, não ambos, nem qualquer alternativa.
+Por isso também pode ser chamada de "terceiro excluído" ou "pensamento preto e branco". Essa falácia é
+um recurso para forçar o oponente a escolher um lado por não querer ser enquadrado no outro,
+especialmente em questões polêmicas em que haja extrema condenação em algum dos polos.
+Ex: Você é fã do Pablo Vittar ou também é homofóbico?
+Aqui, só há dois cenários: ser fã ou ser homofóbico. Evidentemente, é perfeitamente possível não ser fã por
+qualquer outro motivo que não seja "ser homofóbico": não gostar do estilo, não conhecer o trabalho do
+artista, não gostar de música etc...
+Ex: O senhor é contra as cotas raciais porque não se importa com a minoria negra.
+Novamente, é possível ser contra cotas raciais e se importar com a minoria negra. É razoável pensar que
+talvez o orador apenas veja algum problema no sistema, ou defenda um sistema ainda mais vantajoso, por
+exemplo, sem que isso signifique qualquer desapreço pelos beneficiários.
+
+         Falácia da Causa Questionável ou Causa Falsa
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                               80
+        www.estrategiaconcursos.com.br                                                                       137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+O nome já diz tudo: consiste em atribuir um determinado resultado a um evento anterior que não é sua
+causa verdadeira. Atenção: correlação não é causalidade! O galo canta todo dia e sol nasce depois, mas de
+forma alguma o galo é a causa da alvorada! A causa tem relação direta com seu efeito, não basta ser uma
+mera coincidência temporal.
+Ex: Todos os motoristas que se acidentaram em agosto tinham sido vacinados contra a varíola. Logo, a vacina
+está causando acidentes no trânsito.
+Ex: Eu comprei ações daquela empresa e no dia seguinte o preço despencou!
+Nos dois casos acima, o evento anterior não guarda nenhuma relação de causalidade.
+
+         Falácia do Falso Escocês
+
+Também chamada de "nenhum escocês de verdade..."; este argumento se relaciona a uma generalização
+sobre um grupo, que é depois desmentida com evidências, mas o orador não admite essa refutação:
+Ex: Um orador declara: "todos professores ganham muito mal". Seu oponente mostra um contraexemplo:
+"Herbert é professor e ganham muito bem". Então, o orador, em vez de dar o braço a torcer, tenta redefinir
+o critério: "ah, mas o Herbert não é um professor de verdade."
+Ao dizer que não é um professor "de verdade", tenta manter sua generalização intacta, a despeito da
+refutação.
+
+         Falácia do Apelo ao Medo
+
+Consiste em sugerir uma ameaça de um futuro assustador se o oponente no debate não aderir à tese
+proposta.
+Ex: "Peço que todos os funcionários dessa empresa votem no meu candidato na próxima eleição. Se o outro
+candidato ganhar, ele irá aumentar impostos e vocês irão perder seus empregos."
+Ex: "Melhor pegarmos esse voo de agora, ou o próximo será caríssimo e com maior risco de acidente."
+
+         Falácia do Apelo à piedade
+
+Consiste em tentar comover o oponente para buscar sua adesão à tese.
+Ex: "Professor, eu estudei tanto, minha vida está tão difícil, eu preciso muito que me dê um ponto a mais na
+nota para eu ser aprovado e minha mãe não me expulsar de casa!"
+Até chorei aqui rs...
+
+         Falácia do Apelo à Ignorância
+
+Consiste em que algo é necessariamente verdadeiro simplesmente porque ninguém comprovou que é falso.
+Ex: Deus existe com certeza, pois a ciência nunca provou que não existia.
+Ex: "Não há evidência definitiva de que os OVNIs não estejam visitando a Terra; portanto, os OVNIs existem."
+Ex: Aquele presidente é honesto, pois nunca foi preso nem envolvido em nenhum escândalo de corrupção.
+
+         Falácia do Apelo ao Popular
+
+Consiste em validar um argumento invocando sua popularidade:
+Ex: Este filme do Netflix é maravilhoso, pois está entre os mais populares do mês.
+
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                                         81
+         www.estrategiaconcursos.com.br                                                                  137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Ex: Todo mundo sabe que bolsa de valores é cassino!
+Ex: “Pode ser contra a lei beber quando você tem 18 anos mas todo mundo faz isso. Então está tudo bem.”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                       82
+        www.estrategiaconcursos.com.br                                                                137
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                              ESTRATÉGIAS ARGUMENTATIVAS
+                                   CONSIDERAÇÕES INICIAIS
+Para convencer e persuadir, para induzir um comportamento ou incutir uma opinião, o discurso
+argumentativo muitas vezes faz uso de estratégias de manipulação. Segundo conceito da
+semiótica, a manipulação discursiva é “uma ação do homem sobre os outros homens, visando a
+fazê-los executar um programa dado” (Greimas & Courtés).
+Há inúmeras estratégias argumentativas, mas focaremos aqui nas quatro principais: Sedução,
+Tentação, Intimidação e Provocação. Por apelarem para emoções e tendências humanas, não
+necessariamente racionais, a literatura também chama de argumentos de "manipulação". Esse
+tipo de manobra é aprofundado em livros de linguagem publicitária.
+                                                       ==219a34==
+
+                             ESTRATÉGIAS ARGUMENTATIVAS
+Para termos uma visão geral do tema, utilizando exemplos de FIORIN, do livro Análise do
+Discurso, vamos imaginar uma mãe tentando convencer, por via de manipulação, seu filho a
+comer:
+"Na sedução, o manipulador trabalha com uma imagem positiva acerca do manipulado, a fim de
+fazê-lo QUERER algo.
+ Ex.: “Pus essa comida no seu prato, porque você é grande e é capaz de comer tudo.” (Fiorin,
+1996:23)
+Na tentação, o manipulador trabalha aspectos positivos acerca de um produto, serviço ou idéia a
+fim de levar o manipulado a QUERER fazer algo. Propõe, portanto, uma recompensa.
+Ex.: Se você comer toda a maçãzinha, ganha a bananinha.
+Na intimidação, o manipulador trabalha com valores negativos a fim de fazer com que o
+manipulado se sinta no DEVER de fazer algo.
+Ex.: “Se você não comer, não vai ver televisão.” (Fiorin, 1996:23)
+Já na provocação, o manipulador trabalha com uma imagem negativa acerca do manipulado, a
+fim de fazê-lo se sentir no DEVER de fazer algo.
+Ex.: “Pus essa comida no seu prato, mas eu sei que, como você é pequeno, não consegue comer
+o que está aí .”(Fiorin, 1996:23)
+Agora, para deixar tudo mais concreto, veremos a definição objetiva e resumida de cada
+estratégia e exemplos de provas recentes da FGV.
+Sedução: Apela para uma imagem positiva do interlocutor.
+Ex: “Liberte o herói que pulsa em você. Salve vidas. Doe sangue.
+Ex: Fique mais atraente usando perfumes Dior.
+Intimidação: Sugere que algo ruim pode acontecer ao interlocutor, sugere castigo/medo.
+Ex: Não passe vergonha em público: use Corega em sua dentadura.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             83
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Ex: “Mané que é Mané joga lixo no chão!”/ Se dirigir, não beba! / Evite o corte de luz: pague em
+dia a sua conta! / intimidação pelo medo;
+Ex: 3. Hoje não existe mais água no mundo do que havia há 21 séculos, quando a população era
+menor do que 3% do que é hoje. Se a água vai continuar tendo a mesma quantidade, é bom
+lembrar que a população continuará crescendo.
+“As doze bactérias mais ameaçadoras. OMS divulga lista de micro-organismos contra os quais há
+cada vez menos remédios eficazes e convoca governos, cientistas e indústrias a agir com
+urgência para criar novas opções”.
+Tentação: Oferece objeto de valor positivo como uma recompensa para o interlocutor.
+Ex: Coma toda a salada e poderá comer sorvete de sobremesa.
+Ex: Compre dois vidros de remédio e receba um de graça!
+Ex: “Compre pneus Michelin e ganhe uma viagem a Paris”. / Trabalhe pouco e ganhe muito (RFB
+2023).
+Provocação: Apela para imagem ou situação negativa do interlocutor, manipula sua autoestima.
+Essa estratégia é muito comum entre as crianças que se desafiam: "Duvido você pular esse muro
+alto, você não teria coragem..."
+Ex: Seu vizinho acaba de adquirir um novo modelo de automóvel para a mulher; você vai deixar a
+sua andar a pé?
+OBS: As estratégias podem aparecer misturadas ou limítrofes nos textos argumentativos. A banca
+vai sempre exigir aquela que seja a predominante. Na prática, vamos tentar sempre olhar para as
+alternativas e ver a semelhança com os exemplos da nossa teoria.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              84
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                             NOÇÕES BÁSICAS DE “TEXTO”
+Uma boa interpretação de textos pressupõe uma série de conhecimentos e habilidades,
+anteriores ao texto em si.
+O leitor precisa reconhecer: o contexto (situação/situacionalidade); a finalidade principal do
+texto: se é informar, narrar, descrever, e como essa intenção se materializa (intencionalidade
+discursiva); a linguagem: se é literal ou figurada; irônica; se tem um propósito estético, poético,
+lírico, além da sua mensagem principal; informações implícitas, quando há; referência a
+informações fora do texto ou a outros textos e se essas referências são parte do conhecimento de
+mundo do leitor (para que possa entender aceitar essa mensagem – aceitabilidade).
+Enfim... Há muitos conceitos subjacentes à construção de um texto. A partir de agora, veremos
+os principais.                                         ==219a34==
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 85
+        www.estrategiaconcursos.com.br                                                          137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                        LINGUAGEM VERBAL E NÃO VERBAL
+O texto verbal é aquele que se materializa em linguagem escrita ou falada.
+O texto “não verbal” é o que usa outros elementos, que não a fala ou a escrita: imagens, música,
+gestos, escultura. Sinais, placas, pinturas, sons, linguagem corporal são todos elementos de
+linguagem “não verbal”. Comparem dois textos de mesma temática, mas escritos com
+linguagens diferentes:
+      Linguagem Verbal:
+      Urbanização é o crescimento das cidades, tanto em população quanto em extensão
+      territorial. É o processo em que o espaço rural transforma-se em espaço urbano, com a
+      consequente migração populacional do tipo campo-cidade que, quando ocorre de forma
+      intensa e acelerada, é chamada de êxodo rural.
+      Linguagem Não Verbal:
+
+Em prova, é comum a banca trazer textos “mistos”, “híbridos”, com elementos verbais e não
+verbais, ao mesmo tempo. Teremos então imagens e palavras. Vejamos:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              86
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+    Equipe Português Estratégia Concursos, Felipe Luccas
+    Aula 14
+
+                          LINGUAGEM LITERÁRIA E NÃO LITERÁRIA
+A diferença básica entre um texto literário e um não literário é a função.
+O texto literário tem uma função estética, tem ênfase no plano da expressão, ou seja, a forma é
+essencial ao texto.
+Por isso, no texto literário, com função poética, abundam recursos estilísticos, como ritmo,
+versificação, estrutura planejada, figuras de som (rimas, aliterações), linguagem figurada,
+conotativa... Um texto literário não pode ser resumido, não pode ser alterado sem prejuízo. Se
+trocarmos uma palavra de lugar, perdemos o efeito estético de uma rima, por exemplo.
+O texto não literário tem foco no plano do conteúdo, na informação, na referência que fornece,
+por isso pode ser resumido, reescrito de outras formas, sem prejuízo da mensagem original. Sua
+finalidade é utilitária (informar, convencer, explicar, documentar...), por isso preza pela
+                                                            ==219a34==
+
+objetividade, não pela forma. Compare:
+                   Linguagem não literária:
+                   Aos cinquenta anos, inesperadamente, apaixonei-me de novo.
+​        ​          Linguagem literária:
+                Na curva dos cinquenta derrapei neste amor. (Carlos Drummond de Andrade)
+Veja que o segundo fragmento traz uma linguagem figurada (conotativa), por meio da metáfora
+“derrapar na curva”. Então, a preocupação estética, lírica, na elaboração da mensagem marca o
+texto literário.
+OBS: A distinção vista acima não impede que textos utilitários (artigos, narrações, propagandas)
+tenham também efeitos estilísticos. A linguagem publicitária, por exemplo, abusa de efeitos
+estéticos em sua criação.
+
+             Receita Federal (Analista Tributário) Língua Portuguesa                         87
+             www.estrategiaconcursos.com.br                                                  137
+
+                                          
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                        INTERTEXTUALIDADE
+Basicamente, a intertextualidade é comunicação/diálogo entre textos (texto escrito, música,
+pintura, obra audiovisual...), isto é, ocorre intertextualidade quando um texto faz referência a
+outro, de forma implícita (de forma oculta, de modo que o leitor depende de seu conhecimento
+de mundo para identificar a referência) ou explícita (por exemplo, numa citação direta, com
+identificação da autoria do outro texto citado).
+Vejamos as principais formas de intertextualidade:
+Citação: É a reprodução do discurso alheio, normalmente entre aspas e com indicação da autoria.
+Epígrafe: Citação curta colocada em uma página no início da obra ou destacada no início de um
+capítulo. Normalmente abre uma narrativa com a reprodução de frase célebre que anuncia ou
+resume a temática do capítulo/obra que se inicia.
+
+        Se um homem tem um talento e não tem capacidade de usá-lo, ele fracassou. Se
+        ele tem um talento e usa somente a metade deste, ele fracassou parcialmente. Se
+        ele tem um talento e de certa forma aprende a usá-lo em sua totalidade, ele
+        triunfou gloriosamente e obteve uma satisfação e um triunfo que poucos homens
+        conhecerão.
+        Thomas Wolfe
+
+
+Paródia: é a criação de um texto a partir de outro, com finalidade humorística, irônica.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              88
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+ Rua Nascimento Silva, 107                                          Rua Nascimento Silva, 107
+ Você ensinando pra Elizete                                         Eu saio correndo do pivete
+ As canções de canção do amor demais                                Tentando alcançar o elevador
+
+ Minha janela não passa de um quadrado                              Minha janela não passa de um quadrado
+ A gente só vê cimento armado                                       A gente só vê Sérgio Dourado
+ Onde antes se via o Redentor                                       Onde antes se via o Redentor
+
+ É, meu amigo, só resta uma certeza                                 É, meu amigo Só resta uma certeza
+ É preciso acabar com a natureza                                    É preciso acabar com a natureza
+ É melhor lotear o nosso amor                                       É melhor lotear o nosso amor
+ Original - Carta ao Tom 74 -                                       Paródia “Carta do Tom” –
+ Toquinho e Vinícius de Morais                                      Chico Buarque
+Veja exemplos famosos, com linguagem também não verbal.
+                                                       ==219a34==
+
+Paráfrase: é a criação de um texto a partir de outro, é uma reescritura de ideias com outras
+palavras. A paráfrase não tem finalidade humorística, mas sim reproduz, preserva e confirma a
+ideologia do texto original.
+Tradução: é a reprodução de um texto de uma língua para outra.
+Referência/Alusão: é uma referência a outro texto, mas de forma vaga, indireta, sem indicação.
+Depende do conhecimento de mundo do leitor para fazer sentido.
+      Ex: “Profissão Mestre Adverte: dar aulas pode ser prejudicial à saúde”.
+      Veja que há referência insinuada às propagandas do Ministério da Saúde acerca do cigarro.
+
+
+        Essas definições e exemplos são de difícil diferenciação em muitos casos, então a
+        banca pode muito bem não diferenciar precisamente os conceitos. O importante
+        é reconhecer que são todas formas de intertextualidade, de comunicação entre
+        textos.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                             89
+        www.estrategiaconcursos.com.br                                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+(IBGE / 2022)
+A frase abaixo que se apoia num ditado popular é
+(A) O povo perdoa aos que se parecem com ele.
+(B) Em terra de cego, quem tem um olho nunca é visto.
+(C) O melhor do susto é esperar por ele.
+(D) Ter medo não ajuda a viver.
+(E) O luxo é uma falta de gosto.
+Comentários:
+A frase " Em terra de cego, quem tem um olho nunca é visto. " se baseia no ditado popular: "
+Em terra de cego, quem tem um olho é rei".
+As demais frases não são ditos populares, são apenas invenções ou citações específicas da
+banca.
+Gabarito letra B.
+
+
+(SANASA - CAMPINAS (SP) / 2019 - Adaptada)
+Considere o trecho hipotético de uma conversa entre um cidadão-usuário e um atendente da
+empresa prestadora de serviços, conforme abaixo.
+Atendente: “Por favor, senhor, me explique o que está acontecendo?”
+Cidadão-usuário: A fatura da minha conta de água dos cinco últimos meses não passava de R$
+90,00, mas a desse mês veio R$ 280,00! Eu não sei se tem um vazamento na caixa ou se o relógio
+de medição quebrou.”
+Atendente: “Pelo que o senhor está me relatando, o senhor está com dúvida na sua conta de
+água e pode ter um problema com a sua instalação.
+Cidadão-usuário: “Sim, é isso mesmo!”
+Nesse trecho de conversa, o atendente utilizou de um recurso denominado paródia.
+Comentários:
+Da análise da conversa, percebemos que o atendente repetiu o que o cliente disse, por meio da
+utilização de outras palavras, de modo a tornar a compreensão mais fácil. Tal recurso é a
+“paráfrase". Lembre-se que a paródia tem a finalidade humorística, irônica. Questão incorreta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             90
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                           INTERPRETAÇÃO E COMPREENSÃO
+Embora muitos alunos os tratem por sinônimos, interpretar e compreender são ações diferentes.
+Sem filosofar muito, para efeito de prova, interpretar é ser capaz de depreender informações do
+texto, deduzir baseado em pistas, inferir um subtexto, que não está explícito, mas está
+pressuposto.
+Compreender, por sua vez, seria localizar uma informação explícita no texto e não depende de
+nenhuma inferência, porque está clara.
+Essa diferença aparece nos enunciados, quando a banca nos informa se uma questão deve ser
+resolvida por recorrência (compreensão) ou por inferência (interpretação).
+Veremos aqui uma breve distinção teórica e depois partiremos para as questões, porque só
+aprendemos a interpretar lendo e interpretando.
+
+        Recorrência:
+        O leitor deve buscar no texto aquela informação, sabendo que a resposta estará
+        escrita com outras palavras, em forma de paráfrase, ou seja, de uma reescritura. É
+        o tipo mais comum: a resposta está direta e literal no texto.
+        Inferência:
+        O leitor deve fazer deduções a partir do texto. O fundamento da dedução será
+        um pressuposto, ou seja, uma pista, vestígios que o texto traz. Deduzir além das
+        pistas do texto é extrapolar. Geralmente questões de inferência trazem o
+        seguinte enunciado: “depreende-se das ideias do texto”.
+
+      Ex: Douglas parou de fumar.
+      Nessa informação temos um pressuposto, indicado no verbo parar. Só para de fumar quem
+      começou a fumar. Então podemos inferir, deduzir, depreender dessa frase que Douglas
+      fumava.
+      Ex: A população supõe que os senadores se tornarão defensores da nova democracia.
+      O uso do verbo “supõe” sugere uma crença no que não é verdadeiro. A forma “se
+      tornarão” indica mudança de estado, o que nos permite deduzir que o estado atual não é
+      esse. Em outras palavras, os senadores não são defensores da nova democracia. A
+      propósito, o adjetivo ‘nova’ permite presumir a existência de uma democracia “velha”.
+Os subentendidos, ao contrário dos pressupostos, não são decorrências necessárias das pistas,
+mas são deduções subjetivas, são informações presumidas e insinuadas.
+Imagine os seguintes diálogos entre pessoas no ponto de ônibus:
+      Ex:​     — Você tem relógio?
+              — São 11 horas.
+              — Obrigado!
+      Há aqui um subentendido: “quero saber que horas são”, que foi prontamente captado
+      pelo ouvinte.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              91
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+      Ex:​      —Você tem isqueiro?
+              —Tenho sim. Por quê?
+              —!!!
+      Há neste exemplo um subentendido na pergunta: “gostaria de acender meu cigarro”. Mas
+      o ouvinte não compreendeu a informação subentendida e respondeu de forma literal à
+      pergunta insinuada.
+O pressuposto, embora traga informação implícita, está visivelmente registrado no teor daquelas
+palavras, está “marcado linguisticamente”, ao passo que o subentendido é uma insinuação, não
+marcada linguisticamente, ou seja, não está propriamente nas palavras, é extralinguístico, está
+nas entrelinhas.
+Por isso, a leitura literal das palavras pode levar a outra interpretação e não à informação
+subentendida.
+Enfim, pessoal, infelizmente não há uma dica milagrosa para interpretação. Teremos sempre que
+                                                       ==219a34==
+
+fazer esse exercício de buscar informações explícitas e implícitas no texto, baseado em vestígios
+e pistas, nas entrelinhas, ou muitas vezes encontrando a reescritura equivalente de uma ideia
+apresentada.
+
+(IBGE / 2022)
+“Os sábios dizem que a vossa luz se apagará um dia”, disseram os vagalumes às estrelas. Estas,
+porém, não responderam nada”.
+Nessa frase, as estrelas nada responderam porque
+(A) tinham certeza do erro dos vagalumes.
+(B) desconheciam quais eram os sábios.
+(C) ficaram penalizadas dos vagalumes.
+(D) estavam conscientes da sua superioridade.
+(E) não sabiam o que responder.
+Comentários:
+Questãozinha bem figurada, com foco nas inferências. Vamos interpretar:
+As estrelas brilham por dezenas de bilhões de anos; vagalumes brilham por quanto tempo? Não
+sabemos, não entendemos de vagalumes, mas podemos inferir que é bem pouco e infinitamente
+menos que as estrelas.
+Então, imagine essas estrelas virtualmente eternas ouvindo de um bichinho bem efêmero que
+elas vão se apagar porque os sábios, também mortais e temporários, disseram...
+Se você fosse essas estrelas, aposto que não responderia também.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               92
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Não responderia por estar consciente de que são superiores na questão em tela, que é "tempo
+de brilho".
+Gabarito letra D.
+
+
+(MPE-GO / 2022)
+Este livro é sobre uma das ideias mais importantes da humanidade – a ideia do alfabeto – e a sua
+forma mais difundida: o sistema de letras que você está lendo neste momento. Três
+características dessa ideia se destacam: sua singularidade, sua simplicidade e sua adaptabilidade.
+A partir da primeira manifestação do alfabeto, há 4000 anos, todos os demais alfabetos o
+tomaram como exemplo; e todos eles refletem a sua simplicidade fundamental.
+Não se trata da simplicidade do projeto perfeito. A força do alfabeto como ideia reside na sua
+virtual imperfeição. Embora não se adapte com perfeição a qualquer idioma, pode, com alguma
+adequação, adaptar-se a todos eles. Assim como a nossa própria espécie, de cérebro mais
+desenvolvido, que pode ser superada por outras espécies em diversas atividades, mas não no
+campo do pensamento, o alfabeto é um generalista. Em termos de software, seu sucesso reside
+em sua maleabilidade. Mas de onde teria surgido essa ideia do alfabeto? Como e onde se
+disseminou ao transformar-se no sistema de letras romanas que é hoje a escrita mais conhecida
+do mundo?
+É preciso um bom tempo para examinar essas questões, porque as raízes do alfabeto ainda
+continuam vindo à tona.
+                                                                             (MAN, Jofin. História do Alfabeto.)
+A “virtual imperfeição” do alfabeto, citada no segundo parágrafo, se refere à
+(A) maleabilidade, podendo transformar-se no sistema de letras romanas hoje usado.
+(B) capacidade de, mesmo imperfeitamente, ser original em sua expressão.
+(C) capacidade de facilmente adaptar-se qualquer idioma, embora de forma imperfeita.
+(D) singularidade de criar palavras em todos os idiomas, ainda que deficientemente.
+(E) possibilidade de permitir a expressão de todos os pensamentos, mesmo que de forma
+inadequada.
+Comentários:
+Literal:
+Não se trata da simplicidade do projeto perfeito. A força do alfabeto como ideia reside na sua
+virtual imperfeição. Embora não se adapte com perfeição a qualquer idioma, pode, com alguma
+adequação, adaptar-se a todos eles.
+Logo, A “virtual imperfeição” do alfabeto, citada no segundo parágrafo, se refere à capacidade
+de facilmente adaptar-se qualquer idioma, embora de forma imperfeita
+Gabarito letra C.
+
+
+(ASSEMBLEIA LEGISLATIVA DO AMAPÁ / 2020 - Adaptado)
+                                               Novas formas de vida?
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                           93
+           www.estrategiaconcursos.com.br                                                                    137
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Uma forma radical de mudar as leis da vida é produzir seres completamente inorgânicos. Os
+exemplos mais óbvios são programas de computador e vírus de computador que podem sofrer
+evolução independente.
+O campo da programação genética é hoje um dos mais interessantes no mundo da ciência da
+computação. Esta tenta emular os métodos da evolução genética. Muitos programadores
+sonham em criar um programa capaz de aprender e evoluir de maneira totalmente independente
+de seu criador. Nesse caso, o programador seria um primum mobile, um primeiro motor, mas sua
+criação estaria livre para evoluir em direções que nem seu criador nem qualquer outro humano
+jamais poderiam ter imaginado.
+Um protótipo de tal programa já existe – chama-se vírus de computador. Conforme se espalha
+pela internet, o vírus se replica milhões e milhões de vezes, o tempo todo sendo perseguido por
+programas de antivírus predatórios e competindo com outros vírus por um lugar no ciberespaço.
+Um dia, quando o vírus se replica, um erro ocorre – uma mutação computadorizada. Talvez a
+mutação ocorra porque o engenheiro humano programou o vírus para, ocasionalmente, cometer
+erros aleatórios de replicação. Talvez a mutação se deva a um erro aleatório. Se, por acidente, o
+vírus modificado for melhor para escapar de programas antivírus sem perder sua capacidade de
+invadir outros computadores, vai se espalhar pelo ciberespaço. Com o passar do tempo, o
+ciberespaço estará cheio de novos vírus que ninguém produziu e que passam por uma evolução
+inorgânica.
+Essas são criaturas vivas? Depende do que entendemos por “criaturas vivas”. Mas elas
+certamente foram criadas a partir de um novo processo evolutivo, completamente independente
+das leis e limitações da evolução orgânica.
+No último parágrafo do texto, sugere-se que o âmbito da biologia e da genética não inclui
+processos que se possam reconhecer como propriamente evolutivos.
+Comentários:
+O autor diz justamente o contrário: "elas certamente foram criadas a partir de um novo processo
+evolutivo".
+Pense assim: se é um "novo processo evolutivo", significa que havia um antigo processo
+evolutivo que era considerado. Portanto, não se pode dizer que "o âmbito da biologia e da
+genética não inclui processos que se possam reconhecer como propriamente evolutivos".
+Questão incorreta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               94
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+            JULGAMENTO DE ASSERTIVAS: PRINCIPAIS ERROS
+Pessoal, vamos ver agora os principais raciocínios equivocados que fazem o aluno errar na hora
+da prova.
+   ●​ Extrapolar:
+Esse é o erro mais comum. O texto vai até um limite e o examinador oferece uma assertiva que
+“vai além” desse limite.
+O examinador inventa aspectos que não estão contidos no texto e o candidato, por não ter
+entendido bem o texto, preenche essas lacunas com a imaginação, fazendo outras associações, à
+margem do texto, estimulado pela assertiva errada. O exemplo mais perigoso é a extrapolação
+com informação verdadeira, mas que não está no texto.
+   ●​ Limitar e Restringir:
+É o contrário da extrapolação. Geralmente se manifesta na supressão de informação essencial
+para o texto.
+A assertiva reducionista omite parte do que foi dito ou restringe o fato discutido a um universo
+menor de possibilidades.
+   ●​ Acrescentar opinião:
+Nesse tipo de assertiva errada, o examinador parafraseia parte do texto, mas acrescenta um
+pouco da sua própria opinião, opinião esta que não foi externada pelo autor.
+A armadilha dessas afirmativas está em embutir uma opinião que não está no texto, mas que está
+na consciência coletiva, pelo fato de ser um clichê ou senso comum que o candidato possa
+compartilhar.
+   ●​ Contradizer o texto.
+O texto original diz “A” e o texto parafraseado da assertiva errada diz “Não A” ou “B”.
+Para disfarçar essa contradição, a banca usará muitas palavras do texto, fará uma paráfrase muito
+semelhante, mas com um vocábulo crucial que fará o sentido ficar inverso ao do texto.
+   ●​ Tangenciar o tema.
+O examinador cria uma assertiva que aparentemente se relaciona ao tema, mas fala de outro
+assunto, remotamente correlato. No mundo dos fatos, aqueles dois temas podem até ser afins,
+mas no texto não se falou do segundo, só do primeiro; então houve fuga ao tema.
+Vamos fazer um exercício e localizar esses erros num texto.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               95
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+(ESTRATÉGIA CONCURSOS / QUESTÃO INÉDITA / 2020) As causas do desemprego no mundo
+      Atualmente o mundo atingiu um nível muito alto de desemprego, fato que só havia
+acontecido, em proporções similares, após a crise de 29.
+      Segundo os órgãos internacionais, existem hoje, aproximadamente, 850 milhões de
+pessoas desempregadas, algumas profissões foram superadas outras extintas, o crescimento
+constante de tecnologias provoca alterações no mercado de trabalho em todo o mundo.
+      Até mesmo em países de terceiro mundo, as fábricas e indústrias estão sofisticadas e
+modernas. As empresas são obrigadas a investir maciçamente em tecnologia para garantir
+rapidez e melhorar a qualidade, itens necessários em um mercado tão competitivo.
+De acordo com os fragmentos abaixo, julgue os itens:
+I- Consoante algumas instituições internacionais, um número próximo de 850 milhões de pessoas
+estão desempregadas, pois o desenvolvimento das tecnologias de automação modificou
+profundamente as relações de trabalho, aumentando a rotatividade nos postos de trabalho.
+                                                       ==219a34==
+
+II- Segundo o autor, o desemprego no Brasil atingiu um nível muito alto, algo que só ocorrera
+após a depressão de 1929.
+III- Fábricas em países de terceiro mundo, ao contrário do que possa parecer, ostentam plantas
+modernas, em que há grandes investimentos em tecnologia, pois esse é um fator necessário para
+sobreviver num mercado competitivo, assim como a qualidade da mão de obra.
+IV- De acordo com organismos internacionais, há aproximadamente 850 milhões de
+desempregados, tendo em vista que algumas profissões foram superadas e extintas, além do fato
+de que o crescimento constante de tecnologias provoca manutenção das relações de trabalho no
+mercado em todo o mundo. Tal nível de desemprego é sem precedentes na história.
+V- Os investimentos em tecnologia são um grande fator para a deterioração dos benefícios
+trabalhistas, constitucionalmente garantidos, acentuando a condição de hipossuficiente dos
+operários das modernas e sofisticadas fábricas em todo o mundo.
+Comentários:
+I- No primeiro item, há extrapolação. O texto não menciona nada sobre automação nem sobre
+rotatividade de trabalho; embora seja possível fazer essas associações à luz do tema
+“desemprego” isso foi além do que estava escrito no texto. Essas informações não estão
+contidas.
+II- Houve redução drástica da abrangência do tema. O autor fala do desemprego em todo o
+mundo; a assertiva somente menciona o Brasil, tornando o universo da discussão muito restrito.
+III- Esse “ao contrário do que possa parecer” é opinião do examinador levemente embutida no
+item. O texto não diz claramente que as fábricas parecem menos modernas. Pelo contrário, diz
+que até as fábricas em países de terceiro mundo estão sofisticadas; então poderíamos até
+entender um sentido concessivo de que não é esperado que essas fábricas sejam modernas, mas
+isso é diferente de dizer que “não parecem” modernas. também foi acrescentada uma outra
+opinião: que “a qualidade da mão de obra é tão importante quanto a tecnologia”. Essas opiniões
+são compartilhadas por muitas pessoas, então o candidato pode se identificar e marcar o item
+como certo. Contudo, não constam no texto escrito.
+IV- O item é quase todo igual ao texto original, mas no finalzinho traz uma informação oposta: “o
+crescimento constante de tecnologias provoca manutenção das relações de trabalho”. Não há
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               96
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+manutenção, há mudanças constantes, nas palavras do autor, há “alterações”. Também contradiz
+o texto a parte: “Tal nível de desemprego é sem precedentes na história”. Isso não é verdade,
+pois também houve desemprego alto após a crise de 29, conforme o texto.
+V- O tema do texto é o aumento do desemprego. Esta assertiva menciona indiretamente a
+tecnologia, mas foca em outro tema: “direitos trabalhistas”. Embora remotamente relacionados,
+houve fuga ao objeto principal do texto.
+Dessa forma, observamos que, embora todas as alternativas tragam palavras muito semelhantes
+às do texto, todos os itens estão errados. Gabarito EEEEE.
+
+
+Viram, pessoal? É assim que a banca trabalha para enganar você: muda pequenas partes do
+texto, subtraindo ou acrescentando informações com o propósito de mudar o sentido da
+assertiva.
+
+
+Agora que já vimos toda a teoria, é hora de Praticar!
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            97
+        www.estrategiaconcursos.com.br                                                    137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+  QUESTÕES COMENTADAS - COMPREENSÃO E INTERPRETAÇÃO -
+                         FGV
+   1. (FGV / TJ-RN / 2023)
+Um candidato a um concurso público devia escrever um texto argumentativo, defendendo a
+preferência pela vida nas grandes cidades pelos cidadãos comuns; entre os argumentos abaixo,
+aquele a que deve ser atribuída a maior importância, é:
+A) As grandes cidades permitem reencontros, ao acaso, nas ruas, nos bares ou nos cinemas;
+B) uma cidade grande é o espaço do progresso social e profissional, onde mais facilmente se
+encontra um posto de trabalho.
+C) uma grande cidade tem espaço muito atraente, o mesmo que tem sido celebrado por grandes
+artistas;
+D) a vida na grande cidade permite, graças aos espaços verdes e aos animais domésticos, o
+aprofundamento no mundo natural;
+E) uma grande cidade é dinâmica e estimulante, possibilitando o acesso a todos os itens da
+modernidade.
+Comentários:
+Pessoal, a argumentação é a favor da vida em grandes cidades grandes. Qual é o maior atrativo
+das cidades grandes, de maneira geral? É o próprio desenvolvimento da cidade, que se traduz
+em mais oportunidades de trabalho e relacionamentos.
+Como a banca pergunta o argumento mais relevante, por bom senso, a resposta é a letra B.
+Vejam como as demais alternativas trazem atrativos muito acessórios ou muito específicos, até
+mesmo falsos.
+A) Reencontros aleatórios são mais comuns em lugares pequenos, pois há maior coincidência nos
+mesmos lugares.
+C) "celebração por grandes artistas"? Não podemos dizer que isso seja verdade. De qualquer
+forma, artistas também celebram o interior.
+D) o interior, menos urbanizado, é muito mais propício para aprofundar no mundo natural.
+Gabarito letra B.
+
+
+   2. (FGV / TJ-RN / 2023)
+Todas as frases abaixo fazem propaganda de um creme dental; aquela que, em busca do
+convencimento do cliente, apela para a sua vaidade é:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             98
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+A) Creme Dental X: mais por preço menor;
+B) Sorriso brilhante é com Creme Dental X;
+C) Faça como os franceses: compre Creme Dental X;
+D) Para proteção completa dos dentes: Creme Dental X;
+E) Não sofra com as cáries: use Creme Dental X.
+Comentários:
+A vaidade está representada pela beleza de um sorriso brilhante.
+Vejamos as demais:
+A) apela para o menor preço. Promoções como "pague um, leve dois" são exemplos da
+estratégia argumentativa da tentação.
+C) apela para uma imagem positiva que as pessoas têm dos franceses. Teríamos aqui um
+exemplo da estratégia da sedução.
+D) apela para a segurança. A estratégia argumentativa que envolve risco/medo/vergonha é a da
+intimidação.
+E) apela para a evitação de um sofrimento. A estratégia argumentativa que envolve
+risco/medo/vergonha é a da intimidação.
+Gabarito letra B.
+
+
+   3. (FGV / TJ-RN / 2023)
+O escritor francês Montaigne declarou: "Estamos sempre dispostos a atribuir aos escritos dos
+outros sentidos que favoreçam as nossas opiniões sedimentadas: um ateu se orgulha de fazer
+com que todos os autores reforcem a causa do ateísmo. Ele envenena com sua própria peçonha
+o mais inocente pensamento".
+Depreende-se da leitura desse texto que:
+A) Montaigne é adepto da causa do ateísmo;
+B) alguns autores interpretam favoravelmente textos alheios;
+C) nossas opiniões sempre encontram apoio em outros textos;
+D) nossas convicções se modificam conforme nossas leituras;
+E) as citações de textos alheios envenenam nossas ideias.
+Comentários:
+Em "estamos sempre dispostos a atribuir aos escritos dos outros sentidos que favoreçam nossas
+opiniões sedimentadas", o autor declara que os textos alheios são revestidos pelos sentidos que
+o leitor acha conveniente para sustentar as ideias que já possui sedimentadas. Ora, isso significa
+que os textos, originalmente, não "apoiam as opiniões". O leitor precisa "atribuir" a eles o
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                99
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+sentido que acha conveniente. O verbo "atribuir" permite concluir que os sentidos são
+distorcidos pelo leitor, que os enxerga como convém. "Envenenar o pensamento" traz
+justamente essa ideia de distorção dos sentidos.
+Além disso, o "nossas opiniões sempre encontram apoio" também cria uma generalização
+indevida, não há a informação no texto de que toda opinião emitida sempre encontra apoio em
+algum texto; e, sim, que a nossa "tendência" é atribuir aos textos a leitura que nos favorece.
+Ressalte-se que a palavra "tendência" também revela algo eventual, que não corre "sempre".
+Quando dizemos que algo "tende" a acontecer, é porque "geralmente" ocorre: não ocorre
+"sempre".
+Não se pode afirmar que toda opinião sempre tem suporte em um texto; os textos mencionados
+sequer sustentam a opinião sedimentada, mas são distorcidos para parecer que sustentam.
+Portanto, o gabarito deve ser a letra B, pela ideia de que "alguns" autores buscam nos textos
+alheios ideias que os favorecem.
+Gabarito letra B.
+
+
+   4. (FGV / TJ-RN / 2023)
+Um escritor espanhol, conhecido por sua preocupação com o idioma, produziu a seguinte frase:
+“Estudar latim é como colocar as palavras para fazer ginástica”.
+Isso significa que:
+A) o estudo de latim é hoje uma tarefa inútil, pois os estudos históricos perderam valor;
+B) o conhecimento do latim melhora a qualidade redacional de nossos textos;
+C) estudar a língua latina faz com que se acrescentem muitos novos vocábulos aos dicionários;
+D) o aprendizado da língua latina é indispensável para o conhecimento de nosso próprio idioma;
+E) estudar latim faz com que aprofundemos o conhecimento das palavras.
+Comentários:
+Numa questão de semântica, temos que ser razoáveis e buscar o propósito da mensagem.
+A língua portuguesa deriva do latim. Na faculdade de letras, inclusive, eu estudei latim por dois
+anos! Isso é necessário para entender melhor a origem, o funcionamento, a evolução, a história, a
+etimologia da língua, além de facilitar muito na identificação do significado das palavras, com
+radicais ou afixos latinos.
+Então, a comparação feita tem base no fato de que o conhecimento do latim é muito relevante
+para o aprofundamento no estudo de nossa língua. Da mesma forma, fazer ginástica faz que
+nosso corpo funcione melhor, aumenta nossa capacidade respiratória, nossa postura, nosso
+alongamento e nossa performance como um todo.
+Em suma, ginástica "turbina" a performance do corpo; estudar latim "turbina" a performance nos
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 100
+        www.estrategiaconcursos.com.br                                                          137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+estudos das palavras.
+Portanto...
+A) Incorreto. O estudo de latim é hoje uma tarefa útil, os estudos históricos não perderam valor;
+B) Incorreto. Não necessariamente o conhecimento do latim melhora a qualidade redacional de
+nossos textos; não adianta conhecer latim e não saber como ele influencia no estágio atual da
+língua. Além disso, só escrevendo é que a redação melhora de qualidade.
+C) Incorreto. Estudar a língua latina faz com que se acrescentem muitos novos vocábulos aos
+nosso vocabulário; nos dicionários, as palavras já estão catalogadas;
+D) Incorreto. Não é indispensável para o conhecimento de nosso próprio idioma, mas é muito útil
+para aprofundamento. Aliás, não precisa "aprender latim", mas, sim, estudar aspectos do latim
+que influenciaram na nossa língua.
+E) Correto. Estudar latim faz com que aprofundemos o conhecimento das palavras.
+Gabarito letra E.
+
+
+   5. (FGV / SEFAZ-MT / 2023)
+As opções a seguir mostram frases de campanhas publicitárias cuja argumentação se apoia em
+um valor social qualquer. Assinale a opção que apresenta a frase em que esse valor social está
+corretamente identificado.
+A) Tenha sucesso na vida! Estude na UFMT e ganhe os melhores salários! / vaidade.
+B) Faça amizade com seus vizinhos: você e eles podem precisar de ajuda amanhã. /
+compreensão.
+C) Escute seus avós: eles não estudaram na universidade, mas possuem experiência. / tradição.
+D) Não deixe para amanhã o que pode fazer hoje: pague hoje mesmo o seu imposto sobre a
+renda! / prudência.
+E) Faça o que fez Cabral: descubra coisas novas! / coragem.
+Comentários:
+Vejamos os valores sociais identificados:
+A) Tenha sucesso na vida! Estude na UFMT e ganhe os melhores salários! / ambição (financeira).
+B) Faça amizade com seus vizinhos: você e eles podem precisar de ajuda amanhã. / compaixão.
+C) Escute seus avós: eles não estudaram na universidade, mas possuem experiência. /
+autoridade/experiência.
+D) Não deixe para amanhã o que pode fazer hoje: pague hoje mesmo o seu imposto sobre a
+renda! / prudência (cautela ao evitar uma punição).
+E) Faça o que fez Cabral: descubra coisas novas! / curiosidade.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 101
+        www.estrategiaconcursos.com.br                                                          137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Gabarito letra D.
+
+
+   6. (FGV / SEFAZ-MT / 2023)
+"Trabalhar pelo preço oferecido por outro e para o lucro deste, sem sendo o preço do trabalho
+Interesse algum pelo trabalho ajustado pela competição hostil, com um lado pedindo o mais
+possível e o outro pagando o menos que puder, não é, mesmo quando os salários são elevados,
+um estado satisfatório para seres humanos de Inteligência cultivada, que deixaram de julgar-se
+inferiores àqueles a quem servem."
+                                                                                John Stuart Mill (1848)
+
+No fragmento acima, Stuart Mill afirma que
+A) todos os que trabalham para outros julgam-se inferiores a eles.
+B) o preço do trabalho é fruto de uma disputa legal entre patrões e empregados.
+C) a competição citada é hostil porque cada um só enxerga os seus interesses.
+D) os salários pagos nunca são satisfatórios para seres humanos de inteligência cultivada.
+E) as relações trabalhistas tendem a se tornar mais problemáticas em um futuro próximo.
+Comentários:
+A competição é hostil porque o empregado quer receber o máximo possível, e o patrão quer
+pagar o mínimo possível. Cada um tenta maximizar seu interesse.
+Nosso gabarito é:
+C) a competição citada é hostil porque cada um só enxerga os seus interesses.
+"Trabalhar pelo preço oferecido por outro e para o lucro deste, sem sendo o preço do trabalho
+Interesse algum pelo trabalho ajustado pela competição hostil, com um lado pedindo o mais
+possível (trabalhador) e o outro pagando o menos que puder (patrão), não é, mesmo quando os
+salários são elevados, um estado satisfatório para seres humanos de Inteligência cultivada, que
+deixaram de julgar-se inferiores àqueles a quem servem."
+Vejamos as demais:
+A) Incorreto. Nem todos os que trabalham para outros julgam-se inferiores a eles; só quem
+trabalha obrigado e não tem inteligência cultivada.
+B) Incorreto. O preço do trabalho é fruto de uma disputa negociação/permuta entre patrões e
+empregados.
+D) Incorreto. Cuidado, o texto diz: “Trabalhar pelo preço oferecido por outro e para o lucro
+deste” não é um estado satisfatório. É um comentário restrito: tem que ser pelo preço oferecido
+e tem que ser pelo lucro dele.
+Alguém que define o próprio salário (profissionais disputados) ou que trabalha em parceria ou
+para si mesmo, naturalmente, não está nesse grupo trazido pelo texto. Os salários pagos algumas
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    102
+        www.estrategiaconcursos.com.br                                                             137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+vezes são satisfatórios para seres humanos de inteligência cultivada.
+E) Incorreto. Extrapolação pura, não há nada no texto sobre o futuro das relações trabalhistas.
+Gabarito letra C.
+
+
+   7. (FGV / PGM-NITERÓI / 2023)
+Todas as frases abaixo expressam uma opinião; aquela que expressa uma opinião alheia de forma
+neutra, é:
+A) Como dizem os agricultores, nem todo dia de sol é bom de plantar ou de colher;
+B) Considero execrável o pensamento egoísta de pagarmos o mínimo possível a quem trabalha;
+C) Considero que esse novo programa agrícola vai atingir um sucesso imenso, principalmente por
+sua criatividade;
+D) Dizem que a distância traz o esquecimento, mas eu não apoio esse raciocínio;
+E) Alguém imaginaria que o atual progresso científico iria trazer essa tragédia para a vida na
+Terra?
+Comentários:
+Observem o enunciado: uma opinião alheia de forma neutra... Temos necessariamente que ter no
+gabarito "opinião de terceiro" + "apresentação sem julgamento dessa opinião".
+A) Como dizem os agricultores, nem todo dia de sol é bom de plantar ou de colher;
+Temos a opinião dos agricultores (os terceiros) e seu conteúdo é simplesmente reproduzido, sem
+valoração alguma.
+Nas demais, há opinião própria, julgamentos pessoais. Atenção aos modalizadores, expressões
+que indicam posicionamento pessoal do autor. Observe os adjetivos, verbos e até substantivos
+usados.
+B) (Eu) Considero execrável (adjetivo subjetivo) o pensamento egoísta de pagarmos o mínimo
+possível a quem trabalha;
+C) (Eu) Considero que esse novo programa agrícola vai atingir um sucesso imenso (adjetivo
+subjetivo), principalmente por sua criatividade (acho criativo: opinião);
+D) Dizem que a distância traz o esquecimento, mas eu não apoio (discordo: opinião) esse
+raciocínio;
+E) Alguém imaginaria que o atual progresso científico iria trazer essa tragédia (é trágico: opinião)
+para a vida na Terra?
+Gabarito letra A.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   103
+        www.estrategiaconcursos.com.br                                                            137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   8. (FGV / PGM-NITERÓI / 2023)
+“Os Cactos da Encosta têm por desagradáveis vizinhos os Promotores da Bagunça. Os
+Trapezistas do Asfalto não se entendem seja com os Promotores da Bagunça, seja com os
+Camelôs da Praça para atenuar uma ameaça contra os Cactos da Encosta, depois, naturalmente
+de se aliarem com os Bitolados da Patota, ou depois de momentaneamente, por acordos
+secretos, terem neutralizado os Camaleões de Plantão. A situação, naturalmente, não se
+apresenta sempre assim de uma maneira tão simples.” (texto adaptado de Henri Michaux)
+Alguns textos provocam lágrimas, outros provocam admiração ou exaltação, outros fazem rir,
+outros nos trazem pessimismo e assim por diante. No caso desse pequeno texto, o que
+predomina é:
+A) o tom trágico, fundamentado na crença de que as coisas são inevitáveis, como a relação
+problemática entre os grupos;
+B) o tom lírico, que exalta os sentimentos íntimos comuns a todos os homens, como ocorre
+nesses grupos;
+C) o tom patético, que provoca uma ternura exagerada nos leitores diante de uma triste situação,
+sem remédio;
+D) o tom cômico, que se fundamenta numa quebra de expectativa, como a de se considerar
+simples uma situação confusa;
+E) o tom épico, que procura valorizar ações de grupos.
+Comentários:
+Se você não entendeu nada do texto, ótimo! Vai acertar a questão.
+Pessoal, o texto é ironicamente construído para satirizar a confusão das relações políticas. O
+narrador apresenta uma história absurdamente confusa e diz que é "simples":
+A situação, naturalmente, não se apresenta sempre assim de uma maneira tão simples.
+A piada era esta: uma trama complicada e confusa ser chamada de simples.
+Portanto, o texto apresenta tom cômico, que se fundamenta numa quebra de expectativa, como
+a de se considerar simples uma situação confusa.
+Gabarito letra D.
+
+
+   9. (FGV / PGM-NITERÓI / 2023)
+Observe o texto argumentativo a seguir. “Os dicionários, como muitos dizem, são ‘os pais dos
+burros’, já que todos os consultam quando desconhecem o significado de alguma palavra, mas
+nossos dicionários ainda têm muito o que aprender, desde a apresentação de informações mais
+precisas, até a inclusão da etimologia das palavras, sua datação e exemplos dos múltiplos
+significados indicados. Assim, eles passarão a ser ‘os pais dos inteligentes’.”
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              104
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+O plano de estruturação argumentativa desse texto é:
+A) apresentação de uma tese própria, seguida de argumentos contrários à tese oposta;
+B) apresentação de uma listagem de argumentos favoráveis a uma tese própria do argumentador,
+explicitada ao final;
+C) apresentação da tese oposta, seguida de argumentos e da tese própria;
+D) apresentação de uma listagem de argumentos favoráveis à tese oposta, sem a explicitação da
+tese própria;
+E) apresentação da tese própria, seguida da tese oposta, com uma listagem de argumentos que
+defendem aquela.
+Comentários:
+O senso comum chama os dicionários de "pais dos burros", porque as pessoas, em geral,
+buscam apenas quando desconhecem uma palavra e desejam superficialmente só saber o
+sentido dela.
+A tese do autor é: o dicionário é o pai dos inteligentes, porque vão trazer informações mais
+técnicas, como etimologia e múltiplos sentidos das palavras.
+Então, a tese do autor (tese própria) é contrária à tese do senso comum, das pessoas em geral.
+Ele parte da tese "oposta", que pretende refutar, depois apresenta sua tese própria.
+“Os dicionários, como muitos dizem, são ‘os pais dos burros’ (tese oposta), já que todos os
+consultam quando desconhecem o significado de alguma palavra (argumento)
+MAS nossos dicionários ainda têm muito o que aprender, desde a apresentação de informações
+mais precisas, até a inclusão da etimologia das palavras, sua datação e exemplos dos múltiplos
+significados indicados. Assim, eles passarão a ser ‘os pais dos inteligentes" (tese própria)
+Não custa lembrar que o "mas" introduz argumentativamente a informação mais relevante do
+período.
+Portanto, a estruturação é: apresentação da tese oposta, seguida de argumentos e da tese
+própria;
+Gabarito letra C.
+
+
+   10. (FGV / PGM-NITERÓI / 2023)
+De cada uma das frases abaixo podem-se retirar informações implícitas ou pressupostas; a opção
+em que a informação implícita está adequadamente referida, é:
+A) O mordomo fechou a janela da sala / na sala havia mais de uma janela e uma delas estava
+aberta;
+B) Os cinco filhos de Vicente estão de férias; três dos meninos foram para o Rio de Janeiro / os
+outros dois filhos são meninas;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              105
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+C) Os novos vizinhos vêm jantar amanhã em nossa casa / os novos vizinhos são amigos de longa
+data;
+D) O automóvel que estava mal estacionado foi retirado da porta da minha casa / o automóvel
+não pertence ao enunciador da frase;
+E) Como professor há muitos anos, já ensinei coisas importantes a meus alunos / os alunos não
+deram a devida atenção ao que lhes foi ensinado.
+Comentários:
+A) Incorreto. O artigo "a" em "a janela da sala" faz inferir que há apenas uma janela da sala.
+B) Incorreto. "Filhos" inclui ambos os gêneros gramaticais. Três "dos meninos" faz inferir que há
+pelo menos mais um menino, ou não faria sentido usar a expressão partitiva.
+C) Incorreto. São novos vizinhos, provavelmente não são amigos de longa data. A inferência
+natural é que acabaram de chegar e estão sendo se integrando socialmente.
+D) Correto. O uso de "minha casa" e o particípio "retirado" faz inferir que o carro era de outra
+pessoa e estava indevidamente estacionado.
+E) Incorreto. Não há suporte para inferir que os alunos deram ou não atenção.
+Gabarito letra D.
+
+
+   11. (FGV / BANESTES / 2023)
+O ex-ministro da Fazenda Delfim Netto declarou certa vez:
+“O capital é como água. Sempre flui por onde encontra menos obstáculos”.
+Assinale a afirmativa correta sobre os componentes e a estrutura desse pensamento.
+A) O segundo período é uma redundância do primeiro, já que expressam o mesmo pensamento.
+B) A comparação do primeiro período é explicada no segundo.
+C) O primeiro período expressa uma causa cuja consequência é expressa no segundo período.
+D) Enquanto o primeiro período é expresso em linguagem figurada, o segundo é expresso em
+linguagem lógica.
+E) O segundo período expressa uma conclusão do que é expresso no período anterior.
+Comentários:
+Primeiro temos uma comparação: O capital é como água.
+Por quê? O que têm de semelhante?
+Explicação: Ambos fluem por onde há menos obstáculos.
+A) Incorreto. O segundo período não é uma redundância do primeiro, é a explicação do
+pensamento.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  106
+        www.estrategiaconcursos.com.br                                                           137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+C) Incorreto. Não há relação de causa e efeito, há uma comparação.
+D) Incorreto. Ambos trazem linguagem lógica.
+E) Incorreto. O segundo período expressa uma explicação do que é expresso no período anterior.
+Gabarito letra B.
+
+
+   12. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte fragmento textual:
+“Observava com muito interesse o quadro de Van Gogh; um quarto modesto, com uma cama ao
+lado da porta, com pequenas gravuras na parede... Não guardei na memória o restante da cena
+porque imaginava a tristeza do pintor ao não ver reconhecido o seu imenso valor...”.
+Nesse caso, a impossibilidade de descrever o restante do quarto está ligada a
+A) uma limitação de tempo.
+B) uma impossibilidade física.
+C) um bloqueio psicológico.
+D) uma falta de conhecimento.
+E) um distanciamento temporal.
+Comentário:
+A causa está evidente no texto, numa oração causal expressa:
+... Não guardei na memória o restante da cena porque imaginava a tristeza do pintor ao não ver
+reconhecido o seu imenso valor...”
+O motivo que impediu a descrição foi um sentimento, a empatia com a tristeza do pintor. Se
+temos uma emoção impedindo uma ação, podemos resumir a causa como um “bloqueio
+psicológico”.
+A impossibilidade é psicológica, não é temporal, física ou de conhecimento. Daí o erro nas
+demais alternativas.
+Gabarito Letra C
+
+
+   13. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Assinale a opção que não apresenta uma opinião.
+A) Nunca dispomos de todas as informações para que possamos chegar às melhores decisões.
+B) Antigamente, os casamentos só ocorriam após um período de namoro e uns anos de noivado.
+C) Logicamente, tudo muda de figura se o seu time vendeu todos os jogadores craques e ficou
+com a sobra.
+D) O inferno está cheio de boas intenções.
+E) As únicas pessoas normais são aquelas que você não conhece bem.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            107
+        www.estrategiaconcursos.com.br                                                     137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Comentário:
+Na letra B, temos apenas a declaração de um fato histórico, objetivo. Nas demais, percebam a
+marca de opinião no uso da primeira pessoa ou adjetivações valorativas: (nós) dispomos;
+logicamente; jogadores craques; boas intenções; pessoas normais…
+Gabarito Letra B
+
+
+   14. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+“A crise de criminalidade do Brasil é produto da impunidade. A impunidade, por sua vez, tem
+duas raízes. A primeira é a incapacidade do sistema de Justiça Criminal de impedir os crimes e
+identificar, prender e manter os criminosos depois que o crime foi cometido. A segunda raiz é
+uma legislação penal criada com base na ideologia do criminoso ‘vítima da sociedade’ e em
+algumas ideias absurdas, sem nenhum compromisso com a realidade”.
+                                                       ==219a34==
+
+                                                                                     (Adaptado)
+“A crise de criminalidade do Brasil é produto da impunidade”.
+Essa frase inicial do texto
+A) resume integralmente o conteúdo do texto.
+B) fala de algo que fica sem explicações.
+C) simplifica exageradamente um problema grave.
+D) não mostra relação de causa e efeito.
+E) é retificada no restante do parágrafo.
+Comentário:
+Aqui temos a falácia da simplificação exagerada, que consiste em pegar um tema complexo,
+multifatorial, polêmico, e tratar como se fosse possível resumir a questão a um único aspecto.
+Geralmente, as mães incidem muito nessa falácia, quando os filhos trazem um problema, por
+mais complexo que seja, muitas dizem “nada que uma noite de sono não resolva” rs...
+Brincadeiras à parte, é demasiado simplista dizer que a criminalidade se deve unicamente à
+impunidade. Há diversos outros fatores, econômicos, sociais, históricos...
+A) Incorreto; não resume integralmente o conteúdo do texto, pois traz apenas uma raiz da
+questão.
+B) Incorreto. Traz sim explicações, a própria impunidade.
+D) Incorreto. Mostra relação de causa e efeito, ao dizer que a criminalidade é “produto
+(efeito/resultado)” da impunidade.
+E) Incorreto; é rAtificada no restante do parágrafo.
+Gabarito Letra C
+
+
+   15. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             108
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Os textos informativos preocupam-se em dar credibilidade ao que informam, atribuindo o valor
+de certeza ao que veiculam.
+Assinale a opção em que não há nenhum termo que reduza esse tom de precisão absoluta.
+A) Segundo alguns, dinheiro não traz felicidade, mas é certo que afasta a infelicidade para bem
+longe.
+B) O novo governo americano talvez traga mais tranquilidade econômica aos EUA.
+C) O controle da poluição ambiental poderia produzir mais riqueza no futuro do planeta.
+D) Como o governador é muito amigo do prefeito, possivelmente devem fazer muitas parcerias.
+E) Millôr Fernandes afirmou que devagar se vai ao longe, mas quando se chega lá não se
+encontra mais ninguém.
+Comentário:
+A) ”Segundo alguns” reduz a credibilidade, pois indica mera citação de opinião vaga (alguns) e
+alheia.
+B) O advérbio “talvez” indica dúvida.
+C) O futuro do pretérito “poderia” indica incerteza.
+D) O advérbio “possivelmente” indica dúvida.
+E) Aqui, temos alternativa correta, com uma afirmação categórica de uma autoridade.
+Gabarito Letra E
+
+
+   16. (FGV – Soldado - PM SP / 2022)
+                                                      Texto I
+“É preciso fazer uma reflexão. O turismo e os turistas que chegam a Florianópolis causam uma
+agonia. A invasão das praias mostra um retrato do Brasil popular, mas sem nenhuma delicadeza.
+Me sinto encurralado pelos hábitos de mal gosto de grande parcela dos turistas que acham que
+som alto à beira mar e lixo jogado em todo canto fazem parte do relax das férias. Não
+compreendo essa identidade do brasileiro do quanto mais bagunçado melhor. Tudo pode em
+nome da liberdade individual e do politicamente correto. E não bastasse o comportamento dos
+que chegam de fora, os locais acabam cooperando, liberando seus instintos, juntando-se à
+bagunça geral. E os preços então? Uma explosão numérica sem limites. Mas enfim, deve ser essa
+a tão sonhada identidade brasileira.”
+                                          (PRATA, Anselmo. Turismo em Santa Catarina – Vale a pena? Disponível em
+                                                    https://www.ronaud.com/sociedade/turismo-em-santa-catarina/)
+
+
+A parte inicial do Texto I diz que os turistas “causam uma agonia”. A razão dessa agonia é
+A) a insegurança causada pelo excesso de pessoas.
+B) o aumento abusivo dos gêneros de primeira necessidade.
+C) o desrespeito dos turistas em relação ao trânsito.
+D) a característica brasileira de adesão à bagunça.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                               109
+        www.estrategiaconcursos.com.br                                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+E) a falta de higiene nas praias.
+Comentário:
+Pessoal, muito cuidado. Algumas alternativas estão corretas e fundadas no texto, mas a banca
+quer a opção que resuma tudo.
+Vejamos:
+retrato do Brasil popular
+Não compreendo essa identidade do brasileiro do quanto mais bagunçado melhor. Tudo pode
+em nome da liberdade individual e do politicamente correto.
+Percebe-se que o ponto focal é a “má educação” do brasileiro, que se traduz em música alta,
+trânsito caótico, lixo, superlotação e, consequentemente, inflação de preços. Isso inclui os turistas
+e também os locais, os brasileiros em geral, que causam ou aderem à bagunça.
+Então, a causa original que sintetiza tudo é: a característica brasileira de adesão à bagunça.
+Gabarito Letra D
+
+
+   17. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eficiência comunicativa.
+Observe a frase abaixo:
+“Dada a causa, a natureza produz o efeito do modo mais breve em que pode ser produzido”.
+Segundo essa frase, a natureza:
+A) produz tudo aquilo de que o homem precisa;
+B) indica ao homem o caminho a seguir;
+C) segue, sem pressa, a ordem natural das coisas;
+D) cria leis, mas não as respeita;
+E) mostra espírito lógico e eficiência.
+Comentários:
+Note que há uma relação de causa e consequência na oração dada:
+Dada a causa, a natureza produz um efeito
+Além disso, há a noção de eficiência:
+efeito do modo mais breve possível ("fazer o melhor com o que se é dado").
+Assim, a única alternativa que traz essa relação de causa e consequência aliada à noção de
+eficiência é a Letra E. Gabarito: Letra E.
+
+
+   18. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Texto 1
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                 110
+          www.estrategiaconcursos.com.br                                                          137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eficiência comunicativa.
+Considerando o pensamento do texto 1 e tendo conhecimento das atribuições de um oficial de
+justiça, chegamos à conclusão de que, nessa atividade, a língua escrita, o nível, o uso ou o
+registro do idioma deve ser predominantemente:
+A) formal, de acordo com os princípios da gramática normativa;
+B) informal, em busca de mais ampla compreensão da mensagem;
+C) regional, adequando-o ao local onde ocorre a comunicação;
+D) popular, tendo em vista que as mensagens são lidas por todos;
+E) ultraformal, selecionando vocabulário erudito e construções elaboradas.
+Comentários:
+O comando da questão pede tanto o "pensamento do texto 1" quanto o "conhecimento do
+cargo de oficial de justiça". No texto, é dito que " devemos adequar o uso da língua à situação",
+portanto, sabendo do nível de formalidade dos órgãos públicos, entende-se a necessidade do
+uso da norma culta. Gabarito letra A.
+
+
+   19. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+Texto 2:
+Notícia publicada na imprensa na penúltima semana de setembro de 2019:
+“Tráfico da Rocinha ameaça quem joga lixo na rua
+Bandidos espalham cartazes em área onde houve deslizamentos de terra nas últimas chuvas,
+alertando moradores para não despejar detritos em beco. Medida seria tomada porque venda de
+drogas é interrompida quando a região alaga”.
+No caso do texto 2, a finalidade dos cartazes espalhados na Rocinha é:
+A) conscientizar a população;
+B) salvaguardar interesses;
+C) contribuir para a higiene na comunidade;
+D) proteger a saúde dos habitantes;
+E) prevenir desastres naturais.
+Comentários:
+Os cartazes foram espalhados “para [a população] não despejar detritos em beco". A explicação
+para tal atitude é que a "venda de drogas é interrompida quando a região alaga”. Note que a
+finalidade dos cartazes é evitar a interrupção do tráfico de drogas, ou seja, a manutenção das
+vendas de drogas. Inclusive tal finalidade vai ao encontro dos interesses dos traficantes, e não a
+uma proteção dos moradores da Rocinha ou ainda a prevenção de desastres.
+Portanto, a alternativa que traz a finalidade dos cartazes, como demonstrado acima, é a Letra B.
+Gabarito letra B.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                111
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   20. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+OCDE reduz projeções para Brasil e Argentina
+As manchetes jornalísticas seguem um padrão em sua elaboração; NÃO faz parte desse padrão,
+segundo o que se pode deduzir a partir da manchete acima:
+A) emprego de verbos no presente;
+B) ausência de pontuação;
+C) concentração de informações;
+D) siglas não explicitadas;
+E) emprego de linguagem coloquial.
+Comentários:
+As manchetes são caracterizadas por: (i) emprego de verbos no presente; (ii) ausência de ponto
+final; (iii) informação concentrada e objetiva; (iv) uso de linguagem informal, coloquial.
+A alternativa que não apresenta essas características é a Letra D: não pode ser considerada como
+característica da manchete, pois há inclusive o uso de sigla no exemplo (OCDE). Gabarito letra D.
+
+
+   21. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+Um jornal de grande circulação traz a seguinte manchete para um de seus artigos:
+Prisão de traficante mostra eficácia da inteligência policial – Compra e venda de lanchas por
+chefe de facção criminosa chamaram atenção da polícia.
+Os fatos abaixo, presentes nessa notícia, que se apresentam em ordem cronológica são:
+A) chamar atenção da polícia / compra e venda de lanchas / prisão de traficante;
+B) prisão de traficante / mostra eficácia da inteligência policial / chamar atenção da polícia;
+C) mostra eficácia da inteligência policial / prisão de traficante / chamar atenção da polícia;
+D) compra e venda de lanchas / chamar atenção da polícia / prisão de traficante;
+E) chamar atenção da polícia / compra e venda de lanchas / mostra eficácia da inteligência
+policial.
+Comentários:
+Cuidado! Precisamos encontrar a ordem cronológica dos fatos.
+No texto, os eventos são apresentados na seguinte disposição: prisão de traficante => compra e
+venda de lanchas => chamam a atenção da polícia.
+Vamos pensar de forma lógica: para que a atenção da polícia fosse chamada, algum ato anterior
+teria de ser cometido (compra e venda de lanchas por chefe de facção criminosa). Depois que a
+polícia percebe isso, há a prisão do traficante.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   112
+        www.estrategiaconcursos.com.br                                                            137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Assim, a ordem cronológica dos fatos é a seguinte: compra e venda de lanchas por chefe de
+facção criminosa => a atenção da polícia => prisão de traficante. Portanto, Gabarito letra D.
+
+    22. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+Texto 1
+Uma propaganda sobre o aniversário de um programa de notícias diz o seguinte:
+O maior programa brasileiro de notícias completa 40 anos.
+ A história de quatro décadas do programa registra os fatos mais relevantes da história mundial,
+bem como as evoluções tecnológicas e de tratamento de informação que vêm transformando as
+comunicações em todo o mundo.
+Segundo o texto 1, o destaque de maior valor do programa de notícias é:
+A) a procura incessante pela verdade nas informações;
+B) a durabilidade sempre atualizada do programa;
+C) a documentação histórica de fatos e evoluções;
+D) a transformação do programa através do tempo;
+E) as mudanças no tratamento das informações.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. A notícia traz os fatos, mas não se pode deduzir que seja uma "procura incessante"
+pela verdade.
+B) ERRADA. Segundo o texto, " A história de quatro décadas do programa registra os fatos mais
+relevantes da história mundial, bem como as evoluções tecnológicas ". Ou seja, as evoluções
+tecnológicas são noticiadas pelo programa - não se pode afirmar que são do programa.
+C) CERTA.
+D) ERRADA. O texto não traz a transformação do programa, mas como ele registra e transmite
+fatos relevantes.
+E) ERRADA. Não no texto a referência a "mudança no tratamento das informações". Gabarito
+letra C.
+
+
+    23. (FGV / PREF. DE SALVADOR - BA / FISCAL / 2019)
+   O desmatamento da Floresta Amazônica: causas e soluções
+O debate sobre o problema do desmatamento da Floresta Amazônica, que tem se expresso,
+entre outros, nos debates sobre as mudanças no Código Florestal, tem-se caracterizado por sua
+superficialidade e pelo seu caráter ideológico. Inicialmente, há a necessidade de se identificar o
+processo de forma clara, após isto buscar as suas causas, e, finalmente, pensar nas soluções no
+curto, médio e longo prazos.
+Política Ambiental, nº 8, junho de 2011.
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                              113
+          www.estrategiaconcursos.com.br                                                       137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Assinale a opção em que a relação do título com o texto está corretamente identificada.
+A) O título fala de causas e soluções do desmatamento, mas só indica as soluções.
+B) O título indica causas e soluções, mas só indica as causas.
+C) O texto não fala nem de umas nem de outras, apesar de falar de causas a soluções do
+desmatamento.
+D) O texto explicita as causas e soluções do desmatamento falando de causas e soluções no
+título.
+E) O texto indica somente uma causa e uma solução, apesar de indicar uma quantidade plural de
+causas e soluções.
+Comentários:
+Para resolver a questão, temos que ter em mente que o texto não fala exatamente QUAIS causas
+e soluções do desmatamento, mas traça "a necessidade de se identificar o processo de forma
+clara", "buscar as suas causas" e "pensar nas soluções".
+Por isso, Gabarito letra C.
+
+
+    24. (FGV / PREF. DE SALVADOR - BA / ANALISTA / 2019)
+Leia o texto a seguir
+“Por que todos os povos deste planeta gostam de futebol? Talvez porque o futebol, além de ser
+uma linguagem gestual, fácil de ser decodificada, é, acima de tudo, uma grande metalinguagem.
+Isso quer dizer que o seu significado ou sentido é explicado por seus próprios movimentos,
+entendidos por quase todos, independentemente de classe social, cultural ou econômica”.
+Luiz César Saraiva Feijó, Futebol falado.
+Segundo o conteúdo do texto, assinale a opção que mostra a melhor resposta para a pergunta
+inicial.
+A) Por ser uma linguagem gestual.
+B) Por ser uma linguagem decodificada facilmente.
+C) Por ser uma grande metalinguagem.
+D) Por ter seu significado explicado a todas as classes.
+E) Por não necessitar de explicação dos próprios movimentos.
+Comentários:
+Questão polêmica. Veja o trecho " Talvez porque o futebol, além de ser uma linguagem gestual,
+fácil de ser decodificada, é, acima de tudo, uma grande metalinguagem." Pelo texto, há duas
+respostas corretas: Letras B e C. A Banca não anulou a questão e manteve o gabarito como Letra
+B.
+Às vezes as Bancas erram e temos que saber lidar com isso. É assim que continuamos nosso
+estudo. Gabarito letra B.
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                           114
+         www.estrategiaconcursos.com.br                                                    137
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   25. (FGV / PREF. DE SALVADOR - BA / ANALISTA / 2019)
+Analise a charge a seguir.
+
+Assinale a opção que indica uma manchete adequada a seu conteúdo.
+A) Balas perdidas matam crianças nas escolas.
+B) A educação é uma arma contra a violência.
+C) Todos contra a liberação das armas.
+D) Estudantes reagem com violência contra os cortes.
+E) Escolas públicas em perigo.
+Comentários:
+Ao interpretar a charge, percebemos que a charge mostra vários lápis apontando para uma
+munição, fazendo referência ao fato de que a educação pode diminuir a violência. Gabarito letra
+B.
+
+
+   26. (FGV / PREF. DE SALVADOR - BA / ANALISTA / 2019)
+Uma editora paulista, sob o título “Da semente ao livro”, publicou o texto a seguir.
+“Plantar florestas. A madeira que serve de matéria-prima para nosso papel vem de plantio
+renovável, ou seja, não é fruto de desmatamento. Essa prática gera milhares de empregos para
+agricultores e ajuda a recuperar áreas ambientais degradadas.”
+Esse texto publicitário pretende
+A) mostrar a perfeita organização da empresa.
+B) criar uma imagem positiva da empresa na população.
+C) indicar a razão do sucesso profissional da empresa.
+D) demonstrar que a proteção ambiental é uma exigência legal.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             115
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+E) destacar os prejuízos do desmatamento.
+Comentários:
+Observe que o texto enaltece a visão positiva e sustentável da empresa: " nosso papel vem de
+plantio renovável", " gera milhares de empregos" e " e ajuda a recuperar áreas ambientais
+degradadas". Gabarito letra B.
+
+
+   27. (FGV / PREF. DE SALVADOR - BA / PROFESSOR / 2019)
+Merece a aprovação universal a máxima de que a verdade é um produto do tempo. A opinião
+mais comum sobre a antiguidade constitui uma negligência, e mal se compadece com a própria
+palavra. Antiguidade, a rigor, quer dizer mundo dos mais velhos ou época mais adiantada da
+vida. E é fato razoável que, tal como se espera do ancião maior notícia das coisas humanas e
+mais maduro juízo que do jovem, pela experiência e pela variedade das coisas que viu, ouviu e
+pensou, assim também da nossa era se deve esperar mais que dos antigos tempos, como idade
+do mundo cumulada e provida de sumas e infindas descobertas, experiências e observações.
+Adaptado de Francis Bacon, Cogitata et visa de interpretatione naturae (1607-1609).
+
+De acordo com o texto, sobre o conhecimento da época de Francis Bacon, analise as afirmativas
+a seguir e assinale V para a verdadeira e F para a falsa.
+
+
+I. O conhecimento é atemporal, pois os Modernos repetiam o passado ao imitar os Antigos.
+II. O conhecimento é frágil, por isso os Modernos deveriam submeter suas descobertas à
+autoridade dos Antigos.
+III. O conhecimento é temporal, e os Modernos avançavam em acúmulo de descobertas e
+conhecimentos em relação aos Antigos.
+
+
+As afirmativas são, na ordem apresentada, respectivamente,
+A) V – F – F.
+B) V – V – F.
+C) V – F – V.
+D) F – V – F.
+E) F – F – V.
+Comentários:
+Vejamos os itens:
+I. FALSO. Segundo o autor, " que a verdade é um produto do tempo ", ou seja, é temporal.
+II. FALSO. De acordo com o texto, ", assim também da nossa era se deve esperar mais que dos
+antigos tempos", ou seja, deve-se esperar mais do seu tempo.
+III. VERDADEIRO. Portanto, Gabarito letra E.
+
+
+   28. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                           116
+         www.estrategiaconcursos.com.br                                                    137
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+O jornal A Tarde publicou as duas manchetes esportivas a seguir.
+Bahia cai para o Atlético-MG e acaba com chance de vaga na Libertadores
+Vitória perde para Atlético-PR e se complica na luta contra o rebaixamento
+
+
+Sobre essas duas manchetes, assinale a opção que apresenta a afirmativa correta.
+A) A estruturação dos textos se dirige aos “iniciados” no futebol.
+B) A gravidade das derrotas é apresentada como equivalente.
+C) O verbo “cair” pertence à linguagem denotativa.
+D) Uma das siglas representativas de estados está errada.
+E) O jornal mostra parcialidade na informação prestada.
+Comentários:
+Vejamos as alternativas:
+A) CERTA.
+B) ERRADA. "Acaba com chance" tem um significa mais negativo que "se complica", pois esta
+permite uma retomada, ou seja, há possibilidade de uma reviravolta. Portanto, não há
+equivalência entre as manchetes.
+C) ERRADA. "Cair" está sendo usado com o sentido de perder. Portanto, sentido conotativo.
+D) ERRADA. Não há erro no uso das siglas.
+E) ERRADA. Por mais que a linguagem utilizada seja coloquial e figurada, as manchetes
+simplesmente passam a informação sobre o resultado dos jogos dos times. Gabarito: Letra A.
+
+
+   29. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+Violência, participação e democracia
+“Manifestações públicas constituem um dos aspectos essenciais da vida democrática. Um regime
+político que é incapaz de tolerar a livre manifestação da população – inclusive a que contraria os
+ocupantes do poder – não pode ser considerado democrático. Historicamente, os regimes
+democráticos se consolidam quando a luta política deixa de ser o arriscado jogo do tudo ou nada
+e se institucionaliza como parte do cotidiano da sociedade.”
+Folha de São Paulo, 14/6/2014.
+
+Esse trecho apresenta uma série de pensamentos de caráter democrático, à exceção de um.
+Assinale-o.
+A) A luta política não deve ter caráter radical.
+B) As manifestações públicas devem ser normalmente aceitas.
+C) O poder político deve tolerar manifestações opostas.
+D) A luta política não deve fazer parte do cotidiano social.
+E) A violência não deve ser empregada contra manifestações.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                117
+        www.estrategiaconcursos.com.br                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Comentários:
+Dentre as alternativas, a única que não traz pensamento de caráter democrático é a Letra D: na
+democracia a luta política deve sim fazer parte do cotidiano social. Nas demais alternativas, há
+elementos do pensamento democrático: não radicalismo (A), aceitação de manifestação pública
+(B), tolerância (C) e o não uso da violência (E). Gabarito: Letra D.
+
+
+    30. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+“Ler é importante porque leva a pessoa a ter contato com várias ideias diferentes (dos autores),
+adquirindo assim uma visão mais ampla do mundo e dos conflitos que envolvem a humanidade e
+a sociedade. Quando se tem uma visão mais ampla, se tem também mais material para formar as
+próprias ideias e resolver de melhor forma os próprios problemas.”
+brunokabuki.blogspot.com/2019/
+Segundo o texto, a leitura
+A) faz os autores entrarem em contato com várias ideias.
+B) obriga os leitores a terem uma visão mais ampla do mundo.
+C) torna menos compreensíveis os conflitos do mundo.
+D) fornece ferramentas para a formação de nossas ideias.
+E) minimiza os problemas que enfrentamos.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. Segundo o texto, a leitura " leva a pessoa a ter contato com várias ideias diferentes
+", ou seja, a pessoa quem está lendo, o leitor.
+B) ERRADA. Não é uma obrigação, mas uma possibilidade.
+C) ERRADA. Ao contrário: a ampliação da visão de mundo permite uma maior compreensão.
+D) CERTA.
+E) ERRADA. Extrapolação clássica do texto: a leitura não minimiza os problemas que
+enfrentamos. Gabarito: Letra D.
+
+
+    31. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+“Ler é essencial. Através da leitura, testamos os nossos próprios valores e experiências com as
+dos outros. No final de cada livro, ficamos enriquecidos com novas experiências, novas ideias,
+novas pessoas. Eventualmente, ficaremos a conhecer melhor o mundo e um pouco melhor de
+nós próprios”.
+site Universo de Literacias.
+
+Segundo o texto, a leitura permite
+A) conhecer-nos um pouco melhor.
+B) aprofundar nossos relacionamentos pessoais.
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                             118
+         www.estrategiaconcursos.com.br                                                      137
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+C) revisitar conhecimentos já adquiridos.
+D) comparar o passado com o presente.
+E) produzir ideias revolucionárias.
+Comentários:
+Note que o texto traz as vantagens da leitura: vivência de novos valores e experiências,
+autoconhecimento e conhecimento do mundo.
+A alternativa que traz uma dessas opções é a Letra A. Note que o trecho, "ficaremos a conhecer
+melhor o mundo e um pouco melhor de nós próprios", confirma o indicado na alternativa.
+As demais alternativas trazem ideias que não estão amparadas pelo texto. Gabarito: Letra A.
+
+
+   32. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+A revista Veja, em 30/03/2016, publicou a seguinte manchete:
+Comida desperdiçada na América Latina reduziria 37% da fome do mundo
+Cerca de 348 mil toneladas de alimentos são perdidas por dia na região.
+
+
+Sobre os componentes do texto dessa manchete, assinale a afirmativa correta.
+A) Se a América Latina não desperdiçasse tantos alimentos, acabaria a fome no mundo.
+B) A principal crítica do texto se dirige ao atraso cultural e econômico da América Latina.
+C) A expressão “cerca de” indica precisamente a quantidade de alimentos desperdiçada.
+D) Em todo o texto há a identificação clara do responsável pelo desperdício de alimentos.
+E) A forma verbal “reduziria” indica uma possibilidade, e não uma certeza.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. Note que não "acabaria com a fome", mas sim a "reduziria".
+B) ERRADA. Não há crítica sobre "atraso cultural", mas sobre o desperdício de comida.
+C) ERRADA. “Cerca de” traz o sentido aproximado.
+D) ERRADA. Não se sabe ao certo os responsáveis, pois o texto é nomeia ou dá indícios para que
+o leitor posso inferir isso.
+E) CERTA. "Reduziria" está flexionado no Futuro do Pretérito, que denota possibilidade.
+Gabarito: Letra E.
+
+
+   33. (FGV / PREF. DE SALVADOR - BA / FISCAL DE SERVIÇOS / 2019)
+No prefácio de um livro de Jorge Amado, Vinícius de Moraes escreveu o seguinte:
+“Em dois textos simples, Jorge Amado acaba de escrever o que para mim é o melhor romance e
+a melhor novela da literatura brasileira”.
+O segmento “o melhor romance e a melhor novela da literatura brasileira” refere-se
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               119
+        www.estrategiaconcursos.com.br                                                        137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+A) a uma narrativa que poderia ser considerada como romance ou novela.
+B) a duas obras distintas publicadas em um só livro.
+C) à publicação de dois textos de valor na obra de Jorge Amado.
+D) à escrita simultânea de dois livros por Jorge Amado.
+E) à notícia do relançamento de novos livros de nossa literatura.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. Não há exclusão no texto: romance OU novela, e sim adição ("e")
+B) ERRADA. Dentro de um livro/obra há dois textos: um romance e uma novela.
+C) CERTA.
+D) ERRADA. Não há dois livros, mas apenas um.
+E) ERRADA. O texto não traz informação sobre "relançamento". Gabarito: Letra C.
+
+
+   34. (FGV / TJ-CE / TÉCNICO / 2019)
+“As leis existem, mas quem as aplica?”
+Esse pensamento de Dante Alighieri critica:
+A) a má elaboração das leis;
+B) o excesso de leis;
+C) o rigor excessivo da polícia;
+D) a fraqueza humana;
+E) o controle demasiadamente rigoroso das leis.
+Comentários:
+O pensamento de Dante pode ser entendido assim: o problema das leis não é sua existência,
+mas quem (os homens) está aplicando-as. Portanto, ao analisar as alternativas, temos que aquelas
+que se referem às leis não podem ser consideradas certas - é o caso das letras (A), (B) e (E). A
+Letra (C) traz um elemento não presente no pensamento de Dante, a polícia.
+Portanto, a alternativa correta é a Letra D. Gabarito: Letra D.
+
+
+   35. (FGV / TJ-CE / TÉCNICO / 2019)
+“Alguns tiveram a forca como preço pelo próprio crime, outros, a coroa”.
+Essa frase confirma o seguinte ditado popular:
+A) O crime não compensa, às vezes;
+B) Toda punição é maldade;
+C) Olho por olho e dente por dente;
+D) Pena intensa não cura bandido;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              120
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+E) A prisão é escola do crime.
+Comentários:
+Ao interpretar a frase, entenda que algumas pessoas, ao cometer um crime, são punidas
+(inclusive com a morte - "forca"), mas outras não são punidas, e podem até mesmo serem
+beneficiadas, presenteadas ("coroa").
+As alternativas (B), (D) e (E) tratam apenas os aspectos negativos da punição; a letra (C) não traz o
+entendimento do texto. Portanto, a alternativa correta é a Letra A: note que "às vezes" relativiza
+a frase, ou seja, não é sempre que o crime não compensa. Gabarito: Letra A.
+
+
+   36. (FGV / TJ-CE / TÉCNICO / 2019)
+“Sem instrução, as melhores leis tornam-se inúteis".
+Esse pensamento deve ser entendido do seguinte modo:
+A) Se não houver educação dos cidadãos, as leis tornam-se inúteis;
+B) Se as leis não forem acompanhadas de instruções de funcionamento, tornam-se inúteis;
+C) Caso as leis não possuam instruções claras, elas se tornam inúteis;
+D) Só com a educação dos juízes, as leis podem tornar-se úteis;
+E) Se os juízes não forem pessoas cultas, as leis se tornam inúteis por não serem claras.
+Comentários:
+Vejamos as alternativas:
+A) CERTA.
+B) ERRADA. Não há a necessidade de as leis serem acompanhadas de instruções de
+funcionamento para se tornarem úteis.
+C) ERRADA. "Instrução" tem o sentido de "educação", e não de regramento.
+D) ERRADA. Não há restrição da "instrução" aos juízes.
+E) ERRADA. Não são apenas os juízes que devem ser instruídas. Gabarito: Letra A.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   121
+        www.estrategiaconcursos.com.br                                                            137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+ LISTA DE QUESTÕES - COMPREENSÃO E INTERPRETAÇÃO - FGV
+   1. (FGV / TJ-RN / 2023)
+Um candidato a um concurso público devia escrever um texto argumentativo, defendendo a
+preferência pela vida nas grandes cidades pelos cidadãos comuns; entre os argumentos abaixo,
+aquele a que deve ser atribuída a maior importância, é:
+A) As grandes cidades permitem reencontros, ao acaso, nas ruas, nos bares ou nos cinemas;
+B) uma cidade grande é o espaço do progresso social e profissional, onde mais facilmente se
+encontra um posto de trabalho.
+C) uma grande cidade tem espaço muito atraente, o mesmo que tem sido celebrado por grandes
+artistas;
+D) a vida na grande cidade permite, graças aos espaços verdes e aos animais domésticos, o
+aprofundamento no mundo natural;
+E) uma grande cidade é dinâmica e estimulante, possibilitando o acesso a todos os itens da
+modernidade.
+
+
+   2. (FGV / TJ-RN / 2023)
+Todas as frases abaixo fazem propaganda de um creme dental; aquela que, em busca do
+convencimento do cliente, apela para a sua vaidade é:
+A) Creme Dental X: mais por preço menor;
+B) Sorriso brilhante é com Creme Dental X;
+C) Faça como os franceses: compre Creme Dental X;
+D) Para proteção completa dos dentes: Creme Dental X;
+E) Não sofra com as cáries: use Creme Dental X.
+
+
+   3. (FGV / TJ-RN / 2023)
+O escritor francês Montaigne declarou: "Estamos sempre dispostos a atribuir aos escritos dos
+outros sentidos que favoreçam as nossas opiniões sedimentadas: um ateu se orgulha de fazer
+com que todos os autores reforcem a causa do ateísmo. Ele envenena com sua própria peçonha
+o mais inocente pensamento".
+Depreende-se da leitura desse texto que:
+A) Montaigne é adepto da causa do ateísmo;
+B) alguns autores interpretam favoravelmente textos alheios;
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             122
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+C) nossas opiniões sempre encontram apoio em outros textos;
+D) nossas convicções se modificam conforme nossas leituras;
+E) as citações de textos alheios envenenam nossas ideias.
+
+
+   4. (FGV / TJ-RN / 2023)
+Um escritor espanhol, conhecido por sua preocupação com o idioma, produziu a seguinte frase:
+“Estudar latim é como colocar as palavras para fazer ginástica”.
+Isso significa que:
+A) o estudo de latim é hoje uma tarefa inútil, pois os estudos históricos perderam valor;
+B) o conhecimento do latim melhora a qualidade redacional de nossos textos;
+C) estudar a língua latina faz com que se acrescentem muitos novos vocábulos aos dicionários;
+D) o aprendizado da língua latina é indispensável para o conhecimento de nosso próprio idioma;
+E) estudar latim faz com que aprofundemos o conhecimento das palavras.
+
+
+   5. (FGV / SEFAZ-MT / 2023)
+As opções a seguir mostram frases de campanhas publicitárias cuja argumentação se apoia em
+um valor social qualquer. Assinale a opção que apresenta a frase em que esse valor social está
+corretamente identificado.
+A) Tenha sucesso na vida! Estude na UFMT e ganhe os melhores salários! / vaidade.
+B) Faça amizade com seus vizinhos: você e eles podem precisar de ajuda amanhã. /
+compreensão.
+C) Escute seus avós: eles não estudaram na universidade, mas possuem experiência. / tradição.
+D) Não deixe para amanhã o que pode fazer hoje: pague hoje mesmo o seu imposto sobre a
+renda! / prudência.
+E) Faça o que fez Cabral: descubra coisas novas! / coragem.
+
+
+   6. (FGV / SEFAZ-MT / 2023)
+"Trabalhar pelo preço oferecido por outro e para o lucro deste, sem sendo o preço do trabalho
+Interesse algum pelo trabalho ajustado pela competição hostil, com um lado pedindo o mais
+possível e o outro pagando o menos que puder, não é, mesmo quando os salários são elevados,
+um estado satisfatório para seres humanos de Inteligência cultivada, que deixaram de julgar-se
+inferiores àqueles a quem servem."
+                                                                                John Stuart Mill (1848)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    123
+        www.estrategiaconcursos.com.br                                                             137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+No fragmento acima, Stuart Mill afirma que
+A) todos os que trabalham para outros julgam-se inferiores a eles.
+B) o preço do trabalho é fruto de uma disputa legal entre patrões e empregados.
+C) a competição citada é hostil porque cada um só enxerga os seus interesses.
+D) os salários pagos nunca são satisfatórios para seres humanos de inteligência cultivada.
+E) as relações trabalhistas tendem a se tornar mais problemáticas em um futuro próximo.
+
+
+   7. (FGV / PGM-NITERÓI / 2023)
+Todas as frases abaixo expressam uma opinião; aquela que expressa uma opinião alheia de forma
+neutra, é:
+A) Como dizem os agricultores, nem todo dia de sol é bom de plantar ou de colher;
+B) Considero execrável o pensamento egoísta de pagarmos o mínimo possível a quem trabalha;
+C) Considero que esse novo programa agrícola vai atingir um sucesso imenso, principalmente por
+sua criatividade;
+D) Dizem que a distância traz o esquecimento, mas eu não apoio esse raciocínio;
+E) Alguém imaginaria que o atual progresso científico iria trazer essa tragédia para a vida na
+Terra?
+
+
+   8. (FGV / PGM-NITERÓI / 2023)
+“Os Cactos da Encosta têm por desagradáveis vizinhos os Promotores da Bagunça. Os
+Trapezistas do Asfalto não se entendem seja com os Promotores da Bagunça, seja com os
+Camelôs da Praça para atenuar uma ameaça contra os Cactos da Encosta, depois, naturalmente
+de se aliarem com os Bitolados da Patota, ou depois de momentaneamente, por acordos
+secretos, terem neutralizado os Camaleões de Plantão. A situação, naturalmente, não se
+apresenta sempre assim de uma maneira tão simples.” (texto adaptado de Henri Michaux)
+Alguns textos provocam lágrimas, outros provocam admiração ou exaltação, outros fazem rir,
+outros nos trazem pessimismo e assim por diante. No caso desse pequeno texto, o que
+predomina é:
+A) o tom trágico, fundamentado na crença de que as coisas são inevitáveis, como a relação
+problemática entre os grupos;
+B) o tom lírico, que exalta os sentimentos íntimos comuns a todos os homens, como ocorre
+nesses grupos;
+C) o tom patético, que provoca uma ternura exagerada nos leitores diante de uma triste situação,
+sem remédio;
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              124
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+D) o tom cômico, que se fundamenta numa quebra de expectativa, como a de se considerar
+simples uma situação confusa;
+E) o tom épico, que procura valorizar ações de grupos.
+
+
+   9. (FGV / PGM-NITERÓI / 2023)
+Observe o texto argumentativo a seguir. “Os dicionários, como muitos dizem, são ‘os pais dos
+burros’, já que todos os consultam quando desconhecem o significado de alguma palavra, mas
+nossos dicionários ainda têm muito o que aprender, desde a apresentação de informações mais
+precisas, até a inclusão da etimologia das palavras, sua datação e exemplos dos múltiplos
+significados indicados. Assim, eles passarão a ser ‘os pais dos inteligentes’.”
+O plano de estruturação argumentativa desse texto é:
+A) apresentação de uma tese própria, seguida de argumentos contrários à tese oposta;
+B) apresentação de uma listagem de argumentos favoráveis a uma tese própria do argumentador,
+explicitada ao final;
+C) apresentação da tese oposta, seguida de argumentos e da tese própria;
+D) apresentação de uma listagem de argumentos favoráveis à tese oposta, sem a explicitação da
+tese própria;
+E) apresentação da tese própria, seguida da tese oposta, com uma listagem de argumentos que
+defendem aquela.
+
+
+   10. (FGV / PGM-NITERÓI / 2023)
+De cada uma das frases abaixo podem-se retirar informações implícitas ou pressupostas; a opção
+em que a informação implícita está adequadamente referida, é:
+A) O mordomo fechou a janela da sala / na sala havia mais de uma janela e uma delas estava
+aberta;
+B) Os cinco filhos de Vicente estão de férias; três dos meninos foram para o Rio de Janeiro / os
+outros dois filhos são meninas;
+C) Os novos vizinhos vêm jantar amanhã em nossa casa / os novos vizinhos são amigos de longa
+data;
+D) O automóvel que estava mal estacionado foi retirado da porta da minha casa / o automóvel
+não pertence ao enunciador da frase;
+E) Como professor há muitos anos, já ensinei coisas importantes a meus alunos / os alunos não
+deram a devida atenção ao que lhes foi ensinado.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              125
+        www.estrategiaconcursos.com.br                                                       137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   11. (FGV / BANESTES / 2023)
+O ex-ministro da Fazenda Delfim Netto declarou certa vez:
+“O capital é como água. Sempre flui por onde encontra menos obstáculos”.
+Assinale a afirmativa correta sobre os componentes e a estrutura desse pensamento.
+A) O segundo período é uma redundância do primeiro, já que expressam o mesmo pensamento.
+B) A comparação do primeiro período é explicada no segundo.
+C) O primeiro período expressa uma causa cuja consequência é expressa no segundo período.
+D) Enquanto o primeiro período é expresso em linguagem figurada, o segundo é expresso em
+linguagem lógica.
+E) O segundo período expressa uma conclusão do que é expresso no período anterior.
+                                                       ==219a34==
+
+   12. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Observe o seguinte fragmento textual:
+“Observava com muito interesse o quadro de Van Gogh; um quarto modesto, com uma cama ao
+lado da porta, com pequenas gravuras na parede... Não guardei na memória o restante da cena
+porque imaginava a tristeza do pintor ao não ver reconhecido o seu imenso valor...”.
+Nesse caso, a impossibilidade de descrever o restante do quarto está ligada a
+A) uma limitação de tempo.
+B) uma impossibilidade física.
+C) um bloqueio psicológico.
+D) uma falta de conhecimento.
+E) um distanciamento temporal.
+
+
+   13. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Assinale a opção que não apresenta uma opinião.
+A) Nunca dispomos de todas as informações para que possamos chegar às melhores decisões.
+B) Antigamente, os casamentos só ocorriam após um período de namoro e uns anos de noivado.
+C) Logicamente, tudo muda de figura se o seu time vendeu todos os jogadores craques e ficou
+com a sobra.
+D) O inferno está cheio de boas intenções.
+E) As únicas pessoas normais são aquelas que você não conhece bem.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             126
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   14. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+“A crise de criminalidade do Brasil é produto da impunidade. A impunidade, por sua vez, tem
+duas raízes. A primeira é a incapacidade do sistema de Justiça Criminal de impedir os crimes e
+identificar, prender e manter os criminosos depois que o crime foi cometido. A segunda raiz é
+uma legislação penal criada com base na ideologia do criminoso ‘vítima da sociedade’ e em
+algumas ideias absurdas, sem nenhum compromisso com a realidade”.
+                                                                                          (Adaptado)
+“A crise de criminalidade do Brasil é produto da impunidade”.
+Essa frase inicial do texto
+A) resume integralmente o conteúdo do texto.
+B) fala de algo que fica sem explicações.
+C) simplifica exageradamente um problema grave.
+D) não mostra relação de causa e efeito.
+E) é retificada no restante do parágrafo.
+
+
+   15. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+Os textos informativos preocupam-se em dar credibilidade ao que informam, atribuindo o valor
+de certeza ao que veiculam.
+Assinale a opção em que não há nenhum termo que reduza esse tom de precisão absoluta.
+A) Segundo alguns, dinheiro não traz felicidade, mas é certo que afasta a infelicidade para bem
+longe.
+B) O novo governo americano talvez traga mais tranquilidade econômica aos EUA.
+C) O controle da poluição ambiental poderia produzir mais riqueza no futuro do planeta.
+D) Como o governador é muito amigo do prefeito, possivelmente devem fazer muitas parcerias.
+E) Millôr Fernandes afirmou que devagar se vai ao longe, mas quando se chega lá não se
+encontra mais ninguém.
+
+
+   16. (FGV – Soldado - PM SP / 2022)
+                                                      Texto I
+“É preciso fazer uma reflexão. O turismo e os turistas que chegam a Florianópolis causam uma
+agonia. A invasão das praias mostra um retrato do Brasil popular, mas sem nenhuma delicadeza.
+Me sinto encurralado pelos hábitos de mal gosto de grande parcela dos turistas que acham que
+som alto à beira mar e lixo jogado em todo canto fazem parte do relax das férias. Não
+compreendo essa identidade do brasileiro do quanto mais bagunçado melhor. Tudo pode em
+nome da liberdade individual e do politicamente correto. E não bastasse o comportamento dos
+que chegam de fora, os locais acabam cooperando, liberando seus instintos, juntando-se à
+bagunça geral. E os preços então? Uma explosão numérica sem limites. Mas enfim, deve ser essa
+a tão sonhada identidade brasileira.”
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  127
+        www.estrategiaconcursos.com.br                                                           137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+                                            (PRATA, Anselmo. Turismo em Santa Catarina – Vale a pena? Disponível em
+                                                      https://www.ronaud.com/sociedade/turismo-em-santa-catarina/)
+
+
+A parte inicial do Texto I diz que os turistas “causam uma agonia”. A razão dessa agonia é
+A) a insegurança causada pelo excesso de pessoas.
+B) o aumento abusivo dos gêneros de primeira necessidade.
+C) o desrespeito dos turistas em relação ao trânsito.
+D) a característica brasileira de adesão à bagunça.
+E) a falta de higiene nas praias.
+
+
+   17. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eficiência comunicativa.
+Observe a frase abaixo:
+“Dada a causa, a natureza produz o efeito do modo mais breve em que pode ser produzido”.
+Segundo essa frase, a natureza:
+A) produz tudo aquilo de que o homem precisa;
+B) indica ao homem o caminho a seguir;
+C) segue, sem pressa, a ordem natural das coisas;
+D) cria leis, mas não as respeita;
+E) mostra espírito lógico e eficiência.
+
+
+   18. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Texto 1
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eficiência comunicativa.
+Considerando o pensamento do texto 1 e tendo conhecimento das atribuições de um oficial de
+justiça, chegamos à conclusão de que, nessa atividade, a língua escrita, o nível, o uso ou o
+registro do idioma deve ser predominantemente:
+A) formal, de acordo com os princípios da gramática normativa;
+B) informal, em busca de mais ampla compreensão da mensagem;
+C) regional, adequando-o ao local onde ocorre a comunicação;
+D) popular, tendo em vista que as mensagens são lidas por todos;
+E) ultraformal, selecionando vocabulário erudito e construções elaboradas.
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                               128
+          www.estrategiaconcursos.com.br                                                                        137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   19. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+Texto 2:
+Notícia publicada na imprensa na penúltima semana de setembro de 2019:
+“Tráfico da Rocinha ameaça quem joga lixo na rua
+Bandidos espalham cartazes em área onde houve deslizamentos de terra nas últimas chuvas,
+alertando moradores para não despejar detritos em beco. Medida seria tomada porque venda de
+drogas é interrompida quando a região alaga”.
+No caso do texto 2, a finalidade dos cartazes espalhados na Rocinha é:
+A) conscientizar a população;
+B) salvaguardar interesses;
+C) contribuir para a higiene na comunidade;
+D) proteger a saúde dos habitantes;
+E) prevenir desastres naturais.
+
+
+   20. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+OCDE reduz projeções para Brasil e Argentina
+As manchetes jornalísticas seguem um padrão em sua elaboração; NÃO faz parte desse padrão,
+segundo o que se pode deduzir a partir da manchete acima:
+A) emprego de verbos no presente;
+B) ausência de pontuação;
+C) concentração de informações;
+D) siglas não explicitadas;
+E) emprego de linguagem coloquial.
+
+
+   21. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+Um jornal de grande circulação traz a seguinte manchete para um de seus artigos:
+Prisão de traficante mostra eficácia da inteligência policial – Compra e venda de lanchas por
+chefe de facção criminosa chamaram atenção da polícia.
+Os fatos abaixo, presentes nessa notícia, que se apresentam em ordem cronológica são:
+A) chamar atenção da polícia / compra e venda de lanchas / prisão de traficante;
+B) prisão de traficante / mostra eficácia da inteligência policial / chamar atenção da polícia;
+C) mostra eficácia da inteligência policial / prisão de traficante / chamar atenção da polícia;
+D) compra e venda de lanchas / chamar atenção da polícia / prisão de traficante;
+E) chamar atenção da polícia / compra e venda de lanchas / mostra eficácia da inteligência
+policial.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   129
+        www.estrategiaconcursos.com.br                                                            137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   22. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+Texto 1
+Uma propaganda sobre o aniversário de um programa de notícias diz o seguinte:
+O maior programa brasileiro de notícias completa 40 anos.
+ A história de quatro décadas do programa registra os fatos mais relevantes da história mundial,
+bem como as evoluções tecnológicas e de tratamento de informação que vêm transformando as
+comunicações em todo o mundo.
+Segundo o texto 1, o destaque de maior valor do programa de notícias é:
+A) a procura incessante pela verdade nas informações;
+B) a durabilidade sempre atualizada do programa;
+C) a documentação histórica de fatos e evoluções;
+D) a transformação do programa através do tempo;
+E) as mudanças no tratamento das informações.
+
+
+   23. (FGV / PREF. DE SALVADOR - BA / FISCAL / 2019)
+  O desmatamento da Floresta Amazônica: causas e soluções
+O debate sobre o problema do desmatamento da Floresta Amazônica, que tem se expresso,
+entre outros, nos debates sobre as mudanças no Código Florestal, tem-se caracterizado por sua
+superficialidade e pelo seu caráter ideológico. Inicialmente, há a necessidade de se identificar o
+processo de forma clara, após isto buscar as suas causas, e, finalmente, pensar nas soluções no
+curto, médio e longo prazos.
+                                                                            Política Ambiental, nº 8, junho de 2011.
+
+Assinale a opção em que a relação do título com o texto está corretamente identificada.
+A) O título fala de causas e soluções do desmatamento, mas só indica as soluções.
+B) O título indica causas e soluções, mas só indica as causas.
+C) O texto não fala nem de umas nem de outras, apesar de falar de causas a soluções do
+desmatamento.
+D) O texto explicita as causas e soluções do desmatamento falando de causas e soluções no
+título.
+E) O texto indica somente uma causa e uma solução, apesar de indicar uma quantidade plural de
+causas e soluções.
+
+
+   24. (FGV / PREF. DE SALVADOR - BA / ANALISTA / 2019)
+Leia o texto a seguir
+“Por que todos os povos deste planeta gostam de futebol? Talvez porque o futebol, além de ser
+uma linguagem gestual, fácil de ser decodificada, é, acima de tudo, uma grande metalinguagem.
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                               130
+          www.estrategiaconcursos.com.br                                                                        137
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+Isso quer dizer que o seu significado ou sentido é explicado por seus próprios movimentos,
+entendidos por quase todos, independentemente de classe social, cultural ou econômica”.
+Luiz César Saraiva Feijó, Futebol falado.
+Segundo o conteúdo do texto, assinale a opção que mostra a melhor resposta para a pergunta
+inicial.
+A) Por ser uma linguagem gestual.
+B) Por ser uma linguagem decodificada facilmente.
+C) Por ser uma grande metalinguagem.
+D) Por ter seu significado explicado a todas as classes.
+E) Por não necessitar de explicação dos próprios movimentos.
+
+
+    25. (FGV / PREF. DE SALVADOR - BA / ANALISTA / 2019)
+Analise a charge a seguir.
+
+Assinale a opção que indica uma manchete adequada a seu conteúdo.
+A) Balas perdidas matam crianças nas escolas.
+B) A educação é uma arma contra a violência.
+C) Todos contra a liberação das armas.
+D) Estudantes reagem com violência contra os cortes.
+E) Escolas públicas em perigo.
+
+
+    26. (FGV / PREF. DE SALVADOR - BA / ANALISTA / 2019)
+Uma editora paulista, sob o título “Da semente ao livro”, publicou o texto a seguir.
+“Plantar florestas. A madeira que serve de matéria-prima para nosso papel vem de plantio
+renovável, ou seja, não é fruto de desmatamento. Essa prática gera milhares de empregos para
+agricultores e ajuda a recuperar áreas ambientais degradadas.”
+Esse texto publicitário pretende
+A) mostrar a perfeita organização da empresa.
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                         131
+         www.estrategiaconcursos.com.br                                                  137
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+B) criar uma imagem positiva da empresa na população.
+C) indicar a razão do sucesso profissional da empresa.
+D) demonstrar que a proteção ambiental é uma exigência legal.
+E) destacar os prejuízos do desmatamento.
+
+
+   27. (FGV / PREF. DE SALVADOR - BA / PROFESSOR / 2019)
+Merece a aprovação universal a máxima de que a verdade é um produto do tempo. A opinião
+mais comum sobre a antiguidade constitui uma negligência, e mal se compadece com a própria
+palavra. Antiguidade, a rigor, quer dizer mundo dos mais velhos ou época mais adiantada da
+vida. E é fato razoável que, tal como se espera do ancião maior notícia das coisas humanas e
+mais maduro juízo que do jovem, pela experiência e pela variedade das coisas que viu, ouviu e
+pensou, assim também da nossa era se deve esperar mais que dos antigos tempos, como idade
+do mundo cumulada e provida de sumas e infindas descobertas, experiências e observações.
+                                Adaptado de Francis Bacon, Cogitata et visa de interpretatione naturae (1607-1609).
+
+De acordo com o texto, sobre o conhecimento da época de Francis Bacon, analise as afirmativas
+a seguir e assinale V para a verdadeira e F para a falsa.
+
+
+I. O conhecimento é atemporal, pois os Modernos repetiam o passado ao imitar os Antigos.
+II. O conhecimento é frágil, por isso os Modernos deveriam submeter suas descobertas à
+autoridade dos Antigos.
+III. O conhecimento é temporal, e os Modernos avançavam em acúmulo de descobertas e
+conhecimentos em relação aos Antigos.
+
+
+As afirmativas são, na ordem apresentada, respectivamente,
+A) V – F – F.
+B) V – V – F.
+C) V – F – V.
+D) F – V – F.
+E) F – F – V.
+
+
+   28. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+O jornal A Tarde publicou as duas manchetes esportivas a seguir.
+Bahia cai para o Atlético-MG e acaba com chance de vaga na Libertadores
+Vitória perde para Atlético-PR e se complica na luta contra o rebaixamento
+
+
+Sobre essas duas manchetes, assinale a opção que apresenta a afirmativa correta.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                132
+        www.estrategiaconcursos.com.br                                                                         137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+A) A estruturação dos textos se dirige aos “iniciados” no futebol.
+B) A gravidade das derrotas é apresentada como equivalente.
+C) O verbo “cair” pertence à linguagem denotativa.
+D) Uma das siglas representativas de estados está errada.
+E) O jornal mostra parcialidade na informação prestada.
+
+
+   29. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+Violência, participação e democracia
+“Manifestações públicas constituem um dos aspectos essenciais da vida democrática. Um regime
+político que é incapaz de tolerar a livre manifestação da população – inclusive a que contraria os
+ocupantes do poder – não pode ser considerado democrático. Historicamente, os regimes
+democráticos se consolidam quando a luta política deixa de ser o arriscado jogo do tudo ou nada
+e se institucionaliza como parte do cotidiano da sociedade.”
+                                                                           Folha de São Paulo, 14/6/2014.
+
+Esse trecho apresenta uma série de pensamentos de caráter democrático, à exceção de um.
+Assinale-o.
+A) A luta política não deve ter caráter radical.
+B) As manifestações públicas devem ser normalmente aceitas.
+C) O poder político deve tolerar manifestações opostas.
+D) A luta política não deve fazer parte do cotidiano social.
+E) A violência não deve ser empregada contra manifestações.
+
+
+   30. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+“Ler é importante porque leva a pessoa a ter contato com várias ideias diferentes (dos autores),
+adquirindo assim uma visão mais ampla do mundo e dos conflitos que envolvem a humanidade e
+a sociedade. Quando se tem uma visão mais ampla, se tem também mais material para formar as
+próprias ideias e resolver de melhor forma os próprios problemas.”
+                                                                          brunokabuki.blogspot.com/2019/
+Segundo o texto, a leitura
+A) faz os autores entrarem em contato com várias ideias.
+B) obriga os leitores a terem uma visão mais ampla do mundo.
+C) torna menos compreensíveis os conflitos do mundo.
+D) fornece ferramentas para a formação de nossas ideias.
+E) minimiza os problemas que enfrentamos.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                       133
+        www.estrategiaconcursos.com.br                                                                137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   31. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+“Ler é essencial. Através da leitura, testamos os nossos próprios valores e experiências com as
+dos outros. No final de cada livro, ficamos enriquecidos com novas experiências, novas ideias,
+novas pessoas. Eventualmente, ficaremos a conhecer melhor o mundo e um pouco melhor de
+nós próprios”.
+                                                                             site Universo de Literacias.
+
+Segundo o texto, a leitura permite
+A) conhecer-nos um pouco melhor.
+B) aprofundar nossos relacionamentos pessoais.
+C) revisitar conhecimentos já adquiridos.
+D) comparar o passado com o presente.
+E) produzir ideias revolucionárias.
+
+
+   32. (FGV / PREF. DE SALVADOR - BA / AGENTE DE FISCALIZAÇÃO / 2019)
+A revista Veja, em 30/03/2016, publicou a seguinte manchete:
+Comida desperdiçada na América Latina reduziria 37% da fome do mundo
+Cerca de 348 mil toneladas de alimentos são perdidas por dia na região.
+
+
+Sobre os componentes do texto dessa manchete, assinale a afirmativa correta.
+A) Se a América Latina não desperdiçasse tantos alimentos, acabaria a fome no mundo.
+B) A principal crítica do texto se dirige ao atraso cultural e econômico da América Latina.
+C) A expressão “cerca de” indica precisamente a quantidade de alimentos desperdiçada.
+D) Em todo o texto há a identificação clara do responsável pelo desperdício de alimentos.
+E) A forma verbal “reduziria” indica uma possibilidade, e não uma certeza.
+
+
+   33. (FGV / PREF. DE SALVADOR - BA / FISCAL DE SERVIÇOS / 2019)
+No prefácio de um livro de Jorge Amado, Vinícius de Moraes escreveu o seguinte:
+“Em dois textos simples, Jorge Amado acaba de escrever o que para mim é o melhor romance e
+a melhor novela da literatura brasileira”.
+O segmento “o melhor romance e a melhor novela da literatura brasileira” refere-se
+A) a uma narrativa que poderia ser considerada como romance ou novela.
+B) a duas obras distintas publicadas em um só livro.
+C) à publicação de dois textos de valor na obra de Jorge Amado.
+D) à escrita simultânea de dois livros por Jorge Amado.
+E) à notícia do relançamento de novos livros de nossa literatura.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                      134
+        www.estrategiaconcursos.com.br                                                               137
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 14
+
+   34. (FGV / TJ-CE / TÉCNICO / 2019)
+“As leis existem, mas quem as aplica?”
+Esse pensamento de Dante Alighieri critica:
+A) a má elaboração das leis;
+B) o excesso de leis;
+C) o rigor excessivo da polícia;
+D) a fraqueza humana;
+E) o controle demasiadamente rigoroso das leis.
+
+
+   35. (FGV / TJ-CE / TÉCNICO / 2019)
+“Alguns tiveram a forca como preço pelo próprio crime, outros, a coroa”.
+Essa frase confirma o seguinte ditado popular:
+A) O crime não compensa, às vezes;
+B) Toda punição é maldade;
+C) Olho por olho e dente por dente;
+D) Pena intensa não cura bandido;
+E) A prisão é escola do crime.
+
+
+   36. (FGV / TJ-CE / TÉCNICO / 2019)
+“Sem instrução, as melhores leis tornam-se inúteis".
+Esse pensamento deve ser entendido do seguinte modo:
+A) Se não houver educação dos cidadãos, as leis tornam-se inúteis;
+B) Se as leis não forem acompanhadas de instruções de funcionamento, tornam-se inúteis;
+C) Caso as leis não possuam instruções claras, elas se tornam inúteis;
+D) Só com a educação dos juízes, as leis podem tornar-se úteis;
+E) Se os juízes não forem pessoas cultas, as leis se tornam inúteis por não serem claras.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             135
+        www.estrategiaconcursos.com.br                                                      137
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 14
+
+                                               GABARITO
+                                                   1. LETRA B
+                                                   2. LETRA B
+                                                   3. LETRA B
+                                                   4. LETRA E
+                                                   5. LETRA D
+                                                   6. LETRA C
+                                                   7. LETRA A
+                                                   8. LETRA D
+                                                   9. LETRA C
+                                                   10. LETRA D
+                                                   11. LETRA B
+                                                   12. LETRA C
+                                                   13. LETRA B
+                                                   14. LETRA C
+                                                   15. LETRA E
+                                                   16. LETRA D
+                                                   17. LETRA E
+                                                   18. LETRA A
+                                                   19. LETRA B
+                                                   20. LETRA D
+                                                   21. LETRA D
+                                                   22. LETRA C
+                                                   23. LETRA C
+                                                   24. LETRA B
+                                                   25. LETRA B
+                                                   26. LETRA E
+                                                   27. LETRA A
+                                                   28. LETRA A
+                                                   29. LETRA D
+                                                   30. LETRA D
+                                                   31. LETRA A
+                                                   32. LETRA E
+                                                   33. LETRA C
+                                                   34. LETRA D
+                                                   35. LETRA A
+                                                   36. LETRA A
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           136
+      www.estrategiaconcursos.com.br                                    137
+
+                                   
+
+
+---
+
+---

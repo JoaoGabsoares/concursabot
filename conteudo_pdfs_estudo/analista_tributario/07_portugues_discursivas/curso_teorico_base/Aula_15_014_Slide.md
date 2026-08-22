@@ -1,0 +1,1909 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 15_014_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: Curso Completo de Português
+---
+
+# Curso Completo de Português
+
+---
+
+---
+
+Curso Completo de Português
+as novas perspectivas da FGV
+                                              Profª. Adriana Figueiredo
+
+         
+
+
+---
+
+                           CADERNO 2
+
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                Os modos de organização
+           discursiva: a descrição, a narração,
+               a exposição informativa e a
+                exposição argumentativa
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                           TIPOLOGIA TEXTUAL
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+     MODO                  TEMPORALIDADE    INTENÇÃO DO                 TEMPOS                  EXEMPLOS
+    TEXTUAL                                    AUTOR                    VERBAIS
+                                                                                    O funcionário acabou de rabiscar num
+                                                                        Pretérito
+                                                                                    papel, repousou a caneta e voltou-se
+                             Momentos         Relatar uma               perfeito            para atender o cliente.
+  NARRAÇÃO                  sucessivos no     história, um
+                               tempo        acontecimento.                           O funcionário acaba de rabiscar num
+                                                                        Presente    papel, repousa a caneta e volta-se para
+                                                                                               atender o cliente.
+
+                                                                                     A menina passeava pela calçada da
+                                               Identificar,             Pretérito   avenida elegante do bairro e olhava as
+                                                localizar,             imperfeito     vitrines que exibiam uma imensa
+                              Um único                                                 variedade de roupas elegantes.
+  DESCRIÇÃO                                     qualificar
+                             momento no
+                                             objetos, cenas,                          A menina passeia pela calçada da
+                               tempo
+                                              personagens,                           avenida elegante do bairro e olha as
+                                               paisagens.               Presente       vitrines que exibem uma imensa
+                                                                                       variedade de roupas elegantes.
+Profª Adriana Figueiredo
+                                            
+
+
+---
+
+       MODO                TEMPORALIDADE        INTENÇÃO               TEMPOS                  EXEMPLOS
+      TEXTUAL                                   DO AUTOR               VERBAIS
+
+                                                                                    O policiamento comunitário, hoje em
+                                                                                        dia, encontra-se amplamente
+                                                                                           disseminado nos países
+                                                Discutir um             Presente    economicamente mais desenvolvidos.
+                                                                                     Essa é a forma de policiamento que
+                                                  assunto,
+                                                                                     mais se aproxima das aspirações da
+                                               expondo-se o                                      população.
+  DISSERTAÇÃO              Ausência de tempo    que se sabe
+                                                     ou
+                                                                                       O policiamento comunitário foi
+                                                defendendo                          amplamente disseminado nos países
+                                                 uma tese.                          economicamente mais desenvolvidos.
+                                                                        Pretérito
+                                                                                    Essa foi a forma de policiamento que
+                                                                        perfeito    mais se aproximou das aspirações da
+                                                                                                  população.
+
+Profª Adriana Figueiredo
+                                           
+
+
+---
+
+                                                                       A corrupção pode ser definida, em um
+                                                                          sentido social, como uma crença
+                                                                        compartilhada, expandida e tolerada
+                                      EXPOSITIVA                       de que o uso da função pública é feito
+                                                                          para o benefício de si mesmo, da
+                                                                       própria família e de amigos. Mas não é
+                                                                              uma novidade moderna.
+  OBSERVAÇÕES
+                           DISSERTAÇÃO
+     FINAIS
+
+                                                                        O amor nada mais é do que o resultado
+                                                                          de uma complexa cadeia de reações
+                                                                          químicas do cérebro e existe com o
+                                  ARGUMENTATIVA                            intuito único de propagar a nossa
+                                                                         espécie. Em outras palavras, amamos
+                                                                           porque somos o resultado de um
+                                                                           processo evolutivo bem sucedido.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+                 EXERCÍCIOS DE FIXAÇÃO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+I. CLASSIFIQUE OS TEXTOS A SEGUIR QUANTO À TIPOLOGIA.
+
+1. Cada pessoa que chegava se punha na ponta dos pés, embora não o pudesse ver.
+Os moradores da rua conversavam de uma porta à outra, as crianças foram
+acordadas e vieram de pijama às janelas. O senhor gordo repetia que Dario sentara-
+se na calçada, soprando ainda a fumaça do cachimbo e encostando o guarda-chuva
+na parede. Mas não se via guarda-chuva ou cachimbo ao lado dele.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+2. Chegou à porta, olhou as folhas amarelas das catingueiras. Suspirou. Deus nos
+havia de permitir outra desgraça. Agitou a cabeça e procurou ocupações para
+entreter-se. Tomou a cuia grande, encaminhou-se ao barreiro, encheu de água o
+caco das galinhas, endireitou o poleiro. Em seguida foi ao quintalzinho regar os
+craveiros e as panelas de losna.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+3. A velhinha abre sua mala de James Bond, de onde retira, para começar, um copo
+de prata, em seguida, um guardanapo, com o qual começa a limpar o copo de
+prata, meticulosamente, por dentro e por fora.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+4. O atual modo de vida, pleno de elementos descartáveis, não privilegia a memória
+O que se chama “consumismo” tem relação direta com o abandono e o descaso
+com a memória. Descarta-se tudo, de objetos de uso doméstico a amigos, de
+roupas a amores. O projeto ecologista da reciclagem é, de certo modo, um trabalho
+de memória.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+5. Gregório de Matos Guerra nasceu em Salvador (BA) e morreu em Recife (PE).
+Estudou no colégio dos jesuítas e formou-se em Direito em Coimbra (Portugal).
+Recebeu o apelido de Boca do Inferno, graças a sua irreverente obra satírica.
+Gregório de Matos firmou-se como o primeiro poeta brasileiro: cultivou a poesia
+lírica, satírica, erótica e religiosa.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+              DESCRIÇÃO X NARRAÇÃO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+01. FGV - 2022 - MPE-SC - Auxiliar do Ministério Público
+Observe o início do seguinte texto narrativo:
+
+“Um homem tinha uma fazenda perto de um rio, mas essa proximidade nunca
+havia trazido problema. Certo dia o rio começou a crescer e ele percebeu que sua
+fazenda ia ficar submersa”.
+
+A frase que inicia propriamente a narração, é:
+
+(A) Um homem tinha uma fazenda perto de um rio;
+(B) ...mas essa proximidade nunca havia trazido problema;
+(C) Certo dia o rio começou a crescer;
+(D) ...e ele percebeu;
+(E) ...que sua fazenda ia ficar submersa.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+02. FGV 2022 MPE BA Estagiário de Direito
+
+Uma recente notícia de jornal dizia: “Havia uma grande aglomeração na avenida
+Paulista e muitos se apinhavam perto do palanque onde falariam os políticos
+esperados. Um carro de som animava o público. Muitas faixas criticavam diferentes
+aspectos da vida nacional.”
+
+Sobre esse pequeno texto, é correto afirmar que se trata de:
+
+A) uma descrição geral do cenário de uma passeata;
+B) uma descrição detalhada de uma aglomeração;
+C) uma narração dos principais fatos ocorridos numa passeata;
+D) uma informação precisa sobre um movimento político;
+E) um texto de propaganda de algum partido político.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+03. FGV - 2022 - MPE-GO - Analista Contábil
+
+Texto II
+
+“Vamos arranjar um nome inventado para a cidade: Maranguaia. E também um
+nome para o coronel: Juca Brito.
+Mas que a cidade fique na sua paisagem verdadeira, com o pequeno córrego
+perene fertilizando um vale dentro de um mundo de léguas de caatinga, no fundo
+do sertão. E o coronel fique na sua varanda, cheia de gaiolas de passarinhos. Ali
+perto, enjaulados como feras, dois imensos cães dinamarqueses. Um campo para
+criação de ema. E – luxo estranho no sertão – pavões reais. Foi o que vimos na visita
+rápida, quando nosso carro entrou pelo parque da fazenda, entre juazeiros e
+tamarineiros.
+O coronel Juca Brito é dono da casa, da cidade, do município, do sertão, do
+mundo.”
+Profª Adriana Figueiredo                                           (O coronel, 12/05/1951)
+                              
+
+
+---
+
+03. FGV - 2022 - MPE-GO - Analista Contábil
+
+A estruturação desse texto é predominantemente
+
+A) narrativa, pois relata uma pequena visita do autor a uma fazenda do sertão.
+
+B) descritiva, pois fornece elementos visuais componentes da paisagem da fazenda.
+
+C) expositiva, pois traz informações necessárias para o entendimento do texto.
+
+D) argumentativa, pois traz a tese implícita, contrária ao coronelismo.
+
+E) injuntiva, pois se volta para a crítica de um sistema de vida, predominante, na
+época, em nosso sertão.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                   NARRAÇÃO
+                       X
+             DISSERTAÇÃO EXPOSITIVA
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+04. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+Texto 5 – História da lenda do Bumba meu boi
+
+       “No nordeste, a história do Bumba meu boi foi inspirada na lenda da Mãe
+Catirina e do Pai Francisco (Chico).
+       Nessa versão, Mãe Catirina e Pai Francisco são um casal de negros
+trabalhadores de uma fazenda. Quando Mãe Catirina fica grávida, ela tem desejo de
+comer a língua de um boi.
+       Empenhado em satisfazer a vontade de Catirina, Chico mata um dos bois do
+rebanho, que, no entanto, era um dos preferidos do fazendeiro.
+       Ao notar a falta do boi, o fazendeiro pede para que todos os empregados
+saiam em busca dele.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+04. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+      Eles encontram o boi quase morto, mas com a ajuda de um curandeiro ele se
+recupera. Noutras versões, o boi já está morto e com o auxílio de um pajé, ele
+ressuscita.
+      A lenda, dessa maneira, está associada ao conceito de milagre do catolicismo
+ao trazer de volta o animal. Ao mesmo tempo, mostra a presença de elementos
+indígenas e africanos, tal como a cura pelo pajé ou curandeiro e a ressurreição.
+      A festa do Bumba meu boi é celebrada para comemorar esse milagre.”
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+04. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+
+ O texto 5, em termos de predominância quase absoluta, deve ser classificado
+como:
+
+A) descritivo;
+B) narrativo;
+C) dissertativo-expositivo;
+D) dissertativo-argumentativo;
+E) injuntivo.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+05. FGV - 2021 - Câmara de Aracaju - SE - Assistente Administrativo
+A frase abaixo que exemplifica um texto descritivo é:
+
+A) Quem não for belo aos vinte anos, forte aos trinta, esperto aos quarenta e rico
+aos cinquenta, não pode esperar ser tudo isso depois;
+
+B) O envelhecimento ocorre apenas dos 25 aos 30 anos. O que se obtém até esse
+momento é o que se conservará para sempre;
+
+C) Eu era criança, era pequeno e era cruel;
+
+D) Deve-se o maior respeito à criança;
+
+E) A juventude deve ser domada com a razão, não com a força.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                             EXPOSITIVO
+                                 X
+                           ARGUMENTATIVO
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. FGV - 2022 - PC-RJ - Investigador Policial de 3ª Classe
+
+Texto 5
+
+       “Um investigador de crimes cibernéticos é um agente da lei especializado na
+avaliação de casos envolvendo crimes de computador. Esse pessoal pode trabalhar
+para agências policiais e empresas privadas e também pode ser conhecido como
+técnico em computação forense. O trabalho nesse campo requer treinamento em
+tecnologia da informação e aplicação da lei, para que as pessoas tenham as
+ferramentas para localizar evidências, bem como as habilidades para protegê-las e
+garantir que sejam utilizáveis em tribunal.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. FGV - 2022 - PC-RJ - Investigador Policial de 3ª Classe
+
+       Quando membros do público denunciam crimes cibernéticos, um
+investigador de crimes cibernéticos participa da investigação. Isso pode incluir
+qualquer coisa, desde testar a rede de um banco para determinar como e quando
+ocorreu um vazamento de dados até avaliar um computador individual que pode
+ter sido usado em um crime. Os investigadores de crimes cibernéticos podem
+recuperar e reconstruir dados se forem danificados ou destruídos, acidental ou
+intencionalmente. Eles também podem explorar redes de computadores,
+computadores individuais e discos rígidos para identificar evidências de atividade
+criminosa” (Netinbag.com).
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. FGV - 2022 - PC-RJ - Investigador Policial de 3ª Classe
+
+  O texto 5 deve ser classificado predominantemente como:
+
+
+A) publicitário, pois faz propaganda da atividade policial;
+
+B) informativo, pois dá a conhecer fatos novos;
+
+C) normativo, pois indica regras a serem seguidas;
+
+D) didático, pois ensina como proceder;
+
+E) metalinguístico, pois indica significados de palavras.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+07. FGV - 2022 - TJ TO - Técnico Judiciário - Apoio Judiciário e
+Administrativo
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. FGV - 2022 - TJ TO - Técnico Judiciário - Apoio Judiciário e
+Administrativo
+
+É comum que os textos sejam classificados de acordo com o domínio social de
+comunicação em que se inserem.
+
+Por esse critério, é correto afirmar que o texto 2 tem natureza predominantemente:
+
+(A) descritiva, porque se propõe primariamente a qualificar, identificar e localizar os
+sonhos;
+
+(B) narrativa, porque se propõe primariamente a relatar uma sucessão de
+acontecimentos em ordem cronológica;
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+07. FGV - 2022 - TJ TO - Técnico Judiciário - Apoio Judiciário e
+Administrativo
+
+(C) expositiva, porque se propõe primariamente a ensinar a interpretação
+psicanalítica sobre os símbolos oníricos;
+
+(D) injuntiva, porque se propõe primariamente a orientar as ações futuras do leitor;
+
+(E) argumentativa, porque se propõe primariamente a defender um ponto de vista
+acerca da relação entre psicanálise, de um lado, e neurociência e psicologia
+cognitiva, de outro.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+08. FGV - 2022 - TJ TO - Técnico Judiciário - Informática
+
+Entre os pensamentos abaixo, aquele que deve ser classificado como um texto não
+argumentativo, é:
+
+
+(A) Três pessoas podem manter um segredo, se duas delas estiverem mortas;
+
+(B) Penso, logo existo;
+
+(C) Ouve sempre e não fala nunca;
+
+(D) O dilúvio passou. Deixou ficar um homem;
+
+(E) Detesto as mulheres porque elas sempre sabem onde as coisas estão.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+09. FGV - 2021 - PC RJ - Inspetor de Polícia
+
+
+Observe o texto a seguir.
+
+"O Conselho Holandês de Saúde explica que os açúcares da fruta no suco de laranja
+são absorvidos pelo corpo muito rapidamente porque eles entram no corpo em
+forma líquida. Porque eles entram no corpo tão rápido em uma quantidade tão alta,
+o corpo converte facilmente este açúcar em gordura. Um copo de suco de laranja
+contém tanto açúcar quanto um copo de refrigerante. Isso significa que você pode
+ganhar peso rapidamente, e pessoas com mais gordura corporal terão maior chance
+de ter diabetes. Tudo a partir de um copo de suco de laranja!"
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+09. FGV - 2021 - PC RJ - Inspetor de Polícia
+
+O segmento desse texto em que há a preocupação de informar e de convencer é:
+
+
+(A)    O Conselho Holandês de Saúde explica que os açúcares da fruta no suco de
+laranja são absorvidos pelo corpo muito rapidamente porque eles entram no corpo
+em forma líquida;
+
+(B) Porque eles entram no corpo tão rápido em uma quantidade tão alta, o corpo
+converte facilmente este açúcar em gordura;
+
+(C)    Um copo de suco de laranja contém tanto açúcar quanto um copo de
+refrigerante;
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+09. FGV - 2021 - PC RJ - Inspetor de Polícia
+
+(D) Isso significa que você pode ganhar peso rapidamente, e pessoas com mais
+gordura corporal terão maior chance de ter diabetes;
+
+(E) Tudo a partir de um copo de suco de laranja!
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                           TIPOS DE DESCRIÇÃO
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                                                         Ex.: Encalveceu mais, é certo, tem menos carnes,
+                                                            algumas rugas; ao cabo, uma velhice rija de
+                   FÍSICA                                sessenta anos. Os bigodes continuam a trazer as
+                                                                       pontas finas e agudas
+
+DESCRIÇÃO DE                                              Ex.: Entre as boas figuras de boa-fé do Rio de
+  PESSOAS/        PSÍQUICA                              Janeiro figurava o Garcia, bom homem, cujo único
+PERSONAGENS                                                    defeito era ser fraco de inteligência.
+
+                                                           Ex.: É um menino normal de 11 anos, 30 quilos,
+                                                           mas parece menos. Suas roupas são de segunda
+               FÍSICO-PSÍQUICA                             mão e tem a desconfiança de que a sua própria
+                                                                    história alguém já viveu antes.
+
+
+                                    Prof. Adriana Figueiredo
+                        
+
+
+---
+
+II. Classifique os textos descritivos a seguir usando o CÓDIGO:
+(1) Descrição física
+(2) Descrição psíquica
+(3) Descrição físico psíquica
+
+a) Eles eram baixos e musculosos, tinham o queixo recuado e faces alongadas e
+projetadas para a frente.
+
+b) Alta e esguia, essa irmã mais velha era séria, fechada feito um cofre. Até hoje
+não sei o que guardava aquele cofre.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+c) Acordara naquela manhã com o mau humor habitual, mas também com uma
+profunda tristeza pela data que se aproximava.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                                                         DE CIMA PARA BAIXO: Naquele bar havia uma
+                                                       coleção de trecos e velharias acima do balcão, cujo
+                                                       atendente não parecia fazer questão de atendê-los.
+
+
+ DESCRIÇÃO DE
+OBJETOS, CENAS   CIMA/BAIXO
+ E PAISAGENS
+                                                        DE BAIXO PARA CIMA: O homem passava com os
+                                                           sapatos molhados, mas a calça e o casaco,
+                                                                    completamente secos.
+
+                                   Prof. Adriana Figueiredo
+                       
+
+
+---
+
+                                                      DAS PARTES PARA O TODO: A pintura feita à mão e
+                                                      a asa completamente torta faziam daquela caneca
+                                                               de alumínio um item especial.
+
+
+ DESCRIÇÃO DE
+OBJETOS, CENAS   PARTE/TODO
+ E PAISAGENS
+                                                        DO TODO PARA PARTES: O corpo humano é uma
+                                                        máquina desenhada para o movimento. É dotado
+                                                        de dobradiças, músculos que formam alavancas
+                                                         capazes de deslocar o esqueleto em qualquer
+                                                          direção, ossos resistentes e sistemas de alta
+                                                             complexidade para mobilizar energia.
+
+
+                                   Prof. Adriana Figueiredo
+                       
+
+
+---
+
+                                                       DE PERTO PARA LONGE: O menino e seu amiguinho
+                                                       brincavam nas primeiras espumas; o pai fumava um
+                                                        cigarro na praia, batendo papo com um amigo. E o
+                                                           mundo era inocente, naquela manhã de sol.
+
+ DESCRIÇÃO DE
+OBJETOS, CENAS   PERTO/LONGE
+ E PAISAGENS
+                                                         DE LONGE PARA PERTO: Na cozinha espaçosa, o
+                                                          fogão mal funcionava. O feijão cozinhando na
+                                                            panela ainda levaria tempo a ficar pronto.
+
+                                   Prof. Adriana Figueiredo
+                       
+
+
+---
+
+III. Classifique as descrições a seguir usando o código
+(1) Da parte para o todo
+(2) Do todo para a parte
+(3) De cima para baixo
+(4) De baixo para cima
+(5) De longe para perto
+(6) De perto para longe
+
+a) Achara estranhamente interessante aquele livro velho, com capa rasgada, as
+folhas comidas por traças e com dobras do tempo.
+
+
+b) O cabelo encaracolado emoldurava o rosto o bochechudo e os olhinhos carentes
+daquela aluna sentada à frente.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+c) O céu azul e o sol amarelo faziam o par perfeito naquele dia de verão. A fumaça
+cheirosa da churrasqueira alegrava os jovens à beira da piscina.
+
+d) Entrava pelo portão, atravessava a garagem e entrava pela cozinha. Ali estava a
+criança, acompanhada da mãe, com olhar doce e pueril fazendo sua refeição
+noturna.
+
+e) Sentado no chão da sala, tentava ver nas mesas o que as outras crianças
+desenhavam nervosamente sob o olhar repreensivo do professor.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                                                    Quando dava sorte, o rosto olhava para mim e sorria
+                  VISÃO
+                                                     os lábios se separavam e se alongavam um pouco.
+
+                   TATO                            Adorava passar os dedos nos pelos macios do gatuno.
+
+
+                                                        Andando pelo píer, sentia o cheiro forte de peixe
+OS SENTIDOS NA   OLFATO
+                                                              podre e dos homens maltrapilhos.
+  DESCRIÇÃO
+
+                                                        Do apartamento, ouvia-se o ruído dos carros e das
+                 AUDIÇÃO                                 vozes dos homens em uma acalorada discussão.
+
+
+                                                          Experimentava aquela sopa cremosa de sabor
+                 PALADAR                                  adocicado, como se fosse um especialista em
+                                                                         gastronomia.
+                             Prof. Adriana Figueiredo
+                 
+
+
+---
+
+IV. Identifique os sentidos usados nas descrições (audição, olfato,
+paladar, visão e tato).
+
+
+a) Chamou-lhe a atenção a bolsa vermelha na vitrine, imponente, de couro
+autêntico.
+
+b) Não aguentava mais aguardar no hospital com aquele odor acre de ambiente
+asséptico.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+c) A lágrima escorre no rosto infante, até deixar lhe o gosto salgado na boca.
+
+d) Sentia o frio cortando-lhe o rosto naquela manhã infeliz.
+
+e) Ao telefone, uma voz de mulher estranhíssima pergunta por mim, uma voz
+claramente de choro contido.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+10. FGV - 2022 - TJ TO - Técnico Judiciário - Informática
+
+Observe o texto descritivo a seguir.
+
+“A capa do dicionário era azul com o título centralizado em letras douradas; acima e
+abaixo desse título e do nome do autor, havia uma espécie de bordado de estilo
+árabe, com hexágonos também dourados, cercados de estrelas.”
+
+Sobre a estruturação dessa descrição, a afirmação correta, é:
+
+(A) a descrição parte do todo para as partes;
+(B) o movimento da descrição é de cima para baixo;
+(C) o texto faz uma descrição de algo em movimento;
+(D) a descrição se fundamenta numa visão à distância;
+(E) o texto destaca particularmente os verbos.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+11. FGV - 2021 - Câmara de Aracaju - SE - Redator
+
+Texto 1
+
+“Estamos na cena do crime. À frente de quem mira o levante, fica a praia, banhada
+pela baía de Guanabara. Atrás, indevassável e infinita, a floresta. À direita um
+pequeno manguezal, acompanhando o braço mais largo do rio que desce das serras
+altas da Tijuca para ali desembocar. Do outro lado, o outeiro do Leripe, onde existiu
+a aldeia indígena de Uruçumirim, por trás do qual corre o segundo braço do rio,
+formando a foz em delta. No centro, uma grande construção inabitada – a Casa de
+Pedra, única obra humana no enquadramento deserto da paisagem.”
+(Alberto Mussa, A primeira história do mundo, p. 17)
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+11. FGV - 2021 - Câmara de Aracaju - SE - Redator
+
+Quanto ao modo de organização discursiva, o segmento do texto 1 é quase que
+exclusivamente descritivo; a descrição é feita:
+
+
+A) do todo para as partes;
+
+B) das partes para o todo;
+
+C) de cima para baixo;
+
+D) de longe para perto;
+
+E) de perto para longe.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+12. FGV - 2022 - CGU - Técnico Federal de Finanças e Controle
+
+“A imagem era de uma pessoa que não podia inspirar outro sentimento que não o
+do respeito, porque seu aspecto mostrava uma face larga com um grande nariz e
+pequenos olhos abaixo de grossas sobrancelhas. Uns lábios finos se desenhavam
+sob um bigode tímido, tudo isso com uma pele morena bastante fresca com traços
+de ótima saúde. A cabeça era suportada por um corpo bastante avantajado...”
+
+Esse pequeno fragmento é exemplo de um texto descritivo. A afirmação correta
+sobre ele é:
+
+(A) a descrição se limita a características físicas de uma pessoa, particularmente de
+sua cabeça;
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+12. FGV - 2022 - CGU - Técnico Federal de Finanças e Controle
+
+(B) a tendência global dos traços descritivos apresentados é caracterizar uma
+pessoa por sua firmeza e elegância;
+
+(C) a estratégia descritiva empregada é a de dar uma ideia do todo, mostrando a
+seguir detalhes desse todo;
+
+(D) o observador encarregado da descrição faz questão de ser bastante objetivo,
+sem interferências de caráter subjetivo;
+
+(E) as características apresentadas, relativas ao aspecto geral da pessoa descrita,
+não confirmam a imagem de respeito referida no início do texto.
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+13. FGV - 2022 - SEFAZ-BA - Agente de Tributos Estaduais -
+Administração e Finanças
+
+Quanto aos sentidos em que se baseiam as descrições, assinale a opção que indica
+o texto que mostra essa identificação de forma correta.
+
+
+A) “De uma mesa distante, a única ocupada, ainda vinha o ruído de vozes de
+homens. Uma gargalhada rebentou sonora em meio do vozerio exaltado.” /
+predominantemente, descrição visual.
+
+B) “Deitado, ele beliscou dois ou três grãos. Chupou o sumo azedo, deixou cair a
+casca no prato. Apanhou outro bago, mais doce.” / exclusivamente, descrição táctil.
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+13. FGV - 2022 - SEFAZ-BA - Agente de Tributos Estaduais -
+Administração e Finanças
+
+C) “Nas Barcas, os armazéns tresandavam a lixo e peixe podre, as latas vazias de
+óleo, como cheiro de homens esfarrapados.” / descrição olfativa e gustativa.
+
+D) “O pai comprou o sapato dois números maior... Enfiou no pé frio o sapato branco
+de tênis. Ao pentear-lhe o louro cabelo, a cabeça ainda em fogo.” / descrição visual
+e táctil.
+
+E) “Examinou a sala. Na extremidade da mesa, um homenzinho escrevendo. No
+momento em que o Doutor Silveira se certificava disso, o personagem soltou a
+pena, mostrou uns olhos empapuçados e deixou escapar um gesto de repugnância.”
+/ descrição visual e auditiva.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+14. FGV - 2022 - CGU - Auditor Federal de Finanças e Controle
+
+Observe o texto descritivo a seguir. “Entramos vagarosa e silenciosamente pela
+porta do laboratório às escuras; o cheiro do local era nauseabundo e havia uma
+substância pegajosa não identificada por todo o chão. Havia tubos de ensaio
+espalhados, como se os trabalhadores do local tivessem saído às pressas... Pelo
+amargo de nossas bocas, as expectativas eram as piores possíveis.” A estratégia
+empregada nessa descrição é a de:
+
+(A) descrever detalhadamente, construindo-se da parte para o todo;
+(B) apresentar os elementos da descrição de cima para baixo;
+(C) utilizar todos os sentidos físicos na descrição;
+(D) identificar claramente os componentes do cenário descrito;
+(E) mostrar os elementos de longe para perto.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+        O OBSERVADOR NA
+    DESCRIÇÃO E NA NARRAÇÃO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+15. FGV - 2021 - Banestes - Analista em Tecnologia da Informação
+
+
+Observe a seguinte descrição de um museu: “Do lado de fora e diante da porta
+central, pude observar a enorme porta, de estilo antigo, de madeira sólida, cercada
+de um pequeno friso de pedra, talvez por exigência do estilo da época; ao lado,
+uma série de janelas do mesmo material, que, em função do horário, ainda estavam
+fechadas.”
+
+Nessa descrição, nem todos os elementos do museu estão presentes; isso ocorre
+em muitas descrições por diferentes limitações de quem descreve.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+15. FGV - 2021 - Banestes - Analista em Tecnologia da Informação
+
+
+No caso desse segmento, a limitação descritiva provém:
+
+
+A) de problemas psicológicos de quem observa;
+
+B) de falta de conhecimento mais profundo sobre o tema;
+
+C) do posicionamento físico do observador;
+
+D) do pouco tempo disponível para uma ampla descrição;
+
+E) do desinteresse em mostrar outros aspectos do museu.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+16. FGV - 2022 - MPE-SC - Auxiliar do Ministério Público
+Observe o seguinte texto descritivo:
+
+“Olhou o objeto por trás da cadeira que estava diante dele. Contornou-a e
+aproximou-se da mesa. Cuidadosamente, pegou o pequeno pássaro esculpido em
+madeira e, voltando para a cadeira, girou-o entre os dedos, examinando a pequena
+base pintada de azul”.
+
+A técnica descritiva empregada nesse texto, é:
+
+(A) observador e objeto estão parados;
+(B) observador e objeto estão em movimento;
+(C) objeto imóvel e observador em movimento;
+(D) objeto em movimento e observador parado;
+(E) objeto e observador alternam movimento e paralisação.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+17. FGV - 2022 - MPE-SC - Auxiliar do Ministério Público
+Num samba popular de Paulinho da Viola e Hermínio Bello de Carvalho há uma
+descrição da favela da Mangueira, nos seguintes versos:
+
+“Vista assim do alto Mais parece o céu no chão”
+
+Sobre esse pequeno texto, é correto afirmar que:
+
+(A) o observador está no plano horizontal em relação à favela;
+(B) os detalhes dados sobre a favela a desvalorizam;
+(C) a posição do observador favorece a descrição da favela;
+(D) a semelhança com o céu ocorre pelo distanciamento;
+(E) a expressão “céu no chão” mostra a dura realidade da favela.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+18. FGV - 2021 - Câmara de Aracaju - SE - Redator
+
+Texto 1
+
+“Estamos na cena do crime. À frente de quem mira o levante, fica a praia, banhada
+pela baía de Guanabara. Atrás, indevassável e infinita, a floresta. À direita um
+pequeno manguezal, acompanhando o braço mais largo do rio que desce das serras
+altas da Tijuca para ali desembocar. Do outro lado, o outeiro do Leripe, onde existiu
+a aldeia indígena de Uruçumirim, por trás do qual corre o segundo braço do rio,
+formando a foz em delta. No centro, uma grande construção inabitada – a Casa de
+Pedra, única obra humana no enquadramento deserto da paisagem.”
+
+(Alberto Mussa, A primeira história do mundo, p. 17)
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+18. FGV - 2021 - Câmara de Aracaju - SE - Redator
+
+Quanto ao observador que nos faz a descrição lida no texto 1, podemos dizer dele
+que:
+
+
+A) mostra desconhecimento sobre alguns dados da descrição;
+
+B) apresenta limitações na descrição em função de sua posição;
+
+C) acrescenta informações à descrição da cena;
+
+D) realiza uma descrição isenta de opiniões pessoais;
+
+E) faz uma descrição intermeada de segmentos narrativos.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                 NARRAÇÃO/NARRADOR
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                                            “Tinha recebido pequena herança de uma tia.
+            NARRADOR                        Queria aplicar o dinheiro numa atividade que
+           OBSERVADOR                      lhe desse algum lucro, porém, mais que lucro,
+                                                       satisfação intelectual.”
+
+
+NARRAÇÃO
+
+                                         “O toró que cobria Manaus, trégua na quentura
+            NARRADOR                         do equador, me aliviava. Frutas e folhas
+           PERSONAGEM                     boiavam nas poças que cercavam a porta do
+                                                         meu quarto.”
+
+                           Prof. Adriana Figueiredo
+               
+
+
+---
+
+19. FGV - 2022 - TJ TO - Técnico Judiciário - Informática
+
+As opções abaixo exemplificam textos narrativos; a opção em que o narrador se
+mostra como mero observador dos fatos, é:
+
+(A) Aproximei-me da cerca e a atravessei, preocupado com o touro que pastava ali
+próximo;
+
+(B) As nuvens se juntaram no horizonte, o céu tornou-se escuro e, em pouco
+tempo, a chuva desabou sobre minha cabeça;
+
+(C) O Maracanã ficou cheio, e as torcidas dos dois times pareciam ansiosas pelo
+início daquela partida decisiva;
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+19. FGV - 2022 - TJ TO - Técnico Judiciário - Informática
+
+
+(D) O guarda parou o carro onde eu estava e multou o motorista por excesso de
+velocidade;
+
+(E) O professor viu que eu não havia feito o dever de casa e ordenou que eu fosse
+para fora de sala.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+20. FGV - 2022 - Prefeitura de Manaus - AM - Condutor de Ambulância
+
+Observe o seguinte trecho narrativo:
+
+“Tudo era matéria às curiosidades de Capitu. Caso houve, porém, no qual não sei se
+aprendeu ou ensinou, ou se fez ambas as coisas, como eu. É o que contarei no
+outro capítulo. Neste direi somente que, passados alguns dias do ajuste com o
+agregado, fui ver a minha amiga; eram dez horas da manhã. D. Fortunata, que
+estava no quintal, nem esperou que eu lhe perguntasse pela filha. — Está na sala,
+penteando o cabelo, disse-me; vá devagarzinho para lhe pregar um susto.” Assis,
+Machado de. Dom Casmurro.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+20. FGV - 2022 - Prefeitura de Manaus - AM - Condutor de Ambulância
+
+Nesse segmento de texto, o narrador
+
+A) é mero observador, sem interferência nos fatos narrados.
+
+B) participa dos fatos narrados, como personagem.
+
+C) relata a história em terceira pessoa, com indicações de tempo passado.
+
+D) se mostra como autor do texto, sem participação nos fatos.
+
+E) se apresenta como estruturador dos fatos narrados, com perfeita consciência dos
+fatos narrados.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+21. FGV - 2022 - CGU - Auditor Federal de Finanças e Controle
+
+Em uma tarde ensolarada, estou no portão da escola recebendo as crianças como
+todos os dias. De repente, um carro para em frente ao portão. Um menino de
+quatro anos chega à porta da escola com o telefone nas mãos, assistindo desenho
+ou jogando (não foi possível identificar), tão concentrado que nem percebe que
+chegou à escola. A mãe chama e ele não atende. Então, ela pega o telefone das
+mãos do filho e ele começa a reclamar, chorando e exaltado, querendo o telefone
+novamente. A mãe pede ao filho para parar de chorar e de “fazer birra”, mas este
+não a atende. Para parar de ouvir a reclamação do filho, ela então vai ao carro,
+busca o tablet e deixa que o filho o leve para a escola. Diário de bordo, 26 de
+fevereiro de 2018.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+21. FGV - 2022 - CGU - Auditor Federal de Finanças e Controle
+
+Sobre a estrutura desse pequeno texto, retirado de um estudo sobre a Tecnologia e
+a Educação Infantil, a afirmativa adequada é que se trata de um texto:
+
+(A) argumentativo, em que se procura, por meio de uma estrutura narrativa,
+condenar o mau emprego da tecnologia nas escolas;
+
+(B) narrativo, de que o narrador participa somente como observador e que pode
+servir de exemplo para a condenação de um mau processo educativo familiar;
+
+(C) narrativo, de que o narrador participa com opiniões sobre o narrado, em tom
+condenatório da tecnologia atual;
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+21. FGV - 2022 - CGU - Auditor Federal de Finanças e Controle
+
+(D) meramente descritivo de uma cena presenciada por um observador isento,
+cena essa que mostra características da sociedade atual;
+
+(E) argumentativo, em que o argumentador se utiliza da presença de um tablet para
+a condenação dos games infantis como não educativos.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                           DEFINIÇÃO
+
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                                                                Triângulo: uma figura plana que tem três
+             Significado; explicação
+                                                                                 lados.
+                 clara e concisa.
+DEFINIÇÃO   Definir é “dizer o que algo                         Vegetariano é o seguidor da alimentação
+                        é”.                                              exclusiva de vegetais.
+
+                                     Prof. Adriana Figueiredo
+                         
+
+
+---
+
+22. FGV - 2021 - FUNSAÚDE - CE - Médico Alergista e Imunologia
+Pediátrica
+O segmento abaixo que mostra uma estrutura textual diferente da que aparece nas
+definições:
+
+A) “A genialidade é uma grande aptidão para a paciência”;
+
+B) “A genialidade é uma variedade da loucura”;
+
+C) “A educação dos pais é a responsável por jovens preguiçosos”;
+
+D) “Educação é aquilo que a maior parte das pessoas recebe, muitos transmitem e
+poucos possuem”;
+
+E) “Os gênios são aqueles que dizem muito antes o que se dirá muito depois”.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+23. FGV - 2021 - FUNSAÚDE - CE - Analista de Patologia Clínica
+
+“Torcicolo. O termo é usado mais frequentemente como ‘torção do pescoço devido
+à contração de músculos cervicais’. O nome nada tem a ver com colo, tendo
+chegado ao português através do italiano torcicolo, formado com base em torcere
+(torcer) e collo (pescoço)”. Márcio Bueno, A origem curiosa das palavras.
+
+O fragmento acima começa pela definição de “torcicolo”; assinale a opção que se
+inicia de forma diferente.
+
+A) Toró: pancada de chuva muito intensa e passageira.
+B) Traça: uma espécie de insetos que ataca livros, roupas etc.
+C) Tomate: vem do dialeto asteca tomátl, por meio do espanhol tomate.
+D) Tiririca: erva daninha que dá muita dor de cabeça aos agricultores
+E) Trio elétrico: sistema de música ambulante sobre um caminhão iluminado.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+24. FGV - 2021 - Prefeitura Municipal de                    Paulínia - Auditor Fiscal
+Tributário – Tipo 1
+Ópera é quando um sujeito recebe uma facada nas costas e, em vez de sangrar,
+canta.
+
+Essa definição não segue o modelo oficial de dar o significado do termo a ser
+definido, mas cita um exemplo de situação das óperas.
+
+Assinale a opção que apresenta a definição que segue o modelo acima.
+
+(A) A arte é a mais bela das mentiras.
+(B) A arte é a magia livre da mentira de ser verdade.
+C) A pintura é poesia silenciosa.
+D) A arte é o amarelo de Van Gogh.
+E) A arte é a busca do inútil.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+25. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+
+“As cantigas de roda, também conhecidas como cirandas são brincadeiras que
+consistem na formação de uma roda, com a participação de crianças, que cantam
+músicas de caráter folclórico, seguindo coreografias. São muito executadas em
+escolas, parques e outros espaços frequentados por crianças. As músicas e
+coreografias são criadas por anônimos, que adaptam músicas e melodias.
+Transmitidas oralmente, as letras das músicas são simples e trazem temas do
+universo infantil.” (Suapesquisa.com)
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+25. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+
+O primeiro período desse segmento exemplifica um tipo de texto denominado
+definição; no caso da definição de cantiga de roda, NÃO faz parte de sua estrutura:
+
+A) outro vocábulo que também designa a mesma realidade;
+B) um vocábulo de significação geral em que se encaixa a realidade definida;
+C) componentes que formam a palavra definida;
+D) especificidades do termo definido;
+E) informações de caráter histórico sobre o vocábulo definido.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+26. FGV 2021 Câmara de Aracaju SE Assistente Administrativo
+
+“A vida é a arte de tirar conclusões suficientes de premissas insuficientes
+
+Essa definição de “ apela para uma relação com o seguinte modo de organização
+discursiva
+
+A) dissertativo argumentativo
+B) dissertativo expositivo
+C) descritivo
+D) narrativo
+E) injuntivo
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+               FATO x OPINIÃO
+          Discutir, expor um assunto
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                TIPOLOGIA TEXTUAL
+
+
+                        SUBSTANTIVO                    O problema da sociedade é isso.
+
+                           ADJETIVO                     O problema da educação é grave.
+MODALIZADORES
+  TEXTUAIS
+
+                                                       Os governantes devem se atentar a
+                              VERBO
+                                                                     isso.
+
+
+                                                         Certamente as autoridades são
+                           ADVÉRBIO
+                                                                responsáveis.
+                            Prof. Adriana Figueiredo
+                
+
+
+---
+
+V. Identifique os modalizadores nas frases abaixo.
+
+a) O Código Brasileiro de Autorregulamentação Publicitária Conar decidiu apertar o
+cerco contra a publicidade infantil.
+
+b) Envelhecer é chato, mas consolemo‐nos: a alternativa é pior. Ninguém que eu
+conheça morreu e voltou para contar como é estar morto, mas o consenso geral é
+que existir é muito melhor do que não existir. Há dúvidas, claro.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+c) O trânsito sempre foi sinônimo de confusão, e tragédias. Agora, infelizmente, às
+vésperas do final do ano, o número de acidentes e mortes tende a aumentar ainda
+mais.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                                         A matemática está no centro de algumas das mais
+           DO AUTOR                         intrigantes especulações cosmológicas da
+                                                           Atualidade.
+
+           DO AUTOR                          Estamos cansados dos casos de corrupção na
+OPINIÃO   COMO GERAL                                          política.
+
+                                            Há uma crítica ácida à postura dos médicos
+          DE TERCEIROS                   brasileiros que se recusam a trabalhar em cidades
+                                                            sem recursos.
+
+
+                                  Prof. Adriana Figueiredo
+                      
+
+
+---
+
+                                  Até 1940, os migrantes se dirigiam
+                         predominantemente para a cidade do Rio de Janeiro,
+FATO                      então Distrito Federal, e também para a cidade e o
+                        estado de São Paulo, e eram em grande parte oriundos
+                                   de Minas Gerais e do Nordeste.
+
+                   Prof. Adriana Figueiredo
+       
+
+
+---
+
+VI. Classifique os trechos abaixo, seguindo o código:
+
+1 - FATO
+2 - OPINIÃO DO AUTOR
+3 - OPINIÃO DO AUTOR APRESENTADA COMO GERAL
+4 - OPINIÃO DE TERCEIROS
+
+
+a) À medida que fico maduro, tomo consciência de que a cidade é feita para quem
+está no auge da saúde, com força total.
+
+
+b) A ética na Grécia começava no aprimoramento corporal. Para enfrentar os
+inimigos, ou deles fugir com honra, era necessário bem usar o corpo.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+c) Os negros que pagam impostos e os outros contribuintes que consideram
+Monteiro Lobato racista não devem ser obrigados a bancar edições do escritor. É
+mais ou menos essa a posição do economista Walter Williams, um dos principais
+intelectuais libertários dos EUA.
+
+d) A entrega do Relatório Final da Comissão Parlamentar Mista de Inquérito da
+Violência Contra a Mulher (CP-MIVCM) foi um marco na luta das mulheres
+brasileiras pela garantia de seus direitos, principalmente, o enfrentamento à
+violência de gênero.
+
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+e) Antes, tínhamos os velhos filmes em preto-e-branco, fora de foco, as fotos
+amareladas, que nos davam a sensação de que o passado era precário e o futuro
+seria luminoso. Nada. Nunca estaremos no futuro.
+
+f) A falta de pesquisas objetivas sobre os efeitos da regulamentação nos padrões
+alimentares e na saúde a longo prazo é uma lacuna de conhecimento séria que
+precisa ser sanada.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+g) Ao descobrir maneiras de produzir alimentos em grande escala, certos povos que
+viveram a partir de uns 10 mil anos atrás desencadearam uma explosão
+populacional que foi resolvida com outra invenção, a da vida urbana.
+
+h) Sabemos que o jovem almeja sua inserção no mercado de trabalho, porém,
+muitas vezes isso não é uma tarefa fácil. A inclusão no âmbito profissional
+proporciona crescimento, aprendizado, autoconfiança e, principalmente,
+responsabilidade profissional e pessoal. Essa tarefa, no entanto, raramente é fácil.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+27. FGV - 2021 - PC RJ - Inspetor de Polícia
+
+A frase abaixo que, ao contrário das demais, só traz dados objetivos, sem a
+participação do enunciador, é:
+
+
+(A) O desempenho do time ontem foi excepcional;
+
+(B) É pena que tenha chovido tanto no final de semana;
+
+(C) Segundo o que eu penso, esse médico é um enganador;
+
+(D) Você não passa de um charlatão vulgar;
+
+(E) João acertou na loteria e está feliz com isso.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+28. FGV - 2022 - PM-AM - Aluno Oficial da Polícia Militar
+Observe o seguinte pensamento de C. Bernard: “O observador deve ser o fotógrafo
+da natureza, sua observação deve representar exatamente a natureza. É preciso
+observar sem ideias preconcebidas; o espírito do observador deve ser passivo, ou
+seja, deve calar-se; ele ouve a natureza e escreve o que ela dita.”
+
+Assinale a frase abaixo que mostra a completa isenção do observador diante da
+natureza observada.
+
+A) O vento impressionante perturbava a paisagem.
+B) A ventania agitava as folhas das árvores.
+C) O vento trazia muita inquietação aos pobres moradores.
+D) Nunca ventara tanto naquele pequenino lugar.
+E) A aldeia tremia de medo sob a forte ventania.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+29. FGV - 2022 - Prefeitura de Manaus - AM - Médico Clínico Geral
+As frases a seguir mostram pareceres médicos; assinale a opção que apresenta
+aquele que é elaborado de forma impessoal.
+
+A) O paciente do leito 11 da enfermaria deve ser transferido imediatamente para a
+UTI.
+
+B) Considero que este remédio deva ser tomado duas vezes ao dia.
+
+C) O cliente está agora em muito bom estado de saúde.
+
+D) Parece estabelecido que o uso da vacina é universalmente benéfico.
+
+E) Devemos pedir a ajuda a Deus para que o transporte desses pacientes ocorra
+sem problemas.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+30. FGV - 2021 - PC RJ - Inspetor de Polícia
+Texto 3
+
+     Com a chegada da temporada de verão, a Polícia Militar contará com o reforço
+de efetivo em Balneário Camboriú, buscando manter os indicadores dos crimes
+violentos em queda. No ano de 2019 ocorreram 13 homicídios. Já no ano passado,
+este número foi reduzido para 10.
+     Diante a intensificação das ações policiais, o 12º Batalhão de Polícia Militar
+conseguiu alcançar em 2021, até o dia de hoje, a impressionante marca de apenas
+6 homicídios dolosos. Isto significa uma redução de 40% no triênio, e se comparado
+ao ano de 2019, a redução ultrapassaria a 50%.
+     O reforço de efetivo em Balneário Camboriú busca manter os indicadores dos
+crimes violentos em queda, visando a manutenção da qualidade de vida da cidade,
+que é referência tanto no âmbito estadual, como nacional.
+Adaptado. Polícia Civil - Balneário Camboriú.
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+30. FGV - 2021 - PC RJ - Inspetor de Polícia
+O termo destacado que marca uma interferência do redator da notícia no conteúdo
+veiculado no texto 3 é:
+
+(A) Com a chegada da temporada de verão, a Polícia Militar contará com o
+reforço de efetivo em Balneário Camboriú, buscando manter os indicadores dos
+crimes violentos em queda;
+
+(B) No ano de 2019 ocorreram 13 homicídios. Já no ano passado, este número
+foi reduzido para 10;
+
+(C) Diante a intensificação das ações policiais, o 12Q Batalhão de Polícia Militar
+conseguiu alcançar em 2021, até o dia de hoje, a impressionante marca de
+apenas 6 homicídios dolosos;
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+30. FGV - 2021 - PC RJ - Inspetor de Polícia
+
+(D) Isto significa uma redução de 40% no triênio, e se comparado ao ano de
+2019, a redução ultrapassaria a 50%;
+
+(E) ...visando a manutenção da qualidade de vida da cidade, que é referência
+tanto no âmbito estadual, como nacional.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+31. FGV - 2022 - MPE-SC - Auxiliar do Ministério Público
+A frase abaixo que contém marcas do enunciador, é:
+
+
+(A) Hoje, tempo bom, com chuvas no cair da tarde;
+
+(B) O acidente causou duas vítimas, levadas ao hospital mais próximo;
+
+(C) O fogão era moderno, pena que custasse tão caro;
+
+(D) O material de construção ficou espalhado pela calçada;
+
+(E) Todos os convidados chegaram atrasados ao evento.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+32. FGV - 2021 - Câmara de Aracaju - SE - Analista Administrativo
+Abaixo aparecem cinco manchetes jornalísticas de um jornal carioca; a única delas
+que mostra influência da visão do redator é:
+
+
+A) Infecções pelo coronavírus disparam na Itália;
+
+B) Aumenta número de cidades que dependem do INSS;
+
+C) Temporal deixa 4 mortos no Rio;
+
+D) Relatos de abuso sexual crescem no Brasil;
+
+E) Congresso pode reduzir prazo de tramitação de MPs.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+33. FGV - 2022 - TCU - Auditor Federal de Controle Externo
+Abaixo aparecem opiniões variadas, todas elas expressas de um modo impessoal. A
+citação a seguir que contém elementos de personalização é:
+
+A) Os educadores são constantemente interrogados sobre o papel da televisão na
+educação das crianças; parece hoje estabelecido que esse papel é benéfico;
+
+B) Está universalmente estabelecido que a eficiência das regras de segurança
+depende da boa vontade dos que as utilizam;
+
+C) Parece a todos que a eficácia das vacinas está definitivamente comprovada,
+bastando ver-se a grande diminuição de internações hospitalares;
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+33. FGV - 2022 - TCU - Auditor Federal de Controle Externo
+
+
+D) Quanto a Grande sertão: veredas, se só se observam os grandes pensamentos
+que essa obra contém, é certamente um livro impressionante;
+
+E) Só se pode esperar que a equipe local de salvamento possa atuar de forma
+eficiente a fim de que muitas vidas sejam salvas.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+34. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Ministério Público de Contas
+Texto 3
+
+“Nenhum ser humano é uma ilha… por isso não perguntem por quem os sinos
+dobram. Eles dobram por cada um, por cada uma, por toda a humanidade. Se
+grandes são as trevas que se abatem sobre nossos espíritos, maiores ainda são as
+nossas ânsias por luz. (…) As tragédias dão-nos a dimensão da inumanidade de que
+somos capazes. Mas também deixam vir à tona o verdadeiramente humano que
+habita em nós, para além das diferenças de raça, de ideologia e de religião. E esse
+humano em nós faz com que juntos choremos, juntos nos enxuguemos as lágrimas,
+juntos oremos, juntos busquemos a justiça, juntos construamos a paz e juntos
+renunciemos à vingança.“
+
+Leonardo Boff
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+34. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Ministério Público de Contas
+
+Nesse segmento (texto 3), o autor:
+
+
+A) apresenta sua própria opinião;
+
+B) apresenta uma opinião como geral;
+
+C) apresenta uma opinião alheia e a comenta;
+
+D) apresenta e comenta sua opinião;
+
+E) confronta diversas opiniões.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+35. FGV - 2022 - TJ TO - Técnico Judiciário - Apoio Judiciário e
+Administrativo
+
+Muitos textos apresentam não apenas o ponto de vista do seu autor, mas também
+o de outros indivíduos ou grupos sociais.
+
+Uma alternativa em que a palavra sublinhada reflete um ponto de vista que NÃO
+pode ser atribuído ao autor do texto 2 é:
+
+(A) “Para que serve sonhar?”;
+
+(B) “A despeito do impacto profundo destas ideias na sociedade ocidental”;
+
+(C) “marcando um divórcio progressivo de método e discurso entre a psicanálise e
+a biologia”;
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+35. FGV - 2022 - TJ TO - Técnico Judiciário - Apoio Judiciário e
+Administrativo
+
+
+(D) “Predomina nas ciências exatas a noção de que a contribuição da psicanálise
+para o entendimento dos sonhos resume-se a um amontoado de observações
+isoladas”;
+
+(E) “Predomina nas ciências exatas a noção de que a contribuição da psicanálise
+para o entendimento dos sonhos resume-se a um amontoado de observações
+isoladas”.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+36. FGV - 2022 - SSP-AM - Técnico de Nível Superior
+
+
+Observe as quatro frases a seguir, todas elas redigidas por um mesmo indivíduo:
+
+1. Não se pode esperar que esse filme venha a ter o sucesso que ele merece.
+
+2. Nós apreciamos os esforços da prefeitura da cidade para aumentar os espaços
+verdes.
+
+3. De acordo com os peritos, as causas do acidente seriam de origem criminosa.
+
+4. Nós poderíamos imaginar que os progressos científicos garantiriam num futuro
+próximo a felicidade da humanidade?
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+36. FGV - 2022 - SSP-AM - Técnico de Nível Superior
+
+  Todos esses textos manifestam opiniões; a afirmação correta sobre eles é:
+
+
+A) as frases 2 e 3 manifestam opiniões pessoais.
+
+B) a frase 2 mostra uma opinião pessoal, dando-lhe um aspecto geral.
+
+C) todas as frases partem de opiniões alheias, retomadas como se fossem próprias.
+
+D) as frases 3 e 4 apresentam uma opinião e, em seguida, a comentam.
+
+E) a frase 1 confronta opiniões diversas.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueiredo
+
+    
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                      Profª. Adriana Figueiredo
+
+                 
+
+
+---
+
+Professora: Adriana Figueiredo
+
+                    @professoraadrianafigueiredo
+
+              
+
+
+---
+
+---

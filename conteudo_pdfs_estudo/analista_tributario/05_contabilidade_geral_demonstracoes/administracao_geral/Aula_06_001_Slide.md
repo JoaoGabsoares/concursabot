@@ -1,0 +1,184 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 06_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Conceito
+artigos_citados:
+- Art. 176
+---
+
+# Conceito
+
+---
+
+---
+
+  Conceito
+
+Trata-se de uma demonstração contábil/financeira cuja finalidade reside na
+apresentação da posição financeira e patrimonial da empresa em determinada
+data.
+
+O Balanço Patrimonial representa uma posição estática, compreendendo todos os
+bens e direitos (Ativo), as obrigações (Passivo Exigível) e o Patrimônio Líquido da
+entidade em uma determinada data.
+
+                                
+
+
+---
+
+Demonstrações Contábeis
+                       Art. 176, Lei n. 6.404/76
+
+
+                                                                       Demonstração
+                         Demonstração dos
+     Balanço                                                           dos Resultados
+                          Lucros e Prejuízos
+ Patrimonial (BP)                                                       do Exercício
+                         Acumulados (DLPA)
+                                                                           (DRE)
+
+               Demonstração                                Demonstração do
+               dos Fluxos de                               Valor Adicionado
+                Caixa (DFC)                                      (DVA)
+
+                           
+
+
+---
+
+Demonstrações Contábeis
+
+i. A elaboração da DLPA é dispensada, desde que seja elaborada a
+Demonstração das Mutações do Patrimônio Líquido (DMPL);
+
+ii. A DVA somente é obrigatória para as sociedades anônimas de capital
+aberto;
+
+iii. A companhia fechada com patrimônio líquido, na data do balanço, inferior a
+R$ 2.000.000,00 (dois milhões de Reais), está dispensada da elaboração da
+DFC.
+
+
+                              
+
+
+---
+
+Demonstrações Contábeis
+
+                   Conjunto Completo das Demonstrações
+
+10. O conjunto completo de demonstrações contábeis inclui:
+(a) balanço patrimonial ao final do período;
+(b) demonstração do resultado do período;
+(ba) demonstração do resultado abrangente do período;
+(c) demonstração das mutações do patrimônio líquido do período;
+(d) demonstração dos fluxos de caixa do período;
+(da) demonstração do valor adicionado do período, conforme CPC 09 –
+Demonstração do Valor Adicionado, se exigido legalmente ou por algum órgão
+regulador ou mesmo se apresentada voluntariamente;
+
+                             
+
+
+---
+
+Demonstrações Contábeis
+
+                      Conjunto Completo das Demonstrações
+
+(e) notas explicativas, compreendendo as políticas contábeis significativas e outras
+informações elucidativas;
+(ea) informações comparativas com o período anterior, conforme especificado nos
+itens 38 e 38A;
+(f) balanço patrimonial do início do período mais antigo, comparativamente
+apresentado, quando a entidade aplica uma política contábil retrospectivamente
+ou procede à reapresentação retrospectiva de itens das demonstrações contábeis,
+ou quando procede à reclassificação de itens de suas demonstrações contábeis de
+acordo com os itens 40A a 40D.
+
+                                 
+
+
+---
+
+(AFRFB)
+O conjunto completo das demonstrações contábeis exigidas pelas Normas Brasileiras de
+Contabilidade inclui
+
+a) o relatório do Conselho de Administração e as Notas Explicativas, compreendendo um
+resumo das políticas contábeis significativas.
+b) o resumo das políticas Contábeis e o Valor Adicionado obrigatoriamente a todos os tipos
+de entidade.
+c) a Demonstração do Valor Adicionado, se entidade prestadora de serviços, e de
+Resultado Abrangente, se instituição financeira.
+d) as Demonstrações dos Fluxos de Caixa e das Mutações do Patrimônio Líquido do
+período.
+e) a Demonstração da Conta Lucros / Prejuízos Acumulados e o Relatório de Impacto
+Ambiental.
+
+                                   
+
+
+---
+
+Aspectos Gerais
+Art. 176, § 1º As demonstrações de cada exercício serão publicadas com a
+indicação dos valores correspondentes das demonstrações do exercício
+anterior.
+
+                            
+
+
+---
+
+Aspectos Gerais
+
+§ 2º Nas demonstrações, as contas semelhantes poderão ser agrupadas; os
+pequenos saldos poderão ser agregados, desde que indicada a sua natureza e
+não ultrapassem 0,1 (um décimo) do valor do respectivo grupo de contas; mas
+é vedada a utilização de designações genéricas, como "diversas contas" ou
+"contas-correntes".
+
+                             
+
+
+---
+
+Aspectos Gerais
+
+
+§ 3º As demonstrações financeiras registrarão a destinação dos lucros segundo
+a proposta dos órgãos da administração, no pressuposto de sua aprovação
+pela assembleia-geral.
+
+                              
+
+
+---
+
+Aspectos Gerais
+
+§ 4º As demonstrações serão complementadas por notas explicativas e outros
+quadros analíticos ou demonstrações contábeis necessários para esclarecimento da
+situação patrimonial e dos resultados do exercício.
+
+                              
+
+
+---
+
+---
