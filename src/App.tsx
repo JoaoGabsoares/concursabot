@@ -163,7 +163,12 @@ export const App: React.FC = () => {
     }
   };
 
+  const [activeStudyTarget, setActiveStudyTarget] = useState<DailyMission | string | undefined>();
+
   const handleStartStudy = (target?: DailyMission | string) => {
+    if (target) {
+      setActiveStudyTarget(target);
+    }
     setActiveTab('study');
   };
 
@@ -256,7 +261,10 @@ export const App: React.FC = () => {
               )}
 
               {(activeTab === 'study' || activeTab === 'study-room') && (
-                <StudyRoomPage careerId={careerId} />
+                <StudyRoomPage 
+                  careerId={careerId} 
+                  initialSubject={typeof activeStudyTarget === 'string' ? activeStudyTarget : activeStudyTarget?.subject}
+                />
               )}
 
               {activeTab === 'simulados' && (

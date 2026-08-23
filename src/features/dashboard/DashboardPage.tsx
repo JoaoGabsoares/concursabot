@@ -40,9 +40,12 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
   const currentRank = getConcurseiroRank(userXp);
   const [subjectsList, setSubjectsList] = useState<SubjectStats[]>(() => getSubjectsForCareer(careerId));
   const [activeWeekDates, setActiveWeekDates] = useState<string[]>([]);
+  const [activeCycle, setActiveCycle] = useState<any>(null);
 
   const refreshDashboard = useCallback(() => {
     const baseList = getSubjectsForCareer(careerId);
+    
+    // 1. Carregar estatísticas gerais
     api.getDashboardStats(user?.id, careerId)
       .then((data: any) => {
         if (data) {
@@ -71,6 +74,15 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
         }
       })
       .catch(() => {});
+
+    // 2. Carregar ciclo ativo integrado
+    api.getActiveStudyCycle(user?.id, careerId)
+      .then((cycleData) => {
+        if (cycleData && Array.isArray(cycleData.blocks)) {
+          setActiveCycle(cycleData);
+        }
+      })
+      .catch(() => {});
   }, [user?.id, careerId]);
 
   useEffect(() => {
@@ -78,14 +90,19 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
     refreshDashboard();
   }, [refreshDashboard]);
 
-  const topSubject = subjectsList[0]?.name || 'Direito Tributário';
-  const topLesson = getLessonContent(topSubject);
+  // Integração Dinâmica com o Bloco Ativo da Esteira
+  const currentBlockIndex = activeCycle?.current_block_index || 0;
+  const activeBlock = activeCycle?.blocks?.[currentBlockIndex];
+  const targetSubject = activeBlock?.subject || subjectsList[0]?.name || 'Direito Tributário';
+  const topLesson = getLessonContent(targetSubject);
 
   const currentMission: DailyMission = {
-    subject: topSubject,
-    topic: topLesson.topic,
-    estimatedMinutes: 45,
-    rewardXp: 30,
+    subject: targetSubject,
+    topic: activeBlock 
+      ? `Bloco ${(currentBlockIndex + 1).toString().padStart(2, '0')} de ${activeCycle.blocks.length} da Esteira de Rotação • ${activeBlock.duration_minutes || 60} min`
+      : topLesson.topic,
+    estimatedMinutes: activeBlock?.duration_minutes || 60,
+    rewardXp: 20,
     status: 'pending'
   };
 
@@ -150,12 +167,19 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
       {/* Grid Principal: 2 Blocos Superiores (Ação Imediata + Sequência) */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 items-stretch">
         
-        {/* BLOCO 1: Próxima Ação Recomendada (Missão em Foco) */}
+        {/* BLOCO 1: Próxima Ação Recomendada (Missão em Foco do Ciclo Ativo) */}
         <div className="lg:col-span-8 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] p-6 sm:p-7 flex flex-col justify-between space-y-6 shadow-sm relative overflow-hidden">
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <span className="font-mono text-[11px] font-bold text-[var(--accent-primary)] tracking-wider">
-              [ 01 // PRÓXIMO ESTUDO RECOMENDADO ]
-            </span>
+            <div className="flex items-center gap-2">
+              <span className="font-mono text-[11px] font-bold text-[var(--accent-primary)] tracking-wider">
+                [ 01 // PRÓXIMO BLOCO DA ESTEIRA ]
+              </span>
+              {activeCycle && (
+                <span className="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-[var(--accent-primary)]/10 text-[var(--accent-primary)] border border-[var(--accent-primary)]/20">
+                  {activeCycle.name}
+                </span>
+              )}
+            </div>
             <div className="flex items-center gap-2 text-xs font-mono text-[var(--text-muted)]">
               <Clock className="w-3.5 h-3.5" />
               <span>{currentMission.estimatedMinutes} MIN</span>
@@ -165,9 +189,16 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
           </div>
 
           <div className="space-y-2">
-            <h2 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
-              {currentMission.subject}
-            </h2>
+            <div className="flex flex-wrap items-center gap-2">
+              <h2 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
+                {currentMission.subject}
+              </h2>
+              {activeCycle?.exam_date && (
+                <span className="px-2.5 py-1 rounded-full text-xs font-mono font-bold bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-secondary)]">
+                  ⏳ {activeCycle.settings?.simulation?.daysUntilExam || 204} dias até a prova ({activeCycle.settings?.simulation?.totalLapsUntilExam || 29} voltas)
+                </span>
+              )}
+            </div>
             <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed max-w-2xl">
               {currentMission.topic}
             </p>
@@ -179,14 +210,14 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
               className="px-6 py-3.5 rounded-xl bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-[var(--btn-primary-text)] font-mono text-xs font-bold flex items-center justify-center gap-2.5 shadow-sm transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             >
               <Play className="w-4 h-4 fill-[var(--btn-primary-text)]" />
-              <span>CONTINUAR ESTUDO AGORA ➔</span>
+              <span>ESTUDAR ESTE BLOCO AGORA ➔</span>
             </button>
             <button
               onClick={() => onNavigate('ciclos')}
               className="px-4 py-3.5 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] font-mono text-xs font-bold flex items-center justify-center gap-2 transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
             >
               <RotateCw className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
-              <span>Ver Ciclo de Estudos</span>
+              <span>Ver Esteira Completa</span>
             </button>
           </div>
         </div>

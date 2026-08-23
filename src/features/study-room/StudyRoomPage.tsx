@@ -36,6 +36,7 @@ import {
 
 interface StudyRoomPageProps {
   careerId: string;
+  initialSubject?: string;
 }
 
 interface CustomMaterial {
@@ -374,12 +375,21 @@ const CadenceTimerWidget: React.FC<{
   );
 });
 
-export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
+export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialSubject }) => {
   const { success, error: toastError, info } = useToast();
   const currentCareer = getCareerById(careerId);
   const careerSubjects = getSubjectsForCareer(careerId);
   
-  const [selectedSubject, setSelectedSubject] = useState<string>(careerSubjects[0]?.name || 'Direito Constitucional');
+  const [selectedSubject, setSelectedSubject] = useState<string>(() => {
+    if (initialSubject) return initialSubject;
+    return careerSubjects[0]?.name || 'Direito Tributário';
+  });
+
+  useEffect(() => {
+    if (initialSubject && initialSubject !== selectedSubject) {
+      setSelectedSubject(initialSubject);
+    }
+  }, [initialSubject]);
   const [userSelectedOption, setUserSelectedOption] = useState<string | null>(null);
   const [answered, setAnswered] = useState<boolean>(false);
 
