@@ -177,6 +177,25 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.strictEqual(dashPastData.success, true);
   console.log('  ✅ 8. Endpoint Espelhado da Dashboard (/api/dashboard/register-past-study): PASSOU');
 
+  // 8.5. Testar GET /api/dashboard com activeWeekDates e subjectBreakdown sincronizado
+  const dashStatsRes = await fetch(`${baseUrl}/api/dashboard?careerId=atrfb`, {
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id
+    }
+  });
+  const dashStats = await dashStatsRes.json();
+  assert.strictEqual(dashStatsRes.status, 200, 'Status deve ser 200 ao consultar dashboard');
+  assert.ok(Array.isArray(dashStats.activeWeekDates), 'activeWeekDates deve ser um array');
+  assert.ok(dashStats.activeWeekDates.includes('2026-08-20'), 'activeWeekDates deve incluir data estudada 2026-08-20');
+  
+  const legTrib = dashStats.subjectBreakdown.find(s => s.name === 'Legislação Tributária');
+  assert.ok(legTrib, 'Deve encontrar Legislação Tributária no subjectBreakdown');
+  assert.strictEqual(legTrib.totalQuestions, 10, 'Deve contabilizar 10 questões estudadas');
+  assert.strictEqual(legTrib.correctQuestions, 8, 'Deve contabilizar 8 questões certas');
+  assert.strictEqual(legTrib.correctPercentage, 80, 'Aproveitamento deve ser 80%');
+  console.log('  ✅ 8.5. Sincronização de Heatmap Semanal (activeWeekDates) & Radar de Matérias: PASSOU');
+
   // 9. Testar DELETE /api/study-room/past-study/:id (Exclusão e Recálculo)
   const delRes = await fetch(`${baseUrl}/api/study-room/past-study/${pastData.sessionId}`, {
     method: 'DELETE',

@@ -470,6 +470,7 @@ router.post('/register-past-study', (req, res) => {
 
     // 1. Grava a sessão em study_sessions com a data passada
     const scopeNote = [
+      `Disciplina: ${subject}`,
       topic ? `Assunto: ${topic}` : null,
       pRead > 0 ? `${pRead} páginas lidas` : null,
       qCount > 0 ? `${qCorrect}/${qCount} questões certas` : null,
@@ -579,9 +580,21 @@ router.get('/past-studies', (req, res) => {
       LIMIT 50
     `).all(userId, careerId, careerId);
 
+    const items = rows.map(r => {
+      let subj = r.subject;
+      if ((!subj || subj === 'Estudo Geral') && r.scope_note) {
+        const mSubj = r.scope_note.match(/Disciplina:\s*([^•]+)/i);
+        if (mSubj) subj = mSubj[1].trim();
+      }
+      return {
+        ...r,
+        subject: subj || 'Estudo Geral'
+      };
+    });
+
     res.json({
       success: true,
-      items: rows
+      items
     });
   } catch (err) {
     console.error('Erro ao buscar estudos passados:', err);

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { UserProfile, ActiveTab, DailyMission } from '../../types';
 import { getCareerById } from '../../utils/careers';
 import { getConcurseiroRank, getSubjectsForCareer, SubjectStats } from '../../utils/gamification';
@@ -39,35 +39,44 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
 
   const currentRank = getConcurseiroRank(userXp);
   const [subjectsList, setSubjectsList] = useState<SubjectStats[]>(() => getSubjectsForCareer(careerId));
+  const [activeWeekDates, setActiveWeekDates] = useState<string[]>([]);
 
-  useEffect(() => {
-    let isMounted = true;
+  const refreshDashboard = useCallback(() => {
     const baseList = getSubjectsForCareer(careerId);
-    setSubjectsList(baseList);
-
     api.getDashboardStats(user?.id, careerId)
       .then((data: any) => {
-        if (isMounted && data && Array.isArray(data.subjectBreakdown) && data.subjectBreakdown.length > 0) {
-          const merged = baseList.map(baseSubj => {
-            const found = data.subjectBreakdown.find((b: any) => b.name === baseSubj.name || b.name?.toLowerCase() === baseSubj.name?.toLowerCase());
-            if (found) {
-              return {
-                ...baseSubj,
-                totalQuestions: found.totalQuestions || 0,
-                correctPercentage: found.correctPercentage || 0,
-                status: found.status || (found.totalQuestions > 0 ? 'em_revisao' : 'pendente'),
-                statusLabel: found.statusLabel || (found.totalQuestions > 0 ? 'EM ESTUDO' : 'NÃO INICIADO')
-              };
-            }
-            return baseSubj;
-          });
-          setSubjectsList(merged);
+        if (data) {
+          if (Array.isArray(data.activeWeekDates)) {
+            setActiveWeekDates(data.activeWeekDates);
+          }
+          if (typeof data.streak === 'number') {
+            setLocalStreak(data.streak);
+          }
+          if (Array.isArray(data.subjectBreakdown) && data.subjectBreakdown.length > 0) {
+            const merged = baseList.map(baseSubj => {
+              const found = data.subjectBreakdown.find((b: any) => b.name === baseSubj.name || b.name?.toLowerCase() === baseSubj.name?.toLowerCase());
+              if (found) {
+                return {
+                  ...baseSubj,
+                  totalQuestions: found.totalQuestions || 0,
+                  correctPercentage: found.correctPercentage || 0,
+                  status: found.status || (found.totalQuestions > 0 ? 'em_revisao' : 'pendente'),
+                  statusLabel: found.statusLabel || (found.totalQuestions > 0 ? 'EM ESTUDO' : 'NÃO INICIADO')
+                };
+              }
+              return baseSubj;
+            });
+            setSubjectsList(merged);
+          }
         }
       })
       .catch(() => {});
-
-    return () => { isMounted = false; };
   }, [user?.id, careerId]);
+
+  useEffect(() => {
+    setSubjectsList(getSubjectsForCareer(careerId));
+    refreshDashboard();
+  }, [refreshDashboard]);
 
   const topSubject = subjectsList[0]?.name || 'Direito Tributário';
   const topLesson = getLessonContent(topSubject);
@@ -86,8 +95,28 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
     return Math.round(sum / subjectsList.length);
   }, [subjectsList]);
 
-  const weekDays = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
-  const activeDayIndex = new Date().getDay() === 0 ? 6 : new Date().getDay() - 1;
+  const weekDayNames = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
+
+  const currentWeekDays = useMemo(() => {
+    const now = new Date();
+    const currentDay = now.getDay();
+    const distToMonday = currentDay === 0 ? -6 : 1 - currentDay;
+    const monday = new Date(now);
+    monday.setDate(now.getDate() + distToMonday);
+
+    return weekDayNames.map((name, idx) => {
+      const d = new Date(monday);
+      d.setDate(monday.getDate() + idx);
+      const dateStr = d.toISOString().split('T')[0];
+      const isToday = dateStr === now.toISOString().split('T')[0];
+      return {
+        name,
+        dateStr,
+        isToday,
+        idx
+      };
+    });
+  }, []);
 
   return (
     <div className="space-y-6 max-w-6xl mx-auto font-sans animate-fade-in pb-12">
@@ -183,15 +212,15 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
               </p>
             </div>
 
-            {/* Heatmap 7 Dias */}
+            {/* Heatmap 7 Dias Real */}
             <div className="pt-1">
               <div className="grid grid-cols-7 gap-1 text-center font-mono">
-                {weekDays.map((day, idx) => {
-                  const isCurrent = idx === activeDayIndex;
-                  const isCompleted = idx <= activeDayIndex && userStreak > 0;
+                {currentWeekDays.map((day) => {
+                  const isCompleted = activeWeekDates.includes(day.dateStr);
+                  const isCurrent = day.isToday;
                   return (
                     <div 
-                      key={day}
+                      key={day.dateStr}
                       className={`p-1.5 rounded-lg border text-xs flex flex-col items-center gap-1 transition-all ${
                         isCompleted
                           ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)]/40 text-[var(--accent-primary)] font-bold'
@@ -199,9 +228,10 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
                           ? 'bg-[var(--bg-elevated)] border-[var(--border-strong)] text-[var(--text-primary)] font-bold'
                           : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-muted)]'
                       }`}
+                      title={isCompleted ? `${day.name} (${day.dateStr}): Estudo Registrado` : `${day.name} (${day.dateStr})`}
                     >
-                      <span className="text-[9px] uppercase">{day}</span>
-                      <div className={`w-1.5 h-1.5 rounded-full ${isCompleted ? 'bg-[var(--accent-primary)]' : 'bg-[var(--border-subtle)]'}`} />
+                      <span className="text-[9px] uppercase">{day.name}</span>
+                      <div className={`w-1.5 h-1.5 rounded-full ${isCompleted ? 'bg-[var(--accent-primary)] shadow-xs' : 'bg-[var(--border-subtle)]'}`} />
                     </div>
                   );
                 })}
@@ -285,6 +315,7 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
             user.xp += xpGained;
           }
           setLocalStreak(newStreak);
+          refreshDashboard();
         }}
       />
 

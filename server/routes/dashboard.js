@@ -16,11 +16,47 @@ function getDashboardData(req, res) {
         let sStats = { total: 0, avg_score: 0 };
         let subStats = [];
         let recentActivity = [];
+        let subjectBreakdown = [];
+
+        // Calcular semana corrente de Segunda a Domingo
+        const now = new Date();
+        const currentDay = now.getDay(); // 0 = Dom, 1 = Seg, ..., 6 = Sab
+        const distToMonday = currentDay === 0 ? -6 : 1 - currentDay;
+        const monday = new Date(now);
+        monday.setDate(now.getDate() + distToMonday);
+        monday.setHours(0, 0, 0, 0);
+
+        const sunday = new Date(monday);
+        sunday.setDate(monday.getDate() + 6);
+        sunday.setHours(23, 59, 59, 999);
+
+        const mondayStr = monday.toISOString().split('T')[0];
+        const sundayStr = sunday.toISOString().split('T')[0];
+
+        // Datas ativas da semana corrente (Segunda a Domingo)
+        const weekDatesRows = db.prepare(`
+          SELECT DISTINCT substr(study_time, 1, 10) as study_date
+          FROM (
+            SELECT started_at as study_time FROM study_sessions WHERE user_id = ?
+            UNION
+            SELECT completed_at as study_time FROM study_sessions WHERE user_id = ?
+            UNION
+            SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
+            UNION
+            SELECT created_at as study_time FROM simulados WHERE user_id = ?
+            UNION
+            SELECT created_at as study_time FROM activity_log WHERE user_id = ?
+          )
+          WHERE study_date >= ? AND study_date <= ?
+        `).all(userId, userId, userId, userId, userId, mondayStr, sundayStr);
+
+        const activeWeekDates = weekDatesRows.map(r => r.study_date);
+        const streak = calculateUserStreak(userId, careerId);
 
         if (careerId && subjects) {
             const placeholders = subjects.map(() => '?').join(',');
 
-            // Questões respondidas nesta carreira
+            // Questões respondidas nesta carreira (simulados/quizzes)
             qStats = db.prepare(`
                 SELECT 
                     COUNT(*) as total,
@@ -51,23 +87,8 @@ function getDashboardData(req, res) {
                   AND career_id = ?
             `).get(userId, careerId);
 
-            // Subject stats (weakest/strongest)
-            subStats = db.prepare(`
-                SELECT 
-                    q.subject,
-                    COUNT(qa.id) as total,
-                    SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) * 100.0 / COUNT(qa.id) as correct_pct
-                FROM question_answers qa
-                JOIN questions q ON qa.question_id = q.id
-                WHERE qa.user_id = ?
-                  AND (qa.career_id = ? OR q.subject IN (${placeholders}))
-                GROUP BY q.subject
-                HAVING total >= 3
-                ORDER BY correct_pct ASC
-            `).all(userId, careerId, ...subjects);
-
-            // Per-subject breakdown for the career edital radar (O(1) in-memory lookup from single aggregated query)
-            const breakdownRows = db.prepare(`
+            // 1. Agregação de question_answers por matéria
+            const qaRows = db.prepare(`
                 SELECT 
                     q.subject as name,
                     COUNT(qa.id) as total,
@@ -78,17 +99,76 @@ function getDashboardData(req, res) {
                 GROUP BY q.subject
             `).all(userId, careerId);
 
-            const statsBySubject = new Map(breakdownRows.map(r => [r.name, r]));
+            // 2. Agregação de study_sessions (estudos nativos e retroativos)
+            const sessionRows = db.prepare(`
+                SELECT 
+                    ss.id,
+                    ss.duration_minutes,
+                    ss.scope_note,
+                    sm.subject as material_subject
+                FROM study_sessions ss
+                LEFT JOIN study_materials sm ON ss.material_id = sm.id
+                WHERE ss.user_id = ? AND (ss.career_id = ? OR ss.career_id IS NULL) AND ss.status = 'completed'
+            `).all(userId, careerId);
 
-            const subjectBreakdown = subjects.map(subj => {
-                const row = statsBySubject.get(subj);
-                const total = row?.total || 0;
-                const correct = row?.correct || 0;
-                const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
-                let status = 'em_revisao';
+            // Mapeamento por disciplina
+            const statsMap = new Map();
+            for (const subj of subjects) {
+                statsMap.set(subj, { totalQuestions: 0, correctQuestions: 0, totalMinutes: 0, sessionsCount: 0 });
+            }
+
+            for (const r of qaRows) {
+                if (r.name && statsMap.has(r.name)) {
+                    const st = statsMap.get(r.name);
+                    st.totalQuestions += r.total || 0;
+                    st.correctQuestions += r.correct || 0;
+                }
+            }
+
+            for (const s of sessionRows) {
+                let subj = s.material_subject;
+                if (!subj && s.scope_note) {
+                    const mSubj = s.scope_note.match(/Disciplina:\s*([^•]+)/i);
+                    if (mSubj) {
+                        subj = mSubj[1].trim();
+                    } else {
+                        for (const cand of subjects) {
+                            if (s.scope_note.includes(cand)) {
+                                subj = cand;
+                                break;
+                            }
+                        }
+                    }
+                }
+
+                if (subj && statsMap.has(subj)) {
+                    const st = statsMap.get(subj);
+                    st.totalMinutes += s.duration_minutes || 0;
+                    st.sessionsCount += 1;
+
+                    if (s.scope_note) {
+                        const mQ = s.scope_note.match(/(\d+)\/(\d+)\s+questões certas/i);
+                        if (mQ) {
+                            const correctQ = parseInt(mQ[1], 10) || 0;
+                            const totalQ = parseInt(mQ[2], 10) || 0;
+                            st.correctQuestions += correctQ;
+                            st.totalQuestions += totalQ;
+                        }
+                    }
+                }
+            }
+
+            // Monta o radar de disciplinas completo e sincronizado
+            subjectBreakdown = subjects.map(subj => {
+                const st = statsMap.get(subj) || { totalQuestions: 0, correctQuestions: 0, totalMinutes: 0, sessionsCount: 0 };
+                const totalQ = st.totalQuestions;
+                const correctQ = st.correctQuestions;
+                const pct = totalQ > 0 ? Math.round((correctQ / totalQ) * 100) : (st.totalMinutes > 0 ? 100 : 0);
+
+                let status = 'pendente';
                 let statusLabel = 'NÃO INICIADO';
 
-                if (total > 0) {
+                if (totalQ > 0) {
                     if (pct >= 75) {
                         status = 'homologado';
                         statusLabel = 'DOMINADO';
@@ -99,16 +179,32 @@ function getDashboardData(req, res) {
                         status = 'vulneravel';
                         statusLabel = 'VULNERÁVEL';
                     }
+                } else if (st.totalMinutes > 0 || st.sessionsCount > 0) {
+                    status = 'em_revisao';
+                    statusLabel = 'EM ESTUDO';
                 }
 
                 return {
                     name: subj,
-                    totalQuestions: total,
+                    totalQuestions: totalQ,
+                    correctQuestions: correctQ,
+                    totalMinutes: st.totalMinutes,
+                    sessionsCount: st.sessionsCount,
                     correctPercentage: pct,
                     status,
                     statusLabel
                 };
             });
+
+            // Weakest / Strongest
+            subStats = subjectBreakdown
+                .filter(s => s.totalQuestions > 0 || s.totalMinutes > 0)
+                .map(s => ({
+                    subject: s.name,
+                    total: s.totalQuestions,
+                    correct_pct: s.correctPercentage
+                }))
+                .sort((a, b) => a.correct_pct - b.correct_pct);
 
             // Recent Activity
             recentActivity = db.prepare(`
@@ -171,19 +267,30 @@ function getDashboardData(req, res) {
         const weakest = (subStats || []).slice(0, 3);
         const strongest = (subStats || []).slice(-3).reverse();
 
-        const totalAnswered = qStats?.total || 0;
-        const correctCount = qStats?.correct || 0;
-        const accuracyPct = totalAnswered > 0 ? Math.round((correctCount / totalAnswered) * 100) : 0;
+        // Somar questões totais (QA + estudos retroativos/sessões)
+        let aggregateTotalQuestions = qStats?.total || 0;
+        let aggregateCorrectCount = qStats?.correct || 0;
+
+        if (subjectBreakdown && subjectBreakdown.length > 0) {
+            const sumQ = subjectBreakdown.reduce((acc, curr) => acc + (curr.totalQuestions || 0), 0);
+            const sumC = subjectBreakdown.reduce((acc, curr) => acc + (curr.correctQuestions || 0), 0);
+            if (sumQ > aggregateTotalQuestions) {
+                aggregateTotalQuestions = sumQ;
+                aggregateCorrectCount = sumC;
+            }
+        }
+
+        const accuracyPct = aggregateTotalQuestions > 0 ? Math.round((aggregateCorrectCount / aggregateTotalQuestions) * 100) : 0;
 
         res.json({
-            // Legacy / direct keys
-            answered: totalAnswered,
+            answered: aggregateTotalQuestions,
             accuracy: accuracyPct,
             pendingCards: fStats?.due || 0,
             simulados: sStats?.total || 0,
-            // Nested object keys
+            streak,
+            activeWeekDates,
             questions: {
-                totalAnswered,
+                totalAnswered: aggregateTotalQuestions,
                 correctPct: accuracyPct
             },
             flashcards: {
@@ -195,7 +302,7 @@ function getDashboardData(req, res) {
             },
             weakSubjects: weakest,
             strongSubjects: strongest,
-            subjectBreakdown: typeof subjectBreakdown !== 'undefined' ? subjectBreakdown : [],
+            subjectBreakdown,
             recentActivity
         });
 
@@ -245,6 +352,7 @@ router.post('/register-past-study', (req, res) => {
     const completedAt = `${dateOnly} ${endHours}:${endMinutes}:00`;
 
     const scopeNote = [
+      `Disciplina: ${subject}`,
       topic ? `Assunto: ${topic}` : null,
       pRead > 0 ? `${pRead} páginas lidas` : null,
       qCount > 0 ? `${qCorrect}/${qCount} questões certas` : null,

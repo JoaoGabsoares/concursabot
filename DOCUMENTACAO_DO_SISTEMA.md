@@ -495,6 +495,22 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 26. Sincronização Real do Heatmap Semanal (7 Dias) e Unificação do Radar de Matérias (v6.6.0)
+
+1. **📅 Heatmap de 7 Dias por Datas Reais (`activeWeekDates`)**:
+   - Substituição definitiva da fórmula estática de mockup (`idx <= activeDayIndex`) pela verificação das datas reais (`YYYY-MM-DD`) de estudo da semana corrente (Segunda a Domingo).
+   - O calendário tático ilumina com badge verde **estritamente os dias em que houve sessão ou questão registrada**, mantendo os demais dias vazios e destacando o dia atual (`isToday`).
+   - Exclusão ou adição de estudos retroativos atualiza o calendário e o status visual instantaneamente.
+
+2. **📊 Unificação das Estatísticas no Radar de Matérias (`server/routes/dashboard.js`)**:
+   - `getDashboardData` agora agrega conjuntamente os dados de `question_answers` (simulados/quizzes em tempo real) e `study_sessions` (estudos teóricos, leituras de PDF e estudos retroativos gravados com `Disciplina: <Matéria>`).
+   - O total de questões, questões corretas, minutos estudados e porcentagem de aproveitamento de cada matéria saem imediatamente de `NÃO INICIADO` e passam para `EM ESTUDO` ou `DOMINADO`.
+
+3. **⚡ Atualização Reativa Imediata na Dashboard (`DashboardPage.tsx`)**:
+   - Conexão do callback `onStudySaved` do `PastStudyModal` à função `refreshDashboard()`, recarregando todos os dados da Dashboard sem necessidade de refresh manual da página.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
 
 
