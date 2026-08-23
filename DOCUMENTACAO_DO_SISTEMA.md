@@ -585,7 +585,30 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 31. Planejamento Estratégico Master Março/2027 & Simulação Temporal de Voltas (v7.1.0)
+
+1. **⚔️ Ativação do Ciclo de Guerra Março/2027**:
+   - Criado e persistido no SQLite o ciclo `⚔️ Ciclo de Guerra Março/2027 — Receita Federal (FGV)` com `exam_date = '2027-03-15'` e carga de `24h semanais` em blocos de `60 min`.
+   - **Composição da Esteira**: 24 blocos por volta com interleaving anti-fadiga:
+     - ⚖️ **Eixo Jurídico (62.5% - 15 blocos)**: *Direito Tributário (3x), Legislação Tributária (3x), Legislação Aduaneira (3x), Direito Constitucional (2x), Direito Administrativo (2x), Direito Previdenciário (2x)*.
+     - 📊 **Eixo Exatas & Dados (20.8% - 5 blocos)**: *Fluência em Dados (2x), Contabilidade Geral (1x), RLM (1x), Estatística (1x)*.
+     - 📖 **Eixo Humanas & Linguagens (16.7% - 4 blocos)**: *Língua Portuguesa (2x), Língua Inglesa (1x), Administração Pública (1x)*.
+
+2. **⏱️ Métricas de Projeção Temporal até a Prova**:
+   - **Dias até a Prova**: 204 dias (~29.1 semanas).
+   - **Voltas Completas no Edital**: ~29.1 voltas completas na esteira de estudos.
+   - **Horas Líquidas de Estudo**: ~699 horas acumuladas.
+   - **Questões Comentadas Resolvidas**: ~11.184 questões projetadas.
+
+3. **🗺️ Roadmap das 3 Ondas Estratégicas (Waves)**:
+   - **Onda 1 (Ago a Out/26)**: Domínio do Núcleo Duro de Direito + TI + Português FGV.
+   - **Onda 2 (Nov/26 a Jan/27)**: Expansão com Contabilidade Geral, RLM/Estatística e Redações Discursivas semanais.
+   - **Onda 3 (Fev a Mar/27)**: Reta Final Pareto 80/20, simulados cronometrados, Lei Seca e esgotamento do Caderno de Erros.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
+
 
 
 
