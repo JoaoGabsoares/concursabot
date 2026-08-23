@@ -260,9 +260,9 @@ export async function runGamificationAndCyclesSimulation() {
   for (let i = 6; i >= 0; i--) {
     const dStr = getPastDateStr(i);
     db.prepare(`
-      INSERT INTO activity_log (user_id, type, detail, created_at, career_id)
-      VALUES (?, 'study_session', 'Estudo dia contínuo', ?, 'atrfb')
-    `).run(testUserId, `${dStr} 10:00:00`);
+      INSERT INTO study_sessions (user_id, career_id, duration_minutes, scope_note, status, started_at, completed_at)
+      VALUES (?, 'atrfb', 60, 'Disciplina: Direito Tributário', 'completed', ?, ?)
+    `).run(testUserId, `${dStr} 10:00:00`, `${dStr} 11:00:00`);
   }
 
   let streakContinuous = calculateUserStreak(testUserId, 'atrfb');
@@ -271,15 +271,15 @@ export async function runGamificationAndCyclesSimulation() {
   console.log(`  ✅ 3.2.1. Streak Contínuo (7 dias consecutivos): ${streakContinuous} dias 🔥`);
 
   // Cenário B: Streak Quebrado (Estudo 5 dias atrás, 4 dias atrás, 3 dias atrás; GAP 2 e 1 dia atrás; Hoje NÃO estudou)
-  db.prepare('DELETE FROM activity_log WHERE user_id = ?').run(testUserId);
+  db.prepare('DELETE FROM study_sessions WHERE user_id = ?').run(testUserId);
   db.prepare(`
-    INSERT INTO activity_log (user_id, type, detail, created_at, career_id)
-    VALUES (?, 'study_session', 'Estudo D-3', ?, 'atrfb')
-  `).run(testUserId, `${getPastDateStr(3)} 14:00:00`);
+    INSERT INTO study_sessions (user_id, career_id, duration_minutes, scope_note, status, started_at, completed_at)
+    VALUES (?, 'atrfb', 60, 'Disciplina: Direito Tributário', 'completed', ?, ?)
+  `).run(testUserId, `${getPastDateStr(3)} 14:00:00`, `${getPastDateStr(3)} 15:00:00`);
   db.prepare(`
-    INSERT INTO activity_log (user_id, type, detail, created_at, career_id)
-    VALUES (?, 'study_session', 'Estudo D-4', ?, 'atrfb')
-  `).run(testUserId, `${getPastDateStr(4)} 14:00:00`);
+    INSERT INTO study_sessions (user_id, career_id, duration_minutes, scope_note, status, started_at, completed_at)
+    VALUES (?, 'atrfb', 60, 'Disciplina: Direito Tributário', 'completed', ?, ?)
+  `).run(testUserId, `${getPastDateStr(4)} 14:00:00`, `${getPastDateStr(4)} 15:00:00`);
 
   let streakBroken = calculateUserStreak(testUserId, 'atrfb');
   assert.strictEqual(streakBroken, 0, `Streak quebrado sem estudo hoje nem ontem deve ser 0, obteve ${streakBroken}`);
@@ -289,17 +289,17 @@ export async function runGamificationAndCyclesSimulation() {
   // Cenário C: Recuperação de Gap via Estudo Retroativo
   // Adiciona estudo de ontem (D-1) e estudo de hoje (D-0), preenchendo o gap para D-2
   db.prepare(`
-    INSERT INTO activity_log (user_id, type, detail, created_at, career_id)
-    VALUES (?, 'study_session', 'Estudo D-2 retroativo', ?, 'atrfb')
-  `).run(testUserId, `${getPastDateStr(2)} 20:00:00`);
+    INSERT INTO study_sessions (user_id, career_id, duration_minutes, scope_note, status, started_at, completed_at)
+    VALUES (?, 'atrfb', 60, 'Disciplina: Direito Tributário', 'completed', ?, ?)
+  `).run(testUserId, `${getPastDateStr(2)} 20:00:00`, `${getPastDateStr(2)} 21:00:00`);
   db.prepare(`
-    INSERT INTO activity_log (user_id, type, detail, created_at, career_id)
-    VALUES (?, 'study_session', 'Estudo D-1 retroativo', ?, 'atrfb')
-  `).run(testUserId, `${getPastDateStr(1)} 20:00:00`);
+    INSERT INTO study_sessions (user_id, career_id, duration_minutes, scope_note, status, started_at, completed_at)
+    VALUES (?, 'atrfb', 60, 'Disciplina: Direito Tributário', 'completed', ?, ?)
+  `).run(testUserId, `${getPastDateStr(1)} 20:00:00`, `${getPastDateStr(1)} 21:00:00`);
   db.prepare(`
-    INSERT INTO activity_log (user_id, type, detail, created_at, career_id)
-    VALUES (?, 'study_session', 'Estudo D-0 hoje', ?, 'atrfb')
-  `).run(testUserId, `${getPastDateStr(0)} 20:00:00`);
+    INSERT INTO study_sessions (user_id, career_id, duration_minutes, scope_note, status, started_at, completed_at)
+    VALUES (?, 'atrfb', 60, 'Disciplina: Direito Tributário', 'completed', ?, ?)
+  `).run(testUserId, `${getPastDateStr(0)} 20:00:00`, `${getPastDateStr(0)} 21:00:00`);
 
   let streakRestored = calculateUserStreak(testUserId, 'atrfb');
   assert.strictEqual(streakRestored, 5, `Streak preenchido retroativamente de D-4 a D-0 deve ser 5, obteve ${streakRestored}`);

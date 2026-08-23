@@ -99,16 +99,18 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
 
   const currentWeekDays = useMemo(() => {
     const now = new Date();
-    const currentDay = now.getDay();
+    const currentDay = now.getDay(); // 0 = Dom, 1 = Seg, ..., 6 = Sab
     const distToMonday = currentDay === 0 ? -6 : 1 - currentDay;
-    const monday = new Date(now);
-    monday.setDate(now.getDate() + distToMonday);
+    const monday = new Date(now.getFullYear(), now.getMonth(), now.getDate() + distToMonday);
+
+    const pad = (n: number) => String(n).padStart(2, '0');
+    const getLocalDateStr = (d: Date) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+    const todayStr = getLocalDateStr(now);
 
     return weekDayNames.map((name, idx) => {
-      const d = new Date(monday);
-      d.setDate(monday.getDate() + idx);
-      const dateStr = d.toISOString().split('T')[0];
-      const isToday = dateStr === now.toISOString().split('T')[0];
+      const d = new Date(monday.getFullYear(), monday.getMonth(), monday.getDate() + idx);
+      const dateStr = getLocalDateStr(d);
+      const isToday = dateStr === todayStr;
       return {
         name,
         dateStr,

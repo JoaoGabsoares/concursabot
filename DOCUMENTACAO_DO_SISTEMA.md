@@ -528,4 +528,21 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 28. Correção da Sequência de Ofensiva & Isolamento de Falsos Positivos no Calendário (v6.8.0)
+
+1. **🛡️ Exclusão de `activity_log` no Cálculo de Estudos e Ofensiva**:
+   - `calculateUserStreak` (`server/gamification.js`) e `activeWeekDates` (`server/routes/dashboard.js`) agora consultam **exclusivamente tabelas de estudo real** (`study_sessions` com `status = 'completed'`, `question_answers` e `simulados` com `status = 'completed'`).
+   - Removida a dependência da tabela `activity_log`, eliminando a marcação indevida de dias (segunda, terça, quinta) decorrente de logs operacionais de sistema (sincronização de edital, indexação RAG, etc.).
+
+2. **🕒 Alinhamento Estrito de Fuso Horário Local (UTC-3)**:
+   - Em `DashboardPage.tsx`, o cálculo de `currentWeekDays` e a verificação `isToday` foram migrados de `d.toISOString()` para formatação local direta (`getFullYear()`, `getMonth() + 1`, `getDate()`).
+   - Elimina o descasamento de 1 dia gerado pelo UTC em horários noturnos no Brasil.
+
+3. **🔄 Sincronização e Estado Zero Perfeito**:
+   - Quando o estudante não possui estudos cadastrados ou remove todas as sessões no modal retroativo, o contador de ofensiva é resetado com precisão para `0 dias` e todos os 7 dias da semana permanecem neutros.
+   - Cada estudo lançado (ou removido) atualiza a ofensiva e ilumina estritamente o dia correspondente em tempo real.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
+

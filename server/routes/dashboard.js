@@ -18,37 +18,35 @@ function getDashboardData(req, res) {
         let recentActivity = [];
         let subjectBreakdown = [];
 
-        // Calcular semana corrente de Segunda a Domingo
+        // Calcular semana corrente de Segunda a Domingo no fuso local seguro
         const now = new Date();
         const currentDay = now.getDay(); // 0 = Dom, 1 = Seg, ..., 6 = Sab
         const distToMonday = currentDay === 0 ? -6 : 1 - currentDay;
-        const monday = new Date(now);
-        monday.setDate(now.getDate() + distToMonday);
-        monday.setHours(0, 0, 0, 0);
+        
+        const monday = new Date(now.getFullYear(), now.getMonth(), now.getDate() + distToMonday);
+        const sunday = new Date(monday.getFullYear(), monday.getMonth(), monday.getDate() + 6);
 
-        const sunday = new Date(monday);
-        sunday.setDate(monday.getDate() + 6);
-        sunday.setHours(23, 59, 59, 999);
+        const pad = (n) => String(n).padStart(2, '0');
+        const getLocalDateStr = (d) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
 
-        const mondayStr = monday.toISOString().split('T')[0];
-        const sundayStr = sunday.toISOString().split('T')[0];
+        const mondayStr = getLocalDateStr(monday);
+        const sundayStr = getLocalDateStr(sunday);
 
         // Datas ativas da semana corrente (Segunda a Domingo)
+        // Consultar estritamente sessões de estudo concluídas, questões respondidas e simulados concluídos
         const weekDatesRows = db.prepare(`
           SELECT DISTINCT substr(study_time, 1, 10) as study_date
           FROM (
-            SELECT started_at as study_time FROM study_sessions WHERE user_id = ?
+            SELECT started_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
             UNION
-            SELECT completed_at as study_time FROM study_sessions WHERE user_id = ?
+            SELECT completed_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
             UNION
             SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
             UNION
-            SELECT created_at as study_time FROM simulados WHERE user_id = ?
-            UNION
-            SELECT created_at as study_time FROM activity_log WHERE user_id = ?
+            SELECT completed_at as study_time FROM simulados WHERE user_id = ? AND status = 'completed'
           )
           WHERE study_date >= ? AND study_date <= ?
-        `).all(userId, userId, userId, userId, userId, mondayStr, sundayStr);
+        `).all(userId, userId, userId, userId, mondayStr, sundayStr);
 
         const activeWeekDates = weekDatesRows.map(r => r.study_date);
         const streak = calculateUserStreak(userId, careerId);

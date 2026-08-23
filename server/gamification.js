@@ -146,39 +146,33 @@ export function calculateUserStreak(userId, careerId = null) {
           SELECT ss.started_at as study_time 
           FROM study_sessions ss
           LEFT JOIN study_materials sm ON ss.material_id = sm.id
-          WHERE ss.user_id = ? AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
+          WHERE ss.user_id = ? AND ss.status = 'completed' AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
           UNION
           SELECT qa.answered_at as study_time 
           FROM question_answers qa
           JOIN questions q ON qa.question_id = q.id
           WHERE qa.user_id = ? AND (qa.career_id = ? OR q.subject IN (${placeholders}))
           UNION
-          SELECT s.created_at as study_time 
+          SELECT s.completed_at as study_time 
           FROM simulados s
-          WHERE s.user_id = ? AND s.career_id = ?
-          UNION
-          SELECT al.created_at as study_time
-          FROM activity_log al
-          WHERE al.user_id = ? AND (al.career_id = ? OR al.career_id IS NULL)
+          WHERE s.user_id = ? AND s.career_id = ? AND s.status = 'completed'
         )
         WHERE study_date IS NOT NULL
         ORDER BY study_date DESC
-      `).all(userId, careerId, careerId, ...subjects, userId, careerId, ...subjects, userId, careerId, userId, careerId);
+      `).all(userId, careerId, careerId, ...subjects, userId, careerId, ...subjects, userId, careerId);
     } else {
       dates = db.prepare(`
         SELECT DISTINCT substr(study_time, 1, 10) as study_date
         FROM (
-          SELECT started_at as study_time FROM study_sessions WHERE user_id = ?
+          SELECT started_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
           UNION
           SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
           UNION
-          SELECT created_at as study_time FROM simulados WHERE user_id = ?
-          UNION
-          SELECT created_at as study_time FROM activity_log WHERE user_id = ?
+          SELECT completed_at as study_time FROM simulados WHERE user_id = ? AND status = 'completed'
         )
         WHERE study_date IS NOT NULL
         ORDER BY study_date DESC
-      `).all(userId, userId, userId, userId);
+      `).all(userId, userId, userId);
     }
 
     if (dates.length === 0) return 0;
