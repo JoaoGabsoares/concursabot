@@ -161,9 +161,18 @@ router.post('/upload', async (req, res) => {
       };
     }
 
-    const finalLessonNumber = detectedLessonNumber !== null 
-      ? detectedLessonNumber 
-      : (analysisResponse.numeroAula !== undefined && analysisResponse.numeroAula !== null ? analysisResponse.numeroAula : null);
+    const cleanTitle = originalname.replace(/\.[^/.]+$/, '').replace(/[_-]/g, ' ');
+    const requestedTitle = (req.body.customTitle || req.body.title || '').trim();
+    const requestedLessonNumber = req.body.lessonNumber || req.body.lesson_number;
+
+    const parsedLessonNum = requestedLessonNumber ? parseInt(requestedLessonNumber, 10) : null;
+    const finalLessonNumber = (!isNaN(parsedLessonNum) && parsedLessonNum !== null)
+      ? parsedLessonNum
+      : (detectedLessonNumber !== null 
+          ? detectedLessonNumber 
+          : (analysisResponse.numeroAula !== undefined && analysisResponse.numeroAula !== null ? analysisResponse.numeroAula : null));
+
+    const finalTitle = requestedTitle || analysisResponse.titulo || cleanTitle;
 
     const finalSubject = (requestedSubject && requestedSubject !== 'Geral' && requestedSubject !== 'Outra')
       ? requestedSubject
@@ -189,10 +198,10 @@ router.post('/upload', async (req, res) => {
       filepath,
       finalSubject,
       finalLessonNumber,
-      analysisResponse.titulo,
+      finalTitle,
       analysisResponse.resumoEstrategico,
       textContent,
-      JSON.stringify(analysisResponse),
+      JSON.stringify({ ...analysisResponse, titulo: finalTitle }),
       finalStudiedDate,
       theoryCompleted,
       questionsCompleted,

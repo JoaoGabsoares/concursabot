@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { createPortal } from 'react-dom';
 import { Card, Button, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
 import { PastStudyModal } from '../../components/PastStudyModal';
@@ -31,7 +31,8 @@ import {
   Layers,
   Trash2,
   Settings,
-  Calendar
+  Calendar,
+  Plus
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -447,6 +448,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
   const [isPastStudyModalOpen, setIsPastStudyModalOpen] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
+  const [customTitle, setCustomTitle] = useState<string>('');
+  const [customLessonNumber, setCustomLessonNumber] = useState<string>('');
   const [uploadSubject, setUploadSubject] = useState<string>(careerSubjects[0]?.name || 'Geral');
   const [isUploading, setIsUploading] = useState(false);
   const [uploadError, setUploadError] = useState<string | null>(null);
@@ -455,6 +458,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   // Custom Uploaded Materials
   const [uploadedMaterials, setUploadedMaterials] = useState<CustomMaterial[]>([]);
   const [selectedCustomMaterial, setSelectedCustomMaterial] = useState<CustomMaterial | null>(null);
+  const [filterBySelectedSubject, setFilterBySelectedSubject] = useState<boolean>(true);
 
   // Helpers to get minutes based on cadence preset
   const getReadingMinutes = () => {
@@ -521,6 +525,15 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
       console.warn('Erro ao buscar materiais:', e);
     }
   };
+
+  const displayedMaterials = useMemo<CustomMaterial[]>(() => {
+    if (!filterBySelectedSubject) return uploadedMaterials;
+    const sNorm = selectedSubject?.trim().toLowerCase() || '';
+    return uploadedMaterials.filter((m: CustomMaterial) => {
+      const mNorm = m.subject?.trim().toLowerCase() || '';
+      return mNorm === sNorm || mNorm.includes(sNorm) || sNorm.includes(mNorm);
+    });
+  }, [uploadedMaterials, selectedSubject, filterBySelectedSubject]);
 
   useEffect(() => {
     loadMaterials();
@@ -674,6 +687,25 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
       }
       setSelectedFile(file);
       setUploadError(null);
+
+      // Limpa e sugere título amigável e legível
+      const cleanName = file.name
+        .replace(/\.[^/.]+$/, '')
+        .replace(/^\d{10,15}[-_]/, '') // remove prefixos numéricos/timestamp
+        .replace(/[_-]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      setCustomTitle(cleanName);
+      setUploadSubject(selectedSubject);
+
+      // Tenta extrair número da aula a partir do nome
+      const lessonMatch = file.name.match(/(?:aula|lesson|m[oó]dulo)[_\s-]*0*(\d+)/i);
+      if (lessonMatch) {
+        setCustomLessonNumber(lessonMatch[1]);
+      } else {
+        setCustomLessonNumber('');
+      }
     }
   };
 
@@ -690,14 +722,22 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
     const formData = new FormData();
     formData.append('pdf', selectedFile);
     formData.append('subject', uploadSubject);
+    if (customTitle.trim()) {
+      formData.append('customTitle', customTitle.trim());
+    }
+    if (customLessonNumber.trim()) {
+      formData.append('lessonNumber', customLessonNumber.trim());
+    }
     formData.append('careerId', careerId);
     formData.append('studyStatus', 'unread');
 
     try {
       const currentUserId = localStorage.getItem('CURRENT_USER_ID') || '';
       const result = await api.uploadStudyMaterial(formData, currentUserId, careerId);
-      success('PDF Indexado com Heurísticas Universais!', `Detectadas ${result.theoryPages || 45} páginas de teoria e ${result.exercisePages || 0} páginas de exercícios.`);
+      success('PDF Indexado com Sucesso!', `Apostila "${customTitle || result.title}" vinculada a ${uploadSubject} (${result.theoryPages || 45} págs).`);
       setSelectedFile(null);
+      setCustomTitle('');
+      setCustomLessonNumber('');
       setIsUploadModalOpen(false);
       await loadMaterials();
     } catch (err: any) {
@@ -841,42 +881,124 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
         })}
       </div>
 
-      {/* Uploaded PDF Shelf with Smart Indicators */}
+      {/* Uploaded PDF Shelf with Clear Identification & Subject Filter */}
       {uploadedMaterials.length > 0 && (
-        <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto custom-scrollbar-horizontal scroll-smooth">
-          <span className="text-xs font-sans font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0">
-            📁 PDFs Carregados:
-          </span>
-          {uploadedMaterials.map((mat) => {
-            const isSelected = selectedCustomMaterial?.id === mat.id;
-            return (
-              <div
-                key={mat.id}
-                onClick={() => handleSelectMaterial(mat)}
-                className={`group px-3 py-1.5 rounded-lg text-xs font-mono transition-all flex items-center gap-2 shrink-0 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
-                  isSelected
-                    ? 'bg-[var(--accent-primary)] text-white font-bold shadow-sm'
-                    : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:text-[var(--text-primary)]'
-                }`}
+        <div className="p-4 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-3 shadow-sm">
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <div className="flex items-center gap-2">
+              <span className="font-mono text-xs font-bold text-[var(--accent-primary)] tracking-wider">
+                [ 📁 MINHAS APOSTILAS & RESUMOS ]
+              </span>
+              <span className="text-xs font-mono text-[var(--text-muted)]">
+                ({displayedMaterials.length} {filterBySelectedSubject ? `em ${selectedSubject}` : 'cadastrados'})
+              </span>
+            </div>
+
+            <div className="flex items-center gap-2">
+              <button
+                type="button"
+                onClick={() => setFilterBySelectedSubject(!filterBySelectedSubject)}
+                className="px-2.5 py-1 rounded-lg text-xs font-mono font-medium border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
               >
-                <FileText className="w-3.5 h-3.5" />
-                <span className="max-w-[160px] truncate">{mat.title || mat.filename}</span>
-                {mat.theory_pages && (
-                  <span className="text-xs opacity-80 bg-black/20 px-1.5 py-0.5 rounded">
-                    {mat.current_page || 1}/{mat.theory_pages}p teoria
-                  </span>
-                )}
+                {filterBySelectedSubject ? `Filtrando: ${selectedSubject} (Ver Todos)` : 'Mostrando Todos (Filtrar por Matéria)'}
+              </button>
+
+              <button
+                type="button"
+                onClick={() => {
+                  setUploadSubject(selectedSubject);
+                  setIsUploadModalOpen(true);
+                }}
+                className="px-2.5 py-1 rounded-lg text-xs font-sans font-bold bg-[var(--accent-primary)] text-white hover:opacity-90 transition-all flex items-center gap-1 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+              >
+                <Plus className="w-3.5 h-3.5" />
+                <span>+ Adicionar PDF</span>
+              </button>
+            </div>
+          </div>
+
+          {displayedMaterials.length === 0 ? (
+            <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-dashed border-[var(--border-subtle)] flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-[var(--text-secondary)]">
+              <div className="flex items-center gap-2.5">
+                <FileText className="w-4 h-4 text-[var(--accent-primary)] shrink-0" />
+                <span>Nenhuma apostila personalizada vinculada a <strong>{selectedSubject}</strong> ainda.</span>
+              </div>
+              <div className="flex items-center gap-2">
                 <button
                   type="button"
-                  title="Excluir este PDF do computador"
-                  onClick={(e) => handleDeleteMaterial(e, mat.id)}
-                  className="opacity-0 group-hover:opacity-100 p-0.5 hover:text-[var(--accent-danger)] transition-opacity ml-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] rounded"
+                  onClick={() => setFilterBySelectedSubject(false)}
+                  className="text-xs text-[var(--accent-primary)] hover:underline font-mono cursor-pointer"
                 >
-                  <Trash2 className="w-3.5 h-3.5" />
+                  Ver {uploadedMaterials.length} PDFs de outras matérias
+                </button>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setUploadSubject(selectedSubject);
+                    setIsUploadModalOpen(true);
+                  }}
+                  className="px-3 py-1.5 rounded-lg bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-[var(--btn-primary-text)] font-sans text-xs font-bold transition-all cursor-pointer"
+                >
+                  + Subir PDF para {selectedSubject}
                 </button>
               </div>
-            );
-          })}
+            </div>
+          ) : (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
+              {displayedMaterials.map((mat: CustomMaterial) => {
+                const isSelected = selectedCustomMaterial?.id === mat.id;
+                return (
+                  <div
+                    key={mat.id}
+                    onClick={() => handleSelectMaterial(mat)}
+                    className={`group p-3 rounded-xl transition-all flex items-start justify-between gap-3 cursor-pointer border ${
+                      isSelected
+                        ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] shadow-sm'
+                        : 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] border-[var(--border-subtle)] hover:border-[var(--accent-primary)]/50'
+                    }`}
+                  >
+                    <div className="flex items-start gap-2.5 min-w-0">
+                      <div className={`p-2 rounded-lg shrink-0 ${isSelected ? 'bg-[var(--accent-primary)] text-white' : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)]'}`}>
+                        <FileText className="w-4 h-4" />
+                      </div>
+                      <div className="min-w-0 space-y-1">
+                        <div className="flex items-center gap-1.5 flex-wrap">
+                          {mat.lesson_number && (
+                            <span className="px-1.5 py-0.2 rounded text-[10px] font-mono font-bold bg-[var(--bg-surface)] text-[var(--accent-primary)] border border-[var(--border-subtle)]">
+                              Aula {String(mat.lesson_number).padStart(2, '0')}
+                            </span>
+                          )}
+                          <span className="px-1.5 py-0.2 rounded text-[10px] font-sans font-semibold bg-[var(--bg-surface)] text-[var(--text-muted)] border border-[var(--border-subtle)]">
+                            {mat.subject}
+                          </span>
+                        </div>
+                        <h4 className="font-sans font-bold text-xs text-[var(--text-primary)] truncate leading-snug" title={mat.title || mat.filename}>
+                          {mat.title || mat.filename}
+                        </h4>
+                        <div className="flex items-center gap-2 text-[11px] font-mono text-[var(--text-muted)]">
+                          <span>{mat.current_page || 1}/{mat.theory_pages || mat.total_pages || 1} págs</span>
+                          {mat.theory_completed ? (
+                            <span className="text-[var(--accent-success)] font-bold">✓ Lido</span>
+                          ) : (
+                            <span className="text-[var(--accent-primary)] font-medium">Em leitura</span>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+
+                    <button
+                      type="button"
+                      title="Excluir este PDF do computador"
+                      onClick={(e) => handleDeleteMaterial(e, mat.id)}
+                      className="opacity-0 group-hover:opacity-100 p-1.5 hover:text-[var(--accent-danger)] hover:bg-[var(--bg-surface)] transition-all rounded-lg text-[var(--text-muted)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] shrink-0 cursor-pointer"
+                    >
+                      <Trash2 className="w-3.5 h-3.5" />
+                    </button>
+                  </div>
+                );
+              })}
+            </div>
+          )}
         </div>
       )}
 
@@ -1787,37 +1909,21 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
 
             <form onSubmit={handleUploadSubmit} className="space-y-4 text-xs sm:text-sm">
               
+              {/* 1. Arquivo PDF */}
               <div className="space-y-1.5">
                 <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
-                  Disciplina da Aula:
-                </label>
-                <select
-                  value={uploadSubject}
-                  onChange={(e) => setUploadSubject(e.target.value)}
-                  className="w-full h-10 px-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none cursor-pointer font-sans"
-                >
-                  {careerSubjects.map((s) => (
-                    <option key={s.name} value={s.name}>
-                      {s.name}
-                    </option>
-                  ))}
-                </select>
-              </div>
-
-              <div className="space-y-1.5">
-                <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
-                  Arquivo PDF:
+                  1. Arquivo PDF da Apostila / Resumo:
                 </label>
                 <div
                   onClick={() => fileInputRef.current?.click()}
-                  className="p-6 rounded-xl border-2 border-dashed border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-[var(--bg-elevated)] text-center cursor-pointer space-y-2 transition-colors"
+                  className="p-5 rounded-xl border-2 border-dashed border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-[var(--bg-elevated)] text-center cursor-pointer space-y-2 transition-colors"
                 >
                   <UploadCloud className="w-8 h-8 text-[var(--accent-primary)] mx-auto" />
                   <div className="text-xs font-bold text-[var(--text-primary)]">
                     {selectedFile ? selectedFile.name : "Clique para selecionar o PDF"}
                   </div>
                   <p className="text-xs text-[var(--text-muted)] font-sans">
-                    Detecta automaticamente teoria vs questões comentadas, sumário e banca
+                    Detecta automaticamente teoria vs questões comentadas, sumário e páginas
                   </p>
                   <input
                     type="file"
@@ -1825,6 +1931,56 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                     onChange={handleFileChange}
                     accept="application/pdf"
                     className="hidden"
+                  />
+                </div>
+              </div>
+
+              {/* 2. Nome de Identificação Personalizado */}
+              <div className="space-y-1.5">
+                <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold flex items-center justify-between">
+                  <span>2. Nome de Identificação:</span>
+                  <span className="text-[10px] text-[var(--accent-primary)] font-mono font-normal">Como aparecerá na sua estante</span>
+                </label>
+                <input
+                  type="text"
+                  value={customTitle}
+                  onChange={(e) => setCustomTitle(e.target.value)}
+                  placeholder="Ex: Aula 01 - Conceito de Tributo e Espécies Tributárias"
+                  className="w-full h-10 px-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] placeholder-[var(--text-placeholder)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] font-sans text-xs"
+                />
+              </div>
+
+              {/* 3. Grid: Disciplina + Número da Aula */}
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                <div className="sm:col-span-2 space-y-1.5">
+                  <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
+                    3. Disciplina do Edital:
+                  </label>
+                  <select
+                    value={uploadSubject}
+                    onChange={(e) => setUploadSubject(e.target.value)}
+                    className="w-full h-10 px-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] outline-none cursor-pointer font-sans text-xs"
+                  >
+                    {careerSubjects.map((s) => (
+                      <option key={s.name} value={s.name}>
+                        {s.name}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+
+                <div className="space-y-1.5">
+                  <label className="font-sans text-xs uppercase text-[var(--text-muted)] font-bold">
+                    Nº da Aula:
+                  </label>
+                  <input
+                    type="number"
+                    min="0"
+                    max="99"
+                    value={customLessonNumber}
+                    onChange={(e) => setCustomLessonNumber(e.target.value)}
+                    placeholder="Ex: 1"
+                    className="w-full h-10 px-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] placeholder-[var(--text-placeholder)] focus:border-[var(--accent-primary)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] font-mono text-xs"
                   />
                 </div>
               </div>
@@ -1854,7 +2010,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   disabled={isUploading || !selectedFile}
                   className="font-bold font-sans text-xs shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
                 >
-                  {isUploading ? "Processando..." : "Subir e Indexar PDF"}
+                  {isUploading ? "Processando e Indexando..." : "Salvar e Indexar PDF"}
                 </Button>
               </div>
 

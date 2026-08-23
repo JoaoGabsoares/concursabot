@@ -607,8 +607,23 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 32. Identificação Personalizada & Estante de PDFs por Disciplina (v7.2.0)
+
+1. **🏷️ Identificação Personalizada de Apostilas no Upload**:
+   - O modal de upload (`POST /api/study-room/upload`) agora possui campos dedicados para:
+     - **Nome de Identificação da Apostila / Resumo**: Auto-preenchido de forma limpa a partir do arquivo (ex: `Aula 01 - Conceito de Tributo e Espécies`) e 100% editável pelo estudante.
+     - **Disciplina do Edital**: Pré-selecionada automaticamente na matéria ativa da Sala de Estudos.
+     - **Número da Aula / Módulo**: Identificador opcional para ordenação e indexação.
+   - O backend prioriza o `customTitle` e persiste os metadados refinados no SQLite (`study_materials`).
+
+2. **📁 Estante Visual Inteligente & Isolamento por Disciplina**:
+   - **Isolamento por Matéria**: Por padrão, a Sala de Estudos filtra e exibe estritamente os PDFs da disciplina ativa (`selectedSubject`), eliminando a poluição visual de materiais misturados.
+   - **Alternância Dinâmica**: Toggle *"Filtrando: [Disciplina] (Ver Todos)"* para alternar instantaneamente entre visão isolada e visão global de todos os materiais.
+   - **Cards Modernos**: Apresentam o título em destaque, badge do número da aula (ex: `Aula 01`), badge da disciplina, contador de páginas (`Pág. 1 / 45`), status de leitura (`✓ Lido` / `Em leitura`) e botão de exclusão.
+   - **Empty State Produtivo**: Quando a matéria ainda não possui PDF, exibe um card convidativo para *"+ Subir PDF para [Disciplina]"* ou acessar os PDFs de outras matérias.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
-
-
 
 
