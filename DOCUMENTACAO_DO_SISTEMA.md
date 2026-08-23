@@ -567,6 +567,25 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 30. Ingestão & Deduplicação Semântica de Questões da FGV (v7.0.0)
+
+1. **📄 Análise e Processamento dos PDFs da Pasta Downloads**:
+   - Processado o caderno oficial de provas comentadas da FGV (`c468fbb535a9aa620ace609012e2a4e9.pdf`) contendo 8 concursos de alto nível (*TJ-RS 2020, TJ-SC 2018, IMBEL 2021 Nível Superior, IMBEL 2021 Nível Médio, IBGE 2020, Angra dos Reis 2019, MPE-RJ 2019 e TJ-CE 2019*).
+   - Armazenadas cópias de segurança em `uploads/` (`Caderno_Questoes_Portugues_FGV.pdf` e `500_Questoes_Portugues_FGV_Receita_Federal.pdf`).
+
+2. **🛡️ Motor de Deduplicação Semântica com Assinatura Hash**:
+   - Implementado script em `server/seeds/ingest_fgv_questions.js`.
+   - Normalização NFD (remoção de acentos, caracteres especiais, pontuação e espaços múltiplos) para gerar assinaturas de enunciados de 80 caracteres.
+   - **Resultado do filtro**: 160 questões analisadas $\rightarrow$ 4 duplicadas bloqueadas com precisão cirúrgica $\rightarrow$ **155 questões 100% inéditas inseridas**.
+
+3. **📊 Expansão do Acervo Oficial de Questões**:
+   - **Total de Questões na Plataforma**: Elevado de **658** para **813** questões.
+   - **Questões da Banca FGV**: Saltou de **189** para **344** questões reais comentadas.
+   - **Língua Portuguesa**: Saltou de **239** para **394** questões categorizadas por tópicos (*Interpretação e Compreensão, Conjunções e Coesão, Regência e Crase, Concordância, Pontuação, Ortografia e Semântica, Tipologia Textual e Argumentação*).
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
+
 
 
