@@ -106,12 +106,16 @@ router.get('/', (req, res) => {
     }
 });
 
-// POST /:id/retry - Retrying an error item
-router.post('/:id/retry', (req, res) => {
+// POST /:id/retry | /:id/resolve | /resolve - Retrying / resolving an error item
+router.post(['/:id/retry', '/:id/resolve', '/resolve'], (req, res) => {
     try {
-        const { id } = req.params;
-        const { selectedAnswer } = req.body;
+        const id = req.params.id || req.body.id || req.body.errorId;
+        const selectedAnswer = req.body.selectedAnswer !== undefined ? req.body.selectedAnswer : req.body.answer;
         const userId = getAuthenticatedUserId(req);
+
+        if (!id) {
+            return res.status(400).json({ error: 'ID do item do caderno de erros é obrigatório.' });
+        }
 
         if (selectedAnswer === undefined) {
             return res.status(400).json({ error: 'selectedAnswer é obrigatório.' });

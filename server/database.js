@@ -604,6 +604,11 @@ function initDB() {
                 db.exec('ALTER TABLE user_profiles ADD COLUMN level INTEGER DEFAULT 1;');
             } catch (e) {}
         }
+        if (!userCols.includes('streakDays')) {
+            try {
+                db.exec('ALTER TABLE user_profiles ADD COLUMN streakDays INTEGER DEFAULT 0;');
+            } catch (e) {}
+        }
 
         // Performance Indexes for Multi-Tenant Isolation and Fast Queries
         try {

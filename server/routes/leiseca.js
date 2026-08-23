@@ -238,10 +238,12 @@ router.get('/desafio', (req, res) => {
     }
 });
 
-// POST /api/leiseca/responder - Valida a identificação do erro e concede XP
-router.post('/responder', (req, res) => {
+// POST /api/leiseca/responder | /validar - Valida a identificação do erro e concede XP
+router.post(['/responder', '/validar'], (req, res) => {
     try {
-        const { desafioId, palavraSelecionada, tempoGastoSegundos } = req.body;
+        const desafioId = req.body.desafioId || req.body.desafio_id || req.body.id;
+        const palavraSelecionada = req.body.palavraSelecionada || req.body.palavra_selecionada || req.body.selected_word;
+        const tempoGastoSegundos = req.body.tempoGastoSegundos || req.body.tempo_gasto || req.body.response_time_sec;
         const profileId = getAuthenticatedUserId(req);
 
         const item = LEI_SECA_DB.find(d => d.id === desafioId);

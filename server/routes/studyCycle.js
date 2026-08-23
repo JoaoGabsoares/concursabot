@@ -6,7 +6,7 @@ import { addXP } from '../gamification.js';
 const router = express.Router();
 
 // GET /api/study-cycles/models - Catálogo de modelos de ciclo disponíveis
-router.get('/models', (req, res) => {
+router.get(['/models', '/modelos'], (req, res) => {
   try {
     const models = StudyCycleService.getCycleModels();
     res.json(models);
@@ -52,8 +52,8 @@ router.get('/active', (req, res) => {
   }
 });
 
-// POST /api/study-cycles/generate - Gerar ou reconfigurar novo ciclo inteligente
-router.post('/generate', (req, res) => {
+// POST /api/study-cycles/generate | /simular - Gerar ou reconfigurar novo ciclo inteligente
+router.post(['/generate', '/simular'], (req, res) => {
   try {
     const {
       userId = 'user_joao',
@@ -64,7 +64,7 @@ router.post('/generate', (req, res) => {
       examDate = null,
       customDifficulties = {},
       cycleName = null,
-      saveImmediately = true
+      saveImmediately = req.path.includes('simular') ? false : true
     } = req.body;
 
     const generated = StudyCycleService.generateCycle({
@@ -89,8 +89,8 @@ router.post('/generate', (req, res) => {
   }
 });
 
-// POST /api/study-cycles/advance - Marcar bloco como concluído (+20 XP) e avançar ciclo
-router.post('/advance', (req, res) => {
+// POST /api/study-cycles/advance | /advance-block - Marcar bloco como concluído (+20 XP) e avançar ciclo
+router.post(['/advance', '/advance-block'], (req, res) => {
   try {
     const { cycleId, blockId, userId = 'user_joao', careerId = 'atrfb' } = req.body;
     if (!cycleId || !blockId) {

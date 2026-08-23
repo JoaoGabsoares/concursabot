@@ -127,8 +127,8 @@ function formatDateBR(date) {
     return `${d}/${m}/${y}`;
 }
 
-// GET /api/aproveitamento/catalogo - Retorna catálogo de carreiras para seleção
-router.get('/catalogo', (req, res) => {
+// GET /api/aproveitamento/catalogo | /carreiras - Retorna catálogo de carreiras para seleção
+router.get(['/catalogo', '/carreiras'], (req, res) => {
     try {
         const lista = Object.keys(SYLLABUS_MATRIX).map(id => ({
             id,
@@ -139,6 +139,15 @@ router.get('/catalogo', (req, res) => {
         res.json(lista);
     } catch (err) {
         res.status(500).json({ error: 'Erro ao listar catálogo: ' + err.message });
+    }
+});
+
+// GET /api/aproveitamento/matriz - Retorna a matriz de aproveitamento curricular completa
+router.get('/matriz', (req, res) => {
+    try {
+        res.json(SYLLABUS_MATRIX);
+    } catch (err) {
+        res.status(500).json({ error: 'Erro ao obter matriz curricular: ' + err.message });
     }
 });
 

@@ -82,8 +82,8 @@ router.get('/temas', (req, res) => {
     res.json({ success: true, temas: TEMAS_CONCURSO });
 });
 
-// POST /corrigir - Grade essay using AI with official criteria
-router.post('/corrigir', async (req, res) => {
+// POST /corrigir | /correcao | /feedback - Grade essay using AI with official criteria
+router.post(['/corrigir', '/correcao', '/feedback'], async (req, res) => {
     try {
         const { tema, texto, banca = 'Cesgranrio', careerId = 'bb_comercial' } = req.body;
         const userId = getAuthenticatedUserId(req);

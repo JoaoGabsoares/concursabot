@@ -122,9 +122,10 @@ export const ACHIEVEMENTS_CATALOG = [
 
 export const CAREER_SUBJECTS = {
   'marinha_rm2': ['Língua Portuguesa', 'Formação Militar-Naval', 'Legislação Militar-Naval', 'Relações Humanas e Liderança', 'História Naval'],
+  'marinha_oficiais': ['Língua Portuguesa', 'Formação Militar-Naval', 'Legislação Militar-Naval', 'Relações Humanas e Liderança', 'História Naval'],
   'ses_rj': ['Legislação do SUS & Saúde Pública', 'Língua Portuguesa', 'Conhecimentos Específicos de Enfermagem', 'Noções de Administração Pública', 'SUS'],
-  'atrfb': ['Direito Tributário', 'Legislação Tributária e Aduaneira', 'Legislação Tributária', 'Legislação Aduaneira', 'Direito Constitucional', 'Direito Administrativo', 'Contabilidade Geral', 'Língua Portuguesa', 'Língua Inglesa', 'Raciocínio Lógico-Matemático e Estatística', 'Raciocínio Lógico Matemático', 'Estatística', 'Administração Geral e Pública'],
-  'afrfb': ['Direito Tributário', 'Legislação Tributária e Aduaneira', 'Direito Constitucional', 'Direito Administrativo', 'Contabilidade Geral e Avançada', 'Auditoria', 'Língua Portuguesa', 'Língua Inglesa', 'Raciocínio Lógico-Matemático e Estatística', 'Administração Pública e Economia', 'Tecnologia da Informação'],
+  'atrfb': ['Direito Tributário', 'Direito Previdenciário', 'Língua Portuguesa', 'Fluência em Dados', 'Fluência de Dados', 'Direito Constitucional', 'Legislação Tributária', 'Legislação Aduaneira', 'Legislação Tributária e Aduaneira', 'Direito Administrativo', 'Raciocínio Lógico-Matemático', 'Raciocínio Lógico Matemático', 'Contabilidade Geral', 'Estatística', 'Administração Geral e Pública', 'Língua Inglesa'],
+  'afrfb': ['Direito Tributário', 'Legislação Tributária e Aduaneira', 'Direito Constitucional', 'Direito Administrativo', 'Contabilidade Geral e Avançada', 'Auditoria', 'Língua Portuguesa', 'Língua Inglesa', 'Raciocínio Lógico-Matemático e Estatística', 'Administração Pública e Economia', 'Tecnologia da Informação', 'Economia e Finanças Públicas', 'Administração Geral', 'Administração Pública', 'Estatística'],
   'transpetro_adm': ['Noções de Administração', 'Legislação e Licitações para Estatais (Lei 13.303/16)', 'Língua Portuguesa', 'Matemática', 'Técnicas de Arquivo e Documentação', 'Ética e Conduta no Setor Público'],
   'transpetro_log': ['Gestão de Estoques e Almoxarifado', 'Transporte, Movimentação e Modais Logísticos', 'Língua Portuguesa', 'Matemática', 'Gestão de Compras e Fornecedores', 'Legislação de Contratações em Estatais (Lei 13.303/16)'],
   'bb_comercial': ['Conhecimentos Bancários', 'Atendimento e Técnicas de Vendas', 'Língua Portuguesa', 'Matemática Financeira', 'Conhecimentos de Informática', 'Probabilidade e Estatística'],
@@ -188,17 +189,17 @@ export function calculateUserStreak(userId, careerId = null) {
 
     for (let i = 0; i < dates.length; i++) {
       const d = new Date(dates[i].study_date + 'T00:00:00');
-      const diffDays = Math.floor((today - d) / (1000 * 60 * 60 * 24));
+      const diffDays = Math.round((today - d) / (1000 * 60 * 60 * 24));
 
       if (i === 0) {
-        if (diffDays === 0 || diffDays === 1) {
+        if (diffDays >= -1 && diffDays <= 1) {
           streak = 1;
         } else {
           return 0;
         }
       } else {
         const prevDate = new Date(dates[i - 1].study_date + 'T00:00:00');
-        const gap = Math.floor((prevDate - d) / (1000 * 60 * 60 * 24));
+        const gap = Math.round((prevDate - d) / (1000 * 60 * 60 * 24));
         if (gap === 1) {
           streak++;
         } else {
@@ -229,10 +230,10 @@ export function getUserStatsForGamification(userId, careerId = null) {
       sessions = db.prepare(`
         SELECT COUNT(*) as count 
         FROM study_sessions ss
-        JOIN study_materials sm ON ss.material_id = sm.id
+        LEFT JOIN study_materials sm ON ss.material_id = sm.id
         WHERE ss.user_id = ?
-          AND (sm.career_id = ? OR sm.subject IN (${placeholders}))
-      `).get(userId, careerId, ...subjects);
+          AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
+      `).get(userId, careerId, careerId, ...subjects);
 
       questions = db.prepare(`
         SELECT COUNT(*) as count, SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as correct
@@ -255,17 +256,17 @@ export function getUserStatsForGamification(userId, careerId = null) {
         FROM activity_log 
         WHERE user_id = ? 
           AND type = 'flashcard_review'
-          AND career_id = ?
+          AND (career_id = ? OR career_id IS NULL)
       `).get(userId, careerId);
 
       earlyMorning = db.prepare(`
         SELECT COUNT(*) as count 
         FROM study_sessions ss
-        JOIN study_materials sm ON ss.material_id = sm.id
+        LEFT JOIN study_materials sm ON ss.material_id = sm.id
         WHERE ss.user_id = ? 
-          AND (sm.career_id = ? OR sm.subject IN (${placeholders}))
+          AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
           AND CAST(strftime('%H', ss.started_at) AS INTEGER) < 9
-      `).get(userId, careerId, ...subjects);
+      `).get(userId, careerId, careerId, ...subjects);
 
     } else {
       sessions = db.prepare('SELECT COUNT(*) as count FROM study_sessions WHERE user_id = ?').get(userId);

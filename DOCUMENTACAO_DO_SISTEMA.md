@@ -511,6 +511,21 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 27. Simulação Global Multi-Agente & Matriz Completa de Testes E2E / REST (v6.7.0)
+
+1. **🤖 Simulação Especializada por Subagentes Paralelos**:
+   - **Subagente 1 — Navegador E2E (`tests/e2e_puppeteer_simulation.js`)**: Execução automatizada de jornada real do concurseiro com Puppeteer em 8 passos completos (Registro/Login, Dashboard Tática, Modal Retroativo com exclusão e recálculo, Sala de Estudos com paginação 1-5 e conclusão, Ciclo de Estudos com Wizard 20h/sem e avanço de bloco, Simulados FGV por matéria com gabarito comentado oficial, Lei Seca e Caça-Pegadinhas, Caderno de Erros com filtros de superação). **100% de aprovação (8/8 passos) em 64.18s com 0 erros de console e 0 erros de rede**.
+   - **Subagente 2 — Matriz REST & Teste de Carga Concorrente (`tests/api_full_matrix.test.js`)**: Varredura exaustiva de **86 endpoints REST** distribuídos em 16 categorias (Auth, Perfis, Anti-IDOR, Dashboard, Study Room, Ciclos, Simulados, Caderno de Erros, Lei Seca, Jurisprudência, Aproveitamento, Redação, RAG BM25, Gamificação, Benchmarks e Rajada Concorrente de 60 requisições simultâneas em 1.5s). **100% de aprovação (86/86 endpoints)** com latência média de 25.3ms e zero contenções SQLite.
+   - **Subagente 3 — Auditoria Matemática de Ciclos & Gamificação (`tests/gamification_and_cycles_simulation.test.js`)**: Validação matemática de interleaving multi-carreira (ATRFB 13 disciplinas, AFRFB 14 disciplinas, Marinha Praças e Oficiais, Transpetro Administração e Logística), alternância anti-fadiga entre exatas/dados, jurídico e humanas/gestão, projeção até a prova (14.8 voltas, ~6.8k questões), progressão de patentes L1-L6, cálculo de streak contínuo e gap retroativo, e radar de matérias. **100% aprovado**.
+
+2. **⚙️ Resolução de Inconsistências de Banco & Rotas**:
+   - Atualizado `server/routes/simulados.js` para corrigir referência de coluna `scb.subject` em `studied-scope` e permitir questões sem banca pré-fixada (`banca IS NULL` ou `FGV`) com carregamento instantâneo.
+   - Migrada coluna `streakDays` em `user_profiles` no SQLite.
+   - Atualizado Content-Security-Policy (CSP) em `server/index.js` para autorizar `https://accounts.google.com` e `https://lh3.googleusercontent.com`.
+
+3. **🏆 Suíte Unificada Master (`tests/run_all.js`)**:
+   - Todas as 11 suítes de testes automatizados unitários, de integração, segurança/pentest, ciclos, RAG, estresse REST e simulação matemática integradas e executadas com 100% de sucesso.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
-
-

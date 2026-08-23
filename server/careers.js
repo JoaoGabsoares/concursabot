@@ -101,6 +101,79 @@ export const CAREERS_CATALOG = {
   },
 
   // ============================================================
+  // 2.1 RECEITA FEDERAL DO BRASIL — AUDITOR-FISCAL (AFRFB)
+  // ============================================================
+  'afrfb': {
+    id: 'afrfb',
+    name: '🏛️ Receita Federal do Brasil (AFRFB)',
+    shortName: 'Auditor Fiscal RFB',
+    role: 'Auditor-Fiscal da Receita Federal',
+    totalQuestions: 140,
+    bancas: [
+      { id: 'FGV', name: 'FGV (Fundação Getulio Vargas)', default: true },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' },
+      { id: 'ESAF', name: 'ESAF (Histórica)' },
+      { id: 'FCC', name: 'FCC (Fundação Carlos Chagas)' }
+    ],
+    subjects: [
+      { subject: 'Tecnologia da Informação', wave: 1, questions: 16, percentage: '11.4%', description: 'Bancos de Dados, SQL, Python, Big Data, Machine Learning e Nuvem' },
+      { subject: 'Legislação Tributária e Aduaneira', wave: 1, questions: 16, percentage: '11.4%', description: 'IRPJ, IPI, PIS/COFINS, IOF, Regulamento Aduaneiro e Comércio Exterior' },
+      { subject: 'Direito Tributário', wave: 1, questions: 12, percentage: '8.6%', description: 'CTN, Impostos Federais, Limitações Constitucionais e Processo Tributário' },
+      { subject: 'Contabilidade Geral e Avançada', wave: 1, questions: 12, percentage: '8.6%', description: 'Pronunciamentos CPC, Balanço Consolidado, Combinações de Negócios e DFC' },
+      { subject: 'Auditoria', wave: 1, questions: 10, percentage: '7.1%', description: 'Normas NBC TA, Testes Substantivos, Amostragem e Relatório de Auditoria' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 10, percentage: '7.1%', description: 'Interpretação e Gramática de Alto Rendimento FGV' },
+      { subject: 'Direito Constitucional', wave: 1, questions: 8, percentage: '5.7%', description: 'Poderes, Controle de Constitucionalidade e Sistema Tributário' },
+      { subject: 'Direito Administrativo', wave: 2, questions: 8, percentage: '5.7%', description: 'Licitações 14.133, Serviços Públicos, Improbidade e Responsabilidade Civil' },
+      { subject: 'Raciocínio Lógico-Matemático', wave: 2, questions: 8, percentage: '5.7%', description: 'Lógica Sentencial, Análise Combinatória e Álgebra Linear' },
+      { subject: 'Economia e Finanças Públicas', wave: 2, questions: 8, percentage: '5.7%', description: 'Microeconomia, Macroeconomia, Política Fiscal e Dívida Pública' },
+      { subject: 'Administração Geral', wave: 2, questions: 8, percentage: '5.7%', description: 'Planejamento Estratégico, BSC, Estrutura Organizacional e Liderança' },
+      { subject: 'Administração Pública', wave: 2, questions: 8, percentage: '5.7%', description: 'Modelos de Gestão, Orçamento Público, LRF e Governança' },
+      { subject: 'Língua Inglesa', wave: 2, questions: 8, percentage: '5.7%', description: 'Compreensão de Textos Econômicos e Fiscais Internacionais' },
+      { subject: 'Estatística', wave: 2, questions: 8, percentage: '5.7%', description: 'Inferência Estatística, Regressão Linear e Distribuições de Probabilidade' }
+    ],
+    official_lessons: [
+      { subject: 'Tecnologia da Informação', lessonNumber: 1, title: 'Bancos de Dados Relacionais & Não-Relacionais e Consultas SQL Avançadas', keyTopics: 'Modelagem dimensional, OLAP, consultas aninhadas, NoSQL e performance de dados' },
+      { subject: 'Legislação Tributária e Aduaneira', lessonNumber: 1, title: 'Regulamento do IRPJ e Tributação de Pessoas Jurídicas (Lucro Real e Presumido)', keyTopics: 'LALUR, LACS, adições, exclusões e incentivos fiscais federais' },
+      { subject: 'Direito Tributário', lessonNumber: 1, title: 'Sistema Tributário Nacional na CF/88 e Reforma Tributária', keyTopics: 'Princípios constitucionais, imunidades, competência e repartição de receitas' }
+    ]
+  },
+
+  // ============================================================
+  // 2.2 MARINHA DO BRASIL — QUADRO TÉCNICO E OFICIAIS (SMV / QT)
+  // ============================================================
+  'marinha_oficiais': {
+    id: 'marinha_oficiais',
+    name: '⚓ Marinha do Brasil (Oficiais RM2 / Quadro Técnico)',
+    shortName: 'Marinha Oficiais',
+    role: 'Segundo-Tenente / Primeiro-Tenente da Reserva',
+    totalQuestions: 50,
+    bancas: [
+      { id: 'DEnsM', name: 'DEnsM / Marinha do Brasil (Oficial)', default: true },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' }
+    ],
+    subjects: [
+      {
+        subject: 'Língua Portuguesa',
+        wave: 1,
+        questions: 25,
+        percentage: '50%',
+        description: 'Interpretação e Gramática DEnsM para Quadro de Oficiais'
+      },
+      {
+        subject: 'Formação Militar-Naval',
+        wave: 1,
+        questions: 25,
+        percentage: '50%',
+        description: 'Estatuto dos Militares, RDM, LESTA, História Naval Brasileira e Doutrina de Liderança Naval'
+      }
+    ],
+    official_lessons: [
+      { subject: 'Língua Portuguesa', lessonNumber: 1, title: 'Compreensão de Textos DEnsM e Relações Semânticas Avançadas', keyTopics: 'Coesão, coerência, figuras de estilo e tipologia textual' },
+      { subject: 'Formação Militar-Naval', lessonNumber: 1, title: 'Estatuto dos Militares e Ética Militar-Naval (Lei 6.880/80)', keyTopics: 'Hierarquia, disciplina, deveres, prerrogativas e regime disciplinar' }
+    ]
+  },
+
+  // ============================================================
   // 3. SAÚDE PÚBLICA — SES-RJ / IASERJ 2026 (IBDO PROJETOS)
   // ============================================================
   'ses_rj': {

@@ -10,6 +10,8 @@ import { runCadernoErrosTests } from './integration/community_and_caderno_erros.
 import { runV35FixesTests } from './integration/v3_5_fixes.test.js';
 import { runStudyCyclesTests } from './integration/study_cycles.test.js';
 import { runRagKnowledgeTests } from './integration/rag_knowledge.test.js';
+import { runGamificationAndCyclesSimulation } from './gamification_and_cycles_simulation.test.js';
+import { runFullMatrixSuite } from './api_full_matrix.test.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -67,6 +69,8 @@ async function main() {
     await runV35FixesTests(TEST_BASE_URL);
     await runStudyCyclesTests(TEST_BASE_URL);
     await runRagKnowledgeTests(TEST_BASE_URL);
+    await runGamificationAndCyclesSimulation();
+    await runFullMatrixSuite(TEST_BASE_URL);
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(2);
     console.log('\n===============================================================');

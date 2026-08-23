@@ -6,8 +6,8 @@ import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
-// POST /create - Generate a full mock exam with parallel subject question generation (Promise.all)
-router.post('/create', async (req, res) => {
+// POST /create | /generate - Generate a full mock exam with parallel subject question generation (Promise.all)
+router.post(['/create', '/generate'], async (req, res) => {
     const { banca = 'FGV', subjects, questionCount = 10, timeLimitMinutes = 60 } = req.body;
     const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.body.careerId || req.body.career_id || 'atrfb';
@@ -96,7 +96,7 @@ router.get('/studied-scope', (req, res) => {
 
         // 3. Blocos de ciclo concluídos
         const cycleBlocks = db.prepare(`
-            SELECT DISTINCT scb.subject, scb.topic
+            SELECT DISTINCT scb.subject
             FROM study_cycle_blocks scb
             JOIN study_cycles sc ON scb.cycle_id = sc.id
             WHERE sc.user_id = ? AND sc.career_id = ? AND scb.status = 'completed'
@@ -237,13 +237,13 @@ router.post('/create-by-subject', async (req, res) => {
                   AND LOWER(subject) LIKE LOWER(?) AND (studied_at IS NOT NULL OR theory_completed = 1 OR current_page > 1)
             `).all(userId, `%${subject}%`);
             const cycleRows = db.prepare(`
-                SELECT scb.topic FROM study_cycle_blocks scb
+                SELECT scb.subject FROM study_cycle_blocks scb
                 JOIN study_cycles sc ON scb.cycle_id = sc.id
                 WHERE sc.user_id = ? AND LOWER(scb.subject) LIKE LOWER(?) AND scb.status = 'completed'
             `).all(userId, `%${subject}%`);
             specificTopics = [
                 ...aiRows.map(r => r.title),
-                ...cycleRows.map(r => r.topic)
+                ...cycleRows.map(r => r.subject)
             ].filter(Boolean);
         } else if (effectiveSource === 'all') {
             const allRows = db.prepare(`
@@ -276,7 +276,7 @@ router.post('/create-by-subject', async (req, res) => {
             // 2. Busca nas questões da banca informada ou cadastradas
             const existing = db.prepare(`
                 SELECT id FROM questions 
-                WHERE LOWER(subject) LIKE LOWER(?) AND (banca = ? OR banca LIKE ? OR ? = 'todas' OR banca = 'FGV' OR banca = 'DEnsM' OR banca = 'Cesgranrio')
+                WHERE LOWER(subject) LIKE LOWER(?) AND (banca = ? OR banca LIKE ? OR ? = 'todas' OR banca IS NULL OR banca = 'FGV' OR banca = 'DEnsM' OR banca = 'Cesgranrio')
                 ORDER BY (CASE WHEN banca = ? THEN 0 ELSE 1 END), RANDOM()
                 LIMIT ?
             `).all(`%${subject}%`, banca, `%${banca}%`, banca, banca, count);
@@ -440,11 +440,15 @@ router.post('/create-from-errors', (req, res) => {
     }
 });
 
-// POST /:id/finish - Submit answers with support for Cebraspe negative penalty
-router.post('/:id/finish', (req, res) => {
-    const simuladoId = req.params.id;
+// POST /:id/finish | /:id/submit | /submit - Submit answers with support for Cebraspe negative penalty
+router.post(['/:id/finish', '/:id/submit', '/submit'], (req, res) => {
+    const simuladoId = req.params.id || req.body.simuladoId || req.body.id;
     const userId = getAuthenticatedUserId(req);
     const { answers = {}, timeSpentSeconds = 0 } = req.body; // answers = { question_id: selected_index | -1 }
+
+    if (!simuladoId) {
+        return res.status(400).json({ error: 'simuladoId é obrigatório' });
+    }
 
     try {
         const sim = db.prepare('SELECT * FROM simulados WHERE id = ? AND user_id = ?').get(simuladoId, userId);
