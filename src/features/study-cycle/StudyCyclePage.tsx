@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { createPortal } from 'react-dom';
 import { UserProfile, ActiveTab, DailyMission, StudyCycle, StudyCycleBlock, CycleModelType, CycleModelOption } from '../../types';
 import { api } from '../../api/client';
@@ -19,7 +19,14 @@ import {
   RefreshCw,
   Sliders,
   Check,
-  X
+  X,
+  Layers,
+  Cpu,
+  HelpCircle,
+  BarChart3,
+  Target,
+  ShieldCheck,
+  ArrowRight
 } from 'lucide-react';
 
 interface StudyCyclePageProps {
@@ -175,6 +182,32 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
     }
   };
 
+  const [rebalancing, setRebalancing] = useState<boolean>(false);
+
+  const handleRebalanceCycle = async () => {
+    const currentUserId = user?.id || localStorage.getItem('CURRENT_USER_ID') || '';
+    setRebalancing(true);
+    try {
+      const res = await api.rebalanceStudyCycle(currentUserId, careerId, true);
+      if (res.cycle) {
+        setCycle(res.cycle);
+        const insights = res.performanceInsights || [];
+        const evaluatedCount = insights.filter((p: any) => p.totalQuestions > 0).length;
+        success(
+          '🎯 Ciclo Recalibrado!',
+          evaluatedCount > 0
+            ? `Esteira adaptada com sucesso a partir de ${evaluatedCount} matéria(s) com dados de questões! Pesos rebalanceados.`
+            : 'Esteira calibrada com sucesso com base nas proporções oficiais do edital.'
+        );
+      }
+    } catch (err: any) {
+      console.error('Erro ao recalibrar ciclo:', err);
+      toastError('Falha ao recalibrar ciclo: ' + (err.message || 'Erro de conexão.'));
+    } finally {
+      setRebalancing(false);
+    }
+  };
+
   // Cores semânticas por grupo cognitivo
   const getCognitiveColor = (group: string) => {
     switch (group) {
@@ -221,6 +254,25 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
   const totalBlocks = cycle?.blocks?.length || 0;
   const simulation = cycle?.settings?.simulation;
 
+  const cognitiveBreakdown = useMemo(() => {
+    if (!cycle?.blocks || cycle.blocks.length === 0) {
+      return { juridico: 0, exatas: 0, humanas: 0, jurCount: 0, exaCount: 0, humCount: 0, total: 0 };
+    }
+    const total = cycle.blocks.length;
+    const jurCount = cycle.blocks.filter(b => b.cognitive_group === 'juridico').length;
+    const exaCount = cycle.blocks.filter(b => b.cognitive_group === 'exatas_dados').length;
+    const humCount = cycle.blocks.filter(b => b.cognitive_group === 'humanas_linguagens').length;
+    return {
+      juridico: Math.round((jurCount / total) * 100),
+      exatas: Math.round((exaCount / total) * 100),
+      humanas: Math.round((humCount / total) * 100),
+      jurCount,
+      exaCount,
+      humCount,
+      total
+    };
+  }, [cycle?.blocks]);
+
   return (
     <div className="space-y-8 animate-fade-in font-sans pb-16">
       
@@ -251,6 +303,16 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
 
           {/* Quick Metrics & Actions */}
           <div className="flex flex-wrap items-center gap-3">
+            <button
+              onClick={handleRebalanceCycle}
+              disabled={rebalancing || loading}
+              className="px-4 py-2.5 rounded-xl bg-[var(--accent-emerald-bg)] hover:opacity-90 border border-[var(--accent-success)]/40 text-[var(--accent-success)] font-sans text-xs font-bold flex items-center gap-2 transition-all shadow-xs active:scale-95 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+              title="Recalibra os blocos automaticamente com base na sua taxa real de acertos em questões e no edital"
+            >
+              <Cpu className={`w-4 h-4 ${rebalancing ? 'animate-spin' : ''}`} />
+              <span>{rebalancing ? 'Recalibrando...' : '⚡ Recalibrar com Desempenho Real'}</span>
+            </button>
+
             <button
               onClick={() => { setShowWizard(true); setWizardStep(1); }}
               className="px-4 py-2.5 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white font-sans text-xs font-bold flex items-center gap-2 transition-all shadow-md active:scale-95 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
@@ -306,6 +368,143 @@ export const StudyCyclePage: React.FC<StudyCyclePageProps> = ({
           </div>
         )}
       </div>
+
+      {/* 1.5. Card Educativo & Diagnóstico da Esteira Adaptativa */}
+      {cycle && (
+        <div className="rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] p-6 space-y-4 shadow-xs">
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-[var(--border-subtle)] pb-4">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/30 flex items-center justify-center text-[var(--accent-primary)]">
+                <Layers className="w-5 h-5" />
+              </div>
+              <div>
+                <h3 className="font-display font-bold text-base text-[var(--text-primary)]">
+                  Diagnóstico da Esteira & Transição Adaptativa
+                </h3>
+                <p className="text-xs text-[var(--text-secondary)]">
+                  Como a esteira distribui suas horas e como ela recalcula automaticamente os pesos para a <strong>Volta #{cycle.completed_cycles_count + 1}</strong>.
+                </p>
+              </div>
+            </div>
+
+            {/* Badge de Próxima Volta */}
+            <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-muted)]">
+              <Sparkles className="w-3.5 h-3.5 text-[var(--accent-warning)]" />
+              <span>Próxima Volta: <strong className="text-[var(--text-primary)]">Volta #{cycle.completed_cycles_count + 1}</strong></span>
+            </div>
+          </div>
+
+          {/* Barra de Distribuição de Eixos Cognitivos */}
+          <div className="space-y-2">
+            <div className="flex items-center justify-between text-xs">
+              <span className="font-bold text-[var(--text-primary)]">Distribuição de Carga por Eixo Cognitivo do Edital:</span>
+              <span className="font-mono text-[var(--text-muted)]">{cognitiveBreakdown.total} blocos totais</span>
+            </div>
+
+            <div className="h-3.5 w-full bg-[var(--bg-elevated)] rounded-full overflow-hidden flex border border-[var(--border-subtle)]">
+              <div 
+                style={{ width: `${cognitiveBreakdown.juridico}%` }} 
+                className="bg-[var(--accent-purple)] h-full transition-all"
+                title={`Direito & Normas: ${cognitiveBreakdown.juridico}% (${cognitiveBreakdown.jurCount} blocos)`}
+              />
+              <div 
+                style={{ width: `${cognitiveBreakdown.exatas}%` }} 
+                className="bg-[var(--accent-primary)] h-full transition-all"
+                title={`Exatas, TI & Dados: ${cognitiveBreakdown.exatas}% (${cognitiveBreakdown.exaCount} blocos)`}
+              />
+              <div 
+                style={{ width: `${cognitiveBreakdown.humanas}%` }} 
+                className="bg-[var(--accent-success)] h-full transition-all"
+                title={`Humanas & Linguagens: ${cognitiveBreakdown.humanas}% (${cognitiveBreakdown.humCount} blocos)`}
+              />
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-2 text-xs">
+              <div className="flex items-start gap-2 p-2.5 rounded-lg bg-[var(--accent-purple-bg)] border border-[var(--accent-purple)]/20">
+                <span className="w-2.5 h-2.5 rounded-full bg-[var(--accent-purple)] mt-0.5 shrink-0" />
+                <div>
+                  <div className="font-bold text-[var(--accent-purple)]">
+                    Direito & Normas ({cognitiveBreakdown.juridico}%)
+                  </div>
+                  <div className="text-[11px] text-[var(--text-secondary)] mt-0.5">
+                    {cognitiveBreakdown.jurCount} blocos. Maior peso do edital (Tributário, Aduaneiro, Constitucional e Administrativo).
+                  </div>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-2 p-2.5 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20">
+                <span className="w-2.5 h-2.5 rounded-full bg-[var(--accent-primary)] mt-0.5 shrink-0" />
+                <div>
+                  <div className="font-bold text-[var(--accent-primary)]">
+                    Exatas & TI ({cognitiveBreakdown.exatas}%)
+                  </div>
+                  <div className="text-[11px] text-[var(--text-secondary)] mt-0.5">
+                    {cognitiveBreakdown.exaCount} blocos. RLM, Estatística, Fluência em Dados e Contabilidade Geral.
+                  </div>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-2 p-2.5 rounded-lg bg-[var(--accent-emerald-bg)] border border-[var(--accent-success)]/20">
+                <span className="w-2.5 h-2.5 rounded-full bg-[var(--accent-success)] mt-0.5 shrink-0" />
+                <div>
+                  <div className="font-bold text-[var(--accent-success)]">
+                    Humanas & Linguagens ({cognitiveBreakdown.humanas}%)
+                  </div>
+                  <div className="text-[11px] text-[var(--text-secondary)] mt-0.5">
+                    {cognitiveBreakdown.humCount} blocos. Português, Inglês e Administração Geral/Pública.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* As 4 Bases de Transição para a Próxima Volta */}
+          <div className="pt-3 border-t border-[var(--border-subtle)]">
+            <div className="text-xs font-bold text-[var(--text-primary)] mb-2 flex items-center gap-1.5">
+              <ShieldCheck className="w-4 h-4 text-[var(--accent-primary)]" />
+              <span>Como o Gabarito.AI recalcula os blocos na transição para a próxima volta:</span>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2.5 text-xs text-[var(--text-secondary)]">
+              <div className="p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                <div className="font-bold text-[var(--text-primary)] flex items-center gap-1">
+                  <span>1. Taxa de Acertos</span>
+                </div>
+                <p className="text-[11px] leading-relaxed">
+                  Matérias com acertos &lt;65% ganham +35% a +70% de blocos extras. Matérias dominadas (&gt;85%) são reduzidas para manutenção ágil.
+                </p>
+              </div>
+
+              <div className="p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                <div className="font-bold text-[var(--text-primary)] flex items-center gap-1">
+                  <span>2. Caderno de Erros</span>
+                </div>
+                <p className="text-[11px] leading-relaxed">
+                  Erros conceituais não superados aumentam a prioridade de revisão teórica e baterias de reforço na esteira.
+                </p>
+              </div>
+
+              <div className="p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                <div className="font-bold text-[var(--text-primary)] flex items-center gap-1">
+                  <span>3. Conclusão Teórica</span>
+                </div>
+                <p className="text-[11px] leading-relaxed">
+                  Ao concluir 100% da teoria de uma matéria na Sala de Estudos, o bloco migra automaticamente para resolução ativa de questões.
+                </p>
+              </div>
+
+              <div className="p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                <div className="font-bold text-[var(--text-primary)] flex items-center gap-1">
+                  <span>4. Data da Prova</span>
+                </div>
+                <p className="text-[11px] leading-relaxed">
+                  Na reta final (&lt;30 dias), o ciclo transita para o modelo Pareto 80/20, focando no núcleo duro de maior probabilidade da banca.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* 2. Bloco da Vez (Card Destaque da Missão Imediata) */}
       {currentBlock ? (

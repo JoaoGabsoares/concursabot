@@ -89,6 +89,37 @@ router.post(['/generate', '/simular'], (req, res) => {
   }
 });
 
+// POST /api/study-cycles/rebalance - Recalibra o ciclo ativo com base no desempenho real do aluno
+router.post('/rebalance', (req, res) => {
+  try {
+    const userId = req.body.userId || req.headers['x-user-id'] || 'user_joao';
+    const careerId = req.body.careerId || 'atrfb';
+    const saveImmediately = req.body.saveImmediately !== false;
+
+    const currentCycle = db.getActiveStudyCycle(userId, careerId);
+    const rebalanced = StudyCycleService.rebalanceCycleFromUserPerformance({
+      userId,
+      careerId,
+      dbInstance: db.default || db,
+      currentCycle
+    });
+
+    if (saveImmediately) {
+      const savedCycle = db.saveStudyCycle(rebalanced.cycleData, rebalanced.blocks);
+      return res.json({
+        success: true,
+        message: 'Ciclo recalibrado com sucesso com base no seu histórico real de questões!',
+        cycle: savedCycle,
+        performanceInsights: rebalanced.performanceInsights
+      });
+    }
+
+    res.json(rebalanced);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // POST /api/study-cycles/advance | /advance-block - Marcar bloco como concluído (+20 XP) e avançar ciclo
 router.post(['/advance', '/advance-block'], (req, res) => {
   try {

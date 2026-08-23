@@ -390,6 +390,97 @@ export class StudyCycleService {
     };
   }
 
+  /**
+   * Recalibra os pesos e blocos do ciclo com base no desempenho real do estudante no SQLite
+   */
+  static rebalanceCycleFromUserPerformance(params) {
+    const {
+      userId = 'user_joao',
+      careerId = 'atrfb',
+      dbInstance = null,
+      currentCycle = null
+    } = params;
+
+    const subjects = this.getCareerSubjects(careerId);
+    const customDifficulties = {};
+    const performanceInsights = [];
+
+    subjects.forEach(s => {
+      let totalQ = 0;
+      let correctQ = 0;
+      if (dbInstance) {
+        try {
+          const stats = dbInstance.prepare(`
+            SELECT 
+              COUNT(*) as total,
+              SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as correct
+            FROM question_answers qa
+            JOIN questions q ON qa.question_id = q.id
+            WHERE qa.user_id = ? AND (qa.career_id = ? OR q.subject LIKE ?)
+          `).get(userId, careerId, `%${s.subject}%`);
+          
+          if (stats) {
+            totalQ = stats.total || 0;
+            correctQ = stats.correct || 0;
+          }
+        } catch (e) {
+          // fallback
+        }
+      }
+
+      const accRate = totalQ > 0 ? (correctQ / totalQ) * 100 : null;
+      let diffLevel = 2; // Padrão: Médio
+      let reason = 'Sem histórico suficiente de questões (Mantido em Médio)';
+
+      if (accRate !== null) {
+        if (accRate < 60) {
+          diffLevel = 4; // Crítico (x1.7)
+          reason = `Aproveitamento Crítico (${accRate.toFixed(0)}%) -> +70% carga para recuperação urgente`;
+        } else if (accRate < 75) {
+          diffLevel = 3; // Difícil (x1.35)
+          reason = `Aproveitamento Vulnerável (${accRate.toFixed(0)}%) -> +35% carga de reforço focado`;
+        } else if (accRate >= 85) {
+          diffLevel = 1; // Fácil / Dominado (x0.75)
+          reason = `Aproveitamento Excelente (${accRate.toFixed(0)}%) -> Carga reduzida para manutenção ágil`;
+        } else {
+          diffLevel = 2; // Médio (x1.0)
+          reason = `Aproveitamento Estável (${accRate.toFixed(0)}%) -> Carga padrão equilibrada`;
+        }
+      }
+
+      customDifficulties[s.subject] = diffLevel;
+      performanceInsights.push({
+        subject: s.subject,
+        accuracy: accRate !== null ? Number(accRate.toFixed(1)) : null,
+        totalQuestions: totalQ,
+        difficultyLevel: diffLevel,
+        reason
+      });
+    });
+
+    const modelType = currentCycle?.model_type || 'adaptativo';
+    const weeklyHours = currentCycle?.weekly_hours || 20;
+    const blockDurationMinutes = currentCycle?.block_duration_minutes || 60;
+    const examDate = currentCycle?.exam_date || null;
+    const completedCount = currentCycle?.completed_cycles_count || 0;
+
+    const generated = this.generateCycle({
+      userId,
+      careerId,
+      modelType,
+      weeklyHours,
+      blockDurationMinutes,
+      examDate,
+      customDifficulties,
+      cycleName: `Ciclo Adaptativo Calibrado (Volta #${completedCount + 1})`
+    });
+
+    return {
+      ...generated,
+      performanceInsights
+    };
+  }
+
   static getModelLabel(modelType) {
     const map = {
       adaptativo: 'Adaptativo Inteligente',

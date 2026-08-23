@@ -544,5 +544,29 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
+## 29. Esteira de Rotação Contínua & Motor de Transição Adaptativa por Desempenho Real (v6.9.0)
+
+1. **⚙️ Funcionamento da Esteira de Rotação Contínua**:
+   - Em vez de uma grade estática de segunda a domingo (que acumula atrasos diante de imprevistos), o ciclo opera como uma esteira ininterrupta de $N$ blocos de estudo.
+   - O aluno avança no seu próprio ritmo diário e nunca perde matérias.
+   - Algoritmo de **Interleaving Anti-Fadiga Cognitiva**: organiza os blocos alternando sistematicamente os 3 eixos neurológicos (*Jurídico*, *Exatas, TI & Dados* e *Humanas & Linguagens*), impedindo saturação cerebral.
+
+2. **⚖️ Proporção do Edital & Foco no Eixo Jurídico**:
+   - Na Receita Federal (ATRFB/AFRFB), as disciplinas jurídicas (*Direito Tributário, Legislação Tributária, Legislação Aduaneira, Constitucional, Administrativo e Previdenciário*) representam **mais de 60% dos pontos da prova objetiva e quase 100% da prova discursiva**.
+   - Por essa razão, a esteira aloca proporcionalmente mais blocos de 60 min para essas disciplinas, garantindo esforço proporcional onde a pontuação do concurso é decidida.
+
+3. **🔄 As 4 Bases de Dados da Transição Adaptativa (Volta 1 $\rightarrow$ Volta 2 $\rightarrow$ Volta 3)**:
+   - **Base 1 — Taxa Real de Acertos (`question_answers`)**: Disciplinas vulneráveis ($<65\%$ de acertos) têm sua dificuldade elevada para Nível 3 ou 4 ($1.35\times$ a $1.7\times$), ganhando mais blocos na esteira da volta seguinte. Disciplinas dominadas ($>85\%$) são reduzidas para manutenção ágil ($0.75\times$).
+   - **Base 2 — Densidade de Erros no Caderno de Erros (`caderno_erros`)**: Prioriza revisões conceituais em disciplinas com pegadinhas pendentes.
+   - **Base 3 — Conclusão Teórica na Sala de Estudos (`study_materials`)**: Disciplinas com teoria 100% concluída migram para resolução ativa de questões.
+   - **Base 4 — Proximidade da Prova (`exam_date`)**: Na reta final ($<30$ dias), a esteira transita para o modelo Pareto 80/20.
+
+4. **⚡ Recalibração Automática em 1 Clique**:
+   - Novo endpoint `POST /api/study-cycles/rebalance` no backend (`server/services/StudyCycleService.js`).
+   - Novo botão **"⚡ Recalibrar com Desempenho Real"** e painel de diagnóstico na interface (`StudyCyclePage.tsx`), exibindo a distribuição percentual dos 3 eixos e a transição para a próxima volta.
+
+---
+
 *Gabarito.AI — O Ecossistema Definitivo para Aprovação em Concursos Públicos.*
+
 

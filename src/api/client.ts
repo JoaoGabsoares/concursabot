@@ -581,6 +581,13 @@ export class ApiClient {
     });
   }
 
+  public rebalanceStudyCycle(userId?: string, careerId?: string, saveImmediately: boolean = true): Promise<{ success: boolean; message: string; cycle: StudyCycle; performanceInsights?: any[] }> {
+    return this.request<{ success: boolean; message: string; cycle: StudyCycle; performanceInsights?: any[] }>('/study-cycles/rebalance', {
+      method: 'POST',
+      body: JSON.stringify({ userId, careerId, saveImmediately })
+    });
+  }
+
   public updateStudyCycleBlock(blockId: number, data: Partial<StudyCycleBlock>): Promise<StudyCycleBlock> {
     return this.request<StudyCycleBlock>(`/study-cycles/blocks/${blockId}`, {
       method: 'PUT',

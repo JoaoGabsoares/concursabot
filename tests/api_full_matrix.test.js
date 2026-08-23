@@ -586,6 +586,21 @@ export async function runFullMatrixSuite(targetBaseUrl = null) {
         body: { duration_minutes: 75, difficulty_level: 3 }
       });
     });
+
+    await recordTest('StudyCycles', '/api/study-cycles/rebalance [Recalibração Adaptativa]', 'POST', 200, async () => {
+      const res = await request('/api/study-cycles/rebalance', {
+        method: 'POST',
+        headers: { 'Authorization': `Bearer ${tokenA}` },
+        body: {
+          userId: profileA.id,
+          careerId: 'atrfb',
+          saveImmediately: true
+        }
+      });
+      assert.ok(res.body?.success, 'Recalibração deve ter sucesso');
+      assert.ok(res.body?.cycle?.blocks?.length > 0, 'Ciclo recalibrado deve conter blocos');
+      return res;
+    });
   }
 
   // =========================================================================
