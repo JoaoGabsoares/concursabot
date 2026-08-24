@@ -25,8 +25,15 @@ const StandalonePdfReaderPage = React.lazy(() => import('./features/study-room/S
 const ReaderHubPage = React.lazy(() => import('./features/reader/ReaderHubPage').then(m => ({ default: m.ReaderHubPage })));
 import { ToastProvider } from './components/Toast';
 import { ErrorBoundary } from './components/ErrorBoundary';
+import { useAppRouter } from './router';
 
 export const App: React.FC = () => {
+  const { route, navigate } = useAppRouter();
+  const activeTab = route.tab;
+  const standaloneReaderId = (route.tab === 'reader' && route.paramId) ? route.paramId : null;
+
+  const setActiveTab = (tab: ActiveTab) => navigate(tab);
+
   const [isDark, setIsDark] = useState<boolean>(() => {
     return localStorage.getItem('THEME') !== 'light';
   });
@@ -35,31 +42,9 @@ export const App: React.FC = () => {
     return localStorage.getItem('SELECTED_CAREER') || 'atrfb';
   });
 
-  const [activeTab, setActiveTab] = useState<ActiveTab>('dashboard');
-  const [standaloneReaderId, setStandaloneReaderId] = useState<number | null>(null);
   const [pendingErrorsCount, setPendingErrorsCount] = useState<number>(0);
   const [user, setUser] = useState<UserProfile | null>(null);
   const [loadingUser, setLoadingUser] = useState<boolean>(true);
-
-  // Hash listener para rota standalone #/reader/:id
-  useEffect(() => {
-    const handleHash = () => {
-      const hash = window.location.hash;
-      if (hash.startsWith('#/reader/')) {
-        const idStr = hash.replace('#/reader/', '');
-        const id = parseInt(idStr, 10);
-        if (!isNaN(id)) {
-          setStandaloneReaderId(id);
-          return;
-        }
-      }
-      setStandaloneReaderId(null);
-    };
-
-    handleHash();
-    window.addEventListener('hashchange', handleHash);
-    return () => window.removeEventListener('hashchange', handleHash);
-  }, []);
 
   // Apply theme class to <html>
   useEffect(() => {
@@ -227,8 +212,7 @@ export const App: React.FC = () => {
             <StandalonePdfReaderPage
               materialId={standaloneReaderId}
               onBack={() => {
-                setStandaloneReaderId(null);
-                window.location.hash = '';
+                navigate('reader');
               }}
             />
           </React.Suspense>

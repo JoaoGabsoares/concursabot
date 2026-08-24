@@ -50,6 +50,14 @@ export const ReaderHubPage: React.FC<ReaderHubPageProps> = ({
   const fetchMaterials = async () => {
     setLoading(true);
     try {
+      const hash = window.location.hash;
+      let targetIdFromHash: number | null = null;
+      if (hash.includes('/reader/') || hash.includes('/leitor/')) {
+        const parts = hash.split('/');
+        const lastPart = parseInt(parts[parts.length - 1], 10);
+        if (!isNaN(lastPart)) targetIdFromHash = lastPart;
+      }
+
       const res = await api.getMaterials(careerId);
       if (res && res.materials) {
         // Filter only materials with actual PDF files
@@ -57,11 +65,14 @@ export const ReaderHubPage: React.FC<ReaderHubPageProps> = ({
         setMaterials(pdfMats);
 
         if (pdfMats.length > 0) {
-          // Keep current selection or default to first
-          setSelectedMaterialId((prev) => {
-            if (prev && pdfMats.some((m: any) => m.id === prev)) return prev;
-            return pdfMats[0].id;
-          });
+          if (targetIdFromHash && pdfMats.some((m: any) => m.id === targetIdFromHash)) {
+            setSelectedMaterialId(targetIdFromHash);
+          } else {
+            setSelectedMaterialId((prev) => {
+              if (prev && pdfMats.some((m: any) => m.id === prev)) return prev;
+              return pdfMats[0].id;
+            });
+          }
         }
       }
     } catch (err) {

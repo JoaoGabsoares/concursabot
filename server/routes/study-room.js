@@ -1502,11 +1502,11 @@ router.get('/materials/:id/pace', (req, res) => {
 // GET /materials/:id/highlights — Lista grifos e anotações do material
 router.get('/materials/:id/highlights', (req, res) => {
   try {
-    const { id } = req.params;
+    const id = parseInt(req.params.id, 10) || req.params.id;
     const userId = getAuthenticatedUserId(req);
     const page = req.query.page ? parseInt(req.query.page, 10) : null;
 
-    let sql = `SELECT * FROM material_highlights WHERE material_id = ? AND user_id = ?`;
+    let sql = `SELECT * FROM material_highlights WHERE material_id = ? AND (user_id = ? OR user_id = 'anonymous_user')`;
     const params = [id, userId];
 
     if (page) {
@@ -1532,7 +1532,7 @@ router.get('/materials/:id/highlights', (req, res) => {
 // POST /materials/:id/highlights — Cria novo grifo com persistência e recompensa de XP
 router.post('/materials/:id/highlights', (req, res) => {
   try {
-    const { id } = req.params;
+    const id = parseInt(req.params.id, 10) || req.params.id;
     const userId = getAuthenticatedUserId(req);
     const { page_number = 1, text, color = 'yellow', note = null, position = null } = req.body;
 
@@ -1571,14 +1571,14 @@ router.post('/materials/:id/highlights', (req, res) => {
   }
 });
 
-// PUT /highlights/:id — Atualiza cor ou nota de um grifo
-router.put('/highlights/:id', (req, res) => {
+// PUT /highlights/:id e /materials/:matId/highlights/:id — Atualiza cor ou nota de um grifo
+const updateHighlightHandler = (req, res) => {
   try {
-    const { id } = req.params;
+    const id = parseInt(req.params.id, 10) || req.params.id;
     const userId = getAuthenticatedUserId(req);
     const { color, note } = req.body;
 
-    const existing = db.prepare(`SELECT * FROM material_highlights WHERE id = ? AND user_id = ?`).get(id, userId);
+    const existing = db.prepare(`SELECT * FROM material_highlights WHERE id = ? AND (user_id = ? OR user_id = 'anonymous_user')`).get(id, userId);
     if (!existing) {
       return res.status(404).json({ error: 'Grifo não encontrado.' });
     }
@@ -1587,7 +1587,7 @@ router.put('/highlights/:id', (req, res) => {
     const newColor = color && validColors.includes(color) ? color : existing.color;
     const newNote = note !== undefined ? (note ? note.trim() : null) : existing.note;
 
-    db.prepare(`UPDATE material_highlights SET color = ?, note = ? WHERE id = ? AND user_id = ?`).run(newColor, newNote, id, userId);
+    db.prepare(`UPDATE material_highlights SET color = ?, note = ? WHERE id = ?`).run(newColor, newNote, id);
 
     const updated = db.prepare(`SELECT * FROM material_highlights WHERE id = ?`).get(id);
 
@@ -1602,27 +1602,31 @@ router.put('/highlights/:id', (req, res) => {
     logger.error('STUDY_ROOM', 'Erro ao atualizar grifo:', error);
     res.status(500).json({ error: 'Falha ao atualizar grifo: ' + error.message });
   }
-});
+};
+router.put('/highlights/:id', updateHighlightHandler);
+router.put('/materials/:materialId/highlights/:id', updateHighlightHandler);
 
-// DELETE /highlights/:id — Remove um grifo
-router.delete('/highlights/:id', (req, res) => {
+// DELETE /highlights/:id e /materials/:matId/highlights/:id — Remove um grifo
+const deleteHighlightHandler = (req, res) => {
   try {
-    const { id } = req.params;
+    const id = parseInt(req.params.id, 10) || req.params.id;
     const userId = getAuthenticatedUserId(req);
 
-    const existing = db.prepare(`SELECT id FROM material_highlights WHERE id = ? AND user_id = ?`).get(id, userId);
+    const existing = db.prepare(`SELECT id FROM material_highlights WHERE id = ? AND (user_id = ? OR user_id = 'anonymous_user')`).get(id, userId);
     if (!existing) {
       return res.status(404).json({ error: 'Grifo não encontrado.' });
     }
 
-    db.prepare(`DELETE FROM material_highlights WHERE id = ? AND user_id = ?`).run(id, userId);
+    db.prepare(`DELETE FROM material_highlights WHERE id = ?`).run(id);
 
     res.json({ success: true, message: 'Grifo removido com sucesso.' });
   } catch (error) {
     logger.error('STUDY_ROOM', 'Erro ao remover grifo:', error);
     res.status(500).json({ error: 'Falha ao remover grifo: ' + error.message });
   }
-});
+};
+router.delete('/highlights/:id', deleteHighlightHandler);
+router.delete('/materials/:materialId/highlights/:id', deleteHighlightHandler);
 
 // POST /materials/:id/explain-excerpt — Explicação instantânea de trecho selecionado via Gemini 3.6 Flash
 router.post('/materials/:id/explain-excerpt', async (req, res) => {

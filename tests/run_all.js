@@ -11,6 +11,7 @@ import { runV35FixesTests } from './integration/v3_5_fixes.test.js';
 import { runStudyCyclesTests } from './integration/study_cycles.test.js';
 import { runRagKnowledgeTests } from './integration/rag_knowledge.test.js';
 import { runGamificationAndCyclesSimulation } from './gamification_and_cycles_simulation.test.js';
+import { runMultipagesAndHighlightsTests } from './integration/multipages_and_pdf_highlights.test.js';
 import { runFullMatrixSuite } from './api_full_matrix.test.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -70,6 +71,7 @@ async function main() {
     await runStudyCyclesTests(TEST_BASE_URL);
     await runRagKnowledgeTests(TEST_BASE_URL);
     await runGamificationAndCyclesSimulation();
+    await runMultipagesAndHighlightsTests();
     await runFullMatrixSuite(TEST_BASE_URL);
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(2);

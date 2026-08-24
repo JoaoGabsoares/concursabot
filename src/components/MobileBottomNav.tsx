@@ -1,5 +1,6 @@
 import React from 'react';
 import { ActiveTab } from '../types';
+import { getHrefForTab } from '../router';
 
 interface MobileBottomNavProps {
   activeTab: ActiveTab;
@@ -16,7 +17,7 @@ export const MobileBottomNav: React.FC<MobileBottomNavProps> = ({
     { id: 'dashboard' as ActiveTab, label: 'Início' },
     { id: 'ciclos' as ActiveTab, label: 'Ciclos' },
     { id: 'study' as ActiveTab, label: 'Estudo' },
-    { id: 'simulados' as ActiveTab, label: 'Simulado' },
+    { id: 'reader' as ActiveTab, label: 'Leitor' },
     { id: 'erros' as ActiveTab, label: 'Erros', badge: pendingErrorsCount },
   ];
 
@@ -34,10 +35,16 @@ export const MobileBottomNav: React.FC<MobileBottomNavProps> = ({
             (tab.id === 'erros' && activeTab === 'error-notebook');
 
           return (
-            <button
+            <a
               key={tab.id}
-              onClick={() => onNavigate(tab.id)}
-              className={`relative flex items-center justify-center min-h-[44px] py-2 px-3.5 rounded-lg text-xs sm:text-sm font-semibold transition-all select-none ${
+              href={getHrefForTab(tab.id)}
+              onClick={(e) => {
+                if (!e.ctrlKey && !e.metaKey && !e.shiftKey && e.button === 0) {
+                  e.preventDefault();
+                  onNavigate(tab.id);
+                }
+              }}
+              className={`relative flex items-center justify-center min-h-[44px] py-2 px-3 rounded-lg text-xs sm:text-sm font-semibold transition-all select-none cursor-pointer ${
                 isActive
                   ? 'text-[var(--accent-primary)] font-bold bg-[var(--accent-primary-glow)] border-b-2 border-[var(--accent-primary)]'
                   : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
@@ -49,7 +56,7 @@ export const MobileBottomNav: React.FC<MobileBottomNavProps> = ({
                   [{tab.badge}]
                 </span>
               ) : null}
-            </button>
+            </a>
           );
         })}
       </div>

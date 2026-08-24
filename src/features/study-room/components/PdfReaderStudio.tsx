@@ -21,7 +21,8 @@ import {
   Clock,
   ArrowRight,
   FileText,
-  RotateCcw
+  RotateCcw,
+  X
 } from 'lucide-react';
 import { api } from '../../../api/client';
 import { MaterialHighlight } from '../../../types';
@@ -94,7 +95,10 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
   // Highlights & Notes Engine
   const [highlights, setHighlights] = useState<MaterialHighlight[]>([]);
   const [selectedText, setSelectedText] = useState<string>('');
+  const [selectedRects, setSelectedRects] = useState<Array<{ left: number; top: number; width: number; height: number }>>([]);
   const [selectionPosition, setSelectionPosition] = useState<{ x: number; y: number } | null>(null);
+  const [activeHighlightPopover, setActiveHighlightPopover] = useState<MaterialHighlight | null>(null);
+  const [popoverPos, setPopoverPos] = useState<{ x: number; y: number } | null>(null);
 
   // AI Tutor Drawer
   const [aiDrawerOpen, setAiDrawerOpen] = useState<boolean>(false);
@@ -334,14 +338,26 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
     if (!selection || selection.isCollapsed || !selection.toString().trim()) {
       setSelectionPosition(null);
       setSelectedText('');
+      setSelectedRects([]);
       return;
     }
 
     const text = selection.toString().trim();
-    if (text.length > 0) {
+    if (text.length > 0 && textLayerRef.current) {
       const range = selection.getRangeAt(0);
+      const layerRect = textLayerRef.current.getBoundingClientRect();
       const rect = range.getBoundingClientRect();
+      const clientRects = Array.from(range.getClientRects());
+      
+      const normalizedRects = clientRects.map((r) => ({
+        left: (r.left - layerRect.left) / scale,
+        top: (r.top - layerRect.top) / scale,
+        width: r.width / scale,
+        height: r.height / scale
+      })).filter((r) => r.width > 0 && r.height > 0);
+
       setSelectedText(text);
+      setSelectedRects(normalizedRects);
       setSelectionPosition({
         x: rect.left + rect.width / 2,
         y: rect.top
@@ -351,23 +367,43 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
 
   // Save Highlight
   const handleSaveHighlight = async (color: 'yellow' | 'green' | 'purple' | 'red' | 'blue', note?: string) => {
+    const text = selectedText;
+    const rects = [...selectedRects];
+    const tempId = Date.now();
+
+    // Feedback visual imediato (otimista)
+    const optimisticHighlight: MaterialHighlight = {
+      id: tempId,
+      material_id: typeof materialId === 'string' ? parseInt(materialId, 10) || 0 : materialId,
+      user_id: '',
+      page_number: currentPage,
+      text,
+      color,
+      note: note || undefined,
+      position: { rects },
+      created_at: new Date().toISOString()
+    };
+    setHighlights((prev) => [...prev, optimisticHighlight]);
+
+    window.getSelection()?.removeAllRanges();
+    setSelectionPosition(null);
+    setSelectedText('');
+    setSelectedRects([]);
+
     try {
       const res = await api.createMaterialHighlight(materialId, {
         page_number: currentPage,
-        text: selectedText,
+        text,
         color,
-        note
+        note,
+        position: { rects }
       });
 
       if (res && res.highlight) {
-        setHighlights((prev) => [...prev, res.highlight]);
+        setHighlights((prev) => prev.map((h) => (h.id === tempId ? res.highlight : h)));
       }
     } catch (err) {
       console.error('Erro ao salvar grifo:', err);
-    } finally {
-      window.getSelection()?.removeAllRanges();
-      setSelectionPosition(null);
-      setSelectedText('');
     }
   };
 
@@ -918,6 +954,35 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
               {/* PDF Vector Canvas */}
               <canvas ref={canvasRef} className="block select-none" />
 
+              {/* Real Visual Highlight Overlay Layer */}
+              <div className="pdf-highlight-layer absolute inset-0 overflow-hidden">
+                {pageHighlights.map((h) => {
+                  const colorClass = `pdf-highlight-${h.color || 'yellow'}`;
+                  const rects = h.position?.rects || [];
+                  if (rects.length > 0) {
+                    return rects.map((r: any, idx: number) => (
+                      <div
+                        key={`${h.id}-${idx}`}
+                        className={`pdf-highlight-rect ${colorClass}`}
+                        style={{
+                          left: `${r.left * scale}px`,
+                          top: `${r.top * scale}px`,
+                          width: `${r.width * scale}px`,
+                          height: `${r.height * scale}px`,
+                        }}
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setActiveHighlightPopover(h);
+                          setPopoverPos({ x: e.clientX, y: e.clientY });
+                        }}
+                        title={h.note ? `Nota: ${h.note}` : `Grifo: ${h.text}`}
+                      />
+                    ));
+                  }
+                  return null;
+                })}
+              </div>
+
               {/* Text Selection Layer */}
               <div
                 ref={textLayerRef}
@@ -926,13 +991,18 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
 
               {/* Persistent Highlight Badges Marker Layer */}
               {pageHighlights.length > 0 && (
-                <div className="absolute top-2 right-2 flex flex-col gap-1 pointer-events-none">
+                <div className="absolute top-2 right-2 flex flex-col gap-1 pointer-events-none z-20">
                   {pageHighlights.map((h) => {
                     const c = HIGHLIGHT_COLORS.find((cfg) => cfg.id === h.color) || HIGHLIGHT_COLORS[0];
                     return (
                       <span
                         key={h.id}
-                        className="px-2 py-0.5 rounded-full text-[10px] font-bold shadow-md pointer-events-auto cursor-pointer"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setActiveHighlightPopover(h);
+                          setPopoverPos({ x: e.clientX, y: e.clientY });
+                        }}
+                        className="px-2 py-0.5 rounded-full text-[10px] font-bold shadow-md pointer-events-auto cursor-pointer hover:scale-105 transition-transform"
                         style={{ backgroundColor: c.bg, color: c.text }}
                         title={h.note ? `Nota: ${h.note}` : `Grifo: ${h.text}`}
                       >
@@ -945,6 +1015,81 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
             </div>
           )}
         </main>
+
+        {/* POPOVER DE AÇÃO DO GRIFO EXISTENTE */}
+        {activeHighlightPopover && popoverPos && (
+          <div
+            className="fixed z-50 transform -translate-x-1/2 -translate-y-full mb-3 animate-in fade-in zoom-in-95 duration-150"
+            style={{ left: `${popoverPos.x}px`, top: `${popoverPos.y}px` }}
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="bg-[var(--bg-card)] border border-[var(--border-strong)] rounded-xl shadow-2xl p-3 flex flex-col gap-2 text-xs font-sans text-[var(--text-primary)] backdrop-blur-md min-w-[260px] max-w-[340px]">
+              <div className="flex items-center justify-between border-b border-[var(--border-subtle)] pb-2">
+                <div className="flex items-center gap-1.5 font-bold">
+                  <span>{HIGHLIGHT_COLORS.find((c) => c.id === activeHighlightPopover.color)?.badge || '🟡'}</span>
+                  <span>{HIGHLIGHT_COLORS.find((c) => c.id === activeHighlightPopover.color)?.name || 'Grifo'}</span>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => { setActiveHighlightPopover(null); setPopoverPos(null); }}
+                  className="p-1 rounded-lg hover:bg-[var(--bg-hover)] text-[var(--text-muted)] cursor-pointer"
+                >
+                  <X className="w-3.5 h-3.5" />
+                </button>
+              </div>
+
+              {activeHighlightPopover.note ? (
+                <div className="p-2 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[11px] text-[var(--text-secondary)]">
+                  <span className="font-bold text-[var(--accent-primary)] block mb-0.5">📝 Nota de Margem:</span>
+                  <p>{activeHighlightPopover.note}</p>
+                </div>
+              ) : (
+                <p className="text-[11px] text-[var(--text-muted)] italic line-clamp-3">
+                  "{activeHighlightPopover.text}"
+                </p>
+              )}
+
+              <div className="flex items-center justify-between pt-1 gap-1.5">
+                <button
+                  type="button"
+                  onClick={() => {
+                    const text = activeHighlightPopover.text;
+                    setActiveHighlightPopover(null);
+                    setPopoverPos(null);
+                    setAiExcerpt(text);
+                    setAiDrawerOpen(true);
+                    setAiLoading(true);
+                    api.explainPdfExcerpt(materialId, {
+                      text,
+                      page_number: currentPage,
+                      subject,
+                      topic: title
+                    }).then(res => {
+                      if (res && res.explanation) setAiExplanation(res.explanation);
+                    }).finally(() => setAiLoading(false));
+                  }}
+                  className="px-2.5 py-1.5 rounded-lg font-bold bg-[var(--accent-primary-glow)] hover:bg-[var(--accent-primary)] text-[var(--accent-primary)] hover:text-white transition-all flex items-center gap-1 cursor-pointer flex-1 justify-center border border-[var(--accent-primary)]/20 shadow-xs"
+                >
+                  <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+                  <span>Explicar com IA</span>
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => {
+                    handleDeleteHighlight(activeHighlightPopover.id);
+                    setActiveHighlightPopover(null);
+                    setPopoverPos(null);
+                  }}
+                  className="p-1.5 rounded-lg hover:bg-red-500/10 text-red-500 transition-colors cursor-pointer"
+                  title="Remover Grifo"
+                >
+                  <Trash2 className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
 
         {/* SELECTION HUD (FLOATING ACTION BAR) */}
         <PdfSelectionHUD

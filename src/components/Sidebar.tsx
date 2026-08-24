@@ -4,6 +4,7 @@ import { CAREERS_LIST, getCareerById } from '../utils/careers';
 import { getConcurseiroRank } from '../utils/gamification';
 import { ChevronDown, Check } from 'lucide-react';
 import { CarimboStatus } from './UIPrimitives';
+import { getHrefForTab } from '../router';
 
 interface SidebarProps {
   user: UserProfile | null;
@@ -145,9 +146,15 @@ export const Sidebar: React.FC<SidebarProps> = ({
                 const isActive = activeTab === item.id || (item.id === 'edital' && activeTab === 'edital');
 
                 return (
-                  <button
+                  <a
                     key={item.id}
-                    onClick={() => onNavigate(item.id)}
+                    href={getHrefForTab(item.id)}
+                    onClick={(e) => {
+                      if (!e.ctrlKey && !e.metaKey && !e.shiftKey && e.button === 0) {
+                        e.preventDefault();
+                        onNavigate(item.id);
+                      }
+                    }}
                     className={`w-full flex items-center justify-between px-3 py-2.5 rounded-xl text-xs font-mono transition-all cursor-pointer ${
                       isActive
                         ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] border-l-[3px] border-[var(--accent-primary)] shadow-sm font-bold'
@@ -160,7 +167,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                         {item.badge}
                       </span>
                     ) : null}
-                  </button>
+                  </a>
                 );
               })}
             </div>

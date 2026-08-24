@@ -165,9 +165,11 @@ export interface MaterialHighlight {
   position?: {
     x?: number;
     y?: number;
+    left?: number;
+    top?: number;
     width?: number;
     height?: number;
-    rects?: Array<{ x: number; y: number; width: number; height: number }>;
+    rects?: Array<{ x?: number; y?: number; left?: number; top?: number; width: number; height: number }>;
   } | null;
   created_at: string;
 }

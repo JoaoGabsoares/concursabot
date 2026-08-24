@@ -399,3 +399,65 @@ html:not(.dark) ::-webkit-scrollbar-thumb:hover {
   filter: none;
   background-color: #ffffff;
 }
+
+/* ============================================================ */
+/* PDF REAL HIGHLIGHT OVERLAY LAYER                            */
+/* ============================================================ */
+.pdf-highlight-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 15;
+}
+
+.pdf-highlight-rect {
+  position: absolute;
+  pointer-events: auto;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: transform 0.1s ease, filter 0.15s ease;
+  mix-blend-mode: multiply;
+}
+
+:is(.dark, .reader-dark) .pdf-highlight-rect {
+  mix-blend-mode: screen;
+}
+
+.pdf-highlight-rect:hover {
+  filter: brightness(1.2);
+  transform: scale(1.01);
+  box-shadow: 0 0 0 1.5px currentColor;
+}
+
+.pdf-highlight-yellow {
+  background-color: rgba(250, 204, 21, 0.45);
+  border-bottom: 2px solid #eab308;
+  color: #eab308;
+}
+
+.pdf-highlight-green {
+  background-color: rgba(74, 222, 128, 0.45);
+  border-bottom: 2px solid #22c55e;
+  color: #22c55e;
+}
+
+.pdf-highlight-purple {
+  background-color: rgba(192, 132, 252, 0.45);
+  border-bottom: 2px solid #a855f7;
+  color: #a855f7;
+}
+
+.pdf-highlight-red {
+  background-color: rgba(248, 113, 113, 0.45);
+  border-bottom: 2px solid #ef4444;
+  color: #ef4444;
+}
+
+.pdf-highlight-blue {
+  background-color: rgba(96, 165, 250, 0.45);
+  border-bottom: 2px solid #3b82f6;
+  color: #3b82f6;
+}

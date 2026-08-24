@@ -3,6 +3,7 @@ import { UserProfile, ActiveTab } from '../types';
 import { getCareerById, CAREERS_LIST } from '../utils/careers';
 import { getConcurseiroRank } from '../utils/gamification';
 import { CarimboStatus } from './UIPrimitives';
+import { getHrefForTab } from '../router';
 import { 
   Menu, 
   X, 
@@ -374,13 +375,17 @@ export const Header: React.FC<HeaderProps> = ({
               {navMenuItems.map((item) => {
                 const isActive = activeTab === item.id || (item.id === 'settings' && activeTab.startsWith('settings'));
                 return (
-                  <button
+                  <a
                     key={item.id}
-                    onClick={() => {
-                      onNavigate(item.id);
-                      setMobileDrawerOpen(false);
+                    href={getHrefForTab(item.id as ActiveTab)}
+                    onClick={(e) => {
+                      if (!e.ctrlKey && !e.metaKey && !e.shiftKey && e.button === 0) {
+                        e.preventDefault();
+                        onNavigate(item.id);
+                        setMobileDrawerOpen(false);
+                      }
                     }}
-                    className={`w-full min-h-[44px] flex items-center justify-between p-2.5 rounded-lg text-xs font-semibold transition-all ${
+                    className={`w-full min-h-[44px] flex items-center justify-between p-2.5 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
                       isActive
                         ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border-l-4 border-[var(--accent-primary)] shadow-sm'
                         : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)]'
@@ -398,7 +403,7 @@ export const Header: React.FC<HeaderProps> = ({
                         {item.badge}
                       </span>
                     ) : null}
-                  </button>
+                  </a>
                 );
               })}
             </div>
