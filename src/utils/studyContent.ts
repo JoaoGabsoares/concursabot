@@ -1,4 +1,12 @@
-// Engine de Conteúdo Dinâmico por Carreira e Disciplina do Gabarito.AI
+export type TheoryDensityMode = 'doutrina_completa' | 'resumo_estrategico' | 'reta_final';
+
+export interface EditalSubtopic {
+  lessonNumber: number;
+  subject: string;
+  title: string;
+  keyTopics: string;
+  careerId?: string;
+}
 
 export interface ModuleQuestion {
   id: number;
@@ -12,7 +20,7 @@ export interface ModuleQuestion {
 }
 
 export interface ModulePage {
-  pageNumber: number; // 1 a 5
+  pageNumber: number;
   pageTitle: string;
   category: 'Doutrina & Teoria' | 'Esquemas & Tabelas' | 'Casos Práticos & Pegadinhas' | 'Lei Seca & Súmulas' | 'Fixação & Questões';
   leadText: string;
@@ -34,6 +42,7 @@ export interface DisciplineModule {
   totalPages: number;
   pages: ModulePage[];
   questions?: ModuleQuestion[];
+  densityMode?: TheoryDensityMode;
 }
 
 export interface LessonContent {

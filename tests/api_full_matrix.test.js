@@ -486,6 +486,79 @@ export async function runFullMatrixSuite(targetBaseUrl = null) {
     });
   }
 
+  // Subtópicos do Edital
+  await recordTest('StudyRoom', '/api/study-room/edital-subtopics', 'GET', 200, async () => {
+    return await request('/api/study-room/edital-subtopics?careerId=atrfb&subject=Direito%20Tribut%C3%A1rio', {
+      headers: { 'Authorization': `Bearer ${tokenA}`, 'x-user-id': profileA.id, 'x-exam-id': 'atrfb' }
+    });
+  });
+
+  // Bateria de Questões por Módulo
+  await recordTest('StudyRoom', '/api/study-room/module-questions', 'GET', 200, async () => {
+    return await request('/api/study-room/module-questions?subject=Direito%20Tribut%C3%A1rio&limit=5', {
+      headers: { 'Authorization': `Bearer ${tokenA}`, 'x-user-id': profileA.id, 'x-exam-id': 'atrfb' }
+    });
+  });
+
+  // Resposta de Questão de Fixação
+  await recordTest('StudyRoom', '/api/study-room/answer-question', 'POST', 200, async () => {
+    return await request('/api/study-room/answer-question', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${tokenA}`,
+        'x-user-id': profileA.id,
+        'x-exam-id': 'atrfb'
+      },
+      body: JSON.stringify({
+        questionText: 'Questão teste de imunidade tributária',
+        options: ['A', 'B', 'C', 'D', 'E'],
+        selectedAnswer: 'A',
+        correctIndex: 'A',
+        explanation: 'Gabarito oficial',
+        subject: 'Direito Tributário'
+      })
+    });
+  });
+
+  // Expansão de Lição Teórica
+  await recordTest('StudyRoom', '/api/study-room/expand-lesson', 'POST', 200, async () => {
+    return await request('/api/study-room/expand-lesson', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${tokenA}`,
+        'x-user-id': profileA.id,
+        'x-exam-id': 'atrfb'
+      },
+      body: JSON.stringify({
+        subject: 'Direito Tributário',
+        topic: 'Imunidades Constitucionais',
+        densityMode: 'doutrina_completa',
+        pagesCount: 5
+      })
+    });
+  });
+
+  // Geração de Baralho de Flashcards
+  await recordTest('StudyRoom', '/api/study-room/generate-flashcards', 'POST', 200, async () => {
+    return await request('/api/study-room/generate-flashcards', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${tokenA}`,
+        'x-user-id': profileA.id,
+        'x-exam-id': 'atrfb'
+      },
+      body: JSON.stringify({
+        subject: 'Direito Tributário',
+        topic: 'Princípios Tributários',
+        lessonContent: 'O princípio da anterioridade nonagesimal exige o transcurso de 90 dias.',
+        count: 5
+      })
+    });
+  });
+
   // =========================================================================
   // 6. STUDY CYCLES (CICLOS DE ESTUDOS INTELIGENTES)
   // =========================================================================

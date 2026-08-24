@@ -328,6 +328,69 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.strictEqual(regStudyFullData.success, true);
   assert.ok(regStudyFullData.xpGained >= 90, 'Deve computar XP de conclusão + bônus de questões');
   console.log(`  ✅ 13. Registro de Sessão de 1 Hora com Bateria de Questões (+${regStudyFullData.xpGained} XP): PASSOU`);
+
+  // 14. Testar GET /api/study-room/edital-subtopics (Árvore de Subtópicos do Edital)
+  const subtopicsRes = await fetch(`${baseUrl}/api/study-room/edital-subtopics?careerId=atrfb&subject=Direito%20Tribut%C3%A1rio`, {
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'atrfb'
+    }
+  });
+  const subtopicsData = await subtopicsRes.json();
+  assert.strictEqual(subtopicsRes.status, 200);
+  assert.strictEqual(subtopicsData.success, true);
+  assert.ok(Array.isArray(subtopicsData.subtopics));
+  assert.ok(subtopicsData.subtopics.length >= 5, 'Deve conter pelo menos 5 subtópicos do edital');
+  console.log(`  ✅ 14. Consulta de Subtópicos do Edital (${subtopicsData.subtopics.length} tópicos encontrados): PASSOU`);
+
+  // 15. Testar POST /api/study-room/expand-lesson (Expansão Infinita de Teoria Densa)
+  const expandRes = await fetch(`${baseUrl}/api/study-room/expand-lesson`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'tce_rj'
+    },
+    body: JSON.stringify({
+      materialId: genData.materialId,
+      subject: 'Controle Externo',
+      topic: 'Tomada de Contas Especial e Medidas Cautelares do TCE-RJ',
+      densityMode: 'doutrina_completa',
+      pagesCount: 5
+    })
+  });
+  const expandData = await expandRes.json();
+  assert.strictEqual(expandRes.status, 200);
+  assert.strictEqual(expandData.success, true);
+  assert.strictEqual(expandData.totalPages, 10, 'Apostila deve ter sido expandida para 10 páginas');
+  assert.strictEqual(expandData.lesson.pages.length, 10, 'Array de páginas deve conter 10 itens');
+  console.log(`  ✅ 15. Expansão Infinita de Teoria (+${expandData.addedCount} págs -> Total: ${expandData.totalPages} págs): PASSOU`);
+
+  // 16. Testar POST /api/study-room/generate-flashcards (Geração de Flashcards Anki)
+  const flashcardsRes = await fetch(`${baseUrl}/api/study-room/generate-flashcards`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'atrfb'
+    },
+    body: JSON.stringify({
+      subject: 'Direito Tributário',
+      topic: 'Imunidades Tributárias Recíprocas',
+      lessonContent: 'O art. 150, VI, a veda a cobrança de impostos sobre patrimônio, renda ou serviços entre os entes federativos.',
+      count: 5
+    })
+  });
+  const flashcardsData = await flashcardsRes.json();
+  assert.strictEqual(flashcardsRes.status, 200);
+  assert.strictEqual(flashcardsData.success, true);
+  assert.ok(flashcardsData.deckId, 'Deve criar ou recuperar deckId');
+  assert.strictEqual(flashcardsData.cards.length, 5, 'Deve retornar 5 flashcards estruturados');
+  assert.ok(flashcardsData.cards[0].front && flashcardsData.cards[0].back, 'Flashcards devem ter frente e verso');
+  console.log(`  ✅ 16. Geração de Flashcards Anki com Repetição Espaçada (${flashcardsData.cards.length} cards): PASSOU`);
 }
 
 if (process.argv[1]?.endsWith('study_room_cadence.test.js')) {

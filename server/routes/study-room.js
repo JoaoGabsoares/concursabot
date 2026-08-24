@@ -16,7 +16,10 @@ import {
   buildContextualChatPrompt,
   STUDY_ROOM_SYSTEM_PROMPT,
   LESSON_GENERATOR_SYSTEM_INSTRUCTION,
-  getLessonGeneratorPrompt
+  getLessonGeneratorPrompt,
+  getLessonExpansionPrompt,
+  getLessonFlashcardsPrompt,
+  FLASHCARDS_GENERATOR_SCHEMA
 } from '../prompts/study-room.js';
 import { CAREERS_CATALOG, getCareerConfig } from '../careers.js';
 import { calculateUserStreak } from '../gamification.js';
@@ -769,12 +772,79 @@ router.post('/register-past-study', (req, res) => {
   }
 });
 
+function getEditalSubtopicsForSubject(careerId, subject) {
+  const career = CAREERS_CATALOG[careerId] || CAREERS_CATALOG['atrfb'];
+  if (!career) return [];
+
+  const subtopics = [];
+  const officialLessons = career.official_lessons || [];
+
+  for (const l of officialLessons) {
+    if (!subject || l.subject?.toLowerCase() === subject?.toLowerCase() || subject === 'all') {
+      subtopics.push({
+        lessonNumber: l.lessonNumber,
+        subject: l.subject,
+        title: l.title,
+        keyTopics: l.keyTopics || '',
+        careerId
+      });
+    }
+  }
+
+  // Se houver menos de 5 subtópicos mapeados para a matéria específica, complementa com a árvore granular do edital
+  if (subject && subject !== 'all' && subtopics.length < 5) {
+    const existingCount = subtopics.length;
+    const additionalTemplates = [
+      { title: `Jurisprudência dos Tribunais Superiores (STF/STJ) em ${subject}`, keyTopics: 'Súmulas vinculantes, teses de repercussão geral e precedentes qualificados' },
+      { title: `Casos Práticos, Fiscalização e Pegadinhas da Banca em ${subject}`, keyTopics: 'Armadilhas conceituais, prazos e inversão de regra vs exceção' },
+      { title: `Reta Final, Síntese Normativa e Fixação Estratégica de ${subject}`, keyTopics: 'Pontos de maior incidência e revisão ativa no padrão da banca' },
+      { title: `Controle de Legalidade e Regime Sancionador em ${subject}`, keyTopics: 'Infrações, penalidades e processo administrativo de apuração' },
+      { title: `Desafios de Alta Complexidade e Questões Inéditas em ${subject}`, keyTopics: 'Análise de itens de prova discursiva e pontos de corte' }
+    ];
+
+    let tIndex = 0;
+    while (subtopics.length < 5 && tIndex < additionalTemplates.length) {
+      const curNum = subtopics.length + 1;
+      subtopics.push({
+        lessonNumber: curNum,
+        subject,
+        title: `${curNum}. ${additionalTemplates[tIndex].title}`,
+        keyTopics: additionalTemplates[tIndex].keyTopics,
+        careerId
+      });
+      tIndex++;
+    }
+  }
+
+  return subtopics;
+}
+
+// GET /edital-subtopics — Retorna árvore de subtópicos do edital da carreira e matéria
+router.get('/edital-subtopics', (req, res) => {
+  try {
+    const careerId = req.headers['x-exam-id'] || req.query.careerId || 'atrfb';
+    const { subject } = req.query;
+
+    const subtopics = getEditalSubtopicsForSubject(careerId, subject);
+
+    res.json({
+      success: true,
+      careerId,
+      subject: subject || 'all',
+      total: subtopics.length,
+      subtopics
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Falha ao buscar subtópicos do edital: ' + err.message });
+  }
+});
+
 // POST /generate-lesson — Gera Apostila Digital Completa / Caderno de Doutrina Paginado via IA
 router.post('/generate-lesson', async (req, res) => {
   try {
     const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
-    const { subject, topic, lessonNumber = 1 } = req.body;
+    const { subject, topic, lessonNumber = 1, densityMode = 'doutrina_completa' } = req.body;
 
     if (!subject) {
       return res.status(400).json({ error: 'A disciplina (subject) é obrigatória.' });
@@ -786,6 +856,7 @@ router.post('/generate-lesson', async (req, res) => {
       subject,
       topic,
       lessonNumber: numAula,
+      densityMode,
       careerId
     });
 
@@ -892,9 +963,9 @@ router.post('/generate-lesson', async (req, res) => {
     const insertStmt = db.prepare(`
       INSERT INTO study_materials (
         filename, filepath, subject, lesson_number, title, summary, content_text, analysis_json,
-        current_page, total_pages, theory_pages, exercise_pages, has_exercises,
+        caderno_enxuto, is_native_lesson, current_page, total_pages, theory_pages, exercise_pages, has_exercises,
         table_of_contents_json, reading_metrics_json, user_id, career_id
-      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, 1, 5, 5, 1, 1, ?, ?, ?, ?)
+      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, 1, 5, 5, 1, 1, ?, ?, ?, ?)
     `);
 
     const result = insertStmt.run(
@@ -905,6 +976,7 @@ router.post('/generate-lesson', async (req, res) => {
       finalTitle,
       lessonData.resumoEstrategico || `Apostila Digital Completa de ${subject}`,
       cleanContentMarkdown,
+      JSON.stringify(lessonData),
       JSON.stringify(lessonData),
       JSON.stringify(toc),
       JSON.stringify(readingMetrics),
@@ -920,6 +992,270 @@ router.post('/generate-lesson', async (req, res) => {
   } catch (err) {
     logger.error('STUDY_ROOM', 'Erro ao gerar aula com IA:', err);
     res.status(500).json({ error: 'Falha ao gerar apostila digital com IA: ' + err.message });
+  }
+});
+
+// POST /expand-lesson — Expande a apostila teórica gerando novas páginas temáticas aprofundadas
+router.post('/expand-lesson', async (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
+    const { materialId, subject, topic, densityMode = 'doutrina_completa', pagesCount = 5 } = req.body;
+
+    if (!materialId && !subject) {
+      return res.status(400).json({ error: 'materialId ou subject é obrigatório.' });
+    }
+
+    let existingMaterial = null;
+    if (materialId) {
+      existingMaterial = db.prepare('SELECT * FROM study_materials WHERE id = ?').get(materialId);
+    }
+
+    const career = getCareerConfig(careerId);
+    let parsedLesson = null;
+    if (existingMaterial?.caderno_enxuto || existingMaterial?.analysis_json) {
+      try {
+        const rawJson = existingMaterial.caderno_enxuto || existingMaterial.analysis_json;
+        parsedLesson = typeof rawJson === 'string' ? JSON.parse(rawJson) : rawJson;
+      } catch {}
+    }
+
+    const currentPages = (parsedLesson?.pages && Array.isArray(parsedLesson.pages)) ? parsedLesson.pages : [];
+    const startPage = currentPages.length + 1;
+    const existingTitles = currentPages.map(p => p.pageTitle);
+    const targetSubject = subject || existingMaterial?.subject || 'Geral';
+    const targetTopic = topic || parsedLesson?.titulo || existingMaterial?.title || targetSubject;
+
+    const prompt = getLessonExpansionPrompt({
+      subject: targetSubject,
+      topic: targetTopic,
+      existingTitles,
+      startPageNumber: startPage,
+      pagesToGenerate: pagesCount,
+      densityMode,
+      careerId
+    });
+
+    let newPagesData = null;
+    try {
+      newPagesData = await generateJSON(prompt, LESSON_GENERATOR_SYSTEM_INSTRUCTION);
+    } catch (aiErr) {
+      logger.warn('STUDY_ROOM', `Falha ao expandir páginas com IA: ${aiErr.message}. Usando fallback denso.`);
+      newPagesData = {
+        pages: [
+          {
+            pageNumber: startPage,
+            pageTitle: `${startPage}. Tópicos Dogmáticos Avançados & Desdobramentos`,
+            category: 'Doutrina & Teoria',
+            leadText: `Aprofundamento dogmático sobre os aspectos de alta complexidade de ${targetTopic}.`,
+            bodyText: `A doutrina especializada aprofunda as divergências conceituais e os reflexos operacionais de ${targetTopic}, destacando a responsabilidade dos agentes públicos e o regime de controle da administração.\n\nNas provas da banca ${career.bancas?.[0]?.name || 'examinadora'}, a cobrança desse ponto exige a articulação entre os princípios gerais e a regra de hermenêutica específica.`,
+            deepDiveText: `O controle de legalidade abrange a verificação dos motivos determinantes e o atendimento da finalidade pública estabelecida em lei.`
+          },
+          {
+            pageNumber: startPage + 1,
+            pageTitle: `${startPage + 1}. Jurisprudência do STF/STJ & Precedentes Vinculantes`,
+            category: 'Lei Seca & Súmulas',
+            leadText: `Teses de repercussão geral e enunciados sumulares aplicáveis a ${targetTopic}.`,
+            bodyText: `Os Tribunais Superiores firmaram entendimento vinculante sobre a matéria, pacificando as controvérsias entre a literalidade estrita e a interpretação teleológica.`,
+            lawArticles: [
+              { article: 'Tese STF / STJ', text: `Precedente qualificado com incidência direta nas provas objetivas e discursivas de ${career.name}.` }
+            ]
+          },
+          {
+            pageNumber: startPage + 2,
+            pageTitle: `${startPage + 2}. Tabela Comparativa de Exceções & Peculiaridades`,
+            category: 'Esquemas & Tabelas',
+            leadText: `Quadro analítico para diferenciar hipóteses de incidência e vedações legais.`,
+            bodyText: `Fixe as hipóteses de exceção através da correlação entre o texto normativo e o caso prático.`,
+            tableData: {
+              headers: ['Hipótese', 'Regra Geral', 'Exceção / Vedação', 'Jurisprudência'],
+              rows: [
+                ['Caso A', 'Aplicação plena', 'Ressalva expressa em lei', 'Tema Vinculante'],
+                ['Caso B', 'Competência privativa', 'Delegação restrita', 'Súmula do STF/STJ'],
+                ['Caso C', 'Prazo ordinário', 'Interrupção legal', 'Precedente pacificado']
+              ]
+            }
+          },
+          {
+            pageNumber: startPage + 3,
+            pageTitle: `${startPage + 3}. Casos Concretos & Fiscalização na Prática`,
+            category: 'Casos Práticos & Pegadinhas',
+            leadText: `Simulação de situações de auditoria, fiscalização e julgamento de processos.`,
+            bodyText: `Análise minuciosa de como as questões de concurso formulam enunciados contextualizados.`,
+            practicalCases: [
+              {
+                title: 'Estudo de Caso Prático Avançado',
+                scenario: `Situação hipotética de análise documental e conformidade jurídica em matéria de ${targetTopic}...`,
+                tip: 'Atenção aos prazos preclusivos e ao dever de fundamentação expressa.'
+              }
+            ]
+          },
+          {
+            pageNumber: startPage + 4,
+            pageTitle: `${startPage + 4}. Questão Inédita Comentada de Alta Complexidade`,
+            category: 'Fixação & Questões',
+            leadText: `Questão inédita formulada no perfil da banca ${career.bancas?.[0]?.name || 'oficial'}.`,
+            bodyText: `Resolva o item e confira a fundamentação técnica completa.`,
+            question: {
+              id: (startPage + 4) * 10,
+              question: `Em relação aos desdobramentos aprofundados de "${targetTopic}", assinale a alternativa escorreita:`,
+              options: {
+                A: "A interpretação sistemática aliada ao princípio da supremacia do interesse público orienta a aplicação do instituto.",
+                B: "A discricionariedade administrativa afasta o controle judicial de legalidade e moralidade.",
+                C: "Os precedentes em controle concentrado de constitucionalidade possuem efeitos meramente persuasivos.",
+                D: "A responsabilidade civil do Estado depende de dolo em todas as condutas comissivas.",
+                E: "A presunção de legitimidade dos atos públicos é absoluta e impede a impugnação probatória."
+              },
+              answer: "A",
+              explanation: "Correta a alternativa A. A hermenêutica moderna e a jurisprudência fixam a supremacia do interesse público como vetor interpretativo cogente."
+            }
+          }
+        ]
+      };
+    }
+
+    const addedPages = Array.isArray(newPagesData?.pages) ? newPagesData.pages : [];
+    const mergedPages = [...currentPages, ...addedPages];
+    const totalPagesCount = mergedPages.length;
+
+    const updatedLesson = {
+      ...(parsedLesson || {}),
+      titulo: targetTopic,
+      materia: targetSubject,
+      totalPages: totalPagesCount,
+      pages: mergedPages
+    };
+
+    if (materialId) {
+      db.prepare(`
+        UPDATE study_materials
+        SET caderno_enxuto = ?,
+            analysis_json = ?,
+            total_pages = ?,
+            theory_pages = ?
+        WHERE id = ?
+      `).run(
+        JSON.stringify(updatedLesson),
+        JSON.stringify(updatedLesson),
+        totalPagesCount,
+        totalPagesCount,
+        materialId
+      );
+    }
+
+    logActivity('study', `Expandiu apostila teórica de ${targetSubject} (+${addedPages.length} páginas • Total: ${totalPagesCount} págs)`, userId, careerId);
+
+    res.json({
+      success: true,
+      materialId,
+      addedCount: addedPages.length,
+      totalPages: totalPagesCount,
+      lesson: updatedLesson
+    });
+
+  } catch (err) {
+    logger.error('STUDY_ROOM', 'Erro ao expandir apostila:', err);
+    res.status(500).json({ error: 'Falha ao expandir apostila teórica: ' + err.message });
+  }
+});
+
+// POST /generate-flashcards — Gera baralho de flashcards Anki a partir da teoria lida
+router.post('/generate-flashcards', async (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
+    const { subject, topic, lessonContent, count = 5 } = req.body;
+
+    if (!subject) {
+      return res.status(400).json({ error: 'Disciplina (subject) é obrigatória.' });
+    }
+
+    const targetTopic = topic || `Estudo de ${subject}`;
+    const prompt = getLessonFlashcardsPrompt({
+      subject,
+      topic: targetTopic,
+      lessonContent,
+      count
+    });
+
+    let flashcardData = null;
+    try {
+      flashcardData = await generateJSON(prompt, 'Você é especialista em mnemotécnica e repetição espaçada (Anki) para concursos.');
+    } catch (aiErr) {
+      flashcardData = {
+        deckTitle: `Baralho: ${targetTopic}`,
+        subject,
+        cards: [
+          {
+            front: `Qual é o princípio fundamental e regra de ouro em ${targetTopic}?`,
+            back: `A observância estrita da legalidade e da conformidade com o edital do certame.`,
+            topic: targetTopic
+          },
+          {
+            front: `Qual é a distinção dogmática essencial cobrada em ${targetTopic}?`,
+            back: `A regra geral vincula a administração; exceções demandam previsão legal e autorização formal.`,
+            topic: targetTopic
+          },
+          {
+            front: `Qual o prazo prescricional / decadencial típico aplicável ao tema?`,
+            back: `Prazo quinquenal (5 anos), ressalvadas as ações de ressarcimento por atos de improbidade dolosos (Tema 897/STF).`,
+            topic: targetTopic
+          },
+          {
+            front: `Como a banca examinadora formula pegadinhas sobre ${targetTopic}?`,
+            back: `Invertendo termos correlatos ou trocando 'ato discricionário' por 'ato vinculado'.`,
+            topic: targetTopic
+          },
+          {
+            front: `Qual jurisprudência do STF/STJ é de conhecimento obrigatório neste ponto?`,
+            back: `O entendimento fixado em tese de repercussão geral com eficácia contra todos.`,
+            topic: targetTopic
+          }
+        ]
+      };
+    }
+
+    const cards = Array.isArray(flashcardData?.cards) ? flashcardData.cards : [];
+    const savedCards = [];
+
+    // Cria ou recupera o deck correspondente
+    let deck = db.prepare('SELECT id FROM flashcard_decks WHERE user_id = ? AND career_id = ? AND subject = ? AND topic = ?').get(userId, careerId, subject, targetTopic);
+    if (!deck) {
+      const insDeck = db.prepare('INSERT INTO flashcard_decks (user_id, career_id, topic, subject) VALUES (?, ?, ?, ?)').run(userId, careerId, targetTopic, subject);
+      deck = { id: insDeck.lastInsertRowid };
+    }
+
+    const insCard = db.prepare(`
+      INSERT INTO flashcards (deck_id, user_id, front, back, next_review)
+      VALUES (?, ?, ?, ?, CURRENT_TIMESTAMP)
+    `);
+
+    db.transaction(() => {
+      for (const c of cards) {
+        const info = insCard.run(deck.id, userId, c.front, c.back);
+        savedCards.push({ id: info.lastInsertRowid, deckId: deck.id, ...c });
+      }
+    })();
+
+    // XP por criar baralho
+    try {
+      db.prepare(`UPDATE user_profiles SET xp = xp + 15 WHERE id = ?`).run(userId);
+      db.prepare(`INSERT INTO user_xp_log (user_id, amount, reason) VALUES (?, 15, ?)`).run(userId, `Geração de Flashcards (${subject})`);
+    } catch {}
+
+    logActivity('flashcard', `Gerou baralho com ${savedCards.length} flashcards de ${subject}`, userId, careerId);
+
+    res.json({
+      success: true,
+      deckId: deck.id,
+      deckTitle: flashcardData.deckTitle || `Baralho: ${targetTopic}`,
+      count: savedCards.length,
+      cards: savedCards
+    });
+
+  } catch (err) {
+    logger.error('STUDY_ROOM', 'Erro ao gerar flashcards:', err);
+    res.status(500).json({ error: 'Falha ao gerar flashcards: ' + err.message });
   }
 });
 

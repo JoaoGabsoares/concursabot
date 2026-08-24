@@ -311,10 +311,16 @@ ESTRUTURA OBRIGATÓRIA DO JSON:
 }
 `;
 
-export function getLessonGeneratorPrompt({ subject, topic, lessonNumber = 1, careerId = 'atrfb' }) {
+export function getLessonGeneratorPrompt({ subject, topic, lessonNumber = 1, densityMode = 'doutrina_completa', careerId = 'atrfb' }) {
   const career = getCareerConfig(careerId);
   const examContext = getExamContextForCareer(careerId);
   const benchmarkContext = getBenchmarkContextForCareer(careerId);
+
+  const densityInstruction = densityMode === 'doutrina_completa'
+    ? 'MODO DOUTRINA COMPLETA: Desenvolva explicações densas, correntes doutrinárias divergentes, jurisprudência do STF/STJ/CARF comentada e fundamentos normativos detalhados.'
+    : densityMode === 'reta_final'
+      ? 'MODO RETA FINAL / CAÇA-PEGADINHA: Foco cirúrgico em prazos, súmulas vinculantes, artigos de lei seca literais e armadilhas frequentes da banca examinadora.'
+      : 'MODO ESTRATÉGICO: Equilíbrio didático entre fundamentação teórica, esquemas sinóticos, tabelas comparativas e mnemônicos de alta retenção.';
 
   return `
 Crie um Caderno de Doutrina Digital Completo e Aprofundado para o concurso:
@@ -325,9 +331,84 @@ ${benchmarkContext}
 - Disciplina: ${subject}
 - Assunto / Tópico: ${topic || `Módulo 0${lessonNumber}: Fundamentos e Aplicação Avançada de ${subject}`}
 - Número da Aula: ${lessonNumber}
+- Nível de Densidade: ${densityInstruction}
 
 Exigência: Redija o material com densidade técnica máxima, fornecendo conteúdo explicativo real (não superficial), tabelas estruturadas, casos práticos com armadilhas da banca e gabarito comentado.
 Retorne EXCLUSIVAMENTE o JSON estruturado conforme a especificação do sistema.
+`;
+}
+
+export function getLessonExpansionPrompt({ subject, topic, existingTitles = [], startPageNumber = 6, pagesToGenerate = 5, densityMode = 'doutrina_completa', careerId = 'atrfb' }) {
+  const career = getCareerConfig(careerId);
+
+  return `
+Você é o Professor Especialista em Concursos de Alto Rendimento.
+O aluno já concluiu as páginas iniciais do estudo sobre "${topic || subject}".
+Sua tarefa é EXPANDIR A APOSTILA TEÓRICA gerando mais ${pagesToGenerate} páginas temáticas aprofundadas e complementares, iniciando na Página ${startPageNumber}.
+
+Tópicos já cobertos nas páginas anteriores (NÃO REPETIR ESTES TÍTULOS):
+${existingTitles.map((t, idx) => `- ${idx + 1}. ${t}`).join('\n')}
+
+Diretrizes para as novas páginas (${startPageNumber} a ${startPageNumber + pagesToGenerate - 1}):
+1. Página ${startPageNumber}: Tópicos Dogmáticos Avançados & Desdobramentos Doutrinários.
+2. Página ${startPageNumber + 1}: Jurisprudência Atualizada dos Tribunais Superiores (STF/STJ) e Teses Vinculantes.
+3. Página ${startPageNumber + 2}: Tabela Comparativa de Exceções & Peculiaridades da Matéria.
+4. Página ${startPageNumber + 3}: Letra de Lei Aplicada & Casos Práticos de Fiscalização / Julgamento.
+5. Página ${startPageNumber + 4}: Questão Inédita Comentada de Alta Complexidade no padrão da banca ${career.bancas?.[0]?.name || 'oficial'}.
+
+Retorne EXCLUSIVAMENTE um objeto JSON no formato:
+{
+  "pages": [
+    {
+      "pageNumber": ${startPageNumber},
+      "pageTitle": "Título da Nova Página",
+      "category": "Doutrina & Teoria",
+      "leadText": "Introdução...",
+      "bodyText": "Texto explicativo denso...",
+      "deepDiveText": "Aprofundamento dogmático..."
+    },
+    ...
+  ]
+}
+`;
+}
+
+export const FLASHCARDS_GENERATOR_SCHEMA = {
+  type: "object",
+  properties: {
+    deckTitle: { type: "string" },
+    subject: { type: "string" },
+    cards: {
+      type: "array",
+      items: {
+        type: "object",
+        properties: {
+          front: { type: "string", description: "Pergunta direta, conceito ou situação prática desafiadora" },
+          back: { type: "string", description: "Resposta fundamentada com dispositivo legal ou mnemônico" },
+          topic: { type: "string" }
+        },
+        required: ["front", "back", "topic"]
+      }
+    }
+  },
+  required: ["deckTitle", "subject", "cards"]
+};
+
+export function getLessonFlashcardsPrompt({ subject, topic, lessonContent, count = 5 }) {
+  return `
+Crie um baralho com ${count} flashcards de fixação ativa (estilo Anki) a partir do seguinte conteúdo de estudo:
+
+DISCIPLINA: ${subject}
+TÓPICO: ${topic}
+CONTEÚDO DA AULA:
+---
+${lessonContent?.substring(0, 10000) || topic}
+---
+
+Diretrizes para os Flashcards:
+1. Frente: Pergunta precisa e desafiadora sobre regras, exceções, prazos ou entendimentos jurisprudenciais do edital.
+2. Verso: Resposta direta, clara e fundamentada com o artigo de lei ou mnemônico.
+3. Retorne EXCLUSIVAMENTE o JSON estruturado conforme o schema.
 `;
 }
 

@@ -5,7 +5,16 @@ import { PastStudyModal } from '../../components/PastStudyModal';
 import { useToast } from '../../components/Toast';
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
-import { getLessonContent, getModulesForSubject, getModulePage, getModuleQuestionBatch, ModulePage, ModuleQuestion } from '../../utils/studyContent';
+import { 
+  getLessonContent, 
+  getModulesForSubject, 
+  getModulePage, 
+  getModuleQuestionBatch, 
+  ModulePage, 
+  ModuleQuestion,
+  TheoryDensityMode,
+  EditalSubtopic
+} from '../../utils/studyContent';
 import { api } from '../../api/client';
 import { 
   UploadCloud, 
@@ -35,7 +44,13 @@ import {
   Plus,
   Award,
   HelpCircle,
-  RefreshCw
+  RefreshCw,
+  ListTree,
+  Zap,
+  BrainCircuit,
+  BookMarked,
+  GraduationCap,
+  Compass
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -464,12 +479,40 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   const [filterBySelectedSubject, setFilterBySelectedSubject] = useState<boolean>(true);
   const [isGeneratingAiLesson, setIsGeneratingAiLesson] = useState<boolean>(false);
 
+  // Theory Density Mode (Thinku / Clipping style)
+  const [densityMode, setDensityMode] = useState<TheoryDensityMode>('doutrina_completa');
+  const [isExpandingLesson, setIsExpandingLesson] = useState<boolean>(false);
+
+  // Edital Subtopics Tree
+  const [editalSubtopics, setEditalSubtopics] = useState<EditalSubtopic[]>([]);
+  const [isSubtopicsModalOpen, setIsSubtopicsModalOpen] = useState<boolean>(false);
+
+  // Flashcards Modal State (Anki Active Recall)
+  const [isFlashcardsModalOpen, setIsFlashcardsModalOpen] = useState<boolean>(false);
+  const [isGeneratingFlashcards, setIsGeneratingFlashcards] = useState<boolean>(false);
+  const [flashcardDeck, setFlashcardDeck] = useState<{ deckTitle: string; count: number; cards: Array<{ front: string; back: string; topic: string }> } | null>(null);
+  const [currentCardIndex, setCurrentCardIndex] = useState<number>(0);
+  const [isCardFlipped, setIsCardFlipped] = useState<boolean>(false);
+
   // Multi-Question Fixation Batch State (5 a 10+ Questões Sincronizadas)
   const [questionBatch, setQuestionBatch] = useState<ModuleQuestion[]>([]);
   const [activeQuestionIndex, setActiveQuestionIndex] = useState<number>(0);
   const [answeredQuestions, setAnsweredQuestions] = useState<Record<number, { selected: string; isCorrect: boolean; explanation: string; xpGained: number }>>({});
   const [isAnsweringQuestion, setIsAnsweringQuestion] = useState<boolean>(false);
   const [isGeneratingMoreQuestions, setIsGeneratingMoreQuestions] = useState<boolean>(false);
+
+  // Carrega subtópicos do edital da carreira e matéria
+  useEffect(() => {
+    if (selectedSubject) {
+      api.getEditalSubtopics(careerId, selectedSubject)
+        .then(res => {
+          if (res?.success && Array.isArray(res.subtopics)) {
+            setEditalSubtopics(res.subtopics);
+          }
+        })
+        .catch(() => {});
+    }
+  }, [careerId, selectedSubject]);
 
   // Helpers to get minutes based on cadence preset
   const getReadingMinutes = () => {
@@ -541,12 +584,13 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   const handleGenerateAiLesson = async () => {
     if (!selectedSubject || isGeneratingAiLesson) return;
     setIsGeneratingAiLesson(true);
-    info('✨ Redigindo Doutrina Aprofundada', `Nossa IA Especialista está redigindo uma apostila de 5 páginas com doutrina, tabelas e pegadinhas para ${selectedSubject}...`);
+    info('✨ Redigindo Doutrina Aprofundada', `Nossa IA Especialista está redigindo uma apostila completa com doutrina, tabelas e pegadinhas para ${selectedSubject} (Modo: ${densityMode === 'doutrina_completa' ? 'Doutrina Completa' : densityMode === 'reta_final' ? 'Reta Final' : 'Resumo Estratégico'})...`);
     try {
       const res = await api.generateLesson({
         subject: selectedSubject,
         topic: currentModule?.title || `Módulo 0${selectedModuleNumber}: Estudo Dirigido de ${selectedSubject}`,
         lessonNumber: selectedModuleNumber || 1,
+        densityMode,
         careerId
       });
 
@@ -562,8 +606,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
           summary: res.lesson?.resumoEstrategico || `Apostila Digital de ${selectedSubject}`,
           content_text: (res.lesson?.pages || []).map((p: any) => `## ${p.pageTitle}\n\n${p.leadText}\n\n${p.bodyText}${p.deepDiveText ? `\n\n### Aprofundamento\n${p.deepDiveText}` : ''}`).join('\n\n---\n\n'),
           current_page: 1,
-          total_pages: 5,
-          theory_pages: 5,
+          total_pages: res.lesson?.totalPages || 5,
+          theory_pages: res.lesson?.totalPages || 5,
           exercise_pages: 1,
           has_exercises: true,
           caderno_enxuto: JSON.stringify(res.lesson)
@@ -578,6 +622,86 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
       danger('Erro ao Gerar', err?.message || 'Não foi possível gerar a apostila com IA.');
     } finally {
       setIsGeneratingAiLesson(false);
+    }
+  };
+
+  // Expansão Infinita de Teoria (+5 Páginas Doutrinárias sob Demanda)
+  const handleExpandTheoryLesson = async () => {
+    if (isExpandingLesson || !selectedSubject) return;
+    setIsExpandingLesson(true);
+    info('📖 Expandindo Doutrina Teórica', `Gerando +5 novas páginas aprofundadas sobre ${currentModule?.title || selectedSubject}...`);
+    try {
+      const res = await api.expandLesson({
+        materialId: selectedCustomMaterial?.id,
+        subject: selectedSubject,
+        topic: currentModule?.title || selectedSubject,
+        densityMode,
+        pagesCount: 5,
+        careerId
+      });
+
+      if (res && res.success && res.lesson) {
+        success('🎉 Teoria Expandida!', `Foram adicionadas +${res.addedCount || 5} páginas à sua apostila. Total atual: ${res.totalPages} páginas.`);
+        await loadMaterials();
+        
+        const updatedMat: CustomMaterial = {
+          ...(selectedCustomMaterial || {
+            id: res.materialId || Date.now(),
+            filename: `[Caderno IA] ${res.lesson?.titulo || selectedSubject}.md`,
+            subject: selectedSubject,
+            lesson_number: selectedModuleNumber || 1,
+            title: res.lesson?.titulo || `${selectedSubject} - Aula ${selectedModuleNumber || 1}`,
+            summary: res.lesson?.resumoEstrategico || `Apostila Digital de ${selectedSubject}`,
+            current_page: 1,
+            exercise_pages: 1,
+            has_exercises: true
+          }),
+          total_pages: res.totalPages,
+          theory_pages: res.totalPages,
+          caderno_enxuto: JSON.stringify(res.lesson),
+          content_text: (res.lesson?.pages || []).map((p: any) => `## ${p.pageTitle}\n\n${p.leadText}\n\n${p.bodyText}${p.deepDiveText ? `\n\n### Aprofundamento\n${p.deepDiveText}` : ''}`).join('\n\n---\n\n')
+        };
+        setSelectedCustomMaterial(updatedMat);
+        const newStartPage = Math.max(1, (res.totalPages - (res.addedCount || 5)) + 1);
+        setCurrentPage(newStartPage);
+        scrollToReaderTop();
+      }
+    } catch (err: any) {
+      danger('Erro ao Expandir', err?.message || 'Falha ao expandir páginas teóricas.');
+    } finally {
+      setIsExpandingLesson(false);
+    }
+  };
+
+  // Geração de Baralho de Flashcards (Anki Repetição Espaçada)
+  const handleGenerateFlashcards = async () => {
+    if (isGeneratingFlashcards || !selectedSubject) return;
+    setIsGeneratingFlashcards(true);
+    info('🧠 Gerando Baralho de Flashcards', `Extraindo perguntas e conceitos mnemônicos da lição de ${selectedSubject}...`);
+    try {
+      const res = await api.generateLessonFlashcards({
+        subject: selectedSubject,
+        topic: currentModule?.title || selectedSubject,
+        lessonContent: currentPageData?.bodyText || currentModule?.title,
+        count: 5,
+        careerId
+      });
+
+      if (res && res.success && res.cards) {
+        setFlashcardDeck({
+          deckTitle: res.deckTitle || `Baralho: ${currentModule?.title || selectedSubject}`,
+          count: res.count || res.cards.length,
+          cards: res.cards
+        });
+        setCurrentCardIndex(0);
+        setIsCardFlipped(false);
+        setIsFlashcardsModalOpen(true);
+        success('🧠 Baralho Pronto!', `Foram gerados ${res.count || res.cards.length} flashcards Anki salvos no seu banco de repetição.`);
+      }
+    } catch (err: any) {
+      danger('Erro nos Flashcards', err?.message || 'Não foi possível gerar os flashcards.');
+    } finally {
+      setIsGeneratingFlashcards(false);
     }
   };
 
@@ -1284,7 +1408,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
 
             {/* View Mode Bar & Smart Universal PDF Badges */}
             <div className="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-[var(--border-subtle)]">
-              <div className="flex items-center gap-2">
+              <div className="flex flex-wrap items-center gap-2">
                 <button
                   type="button"
                   onClick={() => setViewMode('pdf')}
@@ -1312,47 +1436,122 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   }`}
                 >
                   <BookOpen className="w-3.5 h-3.5" />
-                  <span>📝 Caderno de Doutrina Paginado</span>
+                  <span>📝 Caderno de Doutrina</span>
                 </button>
 
+                {/* Subtópicos do Edital */}
+                <button
+                  type="button"
+                  onClick={() => setIsSubtopicsModalOpen(true)}
+                  className="px-3 py-1.5 rounded-lg text-xs font-sans font-bold transition-all flex items-center gap-1.5 bg-[var(--bg-elevated)] text-[var(--text-primary)] hover:border-[var(--accent-primary)] border border-[var(--border-subtle)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+                  title="Abrir índice completo dos subtópicos do edital oficial"
+                >
+                  <Compass className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+                  <span>🧭 Subtópicos ({editalSubtopics.length > 0 ? editalSubtopics.length : 'Edital'})</span>
+                </button>
+
+                {/* Geração de Doutrina */}
                 <button
                   type="button"
                   onClick={handleGenerateAiLesson}
                   disabled={isGeneratingAiLesson}
                   className="px-3 py-1.5 rounded-lg text-xs font-sans font-bold transition-all flex items-center gap-1.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white shadow-sm disabled:opacity-50 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-400"
-                  title="Gerar apostila digital completa de 5 páginas com doutrina densa, tabelas e pegadinhas da banca"
+                  title="Gerar apostila digital completa via IA"
                 >
                   <Sparkles className={`w-3.5 h-3.5 ${isGeneratingAiLesson ? 'animate-spin' : ''}`} />
-                  <span>{isGeneratingAiLesson ? 'Redigindo Apostila...' : '✨ Aprofundar com IA'}</span>
+                  <span>{isGeneratingAiLesson ? 'Redigindo...' : '✨ Gerar Teoria'}</span>
+                </button>
+
+                {/* Expansão de Teoria */}
+                <button
+                  type="button"
+                  onClick={handleExpandTheoryLesson}
+                  disabled={isExpandingLesson}
+                  className="px-3 py-1.5 rounded-lg text-xs font-sans font-bold transition-all flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white shadow-sm disabled:opacity-50 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-400"
+                  title="Adicionar +5 páginas aprofundadas com jurisprudência e quadros sinóticos à lição"
+                >
+                  <Plus className={`w-3.5 h-3.5 ${isExpandingLesson ? 'animate-spin' : ''}`} />
+                  <span>{isExpandingLesson ? 'Expandindo...' : '➕ +5 Págs Teoria'}</span>
+                </button>
+
+                {/* Flashcards Anki */}
+                <button
+                  type="button"
+                  onClick={handleGenerateFlashcards}
+                  disabled={isGeneratingFlashcards}
+                  className="px-3 py-1.5 rounded-lg text-xs font-sans font-bold transition-all flex items-center gap-1.5 bg-amber-600 hover:bg-amber-500 text-white shadow-sm disabled:opacity-50 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400"
+                  title="Gerar baralho de flashcards Anki para fixação ativa"
+                >
+                  <BrainCircuit className={`w-3.5 h-3.5 ${isGeneratingFlashcards ? 'animate-spin' : ''}`} />
+                  <span>{isGeneratingFlashcards ? 'Criando Anki...' : '🧠 Flashcards'}</span>
                 </button>
               </div>
 
               {/* Universal Badges */}
-              {selectedCustomMaterial && (
-                <div className="flex items-center gap-2 font-mono text-xs">
-                  {selectedCustomMaterial.theory_pages && (
-                    <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/20 font-bold">
-                      📖 {selectedCustomMaterial.theory_pages}p Teoria
-                    </span>
-                  )}
-                  {selectedCustomMaterial.exercise_pages && selectedCustomMaterial.exercise_pages > 0 && (
-                    <span className="px-2 py-0.5 rounded bg-[var(--accent-purple-bg)] text-[var(--accent-purple)] border border-[var(--accent-purple)]/20 font-bold">
-                      🎯 {selectedCustomMaterial.exercise_pages}p Questões
-                    </span>
-                  )}
-                  <a
-                    href={selectedCustomMaterial.pdfUrl}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="text-xs font-mono text-[var(--accent-primary)] hover:underline flex items-center gap-1 shrink-0 ml-1"
-                  >
-                    <ExternalLink className="w-3.5 h-3.5" />
-                  </a>
-                </div>
-              )}
+              <div className="flex items-center gap-2 font-mono text-xs">
+                {selectedCustomMaterial && selectedCustomMaterial.theory_pages && (
+                  <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/20 font-bold">
+                    📖 {selectedCustomMaterial.theory_pages}p Teoria
+                  </span>
+                )}
+                {selectedCustomMaterial && selectedCustomMaterial.exercise_pages && selectedCustomMaterial.exercise_pages > 0 && (
+                  <span className="px-2 py-0.5 rounded bg-[var(--accent-purple-bg)] text-[var(--accent-purple)] border border-[var(--accent-purple)]/20 font-bold">
+                    🎯 {selectedCustomMaterial.exercise_pages}p Questões
+                  </span>
+                )}
+              </div>
             </div>
 
-            {/* SELETOR DE MÓDULOS DA DISCIPLINA (Sem PDF) */}
+            {/* SELETOR DE DENSIDADE TEÓRICA (Padrão Thinku & Clipping) */}
+            <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-2.5">
+              <span className="text-xs font-sans font-bold text-[var(--text-secondary)] flex items-center gap-1.5">
+                <GraduationCap className="w-4 h-4 text-[var(--accent-primary)]" />
+                <span>Nível de Profundidade Teórica:</span>
+              </span>
+
+              <div className="flex items-center gap-1.5">
+                <button
+                  type="button"
+                  onClick={() => setDensityMode('doutrina_completa')}
+                  className={`px-2.5 py-1 rounded-lg text-xs font-sans font-bold transition-all ${
+                    densityMode === 'doutrina_completa'
+                      ? 'bg-[var(--accent-primary)] text-white shadow-xs'
+                      : 'bg-[var(--bg-surface)] text-[var(--text-muted)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
+                  }`}
+                  title="Doutrina densa, correntes divergentes e jurisprudência comentada"
+                >
+                  📘 Doutrina Completa
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => setDensityMode('resumo_estrategico')}
+                  className={`px-2.5 py-1 rounded-lg text-xs font-sans font-bold transition-all ${
+                    densityMode === 'resumo_estrategico'
+                      ? 'bg-[var(--accent-primary)] text-white shadow-xs'
+                      : 'bg-[var(--bg-surface)] text-[var(--text-muted)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
+                  }`}
+                  title="Equilíbrio didático com esquemas e tabelas comparativas"
+                >
+                  📗 Estratégico
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => setDensityMode('reta_final')}
+                  className={`px-2.5 py-1 rounded-lg text-xs font-sans font-bold transition-all ${
+                    densityMode === 'reta_final'
+                      ? 'bg-[var(--accent-primary)] text-white shadow-xs'
+                      : 'bg-[var(--bg-surface)] text-[var(--text-muted)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
+                  }`}
+                  title="Foco em súmulas, prazos e caça-pegadinhas"
+                >
+                  📙 Reta Final
+                </button>
+              </div>
+            </div>
+
+            {/* SELETOR DE MÓDULOS DA DISCIPLINA */}
             {!selectedCustomMaterial && subjectModules.length > 0 && (
               <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
                 <div className="flex items-center justify-between">
@@ -1380,7 +1579,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                         }`}
                       >
                         <span>Módulo 0{mod.moduleNumber}</span>
-                        {isModActive && <span className="text-xs opacity-80 font-normal">({currentPage}/5p)</span>}
+                        {isModActive && <span className="text-xs opacity-80 font-normal">({currentPage}/{effectiveTotalPages}p)</span>}
                       </button>
                     );
                   })}
@@ -1395,7 +1594,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   <ShieldCheck className="w-3.5 h-3.5" />
                   <span>
                     {selectedCustomMaterial 
-                      ? `PDF DA AULA • ${selectedCustomMaterial.subject}`
+                      ? `APOSTILA DIGITAL • ${selectedCustomMaterial.subject}`
                       : `MÓDULO 0${currentModule.moduleNumber} DE 0${currentModule.totalModules} • ${selectedSubject}`}
                   </span>
                 </span>
@@ -1412,67 +1611,73 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   : currentModule.title}
               </h2>
 
-              {/* NAVEGADOR DE PÁGINAS DO MÓDULO (PÁGINAS 1 A 5) COM SCROLL FLUIDO & SETAS */}
-              {!selectedCustomMaterial && (
-                <div className="pt-2 relative flex items-center border-b border-[var(--border-subtle)] pb-3">
-                  {/* Botão de rolagem para esquerda */}
-                  <button
-                    type="button"
-                    onClick={() => scrollModuleNav('left')}
-                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all mr-1.5 shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
-                    title="Rolar abas para esquerda"
-                    aria-label="Rolar abas para esquerda"
-                  >
-                    <ChevronLeft className="w-3.5 h-3.5" />
-                  </button>
+              {/* NAVEGADOR DINÂMICO DE PÁGINAS (1 A N) COM SCROLL FLUIDO & SETAS */}
+              <div className="pt-2 relative flex items-center border-b border-[var(--border-subtle)] pb-3">
+                {/* Botão de rolagem para esquerda */}
+                <button
+                  type="button"
+                  onClick={() => scrollModuleNav('left')}
+                  className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all mr-1.5 shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+                  title="Rolar abas para esquerda"
+                  aria-label="Rolar abas para esquerda"
+                >
+                  <ChevronLeft className="w-3.5 h-3.5" />
+                </button>
 
-                  {/* Container deslizante com suporte a mouse wheel */}
-                  <div
-                    ref={moduleNavScrollRef}
-                    className="flex-1 flex items-center gap-1.5 overflow-x-auto custom-scrollbar-horizontal scroll-smooth py-1"
-                  >
-                    {[
-                      { num: 1, label: '1. Doutrina & Fundamentos' },
-                      { num: 2, label: '2. Esquemas & Tabelas' },
-                      { num: 3, label: '3. Casos & Pegadinhas' },
-                      { num: 4, label: '4. Letra de Lei & Súmulas' },
-                      { num: 5, label: '5. Treino de Fixação' }
-                    ].map((p) => {
-                      const isPageActive = currentPage === p.num;
-                      return (
-                        <button
-                          key={p.num}
-                          type="button"
-                          onClick={() => handleSelectPageDirect(p.num)}
-                          className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all shrink-0 flex items-center gap-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
-                            isPageActive
-                              ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border border-[var(--accent-primary)] shadow-xs'
-                              : 'text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] border border-transparent'
-                          }`}
-                        >
-                          <span className={`w-4 h-4 rounded-full text-xs font-mono flex items-center justify-center font-bold ${
-                            isPageActive ? 'bg-[var(--accent-primary)] text-white' : 'bg-[var(--bg-surface)] text-[var(--text-muted)] border border-[var(--border-subtle)]'
-                          }`}>
-                            {p.num}
-                          </span>
-                          <span>{p.label.replace(/^\d+\.\s*/, '')}</span>
-                        </button>
-                      );
-                    })}
-                  </div>
+                {/* Container deslizante com suporte a mouse wheel */}
+                <div
+                  ref={moduleNavScrollRef}
+                  className="flex-1 flex items-center gap-1.5 overflow-x-auto custom-scrollbar-horizontal scroll-smooth py-1"
+                >
+                  {Array.from({ length: effectiveTotalPages }, (_, i) => {
+                    const pageNum = i + 1;
+                    let label = `Pág. ${pageNum}`;
+                    if (pageNum === 1) label = '1. Doutrina & Fundamentos';
+                    else if (pageNum === 2) label = '2. Esquemas & Tabelas';
+                    else if (pageNum === 3) label = '3. Casos & Pegadinhas';
+                    else if (pageNum === 4) label = '4. Letra de Lei & Súmulas';
+                    else if (pageNum === 5) label = '5. Treino de Fixação';
+                    else if (pageNum === 6) label = '6. Desdobramentos Dogmáticos';
+                    else if (pageNum === 7) label = '7. Jurisprudência STF/STJ';
+                    else if (pageNum === 8) label = '8. Tabela de Exceções';
+                    else if (pageNum === 9) label = '9. Casos de Fiscalização';
+                    else if (pageNum === 10) label = '10. Questão Inédita Comentada';
+                    else label = `${pageNum}. Aprofundamento Teórico`;
 
-                  {/* Botão de rolagem para direita */}
-                  <button
-                    type="button"
-                    onClick={() => scrollModuleNav('right')}
-                    className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all ml-1.5 shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
-                    title="Rolar abas para direita"
-                    aria-label="Rolar abas para direita"
-                  >
-                    <ChevronRight className="w-3.5 h-3.5" />
-                  </button>
+                    const isPageActive = currentPage === pageNum;
+                    return (
+                      <button
+                        key={pageNum}
+                        type="button"
+                        onClick={() => handleSelectPageDirect(pageNum)}
+                        className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all shrink-0 flex items-center gap-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${
+                          isPageActive
+                            ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold border border-[var(--accent-primary)] shadow-xs'
+                            : 'text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] border border-transparent'
+                        }`}
+                      >
+                        <span className={`w-4 h-4 rounded-full text-xs font-mono flex items-center justify-center font-bold ${
+                          isPageActive ? 'bg-[var(--accent-primary)] text-white' : 'bg-[var(--bg-surface)] text-[var(--text-muted)] border border-[var(--border-subtle)]'
+                        }`}>
+                          {pageNum}
+                        </span>
+                        <span>{label.replace(/^\d+\.\s*/, '')}</span>
+                      </button>
+                    );
+                  })}
                 </div>
-              )}
+
+                {/* Botão de rolagem para direita */}
+                <button
+                  type="button"
+                  onClick={() => scrollModuleNav('right')}
+                  className="shrink-0 p-1.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--accent-primary)] transition-all ml-1.5 shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+                  title="Rolar abas para direita"
+                  aria-label="Rolar abas para direita"
+                >
+                  <ChevronRight className="w-3.5 h-3.5" />
+                </button>
+              </div>
             </div>
 
             {/* Partial Reading Progress & Pace Intelligence Banner */}
@@ -2402,6 +2607,185 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
 
             </form>
 
+          </div>
+        </div>,
+        document.body
+      )}
+
+      {/* 6. Modal de Subtópicos do Edital Oficial (via Portal) */}
+      {isSubtopicsModalOpen && typeof document !== 'undefined' && createPortal(
+        <div 
+          className="fixed inset-0 z-[9999] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fade-in"
+          onClick={() => setIsSubtopicsModalOpen(false)}
+        >
+          <div 
+            className="relative w-full max-w-2xl bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-4 shadow-2xl text-left max-h-[85vh] flex flex-col"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+              <div>
+                <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight flex items-center gap-2">
+                  <Compass className="w-5 h-5 text-[var(--accent-primary)]" />
+                  <span>Árvore de Subtópicos do Edital Oficial</span>
+                </h3>
+                <p className="text-xs text-[var(--text-muted)] font-sans">
+                  {selectedSubject} • {currentCareer.name} ({editalSubtopics.length} tópicos mapeados)
+                </p>
+              </div>
+              <button
+                type="button"
+                onClick={() => setIsSubtopicsModalOpen(false)}
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            <div className="flex-1 overflow-y-auto space-y-2 pr-1 custom-scrollbar">
+              {editalSubtopics.map((st, idx) => (
+                <div 
+                  key={idx}
+                  className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] transition-all flex items-start justify-between gap-3 group"
+                >
+                  <div className="space-y-1">
+                    <div className="flex items-center gap-2">
+                      <span className="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/20">
+                        Aula 0{st.lessonNumber}
+                      </span>
+                      <h4 className="font-sans font-bold text-xs sm:text-sm text-[var(--text-primary)]">
+                        {st.title}
+                      </h4>
+                    </div>
+                    {st.keyTopics && (
+                      <p className="text-xs text-[var(--text-muted)] font-sans line-clamp-2">
+                        {st.keyTopics}
+                      </p>
+                    )}
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setIsSubtopicsModalOpen(false);
+                      if (st.lessonNumber <= subjectModules.length) {
+                        handleSelectModule(st.lessonNumber);
+                      }
+                      info('Subtópico Selecionado', `Carregando conteúdo doutrinário de "${st.title}"...`);
+                    }}
+                    className="shrink-0 px-3 py-1.5 rounded-lg bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white font-sans text-xs font-bold transition-all shadow-xs flex items-center gap-1 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+                  >
+                    <span>Estudar</span>
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  </button>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>,
+        document.body
+      )}
+
+      {/* 7. Modal de Baralho de Flashcards Anki (via Portal) */}
+      {isFlashcardsModalOpen && flashcardDeck && typeof document !== 'undefined' && createPortal(
+        <div 
+          className="fixed inset-0 z-[9999] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fade-in"
+          onClick={() => setIsFlashcardsModalOpen(false)}
+        >
+          <div 
+            className="relative w-full max-w-lg bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl text-left"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+              <div>
+                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)] tracking-tight flex items-center gap-2">
+                  <BrainCircuit className="w-5 h-5 text-amber-500" />
+                  <span>{flashcardDeck.deckTitle}</span>
+                </h3>
+                <p className="text-xs text-[var(--text-muted)] font-sans">
+                  Card {currentCardIndex + 1} de {flashcardDeck.cards.length} • Repetição Espaçada Ativa
+                </p>
+              </div>
+              <button
+                type="button"
+                onClick={() => setIsFlashcardsModalOpen(false)}
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* Flashcard Interativo com Flip */}
+            {flashcardDeck.cards[currentCardIndex] && (
+              <div 
+                onClick={() => setIsCardFlipped(!isCardFlipped)}
+                className="min-h-[220px] p-6 rounded-2xl bg-gradient-to-br from-[var(--bg-elevated)] to-[var(--bg-surface)] border-2 border-dashed border-[var(--accent-primary)]/40 hover:border-[var(--accent-primary)] cursor-pointer flex flex-col justify-between transition-all shadow-md group select-none"
+              >
+                <div className="flex items-center justify-between">
+                  <span className={`px-2.5 py-0.5 rounded-full text-[10px] font-mono font-bold uppercase tracking-wider ${
+                    isCardFlipped 
+                      ? 'bg-emerald-500/20 text-emerald-400 border border-emerald-500/30' 
+                      : 'bg-amber-500/20 text-amber-400 border border-amber-500/30'
+                  }`}>
+                    {isCardFlipped ? '💡 Verso • Resposta & Fundamento' : '❓ Frente • Pergunta / Conceito'}
+                  </span>
+                  <span className="text-[10px] text-[var(--text-muted)] group-hover:text-[var(--text-primary)] font-sans">
+                    Clique para virar ↺
+                  </span>
+                </div>
+
+                <div className="py-4 text-center">
+                  <p className="font-sans text-sm sm:text-base font-bold text-[var(--text-primary)] leading-relaxed">
+                    {isCardFlipped 
+                      ? flashcardDeck.cards[currentCardIndex].back 
+                      : flashcardDeck.cards[currentCardIndex].front}
+                  </p>
+                </div>
+
+                <div className="text-center text-[10px] text-[var(--text-muted)] font-mono">
+                  {flashcardDeck.cards[currentCardIndex].topic}
+                </div>
+              </div>
+            )}
+
+            {/* Controles de Navegação do Baralho */}
+            <div className="flex items-center justify-between pt-2">
+              <button
+                type="button"
+                disabled={currentCardIndex === 0}
+                onClick={() => {
+                  setCurrentCardIndex(prev => Math.max(0, prev - 1));
+                  setIsCardFlipped(false);
+                }}
+                className="px-3 py-2 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-xs font-sans font-bold text-[var(--text-primary)] disabled:opacity-40 flex items-center gap-1.5 transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+              >
+                <ChevronLeft className="w-4 h-4" />
+                <span>Anterior</span>
+              </button>
+
+              <div className="flex items-center gap-1">
+                {flashcardDeck.cards.map((_, i) => (
+                  <div 
+                    key={i}
+                    className={`w-2 h-2 rounded-full transition-all ${
+                      i === currentCardIndex ? 'bg-[var(--accent-primary)] w-4' : 'bg-[var(--border-subtle)]'
+                    }`}
+                  />
+                ))}
+              </div>
+
+              <button
+                type="button"
+                disabled={currentCardIndex === flashcardDeck.cards.length - 1}
+                onClick={() => {
+                  setCurrentCardIndex(prev => Math.min(flashcardDeck.cards.length - 1, prev + 1));
+                  setIsCardFlipped(false);
+                }}
+                className="px-3 py-2 rounded-xl bg-[var(--accent-primary)] text-white text-xs font-sans font-bold hover:bg-[var(--accent-primary-hover)] disabled:opacity-40 flex items-center gap-1.5 transition-all shadow-xs focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)]"
+              >
+                <span>Próximo</span>
+                <ChevronRight className="w-4 h-4" />
+              </button>
+            </div>
           </div>
         </div>,
         document.body

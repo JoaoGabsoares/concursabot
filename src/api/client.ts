@@ -232,11 +232,32 @@ export class ApiClient {
     });
   }
 
-  public generateLesson(data: { subject: string; topic?: string; lessonNumber?: number; careerId?: string }): Promise<any> {
+  public generateLesson(data: { subject: string; topic?: string; lessonNumber?: number; densityMode?: string; careerId?: string }): Promise<any> {
     return this.request<any>('/study-room/generate-lesson', {
       method: 'POST',
       body: JSON.stringify(data)
     });
+  }
+
+  public expandLesson(data: { materialId?: number; subject: string; topic?: string; densityMode?: string; pagesCount?: number; careerId?: string }): Promise<any> {
+    return this.request<any>('/study-room/expand-lesson', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public generateLessonFlashcards(data: { subject: string; topic?: string; lessonContent?: string; count?: number; careerId?: string }): Promise<any> {
+    return this.request<any>('/study-room/generate-flashcards', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public getEditalSubtopics(careerId?: string, subject?: string): Promise<{ success: boolean; subtopics: any[] }> {
+    const qs = new URLSearchParams();
+    if (careerId) qs.append('careerId', careerId);
+    if (subject) qs.append('subject', subject);
+    return this.request<{ success: boolean; subtopics: any[] }>(`/study-room/edital-subtopics?${qs.toString()}`);
   }
 
   public getModuleQuestions(params: { subject: string; topic?: string; limit?: number; careerId?: string }): Promise<any> {
