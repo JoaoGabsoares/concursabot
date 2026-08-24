@@ -99,12 +99,55 @@ app.use((req, res, next) => {
     next();
 });
 
-// Core Middleware
-app.use(cors({
-    origin: process.env.CORS_ORIGIN || true,
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
-    credentials: true
-}));
+// Configuração de CORS com Allowlist Explícita e Proteção de Credenciais
+const rawAllowedOrigins = (process.env.CORS_ORIGIN || process.env.ALLOWED_ORIGINS || '')
+    .split(',')
+    .map(o => o.trim().replace(/\/$/, ''))
+    .filter(Boolean);
+
+const defaultAllowedOrigins = [
+    'http://localhost:5173',
+    'http://127.0.0.1:5173',
+    'http://localhost:3000',
+    'http://127.0.0.1:3000',
+    'http://localhost:3099',
+    'http://127.0.0.1:3099'
+];
+
+const allowedOriginsSet = new Set([...defaultAllowedOrigins, ...rawAllowedOrigins]);
+
+const corsOptions = {
+    origin: (origin, callback) => {
+        // 1. Requisições sem header Origin (same-origin, ferramentas internas, mobile apps, curl, etc.)
+        if (!origin) {
+            return callback(null, true);
+        }
+
+        const normalized = origin.trim().replace(/\/$/, '');
+
+        // 2. Origem contida explicitamente na allowlist
+        if (allowedOriginsSet.has(normalized)) {
+            return callback(null, true);
+        }
+
+        // 3. Em modo dev/test, permite portas de loopback local
+        const isDevOrTest = process.env.NODE_ENV !== 'production';
+        if (isDevOrTest && /^https?:\/\/(localhost|127\.0\.0\.1)(:[0-9]+)?$/.test(normalized)) {
+            return callback(null, true);
+        }
+
+        // 4. Bloqueia origens não autorizadas
+        console.warn(`[CORS Guard] Requisição cross-origin não autorizada bloqueada: ${origin}`);
+        return callback(null, false);
+    },
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization', 'x-account-token', 'x-auth-token', 'x-user-id', 'x-exam-id'],
+    exposedHeaders: ['Content-Disposition'],
+    credentials: true,
+    maxAge: 86400 // 24 horas de cache para preflight OPTIONS
+};
+
+app.use(cors(corsOptions));
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 // Prototype Pollution & Security Guard (runs after body parsing)

@@ -32,8 +32,8 @@ function getDashboardData(req, res) {
         const mondayStr = getLocalDateStr(monday);
         const sundayStr = getLocalDateStr(sunday);
 
-        // Datas ativas da semana corrente (Segunda a Domingo)
-        // Consultar estritamente sessões de estudo concluídas, questões respondidas e simulados concluídos
+        // Datas ativas de estudo do usuário (sessões, questões, simulados e atividades registradas)
+        // Sem truncamento artificial para alimentar a Chama de Consistência e o Heatmap
         const weekDatesRows = db.prepare(`
           SELECT DISTINCT substr(study_time, 1, 10) as study_date
           FROM (
@@ -44,9 +44,12 @@ function getDashboardData(req, res) {
             SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
             UNION
             SELECT completed_at as study_time FROM simulados WHERE user_id = ? AND status = 'completed'
+            UNION
+            SELECT created_at as study_time FROM activity_log WHERE user_id = ?
           )
-          WHERE study_date >= ? AND study_date <= ?
-        `).all(userId, userId, userId, userId, mondayStr, sundayStr);
+          WHERE study_time IS NOT NULL AND substr(study_time, 1, 10) != ''
+          ORDER BY study_date DESC
+        `).all(userId, userId, userId, userId, userId);
 
         const activeWeekDates = weekDatesRows.map(r => r.study_date);
         const streak = calculateUserStreak(userId, careerId);
