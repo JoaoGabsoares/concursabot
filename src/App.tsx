@@ -22,6 +22,7 @@ const GuiaMetodoPage = React.lazy(() => import('./features/guide/GuiaMetodoPage'
 const AboutPage = React.lazy(() => import('./features/about/AboutPage').then(m => ({ default: m.AboutPage })));
 const SettingsPage = React.lazy(() => import('./features/settings/SettingsPage').then(m => ({ default: m.SettingsPage })));
 import { ToastProvider } from './components/Toast';
+import { ErrorBoundary } from './components/ErrorBoundary';
 
 export const App: React.FC = () => {
   const [isDark, setIsDark] = useState<boolean>(() => {
@@ -235,86 +236,88 @@ export const App: React.FC = () => {
         {/* Scrollable Viewport (Zero menu duplication: left Sidebar handles desktop navigation) */}
         <main className="flex-1 overflow-y-auto overflow-x-hidden p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8 overscroll-contain scrollbar-gutter-stable">
           <div className="max-w-7xl w-full mx-auto space-y-8">
-            <React.Suspense fallback={
-              <div className="min-h-[50vh] flex flex-col items-center justify-center gap-3 text-xs font-mono text-[var(--text-muted)] animate-fade-in">
-                <div className="w-8 h-8 rounded-full border-2 border-[var(--accent-primary)] border-t-transparent animate-spin" />
-                <span>Carregando módulo de estudo...</span>
-              </div>
-            }>
-              {activeTab === 'dashboard' && (
-                <DashboardPage
-                  user={user}
-                  careerId={careerId}
-                  onNavigate={(tab) => setActiveTab(tab)}
-                  pendingErrorsCount={pendingErrorsCount}
-                  onStartStudy={handleStartStudy}
-                />
-              )}
+            <ErrorBoundary fallbackTitle="Inconsistência temporária na visualização">
+              <React.Suspense fallback={
+                <div className="min-h-[50vh] flex flex-col items-center justify-center gap-3 text-xs font-mono text-[var(--text-muted)] animate-fade-in">
+                  <div className="w-8 h-8 rounded-full border-2 border-[var(--accent-primary)] border-t-transparent animate-spin" />
+                  <span>Carregando módulo de estudo...</span>
+                </div>
+              }>
+                {activeTab === 'dashboard' && (
+                  <DashboardPage
+                    user={user}
+                    careerId={careerId}
+                    onNavigate={(tab) => setActiveTab(tab)}
+                    pendingErrorsCount={pendingErrorsCount}
+                    onStartStudy={handleStartStudy}
+                  />
+                )}
 
-              {(activeTab === 'ciclos' || activeTab === 'study-cycle') && (
-                <StudyCyclePage
-                  user={user}
-                  careerId={careerId}
-                  onNavigate={(tab) => setActiveTab(tab)}
-                  onStartStudy={handleStartStudy}
-                />
-              )}
+                {(activeTab === 'ciclos' || activeTab === 'study-cycle') && (
+                  <StudyCyclePage
+                    user={user}
+                    careerId={careerId}
+                    onNavigate={(tab) => setActiveTab(tab)}
+                    onStartStudy={handleStartStudy}
+                  />
+                )}
 
-              {(activeTab === 'study' || activeTab === 'study-room') && (
-                <StudyRoomPage 
-                  careerId={careerId} 
-                  initialSubject={typeof activeStudyTarget === 'string' ? activeStudyTarget : activeStudyTarget?.subject}
-                />
-              )}
+                {(activeTab === 'study' || activeTab === 'study-room') && (
+                  <StudyRoomPage 
+                    careerId={careerId} 
+                    initialSubject={typeof activeStudyTarget === 'string' ? activeStudyTarget : activeStudyTarget?.subject}
+                  />
+                )}
 
-              {activeTab === 'simulados' && (
-                <SimuladosPage careerId={careerId} />
-              )}
+                {activeTab === 'simulados' && (
+                  <SimuladosPage careerId={careerId} />
+                )}
 
-              {(activeTab === 'erros' || activeTab === 'error-notebook') && (
-                <ErrorNotebookPage careerId={careerId} />
-              )}
+                {(activeTab === 'erros' || activeTab === 'error-notebook') && (
+                  <ErrorNotebookPage careerId={careerId} />
+                )}
 
-              {activeTab === 'redacao' && (
-                <RedacaoPage careerId={careerId} />
-              )}
+                {activeTab === 'redacao' && (
+                  <RedacaoPage careerId={careerId} />
+                )}
 
-              {activeTab === 'leiseca' && (
-                <LeiSecaPage careerId={careerId} />
-              )}
+                {activeTab === 'leiseca' && (
+                  <LeiSecaPage careerId={careerId} />
+                )}
 
-              {activeTab === 'aproveitamento' && (
-                <AproveitamentoPage careerId={careerId} />
-              )}
+                {activeTab === 'aproveitamento' && (
+                  <AproveitamentoPage careerId={careerId} />
+                )}
 
-              {activeTab === 'edital' && (
-                <EditalPage 
-                  careerId={careerId} 
-                  onNavigate={(tab) => setActiveTab(tab)}
-                  onStartStudy={handleStartStudy}
-                />
-              )}
+                {activeTab === 'edital' && (
+                  <EditalPage 
+                    careerId={careerId} 
+                    onNavigate={(tab) => setActiveTab(tab)}
+                    onStartStudy={handleStartStudy}
+                  />
+                )}
 
-              {activeTab === 'flashcards' && (
-                <FlashcardsPage careerId={careerId} />
-              )}
+                {activeTab === 'flashcards' && (
+                  <FlashcardsPage careerId={careerId} />
+                )}
 
-              {(activeTab === 'guia' || activeTab === 'settings_guia') && (
-                <GuiaMetodoPage onNavigate={(tab) => setActiveTab(tab)} />
-              )}
+                {(activeTab === 'guia' || activeTab === 'settings_guia') && (
+                  <GuiaMetodoPage onNavigate={(tab) => setActiveTab(tab)} />
+                )}
 
-              {(activeTab === 'sobre' || activeTab === 'settings_sobre') && (
-                <AboutPage />
-              )}
+                {(activeTab === 'sobre' || activeTab === 'settings_sobre') && (
+                  <AboutPage />
+                )}
 
-              {(activeTab === 'settings' || activeTab === 'settings_ajustes') && (
-                <SettingsPage
-                  user={user}
-                  onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
-                  initialTab="ajustes"
-                />
-              )}
-            </React.Suspense>
+                {(activeTab === 'settings' || activeTab === 'settings_ajustes') && (
+                  <SettingsPage
+                    user={user}
+                    onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
+                    initialTab="ajustes"
+                  />
+                )}
+              </React.Suspense>
+            </ErrorBoundary>
           </div>
         </main>
       </div>

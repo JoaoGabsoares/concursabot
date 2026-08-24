@@ -1844,7 +1844,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   )}
 
                   {/* Tabela de Esquemas / Verdade (Se disponível) */}
-                  {activePage?.tableData && (
+                  {activePage?.tableData && Array.isArray(activePage.tableData.headers) && Array.isArray(activePage.tableData.rows) && (
                     <div className="mt-4 rounded-xl border border-[var(--border-subtle)] overflow-hidden shadow-xs">
                       <div className="p-2.5 bg-[var(--bg-elevated)] border-b border-[var(--border-subtle)] font-sans text-xs font-bold text-[var(--text-primary)] flex items-center gap-2">
                         <Layers className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
@@ -1862,7 +1862,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                           <tbody className="divide-y divide-[var(--border-subtle)] bg-[var(--bg-base)]">
                             {activePage.tableData.rows.map((row, rIdx) => (
                               <tr key={rIdx} className="hover:bg-[var(--bg-elevated)]/50 transition-colors">
-                                {row.map((cell, cIdx) => (
+                                {Array.isArray(row) && row.map((cell, cIdx) => (
                                   <td key={cIdx} className="p-2.5 text-[var(--text-primary)]">{cell}</td>
                                 ))}
                               </tr>
@@ -1874,7 +1874,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   )}
 
                   {/* Mnemônicos Estruturados */}
-                  {activePage?.mnemonics && activePage.mnemonics.length > 0 && (
+                  {Array.isArray(activePage?.mnemonics) && activePage.mnemonics.length > 0 && (
                     <div className="space-y-3 pt-3">
                       <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
                         <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-sans text-xs font-bold">
@@ -1897,7 +1897,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   )}
 
                   {/* Casos Práticos & Pegadinhas */}
-                  {activePage?.practicalCases && activePage.practicalCases.length > 0 && (
+                  {Array.isArray(activePage?.practicalCases) && activePage.practicalCases.length > 0 && (
                     <div className="space-y-3 pt-3">
                       <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
                         <span className="px-2 py-0.5 rounded bg-[var(--accent-amber-bg)] text-[var(--accent-warning)] font-sans text-xs font-bold">
@@ -1927,7 +1927,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   )}
 
                   {/* Legislação Aplicada & Artigos de Ouro */}
-                  {activePage?.lawArticles && activePage.lawArticles.length > 0 && (
+                  {Array.isArray(activePage?.lawArticles) && activePage.lawArticles.length > 0 && (
                     <div className="space-y-3 pt-3">
                       <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
                         <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-sans text-xs font-bold">
@@ -1950,7 +1950,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   )}
 
                   {/* Questão de Fixação da Página 5 */}
-                  {activePage?.question && (
+                  {activePage?.question && activePage.question.options && typeof activePage.question.options === 'object' && (
                     <div className="space-y-4 pt-4">
                       <div className="p-5 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-4 shadow-sm">
                         <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
@@ -1965,7 +1965,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                         </p>
 
                         <div className="space-y-2">
-                          {Object.entries(activePage.question.options).map(([letter, text]) => {
+                          {Object.entries(activePage.question.options || {}).map(([letter, text]) => {
                             const isSelected = userSelectedOption === letter;
                             const isCorrect = letter === activePage.question?.answer;
                             let btnStyle = 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]';
