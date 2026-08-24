@@ -1723,16 +1723,31 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   </p>
                 </div>
 
-                <Button
-                  variant="brand"
-                  size="sm"
-                  onClick={handleSwitchToQuestions}
-                  className="font-sans text-xs font-bold flex items-center gap-1.5 shrink-0 shadow-sm"
-                  title="Salva a página onde você parou e já inicia o bloco de questões"
-                >
-                  <span>⚡ Ir p/ Questões ({getQuestionsMinutes()}m)</span>
-                  <ArrowRight className="w-3.5 h-3.5" />
-                </Button>
+                <div className="flex items-center gap-2 shrink-0">
+                  {selectedCustomMaterial && (
+                    <a
+                      href={`#/reader/${selectedCustomMaterial.id}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="px-3 py-1.5 rounded-xl bg-[var(--bg-card)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-xs font-bold text-[var(--accent-primary)] transition-all flex items-center gap-1.5 cursor-pointer shadow-xs"
+                      title="Abrir este PDF em uma janela dedicada com 100% de tela"
+                    >
+                      <ExternalLink className="w-3.5 h-3.5" />
+                      <span>Abrir em Nova Aba</span>
+                    </a>
+                  )}
+
+                  <Button
+                    variant="brand"
+                    size="sm"
+                    onClick={handleSwitchToQuestions}
+                    className="font-sans text-xs font-bold flex items-center gap-1.5 shadow-sm"
+                    title="Salva a página onde você parou e já inicia o bloco de questões"
+                  >
+                    <span>⚡ Ir p/ Questões ({getQuestionsMinutes()}m)</span>
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  </Button>
+                </div>
               </div>
             )}
 

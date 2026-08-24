@@ -27,9 +27,12 @@ import { api } from '../../../api/client';
 import { MaterialHighlight } from '../../../types';
 import { PdfSelectionHUD, HIGHLIGHT_COLORS } from './PdfSelectionHUD';
 import { PdfAiTutorDrawer } from './PdfAiTutorDrawer';
+import pdfjsWorker from 'pdfjs-dist/build/pdf.worker.min.mjs?url';
 
-// Set up pdf.js worker URL matching installed version
-pdfjsLib.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.mjs`;
+// Configura o worker com o asset empacotado localmente pelo Vite (Zero CSP/CORS errors)
+if (typeof window !== 'undefined') {
+  pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
+}
 
 export interface TableOfContentItem {
   title: string;
@@ -73,6 +76,7 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
   const [pageInput, setPageInput] = useState<string>(initialPage.toString());
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  const [useNativeViewerFallback, setUseNativeViewerFallback] = useState<boolean>(false);
 
   // UX & Themes
   const [theme, setTheme] = useState<ReadingTheme>(() => {
@@ -141,21 +145,36 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
     loadHighlights();
   }, [loadHighlights]);
 
-  // 2. Load PDF Document via pdfjs-dist
+  // 2. Load PDF Document via robust fetch ArrayBuffer + pdfjs-dist
   useEffect(() => {
     let isCancelled = false;
     setLoading(true);
     setError(null);
+    setUseNativeViewerFallback(false);
 
-    const loadingTask = pdfjsLib.getDocument({
-      url: pdfUrl,
-      cMapUrl: `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/cmaps/`,
-      cMapPacked: true
-    });
+    const fullUrl = pdfUrl.startsWith('http')
+      ? pdfUrl
+      : `${window.location.origin}${pdfUrl.startsWith('/') ? '' : '/'}${pdfUrl}`;
 
-    loadingTask.promise
+    // Buscar ArrayBuffer diretamente para imunidade contra problemas de CORS/Worker
+    fetch(fullUrl, { credentials: 'include' })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status} (${response.statusText}) ao baixar PDF`);
+        }
+        return response.arrayBuffer();
+      })
+      .then((data) => {
+        if (isCancelled) return null;
+        const loadingTask = pdfjsLib.getDocument({
+          data,
+          cMapUrl: `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/cmaps/`,
+          cMapPacked: true
+        });
+        return loadingTask.promise;
+      })
       .then((doc) => {
-        if (!isCancelled) {
+        if (!isCancelled && doc) {
           setPdfDoc(doc);
           setNumPages(doc.numPages);
           setLoading(false);
@@ -163,15 +182,37 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
       })
       .catch((err) => {
         if (!isCancelled) {
-          console.error('Falha ao carregar PDF via pdfjs:', err);
-          setError('Não foi possível renderizar o arquivo PDF. Verifique se o arquivo está disponível.');
-          setLoading(false);
+          console.warn('Fallback para carregamento direto via URL ou visualizador nativo:', err);
+          // Tentativa secundária direta por URL
+          try {
+            const directTask = pdfjsLib.getDocument({
+              url: fullUrl,
+              withCredentials: true
+            });
+            directTask.promise
+              .then((doc) => {
+                if (!isCancelled) {
+                  setPdfDoc(doc);
+                  setNumPages(doc.numPages);
+                  setLoading(false);
+                }
+              })
+              .catch((finalErr) => {
+                if (!isCancelled) {
+                  console.error('Falha final ao renderizar PDF:', finalErr);
+                  setError('Não foi possível renderizar o arquivo no modo interativo. Você pode alternar para o visualizador padrão.');
+                  setLoading(false);
+                }
+              });
+          } catch (e) {
+            setError('Não foi possível renderizar o arquivo PDF.');
+            setLoading(false);
+          }
         }
       });
 
     return () => {
       isCancelled = true;
-      loadingTask.destroy();
     };
   }, [pdfUrl]);
 
@@ -817,7 +858,25 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
 
         {/* CENTER: CANVAS & TEXT LAYER STAGE */}
         <main className="flex-1 overflow-auto p-4 sm:p-6 flex items-start justify-center relative bg-black/5 dark:bg-black/40">
-          {loading ? (
+          {useNativeViewerFallback ? (
+            <div className="w-full h-full min-h-[650px] flex flex-col gap-2">
+              <div className="flex justify-between items-center bg-black/10 dark:bg-white/10 px-3 py-1.5 rounded-lg text-xs font-sans">
+                <span className="opacity-80">Modo de Leitura Nativo Ativo</span>
+                <button
+                  type="button"
+                  onClick={() => setUseNativeViewerFallback(false)}
+                  className="px-2.5 py-1 bg-[var(--accent-primary)] text-white rounded-md font-bold hover:opacity-90 cursor-pointer text-xs"
+                >
+                  Alternar para Modo Interativo com Grifos
+                </button>
+              </div>
+              <iframe
+                src={`${pdfUrl}#page=${currentPage}&toolbar=1&navpanes=1`}
+                className="w-full h-full min-h-[620px] rounded-xl border border-black/10 dark:border-white/10"
+                title="Visualizador Nativo de PDF"
+              />
+            </div>
+          ) : loading ? (
             <div className="py-24 flex flex-col items-center justify-center gap-3">
               <div className="w-10 h-10 rounded-full border-3 border-[var(--accent-primary)] border-t-transparent animate-spin" />
               <p className="font-bold text-xs">Renderizando documento PDF em alta fidelidade...</p>
@@ -825,14 +884,34 @@ export const PdfReaderStudio: React.FC<PdfReaderStudioProps> = ({
           ) : error ? (
             <div className="py-20 text-center max-w-md space-y-3">
               <p className="text-red-400 font-bold text-sm">{error}</p>
-              <button
-                type="button"
-                onClick={() => renderPage(currentPage)}
-                className="px-3 py-1.5 rounded-lg bg-[var(--accent-primary)] text-white text-xs font-bold flex items-center gap-1.5 mx-auto cursor-pointer"
-              >
-                <RotateCcw className="w-3.5 h-3.5" />
-                <span>Tentar Novamente</span>
-              </button>
+              <div className="flex items-center justify-center gap-2">
+                <button
+                  type="button"
+                  onClick={() => {
+                    setError(null);
+                    setLoading(true);
+                    // Força recarregamento
+                    const fullUrl = pdfUrl.startsWith('http') ? pdfUrl : `${window.location.origin}${pdfUrl.startsWith('/') ? '' : '/'}${pdfUrl}`;
+                    fetch(fullUrl, { credentials: 'include' })
+                      .then(r => r.arrayBuffer())
+                      .then(data => pdfjsLib.getDocument({ data }).promise)
+                      .then(doc => { setPdfDoc(doc); setNumPages(doc.numPages); setLoading(false); })
+                      .catch(() => setUseNativeViewerFallback(true));
+                  }}
+                  className="px-3 py-1.5 rounded-lg bg-[var(--accent-primary)] text-white text-xs font-bold flex items-center gap-1.5 cursor-pointer"
+                >
+                  <RotateCcw className="w-3.5 h-3.5" />
+                  <span>Tentar Novamente</span>
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setUseNativeViewerFallback(true)}
+                  className="px-3 py-1.5 rounded-lg bg-black/10 dark:bg-white/10 border border-black/10 dark:border-white/10 text-xs font-bold flex items-center gap-1.5 cursor-pointer hover:border-[var(--accent-primary)]"
+                >
+                  <FileText className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+                  <span>Visualizador Padrão</span>
+                </button>
+              </div>
             </div>
           ) : (
             <div className="relative shadow-2xl rounded-lg overflow-hidden border border-black/10 dark:border-white/10 transition-all">

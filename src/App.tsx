@@ -22,6 +22,7 @@ const GuiaMetodoPage = React.lazy(() => import('./features/guide/GuiaMetodoPage'
 const AboutPage = React.lazy(() => import('./features/about/AboutPage').then(m => ({ default: m.AboutPage })));
 const SettingsPage = React.lazy(() => import('./features/settings/SettingsPage').then(m => ({ default: m.SettingsPage })));
 const StandalonePdfReaderPage = React.lazy(() => import('./features/study-room/StandalonePdfReaderPage').then(m => ({ default: m.StandalonePdfReaderPage })));
+const ReaderHubPage = React.lazy(() => import('./features/reader/ReaderHubPage').then(m => ({ default: m.ReaderHubPage })));
 import { ToastProvider } from './components/Toast';
 import { ErrorBoundary } from './components/ErrorBoundary';
 
@@ -277,41 +278,59 @@ export const App: React.FC = () => {
           onSwitchUser={handleSwitchUser}
         />
 
-        {/* Scrollable Viewport (Zero menu duplication: left Sidebar handles desktop navigation) */}
-        <main className="flex-1 overflow-y-auto overflow-x-hidden p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8 overscroll-contain scrollbar-gutter-stable">
-          <div className="max-w-7xl w-full mx-auto space-y-8">
-            <ErrorBoundary fallbackTitle="Inconsistência temporária na visualização">
+        {/* Viewport de Leitura Dedicado ou Telas da Plataforma */}
+        {activeTab === 'reader' ? (
+          <div className="flex-1 overflow-hidden h-full">
+            <ErrorBoundary fallbackTitle="Inconsistência temporária no Leitor PDF">
               <React.Suspense fallback={
-                <div className="min-h-[50vh] flex flex-col items-center justify-center gap-3 text-xs font-mono text-[var(--text-muted)] animate-fade-in">
+                <div className="h-full flex flex-col items-center justify-center gap-3 text-xs font-mono text-[var(--text-muted)] animate-fade-in">
                   <div className="w-8 h-8 rounded-full border-2 border-[var(--accent-primary)] border-t-transparent animate-spin" />
-                  <span>Carregando módulo de estudo...</span>
+                  <span>Carregando estúdio de leitura imersivo...</span>
                 </div>
               }>
-                {activeTab === 'dashboard' && (
-                  <DashboardPage
-                    user={user}
-                    careerId={careerId}
-                    onNavigate={(tab) => setActiveTab(tab)}
-                    pendingErrorsCount={pendingErrorsCount}
-                    onStartStudy={handleStartStudy}
-                  />
-                )}
+                <ReaderHubPage
+                  user={user}
+                  careerId={careerId}
+                  onNavigate={(tab) => setActiveTab(tab)}
+                />
+              </React.Suspense>
+            </ErrorBoundary>
+          </div>
+        ) : (
+          <main className="flex-1 overflow-y-auto overflow-x-hidden p-3.5 sm:p-6 lg:p-8 pb-28 lg:pb-8 overscroll-contain scrollbar-gutter-stable">
+            <div className="max-w-7xl w-full mx-auto space-y-8">
+              <ErrorBoundary fallbackTitle="Inconsistência temporária na visualização">
+                <React.Suspense fallback={
+                  <div className="min-h-[50vh] flex flex-col items-center justify-center gap-3 text-xs font-mono text-[var(--text-muted)] animate-fade-in">
+                    <div className="w-8 h-8 rounded-full border-2 border-[var(--accent-primary)] border-t-transparent animate-spin" />
+                    <span>Carregando módulo de estudo...</span>
+                  </div>
+                }>
+                  {activeTab === 'dashboard' && (
+                    <DashboardPage
+                      user={user}
+                      careerId={careerId}
+                      onNavigate={(tab) => setActiveTab(tab)}
+                      pendingErrorsCount={pendingErrorsCount}
+                      onStartStudy={handleStartStudy}
+                    />
+                  )}
 
-                {(activeTab === 'ciclos' || activeTab === 'study-cycle') && (
-                  <StudyCyclePage
-                    user={user}
-                    careerId={careerId}
-                    onNavigate={(tab) => setActiveTab(tab)}
-                    onStartStudy={handleStartStudy}
-                  />
-                )}
+                  {(activeTab === 'ciclos' || activeTab === 'study-cycle') && (
+                    <StudyCyclePage
+                      user={user}
+                      careerId={careerId}
+                      onNavigate={(tab) => setActiveTab(tab)}
+                      onStartStudy={handleStartStudy}
+                    />
+                  )}
 
-                {(activeTab === 'study' || activeTab === 'study-room') && (
-                  <StudyRoomPage 
-                    careerId={careerId} 
-                    initialSubject={typeof activeStudyTarget === 'string' ? activeStudyTarget : activeStudyTarget?.subject}
-                  />
-                )}
+                  {(activeTab === 'study' || activeTab === 'study-room') && (
+                    <StudyRoomPage 
+                      careerId={careerId} 
+                      initialSubject={typeof activeStudyTarget === 'string' ? activeStudyTarget : activeStudyTarget?.subject}
+                    />
+                  )}
 
                 {activeTab === 'simulados' && (
                   <SimuladosPage careerId={careerId} />
@@ -362,8 +381,9 @@ export const App: React.FC = () => {
                 )}
               </React.Suspense>
             </ErrorBoundary>
-          </div>
-        </main>
+            </div>
+          </main>
+        )}
       </div>
 
       {/* 3. Mobile Bottom Navigation (Thumb Zone) */}

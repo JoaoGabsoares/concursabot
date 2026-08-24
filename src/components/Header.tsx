@@ -94,6 +94,7 @@ export const Header: React.FC<HeaderProps> = ({
     { id: 'dashboard', label: 'Dashboard', icon: <LayoutDashboard className="w-4 h-4" /> },
     { id: 'ciclos', label: 'Ciclo de Estudos', icon: <RotateCw className="w-4 h-4" /> },
     { id: 'study', label: 'Sala de Estudos', icon: <BookOpen className="w-4 h-4" /> },
+    { id: 'reader', label: 'Leitor PDF & Apostilas', icon: <BookOpen className="w-4 h-4 text-[var(--accent-primary)]" /> },
     { id: 'simulados', label: 'Simulados Oficiais', icon: <Target className="w-4 h-4" /> },
     { id: 'erros', label: 'Caderno de Erros', icon: <BookMarked className="w-4 h-4" />, badge: pendingErrorsCount },
     { id: 'flashcards', label: 'Flashcards SM-2', icon: <Layers className="w-4 h-4" /> },
