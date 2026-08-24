@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { UserProfile, ActiveTab } from '../types';
 import { CAREERS_LIST, getCareerById } from '../utils/careers';
 import { getConcurseiroRank } from '../utils/gamification';
-import { ChevronDown, Check, Sun, Moon } from 'lucide-react';
+import { ChevronDown, Check } from 'lucide-react';
 import { CarimboStatus } from './UIPrimitives';
 
 interface SidebarProps {
@@ -12,8 +12,8 @@ interface SidebarProps {
   activeTab: ActiveTab;
   onNavigate: (tab: ActiveTab) => void;
   pendingErrorsCount: number;
-  isDark: boolean;
-  onToggleTheme: () => void;
+  isDark?: boolean;
+  onToggleTheme?: () => void;
   onSwitchUser: () => void;
 }
 
@@ -24,8 +24,6 @@ export const Sidebar: React.FC<SidebarProps> = ({
   activeTab,
   onNavigate,
   pendingErrorsCount,
-  isDark,
-  onToggleTheme,
   onSwitchUser
 }) => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
@@ -67,7 +65,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
       {/* Top Section: Brand + Edital */}
       <div className="overflow-y-auto scrollbar-thin flex-1">
         {/* 1. Brand Header */}
-        <div className="p-5 border-b border-[var(--border-subtle)] flex items-center justify-between">
+        <div className="p-5 border-b border-[var(--border-subtle)]">
           <div 
             onClick={() => onNavigate('dashboard')}
             className="cursor-pointer group space-y-0.5"
@@ -77,14 +75,6 @@ export const Sidebar: React.FC<SidebarProps> = ({
             </div>
             <CarimboStatus status="homologado" label="SALA DE OPERAÇÕES" />
           </div>
-
-          <button
-            onClick={onToggleTheme}
-            aria-label="Alternar tema"
-            className="w-9 h-9 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:border-[var(--border-focus)] transition-all shadow-sm focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
-          >
-            {isDark ? <Sun className="w-4 h-4 text-[var(--accent-warning)]" /> : <Moon className="w-4 h-4 text-[var(--accent-primary)]" />}
-          </button>
         </div>
 
         {/* 2. Edital Selector (Official Process Style) */}

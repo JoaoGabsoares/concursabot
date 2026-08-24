@@ -205,5 +205,45 @@ npm start
 - **Unit Economics**: Custo médio de IA (Gemini Flash) de ~R$ 1,20/aluno/mês vs Preço sugerido de R$ 39,90/mês a R$ 79,90/mês (**Margem Bruta > 92%**).
 - **Diretriz de Execução Imediata**: Manter a modelagem de negócios registrada e priorizar **100% o ciclo real de estudos de Analista Tributário da Receita Federal (ATRFB)** e a estabilidade da plataforma para o dia a dia.
 
+---
 
+## 🏛️ 13. Release v5.5: Bento Grid Figma-Grade, Despoluição Semântica & Code-Splitting
 
+- **Bento Grid & Paleta Executive Obsidian**: Layout de 12 colunas, modo escuro refinado (`#0B0F17`), cartões translúcidos e acentos semânticos.
+- **Design System 100% Semântico**: 188 cores hardcoded eliminadas; design tokens CSS aplicados em todos os componentes.
+- **Code-Splitting**: 52% de redução no bundle inicial através de `React.lazy` e `Suspense`.
+
+---
+
+## 🧠 14. Release v6.0: Acervo RAG Híbrido ATRFB com SQLite FTS5 (3.613 Documentos)
+
+- Ingestão canônica de mais de 204 milhões de caracteres de doutrina e leis da Receita Federal.
+- Pesquisa de texto completo (< 5ms) por artigos, súmulas e doutrinas via SQLite FTS5.
+
+---
+
+## 📊 15. Release v7.0: Acervo de 813 Questões & Deduplicação Semântica FGV
+
+- Normalização semântica e hash que detecta e previne duplicatas ao importar questões de PDFs da FGV.
+- Acervo ampliado para 813 questões categorizadas (344 FGV oficiais e 394 de Português em 8 eixos temáticos).
+
+---
+
+## ⚔️ 16. Release v7.1: Ciclo de Guerra Março/2027 & Projeções Matemáticas
+
+- Esteira contínua com 24 blocos de 60 min (24h de rotação completa), ponderada pelos pesos oficiais da prova:
+  - 62.5% Direito (Tributário, Aduaneiro, Constitucional, Administrativo, Previdenciário)
+  - 20.8% Exatas/Dados (TI, Contabilidade, RLM, Estatística)
+  - 16.7% Humanas/Linguagens (Português FGV, Inglês, Administração Pública)
+- Projeção em tempo real de **204 dias**, **29.1 voltas**, **699 horas líquidas** e **11.184 questões comentadas**.
+- Conexão nativa do Dashboard com o próximo bloco do ciclo e avanço com premiação de XP.
+
+---
+
+## 📁 17. Release v7.2.0: Identificação Personalizada de PDFs, Estante Isolada & Unificação de UI
+
+- **Upload Inteligente com Nome Personalizado**: O modal de envio sugere títulos limpos e permite ao aluno editar o nome da apostila/resumo e número da aula.
+- **Estante Contextual de PDFs por Disciplina**: Visualização isolada na Sala de Estudos (apenas PDFs da disciplina selecionada são exibidos por padrão, impedindo confusão entre matérias).
+- **Leitura Fracionada de Apostilas Longas**: Marca-página inteligente preserva o progresso de leitura em PDFs densos (3-4 dias por aula), com avanço gradual no ciclo e ganho fracionado de XP (+20 XP por sessão e +50 XP na conclusão).
+- **Desduplicação de Botão de Tema**: Alternância de modo claro/escuro unificada exclusivamente no Header Superior.
+- **100% de Aprovação na Suíte de Testes**: 87 rotas de backend verificadas e validadas em `tests/run_all.js`.

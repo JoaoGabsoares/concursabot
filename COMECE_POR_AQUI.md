@@ -1,4 +1,4 @@
-# 🎯 Gabarito.AI — Guia Mestre de Contextualização e Inicialização (v4.6)
+# 🎯 Gabarito.AI — Guia Mestre de Contextualização e Inicialização (v7.2.0)
 > **Instruções para o Usuário / Desenvolvedor:** 
 > Você pode copiar e colar todo o conteúdo deste arquivo no início de qualquer nova conversa com IAs (Google Antigravity, Claude Code, ChatGPT, Cursor, etc.) para que a IA adquira imediatamente 100% de consciência arquitetural, funcional e das regras de negócio deste projeto sem precisar reexplicar nada.
 
@@ -10,10 +10,11 @@ O **Gabarito.AI** é uma plataforma web full-stack de alto desempenho focada na 
 
 ### 💡 Filosofia e Pilares do Projeto:
 1. **Custo Zero de Infraestrutura / Zero API Bill**: O sistema foi concebido para rodar de forma ultra-eficiente sem dependência de serviços externos pagos. Usa SQLite nativo do Node.js (`node:sqlite`) em modo WAL, Web APIs do navegador e heurísticas inteligentes locais. Quando IA generativa é acionada (ex: correção de redação discursiva), utiliza modelos rápidos como Gemini Flash.
-2. **Dashboard Inicial & Demonstração Interativa (v4.6)**: Ao entrar na plataforma deslogado, o usuário interage com um portal dinâmico com seletor de editais, raio-x de matérias e o laboratório Caça-Pegadinhas da Lei (15s) antes do login.
-3. **Autenticação Universal Google 1-Click (v4.6)**: Login rápido e gratuito via Google Identity Services ou credenciais seguras (Scrypt com salt individual), com isolamento hermético entre contas.
-4. **Aprendizado Ativo vs. Leitura Passiva**: Todo o fluxo de estudo força a evocação ativa: Cadência 60/30 (60 min leitura + 30 min questões), Caça-Pegadinhas da Lei Seca em 15s, Súmulas Vinculantes comentadas, Repetição Espaçada SM-2 (D+1, D+7, D+30) e Simulado "Dia D de Prova" com Cartão-Resposta Digital.
-5. **Design System Editorial & Mission-Driven**: Interface sem poluição visual, inspirada no design institucional suíço/editorial, com design tokens padronizados (`src/styles/design-tokens.ts`), modo escuro/claro nativo, feedback tátil e tipografia de alta legibilidade.
+2. **Ciclo Estratégico de Guerra & Simulação Temporal (v7.2.0)**: Esteira contínua com 24 blocos de 60 min, cobrindo as 13 matérias do edital da Receita Federal com interleaving anti-fadiga, contagem regressiva para Março/2027 (204 dias, 29.1 voltas, 699h líquidas, 11.184 questões) e recalibração adaptativa por desempenho real.
+3. **Acervo de 813 Questões & Deduplicação Semântica FGV**: Motor que analisa e normaliza enunciados e alternativas de PDFs da FGV, impedindo questões duplicadas e organizando 344 questões FGV e 394 de Português em 8 eixos sintáticos.
+4. **Identificação Personalizada & Estante de PDFs por Disciplina**: Upload com sugestão de títulos limpos, edição de nome, número de aula e estante visual isolada por matéria que impede a mistura de materiais de diferentes disciplinas.
+5. **Aprendizado Ativo vs. Leitura Passiva**: Todo o fluxo de estudo força a evocação ativa: Cadência 60/30 (60 min leitura + 30 min questões), Caça-Pegadinhas da Lei Seca em 15s, Súmulas Vinculantes comentadas, Repetição Espaçada SM-2 (D+1, D+7, D+30) e Simulado "Dia D de Prova" com Cartão-Resposta Digital.
+6. **Design System Editorial & Mission-Driven**: Interface sem poluição visual, inspirada no design institucional suíço/editorial, com design tokens padronizados (`src/styles/design-tokens.ts`), modo escuro/claro nativo centralizado no Header, feedback tátil e tipografia de alta legibilidade.
 
 ---
 
@@ -24,18 +25,18 @@ O **Gabarito.AI** é uma plataforma web full-stack de alto desempenho focada na 
   - Vite 8 (Compilação ultra-rápida em ~2s)
   - Tailwind CSS + Vanilla CSS Variables (`src/styles/index.css`)
   - Lucide React (Ícones consistentes)
-  - Arquitetura por Features: `src/features/{study,simulados,erros,redacao,leiseca,aproveitamento,edital,flashcards,settings,dashboard}`
+  - Arquitetura por Features: `src/features/{dashboard,study-cycle,study-room,simulados,error-notebook,leiseca,redacao,aproveitamento,edital,flashcards,settings,guide,about}`
 * **Backend**:
   - Node.js LTS (v22/v24) com ESM Nativo (`"type": "module"`)
   - Express.js com compressão gzip/brotli, CORS configurado e rate limiters
   - Banco de Dados: SQLite 3 nativo (`node:sqlite`) no arquivo `database.sqlite` com **WAL (Write-Ahead Logging)** para alta concorrência
   - Segurança: Criptografia **Scrypt** nativa com salt individual de 128 bits por usuário, proteção estrita contra SQL Injection (100% prepared statements) e sanitização XSS
 * **Testes & Qualidade**:
-  - Suíte unificada de testes em `tests/run_all.js` cobrindo testes unitários, testes de integração de APIs, auditoria de segurança (OWASP), concorrência e isolamento multi-tenant.
+  - Suíte unificada de testes em `tests/run_all.js` cobrindo 87 rotas da API, testes unitários, testes de integração de APIs, auditoria de segurança (OWASP), concorrência e isolamento multi-tenant.
 
 ---
 
-## 🚀 3. As 7 Carreiras Canônicas Suportadas Nativamente
+## 🚀 3. As 7 Carreiras Canônicas Suportadas Natively
 
 | ID da Carreira | Nome Oficial | Banca | Foco das Disciplinas |
 | :--- | :--- | :--- | :--- |
@@ -52,51 +53,41 @@ O **Gabarito.AI** é uma plataforma web full-stack de alto desempenho focada na 
 
 ## ⚙️ 4. Módulos Funcionais e Regras de Negócio
 
-### 1. 📄 Motor Universal de Ingestão de Qualquer PDF (`server/services/universalPdfService.js`)
+### 1. 🔄 Ciclo Estratégico de Guerra & Interleaving Anti-Fadiga (`server/services/StudyCycleService.js`)
+- Rotação contínua em esteira de 24 blocos com proporção oficial da prova: 62.5% Jurídico, 20.8% Exatas/Dados, 16.7% Humanas/Linguagens.
+- Projeção em tempo real de voltas completas, horas e questões até a data da prova.
+- Recalibração adaptativa em 1 clique cruzando dados reais de acerto e erro dos simulados.
+
+### 2. 📄 Motor Universal de Ingestão de Qualquer PDF & Estante por Disciplina
 - Processa apostilas de **qualquer editora** (Estratégia, Gran, Direção, Cebraspe, etc.).
 - Heurísticas avançadas: Remove marcas d'água, CPFs, cabeçalhos repetitivos; extrai sumários hierárquicos e detecta a fronteira exata entre **Doutrina Teórica** e **Baterias de Questões**.
-- Calcula velocidade média de leitura (~160 WPM) e tempo estimado para conclusão.
+- Permite nome personalizado e número da aula no upload, isolando as apostilas por matéria na Sala de Estudos.
 
-### 2. ⏱️ Cadência de Estudo Flexível (60/30) & Retomada Parcial
+### 3. ⏱️ Cadência de Estudo Flexível (60/30) & Marca-Página Inteligente
 - Presets: **60m Leitura + 30m Questões** (Padrão Foco Profundo), 45m/15m (Sprint), 50m/10m (Pomodoro) ou Personalizado.
-- Marcador de página persistido com estimativa de tempo restante e botão direto: `⚡ Ir para Questões (30 min)`.
+- Marca-página inteligente persistido com memorização da página exata para leitura fracionada de PDFs longos em 3 a 4 blocos de estudo.
 
-### 3. ⚖️ Lei Seca Ativa & Súmulas dos Tribunais (`/api/leiseca` e `/api/jurisprudencia`)
+### 4. ⚖️ Lei Seca Ativa & Súmulas dos Tribunais (`/api/leiseca` e `/api/jurisprudencia`)
 - **Caça-Pegadinhas da Lei Seca**: Desafios de **15 segundos** onde um artigo de lei tem uma palavra adulterada pela banca (ex: "é vedado" trocado por "é permitido"). O aluno clica no erro e ganha **+10 a +15 XP**.
-- **Súmulas Vinculantes & Jurisprudência**: Catálogo das teses do STF, STJ e TST mais cobradas em provas (ex: SV 13 Nepotismo, SV 5 PAD, Súmula 473 Autotutela, Súmula 331 TST Terceirização) com alertas práticos das pegadinhas de bancas examinadoras.
+- **Súmulas Vinculantes & Jurisprudência**: Catálogo das teses do STF, STJ e TST mais cobradas em provas com alertas práticos das pegadinhas de bancas examinadoras.
 
-### 4. 🏛️ Simulados Oficiais & Modo "Dia D de Prova" (`src/features/simulados/SimuladosPage.tsx`)
-- **Modo Treino Rápido**: Questões com cronômetro progressivo e gabarito comentado item a item.
-- **Modo "Dia D de Prova" (4 Horas)**: Bloco contínuo de 4h00 com **Caderno de Prova**, **Folha Oficial de Respostas (Cartão-Resposta Digital com bolhas A-E)** e **Folha Oficial de Redação Integrada** no mesmo bloco, com alerta regressivo nos últimos 30 min.
-- **Boletim Oficial**: Gera diagnóstico com nota objetiva, nota discursiva e carimbo frente à nota de corte da carreira (`HOMOLOGADO NO CORTE` / `ABAIXO DO CORTE`).
+### 5. 🏛️ Simulados Oficiais & Acervo FGV Deduplicado (`src/features/simulados/SimuladosPage.tsx`)
+- Acervo de **813 questões** reais com **344 questões da banca FGV** deduplicadas e comentadas.
+- **Modo Treino Rápido** e **Modo "Dia D de Prova" (4 Horas)** com Cartão-Resposta Digital e Redação Discursiva integrada.
 
-### 5. 🧭 Matriz de Aproveitamento & Transição de Editais (`/api/aproveitamento`)
+### 6. 🧭 Matriz de Aproveitamento & Transição de Editais (`/api/aproveitamento`)
 - Compara qualquer par de concursos e calcula o **Índice de Afinidade Curricular (%)**.
-- Gera a **Trilha de Transição Acelerada**, ordenando matérias inéditas pelo peso da banca e estimando o prazo em semanas.
+- Gera a **Trilha de Transição Acelerada**, ordenando matérias inéditas pelo peso da banca.
 
-### 6. ✍️ Corretor de Redação Discursiva com IA (`/api/redacao`)
-- Temas oficiais e inéditos por carreira.
-- Espelho de correção em 4 critérios oficiais de concurso:
-  1. *Domínio do Conhecimento Temático* (0-30 pts)
-  2. *Estrutura Textual Dissertativa-Argumentativa* (0-25 pts)
-  3. *Emprego da Norma Padrão da Língua Portuguesa* (0-25 pts)
-  4. *Coesão, Coerência e Progressão Argumentativa* (0-20 pts)
-- Recompensa de **+50 XP** por redação submetida.
+### 7. ✍️ Corretor de Redação Discursiva com IA (`/api/redacao`)
+- Temas oficiais e inéditos por carreira com correção por espelho oficial em 4 critérios e recompensa de **+50 XP**.
 
-### 7. 🎯 Caderno de Erros com Repetição Espaçada SM-2 (`/api/caderno-erros`)
-- Captura automática de qualquer item errado em simulados ou questões de estudo.
-- Fila de re-treino com algoritmo **SuperMemo-2 (SM-2)**: Intervalos D+1, D+7, D+30.
-- Ao acertar uma questão pendente, evolui para status `mastered` com bônus de **+15 XP de superação**.
-
-### 8. 💬 Comunidade & Salas de Estudo em Tempo Real (`/api/community`)
-- Canais segregados por carreira (`#geral`, `#duvidas`, `#leiseca`, `#redacao`) com streaming contínuo via Server-Sent Events (SSE).
-- Reações emoji persistentes e instantâneas (`💡`, `🔥`, `✅`, `❤️`).
-- Tutor IA (@GabaritoAI / @Tutor) integrado diretamente no chat para esclarecimento imediato de dúvidas e pegadinhas de bancas.
+### 8. 🎯 Caderno de Erros com Repetição Espaçada SM-2 (`/api/caderno-erros`)
+- Captura automática de qualquer item errado em simulados ou questões de estudo com repetição espaçada SM-2 (D+1, D+7, D+30) e **+15 XP de superação**.
 
 ### 9. 🔒 Autenticação, Isolamento e Gamificação
 - Novas contas iniciam rigorosamente com **0 XP, Level 1 Aspirante (0/500 XP), 0 simulados, 0 pendências no caderno de erros e histórico limpo**.
-- Limite estrito de no máximo **3 perfis de concurseiro por conta de usuário**.
-- Isolamento hermético de dados: Atividades, matérias e pontuações de uma conta nunca vazam para outra.
+- Limite estrito de no máximo **3 perfis de concurseiro por conta de usuário** com isolamento hermético entre contas.
 
 ---
 

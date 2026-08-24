@@ -590,7 +590,7 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 1. **⚔️ Ativação do Ciclo de Guerra Março/2027**:
    - Criado e persistido no SQLite o ciclo `⚔️ Ciclo de Guerra Março/2027 — Receita Federal (FGV)` com `exam_date = '2027-03-15'` e carga de `24h semanais` em blocos de `60 min`.
    - **Composição da Esteira**: 24 blocos por volta com interleaving anti-fadiga:
-     - ⚖️ **Eixo Jurídico (62.5% - 15 blocos)**: *Direito Tributário (3x), Legislação Tributária (3x), Legislação Aduaneira (3x), Direito Constitucional (2x), Direito Administrativo (2x), Direito Previdenciário (2x)*.
+- ⚖️ **Eixo Jurídico (62.5% - 15 blocos)**: *Direito Tributário (3x), Legislação Tributária (3x), Legislação Aduaneira (3x), Direito Constitucional (2x), Direito Administrativo (2x), Direito Previdenciário (2x)*.
      - 📊 **Eixo Exatas & Dados (20.8% - 5 blocos)**: *Fluência em Dados (2x), Contabilidade Geral (1x), RLM (1x), Estatística (1x)*.
      - 📖 **Eixo Humanas & Linguagens (16.7% - 4 blocos)**: *Língua Portuguesa (2x), Língua Inglesa (1x), Administração Pública (1x)*.
 
@@ -621,6 +621,25 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
    - **Alternância Dinâmica**: Toggle *"Filtrando: [Disciplina] (Ver Todos)"* para alternar instantaneamente entre visão isolada e visão global de todos os materiais.
    - **Cards Modernos**: Apresentam o título em destaque, badge do número da aula (ex: `Aula 01`), badge da disciplina, contador de páginas (`Pág. 1 / 45`), status de leitura (`✓ Lido` / `Em leitura`) e botão de exclusão.
    - **Empty State Produtivo**: Quando a matéria ainda não possui PDF, exibe um card convidativo para *"+ Subir PDF para [Disciplina]"* ou acessar os PDFs de outras matérias.
+
+---
+
+## 33. Unificação Visual de Tema, Cadência em Aulas Extensas & Integridade (v7.2.1)
+
+1. **🌓 Unificação do Botão de Modo Claro/Escuro**:
+   - Eliminada a duplicidade de botões de tema na interface Desktop (removido da `Sidebar.tsx` e preservado exclusivamente no `Header.tsx`).
+   - O controle de tema agora possui um único ponto de interação intuitivo e acessível em todas as resoluções de tela.
+
+2. **📖 Cadência e Contabilização de Aulas Extensas (3 a 4 Dias por Aula)**:
+   - O sistema opera com base em **Tempo de Bloco (ex: 60 min)** e não em "1 aula inteira por dia".
+   - **Marca-Página Inteligente**: Grava o progresso exato (`current_page` vs `total_pages`) no SQLite. Ao voltar à disciplina após o giro da esteira, a aula é retomada exatamente da página onde o estudante parou.
+   - **Gamificação Justa e Fracionada**: Concede **+20 XP** a cada bloco estudado e bônus de **+50 XP** ao concluir a última página de teoria da apostila.
+   - **Prevenção da Fadiga e Curva de Esquecimento**: Ao alternar blocos diários de 60 min entre Direito, TI/Exatas e Português em vez de permanecer 4 dias seguidos na mesma matéria, o estudante preserva alta retenção sináptica sem deixar nenhuma disciplina do edital congelada.
+
+3. **✅ Validação Global de Testes & Qualidade**:
+   - `npm run typecheck` executado com 0 erros de TypeScript.
+   - `tests/run_all.js` executado com **100% de aprovação em todas as 87 rotas da API**.
+   - `npm run build` compilado com sucesso e empacotado para produção.
 
 ---
 
