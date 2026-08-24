@@ -52,7 +52,12 @@ const ATRFB_SUBJECTS_CATALOG = [
 
 // Converte o caminho absoluto em disco na URL pública servida por express.static em /uploads
 function toPdfUrl(filepath) {
-  return `/uploads/${path.basename(filepath)}`;
+  if (!filepath || typeof filepath !== 'string') return null;
+  const clean = filepath.trim();
+  if (clean.startsWith('caderno_digital://') || !clean.toLowerCase().endsWith('.pdf')) {
+    return null;
+  }
+  return `/uploads/${path.basename(clean)}`;
 }
 
 // Extrai o número da aula a partir do nome do arquivo ou do texto

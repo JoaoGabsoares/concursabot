@@ -26,7 +26,8 @@ import {
   BarChart3,
   ShieldCheck,
   HelpCircle,
-  Info
+  Info,
+  GraduationCap
 } from 'lucide-react';
 
 interface HeaderProps {
@@ -68,8 +69,8 @@ export const Header: React.FC<HeaderProps> = ({
     dashboard: { title: 'Dashboard', category: 'ESTUDO DIÁRIO' },
     ciclos: { title: 'Ciclo de Estudos', category: 'ESTUDO DIÁRIO' },
     'study-cycle': { title: 'Ciclo de Estudos', category: 'ESTUDO DIÁRIO' },
-    study: { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
-    'study-room': { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
+    study: { title: 'Sala de Estudos', category: 'ESTUDO DIÁRIO' },
+    'study-room': { title: 'Sala de Estudos', category: 'ESTUDO DIÁRIO' },
     simulados: { title: 'Simulados & Treino Real', category: 'TREINO & PRÁTICA' },
     erros: { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
     'error-notebook': { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
@@ -133,12 +134,12 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
 
           {/* Desktop Institutional Breadcrumbs */}
-          <div className="hidden lg:flex items-center gap-2 text-xs">
-            <span className="font-mono text-[var(--text-muted)] uppercase tracking-wider text-xs font-bold px-2 py-0.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+          <div className="hidden lg:flex items-center gap-2 text-xs font-sans">
+            <span className="text-[11px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider px-2 py-0.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
               {currentTabInfo.category}
             </span>
             <ChevronRight className="w-3.5 h-3.5 text-[var(--text-muted)]" />
-            <span className="font-display font-bold text-[var(--text-primary)] text-sm tracking-tight">
+            <span className="font-sans font-bold text-[var(--text-primary)] text-sm tracking-tight">
               {currentTabInfo.title}
             </span>
           </div>
@@ -162,8 +163,9 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
 
           {/* Edital Official Badge */}
-          <div className="hidden xl:flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20 text-xs font-mono text-[var(--accent-primary)] font-bold shadow-xs">
-            <span>{currentCareer.shortName || currentCareer.banca}</span>
+          <div className="hidden xl:flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20 text-xs font-sans text-[var(--accent-primary)] font-bold shadow-xs">
+            <GraduationCap className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+            <span>{currentCareer.shortName || currentCareer.name.split('—')[0].trim()}</span>
           </div>
 
           {/* Theme Toggle */}

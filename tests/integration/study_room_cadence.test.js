@@ -391,6 +391,21 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.strictEqual(flashcardsData.cards.length, 5, 'Deve retornar 5 flashcards estruturados');
   assert.ok(flashcardsData.cards[0].front && flashcardsData.cards[0].back, 'Flashcards devem ter frente e verso');
   console.log(`  ✅ 16. Geração de Flashcards Anki com Repetição Espaçada (${flashcardsData.cards.length} cards): PASSOU`);
+
+  // 17. Validar que lições digitais IA possuem pdfUrl: null (não tentam acessar /uploads com 403)
+  const matsCheckRes = await fetch(`${baseUrl}/api/study-room/materials?careerId=tce_rj`, {
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'tce_rj'
+    }
+  });
+  const matsCheckData = await matsCheckRes.json();
+  assert.strictEqual(matsCheckRes.status, 200);
+  const digitalMat = matsCheckData.materials.find(m => m.id === genData.materialId);
+  assert.ok(digitalMat, 'Deve encontrar material digital gerado');
+  assert.strictEqual(digitalMat.pdfUrl, null, 'Material digital IA deve ter pdfUrl como null');
+  console.log('  ✅ 17. Validação de Leitor Digital (pdfUrl = null, sem 403 no /uploads): PASSOU');
 }
 
 if (process.argv[1]?.endsWith('study_room_cadence.test.js')) {

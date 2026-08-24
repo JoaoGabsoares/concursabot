@@ -682,7 +682,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
       const res = await api.generateLessonFlashcards({
         subject: selectedSubject,
         topic: currentModule?.title || selectedSubject,
-        lessonContent: currentPageData?.bodyText || currentModule?.title,
+        lessonContent: activePage?.bodyText || currentModule?.title || selectedSubject,
         count: 5,
         careerId
       });

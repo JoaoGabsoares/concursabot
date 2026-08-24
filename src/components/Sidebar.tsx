@@ -79,19 +79,21 @@ export const Sidebar: React.FC<SidebarProps> = ({
 
         {/* 2. Edital Selector (Official Process Style) */}
         <div className="p-4 border-b border-[var(--border-subtle)] relative bg-[var(--bg-elevated)]/30">
-          <div className="text-[11px] font-mono font-bold text-[var(--text-secondary)] uppercase tracking-wider mb-1.5 px-1 flex items-center justify-between">
-            <span>[ EDITAL EM FOCO ]</span>
-            <span className="text-[var(--accent-primary)]">{currentCareer.banca}</span>
+          <div className="text-[11px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider mb-2 px-1 flex items-center justify-between">
+            <span>EDITAL EM FOCO</span>
+            <span className="text-xs text-[var(--accent-primary)] font-bold px-1.5 py-0.5 rounded bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/20">
+              {currentCareer.shortName || currentCareer.banca.split('/')[0].trim()}
+            </span>
           </div>
           <button
             onClick={() => setDropdownOpen(!dropdownOpen)}
             className="w-full flex items-center justify-between p-3 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] transition-all text-left shadow-sm group focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] cursor-pointer"
           >
             <div className="truncate pr-2 space-y-0.5">
-              <div className="text-sm font-bold text-[var(--text-primary)] truncate">
-                {currentCareer.name.split('—')[0]}
+              <div className="text-sm font-bold text-[var(--text-primary)] truncate font-sans">
+                {currentCareer.name.split('—')[0].trim()}
               </div>
-              <div className="text-xs font-mono text-[var(--text-muted)]">
+              <div className="text-xs text-[var(--text-muted)] truncate font-sans">
                 Banca: {currentCareer.banca}
               </div>
             </div>

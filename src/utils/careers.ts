@@ -4,6 +4,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'bb_comercial',
     name: 'Banco do Brasil — Agente Comercial',
+    shortName: 'BB Comercial',
     banca: 'Fundação Cesgranrio',
     description: 'Atendimento bancário, vendas, produtos financeiros, CDC, investimentos, CDC e previdência.',
     tags: ['Nível Médio', 'Carreira Bancária', 'Concurso Nacional']
@@ -11,6 +12,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'bb_ti',
     name: 'Banco do Brasil — Agente de TI',
+    shortName: 'BB Tecnologia',
     banca: 'Fundação Cesgranrio',
     description: 'Engenharia de software, microsserviços, cloud, Python, SQL, Java e arquitetura de dados.',
     tags: ['Nível Médio/Técnico', 'Tecnologia da Informação', 'Alta Demanda']
@@ -18,6 +20,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'atrfb',
     name: 'Receita Federal — Analista-Tributário (ATRFB)',
+    shortName: 'Receita ATRFB',
     banca: 'Fundação Getulio Vargas (FGV)',
     description: 'Direito Tributário, Previdenciário, Legislação Tributária e Aduaneira, Fluência em Dados e Direito Público.',
     tags: ['Nível Superior', 'Fiscal Federal', 'Receita Federal']
@@ -25,6 +28,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'afrfb',
     name: 'Receita Federal — Auditor-Fiscal (AFRFB)',
+    shortName: 'Receita AFRFB',
     banca: 'Fundação Getulio Vargas (FGV)',
     description: 'Auditoria fiscal, Tributário avançado, Contabilidade societária, Comércio Internacional e Legislação Aduaneira.',
     tags: ['Nível Superior', 'Auditoria Fiscal', 'Topo de Carreira']
@@ -32,6 +36,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'ses_rj',
     name: 'Saúde RJ — SES-RJ / IASERJ 2026',
+    shortName: 'Saúde RJ',
     banca: 'Instituto IBDO Projetos',
     description: 'Legislação do SUS (Leis 8.080 e 8.142), Enfermagem e Procedimentos Clínicos e Administração Pública RJ.',
     tags: ['Nível Médio/Superior', 'Saúde Pública RJ', 'Concurso Iminente']
@@ -39,6 +44,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'marinha_rm2',
     name: 'Marinha do Brasil — SMV RM2 Praças',
+    shortName: 'Marinha RM2',
     banca: 'DEnsM / Comando do 1º Distrito Naval',
     description: 'Tradições Navais, Estatuto dos Militares (Lei 6.880/80), RDM, LESTA e Língua Portuguesa DEnsM.',
     tags: ['Nível Médio/Técnico', 'Militar Naval', 'Praça Temporária']
@@ -46,6 +52,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'transpetro_adm',
     name: 'Transpetro — Técnico de Administração e Controle Jr',
+    shortName: 'Transpetro ADM',
     banca: 'Fundação Cesgranrio',
     description: 'Administração Geral (PODC), Gestão por Processos, Lei das Estatais (Lei 13.303/16), Arquivo e Português.',
     tags: ['Nível Médio', 'Petrobras / Transpetro', 'Quadro de Terra']
@@ -53,6 +60,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'transpetro_log',
     name: 'Transpetro — Técnico de Suprimento e Logística Jr',
+    shortName: 'Transpetro LOG',
     banca: 'Fundação Cesgranrio',
     description: 'Gestão de Estoques (Curva ABC, Ponto de Pedido), Armazenagem, Modais de Transporte, Compras e Lei 13.303/16.',
     tags: ['Nível Médio', 'Petrobras / Transpetro', 'Logística de Entrada']
@@ -60,6 +68,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'tce_rj',
     name: 'TCE-RJ — Técnico de Controle Externo',
+    shortName: 'TCE-RJ',
     banca: 'CEBRASPE (CESPE)',
     description: 'Contabilidade Pública (CASP), Direito Administrativo, Língua Portuguesa, Controle Externo, Constitucional e Administração.',
     tags: ['Sem Exigência de Experiência', 'Nível Médio/Superior', 'Tribunal de Contas']
@@ -67,6 +76,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'iss_niteroi',
     name: 'ISS Niterói/RJ — Fiscal de Tributos Municipais',
+    shortName: 'ISS Niterói',
     banca: 'Fundação Getulio Vargas (FGV)',
     description: 'Direito Tributário, Legislação Tributária de Niterói, Contabilidade Geral/Avançada, Auditoria Fiscal e Português.',
     tags: ['Nível Superior', 'Fisco Municipal', 'Alta Remuneração']
@@ -74,6 +84,7 @@ export const CAREERS_LIST: Career[] = [
   {
     id: 'tcu_aufc',
     name: 'TCU — Auditor Federal de Controle Externo (AUFC)',
+    shortName: 'TCU AUFC',
     banca: 'FGV / Cebraspe',
     description: 'Controle Externo, Auditoria Governamental, Análise de Dados, AFO, CASP, Direito Público e Português.',
     tags: ['Nível Superior Qualquer Área', 'Controle Externo Federal', 'Top Tier Salarial']

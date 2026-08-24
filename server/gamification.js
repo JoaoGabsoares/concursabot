@@ -133,6 +133,12 @@ export const CAREER_SUBJECTS = {
   'adm_tribunais': ['Direito Administrativo', 'Direito Constitucional', 'Língua Portuguesa', 'Administração Geral e Pública', 'Raciocínio Lógico Matemático']
 };
 
+function daysDiffBetween(dateStrA, dateStrB) {
+  const dA = new Date(dateStrA + 'T12:00:00Z');
+  const dB = new Date(dateStrB + 'T12:00:00Z');
+  return Math.round((dA.getTime() - dB.getTime()) / (1000 * 60 * 60 * 24));
+}
+
 export function calculateUserStreak(userId, careerId = null) {
   try {
     let dates = [];
@@ -148,6 +154,11 @@ export function calculateUserStreak(userId, careerId = null) {
           LEFT JOIN study_materials sm ON ss.material_id = sm.id
           WHERE ss.user_id = ? AND ss.status = 'completed' AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
           UNION
+          SELECT ss.completed_at as study_time 
+          FROM study_sessions ss
+          LEFT JOIN study_materials sm ON ss.material_id = sm.id
+          WHERE ss.user_id = ? AND ss.status = 'completed' AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
+          UNION
           SELECT qa.answered_at as study_time 
           FROM question_answers qa
           JOIN questions q ON qa.question_id = q.id
@@ -156,51 +167,67 @@ export function calculateUserStreak(userId, careerId = null) {
           SELECT s.completed_at as study_time 
           FROM simulados s
           WHERE s.user_id = ? AND s.career_id = ? AND s.status = 'completed'
+          UNION
+          SELECT al.created_at as study_time 
+          FROM activity_log al
+          WHERE al.user_id = ? AND (al.career_id = ? OR al.career_id IS NULL)
+            AND al.type IN ('study', 'question', 'flashcard', 'flashcard_review', 'simulado', 'material', 'study_session')
         )
-        WHERE study_date IS NOT NULL
+        WHERE study_date IS NOT NULL AND length(study_date) = 10
         ORDER BY study_date DESC
-      `).all(userId, careerId, careerId, ...subjects, userId, careerId, ...subjects, userId, careerId);
+      `).all(
+        userId, careerId, careerId, ...subjects,
+        userId, careerId, careerId, ...subjects,
+        userId, careerId, ...subjects,
+        userId, careerId,
+        userId, careerId
+      );
     } else {
       dates = db.prepare(`
         SELECT DISTINCT substr(study_time, 1, 10) as study_date
         FROM (
           SELECT started_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
           UNION
+          SELECT completed_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
+          UNION
           SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
           UNION
           SELECT completed_at as study_time FROM simulados WHERE user_id = ? AND status = 'completed'
+          UNION
+          SELECT created_at as study_time FROM activity_log WHERE user_id = ? AND type IN ('study', 'question', 'flashcard', 'flashcard_review', 'simulado', 'material', 'study_session')
         )
-        WHERE study_date IS NOT NULL
+        WHERE study_date IS NOT NULL AND length(study_date) = 10
         ORDER BY study_date DESC
-      `).all(userId, userId, userId);
+      `).all(userId, userId, userId, userId, userId);
     }
 
     if (dates.length === 0) return 0;
 
-    let streak = 0;
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
+    const now = new Date();
+    const pad = (n) => String(n).padStart(2, '0');
+    const localToday = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}`;
+    const utcToday = now.toISOString().slice(0, 10);
 
-    for (let i = 0; i < dates.length; i++) {
-      const d = new Date(dates[i].study_date + 'T00:00:00');
-      const diffDays = Math.round((today - d) / (1000 * 60 * 60 * 24));
+    // Verifica a distância do dia mais recente de estudo para hoje
+    const diffLocal = daysDiffBetween(localToday, dates[0].study_date);
+    const diffUtc = daysDiffBetween(utcToday, dates[0].study_date);
+    const minDiff = Math.min(diffLocal, diffUtc);
 
-      if (i === 0) {
-        if (diffDays >= -1 && diffDays <= 1) {
-          streak = 1;
-        } else {
-          return 0;
-        }
+    // Se o último estudo foi hoje (0), ontem (1) ou amanhã no fuso (+/-1), a sequência está ativa!
+    if (minDiff > 1 || minDiff < -1) {
+      return 0;
+    }
+
+    let streak = 1;
+    for (let i = 1; i < dates.length; i++) {
+      const gap = daysDiffBetween(dates[i - 1].study_date, dates[i].study_date);
+      if (gap === 1) {
+        streak++;
       } else {
-        const prevDate = new Date(dates[i - 1].study_date + 'T00:00:00');
-        const gap = Math.round((prevDate - d) / (1000 * 60 * 60 * 24));
-        if (gap === 1) {
-          streak++;
-        } else {
-          break;
-        }
+        break;
       }
     }
+
     return streak;
   } catch (e) {
     console.error('Error calculating user streak:', e);
