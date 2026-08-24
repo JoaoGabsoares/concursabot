@@ -50,7 +50,8 @@ import {
   BrainCircuit,
   BookMarked,
   GraduationCap,
-  Compass
+  Compass,
+  Printer
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -1055,6 +1056,32 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
     setAnswered(false);
   };
 
+  const handlePrintDoctrinePdf = () => {
+    window.print();
+  };
+
+  // Navegação fluida por teclas de seta (← / →) durante a leitura da teoria
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      const activeTag = document.activeElement?.tagName?.toLowerCase();
+      if (activeTag === 'input' || activeTag === 'textarea' || isFlashcardModalOpen || isUploadModalOpen || isGenerateModalOpen) {
+        return;
+      }
+      if (activeTab === 'teoria') {
+        if (e.key === 'ArrowRight' || e.key === 'PageDown') {
+          e.preventDefault();
+          handleNextPage();
+        } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+          e.preventDefault();
+          handlePrevPage();
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [activeTab, effectiveTotalPages, isFlashcardModalOpen, isUploadModalOpen, isGenerateModalOpen]);
+
   const handleAdvanceToNextModule = () => {
     if (selectedModuleNumber < subjectModules.length) {
       handleSelectModule(selectedModuleNumber + 1);
@@ -1735,9 +1762,41 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                     <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-sans text-xs font-bold uppercase tracking-wider">
                       🎯 Tendência da Banca {currentCareer.banca} • {activePage?.category || 'Doutrina & Teoria'}
                     </span>
-                    <span className="text-xs font-mono text-[var(--text-muted)] font-bold">
-                      Página {currentPage} de {effectiveTotalPages}
-                    </span>
+                    <div className="flex items-center gap-2">
+                      <div className="flex items-center gap-1 bg-[var(--bg-surface)] p-1 rounded-lg border border-[var(--border-subtle)] shadow-xs">
+                        <button
+                          type="button"
+                          onClick={handlePrevPage}
+                          disabled={currentPage <= 1}
+                          className="px-2 py-1 rounded bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] disabled:opacity-30 text-xs font-bold transition-colors cursor-pointer flex items-center gap-1"
+                          title="Página Anterior (←)"
+                        >
+                          <ChevronLeft className="w-3.5 h-3.5 inline" /> <span className="hidden sm:inline">Anterior</span>
+                        </button>
+                        <span className="text-xs font-mono px-2 text-[var(--accent-primary)] font-bold">
+                          {currentPage} / {effectiveTotalPages}
+                        </span>
+                        <button
+                          type="button"
+                          onClick={handleNextPage}
+                          disabled={currentPage >= effectiveTotalPages}
+                          className="px-2 py-1 rounded bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] disabled:opacity-30 text-xs font-bold transition-colors cursor-pointer flex items-center gap-1"
+                          title="Próxima Página (→)"
+                        >
+                          <span className="hidden sm:inline">Próxima</span> <ChevronRight className="w-3.5 h-3.5 inline" />
+                        </button>
+                      </div>
+
+                      <button
+                        type="button"
+                        onClick={handlePrintDoctrinePdf}
+                        className="px-2.5 py-1.5 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:bg-[var(--bg-elevated)] text-[var(--text-muted)] hover:text-[var(--text-primary)] text-xs font-sans font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer"
+                        title="Exportar ou Imprimir Caderno de Doutrina"
+                      >
+                        <Printer className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+                        <span className="hidden md:inline">Exportar / Imprimir</span>
+                      </button>
+                    </div>
                   </div>
                   <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans">
                     {selectedCustomMaterial 
@@ -1951,6 +2010,41 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                     </div>
                   )}
 
+                </div>
+
+                {/* 5. NAVEGAÇÃO PROEMINENTE ENTRE PÁGINAS (BOTÕES GRANDES) */}
+                <div className="pt-6 border-t border-[var(--border-subtle)] mt-8 flex flex-col sm:flex-row items-center justify-between gap-3">
+                  <button
+                    type="button"
+                    onClick={handlePrevPage}
+                    disabled={currentPage <= 1}
+                    className="w-full sm:w-auto px-4 py-3 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] disabled:opacity-30 disabled:cursor-not-allowed font-sans text-xs font-bold text-[var(--text-primary)] flex items-center justify-center gap-2 transition-all cursor-pointer shadow-xs"
+                  >
+                    <ChevronLeft className="w-4 h-4" />
+                    <span>Página Anterior ({currentPage > 1 ? currentPage - 1 : 1})</span>
+                  </button>
+
+                  <div className="flex items-center gap-2 w-full sm:w-auto">
+                    {currentPage < effectiveTotalPages ? (
+                      <button
+                        type="button"
+                        onClick={handleNextPage}
+                        className="w-full sm:w-auto px-6 py-3 rounded-xl bg-[var(--accent-primary)] hover:bg-[var(--accent-primary-hover)] text-white font-sans text-xs font-bold flex items-center justify-center gap-2 transition-all cursor-pointer shadow-md"
+                      >
+                        <span>Avançar para Página 0{currentPage + 1}</span>
+                        <ChevronRight className="w-4 h-4" />
+                      </button>
+                    ) : (
+                      <button
+                        type="button"
+                        onClick={handleSwitchToQuestions}
+                        className="w-full sm:w-auto px-6 py-3 rounded-xl bg-[var(--color-status-success)] text-white font-sans text-xs font-bold flex items-center justify-center gap-2 transition-all cursor-pointer shadow-md"
+                      >
+                        <CheckCircle2 className="w-4 h-4" />
+                        <span>Concluir Teoria & Fazer Questões ➔</span>
+                      </button>
+                    )}
+                  </div>
                 </div>
 
               </div>

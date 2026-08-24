@@ -406,6 +406,20 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.ok(digitalMat, 'Deve encontrar material digital gerado');
   assert.strictEqual(digitalMat.pdfUrl, null, 'Material digital IA deve ter pdfUrl como null');
   console.log('  ✅ 17. Validação de Leitor Digital (pdfUrl = null, sem 403 no /uploads): PASSOU');
+
+  // Teardown automático: remove dados temporários de teste para isolamento 100%
+  try {
+    const { default: db } = await import('../../server/database.js');
+    db.prepare('DELETE FROM study_sessions WHERE user_id = ?').run(prof.id);
+    db.prepare('DELETE FROM question_answers WHERE user_id = ?').run(prof.id);
+    db.prepare('DELETE FROM simulados WHERE user_id = ?').run(prof.id);
+    db.prepare('DELETE FROM activity_log WHERE user_id = ?').run(prof.id);
+    db.prepare('DELETE FROM user_xp_log WHERE user_id = ?').run(prof.id);
+    db.prepare('DELETE FROM user_profiles WHERE id = ?').run(prof.id);
+    if (reg.accountId) {
+      db.prepare('DELETE FROM accounts WHERE id = ?').run(reg.accountId);
+    }
+  } catch (_) {}
 }
 
 if (process.argv[1]?.endsWith('study_room_cadence.test.js')) {

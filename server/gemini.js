@@ -139,12 +139,13 @@ async function generateJSON(prompt, systemInstruction = '', schema, model = DEFA
         return JSON.parse(response.text);
     } catch (error) {
         const duration = Date.now() - start;
-        const nextModel = getNextFallbackModel(model);
+        const isAuthError = error.message?.includes('401') || error.message?.includes('UNAUTHENTICATED') || error.message?.includes('invalid authentication');
+        const nextModel = !isAuthError ? getNextFallbackModel(model) : null;
         if (nextModel) {
             logger.warn('GEMINI', `Falha no modelo ${model} (${error.message}) após ${duration}ms. Tentando fallback para ${nextModel}...`);
             return generateJSON(prompt, systemInstruction, schema, nextModel, timeoutMs);
         }
-        logger.error('GEMINI', `Erro definitivo na API do Gemini (generateJSON) [${model}]: ${error.message}`, error.stack);
+        logger.error('GEMINI', `Erro na API do Gemini (generateJSON) [${model}]: ${error.message}`);
         throw error;
     }
 }

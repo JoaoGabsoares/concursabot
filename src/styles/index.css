@@ -314,3 +314,47 @@ html:not(.dark) ::-webkit-scrollbar-thumb:hover {
 .animate-fade-in {
   animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
+
+/* Regras de Impressão e Exportação PDF */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #111827 !important;
+    font-size: 12pt;
+  }
+
+  aside, header, nav, .no-print, button {
+    display: none !important;
+  }
+
+  .p-4, .p-5, .p-6, .p-8 {
+    padding: 0 !important;
+  }
+
+  .border, .border-l-4 {
+    border-color: #e5e7eb !important;
+  }
+
+  .bg-\[var\(--bg-elevated\)\], .bg-\[var\(--bg-surface\)\], .bg-\[var\(--bg-base\)\] {
+    background-color: transparent !important;
+  }
+
+  .text-\[var\(--text-primary\)\] {
+    color: #111827 !important;
+  }
+
+  .text-\[var\(--text-secondary\)\], .text-\[var\(--text-muted\)\] {
+    color: #4b5563 !important;
+  }
+
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+  }
+
+  th, td {
+    border: 1px solid #d1d5db !important;
+    padding: 6px 8px !important;
+    color: #111827 !important;
+  }
+}

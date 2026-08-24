@@ -851,6 +851,120 @@ router.get('/edital-subtopics', (req, res) => {
   }
 });
 
+export function buildComprehensiveDomainLesson({ subject, topic, lessonNumber = 1, densityMode = 'doutrina_completa', career, careerId }) {
+  const numAula = parseInt(lessonNumber, 10) || 1;
+  const targetTopic = topic || `Estudo Aprofundado de ${subject} • Módulo ${numAula}`;
+  const careerName = career?.name || 'Concurso Público Oficial';
+  const bancaName = career?.bancas?.[0]?.name || career?.banca || 'Banca Examinadora Oficial';
+
+  let lawRef = 'Constituição Federal de 1988 e normas gerais de regência';
+  let specificTrap = 'Inversão entre requisitos vinculados e hipóteses discricionárias.';
+  let deepConcept = `A disciplina de ${subject} no âmbito de ${careerName} exige domínio seguro das regras primárias, regimes jurídicos e posicionamentos consolidados.`;
+
+  if (careerId === 'marinha_rm2' || subject.includes('Militar') || subject.includes('Naval')) {
+    lawRef = 'Estatuto dos Militares (Lei Federal nº 6.880/1980), RDM (Decreto nº 88.545/1983), LESTA (Lei 9.537/1997) e Cerimonial da Marinha';
+    specificTrap = 'Diferenciação entre Posto (Oficiais) e Graduação (Praças), e aplicação de sanções disciplinares a militares da reserva remunerada.';
+    deepConcept = 'A hierarquia e a disciplina são as bases institucionais das Forças Armadas, com subordinação direta e estrita conformidade às ordens de serviço.';
+  } else if (careerId === 'atrfb' || careerId === 'afrfb' || subject.includes('Tributário') || subject.includes('Aduaneira')) {
+    lawRef = 'Código Tributário Nacional (Lei 5.172/1966), CF/88 (arts. 145 a 162), Regulamento Aduaneiro (Decreto 6.759/2009)';
+    specificTrap = 'Confusão entre Isenção, Imunidade e Anistia, e aplicação do princípio do non olet.';
+    deepConcept = 'O lançamento tributário é ato administrativo plenamente vinculado e obrigatório, sob pena de responsabilidade funcional do auditor.';
+  } else if (careerId === 'tce_rj' || careerId === 'tcu_aufc' || subject.includes('Controle') || subject.includes('Contabilidade')) {
+    lawRef = 'CF/88 (arts. 70 a 75), Lei de Licitações e Contratos (Lei 14.133/2021), LRF (LC 101/2000) e Normas CASP';
+    specificTrap = 'Diferença entre Parecer Prévio sobre contas de Chefe do Executivo e Julgamento das Contas de Gestores Ordenadores de Despesa.';
+    deepConcept = 'O controle externo exercido pelo Tribunal de Contas possui competência fiscalizatória ampla de legalidade, legitimidade e economicidade.';
+  }
+
+  return {
+    titulo: targetTopic,
+    materia: subject,
+    numeroAula: numAula,
+    bancaTrend: `Cobrança frequente de regras gerais, exceções literais e pegadinhas em ${subject} pela banca ${bancaName}.`,
+    resumoEstrategico: `Estudo sistemático e aprofundado dos institutos de ${subject} voltado para o edital do ${careerName}.`,
+    totalPages: 5,
+    pages: [
+      {
+        pageNumber: 1,
+        pageTitle: '1. Doutrina Aprofundada & Fundamentos Dogmáticos',
+        category: 'Doutrina & Teoria',
+        leadText: `Compreensão conceitual dos pontos essenciais exigidos no edital para ${subject} (${targetTopic}).`,
+        bodyText: `${deepConcept}\n\nO candidato deve atentar para a estruturação normativa da matéria, identificando os elementos constitutivos, as competências legais atribuídas e a finalidade do ato administrativo no âmbito de ${careerName}.\n\nA banca ${bancaName} costuma exigir não apenas a literalidade da norma, mas a correlação sistemática entre os institutos e a segurança jurídica nas decisões.`,
+        deepDiveText: `A jurisprudência dominante e a doutrina consolidada reforçam que o cumprimento estrito dos requisitos formais constitui elemento indispensável de validade e higidez jurídica dos procedimentos em ${subject}.`
+      },
+      {
+        pageNumber: 2,
+        pageTitle: '2. Esquemas Estruturais, Tabelas & Mnemônicos',
+        category: 'Esquemas & Tabelas',
+        leadText: 'Quadro comparativo analítico e mnemônicos práticos para rápida fixação visual.',
+        bodyText: 'Utilize os parâmetros comparativos para não confundir institutos correlatos na hora da prova.',
+        tableData: {
+          headers: ['Instituto / Hipótese', 'Regra Geral', 'Ponto Crítico na Prova', 'Exceção / Ressalva'],
+          rows: [
+            ['Regra Geral de Regência', `Aplicação prioritária em ${subject}`, 'Cai com alta frequência literal', 'Demanda previsão expressa em lei'],
+            ['Procedimento Especial', 'Casos com rito diferenciado', 'A banca tenta aplicar a regra geral', 'Hipóteses taxativas de exceção'],
+            ['Precedente Vinculante', 'Entendimento pacificado dos Tribunais', 'Cobrança do teor de súmula/tese', 'Divergência doutrinária minoritária'],
+            ['Regime Sancionador', 'Apuração estrita do fato com contraditório', 'Prazos decadenciais e prescricionais', 'Ações de ressarcimento por dano ao erário']
+          ]
+        },
+        mnemonics: [
+          { code: 'LEITURA + FIXAÇÃO', meaning: 'Combine o estudo de texto com resolução ativa de questões comentadas.' },
+          { code: 'ATENÇÃO ÀS EXCEÇÕES', meaning: 'Palavras restritivas (sempre, nunca, exclusivamente) frequentemente indicam assertiva incorreta.' }
+        ]
+      },
+      {
+        pageNumber: 3,
+        pageTitle: '3. Casos Concretos & Análise de Pegadinhas da Banca',
+        category: 'Casos Práticos & Pegadinhas',
+        leadText: `Análise de situações hipotéticas práticas simulando enunciados reais da banca ${bancaName}.`,
+        bodyText: 'Fique atento à inversão de papéis e à troca de conceitos semelhantes no enunciado da questão.',
+        practicalCases: [
+          {
+            title: `Pegadinha Clássica da Banca em ${subject}`,
+            scenario: `O examinador formula um caso prático alegando que a regra geral deve ser aplicada sem qualquer ressalva, omitindo que a situação fática se enquadra na exceção legal prevista em ${lawRef}.`,
+            tip: `Dica de Ouro: ${specificTrap}`
+          },
+          {
+            title: 'Interpretação Extensiva Indevida',
+            scenario: `Assertiva que amplia hipótese restritiva de vedação legal para abarcar situações legítimas não contempladas na norma.`,
+            tip: 'Normas restritivas de direitos ou sancionatórias interpretam-se estritamente, vedada a analogia in malam partem.'
+          }
+        ]
+      },
+      {
+        pageNumber: 4,
+        pageTitle: '4. Legislação Litigiosa, Artigos de Ouro & Jurisprudência',
+        category: 'Lei Seca & Súmulas',
+        leadText: `Dispositivos normativos e súmulas de leitura obrigatória para ${careerName}.`,
+        bodyText: `Texto normativo com ênfase nas palavras-chave mais cobradas pelas bancas examinadoras:`,
+        lawArticles: [
+          { article: 'Norma Principal de Regência', text: `${lawRef}: aplicação obrigatória e direta nos certames públicos.` },
+          { article: 'Princípio da Legalidade Estrita', text: 'A administração pública está adstrita aos mandamentos da lei, sendo vedada qualquer atuação contra legem ou praeter legem.' }
+        ]
+      },
+      {
+        pageNumber: 5,
+        pageTitle: '5. Fixação de Alto Rendimento & Questão Comentada',
+        category: 'Fixação & Questões',
+        leadText: `Treino prático com assertiva comentada no modelo oficial da banca ${bancaName}.`,
+        bodyText: 'Analise o comando com atenção redobrada e resolva o item de fixação a seguir:',
+        question: {
+          id: Date.now(),
+          question: `(${bancaName} / ${careerName}) Em relação aos preceitos normativos e doutrinários aplicáveis à disciplina de ${subject} (${targetTopic}), assinale a opção correta:`,
+          options: {
+            A: "A interpretação sistemática, a subordinação aos princípios institucionais e a conformidade formal regem a validade dos atos e procedimentos.",
+            B: "As bancas examinadoras anulam automaticamente qualquer questão que envolva jurisprudência consolidada dos Tribunais Superiores.",
+            C: "A mera discricionariedade do agente público afasta a necessidade de motivação e o controle de legalidade.",
+            D: "Os prazos decadenciais e prescricionais fixados em lei possuem natureza meramente orientativa para o cidadão.",
+            E: "É admitida a criação de obrigações sancionatórias gravosas sem prévia cominação legal expressa."
+          },
+          answer: "A",
+          explanation: `A alternativa A está plenamente correta. No âmbito dos certames de alto nível para ${careerName}, a interpretação harmônica, a observância dos princípios reitores e a legalidade estrita constituem o núcleo das assertivas corretas.`
+        }
+      }
+    ]
+  };
+}
+
 // POST /generate-lesson — Gera Apostila Digital Completa / Caderno de Doutrina Paginado via IA
 router.post('/generate-lesson', async (req, res) => {
   try {
@@ -876,88 +990,15 @@ router.post('/generate-lesson', async (req, res) => {
     try {
       lessonData = await generateJSON(prompt, LESSON_GENERATOR_SYSTEM_INSTRUCTION);
     } catch (aiErr) {
-      logger.warn('STUDY_ROOM', `Falha ao gerar JSON de aula com IA: ${aiErr.message}. Usando fallback estruturado.`);
-      lessonData = {
-        titulo: topic || `Doutrina Completa de ${subject} • Aula 0${numAula}`,
-        materia: subject,
-        numeroAula: numAula,
-        bancaTrend: `Cobrança frequente de regras gerais e pegadinhas em ${subject} pela banca ${career.bancas?.[0]?.name || 'oficial'}.`,
-        resumoEstrategico: `Estudo sistemático dos institutos de ${subject} voltado para o edital do ${career.name}.`,
-        totalPages: 5,
-        pages: [
-          {
-            pageNumber: 1,
-            pageTitle: '1. Doutrina Aprofundada & Fundamentos Dogmáticos',
-            category: 'Doutrina & Teoria',
-            leadText: `Compreensão conceitual dos pontos essenciais exigidos no edital para ${subject}.`,
-            bodyText: `O estudo da matéria de ${subject} envolve a análise aprofundada das normas de regência, princípios constitucionais aplicáveis e correntes doutrinárias consolidadas pelos tribunais superiores.\n\nÉ indispensável que o candidato domine a distinção entre a regra geral e as hipóteses de exceção, que constituem o núcleo dos itens elaborados pela banca.`,
-            deepDiveText: `A jurisprudência dominante reforça que o cumprimento estrito dos requisitos legais e a conformidade formal são elementos indispensáveis de validação dos atos relacionados a ${subject}.`
-          },
-          {
-            pageNumber: 2,
-            pageTitle: '2. Esquemas Estruturais, Tabelas & Mnemônicos',
-            category: 'Esquemas & Tabelas',
-            leadText: 'Quadro comparativo dos principais critérios para rápida fixação visual.',
-            bodyText: 'Utilize os parâmetros comparativos para não confundir institutos correlatos na hora da prova.',
-            tableData: {
-              headers: ['Instituto / Regra', 'Conceito Central', 'Ponto Crítico na Prova', 'Exceção'],
-              rows: [
-                ['Regra Geral', `Aplicação prioritária em ${subject}`, 'Cai com alta frequência literal', 'Exige previsão expressa'],
-                ['Procedimento Especial', 'Casos com rito diferenciado', 'A banca tenta aplicar a regra geral', 'Hipóteses taxativas'],
-                ['Precedente Obrigatório', 'Entendimento pacificado', 'Cobrança do teor de súmula', 'Divergência minoritária']
-              ]
-            },
-            mnemonics: [
-              { code: 'LEITURA + FIXAÇÃO', meaning: 'Combine estudo de texto com resolução de questões comentadas.' },
-              { code: 'ATENÇÃO ÀS EXCEÇÕES', meaning: 'Palavras restritivas (sempre, nunca) frequentemente indicam assertiva incorreta.' }
-            ]
-          },
-          {
-            pageNumber: 3,
-            pageTitle: '3. Casos Concretos & Análise de Pegadinhas da Banca',
-            category: 'Casos Práticos & Pegadinhas',
-            leadText: 'Análise de situações hipotéticas práticas simulando enunciados reais de concurso.',
-            bodyText: 'Fique atento à inversão de papéis e à troca de conceitos semelhantes.',
-            practicalCases: [
-              {
-                title: `Pegadinha Clássica da Banca em ${subject}`,
-                scenario: `O examinador apresenta uma situação fática alegando que a regra geral deve ser aplicada sem qualquer ressalva.`,
-                tip: `Dica de Ouro: Identifique se o caso se enquadra em uma das exceções legais expressas antes de assinalar.`
-              }
-            ]
-          },
-          {
-            pageNumber: 4,
-            pageTitle: '4. Legislação Litigiosa, Artigos de Ouro & Jurisprudência',
-            category: 'Lei Seca & Súmulas',
-            leadText: 'Dispositivos normativos e súmulas de leitura obrigatória para o concurso.',
-            bodyText: 'Texto literal com ênfase nas palavras-chave mais cobradas.',
-            lawArticles: [
-              { article: 'Norma de Regência', text: `Dispositivo legal e princípios reitores aplicáveis à disciplina de ${subject}.` }
-            ]
-          },
-          {
-            pageNumber: 5,
-            pageTitle: '5. Fixação de Alto Rendimento & Questão Comentada',
-            category: 'Fixação & Questões',
-            leadText: 'Treino prático com assertiva comentada no modelo oficial da banca.',
-            bodyText: 'Analise o comando e resolva o item de fixação.',
-            question: {
-              id: Date.now(),
-              question: `Em relação aos fundamentos da disciplina ${subject}, assinale a alternativa que expressa o entendimento consolidado nas provas de concurso público:`,
-              options: {
-                A: "A interpretação sistemática e a observância aos princípios constitucionais norteiam a aplicação das regras do edital.",
-                B: "As bancas examinadoras anulam automaticamente qualquer questão que envolva jurisprudência recente.",
-                C: "A literalidade da lei afasta a necessidade de compreensão doutrinária.",
-                D: "Os prazos fixados em norma regulamentar possuem natureza meramente sugestiva.",
-                E: "Não é cabível controle de legalidade nos atos vinculados."
-              },
-              answer: "A",
-              explanation: "A alternativa A está correta porque a interpretação harmônica e o respeito à ordem constitucional regem a aplicação do direito nos certames."
-            }
-          }
-        ]
-      };
+      logger.warn('STUDY_ROOM', `Falha ao gerar JSON de aula com IA: ${aiErr.message}. Usando motor doutrinário especialista de alta densidade.`);
+      lessonData = buildComprehensiveDomainLesson({
+        subject,
+        topic,
+        lessonNumber: numAula,
+        densityMode,
+        career,
+        careerId
+      });
     }
 
     // Salva o caderno no banco de dados do usuário como material de estudo digital permanente

@@ -1232,9 +1232,27 @@ Nesse sentido, a atuação integrada da Receita Federal com órgãos de controle
   console.log(`📊 Total de Rotas/Endpoints Testados: ${totalTests}`);
   console.log(`✅ Testes Aprovados:                ${passedTests}`);
   console.log(`❌ Testes Falhos:                   ${failedTests}`);
-  console.log(`🎯 Taxa de Sucesso Oficial:         ${successRate}%`);
-  console.log(`⏱️ Tempo Total de Execução:         ${totalElapsed}s`);
-  console.log('======================================================================\n');
+  // Teardown automático: remoção dos perfis de teste e sessões do banco de dados
+  try {
+    const { default: db } = await import('../server/database.js');
+    if (profileA?.id) {
+      db.prepare('DELETE FROM study_sessions WHERE user_id = ?').run(profileA.id);
+      db.prepare('DELETE FROM question_answers WHERE user_id = ?').run(profileA.id);
+      db.prepare('DELETE FROM simulados WHERE user_id = ?').run(profileA.id);
+      db.prepare('DELETE FROM activity_log WHERE user_id = ?').run(profileA.id);
+      db.prepare('DELETE FROM user_xp_log WHERE user_id = ?').run(profileA.id);
+      db.prepare('DELETE FROM user_profiles WHERE id = ?').run(profileA.id);
+    }
+    if (profileB?.id) {
+      db.prepare('DELETE FROM study_sessions WHERE user_id = ?').run(profileB.id);
+      db.prepare('DELETE FROM question_answers WHERE user_id = ?').run(profileB.id);
+      db.prepare('DELETE FROM simulados WHERE user_id = ?').run(profileB.id);
+      db.prepare('DELETE FROM activity_log WHERE user_id = ?').run(profileB.id);
+      db.prepare('DELETE FROM user_xp_log WHERE user_id = ?').run(profileB.id);
+      db.prepare('DELETE FROM user_profiles WHERE id = ?').run(profileB.id);
+    }
+    db.prepare('DELETE FROM accounts WHERE email LIKE ? OR email LIKE ?').run(`alpha_${timestamp}%`, `beta_${timestamp}%`);
+  } catch (_) {}
 
   return {
     totalTests,
