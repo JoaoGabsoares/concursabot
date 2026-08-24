@@ -36,33 +36,54 @@ export class UniversalPdfService {
    * @param {number} totalPages 
    * @returns {object} { hasExercises, estimatedTheoryPages, estimatedExercisePages, detectedSeparator }
    */
-  detectBoundaries(fullText, totalPages = 1) {
+  detectBoundaries(fullText, totalPages = 1, toc = []) {
+    // 1. Se o Sumário (TOC) extraiu uma página real para a seção de questões ou exercícios
+    if (Array.isArray(toc) && toc.length > 0) {
+      const exerciseTocItem = toc.find(item => 
+        /QUESTÕES|EXERCÍCIOS|GABARITO|FIXAÇÃO|PROVAS ANTERIORES/i.test(item.title)
+      );
+      if (exerciseTocItem && exerciseTocItem.page && exerciseTocItem.page > 1 && exerciseTocItem.page <= totalPages) {
+        const estimatedTheoryPages = exerciseTocItem.page;
+        const estimatedExercisePages = Math.max(0, totalPages - estimatedTheoryPages);
+        return {
+          hasExercises: true,
+          estimatedTheoryPages,
+          estimatedExercisePages,
+          detectedSeparator: exerciseTocItem.title,
+          theoryRatio: Math.round((estimatedTheoryPages / totalPages) * 100)
+        };
+      }
+    }
+
     const exercisePatterns = [
-      /QUESTÕES\s+COMENTADAS/i,
-      /EXERCÍCIOS\s+COMENTADOS/i,
-      /QUESTÕES\s+DA\s+BANCA/i,
-      /QUESTÕES\s+DE\s+FIXAÇÃO/i,
-      /QUESTÕES\s+INÉDITAS/i,
-      /LISTA\s+DE\s+QUESTÕES/i,
-      /GABARITO\s+COMENTADO/i,
-      /EXERCÍCIOS\s+DE\s+PROVAS\s+ANTERIORES/i
+      /\n\s*(?:AULA\s+\d+\s*[-–—:]\s*)?QUESTÕES\s+COMENTADAS/i,
+      /\n\s*(?:AULA\s+\d+\s*[-–—:]\s*)?EXERCÍCIOS\s+COMENTADOS/i,
+      /\n\s*(?:AULA\s+\d+\s*[-–—:]\s*)?QUESTÕES\s+DA\s+BANCA/i,
+      /\n\s*(?:AULA\s+\d+\s*[-–—:]\s*)?QUESTÕES\s+DE\s+FIXAÇÃO/i,
+      /\n\s*(?:AULA\s+\d+\s*[-–—:]\s*)?LISTA\s+DE\s+QUESTÕES/i,
+      /\n\s*(?:AULA\s+\d+\s*[-–—:]\s*)?GABARITO\s+COMENTADO/i
     ];
+
+    // Ignora os primeiros 20% do texto para não casar com o Sumário / Índice / Apresentação
+    const searchStartOffset = Math.floor(fullText.length * 0.20);
+    const searchableText = fullText.slice(searchStartOffset);
 
     let boundaryIndex = -1;
     let detectedSeparator = null;
 
     for (const pattern of exercisePatterns) {
-      const match = fullText.search(pattern);
+      const match = searchableText.search(pattern);
       if (match !== -1) {
-        if (boundaryIndex === -1 || match < boundaryIndex) {
-          boundaryIndex = match;
+        const actualIndex = searchStartOffset + match;
+        if (boundaryIndex === -1 || actualIndex < boundaryIndex) {
+          boundaryIndex = actualIndex;
           detectedSeparator = pattern.source.replace(/\\s\+/g, ' ').replace(/\\/g, '');
         }
       }
     }
 
     if (boundaryIndex !== -1 && fullText.length > 0) {
-      const theoryRatio = Math.max(0.1, Math.min(0.95, boundaryIndex / fullText.length));
+      const theoryRatio = Math.max(0.2, Math.min(0.98, boundaryIndex / fullText.length));
       const estimatedTheoryPages = Math.max(1, Math.round(totalPages * theoryRatio));
       const estimatedExercisePages = Math.max(0, totalPages - estimatedTheoryPages);
 
@@ -219,8 +240,8 @@ export class UniversalPdfService {
    */
   processPdf(rawText, totalPages = 1, filename = '') {
     const sanitizedText = this.sanitizeText(rawText);
-    const boundaries = this.detectBoundaries(sanitizedText, totalPages);
     const toc = this.extractTOC(sanitizedText);
+    const boundaries = this.detectBoundaries(sanitizedText, totalPages, toc);
     const classification = this.classifySubjectAndBanca(sanitizedText, filename);
     const metrics = this.calculateMetrics(sanitizedText, boundaries.estimatedTheoryPages);
 

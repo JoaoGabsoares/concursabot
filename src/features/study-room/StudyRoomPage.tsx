@@ -1391,7 +1391,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                           {mat.title || mat.filename}
                         </h4>
                         <div className="flex items-center gap-2 text-[11px] font-mono text-[var(--text-muted)]">
-                          <span>{mat.current_page || 1}/{mat.theory_pages || mat.total_pages || 1} págs</span>
+                          <span>{mat.current_page || 1}/{mat.total_pages || mat.theory_pages || 1} págs</span>
                           {mat.theory_completed ? (
                             <span className="text-[var(--accent-success)] font-bold">✓ Lido</span>
                           ) : (
@@ -1513,7 +1513,12 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
 
               {/* Universal Badges */}
               <div className="flex items-center gap-2 font-mono text-xs">
-                {selectedCustomMaterial && selectedCustomMaterial.theory_pages && (
+                {selectedCustomMaterial && (selectedCustomMaterial.total_pages || selectedCustomMaterial.theory_pages) && (
+                  <span className="px-2 py-0.5 rounded bg-[var(--bg-surface)] text-[var(--text-primary)] border border-[var(--border-subtle)] font-bold">
+                    📄 {selectedCustomMaterial.total_pages || selectedCustomMaterial.theory_pages} Páginas Totais
+                  </span>
+                )}
+                {selectedCustomMaterial && selectedCustomMaterial.theory_pages && selectedCustomMaterial.total_pages && selectedCustomMaterial.theory_pages < selectedCustomMaterial.total_pages && (
                   <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/20 font-bold">
                     📖 {selectedCustomMaterial.theory_pages}p Teoria
                   </span>
