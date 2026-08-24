@@ -5,7 +5,7 @@ import { PastStudyModal } from '../../components/PastStudyModal';
 import { useToast } from '../../components/Toast';
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
-import { getLessonContent, getModulesForSubject, getModulePage, ModulePage } from '../../utils/studyContent';
+import { getLessonContent, getModulesForSubject, getModulePage, getModuleQuestionBatch, ModulePage, ModuleQuestion } from '../../utils/studyContent';
 import { api } from '../../api/client';
 import { 
   UploadCloud, 
@@ -32,7 +32,10 @@ import {
   Trash2,
   Settings,
   Calendar,
-  Plus
+  Plus,
+  Award,
+  HelpCircle,
+  RefreshCw
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -461,6 +464,13 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   const [filterBySelectedSubject, setFilterBySelectedSubject] = useState<boolean>(true);
   const [isGeneratingAiLesson, setIsGeneratingAiLesson] = useState<boolean>(false);
 
+  // Multi-Question Fixation Batch State (5 a 10+ Questões Sincronizadas)
+  const [questionBatch, setQuestionBatch] = useState<ModuleQuestion[]>([]);
+  const [activeQuestionIndex, setActiveQuestionIndex] = useState<number>(0);
+  const [answeredQuestions, setAnsweredQuestions] = useState<Record<number, { selected: string; isCorrect: boolean; explanation: string; xpGained: number }>>({});
+  const [isAnsweringQuestion, setIsAnsweringQuestion] = useState<boolean>(false);
+  const [isGeneratingMoreQuestions, setIsGeneratingMoreQuestions] = useState<boolean>(false);
+
   // Helpers to get minutes based on cadence preset
   const getReadingMinutes = () => {
     if (cadencePreset === '60_30') return 60;
@@ -675,7 +685,97 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   }, [selectedCustomMaterial, selectedSubject, currentModule.moduleNumber, currentPage]);
 
   const lesson = getLessonContent(selectedSubject);
-  const activeQuestion = activePage?.question || lesson.question;
+
+  // Inicialização e sincronização da Bateria de Questões (Multi-Question Fixation Batch)
+  useEffect(() => {
+    let initialList: ModuleQuestion[] = [];
+
+    if (selectedCustomMaterial) {
+      const rawJson = selectedCustomMaterial.caderno_enxuto || (selectedCustomMaterial as any).analysis_json;
+      if (rawJson) {
+        try {
+          const parsed = typeof rawJson === 'string' ? JSON.parse(rawJson) : rawJson;
+          if (parsed && Array.isArray(parsed.pages)) {
+            parsed.pages.forEach((p: any, idx: number) => {
+              if (p.question) {
+                initialList.push({
+                  id: p.question.id || (idx + 1),
+                  question: p.question.question,
+                  options: p.question.options,
+                  answer: p.question.answer,
+                  explanation: p.question.explanation,
+                  topic: p.pageTitle || selectedCustomMaterial.title,
+                  banca: currentCareer.banca
+                });
+              }
+            });
+          }
+        } catch (e) {
+          console.warn('Erro ao extrair questões do caderno customizado:', e);
+        }
+      }
+    }
+
+    if (initialList.length === 0) {
+      initialList = getModuleQuestionBatch(selectedSubject, selectedModuleNumber);
+    }
+
+    setQuestionBatch(initialList);
+    setActiveQuestionIndex(0);
+    setAnsweredQuestions({});
+    setUserSelectedOption(null);
+    setAnswered(false);
+
+    // Complementa assincronamente com questões do banco de dados
+    api.getModuleQuestions({
+      subject: selectedSubject,
+      topic: currentModule?.title,
+      limit: 5,
+      careerId
+    }).then(res => {
+      if (res && res.success && Array.isArray(res.questions) && res.questions.length > 0) {
+        setQuestionBatch(prev => {
+          const existingIds = new Set(prev.map(q => q.id));
+          const newOnes: ModuleQuestion[] = res.questions
+            .filter((q: any) => !existingIds.has(q.id))
+            .map((q: any) => {
+              let optObj: Record<string, string> = {};
+              if (Array.isArray(q.options)) {
+                ['A', 'B', 'C', 'D', 'E'].forEach((letter, i) => {
+                  if (q.options[i]) optObj[letter] = q.options[i];
+                });
+              } else if (typeof q.options === 'object' && q.options !== null) {
+                optObj = q.options;
+              }
+              const letters = ['A', 'B', 'C', 'D', 'E'];
+              const ansLetter = typeof q.correctIndex === 'number' ? (letters[q.correctIndex] || 'A') : String(q.correctIndex || 'A');
+              return {
+                id: q.id,
+                question: q.question,
+                options: optObj,
+                answer: ansLetter,
+                explanation: q.explanation || 'Gabarito oficial fundamentado.',
+                topic: q.topic || selectedSubject,
+                banca: q.banca || currentCareer.banca
+              };
+            });
+          return [...prev, ...newOnes];
+        });
+      }
+    }).catch(err => console.warn('Aviso ao sincronizar questões do banco:', err));
+  }, [selectedSubject, selectedModuleNumber, selectedCustomMaterial, careerId]);
+
+  const currentActiveQuestion: ModuleQuestion = questionBatch[activeQuestionIndex] || questionBatch[0] || {
+    id: 999,
+    question: lesson.question.question,
+    options: lesson.question.options,
+    answer: lesson.question.answer,
+    explanation: lesson.question.explanation,
+    topic: selectedSubject,
+    banca: currentCareer.banca
+  };
+
+  const activeQuestion = currentActiveQuestion;
 
   const scrollToReaderTop = () => {
     if (readerTopRef.current) {
@@ -683,12 +783,112 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
     }
   };
 
-  const handleSelectOption = (opt: string) => {
-    if (answered) return;
-    setUserSelectedOption(opt);
+  const handleSelectOption = async (letter: string) => {
+    if (!currentActiveQuestion || answeredQuestions[activeQuestionIndex] || isAnsweringQuestion) return;
+
+    setUserSelectedOption(letter);
     setAnswered(true);
-    if (opt === activeQuestion.answer) {
-      success('Resposta Correta!', 'Excelente fixação no ponto do edital.', 10);
+    setIsAnsweringQuestion(true);
+
+    try {
+      const res = await api.answerStudyQuestion({
+        questionId: currentActiveQuestion.id,
+        questionText: currentActiveQuestion.question,
+        options: currentActiveQuestion.options,
+        selectedAnswer: letter,
+        correctIndex: currentActiveQuestion.answer,
+        explanation: currentActiveQuestion.explanation,
+        subject: selectedSubject,
+        topic: currentModule?.title,
+        banca: currentCareer.banca,
+        careerId
+      });
+
+      const isCorrect = res ? res.isCorrect : (letter === currentActiveQuestion.answer);
+      const xpGained = res?.xpGained || (isCorrect ? 10 : 2);
+
+      setAnsweredQuestions(prev => ({
+        ...prev,
+        [activeQuestionIndex]: {
+          selected: letter,
+          isCorrect,
+          explanation: res?.explanation || currentActiveQuestion.explanation,
+          xpGained
+        }
+      }));
+
+      if (isCorrect) {
+        success('🎯 Resposta Correta! (+10 XP)', 'Excelente fixação no ponto do edital.');
+      } else {
+        toastError('❌ Resposta Incorreta (+2 XP) — Registrada no Caderno de Erros!');
+      }
+    } catch (err: any) {
+      console.warn('Erro ao sincronizar resposta com o backend:', err);
+      const isCorrect = letter === currentActiveQuestion.answer;
+      setAnsweredQuestions(prev => ({
+        ...prev,
+        [activeQuestionIndex]: {
+          selected: letter,
+          isCorrect,
+          explanation: currentActiveQuestion.explanation,
+          xpGained: isCorrect ? 10 : 2
+        }
+      }));
+      if (isCorrect) {
+        success('Resposta Correta!', 'Excelente fixação.');
+      }
+    } finally {
+      setIsAnsweringQuestion(false);
+    }
+  };
+
+  const handleGenerateMoreQuestions = async () => {
+    if (isGeneratingMoreQuestions || !selectedSubject) return;
+    setIsGeneratingMoreQuestions(true);
+    info('⚡ Gerando Questões Inéditas', `Nossa IA está elaborando +5 questões da banca ${currentCareer.banca} sobre ${currentModule.title}...`);
+
+    try {
+      const res = await api.generateQuestions({
+        subject: selectedSubject,
+        topic: currentModule.title,
+        banca: currentCareer.banca,
+        count: 5,
+        careerId
+      });
+
+      if (res && res.questions && Array.isArray(res.questions)) {
+        const letters = ['A', 'B', 'C', 'D', 'E'];
+        const formatted: ModuleQuestion[] = res.questions.map((q: any, idx: number) => {
+          let optObj: Record<string, string> = {};
+          if (Array.isArray(q.options)) {
+            letters.forEach((l, i) => {
+              if (q.options[i]) optObj[l] = q.options[i];
+            });
+          } else if (typeof q.options === 'object') {
+            optObj = q.options;
+          }
+          return {
+            id: q.id || Date.now() + idx,
+            question: q.question_text || q.question,
+            options: optObj,
+            answer: typeof q.correct_index === 'number' ? letters[q.correct_index] : String(q.correct_index || 'A'),
+            explanation: q.explanation || 'Gabarito Oficial fundamentado.',
+            topic: q.topic || currentModule.title,
+            banca: q.banca || currentCareer.banca
+          };
+        });
+
+        const newStartIndex = questionBatch.length;
+        setQuestionBatch(prev => [...prev, ...formatted]);
+        setActiveQuestionIndex(newStartIndex);
+        setUserSelectedOption(null);
+        setAnswered(false);
+        success('🎉 Novas Questões Prontas!', `Adicionamos ${formatted.length} novas questões à sua bateria de estudo.`);
+      }
+    } catch (err: any) {
+      toastError('Erro ao Gerar: ' + (err?.message || 'Não foi possível gerar mais questões.'));
+    } finally {
+      setIsGeneratingMoreQuestions(false);
     }
   };
 
@@ -814,23 +1014,28 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
     setIsSavingProgress(true);
     try {
       const durationMinutes = sessionElapsedMinutesRef.current || 30;
+      const qDoneCount = Object.keys(answeredQuestions).length;
+      const qCorrCount = Object.values(answeredQuestions).filter(a => a.isCorrect).length;
+
       const res = await api.registerStudy({
         materialId: selectedCustomMaterial?.id,
         subject: selectedCustomMaterial ? selectedCustomMaterial.subject : selectedSubject,
-        lessonNumber: selectedCustomMaterial?.lesson_number || lesson.lessonNumber,
-        title: selectedCustomMaterial ? selectedCustomMaterial.title : lesson.topic,
+        lessonNumber: selectedCustomMaterial?.lesson_number || currentModule.moduleNumber,
+        title: selectedCustomMaterial ? selectedCustomMaterial.title : currentModule.title,
         currentPage,
         totalPages: effectiveTotalPages,
         isCompleted,
         durationMinutes: durationMinutes > 0 ? durationMinutes : 30,
+        questionsCount: qDoneCount,
+        correctQuestionsCount: qCorrCount,
         notes: studyNotes
       });
 
       if (res && res.success) {
         if (isCompleted) {
-          success('🏆 Aula Concluída!', `Parabéns! Você concluiu a aula e ganhou +${res.xpGained || 25} XP.`);
+          success('🏆 Aula Concluída!', `Parabéns! Você concluiu a aula${qDoneCount > 0 ? ` e resolveu ${qDoneCount} questões (${qCorrCount} acertos)` : ''} e ganhou +${res.xpGained || 50} XP.`);
         } else {
-          info('🔖 Marca-Página Salvo!', `Progresso salvo na Página ${currentPage} de ${effectiveTotalPages}. (+${res.xpGained || 15} XP)`);
+          info('🔖 Marca-Página Salvo!', `Progresso salvo na Página ${currentPage} de ${effectiveTotalPages}${qDoneCount > 0 ? ` (${qDoneCount} questões feitas)` : ''}. (+${res.xpGained || 20} XP)`);
         }
         if (selectedCustomMaterial) {
           fetchReadingPace(selectedCustomMaterial.id);
@@ -1729,41 +1934,92 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
             onOpenCadenceModal={() => setIsCadenceModalOpen(true)}
           />
 
-          {/* 2. Synced Questions Block */}
+          {/* 2. Synced Questions Block (Bateria Inteligente de Questões do Edital) */}
           <Card className="p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
-            <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
-              <div className="space-y-0.5">
-                <div className="text-xs font-sans font-bold text-[var(--text-primary)] flex items-center gap-1.5">
-                  <Sparkles className="w-4 h-4 text-[var(--accent-warning)]" />
-                  <span>QUESTÃO DE FIXAÇÃO DA AULA</span>
+            <div className="flex flex-col gap-2 pb-3 border-b border-[var(--border-subtle)]">
+              <div className="flex items-center justify-between">
+                <div className="space-y-0.5">
+                  <div className="text-xs font-sans font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                    <Sparkles className="w-4 h-4 text-[var(--accent-warning)]" />
+                    <span>BATERIA DE FIXAÇÃO DO EDITAL</span>
+                  </div>
+                  <div className="text-xs font-mono text-[var(--text-muted)]">
+                    Banca {currentCareer.banca} • {selectedSubject}
+                  </div>
                 </div>
-                <div className="text-xs font-mono text-[var(--text-muted)]">
-                  Banca {currentCareer.banca} • {selectedSubject}
+
+                <div className="flex items-center gap-1.5">
+                  <span className="text-xs font-mono px-2 py-0.5 rounded bg-[var(--accent-emerald-bg)] text-[var(--accent-success)] font-bold">
+                    {Object.values(answeredQuestions).filter(a => a.isCorrect).length}/{Object.keys(answeredQuestions).length} Acertos
+                  </span>
+                  <span className="text-xs font-mono px-2 py-0.5 rounded bg-[var(--accent-amber-bg)] text-[var(--accent-warning)] font-bold">
+                    +{Object.values(answeredQuestions).reduce((acc, curr) => acc + curr.xpGained, 0)} XP
+                  </span>
                 </div>
               </div>
 
-              <span className="text-xs font-mono px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold">
-                Q#{activeQuestion.id}
+              {/* Question Pills Carousel */}
+              <div className="flex items-center gap-1.5 overflow-x-auto py-1">
+                {questionBatch.map((q, idx) => {
+                  const ans = answeredQuestions[idx];
+                  const isCurrent = idx === activeQuestionIndex;
+                  let pillStyle = "bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-muted)] hover:border-[var(--accent-primary)]";
+                  if (ans) {
+                    pillStyle = ans.isCorrect
+                      ? "bg-[var(--accent-emerald-bg)] border-[var(--accent-success)] text-[var(--accent-success)] font-bold"
+                      : "bg-[var(--color-status-danger-bg)] border-[var(--accent-danger)] text-[var(--accent-danger)] font-bold";
+                  } else if (isCurrent) {
+                    pillStyle = "bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--accent-primary)] font-bold ring-2 ring-[var(--accent-primary)]";
+                  }
+
+                  return (
+                    <button
+                      key={idx}
+                      type="button"
+                      onClick={() => {
+                        setActiveQuestionIndex(idx);
+                        setUserSelectedOption(answeredQuestions[idx]?.selected || null);
+                        setAnswered(Boolean(answeredQuestions[idx]));
+                      }}
+                      className={`px-2.5 py-1 rounded-lg border text-xs font-mono transition-all shrink-0 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${pillStyle}`}
+                      title={`Ir para a Questão ${idx + 1}`}
+                    >
+                      Q{idx + 1}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
+            {/* Question Info Header */}
+            <div className="flex items-center justify-between text-xs font-sans text-[var(--text-muted)]">
+              <span className="font-semibold text-[var(--text-primary)]">
+                Questão {activeQuestionIndex + 1} de {questionBatch.length}
+              </span>
+              <span className="font-mono text-xs px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--text-secondary)]">
+                {currentActiveQuestion.topic || currentModule.title}
               </span>
             </div>
 
             {/* Question Statement */}
             <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans">
-              {activeQuestion.question}
+              {currentActiveQuestion.question}
             </p>
 
             {/* Options */}
             <div className="space-y-2 pt-1 font-sans text-xs">
-              {Object.entries(activeQuestion.options).map(([key, text]) => {
-                const isSelected = userSelectedOption === key;
-                const isCorrect = key === activeQuestion.answer;
+              {Object.entries(currentActiveQuestion.options || {}).map(([key, text]) => {
+                const currentAns = answeredQuestions[activeQuestionIndex];
+                const isSelected = (currentAns?.selected || userSelectedOption) === key;
+                const isCorrect = key === currentActiveQuestion.answer;
+                const isQuestionAnswered = Boolean(currentAns) || answered;
 
                 let optionStyles = "bg-[var(--bg-elevated)] border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)]";
-                if (answered) {
+                if (isQuestionAnswered) {
                   if (isCorrect) {
                     optionStyles = "bg-[var(--accent-emerald-bg)] border-[var(--accent-success)] text-[var(--accent-success)] font-bold";
                   } else if (isSelected && !isCorrect) {
-                    optionStyles = "bg-[var(--color-status-danger-bg)] border-[var(--accent-danger)] text-[var(--accent-danger)]";
+                    optionStyles = "bg-[var(--color-status-danger-bg)] border-[var(--accent-danger)] text-[var(--accent-danger)] font-medium";
                   } else {
                     optionStyles = "opacity-50 bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-muted)]";
                   }
@@ -1773,7 +2029,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   <button
                     key={key}
                     type="button"
-                    disabled={answered}
+                    disabled={isQuestionAnswered || isAnsweringQuestion}
                     onClick={() => handleSelectOption(key)}
                     className={`w-full p-3 rounded-xl border text-left transition-all flex items-start gap-2.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent-primary)] ${optionStyles}`}
                   >
@@ -1787,20 +2043,77 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
             </div>
 
             {/* Explanation / Justification */}
-            {answered && (
+            {(Boolean(answeredQuestions[activeQuestionIndex]) || answered) && (
               <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs font-sans">
                 <div className="flex items-center gap-1.5 font-bold font-sans text-xs text-[var(--accent-primary)]">
                   <CheckCircle2 className="w-4 h-4 text-[var(--accent-success)]" />
-                  <span>GABARITO COMENTADO: LETRA {activeQuestion.answer}</span>
+                  <span>GABARITO COMENTADO: LETRA {currentActiveQuestion.answer}</span>
                 </div>
                 <p className="text-[var(--text-secondary)] leading-relaxed">
-                  {activeQuestion.explanation}
+                  {answeredQuestions[activeQuestionIndex]?.explanation || currentActiveQuestion.explanation}
                 </p>
-                <div className="pt-2 text-xs font-sans text-[var(--text-muted)]">
-                  💡 Este conceito foi abordado diretamente na doutrina desta lição.
-                </div>
+
+                {answeredQuestions[activeQuestionIndex] && !answeredQuestions[activeQuestionIndex].isCorrect && (
+                  <div className="p-2.5 rounded-lg bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)]/30 text-[var(--accent-danger)] text-xs font-sans flex items-center gap-2">
+                    <span>📕</span>
+                    <span><strong>Caderno de Erros:</strong> Registrada automaticamente para você revisar.</span>
+                  </div>
+                )}
               </div>
             )}
+
+            {/* Bottom Actions for Question Batch */}
+            <div className="flex flex-wrap items-center justify-between gap-2 pt-3 border-t border-[var(--border-subtle)]">
+              <div className="flex items-center gap-2">
+                <Button
+                  variant="outline"
+                  size="sm"
+                  disabled={activeQuestionIndex <= 0}
+                  onClick={() => {
+                    const prevIdx = activeQuestionIndex - 1;
+                    setActiveQuestionIndex(prevIdx);
+                    setUserSelectedOption(answeredQuestions[prevIdx]?.selected || null);
+                    setAnswered(Boolean(answeredQuestions[prevIdx]));
+                  }}
+                  className="font-sans text-xs flex items-center gap-1"
+                >
+                  <ChevronLeft className="w-3.5 h-3.5" />
+                  <span>Anterior</span>
+                </Button>
+
+                <Button
+                  variant="outline"
+                  size="sm"
+                  disabled={activeQuestionIndex >= questionBatch.length - 1}
+                  onClick={() => {
+                    const nextIdx = activeQuestionIndex + 1;
+                    setActiveQuestionIndex(nextIdx);
+                    setUserSelectedOption(answeredQuestions[nextIdx]?.selected || null);
+                    setAnswered(Boolean(answeredQuestions[nextIdx]));
+                  }}
+                  className="font-sans text-xs flex items-center gap-1"
+                >
+                  <span>Próxima</span>
+                  <ChevronRight className="w-3.5 h-3.5" />
+                </Button>
+              </div>
+
+              <Button
+                variant="secondary"
+                size="sm"
+                disabled={isGeneratingMoreQuestions}
+                onClick={handleGenerateMoreQuestions}
+                className="font-sans text-xs font-semibold flex items-center gap-1.5 shadow-xs"
+                title="Gerar +5 questões inéditas da banca sobre este tema"
+              >
+                {isGeneratingMoreQuestions ? (
+                  <RefreshCw className="w-3.5 h-3.5 animate-spin text-[var(--accent-primary)]" />
+                ) : (
+                  <Sparkles className="w-3.5 h-3.5 text-[var(--accent-warning)]" />
+                )}
+                <span>{isGeneratingMoreQuestions ? 'Gerando...' : '+5 Questões'}</span>
+              </Button>
+            </div>
           </Card>
 
         </div>

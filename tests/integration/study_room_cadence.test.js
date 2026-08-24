@@ -235,6 +235,99 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.ok(genData.lesson.pages[0].bodyText, 'Página 1 deve ter bodyText doutrinário');
   assert.ok(genData.lesson.pages[1].tableData || genData.lesson.pages[1].mnemonics, 'Página 2 deve ter tabela ou mnemônicos');
   console.log(`  ✅ 10. Geração de Apostila Digital de Doutrina Completa (${genData.lesson.titulo}): PASSOU`);
+
+  // 11. Testar GET /api/study-room/module-questions (Bateria de Questões por Módulo)
+  const modQRes = await fetch(`${baseUrl}/api/study-room/module-questions?subject=Direito%20Tribut%C3%A1rio&limit=5`, {
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'atrfb'
+    }
+  });
+  const modQData = await modQRes.json();
+  assert.strictEqual(modQRes.status, 200, 'Status deve ser 200 ao buscar questões');
+  assert.strictEqual(modQData.success, true);
+  assert.ok(Array.isArray(modQData.questions), 'Deve retornar array de questões');
+  console.log(`  ✅ 11. Busca de Bateria de Questões do Módulo (${modQData.questions.length} questões encontradas): PASSOU`);
+
+  // 12. Testar POST /api/study-room/answer-question (Sincronização com Caderno de Erros e Gamificação)
+  const ansCorrectRes = await fetch(`${baseUrl}/api/study-room/answer-question`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'atrfb'
+    },
+    body: JSON.stringify({
+      questionText: 'No tocante à imunidade tributária recíproca dos entes federativos, assinale a correta:',
+      options: { A: 'Atinge impostos sobre patrimônio, renda ou serviços', B: 'Atinge taxas', C: 'Atinge contribuições de melhoria', D: 'Não se aplica a autarquias', E: 'Atinge preços públicos' },
+      selectedAnswer: 'A',
+      correctIndex: 'A',
+      explanation: 'O art. 150, VI, a da CF veda a instituição de impostos entre entes políticos.',
+      subject: 'Direito Tributário',
+      topic: 'Imunidades Constitucionais',
+      banca: 'FGV'
+    })
+  });
+  const ansCorrectData = await ansCorrectRes.json();
+  assert.strictEqual(ansCorrectRes.status, 200);
+  assert.strictEqual(ansCorrectData.isCorrect, true);
+  assert.strictEqual(ansCorrectData.xpGained, 10);
+  assert.strictEqual(ansCorrectData.savedToErrorNotebook, false);
+
+  const ansWrongRes = await fetch(`${baseUrl}/api/study-room/answer-question`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'atrfb'
+    },
+    body: JSON.stringify({
+      questionText: 'Quanto ao princípio do pecunia non olet no direito tributário:',
+      options: { A: 'A ilicitude da atividade impede a tributação', B: 'A validade jurídica dos atos independe da tributação', C: 'A atividade criminosa não pode ser tributada', D: 'O tributo é penalidade', E: 'Nenhuma anterior' },
+      selectedAnswer: 'A', // Resposta errada de propósito
+      correctIndex: 'B',
+      explanation: 'O art. 118 do CTN consagra o princípio do non olet: a definição legal do fato gerador é interpretada com abstração da validade jurídica dos atos.',
+      subject: 'Direito Tributário',
+      topic: 'Princípios Tributários',
+      banca: 'FGV'
+    })
+  });
+  const ansWrongData = await ansWrongRes.json();
+  assert.strictEqual(ansWrongRes.status, 200);
+  assert.strictEqual(ansWrongData.isCorrect, false);
+  assert.strictEqual(ansWrongData.xpGained, 2);
+  assert.strictEqual(ansWrongData.savedToErrorNotebook, true);
+  console.log('  ✅ 12. Sincronização de Resposta e Envio Automático ao Caderno de Erros: PASSOU');
+
+  // 13. Testar POST /api/study-room/register-study com questionsCount e correctQuestionsCount
+  const regStudyFullRes = await fetch(`${baseUrl}/api/study-room/register-study`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'atrfb'
+    },
+    body: JSON.stringify({
+      subject: 'Direito Tributário',
+      title: 'Doutrina de Imunidades e Princípios',
+      currentPage: 5,
+      totalPages: 5,
+      isCompleted: true,
+      durationMinutes: 60,
+      questionsCount: 5,
+      correctQuestionsCount: 4,
+      notes: 'Sessão completa de 1 hora com bateria de questões.'
+    })
+  });
+  const regStudyFullData = await regStudyFullRes.json();
+  assert.strictEqual(regStudyFullRes.status, 200);
+  assert.strictEqual(regStudyFullData.success, true);
+  assert.ok(regStudyFullData.xpGained >= 90, 'Deve computar XP de conclusão + bônus de questões');
+  console.log(`  ✅ 13. Registro de Sessão de 1 Hora com Bateria de Questões (+${regStudyFullData.xpGained} XP): PASSOU`);
 }
 
 if (process.argv[1]?.endsWith('study_room_cadence.test.js')) {

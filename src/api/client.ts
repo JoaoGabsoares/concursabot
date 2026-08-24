@@ -239,6 +239,33 @@ export class ApiClient {
     });
   }
 
+  public getModuleQuestions(params: { subject: string; topic?: string; limit?: number; careerId?: string }): Promise<any> {
+    const qs = new URLSearchParams();
+    if (params.subject) qs.append('subject', params.subject);
+    if (params.topic) qs.append('topic', params.topic);
+    if (params.limit) qs.append('limit', String(params.limit));
+    if (params.careerId) qs.append('careerId', params.careerId);
+    return this.request<any>(`/study-room/module-questions?${qs.toString()}`);
+  }
+
+  public answerStudyQuestion(data: {
+    questionId?: number;
+    questionText?: string;
+    options?: any;
+    selectedAnswer: number | string;
+    correctIndex: number | string;
+    explanation?: string;
+    subject?: string;
+    topic?: string;
+    banca?: string;
+    careerId?: string;
+  }): Promise<any> {
+    return this.request<any>('/study-room/answer-question', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
   public registerStudy(data: {
     materialId?: number;
     subject?: string;
@@ -250,6 +277,8 @@ export class ApiClient {
     durationMinutes?: number;
     minutes?: number;
     completed?: boolean;
+    questionsCount?: number;
+    correctQuestionsCount?: number;
     notes?: string;
     careerId?: string;
   }): Promise<any> {

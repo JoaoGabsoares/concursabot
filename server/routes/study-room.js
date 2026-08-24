@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import pdfParse from 'pdf-parse';
-import db, { logActivity } from '../database.js';
+import db, { logActivity, recordQuestionError } from '../database.js';
 import { generateJSON, generateContent, streamChat } from '../gemini.js';
 import logger from '../logger.js';
 import {
@@ -336,10 +336,14 @@ router.post('/register-study', (req, res) => {
       totalPages, 
       isCompleted, 
       durationMinutes,
+      questionsCount = 0,
+      correctQuestionsCount = 0,
       notes 
     } = req.body;
 
     const minutes = parseInt(durationMinutes, 10) || 30;
+    const qCount = parseInt(questionsCount, 10) || 0;
+    const qCorrect = parseInt(correctQuestionsCount, 10) || 0;
     const isFinished = Boolean(isCompleted);
     const now = new Date().toISOString().split('T')[0];
     const pageNum = parseInt(currentPage, 10) || 1;
@@ -351,7 +355,14 @@ router.post('/register-study', (req, res) => {
         INSERT INTO study_sessions (
           material_id, duration_minutes, status, user_id, career_id, completed_at, actual_duration_seconds, scope_note
         ) VALUES (?, ?, 'completed', ?, ?, CURRENT_TIMESTAMP, ?, ?)
-      `).run(materialId ? Number(materialId) : null, minutes, userId, careerId, minutes * 60, notes || null);
+      `).run(
+        materialId ? Number(materialId) : null, 
+        minutes, 
+        userId, 
+        careerId, 
+        minutes * 60, 
+        notes || (qCount > 0 ? `Sessão com ${qCount} questões (${qCorrect} acertos)` : null)
+      );
     } catch (sessionErr) {
       try {
         db.prepare(`
@@ -396,8 +407,11 @@ router.post('/register-study', (req, res) => {
       }
     }
 
-    // 3. Conceder Gamificação e XP
-    const xpGained = isFinished ? 50 : 20; // 50 XP por conclusão, 20 XP por progresso
+    // 3. Conceder Gamificação e XP (incluindo bônus de questões resolvidas)
+    const baseXP = isFinished ? 50 : 20;
+    const questionsXP = (qCorrect * 10) + ((qCount - qCorrect) * 2);
+    const xpGained = baseXP + questionsXP;
+
     try {
       db.prepare(`
         UPDATE user_profiles
@@ -409,7 +423,13 @@ router.post('/register-study', (req, res) => {
       db.prepare(`
         INSERT INTO user_xp_log (user_id, amount, reason) 
         VALUES (?, ?, ?)
-      `).run(userId, xpGained, isFinished ? `Conclusão de Aula: ${subject || 'Estudo'}` : `Leitura de Páginas: ${subject || 'Estudo'}`);
+      `).run(
+        userId, 
+        xpGained, 
+        isFinished 
+          ? `Conclusão de Aula: ${subject || 'Estudo'}${qCount > 0 ? ` (+${qCount} questões)` : ''}` 
+          : `Leitura de Páginas: ${subject || 'Estudo'}${qCount > 0 ? ` (+${qCount} questões)` : ''}`
+      );
     } catch (e) {
       // Compatibilidade
     }
@@ -419,8 +439,8 @@ router.post('/register-study', (req, res) => {
       logActivity(
         'study_session', 
         isFinished 
-          ? `Concluiu estudo de ${subject || 'Geral'}${lessonNumber !== undefined ? ` (Aula ${lessonNumber})` : ''}`
-          : `Estudou ${minutes}min de ${subject || 'Geral'} (pág. ${pageNum}/${totalNum || '?'})`,
+          ? `Concluiu estudo de ${subject || 'Geral'}${lessonNumber !== undefined ? ` (Aula ${lessonNumber})` : ''}${qCount > 0 ? ` e ${qCount} questões (${qCorrect} acertos)` : ''}`
+          : `Estudou ${minutes}min de ${subject || 'Geral'} (pág. ${pageNum}/${totalNum || '?'})${qCount > 0 ? ` com ${qCount} questões` : ''}`,
         userId,
         careerId
       );
@@ -431,6 +451,7 @@ router.post('/register-study', (req, res) => {
     res.json({
       success: true,
       xpGained,
+      questionsXP,
       isFinished,
       message: isFinished 
         ? `Parabéns! Aula de ${subject || 'Estudo'} concluída com sucesso! +${xpGained} XP concedidos.`
@@ -439,6 +460,188 @@ router.post('/register-study', (req, res) => {
   } catch (err) {
     console.error('Erro ao registrar estudo:', err);
     res.status(500).json({ error: 'Falha ao registrar estudo: ' + err.message });
+  }
+});
+
+// GET /module-questions — Retorna bateria de questões de fixação do edital para o tópico
+router.get('/module-questions', (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const careerId = req.headers['x-exam-id'] || req.query.careerId || 'atrfb';
+    const { subject, topic, limit = 5 } = req.query;
+
+    if (!subject) {
+      return res.status(400).json({ error: 'Disciplina (subject) é obrigatória.' });
+    }
+
+    // Busca questões no banco de dados para essa disciplina
+    let query = `
+      SELECT id, subject, topic, banca, type, question_text, options, correct_index, explanation
+      FROM questions
+      WHERE subject LIKE ?
+    `;
+    const params = [`%${subject}%`];
+
+    if (topic && topic !== 'all') {
+      query += ` AND (topic LIKE ? OR question_text LIKE ?)`;
+      params.push(`%${topic}%`, `%${topic}%`);
+    }
+
+    query += ` ORDER BY RANDOM() LIMIT ?`;
+    params.push(Math.max(1, Math.min(Number(limit) || 5, 20)));
+
+    const rows = db.prepare(query).all(...params);
+
+    const questions = rows.map(r => {
+      let opts = r.options;
+      try {
+        if (typeof opts === 'string') opts = JSON.parse(opts);
+      } catch {}
+      return {
+        id: r.id,
+        subject: r.subject,
+        topic: r.topic,
+        banca: r.banca,
+        question: r.question_text,
+        options: opts,
+        correctIndex: r.correct_index,
+        explanation: r.explanation
+      };
+    });
+
+    res.json({
+      success: true,
+      subject,
+      topic,
+      total: questions.length,
+      questions
+    });
+  } catch (err) {
+    logger.error('STUDY_ROOM', 'Erro ao buscar questões do módulo:', err);
+    res.status(500).json({ error: 'Falha ao buscar questões do módulo: ' + err.message });
+  }
+});
+
+// POST /answer-question — Registra resposta de fixação, sincroniza Caderno de Erros, Dashboard e XP
+router.post('/answer-question', (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
+    const {
+      questionId,
+      questionText,
+      options,
+      selectedAnswer,
+      correctIndex,
+      explanation,
+      subject = 'Geral',
+      topic = 'Fixação',
+      banca = 'Oficial'
+    } = req.body;
+
+    if (selectedAnswer === undefined || selectedAnswer === null) {
+      return res.status(400).json({ error: 'selectedAnswer é obrigatório.' });
+    }
+
+    const toIndex = (val) => {
+      if (typeof val === 'number') return val;
+      const idx = ['A', 'B', 'C', 'D', 'E'].indexOf(String(val).trim().toUpperCase());
+      return idx >= 0 ? idx : 0;
+    };
+
+    const selIdx = toIndex(selectedAnswer);
+    const corrIdx = toIndex(correctIndex);
+    const isCorrect = selIdx === corrIdx;
+
+    let qId = questionId ? Number(questionId) : null;
+
+    // Se o questionId não existir ou não estiver na tabela questions, garante a inserção
+    if (qId) {
+      const exists = db.prepare('SELECT id FROM questions WHERE id = ?').get(qId);
+      if (!exists && questionText) {
+        let optStr = '[]';
+        if (Array.isArray(options)) {
+          optStr = JSON.stringify(options);
+        } else if (typeof options === 'object' && options !== null) {
+          optStr = JSON.stringify(Object.values(options));
+        }
+        const ins = db.prepare(`
+          INSERT INTO questions (subject, topic, banca, type, question_text, options, correct_index, explanation)
+          VALUES (?, ?, ?, 'multiple_choice', ?, ?, ?, ?)
+        `).run(
+          subject,
+          topic || 'Fixação',
+          banca || 'Oficial',
+          questionText,
+          optStr,
+          corrIdx,
+          explanation || 'Gabarito Oficial fundamentado.'
+        );
+        qId = ins.lastInsertRowid;
+      }
+    } else if (questionText) {
+      let optStr = '[]';
+      if (Array.isArray(options)) {
+        optStr = JSON.stringify(options);
+      } else if (typeof options === 'object' && options !== null) {
+        optStr = JSON.stringify(Object.values(options));
+      }
+      const ins = db.prepare(`
+        INSERT INTO questions (subject, topic, banca, type, question_text, options, correct_index, explanation)
+        VALUES (?, ?, ?, 'multiple_choice', ?, ?, ?, ?)
+      `).run(
+        subject,
+        topic || 'Fixação',
+        banca || 'Oficial',
+        questionText,
+        optStr,
+        corrIdx,
+        explanation || 'Gabarito Oficial fundamentado.'
+      );
+      qId = ins.lastInsertRowid;
+    }
+
+    // 1. Grava em question_answers (alimenta Dashboard e histórico)
+    if (qId) {
+      db.prepare(`
+        INSERT INTO question_answers (question_id, selected_answer, is_correct, user_id, career_id)
+        VALUES (?, ?, ?, ?, ?)
+      `).run(qId, selIdx, isCorrect ? 1 : 0, userId, careerId);
+    }
+
+    // 2. Se errou, registra automaticamente no Caderno de Erros
+    if (!isCorrect && qId) {
+      recordQuestionError(userId, careerId, qId, selIdx);
+    }
+
+    // 3. Concede XP: +10 XP por acerto, +2 XP por tentativa
+    const xpToAdd = isCorrect ? 10 : 2;
+    try {
+      db.prepare(`UPDATE user_profiles SET xp = xp + ? WHERE id = ?`).run(xpToAdd, userId);
+      db.prepare(`INSERT INTO user_xp_log (user_id, amount, reason) VALUES (?, ?, ?)`).run(
+        userId,
+        xpToAdd,
+        `Questão de Fixação (${subject}): ${isCorrect ? 'Acerto (+10 XP)' : 'Tentativa (+2 XP)'}`
+      );
+    } catch (xpErr) {
+      // fallback gracioso se tabela não tiver coluna xp
+    }
+
+    // 4. Log de Atividade
+    logActivity('question', `Questão de ${subject} (${isCorrect ? 'Acerto' : 'Erro'})`, userId, careerId);
+
+    res.json({
+      success: true,
+      questionId: qId,
+      isCorrect,
+      correctIndex: typeof correctIndex === 'number' ? ['A', 'B', 'C', 'D', 'E'][corrIdx] : correctIndex,
+      explanation: explanation || 'Gabarito Oficial fundamentado.',
+      xpGained: xpToAdd,
+      savedToErrorNotebook: !isCorrect
+    });
+  } catch (err) {
+    logger.error('STUDY_ROOM', 'Erro ao responder questão de fixação:', err);
+    res.status(500).json({ error: 'Falha ao processar resposta: ' + err.message });
   }
 });
 

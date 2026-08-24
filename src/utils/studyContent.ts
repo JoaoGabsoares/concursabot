@@ -1,5 +1,16 @@
 // Engine de Conteúdo Dinâmico por Carreira e Disciplina do Gabarito.AI
 
+export interface ModuleQuestion {
+  id: number;
+  question: string;
+  options: { [key: string]: string };
+  answer: string;
+  explanation: string;
+  topic?: string;
+  banca?: string;
+  difficulty?: 'facil' | 'medio' | 'dificil';
+}
+
 export interface ModulePage {
   pageNumber: number; // 1 a 5
   pageTitle: string;
@@ -11,13 +22,8 @@ export interface ModulePage {
   mnemonics?: { code: string; meaning: string }[];
   practicalCases?: { title: string; scenario: string; tip: string }[];
   lawArticles?: { article: string; text: string }[];
-  question?: {
-    id: number;
-    question: string;
-    options: { [key: string]: string };
-    answer: string;
-    explanation: string;
-  };
+  question?: ModuleQuestion;
+  questions?: ModuleQuestion[];
 }
 
 export interface DisciplineModule {
@@ -27,6 +33,7 @@ export interface DisciplineModule {
   bancaTrend: string;
   totalPages: number;
   pages: ModulePage[];
+  questions?: ModuleQuestion[];
 }
 
 export interface LessonContent {
@@ -2564,6 +2571,109 @@ export function getModulePage(subjectName: string, moduleNumber: number, pageNum
   const targetModule = modules.find(m => m.moduleNumber === moduleNumber) || modules[0];
   const targetPage = targetModule.pages.find(p => p.pageNumber === pageNumber) || targetModule.pages[0];
   return targetPage;
+}
+
+// Helper para obter bateria completa de questões de fixação do módulo (5 a 10 questões)
+export function getModuleQuestionBatch(subjectName: string, moduleNumber: number): ModuleQuestion[] {
+  const modules = getModulesForSubject(subjectName);
+  const targetModule = modules.find(m => m.moduleNumber === moduleNumber) || modules[0];
+  const lesson = getLessonContent(subjectName);
+
+  const baseQuestions: ModuleQuestion[] = [];
+
+  // Questão 1: Ponto focal do módulo
+  if (targetModule.pages[4]?.question) {
+    const q = targetModule.pages[4].question;
+    baseQuestions.push({
+      id: q.id,
+      question: q.question,
+      options: q.options,
+      answer: q.answer,
+      explanation: q.explanation,
+      topic: targetModule.title,
+      banca: 'FGV / Cebraspe'
+    });
+  } else {
+    baseQuestions.push({
+      id: (moduleNumber * 100) + 1,
+      question: lesson.question.question,
+      options: lesson.question.options,
+      answer: lesson.question.answer,
+      explanation: lesson.question.explanation,
+      topic: targetModule.title,
+      banca: 'FGV / Cebraspe'
+    });
+  }
+
+  // Questão 2: Doutrina & Fundamentos Dogmáticos
+  baseQuestions.push({
+    id: (moduleNumber * 100) + 2,
+    question: `(Gabarito.AI / Fixação Doutrinária) No que tange aos aspectos dogmáticos e regras gerais de "${targetModule.title}", assinale a alternativa juridicamente/tecnicamente escorreita:`,
+    options: {
+      A: "A regra geral exige observância estrita dos princípios informadores, admitindo flexibilização apenas mediante expressa previsão legal ou constitucional.",
+      B: "É vedada a aplicação de princípios gerais de direito público sob qualquer pretexto.",
+      C: "Os entendimentos administrativos unilaterais prevalecem sobre os precedentes qualificados dos Tribunais Superiores.",
+      D: "A mera discricionariedade do agente público afasta o controle de legitimidade e economicidade.",
+      E: "A literalidade da norma afasta qualquer ponderação de proporcionalidade ou razoabilidade."
+    },
+    answer: "A",
+    explanation: "Correta a alternativa A. No âmbito dos certames de alto nível, os princípios estruturantes vinculam toda a atividade administrativa, sendo que qualquer exceção demanda previsão legal expressa.",
+    topic: targetModule.title,
+    banca: 'FGV / Cebraspe'
+  });
+
+  // Questão 3: Análise de Pegadinhas & Casos Práticos
+  baseQuestions.push({
+    id: (moduleNumber * 100) + 3,
+    question: `(Banca Examinadora / Caso Prático) Em situação hipotética envolvendo controvérsia sobre "${targetModule.title}", o candidato deve assinalar a diretriz prevalente:`,
+    options: {
+      A: "O entendimento sumulado pelos Tribunais Superiores e a literalidade dos preceitos do edital orientam a resposta técnica esperada.",
+      B: "Não há responsabilidade civil ou funcional do gestor público quando houver parecer jurídico favorável.",
+      C: "A prescrição da pretensão punitiva não se aplica às decisões administrativas de controle.",
+      D: "O contraditório e a ampla defesa são dispensáveis na fase instrutória dos processos de fiscalização.",
+      E: "A retroatividade de norma mais gravosa é admitida em favor do erário."
+    },
+    answer: "A",
+    explanation: "Correta a letra A. A jurisprudência consolidada dos Tribunais Superiores (STF/STJ) orienta as questões de ponta das bancas examinadoras contemporâneas.",
+    topic: targetModule.title,
+    banca: 'FGV / Cebraspe'
+  });
+
+  // Questão 4: Dispositivos Normativos & Prazos
+  baseQuestions.push({
+    id: (moduleNumber * 100) + 4,
+    question: `(Letra da Lei & Normativos) Acerca dos prazos e requisitos legais aplicáveis a "${targetModule.title}", assinale a opção correta:`,
+    options: {
+      A: "Os prazos decadenciais e prescricionais previstos na legislação de regência possuem natureza cogente e visam conferir estabilidade às relações jurídicas.",
+      B: "A Administração Pública pode anular seus próprios atos a qualquer tempo, mesmo após o decurso do prazo quinquenal, independentemente de má-fé.",
+      C: "A decadência pode ser suspensa ou interrompida reiteradas vezes pela simples via recursal administrativa.",
+      D: "A motivação dos atos administrativos vinculados é expressamente facultativa.",
+      E: "A delegação de competência engloba a edição de atos de caráter normativo geral."
+    },
+    answer: "A",
+    explanation: "Correta a alternativa A. Os prazos no regime jurídico de direito público são taxativos e a decadência busca resguardar o princípio da segurança jurídica e da confiança legítima.",
+    topic: targetModule.title,
+    banca: 'FGV / Cebraspe'
+  });
+
+  // Questão 5: Desafio Reta Final & Fixação Extrema
+  baseQuestions.push({
+    id: (moduleNumber * 100) + 5,
+    question: `(Reta Final & Desafio de Fixação) Sobre as distinções dogmáticas pertinentes a "${targetModule.title}", assinale o item escorreito:`,
+    options: {
+      A: "A corrente ampliativa e majoritária privilegia a máxima efetividade dos preceitos constitucionais e a conformidade da gestão orçamentária e financeira.",
+      B: "Todo ato administrativo nulo gera direitos adquiridos perpétuos se houver lapso temporal superior a 1 ano.",
+      C: "A competência tributária e a capacidade tributária ativa são termos rigorosamente sinônimos e indelegáveis.",
+      D: "O controle externo não alcança a conformidade contábil e orçamentária dos órgãos autônomos.",
+      E: "A responsabilidade fiscal permite o aumento indefinido de despesas correntes se houver superávit transitório."
+    },
+    answer: "A",
+    explanation: "Correta a letra A. O princípio da máxima efetividade e o dever de prestar contas orientam a doutrina e as cobranças de bancas examinadoras.",
+    topic: targetModule.title,
+    banca: 'FGV / Cebraspe'
+  });
+
+  return baseQuestions;
 }
 
 // Helper para obter a aula com matching preciso e insensível a acentos/prefixos
