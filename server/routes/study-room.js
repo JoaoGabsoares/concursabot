@@ -1232,43 +1232,87 @@ router.post('/generate-flashcards', async (req, res) => {
     });
 
     let flashcardData = null;
+    const FLASHCARDS_SCHEMA = {
+      type: 'object',
+      properties: {
+        deckTitle: { type: 'string' },
+        cards: {
+          type: 'array',
+          items: {
+            type: 'object',
+            properties: {
+              front: { type: 'string' },
+              back: { type: 'string' }
+            },
+            required: ['front', 'back']
+          }
+        }
+      },
+      required: ['cards']
+    };
+
+    const fallbackCards = [
+      {
+        front: `Qual é o princípio fundamental e regra de ouro em ${targetTopic}?`,
+        back: `A observância estrita da legalidade e da conformidade com o edital do certame.`,
+        topic: targetTopic
+      },
+      {
+        front: `Qual é a distinção dogmática essencial cobrada em ${targetTopic}?`,
+        back: `A regra geral vincula a administração; exceções demandam previsão legal e autorização formal.`,
+        topic: targetTopic
+      },
+      {
+        front: `Qual o prazo prescricional / decadencial típico aplicável ao tema?`,
+        back: `Prazo quinquenal (5 anos), ressalvadas as ações de ressarcimento por atos de improbidade dolosos (Tema 897/STF).`,
+        topic: targetTopic
+      },
+      {
+        front: `Como a banca examinadora formula pegadinhas sobre ${targetTopic}?`,
+        back: `Invertendo termos correlatos ou trocando 'ato discricionário' por 'ato vinculado'.`,
+        topic: targetTopic
+      },
+      {
+        front: `Qual jurisprudência do STF/STJ é de conhecimento obrigatório neste ponto?`,
+        back: `O entendimento fixado em tese de repercussão geral com eficácia contra todos.`,
+        topic: targetTopic
+      }
+    ];
+
     try {
-      flashcardData = await generateJSON(prompt, 'Você é especialista em mnemotécnica e repetição espaçada (Anki) para concursos.');
+      flashcardData = await generateJSON(prompt, 'Você é especialista em mnemotécnica e repetição espaçada (Anki) para concursos.', FLASHCARDS_SCHEMA);
     } catch (aiErr) {
       flashcardData = {
         deckTitle: `Baralho: ${targetTopic}`,
         subject,
-        cards: [
-          {
-            front: `Qual é o princípio fundamental e regra de ouro em ${targetTopic}?`,
-            back: `A observância estrita da legalidade e da conformidade com o edital do certame.`,
-            topic: targetTopic
-          },
-          {
-            front: `Qual é a distinção dogmática essencial cobrada em ${targetTopic}?`,
-            back: `A regra geral vincula a administração; exceções demandam previsão legal e autorização formal.`,
-            topic: targetTopic
-          },
-          {
-            front: `Qual o prazo prescricional / decadencial típico aplicável ao tema?`,
-            back: `Prazo quinquenal (5 anos), ressalvadas as ações de ressarcimento por atos de improbidade dolosos (Tema 897/STF).`,
-            topic: targetTopic
-          },
-          {
-            front: `Como a banca examinadora formula pegadinhas sobre ${targetTopic}?`,
-            back: `Invertendo termos correlatos ou trocando 'ato discricionário' por 'ato vinculado'.`,
-            topic: targetTopic
-          },
-          {
-            front: `Qual jurisprudência do STF/STJ é de conhecimento obrigatório neste ponto?`,
-            back: `O entendimento fixado em tese de repercussão geral com eficácia contra todos.`,
-            topic: targetTopic
-          }
-        ]
+        cards: fallbackCards
       };
     }
 
-    const cards = Array.isArray(flashcardData?.cards) ? flashcardData.cards : [];
+    let cards = [];
+    if (Array.isArray(flashcardData)) {
+      cards = flashcardData.map(c => ({
+        front: c.front || c.frente || c.pergunta || '',
+        back: c.back || c.verso || c.resposta || '',
+        topic: c.topic || targetTopic
+      }));
+    } else if (Array.isArray(flashcardData?.cards)) {
+      cards = flashcardData.cards.map(c => ({
+        front: c.front || c.frente || c.pergunta || '',
+        back: c.back || c.verso || c.resposta || '',
+        topic: c.topic || targetTopic
+      }));
+    } else if (Array.isArray(flashcardData?.flashcards)) {
+      cards = flashcardData.flashcards.map(c => ({
+        front: c.front || c.frente || c.pergunta || '',
+        back: c.back || c.verso || c.resposta || '',
+        topic: c.topic || targetTopic
+      }));
+    }
+
+    if (cards.length === 0) {
+      cards = fallbackCards;
+    }
     const savedCards = [];
 
     // Cria ou recupera o deck correspondente

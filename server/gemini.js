@@ -11,12 +11,12 @@ if (!apiKey) {
 
 const ai = new GoogleGenAI({ apiKey: apiKey });
 // Modelos válidos e disponíveis no SDK @google/genai (Cadeia de alta disponibilidade)
-const DEFAULT_MODEL = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
+const DEFAULT_MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
 const FALLBACK_CHAIN = [
+    'gemini-3.6-flash',
+    'gemini-3.5-flash',
     'gemini-3.5-flash-lite',
-    'gemini-flash-lite-latest',
-    'gemini-3.1-flash-lite',
-    'gemini-3.5-flash'
+    'gemini-flash-latest'
 ];
 const DEFAULT_EMBEDDING_MODEL = process.env.GEMINI_EMBEDDING_MODEL || 'gemini-embedding-001';
 const EMBEDDING_OUTPUT_DIMENSIONALITY = 768;
@@ -205,7 +205,8 @@ async function generateEmbedding(text, model = DEFAULT_EMBEDDING_MODEL) {
             15000,
             'generateEmbedding'
         );
-        return response.embedding.values;
+        const values = response.embeddings?.[0]?.values || response.embedding?.values || [];
+        return values;
     } catch (error) {
         console.error("Erro na API do Gemini (generateEmbedding):", error);
         throw error;

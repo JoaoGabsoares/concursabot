@@ -110,10 +110,10 @@ npm run build
 Crie ou edite o arquivo `.env`:
 ```env
 GEMINI_API_KEY=sua_chave_do_google_ai_studio_aqui
-GEMINI_MODEL=gemini-3.5-flash-lite
+GEMINI_MODEL=gemini-3.6-flash
 PORT=3000
 ```
-*(Obtenha sua chave gratuita em [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey))*
+*(Obtenha sua chave gratuita em [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey) — compatível com chaves no formato padrão `AIzaSy...` e no novo formato de autenticação `AQ...`)*
 
 ### 5. Iniciar a Plataforma:
 ```bash
