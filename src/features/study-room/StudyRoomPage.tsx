@@ -620,7 +620,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
       }
     } catch (err: any) {
       console.error('Erro ao gerar caderno:', err);
-      danger('Erro ao Gerar', err?.message || 'Não foi possível gerar a apostila com IA.');
+      toastError('Erro ao Gerar: ' + (err?.message || 'Não foi possível gerar a apostila com IA.'));
     } finally {
       setIsGeneratingAiLesson(false);
     }
@@ -668,7 +668,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
         scrollToReaderTop();
       }
     } catch (err: any) {
-      danger('Erro ao Expandir', err?.message || 'Falha ao expandir páginas teóricas.');
+      toastError('Erro ao Expandir: ' + (err?.message || 'Falha ao expandir páginas teóricas.'));
     } finally {
       setIsExpandingLesson(false);
     }
@@ -700,7 +700,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
         success('🧠 Baralho Pronto!', `Foram gerados ${res.count || res.cards.length} flashcards Anki salvos no seu banco de repetição.`);
       }
     } catch (err: any) {
-      danger('Erro nos Flashcards', err?.message || 'Não foi possível gerar os flashcards.');
+      toastError('Erro nos Flashcards: ' + (err?.message || 'Não foi possível gerar os flashcards.'));
     } finally {
       setIsGeneratingFlashcards(false);
     }
@@ -973,11 +973,10 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
     info('⚡ Gerando Questões Inéditas', `Nossa IA está elaborando +5 questões da banca ${currentCareer.banca} sobre ${currentModule.title}...`);
 
     try {
-      const res = await api.generateQuestions({
+      const res = await api.getModuleQuestions({
         subject: selectedSubject,
         topic: currentModule.title,
-        banca: currentCareer.banca,
-        count: 5,
+        limit: 5,
         careerId
       });
 
@@ -1064,23 +1063,21 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       const activeTag = document.activeElement?.tagName?.toLowerCase();
-      if (activeTag === 'input' || activeTag === 'textarea' || isFlashcardModalOpen || isUploadModalOpen || isGenerateModalOpen) {
+      if (activeTag === 'input' || activeTag === 'textarea' || isFlashcardsModalOpen || isUploadModalOpen || isSubtopicsModalOpen || isCadenceModalOpen || isPastStudyModalOpen) {
         return;
       }
-      if (activeTab === 'teoria') {
-        if (e.key === 'ArrowRight' || e.key === 'PageDown') {
-          e.preventDefault();
-          handleNextPage();
-        } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
-          e.preventDefault();
-          handlePrevPage();
-        }
+      if (e.key === 'ArrowRight' || e.key === 'PageDown') {
+        e.preventDefault();
+        handleNextPage();
+      } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+        e.preventDefault();
+        handlePrevPage();
       }
     };
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [activeTab, effectiveTotalPages, isFlashcardModalOpen, isUploadModalOpen, isGenerateModalOpen]);
+  }, [effectiveTotalPages, isFlashcardsModalOpen, isUploadModalOpen, isSubtopicsModalOpen, isCadenceModalOpen, isPastStudyModalOpen]);
 
   const handleAdvanceToNextModule = () => {
     if (selectedModuleNumber < subjectModules.length) {
