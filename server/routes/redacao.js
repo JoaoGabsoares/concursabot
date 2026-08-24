@@ -69,6 +69,33 @@ const TEMAS_CONCURSO = [
         titulo: 'A eficiência da matriz de transporte e a segurança no abastecimento energético nacional',
         contexto: 'A integração dos modais dutoviário, marítimo (cabotagem) e terrestre é essencial para a distribuição segura de petróleo, biocombustíveis e derivados, minimizando impactos ambientais e custos logísticos.',
         instrucoes: 'Elabore uma dissertação argumentativa demonstrando como a otimização da cadeia de suprimentos e o transporte sustentável garantem a segurança energética e o desenvolvimento socioeconômico do país.'
+    },
+    {
+        id: 'tce_rj_01',
+        careerId: 'tce_rj',
+        banca: 'Cebraspe',
+        cargo: 'Técnico de Controle Externo',
+        titulo: 'O papel dos Tribunais de Contas na governança pública e na fiscalização de compras emergenciais',
+        contexto: 'As contratações públicas sob regimes emergenciais e a aplicação da Nova Lei de Licitações (Lei nº 14.133/2021) exigem fiscalização preventiva e controle concomitante dos Tribunais de Contas para evitar sobrepreço e desperdício de recursos públicos.',
+        instrucoes: 'Redija um texto dissertativo-argumentativo, com até 30 linhas, abordando a relevância da atuação técnica do TCE-RJ e da transparência orçamentária para a probidade administrativa.'
+    },
+    {
+        id: 'iss_niteroi_01',
+        careerId: 'iss_niteroi',
+        banca: 'FGV',
+        cargo: 'Fiscal de Tributos Municipais',
+        titulo: 'A inteligência fiscal, o cruzamento de notas fiscais eletrônicas e o combate à sonegação do ISSQN',
+        contexto: 'A digitalização dos serviços e o crescimento das plataformas digitais criaram novos desafios para a fiscalização tributária municipal, exigindo auditoria contábil informatizada e inteligência de dados.',
+        instrucoes: 'Produza uma dissertação argumentativa avaliando o impacto da modernização da fiscalização fazendária na arrecadação do ISSQN e na justiça fiscal municipal.'
+    },
+    {
+        id: 'tcu_aufc_01',
+        careerId: 'tcu_aufc',
+        banca: 'FGV',
+        cargo: 'Auditor Federal de Controle Externo',
+        titulo: 'O controle externo da administração pública federal e a governança nas concessões e parcerias público-privadas',
+        contexto: 'A atuação do TCU na fiscalização prévia e contínua de grandes projetos de infraestrutura e parcerias público-privadas é fundamental para garantir a vantajosidade contratual, a matriz de riscos equilibrada e a eficiência dos gastos federais.',
+        instrucoes: 'Elabore uma dissertação argumentativa de alto nível técnico analisando o equilíbrio entre o controle fiscalizatório do TCU e a autonomia regulatória e executiva dos gestores públicos.'
     }
 ];
 

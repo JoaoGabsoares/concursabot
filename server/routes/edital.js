@@ -312,6 +312,50 @@ const RAIOX_DATA = {
             { disciplina: 'Legislação de Contratações em Estatais (Lei 13.303/16)', peso: 8, questoes: 7, incidencia: 'Média', dica: 'Regras da Lei 13.303/16 para aquisição de bens, materiais e prestação de serviços na Transpetro.' }
         ],
         paretoInsight: '🎯 Regra de Ouro (80/20): Gestão de Estoques e Modais de Transporte/Armazenagem respondem por mais de 55% da pontuação total!'
+    },
+    tce_rj: {
+        cargo: 'TCE-RJ • Técnico de Controle Externo',
+        banca: 'CEBRASPE',
+        corteMedio: '74% a 82%',
+        topicosOuro: [
+            { disciplina: 'Contabilidade Aplicada ao Setor Público (CASP)', peso: 28, questoes: 42, incidencia: 'Crítica / Decisiva', dica: 'Orçamento Público, PCASP, Variações Patrimoniais, MCASP e Restos a Pagar (Processados vs Não Processados).' },
+            { disciplina: 'Direito Administrativo', peso: 16, questoes: 24, incidencia: 'Altíssima', dica: 'Nova Lei de Licitações (Lei 14.133/21), Atos Administrativos, Improbidade e Regime de Servidores.' },
+            { disciplina: 'Língua Portuguesa', peso: 13, questoes: 20, incidencia: 'Altíssima', dica: 'Interpretação textual Cebraspe, Sintaxe do período, Concordância, Regência e Pontuação.' },
+            { disciplina: 'Controle Externo e Legislação do TCE-RJ', peso: 13, questoes: 20, incidencia: 'Altíssima', dica: 'Arts. 70-75 da CF/88, Lei Orgânica (LC 63/90) e Regimento Interno do TCE-RJ.' },
+            { disciplina: 'Direito Constitucional', peso: 11, questoes: 16, incidencia: 'Alta', dica: 'Direitos Fundamentais, Organização do Estado e Orçamento Público.' },
+            { disciplina: 'Administração Pública', peso: 11, questoes: 16, incidencia: 'Alta', dica: 'Modelos de Gestão Pública, Governança, Gestão por Processos e Atendimento ao Cidadão.' },
+            { disciplina: 'Auditoria Governamental', peso: 8, questoes: 12, incidencia: 'Média/Alta', dica: 'Normas NBASP, Instrumentos de fiscalização e Matriz de Achados.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Contabilidade Pública (CASP) + Direito Administrativo somam 44% de toda a prova de 150 itens do Cebraspe!'
+    },
+    iss_niteroi: {
+        cargo: 'ISS Niterói/RJ • Fiscal de Tributos Municipais',
+        banca: 'FGV',
+        corteMedio: '76% a 84%',
+        topicosOuro: [
+            { disciplina: 'Direito Tributário', peso: 18, questoes: 22, incidencia: 'Crítica / Decisiva', dica: 'CTN, Imunidades Constitucionais, Lançamento, Suspensão e Extinção do Crédito Tributário.' },
+            { disciplina: 'Legislação Tributária Municipal de Niterói', peso: 17, questoes: 20, incidencia: 'Altíssima', dica: 'Código Tributário Municipal (Lei 2.597/08), ISSQN (LC 116/03), IPTU, ITBI e PAF.' },
+            { disciplina: 'Contabilidade Geral e Avançada', peso: 15, questoes: 18, incidencia: 'Altíssima', dica: 'Normas CPC, Balanço Patrimonial, DRE, Estoques (CPC 16) e Imobilizado (CPC 27).' },
+            { disciplina: 'Auditoria Fiscal', peso: 12, questoes: 14, incidencia: 'Altíssima', dica: 'Planejamento de Auditoria, Cruzamento de NFS-e, Indícios de Omissão de Receita e Conciliação.' },
+            { disciplina: 'Língua Portuguesa', peso: 12, questoes: 14, incidencia: 'Alta', dica: 'Interpretação textual crítica FGV, Semântica e Sintaxe.' },
+            { disciplina: 'Direito Constitucional & Administrativo', peso: 13, questoes: 16, incidencia: 'Alta', dica: 'Art. 30 e 156 da CF/88, Poderes Administrativos e Nova Lei de Licitações (Lei 14.133/21).' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Direito Tributário + Legislação de Niterói + Contabilidade somam 50% de todas as 120 questões da prova FGV!'
+    },
+    tcu_aufc: {
+        cargo: 'TCU • Auditor Federal de Controle Externo (AUFC)',
+        banca: 'FGV',
+        corteMedio: '70% a 78%',
+        topicosOuro: [
+            { disciplina: 'Língua Portuguesa', peso: 15, questoes: 15, incidencia: 'Crítica (15% da Prova)', dica: 'Interpretação e Articulação Argumentativa densa no estilo FGV.' },
+            { disciplina: 'Controle Externo', peso: 10, questoes: 10, incidencia: 'Altíssima', dica: 'Arts. 70-75 da CF/88, Lei Orgânica do TCU (Lei 8.443/92), Regimento Interno e Consultas.' },
+            { disciplina: 'Auditoria Governamental', peso: 10, questoes: 10, incidencia: 'Altíssima', dica: 'Normas NAT, NBASP/ISSAI, Matriz de Achados, Risco de Auditoria e Amostragem.' },
+            { disciplina: 'Administração Financeira e Orçamentária (AFO)', peso: 10, questoes: 10, incidencia: 'Altíssima', dica: 'PPA/LDO/LOA, LRF (LC 101/00), Regra de Ouro e Restos a Pagar.' },
+            { disciplina: 'Análise de Dados e Tecnologia da Informação', peso: 10, questoes: 10, incidencia: 'Altíssima', dica: 'SQL avançado (JOINs, HAVING, Window Functions), Python/R e Mineração de Dados.' },
+            { disciplina: 'Direito Constitucional & Administrativo', peso: 20, questoes: 20, incidencia: 'Alta', dica: 'Processo Legislativo, Nova Lei de Licitações (Lei 14.133/21) e Improbidade.' },
+            { disciplina: 'Contabilidade Aplicada ao Setor Público (CASP)', peso: 10, questoes: 10, incidencia: 'Alta', dica: 'PCASP, DCASP, Variações Patrimoniais e Demonstrações Contábeis.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Português + Controle Externo + Auditoria + AFO + Análise de Dados concentram 55% de toda a pontuação objetiva do TCU!'
     }
 };
 

@@ -67,7 +67,10 @@ const CAREER_METRICS: Record<string, { salary: string; vacancies: string; compet
  transpetro_adm: { salary: 'R$ 5.540,25/mês', vacancies: 'Cadastro Reserva', competition: '140 cand/vaga' },
  transpetro_log: { salary: 'R$ 5.540,25/mês', vacancies: 'Quadro Terra', competition: '110 cand/vaga' },
  ses_rj: { salary: 'R$ 4.890,00/mês', vacancies: 'Edital 2026', competition: '160 cand/vaga' },
- marinha_rm2: { salary: 'R$ 4.300,00/mês', vacancies: 'Anual (RM2)', competition: '85 cand/vaga' }
+ marinha_rm2: { salary: 'R$ 4.300,00/mês', vacancies: 'Anual (RM2)', competition: '85 cand/vaga' },
+ tce_rj: { salary: 'R$ 13.000,00/mês', vacancies: 'Edital Previsto', competition: '210 cand/vaga' },
+ iss_niteroi: { salary: 'R$ 30.468,68/mês', vacancies: 'Edital Previsto', competition: '290 cand/vaga' },
+ tcu_aufc: { salary: 'R$ 23.581,39/mês', vacancies: '100 Vagas Previstas', competition: '320 cand/vaga' }
 };
 
 interface DemoPegadinha {
@@ -816,23 +819,29 @@ export const PublicDashboardPage: React.FC<PublicDashboardPageProps> = ({
  onChange={(e) => setMatrixFrom(e.target.value)}
  className="w-full p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none"
  >
- <option value="bb_comercial">Banco do Brasil (Comercial)</option>
- <option value="atrfb">Receita Federal (ATRFB)</option>
- <option value="transpetro_adm">Transpetro (Administração)</option>
- </select>
- </div>
+              <option value="bb_comercial">Banco do Brasil (Comercial)</option>
+              <option value="atrfb">Receita Federal (ATRFB)</option>
+              <option value="transpetro_adm">Transpetro (Administração)</option>
+              <option value="tce_rj">TCE-RJ (Técnico de Controle)</option>
+              <option value="iss_niteroi">ISS Niterói (Fiscal de Tributos)</option>
+              <option value="tcu_aufc">TCU (Auditor Federal de Controle)</option>
+            </select>
+          </div>
 
- <div className="space-y-1">
- <label className="text-xs text-[var(--text-muted)] uppercase font-bold">Quero Migrar Para:</label>
- <select
- value={matrixTo}
- onChange={(e) => setMatrixTo(e.target.value)}
- className="w-full p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none"
- >
- <option value="transpetro_adm">Transpetro (Administração)</option>
- <option value="afrfb">Receita Federal (AFRFB)</option>
- <option value="bb_comercial">Banco do Brasil (Comercial)</option>
- </select>
+          <div className="space-y-1">
+            <label className="text-xs text-[var(--text-muted)] uppercase font-bold">Quero Migrar Para:</label>
+            <select
+              value={matrixTo}
+              onChange={(e) => setMatrixTo(e.target.value)}
+              className="w-full p-2.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none"
+            >
+              <option value="transpetro_adm">Transpetro (Administração)</option>
+              <option value="afrfb">Receita Federal (AFRFB)</option>
+              <option value="bb_comercial">Banco do Brasil (Comercial)</option>
+              <option value="tce_rj">TCE-RJ (Técnico de Controle)</option>
+              <option value="iss_niteroi">ISS Niterói (Fiscal de Tributos)</option>
+              <option value="tcu_aufc">TCU (Auditor Federal de Controle)</option>
+            </select>
  </div>
  </div>
 

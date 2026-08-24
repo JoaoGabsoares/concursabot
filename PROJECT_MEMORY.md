@@ -9,12 +9,15 @@
 ## 📌 1. Sumário Executivo do Sistema
 
 O **Gabarito.AI** é uma plataforma web completa de preparação de alta performance para concursos públicos de elite, com suporte nativo a:
-1. **Transpetro (Edital nº 03 • Nível Médio)** — Técnico de Administração e Controle Jr & Técnico de Suprimento e Logística Jr • Banca Cesgranrio
-2. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
-3. **Banco do Brasil (BB)** — Agente Comercial & Agente de Tecnologia (TI) • Banca Cesgranrio
-4. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO
-5. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Língua Portuguesa • Banca DEnsM
-6. **Carreiras Customizadas** — Configurável pelo criador de perfis.
+1. **Tribunal de Contas da União (TCU)** — Auditor Federal de Controle Externo (AUFC • Geral) • Bancas FGV & Cebraspe
+2. **Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ)** — Técnico de Controle Externo • Bancas Cebraspe & FGV
+3. **Secretaria Municipal de Fazenda de Niterói (ISS Niterói/RJ)** — Fiscal de Tributos Municipais • Banca FGV
+4. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
+5. **Transpetro (Edital nº 03 • Nível Médio)** — Técnico de Administração e Controle Jr & Técnico de Suprimento e Logística Jr • Banca Cesgranrio
+6. **Banco do Brasil (BB)** — Agente Comercial & Agente de Tecnologia (TI) • Banca Cesgranrio
+7. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO
+8. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Língua Portuguesa • Banca DEnsM
+9. **Carreiras Customizadas** — Configurável pelo criador de perfis.
 
 ---
 

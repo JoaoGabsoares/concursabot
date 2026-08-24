@@ -1,0 +1,130 @@
+[
+  {
+    "subject": "Controle Externo",
+    "topic": "Lei Orgânica do TCU (Lei 8.443/92) e Consultas",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) A Lei Orgânica do Tribunal de Contas da União (Lei nº 8.443/1992) prevê expressamente a competência da Corte de Contas para decidir sobre consulta que lhe seja formulada por autoridade competente, a respeito de dúvida suscitada na aplicação de dispositivos legais e regulamentares concernentes à matéria de sua competência. A respeito do instituto da consulta perante o TCU, assinale a afirmativa correta:",
+    "options": [
+      "A resposta do TCU a consulta tem caráter vinculante para a administração pública federal e constitui prejulgamento da tese, mas não do fato ou caso concreto.",
+      "Qualquer cidadão ou pessoa jurídica de direito privado tem legitimidade ativa para formular consulta diretamente ao Plenário do TCU.",
+      "A decisão em processo de consulta vincula apenas o consulente original, não gerando qualquer efeito interpretativo para os demais órgãos públicos.",
+      "O TCU pode responder a consultas sobre casos concretos específicos que já estejam pendentes de deliberação judicial.",
+      "As consultas formuladas ao TCU não exigem a demonstração de dúvida sobre aplicação de lei ou matéria afeta à sua competência fiscalizatória."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. Conforme o art. 1º, inciso XVII e § 2º da Lei Orgânica do TCU (Lei nº 8.443/1992) e o art. 264 do Regimento Interno do TCU, a resposta a consulta tem caráter normativo e constitui PREJULGAMENTO DA TESE, mas NÃO do fato ou de caso concreto. Apenas autoridades legalmente legitimadas (como Ministros de Estado, Presidentes de Casas Legislativas, etc.) podem formular consultas."
+  },
+  {
+    "subject": "Controle Externo",
+    "topic": "Tomada de Contas Especial (TCE) e Julgamento de Contas",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) No âmbito dos processos do Tribunal de Contas da União, quando as contas de determinado gestor de recursos públicos federais são julgadas IRREGULARES com imputação de débito e aplicação de multa pecuniária, o título executivo extrajudicial decorrente da decisão:",
+    "options": [
+      "Tem eficácia de título executivo (Art. 71, § 3º da CF/88) e prescinde de prévia homologação ou execução promovida diretamente pelo corpo funcional do próprio TCU.",
+      "Depende necessariamente de ajuizamento de ação civil pública de conhecimento pelo Ministério Público Federal para constituir título de cobrança.",
+      "Pode ser executado diretamente pela Procuradoria do TCU na Justiça Federal sem intervenção da Advocacia-Geral da União.",
+      "Perde sua eficácia caso o órgão de controle interno do Poder Executivo emita parecer prévio em sentido divergente.",
+      "Exige referendo expresso por maioria absoluta do Congresso Nacional antes de sua remessa aos órgãos de execução fiscal."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. De acordo com o art. 71, § 3º da CF/88, as decisões do Tribunal de Contas de que resulte imputação de débito ou multa têm eficácia de título executivo. A execução judicial não é feita pelo próprio Tribunal (que não detém capacidade postulatória judicial para executar dívidas ativas da União), e sim pela Advocacia-Geral da União (AGU) ou órgão de representação judicial competente."
+  },
+  {
+    "subject": "Auditoria Governamental",
+    "topic": "Normas de Auditoria do TCU (NAT) e Matriz de Achados",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) Na elaboração da Matriz de Achados de uma auditoria de conformidade realizada pelo TCU em obras públicas federais, a equipe técnica identificou que uma empresa contratada utilizou material com especificações inferiores às previstas no edital, causando trincas precoces no pavimento. Na estrutura padronizada de um achado de auditoria segundo as normas do TCU (NAT/ISSAI), a exigência técnica descrita no memorial descritivo da licitação corresponde ao elemento:",
+    "options": [
+      "Critério.",
+      "Condição (ou Situação Encontrada).",
+      "Causa.",
+      "Efeito (ou Consequência).",
+      "Recomendação Técnica."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. Na metodologia de auditoria do TCU (Manual de Auditoria Operacional / NAT / NBASP): 1) CRITÉRIO: o que deveria ser (lei, norma técnica, memorial descritivo, edital); 2) CONDIÇÃO (Situação Encontrada): o que de fato é (uso de material inferior e trincas); 3) CAUSA: a razão de ter ocorrido (falha na fiscalização); 4) EFEITO: o impacto financeiro ou operacional."
+  },
+  {
+    "subject": "Auditoria Governamental",
+    "topic": "Risco de Auditoria e Amostragem",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) Em auditoria financeira governamental realizada pelo TCU, o risco de que os procedimentos executados pelo auditor não detectem uma distorção relevante existente nas demonstrações contábeis de uma autarquia federal é tecnicamente classificado como:",
+    "options": [
+      "Risco de Detecção.",
+      "Risco Inerente.",
+      "Risco de Controle.",
+      "Risco de Negócio.",
+      "Risco de Conformidade Residual."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. Conforme as normas internacionais de auditoria (NBC TA 200 / ISSAI 200 / NBASP): O Risco de Auditoria é o produto de (Risco Inerente × Risco de Controle) × Risco de Detecção. O Risco de Detecção é o único componente diretamente controlado pelo auditor mediante a definição da extensão, época e natureza dos testes aplicados."
+  },
+  {
+    "subject": "Administração Financeira e Orçamentária (AFO)",
+    "topic": "Lei de Responsabilidade Fiscal e Regra de Ouro",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) Em relação ao princípio da \"Regra de Ouro\" do orçamento público (Art. 167, III, da CF/88) e às disposições da Lei de Responsabilidade Fiscal (LC nº 101/2000), assinale a afirmativa correta:",
+    "options": [
+      "É vedada a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta.",
+      "A realização de operações de crédito para financiar despesas correntes de pessoal é livremente admitida desde que a taxa de juros seja inferior à inflação projetada.",
+      "A Regra de Ouro estabelece que as despesas obrigatórias de caráter continuado não podem ultrapassar 50% da Receita Corrente Líquida da União.",
+      "As operações de crédito por antecipação de receita orçamentária (ARO) são computadas no montante global da Regra de Ouro para fins de apuração de superávit primário.",
+      "A aprovação de créditos adicionais destinados a despesas de capital depende de autorização do Tribunal de Contas da União antes do envio ao Congresso."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. Conforme o Art. 167, inciso III da Constituição Federal de 1988: É vedada a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta (Regra de Ouro orçamentária)."
+  },
+  {
+    "subject": "Análise de Dados e Tecnologia da Informação",
+    "topic": "Consultas SQL e Cruzamento de Dados para Auditoria",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) Uma equipe de auditores do TCU deseja identificar todos os contratos administrativos federais vigentes cujo valor empenhado total acumulado seja superior a R$ 10.000.000,00, agrupados por órgão contratante. No padrão SQL ANSI, a cláusula correta para filtrar o resultado agregado pela função SUM(valor_empenhado) é:",
+    "options": [
+      "HAVING SUM(valor_empenhado) > 10000000",
+      "WHERE SUM(valor_empenhado) > 10000000",
+      "GROUP BY valor_empenhado > 10000000",
+      "FILTER (SUM(valor_empenhado) > 10000000)",
+      "ORDER BY SUM(valor_empenhado) WHERE > 10000000"
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. Em SQL, a cláusula WHERE filtra linhas individuais ANTES da agregação e não pode ser usada diretamente com funções de agregação como SUM(). Para filtrar grupos resultantes de uma agregação com base em uma condição agregada, a cláusula correta e obrigatória é a HAVING (ex.: HAVING SUM(valor_empenhado) > 10000000)."
+  },
+  {
+    "subject": "Direito Administrativo",
+    "topic": "Nova Lei de Licitações (Lei 14.133/21) e Contratação Direta",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) De acordo com a Nova Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021), a contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, consagrado pela crítica especializada ou pela opinião pública, caracteriza hipótese de:",
+    "options": [
+      "Inexigibilidade de licitação, em razão da inviabilidade de competição.",
+      "Dispensa de licitação em razão do valor estimado do contrato.",
+      "Licitação dispensada por determinação de utilidade pública federal.",
+      "Dispensa de licitação decorrente de emergência ou calamidade pública.",
+      "Procedimento de manifestação de interesse compulsório prévio."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. Conforme o Art. 74, inciso II da Lei nº 14.133/2021, é INEXIGÍVEL a licitação quando inviável a competição, em especial para a contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Interpretação e Articulação Argumentativa FGV",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "(FGV - TCU / AUFC) Considere o período: \"A transparência governamental não constitui mera concessão burocrática dos governantes aos governados, mas sim um dever indeclinável de prestação de contas inerente ao regime republicano.\" A relação lógico-semântica estabelecida entre a primeira e a segunda oração pelo conectivo \"mas sim\" é de:",
+    "options": [
+      "Oposição retificativa (correção enfática de uma premissa anterior).",
+      "Concessão explicativa com relação de causa e efeito temporal.",
+      "Adição cumulativa desprovida de contraste axiológico.",
+      "Conclusão lógica decorrente de silogismo dedutivo.",
+      "Condição subordinada temporal de eficácia diferida."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: A. A estrutura \"não... mas sim\" (ou \"não apenas... mas também\" quando aditiva) no contexto \"não constitui X, mas sim Y\" expressa uma oposição RETIFICATIVA / CORRETIVA, na qual o autor nega a primeira ideia para afirmar com ênfase a segunda, retificando o conceito de transparência governamental."
+  }
+]

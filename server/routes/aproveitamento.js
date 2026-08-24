@@ -116,6 +116,51 @@ const SYLLABUS_MATRIX = {
             { nome: 'Administração Pública e Gestão de Pessoas', peso: 20, nucleo: 'gestao' },
             { nome: 'Normas e Regimento Interno', peso: 10, nucleo: 'especifico' }
         ]
+    },
+    tce_rj: {
+        nome: 'TCE-RJ • Técnico de Controle Externo',
+        banca: 'CEBRASPE (CESPE)',
+        disciplinas: [
+            { nome: 'Contabilidade Aplicada ao Setor Público (CASP)', peso: 28, nucleo: 'fiscal' },
+            { nome: 'Direito Administrativo', peso: 16, nucleo: 'juridico' },
+            { nome: 'Língua Portuguesa', peso: 13, nucleo: 'geral' },
+            { nome: 'Controle Externo e Legislação do TCE-RJ', peso: 13, nucleo: 'auditoria' },
+            { nome: 'Direito Constitucional', peso: 11, nucleo: 'juridico' },
+            { nome: 'Administração Pública', peso: 11, nucleo: 'gestao' },
+            { nome: 'Auditoria Governamental', peso: 8, nucleo: 'auditoria' }
+        ]
+    },
+    iss_niteroi: {
+        nome: 'ISS Niterói/RJ • Fiscal de Tributos Municipais',
+        banca: 'Fundação Getulio Vargas (FGV)',
+        disciplinas: [
+            { nome: 'Direito Tributário', peso: 18, nucleo: 'especifico' },
+            { nome: 'Legislação Tributária Municipal de Niterói', peso: 17, nucleo: 'especifico' },
+            { nome: 'Contabilidade Geral e Avançada', peso: 15, nucleo: 'fiscal' },
+            { nome: 'Auditoria Fiscal', peso: 12, nucleo: 'auditoria' },
+            { nome: 'Língua Portuguesa', peso: 12, nucleo: 'geral' },
+            { nome: 'Direito Constitucional', peso: 7, nucleo: 'juridico' },
+            { nome: 'Direito Administrativo', peso: 7, nucleo: 'juridico' },
+            { nome: 'Direito Civil e Direito Empresarial', peso: 5, nucleo: 'juridico' },
+            { nome: 'Raciocínio Lógico-Matemático e Matemática Financeira', peso: 5, nucleo: 'exatas' },
+            { nome: 'Tecnologia da Informação e Fluência em Dados', peso: 3, nucleo: 'ti' }
+        ]
+    },
+    tcu_aufc: {
+        nome: 'TCU • Auditor Federal de Controle Externo (AUFC)',
+        banca: 'Fundação Getulio Vargas (FGV)',
+        disciplinas: [
+            { nome: 'Língua Portuguesa', peso: 15, nucleo: 'geral' },
+            { nome: 'Controle Externo', peso: 10, nucleo: 'auditoria' },
+            { nome: 'Auditoria Governamental', peso: 10, nucleo: 'auditoria' },
+            { nome: 'Administração Financeira e Orçamentária (AFO)', peso: 10, nucleo: 'fiscal' },
+            { nome: 'Análise de Dados e Tecnologia da Informação', peso: 10, nucleo: 'ti' },
+            { nome: 'Direito Constitucional', peso: 10, nucleo: 'juridico' },
+            { nome: 'Direito Administrativo', peso: 10, nucleo: 'juridico' },
+            { nome: 'Administração Pública', peso: 10, nucleo: 'gestao' },
+            { nome: 'Contabilidade Aplicada ao Setor Público (CASP)', peso: 10, nucleo: 'fiscal' },
+            { nome: 'Língua Inglesa', peso: 5, nucleo: 'geral' }
+        ]
     }
 };
 

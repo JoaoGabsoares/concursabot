@@ -1,0 +1,98 @@
+[
+  {
+    "subject": "Controle Externo e Legislação do TCE-RJ",
+    "topic": "Competências Constitucionais dos Tribunais de Contas",
+    "banca": "CEBRASPE",
+    "type": "multiple_choice",
+    "question_text": "À luz da Constituição Federal de 1988 (arts. 70 a 75) e da jurisprudência consolidada do Supremo Tribunal Federal, o Tribunal de Contas, no exercício de sua competência de controle externo:",
+    "options": [
+      "(A) Possui competência para anular diretamente atos e contratos administrativos eivados de ilegalidade, sem necessidade de fixar prazo ao órgão fiscalizado.",
+      "(B) Não pode apreciar a constitucionalidade de leis e de atos do Poder Público no exercício de sua atividade de controle, haja vista a reserva de jurisdição.",
+      "(C) Tem competência para fiscalizar a aplicação de quaisquer recursos repassados pela União ou Estado mediante convênio, acordo ou ajuste a municípios.",
+      "(D) Depende de provocação do Poder Legislativo ou do Ministério Público para realizar inspeções e auditorias nos órgãos sob sua jurisdição.",
+      "(E) Suas decisões de que resulte imputação de débito ou multa dependem de homologação judicial para terem eficácia de título executivo."
+    ],
+    "correct_index": 2,
+    "explanation": "GABARITO: C. Art. 71, VI da CF/88: fiscalizar a aplicação de quaisquer recursos repassados pela União mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a Município. A alternativa A está errada porque o TC assina prazo para o órgão adotar as providências (art. 71, IX). A alternativa B contraria a Súmula 347 do STF. A alternativa D está errada pois o TC pode agir por iniciativa própria (art. 71, IV). A alternativa E contraria o art. 71, § 3º (as decisões têm eficácia de título executivo sem necessidade de homologação judicial)."
+  },
+  {
+    "subject": "Controle Externo e Legislação do TCE-RJ",
+    "topic": "Lei Orgânica do TCE-RJ (LC 63/1990)",
+    "banca": "CEBRASPE",
+    "type": "multiple_choice",
+    "question_text": "De acordo com a Lei Complementar Estadual nº 63/1990 (Lei Orgânica do TCE-RJ), as contas dos administradores e demais responsáveis por recursos públicos estaduais e municipais serão julgadas:",
+    "options": [
+      "(A) Regulares, regulares com ressalva, irregulares ou iliquidáveis.",
+      "(B) Aprovadas, reprovadas ou sobrestadas.",
+      "(C) Homologadas, rejeitadas ou arquivadas por ausência de dolo.",
+      "(D) Válidas, nulas ou anuláveis.",
+      "(E) Favoráveis, desfavoráveis ou sob condição resolutiva."
+    ],
+    "correct_index": 0,
+    "explanation": "GABARITO: A. Conforme o art. 20 da LC 63/90 (e simetria com o art. 16 da Lei 8.443/92 do TCU), as contas serão julgadas: I - regulares; II - regulares com ressalva; III - irregulares; ou consideradas iliquidáveis quando caso fortuito ou força maior impedir o julgamento do mérito."
+  },
+  {
+    "subject": "Auditoria Governamental",
+    "topic": "Normas Internacionais e Tipos de Auditoria",
+    "banca": "CEBRASPE",
+    "type": "multiple_choice",
+    "question_text": "Segundo as Normas Brasileiras de Auditoria do Setor Público (NBASP / ISSAI), a auditoria governamental que objetiva avaliar a economicidade, eficiência, eficácia e efetividade de programas, órgãos ou entidades governamentais é classificada como:",
+    "options": [
+      "(A) Auditoria de Conformidade (Compliance).",
+      "(B) Auditoria Operacional (Performance Audit).",
+      "(C) Auditoria Financeira e Contábil.",
+      "(D) Inspeção Extraordinária de Urgência.",
+      "(E) Levantamento de Processos de Governança."
+    ],
+    "correct_index": 1,
+    "explanation": "GABARITO: B. A Auditoria Operacional (NBASP 300 / ISSAI 300) é o exame independente, objetivo e confiável que analisa se empreendimentos, sistemas, operações, programas, atividades ou organizações do setor público estão funcionando de acordo com os princípios de economicidade, eficiência, eficácia e efetividade."
+  },
+  {
+    "subject": "Administração Financeira e Orçamentária (AFO)",
+    "topic": "Lei de Responsabilidade Fiscal (LC 101/2000)",
+    "banca": "CEBRASPE",
+    "type": "multiple_choice",
+    "question_text": "Nos termos da Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal), considera-se despesa total com pessoal o somatório dos gastos do ente da Federação com os servidores ativos, inativos e pensionistas. No âmbito dos Estados, o limite global da despesa total com pessoal para o Poder Executivo é de:",
+    "options": [
+      "(A) 40,90% da Receita Corrente Líquida (RCL).",
+      "(B) 49,00% da Receita Corrente Líquida (RCL).",
+      "(C) 50,00% da Receita Corrente Líquida (RCL).",
+      "(D) 54,00% da Receita Corrente Líquida (RCL).",
+      "(E) 60,00% da Receita Corrente Líquida (RCL)."
+    ],
+    "correct_index": 1,
+    "explanation": "GABARITO: B. Na LRF (Art. 19 e 20), o limite total para os Estados é de 60% da RCL, repartido da seguinte forma: Poder Executivo = 49%; Poder Judiciário = 6%; Poder Legislativo (incluindo o Tribunal de Contas do Estado) = 3%; Ministério Público = 2%."
+  },
+  {
+    "subject": "Contabilidade Aplicada ao Setor Público (CASP)",
+    "topic": "Plano de Contas Aplicado ao Setor Público (PCASP)",
+    "banca": "CEBRASPE",
+    "type": "multiple_choice",
+    "question_text": "No Plano de Contas Aplicado ao Setor Público (PCASP), as contas são segregadas em classes segundo a natureza da informação contábil. As classes que registram, respectivamente, atos potenciais do ente público (natureza de controle) e o orçamento aprovado e sua execução (natureza orçamentária) são:",
+    "options": [
+      "(A) Classes 1 e 2 (Patrimonial) e Classes 3 e 4 (Resultado).",
+      "(B) Classes 5 e 6 (Orçamentária) e Classes 7 e 8 (Controle).",
+      "(C) Classes 7 e 8 (Controle) e Classes 5 e 6 (Orçamentária).",
+      "(D) Classes 3 e 4 (Variações Patrimoniais) e Classes 1 e 2 (Ativo/Passivo).",
+      "(E) Classes 1 e 3 (Devedoras) e Classes 2 e 4 (Credoras)."
+    ],
+    "correct_index": 2,
+    "explanation": "GABARITO: C. No PCASP, a estrutura por natureza é: Natureza Patrimonial: Classes 1 (Ativo), 2 (Passivo/PL), 3 (Variação Patrimonial Diminutiva - VPD) e 4 (Variação Patrimonial Aumentativa - VPA); Natureza Orçamentária: Classes 5 (Aprovação do Orçamento) e 6 (Execução do Orçamento); Natureza de Controle (Atos Potenciais): Classes 7 (Controles Devedores) e 8 (Controles Credores)."
+  },
+  {
+    "subject": "Direito Administrativo",
+    "topic": "Nova Lei de Licitações (Lei 14.133/2021)",
+    "banca": "CEBRASPE",
+    "type": "multiple_choice",
+    "question_text": "Com base na Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos), a modalidade licitatória destinada à contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, denomina-se:",
+    "options": [
+      "(A) Pregão Eletrônico.",
+      "(B) Concorrência Internacional.",
+      "(C) Concurso Público de Projetos.",
+      "(D) Diálogo Competitivo.",
+      "(E) Procedimento de Manifestação de Interesse (PMI)."
+    ],
+    "correct_index": 3,
+    "explanation": "GABARITO: D. Art. 6º, XLII da Lei 14.133/21: diálogo competitivo: modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos."
+  }
+]

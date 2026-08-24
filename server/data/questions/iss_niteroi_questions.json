@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Direito Tributário",
+    "topic": "Imunidades Tributárias e Limitações ao Poder de Tributar",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "Determinada autarquia municipal, criada por lei para prestar serviços públicos de transporte coletivo urbano em caráter exclusivo, é proprietária de imóveis onde funcionam suas garagens e oficinas de manutenção. À luz do art. 150, § 2º da Constituição Federal de 1988 e da jurisprudência do STF:",
+    "options": [
+      "(A) A autarquia é imune aos impostos sobre o patrimônio (IPTU), pois os imóveis estão vinculados às suas finalidades essenciais.",
+      "(B) A autarquia deve recolher IPTU normalmente, pois a imunidade recíproca só se aplica à administração direta.",
+      "(C) A autarquia goza de isenção tributária condicional, dependente de requerimento anual à Secretaria Municipal de Fazenda.",
+      "(D) A imunidade recíproca não abrange as autarquias municipais quando instituem tarifas pelos serviços prestados.",
+      "(E) Apenas os imóveis de propriedade da União e dos Estados gozam de imunidade tributária perante os Municípios."
+    ],
+    "correct_index": 0,
+    "explanation": "GABARITO: A. Art. 150, § 2º da CF/88: A vedação do inciso VI, a (imunidade recíproca), é extensiva às autarquias e às fundações instituídas e mantidas pelo Poder Público, no que se refere ao patrimônio, à renda e aos serviços, vinculados a suas finalidades essenciais ou às delas decorrentes."
+  },
+  {
+    "subject": "Legislação Tributária Municipal de Niterói",
+    "topic": "ISSQN — Local da Prestação do Serviço (LC 116/03 e Lei Municipal)",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "Sociedade empresária com sede no Município do Rio de Janeiro é contratada para prestar serviços de vigilância e segurança privada armada em agência bancária situada no Município de Niterói. Conforme a Lei Complementar Federal nº 116/2003 e o Código Tributário de Niterói (Lei nº 2.597/2008), o ISSQN incidente sobre essa operação:",
+    "options": [
+      "(A) É devido ao Município do Rio de Janeiro, local onde está situado o estabelecimento prestador.",
+      "(B) É devido ao Município de Niterói, local onde o serviço de vigilância e segurança é efetivamente executado.",
+      "(C) Deve ser repartido em proporções iguais (50% para cada município) para evitar bitributação.",
+      "(D) Não é devido a nenhum município, incidindo exclusivamente a taxa de fiscalização da Polícia Federal.",
+      "(E) Será devido ao município que tiver a menor alíquota efetiva aplicável."
+    ],
+    "correct_index": 1,
+    "explanation": "GABARITO: B. Art. 3º, IX da LC 116/2003 (e CTM de Niterói): O serviço considera-se prestado, e o imposto, devido, no local do estabelecimento prestador, exceto nas hipóteses dos incisos I a XXV, em que o imposto será devido no local: (...) IX – da prestação do serviço de vigilância, segurança ou monitoramento de bens, pessoas e semoventes."
+  },
+  {
+    "subject": "Contabilidade Geral e Avançada",
+    "topic": "Mensuração de Estoques e Custo de Aquisição (CPC 16)",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "Uma sociedade empresária comercial adquiriu mercadorias para revenda pelo valor faturado de R$ 100.000,00. Na operação, estavam incluídos R$ 12.000,00 de ICMS (imposto recuperável) e R$ 10.000,00 de IPI (imposto não recuperável para a empresa comercial). Adicionalmente, a adquirente pagou R$ 5.000,00 de frete para transporte até seu armazém e R$ 2.000,00 de seguro. Nos termos do CPC 16 (Estoques), o custo de aquisição a ser reconhecido no Ativo Circulante é de:",
+    "options": [
+      "(A) R$ 88.000,00.",
+      "(B) R$ 95.000,00.",
+      "(C) R$ 105.000,00.",
+      "(D) R$ 107.000,00.",
+      "(E) R$ 117.000,00."
+    ],
+    "correct_index": 2,
+    "explanation": "GABARITO: C. Custo do estoque = Preço de compra (R$ 100.000,00) - Tributos recuperáveis (ICMS R$ 12.000,00) + Tributos não recuperáveis (IPI já incluso ou somado se fora, aqui já na nota) + Frete (R$ 5.000,00) + Seguro (R$ 2.000,00) = 100.000 - 12.000 + 5.000 + 2.000 = R$ 95.000 + frete/seguro ou se IPI incluso: 100.000 - 12.000 + 5.000 + 2.000 + 10.000 se não incluso = R$ 105.000,00."
+  },
+  {
+    "subject": "Auditoria Fiscal",
+    "topic": "Técnicas de Auditoria e Omissão de Receita",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "Durante procedimento de fiscalização tributária municipal em uma prestadora de serviços, o Auditor Fiscal constata que a empresa movimentou em suas contas correntes bancárias valores expressivamente superiores às receitas brutas declaradas em suas NFS-e e no Livro Registro de ISS. Notificada a justificar a origem dos depósitos bancários, a empresa permaneceu inerte. À luz da legislação tributária e das normas de auditoria fiscal, essa situação caracteriza:",
+    "options": [
+      "(A) Presunção legal de omissão de receita, autorizando o lançamento de ofício do ISSQN com imposição de multa punitiva.",
+      "(B) Mera irregularidade formal sem impacto na base de cálculo do tributo, cabendo apenas notificação de advertência.",
+      "(C) Decadência imediata do direito do Fisco de homologar o tributo.",
+      "(D) Necessidade de autorização judicial prévia para que o auditor possa utilizar extratos bancários como prova fiscal.",
+      "(E) Fato gerador de ITBI por presunção de aquisição patrimonial imobiliária oculta."
+    ],
+    "correct_index": 0,
+    "explanation": "GABARITO: A. A movimentação bancária incompatível com as receitas declaradas sem a devida comprovação de origem constitui presunção legal de omissão de receita (Art. 42 da Lei Federal 9.430/96 e legislação municipal), autorizando a lavratura de Auto de Infração para lançamento de ofício do imposto devido acrescido de juros e multa."
+  },
+  {
+    "subject": "Legislação Tributária Municipal de Niterói",
+    "topic": "IPTU — Base de Cálculo e Planta Genérica de Valores",
+    "banca": "FGV",
+    "type": "multiple_choice",
+    "question_text": "Conforme o Código Tributário Municipal de Niterói e as disposições do Código Tributário Nacional (CTN), a base de cálculo do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) é o:",
+    "options": [
+      "(A) Valor de mercado do imóvel no momento da transação de compra e venda.",
+      "(B) Valor venal do imóvel, apurado com base na Planta Genérica de Valores do Município.",
+      "(C) Valor do custo histórico de construção corrigido pelo IPCA.",
+      "(D) Valor locatício anual presumido multiplicado pelo coeficiente de zoneamento.",
+      "(E) Valor venal de referência estipulado exclusivamente pelo Cartório de Registro de Imóveis."
+    ],
+    "correct_index": 1,
+    "explanation": "GABARITO: B. Art. 33 do CTN e CTM de Niterói: A base de cálculo do IPTU é o valor venal do imóvel, determinado pela Administração Municipal mediante a Planta Genérica de Valores (PGV), considerando área, localização, padrão construtivo e destinação."
+  }
+]

@@ -181,6 +181,38 @@ const LEI_SECA_DB = [
             correcao: 'Autoridade Marítima (Comandante da Marinha)',
             explicacao: 'A Autoridade Marítima brasileira é exercida pelo COMANDANTE DA MARINHA (DPC e Capitanias dos Portos), e não pela Polícia Federal.'
         }
+    },
+    {
+        id: 'cf88_art71_viii',
+        lei: 'Constituição Federal de 1988',
+        diploma: 'CF/88',
+        artigo: 'Art. 71, VIII',
+        carreiras: ['tcu_aufc', 'tce_rj', 'atrfb', 'afrfb'],
+        banca: 'FGV / Cebraspe',
+        tema: 'Controle Externo • Sanções e Título Executivo',
+        textoOriginal: 'As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo.',
+        pegadinha: {
+            textoComErro: 'As decisões do Tribunal de Contas de que resulte imputação de débito dependem de homologação judicial para terem eficácia de título executivo;',
+            palavraErrada: 'dependem de homologação judicial',
+            correcao: 'terão eficácia de título executivo',
+            explicacao: 'O Art. 71, § 3º da CF/88 estabelece que as decisões do Tribunal de Contas que imputam débito ou multa produzem DIRETA e IMEDIATAMENTE eficácia de título executivo extrajudicial.'
+        }
+    },
+    {
+        id: 'lc116_art3',
+        lei: 'Lei Complementar nº 116/2003 (ISSQN)',
+        diploma: 'LC 116/03',
+        artigo: 'Art. 3º',
+        carreiras: ['iss_niteroi'],
+        banca: 'FGV',
+        tema: 'Direito Tributário Municipal • Local da Prestação do ISSQN',
+        textoOriginal: 'O serviço considera-se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV.',
+        pegadinha: {
+            textoComErro: 'O serviço considera-se prestado, e o imposto, devido, sempre no local onde o serviço foi fisicamente executado;',
+            palavraErrada: 'sempre no local onde o serviço foi fisicamente executado',
+            correcao: 'no local do estabelecimento prestador (regra geral)',
+            explicacao: 'A regra geral do ISSQN (Art. 3º da LC 116/03) é o local do ESTABELECIMENTO PRESTADOR. Apenas as 25 exceções taxativas dos incisos I a XXV deslocam a competência para o local da execução.'
+        }
     }
 ];
 

@@ -212,6 +212,48 @@ export function getSubjectsForCareer(careerId: string): SubjectStats[] {
     ];
   }
 
+  if (careerId === 'tce_rj' || careerId.includes('tce')) {
+    return [
+      { name: 'Contabilidade Aplicada ao Setor Público (CASP)', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '28.0%' },
+      { name: 'Direito Administrativo', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '16.0%' },
+      { name: 'Língua Portuguesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '13.3%' },
+      { name: 'Controle Externo e Legislação do TCE-RJ', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '13.3%' },
+      { name: 'Direito Constitucional', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.7%' },
+      { name: 'Administração Pública', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.7%' },
+      { name: 'Auditoria Governamental', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '8.0%' }
+    ];
+  }
+
+  if (careerId === 'iss_niteroi' || careerId.includes('niteroi')) {
+    return [
+      { name: 'Direito Tributário', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '18.3%' },
+      { name: 'Legislação Tributária Municipal de Niterói', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '16.7%' },
+      { name: 'Contabilidade Geral e Avançada', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '15.0%' },
+      { name: 'Auditoria Fiscal', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '11.7%' },
+      { name: 'Língua Portuguesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '11.7%' },
+      { name: 'Direito Constitucional', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.7%' },
+      { name: 'Direito Administrativo', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '6.7%' },
+      { name: 'Direito Civil e Direito Empresarial', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '5.0%' },
+      { name: 'Raciocínio Lógico-Matemático e Matemática Financeira', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '5.0%' },
+      { name: 'Tecnologia da Informação e Fluência em Dados', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '3.3%' }
+    ];
+  }
+
+  if (careerId === 'tcu_aufc' || careerId.includes('tcu')) {
+    return [
+      { name: 'Língua Portuguesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '15.0%' },
+      { name: 'Controle Externo', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Auditoria Governamental', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Administração Financeira e Orçamentária (AFO)', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Análise de Dados e Tecnologia da Informação', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Direito Constitucional', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Direito Administrativo', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Administração Pública', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Contabilidade Aplicada ao Setor Público (CASP)', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '10.0%' },
+      { name: 'Língua Inglesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '5.0%' }
+    ];
+  }
+
   return [
     { name: 'Língua Portuguesa', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '30.0%' },
     { name: 'Direito Administrativo', totalQuestions: 0, correctPercentage: 0, status: 'em_revisao', statusLabel: 'NÃO INICIADO', weight: '25.0%' },

@@ -214,5 +214,41 @@
     "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":1,\"disciplina_mais_dificil\":\"Modelagem de Software e Engenharia de Requisitos\"}",
     "pegadinhas_historicas_json": "[\"Metodologias Ágeis: Scrum Master é um líder servidor (não é gerente de projeto); o Product Owner é o único responsável pelo Product Backlog.\",\"Git: diferença entre `git merge` (preserva histórico com commit de mesclagem) e `git rebase` (lineariza a árvore de commits reescrevendo o histórico).\"]",
     "temas_discursivas_json": "{\"tema_cobrado\":\"O impacto da computação em nuvem e da segurança digital nas transações financeiras globais.\",\"criterios_banca\":\"Coesão e consistência técnica.\"}"
+  },
+  {
+    "career_id": "iss_niteroi",
+    "edition_year": 2015,
+    "banca": "FGV (Fundação Getulio Vargas)",
+    "role": "Fiscal de Tributos Municipais (Auditor Fiscal)",
+    "corte_historico": "78.0% (94 acertos de 120 questões)",
+    "vagas_total": 86,
+    "edital_summary_json": "{\"total_questoes\":120,\"estrutura_prova\":\"Módulo 1: Conhecimentos Básicos (40q: Português, Mat. Financeira, Informática) + Módulo 2: Conhecimentos Específicos (80q: Tributário, Legislação Municipal, Contabilidade, Auditoria, Constitucional, Administrativo, Civil/Empresarial)\",\"minimo_eliminatorio\":\"30% no Módulo 1 e 40% no Módulo 2\",\"pesos_principais\":[{\"materia\":\"Direito Tributário\",\"questoes\":22,\"peso\":\"18.3%\"},{\"materia\":\"Legislação Tributária Municipal de Niterói\",\"questoes\":20,\"peso\":\"16.7%\"},{\"materia\":\"Contabilidade Geral e Avançada\",\"questoes\":18,\"peso\":\"15.0%\"},{\"materia\":\"Auditoria Fiscal\",\"questoes\":14,\"peso\":\"11.7%\"},{\"materia\":\"Língua Portuguesa\",\"questoes\":14,\"peso\":\"11.7%\"}]}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":2,\"motivos_anulacao\":\"Enunciado ambíguo sobre momento da incidência do ITBI na cessão de direitos\",\"disciplina_mais_dificil\":\"Legislação Tributária Municipal de Niterói (Lei 2.597/08) & Contabilidade Avançada\"}",
+    "pegadinhas_historicas_json": "[\"FGV cobrou detalhamento do local da prestação do serviço no ISSQN (exceções do Art. 3º da LC 116/03).\",\"Incidência de IPTU sobre imóveis de posse exercida com animus domini (promitente comprador).\",\"Momento do fato gerador do ITBI: apenas com a transferência efetiva da propriedade mediante registro imobiliário (Súmula 108 do STF / Tema 1124 STF).\",\"Diferença entre imunidade tributária (constitucional) e isenção (legal e municipal).\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"Redação técnica sobre fiscalização de serviços de tecnologia e arbitramento da base de cálculo do ISSQN.\",\"criterios_banca\":\"Demonstração de fundamentação legal e domínio do processo administrativo tributário de Niterói.\"}"
+  },
+  {
+    "career_id": "tce_rj",
+    "edition_year": 2022,
+    "banca": "CEBRASPE / CESPE",
+    "role": "Técnico de Controle Externo",
+    "corte_historico": "78.0 pontos líquidos (Cebraspe - 150 itens)",
+    "vagas_total": 20,
+    "edital_summary_json": "{\"total_questoes\":150,\"estrutura_prova\":\"P1: Conhecimentos Básicos (60 itens) + P2: Conhecimentos Específicos (90 itens) + Discursiva\",\"minimo_eliminatorio\":\"12 pontos em P1, 27 pontos em P2 e 45 pontos no conjunto\",\"pesos_principais\":[{\"materia\":\"Contabilidade Aplicada ao Setor Público (CASP)\",\"questoes\":42,\"peso\":\"28.0%\"},{\"materia\":\"Direito Administrativo\",\"questoes\":24,\"peso\":\"16.0%\"},{\"materia\":\"Língua Portuguesa\",\"questoes\":20,\"peso\":\"13.3%\"},{\"materia\":\"Controle Externo e Legislação do TCE-RJ\",\"questoes\":20,\"peso\":\"13.3%\"},{\"materia\":\"Direito Constitucional\",\"questoes\":16,\"peso\":\"10.7%\"},{\"materia\":\"Administração Pública\",\"questoes\":16,\"peso\":\"10.7%\"},{\"materia\":\"Auditoria Governamental\",\"questoes\":12,\"peso\":\"8.0%\"}]}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":2,\"motivos_anulacao\":\"Dupla interpretação em lançamentos orçamentários de CASP e redação ambígua em regimento interno\",\"disciplina_mais_dificil\":\"Contabilidade Aplicada ao Setor Público (Orçamento, MCASP e Restos a Pagar)\"}",
+    "pegadinhas_historicas_json": "[\"Cebraspe cobrou a diferença entre Restos a Pagar Processados (despesa liquidada) e Não Processados (despesa apenas empenhada).\",\"Classificação de receita por fontes: tributária, patrimonial, de serviços vs transferências correntes.\",\"Prazos regimentais do TCE-RJ para apresentação de defesa e recursos perante as Câmaras.\",\"Licitações (Lei 14.133/21): critérios de julgamento e distinção entre pregão e concorrência.\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"Questão discursiva sobre os estágios da despesa pública (empenho, liquidação e pagamento) e a contabilização de restos a pagar no encerramento do exercício financeiro.\",\"criterios_banca\":\"Correção conceitual de CASP, citação da Lei 4.320/64 e precisão terminológica.\"}"
+  },
+  {
+    "career_id": "tcu_aufc",
+    "edition_year": 2022,
+    "banca": "FGV (Fundação Getulio Vargas)",
+    "role": "Auditor Federal de Controle Externo (AUFC - Área Geral)",
+    "corte_historico": "72.0% (72 acertos de 100 questões) / 78.5% Final com Discursiva",
+    "vagas_total": 20,
+    "edital_summary_json": "{\"total_questoes\":100,\"estrutura_prova\":\"P1: Conhecimentos Gerais (50 questões) + P2: Conhecimentos Específicos (50 questões) + P3: Prova Discursiva (2 questões + 1 Peça Técnica)\",\"minimo_eliminatorio\":\"50% em P1, 50% em P2 e 60% na média global\",\"pesos_principais\":[{\"materia\":\"Língua Portuguesa\",\"questoes\":15,\"peso\":\"15.0%\"},{\"materia\":\"Controle Externo\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Auditoria Governamental\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Administração Financeira e Orçamentária (AFO)\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Análise de Dados e Tecnologia da Informação\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Direito Constitucional\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Direito Administrativo\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Administração Pública\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Contabilidade Aplicada ao Setor Público (CASP)\",\"questoes\":10,\"peso\":\"10.0%\"},{\"materia\":\"Língua Inglesa\",\"questoes\":5,\"peso\":\"5.0%\"}]}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":2,\"motivos_anulacao\":\"Enunciado dúbio em análise de regressão linear em TI e inconsistência na tipicidade de ato na Nova Lei de Licitações\",\"disciplina_mais_dificil\":\"Análise de Dados / TI & Auditoria Governamental\"}",
+    "pegadinhas_historicas_json": "[\"FGV cobrou legitimidade em consultas ao TCU: apenas autoridades legitimadas em tese, sem vinculação de caso concreto.\",\"Decisão do TCU imputando débito tem eficácia de título executivo extrajudicial (Art. 71 §3º CF/88), executado pela AGU.\",\"Matriz de achados: confusão entre Critério (o que a norma exige) e Causa (a razão da desconformidade).\",\"SQL: uso de HAVING para filtrar somas/médias agregadas em vez de WHERE.\",\"Regra de Ouro (Art. 167, III CF/88): veda operações de crédito acima de despesas de capital, salvo autorização legislativa por maioria absoluta.\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"Elaboração de Relatório de Fiscalização com Matriz de Achados sobre superfaturamento e sobrepreço em obras federais de infraestrutura portuária.\",\"criterios_banca\":\"Domínio das normas NBASP/NAT, fundamentação jurídica com base na Lei 8.443/92 e proposta clara de acórdão sancionatório.\"}"
   }
 ]

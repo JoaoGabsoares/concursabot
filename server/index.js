@@ -41,6 +41,9 @@ import { seedSESRJQuestions } from './seeds/ses_rj_questions_seed.js';
 import { seedBBQuestions } from './seeds/bb_questions_seed.js';
 import { seedTranspetroQuestions } from './seeds/transpetro_questions_seed.js';
 import { seedATRFBQuestions } from './seeds/atrfb_fgv_questions_seed.js';
+import { seedTCERJQuestions } from './seeds/tce_rj_questions_seed.js';
+import { seedISSNiteroiQuestions } from './seeds/iss_niteroi_questions_seed.js';
+import { seedTCUAUFCQuestions } from './seeds/tcu_aufc_questions_seed.js';
 
 // Run seeds
 seedExamBenchmarks();
@@ -50,6 +53,9 @@ seedSESRJQuestions(db);
 seedBBQuestions(db);
 seedTranspetroQuestions(db);
 seedATRFBQuestions(db);
+seedTCERJQuestions(db);
+seedISSNiteroiQuestions(db);
+seedTCUAUFCQuestions(db);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

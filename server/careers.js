@@ -398,6 +398,126 @@ export const CAREERS_CATALOG = {
       { subject: 'Gestão de Compras e Fornecedores', lessonNumber: 1, title: 'Ciclo de Compras e Gestão da Cadeia de Suprimentos (Supply Chain Management - SCM)', keyTopics: 'Requisição de compras, cotação, seleção e homologação de fornecedores, avaliação de desempenho (SLA, OTIF) e compras estratégicas' },
       { subject: 'Legislação de Contratações em Estatais (Lei 13.303/16)', lessonNumber: 1, title: 'Contratação de Bens e Serviços em Estatais — Procedimentos e Sanções', keyTopics: 'Regras da Lei 13.303/16 para compras e fornecimento, edital, impugnação, recursos administrativos e fiscalização de contratos' }
     ]
+  },
+
+  // ============================================================
+  // 9. TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO (TCE-RJ)
+  // Cargo: Técnico de Controle Externo (Nível Médio/Superior - 0 anos exp)
+  // ============================================================
+  'tce_rj': {
+    id: 'tce_rj',
+    name: '🏛️ TCE-RJ — Técnico de Controle Externo (Cebraspe)',
+    shortName: 'TCE-RJ (Técnico)',
+    role: 'Técnico de Controle Externo',
+    totalQuestions: 150,
+    bancas: [
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE (Banca Oficial Concurso 2022)', default: true },
+      { id: 'FGV', name: 'FGV (Fundação Getulio Vargas)' },
+      { id: 'FCC', name: 'FCC (Fundação Carlos Chagas)' }
+    ],
+    subjects: [
+      { subject: 'Contabilidade Aplicada ao Setor Público (CASP)', wave: 1, questions: 42, percentage: '28.0%', description: 'Orçamento Público, PCASP, Variações Patrimoniais, Demonstrações Contábeis, Restos a Pagar e MCASP' },
+      { subject: 'Direito Administrativo', wave: 1, questions: 24, percentage: '16.0%', description: 'Nova Lei de Licitações (Lei 14.133/21), Atos Administrativos, Improbidade, Processo Administrativo e Servidores' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 20, percentage: '13.3%', description: 'Compreensão de Textos, Coesão e Coerência, Sintaxe do Período, Concordância, Regência e Pontuação Cebraspe' },
+      { subject: 'Controle Externo e Legislação do TCE-RJ', wave: 1, questions: 20, percentage: '13.3%', description: 'Fiscalização na CF/88 (arts. 70 a 75), Lei Orgânica do TCE-RJ (LC 63/90) e Regimento Interno' },
+      { subject: 'Direito Constitucional', wave: 2, questions: 16, percentage: '10.7%', description: 'Princípios Fundamentais, Direitos e Garantias, Organização dos Poderes e Finanças Públicas' },
+      { subject: 'Administração Pública', wave: 2, questions: 16, percentage: '10.7%', description: 'Modelos de Gestão Pública, Gestão por Processos, Governança, Transparência e Atendimento ao Cidadão' },
+      { subject: 'Auditoria Governamental', wave: 2, questions: 12, percentage: '8.0%', description: 'Normas NBASP, Instrumentos de Fiscalização, Técnicas de Auditoria e Elaboração de Evidências' }
+    ],
+    official_lessons: [
+      { subject: 'Contabilidade Aplicada ao Setor Público (CASP)', lessonNumber: 1, title: 'Orçamento Público, Receita e Despesa Pública (Lei 4.320/64 e MCASP)', keyTopics: 'Classificação orçamentária por natureza e funcional, estágios da receita e da despesa (empenho, liquidação, pagamento)' },
+      { subject: 'Contabilidade Aplicada ao Setor Público (CASP)', lessonNumber: 2, title: 'Plano de Contas Aplicado ao Setor Público (PCASP) e Subsistemas', keyTopics: 'Estrutura das 8 classes, subsistemas orçamentário, patrimonial e de controle; lançamentos concomitantes e VPA/VPD' },
+      { subject: 'Contabilidade Aplicada ao Setor Público (CASP)', lessonNumber: 3, title: 'Restos a Pagar, Despesas de Exercícios Anteriores e Suprimento de Fundos', keyTopics: 'Restos a pagar processados vs não processados, cancelamento, DEA e adiantamentos' },
+      { subject: 'Direito Administrativo', lessonNumber: 1, title: 'Nova Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021)', keyTopics: 'Modalidades (pregão, concorrência, concurso, leilão, diálogo competitivo), critérios de julgamento, dispensa e inexigibilidade' },
+      { subject: 'Direito Administrativo', lessonNumber: 2, title: 'Atos Administrativos — Conceito, Requisitos, Atributos e Extinção', keyTopics: 'Competência, finalidade, forma, motivo, objeto; presunção de legitimidade, autoexecutoriedade, revogação e anulação' },
+      { subject: 'Controle Externo e Legislação do TCE-RJ', lessonNumber: 1, title: 'Sistema Constitucional de Controle Externo (Arts. 70 a 75 da CF/88)', keyTopics: 'Fiscalização contábil, financeira, orçamentária, operacional e patrimonial; competências privativas e opinativas dos Tribunais de Contas' },
+      { subject: 'Controle Externo e Legislação do TCE-RJ', lessonNumber: 2, title: 'Lei Orgânica do TCE-RJ (Lei Complementar Estadual nº 63/1990) e Regimento Interno', keyTopics: 'Jurisdição, competência, composição do Plenário e Câmaras, julgamento de contas vs parecer prévio, sanções, multas e recursos' },
+      { subject: 'Direito Constitucional', lessonNumber: 1, title: 'Direitos e Garantias Fundamentais (Art. 5º da CF/88) e Ações Constitucionais', keyTopics: 'Habeas corpus, mandado de segurança, mandado de injunção, habeas data e ação popular' },
+      { subject: 'Administração Pública', lessonNumber: 1, title: 'Evolução da Administração Pública no Brasil — Do Patrimonialismo à Nova Gestão Pública', keyTopics: 'Burocracia weberiana, modelo gerencial, governança, accountability e eficiência nos serviços públicos' },
+      { subject: 'Auditoria Governamental', lessonNumber: 1, title: 'Noções de Auditoria no Setor Público (NBASP / ISSAI)', keyTopics: 'Conceito, objetivos, tipos de auditoria (conformidade e operacional), achados de auditoria e evidências' }
+    ]
+  },
+
+  // ============================================================
+  // 10. SECRETARIA MUNICIPAL DE FAZENDA DE NITERÓI (ISS NITERÓI/RJ)
+  // Cargo: Fiscal de Tributos Municipais (Auditor Fiscal)
+  // ============================================================
+  'iss_niteroi': {
+    id: 'iss_niteroi',
+    name: '💰 ISS Niterói/RJ — Fiscal de Tributos Municipais (FGV)',
+    shortName: 'ISS Niterói',
+    role: 'Fiscal de Tributos Municipais (Auditor Fiscal)',
+    totalQuestions: 120,
+    bancas: [
+      { id: 'FGV', name: 'FGV (Fundação Getulio Vargas • Banca Histórica)', default: true },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' },
+      { id: 'CESGRANRIO', name: 'Fundação Cesgranrio' }
+    ],
+    subjects: [
+      { subject: 'Direito Tributário', wave: 1, questions: 22, percentage: '18.3%', description: 'CTN, Sistema Tributário Nacional, Imunidades, Lançamento, Crédito Tributário, Suspensão, Extinção e Exclusão' },
+      { subject: 'Legislação Tributária Municipal de Niterói', wave: 1, questions: 20, percentage: '16.7%', description: 'Código Tributário de Niterói (Lei 2.597/08), ISSQN, IPTU, ITBI, Taxas Municipais, Processo Administrativo Fiscal (PAF)' },
+      { subject: 'Contabilidade Geral e Avançada', wave: 1, questions: 18, percentage: '15.0%', description: 'Normas CPC, Balanço Patrimonial, DRE, Combinação de Negócios, Provisões, Ajuste a Valor Presente e Redução ao Valor Recuperável' },
+      { subject: 'Auditoria Fiscal', wave: 1, questions: 14, percentage: '11.7%', description: 'Planejamento de Auditoria Tributária, Testes em Documentos Fiscais Eletrônicos (NF-e, NFC-e, EFD), Cruzamento de Dados e Fraudes' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 14, percentage: '11.7%', description: 'Interpretação Textual Crítica FGV, Semântica, Sintaxe de Regência e Concordância, Pontuação e Articulação Lógica' },
+      { subject: 'Direito Constitucional', wave: 2, questions: 8, percentage: '6.7%', description: 'Direitos e Garantias, Competências dos Municípios (Art. 30), Finanças Públicas e Tributação Municipal' },
+      { subject: 'Direito Administrativo', wave: 2, questions: 8, percentage: '6.7%', description: 'Poderes Administrativos, Atos, Licitações (Lei 14.133/21), Improbidade Administrativa e Responsabilidade Civil do Estado' },
+      { subject: 'Direito Civil e Direito Empresarial', wave: 2, questions: 6, percentage: '5.0%', description: 'Fatos Jurídicos, Negócio Jurídico, Obrigações, Contratos, Sociedades Empresárias, EIRELI/SLU e Falência/Recuperação' },
+      { subject: 'Raciocínio Lógico-Matemático e Matemática Financeira', wave: 2, questions: 6, percentage: '5.0%', description: 'Juros Simples e Compostos, Descontos, Sistemas de Amortização (SAC/Price), Equivalência de Capitais e Lógica Proposicional' },
+      { subject: 'Tecnologia da Informação e Fluência em Dados', wave: 2, questions: 4, percentage: '3.3%', description: 'Bancos de Dados, Consultas SQL para Fiscais, SPED, EFD-Reinf, Segurança da Informação e Análise de Grandes Volumes' }
+    ],
+    official_lessons: [
+      { subject: 'Direito Tributário', lessonNumber: 1, title: 'Sistema Tributário Nacional na CF/88 — Princípios e Limitações ao Poder de Tributar', keyTopics: 'Legalidade, anterioridade de exercício e nonagesimal, irretroatividade, isonomia, capacidade contributiva e imunidades específicas' },
+      { subject: 'Direito Tributário', lessonNumber: 2, title: 'Obrigação, Lançamento e Crédito Tributário no Código Tributário Nacional (CTN)', keyTopics: 'Fato gerador, sujeito ativo/passivo, responsabilidade tributária (sucessores, terceiros), modalidades de lançamento e extinção do crédito' },
+      { subject: 'Legislação Tributária Municipal de Niterói', lessonNumber: 1, title: 'Imposto Sobre Serviços de Qualquer Natureza (ISSQN) em Niterói (LC 116/03 e Lei Municipal 2.597/08)', keyTopics: 'Fato gerador, não incidência, local da prestação do serviço (regra geral vs exceções), alíquotas (mínima 2% e máxima 5%), base de cálculo e retenção na fonte' },
+      { subject: 'Legislação Tributária Municipal de Niterói', lessonNumber: 2, title: 'Impostos Imobiliários Municipais: IPTU e ITBI no Município de Niterói', keyTopics: 'IPTU (fato gerador, zona urbana, progressividade, imunidades e isenções) e ITBI (fato gerador, momento da incidência com registro imobiliário, base de cálculo e não incidência)' },
+      { subject: 'Legislação Tributária Municipal de Niterói', lessonNumber: 3, title: 'Processo Administrativo Tributário (PAT/PAF) e Fiscalização Municipal', keyTopics: 'Procedimento de fiscalização, Auto de Infração, Notificação de Lançamento, impugnação, recursos administrativos em 1ª e 2ª instâncias e julgamento' },
+      { subject: 'Contabilidade Geral e Avançada', lessonNumber: 1, title: 'Pronunciamentos Técnicos CPC — Mensuração de Ativos, Estoques (CPC 16) e Imobilizado (CPC 27)', keyTopics: 'Critérios de avaliação de estoques (PEPS, Média Ponderada), custo de aquisição, depreciação, amortização e teste de recuperabilidade (CPC 01)' },
+      { subject: 'Contabilidade Geral e Avançada', lessonNumber: 2, title: 'Demonstração do Resultado do Exercício (DRE) e Apuração Contábil da Receita Líquida', keyTopics: 'Receita bruta, deduções, impostos sobre vendas, custo das mercadorias/serviços (CMV/CSV), lucro bruto e despesas operacionais' },
+      { subject: 'Auditoria Fiscal', lessonNumber: 1, title: 'Procedimentos e Técnicas de Auditoria Fiscal de Tributos Municipais', keyTopics: 'Circularização, conciliação bancária vs faturamento declarado, auditoria de notas fiscais eletrônicas de serviços (NFS-e) e indícios de omissão de receita' },
+      { subject: 'Direito Civil e Direito Empresarial', lessonNumber: 1, title: 'Direito de Empresa no Código Civil — Tipos Societários e Sociedade Limitada', keyTopics: 'Sociedade limitada (LTDA), responsabilidade dos sócios, desconsideração da personalidade jurídica (Art. 50 do CC) e dissolução societária' },
+      { subject: 'Raciocínio Lógico-Matemático e Matemática Financeira', lessonNumber: 1, title: 'Matemática Financeira — Juros Simples, Compostos, Taxas Equivalentes e Sistemas de Amortização', keyTopics: 'Fórmulas de montante, taxa nominal vs efetiva, Sistema Francês de Amortização (Tabela Price) e Sistema de Amortização Constante (SAC)' }
+    ]
+  },
+
+  // ============================================================
+  // 11. TRIBUNAL DE CONTAS DA UNIÃO (TCU)
+  // Cargo: Auditor Federal de Controle Externo (AUFC - Área Geral)
+  // ============================================================
+  'tcu_aufc': {
+    id: 'tcu_aufc',
+    name: '🏛️ TCU — Auditor Federal de Controle Externo (AUFC • Geral)',
+    shortName: 'TCU (Auditor Geral)',
+    role: 'Auditor Federal de Controle Externo',
+    totalQuestions: 100,
+    bancas: [
+      { id: 'FGV', name: 'FGV (Fundação Getulio Vargas • Banca Concurso 2022)', default: true },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE (Banca Histórica Consolidada)' },
+      { id: 'FCC', name: 'FCC (Fundação Carlos Chagas)' }
+    ],
+    subjects: [
+      { subject: 'Língua Portuguesa', wave: 1, questions: 15, percentage: '15.0%', description: 'Interpretação e Compreensão Textual Crítica FGV, Sintaxe, Regência, Concordância, Coesão e Redação Oficial' },
+      { subject: 'Controle Externo', wave: 1, questions: 10, percentage: '10.0%', description: 'CF/88 Arts. 70-75, Lei Orgânica do TCU (Lei 8.443/92), Regimento Interno do TCU e Jurisprudência dos TCs' },
+      { subject: 'Auditoria Governamental', wave: 1, questions: 10, percentage: '10.0%', description: 'Normas de Auditoria do TCU (NAT), Normas Internacionais (NBASP/ISSAI), Matriz de Achados, Risco de Auditoria e Amostragem' },
+      { subject: 'Administração Financeira e Orçamentária (AFO)', wave: 1, questions: 10, percentage: '10.0%', description: 'Orçamento Público, PPA/LDO/LOA, Lei 4.320/64, Lei de Responsabilidade Fiscal (LC 101/00) e Restos a Pagar' },
+      { subject: 'Análise de Dados e Tecnologia da Informação', wave: 1, questions: 10, percentage: '10.0%', description: 'Bancos de Dados Relacionais, Consultas SQL Avançadas, Análise Exploratória, Python/R para Auditoria e Visualização de Dados' },
+      { subject: 'Direito Constitucional', wave: 2, questions: 10, percentage: '10.0%', description: 'Princípios Fundamentais, Direitos e Garantias, Organização do Estado, Poder Legislativo e Fiscalização Contábil/Financeira' },
+      { subject: 'Direito Administrativo', wave: 2, questions: 10, percentage: '10.0%', description: 'Regime Jurídico-Administrativo, Nova Lei de Licitações (Lei 14.133/21), Contratos, Improbidade, Processo e Responsabilidade Civil' },
+      { subject: 'Administração Pública', wave: 2, questions: 10, percentage: '10.0%', description: 'Modelos de Gestão Pública (Patrimonialista, Burocrático, Gerencial), Governança Pública, Gestão de Riscos e Compliance no Setor Público' },
+      { subject: 'Contabilidade Aplicada ao Setor Público (CASP)', wave: 2, questions: 10, percentage: '10.0%', description: 'PCASP, Variações Patrimoniais, Demonstrações Contábeis Aplicadas ao Setor Público (DCASP), MCASP e Contabilidade Geral' },
+      { subject: 'Língua Inglesa', wave: 2, questions: 5, percentage: '5.0%', description: 'Compreensão e Interpretação de Textos em Língua Inglesa sobre Auditoria, Governança, Economia e Tecnologia' }
+    ],
+    official_lessons: [
+      { subject: 'Controle Externo', lessonNumber: 1, title: 'Sistema Constitucional de Controle Externo (Arts. 70 a 75 da CF/88)', keyTopics: 'Fiscalização contábil, financeira, orçamentária, operacional e patrimonial; competências privativas e opinativas do TCU' },
+      { subject: 'Controle Externo', lessonNumber: 2, title: 'Lei Orgânica do TCU (Lei Federal nº 8.443/1992) e Processo de Controle Externo', keyTopics: 'Jurisdição, competência, Tomada de Contas Especial (TCE), julgamento de contas (regulares, com ressalva, irregulares), imputação de débito e multa' },
+      { subject: 'Controle Externo', lessonNumber: 3, title: 'Consultas ao TCU e Regimento Interno do Tribunal de Contas da União', keyTopics: 'Legitimidade para formulação de consultas, efeitos vinculantes da resposta a consultas em tese, deliberações do Plenário e Câmaras' },
+      { subject: 'Auditoria Governamental', lessonNumber: 1, title: 'Normas de Auditoria do TCU (NAT) e Normas NBASP / ISSAI', keyTopics: 'Princípios fundamentais de auditoria no setor público, independência, ceticismo profissional, controle de qualidade e ética do auditor' },
+      { subject: 'Auditoria Governamental', lessonNumber: 2, title: 'Matriz de Planejamento, Matriz de Achados e Evidências de Auditoria', keyTopics: 'Questões de auditoria, critérios, achados de auditoria, evidências (suficiência, adequação, relevância), recomendações e determinações' },
+      { subject: 'Administração Financeira e Orçamentária (AFO)', lessonNumber: 1, title: 'Planejamento Orçamentário (PPA, LDO e LOA) e Princípios Constitucionais', keyTopics: 'Universalidade, unidade, anualidade, exclusividade, não vinculação de receitas, orçamento impositivo e ciclo orçamentário' },
+      { subject: 'Administração Financeira e Orçamentária (AFO)', lessonNumber: 2, title: 'Lei de Responsabilidade Fiscal (LC nº 101/2000) e Limites Fiscais', keyTopics: 'Renúncia de receita, despesa obrigatória de caráter continuado, limites com pessoal (União 50%), restos a pagar e dívida consolidada' },
+      { subject: 'Análise de Dados e Tecnologia da Informação', lessonNumber: 1, title: 'Consultas SQL e Técnicas de Análise de Dados para Auditoria Fiscalizatória', keyTopics: 'Select, Joins, Group By, Havings, cruzamento de bases de dados governamentais, detecção de outliers e pagamentos irregulares' },
+      { subject: 'Direito Administrativo', lessonNumber: 1, title: 'Nova Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021)', keyTopics: 'Modalidades (pregão, concorrência, concurso, leilão, diálogo competitivo), critérios de julgamento, contratação direta (dispensa e inexigibilidade) e matriz de riscos' },
+      { subject: 'Contabilidade Aplicada ao Setor Público (CASP)', lessonNumber: 1, title: 'Plano de Contas Aplicado ao Setor Público (PCASP) e Demonstrações Contábeis', keyTopics: 'Estrutura das 8 classes, subsistemas orçamentário, patrimonial e de controle, lançamentos concomitantes e Balanço Orçamentário e Financeiro' }
+    ]
   }
 };
 
@@ -405,3 +525,4 @@ export const CAREERS_CATALOG = {
 export function getCareerConfig(careerId = 'atrfb') {
   return CAREERS_CATALOG[careerId] || CAREERS_CATALOG['atrfb'];
 }
+

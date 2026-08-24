@@ -107,6 +107,64 @@ TECNOLOGIAS E TÓPICOS OBRIGATÓRIOS (CESGRANRIO TI):
 `;
   }
 
+  if (careerId === 'transpetro_adm') {
+    return `
+CONCURSO-ALVO DO ALUNO: ⛽ Transpetro — Técnico de Administração e Controle Jr.
+BANCA EXAMINADORA OFICIAL: Fundação Cesgranrio.
+FORMATO DA PROVA: 60 questões de múltipla escolha com 5 alternativas (A, B, C, D, E).
+DISTRIBUIÇÃO: Noções de Administração (20q), Legislação e Lei das Estatais 13.303/16 (15q), Língua Portuguesa (10q), Matemática (10q), Arquivologia e Ética (5q).
+LEGISLAÇÃO E NORMAS PRINCIPAIS: Lei das Estatais (Lei 13.303/2016 - dispensa/inexigibilidade), Funções da Administração (PODC), Gestão por Processos e Teoria das Três Idades de Arquivo.
+`;
+  }
+
+  if (careerId === 'transpetro_log') {
+    return `
+CONCURSO-ALVO DO ALUNO: 🚢 Transpetro — Técnico de Suprimento e Logística Jr.
+BANCA EXAMINADORA OFICIAL: Fundação Cesgranrio.
+FORMATO DA PROVA: 60 questões de múltipla escolha com 5 alternativas (A, B, C, D, E).
+DISTRIBUIÇÃO: Gestão de Estoques e Almoxarifado (20q), Modais de Transporte e Movimentação (15q), Língua Portuguesa (10q), Matemática (10q), Compras e Lei 13.303/16 (5q).
+LEGISLAÇÃO E TÓPICOS PRINCIPAIS: Curva ABC, Ponto de Pedido, Estoque de Segurança, Modais de Transporte de Óleo/Gás (dutoviário e cabotagem) e Lei 13.303/2016.
+`;
+  }
+
+  if (careerId === 'tce_rj') {
+    return `
+CONCURSO-ALVO DO ALUNO: 🏛️ Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ) — Técnico de Controle Externo.
+BANCA EXAMINADORA: CEBRASPE / CESPE (Padrão Oficial 2022).
+FORMATO DA PROVA: 150 itens no formato Certo/Errado + Prova Discursiva.
+DISTRIBUIÇÃO DE MATÉRIAS:
+- Contabilidade Aplicada ao Setor Público / CASP (42 itens — maior peso: Orçamento Público, PCASP, Variações Patrimoniais, MCASP, Restos a Pagar e LRF).
+- Direito Administrativo (24 itens — Nova Lei de Licitações 14.133/21, Atos, Improbidade e Servidores).
+- Língua Portuguesa (20 itens — padrão gramatical e interpretação Cebraspe).
+- Controle Externo e Legislação do TCE-RJ (20 itens — Arts. 70-75 CF/88, LC 63/90 e Regimento Interno).
+- Direito Constitucional (16 itens), Administração Pública (16 itens) e Auditoria Governamental (12 itens).
+`;
+  }
+
+  if (careerId === 'iss_niteroi') {
+    return `
+CONCURSO-ALVO DO ALUNO: 💰 Secretaria Municipal de Fazenda de Niterói (ISS Niterói/RJ) — Fiscal de Tributos Municipais.
+BANCA EXAMINADORA: FGV (Fundação Getulio Vargas).
+FORMATO DA PROVA: 120 questões de múltipla escolha com 5 alternativas (A, B, C, D, E).
+DISTRIBUIÇÃO DE MATÉRIAS:
+- Direito Tributário (22q — CTN, Sistema Tributário Nacional, Imunidades, Lançamento e Extinção).
+- Legislação Tributária Municipal de Niterói (20q — Código Tributário Lei 2.597/08, ISSQN LC 116/03, IPTU, ITBI e PAF).
+- Contabilidade Geral e Avançada (18q — Normas CPC, Balanço, DRE, Estoques e Imobilizado).
+- Auditoria Fiscal (14q), Língua Portuguesa FGV (14q), Direito Público (16q), Direito Civil/Empresarial (6q) e RLM/Financeira (6q).
+`;
+  }
+
+  if (careerId === 'tcu_aufc') {
+    return `
+CONCURSO-ALVO DO ALUNO: 🏛️ Tribunal de Contas da União (TCU) — Auditor Federal de Controle Externo (AUFC).
+BANCA EXAMINADORA: FGV (Fundação Getulio Vargas) / CEBRASPE.
+FORMATO DA PROVA: 100 questões objetivas (P1 Geral + P2 Específico) + Peça Técnica Discursiva.
+DISTRIBUIÇÃO DE MATÉRIAS:
+- P1 (Conhecimentos Gerais): Língua Portuguesa (15q), Direito Administrativo (10q), Direito Constitucional (10q), Administração Pública (10q), Língua Inglesa (5q).
+- P2 (Conhecimentos Específicos): Controle Externo (10q — CF/88, Lei 8.443/92 e Regimento TCU), Auditoria Governamental (10q — NAT, NBASP/ISSAI, Matriz de Achados), AFO/LRF (10q), Análise de Dados e TI (10q — SQL, Python/R, Estatística e Mineração) e CASP (10q).
+`;
+  }
+
   // Padrão: ATRFB / Receita Federal do Brasil
   return `
 CONCURSO-ALVO DO ALUNO: 🏛️ Analista-Tributário da Receita Federal do Brasil (ATRFB).

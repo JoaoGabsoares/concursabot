@@ -56,6 +56,27 @@ export const CAREERS_LIST: Career[] = [
     banca: 'Fundação Cesgranrio',
     description: 'Gestão de Estoques (Curva ABC, Ponto de Pedido), Armazenagem, Modais de Transporte, Compras e Lei 13.303/16.',
     tags: ['Nível Médio', 'Petrobras / Transpetro', 'Logística de Entrada']
+  },
+  {
+    id: 'tce_rj',
+    name: 'TCE-RJ — Técnico de Controle Externo',
+    banca: 'CEBRASPE (CESPE)',
+    description: 'Contabilidade Pública (CASP), Direito Administrativo, Língua Portuguesa, Controle Externo, Constitucional e Administração.',
+    tags: ['Sem Exigência de Experiência', 'Nível Médio/Superior', 'Tribunal de Contas']
+  },
+  {
+    id: 'iss_niteroi',
+    name: 'ISS Niterói/RJ — Fiscal de Tributos Municipais',
+    banca: 'Fundação Getulio Vargas (FGV)',
+    description: 'Direito Tributário, Legislação Tributária de Niterói, Contabilidade Geral/Avançada, Auditoria Fiscal e Português.',
+    tags: ['Nível Superior', 'Fisco Municipal', 'Alta Remuneração']
+  },
+  {
+    id: 'tcu_aufc',
+    name: 'TCU — Auditor Federal de Controle Externo (AUFC)',
+    banca: 'FGV / Cebraspe',
+    description: 'Controle Externo, Auditoria Governamental, Análise de Dados, AFO, CASP, Direito Público e Português.',
+    tags: ['Nível Superior Qualquer Área', 'Controle Externo Federal', 'Top Tier Salarial']
   }
 ];
 

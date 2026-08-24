@@ -1107,6 +1107,46 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { subject: "Noções de Informática", topic: "Windows, LibreOffice, Redes & Prontuário Eletrônico", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" },
       { subject: "Legislação Estadual RJ (Dec.-Lei 220/75)", topic: "Regime Jurídico dos Servidores Civis do RJ e Processo Disciplinar", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" }
     ]
+  },
+  "tce_rj": {
+    cuts: [
+      { year: 2022, score: "78.0 pontos líquidos (Cebraspe - Técnico de Controle Externo)" },
+      { year: 2012, score: "74.0 pontos (Fepese - Histórico)" }
+    ],
+    topTopics: [
+      { subject: "Contabilidade Aplicada ao Setor Público (CASP)", topic: "Orçamento Público, PCASP, Variações Patrimoniais, Restos a Pagar & MCASP", status: "homologado", label: "MAIOR PESO (28.0%)", weight: "28.0%" },
+      { subject: "Direito Administrativo", topic: "Nova Lei de Licitações (Lei 14.133/21), Contratos, Improbidade & Atos", status: "homologado", label: "ALTA INCIDÊNCIA (16.0%)", weight: "16.0%" },
+      { subject: "Língua Portuguesa", topic: "Interpretação e Gramática Aplicada Estilo Cebraspe", status: "homologado", label: "ALTA INCIDÊNCIA (13.3%)", weight: "13.3%" },
+      { subject: "Controle Externo e Legislação do TCE-RJ", topic: "CF/88 Arts. 70-75, LC 63/90 (Lei Orgânica), Regimento & Jurisprudência STF", status: "homologado", label: "ALTA INCIDÊNCIA (13.3%)", weight: "13.3%" },
+      { subject: "Direito Constitucional", topic: "Direitos Fundamentais, Organização do Estado e Poder Legislativo", status: "homologado", label: "ALTA INCIDÊNCIA (10.7%)", weight: "10.7%" },
+      { subject: "Administração Pública", topic: "Modelos de Gestão Pública, Governança, Transparência & Atendimento", status: "homologado", label: "ALTA INCIDÊNCIA (10.7%)", weight: "10.7%" }
+    ]
+  },
+  "iss_niteroi": {
+    cuts: [
+      { year: 2015, score: "78.0 pontos (FGV - Fiscal de Tributos Municipais)" },
+      { year: 2008, score: "74.0 pontos (FESP - Histórico)" }
+    ],
+    topTopics: [
+      { subject: "Direito Tributário", topic: "CTN, Sistema Tributário Nacional, Imunidades, Lançamento & Suspensão", status: "homologado", label: "MAIOR PESO (18.3%)", weight: "18.3%" },
+      { subject: "Legislação Tributária Municipal de Niterói", topic: "Código Tributário (Lei 2.597/08), ISSQN (LC 116), IPTU, ITBI & PAF", status: "homologado", label: "ALTA INCIDÊNCIA (16.7%)", weight: "16.7%" },
+      { subject: "Contabilidade Geral e Avançada", topic: "Normas CPC, Mensuração de Ativos, Balanço Patrimonial & DRE", status: "homologado", label: "ALTA INCIDÊNCIA (15.0%)", weight: "15.0%" },
+      { subject: "Auditoria Fiscal", topic: "Planejamento de Auditoria, Cruzamento de NFS-e & Detecção de Fraudes", status: "homologado", label: "ALTA INCIDÊNCIA (11.7%)", weight: "11.7%" },
+      { subject: "Língua Portuguesa", topic: "Interpretação Textual Crítica FGV, Semântica & Sintaxe de Regência", status: "homologado", label: "ALTA INCIDÊNCIA (11.7%)", weight: "11.7%" }
+    ]
+  },
+  "tcu_aufc": {
+    cuts: [
+      { year: 2022, score: "72.0 pontos (FGV - Auditor Federal de Controle Externo)" },
+      { year: 2015, score: "68.5 pontos (Cebraspe - Histórico)" }
+    ],
+    topTopics: [
+      { subject: "Língua Portuguesa", topic: "Interpretação Crítica FGV, Semântica, Sintaxe e Reescrita", status: "homologado", label: "MAIOR PESO (15.0%)", weight: "15.0%" },
+      { subject: "Controle Externo", topic: "CF/88 Arts. 70-75, Lei 8.443/92 (Lei Orgânica), Regimento & Consultas", status: "homologado", label: "ALTA INCIDÊNCIA (10.0%)", weight: "10.0%" },
+      { subject: "Auditoria Governamental", topic: "Normas de Auditoria do TCU (NAT), NBASP/ISSAI, Matriz de Achados & Evidências", status: "homologado", label: "ALTA INCIDÊNCIA (10.0%)", weight: "10.0%" },
+      { subject: "Administração Financeira e Orçamentária (AFO)", topic: "PPA/LDO/LOA, Lei 4.320/64, LRF (LC 101/00) & Regra de Ouro", status: "homologado", label: "ALTA INCIDÊNCIA (10.0%)", weight: "10.0%" },
+      { subject: "Análise de Dados e Tecnologia da Informação", topic: "Consultas SQL para Auditoria, Análise Exploratória, Python/R & Modelagem", status: "homologado", label: "ALTA INCIDÊNCIA (10.0%)", weight: "10.0%" }
+    ]
   }
 };
 
@@ -1119,7 +1159,10 @@ export const CAREER_ESSAY_THEMES: Record<string, string> = {
   "transpetro_adm": "A governança corporativa, o compliance e a sustentabilidade ambiental na gestão de empresas estatais de grande porte.",
   "transpetro_log": "A eficiência logística, a transição energética e a segurança no transporte multimodal de combustíveis no Brasil.",
   "marinha_rm2": "A importância estratégica e econômica da 'Amazônia Azul' para a soberania e segurança marítima do Brasil.",
-  "ses_rj": "Os desafios da regionalização, do financiamento tripartite e da equidade no acesso à saúde pública no SUS."
+  "ses_rj": "Os desafios da regionalização, do financiamento tripartite e da equidade no acesso à saúde pública no SUS.",
+  "tce_rj": "O papel dos Tribunais de Contas na fiscalização da Nova Lei de Licitações (Lei 14.133/21) e na governança pública municipal.",
+  "iss_niteroi": "A inteligência fiscal, o cruzamento de documentos eletrônicos e o combate à sonegação do ISSQN nos serviços digitais.",
+  "tcu_aufc": "Elaboração de Relatório de Fiscalização com Matriz de Achados sobre superfaturamento e sobrepreço em obras públicas federais."
 };
 
 // 4. Catálogo de Módulos Reais Paginados (5 Páginas por Módulo)
