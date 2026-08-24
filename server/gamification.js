@@ -141,65 +141,22 @@ function daysDiffBetween(dateStrA, dateStrB) {
 
 export function calculateUserStreak(userId, careerId = null) {
   try {
-    let dates = [];
-    const subjects = careerId && CAREER_SUBJECTS[careerId] ? CAREER_SUBJECTS[careerId] : null;
-
-    if (careerId && subjects) {
-      const placeholders = subjects.map(() => '?').join(',');
-      dates = db.prepare(`
-        SELECT DISTINCT substr(study_time, 1, 10) as study_date
-        FROM (
-          SELECT ss.started_at as study_time 
-          FROM study_sessions ss
-          LEFT JOIN study_materials sm ON ss.material_id = sm.id
-          WHERE ss.user_id = ? AND ss.status = 'completed' AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
-          UNION
-          SELECT ss.completed_at as study_time 
-          FROM study_sessions ss
-          LEFT JOIN study_materials sm ON ss.material_id = sm.id
-          WHERE ss.user_id = ? AND ss.status = 'completed' AND (ss.career_id = ? OR sm.career_id = ? OR sm.subject IN (${placeholders}) OR ss.career_id IS NULL)
-          UNION
-          SELECT qa.answered_at as study_time 
-          FROM question_answers qa
-          JOIN questions q ON qa.question_id = q.id
-          WHERE qa.user_id = ? AND (qa.career_id = ? OR q.subject IN (${placeholders}))
-          UNION
-          SELECT s.completed_at as study_time 
-          FROM simulados s
-          WHERE s.user_id = ? AND s.career_id = ? AND s.status = 'completed'
-          UNION
-          SELECT al.created_at as study_time 
-          FROM activity_log al
-          WHERE al.user_id = ? AND (al.career_id = ? OR al.career_id IS NULL)
-            AND al.type IN ('study', 'question', 'flashcard', 'flashcard_review', 'simulado', 'material', 'study_session')
-        )
-        WHERE study_date IS NOT NULL AND length(study_date) = 10
-        ORDER BY study_date DESC
-      `).all(
-        userId, careerId, careerId, ...subjects,
-        userId, careerId, careerId, ...subjects,
-        userId, careerId, ...subjects,
-        userId, careerId,
-        userId, careerId
-      );
-    } else {
-      dates = db.prepare(`
-        SELECT DISTINCT substr(study_time, 1, 10) as study_date
-        FROM (
-          SELECT started_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
-          UNION
-          SELECT completed_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
-          UNION
-          SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
-          UNION
-          SELECT completed_at as study_time FROM simulados WHERE user_id = ? AND status = 'completed'
-          UNION
-          SELECT created_at as study_time FROM activity_log WHERE user_id = ? AND type IN ('study', 'question', 'flashcard', 'flashcard_review', 'simulado', 'material', 'study_session')
-        )
-        WHERE study_date IS NOT NULL AND length(study_date) = 10
-        ORDER BY study_date DESC
-      `).all(userId, userId, userId, userId, userId);
-    }
+    const dates = db.prepare(`
+      SELECT DISTINCT substr(study_time, 1, 10) as study_date
+      FROM (
+        SELECT started_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
+        UNION
+        SELECT completed_at as study_time FROM study_sessions WHERE user_id = ? AND status = 'completed'
+        UNION
+        SELECT answered_at as study_time FROM question_answers WHERE user_id = ?
+        UNION
+        SELECT completed_at as study_time FROM simulados WHERE user_id = ? AND status = 'completed'
+        UNION
+        SELECT created_at as study_time FROM activity_log WHERE user_id = ? AND type IN ('study', 'question', 'flashcard', 'flashcard_review', 'simulado', 'material', 'study_session')
+      )
+      WHERE study_date IS NOT NULL AND length(study_date) = 10
+      ORDER BY study_date DESC
+    `).all(userId, userId, userId, userId, userId);
 
     if (dates.length === 0) return 0;
 
