@@ -286,6 +286,23 @@ function initDB() {
             FOREIGN KEY (session_id) REFERENCES study_sessions(id) ON DELETE CASCADE
         );
 
+        -- Study Room: Material Highlights & Annotations (5-color sticky highlighter engine)
+        CREATE TABLE IF NOT EXISTS material_highlights (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            material_id INTEGER NOT NULL,
+            user_id TEXT DEFAULT 'user_joao',
+            page_number INTEGER NOT NULL,
+            text TEXT NOT NULL,
+            color TEXT NOT NULL DEFAULT 'yellow', -- 'yellow' | 'green' | 'purple' | 'red' | 'blue'
+            note TEXT,
+            position_json TEXT, -- { x, y, width, height, rects: [...] }
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+            FOREIGN KEY (material_id) REFERENCES study_materials(id) ON DELETE CASCADE
+        );
+
+        CREATE INDEX IF NOT EXISTS idx_material_highlights_lookup 
+        ON material_highlights(material_id, user_id, page_number);
+
         -- Missed Sessions / Backlog / Reposição de Matérias
         CREATE TABLE IF NOT EXISTS missed_sessions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,

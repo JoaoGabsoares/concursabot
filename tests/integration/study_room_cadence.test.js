@@ -407,9 +407,85 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.strictEqual(digitalMat.pdfUrl, null, 'Material digital IA deve ter pdfUrl como null');
   console.log('  ✅ 17. Validação de Leitor Digital (pdfUrl = null, sem 403 no /uploads): PASSOU');
 
+  // 18. Criar Grifo Persistente em Apostila com Nota e +5 XP
+  const hlRes = await fetch(`${baseUrl}/api/study-room/materials/${genData.materialId}/highlights`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'tce_rj'
+    },
+    body: JSON.stringify({
+      page_number: 1,
+      text: 'A Tomada de Contas Especial possui natureza de processo administrativo com contraditório e ampla defesa.',
+      color: 'yellow',
+      note: 'Atenção: contraditório diferido nas fases preliminares'
+    })
+  });
+  const hlData = await hlRes.json();
+  assert.strictEqual(hlRes.status, 201);
+  assert.strictEqual(hlData.success, true);
+  assert.ok(hlData.highlight.id, 'Deve criar highlight com ID');
+  assert.strictEqual(hlData.highlight.color, 'yellow');
+  console.log('  ✅ 18. Criação de Grifo Persistente com Nota (+5 XP): PASSOU');
+
+  // 19. Listagem de Grifos do Material
+  const getHlRes = await fetch(`${baseUrl}/api/study-room/materials/${genData.materialId}/highlights`, {
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'tce_rj'
+    }
+  });
+  const getHlData = await getHlRes.json();
+  assert.strictEqual(getHlRes.status, 200);
+  assert.strictEqual(getHlData.success, true);
+  assert.strictEqual(getHlData.highlights.length, 1);
+  assert.strictEqual(getHlData.highlights[0].text, 'A Tomada de Contas Especial possui natureza de processo administrativo com contraditório e ampla defesa.');
+  console.log('  ✅ 19. Listagem de Grifos e Notas da Apostila: PASSOU');
+
+  // 20. Explicação de Trecho Selecionado via Tutor IA (Gemini 3.6 Flash)
+  const explainRes = await fetch(`${baseUrl}/api/study-room/materials/${genData.materialId}/explain-excerpt`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'tce_rj'
+    },
+    body: JSON.stringify({
+      text: 'A Tomada de Contas Especial possui natureza de processo administrativo com contraditório e ampla defesa.',
+      page_number: 1,
+      subject: 'Controle Externo',
+      topic: 'Tomada de Contas Especial'
+    })
+  });
+  const explainData = await explainRes.json();
+  assert.strictEqual(explainRes.status, 200);
+  assert.strictEqual(explainData.success, true);
+  assert.ok(explainData.explanation.summary, 'Deve retornar resumo didático');
+  assert.ok(explainData.explanation.legalBasis, 'Deve retornar base jurídica');
+  console.log('  ✅ 20. Explicação Didática de Trecho Selecionado (Tutor IA): PASSOU');
+
+  // 21. Remoção de Grifo
+  const delHlRes = await fetch(`${baseUrl}/api/study-room/highlights/${hlData.highlight.id}`, {
+    method: 'DELETE',
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'tce_rj'
+    }
+  });
+  const delHlData = await delHlRes.json();
+  assert.strictEqual(delHlRes.status, 200);
+  assert.strictEqual(delHlData.success, true);
+  console.log('  ✅ 21. Remoção de Grifo da Apostila: PASSOU');
+
   // Teardown automático: remove dados temporários de teste para isolamento 100%
   try {
     const { default: db } = await import('../../server/database.js');
+    db.prepare('DELETE FROM material_highlights WHERE user_id = ?').run(prof.id);
     db.prepare('DELETE FROM study_sessions WHERE user_id = ?').run(prof.id);
     db.prepare('DELETE FROM question_answers WHERE user_id = ?').run(prof.id);
     db.prepare('DELETE FROM simulados WHERE user_id = ?').run(prof.id);

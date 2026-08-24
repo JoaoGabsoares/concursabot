@@ -19,7 +19,8 @@ import {
   AuthResponse,
   StudyCycle,
   StudyCycleBlock,
-  CycleModelOption
+  CycleModelOption,
+  MaterialHighlight
 } from '../types';
 
 export class ApiClient {
@@ -221,6 +222,10 @@ export class ApiClient {
     return this.getMaterials(careerId);
   }
 
+  public getMaterialById(id: string | number): Promise<{ material: any; sessions: any[] }> {
+    return this.request<{ material: any; sessions: any[] }>(`/study-room/materials/${id}`);
+  }
+
   public uploadStudyMaterial(formData: FormData, userId?: string, careerId?: string): Promise<any> {
     const params = new URLSearchParams();
     if (userId) params.append('userId', userId);
@@ -390,6 +395,64 @@ export class ApiClient {
     return this.request<any>('/study-room/generate-native-lesson', {
       method: 'POST',
       body: JSON.stringify({ subject, lesson_number: lessonNumber, career_id: careerId })
+    });
+  }
+
+  // --- MOTOR DE GRIFOS & ANOTAÇÕES PERSISTENTES (PDF STUDIO) ---
+  public getMaterialHighlights(materialId: string | number, page?: number): Promise<{ success: boolean; highlights: MaterialHighlight[] }> {
+    const qs = page ? `?page=${page}` : '';
+    return this.request<{ success: boolean; highlights: MaterialHighlight[] }>(`/study-room/materials/${materialId}/highlights${qs}`);
+  }
+
+  public createMaterialHighlight(materialId: string | number, data: {
+    page_number: number;
+    text: string;
+    color?: 'yellow' | 'green' | 'purple' | 'red' | 'blue';
+    note?: string;
+    position?: any;
+  }): Promise<{ success: boolean; highlight: MaterialHighlight }> {
+    return this.request<{ success: boolean; highlight: MaterialHighlight }>(`/study-room/materials/${materialId}/highlights`, {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public updateMaterialHighlight(highlightId: number, data: {
+    color?: string;
+    note?: string;
+  }): Promise<{ success: boolean; highlight: MaterialHighlight }> {
+    return this.request<{ success: boolean; highlight: MaterialHighlight }>(`/study-room/highlights/${highlightId}`, {
+      method: 'PUT',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public deleteMaterialHighlight(highlightId: number): Promise<{ success: boolean; message: string }> {
+    return this.request<{ success: boolean; message: string }>(`/study-room/highlights/${highlightId}`, {
+      method: 'DELETE'
+    });
+  }
+
+  public explainPdfExcerpt(materialId: string | number, data: {
+    text: string;
+    page_number?: number;
+    subject?: string;
+    topic?: string;
+  }): Promise<{
+    success: boolean;
+    explanation: {
+      summary: string;
+      legalBasis: string;
+      practicalExample?: string;
+      examTrap?: string;
+      mnemonics?: string;
+    };
+    excerpt: string;
+    page_number: number;
+  }> {
+    return this.request<any>(`/study-room/materials/${materialId}/explain-excerpt`, {
+      method: 'POST',
+      body: JSON.stringify(data)
     });
   }
 
@@ -577,6 +640,13 @@ export class ApiClient {
   public getFlashcards(careerId?: string): Promise<Flashcard[]> {
     const qs = careerId ? `?careerId=${careerId}` : '';
     return this.request<Flashcard[]>(`/flashcards${qs}`);
+  }
+
+  public createFlashcard(data: { subject: string; topic: string; front: string; back: string; deckId?: number }): Promise<any> {
+    return this.request<any>('/flashcards', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
   }
 
   public getEditalRaioX(careerId?: string): Promise<any> {

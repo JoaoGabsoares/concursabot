@@ -21,6 +21,7 @@ const FlashcardsPage = React.lazy(() => import('./features/flashcards/Flashcards
 const GuiaMetodoPage = React.lazy(() => import('./features/guide/GuiaMetodoPage').then(m => ({ default: m.GuiaMetodoPage })));
 const AboutPage = React.lazy(() => import('./features/about/AboutPage').then(m => ({ default: m.AboutPage })));
 const SettingsPage = React.lazy(() => import('./features/settings/SettingsPage').then(m => ({ default: m.SettingsPage })));
+const StandalonePdfReaderPage = React.lazy(() => import('./features/study-room/StandalonePdfReaderPage').then(m => ({ default: m.StandalonePdfReaderPage })));
 import { ToastProvider } from './components/Toast';
 import { ErrorBoundary } from './components/ErrorBoundary';
 
@@ -34,9 +35,30 @@ export const App: React.FC = () => {
   });
 
   const [activeTab, setActiveTab] = useState<ActiveTab>('dashboard');
+  const [standaloneReaderId, setStandaloneReaderId] = useState<number | null>(null);
   const [pendingErrorsCount, setPendingErrorsCount] = useState<number>(0);
   const [user, setUser] = useState<UserProfile | null>(null);
   const [loadingUser, setLoadingUser] = useState<boolean>(true);
+
+  // Hash listener para rota standalone #/reader/:id
+  useEffect(() => {
+    const handleHash = () => {
+      const hash = window.location.hash;
+      if (hash.startsWith('#/reader/')) {
+        const idStr = hash.replace('#/reader/', '');
+        const id = parseInt(idStr, 10);
+        if (!isNaN(id)) {
+          setStandaloneReaderId(id);
+          return;
+        }
+      }
+      setStandaloneReaderId(null);
+    };
+
+    handleHash();
+    window.addEventListener('hashchange', handleHash);
+    return () => window.removeEventListener('hashchange', handleHash);
+  }, []);
 
   // Apply theme class to <html>
   useEffect(() => {
@@ -189,6 +211,28 @@ export const App: React.FC = () => {
       <div className="h-full h-[100dvh] w-full flex items-center justify-center bg-[var(--bg-base)] text-xs text-[var(--text-muted)] font-mono">
         Carregando ambiente Gabarito.AI...
       </div>
+    );
+  }
+
+  if (standaloneReaderId) {
+    return (
+      <ToastProvider>
+        <ErrorBoundary>
+          <React.Suspense fallback={
+            <div className="h-full h-[100dvh] w-full flex items-center justify-center bg-[var(--bg-base)] text-xs text-[var(--text-muted)] font-mono">
+              Carregando leitor de PDF...
+            </div>
+          }>
+            <StandalonePdfReaderPage
+              materialId={standaloneReaderId}
+              onBack={() => {
+                setStandaloneReaderId(null);
+                window.location.hash = '';
+              }}
+            />
+          </React.Suspense>
+        </ErrorBoundary>
+      </ToastProvider>
     );
   }
 

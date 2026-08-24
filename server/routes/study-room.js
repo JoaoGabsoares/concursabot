@@ -1499,6 +1499,202 @@ router.get('/materials/:id/pace', (req, res) => {
   }
 });
 
+// GET /materials/:id/highlights — Lista grifos e anotações do material
+router.get('/materials/:id/highlights', (req, res) => {
+  try {
+    const { id } = req.params;
+    const userId = getAuthenticatedUserId(req);
+    const page = req.query.page ? parseInt(req.query.page, 10) : null;
+
+    let sql = `SELECT * FROM material_highlights WHERE material_id = ? AND user_id = ?`;
+    const params = [id, userId];
+
+    if (page) {
+      sql += ` AND page_number = ?`;
+      params.push(page);
+    }
+
+    sql += ` ORDER BY page_number ASC, id ASC`;
+    const highlights = db.prepare(sql).all(...params);
+
+    const formatted = highlights.map(h => ({
+      ...h,
+      position: h.position_json ? JSON.parse(h.position_json) : null
+    }));
+
+    res.json({ success: true, highlights: formatted });
+  } catch (error) {
+    logger.error('STUDY_ROOM', 'Erro ao buscar grifos:', error);
+    res.status(500).json({ error: 'Falha ao buscar grifos: ' + error.message });
+  }
+});
+
+// POST /materials/:id/highlights — Cria novo grifo com persistência e recompensa de XP
+router.post('/materials/:id/highlights', (req, res) => {
+  try {
+    const { id } = req.params;
+    const userId = getAuthenticatedUserId(req);
+    const { page_number = 1, text, color = 'yellow', note = null, position = null } = req.body;
+
+    if (!text || text.trim().length === 0) {
+      return res.status(400).json({ error: 'Texto do grifo é obrigatório.' });
+    }
+
+    const validColors = ['yellow', 'green', 'purple', 'red', 'blue'];
+    const selectedColor = validColors.includes(color) ? color : 'yellow';
+    const posJson = position ? JSON.stringify(position) : null;
+
+    const stmt = db.prepare(`
+      INSERT INTO material_highlights (material_id, user_id, page_number, text, color, note, position_json)
+      VALUES (?, ?, ?, ?, ?, ?, ?)
+    `);
+    const info = stmt.run(id, userId, page_number, text.trim(), selectedColor, note ? note.trim() : null, posJson);
+
+    // XP por estudo ativo com grifos
+    try {
+      db.prepare(`UPDATE user_profiles SET xp = xp + 5 WHERE id = ?`).run(userId);
+      db.prepare(`INSERT INTO user_xp_log (user_id, amount, reason) VALUES (?, 5, ?)`).run(userId, `Grifo em Apostila (pág. ${page_number})`);
+    } catch {}
+
+    const newHighlight = db.prepare(`SELECT * FROM material_highlights WHERE id = ?`).get(info.lastInsertRowid);
+
+    res.status(201).json({
+      success: true,
+      highlight: {
+        ...newHighlight,
+        position: newHighlight.position_json ? JSON.parse(newHighlight.position_json) : null
+      }
+    });
+  } catch (error) {
+    logger.error('STUDY_ROOM', 'Erro ao salvar grifo:', error);
+    res.status(500).json({ error: 'Falha ao salvar grifo: ' + error.message });
+  }
+});
+
+// PUT /highlights/:id — Atualiza cor ou nota de um grifo
+router.put('/highlights/:id', (req, res) => {
+  try {
+    const { id } = req.params;
+    const userId = getAuthenticatedUserId(req);
+    const { color, note } = req.body;
+
+    const existing = db.prepare(`SELECT * FROM material_highlights WHERE id = ? AND user_id = ?`).get(id, userId);
+    if (!existing) {
+      return res.status(404).json({ error: 'Grifo não encontrado.' });
+    }
+
+    const validColors = ['yellow', 'green', 'purple', 'red', 'blue'];
+    const newColor = color && validColors.includes(color) ? color : existing.color;
+    const newNote = note !== undefined ? (note ? note.trim() : null) : existing.note;
+
+    db.prepare(`UPDATE material_highlights SET color = ?, note = ? WHERE id = ? AND user_id = ?`).run(newColor, newNote, id, userId);
+
+    const updated = db.prepare(`SELECT * FROM material_highlights WHERE id = ?`).get(id);
+
+    res.json({
+      success: true,
+      highlight: {
+        ...updated,
+        position: updated.position_json ? JSON.parse(updated.position_json) : null
+      }
+    });
+  } catch (error) {
+    logger.error('STUDY_ROOM', 'Erro ao atualizar grifo:', error);
+    res.status(500).json({ error: 'Falha ao atualizar grifo: ' + error.message });
+  }
+});
+
+// DELETE /highlights/:id — Remove um grifo
+router.delete('/highlights/:id', (req, res) => {
+  try {
+    const { id } = req.params;
+    const userId = getAuthenticatedUserId(req);
+
+    const existing = db.prepare(`SELECT id FROM material_highlights WHERE id = ? AND user_id = ?`).get(id, userId);
+    if (!existing) {
+      return res.status(404).json({ error: 'Grifo não encontrado.' });
+    }
+
+    db.prepare(`DELETE FROM material_highlights WHERE id = ? AND user_id = ?`).run(id, userId);
+
+    res.json({ success: true, message: 'Grifo removido com sucesso.' });
+  } catch (error) {
+    logger.error('STUDY_ROOM', 'Erro ao remover grifo:', error);
+    res.status(500).json({ error: 'Falha ao remover grifo: ' + error.message });
+  }
+});
+
+// POST /materials/:id/explain-excerpt — Explicação instantânea de trecho selecionado via Gemini 3.6 Flash
+router.post('/materials/:id/explain-excerpt', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const userId = getAuthenticatedUserId(req);
+    const { text, page_number = 1, subject = 'Direito', topic = '' } = req.body;
+
+    if (!text || text.trim().length === 0) {
+      return res.status(400).json({ error: 'Trecho para explicação é obrigatório.' });
+    }
+
+    const material = db.prepare(`SELECT title, subject FROM study_materials WHERE id = ?`).get(id);
+    const effectiveSubject = material?.subject || subject;
+    const effectiveTitle = material?.title || topic || 'Apostila';
+
+    const prompt = `
+Você é o Tutor de Elite do Gabarito.AI para Concursos Públicos.
+O estudante está estudando a matéria "${effectiveSubject}" (${effectiveTitle}) e selecionou o seguinte trecho na página ${page_number}:
+
+"""
+${text.trim().substring(0, 3000)}
+"""
+
+Analise e explique este trecho com o máximo rigor doutrinário e didático para a prova.
+Retorne um JSON com a seguinte estrutura:
+{
+  "summary": "Explicação clara, concisa e direta do conceito em 2 a 3 parágrafos.",
+  "legalBasis": "Artigo da Lei, Súmula do STF/STJ ou dispositivo constitucional aplicável.",
+  "practicalExample": "Um caso prático ou exemplo ilustrativo de como a regra se aplica.",
+  "examTrap": "Qual a pegadinha mais comum que bancas como FGV/Cebraspe costumam cobrar sobre este tema.",
+  "mnemonics": "Mnemônico ou palavra-chave para fixar na memória."
+}
+`;
+
+    const EXPLAIN_SCHEMA = {
+      type: 'object',
+      properties: {
+        summary: { type: 'string' },
+        legalBasis: { type: 'string' },
+        practicalExample: { type: 'string' },
+        examTrap: { type: 'string' },
+        mnemonics: { type: 'string' }
+      },
+      required: ['summary', 'legalBasis', 'examTrap']
+    };
+
+    let explanation = null;
+    try {
+      explanation = await generateJSON(prompt, 'Você é especialista em preparação de alto nível para concursos públicos de elite.', EXPLAIN_SCHEMA);
+    } catch (aiErr) {
+      explanation = {
+        summary: `O trecho aborda um ponto chave de ${effectiveSubject}. Ele estabelece uma regra basilar cobrada com frequência em certames.`,
+        legalBasis: `Dispositivos normativos correlatos de ${effectiveSubject} e jurisprudência pacificada dos Tribunais Superiores.`,
+        practicalExample: `Em uma situação hipotética, o administrador ou contribuinte deve observar estritamente a previsão legal deste preceito.`,
+        examTrap: `Atenção: bancas costumam trocar prazos, requisitos cumulativos por alternativos, ou atos vinculados por discricionários.`,
+        mnemonics: `Mnemônico: Foco nos verbos e nas vedações expressas do dispositivo.`
+      };
+    }
+
+    res.json({
+      success: true,
+      explanation,
+      excerpt: text.trim(),
+      page_number
+    });
+  } catch (error) {
+    logger.error('STUDY_ROOM', 'Erro ao explicar trecho:', error);
+    res.status(500).json({ error: 'Falha ao processar explicação: ' + error.message });
+  }
+});
+
 // GET /catalog — Grouped catalog by Subject for study track overview (dynamic per career)
 router.get('/catalog', (req, res) => {
   try {
@@ -1763,6 +1959,7 @@ router.get('/materials/:id', (req, res) => {
 
     // Parse JSON fields
     material.analysis = JSON.parse(material.analysis_json || '{}');
+    material.tableOfContents = material.table_of_contents_json ? JSON.parse(material.table_of_contents_json) : [];
     material.pdfUrl = toPdfUrl(material.filepath);
 
     // Get associated sessions

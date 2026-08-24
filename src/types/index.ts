@@ -136,6 +136,7 @@ export type ActiveTab =
   | 'dashboard' 
   | 'study' 
   | 'study-room' 
+  | 'reader'
   | 'ciclos'
   | 'study-cycle'
   | 'simulados' 
@@ -152,6 +153,24 @@ export type ActiveTab =
   | 'settings_ajustes'
   | 'settings_guia'
   | 'settings_sobre';
+
+export interface MaterialHighlight {
+  id: number;
+  material_id: number;
+  user_id: string;
+  page_number: number;
+  text: string;
+  color: 'yellow' | 'green' | 'purple' | 'red' | 'blue';
+  note?: string | null;
+  position?: {
+    x?: number;
+    y?: number;
+    width?: number;
+    height?: number;
+    rects?: Array<{ x: number; y: number; width: number; height: number }>;
+  } | null;
+  created_at: string;
+}
 
 export interface AccountInfo {
   id: string;

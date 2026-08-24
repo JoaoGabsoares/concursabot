@@ -71,6 +71,7 @@ export const Header: React.FC<HeaderProps> = ({
     'study-cycle': { title: 'Ciclo de Estudos', category: 'ESTUDO DIÁRIO' },
     study: { title: 'Sala de Estudos', category: 'ESTUDO DIÁRIO' },
     'study-room': { title: 'Sala de Estudos', category: 'ESTUDO DIÁRIO' },
+    reader: { title: 'Estúdio de Leitura PDF', category: 'ESTUDO DIÁRIO' },
     simulados: { title: 'Simulados & Treino Real', category: 'TREINO & PRÁTICA' },
     erros: { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
     'error-notebook': { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },

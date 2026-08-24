@@ -1,21 +1,28 @@
-# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v7.2.0)
+# 🎯 Gabarito.AI — Ecossistema Inteligente de Estudos para Concursos Públicos (v7.3.0)
 
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite%208-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D22.5.0%20(node%3Asqlite)-green.svg)](https://nodejs.org)
 [![Architecture](https://img.shields.io/badge/Architecture-POO%20%2B%20Domain%20Services-blueviolet.svg)]()
 [![Database](https://img.shields.io/badge/Database-SQLite%203%20(node%3Asqlite)-blue.svg)](https://nodejs.org/api/sqlite.html)
-[![AI Engine](https://img.shields.io/badge/AI-Google%20Gemini%20Flash-orange.svg)](https://aistudio.google.com)
+[![AI Engine](https://img.shields.io/badge/AI-Google%20Gemini%20Flash%203.6-orange.svg)](https://aistudio.google.com)
 [![Security](https://img.shields.io/badge/Security-OAuth%20Redirect%20%2B%20Scrypt-brightgreen.svg)]()
 [![Tests](https://img.shields.io/badge/Tests-100%25%20Passing%20(npm%20test)-success.svg)]()
 
 > 💡 **Novo por aqui ou usando em outro chat de IA?** Leia o [COMECE_POR_AQUI.md](file:///home/joao/Área%20de%20trabalho/CONCURSO_BOT/COMECE_POR_AQUI.md) para contextualização técnica instantânea!
 
-> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Ciclo Estratégico de Guerra com Projeção Matemática Temporal (Março/2027)**, **Acervo de 813 Questões Categorizadas (344 FGV Oficiais com Deduplicação Semântica)**, **Identificação Personalizada e Estante de PDFs Isolada por Disciplina**, **Arquitetura em Bento Grid Moderno (Figma-Grade)**, **Paleta Executiva Obsidian & Royal Indigo**, **Design System 100% Semântico**, **Code-Splitting e Otimização de Performance (-52% Bundle Payload)**, **Hardening de Segurança de Backend (Zero-Trust OAuth & Anti-IDOR)**, **Acervo RAG Híbrido com 3.613 Documentos Markdown e Motor FTS5 (<5ms)**, **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões com Marca-Página Inteligente)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital** e **Caderno de Erros com superação (+15 XP)**.
+> **O Gabarito.AI é uma plataforma web de alta performance construída para aprovação em concursos públicos de elite**, integrando **Estúdio Integrado de Leitura de PDFs com Grifos Persistentes em 5 Cores e Tutor IA**, **Ciclo Estratégico de Guerra com Projeção Matemática Temporal (Março/2027)**, **Acervo de 813 Questões Categorizadas (344 FGV Oficiais com Deduplicação Semântica)**, **Identificação Personalizada e Estante de PDFs Isolada por Disciplina**, **Arquitetura em Bento Grid Moderno (Figma-Grade)**, **Paleta Executiva Obsidian & Royal Indigo**, **Design System 100% Semântico**, **Code-Splitting e Otimização de Performance (-52% Bundle Payload)**, **Hardening de Segurança de Backend (Zero-Trust OAuth & Anti-IDOR)**, **Acervo RAG Híbrido com 3.613 Documentos Markdown e Motor FTS5 (<5ms)**, **Gerador & Gerenciador Inteligente de Ciclos de Estudo Ponderados (Interleaving Anti-Fadiga)**, leitura com **Motor Universal de PDFs**, **Cadência Flexível de Estudos (60m Leitura + 30m Questões com Marca-Página Inteligente)**, Raio-X de incidência da banca (**Princípio de Pareto 80/20**), **Corretor Discursivo de Redação por IA**, repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), simulados cronometrados com **Cartão-Resposta Digital** e **Caderno de Erros com superação (+15 XP)**.
 
 ---
 
-## 🏛️ Destaques da Arquitetura & Funcionalidades (v7.2.0)
+## 🏛️ Destaques da Arquitetura & Funcionalidades (v7.3.0)
+
+0. 📖 **Estúdio Integrado de Leitura de PDFs de Alta Performance (Gabarito.AI Ultra Reader):**
+   - **Renderização Vetorial Canvas + Text Layer**: Baseado em `pdfjs-dist@4.10.38` com escalonamento Retina HiDPI, seleção direta de texto com o cursor e busca por palavras-chave com ocorrências em tempo real.
+   - **Motor de Grifos em 5 Cores com Persistência SQLite**: Marcadores metodológicos para 🟡 *Conceitos/Regra Geral*, 🟢 *Prazos & Números*, 🟣 *Jurisprudência/Súmulas*, 🔴 *Pegadinhas de Prova* e 🔵 *Doutrina/Mnemônico*, com notas de margem e pontuação de gamificação (+5 XP por grifo).
+   - **HUD Flutuante & Tutor IA (Gemini 3.6 Flash)**: Menu flutuante que surge na seleção com opções de Grifar, Inserir Nota, Copiar, Explicar com IA e Gerar Flashcard Anki automático (+15 XP).
+   - **3 Temas de Leitura Anti-Fadiga**: *Obsidian Dark* (modo escuro com inversão óptica inteligente), *Sépia Conforto* (fundo papel quente) e *Clean Light* (fidelidade original).
+   - **Navegação Multimodal & Nova Aba**: Painel lateral retrátil com Sumário Estruturado (TOC), lista filtrável de grifos do usuário e suporte a leitura em janela dedicada/nova aba (`#/reader/:id`) ou tela cheia.
 
 1. ⚔️ **Ciclo Estratégico de Guerra & Projeções Matemáticas Temporais (Março/2027):**
    - **Esteira de 24 Blocos Interleaved**: Cobertura balanceada das 13 matérias oficiais do edital ATRFB com 62.5% em Direito (Tributário, Aduaneiro, Constitucional, Administrativo, Previdenciário), 20.8% em Exatas/Dados (TI, Contabilidade, RLM, Estatística) e 16.7% em Humanas/Linguagens (Português FGV, Inglês, Administração Pública).

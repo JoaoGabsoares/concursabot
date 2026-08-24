@@ -16,6 +16,7 @@ import {
   EditalSubtopic
 } from '../../utils/studyContent';
 import { api } from '../../api/client';
+import { PdfReaderStudio } from './components/PdfReaderStudio';
 import { 
   UploadCloud, 
   FileText, 
@@ -1736,22 +1737,21 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
             )}
 
             {/* ============================================================ */}
-            {/* VIEW 1: NATIVE EMBEDDED PDF VIEWER                          */}
+            {/* VIEW 1: ADVANCED PDF READER STUDIO (GABARITO.AI ULTRA READER) */}
             {/* ============================================================ */}
             {viewMode === 'pdf' && selectedCustomMaterial?.pdfUrl ? (
-              <div className="space-y-3">
-                <div className="rounded-xl overflow-hidden border border-[var(--border-subtle)] bg-[var(--bg-elevated)] shadow-inner">
-                  <iframe
-                    src={`${selectedCustomMaterial.pdfUrl}#page=${currentPage}&toolbar=1&navpanes=1`}
-                    className="w-full h-[650px] border-0"
-                    title="Leitor de PDF Integrado"
-                  />
-                </div>
-                <div className="flex items-center justify-between text-xs font-sans text-[var(--text-muted)] px-1">
-                  <span>Visualizador Universal: compatível com qualquer banca e editora</span>
-                  <span>Use o controle abaixo para salvar sua página de leitura</span>
-                </div>
-              </div>
+              <PdfReaderStudio
+                materialId={selectedCustomMaterial.id}
+                pdfUrl={selectedCustomMaterial.pdfUrl}
+                title={selectedCustomMaterial.title || selectedCustomMaterial.filename}
+                subject={selectedSubject}
+                initialPage={currentPage}
+                totalPages={effectiveTotalPages}
+                tableOfContents={selectedCustomMaterial.tableOfContents || []}
+                readingCadenceMin={getReadingMinutes()}
+                onPageChange={(p) => setCurrentPage(p)}
+                onFinishReading={handleSwitchToQuestions}
+              />
             ) : (
               /* ============================================================ */
               /* VIEW 2: FORMATTED EDITORIAL DOCTRINE NOTEBOOK (PAGINADO)     */

@@ -358,3 +358,44 @@ html:not(.dark) ::-webkit-scrollbar-thumb:hover {
     color: #111827 !important;
   }
 }
+
+/* ============================================================ */
+/* PDF READER STUDIO & SELECTION TEXT LAYER                    */
+/* ============================================================ */
+.pdf-text-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  line-height: 1.0;
+  opacity: 1;
+}
+
+.pdf-text-layer > span {
+  position: absolute;
+  color: transparent;
+  transform-origin: 0% 0%;
+  white-space: pre;
+  cursor: text;
+  user-select: text;
+}
+
+.pdf-text-layer > span::selection {
+  background: rgba(201, 138, 43, 0.45);
+}
+
+.reader-dark canvas {
+  filter: invert(0.88) hue-rotate(180deg) brightness(0.95) contrast(1.1);
+  background-color: #0d1117;
+}
+
+.reader-sepia canvas {
+  filter: sepia(0.4) contrast(0.96) brightness(0.97);
+  background-color: #fbf0d9;
+}
+
+.reader-light canvas {
+  filter: none;
+  background-color: #ffffff;
+}
