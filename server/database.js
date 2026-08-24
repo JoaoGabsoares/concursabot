@@ -609,6 +609,16 @@ function initDB() {
                 db.exec('ALTER TABLE user_profiles ADD COLUMN streakDays INTEGER DEFAULT 0;');
             } catch (e) {}
         }
+        if (!userCols.includes('todayMinutes')) {
+            try {
+                db.exec('ALTER TABLE user_profiles ADD COLUMN todayMinutes INTEGER DEFAULT 0;');
+            } catch (e) {}
+        }
+        if (!userCols.includes('totalStudyMinutes')) {
+            try {
+                db.exec('ALTER TABLE user_profiles ADD COLUMN totalStudyMinutes INTEGER DEFAULT 0;');
+            } catch (e) {}
+        }
 
         // Performance Indexes for Multi-Tenant Isolation and Fast Queries
         try {

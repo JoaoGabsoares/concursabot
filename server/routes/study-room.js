@@ -415,14 +415,21 @@ router.post('/register-study', (req, res) => {
     const questionsXP = (qCorrect * 10) + ((qCount - qCorrect) * 2);
     const xpGained = baseXP + questionsXP;
 
+    // 3. Concessão de XP
     try {
       db.prepare(`
         UPDATE user_profiles
-        SET xp = xp + ?,
-            todayMinutes = todayMinutes + ?
+        SET xp = COALESCE(xp, 0) + ?,
+            todayMinutes = COALESCE(todayMinutes, 0) + ?
         WHERE id = ?
       `).run(xpGained, minutes, userId);
+    } catch (xpProfErr) {
+      try {
+        db.prepare(`UPDATE user_profiles SET xp = COALESCE(xp, 0) + ? WHERE id = ?`).run(xpGained, userId);
+      } catch (e) {}
+    }
 
+    try {
       db.prepare(`
         INSERT INTO user_xp_log (user_id, amount, reason) 
         VALUES (?, ?, ?)
@@ -433,8 +440,8 @@ router.post('/register-study', (req, res) => {
           ? `Conclusão de Aula: ${subject || 'Estudo'}${qCount > 0 ? ` (+${qCount} questões)` : ''}` 
           : `Leitura de Páginas: ${subject || 'Estudo'}${qCount > 0 ? ` (+${qCount} questões)` : ''}`
       );
-    } catch (e) {
-      // Compatibilidade
+    } catch (xpLogErr) {
+      // Compatibilidade se user_xp_log falhar
     }
 
     // 4. Log de Atividade
