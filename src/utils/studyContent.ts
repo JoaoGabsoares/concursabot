@@ -1920,6 +1920,387 @@ export const DISCIPLINE_MODULES_DB: Record<string, DisciplineModule[]> = {
         }
       ]
     }
+  ],
+
+  // ==========================================
+  // CONTABILIDADE APLICADA AO SETOR PÚBLICO (CASP)
+  // ==========================================
+  "Contabilidade Aplicada ao Setor Público": [
+    {
+      moduleNumber: 1,
+      totalModules: 3,
+      title: "Plano de Contas Aplicado ao Setor Público (PCASP) & Naturezas da Informação",
+      bancaTrend: "Cebraspe / FGV: Cobrança pesada do subsistema patrimonial vs orçamentário e a regra de fechamento das classes de contas.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Estrutura do PCASP, Naturezas da Informação e Escrituração",
+          category: "Doutrina & Teoria",
+          leadText: "O PCASP padronizou a contabilidade pública brasileira em 3 naturezas de informação: Orçamentária, Patrimonial e de Controle.",
+          bodyText: "A Contabilidade Aplicada ao Setor Público (CASP) rege-se pelo Manual de Contabilidade Aplicada ao Setor Público (MCASP) emitido pela STN e pelas NBC TSP do CFC.\n\nO PCASP organiza as contas em 8 classes estruturadas pelas naturezas de informação:\n1) Natureza Patrimonial: Classes 1 (Ativo), 2 (Passivo e PL), 3 (Variações Patrimoniais Diminutivas - VPD) e 4 (Variações Patrimoniais Aumentativas - VPA). Adota o Regime de Competência para reconhecimento dos fatos contábeis.\n2) Natureza Orçamentária: Classes 5 (Orçamento Aprovado) e 6 (Execução do Orçamento). Registra a aprovação da LOA, fixação de despesa, previsão de receita, empenho, liquidação e pagamento.\n3) Natureza de Controle: Classes 7 (Controles Devedores) e 8 (Controles Credores). Registra atos potenciais que possam afetar o patrimônio futuro (convênios, contratos, avais, garantias).",
+          deepDiveText: "Regra Fundamental das Partidas Dobradas no PCASP:\nOs lançamentos contábeis ocorrem DENTRO da mesma natureza de informação ou de forma espelhada e independente. Um fato patrimonial NÃO fecha débito/crédito com uma conta de natureza orçamentária!\n• Débito em conta ímpar (1, 3, 5, 7) = Aumento / Crédito em conta par (2, 4, 6, 8) = Aumento."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Quadro Comparativo das 8 Classes do PCASP",
+          category: "Esquemas & Tabelas",
+          leadText: "O conhecimento da classe da conta define imediatamente sua natureza e seu regime contábil.",
+          bodyText: "Estrutura oficial do Plano de Contas Aplicado ao Setor Público:",
+          tableData: {
+            headers: ["Classe", "Denominação da Conta", "Natureza da Informação", "Regime Aplicável", "Saldo Típico"],
+            rows: [
+              ["1", "Ativo", "Patrimonial", "Competência", "Devedor"],
+              ["2", "Passivo e Patrimônio Líquido", "Patrimonial", "Competência", "Credor"],
+              ["3", "Variações Patrimoniais Diminutivas (VPD)", "Patrimonial", "Competência", "Devedor"],
+              ["4", "Variações Patrimoniais Aumentativas (VPA)", "Patrimonial", "Competência", "Credor"],
+              ["5", "Aprovação do Planejamento e Orçamento", "Orçamentária", "Misto (Lei 4.320)", "Devedor"],
+              ["6", "Execução do Planejamento e Orçamento", "Orçamentária", "Misto (Lei 4.320)", "Credor"],
+              ["7", "Controles Devedores (Atos Potenciais)", "Controle", "Atos Administrativos", "Devedor"],
+              ["8", "Controles Credores (Execução dos Atos)", "Controle", "Atos Administrativos", "Credor"]
+            ]
+          },
+          mnemonics: [
+            { code: "1 a 4 = PATRIMONIAL", meaning: "Classes 1, 2, 3 e 4 cuidam do patrimônio e resultado econômico pelo regime de competência." },
+            { code: "5 e 6 = ORÇAMENTÁRIA", meaning: "Classes 5 e 6 registram a execução orçamentária (empenho, liquidação e pagamento)." },
+            { code: "7 e 8 = CONTROLE", meaning: "Classes 7 e 8 registram atos potenciais, contratos e garantias." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas Clássicas do Cebraspe em CASP",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "O Cebraspe frequentemente tenta induzir o candidato ao erro sobre o momento do reconhecimento da VPA/VPD.",
+          bodyText: "Atenção estrita: Na CASP, o regime de competência é integral para os fatos patrimoniais. A arrecadação de tributos pelo ente é registrada como VPA no momento do fato gerador ou lançamento, independentemente de quando ocorre o recebimento financeiro.",
+          practicalCases: [
+            {
+              title: "Pegadinha Cebraspe: Fato Gerador de Tributos e VPA",
+              scenario: "A Administração lança o IPTU de determinado exercício no valor de R$ 10 milhões. Nenhum contribuinte pagou ainda a cota única.",
+              tip: "A CASP exige o registro imediato: Débito em Ativo (Créditos Tributários a Receber - Classe 1) e Crédito em VPA (Variação Patrimonial Aumentativa - Classe 4). O fato contábil independe da entrada de caixa!"
+            },
+            {
+              title: "Pegadinha FGV: Fechamento de Lançamento Entre Classes Diferentes",
+              scenario: "Item de prova afirma que o empenho da despesa gera simultaneamente um débito na classe 3 (VPD) e um crédito na classe 6 (Crédito Empenhado).",
+              tip: "TOTALMENTE ERRADO! O empenho é fato estritamente orçamentário (Débito classe 5 e Crédito classe 6). A VPD (classe 3) só surge na liquidação (fato gerador da despesa patrimonial)."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Normas Aplicáveis (MCASP STN & NBC TSP)",
+          category: "Lei Seca & Súmulas",
+          leadText: "Dispositivos técnicos essenciais da Portaria STN nº 1.442/2023 e NBC TSP Estrutura Conceitual.",
+          bodyText: "• MCASP Parte I: O orçamento público no Brasil adota regime misto (caixa para receitas arrecadadas e competência para despesas empenhadas - Art. 35 da Lei 4.320/64).\n• MCASP Parte II: O patrimônio público deve ser mensurado e evidenciado pelo regime de competência em sua totalidade.",
+          lawArticles: [
+            { article: "Lei 4.320/64, Art. 35", text: "Pertencem ao exercício financeiro: I - as receitas nele arrecadadas; II - as despesas nele legalmente empenhadas." },
+            { article: "NBC TSP Estrutura Conceitual, Item 1.3", text: "A informação contábil deve permitir a avaliação da sustentabilidade dos serviços públicos e a prestação de contas (accountability)." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva a questão formulada no padrão Cebraspe para o TCE-RJ / TCU.",
+          bodyText: "Julgue o item contábil com base no MCASP e no PCASP.",
+          question: {
+            id: 3001,
+            question: "(Cebraspe - Tribunal de Contas) No âmbito do Plano de Contas Aplicado ao Setor Público (PCASP), a assinatura de um contrato de prestação de serviços de engenharia com fornecedor particular, antes de qualquer execução física ou empenho, acarreta registros contábeis exclusivamente nas contas de natureza:",
+            options: {
+              A: "De Controle (Classes 7 e 8).",
+              B: "Patrimonial (Classes 1 e 2).",
+              C: "Orçamentária (Classes 5 e 6).",
+              D: "Mista (Classes 1 e 6).",
+              E: "Resultado Econômico (Classes 3 e 4)."
+            },
+            answer: "A",
+            explanation: "A assinatura do contrato representa um ato administrativo potencial que não afeta imediatamente o patrimônio nem executa o orçamento. Portanto, deve ser registrado exclusivamente nas contas de natureza de Controle (Classes 7 - Controles Devedores e 8 - Controles Credores)."
+          }
+        }
+      ]
+    }
+  ],
+
+  // ==========================================
+  // CONTROLE EXTERNO & LEGISLAÇÃO DO TCE-RJ
+  // ==========================================
+  "Controle Externo": [
+    {
+      moduleNumber: 1,
+      totalModules: 3,
+      title: "Fiscalização Contábil, Financeira, Orçamentária e Operacional (Art. 70 e 71 CF/88)",
+      bancaTrend: "Cebraspe / FGV: Julgamento de contas vs Parecer prévio do Chefe do Executivo, competência para julgar prefeitos (Tema 835 STF) e medidas cautelares.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Bases Constitucionais do Controle Externo e Jurisdição das Cortes de Contas",
+          category: "Doutrina & Teoria",
+          leadText: "O controle externo da Administração Pública é exercido pelo Poder Legislativo com o auxílio técnico dos Tribunais de Contas.",
+          bodyText: "O art. 70 da CF/88 estabelece que a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e dos entes federados, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional (ou Assembleia/Câmara Municipal), mediante controle externo, e pelo sistema de controle interno de cada Poder.\n\nPrestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a Administração responda, ou que, em nome desta, assuma obrigações de natureza pecuniária (parágrafo único do art. 70).",
+          deepDiveText: "Dualidade de Atuação dos Tribunais de Contas:\n1) Julgamento de Contas dos Administradores e Ordenadores de Despesa: O Tribunal de Contas profere decisão com força de título executivo judicial (Art. 71, § 3º da CF/88).\n2) Apreciação das Contas do Chefe do Poder Executivo (Presidente, Governador, Prefeito): O Tribunal emite PARECER PRÉVIO no prazo constitucional, cabendo o julgamento definitivo exclusivamente ao respectivo Poder Legislativo por quórum qualificado de 2/3."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Quadro Comparativo: Julgamento Técnico vs Parecer Prévio",
+          category: "Esquemas & Tabelas",
+          leadText: "Distinção crítica cobrada reiteradamente em provas de Controle Externo.",
+          bodyText: "Comparativo entre as funções decisórias e opinativas dos Tribunais de Contas:",
+          tableData: {
+            headers: ["Aspecto", "Contas de Governo (Chefe do Executivo)", "Contas de Gestão (Ordenadores de Despesa)", "Entes com Repasse (Convênios)"],
+            rows: [
+              ["Autoridade", "Presidente / Governador / Prefeito", "Secretários, Diretores, Gestores", "Particulares e ONGs conveniadas"],
+              ["Ato do Tribunal", "Parecer Prévio (Opinativo)", "Acórdão de Julgamento (Decisório)", "Acórdão de Tomada de Contas Especial"],
+              ["Julgamento Final", "Poder Legislativo (Congresso/ALERJ/Câmara)", "O próprio Tribunal de Contas", "O próprio Tribunal de Contas"],
+              ["Quórum para Rejeição", "2/3 dos membros do Legislativo", "Maioria simples no Plenário do TC", "Maioria simples no Plenário do TC"],
+              ["Eficácia Executiva", "Não é título executivo direto", "Sim, tem força de Título Executivo", "Sim, tem força de Título Executivo"]
+            ]
+          },
+          mnemonics: [
+            { code: "GOVERNO = PARECER PRÉVIO", meaning: "Chefe do Executivo recebe parecer do TC e julgamento da Casa Legislativa." },
+            { code: "GESTÃO = JULGAMENTO DIRETO", meaning: "Ordenadores de despesa são julgados em definitivo pelo próprio Tribunal de Contas." },
+            { code: "TÍTULO EXECUTIVO = ART. 71, § 3º", meaning: "Condenação em débito ou multa não precisa de ação de cobrança prévia na Justiça." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Teses do STF sobre Controle Externo",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A jurisprudência do STF sobre competência das Cortes de Contas é fonte obrigatória de questões.",
+          bodyText: "Principais precedentes que fundamentam o gabarito das bancas:",
+          practicalCases: [
+            {
+              title: "Tema 835 do STF: Julgamento de Prefeito Ordenador de Despesas",
+              scenario: "Prefeito municipal atuou pessoalmente como ordenador de despesas pagando contrato superfaturado. O Tribunal de Contas julgou suas contas irregulares e o declarou inelegível.",
+              tip: "Tese Vinculante STF: Para fins de inelegibilidade (Lei da Ficha Limpa), a competência para julgar TODAS as contas de Prefeito (sejam de governo ou de gestão) é EXCLUSIVA da Câmara Municipal. O parecer do TC é meramente opinativo."
+            },
+            {
+              title: "Súmula Vinculante 3 do STF: Apreciação de Aposentadorias e Pensões",
+              scenario: "O Tribunal de Contas recusa o registro inicial de aposentadoria de servidor público após 3 anos da concessão sem abrir contraditório.",
+              tip: "VÁLIDO! Nos processos perante o TC relativos à apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão, NÃO se assegura o contraditório e ampla defesa se apreciados dentro do prazo de 5 anos (Súmula Vinculante 3 e Tema 445/STF)."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Dispositivos Literais da CF/88 e Lei Complementar 63/90 (TCE-RJ)",
+          category: "Lei Seca & Súmulas",
+          leadText: "Artigos da Constituição Federal e da Lei Orgânica do TCE-RJ.",
+          bodyText: "• Art. 71, II da CF/88: Julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos.\n• Art. 71, VIII da CF/88: Aplicar aos responsáveis as sanções previstas em lei, que estabelecerá, entre outras cominações, multa proporcional ao dano causado ao erário.",
+          lawArticles: [
+            { article: "CF/88, Art. 71, § 3º", text: "As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo." },
+            { article: "Súmula Vinculante nº 3 STF", text: "Nos processos perante o TCU relativos à apreciação da legalidade da concessão inicial de aposentadoria, reforma e pensão, não se asseguram ampla defesa e contraditório." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva a questão comentada com base na jurisprudência do STF e CF/88.",
+          bodyText: "Analise o item sobre a eficácia executiva dos acórdãos condenatórios do Tribunal de Contas.",
+          question: {
+            id: 3002,
+            question: "(TCE-RJ / TCU - Controle Externo) As decisões condenatórias do Tribunal de Contas que imputem débito ou apliquem multa aos gestores públicos:",
+            options: {
+              A: "Possuem eficácia imediata de título executivo extrajudicial, prescindindo de homologação pelo Poder Judiciário.",
+              B: "Necessitam de ratificação expressa da Assembleia Legislativa ou do Congresso Nacional.",
+              C: "São meramente informativas e exigem ajuizamento de ação de conhecimento pelo Ministério Público.",
+              D: "Dependem de trânsito em julgado perante a Justiça Federal para serem cobradas.",
+              E: "Não podem alcançar entidades privadas conveniadas com o poder público."
+            },
+            answer: "A",
+            explanation: "Conforme o art. 71, § 3º da CF/88, as decisões do Tribunal de Contas de que resulte imputação de débito ou cominação de multa possuem eficácia de título executivo (extrajudicial), cabendo ao ente público ou à Fazenda competente a sua execução direta perante o Judiciário sem necessidade de nova fase de conhecimento."
+          }
+        }
+      ]
+    }
+  ],
+
+  // ==========================================
+  // DIREITO TRIBUTÁRIO
+  // ==========================================
+  "Direito Tributário": [
+    {
+      moduleNumber: 1,
+      totalModules: 3,
+      title: "Conceito de Tributo, Teoria Pentapartida & Limitações ao Poder de Tributar",
+      bancaTrend: "FGV / Cebraspe: Art. 3º do CTN (prestação pecuniária compulsória), Teoria Pentapartida do STF e Imunidades Tributárias (Art. 150, VI CF/88).",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "Conceito Legal de Tributo e Espécies Tributárias",
+          category: "Doutrina & Teoria",
+          leadText: "Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada (Art. 3º do CTN).",
+          bodyText: "Da definição do Art. 3º do CTN derivam os elementos nucleares da disciplina:\n1) Prestação pecuniária compulsória: O pagamento decorre da força cogente da lei, inexistindo voluntariedade.\n2) Não constitui sanção de ato ilícito: Tributo NÃO é multa! A multa sanciona a ilicitude; o tributo decorre de fato lícito.\n3) Princípio do Não-Confisco (Art. 150, IV da CF/88): É vedado utilizar tributo com efeito de confisco.\n4) Cobrada mediante atividade plenamente vinculada: A autoridade fiscal não possui discricionariedade na cobrança.\n\nTeoria Pentapartida (STF): O Supremo Tribunal Federal consolidou que existem 5 espécies tributárias autônomas no Brasil:\n1. Impostos (não vinculados a atuação estatal direta);\n2. Taxas (vinculadas ao exercício do poder de polícia ou serviço público específico e divisível);\n3. Contribuições de Melhoria (decorrentes de valorização imobiliária por obra pública);\n4. Empréstimos Compulsórios (calamidade pública, guerra externa ou investimento urgente de relevante interesse nacional);\n5. Contribuições Especiais (sociais, de intervenção no domínio econômico e de interesse das categorias profissionais).",
+          deepDiveText: "Princípio do Pecunia Non Olet ('o dinheiro não tem cheiro'): A tributação incide sobre os rendimentos auferidos, independentemente da licitude civil ou penal da atividade subjacente (Art. 118 do CTN). Portanto, o lucro de jogo clandestino ou atividade ilícita é tributável pelo Imposto de Renda, sem que isso confunda tributo com sanção."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Quadro Comparativo das 5 Espécies Tributárias",
+          category: "Esquemas & Tabelas",
+          leadText: "Estrutura esquemática da Teoria Pentapartida consagrada pelo STF.",
+          bodyText: "Diferenciação dos tributos quanto ao fato gerador e vinculação da receita:",
+          tableData: {
+            headers: ["Espécie Tributária", "Fato Gerador Vinculado?", "Receita Vinculada?", "Instrumento de Instituição", "Competência"],
+            rows: [
+              ["Impostos", "Não (Capacidade Contributiva)", "Em regra Não (Art. 167, IV)", "Lei Ordinária", "União, Estados, DF e Municípios"],
+              ["Taxas", "Sim (Poder de Polícia / Serviço)", "Sim (Custeio da atividade)", "Lei Ordinária", "Competência Comum"],
+              ["Contribuições de Melhoria", "Sim (Valorização Imobiliária)", "Sim (Limite do custo da obra)", "Lei Ordinária", "Competência Comum"],
+              ["Empréstimos Compulsórios", "Não (Situações Extraordinárias)", "Sim (Despesa que fundamentou)", "Lei Complementar", "Exclusiva da União"],
+              ["Contribuições Especiais", "Variado (Finalidade Específica)", "Sim (Destinação constitucional)", "Lei Ordinária / Complementar", "Em regra União (exceção RPPS)"]
+            ]
+          },
+          mnemonics: [
+            { code: "TRIBUTO NÃO É SANÇÃO", meaning: "Diferença basilar: multa pune ilícito; tributo incide sobre fato gerador lícito." },
+            { code: "TAXA EXIGE ESPECIFICIDADE & DIVISIBILIDADE", meaning: "Serviço público 'uti singuli' (mensurável por usuário). Segurança e iluminação pública não podem ser cobradas por taxa." },
+            { code: "EMPRÉSTIMO COMPULSÓRIO = LEI COMPLEMENTAR", meaning: "Privativo da União e exigência obrigatória de LC." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Súmulas Vinculantes em Tributário",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "A FGV e o Cebraspe cobram a distinção estrita entre Taxa e Tarifa (Preço Público) e as Imunidades.",
+          bodyText: "Precedentes pacificadores do STF:",
+          practicalCases: [
+            {
+              title: "Súmula Vinculante 41 STF: Serviço de Iluminação Pública",
+              scenario: "Município institui taxa municipal para custear o serviço de iluminação pública das avenidas da cidade.",
+              tip: "INCONSTITUCIONAL! O serviço de iluminação pública não pode ser remunerado mediante TAXA porque é serviço indivisível ('uti universi'). A cobrança só é válida sob a forma de Contribuição de Iluminação Pública (COSIP - Art. 149-A da CF/88)."
+            },
+            {
+              title: "Súmula Vinculante 57 STF: Imunidade Tributária de Livros Eletrônicos (E-books)",
+              scenario: "Fiscalização autua empresa que comercializa livros digitais (e-readers e e-books) cobrando impostos estaduais/municipais.",
+              tip: "INDEVIDO! A imunidade tributária constante do art. 150, VI, 'd', da CF/88 (imunidade de imprensa) APLICA-SE aos livros eletrônicos (e-books) e aos suportes físicos exclusivamente utilizados para fixá-los (como e-readers dedicados)."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Dispositivos Literais do CTN e CF/88",
+          category: "Lei Seca & Súmulas",
+          leadText: "Artigos obrigatórios para qualquer concurso fiscal e de controle.",
+          bodyText: "• Art. 3º do CTN: Definição formal de tributo.\n• Art. 150, VI da CF/88: Imunidades tributárias (recíproca, templos, partidos/sindicatos/educação e livros/jornais).",
+          lawArticles: [
+            { article: "CTN, Art. 3º", text: "Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada." },
+            { article: "CTN, Art. 118, I", text: "A definição legal do fato gerador é interpretada abstraindo-se da validade jurídica dos atos efetivamente praticados pelos contribuintes (Princípio do Pecunia Non Olet)." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva a questão modelo FGV para concursos fiscais (ISS Niterói / ATRFB).",
+          bodyText: "Identifique a assertiva em consonância com a Teoria Geral do Direito Tributário.",
+          question: {
+            id: 3003,
+            question: "(FGV - Auditor Fiscal) No tocante à definição de tributo e às limitações constitucionais ao poder de tributar, assinale a opção correta:",
+            options: {
+              A: "O princípio da anterioridade nonagesimal (noventena) aplica-se a todas as espécies tributárias sem qualquer exceção na Constituição.",
+              B: "A capacidade tributária passiva depende da capacidade civil das pessoas naturais.",
+              C: "A imunidade recíproca impede a instituição de impostos sobre patrimônio, renda ou serviços entre os entes federados (União, Estados, DF e Municípios).",
+              D: "Os empréstimos compulsórios podem ser instituídos por medida provisória em casos de relevância e urgência.",
+              E: "A taxa pode ter base de cálculo própria e idêntica à de qualquer imposto."
+            },
+            answer: "C",
+            explanation: "A alternativa C está correta com base no art. 150, VI, 'a' da CF/88 (Imunidade Recíproca). As demais estão incorretas: A (há exceções expressas à anterioridade nonagesimal, como II, IE, IOF, IPI na anual); B (art. 126 do CTN prevê que a capacidade tributária independe da capacidade civil); D (exige Lei Complementar, vedada MP); E (art. 145, § 2º veda taxa com base de cálculo própria de impostos)."
+          }
+        }
+      ]
+    }
+  ],
+
+  // ==========================================
+  // ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA (AFO)
+  // ==========================================
+  "Administração Financeira e Orçamentária": [
+    {
+      moduleNumber: 1,
+      totalModules: 3,
+      title: "Instrumentos de Planejamento (PPA, LDO, LOA) & Princípios Orçamentários",
+      bancaTrend: "FGV / Cebraspe: Distinção entre o papel da LDO (anexo de metas e riscos fiscais) e da LOA, e os princípios da Exclusividade, Universalidade e Não-Afetação.",
+      totalPages: 5,
+      pages: [
+        {
+          pageNumber: 1,
+          pageTitle: "O Sistema Tripartite de Orçamento Público (PPA, LDO e LOA)",
+          category: "Doutrina & Teoria",
+          leadText: "O planejamento orçamentário no Brasil é estruturado em três leis ordinárias de iniciativa privativa do Poder Executivo (Art. 165 da CF/88).",
+          bodyText: "1) Plano Plurianual (PPA): Estabelece de forma regionalizada as diretrizes, objetivos e metas da administração pública para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada. Possui vigência de 4 anos, iniciando no segundo ano de mandato do governante e terminando no primeiro ano do mandato subsequente.\n\n2) Lei de Diretrizes Orçamentárias (LDO): Estabelece as metas e prioridades da administração pública, orienta a elaboração da LOA, dispõe sobre alterações na legislação tributária e estabelece a política de aplicação das agências financeiras oficiais de fomento. Pela LRF (Lei Complementar 101/2000), a LDO deve conter obrigatoriamente o Anexo de Metas Fiscais e o Anexo de Riscos Fiscais.\n\n3) Lei Orçamentária Anual (LOA): Compreende o Orçamento Fiscal, o Orçamento de Investimento das estatais não dependentes e o Orçamento da Seguridade Social (Orçamento Tripartido).",
+          deepDiveText: "Princípios Orçamentários Clássicos e Contemporâneos:\n• Princípio da Universalidade: O orçamento deve conter TODAS as receitas e TODAS as despesas de todos os poderes e órgãos (Art. 2º da Lei 4.320/64).\n• Princípio da Exclusividade: A LOA não conterá dispositivo estranho à previsão da receita e à fixação da despesa (não pode ter 'caudas orçamentárias'), ressalvadas a autorização para abertura de créditos suplementares e a contratação de operações de crédito (Art. 165, § 8º da CF/88).\n• Princípio da Não-Afetação da Receita de Impostos: É vedada a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas as exceções expressas do Art. 167, IV (saúde, educação, administração tributária e garantias)."
+        },
+        {
+          pageNumber: 2,
+          pageTitle: "Quadro Comparativo: PPA vs LDO vs LOA",
+          category: "Esquemas & Tabelas",
+          leadText: "Quadro mnemônico dos três diplomas de planejamento orçamentário.",
+          bodyText: "Síntese dos prazos, conteúdos e finalidades de cada diploma legal:",
+          tableData: {
+            headers: ["Instrumento", "Vigência", "Função Primária", "Conteúdo Obrigatório LRF", "Iniciativa"],
+            rows: [
+              ["PPA", "4 anos (médio prazo)", "Diretrizes, Objetivos e Metas (DOM)", "Despesas de capital e programas continuados", "Privativa do Executivo"],
+              ["LDO", "1 ano (ponte PPA-LOA)", "Metas e prioridades anuais", "Anexo de Metas e Anexo de Riscos Fiscais", "Privativa do Executivo"],
+              ["LOA", "1 ano (exercício financeiro)", "Estimar receita e fixar despesa", "Orçamento Fiscal, Investimento e Seguridade", "Privativa do Executivo"]
+            ]
+          },
+          mnemonics: [
+            { code: "PPA = DOM", meaning: "Diretrizes, Objetivos e Metas para despesas de capital e duração continuada." },
+            { code: "LDO = ELO & RISCOS", meaning: "Liga o PPA à LOA e traz o Anexo de Riscos Fiscais e Metas Fiscais." },
+            { code: "LOA = FIS", meaning: "Fiscal, Investimento das estatais e Seguridade Social." }
+          ]
+        },
+        {
+          pageNumber: 3,
+          pageTitle: "Casos Práticos & Pegadinhas da FGV / Cebraspe em AFO",
+          category: "Casos Práticos & Pegadinhas",
+          leadText: "As bancas cobram as exceções ao Princípio da Exclusividade e as hipóteses de Créditos Adicionais.",
+          bodyText: "Análise de itens práticos de prova:",
+          practicalCases: [
+            {
+              title: "Pegadinha de Ouro: Exceções à Exclusividade na LOA",
+              scenario: "A LOA inclui artigo autorizando o Poder Executivo a alterar o Código Tributário e conceder reajuste geral de servidores.",
+              tip: "INCONSTITUCIONAL! Viola o Princípio da Exclusividade. As ÚNICAS DUAS exceções que a LOA pode conter fora de previsão de receita e fixação de despesa são: 1) Autorização para créditos suplementares; 2) Autorização para operações de crédito (ainda que por antecipação de receita)."
+            },
+            {
+              title: "Pegadinha: Diferença entre Créditos Especiais e Extraordinários",
+              scenario: "O governo decreta crédito especial por medida provisória para atender a despesas imprevistas e urgentes decorrentes de calamidade pública.",
+              tip: "ERRADO! O crédito para calamidade pública, guerra ou comoção interna é o CRÉDITO EXTRAORDINÁRIO (aberto por Medida Provisória/Decreto). O Crédito Especial destina-se a programas novos sem dotação orçamentária prévia e depende de Lei prévia."
+            }
+          ]
+        },
+        {
+          pageNumber: 4,
+          pageTitle: "Dispositivos Literais da CF/88 e LRF (LC 101/2000)",
+          category: "Lei Seca & Súmulas",
+          leadText: "Normas fundamentais de Direito Financeiro e Responsabilidade Fiscal.",
+          bodyText: "• Art. 165 da CF/88: Sistema orçamentário brasileiro.\n• Art. 4º da LRF: O Anexo de Riscos Fiscais onde serão avaliados os passivos contingentes e outros riscos capazes de afetar as contas públicas.",
+          lawArticles: [
+            { article: "CF/88, Art. 165, § 8º", text: "A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito." },
+            { article: "LRF, Art. 4º, § 3º", text: "A lei de diretrizes orçamentárias conterá Anexo de Riscos Fiscais, onde serão avaliados os passivos contingentes e outros riscos capazes de afetar as contas públicas." }
+          ]
+        },
+        {
+          pageNumber: 5,
+          pageTitle: "Treino de Fixação & Gabarito Comentado",
+          category: "Fixação & Questões",
+          leadText: "Resolva a questão no modelo Cebraspe / FGV para o TCU / TCE-RJ.",
+          bodyText: "Julgue o item sobre técnicas e princípios orçamentários.",
+          question: {
+            id: 3004,
+            question: "(FGV / Cebraspe - Tribunal de Contas) A respeito dos princípios orçamentários e dos instrumentos de planejamento governamental, assinale a opção correta:",
+            options: {
+              A: "O princípio da não-afetação proíbe terminantemente qualquer tipo de vinculação da receita de taxas e contribuições de melhoria.",
+              B: "O Anexo de Riscos Fiscais, que avalia os passivos contingentes capazes de afetar o equilíbrio financeiro do ente, integra formalmente a Lei Orçamentária Anual (LOA).",
+              C: "A vigência do Plano Plurianual (PPA) coincide exatamente com os quatro anos do mandato do Presidente da República.",
+              D: "O princípio da universalidade preceitua que todas as receitas e despesas orçamentárias devem estar incluídas na lei orçamentária anual.",
+              E: "Créditos extraordinários destinam-se a reforço de dotações orçamentárias já existentes na LOA."
+            },
+            answer: "D",
+            explanation: "A alternativa D está correta (Art. 2º da Lei 4.320/64 - Princípio da Universalidade). Erros das demais: A (não-afetação aplica-se apenas a IMPOSTOS, art. 167, IV); B (o Anexo de Riscos integra a LDO, não a LOA); C (o PPA vigora do 2º ano do mandato até o 1º ano do mandato seguinte); E (créditos suplementares são os destinados a reforço de dotação)."
+          }
+        }
+      ]
+    }
   ]
 };
 
@@ -1938,74 +2319,237 @@ export function getModulesForSubject(subjectName: string): DisciplineModule[] {
     }
   }
 
-  // 3. Gerador dinâmico de 5 módulos ricos com 5 páginas cada para qualquer matéria
+  // 3. Gerador dinâmico de 5 módulos aprofundados com 5 páginas distintas para qualquer matéria
   const lesson = getLessonContent(subjectName);
   const total = 5;
   const generated: DisciplineModule[] = [];
 
-  const moduleTitles = [
-    `${lesson.topic} • Fundamentos & Regras Primárias`,
-    `Estruturas Dogmáticas & Aplicação Prática em Concursos`,
-    `Tópicos Avançados de ${subjectName} & Jurisprudência da Banca`,
-    `Casos Concretos & Análise de Pegadinhas da Banca`,
-    `Revisão Geral e Questões de Fixação Extrema`
+  const moduleConfigs = [
+    {
+      mNum: 1,
+      title: `${lesson.topic} • Fundamentos, Princípios Dogmáticos & Conceitos Iniciais`,
+      p1Title: `Fundamentos & Conceituação Primária de ${subjectName}`,
+      p1Lead: `Bases doutrinárias e premissas introdutórias indispensáveis para compreensão da disciplina.`,
+      p1Body: lesson.section1Body,
+      p1Deep: lesson.deepDiveText || `A compreensão dos princípios reitores da matéria de ${subjectName} constitui a base de sustentação para a resolução dos itens mais complexos formulados pelas bancas examinadoras.`,
+      table: {
+        headers: ["Conceito / Princípio", "Definição Doutrinária", "Aplicação Prática", "Incidência em Prova"],
+        rows: [
+          ["Regra Primária", `Estrutura basilar aplicável a ${subjectName}`, "Incide na maioria dos casos práticos", "Alta (>80%)"],
+          ["Exceção Normativa", "Hipótese de afastamento da regra geral", "Exige previsão legal expressa", "Média (Pegadinha)"],
+          ["Princípio Reitor", "Norma fundamental orientadora da hermenêutica", "Resolve conflito aparente de regras", "Constante"]
+        ]
+      },
+      mnemonics: lesson.mnemonics || [{ code: "BASE & CONCEITO", meaning: "Domine a definição literal antes de avançar para exceções." }],
+      caseTitle: `Caso Prático 01 • Aplicação da Regra Geral em ${subjectName}`,
+      caseScenario: `O candidato depara-se com enunciado que questiona se a regra geral de ${subjectName} admite interpretação extensiva pelo administrador.`,
+      caseTip: `Dica de Ouro: Verifique se a norma é taxativa (numerus clausus) ou exemplificativa (numerus apertus).`,
+      lawArt: lesson.lawArticles?.[0] || { article: "Norma Fundamental", text: `Dispositivo reitor aplicável à matéria de ${subjectName}.` },
+      question: lesson.question
+    },
+    {
+      mNum: 2,
+      title: `Estrutura Normativa, Procedimentos Centrais & Classificações Dogmáticas`,
+      p1Title: `Classificações Dogmáticas & Procedimentos Especiais de ${subjectName}`,
+      p1Lead: `Categorização sistemática dos institutos e suas repercussões nos atos administrativos e práticos.`,
+      p1Body: `O estudo analítico de ${subjectName} requer a memorização das classificações formuladas pela doutrina majoritária e consagradas pelas bancas examinadoras.\n\nIdentifique os critérios distintivos entre as espécies de atos, procedimentos vinculados e discricionários, e as formalidades essenciais que condicionam a validade de cada operação.`,
+      p1Deep: `A doutrina costuma divergir em pontos periféricos, contudo as bancas examinadoras adotam majoritariamente as posições consolidadas nos manuais clássicos e nos precedentes sumulados dos tribunais superiores.`,
+      table: {
+        headers: ["Espécie / Categoria", "Critério de Distinção", "Formalidade Essencial", "Repercussão Prática"],
+        rows: [
+          ["Categoria Vinculada", "Sem margem de escolha pelo agente", "Motivação obrigatória estrita", "Nulidade absoluta se descumprida"],
+          ["Categoria Discricionária", "Margem de conveniência e oportunidade", "Dentro dos limites legais", "Controle judicial de legalidade"],
+          ["Procedimento Especial", "Rito sumário ou diferenciado", "Previsão expressa em edital/lei", "Prevalece sobre o rito comum"]
+        ]
+      },
+      mnemonics: [
+        { code: "VINCULADO = SEM ESCOLHA", meaning: "A lei determina exatamente como o ato deve ser praticado." },
+        { code: "DISCRICIONÁRIO = DENTRO DA LEI", meaning: "Margem de liberdade delimitada pelo texto legal e princípios." }
+      ],
+      caseTitle: `Caso Prático 02 • Desvio de Finalidade vs Excesso de Poder`,
+      caseScenario: `Autoridade competente pratica ato com motivação diversa daquela declarada oficialmente no processo administrativo.`,
+      caseTip: `Dica da Banca: A divergência entre o motivo real e o motivo alegado contamina o ato com vício de motivo ou finalidade, gerando nulidade ex tunc.`,
+      lawArt: { article: "Regramento Específico", text: `Os atos praticados com vício de competência ou desvio de finalidade são nulos de pleno direito.` },
+      question: {
+        id: 4002,
+        question: `No que tange às formalidades essenciais e à validade dos atos na disciplina de ${subjectName}, assinale a opção correta:`,
+        options: {
+          A: "A ausência de motivação em ato para o qual a lei exige justificativa formal enseja a sua nulidade.",
+          B: "Os atos discricionários estão totalmente imunes ao controle de legalidade pelo Poder Judiciário.",
+          C: "A competência legal pode ser delegada integralmente a particular sem previsão normativa.",
+          D: "A forma prescrita em lei pode ser dispensada pela autoridade a seu exclusivo critério.",
+          E: "Não cabe anulação de ato que contenha vício insanável de finalidade."
+        },
+        answer: "A",
+        explanation: "A motivação é elemento integrativo de validade dos atos vinculados e daqueles que restrinjam direitos, ensejando nulidade do ato em caso de omissão ou falsidade do motivo alegado."
+      }
+    },
+    {
+      mNum: 3,
+      title: `Tópicos Avançados, Hipóteses de Exceção & Controvérsias da Banca`,
+      p1Title: `Hipóteses de Exceção & Pontos Críticos em ${subjectName}`,
+      p1Lead: `Exame minucioso dos detalhes e exceções que constituem o núcleo dos itens eliminatórios.`,
+      p1Body: `Nos concursos de alto rendimento, o diferencial dos primeiros colocados reside no domínio das exceções às regras gerais e nos casos limítrofes.\n\nEm ${subjectName}, as exceções mais cobradas envolvem prazos decadenciais/prescrecionais diferenciados, regras de competência exclusiva indelegáveis e ressalvas expressas a princípios constitucionais.`,
+      p1Deep: `Atenção especial às vedações expressas em diplomas legais recentes e alterações legislativas introduzidas nos últimos 24 meses, que possuem altíssima taxa de conversão em questões inéditas de prova.`,
+      table: {
+        headers: ["Ponto Crítico", "Regra Geral", "Exceção Cobrada pela Banca", "Fundamentação"],
+        rows: [
+          ["Prazos de Recurso", "Prazo comum legal", "Prazo diferenciado para entes públicos", "Norma processual específica"],
+          ["Delegação de Atos", "Permitida em regra", "Indelegável: atos normativos e recursos", "Vedação legal expressa"],
+          ["Controle de Legalidade", "Não se convalida ato nulo", "Convalidação de atos com vícios sanáveis", "Princípio da Segurança Jurídica"]
+        ]
+      },
+      mnemonics: [
+        { code: "NÃO DELEGA = CE-NO-RA", meaning: "Competência Exclusiva, atos Normativos e decisão de Recursos Administrativos." },
+        { code: "CONVALIDAÇÃO = FO-CO", meaning: "Apenas vícios sanáveis de FORMA e COMPETÊNCIA (não exclusiva) admitem convalidação." }
+      ],
+      caseTitle: `Caso Prático 03 • Pegadinha de Competência Indelegável`,
+      caseScenario: `Dirigente de autarquia delega a servidor subordinado a competência para julgar recurso administrativo hierárquico.`,
+      caseTip: `Pegadinha Clássica: A decisão de recursos administrativos é INDELEGÁVEL por expressa disposição legal. O ato praticado pelo delegado é nulo por vício de competência.`,
+      lawArt: { article: "Regra de Indelegabilidade", text: "Não podem ser objeto de delegação: a edição de atos de caráter normativo; a decisão de recursos administrativos; as matérias de competência exclusiva." },
+      question: {
+        id: 4003,
+        question: `Em relação às matérias que NÃO admitem delegação de competência administrativa no ordenamento jurídico, assinale a opção correta:`,
+        options: {
+          A: "A decisão de recursos administrativos e a edição de atos normativos são indelegáveis.",
+          B: "Qualquer ato de gestão orçamentária pode ser livremente delegado a terceiro privado.",
+          C: "A homologação de licitações é privativa do Presidente da República.",
+          D: "A delegação de competência implica renúncia permanente à titularidade originária do poder.",
+          E: "Não é permitida a revogação do ato de delegação pela autoridade delegante."
+        },
+        answer: "A",
+        explanation: "São indelegáveis: 1) A edição de atos de caráter normativo; 2) A decisão de recursos administrativos; 3) As matérias de competência exclusiva do órgão ou autoridade."
+      }
+    },
+    {
+      mNum: 4,
+      title: `Jurisprudência Atualizada dos Tribunais Superiores & Súmulas Vinculantes`,
+      p1Title: `Jurisprudência Dominante do STF/STJ & Súmulas Aplicáveis a ${subjectName}`,
+      p1Lead: `Precedentes de observância obrigatória e teses de repercussão geral mais exigidas.`,
+      p1Body: `As bancas modernas como FGV, Cebraspe e Cesgranrio exigem não apenas a lei seca, mas a interpretação dada pelos tribunais superiores (STF, STJ e Tribunais de Contas).\n\nNeste módulo, analisamos as teses firmadas em sede de repercussão geral, súmulas vinculantes e informativos recentes que impactam a matéria de ${subjectName}.`,
+      p1Deep: `A jurisprudência sumulada tem força pacificadora nas provas. Quando a banca formula uma assertiva com a expressão 'conforme jurisprudência pacificada do STF', a resposta correta reproduz fielmente a tese sumulada.`,
+      table: {
+        headers: ["Enunciado / Súmula", "Tribunal", "Tese Consolidada", "Implicação para a Prova"],
+        rows: [
+          ["Súmula Vinculante", "STF", "Efeito vinculante para toda a Administração", "A banca considera item correto a literalidade da tese"],
+          ["Tema de Repercussão Geral", "STF", "Fixa tese jurídica obrigatória", "Muda o entendimento de leis anteriores"],
+          ["Súmula Dominante", "STJ", "Uniformiza interpretação da lei federal", "Cobrada nas questões dissertativas e objetivas"]
+        ]
+      },
+      mnemonics: [
+        { code: "SÚMULA VINCULANTE = VINCULA TODOS", meaning: "Obriga os órgãos do Poder Judiciário e a Administração Pública direta e indireta." },
+        { code: "LEI VS SÚMULA", meaning: "Se houver conflito, o entendimento firmado pelo STF em repercussão geral prevalece." }
+      ],
+      caseTitle: `Caso Prático 04 • Aplicação de Precedente Vinculante`,
+      caseScenario: `Órgão público recusa-se a cumprir tese firmada pelo STF em repercussão geral alegando que a lei ordinária ainda não foi formalmente alterada.`,
+      caseTip: `Dica de Ouro: A decisão do STF em controle concentrado ou repercussão geral produz eficácia contra todos (erga omnes) e efeito vinculante imediato para a Administração.`,
+      lawArt: { article: "CF/88, Art. 103-A", text: "O STF poderá, de ofício ou por provocação, mediante decisão de 2/3 dos seus membros, aprovar súmula que terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta." },
+      question: {
+        id: 4004,
+        question: `Quanto aos efeitos e à obrigatoriedade das súmulas vinculantes editadas pelo Supremo Tribunal Federal, assinale a afirmativa correta:`,
+        options: {
+          A: "A súmula vinculante obriga todos os órgãos do Poder Judiciário e a administração pública direta e indireta nas esferas federal, estadual e municipal.",
+          B: "As súmulas vinculantes possuem eficácia meramente persuasiva perante o Poder Executivo.",
+          C: "O Governador de Estado não está vinculado ao teor de súmula vinculante aprovada pelo STF.",
+          D: "O quórum para aprovação de súmula vinculante é de maioria simples dos ministros do STF.",
+          E: "Não cabe reclamação constitucional ao STF contra ato que descumpra súmula vinculante."
+        },
+        answer: "A",
+        explanation: "Conforme o art. 103-A da CF/88, a súmula vinculante tem eficácia imediata e vincula todos os órgãos do Poder Judiciário e a administração pública direta e indireta nas esferas federal, estadual e municipal."
+      }
+    },
+    {
+      mNum: 5,
+      title: `Revisão Reta Final, Síntese Estratégica & Fixação Extrema`,
+      p1Title: `Síntese de Reta Final & Mapeamento de Pontos Críticos em ${subjectName}`,
+      p1Lead: `Consolidação dos tópicos de maior taxa de acerto e eliminação de dúvidas residuais.`,
+      p1Body: `Na fase de reta final, o estudo deve priorizar a revisão ativa, a recapitulação de mnemônicos e o treino intensivo de questões comentadas.\n\nRevise a matriz de conceitos fundamentais de ${subjectName}, repasse os quadros comparativos e resolva a bateria de questões de fixação para sedimentar o conhecimento na memória de longo prazo.`,
+      p1Deep: `A técnica de repetição espaçada combinada com a resolução de itens simulados é o método com maior comprovação empírica de elevação da nota de corte nos certames públicos de alta concorrência.`,
+      table: {
+        headers: ["Tópico Central", "Regra de Ouro", "Pegadinha Frequente", "Gatilho de Memória"],
+        rows: [
+          ["Conceito e Princípios", "Interpretação sistemática", "Inversão de regra por exceção", "Foco no comando do item"],
+          ["Procedimentos e Atos", "Observância estrita da forma", "Delegação indevida", "COFIFOMOB"],
+          ["Precedentes e Súmulas", "Eficácia vinculante", "Jurisprudência superada", "Teses fixadas pelo STF"]
+        ]
+      },
+      mnemonics: [
+        { code: "LEITURA + REVISÃO + QUESTÕES", meaning: "O tripé da aprovação em concursos públicos de alto rendimento." }
+      ],
+      caseTitle: `Caso Prático 05 • Diagnóstico Rápido de Questão de Prova`,
+      caseScenario: `Candidato depara-se com assertiva extensa e complexa com termos absolutos ('nunca', 'sempre', 'em qualquer hipótese').`,
+      caseTip: `Gatilho de Prova: Termos generalizantes e absolutos possuem probabilidade superior a 85% de tornarem a assertiva INCORRETA nas provas da FGV e Cebraspe.`,
+      lawArt: { article: "Diretriz de Revisão", text: "A consistência diária nos blocos de estudo é o fator determinante para a retenção do conteúdo programático do edital." },
+      question: {
+        id: 4005,
+        question: `Durante a resolução de prova de concurso para o cargo pretendido, o candidato deve adotar qual das seguintes posturas metodológicas:`,
+        options: {
+          A: "Priorizar a análise atenta ao comando da questão e à literalidade dos dispositivos constitucionais e legais aplicáveis.",
+          B: "Assinalar a alternativa com base em intuição pessoal sem leitura atenta do enunciado.",
+          C: "Ignorar as exceções expressas na norma por considerá-las irrelevantes.",
+          D: "Desconsiderar o posicionamento sumulado da banca examinadora.",
+          E: "Deixar de revisar as questões antes de assinalar o cartão de respostas."
+        },
+        answer: "A",
+        explanation: "A leitura atenta do comando e o confronto com a literalidade dos dispositivos normativos e precedentes pacificadores constituem a melhor prática para obtenção de alto índice de acertos."
+      }
+    }
   ];
 
-  for (let m = 1; m <= total; m++) {
+  for (const cfg of moduleConfigs) {
     generated.push({
-      moduleNumber: m,
+      moduleNumber: cfg.mNum,
       totalModules: total,
-      title: moduleTitles[m - 1] || `Módulo 0${m}: Estudo Dirigido de ${subjectName}`,
+      title: cfg.title,
       bancaTrend: lesson.jurisprudenceNote,
       totalPages: 5,
       pages: [
         {
           pageNumber: 1,
-          pageTitle: `Seção 01 • Doutrina & Fundamentos Teóricos (Módulo ${m})`,
+          pageTitle: cfg.p1Title,
           category: 'Doutrina & Teoria',
-          leadText: `Compreensão conceitual dos pontos essenciais exigidos no edital para ${subjectName}.`,
-          bodyText: lesson.section1Body + (lesson.deepDiveText ? `\n\n${lesson.deepDiveText}` : ''),
-          deepDiveText: lesson.deepDiveText
+          leadText: cfg.p1Lead,
+          bodyText: cfg.p1Body,
+          deepDiveText: cfg.p1Deep
         },
         {
           pageNumber: 2,
-          pageTitle: `Seção 02 • Esquemas de Fixação & Mnemônicos (Módulo ${m})`,
+          pageTitle: `Esquemas Estruturais & Quadro Sinótico (Módulo 0${cfg.mNum})`,
           category: 'Esquemas & Tabelas',
-          leadText: `Memorização rápida dos termos-chave e regras mais cobradas pela banca.`,
-          bodyText: `Utilize as técnicas mnemônicas e a estrutura lógica abaixo para fixação duradoura na memória de longo prazo.`,
-          mnemonics: lesson.mnemonics
+          leadText: `Síntese visual dos critérios e mnemônicos de rápida retenção para ${subjectName}.`,
+          bodyText: `Utilize o quadro comparativo estruturado para fixar as distinções cobradas pela banca examinadora.`,
+          tableData: cfg.table,
+          mnemonics: cfg.mnemonics
         },
         {
           pageNumber: 3,
-          pageTitle: `Seção 03 • Casos Práticos & Pegadinhas Clássicas (Módulo ${m})`,
+          pageTitle: `Casos Concretos & Análise de Armadilhas da Banca (Módulo 0${cfg.mNum})`,
           category: 'Casos Práticos & Pegadinhas',
-          leadText: `Como a banca examinadora formula os itens e as armadilhas conceituais frequentes.`,
-          bodyText: `Atenção à troca de termos semelhantes e à inversão de regras gerais por exceções nos enunciados.`,
-          practicalCases: lesson.practicalCases || [
+          leadText: `Como os examinadores formulam as questões e onde os candidatos mais erram.`,
+          bodyText: `Analise o caso prático abaixo com base nos padrões recorrentes de formulação de enunciados.`,
+          practicalCases: [
             {
-              title: `Pegadinha Clássica da Banca em ${subjectName}`,
-              scenario: `A banca costuma inverter o sentido da norma geral apresentando uma exceção como regra absoluta.`,
-              tip: `Fique atento a palavras limitadoras como 'sempre', 'nunca', 'exclusivamente' e 'indelegável'.`
+              title: cfg.caseTitle,
+              scenario: cfg.caseScenario,
+              tip: cfg.caseTip
             }
           ]
         },
         {
           pageNumber: 4,
-          pageTitle: `Seção 04 • Artigos de Lei & Jurisprudência (Módulo ${m})`,
+          pageTitle: `Dispositivos Literais & Súmulas Obrigatórias (Módulo 0${cfg.mNum})`,
           category: 'Lei Seca & Súmulas',
-          leadText: `Dispositivos legais e súmulas de maior incidência para a disciplina ${subjectName}.`,
-          bodyText: `A literalidade da norma jurídica e o entendimento consolidado dos tribunais superiores.`,
-          lawArticles: lesson.lawArticles || [
-            { article: "Norma Fundamental", text: `Dispositivo legal e princípios reitores aplicáveis à matéria de ${subjectName}.` }
-          ]
+          leadText: `Artigos de ouro e jurisprudência vinculante para a matéria de ${subjectName}.`,
+          bodyText: `A literalidade da norma jurídica e o entendimento pacificado dos tribunais.`,
+          lawArticles: [cfg.lawArt]
         },
         {
           pageNumber: 5,
-          pageTitle: `Seção 05 • Treino de Fixação & Gabarito Comentado (Módulo ${m})`,
+          pageTitle: `Treino de Fixação & Gabarito Comentado (Módulo 0${cfg.mNum})`,
           category: 'Fixação & Questões',
-          leadText: `Resolva a questão comentada para testar seu domínio do conteúdo deste módulo.`,
-          bodyText: `Analise a assertiva com atenção ao comando da questão.`,
-          question: lesson.question
+          leadText: `Item comentado no padrão da banca para testar a assimilação deste módulo.`,
+          bodyText: `Resolva a questão e leia atentamente a justificativa do gabarito.`,
+          question: cfg.question
         }
       ]
     });

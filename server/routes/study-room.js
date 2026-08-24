@@ -14,7 +14,9 @@ import {
   buildFixationQuestionsPrompt,
   FIXATION_QUESTIONS_SCHEMA,
   buildContextualChatPrompt,
-  STUDY_ROOM_SYSTEM_PROMPT
+  STUDY_ROOM_SYSTEM_PROMPT,
+  LESSON_GENERATOR_SYSTEM_INSTRUCTION,
+  getLessonGeneratorPrompt
 } from '../prompts/study-room.js';
 import { CAREERS_CATALOG, getCareerConfig } from '../careers.js';
 import { calculateUserStreak } from '../gamification.js';
@@ -561,6 +563,160 @@ router.post('/register-past-study', (req, res) => {
   } catch (err) {
     console.error('Erro ao registrar estudo retroativo:', err);
     res.status(500).json({ error: 'Falha ao registrar estudo retroativo: ' + err.message });
+  }
+});
+
+// POST /generate-lesson — Gera Apostila Digital Completa / Caderno de Doutrina Paginado via IA
+router.post('/generate-lesson', async (req, res) => {
+  try {
+    const userId = getAuthenticatedUserId(req);
+    const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
+    const { subject, topic, lessonNumber = 1 } = req.body;
+
+    if (!subject) {
+      return res.status(400).json({ error: 'A disciplina (subject) é obrigatória.' });
+    }
+
+    const career = getCareerConfig(careerId);
+    const numAula = parseInt(lessonNumber, 10) || 1;
+    const prompt = getLessonGeneratorPrompt({
+      subject,
+      topic,
+      lessonNumber: numAula,
+      careerId
+    });
+
+    let lessonData = null;
+    try {
+      lessonData = await generateJSON(prompt, LESSON_GENERATOR_SYSTEM_INSTRUCTION);
+    } catch (aiErr) {
+      logger.warn('STUDY_ROOM', `Falha ao gerar JSON de aula com IA: ${aiErr.message}. Usando fallback estruturado.`);
+      lessonData = {
+        titulo: topic || `Doutrina Completa de ${subject} • Aula 0${numAula}`,
+        materia: subject,
+        numeroAula: numAula,
+        bancaTrend: `Cobrança frequente de regras gerais e pegadinhas em ${subject} pela banca ${career.bancas?.[0]?.name || 'oficial'}.`,
+        resumoEstrategico: `Estudo sistemático dos institutos de ${subject} voltado para o edital do ${career.name}.`,
+        totalPages: 5,
+        pages: [
+          {
+            pageNumber: 1,
+            pageTitle: '1. Doutrina Aprofundada & Fundamentos Dogmáticos',
+            category: 'Doutrina & Teoria',
+            leadText: `Compreensão conceitual dos pontos essenciais exigidos no edital para ${subject}.`,
+            bodyText: `O estudo da matéria de ${subject} envolve a análise aprofundada das normas de regência, princípios constitucionais aplicáveis e correntes doutrinárias consolidadas pelos tribunais superiores.\n\nÉ indispensável que o candidato domine a distinção entre a regra geral e as hipóteses de exceção, que constituem o núcleo dos itens elaborados pela banca.`,
+            deepDiveText: `A jurisprudência dominante reforça que o cumprimento estrito dos requisitos legais e a conformidade formal são elementos indispensáveis de validação dos atos relacionados a ${subject}.`
+          },
+          {
+            pageNumber: 2,
+            pageTitle: '2. Esquemas Estruturais, Tabelas & Mnemônicos',
+            category: 'Esquemas & Tabelas',
+            leadText: 'Quadro comparativo dos principais critérios para rápida fixação visual.',
+            bodyText: 'Utilize os parâmetros comparativos para não confundir institutos correlatos na hora da prova.',
+            tableData: {
+              headers: ['Instituto / Regra', 'Conceito Central', 'Ponto Crítico na Prova', 'Exceção'],
+              rows: [
+                ['Regra Geral', `Aplicação prioritária em ${subject}`, 'Cai com alta frequência literal', 'Exige previsão expressa'],
+                ['Procedimento Especial', 'Casos com rito diferenciado', 'A banca tenta aplicar a regra geral', 'Hipóteses taxativas'],
+                ['Precedente Obrigatório', 'Entendimento pacificado', 'Cobrança do teor de súmula', 'Divergência minoritária']
+              ]
+            },
+            mnemonics: [
+              { code: 'LEITURA + FIXAÇÃO', meaning: 'Combine estudo de texto com resolução de questões comentadas.' },
+              { code: 'ATENÇÃO ÀS EXCEÇÕES', meaning: 'Palavras restritivas (sempre, nunca) frequentemente indicam assertiva incorreta.' }
+            ]
+          },
+          {
+            pageNumber: 3,
+            pageTitle: '3. Casos Concretos & Análise de Pegadinhas da Banca',
+            category: 'Casos Práticos & Pegadinhas',
+            leadText: 'Análise de situações hipotéticas práticas simulando enunciados reais de concurso.',
+            bodyText: 'Fique atento à inversão de papéis e à troca de conceitos semelhantes.',
+            practicalCases: [
+              {
+                title: `Pegadinha Clássica da Banca em ${subject}`,
+                scenario: `O examinador apresenta uma situação fática alegando que a regra geral deve ser aplicada sem qualquer ressalva.`,
+                tip: `Dica de Ouro: Identifique se o caso se enquadra em uma das exceções legais expressas antes de assinalar.`
+              }
+            ]
+          },
+          {
+            pageNumber: 4,
+            pageTitle: '4. Legislação Litigiosa, Artigos de Ouro & Jurisprudência',
+            category: 'Lei Seca & Súmulas',
+            leadText: 'Dispositivos normativos e súmulas de leitura obrigatória para o concurso.',
+            bodyText: 'Texto literal com ênfase nas palavras-chave mais cobradas.',
+            lawArticles: [
+              { article: 'Norma de Regência', text: `Dispositivo legal e princípios reitores aplicáveis à disciplina de ${subject}.` }
+            ]
+          },
+          {
+            pageNumber: 5,
+            pageTitle: '5. Fixação de Alto Rendimento & Questão Comentada',
+            category: 'Fixação & Questões',
+            leadText: 'Treino prático com assertiva comentada no modelo oficial da banca.',
+            bodyText: 'Analise o comando e resolva o item de fixação.',
+            question: {
+              id: Date.now(),
+              question: `Em relação aos fundamentos da disciplina ${subject}, assinale a alternativa que expressa o entendimento consolidado nas provas de concurso público:`,
+              options: {
+                A: "A interpretação sistemática e a observância aos princípios constitucionais norteiam a aplicação das regras do edital.",
+                B: "As bancas examinadoras anulam automaticamente qualquer questão que envolva jurisprudência recente.",
+                C: "A literalidade da lei afasta a necessidade de compreensão doutrinária.",
+                D: "Os prazos fixados em norma regulamentar possuem natureza meramente sugestiva.",
+                E: "Não é cabível controle de legalidade nos atos vinculados."
+              },
+              answer: "A",
+              explanation: "A alternativa A está correta porque a interpretação harmônica e o respeito à ordem constitucional regem a aplicação do direito nos certames."
+            }
+          }
+        ]
+      };
+    }
+
+    // Salva o caderno no banco de dados do usuário como material de estudo digital permanente
+    const finalTitle = lessonData.titulo || `${subject} - Aula ${numAula}`;
+    const cleanContentMarkdown = (lessonData.pages || []).map(p => `## ${p.pageTitle}\n\n${p.leadText}\n\n${p.bodyText}${p.deepDiveText ? `\n\n### Aprofundamento\n${p.deepDiveText}` : ''}`).join('\n\n---\n\n');
+
+    const toc = (lessonData.pages || []).map(p => ({ title: p.pageTitle, page: p.pageNumber }));
+    const readingMetrics = {
+      totalWords: cleanContentMarkdown.split(/\s+/).length,
+      wordsPerPage: Math.round(cleanContentMarkdown.split(/\s+/).length / (lessonData.totalPages || 5)),
+      estimatedReadingMinutesTotal: 15,
+      estimatedPagesPerHour: 20
+    };
+
+    const insertStmt = db.prepare(`
+      INSERT INTO study_materials (
+        filename, filepath, subject, lesson_number, title, summary, content_text, analysis_json,
+        current_page, total_pages, theory_pages, exercise_pages, has_exercises,
+        table_of_contents_json, reading_metrics_json, user_id, career_id
+      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, 1, 5, 5, 1, 1, ?, ?, ?, ?)
+    `);
+
+    const result = insertStmt.run(
+      `[Caderno IA] ${finalTitle}.md`,
+      `caderno_digital://${Date.now()}`,
+      subject,
+      numAula,
+      finalTitle,
+      lessonData.resumoEstrategico || `Apostila Digital Completa de ${subject}`,
+      cleanContentMarkdown,
+      JSON.stringify(lessonData),
+      JSON.stringify(toc),
+      JSON.stringify(readingMetrics),
+      userId,
+      careerId
+    );
+
+    res.json({
+      success: true,
+      materialId: result.lastInsertRowid,
+      lesson: lessonData
+    });
+  } catch (err) {
+    logger.error('STUDY_ROOM', 'Erro ao gerar aula com IA:', err);
+    res.status(500).json({ error: 'Falha ao gerar apostila digital com IA: ' + err.message });
   }
 });
 

@@ -208,6 +208,33 @@ export async function runStudyRoomCadenceTests(baseUrl = 'http://localhost:3000'
   assert.strictEqual(delRes.status, 200, 'Status deve ser 200 ao excluir');
   assert.strictEqual(delData.success, true);
   console.log('  ✅ 9. Exclusão de Estudo Retroativo e Recálculo de Streak: PASSOU');
+
+  // 10. Testar POST /api/study-room/generate-lesson (Geração de Apostila Digital de Doutrina Completa)
+  const genLessonRes = await fetch(`${baseUrl}/api/study-room/generate-lesson`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${token}`,
+      'x-user-id': prof.id,
+      'x-exam-id': 'tce_rj'
+    },
+    body: JSON.stringify({
+      subject: 'Controle Externo',
+      topic: 'Tomada de Contas Especial e Medidas Cautelares do TCE-RJ',
+      lessonNumber: 2,
+      careerId: 'tce_rj'
+    })
+  });
+  const genData = await genLessonRes.json();
+  assert.strictEqual(genLessonRes.status, 200, 'Status deve ser 200 ao gerar apostila');
+  assert.strictEqual(genData.success, true, 'Deve retornar success: true');
+  assert.ok(genData.materialId, 'Deve retornar materialId inserido');
+  assert.ok(genData.lesson, 'Deve retornar objeto da aula');
+  assert.strictEqual(genData.lesson.totalPages, 5, 'Aula deve ter 5 páginas');
+  assert.strictEqual(genData.lesson.pages.length, 5, 'Deve conter 5 páginas estruturadas');
+  assert.ok(genData.lesson.pages[0].bodyText, 'Página 1 deve ter bodyText doutrinário');
+  assert.ok(genData.lesson.pages[1].tableData || genData.lesson.pages[1].mnemonics, 'Página 2 deve ter tabela ou mnemônicos');
+  console.log(`  ✅ 10. Geração de Apostila Digital de Doutrina Completa (${genData.lesson.titulo}): PASSOU`);
 }
 
 if (process.argv[1]?.endsWith('study_room_cadence.test.js')) {

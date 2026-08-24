@@ -232,6 +232,13 @@ export class ApiClient {
     });
   }
 
+  public generateLesson(data: { subject: string; topic?: string; lessonNumber?: number; careerId?: string }): Promise<any> {
+    return this.request<any>('/study-room/generate-lesson', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
   public registerStudy(data: {
     materialId?: number;
     subject?: string;

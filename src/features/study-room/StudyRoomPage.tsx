@@ -459,6 +459,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
   const [uploadedMaterials, setUploadedMaterials] = useState<CustomMaterial[]>([]);
   const [selectedCustomMaterial, setSelectedCustomMaterial] = useState<CustomMaterial | null>(null);
   const [filterBySelectedSubject, setFilterBySelectedSubject] = useState<boolean>(true);
+  const [isGeneratingAiLesson, setIsGeneratingAiLesson] = useState<boolean>(false);
 
   // Helpers to get minutes based on cadence preset
   const getReadingMinutes = () => {
@@ -523,6 +524,50 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
       }
     } catch (e) {
       console.warn('Erro ao buscar materiais:', e);
+    }
+  };
+
+  // Gerador de Caderno de Doutrina Paginado com IA
+  const handleGenerateAiLesson = async () => {
+    if (!selectedSubject || isGeneratingAiLesson) return;
+    setIsGeneratingAiLesson(true);
+    info('✨ Redigindo Doutrina Aprofundada', `Nossa IA Especialista está redigindo uma apostila de 5 páginas com doutrina, tabelas e pegadinhas para ${selectedSubject}...`);
+    try {
+      const res = await api.generateLesson({
+        subject: selectedSubject,
+        topic: currentModule?.title || `Módulo 0${selectedModuleNumber}: Estudo Dirigido de ${selectedSubject}`,
+        lessonNumber: selectedModuleNumber || 1,
+        careerId
+      });
+
+      if (res && res.success && res.materialId) {
+        success('✨ Caderno Concluído!', `Apostila aprofundada de ${selectedSubject} foi gerada e salva com sucesso.`);
+        await loadMaterials();
+        const newMat: CustomMaterial = {
+          id: res.materialId,
+          filename: `[Caderno IA] ${res.lesson?.titulo || selectedSubject}.md`,
+          subject: selectedSubject,
+          lesson_number: selectedModuleNumber || 1,
+          title: res.lesson?.titulo || `${selectedSubject} - Aula ${selectedModuleNumber || 1}`,
+          summary: res.lesson?.resumoEstrategico || `Apostila Digital de ${selectedSubject}`,
+          content_text: (res.lesson?.pages || []).map((p: any) => `## ${p.pageTitle}\n\n${p.leadText}\n\n${p.bodyText}${p.deepDiveText ? `\n\n### Aprofundamento\n${p.deepDiveText}` : ''}`).join('\n\n---\n\n'),
+          current_page: 1,
+          total_pages: 5,
+          theory_pages: 5,
+          exercise_pages: 1,
+          has_exercises: true,
+          caderno_enxuto: JSON.stringify(res.lesson)
+        };
+        setSelectedCustomMaterial(newMat);
+        setViewMode('notebook');
+        setCurrentPage(1);
+        scrollToReaderTop();
+      }
+    } catch (err: any) {
+      console.error('Erro ao gerar caderno:', err);
+      danger('Erro ao Gerar', err?.message || 'Não foi possível gerar a apostila com IA.');
+    } finally {
+      setIsGeneratingAiLesson(false);
     }
   };
 
@@ -608,9 +653,26 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
     pages: []
   };
 
-  const activePage: ModulePage | null = !selectedCustomMaterial 
-    ? getModulePage(selectedSubject, currentModule.moduleNumber, currentPage) 
-    : null;
+  const activePage: ModulePage | null = useMemo(() => {
+    if (!selectedCustomMaterial) {
+      return getModulePage(selectedSubject, currentModule.moduleNumber, currentPage);
+    }
+    
+    // Se for material com caderno estruturado em JSON
+    const rawJson = selectedCustomMaterial.caderno_enxuto || (selectedCustomMaterial as any).analysis_json;
+    if (rawJson) {
+      try {
+        const parsed = typeof rawJson === 'string' ? JSON.parse(rawJson) : rawJson;
+        if (parsed && Array.isArray(parsed.pages) && parsed.pages.length > 0) {
+          const pageIdx = Math.max(0, Math.min(currentPage - 1, parsed.pages.length - 1));
+          return parsed.pages[pageIdx] || null;
+        }
+      } catch (err) {
+        console.warn('Erro ao parsear páginas do caderno:', err);
+      }
+    }
+    return null;
+  }, [selectedCustomMaterial, selectedSubject, currentModule.moduleNumber, currentPage]);
 
   const lesson = getLessonContent(selectedSubject);
   const activeQuestion = activePage?.question || lesson.question;
@@ -1047,6 +1109,17 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
                   <BookOpen className="w-3.5 h-3.5" />
                   <span>📝 Caderno de Doutrina Paginado</span>
                 </button>
+
+                <button
+                  type="button"
+                  onClick={handleGenerateAiLesson}
+                  disabled={isGeneratingAiLesson}
+                  className="px-3 py-1.5 rounded-lg text-xs font-sans font-bold transition-all flex items-center gap-1.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white shadow-sm disabled:opacity-50 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-400"
+                  title="Gerar apostila digital completa de 5 páginas com doutrina densa, tabelas e pegadinhas da banca"
+                >
+                  <Sparkles className={`w-3.5 h-3.5 ${isGeneratingAiLesson ? 'animate-spin' : ''}`} />
+                  <span>{isGeneratingAiLesson ? 'Redigindo Apostila...' : '✨ Aprofundar com IA'}</span>
+                </button>
               </div>
 
               {/* Universal Badges */}
@@ -1283,9 +1356,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId, initialS
 
                   {/* Main Body Text */}
                   <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans whitespace-pre-line">
-                    {selectedCustomMaterial?.content_text 
-                      ? selectedCustomMaterial.content_text
-                      : (activePage ? activePage.bodyText : lesson.section1Body)}
+                    {activePage 
+                      ? activePage.bodyText 
+                      : (selectedCustomMaterial?.content_text || lesson.section1Body)}
                   </p>
 
                   {/* Deep Dive Box */}
